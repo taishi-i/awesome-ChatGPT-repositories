@@ -7,8 +7,10 @@
 A curated list of resources dedicated to open source GitHub repositories related to ChatGPT.
 
 This list was created based on 500+ extracted repositories after conducting six months of Twitter trend analysis. In addition, the contents of the list are automatically updated every week.
+A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) on Hugging Face Spaces.
 
-Your contributions are always welcome! Before contributing, please read the guidelines.
+
+Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
 
 ## Contents
