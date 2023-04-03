@@ -12,7 +12,7 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
 
-##Table of contents
+## Table of contents
  * [Awesome-lists](#Awesome-lists)
  * [Prompts](#Prompts)
  * [Chatbots](#Chatbots)
@@ -42,8 +42,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/reorx/awesome-chatgpt-api?style=social)|
@@ -55,7 +53,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-chatgpt-plugins?style=social)|
 |[awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/OpenMindClub/awesome-chatgpt?style=social)|
 |[awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/awesome-chatgpt?style=social)|
-</details>
 
 
 ## Prompts
@@ -97,8 +94,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - 50 use cases of ChatGPT for research work
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mpoon/gpt-repository-loader?style=social)|
@@ -136,7 +131,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[squidgy-prompts](https://github.com/squidgyai/squidgy-prompts)|-|Creative Commons Attribution Share Alike 4.0 International|![GitHub Repo stars](https://img.shields.io/github/stars/squidgyai/squidgy-prompts?style=social)|
 |[ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/0xk1h0/ChatGPT_DAN?style=social)|
 |[ResearchChatGPT](https://github.com/hollobit/researchchatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/ResearchChatGPT?style=social)|
-</details>
 
 
 ## Chatbots
@@ -208,8 +202,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [wechatbot](https://github.com/djun/wechatbot) - 为个人微信接入ChatGPT
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[gpt4all](https://github.com/nomic-ai/gpt4all)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)|
@@ -277,7 +269,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[HeyChatGPT](https://github.com/ynagatomo/heychatgpt)|Swift|-|![GitHub Repo stars](https://img.shields.io/github/stars/ynagatomo/HeyChatGPT?style=social)|
 |[askgpt.vim](https://github.com/macrat/askgpt.vim)|Vim Script|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/macrat/askgpt.vim?style=social)|
 |[wechatbot](https://github.com/djun/wechatbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/djun/wechatbot?style=social)|
-</details>
 
 
 ## Browser-extensions
@@ -311,8 +302,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension) - Sample CSV file
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension?style=social)|
@@ -342,7 +331,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[ChatGPT_Extension](https://github.com/kazuki-sf/chatgpt_extension)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kazuki-sf/ChatGPT_Extension?style=social)|
 |[ChatGPT](https://github.com/wieslawsoltes/chatgpt)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/wieslawsoltes/ChatGPT?style=social)|
 |[openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/1997roylee/openai-chatgpt-everywhere-extension?style=social)|
-</details>
 
 
 ## CLIs
@@ -402,8 +390,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [hfuzz](https://github.com/thehlopster/hfuzz) - Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[ChatGPT](https://github.com/acheong08/chatgpt)|Python|GNU General Public License v2.0|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/ChatGPT?style=social)|
@@ -459,7 +445,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[openai-java](https://github.com/theokanning/openai-java)|Java|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TheoKanning/openai-java?style=social)|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|
 |[hfuzz](https://github.com/thehlopster/hfuzz)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|
-</details>
 
 
 ## Reimplementations
@@ -477,8 +462,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/lucidrains/PaLM-rlhf-pytorch?style=social)|
@@ -492,7 +475,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|Jupyter Notebook|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NouamaneTazi/bloomz.cpp?style=social)|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|Swift|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|
-</details>
 
 
 ## Tutorials
@@ -503,15 +485,12 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [X-Decoder](https://github.com/microsoft/x-decoder) - Tutorials and programming exercises for learning Q# and quantum computing
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[Hello-Python](https://github.com/mouredev/hello-python)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mouredev/Hello-Python?style=social)|
 |[notebooks](https://github.com/dataflowr/notebooks)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/dataflowr/notebooks?style=social)|
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|
-</details>
 
 
 ## NLP
@@ -582,8 +561,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [practical-llms](https://github.com/aggregate-intellect/practical-llms) - #aiscllmworkshopa quick way to go from zero to dangerous (like, be able to confidently bullshit like chatgpt, but also quickly ramp up on how to go from idea to product with the latest &amp; greatest in llm, with 9 continuous hours of hour-long presentations! 
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|
@@ -650,7 +627,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[gpt-3](https://github.com/openai/gpt-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/openai/gpt-3?style=social)|
 |[siri-chatgpt](https://github.com/liujch1998/siri-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liujch1998/siri-chatgpt?style=social)|
 |[practical-llms](https://github.com/aggregate-intellect/practical-llms)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/Aggregate-Intellect/practical-llms?style=social)|
-</details>
 
 
 ## Langchain
@@ -680,8 +656,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[langchain](https://github.com/hwchase17/langchain)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)|
@@ -707,7 +681,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[llama.cpp](https://github.com/ggerganov/llama.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)|
 |[llama-dl](https://github.com/shawwn/llama-dl)|Shell|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/shawwn/llama-dl?style=social)|
 |[dalai](https://github.com/cocktailpeanut/dalai)|CSS|-|![GitHub Repo stars](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social)|
-</details>
 
 
 ## Unity
@@ -721,8 +694,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - Few examples with Chat GPT In Unity
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[ChatAI](https://github.com/diegocambiaso/chatai)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/diegocambiaso/ChatAI?style=social)|
@@ -732,7 +703,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[ChatGPT-API-unity](https://github.com/mochi-neko/chatgpt-api-unity)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mochi-neko/ChatGPT-API-unity?style=social)|
 |[OpenAI-Unity](https://github.com/srcnalt/openai-unity)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/srcnalt/OpenAI-Unity?style=social)|
 |[UnityChatGPT](https://github.com/dilmerv/unitychatgpt)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/dilmerv/UnityChatGPT?style=social)|
-</details>
 
 
 ## Openai
@@ -802,8 +772,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [berri_ai](https://github.com/clerkieai/berri_ai) - @0xskay @openai @gpt_index @jerryjliu0 @ravithejads are you asking why am i using openai? oh it's just the 80% case, and just want to make sure the pipes work for the broad use case feel free to test  any other endpoint and let me know if you face issues.
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[BlenderGPT](https://github.com/gd3kr/blendergpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/gd3kr/BlenderGPT?style=social)|
@@ -869,7 +837,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reewardius/bbFuzzing.txt?style=social)|
 |[chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/chat-with-chatgpt?style=social)|
 |[berri_ai](https://github.com/clerkieai/berri_ai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ClerkieAI/berri_ai?style=social)|
-</details>
 
 
 ## Others
@@ -1018,8 +985,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [bms](https://github.com/hedcet/bms) - #topgunmaverick #jan20fri collection 13,689₹, 35% occupancy (117/331), 2 shows, 2 cinemas #nationalcapitalregionncr  
 
 
-<details>
-<summary>Language/License/GitHub Stars</summary>
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[visual-chatgpt](https://github.com/microsoft/visual-chatgpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)|
@@ -1164,6 +1129,5 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[feishu-chatGpt](https://github.com/leizhenpeng/feishu-chatgpt)|-|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Leizhenpeng/feishu-chatGpt?style=social)|
 |[minlora](https://github.com/cccntu/minlora)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cccntu/minlora?style=social)|
 |[bms](https://github.com/hedcet/bms)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/HedCET/bms?style=social)|
-</details>
 
 
