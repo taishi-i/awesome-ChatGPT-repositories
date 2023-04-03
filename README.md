@@ -9,11 +9,10 @@ A curated list of resources dedicated to open source GitHub repositories related
 This list was created based on 500+ extracted repositories after conducting six months of Twitter trend analysis. In addition, the contents of the list are automatically updated every week.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) on Hugging Face Spaces.
 
-
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
 
-## Contents
+##Table of contents
  * [Awesome-lists](#Awesome-lists)
  * [Prompts](#Prompts)
  * [Chatbots](#Chatbots)
@@ -43,7 +42,9 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/reorx/awesome-chatgpt-api?style=social)|
 |[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|HTML|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social)|
@@ -54,12 +55,14 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-chatgpt-plugins?style=social)|
 |[awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/OpenMindClub/awesome-chatgpt?style=social)|
 |[awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/awesome-chatgpt?style=social)|
+</details>
 
 
 ## Prompts
 
  * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
  * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReader is a bot on Slack that can read and summarize any webpage, documents including ebooks, or even videos from YouTube. It can communicate with you through voice.
+ * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
  * [chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine) - @realtimeai someone tried to make a self-improving prompt with chatgpt a few weeks back. it only took 11 generations for it to collapse into a... pathological mode. 
  * [blender_jarvis](https://github.com/dene33/blender_jarvis) - Control Blender through text prompts with help of ChatGPT
  * [Promptify](https://github.com/promptslab/promptify) - Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research
@@ -72,6 +75,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - Clone of ChatGPT, uses official model & Bing, reverse-engineered UI, with AI model switching, message search, and prompt templates (WIP)
  * [ChatGPT-Prompt-Genius](https://github.com/benf2004/chatgpt-prompt-genius) - get your creative juices flowing not only with the prompts but feel free to contribute to this open source project too #chatgpt #gpt4 #chatgptprompts 
  * [ChatGPT-Adventure](https://github.com/capnmidnight/chatgpt-adventure) - A starting prompt for ChatGPT to create a text-adventure game
+ * [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
  * [chatbox](https://github.com/bin-huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.  开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
  * [ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
  * [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
@@ -93,10 +97,13 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - 50 use cases of ChatGPT for research work
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mpoon/gpt-repository-loader?style=social)|
 |[myGPTReader](https://github.com/madawei2699/mygptreader)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/madawei2699/myGPTReader?style=social)|
+|[PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PromptCraft-Robotics?style=social)|
 |[chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/fullthom/chat-gpt-quine?style=social)|
 |[blender_jarvis](https://github.com/dene33/blender_jarvis)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/Dene33/blender_jarvis?style=social)|
 |[Promptify](https://github.com/promptslab/promptify)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)|
@@ -109,6 +116,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[chatgpt-clone](https://github.com/danny-avila/chatgpt-clone)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/danny-avila/chatgpt-clone?style=social)|
 |[ChatGPT-Prompt-Genius](https://github.com/benf2004/chatgpt-prompt-genius)|JavaScript|Other|![GitHub Repo stars](https://img.shields.io/github/stars/benf2004/ChatGPT-Prompt-Genius?style=social)|
 |[ChatGPT-Adventure](https://github.com/capnmidnight/chatgpt-adventure)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/capnmidnight/ChatGPT-Adventure?style=social)|
+|[chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced?style=social)|
 |[chatbox](https://github.com/bin-huang/chatbox)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)|
 |[ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social)|
 |[promptable](https://github.com/cfortuner/promptable)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cfortuner/promptable?style=social)|
@@ -128,6 +136,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[squidgy-prompts](https://github.com/squidgyai/squidgy-prompts)|-|Creative Commons Attribution Share Alike 4.0 International|![GitHub Repo stars](https://img.shields.io/github/stars/squidgyai/squidgy-prompts?style=social)|
 |[ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/0xk1h0/ChatGPT_DAN?style=social)|
 |[ResearchChatGPT](https://github.com/hollobit/researchchatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/ResearchChatGPT?style=social)|
+</details>
 
 
 ## Chatbots
@@ -155,6 +164,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [FastChat](https://github.com/lm-sys/fastchat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
  * [chatgpt-tegram-bot](https://github.com/nukeador/chatgpt-tegram-bot) - A simple bot for Telegram that allows interaction with ChatGPT (with voice notes and support for generating images).
  * [ChatGeoPT](https://github.com/earth-genome/chatgeopt) - A very basic, very brittle proof of concept for an AI assistant for geospatial search
+ * [ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin) - This is a trading script for KuCoin that continuously places buy and sell orders based on market data and a predictive model generated by OpenAI's GPT-3.5 language model.
  * [marvin](https://github.com/prefecthq/marvin) - 🤖🪄 A batteries-included library for GPT-powered bots and AI functions
  * [ChatDoctor](https://github.com/kent0n-li/chatdoctor) - 医療特化aiチャット「chatdoctor」chatgptも使ってモデルをトレーニングしてる様子全コードとデータセット、モデルの重みがオープンソース化する予定らしい..！
  * [chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
@@ -189,6 +199,8 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [chatgpt-android](https://github.com/skydoves/chatgpt-android) - 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
  * [gpt-voice-chat](https://github.com/kmizu/gpt-voice-chat) - A real voice chat with ChatGPT AI
  * [chatgpt](https://github.com/jcrodriguez1989/chatgpt) - Interface to ChatGPT from R
+ * [ChatdollKit](https://github.com/uezo/chatdollkit) - ChatdollKit enables you to make your 3D model into a chatbot
+ * [unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge) - unity上からvoicevoxと連携して合成音声を簡単に再生できるシンプルなライブラリ作ってみました！chatgpt apiとかのお供に！
  * [gortanagtp](https://github.com/dasdata/gortanagtp) - Console Application with Voice and Text Interaction Latest ChatGPT API 
  * [ChatGPT.nvim](https://github.com/jackmort/chatgpt.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
  * [HeyChatGPT](https://github.com/ynagatomo/heychatgpt) - A minimal iOS app that interacts with ChatGPT by your voice.
@@ -196,7 +208,9 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [wechatbot](https://github.com/djun/wechatbot) - 为个人微信接入ChatGPT
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[gpt4all](https://github.com/nomic-ai/gpt4all)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)|
 |[Open-Assistant](https://github.com/laion-ai/open-assistant)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social)|
@@ -221,6 +235,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[FastChat](https://github.com/lm-sys/fastchat)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)|
 |[chatgpt-tegram-bot](https://github.com/nukeador/chatgpt-tegram-bot)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/nukeador/chatgpt-tegram-bot?style=social)|
 |[ChatGeoPT](https://github.com/earth-genome/chatgeopt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/earth-genome/ChatGeoPT?style=social)|
+|[ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/krecicki/ChatGPT-Trading-Bot-for-KuCoin?style=social)|
 |[marvin](https://github.com/prefecthq/marvin)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)|
 |[ChatDoctor](https://github.com/kent0n-li/chatdoctor)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor?style=social)|
 |[chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hello-SimpleAI/chatgpt-comparison-detection?style=social)|
@@ -255,11 +270,14 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[chatgpt-android](https://github.com/skydoves/chatgpt-android)|Kotlin|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/chatgpt-android?style=social)|
 |[gpt-voice-chat](https://github.com/kmizu/gpt-voice-chat)|Scala|-|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/gpt-voice-chat?style=social)|
 |[chatgpt](https://github.com/jcrodriguez1989/chatgpt)|R|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/jcrodriguez1989/chatgpt?style=social)|
+|[ChatdollKit](https://github.com/uezo/chatdollkit)|C#|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/uezo/ChatdollKit?style=social)|
+|[unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mikito/unity-voicevox-bridge?style=social)|
 |[gortanagtp](https://github.com/dasdata/gortanagtp)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/dasdata/gortanagtp?style=social)|
 |[ChatGPT.nvim](https://github.com/jackmort/chatgpt.nvim)|Lua|-|![GitHub Repo stars](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim?style=social)|
 |[HeyChatGPT](https://github.com/ynagatomo/heychatgpt)|Swift|-|![GitHub Repo stars](https://img.shields.io/github/stars/ynagatomo/HeyChatGPT?style=social)|
 |[askgpt.vim](https://github.com/macrat/askgpt.vim)|Vim Script|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/macrat/askgpt.vim?style=social)|
 |[wechatbot](https://github.com/djun/wechatbot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/djun/wechatbot?style=social)|
+</details>
 
 
 ## Browser-extensions
@@ -278,7 +296,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
  * [simpread](https://github.com/kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
  * [chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page) - 一个 Chrome 浏览器插件，通过 ChatGPT 来自动响应微信私信或群聊中 @你 的消息的智能聊天机器人
- * [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
  * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
  * [openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
  * [browser-extension](https://github.com/taxyai/browser-extension) - Automate your browser with GPT-4
@@ -294,7 +311,9 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension) - Sample CSV file
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension?style=social)|
 |[natbot](https://github.com/nat/natbot)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nat/natbot?style=social)|
@@ -310,7 +329,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kazuki-sf/YouTube_Summary_with_ChatGPT?style=social)|
 |[simpread](https://github.com/kenshin/simpread)|JavaScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Kenshin/simpread?style=social)|
 |[chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/1cloudy/chatgpt-wechat-landing-page?style=social)|
-|[chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced?style=social)|
 |[chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/mpociot/chatgpt-vscode?style=social)|
 |[openai-translator](https://github.com/yetone/openai-translator)|TypeScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)|
 |[browser-extension](https://github.com/taxyai/browser-extension)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TaxyAI/browser-extension?style=social)|
@@ -324,6 +342,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[ChatGPT_Extension](https://github.com/kazuki-sf/chatgpt_extension)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kazuki-sf/ChatGPT_Extension?style=social)|
 |[ChatGPT](https://github.com/wieslawsoltes/chatgpt)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/wieslawsoltes/ChatGPT?style=social)|
 |[openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/1997roylee/openai-chatgpt-everywhere-extension?style=social)|
+</details>
 
 
 ## CLIs
@@ -343,8 +362,10 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [wanna](https://github.com/hirokidaichi/wanna) - Shell command launcher with natural language
  * [datasetGPT](https://github.com/radi-cho/datasetgpt) - A command-line interface to generate textual and conversational datasets with LLMs.
  * [chatgpt-cli](https://github.com/j178/chatgpt-cli) - fanfou bots
+ * [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
  * [chat-gpt-cli](https://github.com/jseguillon/chat-gpt-cli) - PhantomJS QUnit testrunner which export results to JUnit XML format and coverage to Cobertura XML format to use with CI tools like Jenkins.
  * [terminalGPT](https://github.com/jucasoliveira/terminalgpt) - Get GPT like chatGPT on your terminal
+ * [chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets) - [new] #chatgpt in sheets! 🤯integrate the #chatgpt #api in @googlesheets in a few clicks, @1littlecoder shows you how!use cases: #seo, #socialmedia, #marketing, you name it! 🔥- tutorial:  code:  cost: $2/million tokens! 🙃 
  * [gptsh](https://github.com/shorwood/gptsh) - GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
  * [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
  * [ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
@@ -373,6 +394,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [PowerShellAI](https://github.com/dfinke/powershellai) - PowerShell AI module for OpenAI GPT-3 and DALL-E
  * [chatGPT-shell-cli](https://github.com/0xacx/chatgpt-shell-cli) - Simple shell script to use OpenAI's ChatGPT and DALL-E from the terminal. No Python or JS required.
  * [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - Minimal ChatGPT and DALL-E Emacs shells
+ * [client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
  * [chatgpt-ui](https://github.com/wongsaang/chatgpt-ui) - A ChatGPT web client that supports multiple users, multiple database connections for persistent data storage, supports i18n. Provides Docker images and quick deployment scripts.
  * [slickgpt](https://github.com/shipbit/slickgpt) - SlickGPT is a light-weight "use-your-own-API-key" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.
  * [openai-java](https://github.com/theokanning/openai-java) - OpenAI GPT-3 Api Client in Java
@@ -380,7 +402,9 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [hfuzz](https://github.com/thehlopster/hfuzz) - Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[ChatGPT](https://github.com/acheong08/chatgpt)|Python|GNU General Public License v2.0|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/ChatGPT?style=social)|
 |[shell_gpt](https://github.com/ther1d/shell_gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TheR1D/shell_gpt?style=social)|
@@ -397,8 +421,10 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[wanna](https://github.com/hirokidaichi/wanna)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hirokidaichi/wanna?style=social)|
 |[datasetGPT](https://github.com/radi-cho/datasetgpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)|
 |[chatgpt-cli](https://github.com/j178/chatgpt-cli)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/j178/chatgpt-cli?style=social)|
+|[node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/waylaidwanderer/node-chatgpt-api?style=social)|
 |[chat-gpt-cli](https://github.com/jseguillon/chat-gpt-cli)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/jseguillon/chat-gpt-cli?style=social)|
 |[terminalGPT](https://github.com/jucasoliveira/terminalgpt)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jucasoliveira/terminalGPT?style=social)|
+|[chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/amrrs/chatgpt-gsheets?style=social)|
 |[gptsh](https://github.com/shorwood/gptsh)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/shorwood/gptsh?style=social)|
 |[chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/transitive-bullshit/chatgpt-api?style=social)|
 |[ai-cli](https://github.com/abhagsain/ai-cli)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/abhagsain/ai-cli?style=social)|
@@ -427,11 +453,13 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[PowerShellAI](https://github.com/dfinke/powershellai)|PowerShell|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/PowerShellAI?style=social)|
 |[chatGPT-shell-cli](https://github.com/0xacx/chatgpt-shell-cli)|Shell|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/0xacx/chatGPT-shell-cli?style=social)|
 |[chatgpt-shell](https://github.com/xenodium/chatgpt-shell)|Emacs Lisp|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/xenodium/chatgpt-shell?style=social)|
+|[client](https://github.com/openai-php/client)|PHP|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai-php/client?style=social)|
 |[chatgpt-ui](https://github.com/wongsaang/chatgpt-ui)|Vue|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/WongSaang/chatgpt-ui?style=social)|
 |[slickgpt](https://github.com/shipbit/slickgpt)|Svelte|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ShipBit/slickgpt?style=social)|
 |[openai-java](https://github.com/theokanning/openai-java)|Java|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TheoKanning/openai-java?style=social)|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|
 |[hfuzz](https://github.com/thehlopster/hfuzz)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|
+</details>
 
 
 ## Reimplementations
@@ -445,12 +473,13 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [SpikeGPT](https://github.com/ridgerchu/spikegpt) - Implementation of "SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks"
  * [ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
  * [large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism) - Functional local implementations of main model parallelism approaches
- * [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
  * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - C++ implementation for BLOOM
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/lucidrains/PaLM-rlhf-pytorch?style=social)|
 |[minGPT](https://github.com/karpathy/mingpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/minGPT?style=social)|
@@ -461,9 +490,9 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[SpikeGPT](https://github.com/ridgerchu/spikegpt)|Python|BSD 2-Clause "Simplified" License|![GitHub Repo stars](https://img.shields.io/github/stars/ridgerchu/SpikeGPT?style=social)|
 |[ml-ane-transformers](https://github.com/apple/ml-ane-transformers)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/apple/ml-ane-transformers?style=social)|
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|Jupyter Notebook|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|
-|[node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/waylaidwanderer/node-chatgpt-api?style=social)|
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NouamaneTazi/bloomz.cpp?style=social)|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|Swift|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|
+</details>
 
 
 ## Tutorials
@@ -472,16 +501,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [notebooks](https://github.com/dataflowr/notebooks) - code for deep learning courses
  * [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 🔥gpt4all (the best chatgpt clone) running locally and on colab tutorial -  -  to @camenduru's colab -  
  * [X-Decoder](https://github.com/microsoft/x-decoder) - Tutorials and programming exercises for learning Q# and quantum computing
- * [chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets) - [new] #chatgpt in sheets! 🤯integrate the #chatgpt #api in @googlesheets in a few clicks, @1littlecoder shows you how!use cases: #seo, #socialmedia, #marketing, you name it! 🔥- tutorial:  code:  cost: $2/million tokens! 🙃 
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[Hello-Python](https://github.com/mouredev/hello-python)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mouredev/Hello-Python?style=social)|
 |[notebooks](https://github.com/dataflowr/notebooks)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/dataflowr/notebooks?style=social)|
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|
-|[chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/amrrs/chatgpt-gsheets?style=social)|
+</details>
 
 
 ## NLP
@@ -522,7 +552,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
  * [unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
  * [LAVIS](https://github.com/salesforce/lavis) - LAVIS - A One-stop Library for Language-Vision Intelligence
- * [ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin) - This is a trading script for KuCoin that continuously places buy and sell orders based on market data and a predictive model generated by OpenAI's GPT-3.5 language model.
  * [haltt4llm](https://github.com/manyoso/haltt4llm) - This project is an attempt to create a common metric to test LLM's for progress in eliminating hallucinations which is the most serious current problem in widespread adoption of LLM's for many real purposes.
  * [paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
  * [guardrails](https://github.com/shreyar/guardrails) - Adding guardrails to large language models.
@@ -553,7 +582,9 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [practical-llms](https://github.com/aggregate-intellect/practical-llms) - #aiscllmworkshopa quick way to go from zero to dangerous (like, be able to confidently bullshit like chatgpt, but also quickly ramp up on how to go from idea to product with the latest &amp; greatest in llm, with 9 continuous hours of hour-long presentations! 
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|
 |[BioGPT](https://github.com/microsoft/biogpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/BioGPT?style=social)|
@@ -591,7 +622,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[trl](https://github.com/lvwerra/trl)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lvwerra/trl?style=social)|
 |[unilm](https://github.com/microsoft/unilm)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/unilm?style=social)|
 |[LAVIS](https://github.com/salesforce/lavis)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/salesforce/LAVIS?style=social)|
-|[ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/krecicki/ChatGPT-Trading-Bot-for-KuCoin?style=social)|
 |[haltt4llm](https://github.com/manyoso/haltt4llm)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/manyoso/haltt4llm?style=social)|
 |[paper-qa](https://github.com/whitead/paper-qa)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)|
 |[guardrails](https://github.com/shreyar/guardrails)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/shreyar/guardrails?style=social)|
@@ -620,6 +650,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[gpt-3](https://github.com/openai/gpt-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/openai/gpt-3?style=social)|
 |[siri-chatgpt](https://github.com/liujch1998/siri-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liujch1998/siri-chatgpt?style=social)|
 |[practical-llms](https://github.com/aggregate-intellect/practical-llms)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/Aggregate-Intellect/practical-llms?style=social)|
+</details>
 
 
 ## Langchain
@@ -649,7 +680,9 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[langchain](https://github.com/hwchase17/langchain)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain?style=social)|
 |[text-generation-webui](https://github.com/oobabooga/text-generation-webui)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=social)|
@@ -674,36 +707,32 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[llama.cpp](https://github.com/ggerganov/llama.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)|
 |[llama-dl](https://github.com/shawwn/llama-dl)|Shell|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/shawwn/llama-dl?style=social)|
 |[dalai](https://github.com/cocktailpeanut/dalai)|CSS|-|![GitHub Repo stars](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social)|
+</details>
 
 
 ## Unity
 
- * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
  * [ChatAI](https://github.com/diegocambiaso/chatai) - Mozilla community directory -- A centralized directory of all Mozilla contributors!
  * [llama-hub](https://github.com/emptycrown/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with GPT Index and/or LangChain
  * [AICommand](https://github.com/keijiro/aicommand) - ChatGPT integration with Unity Editor
  * [AIShader](https://github.com/keijiro/aishader) - ChatGPT-powered shader generator for Unity
- * [ChatdollKit](https://github.com/uezo/chatdollkit) - ChatdollKit enables you to make your 3D model into a chatbot
  * [ChatGPT-API-unity](https://github.com/mochi-neko/chatgpt-api-unity) - Binds ChatGPT chat completion API to pure C# on Unity.
  * [OpenAI-Unity](https://github.com/srcnalt/openai-unity) - An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine.
- * [unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge) - unity上からvoicevoxと連携して合成音声を簡単に再生できるシンプルなライブラリ作ってみました！chatgpt apiとかのお供に！
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - Few examples with Chat GPT In Unity
- * [client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
-|[PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PromptCraft-Robotics?style=social)|
 |[ChatAI](https://github.com/diegocambiaso/chatai)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/diegocambiaso/ChatAI?style=social)|
 |[llama-hub](https://github.com/emptycrown/llama-hub)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)|
 |[AICommand](https://github.com/keijiro/aicommand)|C#|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/keijiro/AICommand?style=social)|
 |[AIShader](https://github.com/keijiro/aishader)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/keijiro/AIShader?style=social)|
-|[ChatdollKit](https://github.com/uezo/chatdollkit)|C#|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/uezo/ChatdollKit?style=social)|
 |[ChatGPT-API-unity](https://github.com/mochi-neko/chatgpt-api-unity)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mochi-neko/ChatGPT-API-unity?style=social)|
 |[OpenAI-Unity](https://github.com/srcnalt/openai-unity)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/srcnalt/OpenAI-Unity?style=social)|
-|[unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mikito/unity-voicevox-bridge?style=social)|
 |[UnityChatGPT](https://github.com/dilmerv/unitychatgpt)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/dilmerv/UnityChatGPT?style=social)|
-|[client](https://github.com/openai-php/client)|PHP|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai-php/client?style=social)|
+</details>
 
 
 ## Openai
@@ -773,7 +802,9 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [berri_ai](https://github.com/clerkieai/berri_ai) - @0xskay @openai @gpt_index @jerryjliu0 @ravithejads are you asking why am i using openai? oh it's just the 80% case, and just want to make sure the pipes work for the broad use case feel free to test  any other endpoint and let me know if you face issues.
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[BlenderGPT](https://github.com/gd3kr/blendergpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/gd3kr/BlenderGPT?style=social)|
 |[evals](https://github.com/openai/evals)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/evals?style=social)|
@@ -838,6 +869,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reewardius/bbFuzzing.txt?style=social)|
 |[chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/chat-with-chatgpt?style=social)|
 |[berri_ai](https://github.com/clerkieai/berri_ai)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ClerkieAI/berri_ai?style=social)|
+</details>
 
 
 ## Others
@@ -986,7 +1018,9 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [bms](https://github.com/hedcet/bms) - #topgunmaverick #jan20fri collection 13,689₹, 35% occupancy (117/331), 2 shows, 2 cinemas #nationalcapitalregionncr  
 
 
-|Name|Language|License|Stars
+<details>
+<summary>Language/License/GitHub Stars</summary>
+|Name|Language|License|GitHub Stars|
 -|-|-|-
 |[visual-chatgpt](https://github.com/microsoft/visual-chatgpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)|
 |[nanoGPT](https://github.com/karpathy/nanogpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/nanoGPT?style=social)|
@@ -1130,5 +1164,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[feishu-chatGpt](https://github.com/leizhenpeng/feishu-chatgpt)|-|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Leizhenpeng/feishu-chatGpt?style=social)|
 |[minlora](https://github.com/cccntu/minlora)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cccntu/minlora?style=social)|
 |[bms](https://github.com/hedcet/bms)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/HedCET/bms?style=social)|
+</details>
 
 
