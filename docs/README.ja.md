@@ -9,6 +9,8 @@
 これらのリポジトリを[検索するためのツール](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)はHugging Face Spacesで利用できます。
 
 あなたの貢献をいつでも歓迎します！貢献する前に、[ガイドライン](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md)をお読みください。
+
+
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) / [日本語(Japanese)](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md)
 
 ## Table of contents
