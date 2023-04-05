@@ -4,11 +4,9 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-[ChatGPT](https://openai.com/blog/chatgpt)に関連するオープンソースのGitHubリポジトリを厳選したリストです。
-このリストは、Twitterのトレンド分析を6ヶ月間行った結果、抽出された500以上のリポジトリを元に作成されました。リストの内容は毎週自動的に更新されます。
-これらのリポジトリを[検索するためのツール](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)はHugging Face Spacesで利用できます。
-
-あなたの貢献をいつでも歓迎します！貢献する前に、[ガイドライン](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md)をお読みください。
+關於 [ChatGPT](https://openai.com/blog/chatgpt) 的公開 GitHub 資料庫的資源
+此清單是建立在 500+ 抽取資料庫的基礎上,在進行六個月的 Twitter 趨勢分析後. 此外,清單的內容每週都自動更新.
+搜尋這些資料庫的[工具](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md)可在 Hugging Face Spaces 上找到.
 
 
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) / [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) / [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md) / [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md)
@@ -27,20 +25,20 @@
  * [Openai](#Openai)
  * [Others](#Others)
 
-*各コンテンツは検討中であり、将来的に内容が変更される可能性があります。また、その他の内容は将来的に分類される予定です。*
+*各項內容正在審核中, 也可能會在未來有所改變.其他內容將在未來被分類.*
 
 
 ## Awesome-lists
 
- * [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - 新しいChatGPT APIを使用するだけでなく,ユーザーが独自の API キーを設定できるようにするアプリとツールの一覧をキュレーションしました.
- * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - このレポには,ChatGPTをより良く利用するために ChatGPT プロンプトのキュレーションが含まれています.
- * [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - ChatGPTとGPT-3の素晴らしいツール,デモ,ドキュメントのリスト
- * [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - ChatGPT の完全オープンな代替品のリスト
- * [awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh) - チェットGPT 中文调教指南、様々なシーン使用指南、学習方法,あなたの言葉を聞くようにする。
- * [Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt) - 雑談GPT资料汇总学习,継続更新...
- * [awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - ChatGPTプラグインの作成と使用のための興味深いリソースのリスト.
- * [awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt) -  ChatGPT に関するすべて
- * [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - 選択されたChatGPTデモ,ツール,記事,その他✨
+ * [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - 編輯了不僅使用新的ChatGPT API的應用程式和工具清單,
+ * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - 這項回購包括 ChatGPT 提示策劃,
+ * [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - 關於 ChatGPT和 GPT-3 的好工具,演示,文件
+ * [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - 完全開放的 ChatGPT 替代方案列表
+ * [awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh) - 聊GPT 中文调教指南。各種場景使用指南。學習如何讓它聽你的话。
+ * [Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt) - 沒有任何關於我們的消息.
+ * [awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - 列出了建立和使用ChatGPT插件的有趣資源.
+ * [awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt) - 關於ChatGPT的一切
+ * [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - 選擇了一些ChatGPT演示,工具,文章及更多內容✨
 
 
 |Name|Language|License|GitHub Stars|
@@ -58,41 +56,41 @@
 
 ## Prompts
 
- * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - プログラムリポをLLMに変換します.
- * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReaderは Slack のボットで,どのウェブページも,電子書籍を含む文書,YouTube の動画も読み,要約できます.声でコミュニケーションをとることができます.
- * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - ロボット学へのLLMの応用とChatGPT統合のロボットシミュレーター
- * [chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine) - @realtimeai 誰かが数週間前にチャットGPTで自己改善のプロンプトを作ろうとしました 病的なモードに崩壊するまで11世代しかかかりませんでした
- * [blender_jarvis](https://github.com/dene33/blender_jarvis) - ChatGPT の助けでテキストプロンプトを通じて制御ブレンド
- * [Promptify](https://github.com/promptslab/promptify) - 構造化された出力を得るために GPT または他のプロンプトベースのモデルを使用します.
- * [SchemaGPT](https://github.com/u-hubar/schemagpt) - RDF用のPythonライブラリ GPT-3マジックを使用してプロンプトからスキーマ生成
- * [ama_prompting](https://github.com/hazyresearch/ama_prompting) - 言語モデルを提示する
- * [CaFo](https://github.com/zrrskywalker/cafo) - [CVPR 2023] 提示,生成,キャッシュ: 基礎モデルのカスケードが強い少量学習者を生み出します
- * [gpt3-interview-bot](https://github.com/promptable/gpt3-interview-bot) - GPT3 インタビュー チャットボット
- * [LMOps](https://github.com/microsoft/lmops) - 機械の技術開発の技術
- * [Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide) - ガイド,論文,講演,ノートブック,迅速なエンジニアリングのためのリソース
- * [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - ChatGPTのクローン,公式モデル&Bingを使用,AIモデル切り替え,メッセージ検索,プロンプトテンプレート (WIP) を備えたリバースエンジニアリングUI
- * [ChatGPT-Prompt-Genius](https://github.com/benf2004/chatgpt-prompt-genius) - 公開プロジェクトにも貢献してください #chatgpt #gpt4 #chatgptprompts 
- * [ChatGPT-Adventure](https://github.com/capnmidnight/chatgpt-adventure) - ChatGPT がテキストアドベンチャーゲームを作成するための開始プロンプト
- * [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: Web結果でChatGPTプロンプトを拡張するブラウザ拡張子.
- * [chatbox](https://github.com/bin-huang/chatbox) - オープンAIAPI (ChatGPT API) のデスクトップアプリで,Windows,Mac & Linuxに対応しています. 開源のChatGPTデスクトップアプリケーション,プロンプト 開発神器,全プラットフォームサポート,ダウンロード安装パッケージ就能使用
- * [ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut) - 生産性を最大化します. 生産性を倍増させる ChatGPT 快速指令,分野と機能の区分に従って,提示ワードを標識選択、キーワード検索と一鍵複製できます。
- * [promptable](https://github.com/cfortuner/promptable) - タイプスクリプト/JavaScriptでLLMアプリを構築する
- * [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/chatgpt3-free-prompt-list) - ChatGPT3 プロンプトを作成するための無料ガイド
- * [prompt-engine](https://github.com/microsoft/prompt-engine) - Figma でアプリを作成する
- * [ChatGPT-Siri](https://github.com/yue-yang/chatgpt-siri) - ChatGPT API gpt-3.5-turbo & gpt-4モデルを使用するSiriのショートカット,連続会話をサポートし,APIキーを設定し,チャットレコードを保存します. 由 ChatGPT API gpt-3.5-turbo & gpt-4 モデル驱動の智能 Siri,支持連続会話,配置APIキー,配置システムプロンプト,保存会話記録.
- * [The-HustleGPT-Challenge](https://github.com/jtmuller5/the-hustlegpt-challenge) - AI共同創業者によるスタートアップの構築
- * [docsgpt](https://github.com/arc53/docsgpt) - 細かな調整で小さなモデルを作ること:- :- :- エンジニアリング:- チェーンの後見の速さ
- * [chatgpt-prompts](https://github.com/carterleffen/chatgpt-prompts) - 作成したプロンプトを紹介します
- * [CWK-ChatGPT-MidJourney-Prompt-Template](https://github.com/neobundy/cwk-chatgpt-midjourney-prompt-template) - cwk-chatgpt-midjourney-prompt-template v1.2おそらく最後のバージョン: 23のプロンプトタイプがサポートされています.iはオブジェクト指向アプローチに切り替えます:完全な書き換えです. chatgptでよりうまく動作します.レポに1.2のライトブランチがあります.
- * [chatgpt-prompts-bug-bounty](https://github.com/taksec/chatgpt-prompts-bug-bounty) - ChatGPT バグ ボウティ & ペントテストのプロンプト
- * [ChatGPT-Prompts](https://github.com/prathamkumar14/chatgpt-prompts) - 生産性の100%を解放するのに役立つ ChatGPT/APIのプロンプトをいくつかご紹介します. 
- * [Share-to-ChatGPT-Shortcut](https://github.com/reorx/share-to-chatgpt-shortcut) - 個別プロンプトを使用して,テキストをChatGPTに共有するためのAppleショートカット
- * [soren](https://github.com/jacksonmills/soren) - SorenCAIはAIソフトウェアエンジニアのアシスタントプロンプトです
- * [chatbot-injections-exploits](https://github.com/cranot/chatbot-injections-exploits) - ChatBot インジェクションと悪用例: プロンプトエンジニアコマンドの整理されたリスト - ChatGPT
- * [ai-notes](https://github.com/sw-yx/ai-notes) - ソフトウェアエンジニアが新しいAI開発のスピードを更新するためのメモ. lspace.swyx.ioの書き込みや製品ブレインストーミングのためのデータストアとして機能しますが, / Resourcesフォルダの下の定規参照をクリーンアップしました.
- * [squidgy-prompts](https://github.com/squidgyai/squidgy-prompts) - #gpt3 / #chatgptと言語学習に興味のある方へ?私たちは,学習者がデッキ,文のマイナスを構築,正しい文法,単語ゲームなどをするのを助けるためのオープンソースのプロンプトをリリースしました.
- * [ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan) - チェットGPT DAN, Jailbreak 提示
- * [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - 研究作業のためのChatGPTの50の使用事例
+ * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - 轉換代碼回應器成LLM即時即時的格式.
+ * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReader是Slack上的機器人, 它可以閱讀和總結任何網頁,
+ * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - 該計畫將在歐洲各地推廣,
+ * [chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine) - 只有11代才會崩潰, 變成病態模式.
+ * [blender_jarvis](https://github.com/dene33/blender_jarvis) - 透過ChatGPT的幫助,
+ * [Promptify](https://github.com/promptslab/promptify) - 請加入我們的 Discord 搜尋速速工程,LLM和其他最新研究.
+ * [SchemaGPT](https://github.com/u-hubar/schemagpt) - 透過 GPT-3 魔法生成 RDF 方案的 Python 庫
+ * [ama_prompting](https://github.com/hazyresearch/ama_prompting) - 請問我任何語言模式提示
+ * [CaFo](https://github.com/zrrskywalker/cafo) - 根據這些數據, 數據庫的使用者將會獲得更多的資訊.
+ * [gpt3-interview-bot](https://github.com/promptable/gpt3-interview-bot) - 接下來我們將會討論,
+ * [LMOps](https://github.com/microsoft/lmops) - 提供人工智能能力的一般技術
+ * [Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide) - 指南,論文,講座,筆記本及快速工程資源
+ * [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - 采用官方模式和Bing,反向設計的UI,具有AI模式切換,訊息搜尋和提示模板 (WIP)
+ * [ChatGPT-Prompt-Genius](https://github.com/benf2004/chatgpt-prompt-genius) - 請隨時隨地分享這些資訊,
+ * [ChatGPT-Adventure](https://github.com/capnmidnight/chatgpt-adventure) - 開始 ChatGPT 創建文字冒險遊戲的提示
+ * [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - 網站網站網站: 網站網站的網站網站,
+ * [chatbox](https://github.com/bin-huang/chatbox) - 支持Windows,Mac和Linux的桌面應用程式. 开源的ChatGPT桌面應用程式,即時發佈 开发神器,全平台支持,下載安裝包就能使用
+ * [ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut) - 提高您的效率和生產力. 讓生產力增加. 按領域和功能區分,可對提示詞進行標籤選、關鍵詞搜尋和一鍵複製.
+ * [promptable](https://github.com/cfortuner/promptable) - 建立在字體/JavaScript中的LLM應用程式.
+ * [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/chatgpt3-free-prompt-list) - 學習如何創建ChatGPT3提示的免費指南
+ * [prompt-engine](https://github.com/microsoft/prompt-engine) - 使用Figma創建應用程式
+ * [ChatGPT-Siri](https://github.com/yue-yang/chatgpt-siri) - 透過 ChatGPT API gpt-3.5-turbo & gpt-4 模式使用Siri的快捷方式,支持連續對話,設定 API 鍵並儲存聊天記錄. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱動的智能 Siri,支持連續對話,配置API 鍵,配置系統提示,保存聊天記錄.
+ * [The-HustleGPT-Challenge](https://github.com/jtmuller5/the-hustlegpt-challenge) - 建立與人工智能共同創辦人合作的初創公司
+ * [docsgpt](https://github.com/arc53/docsgpt) - 製作細微調節的小型模型:- :- :-工程:- 追溯的連鎖提示-
+ * [chatgpt-prompts](https://github.com/carterleffen/chatgpt-prompts) - 這裡是我創建的提示,
+ * [CWK-ChatGPT-MidJourney-Prompt-Template](https://github.com/neobundy/cwk-chatgpt-midjourney-prompt-template) - 應該是最後一版:支持23種提示類型.i將切換為面向對象的方法:完全重寫.它將更好地使用chatgpt.
+ * [chatgpt-prompts-bug-bounty](https://github.com/taksec/chatgpt-prompts-bug-bounty) - 關於 Bug Bounty 和 Pentest 的 ChatGPT 提示
+ * [ChatGPT-Prompts](https://github.com/prathamkumar14/chatgpt-prompts) - 請見此處使用一些ChatGPT/API提示,
+ * [Share-to-ChatGPT-Shortcut](https://github.com/reorx/share-to-chatgpt-shortcut) - 透過個人化提示分享文字的果快捷方式
+ * [soren](https://github.com/jacksonmills/soren) - 該網站的網站是一個由人工智能軟體工程師協助的提示,
+ * [chatbot-injections-exploits](https://github.com/cranot/chatbot-injections-exploits) - 聊天機器人注射和利用範例:快速工程師命令的精選列表 - ChatGPT
+ * [ai-notes](https://github.com/sw-yx/ai-notes) - 提供了軟體工程師在新的人工智能發展上更新的備註.
+ * [squidgy-prompts](https://github.com/squidgyai/squidgy-prompts) - 任何對#gpt3/#chatgpt及語言學習感興趣的人?我們剛剛發布了一套開放源代碼的提示,
+ * [ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan) - 網路使用者必須:
+ * [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - 超過50個用例,
 
 
 |Name|Language|License|GitHub Stars|
@@ -136,71 +134,71 @@
 
 ## Chatbots
 
- * [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: コード,ストーリー,ダイアログを含むクリーンアシスタントデータの大規模な収集に訓練されたチャットボット
- * [Open-Assistant](https://github.com/laion-ai/open-assistant) - OpenAssistantはチャットベースのアシスタントで,タスクを理解し,第三者のシステムとやり取りし,動的に情報を取得することができます.
- * [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - Kubernetes の問題に対する ChatGPT ボットです
- * [ChatRWKV](https://github.com/blinkdl/chatrwkv) - ChatRWKVはChatGPTのようなもので,RWKV (100% RNN) 言語モデルで動いている.オープンソースである.
- * [chatGPT-telegram-bot](https://github.com/altryne/chatgpt-telegram-bot) - これは,ChatGPTが Telegramボット内で動作する初期の試みです.
- * [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - ありがとうございました @eason_c13 #chatgpt
- * [ChatGPT-at-Home](https://github.com/sentdex/chatgpt-at-home) - ChatGPT @ Home: ChatGPTによって書かれた,Large Language Model (LLM) チャットボットアプリケーション
- * [GPT3Discord](https://github.com/kav-k/gpt3discord) - 強力な,Discord用の全インワン GPT3インターフェイス. ChatGPT様式での会話,画像生成,AIモデレーション,カスタムインデックス/知識データベース,YouTube要約,その他!
- * [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - ChatGPTをベースにしたWechatロボット. OpenAIAPIとitchatライブラリを使用.ChatGPTをベースにした微信聊天ロボット,GPT3.5 APIとitchatの実装.
- * [ChuanhuChatGPT](https://github.com/gaizhenbiao/chuanhuchatgpt) - ChatGPT API の GUI
- * [gpt-discord-bot](https://github.com/openai/gpt-discord-bot) - テキスト-ダヴィンチ-003`モデルと会話をするため,Completions APIを使用し,メッセージをフィルターするモデレーション APIを使用する Python で書かれた Discord ボットの例.
- * [ChatGPT-in-Slack](https://github.com/seratch/chatgpt-in-slack) - 端ユーザーにChatGPTボットとやり取りできるようにするSlackアプリの構築方法の迅速なデモ
- * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - OpenAIのChatGPT APIをSlack上で利用するためのSlackbotスクリプト (日本語での利用前提)
- * [chatGPT-discord-bot](https://github.com/zero6992/chatgpt-discord-bot) - ChatGPT を自分の Discord ボットに統合する
- * [vrchatbot](https://github.com/geson-anko/vrchatbot) - VRChatにAIボットを作るリポジトリ
- * [dolly](https://github.com/databrickslabs/dolly) - Databricks Dolly,Databricks マシン学習プラットフォームで訓練された大きな言語モデル
- * [chatgpt-failures](https://github.com/giuven95/chatgpt-failures) - ChatGPT と類似したモデルのための失敗アーカイブ
- * [researchgpt](https://github.com/mukulpatnaik/researchgpt) - オープンソースのLLMベースの研究助手で 研究論文と会話できます
- * [Blender-GPT](https://github.com/tree-ind/blender-gpt) - GPT3/4 + Whisper 統合によるオールインワン Blender アシスタント
- * [wikipedia-gpt3-bot](https://github.com/shbhrsaha/wikipedia-gpt3-bot) - Wikipedia をクエリして GPT-3 で答えを要約することで質問に答えている REPL ボット
- * [FastChat](https://github.com/lm-sys/fastchat) - "Vicuna: GPT-4を印象に残るオープンチャットボット"のリリースレポート
- * [chatgpt-tegram-bot](https://github.com/nukeador/chatgpt-tegram-bot) - Telegram用のシンプルなボットで,ChatGPTとのインタラクションを可能にします (音声ノートと画像生成をサポートします).
- * [ChatGeoPT](https://github.com/earth-genome/chatgeopt) - 基本的で脆弱な 概念証明として 地理空間検索のための AIアシスタント
- * [ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin) - これは,市場データとOpenAIのGPT-3.5言語モデルによって生成された予測モデルに基づいて,継続的に買い売り注文を出すKuCoinの取引スクリプトです.
- * [marvin](https://github.com/prefecthq/marvin) -  GPT搭載ボットとAI機能のためのバッテリー付きライブラリ
- * [ChatDoctor](https://github.com/kent0n-li/chatdoctor) - 医療特典チャット"チャットドクター"チャットGptも使ってモデルを訓練している様子 コードとデータセットの全て モデルの重量はオープンソース化する予定だ!
- * [chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection) - ヒトチャットGPT比較資料庫 (HC3),検出器,その他!
- * [hackGPT](https://github.com/nodatafound/hackgpt) - オープンソースのAIとChatGPTを使って ハッカーみたいなものを作ります
- * [talk-to-chatgpt](https://github.com/c-nedelcu/talk-to-chatgpt) - 声を使って ChatGPT AI に話しかけ,声を通して答えを聞く
- * [ChatGPT-Telegram-Workers](https://github.com/tbxark/chatgpt-telegram-workers) - 簡単に Cloudflare ワーカーに独自の Telegram ChatGPT ボットを展開できます
- * [gptchat-telegram](https://github.com/m1guelpf/gptchat-telegram) - ✨ gptchatのウェブサイトを毎回開くのを疲れてしまったので,私はテレグラムボットを作りました.もしもしもしもし,それをしたいなら,設定を非常に簡単にしてみました (たった一つのコマンドを実行するだけでいいのです!).レポを見てください 👇 
- * [reflexion-human-eval](https://github.com/noahshinn024/reflexion-human-eval) - 精度ボトルネックを 適切なコードゲンから テストゲンヒューマンレベル精度に 移行します: 反射ベースのgpt-4 88% -gpt-4 67.0%-codet 65.8%-palm 26.2%コード:
- * [wechatbot](https://github.com/869413421/wechatbot) - ゼロから学ぶ
- * [Twitter-Comment-Bot](https://github.com/sojinsamuel/twitter-comment-bot) - 特定のキーワードを含むツイートにコメントするボット.ボットはコメントを生成するためにOpenAI API,投稿するためにTwitter API を使用.各コメントの間には固定遅延で連続的に実行するように設計されています.
- * [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - オープンソースの ChatGPT UI
- * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - 大型 PDF ドキュメントのための GPT4 & LangChain チャットボット
- * [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - 声付きのオープンソース ChatGPT アプリ
- * [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - チェットGPT + DALL-E + WhatsApp = AIアシスタント: ロケット:
- * [ChatGPT-wechat-bot](https://github.com/autumnwhj/chatgpt-wechat-bot) - ウェブチャット用のChatGPT https://github.com/AutumnWhj/ChatGPT-wechat-bot
- * [chatbot-ui-pro](https://github.com/mckaywrigley/chatbot-ui-pro) - AI検索&チャット バラジ・スリニバサン"ネットワーク・ステート"
- * [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitterボットが OpenAI の ChatGPT API で動いています.
- * [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - ChatGPT の 会話履歴を輸出し共有する
- * [unChatGPT](https://github.com/riccardolinares/unchatgpt) - unChatGPTは,OpenAI APIを使用してチャットボットのようなチャット体験を作成します. ChatGPTに似ているが,キューに待つ必要性やアクセス制限がない.
- * [rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - AIで動いたコード編集,説明,コード生成,エラー診断,公式の OpenAI API で Visual Studio Code でチャットする
- * [BetterChatGPT](https://github.com/ztjhz/betterchatgpt) - オープンAIのChatGPT APIを探索するためのより良いUIを持つ素晴らしいオープンソースのウェブアプリ! (Webサイト+Windows+MacOS+Linux)
- * [teams-openai-bot](https://github.com/leeford/teams-openai-bot) - サンプルチーム OpenAIボット
- * [chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 文字の文字でサポートされている. @swyx は今日ハッカソンを開催している. これは,いくつかのプロジェクトのための出発点として役立つことを願っています!
- * [whisper_ros](https://github.com/ouxt-polaris/whisper_ros) - 音声対話をできるシステムを作れるだろうね. 音声認識の精度はガバガバです.
- * [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - ツイッターとWhatsAppに chatgptを統合する このギタブの指示に従って Telegramに chatgptで動いたボットを作成できます.
- * [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - 単一のコマンドで GPTChat Telegram ボットを起動します!
- * [gitgpt](https://github.com/hesse/gitgpt) - 言語のコマンドラインの git アシスタント
- * [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - GPTChat Discord ボットを 実行するだけで
- * [larkgpt](https://github.com/bytemate/larkgpt) - ロック チャットボット
- * [gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - これは OpenAI GPT 言語モデルをジェイルブレイクする状況に関する更新情報を提供することを目的としたリポジトリです.
- * [chat-gpt](https://github.com/jcubic/chat-gpt) - ChatGPT 会話保存ブックマーク
- * [chatgpt-android](https://github.com/skydoves/chatgpt-android) -  ChatGPT Androidは,OpenAIの ChatGPTを Android で Compose の Stream Chat SDK で実証しています.
- * [gpt-voice-chat](https://github.com/kmizu/gpt-voice-chat) - ChatGPT AI とリアルボイスチャット
- * [chatgpt](https://github.com/jcrodriguez1989/chatgpt) - R から ChatGPT に接口する
- * [ChatdollKit](https://github.com/uezo/chatdollkit) - ChatdollKit は 3D モデル を チャットボット に 変え ます
- * [unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge) - 単一のライブラリを作りました! chatgpt apiとかのご提供のために!
- * [gortanagtp](https://github.com/dasdata/gortanagtp) - 声とテキストのインタラクションのコンソールアプリケーション 最新のChatGPT API 
- * [ChatGPT.nvim](https://github.com/jackmort/chatgpt.nvim) - Neovimは OpenAI GPT-3 チャットボットとのインタラクションのためのプラグインで,GPT-3とNLPを簡単に探索できるインターフェースを提供します.
- * [HeyChatGPT](https://github.com/ynagatomo/heychatgpt) - 音声でチャットGPTとやり取りする シンプルなiOSアプリです
- * [askgpt.vim](https://github.com/macrat/askgpt.vim) - プログラムに関する質問をするためのプラグインです
- * [wechatbot](https://github.com/djun/wechatbot) - 個人的な微信へのアクセス ChatGPT
+ * [gpt4all](https://github.com/nomic-ai/gpt4all) - 透過使用網路, 透過網路,
+ * [Open-Assistant](https://github.com/laion-ai/open-assistant) - 能理解任務,與第三方系統互動,並動態地查找資訊.
+ * [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - 該網站的使用者必須在此處使用,
+ * [ChatRWKV](https://github.com/blinkdl/chatrwkv) - 像是 ChatGPT, 但使用 RWKV (100% RNN) 語言模型, 也是開放源代碼.
+ * [chatGPT-telegram-bot](https://github.com/altryne/chatgpt-telegram-bot) - 這是一個非常早期的試圖,
+ * [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - 恭喜這項活動在過去7天內增長了214顆, 已達到1.61萬顆.
+ * [ChatGPT-at-Home](https://github.com/sentdex/chatgpt-at-home) - 聊天機器人應用程式, 由 ChatGPT 撰寫
+ * [GPT3Discord](https://github.com/kav-k/gpt3discord) - 提供了可靠的GPT3接口, 聊天GPT式對話,圖像生成,人工智能調節,自訂索引/知識庫,YouTube總結器等等!
+ * [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于ChatGPT的微信聊天機器人, 使用OpenAIAPI和itchat庫.
+ * [ChuanhuChatGPT](https://github.com/gaizhenbiao/chuanhuchatgpt) - 聊天GPT API 的圖形接口
+ * [gpt-discord-bot](https://github.com/openai/gpt-discord-bot) - 該程式使用完成API與文本-davinci-003`模型進行對話,
+ * [ChatGPT-in-Slack](https://github.com/seratch/chatgpt-in-slack) - 如何建立一個 Slack 應用程式,
+ * [chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot) - 必須使用日本語,
+ * [chatGPT-discord-bot](https://github.com/zero6992/chatgpt-discord-bot) - 整合ChatGPT與自己的Discordbot
+ * [vrchatbot](https://github.com/geson-anko/vrchatbot) - 建立AI機器人儲存庫
+ * [dolly](https://github.com/databrickslabs/dolly) - 數據Dolly是一種在數據機器學習平臺上訓練的大型語言模型,
+ * [chatgpt-failures](https://github.com/giuven95/chatgpt-failures) - 關於 ChatGPT 和類似模型的故障檔案
+ * [researchgpt](https://github.com/mukulpatnaik/researchgpt) - 這項開放源代碼的法學士學位,
+ * [Blender-GPT](https://github.com/tree-ind/blender-gpt) - 提供全在一的Blender助理,
+ * [wikipedia-gpt3-bot](https://github.com/shbhrsaha/wikipedia-gpt3-bot) - 透過查詢維基百科並用GPT-3總結答案,
+ * [FastChat](https://github.com/lm-sys/fastchat) - 該網站的發行紀錄"Vicuna:一個開放式聊天機,
+ * [chatgpt-tegram-bot](https://github.com/nukeador/chatgpt-tegram-bot) - 透過Telegram提供了一個簡單的bot,
+ * [ChatGeoPT](https://github.com/earth-genome/chatgeopt) - 很簡單,非常脆弱的概念證明,
+ * [ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin) - 這是一款為KuCoin提供交易程式, 經由OpenAI的GPT-3.5語言模型生成的預測模型,
+ * [marvin](https://github.com/prefecthq/marvin) - 為GPT動力機器人和人工智能功能提供電池庫
+ * [ChatDoctor](https://github.com/kent0n-li/chatdoctor) - 醫療特色聊天"聊天醫生"聊天也會訓練模型,
+ * [chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection) - 果網站上有許多人使用此工具,
+ * [hackGPT](https://github.com/nodatafound/hackgpt) - 我利用OpenAI和ChatGPT來做黑客類的事情.
+ * [talk-to-chatgpt](https://github.com/c-nedelcu/talk-to-chatgpt) - 透過自己的聲音與ChatGPT人工智能溝通,
+ * [ChatGPT-Telegram-Workers](https://github.com/tbxark/chatgpt-telegram-workers) - 請使用您的 Telegram ChatGPT 機器人,
+ * [gptchat-telegram](https://github.com/m1guelpf/gptchat-telegram) - ✨我不願再開啟gptchat網站, 所以我就製作了Telegrambot. 如果你也想要一個,
+ * [reflexion-human-eval](https://github.com/noahshinn024/reflexion-human-eval) - 基於反射的gpt-4是最先进的代碼, 經復式改進代碼, 改變了"精度瓶",
+ * [wechatbot](https://github.com/869413421/wechatbot) - 從零開始學習視野
+ * [Twitter-Comment-Bot](https://github.com/sojinsamuel/twitter-comment-bot) - 這種機器人會在包含特定關鍵字的推文上發言. 這種機器人使用 OpenAI API 來生成評論,Twitter API 來發表評論. 它設計為持續運行,每個評論之間有固定延遲.
+ * [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 這是一款開放源代碼的ChatGPTUI.
+ * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - 提供大型 PDF 文件的 GPT4 & LangChain 聊天機
+ * [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - 提供了一個開放源代碼的ChatGPT應用程式,
+ * [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - 接著是我們在網路上看到的.
+ * [ChatGPT-wechat-bot](https://github.com/autumnwhj/chatgpt-wechat-bot) - 網路使用者必須使用此工具,
+ * [chatbot-ui-pro](https://github.com/mckaywrigley/chatbot-ui-pro) - 搜尋與聊天巴拉吉·斯里尼瓦桑的"網路狀態".
+ * [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - 推特bot由OpenAI的ChatGPTAPI提供動力.
+ * [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - 輸出和分享您的ChatGPT對話歷史
+ * [unChatGPT](https://github.com/riccardolinares/unchatgpt) - 沒有需要排隊或限制使用. 沒有需要排隊或限制使用.
+ * [rubberduck-vscode](https://github.com/rubberduck-ai/rubberduck-vscode) - 請使用人工智能編輯代碼,解釋,代碼生成,錯誤診斷,
+ * [BetterChatGPT](https://github.com/ztjhz/betterchatgpt) - 玩與聊天更聰明的更好 ChatGPT - 一個驚人的開放源碼的網頁應用程式,
+ * [teams-openai-bot](https://github.com/leeford/teams-openai-bot) - 試用團隊 OpenAI機器人
+ * [chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 透過字體程式支持的chatlangchain (一個只回答 langchain文檔問題的chatgpt類型的機器人) 傳播.
+ * [whisper_ros](https://github.com/ouxt-polaris/whisper_ros) - 沒有任何的聲音識別精度是很差的,
+ * [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - #4.將chatgpt集成到電報和whatsappy中. 您可以在電報中建立一個由chatgpt動力的機器人,
+ * [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - 只有一個命令才能讓你執行自己的GPTChat Telegram機器人!
+ * [gitgpt](https://github.com/hesse/gitgpt) - 必須使用自然語言命令行.
+ * [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - 只有一個命令才能讓你執行自己的GPTChat Discord機器人!
+ * [larkgpt](https://github.com/bytemate/larkgpt) - 魚聊天機
+ * [gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - 這是一份旨在提供OpenAI GPT語言模型解鎖狀態的資料庫.
+ * [chat-gpt](https://github.com/jcubic/chat-gpt) - 保存聊天的書籤
+ * [chatgpt-android](https://github.com/skydoves/chatgpt-android) -  ChatGPT Android 展示了 OpenAI 在 Android 上的 ChatGPT,
+ * [gpt-voice-chat](https://github.com/kmizu/gpt-voice-chat) - 透過ChatGPT與人工智能進行真實的語音聊天
+ * [chatgpt](https://github.com/jcrodriguez1989/chatgpt) - 接口到R的ChatGPT
+ * [ChatdollKit](https://github.com/uezo/chatdollkit) - 聊天工具讓你將你的3D模型變成聊天機
+ * [unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge) - 透過聯繫Voicevox, 我們創造了簡單的合成聲音圖書館,
+ * [gortanagtp](https://github.com/dasdata/gortanagtp) - 提供語音與文字互動的控制台應用程式
+ * [ChatGPT.nvim](https://github.com/jackmort/chatgpt.nvim) - 提供探索GPT-3和NLP的簡單介面.
+ * [HeyChatGPT](https://github.com/ynagatomo/heychatgpt) - 這是一款微小的iOS應用程式,
+ * [askgpt.vim](https://github.com/macrat/askgpt.vim) - 提供了一個可以讓你詢問關於代碼的插件.
+ * [wechatbot](https://github.com/djun/wechatbot) - 關於我們:
 
 
 |Name|Language|License|GitHub Stars|
@@ -274,33 +272,33 @@
 
 ## Browser-extensions
 
- * [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - 免費 3DS 主要エントリーポイント <=11.2
- * [natbot](https://github.com/nat/natbot) - GPT-3 を使ったブラウザをドライブする
- * [textual](https://github.com/textualize/textual) - Textural は Python の Rapid Application Development フレームワークです.シンプルな Python API で洗練されたユーザーインターフェースを構築します.端末と (まもなく) ウェブブラウザでアプリを実行します!
- * [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - ブラウザ拡張機能で,あらゆるJupyterノートブックからChatGPTでチャットできます.
- * [tweetGPT](https://github.com/yaroslav-n/tweetgpt) - TweetGPTは,chatGPTを使用してツイートと返信を生成するクローム拡張機能です.
- * [ChatGPT-pdf](https://github.com/liady/chatgpt-pdf) - 共有可能なリンクやPNGに ChatGPT履歴をダウンロードするための Chrome エクステンション
- * [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - ChatGPT Chrome拡張子です.インターネット上のすべてのテキストボックスに ChatGPT を統合します.
- * [summarize.site](https://github.com/clmnin/summarize.site) - OpenAI ChatGPT を使って Web ページを要約する
- * [transformers.js](https://github.com/xenova/transformers.js) - 変形体 ブラウザで起動!
- * [chatgpt-extension](https://github.com/iolivernguyen/chatgpt-extension) - 最小 require.js は CommonJS を実装する
- * [ChatGPT-Assistant](https://github.com/pdparchitect/chatgpt-assistant) - この拡張子を自動的に chatgpt で作りました. #openenai #openaichat
- * [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt) - ChatGPTのYouTube要約は,YouTubeビデオのトランスクリプトとOpenAIのChatGPTAI技術によるビデオ要約の両方を入手できる簡単なChrome拡張機能 (manifest v3) です.
- * [simpread](https://github.com/kenshin/simpread) - 简悦 (简悦) - 让你瞬间进入沉浸式阅读の拡張
- * [chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page) - クローム ブラウザのプラグイン,ChatGPTを介して微信私信またはグループ聊中 @你の消息のスマートチャット天ロボットに自動的に応答します
- * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - ChatGPT を使用できるようにする VSCode エクステンション
- * [openai-translator](https://github.com/yetone/openai-translator) - 基于ChatGPT APIの划词翻訳ブラウザ插件と跨プラットフォームデスクトップ端端アプリケーション - ChatGPT APIをベースにした翻訳のためのブラウザ拡張子とクロスプラットフォームデスクトップアプリケーション.
- * [browser-extension](https://github.com/taxyai/browser-extension) - GPT-4 でブラウザを自動化する
- * [chatgpt-arxiv-extension](https://github.com/hunkimforks/chatgpt-arxiv-extension) - ChatGPT を使った検索エンジンを強化するブラウザ拡張子
- * [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - ChatGPT を使った検索エンジンを強化するブラウザ拡張子
- * [sharegpt](https://github.com/domeccleston/sharegpt) - 簡単に友達と ChatGPT の会話への永続的なリンクを共有します
- * [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT レイキャスト拡張子
- * [GPT-Toolbox](https://github.com/cedricguillemet/gpt-toolbox) - VSCコードのGPT拡張
- * [CodeCursor](https://github.com/helixform/codecursor) - Visual Studio コードでカーソルを使う拡張子です.
- * [pg_gpt](https://github.com/cloudquery/pg_gpt) - テスト用拡張機能で OpenAI API を PostgreSQL に組み込み 人間の言語でクエリを実行します
- * [ChatGPT_Extension](https://github.com/kazuki-sf/chatgpt_extension) - ChatGPT拡張子は,ウェブ上のどこでも OpenAI の ChatGPT にアクセスできる非常にシンプルな Chrome 拡張子 (manifest v3) です.
- * [ChatGPT](https://github.com/wieslawsoltes/chatgpt) - MacOS,Windows,Linux,Android,iOS,ブラウザ向け ChatGPT C#クライアント.Avalonia UIフレームワークによって動力されている.
- * [openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension) - CSV ファイルサンプル
+ * [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - 免費3DS主入口點 <=11.2
+ * [natbot](https://github.com/nat/natbot) - 使用 GPT-3 驅動覽器
+ * [textual](https://github.com/textualize/textual) - 文本是Python的快速應用程式開發框架. 建立簡單的Python API的複雜使用者介面. 在終端和 (即將到來) 網頁覽器中執行您的應用程式!
+ * [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - 提供您使用任何本地Jupyter筆記本與ChatGPT進行聊天的覽器擴展.
+ * [tweetGPT](https://github.com/yaroslav-n/tweetgpt) - 發送訊息和回覆使用chatGPT
+ * [ChatGPT-pdf](https://github.com/liady/chatgpt-pdf) -  Chrome 擴展程式可將您的 ChatGPT 歷史下載到 PNG, PDF 或可分享的連結
+ * [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - 這是一款 ChatGPT Chrome 擴展程式.
+ * [summarize.site](https://github.com/clmnin/summarize.site) - 使用 OpenAI ChatGPT 總結網頁
+ * [transformers.js](https://github.com/xenova/transformers.js) - 請使用您的覽器執行變形器!
+ * [chatgpt-extension](https://github.com/iolivernguyen/chatgpt-extension) - 必須使用JS的工具.
+ * [ChatGPT-Assistant](https://github.com/pdparchitect/chatgpt-assistant) - 請告別使用chatgpt開發手動擴展程式!
+ * [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt) - 透過 OpenAI 的 ChatGPT AI 科技, 提供 YouTube 影片簡介及簡介.
+ * [simpread](https://github.com/kenshin/simpread) - 简悦 (简读) - - 让你瞬间进入沉浸式阅读的扩展
+ * [chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page) - 透過ChatGPT來自動回應微信私信或群聊中@你的消息的智能聊天機器人
+ * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - 允許使用ChatGPT的VSCode擴展
+ * [openai-translator](https://github.com/yetone/openai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的浏览器扩展和跨平台桌面应用程序.
+ * [browser-extension](https://github.com/taxyai/browser-extension) - 自動使用GPT-4的覽器
+ * [chatgpt-arxiv-extension](https://github.com/hunkimforks/chatgpt-arxiv-extension) - 提供 ChatGPT 搜索引擎增強的覽器擴展
+ * [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - 提供 ChatGPT 搜索引擎增強的覽器擴展
+ * [sharegpt](https://github.com/domeccleston/sharegpt) - 輕鬆地與您的朋友分享 ChatGPT 聊天的永久連結
+ * [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - 網路網路連線
+ * [GPT-Toolbox](https://github.com/cedricguillemet/gpt-toolbox) - 維基碼的 GPT 擴展
+ * [CodeCursor](https://github.com/helixform/codecursor) - 視覺工作室代碼中的指針.
+ * [pg_gpt](https://github.com/cloudquery/pg_gpt) - 實踐在人文語言中的查詢.
+ * [ChatGPT_Extension](https://github.com/kazuki-sf/chatgpt_extension) - 這項軟體的功能是非常簡單的 Chrome 擴展程序 (manifest v3),
+ * [ChatGPT](https://github.com/wieslawsoltes/chatgpt) - 這是一個適用於MacOS,Windows,Linux,Android,iOS和覽器的C#客戶端.
+ * [openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension) - 範例 CSV 檔案
 
 
 |Name|Language|License|GitHub Stars|
@@ -336,59 +334,59 @@
 
 ## CLIs
 
- * [ChatGPT](https://github.com/acheong08/chatgpt) - ChatGPT API の逆エンジニアリング
- * [shell_gpt](https://github.com/ther1d/shell_gpt) - ChatGPTで動いているコマンドライン生産性ツールで 作業を速く効率的に完了できます
- * [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ️ ChatGPT APIの非公式 Python クライアントで,トークン自動再生,会話追跡,プロキシサポートなども備えています
- * [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - PythonとShellを使って ChatGPTとGPT4とのインタラクションのためのAPIです
- * [chatblade](https://github.com/npiv/chatblade) - CLI スイス軍ナイフ ChatGPT
- * [Alice](https://github.com/greshake/alice) - ChatGPT に実際の端末へのアクセスを与える
- * [command-ai](https://github.com/amachino/command-ai) - 端末に AI チャットボットを搭載し,OpenAI API で動いています
- * [shell-genie](https://github.com/dylanjcastillo/shell-genie) - あなたの願いは私の命令です
- * [GPT_Vuln-analyzer](https://github.com/morpheuslord/gpt_vuln-analyzer) - ChatGPT API,Python-Nmap,DNS Recon モジュールを使用し,Nmap スキャンデータと DNS スキャン情報に基づいて脆弱性レポートを作成するために GPT3 モデルを使用します.また,サブドメインの数え方を大幅に実行できます.
- * [DirectAI](https://github.com/ustayready/directai) - 端末で OpenAI API を使って ChatGPT 問い合わせ
- * [GPTalk](https://github.com/0ut0flin3/gptalk) - WindowsとUnix向けGPT-3クライアントで,どの言語でもテキストとスピーチの両方をサポートするメモリ管理.
- * [Reptyl](https://github.com/0ut0flin3/reptyl) - 自然言語でコマンドを実行するクロスプラットフォームコマンドラインシェル
- * [wanna](https://github.com/hirokidaichi/wanna) - 自然言語のシェルコマンドランチャー
- * [datasetGPT](https://github.com/radi-cho/datasetgpt) - 命令行インターフェースで,LLMでテキストと会話データセットを生成する.
- * [chatgpt-cli](https://github.com/j178/chatgpt-cli) - ファンフーボット
- * [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - ChatGPTとBing AIのクライアント実装.Node.jsモジュール,REST APIサーバ,CLIアプリとして利用可能.
- * [chat-gpt-cli](https://github.com/jseguillon/chat-gpt-cli) - PhantomJS QUnit testrunnerは,結果をJUnit XML形式に輸出し,カバーをCobertura XML形式にJenkinsのようなCIツールで使用する.
- * [terminalGPT](https://github.com/jucasoliveira/terminalgpt) - 端末に chatGPT のような GPT をインストールします
- * [chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets) - [新しい] #chatgpt in sheets! @googlesheetsに #chatgpt #api を数クリックで統合する! @1littlecoder は,どのようにするか示します!使用例: #seo, #socialmedia, #marketing,何でも! 🔥-チュートリアル:コード:コスト: $2/百万トークン!  
- * [gptsh](https://github.com/shorwood/gptsh) - GPT.shは,NodeJsで構築されたCLIツールで,Open AIのGPT-3によって動力されている.その主な目的は,自然言語の質問と要求をシェルコマンドに翻訳することです.
- * [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - 公式 ChatGPT API の Node.js クライアント
- * [ai-cli](https://github.com/abhagsain/ai-cli) - 端末から直接 GPT3 から CLI コマンドの答えを取得
- * [chathub](https://github.com/chathub-dev/chathub) - オールインワン チャットボットクライアント
- * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - ステロイドで ChatGPTのようなものです 🔥
- * [aicommits](https://github.com/nutlope/aicommits) - AIで git の commit メッセージを書く CLI
- * [opencommit](https://github.com/di-sukharev/opencommit) - GPT CLI は1秒で印象的なコミットを自動生成します
- * [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - ChatGPT の周辺に React Native のラッピングを組み込み,アプリケーションにシームレスに統合します.認証,ストリーミング応答,会話の追跡を処理します.100%クライアント側:ロボット:
- * [ChatGPT-Next-Web](https://github.com/yidadaa/chatgpt-next-web) - 一键拥有你自己的ChatGPT 网页服务、 ワンクリックで独自のChatGPTウェブUIを展開する.
- * [GPT-Shell](https://github.com/firtoz/gpt-shell) - GPT-Shellは,OpenAIのChatGPTに似ている OpenAIベースのチャットボットである.また,Dalle2画像を作成することも可能である.
- * [autodoc](https://github.com/context-labs/autodoc) - LLM を使ってコードベースドキュメントを自動生成するための実験ツールキット
- * [doschgpt](https://github.com/yeokm1/doschgpt) - DOS用の ChatGPT クライアントで概念証明
- * [gptcommit](https://github.com/zurawiki/gptcommit) - GPT-3 でコミットメッセージを作成するための git prepare-commit-msg フック. 
- * [rusty](https://github.com/zahidkhawaja/rusty) - シャッターコマンドを覚えられるようにします.
- * [a](https://github.com/ddddddeon/a) - GPT3 からコードを生成する CLI ツール
- * [plz-cli](https://github.com/m1guelpf/plz-cli) - 端末のコピロット
- * [aichat](https://github.com/sigoden/aichat) - 端末で ChatGPT/GPT-3.5/GPT-4 を使用します
- * [cligpt](https://github.com/schneiderfelipe/cligpt) - cligptは,OpenAIのChatGPT APIとインタラクションを行うコマンドラインインターフェースです.
- * [ata](https://github.com/rikhuijzer/ata) - 端末に何か (ATA) を尋ねる:端末内のChatGPT
- * [acli](https://github.com/jseguillon/acli) - 支援コマンドライン,Open AIのAPIで動いている
- * [openaigo](https://github.com/otiai10/openaigo) - OpenAI GPT3/3.5 ChatGPT API クライアントライブラリ Go シンプルで依存性が少ない,よくテストされている
- * [cligpt](https://github.com/paij0se/cligpt) - ChatGPTが端末にある
- * [search](https://github.com/visualbasic6/search) - AI (chatgpt) によって書かれたGoogle Cliクライアントで,Google アレート"プレビュー"機能を使用して,CAPTCHAとレート制限を回避します
- * [CodeGPT](https://github.com/appleboy/codegpt) - Go言語で書かれた CLI で,git commit メッセージを書いたり,ChatGPT AI (gpt-4,gpt-3.5-turboモデル) を使用してコードレビューをしたり,自動的に git prepare-commit-msg フックをインストールします.
- * [chatgpt-linux-assistant](https://github.com/rareranger/chatgpt-linux-assistant) - システムに何が入っているかを知っていて,作業を完了するのに役立ちます. - github - rareranger/chatgpt-linux-assistant:
- * [PowerShellAI](https://github.com/dfinke/powershellai) - OpenAI GPT-3 と DALL-E のための PowerShell AI モジュール
- * [chatGPT-shell-cli](https://github.com/0xacx/chatgpt-shell-cli) - 端末からOpenAIのChatGPTとDALL-Eを使用する簡単なシェルスクリプト. PythonやJSは必要ありません.
- * [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ChatGPT と DALL-E の Emacs シェル の最小限
- * [client](https://github.com/openai-php/client) - ️ OpenAI PHPは,コミュニティが維持する超充電された PHP API クライアントで,OpenAI APIとインタラクションを可能にします.
- * [chatgpt-ui](https://github.com/wongsaang/chatgpt-ui) - 複数のユーザと複数のデータベース接続をサポートするChatGPT Webクライアント. i18nに対応. Docker イメージと迅速なデプロイスクリプトを提供します.
- * [slickgpt](https://github.com/shipbit/slickgpt) - SlickGPTは,Svelteで書かれたOpenAI APIのための軽量な"自分のAPIキーを使用する"Webクライアントです. GPT-4統合,ユーザーレスシェア機能,その他の超能力を提供しています.
- * [openai-java](https://github.com/theokanning/openai-java) - Java で OpenAI GPT-3 Api クライアント
- * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - コマンドラインをマスターする
- * [hfuzz](https://github.com/thehlopster/hfuzz) - 信頼性の高いソースから作成されたウェブフージングのワードリスト. 私のペントテストの結果,git.rip,ChatGPT,Lex,核テンプレート,ウェブスキャナー,seclist,bo0mなど.
+ * [ChatGPT](https://github.com/acheong08/chatgpt) - 逆向工程 ChatGPT API
+ * [shell_gpt](https://github.com/ther1d/shell_gpt) - 能讓您完成任務更快更有效.
+ * [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ️提供自動代幣再生,對話追蹤,代理支持等功能.
+ * [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - 透過Python與Shell與ChatGPT和GPT4互動的API.
+ * [chatblade](https://github.com/npiv/chatblade) - 該網站的使用者必須記錄:
+ * [Alice](https://github.com/greshake/alice) - 提供ChatGPT進入真實終端
+ * [command-ai](https://github.com/amachino/command-ai) - 您的端口中的AI聊天機, 由OpenAI API提供支持
+ * [shell-genie](https://github.com/dylanjcastillo/shell-genie) - 你的願望是我的命令.
+ * [GPT_Vuln-analyzer](https://github.com/morpheuslord/gpt_vuln-analyzer) - 使用ChatGPT API,Python-Nmap,DNS Recon模組,並使用GPT3模型建立基于Nmap掃描數據和DNS掃描信息的漏洞報告.
+ * [DirectAI](https://github.com/ustayready/directai) - 在您的終端中透過OpenAI API進行ChatGPT查詢
+ * [GPTalk](https://github.com/0ut0flin3/gptalk) - 支持任何語言的文字和語音.
+ * [Reptyl](https://github.com/0ut0flin3/reptyl) - 跨平台命令行支持自然語言命令執行
+ * [wanna](https://github.com/hirokidaichi/wanna) - 牌命令發射器使用自然語言
+ * [datasetGPT](https://github.com/radi-cho/datasetgpt) - 命令行接口以生成與LLM的文字和對話數據集.
+ * [chatgpt-cli](https://github.com/j178/chatgpt-cli) - 粉絲團
+ * [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - 客戶端實現 ChatGPT 和 Bing AI. 可用於 Node.js 模組, REST API 伺服器和 CLI 應用程式.
+ * [chat-gpt-cli](https://github.com/jseguillon/chat-gpt-cli) - 該軟體可將測試結果輸出到JUnit XML格式,並將覆蓋到Cobertura XML格式,
+ * [terminalGPT](https://github.com/jucasoliveira/terminalgpt) - 在您的終端上使用GPT
+ * [chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets) - 在幾次點擊後將#chatgpt#api集成到@googlesheets, @1littlecoder會告訴你如何!使用案例:#seo, #socialmedia, #marketing,你選擇! 🔥-教程:代碼:成本:$2/百萬代幣!  
+ * [gptsh](https://github.com/shorwood/gptsh) - GPT.sh 是一個用 NodeJs 建立的 CLI 工具,由 Open AI 的 GPT-3 提供動力.
+ * [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - 提供官方ChatGPTAPI的Node.js客戶端.
+ * [ai-cli](https://github.com/abhagsain/ai-cli) - 直接從您的終端獲得 GPT3 的 CLI 命令的答案
+ * [chathub](https://github.com/chathub-dev/chathub) - 關於聊天機客戶端
+ * [bing-chat](https://github.com/transitive-bullshit/bing-chat) - 像是使用類固醇的ChatGPT.
+ * [aicommits](https://github.com/nutlope/aicommits) - 寫出您用AI提交git訊息的 CLI
+ * [opencommit](https://github.com/di-sukharev/opencommit) -  GPT CLI 在1秒內自動生成令人印象深刻的提交
+ * [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - 透過使用者與客戶之間的溝通, 透過網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,網路,
+ * [ChatGPT-Next-Web](https://github.com/yidadaa/chatgpt-next-web) - 一键拥有你自己的ChatGPT网页服务.
+ * [GPT-Shell](https://github.com/firtoz/gpt-shell) - GPT-Shell是一款 OpenAI 基於聊天的聊天機,與 OpenAI 的 ChatGPT 相似.
+ * [autodoc](https://github.com/context-labs/autodoc) - 試用工具包使用LLM自動生成代碼庫文檔
+ * [doschgpt](https://github.com/yeokm1/doschgpt) - 這是一款為DOS提供概念驗證的ChatGPT客戶端.
+ * [gptcommit](https://github.com/zurawiki/gptcommit) - 提供使用GPT-3編寫提交訊息的git prepare-commit-msg.
+ * [rusty](https://github.com/zahidkhawaja/rusty) - 幫助您記住 Bash命令.
+ * [a](https://github.com/ddddddeon/a) - 透過 CLI 工具生成 GPT3 的代碼
+ * [plz-cli](https://github.com/m1guelpf/plz-cli) - 您的終端的副駕駛
+ * [aichat](https://github.com/sigoden/aichat) - 在終端使用ChatGPT/GPT-3.5/GPT-4.
+ * [cligpt](https://github.com/schneiderfelipe/cligpt) - cligpt 是一個使用 OpenAI 的 ChatGPT API 的命令行接口.
+ * [ata](https://github.com/rikhuijzer/ata) - 請問終端任何東西 (ATA):
+ * [acli](https://github.com/jseguillon/acli) - 支援命令行, 由開放人工智能的API提供支持
+ * [openaigo](https://github.com/otiai10/openaigo) - 公開AI GPT3/3.5 ChatGPT API客戶端圖書館,簡單,少依賴,且經驗豐富
+ * [cligpt](https://github.com/paij0se/cligpt) - 聊天GPT但是在終端
+ * [search](https://github.com/visualbasic6/search) - 通過使用Google警訊"預覽"功能, 通過驗證碼和速率限制的AI (chatgpt) 寫的Google cli客戶端
+ * [CodeGPT](https://github.com/appleboy/codegpt) - 寫成 Go 語言的 CLI,使用 ChatGPT AI (gpt-4,gpt-3.5-turbo模型) 寫出git提交訊息或為您進行代碼檢查簡報,並自動安裝git準備-提交-msg.
+ * [chatgpt-linux-assistant](https://github.com/rareranger/chatgpt-linux-assistant) - 但它知道你的系統上有什麼, 也能幫助你完成事情. - github - rareranger/chatgpt-linux-assistant:
+ * [PowerShellAI](https://github.com/dfinke/powershellai) - 提供為OpenAI GPT-3和DALL-E使用的PowerShell AI模組
+ * [chatGPT-shell-cli](https://github.com/0xacx/chatgpt-shell-cli) - 簡單的程式碼可從終端使用 OpenAI 的 ChatGPT 和 DALL-E.
+ * [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - 必須使用 ChatGPT 和 DALL-E Emacs 
+ * [client](https://github.com/openai-php/client) - ️ OpenAI PHP是一款由社群維護的超級加強的 PHP API 客戶端,
+ * [chatgpt-ui](https://github.com/wongsaang/chatgpt-ui) - 支持多個使用者,多個數據庫連接,支持i18n. 提供Docker圖像和快速部署程式.
+ * [slickgpt](https://github.com/shipbit/slickgpt) - SlickGPT是用Svelte寫的OpenAI API的輕巧"使用你自己的API鍵"網頁客戶端. 它提供GPT-4集成,無使用者分享功能和其他超能力.
+ * [openai-java](https://github.com/theokanning/openai-java) - 在Java中使用OpenAI GPT-3 Api客戶端
+ * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 在一頁中掌握命令行
+ * [hfuzz](https://github.com/thehlopster/hfuzz) - 來自各種可靠的來源, 包括:我的測試結果, git.rip, ChatGPT, Lex,核模板,網頁掃描器, seclist, bo0m等.
 
 
 |Name|Language|License|GitHub Stars|
@@ -450,17 +448,17 @@
 
 ## Reimplementations
 
- * [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) - RLHF (Reinforcement Learning with Human Feedback) をPALMアーキテクチャの上に実装する.基本的にはChatGPTだが,PALM
- * [minGPT](https://github.com/karpathy/mingpt) - OpenAI GPT (Generative Pretrained Transformer) 訓練のPyTorchの再導入を最小限にすること
- * [mm-cot](https://github.com/amazon-science/mm-cot) - "言語モデルにおける多形態思考連鎖推論"の正式な実施 (注目を留めて,更新される)
- * [picoGPT](https://github.com/jaymody/picogpt) - NumPyで GPT-2 を実装する
- * [gpt-neox](https://github.com/eleutherai/gpt-neox) - DeepSpeedライブラリをベースとした GPU に搭載されたモデル並列自動回帰変圧器の実装.
- * [GPTZero](https://github.com/burhanultayyab/gptzero) - GPTZeroのオープンソース実装です
- * [SpikeGPT](https://github.com/ridgerchu/spikegpt) - "SpikeGPT:スピッキングニューラルネットワークによる生成的予備訓練言語モデル"の実施
- * [ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Apple Neural Engine (ANE) に最適化されたトランスフォーマーアーキテクチャの参照実装
- * [large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism) - 主モデル並列化アプローチの機能的ローカル実装
- * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - BLOOM の C++ 実装
- * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - SWIFT Core ML 3の実装 GPT-2,DistilGPT-2,BERT,そして質問応答のためのDistilBERT.他のトランスフォーマーもすぐに登場する!
+ * [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) - 實現RLHF (與人體反加強學習) 在PaLM架構之上.
+ * [minGPT](https://github.com/karpathy/mingpt) - 必須使用 PyTorch 系統進行 OpenAI GPT (生成預訓練變壓器) 訓練,
+ * [mm-cot](https://github.com/amazon-science/mm-cot) - 官方實施"語言模型中的多式連鎖思維推理" (請留心,
+ * [picoGPT](https://github.com/jaymody/picogpt) - 沒有必要使用GPT-2在NumPy中.
+ * [gpt-neox](https://github.com/eleutherai/gpt-neox) - 基于DeepSpeed圖書館的GPU上實現平行自動回歸變壓器模型.
+ * [GPTZero](https://github.com/burhanultayyab/gptzero) - 這是一項開放源代碼的 GPTZero 實現,
+ * [SpikeGPT](https://github.com/ridgerchu/spikegpt) - 實現"SpikeGPT:使用尖尖神經網絡生成性預先訓練語言模型"
+ * [ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - 轉換器架構的參考實現, 優化為果神經引擎 (ANE)
+ * [large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism) - 主要模型並行性方法的功能性本地實施
+ * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - 應用程式使用C++
+ * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - 快速核心ML3實現GPT-2,DistilGPT-2,BERT和DistilBERT的問題解答.
 
 
 |Name|Language|License|GitHub Stars|
@@ -480,10 +478,10 @@
 
 ## Tutorials
 
- * [Hello-Python](https://github.com/mouredev/hello-python) - プログラミング言語の習得コース ゼロから初心者向け 30以上のレッスン 25時間以上のビデオ,コード,グループチャット 基礎からデータベースのバックエンドAPIの作成まで
- * [notebooks](https://github.com/dataflowr/notebooks) - ディープラーニングコースのコード
- * [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 🔥gpt4all (最高のchatgptクローン) はローカルで実行され,コラボチュートリアルで - - @camenduruのコラボへ - 
- * [X-Decoder](https://github.com/microsoft/x-decoder) - Q#と量子コンピューティングを学ぶためのチュートリアルとプログラミング練習
+ * [Hello-Python](https://github.com/mouredev/hello-python) - 學習Python程式語言的課程. 超過30堂課,25小時的視頻,代碼和聊天群組.
+ * [notebooks](https://github.com/dataflowr/notebooks) - 深度學習課程的代碼
+ * [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 🔥gpt4all (最好的chatgpt克隆) 在本地運行,
+ * [X-Decoder](https://github.com/microsoft/x-decoder) - 學習Q#和量子計算的教程和程式練習
 
 
 |Name|Language|License|GitHub Stars|
@@ -496,72 +494,72 @@
 
 ## NLP
 
- * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - ChatGPT Retrieval Pluginは,日常言語で質問することで,個人や仕事の文書を簡単に検索して見つけることができます.
- * [BioGPT](https://github.com/microsoft/biogpt) - バイオメディカル研究文献から質問に答える上で人間よりも優れたパフォーマンスを達成しています Pubmedqa で評価されたように... 
- * [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - スタンフォードのアルパカモデルを訓練し データを生成するためのコードとドキュメントです
- * [openai-python](https://github.com/openai/openai-python) - OpenAI Python ライブラリでは,Python言語で書かれたアプリケーションから OpenAI API に便利なアクセスを提供しています.
- * [Gepetto](https://github.com/justicerage/gepetto) - OpenAIのgpt-3.5-turbo言語モデルをリバースエンジニアリングを加速させるIDAプラグイン
- * [FlexGen](https://github.com/fminference/flexgen) - 単一のGPUで大きな言語モデルを実行し 処理率を重視するシナリオを設定します
- * [RWKV-LM](https://github.com/blinkdl/rwkv-lm) - RWKVはトランスフォーマーレベルのLLM性能を持つRNNです. GPT (並列化可能) のように直接訓練できます. RNNとトランスフォーマーの最高の性能,高速推論,VRAMを節約,高速トレーニング,"無限"ctx_len,自由文埋め込みを組み合わせています.
- * [mario-gpt](https://github.com/shyamsn97/mario-gpt) - GPT2でマリオレベル生成.論文のコード"MarioGPT:大言語モデルによるオープンエンドテキスト2レベル生成" https://arxiv.org/abs/2302.05981
- * [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - バイリンガルなePUBブックを作って AI翻訳を使用する
- * [llm-security](https://github.com/greshake/llm-security) - アプリ統合型LLMを破る新しい方法
- * [GLM-130B](https://github.com/thudm/glm-130b) - GLM-130B:オープン・バイリンガル・プレトレーニング・モデル (ICLR 2023)
- * [trlx](https://github.com/carperai/trlx) - 人工フィードバックによる強化学習 (RLHF) を用いた言語モデルの分散訓練のためのレポ
- * [gpt-2](https://github.com/openai/gpt-2) - "言語モデルは,監督を受けない多作業学習者"のコード
- * [DocsGPT](https://github.com/arc53/docsgpt) - 文書検索と支援のための GPT 駆動チャット
- * [GPTSAN](https://github.com/tanreinama/gptsan) - 一般用途のスイッチトランスフォーマー ベース・日本語モデル
- * [BIG-bench](https://github.com/google/big-bench) - 言語モデルの能力を測定し,推移するためのコラボレーション基準である"模倣ゲーム"を超えて
- * [gptlang](https://github.com/forrestchang/gptlang) - GPT-4で実装された新しいプログラミング言語.
- * [hlb-gpt](https://github.com/tysam-code/hlb-gpt) - 低迷的で,速く,実験に友好的な研究者のツールベンチで,GPTのようなモデルで ~<365行コード. ~138秒で単一のA100でwikitext-103で <3.8検証損失に達.
- * [hn_summary](https://github.com/jiggy-ai/hn_summary) - 広範囲にわたる言語モデルを使って,HACKER NEWSのトップ記事をまとめ,テレグラムチャンネルに投稿します. 
- * [transformers](https://github.com/huggingface/transformers) - 変形器: Pytorch, TensorFlow, JAX用の最先端の機械学習
- * [ChatGLM-6B](https://github.com/thudm/chatglm-6b) - ChatGLM-6B:開源双語会話言語モデル オープン・バイリンガル・ダイアログ・言語モデル
- * [self-instruct](https://github.com/yizhongw/self-instruct) - 訓練された言語モデルを,自己生成の指示データと一致させることです.
- * [knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - 文書の正確な回答と即時の引用です
- * [lqae](https://github.com/lhao499/lqae) - 言語量子化自動エンコーダ
- * [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca#fine-tuning) - スタンフォードのアルパカモデルを訓練し データを生成するためのコードとドキュメントです
- * [fib](https://github.com/r-three/fib) - ブルーム,オプト-175b,t0とgpt-neoxは"事実的に一致している"か? 新しいプレプリント! fib - 事実的不一致基準 - を導入し,23 llms を評価します. @anisham197 @byryuer @mohitban47 @colinraffel   ️ 
- * [petals](https://github.com/bigscience-workshop/petals) - 🌸 100B+言語モデルを自宅で BitTorrent スタイルで実行します. 細かな調整と推論は,オフロードよりも 10倍速くなります.
- * [emailGPT](https://github.com/lucasmccabe/emailgpt) - ChatGPT でメールを作成するための迅速で簡単なインターフェース
- * [gpt3-contextual](https://github.com/uezo/gpt3-contextual) - OpenAI API の GPT-3 モデルによる文脈チャット
- * [olm-datasets](https://github.com/huggingface/olm-datasets) - オンライン言語モデルプレトレーニングデータをウェブから抽出し処理するためのパイプライン
- * [sat-reading](https://github.com/jquesnelle/sat-reading) - 言語モデル vs. SAT 読解テスト!彼らは ~90%のスコアを記録し,Flan-t5は gpt-3.5とよくやっている!さらに良く調整!すべての詳細は,質問を含む新しい huggingfaceデータセットを含む,ここで入手できます (+モデル): 
- * [tenetlang](https://github.com/tenetlang/tenetlang) - 人間 に 向け られ た GPT 設計 言語
- * [datasloth](https://github.com/ibestvina/datasloth) - 自然言語 パンダのクエリと GPT-3 で動作するデータ生成
- * [trl](https://github.com/lvwerra/trl) - 補強学習のトランスフォーマー言語モデルを訓練する
- * [ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert) - 🎁[ChatGPT4NLU] チェットGPTと精細調整されたBERTの比較研究
- * [unilm](https://github.com/microsoft/unilm) - 作業,言語,および形態の間で,大規模な自己監督予備訓練
- * [LAVIS](https://github.com/salesforce/lavis) - LAVIS - 言語・視覚知能のための単一図書館
- * [haltt4llm](https://github.com/manyoso/haltt4llm) - このプロジェクトは,法学士号のテストの共通指標を確立しようとしています. これは,法学士号の多くの実際の目的での普及において,最も深刻な問題である幻覚の除去における進歩です.
- * [paper-qa](https://github.com/whitead/paper-qa) - LLM 引用文の文書からの質問への回答のチェーン
- * [guardrails](https://github.com/shreyar/guardrails) - 言語モデルにガードレールを追加します
- * [auto-redteam](https://github.com/traghav/auto-redteam) - 他のLLMを利用したLLMをレッドチームする
- * [self-ask](https://github.com/ofirpress/self-ask) - "言語モデルにおける構成格差の測定と縮小"のコードとデータ
- * [llm-lobbyist](https://github.com/johnnay/llm-lobbyist) - 論文のコード: "企業ロビー活動家としての大言語モデル" (2023年)
- * [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) - このリポジトリには ハグジングフェイスのトランスフォーマーライブラリで作った デモが収録されています
- * [dsp](https://github.com/stanfordnlp/dsp) - DSP: デモンストレーション・検索・予測.知識密集型NLPのための復元と言語モデルを構成するための枠組み.
- * [GraphGPT](https://github.com/varunshenoy/graphgpt) - 知識グラフをGPT-3を使って非構造テキストから抽象化する
- * [backend-GPT](https://github.com/theappletucker/backend-gpt) - 背景接続: llmは最近のスケールハッカソンからのバックエンドインスピレーションプロジェクトです. llmバックエンドは,状態をjson blobとして取り,それを変更します. 英語の説明.
- * [subtitle-translator](https://github.com/gnehs/subtitle-translator) - ChatGPT を使って字幕を翻訳する
- * [tesseract.js](https://github.com/naptha/tesseract.js) - 100以上の言語の純粋なJavaScript OCR
- * [obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - テキストジェネレーターは,GPT-3 (OpenAI) を使用してテキストコンテンツを生成するのに役立つ,オブシディアンの便利なプラグインです.
- * [nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) -  OpenAIのGPT-4で動いているレスポンシブチャットアプリケーション.レスポンシブストリーミング,コードハイライト,開発者向けのさまざまなプレセット.Next.js,React,Joyを使用.
- * [chatgpt-i18n](https://github.com/observedobserver/chatgpt-i18n) - AIの助けでローカルJSONファイルを翻訳します.
- * [platform](https://github.com/cognosisai/platform) - 詳細な調整とk-shootingの例です. 詳細な調整とk-shootingの例は,この問題に取り組むことができます.
- * [minds](https://github.com/dosco/minds) - MindsJS - AIで動いたワークフローを簡単に構築する
- * [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - 指導を調整したチャットスタイルLLMを 運営します
- * [ChatARKit](https://github.com/trzy/chatarkit) - ChatGPTを使って自然言語でAR体験を作成します
- * [alpaca.cpp](https://github.com/rupeshs/alpaca.cpp) - ローカルにインストラクションチューニングチャットスタイルLLM (Android/Linux/Windows/Mac) を実行する
- * [rust-bert](https://github.com/guillaume-be/rust-bert) - 耐腐食のネイティブで使いやすいNLPパイプラインとトランスフォーマーベースのモデル (BERT,DistilBERT,GPT2,...)
- * [gpttools](https://github.com/jameshwade/gpttools) - gpttools は gptstudio のパッケージ開発拡張機能で,コードを文書化したり,テストを書いたり,コードを説明したりする手助けをします.
- * [gpttools](https://github.com/jameshwade/gpttools) - gpttools は gptstudio のパッケージ開発拡張機能で,コードを文書化したり,テストを書いたり,コードを説明したりする手助けをします.
- * [semantic-kernel](https://github.com/microsoft/semantic-kernel) - テクノロジーが簡単にアプリに組み込まれます
- * [CoCoGen](https://github.com/madaan/cocogen) - nlpの課題は gpt-3 と t5 よりうまく機能している. nl問題を偽python に変換すれば,
- * [WelcomeHouseEnglishPatch](https://github.com/nikita600/welcomehouseenglishpatch) - Welcome Houseはソニー・プレイステーション向けに発売された日本独占アドベンチャーゲームです. 英語翻訳パッチが追加されました. アルファ版ですが,完全に翻訳されるべきです.by nikita600 &amp; chatgpt: #ps1 #psx #retrogaming 
- * [gpt-3](https://github.com/openai/gpt-3) - GPT-3: 言語モデルが素早い学習者
- * [siri-chatgpt](https://github.com/liujch1998/siri-chatgpt) - 簡単にこのショートカット (リポのリンク) をiPhoneにダウンロードして,ショートカットアプリでスクリプトを編集して (APIキーをテキストボックスに貼り付け), "Hey Siri, chatgpt" と言っておきましょう. お気に入りの質問!
- * [practical-llms](https://github.com/aggregate-intellect/practical-llms) - 信頼してチャットGPTのようにクソを言うことができるように,でも,また,すぐにアイデアから製品へと進む方法について,最新と最高の llmで, 9時間連続で1時間分のプレゼンテーションを!
+ * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - 透過日常語言提出問題, 您可以輕鬆搜尋和找到個人或工作文件.
+ * [BioGPT](https://github.com/microsoft/biogpt) - 這種語言模型在回答生物醫學文獻中的問題上比人類更好,
+ * [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - 該組織將會在此處進行訓練,
+ * [openai-python](https://github.com/openai/openai-python) - 提供方便的使用Python語言的應用程式.
+ * [Gepetto](https://github.com/justicerage/gepetto) - 請使用這個程式來快速完成IDA插件.
+ * [FlexGen](https://github.com/fminference/flexgen) - 執行大型語言模型在單一的GPU上,
+ * [RWKV-LM](https://github.com/blinkdl/rwkv-lm) - RWKV是一款具有變壓器級LLM性能的RNN. 它可以直接訓練像GPT (可並列). 因此它結合了RNN和變壓器的最佳性能,快速推論,節省VRAM,快速訓練, "無限" ctx_len,以及自由的句子嵌入.
+ * [mario-gpt](https://github.com/shyamsn97/mario-gpt) - 透過大型語言模型生成Mario Level. 該文的代碼為"MarioGPT:開放式文本2級生成"
+ * [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - 使用人工智能翻譯製作雙語ePUB書籍
+ * [llm-security](https://github.com/greshake/llm-security) - 打破應用程式集成的LLM的新方法
+ * [GLM-130B](https://github.com/thudm/glm-130b) - 該網站的網站是一個開放的雙語預先訓練模型 (ICLR 2023)
+ * [trlx](https://github.com/carperai/trlx) - 透過人體反 (RLHF) 強化學習的語言模型分布式培訓
+ * [gpt-2](https://github.com/openai/gpt-2) - 語言模型是無監督多任務學習者
+ * [DocsGPT](https://github.com/arc53/docsgpt) - 提供資料搜尋及協助.
+ * [GPTSAN](https://github.com/tanreinama/gptsan) - 基於日語語言的Swich變壓器模型.
+ * [BIG-bench](https://github.com/google/big-bench) - 模仿遊戲的合作基准,
+ * [gptlang](https://github.com/forrestchang/gptlang) - 這種語言是GPT-4實現的新程式語言,
+ * [hlb-gpt](https://github.com/tysam-code/hlb-gpt) - 簡約,快速,且適合實驗的研究員工具台,可在~<365行代碼中使用GPT類型模型. 在單個A100上,在~138秒內達到wikitext-103上的 <3.8驗證損失.
+ * [hn_summary](https://github.com/jiggy-ai/hn_summary) - 總結了使用大型語言模型的客新聞的熱門新聞,
+ * [transformers](https://github.com/huggingface/transformers) - 變壓器:為Pytorch, TensorFlow和JAX提供最先進的機器學習.
+ * [ChatGLM-6B](https://github.com/thudm/chatglm-6b) - 聊天GLM-6B:開源雙語對話語言模型.
+ * [self-instruct](https://github.com/yizhongw/self-instruct) - 訓練前的語言模型與自己生成的指令數據進行調整.
+ * [knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - 准確的答案和即時引用.
+ * [lqae](https://github.com/lhao499/lqae) - 語言量化自動編碼器
+ * [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca#fine-tuning) - 該組織將會在此處進行訓練,
+ * [fib](https://github.com/r-three/fib) - 我們推出FIB - - 實際不一致性基准 - - 並評估23項工作.
+ * [petals](https://github.com/bigscience-workshop/petals) - 🌸在家裡執行100B+語言模型,像BitTorrent一樣.
+ * [emailGPT](https://github.com/lucasmccabe/emailgpt) - 快速,簡單的接口,
+ * [gpt3-contextual](https://github.com/uezo/gpt3-contextual) - 透過 OpenAI API 的 GPT-3 模型進行上下文聊天
+ * [olm-datasets](https://github.com/huggingface/olm-datasets) - 網路語言模型預訓練數據的抽取和處理管道
+ * [sat-reading](https://github.com/jquesnelle/sat-reading) - 其他語言模型與SAT閱讀測試相比! 他們的分數為~90%,而Flan-t5的成績還是比gpt-3.5還好!
+ * [tenetlang](https://github.com/tenetlang/tenetlang) - 專為人類而設計的GPT語言
+ * [datasloth](https://github.com/ibestvina/datasloth) - 透過GPT-3提供自然語言的熊猫查詢和數據生成
+ * [trl](https://github.com/lvwerra/trl) - 訓練變壓器語言模型使用補強學習.
+ * [ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert) - 🎁[聊天GPT4NLU] 聊天GPT與精準調節BERT的比較研究
+ * [unilm](https://github.com/microsoft/unilm) - 跨任務,語言和方式的大規模自我監督預備訓練
+ * [LAVIS](https://github.com/salesforce/lavis) - 拉維斯 - 語言視覺智能的一站式圖書館
+ * [haltt4llm](https://github.com/manyoso/haltt4llm) - 這項計畫是試圖建立一個共同的指標, 來測試法學士在消除幻覺方面取得的進展,
+ * [paper-qa](https://github.com/whitead/paper-qa) - 應用程式應用程式
+ * [guardrails](https://github.com/shreyar/guardrails) - 增加保護在大型語言模型上.
+ * [auto-redteam](https://github.com/traghav/auto-redteam) - 透過其他法規法規組織建立紅組,
+ * [self-ask](https://github.com/ofirpress/self-ask) - 語言模型中的組成差距的測量和縮小
+ * [llm-lobbyist](https://github.com/johnnay/llm-lobbyist) - 該論文的代碼: "大型語言模式作為企業游說家" (2023年).
+ * [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) - 這裡有我用過的變形金剛圖書館的演示.
+ * [dsp](https://github.com/stanfordnlp/dsp) - 該網站的目標是:
+ * [GraphGPT](https://github.com/varunshenoy/graphgpt) - 透過GPT-3從非結構化文本中抽取知識圖表️ ♂️
+ * [backend-GPT](https://github.com/theappletucker/backend-gpt) - 請使用 llm 來幫助您寫一個後端連線: llm 是最近一場規模黑客賽的後端啟發計畫. llm 后端將狀態取為 json blob,
+ * [subtitle-translator](https://github.com/gnehs/subtitle-translator) - 使用ChatGPT翻譯字幕
+ * [tesseract.js](https://github.com/naptha/tesseract.js) - 純粹的JavaScriptOCR可提供超過100種語言
+ * [obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - 文本生成器是Obsidian的便利插件,
+ * [nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - 使用OpenAI的GPT-4支持的响應式聊天應用程式, 應用程式的回應流,代碼突出,開發者可使用各種預設.
+ * [chatgpt-i18n](https://github.com/observedobserver/chatgpt-i18n) - 翻譯你的本地json檔案使用人工智能幫助.
+ * [platform](https://github.com/cognosisai/platform) - 很可能會有很多問題: gpt模型可能不像SQL那麼了解數據區域.
+ * [minds](https://github.com/dosco/minds) - 建立人工智能工作流程
+ * [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - 該國的法律學位是:
+ * [ChatARKit](https://github.com/trzy/chatarkit) - 透過 ChatGPT 創建使用自然語言的AR體驗.
+ * [alpaca.cpp](https://github.com/rupeshs/alpaca.cpp) - 實現一個"通話風格"的法學士課程 (Android/Linux/Windows/Mac)
+ * [rust-bert](https://github.com/guillaume-be/rust-bert) - 原生即用NLP管道和轉變器型號 (BERT,DistilBERT,GPT2,...)
+ * [gpttools](https://github.com/jameshwade/gpttools) - 幫助您編寫代碼,寫測試,甚至解釋代碼.
+ * [gpttools](https://github.com/jameshwade/gpttools) - 幫助您編寫代碼,寫測試,甚至解釋代碼.
+ * [semantic-kernel](https://github.com/microsoft/semantic-kernel) - 快速與簡單地將最先進的法學士學位技術整合到應用程式中,
+ * [CoCoGen](https://github.com/madaan/cocogen) - 只有在某些情況下, 代碼的性能比gpt-3和t5還好,
+ * [WelcomeHouseEnglishPatch](https://github.com/nikita600/welcomehouseenglishpatch) - 歡迎家園是一個不為人知的日本專屬遊戲,
+ * [gpt-3](https://github.com/openai/gpt-3) - 語言模型是少數次學習的
+ * [siri-chatgpt](https://github.com/liujch1998/siri-chatgpt) - 請在快捷鍵應用程式中編輯它的脚本 (即將API鍵貼入文字框), 然後說:" Siri,
+ * [practical-llms](https://github.com/aggregate-intellect/practical-llms) - 如何從想法到產品, 透過最新的ILM, 持續9小時的長達1小時的演示!
 
 
 |Name|Language|License|GitHub Stars|
@@ -636,29 +634,29 @@
 
 ## Langchain
 
- * [langchain](https://github.com/hwchase17/langchain) -  複合性によってLLMでアプリケーションを構築する
- * [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLaMA, llama.cpp, GPT-J, OPT,および GALACTICAのような大型言語モデルを実行するためのグラディオウェブUI.
- * [llama](https://github.com/facebookresearch/llama) - LLaMAモデルのための推論コード
- * [llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPTインデックス) は,あなたのLLMを外部データと接続するための中央インターフェースを提供するプロジェクトです.
- * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - GPTはYouTuberをやっている
- * [GPTQ-for-LLaMa](https://github.com/qwopqwop200/gptq-for-llama) - GPTQ を使った LLaMA の 4 ビット量子化
- * [intelgpt](https://github.com/phishing-hunter/intelgpt) - IntelGPTは,GPT3を使用して URL,ファイルハッシュ,ドメイン名,IPアドレスなどの特定の入力を検査できるようにするコマンドラインツールです.
- * [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - gptやその他の言語モデルを使用してすべての情報源から知識を引き出す. 情報源をインデックスし,Q&Aセッションを行う.
- * [llama_index_starter_pack](https://github.com/logan-markewich/llama_index_starter_pack) - このリポジトリでは, llama_index (fka gpt_index) パッケージの非常に基本的な flask,streamlit,docker の例が提供されています
- * [llama-int8](https://github.com/tloen/llama-int8) - LLaMAモデルのための量子化推論コード
- * [point-alpaca](https://github.com/pointnetwork/point-alpaca) - 合成指示データセットで精調整しました. 驚くほど良いです: (覚えておいてください,以下の結果は最小の7bモデルからのみです. gpt-3は175bです)
- * [xturing](https://github.com/stochasticai/xturing) - 独自のLLMを構築し,管理する
- * [llm-strategy](https://github.com/blackhc/llm-strategy) - 直接LLMにPythonを接続する - データクラスとインターフェース <-> LLM
- * [agentchain](https://github.com/jina-ai/agentchain) - 論理的思考のためのLLMを連結し,複雑なタスクを遂行するための複数の大きなモデルをオーケストラします
- * [examples](https://github.com/pinecone-io/examples) - @langchainaiのドキュメントを新しい @openai chatgpt 復元APIに追加する
- * [alpaca-lora](https://github.com/tloen/alpaca-lora) - 消費者のハードウェアで LLaMA をインストークトチューンする
- * [ClassGPT](https://github.com/benthecoder/classgpt) - プレゼンスのスライドのためのChatGPT
- * [KoAlpaca](https://github.com/beomi/koalpaca) - コアルパカ:スタンフォードアルパカをベースにした韓国アルパカモデル (feat. LLAMA and Polyglot-ko)
- * [langflow](https://github.com/logspace-ai/langflow) - ️ LangFlowは LangChain の UI で,実験やプロトタイプ 流れを簡単にできるように react-flow を使って設計されています.
- * [langchainjs](https://github.com/hwchase17/langchainjs) - gpt-3.5-turboから始めて,簡単なチャットアプリを作ることをお勧めします. しかし,それ以上の機能はたくさんあります!
- * [llama.cpp](https://github.com/ggerganov/llama.cpp) - FacebookのLLaMAモデルをC/C++で移植する
- * [llama-dl](https://github.com/shawwn/llama-dl) - LLaMAの高速ダウンロード,フェイスブックの 65B パラメータ GPT モデル
- * [dalai](https://github.com/cocktailpeanut/dalai) - LLaMA をローカルマシンで実行する最も簡単な方法
+ * [langchain](https://github.com/hwchase17/langchain) - 透過可組成性,使用LLM建立應用程式
+ * [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - 提供了使用LLaMA, llama.cpp, GPT-J, OPT和Galactica等大型語言模型的格拉迪歐網際使用者界面.
+ * [llama](https://github.com/facebookresearch/llama) - 推論代碼為LLaMA模型
+ * [llama_index](https://github.com/jerryjliu/llama_index) - 提供聯繫您的法學士與外部數據的中央接口.
+ * [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - 沒有任何關於我們的消息.
+ * [GPTQ-for-LLaMa](https://github.com/qwopqwop200/gptq-for-llama) - 使用GPTQ量化LLaMA的4位數
+ * [intelgpt](https://github.com/phishing-hunter/intelgpt) - 該工具可使用 GPT3 檢查特定輸入,如網址,檔案散列,域名和IP地址.
+ * [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - 提取所有資訊來源的知識, 使用gpt和其他語言模型.
+ * [llama_index_starter_pack](https://github.com/logan-markewich/llama_index_starter_pack) - 這裡提供了非常基本的flask,streamlit和docker範例,
+ * [llama-int8](https://github.com/tloen/llama-int8) - 數量化推論代碼
+ * [point-alpaca](https://github.com/pointnetwork/point-alpaca) - 我們將重量從復制的斯坦福7b-拉馬精準調節的合成指令數據集中釋放出來.
+ * [xturing](https://github.com/stochasticai/xturing) - 建立和控制自己的LLM
+ * [llm-strategy](https://github.com/blackhc/llm-strategy) - 直接連接Python與LLM -數據類與接口 <->
+ * [agentchain](https://github.com/jina-ai/agentchain) - 串連LLM來推理,並編排多個大型模型完成複雜任務
+ * [examples](https://github.com/pinecone-io/examples) - 開始將@langchainai文件添加到您的新@openaichatgpt查找API:
+ * [alpaca-lora](https://github.com/tloen/alpaca-lora) - 在消費者硬體上執行LLaMA
+ * [ClassGPT](https://github.com/benthecoder/classgpt) - 關於演講幻燈片的ChatGPT
+ * [KoAlpaca](https://github.com/beomi/koalpaca) - 韓國阿爾帕卡模型以斯坦福阿爾帕卡為基礎 (feat.
+ * [langflow](https://github.com/logspace-ai/langflow) - ️ LangFlow是 LangChain 的 UI, 設計與 react-flow,
+ * [langchainjs](https://github.com/hwchase17/langchainjs) - 建議從gpt-3.5-turbo開始, 建立一個簡單的聊天應用程式,
+ * [llama.cpp](https://github.com/ggerganov/llama.cpp) - 透過C/C++移植Facebook的LLaMA模型
+ * [llama-dl](https://github.com/shawwn/llama-dl) - 快速下載LLaMA, 臉書的65B參數GPT模型
+ * [dalai](https://github.com/cocktailpeanut/dalai) - 在本地機上執行LLaMA的最簡單方式
 
 
 |Name|Language|License|GitHub Stars|
@@ -690,13 +688,13 @@
 
 ## Unity
 
- * [ChatAI](https://github.com/diegocambiaso/chatai) - Mozillaのコミュニティディレクトリです. Mozillaのすべての貢献者の集中ディレクトリです.
- * [llama-hub](https://github.com/emptycrown/llama-hub) - コミュニティによって作成されたLLMのためのデータロードーのライブラリ -- GPTインデックスおよび/または LangChainで使用されます
- * [AICommand](https://github.com/keijiro/aicommand) - ChatGPT と Unity エディタ の統合
- * [AIShader](https://github.com/keijiro/aishader) - ChatGPTで動いた Unity のシェーダー 発電機
- * [ChatGPT-API-unity](https://github.com/mochi-neko/chatgpt-api-unity) - ChatGPTのチャット完了APIを Unityの純粋なC#に結合します
- * [OpenAI-Unity](https://github.com/srcnalt/openai-unity) - 公式でない OpenAI Unity パッケージで,Unity ゲームエンジンで直接 OpenAI API を使用できるようにします.
- * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - Chat GPT In Unity の例がいくつかあります
+ * [ChatAI](https://github.com/diegocambiaso/chatai) - 提供所有Mozilla貢獻者的集中目錄!
+ * [llama-hub](https://github.com/emptycrown/llama-hub) - 社群所製作的LLM資料載入器圖書館 -- 用於GPT指數和/或LangChain
+ * [AICommand](https://github.com/keijiro/aicommand) - 透過 ChatGPT 與 Unity 編輯器的集成
+ * [AIShader](https://github.com/keijiro/aishader) - 支持 ChatGPT 的 Unity 影子生成器
+ * [ChatGPT-API-unity](https://github.com/mochi-neko/chatgpt-api-unity) - 接觸到網路網路的網路使用者.
+ * [OpenAI-Unity](https://github.com/srcnalt/openai-unity) - 這是一款非官方的 OpenAI Unity Package,
+ * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - 僅有幾例使用GPT在Unity聊天
 
 
 |Name|Language|License|GitHub Stars|
@@ -712,69 +710,69 @@
 
 ## Openai
 
- * [BlenderGPT](https://github.com/gd3kr/blendergpt) - OpenAIのGPT-4でBlenderを制御するために英語のコマンドを使用します
- * [evals](https://github.com/openai/evals) - Evalsは OpenAI モデルを評価するためのフレームワークであり,ベンチマークのオープンソースのレジストリです.
- * [VulChatGPT](https://github.com/ke0z/vulchatgpt) - バイナリで可能な脆弱性を発見するために OpenAI (ChatGPT) と IDA PRO HexRays デコンパイラを使用します
- * [OpenChatKit](https://github.com/togethercomputer/openchatkit) - は20bパラームモデルで,ex@openaiの仲間 (@togethercompute) が作成し,@aieleutherのgpt-neox-20bを使って微調整しました!デモ:  gh: ️動画: @itakgol ↓ 
- * [chatgpt-python](https://github.com/labteral/chatgpt-python) - OpenAI の ChatGPT の非公式 Python SDK
- * [gpt-commit](https://github.com/markuswt/gpt-commit) - ChatGPT を使ってコミットメッセージを生成する
- * [chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - OpenAI API & Gradio で自分の ChatGPT を構築する
- * [tiktoken](https://github.com/openai/tiktoken) - tiktokenは OpenAI のモデルで使用できる BPE トークナーです
- * [pyChatGPT](https://github.com/terry3041/pychatgpt) - OpenAIのChatGPT APIの非公式の Python ウェッパー
- * [davinci-functions](https://github.com/odashi/davinci-functions) - Python実行時にオブジェクトを生成するために OpenAI GPT に要求するライブラリ.
- * [chatgpt_ros](https://github.com/koichirokato/chatgpt_ros) - ChatGPT API の ROS ループ
- * [DAILA](https://github.com/mahaloz/daila) - デコンパイラ統一プラグインで,デコンパイラ体験を向上させる OpenAI API にアクセスできます
- * [GPTReview](https://github.com/iejmac/gptreview) - 公開されたGPTモデルを入手して,PRのレビューをしてください.
- * [genai](https://github.com/noteable-io/genai) - GPTがノートブックに 役立つとしたら?
- * [openai-cookbook](https://github.com/openai/openai-cookbook) - OpenAI API の使用例とガイド
- * [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - Mac用のチャットGPTはメニューバーに生息しています
- * [everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: ChatGPTのウェブアプリ (chat.openai.com) で,ハッドの下に何が起きているのか調べましょう.
- * [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于 ChatGPT API のテキスト翻訳、テキスト色、語法修正錯誤 ボブ 插件,一緒に迎えてみよう!
- * [userscripts](https://github.com/adamlui/userscripts) -  MTurk,ChatGPT,その他のGreasemonkeyユーザースクリプト
- * [ChatGPTCustomizer](https://github.com/soulhighwing/chatgptcustomizer) - ChatGPTCustomizerは,ChatGPT APIの力を利用してチャット体験を個性化するのに役立ちます
- * [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - gpt-3.5-ターボモデルに基づくChatGPTの鏡.
- * [gptproxy](https://github.com/xicilion/gptproxy) - GitLab API キーを使って プロキシ API を開きます
- * [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - 非公式のVisual Studioコード - OpenAI ChatGPT統合
- * [logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - Logseq を取り込む GPT-3 AI 支援メモ用のプラグイン
- * [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - OpenAI APIをベースにしたデモリポです
- * [OpenGpt](https://github.com/futantan/opengpt) - 簡単に ChatGPT アプリを作成します
- * [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - 優雅で強力で OpenAIとVercelで動いています
- * [ts-chatgpt](https://github.com/takagimeow/ts-chatgpt) - ChatGPT API を使ってタイプされた純粋な応答を受信するために作成されたライブラリです.
- * [openai-node](https://github.com/openai/openai-node) - OpenAI API の Node.js ライブラリ
- * [butler.vim](https://github.com/lambdalisue/butler.vim) -  あなたの執事. OpenAI API と通信するVim/Neovimプラグインのような ChatGPT
- * [M5Unified_StackChan_ChatGPT](https://github.com/robo8080/m5unified_stackchan_chatgpt) - "ChatGPT API搭載のAIスタックチャン"です.
- * [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - OpenAIのWhisperモデルをC/C++でポートする
- * [ChatGPT](https://github.com/lencx/chatgpt) -  ChatGPT デスクトップアプリケーション (Mac,Windows,Linux)
- * [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Mac & Windows のための非公式 ChatGPT デスクトップ アプリ タウリ&  rust を使ったメニューバー
- * [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) -  钉钉 &  GPT-3.5 让你的工作效率直接起飛  私聊群聊方式、单聊串聊模式、角色扮演、图片作成 
- * [go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT,GPT-3,GPT-4,DALL·E,Go用のウィスパーAPIラッピング
- * [feishu-chatgpt](https://github.com/leizhenpeng/feishu-chatgpt) - 飞书 ×(GPT-3.5 + DALL·E + Whisper)= 飛一般の仕事体験  语音会話、角色扮演、多话题討論、图片創作、表格分析、文档导出 
- * [kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ OpenAI GPT の Kubectl プラグイン
- * [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Kubernetes SREのスーパーパワーをすべての人に与えること
- * [ChatGPT-Proxy-V4](https://github.com/acheong08/chatgpt-proxy-v4) - `プイド`をベースにした OpenAI の Cloudflare バイパス
- * [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - ChatGPT (または他のバックエンド) を使用して,単一のファイルで自動的に PPT を生成します.
- * [CallGPT](https://github.com/dmingod/callgpt) - コンピュータからChatGPT API を呼び出す簡単な方法
- * [ruby-openai](https://github.com/alexrudall/ruby-openai) - オープンAI API + Ruby! ❤️ ChatGPTとWhisperが登場しました
- * [openai_pipe](https://github.com/aesthetikx/openai_pipe) - OpenAI に UNIX 対応のインターフェース
- * [gptchatteR](https://github.com/isinaltinkaya/gptchatter) - Rで OpenAI GPTモデルとインタラクションを行うための実験的・非公式のラッピングです.
- * [askgpt](https://github.com/jbgruber/askgpt) - OpenAI の API エンドポイントの上に構築されたチャットインターフェース
- * [openai](https://github.com/samterfa/openai) - このRパッケージは,Open AI APIのSDKを提供します.
- * [ChatGptNet](https://github.com/marcominerva/chatgptnet) - .NET の ChatGPT 統合ライブラリ
- * [Simple-ChatGPT-API-Desktop](https://github.com/cranot/simple-chatgpt-api-desktop) - シンプル ChatGPT API デスクトップ用
- * [openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何速速でOpenAI/GPTアプリケーションを開発する:国内開発者のメモ
- * [ChatGPTSwift](https://github.com/alfianlosari/chatgptswift) - スウィフトを使用して ChatGPT API にアクセス
- * [nitmgpt](https://github.com/deskbtm/nitmgpt) - nitmgpt (Notification-in-the-middle GPT). ChatGPT を通して広告やスパム通知をフィルターする.
- * [iChatGPT](https://github.com/37ios/ichatgpt) - OpenAI ChatGPT SwiftUIアプリ iOS,iPadOS,macOS向け
- * [SwiftOpenAI](https://github.com/swiftbeta/swiftopenai) - スイフトで構築した OpenAI API ❤️
- * [mind-wave](https://github.com/manateelazycat/mind-wave) - Emacs AIプラグイン ChatGPT API をベースにした
- * [OpenAISwift](https://github.com/adamrushy/openaiswift) - これはChatGPTとOpenAIの HTTP APIのラップパーライブラリです
- * [coai](https://github.com/toddfries/coai) - OpenAI::API でチャットする
- * [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - 簡単な軽量ライブラリで Open AI APIを包み込む
- * [carrot](https://github.com/xx025/carrot) - 免費 ChatGPT サイトリスト 这儿为你准备了众多免费好用的 ChatGPT镜像 サイト,当前100+ サイト
- * [impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt) - OpenAIのchatgptから 印象的で有用な結果のコレクション
- * [bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt) - bbfuzzing.txtaは,70%が chatgptで生成された単語を備えています. 残りの30%は,bo0om,circuit,その他のバグバウンターから集めた辞書です. #chatgpt 
- * [chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt) - GitHubの問題コメントで ChatGPTとチャットします.
- * [berri_ai](https://github.com/clerkieai/berri_ai) - オープンなケースで80%しかありません. 広い用途で使えるパイプをテストして,問題がある場合はお知らせください.
+ * [BlenderGPT](https://github.com/gd3kr/blendergpt) - 使用英語命令控制Blender使用OpenAI的GPT-4
+ * [evals](https://github.com/openai/evals) - 該網站提供了一個新的標準,
+ * [VulChatGPT](https://github.com/ke0z/vulchatgpt) - 請使用IDA PRO HexRays解編譯器與OpenAI ((ChatGPT) 找到二進制文件中的可能漏洞.
+ * [OpenChatKit](https://github.com/togethercomputer/openchatkit) - 它是由前 @openai人 (@togethercompute) 建立的20b param模型, 並使用@aieleuther的gpt-neox-20b進行精準調整!演示:  gh: ️影片: @itakgol ↓ 
+ * [chatgpt-python](https://github.com/labteral/chatgpt-python) - 沒有官方版的 Python SDK 應用於 OpenAI 的 ChatGPT
+ * [gpt-commit](https://github.com/markuswt/gpt-commit) - 使用 ChatGPT 生成提交訊息
+ * [chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - 建立自己的ChatGPT使用OpenAI API和Gradio
+ * [tiktoken](https://github.com/openai/tiktoken) - 該網站的目標是:
+ * [pyChatGPT](https://github.com/terry3041/pychatgpt) - 沒有官方版的Python包裝為OpenAI的ChatGPT API
+ * [davinci-functions](https://github.com/odashi/davinci-functions) - 圖書館要求OpenAI GPT在Python運行時間生成對象.
+ * [chatgpt_ros](https://github.com/koichirokato/chatgpt_ros) - 關於 ChatGPT API 的 ROS 包裝
+ * [DAILA](https://github.com/mahaloz/daila) - 解編輯器統一插件,可使用OpenAI API來改善解編輯體驗
+ * [GPTReview](https://github.com/iejmac/gptreview) - 請使用 OpenAI GPT 模型檢視您的公關
+ * [genai](https://github.com/noteable-io/genai) - 如果GPT能幫你寫筆記本?
+ * [openai-cookbook](https://github.com/openai/openai-cookbook) - 如何使用 OpenAI API
+ * [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - 網路使用者必須在網路上使用,
+ * [everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 探索使用ChatGPT網頁應用程式 (chat.openai.com) 背後發生的事情.
+ * [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - 基于GPT API的文字翻譯,文字色,語法訂錯Bob插件,讓我們一起迎接不需要巴别塔的新時代!
+ * [userscripts](https://github.com/adamlui/userscripts) - 使用MTurk,ChatGPT和其他Greasemonkey使用者程式.
+ * [ChatGPTCustomizer](https://github.com/soulhighwing/chatgptcustomizer) - 透過 ChatGPT API 的功能,
+ * [chatgpt-mirror](https://github.com/yuezk/chatgpt-mirror) - 這是一種基於gpt-3.5輪機型的ChatGPT鏡頭.
+ * [gptproxy](https://github.com/xicilion/gptproxy) - 請使用GitLab API鍵,
+ * [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - 沒有官方的視覺工作室代碼 - OpenAI ChatGPT整合
+ * [logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - 接收Logseq的GPT-3人工智能輔助筆記插件
+ * [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - 這是一款基于OpenAIAPI的試用回收.
+ * [OpenGpt](https://github.com/futantan/opengpt) - 創建自己的ChatGPT應用程式.
+ * [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - 精而強大, 由OpenAI和Vercel提供支持.
+ * [ts-chatgpt](https://github.com/takagimeow/ts-chatgpt) - 透過官方的ChatGPT API輸入的純粹回覆.
+ * [openai-node](https://github.com/openai/openai-node) - 提供 Node.js 庫存
+ * [butler.vim](https://github.com/lambdalisue/butler.vim) - 你的管家.像Vim/Neovim插件一樣的ChatGPT,
+ * [M5Unified_StackChan_ChatGPT](https://github.com/robo8080/m5unified_stackchan_chatgpt) - 這裡有許多不同的語言,
+ * [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - 接觸 OpenAI 的 Whisper 模型
+ * [ChatGPT](https://github.com/lencx/chatgpt) -  ChatGPT桌面應用程式 (Mac,Windows和Linux)
+ * [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - 沒有官方的Mac和Windows桌面應用程式,
+ * [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) -  钉钉 &  GPT-3.5 讓你的工作效率直接起飛  私聊群聊方式、單聊串聊模式、角色扮演、圖片創作
+ * [go-openai](https://github.com/sashabaranov/go-openai) - 打開AI聊天GPT,GPT-3,GPT-4,DALL·E,Go 的語API包裝
+ * [feishu-chatgpt](https://github.com/leizhenpeng/feishu-chatgpt) - 飛書 ×(GPT-3.5 + DALL·E + Whisper)= 飛一般的工作體驗  语音对话、角色扮演、多话题討論、圖片創作、表格分析、文档导出 
+ * [kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl插件為OpenAI GPT
+ * [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - 提供 Kubernetes SRE 超能力給所有人
+ * [ChatGPT-Proxy-V4](https://github.com/acheong08/chatgpt-proxy-v4) - 基于片的OpenAI使用 Cloudflare
+ * [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) - 透過 ChatGPT (或其他後端) 自動生成 PPT,
+ * [CallGPT](https://github.com/dmingod/callgpt) - 簡單的方式從您的機器呼叫ChatGPT API
+ * [ruby-openai](https://github.com/alexrudall/ruby-openai) - ❤️現在使用ChatGPT和Whisper...
+ * [openai_pipe](https://github.com/aesthetikx/openai_pipe) - 接口與OpenAI的UNIX
+ * [gptchatteR](https://github.com/isinaltinkaya/gptchatter) - 試用與非官方包裝器,
+ * [askgpt](https://github.com/jbgruber/askgpt) - 聊天接口建立在 OpenAI 的 API 端點之上
+ * [openai](https://github.com/samterfa/openai) - 這套R包提供了開啟AIAPI的 SDK
+ * [ChatGptNet](https://github.com/marcominerva/chatgptnet) - 網路版的 ChatGPT 集成庫
+ * [Simple-ChatGPT-API-Desktop](https://github.com/cranot/simple-chatgpt-api-desktop) - 簡易的桌面聊天GPT API
+ * [openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速開發一個OpenAI/GPT應用程式:國內開發者筆記
+ * [ChatGPTSwift](https://github.com/alfianlosari/chatgptswift) - 使用 Swift 访问 ChatGPT API
+ * [nitmgpt](https://github.com/deskbtm/nitmgpt) - 透過ChatGPT過濾廣告或垃圾郵件通知.
+ * [iChatGPT](https://github.com/37ios/ichatgpt) - 打開AIGPT SwiftUI聊天應用程式,
+ * [SwiftOpenAI](https://github.com/swiftbeta/swiftopenai) - 透過 Swift 建立 OpenAI API ❤️
+ * [mind-wave](https://github.com/manateelazycat/mind-wave) - 基于ChatGPT API的Emacs AI插件
+ * [OpenAISwift](https://github.com/adamrushy/openaiswift) - 這是一個包裝圖書館,
+ * [coai](https://github.com/toddfries/coai) - 聊天使用 OpenAI::API
+ * [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - 這是一本簡易輕巧的圖書館,
+ * [carrot](https://github.com/xx025/carrot) - 免費聊天GPT網站列表 這儿为你准备了众多免費好用的聊天GPT镜像站点,当前100+站点
+ * [impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt) - 收集了OpenAI的聊天工具
+ * [bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt) - 剩下的30%是來自bo0om,circuit和其他bugbounters的字典.
+ * [chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt) - 透過GitHub問題留言與ChatGPT進行聊天.
+ * [berri_ai](https://github.com/clerkieai/berri_ai) - 請問為什麼我使用openai? 只是80%的案例,
 
 
 |Name|Language|License|GitHub Stars|
@@ -846,146 +844,146 @@
 
 ## Others
 
- * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - 論文の公式レポート: ビジュアルチャットGPT: ビジュアルファウンデーションモデルで話す,描く,編集する
- * [nanoGPT](https://github.com/karpathy/nanogpt) - 中型GPTの訓練/精調整のための最もシンプルで速いリポジトリです.
- * [gpt_index](https://github.com/jerryjliu/gpt_index) - テンソールとPythonで強力なGPU加速を持つダイナミックニューラルネットワーク
- * [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - 検出,バイアス,その他の研究のためのGPT-2出力のデータセット
- * [nebullvm](https://github.com/nebuly-ai/nebullvm) - プラグアンドプレイモジュールでAIシステムのパフォーマンスを最適化します
- * [IATelligence](https://github.com/fr0gger/iatelligence) - IATelligence は,PE ファイルから IAT を抽出し,API と関連した ATT&CK マトリックスに関するより多くの情報を得るため GPT を要求する Python スクリプトです.
- * [aoc-gpt](https://github.com/max-sixty/aoc-gpt) - GPT-3 でコードパズルの解き方
- * [https:](https://discu.eu/q/https:) - django-bcryptの git ミラーです
- * [ColossalAI](https://github.com/hpcaitech/colossalai) - 大型のAIモデルを安く,速く,より簡単に作る
- * [EdgeGPT](https://github.com/acheong08/edgegpt) - MicrosoftのBing Chat AIの逆エンジニアリングAPI
- * [chatGPT-python-elm](https://github.com/vrescobar/chatgpt-python-elm) - このリポジトリをチェックしたと考えました これはREADMEの最初の行のように説明しました
- * [Sekiryu](https://github.com/20urc3/sekiryu) - 自動解編と分析 バイナリファイルのあなたのお気に入りの解編と ChatGPT
- * [xiaogpt](https://github.com/yihong0618/xiaogpt) - シャオミ AI スピーカーで ChatGPT を再生する
- * [gpt-wpre](https://github.com/moyix/gpt-wpre) - 全プログラムリバースエンジニアリング GPT-3
- * [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - このリポジトリには,様々なサイトを解析するコードが含まれています.
- * [metaseq](https://github.com/facebookresearch/metaseq) - 外部大規模作業のためのレポ
- * [ThreatResearch](https://github.com/securityjoes/threatresearch) - 事件への対応の際に @チャールズロンボニーは #chatgpt を #ghidra に実装しました. コードを公開して,皆さんも利用できるようにしました. askjoe enjoy &amp; share 
- * [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作専用ChatGPT拓展,特別优化学術Paper色体验,自定義快捷ボタ,支持マークダウン表格表示,Tex公式双表示,コード表示機能完善,新增本地Python工程剖析機能/自己剖析機能
- * [wolverine](https://github.com/biobootloader/wolverine) -  gpt4で動いた自動デバガー @bio_bootloader Wolverineでpythonを実行してクラッシュすると,gpt-4は自動的にコードを修正し,何が起こったかを説明します (再帰的に,エラーが残るまで).今すぐインストールして,後でありがとう- 
- * [stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) - 安定したWeb UI
- * [examples](https://github.com/mosaicml/examples) - 迅速で柔軟な基準基準
- * [whisper](https://github.com/openai/whisper) - 弱小な監視による強力な音声認識
- * [point-e](https://github.com/openai/point-e) - 3Dモデル合成のための点雲拡散
- * [ChatPaper](https://github.com/kaixindelele/chatpaper) - 全流程加速科研,利用chatgpt进行论文总结+色+审稿+审稿回复
- * [stackexplain](https://github.com/shobrook/stackexplain) - エラーメッセージを ChatGPT で説明する
- * [nanoChatGPT](https://github.com/sanjeevanahilan/nanochatgpt) - ナノGPTの上に原始RLHF層を組み,ガンベル・ソフトマックストリック
- * [stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities) - ChatGPT を直接 UI から使用する
- * [reflexion](https://github.com/noahshinn024/reflexion) - 反射:動的記憶と自己反射を持つ自律的なエージェント
- * [pubmed-gpt](https://github.com/arokem/pubmed-gpt) - gpt を使ってpubmed のクエリの要約をまとめます
- * [flash-attention](https://github.com/hazyresearch/flash-attention) - 記憶力に優れている 素早い注意力
- * [cgpt_exceptions](https://github.com/fkhan0520/cgpt_exceptions) - 例外が投げられたときに自動的にchatgptから助けを得るため,Pythonパッケージを作りました. チェック!
- * [go-gpt3](https://github.com/sashabaranov/go-gpt3) - Python と Amazon Web Services のインターフェース
- * [gpt-api-docker](https://github.com/queercat/gpt-api-docker) - 文字列を1行16バイトで逆にして
- * [talkGPT](https://github.com/chenyukang/talkgpt) - 簡単な Python プログラムで ChatGPT で話すことができます
- * [XX-Net](https://github.com/xx-net/xx-net) - GFWを回避するプロキシツール
- * [regexplore](https://github.com/0xhasanm/regexplore) - Regexplore は EZsuite の Registry Explorer プラグイン の 機能 を模倣 する よう 設計 さ れ た 変動性 プラグイン です
- * [ida_gpt](https://github.com/mayerdaniel/ida_gpt) - 機能の説明をコメントし,変数と機能名を変更します. 変数と機能名を変更する場合は,
- * [pubmedgpt](https://github.com/stanford-crfm/pubmedgpt) - ML訓練の効率化のための作法方法
- * [nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter) - 中型GPTの訓練/精調整のための最もシンプルで速いリポジトリです.
- * [slither](https://github.com/crytic/slither) - 安定性分析器
- * [bpy-chat-gpt](https://github.com/joshuaknauber/bpy-chat-gpt) - 簡単なブレンドアドオンに統合されたチャット GPT API
- * [scrapbox_chatgpt_connector](https://github.com/nishio/scrapbox_chatgpt_connector) - ChatGPT は Scrapbox を読み取っています
- * [Partial-English-Subtitle-Translation](https://github.com/goldengrape/partial-english-subtitle-translation) - 皆さん,私は英語の道具も持っています. この度は字幕の中の生詞だけ翻訳します. 本次 #抛の重点は,gpt翻訳で単語の意味を表現することです.
- * [GilgaiDetection](https://github.com/geezacoleman/gilgaidetection) - シンプルな色スロージングルギルガイ検出
- * [chatgpt_stock_report](https://github.com/ddobokki/chatgpt_stock_report) - 証券取引所のレポートを 総括したレポートです
- * [DeeperSpeed](https://github.com/eleutherai/deeperspeed) - DeepSpeedはディープラーニング最適化ライブラリで 分散型トレーニングを簡単で効率的で効果的です
- * [MM-REACT](https://github.com/microsoft/mm-react) - MM-REACTの公式レポ
- * [yolopandas](https://github.com/ccurme/yolopandas) - @marktenenholtz チャットGPTがあなたの代わりになった
- * [symbolicai](https://github.com/xpitfire/symbolicai) - 構成微分式プログラミングライブラリ
- * [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - ML/DLプロジェクト,ノートブック,ML/DLのチートコード,AI/AGIに関する有用な情報,ヒント付きのコードやスニペット/スクリプト/タスクを含む機械学習プロジェクト
- * [data-winners](https://github.com/frontanalyticsinc/data-winners) - ウェブサイト開発,分析,最適化のための無料のpythonとRスクリプトのコレクション. 話題の権威と意味的なコンテンツ最適化のための高度なリソースを含む.
- * [critique-apps](https://github.com/inspired-cognition/critique-apps) - デザインはインスピレーションの認知の批判を用いて作られています
- * [deep-rl-class](https://github.com/huggingface/deep-rl-class) - このリポートには ハグリング・フェイス・ディープ・リフォーム・ラーニング・コースの 授業内容が含まれています
- * [deep-RL-elements](https://github.com/amazingang/deep-rl-elements) - pytorch のディープ RL アルゴリズム
- * [galai](https://github.com/paperswithcode/galai) - モデルAPIのGALACTICA
- * [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - フラッピーバードでフェイスブック友達とデュエル
- * [yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥オープンソースとAI駆動データオンボードプラットフォーム:無料の flatfile.comの代替
- * [docGPT](https://github.com/cesarhuret/docgpt) - ChatGPT は Google Docs の内部で編集者アドオンとして直接使用できます
- * [gpt-commit-summarizer](https://github.com/kanhari/gpt-commit-summarizer) - 送信メッセージを書く gpt ベースのツールです
- * [WTF-JavaScript](https://github.com/wtfacademy/wtf-javascript) - 最近JavaScriptを再習し,詳細を確認し,WTFJavaScriptの非常に簡単な入門を書き,新しい人のために学ぶ.
- * [gpt3-email](https://github.com/danimelchor/gpt3-email) - GPT-3を使ってメールを書く
- * [chatgpt-action](https://github.com/kxxt/chatgpt-action) - チャットGPTは PR をあなたのために見直してください
- * [scalene](https://github.com/plasma-umass/scalene) - Scalene: AI 駆動の最適化提案を搭載した Python の高性能,高精度 CPU, GPU,メモリ プロファイラー
- * [gitter-solid](https://github.com/solid-contrib/gitter-solid) - Gitter API を Solid チャット に接続する
- * [mup](https://github.com/microsoft/mup) - react-native-test-app は,サポートされているすべてのプラットフォームのテストアプリをパッケージとして提供します
- * [ChatGPT-Feishu](https://github.com/bestony/chatgpt-feishu) - 給飛書準備の チャットGPT ロボット
- * [ARC](https://github.com/fchollet/arc) - 抽象 と 推論 の 集体
- * [adrenaline](https://github.com/shobrook/adrenaline) - 暗号データベースに連絡してください
- * [pdf.js](https://github.com/mozilla/pdf.js) - JavaScript で PDF リーダー
- * [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - チェチャットでChatGPTを使用
- * [roomGPT](https://github.com/nutlope/roomgpt) - 部屋の写真をアップロードして AIで夢の部屋を作ります
- * [appwrite](https://github.com/appwrite/appwrite) - ウェブ,モバイル,フラッター開発者向けセキュアバックエンドサーバー  100%オープンソースのFirebaseの代替品
- * [noobnooc](https://github.com/noobnooc/noobnooc) - 私のプロフィール,ブログ,ホームページ (https://www.nooc.ink) のコンテンツです
- * [commitgpt](https://github.com/romanhotsiy/commitgpt) - ChatGPT を使ってコミットメッセージを自動的に生成する
- * [code-gpt](https://github.com/vaibhavacharya/code-gpt) - どこにでも コードを理解できる
- * [Portal](https://github.com/lxfater/portal) - 情熱と賛美で推薦します. これはすべてのプラグインを削除するchatgpt (gpt-4) の補助ソフトウェアです. 操作システムを自分の舞台にします.
- * [colorGPT](https://github.com/sonnylazuardi/colorgpt) - AIを使って現実の世界から色名を生成する
- * [paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - ポール・グラハムのエッセイを検索&チャット
- * [chatapi-single](https://github.com/bytemate/chatapi-single) - シンプルで強力な ChatGPT-API-サーバー
- * [novu](https://github.com/novuhq/novu) - 完全に機能する組み込み通知センターを持つオープンソースの通知インフラストラクチャ
- * [chatapi](https://github.com/bytemate/chatapi) - IconGaGaは,ランダムに生成されたアイコンの Node.js ライブラリです.
- * [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - 検索&チャットで Kindle のハイライトを表示します
- * [mantine-boilerplate](https://github.com/drcan94/mantine-boilerplate) - 試料の維持 スタートレポ
- * [gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - GPT-4 のコードの例をいくつかご紹介します!
- * [M5Core2ImageAvatarLiteChatGPT](https://github.com/robo8080/m5core2imageavatarlitechatgpt) - ImageAvatarLiteChatGPT M5Stack Core2 向け
- * [mpi_small_examples](https://github.com/t-hishinuma/mpi_small_examples) - 完全に説明して頂けたのか? ビデオの動画をご覧下さい
- * [ggml](https://github.com/ggerganov/ggml) - 機械学習のためのテンソールライブラリ
- * [cformers](https://github.com/nolanoorg/cformers) - SoTAトランスフォーマーとCバックエンドで CPUを速やかに操作します
- * [Pake](https://github.com/tw93/pake) - 🏻 WebページをRustでデスクトップアプリに変えてください. 🏻 簡単です.
- * [run-wild](https://github.com/refcell/run-wild) - 拡張 GPT-4 環境 アクセス
- * [gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT 搭載の Rust proc マクロで,コンパイル時にコードを生成します.
- * [nofwl](https://github.com/lencx/nofwl) - NoFWL デスクトップ アプリケーション
- * [gwipt](https://github.com/benwr/gwipt) - GPT-3 のコミットメッセージですべての編集を自動的に wip 支部にコミットする
- * [chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于 ChatGPT3.5 API実装のプライベート化ウェブプログラム
- * [legitify](https://github.com/legit-labs/legitify) - GitHub と GitLab のすべての資産で誤った設定とセキュリティリスクを検出し,修正します
- * [wechatgpt](https://github.com/houko/wechatgpt) - ワタシは,今,ワタシを応援している.
- * [xiaogpt.git](https://github.com/yihong0618/xiaogpt.git) - バイビリ 後台源码
- * [wechat-chatGPT](https://github.com/gtoxlili/wechat-chatgpt) - 微信公众号を活性化する
- * [dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - 暗号化された DNS プロトコルに対応する柔軟な DNS プロキシ.
- * [review-gpt](https://github.com/vibovenkat123/review-gpt) - gpt-3,gpt-3.5,gpt-4 を使用する自動コードレビューツール
- * [kube-ovn](https://github.com/kubeovn/kube-ovn) - SDNとCloud A Nativeの橋渡し (CNCFのプロジェクト)
- * [gpt-takes-the-bar-exam](https://github.com/mjbommar/gpt-takes-the-bar-exam) - GPT は 弁護士 試験 を 合格 し た
- * [offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt) - ChatGPT の攻撃的なセキュリティ用事例
- * [ChatGPT-Simple](https://github.com/logankilpatrick/chatgpt-simple) - 100 行未満のコードで ChatGPT のシンプルなローカルホストバージョンを構築する
- * [the-algorithm](https://github.com/twitter/the-algorithm) - Twitterの推奨アルゴリズムのソースコード
- * [rails](https://github.com/rails/rails) - ルビー・オン・レイルズ
- * [gptstudio](https://github.com/michelnivard/gptstudio) - GPT RStudioは,GPTの支援によるコーディング,書き込み,分析を可能にするアドオン
- * [LongReadBenchmark](https://github.com/xueyidong/longreadbenchmark) - 長い読み込みRNA-seq 解析ツールによるベンチマーク
- * [GptMedCode](https://github.com/rohit43/gptmedcode) - @zakkohane @arjunmanrai は, #ehr の分析的観点から, #chatgpt のバックエンドを使ってコードを取得する事が自動化できるかどうか疑問に思っていました. しかし返されたコードの質はそれほど信頼性がない.
- * [runtime](https://github.com/dotnet/runtime) - .NETはクラウド,モバイル,デスクトップ,IoTアプリケーションのためのクロスプラットフォームランタイムです.
- * [Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt) - 2017年 GUJAM
- * [ChatGPTforRhino](https://github.com/4kk11/chatgptforrhino) - ゲイトフブに 置き換えた!
- * [ChatGPT-Bypass](https://github.com/grimoutlaw/chatgpt-bypass) - シンプルなスクリプトで,APIを通じてChatGPTでコンテンツフィルタリングを回避できます.
- * [robustlearn](https://github.com/microsoft/robustlearn) - MDATP PowerBI テンプレートのリポジトリ
- * [check](https://github.com/yeahwu/check) - ストリーミングメディアロック解除テスト
- * [haoel.github.io](https://github.com/haoel/haoel.github.io) - 前二日目 耗子哥が上網のドキュメント更新しました また来说一下我是如何解決 chatgpt と新Bing 算算 hang 梯子 還 登入または使用できない問題: ghost + cloudflare warp,配置起来 も比较簡単 (1/n)
- * [FlexGen](https://github.com/ying1123/flexgen) - 景観設計のためのゲーム
- * [chatgpt-web](https://github.com/chanzhaoyu/chatgpt-web) - エクスプレスとVue3で作成したChatGPT プレゼンテーションウェブページ
- * [CodeGPT.nvim](https://github.com/dpayne/codegpt.nvim) - CodeGPTは,neovim用のプラグインで,ChatGPTとやり取りするコマンドを提供します.
- * [SPTH](https://github.com/spthvx/spth) - 芸術作品:人工 (生命/進化/知能)
- * [whatsapp-chatgpt](https://github.com/navopw/whatsapp-chatgpt) - 騒音マップの生成器:霧:
- * [ChatGPT.el](https://github.com/joshcho/chatgpt.el) - Emacs で ChatGPT をインストールする
- * [MathGPT](https://github.com/meiyulee/mathgpt) - 数値で動いている数学的モデルを 作成します
- * [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Flutter / Dart から ChatGPT を使用する
- * [github-summarizer](https://github.com/stevebauman/github-summarizer) - Chat GPT を使った PHP GitHub サムライザー.
- * [vagas](https://github.com/backend-br/vagas) - Githubの問題を通じてバックエンド開発者のための空間の公開です
- * [GPTstudio](https://github.com/michelnivard/gptstudio) - 固定効果と適度効果が許容される遺伝子変異成分モデルを推定するために特別に書かれたRとFORTRANベースの最適化器です. 
- * [pdf-epub-GPT-translator](https://github.com/jesselau76/pdf-epub-gpt-translator) - Python + flask を学ぶ
- * [binary-dist](https://github.com/poslogithub/binary-dist) - 実行可能 バイナリー配布
- * [AI-Toolbox](https://github.com/enbifa/ai-toolbox) - AI の熱心者や専門家のための包括的なリソースを構築
- * [following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback) - @ラチェル_イル_ウッドス これは私がGPTに幻覚をしないように指示する論文です
- * [paytm-movies](https://github.com/hedcet/paytm-movies) - #bimbisara #jan9mon 収録 1,852₹,占有率77% (1,852/2,400),5つのショー, #testcinemaocl #waterland
- * [Audits-Smart-Contracts](https://github.com/audit-ace/audits-smart-contracts) -  監査報告書発表 祝賀 相談 gpt  監査 dm - 
- * [Malware](https://github.com/objective-see/malware) - macOS マルウェアコレクション
- * [inPars](https://github.com/zetaalphavector/inpars) - VOSviewer Onlineはネットワークビジュアライゼーションのためのツール.これは,図書館測定ネットワークの構築とビジュアライゼーションのための人気のあるツールであるVOSviewerのウェブベースのバージョンです.
- * [ai-review.vim](https://github.com/yuki-yano/ai-review.vim) - 早くコードを数えて
- * [gayolGate](https://github.com/gayolgate/gayolgate) - GitHub プロフィルの情報
- * [feishu-chatGpt](https://github.com/leizhenpeng/feishu-chatgpt) - 電子視野ベースの跨プラットフォーム微信小程序自助解包 (反編) クライアント
- * [minlora](https://github.com/cccntu/minlora) - ワクワクするニュースです! 私はちょうど私の新しいリポ,minloraをリリースしました この強力なライブラリでは,あなたはいくつかのコードの行で *任意の* pytorchモデルにローラを適用することができます. @huggingfaceの変形体,diffusersから, @karpathyのnanogptまで.
- * [bms](https://github.com/hedcet/bms) - #topgunmaverick #jan20fri 収録 13,689₹, 35%の占有 (117/331), 2つのショー,2つの映画館 #nationalcapitalregionncr
+ * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - 圖像與圖像基礎模型的使用
+ * [nanoGPT](https://github.com/karpathy/nanogpt) - 提供最簡單,最快速的訓練/細編中型GPT資料庫.
+ * [gpt_index](https://github.com/jerryjliu/gpt_index) - 具有強大的GPU加速的Python動態神經網絡
+ * [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - 該網站的數據集包括:
+ * [nebullvm](https://github.com/nebuly-ai/nebullvm) - 插入與播放模組, 優化您的人工智能系統的性能
+ * [IATelligence](https://github.com/fr0gger/iatelligence) - 請使用IATintelligence來查詢Python的使用情況.
+ * [aoc-gpt](https://github.com/max-sixty/aoc-gpt) - 解決使用GPT-3的代碼語
+ * [https:](https://discu.eu/q/https:) - 這裡是 Django-bcrypt 的一個 Git 鏡頭.
+ * [ColossalAI](https://github.com/hpcaitech/colossalai) - 幫助他們更容易使用,
+ * [EdgeGPT](https://github.com/acheong08/edgegpt) - 微軟Bing聊天AI的逆向工程API
+ * [chatGPT-python-elm](https://github.com/vrescobar/chatgpt-python-elm) - 這裡是一個完全由ChatGPT生成的資料庫,
+ * [Sekiryu](https://github.com/20urc3/sekiryu) - 自動解編輯和分析二進制檔案,
+ * [xiaogpt](https://github.com/yihong0618/xiaogpt) - 透過小米人工智能音箱播放ChatGPT
+ * [gpt-wpre](https://github.com/moyix/gpt-wpre) - 整個程式逆向工程使用GPT-3
+ * [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - 這個資料庫包含可解析各種網站的代碼
+ * [metaseq](https://github.com/facebookresearch/metaseq) - 關於外界大規模工作的資料庫
+ * [ThreatResearch](https://github.com/securityjoes/threatresearch) - 我們已發布代碼, 讓您也可以使用:
+ * [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作專用ChatGPT拓展,特別优化術Paper色体验,支持自定义快捷按,支持markup表格显示,Tex公式双显示,代码显示功能完善,新增本地Python工程剖析功能/自我剖析功能
+ * [wolverine](https://github.com/biobootloader/wolverine) - 使用Wolverine執行Python, 當它崩潰時, gpt-4會自動修復你的代碼,
+ * [stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui) - 穩定的傳播網頁界面
+ * [examples](https://github.com/mosaicml/examples) - 快速且靈活的基准指數
+ * [whisper](https://github.com/openai/whisper) - 透過大規模弱監控,
+ * [point-e](https://github.com/openai/point-e) - 點雲擴散用于3D模型合成
+ * [ChatPaper](https://github.com/kaixindelele/chatpaper) - 使用ChatGPT來總結ArXiv論文. 全流程加速科研,利用chatgpt進行論文總結+色+审稿+审稿回复
+ * [stackexplain](https://github.com/shobrook/stackexplain) - 如何使用 ChatGPT 解釋您的錯誤訊息
+ * [nanoChatGPT](https://github.com/sanjeevanahilan/nanochatgpt) - 基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基因基
+ * [stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities) - 允許直接從使用者介面使用ChatGPT
+ * [reflexion](https://github.com/noahshinn024/reflexion) - 反映:具有動態記憶和自我反射的獨立代理
+ * [pubmed-gpt](https://github.com/arokem/pubmed-gpt) - 使用gpt來總結公佈查詢的摘要
+ * [flash-attention](https://github.com/hazyresearch/flash-attention) - 快速,高效的記憶力
+ * [cgpt_exceptions](https://github.com/fkhan0520/cgpt_exceptions) - 請看看這個軟件的使用情況.
+ * [go-gpt3](https://github.com/sashabaranov/go-gpt3) - 該網站的使用者必須:
+ * [gpt-api-docker](https://github.com/queercat/gpt-api-docker) - 逆轉輸入字符串在1行,16字節.
+ * [talkGPT](https://github.com/chenyukang/talkgpt) - 這是一款簡單的Python程式,
+ * [XX-Net](https://github.com/xx-net/xx-net) - 通過GFW的代理工具.
+ * [regexplore](https://github.com/0xhasanm/regexplore) - Regexplore 是一個模仿 EZsuite 登記庫探索器插件功能而設計的波動性插件.
+ * [ida_gpt](https://github.com/mayerdaniel/ida_gpt) - 編碼將#chatgpt整合到@hexrayssa,
+ * [pubmedgpt](https://github.com/stanford-crfm/pubmedgpt) - 編寫學習技巧訓練效率的方法
+ * [nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter) - 提供最簡單,最快速的訓練/細編中型GPT資料庫.
+ * [slither](https://github.com/crytic/slither) - 靜態分析器
+ * [bpy-chat-gpt](https://github.com/joshuaknauber/bpy-chat-gpt) - 聊天GPTAPI集成到一個簡單的混合器插件中
+ * [scrapbox_chatgpt_connector](https://github.com/nishio/scrapbox_chatgpt_connector) - 聊天GPT讀取垃圾箱
+ * [Partial-English-Subtitle-Translation](https://github.com/goldengrape/partial-english-subtitle-translation) - 各位假門假事兒學英語的親愛的,我又帶學英語的工具來啦這次是只翻譯字幕中的生詞,自己選擇難度.
+ * [GilgaiDetection](https://github.com/geezacoleman/gilgaidetection) - 簡單的色彩值,
+ * [chatgpt_stock_report](https://github.com/ddobokki/chatgpt_stock_report) - 總結了當天證券商的報告,
+ * [DeeperSpeed](https://github.com/eleutherai/deeperspeed) - 提供了一個非常簡單,高效,有效的分布式訓練工具.
+ * [MM-REACT](https://github.com/microsoft/mm-react) - 官方回購 MM-REACT
+ * [yolopandas](https://github.com/ccurme/yolopandas) - 沒有任何證據顯示,
+ * [symbolicai](https://github.com/xpitfire/symbolicai) - 編輯差數程式庫
+ * [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - 機器學習計畫包括ML/DL計畫,筆記本,ML/DL作弊程式,有關AI/AGI的有用資訊以及配備提示的程式或片段/脚本/任務.
+ * [data-winners](https://github.com/frontanalyticsinc/data-winners) - 免費的python和R程式碼集,用于網站開發,分析和優化.
+ * [critique-apps](https://github.com/inspired-cognition/critique-apps) - 應用程式使用"靈感認知批判"而建立.
+ * [deep-rl-class](https://github.com/huggingface/deep-rl-class) - 這份報告包含擁抱臉深層強化學習課程的課程.
+ * [deep-RL-elements](https://github.com/amazingang/deep-rl-elements) - 在pytorch中使用深度RL算法
+ * [galai](https://github.com/paperswithcode/galai) - 該網站的 API 模型
+ * [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - 在Flappy Bird遊戲中與臉書朋友對決
+ * [yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥開放源代碼與人工智能驅動的數據上網平台:免費的flatfile.com替代方案
+ * [docGPT](https://github.com/cesarhuret/docgpt) - 透過Google Docs直接使用ChatGPT作為編輯插件
+ * [gpt-commit-summarizer](https://github.com/kanhari/gpt-commit-summarizer) - 寫作訊息的工具.
+ * [WTF-JavaScript](https://github.com/wtfacademy/wtf-javascript) - 我最近重新學習JavaScript, 巩固一下細節, 也寫了一篇WTFJavaScript非常简单入门,供新人学习.
+ * [gpt3-email](https://github.com/danimelchor/gpt3-email) - 透過GPT-3來幫助你寫電子郵件.
+ * [chatgpt-action](https://github.com/kxxt/chatgpt-action) - 讓ChatGPT為你檢視公關資訊.
+ * [scalene](https://github.com/plasma-umass/scalene) - 該網站提供了高性能,高精度CPU,GPU和記憶體分析工具,
+ * [gitter-solid](https://github.com/solid-contrib/gitter-solid) - 接連Gitter API到固體聊天
+ * [mup](https://github.com/microsoft/mup) - 提供所有支持的平台的測試應用程式,
+ * [ChatGPT-Feishu](https://github.com/bestony/chatgpt-feishu) - 給飛書準備的聊天GPT 機器人
+ * [ARC](https://github.com/fchollet/arc) - 抽象和推理的集合
+ * [adrenaline](https://github.com/shobrook/adrenaline) - 請與您的代碼庫通話
+ * [pdf.js](https://github.com/mozilla/pdf.js) - 在JavaScript中讀取PDF
+ * [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - 使用ChatGPT在微信上,
+ * [roomGPT](https://github.com/nutlope/roomgpt) - 請將您的房間照片上傳,
+ * [appwrite](https://github.com/appwrite/appwrite) - 提供安全後端服務器給Web,行動與Flutter開發者,
+ * [noobnooc](https://github.com/noobnooc/noobnooc) - 該網站的內容包括我的個人資料,部落格和首頁 (https://www.nooc.ink).
+ * [commitgpt](https://github.com/romanhotsiy/commitgpt) - 使用 ChatGPT 自動生成提交訊息
+ * [code-gpt](https://github.com/vaibhavacharya/code-gpt) - 任何代碼,任何時間.
+ * [Portal](https://github.com/lxfater/portal) - 這是一款全台插件的chatgpt (gpt-4) 輔助軟件, 它將整個操作系統當成自己的舞台,
+ * [colorGPT](https://github.com/sonnylazuardi/colorgpt) - 透過人工智能生成從現實世界捕捉到的顏色名稱
+ * [paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - 搜尋及聊天保羅格雷厄姆的文章.
+ * [chatapi-single](https://github.com/bytemate/chatapi-single) - 簡單而強大的ChatGPT-API-伺服器
+ * [novu](https://github.com/novuhq/novu) - 提供全功能嵌入式通知中心的開放源碼通知基礎設施,
+ * [chatapi](https://github.com/bytemate/chatapi) - 隨機生成的圖標.
+ * [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - 請使用您的 Kindle 搜尋與聊天.
+ * [mantine-boilerplate](https://github.com/drcan94/mantine-boilerplate) - 試驗保持開始回收
+ * [gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - 該組織的目標是:
+ * [M5Core2ImageAvatarLiteChatGPT](https://github.com/robo8080/m5core2imageavatarlitechatgpt) - 圖片AvatarLiteChatGPT 應用程式
+ * [mpi_small_examples](https://github.com/t-hishinuma/mpi_small_examples) - 請問如果我在Github上傳我的影片樣本代碼的URL,
+ * [ggml](https://github.com/ggerganov/ggml) - 機器學習的變量圖書館
+ * [cformers](https://github.com/nolanoorg/cformers) - 提供了您的CPU快速推論的C-backend.
+ * [Pake](https://github.com/tw93/pake) - 🏻將任何網頁轉化為桌面應用程式.
+ * [run-wild](https://github.com/refcell/run-wild) - 增強 GPT-4環境接入
+ * [gpt-macro](https://github.com/retrage/gpt-macro) - 透過 ChatGPT 啟動的 Rust proc 宏,
+ * [nofwl](https://github.com/lencx/nofwl) - 沒有FWL桌面應用程式
+ * [gwipt](https://github.com/benwr/gwipt) - 自動將所有編輯提交到GPT-3提交訊息的 wip分支
+ * [chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API實現的私有化網站程序
+ * [legitify](https://github.com/legit-labs/legitify) - 檢測和修復您在所有 GitHub 和 GitLab 資產中的錯誤配置和安全風險
+ * [wechatgpt](https://github.com/houko/wechatgpt) - 我們的網站上有許多網站,
+ * [xiaogpt.git](https://github.com/yihong0618/xiaogpt.git) - 其他網站
+ * [wechat-chatGPT](https://github.com/gtoxlili/wechat-chatgpt) - 实现微信公众号被动返回接口的ChatGPT
+ * [dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - 靈活的 DNS 代理,支持加密 DNS 協議.
+ * [review-gpt](https://github.com/vibovenkat123/review-gpt) - 自動檢查代碼工具使用gpt-3,gpt-3.5,gpt-4
+ * [kube-ovn](https://github.com/kubeovn/kube-ovn) - 提供數位化與雲端原生化服務的橋 (CNCF計畫)
+ * [gpt-takes-the-bar-exam](https://github.com/mjbommar/gpt-takes-the-bar-exam) - 國立法學院的法官考試
+ * [offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt) - 攻擊性使用ChatGPT的安全案例
+ * [ChatGPT-Simple](https://github.com/logankilpatrick/chatgpt-simple) - 建立一個簡易的本地托管版本的ChatGPT在不到100行的代碼
+ * [the-algorithm](https://github.com/twitter/the-algorithm) - 推特推薦算法的源代碼
+ * [rails](https://github.com/rails/rails) - 鐵路上的
+ * [gptstudio](https://github.com/michelnivard/gptstudio) - 提供GPT輔助編碼,寫作與分析的RStudio附加功能
+ * [LongReadBenchmark](https://github.com/xueyidong/longreadbenchmark) - 比較長讀RNA序列分析工具
+ * [GptMedCode](https://github.com/rohit43/gptmedcode) - 想知道是否可以自動使用#chatgpt後端取得代碼, 但返回的代碼質量並不太可靠.
+ * [runtime](https://github.com/dotnet/runtime) - 網頁是云,行動,桌面和物聯網應用程式的跨平台運行時間.
+ * [Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt) - 國家安全局
+ * [ChatGPTforRhino](https://github.com/4kk11/chatgptforrhino) - 接著將其置於Github上!
+ * [ChatGPT-Bypass](https://github.com/grimoutlaw/chatgpt-bypass) - 簡單的程式碼讓您通過API在ChatGPT中過內容過濾
+ * [robustlearn](https://github.com/microsoft/robustlearn) - 提供MDATP PowerBI模板的資料庫
+ * [check](https://github.com/yeahwu/check) - 播放媒體解鎖測試
+ * [haoel.github.io](https://github.com/haoel/haoel.github.io) - 前兩天看到耗子哥更新上網的文檔, 也來說一下我是如何解決chatgpt和新Bing的問題:
+ * [FlexGen](https://github.com/ying1123/flexgen) - 景觀規劃的一款遊戲
+ * [chatgpt-web](https://github.com/chanzhaoyu/chatgpt-web) - 透過快遞和Vue3搭建的ChatGPT演示網頁
+ * [CodeGPT.nvim](https://github.com/dpayne/codegpt.nvim) - 提供與ChatGPT互動的命令.
+ * [SPTH](https://github.com/spthvx/spth) - 其他部分:人工 (生命/進化/智慧)
+ * [whatsapp-chatgpt](https://github.com/navopw/whatsapp-chatgpt) - 程序噪音地圖生成器:霧:
+ * [ChatGPT.el](https://github.com/joshcho/chatgpt.el) - 在Emacs中使用ChatGPT
+ * [MathGPT](https://github.com/meiyulee/mathgpt) - 數字化數學模型的人工智能.
+ * [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - 使用Flutter / Dart中的ChatGPT
+ * [github-summarizer](https://github.com/stevebauman/github-summarizer) - 這是一款使用Chat GPT的PHP GitHub總結器.
+ * [vagas](https://github.com/backend-br/vagas) - 提供開發者使用Github的後端空間.
+ * [GPTstudio](https://github.com/michelnivard/gptstudio) - 基於R和FORTRAN的優化器, 特別寫成估算基因變異成分模型,
+ * [pdf-epub-GPT-translator](https://github.com/jesselau76/pdf-epub-gpt-translator) - 學習python+phablet
+ * [binary-dist](https://github.com/poslogithub/binary-dist) - 執行可能的二次分配.
+ * [AI-Toolbox](https://github.com/enbifa/ai-toolbox) - 建立一個為人工智能熱愛者和專業人士提供全面資源,
+ * [following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback) - 這篇文章是我指引GPT不要幻覺的.
+ * [paytm-movies](https://github.com/hedcet/paytm-movies) - 收藏1852盧比,占用率77%,5場表演,
+ * [Audits-Smart-Contracts](https://github.com/audit-ace/audits-smart-contracts) - 公布審計報告祝聊天 gpt 審計 dm - 
+ * [Malware](https://github.com/objective-see/malware) - 沒有任何資料可供使用.
+ * [inPars](https://github.com/zetaalphavector/inpars) - VOSviewer Online是一個網絡可視化工具.
+ * [ai-review.vim](https://github.com/yuki-yano/ai-review.vim) - 快速數字你的代碼.
+ * [gayolGate](https://github.com/gayolgate/gayolgate) - 關於我的 GitHub 專頁的資訊
+ * [feishu-chatGpt](https://github.com/leizhenpeng/feishu-chatgpt) - 基于電子視覺的跨平台微信小程序自助解包 (反編譯) 客戶端
+ * [minlora](https://github.com/cccntu/minlora) - 令人興奮的消息! 我剛剛發布了我的新資料庫,minlora. 這個強大的圖書館讓你在幾行代碼中將Lora應用到任何pytorch模型.
+ * [bms](https://github.com/hedcet/bms) - 收藏13689盧比,占用率35%,2場表演,2場影院
 
 
 |Name|Language|License|GitHub Stars|
@@ -1132,4 +1130,4 @@
 |[bms](https://github.com/hedcet/bms)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/HedCET/bms?style=social)|
 
 
-各リポジトリの説明は、元の文章を機械翻訳した結果です。[facebook/nllb-200-distilled-1.3B - License: CC-BY-NC](https://huggingface.co/facebook/nllb-200-distilled-1.3B) を利用しています。翻訳モデルを利用させていただき、心より感謝します。
+每個資料庫的描述都是機器翻譯原始文章的結果.[facebook/nllb-200-distilled-1.3B - License:CC-BY-NC](https://huggingface.co/facebook/nllb-200-distilled-1.3B), 非常感謝.
