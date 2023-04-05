@@ -11,7 +11,7 @@
 あなたの貢献をいつでも歓迎します！貢献する前に、[ガイドライン](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md)をお読みください。
 
 
-[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) / [日本語(Japanese)](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md)
+[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) / [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) / [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md) / [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md)
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)
@@ -530,6 +530,7 @@
  * [tenetlang](https://github.com/tenetlang/tenetlang) - 人間 に 向け られ た GPT 設計 言語
  * [datasloth](https://github.com/ibestvina/datasloth) - 自然言語 パンダのクエリと GPT-3 で動作するデータ生成
  * [trl](https://github.com/lvwerra/trl) - 補強学習のトランスフォーマー言語モデルを訓練する
+ * [ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert) - 🎁[ChatGPT4NLU] チェットGPTと精細調整されたBERTの比較研究
  * [unilm](https://github.com/microsoft/unilm) - 作業,言語,および形態の間で,大規模な自己監督予備訓練
  * [LAVIS](https://github.com/salesforce/lavis) - LAVIS - 言語・視覚知能のための単一図書館
  * [haltt4llm](https://github.com/manyoso/haltt4llm) - このプロジェクトは,法学士号のテストの共通指標を確立しようとしています. これは,法学士号の多くの実際の目的での普及において,最も深刻な問題である幻覚の除去における進歩です.
@@ -538,6 +539,7 @@
  * [auto-redteam](https://github.com/traghav/auto-redteam) - 他のLLMを利用したLLMをレッドチームする
  * [self-ask](https://github.com/ofirpress/self-ask) - "言語モデルにおける構成格差の測定と縮小"のコードとデータ
  * [llm-lobbyist](https://github.com/johnnay/llm-lobbyist) - 論文のコード: "企業ロビー活動家としての大言語モデル" (2023年)
+ * [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) - このリポジトリには ハグジングフェイスのトランスフォーマーライブラリで作った デモが収録されています
  * [dsp](https://github.com/stanfordnlp/dsp) - DSP: デモンストレーション・検索・予測.知識密集型NLPのための復元と言語モデルを構成するための枠組み.
  * [GraphGPT](https://github.com/varunshenoy/graphgpt) - 知識グラフをGPT-3を使って非構造テキストから抽象化する
  * [backend-GPT](https://github.com/theappletucker/backend-gpt) - 背景接続: llmは最近のスケールハッカソンからのバックエンドインスピレーションプロジェクトです. llmバックエンドは,状態をjson blobとして取り,それを変更します. 英語の説明.
@@ -598,6 +600,7 @@
 |[tenetlang](https://github.com/tenetlang/tenetlang)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/tenetlang/tenetlang?style=social)|
 |[datasloth](https://github.com/ibestvina/datasloth)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ibestvina/datasloth?style=social)|
 |[trl](https://github.com/lvwerra/trl)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lvwerra/trl?style=social)|
+|[ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/WHU-ZQH/ChatGPT-vs.-BERT?style=social)|
 |[unilm](https://github.com/microsoft/unilm)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/unilm?style=social)|
 |[LAVIS](https://github.com/salesforce/lavis)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/salesforce/LAVIS?style=social)|
 |[haltt4llm](https://github.com/manyoso/haltt4llm)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/manyoso/haltt4llm?style=social)|
@@ -606,6 +609,7 @@
 |[auto-redteam](https://github.com/traghav/auto-redteam)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/traghav/auto-redteam?style=social)|
 |[self-ask](https://github.com/ofirpress/self-ask)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/ofirpress/self-ask?style=social)|
 |[llm-lobbyist](https://github.com/johnnay/llm-lobbyist)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/JohnNay/llm-lobbyist?style=social)|
+|[Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NielsRogge/Transformers-Tutorials?style=social)|
 |[dsp](https://github.com/stanfordnlp/dsp)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dsp?style=social)|
 |[GraphGPT](https://github.com/varunshenoy/graphgpt)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/varunshenoy/GraphGPT?style=social)|
 |[backend-GPT](https://github.com/theappletucker/backend-gpt)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/TheAppleTucker/backend-GPT?style=social)|
@@ -882,7 +886,6 @@
  * [pubmedgpt](https://github.com/stanford-crfm/pubmedgpt) - ML訓練の効率化のための作法方法
  * [nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter) - 中型GPTの訓練/精調整のための最もシンプルで速いリポジトリです.
  * [slither](https://github.com/crytic/slither) - 安定性分析器
- * [ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert) - 🎁[ChatGPT4NLU] チェットGPTと精細調整されたBERTの比較研究
  * [bpy-chat-gpt](https://github.com/joshuaknauber/bpy-chat-gpt) - 簡単なブレンドアドオンに統合されたチャット GPT API
  * [scrapbox_chatgpt_connector](https://github.com/nishio/scrapbox_chatgpt_connector) - ChatGPT は Scrapbox を読み取っています
  * [Partial-English-Subtitle-Translation](https://github.com/goldengrape/partial-english-subtitle-translation) - 皆さん,私は英語の道具も持っています. この度は字幕の中の生詞だけ翻訳します. 本次 #抛の重点は,gpt翻訳で単語の意味を表現することです.
@@ -896,7 +899,6 @@
  * [data-winners](https://github.com/frontanalyticsinc/data-winners) - ウェブサイト開発,分析,最適化のための無料のpythonとRスクリプトのコレクション. 話題の権威と意味的なコンテンツ最適化のための高度なリソースを含む.
  * [critique-apps](https://github.com/inspired-cognition/critique-apps) - デザインはインスピレーションの認知の批判を用いて作られています
  * [deep-rl-class](https://github.com/huggingface/deep-rl-class) - このリポートには ハグリング・フェイス・ディープ・リフォーム・ラーニング・コースの 授業内容が含まれています
- * [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) - このリポジトリには ハグジングフェイスのトランスフォーマーライブラリで作った デモが収録されています
  * [deep-RL-elements](https://github.com/amazingang/deep-rl-elements) - pytorch のディープ RL アルゴリズム
  * [galai](https://github.com/paperswithcode/galai) - モデルAPIのGALACTICA
  * [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - フラッピーバードでフェイスブック友達とデュエル
@@ -1028,7 +1030,6 @@
 |[pubmedgpt](https://github.com/stanford-crfm/pubmedgpt)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/stanford-crfm/pubmedgpt?style=social)|
 |[nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/nanoGPT?style=social)|
 |[slither](https://github.com/crytic/slither)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/crytic/slither?style=social)|
-|[ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/WHU-ZQH/ChatGPT-vs.-BERT?style=social)|
 |[bpy-chat-gpt](https://github.com/joshuaknauber/bpy-chat-gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/joshuaKnauber/bpy-chat-gpt?style=social)|
 |[scrapbox_chatgpt_connector](https://github.com/nishio/scrapbox_chatgpt_connector)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nishio/scrapbox_chatgpt_connector?style=social)|
 |[Partial-English-Subtitle-Translation](https://github.com/goldengrape/partial-english-subtitle-translation)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/goldengrape/Partial-English-Subtitle-Translation?style=social)|
@@ -1042,7 +1043,6 @@
 |[data-winners](https://github.com/frontanalyticsinc/data-winners)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/FrontAnalyticsInc/data-winners?style=social)|
 |[critique-apps](https://github.com/inspired-cognition/critique-apps)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/inspired-cognition/critique-apps?style=social)|
 |[deep-rl-class](https://github.com/huggingface/deep-rl-class)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/deep-rl-class?style=social)|
-|[Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NielsRogge/Transformers-Tutorials?style=social)|
 |[deep-RL-elements](https://github.com/amazingang/deep-rl-elements)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/AmazingAng/deep-RL-elements?style=social)|
 |[galai](https://github.com/paperswithcode/galai)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/paperswithcode/galai?style=social)|
 |[chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonnylazuardi/chatgpt-desktop?style=social)|
