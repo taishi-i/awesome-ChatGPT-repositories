@@ -12,7 +12,7 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
 
-[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) / [日本語(Japanese)](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md)
+['[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md) | [简体中文 (Chinese) ][https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md]']
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)
@@ -531,6 +531,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [tenetlang](https://github.com/tenetlang/tenetlang) - A GPT-Designed Language Built for Humans
  * [datasloth](https://github.com/ibestvina/datasloth) - Natural language Pandas queries and data generation powered by GPT-3
  * [trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
+ * [ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert) - 🎁[ChatGPT4NLU] A Comparative  Study on ChatGPT and Fine-tuned BERT
  * [unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
  * [LAVIS](https://github.com/salesforce/lavis) - LAVIS - A One-stop Library for Language-Vision Intelligence
  * [haltt4llm](https://github.com/manyoso/haltt4llm) - This project is an attempt to create a common metric to test LLM's for progress in eliminating hallucinations which is the most serious current problem in widespread adoption of LLM's for many real purposes.
@@ -539,6 +540,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [auto-redteam](https://github.com/traghav/auto-redteam) - Redteaming LLMs using other LLMs
  * [self-ask](https://github.com/ofirpress/self-ask) - Code and data for "Measuring and Narrowing the Compositionality Gap in Language Models"
  * [llm-lobbyist](https://github.com/johnnay/llm-lobbyist) - Code for the paper: "Large Language Models as Corporate Lobbyists" (2023).
+ * [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
  * [dsp](https://github.com/stanfordnlp/dsp) - 𝗗𝗦𝗣: Demonstrate-Search-Predict. A framework for composing retrieval and language models for knowledge-intensive NLP.
  * [GraphGPT](https://github.com/varunshenoy/graphgpt) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️
  * [backend-GPT](https://github.com/theappletucker/backend-gpt) - 6/ "gpt is all you need for the backend" : use an llm to help you write a backendwired: llm is the backendinspiring project from a recent scale hackathon. the llm backend takes state as json blob and modifies it based on... english description. 
@@ -599,6 +601,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[tenetlang](https://github.com/tenetlang/tenetlang)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/tenetlang/tenetlang?style=social)|
 |[datasloth](https://github.com/ibestvina/datasloth)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ibestvina/datasloth?style=social)|
 |[trl](https://github.com/lvwerra/trl)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lvwerra/trl?style=social)|
+|[ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/WHU-ZQH/ChatGPT-vs.-BERT?style=social)|
 |[unilm](https://github.com/microsoft/unilm)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/unilm?style=social)|
 |[LAVIS](https://github.com/salesforce/lavis)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/salesforce/LAVIS?style=social)|
 |[haltt4llm](https://github.com/manyoso/haltt4llm)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/manyoso/haltt4llm?style=social)|
@@ -607,6 +610,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[auto-redteam](https://github.com/traghav/auto-redteam)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/traghav/auto-redteam?style=social)|
 |[self-ask](https://github.com/ofirpress/self-ask)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/ofirpress/self-ask?style=social)|
 |[llm-lobbyist](https://github.com/johnnay/llm-lobbyist)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/JohnNay/llm-lobbyist?style=social)|
+|[Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NielsRogge/Transformers-Tutorials?style=social)|
 |[dsp](https://github.com/stanfordnlp/dsp)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dsp?style=social)|
 |[GraphGPT](https://github.com/varunshenoy/graphgpt)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/varunshenoy/GraphGPT?style=social)|
 |[backend-GPT](https://github.com/theappletucker/backend-gpt)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/TheAppleTucker/backend-GPT?style=social)|
@@ -883,7 +887,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [pubmedgpt](https://github.com/stanford-crfm/pubmedgpt) - Composing methods for ML training efficiency
  * [nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * [slither](https://github.com/crytic/slither) - Static Analyzer for Solidity
- * [ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert) - 🎁[ChatGPT4NLU] A Comparative  Study on ChatGPT and Fine-tuned BERT
  * [bpy-chat-gpt](https://github.com/joshuaknauber/bpy-chat-gpt) - Chat GPT api integrated into a simple blender addon
  * [scrapbox_chatgpt_connector](https://github.com/nishio/scrapbox_chatgpt_connector) - ChatGPT reads Scrapbox
  * [Partial-English-Subtitle-Translation](https://github.com/goldengrape/partial-english-subtitle-translation) - 各位假门假事儿学英语的亲们，我又带学英语的工具来啦这次是只翻译字幕中的生词，自己选难度。本次 #抛砖 的重点是，通过gpt翻译出了单词在句中的含义。网页版：： 
@@ -897,7 +900,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [data-winners](https://github.com/frontanalyticsinc/data-winners) - A collection of FREE python and R scripts for website development, analysis, and optimization. Includes advanced resources for topical authority and semantic content optimization.
  * [critique-apps](https://github.com/inspired-cognition/critique-apps) - Apps built using Inspired Cognition's Critique.
  * [deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.
- * [Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
  * [deep-RL-elements](https://github.com/amazingang/deep-rl-elements) - Deep RL algorithm in pytorch
  * [galai](https://github.com/paperswithcode/galai) - Model API for GALACTICA
  * [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - Duel with your facebook friends in flappy bird game play
@@ -1029,7 +1031,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[pubmedgpt](https://github.com/stanford-crfm/pubmedgpt)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/stanford-crfm/pubmedgpt?style=social)|
 |[nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/nanoGPT?style=social)|
 |[slither](https://github.com/crytic/slither)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/crytic/slither?style=social)|
-|[ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/WHU-ZQH/ChatGPT-vs.-BERT?style=social)|
 |[bpy-chat-gpt](https://github.com/joshuaknauber/bpy-chat-gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/joshuaKnauber/bpy-chat-gpt?style=social)|
 |[scrapbox_chatgpt_connector](https://github.com/nishio/scrapbox_chatgpt_connector)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nishio/scrapbox_chatgpt_connector?style=social)|
 |[Partial-English-Subtitle-Translation](https://github.com/goldengrape/partial-english-subtitle-translation)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/goldengrape/Partial-English-Subtitle-Translation?style=social)|
@@ -1043,7 +1044,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[data-winners](https://github.com/frontanalyticsinc/data-winners)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/FrontAnalyticsInc/data-winners?style=social)|
 |[critique-apps](https://github.com/inspired-cognition/critique-apps)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/inspired-cognition/critique-apps?style=social)|
 |[deep-rl-class](https://github.com/huggingface/deep-rl-class)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/deep-rl-class?style=social)|
-|[Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NielsRogge/Transformers-Tutorials?style=social)|
 |[deep-RL-elements](https://github.com/amazingang/deep-rl-elements)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/AmazingAng/deep-RL-elements?style=social)|
 |[galai](https://github.com/paperswithcode/galai)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/paperswithcode/galai?style=social)|
 |[chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonnylazuardi/chatgpt-desktop?style=social)|
