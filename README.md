@@ -12,7 +12,7 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
 
-['[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md) | [简体中文 (Chinese) ][https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md]']
+[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) / [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) / [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md) / [简体中文 (Chinese) ][https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md]
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)

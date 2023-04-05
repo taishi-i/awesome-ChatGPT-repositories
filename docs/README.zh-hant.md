@@ -9,7 +9,7 @@
 搜尋這些資料庫的[工具](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md)可在 Hugging Face Spaces 上找到.
 
 
-['[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md) | [简体中文 (Chinese) ][https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md]']
+[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) / [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) / [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md) / [简体中文 (Chinese) ][https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md]
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)
