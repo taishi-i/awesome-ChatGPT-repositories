@@ -12,7 +12,29 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
 
-[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) / [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) / [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md) / [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md)
+[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md)
+
+## The latest additions 🎉
+
+**Awesome-lists**
+ * [awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) - An awesome repository of community-curated applications of ChatGPT and other LLMs im computational biology
+
+**Prompts**
+ * [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/chatgpt-data-science-prompts) - A repository of 60 useful data science prompts for ChatGPT
+
+**Browser-extensions**
+ * [chatGPTBox](https://github.com/josstorer/chatgptbox) - Integrating ChatGPT into your browser deeply, everything you need is here
+
+**NLP**
+ * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
+
+**Others**
+ * [chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
+ * [BingGPT](https://github.com/dice2o/binggpt) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+ * [ebook-GPT-translator](https://github.com/jesselau76/ebook-gpt-translator) - Enjoy reading with your favorite style.
+ * [AISisterAIChan](https://github.com/manju-summoner/aisisteraichan) - ChatGPT3.5を搭載した伺かゴースト「AI妹アイちゃん」です。利用には別途ChatGPTのAPIキーが必要です。
+
+_Updated on April 07, 2023_
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)
@@ -42,6 +64,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - List of interesting resources for building and using ChatGPT plugins.
  * [awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt) - ⚡ Everything about ChatGPT
  * [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
+ * [awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) - An awesome repository of community-curated applications of ChatGPT and other LLMs im computational biology
 
 
 |Name|Language|License|GitHub Stars|
@@ -55,6 +78,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-chatgpt-plugins?style=social)|
 |[awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/OpenMindClub/awesome-chatgpt?style=social)|
 |[awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/awesome-chatgpt?style=social)|
+|[awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/csbl-br/awesome-compbio-chatgpt?style=social)|
 
 
 ## Prompts
@@ -94,6 +118,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [squidgy-prompts](https://github.com/squidgyai/squidgy-prompts) - any #langtwt folks interested in #gpt3 / #chatgpt and language learning?we’ve just released an open source set of prompts to help learners build decks, sentence mine, correct grammar, play word games and more. can be used on their own or in @squidgiesapp. 
  * [ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan) - ChatGPT DAN, Jailbreaks prompt
  * [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - 50 use cases of ChatGPT for research work
+ * [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/chatgpt-data-science-prompts) - A repository of 60 useful data science prompts for ChatGPT
 
 
 |Name|Language|License|GitHub Stars|
@@ -133,6 +158,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[squidgy-prompts](https://github.com/squidgyai/squidgy-prompts)|-|Creative Commons Attribution Share Alike 4.0 International|![GitHub Repo stars](https://img.shields.io/github/stars/squidgyai/squidgy-prompts?style=social)|
 |[ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/0xk1h0/ChatGPT_DAN?style=social)|
 |[ResearchChatGPT](https://github.com/hollobit/researchchatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/ResearchChatGPT?style=social)|
+|[ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/chatgpt-data-science-prompts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/travistangvh/ChatGPT-Data-Science-Prompts?style=social)|
 
 
 ## Chatbots
@@ -289,6 +315,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
  * [simpread](https://github.com/kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
  * [chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page) - 一个 Chrome 浏览器插件，通过 ChatGPT 来自动响应微信私信或群聊中 @你 的消息的智能聊天机器人
+ * [chatGPTBox](https://github.com/josstorer/chatgptbox) - Integrating ChatGPT into your browser deeply, everything you need is here
  * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
  * [openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
  * [browser-extension](https://github.com/taxyai/browser-extension) - Automate your browser with GPT-4
@@ -320,6 +347,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kazuki-sf/YouTube_Summary_with_ChatGPT?style=social)|
 |[simpread](https://github.com/kenshin/simpread)|JavaScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Kenshin/simpread?style=social)|
 |[chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/1cloudy/chatgpt-wechat-landing-page?style=social)|
+|[chatGPTBox](https://github.com/josstorer/chatgptbox)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/josStorer/chatGPTBox?style=social)|
 |[chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/mpociot/chatgpt-vscode?style=social)|
 |[openai-translator](https://github.com/yetone/openai-translator)|TypeScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)|
 |[browser-extension](https://github.com/taxyai/browser-extension)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TaxyAI/browser-extension?style=social)|
@@ -551,6 +579,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [chatgpt-i18n](https://github.com/observedobserver/chatgpt-i18n) - Translate your locale json files with AI assistance.
  * [platform](https://github.com/cognosisai/platform) - @miehrmantraut @parth007_96 love it! things you'll probably have to think of to do this:1) gpt models may not know as much about datalog as they do sql. this can be addressed two ways: fine-tuning and k-shotting examples.
  * [minds](https://github.com/dosco/minds) - MindsJS - Build AI powered workflows easily
+ * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
  * [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM 
  * [ChatARKit](https://github.com/trzy/chatarkit) - Using ChatGPT to create AR experiences with natural language.
  * [alpaca.cpp](https://github.com/rupeshs/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM (Android/Linux/Windows/Mac)
@@ -621,6 +650,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[chatgpt-i18n](https://github.com/observedobserver/chatgpt-i18n)|TypeScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/ObservedObserver/chatgpt-i18n?style=social)|
 |[platform](https://github.com/cognosisai/platform)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cognosisai/platform?style=social)|
 |[minds](https://github.com/dosco/minds)|TypeScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/dosco/minds?style=social)|
+|[ai-code-translator](https://github.com/mckaywrigley/ai-code-translator)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social)|
 |[alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/antimatter15/alpaca.cpp?style=social)|
 |[ChatARKit](https://github.com/trzy/chatarkit)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/trzy/ChatARKit?style=social)|
 |[alpaca.cpp](https://github.com/rupeshs/alpaca.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rupeshs/alpaca.cpp?style=social)|
@@ -854,7 +884,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [nebullvm](https://github.com/nebuly-ai/nebullvm) - Plug and play modules to optimize the performances of your AI systems 🚀
  * [IATelligence](https://github.com/fr0gger/iatelligence) - IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related
  * [aoc-gpt](https://github.com/max-sixty/aoc-gpt) - Solve Advent of Code puzzles with GPT-3
- * [https:](https://discu.eu/q/https:) - A git mirror of django-bcrypt.
  * [ColossalAI](https://github.com/hpcaitech/colossalai) - Making large AI models cheaper, faster and more accessible
  * [EdgeGPT](https://github.com/acheong08/edgegpt) - Reverse engineered API of Microsoft's Bing Chat AI
  * [chatGPT-python-elm](https://github.com/vrescobar/chatgpt-python-elm) - A repository fully generated by ChatGPT making it believed it checked out a this repository which I described like the first line of the README.
@@ -894,6 +923,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [chatgpt_stock_report](https://github.com/ddobokki/chatgpt_stock_report) - 그날의 증권사 리포트를 챗 gpt를 활용해 요약하는 레포
  * [DeeperSpeed](https://github.com/eleutherai/deeperspeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
  * [MM-REACT](https://github.com/microsoft/mm-react) - Official repo for MM-REACT
+ * [ebook-GPT-translator](https://github.com/jesselau76/ebook-gpt-translator) - Enjoy reading with your favorite style.
  * [yolopandas](https://github.com/ccurme/yolopandas) - @marktenenholtz chatgpt replaced you. 
  * [symbolicai](https://github.com/xpitfire/symbolicai) - Compositional Differentiable Programming Library
  * [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - The Machine Learning project including ML/DL projects, notebooks, cheat codes of ML/DL, useful information on AI/AGI and codes or snippets/scripts/tasks with tips.
@@ -916,6 +946,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [ARC](https://github.com/fchollet/arc) - The Abstraction and Reasoning Corpus
  * [adrenaline](https://github.com/shobrook/adrenaline) - Talk to your codebase
  * [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+ * [BingGPT](https://github.com/dice2o/binggpt) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
  * [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
  * [roomGPT](https://github.com/nutlope/roomgpt) - Upload a photo of your room to generate your dream room with AI.
  * [appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -930,6 +961,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [chatapi](https://github.com/bytemate/chatapi) - IconGaGa a Node.js library of randomly generated icons.
  * [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - AI search & chat on your Kindle highlights.
  * [mantine-boilerplate](https://github.com/drcan94/mantine-boilerplate) - Sample Mantine Starter Repo
+ * [chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
  * [gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - Some examples of GPT-4 for code!
  * [M5Core2ImageAvatarLiteChatGPT](https://github.com/robo8080/m5core2imageavatarlitechatgpt) - ImageAvatarLiteChatGPT for M5Stack Core2
  * [mpi_small_examples](https://github.com/t-hishinuma/mpi_small_examples) - は？？？？？？？？？？chatgptにgithubに上がってる俺のmpiのサンプルコード(内積)のurl送りつけたら完璧に解説しやがったんだが？？ 
@@ -959,6 +991,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
  * [Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt) - 2017 GUJAM
  * [ChatGPTforRhino](https://github.com/4kk11/chatgptforrhino) - chatgptforrhinoにgui実装してそれっぽくした！あとgithubに置いといた！ 
+ * [AISisterAIChan](https://github.com/manju-summoner/aisisteraichan) - ChatGPT3.5を搭載した伺かゴースト「AI妹アイちゃん」です。利用には別途ChatGPTのAPIキーが必要です。
  * [ChatGPT-Bypass](https://github.com/grimoutlaw/chatgpt-bypass) - Simple scripts that allows you to bypass content filtering in ChatGPT through the API
  * [robustlearn](https://github.com/microsoft/robustlearn) - A respository for MDATP PowerBI Templates
  * [check](https://github.com/yeahwu/check) - Streaming Media Unlock Test
@@ -986,6 +1019,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [gayolGate](https://github.com/gayolgate/gayolgate) - Information about my GitHub profile
  * [feishu-chatGpt](https://github.com/leizhenpeng/feishu-chatgpt) - 基于electron-vue开发的跨平台微信小程序自助解包(反编译)客户端
  * [minlora](https://github.com/cccntu/minlora) - 🚀 exciting news! i just released my new repo, minlora 🎉 this powerful library lets you apply lora to *any* pytorch model in a few lines of code. from @huggingface's transformers, diffusers, to @karpathy's nanogpt. check it out now at  
+ * [Coulda-Been-a-Tweet](https://github.com/devbisme/coulda-been-a-tweet) - Short entries arranged chronologically about stuff I've seen.
  * [bms](https://github.com/hedcet/bms) - #topgunmaverick #jan20fri collection 13,689₹, 35% occupancy (117/331), 2 shows, 2 cinemas #nationalcapitalregionncr  
 
 
@@ -998,7 +1032,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[nebullvm](https://github.com/nebuly-ai/nebullvm)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/nebuly-ai/nebullvm?style=social)|
 |[IATelligence](https://github.com/fr0gger/iatelligence)|Python|GNU General Public License v2.0|![GitHub Repo stars](https://img.shields.io/github/stars/fr0gger/IATelligence?style=social)|
 |[aoc-gpt](https://github.com/max-sixty/aoc-gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/max-sixty/aoc-gpt?style=social)|
-|[https:](https://discu.eu/q/https:)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/q/https:?style=social)|
 |[ColossalAI](https://github.com/hpcaitech/colossalai)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)|
 |[EdgeGPT](https://github.com/acheong08/edgegpt)|Python|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/EdgeGPT?style=social)|
 |[chatGPT-python-elm](https://github.com/vrescobar/chatgpt-python-elm)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/vrescobar/chatGPT-python-elm?style=social)|
@@ -1038,6 +1071,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[chatgpt_stock_report](https://github.com/ddobokki/chatgpt_stock_report)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/ddobokki/chatgpt_stock_report?style=social)|
 |[DeeperSpeed](https://github.com/eleutherai/deeperspeed)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/EleutherAI/DeeperSpeed?style=social)|
 |[MM-REACT](https://github.com/microsoft/mm-react)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MM-REACT?style=social)|
+|[ebook-GPT-translator](https://github.com/jesselau76/ebook-gpt-translator)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/ebook-GPT-translator?style=social)|
 |[yolopandas](https://github.com/ccurme/yolopandas)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ccurme/yolopandas?style=social)|
 |[symbolicai](https://github.com/xpitfire/symbolicai)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/Xpitfire/symbolicai?style=social)|
 |[Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness?style=social)|
@@ -1060,6 +1094,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[ARC](https://github.com/fchollet/arc)|JavaScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/fchollet/ARC?style=social)|
 |[adrenaline](https://github.com/shobrook/adrenaline)|JavaScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/adrenaline?style=social)|
 |[pdf.js](https://github.com/mozilla/pdf.js)|JavaScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mozilla/pdf.js?style=social)|
+|[BingGPT](https://github.com/dice2o/binggpt)|JavaScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/dice2o/BingGPT?style=social)|
 |[wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social)|
 |[roomGPT](https://github.com/nutlope/roomgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/Nutlope/roomGPT?style=social)|
 |[appwrite](https://github.com/appwrite/appwrite)|TypeScript|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social)|
@@ -1074,6 +1109,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[chatapi](https://github.com/bytemate/chatapi)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/bytemate/chatapi?style=social)|
 |[kindle-gpt](https://github.com/mckaywrigley/kindle-gpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/kindle-gpt?style=social)|
 |[mantine-boilerplate](https://github.com/drcan94/mantine-boilerplate)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/drcan94/mantine-boilerplate?style=social)|
+|[chatgpt-md](https://github.com/bramses/chatgpt-md)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/bramses/chatgpt-md?style=social)|
 |[gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code)|C++|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/anysphere/gpt-4-for-code?style=social)|
 |[M5Core2ImageAvatarLiteChatGPT](https://github.com/robo8080/m5core2imageavatarlitechatgpt)|C++|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/robo8080/M5Core2ImageAvatarLiteChatGPT?style=social)|
 |[mpi_small_examples](https://github.com/t-hishinuma/mpi_small_examples)|C++|-|![GitHub Repo stars](https://img.shields.io/github/stars/t-hishinuma/mpi_small_examples?style=social)|
@@ -1103,6 +1139,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[runtime](https://github.com/dotnet/runtime)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/dotnet/runtime?style=social)|
 |[Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Entrepreneur-GPT?style=social)|
 |[ChatGPTforRhino](https://github.com/4kk11/chatgptforrhino)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/4kk11/ChatGPTforRhino?style=social)|
+|[AISisterAIChan](https://github.com/manju-summoner/aisisteraichan)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/manju-summoner/AISisterAIChan?style=social)|
 |[ChatGPT-Bypass](https://github.com/grimoutlaw/chatgpt-bypass)|PowerShell|-|![GitHub Repo stars](https://img.shields.io/github/stars/GrimOutlaw/ChatGPT-Bypass?style=social)|
 |[robustlearn](https://github.com/microsoft/robustlearn)|PowerShell|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/robustlearn?style=social)|
 |[check](https://github.com/yeahwu/check)|Shell|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/yeahwu/check?style=social)|
@@ -1130,6 +1167,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |[gayolGate](https://github.com/gayolgate/gayolgate)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gayolGate/gayolGate?style=social)|
 |[feishu-chatGpt](https://github.com/leizhenpeng/feishu-chatgpt)|-|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Leizhenpeng/feishu-chatGpt?style=social)|
 |[minlora](https://github.com/cccntu/minlora)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cccntu/minlora?style=social)|
+|[Coulda-Been-a-Tweet](https://github.com/devbisme/coulda-been-a-tweet)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/devbisme/Coulda-Been-a-Tweet?style=social)|
 |[bms](https://github.com/hedcet/bms)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/HedCET/bms?style=social)|
 
 
