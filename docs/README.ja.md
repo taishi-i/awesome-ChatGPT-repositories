@@ -16,22 +16,22 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) - An awesome repository of community-curated applications of ChatGPT and other LLMs im computational biology
+ * [awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) - コミュニティが管理するChatGPTのアプリケーションや コンピュータ生物学における他のLLMの素晴らしいリポジトリ
 
 **Prompts**
- * [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/chatgpt-data-science-prompts) - A repository of 60 useful data science prompts for ChatGPT
+ * [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/chatgpt-data-science-prompts) - ChatGPT の 60 つの有用なデータサイエンスプロンプトのリポジトリ
 
 **Browser-extensions**
- * [chatGPTBox](https://github.com/josstorer/chatgptbox) - Integrating ChatGPT into your browser deeply, everything you need is here
+ * [chatGPTBox](https://github.com/josstorer/chatgptbox) - 必要なものはすべてここにあります.
 
 **NLP**
- * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
+ * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - AIを使って 言語から言語にコードを翻訳します
 
 **Others**
- * [chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
- * [BingGPT](https://github.com/dice2o/binggpt) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
- * [ebook-GPT-translator](https://github.com/jesselau76/ebook-gpt-translator) - Enjoy reading with your favorite style.
- * [AISisterAIChan](https://github.com/manju-summoner/aisisteraichan) - ChatGPT3.5を搭載した伺かゴースト「AI妹アイちゃん」です。利用には別途ChatGPTのAPIキーが必要です。
+ * [chatgpt-md](https://github.com/bramses/chatgpt-md) - ChatGPTをオブシディアンにシームレスに統合する
+ * [BingGPT](https://github.com/dice2o/binggpt) - 新しいBingのAI駆動チャットのデスクトップアプリケーション (Windows,macOS,Linux)
+ * [ebook-GPT-translator](https://github.com/jesselau76/ebook-gpt-translator) - お気に入りのスタイルで読むのが楽しんでください.
+ * [AISisterAIChan](https://github.com/manju-summoner/aisisteraichan) - ChatGPT3.5搭載のサーバーは『AI妹アイちゃん』である. また,ChatGPTのAPIキーも使用できます.
 
 _Updated on April 07, 2023_
 
