@@ -29,18 +29,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 
 ## Table of contents
- * [Awesome-lists](#Awesome-lists)
- * [Prompts](#Prompts)
- * [Chatbots](#Chatbots)
- * [Browser-extensions](#Browser-extensions)
- * [CLIs](#CLIs)
- * [Reimplementations](#Reimplementations)
- * [Tutorials](#Tutorials)
- * [NLP](#NLP)
- * [Langchain](#Langchain)
- * [Unity](#Unity)
- * [Openai](#Openai)
- * [Others](#Others)
+- [awesome-ChatGPT-repositories](#awesome-chatgpt-repositories)
+  - [The latest additions 🎉](#the-latest-additions-)
+  - [Table of contents](#table-of-contents)
+  - [Awesome-lists](#awesome-lists)
+  - [Prompts](#prompts)
+  - [Chatbots](#chatbots)
+  - [Browser-extensions](#browser-extensions)
+  - [CLIs](#clis)
+  - [Reimplementations](#reimplementations)
+  - [Tutorials](#tutorials)
+  - [NLP](#nlp)
+  - [Langchain](#langchain)
+  - [Unity](#unity)
+  - [Openai](#openai)
+  - [Others](#others)
 
 *Each content is under consideration, so there is a possibility that the contents may change in the future. Additionally, other content will be categorized in the future.*
 
@@ -51,6 +54,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
  * [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
  * [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
+ * [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
  * [awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
  * [Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt) - ChatGPT资料汇总学习，持续更新......
  * [awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) - An awesome repository of community-curated applications of ChatGPT and other LLMs im computational biology
@@ -65,6 +69,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|HTML|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social)|
 |[awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/humanloop/awesome-chatgpt?style=social)|
 |[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|
+|[awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/awesome-chatgpt-zh?style=social)|
 |[awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=social)|
 |[Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dalinvip/Awesome-ChatGPT?style=social)|
 |[awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/csbl-br/awesome-compbio-chatgpt?style=social)|
