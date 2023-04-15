@@ -126,6 +126,22 @@
                     "openai"
                 ]
             },
+            "https://github.com/yzfly/awesome-chatgpt-zh": {
+                "repository_name": "awesome-chatgpt-zh",
+                "user_name": "yzfly",
+                "language": null,
+                "license": null,
+                "description": "ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! ",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "chat-gpt",
+                    "chatgpt",
+                    "chatgpt3",
+                    "chatgpt35-turbo",
+                    "gpt-4"
+                ]
+            },
             "https://github.com/eon01/awesome-chatgpt": {
                 "repository_name": "awesome-chatgpt",
                 "user_name": "eon01",
@@ -529,6 +545,26 @@
                     "research-paper"
                 ]
             },
+            "https://github.com/barretlee/chatgpt-text-to-midjourney-image": {
+                "repository_name": "chatgpt-text-to-midjourney-image",
+                "user_name": "barretlee",
+                "language": "JavaScript",
+                "license": "JavaScript",
+                "description": "Optimize the prompt using ChatGPT, then send it to Replicate to create an image.",
+                "topics": [
+                    "chatgpt",
+                    "prompt",
+                    "replicate"
+                ]
+            },
+            "https://github.com/unicornlaunching/langchain-and-elevenlabs-with-pdf-analysis": {
+                "repository_name": "langchain-and-elevenlabs-with-pdf-analysis",
+                "user_name": "unicornlaunching",
+                "language": "Jupyter Notebook",
+                "license": "Jupyter Notebook",
+                "description": "How might we mix OpenAI and Langchain and ElevenLabs to speak out responses to prompts using a body of knowledge encapsulated in PDFs?",
+                "topics": []
+            },
             "https://github.com/hazyresearch/ama_prompting": {
                 "repository_name": "ama_prompting",
                 "user_name": "HazyResearch",
@@ -555,6 +591,28 @@
                     "prompt",
                     "promptist",
                     "x-prompt"
+                ]
+            },
+            "https://github.com/ai4finance-foundation/fingpt": {
+                "repository_name": "FinGPT",
+                "user_name": "AI4Finance-Foundation",
+                "language": null,
+                "license": null,
+                "description": "Open-source for open finance!  Revolutionize 🔥",
+                "topics": [
+                    "chatgpt",
+                    "finance",
+                    "fingpt",
+                    "fintech",
+                    "large-language-models",
+                    "machine-learning",
+                    "nlp",
+                    "prompt-engineering",
+                    "pytorch",
+                    "reinforcement-learning",
+                    "robo-advisor",
+                    "sentiment-analysis",
+                    "technical-analysis"
                 ]
             },
             "https://github.com/op7418/prompt-hunter": {
@@ -1321,6 +1379,14 @@
                 "description": "Let ChatGPT teach your own chatbot in hours with a single GPU!",
                 "topics": []
             },
+            "https://github.com/project-baize/baize-chatbot": {
+                "repository_name": "baize-chatbot",
+                "user_name": "project-baize",
+                "language": "Python",
+                "license": "Python",
+                "description": "Let ChatGPT teach your own chatbot in hours with a single GPU!",
+                "topics": []
+            },
             "https://github.com/nomic-ai/gpt4all-ui": {
                 "repository_name": "gpt4all-ui",
                 "user_name": "nomic-ai",
@@ -1345,6 +1411,18 @@
                     "typescript"
                 ]
             },
+            "https://github.com/anc95/chatgpt-codereview": {
+                "repository_name": "ChatGPT-CodeReview",
+                "user_name": "anc95",
+                "language": "JavaScript",
+                "license": "JavaScript",
+                "description": "🐥 A code review bot powered by ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "codereview",
+                    "probot"
+                ]
+            },
             "https://github.com/sullivan-sean/chat-langchainjs": {
                 "repository_name": "chat-langchainjs",
                 "user_name": "sullivan-sean",
@@ -1352,6 +1430,24 @@
                 "license": "TypeScript",
                 "description": "replicating chatlangchain (a chatgpt-like bot that only answers questions about langchain documentation) with a typescript backed  heard @swyx is having a hackathon later today. hopefully this can serve as a starting point for some projects there!",
                 "topics": []
+            },
+            "https://github.com/hmmhmmhm/friday-gpt": {
+                "repository_name": "friday-gpt",
+                "user_name": "hmmhmmhm",
+                "language": "TypeScript",
+                "license": "TypeScript",
+                "description": "A.I 에게 R&R을 부여해서 프로그래밍 업무를 진행시킵니다.",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "gpt-3",
+                    "korea",
+                    "korean",
+                    "korean-nlp",
+                    "neural-network",
+                    "nodejs",
+                    "typescript"
+                ]
             },
             "https://github.com/kent0n-li/chatdoctor": {
                 "repository_name": "ChatDoctor",
@@ -2749,6 +2845,22 @@
                     "language-model",
                     "typescript"
                 ]
+            },
+            "https://github.com/emcf/engshell": {
+                "repository_name": "engshell",
+                "user_name": "emcf",
+                "language": "Python",
+                "license": "Python",
+                "description": "An English-language shell for any OS, powered by LLMs",
+                "topics": []
+            },
+            "https://github.com/builderio/ai-shell": {
+                "repository_name": "ai-shell",
+                "user_name": "BuilderIO",
+                "language": "TypeScript",
+                "license": "TypeScript",
+                "description": "A CLI that converts natural language to shell commands.",
+                "topics": []
             }
         },
         "Reimplementations": {
@@ -3967,6 +4079,20 @@
                 "description": "we release our weights from recreated stanford alpaca 7b - llama finetuned on synthetic instruction dataset. it's surprisingly good:(keep in mind, the following results is just from the smallest 7b model; gpt-3 is 175b)",
                 "topics": []
             },
+            "https://github.com/aiplaybookin/novice-chatgpt": {
+                "repository_name": "novice-ChatGPT",
+                "user_name": "aiplaybookin",
+                "language": "Jupyter Notebook",
+                "license": "Jupyter Notebook",
+                "description": "ChatGPT API Usage using LangChain, LlamaIndex, Guardrails, AutoGPT and more",
+                "topics": [
+                    "autogpt",
+                    "gpt4",
+                    "guardrails",
+                    "langchain",
+                    "llamaindex"
+                ]
+            },
             "https://github.com/jina-ai/agentchain": {
                 "repository_name": "agentchain",
                 "user_name": "jina-ai",
@@ -3998,6 +4124,14 @@
                     "openai",
                     "python"
                 ]
+            },
+            "https://github.com/abetlen/llama-cpp-python": {
+                "repository_name": "llama-cpp-python",
+                "user_name": "abetlen",
+                "language": "Python",
+                "license": "Python",
+                "description": "Python bindings for llama.cpp",
+                "topics": []
             }
         },
         "Unity": {
@@ -4767,6 +4901,31 @@
                     "chatgpt-api-wrapper",
                     "cloudflare",
                     "proxy"
+                ]
+            },
+            "https://github.com/alembics/disco-diffusion": {
+                "repository_name": "disco-diffusion",
+                "user_name": "alembics",
+                "language": "Jupyter Notebook",
+                "license": "Jupyter Notebook",
+                "description": "openai开发的ai模型目前比较知名的有： #chatgpt、#midjourney、#stablediffusionchat 今天为大家更新5个好用的ai算法模型学习渠道1、神力中文ai算法市场:、disco-diffusion型:、百度文心 ernie-vilg:",
+                "topics": []
+            },
+            "https://github.com/supabase-community/nextjs-openai-doc-search?og=v2": {
+                "repository_name": "nextjs-openai-doc-search",
+                "user_name": "supabase-community",
+                "language": "TypeScript",
+                "license": "TypeScript",
+                "description": "Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "nextjs",
+                    "openai",
+                    "postgres",
+                    "supabase",
+                    "template",
+                    "vector-search"
                 ]
             },
             "https://github.com/jamesturk/scrapeghost": {
@@ -6333,6 +6492,14 @@
                 "description": "@marktenenholtz chatgpt replaced you.",
                 "topics": []
             },
+            "https://github.com/andylokandy/gpt-4-search": {
+                "repository_name": "gpt-4-search",
+                "user_name": "andylokandy",
+                "language": "Python",
+                "license": "Python",
+                "description": "A command line GPT-4 REPL with Google search in 200 lines of code",
+                "topics": []
+            },
             "https://github.com/xpitfire/symbolicai": {
                 "repository_name": "symbolicai",
                 "user_name": "Xpitfire",
@@ -6382,6 +6549,22 @@
                 "language": "Go",
                 "license": "Go",
                 "description": "DoctorGPT brings GPT into production for error diagnosing!",
+                "topics": []
+            },
+            "https://github.com/jina-ai/gptdeploy": {
+                "repository_name": "gptdeploy",
+                "user_name": "jina-ai",
+                "language": "Python",
+                "license": "Python",
+                "description": "One line to create them all",
+                "topics": []
+            },
+            "https://github.com/muellerberndt/micro-gpt": {
+                "repository_name": "micro-gpt",
+                "user_name": "muellerberndt",
+                "language": "Python",
+                "license": "Python",
+                "description": "A minimal generic autonomous agent.",
                 "topics": []
             }
         }
