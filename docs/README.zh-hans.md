@@ -28,18 +28,21 @@
 _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 
 ## Table of contents
- * [Awesome-lists](#Awesome-lists)
- * [Prompts](#Prompts)
- * [Chatbots](#Chatbots)
- * [Browser-extensions](#Browser-extensions)
- * [CLIs](#CLIs)
- * [Reimplementations](#Reimplementations)
- * [Tutorials](#Tutorials)
- * [NLP](#NLP)
- * [Langchain](#Langchain)
- * [Unity](#Unity)
- * [Openai](#Openai)
- * [Others](#Others)
+- [awesome-ChatGPT-repositories](#awesome-chatgpt-repositories)
+  - [The latest additions 🎉](#the-latest-additions-)
+  - [Table of contents](#table-of-contents)
+  - [Awesome-lists](#awesome-lists)
+  - [Prompts](#prompts)
+  - [Chatbots](#chatbots)
+  - [Browser-extensions](#browser-extensions)
+  - [CLIs](#clis)
+  - [Reimplementations](#reimplementations)
+  - [Tutorials](#tutorials)
+  - [NLP](#nlp)
+  - [Langchain](#langchain)
+  - [Unity](#unity)
+  - [Openai](#openai)
+  - [Others](#others)
 
 *每个内容都在考虑中,因此未来可能会有内容变化. 此外,未来还会有其他内容被分类.*
 
@@ -50,6 +53,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - 这项复用包括 ChatGPT 提示策划,以更好地使用 ChatGPT.
  * [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - 编辑了 ChatGPT 和 GPT-3 的精彩工具,演示,文档列表
  * [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - 完全开放的 ChatGPT 替代品列表
+* [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
  * [awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh) - 聊GPT 中文调教指南。各种场景使用指南。学习如何让它听你的话。
  * [Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt) - 聊天GPT资料汇总学习,持续更新......
  * [awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) - 社区策划的ChatGPT和其他计算机生物学专业应用程序的惊人库
@@ -64,6 +68,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|HTML|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social)|
 |[awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/humanloop/awesome-chatgpt?style=social)|
 |[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|
+|[awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/awesome-chatgpt-zh?style=social)|
 |[awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=social)|
 |[Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dalinvip/Awesome-ChatGPT?style=social)|
 |[awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/csbl-br/awesome-compbio-chatgpt?style=social)|
