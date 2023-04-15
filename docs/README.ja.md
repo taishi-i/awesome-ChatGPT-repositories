@@ -15,34 +15,51 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [gpt-assistant](https://github.com/builderio/gpt-assistant) - 自動GPTエージェントにブラウザへのアクセスを与え,タスクを実行させる実験
+**Awesome-lists**
+ * [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - 精選資源リスト,よりよい使い方 chatGPT 让你的生産力 up up up up up!
 
-**NLP**
- * [chatgpt-document-extraction](https://github.com/brandonrobertz/chatgpt-document-extraction) - 混乱したテキスト文書を構造化されたJSONに変換するための ChatGPTを使用するための概念証明ツール
- * [nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser) - NLPで動いている GPT-3で,PDFからJSONへの再開パーサーが有効になりました.
+**Prompts**
+ * [chatgpt-text-to-midjourney-image](https://github.com/barretlee/chatgpt-text-to-midjourney-image) - ChatGPT を使ってプロンプトを最適化し,画像を作成するために Replicate に送信します.
+ * [langchain-and-elevenlabs-with-pdf-analysis](https://github.com/unicornlaunching/langchain-and-elevenlabs-with-pdf-analysis) - OpenAIとLangchainとElevenLabsを組み合わせて PDFに収録された知識を使って 提示への応答を出すにはどうすればいいのでしょうか?
+ * [FinGPT](https://github.com/ai4finance-foundation/fingpt) - オープンソースでオープンな金融! 革命!
+
+**Chatbots**
+ * [baize-chatbot](https://github.com/project-baize/baize-chatbot) - 単一のGPUで何時間で ChatGPTを学習させてください
+ * [ChatGPT-CodeReview](https://github.com/anc95/chatgpt-codereview) -  ChatGPTで動いているコードレビューボット
+ * [friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - プログラム作業をA.I.にR&Rを委ねて実行します
+
+**CLIs**
+ * [engshell](https://github.com/emcf/engshell) - LLM で動いている,あらゆるOSのための英語のシェル
+ * [ai-shell](https://github.com/builderio/ai-shell) - 自然言語をシェルコマンドに変換する CLI
+
+**Langchain**
+ * [novice-ChatGPT](https://github.com/aiplaybookin/novice-chatgpt) - ChatGPT API 使用 ラングチェイン,LlamaIndex,ガードレイル,AutoGPTなど
+ * [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - llama.cpp の Python 結合
 
 **Openai**
- * [scrapeghost](https://github.com/jamesturk/scrapeghost) -  OpenAIのGPT APIを使用してウェブサイトをスクレイプするための実験ライブラリ.
+ * [disco-diffusion](https://github.com/alembics/disco-diffusion) - 開発されたaiモデルが現在比較有名です: #chatgpt、#midjourney、#stablediffusionchat 今日皆さんのために更新5個好用aiアルゴリズムモデル学習道1、神力中文aiアルゴリズム市場:、ディスコ-diffusion型:、百度文心 ernie-vilg:
+ * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search?og=v2) - 独自のカスタム ChatGPT スタイル ドック検索を構築するためのテンプレート Next.js,OpenAI,Supabase によって動力されています.
 
-_Updated on April 15, 2023_ (A total of 542 repositories listed.)
+**Others**
+ * [gpt-4-search](https://github.com/andylokandy/gpt-4-search) - 200行コードでGoogle検索でコマンドラインGPT-4 REPL
+ * [gptdeploy](https://github.com/jina-ai/gptdeploy) - 一つの線で すべてを創造する
+ * [micro-gpt](https://github.com/muellerberndt/micro-gpt) - 軽量な汎用的な自動エージェント
+
+_Updated on April 16, 2023_ (A total of 559 repositories listed.)
 
 ## Table of contents
-- [awesome-ChatGPT-repositories](#awesome-chatgpt-repositories)
-  - [The latest additions 🎉](#the-latest-additions-)
-  - [Table of contents](#table-of-contents)
-  - [Awesome-lists](#awesome-lists)
-  - [Prompts](#prompts)
-  - [Chatbots](#chatbots)
-  - [Browser-extensions](#browser-extensions)
-  - [CLIs](#clis)
-  - [Reimplementations](#reimplementations)
-  - [Tutorials](#tutorials)
-  - [NLP](#nlp)
-  - [Langchain](#langchain)
-  - [Unity](#unity)
-  - [Openai](#openai)
-  - [Others](#others)
+ * [Awesome-lists](#Awesome-lists)
+ * [Prompts](#Prompts)
+ * [Chatbots](#Chatbots)
+ * [Browser-extensions](#Browser-extensions)
+ * [CLIs](#CLIs)
+ * [Reimplementations](#Reimplementations)
+ * [Tutorials](#Tutorials)
+ * [NLP](#NLP)
+ * [Langchain](#Langchain)
+ * [Unity](#Unity)
+ * [Openai](#Openai)
+ * [Others](#Others)
 
 *各コンテンツは検討中であり、将来的に内容が変更される可能性があります。また、その他の内容は将来的に分類される予定です。*
 
@@ -53,12 +70,12 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - このレポには,ChatGPTをより良く利用するために ChatGPT プロンプトのキュレーションが含まれています.
  * [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - ChatGPTとGPT-3の素晴らしいツール,デモ,ドキュメントのリスト
  * [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - ChatGPT の完全オープンな代替品のリスト
- * [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) ChatGPT の中国語ガイド、選ばれたリソースリストはchatGPTを上手に使って生産性を上げ上げ上げます!
  * [awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh) - チェットGPT 中文调教指南、様々なシーン使用指南、学習方法,あなたの言葉を聞くようにする。
  * [Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt) - 雑談GPT资料汇总学习,継続更新...
  * [awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) - コミュニティが管理するChatGPTのアプリケーションや コンピュータ生物学における他のLLMの素晴らしいリポジトリ
  * [awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt) -  ChatGPT に関するすべて
  * [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - 選択されたChatGPTデモ,ツール,記事,その他✨
+ * [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - チェットGPT 中文指南,チェットGPT 中文調教指南,指令指南,精選資源清單,よりよい使い方チェットGPT 让你的生産力 up up up up up up!
  * [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 図書館,SDK,APIなど,素晴らしいChatGPTリソースの キュレーションリストです. 星でこのプロジェクトを支援することを検討してください.
 
 
@@ -68,12 +85,12 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|HTML|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social)|
 |[awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/humanloop/awesome-chatgpt?style=social)|
 |[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|
-|[awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/awesome-chatgpt-zh?style=social)|
 |[awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=social)|
 |[Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dalinvip/Awesome-ChatGPT?style=social)|
 |[awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/csbl-br/awesome-compbio-chatgpt?style=social)|
 |[awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/OpenMindClub/awesome-chatgpt?style=social)|
 |[awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/awesome-chatgpt?style=social)|
+|[awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/awesome-chatgpt-zh?style=social)|
 |[awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)|-|Other|![GitHub Repo stars](https://img.shields.io/github/stars/eon01/awesome-chatgpt?style=social)|
 
 
@@ -91,10 +108,12 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [ama_prompting](https://github.com/hazyresearch/ama_prompting) - 言語モデルを提示する
  * [LMOps](https://github.com/microsoft/lmops) - 機械の技術開発の技術
  * [Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide) - ガイド,論文,講演,ノートブック,迅速なエンジニアリングのためのリソース
+ * [langchain-and-elevenlabs-with-pdf-analysis](https://github.com/unicornlaunching/langchain-and-elevenlabs-with-pdf-analysis) - OpenAIとLangchainとElevenLabsを組み合わせて PDFに収録された知識を使って 提示への応答を出すにはどうすればいいのでしょうか?
  * [promptr](https://github.com/ferrislucas/promptr) - Promptr は,GPT を使ってコードベースで動作するための CLI ツールです. Promptr は GPT プロンプトに動的に 1 つ以上のファイルを含み,GPT が提案する変更をオプションで解析し,コードベースに適用できます.さまざまな目的のためにいくつかのプロンプトテンプレートが含まれ,ユーザーは独自のテンプレートを作成できます.
  * [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - ChatGPTのクローン,公式モデル&Bingを使用,AIモデル切り替え,メッセージ検索,プロンプトテンプレート (WIP) を備えたリバースエンジニアリングUI
  * [ChatGPT-Prompt-Genius](https://github.com/benf2004/chatgpt-prompt-genius) - このオープンソースプロジェクトにも貢献してください #chatgpt #gpt4 #chatgptprompts
  * [ChatGPT-Adventure](https://github.com/capnmidnight/chatgpt-adventure) - ChatGPT がテキストアドベンチャーゲームを作成するための開始プロンプト
+ * [chatgpt-text-to-midjourney-image](https://github.com/barretlee/chatgpt-text-to-midjourney-image) - ChatGPT を使ってプロンプトを最適化し,画像を作成するために Replicate に送信します.
  * [Prompt-hunter](https://github.com/op7418/prompt-hunter) - 提示符と画像をミッドジャージー詳細ページからNotionページに保存する
  * [chatbox](https://github.com/bin-huang/chatbox) - オープンAIAPI (ChatGPT API) のデスクトップアプリで,Windows,Mac & Linuxに対応しています. 開源のChatGPTデスクトップアプリケーション,プロンプト 開発神器,全プラットフォームサポート,ダウンロード安装パッケージ就能使用
  * [ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut) - 生産性を最大化します. 生産性を倍増させる ChatGPT 快速指令,分野と機能の区分に従って,提示ワードを標識選択、キーワード検索と一鍵複製できます。
@@ -116,6 +135,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [squidgy-prompts](https://github.com/squidgyai/squidgy-prompts) - #gpt3/#chatgptと言語学習に興味のある方へ?私たちは,学習者がデッキを作成し,文を採掘し,文法を正しくし,単語ゲームをしたり,その他多くのことをするために,オープンソースのプロンプトをリリースしました.
  * [ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan) - チェットGPT DAN, Jailbreak 提示
  * [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - 研究作業のためのChatGPTの50の使用事例
+ * [FinGPT](https://github.com/ai4finance-foundation/fingpt) - オープンソースでオープンな金融! 革命!
 
 
 |Name|Language|License|GitHub Stars|
@@ -132,10 +152,12 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[ama_prompting](https://github.com/hazyresearch/ama_prompting)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/HazyResearch/ama_prompting?style=social)|
 |[LMOps](https://github.com/microsoft/lmops)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LMOps?style=social)|
 |[Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social)|
+|[langchain-and-elevenlabs-with-pdf-analysis](https://github.com/unicornlaunching/langchain-and-elevenlabs-with-pdf-analysis)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/unicornlaunching/langchain-and-elevenlabs-with-pdf-analysis?style=social)|
 |[promptr](https://github.com/ferrislucas/promptr)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ferrislucas/promptr?style=social)|
 |[chatgpt-clone](https://github.com/danny-avila/chatgpt-clone)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/danny-avila/chatgpt-clone?style=social)|
 |[ChatGPT-Prompt-Genius](https://github.com/benf2004/chatgpt-prompt-genius)|JavaScript|Other|![GitHub Repo stars](https://img.shields.io/github/stars/benf2004/ChatGPT-Prompt-Genius?style=social)|
 |[ChatGPT-Adventure](https://github.com/capnmidnight/chatgpt-adventure)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/capnmidnight/ChatGPT-Adventure?style=social)|
+|[chatgpt-text-to-midjourney-image](https://github.com/barretlee/chatgpt-text-to-midjourney-image)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/barretlee/chatgpt-text-to-midjourney-image?style=social)|
 |[Prompt-hunter](https://github.com/op7418/prompt-hunter)|JavaScript|GNU General Public License v2.0|![GitHub Repo stars](https://img.shields.io/github/stars/op7418/Prompt-hunter?style=social)|
 |[chatbox](https://github.com/bin-huang/chatbox)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)|
 |[ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social)|
@@ -157,6 +179,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[squidgy-prompts](https://github.com/squidgyai/squidgy-prompts)|-|Creative Commons Attribution Share Alike 4.0 International|![GitHub Repo stars](https://img.shields.io/github/stars/squidgyai/squidgy-prompts?style=social)|
 |[ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/0xk1h0/ChatGPT_DAN?style=social)|
 |[ResearchChatGPT](https://github.com/hollobit/researchchatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/ResearchChatGPT?style=social)|
+|[FinGPT](https://github.com/ai4finance-foundation/fingpt)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=social)|
 
 
 ## Chatbots
@@ -188,6 +211,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin) - これは,市場データとOpenAIのGPT-3.5言語モデルによって生成された予測モデルに基づいて,継続的に買い売り注文を出すKuCoinの取引スクリプトです.
  * [marvin](https://github.com/prefecthq/marvin) -  GPT搭載ボットとAI機能のためのバッテリー付きライブラリ
  * [baize](https://github.com/project-baize/baize) - 単一のGPUで何時間で ChatGPTを学習させてください
+ * [baize-chatbot](https://github.com/project-baize/baize-chatbot) - 単一のGPUで何時間で ChatGPTを学習させてください
  * [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all チャットボット ui
  * [ChatDoctor](https://github.com/kent0n-li/chatdoctor) - 医療特典チャット"チャットドクター"チャットGptも使ってモデルを訓練している様子 コードとデータセットの全て モデルの重量はオープンソース化する予定だ!
  * [chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection) - ヒトチャットGPT比較資料庫 (HC3),検出器,その他!
@@ -197,6 +221,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [reflexion-human-eval](https://github.com/noahshinn024/reflexion-human-eval) - 復習的にコードを精製し, 精度ボトルネックを 適切なコードゲンから テストのヒト精度に 変えています:
  * [gptchat-telegram](https://github.com/m1guelpf/gptchat-telegram) - ✨ gptchatのウェブサイトを毎回開くのを疲れてしまったので,私はテレグラムボットを作りました.もしもしもしもし,それをしたいなら,設定を非常に簡単にしてみました (たった1つのコマンドを実行するだけです!).レポを見てください.👇
  * [Twitter-Comment-Bot](https://github.com/sojinsamuel/twitter-comment-bot) - 特定のキーワードを含むツイートにコメントするボット.ボットはコメントを生成するためにOpenAI API,投稿するためにTwitter API を使用.各コメントの間には固定遅延で連続的に実行するように設計されています.
+ * [ChatGPT-CodeReview](https://github.com/anc95/chatgpt-codereview) -  ChatGPTで動いているコードレビューボット
  * [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - オープンソースの ChatGPT UI
  * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - 大型 PDF ドキュメントのための GPT4 & LangChain チャットボット
  * [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - 声付きのオープンソース ChatGPT アプリ
@@ -212,6 +237,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [speechgpt](https://github.com/hahahumble/speechgpt) - ウェブアプリケーションで,ChatGPTと会話できます.
  * [platform](https://github.com/cognosisai/platform) - パーツはパケットに分けられ,検査できる. Davinci-002は十分ではなかった... gpt-4が何をできるか見るべき時かもしれない.
  * [chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 文字の文字でサポートされている. @swyx は今日ハッカソンを開催している. これは,いくつかのプロジェクトのための出発点として役立つことを願っています!
+ * [friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - プログラム作業をA.I.にR&Rを委ねて実行します
  * [telegram-chatgpt-concierge-bot](https://github.com/rafalwilinski/telegram-chatgpt-concierge-bot) - TelegramやVoiceで OpenAIの ChatGPTとやり取りする
  * [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - 単一のコマンドで GPTChat Telegram ボットを起動します!
  * [gitgpt](https://github.com/hesse/gitgpt) - 言語のコマンドラインの git アシスタント
@@ -258,6 +284,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/krecicki/ChatGPT-Trading-Bot-for-KuCoin?style=social)|
 |[marvin](https://github.com/prefecthq/marvin)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)|
 |[baize](https://github.com/project-baize/baize)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/project-baize/baize?style=social)|
+|[baize-chatbot](https://github.com/project-baize/baize-chatbot)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/project-baize/baize-chatbot?style=social)|
 |[gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all-ui?style=social)|
 |[ChatDoctor](https://github.com/kent0n-li/chatdoctor)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor?style=social)|
 |[chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hello-SimpleAI/chatgpt-comparison-detection?style=social)|
@@ -267,6 +294,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[reflexion-human-eval](https://github.com/noahshinn024/reflexion-human-eval)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/noahshinn024/reflexion-human-eval?style=social)|
 |[gptchat-telegram](https://github.com/m1guelpf/gptchat-telegram)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/m1guelpf/gptchat-telegram?style=social)|
 |[Twitter-Comment-Bot](https://github.com/sojinsamuel/twitter-comment-bot)|JavaScript|Other|![GitHub Repo stars](https://img.shields.io/github/stars/sojinsamuel/Twitter-Comment-Bot?style=social)|
+|[ChatGPT-CodeReview](https://github.com/anc95/chatgpt-codereview)|JavaScript|ISC License|![GitHub Repo stars](https://img.shields.io/github/stars/anc95/ChatGPT-CodeReview?style=social)|
 |[chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social)|
 |[gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain?style=social)|
 |[chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cogentapps/chat-with-gpt?style=social)|
@@ -282,6 +310,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[speechgpt](https://github.com/hahahumble/speechgpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|
 |[platform](https://github.com/cognosisai/platform)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cognosisai/platform?style=social)|
 |[chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)|
+|[friday-gpt](https://github.com/hmmhmmhm/friday-gpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hmmhmmhm/friday-gpt?style=social)|
 |[telegram-chatgpt-concierge-bot](https://github.com/rafalwilinski/telegram-chatgpt-concierge-bot)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/RafalWilinski/telegram-chatgpt-concierge-bot?style=social)|
 |[chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/m1guelpf/chatgpt-telegram?style=social)|
 |[gitgpt](https://github.com/hesse/gitgpt)|Go|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hesse/gitgpt?style=social)|
@@ -436,6 +465,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [wanna](https://github.com/hirokidaichi/wanna) - 自然言語のシェルコマンドランチャー
  * [datasetGPT](https://github.com/radi-cho/datasetgpt) - 命令行インターフェースで,LLMでテキストと会話データセットを生成する.
  * [chatgpt-cli](https://github.com/j178/chatgpt-cli) - ファンフーボット
+ * [engshell](https://github.com/emcf/engshell) - LLM で動いている,あらゆるOSのための英語のシェル
  * [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - ChatGPTとBing AIのクライアント実装.Node.jsモジュール,REST APIサーバ,CLIアプリとして利用可能.
  * [chat-gpt-cli](https://github.com/jseguillon/chat-gpt-cli) - PhantomJS QUnit testrunnerは,結果をJUnit XML形式に輸出し,カバーをCobertura XML形式にJenkinsのようなCIツールで使用する.
  * [terminalGPT](https://github.com/jucasoliveira/terminalgpt) - 端末に chatGPT のような GPT をインストールします
@@ -451,6 +481,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - ChatGPT の周辺に React Native のラッピングを組み込み,アプリケーションにシームレスに統合します.認証,ストリーミング応答,会話の追跡を処理します.100%クライアント側:ロボット:
  * [GPT-Shell](https://github.com/firtoz/gpt-shell) - GPT-Shellは,OpenAIのChatGPTに似ている OpenAIベースのチャットボットである.また,Dalle2画像を作成することも可能である.
  * [autodoc](https://github.com/context-labs/autodoc) - LLM を使ってコードベースドキュメントを自動生成するための実験ツールキット
+ * [ai-shell](https://github.com/builderio/ai-shell) - 自然言語をシェルコマンドに変換する CLI
  * [doschgpt](https://github.com/yeokm1/doschgpt) - DOS用の ChatGPT クライアントで概念証明
  * [gptcommit](https://github.com/zurawiki/gptcommit) - GPT-3 でコミットメッセージを作成するための git prepare-commit-msg フック. 
  * [a](https://github.com/ddddddeon/a) - GPT3 からコードを生成する CLI ツール
@@ -493,6 +524,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[wanna](https://github.com/hirokidaichi/wanna)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hirokidaichi/wanna?style=social)|
 |[datasetGPT](https://github.com/radi-cho/datasetgpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/radi-cho/datasetGPT?style=social)|
 |[chatgpt-cli](https://github.com/j178/chatgpt-cli)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/j178/chatgpt-cli?style=social)|
+|[engshell](https://github.com/emcf/engshell)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/emcf/engshell?style=social)|
 |[node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/waylaidwanderer/node-chatgpt-api?style=social)|
 |[chat-gpt-cli](https://github.com/jseguillon/chat-gpt-cli)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/jseguillon/chat-gpt-cli?style=social)|
 |[terminalGPT](https://github.com/jucasoliveira/terminalgpt)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jucasoliveira/terminalGPT?style=social)|
@@ -508,6 +540,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rgommezz/react-native-chatgpt?style=social)|
 |[GPT-Shell](https://github.com/firtoz/gpt-shell)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/firtoz/GPT-Shell?style=social)|
 |[autodoc](https://github.com/context-labs/autodoc)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/context-labs/autodoc?style=social)|
+|[ai-shell](https://github.com/builderio/ai-shell)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/ai-shell?style=social)|
 |[doschgpt](https://github.com/yeokm1/doschgpt)|C++|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/yeokm1/doschgpt?style=social)|
 |[gptcommit](https://github.com/zurawiki/gptcommit)|Rust|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/zurawiki/gptcommit?style=social)|
 |[a](https://github.com/ddddddeon/a)|Rust|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ddddddeon/a?style=social)|
@@ -743,9 +776,11 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [point-alpaca](https://github.com/pointnetwork/point-alpaca) - 合成指示データセットで精調整しました. 驚くほど良いです: (覚えておいてください,以下の結果は最小の7bモデルからのみです. gpt-3は175bです)
  * [agentchain](https://github.com/jina-ai/agentchain) - 論理的思考のためのLLMを連結し,複雑なタスクを遂行するための複数の大きなモデルをオーケストラします
  * [llm-strategy](https://github.com/blackhc/llm-strategy) - 直接LLMにPythonを接続する - データクラスとインターフェース <-> LLM
+ * [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - llama.cpp の Python 結合
  * [alpaca-lora](https://github.com/tloen/alpaca-lora) - 消費者のハードウェアで LLaMA をインストークトチューンする
  * [ClassGPT](https://github.com/benthecoder/classgpt) - プレゼンスのスライドのためのChatGPT
  * [KoAlpaca](https://github.com/beomi/koalpaca) - コアルパカ:スタンフォードアルパカをベースにした韓国アルパカモデル (feat. LLAMA and Polyglot-ko)
+ * [novice-ChatGPT](https://github.com/aiplaybookin/novice-chatgpt) - ChatGPT API 使用 ラングチェイン,LlamaIndex,ガードレイル,AutoGPTなど
  * [langflow](https://github.com/logspace-ai/langflow) - ️ LangFlowは LangChain の UI で,実験やプロトタイプ 流れを簡単にできるように react-flow を使って設計されています.
  * [gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - gpt4all と llama の タイプスクリプト 結合
  * [langchainjs](https://github.com/hwchase17/langchainjs) - gpt-3.5-turboから始めて,簡単なチャットアプリを作ることをお勧めします. しかし,それ以上の機能はたくさんあります!
@@ -770,9 +805,11 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[point-alpaca](https://github.com/pointnetwork/point-alpaca)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/pointnetwork/point-alpaca?style=social)|
 |[agentchain](https://github.com/jina-ai/agentchain)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/agentchain?style=social)|
 |[llm-strategy](https://github.com/blackhc/llm-strategy)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/blackhc/llm-strategy?style=social)|
+|[llama-cpp-python](https://github.com/abetlen/llama-cpp-python)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social)|
 |[alpaca-lora](https://github.com/tloen/alpaca-lora)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social)|
 |[ClassGPT](https://github.com/benthecoder/classgpt)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/benthecoder/ClassGPT?style=social)|
 |[KoAlpaca](https://github.com/beomi/koalpaca)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Beomi/KoAlpaca?style=social)|
+|[novice-ChatGPT](https://github.com/aiplaybookin/novice-chatgpt)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/aiplaybookin/novice-ChatGPT?style=social)|
 |[langflow](https://github.com/logspace-ai/langflow)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)|
 |[gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all-ts?style=social)|
 |[langchainjs](https://github.com/hwchase17/langchainjs)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)|
@@ -821,6 +858,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [GPTReview](https://github.com/iejmac/gptreview) - 公開されたGPTモデルを入手して,PRのレビューをしてください.
  * [scrapeghost](https://github.com/jamesturk/scrapeghost) -  OpenAIのGPT APIを使用してウェブサイトをスクレイプするための実験ライブラリ.
  * [openai-cookbook](https://github.com/openai/openai-cookbook) - OpenAI API の使用例とガイド
+ * [disco-diffusion](https://github.com/alembics/disco-diffusion) - 開発されたaiモデルが現在比較有名です: #chatgpt、#midjourney、#stablediffusionchat 今日皆さんのために更新5個好用aiアルゴリズムモデル学習道1、神力中文aiアルゴリズム市場:、ディスコ-diffusion型:、百度文心 ernie-vilg:
  * [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - Mac用のチャットGPTはメニューバーに生息しています
  * [everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: ChatGPTのウェブアプリ (chat.openai.com) で,ハッドの下に何が起きているのか調べましょう.
  * [userscripts](https://github.com/adamlui/userscripts) -  MTurk,ChatGPT,その他のGreasemonkeyユーザースクリプト
@@ -834,6 +872,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - 優雅で強力で OpenAIとVercelで動いています
  * [ts-chatgpt](https://github.com/takagimeow/ts-chatgpt) - ChatGPT API を使ってタイプされた純粋な応答を受信するために作成されたライブラリです.
  * [openai-node](https://github.com/openai/openai-node) - OpenAI API の Node.js ライブラリ
+ * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search?og=v2) - 独自のカスタム ChatGPT スタイル ドック検索を構築するためのテンプレート Next.js,OpenAI,Supabase によって動力されています.
  * [gptagent.js](https://github.com/lgrammel/gptagent.js) - TS/JS で AI エージェントを構築する
  * [M5Unified_StackChan_ChatGPT](https://github.com/robo8080/m5unified_stackchan_chatgpt) - "ChatGPT API搭載のAIスタックチャン"です.
  * [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - OpenAIのWhisperモデルをC/C++でポートする
@@ -885,6 +924,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[GPTReview](https://github.com/iejmac/gptreview)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/iejMac/GPTReview?style=social)|
 |[scrapeghost](https://github.com/jamesturk/scrapeghost)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/jamesturk/scrapeghost?style=social)|
 |[openai-cookbook](https://github.com/openai/openai-cookbook)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)|
+|[disco-diffusion](https://github.com/alembics/disco-diffusion)|Jupyter Notebook|Other|![GitHub Repo stars](https://img.shields.io/github/stars/alembics/disco-diffusion?style=social)|
 |[chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/vincelwt/chatgpt-mac?style=social)|
 |[everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/terminalcommandnewsletter/everything-chatgpt?style=social)|
 |[userscripts](https://github.com/adamlui/userscripts)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/userscripts?style=social)|
@@ -898,6 +938,7 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ourongxing/chatgpt-vercel?style=social)|
 |[ts-chatgpt](https://github.com/takagimeow/ts-chatgpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/takagimeow/ts-chatgpt?style=social)|
 |[openai-node](https://github.com/openai/openai-node)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-node?style=social)|
+|[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search?og=v2)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|
 |[gptagent.js](https://github.com/lgrammel/gptagent.js)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/lgrammel/gptagent.js?style=social)|
 |[M5Unified_StackChan_ChatGPT](https://github.com/robo8080/m5unified_stackchan_chatgpt)|C++|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/robo8080/M5Unified_StackChan_ChatGPT?style=social)|
 |[whisper.cpp](https://github.com/ggerganov/whisper.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/whisper.cpp?style=social)|
@@ -982,8 +1023,11 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
  * [Auto-GPT](https://github.com/kanecohen/auto-gpt) - GPT-4を完全に自動化するための実験的なオープンソースの試みです
  * [Robo-GPT](https://github.com/rokstrnisa/robo-gpt) - GPT-4モデルを自動で実行する シンプルで拡張可能なプログラムです
  * [yolopandas](https://github.com/ccurme/yolopandas) - @marktenenholtz チャットGPTがあなたの代わりになった
+ * [gpt-4-search](https://github.com/andylokandy/gpt-4-search) - 200行コードでGoogle検索でコマンドラインGPT-4 REPL
  * [symbolicai](https://github.com/xpitfire/symbolicai) - 構成微分式プログラミングライブラリ
  * [DeepSpeed](https://github.com/microsoft/deepspeed) - DeepSpeedはディープラーニング最適化ライブラリで 分散型トレーニングと推論を 簡単で効率的で効果的にする
+ * [gptdeploy](https://github.com/jina-ai/gptdeploy) - 一つの線で すべてを創造する
+ * [micro-gpt](https://github.com/muellerberndt/micro-gpt) - 軽量な汎用的な自動エージェント
  * [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - ML/DLプロジェクト,ノートブック,ML/DLのチートコード,AI/AGIに関する有用な情報,ヒント付きのコードやスニペット/スクリプト/タスクを含む機械学習プロジェクト
  * [data-winners](https://github.com/frontanalyticsinc/data-winners) - ウェブサイト開発,分析,最適化のための無料のpythonとRスクリプトのコレクション. 話題の権威と意味的なコンテンツ最適化のための高度なリソースを含む.
  * [critique-apps](https://github.com/inspired-cognition/critique-apps) - デザインはインスピレーションの認知の批判を用いて作られています
@@ -1131,8 +1175,11 @@ _Updated on April 15, 2023_ (A total of 542 repositories listed.)
 |[Auto-GPT](https://github.com/kanecohen/auto-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/KaneCohen/Auto-GPT?style=social)|
 |[Robo-GPT](https://github.com/rokstrnisa/robo-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rokstrnisa/Robo-GPT?style=social)|
 |[yolopandas](https://github.com/ccurme/yolopandas)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ccurme/yolopandas?style=social)|
+|[gpt-4-search](https://github.com/andylokandy/gpt-4-search)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/andylokandy/gpt-4-search?style=social)|
 |[symbolicai](https://github.com/xpitfire/symbolicai)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/Xpitfire/symbolicai?style=social)|
 |[DeepSpeed](https://github.com/microsoft/deepspeed)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social)|
+|[gptdeploy](https://github.com/jina-ai/gptdeploy)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/gptdeploy?style=social)|
+|[micro-gpt](https://github.com/muellerberndt/micro-gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|
 |[Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness?style=social)|
 |[data-winners](https://github.com/frontanalyticsinc/data-winners)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/FrontAnalyticsInc/data-winners?style=social)|
 |[critique-apps](https://github.com/inspired-cognition/critique-apps)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/inspired-cognition/critique-apps?style=social)|
