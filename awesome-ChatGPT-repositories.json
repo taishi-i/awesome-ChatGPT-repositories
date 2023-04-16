@@ -2037,6 +2037,25 @@
                     "tui"
                 ]
             },
+            "https://github.com/reworkd/agentgpt": {
+                "repository_name": "AgentGPT",
+                "user_name": "reworkd",
+                "language": "TypeScript",
+                "license": "TypeScript",
+                "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+                "topics": [
+                    "agent",
+                    "agi",
+                    "autogpt",
+                    "baby-agi",
+                    "gpt",
+                    "langchain",
+                    "next",
+                    "openai",
+                    "t3",
+                    "t3-stack"
+                ]
+            },
             "https://github.com/aress31/burpgpt": {
                 "repository_name": "burpgpt",
                 "user_name": "aress31",
@@ -2060,24 +2079,13 @@
                     "webapp"
                 ]
             },
-            "https://github.com/reworkd/agentgpt": {
-                "repository_name": "AgentGPT",
-                "user_name": "reworkd",
-                "language": "TypeScript",
-                "license": "TypeScript",
-                "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
-                "topics": [
-                    "agent",
-                    "agi",
-                    "autogpt",
-                    "baby-agi",
-                    "gpt",
-                    "langchain",
-                    "next",
-                    "openai",
-                    "t3",
-                    "t3-stack"
-                ]
+            "https://github.com/langchain-ai/langchain-aiplugin": {
+                "repository_name": "langchain-aiplugin",
+                "user_name": "langchain-ai",
+                "language": "Python",
+                "license": "Python",
+                "description": "shoutout to @langchainai for their amazing work on the langchain aiplugin! i can't wait to test it out and see how it enhances my chatgpt experience. check out the repository here:  #langchains #chatgpt #aiplugins",
+                "topics": []
             },
             "https://github.com/transitive-bullshit/chatgpt-plugin-ts": {
                 "repository_name": "chatgpt-plugin-ts",
@@ -2092,14 +2100,6 @@
                     "openai"
                 ]
             },
-            "https://github.com/langchain-ai/langchain-aiplugin": {
-                "repository_name": "langchain-aiplugin",
-                "user_name": "langchain-ai",
-                "language": "Python",
-                "license": "Python",
-                "description": "⭐️langchains as a chatpgt plugin⭐️🫢chatgpt😮chatgpt with normal plugins🤯chatgpt with langchain pluginsreleasing `langchain-aiplugins`: a repository showing how to deploy langchains as an aiplugin, letting chatgpt call other chains and agents",
-                "topics": []
-            },
             "https://github.com/openai/plugins-quickstart": {
                 "repository_name": "plugins-quickstart",
                 "user_name": "openai",
@@ -2111,20 +2111,20 @@
                     "chatgpt-plugins"
                 ]
             },
-            "https://github.com/rgbkrk/dangermode": {
-                "repository_name": "dangermode",
-                "user_name": "rgbkrk",
-                "language": "Python",
-                "license": "Python",
-                "description": "Dangermode is a ChatGPT Plugin written with Python and FastAPI that allows ChatGPT to execute code snippets in an IPython session.",
-                "topics": []
-            },
             "https://github.com/builderio/gpt-assistant": {
                 "repository_name": "gpt-assistant",
                 "user_name": "BuilderIO",
                 "language": "TypeScript",
                 "license": "TypeScript",
                 "description": "An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks",
+                "topics": []
+            },
+            "https://github.com/rgbkrk/dangermode": {
+                "repository_name": "dangermode",
+                "user_name": "rgbkrk",
+                "language": "Python",
+                "license": "Python",
+                "description": "Dangermode is a ChatGPT Plugin written with Python and FastAPI that allows ChatGPT to execute code snippets in an IPython session.",
                 "topics": []
             }
         },
@@ -3058,6 +3058,14 @@
                     "knowledge-graph"
                 ]
             },
+            "https://github.com/theappletucker/backend-gpt": {
+                "repository_name": "backend-GPT",
+                "user_name": "TheAppleTucker",
+                "language": "JavaScript",
+                "license": "JavaScript",
+                "description": "6/ \"gpt is all you need for the backend\" : use an llm to help you write a backendwired: llm is the backendinspiring project from a recent scale hackathon. the llm backend takes state as json blob and modifies it based on... english description.",
+                "topics": []
+            },
             "https://github.com/tatsu-lab/stanford_alpaca": {
                 "repository_name": "stanford_alpaca",
                 "user_name": "tatsu-lab",
@@ -3241,6 +3249,14 @@
                 "language": "Python",
                 "license": "Python",
                 "description": "General-purpose Swich transformer based Japanese language model ",
+                "topics": []
+            },
+            "https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm": {
+                "repository_name": "GPT-4-LLM",
+                "user_name": "Instruction-Tuning-with-GPT-4",
+                "language": null,
+                "license": null,
+                "description": "instruction tuning with gpt-4uses gpt-4 to generate instructionfollowing data for llm finetuningrepo: : :",
                 "topics": []
             },
             "https://github.com/openai/gpt-2": {
@@ -3824,6 +3840,18 @@
                 "description": "#aiscllmworkshopa quick way to go from zero to dangerous (like, be able to confidently bullshit like chatgpt, but also quickly ramp up on how to go from idea to product with the latest &amp; greatest in llm, with 9 continuous hours of hour-long presentations!",
                 "topics": []
             },
+            "https://github.com/agiresearch/openagi": {
+                "repository_name": "OpenAGI",
+                "user_name": "agiresearch",
+                "language": "Jupyter Notebook",
+                "license": "Jupyter Notebook",
+                "description": "OpenAGI: When LLM Meets Domain Experts",
+                "topics": [
+                    "agi",
+                    "llm",
+                    "opensource"
+                ]
+            },
             "https://github.com/hxu296/nlp-resume-parser": {
                 "repository_name": "nlp-resume-parser",
                 "user_name": "hxu296",
@@ -3838,6 +3866,36 @@
                     "parser",
                     "resume",
                     "resume-parer"
+                ]
+            },
+            "https://github.com/lightaime/camel#data-hosted-on-hugging-face": {
+                "repository_name": "camel",
+                "user_name": "lightaime",
+                "language": "Python",
+                "license": "Python",
+                "description": "🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society",
+                "topics": [
+                    "ai-societies",
+                    "artificial-intelligence",
+                    "communicative-ai",
+                    "cooperative-ai",
+                    "deep-learning",
+                    "large-language-models",
+                    "multi-agent-systems",
+                    "natural-language-processing"
+                ]
+            },
+            "https://github.com/ohmplatform/freedomgpt": {
+                "repository_name": "FreedomGPT",
+                "user_name": "ohmplatform",
+                "language": "TypeScript",
+                "license": "TypeScript",
+                "description": "This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)",
+                "topics": [
+                    "electron",
+                    "gpt",
+                    "llm",
+                    "react"
                 ]
             },
             "https://github.com/srush/minichain": {
@@ -4954,6 +5012,19 @@
                     "openai",
                     "typescript"
                 ]
+            },
+            "https://github.com/significant-gravitas/auto-gpt": {
+                "repository_name": "Auto-GPT",
+                "user_name": "Significant-Gravitas",
+                "language": "Python",
+                "license": "Python",
+                "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+                "topics": [
+                    "ai",
+                    "gpt-4",
+                    "openai",
+                    "python"
+                ]
             }
         },
         "Others": {
@@ -5023,14 +5094,6 @@
                 "language": "Go",
                 "license": "Go",
                 "description": "#8 chatgpt for whatsapp and telegramadd chatgpt to your groupchats:• whatsappgpt: • telegramgpt:",
-                "topics": []
-            },
-            "https://github.com/theappletucker/backend-gpt": {
-                "repository_name": "backend-GPT",
-                "user_name": "TheAppleTucker",
-                "language": "JavaScript",
-                "license": "JavaScript",
-                "description": "인공지능gpt로 백엔드 코딩량을 최소화하고 프론트만으로 서비스를 만드는 사례가 나왔네요..! 안전한 요청 목록을 만들고 미리 확인된 요청만 받게하는 형태로 개발하면 보안도 괜찮을 것 같기도 하네요! (gql의 persisted queries 처럼)... 기술발전 속도가 엄청난듯!! 😲",
                 "topics": []
             },
             "https://github.com/tw93/pake": {
@@ -5438,7 +5501,7 @@
                 "user_name": "lxfater",
                 "language": "TypeScript",
                 "license": "TypeScript",
-                "description": "portal是一款免费工具，旨在将chatgpt的能力整合到用户的工作流程中。下载地址：，开发了两周了。",
+                "description": "我要用十二分的激情和赞叹来推荐portal。这是个干掉一切插件的chatgpt（gpt-4）辅助软件，它把整个操作系统当成自己的舞台，可以在任意软件上操作chatgpt，更惊喜的是，它可以用web端登录，意味着你只要有chatgpt …",
                 "topics": []
             },
             "https://github.com/yoheinakajima/babyagi": {
@@ -5463,14 +5526,6 @@
                 "language": "TypeScript",
                 "license": "TypeScript",
                 "description": "A (nearly) seamless integration of ChatGPT into Obsidian.",
-                "topics": []
-            },
-            "https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm": {
-                "repository_name": "GPT-4-LLM",
-                "user_name": "Instruction-Tuning-with-GPT-4",
-                "language": null,
-                "license": null,
-                "description": "instruction tuning with gpt-4abs:  project page:  github:",
                 "topics": []
             },
             "https://github.com/facebookresearch/metaseq": {
@@ -6348,7 +6403,7 @@
                 "user_name": "goldengrape",
                 "language": "Python",
                 "license": "Python",
-                "description": "@trancy_learn 加一个生词模式吧，gpt找到生词在句中的意思。我写了处理字幕的python，但不会写youtube插件。你们努力吧",
+                "description": "各位假门假事儿学英语的亲们，我又带学英语的工具来啦这次是只翻译字幕中的生词，自己选难度。本次 #抛砖 的重点是，通过gpt翻译出了单词在句中的含义。网页版：：",
                 "topics": []
             },
             "https://github.com/geezacoleman/gilgaidetection": {
@@ -6535,6 +6590,14 @@
                     "zero"
                 ]
             },
+            "https://github.com/santiagobasulto/ipython-gpt": {
+                "repository_name": "ipython-gpt",
+                "user_name": "santiagobasulto",
+                "language": "Jupyter Notebook",
+                "license": "Jupyter Notebook",
+                "description": "show hn: ipython-gpt, a jupyter&amp;#x2f;ipython interface to chat gpt:  comments:",
+                "topics": []
+            },
             "https://github.com/tech-podcasts/jinjinledao_qa_dataset": {
                 "repository_name": "JinJinLeDao_QA_Dataset",
                 "user_name": "tech-podcasts",
@@ -6551,6 +6614,22 @@
                 "description": "DoctorGPT brings GPT into production for error diagnosing!",
                 "topics": []
             },
+            "https://github.com/muellerberndt/micro-gpt": {
+                "repository_name": "micro-gpt",
+                "user_name": "muellerberndt",
+                "language": "Python",
+                "license": "Python",
+                "description": "A minimal generic autonomous agent.",
+                "topics": []
+            },
+            "https://github.com/eumemic/gpt-legion": {
+                "repository_name": "gpt-legion",
+                "user_name": "eumemic",
+                "language": null,
+                "license": null,
+                "description": "Radiant Blockchain Node (RXD) - SHA512/256 Proof-of-Work",
+                "topics": []
+            },
             "https://github.com/jina-ai/gptdeploy": {
                 "repository_name": "gptdeploy",
                 "user_name": "jina-ai",
@@ -6559,12 +6638,28 @@
                 "description": "One line to create them all",
                 "topics": []
             },
-            "https://github.com/muellerberndt/micro-gpt": {
-                "repository_name": "micro-gpt",
-                "user_name": "muellerberndt",
+            "https://github.com/showlab/image2paragraph": {
+                "repository_name": "Image2Paragraph",
+                "user_name": "showlab",
                 "language": "Python",
                 "license": "Python",
-                "description": "A minimal generic autonomous agent.",
+                "description": "Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.",
+                "topics": []
+            },
+            "https://github.com/microsoft/deepspeedexamples": {
+                "repository_name": "DeepSpeedExamples",
+                "user_name": "microsoft",
+                "language": "Python",
+                "license": "Python",
+                "description": "Example models using DeepSpeed",
+                "topics": []
+            },
+            "https://github.com/xpressai/xai-gpt-agent-toolkit": {
+                "repository_name": "xai-gpt-agent-toolkit",
+                "user_name": "XpressAI",
+                "language": "Python",
+                "license": "Python",
+                "description": "Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents",
                 "topics": []
             }
         }
