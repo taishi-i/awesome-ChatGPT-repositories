@@ -11,7 +11,7 @@ Please contribute to this repository following the instructions below.
 First, please check the [Table of contents](https://github.com/taishi-i/awesome-ChatGPT-repositories#table-of-contents) you want to add. If there is no matching content, please add it to [others](https://github.com/taishi-i/awesome-ChatGPT-repositories#Others).
 
 * Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
-    * [ ] Keep descriptions concise and **short**. You only need to add it to **README.md**. The maintainer will automatically apply it to each language.
+    * Keep descriptions concise and **short**. You only need to add it to **[README.md](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md)**. The maintainer will automatically apply it to each language.
 
 * Add project information and stats to the table: Add the following table content.
 
