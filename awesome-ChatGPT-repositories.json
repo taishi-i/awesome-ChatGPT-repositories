@@ -626,6 +626,14 @@
                     "midjourney",
                     "notion"
                 ]
+            },
+            "https://github.com/aishell-io/aish": {
+                "repository_name": "aish",
+                "user_name": "aishell-io",
+                "language": null,
+                "license": null,
+                "description": "A ChatGPT CLI with local storage for prompts and messages.",
+                "topics": []
             }
         },
         "Chatbots": {
@@ -1468,6 +1476,26 @@
                     "langchain",
                     "telegram-bot"
                 ]
+            },
+            "https://github.com/ssgorg/navi": {
+                "repository_name": "Navi",
+                "user_name": "SSGOrg",
+                "language": "Python",
+                "license": "Python",
+                "description": "A GPT based Cybersecurity AI",
+                "topics": [
+                    "ai",
+                    "automation",
+                    "chatbot",
+                    "chatbots",
+                    "gpt-3",
+                    "gpt-4",
+                    "hacktoberfest",
+                    "hacktoberfest2022",
+                    "machine-learning",
+                    "python",
+                    "python3"
+                ]
             }
         },
         "Browser-extensions": {
@@ -2035,6 +2063,37 @@
                     "rich",
                     "terminal",
                     "tui"
+                ]
+            },
+            "https://github.com/mlc-ai/web-stable-diffusion": {
+                "repository_name": "web-stable-diffusion",
+                "user_name": "mlc-ai",
+                "language": "Jupyter Notebook",
+                "license": "Jupyter Notebook",
+                "description": "Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support. ",
+                "topics": [
+                    "deep-learning",
+                    "stable-diffusion",
+                    "tvm",
+                    "web-assembly",
+                    "webgpu",
+                    "webml"
+                ]
+            },
+            "https://github.com/hisxo/reconaizer": {
+                "repository_name": "ReconAIzer",
+                "user_name": "hisxo",
+                "language": "Python",
+                "license": "Python",
+                "description": "A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!",
+                "topics": [
+                    "bugbounty",
+                    "burp-extensions",
+                    "burpsuite",
+                    "gpt-4",
+                    "openai",
+                    "openai-api",
+                    "openai-chatgpt"
                 ]
             },
             "https://github.com/reworkd/agentgpt": {
@@ -3410,14 +3469,6 @@
                 "description": "Accurate answers and instant citations for your documents.",
                 "topics": []
             },
-            "https://github.com/nikita600/welcomehouseenglishpatch": {
-                "repository_name": "WelcomeHouseEnglishPatch",
-                "user_name": "nikita600",
-                "language": "Assembly",
-                "license": "Assembly",
-                "description": "welcome house is an obscure japan exclusive adventure game for the sony playstation. it just got an english translation patch. it's an alpha version but should be fully translated.by nikita600 &amp; chatgpt:  #ps1 #psx #retrogaming",
-                "topics": []
-            },
             "https://github.com/lhao499/lqae": {
                 "repository_name": "lqae",
                 "user_name": "lhao499",
@@ -4190,6 +4241,29 @@
                 "license": "Python",
                 "description": "Python bindings for llama.cpp",
                 "topics": []
+            },
+            "https://github.com/hyperonym/basaran": {
+                "repository_name": "basaran",
+                "user_name": "hyperonym",
+                "language": "Python",
+                "license": "Python",
+                "description": "Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.",
+                "topics": [
+                    "alpaca",
+                    "chatgpt-api",
+                    "generative",
+                    "gpt",
+                    "huggingface",
+                    "language-model",
+                    "llama",
+                    "llm",
+                    "model",
+                    "natural-language-processing",
+                    "openai-api",
+                    "python",
+                    "text-generation",
+                    "transformers"
+                ]
             }
         },
         "Unity": {
@@ -6499,6 +6573,14 @@
                     "movies"
                 ]
             },
+            "https://github.com/vision-cair/chatcaptioner": {
+                "repository_name": "ChatCaptioner",
+                "user_name": "Vision-CAIR",
+                "language": "Jupyter Notebook",
+                "license": "Jupyter Notebook",
+                "description": "Official Repository of ChatCaptioner",
+                "topics": []
+            },
             "https://github.com/nolanoorg/cformers": {
                 "repository_name": "cformers",
                 "user_name": "NolanoOrg",
@@ -6660,6 +6742,14 @@
                 "language": "Python",
                 "license": "Python",
                 "description": "Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents",
+                "topics": []
+            },
+            "https://github.com/ustayready/cloudgpt": {
+                "repository_name": "cloudgpt",
+                "user_name": "ustayready",
+                "language": "Python",
+                "license": "Python",
+                "description": "Vulnerability scanner for AWS customer managed policies using ChatGPT",
                 "topics": []
             }
         }
