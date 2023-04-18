@@ -15,24 +15,16 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [aish](https://github.com/aishell-io/aish) - 提示やメッセージのローカルストレージを持つChatGPT CLI.
-
-**Chatbots**
- * [Navi](https://github.com/ssgorg/navi) - GPTベースのサイバーセキュリティ AI
-
 **Browser-extensions**
- * [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - ウェブブラウザに安定した拡散モデルを 持ち込みます サーバーのサポートなしで ブラウザ内で実行されます
- * [ReconAIzer](https://github.com/hisxo/reconaizer) - Burpに OpenAI (GPT) を追加し,エンドポイント,パラーム,URL,サブドメインなどを見つけるための Bug Bounty Recon をサポートする Burp Suite の拡張機能です!
+ * [web-llm](https://github.com/mlc-ai/web-llm) - ウェブブラウザに大きな言語モデルとチャットを導入します すべてはサーバーのサポートなしで ブラウザ内で実行されます
 
 **Langchain**
- * [basaran](https://github.com/hyperonym/basaran) - BasaranはOpenAIテキストコンプリメント APIのオープンソースの代替品です. ハグジングフェイストランスフォーマーベースのテキスト生成モデルのための互換性のあるストリーミング APIを提供します.
+ * [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - ChatGPT,GenerativeAI,LLM タイムライン
 
 **Others**
- * [ChatCaptioner](https://github.com/vision-cair/chatcaptioner) - ChatCaptioner の公式リポジトリ
- * [cloudgpt](https://github.com/ustayready/cloudgpt) - ChatGPT を使用した AWS 顧客管理ポリシーの脆弱性スキャン
+ * [chatwire](https://github.com/theokafadaris/chatwire) - Laravel を使った自主ホスト ChatGPT クローン
 
-_Updated on April 18, 2023_ (A total of 573 repositories listed.)
+_Updated on April 19, 2023_ (A total of 576 repositories listed.)
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)
@@ -333,6 +325,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
  * [langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin) - ラングチェインのアプリプラグインで素晴らしい仕事をした@langchainaiさんを 応援します! ラングチェインのアプリプラグインをテストして,私のチャットGPTP体験を 改善する方法を 見てみたいと思います.
  * [plugins-quickstart](https://github.com/openai/plugins-quickstart) - 5分以内に ChatGPTプラグインを起動させてください!
  * [dangermode](https://github.com/rgbkrk/dangermode) - Dangermodeは,PythonとFastAPIで書かれた ChatGPTプラグインで,IPythonセッションでコードスニペットを実行できるようにします.
+ * [web-llm](https://github.com/mlc-ai/web-llm) - ウェブブラウザに大きな言語モデルとチャットを導入します すべてはサーバーのサポートなしで ブラウザ内で実行されます
  * [examples](https://github.com/pinecone-io/examples) - もし,chatgptプラグインの開発方法に興味があるなら,このビデオを見てください,完全な紹介:1. 什么是chatgptプラグイン2. 如何に開発する 一つの長鎖文書查询のchatgptプラグイン3. 如何にインストールする 調查chatgptプラグインビデオ::
  * [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - ブラウザ拡張機能で,あらゆるJupyterノートブックからChatGPTでチャットできます.
  * [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - ウェブブラウザに安定した拡散モデルを導入します. すべてはサーバーのサポートなしでブラウザ内で実行されます. 
@@ -395,6 +388,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
 |[langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain-aiplugin?style=social)|
 |[plugins-quickstart](https://github.com/openai/plugins-quickstart)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/plugins-quickstart?style=social)|
 |[dangermode](https://github.com/rgbkrk/dangermode)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/rgbkrk/dangermode?style=social)|
+|[web-llm](https://github.com/mlc-ai/web-llm)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/web-llm?style=social)|
 |[examples](https://github.com/pinecone-io/examples)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/pinecone-io/examples?style=social)|
 |[chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jflam/chat-gpt-jupyter-extension?style=social)|
 |[web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/web-stable-diffusion?style=social)|
@@ -791,6 +785,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
  * [pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - llama.cpp + gpt4all の Python 結合を公式にサポートしている
  * [llama.cpp](https://github.com/ggerganov/llama.cpp) - FacebookのLLaMAモデルをC/C++で移植する
  * [dalai](https://github.com/cocktailpeanut/dalai) - LLaMA をローカルマシンで実行する最も簡単な方法
+ * [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - ChatGPT,GenerativeAI,LLM タイムライン
 
 
 |Name|Language|License|GitHub Stars|
@@ -821,6 +816,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
 |[pyllamacpp](https://github.com/nomic-ai/pyllamacpp)|C++|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/pyllamacpp?style=social)|
 |[llama.cpp](https://github.com/ggerganov/llama.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)|
 |[dalai](https://github.com/cocktailpeanut/dalai)|CSS|-|![GitHub Repo stars](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social)|
+|[GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/GenAI_LLM_timeline?style=social)|
 
 
 ## Unity
@@ -1117,6 +1113,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
  * [ChatGPT.el](https://github.com/joshcho/chatgpt.el) - Emacs で ChatGPT をインストールする
  * [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Flutter / Dart から ChatGPT を使用する
  * [chatchan-dist](https://github.com/easychen/chatchan-dist) - 独立部署版,ドッカー方案自带代理
+ * [chatwire](https://github.com/theokafadaris/chatwire) - Laravel を使った自主ホスト ChatGPT クローン
  * [vagas](https://github.com/backend-br/vagas) - Githubの問題を通じてバックエンド開発者のための空間の公開です
  * [GPTstudio](https://github.com/michelnivard/gptstudio) - 固定効果と適度効果が許容される遺伝子変異成分モデルを推定するために特別に書かれたRとFORTRANベースの最適化器です. 
  * [binary-dist](https://github.com/poslogithub/binary-dist) - 実行可能 バイナリー配布
@@ -1274,6 +1271,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
 |[ChatGPT.el](https://github.com/joshcho/chatgpt.el)|Emacs Lisp|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/joshcho/ChatGPT.el?style=social)|
 |[flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api)|Dart|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/coskuncay/flutter_chatgpt_api?style=social)|
 |[chatchan-dist](https://github.com/easychen/chatchan-dist)|PHP|-|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/chatchan-dist?style=social)|
+|[chatwire](https://github.com/theokafadaris/chatwire)|PHP|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/theokafadaris/chatwire?style=social)|
 |[vagas](https://github.com/backend-br/vagas)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/backend-br/vagas?style=social)|
 |[GPTstudio](https://github.com/michelnivard/gptstudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MichelNivard/GPTstudio?style=social)|
 |[binary-dist](https://github.com/poslogithub/binary-dist)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/poslogithub/binary-dist?style=social)|

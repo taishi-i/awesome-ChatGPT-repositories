@@ -16,24 +16,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [aish](https://github.com/aishell-io/aish) - A ChatGPT CLI with local storage for prompts and messages.
-
-**Chatbots**
- * [Navi](https://github.com/ssgorg/navi) - A GPT based Cybersecurity AI
-
 **Browser-extensions**
- * [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
- * [ReconAIzer](https://github.com/hisxo/reconaizer) - A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
+ * [web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 
 **Langchain**
- * [basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
+ * [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 
 **Others**
- * [ChatCaptioner](https://github.com/vision-cair/chatcaptioner) - Official Repository of ChatCaptioner
- * [cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
+ * [chatwire](https://github.com/theokafadaris/chatwire) - Self hosted ChatGPT clone using Laravel
 
-_Updated on April 18, 2023_ (A total of 573 repositories listed.)
+_Updated on April 19, 2023_ (A total of 576 repositories listed.)
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)
@@ -334,6 +326,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
  * [langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin) - shoutout to @langchainai for their amazing work on the langchain aiplugin! i can't wait to test it out and see how it enhances my chatgpt experience. check out the repository here:  #langchains #chatgpt #aiplugins
  * [plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
  * [dangermode](https://github.com/rgbkrk/dangermode) - Dangermode is a ChatGPT Plugin written with Python and FastAPI that allows ChatGPT to execute code snippets in an IPython session.
+ * [web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
  * [examples](https://github.com/pinecone-io/examples) - 如果你对如何开发chatgpt plugin感兴趣，推荐看一下这个视频，完整的介绍了：1. 什么是chatgpt plugin2. 如何开发一个langchain文档查询的chatgpt plugin3. 如何安装调试chatgpt plugin视频：：
  * [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - A browser extension that lets you chat with ChatGPT from any local Jupyter notebook.
  * [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support. 
@@ -396,6 +389,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
 |[langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain-aiplugin?style=social)|
 |[plugins-quickstart](https://github.com/openai/plugins-quickstart)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/plugins-quickstart?style=social)|
 |[dangermode](https://github.com/rgbkrk/dangermode)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/rgbkrk/dangermode?style=social)|
+|[web-llm](https://github.com/mlc-ai/web-llm)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/web-llm?style=social)|
 |[examples](https://github.com/pinecone-io/examples)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/pinecone-io/examples?style=social)|
 |[chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jflam/chat-gpt-jupyter-extension?style=social)|
 |[web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/web-stable-diffusion?style=social)|
@@ -792,6 +786,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
  * [pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - Official supported Python bindings for llama.cpp + gpt4all
  * [llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
  * [dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+ * [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
 
 
 |Name|Language|License|GitHub Stars|
@@ -822,6 +817,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
 |[pyllamacpp](https://github.com/nomic-ai/pyllamacpp)|C++|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/pyllamacpp?style=social)|
 |[llama.cpp](https://github.com/ggerganov/llama.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)|
 |[dalai](https://github.com/cocktailpeanut/dalai)|CSS|-|![GitHub Repo stars](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social)|
+|[GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/GenAI_LLM_timeline?style=social)|
 
 
 ## Unity
@@ -1118,6 +1114,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
  * [ChatGPT.el](https://github.com/joshcho/chatgpt.el) - ChatGPT in Emacs
  * [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Use ChatGPT from Flutter / Dart
  * [chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版，docker方案自带代理
+ * [chatwire](https://github.com/theokafadaris/chatwire) - Self hosted ChatGPT clone using Laravel
  * [vagas](https://github.com/backend-br/vagas) - Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.
  * [GPTstudio](https://github.com/michelnivard/gptstudio) - R and FORTRAN based optimizer specifically written to estimate genetic variance component models, in which fixed effects and moderation effects are allowed. 
  * [binary-dist](https://github.com/poslogithub/binary-dist) - 実行可能バイナリ配布用
@@ -1275,6 +1272,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
 |[ChatGPT.el](https://github.com/joshcho/chatgpt.el)|Emacs Lisp|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/joshcho/ChatGPT.el?style=social)|
 |[flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api)|Dart|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/coskuncay/flutter_chatgpt_api?style=social)|
 |[chatchan-dist](https://github.com/easychen/chatchan-dist)|PHP|-|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/chatchan-dist?style=social)|
+|[chatwire](https://github.com/theokafadaris/chatwire)|PHP|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/theokafadaris/chatwire?style=social)|
 |[vagas](https://github.com/backend-br/vagas)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/backend-br/vagas?style=social)|
 |[GPTstudio](https://github.com/michelnivard/gptstudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MichelNivard/GPTstudio?style=social)|
 |[binary-dist](https://github.com/poslogithub/binary-dist)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/poslogithub/binary-dist?style=social)|

@@ -13,24 +13,16 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [aish](https://github.com/aishell-io/aish) - 提供訊息及訊息的本地存儲.
-
-**Chatbots**
- * [Navi](https://github.com/ssgorg/navi) - 基于GPT的網路安全人工智能
-
 **Browser-extensions**
- * [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - 提供穩定的傳播模式,
- * [ReconAIzer](https://github.com/hisxo/reconaizer) - 幫助您在 Bug Bounty 偵測中發現終點,參數, URL,子域等!
+ * [web-llm](https://github.com/mlc-ai/web-llm) - 提供大型語言模型和聊天到網頁覽器.
 
 **Langchain**
- * [basaran](https://github.com/hyperonym/basaran) - Basaran是OpenAI文本完成API的開放源代碼. 它提供適合您基于擁抱臉變形器的文本生成模型的流動API.
+ * [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - 網路使用者應使用這些工具,
 
 **Others**
- * [ChatCaptioner](https://github.com/vision-cair/chatcaptioner) - 聊天字幕的官方資料庫
- * [cloudgpt](https://github.com/ustayready/cloudgpt) - 使用ChatGPT管理AWS客戶策略的漏洞掃描器
+ * [chatwire](https://github.com/theokafadaris/chatwire) - 使用Laravel的自主托管ChatGPT克隆
 
-_Updated on April 18, 2023_ (A total of 573 repositories listed.)
+_Updated on April 19, 2023_ (A total of 576 repositories listed.)
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)
@@ -331,6 +323,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
  * [langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin) - 歡迎 @langchainai 來支持他們在 langchain aiplugin 上的精彩工作!
  * [plugins-quickstart](https://github.com/openai/plugins-quickstart) - 請在5分鐘內啟動一個ChatGPT插件!
  * [dangermode](https://github.com/rgbkrk/dangermode) - 這項功能可在IPython會議中執行代碼片段.
+ * [web-llm](https://github.com/mlc-ai/web-llm) - 提供大型語言模型和聊天到網頁覽器.
  * [examples](https://github.com/pinecone-io/examples) - 如果你對如何開發chatgpt插件感興趣, 推看看這段影片,完整介紹:1. 什麼是chatgpt插件2. 如何開發一個長鎖文檔查詢的chatgpt插件3. 如何安裝調查chatgpt插件影片::
  * [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - 提供您使用任何本地Jupyter筆記本與ChatGPT進行聊天的覽器擴展.
  * [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - 提供穩定的傳播模式, 提供網路覽器,
@@ -393,6 +386,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
 |[langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain-aiplugin?style=social)|
 |[plugins-quickstart](https://github.com/openai/plugins-quickstart)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/plugins-quickstart?style=social)|
 |[dangermode](https://github.com/rgbkrk/dangermode)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/rgbkrk/dangermode?style=social)|
+|[web-llm](https://github.com/mlc-ai/web-llm)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/web-llm?style=social)|
 |[examples](https://github.com/pinecone-io/examples)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/pinecone-io/examples?style=social)|
 |[chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jflam/chat-gpt-jupyter-extension?style=social)|
 |[web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/web-stable-diffusion?style=social)|
@@ -789,6 +783,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
  * [pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - 官方支持Python連結來進行 llama.cpp + gpt4all
  * [llama.cpp](https://github.com/ggerganov/llama.cpp) - 透過C/C++移植Facebook的LLaMA模型
  * [dalai](https://github.com/cocktailpeanut/dalai) - 在本地機上執行LLaMA的最簡單方式
+ * [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - 網路使用者應使用這些工具,
 
 
 |Name|Language|License|GitHub Stars|
@@ -819,6 +814,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
 |[pyllamacpp](https://github.com/nomic-ai/pyllamacpp)|C++|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/pyllamacpp?style=social)|
 |[llama.cpp](https://github.com/ggerganov/llama.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)|
 |[dalai](https://github.com/cocktailpeanut/dalai)|CSS|-|![GitHub Repo stars](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social)|
+|[GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/GenAI_LLM_timeline?style=social)|
 
 
 ## Unity
@@ -1115,6 +1111,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
  * [ChatGPT.el](https://github.com/joshcho/chatgpt.el) - 在Emacs中使用ChatGPT
  * [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - 使用Flutter / Dart中的ChatGPT
  * [chatchan-dist](https://github.com/easychen/chatchan-dist) - 聊天獨立部署版,
+ * [chatwire](https://github.com/theokafadaris/chatwire) - 使用Laravel的自主托管ChatGPT克隆
  * [vagas](https://github.com/backend-br/vagas) - 提供開發者使用Github的後端空間.
  * [GPTstudio](https://github.com/michelnivard/gptstudio) - 基於R和FORTRAN的優化器, 特別寫成估算基因變異成分模型,
  * [binary-dist](https://github.com/poslogithub/binary-dist) - 執行可能的二次分配.
@@ -1272,6 +1269,7 @@ _Updated on April 18, 2023_ (A total of 573 repositories listed.)
 |[ChatGPT.el](https://github.com/joshcho/chatgpt.el)|Emacs Lisp|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/joshcho/ChatGPT.el?style=social)|
 |[flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api)|Dart|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/coskuncay/flutter_chatgpt_api?style=social)|
 |[chatchan-dist](https://github.com/easychen/chatchan-dist)|PHP|-|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/chatchan-dist?style=social)|
+|[chatwire](https://github.com/theokafadaris/chatwire)|PHP|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/theokafadaris/chatwire?style=social)|
 |[vagas](https://github.com/backend-br/vagas)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/backend-br/vagas?style=social)|
 |[GPTstudio](https://github.com/michelnivard/gptstudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MichelNivard/GPTstudio?style=social)|
 |[binary-dist](https://github.com/poslogithub/binary-dist)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/poslogithub/binary-dist?style=social)|
