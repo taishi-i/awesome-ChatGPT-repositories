@@ -2185,6 +2185,22 @@
                 "license": "Python",
                 "description": "Dangermode is a ChatGPT Plugin written with Python and FastAPI that allows ChatGPT to execute code snippets in an IPython session.",
                 "topics": []
+            },
+            "https://github.com/mlc-ai/web-llm": {
+                "repository_name": "web-llm",
+                "user_name": "mlc-ai",
+                "language": "Python",
+                "license": "Python",
+                "description": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
+                "topics": [
+                    "chatgpt",
+                    "deep-learning",
+                    "language-model",
+                    "llm",
+                    "tvm",
+                    "webgpu",
+                    "webml"
+                ]
             }
         },
         "CLIs": {
@@ -4263,6 +4279,34 @@
                     "python",
                     "text-generation",
                     "transformers"
+                ]
+            },
+            "https://github.com/hollobit/genai_llm_timeline": {
+                "repository_name": "GenAI_LLM_timeline",
+                "user_name": "hollobit",
+                "language": null,
+                "license": null,
+                "description": "ChatGPT, GenerativeAI and LLMs Timeline",
+                "topics": [
+                    "agi",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "claude",
+                    "copilot",
+                    "generative-ai",
+                    "generative-models",
+                    "gpt",
+                    "langchain",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "midjourney",
+                    "openai",
+                    "palm-e",
+                    "stable-diffusion",
+                    "timeline",
+                    "transformer",
+                    "vall-e"
                 ]
             }
         },
@@ -6588,6 +6632,19 @@
                 "license": "C",
                 "description": "SoTA Transformers with C-backend for fast inference on your CPU.",
                 "topics": []
+            },
+            "https://github.com/theokafadaris/chatwire": {
+                "repository_name": "chatwire",
+                "user_name": "theokafadaris",
+                "language": "PHP",
+                "license": "PHP",
+                "description": "Self hosted ChatGPT clone using Laravel",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "laravel",
+                    "php"
+                ]
             },
             "https://github.com/kanecohen/auto-gpt": {
                 "repository_name": "Auto-GPT",
