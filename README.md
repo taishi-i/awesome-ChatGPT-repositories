@@ -1023,6 +1023,7 @@ _Updated on April 20, 2023_ (A total of 590 repositories listed.)
 
 ## Others
 
+ * [GenAI_LLM_timeline](https://github.com/hollobit/GenAI_LLM_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
