@@ -16,41 +16,31 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+
 **Chatbots**
- * [codemancer](https://github.com/0xmmo/codemancer) - AI coding assistant in your command line.
- * [glowby](https://github.com/glowbom/glowby) - Glowby Basic helps you create your own voice-based AI assistants.
- * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt) - 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.
+ * [gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
+ * [voice-generator-webui](https://github.com/log1stics/voice-generator-webui) - A multi-speaker, multilingual speech generation tool
+ * [Auto-GPT-ZH](https://github.com/kaqijiang/auto-gpt-zh) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
+
+**Browser-extensions**
+ * [WebGPT](https://github.com/0hq/webgpt) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
+ * [chrome_extension_slicer](https://github.com/centminmod/chrome_extension_slicer) - Chrome extension to load AI prompt text slicer tool at
 
 **NLP**
- * [document.ai](https://github.com/ganymedenil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
- * [flux](https://github.com/transmissions11/flux) - LLM Power Tool
- * [LSL-snippets](https://github.com/panterapolnocy/lsl-snippets) - Small scripts written (or modified) by me, in Linden Scripting Language (LSL), for Second Life.
- * [gpt-jargon](https://github.com/jbrukh/gpt-jargon) - Jargon is a natural language programming language specified and executed by LLMs like GPT-4.
- * [h2ogpt](https://github.com/h2oai/h2ogpt) - Come join the movement to make the world's best open source GPT led by H2O.ai
- * [StableLM](https://github.com/stability-ai/stablelm) - StableLM: Stability AI Language Models
- * [vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
-
-**Langchain**
- * [ai-playground](https://github.com/mklarqvist/ai-playground) - i was playing around with perplexityai and wanted to figure out how it worked. so i wrote a simple open-source clone with @openai gpt-3.5turbo, @langchainai, @trychroma and with documentation.  check it out.
+ * [LLMZoo](https://github.com/freedomintelligence/llmzoo) - ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
+ * [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
 
 **Openai**
- * [subvert](https://github.com/aschmelyun/subvert) - Generate subtitles, summaries, and chapters from videos in seconds
+ * [openai_tools](https://github.com/alleninstitute/openai_tools) - Growing set of scripts to explore pdf publication using ChatGPT API
 
 **Others**
- * [EOSIO-Vulnerability-Scanner](https://github.com/sentnl/eosio-vulnerability-scanner) - Bug Bounty for P0 Network security issue on a layer 1 blockchain protocol
- * [blindvisaidgpt](https://github.com/justanotherlad/blindvisaidgpt) - An interactive aid for blind people using microsoft/visual-chatgpt
- * [lorem-chatum-for-indesign](https://github.com/twardoch/lorem-chatum-for-indesign) - Lorem Chatum script for Adobe InDesign that uses ChatGPT to produce better lorem ipsum
- * [WavCaps](https://github.com/xinhaomei/wavcaps) - This reporsitory contains metadata of WavCaps dataset and codes for downstream tasks.
- * [chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode) - Your best AI pair programmer in VS Code
- * [MaterialGPT](https://github.com/dylanakp/materialgpt) - MaterialGPT is a clone of ChatGPT using API
- * [monocle-rizz](https://github.com/acui51/monocle-rizz) - rizzGPT
- * [PolyglotSiri-Apple-Shortcut](https://github.com/munntein/polyglotsiri-apple-shortcut) - PolyglotSiri is based on [ChatGPT-Siri]( and enhances its multilingual and speech capabilities.
- * [Auto-GPT.git](https://github.com/torantulino/auto-gpt.git) - Advanced Games Engineering Project - Cubic Voxel Game Maker
- * [magic-happens](https://github.com/empath-nirvana/magic-happens) - A kubernetes operator you should never run under any circumstances
- * [LlamaAcademy](https://github.com/danielgross/llamaacademy) - A school for camelids
- * [AutoGPT-FR](https://github.com/mikiane/autogpt-fr) - Version française d'Auto GPT
+ * [gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
+ * [Multi-GPT](https://github.com/rumpfmax/multi-gpt) - An experimental open-source attempt to make GPT-4 fully autonomous.
+ * [celltypewriter](https://github.com/ntranoslab/celltypewriter) - new version for those who don't have access to #gpt4. just leave the api-key field blank in settings and try it out. we'll try to keep this going for a few days.
 
-_Updated on April 21, 2023_ (A total of 613 repositories listed.)
+_Updated on April 24, 2023_ (A total of 625 repositories listed.)
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)
@@ -114,6 +104,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [gpt3-interview-bot](https://github.com/promptable/gpt3-interview-bot) - GPT3 Interview Chatbot
  * [ama_prompting](https://github.com/hazyresearch/ama_prompting) - Ask Me Anything language model prompting
  * [LMOps](https://github.com/microsoft/lmops) - General technology for enabling AI capabilities w/ LLMs and MLLMs
+ * [bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
  * [Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
  * [langchain-and-elevenlabs-with-pdf-analysis](https://github.com/unicornlaunching/langchain-and-elevenlabs-with-pdf-analysis) - How might we mix OpenAI and Langchain and ElevenLabs to speak out responses to prompts using a body of knowledge encapsulated in PDFs?
  * [promptr](https://github.com/ferrislucas/promptr) - Promptr is a CLI tool for operating on your codebase using GPT. Promptr dynamically includes one or more files into your GPT prompts, and it can optionally parse and apply the changes that GPT suggests to your codebase. Several prompt templates are included for various purposes, and users can create their own templates.
@@ -159,6 +150,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[gpt3-interview-bot](https://github.com/promptable/gpt3-interview-bot)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/promptable/gpt3-interview-bot?style=social)|
 |[ama_prompting](https://github.com/hazyresearch/ama_prompting)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/HazyResearch/ama_prompting?style=social)|
 |[LMOps](https://github.com/microsoft/lmops)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LMOps?style=social)|
+|[bark](https://github.com/suno-ai/bark)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark?style=social)|
 |[Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social)|
 |[langchain-and-elevenlabs-with-pdf-analysis](https://github.com/unicornlaunching/langchain-and-elevenlabs-with-pdf-analysis)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/unicornlaunching/langchain-and-elevenlabs-with-pdf-analysis?style=social)|
 |[promptr](https://github.com/ferrislucas/promptr)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ferrislucas/promptr?style=social)|
@@ -222,7 +214,12 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [baize](https://github.com/project-baize/baize) - Let ChatGPT teach your own chatbot in hours with a single GPU!
  * [baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
  * [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - gpt4all chatbot ui
+ * [yolopandas](https://github.com/ccurme/yolopandas) - チャットでpandas操作これ便利。"fy23 q2のどこどこ会社の何何製品に関する売り上げデータをグラフ化してね。"ってセールスオペレーションチームにお願いしているので、これ使って簡単にchatgptにデータ取得お願いできるようにしよう。
  * [ChatDoctor](https://github.com/kent0n-li/chatdoctor) - 医療特化aiチャット「chatdoctor」chatgptも使ってモデルをトレーニングしてる様子全コードとデータセット、モデルの重みがオープンソース化する予定らしい..！
+ * [MiniGPT-4](https://github.com/vision-cair/minigpt-4) - 📛 minigpt-4🧠 minigpt-4 is a language model that uses a visual encoder and a frozen llm, vicuna, for generating high-quality image-text pairs and improves usability through conversation templates.💻 python⭐ 13203🍴 1337🔗
+ * [gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
+ * [voice-generator-webui](https://github.com/log1stics/voice-generator-webui) - A multi-speaker, multilingual speech generation tool
+ * [Auto-GPT-ZH](https://github.com/kaqijiang/auto-gpt-zh) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
  * [Navi](https://github.com/ssgorg/navi) - A GPT based Cybersecurity AI
  * [chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
  * [hackGPT](https://github.com/nodatafound/hackgpt) - I leverage OpenAI and ChatGPT to do hackerish things
@@ -300,7 +297,12 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[baize](https://github.com/project-baize/baize)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/project-baize/baize?style=social)|
 |[baize-chatbot](https://github.com/project-baize/baize-chatbot)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/project-baize/baize-chatbot?style=social)|
 |[gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all-ui?style=social)|
+|[yolopandas](https://github.com/ccurme/yolopandas)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ccurme/yolopandas?style=social)|
 |[ChatDoctor](https://github.com/kent0n-li/chatdoctor)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor?style=social)|
+|[MiniGPT-4](https://github.com/vision-cair/minigpt-4)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social)|
+|[gpt4free](https://github.com/xtekky/gpt4free)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/xtekky/gpt4free?style=social)|
+|[voice-generator-webui](https://github.com/log1stics/voice-generator-webui)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/log1stics/voice-generator-webui?style=social)|
+|[Auto-GPT-ZH](https://github.com/kaqijiang/auto-gpt-zh)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kaqijiang/Auto-GPT-ZH?style=social)|
 |[Navi](https://github.com/ssgorg/navi)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/SSGOrg/Navi?style=social)|
 |[chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hello-SimpleAI/chatgpt-comparison-detection?style=social)|
 |[hackGPT](https://github.com/nodatafound/hackgpt)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/NoDataFound/hackGPT?style=social)|
@@ -379,6 +381,8 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
  * [simpread](https://github.com/kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
  * [chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page) - 一个 Chrome 浏览器插件，通过 ChatGPT 来自动响应微信私信或群聊中 @你 的消息的智能聊天机器人
+ * [WebGPT](https://github.com/0hq/webgpt) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript. 
+ * [chrome_extension_slicer](https://github.com/centminmod/chrome_extension_slicer) - Chrome extension to load AI prompt text slicer tool at https://slicer.centminmod.com
  * [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
  * [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
  * [openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
@@ -442,6 +446,8 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kazuki-sf/YouTube_Summary_with_ChatGPT?style=social)|
 |[simpread](https://github.com/kenshin/simpread)|JavaScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Kenshin/simpread?style=social)|
 |[chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/1cloudy/chatgpt-wechat-landing-page?style=social)|
+|[WebGPT](https://github.com/0hq/webgpt)|JavaScript|Other|![GitHub Repo stars](https://img.shields.io/github/stars/0hq/WebGPT?style=social)|
+|[chrome_extension_slicer](https://github.com/centminmod/chrome_extension_slicer)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/centminmod/chrome_extension_slicer?style=social)|
 |[chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced?style=social)|
 |[chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/mpociot/chatgpt-vscode?style=social)|
 |[openai-translator](https://github.com/yetone/openai-translator)|TypeScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)|
@@ -688,9 +694,10 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
  * [guardrails](https://github.com/shreyar/guardrails) - Adding guardrails to large language models.
  * [chatgpt-document-extraction](https://github.com/brandonrobertz/chatgpt-document-extraction) - A proof of concept tool for using ChatGPT to transform messy text documents into structured JSON
- * [MiniGPT-4](https://github.com/vision-cair/minigpt-4) - top 10 trending repos 🔥 on #github 1. minigpt-4  minigpt-4: enhancing vision-language understanding with advanced large language models  #python
  * [h2ogpt](https://github.com/h2oai/h2ogpt) - Come join the movement to make the world's best open source GPT led by H2O.ai
+ * [LLMZoo](https://github.com/freedomintelligence/llmzoo) - ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
  * [nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser) - NLP-powered, GPT-3 enabled Resume Parser from PDF to JSON. 
+ * [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
  * [camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
  * [auto-redteam](https://github.com/traghav/auto-redteam) - Redteaming LLMs using other LLMs
  * [self-ask](https://github.com/ofirpress/self-ask) - Code and data for "Measuring and Narrowing the Compositionality Gap in Language Models"
@@ -725,7 +732,6 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [gpt-3](https://github.com/openai/gpt-3) - GPT-3: Language Models are Few-Shot Learners
  * [GPT-4-LLM](https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm) - nice summary of our "instruction tuning with gpt-4!" @omarsar0  generated instruction-following &amp; feedback data is released, leading to superior self-instruct llms. stay tuned while we are pushing more into the github repo.
  * [siri-chatgpt](https://github.com/liujch1998/siri-chatgpt) - now you can transform siri into the real #chatgpt! simply download this shortcut (link in repo ⬇️) to your iphone, edit its script in the shortcuts app (i.e. paste your api key into the text box), and say, "hey siri, chatgpt". ask your favorite question!
- * [gptcache](https://github.com/zilliztech/gptcache) - gptcache is a library for creating semantic cache to store responses from llm queries.
  * [gpt-jargon](https://github.com/jbrukh/gpt-jargon) - Jargon is a natural language programming language specified and executed by LLMs like GPT-4.
  * [practical-llms](https://github.com/aggregate-intellect/practical-llms) - #aiscllmworkshopa quick way to go from zero to dangerous (like, be able to confidently bullshit like chatgpt, but also quickly ramp up on how to go from idea to product with the latest &amp; greatest in llm, with 9 continuous hours of hour-long presentations!
 
@@ -777,9 +783,10 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[paper-qa](https://github.com/whitead/paper-qa)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)|
 |[guardrails](https://github.com/shreyar/guardrails)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/shreyar/guardrails?style=social)|
 |[chatgpt-document-extraction](https://github.com/brandonrobertz/chatgpt-document-extraction)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/brandonrobertz/chatgpt-document-extraction?style=social)|
-|[MiniGPT-4](https://github.com/vision-cair/minigpt-4)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social)|
 |[h2ogpt](https://github.com/h2oai/h2ogpt)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social)|
+|[LLMZoo](https://github.com/freedomintelligence/llmzoo)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/FreedomIntelligence/LLMZoo?style=social)|
 |[nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/hxu296/nlp-resume-parser?style=social)|
+|[h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social)|
 |[camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lightaime/camel?style=social)|
 |[auto-redteam](https://github.com/traghav/auto-redteam)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/traghav/auto-redteam?style=social)|
 |[self-ask](https://github.com/ofirpress/self-ask)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/ofirpress/self-ask?style=social)|
@@ -814,7 +821,6 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[gpt-3](https://github.com/openai/gpt-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/openai/gpt-3?style=social)|
 |[GPT-4-LLM](https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm)|-|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Instruction-Tuning-with-GPT-4/GPT-4-LLM?style=social)|
 |[siri-chatgpt](https://github.com/liujch1998/siri-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liujch1998/siri-chatgpt?style=social)|
-|[gptcache](https://github.com/zilliztech/gptcache)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/gptcache?style=social)|
 |[gpt-jargon](https://github.com/jbrukh/gpt-jargon)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jbrukh/gpt-jargon?style=social)|
 |[practical-llms](https://github.com/aggregate-intellect/practical-llms)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/Aggregate-Intellect/practical-llms?style=social)|
 
@@ -837,7 +843,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [llm-strategy](https://github.com/blackhc/llm-strategy) - Directly Connecting Python to LLMs - Dataclasses & Interfaces <-> LLMs
  * [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
  * [basaran](https://github.com/hyperonym/basaran) - Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
- * [llama-lab](https://github.com/run-llama/llama-lab) - introducing llama lab 🦙🧪a repo dedicated to building cutting-edge agi projects with @gpt_index:🤖 llama_agi (inspired by babyagi)⚙️ auto_llama (inspired by autogpt)create/plan/execute tasks automatically!play around with it here 👉
+ * [llama-lab](https://github.com/run-llama/llama-lab) - super excited to feature two exciting agi projects using @gpt_index 🔥⚡️🤖 llama_agi: automatically execute tasks towards a goal!⚙️ auto_llama: an internet agent to fulfill tasks.link:  makes agi projects straightforward to build. 🧵
  * [examples](https://github.com/pinecone-io/examples) - time to get started. begin adding the @langchainai docs to your new @openai chatgpt retrieval api:
  * [alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
  * [ClassGPT](https://github.com/benthecoder/classgpt) - ChatGPT for lecture slides
@@ -898,6 +904,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [ChatGPT-API-unity](https://github.com/mochi-neko/chatgpt-api-unity) - Binds ChatGPT chat completion API to pure C# on Unity.
  * [OpenAI-Unity](https://github.com/srcnalt/openai-unity) - An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine.
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - Few examples with Chat GPT In Unity
+ * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio we'd love to get a ferretdb backend for gptcache. we'll add it to the todo list.and on behalf of milvus developers and the broader community, thanks for the shout-out!
 
 
 |Name|Language|License|GitHub Stars|
@@ -909,6 +916,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[ChatGPT-API-unity](https://github.com/mochi-neko/chatgpt-api-unity)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mochi-neko/ChatGPT-API-unity?style=social)|
 |[OpenAI-Unity](https://github.com/srcnalt/openai-unity)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/srcnalt/OpenAI-Unity?style=social)|
 |[UnityChatGPT](https://github.com/dilmerv/unitychatgpt)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/dilmerv/UnityChatGPT?style=social)|
+|[gptcache](https://github.com/zilliztech/gptcache)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/gptcache?style=social)|
 
 
 ## Openai
@@ -929,6 +937,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [GPTReview](https://github.com/iejmac/gptreview) - Get OpenAI GPT models to review your PR's
  * [scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
  * [Auto-GPT](https://github.com/significant-gravitas/auto-gpt) - An experimental open-source attempt to make GPT-4 fully autonomous.
+ * [openai_tools](https://github.com/alleninstitute/openai_tools) - Growing set of scripts to explore pdf publication using ChatGPT API
  * [openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
  * [disco-diffusion](https://github.com/alembics/disco-diffusion) - openai开发的ai模型目前比较知名的有： #chatgpt、#midjourney、#stablediffusionchat 今天为大家更新5个好用的ai算法模型学习渠道1、神力中文ai算法市场:、disco-diffusion型:、百度文心 ernie-vilg:
  * [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -998,6 +1007,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[GPTReview](https://github.com/iejmac/gptreview)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/iejMac/GPTReview?style=social)|
 |[scrapeghost](https://github.com/jamesturk/scrapeghost)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/jamesturk/scrapeghost?style=social)|
 |[Auto-GPT](https://github.com/significant-gravitas/auto-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social)|
+|[openai_tools](https://github.com/alleninstitute/openai_tools)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/AllenInstitute/openai_tools?style=social)|
 |[openai-cookbook](https://github.com/openai/openai-cookbook)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)|
 |[disco-diffusion](https://github.com/alembics/disco-diffusion)|Jupyter Notebook|Other|![GitHub Repo stars](https://img.shields.io/github/stars/alembics/disco-diffusion?style=social)|
 |[chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/vincelwt/chatgpt-mac?style=social)|
@@ -1067,7 +1077,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [OpenChatKit](https://github.com/togethercomputer/openchatkit) - @neurosp1ke @wightmanr @stabilityai have you tried @togethercompute openchatkit? based on gpt neox 20b
  * [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
  * [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - This repository contains code to parse various site
- * [babyagi](https://github.com/yoheinakajima/babyagi) - run babyagi in google colab ... is an ai-powered task management system. it starts with an objective and an initial_task and then executes on tasks + finds new tasks. check:  #babyagi #ai
+ * [babyagi](https://github.com/yoheinakajima/babyagi) - inspired by tools like auto-gpt and babyagi  autocog is an open-source command-line tool that uses gpt-4 to not only write code, but to run and fix the code.
  * [metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
  * [ThreatResearch](https://github.com/securityjoes/threatresearch) - during our latest incident response, @charleslomboni implemented #chatgpt into #ghidra.we've released the code so you could use it too: called it askjoe 🤠enjoy &amp; share
  * [centminmod-abuseipdb-reporter](https://github.com/centminmod/centminmod-abuseipdb-reporter) - CSF Firewall and AbuseIPDB API integration with specific focus on data privacy and prevention of sensitive data leaked to public AbuseIPDB database report
@@ -1100,18 +1110,19 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [Painter](https://github.com/baaivision/painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
  * [Auto-GPT](https://github.com/kanecohen/auto-gpt) - An experimental open-source attempt to make GPT-4 fully autonomous.
  * [Robo-GPT](https://github.com/rokstrnisa/robo-gpt) - A simple and extensible program that helps you run GPT-4 model autonomously.
- * [yolopandas](https://github.com/ccurme/yolopandas) - @marktenenholtz chatgpt replaced you.
  * [gpt-4-search](https://github.com/andylokandy/gpt-4-search) - A command line GPT-4 REPL with Google search in 200 lines of code
  * [symbolicai](https://github.com/xpitfire/symbolicai) - Compositional Differentiable Programming Library
  * [DeepSpeed](https://github.com/microsoft/deepspeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
  * [micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent.
+ * [gptdeploy](https://github.com/jina-ai/gptdeploy) - One line to create them all
  * [cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
  * [magic-happens](https://github.com/empath-nirvana/magic-happens) - A kubernetes operator you should never run under any circumstances
- * [gptdeploy](https://github.com/jina-ai/gptdeploy) - One line to create them all
  * [LlamaAcademy](https://github.com/danielgross/llamaacademy) - A school for camelids
  * [Image2Paragraph](https://github.com/showlab/image2paragraph) - Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.
+ * [Multi-GPT](https://github.com/rumpfmax/multi-gpt) - An experimental open-source attempt to make GPT-4 fully autonomous.
  * [xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit) - Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents
  * [DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples) - Example models using DeepSpeed
+ * [celltypewriter](https://github.com/ntranoslab/celltypewriter) - new version for those who don't have access to #gpt4. just leave the api-key field blank in settings and try it out. we'll try to keep this going for a few days.
  * [AutoGPT-FR](https://github.com/mikiane/autogpt-fr) - Version française d'Auto GPT
  * [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - The Machine Learning project including ML/DL projects, notebooks, cheat codes of ML/DL, useful information on AI/AGI and codes or snippets/scripts/tasks with tips.
  * [data-winners](https://github.com/frontanalyticsinc/data-winners) - A collection of FREE python and R scripts for website development, analysis, and optimization. Includes advanced resources for topical authority and semantic content optimization.
@@ -1136,12 +1147,13 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [adrenaline](https://github.com/shobrook/adrenaline) - Talk to your codebase
  * [lorem-chatum-for-indesign](https://github.com/twardoch/lorem-chatum-for-indesign) - Lorem Chatum script for Adobe InDesign that uses ChatGPT to produce better lorem ipsum
  * [monocle-rizz](https://github.com/acui51/monocle-rizz) - rizzGPT
+ * [gptrpg](https://github.com/dzoba/gptrpg) - A demo of an GPT-based agent existing in an RPG-like environment
  * [appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
  * [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
  * [roomGPT](https://github.com/nutlope/roomgpt) - Upload a photo of your room to generate your dream room with AI.
  * [noobnooc](https://github.com/noobnooc/noobnooc) - The content of my profile, blog, and homepage (https://www.nooc.ink) .
  * [code-gpt](https://github.com/vaibhavacharya/code-gpt) - Make sense of any code, anytime. 🚀
- * [Portal](https://github.com/lxfater/portal) - 我要用十二分的激情和赞叹来推荐portal。这是个干掉一切插件的chatgpt（gpt-4）辅助软件，它把整个操作系统当成自己的舞台，可以在任意软件上操作chatgpt，更惊喜的是，它可以用web端登录，意味着你只要有chatgpt …
+ * [Portal](https://github.com/lxfater/portal) - protal releases:system tray mode supportsapi chat mode historyoptional solution for chatgpt web disconnection issuesautomatic remote update
  * [commitgpt](https://github.com/romanhotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
  * [chatgpt-md](https://github.com/bramses/chatgpt-md) - A (nearly) seamless integration of ChatGPT into Obsidian.
  * [paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI search & chat for all of Paul Graham’s essays.
@@ -1216,8 +1228,8 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
  * [PolyglotSiri-Apple-Shortcut](https://github.com/munntein/polyglotsiri-apple-shortcut) - PolyglotSiri is based on [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) and enhances its multilingual and speech capabilities.
  * [M5Burner_M5Unified_StackChan_ChatGPT_README](https://github.com/robo8080/m5burner_m5unified_stackchan_chatgpt_readme) - M5Burner版M5Unified_StackChan_ChatGPTのREADMEです。
  * [gpt-legion](https://github.com/eumemic/gpt-legion) - Radiant Blockchain Node (RXD) - SHA512/256 Proof-of-Work
- * [JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset) - The dataset contains over 18,000 Chinese question-answer pairs extracted from 281 episodes of the Chinese podcast "JinJinLeDao".
  * [AI-Twitter-History](https://github.com/jtmuller5/ai-twitter-history) - ChatGPT is good but you don't know how to use it
+ * [JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset) - The dataset contains over 18,000 Chinese question-answer pairs extracted from 281 episodes of the Chinese podcast "JinJinLeDao".
 
 
 |Name|Language|License|GitHub Stars|
@@ -1271,18 +1283,19 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[Painter](https://github.com/baaivision/painter)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/baaivision/Painter?style=social)|
 |[Auto-GPT](https://github.com/kanecohen/auto-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/KaneCohen/Auto-GPT?style=social)|
 |[Robo-GPT](https://github.com/rokstrnisa/robo-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rokstrnisa/Robo-GPT?style=social)|
-|[yolopandas](https://github.com/ccurme/yolopandas)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ccurme/yolopandas?style=social)|
 |[gpt-4-search](https://github.com/andylokandy/gpt-4-search)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/andylokandy/gpt-4-search?style=social)|
 |[symbolicai](https://github.com/xpitfire/symbolicai)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/Xpitfire/symbolicai?style=social)|
 |[DeepSpeed](https://github.com/microsoft/deepspeed)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social)|
 |[micro-gpt](https://github.com/muellerberndt/micro-gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|
+|[gptdeploy](https://github.com/jina-ai/gptdeploy)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/gptdeploy?style=social)|
 |[cloudgpt](https://github.com/ustayready/cloudgpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/ustayready/cloudgpt?style=social)|
 |[magic-happens](https://github.com/empath-nirvana/magic-happens)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/empath-nirvana/magic-happens?style=social)|
-|[gptdeploy](https://github.com/jina-ai/gptdeploy)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/gptdeploy?style=social)|
 |[LlamaAcademy](https://github.com/danielgross/llamaacademy)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/danielgross/LlamaAcademy?style=social)|
 |[Image2Paragraph](https://github.com/showlab/image2paragraph)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/showlab/Image2Paragraph?style=social)|
+|[Multi-GPT](https://github.com/rumpfmax/multi-gpt)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/rumpfmax/Multi-GPT?style=social)|
 |[xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/XpressAI/xai-gpt-agent-toolkit?style=social)|
 |[DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples?style=social)|
+|[celltypewriter](https://github.com/ntranoslab/celltypewriter)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ntranoslab/celltypewriter?style=social)|
 |[AutoGPT-FR](https://github.com/mikiane/autogpt-fr)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mikiane/AutoGPT-FR?style=social)|
 |[Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness?style=social)|
 |[data-winners](https://github.com/frontanalyticsinc/data-winners)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/FrontAnalyticsInc/data-winners?style=social)|
@@ -1307,6 +1320,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[adrenaline](https://github.com/shobrook/adrenaline)|JavaScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/adrenaline?style=social)|
 |[lorem-chatum-for-indesign](https://github.com/twardoch/lorem-chatum-for-indesign)|JavaScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/twardoch/lorem-chatum-for-indesign?style=social)|
 |[monocle-rizz](https://github.com/acui51/monocle-rizz)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/acui51/monocle-rizz?style=social)|
+|[gptrpg](https://github.com/dzoba/gptrpg)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/dzoba/gptrpg?style=social)|
 |[appwrite](https://github.com/appwrite/appwrite)|TypeScript|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social)|
 |[wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social)|
 |[roomGPT](https://github.com/nutlope/roomgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/Nutlope/roomGPT?style=social)|
@@ -1387,7 +1401,7 @@ _Updated on April 21, 2023_ (A total of 613 repositories listed.)
 |[PolyglotSiri-Apple-Shortcut](https://github.com/munntein/polyglotsiri-apple-shortcut)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Munntein/PolyglotSiri-Apple-Shortcut?style=social)|
 |[M5Burner_M5Unified_StackChan_ChatGPT_README](https://github.com/robo8080/m5burner_m5unified_stackchan_chatgpt_readme)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/robo8080/M5Burner_M5Unified_StackChan_ChatGPT_README?style=social)|
 |[gpt-legion](https://github.com/eumemic/gpt-legion)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/gpt-legion?style=social)|
-|[JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tech-podcasts/JinJinLeDao_QA_Dataset?style=social)|
 |[AI-Twitter-History](https://github.com/jtmuller5/ai-twitter-history)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jtmuller5/AI-Twitter-History?style=social)|
+|[JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tech-podcasts/JinJinLeDao_QA_Dataset?style=social)|
 
 
