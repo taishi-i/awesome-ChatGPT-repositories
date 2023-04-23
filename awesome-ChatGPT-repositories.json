@@ -623,6 +623,14 @@
                     "technical-analysis"
                 ]
             },
+            "https://github.com/suno-ai/bark": {
+                "repository_name": "bark",
+                "user_name": "suno-ai",
+                "language": "Python",
+                "license": "Other",
+                "description": "🔊 Text-Prompted Generative Audio Model",
+                "topics": []
+            },
             "https://github.com/op7418/prompt-hunter": {
                 "repository_name": "Prompt-hunter",
                 "user_name": "op7418",
@@ -1455,6 +1463,14 @@
                     "probot"
                 ]
             },
+            "https://github.com/ccurme/yolopandas": {
+                "repository_name": "yolopandas",
+                "user_name": "ccurme",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "チャットでpandas操作これ便利。\"fy23 q2のどこどこ会社の何何製品に関する売り上げデータをグラフ化してね。\"ってセールスオペレーションチームにお願いしているので、これ使って簡単にchatgptにデータ取得お願いできるようにしよう。",
+                "topics": []
+            },
             "https://github.com/sullivan-sean/chat-langchainjs": {
                 "repository_name": "chat-langchainjs",
                 "user_name": "sullivan-sean",
@@ -1489,6 +1505,14 @@
                 "description": "医療特化aiチャット「chatdoctor」chatgptも使ってモデルをトレーニングしてる様子全コードとデータセット、モデルの重みがオープンソース化する予定らしい..！",
                 "topics": []
             },
+            "https://github.com/vision-cair/minigpt-4": {
+                "repository_name": "MiniGPT-4",
+                "user_name": "Vision-CAIR",
+                "language": "Python",
+                "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "description": "📛 minigpt-4🧠 minigpt-4 is a language model that uses a visual encoder and a frozen llm, vicuna, for generating high-quality image-text pairs and improves usability through conversation templates.💻 python⭐ 13203🍴 1337🔗",
+                "topics": []
+            },
             "https://github.com/rafalwilinski/telegram-chatgpt-concierge-bot": {
                 "repository_name": "telegram-chatgpt-concierge-bot",
                 "user_name": "RafalWilinski",
@@ -1500,6 +1524,54 @@
                     "langchain",
                     "telegram-bot"
                 ]
+            },
+            "https://github.com/xcanwin/keepchatgpt": {
+                "repository_name": "KeepChatGPT",
+                "user_name": "xcanwin",
+                "language": "JavaScript",
+                "license": "GNU General Public License v2.0",
+                "description": "让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.",
+                "topics": [
+                    "chatgpt",
+                    "networkerror"
+                ]
+            },
+            "https://github.com/xtekky/gpt4free": {
+                "repository_name": "gpt4free",
+                "user_name": "xtekky",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)",
+                "topics": [
+                    "chatbot",
+                    "chatbots",
+                    "chatgpt",
+                    "chatgpt-4",
+                    "chatgpt-api",
+                    "chatgpt-free",
+                    "chatgpt4",
+                    "free-gpt",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt3",
+                    "gpt4",
+                    "gpt4-api",
+                    "language-model",
+                    "openai",
+                    "openai-api",
+                    "openai-chatgpt",
+                    "python",
+                    "reverse-engineering"
+                ]
+            },
+            "https://github.com/log1stics/voice-generator-webui": {
+                "repository_name": "voice-generator-webui",
+                "user_name": "log1stics",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A multi-speaker, multilingual speech generation tool",
+                "topics": []
             },
             "https://github.com/glowbom/glowby": {
                 "repository_name": "glowby",
@@ -1524,15 +1596,24 @@
                     "openai"
                 ]
             },
-            "https://github.com/xcanwin/keepchatgpt": {
-                "repository_name": "KeepChatGPT",
-                "user_name": "xcanwin",
-                "language": "JavaScript",
-                "license": "GNU General Public License v2.0",
-                "description": "让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页，足足省去10个多余的步骤。还可以取消后台监管审计。解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.",
+            "https://github.com/kaqijiang/auto-gpt-zh": {
+                "repository_name": "Auto-GPT-ZH",
+                "user_name": "kaqijiang",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现",
                 "topics": [
+                    "auto-gpt",
+                    "autogpt",
+                    "chat-gpt",
+                    "chatbot",
                     "chatgpt",
-                    "networkerror"
+                    "chinese",
+                    "chinese-simplified",
+                    "chinese-translation",
+                    "gpt-3-5-turbo-api",
+                    "gpt-35-turbo",
+                    "gpt4-api"
                 ]
             },
             "https://github.com/ssgorg/navi": {
@@ -2235,6 +2316,19 @@
                     "chatgpt-plugins"
                 ]
             },
+            "https://github.com/0hq/webgpt": {
+                "repository_name": "WebGPT",
+                "user_name": "0hq",
+                "language": "JavaScript",
+                "license": "Other",
+                "description": "Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript. ",
+                "topics": [
+                    "gpt",
+                    "nanogpt",
+                    "transformers",
+                    "webgpu"
+                ]
+            },
             "https://github.com/rgbkrk/dangermode": {
                 "repository_name": "dangermode",
                 "user_name": "rgbkrk",
@@ -2266,6 +2360,14 @@
                     "webgpu",
                     "webml"
                 ]
+            },
+            "https://github.com/centminmod/chrome_extension_slicer": {
+                "repository_name": "chrome_extension_slicer",
+                "user_name": "centminmod",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Chrome extension to load AI prompt text slicer tool at https://slicer.centminmod.com",
+                "topics": []
             }
         },
         "CLIs": {
@@ -3954,14 +4056,6 @@
                 "description": "Small scripts written (or modified) by me, in Linden Scripting Language (LSL), for Second Life.",
                 "topics": []
             },
-            "https://github.com/zilliztech/gptcache": {
-                "repository_name": "gptcache",
-                "user_name": "zilliztech",
-                "language": null,
-                "license": null,
-                "description": "gptcache is a library for creating semantic cache to store responses from llm queries.",
-                "topics": []
-            },
             "https://github.com/whitead/paper-qa": {
                 "repository_name": "paper-qa",
                 "user_name": "whitead",
@@ -4044,14 +4138,6 @@
                 "description": "#aiscllmworkshopa quick way to go from zero to dangerous (like, be able to confidently bullshit like chatgpt, but also quickly ramp up on how to go from idea to product with the latest &amp; greatest in llm, with 9 continuous hours of hour-long presentations!",
                 "topics": []
             },
-            "https://github.com/vision-cair/minigpt-4": {
-                "repository_name": "MiniGPT-4",
-                "user_name": "Vision-CAIR",
-                "language": "Python",
-                "license": "BSD 3-Clause \"New\" or \"Revised\" License",
-                "description": "top 10 trending repos 🔥 on #github 1. minigpt-4  minigpt-4: enhancing vision-language understanding with advanced large language models  #python",
-                "topics": []
-            },
             "https://github.com/stanfordbdhg/healthgpt": {
                 "repository_name": "HealthGPT",
                 "user_name": "StanfordBDHG",
@@ -4083,6 +4169,14 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache License 2.0",
                 "description": "StableLM: Stability AI Language Models",
+                "topics": []
+            },
+            "https://github.com/freedomintelligence/llmzoo": {
+                "repository_name": "LLMZoo",
+                "user_name": "FreedomIntelligence",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡",
                 "topics": []
             },
             "https://github.com/agiresearch/openagi": {
@@ -4151,6 +4245,14 @@
                     "reactjs",
                     "vector-search"
                 ]
+            },
+            "https://github.com/h2oai/h2o-llmstudio": {
+                "repository_name": "h2o-llmstudio",
+                "user_name": "h2oai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs",
+                "topics": []
             },
             "https://github.com/lightaime/camel#data-hosted-on-hugging-face": {
                 "repository_name": "camel",
@@ -4523,7 +4625,7 @@
                 "user_name": "run-llama",
                 "language": "Python",
                 "license": null,
-                "description": "introducing llama lab 🦙🧪a repo dedicated to building cutting-edge agi projects with @gpt_index:🤖 llama_agi (inspired by babyagi)⚙️ auto_llama (inspired by autogpt)create/plan/execute tasks automatically!play around with it here 👉",
+                "description": "super excited to feature two exciting agi projects using @gpt_index 🔥⚡️🤖 llama_agi: automatically execute tasks towards a goal!⚙️ auto_llama: an internet agent to fulfill tasks.link:  makes agi projects straightforward to build. 🧵",
                 "topics": []
             },
             "https://github.com/mklarqvist/ai-playground": {
@@ -4625,6 +4727,14 @@
                     "text-to-speech",
                     "unity"
                 ]
+            },
+            "https://github.com/zilliztech/gptcache": {
+                "repository_name": "gptcache",
+                "user_name": "zilliztech",
+                "language": null,
+                "license": null,
+                "description": "@ferret_db @ossinsight @milvusio we'd love to get a ferretdb backend for gptcache. we'll add it to the todo list.and on behalf of milvus developers and the broader community, thanks for the shout-out!",
+                "topics": []
             }
         },
         "Openai": {
@@ -5424,6 +5534,14 @@
                     "openai",
                     "python"
                 ]
+            },
+            "https://github.com/alleninstitute/openai_tools": {
+                "repository_name": "openai_tools",
+                "user_name": "AllenInstitute",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Growing set of scripts to explore pdf publication using ChatGPT API",
+                "topics": []
             }
         },
         "Others": {
@@ -5900,7 +6018,7 @@
                 "user_name": "lxfater",
                 "language": "TypeScript",
                 "license": "GNU General Public License v3.0",
-                "description": "我要用十二分的激情和赞叹来推荐portal。这是个干掉一切插件的chatgpt（gpt-4）辅助软件，它把整个操作系统当成自己的舞台，可以在任意软件上操作chatgpt，更惊喜的是，它可以用web端登录，意味着你只要有chatgpt …",
+                "description": "protal releases:system tray mode supportsapi chat mode historyoptional solution for chatgpt web disconnection issuesautomatic remote update",
                 "topics": []
             },
             "https://github.com/yoheinakajima/babyagi": {
@@ -5908,7 +6026,7 @@
                 "user_name": "yoheinakajima",
                 "language": "Python",
                 "license": "MIT License",
-                "description": "run babyagi in google colab ... is an ai-powered task management system. it starts with an objective and an initial_task and then executes on tasks + finds new tasks. check:  #babyagi #ai",
+                "description": "inspired by tools like auto-gpt and babyagi  autocog is an open-source command-line tool that uses gpt-4 to not only write code, but to run and fix the code.",
                 "topics": []
             },
             "https://github.com/romanhotsiy/commitgpt": {
@@ -7047,14 +7165,6 @@
                 "description": "Model API for GALACTICA",
                 "topics": []
             },
-            "https://github.com/ccurme/yolopandas": {
-                "repository_name": "yolopandas",
-                "user_name": "ccurme",
-                "language": "Python",
-                "license": "MIT License",
-                "description": "@marktenenholtz chatgpt replaced you.",
-                "topics": []
-            },
             "https://github.com/torantulino/auto-gpt.git": {
                 "repository_name": "Auto-GPT.git",
                 "user_name": "Torantulino",
@@ -7114,6 +7224,14 @@
                 "description": "A minimal generic autonomous agent.",
                 "topics": []
             },
+            "https://github.com/jina-ai/gptdeploy": {
+                "repository_name": "gptdeploy",
+                "user_name": "jina-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "One line to create them all",
+                "topics": []
+            },
             "https://github.com/ustayready/cloudgpt": {
                 "repository_name": "cloudgpt",
                 "user_name": "ustayready",
@@ -7130,12 +7248,12 @@
                 "description": "A kubernetes operator you should never run under any circumstances",
                 "topics": []
             },
-            "https://github.com/jina-ai/gptdeploy": {
-                "repository_name": "gptdeploy",
-                "user_name": "jina-ai",
+            "https://github.com/danielgross/llamaacademy": {
+                "repository_name": "LlamaAcademy",
+                "user_name": "danielgross",
                 "language": "Python",
-                "license": "Apache License 2.0",
-                "description": "One line to create them all",
+                "license": "MIT License",
+                "description": "A school for camelids",
                 "topics": []
             },
             "https://github.com/eumemic/gpt-legion": {
@@ -7146,28 +7264,20 @@
                 "description": "Radiant Blockchain Node (RXD) - SHA512/256 Proof-of-Work",
                 "topics": []
             },
-            "https://github.com/danielgross/llamaacademy": {
-                "repository_name": "LlamaAcademy",
-                "user_name": "danielgross",
-                "language": "Python",
-                "license": "MIT License",
-                "description": "A school for camelids",
-                "topics": []
-            },
-            "https://github.com/tech-podcasts/jinjinledao_qa_dataset": {
-                "repository_name": "JinJinLeDao_QA_Dataset",
-                "user_name": "tech-podcasts",
-                "language": null,
-                "license": null,
-                "description": "The dataset contains over 18,000 Chinese question-answer pairs extracted from 281 episodes of the Chinese podcast \"JinJinLeDao\".",
-                "topics": []
-            },
             "https://github.com/showlab/image2paragraph": {
                 "repository_name": "Image2Paragraph",
                 "user_name": "showlab",
                 "language": "Python",
                 "license": "Apache License 2.0",
                 "description": "Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.",
+                "topics": []
+            },
+            "https://github.com/dzoba/gptrpg": {
+                "repository_name": "gptrpg",
+                "user_name": "dzoba",
+                "language": "JavaScript",
+                "license": null,
+                "description": "A demo of an GPT-based agent existing in an RPG-like environment",
                 "topics": []
             },
             "https://github.com/jtmuller5/ai-twitter-history": {
@@ -7185,12 +7295,20 @@
                     "twitter"
                 ]
             },
-            "https://github.com/ingyamilmolinar/doctorgpt": {
-                "repository_name": "doctorgpt",
-                "user_name": "ingyamilmolinar",
-                "language": "Go",
-                "license": "MIT License",
-                "description": "DoctorGPT brings GPT into production for error diagnosing!",
+            "https://github.com/rumpfmax/multi-gpt": {
+                "repository_name": "Multi-GPT",
+                "user_name": "rumpfmax",
+                "language": "Python",
+                "license": "Other",
+                "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+                "topics": []
+            },
+            "https://github.com/tech-podcasts/jinjinledao_qa_dataset": {
+                "repository_name": "JinJinLeDao_QA_Dataset",
+                "user_name": "tech-podcasts",
+                "language": null,
+                "license": null,
+                "description": "The dataset contains over 18,000 Chinese question-answer pairs extracted from 281 episodes of the Chinese podcast \"JinJinLeDao\".",
                 "topics": []
             },
             "https://github.com/xpressai/xai-gpt-agent-toolkit": {
@@ -7201,12 +7319,28 @@
                 "description": "Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents",
                 "topics": []
             },
+            "https://github.com/ingyamilmolinar/doctorgpt": {
+                "repository_name": "doctorgpt",
+                "user_name": "ingyamilmolinar",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "DoctorGPT brings GPT into production for error diagnosing!",
+                "topics": []
+            },
             "https://github.com/microsoft/deepspeedexamples": {
                 "repository_name": "DeepSpeedExamples",
                 "user_name": "microsoft",
                 "language": "Python",
                 "license": "Apache License 2.0",
                 "description": "Example models using DeepSpeed",
+                "topics": []
+            },
+            "https://github.com/ntranoslab/celltypewriter": {
+                "repository_name": "celltypewriter",
+                "user_name": "ntranoslab",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "new version for those who don't have access to #gpt4. just leave the api-key field blank in settings and try it out. we'll try to keep this going for a few days.",
                 "topics": []
             },
             "https://github.com/mikiane/autogpt-fr": {
