@@ -5,7 +5,7 @@
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 [ChatGPT](https://openai.com/blog/chatgpt)に関連するオープンソースのGitHubリポジトリを厳選したリストです。
-このリストは、Twitterのトレンド分析を6ヶ月間行った結果、抽出された500以上のリポジトリを元に作成されました。リストの内容は毎週自動的に更新されます。
+このリストは、Twitterのトレンド分析を6ヶ月間行った結果、抽出された1000以上のリポジトリを元に作成されました。リストの内容は毎週自動的に更新されます。
 これらのリポジトリを[検索するためのツール](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)はHugging Face Spacesで利用できます。
 
 あなたの貢献をいつでも歓迎します！貢献する前に、[ガイドライン](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md)をお読みください。
@@ -15,31 +15,18 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [bark](https://github.com/suno-ai/bark) -  テキスト要求生成音声モデル
-
-**Chatbots**
- * [gpt4free](https://github.com/xtekky/gpt4free) - AI産業を分散させ,いくつかのリバースエンジニアリングAPI (poe.com,phind.com,chat.openai.com,phind.com,writesonic.com,sqlchat.ai,t3nsor.com,you.comなど) を通して無料のgpt-4/3.5スクリプトを
- * [voice-generator-webui](https://github.com/log1stics/voice-generator-webui) - 多言語のスピーカー生成ツール
- * [Auto-GPT-ZH](https://github.com/kaqijiang/auto-gpt-zh) - Auto-GPT 中国語版及び愛好者組織 同步更新原案 AI分野創業者 自媒体組織 用AI作業学習創作変化現
-
-**Browser-extensions**
- * [WebGPT](https://github.com/0hq/webgpt) - WebGPUでブラウザでGPTモデルを実行する.バニラJavaScriptの~2000行未満でGPT推論の実装.
- * [chrome_extension_slicer](https://github.com/centminmod/chrome_extension_slicer) - AIプロンプトテキストスライサーツールをロードするChrome拡張子
-
 **NLP**
- * [LLMZoo](https://github.com/freedomintelligence/llmzoo) - LLM Zooは,大きな言語モデルのためのデータ,モデル,評価基準を提供するプロジェクトです.
- * [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - LLMの精細調整のためのフレームワークとコードのないGUI
+ * [INSIGHT](https://github.com/oneil512/insight) - INSIGHTは 医学研究を行うことができる自動人工知能です
+ * [PentestGPT](https://github.com/greydgl/pentestgpt) - GPT 搭載の侵入テストツール
 
-**Openai**
- * [openai_tools](https://github.com/alleninstitute/openai_tools) - ChatGPT API を使用して pdf 出版物を探索するためのスクリプトのセットが増加
+**Langchain**
+ * [VLog](https://github.com/showlab/vlog) - ChatGPT,CLIP,BLIP2,GRIT,Whisper,LangChainでビデオをドキュメントに変換する
 
 **Others**
- * [gptrpg](https://github.com/dzoba/gptrpg) - RPGのような環境にあるGPTベースのエージェントのデモ
- * [Multi-GPT](https://github.com/rumpfmax/multi-gpt) - GPT-4を完全に自動化するための実験的なオープンソースの試みです
- * [celltypewriter](https://github.com/ntranoslab/celltypewriter) - 設定でAPIキー欄を空にして試してみましょう. このまま数日続けようと思います.
+ * [Caption-Anything](https://github.com/ttengwang/caption-anything) - Caption-Anythingは,画像セグメント化,視覚字幕化,およびChatGPTを組み合わせ,ユーザー好みのさまざまなコントロールを持つ,カスタマイズされたキャプションを生成する汎用ツールです.
+ * [gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j チャット
 
-_Updated on April 24, 2023_ (A total of 625 repositories listed.)
+_Updated on April 26, 2023_ (A total of 630 repositories listed.)
 
 ## Table of contents
  * [Awesome-lists](#Awesome-lists)
@@ -698,6 +685,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
  * [nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser) - NLPで動いている GPT-3で,PDFからJSONへの再開パーサーが有効です. 
  * [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - LLMの精細調整のためのフレームワークとコードのないGUI
  * [camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face) -  CAMEL: 広範囲の言語モデル社会の探索のためのコミュニケーションエージェント
+ * [INSIGHT](https://github.com/oneil512/insight) - INSIGHTは 医学研究を行うことができる自動人工知能です
  * [auto-redteam](https://github.com/traghav/auto-redteam) - 他のLLMを利用したLLMをレッドチームする
  * [self-ask](https://github.com/ofirpress/self-ask) - "言語モデルにおける構成格差の測定と縮小"のコードとデータ
  * [llm-lobbyist](https://github.com/johnnay/llm-lobbyist) - 論文のコード: "企業ロビー活動家としての大言語モデル" (2023年)
@@ -720,6 +708,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
  * [ChatARKit](https://github.com/trzy/chatarkit) - ChatGPTを使って自然言語でAR体験を作成します
  * [alpaca.cpp](https://github.com/rupeshs/alpaca.cpp) - ローカルにインストラクションチューニングチャットスタイルLLM (Android/Linux/Windows/Mac) を実行する
  * [rust-bert](https://github.com/guillaume-be/rust-bert) - 耐腐食のネイティブで使いやすいNLPパイプラインとトランスフォーマーベースのモデル (BERT,DistilBERT,GPT2,...)
+ * [PentestGPT](https://github.com/greydgl/pentestgpt) - GPT 搭載の侵入テストツール
  * [gpttools](https://github.com/jameshwade/gpttools) - gpttools は gptstudio のパッケージ開発拡張機能で,コードを文書化したり,テストを書いたり,コードを説明したりする手助けをします.
  * [semantic-kernel](https://github.com/microsoft/semantic-kernel) - テクノロジーが簡単にアプリに組み込まれます
  * [CoCoGen](https://github.com/madaan/cocogen) - nlpの課題は gpt-3 と t5 よりうまく機能する. nl問題を偽python に変換すれば,
@@ -787,6 +776,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
 |[nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/hxu296/nlp-resume-parser?style=social)|
 |[h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social)|
 |[camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lightaime/camel?style=social)|
+|[INSIGHT](https://github.com/oneil512/insight)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/oneil512/INSIGHT?style=social)|
 |[auto-redteam](https://github.com/traghav/auto-redteam)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/traghav/auto-redteam?style=social)|
 |[self-ask](https://github.com/ofirpress/self-ask)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/ofirpress/self-ask?style=social)|
 |[llm-lobbyist](https://github.com/johnnay/llm-lobbyist)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/JohnNay/llm-lobbyist?style=social)|
@@ -809,6 +799,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
 |[ChatARKit](https://github.com/trzy/chatarkit)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/trzy/ChatARKit?style=social)|
 |[alpaca.cpp](https://github.com/rupeshs/alpaca.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rupeshs/alpaca.cpp?style=social)|
 |[rust-bert](https://github.com/guillaume-be/rust-bert)|Rust|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/guillaume-be/rust-bert?style=social)|
+|[PentestGPT](https://github.com/greydgl/pentestgpt)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social)|
 |[gpttools](https://github.com/jameshwade/gpttools)|R|Other|![GitHub Repo stars](https://img.shields.io/github/stars/JamesHWade/gpttools?style=social)|
 |[semantic-kernel](https://github.com/microsoft/semantic-kernel)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)|
 |[CoCoGen](https://github.com/madaan/cocogen)|TeX|-|![GitHub Repo stars](https://img.shields.io/github/stars/madaan/CoCoGen?style=social)|
@@ -843,6 +834,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
  * [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - llama.cpp の Python 結合
  * [basaran](https://github.com/hyperonym/basaran) - BasaranはOpenAIテキストコンプリメント APIのオープンソースの代替品です. ハグジングフェイストランスフォーマーベースのテキスト生成モデルのための互換性のあるストリーミング APIを提供します.
  * [llama-lab](https://github.com/run-llama/llama-lab) - 目標に向かってタスクを自動的に実行します. ️ auto_llama:タスクを完了するためのインターネットエージェント.リンク: agiプロジェクトを簡単に構築します. 
+ * [VLog](https://github.com/showlab/vlog) - ChatGPT,CLIP,BLIP2,GRIT,Whisper,LangChainでビデオをドキュメントに変換する
  * [examples](https://github.com/pinecone-io/examples) - @langchainai docs を新しい @openai chatgpt 復元API に追加する
  * [alpaca-lora](https://github.com/tloen/alpaca-lora) - 消費者のハードウェアで LLaMA をインストークトチューンする
  * [ClassGPT](https://github.com/benthecoder/classgpt) - プレゼンスのスライドのためのChatGPT
@@ -878,6 +870,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
 |[llama-cpp-python](https://github.com/abetlen/llama-cpp-python)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social)|
 |[basaran](https://github.com/hyperonym/basaran)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hyperonym/basaran?style=social)|
 |[llama-lab](https://github.com/run-llama/llama-lab)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-lab?style=social)|
+|[VLog](https://github.com/showlab/vlog)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/showlab/VLog?style=social)|
 |[examples](https://github.com/pinecone-io/examples)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/pinecone-io/examples?style=social)|
 |[alpaca-lora](https://github.com/tloen/alpaca-lora)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social)|
 |[ClassGPT](https://github.com/benthecoder/classgpt)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/benthecoder/ClassGPT?style=social)|
@@ -1122,6 +1115,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
  * [xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit) - BabyAGI/AutoGPT スタイルのエージェントを作成し実験するためのXcircuits ツールキット
  * [DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples) - DeepSpeed を使った例モデル
  * [celltypewriter](https://github.com/ntranoslab/celltypewriter) - 設定でAPIキー欄を空にして試してみましょう. このまま数日続けようと思います.
+ * [Caption-Anything](https://github.com/ttengwang/caption-anything) - Caption-Anythingは,画像セグメント化,視覚字幕化,およびChatGPTを組み合わせ,ユーザー好みのさまざまなコントロールを持つ,カスタマイズされたキャプションを生成する汎用ツールです.
  * [AutoGPT-FR](https://github.com/mikiane/autogpt-fr) - フランスのバージョン d'Auto GPT
  * [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - ML/DLプロジェクト,ノートブック,ML/DLのチートコード,AI/AGIに関する有用な情報,ヒント付きのコードやスニペット/スクリプト/タスクを含む機械学習プロジェクト
  * [data-winners](https://github.com/frontanalyticsinc/data-winners) - ウェブサイト開発,分析,最適化のための無料のpythonとRスクリプトのコレクション. 話題の権威と意味的なコンテンツ最適化のための高度なリソースを含む.
@@ -1163,6 +1157,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
  * [gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - GPT-4 のコードの例をいくつかご紹介します!
  * [M5Core2ImageAvatarLiteChatGPT](https://github.com/robo8080/m5core2imageavatarlitechatgpt) - ImageAvatarLiteChatGPT M5Stack Core2 向け
  * [mpi_small_examples](https://github.com/t-hishinuma/mpi_small_examples) - 完全に説明して頂けますか?
+ * [gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j チャット
  * [ggml](https://github.com/ggerganov/ggml) - 機械学習のためのテンソールライブラリ
  * [blindvisaidgpt](https://github.com/justanotherlad/blindvisaidgpt) - 視覚障害者向けインタラクティブな支援ソフトです
  * [cformers](https://github.com/nolanoorg/cformers) - SoTAトランスフォーマーとCバックエンドで CPUを速やかに操作します
@@ -1295,6 +1290,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
 |[xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/XpressAI/xai-gpt-agent-toolkit?style=social)|
 |[DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples?style=social)|
 |[celltypewriter](https://github.com/ntranoslab/celltypewriter)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ntranoslab/celltypewriter?style=social)|
+|[Caption-Anything](https://github.com/ttengwang/caption-anything)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/ttengwang/Caption-Anything?style=social)|
 |[AutoGPT-FR](https://github.com/mikiane/autogpt-fr)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mikiane/AutoGPT-FR?style=social)|
 |[Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness?style=social)|
 |[data-winners](https://github.com/frontanalyticsinc/data-winners)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/FrontAnalyticsInc/data-winners?style=social)|
@@ -1336,6 +1332,7 @@ _Updated on April 24, 2023_ (A total of 625 repositories listed.)
 |[gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code)|C++|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/anysphere/gpt-4-for-code?style=social)|
 |[M5Core2ImageAvatarLiteChatGPT](https://github.com/robo8080/m5core2imageavatarlitechatgpt)|C++|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/robo8080/M5Core2ImageAvatarLiteChatGPT?style=social)|
 |[mpi_small_examples](https://github.com/t-hishinuma/mpi_small_examples)|C++|-|![GitHub Repo stars](https://img.shields.io/github/stars/t-hishinuma/mpi_small_examples?style=social)|
+|[gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat)|C++|Other|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all-chat?style=social)|
 |[ggml](https://github.com/ggerganov/ggml)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/ggml?style=social)|
 |[blindvisaidgpt](https://github.com/justanotherlad/blindvisaidgpt)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/justanotherlad/blindvisaidgpt?style=social)|
 |[cformers](https://github.com/nolanoorg/cformers)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NolanoOrg/cformers?style=social)|
