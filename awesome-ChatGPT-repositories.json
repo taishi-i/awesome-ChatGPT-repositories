@@ -4271,6 +4271,23 @@
                     "natural-language-processing"
                 ]
             },
+            "https://github.com/oneil512/insight": {
+                "repository_name": "INSIGHT",
+                "user_name": "oneil512",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "INSIGHT is an autonomous AI that can do medical research!",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "chatgpt",
+                    "gpt",
+                    "llm",
+                    "medical",
+                    "ml",
+                    "python"
+                ]
+            },
             "https://github.com/srush/minichain": {
                 "repository_name": "minichain",
                 "user_name": "srush",
@@ -4278,6 +4295,19 @@
                 "license": "MIT License",
                 "description": "Sequence-to-sequence model with LSTM encoder/decoders and attention",
                 "topics": []
+            },
+            "https://github.com/greydgl/pentestgpt": {
+                "repository_name": "PentestGPT",
+                "user_name": "GreyDGL",
+                "language": "HTML",
+                "license": "MIT License",
+                "description": "A GPT-empowered penetration testing tool",
+                "topics": [
+                    "large-language-models",
+                    "llm",
+                    "penetration-testing",
+                    "python"
+                ]
             }
         },
         "Langchain": {
@@ -4635,6 +4665,20 @@
                 "license": "MIT License",
                 "description": "i was playing around with perplexityai and wanted to figure out how it worked. so i wrote a simple open-source clone with @openai gpt-3.5turbo, @langchainai, @trychroma and with documentation.  check it out.",
                 "topics": []
+            },
+            "https://github.com/showlab/vlog": {
+                "repository_name": "VLog",
+                "user_name": "showlab",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Transform Video as a Document with ChatGPT, CLIP, BLIP2, GRIT, Whisper, LangChain.",
+                "topics": [
+                    "chatgpt",
+                    "langchain",
+                    "large-language-model",
+                    "video-language",
+                    "whisper"
+                ]
             },
             "https://github.com/hollobit/genai_llm_timeline": {
                 "repository_name": "GenAI_LLM_timeline",
@@ -7343,12 +7387,34 @@
                 "description": "new version for those who don't have access to #gpt4. just leave the api-key field blank in settings and try it out. we'll try to keep this going for a few days.",
                 "topics": []
             },
+            "https://github.com/ttengwang/caption-anything": {
+                "repository_name": "Caption-Anything",
+                "user_name": "ttengwang",
+                "language": "Python",
+                "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "description": "Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences.",
+                "topics": [
+                    "chatgpt",
+                    "controllable-generation",
+                    "controllable-image-captioning",
+                    "image-captioning",
+                    "segment-anything"
+                ]
+            },
             "https://github.com/mikiane/autogpt-fr": {
                 "repository_name": "AutoGPT-FR",
                 "user_name": "mikiane",
                 "language": "Python",
                 "license": "MIT License",
                 "description": "Version française d'Auto GPT",
+                "topics": []
+            },
+            "https://github.com/nomic-ai/gpt4all-chat": {
+                "repository_name": "gpt4all-chat",
+                "user_name": "nomic-ai",
+                "language": "C++",
+                "license": "Other",
+                "description": "gpt4all-j chat",
                 "topics": []
             }
         }
