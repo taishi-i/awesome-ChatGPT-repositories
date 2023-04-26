@@ -79,7 +79,7 @@ _Updated on April 26, 2023_ (A total of 630 repositories listed.)
 
 
 ## Prompts
-
+ * [Text2SQL](https://github.com/RamiAwar/text2sql) - Integrates with your DB to auto-extract the schema and allow for natural language queries that WORK. Uses OpenAI API, but can plug into any LLM.
  * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
  * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReader is a bot on Slack that can read and summarize any webpage, documents including ebooks, or even videos from YouTube. It can communicate with you through voice.
  * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
@@ -126,6 +126,7 @@ _Updated on April 26, 2023_ (A total of 630 repositories listed.)
 
 |Name|Language|License|GitHub Stars|
 -|-|-|-
+|[Text2SQL](https://github.com/RamiAwar/text2sql)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/RamiAwar/text2sql?style=social)
 |[gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mpoon/gpt-repository-loader?style=social)|
 |[myGPTReader](https://github.com/madawei2699/mygptreader)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/madawei2699/myGPTReader?style=social)|
 |[PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PromptCraft-Robotics?style=social)|
