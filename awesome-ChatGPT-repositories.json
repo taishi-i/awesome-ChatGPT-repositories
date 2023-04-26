@@ -2371,6 +2371,19 @@
             }
         },
         "CLIs": {
+            "https://github.com/dejorrit/commit-assist": {
+                "repository_name": "CommitAssist",
+                "user_name": "dejorrit",
+                "language": "Typescript",
+                "license": "MIT License",
+                "description": "Auto generate commit messages using ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "cli",
+                    "git",
+                    "commit"
+                ]
+            },
             "https://github.com/acheong08/chatgpt": {
                 "repository_name": "ChatGPT",
                 "user_name": "acheong08",
