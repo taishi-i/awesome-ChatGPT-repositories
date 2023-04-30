@@ -1471,6 +1471,20 @@
                 "description": "replicating chatlangchain (a chatgpt-like bot that only answers questions about langchain documentation) with a typescript backed  heard @swyx is having a hackathon later today. hopefully this can serve as a starting point for some projects there!",
                 "topics": []
             },
+            "https://github.com/guangzhengli/chatfiles": {
+                "repository_name": "ChatFiles",
+                "user_name": "guangzhengli",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Have a conversation with files ｜与你的文件对话",
+                "topics": [
+                    "chatbot",
+                    "chatfile",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatpdf"
+                ]
+            },
             "https://github.com/hmmhmmhm/friday-gpt": {
                 "repository_name": "friday-gpt",
                 "user_name": "hmmhmmhm",
@@ -1619,6 +1633,36 @@
                     "chatwithpdf",
                     "pdfgpt"
                 ]
+            },
+            "https://github.com/sytpb/chatgpt-wework-robot": {
+                "repository_name": "chatgpt-wework-robot",
+                "user_name": "sytpb",
+                "language": "JavaScript",
+                "license": null,
+                "description": "零代码、一键部署chatgpt到企业微信，无须VPN，速度快",
+                "topics": [
+                    "automatic",
+                    "chatbot",
+                    "chatgpt",
+                    "cloudfunction",
+                    "node-js",
+                    "nodejs",
+                    "one-click-deploy",
+                    "wechat-bot",
+                    "wecom",
+                    "wecom-bot",
+                    "weixin",
+                    "wework",
+                    "wexinbot"
+                ]
+            },
+            "https://github.com/go-skynet/localai": {
+                "repository_name": "LocalAI",
+                "user_name": "go-skynet",
+                "language": "Go",
+                "license": "MIT License",
+                "description": ":robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras",
+                "topics": []
             },
             "https://github.com/ssgorg/navi": {
                 "repository_name": "Navi",
@@ -3734,14 +3778,6 @@
                     "transformer"
                 ]
             },
-            "https://github.com/kaixindelele/chatpaper": {
-                "repository_name": "ChatPaper",
-                "user_name": "kaixindelele",
-                "language": "Python",
-                "license": "Other",
-                "description": "Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复",
-                "topics": []
-            },
             "https://github.com/yizhongw/self-instruct": {
                 "repository_name": "self-instruct",
                 "user_name": "yizhongw",
@@ -4374,6 +4410,39 @@
                     "react"
                 ]
             },
+            "https://github.com/xtekky/chatgpt-clone": {
+                "repository_name": "chatgpt-clone",
+                "user_name": "xtekky",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "ChatGPT interface with better UI ",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-app",
+                    "chatgpt-clone",
+                    "gpt-4",
+                    "gpt-4-api",
+                    "gpt-interface",
+                    "gpt3",
+                    "gpt4",
+                    "gpt4-api",
+                    "gpt4all",
+                    "interface",
+                    "language",
+                    "language-model",
+                    "site",
+                    "ui"
+                ]
+            },
+            "https://github.com/whoiskatrin/chart-gpt": {
+                "repository_name": "chart-gpt",
+                "user_name": "whoiskatrin",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "AI tool to build charts based on text input",
+                "topics": []
+            },
             "https://github.com/lightaime/camel#data-hosted-on-hugging-face": {
                 "repository_name": "camel",
                 "user_name": "lightaime",
@@ -4402,6 +4471,27 @@
                     "llm",
                     "opensource"
                 ]
+            },
+            "https://github.com/mooler0410/llmspracticalguide": {
+                "repository_name": "LLMsPracticalGuide",
+                "user_name": "Mooler0410",
+                "language": null,
+                "license": null,
+                "description": "A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)",
+                "topics": [
+                    "large-language-models",
+                    "natural-language-processing",
+                    "nlp",
+                    "survey"
+                ]
+            },
+            "https://github.com/ingig/code-narrator": {
+                "repository_name": "code-narrator",
+                "user_name": "ingig",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Self documenting tool using GPT4. It also can document your project",
+                "topics": []
             }
         },
         "Langchain": {
@@ -7496,6 +7586,19 @@
                 "description": "gpt4all-j chat",
                 "topics": []
             },
+            "https://github.com/s0md3v/subgpt": {
+                "repository_name": "SubGPT",
+                "user_name": "s0md3v",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Find subdomains with GPT, for free",
+                "topics": [
+                    "recon",
+                    "scanner",
+                    "scanning",
+                    "subdomain"
+                ]
+            },
             "https://github.com/lewangdev/gost-install.ipynb": {
                 "repository_name": "gost-install.ipynb",
                 "user_name": "lewangdev",
@@ -7528,6 +7631,19 @@
                 "description": "Example models using DeepSpeed",
                 "topics": []
             },
+            "https://github.com/farizrahman4u/loopgpt": {
+                "repository_name": "loopgpt",
+                "user_name": "farizrahman4u",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Modular Auto-GPT Framework",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "gpt4",
+                    "llms"
+                ]
+            },
             "https://github.com/ttengwang/caption-anything": {
                 "repository_name": "Caption-Anything",
                 "user_name": "ttengwang",
@@ -7540,6 +7656,21 @@
                     "controllable-image-captioning",
                     "image-captioning",
                     "segment-anything"
+                ]
+            },
+            "https://github.com/aigc-audio/audiogpt": {
+                "repository_name": "AudioGPT",
+                "user_name": "AIGC-Audio",
+                "language": "Python",
+                "license": "Other",
+                "description": "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head",
+                "topics": [
+                    "audio",
+                    "gpt",
+                    "music",
+                    "sound",
+                    "speech",
+                    "talking-head"
                 ]
             }
         }
