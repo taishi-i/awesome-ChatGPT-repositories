@@ -15,32 +15,23 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - 精心整理了一些非常棒的安全工具,实验案例或其他与LLM或GPT有趣的事情.
-
 **Chatbots**
- * [autogpt-telegram-chatbot](https://github.com/steamship-packages/autogpt-telegram-chatbot) - 现在就来了! 您的手机可以使用Autogpt. 通过电报与您自己的Autogpt版本进行通信.
- * [pdfGPT](https://github.com/bhaskatripathi/pdfgpt) - 通过使用GPT功能,PDF GPT允许您与PDF文件的内容进行聊天.
-
-**Browser-extensions**
- * [tabSidian](https://github.com/cgranier/tabsidian) - tabSidian收集您开放的浏览器标签并将其转化为一个标记清单.
- * [Agent-LLM](https://github.com/josh-xt/agent-llm) - 人工智能自动化平台.来自各种供应商的AI指令管理,具有自适应性内存,以及具有多功能插件系统,包括网络浏览.支持许多AI供应商和模型,每天都在增长.
- * [AutoGPT-Next-Web](https://github.com/dogtiti/autogpt-next-web) -  在浏览器中组装,配置和部署自主AI代理.一键免费部署你的私人AutoGPT 网页应用
-
-**CLIs**
- * [commit-assist](https://github.com/dejorrit/commit-assist) - 使用ChatGPT自动生成提交消息
+ * [ChatFiles](https://github.com/guangzhengli/chatfiles) - 通过文件进行对话.
+ * [chatgpt-wework-robot](https://github.com/sytpb/chatgpt-wework-robot) - 零代码、一键部署chatgpt到企业微信,无需VPN,速度快
+ * [LocalAI](https://github.com/go-skynet/localai) - :robot:自主托管,社区驱动的简单本地OpenAI兼容API,用go编写.可作为OpenAI的替代程序,运行在CPU上,使用消费级硬件.
 
 **NLP**
- * [text2sql](https://github.com/ramiawar/text2sql) - 小型项目使用与SQL生成的背景的LLM
-
-**Langchain**
- * [Ask-Anything](https://github.com/opengvlab/ask-anything) - 支持视频理解的ChatGPT!还有更多支持的LM,如miniGPT4,StableLM和MOSS.
+ * [chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - 具有更好的UI的ChatGPT接口
+ * [chart-gpt](https://github.com/whoiskatrin/chart-gpt) - 基于文本输入构建图表的AI工具
+ * [LLMsPracticalGuide](https://github.com/mooler0410/llmspracticalguide) - 精心编制的LLM实用指导资源列表 (LLM树,示例,论文)
+ * [code-narrator](https://github.com/ingig/code-narrator) - 使用GPT4自行记录工具. 它还可以记录您的项目
 
 **Others**
- * [ChattyCaty](https://github.com/cyberark/chattycaty) - 聊天 - 斯工具,使用gpt模型创建多态程序.
- * [gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb) - 通过Jupyter笔记本安装GOST
+ * [SubGPT](https://github.com/s0md3v/subgpt) - 使用GPT搜索子域名,免费
+ * [loopgpt](https://github.com/farizrahman4u/loopgpt) - 模块化自动GPT框架
+ * [AudioGPT](https://github.com/aigc-audio/audiogpt) - 音频GPT:理解和产生语音,音乐,声音和说话头
 
-_Updated on April 28, 2023_ (A total of 639 repositories listed.)
+_Updated on May 01, 2023_ (A total of 648 repositories listed.)
 
 🏅 [RamiAwar](https://github.com/RamiAwar) and [dejorrit](https://github.com/dejorrit) provided some repository information. Thank you!
 
@@ -236,6 +227,7 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
  * [codemancer](https://github.com/0xmmo/codemancer) - 机器人编码助理在你的命令行.
  * [ChatGPT-CodeReview](https://github.com/anc95/chatgpt-codereview) -  一个由ChatGPT支持的代码检查机器人
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt) - 让我们在使用ChatGPT过程中更高效、更顺,完美解决ChatGPT网络错误,不再频繁地刷新网页,足足省去10个多余的步骤. 还可以取消后台监督审计. 解决了几类错误: (1) 获取资源时的网络错误. (2) 有什么问题. 如果问题持续,请通过help.openai.com的帮助中心联系我们. (3) 本内容可能违反我们的内容政策. (4) 对话未找到.
+ * [chatgpt-wework-robot](https://github.com/sytpb/chatgpt-wework-robot) - 零代码、一键部署chatgpt到企业微信,无需VPN,速度快
  * [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - 一个开源的ChatGPT用户界面.
  * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - 对于大型 PDF 文档,GPT4 和 LangChain 聊天机器人
  * [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - 一个开源的ChatGPT应用程序
@@ -251,12 +243,14 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
  * [speechgpt](https://github.com/hahahumble/speechgpt) - 通过使用 ChatGPT 进行对话.
  * [langchainjs](https://github.com/hwchase17/langchainjs) - 我们已经在 js 中实现了 autogpt,以及新的读写工具来写文件,这些工具可以由您的本地文件系统在node.js中以及所有其他 js环境中的内存文件系统支持. 我们将随着时间的推移而发展.
  * [chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - 通过支持的字体脚本复制chatlangchain (一个类似chatgpt的机器人, 仅回答有关langchain文档的问题). 据悉,
+ * [ChatFiles](https://github.com/guangzhengli/chatfiles) - 通过文件进行对话.
  * [friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - 通过赋予AI研发, 进行编程任务.
  * [telegram-chatgpt-concierge-bot](https://github.com/rafalwilinski/telegram-chatgpt-concierge-bot) - 通过电报和语音与OpenAI的ChatGPT互动.
  * [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - 运行自己的GPTChat电话机器人, 一个命令!
  * [gitgpt](https://github.com/hesse/gitgpt) - 一个自然语言命令行git助理.
  * [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - 运行自己的GPTChat Discord机器人, 只需一个命令!
  * [larkgpt](https://github.com/bytemate/larkgpt) - 鱼聊天机器人
+ * [LocalAI](https://github.com/go-skynet/localai) - :robot:自主托管,社区驱动的简单本地OpenAI兼容API,用go编写.可作为OpenAI的替代程序,运行在CPU上,使用消费级硬件.
  * [gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - 这是一个旨在提供关于解锁OpenAI GPT语言模型的更新的存储库.
  * [chat-gpt](https://github.com/jcubic/chat-gpt) - 保存ChatGPT对话书签
  * [chatgpt-android](https://github.com/skydoves/chatgpt-android) -  ChatGPT Android 展示了 OpenAI 在 Android 上的 ChatGPT,并使用了 Stream Chat SDK 进行编写.
@@ -319,6 +313,7 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
 |[codemancer](https://github.com/0xmmo/codemancer)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/0xmmo/codemancer?style=social)|
 |[ChatGPT-CodeReview](https://github.com/anc95/chatgpt-codereview)|JavaScript|ISC License|![GitHub Repo stars](https://img.shields.io/github/stars/anc95/ChatGPT-CodeReview?style=social)|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt)|JavaScript|GNU General Public License v2.0|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|
+|[chatgpt-wework-robot](https://github.com/sytpb/chatgpt-wework-robot)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/sytpb/chatgpt-wework-robot?style=social)|
 |[chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui?style=social)|
 |[gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain?style=social)|
 |[chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cogentapps/chat-with-gpt?style=social)|
@@ -334,12 +329,14 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
 |[speechgpt](https://github.com/hahahumble/speechgpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|
 |[langchainjs](https://github.com/hwchase17/langchainjs)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)|
 |[chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)|
+|[ChatFiles](https://github.com/guangzhengli/chatfiles)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)|
 |[friday-gpt](https://github.com/hmmhmmhm/friday-gpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hmmhmmhm/friday-gpt?style=social)|
 |[telegram-chatgpt-concierge-bot](https://github.com/rafalwilinski/telegram-chatgpt-concierge-bot)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/RafalWilinski/telegram-chatgpt-concierge-bot?style=social)|
 |[chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/m1guelpf/chatgpt-telegram?style=social)|
 |[gitgpt](https://github.com/hesse/gitgpt)|Go|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hesse/gitgpt?style=social)|
 |[chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/m1guelpf/chatgpt-discord?style=social)|
 |[larkgpt](https://github.com/bytemate/larkgpt)|Go|-|![GitHub Repo stars](https://img.shields.io/github/stars/bytemate/larkgpt?style=social)|
+|[LocalAI](https://github.com/go-skynet/localai)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/go-skynet/LocalAI?style=social)|
 |[gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status)|HTML|-|![GitHub Repo stars](https://img.shields.io/github/stars/tg12/gpt_jailbreak_status?style=social)|
 |[chat-gpt](https://github.com/jcubic/chat-gpt)|HTML|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/jcubic/chat-gpt?style=social)|
 |[chatgpt-android](https://github.com/skydoves/chatgpt-android)|Kotlin|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/chatgpt-android?style=social)|
@@ -683,7 +680,6 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
  * [hlb-gpt](https://github.com/tysam-code/hlb-gpt) - 简约,快速,实验友好的研究人员工具台,用于GPT类型的模型,在~<365行代码中.在一个A100上达到<3.8验证损失.
  * [hn_summary](https://github.com/jiggy-ai/hn_summary) - 总结了使用大型语言模型的黑客新闻的热门新闻, 并将其发布到电讯频道. 
  * [transformers](https://github.com/huggingface/transformers) - 变压器:为Pytorch,TensorFlow和JAX提供最先进的机器学习.
- * [ChatPaper](https://github.com/kaixindelele/chatpaper) - 使用ChatGPT总结ArXiv论文. 全流程加速科研,利用chatgpt进行论文总结+色+审稿+审稿回复
  * [self-instruct](https://github.com/yizhongw/self-instruct) - 调整预训练的语言模型与自行生成的指令数据.
  * [knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - 准确的答案和即时引用您的文件.
  * [lqae](https://github.com/lhao499/lqae) - 语言量化自动编码器
@@ -715,6 +711,7 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
  * [INSIGHT](https://github.com/oneil512/insight) - 视觉是一种自主的人工智能,
  * [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - 2O LLM Studio - 一个框架和无代码的GUI,用于精细调整LLM
  * [nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser) - 通过 NLP 实现, GPT-3 启用了从 PDF 转换为 JSON 的 Resume Parser. 
+ * [chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - 采用更好的UI的ChatGPT接口
  * [camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face) -  CAMEL: 心智的沟通代理人 探索大规模语言模型社会
  * [auto-redteam](https://github.com/traghav/auto-redteam) - 通过其他法规法规组织进行红组合作
  * [self-ask](https://github.com/ofirpress/self-ask) - "语言模型中测量和缩小构成差距"的代码和数据
@@ -735,6 +732,8 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
  * [minds](https://github.com/dosco/minds) - 创建人工智能工作流程
  * [text2sql](https://github.com/ramiawar/text2sql) - 小型项目使用与SQL生成的背景的LLM
  * [FreedomGPT](https://github.com/ohmplatform/freedomgpt) - 这种代码库是用于基于 React 和 Electron 的应用程序,它在 Mac 和 Windows 上本地 (离线和私有) 执行 FreedomGPT LLM,使用基于聊天的接口 (基于 Alpaca Lora)
+ * [chart-gpt](https://github.com/whoiskatrin/chart-gpt) - 基于文本输入构建图表的AI工具
+ * [code-narrator](https://github.com/ingig/code-narrator) - 使用GPT4自行记录工具. 它还可以记录您的项目
  * [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - 在当地开展一个调整了教程的聊天式LLM.
  * [ChatARKit](https://github.com/trzy/chatarkit) - 使用ChatGPT创建使用自然语言的AR体验.
  * [alpaca.cpp](https://github.com/rupeshs/alpaca.cpp) - 在本地运行一个指令调整式聊天式LLM (Android/Linux/Windows/Mac)
@@ -752,6 +751,7 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
  * [siri-chatgpt](https://github.com/liujch1998/siri-chatgpt) - 现在你可以把Siri变成真正的#chatgpt! 简单地将这个快捷方式 (链接在 repo ️) 下载到你的iPhone上,在快捷方式应用程序中编辑它的脚本 (即将API键粘贴到文本框中),然后说", Siri,chatgpt".
  * [gpt-jargon](https://github.com/jbrukh/gpt-jargon) - 术语是一种由LLMs (如GPT-4) 规定的自然语言编程语言.
  * [practical-llms](https://github.com/aggregate-intellect/practical-llms) - #aiscllmworkshop快速从零到危险的方法 (比如,能够自信地像chatgpt一样,
+ * [LLMsPracticalGuide](https://github.com/mooler0410/llmspracticalguide) - 精心编制的LLM实用指导资源列表 (LLM树,示例,论文)
 
 
 |Name|Language|License|GitHub Stars|
@@ -774,7 +774,6 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
 |[hlb-gpt](https://github.com/tysam-code/hlb-gpt)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/tysam-code/hlb-gpt?style=social)|
 |[hn_summary](https://github.com/jiggy-ai/hn_summary)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/jiggy-ai/hn_summary?style=social)|
 |[transformers](https://github.com/huggingface/transformers)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/transformers?style=social)|
-|[ChatPaper](https://github.com/kaixindelele/chatpaper)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social)|
 |[self-instruct](https://github.com/yizhongw/self-instruct)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/yizhongw/self-instruct?style=social)|
 |[knowledge_gpt](https://github.com/mmz-001/knowledge_gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)|
 |[lqae](https://github.com/lhao499/lqae)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/lhao499/lqae?style=social)|
@@ -806,6 +805,7 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
 |[INSIGHT](https://github.com/oneil512/insight)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/oneil512/INSIGHT?style=social)|
 |[h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social)|
 |[nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/hxu296/nlp-resume-parser?style=social)|
+|[chatgpt-clone](https://github.com/xtekky/chatgpt-clone)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/xtekky/chatgpt-clone?style=social)|
 |[camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lightaime/camel?style=social)|
 |[auto-redteam](https://github.com/traghav/auto-redteam)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/traghav/auto-redteam?style=social)|
 |[self-ask](https://github.com/ofirpress/self-ask)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/ofirpress/self-ask?style=social)|
@@ -826,6 +826,8 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
 |[minds](https://github.com/dosco/minds)|TypeScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/dosco/minds?style=social)|
 |[text2sql](https://github.com/ramiawar/text2sql)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/RamiAwar/text2sql?style=social)|
 |[FreedomGPT](https://github.com/ohmplatform/freedomgpt)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/ohmplatform/FreedomGPT?style=social)|
+|[chart-gpt](https://github.com/whoiskatrin/chart-gpt)|TypeScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/whoiskatrin/chart-gpt?style=social)|
+|[code-narrator](https://github.com/ingig/code-narrator)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/ingig/code-narrator?style=social)|
 |[alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/antimatter15/alpaca.cpp?style=social)|
 |[ChatARKit](https://github.com/trzy/chatarkit)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/trzy/ChatARKit?style=social)|
 |[alpaca.cpp](https://github.com/rupeshs/alpaca.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rupeshs/alpaca.cpp?style=social)|
@@ -843,6 +845,7 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
 |[siri-chatgpt](https://github.com/liujch1998/siri-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liujch1998/siri-chatgpt?style=social)|
 |[gpt-jargon](https://github.com/jbrukh/gpt-jargon)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jbrukh/gpt-jargon?style=social)|
 |[practical-llms](https://github.com/aggregate-intellect/practical-llms)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/Aggregate-Intellect/practical-llms?style=social)|
+|[LLMsPracticalGuide](https://github.com/mooler0410/llmspracticalguide)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Mooler0410/LLMsPracticalGuide?style=social)|
 
 
 ## Langchain
@@ -1144,9 +1147,12 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
  * [Image2Paragraph](https://github.com/showlab/image2paragraph) - 通过 ChatGPT,BLIP2,OFA,GRIT,任何部分,控制网将图像转换为独特段落.
  * [xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit) - 创建和试验BabyAGI/AutoGPT样式代理的Xircuits工具包
  * [celltypewriter](https://github.com/ntranoslab/celltypewriter) - 👉更新:现在可以使用#celltypewriter而不需要#gpt4API键. 我们已经设置了一个#免费版本,
+ * [SubGPT](https://github.com/s0md3v/subgpt) - 使用GPT搜索子域名,免费
  * [AutoGPT-FR](https://github.com/mikiane/autogpt-fr) - 车辆的法语版本
  * [DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples) - 使用DeepSpeed的示例模型
+ * [loopgpt](https://github.com/farizrahman4u/loopgpt) - 模块化自动GPT框架
  * [Caption-Anything](https://github.com/ttengwang/caption-anything) - 字幕-任何东西是一个多功能工具,结合图像细分,视觉字幕和ChatGPT,生成针对用户偏好的各种控制的自定义字幕.
+ * [AudioGPT](https://github.com/aigc-audio/audiogpt) - 音频GPT:理解和产生语音,音乐,声音和说话头
  * [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - 机器学习项目包括ML/DL项目,笔记本,ML/DL的作弊代码,有关AI/AGI的有用信息以及有提示的代码或片段/脚本/任务.
  * [data-winners](https://github.com/frontanalyticsinc/data-winners) - 一个免费的python和R脚本的集合,用于网站开发,分析和优化.包括高级资源,用于当前权威和语义内容优化.
  * [critique-apps](https://github.com/inspired-cognition/critique-apps) - 应用程序使用"灵感认知"的批判.
@@ -1321,9 +1327,12 @@ _Updated on April 28, 2023_ (A total of 639 repositories listed.)
 |[Image2Paragraph](https://github.com/showlab/image2paragraph)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/showlab/Image2Paragraph?style=social)|
 |[xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/XpressAI/xai-gpt-agent-toolkit?style=social)|
 |[celltypewriter](https://github.com/ntranoslab/celltypewriter)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ntranoslab/celltypewriter?style=social)|
+|[SubGPT](https://github.com/s0md3v/subgpt)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/s0md3v/SubGPT?style=social)|
 |[AutoGPT-FR](https://github.com/mikiane/autogpt-fr)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mikiane/AutoGPT-FR?style=social)|
 |[DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples?style=social)|
+|[loopgpt](https://github.com/farizrahman4u/loopgpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/farizrahman4u/loopgpt?style=social)|
 |[Caption-Anything](https://github.com/ttengwang/caption-anything)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/ttengwang/Caption-Anything?style=social)|
+|[AudioGPT](https://github.com/aigc-audio/audiogpt)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)|
 |[Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness?style=social)|
 |[data-winners](https://github.com/frontanalyticsinc/data-winners)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/FrontAnalyticsInc/data-winners?style=social)|
 |[critique-apps](https://github.com/inspired-cognition/critique-apps)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/inspired-cognition/critique-apps?style=social)|
