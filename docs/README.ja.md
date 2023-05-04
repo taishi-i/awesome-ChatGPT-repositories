@@ -31,16 +31,20 @@
 
 
 **NLP**
+ * [happycommit](https://github.com/jackbackes/happycommit) - HappyCommitは、OpenAIのGPT-3.5 Turbo言語モデルの力を活用して、意味のあるGitコミットメッセージを生成する楽しいツールです。
  * [JamesGPT](https://github.com/jconorgrogan/jamesgpt) - ChatGPTのジェイルブレイク：未来を予測し、政治や論争のあるトピックに意見を述べ、真実を評価することができます。LLMバイアスについてより理解するのに役立つかもしれません。
  * [ChatPaper](https://github.com/kaixindelele/chatpaper) - ChatGPTを使用してarXiv論文を要約する。ChatGPTを利用して論文の要約、編集、査読、査読返信を行い、研究プロセス全体を加速します。
  * [minichain](https://github.com/srush/minichain) - LSTMエンコーダ/デコーダとアテンションを使用したシーケンス・ツー・シーケンスモデル
 
 
 **Others**
+ * [AlitaAI](https://github.com/alita-ai/alitaai) - #notion #chatgpt #AlitaAI が1ヶ月かかってようやく完成しました。ChatGPTと一緒に製品/デザイン/フロントエンド/バックエンドを担当しています。新人ですが、Alita AI（notionに保存）をフォローしてください。Alita AIは、NotionとChatGPTに基づく人工知能アシスタントで、段階的に学習し、知識フラグメントを自動的に効率的に入力することができます。先行版：
  * [2048](https://github.com/inishchith/2048) - また別の2048ですが、今回はGPTによって制御されています。
 
 
-_Updated on May 05, 2023_ (A total of 658 repositories listed.)
+_Updated on May 05, 2023_ (A total of 660 repositories listed.)
+
+🏅 [jackbackes](https://github.com/jackbackes) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -92,7 +96,7 @@ _Updated on May 05, 2023_ (A total of 658 repositories listed.)
 |[awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)|-|Other|![GitHub Repo stars](https://img.shields.io/github/stars/eon01/awesome-chatgpt?style=social)|
 |[awesome-gpt4](https://github.com/taranjeet/awesome-gpt4)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/taranjeet/awesome-gpt4?style=social)|
 |[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/cckuailong/awesome-gpt-security?style=social)|
-|[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|None|None|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|
+|[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|
 
 
 ## Prompts
@@ -189,7 +193,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[ResearchChatGPT](https://github.com/hollobit/researchchatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/ResearchChatGPT?style=social)|
 |[FinGPT](https://github.com/ai4finance-foundation/fingpt)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ai4finance-foundation/FinGPT?style=social)|
 |[aish](https://github.com/aishell-io/aish)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aishell-io/aish?style=social)|
-|[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|None|None|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|
+|[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|
 
 
 ## Chatbots
@@ -507,10 +511,10 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[burpgpt](https://github.com/aress31/burpgpt)|Java|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/aress31/burpgpt?style=social)|
 |[openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/1997roylee/openai-chatgpt-everywhere-extension?style=social)|
 |[awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-chatgpt-plugins?style=social)|
-|[Chrome-GPT](https://github.com/richardyc/chrome-gpt)|Python|{'key': 'gpl-3.0', 'name': 'GNU General Public License v3.0', 'spdx_id': 'GPL-3.0', 'url': 'https://api.github.com/licenses/gpl-3.0', 'node_id': 'MDc6TGljZW5zZTk='}|![GitHub Repo stars](https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social)|
-|[Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin)|Python|{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-MetaTrader-Plugin?style=social)|
-|[Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins)|Python|{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}|![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT-Plugins?style=social)|
-|[nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter)|TypeScript|None|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/nextjs-chatgpt-plugin-starter?style=social)|
+|[Chrome-GPT](https://github.com/richardyc/chrome-gpt)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social)|
+|[Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-MetaTrader-Plugin?style=social)|
+|[Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT-Plugins?style=social)|
+|[nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/nextjs-chatgpt-plugin-starter?style=social)|
 
 
 ## CLIs
@@ -773,6 +777,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [siri-chatgpt](https://github.com/liujch1998/siri-chatgpt) - 今、あなたはSiriを本物の#chatgptに変換することができます！単にこのショートカット（リポジトリ内のリンク⬇️）をあなたのiPhoneにダウンロードし、ショートカットアプリでスクリプトを編集して（つまり、APIキーをテキストボックスに貼り付ける）、そして、「ヘイSiri、chatgpt」と言ってください。お気に入りの質問をしてください！
  * [gpt-jargon](https://github.com/jbrukh/gpt-jargon) - ジャーゴンは、GPT-4のようなLLMによって指定され、実行される自然言語プログラミング言語です。
  * [practical-llms](https://github.com/aggregate-intellect/practical-llms) - #aiscllmworkshopは、チャットGPTのように自信を持って話をできるようになるための迅速な方法であり、最新かつ最高のLLMでアイデアから製品に移行する方法を迅速に学ぶための9時間連続の1時間のプレゼンテーションがあります！
+ * [happycommit](https://github.com/jackbackes/happycommit) - HappyCommitは、OpenAIのGPT-3.5 Turbo言語モデルの力を活用して、意味のあるGitコミットメッセージを生成する楽しいツールです。
  * [JamesGPT](https://github.com/jconorgrogan/jamesgpt) - ChatGPTのジェイルブレイク：未来を予測し、政治や論争のあるトピックに意見を述べ、真実を評価することができます。LLMバイアスについてより理解するのに役立つかもしれません。
  * [ChatPaper](https://github.com/kaixindelele/chatpaper) - ChatGPTを使用してarXiv論文を要約する。ChatGPTを利用して論文の要約、編集、査読、査読返信を行い、研究プロセス全体を加速します。
  * [minichain](https://github.com/srush/minichain) - LSTMエンコーダ/デコーダとアテンションを使用したシーケンス・ツー・シーケンスモデル
@@ -868,9 +873,10 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[siri-chatgpt](https://github.com/liujch1998/siri-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liujch1998/siri-chatgpt?style=social)|
 |[gpt-jargon](https://github.com/jbrukh/gpt-jargon)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jbrukh/gpt-jargon?style=social)|
 |[practical-llms](https://github.com/aggregate-intellect/practical-llms)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/aggregate-intellect/practical-llms?style=social)|
-|[JamesGPT](https://github.com/jconorgrogan/jamesgpt)|None|None|![GitHub Repo stars](https://img.shields.io/github/stars/jconorgrogan/JamesGPT?style=social)|
-|[ChatPaper](https://github.com/kaixindelele/chatpaper)|Python|{'key': 'other', 'name': 'Other', 'spdx_id': 'NOASSERTION', 'url': None, 'node_id': 'MDc6TGljZW5zZTA='}|![GitHub Repo stars](https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social)|
-|[minichain](https://github.com/srush/minichain)|Lua|{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}|![GitHub Repo stars](https://img.shields.io/github/stars/srush/minichain?style=social)|
+|[happycommit](https://github.com/jackbackes/happycommit)|Rust|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/jackbackes/happycommit?style=social)|
+|[JamesGPT](https://github.com/jconorgrogan/jamesgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jconorgrogan/JamesGPT?style=social)|
+|[ChatPaper](https://github.com/kaixindelele/chatpaper)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social)|
+|[minichain](https://github.com/srush/minichain)|Lua|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/srush/minichain?style=social)|
 
 
 ## Langchain
@@ -1285,6 +1291,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [AI-Twitter-History](https://github.com/jtmuller5/ai-twitter-history) - ChatGPTは良いですが、使い方がわかりません。
  * [gpt-legion](https://github.com/eumemic/gpt-legion) - 輝くブロックチェーンノード（RXD）- SHA512/256 プルーフ・オブ・ワーク
  * [JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset) - このデータセットには、中国のポッドキャスト「JinJinLeDao」の281エピソードから抽出された18,000以上の中国語の質問と回答のペアが含まれています。
+ * [AlitaAI](https://github.com/alita-ai/alitaai) - #notion #chatgpt #AlitaAI が1ヶ月かかってようやく完成しました。ChatGPTと一緒に製品/デザイン/フロントエンド/バックエンドを担当しています。新人ですが、Alita AI（notionに保存）をフォローしてください。Alita AIは、NotionとChatGPTに基づく人工知能アシスタントで、段階的に学習し、知識フラグメントを自動的に効率的に入力することができます。先行版：
  * [2048](https://github.com/inishchith/2048) - また別の2048ですが、今回はGPTによって制御されています。
 
 
@@ -1462,6 +1469,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[AI-Twitter-History](https://github.com/jtmuller5/ai-twitter-history)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jtmuller5/AI-Twitter-History?style=social)|
 |[gpt-legion](https://github.com/eumemic/gpt-legion)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/gpt-legion?style=social)|
 |[JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tech-podcasts/JinJinLeDao_QA_Dataset?style=social)|
-|[2048](https://github.com/inishchith/2048)|JavaScript|{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}|![GitHub Repo stars](https://img.shields.io/github/stars/inishchith/2048?style=social)|
+|[AlitaAI](https://github.com/alita-ai/alitaai)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Alita-ai/AlitaAI?style=social)|
+|[2048](https://github.com/inishchith/2048)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/inishchith/2048?style=social)|
 
 
