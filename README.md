@@ -11,32 +11,44 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
+[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
-[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/README.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ChatFiles](https://github.com/guangzhengli/chatfiles) - Have a conversation with files ｜与你的文件对话
- * [chatgpt-wework-robot](https://github.com/sytpb/chatgpt-wework-robot) - 零代码、一键部署chatgpt到企业微信，无须VPN，速度快
- * [LocalAI](https://github.com/go-skynet/localai) - :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras
+**Awesome-lists**
+ * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - A collection of awesome GPT4 prompts
+
+
+**Prompts**
+ * [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+
+
+**Browser-extensions**
+ * [Chrome-GPT](https://github.com/richardyc/chrome-gpt) - An AutoGPT agent that controls Chrome on your desktop
+ * [Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin) - The AutoGPT MetaTrader Plugin is a software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.
+ * [Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins) - Plugins for Auto-GPT
+ * [nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter) - ChatGPT plugin starter project using Next.js
+
 
 **NLP**
- * [chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
- * [chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
- * [LLMsPracticalGuide](https://github.com/mooler0410/llmspracticalguide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
- * [code-narrator](https://github.com/ingig/code-narrator) - Self documenting tool using GPT4. It also can document your project
+ * [happycommit](https://github.com/jackbackes/happycommit) - HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you.
+ * [JamesGPT](https://github.com/jconorgrogan/jamesgpt) - Jailbreak for ChatGPT: Predict the future, opine on politics and controversial topics, and assess what is true. May help us understand more about LLM Bias
+ * [ChatPaper](https://github.com/kaixindelele/chatpaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
+ * [minichain](https://github.com/srush/minichain) - Sequence-to-sequence model with LSTM encoder/decoders and attention
+
 
 **Others**
- * [SubGPT](https://github.com/s0md3v/subgpt) - Find subdomains with GPT, for free
- * [loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
- * [AudioGPT](https://github.com/aigc-audio/audiogpt) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+ * [AlitaAI](https://github.com/alita-ai/alitaai) - #notion #chatgpt #AlitaAI 肝了一个月终于出来了，和 ChatGPT 一起产品/设计/前后端 ，新人求关注Alita AI（save to notion）是一款基于 Notion、ChatGPT 的人工智能助手， 能帮你渐进式学习、自动化高效录入知识片段抢先版： 
+ * [2048](https://github.com/inishchith/2048) - yet another 2048, but this time it's controlled by GPT
 
-_Updated on May 01, 2023_ (A total of 648 repositories listed.)
 
-🏅 [RamiAwar](https://github.com/RamiAwar) and [dejorrit](https://github.com/dejorrit) provided some repository information. Thank you!
+_Updated on May 05, 2023_ (A total of 660 repositories listed.)
+
+🏅 [jackbackes](https://github.com/jackbackes) provided some repository information. Thank you!
 
 ## Table of contents
+
  * [Awesome-lists](#Awesome-lists)
  * [Prompts](#Prompts)
  * [Chatbots](#Chatbots)
@@ -52,7 +64,6 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 
 *Each content is under consideration, so there is a possibility that the contents may change in the future. Additionally, other content will be categorized in the future.*
 
-
 ## Awesome-lists
 
  * [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
@@ -64,10 +75,11 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt) - An awesome repository of community-curated applications of ChatGPT and other LLMs im computational biology
  * [awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt) - ⚡ Everything about ChatGPT
  * [awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt) - Selected ChatGPT demos, tools, articles, and more ✨
- * [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 
+ * [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
  * [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - 🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.
  * [awesome-gpt4](https://github.com/taranjeet/awesome-gpt4) - Curated list of awesome resources, use cases and demos for GPT-4
  * [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
+ * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - A collection of awesome GPT4 prompts
 
 
 |Name|Language|License|GitHub Stars|
@@ -76,15 +88,16 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)|HTML|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/f/awesome-chatgpt-prompts?style=social)|
 |[awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/humanloop/awesome-chatgpt?style=social)|
 |[awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/nichtdax/awesome-totally-open-chatgpt?style=social)|
-|[awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/PlexPt/awesome-chatgpt-prompts-zh?style=social)|
+|[awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/plexpt/awesome-chatgpt-prompts-zh?style=social)|
 |[Awesome-ChatGPT](https://github.com/dalinvip/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/dalinvip/Awesome-ChatGPT?style=social)|
 |[awesome-compbio-chatgpt](https://github.com/csbl-br/awesome-compbio-chatgpt)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/csbl-br/awesome-compbio-chatgpt?style=social)|
-|[awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/OpenMindClub/awesome-chatgpt?style=social)|
+|[awesome-chatgpt](https://github.com/openmindclub/awesome-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/openmindclub/awesome-chatgpt?style=social)|
 |[awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/saharmor/awesome-chatgpt?style=social)|
 |[awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/awesome-chatgpt-zh?style=social)|
 |[awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)|-|Other|![GitHub Repo stars](https://img.shields.io/github/stars/eon01/awesome-chatgpt?style=social)|
 |[awesome-gpt4](https://github.com/taranjeet/awesome-gpt4)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/taranjeet/awesome-gpt4?style=social)|
 |[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/cckuailong/awesome-gpt-security?style=social)|
+|[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|None|None|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|
 
 
 ## Prompts
@@ -111,7 +124,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [Prompt-hunter](https://github.com/op7418/prompt-hunter) - Save the Prompt and images from the Midjourney details page to your Notion page
  * [chatbox](https://github.com/bin-huang/chatbox) - A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux.  开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用
  * [ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut) - Maximize your efficiency and productivity. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
- * [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
+ * [promptable](https://github.com/cfortuner/promptable) - Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
  * [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/chatgpt3-free-prompt-list) - A free guide for learning to create ChatGPT3 Prompts
  * [prompt-engine](https://github.com/microsoft/prompt-engine) - Create apps with Figma
  * [ChatGPT-Siri](https://github.com/yue-yang/chatgpt-siri) - Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。
@@ -122,7 +135,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [CWK-ChatGPT-MidJourney-Prompt-Template](https://github.com/neobundy/cwk-chatgpt-midjourney-prompt-template) - cwk-chatgpt-midjourney-prompt-template v1.2probably the last version: 23 prompt types supported.i will switch to an object oriented approach: a complete rewrite. it will work better with chatgpt.there's a 1.2 light branch in the repo dropping a few …
  * [chatgpt-prompts-bug-bounty](https://github.com/taksec/chatgpt-prompts-bug-bounty) - ChatGPT Prompts for Bug Bounty & Pentesting
  * [Share-to-ChatGPT-Shortcut](https://github.com/reorx/share-to-chatgpt-shortcut) - An Apple Shortcut for sharing text to ChatGPT using personalized prompts
- * [ChatGPT-Prompts](https://github.com/prathamkumar14/chatgpt-prompts) - AI is taking over slowly. Here are some use ChatGPT/API prompts that help you unlock 100% of your productivity. 
+ * [ChatGPT-Prompts](https://github.com/prathamkumar14/chatgpt-prompts) - AI is taking over slowly. Here are some use ChatGPT/API prompts that help you unlock 100% of your productivity.
  * [soren](https://github.com/jacksonmills/soren) - SorenCAI is an AI software engineer assistant prompt
  * [chatbot-injections-exploits](https://github.com/cranot/chatbot-injections-exploits) - ChatBot Injection and Exploit Examples: A Curated List of Prompt Engineer Commands - ChatGPT
  * [ai-notes](https://github.com/sw-yx/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
@@ -131,6 +144,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - 50 use cases of ChatGPT for research work
  * [FinGPT](https://github.com/ai4finance-foundation/fingpt) - Open-source for open finance!  Revolutionize 🔥
  * [aish](https://github.com/aishell-io/aish) - A ChatGPT CLI with local storage for prompts and messages.
+ * [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 
 
 |Name|Language|License|GitHub Stars|
@@ -139,12 +153,12 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[myGPTReader](https://github.com/madawei2699/mygptreader)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/madawei2699/myGPTReader?style=social)|
 |[PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PromptCraft-Robotics?style=social)|
 |[chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/fullthom/chat-gpt-quine?style=social)|
-|[blender_jarvis](https://github.com/dene33/blender_jarvis)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/Dene33/blender_jarvis?style=social)|
+|[blender_jarvis](https://github.com/dene33/blender_jarvis)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/dene33/blender_jarvis?style=social)|
 |[Promptify](https://github.com/promptslab/promptify)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/promptslab/Promptify?style=social)|
 |[SchemaGPT](https://github.com/u-hubar/schemagpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/u-hubar/SchemaGPT?style=social)|
-|[CaFo](https://github.com/zrrskywalker/cafo)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/ZrrSkywalker/CaFo?style=social)|
+|[CaFo](https://github.com/zrrskywalker/cafo)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/zrrskywalker/CaFo?style=social)|
 |[gpt3-interview-bot](https://github.com/promptable/gpt3-interview-bot)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/promptable/gpt3-interview-bot?style=social)|
-|[ama_prompting](https://github.com/hazyresearch/ama_prompting)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/HazyResearch/ama_prompting?style=social)|
+|[ama_prompting](https://github.com/hazyresearch/ama_prompting)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/hazyresearch/ama_prompting?style=social)|
 |[LMOps](https://github.com/microsoft/lmops)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LMOps?style=social)|
 |[bark](https://github.com/suno-ai/bark)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/suno-ai/bark?style=social)|
 |[Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=social)|
@@ -155,28 +169,29 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[ChatGPT-Adventure](https://github.com/capnmidnight/chatgpt-adventure)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/capnmidnight/ChatGPT-Adventure?style=social)|
 |[chatgpt-text-to-midjourney-image](https://github.com/barretlee/chatgpt-text-to-midjourney-image)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/barretlee/chatgpt-text-to-midjourney-image?style=social)|
 |[Prompt-hunter](https://github.com/op7418/prompt-hunter)|JavaScript|GNU General Public License v2.0|![GitHub Repo stars](https://img.shields.io/github/stars/op7418/Prompt-hunter?style=social)|
-|[chatbox](https://github.com/bin-huang/chatbox)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Bin-Huang/chatbox?style=social)|
+|[chatbox](https://github.com/bin-huang/chatbox)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/bin-huang/chatbox?style=social)|
 |[ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut?style=social)|
 |[promptable](https://github.com/cfortuner/promptable)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cfortuner/promptable?style=social)|
 |[ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/chatgpt3-free-prompt-list)|Ruby|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mattnigh/ChatGPT3-Free-Prompt-List?style=social)|
 |[prompt-engine](https://github.com/microsoft/prompt-engine)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/prompt-engine?style=social)|
-|[ChatGPT-Siri](https://github.com/yue-yang/chatgpt-siri)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Yue-Yang/ChatGPT-Siri?style=social)|
+|[ChatGPT-Siri](https://github.com/yue-yang/chatgpt-siri)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/yue-yang/ChatGPT-Siri?style=social)|
 |[The-HustleGPT-Challenge](https://github.com/jtmuller5/the-hustlegpt-challenge)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jtmuller5/The-HustleGPT-Challenge?style=social)|
 |[docsgpt](https://github.com/arc53/docsgpt)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/arc53/docsgpt?style=social)|
 |[chatgpt-prompts](https://github.com/carterleffen/chatgpt-prompts)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/carterleffen/chatgpt-prompts?style=social)|
 |[ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/chatgpt-data-science-prompts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/travistangvh/ChatGPT-Data-Science-Prompts?style=social)|
 |[CWK-ChatGPT-MidJourney-Prompt-Template](https://github.com/neobundy/cwk-chatgpt-midjourney-prompt-template)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/neobundy/CWK-ChatGPT-MidJourney-Prompt-Template?style=social)|
-|[chatgpt-prompts-bug-bounty](https://github.com/taksec/chatgpt-prompts-bug-bounty)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TakSec/chatgpt-prompts-bug-bounty?style=social)|
+|[chatgpt-prompts-bug-bounty](https://github.com/taksec/chatgpt-prompts-bug-bounty)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/taksec/chatgpt-prompts-bug-bounty?style=social)|
 |[Share-to-ChatGPT-Shortcut](https://github.com/reorx/share-to-chatgpt-shortcut)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reorx/Share-to-ChatGPT-Shortcut?style=social)|
-|[ChatGPT-Prompts](https://github.com/prathamkumar14/chatgpt-prompts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/PrathamKumar14/ChatGPT-Prompts?style=social)|
-|[soren](https://github.com/jacksonmills/soren)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Jacksonmills/soren?style=social)|
-|[chatbot-injections-exploits](https://github.com/cranot/chatbot-injections-exploits)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Cranot/chatbot-injections-exploits?style=social)|
+|[ChatGPT-Prompts](https://github.com/prathamkumar14/chatgpt-prompts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/prathamkumar14/ChatGPT-Prompts?style=social)|
+|[soren](https://github.com/jacksonmills/soren)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jacksonmills/soren?style=social)|
+|[chatbot-injections-exploits](https://github.com/cranot/chatbot-injections-exploits)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/cranot/chatbot-injections-exploits?style=social)|
 |[ai-notes](https://github.com/sw-yx/ai-notes)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/sw-yx/ai-notes?style=social)|
 |[squidgy-prompts](https://github.com/squidgyai/squidgy-prompts)|-|Creative Commons Attribution Share Alike 4.0 International|![GitHub Repo stars](https://img.shields.io/github/stars/squidgyai/squidgy-prompts?style=social)|
 |[ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/0xk1h0/ChatGPT_DAN?style=social)|
 |[ResearchChatGPT](https://github.com/hollobit/researchchatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/ResearchChatGPT?style=social)|
-|[FinGPT](https://github.com/ai4finance-foundation/fingpt)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT?style=social)|
+|[FinGPT](https://github.com/ai4finance-foundation/fingpt)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ai4finance-foundation/FinGPT?style=social)|
 |[aish](https://github.com/aishell-io/aish)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aishell-io/aish?style=social)|
+|[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|None|None|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|
 
 
 ## Chatbots
@@ -244,11 +259,10 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [speechgpt](https://github.com/hahahumble/speechgpt) - SpeechGPT is a web application that enables you to converse with ChatGPT.
  * [langchainjs](https://github.com/hwchase17/langchainjs) - we've implemented autogpt in js, along with new read and write tools to write files, which can be backed by both your local filesystem in node.js as well as an in-memory filesystem in all other js envs. we'll be evolving this over time. example here
  * [chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs) - replicating chatlangchain (a chatgpt-like bot that only answers questions about langchain documentation) with a typescript backed  heard @swyx is having a hackathon later today. hopefully this can serve as a starting point for some projects there!
- * [ChatFiles](https://github.com/guangzhengli/chatfiles) - Have a conversation with files ｜与你的文件对话
  * [friday-gpt](https://github.com/hmmhmmhm/friday-gpt) - A.I 에게 R&R을 부여해서 프로그래밍 업무를 진행시킵니다.
  * [telegram-chatgpt-concierge-bot](https://github.com/rafalwilinski/telegram-chatgpt-concierge-bot) - Interact with OpenAI's ChatGPT via Telegram and Voice.
  * [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
- * [gitgpt](https://github.com/hesse/gitgpt) - A natural language command line git assistant 
+ * [gitgpt](https://github.com/hesse/gitgpt) - A natural language command line git assistant
  * [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) - Run your own GPTChat Discord bot, with a single command!
  * [larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
  * [LocalAI](https://github.com/go-skynet/localai) - :robot: Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras
@@ -259,7 +273,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [chatgpt](https://github.com/jcrodriguez1989/chatgpt) - Interface to ChatGPT from R
  * [ChatdollKit](https://github.com/uezo/chatdollkit) - ChatdollKit enables you to make your 3D model into a chatbot
  * [unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge) - unity上からvoicevoxと連携して合成音声を簡単に再生できるシンプルなライブラリ作ってみました！chatgpt apiとかのお供に！
- * [gortanagtp](https://github.com/dasdata/gortanagtp) - Console Application with Voice and Text Interaction Latest ChatGPT API 
+ * [gortanagtp](https://github.com/dasdata/gortanagtp) - Console Application with Voice and Text Interaction Latest ChatGPT API
  * [HeyChatGPT](https://github.com/ynagatomo/heychatgpt) - A minimal iOS app that interacts with ChatGPT by your voice.
  * [glowby](https://github.com/glowbom/glowby) - Glowby Basic helps you create your own voice-based AI assistants.
  * [wechatbot](https://github.com/djun/wechatbot) - 为个人微信接入ChatGPT
@@ -268,22 +282,22 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[gpt4all](https://github.com/nomic-ai/gpt4all)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)|
-|[Open-Assistant](https://github.com/laion-ai/open-assistant)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social)|
+|[Open-Assistant](https://github.com/laion-ai/open-assistant)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/laion-ai/Open-Assistant?style=social)|
 |[FastChat](https://github.com/lm-sys/fastchat)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)|
 |[kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/robusta-dev/kubernetes-chatgpt-bot?style=social)|
 |[chatGPT-telegram-bot](https://github.com/altryne/chatgpt-telegram-bot)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/altryne/chatGPT-telegram-bot?style=social)|
 |[chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/karfly/chatgpt_telegram_bot?style=social)|
-|[ChatRWKV](https://github.com/blinkdl/chatrwkv)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/BlinkDL/ChatRWKV?style=social)|
-|[ChatGPT-at-Home](https://github.com/sentdex/chatgpt-at-home)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/ChatGPT-at-Home?style=social)|
-|[ChuanhuChatGPT](https://github.com/gaizhenbiao/chuanhuchatgpt)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social)|
-|[GPT3Discord](https://github.com/kav-k/gpt3discord)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Kav-K/GPT3Discord?style=social)|
+|[ChatRWKV](https://github.com/blinkdl/chatrwkv)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/blinkdl/ChatRWKV?style=social)|
+|[ChatGPT-at-Home](https://github.com/sentdex/chatgpt-at-home)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/sentdex/ChatGPT-at-Home?style=social)|
+|[ChuanhuChatGPT](https://github.com/gaizhenbiao/chuanhuchatgpt)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/gaizhenbiao/ChuanhuChatGPT?style=social)|
+|[GPT3Discord](https://github.com/kav-k/gpt3discord)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kav-k/GPT3Discord?style=social)|
 |[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/zhayujie/chatgpt-on-wechat?style=social)|
 |[ChatGPT-in-Slack](https://github.com/seratch/chatgpt-in-slack)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/seratch/ChatGPT-in-Slack?style=social)|
 |[gpt-discord-bot](https://github.com/openai/gpt-discord-bot)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/gpt-discord-bot?style=social)|
 |[chatgpt-slackbot](https://github.com/sifue/chatgpt-slackbot)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/sifue/chatgpt-slackbot?style=social)|
-|[chatGPT-discord-bot](https://github.com/zero6992/chatgpt-discord-bot)|Python|GNU General Public License v2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Zero6992/chatGPT-discord-bot?style=social)|
-|[vrchatbot](https://github.com/geson-anko/vrchatbot)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Geson-anko/vrchatbot?style=social)|
-|[Blender-GPT](https://github.com/tree-ind/blender-gpt)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/TREE-Ind/Blender-GPT?style=social)|
+|[chatGPT-discord-bot](https://github.com/zero6992/chatgpt-discord-bot)|Python|GNU General Public License v2.0|![GitHub Repo stars](https://img.shields.io/github/stars/zero6992/chatGPT-discord-bot?style=social)|
+|[vrchatbot](https://github.com/geson-anko/vrchatbot)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/geson-anko/vrchatbot?style=social)|
+|[Blender-GPT](https://github.com/tree-ind/blender-gpt)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/tree-ind/Blender-GPT?style=social)|
 |[dolly](https://github.com/databrickslabs/dolly)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/databrickslabs/dolly?style=social)|
 |[chatgpt-failures](https://github.com/giuven95/chatgpt-failures)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/giuven95/chatgpt-failures?style=social)|
 |[researchgpt](https://github.com/mukulpatnaik/researchgpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mukulpatnaik/researchgpt?style=social)|
@@ -292,22 +306,22 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[ChatGeoPT](https://github.com/earth-genome/chatgeopt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/earth-genome/ChatGeoPT?style=social)|
 |[ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/krecicki/ChatGPT-Trading-Bot-for-KuCoin?style=social)|
 |[vocode-python](https://github.com/vocodedev/vocode-python)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/vocodedev/vocode-python?style=social)|
-|[marvin](https://github.com/prefecthq/marvin)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/marvin?style=social)|
+|[marvin](https://github.com/prefecthq/marvin)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/prefecthq/marvin?style=social)|
 |[baize](https://github.com/project-baize/baize)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/project-baize/baize?style=social)|
 |[baize-chatbot](https://github.com/project-baize/baize-chatbot)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/project-baize/baize-chatbot?style=social)|
 |[gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all-ui?style=social)|
 |[yolopandas](https://github.com/ccurme/yolopandas)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ccurme/yolopandas?style=social)|
-|[ChatDoctor](https://github.com/kent0n-li/chatdoctor)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Kent0n-Li/ChatDoctor?style=social)|
+|[ChatDoctor](https://github.com/kent0n-li/chatdoctor)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/kent0n-li/ChatDoctor?style=social)|
 |[gpt4free](https://github.com/xtekky/gpt4free)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/xtekky/gpt4free?style=social)|
 |[Auto-GPT-ZH](https://github.com/kaqijiang/auto-gpt-zh)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kaqijiang/Auto-GPT-ZH?style=social)|
 |[voice-generator-webui](https://github.com/log1stics/voice-generator-webui)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/log1stics/voice-generator-webui?style=social)|
 |[autogpt-telegram-chatbot](https://github.com/steamship-packages/autogpt-telegram-chatbot)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/autogpt-telegram-chatbot?style=social)|
 |[pdfGPT](https://github.com/bhaskatripathi/pdfgpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/bhaskatripathi/pdfGPT?style=social)|
-|[Navi](https://github.com/ssgorg/navi)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/SSGOrg/Navi?style=social)|
-|[chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hello-SimpleAI/chatgpt-comparison-detection?style=social)|
-|[hackGPT](https://github.com/nodatafound/hackgpt)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/NoDataFound/hackGPT?style=social)|
-|[talk-to-chatgpt](https://github.com/c-nedelcu/talk-to-chatgpt)|JavaScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/C-Nedelcu/talk-to-chatgpt?style=social)|
-|[ChatGPT-Telegram-Workers](https://github.com/tbxark/chatgpt-telegram-workers)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TBXark/ChatGPT-Telegram-Workers?style=social)|
+|[Navi](https://github.com/ssgorg/navi)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/ssgorg/Navi?style=social)|
+|[chatgpt-comparison-detection](https://github.com/hello-simpleai/chatgpt-comparison-detection)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/hello-simpleai/chatgpt-comparison-detection?style=social)|
+|[hackGPT](https://github.com/nodatafound/hackgpt)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/nodatafound/hackGPT?style=social)|
+|[talk-to-chatgpt](https://github.com/c-nedelcu/talk-to-chatgpt)|JavaScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/c-nedelcu/talk-to-chatgpt?style=social)|
+|[ChatGPT-Telegram-Workers](https://github.com/tbxark/chatgpt-telegram-workers)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/tbxark/ChatGPT-Telegram-Workers?style=social)|
 |[reflexion-human-eval](https://github.com/noahshinn024/reflexion-human-eval)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/noahshinn024/reflexion-human-eval?style=social)|
 |[gptchat-telegram](https://github.com/m1guelpf/gptchat-telegram)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/m1guelpf/gptchat-telegram?style=social)|
 |[Twitter-Comment-Bot](https://github.com/sojinsamuel/twitter-comment-bot)|JavaScript|Other|![GitHub Repo stars](https://img.shields.io/github/stars/sojinsamuel/Twitter-Comment-Bot?style=social)|
@@ -319,7 +333,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/mayooear/gpt4-pdf-chatbot-langchain?style=social)|
 |[chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cogentapps/chat-with-gpt?style=social)|
 |[whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/askrella/whatsapp-chatgpt?style=social)|
-|[ChatGPT-wechat-bot](https://github.com/autumnwhj/chatgpt-wechat-bot)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/AutumnWhj/ChatGPT-wechat-bot?style=social)|
+|[ChatGPT-wechat-bot](https://github.com/autumnwhj/chatgpt-wechat-bot)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/autumnwhj/ChatGPT-wechat-bot?style=social)|
 |[chatbot-ui-pro](https://github.com/mckaywrigley/chatbot-ui-pro)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/chatbot-ui-pro?style=social)|
 |[chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/transitive-bullshit/chatgpt-twitter-bot?style=social)|
 |[BetterChatGPT](https://github.com/ztjhz/betterchatgpt)|TypeScript|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/ztjhz/BetterChatGPT?style=social)|
@@ -330,11 +344,10 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[speechgpt](https://github.com/hahahumble/speechgpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hahahumble/speechgpt?style=social)|
 |[langchainjs](https://github.com/hwchase17/langchainjs)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchainjs?style=social)|
 |[chat-langchainjs](https://github.com/sullivan-sean/chat-langchainjs)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/sullivan-sean/chat-langchainjs?style=social)|
-|[ChatFiles](https://github.com/guangzhengli/chatfiles)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)|
 |[friday-gpt](https://github.com/hmmhmmhm/friday-gpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hmmhmmhm/friday-gpt?style=social)|
-|[telegram-chatgpt-concierge-bot](https://github.com/rafalwilinski/telegram-chatgpt-concierge-bot)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/RafalWilinski/telegram-chatgpt-concierge-bot?style=social)|
+|[telegram-chatgpt-concierge-bot](https://github.com/rafalwilinski/telegram-chatgpt-concierge-bot)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/rafalwilinski/telegram-chatgpt-concierge-bot?style=social)|
 |[chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/m1guelpf/chatgpt-telegram?style=social)|
-|[gitgpt](https://github.com/hesse/gitgpt)|Go|-|![GitHub Repo stars](https://img.shields.io/github/stars/Hesse/gitgpt?style=social)|
+|[gitgpt](https://github.com/hesse/gitgpt)|Go|-|![GitHub Repo stars](https://img.shields.io/github/stars/hesse/gitgpt?style=social)|
 |[chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/m1guelpf/chatgpt-discord?style=social)|
 |[larkgpt](https://github.com/bytemate/larkgpt)|Go|-|![GitHub Repo stars](https://img.shields.io/github/stars/bytemate/larkgpt?style=social)|
 |[LocalAI](https://github.com/go-skynet/localai)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/go-skynet/LocalAI?style=social)|
@@ -370,7 +383,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [dangermode](https://github.com/rgbkrk/dangermode) - Dangermode is a ChatGPT Plugin written with Python and FastAPI that allows ChatGPT to execute code snippets in an IPython session.
  * [examples](https://github.com/pinecone-io/examples) - 如果你对如何开发chatgpt plugin感兴趣，推荐看一下这个视频，完整的介绍了：1. 什么是chatgpt plugin2. 如何开发一个langchain文档查询的chatgpt plugin3. 如何安装调试chatgpt plugin视频：：
  * [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - A browser extension that lets you chat with ChatGPT from any local Jupyter notebook.
- * [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support. 
+ * [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
  * [ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - ipython-gpt - a jupyter/ipython interface to chatgptvery promising extension to chat with chatgpt directly from your jupyter notebook or ipython shell.
  * [tweetGPT](https://github.com/yaroslav-n/tweetgpt) - TweetGPT is a chrome extension that generates tweets and replies using chatGPT
  * [ChatGPT-pdf](https://github.com/liady/chatgpt-pdf) - A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link
@@ -385,7 +398,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
  * [simpread](https://github.com/kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
  * [chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page) - 一个 Chrome 浏览器插件，通过 ChatGPT 来自动响应微信私信或群聊中 @你 的消息的智能聊天机器人
- * [WebGPT](https://github.com/0hq/webgpt) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript. 
+ * [WebGPT](https://github.com/0hq/webgpt) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
  * [tabSidian](https://github.com/cgranier/tabsidian) - tabSidian gathers your open browser tabs and turns them into a markdown list.
  * [chrome_extension_slicer](https://github.com/centminmod/chrome_extension_slicer) - Chrome extension to load AI prompt text slicer tool at https://slicer.centminmod.com
  * [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -400,7 +413,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
  * [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ChatGPT raycast extension
  * [GPT-Toolbox](https://github.com/cedricguillemet/gpt-toolbox) - GPT extension for VSCode
- * [CodeCursor](https://github.com/helixform/codecursor) - An extension for using Cursor in Visual Studio Code. 
+ * [CodeCursor](https://github.com/helixform/codecursor) - An extension for using Cursor in Visual Studio Code.
  * [butler.vim](https://github.com/lambdalisue/butler.vim) - 🫖 Your butler. A ChatGPT like Vim/Neovim plugin that communicate with the OpenAI APIs
  * [AgentGPT](https://github.com/reworkd/agentgpt) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
  * [gpt-assistant](https://github.com/builderio/gpt-assistant) - An experiment to give an autonomous GPT agent access to a browser and have it accomplish tasks
@@ -419,21 +432,25 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
  * [openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension) - Sample CSV file
  * [awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - List of interesting resources for building and using ChatGPT plugins.
+ * [Chrome-GPT](https://github.com/richardyc/chrome-gpt) - An AutoGPT agent that controls Chrome on your desktop
+ * [Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin) - The AutoGPT MetaTrader Plugin is a software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.
+ * [Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins) - Plugins for Auto-GPT
+ * [nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter) - ChatGPT plugin starter project using Next.js
 
 
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/wong2/chat-gpt-google-extension?style=social)|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|
-|[Gepetto](https://github.com/justicerage/gepetto)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/JusticeRage/Gepetto?style=social)|
-|[google-chatgpt-plugin](https://github.com/sogody/google-chatgpt-plugin)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/Sogody/google-chatgpt-plugin?style=social)|
+|[Gepetto](https://github.com/justicerage/gepetto)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/justicerage/Gepetto?style=social)|
+|[google-chatgpt-plugin](https://github.com/sogody/google-chatgpt-plugin)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/sogody/google-chatgpt-plugin?style=social)|
 |[natbot](https://github.com/nat/natbot)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nat/natbot?style=social)|
 |[DAILA](https://github.com/mahaloz/daila)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/mahaloz/DAILA?style=social)|
-|[regexplore](https://github.com/0xhasanm/regexplore)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/0xHasanM/regexplore?style=social)|
+|[regexplore](https://github.com/0xhasanm/regexplore)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/0xhasanm/regexplore?style=social)|
 |[chat-todo-plugin](https://github.com/lencx/chat-todo-plugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/chat-todo-plugin?style=social)|
-|[textual](https://github.com/textualize/textual)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Textualize/textual?style=social)|
+|[textual](https://github.com/textualize/textual)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/textualize/textual?style=social)|
 |[ReconAIzer](https://github.com/hisxo/reconaizer)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/hisxo/ReconAIzer?style=social)|
-|[Agent-LLM](https://github.com/josh-xt/agent-llm)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Josh-XT/Agent-LLM?style=social)|
+|[Agent-LLM](https://github.com/josh-xt/agent-llm)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/josh-xt/Agent-LLM?style=social)|
 |[web-llm](https://github.com/mlc-ai/web-llm)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mlc-ai/web-llm?style=social)|
 |[langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/langchain-aiplugin?style=social)|
 |[plugins-quickstart](https://github.com/openai/plugins-quickstart)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/plugins-quickstart?style=social)|
@@ -448,12 +465,12 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[summarize.site](https://github.com/clmnin/summarize.site)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/clmnin/summarize.site?style=social)|
 |[transformers.js](https://github.com/xenova/transformers.js)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/xenova/transformers.js?style=social)|
 |[bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/yetone/bob-plugin-openai-translator?style=social)|
-|[chatgpt-extension](https://github.com/iolivernguyen/chatgpt-extension)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/iOliverNguyen/chatgpt-extension?style=social)|
+|[chatgpt-extension](https://github.com/iolivernguyen/chatgpt-extension)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/iolivernguyen/chatgpt-extension?style=social)|
 |[docGPT](https://github.com/cesarhuret/docgpt)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/cesarhuret/docGPT?style=social)|
 |[ChatGPT-Assistant](https://github.com/pdparchitect/chatgpt-assistant)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/pdparchitect/ChatGPT-Assistant?style=social)|
-|[chatGPTBox](https://github.com/josstorer/chatgptbox)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/josStorer/chatGPTBox?style=social)|
+|[chatGPTBox](https://github.com/josstorer/chatgptbox)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/josstorer/chatGPTBox?style=social)|
 |[YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kazuki-sf/YouTube_Summary_with_ChatGPT?style=social)|
-|[simpread](https://github.com/kenshin/simpread)|JavaScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Kenshin/simpread?style=social)|
+|[simpread](https://github.com/kenshin/simpread)|JavaScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/kenshin/simpread?style=social)|
 |[chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/1cloudy/chatgpt-wechat-landing-page?style=social)|
 |[WebGPT](https://github.com/0hq/webgpt)|JavaScript|Other|![GitHub Repo stars](https://img.shields.io/github/stars/0hq/WebGPT?style=social)|
 |[tabSidian](https://github.com/cgranier/tabsidian)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/cgranier/tabSidian?style=social)|
@@ -461,34 +478,38 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/qunash/chatgpt-advanced?style=social)|
 |[chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/mpociot/chatgpt-vscode?style=social)|
 |[openai-translator](https://github.com/yetone/openai-translator)|TypeScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/yetone/openai-translator?style=social)|
-|[browser-extension](https://github.com/taxyai/browser-extension)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TaxyAI/browser-extension?style=social)|
+|[browser-extension](https://github.com/taxyai/browser-extension)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/taxyai/browser-extension?style=social)|
 |[obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nhaouari/obsidian-textgenerator-plugin?style=social)|
 |[logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/briansunter/logseq-plugin-gpt3-openai?style=social)|
-|[chatgpt-arxiv-extension](https://github.com/hunkimforks/chatgpt-arxiv-extension)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/hunkimForks/chatgpt-arxiv-extension?style=social)|
+|[chatgpt-arxiv-extension](https://github.com/hunkimforks/chatgpt-arxiv-extension)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/hunkimforks/chatgpt-arxiv-extension?style=social)|
 |[chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/wong2/chatgpt-google-extension?style=social)|
 |[nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/enricoros/nextjs-chatgpt-app?style=social)|
 |[sharegpt](https://github.com/domeccleston/sharegpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/domeccleston/sharegpt?style=social)|
 |[chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/abielzulio/chatgpt-raycast?style=social)|
-|[GPT-Toolbox](https://github.com/cedricguillemet/gpt-toolbox)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/CedricGuillemet/GPT-Toolbox?style=social)|
-|[CodeCursor](https://github.com/helixform/codecursor)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Helixform/CodeCursor?style=social)|
+|[GPT-Toolbox](https://github.com/cedricguillemet/gpt-toolbox)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cedricguillemet/GPT-Toolbox?style=social)|
+|[CodeCursor](https://github.com/helixform/codecursor)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/helixform/CodeCursor?style=social)|
 |[butler.vim](https://github.com/lambdalisue/butler.vim)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/lambdalisue/butler.vim?style=social)|
 |[AgentGPT](https://github.com/reworkd/agentgpt)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)|
-|[gpt-assistant](https://github.com/builderio/gpt-assistant)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/gpt-assistant?style=social)|
-|[AutoGPT-Next-Web](https://github.com/dogtiti/autogpt-next-web)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Dogtiti/AutoGPT-Next-Web?style=social)|
+|[gpt-assistant](https://github.com/builderio/gpt-assistant)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/builderio/gpt-assistant?style=social)|
+|[AutoGPT-Next-Web](https://github.com/dogtiti/autogpt-next-web)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/dogtiti/AutoGPT-Next-Web?style=social)|
 |[chatgpt-plugin-ts](https://github.com/transitive-bullshit/chatgpt-plugin-ts)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/transitive-bullshit/chatgpt-plugin-ts?style=social)|
-|[whisper_ros](https://github.com/ouxt-polaris/whisper_ros)|C++|-|![GitHub Repo stars](https://img.shields.io/github/stars/OUXT-Polaris/whisper_ros?style=social)|
+|[whisper_ros](https://github.com/ouxt-polaris/whisper_ros)|C++|-|![GitHub Repo stars](https://img.shields.io/github/stars/ouxt-polaris/whisper_ros?style=social)|
 |[pg_gpt](https://github.com/cloudquery/pg_gpt)|Rust|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/cloudquery/pg_gpt?style=social)|
 |[kubectl-ai](https://github.com/sozercan/kubectl-ai)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/sozercan/kubectl-ai?style=social)|
 |[ChatGPT_Extension](https://github.com/kazuki-sf/chatgpt_extension)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kazuki-sf/ChatGPT_Extension?style=social)|
 |[ChatGPT](https://github.com/wieslawsoltes/chatgpt)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/wieslawsoltes/ChatGPT?style=social)|
 |[CodeGPT.nvim](https://github.com/dpayne/codegpt.nvim)|Lua|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/dpayne/CodeGPT.nvim?style=social)|
-|[ChatGPT.nvim](https://github.com/jackmort/chatgpt.nvim)|Lua|-|![GitHub Repo stars](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim?style=social)|
+|[ChatGPT.nvim](https://github.com/jackmort/chatgpt.nvim)|Lua|-|![GitHub Repo stars](https://img.shields.io/github/stars/jackmort/ChatGPT.nvim?style=social)|
 |[mind-wave](https://github.com/manateelazycat/mind-wave)|Emacs Lisp|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/manateelazycat/mind-wave?style=social)|
 |[askgpt.vim](https://github.com/macrat/askgpt.vim)|Vim Script|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/macrat/askgpt.vim?style=social)|
 |[ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/chatgpt-plugins-collection)|Julia|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/logankilpatrick/ChatGPT-Plugins-Collection?style=social)|
 |[burpgpt](https://github.com/aress31/burpgpt)|Java|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/aress31/burpgpt?style=social)|
 |[openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/1997roylee/openai-chatgpt-everywhere-extension?style=social)|
 |[awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-chatgpt-plugins?style=social)|
+|[Chrome-GPT](https://github.com/richardyc/chrome-gpt)|Python|{'key': 'gpl-3.0', 'name': 'GNU General Public License v3.0', 'spdx_id': 'GPL-3.0', 'url': 'https://api.github.com/licenses/gpl-3.0', 'node_id': 'MDc6TGljZW5zZTk='}|![GitHub Repo stars](https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social)|
+|[Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin)|Python|{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-MetaTrader-Plugin?style=social)|
+|[Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins)|Python|{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}|![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT-Plugins?style=social)|
+|[nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter)|TypeScript|None|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/nextjs-chatgpt-plugin-starter?style=social)|
 
 
 ## CLIs
@@ -527,7 +548,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [commit-assist](https://github.com/dejorrit/commit-assist) - Auto generate commit messages using ChatGPT
  * [ai-shell](https://github.com/builderio/ai-shell) - A CLI that converts natural language to shell commands.
  * [doschgpt](https://github.com/yeokm1/doschgpt) - A proof-of-concept ChatGPT client for DOS.
- * [gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3. 
+ * [gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
  * [a](https://github.com/ddddddeon/a) - CLI tool to generate code from GPT3
  * [plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
  * [aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
@@ -549,13 +570,12 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [openai-java](https://github.com/theokanning/openai-java) - OpenAI GPT-3 Api Client in Java
  * [hfuzz](https://github.com/thehlopster/hfuzz) - Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.
  * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
- * [HappyCommit](https://github.com/jackbackes/happycommit) - git commit-gpt for AI-generated diffs of any size, dropped straight into vim to edit.
 
 
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[ChatGPT](https://github.com/acheong08/chatgpt)|Python|GNU General Public License v2.0|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/ChatGPT?style=social)|
-|[shell_gpt](https://github.com/ther1d/shell_gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TheR1D/shell_gpt?style=social)|
+|[shell_gpt](https://github.com/ther1d/shell_gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ther1d/shell_gpt?style=social)|
 |[PyChatGPT](https://github.com/rawandahmad698/pychatgpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rawandahmad698/PyChatGPT?style=social)|
 |[chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mmabrouk/chatgpt-wrapper?style=social)|
 |[chatblade](https://github.com/npiv/chatblade)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/npiv/chatblade?style=social)|
@@ -576,17 +596,17 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/amrrs/chatgpt-gsheets?style=social)|
 |[gptsh](https://github.com/shorwood/gptsh)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/shorwood/gptsh?style=social)|
 |[chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/transitive-bullshit/chatgpt-api?style=social)|
-|[ChatGPT-Next-Web](https://github.com/yidadaa/chatgpt-next-web)|TypeScript|Other|![GitHub Repo stars](https://img.shields.io/github/stars/Yidadaa/ChatGPT-Next-Web?style=social)|
+|[ChatGPT-Next-Web](https://github.com/yidadaa/chatgpt-next-web)|TypeScript|Other|![GitHub Repo stars](https://img.shields.io/github/stars/yidadaa/ChatGPT-Next-Web?style=social)|
 |[ai-cli](https://github.com/abhagsain/ai-cli)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/abhagsain/ai-cli?style=social)|
 |[chathub](https://github.com/chathub-dev/chathub)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/chathub-dev/chathub?style=social)|
 |[bing-chat](https://github.com/transitive-bullshit/bing-chat)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/transitive-bullshit/bing-chat?style=social)|
-|[aicommits](https://github.com/nutlope/aicommits)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Nutlope/aicommits?style=social)|
+|[aicommits](https://github.com/nutlope/aicommits)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nutlope/aicommits?style=social)|
 |[opencommit](https://github.com/di-sukharev/opencommit)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/di-sukharev/opencommit?style=social)|
 |[react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rgommezz/react-native-chatgpt?style=social)|
 |[GPT-Shell](https://github.com/firtoz/gpt-shell)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/firtoz/GPT-Shell?style=social)|
 |[autodoc](https://github.com/context-labs/autodoc)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/context-labs/autodoc?style=social)|
 |[commit-assist](https://github.com/dejorrit/commit-assist)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/dejorrit/commit-assist?style=social)|
-|[ai-shell](https://github.com/builderio/ai-shell)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/BuilderIO/ai-shell?style=social)|
+|[ai-shell](https://github.com/builderio/ai-shell)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/builderio/ai-shell?style=social)|
 |[doschgpt](https://github.com/yeokm1/doschgpt)|C++|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/yeokm1/doschgpt?style=social)|
 |[gptcommit](https://github.com/zurawiki/gptcommit)|Rust|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/zurawiki/gptcommit?style=social)|
 |[a](https://github.com/ddddddeon/a)|Rust|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ddddddeon/a?style=social)|
@@ -605,9 +625,9 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[chatGPT-shell-cli](https://github.com/0xacx/chatgpt-shell-cli)|Shell|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/0xacx/chatGPT-shell-cli?style=social)|
 |[chatgpt-shell](https://github.com/xenodium/chatgpt-shell)|Emacs Lisp|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/xenodium/chatgpt-shell?style=social)|
 |[client](https://github.com/openai-php/client)|PHP|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai-php/client?style=social)|
-|[slickgpt](https://github.com/shipbit/slickgpt)|Svelte|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ShipBit/slickgpt?style=social)|
-|[chatgpt-ui](https://github.com/wongsaang/chatgpt-ui)|Vue|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/WongSaang/chatgpt-ui?style=social)|
-|[openai-java](https://github.com/theokanning/openai-java)|Java|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/TheoKanning/openai-java?style=social)|
+|[slickgpt](https://github.com/shipbit/slickgpt)|Svelte|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/shipbit/slickgpt?style=social)|
+|[chatgpt-ui](https://github.com/wongsaang/chatgpt-ui)|Vue|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/wongsaang/chatgpt-ui?style=social)|
+|[openai-java](https://github.com/theokanning/openai-java)|Java|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/theokanning/openai-java?style=social)|
 |[hfuzz](https://github.com/thehlopster/hfuzz)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|
 
@@ -619,7 +639,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [mm-cot](https://github.com/amazon-science/mm-cot) - Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
  * [picoGPT](https://github.com/jaymody/picogpt) - An unnecessarily tiny implementation of GPT-2 in NumPy.
  * [gpt-neox](https://github.com/eleutherai/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
- * [GPTZero](https://github.com/burhanultayyab/gptzero) - An open-source implementation of GPTZero 
+ * [GPTZero](https://github.com/burhanultayyab/gptzero) - An open-source implementation of GPTZero
  * [SpikeGPT](https://github.com/ridgerchu/spikegpt) - Implementation of "SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks"
  * [ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
  * [memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch) - Implementation of Memorizing Transformers (ICLR 2022), attention net augmented with indexing and retrieval of memories using approximate nearest neighbors, in Pytorch
@@ -635,14 +655,14 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[minGPT](https://github.com/karpathy/mingpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/minGPT?style=social)|
 |[mm-cot](https://github.com/amazon-science/mm-cot)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/amazon-science/mm-cot?style=social)|
 |[picoGPT](https://github.com/jaymody/picogpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jaymody/picoGPT?style=social)|
-|[gpt-neox](https://github.com/eleutherai/gpt-neox)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/EleutherAI/gpt-neox?style=social)|
-|[GPTZero](https://github.com/burhanultayyab/gptzero)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/BurhanUlTayyab/GPTZero?style=social)|
+|[gpt-neox](https://github.com/eleutherai/gpt-neox)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/eleutherai/gpt-neox?style=social)|
+|[GPTZero](https://github.com/burhanultayyab/gptzero)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/burhanultayyab/GPTZero?style=social)|
 |[SpikeGPT](https://github.com/ridgerchu/spikegpt)|Python|BSD 2-Clause "Simplified" License|![GitHub Repo stars](https://img.shields.io/github/stars/ridgerchu/SpikeGPT?style=social)|
 |[ml-ane-transformers](https://github.com/apple/ml-ane-transformers)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/apple/ml-ane-transformers?style=social)|
 |[memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/lucidrains/memorizing-transformers-pytorch?style=social)|
-|[lit-llama](https://github.com/lightning-ai/lit-llama)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-llama?style=social)|
+|[lit-llama](https://github.com/lightning-ai/lit-llama)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-llama?style=social)|
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|Jupyter Notebook|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|
-|[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NouamaneTazi/bloomz.cpp?style=social)|
+|[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|Swift|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|
 
 
@@ -671,16 +691,16 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [RWKV-LM](https://github.com/blinkdl/rwkv-lm) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx_len, and free sentence embedding.
  * [mario-gpt](https://github.com/shyamsn97/mario-gpt) - Generating Mario Levels with GPT2. Code for the paper "MarioGPT: Open-Ended Text2Level Generation through Large Language Models" https://arxiv.org/abs/2302.05981
  * [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
- * [llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs 
+ * [llm-security](https://github.com/greshake/llm-security) - New ways of breaking app-integrated LLMs
  * [GLM-130B](https://github.com/thudm/glm-130b) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
  * [trlx](https://github.com/carperai/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
  * [ChatGLM-6B](https://github.com/thudm/chatglm-6b) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
- * [GPTSAN](https://github.com/tanreinama/gptsan) - General-purpose Swich transformer based Japanese language model 
+ * [GPTSAN](https://github.com/tanreinama/gptsan) - General-purpose Swich transformer based Japanese language model
  * [gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
  * [gptlang](https://github.com/forrestchang/gptlang) - A new programming language implemented by GPT-4.
  * [BIG-bench](https://github.com/google/big-bench) - Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models
  * [hlb-gpt](https://github.com/tysam-code/hlb-gpt) - Minimalistic, fast, and experimentation-friendly researcher's toolbench for GPT-like models in ~<365 lines of code. Reaches <3.8 validation loss on wikitext-103 on a single A100 in ~138 seconds.
- * [hn_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.  
+ * [hn_summary](https://github.com/jiggy-ai/hn_summary) - Summarizes top stories from Hacker News using a large language model and post them to a Telegram channel.
  * [transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
  * [self-instruct](https://github.com/yizhongw/self-instruct) - Aligning pretrained language models with instruction data generated by themselves.
  * [knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - Accurate answers and instant citations for your documents.
@@ -712,8 +732,8 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [LLMZoo](https://github.com/freedomintelligence/llmzoo) - ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
  * [INSIGHT](https://github.com/oneil512/insight) - INSIGHT is an autonomous AI that can do medical research!
  * [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio) - H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs
- * [nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser) - NLP-powered, GPT-3 enabled Resume Parser from PDF to JSON. 
- * [chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI 
+ * [nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser) - NLP-powered, GPT-3 enabled Resume Parser from PDF to JSON.
+ * [chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
  * [camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
  * [auto-redteam](https://github.com/traghav/auto-redteam) - Redteaming LLMs using other LLMs
  * [self-ask](https://github.com/ofirpress/self-ask) - Code and data for "Measuring and Narrowing the Compositionality Gap in Language Models"
@@ -735,8 +755,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [text2sql](https://github.com/ramiawar/text2sql) - Small project to use LLMs with context for SQL generation
  * [FreedomGPT](https://github.com/ohmplatform/freedomgpt) - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)
  * [chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
- * [code-narrator](https://github.com/ingig/code-narrator) - Self documenting tool using GPT4. It also can document your project
- * [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM 
+ * [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
  * [ChatARKit](https://github.com/trzy/chatarkit) - Using ChatGPT to create AR experiences with natural language.
  * [alpaca.cpp](https://github.com/rupeshs/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM (Android/Linux/Windows/Mac)
  * [rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
@@ -753,7 +772,10 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [siri-chatgpt](https://github.com/liujch1998/siri-chatgpt) - now you can transform siri into the real #chatgpt! simply download this shortcut (link in repo ⬇️) to your iphone, edit its script in the shortcuts app (i.e. paste your api key into the text box), and say, "hey siri, chatgpt". ask your favorite question!
  * [gpt-jargon](https://github.com/jbrukh/gpt-jargon) - Jargon is a natural language programming language specified and executed by LLMs like GPT-4.
  * [practical-llms](https://github.com/aggregate-intellect/practical-llms) - #aiscllmworkshopa quick way to go from zero to dangerous (like, be able to confidently bullshit like chatgpt, but also quickly ramp up on how to go from idea to product with the latest &amp; greatest in llm, with 9 continuous hours of hour-long presentations!
- * [LLMsPracticalGuide](https://github.com/mooler0410/llmspracticalguide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+ * [happycommit](https://github.com/jackbackes/happycommit) - HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you.
+ * [JamesGPT](https://github.com/jconorgrogan/jamesgpt) - Jailbreak for ChatGPT: Predict the future, opine on politics and controversial topics, and assess what is true. May help us understand more about LLM Bias
+ * [ChatPaper](https://github.com/kaixindelele/chatpaper) - Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复
+ * [minichain](https://github.com/srush/minichain) - Sequence-to-sequence model with LSTM encoder/decoders and attention
 
 
 |Name|Language|License|GitHub Stars|
@@ -761,14 +783,14 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[BioGPT](https://github.com/microsoft/biogpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/BioGPT?style=social)|
 |[stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social)|
 |[openai-python](https://github.com/openai/openai-python)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-python?style=social)|
-|[FlexGen](https://github.com/fminference/flexgen)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/FMInference/FlexGen?style=social)|
-|[RWKV-LM](https://github.com/blinkdl/rwkv-lm)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/BlinkDL/RWKV-LM?style=social)|
+|[FlexGen](https://github.com/fminference/flexgen)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/fminference/FlexGen?style=social)|
+|[RWKV-LM](https://github.com/blinkdl/rwkv-lm)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/blinkdl/RWKV-LM?style=social)|
 |[mario-gpt](https://github.com/shyamsn97/mario-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/shyamsn97/mario-gpt?style=social)|
 |[bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/yihong0618/bilingual_book_maker?style=social)|
 |[llm-security](https://github.com/greshake/llm-security)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/greshake/llm-security?style=social)|
-|[GLM-130B](https://github.com/thudm/glm-130b)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/GLM-130B?style=social)|
-|[trlx](https://github.com/carperai/trlx)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/CarperAI/trlx?style=social)|
-|[ChatGLM-6B](https://github.com/thudm/chatglm-6b)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/ChatGLM-6B?style=social)|
+|[GLM-130B](https://github.com/thudm/glm-130b)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/thudm/GLM-130B?style=social)|
+|[trlx](https://github.com/carperai/trlx)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/trlx?style=social)|
+|[ChatGLM-6B](https://github.com/thudm/chatglm-6b)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/thudm/ChatGLM-6B?style=social)|
 |[GPTSAN](https://github.com/tanreinama/gptsan)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/tanreinama/GPTSAN?style=social)|
 |[gpt-2](https://github.com/openai/gpt-2)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/openai/gpt-2?style=social)|
 |[gptlang](https://github.com/forrestchang/gptlang)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/forrestchang/gptlang?style=social)|
@@ -794,16 +816,16 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[srt-gpt-translator](https://github.com/jesselau76/srt-gpt-translator)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/srt-gpt-translator?style=social)|
 |[datasloth](https://github.com/ibestvina/datasloth)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ibestvina/datasloth?style=social)|
 |[trl](https://github.com/lvwerra/trl)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lvwerra/trl?style=social)|
-|[ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/WHU-ZQH/ChatGPT-vs.-BERT?style=social)|
+|[ChatGPT-vs.-BERT](https://github.com/whu-zqh/chatgpt-vs.-bert)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/whu-zqh/ChatGPT-vs.-BERT?style=social)|
 |[unilm](https://github.com/microsoft/unilm)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/unilm?style=social)|
-|[document.ai](https://github.com/ganymedenil/document.ai)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/GanymedeNil/document.ai?style=social)|
+|[document.ai](https://github.com/ganymedenil/document.ai)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/ganymedenil/document.ai?style=social)|
 |[LAVIS](https://github.com/salesforce/lavis)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/salesforce/LAVIS?style=social)|
 |[gpt-subtrans](https://github.com/machinewrapped/gpt-subtrans)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/machinewrapped/gpt-subtrans?style=social)|
 |[paper-qa](https://github.com/whitead/paper-qa)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/whitead/paper-qa?style=social)|
 |[guardrails](https://github.com/shreyar/guardrails)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/shreyar/guardrails?style=social)|
 |[chatgpt-document-extraction](https://github.com/brandonrobertz/chatgpt-document-extraction)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/brandonrobertz/chatgpt-document-extraction?style=social)|
 |[h2ogpt](https://github.com/h2oai/h2ogpt)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/h2oai/h2ogpt?style=social)|
-|[LLMZoo](https://github.com/freedomintelligence/llmzoo)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/FreedomIntelligence/LLMZoo?style=social)|
+|[LLMZoo](https://github.com/freedomintelligence/llmzoo)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/freedomintelligence/LLMZoo?style=social)|
 |[INSIGHT](https://github.com/oneil512/insight)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/oneil512/INSIGHT?style=social)|
 |[h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/h2oai/h2o-llmstudio?style=social)|
 |[nlp-resume-parser](https://github.com/hxu296/nlp-resume-parser)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/hxu296/nlp-resume-parser?style=social)|
@@ -811,43 +833,45 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[camel](https://github.com/lightaime/camel#data-hosted-on-hugging-face)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/lightaime/camel?style=social)|
 |[auto-redteam](https://github.com/traghav/auto-redteam)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/traghav/auto-redteam?style=social)|
 |[self-ask](https://github.com/ofirpress/self-ask)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/ofirpress/self-ask?style=social)|
-|[llm-lobbyist](https://github.com/johnnay/llm-lobbyist)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/JohnNay/llm-lobbyist?style=social)|
-|[Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NielsRogge/Transformers-Tutorials?style=social)|
+|[llm-lobbyist](https://github.com/johnnay/llm-lobbyist)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/johnnay/llm-lobbyist?style=social)|
+|[Transformers-Tutorials](https://github.com/nielsrogge/transformers-tutorials)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nielsrogge/Transformers-Tutorials?style=social)|
 |[dsp](https://github.com/stanfordnlp/dsp)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/stanfordnlp/dsp?style=social)|
 |[OpenAGI](https://github.com/agiresearch/openagi)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/agiresearch/OpenAGI?style=social)|
 |[GraphGPT](https://github.com/varunshenoy/graphgpt)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/varunshenoy/GraphGPT?style=social)|
-|[backend-GPT](https://github.com/theappletucker/backend-gpt)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/TheAppleTucker/backend-GPT?style=social)|
-|[gpt-commit-summarizer](https://github.com/kanhari/gpt-commit-summarizer)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/KanHarI/gpt-commit-summarizer?style=social)|
+|[backend-GPT](https://github.com/theappletucker/backend-gpt)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/theappletucker/backend-GPT?style=social)|
+|[gpt-commit-summarizer](https://github.com/kanhari/gpt-commit-summarizer)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kanhari/gpt-commit-summarizer?style=social)|
 |[tesseract.js](https://github.com/naptha/tesseract.js)|JavaScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/naptha/tesseract.js?style=social)|
 |[subtitle-translator](https://github.com/gnehs/subtitle-translator)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/gnehs/subtitle-translator?style=social)|
 |[vault-ai](https://github.com/pashpashpash/vault-ai)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/pashpashpash/vault-ai?style=social)|
 |[ai-code-translator](https://github.com/mckaywrigley/ai-code-translator)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/ai-code-translator?style=social)|
-|[chatgpt-i18n](https://github.com/observedobserver/chatgpt-i18n)|TypeScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/ObservedObserver/chatgpt-i18n?style=social)|
+|[chatgpt-i18n](https://github.com/observedobserver/chatgpt-i18n)|TypeScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/observedobserver/chatgpt-i18n?style=social)|
 |[flux](https://github.com/transmissions11/flux)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/transmissions11/flux?style=social)|
 |[platform](https://github.com/cognosisai/platform)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cognosisai/platform?style=social)|
 |[minds](https://github.com/dosco/minds)|TypeScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/dosco/minds?style=social)|
-|[text2sql](https://github.com/ramiawar/text2sql)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/RamiAwar/text2sql?style=social)|
+|[text2sql](https://github.com/ramiawar/text2sql)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ramiawar/text2sql?style=social)|
 |[FreedomGPT](https://github.com/ohmplatform/freedomgpt)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/ohmplatform/FreedomGPT?style=social)|
 |[chart-gpt](https://github.com/whoiskatrin/chart-gpt)|TypeScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/whoiskatrin/chart-gpt?style=social)|
-|[code-narrator](https://github.com/ingig/code-narrator)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/ingig/code-narrator?style=social)|
 |[alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/antimatter15/alpaca.cpp?style=social)|
 |[ChatARKit](https://github.com/trzy/chatarkit)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/trzy/ChatARKit?style=social)|
 |[alpaca.cpp](https://github.com/rupeshs/alpaca.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rupeshs/alpaca.cpp?style=social)|
 |[rust-bert](https://github.com/guillaume-be/rust-bert)|Rust|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/guillaume-be/rust-bert?style=social)|
-|[PentestGPT](https://github.com/greydgl/pentestgpt)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social)|
-|[gpttools](https://github.com/jameshwade/gpttools)|R|Other|![GitHub Repo stars](https://img.shields.io/github/stars/JamesHWade/gpttools?style=social)|
+|[PentestGPT](https://github.com/greydgl/pentestgpt)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/greydgl/PentestGPT?style=social)|
+|[gpttools](https://github.com/jameshwade/gpttools)|R|Other|![GitHub Repo stars](https://img.shields.io/github/stars/jameshwade/gpttools?style=social)|
 |[semantic-kernel](https://github.com/microsoft/semantic-kernel)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=social)|
 |[CoCoGen](https://github.com/madaan/cocogen)|TeX|-|![GitHub Repo stars](https://img.shields.io/github/stars/madaan/CoCoGen?style=social)|
 |[github-summarizer](https://github.com/stevebauman/github-summarizer)|PHP|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/stevebauman/github-summarizer?style=social)|
-|[LSL-snippets](https://github.com/panterapolnocy/lsl-snippets)|LSL|GNU Lesser General Public License v2.1|![GitHub Repo stars](https://img.shields.io/github/stars/PanteraPolnocy/LSL-snippets?style=social)|
-|[HealthGPT](https://github.com/stanfordbdhg/healthgpt)|Swift|-|![GitHub Repo stars](https://img.shields.io/github/stars/StanfordBDHG/HealthGPT?style=social)|
+|[LSL-snippets](https://github.com/panterapolnocy/lsl-snippets)|LSL|GNU Lesser General Public License v2.1|![GitHub Repo stars](https://img.shields.io/github/stars/panterapolnocy/LSL-snippets?style=social)|
+|[HealthGPT](https://github.com/stanfordbdhg/healthgpt)|Swift|-|![GitHub Repo stars](https://img.shields.io/github/stars/stanfordbdhg/HealthGPT?style=social)|
 |[pdf-epub-GPT-translator](https://github.com/jesselau76/pdf-epub-gpt-translator)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/pdf-epub-GPT-translator?style=social)|
 |[gpt-3](https://github.com/openai/gpt-3)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/openai/gpt-3?style=social)|
-|[GPT-4-LLM](https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm)|-|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Instruction-Tuning-with-GPT-4/GPT-4-LLM?style=social)|
+|[GPT-4-LLM](https://github.com/instruction-tuning-with-gpt-4/gpt-4-llm)|-|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/instruction-tuning-with-gpt-4/GPT-4-LLM?style=social)|
 |[siri-chatgpt](https://github.com/liujch1998/siri-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/liujch1998/siri-chatgpt?style=social)|
 |[gpt-jargon](https://github.com/jbrukh/gpt-jargon)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/jbrukh/gpt-jargon?style=social)|
-|[practical-llms](https://github.com/aggregate-intellect/practical-llms)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/Aggregate-Intellect/practical-llms?style=social)|
-|[LLMsPracticalGuide](https://github.com/mooler0410/llmspracticalguide)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Mooler0410/LLMsPracticalGuide?style=social)|
+|[practical-llms](https://github.com/aggregate-intellect/practical-llms)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/aggregate-intellect/practical-llms?style=social)|
+|[happycommit](https://github.com/jackbackes/happycommit)|Rust|{'key': 'apache-2.0', 'name': 'Apache License 2.0', 'spdx_id': 'Apache-2.0', 'url': 'https://api.github.com/licenses/apache-2.0', 'node_id': 'MDc6TGljZW5zZTI='}|![GitHub Repo stars](https://img.shields.io/github/stars/jackbackes/happycommit?style=social)|
+|[JamesGPT](https://github.com/jconorgrogan/jamesgpt)|None|None|![GitHub Repo stars](https://img.shields.io/github/stars/jconorgrogan/JamesGPT?style=social)|
+|[ChatPaper](https://github.com/kaixindelele/chatpaper)|Python|{'key': 'other', 'name': 'Other', 'spdx_id': 'NOASSERTION', 'url': None, 'node_id': 'MDc6TGljZW5zZTA='}|![GitHub Repo stars](https://img.shields.io/github/stars/kaixindelele/ChatPaper?style=social)|
+|[minichain](https://github.com/srush/minichain)|Lua|{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}|![GitHub Repo stars](https://img.shields.io/github/stars/srush/minichain?style=social)|
 
 
 ## Langchain
@@ -876,7 +900,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [KoAlpaca](https://github.com/beomi/koalpaca) - KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)
  * [novice-ChatGPT](https://github.com/aiplaybookin/novice-chatgpt) - ChatGPT API Usage using LangChain, LlamaIndex, Guardrails, AutoGPT and more
  * [ai-playground](https://github.com/mklarqvist/ai-playground) - i was playing around with perplexityai and wanted to figure out how it worked. so i wrote a simple open-source clone with @openai gpt-3.5turbo, @langchainai, @trychroma and with documentation.  check it out.
- * [alpaca-electron](https://github.com/itspi3141/alpaca-electron) - An even simpler way to run Alpaca 
+ * [alpaca-electron](https://github.com/itspi3141/alpaca-electron) - An even simpler way to run Alpaca
  * [langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
  * [gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - gpt4all and llama typescript bindings
  * [pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - Official supported Python bindings for llama.cpp + gpt4all
@@ -904,14 +928,14 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[llama-cpp-python](https://github.com/abetlen/llama-cpp-python)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/abetlen/llama-cpp-python?style=social)|
 |[basaran](https://github.com/hyperonym/basaran)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/hyperonym/basaran?style=social)|
 |[llama-lab](https://github.com/run-llama/llama-lab)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-lab?style=social)|
-|[Ask-Anything](https://github.com/opengvlab/ask-anything)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything?style=social)|
+|[Ask-Anything](https://github.com/opengvlab/ask-anything)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/Ask-Anything?style=social)|
 |[VLog](https://github.com/showlab/vlog)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/showlab/VLog?style=social)|
 |[alpaca-lora](https://github.com/tloen/alpaca-lora)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social)|
 |[ClassGPT](https://github.com/benthecoder/classgpt)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/benthecoder/ClassGPT?style=social)|
-|[KoAlpaca](https://github.com/beomi/koalpaca)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Beomi/KoAlpaca?style=social)|
+|[KoAlpaca](https://github.com/beomi/koalpaca)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/beomi/KoAlpaca?style=social)|
 |[novice-ChatGPT](https://github.com/aiplaybookin/novice-chatgpt)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/aiplaybookin/novice-ChatGPT?style=social)|
 |[ai-playground](https://github.com/mklarqvist/ai-playground)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mklarqvist/ai-playground?style=social)|
-|[alpaca-electron](https://github.com/itspi3141/alpaca-electron)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ItsPi3141/alpaca-electron?style=social)|
+|[alpaca-electron](https://github.com/itspi3141/alpaca-electron)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/itspi3141/alpaca-electron?style=social)|
 |[langflow](https://github.com/logspace-ai/langflow)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)|
 |[gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all-ts?style=social)|
 |[pyllamacpp](https://github.com/nomic-ai/pyllamacpp)|C++|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/pyllamacpp?style=social)|
@@ -949,7 +973,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [Auto-GPT](https://github.com/torantulino/auto-gpt) - An experimental open-source attempt to make GPT-4 fully autonomous.
  * [BlenderGPT](https://github.com/gd3kr/blendergpt) - Use commands in English to control Blender with OpenAI's GPT-4
  * [evals](https://github.com/openai/evals) - Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
- * [VulChatGPT](https://github.com/ke0z/vulchatgpt) - Use IDA PRO HexRays decompiler with OpenAI(ChatGPT) to find possible vulnerabilities in binaries 
+ * [VulChatGPT](https://github.com/ke0z/vulchatgpt) - Use IDA PRO HexRays decompiler with OpenAI(ChatGPT) to find possible vulnerabilities in binaries
  * [OpenChatKit](https://github.com/togethercomputer/openchatkit) - #openchatkit is the first #opensource alternative to #chatgpt! 🤯it's a 20b param. model built by ex-@openai folks (@togethercompute) and fine-tuned using @aieleuther's gpt-neox-20b!🔗 demo: 🐙 gh: 📽️ video: @itakgol ↓
  * [chatgpt-python](https://github.com/labteral/chatgpt-python) - Unofficial Python SDK for OpenAI's ChatGPT
  * [gpt-commit](https://github.com/markuswt/gpt-commit) - Generate commit messages using ChatGPT
@@ -1017,7 +1041,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 
 |Name|Language|License|GitHub Stars|
 -|-|-|-
-|[Auto-GPT](https://github.com/torantulino/auto-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT?style=social)|
+|[Auto-GPT](https://github.com/torantulino/auto-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/torantulino/Auto-GPT?style=social)|
 |[BlenderGPT](https://github.com/gd3kr/blendergpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/gd3kr/BlenderGPT?style=social)|
 |[evals](https://github.com/openai/evals)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/evals?style=social)|
 |[VulChatGPT](https://github.com/ke0z/vulchatgpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/ke0z/VulChatGPT?style=social)|
@@ -1031,10 +1055,10 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[davinci-functions](https://github.com/odashi/davinci-functions)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/odashi/davinci-functions?style=social)|
 |[chatgpt_ros](https://github.com/koichirokato/chatgpt_ros)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/koichirokato/chatgpt_ros?style=social)|
 |[genai](https://github.com/noteable-io/genai)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/noteable-io/genai?style=social)|
-|[GPTReview](https://github.com/iejmac/gptreview)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/iejMac/GPTReview?style=social)|
+|[GPTReview](https://github.com/iejmac/gptreview)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/iejmac/GPTReview?style=social)|
 |[scrapeghost](https://github.com/jamesturk/scrapeghost)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/jamesturk/scrapeghost?style=social)|
-|[Auto-GPT](https://github.com/significant-gravitas/auto-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social)|
-|[openai_tools](https://github.com/alleninstitute/openai_tools)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/AllenInstitute/openai_tools?style=social)|
+|[Auto-GPT](https://github.com/significant-gravitas/auto-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/significant-gravitas/Auto-GPT?style=social)|
+|[openai_tools](https://github.com/alleninstitute/openai_tools)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/alleninstitute/openai_tools?style=social)|
 |[openai-cookbook](https://github.com/openai/openai-cookbook)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/openai-cookbook?style=social)|
 |[disco-diffusion](https://github.com/alembics/disco-diffusion)|Jupyter Notebook|Other|![GitHub Repo stars](https://img.shields.io/github/stars/alembics/disco-diffusion?style=social)|
 |[chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/vincelwt/chatgpt-mac?style=social)|
@@ -1058,30 +1082,30 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop)|Rust|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/sonnylazuardi/chat-ai-desktop?style=social)|
 |[chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/eryajf/chatgpt-dingtalk?style=social)|
 |[go-openai](https://github.com/sashabaranov/go-openai)|Go|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/sashabaranov/go-openai?style=social)|
-|[feishu-chatgpt](https://github.com/leizhenpeng/feishu-chatgpt)|Go|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/Leizhenpeng/feishu-chatgpt?style=social)|
+|[feishu-chatgpt](https://github.com/leizhenpeng/feishu-chatgpt)|Go|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/leizhenpeng/feishu-chatgpt?style=social)|
 |[k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt?style=social)|
 |[ChatGPT-Proxy-V4](https://github.com/acheong08/chatgpt-proxy-v4)|Go|-|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/ChatGPT-Proxy-V4?style=social)|
 |[chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/williamfzc/chat-gpt-ppt?style=social)|
-|[CallGPT](https://github.com/dmingod/callgpt)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/dminGod/CallGPT?style=social)|
-|[dev-gpt](https://github.com/sampink/dev-gpt)|HTML|-|![GitHub Repo stars](https://img.shields.io/github/stars/SamPink/dev-gpt?style=social)|
+|[CallGPT](https://github.com/dmingod/callgpt)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/dmingod/CallGPT?style=social)|
+|[dev-gpt](https://github.com/sampink/dev-gpt)|HTML|-|![GitHub Repo stars](https://img.shields.io/github/stars/sampink/dev-gpt?style=social)|
 |[ruby-openai](https://github.com/alexrudall/ruby-openai)|Ruby|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/alexrudall/ruby-openai?style=social)|
-|[openai_pipe](https://github.com/aesthetikx/openai_pipe)|Ruby|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Aesthetikx/openai_pipe?style=social)|
+|[openai_pipe](https://github.com/aesthetikx/openai_pipe)|Ruby|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/aesthetikx/openai_pipe?style=social)|
 |[gptchatteR](https://github.com/isinaltinkaya/gptchatter)|R|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/isinaltinkaya/gptchatteR?style=social)|
-|[askgpt](https://github.com/jbgruber/askgpt)|R|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/JBGruber/askgpt?style=social)|
+|[askgpt](https://github.com/jbgruber/askgpt)|R|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/jbgruber/askgpt?style=social)|
 |[openai](https://github.com/samterfa/openai)|R|Other|![GitHub Repo stars](https://img.shields.io/github/stars/samterfa/openai?style=social)|
 |[ChatGptNet](https://github.com/marcominerva/chatgptnet)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/marcominerva/ChatGptNet?style=social)|
-|[Simple-ChatGPT-API-Desktop](https://github.com/cranot/simple-chatgpt-api-desktop)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Cranot/Simple-ChatGPT-API-Desktop?style=social)|
+|[Simple-ChatGPT-API-Desktop](https://github.com/cranot/simple-chatgpt-api-desktop)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cranot/Simple-ChatGPT-API-Desktop?style=social)|
 |[openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer)|Shell|-|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/openai-gpt-dev-notes-for-cn-developer?style=social)|
 |[cheetah](https://github.com/leetcode-mafia/cheetah)|Swift|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/leetcode-mafia/cheetah?style=social)|
 |[ChatGPTSwift](https://github.com/alfianlosari/chatgptswift)|Swift|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/alfianlosari/ChatGPTSwift?style=social)|
 |[nitmgpt](https://github.com/deskbtm/nitmgpt)|Dart|Other|![GitHub Repo stars](https://img.shields.io/github/stars/deskbtm/nitmgpt?style=social)|
-|[iChatGPT](https://github.com/37ios/ichatgpt)|Swift|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/37iOS/iChatGPT?style=social)|
-|[SwiftOpenAI](https://github.com/swiftbeta/swiftopenai)|Swift|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/SwiftBeta/SwiftOpenAI?style=social)|
+|[iChatGPT](https://github.com/37ios/ichatgpt)|Swift|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/37ios/iChatGPT?style=social)|
+|[SwiftOpenAI](https://github.com/swiftbeta/swiftopenai)|Swift|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/swiftbeta/SwiftOpenAI?style=social)|
 |[OpenAISwift](https://github.com/adamrushy/openaiswift)|Swift|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/adamrushy/OpenAISwift?style=social)|
 |[whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt)|CSS|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/johniwasz/whetstone.chatgpt?style=social)|
 |[subvert](https://github.com/aschmelyun/subvert)|PHP|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/aschmelyun/subvert?style=social)|
 |[carrot](https://github.com/xx025/carrot)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/xx025/carrot?style=social)|
-|[impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sw33tLie/impressive-chatgpt?style=social)|
+|[impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sw33tlie/impressive-chatgpt?style=social)|
 |[bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/reewardius/bbFuzzing.txt?style=social)|
 |[chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/chat-with-chatgpt?style=social)|
 
@@ -1149,10 +1173,8 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [Image2Paragraph](https://github.com/showlab/image2paragraph) - Transform Image into Unique Paragraph with ChatGPT, BLIP2, OFA, GRIT, Segment Anything, ControlNet.
  * [xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit) - Xircuits toolkit for creating and experimenting with BabyAGI/AutoGPT-style agents
  * [celltypewriter](https://github.com/ntranoslab/celltypewriter) - 👉update: you can now use #celltypewriter without a #gpt4 api-key. we've set up a #free version so you can try it out on your #data. ✨this will be active for a few days or until funds run out : ) have fun! github link:
- * [SubGPT](https://github.com/s0md3v/subgpt) - Find subdomains with GPT, for free
  * [AutoGPT-FR](https://github.com/mikiane/autogpt-fr) - Version française d'Auto GPT
  * [DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples) - Example models using DeepSpeed
- * [loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
  * [Caption-Anything](https://github.com/ttengwang/caption-anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences.
  * [AudioGPT](https://github.com/aigc-audio/audiogpt) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
  * [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - The Machine Learning project including ML/DL projects, notebooks, cheat codes of ML/DL, useful information on AI/AGI and codes or snippets/scripts/tasks with tips.
@@ -1168,7 +1190,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [yobulkdev](https://github.com/yobulkdev/yobulkdev) - 🔥 🔥 🔥Open Source & AI driven Data Onboarding Platform:Free flatfile.com alternative
  * [WTF-JavaScript](https://github.com/wtfacademy/wtf-javascript) - 我最近在重新学 JavaScript, 巩固一下细节, 也写一个“WTF JavaScript极简入门”，供新人学习。
  * [gpt3-email](https://github.com/danimelchor/gpt3-email) - Using GPT-3 to help you write emails.
- * [chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you 
+ * [chatgpt-action](https://github.com/kxxt/chatgpt-action) - Let ChatGPT review PRs for you
  * [scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
  * [gitter-solid](https://github.com/solid-contrib/gitter-solid) - Connect the Gitter API to solid chat
  * [mup](https://github.com/microsoft/mup) - react-native-test-app provides a test app for all supported platforms as a package
@@ -1199,7 +1221,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [mpi_small_examples](https://github.com/t-hishinuma/mpi_small_examples) - は？？？？？？？？？？chatgptにgithubに上がってる俺のmpiのサンプルコード(内積)のurl送りつけたら完璧に解説しやがったんだが？？
  * [gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - gpt4all-j chat
  * [ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
- * [blindvisaidgpt](https://github.com/justanotherlad/blindvisaidgpt) - An interactive aid for blind people using microsoft/visual-chatgpt 
+ * [blindvisaidgpt](https://github.com/justanotherlad/blindvisaidgpt) - An interactive aid for blind people using microsoft/visual-chatgpt
  * [cformers](https://github.com/nolanoorg/cformers) - SoTA Transformers with C-backend for fast inference on your CPU.
  * [Pake](https://github.com/tw93/pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
  * [run-wild](https://github.com/refcell/run-wild) - Augment GPT-4 Environment Access
@@ -1219,11 +1241,9 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt) - Offensive security use cases of ChatGPT
  * [ChatGPT-Saver](https://github.com/billionshields/chatgpt-saver) - Chat GPT ChatGPT Saver
  * [ChatGPT-Simple](https://github.com/logankilpatrick/chatgpt-simple) - Build a simple locally hosted version of ChatGPT in less than 100 lines of code
- * [rails](https://github.com/rails/rails) - Ruby on Rails
  * [LongReadBenchmark](https://github.com/xueyidong/longreadbenchmark) - Benchmarking long-read RNA-seq analysis tools
  * [GptMedCode](https://github.com/rohit43/gptmedcode) - @zakkohane @arjunmanrai from #ehr analytic perspective, was wondering if obtaining codes could be automated using #chatgpt backend. but the quality of codes returned was not that reliable. quality ~ icd &gt; loinc &gt; snomed
  * [AISisterAIChan](https://github.com/manju-summoner/aisisteraichan) - ChatGPT3.5を搭載した伺かゴースト「AI妹アイちゃん」です。利用には別途ChatGPTのAPIキーが必要です。
- * [runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
  * [Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt) - 2017 GUJAM
  * [ChatGPTforRhino](https://github.com/4kk11/chatgptforrhino) - chatgptforrhinoにgui実装してそれっぽくした！あとgithubに置いといた！
  * [OutlineStormingGPT](https://github.com/mayaenomoto/outlinestorminggpt) - Just a tool to talk softly with GPT
@@ -1236,7 +1256,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [chatgpt-web](https://github.com/chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
  * [SPTH](https://github.com/spthvx/spth) - Second Part To Hell's artworks: artificial (life/evolution/intelligence)
  * [whatsapp-chatgpt](https://github.com/navopw/whatsapp-chatgpt) - Procedural noise-map generator :foggy:
- * [MathGPT](https://github.com/meiyulee/mathgpt) - 免費數字驅動的數學模型人工智能 | 為你的數字建立數學模型 | 
+ * [MathGPT](https://github.com/meiyulee/mathgpt) - 免費數字驅動的數學模型人工智能 | 為你的數字建立數學模型 |
  * [ChatGPT.el](https://github.com/joshcho/chatgpt.el) - ChatGPT in Emacs
  * [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - Use ChatGPT from Flutter / Dart
  * [chatchan-dist](https://github.com/easychen/chatchan-dist) - Chat酱独立部署版，docker方案自带代理
@@ -1244,7 +1264,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [chatwire](https://github.com/theokafadaris/chatwire) - Self hosted ChatGPT clone using Laravel
  * [ChatGPTForTelegram](https://github.com/kylelin1998/chatgptfortelegram) - 目前机器人基于ChatGPT进行开发  使用机器人可以让你轻松进行对话， 后续机器人的更新升级一个命令即可搞定， 无需再上服务器进行升级机器人
  * [vagas](https://github.com/backend-br/vagas) - Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.
- * [GPTstudio](https://github.com/michelnivard/gptstudio) - R and FORTRAN based optimizer specifically written to estimate genetic variance component models, in which fixed effects and moderation effects are allowed. 
+ * [GPTstudio](https://github.com/michelnivard/gptstudio) - R and FORTRAN based optimizer specifically written to estimate genetic variance component models, in which fixed effects and moderation effects are allowed.
  * [binary-dist](https://github.com/poslogithub/binary-dist) - 実行可能バイナリ配布用
  * [GPTeacher](https://github.com/teknium1/gpteacher) - A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
  * [AI-Toolbox](https://github.com/enbifa/ai-toolbox) - Building a comprehensive resource for AI enthusiasts and professionals
@@ -1264,6 +1284,8 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [AI-Twitter-History](https://github.com/jtmuller5/ai-twitter-history) - ChatGPT is good but you don't know how to use it
  * [gpt-legion](https://github.com/eumemic/gpt-legion) - Radiant Blockchain Node (RXD) - SHA512/256 Proof-of-Work
  * [JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset) - The dataset contains over 18,000 Chinese question-answer pairs extracted from 281 episodes of the Chinese podcast "JinJinLeDao".
+ * [AlitaAI](https://github.com/alita-ai/alitaai) - #notion #chatgpt #AlitaAI 肝了一个月终于出来了，和 ChatGPT 一起产品/设计/前后端 ，新人求关注Alita AI（save to notion）是一款基于 Notion、ChatGPT 的人工智能助手， 能帮你渐进式学习、自动化高效录入知识片段抢先版： 
+ * [2048](https://github.com/inishchith/2048) - yet another 2048, but this time it's controlled by GPT
 
 
 |Name|Language|License|GitHub Stars|
@@ -1287,7 +1309,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[metaseq](https://github.com/facebookresearch/metaseq)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/metaseq?style=social)|
 |[ThreatResearch](https://github.com/securityjoes/threatresearch)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/securityjoes/ThreatResearch?style=social)|
 |[centminmod-abuseipdb-reporter](https://github.com/centminmod/centminmod-abuseipdb-reporter)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/centminmod/centminmod-abuseipdb-reporter?style=social)|
-|[stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/AUTOMATIC1111/stable-diffusion-webui?style=social)|
+|[stable-diffusion-webui](https://github.com/automatic1111/stable-diffusion-webui)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/automatic1111/stable-diffusion-webui?style=social)|
 |[examples](https://github.com/mosaicml/examples)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/mosaicml/examples?style=social)|
 |[ChatGDB](https://github.com/pgosar/chatgdb)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/pgosar/ChatGDB?style=social)|
 |[whisper](https://github.com/openai/whisper)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/whisper?style=social)|
@@ -1296,29 +1318,29 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[reflexion](https://github.com/noahshinn024/reflexion)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/noahshinn024/reflexion?style=social)|
 |[stackexplain](https://github.com/shobrook/stackexplain)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/shobrook/stackexplain?style=social)|
 |[nanoChatGPT](https://github.com/sanjeevanahilan/nanochatgpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/sanjeevanahilan/nanoChatGPT?style=social)|
-|[flash-attention](https://github.com/hazyresearch/flash-attention)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/HazyResearch/flash-attention?style=social)|
+|[flash-attention](https://github.com/hazyresearch/flash-attention)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/hazyresearch/flash-attention?style=social)|
 |[cgpt_exceptions](https://github.com/fkhan0520/cgpt_exceptions)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/fkhan0520/cgpt_exceptions?style=social)|
 |[go-gpt3](https://github.com/sashabaranov/go-gpt3)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/sashabaranov/go-gpt3?style=social)|
 |[talkGPT](https://github.com/chenyukang/talkgpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/chenyukang/talkGPT?style=social)|
-|[XX-Net](https://github.com/xx-net/xx-net)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/XX-net/XX-Net?style=social)|
-|[ida_gpt](https://github.com/mayerdaniel/ida_gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/MayerDaniel/ida_gpt?style=social)|
+|[XX-Net](https://github.com/xx-net/xx-net)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/xx-net/XX-Net?style=social)|
+|[ida_gpt](https://github.com/mayerdaniel/ida_gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/mayerdaniel/ida_gpt?style=social)|
 |[pubmedgpt](https://github.com/stanford-crfm/pubmedgpt)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/stanford-crfm/pubmedgpt?style=social)|
 |[nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/nanoGPT?style=social)|
 |[slither](https://github.com/crytic/slither)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/crytic/slither?style=social)|
-|[bpy-chat-gpt](https://github.com/joshuaknauber/bpy-chat-gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/joshuaKnauber/bpy-chat-gpt?style=social)|
+|[bpy-chat-gpt](https://github.com/joshuaknauber/bpy-chat-gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/joshuaknauber/bpy-chat-gpt?style=social)|
 |[scrapbox_chatgpt_connector](https://github.com/nishio/scrapbox_chatgpt_connector)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nishio/scrapbox_chatgpt_connector?style=social)|
 |[Partial-English-Subtitle-Translation](https://github.com/goldengrape/partial-english-subtitle-translation)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/goldengrape/Partial-English-Subtitle-Translation?style=social)|
 |[GilgaiDetection](https://github.com/geezacoleman/gilgaidetection)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/geezacoleman/GilgaiDetection?style=social)|
 |[chatgpt_stock_report](https://github.com/ddobokki/chatgpt_stock_report)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/ddobokki/chatgpt_stock_report?style=social)|
-|[DeeperSpeed](https://github.com/eleutherai/deeperspeed)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/EleutherAI/DeeperSpeed?style=social)|
+|[DeeperSpeed](https://github.com/eleutherai/deeperspeed)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/eleutherai/DeeperSpeed?style=social)|
 |[MM-REACT](https://github.com/microsoft/mm-react)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/MM-REACT?style=social)|
-|[WavCaps](https://github.com/xinhaomei/wavcaps)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/XinhaoMei/WavCaps?style=social)|
+|[WavCaps](https://github.com/xinhaomei/wavcaps)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/xinhaomei/WavCaps?style=social)|
 |[Painter](https://github.com/baaivision/painter)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/baaivision/Painter?style=social)|
-|[Auto-GPT](https://github.com/kanecohen/auto-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/KaneCohen/Auto-GPT?style=social)|
+|[Auto-GPT](https://github.com/kanecohen/auto-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kanecohen/Auto-GPT?style=social)|
 |[Robo-GPT](https://github.com/rokstrnisa/robo-gpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rokstrnisa/Robo-GPT?style=social)|
 |[gpt-4-search](https://github.com/andylokandy/gpt-4-search)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/andylokandy/gpt-4-search?style=social)|
-|[symbolicai](https://github.com/xpitfire/symbolicai)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/Xpitfire/symbolicai?style=social)|
-|[MiniGPT-4](https://github.com/vision-cair/minigpt-4)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4?style=social)|
+|[symbolicai](https://github.com/xpitfire/symbolicai)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/xpitfire/symbolicai?style=social)|
+|[MiniGPT-4](https://github.com/vision-cair/minigpt-4)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/vision-cair/MiniGPT-4?style=social)|
 |[DeepSpeed](https://github.com/microsoft/deepspeed)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeed?style=social)|
 |[micro-gpt](https://github.com/muellerberndt/micro-gpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/muellerberndt/micro-gpt?style=social)|
 |[gptdeploy](https://github.com/jina-ai/gptdeploy)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/jina-ai/gptdeploy?style=social)|
@@ -1327,26 +1349,24 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[magic-happens](https://github.com/empath-nirvana/magic-happens)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/empath-nirvana/magic-happens?style=social)|
 |[Multi-GPT](https://github.com/rumpfmax/multi-gpt)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/rumpfmax/Multi-GPT?style=social)|
 |[Image2Paragraph](https://github.com/showlab/image2paragraph)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/showlab/Image2Paragraph?style=social)|
-|[xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/XpressAI/xai-gpt-agent-toolkit?style=social)|
+|[xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/xpressai/xai-gpt-agent-toolkit?style=social)|
 |[celltypewriter](https://github.com/ntranoslab/celltypewriter)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ntranoslab/celltypewriter?style=social)|
-|[SubGPT](https://github.com/s0md3v/subgpt)|Python|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/s0md3v/SubGPT?style=social)|
 |[AutoGPT-FR](https://github.com/mikiane/autogpt-fr)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mikiane/AutoGPT-FR?style=social)|
 |[DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples)|Python|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/DeepSpeedExamples?style=social)|
-|[loopgpt](https://github.com/farizrahman4u/loopgpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/farizrahman4u/loopgpt?style=social)|
 |[Caption-Anything](https://github.com/ttengwang/caption-anything)|Python|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/ttengwang/Caption-Anything?style=social)|
-|[AudioGPT](https://github.com/aigc-audio/audiogpt)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=social)|
+|[AudioGPT](https://github.com/aigc-audio/audiogpt)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/aigc-audio/AudioGPT?style=social)|
 |[Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/aurimas13/Machine-Learning-Goodness?style=social)|
-|[data-winners](https://github.com/frontanalyticsinc/data-winners)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/FrontAnalyticsInc/data-winners?style=social)|
+|[data-winners](https://github.com/frontanalyticsinc/data-winners)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/frontanalyticsinc/data-winners?style=social)|
 |[critique-apps](https://github.com/inspired-cognition/critique-apps)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/inspired-cognition/critique-apps?style=social)|
 |[deep-rl-class](https://github.com/huggingface/deep-rl-class)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/deep-rl-class?style=social)|
-|[deep-RL-elements](https://github.com/amazingang/deep-rl-elements)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/AmazingAng/deep-RL-elements?style=social)|
+|[deep-RL-elements](https://github.com/amazingang/deep-rl-elements)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/amazingang/deep-RL-elements?style=social)|
 |[viper](https://github.com/cvlab-columbia/viper)|Jupyter Notebook|Other|![GitHub Repo stars](https://img.shields.io/github/stars/cvlab-columbia/viper?style=social)|
-|[ChatCaptioner](https://github.com/vision-cair/chatcaptioner)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Vision-CAIR/ChatCaptioner?style=social)|
+|[ChatCaptioner](https://github.com/vision-cair/chatcaptioner)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/vision-cair/ChatCaptioner?style=social)|
 |[galai](https://github.com/paperswithcode/galai)|Jupyter Notebook|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/paperswithcode/galai?style=social)|
 |[gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb)|Jupyter Notebook|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/gost-install.ipynb?style=social)|
 |[chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonnylazuardi/chatgpt-desktop?style=social)|
 |[yobulkdev](https://github.com/yobulkdev/yobulkdev)|JavaScript|GNU Affero General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/yobulkdev/yobulkdev?style=social)|
-|[WTF-JavaScript](https://github.com/wtfacademy/wtf-javascript)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/WTFAcademy/WTF-JavaScript?style=social)|
+|[WTF-JavaScript](https://github.com/wtfacademy/wtf-javascript)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/wtfacademy/WTF-JavaScript?style=social)|
 |[gpt3-email](https://github.com/danimelchor/gpt3-email)|JavaScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/danimelchor/gpt3-email?style=social)|
 |[chatgpt-action](https://github.com/kxxt/chatgpt-action)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kxxt/chatgpt-action?style=social)|
 |[scalene](https://github.com/plasma-umass/scalene)|JavaScript|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social)|
@@ -1363,11 +1383,11 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[ChattyCaty](https://github.com/cyberark/chattycaty)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cyberark/ChattyCaty?style=social)|
 |[appwrite](https://github.com/appwrite/appwrite)|TypeScript|BSD 3-Clause "New" or "Revised" License|![GitHub Repo stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social)|
 |[wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/fuergaosi233/wechat-chatgpt?style=social)|
-|[roomGPT](https://github.com/nutlope/roomgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/Nutlope/roomGPT?style=social)|
+|[roomGPT](https://github.com/nutlope/roomgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/nutlope/roomGPT?style=social)|
 |[noobnooc](https://github.com/noobnooc/noobnooc)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/noobnooc/noobnooc?style=social)|
-|[code-gpt](https://github.com/vaibhavacharya/code-gpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/VaibhavAcharya/code-gpt?style=social)|
+|[code-gpt](https://github.com/vaibhavacharya/code-gpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/vaibhavacharya/code-gpt?style=social)|
 |[Portal](https://github.com/lxfater/portal)|TypeScript|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/lxfater/Portal?style=social)|
-|[commitgpt](https://github.com/romanhotsiy/commitgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/RomanHotsiy/commitgpt?style=social)|
+|[commitgpt](https://github.com/romanhotsiy/commitgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/romanhotsiy/commitgpt?style=social)|
 |[chatgpt-md](https://github.com/bramses/chatgpt-md)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/bramses/chatgpt-md?style=social)|
 |[paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/paul-graham-gpt?style=social)|
 |[colorGPT](https://github.com/sonnylazuardi/colorgpt)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/sonnylazuardi/colorGPT?style=social)|
@@ -1380,7 +1400,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat)|C++|Other|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all-chat?style=social)|
 |[ggml](https://github.com/ggerganov/ggml)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/ggml?style=social)|
 |[blindvisaidgpt](https://github.com/justanotherlad/blindvisaidgpt)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/justanotherlad/blindvisaidgpt?style=social)|
-|[cformers](https://github.com/nolanoorg/cformers)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/NolanoOrg/cformers?style=social)|
+|[cformers](https://github.com/nolanoorg/cformers)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/nolanoorg/cformers?style=social)|
 |[Pake](https://github.com/tw93/pake)|Rust|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/tw93/Pake?style=social)|
 |[run-wild](https://github.com/refcell/run-wild)|Rust|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/refcell/run-wild?style=social)|
 |[gpt-macro](https://github.com/retrage/gpt-macro)|Rust|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/retrage/gpt-macro?style=social)|
@@ -1388,61 +1408,61 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
 |[gwipt](https://github.com/benwr/gwipt)|Rust|-|![GitHub Repo stars](https://img.shields.io/github/stars/benwr/gwipt?style=social)|
 |[whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/danielgross/whatsapp-gpt?style=social)|
 |[chatgpt-web](https://github.com/869413421/chatgpt-web)|Go|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/869413421/chatgpt-web?style=social)|
-|[legitify](https://github.com/legit-labs/legitify)|Go|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/Legit-Labs/legitify?style=social)|
+|[legitify](https://github.com/legit-labs/legitify)|Go|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/legit-labs/legitify?style=social)|
 |[wechatgpt](https://github.com/houko/wechatgpt)|Go|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/houko/wechatgpt?style=social)|
 |[xiaogpt.git](https://github.com/yihong0618/xiaogpt.git)|Go|-|![GitHub Repo stars](https://img.shields.io/github/stars/yihong0618/xiaogpt.git?style=social)|
 |[wechat-chatGPT](https://github.com/gtoxlili/wechat-chatgpt)|Go|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/gtoxlili/wechat-chatGPT?style=social)|
-|[dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy)|Go|ISC License|![GitHub Repo stars](https://img.shields.io/github/stars/DNSCrypt/dnscrypt-proxy?style=social)|
+|[dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy)|Go|ISC License|![GitHub Repo stars](https://img.shields.io/github/stars/dnscrypt/dnscrypt-proxy?style=social)|
 |[review-gpt](https://github.com/vibovenkat123/review-gpt)|Go|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/vibovenkat123/review-gpt?style=social)|
 |[kube-ovn](https://github.com/kubeovn/kube-ovn)|Go|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/kubeovn/kube-ovn?style=social)|
 |[gpt-takes-the-bar-exam](https://github.com/mjbommar/gpt-takes-the-bar-exam)|HTML|-|![GitHub Repo stars](https://img.shields.io/github/stars/mjbommar/gpt-takes-the-bar-exam?style=social)|
 |[offensive-chatgpt](https://github.com/payloadartist/offensive-chatgpt)|HTML|-|![GitHub Repo stars](https://img.shields.io/github/stars/payloadartist/offensive-chatgpt?style=social)|
-|[ChatGPT-Saver](https://github.com/billionshields/chatgpt-saver)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/BillionShields/ChatGPT-Saver?style=social)|
+|[ChatGPT-Saver](https://github.com/billionshields/chatgpt-saver)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/billionshields/ChatGPT-Saver?style=social)|
 |[ChatGPT-Simple](https://github.com/logankilpatrick/chatgpt-simple)|HTML|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/logankilpatrick/ChatGPT-Simple?style=social)|
-|[rails](https://github.com/rails/rails)|Ruby|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rails/rails?style=social)|
-|[LongReadBenchmark](https://github.com/xueyidong/longreadbenchmark)|R|-|![GitHub Repo stars](https://img.shields.io/github/stars/XueyiDong/LongReadBenchmark?style=social)|
+|[LongReadBenchmark](https://github.com/xueyidong/longreadbenchmark)|R|-|![GitHub Repo stars](https://img.shields.io/github/stars/xueyidong/LongReadBenchmark?style=social)|
 |[GptMedCode](https://github.com/rohit43/gptmedcode)|R|-|![GitHub Repo stars](https://img.shields.io/github/stars/rohit43/GptMedCode?style=social)|
 |[AISisterAIChan](https://github.com/manju-summoner/aisisteraichan)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/manju-summoner/AISisterAIChan?style=social)|
-|[runtime](https://github.com/dotnet/runtime)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/dotnet/runtime?style=social)|
-|[Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Entrepreneur-GPT?style=social)|
+|[Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/torantulino/Entrepreneur-GPT?style=social)|
 |[ChatGPTforRhino](https://github.com/4kk11/chatgptforrhino)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/4kk11/ChatGPTforRhino?style=social)|
-|[OutlineStormingGPT](https://github.com/mayaenomoto/outlinestorminggpt)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/MayaEnomoto/OutlineStormingGPT?style=social)|
-|[Auto-GPT.git](https://github.com/torantulino/auto-gpt.git)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/Torantulino/Auto-GPT.git?style=social)|
-|[ChatGPT-Bypass](https://github.com/grimoutlaw/chatgpt-bypass)|PowerShell|-|![GitHub Repo stars](https://img.shields.io/github/stars/GrimOutlaw/ChatGPT-Bypass?style=social)|
+|[OutlineStormingGPT](https://github.com/mayaenomoto/outlinestorminggpt)|C#|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/mayaenomoto/OutlineStormingGPT?style=social)|
+|[Auto-GPT.git](https://github.com/torantulino/auto-gpt.git)|C#|-|![GitHub Repo stars](https://img.shields.io/github/stars/torantulino/Auto-GPT.git?style=social)|
+|[ChatGPT-Bypass](https://github.com/grimoutlaw/chatgpt-bypass)|PowerShell|-|![GitHub Repo stars](https://img.shields.io/github/stars/grimoutlaw/ChatGPT-Bypass?style=social)|
 |[robustlearn](https://github.com/microsoft/robustlearn)|PowerShell|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/robustlearn?style=social)|
 |[check](https://github.com/yeahwu/check)|Shell|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/yeahwu/check?style=social)|
 |[haoel.github.io](https://github.com/haoel/haoel.github.io)|Shell|-|![GitHub Repo stars](https://img.shields.io/github/stars/haoel/haoel.github.io?style=social)|
-|[FlexGen](https://github.com/ying1123/flexgen)|Java|-|![GitHub Repo stars](https://img.shields.io/github/stars/Ying1123/FlexGen?style=social)|
-|[chatgpt-web](https://github.com/chanzhaoyu/chatgpt-web)|Vue|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Chanzhaoyu/chatgpt-web?style=social)|
-|[SPTH](https://github.com/spthvx/spth)|MATLAB|-|![GitHub Repo stars](https://img.shields.io/github/stars/SPTHvx/SPTH?style=social)|
+|[FlexGen](https://github.com/ying1123/flexgen)|Java|-|![GitHub Repo stars](https://img.shields.io/github/stars/ying1123/FlexGen?style=social)|
+|[chatgpt-web](https://github.com/chanzhaoyu/chatgpt-web)|Vue|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/chanzhaoyu/chatgpt-web?style=social)|
+|[SPTH](https://github.com/spthvx/spth)|MATLAB|-|![GitHub Repo stars](https://img.shields.io/github/stars/spthvx/SPTH?style=social)|
 |[whatsapp-chatgpt](https://github.com/navopw/whatsapp-chatgpt)|Java|-|![GitHub Repo stars](https://img.shields.io/github/stars/navopw/whatsapp-chatgpt?style=social)|
 |[MathGPT](https://github.com/meiyulee/mathgpt)|Batchfile|-|![GitHub Repo stars](https://img.shields.io/github/stars/meiyulee/MathGPT?style=social)|
 |[ChatGPT.el](https://github.com/joshcho/chatgpt.el)|Emacs Lisp|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/joshcho/ChatGPT.el?style=social)|
 |[flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api)|Dart|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/coskuncay/flutter_chatgpt_api?style=social)|
 |[chatchan-dist](https://github.com/easychen/chatchan-dist)|PHP|-|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/chatchan-dist?style=social)|
-|[MaterialGPT](https://github.com/dylanakp/materialgpt)|Vue|-|![GitHub Repo stars](https://img.shields.io/github/stars/DylanAkp/MaterialGPT?style=social)|
+|[MaterialGPT](https://github.com/dylanakp/materialgpt)|Vue|-|![GitHub Repo stars](https://img.shields.io/github/stars/dylanakp/MaterialGPT?style=social)|
 |[chatwire](https://github.com/theokafadaris/chatwire)|PHP|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/theokafadaris/chatwire?style=social)|
 |[ChatGPTForTelegram](https://github.com/kylelin1998/chatgptfortelegram)|Java|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/kylelin1998/ChatGPTForTelegram?style=social)|
 |[vagas](https://github.com/backend-br/vagas)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/backend-br/vagas?style=social)|
-|[GPTstudio](https://github.com/michelnivard/gptstudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/MichelNivard/GPTstudio?style=social)|
+|[GPTstudio](https://github.com/michelnivard/gptstudio)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/michelnivard/GPTstudio?style=social)|
 |[binary-dist](https://github.com/poslogithub/binary-dist)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/poslogithub/binary-dist?style=social)|
 |[GPTeacher](https://github.com/teknium1/gpteacher)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/teknium1/GPTeacher?style=social)|
 |[AI-Toolbox](https://github.com/enbifa/ai-toolbox)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/enbifa/AI-Toolbox?style=social)|
 |[following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/openai/following-instructions-human-feedback?style=social)|
-|[Audits-Smart-Contracts](https://github.com/audit-ace/audits-smart-contracts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Audit-Ace/Audits-Smart-Contracts?style=social)|
+|[Audits-Smart-Contracts](https://github.com/audit-ace/audits-smart-contracts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/audit-ace/Audits-Smart-Contracts?style=social)|
 |[Malware](https://github.com/objective-see/malware)|-|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/objective-see/Malware?style=social)|
 |[inPars](https://github.com/zetaalphavector/inpars)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/zetaalphavector/inPars?style=social)|
 |[ai-review.vim](https://github.com/yuki-yano/ai-review.vim)|-|Other|![GitHub Repo stars](https://img.shields.io/github/stars/yuki-yano/ai-review.vim?style=social)|
-|[gayolGate](https://github.com/gayolgate/gayolgate)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gayolGate/gayolGate?style=social)|
+|[gayolGate](https://github.com/gayolgate/gayolgate)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/gayolgate/gayolGate?style=social)|
 |[minlora](https://github.com/cccntu/minlora)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/cccntu/minlora?style=social)|
-|[EOSIO-Vulnerability-Scanner](https://github.com/sentnl/eosio-vulnerability-scanner)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Sentnl/EOSIO-Vulnerability-Scanner?style=social)|
-|[paytm-movies](https://github.com/hedcet/paytm-movies)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/HedCET/paytm-movies?style=social)|
+|[EOSIO-Vulnerability-Scanner](https://github.com/sentnl/eosio-vulnerability-scanner)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/sentnl/EOSIO-Vulnerability-Scanner?style=social)|
+|[paytm-movies](https://github.com/hedcet/paytm-movies)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hedcet/paytm-movies?style=social)|
 |[chatgpt-vscode](https://github.com/ai-genie/chatgpt-vscode)|-|ISC License|![GitHub Repo stars](https://img.shields.io/github/stars/ai-genie/chatgpt-vscode?style=social)|
-|[PolyglotSiri-Apple-Shortcut](https://github.com/munntein/polyglotsiri-apple-shortcut)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/Munntein/PolyglotSiri-Apple-Shortcut?style=social)|
+|[PolyglotSiri-Apple-Shortcut](https://github.com/munntein/polyglotsiri-apple-shortcut)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/munntein/PolyglotSiri-Apple-Shortcut?style=social)|
 |[M5Burner_M5Unified_StackChan_ChatGPT_README](https://github.com/robo8080/m5burner_m5unified_stackchan_chatgpt_readme)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/robo8080/M5Burner_M5Unified_StackChan_ChatGPT_README?style=social)|
-|[stableLM](https://github.com/stability-ai/stablelm)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/stability-AI/stableLM?style=social)|
+|[stableLM](https://github.com/stability-ai/stablelm)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/stability-ai/stableLM?style=social)|
 |[AI-Twitter-History](https://github.com/jtmuller5/ai-twitter-history)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jtmuller5/AI-Twitter-History?style=social)|
 |[gpt-legion](https://github.com/eumemic/gpt-legion)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/gpt-legion?style=social)|
 |[JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tech-podcasts/JinJinLeDao_QA_Dataset?style=social)|
+|[AlitaAI](https://github.com/alita-ai/alitaai)|None|{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}|![GitHub Repo stars](https://img.shields.io/github/stars/Alita-ai/AlitaAI?style=social)|
+|[2048](https://github.com/inishchith/2048)|JavaScript|{'key': 'mit', 'name': 'MIT License', 'spdx_id': 'MIT', 'url': 'https://api.github.com/licenses/mit', 'node_id': 'MDc6TGljZW5zZTEz'}|![GitHub Repo stars](https://img.shields.io/github/stars/inishchith/2048?style=social)|
 
 
