@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "contents": {
         "Awesome-lists": {
             "https://github.com/f/awesome-chatgpt-prompts": {
@@ -184,6 +184,16 @@
                 "license": "Creative Commons Zero v1.0 Universal",
                 "description": "A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.",
                 "topics": []
+            },
+            "https://github.com/ora-sh/awesome-gpt4-prompts": {
+                "repository_name": "Awesome-GPT4-Prompts",
+                "user_name": "ora-sh",
+                "language": null,
+                "license": null,
+                "description": "A collection of awesome GPT4 prompts",
+                "topics": [
+                    "gpt-4"
+                ]
             }
         },
         "Prompts": {
@@ -658,6 +668,14 @@
                     "midjourney",
                     "notion"
                 ]
+            },
+            "https://github.com/jushbjj/mr.-ranedeer-ai-tutor": {
+                "repository_name": "Mr.-Ranedeer-AI-Tutor",
+                "user_name": "JushBJJ",
+                "language": null,
+                "license": null,
+                "description": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
+                "topics": []
             }
         },
         "Chatbots": {
@@ -1470,20 +1488,6 @@
                 "license": null,
                 "description": "replicating chatlangchain (a chatgpt-like bot that only answers questions about langchain documentation) with a typescript backed  heard @swyx is having a hackathon later today. hopefully this can serve as a starting point for some projects there!",
                 "topics": []
-            },
-            "https://github.com/guangzhengli/chatfiles": {
-                "repository_name": "ChatFiles",
-                "user_name": "guangzhengli",
-                "language": "TypeScript",
-                "license": "MIT License",
-                "description": "Have a conversation with files ｜与你的文件对话",
-                "topics": [
-                    "chatbot",
-                    "chatfile",
-                    "chatgpt",
-                    "chatgpt-api",
-                    "chatpdf"
-                ]
             },
             "https://github.com/hmmhmmhm/friday-gpt": {
                 "repository_name": "friday-gpt",
@@ -2485,6 +2489,84 @@
                 "license": "BSD 3-Clause \"New\" or \"Revised\" License",
                 "description": "Dangermode is a ChatGPT Plugin written with Python and FastAPI that allows ChatGPT to execute code snippets in an IPython session.",
                 "topics": []
+            },
+            "https://github.com/richardyc/chrome-gpt": {
+                "repository_name": "Chrome-GPT",
+                "user_name": "richardyc",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "An AutoGPT agent that controls Chrome on your desktop",
+                "topics": [
+                    "ai",
+                    "autogpt",
+                    "chatgpt",
+                    "gpt-3-5-turbo",
+                    "gpt-4",
+                    "langchain"
+                ]
+            },
+            "https://github.com/isaiahbjork/auto-gpt-metatrader-plugin": {
+                "repository_name": "Auto-GPT-MetaTrader-Plugin",
+                "user_name": "isaiahbjork",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "The AutoGPT MetaTrader Plugin is a software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.",
+                "topics": [
+                    "autogpt",
+                    "crypto",
+                    "finance",
+                    "forex",
+                    "gpt-3",
+                    "gpt-4",
+                    "metatrader",
+                    "metatrader-4",
+                    "metatrader-5",
+                    "metatrader5",
+                    "mt4",
+                    "mt5",
+                    "stocks",
+                    "trading"
+                ]
+            },
+            "https://github.com/significant-gravitas/auto-gpt-plugins": {
+                "repository_name": "Auto-GPT-Plugins",
+                "user_name": "Significant-Gravitas",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Plugins for Auto-GPT",
+                "topics": []
+            },
+            "https://github.com/dabit3/nextjs-chatgpt-plugin-starter": {
+                "repository_name": "nextjs-chatgpt-plugin-starter",
+                "user_name": "dabit3",
+                "language": "TypeScript",
+                "license": null,
+                "description": "ChatGPT plugin starter project using Next.js",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plugin",
+                    "chatgpt-plugins",
+                    "gpt",
+                    "openai"
+                ]
             }
         },
         "CLIs": {
@@ -4472,25 +4554,54 @@
                     "opensource"
                 ]
             },
-            "https://github.com/mooler0410/llmspracticalguide": {
-                "repository_name": "LLMsPracticalGuide",
-                "user_name": "Mooler0410",
+            "https://github.com/jackbackes/happycommit": {
+                "repository_name": "happycommit",
+                "user_name": "jackbackes",
+                "language": "Rust",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "HappyCommit is a delightful tool that harnesses the power of OpenAI's GPT-3.5 Turbo language model to generate meaningful and descriptive Git commit messages for you.",
+                "topics": []
+            },
+            "https://github.com/jconorgrogan/jamesgpt": {
+                "repository_name": "JamesGPT",
+                "user_name": "jconorgrogan",
                 "language": null,
                 "license": null,
-                "description": "A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)",
-                "topics": [
-                    "large-language-models",
-                    "natural-language-processing",
-                    "nlp",
-                    "survey"
-                ]
+                "description": "Jailbreak for ChatGPT: Predict the future, opine on politics and controversial topics, and assess what is true. May help us understand more about LLM Bias",
+                "topics": []
             },
-            "https://github.com/ingig/code-narrator": {
-                "repository_name": "code-narrator",
-                "user_name": "ingig",
-                "language": "TypeScript",
-                "license": null,
-                "description": "Self documenting tool using GPT4. It also can document your project",
+            "https://github.com/kaixindelele/chatpaper": {
+                "repository_name": "ChatPaper",
+                "user_name": "kaixindelele",
+                "language": "Python",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复",
+                "topics": []
+            },
+            "https://github.com/srush/minichain": {
+                "repository_name": "minichain",
+                "user_name": "srush",
+                "language": "Lua",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Sequence-to-sequence model with LSTM encoder/decoders and attention",
                 "topics": []
             }
         },
@@ -6052,22 +6163,6 @@
                 "description": "GPT Takes the Bar Exam",
                 "topics": []
             },
-            "https://github.com/rails/rails": {
-                "repository_name": "rails",
-                "user_name": "rails",
-                "language": "Ruby",
-                "license": "MIT License",
-                "description": "Ruby on Rails",
-                "topics": [
-                    "activejob",
-                    "activerecord",
-                    "framework",
-                    "html",
-                    "mvc",
-                    "rails",
-                    "ruby"
-                ]
-            },
             "https://github.com/ggerganov/ggml": {
                 "repository_name": "ggml",
                 "user_name": "ggerganov",
@@ -6794,17 +6889,6 @@
                     "sms",
                     "transactional",
                     "typescript"
-                ]
-            },
-            "https://github.com/dotnet/runtime": {
-                "repository_name": "runtime",
-                "user_name": "dotnet",
-                "language": "C#",
-                "license": "MIT License",
-                "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
-                "topics": [
-                    "dotnet",
-                    "hacktoberfest"
                 ]
             },
             "https://github.com/hazyresearch/flash-attention": {
@@ -7586,19 +7670,6 @@
                 "description": "gpt4all-j chat",
                 "topics": []
             },
-            "https://github.com/s0md3v/subgpt": {
-                "repository_name": "SubGPT",
-                "user_name": "s0md3v",
-                "language": "Python",
-                "license": "GNU Affero General Public License v3.0",
-                "description": "Find subdomains with GPT, for free",
-                "topics": [
-                    "recon",
-                    "scanner",
-                    "scanning",
-                    "subdomain"
-                ]
-            },
             "https://github.com/lewangdev/gost-install.ipynb": {
                 "repository_name": "gost-install.ipynb",
                 "user_name": "lewangdev",
@@ -7631,19 +7702,6 @@
                 "description": "Example models using DeepSpeed",
                 "topics": []
             },
-            "https://github.com/farizrahman4u/loopgpt": {
-                "repository_name": "loopgpt",
-                "user_name": "farizrahman4u",
-                "language": "Python",
-                "license": "MIT License",
-                "description": "Modular Auto-GPT Framework",
-                "topics": [
-                    "chatgpt",
-                    "gpt",
-                    "gpt4",
-                    "llms"
-                ]
-            },
             "https://github.com/ttengwang/caption-anything": {
                 "repository_name": "Caption-Anything",
                 "user_name": "ttengwang",
@@ -7672,6 +7730,34 @@
                     "speech",
                     "talking-head"
                 ]
+            },
+            "https://github.com/alita-ai/alitaai": {
+                "repository_name": "AlitaAI",
+                "user_name": "Alita-ai",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "#notion #chatgpt #AlitaAI 肝了一个月终于出来了，和 ChatGPT 一起产品/设计/前后端 ，新人求关注Alita AI（save to notion）是一款基于 Notion、ChatGPT 的人工智能助手， 能帮你渐进式学习、自动化高效录入知识片段抢先版： ",
+                "topics": []
+            },
+            "https://github.com/inishchith/2048": {
+                "repository_name": "2048",
+                "user_name": "inishchith",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "yet another 2048, but this time it's controlled by GPT",
+                "topics": []
             }
         }
     }
