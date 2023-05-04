@@ -549,6 +549,7 @@ _Updated on May 01, 2023_ (A total of 648 repositories listed.)
  * [openai-java](https://github.com/theokanning/openai-java) - OpenAI GPT-3 Api Client in Java
  * [hfuzz](https://github.com/thehlopster/hfuzz) - Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.
  * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+ * [HappyCommit](https://github.com/jackbackes/happycommit) - git commit-gpt for AI-generated diffs of any size, dropped straight into vim to edit.
 
 
 |Name|Language|License|GitHub Stars|
