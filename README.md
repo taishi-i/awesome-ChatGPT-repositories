@@ -13,6 +13,8 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
+_🆕 By using ChatGPT, we were able to improve the translation results. (May 06, 2023)_
+
 
 ## The latest additions 🎉
 
@@ -43,7 +45,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [2048](https://github.com/inishchith/2048) - yet another 2048, but this time it's controlled by GPT
 
 
-_Updated on May 05, 2023_ (A total of 660 repositories listed.)
+_Updated on May 06, 2023_ (A total of 660 repositories listed.)
 
 🏅 [jackbackes](https://github.com/jackbackes) provided some repository information. Thank you!
 
