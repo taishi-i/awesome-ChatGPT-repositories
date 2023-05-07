@@ -16,35 +16,27 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - 素晴らしいGPT4プロンプトのコレクション
+ * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 OpenAIによって開発された人工知能チャットボットChatGPTの素晴らしいリスト
 
 
 **Prompts**
- * [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) - カスタマイズ可能な個人に合わせた学習体験のためのGPT-4 AIチュータープロンプト。
+ * [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese) - 「開発者向けのChatGPTプロンプトエンジニアリング」の非公式版英中字幕
 
 
-**Browser-extensions**
- * [Chrome-GPT](https://github.com/richardyc/chrome-gpt) - デスクトップ上のChromeを制御するAutoGPTエージェント
- * [Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin) - AutoGPT MetaTraderプラグインは、トレーダーがMetaTrader 4または5の取引口座をAuto-GPTに接続できるようにするソフトウェアツールです。
- * [Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins) - Auto-GPT用のプラグイン
- * [nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter) - Next.jsを使用したChatGPTプラグインのスタータープロジェクト
+**CLIs**
+ * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilotは、目標を達成するために、OpenAIモデルを使用してターミナルのコマンドやファイルシステム操作を生成するCLIツールです。
 
 
-**NLP**
- * [happycommit](https://github.com/jackbackes/happycommit) - HappyCommitは、OpenAIのGPT-3.5 Turbo言語モデルの力を活用して、意味のあるGitコミットメッセージを生成する楽しいツールです。
- * [JamesGPT](https://github.com/jconorgrogan/jamesgpt) - ChatGPTのジェイルブレイク：未来を予測し、政治や論争のあるトピックに意見を述べ、真実を評価することができます。LLMバイアスについてより理解するのに役立つかもしれません。
- * [ChatPaper](https://github.com/kaixindelele/chatpaper) - ChatGPTを使用してarXiv論文を要約する。ChatGPTを利用して論文の要約、編集、査読、査読返信を行い、研究プロセス全体を加速します。
- * [minichain](https://github.com/srush/minichain) - LSTMエンコーダ/デコーダとアテンションを使用したシーケンス・ツー・シーケンスモデル
+**Langchain**
+ * [open_llama](https://github.com/openlm-research/open_llama) - OpenLLamaは、Meta AIのLLaMAの許可を得たオープンソースの再現版です。🦙「OpenLLaMAは、多くのタスクにおいてオリジナルのLLaMAやGPT-Jと同等の性能を発揮し、一部のタスクではそれらを上回る性能を発揮します。」👀
 
 
 **Others**
- * [AlitaAI](https://github.com/alita-ai/alitaai) - #notion #chatgpt #AlitaAI が1ヶ月かかってようやく完成しました。ChatGPTと一緒に製品/デザイン/フロントエンド/バックエンドを担当しています。新人ですが、Alita AI（notionに保存）をフォローしてください。Alita AIは、NotionとChatGPTに基づく人工知能アシスタントで、段階的に学習し、知識フラグメントを自動的に効率的に入力することができます。先行版：
- * [2048](https://github.com/inishchith/2048) - また別の2048ですが、今回はGPTによって制御されています。
+ * [VardaGPT](https://github.com/ixaxaar/vardagpt) - 連想メモリ強化GPT-2モデル
+ * [gpt-json](https://github.com/piercefreeman/gpt-json) - Pythonで構造化され、型ヒントが付いたGPTの応答
 
 
-_Updated on May 06, 2023_ (A total of 660 repositories listed.)
-
-🏅 [jackbackes](https://github.com/jackbackes) provided some repository information. Thank you!
+_Updated on May 07, 2023_ (A total of 647 repositories listed.)
 
 ## Table of contents
 
@@ -79,6 +71,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
  * [awesome-gpt4](https://github.com/taranjeet/awesome-gpt4) - GPT-4の素晴らしいリソース、ユースケース、デモの厳選リスト
  * [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - LLMまたはGPTを使用した、素晴らしいセキュリティツール、実験的なケース、またはその他の興味深いものの厳選リスト。
  * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - 素晴らしいGPT4プロンプトのコレクション
+ * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 OpenAIによって開発された人工知能チャットボットChatGPTの素晴らしいリスト
 
 
 |Name|Language|License|GitHub Stars|
@@ -97,6 +90,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
 |[awesome-gpt4](https://github.com/taranjeet/awesome-gpt4)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/taranjeet/awesome-gpt4?style=social)|
 |[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/cckuailong/awesome-gpt-security?style=social)|
 |[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|
+|[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|
 
 
 ## Prompts
@@ -147,6 +141,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [FinGPT](https://github.com/ai4finance-foundation/fingpt) - オープンファイナンスのためのオープンソース！革命を起こそう🔥
  * [aish](https://github.com/aishell-io/aish) - プロンプトとメッセージのためのローカルストレージを備えたChatGPT CLI。
  * [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) - カスタマイズ可能な個人に合わせた学習体験のためのGPT-4 AIチュータープロンプト。
+ * [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese) - 「開発者向けのChatGPTプロンプトエンジニアリング」の非公式版英中字幕
 
 
 |Name|Language|License|GitHub Stars|
@@ -193,7 +188,8 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[ResearchChatGPT](https://github.com/hollobit/researchchatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/ResearchChatGPT?style=social)|
 |[FinGPT](https://github.com/ai4finance-foundation/fingpt)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ai4finance-foundation/FinGPT?style=social)|
 |[aish](https://github.com/aishell-io/aish)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aishell-io/aish?style=social)|
-|[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|
+|[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jushbjj/Mr.-Ranedeer-AI-Tutor?style=social)|
+|[ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese?style=social)|
 
 
 ## Chatbots
@@ -513,7 +509,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-chatgpt-plugins?style=social)|
 |[Chrome-GPT](https://github.com/richardyc/chrome-gpt)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social)|
 |[Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-MetaTrader-Plugin?style=social)|
-|[Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT-Plugins?style=social)|
+|[Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/significant-gravitas/Auto-GPT-Plugins?style=social)|
 |[nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/nextjs-chatgpt-plugin-starter?style=social)|
 
 
@@ -575,6 +571,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [openai-java](https://github.com/theokanning/openai-java) - JavaでのOpenAI GPT-3 APIクライアント
  * [hfuzz](https://github.com/thehlopster/hfuzz) - 私が行ったペントテストの結果、git.rip、ChatGPT、Lex、nucleiテンプレート、Webスキャナー、seclist、bo0mなど、信頼できるさまざまなソースから作成されたWebファジング用のワードリスト。
  * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 1ページでコマンドラインをマスターする
+ * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilotは、目標を達成するために、OpenAIモデルを使用してターミナルのコマンドやファイルシステム操作を生成するCLIツールです。
 
 
 |Name|Language|License|GitHub Stars|
@@ -635,6 +632,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[openai-java](https://github.com/theokanning/openai-java)|Java|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/theokanning/openai-java?style=social)|
 |[hfuzz](https://github.com/thehlopster/hfuzz)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|
+|[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|
 
 
 ## Reimplementations
@@ -912,6 +910,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [llama.cpp](https://github.com/ggerganov/llama.cpp) - C/C++でのFacebookのLLaMAモデルのポート
  * [dalai](https://github.com/cocktailpeanut/dalai) - ローカルマシンでLLaMAを実行する最も簡単な方法
  * [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - ChatGPT、GenerativeAI、LLMsのタイムライン
+ * [open_llama](https://github.com/openlm-research/open_llama) - OpenLLamaは、Meta AIのLLaMAの許可を得たオープンソースの再現版です。🦙「OpenLLaMAは、多くのタスクにおいてオリジナルのLLaMAやGPT-Jと同等の性能を発揮し、一部のタスクではそれらを上回る性能を発揮します。」👀
 
 
 |Name|Language|License|GitHub Stars|
@@ -947,6 +946,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[llama.cpp](https://github.com/ggerganov/llama.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)|
 |[dalai](https://github.com/cocktailpeanut/dalai)|CSS|-|![GitHub Repo stars](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social)|
 |[GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/GenAI_LLM_timeline?style=social)|
+|[open_llama](https://github.com/openlm-research/open_llama)|-|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/openlm-research/open_llama?style=social)|
 
 
 ## Unity
@@ -1293,6 +1293,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset) - このデータセットには、中国のポッドキャスト「JinJinLeDao」の281エピソードから抽出された18,000以上の中国語の質問と回答のペアが含まれています。
  * [AlitaAI](https://github.com/alita-ai/alitaai) - #notion #chatgpt #AlitaAI が1ヶ月かかってようやく完成しました。ChatGPTと一緒に製品/デザイン/フロントエンド/バックエンドを担当しています。新人ですが、Alita AI（notionに保存）をフォローしてください。Alita AIは、NotionとChatGPTに基づく人工知能アシスタントで、段階的に学習し、知識フラグメントを自動的に効率的に入力することができます。先行版：
  * [2048](https://github.com/inishchith/2048) - また別の2048ですが、今回はGPTによって制御されています。
+ * [VardaGPT](https://github.com/ixaxaar/vardagpt) - 連想メモリ強化GPT-2モデル
+ * [gpt-json](https://github.com/piercefreeman/gpt-json) - Pythonで構造化され、型ヒントが付いたGPTの応答
 
 
 |Name|Language|License|GitHub Stars|
@@ -1469,7 +1471,9 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[AI-Twitter-History](https://github.com/jtmuller5/ai-twitter-history)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jtmuller5/AI-Twitter-History?style=social)|
 |[gpt-legion](https://github.com/eumemic/gpt-legion)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/gpt-legion?style=social)|
 |[JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tech-podcasts/JinJinLeDao_QA_Dataset?style=social)|
-|[AlitaAI](https://github.com/alita-ai/alitaai)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Alita-ai/AlitaAI?style=social)|
+|[AlitaAI](https://github.com/alita-ai/alitaai)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/alita-ai/AlitaAI?style=social)|
 |[2048](https://github.com/inishchith/2048)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/inishchith/2048?style=social)|
+|[VardaGPT](https://github.com/ixaxaar/vardagpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/ixaxaar/VardaGPT?style=social)|
+|[gpt-json](https://github.com/piercefreeman/gpt-json)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|
 
 

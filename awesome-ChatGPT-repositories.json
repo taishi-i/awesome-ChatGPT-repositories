@@ -194,6 +194,30 @@
                 "topics": [
                     "gpt-4"
                 ]
+            },
+            "https://github.com/sindresorhus/awesome-chatgpt": {
+                "repository_name": "awesome-chatgpt",
+                "user_name": "sindresorhus",
+                "language": null,
+                "license": {
+                    "key": "cc0-1.0",
+                    "name": "Creative Commons Zero v1.0 Universal",
+                    "spdx_id": "CC0-1.0",
+                    "url": "https://api.github.com/licenses/cc0-1.0",
+                    "node_id": "MDc6TGljZW5zZTY="
+                },
+                "description": "🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "openai"
+                ]
             }
         },
         "Prompts": {
@@ -675,6 +699,14 @@
                 "language": null,
                 "license": null,
                 "description": "A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
+                "topics": []
+            },
+            "https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese": {
+                "repository_name": "ChatGPT-Prompt-Engineering-for-Developers-in-Chinese",
+                "user_name": "GitHubDaily",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of \"ChatGPT Prompt Engineering for Developers\"",
                 "topics": []
             }
         },
@@ -3315,6 +3347,24 @@
                 "license": "MIT License",
                 "description": "A CLI that converts natural language to shell commands.",
                 "topics": []
+            },
+            "https://github.com/rsaryev/auto-copilot-cli": {
+                "repository_name": "auto-copilot-cli",
+                "user_name": "rsaryev",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Auto Copilot is a CLI tool that uses OpenAI models to generate commands for the terminal and file system operations to achieve a goal.",
+                "topics": [
+                    "chatgpt",
+                    "cli",
+                    "openai"
+                ]
             }
         },
         "Reimplementations": {
@@ -5009,6 +5059,20 @@
                     "transformer",
                     "vall-e"
                 ]
+            },
+            "https://github.com/openlm-research/open_llama": {
+                "repository_name": "open_llama",
+                "user_name": "openlm-research",
+                "language": null,
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "OpenLLama - a permissively licensed open source reproduction of Meta AI's LLaMA. 🦙 „OpenLLaMA exhibits comparable performance to the original LLaMA and GPT-J across a majority of tasks, and outperforms them in some tasks.“ 👀 ",
+                "topics": []
             }
         },
         "Unity": {
@@ -7757,6 +7821,28 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "yet another 2048, but this time it's controlled by GPT",
+                "topics": []
+            },
+            "https://github.com/ixaxaar/vardagpt": {
+                "repository_name": "VardaGPT",
+                "user_name": "ixaxaar",
+                "language": "Python",
+                "license": null,
+                "description": "Associative memory-enhanced GPT-2 model",
+                "topics": []
+            },
+            "https://github.com/piercefreeman/gpt-json": {
+                "repository_name": "gpt-json",
+                "user_name": "piercefreeman",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Structured and typehinted GPT responses in Python",
                 "topics": []
             }
         }
