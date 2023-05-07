@@ -16,35 +16,27 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - 這是一系列令人驚訝的GPT4提示,
+ * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) -  ChatGPT 的好名單由 OpenAI 研發的人工智能聊天機
 
 
 **Prompts**
- * [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) - 提供可自訂的個人化學習體驗.
+ * [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese) - 面向開發者的ChatGPT 提示詞工程非官方版中英双语字幕
 
 
-**Browser-extensions**
- * [Chrome-GPT](https://github.com/richardyc/chrome-gpt) - 自動GPT代理可以控制桌面上的 Chrome
- * [Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin) - 該網站的網站是一個非常重要的平台,
- * [Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins) - 自動GPT插件
- * [nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter) - 使用Next.js的ChatGPT插件啟動項目
+**CLIs**
+ * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - 自動共用駕駛員是使用 OpenAI 模型生成終端和檔案系統操作命令以達成目標的 CLI 工具.
 
 
-**NLP**
- * [happycommit](https://github.com/jackbackes/happycommit) - 歡樂提交是一個令人愉快的工具, 它利用OpenAI的GPT-3.5Turbo語言模型的力量,
- * [JamesGPT](https://github.com/jconorgrogan/jamesgpt) - 預測未來,對政治和爭議議題有意見,並評估真相.
- * [ChatPaper](https://github.com/kaixindelele/chatpaper) - 使用ChatGPT來總結ArXiv論文. 全流程加速科研,利用chatgpt進行論文總結+色+审稿+审稿回复
- * [minichain](https://github.com/srush/minichain) - 配列式模型,使用LSTM編碼器/解碼器,並注意
+**Langchain**
+ * [open_llama](https://github.com/openlm-research/open_llama) -  OpenLLaMA 在大部分任務中表達與原始的LLaMA和GPT-J相比的性能,並在某些任務中優於他們.
 
 
 **Others**
- * [AlitaAI](https://github.com/alita-ai/alitaai) - #chatgpt #AlitaAI 肝一個月終於出了,和ChatGPT 一起產品/設計/前后端 ,新人求关注Alita AI ((save to notion) 是一個基于Notion的,ChatGPT 的人工智能助手,能帮你漸進式學習、自動化高效录入知識片段抢先版: 
- * [2048](https://github.com/inishchith/2048) - 這次則由GPT控制,
+ * [VardaGPT](https://github.com/ixaxaar/vardagpt) - 協同記憶增強型GPT-2模型
+ * [gpt-json](https://github.com/piercefreeman/gpt-json) - 在Python中結構化和字型提示的GPT回應
 
 
-_Updated on May 06, 2023_ (A total of 660 repositories listed.)
-
-🏅 [jackbackes](https://github.com/jackbackes) provided some repository information. Thank you!
+_Updated on May 07, 2023_ (A total of 647 repositories listed.)
 
 ## Table of contents
 
@@ -79,6 +71,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
  * [awesome-gpt4](https://github.com/taranjeet/awesome-gpt4) - GPT-4 的優秀資源、應用案例和演示的精選清單
  * [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - 一個由LLM或GPT製作的精選安全工具、實驗案例或其他有趣的事物的清單。
  * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - 一系列令人驚嘆的GPT4提示集合
+ * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 ChatGPT 的精彩列表 — 由 OpenAI 開發的人工智慧聊天機器人
 
 
 |Name|Language|License|GitHub Stars|
@@ -97,6 +90,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
 |[awesome-gpt4](https://github.com/taranjeet/awesome-gpt4)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/taranjeet/awesome-gpt4?style=social)|
 |[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/cckuailong/awesome-gpt-security?style=social)|
 |[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|
+|[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|-|Creative Commons Zero v1.0 Universal|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|
 
 
 ## Prompts
@@ -146,6 +140,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
  * [FinGPT](https://github.com/ai4finance-foundation/fingpt) - 開放金融的開源！革命化🔥
  * [aish](https://github.com/aishell-io/aish) - 一個具有本地存儲功能的ChatGPT CLI，用於提示和消息。
  * [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) - 一個可定制個性化學習體驗的GPT-4 AI導師提示。
+ * [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese) - 《面向開發者的 ChatGPT 提示詞工程》非官方版中英雙語字幕
 
 
 |Name|Language|License|GitHub Stars|
@@ -192,7 +187,8 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
 |[ResearchChatGPT](https://github.com/hollobit/researchchatgpt)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/ResearchChatGPT?style=social)|
 |[FinGPT](https://github.com/ai4finance-foundation/fingpt)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ai4finance-foundation/FinGPT?style=social)|
 |[aish](https://github.com/aishell-io/aish)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/aishell-io/aish?style=social)|
-|[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/JushBJJ/Mr.-Ranedeer-AI-Tutor?style=social)|
+|[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jushbjj/Mr.-Ranedeer-AI-Tutor?style=social)|
+|[ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese)|Jupyter Notebook|-|![GitHub Repo stars](https://img.shields.io/github/stars/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese?style=social)|
 
 
 ## Chatbots
@@ -510,7 +506,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
 |[awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/imaurer/awesome-chatgpt-plugins?style=social)|
 |[Chrome-GPT](https://github.com/richardyc/chrome-gpt)|Python|GNU General Public License v3.0|![GitHub Repo stars](https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social)|
 |[Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-MetaTrader-Plugin?style=social)|
-|[Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT-Plugins?style=social)|
+|[Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/significant-gravitas/Auto-GPT-Plugins?style=social)|
 |[nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter)|TypeScript|-|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/nextjs-chatgpt-plugin-starter?style=social)|
 
 
@@ -573,6 +569,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
  * [openai-java](https://github.com/theokanning/openai-java) - Java中的OpenAI GPT-3 Api客戶端
  * [hfuzz](https://github.com/thehlopster/hfuzz) - 網站模糊測試的單詞列表，由多個可靠來源製作，包括：我的測試結果、git.rip、ChatGPT、Lex、核心模板、網站掃描器、seclist、bo0m等等。
  * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 掌握命令列，只需一頁
+ * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilot 是一個 CLI 工具，使用 OpenAI 模型生成命令，以達成目標的終端機和檔案系統操作。
 
 
 |Name|Language|License|GitHub Stars|
@@ -633,6 +630,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
 |[openai-java](https://github.com/theokanning/openai-java)|Java|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/theokanning/openai-java?style=social)|
 |[hfuzz](https://github.com/thehlopster/hfuzz)|-|The Unlicense|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|
+|[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|TypeScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|
 
 
 ## Reimplementations
@@ -915,6 +913,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
  * [llama.cpp](https://github.com/ggerganov/llama.cpp) - Facebook的LLaMA模型在C/C++的端口
  * [dalai](https://github.com/cocktailpeanut/dalai) - 在本地機器上運行LLaMA的最簡單方法
  * [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - ChatGPT、生成式AI和LLMs時間軸
+ * [open_llama](https://github.com/openlm-research/open_llama) - OpenLLama - 是Meta AI的LLaMA的開源軟體，採用寬鬆授權。🦙「OpenLLaMA在大多數任務上表現與原始LLaMA和GPT-J相當，並在某些任務上表現優異。」👀
 
 
 |Name|Language|License|GitHub Stars|
@@ -950,6 +949,7 @@ _Updated on May 06, 2023_ (A total of 660 repositories listed.)
 |[llama.cpp](https://github.com/ggerganov/llama.cpp)|C|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/ggerganov/llama.cpp?style=social)|
 |[dalai](https://github.com/cocktailpeanut/dalai)|CSS|-|![GitHub Repo stars](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social)|
 |[GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/hollobit/GenAI_LLM_timeline?style=social)|
+|[open_llama](https://github.com/openlm-research/open_llama)|-|Apache License 2.0|![GitHub Repo stars](https://img.shields.io/github/stars/openlm-research/open_llama?style=social)|
 
 
 ## Unity
@@ -1305,6 +1305,8 @@ add chatgpt to your groupchats:
  * [JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset) - 該數據集包含從281集中提取的超過18,000個中文問答對，這些集來自中文播客“金金樂道”。
  * [AlitaAI](https://github.com/alita-ai/alitaai) - #notion #chatgpt #AlitaAI 肝了一個月終於出來了，和 ChatGPT 一起產品/設計/前後端，新人求關注Alita AI（save to notion）是一款基於 Notion、ChatGPT 的人工智能助手，能幫你漸進式學習、自動化高效錄入知識片段抢先版：
  * [2048](https://github.com/inishchith/2048) - 又一個2048，但這次由GPT控制
+ * [VardaGPT](https://github.com/ixaxaar/vardagpt) - 關聯記憶增強的GPT-2模型
+ * [gpt-json](https://github.com/piercefreeman/gpt-json) - 在Python中結構化和類型提示的GPT回應
 
 
 |Name|Language|License|GitHub Stars|
@@ -1481,7 +1483,9 @@ add chatgpt to your groupchats:
 |[AI-Twitter-History](https://github.com/jtmuller5/ai-twitter-history)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/jtmuller5/AI-Twitter-History?style=social)|
 |[gpt-legion](https://github.com/eumemic/gpt-legion)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/eumemic/gpt-legion?style=social)|
 |[JinJinLeDao_QA_Dataset](https://github.com/tech-podcasts/jinjinledao_qa_dataset)|-|-|![GitHub Repo stars](https://img.shields.io/github/stars/tech-podcasts/JinJinLeDao_QA_Dataset?style=social)|
-|[AlitaAI](https://github.com/alita-ai/alitaai)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/Alita-ai/AlitaAI?style=social)|
+|[AlitaAI](https://github.com/alita-ai/alitaai)|-|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/alita-ai/AlitaAI?style=social)|
 |[2048](https://github.com/inishchith/2048)|JavaScript|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/inishchith/2048?style=social)|
+|[VardaGPT](https://github.com/ixaxaar/vardagpt)|Python|-|![GitHub Repo stars](https://img.shields.io/github/stars/ixaxaar/VardaGPT?style=social)|
+|[gpt-json](https://github.com/piercefreeman/gpt-json)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|
 
 
