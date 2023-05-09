@@ -1719,6 +1719,108 @@
                     "python",
                     "python3"
                 ]
+            },
+            "https://github.com/mishalhossin/discord-chatbot-gpt4free": {
+                "repository_name": "Discord-Chatbot-Gpt4Free",
+                "user_name": "mishalhossin",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-2.0",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0",
+                    "url": "https://api.github.com/licenses/gpl-2.0",
+                    "node_id": "MDc6TGljZW5zZTg="
+                },
+                "description": "This is a Discord Chatbot with image detection for free",
+                "topics": [
+                    "chatbot",
+                    "chatbots",
+                    "codex",
+                    "discord-api",
+                    "discord-chatbot",
+                    "discord-py",
+                    "freeai",
+                    "freegpt4",
+                    "gpt",
+                    "gpt-2",
+                    "gpt-3",
+                    "gpt-3-turbo",
+                    "gpt-3trubo",
+                    "gpt-4",
+                    "gpt4",
+                    "gpt4free",
+                    "gptfree",
+                    "image-detection",
+                    "imagedetection",
+                    "opengpt"
+                ]
+            },
+            "https://github.com/enricoros/big-agi": {
+                "repository_name": "big-agi",
+                "user_name": "enricoros",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.",
+                "topics": [
+                    "agi",
+                    "big-agi-energy",
+                    "chatbot-ui",
+                    "chatgpt",
+                    "chatgpt-ui",
+                    "generative-ai",
+                    "large-language-models",
+                    "natural-language-procressing",
+                    "nextjs",
+                    "react",
+                    "stable-diffusion",
+                    "ui"
+                ]
+            },
+            "https://github.com/paulpierre/rasagpt": {
+                "repository_name": "RasaGPT",
+                "user_name": "paulpierre",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "fastapi",
+                    "gpt-3",
+                    "gpt-4",
+                    "langchain",
+                    "llama-index",
+                    "llm",
+                    "ml",
+                    "openai",
+                    "rasa",
+                    "rasa-chatbot",
+                    "rasa-core",
+                    "rasa-nlu",
+                    "telegram",
+                    "telegram-bot"
+                ]
+            },
+            "https://github.com/cirediatpl/figmachain": {
+                "repository_name": "FigmaChain",
+                "user_name": "cirediatpl",
+                "language": "Python",
+                "license": null,
+                "description": "FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.",
+                "topics": []
             }
         },
         "Browser-extensions": {
@@ -1786,14 +1888,6 @@
                 "language": "JavaScript",
                 "license": "MIT License",
                 "description": "TweetGPT is a chrome extension that generates tweets and replies using chatGPT",
-                "topics": []
-            },
-            "https://github.com/taxyai/browser-extension": {
-                "repository_name": "browser-extension",
-                "user_name": "TaxyAI",
-                "language": "TypeScript",
-                "license": "MIT License",
-                "description": "Automate your browser with GPT-4",
                 "topics": []
             },
             "https://github.com/liady/chatgpt-pdf": {
@@ -2474,14 +2568,6 @@
                     "webml"
                 ]
             },
-            "https://github.com/centminmod/chrome_extension_slicer": {
-                "repository_name": "chrome_extension_slicer",
-                "user_name": "centminmod",
-                "language": "JavaScript",
-                "license": null,
-                "description": "Chrome extension to load AI prompt text slicer tool at https://slicer.centminmod.com",
-                "topics": []
-            },
             "https://github.com/langchain-ai/langchain-aiplugin": {
                 "repository_name": "langchain-aiplugin",
                 "user_name": "langchain-ai",
@@ -2599,6 +2685,42 @@
                     "gpt",
                     "openai"
                 ]
+            },
+            "https://github.com/kmizu/sftly-replace": {
+                "repository_name": "sftly-replace",
+                "user_name": "kmizu",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A Chrome extention to replace the selected text softly",
+                "topics": []
+            },
+            "https://github.com/solana-labs/chatgpt-plugin": {
+                "repository_name": "chatgpt-plugin",
+                "user_name": "solana-labs",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "🧬@Solanalabs has developed an open-source reference implementation for a ChatGPT plugin.🧬The availability of #ChatGPT plugins will enable #Solana users to verify their wallet balances, transfer tokens, and acquire NFTs.🔽INFO",
+                "topics": []
+            },
+            "https://github.com/openbmb/bmtools": {
+                "repository_name": "bmtools",
+                "user_name": "openbmb",
+                "language": null,
+                "license": null,
+                "description": "BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins, supports BabyAGI and Auto-GPTgithub: ",
+                "topics": []
             }
         },
         "CLIs": {
@@ -4408,14 +4530,6 @@
                 "description": "#aiscllmworkshopa quick way to go from zero to dangerous (like, be able to confidently bullshit like chatgpt, but also quickly ramp up on how to go from idea to product with the latest &amp; greatest in llm, with 9 continuous hours of hour-long presentations!",
                 "topics": []
             },
-            "https://github.com/ramiawar/text2sql": {
-                "repository_name": "text2sql",
-                "user_name": "RamiAwar",
-                "language": "TypeScript",
-                "license": "MIT License",
-                "description": "Small project to use LLMs with context for SQL generation",
-                "topics": []
-            },
             "https://github.com/stanfordbdhg/healthgpt": {
                 "repository_name": "HealthGPT",
                 "user_name": "StanfordBDHG",
@@ -4652,6 +4766,60 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "Sequence-to-sequence model with LSTM encoder/decoders and attention",
+                "topics": []
+            },
+            "https://github.com/irgolic/autopr": {
+                "repository_name": "AutoPR",
+                "user_name": "irgolic",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Fix issues with AI-generated pull requests, powered by ChatGPT",
+                "topics": [
+                    "action",
+                    "actions",
+                    "ai",
+                    "chatgpt",
+                    "github-action",
+                    "github-actions",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "llm",
+                    "openai"
+                ]
+            },
+            "https://github.com/imartinez/privategpt": {
+                "repository_name": "privateGPT",
+                "user_name": "imartinez",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+                "topics": []
+            },
+            "https://github.com/filip-michalsky/salesgpt": {
+                "repository_name": "SalesGPT",
+                "user_name": "filip-michalsky",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Context-aware AI Sales Agent to automate sales outreach.",
                 "topics": []
             }
         },
@@ -5073,6 +5241,36 @@
                 },
                 "description": "OpenLLama - a permissively licensed open source reproduction of Meta AI's LLaMA. 🦙 „OpenLLaMA exhibits comparable performance to the original LLaMA and GPT-J across a majority of tasks, and outperforms them in some tasks.“ 👀 ",
                 "topics": []
+            },
+            "https://github.com/chakkaradeep/pycodeagi": {
+                "repository_name": "pyCodeAGI",
+                "user_name": "chakkaradeep",
+                "language": "Python",
+                "license": null,
+                "description": "My current exploration: PyCodeAGI, an @LangChainAI #AIAgent that builds a Python console app given an objective, just got superpowers with @OpenAI #GPT4:  asked it to build a 'magic app' - it built something creative. There was not even a single error in…  ",
+                "topics": []
+            },
+            "https://github.com/open-mmlab/multimodal-gpt": {
+                "repository_name": "Multimodal-GPT",
+                "user_name": "open-mmlab",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Multimodal-GPT",
+                "topics": [
+                    "flamingo",
+                    "gpt",
+                    "gpt-4",
+                    "llama",
+                    "multimodal",
+                    "transformer",
+                    "vision-and-language"
+                ]
             }
         },
         "Unity": {
@@ -6090,21 +6288,6 @@
                     "web"
                 ]
             },
-            "https://github.com/backend-br/vagas": {
-                "repository_name": "vagas",
-                "user_name": "backend-br",
-                "language": null,
-                "license": "MIT License",
-                "description": "Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.",
-                "topics": [
-                    "backend",
-                    "backend-br",
-                    "backend-jobs",
-                    "jobs",
-                    "vagas",
-                    "vagas-para-desenvolvedores"
-                ]
-            },
             "https://github.com/fuergaosi233/wechat-chatgpt": {
                 "repository_name": "wechat-chatgpt",
                 "user_name": "fuergaosi233",
@@ -6559,21 +6742,6 @@
                 "description": "A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer",
                 "topics": []
             },
-            "https://github.com/centminmod/centminmod-abuseipdb-reporter": {
-                "repository_name": "centminmod-abuseipdb-reporter",
-                "user_name": "centminmod",
-                "language": "Python",
-                "license": null,
-                "description": "CSF Firewall and AbuseIPDB API integration with specific focus on data privacy and prevention of sensitive data leaked to public AbuseIPDB database report",
-                "topics": [
-                    "abuseipdb",
-                    "abuseipdb-api",
-                    "abuseipdbv2",
-                    "csf",
-                    "csf-firewall",
-                    "lfd"
-                ]
-            },
             "https://github.com/automatic1111/stable-diffusion-webui": {
                 "repository_name": "stable-diffusion-webui",
                 "user_name": "AUTOMATIC1111",
@@ -6653,16 +6821,6 @@
                     "scalene"
                 ]
             },
-            "https://github.com/solid-contrib/gitter-solid": {
-                "repository_name": "gitter-solid",
-                "user_name": "solid-contrib",
-                "language": "JavaScript",
-                "license": "MIT License",
-                "description": "Connect the Gitter API to solid chat",
-                "topics": [
-                    "running-code"
-                ]
-            },
             "https://github.com/grimoutlaw/chatgpt-bypass": {
                 "repository_name": "ChatGPT-Bypass",
                 "user_name": "GrimOutlaw",
@@ -6712,21 +6870,6 @@
                     "gdb",
                     "gpt-3",
                     "lldb"
-                ]
-            },
-            "https://github.com/microsoft/mup": {
-                "repository_name": "mup",
-                "user_name": "microsoft",
-                "language": "JavaScript",
-                "license": "MIT License",
-                "description": "react-native-test-app provides a test app for all supported platforms as a package",
-                "topics": [
-                    "android",
-                    "ios",
-                    "macos",
-                    "react-native",
-                    "testing",
-                    "windows"
                 ]
             },
             "https://github.com/openai/whisper": {
@@ -7061,14 +7204,6 @@
                 "language": "TypeScript",
                 "license": null,
                 "description": "Simple and powerful ChatGPT-API-Server",
-                "topics": []
-            },
-            "https://github.com/t-hishinuma/mpi_small_examples": {
-                "repository_name": "mpi_small_examples",
-                "user_name": "t-hishinuma",
-                "language": "C++",
-                "license": null,
-                "description": "は？？？？？？？？？？chatgptにgithubに上がってる俺のmpiのサンプルコード(内積)のurl送りつけたら完璧に解説しやがったんだが？？",
                 "topics": []
             },
             "https://github.com/chenyukang/talkgpt": {
