@@ -18,31 +18,42 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Discord-Chatbot-Gpt4Free](https://github.com/mishalhossin/discord-chatbot-gpt4free) - This is a Discord Chatbot with image detection for free
- * [big-agi](https://github.com/enricoros/big-agi) - 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
- * [RasaGPT](https://github.com/paulpierre/rasagpt) - 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
- * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.
+**Prompts**
+ * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
+ * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT: Yet Another ChatGPT Jailbreak
 
 
 **Browser-extensions**
- * [sftly-replace](https://github.com/kmizu/sftly-replace) - A Chrome extention to replace the selected text softly
- * [chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin) - 🧬@Solanalabs has developed an open-source reference implementation for a ChatGPT plugin.🧬The availability of #ChatGPT plugins will enable #Solana users to verify their wallet balances, transfer tokens, and acquire NFTs.🔽INFO
- * [bmtools](https://github.com/openbmb/bmtools) - BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins, supports BabyAGI and Auto-GPTgithub: 
+ * [pake](https://github.com/tw93/pake#popular-packages) - The chrome-extension of 900Month is built by AngularJS.
+ * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - Universal command line plugin for ChatGPT
+
+
+**CLIs**
+ * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.
 
 
 **NLP**
- * [AutoPR](https://github.com/irgolic/autopr) - Fix issues with AI-generated pull requests, powered by ChatGPT
- * [privateGPT](https://github.com/imartinez/privategpt) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
- * [SalesGPT](https://github.com/filip-michalsky/salesgpt) - Context-aware AI Sales Agent to automate sales outreach.
+ * [automated-interpretability](https://github.com/openai/automated-interpretability) - LLMs Can Explain Neurons in Other LLMsExplain GPT-2 neuron’s behavior by showing GPT-4 (token, activation) pairsSimulate neuron's activations based on explanation w/ GPT-4Score explanation based on how well simulated activations match real activations  
+ * [evalplus](https://github.com/evalplus/evalplus) - EvalPlus for rigourous evaluation of LLM-synthesized code
 
 
 **Langchain**
- * [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - My current exploration: PyCodeAGI, an @LangChainAI #AIAgent that builds a Python console app given an objective, just got superpowers with @OpenAI #GPT4:  asked it to build a 'magic app' - it built something creative. There was not even a single error in…  
- * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - Multimodal-GPT
+ * [snowChat](https://github.com/kaarthik108/snowchat) - Chat on you're snowflake database - Text to SQL
 
 
-_Updated on May 12, 2023_ (A total of 651 repositories listed.)
+**Openai**
+ * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPT Native Desktop Application (Windows, Mac, Android, iOS, and Linux)
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
+
+
+**Others**
+ * [gptneox](https://github.com/dfalbel/gptneox) - What the Package Does (One Line, Title Case)
+ * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI to run with GPT4All
+
+
+_Updated on May 13, 2023_ (A total of 663 repositories listed.)
+
+🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -145,6 +156,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [aish](https://github.com/aishell-io/aish) - A ChatGPT CLI with local storage for prompts and messages.
  * [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
  * [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
+ * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
+ * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT: Yet Another ChatGPT Jailbreak
 
 
 |Name|GitHub Stars|Language|License|
@@ -193,6 +206,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[aish](https://github.com/aishell-io/aish)|![GitHub Repo stars](https://img.shields.io/github/stars/aishell-io/aish?style=social)|-|-|
 |[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/jushbjj/Mr.-Ranedeer-AI-Tutor?style=social)|-|-|
 |[ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese?style=social)|Jupyter Notebook|-|
+|[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
+|[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/unleashedgpt?style=social)|-|-|
 
 
 ## Chatbots
@@ -445,7 +460,9 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter) - ChatGPT plugin starter project using Next.js
  * [sftly-replace](https://github.com/kmizu/sftly-replace) - A Chrome extention to replace the selected text softly
  * [chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin) - 🧬@Solanalabs has developed an open-source reference implementation for a ChatGPT plugin.🧬The availability of #ChatGPT plugins will enable #Solana users to verify their wallet balances, transfer tokens, and acquire NFTs.🔽INFO
- * [bmtools](https://github.com/openbmb/bmtools) - BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins, supports BabyAGI and Auto-GPTgithub: 
+ * [bmtools](https://github.com/openbmb/bmtools) - BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins, supports BabyAGI and Auto-GPTgithub:
+ * [pake](https://github.com/tw93/pake#popular-packages) - The chrome-extension of 900Month is built by AngularJS.
+ * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - Universal command line plugin for ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -521,6 +538,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|JavaScript|mit|
 |[chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/solana-labs/chatgpt-plugin?style=social)|TypeScript|other|
 |[bmtools](https://github.com/openbmb/bmtools)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/bmtools?style=social)|-|-|
+|[pake](https://github.com/tw93/pake#popular-packages)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/pake?style=social)|JavaScript|-|
+|[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/gpt-terminal-plugin?style=social)|TypeScript|other|
 
 
 ## CLIs
@@ -582,6 +601,7 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [hfuzz](https://github.com/thehlopster/hfuzz) - Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.
  * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
  * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilot is a CLI tool that uses OpenAI models to generate commands for the terminal and file system operations to achieve a goal.
+ * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.
 
 
 |Name|GitHub Stars|Language|License|
@@ -643,6 +663,7 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[hfuzz](https://github.com/thehlopster/hfuzz)|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|-|unlicense|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|-|-|
 |[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|TypeScript|mit|
+|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/DelphiOpenAI?style=social)|Pascal|mit|
 
 
 ## Reimplementations
@@ -791,6 +812,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [AutoPR](https://github.com/irgolic/autopr) - Fix issues with AI-generated pull requests, powered by ChatGPT
  * [privateGPT](https://github.com/imartinez/privategpt) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
  * [SalesGPT](https://github.com/filip-michalsky/salesgpt) - Context-aware AI Sales Agent to automate sales outreach.
+ * [automated-interpretability](https://github.com/openai/automated-interpretability) - LLMs Can Explain Neurons in Other LLMsExplain GPT-2 neuron’s behavior by showing GPT-4 (token, activation) pairsSimulate neuron's activations based on explanation w/ GPT-4Score explanation based on how well simulated activations match real activations  
+ * [evalplus](https://github.com/evalplus/evalplus) - EvalPlus for rigourous evaluation of LLM-synthesized code
 
 
 |Name|GitHub Stars|Language|License|
@@ -889,6 +912,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[AutoPR](https://github.com/irgolic/autopr)|![GitHub Repo stars](https://img.shields.io/github/stars/irgolic/AutoPR?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
 |[SalesGPT](https://github.com/filip-michalsky/salesgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social)|Jupyter Notebook|mit|
+|[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/automated-interpretability?style=social)|Python|-|
+|[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/evalplus?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -925,8 +950,9 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
  * [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - ChatGPT, GenerativeAI and LLMs Timeline
  * [open_llama](https://github.com/openlm-research/open_llama) - OpenLLama - a permissively licensed open source reproduction of Meta AI's LLaMA. 🦙 „OpenLLaMA exhibits comparable performance to the original LLaMA and GPT-J across a majority of tasks, and outperforms them in some tasks.“ 👀
- * [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - My current exploration: PyCodeAGI, an @LangChainAI #AIAgent that builds a Python console app given an objective, just got superpowers with @OpenAI #GPT4:  asked it to build a 'magic app' - it built something creative. There was not even a single error in…  
+ * [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - My current exploration: PyCodeAGI, an @LangChainAI #AIAgent that builds a Python console app given an objective, just got superpowers with @OpenAI #GPT4:  asked it to build a 'magic app' - it built something creative. There was not even a single error in…
  * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - Multimodal-GPT
+ * [snowChat](https://github.com/kaarthik108/snowchat) - Chat on you're snowflake database - Text to SQL
 
 
 |Name|GitHub Stars|Language|License|
@@ -965,6 +991,7 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[open_llama](https://github.com/openlm-research/open_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/openlm-research/open_llama?style=social)|-|apache-2.0|
 |[pyCodeAGI](https://github.com/chakkaradeep/pycodeagi)|![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)|Python|-|
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
+|[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/snowChat?style=social)|Python|-|
 
 
 ## Unity
@@ -1060,6 +1087,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt) - A collection of impressive and useful results from OpenAI's chatgpt
  * [bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt) - bbfuzzing.txta unique vocabulary that is 70% generated with openai chatgpt.the remaining 30% is a compilation of dictionaries from bo0om, circuit and other bugbounters. #chatgpt
  * [chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt) - Chat with ChatGPT via GitHub issue comments.
+ * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPT Native Desktop Application (Windows, Mac, Android, iOS, and Linux)
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1131,6 +1160,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sw33tlie/impressive-chatgpt?style=social)|-|-|
 |[bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt)|![GitHub Repo stars](https://img.shields.io/github/stars/reewardius/bbFuzzing.txt?style=social)|-|-|
 |[chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/chat-with-chatgpt?style=social)|-|-|
+|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/ChatGPT?style=social)|Pascal|mit|
+|[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 
 
 ## Others
@@ -1306,6 +1337,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [2048](https://github.com/inishchith/2048) - yet another 2048, but this time it's controlled by GPT
  * [VardaGPT](https://github.com/ixaxaar/vardagpt) - Associative memory-enhanced GPT-2 model
  * [gpt-json](https://github.com/piercefreeman/gpt-json) - Structured and typehinted GPT responses in Python
+ * [gptneox](https://github.com/dfalbel/gptneox) - What the Package Does (One Line, Title Case)
+ * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI to run with GPT4All
 
 
 |Name|GitHub Stars|Language|License|
@@ -1481,5 +1514,7 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[2048](https://github.com/inishchith/2048)|![GitHub Repo stars](https://img.shields.io/github/stars/inishchith/2048?style=social)|JavaScript|mit|
 |[VardaGPT](https://github.com/ixaxaar/vardagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ixaxaar/VardaGPT?style=social)|Python|-|
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
+|[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gptneox?style=social)|R|-|
+|[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/babyagi4all?style=social)|Python|mit|
 
 

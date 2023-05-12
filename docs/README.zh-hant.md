@@ -15,31 +15,42 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Discord-Chatbot-Gpt4Free](https://github.com/mishalhossin/discord-chatbot-gpt4free) - 這是一個免費的Discord聊天機,
- * [big-agi](https://github.com/enricoros/big-agi) - 使用GPT-4及以上的個人人工智能應用程式, 包含人工智能角色,AGI功能,文字轉換成圖片,語音,回應流,代碼突出和執行,PDF輸入,開發者預設等等.
- * [RasaGPT](https://github.com/paulpierre/rasagpt) -  RasaGPT是第一款建立在Rasa和Langchain之上的無頭LLM聊天機平台.
- * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChain是一套基于Figma設計生成HTML/CSS代碼的Python程式.使用OpenAI的GPT-3模型,FigmaChain使開發者能夠從Figma設計輸入快速生成HTML/CSS代碼.它還包括基于Streamlit的聊天機介面,用于互動代碼生成.
+**Prompts**
+ * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 恩達ChatGPT 發達人專業工程課程中文版,視頻地址:https://www.bilibili.com/video/BV1Bo4y1A7FU
+ * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - 沒有任何關於我們.
 
 
 **Browser-extensions**
- * [sftly-replace](https://github.com/kmizu/sftly-replace) - 顯示選項的位置.
- * [chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin) - @Solanalabs 已經為ChatGPT插件開發了開放源代碼的參考實現.
- * [bmtools](https://github.com/openbmb/bmtools) - 支持BabyAGI和Auto-GPTgithub: 提供更多資訊,
+ * [pake](https://github.com/tw93/pake#popular-packages) - 這項軟體的Chrome擴展是由AngularJS建立的.
+ * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - 關於 ChatGPT 的通用命令行插件
+
+
+**CLIs**
+ * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - 打開AI API 客戶端為Delphi. 使用ChatGPT,DALL-E和其他產品.
 
 
 **NLP**
- * [AutoPR](https://github.com/irgolic/autopr) - 解決由人工智能生成的拉動要求,
- * [privateGPT](https://github.com/imartinez/privategpt) - 透過GPT的力量與文件私下互動,
- * [SalesGPT](https://github.com/filip-michalsky/salesgpt) - 經營者必須使用這些工具,
+ * [automated-interpretability](https://github.com/openai/automated-interpretability) - 透過GPT-4 (標籤,啟動) 雙對顯示GPT-2神經元的行為 模擬神經元的啟動以解釋為基礎,
+ * [evalplus](https://github.com/evalplus/evalplus) - 提供了嚴格評估LLM合成代碼的EvalPlus
 
 
 **Langchain**
- * [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - 該網站的目標是建立一個Python主機應用程式, 只是用 @OpenAI #GPT4獲得超能力: 要求它建立一個"魔法應用程式",
- * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - 多式式使用
+ * [snowChat](https://github.com/kaarthik108/snowchat) - 聊天在你的雪花數據庫 - 文字到SQL
 
 
-_Updated on May 12, 2023_ (A total of 651 repositories listed.)
+**Openai**
+ * [ChatGPT](https://github.com/hemulgm/chatgpt) - 網路網路使用者必須使用此軟體,
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - 解決所有錯誤,讓我們的AI體驗無比順,滑滑,高效,並持續更新更多增強功能,包括取消審核,克隆對話,清理首頁等等.
+
+
+**Others**
+ * [gptneox](https://github.com/dfalbel/gptneox) - 包裝的功能 (一行,標題案例)
+ * [babyagi4all](https://github.com/kroll-software/babyagi4all) - 該網站將使用GPT4All
+
+
+_Updated on May 13, 2023_ (A total of 663 repositories listed.)
+
+🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -144,6 +155,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [aish](https://github.com/aishell-io/aish) - 一個具有本地存儲功能的ChatGPT CLI，用於提示和消息。
  * [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) - 一個可定制個性化學習體驗的GPT-4 AI導師提示。
  * [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese) - 《面向開發者的 ChatGPT 提示詞工程》非官方版中英雙語字幕
+ * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吳恩達《ChatGPT Prompt Engineering for Developers》課程中文版，視頻地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
+ * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：又一個ChatGPT越獄
 
 
 |Name|GitHub Stars|Language|License|
@@ -192,6 +205,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[aish](https://github.com/aishell-io/aish)|![GitHub Repo stars](https://img.shields.io/github/stars/aishell-io/aish?style=social)|-|-|
 |[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/jushbjj/Mr.-Ranedeer-AI-Tutor?style=social)|-|-|
 |[ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese?style=social)|Jupyter Notebook|-|
+|[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
+|[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/unleashedgpt?style=social)|-|-|
 
 
 ## Chatbots
@@ -446,6 +461,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [sftly-replace](https://github.com/kmizu/sftly-replace) - 一個Chrome擴展程序，可以輕鬆替換所選文本
  * [chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin) - 🧬@Solanalabs已經開發了一個開源的參考實現，用於ChatGPT插件。🧬 #ChatGPT插件的可用性將使#Solana用戶驗證他們的錢包餘額，轉移代幣並獲取NFT。🔽INFO
  * [bmtools](https://github.com/openbmb/bmtools) - BMTools：大型模型的工具學習，ChatGPT-Plugins的開源解決方案，支援BabyAGI和Auto-GPTgithub。
+ * [pake](https://github.com/tw93/pake#popular-packages) - 900Month 的 Chrome 擴充功能是由 AngularJS 建立的。
+ * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ChatGPT 的通用命令行插件
 
 
 |Name|GitHub Stars|Language|License|
@@ -521,6 +538,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|JavaScript|mit|
 |[chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/solana-labs/chatgpt-plugin?style=social)|TypeScript|other|
 |[bmtools](https://github.com/openbmb/bmtools)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/bmtools?style=social)|-|-|
+|[pake](https://github.com/tw93/pake#popular-packages)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/pake?style=social)|JavaScript|-|
+|[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/gpt-terminal-plugin?style=social)|TypeScript|other|
 
 
 ## CLIs
@@ -583,6 +602,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [hfuzz](https://github.com/thehlopster/hfuzz) - 網站模糊測試的單詞列表，由多個可靠來源製作，包括：我的測試結果、git.rip、ChatGPT、Lex、核心模板、網站掃描器、seclist、bo0m等等。
  * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 掌握命令列，只需一頁
  * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilot 是一個 CLI 工具，使用 OpenAI 模型生成命令，以達成目標的終端機和檔案系統操作。
+ * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - 輸入：Delphi的OpenAI API客戶端。使用ChatGPT、DALL-E和其他產品。
+輸出：
 
 
 |Name|GitHub Stars|Language|License|
@@ -644,6 +665,7 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[hfuzz](https://github.com/thehlopster/hfuzz)|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|-|unlicense|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|-|-|
 |[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|TypeScript|mit|
+|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/DelphiOpenAI?style=social)|Pascal|mit|
 
 
 ## Reimplementations
@@ -797,6 +819,11 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [AutoPR](https://github.com/irgolic/autopr) - 修復由ChatGPT驅動的AI生成的拉取請求問題
  * [privateGPT](https://github.com/imartinez/privategpt) - 使用GPT的強大功能私下與您的文件互動，100％私密，無數據洩漏。
  * [SalesGPT](https://github.com/filip-michalsky/salesgpt) - 上下文感知的人工智能銷售代理，自動化銷售推廣。
+ * [automated-interpretability](https://github.com/openai/automated-interpretability) - LLMs 可以解釋其他 LLMs 中的神經元
+通過展示 GPT-4（標記，激活）對來解釋 GPT-2 神經元的行為
+基於與 GPT-4 的解釋模擬神經元的激活
+根據模擬激活與實際激活的匹配程度評分解釋
+ * [evalplus](https://github.com/evalplus/evalplus) - EvalPlus 用於嚴格評估 LLM 合成的程式碼
 
 
 |Name|GitHub Stars|Language|License|
@@ -895,6 +922,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[AutoPR](https://github.com/irgolic/autopr)|![GitHub Repo stars](https://img.shields.io/github/stars/irgolic/AutoPR?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
 |[SalesGPT](https://github.com/filip-michalsky/salesgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social)|Jupyter Notebook|mit|
+|[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/automated-interpretability?style=social)|Python|-|
+|[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/evalplus?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -933,6 +962,7 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [open_llama](https://github.com/openlm-research/open_llama) - OpenLLama - 是Meta AI的LLaMA的開源軟體，採用寬鬆授權。🦙「OpenLLaMA在大多數任務上表現與原始LLaMA和GPT-J相當，並在某些任務上表現優異。」👀
  * [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - 我的目前探索：PyCodeAGI，一個 @LangChainAI #AIAgent，可以根據目標建立一個Python控制台應用程序，現在憑藉 @OpenAI #GPT4 獲得了超能力：要求它建立一個“魔法應用程序”-它建立了一些創意。甚至沒有一個錯誤...
  * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - 多模態-GPT
+ * [snowChat](https://github.com/kaarthik108/snowchat) - 在您的雪花數據庫上聊天 - 文本轉SQL
 
 
 |Name|GitHub Stars|Language|License|
@@ -971,6 +1001,7 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[open_llama](https://github.com/openlm-research/open_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/openlm-research/open_llama?style=social)|-|apache-2.0|
 |[pyCodeAGI](https://github.com/chakkaradeep/pycodeagi)|![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)|Python|-|
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
+|[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/snowChat?style=social)|Python|-|
 
 
 ## Unity
@@ -1067,6 +1098,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
  * [impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt) - OpenAI的ChatGPT令人印象深刻且有用的結果集合
  * [bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt) - bbfuzzing.txt是一個獨特的詞彙，其中70％是由openai chatgpt生成的。剩下的30％是來自bo0om、circuit和其他bugbounters的字典編輯。＃chatgpt
  * [chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt) - 透過 GitHub 問題評論與 ChatGPT 聊天。
+ * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPT 原生桌面應用程式（Windows、Mac、Android、iOS 和 Linux）
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT暢聊插件。解決所有報錯，讓我們的AI體驗無比順暢、絲滑、高效。並且持續更新更多的增強功能，包括取消審計、克隆對話、淨化首頁等等。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1138,6 +1171,8 @@ _Updated on May 12, 2023_ (A total of 651 repositories listed.)
 |[impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sw33tlie/impressive-chatgpt?style=social)|-|-|
 |[bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt)|![GitHub Repo stars](https://img.shields.io/github/stars/reewardius/bbFuzzing.txt?style=social)|-|-|
 |[chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/chat-with-chatgpt?style=social)|-|-|
+|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/ChatGPT?style=social)|Pascal|mit|
+|[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 
 
 ## Others
@@ -1323,6 +1358,8 @@ add chatgpt to your groupchats:
  * [2048](https://github.com/inishchith/2048) - 又一個2048，但這次由GPT控制
  * [VardaGPT](https://github.com/ixaxaar/vardagpt) - 關聯記憶增強的GPT-2模型
  * [gpt-json](https://github.com/piercefreeman/gpt-json) - 在Python中結構化和類型提示的GPT回應
+ * [gptneox](https://github.com/dfalbel/gptneox) - 套件功能（一行，標題大小寫）
+ * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI 與 GPT4All 一起運行
 
 
 |Name|GitHub Stars|Language|License|
@@ -1498,5 +1535,7 @@ add chatgpt to your groupchats:
 |[2048](https://github.com/inishchith/2048)|![GitHub Repo stars](https://img.shields.io/github/stars/inishchith/2048?style=social)|JavaScript|mit|
 |[VardaGPT](https://github.com/ixaxaar/vardagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ixaxaar/VardaGPT?style=social)|Python|-|
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
+|[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gptneox?style=social)|R|-|
+|[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/babyagi4all?style=social)|Python|mit|
 
 

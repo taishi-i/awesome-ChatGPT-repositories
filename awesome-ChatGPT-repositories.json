@@ -1062,6 +1062,29 @@
                     "zh-hans": "《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕：开发者必看！",
                     "zh-hant": "《面向開發者的 ChatGPT 提示詞工程》非官方版中英雙語字幕"
                 }
+            },
+            "https://github.com/datawhalechina/prompt-engineering-for-developers": {
+                "repository_name": "prompt-engineering-for-developers",
+                "user_name": "datawhalechina",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU",
+                "topics": []
+            },
+            "https://github.com/ambr0sial/unleashedgpt": {
+                "repository_name": "unleashedgpt",
+                "user_name": "ambr0sial",
+                "language": null,
+                "license": null,
+                "description": "UnleashedGPT: Yet Another ChatGPT Jailbreak",
+                "topics": [
+                    "chatgpt",
+                    "gpt-3",
+                    "jailbreak",
+                    "openai",
+                    "prompt",
+                    "prompts"
+                ]
             }
         },
         "Chatbots": {
@@ -2593,7 +2616,13 @@
                     "image-detection",
                     "imagedetection",
                     "opengpt"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "This is a Discord Chatbot with image detection for free",
+                    "ja": "これは無料の画像検出機能を備えたDiscordチャットボットです。",
+                    "zh-hans": "这是一个免费的Discord聊天机器人，具有图像检测功能。",
+                    "zh-hant": "這是一個免費的Discord聊天機器人，具有圖像檢測功能。"
+                }
             },
             "https://github.com/enricoros/big-agi": {
                 "repository_name": "big-agi",
@@ -2620,7 +2649,13 @@
                     "react",
                     "stable-diffusion",
                     "ui"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.",
+                    "ja": "💬 GPT-4以上のAIパーソナリティを備えた個人用AIアプリケーション。AIパーソナリティ、AGI機能、テキストから画像への変換、音声、レスポンスストリーミング、コードのハイライトと実行、PDFのインポート、開発者向けのプリセットなどがあります。Next.js、React、Joyを使用して展開し、#big-AGI-energyを贈りましょう！",
+                    "zh-hans": "💬 个人AI应用程序由GPT-4及更高版本提供支持，具有AI人格、AGI功能、文本转图像、语音、响应流、代码高亮和执行、PDF导入、开发人员预设等功能。部署和赠送#big-AGI-energy！使用Next.js、React、Joy。",
+                    "zh-hant": "💬 個人AI應用程式，由GPT-4及更高版本驅動，具有AI人格、AGI功能、文字轉圖像、語音、回應串流、代碼突顯和執行、PDF匯入、開發人員預設等功能。部署和贈送#big-AGI-energy！使用Next.js、React、Joy。"
+                }
             },
             "https://github.com/paulpierre/rasagpt": {
                 "repository_name": "RasaGPT",
@@ -2652,7 +2687,13 @@
                     "rasa-nlu",
                     "telegram",
                     "telegram-bot"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram",
+                    "ja": "💬 RasaGPTは、RasaとLangchainの上に構築された最初のヘッドレスLLMチャットボットプラットフォームです。Rasa、FastAPI、Langchain、LlamaIndex、SQLModel、pgvector、ngrok、telegramで構築されています。",
+                    "zh-hans": "💬 RasaGPT是基于Rasa和Langchain构建的第一个无头LLM聊天机器人平台。使用Rasa、FastAPI、Langchain、LlamaIndex、SQLModel、pgvector、ngrok和telegram构建。",
+                    "zh-hant": "💬 RasaGPT是基於Rasa和Langchain構建的第一個無頭LLM聊天機器人平台。使用Rasa、FastAPI、Langchain、LlamaIndex、SQLModel、pgvector、ngrok和telegram構建。"
+                }
             },
             "https://github.com/cirediatpl/figmachain": {
                 "repository_name": "FigmaChain",
@@ -2660,7 +2701,13 @@
                 "language": "Python",
                 "license": null,
                 "description": "FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.",
+                    "ja": "FigmaChainは、Figmaデザインに基づいてHTML/CSSコードを生成するPythonスクリプトのセットです。OpenAIのGPT-3モデルを使用することで、FigmaChainは開発者がFigmaデザイン入力から素早くHTML/CSSコードを生成することを可能にします。また、インタラクティブなコード生成のためのStreamlitベースのチャットボットインターフェイスも含まれています。",
+                    "zh-hans": "FigmaChain是一组基于Python脚本的工具，可以根据Figma设计生成HTML/CSS代码。利用OpenAI的GPT-3模型，FigmaChain使开发人员能够快速从Figma设计输入中生成HTML/CSS代码。它还包括一个基于Streamlit的聊天机器人界面，用于交互式代码生成。",
+                    "zh-hant": "FigmaChain 是一組基於 Python 腳本的工具，可以根據 Figma 設計生成 HTML/CSS 代碼。利用 OpenAI 的 GPT-3 模型，FigmaChain 可以讓開發人員從 Figma 設計輸入中快速生成 HTML/CSS 代碼。它還包括一個基於 Streamlit 的聊天機器人界面，用於交互式代碼生成。"
+                }
             }
         },
         "Browser-extensions": {
@@ -3946,7 +3993,13 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "A Chrome extention to replace the selected text softly",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A Chrome extention to replace the selected text softly",
+                    "ja": "選択したテキストをやさしく置き換えるためのChrome拡張機能",
+                    "zh-hans": "一个Chrome扩展，可以轻松替换所选文本",
+                    "zh-hant": "一個Chrome擴展程序，可以輕鬆替換所選文本"
+                }
             },
             "https://github.com/solana-labs/chatgpt-plugin": {
                 "repository_name": "chatgpt-plugin",
@@ -3960,7 +4013,13 @@
                     "node_id": "MDc6TGljZW5zZTA="
                 },
                 "description": "🧬@Solanalabs has developed an open-source reference implementation for a ChatGPT plugin.🧬The availability of #ChatGPT plugins will enable #Solana users to verify their wallet balances, transfer tokens, and acquire NFTs.🔽INFO",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "🧬@Solanalabs has developed an open-source reference implementation for a ChatGPT plugin.🧬The availability of #ChatGPT plugins will enable #Solana users to verify their wallet balances, transfer tokens, and acquire NFTs.🔽INFO",
+                    "ja": "🧬@Solanalabsは、ChatGPTプラグインのオープンソースのリファレンス実装を開発しました。🧬 #ChatGPTプラグインの利用により、#Solanaユーザーはウォレットの残高を確認し、トークンを送信し、NFTを取得することができます。🔽INFO",
+                    "zh-hans": "🧬@Solanalabs已经开发了一个开源的ChatGPT插件参考实现。🧬ChatGPT插件的可用性将使#Solana用户能够验证他们的钱包余额，转移代币并获取NFT。🔽信息",
+                    "zh-hant": "🧬@Solanalabs已經開發了一個開源的參考實現，用於ChatGPT插件。🧬 #ChatGPT插件的可用性將使#Solana用戶驗證他們的錢包餘額，轉移代幣並獲取NFT。🔽INFO"
+                }
             },
             "https://github.com/openbmb/bmtools": {
                 "repository_name": "bmtools",
@@ -3968,6 +4027,34 @@
                 "language": null,
                 "license": null,
                 "description": "BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins, supports BabyAGI and Auto-GPTgithub: ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "BMTools: Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins, supports BabyAGI and Auto-GPTgithub: ",
+                    "ja": "BMTools：大規模モデルのツール学習、ChatGPT-Pluginsのオープンソースソリューションをサポートし、BabyAGIとAuto-GPTgithubをサポートしています。",
+                    "zh-hans": "BMTools：大型模型工具学习，ChatGPT-Plugins的开源解决方案，支持BabyAGI和Auto-GPTgithub。",
+                    "zh-hant": "BMTools：大型模型的工具學習，ChatGPT-Plugins的開源解決方案，支援BabyAGI和Auto-GPTgithub。"
+                }
+            },
+            "https://github.com/tw93/pake#popular-packages": {
+                "repository_name": "pake",
+                "user_name": "tw93",
+                "language": "JavaScript",
+                "license": null,
+                "description": "The chrome-extension of 900Month is built by AngularJS.",
+                "topics": []
+            },
+            "https://github.com/etherlegend/gpt-terminal-plugin": {
+                "repository_name": "gpt-terminal-plugin",
+                "user_name": "etherlegend",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Universal command line plugin for ChatGPT",
                 "topics": []
             }
         },
@@ -5077,6 +5164,29 @@
                     "zh-hans": "Auto Copilot是一个CLI工具，它使用OpenAI模型生成命令，以实现终端和文件系统操作的目标。",
                     "zh-hant": "Auto Copilot 是一個 CLI 工具，使用 OpenAI 模型生成命令，以達成目標的終端機和檔案系統操作。"
                 }
+            },
+            "https://github.com/hemulgm/delphiopenai": {
+                "repository_name": "DelphiOpenAI",
+                "user_name": "HemulGM",
+                "language": "Pascal",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.",
+                "topics": [
+                    "api-wrapper",
+                    "chatgpt",
+                    "dall-e",
+                    "delphi",
+                    "gpt",
+                    "gpt-3",
+                    "openai",
+                    "openai-api"
+                ]
             }
         },
         "Reimplementations": {
@@ -7030,7 +7140,13 @@
                     "gpt-4",
                     "llm",
                     "openai"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fix issues with AI-generated pull requests, powered by ChatGPT",
+                    "ja": "ChatGPTによって動力を得たAI生成のプルリクエストの問題を修正してください。",
+                    "zh-hans": "修复由ChatGPT驱动的AI生成的拉取请求问题。",
+                    "zh-hant": "修復由ChatGPT驅動的AI生成的拉取請求問題"
+                }
             },
             "https://github.com/imartinez/privategpt": {
                 "repository_name": "privateGPT",
@@ -7044,7 +7160,13 @@
                     "node_id": "MDc6TGljZW5zZTI="
                 },
                 "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+                    "ja": "GPTの力を使って、100％プライベートで、データ漏洩の心配なしに文書とプライベートにやり取りできます。",
+                    "zh-hans": "使用GPT的强大功能私密地与您的文档互动，100％私密，无数据泄漏。",
+                    "zh-hant": "使用GPT的強大功能私下與您的文件互動，100％私密，無數據洩漏。"
+                }
             },
             "https://github.com/filip-michalsky/salesgpt": {
                 "repository_name": "SalesGPT",
@@ -7058,7 +7180,42 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "Context-aware AI Sales Agent to automate sales outreach.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Context-aware AI Sales Agent to automate sales outreach.",
+                    "ja": "コンテキストに応じたAIセールスエージェントによる営業アウトリーチの自動化。",
+                    "zh-hans": "上下文感知的人工智能销售代理，自动化销售推广。",
+                    "zh-hant": "上下文感知的人工智能銷售代理，自動化銷售推廣。"
+                }
+            },
+            "https://github.com/openai/automated-interpretability": {
+                "repository_name": "automated-interpretability",
+                "user_name": "openai",
+                "language": "Python",
+                "license": null,
+                "description": "LLMs Can Explain Neurons in Other LLMsExplain GPT-2 neuron’s behavior by showing GPT-4 (token, activation) pairsSimulate neuron's activations based on explanation w/ GPT-4Score explanation based on how well simulated activations match real activations  ",
                 "topics": []
+            },
+            "https://github.com/evalplus/evalplus": {
+                "repository_name": "evalplus",
+                "user_name": "evalplus",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "EvalPlus for rigourous evaluation of LLM-synthesized code",
+                "topics": [
+                    "benchmark",
+                    "chatgpt",
+                    "gpt-4",
+                    "large-language-models",
+                    "program-synthesis",
+                    "testing"
+                ]
             }
         },
         "Langchain": {
@@ -7678,7 +7835,13 @@
                 "language": "Python",
                 "license": null,
                 "description": "My current exploration: PyCodeAGI, an @LangChainAI #AIAgent that builds a Python console app given an objective, just got superpowers with @OpenAI #GPT4:  asked it to build a 'magic app' - it built something creative. There was not even a single error in…  ",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "My current exploration: PyCodeAGI, an @LangChainAI #AIAgent that builds a Python console app given an objective, just got superpowers with @OpenAI #GPT4:  asked it to build a 'magic app' - it built something creative. There was not even a single error in…  ",
+                    "ja": "私の現在の探求：PyCodeAGI、@LangChainAI #AIAgentは、目的に応じてPythonコンソールアプリを構築するもので、@OpenAI #GPT4との超能力を手に入れました。 「魔法のアプリ」を構築するように依頼したところ、創造的なものが構築されました。エラーは一つもありませんでした...",
+                    "zh-hans": "我的当前探索：PyCodeAGI，一个@LangChainAI #AIAgent，它可以根据目标构建一个Python控制台应用程序，刚刚获得了@OpenAI #GPT4的超能力：要求它构建一个“魔法应用程序”-它构建了一些创意。甚至没有一个错误...",
+                    "zh-hant": "我的目前探索：PyCodeAGI，一個 @LangChainAI #AIAgent，可以根據目標建立一個Python控制台應用程序，現在憑藉 @OpenAI #GPT4 獲得了超能力：要求它建立一個“魔法應用程序”-它建立了一些創意。甚至沒有一個錯誤..."
+                }
             },
             "https://github.com/open-mmlab/multimodal-gpt": {
                 "repository_name": "Multimodal-GPT",
@@ -7700,6 +7863,28 @@
                     "multimodal",
                     "transformer",
                     "vision-and-language"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Multimodal-GPT",
+                    "ja": "マルチモーダル-GPT",
+                    "zh-hans": "多模态-GPT",
+                    "zh-hant": "多模態-GPT"
+                }
+            },
+            "https://github.com/kaarthik108/snowchat": {
+                "repository_name": "snowChat",
+                "user_name": "kaarthik108",
+                "language": "Python",
+                "license": null,
+                "description": "Chat on you're snowflake database - Text to SQL",
+                "topics": [
+                    "chatgpt",
+                    "faiss",
+                    "gpt-4",
+                    "langchain",
+                    "snowflake",
+                    "streamlit",
+                    "vector"
                 ]
             }
         },
@@ -9038,6 +9223,51 @@
                     "zh-hans": "使用ChatGPT API探索PDF出版物的脚本集正在增长。",
                     "zh-hant": "使用ChatGPT API探索PDF出版物的腳本集正在增長。"
                 }
+            },
+            "https://github.com/hemulgm/chatgpt": {
+                "repository_name": "ChatGPT",
+                "user_name": "HemulGM",
+                "language": "Pascal",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT Native Desktop Application (Windows, Mac, Android, iOS, and Linux)",
+                "topics": [
+                    "android",
+                    "chatgpt",
+                    "delphi",
+                    "fmx",
+                    "gpt-3",
+                    "gpt-4",
+                    "ios",
+                    "linux",
+                    "macos",
+                    "openai",
+                    "windows"
+                ]
+            },
+            "https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93": {
+                "repository_name": "KeepChatGPT",
+                "user_name": "xcanwin",
+                "language": "JavaScript",
+                "license": {
+                    "key": "gpl-2.0",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0",
+                    "url": "https://api.github.com/licenses/gpl-2.0",
+                    "node_id": "MDc6TGljZW5zZTg="
+                },
+                "description": "ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "openai",
+                    "userscript"
+                ]
             }
         },
         "Others": {
@@ -11885,6 +12115,28 @@
                     "zh-hans": "Python中结构化和类型提示的GPT响应",
                     "zh-hant": "在Python中結構化和類型提示的GPT回應"
                 }
+            },
+            "https://github.com/dfalbel/gptneox": {
+                "repository_name": "gptneox",
+                "user_name": "dfalbel",
+                "language": "R",
+                "license": null,
+                "description": "What the Package Does (One Line, Title Case)",
+                "topics": []
+            },
+            "https://github.com/kroll-software/babyagi4all": {
+                "repository_name": "babyagi4all",
+                "user_name": "kroll-software",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "BabyAGI to run with GPT4All",
+                "topics": []
             }
         }
     }
