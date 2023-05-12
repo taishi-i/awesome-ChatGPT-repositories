@@ -20,9 +20,15 @@
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - 释放GPT:另一个聊天GPT破解程序
 
 
+**Chatbots**
+ * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - 这是一个复制项目,用于xtekky/gpt4free的字体脚本版本
+
+
 **Browser-extensions**
  * [pake](https://github.com/tw93/pake#popular-packages) - 化扩展版由AngularJS开发.
+ * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - 缺失的 GitHub Copilot 和 ChatGPT Xcode 源编辑器扩展
  * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - 对于ChatGPT的通用命令行插件
+ * [smartgpt](https://github.com/cormanz/smartgpt) - 一个程序,提供LLM使用插件完成复杂任务的能力.
 
 
 **CLIs**
@@ -48,7 +54,7 @@
  * [babyagi4all](https://github.com/kroll-software/babyagi4all) - 运行GPT4All的BabyAGI
 
 
-_Updated on May 13, 2023_ (A total of 663 repositories listed.)
+_Updated on May 13, 2023_ (A total of 666 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -204,8 +210,8 @@ ChatGPT资料汇总学习，持续更新......
 |[aish](https://github.com/aishell-io/aish)|![GitHub Repo stars](https://img.shields.io/github/stars/aishell-io/aish?style=social)|-|-|
 |[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/jushbjj/Mr.-Ranedeer-AI-Tutor?style=social)|-|-|
 |[ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese?style=social)|Jupyter Notebook|-|
-|[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
-|[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/unleashedgpt?style=social)|-|-|
+|[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
+|[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
 
 
 ## Chatbots
@@ -295,6 +301,7 @@ ChatGPT资料汇总学习，持续更新......
  * [big-agi](https://github.com/enricoros/big-agi) - 💬 个人AI应用程序由GPT-4及更高版本提供支持，具有AI人格、AGI功能、文本转图像、语音、响应流、代码高亮和执行、PDF导入、开发人员预设等功能。部署和赠送#big-AGI-energy！使用Next.js、React、Joy。
  * [RasaGPT](https://github.com/paulpierre/rasagpt) - 💬 RasaGPT是基于Rasa和Langchain构建的第一个无头LLM聊天机器人平台。使用Rasa、FastAPI、Langchain、LlamaIndex、SQLModel、pgvector、ngrok和telegram构建。
  * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChain是一组基于Python脚本的工具，可以根据Figma设计生成HTML/CSS代码。利用OpenAI的GPT-3模型，FigmaChain使开发人员能够快速从Figma设计输入中生成HTML/CSS代码。它还包括一个基于Streamlit的聊天机器人界面，用于交互式代码生成。
+ * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - 这是xtekky/gpt4free TypeScript版本的复制项目。
 
 
 |Name|GitHub Stars|Language|License|
@@ -384,6 +391,7 @@ ChatGPT资料汇总学习，持续更新......
 |[big-agi](https://github.com/enricoros/big-agi)|![GitHub Repo stars](https://img.shields.io/github/stars/enricoros/big-agi?style=social)|TypeScript|mit|
 |[RasaGPT](https://github.com/paulpierre/rasagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)|Python|mit|
 |[FigmaChain](https://github.com/cirediatpl/figmachain)|![GitHub Repo stars](https://img.shields.io/github/stars/cirediatpl/FigmaChain?style=social)|Python|-|
+|[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
 
 
 ## Browser-extensions
@@ -461,7 +469,9 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin) - 🧬@Solanalabs已经开发了一个开源的ChatGPT插件参考实现。🧬ChatGPT插件的可用性将使#Solana用户能够验证他们的钱包余额，转移代币并获取NFT。🔽信息
  * [bmtools](https://github.com/openbmb/bmtools) - BMTools：大型模型工具学习，ChatGPT-Plugins的开源解决方案，支持BabyAGI和Auto-GPTgithub。
  * [pake](https://github.com/tw93/pake#popular-packages) - 900Month的Chrome扩展程序是由AngularJS构建的。
+ * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - 缺失的GitHub Copilot和ChatGPT Xcode源代码编辑器扩展程序
  * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ChatGPT的通用命令行插件
+ * [smartgpt](https://github.com/cormanz/smartgpt) - 一个程序，为LLMs提供使用插件完成复杂任务的能力。
 
 
 |Name|GitHub Stars|Language|License|
@@ -537,8 +547,10 @@ ChatGPT资料汇总学习，持续更新......
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|JavaScript|mit|
 |[chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/solana-labs/chatgpt-plugin?style=social)|TypeScript|other|
 |[bmtools](https://github.com/openbmb/bmtools)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/bmtools?style=social)|-|-|
-|[pake](https://github.com/tw93/pake#popular-packages)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/pake?style=social)|JavaScript|-|
-|[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/gpt-terminal-plugin?style=social)|TypeScript|other|
+|[pake](https://github.com/tw93/pake#popular-packages)|![GitHub Repo stars](https://img.shields.io/github/stars/tw93/pake?style=social)|JavaScript|-|
+|[CopilotForXcode](https://github.com/intitni/copilotforxcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Swift|mit|
+|[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/etherlegend/gpt-terminal-plugin?style=social)|TypeScript|other|
+|[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)|Rust|mit|
 
 
 ## CLIs
@@ -665,7 +677,7 @@ ChatGPT资料汇总学习，持续更新......
 |[hfuzz](https://github.com/thehlopster/hfuzz)|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|-|unlicense|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|-|-|
 |[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|TypeScript|mit|
-|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/DelphiOpenAI?style=social)|Pascal|mit|
+|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/HemulGM/DelphiOpenAI?style=social)|Pascal|mit|
 
 
 ## Reimplementations
@@ -921,8 +933,8 @@ ChatGPT资料汇总学习，持续更新......
 |[AutoPR](https://github.com/irgolic/autopr)|![GitHub Repo stars](https://img.shields.io/github/stars/irgolic/AutoPR?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
 |[SalesGPT](https://github.com/filip-michalsky/salesgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social)|Jupyter Notebook|mit|
-|[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/automated-interpretability?style=social)|Python|-|
-|[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/evalplus?style=social)|Python|apache-2.0|
+|[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/automated-interpretability?style=social)|Python|-|
+|[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1000,7 +1012,7 @@ ChatGPT资料汇总学习，持续更新......
 |[open_llama](https://github.com/openlm-research/open_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/openlm-research/open_llama?style=social)|-|apache-2.0|
 |[pyCodeAGI](https://github.com/chakkaradeep/pycodeagi)|![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)|Python|-|
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
-|[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/snowChat?style=social)|Python|-|
+|[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 
 
 ## Unity
@@ -1175,8 +1187,8 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sw33tlie/impressive-chatgpt?style=social)|-|-|
 |[bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt)|![GitHub Repo stars](https://img.shields.io/github/stars/reewardius/bbFuzzing.txt?style=social)|-|-|
 |[chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/chat-with-chatgpt?style=social)|-|-|
-|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/ChatGPT?style=social)|Pascal|mit|
-|[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
+|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/HemulGM/ChatGPT?style=social)|Pascal|mit|
+|[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 
 
 ## Others
@@ -1532,7 +1544,7 @@ Chat酱独立部署版，docker方案自带代理
 |[2048](https://github.com/inishchith/2048)|![GitHub Repo stars](https://img.shields.io/github/stars/inishchith/2048?style=social)|JavaScript|mit|
 |[VardaGPT](https://github.com/ixaxaar/vardagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ixaxaar/VardaGPT?style=social)|Python|-|
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
-|[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gptneox?style=social)|R|-|
-|[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/babyagi4all?style=social)|Python|mit|
+|[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/dfalbel/gptneox?style=social)|R|-|
+|[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/kroll-software/babyagi4all?style=social)|Python|mit|
 
 
