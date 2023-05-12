@@ -20,9 +20,15 @@
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - 沒有任何關於我們.
 
 
+**Chatbots**
+ * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - 這是xtekky/gpt4free的字體版本的複製計畫.
+
+
 **Browser-extensions**
  * [pake](https://github.com/tw93/pake#popular-packages) - 這項軟體的Chrome擴展是由AngularJS建立的.
+ * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - 缺少的 GitHub Copilot 和 ChatGPT Xcode 源編輯器擴展
  * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - 關於 ChatGPT 的通用命令行插件
+ * [smartgpt](https://github.com/cormanz/smartgpt) - 這項計畫提供了LLM使用插件完成複雜任務的能力.
 
 
 **CLIs**
@@ -48,7 +54,7 @@
  * [babyagi4all](https://github.com/kroll-software/babyagi4all) - 該網站將使用GPT4All
 
 
-_Updated on May 13, 2023_ (A total of 663 repositories listed.)
+_Updated on May 13, 2023_ (A total of 666 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -205,8 +211,8 @@ _Updated on May 13, 2023_ (A total of 663 repositories listed.)
 |[aish](https://github.com/aishell-io/aish)|![GitHub Repo stars](https://img.shields.io/github/stars/aishell-io/aish?style=social)|-|-|
 |[Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor)|![GitHub Repo stars](https://img.shields.io/github/stars/jushbjj/Mr.-Ranedeer-AI-Tutor?style=social)|-|-|
 |[ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese?style=social)|Jupyter Notebook|-|
-|[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
-|[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/unleashedgpt?style=social)|-|-|
+|[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
+|[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
 
 
 ## Chatbots
@@ -297,6 +303,7 @@ _Updated on May 13, 2023_ (A total of 663 repositories listed.)
  * [big-agi](https://github.com/enricoros/big-agi) - 💬 個人AI應用程式，由GPT-4及更高版本驅動，具有AI人格、AGI功能、文字轉圖像、語音、回應串流、代碼突顯和執行、PDF匯入、開發人員預設等功能。部署和贈送#big-AGI-energy！使用Next.js、React、Joy。
  * [RasaGPT](https://github.com/paulpierre/rasagpt) - 💬 RasaGPT是基於Rasa和Langchain構建的第一個無頭LLM聊天機器人平台。使用Rasa、FastAPI、Langchain、LlamaIndex、SQLModel、pgvector、ngrok和telegram構建。
  * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChain 是一組基於 Python 腳本的工具，可以根據 Figma 設計生成 HTML/CSS 代碼。利用 OpenAI 的 GPT-3 模型，FigmaChain 可以讓開發人員從 Figma 設計輸入中快速生成 HTML/CSS 代碼。它還包括一個基於 Streamlit 的聊天機器人界面，用於交互式代碼生成。
+ * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - 這是 xtekky/gpt4free 的 TypeScript 版本複製專案。
 
 
 |Name|GitHub Stars|Language|License|
@@ -386,6 +393,7 @@ _Updated on May 13, 2023_ (A total of 663 repositories listed.)
 |[big-agi](https://github.com/enricoros/big-agi)|![GitHub Repo stars](https://img.shields.io/github/stars/enricoros/big-agi?style=social)|TypeScript|mit|
 |[RasaGPT](https://github.com/paulpierre/rasagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)|Python|mit|
 |[FigmaChain](https://github.com/cirediatpl/figmachain)|![GitHub Repo stars](https://img.shields.io/github/stars/cirediatpl/FigmaChain?style=social)|Python|-|
+|[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
 
 
 ## Browser-extensions
@@ -462,7 +470,9 @@ _Updated on May 13, 2023_ (A total of 663 repositories listed.)
  * [chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin) - 🧬@Solanalabs已經開發了一個開源的參考實現，用於ChatGPT插件。🧬 #ChatGPT插件的可用性將使#Solana用戶驗證他們的錢包餘額，轉移代幣並獲取NFT。🔽INFO
  * [bmtools](https://github.com/openbmb/bmtools) - BMTools：大型模型的工具學習，ChatGPT-Plugins的開源解決方案，支援BabyAGI和Auto-GPTgithub。
  * [pake](https://github.com/tw93/pake#popular-packages) - 900Month 的 Chrome 擴充功能是由 AngularJS 建立的。
+ * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - 缺失的GitHub Copilot和ChatGPT Xcode源代碼編輯器擴展。
  * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ChatGPT 的通用命令行插件
+ * [smartgpt](https://github.com/cormanz/smartgpt) - 一個提供LLMs使用插件完成複雜任務的程式。
 
 
 |Name|GitHub Stars|Language|License|
@@ -538,8 +548,10 @@ _Updated on May 13, 2023_ (A total of 663 repositories listed.)
 |[sftly-replace](https://github.com/kmizu/sftly-replace)|![GitHub Repo stars](https://img.shields.io/github/stars/kmizu/sftly-replace?style=social)|JavaScript|mit|
 |[chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/solana-labs/chatgpt-plugin?style=social)|TypeScript|other|
 |[bmtools](https://github.com/openbmb/bmtools)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/bmtools?style=social)|-|-|
-|[pake](https://github.com/tw93/pake#popular-packages)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/pake?style=social)|JavaScript|-|
-|[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/gpt-terminal-plugin?style=social)|TypeScript|other|
+|[pake](https://github.com/tw93/pake#popular-packages)|![GitHub Repo stars](https://img.shields.io/github/stars/tw93/pake?style=social)|JavaScript|-|
+|[CopilotForXcode](https://github.com/intitni/copilotforxcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Swift|mit|
+|[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/etherlegend/gpt-terminal-plugin?style=social)|TypeScript|other|
+|[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)|Rust|mit|
 
 
 ## CLIs
@@ -665,7 +677,7 @@ _Updated on May 13, 2023_ (A total of 663 repositories listed.)
 |[hfuzz](https://github.com/thehlopster/hfuzz)|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|-|unlicense|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|-|-|
 |[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|TypeScript|mit|
-|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/DelphiOpenAI?style=social)|Pascal|mit|
+|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/HemulGM/DelphiOpenAI?style=social)|Pascal|mit|
 
 
 ## Reimplementations
@@ -922,8 +934,8 @@ _Updated on May 13, 2023_ (A total of 663 repositories listed.)
 |[AutoPR](https://github.com/irgolic/autopr)|![GitHub Repo stars](https://img.shields.io/github/stars/irgolic/AutoPR?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
 |[SalesGPT](https://github.com/filip-michalsky/salesgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social)|Jupyter Notebook|mit|
-|[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/automated-interpretability?style=social)|Python|-|
-|[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/evalplus?style=social)|Python|apache-2.0|
+|[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/automated-interpretability?style=social)|Python|-|
+|[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1001,7 +1013,7 @@ _Updated on May 13, 2023_ (A total of 663 repositories listed.)
 |[open_llama](https://github.com/openlm-research/open_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/openlm-research/open_llama?style=social)|-|apache-2.0|
 |[pyCodeAGI](https://github.com/chakkaradeep/pycodeagi)|![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)|Python|-|
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
-|[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/snowChat?style=social)|Python|-|
+|[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 
 
 ## Unity
@@ -1171,8 +1183,8 @@ _Updated on May 13, 2023_ (A total of 663 repositories listed.)
 |[impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sw33tlie/impressive-chatgpt?style=social)|-|-|
 |[bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt)|![GitHub Repo stars](https://img.shields.io/github/stars/reewardius/bbFuzzing.txt?style=social)|-|-|
 |[chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/chat-with-chatgpt?style=social)|-|-|
-|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/ChatGPT?style=social)|Pascal|mit|
-|[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
+|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/HemulGM/ChatGPT?style=social)|Pascal|mit|
+|[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 
 
 ## Others
@@ -1535,7 +1547,7 @@ add chatgpt to your groupchats:
 |[2048](https://github.com/inishchith/2048)|![GitHub Repo stars](https://img.shields.io/github/stars/inishchith/2048?style=social)|JavaScript|mit|
 |[VardaGPT](https://github.com/ixaxaar/vardagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ixaxaar/VardaGPT?style=social)|Python|-|
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
-|[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gptneox?style=social)|R|-|
-|[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/babyagi4all?style=social)|Python|mit|
+|[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/dfalbel/gptneox?style=social)|R|-|
+|[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/kroll-software/babyagi4all?style=social)|Python|mit|
 
 

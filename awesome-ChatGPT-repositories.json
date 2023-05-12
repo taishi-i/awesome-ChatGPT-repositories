@@ -2708,6 +2708,37 @@
                     "zh-hans": "FigmaChain是一组基于Python脚本的工具，可以根据Figma设计生成HTML/CSS代码。利用OpenAI的GPT-3模型，FigmaChain使开发人员能够快速从Figma设计输入中生成HTML/CSS代码。它还包括一个基于Streamlit的聊天机器人界面，用于交互式代码生成。",
                     "zh-hant": "FigmaChain 是一組基於 Python 腳本的工具，可以根據 Figma 設計生成 HTML/CSS 代碼。利用 OpenAI 的 GPT-3 模型，FigmaChain 可以讓開發人員從 Figma 設計輸入中快速生成 HTML/CSS 代碼。它還包括一個基於 Streamlit 的聊天機器人界面，用於交互式代碼生成。"
                 }
+            },
+            "https://github.com/xiangsx/gpt4free-ts": {
+                "repository_name": "gpt4free-ts",
+                "user_name": "xiangsx",
+                "language": "TypeScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "This is a replication project for the typescript version of xtekky/gpt4free",
+                "topics": [
+                    "chatbot",
+                    "chatbots",
+                    "chatgpt",
+                    "chatgpt-free",
+                    "chatgpt4",
+                    "free-gpt",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "gpt4",
+                    "gpt4-api",
+                    "gpt4free",
+                    "nodejs",
+                    "openai",
+                    "typescript"
+                ]
             }
         },
         "Browser-extensions": {
@@ -4043,6 +4074,27 @@
                 "description": "The chrome-extension of 900Month is built by AngularJS.",
                 "topics": []
             },
+            "https://github.com/intitni/copilotforxcode": {
+                "repository_name": "CopilotForXcode",
+                "user_name": "intitni",
+                "language": "Swift",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "The missing GitHub Copilot and ChatGPT Xcode Source Editor Extension",
+                "topics": [
+                    "chatgpt",
+                    "copilot",
+                    "macos",
+                    "xcode",
+                    "xcode-extension",
+                    "xcode-extensions"
+                ]
+            },
             "https://github.com/etherlegend/gpt-terminal-plugin": {
                 "repository_name": "gpt-terminal-plugin",
                 "user_name": "etherlegend",
@@ -4056,6 +4108,27 @@
                 },
                 "description": "Universal command line plugin for ChatGPT",
                 "topics": []
+            },
+            "https://github.com/cormanz/smartgpt": {
+                "repository_name": "smartgpt",
+                "user_name": "Cormanz",
+                "language": "Rust",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A program that provides LLMs with the ability to complete complex tasks using plugins.",
+                "topics": [
+                    "ai",
+                    "gpt-3",
+                    "gpt-4",
+                    "llm",
+                    "openai",
+                    "rust"
+                ]
             }
         },
         "CLIs": {
