@@ -1069,7 +1069,13 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "description": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU",
+                    "ja": "吴恩达の「ChatGPT Prompt Engineering for Developers」の中国語版コース、ビデオアドレス：https://www.bilibili.com/video/BV1Bo4y1A7FU",
+                    "zh-hans": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU",
+                    "zh-hant": "吳恩達《ChatGPT Prompt Engineering for Developers》課程中文版，視頻地址：https://www.bilibili.com/video/BV1Bo4y1A7FU"
+                }
             },
             "https://github.com/ambr0sial/unleashedgpt": {
                 "repository_name": "unleashedgpt",
@@ -1084,6 +1090,33 @@
                     "openai",
                     "prompt",
                     "prompts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "UnleashedGPT: Yet Another ChatGPT Jailbreak",
+                    "ja": "UnleashedGPT：もう一つのChatGPTジェイルブレイク",
+                    "zh-hans": "UnleashedGPT：又一个ChatGPT越狱",
+                    "zh-hant": "UnleashedGPT：又一個ChatGPT越獄"
+                }
+            },
+            "https://github.com/jesselau76/gpt-prompts": {
+                "repository_name": "GPT-Prompts",
+                "user_name": "jesselau76",
+                "language": null,
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "Useful GPT Prompts",
+                "topics": [
+                    "generator",
+                    "gpt",
+                    "gpt-4",
+                    "midjourney",
+                    "prompt",
+                    "prompt-engineering"
                 ]
             }
         },
@@ -2738,7 +2771,21 @@
                     "nodejs",
                     "openai",
                     "typescript"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "This is a replication project for the typescript version of xtekky/gpt4free",
+                    "ja": "これは、xtekky/gpt4freeのTypeScriptバージョンの複製プロジェクトです。",
+                    "zh-hans": "这是xtekky/gpt4free TypeScript版本的复制项目。",
+                    "zh-hant": "這是 xtekky/gpt4free 的 TypeScript 版本複製專案。"
+                }
+            },
+            "https://github.com/martinseanhunt/slack-gpt": {
+                "repository_name": "slack-gpt",
+                "user_name": "martinseanhunt",
+                "language": "JavaScript",
+                "license": null,
+                "description": "A simple slack app / bot starter that fetches answers to questions using Langchain, OpenAI and a Pincone vectorstore",
+                "topics": []
             }
         },
         "Browser-extensions": {
@@ -4072,7 +4119,13 @@
                 "language": "JavaScript",
                 "license": null,
                 "description": "The chrome-extension of 900Month is built by AngularJS.",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The chrome-extension of 900Month is built by AngularJS.",
+                    "ja": "900MonthのChrome拡張機能はAngularJSで構築されています。",
+                    "zh-hans": "900Month的Chrome扩展程序是由AngularJS构建的。",
+                    "zh-hant": "900Month 的 Chrome 擴充功能是由 AngularJS 建立的。"
+                }
             },
             "https://github.com/intitni/copilotforxcode": {
                 "repository_name": "CopilotForXcode",
@@ -4093,7 +4146,13 @@
                     "xcode",
                     "xcode-extension",
                     "xcode-extensions"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "The missing GitHub Copilot and ChatGPT Xcode Source Editor Extension",
+                    "ja": "GitHub CopilotとChatGPTのXcodeソースエディタ拡張機能が見つかりません。",
+                    "zh-hans": "缺失的GitHub Copilot和ChatGPT Xcode源代码编辑器扩展程序",
+                    "zh-hant": "缺失的GitHub Copilot和ChatGPT Xcode源代碼編輯器擴展。"
+                }
             },
             "https://github.com/etherlegend/gpt-terminal-plugin": {
                 "repository_name": "gpt-terminal-plugin",
@@ -4107,7 +4166,13 @@
                     "node_id": "MDc6TGljZW5zZTA="
                 },
                 "description": "Universal command line plugin for ChatGPT",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Universal command line plugin for ChatGPT",
+                    "ja": "ChatGPTのための汎用コマンドラインプラグイン",
+                    "zh-hans": "ChatGPT的通用命令行插件",
+                    "zh-hant": "ChatGPT 的通用命令行插件"
+                }
             },
             "https://github.com/cormanz/smartgpt": {
                 "repository_name": "smartgpt",
@@ -4128,7 +4193,13 @@
                     "llm",
                     "openai",
                     "rust"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "A program that provides LLMs with the ability to complete complex tasks using plugins.",
+                    "ja": "LLMがプラグインを使用して複雑なタスクを完了する能力を提供するプログラム。",
+                    "zh-hans": "一个程序，为LLMs提供使用插件完成复杂任务的能力。",
+                    "zh-hant": "一個提供LLMs使用插件完成複雜任務的程式。"
+                }
             }
         },
         "CLIs": {
@@ -5259,6 +5330,28 @@
                     "gpt-3",
                     "openai",
                     "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.",
+                    "ja": "Delphi用のOpenAI APIクライアント。ChatGPT、DALL-Eなどの製品を使用します。",
+                    "zh-hans": "Delphi的OpenAI API客户端。使用ChatGPT、DALL-E和其他产品。",
+                    "zh-hant": "輸入：Delphi的OpenAI API客戶端。使用ChatGPT、DALL-E和其他產品。\n輸出："
+                }
+            },
+            "https://github.com/akl7777777/free-chatgpt-client-pub": {
+                "repository_name": "free-chatgpt-client-pub",
+                "user_name": "akl7777777",
+                "language": "JavaScript",
+                "license": null,
+                "description": "**A free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**",
+                "topics": [
+                    "bobplugin",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "chatgpt3",
+                    "chatgptdesktop",
+                    "gpt4",
+                    "openai"
                 ]
             }
         },
@@ -7267,7 +7360,13 @@
                 "language": "Python",
                 "license": null,
                 "description": "LLMs Can Explain Neurons in Other LLMsExplain GPT-2 neuron’s behavior by showing GPT-4 (token, activation) pairsSimulate neuron's activations based on explanation w/ GPT-4Score explanation based on how well simulated activations match real activations  ",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "LLMs Can Explain Neurons in Other LLMsExplain GPT-2 neuron’s behavior by showing GPT-4 (token, activation) pairsSimulate neuron's activations based on explanation w/ GPT-4Score explanation based on how well simulated activations match real activations  ",
+                    "ja": "LLMsは他のLLMsのニューロンを説明できます\nGPT-4（トークン、アクティベーション）ペアを示すことによってGPT-2ニューロンの振る舞いを説明する\nGPT-4による説明に基づいてニューロンの活性化をシミュレートする\nシミュレートされた活性化が実際の活性化とどの程度一致するかに基づいて説明のスコアを付ける",
+                    "zh-hans": "LLMs可以解释其他LLMs中的神经元\n通过展示GPT-4（标记，激活）对来解释GPT-2神经元的行为\n基于与GPT-4的解释模拟神经元的激活\n根据模拟激活与真实激活的匹配程度评分解释",
+                    "zh-hant": "LLMs 可以解釋其他 LLMs 中的神經元\n通過展示 GPT-4（標記，激活）對來解釋 GPT-2 神經元的行為\n基於與 GPT-4 的解釋模擬神經元的激活\n根據模擬激活與實際激活的匹配程度評分解釋"
+                }
             },
             "https://github.com/evalplus/evalplus": {
                 "repository_name": "evalplus",
@@ -7288,7 +7387,13 @@
                     "large-language-models",
                     "program-synthesis",
                     "testing"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "EvalPlus for rigourous evaluation of LLM-synthesized code",
+                    "ja": "LLM合成コードの厳密な評価のためのEvalPlus",
+                    "zh-hans": "EvalPlus用于严格评估LLM合成的代码。",
+                    "zh-hant": "EvalPlus 用於嚴格評估 LLM 合成的程式碼"
+                }
             }
         },
         "Langchain": {
@@ -7958,7 +8063,13 @@
                     "snowflake",
                     "streamlit",
                     "vector"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat on you're snowflake database - Text to SQL",
+                    "ja": "あなたのスノーフレークデータベースでチャット - テキストからSQLへ",
+                    "zh-hans": "在您的雪花数据库上聊天 - 文本转SQL",
+                    "zh-hant": "在您的雪花數據庫上聊天 - 文本轉SQL"
+                }
             }
         },
         "Unity": {
@@ -9321,7 +9432,13 @@
                     "macos",
                     "openai",
                     "windows"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Native Desktop Application (Windows, Mac, Android, iOS, and Linux)",
+                    "ja": "ChatGPTネイティブデスクトップアプリケーション（Windows、Mac、Android、iOS、およびLinux）",
+                    "zh-hans": "ChatGPT 本地桌面应用程序（Windows、Mac、Android、iOS 和 Linux）",
+                    "zh-hant": "ChatGPT 原生桌面應用程式（Windows、Mac、Android、iOS 和 Linux）"
+                }
             },
             "https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93": {
                 "repository_name": "KeepChatGPT",
@@ -9340,6 +9457,32 @@
                     "chatgpt",
                     "openai",
                     "userscript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Chat Plugin. Solves all errors, making our AI experience incredibly smooth, silky, and efficient. And continues to update more enhanced features, including canceling audits, cloning conversations, purifying homepages, and more.",
+                    "ja": "ChatGPT畅聊プラグイン。すべてのエラーを解決し、私たちのAI体験を非常にスムーズで滑らかで効率的にします。さらに、監査のキャンセル、会話のクローン、ホームページの浄化など、さらに多くの強化機能を継続的に更新します。",
+                    "zh-hans": "ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。",
+                    "zh-hant": "ChatGPT暢聊插件。解決所有報錯，讓我們的AI體驗無比順暢、絲滑、高效。並且持續更新更多的增強功能，包括取消審計、克隆對話、淨化首頁等等。"
+                }
+            },
+            "https://github.com/jtsang4/claude-to-chatgpt": {
+                "repository_name": "claude-to-chatgpt",
+                "user_name": "jtsang4",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.",
+                "topics": [
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "claude-ai",
+                    "openai"
                 ]
             }
         },
@@ -12195,7 +12338,13 @@
                 "language": "R",
                 "license": null,
                 "description": "What the Package Does (One Line, Title Case)",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "What the Package Does (One Line, Title Case)",
+                    "ja": "パッケージの概要（1行、タイトルケース）",
+                    "zh-hans": "软件包的功能（一行，标题大小写）",
+                    "zh-hant": "套件功能（一行，標題大小寫）"
+                }
             },
             "https://github.com/kroll-software/babyagi4all": {
                 "repository_name": "babyagi4all",
@@ -12209,7 +12358,13 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "BabyAGI to run with GPT4All",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "BabyAGI to run with GPT4All",
+                    "ja": "BabyAGIをGPT4Allと一緒に実行する。",
+                    "zh-hans": "BabyAGI与GPT4All一起运行。",
+                    "zh-hant": "BabyAGI 與 GPT4All 一起運行"
+                }
             }
         }
     }
