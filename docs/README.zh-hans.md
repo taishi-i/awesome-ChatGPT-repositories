@@ -16,45 +16,22 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 恩达ChatGPT 开发人员的快速工程课程中文版,视频地址:https://www.bilibili.com/video/BV1Bo4y1A7FU
- * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - 释放GPT:另一个聊天GPT破解程序
+ * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用的GPT提示
 
 
 **Chatbots**
- * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - 这是一个复制项目,用于xtekky/gpt4free的字体脚本版本
-
-
-**Browser-extensions**
- * [pake](https://github.com/tw93/pake#popular-packages) - 化扩展版由AngularJS开发.
- * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - 缺失的 GitHub Copilot 和 ChatGPT Xcode 源编辑器扩展
- * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - 对于ChatGPT的通用命令行插件
- * [smartgpt](https://github.com/cormanz/smartgpt) - 一个程序,提供LLM使用插件完成复杂任务的能力.
+ * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - 一个简单的软件/机器人启动器,可以使用Langchain,OpenAI和Pincone向量商店来获取答案
 
 
 **CLIs**
- * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - 开放AI API 客户端用于Delphi.使用ChatGPT,DALL-E和其他产品.
-
-
-**NLP**
- * [automated-interpretability](https://github.com/openai/automated-interpretability) - 通过显示GPT-4 (令牌,激活) 对来解释GPT-2神经元的行为 基于解释模拟神经元的激活 w/ GPT-4Score解释基于模拟激活与实际激活相匹配程度
- * [evalplus](https://github.com/evalplus/evalplus) - 对于LLM合成代码的严格评估,EvalPlus
-
-
-**Langchain**
- * [snowChat](https://github.com/kaarthik108/snowchat) - 聊天你的雪花数据库 - 文字到SQL
+ * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **免费的chatgpt客户端,现在支持在线搜索.不需要钥匙,不需要登录.多节点自动速度测量开关,长文翻译没有字数限制,AI图形.免费的chatgpt客户端,已支持联网搜索,无需密钥,无需登录,多节点自动测速切换,长文翻译不限数字,AI出图**
 
 
 **Openai**
- * [ChatGPT](https://github.com/hemulgm/chatgpt) - 聊天GPT原生桌面应用程序 (Windows,Mac,Android,iOS和Linux)
- * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - 聊天GPT聊插件. 解决所有错误,让我们的AI体验无与伦比顺,滑滑,高效. 并持续更新更多增强功能,包括取消审计,克隆对话,清理首页等等.
+ * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - 这项项目将Anthropic的Claude模型的API转换为OpenAI聊天API格式.
 
 
-**Others**
- * [gptneox](https://github.com/dfalbel/gptneox) - 包装的功能 (一行,标题案例)
- * [babyagi4all](https://github.com/kroll-software/babyagi4all) - 运行GPT4All的BabyAGI
-
-
-_Updated on May 13, 2023_ (A total of 666 repositories listed.)
+_Updated on May 15, 2023_ (A total of 670 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -162,6 +139,7 @@ ChatGPT资料汇总学习，持续更新......
  * [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕：开发者必看！
  * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：又一个ChatGPT越狱
+ * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用的GPT提示
 
 
 |Name|GitHub Stars|Language|License|
@@ -212,6 +190,7 @@ ChatGPT资料汇总学习，持续更新......
 |[ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese?style=social)|Jupyter Notebook|-|
 |[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
+|[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
 
 
 ## Chatbots
@@ -302,6 +281,7 @@ ChatGPT资料汇总学习，持续更新......
  * [RasaGPT](https://github.com/paulpierre/rasagpt) - 💬 RasaGPT是基于Rasa和Langchain构建的第一个无头LLM聊天机器人平台。使用Rasa、FastAPI、Langchain、LlamaIndex、SQLModel、pgvector、ngrok和telegram构建。
  * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChain是一组基于Python脚本的工具，可以根据Figma设计生成HTML/CSS代码。利用OpenAI的GPT-3模型，FigmaChain使开发人员能够快速从Figma设计输入中生成HTML/CSS代码。它还包括一个基于Streamlit的聊天机器人界面，用于交互式代码生成。
  * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - 这是xtekky/gpt4free TypeScript版本的复制项目。
+ * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - 一个简单的Slack应用/机器人启动器，使用Langchain、OpenAI和Pincone向量库获取问题的答案。
 
 
 |Name|GitHub Stars|Language|License|
@@ -392,6 +372,7 @@ ChatGPT资料汇总学习，持续更新......
 |[RasaGPT](https://github.com/paulpierre/rasagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)|Python|mit|
 |[FigmaChain](https://github.com/cirediatpl/figmachain)|![GitHub Repo stars](https://img.shields.io/github/stars/cirediatpl/FigmaChain?style=social)|Python|-|
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
+|[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -550,7 +531,7 @@ ChatGPT资料汇总学习，持续更新......
 |[pake](https://github.com/tw93/pake#popular-packages)|![GitHub Repo stars](https://img.shields.io/github/stars/tw93/pake?style=social)|JavaScript|-|
 |[CopilotForXcode](https://github.com/intitni/copilotforxcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Swift|mit|
 |[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/etherlegend/gpt-terminal-plugin?style=social)|TypeScript|other|
-|[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)|Rust|mit|
+|[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cormanz/smartgpt?style=social)|Rust|mit|
 
 
 ## CLIs
@@ -616,6 +597,7 @@ ChatGPT资料汇总学习，持续更新......
  * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 掌握命令行，仅需一页
  * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilot是一个CLI工具，它使用OpenAI模型生成命令，以实现终端和文件系统操作的目标。
  * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - Delphi的OpenAI API客户端。使用ChatGPT、DALL-E和其他产品。
+ * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - 一个免费的ChatGPT客户端，现在支持在线搜索。无需密钥，无需登录。多节点自动速度测量切换，长文翻译无字数限制，AI图形。
 
 
 |Name|GitHub Stars|Language|License|
@@ -677,7 +659,8 @@ ChatGPT资料汇总学习，持续更新......
 |[hfuzz](https://github.com/thehlopster/hfuzz)|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|-|unlicense|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|-|-|
 |[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|TypeScript|mit|
-|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/HemulGM/DelphiOpenAI?style=social)|Pascal|mit|
+|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/DelphiOpenAI?style=social)|Pascal|mit|
+|[free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub)|![GitHub Repo stars](https://img.shields.io/github/stars/akl7777777/free-chatgpt-client-pub?style=social)|JavaScript|-|
 
 
 ## Reimplementations
@@ -1116,6 +1099,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt) - 通过 GitHub 问题评论与 ChatGPT 聊天。
  * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPT 本地桌面应用程序（Windows、Mac、Android、iOS 和 Linux）
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
+ * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - 该项目将Anthropic的Claude模型的API转换为OpenAI Chat API格式。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1187,8 +1171,9 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sw33tlie/impressive-chatgpt?style=social)|-|-|
 |[bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt)|![GitHub Repo stars](https://img.shields.io/github/stars/reewardius/bbFuzzing.txt?style=social)|-|-|
 |[chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/chat-with-chatgpt?style=social)|-|-|
-|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/HemulGM/ChatGPT?style=social)|Pascal|mit|
+|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/ChatGPT?style=social)|Pascal|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
+|[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jtsang4/claude-to-chatgpt?style=social)|Python|mit|
 
 
 ## Others

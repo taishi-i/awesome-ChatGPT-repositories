@@ -16,48 +16,22 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达の「ChatGPT Prompt Engineering for Developers」の中国語版コース、ビデオアドレス：https://www.bilibili.com/video/BV1Bo4y1A7FU
- * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：もう一つのChatGPTジェイルブレイク
+ * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用なGPTプロンプト
 
 
 **Chatbots**
- * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - これは、xtekky/gpt4freeのTypeScriptバージョンの複製プロジェクトです。
-
-
-**Browser-extensions**
- * [pake](https://github.com/tw93/pake#popular-packages) - 900MonthのChrome拡張機能はAngularJSで構築されています。
- * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - GitHub CopilotとChatGPTのXcodeソースエディタ拡張機能が見つかりません。
- * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ChatGPTのための汎用コマンドラインプラグイン
- * [smartgpt](https://github.com/cormanz/smartgpt) - LLMがプラグインを使用して複雑なタスクを完了する能力を提供するプログラム。
+ * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - Langchain、OpenAI、およびPinconeベクトルストアを使用して質問に答えを取得するシンプルなSlackアプリ/ボットスターター。
 
 
 **CLIs**
- * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - Delphi用のOpenAI APIクライアント。ChatGPT、DALL-Eなどの製品を使用します。
-
-
-**NLP**
- * [automated-interpretability](https://github.com/openai/automated-interpretability) - LLMsは他のLLMsのニューロンを説明できます
-GPT-4（トークン、アクティベーション）ペアを示すことによってGPT-2ニューロンの振る舞いを説明する
-GPT-4による説明に基づいてニューロンの活性化をシミュレートする
-シミュレートされた活性化が実際の活性化とどの程度一致するかに基づいて説明のスコアを付ける
- * [evalplus](https://github.com/evalplus/evalplus) - LLM合成コードの厳密な評価のためのEvalPlus
-
-
-**Langchain**
- * [snowChat](https://github.com/kaarthik108/snowchat) - あなたのスノーフレークデータベースでチャット - テキストからSQLへ
+ * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - 無料のChatGPTクライアント、オンライン検索に対応。キー不要、ログイン不要。マルチノード自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスを搭載。
 
 
 **Openai**
- * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPTネイティブデスクトップアプリケーション（Windows、Mac、Android、iOS、およびLinux）
- * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT畅聊プラグイン。すべてのエラーを解決し、私たちのAI体験を非常にスムーズで滑らかで効率的にします。さらに、監査のキャンセル、会話のクローン、ホームページの浄化など、さらに多くの強化機能を継続的に更新します。
+ * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - このプロジェクトは、AnthropicのClaudeモデルのAPIをOpenAI Chat API形式に変換します。
 
 
-**Others**
- * [gptneox](https://github.com/dfalbel/gptneox) - パッケージの概要（1行、タイトルケース）
- * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGIをGPT4Allと一緒に実行する。
-
-
-_Updated on May 13, 2023_ (A total of 666 repositories listed.)
+_Updated on May 15, 2023_ (A total of 670 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -167,6 +141,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese) - 「開発者向けのChatGPTプロンプトエンジニアリング」の非公式版英中字幕
  * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达の「ChatGPT Prompt Engineering for Developers」の中国語版コース、ビデオアドレス：https://www.bilibili.com/video/BV1Bo4y1A7FU
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：もう一つのChatGPTジェイルブレイク
+ * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用なGPTプロンプト
 
 
 |Name|GitHub Stars|Language|License|
@@ -217,6 +192,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese)|![GitHub Repo stars](https://img.shields.io/github/stars/githubdaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese?style=social)|Jupyter Notebook|-|
 |[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
+|[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
 
 
 ## Chatbots
@@ -310,6 +286,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [RasaGPT](https://github.com/paulpierre/rasagpt) - 💬 RasaGPTは、RasaとLangchainの上に構築された最初のヘッドレスLLMチャットボットプラットフォームです。Rasa、FastAPI、Langchain、LlamaIndex、SQLModel、pgvector、ngrok、telegramで構築されています。
  * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChainは、Figmaデザインに基づいてHTML/CSSコードを生成するPythonスクリプトのセットです。OpenAIのGPT-3モデルを使用することで、FigmaChainは開発者がFigmaデザイン入力から素早くHTML/CSSコードを生成することを可能にします。また、インタラクティブなコード生成のためのStreamlitベースのチャットボットインターフェイスも含まれています。
  * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - これは、xtekky/gpt4freeのTypeScriptバージョンの複製プロジェクトです。
+ * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - Langchain、OpenAI、およびPinconeベクトルストアを使用して質問に答えを取得するシンプルなSlackアプリ/ボットスターター。
 
 
 |Name|GitHub Stars|Language|License|
@@ -400,6 +377,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[RasaGPT](https://github.com/paulpierre/rasagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/paulpierre/RasaGPT?style=social)|Python|mit|
 |[FigmaChain](https://github.com/cirediatpl/figmachain)|![GitHub Repo stars](https://img.shields.io/github/stars/cirediatpl/FigmaChain?style=social)|Python|-|
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
+|[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -557,7 +535,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[pake](https://github.com/tw93/pake#popular-packages)|![GitHub Repo stars](https://img.shields.io/github/stars/tw93/pake?style=social)|JavaScript|-|
 |[CopilotForXcode](https://github.com/intitni/copilotforxcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Swift|mit|
 |[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/etherlegend/gpt-terminal-plugin?style=social)|TypeScript|other|
-|[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)|Rust|mit|
+|[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cormanz/smartgpt?style=social)|Rust|mit|
 
 
 ## CLIs
@@ -620,6 +598,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 1ページでコマンドラインをマスターする
  * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilotは、目標を達成するために、OpenAIモデルを使用してターミナルのコマンドやファイルシステム操作を生成するCLIツールです。
  * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - Delphi用のOpenAI APIクライアント。ChatGPT、DALL-Eなどの製品を使用します。
+ * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - 無料のChatGPTクライアント、オンライン検索に対応。キー不要、ログイン不要。マルチノード自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスを搭載。
 
 
 |Name|GitHub Stars|Language|License|
@@ -681,7 +660,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[hfuzz](https://github.com/thehlopster/hfuzz)|![GitHub Repo stars](https://img.shields.io/github/stars/thehlopster/hfuzz?style=social)|-|unlicense|
 |[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|![GitHub Repo stars](https://img.shields.io/github/stars/jlevy/the-art-of-command-line?style=social)|-|-|
 |[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|TypeScript|mit|
-|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/HemulGM/DelphiOpenAI?style=social)|Pascal|mit|
+|[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/DelphiOpenAI?style=social)|Pascal|mit|
+|[free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub)|![GitHub Repo stars](https://img.shields.io/github/stars/akl7777777/free-chatgpt-client-pub?style=social)|JavaScript|-|
 
 
 ## Reimplementations
@@ -1110,6 +1090,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt) - GitHubの問題コメントを介してChatGPTとチャットしてください。
  * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPTネイティブデスクトップアプリケーション（Windows、Mac、Android、iOS、およびLinux）
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT畅聊プラグイン。すべてのエラーを解決し、私たちのAI体験を非常にスムーズで滑らかで効率的にします。さらに、監査のキャンセル、会話のクローン、ホームページの浄化など、さらに多くの強化機能を継続的に更新します。
+ * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - このプロジェクトは、AnthropicのClaudeモデルのAPIをOpenAI Chat API形式に変換します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1181,8 +1162,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sw33tlie/impressive-chatgpt?style=social)|-|-|
 |[bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt)|![GitHub Repo stars](https://img.shields.io/github/stars/reewardius/bbFuzzing.txt?style=social)|-|-|
 |[chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/second-state/chat-with-chatgpt?style=social)|-|-|
-|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/HemulGM/ChatGPT?style=social)|Pascal|mit|
+|[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/ChatGPT?style=social)|Pascal|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
+|[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jtsang4/claude-to-chatgpt?style=social)|Python|mit|
 
 
 ## Others
