@@ -16,22 +16,31 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用的GPT提示
+ * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - 如何使用 OpenAI 的 GPT-4 等大型语言模型.
 
 
 **Chatbots**
- * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - 一个简单的软件/机器人启动器,可以使用Langchain,OpenAI和Pincone向量商店来获取答案
+ * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - 作为聊天机器人服务的LLM
 
 
-**CLIs**
- * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **免费的chatgpt客户端,现在支持在线搜索.不需要钥匙,不需要登录.多节点自动速度测量开关,长文翻译没有字数限制,AI图形.免费的chatgpt客户端,已支持联网搜索,无需密钥,无需登录,多节点自动测速切换,长文翻译不限数字,AI出图**
+**Browser-extensions**
+ * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - 建立ChatGPT插件使用Cloudflare的开发者平台
+ * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPT Agent是QGIS的强大插件,利用OpenAI GPT模型的先进自然语言处理功能,自动化QGIS中的各种过程.使用此插件,用户可以使用自然语言命令与QGIS软件交互,显著减少完成各种任务所需的时间和精力.
 
 
-**Openai**
- * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - 这项项目将Anthropic的Claude模型的API转换为OpenAI聊天API格式.
+**Reimplementations**
+ * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - 基于纳米GPT的 StableLM/Pythia/INCITE 语言模型实现. 支持闪光注意,LLaMA-Adapter精细调整,预训练. Apache 2.0 许可.
 
 
-_Updated on May 15, 2023_ (A total of 670 repositories listed.)
+**NLP**
+ * [chat2plot](https://github.com/nyanp/chat2plot) - 通过LLM进行视觉化
+
+
+**Others**
+ * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - 开源短视频自动生成工具
+
+
+_Updated on May 16, 2023_ (A total of 677 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -140,6 +149,7 @@ ChatGPT资料汇总学习，持续更新......
  * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：又一个ChatGPT越狱
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用的GPT提示
+ * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - 使用像OpenAI的GPT-4这样的大型语言模型的技巧和窍门。
 
 
 |Name|GitHub Stars|Language|License|
@@ -191,6 +201,7 @@ ChatGPT资料汇总学习，持续更新......
 |[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
+|[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 
 
 ## Chatbots
@@ -282,6 +293,7 @@ ChatGPT资料汇总学习，持续更新......
  * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChain是一组基于Python脚本的工具，可以根据Figma设计生成HTML/CSS代码。利用OpenAI的GPT-3模型，FigmaChain使开发人员能够快速从Figma设计输入中生成HTML/CSS代码。它还包括一个基于Streamlit的聊天机器人界面，用于交互式代码生成。
  * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - 这是xtekky/gpt4free TypeScript版本的复制项目。
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - 一个简单的Slack应用/机器人启动器，使用Langchain、OpenAI和Pincone向量库获取问题的答案。
+ * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM作为聊天机器人服务
 
 
 |Name|GitHub Stars|Language|License|
@@ -373,6 +385,7 @@ ChatGPT资料汇总学习，持续更新......
 |[FigmaChain](https://github.com/cirediatpl/figmachain)|![GitHub Repo stars](https://img.shields.io/github/stars/cirediatpl/FigmaChain?style=social)|Python|-|
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
+|[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -453,6 +466,8 @@ ChatGPT资料汇总学习，持续更新......
  * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - 缺失的GitHub Copilot和ChatGPT Xcode源代码编辑器扩展程序
  * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ChatGPT的通用命令行插件
  * [smartgpt](https://github.com/cormanz/smartgpt) - 一个程序，为LLMs提供使用插件完成复杂任务的能力。
+ * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - 使用Cloudflare的开发者平台构建ChatGPT插件 🤖
+ * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPT代理是QGIS的强大插件，利用OpenAI GPT模型的先进自然语言处理能力自动化QGIS中的各种过程。使用此插件，用户可以使用自然语言命令与QGIS软件交互，大大减少完成各种任务所需的时间和精力。
 
 
 |Name|GitHub Stars|Language|License|
@@ -532,6 +547,8 @@ ChatGPT资料汇总学习，持续更新......
 |[CopilotForXcode](https://github.com/intitni/copilotforxcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Swift|mit|
 |[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/etherlegend/gpt-terminal-plugin?style=social)|TypeScript|other|
 |[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cormanz/smartgpt?style=social)|Rust|mit|
+|[chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/chatgpt-plugin?style=social)|JavaScript|other|
+|[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 
 
 ## CLIs
@@ -678,6 +695,7 @@ ChatGPT资料汇总学习，持续更新......
  * [large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism) - 主要模型并行方法的功能本地实现
  * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - BLOOM的C++实现
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 实现了 GPT-2、DistilGPT-2、BERT 和 DistilBERT 用于问答。其他 Transformer 即将推出！
+ * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - 基于nanoGPT的StableLM/Pythia/INCITE语言模型的实现。支持闪存注意力、LLaMA-Adapter微调、预训练。采用Apache 2.0许可证。
 
 
 |Name|GitHub Stars|Language|License|
@@ -695,6 +713,7 @@ ChatGPT资料汇总学习，持续更新......
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|Jupyter Notebook|gpl-3.0|
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
+|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-parrot?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -818,6 +837,7 @@ ChatGPT资料汇总学习，持续更新......
 基于与GPT-4的解释模拟神经元的激活
 根据模拟激活与真实激活的匹配程度评分解释
  * [evalplus](https://github.com/evalplus/evalplus) - EvalPlus用于严格评估LLM合成的代码。
+ * [chat2plot](https://github.com/nyanp/chat2plot) - 使用LLM进行聊天可视化
 
 
 |Name|GitHub Stars|Language|License|
@@ -918,6 +938,7 @@ ChatGPT资料汇总学习，持续更新......
 |[SalesGPT](https://github.com/filip-michalsky/salesgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social)|Jupyter Notebook|mit|
 |[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/automated-interpretability?style=social)|Python|-|
 |[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social)|Python|apache-2.0|
+|[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1354,6 +1375,7 @@ Chat酱独立部署版，docker方案自带代理
  * [gpt-json](https://github.com/piercefreeman/gpt-json) - Python中结构化和类型提示的GPT响应
  * [gptneox](https://github.com/dfalbel/gptneox) - 软件包的功能（一行，标题大小写）
  * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI与GPT4All一起运行。
+ * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - 开源短视频自动生成工具
 
 
 |Name|GitHub Stars|Language|License|
@@ -1531,5 +1553,6 @@ Chat酱独立部署版，docker方案自带代理
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
 |[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/dfalbel/gptneox?style=social)|R|-|
 |[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/kroll-software/babyagi4all?style=social)|Python|mit|
+|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor?style=social)|Python|-|
 
 

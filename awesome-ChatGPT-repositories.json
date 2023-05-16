@@ -1117,7 +1117,27 @@
                     "midjourney",
                     "prompt",
                     "prompt-engineering"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "有用的GPT提示",
+                    "ja": "有用なGPTプロンプト",
+                    "zh-hans": "有用的GPT提示",
+                    "zh-hant": "有用的 GPT 提示"
+                }
+            },
+            "https://github.com/brexhq/prompt-engineering": {
+                "repository_name": "prompt-engineering",
+                "user_name": "brexhq",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
+                "topics": []
             }
         },
         "Chatbots": {
@@ -2785,6 +2805,26 @@
                 "language": "JavaScript",
                 "license": null,
                 "description": "A simple slack app / bot starter that fetches answers to questions using Langchain, OpenAI and a Pincone vectorstore",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A simple slack app / bot starter that fetches answers to questions using Langchain, OpenAI and a Pincone vectorstore",
+                    "ja": "Langchain、OpenAI、およびPinconeベクトルストアを使用して質問に答えを取得するシンプルなSlackアプリ/ボットスターター。",
+                    "zh-hans": "一个简单的Slack应用/机器人启动器，使用Langchain、OpenAI和Pincone向量库获取问题的答案。",
+                    "zh-hant": "一個簡單的 Slack 應用程式/機器人啟動器，使用 Langchain、OpenAI 和 Pincone 向量存儲庫來提取問題的答案。"
+                }
+            },
+            "https://github.com/deep-diver/llm-as-chatbot": {
+                "repository_name": "LLM-As-Chatbot",
+                "user_name": "deep-diver",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "LLM as a Chatbot Service",
                 "topics": []
             }
         },
@@ -4200,6 +4240,33 @@
                     "zh-hans": "一个程序，为LLMs提供使用插件完成复杂任务的能力。",
                     "zh-hant": "一個提供LLMs使用插件完成複雜任務的程式。"
                 }
+            },
+            "https://github.com/cloudflare/chatgpt-plugin": {
+                "repository_name": "chatgpt-plugin",
+                "user_name": "cloudflare",
+                "language": "JavaScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Build ChatGPT plugins with Cloudflare's Developer Platform 🤖",
+                "topics": [
+                    "chatgpt",
+                    "cloudflare",
+                    "openai",
+                    "workers"
+                ]
+            },
+            "https://github.com/momaabna/qgptagent": {
+                "repository_name": "QGPTAgent",
+                "user_name": "momaabna",
+                "language": "Python",
+                "license": null,
+                "description": "The QGPT Agent is a powerful plugin for QGIS that utilizes the advanced natural language processing capabilities of the OpenAI GPT model to automate various processes in QGIS. With this plugin, users can interact with the QGIS software using natural language commands, significantly reducing the time and effort required to complete various tasks.",
+                "topics": []
             }
         },
         "CLIs": {
@@ -5352,7 +5419,13 @@
                     "chatgptdesktop",
                     "gpt4",
                     "openai"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "**A free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**",
+                    "ja": "無料のChatGPTクライアント、オンライン検索に対応。キー不要、ログイン不要。マルチノード自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスを搭載。",
+                    "zh-hans": "一个免费的ChatGPT客户端，现在支持在线搜索。无需密钥，无需登录。多节点自动速度测量切换，长文翻译无字数限制，AI图形。",
+                    "zh-hant": "一個免費的ChatGPT客戶端，現在支援線上搜尋。無需金鑰，無需登錄。多節點自動速度測量切換，無字數限制的長文翻譯，AI圖形。"
+                }
             }
         },
         "Reimplementations": {
@@ -5570,6 +5643,20 @@
                     "zh-hans": "基于nanoGPT的LLaMA语言模型实现。支持闪存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微调、预训练。采用Apache 2.0许可证。",
                     "zh-hant": "基於nanoGPT的LLaMA語言模型實現。支持閃存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微調、預訓練。Apache 2.0許可證。"
                 }
+            },
+            "https://github.com/lightning-ai/lit-parrot": {
+                "repository_name": "lit-parrot",
+                "user_name": "Lightning-AI",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+                "topics": []
             }
         },
         "Tutorials": {
@@ -7394,6 +7481,20 @@
                     "zh-hans": "EvalPlus用于严格评估LLM合成的代码。",
                     "zh-hant": "EvalPlus 用於嚴格評估 LLM 合成的程式碼"
                 }
+            },
+            "https://github.com/nyanp/chat2plot": {
+                "repository_name": "chat2plot",
+                "user_name": "nyanp",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "chat to visualization with LLM",
+                "topics": []
             }
         },
         "Langchain": {
@@ -9483,7 +9584,13 @@
                     "claude",
                     "claude-ai",
                     "openai"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.",
+                    "ja": "このプロジェクトは、AnthropicのClaudeモデルのAPIをOpenAI Chat API形式に変換します。",
+                    "zh-hans": "该项目将Anthropic的Claude模型的API转换为OpenAI Chat API格式。",
+                    "zh-hant": "此項目將Anthropic的Claude模型的API轉換為OpenAI Chat API格式。"
+                }
             }
         },
         "Others": {
@@ -12365,6 +12472,14 @@
                     "zh-hans": "BabyAGI与GPT4All一起运行。",
                     "zh-hant": "BabyAGI 與 GPT4All 一起運行"
                 }
+            },
+            "https://github.com/scutlihaoyu/open-chat-video-editor": {
+                "repository_name": "open-chat-video-editor",
+                "user_name": "SCUTlihaoyu",
+                "language": "Python",
+                "license": null,
+                "description": "Open source short video automatic generation tool",
+                "topics": []
             }
         }
     }
