@@ -16,22 +16,31 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用なGPTプロンプト
+ * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - OpenAIのGPT-4のような大規模言語モデルを扱うためのヒントやトリック。
 
 
 **Chatbots**
- * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - Langchain、OpenAI、およびPinconeベクトルストアを使用して質問に答えを取得するシンプルなSlackアプリ/ボットスターター。
+ * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - チャットボットサービスとしてのLLM
 
 
-**CLIs**
- * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - 無料のChatGPTクライアント、オンライン検索に対応。キー不要、ログイン不要。マルチノード自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスを搭載。
+**Browser-extensions**
+ * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Cloudflareの開発者プラットフォームを使用してChatGPTプラグインを構築する 🤖
+ * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPTエージェントは、OpenAI GPTモデルの高度な自然言語処理機能を活用して、QGISでさまざまなプロセスを自動化する強力なプラグインです。このプラグインを使用すると、ユーザーは自然言語コマンドを使用してQGISソフトウェアとやり取りでき、さまざまなタスクを完了するために必要な時間と労力を大幅に削減できます。
 
 
-**Openai**
- * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - このプロジェクトは、AnthropicのClaudeモデルのAPIをOpenAI Chat API形式に変換します。
+**Reimplementations**
+ * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - nanoGPTに基づくStableLM/Pythia/INCITE言語モデルの実装。フラッシュアテンション、LLaMA-アダプターの微調整、事前学習をサポート。Apache 2.0ライセンス。
 
 
-_Updated on May 15, 2023_ (A total of 670 repositories listed.)
+**NLP**
+ * [chat2plot](https://github.com/nyanp/chat2plot) - LLMを使用したチャットの可視化
+
+
+**Others**
+ * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - オープンソースの短い動画自動生成ツール
+
+
+_Updated on May 16, 2023_ (A total of 677 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -142,6 +151,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达の「ChatGPT Prompt Engineering for Developers」の中国語版コース、ビデオアドレス：https://www.bilibili.com/video/BV1Bo4y1A7FU
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：もう一つのChatGPTジェイルブレイク
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用なGPTプロンプト
+ * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - OpenAIのGPT-4のような大規模言語モデルを扱うためのヒントやトリック。
 
 
 |Name|GitHub Stars|Language|License|
@@ -193,6 +203,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
+|[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 
 
 ## Chatbots
@@ -287,6 +298,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChainは、Figmaデザインに基づいてHTML/CSSコードを生成するPythonスクリプトのセットです。OpenAIのGPT-3モデルを使用することで、FigmaChainは開発者がFigmaデザイン入力から素早くHTML/CSSコードを生成することを可能にします。また、インタラクティブなコード生成のためのStreamlitベースのチャットボットインターフェイスも含まれています。
  * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - これは、xtekky/gpt4freeのTypeScriptバージョンの複製プロジェクトです。
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - Langchain、OpenAI、およびPinconeベクトルストアを使用して質問に答えを取得するシンプルなSlackアプリ/ボットスターター。
+ * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - チャットボットサービスとしてのLLM
 
 
 |Name|GitHub Stars|Language|License|
@@ -378,6 +390,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[FigmaChain](https://github.com/cirediatpl/figmachain)|![GitHub Repo stars](https://img.shields.io/github/stars/cirediatpl/FigmaChain?style=social)|Python|-|
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
+|[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -457,6 +470,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - GitHub CopilotとChatGPTのXcodeソースエディタ拡張機能が見つかりません。
  * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ChatGPTのための汎用コマンドラインプラグイン
  * [smartgpt](https://github.com/cormanz/smartgpt) - LLMがプラグインを使用して複雑なタスクを完了する能力を提供するプログラム。
+ * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Cloudflareの開発者プラットフォームを使用してChatGPTプラグインを構築する 🤖
+ * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPTエージェントは、OpenAI GPTモデルの高度な自然言語処理機能を活用して、QGISでさまざまなプロセスを自動化する強力なプラグインです。このプラグインを使用すると、ユーザーは自然言語コマンドを使用してQGISソフトウェアとやり取りでき、さまざまなタスクを完了するために必要な時間と労力を大幅に削減できます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -536,6 +551,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[CopilotForXcode](https://github.com/intitni/copilotforxcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Swift|mit|
 |[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/etherlegend/gpt-terminal-plugin?style=social)|TypeScript|other|
 |[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cormanz/smartgpt?style=social)|Rust|mit|
+|[chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/chatgpt-plugin?style=social)|JavaScript|other|
+|[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 
 
 ## CLIs
@@ -679,6 +696,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism) - 主要なモデル並列化手法の機能的なローカル実装
  * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - BLOOMのC++実装
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - GPT-2、DistilGPT-2、BERT、およびDistilBERTのSwift Core ML 3実装による質問応答。他のトランスフォーマーも近日公開予定！
+ * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - nanoGPTに基づくStableLM/Pythia/INCITE言語モデルの実装。フラッシュアテンション、LLaMA-アダプターの微調整、事前学習をサポート。Apache 2.0ライセンス。
 
 
 |Name|GitHub Stars|Language|License|
@@ -696,6 +714,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|Jupyter Notebook|gpl-3.0|
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
+|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-parrot?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -815,6 +834,7 @@ GPT-4（トークン、アクティベーション）ペアを示すことによ
 GPT-4による説明に基づいてニューロンの活性化をシミュレートする
 シミュレートされた活性化が実際の活性化とどの程度一致するかに基づいて説明のスコアを付ける
  * [evalplus](https://github.com/evalplus/evalplus) - LLM合成コードの厳密な評価のためのEvalPlus
+ * [chat2plot](https://github.com/nyanp/chat2plot) - LLMを使用したチャットの可視化
 
 
 |Name|GitHub Stars|Language|License|
@@ -915,6 +935,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[SalesGPT](https://github.com/filip-michalsky/salesgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social)|Jupyter Notebook|mit|
 |[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/automated-interpretability?style=social)|Python|-|
 |[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social)|Python|apache-2.0|
+|[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1344,6 +1365,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [gpt-json](https://github.com/piercefreeman/gpt-json) - Pythonで構造化され、型ヒントが付いたGPTの応答
  * [gptneox](https://github.com/dfalbel/gptneox) - パッケージの概要（1行、タイトルケース）
  * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGIをGPT4Allと一緒に実行する。
+ * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - オープンソースの短い動画自動生成ツール
 
 
 |Name|GitHub Stars|Language|License|
@@ -1521,5 +1543,6 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
 |[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/dfalbel/gptneox?style=social)|R|-|
 |[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/kroll-software/babyagi4all?style=social)|Python|mit|
+|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor?style=social)|Python|-|
 
 

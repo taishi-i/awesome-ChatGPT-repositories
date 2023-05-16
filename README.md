@@ -19,22 +19,31 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 ## The latest additions 🎉
 
 **Prompts**
- * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - Useful GPT Prompts
+ * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 
 
 **Chatbots**
- * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - A simple slack app / bot starter that fetches answers to questions using Langchain, OpenAI and a Pincone vectorstore
+ * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM as a Chatbot Service
 
 
-**CLIs**
- * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **A free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
+**Browser-extensions**
+ * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
+ * [QGPTAgent](https://github.com/momaabna/qgptagent) - The QGPT Agent is a powerful plugin for QGIS that utilizes the advanced natural language processing capabilities of the OpenAI GPT model to automate various processes in QGIS. With this plugin, users can interact with the QGIS software using natural language commands, significantly reducing the time and effort required to complete various tasks.
 
 
-**Openai**
- * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
+**Reimplementations**
+ * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 
 
-_Updated on May 15, 2023_ (A total of 670 repositories listed.)
+**NLP**
+ * [chat2plot](https://github.com/nyanp/chat2plot) - chat to visualization with LLM
+
+
+**Others**
+ * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
+
+
+_Updated on May 16, 2023_ (A total of 677 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -142,6 +151,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版，视频地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT: Yet Another ChatGPT Jailbreak
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - Useful GPT Prompts
+ * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 
 
 |Name|GitHub Stars|Language|License|
@@ -193,6 +203,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
+|[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 
 
 ## Chatbots
@@ -284,6 +295,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.
  * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - This is a replication project for the typescript version of xtekky/gpt4free
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - A simple slack app / bot starter that fetches answers to questions using Langchain, OpenAI and a Pincone vectorstore
+ * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM as a Chatbot Service
 
 
 |Name|GitHub Stars|Language|License|
@@ -375,6 +387,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[FigmaChain](https://github.com/cirediatpl/figmachain)|![GitHub Repo stars](https://img.shields.io/github/stars/cirediatpl/FigmaChain?style=social)|Python|-|
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
+|[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -454,6 +467,8 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - The missing GitHub Copilot and ChatGPT Xcode Source Editor Extension
  * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - Universal command line plugin for ChatGPT
  * [smartgpt](https://github.com/cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
+ * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
+ * [QGPTAgent](https://github.com/momaabna/qgptagent) - The QGPT Agent is a powerful plugin for QGIS that utilizes the advanced natural language processing capabilities of the OpenAI GPT model to automate various processes in QGIS. With this plugin, users can interact with the QGIS software using natural language commands, significantly reducing the time and effort required to complete various tasks.
 
 
 |Name|GitHub Stars|Language|License|
@@ -533,6 +548,8 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[CopilotForXcode](https://github.com/intitni/copilotforxcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Swift|mit|
 |[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/etherlegend/gpt-terminal-plugin?style=social)|TypeScript|other|
 |[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cormanz/smartgpt?style=social)|Rust|mit|
+|[chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/chatgpt-plugin?style=social)|JavaScript|other|
+|[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 
 
 ## CLIs
@@ -676,6 +693,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism) - Functional local implementations of main model parallelism approaches
  * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - C++ implementation for BLOOM
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
+ * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 
 
 |Name|GitHub Stars|Language|License|
@@ -693,6 +711,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|Jupyter Notebook|gpl-3.0|
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
+|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-parrot?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -809,6 +828,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [SalesGPT](https://github.com/filip-michalsky/salesgpt) - Context-aware AI Sales Agent to automate sales outreach.
  * [automated-interpretability](https://github.com/openai/automated-interpretability) - LLMs Can Explain Neurons in Other LLMsExplain GPT-2 neuron’s behavior by showing GPT-4 (token, activation) pairsSimulate neuron's activations based on explanation w/ GPT-4Score explanation based on how well simulated activations match real activations
  * [evalplus](https://github.com/evalplus/evalplus) - EvalPlus for rigourous evaluation of LLM-synthesized code
+ * [chat2plot](https://github.com/nyanp/chat2plot) - chat to visualization with LLM
 
 
 |Name|GitHub Stars|Language|License|
@@ -909,6 +929,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[SalesGPT](https://github.com/filip-michalsky/salesgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social)|Jupyter Notebook|mit|
 |[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/automated-interpretability?style=social)|Python|-|
 |[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social)|Python|apache-2.0|
+|[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1336,6 +1357,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [gpt-json](https://github.com/piercefreeman/gpt-json) - Structured and typehinted GPT responses in Python
  * [gptneox](https://github.com/dfalbel/gptneox) - What the Package Does (One Line, Title Case)
  * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI to run with GPT4All
+ * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 
 
 |Name|GitHub Stars|Language|License|
@@ -1513,5 +1535,6 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
 |[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/dfalbel/gptneox?style=social)|R|-|
 |[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/kroll-software/babyagi4all?style=social)|Python|mit|
+|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor?style=social)|Python|-|
 
 

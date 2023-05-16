@@ -16,22 +16,31 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用的GPT提示
+ * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - 如何使用 OpenAI 的 GPT-4 等大型語言模型.
 
 
 **Chatbots**
- * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - 這是一款簡單的緩慢應用程式/機器人啟動器,
+ * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - 法律與法律學系作為聊天機服務
 
 
-**CLIs**
- * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **免費的chatgpt客戶端,現在支持網路搜尋.不需要鍵,不需要登入.多節點自動速度測量開關,沒有字數限制的長文字翻譯,AI圖形.免費的chatgpt客戶端,已支持联网搜索,無需密钥,無需登录,多節點自動測速切換,長文翻译不限數字,AI出图**
+**Browser-extensions**
+ * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - 建立ChatGPT插件使用Cloudflare的開發者平臺
+ * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPT Agent是QGIS的強大插件,利用OpenAI GPT模型的先進自然語言處理功能,自動化QGIS中的各種流程.使用這個插件,使用者可以使用自然語言命令與QGIS軟體互動,大大減少完成各種任務所需的時間和努力.
 
 
-**Openai**
- * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - 這項計畫將Anthropic的Claude模型的API轉換成OpenAI聊天API格式.
+**Reimplementations**
+ * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - 實現基于nanoGPT的 StableLM/Pythia/INCITE語言模型. 支持閃光注意,LLaMA-Adapter細節調節,預訓練. Apache 2.0授權.
 
 
-_Updated on May 15, 2023_ (A total of 670 repositories listed.)
+**NLP**
+ * [chat2plot](https://github.com/nyanp/chat2plot) - 透過LLM對視覺化進行聊天
+
+
+**Others**
+ * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - 公開源碼短片自動生成工具
+
+
+_Updated on May 16, 2023_ (A total of 677 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -141,6 +150,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吳恩達《ChatGPT Prompt Engineering for Developers》課程中文版，視頻地址：https://www.bilibili.com/video/BV1Bo4y1A7FU
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：又一個ChatGPT越獄
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用的 GPT 提示
+ * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - 使用大型語言模型（如OpenAI的GPT-4）的技巧和訣竅。
 
 
 |Name|GitHub Stars|Language|License|
@@ -192,6 +202,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
+|[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 
 
 ## Chatbots
@@ -284,6 +295,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [FigmaChain](https://github.com/cirediatpl/figmachain) - FigmaChain 是一組基於 Python 腳本的工具，可以根據 Figma 設計生成 HTML/CSS 代碼。利用 OpenAI 的 GPT-3 模型，FigmaChain 可以讓開發人員從 Figma 設計輸入中快速生成 HTML/CSS 代碼。它還包括一個基於 Streamlit 的聊天機器人界面，用於交互式代碼生成。
  * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - 這是 xtekky/gpt4free 的 TypeScript 版本複製專案。
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - 一個簡單的 Slack 應用程式/機器人啟動器，使用 Langchain、OpenAI 和 Pincone 向量存儲庫來提取問題的答案。
+ * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM作為聊天機器人服務
 
 
 |Name|GitHub Stars|Language|License|
@@ -375,6 +387,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[FigmaChain](https://github.com/cirediatpl/figmachain)|![GitHub Repo stars](https://img.shields.io/github/stars/cirediatpl/FigmaChain?style=social)|Python|-|
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
+|[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -454,6 +467,8 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [CopilotForXcode](https://github.com/intitni/copilotforxcode) - 缺失的GitHub Copilot和ChatGPT Xcode源代碼編輯器擴展。
  * [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ChatGPT 的通用命令行插件
  * [smartgpt](https://github.com/cormanz/smartgpt) - 一個提供LLMs使用插件完成複雜任務的程式。
+ * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - 使用Cloudflare的開發者平台建立ChatGPT插件 🤖
+ * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPT代理是一個強大的QGIS插件，利用OpenAI GPT模型的先進自然語言處理能力來自動化QGIS中的各種流程。使用此插件，用戶可以使用自然語言命令與QGIS軟件進行交互，大大減少完成各種任務所需的時間和精力。
 
 
 |Name|GitHub Stars|Language|License|
@@ -533,6 +548,8 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[CopilotForXcode](https://github.com/intitni/copilotforxcode)|![GitHub Repo stars](https://img.shields.io/github/stars/intitni/CopilotForXcode?style=social)|Swift|mit|
 |[gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/etherlegend/gpt-terminal-plugin?style=social)|TypeScript|other|
 |[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cormanz/smartgpt?style=social)|Rust|mit|
+|[chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/chatgpt-plugin?style=social)|JavaScript|other|
+|[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 
 
 ## CLIs
@@ -678,6 +695,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
  * [large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism) - 主要模型平行處理方法的功能本地實現
  * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - BLOOM 的 C++ 實現
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 實現了 GPT-2、DistilGPT-2、BERT 和 DistilBERT 的問答功能。其他 Transformer 即將推出！
+ * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - 基於nanoGPT的StableLM/Pythia/INCITE語言模型的實現。支持閃光注意力、LLaMA-Adapter微調和預訓練。Apache 2.0許可證。
 
 
 |Name|GitHub Stars|Language|License|
@@ -695,6 +713,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|Jupyter Notebook|gpl-3.0|
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
+|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-parrot?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -819,6 +838,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 基於與 GPT-4 的解釋模擬神經元的激活
 根據模擬激活與實際激活的匹配程度評分解釋
  * [evalplus](https://github.com/evalplus/evalplus) - EvalPlus 用於嚴格評估 LLM 合成的程式碼
+ * [chat2plot](https://github.com/nyanp/chat2plot) - 使用LLM進行聊天視覺化
 
 
 |Name|GitHub Stars|Language|License|
@@ -919,6 +939,7 @@ _Updated on May 15, 2023_ (A total of 670 repositories listed.)
 |[SalesGPT](https://github.com/filip-michalsky/salesgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social)|Jupyter Notebook|mit|
 |[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/automated-interpretability?style=social)|Python|-|
 |[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social)|Python|apache-2.0|
+|[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1357,6 +1378,7 @@ add chatgpt to your groupchats:
  * [gpt-json](https://github.com/piercefreeman/gpt-json) - 在Python中結構化和類型提示的GPT回應
  * [gptneox](https://github.com/dfalbel/gptneox) - 套件功能（一行，標題大小寫）
  * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI 與 GPT4All 一起運行
+ * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - 開源短視頻自動生成工具
 
 
 |Name|GitHub Stars|Language|License|
@@ -1534,5 +1556,6 @@ add chatgpt to your groupchats:
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
 |[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/dfalbel/gptneox?style=social)|R|-|
 |[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/kroll-software/babyagi4all?style=social)|Python|mit|
+|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor?style=social)|Python|-|
 
 
