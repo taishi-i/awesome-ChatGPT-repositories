@@ -1137,7 +1137,13 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
+                    "ja": "OpenAIのGPT-4のような大規模言語モデルを扱うためのヒントやトリック。",
+                    "zh-hans": "使用像OpenAI的GPT-4这样的大型语言模型的技巧和窍门。",
+                    "zh-hant": "使用大型語言模型（如OpenAI的GPT-4）的技巧和訣竅。"
+                }
             }
         },
         "Chatbots": {
@@ -2825,7 +2831,38 @@
                     "node_id": "MDc6TGljZW5zZTI="
                 },
                 "description": "LLM as a Chatbot Service",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "LLM as a Chatbot Service",
+                    "ja": "チャットボットサービスとしてのLLM",
+                    "zh-hans": "LLM作为聊天机器人服务",
+                    "zh-hant": "LLM作為聊天機器人服務"
+                }
+            },
+            "https://github.com/dissorial/pdf-chatbot": {
+                "repository_name": "pdf-chatbot",
+                "user_name": "dissorial",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Analysis of self-tracked data: interactive visualizations & predictive algorithms",
+                "topics": [
+                    "analytics",
+                    "data-analysis",
+                    "data-science",
+                    "data-visualization",
+                    "machine-learning",
+                    "matplotlib",
+                    "pandas",
+                    "python",
+                    "python3",
+                    "visualization"
+                ]
             }
         },
         "Browser-extensions": {
@@ -4258,7 +4295,13 @@
                     "cloudflare",
                     "openai",
                     "workers"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build ChatGPT plugins with Cloudflare's Developer Platform 🤖",
+                    "ja": "Cloudflareの開発者プラットフォームを使用してChatGPTプラグインを構築する 🤖",
+                    "zh-hans": "使用Cloudflare的开发者平台构建ChatGPT插件 🤖",
+                    "zh-hant": "使用Cloudflare的開發者平台建立ChatGPT插件 🤖"
+                }
             },
             "https://github.com/momaabna/qgptagent": {
                 "repository_name": "QGPTAgent",
@@ -4266,7 +4309,13 @@
                 "language": "Python",
                 "license": null,
                 "description": "The QGPT Agent is a powerful plugin for QGIS that utilizes the advanced natural language processing capabilities of the OpenAI GPT model to automate various processes in QGIS. With this plugin, users can interact with the QGIS software using natural language commands, significantly reducing the time and effort required to complete various tasks.",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The QGPT Agent is a powerful plugin for QGIS that utilizes the advanced natural language processing capabilities of the OpenAI GPT model to automate various processes in QGIS. With this plugin, users can interact with the QGIS software using natural language commands, significantly reducing the time and effort required to complete various tasks.",
+                    "ja": "QGPTエージェントは、OpenAI GPTモデルの高度な自然言語処理機能を活用して、QGISでさまざまなプロセスを自動化する強力なプラグインです。このプラグインを使用すると、ユーザーは自然言語コマンドを使用してQGISソフトウェアとやり取りでき、さまざまなタスクを完了するために必要な時間と労力を大幅に削減できます。",
+                    "zh-hans": "QGPT代理是QGIS的强大插件，利用OpenAI GPT模型的先进自然语言处理能力自动化QGIS中的各种过程。使用此插件，用户可以使用自然语言命令与QGIS软件交互，大大减少完成各种任务所需的时间和精力。",
+                    "zh-hant": "QGPT代理是一個強大的QGIS插件，利用OpenAI GPT模型的先進自然語言處理能力來自動化QGIS中的各種流程。使用此插件，用戶可以使用自然語言命令與QGIS軟件進行交互，大大減少完成各種任務所需的時間和精力。"
+                }
             }
         },
         "CLIs": {
@@ -5656,7 +5705,13 @@
                     "node_id": "MDc6TGljZW5zZTI="
                 },
                 "description": "Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+                    "ja": "nanoGPTに基づくStableLM/Pythia/INCITE言語モデルの実装。フラッシュアテンション、LLaMA-アダプターの微調整、事前学習をサポート。Apache 2.0ライセンス。",
+                    "zh-hans": "基于nanoGPT的StableLM/Pythia/INCITE语言模型的实现。支持闪存注意力、LLaMA-Adapter微调、预训练。采用Apache 2.0许可证。",
+                    "zh-hant": "基於nanoGPT的StableLM/Pythia/INCITE語言模型的實現。支持閃光注意力、LLaMA-Adapter微調和預訓練。Apache 2.0許可證。"
+                }
             }
         },
         "Tutorials": {
@@ -7494,6 +7549,50 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "chat to visualization with LLM",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "chat to visualization with LLM",
+                    "ja": "LLMを使用したチャットの可視化",
+                    "zh-hans": "使用LLM进行聊天可视化",
+                    "zh-hant": "使用LLM進行聊天視覺化"
+                }
+            },
+            "https://github.com/gmpetrov/databerry": {
+                "repository_name": "databerry",
+                "user_name": "gmpetrov",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "The no-code platform for building custom LLM Agents",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "chatgpt-plugins",
+                    "llm",
+                    "no-code",
+                    "openai",
+                    "qdrant",
+                    "semantic-search",
+                    "typescript"
+                ]
+            },
+            "https://github.com/microsoft/guidance": {
+                "repository_name": "guidance",
+                "user_name": "microsoft",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A guidance language for controlling large language models.",
                 "topics": []
             }
         },
@@ -12479,7 +12578,108 @@
                 "language": "Python",
                 "license": null,
                 "description": "Open source short video automatic generation tool",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Open source short video automatic generation tool",
+                    "ja": "オープンソースの短い動画自動生成ツール",
+                    "zh-hans": "开源短视频自动生成工具",
+                    "zh-hant": "開源短視頻自動生成工具"
+                }
+            },
+            "https://github.com/davila7/aixp": {
+                "repository_name": "AIXP",
+                "user_name": "davila7",
+                "language": null,
+                "license": null,
+                "description": "AI-Exchange Protocol (AIXP): A Communication Standard for Artificial Intelligence Agents",
                 "topics": []
+            },
+            "https://github.com/huggingface/chat-ui": {
+                "repository_name": "chat-ui",
+                "user_name": "huggingface",
+                "language": "Svelte",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Open source codebase powering the HuggingChat app",
+                "topics": [
+                    "chatgpt",
+                    "huggingface",
+                    "sveltekit"
+                ]
+            },
+            "https://github.com/pengzhile/pandora": {
+                "repository_name": "pandora",
+                "user_name": "pengzhile",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-2.0",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0",
+                    "url": "https://api.github.com/licenses/gpl-2.0",
+                    "node_id": "MDc6TGljZW5zZTg="
+                },
+                "description": "潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plus",
+                    "gpt-35-burbo",
+                    "gpt-35-turbo-0301",
+                    "gpt-4",
+                    "php",
+                    "python"
+                ]
+            },
+            "https://github.com/voine/chatwaifu_mobile": {
+                "repository_name": "ChatWaifu_Mobile",
+                "user_name": "Voine",
+                "language": "C++",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "移动版二次元 AI 老婆聊天器",
+                "topics": [
+                    "android",
+                    "chatgpt",
+                    "compose",
+                    "lipsync",
+                    "live2d",
+                    "sherpa",
+                    "vits"
+                ]
+            },
+            "https://github.com/sunner/chatall": {
+                "repository_name": "ChatALL",
+                "user_name": "sunner",
+                "language": "JavaScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": " Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers",
+                "topics": [
+                    "bingchat",
+                    "chatgpt",
+                    "desktop-app",
+                    "electron",
+                    "electron-app",
+                    "linux",
+                    "macos",
+                    "vuejs3",
+                    "vuetify3",
+                    "windows"
+                ]
             }
         }
     }

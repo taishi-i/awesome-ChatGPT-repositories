@@ -15,32 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - OpenAIのGPT-4のような大規模言語モデルを扱うためのヒントやトリック。
-
-
 **Chatbots**
- * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - チャットボットサービスとしてのLLM
-
-
-**Browser-extensions**
- * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Cloudflareの開発者プラットフォームを使用してChatGPTプラグインを構築する 🤖
- * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPTエージェントは、OpenAI GPTモデルの高度な自然言語処理機能を活用して、QGISでさまざまなプロセスを自動化する強力なプラグインです。このプラグインを使用すると、ユーザーは自然言語コマンドを使用してQGISソフトウェアとやり取りでき、さまざまなタスクを完了するために必要な時間と労力を大幅に削減できます。
-
-
-**Reimplementations**
- * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - nanoGPTに基づくStableLM/Pythia/INCITE言語モデルの実装。フラッシュアテンション、LLaMA-アダプターの微調整、事前学習をサポート。Apache 2.0ライセンス。
+ * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自己追跡データの分析：インタラクティブな可視化と予測アルゴリズム
 
 
 **NLP**
- * [chat2plot](https://github.com/nyanp/chat2plot) - LLMを使用したチャットの可視化
+ * [databerry](https://github.com/gmpetrov/databerry) - カスタムLLMエージェントを構築するためのノーコードプラットフォーム
+ * [guidance](https://github.com/microsoft/guidance) - 大規模言語モデルを制御するためのガイダンス言語。
 
 
 **Others**
- * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - オープンソースの短い動画自動生成ツール
+ * [AIXP](https://github.com/davila7/aixp) - AI-Exchange Protocol（AIXP）：人工知能エージェントのための通信規格
+ * [chat-ui](https://github.com/huggingface/chat-ui) - HuggingChatアプリを支えるオープンソースのコードベース
+ * [pandora](https://github.com/pengzhile/pandora) - パンドラは、あなたがスムーズに呼吸できるChatGPTです。
+ * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - モバイル版二次元AI妻とのチャットボット
+ * [ChatALL](https://github.com/sunner/chatall) - ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIEなどと同時にチャットし、最適な回答を発見してください。
 
 
-_Updated on May 16, 2023_ (A total of 677 repositories listed.)
+_Updated on May 18, 2023_ (A total of 685 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -299,6 +291,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - これは、xtekky/gpt4freeのTypeScriptバージョンの複製プロジェクトです。
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - Langchain、OpenAI、およびPinconeベクトルストアを使用して質問に答えを取得するシンプルなSlackアプリ/ボットスターター。
  * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - チャットボットサービスとしてのLLM
+ * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自己追跡データの分析：インタラクティブな可視化と予測アルゴリズム
 
 
 |Name|GitHub Stars|Language|License|
@@ -391,6 +384,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
+|[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -714,7 +708,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|Jupyter Notebook|gpl-3.0|
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
-|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-parrot?style=social)|Python|apache-2.0|
+|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -835,6 +829,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 シミュレートされた活性化が実際の活性化とどの程度一致するかに基づいて説明のスコアを付ける
  * [evalplus](https://github.com/evalplus/evalplus) - LLM合成コードの厳密な評価のためのEvalPlus
  * [chat2plot](https://github.com/nyanp/chat2plot) - LLMを使用したチャットの可視化
+ * [databerry](https://github.com/gmpetrov/databerry) - カスタムLLMエージェントを構築するためのノーコードプラットフォーム
+ * [guidance](https://github.com/microsoft/guidance) - 大規模言語モデルを制御するためのガイダンス言語。
 
 
 |Name|GitHub Stars|Language|License|
@@ -936,6 +932,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/automated-interpretability?style=social)|Python|-|
 |[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social)|Python|apache-2.0|
 |[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
+|[databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|TypeScript|mit|
+|[guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|Jupyter Notebook|mit|
 
 
 ## Langchain
@@ -1366,6 +1364,11 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [gptneox](https://github.com/dfalbel/gptneox) - パッケージの概要（1行、タイトルケース）
  * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGIをGPT4Allと一緒に実行する。
  * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - オープンソースの短い動画自動生成ツール
+ * [AIXP](https://github.com/davila7/aixp) - AI-Exchange Protocol（AIXP）：人工知能エージェントのための通信規格
+ * [chat-ui](https://github.com/huggingface/chat-ui) - HuggingChatアプリを支えるオープンソースのコードベース
+ * [pandora](https://github.com/pengzhile/pandora) - パンドラは、あなたがスムーズに呼吸できるChatGPTです。
+ * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - モバイル版二次元AI妻とのチャットボット
+ * [ChatALL](https://github.com/sunner/chatall) - ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIEなどと同時にチャットし、最適な回答を発見してください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1543,6 +1546,11 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
 |[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/dfalbel/gptneox?style=social)|R|-|
 |[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/kroll-software/babyagi4all?style=social)|Python|mit|
-|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor?style=social)|Python|-|
+|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/scutlihaoyu/open-chat-video-editor?style=social)|Python|-|
+|[AIXP](https://github.com/davila7/aixp)|![GitHub Repo stars](https://img.shields.io/github/stars/davila7/AIXP?style=social)|-|-|
+|[chat-ui](https://github.com/huggingface/chat-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|Svelte|apache-2.0|
+|[pandora](https://github.com/pengzhile/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/pengzhile/pandora?style=social)|Python|gpl-2.0|
+|[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/Voine/ChatWaifu_Mobile?style=social)|C++|mit|
+|[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 
 

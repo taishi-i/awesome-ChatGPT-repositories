@@ -16,32 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-
-
 **Chatbots**
- * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM as a Chatbot Service
-
-
-**Browser-extensions**
- * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
- * [QGPTAgent](https://github.com/momaabna/qgptagent) - The QGPT Agent is a powerful plugin for QGIS that utilizes the advanced natural language processing capabilities of the OpenAI GPT model to automate various processes in QGIS. With this plugin, users can interact with the QGIS software using natural language commands, significantly reducing the time and effort required to complete various tasks.
-
-
-**Reimplementations**
- * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+ * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - Analysis of self-tracked data: interactive visualizations & predictive algorithms
 
 
 **NLP**
- * [chat2plot](https://github.com/nyanp/chat2plot) - chat to visualization with LLM
+ * [databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
+ * [guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 
 
 **Others**
- * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
+ * [AIXP](https://github.com/davila7/aixp) - AI-Exchange Protocol (AIXP): A Communication Standard for Artificial Intelligence Agents
+ * [chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+ * [pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+ * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - Mobile version of anime AI wife chatbot.
+ * [ChatALL](https://github.com/sunner/chatall) -  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 
 
-_Updated on May 16, 2023_ (A total of 677 repositories listed.)
+_Updated on May 18, 2023_ (A total of 685 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -294,6 +286,7 @@ _Updated on May 16, 2023_ (A total of 677 repositories listed.)
  * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - This is a replication project for the typescript version of xtekky/gpt4free
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - A simple slack app / bot starter that fetches answers to questions using Langchain, OpenAI and a Pincone vectorstore
  * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM as a Chatbot Service
+ * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - Analysis of self-tracked data: interactive visualizations & predictive algorithms
 
 
 |Name|GitHub Stars|Language|License|
@@ -386,6 +379,7 @@ _Updated on May 16, 2023_ (A total of 677 repositories listed.)
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
+|[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -709,7 +703,7 @@ _Updated on May 16, 2023_ (A total of 677 repositories listed.)
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|Jupyter Notebook|gpl-3.0|
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
-|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-parrot?style=social)|Python|apache-2.0|
+|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -827,6 +821,8 @@ _Updated on May 16, 2023_ (A total of 677 repositories listed.)
  * [automated-interpretability](https://github.com/openai/automated-interpretability) - LLMs Can Explain Neurons in Other LLMsExplain GPT-2 neuron’s behavior by showing GPT-4 (token, activation) pairsSimulate neuron's activations based on explanation w/ GPT-4Score explanation based on how well simulated activations match real activations  
  * [evalplus](https://github.com/evalplus/evalplus) - EvalPlus for rigourous evaluation of LLM-synthesized code
  * [chat2plot](https://github.com/nyanp/chat2plot) - chat to visualization with LLM
+ * [databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
+ * [guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
 
 
 |Name|GitHub Stars|Language|License|
@@ -928,6 +924,8 @@ _Updated on May 16, 2023_ (A total of 677 repositories listed.)
 |[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/automated-interpretability?style=social)|Python|-|
 |[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social)|Python|apache-2.0|
 |[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
+|[databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|TypeScript|mit|
+|[guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|Jupyter Notebook|mit|
 
 
 ## Langchain
@@ -1356,6 +1354,11 @@ _Updated on May 16, 2023_ (A total of 677 repositories listed.)
  * [gptneox](https://github.com/dfalbel/gptneox) - What the Package Does (One Line, Title Case)
  * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI to run with GPT4All
  * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
+ * [AIXP](https://github.com/davila7/aixp) - AI-Exchange Protocol (AIXP): A Communication Standard for Artificial Intelligence Agents
+ * [chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
+ * [pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+ * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - Mobile version of anime AI wife chatbot.
+ * [ChatALL](https://github.com/sunner/chatall) -  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 
 
 |Name|GitHub Stars|Language|License|
@@ -1533,6 +1536,11 @@ _Updated on May 16, 2023_ (A total of 677 repositories listed.)
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
 |[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/dfalbel/gptneox?style=social)|R|-|
 |[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/kroll-software/babyagi4all?style=social)|Python|mit|
-|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor?style=social)|Python|-|
+|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/scutlihaoyu/open-chat-video-editor?style=social)|Python|-|
+|[AIXP](https://github.com/davila7/aixp)|![GitHub Repo stars](https://img.shields.io/github/stars/davila7/AIXP?style=social)|-|-|
+|[chat-ui](https://github.com/huggingface/chat-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|Svelte|apache-2.0|
+|[pandora](https://github.com/pengzhile/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/pengzhile/pandora?style=social)|Python|gpl-2.0|
+|[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/Voine/ChatWaifu_Mobile?style=social)|C++|mit|
+|[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 
 

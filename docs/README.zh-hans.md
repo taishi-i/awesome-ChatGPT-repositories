@@ -15,32 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - 如何使用 OpenAI 的 GPT-4 等大型语言模型.
-
-
 **Chatbots**
- * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - 作为聊天机器人服务的LLM
-
-
-**Browser-extensions**
- * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - 建立ChatGPT插件使用Cloudflare的开发者平台
- * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPT Agent是QGIS的强大插件,利用OpenAI GPT模型的先进自然语言处理功能,自动化QGIS中的各种过程.使用此插件,用户可以使用自然语言命令与QGIS软件交互,显著减少完成各种任务所需的时间和精力.
-
-
-**Reimplementations**
- * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - 基于纳米GPT的 StableLM/Pythia/INCITE 语言模型实现. 支持闪光注意,LLaMA-Adapter精细调整,预训练. Apache 2.0 许可.
+ * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自行跟踪数据的分析:互动可视化和预测算法
 
 
 **NLP**
- * [chat2plot](https://github.com/nyanp/chat2plot) - 通过LLM进行视觉化
+ * [databerry](https://github.com/gmpetrov/databerry) - 建立自定义LLM代理的无码平台
+ * [guidance](https://github.com/microsoft/guidance) - 一种用于控制大型语言模型的指导语言.
 
 
 **Others**
- * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - 开源短视频自动生成工具
+ * [AIXP](https://github.com/davila7/aixp) - 人工智能交换协议 (AIXP):人工智能代理的通信标准
+ * [chat-ui](https://github.com/huggingface/chat-ui) - 开源代码库支持HuggingChat应用程序
+ * [pandora](https://github.com/pengzhile/pandora) - 潘多拉,一个让你呼吸顺的ChatGPT.
+ * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - 移动版二维AI 老婆聊天器
+ * [ChatALL](https://github.com/sunner/chatall) - 同时聊天与 ChatGPT, Bing 聊天, bard, 阿尔帕卡, 文古纳, 克劳德, ChatGLM, MOSS, iFlytek Spark, ERNIE 和更多, 发现最好的答案
 
 
-_Updated on May 16, 2023_ (A total of 677 repositories listed.)
+_Updated on May 18, 2023_ (A total of 685 repositories listed.)
 
 🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
 
@@ -294,6 +286,7 @@ ChatGPT资料汇总学习，持续更新......
  * [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - 这是xtekky/gpt4free TypeScript版本的复制项目。
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - 一个简单的Slack应用/机器人启动器，使用Langchain、OpenAI和Pincone向量库获取问题的答案。
  * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM作为聊天机器人服务
+ * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自我追踪数据分析：交互式可视化和预测算法
 
 
 |Name|GitHub Stars|Language|License|
@@ -386,6 +379,7 @@ ChatGPT资料汇总学习，持续更新......
 |[gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)|![GitHub Repo stars](https://img.shields.io/github/stars/xiangsx/gpt4free-ts?style=social)|TypeScript|gpl-3.0|
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
+|[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -713,7 +707,7 @@ ChatGPT资料汇总学习，持续更新......
 |[large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism)|![GitHub Repo stars](https://img.shields.io/github/stars/hundredblocks/large-model-parallelism?style=social)|Jupyter Notebook|gpl-3.0|
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
-|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-parrot?style=social)|Python|apache-2.0|
+|[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -838,6 +832,8 @@ ChatGPT资料汇总学习，持续更新......
 根据模拟激活与真实激活的匹配程度评分解释
  * [evalplus](https://github.com/evalplus/evalplus) - EvalPlus用于严格评估LLM合成的代码。
  * [chat2plot](https://github.com/nyanp/chat2plot) - 使用LLM进行聊天可视化
+ * [databerry](https://github.com/gmpetrov/databerry) - 构建定制LLM代理的无代码平台
+ * [guidance](https://github.com/microsoft/guidance) - 控制大型语言模型的指导语言。
 
 
 |Name|GitHub Stars|Language|License|
@@ -939,6 +935,8 @@ ChatGPT资料汇总学习，持续更新......
 |[automated-interpretability](https://github.com/openai/automated-interpretability)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/automated-interpretability?style=social)|Python|-|
 |[evalplus](https://github.com/evalplus/evalplus)|![GitHub Repo stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social)|Python|apache-2.0|
 |[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
+|[databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|TypeScript|mit|
+|[guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|Jupyter Notebook|mit|
 
 
 ## Langchain
@@ -1376,6 +1374,11 @@ Chat酱独立部署版，docker方案自带代理
  * [gptneox](https://github.com/dfalbel/gptneox) - 软件包的功能（一行，标题大小写）
  * [babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI与GPT4All一起运行。
  * [open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor) - 开源短视频自动生成工具
+ * [AIXP](https://github.com/davila7/aixp) - AI-Exchange协议（AIXP）：人工智能代理通信标准
+ * [chat-ui](https://github.com/huggingface/chat-ui) - 开源代码库支持HuggingChat应用程序
+ * [pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个帮助你呼吸顺畅的ChatGPT。
+ * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - 移动版二次元 AI 老婆聊天器
+ * [ChatALL](https://github.com/sunner/chatall) - 同时与ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIE等进行聊天，发现最佳答案。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1553,6 +1556,11 @@ Chat酱独立部署版，docker方案自带代理
 |[gpt-json](https://github.com/piercefreeman/gpt-json)|![GitHub Repo stars](https://img.shields.io/github/stars/piercefreeman/gpt-json?style=social)|Python|mit|
 |[gptneox](https://github.com/dfalbel/gptneox)|![GitHub Repo stars](https://img.shields.io/github/stars/dfalbel/gptneox?style=social)|R|-|
 |[babyagi4all](https://github.com/kroll-software/babyagi4all)|![GitHub Repo stars](https://img.shields.io/github/stars/kroll-software/babyagi4all?style=social)|Python|mit|
-|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/SCUTlihaoyu/open-chat-video-editor?style=social)|Python|-|
+|[open-chat-video-editor](https://github.com/scutlihaoyu/open-chat-video-editor)|![GitHub Repo stars](https://img.shields.io/github/stars/scutlihaoyu/open-chat-video-editor?style=social)|Python|-|
+|[AIXP](https://github.com/davila7/aixp)|![GitHub Repo stars](https://img.shields.io/github/stars/davila7/AIXP?style=social)|-|-|
+|[chat-ui](https://github.com/huggingface/chat-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|Svelte|apache-2.0|
+|[pandora](https://github.com/pengzhile/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/pengzhile/pandora?style=social)|Python|gpl-2.0|
+|[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/Voine/ChatWaifu_Mobile?style=social)|C++|mit|
+|[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 
 
