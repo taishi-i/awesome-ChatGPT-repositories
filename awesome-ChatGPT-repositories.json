@@ -12680,6 +12680,52 @@
                     "vuetify3",
                     "windows"
                 ]
+            },
+            "https://github.com/anse-app/chatgpt-demo": {
+                "repository_name": "chatgpt-demo",
+                "user_name": "ddiu8081",
+                "language": "Typescript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTg="
+                },
+                "description": "Minimal web UI for ChatGPT..",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plus",
+                    "gpt-35-burbo",
+                    "gpt-35-turbo-0301",
+                    "astro",
+                    "solidjs"
+                ]
+            },
+             "https://github.com/anse-app/anse": {
+                "repository_name": "anse",
+                "user_name": "ddiu8081",
+                "language": "Typescript",
+                 "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTg="
+                },
+                "description": "Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plus",
+                    "gpt-35-burbo",
+                    "gpt-35-turbo-0301",
+                    "gpt-4",
+                    "openai",
+                    "DALL-E",
+                    "Stable Diffusion",
+                    "astro",
+                    "solidjs"
+                ]
             }
         }
     }
