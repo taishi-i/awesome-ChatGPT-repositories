@@ -15,26 +15,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自己追跡データの分析：インタラクティブな可視化と予測アルゴリズム
+**Prompts**
+ * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文プロンプト精選🔥、ChatGPT使用ガイド、ChatGPTのプレイ性と利用性を向上させよう！🚀
 
 
 **NLP**
- * [databerry](https://github.com/gmpetrov/databerry) - カスタムLLMエージェントを構築するためのノーコードプラットフォーム
- * [guidance](https://github.com/microsoft/guidance) - 大規模言語モデルを制御するためのガイダンス言語。
+ * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 与えられた質問に対して、OpenAIの言語モデルを活用して最適な回答を生成、分析、選択するPythonプログラム。
+ * [developer](https://github.com/smol-ai/developer) - 100kコンテキストウィンドウが登場したことで、すべての開発者が自分自身のスモールデベロッパーを持つことが現実的になりました。
 
 
-**Others**
- * [AIXP](https://github.com/davila7/aixp) - AI-Exchange Protocol（AIXP）：人工知能エージェントのための通信規格
- * [chat-ui](https://github.com/huggingface/chat-ui) - HuggingChatアプリを支えるオープンソースのコードベース
- * [pandora](https://github.com/pengzhile/pandora) - パンドラは、あなたがスムーズに呼吸できるChatGPTです。
- * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - モバイル版二次元AI妻とのチャットボット
- * [ChatALL](https://github.com/sunner/chatall) - ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIEなどと同時にチャットし、最適な回答を発見してください。
+**Openai**
+ * [anse](https://github.com/anse-app/anse) - ChatGPT、DALL-E、Stable Diffusionのためのスーパーチャージド体験。
+ * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPTの最小Web UI。
 
 
-_Updated on May 18, 2023_ (A total of 685 repositories listed.)
+_Updated on May 19, 2023_ (A total of 690 repositories listed.)
 
-🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
+🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -144,6 +141,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：もう一つのChatGPTジェイルブレイク
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用なGPTプロンプト
  * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - OpenAIのGPT-4のような大規模言語モデルを扱うためのヒントやトリック。
+ * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文プロンプト精選🔥、ChatGPT使用ガイド、ChatGPTのプレイ性と利用性を向上させよう！🚀
 
 
 |Name|GitHub Stars|Language|License|
@@ -196,6 +194,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
 |[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
+|[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 
 
 ## Chatbots
@@ -831,6 +830,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [chat2plot](https://github.com/nyanp/chat2plot) - LLMを使用したチャットの可視化
  * [databerry](https://github.com/gmpetrov/databerry) - カスタムLLMエージェントを構築するためのノーコードプラットフォーム
  * [guidance](https://github.com/microsoft/guidance) - 大規模言語モデルを制御するためのガイダンス言語。
+ * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 与えられた質問に対して、OpenAIの言語モデルを活用して最適な回答を生成、分析、選択するPythonプログラム。
+ * [developer](https://github.com/smol-ai/developer) - 100kコンテキストウィンドウが登場したことで、すべての開発者が自分自身のスモールデベロッパーを持つことが現実的になりました。
 
 
 |Name|GitHub Stars|Language|License|
@@ -934,6 +935,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
 |[databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|TypeScript|mit|
 |[guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|Jupyter Notebook|mit|
+|[SmartPilot](https://github.com/jaredkirby/smartpilot)|![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)|Python|-|
+|[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1110,6 +1113,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPTネイティブデスクトップアプリケーション（Windows、Mac、Android、iOS、およびLinux）
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT畅聊プラグイン。すべてのエラーを解決し、私たちのAI体験を非常にスムーズで滑らかで効率的にします。さらに、監査のキャンセル、会話のクローン、ホームページの浄化など、さらに多くの強化機能を継続的に更新します。
  * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - このプロジェクトは、AnthropicのClaudeモデルのAPIをOpenAI Chat API形式に変換します。
+ * [anse](https://github.com/anse-app/anse) - ChatGPT、DALL-E、Stable Diffusionのためのスーパーチャージド体験。
+ * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPTの最小Web UI。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1184,6 +1189,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/ChatGPT?style=social)|Pascal|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jtsang4/claude-to-chatgpt?style=social)|Python|mit|
+|[anse](https://github.com/anse-app/anse)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/anse?style=social)|TypeScript|mit|
+|[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1550,7 +1557,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[AIXP](https://github.com/davila7/aixp)|![GitHub Repo stars](https://img.shields.io/github/stars/davila7/AIXP?style=social)|-|-|
 |[chat-ui](https://github.com/huggingface/chat-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|Svelte|apache-2.0|
 |[pandora](https://github.com/pengzhile/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/pengzhile/pandora?style=social)|Python|gpl-2.0|
-|[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/Voine/ChatWaifu_Mobile?style=social)|C++|mit|
+|[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/voine/ChatWaifu_Mobile?style=social)|C++|mit|
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 
 

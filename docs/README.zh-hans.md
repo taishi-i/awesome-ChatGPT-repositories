@@ -15,26 +15,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自行跟踪数据的分析:互动可视化和预测算法
+**Prompts**
+ * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文提示 精选🔥,ChatGPT使用指南,提升ChatGPT可玩性和可用性!
 
 
 **NLP**
- * [databerry](https://github.com/gmpetrov/databerry) - 建立自定义LLM代理的无码平台
- * [guidance](https://github.com/microsoft/guidance) - 一种用于控制大型语言模型的指导语言.
+ * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 一个利用OpenAI语言模型生成,分析和选择给定问题的最佳答案的Python程序.
+ * [developer](https://github.com/smol-ai/developer) - 现在每个开发人员都可以拥有自己的smol开发者.
 
 
-**Others**
- * [AIXP](https://github.com/davila7/aixp) - 人工智能交换协议 (AIXP):人工智能代理的通信标准
- * [chat-ui](https://github.com/huggingface/chat-ui) - 开源代码库支持HuggingChat应用程序
- * [pandora](https://github.com/pengzhile/pandora) - 潘多拉,一个让你呼吸顺的ChatGPT.
- * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - 移动版二维AI 老婆聊天器
- * [ChatALL](https://github.com/sunner/chatall) - 同时聊天与 ChatGPT, Bing 聊天, bard, 阿尔帕卡, 文古纳, 克劳德, ChatGLM, MOSS, iFlytek Spark, ERNIE 和更多, 发现最好的答案
+**Openai**
+ * [anse](https://github.com/anse-app/anse) - 对于ChatGPT,DALL-E和稳定扩散,拥有丰富的经验.
+ * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - 对于ChatGPT,最低的Web用户界面. 
 
 
-_Updated on May 18, 2023_ (A total of 685 repositories listed.)
+_Updated on May 19, 2023_ (A total of 690 repositories listed.)
 
-🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
+🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -142,6 +139,7 @@ ChatGPT资料汇总学习，持续更新......
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：又一个ChatGPT越狱
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用的GPT提示
  * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - 使用像OpenAI的GPT-4这样的大型语言模型的技巧和窍门。
+ * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文提示精选🔥，ChatGPT使用指南，提升ChatGPT可玩性和可用性！🚀
 
 
 |Name|GitHub Stars|Language|License|
@@ -194,6 +192,7 @@ ChatGPT资料汇总学习，持续更新......
 |[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
 |[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
+|[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 
 
 ## Chatbots
@@ -834,6 +833,8 @@ ChatGPT资料汇总学习，持续更新......
  * [chat2plot](https://github.com/nyanp/chat2plot) - 使用LLM进行聊天可视化
  * [databerry](https://github.com/gmpetrov/databerry) - 构建定制LLM代理的无代码平台
  * [guidance](https://github.com/microsoft/guidance) - 控制大型语言模型的指导语言。
+ * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 一个使用OpenAI语言模型生成、分析和选择给定问题最佳答案的Python程序。
+ * [developer](https://github.com/smol-ai/developer) - 随着100k上下文窗口的到来，现在每个开发者都有自己的小型开发者是可行的。
 
 
 |Name|GitHub Stars|Language|License|
@@ -937,6 +938,8 @@ ChatGPT资料汇总学习，持续更新......
 |[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
 |[databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|TypeScript|mit|
 |[guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|Jupyter Notebook|mit|
+|[SmartPilot](https://github.com/jaredkirby/smartpilot)|![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)|Python|-|
+|[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1119,6 +1122,8 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPT 本地桌面应用程序（Windows、Mac、Android、iOS 和 Linux）
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
  * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - 该项目将Anthropic的Claude模型的API转换为OpenAI Chat API格式。
+ * [anse](https://github.com/anse-app/anse) - ChatGPT、DALL-E和Stable Diffusion的超级体验。
+ * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPT的最小Web用户界面。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1193,6 +1198,8 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/ChatGPT?style=social)|Pascal|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jtsang4/claude-to-chatgpt?style=social)|Python|mit|
+|[anse](https://github.com/anse-app/anse)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/anse?style=social)|TypeScript|mit|
+|[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1560,7 +1567,7 @@ Chat酱独立部署版，docker方案自带代理
 |[AIXP](https://github.com/davila7/aixp)|![GitHub Repo stars](https://img.shields.io/github/stars/davila7/AIXP?style=social)|-|-|
 |[chat-ui](https://github.com/huggingface/chat-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|Svelte|apache-2.0|
 |[pandora](https://github.com/pengzhile/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/pengzhile/pandora?style=social)|Python|gpl-2.0|
-|[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/Voine/ChatWaifu_Mobile?style=social)|C++|mit|
+|[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/voine/ChatWaifu_Mobile?style=social)|C++|mit|
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 
 
