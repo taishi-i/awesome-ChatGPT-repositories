@@ -15,26 +15,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 分析自行追蹤的數據:互動可視化與預測算法
+**Prompts**
+ * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文提示 精選🔥,ChatGPT使用指南,提升ChatGPT可玩性和可用性!
 
 
 **NLP**
- * [databerry](https://github.com/gmpetrov/databerry) - 沒有代碼的平台,
- * [guidance](https://github.com/microsoft/guidance) - 控制大型語言模型的指引語言.
+ * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 該程式是利用OpenAI語言模型生成,分析和選擇給定問題最好的答案的Python程式.
+ * [developer](https://github.com/smol-ai/developer) - 隨著100K個上網窗口的進度,
 
 
-**Others**
- * [AIXP](https://github.com/davila7/aixp) - 人工智能交換協議 (AIXP):為人工智能代理人提供通訊標準
- * [chat-ui](https://github.com/huggingface/chat-ui) - 開放源代碼庫支持HuggingChat應用程式
- * [pandora](https://github.com/pengzhile/pandora) - 潘多拉,一個讓你呼吸顺的ChatGPT.
- * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - 移动版二次元人工智能 老婆聊天器
- * [ChatALL](https://github.com/sunner/chatall) - 透過網路聊天, 您可以在網路上找到最好的答案.
+**Openai**
+ * [anse](https://github.com/anse-app/anse) - 沒有任何關於我們的消息.
+ * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - 網路使用者對 ChatGPT 的使用者界面最低.
 
 
-_Updated on May 18, 2023_ (A total of 685 repositories listed.)
+_Updated on May 19, 2023_ (A total of 690 repositories listed.)
 
-🏅 [HemulGM](https://github.com/HemulGM) and [ambr0sial](https://github.com/ambr0sial) provided some repository information. Thank you!
+🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -143,6 +140,7 @@ _Updated on May 18, 2023_ (A total of 685 repositories listed.)
  * [unleashedgpt](https://github.com/ambr0sial/unleashedgpt) - UnleashedGPT：又一個ChatGPT越獄
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用的 GPT 提示
  * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - 使用大型語言模型（如OpenAI的GPT-4）的技巧和訣竅。
+ * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文提示精選🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
 
 
 |Name|GitHub Stars|Language|License|
@@ -195,6 +193,7 @@ _Updated on May 18, 2023_ (A total of 685 repositories listed.)
 |[unleashedgpt](https://github.com/ambr0sial/unleashedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ambr0sial/unleashedgpt?style=social)|-|-|
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
 |[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
+|[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 
 
 ## Chatbots
@@ -835,6 +834,8 @@ _Updated on May 18, 2023_ (A total of 685 repositories listed.)
  * [chat2plot](https://github.com/nyanp/chat2plot) - 使用LLM進行聊天視覺化
  * [databerry](https://github.com/gmpetrov/databerry) - 建立自訂 LLM 代理的無代碼平台
  * [guidance](https://github.com/microsoft/guidance) - 控制大型語言模型的指導語言。
+ * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 一個使用OpenAI語言模型來生成、分析和選擇最佳答案的Python程序。
+ * [developer](https://github.com/smol-ai/developer) - 隨著100k上下文視窗的到來，現在每個開發者都有機會擁有自己的小型開發者。
 
 
 |Name|GitHub Stars|Language|License|
@@ -938,6 +939,8 @@ _Updated on May 18, 2023_ (A total of 685 repositories listed.)
 |[chat2plot](https://github.com/nyanp/chat2plot)|![GitHub Repo stars](https://img.shields.io/github/stars/nyanp/chat2plot?style=social)|Python|mit|
 |[databerry](https://github.com/gmpetrov/databerry)|![GitHub Repo stars](https://img.shields.io/github/stars/gmpetrov/databerry?style=social)|TypeScript|mit|
 |[guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|Jupyter Notebook|mit|
+|[SmartPilot](https://github.com/jaredkirby/smartpilot)|![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)|Python|-|
+|[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1115,6 +1118,8 @@ _Updated on May 18, 2023_ (A total of 685 repositories listed.)
  * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPT 原生桌面應用程式（Windows、Mac、Android、iOS 和 Linux）
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT暢聊插件。解決所有報錯，讓我們的AI體驗無比順暢、絲滑、高效。並且持續更新更多的增強功能，包括取消審計、克隆對話、淨化首頁等等。
  * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - 此項目將Anthropic的Claude模型的API轉換為OpenAI Chat API格式。
+ * [anse](https://github.com/anse-app/anse) - ChatGPT、DALL-E和Stable Diffusion的超級體驗。
+ * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPT的極簡網頁界面。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1189,6 +1194,8 @@ _Updated on May 18, 2023_ (A total of 685 repositories listed.)
 |[ChatGPT](https://github.com/hemulgm/chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/ChatGPT?style=social)|Pascal|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jtsang4/claude-to-chatgpt?style=social)|Python|mit|
+|[anse](https://github.com/anse-app/anse)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/anse?style=social)|TypeScript|mit|
+|[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1563,7 +1570,7 @@ add chatgpt to your groupchats:
 |[AIXP](https://github.com/davila7/aixp)|![GitHub Repo stars](https://img.shields.io/github/stars/davila7/AIXP?style=social)|-|-|
 |[chat-ui](https://github.com/huggingface/chat-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/chat-ui?style=social)|Svelte|apache-2.0|
 |[pandora](https://github.com/pengzhile/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/pengzhile/pandora?style=social)|Python|gpl-2.0|
-|[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/Voine/ChatWaifu_Mobile?style=social)|C++|mit|
+|[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/voine/ChatWaifu_Mobile?style=social)|C++|mit|
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 
 
