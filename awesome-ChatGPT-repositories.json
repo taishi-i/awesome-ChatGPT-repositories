@@ -1167,7 +1167,13 @@
                     "openai",
                     "prompt-engineering",
                     "prompts"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥Selected Chinese prompts🔥, ChatGPT User Guide, Enhance ChatGPT's Playability and Usability!🚀",
+                    "ja": "🔥中文プロンプト精選🔥、ChatGPT使用ガイド、ChatGPTのプレイ性と利用性を向上させよう！🚀",
+                    "zh-hans": "🔥中文提示精选🔥，ChatGPT使用指南，提升ChatGPT可玩性和可用性！🚀",
+                    "zh-hant": "🔥中文提示精選🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀"
+                }
             }
         },
         "Chatbots": {
@@ -7643,7 +7649,13 @@
                 "language": "Python",
                 "license": null,
                 "description": "A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question.",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question.",
+                    "ja": "与えられた質問に対して、OpenAIの言語モデルを活用して最適な回答を生成、分析、選択するPythonプログラム。",
+                    "zh-hans": "一个使用OpenAI语言模型生成、分析和选择给定问题最佳答案的Python程序。",
+                    "zh-hant": "一個使用OpenAI語言模型來生成、分析和選擇最佳答案的Python程序。"
+                }
             },
             "https://github.com/smol-ai/developer": {
                 "repository_name": "developer",
@@ -7657,6 +7669,34 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "with 100k context windows on the way, it's now feasible for every dev to have their own smol developer",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "with 100k context windows on the way, it's now feasible for every dev to have their own smol developer",
+                    "ja": "100kコンテキストウィンドウが登場したことで、すべての開発者が自分自身のスモールデベロッパーを持つことが現実的になりました。",
+                    "zh-hans": "随着100k上下文窗口的到来，现在每个开发者都有自己的小型开发者是可行的。",
+                    "zh-hant": "隨著100k上下文視窗的到來，現在每個開發者都有機會擁有自己的小型開發者。"
+                }
+            },
+            "https://github.com/kagisearch/pyllms": {
+                "repository_name": "pyllms",
+                "user_name": "kagisearch",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.",
+                "topics": []
+            },
+            "https://github.com/ray-project/llm-numbers": {
+                "repository_name": "llm-numbers",
+                "user_name": "ray-project",
+                "language": null,
+                "license": null,
+                "description": "Numbers every LLM developer should know",
                 "topics": []
             }
         },
@@ -8334,6 +8374,27 @@
                     "zh-hans": "在您的雪花数据库上聊天 - 文本转SQL",
                     "zh-hant": "在您的雪花數據庫上聊天 - 文本轉SQL"
                 }
+            },
+            "https://github.com/csunny/db-gpt": {
+                "repository_name": "DB-GPT",
+                "user_name": "csunny",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security",
+                "topics": [
+                    "database",
+                    "gpt-4",
+                    "langchain",
+                    "private",
+                    "security",
+                    "vicuna"
+                ]
             }
         },
         "Unity": {
@@ -9775,7 +9836,13 @@
                     "gpt-4",
                     "openai",
                     "stable-diffusion"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.",
+                    "ja": "ChatGPT、DALL-E、Stable Diffusionのためのスーパーチャージド体験。",
+                    "zh-hans": "ChatGPT、DALL-E和Stable Diffusion的超级体验。",
+                    "zh-hant": "ChatGPT、DALL-E和Stable Diffusion的超級體驗。"
+                }
             },
             "https://github.com/anse-app/chatgpt-demo": {
                 "repository_name": "chatgpt-demo",
@@ -9798,6 +9865,47 @@
                     "gpt-35-turbo",
                     "openai",
                     "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Minimal web UI for ChatGPT. ",
+                    "ja": "ChatGPTの最小Web UI。",
+                    "zh-hans": "ChatGPT的最小Web用户界面。",
+                    "zh-hant": "ChatGPT的極簡網頁界面。"
+                }
+            },
+            "https://github.com/casdoor/casdoor": {
+                "repository_name": "casdoor",
+                "user_name": "casdoor",
+                "language": "Go",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT",
+                "topics": [
+                    "acl",
+                    "ai",
+                    "authentication",
+                    "authorization",
+                    "casbin",
+                    "casdoor",
+                    "chatgpt",
+                    "docker",
+                    "go",
+                    "gpt",
+                    "iam",
+                    "oauth",
+                    "oauth2",
+                    "oidc",
+                    "openai",
+                    "permission",
+                    "rbac",
+                    "react",
+                    "saml",
+                    "sso"
                 ]
             }
         },
@@ -12877,6 +12985,44 @@
                     "zh-hans": "ChatGPT、DALL-E和Stable Diffusion的超级体验。",
                     "zh-hant": "ChatGPT、DALL-E和Stable Diffusion的超級體驗。"
                 }
+            },
+            "https://github.com/certik/fastgpt": {
+                "repository_name": "fastGPT",
+                "user_name": "certik",
+                "language": "Fortran",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Fast GPT-2 inference written in Fortran",
+                "topics": [
+                    "fortran",
+                    "gpt-2",
+                    "high-performance"
+                ]
+            },
+            "https://github.com/smol-ai/menubar": {
+                "repository_name": "menubar",
+                "user_name": "smol-ai",
+                "language": "HTML",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.",
+                "topics": [
+                    "bard",
+                    "chatgpt",
+                    "electron",
+                    "google",
+                    "menubar"
+                ]
             }
         }
     }

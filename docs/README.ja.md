@@ -15,21 +15,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文プロンプト精選🔥、ChatGPT使用ガイド、ChatGPTのプレイ性と利用性を向上させよう！🚀
-
-
 **NLP**
- * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 与えられた質問に対して、OpenAIの言語モデルを活用して最適な回答を生成、分析、選択するPythonプログラム。
- * [developer](https://github.com/smol-ai/developer) - 100kコンテキストウィンドウが登場したことで、すべての開発者が自分自身のスモールデベロッパーを持つことが現実的になりました。
+ * [pyllms](https://github.com/kagisearch/pyllms) - LLM（OpenAI、Anthropic、AI21、Cohere、Aleph Alpha、HuggingfaceHub、Google PaLM2）に接続するための最小限のPythonライブラリで、組み込みのモデルパフォーマンスベンチマークがあります。
+ * [llm-numbers](https://github.com/ray-project/llm-numbers) - LLM開発者が知っておくべき数字
+
+
+**Langchain**
+ * [DB-GPT](https://github.com/csunny/db-gpt) - ローカルGPTを使用して、データと環境をインタラクトし、データ漏洩なし、100％プライバシー、100％セキュリティを実現します。
 
 
 **Openai**
- * [anse](https://github.com/anse-app/anse) - ChatGPT、DALL-E、Stable Diffusionのためのスーパーチャージド体験。
- * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPTの最小Web UI。
+ * [casdoor](https://github.com/casdoor/casdoor) - CasbinとAIゲートウェイを搭載したオープンソースのIdentity and Access Management（IAM）/ Single-Sign-On（SSO）プラットフォームで、OAuth 2.0、OIDC、SAML、OpenAI ChatGPTをサポートするWeb UIがあります。
 
 
-_Updated on May 19, 2023_ (A total of 690 repositories listed.)
+**Others**
+ * [fastGPT](https://github.com/certik/fastgpt) - Fortranで書かれた高速なGPT-2推論
+ * [menubar](https://github.com/smol-ai/menubar) - チャットGPT/Bard/Claudeへのゼロレイテンシーアクセスが可能なメニューバー！A/Bテストを行ったり、バックグラウンドで使用したりできます。私は1日に20回使用しています。
+
+
+_Updated on May 21, 2023_ (A total of 696 repositories listed.)
 
 🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
 
@@ -832,6 +836,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [guidance](https://github.com/microsoft/guidance) - 大規模言語モデルを制御するためのガイダンス言語。
  * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 与えられた質問に対して、OpenAIの言語モデルを活用して最適な回答を生成、分析、選択するPythonプログラム。
  * [developer](https://github.com/smol-ai/developer) - 100kコンテキストウィンドウが登場したことで、すべての開発者が自分自身のスモールデベロッパーを持つことが現実的になりました。
+ * [pyllms](https://github.com/kagisearch/pyllms) - LLM（OpenAI、Anthropic、AI21、Cohere、Aleph Alpha、HuggingfaceHub、Google PaLM2）に接続するための最小限のPythonライブラリで、組み込みのモデルパフォーマンスベンチマークがあります。
+ * [llm-numbers](https://github.com/ray-project/llm-numbers) - LLM開発者が知っておくべき数字
 
 
 |Name|GitHub Stars|Language|License|
@@ -937,6 +943,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|Jupyter Notebook|mit|
 |[SmartPilot](https://github.com/jaredkirby/smartpilot)|![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)|Python|-|
 |[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
+|[pyllms](https://github.com/kagisearch/pyllms)|![GitHub Repo stars](https://img.shields.io/github/stars/kagisearch/pyllms?style=social)|Python|mit|
+|[llm-numbers](https://github.com/ray-project/llm-numbers)|![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|-|-|
 
 
 ## Langchain
@@ -976,6 +984,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - 私の現在の探求：PyCodeAGI、@LangChainAI #AIAgentは、目的に応じてPythonコンソールアプリを構築するもので、@OpenAI #GPT4との超能力を手に入れました。 「魔法のアプリ」を構築するように依頼したところ、創造的なものが構築されました。エラーは一つもありませんでした...
  * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - マルチモーダル-GPT
  * [snowChat](https://github.com/kaarthik108/snowchat) - あなたのスノーフレークデータベースでチャット - テキストからSQLへ
+ * [DB-GPT](https://github.com/csunny/db-gpt) - ローカルGPTを使用して、データと環境をインタラクトし、データ漏洩なし、100％プライバシー、100％セキュリティを実現します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1015,6 +1024,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[pyCodeAGI](https://github.com/chakkaradeep/pycodeagi)|![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)|Python|-|
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
+|[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 
 
 ## Unity
@@ -1115,6 +1125,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - このプロジェクトは、AnthropicのClaudeモデルのAPIをOpenAI Chat API形式に変換します。
  * [anse](https://github.com/anse-app/anse) - ChatGPT、DALL-E、Stable Diffusionのためのスーパーチャージド体験。
  * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPTの最小Web UI。
+ * [casdoor](https://github.com/casdoor/casdoor) - CasbinとAIゲートウェイを搭載したオープンソースのIdentity and Access Management（IAM）/ Single-Sign-On（SSO）プラットフォームで、OAuth 2.0、OIDC、SAML、OpenAI ChatGPTをサポートするWeb UIがあります。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1191,6 +1202,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jtsang4/claude-to-chatgpt?style=social)|Python|mit|
 |[anse](https://github.com/anse-app/anse)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/anse?style=social)|TypeScript|mit|
 |[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
+|[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
 
 
 ## Others
@@ -1376,6 +1388,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [pandora](https://github.com/pengzhile/pandora) - パンドラは、あなたがスムーズに呼吸できるChatGPTです。
  * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - モバイル版二次元AI妻とのチャットボット
  * [ChatALL](https://github.com/sunner/chatall) - ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIEなどと同時にチャットし、最適な回答を発見してください。
+ * [fastGPT](https://github.com/certik/fastgpt) - Fortranで書かれた高速なGPT-2推論
+ * [menubar](https://github.com/smol-ai/menubar) - チャットGPT/Bard/Claudeへのゼロレイテンシーアクセスが可能なメニューバー！A/Bテストを行ったり、バックグラウンドで使用したりできます。私は1日に20回使用しています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1559,5 +1573,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[pandora](https://github.com/pengzhile/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/pengzhile/pandora?style=social)|Python|gpl-2.0|
 |[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/voine/ChatWaifu_Mobile?style=social)|C++|mit|
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
+|[fastGPT](https://github.com/certik/fastgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/certik/fastGPT?style=social)|Fortran|mit|
+|[menubar](https://github.com/smol-ai/menubar)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/menubar?style=social)|HTML|mit|
 
 
