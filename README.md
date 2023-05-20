@@ -18,21 +18,25 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Prompts**
- * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
-
-
 **NLP**
- * [SmartPilot](https://github.com/jaredkirby/smartpilot) - A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question.
- * [developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+ * [pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
+ * [llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
+
+
+**Langchain**
+ * [DB-GPT](https://github.com/csunny/db-gpt) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
 
 
 **Openai**
- * [anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
- * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT. 
+ * [casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 
 
-_Updated on May 19, 2023_ (A total of 690 repositories listed.)
+**Others**
+ * [fastGPT](https://github.com/certik/fastgpt) - Fast GPT-2 inference written in Fortran
+ * [menubar](https://github.com/smol-ai/menubar) - a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.
+
+
+_Updated on May 21, 2023_ (A total of 696 repositories listed.)
 
 🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
 
@@ -826,6 +830,8 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
  * [guidance](https://github.com/microsoft/guidance) - A guidance language for controlling large language models.
  * [SmartPilot](https://github.com/jaredkirby/smartpilot) - A Python program leveraging OpenAI's language models to generate, analyze, and select the best answer to a given question.
  * [developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
+ * [pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
+ * [llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
 
 
 |Name|GitHub Stars|Language|License|
@@ -931,6 +937,8 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
 |[guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|Jupyter Notebook|mit|
 |[SmartPilot](https://github.com/jaredkirby/smartpilot)|![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)|Python|-|
 |[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
+|[pyllms](https://github.com/kagisearch/pyllms)|![GitHub Repo stars](https://img.shields.io/github/stars/kagisearch/pyllms?style=social)|Python|mit|
+|[llm-numbers](https://github.com/ray-project/llm-numbers)|![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|-|-|
 
 
 ## Langchain
@@ -970,6 +978,7 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
  * [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - My current exploration: PyCodeAGI, an @LangChainAI #AIAgent that builds a Python console app given an objective, just got superpowers with @OpenAI #GPT4:  asked it to build a 'magic app' - it built something creative. There was not even a single error in…
  * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - Multimodal-GPT
  * [snowChat](https://github.com/kaarthik108/snowchat) - Chat on you're snowflake database - Text to SQL
+ * [DB-GPT](https://github.com/csunny/db-gpt) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
 
 
 |Name|GitHub Stars|Language|License|
@@ -1009,6 +1018,7 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
 |[pyCodeAGI](https://github.com/chakkaradeep/pycodeagi)|![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)|Python|-|
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
+|[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 
 
 ## Unity
@@ -1108,7 +1118,8 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%ae%89%e8%a3%85%e6%b8%a0%e9%81%93) - ChatGPT畅聊插件。解决所有报错，让我们的AI体验无比顺畅、丝滑、高效。并且持续更新更多的增强功能，包括取消审计、克隆对话、净化首页等等。
  * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
  * [anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
- * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT. 
+ * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
+ * [casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -1185,6 +1196,7 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jtsang4/claude-to-chatgpt?style=social)|Python|mit|
 |[anse](https://github.com/anse-app/anse)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/anse?style=social)|TypeScript|mit|
 |[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
+|[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
 
 
 ## Others
@@ -1368,6 +1380,8 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
  * [pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
  * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - 移动版二次元 AI 老婆聊天器
  * [ChatALL](https://github.com/sunner/chatall) -  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+ * [fastGPT](https://github.com/certik/fastgpt) - Fast GPT-2 inference written in Fortran
+ * [menubar](https://github.com/smol-ai/menubar) - a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1551,5 +1565,7 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
 |[pandora](https://github.com/pengzhile/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/pengzhile/pandora?style=social)|Python|gpl-2.0|
 |[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/voine/ChatWaifu_Mobile?style=social)|C++|mit|
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
+|[fastGPT](https://github.com/certik/fastgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/certik/fastGPT?style=social)|Fortran|mit|
+|[menubar](https://github.com/smol-ai/menubar)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/menubar?style=social)|HTML|mit|
 
 

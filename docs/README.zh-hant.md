@@ -15,21 +15,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文提示 精選🔥,ChatGPT使用指南,提升ChatGPT可玩性和可用性!
-
-
 **NLP**
- * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 該程式是利用OpenAI語言模型生成,分析和選擇給定問題最好的答案的Python程式.
- * [developer](https://github.com/smol-ai/developer) - 隨著100K個上網窗口的進度,
+ * [pyllms](https://github.com/kagisearch/pyllms) - 提供連接LLM的最小Python庫 (OpenAI,Anthropic,AI21,Cohere,Aleph Alpha,HuggingfaceHub,Google PaLM2),並內建模型性能基准.
+ * [llm-numbers](https://github.com/ray-project/llm-numbers) - 每個法學士發展者都應該知道的數字
+
+
+**Langchain**
+ * [DB-GPT](https://github.com/csunny/db-gpt) - 透過本地GPT, 互動您的數據與環境,
 
 
 **Openai**
- * [anse](https://github.com/anse-app/anse) - 沒有任何關於我們的消息.
- * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - 網路使用者對 ChatGPT 的使用者界面最低.
+ * [casdoor](https://github.com/casdoor/casdoor) - 提供可使用 Casbin 和 AI 門口的開放源代碼身份與接入管理 (IAM) /單筆登入 (SSO) 平台,
 
 
-_Updated on May 19, 2023_ (A total of 690 repositories listed.)
+**Others**
+ * [fastGPT](https://github.com/certik/fastgpt) - 快速GPT-2推論用Fortran寫出來
+ * [menubar](https://github.com/smol-ai/menubar) - 沒有任何延遲的覽量! A/B測試,或在背景使用.
+
+
+_Updated on May 21, 2023_ (A total of 696 repositories listed.)
 
 🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
 
@@ -836,6 +840,8 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
  * [guidance](https://github.com/microsoft/guidance) - 控制大型語言模型的指導語言。
  * [SmartPilot](https://github.com/jaredkirby/smartpilot) - 一個使用OpenAI語言模型來生成、分析和選擇最佳答案的Python程序。
  * [developer](https://github.com/smol-ai/developer) - 隨著100k上下文視窗的到來，現在每個開發者都有機會擁有自己的小型開發者。
+ * [pyllms](https://github.com/kagisearch/pyllms) - 最小的Python庫，可連接到LLMs（OpenAI，Anthropic，AI21，Cohere，Aleph Alpha，HuggingfaceHub，Google PaLM2），並具有內置的模型性能基準測試。
+ * [llm-numbers](https://github.com/ray-project/llm-numbers) - 每位LLM開發人員應該知道的數字
 
 
 |Name|GitHub Stars|Language|License|
@@ -941,6 +947,8 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
 |[guidance](https://github.com/microsoft/guidance)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/guidance?style=social)|Jupyter Notebook|mit|
 |[SmartPilot](https://github.com/jaredkirby/smartpilot)|![GitHub Repo stars](https://img.shields.io/github/stars/jaredkirby/SmartPilot?style=social)|Python|-|
 |[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
+|[pyllms](https://github.com/kagisearch/pyllms)|![GitHub Repo stars](https://img.shields.io/github/stars/kagisearch/pyllms?style=social)|Python|mit|
+|[llm-numbers](https://github.com/ray-project/llm-numbers)|![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|-|-|
 
 
 ## Langchain
@@ -980,6 +988,7 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
  * [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - 我的目前探索：PyCodeAGI，一個 @LangChainAI #AIAgent，可以根據目標建立一個Python控制台應用程序，現在憑藉 @OpenAI #GPT4 獲得了超能力：要求它建立一個“魔法應用程序”-它建立了一些創意。甚至沒有一個錯誤...
  * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - 多模態-GPT
  * [snowChat](https://github.com/kaarthik108/snowchat) - 在您的雪花數據庫上聊天 - 文本轉SQL
+ * [DB-GPT](https://github.com/csunny/db-gpt) - 使用本地GPT與您的數據和環境進行互動，無數據洩露，100％私密，100％安全。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1019,6 +1028,7 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
 |[pyCodeAGI](https://github.com/chakkaradeep/pycodeagi)|![GitHub Repo stars](https://img.shields.io/github/stars/chakkaradeep/pyCodeAGI?style=social)|Python|-|
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
+|[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 
 
 ## Unity
@@ -1120,6 +1130,7 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
  * [claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - 此項目將Anthropic的Claude模型的API轉換為OpenAI Chat API格式。
  * [anse](https://github.com/anse-app/anse) - ChatGPT、DALL-E和Stable Diffusion的超級體驗。
  * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPT的極簡網頁界面。
+ * [casdoor](https://github.com/casdoor/casdoor) - 一個由Casbin和AI Gateway驅動的開源身份和訪問管理（IAM）/單點登錄（SSO）平台，具有支持OAuth 2.0、OIDC、SAML和OpenAI ChatGPT的Web UI。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1196,6 +1207,7 @@ _Updated on May 19, 2023_ (A total of 690 repositories listed.)
 |[claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jtsang4/claude-to-chatgpt?style=social)|Python|mit|
 |[anse](https://github.com/anse-app/anse)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/anse?style=social)|TypeScript|mit|
 |[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
+|[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
 
 
 ## Others
@@ -1389,6 +1401,8 @@ add chatgpt to your groupchats:
  * [pandora](https://github.com/pengzhile/pandora) - 潘朵拉，一個讓你呼吸順暢的ChatGPT。
  * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - 移動版二次元 AI 老婆聊天器
  * [ChatALL](https://github.com/sunner/chatall) - 同時與ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIE等人聊天，發現最佳答案。
+ * [fastGPT](https://github.com/certik/fastgpt) - 使用Fortran編寫的快速GPT-2推論
+ * [menubar](https://github.com/smol-ai/menubar) - 一個帶有零延遲訪問ChatGPT/Bard/Claude的菜單！進行A/B測試，或在背景中使用它們。我每天使用這個20次。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1572,5 +1586,7 @@ add chatgpt to your groupchats:
 |[pandora](https://github.com/pengzhile/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/pengzhile/pandora?style=social)|Python|gpl-2.0|
 |[ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile)|![GitHub Repo stars](https://img.shields.io/github/stars/voine/ChatWaifu_Mobile?style=social)|C++|mit|
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
+|[fastGPT](https://github.com/certik/fastgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/certik/fastGPT?style=social)|Fortran|mit|
+|[menubar](https://github.com/smol-ai/menubar)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/menubar?style=social)|HTML|mit|
 
 
