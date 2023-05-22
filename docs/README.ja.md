@@ -15,25 +15,37 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AIパワードアシスタントGemがあなたのRailsコンソールに直接組み込まれています。ChatGPTのフルパワーをRailsで利用できます。
+
+
+**Browser-extensions**
+ * [dify](https://github.com/langgenius/dify) - プラグインとデータセットのための1つのAPI、プロンプトエンジニアリングとビジュアル操作のための1つのインターフェース、すべてが強力なAIアプリケーションを作成するためにあります。
+ * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - ChatGPT検索プラグインを使用すると、自然言語で質問することで、個人または仕事の文書を簡単に見つけることができます。
+
+
+**Reimplementations**
+ * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - OpenAIのChatGPTコードインタープリターのオープンソース実装
+
+
 **NLP**
- * [pyllms](https://github.com/kagisearch/pyllms) - LLM（OpenAI、Anthropic、AI21、Cohere、Aleph Alpha、HuggingfaceHub、Google PaLM2）に接続するための最小限のPythonライブラリで、組み込みのモデルパフォーマンスベンチマークがあります。
- * [llm-numbers](https://github.com/ray-project/llm-numbers) - LLM開発者が知っておくべき数字
-
-
-**Langchain**
- * [DB-GPT](https://github.com/csunny/db-gpt) - ローカルGPTを使用して、データと環境をインタラクトし、データ漏洩なし、100％プライバシー、100％セキュリティを実現します。
+ * [StructGPT](https://github.com/rucaibox/structgpt) - 「StructGPT：構造化データに対して推論するための大規模言語モデルの一般的なフレームワーク」のコードとデータ
+ * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - ChatGPTのような強力な言語モデルをscikit-learnにシームレスに統合して、テキスト分析タスクを強化します。
+ * [zeno-build](https://github.com/zeno-ml/zeno-build) - LLMベースのアプリを構築し、評価し、分析し、理解する。
+ * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - GPTの力を使って、100％プライベートで、データ漏洩の心配なしに文書とプライベートにやり取りできます。
 
 
 **Openai**
- * [casdoor](https://github.com/casdoor/casdoor) - CasbinとAIゲートウェイを搭載したオープンソースのIdentity and Access Management（IAM）/ Single-Sign-On（SSO）プラットフォームで、OAuth 2.0、OIDC、SAML、OpenAI ChatGPTをサポートするWeb UIがあります。
+ * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - OpenAI APIを使用したJetpack ComposeでのChatGPT
+ * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Azure Cosmos DBとAzure OpenAI ChatGPTサービスを組み合わせたサンプルアプリケーション
 
 
 **Others**
- * [fastGPT](https://github.com/certik/fastgpt) - Fortranで書かれた高速なGPT-2推論
- * [menubar](https://github.com/smol-ai/menubar) - チャットGPT/Bard/Claudeへのゼロレイテンシーアクセスが可能なメニューバー！A/Bテストを行ったり、バックグラウンドで使用したりできます。私は1日に20回使用しています。
+ * [quivr](https://github.com/stangirard/quivr) - あなたのファイルや思考をすべてGenerativeAI Second Brainにダンプして、それとチャットしてください。
+ * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam：オープンソースのマルチエージェントシミュレーション
 
 
-_Updated on May 21, 2023_ (A total of 696 repositories listed.)
+_Updated on May 23, 2023_ (A total of 708 repositories listed.)
 
 🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
 
@@ -295,6 +307,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - Langchain、OpenAI、およびPinconeベクトルストアを使用して質問に答えを取得するシンプルなSlackアプリ/ボットスターター。
  * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - チャットボットサービスとしてのLLM
  * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自己追跡データの分析：インタラクティブな可視化と予測アルゴリズム
+ * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AIパワードアシスタントGemがあなたのRailsコンソールに直接組み込まれています。ChatGPTのフルパワーをRailsで利用できます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -388,6 +401,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
+|[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
 
 
 ## Browser-extensions
@@ -469,6 +483,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [smartgpt](https://github.com/cormanz/smartgpt) - LLMがプラグインを使用して複雑なタスクを完了する能力を提供するプログラム。
  * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Cloudflareの開発者プラットフォームを使用してChatGPTプラグインを構築する 🤖
  * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPTエージェントは、OpenAI GPTモデルの高度な自然言語処理機能を活用して、QGISでさまざまなプロセスを自動化する強力なプラグインです。このプラグインを使用すると、ユーザーは自然言語コマンドを使用してQGISソフトウェアとやり取りでき、さまざまなタスクを完了するために必要な時間と労力を大幅に削減できます。
+ * [dify](https://github.com/langgenius/dify) - プラグインとデータセットのための1つのAPI、プロンプトエンジニアリングとビジュアル操作のための1つのインターフェース、すべてが強力なAIアプリケーションを作成するためにあります。
+ * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - ChatGPT検索プラグインを使用すると、自然言語で質問することで、個人または仕事の文書を簡単に見つけることができます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -550,6 +566,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cormanz/smartgpt?style=social)|Rust|mit|
 |[chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/chatgpt-plugin?style=social)|JavaScript|other|
 |[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
+|[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
+|[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
 
 
 ## CLIs
@@ -694,6 +712,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - BLOOMのC++実装
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - GPT-2、DistilGPT-2、BERT、およびDistilBERTのSwift Core ML 3実装による質問応答。他のトランスフォーマーも近日公開予定！
  * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - nanoGPTに基づくStableLM/Pythia/INCITE言語モデルの実装。フラッシュアテンション、LLaMA-アダプターの微調整、事前学習をサポート。Apache 2.0ライセンス。
+ * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - OpenAIのChatGPTコードインタープリターのオープンソース実装
 
 
 |Name|GitHub Stars|Language|License|
@@ -712,6 +731,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
+|[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -838,6 +858,10 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [developer](https://github.com/smol-ai/developer) - 100kコンテキストウィンドウが登場したことで、すべての開発者が自分自身のスモールデベロッパーを持つことが現実的になりました。
  * [pyllms](https://github.com/kagisearch/pyllms) - LLM（OpenAI、Anthropic、AI21、Cohere、Aleph Alpha、HuggingfaceHub、Google PaLM2）に接続するための最小限のPythonライブラリで、組み込みのモデルパフォーマンスベンチマークがあります。
  * [llm-numbers](https://github.com/ray-project/llm-numbers) - LLM開発者が知っておくべき数字
+ * [StructGPT](https://github.com/rucaibox/structgpt) - 「StructGPT：構造化データに対して推論するための大規模言語モデルの一般的なフレームワーク」のコードとデータ
+ * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - ChatGPTのような強力な言語モデルをscikit-learnにシームレスに統合して、テキスト分析タスクを強化します。
+ * [zeno-build](https://github.com/zeno-ml/zeno-build) - LLMベースのアプリを構築し、評価し、分析し、理解する。
+ * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - GPTの力を使って、100％プライベートで、データ漏洩の心配なしに文書とプライベートにやり取りできます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -945,6 +969,10 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
 |[pyllms](https://github.com/kagisearch/pyllms)|![GitHub Repo stars](https://img.shields.io/github/stars/kagisearch/pyllms?style=social)|Python|mit|
 |[llm-numbers](https://github.com/ray-project/llm-numbers)|![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|-|-|
+|[StructGPT](https://github.com/rucaibox/structgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/StructGPT?style=social)|Python|apache-2.0|
+|[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
+|[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
+|[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1126,6 +1154,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [anse](https://github.com/anse-app/anse) - ChatGPT、DALL-E、Stable Diffusionのためのスーパーチャージド体験。
  * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPTの最小Web UI。
  * [casdoor](https://github.com/casdoor/casdoor) - CasbinとAIゲートウェイを搭載したオープンソースのIdentity and Access Management（IAM）/ Single-Sign-On（SSO）プラットフォームで、OAuth 2.0、OIDC、SAML、OpenAI ChatGPTをサポートするWeb UIがあります。
+ * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - OpenAI APIを使用したJetpack ComposeでのChatGPT
+ * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Azure Cosmos DBとAzure OpenAI ChatGPTサービスを組み合わせたサンプルアプリケーション
 
 
 |Name|GitHub Stars|Language|License|
@@ -1203,6 +1233,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[anse](https://github.com/anse-app/anse)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/anse?style=social)|TypeScript|mit|
 |[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
 |[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
+|[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
+|[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 
 
 ## Others
@@ -1390,6 +1422,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [ChatALL](https://github.com/sunner/chatall) - ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIEなどと同時にチャットし、最適な回答を発見してください。
  * [fastGPT](https://github.com/certik/fastgpt) - Fortranで書かれた高速なGPT-2推論
  * [menubar](https://github.com/smol-ai/menubar) - チャットGPT/Bard/Claudeへのゼロレイテンシーアクセスが可能なメニューバー！A/Bテストを行ったり、バックグラウンドで使用したりできます。私は1日に20回使用しています。
+ * [quivr](https://github.com/stangirard/quivr) - あなたのファイルや思考をすべてGenerativeAI Second Brainにダンプして、それとチャットしてください。
+ * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam：オープンソースのマルチエージェントシミュレーション
 
 
 |Name|GitHub Stars|Language|License|
@@ -1575,5 +1609,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 |[fastGPT](https://github.com/certik/fastgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/certik/fastGPT?style=social)|Fortran|mit|
 |[menubar](https://github.com/smol-ai/menubar)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/menubar?style=social)|HTML|mit|
+|[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quivr?style=social)|Python|apache-2.0|
+|[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 
 
