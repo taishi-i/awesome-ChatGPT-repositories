@@ -15,25 +15,37 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - 智能助理寶石直接在Rails控制台中.
+
+
+**Browser-extensions**
+ * [dify](https://github.com/langgenius/dify) - 提供一個API可供插件和數據集,
+ * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - 透過自然語言提出問題, 您可以輕鬆找到個人或工作文件.
+
+
+**Reimplementations**
+ * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - 公開AI的ChatGPT代碼傳譯器的開放源代碼實現
+
+
 **NLP**
- * [pyllms](https://github.com/kagisearch/pyllms) - 提供連接LLM的最小Python庫 (OpenAI,Anthropic,AI21,Cohere,Aleph Alpha,HuggingfaceHub,Google PaLM2),並內建模型性能基准.
- * [llm-numbers](https://github.com/ray-project/llm-numbers) - 每個法學士發展者都應該知道的數字
-
-
-**Langchain**
- * [DB-GPT](https://github.com/csunny/db-gpt) - 透過本地GPT, 互動您的數據與環境,
+ * [StructGPT](https://github.com/rucaibox/structgpt) - 結構化數據的代碼和數據"StructGPT:大型語言模型的一般框架"
+ * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - 透過Skit學習, 能夠完善文本分析任務.
+ * [zeno-build](https://github.com/zeno-ml/zeno-build) - 建立,評估,分析和理解基于LLM的應用程式
+ * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - 透過GPT的力量與文件私下互動,
 
 
 **Openai**
- * [casdoor](https://github.com/casdoor/casdoor) - 提供可使用 Casbin 和 AI 門口的開放源代碼身份與接入管理 (IAM) /單筆登入 (SSO) 平台,
+ * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - 在Jetpack中使用OpenAI API編輯ChatGPT
+ * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - 範例應用程式將 Azure Cosmos DB 與 Azure OpenAI ChatGPT 服務結合在一起
 
 
 **Others**
- * [fastGPT](https://github.com/certik/fastgpt) - 快速GPT-2推論用Fortran寫出來
- * [menubar](https://github.com/smol-ai/menubar) - 沒有任何延遲的覽量! A/B測試,或在背景使用.
+ * [quivr](https://github.com/stangirard/quivr) - 放掉所有的檔案和想法,
+ * [GPTeam](https://github.com/101dotxyz/gpteam) - 該團隊的目標是:
 
 
-_Updated on May 21, 2023_ (A total of 696 repositories listed.)
+_Updated on May 23, 2023_ (A total of 708 repositories listed.)
 
 🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
 
@@ -292,6 +304,7 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - 一個簡單的 Slack 應用程式/機器人啟動器，使用 Langchain、OpenAI 和 Pincone 向量存儲庫來提取問題的答案。
  * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM作為聊天機器人服務
  * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自我追蹤數據分析：互動式視覺化和預測算法
+ * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AI 助手 Gem，直接在您的 Rails 控制台中使用。在 Rails 中充分发挥 ChatGPT 的功能。
 
 
 |Name|GitHub Stars|Language|License|
@@ -385,6 +398,7 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
+|[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
 
 
 ## Browser-extensions
@@ -466,6 +480,8 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [smartgpt](https://github.com/cormanz/smartgpt) - 一個提供LLMs使用插件完成複雜任務的程式。
  * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - 使用Cloudflare的開發者平台建立ChatGPT插件 🤖
  * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPT代理是一個強大的QGIS插件，利用OpenAI GPT模型的先進自然語言處理能力來自動化QGIS中的各種流程。使用此插件，用戶可以使用自然語言命令與QGIS軟件進行交互，大大減少完成各種任務所需的時間和精力。
+ * [dify](https://github.com/langgenius/dify) - 一個API用於插件和數據集，一個界面用於提示工程和視覺操作，所有這些都是為了創建強大的人工智能應用程序。
+ * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - ChatGPT 檔案檢索插件讓您可以用自然語言輕鬆地查找個人或工作文件。
 
 
 |Name|GitHub Stars|Language|License|
@@ -547,6 +563,8 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cormanz/smartgpt?style=social)|Rust|mit|
 |[chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/chatgpt-plugin?style=social)|JavaScript|other|
 |[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
+|[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
+|[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
 
 
 ## CLIs
@@ -693,6 +711,7 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - BLOOM 的 C++ 實現
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 實現了 GPT-2、DistilGPT-2、BERT 和 DistilBERT 的問答功能。其他 Transformer 即將推出！
  * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - 基於nanoGPT的StableLM/Pythia/INCITE語言模型的實現。支持閃光注意力、LLaMA-Adapter微調和預訓練。Apache 2.0許可證。
+ * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - 一個開源實現OpenAI的ChatGPT代碼解釋器的項目
 
 
 |Name|GitHub Stars|Language|License|
@@ -711,6 +730,7 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
+|[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -842,6 +862,10 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [developer](https://github.com/smol-ai/developer) - 隨著100k上下文視窗的到來，現在每個開發者都有機會擁有自己的小型開發者。
  * [pyllms](https://github.com/kagisearch/pyllms) - 最小的Python庫，可連接到LLMs（OpenAI，Anthropic，AI21，Cohere，Aleph Alpha，HuggingfaceHub，Google PaLM2），並具有內置的模型性能基準測試。
  * [llm-numbers](https://github.com/ray-project/llm-numbers) - 每位LLM開發人員應該知道的數字
+ * [StructGPT](https://github.com/rucaibox/structgpt) - 「StructGPT：一個通用框架，用於大型語言模型在結構化數據上進行推理的代碼和數據」
+ * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - 無縫地將強大的語言模型（如ChatGPT）整合到scikit-learn中，以增強文本分析任務。
+ * [zeno-build](https://github.com/zeno-ml/zeno-build) - 建立、評估、分析和理解基於LLM的應用程式
+ * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - 使用GPT的強大功能私下與您的文件互動，100％私密，無數據洩漏。
 
 
 |Name|GitHub Stars|Language|License|
@@ -949,6 +973,10 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
 |[pyllms](https://github.com/kagisearch/pyllms)|![GitHub Repo stars](https://img.shields.io/github/stars/kagisearch/pyllms?style=social)|Python|mit|
 |[llm-numbers](https://github.com/ray-project/llm-numbers)|![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|-|-|
+|[StructGPT](https://github.com/rucaibox/structgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/StructGPT?style=social)|Python|apache-2.0|
+|[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
+|[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
+|[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1131,6 +1159,8 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [anse](https://github.com/anse-app/anse) - ChatGPT、DALL-E和Stable Diffusion的超級體驗。
  * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - ChatGPT的極簡網頁界面。
  * [casdoor](https://github.com/casdoor/casdoor) - 一個由Casbin和AI Gateway驅動的開源身份和訪問管理（IAM）/單點登錄（SSO）平台，具有支持OAuth 2.0、OIDC、SAML和OpenAI ChatGPT的Web UI。
+ * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - 使用OpenAI API在Jetpack Compose中聊天GPT
+ * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - 結合Azure Cosmos DB和Azure OpenAI ChatGPT服務的樣本應用程式
 
 
 |Name|GitHub Stars|Language|License|
@@ -1208,6 +1238,8 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[anse](https://github.com/anse-app/anse)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/anse?style=social)|TypeScript|mit|
 |[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
 |[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
+|[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
+|[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 
 
 ## Others
@@ -1403,6 +1435,8 @@ add chatgpt to your groupchats:
  * [ChatALL](https://github.com/sunner/chatall) - 同時與ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIE等人聊天，發現最佳答案。
  * [fastGPT](https://github.com/certik/fastgpt) - 使用Fortran編寫的快速GPT-2推論
  * [menubar](https://github.com/smol-ai/menubar) - 一個帶有零延遲訪問ChatGPT/Bard/Claude的菜單！進行A/B測試，或在背景中使用它們。我每天使用這個20次。
+ * [quivr](https://github.com/stangirard/quivr) - 將所有的檔案和想法傾倒到你的生成AI第二大腦中，並與它聊天。
+ * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam：一個開源的多智能體模擬系統
 
 
 |Name|GitHub Stars|Language|License|
@@ -1588,5 +1622,7 @@ add chatgpt to your groupchats:
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 |[fastGPT](https://github.com/certik/fastgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/certik/fastGPT?style=social)|Fortran|mit|
 |[menubar](https://github.com/smol-ai/menubar)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/menubar?style=social)|HTML|mit|
+|[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quivr?style=social)|Python|apache-2.0|
+|[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 
 

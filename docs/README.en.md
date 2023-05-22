@@ -16,25 +16,37 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AI-Powered Assistant Gem right in your Rails console. Full power of ChatGPT in Rails
+
+
+**Browser-extensions**
+ * [dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
+ * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+
+
+**Reimplementations**
+ * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
+
+
 **NLP**
- * [pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
- * [llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
-
-
-**Langchain**
- * [DB-GPT](https://github.com/csunny/db-gpt) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
+ * [StructGPT](https://github.com/rucaibox/structgpt) - The code and data for "StructGPT: A general framework for Large Language Model to Reason on Structured Data"
+ * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
+ * [zeno-build](https://github.com/zeno-ml/zeno-build) - Build, evaluate, analyze, and understand LLM-based apps
+ * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 
 
 **Openai**
- * [casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+ * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - ChatGPT in Jetpack Compose using OpenAI API
+ * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service
 
 
 **Others**
- * [fastGPT](https://github.com/certik/fastgpt) - Fast GPT-2 inference written in Fortran
- * [menubar](https://github.com/smol-ai/menubar) - a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.
+ * [quivr](https://github.com/stangirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+ * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam: An open-source multi-agent simulation
 
 
-_Updated on May 21, 2023_ (A total of 696 repositories listed.)
+_Updated on May 23, 2023_ (A total of 708 repositories listed.)
 
 🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
 
@@ -290,6 +302,7 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - A simple slack app / bot starter that fetches answers to questions using Langchain, OpenAI and a Pincone vectorstore
  * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM as a Chatbot Service
  * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - Analysis of self-tracked data: interactive visualizations & predictive algorithms
+ * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AI-Powered Assistant Gem right in your Rails console. Full power of ChatGPT in Rails
 
 
 |Name|GitHub Stars|Language|License|
@@ -383,6 +396,7 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[slack-gpt](https://github.com/martinseanhunt/slack-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/martinseanhunt/slack-gpt?style=social)|JavaScript|-|
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
+|[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
 
 
 ## Browser-extensions
@@ -464,6 +478,8 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [smartgpt](https://github.com/cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
  * [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
  * [QGPTAgent](https://github.com/momaabna/qgptagent) - The QGPT Agent is a powerful plugin for QGIS that utilizes the advanced natural language processing capabilities of the OpenAI GPT model to automate various processes in QGIS. With this plugin, users can interact with the QGIS software using natural language commands, significantly reducing the time and effort required to complete various tasks.
+ * [dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
+ * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 
 
 |Name|GitHub Stars|Language|License|
@@ -545,6 +561,8 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[smartgpt](https://github.com/cormanz/smartgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cormanz/smartgpt?style=social)|Rust|mit|
 |[chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cloudflare/chatgpt-plugin?style=social)|JavaScript|other|
 |[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
+|[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
+|[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
 
 
 ## CLIs
@@ -689,6 +707,7 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - C++ implementation for BLOOM
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
  * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+ * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
 
 
 |Name|GitHub Stars|Language|License|
@@ -707,6 +726,7 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/nouamanetazi/bloomz.cpp?style=social)|C|mit|
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
+|[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -830,6 +850,10 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it's now feasible for every dev to have their own smol developer
  * [pyllms](https://github.com/kagisearch/pyllms) - Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.
  * [llm-numbers](https://github.com/ray-project/llm-numbers) - Numbers every LLM developer should know
+ * [StructGPT](https://github.com/rucaibox/structgpt) - The code and data for "StructGPT: A general framework for Large Language Model to Reason on Structured Data"
+ * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
+ * [zeno-build](https://github.com/zeno-ml/zeno-build) - Build, evaluate, analyze, and understand LLM-based apps
+ * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 
 
 |Name|GitHub Stars|Language|License|
@@ -937,6 +961,10 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
 |[pyllms](https://github.com/kagisearch/pyllms)|![GitHub Repo stars](https://img.shields.io/github/stars/kagisearch/pyllms?style=social)|Python|mit|
 |[llm-numbers](https://github.com/ray-project/llm-numbers)|![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|-|-|
+|[StructGPT](https://github.com/rucaibox/structgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/StructGPT?style=social)|Python|apache-2.0|
+|[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
+|[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
+|[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1118,6 +1146,8 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
  * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT. 
  * [casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+ * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - ChatGPT in Jetpack Compose using OpenAI API
+ * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service
 
 
 |Name|GitHub Stars|Language|License|
@@ -1195,6 +1225,8 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[anse](https://github.com/anse-app/anse)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/anse?style=social)|TypeScript|mit|
 |[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
 |[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
+|[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
+|[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 
 
 ## Others
@@ -1380,6 +1412,8 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
  * [ChatALL](https://github.com/sunner/chatall) -  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
  * [fastGPT](https://github.com/certik/fastgpt) - Fast GPT-2 inference written in Fortran
  * [menubar](https://github.com/smol-ai/menubar) - a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.
+ * [quivr](https://github.com/stangirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
+ * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam: An open-source multi-agent simulation
 
 
 |Name|GitHub Stars|Language|License|
@@ -1565,5 +1599,7 @@ _Updated on May 21, 2023_ (A total of 696 repositories listed.)
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 |[fastGPT](https://github.com/certik/fastgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/certik/fastGPT?style=social)|Fortran|mit|
 |[menubar](https://github.com/smol-ai/menubar)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/menubar?style=social)|HTML|mit|
+|[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quivr?style=social)|Python|apache-2.0|
+|[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 
 

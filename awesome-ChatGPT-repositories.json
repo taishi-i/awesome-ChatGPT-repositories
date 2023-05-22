@@ -2899,6 +2899,26 @@
                     "zh-hans": "自我追踪数据分析：交互式可视化和预测算法",
                     "zh-hant": "自我追蹤數據分析：互動式視覺化和預測算法"
                 }
+            },
+            "https://github.com/railsjazz/ask_chatgpt": {
+                "repository_name": "ask_chatgpt",
+                "user_name": "railsjazz",
+                "language": "Ruby",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "AI-Powered Assistant Gem right in your Rails console. Full power of ChatGPT in Rails",
+                "topics": [
+                    "chatgpt",
+                    "openai",
+                    "rails",
+                    "ruby",
+                    "ruby-on-rails"
+                ]
             }
         },
         "Browser-extensions": {
@@ -4352,6 +4372,45 @@
                     "zh-hans": "QGPT代理是QGIS的强大插件，利用OpenAI GPT模型的先进自然语言处理能力自动化QGIS中的各种过程。使用此插件，用户可以使用自然语言命令与QGIS软件交互，大大减少完成各种任务所需的时间和精力。",
                     "zh-hant": "QGPT代理是一個強大的QGIS插件，利用OpenAI GPT模型的先進自然語言處理能力來自動化QGIS中的各種流程。使用此插件，用戶可以使用自然語言命令與QGIS軟件進行交互，大大減少完成各種任務所需的時間和精力。"
                 }
+            },
+            "https://github.com/langgenius/dify": {
+                "repository_name": "dify",
+                "user_name": "langgenius",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.",
+                "topics": [
+                    "ai",
+                    "backend-as-a-service",
+                    "gpt",
+                    "langchain",
+                    "llm",
+                    "openai",
+                    "python"
+                ]
+            },
+            "https://github.com/openai/chatgpt-retrieval-plugin#supabase": {
+                "repository_name": "chatgpt-retrieval-plugin",
+                "user_name": "openai",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plugins"
+                ]
             }
         },
         "CLIs": {
@@ -5748,6 +5807,25 @@
                     "zh-hans": "基于nanoGPT的StableLM/Pythia/INCITE语言模型的实现。支持闪存注意力、LLaMA-Adapter微调、预训练。采用Apache 2.0许可证。",
                     "zh-hant": "基於nanoGPT的StableLM/Pythia/INCITE語言模型的實現。支持閃光注意力、LLaMA-Adapter微調和預訓練。Apache 2.0許可證。"
                 }
+            },
+            "https://github.com/ricklamers/gpt-code-ui": {
+                "repository_name": "gpt-code-ui",
+                "user_name": "ricklamers",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "An open source implementation of OpenAI's ChatGPT Code interpreter",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "llms",
+                    "openai"
+                ]
             }
         },
         "Tutorials": {
@@ -7689,7 +7767,13 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Minimal Python library to connect to LLMs (OpenAI, Anthropic, AI21, Cohere, Aleph Alpha, HuggingfaceHub, Google PaLM2, with a built-in model performance benchmark.",
+                    "ja": "LLM（OpenAI、Anthropic、AI21、Cohere、Aleph Alpha、HuggingfaceHub、Google PaLM2）に接続するための最小限のPythonライブラリで、組み込みのモデルパフォーマンスベンチマークがあります。",
+                    "zh-hans": "最小的Python库，可连接到LLMs（OpenAI，Anthropic，AI21，Cohere，Aleph Alpha，HuggingfaceHub，Google PaLM2），并带有内置的模型性能基准测试。",
+                    "zh-hant": "最小的Python庫，可連接到LLMs（OpenAI，Anthropic，AI21，Cohere，Aleph Alpha，HuggingfaceHub，Google PaLM2），並具有內置的模型性能基準測試。"
+                }
             },
             "https://github.com/ray-project/llm-numbers": {
                 "repository_name": "llm-numbers",
@@ -7697,6 +7781,75 @@
                 "language": null,
                 "license": null,
                 "description": "Numbers every LLM developer should know",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Numbers every LLM developer should know",
+                    "ja": "LLM開発者が知っておくべき数字",
+                    "zh-hans": "每个LLM开发者都应该知道的数字",
+                    "zh-hant": "每位LLM開發人員應該知道的數字"
+                }
+            },
+            "https://github.com/rucaibox/structgpt": {
+                "repository_name": "StructGPT",
+                "user_name": "RUCAIBox",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "The code and data for \"StructGPT: A general framework for Large Language Model to Reason on Structured Data\"",
+                "topics": []
+            },
+            "https://github.com/iryna-kondr/scikit-llm": {
+                "repository_name": "scikit-llm",
+                "user_name": "iryna-kondr",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.",
+                "topics": [
+                    "chatgpt",
+                    "deep-learning",
+                    "llm",
+                    "machine-learning",
+                    "scikit-learn",
+                    "transformers"
+                ]
+            },
+            "https://github.com/zeno-ml/zeno-build": {
+                "repository_name": "zeno-build",
+                "user_name": "zeno-ml",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Build, evaluate, analyze, and understand LLM-based apps",
+                "topics": []
+            },
+            "https://github.com/imartinez/privategpt?utm_source=tldrnewsletter": {
+                "repository_name": "privateGPT",
+                "user_name": "imartinez",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
                 "topics": []
             }
         },
@@ -8394,7 +8547,13 @@
                     "private",
                     "security",
                     "vicuna"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security",
+                    "ja": "ローカルGPTを使用して、データと環境をインタラクトし、データ漏洩なし、100％プライバシー、100％セキュリティを実現します。",
+                    "zh-hans": "使用本地GPT与数据和环境进行交互，无数据泄漏，100%私密，100%安全。",
+                    "zh-hant": "使用本地GPT與您的數據和環境進行互動，無數據洩露，100％私密，100％安全。"
+                }
             }
         },
         "Unity": {
@@ -9906,7 +10065,41 @@
                     "react",
                     "saml",
                     "sso"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT",
+                    "ja": "CasbinとAIゲートウェイを搭載したオープンソースのIdentity and Access Management（IAM）/ Single-Sign-On（SSO）プラットフォームで、OAuth 2.0、OIDC、SAML、OpenAI ChatGPTをサポートするWeb UIがあります。",
+                    "zh-hans": "一个由Casbin和AI网关驱动的开源身份和访问管理（IAM）/单点登录（SSO）平台，具有支持OAuth 2.0、OIDC、SAML和OpenAI ChatGPT的Web UI。",
+                    "zh-hant": "一個由Casbin和AI Gateway驅動的開源身份和訪問管理（IAM）/單點登錄（SSO）平台，具有支持OAuth 2.0、OIDC、SAML和OpenAI ChatGPT的Web UI。"
+                }
+            },
+            "https://github.com/thekharche/jetchatgpt": {
+                "repository_name": "JetChatGPT",
+                "user_name": "thekharche",
+                "language": "Kotlin",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "ChatGPT in Jetpack Compose using OpenAI API",
+                "topics": []
+            },
+            "https://github.com/azure-samples/cosmosdb-chatgpt": {
+                "repository_name": "cosmosdb-chatgpt",
+                "user_name": "Azure-Samples",
+                "language": "HTML",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service",
+                "topics": []
             }
         },
         "Others": {
@@ -13002,7 +13195,13 @@
                     "fortran",
                     "gpt-2",
                     "high-performance"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fast GPT-2 inference written in Fortran",
+                    "ja": "Fortranで書かれた高速なGPT-2推論",
+                    "zh-hans": "用Fortran编写的快速GPT-2推理",
+                    "zh-hant": "使用Fortran編寫的快速GPT-2推論"
+                }
             },
             "https://github.com/smol-ai/menubar": {
                 "repository_name": "menubar",
@@ -13022,6 +13221,57 @@
                     "electron",
                     "google",
                     "menubar"
+                ],
+                "multilingual_descriptions": {
+                    "en": "a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.",
+                    "ja": "チャットGPT/Bard/Claudeへのゼロレイテンシーアクセスが可能なメニューバー！A/Bテストを行ったり、バックグラウンドで使用したりできます。私は1日に20回使用しています。",
+                    "zh-hans": "一个带有零延迟访问ChatGPT/Bard/Claude的菜单栏！进行A/B测试，或在后台使用它们。我每天使用它20次。",
+                    "zh-hant": "一個帶有零延遲訪問ChatGPT/Bard/Claude的菜單！進行A/B測試，或在背景中使用它們。我每天使用這個20次。"
+                }
+            },
+            "https://github.com/stangirard/quivr": {
+                "repository_name": "quivr",
+                "user_name": "StanGirard",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it",
+                "topics": [
+                    "audio",
+                    "chat",
+                    "chatgpt",
+                    "csv",
+                    "embeddings",
+                    "generativeai",
+                    "obsidian",
+                    "pdf",
+                    "second-brain",
+                    "vectorstore",
+                    "whisper"
+                ]
+            },
+            "https://github.com/101dotxyz/gpteam": {
+                "repository_name": "GPTeam",
+                "user_name": "101dotxyz",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "GPTeam: An open-source multi-agent simulation",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "autogpt",
+                    "gpt-4"
                 ]
             }
         }
