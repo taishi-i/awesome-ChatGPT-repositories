@@ -196,6 +196,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 
 ## Chatbots
 
+ * [TraceTalk](https://github.com/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding) - TraceTalk: Engage in conversations with over 400 machine learning documents, capable of indicating the data source in its responses, better quality than New Bing in Machine Learning.
  * [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
  * [Open-Assistant](https://github.com/laion-ai/open-assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
  * [FastChat](https://github.com/lm-sys/fastchat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
@@ -290,6 +291,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 
 |Name|GitHub Stars|Language|License|
 -|-|-|-
+|[TraceTalk](https://github.com/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
 |[gpt4all](https://github.com/nomic-ai/gpt4all)|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)|Python|-|
 |[Open-Assistant](https://github.com/laion-ai/open-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/laion-ai/Open-Assistant?style=social)|Python|apache-2.0|
 |[FastChat](https://github.com/lm-sys/fastchat)|![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)|Python|apache-2.0|
