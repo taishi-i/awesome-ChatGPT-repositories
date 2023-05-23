@@ -2918,7 +2918,13 @@
                     "rails",
                     "ruby",
                     "ruby-on-rails"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-Powered Assistant Gem right in your Rails console. Full power of ChatGPT in Rails",
+                    "ja": "AIパワードアシスタントGemがあなたのRailsコンソールに直接組み込まれています。ChatGPTのフルパワーをRailsで利用できます。",
+                    "zh-hans": "在你的Rails控制台中使用AI助手Gem。在Rails中完全发挥ChatGPT的功能。",
+                    "zh-hant": "AI 助手 Gem，直接在您的 Rails 控制台中使用。在 Rails 中充分发挥 ChatGPT 的功能。"
+                }
             }
         },
         "Browser-extensions": {
@@ -4393,7 +4399,13 @@
                     "llm",
                     "openai",
                     "python"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.",
+                    "ja": "プラグインとデータセットのための1つのAPI、プロンプトエンジニアリングとビジュアル操作のための1つのインターフェース、すべてが強力なAIアプリケーションを作成するためにあります。",
+                    "zh-hans": "一个API用于插件和数据集，一个界面用于提示工程和可视化操作，所有这些都是为了创建强大的人工智能应用程序。",
+                    "zh-hant": "一個API用於插件和數據集，一個界面用於提示工程和視覺操作，所有這些都是為了創建強大的人工智能應用程序。"
+                }
             },
             "https://github.com/openai/chatgpt-retrieval-plugin#supabase": {
                 "repository_name": "chatgpt-retrieval-plugin",
@@ -4410,7 +4422,27 @@
                 "topics": [
                     "chatgpt",
                     "chatgpt-plugins"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
+                    "ja": "ChatGPT検索プラグインを使用すると、自然言語で質問することで、個人または仕事の文書を簡単に見つけることができます。",
+                    "zh-hans": "ChatGPT检索插件可以让您通过自然语言提问轻松查找个人或工作文件。",
+                    "zh-hant": "ChatGPT 檔案檢索插件讓您可以用自然語言輕鬆地查找個人或工作文件。"
+                }
+            },
+            "https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin": {
+                "repository_name": "GameDealGenie-ChatGPT-Plugin",
+                "user_name": "CyrisXD",
+                "language": "JavaScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "ChatGPT plugin to get the current deals on PC games from multiple stores. Powered by Cheapshark",
+                "topics": []
             }
         },
         "CLIs": {
@@ -5825,7 +5857,13 @@
                     "gpt",
                     "llms",
                     "openai"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open source implementation of OpenAI's ChatGPT Code interpreter",
+                    "ja": "OpenAIのChatGPTコードインタープリターのオープンソース実装",
+                    "zh-hans": "OpenAI的ChatGPT代码解释器的开源实现",
+                    "zh-hant": "一個開源實現OpenAI的ChatGPT代碼解釋器的項目"
+                }
             }
         },
         "Tutorials": {
@@ -7801,7 +7839,13 @@
                     "node_id": "MDc6TGljZW5zZTI="
                 },
                 "description": "The code and data for \"StructGPT: A general framework for Large Language Model to Reason on Structured Data\"",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The code and data for \"StructGPT: A general framework for Large Language Model to Reason on Structured Data\"",
+                    "ja": "「StructGPT：構造化データに対して推論するための大規模言語モデルの一般的なフレームワーク」のコードとデータ",
+                    "zh-hans": "\"StructGPT: 一个通用框架，用于大型语言模型在结构化数据上进行推理的代码和数据\"",
+                    "zh-hant": "「StructGPT：一個通用框架，用於大型語言模型在結構化數據上進行推理的代碼和數據」"
+                }
             },
             "https://github.com/iryna-kondr/scikit-llm": {
                 "repository_name": "scikit-llm",
@@ -7822,7 +7866,13 @@
                     "machine-learning",
                     "scikit-learn",
                     "transformers"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.",
+                    "ja": "ChatGPTのような強力な言語モデルをscikit-learnにシームレスに統合して、テキスト分析タスクを強化します。",
+                    "zh-hans": "无缝集成强大的语言模型，如ChatGPT，到scikit-learn中，以增强文本分析任务。",
+                    "zh-hant": "無縫地將強大的語言模型（如ChatGPT）整合到scikit-learn中，以增強文本分析任務。"
+                }
             },
             "https://github.com/zeno-ml/zeno-build": {
                 "repository_name": "zeno-build",
@@ -7836,7 +7886,13 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "Build, evaluate, analyze, and understand LLM-based apps",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Build, evaluate, analyze, and understand LLM-based apps",
+                    "ja": "LLMベースのアプリを構築し、評価し、分析し、理解する。",
+                    "zh-hans": "构建、评估、分析和理解基于LLM的应用程序。",
+                    "zh-hant": "建立、評估、分析和理解基於LLM的應用程式"
+                }
             },
             "https://github.com/imartinez/privategpt?utm_source=tldrnewsletter": {
                 "repository_name": "privateGPT",
@@ -7850,7 +7906,13 @@
                     "node_id": "MDc6TGljZW5zZTI="
                 },
                 "description": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+                    "ja": "GPTの力を使って、100％プライベートで、データ漏洩の心配なしに文書とプライベートにやり取りできます。",
+                    "zh-hans": "使用GPT的强大功能私密地与您的文档互动，100％私密，无数据泄漏。",
+                    "zh-hant": "使用GPT的強大功能私下與您的文件互動，100％私密，無數據洩漏。"
+                }
             }
         },
         "Langchain": {
@@ -8554,6 +8616,14 @@
                     "zh-hans": "使用本地GPT与数据和环境进行交互，无数据泄漏，100%私密，100%安全。",
                     "zh-hant": "使用本地GPT與您的數據和環境進行互動，無數據洩露，100％私密，100％安全。"
                 }
+            },
+            "https://github.com/pengxiao-song/lawgpt": {
+                "repository_name": "LaWGPT",
+                "user_name": "pengxiao-song",
+                "language": "Python",
+                "license": null,
+                "description": " 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型",
+                "topics": []
             }
         },
         "Unity": {
@@ -10085,7 +10155,13 @@
                     "node_id": "MDc6TGljZW5zZTA="
                 },
                 "description": "ChatGPT in Jetpack Compose using OpenAI API",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT in Jetpack Compose using OpenAI API",
+                    "ja": "OpenAI APIを使用したJetpack ComposeでのChatGPT",
+                    "zh-hans": "使用OpenAI API在Jetpack Compose中实现ChatGPT",
+                    "zh-hant": "使用OpenAI API在Jetpack Compose中聊天GPT"
+                }
             },
             "https://github.com/azure-samples/cosmosdb-chatgpt": {
                 "repository_name": "cosmosdb-chatgpt",
@@ -10099,7 +10175,13 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service",
+                    "ja": "Azure Cosmos DBとAzure OpenAI ChatGPTサービスを組み合わせたサンプルアプリケーション",
+                    "zh-hans": "结合Azure Cosmos DB和Azure OpenAI ChatGPT服务的示例应用程序",
+                    "zh-hant": "結合Azure Cosmos DB和Azure OpenAI ChatGPT服務的樣本應用程式"
+                }
             }
         },
         "Others": {
@@ -13253,7 +13335,13 @@
                     "second-brain",
                     "vectorstore",
                     "whisper"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it",
+                    "ja": "あなたのファイルや思考をすべてGenerativeAI Second Brainにダンプして、それとチャットしてください。",
+                    "zh-hans": "将所有文件和想法倾倒到你的生成AI第二大脑中，并与它聊天。",
+                    "zh-hant": "將所有的檔案和想法傾倒到你的生成AI第二大腦中，並與它聊天。"
+                }
             },
             "https://github.com/101dotxyz/gpteam": {
                 "repository_name": "GPTeam",
@@ -13272,7 +13360,29 @@
                     "ai",
                     "autogpt",
                     "gpt-4"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "GPTeam: An open-source multi-agent simulation",
+                    "ja": "GPTeam：オープンソースのマルチエージェントシミュレーション",
+                    "zh-hans": "GPTeam：一个开源的多智能体模拟系统",
+                    "zh-hant": "GPTeam：一個開源的多智能體模擬系統"
+                }
+            },
+            "https://github.com/dadukhankevin/learngpt": {
+                "repository_name": "learnGPT",
+                "user_name": "dadukhankevin",
+                "language": "Svelte",
+                "license": null,
+                "description": "A free, open source, AI powered alternative to Quizlet.",
+                "topics": []
+            },
+            "https://github.com/eniascailliau/girlfriendgpt": {
+                "repository_name": "GirlfriendGPT",
+                "user_name": "EniasCailliau",
+                "language": "Python",
+                "license": null,
+                "description": "Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0",
+                "topics": []
             }
         }
     }

@@ -15,39 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - 智能助理寶石直接在Rails控制台中.
-
-
 **Browser-extensions**
- * [dify](https://github.com/langgenius/dify) - 提供一個API可供插件和數據集,
- * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - 透過自然語言提出問題, 您可以輕鬆找到個人或工作文件.
+ * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 提供多個商店的PC遊戲最新優惠.
 
 
-**Reimplementations**
- * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - 公開AI的ChatGPT代碼傳譯器的開放源代碼實現
-
-
-**NLP**
- * [StructGPT](https://github.com/rucaibox/structgpt) - 結構化數據的代碼和數據"StructGPT:大型語言模型的一般框架"
- * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - 透過Skit學習, 能夠完善文本分析任務.
- * [zeno-build](https://github.com/zeno-ml/zeno-build) - 建立,評估,分析和理解基于LLM的應用程式
- * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - 透過GPT的力量與文件私下互動,
-
-
-**Openai**
- * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - 在Jetpack中使用OpenAI API編輯ChatGPT
- * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - 範例應用程式將 Azure Cosmos DB 與 Azure OpenAI ChatGPT 服務結合在一起
+**Langchain**
+ * [LaWGPT](https://github.com/pengxiao-song/lawgpt) -  檢查對話: 法律知識與中國法律知識相符的中國拉馬.
 
 
 **Others**
- * [quivr](https://github.com/stangirard/quivr) - 放掉所有的檔案和想法,
- * [GPTeam](https://github.com/101dotxyz/gpteam) - 該團隊的目標是:
+ * [learnGPT](https://github.com/dadukhankevin/learngpt) - 提供免費,開放源代碼,
+ * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 朋友GPT是一個Python項目,
 
 
-_Updated on May 23, 2023_ (A total of 708 repositories listed.)
-
-🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
+_Updated on May 24, 2023_ (A total of 712 repositories listed.)
 
 ## Table of contents
 
@@ -482,6 +463,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
  * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPT代理是一個強大的QGIS插件，利用OpenAI GPT模型的先進自然語言處理能力來自動化QGIS中的各種流程。使用此插件，用戶可以使用自然語言命令與QGIS軟件進行交互，大大減少完成各種任務所需的時間和精力。
  * [dify](https://github.com/langgenius/dify) - 一個API用於插件和數據集，一個界面用於提示工程和視覺操作，所有這些都是為了創建強大的人工智能應用程序。
  * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - ChatGPT 檔案檢索插件讓您可以用自然語言輕鬆地查找個人或工作文件。
+ * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 輸入：ChatGPT插件，可從多個商店獲取PC遊戲的最新優惠。由Cheapshark提供支持。
 
 
 |Name|GitHub Stars|Language|License|
@@ -565,6 +547,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
 |[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 |[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
+|[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CyrisXD/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
 
 
 ## CLIs
@@ -973,7 +956,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
 |[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
 |[pyllms](https://github.com/kagisearch/pyllms)|![GitHub Repo stars](https://img.shields.io/github/stars/kagisearch/pyllms?style=social)|Python|mit|
 |[llm-numbers](https://github.com/ray-project/llm-numbers)|![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|-|-|
-|[StructGPT](https://github.com/rucaibox/structgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/StructGPT?style=social)|Python|apache-2.0|
+|[StructGPT](https://github.com/rucaibox/structgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/rucaibox/StructGPT?style=social)|Python|apache-2.0|
 |[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
 |[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
@@ -1017,6 +1000,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
  * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - 多模態-GPT
  * [snowChat](https://github.com/kaarthik108/snowchat) - 在您的雪花數據庫上聊天 - 文本轉SQL
  * [DB-GPT](https://github.com/csunny/db-gpt) - 使用本地GPT與您的數據和環境進行互動，無數據洩露，100％私密，100％安全。
+ * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPT 儲存庫，中國駝峰調整，搭載中國法律知識的大型語言模型。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1057,6 +1041,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
+|[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -1239,7 +1224,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
 |[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
 |[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
 |[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
-|[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/cosmosdb-chatgpt?style=social)|HTML|mit|
+|[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 
 
 ## Others
@@ -1437,6 +1422,8 @@ add chatgpt to your groupchats:
  * [menubar](https://github.com/smol-ai/menubar) - 一個帶有零延遲訪問ChatGPT/Bard/Claude的菜單！進行A/B測試，或在背景中使用它們。我每天使用這個20次。
  * [quivr](https://github.com/stangirard/quivr) - 將所有的檔案和想法傾倒到你的生成AI第二大腦中，並與它聊天。
  * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam：一個開源的多智能體模擬系統
+ * [learnGPT](https://github.com/dadukhankevin/learngpt) - 一個免費、開源、由人工智慧驅動的Quizlet替代方案。
+ * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 女友GPT是一個Python項目，使用ChatGPT4.0建立自己的人工智能女友。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1622,7 +1609,9 @@ add chatgpt to your groupchats:
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 |[fastGPT](https://github.com/certik/fastgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/certik/fastGPT?style=social)|Fortran|mit|
 |[menubar](https://github.com/smol-ai/menubar)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/menubar?style=social)|HTML|mit|
-|[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quivr?style=social)|Python|apache-2.0|
+|[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/quivr?style=social)|Python|apache-2.0|
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
+|[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
+|[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/EniasCailliau/GirlfriendGPT?style=social)|Python|-|
 
 
