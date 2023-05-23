@@ -15,39 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AIパワードアシスタントGemがあなたのRailsコンソールに直接組み込まれています。ChatGPTのフルパワーをRailsで利用できます。
-
-
 **Browser-extensions**
- * [dify](https://github.com/langgenius/dify) - プラグインとデータセットのための1つのAPI、プロンプトエンジニアリングとビジュアル操作のための1つのインターフェース、すべてが強力なAIアプリケーションを作成するためにあります。
- * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - ChatGPT検索プラグインを使用すると、自然言語で質問することで、個人または仕事の文書を簡単に見つけることができます。
+ * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 複数のストアからPCゲームの最新情報を取得するChatGPTプラグイン。Cheapsharkによって提供されます。
 
 
-**Reimplementations**
- * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - OpenAIのChatGPTコードインタープリターのオープンソース実装
-
-
-**NLP**
- * [StructGPT](https://github.com/rucaibox/structgpt) - 「StructGPT：構造化データに対して推論するための大規模言語モデルの一般的なフレームワーク」のコードとデータ
- * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - ChatGPTのような強力な言語モデルをscikit-learnにシームレスに統合して、テキスト分析タスクを強化します。
- * [zeno-build](https://github.com/zeno-ml/zeno-build) - LLMベースのアプリを構築し、評価し、分析し、理解する。
- * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - GPTの力を使って、100％プライベートで、データ漏洩の心配なしに文書とプライベートにやり取りできます。
-
-
-**Openai**
- * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - OpenAI APIを使用したJetpack ComposeでのChatGPT
- * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Azure Cosmos DBとAzure OpenAI ChatGPTサービスを組み合わせたサンプルアプリケーション
+**Langchain**
+ * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPTのためのリポジトリ、中国法律知識に調整された中国ラマ。中文法律知識に基づく大規模言語モデル。
 
 
 **Others**
- * [quivr](https://github.com/stangirard/quivr) - あなたのファイルや思考をすべてGenerativeAI Second Brainにダンプして、それとチャットしてください。
- * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam：オープンソースのマルチエージェントシミュレーション
+ * [learnGPT](https://github.com/dadukhankevin/learngpt) - Quizletの代替となる、無料でオープンソースで、AIを搭載したもの。
+ * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 「ガールフレンドGPT」は、ChatGPT4.0を使用して自分自身のAIガールフレンドを作成するためのPythonプロジェクトです。
 
 
-_Updated on May 23, 2023_ (A total of 708 repositories listed.)
-
-🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
+_Updated on May 24, 2023_ (A total of 712 repositories listed.)
 
 ## Table of contents
 
@@ -485,6 +466,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [QGPTAgent](https://github.com/momaabna/qgptagent) - QGPTエージェントは、OpenAI GPTモデルの高度な自然言語処理機能を活用して、QGISでさまざまなプロセスを自動化する強力なプラグインです。このプラグインを使用すると、ユーザーは自然言語コマンドを使用してQGISソフトウェアとやり取りでき、さまざまなタスクを完了するために必要な時間と労力を大幅に削減できます。
  * [dify](https://github.com/langgenius/dify) - プラグインとデータセットのための1つのAPI、プロンプトエンジニアリングとビジュアル操作のための1つのインターフェース、すべてが強力なAIアプリケーションを作成するためにあります。
  * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - ChatGPT検索プラグインを使用すると、自然言語で質問することで、個人または仕事の文書を簡単に見つけることができます。
+ * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 複数のストアからPCゲームの最新情報を取得するChatGPTプラグイン。Cheapsharkによって提供されます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -568,6 +550,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 |[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
+|[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CyrisXD/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
 
 
 ## CLIs
@@ -969,7 +952,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
 |[pyllms](https://github.com/kagisearch/pyllms)|![GitHub Repo stars](https://img.shields.io/github/stars/kagisearch/pyllms?style=social)|Python|mit|
 |[llm-numbers](https://github.com/ray-project/llm-numbers)|![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|-|-|
-|[StructGPT](https://github.com/rucaibox/structgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/StructGPT?style=social)|Python|apache-2.0|
+|[StructGPT](https://github.com/rucaibox/structgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/rucaibox/StructGPT?style=social)|Python|apache-2.0|
 |[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
 |[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
@@ -1013,6 +996,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - マルチモーダル-GPT
  * [snowChat](https://github.com/kaarthik108/snowchat) - あなたのスノーフレークデータベースでチャット - テキストからSQLへ
  * [DB-GPT](https://github.com/csunny/db-gpt) - ローカルGPTを使用して、データと環境をインタラクトし、データ漏洩なし、100％プライバシー、100％セキュリティを実現します。
+ * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPTのためのリポジトリ、中国法律知識に調整された中国ラマ。中文法律知識に基づく大規模言語モデル。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1053,6 +1037,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
+|[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -1234,7 +1219,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
 |[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
 |[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
-|[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/cosmosdb-chatgpt?style=social)|HTML|mit|
+|[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 
 
 ## Others
@@ -1424,6 +1409,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [menubar](https://github.com/smol-ai/menubar) - チャットGPT/Bard/Claudeへのゼロレイテンシーアクセスが可能なメニューバー！A/Bテストを行ったり、バックグラウンドで使用したりできます。私は1日に20回使用しています。
  * [quivr](https://github.com/stangirard/quivr) - あなたのファイルや思考をすべてGenerativeAI Second Brainにダンプして、それとチャットしてください。
  * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam：オープンソースのマルチエージェントシミュレーション
+ * [learnGPT](https://github.com/dadukhankevin/learngpt) - Quizletの代替となる、無料でオープンソースで、AIを搭載したもの。
+ * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 「ガールフレンドGPT」は、ChatGPT4.0を使用して自分自身のAIガールフレンドを作成するためのPythonプロジェクトです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1609,7 +1596,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 |[fastGPT](https://github.com/certik/fastgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/certik/fastGPT?style=social)|Fortran|mit|
 |[menubar](https://github.com/smol-ai/menubar)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/menubar?style=social)|HTML|mit|
-|[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quivr?style=social)|Python|apache-2.0|
+|[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/quivr?style=social)|Python|apache-2.0|
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
+|[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
+|[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/EniasCailliau/GirlfriendGPT?style=social)|Python|-|
 
 

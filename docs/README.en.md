@@ -16,39 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AI-Powered Assistant Gem right in your Rails console. Full power of ChatGPT in Rails
-
-
 **Browser-extensions**
- * [dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
- * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+ * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - ChatGPT plugin to get the current deals on PC games from multiple stores. Powered by Cheapshark
 
 
-**Reimplementations**
- * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
-
-
-**NLP**
- * [StructGPT](https://github.com/rucaibox/structgpt) - The code and data for "StructGPT: A general framework for Large Language Model to Reason on Structured Data"
- * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
- * [zeno-build](https://github.com/zeno-ml/zeno-build) - Build, evaluate, analyze, and understand LLM-based apps
- * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
-
-
-**Openai**
- * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - ChatGPT in Jetpack Compose using OpenAI API
- * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service
+**Langchain**
+ * [LaWGPT](https://github.com/pengxiao-song/lawgpt) -  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 
 
 **Others**
- * [quivr](https://github.com/stangirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
- * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam: An open-source multi-agent simulation
+ * [learnGPT](https://github.com/dadukhankevin/learngpt) - A free, open source, AI powered alternative to Quizlet.
+ * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
 
 
-_Updated on May 23, 2023_ (A total of 708 repositories listed.)
-
-🏅 [yzh990918](https://github.com/yzh990918) provided some repository information. Thank you!
+_Updated on May 24, 2023_ (A total of 712 repositories listed.)
 
 ## Table of contents
 
@@ -480,6 +461,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
  * [QGPTAgent](https://github.com/momaabna/qgptagent) - The QGPT Agent is a powerful plugin for QGIS that utilizes the advanced natural language processing capabilities of the OpenAI GPT model to automate various processes in QGIS. With this plugin, users can interact with the QGIS software using natural language commands, significantly reducing the time and effort required to complete various tasks.
  * [dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
  * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+ * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - ChatGPT plugin to get the current deals on PC games from multiple stores. Powered by Cheapshark
 
 
 |Name|GitHub Stars|Language|License|
@@ -563,6 +545,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
 |[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 |[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
+|[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CyrisXD/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
 
 
 ## CLIs
@@ -961,7 +944,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
 |[developer](https://github.com/smol-ai/developer)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/developer?style=social)|Python|mit|
 |[pyllms](https://github.com/kagisearch/pyllms)|![GitHub Repo stars](https://img.shields.io/github/stars/kagisearch/pyllms?style=social)|Python|mit|
 |[llm-numbers](https://github.com/ray-project/llm-numbers)|![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/llm-numbers?style=social)|-|-|
-|[StructGPT](https://github.com/rucaibox/structgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/RUCAIBox/StructGPT?style=social)|Python|apache-2.0|
+|[StructGPT](https://github.com/rucaibox/structgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/rucaibox/StructGPT?style=social)|Python|apache-2.0|
 |[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
 |[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
@@ -1005,6 +988,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
  * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - Multimodal-GPT
  * [snowChat](https://github.com/kaarthik108/snowchat) - Chat on you're snowflake database - Text to SQL
  * [DB-GPT](https://github.com/csunny/db-gpt) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
+ * [LaWGPT](https://github.com/pengxiao-song/lawgpt) -  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 
 
 |Name|GitHub Stars|Language|License|
@@ -1045,6 +1029,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
 |[Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/Multimodal-GPT?style=social)|Python|apache-2.0|
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
+|[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -1226,7 +1211,7 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
 |[chatgpt-demo](https://github.com/anse-app/chatgpt-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/anse-app/chatgpt-demo?style=social)|TypeScript|mit|
 |[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
 |[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
-|[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/cosmosdb-chatgpt?style=social)|HTML|mit|
+|[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 
 
 ## Others
@@ -1414,6 +1399,8 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
  * [menubar](https://github.com/smol-ai/menubar) - a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.
  * [quivr](https://github.com/stangirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
  * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam: An open-source multi-agent simulation
+ * [learnGPT](https://github.com/dadukhankevin/learngpt) - A free, open source, AI powered alternative to Quizlet.
+ * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
 
 
 |Name|GitHub Stars|Language|License|
@@ -1599,7 +1586,9 @@ _Updated on May 23, 2023_ (A total of 708 repositories listed.)
 |[ChatALL](https://github.com/sunner/chatall)|![GitHub Repo stars](https://img.shields.io/github/stars/sunner/ChatALL?style=social)|JavaScript|apache-2.0|
 |[fastGPT](https://github.com/certik/fastgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/certik/fastGPT?style=social)|Fortran|mit|
 |[menubar](https://github.com/smol-ai/menubar)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/menubar?style=social)|HTML|mit|
-|[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/StanGirard/quivr?style=social)|Python|apache-2.0|
+|[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/quivr?style=social)|Python|apache-2.0|
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
+|[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
+|[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/EniasCailliau/GirlfriendGPT?style=social)|Python|-|
 
 
