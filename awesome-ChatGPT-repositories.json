@@ -1,5 +1,5 @@
 {
-    "version": "2.0.0",
+    "version": "2.1.0",
     "contents": {
         "Awesome-lists": {
             "https://github.com/f/awesome-chatgpt-prompts": {
@@ -1187,7 +1187,13 @@
                     "node_id": "MDc6TGljZW5zZTI="
                 },
                 "description": "RecurrentGPT: Interactive Generation of (Arbitrarily) Long TextGenerates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. repo:  abs:  ",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "RecurrentGPT: Interactive Generation of (Arbitrarily) Long TextGenerates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. repo:  abs:  ",
+                    "ja": "RecurrentGPT：（任意に）長いテキストのインタラクティブ生成\n各タイムステップで段落を生成し、それぞれハードドライブとプロンプトに保存された言語ベースの長期・短期メモリを更新します。リポジトリ：abs：",
+                    "zh-hans": "RecurrentGPT：交互式生成（任意长度的）长文本。每个时间步生成一个段落，并分别更新存储在硬盘和提示中的基于语言的长短期记忆。仓库：abs：",
+                    "zh-hant": "RecurrentGPT：互動生成（任意）長文本，每個時間步生成一段落，並分別更新存儲在硬盤和提示中的基於語言的長短期記憶。存儲庫：abs："
+                }
             }
         },
         "Chatbots": {
@@ -2956,7 +2962,13 @@
                     "gpt-35-turbo",
                     "whisper-ai",
                     "windows"
-                ]
+                ],
+                "multilingual_descriptions": {
+                    "en": "Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.",
+                    "ja": "Ecouteは、ユーザーのマイク入力（You）とスピーカー出力（Speaker）の両方に対して、リアルタイムのテキストトランスクリプトを提供するライブトランスクリプションツールです。また、会話のライブトランスクリプションに基づいて、OpenAIのGPT-3.5を使用してユーザーが言うべき推奨応答を生成します。",
+                    "zh-hans": "Ecoute是一款实时转录工具，可以为用户的麦克风输入（您）和扬声器输出（扬声器）提供实时转录，并在文本框中生成使用OpenAI的GPT-3.5的建议响应。它基于对话的实时转录为用户提供要说的建议。",
+                    "zh-hant": "Ecoute是一個即時轉錄工具，可以為使用者的麥克風輸入（您）和使用者的揚聲器輸出（揚聲器）提供即時轉錄，並在文本框中生成使用OpenAI的GPT-3.5的建議回應，該回應基於對話的即時轉錄。"
+                }
             }
         },
         "Browser-extensions": {
@@ -4494,7 +4506,13 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "Scott Guthrie の基調講演で紹介された OpenAI プラグインのサンプルコードChatGPT Plugin Quickstart using Python and FastAPI #MSBuild",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Scott Guthrie の基調講演で紹介された OpenAI プラグインのサンプルコードChatGPT Plugin Quickstart using Python and FastAPI #MSBuild",
+                    "ja": "Scott Guthrie氏の基調講演で紹介されたOpenAIプラグインのサンプルコード、ChatGPT Plugin Quickstart using Python and FastAPI #MSBuild です。",
+                    "zh-hans": "在 Scott Guthrie 的主题演讲中介绍的 OpenAI 插件示例代码ChatGPT Plugin Quickstart，使用 Python 和 FastAPI #MSBuild。",
+                    "zh-hant": "在 Scott Guthrie 的主題演講中介紹的 OpenAI 插件示例代碼ChatGPT Plugin Quickstart using Python and FastAPI #MSBuild。"
+                }
             },
             "https://github.com/banbri/chatgpt-plugins-searchable": {
                 "repository_name": "ChatGPT-Plugins-Searchable",
@@ -4508,7 +4526,13 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "Make your ChatGPT Plugin store searchable.让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Make your ChatGPT Plugin store searchable.让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable",
+                    "ja": "あなたのChatGPTプラグインストアを検索可能にしてください。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable",
+                    "zh-hans": "让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable",
+                    "zh-hant": "讓你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable"
+                }
             }
         },
         "CLIs": {
@@ -7992,7 +8016,13 @@
                     "node_id": "MDc6TGljZW5zZTEz"
                 },
                 "description": "Chat with Document(s) using ChatGPT API and Text Embedding",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Chat with Document(s) using ChatGPT API and Text Embedding",
+                    "ja": "ChatGPT APIとテキスト埋め込みを使用してドキュメントとチャットする。",
+                    "zh-hans": "使用ChatGPT API和文本嵌入与文档进行聊天",
+                    "zh-hant": "使用ChatGPT API和文本嵌入與文件進行聊天"
+                }
             }
         },
         "Langchain": {
