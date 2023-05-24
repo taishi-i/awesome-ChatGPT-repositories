@@ -1174,6 +1174,20 @@
                     "zh-hans": "🔥中文提示精选🔥，ChatGPT使用指南，提升ChatGPT可玩性和可用性！🚀",
                     "zh-hant": "🔥中文提示精選🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀"
                 }
+            },
+            "https://github.com/aiwaves-cn/recurrentgpt": {
+                "repository_name": "RecurrentGPT",
+                "user_name": "aiwaves-cn",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "RecurrentGPT: Interactive Generation of (Arbitrarily) Long TextGenerates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. repo:  abs:  ",
+                "topics": []
             }
         },
         "Chatbots": {
@@ -2925,6 +2939,24 @@
                     "zh-hans": "在你的Rails控制台中使用AI助手Gem。在Rails中完全发挥ChatGPT的功能。",
                     "zh-hant": "AI 助手 Gem，直接在您的 Rails 控制台中使用。在 Rails 中充分发挥 ChatGPT 的功能。"
                 }
+            },
+            "https://github.com/sevask/ecoute": {
+                "repository_name": "ecoute",
+                "user_name": "SevaSk",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.",
+                "topics": [
+                    "gpt-35-turbo",
+                    "whisper-ai",
+                    "windows"
+                ]
             }
         },
         "Browser-extensions": {
@@ -4442,6 +4474,40 @@
                     "node_id": "MDc6TGljZW5zZTk="
                 },
                 "description": "ChatGPT plugin to get the current deals on PC games from multiple stores. Powered by Cheapshark",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT plugin to get the current deals on PC games from multiple stores. Powered by Cheapshark",
+                    "ja": "複数のストアからPCゲームの最新情報を取得するChatGPTプラグイン。Cheapsharkによって提供されます。",
+                    "zh-hans": "使用ChatGPT插件，从多个商店获取PC游戏的最新优惠。由Cheapshark提供支持。",
+                    "zh-hant": "輸入：ChatGPT插件，可從多個商店獲取PC遊戲的最新優惠。由Cheapshark提供支持。"
+                }
+            },
+            "https://github.com/azure-samples/openai-plugin-fastapi": {
+                "repository_name": "openai-plugin-fastapi",
+                "user_name": "Azure-Samples",
+                "language": "Bicep",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Scott Guthrie の基調講演で紹介された OpenAI プラグインのサンプルコードChatGPT Plugin Quickstart using Python and FastAPI #MSBuild",
+                "topics": []
+            },
+            "https://github.com/banbri/chatgpt-plugins-searchable": {
+                "repository_name": "ChatGPT-Plugins-Searchable",
+                "user_name": "banbri",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Make your ChatGPT Plugin store searchable.让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable",
                 "topics": []
             }
         },
@@ -7913,6 +7979,20 @@
                     "zh-hans": "使用GPT的强大功能私密地与您的文档互动，100％私密，无数据泄漏。",
                     "zh-hant": "使用GPT的強大功能私下與您的文件互動，100％私密，無數據洩漏。"
                 }
+            },
+            "https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding": {
+                "repository_name": "Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding",
+                "user_name": "Appointat",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Chat with Document(s) using ChatGPT API and Text Embedding",
+                "topics": []
             }
         },
         "Langchain": {
@@ -8623,7 +8703,13 @@
                 "language": "Python",
                 "license": null,
                 "description": " 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": " 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型",
+                    "ja": "🎉 LaWGPTのためのリポジトリ、中国法律知識に調整された中国ラマ。中文法律知識に基づく大規模言語モデル。",
+                    "zh-hans": "🎉 LaWGPT仓库，中文羊驼调整的中文法律知识模型。基于中文法律知识的大语言模型。",
+                    "zh-hant": "🎉 LaWGPT 儲存庫，中國駝峰調整，搭載中國法律知識的大型語言模型。"
+                }
             }
         },
         "Unity": {
@@ -13374,7 +13460,13 @@
                 "language": "Svelte",
                 "license": null,
                 "description": "A free, open source, AI powered alternative to Quizlet.",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A free, open source, AI powered alternative to Quizlet.",
+                    "ja": "Quizletの代替となる、無料でオープンソースで、AIを搭載したもの。",
+                    "zh-hans": "一个免费、开源、由人工智能驱动的Quizlet替代品。",
+                    "zh-hant": "一個免費、開源、由人工智慧驅動的Quizlet替代方案。"
+                }
             },
             "https://github.com/eniascailliau/girlfriendgpt": {
                 "repository_name": "GirlfriendGPT",
@@ -13382,7 +13474,13 @@
                 "language": "Python",
                 "license": null,
                 "description": "Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0",
-                "topics": []
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0",
+                    "ja": "「ガールフレンドGPT」は、ChatGPT4.0を使用して自分自身のAIガールフレンドを作成するためのPythonプロジェクトです。",
+                    "zh-hans": "女友GPT是一个使用ChatGPT4.0构建自己的AI女友的Python项目。",
+                    "zh-hant": "女友GPT是一個Python項目，使用ChatGPT4.0建立自己的人工智能女友。"
+                }
             }
         }
     }
