@@ -15,20 +15,27 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT：（任意に）長いテキストのインタラクティブ生成
+各タイムステップで段落を生成し、それぞれハードドライブとプロンプトに保存された言語ベースの長期・短期メモリを更新します。リポジトリ：abs：
+
+
+**Chatbots**
+ * [ecoute](https://github.com/sevask/ecoute) - Ecouteは、ユーザーのマイク入力（You）とスピーカー出力（Speaker）の両方に対して、リアルタイムのテキストトランスクリプトを提供するライブトランスクリプションツールです。また、会話のライブトランスクリプションに基づいて、OpenAIのGPT-3.5を使用してユーザーが言うべき推奨応答を生成します。
+
+
 **Browser-extensions**
- * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 複数のストアからPCゲームの最新情報を取得するChatGPTプラグイン。Cheapsharkによって提供されます。
+ * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - Scott Guthrie氏の基調講演で紹介されたOpenAIプラグインのサンプルコード、ChatGPT Plugin Quickstart using Python and FastAPI #MSBuild です。
+ * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - あなたのChatGPTプラグインストアを検索可能にしてください。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
 
 
-**Langchain**
- * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPTのためのリポジトリ、中国法律知識に調整された中国ラマ。中文法律知識に基づく大規模言語モデル。
+**NLP**
+ * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - ChatGPT APIとテキスト埋め込みを使用してドキュメントとチャットする。
 
 
-**Others**
- * [learnGPT](https://github.com/dadukhankevin/learngpt) - Quizletの代替となる、無料でオープンソースで、AIを搭載したもの。
- * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 「ガールフレンドGPT」は、ChatGPT4.0を使用して自分自身のAIガールフレンドを作成するためのPythonプロジェクトです。
+_Updated on May 25, 2023_ (A total of 717 repositories listed.)
 
-
-_Updated on May 24, 2023_ (A total of 712 repositories listed.)
+🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -139,6 +146,8 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用なGPTプロンプト
  * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - OpenAIのGPT-4のような大規模言語モデルを扱うためのヒントやトリック。
  * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文プロンプト精選🔥、ChatGPT使用ガイド、ChatGPTのプレイ性と利用性を向上させよう！🚀
+ * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT：（任意に）長いテキストのインタラクティブ生成
+各タイムステップで段落を生成し、それぞれハードドライブとプロンプトに保存された言語ベースの長期・短期メモリを更新します。リポジトリ：abs：
 
 
 |Name|GitHub Stars|Language|License|
@@ -192,6 +201,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
 |[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
+|[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
@@ -289,6 +299,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - チャットボットサービスとしてのLLM
  * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自己追跡データの分析：インタラクティブな可視化と予測アルゴリズム
  * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AIパワードアシスタントGemがあなたのRailsコンソールに直接組み込まれています。ChatGPTのフルパワーをRailsで利用できます。
+ * [ecoute](https://github.com/sevask/ecoute) - Ecouteは、ユーザーのマイク入力（You）とスピーカー出力（Speaker）の両方に対して、リアルタイムのテキストトランスクリプトを提供するライブトランスクリプションツールです。また、会話のライブトランスクリプションに基づいて、OpenAIのGPT-3.5を使用してユーザーが言うべき推奨応答を生成します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -383,6 +394,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 |[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
+|[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/SevaSk/ecoute?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -467,6 +479,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [dify](https://github.com/langgenius/dify) - プラグインとデータセットのための1つのAPI、プロンプトエンジニアリングとビジュアル操作のための1つのインターフェース、すべてが強力なAIアプリケーションを作成するためにあります。
  * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - ChatGPT検索プラグインを使用すると、自然言語で質問することで、個人または仕事の文書を簡単に見つけることができます。
  * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 複数のストアからPCゲームの最新情報を取得するChatGPTプラグイン。Cheapsharkによって提供されます。
+ * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - Scott Guthrie氏の基調講演で紹介されたOpenAIプラグインのサンプルコード、ChatGPT Plugin Quickstart using Python and FastAPI #MSBuild です。
+ * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - あなたのChatGPTプラグインストアを検索可能にしてください。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
 
 
 |Name|GitHub Stars|Language|License|
@@ -550,7 +564,9 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 |[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
-|[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CyrisXD/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
+|[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cyrisxd/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
+|[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/openai-plugin-fastapi?style=social)|Bicep|mit|
+|[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -845,6 +861,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - ChatGPTのような強力な言語モデルをscikit-learnにシームレスに統合して、テキスト分析タスクを強化します。
  * [zeno-build](https://github.com/zeno-ml/zeno-build) - LLMベースのアプリを構築し、評価し、分析し、理解する。
  * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - GPTの力を使って、100％プライベートで、データ漏洩の心配なしに文書とプライベートにやり取りできます。
+ * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - ChatGPT APIとテキスト埋め込みを使用してドキュメントとチャットする。
 
 
 |Name|GitHub Stars|Language|License|
@@ -956,6 +973,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
 |[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
+|[Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1599,6 +1617,6 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/quivr?style=social)|Python|apache-2.0|
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
-|[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/EniasCailliau/GirlfriendGPT?style=social)|Python|-|
+|[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
 
 

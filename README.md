@@ -18,20 +18,26 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT: Interactive Generation of (Arbitrarily) Long TextGenerates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. repo:  abs:  
+
+
+**Chatbots**
+ * [ecoute](https://github.com/sevask/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
+
+
 **Browser-extensions**
- * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - ChatGPT plugin to get the current deals on PC games from multiple stores. Powered by Cheapshark
+ * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - Scott Guthrie の基調講演で紹介された OpenAI プラグインのサンプルコードChatGPT Plugin Quickstart using Python and FastAPI #MSBuild
+ * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - Make your ChatGPT Plugin store searchable.让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
 
 
-**Langchain**
- * [LaWGPT](https://github.com/pengxiao-song/lawgpt) -  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
+**NLP**
+ * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - Chat with Document(s) using ChatGPT API and Text Embedding
 
 
-**Others**
- * [learnGPT](https://github.com/dadukhankevin/learngpt) - A free, open source, AI powered alternative to Quizlet.
- * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
+_Updated on May 25, 2023_ (A total of 717 repositories listed.)
 
-
-_Updated on May 24, 2023_ (A total of 712 repositories listed.)
+🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -139,6 +145,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - Useful GPT Prompts
  * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
  * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+ * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT: Interactive Generation of (Arbitrarily) Long TextGenerates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. repo:  abs:  
 
 
 |Name|GitHub Stars|Language|License|
@@ -192,11 +199,11 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
 |[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
+|[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
 
- * [TraceTalk](https://github.com/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding) - TraceTalk: Engage in conversations with over 400 machine learning documents, capable of indicating the data source in its responses, better quality than New Bing in Machine Learning.
  * [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
  * [Open-Assistant](https://github.com/laion-ai/open-assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
  * [FastChat](https://github.com/lm-sys/fastchat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
@@ -287,11 +294,11 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
  * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM as a Chatbot Service
  * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - Analysis of self-tracked data: interactive visualizations & predictive algorithms
  * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AI-Powered Assistant Gem right in your Rails console. Full power of ChatGPT in Rails
+ * [ecoute](https://github.com/sevask/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
 
 
 |Name|GitHub Stars|Language|License|
 -|-|-|-
-|[TraceTalk](https://github.com/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
 |[gpt4all](https://github.com/nomic-ai/gpt4all)|![GitHub Repo stars](https://img.shields.io/github/stars/nomic-ai/gpt4all?style=social)|Python|-|
 |[Open-Assistant](https://github.com/laion-ai/open-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/laion-ai/Open-Assistant?style=social)|Python|apache-2.0|
 |[FastChat](https://github.com/lm-sys/fastchat)|![GitHub Repo stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social)|Python|apache-2.0|
@@ -382,6 +389,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 |[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
+|[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/SevaSk/ecoute?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -466,6 +474,8 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
  * [dify](https://github.com/langgenius/dify) - One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.
  * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
  * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - ChatGPT plugin to get the current deals on PC games from multiple stores. Powered by Cheapshark
+ * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - Scott Guthrie の基調講演で紹介された OpenAI プラグインのサンプルコードChatGPT Plugin Quickstart using Python and FastAPI #MSBuild
+ * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - Make your ChatGPT Plugin store searchable.让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
 
 
 |Name|GitHub Stars|Language|License|
@@ -549,7 +559,9 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 |[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 |[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
-|[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CyrisXD/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
+|[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cyrisxd/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
+|[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/openai-plugin-fastapi?style=social)|Bicep|mit|
+|[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -841,6 +853,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
  * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
  * [zeno-build](https://github.com/zeno-ml/zeno-build) - Build, evaluate, analyze, and understand LLM-based apps
  * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+ * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - Chat with Document(s) using ChatGPT API and Text Embedding
 
 
 |Name|GitHub Stars|Language|License|
@@ -952,6 +965,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 |[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
 |[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
+|[Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1593,6 +1607,6 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 |[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/quivr?style=social)|Python|apache-2.0|
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
-|[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/EniasCailliau/GirlfriendGPT?style=social)|Python|-|
+|[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
 
 
