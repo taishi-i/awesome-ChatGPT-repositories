@@ -15,20 +15,26 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - 透過使用 GPT 來生成 (任意) 長文本. 在每個時間步中生成一段文字,並更新存儲在硬和提示符上的語言型長短記憶體.
+
+
+**Chatbots**
+ * [ecoute](https://github.com/sevask/ecoute) - 聽取是一個實時轉錄工具,提供實時轉錄, 既是用戶的麥克風輸入 (你) 和使用者發音器輸出 (發音器) 在文字框中. 它也生成使用OpenAI的GPT-3.5的建議回應, 用戶可以說, 基于對話的實時轉錄.
+
+
 **Browser-extensions**
- * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 提供多個商店的PC遊戲最新優惠.
+ * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - 該程式的原始碼是:
+ * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - 讓您的ChatGPT插件商店支持搜索.https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
 
 
-**Langchain**
- * [LaWGPT](https://github.com/pengxiao-song/lawgpt) -  檢查對話: 法律知識與中國法律知識相符的中國拉馬.
+**NLP**
+ * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - 使用ChatGPT API和文字嵌入進行文檔聊天
 
 
-**Others**
- * [learnGPT](https://github.com/dadukhankevin/learngpt) - 提供免費,開放源代碼,
- * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 朋友GPT是一個Python項目,
+_Updated on May 25, 2023_ (A total of 717 repositories listed.)
 
-
-_Updated on May 24, 2023_ (A total of 712 repositories listed.)
+🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -138,6 +144,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - 有用的 GPT 提示
  * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - 使用大型語言模型（如OpenAI的GPT-4）的技巧和訣竅。
  * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文提示精選🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
+ * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT：互動生成（任意）長文本，每個時間步生成一段落，並分別更新存儲在硬盤和提示中的基於語言的長短期記憶。存儲庫：abs：
 
 
 |Name|GitHub Stars|Language|License|
@@ -191,6 +198,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 |[GPT-Prompts](https://github.com/jesselau76/gpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/jesselau76/GPT-Prompts?style=social)|-|gpl-3.0|
 |[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
+|[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
@@ -286,6 +294,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
  * [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - LLM作為聊天機器人服務
  * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自我追蹤數據分析：互動式視覺化和預測算法
  * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AI 助手 Gem，直接在您的 Rails 控制台中使用。在 Rails 中充分发挥 ChatGPT 的功能。
+ * [ecoute](https://github.com/sevask/ecoute) - Ecoute是一個即時轉錄工具，可以為使用者的麥克風輸入（您）和使用者的揚聲器輸出（揚聲器）提供即時轉錄，並在文本框中生成使用OpenAI的GPT-3.5的建議回應，該回應基於對話的即時轉錄。
 
 
 |Name|GitHub Stars|Language|License|
@@ -380,6 +389,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 |[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
+|[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/SevaSk/ecoute?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -464,6 +474,8 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
  * [dify](https://github.com/langgenius/dify) - 一個API用於插件和數據集，一個界面用於提示工程和視覺操作，所有這些都是為了創建強大的人工智能應用程序。
  * [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase) - ChatGPT 檔案檢索插件讓您可以用自然語言輕鬆地查找個人或工作文件。
  * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 輸入：ChatGPT插件，可從多個商店獲取PC遊戲的最新優惠。由Cheapshark提供支持。
+ * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - 在 Scott Guthrie 的主題演講中介紹的 OpenAI 插件示例代碼ChatGPT Plugin Quickstart using Python and FastAPI #MSBuild。
+ * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - 讓你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
 
 
 |Name|GitHub Stars|Language|License|
@@ -547,7 +559,9 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 |[QGPTAgent](https://github.com/momaabna/qgptagent)|![GitHub Repo stars](https://img.shields.io/github/stars/momaabna/QGPTAgent?style=social)|Python|-|
 |[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
-|[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CyrisXD/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
+|[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cyrisxd/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
+|[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/openai-plugin-fastapi?style=social)|Bicep|mit|
+|[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -849,6 +863,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
  * [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - 無縫地將強大的語言模型（如ChatGPT）整合到scikit-learn中，以增強文本分析任務。
  * [zeno-build](https://github.com/zeno-ml/zeno-build) - 建立、評估、分析和理解基於LLM的應用程式
  * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - 使用GPT的強大功能私下與您的文件互動，100％私密，無數據洩漏。
+ * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - 使用ChatGPT API和文本嵌入與文件進行聊天
 
 
 |Name|GitHub Stars|Language|License|
@@ -960,6 +975,7 @@ _Updated on May 24, 2023_ (A total of 712 repositories listed.)
 |[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
 |[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
+|[Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1612,6 +1628,6 @@ add chatgpt to your groupchats:
 |[quivr](https://github.com/stangirard/quivr)|![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/quivr?style=social)|Python|apache-2.0|
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
-|[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/EniasCailliau/GirlfriendGPT?style=social)|Python|-|
+|[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
 
 
