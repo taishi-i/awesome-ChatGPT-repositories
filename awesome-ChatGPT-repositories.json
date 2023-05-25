@@ -5954,6 +5954,26 @@
                     "zh-hans": "OpenAI的ChatGPT代码解释器的开源实现",
                     "zh-hant": "一個開源實現OpenAI的ChatGPT代碼解釋器的項目"
                 }
+            },
+            "https://github.com/zeqiang-lai/draggan": {
+                "repository_name": "DragGAN",
+                "user_name": "Zeqiang-Lai",
+                "language": "Python",
+                "license": null,
+                "description": "Online Demo and Implementation of DragGAN - \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\"",
+                "topics": [
+                    "draggan",
+                    "gradio-interface",
+                    "image-editing",
+                    "image-generation",
+                    "interngpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Online Demo and Implementation of DragGAN - \"Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\"",
+                    "ja": "DragGANのオンラインデモと実装 - 「Drag Your GAN：生成画像マニフォールド上のインタラクティブなポイントベースの操作」",
+                    "zh-hans": "在线演示和实现DragGAN - “拖动您的GAN：在生成图像流形上进行交互式基于点的操作”",
+                    "zh-hant": "DragGAN 的線上演示和實現 - 「拖動您的 GAN：在生成圖像流形上進行交互式基於點的操作」。"
+                }
             }
         },
         "Tutorials": {
@@ -8023,6 +8043,54 @@
                     "zh-hans": "使用ChatGPT API和文本嵌入与文档进行聊天",
                     "zh-hant": "使用ChatGPT API和文本嵌入與文件進行聊天"
                 }
+            },
+            "https://github.com/artidoro/qlora": {
+                "repository_name": "qlora",
+                "user_name": "artidoro",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "QLoRA: Efficient Finetuning of Quantized LLMs",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "QLoRA: Efficient Finetuning of Quantized LLMs",
+                    "ja": "QLoRA：量子化されたLLMの効率的なファインチューニング",
+                    "zh-hans": "QLoRA：量化LLM的高效微调",
+                    "zh-hant": "QLoRA：量化LLM的高效微調"
+                }
+            },
+            "https://github.com/e-johnstonn/briefgpt": {
+                "repository_name": "BriefGPT",
+                "user_name": "e-johnstonn",
+                "language": "Python",
+                "license": null,
+                "description": "Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.",
+                    "ja": "シンプルなGUIを備えた、文書をLLMに接続して要約やクエリを行うためのローカルホストツール。",
+                    "zh-hans": "本地托管工具，可将文档连接到LLMs以进行摘要和查询，具有简单的GUI界面。",
+                    "zh-hant": "本地主機工具，可將文件連接到LLMs進行摘要和查詢，具有簡單的GUI。"
+                }
+            },
+            "https://github.com/mbzuai-oryx/xraygpt": {
+                "repository_name": "XrayGPT",
+                "user_name": "mbzuai-oryx",
+                "language": "Python",
+                "license": null,
+                "description": "XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models.",
+                    "ja": "XrayGPT：医療ビジョン言語モデルを使用した胸部レントゲン写真の要約。",
+                    "zh-hans": "XrayGPT：使用医学视觉语言模型的胸部X光摘要。",
+                    "zh-hant": "XrayGPT：使用醫學視覺語言模型進行胸部X光攝影摘要。"
+                }
             }
         },
         "Langchain": {
@@ -8739,6 +8807,47 @@
                     "ja": "🎉 LaWGPTのためのリポジトリ、中国法律知識に調整された中国ラマ。中文法律知識に基づく大規模言語モデル。",
                     "zh-hans": "🎉 LaWGPT仓库，中文羊驼调整的中文法律知识模型。基于中文法律知识的大语言模型。",
                     "zh-hant": "🎉 LaWGPT 儲存庫，中國駝峰調整，搭載中國法律知識的大型語言模型。"
+                }
+            },
+            "https://github.com/opengvlab/interngpt": {
+                "repository_name": "InternGPT",
+                "user_name": "OpenGVLab",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com",
+                "topics": [
+                    "chatgpt",
+                    "click",
+                    "draggan",
+                    "foundation-model",
+                    "gpt",
+                    "gpt-4",
+                    "gradio",
+                    "husky",
+                    "image-captioning",
+                    "imagebind",
+                    "internimage",
+                    "langchain",
+                    "llama",
+                    "llm",
+                    "multimodal",
+                    "sam",
+                    "segment-anything",
+                    "vicuna",
+                    "video-generation",
+                    "vqa"
+                ],
+                "multilingual_descriptions": {
+                    "en": "InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com",
+                    "ja": "InternGPT（iGPT）は、AIモデルを簡単に展示できるオープンソースのデモプラットフォームです。現在、DragGAN、ChatGPT、ImageBind、GPT-4のようなマルチモーダルチャット、SAM、インタラクティブな画像編集などをサポートしています。igpt.opengvlab.comでお試しください。",
+                    "zh-hans": "InternGPT（iGPT）是一个开源演示平台，您可以轻松展示您的AI模型。现在它支持DragGAN、ChatGPT、ImageBind、多模式聊天（如GPT-4、SAM）、交互式图像编辑等。请在igpt.opengvlab.com上尝试。",
+                    "zh-hant": "InternGPT（iGPT）是一個開源的演示平台，您可以輕鬆展示您的AI模型。現在它支持DragGAN、ChatGPT、ImageBind、像GPT-4、SAM、交互式圖像編輯等多模態聊天。請在igpt.opengvlab.com上嘗試。"
                 }
             }
         },
@@ -13510,6 +13619,26 @@
                     "ja": "「ガールフレンドGPT」は、ChatGPT4.0を使用して自分自身のAIガールフレンドを作成するためのPythonプロジェクトです。",
                     "zh-hans": "女友GPT是一个使用ChatGPT4.0构建自己的AI女友的Python项目。",
                     "zh-hant": "女友GPT是一個Python項目，使用ChatGPT4.0建立自己的人工智能女友。"
+                }
+            },
+            "https://github.com/illumine-labs/mr.trans": {
+                "repository_name": "Mr.trans",
+                "user_name": "Illumine-Labs",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Illuminate Minds, Transcend Learning",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Illuminate Minds, Transcend Learning",
+                    "ja": "心を照らし、学びを超越する",
+                    "zh-hans": "启迪思维，超越学习",
+                    "zh-hant": "啟迪心靈，超越學習"
                 }
             }
         }

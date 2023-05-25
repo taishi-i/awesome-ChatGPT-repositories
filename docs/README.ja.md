@@ -15,25 +15,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT：（任意に）長いテキストのインタラクティブ生成
-各タイムステップで段落を生成し、それぞれハードドライブとプロンプトに保存された言語ベースの長期・短期メモリを更新します。リポジトリ：abs：
-
-
-**Chatbots**
- * [ecoute](https://github.com/sevask/ecoute) - Ecouteは、ユーザーのマイク入力（You）とスピーカー出力（Speaker）の両方に対して、リアルタイムのテキストトランスクリプトを提供するライブトランスクリプションツールです。また、会話のライブトランスクリプションに基づいて、OpenAIのGPT-3.5を使用してユーザーが言うべき推奨応答を生成します。
-
-
-**Browser-extensions**
- * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - Scott Guthrie氏の基調講演で紹介されたOpenAIプラグインのサンプルコード、ChatGPT Plugin Quickstart using Python and FastAPI #MSBuild です。
- * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - あなたのChatGPTプラグインストアを検索可能にしてください。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
+**Reimplementations**
+ * [DragGAN](https://github.com/zeqiang-lai/draggan) - DragGANのオンラインデモと実装 - 「Drag Your GAN：生成画像マニフォールド上のインタラクティブなポイントベースの操作」
 
 
 **NLP**
- * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - ChatGPT APIとテキスト埋め込みを使用してドキュメントとチャットする。
+ * [qlora](https://github.com/artidoro/qlora) - QLoRA：量子化されたLLMの効率的なファインチューニング
+ * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - シンプルなGUIを備えた、文書をLLMに接続して要約やクエリを行うためのローカルホストツール。
+ * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT：医療ビジョン言語モデルを使用した胸部レントゲン写真の要約。
 
 
-_Updated on May 25, 2023_ (A total of 717 repositories listed.)
+**Langchain**
+ * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）は、AIモデルを簡単に展示できるオープンソースのデモプラットフォームです。現在、DragGAN、ChatGPT、ImageBind、GPT-4のようなマルチモーダルチャット、SAM、インタラクティブな画像編集などをサポートしています。igpt.opengvlab.comでお試しください。
+
+
+**Others**
+ * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 心を照らし、学びを超越する
+
+
+_Updated on May 26, 2023_ (A total of 723 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -394,7 +394,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 |[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
-|[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/SevaSk/ecoute?style=social)|Python|mit|
+|[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -565,7 +565,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
 |[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cyrisxd/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
-|[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/openai-plugin-fastapi?style=social)|Bicep|mit|
+|[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/openai-plugin-fastapi?style=social)|Bicep|mit|
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 
 
@@ -712,6 +712,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - GPT-2、DistilGPT-2、BERT、およびDistilBERTのSwift Core ML 3実装による質問応答。他のトランスフォーマーも近日公開予定！
  * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - nanoGPTに基づくStableLM/Pythia/INCITE言語モデルの実装。フラッシュアテンション、LLaMA-アダプターの微調整、事前学習をサポート。Apache 2.0ライセンス。
  * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - OpenAIのChatGPTコードインタープリターのオープンソース実装
+ * [DragGAN](https://github.com/zeqiang-lai/draggan) - DragGANのオンラインデモと実装 - 「Drag Your GAN：生成画像マニフォールド上のインタラクティブなポイントベースの操作」
 
 
 |Name|GitHub Stars|Language|License|
@@ -731,6 +732,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
+|[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/Zeqiang-Lai/DragGAN?style=social)|Python|-|
 
 
 ## Tutorials
@@ -862,6 +864,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [zeno-build](https://github.com/zeno-ml/zeno-build) - LLMベースのアプリを構築し、評価し、分析し、理解する。
  * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - GPTの力を使って、100％プライベートで、データ漏洩の心配なしに文書とプライベートにやり取りできます。
  * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - ChatGPT APIとテキスト埋め込みを使用してドキュメントとチャットする。
+ * [qlora](https://github.com/artidoro/qlora) - QLoRA：量子化されたLLMの効率的なファインチューニング
+ * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - シンプルなGUIを備えた、文書をLLMに接続して要約やクエリを行うためのローカルホストツール。
+ * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT：医療ビジョン言語モデルを使用した胸部レントゲン写真の要約。
 
 
 |Name|GitHub Stars|Language|License|
@@ -973,7 +978,10 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
 |[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
-|[Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
+|[Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
+|[qlora](https://github.com/artidoro/qlora)|![GitHub Repo stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)|Jupyter Notebook|mit|
+|[BriefGPT](https://github.com/e-johnstonn/briefgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/e-johnstonn/BriefGPT?style=social)|Python|-|
+|[XrayGPT](https://github.com/mbzuai-oryx/xraygpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT?style=social)|Python|-|
 
 
 ## Langchain
@@ -1015,6 +1023,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [snowChat](https://github.com/kaarthik108/snowchat) - あなたのスノーフレークデータベースでチャット - テキストからSQLへ
  * [DB-GPT](https://github.com/csunny/db-gpt) - ローカルGPTを使用して、データと環境をインタラクトし、データ漏洩なし、100％プライバシー、100％セキュリティを実現します。
  * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPTのためのリポジトリ、中国法律知識に調整された中国ラマ。中文法律知識に基づく大規模言語モデル。
+ * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）は、AIモデルを簡単に展示できるオープンソースのデモプラットフォームです。現在、DragGAN、ChatGPT、ImageBind、GPT-4のようなマルチモーダルチャット、SAM、インタラクティブな画像編集などをサポートしています。igpt.opengvlab.comでお試しください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1056,6 +1065,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
+|[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1429,6 +1439,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam：オープンソースのマルチエージェントシミュレーション
  * [learnGPT](https://github.com/dadukhankevin/learngpt) - Quizletの代替となる、無料でオープンソースで、AIを搭載したもの。
  * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 「ガールフレンドGPT」は、ChatGPT4.0を使用して自分自身のAIガールフレンドを作成するためのPythonプロジェクトです。
+ * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 心を照らし、学びを超越する
 
 
 |Name|GitHub Stars|Language|License|
@@ -1618,5 +1629,6 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
 |[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
+|[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/Mr.trans?style=social)|-|mit|
 
 
