@@ -18,24 +18,25 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Prompts**
- * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT: Interactive Generation of (Arbitrarily) Long TextGenerates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. repo:  abs:  
-
-
-**Chatbots**
- * [ecoute](https://github.com/sevask/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
-
-
-**Browser-extensions**
- * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - Scott Guthrie の基調講演で紹介された OpenAI プラグインのサンプルコードChatGPT Plugin Quickstart using Python and FastAPI #MSBuild
- * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - Make your ChatGPT Plugin store searchable.让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
+**Reimplementations**
+ * [DragGAN](https://github.com/zeqiang-lai/draggan) - Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
 
 
 **NLP**
- * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - Chat with Document(s) using ChatGPT API and Text Embedding
+ * [qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
+ * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
+ * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models.
 
 
-_Updated on May 25, 2023_ (A total of 717 repositories listed.)
+**Langchain**
+ * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com
+
+
+**Others**
+ * [Mr.trans](https://github.com/illumine-labs/mr.trans) - Illuminate Minds, Transcend Learning
+
+
+_Updated on May 26, 2023_ (A total of 723 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -145,7 +146,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
  * [GPT-Prompts](https://github.com/jesselau76/gpt-prompts) - Useful GPT Prompts
  * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
  * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀
- * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT: Interactive Generation of (Arbitrarily) Long TextGenerates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. repo:  abs:  
+ * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT: Interactive Generation of (Arbitrarily) Long TextGenerates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. repo:  abs:
 
 
 |Name|GitHub Stars|Language|License|
@@ -389,7 +390,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 |[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
-|[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/SevaSk/ecoute?style=social)|Python|mit|
+|[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -560,7 +561,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
 |[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cyrisxd/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
-|[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/openai-plugin-fastapi?style=social)|Bicep|mit|
+|[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/openai-plugin-fastapi?style=social)|Bicep|mit|
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 
 
@@ -707,6 +708,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
  * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
  * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
+ * [DragGAN](https://github.com/zeqiang-lai/draggan) - Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
 
 
 |Name|GitHub Stars|Language|License|
@@ -726,6 +728,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
+|[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/Zeqiang-Lai/DragGAN?style=social)|Python|-|
 
 
 ## Tutorials
@@ -854,6 +857,9 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
  * [zeno-build](https://github.com/zeno-ml/zeno-build) - Build, evaluate, analyze, and understand LLM-based apps
  * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
  * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - Chat with Document(s) using ChatGPT API and Text Embedding
+ * [qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
+ * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
+ * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models.
 
 
 |Name|GitHub Stars|Language|License|
@@ -965,7 +971,10 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
 |[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
-|[Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
+|[Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
+|[qlora](https://github.com/artidoro/qlora)|![GitHub Repo stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)|Jupyter Notebook|mit|
+|[BriefGPT](https://github.com/e-johnstonn/briefgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/e-johnstonn/BriefGPT?style=social)|Python|-|
+|[XrayGPT](https://github.com/mbzuai-oryx/xraygpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT?style=social)|Python|-|
 
 
 ## Langchain
@@ -1007,6 +1016,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
  * [snowChat](https://github.com/kaarthik108/snowchat) - Chat on you're snowflake database - Text to SQL
  * [DB-GPT](https://github.com/csunny/db-gpt) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
  * [LaWGPT](https://github.com/pengxiao-song/lawgpt) -  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
+ * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com
 
 
 |Name|GitHub Stars|Language|License|
@@ -1048,6 +1058,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
+|[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1419,6 +1430,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
  * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam: An open-source multi-agent simulation
  * [learnGPT](https://github.com/dadukhankevin/learngpt) - A free, open source, AI powered alternative to Quizlet.
  * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
+ * [Mr.trans](https://github.com/illumine-labs/mr.trans) - Illuminate Minds, Transcend Learning
 
 
 |Name|GitHub Stars|Language|License|
@@ -1608,5 +1620,6 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
 |[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
+|[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/Mr.trans?style=social)|-|mit|
 
 

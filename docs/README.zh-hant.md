@@ -15,24 +15,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - 透過使用 GPT 來生成 (任意) 長文本. 在每個時間步中生成一段文字,並更新存儲在硬和提示符上的語言型長短記憶體.
-
-
-**Chatbots**
- * [ecoute](https://github.com/sevask/ecoute) - 聽取是一個實時轉錄工具,提供實時轉錄, 既是用戶的麥克風輸入 (你) 和使用者發音器輸出 (發音器) 在文字框中. 它也生成使用OpenAI的GPT-3.5的建議回應, 用戶可以說, 基于對話的實時轉錄.
-
-
-**Browser-extensions**
- * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - 該程式的原始碼是:
- * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - 讓您的ChatGPT插件商店支持搜索.https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
+**Reimplementations**
+ * [DragGAN](https://github.com/zeqiang-lai/draggan) - 網路演示與DragGAN的實施 - "拖動你的GAN:在生成圖像多元上互動的點基操作"
 
 
 **NLP**
- * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - 使用ChatGPT API和文字嵌入進行文檔聊天
+ * [qlora](https://github.com/artidoro/qlora) - QLoRA:量化法規規的高效精準調節
+ * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - 提供簡易的圖形接口,
+ * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - 透過醫學視覺語言模型進行胸部X線影像總結.
 
 
-_Updated on May 25, 2023_ (A total of 717 repositories listed.)
+**Langchain**
+ * [InternGPT](https://github.com/opengvlab/interngpt) - 該平台支持DragGAN,ChatGPT,ImageBind,GPT-4,SAM等多式聊天,互動圖像編輯等. 在igpt.opengvlab.com試試
+
+
+**Others**
+ * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 啟發人心,超越學習
+
+
+_Updated on May 26, 2023_ (A total of 723 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -389,7 +390,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/deep-diver/LLM-As-Chatbot?style=social)|Python|apache-2.0|
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 |[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
-|[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/SevaSk/ecoute?style=social)|Python|mit|
+|[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -560,7 +561,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[dify](https://github.com/langgenius/dify)|![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)|TypeScript|other|
 |[chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin#supabase)|![GitHub Repo stars](https://img.shields.io/github/stars/openai/chatgpt-retrieval-plugin?style=social)|Python|mit|
 |[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cyrisxd/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
-|[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/openai-plugin-fastapi?style=social)|Bicep|mit|
+|[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/openai-plugin-fastapi?style=social)|Bicep|mit|
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 
 
@@ -709,6 +710,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 實現了 GPT-2、DistilGPT-2、BERT 和 DistilBERT 的問答功能。其他 Transformer 即將推出！
  * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - 基於nanoGPT的StableLM/Pythia/INCITE語言模型的實現。支持閃光注意力、LLaMA-Adapter微調和預訓練。Apache 2.0許可證。
  * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - 一個開源實現OpenAI的ChatGPT代碼解釋器的項目
+ * [DragGAN](https://github.com/zeqiang-lai/draggan) - DragGAN 的線上演示和實現 - 「拖動您的 GAN：在生成圖像流形上進行交互式基於點的操作」。
 
 
 |Name|GitHub Stars|Language|License|
@@ -728,6 +730,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
+|[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/Zeqiang-Lai/DragGAN?style=social)|Python|-|
 
 
 ## Tutorials
@@ -864,6 +867,9 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
  * [zeno-build](https://github.com/zeno-ml/zeno-build) - 建立、評估、分析和理解基於LLM的應用程式
  * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - 使用GPT的強大功能私下與您的文件互動，100％私密，無數據洩漏。
  * [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - 使用ChatGPT API和文本嵌入與文件進行聊天
+ * [qlora](https://github.com/artidoro/qlora) - QLoRA：量化LLM的高效微調
+ * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - 本地主機工具，可將文件連接到LLMs進行摘要和查詢，具有簡單的GUI。
+ * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT：使用醫學視覺語言模型進行胸部X光攝影摘要。
 
 
 |Name|GitHub Stars|Language|License|
@@ -975,7 +981,10 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[scikit-llm](https://github.com/iryna-kondr/scikit-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social)|Python|mit|
 |[zeno-build](https://github.com/zeno-ml/zeno-build)|![GitHub Repo stars](https://img.shields.io/github/stars/zeno-ml/zeno-build?style=social)|Python|mit|
 |[privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter)|![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)|Python|apache-2.0|
-|[Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/Appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
+|[Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding)|![GitHub Repo stars](https://img.shields.io/github/stars/appointat/Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding?style=social)|Python|mit|
+|[qlora](https://github.com/artidoro/qlora)|![GitHub Repo stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)|Jupyter Notebook|mit|
+|[BriefGPT](https://github.com/e-johnstonn/briefgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/e-johnstonn/BriefGPT?style=social)|Python|-|
+|[XrayGPT](https://github.com/mbzuai-oryx/xraygpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT?style=social)|Python|-|
 
 
 ## Langchain
@@ -1017,6 +1026,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
  * [snowChat](https://github.com/kaarthik108/snowchat) - 在您的雪花數據庫上聊天 - 文本轉SQL
  * [DB-GPT](https://github.com/csunny/db-gpt) - 使用本地GPT與您的數據和環境進行互動，無數據洩露，100％私密，100％安全。
  * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPT 儲存庫，中國駝峰調整，搭載中國法律知識的大型語言模型。
+ * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）是一個開源的演示平台，您可以輕鬆展示您的AI模型。現在它支持DragGAN、ChatGPT、ImageBind、像GPT-4、SAM、交互式圖像編輯等多模態聊天。請在igpt.opengvlab.com上嘗試。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1058,6 +1068,7 @@ _Updated on May 25, 2023_ (A total of 717 repositories listed.)
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
+|[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1440,6 +1451,7 @@ add chatgpt to your groupchats:
  * [GPTeam](https://github.com/101dotxyz/gpteam) - GPTeam：一個開源的多智能體模擬系統
  * [learnGPT](https://github.com/dadukhankevin/learngpt) - 一個免費、開源、由人工智慧驅動的Quizlet替代方案。
  * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 女友GPT是一個Python項目，使用ChatGPT4.0建立自己的人工智能女友。
+ * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 啟迪心靈，超越學習
 
 
 |Name|GitHub Stars|Language|License|
@@ -1629,5 +1641,6 @@ add chatgpt to your groupchats:
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
 |[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
+|[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/Mr.trans?style=social)|-|mit|
 
 
