@@ -18,25 +18,20 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [DragGAN](https://github.com/zeqiang-lai/draggan) - Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
+**CLIs**
+ * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - A conversational semi-autonomous developer assistant. AI pair programming without the copypasta.
 
 
-**NLP**
- * [qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs
- * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - Locally hosted tool that connects documents to LLMs for summarization and querying, with a simple GUI.
- * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models.
-
-
-**Langchain**
- * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com
+**Openai**
+ * [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform
 
 
 **Others**
- * [Mr.trans](https://github.com/illumine-labs/mr.trans) - Illuminate Minds, Transcend Learning
+ * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - Try out my new gem "chat_gpt_error_handler" today!It pops a (hopefully) helpful ChatGPT snippet before your error stacktrace 
+ * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT: One Model To Instruction-Follow Them All
 
 
-_Updated on May 26, 2023_ (A total of 723 repositories listed.)
+_Updated on May 27, 2023_ (A total of 727 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -626,6 +621,7 @@ _Updated on May 26, 2023_ (A total of 723 repositories listed.)
  * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilot is a CLI tool that uses OpenAI models to generate commands for the terminal and file system operations to achieve a goal.
  * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.
  * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **A free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
+ * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - A conversational semi-autonomous developer assistant. AI pair programming without the copypasta.
 
 
 |Name|GitHub Stars|Language|License|
@@ -689,6 +685,7 @@ _Updated on May 26, 2023_ (A total of 723 repositories listed.)
 |[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|TypeScript|mit|
 |[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/DelphiOpenAI?style=social)|Pascal|mit|
 |[free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub)|![GitHub Repo stars](https://img.shields.io/github/stars/akl7777777/free-chatgpt-client-pub?style=social)|JavaScript|-|
+|[duet-gpt](https://github.com/kristoferlund/duet-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)|TypeScript|mit|
 
 
 ## Reimplementations
@@ -728,7 +725,7 @@ _Updated on May 26, 2023_ (A total of 723 repositories listed.)
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
-|[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/Zeqiang-Lai/DragGAN?style=social)|Python|-|
+|[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/zeqiang-lai/DragGAN?style=social)|Python|-|
 
 
 ## Tutorials
@@ -1058,7 +1055,7 @@ _Updated on May 26, 2023_ (A total of 723 repositories listed.)
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
-|[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternGPT?style=social)|Python|apache-2.0|
+|[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1162,6 +1159,7 @@ _Updated on May 26, 2023_ (A total of 723 repositories listed.)
  * [casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
  * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - ChatGPT in Jetpack Compose using OpenAI API
  * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service
+ * [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform
 
 
 |Name|GitHub Stars|Language|License|
@@ -1241,6 +1239,7 @@ _Updated on May 26, 2023_ (A total of 723 repositories listed.)
 |[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
 |[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
 |[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
+|[ix](https://github.com/kreneskyp/ix)|![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)|Python|mit|
 
 
 ## Others
@@ -1431,6 +1430,8 @@ _Updated on May 26, 2023_ (A total of 723 repositories listed.)
  * [learnGPT](https://github.com/dadukhankevin/learngpt) - A free, open source, AI powered alternative to Quizlet.
  * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
  * [Mr.trans](https://github.com/illumine-labs/mr.trans) - Illuminate Minds, Transcend Learning
+ * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - Try out my new gem "chat_gpt_error_handler" today!It pops a (hopefully) helpful ChatGPT snippet before your error stacktrace 
+ * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT: One Model To Instruction-Follow Them All
 
 
 |Name|GitHub Stars|Language|License|
@@ -1620,6 +1621,8 @@ _Updated on May 26, 2023_ (A total of 723 repositories listed.)
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
 |[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
-|[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/Mr.trans?style=social)|-|mit|
+|[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/Mr.trans?style=social)|-|mit|
+|[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/Schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
+|[PandaGPT](https://github.com/yxuansu/pandagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/yxuansu/PandaGPT?style=social)|Python|apache-2.0|
 
 

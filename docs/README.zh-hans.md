@@ -15,25 +15,20 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [DragGAN](https://github.com/zeqiang-lai/draggan) - 在线演示和DragGAN的实施 - "拖动你的GAN:互动点基于操纵生成图像多样体"
+**CLIs**
+ * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 一个对话式半自主开发助理,没有复制片的AI对编程.
 
 
-**NLP**
- * [qlora](https://github.com/artidoro/qlora) - 量子化法规的高效精细调整
- * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - 通过简单的GUI连接文件到LLM进行总结和查询.
- * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - 通过医疗视觉语言模型进行胸部X光照总结.
-
-
-**Langchain**
- * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT (iGPT) 是一个开源演示平台,可以轻松展示你的AI模型.现在它支持DragGAN,ChatGPT,ImageBind,GPT-4,SAM,交互式图像编辑等多式交谈.试试在igpt.opengvlab.com
+**Openai**
+ * [ix](https://github.com/kreneskyp/ix) - 自主GPT-4代理平台
 
 
 **Others**
- * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 启发思想,超越学习
+ * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - 试试我的新宝石"chat_gpt_error_handler"今天!它弹出一个 (希望) 有帮助的ChatGPT片段之前你的错误堆
+ * [PandaGPT](https://github.com/yxuansu/pandagpt) - 潘达GPT:一个指导模式 - - 遵循它们
 
 
-_Updated on May 26, 2023_ (A total of 723 repositories listed.)
+_Updated on May 27, 2023_ (A total of 727 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -628,6 +623,7 @@ ChatGPT资料汇总学习，持续更新......
  * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilot是一个CLI工具，它使用OpenAI模型生成命令，以实现终端和文件系统操作的目标。
  * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - Delphi的OpenAI API客户端。使用ChatGPT、DALL-E和其他产品。
  * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - 一个免费的ChatGPT客户端，现在支持在线搜索。无需密钥，无需登录。多节点自动速度测量切换，长文翻译无字数限制，AI图形。
+ * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 一个对话式半自主开发助手。AI配对编程，无需复制粘贴。
 
 
 |Name|GitHub Stars|Language|License|
@@ -691,6 +687,7 @@ ChatGPT资料汇总学习，持续更新......
 |[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|TypeScript|mit|
 |[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/DelphiOpenAI?style=social)|Pascal|mit|
 |[free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub)|![GitHub Repo stars](https://img.shields.io/github/stars/akl7777777/free-chatgpt-client-pub?style=social)|JavaScript|-|
+|[duet-gpt](https://github.com/kristoferlund/duet-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)|TypeScript|mit|
 
 
 ## Reimplementations
@@ -730,7 +727,7 @@ ChatGPT资料汇总学习，持续更新......
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
-|[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/Zeqiang-Lai/DragGAN?style=social)|Python|-|
+|[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/zeqiang-lai/DragGAN?style=social)|Python|-|
 
 
 ## Tutorials
@@ -1067,7 +1064,7 @@ ChatGPT资料汇总学习，持续更新......
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
-|[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternGPT?style=social)|Python|apache-2.0|
+|[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1177,6 +1174,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [casdoor](https://github.com/casdoor/casdoor) - 一个由Casbin和AI网关驱动的开源身份和访问管理（IAM）/单点登录（SSO）平台，具有支持OAuth 2.0、OIDC、SAML和OpenAI ChatGPT的Web UI。
  * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - 使用OpenAI API在Jetpack Compose中实现ChatGPT
  * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - 结合Azure Cosmos DB和Azure OpenAI ChatGPT服务的示例应用程序
+ * [ix](https://github.com/kreneskyp/ix) - 自主GPT-4代理平台
 
 
 |Name|GitHub Stars|Language|License|
@@ -1256,6 +1254,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
 |[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
 |[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
+|[ix](https://github.com/kreneskyp/ix)|![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)|Python|mit|
 
 
 ## Others
@@ -1449,6 +1448,8 @@ Chat酱独立部署版，docker方案自带代理
  * [learnGPT](https://github.com/dadukhankevin/learngpt) - 一个免费、开源、由人工智能驱动的Quizlet替代品。
  * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 女友GPT是一个使用ChatGPT4.0构建自己的AI女友的Python项目。
  * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 启迪思维，超越学习
+ * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - 今天试试我的新宝石“chat_gpt_error_handler”吧！它会在错误堆栈之前弹出一个（希望有用的）ChatGPT片段。
+ * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT：一种模型，可指导所有操作
 
 
 |Name|GitHub Stars|Language|License|
@@ -1638,6 +1639,8 @@ Chat酱独立部署版，docker方案自带代理
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
 |[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
-|[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/Mr.trans?style=social)|-|mit|
+|[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/Mr.trans?style=social)|-|mit|
+|[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/Schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
+|[PandaGPT](https://github.com/yxuansu/pandagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/yxuansu/PandaGPT?style=social)|Python|apache-2.0|
 
 

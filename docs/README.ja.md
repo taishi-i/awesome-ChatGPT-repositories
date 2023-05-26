@@ -15,25 +15,20 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [DragGAN](https://github.com/zeqiang-lai/draggan) - DragGANのオンラインデモと実装 - 「Drag Your GAN：生成画像マニフォールド上のインタラクティブなポイントベースの操作」
+**CLIs**
+ * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 会話型の半自律型開発者アシスタント。コピペなしのAIペアプログラミング。
 
 
-**NLP**
- * [qlora](https://github.com/artidoro/qlora) - QLoRA：量子化されたLLMの効率的なファインチューニング
- * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - シンプルなGUIを備えた、文書をLLMに接続して要約やクエリを行うためのローカルホストツール。
- * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT：医療ビジョン言語モデルを使用した胸部レントゲン写真の要約。
-
-
-**Langchain**
- * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）は、AIモデルを簡単に展示できるオープンソースのデモプラットフォームです。現在、DragGAN、ChatGPT、ImageBind、GPT-4のようなマルチモーダルチャット、SAM、インタラクティブな画像編集などをサポートしています。igpt.opengvlab.comでお試しください。
+**Openai**
+ * [ix](https://github.com/kreneskyp/ix) - 自律型GPT-4エージェントプラットフォーム
 
 
 **Others**
- * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 心を照らし、学びを超越する
+ * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - 今日から私の新しいジェム「chat_gpt_error_handler」を試してみてください！エラースタックトレースの前に（うまくいけば）役立つChatGPTスニペットが表示されます。
+ * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT：すべてを指示に従うための1つのモデル
 
 
-_Updated on May 26, 2023_ (A total of 723 repositories listed.)
+_Updated on May 27, 2023_ (A total of 727 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -630,6 +625,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilotは、目標を達成するために、OpenAIモデルを使用してターミナルのコマンドやファイルシステム操作を生成するCLIツールです。
  * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - Delphi用のOpenAI APIクライアント。ChatGPT、DALL-Eなどの製品を使用します。
  * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - 無料のChatGPTクライアント、オンライン検索に対応。キー不要、ログイン不要。マルチノード自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスを搭載。
+ * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 会話型の半自律型開発者アシスタント。コピペなしのAIペアプログラミング。
 
 
 |Name|GitHub Stars|Language|License|
@@ -693,6 +689,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/rsaryev/auto-copilot-cli?style=social)|TypeScript|mit|
 |[DelphiOpenAI](https://github.com/hemulgm/delphiopenai)|![GitHub Repo stars](https://img.shields.io/github/stars/hemulgm/DelphiOpenAI?style=social)|Pascal|mit|
 |[free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub)|![GitHub Repo stars](https://img.shields.io/github/stars/akl7777777/free-chatgpt-client-pub?style=social)|JavaScript|-|
+|[duet-gpt](https://github.com/kristoferlund/duet-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)|TypeScript|mit|
 
 
 ## Reimplementations
@@ -732,7 +729,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/swift-coreml-transformers?style=social)|Swift|apache-2.0|
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
-|[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/Zeqiang-Lai/DragGAN?style=social)|Python|-|
+|[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/zeqiang-lai/DragGAN?style=social)|Python|-|
 
 
 ## Tutorials
@@ -1065,7 +1062,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[snowChat](https://github.com/kaarthik108/snowchat)|![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)|Python|-|
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
-|[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/InternGPT?style=social)|Python|apache-2.0|
+|[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1169,6 +1166,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [casdoor](https://github.com/casdoor/casdoor) - CasbinとAIゲートウェイを搭載したオープンソースのIdentity and Access Management（IAM）/ Single-Sign-On（SSO）プラットフォームで、OAuth 2.0、OIDC、SAML、OpenAI ChatGPTをサポートするWeb UIがあります。
  * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - OpenAI APIを使用したJetpack ComposeでのChatGPT
  * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Azure Cosmos DBとAzure OpenAI ChatGPTサービスを組み合わせたサンプルアプリケーション
+ * [ix](https://github.com/kreneskyp/ix) - 自律型GPT-4エージェントプラットフォーム
 
 
 |Name|GitHub Stars|Language|License|
@@ -1248,6 +1246,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[casdoor](https://github.com/casdoor/casdoor)|![GitHub Repo stars](https://img.shields.io/github/stars/casdoor/casdoor?style=social)|Go|apache-2.0|
 |[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
 |[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
+|[ix](https://github.com/kreneskyp/ix)|![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)|Python|mit|
 
 
 ## Others
@@ -1440,6 +1439,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [learnGPT](https://github.com/dadukhankevin/learngpt) - Quizletの代替となる、無料でオープンソースで、AIを搭載したもの。
  * [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - 「ガールフレンドGPT」は、ChatGPT4.0を使用して自分自身のAIガールフレンドを作成するためのPythonプロジェクトです。
  * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 心を照らし、学びを超越する
+ * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - 今日から私の新しいジェム「chat_gpt_error_handler」を試してみてください！エラースタックトレースの前に（うまくいけば）役立つChatGPTスニペットが表示されます。
+ * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT：すべてを指示に従うための1つのモデル
 
 
 |Name|GitHub Stars|Language|License|
@@ -1629,6 +1630,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[GPTeam](https://github.com/101dotxyz/gpteam)|![GitHub Repo stars](https://img.shields.io/github/stars/101dotxyz/GPTeam?style=social)|Python|mit|
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
 |[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
-|[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/Mr.trans?style=social)|-|mit|
+|[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/Mr.trans?style=social)|-|mit|
+|[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/Schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
+|[PandaGPT](https://github.com/yxuansu/pandagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/yxuansu/PandaGPT?style=social)|Python|apache-2.0|
 
 
