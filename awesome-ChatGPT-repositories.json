@@ -5692,6 +5692,36 @@
                     "zh-hans": "一个免费的ChatGPT客户端，现在支持在线搜索。无需密钥，无需登录。多节点自动速度测量切换，长文翻译无字数限制，AI图形。",
                     "zh-hant": "一個免費的ChatGPT客戶端，現在支援線上搜尋。無需金鑰，無需登錄。多節點自動速度測量切換，無字數限制的長文翻譯，AI圖形。"
                 }
+            },
+            "https://github.com/kristoferlund/duet-gpt": {
+                "repository_name": "duet-gpt",
+                "user_name": "kristoferlund",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A conversational semi-autonomous developer assistant. AI pair programming without the copypasta.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "assistant",
+                    "cli",
+                    "gpt",
+                    "gpt-4",
+                    "langchain",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A conversational semi-autonomous developer assistant. AI pair programming without the copypasta.",
+                    "ja": "会話型の半自律型開発者アシスタント。コピペなしのAIペアプログラミング。",
+                    "zh-hans": "一个对话式半自主开发助手。AI配对编程，无需复制粘贴。",
+                    "zh-hant": "一個對話式半自主開發者助手。AI配對編程，無需複製粘貼。"
+                }
             }
         },
         "Reimplementations": {
@@ -10407,6 +10437,31 @@
                     "zh-hans": "结合Azure Cosmos DB和Azure OpenAI ChatGPT服务的示例应用程序",
                     "zh-hant": "結合Azure Cosmos DB和Azure OpenAI ChatGPT服務的樣本應用程式"
                 }
+            },
+            "https://github.com/kreneskyp/ix": {
+                "repository_name": "ix",
+                "user_name": "kreneskyp",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Autonomous GPT-4 agent platform",
+                "topics": [
+                    "ai",
+                    "gpt-4",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Autonomous GPT-4 agent platform",
+                    "ja": "自律型GPT-4エージェントプラットフォーム",
+                    "zh-hans": "自主GPT-4代理平台",
+                    "zh-hant": "自主GPT-4代理平台"
+                }
             }
         },
         "Others": {
@@ -13639,6 +13694,46 @@
                     "ja": "心を照らし、学びを超越する",
                     "zh-hans": "启迪思维，超越学习",
                     "zh-hant": "啟迪心靈，超越學習"
+                }
+            },
+            "https://github.com/schwad/chat_gpt_error_handler": {
+                "repository_name": "chat_gpt_error_handler",
+                "user_name": "Schwad",
+                "language": "Ruby",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Try out my new gem \"chat_gpt_error_handler\" today!It pops a (hopefully) helpful ChatGPT snippet before your error stacktrace ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Try out my new gem \"chat_gpt_error_handler\" today!It pops a (hopefully) helpful ChatGPT snippet before your error stacktrace ",
+                    "ja": "今日から私の新しいジェム「chat_gpt_error_handler」を試してみてください！エラースタックトレースの前に（うまくいけば）役立つChatGPTスニペットが表示されます。",
+                    "zh-hans": "今天试试我的新宝石“chat_gpt_error_handler”吧！它会在错误堆栈之前弹出一个（希望有用的）ChatGPT片段。",
+                    "zh-hant": "今天試試我的新寶石「chat_gpt_error_handler」吧！它會在你的錯誤堆疊之前彈出（希望有用的）ChatGPT片段。"
+                }
+            },
+            "https://github.com/yxuansu/pandagpt": {
+                "repository_name": "PandaGPT",
+                "user_name": "yxuansu",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "PandaGPT: One Model To Instruction-Follow Them All",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "PandaGPT: One Model To Instruction-Follow Them All",
+                    "ja": "PandaGPT：すべてを指示に従うための1つのモデル",
+                    "zh-hans": "PandaGPT：一种模型，可指导所有操作",
+                    "zh-hant": "PandaGPT：一個模型，指令跟隨無所不包"
                 }
             }
         }
