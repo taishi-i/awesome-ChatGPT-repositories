@@ -15,20 +15,29 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 沒有複製片的AI對應程式.
+**Browser-extensions**
+ * [chat-ai-plugin](https://github.com/personoids/chat-ai-plugin) - 透過 ChatGPT 成為一個能獨立完成複雜任務的強大自動代理. 
+
+
+**NLP**
+ * [Voyager](https://github.com/minedojo/voyager) - 沒有任何可能的.
+ * [gorilla](https://github.com/shishirpatil/gorilla) - 哥里拉:為法學系士們提供API商店
+
+
+**Langchain**
+ * [chainlit](https://github.com/chainlit/chainlit) - 建立Python LLM應用程式在幾分鐘內️
 
 
 **Openai**
- * [ix](https://github.com/kreneskyp/ix) - 獨立的GPT-4代理平台
+ * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - 該網站的使用者必須使用
 
 
 **Others**
- * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - 試試我今天的新寶石"chat_gpt_error_handler". 在您的錯誤堆之前,
- * [PandaGPT](https://github.com/yxuansu/pandagpt) - 只有一個模式,
+ * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - 資料庫包含已修改為適應Alpaca-Lora適配器的脚本和合并脚本,
+ * [gptlink](https://github.com/gptlink/gptlink) - 建立自己的免費商用聊天GPT環境, 建立簡單,包含用戶,訂單,任務,付費等功能
 
 
-_Updated on May 27, 2023_ (A total of 727 repositories listed.)
+_Updated on May 29, 2023_ (A total of 734 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -472,6 +481,7 @@ _Updated on May 27, 2023_ (A total of 727 repositories listed.)
  * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 輸入：ChatGPT插件，可從多個商店獲取PC遊戲的最新優惠。由Cheapshark提供支持。
  * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - 在 Scott Guthrie 的主題演講中介紹的 OpenAI 插件示例代碼ChatGPT Plugin Quickstart using Python and FastAPI #MSBuild。
  * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - 讓你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
+ * [chat-ai-plugin](https://github.com/personoids/chat-ai-plugin) - 「每個聊天中的自主權力」- 將ChatGPT轉化為一個強大的自主代理，可以獨立完成複雜的任務。
 
 
 |Name|GitHub Stars|Language|License|
@@ -558,6 +568,7 @@ _Updated on May 27, 2023_ (A total of 727 repositories listed.)
 |[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cyrisxd/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
 |[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/openai-plugin-fastapi?style=social)|Bicep|mit|
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
+|[chat-ai-plugin](https://github.com/personoids/chat-ai-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/chat-ai-plugin?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -867,6 +878,8 @@ _Updated on May 27, 2023_ (A total of 727 repositories listed.)
  * [qlora](https://github.com/artidoro/qlora) - QLoRA：量化LLM的高效微調
  * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - 本地主機工具，可將文件連接到LLMs進行摘要和查詢，具有簡單的GUI。
  * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT：使用醫學視覺語言模型進行胸部X光攝影摘要。
+ * [Voyager](https://github.com/minedojo/voyager) - 具有大型語言模型的開放式具體代理
+ * [gorilla](https://github.com/shishirpatil/gorilla) - 大猩猩：LLM的API商店
 
 
 |Name|GitHub Stars|Language|License|
@@ -982,6 +995,8 @@ _Updated on May 27, 2023_ (A total of 727 repositories listed.)
 |[qlora](https://github.com/artidoro/qlora)|![GitHub Repo stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)|Jupyter Notebook|mit|
 |[BriefGPT](https://github.com/e-johnstonn/briefgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/e-johnstonn/BriefGPT?style=social)|Python|-|
 |[XrayGPT](https://github.com/mbzuai-oryx/xraygpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT?style=social)|Python|-|
+|[Voyager](https://github.com/minedojo/voyager)|![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)|Python|mit|
+|[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)|Python|-|
 
 
 ## Langchain
@@ -1024,6 +1039,7 @@ _Updated on May 27, 2023_ (A total of 727 repositories listed.)
  * [DB-GPT](https://github.com/csunny/db-gpt) - 使用本地GPT與您的數據和環境進行互動，無數據洩露，100％私密，100％安全。
  * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPT 儲存庫，中國駝峰調整，搭載中國法律知識的大型語言模型。
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）是一個開源的演示平台，您可以輕鬆展示您的AI模型。現在它支持DragGAN、ChatGPT、ImageBind、像GPT-4、SAM、交互式圖像編輯等多模態聊天。請在igpt.opengvlab.com上嘗試。
+ * [chainlit](https://github.com/chainlit/chainlit) - 在幾分鐘內建立Python LLM應用程式 ⚡️
 
 
 |Name|GitHub Stars|Language|License|
@@ -1066,6 +1082,7 @@ _Updated on May 27, 2023_ (A total of 727 repositories listed.)
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
 |[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
+|[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)|TypeScript|apache-2.0|
 
 
 ## Unity
@@ -1171,6 +1188,7 @@ _Updated on May 27, 2023_ (A total of 727 repositories listed.)
  * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - 使用OpenAI API在Jetpack Compose中聊天GPT
  * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - 結合Azure Cosmos DB和Azure OpenAI ChatGPT服務的樣本應用程式
  * [ix](https://github.com/kreneskyp/ix) - 自主GPT-4代理平台
+ * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - 一個運行在 Cloudflare worker 上的 OpenAI API 代理。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1251,6 +1269,7 @@ _Updated on May 27, 2023_ (A total of 727 repositories listed.)
 |[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
 |[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 |[ix](https://github.com/kreneskyp/ix)|![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)|Python|mit|
+|[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
 
 
 ## Others
@@ -1453,6 +1472,8 @@ add chatgpt to your groupchats:
  * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 啟迪心靈，超越學習
  * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - 今天試試我的新寶石「chat_gpt_error_handler」吧！它會在你的錯誤堆疊之前彈出（希望有用的）ChatGPT片段。
  * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT：一個模型，指令跟隨無所不包
+ * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - 該存儲庫包含已修改的腳本和合併腳本，以適應Alpaca-Lora適配器進行LoRA調試，假定使用轉換為ggml的“rinna / japanese-gpt-neox…” [gpt-neox]模型。
+ * [gptlink](https://github.com/gptlink/gptlink) - 10分鐘搭建自己可免費商用的ChatGPT環境，搭建簡單，包含用戶，訂單，任務，付費等功能。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1643,7 +1664,9 @@ add chatgpt to your groupchats:
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
 |[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
 |[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/Mr.trans?style=social)|-|mit|
-|[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/Schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
+|[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
 |[PandaGPT](https://github.com/yxuansu/pandagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/yxuansu/PandaGPT?style=social)|Python|apache-2.0|
+|[rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora)|![GitHub Repo stars](https://img.shields.io/github/stars/Yukaryavka/rinna_gpt-neox_ggml-lora?style=social)|Python|apache-2.0|
+|[gptlink](https://github.com/gptlink/gptlink)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink?style=social)|PHP|-|
 
 
