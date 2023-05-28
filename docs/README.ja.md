@@ -15,20 +15,29 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 会話型の半自律型開発者アシスタント。コピペなしのAIペアプログラミング。
+**Browser-extensions**
+ * [chat-ai-plugin](https://github.com/personoids/chat-ai-plugin) - 「チャットにおける自律性の力。」- ChatGPTを強力な自律エージェントに変換し、複雑なタスクを独立して達成できるようにします。
+
+
+**NLP**
+ * [Voyager](https://github.com/minedojo/voyager) - 大規模言語モデルを備えたオープンエンドの具現化エージェント
+ * [gorilla](https://github.com/shishirpatil/gorilla) - ゴリラ：LLMのためのAPIストア
+
+
+**Langchain**
+ * [chainlit](https://github.com/chainlit/chainlit) - 数分でPython LLMアプリを構築する ⚡️
 
 
 **Openai**
- * [ix](https://github.com/kreneskyp/ix) - 自律型GPT-4エージェントプラットフォーム
+ * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - Cloudflareワーカーで実行されているOpenAI APIプロキシ。
 
 
 **Others**
- * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - 今日から私の新しいジェム「chat_gpt_error_handler」を試してみてください！エラースタックトレースの前に（うまくいけば）役立つChatGPTスニペットが表示されます。
- * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT：すべてを指示に従うための1つのモデル
+ * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - リポジトリには、「rinna/japanese-gpt-neox...」[gpt-neox]モデルをggmlに変換した場合に、LoRAチューニングのためにAlpaca-Loraアダプタに適応するために変更されたスクリプトとマージスクリプトが含まれています。
+ * [gptlink](https://github.com/gptlink/gptlink) - 自分で無料で商用可能なChatGPT環境を10分で構築できます。ユーザー、注文、タスク、支払いなどの機能が含まれ、構築は簡単です。
 
 
-_Updated on May 27, 2023_ (A total of 727 repositories listed.)
+_Updated on May 29, 2023_ (A total of 734 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -476,6 +485,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin) - 複数のストアからPCゲームの最新情報を取得するChatGPTプラグイン。Cheapsharkによって提供されます。
  * [openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi) - Scott Guthrie氏の基調講演で紹介されたOpenAIプラグインのサンプルコード、ChatGPT Plugin Quickstart using Python and FastAPI #MSBuild です。
  * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - あなたのChatGPTプラグインストアを検索可能にしてください。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
+ * [chat-ai-plugin](https://github.com/personoids/chat-ai-plugin) - 「チャットにおける自律性の力。」- ChatGPTを強力な自律エージェントに変換し、複雑なタスクを独立して達成できるようにします。
 
 
 |Name|GitHub Stars|Language|License|
@@ -562,6 +572,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[GameDealGenie-ChatGPT-Plugin](https://github.com/cyrisxd/gamedealgenie-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cyrisxd/GameDealGenie-ChatGPT-Plugin?style=social)|JavaScript|gpl-3.0|
 |[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/openai-plugin-fastapi?style=social)|Bicep|mit|
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
+|[chat-ai-plugin](https://github.com/personoids/chat-ai-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/chat-ai-plugin?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -864,6 +875,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [qlora](https://github.com/artidoro/qlora) - QLoRA：量子化されたLLMの効率的なファインチューニング
  * [BriefGPT](https://github.com/e-johnstonn/briefgpt) - シンプルなGUIを備えた、文書をLLMに接続して要約やクエリを行うためのローカルホストツール。
  * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT：医療ビジョン言語モデルを使用した胸部レントゲン写真の要約。
+ * [Voyager](https://github.com/minedojo/voyager) - 大規模言語モデルを備えたオープンエンドの具現化エージェント
+ * [gorilla](https://github.com/shishirpatil/gorilla) - ゴリラ：LLMのためのAPIストア
 
 
 |Name|GitHub Stars|Language|License|
@@ -979,6 +992,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[qlora](https://github.com/artidoro/qlora)|![GitHub Repo stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)|Jupyter Notebook|mit|
 |[BriefGPT](https://github.com/e-johnstonn/briefgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/e-johnstonn/BriefGPT?style=social)|Python|-|
 |[XrayGPT](https://github.com/mbzuai-oryx/xraygpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT?style=social)|Python|-|
+|[Voyager](https://github.com/minedojo/voyager)|![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)|Python|mit|
+|[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)|Python|-|
 
 
 ## Langchain
@@ -1021,6 +1036,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [DB-GPT](https://github.com/csunny/db-gpt) - ローカルGPTを使用して、データと環境をインタラクトし、データ漏洩なし、100％プライバシー、100％セキュリティを実現します。
  * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPTのためのリポジトリ、中国法律知識に調整された中国ラマ。中文法律知識に基づく大規模言語モデル。
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）は、AIモデルを簡単に展示できるオープンソースのデモプラットフォームです。現在、DragGAN、ChatGPT、ImageBind、GPT-4のようなマルチモーダルチャット、SAM、インタラクティブな画像編集などをサポートしています。igpt.opengvlab.comでお試しください。
+ * [chainlit](https://github.com/chainlit/chainlit) - 数分でPython LLMアプリを構築する ⚡️
 
 
 |Name|GitHub Stars|Language|License|
@@ -1063,6 +1079,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
 |[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
+|[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)|TypeScript|apache-2.0|
 
 
 ## Unity
@@ -1167,6 +1184,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [JetChatGPT](https://github.com/thekharche/jetchatgpt) - OpenAI APIを使用したJetpack ComposeでのChatGPT
  * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Azure Cosmos DBとAzure OpenAI ChatGPTサービスを組み合わせたサンプルアプリケーション
  * [ix](https://github.com/kreneskyp/ix) - 自律型GPT-4エージェントプラットフォーム
+ * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - Cloudflareワーカーで実行されているOpenAI APIプロキシ。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1247,6 +1265,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[JetChatGPT](https://github.com/thekharche/jetchatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/thekharche/JetChatGPT?style=social)|Kotlin|other|
 |[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 |[ix](https://github.com/kreneskyp/ix)|![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)|Python|mit|
+|[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
 
 
 ## Others
@@ -1441,6 +1460,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [Mr.trans](https://github.com/illumine-labs/mr.trans) - 心を照らし、学びを超越する
  * [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - 今日から私の新しいジェム「chat_gpt_error_handler」を試してみてください！エラースタックトレースの前に（うまくいけば）役立つChatGPTスニペットが表示されます。
  * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT：すべてを指示に従うための1つのモデル
+ * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - リポジトリには、「rinna/japanese-gpt-neox...」[gpt-neox]モデルをggmlに変換した場合に、LoRAチューニングのためにAlpaca-Loraアダプタに適応するために変更されたスクリプトとマージスクリプトが含まれています。
+ * [gptlink](https://github.com/gptlink/gptlink) - 自分で無料で商用可能なChatGPT環境を10分で構築できます。ユーザー、注文、タスク、支払いなどの機能が含まれ、構築は簡単です。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1631,7 +1652,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[learnGPT](https://github.com/dadukhankevin/learngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dadukhankevin/learnGPT?style=social)|Svelte|-|
 |[GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/eniascailliau/GirlfriendGPT?style=social)|Python|-|
 |[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/Mr.trans?style=social)|-|mit|
-|[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/Schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
+|[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
 |[PandaGPT](https://github.com/yxuansu/pandagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/yxuansu/PandaGPT?style=social)|Python|apache-2.0|
+|[rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora)|![GitHub Repo stars](https://img.shields.io/github/stars/Yukaryavka/rinna_gpt-neox_ggml-lora?style=social)|Python|apache-2.0|
+|[gptlink](https://github.com/gptlink/gptlink)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink?style=social)|PHP|-|
 
 

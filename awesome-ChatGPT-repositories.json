@@ -4533,6 +4533,26 @@
                     "zh-hans": "让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable",
                     "zh-hant": "讓你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable"
                 }
+            },
+            "https://github.com/personoids/chat-ai-plugin": {
+                "repository_name": "chat-ai-plugin",
+                "user_name": "personoids",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "\"The Power of Autonomy in Every Chat.\" - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "\"The Power of Autonomy in Every Chat.\" - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. ",
+                    "ja": "「チャットにおける自律性の力。」- ChatGPTを強力な自律エージェントに変換し、複雑なタスクを独立して達成できるようにします。",
+                    "zh-hans": "“每个聊天中的自主权的力量” - 将ChatGPT转化为一个强大的自主代理，可以独立完成复杂任务。",
+                    "zh-hant": "「每個聊天中的自主權力」- 將ChatGPT轉化為一個強大的自主代理，可以獨立完成複雜的任務。"
+                }
             }
         },
         "CLIs": {
@@ -8121,6 +8141,50 @@
                     "zh-hans": "XrayGPT：使用医学视觉语言模型的胸部X光摘要。",
                     "zh-hant": "XrayGPT：使用醫學視覺語言模型進行胸部X光攝影摘要。"
                 }
+            },
+            "https://github.com/minedojo/voyager": {
+                "repository_name": "Voyager",
+                "user_name": "MineDojo",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "An Open-Ended Embodied Agent with Large Language Models",
+                "topics": [
+                    "embodied-learning",
+                    "large-language-models",
+                    "minecraft",
+                    "open-ended-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An Open-Ended Embodied Agent with Large Language Models",
+                    "ja": "大規模言語モデルを備えたオープンエンドの具現化エージェント",
+                    "zh-hans": "一个具有大型语言模型的开放式体验代理人",
+                    "zh-hant": "具有大型語言模型的開放式具體代理"
+                }
+            },
+            "https://github.com/shishirpatil/gorilla": {
+                "repository_name": "gorilla",
+                "user_name": "ShishirPatil",
+                "language": "Python",
+                "license": null,
+                "description": "Gorilla: An API store for LLMs",
+                "topics": [
+                    "anthropic-claude",
+                    "api",
+                    "gpt-4",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Gorilla: A store for APIs for LLMs.",
+                    "ja": "ゴリラ：LLMのためのAPIストア",
+                    "zh-hans": "大猩猩：LLM的API商店",
+                    "zh-hant": "大猩猩：LLM的API商店"
+                }
             }
         },
         "Langchain": {
@@ -8878,6 +8942,33 @@
                     "ja": "InternGPT（iGPT）は、AIモデルを簡単に展示できるオープンソースのデモプラットフォームです。現在、DragGAN、ChatGPT、ImageBind、GPT-4のようなマルチモーダルチャット、SAM、インタラクティブな画像編集などをサポートしています。igpt.opengvlab.comでお試しください。",
                     "zh-hans": "InternGPT（iGPT）是一个开源演示平台，您可以轻松展示您的AI模型。现在它支持DragGAN、ChatGPT、ImageBind、多模式聊天（如GPT-4、SAM）、交互式图像编辑等。请在igpt.opengvlab.com上尝试。",
                     "zh-hant": "InternGPT（iGPT）是一個開源的演示平台，您可以輕鬆展示您的AI模型。現在它支持DragGAN、ChatGPT、ImageBind、像GPT-4、SAM、交互式圖像編輯等多模態聊天。請在igpt.opengvlab.com上嘗試。"
+                }
+            },
+            "https://github.com/chainlit/chainlit": {
+                "repository_name": "chainlit",
+                "user_name": "Chainlit",
+                "language": "TypeScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Build Python LLM apps in minutes ⚡️",
+                "topics": [
+                    "chatgpt",
+                    "langchain",
+                    "llm",
+                    "openai",
+                    "python",
+                    "ui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build Python LLM apps in minutes ⚡️",
+                    "ja": "数分でPython LLMアプリを構築する ⚡️",
+                    "zh-hans": "在几分钟内构建Python LLM应用程序 ⚡️",
+                    "zh-hant": "在幾分鐘內建立Python LLM應用程式 ⚡️"
                 }
             }
         },
@@ -10461,6 +10552,26 @@
                     "ja": "自律型GPT-4エージェントプラットフォーム",
                     "zh-hans": "自主GPT-4代理平台",
                     "zh-hant": "自主GPT-4代理平台"
+                }
+            },
+            "https://github.com/janlay/openai-cloudflare": {
+                "repository_name": "openai-cloudflare",
+                "user_name": "janlay",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "An OpenAI API proxy running with Cloudflare worker.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An OpenAI API proxy running with Cloudflare worker.",
+                    "ja": "Cloudflareワーカーで実行されているOpenAI APIプロキシ。",
+                    "zh-hans": "一个在Cloudflare worker上运行的OpenAI API代理。",
+                    "zh-hant": "一個運行在 Cloudflare worker 上的 OpenAI API 代理。"
                 }
             }
         },
@@ -13734,6 +13845,40 @@
                     "ja": "PandaGPT：すべてを指示に従うための1つのモデル",
                     "zh-hans": "PandaGPT：一种模型，可指导所有操作",
                     "zh-hant": "PandaGPT：一個模型，指令跟隨無所不包"
+                }
+            },
+            "https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora": {
+                "repository_name": "rinna_gpt-neox_ggml-lora",
+                "user_name": "Yukaryavka",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "The repository contains scripts and merge scripts that have been modified to adapt an Alpaca-Lora adapter for LoRA tuning when assuming the use of the \"rinna/japanese-gpt-neox...\" [gpt-neox] model converted to ggml.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The repository contains scripts and merge scripts that have been modified to adapt an Alpaca-Lora adapter for LoRA tuning when assuming the use of the \"rinna/japanese-gpt-neox...\" [gpt-neox] model converted to ggml.",
+                    "ja": "リポジトリには、「rinna/japanese-gpt-neox...」[gpt-neox]モデルをggmlに変換した場合に、LoRAチューニングのためにAlpaca-Loraアダプタに適応するために変更されたスクリプトとマージスクリプトが含まれています。",
+                    "zh-hans": "该存储库包含已修改的脚本和合并脚本，以适应Alpaca-Lora适配器的LoRA调谐，假设使用转换为ggml的“rinna / japanese-gpt-neox…” [gpt-neox]模型。",
+                    "zh-hant": "該存儲庫包含已修改的腳本和合併腳本，以適應Alpaca-Lora適配器進行LoRA調試，假定使用轉換為ggml的“rinna / japanese-gpt-neox…” [gpt-neox]模型。"
+                }
+            },
+            "https://github.com/gptlink/gptlink": {
+                "repository_name": "gptlink",
+                "user_name": "gptlink",
+                "language": "PHP",
+                "license": null,
+                "description": "10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Build your own ChatGPT environment for free commercial use in just 10 minutes. The setup is simple and includes features such as user management, order management, task management, and payment processing.",
+                    "ja": "自分で無料で商用可能なChatGPT環境を10分で構築できます。ユーザー、注文、タスク、支払いなどの機能が含まれ、構築は簡単です。",
+                    "zh-hans": "10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能。",
+                    "zh-hant": "10分鐘搭建自己可免費商用的ChatGPT環境，搭建簡單，包含用戶，訂單，任務，付費等功能。"
                 }
             }
         }
