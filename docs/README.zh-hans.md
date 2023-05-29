@@ -15,29 +15,34 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [chat-ai-plugin](https://github.com/personoids/chat-ai-plugin) - "每一个聊天中自主性的力量". - 将ChatGPT转化为一个强大的自主代理,可以独立完成复杂任务. 
+**Awesome-lists**
+ * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 免费的ChatGPT镜像网站列表,持续更新. 免费的ChatGPT镜像网站列表,不断更新. 
+
+
+**Prompts**
+ * [jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers) - 支持JoPilot的提示
+
+
+**Chatbots**
+ * [privateGPT](https://github.com/samuraigpt/privategpt) - 一个应用程序可以使用GPT的力量与您的文档进行私人互动,100%私人,没有数据泄露
+ * [LLaVA](https://github.com/haotian-liu/llava) - 设计为实现多式GPT-4级别的功能.
 
 
 **NLP**
- * [Voyager](https://github.com/minedojo/voyager) - 一个具有大语言模型的开放式体现代理
- * [gorilla](https://github.com/shishirpatil/gorilla) - 戈里拉:一个为LLM提供API的商店
+ * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - 支持VSCode的SudoLang法学士课程
+ * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - 在Azure中运行的获取增强生成模式的示例应用程序,使用Azure认知搜索进行检索,并使用Azure OpenAI大型语言模型来支持ChatGPT式问答体验.
 
 
 **Langchain**
- * [chainlit](https://github.com/chainlit/chainlit) - 在几分钟内创建Python的应用程序️
-
-
-**Openai**
- * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - 一个OpenAI API代理程序运行在Cloudflare工作者.
+ * [Flowise](https://github.com/flowiseai/flowise) - 拖放UI,使用LangchainJS构建您的自定义LLM流
 
 
 **Others**
- * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - 该存储库包含编程和合并编程,这些编程已被修改以适应Alpaca-Lora适配器进行LoRA调整,假设使用转换为ggml的"rinna/japanese-gpt-neox"... [gpt-neox]模型.
- * [gptlink](https://github.com/gptlink/gptlink) - 10分钟建立自己的免费商业ChatGPT环境,建立简单,包含用户,订单,任务,付费等功能
+ * [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - 让你使用 ChatGPT 和 React Native 编写一个故事.
+ * [chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - 提供 ChatGPT 完全了解 Kubernetes 方案 + 验证功能
 
 
-_Updated on May 29, 2023_ (A total of 734 repositories listed.)
+_Updated on May 30, 2023_ (A total of 743 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -76,6 +81,7 @@ ChatGPT资料汇总学习，持续更新......
  * [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - 一个由LLM或GPT实验案例、其他有趣的事物以及安全工具组成的策划清单。
  * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - 一组令人惊叹的GPT4提示集合
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 ChatGPT的超棒列表——由OpenAI开发的人工智能聊天机器人
+ * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。
 
 
 |Name|GitHub Stars|Language|License|
@@ -95,6 +101,7 @@ ChatGPT资料汇总学习，持续更新......
 |[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)|![GitHub Repo stars](https://img.shields.io/github/stars/cckuailong/awesome-gpt-security?style=social)|-|cc0-1.0|
 |[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|-|-|
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
+|[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social)|Python|mit|
 
 
 ## Prompts
@@ -149,6 +156,7 @@ ChatGPT资料汇总学习，持续更新......
  * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - 使用像OpenAI的GPT-4这样的大型语言模型的技巧和窍门。
  * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文提示精选🔥，ChatGPT使用指南，提升ChatGPT可玩性和可用性！🚀
  * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT：交互式生成（任意长度的）长文本。每个时间步生成一个段落，并分别更新存储在硬盘和提示中的基于语言的长短期记忆。仓库：abs：
+ * [jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers) - JoPilot支持的提示信息
 
 
 |Name|GitHub Stars|Language|License|
@@ -203,6 +211,7 @@ ChatGPT资料汇总学习，持续更新......
 |[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 |[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
+|[jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers)|![GitHub Repo stars](https://img.shields.io/github/stars/jopilot-net/jopilot-4-job-seekers?style=social)|C#|-|
 
 
 ## Chatbots
@@ -298,6 +307,8 @@ ChatGPT资料汇总学习，持续更新......
  * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自我追踪数据分析：交互式可视化和预测算法
  * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - 在你的Rails控制台中使用AI助手Gem。在Rails中完全发挥ChatGPT的功能。
  * [ecoute](https://github.com/sevask/ecoute) - Ecoute是一款实时转录工具，可以为用户的麦克风输入（您）和扬声器输出（扬声器）提供实时转录，并在文本框中生成使用OpenAI的GPT-3.5的建议响应。它基于对话的实时转录为用户提供要说的建议。
+ * [privateGPT](https://github.com/samuraigpt/privategpt) - 一款使用GPT强大功能与您的文档进行私密互动的应用程序，100%私密，无数据泄漏。
+ * [LLaVA](https://github.com/haotian-liu/llava) - 面向多模态GPT-4级能力构建的大型语言与视觉助手。
 
 
 |Name|GitHub Stars|Language|License|
@@ -393,6 +404,8 @@ ChatGPT资料汇总学习，持续更新......
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 |[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
 |[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
+|[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/privateGPT?style=social)|JavaScript|mit|
+|[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -879,6 +892,8 @@ ChatGPT资料汇总学习，持续更新......
  * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT：使用医学视觉语言模型的胸部X光摘要。
  * [Voyager](https://github.com/minedojo/voyager) - 一个具有大型语言模型的开放式体验代理人
  * [gorilla](https://github.com/shishirpatil/gorilla) - 大猩猩：LLM的API商店
+ * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM 在 VSCode 中的支持
+ * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - 一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。
 
 
 |Name|GitHub Stars|Language|License|
@@ -994,8 +1009,10 @@ ChatGPT资料汇总学习，持续更新......
 |[qlora](https://github.com/artidoro/qlora)|![GitHub Repo stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)|Jupyter Notebook|mit|
 |[BriefGPT](https://github.com/e-johnstonn/briefgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/e-johnstonn/BriefGPT?style=social)|Python|-|
 |[XrayGPT](https://github.com/mbzuai-oryx/xraygpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT?style=social)|Python|-|
-|[Voyager](https://github.com/minedojo/voyager)|![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)|Python|mit|
-|[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)|Python|-|
+|[Voyager](https://github.com/minedojo/voyager)|![GitHub Repo stars](https://img.shields.io/github/stars/minedojo/Voyager?style=social)|Python|mit|
+|[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/shishirpatil/gorilla?style=social)|Python|-|
+|[sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)|![GitHub Repo stars](https://img.shields.io/github/stars/paralleldrive/sudolang-llm-support?style=social)|-|mit|
+|[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1039,6 +1056,7 @@ ChatGPT资料汇总学习，持续更新......
  * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPT仓库，中文羊驼调整的中文法律知识模型。基于中文法律知识的大语言模型。
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）是一个开源演示平台，您可以轻松展示您的AI模型。现在它支持DragGAN、ChatGPT、ImageBind、多模式聊天（如GPT-4、SAM）、交互式图像编辑等。请在igpt.opengvlab.com上尝试。
  * [chainlit](https://github.com/chainlit/chainlit) - 在几分钟内构建Python LLM应用程序 ⚡️
+ * [Flowise](https://github.com/flowiseai/flowise) - 使用LangchainJS拖放界面构建您定制的LLM流程
 
 
 |Name|GitHub Stars|Language|License|
@@ -1081,7 +1099,8 @@ ChatGPT资料汇总学习，持续更新......
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
 |[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
-|[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)|TypeScript|apache-2.0|
+|[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
+|[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)|JavaScript|mit|
 
 
 ## Unity
@@ -1471,6 +1490,8 @@ Chat酱独立部署版，docker方案自带代理
  * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT：一种模型，可指导所有操作
  * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - 该存储库包含已修改的脚本和合并脚本，以适应Alpaca-Lora适配器的LoRA调谐，假设使用转换为ggml的“rinna / japanese-gpt-neox…” [gpt-neox]模型。
  * [gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能。
+ * [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - “讲个故事”是一个小应用程序，可以使用ChatGPT和React Native编写故事。
+ * [chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - 将Kubernetes模式和验证能力的完整知识授予ChatGPT。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1663,7 +1684,9 @@ Chat酱独立部署版，docker方案自带代理
 |[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/Mr.trans?style=social)|-|mit|
 |[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
 |[PandaGPT](https://github.com/yxuansu/pandagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/yxuansu/PandaGPT?style=social)|Python|apache-2.0|
-|[rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora)|![GitHub Repo stars](https://img.shields.io/github/stars/Yukaryavka/rinna_gpt-neox_ggml-lora?style=social)|Python|apache-2.0|
+|[rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora)|![GitHub Repo stars](https://img.shields.io/github/stars/yukaryavka/rinna_gpt-neox_ggml-lora?style=social)|Python|apache-2.0|
 |[gptlink](https://github.com/gptlink/gptlink)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink?style=social)|PHP|-|
+|[tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/kiki-le-singe/tell-me-a-story-ai?style=social)|TypeScript|-|
+|[chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/robusta-dev/chatgpt-yaml-generator?style=social)|Python|mit|
 
 

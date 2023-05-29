@@ -15,29 +15,34 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [chat-ai-plugin](https://github.com/personoids/chat-ai-plugin) - 「チャットにおける自律性の力。」- ChatGPTを強力な自律エージェントに変換し、複雑なタスクを独立して達成できるようにします。
+**Awesome-lists**
+ * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓無料のChatGPTミラーサイトのリスト、常に更新中。
+
+
+**Prompts**
+ * [jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers) - JoPilotがサポートするプロンプト
+
+
+**Chatbots**
+ * [privateGPT](https://github.com/samuraigpt/privategpt) - GPTの力を使って、100％プライベートでドキュメントとやり取りするアプリ。データ漏洩はありません。
+ * [LLaVA](https://github.com/haotian-liu/llava) - マルチモーダルなGPT-4レベルの機能に向けて構築された大規模な言語とビジョンアシスタント。
 
 
 **NLP**
- * [Voyager](https://github.com/minedojo/voyager) - 大規模言語モデルを備えたオープンエンドの具現化エージェント
- * [gorilla](https://github.com/shishirpatil/gorilla) - ゴリラ：LLMのためのAPIストア
+ * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - VSCodeのSudoLang LLMサポート
+ * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - Azureで実行される検索増強生成パターンのサンプルアプリで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを使用しています。
 
 
 **Langchain**
- * [chainlit](https://github.com/chainlit/chainlit) - 数分でPython LLMアプリを構築する ⚡️
-
-
-**Openai**
- * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - Cloudflareワーカーで実行されているOpenAI APIプロキシ。
+ * [Flowise](https://github.com/flowiseai/flowise) - LangchainJSを使用してカスタマイズされたLLMフローを構築するためのドラッグ＆ドロップUI
 
 
 **Others**
- * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - リポジトリには、「rinna/japanese-gpt-neox...」[gpt-neox]モデルをggmlに変換した場合に、LoRAチューニングのためにAlpaca-Loraアダプタに適応するために変更されたスクリプトとマージスクリプトが含まれています。
- * [gptlink](https://github.com/gptlink/gptlink) - 自分で無料で商用可能なChatGPT環境を10分で構築できます。ユーザー、注文、タスク、支払いなどの機能が含まれ、構築は簡単です。
+ * [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - 「ストーリーを教えて」という小さなアプリは、ChatGPTとReact Nativeを使用してストーリーを書くことができるアプリです。
+ * [chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - Kubernetesのスキーマと検証機能に関する完全な知識をChatGPTに与えてください。
 
 
-_Updated on May 29, 2023_ (A total of 734 repositories listed.)
+_Updated on May 30, 2023_ (A total of 743 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -75,6 +80,7 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
  * [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - LLMまたはGPTを使用した、素晴らしいセキュリティツール、実験的なケース、またはその他の興味深いものの厳選リスト。
  * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - 素晴らしいGPT4プロンプトのコレクション
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 OpenAIによって開発された人工知能チャットボットChatGPTの素晴らしいリスト
+ * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓無料のChatGPTミラーサイトのリスト、常に更新中。
 
 
 |Name|GitHub Stars|Language|License|
@@ -94,6 +100,7 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
 |[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)|![GitHub Repo stars](https://img.shields.io/github/stars/cckuailong/awesome-gpt-security?style=social)|-|cc0-1.0|
 |[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|-|-|
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
+|[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social)|Python|mit|
 
 
 ## Prompts
@@ -152,6 +159,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥中文プロンプト精選🔥、ChatGPT使用ガイド、ChatGPTのプレイ性と利用性を向上させよう！🚀
  * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT：（任意に）長いテキストのインタラクティブ生成
 各タイムステップで段落を生成し、それぞれハードドライブとプロンプトに保存された言語ベースの長期・短期メモリを更新します。リポジトリ：abs：
+ * [jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers) - JoPilotがサポートするプロンプト
 
 
 |Name|GitHub Stars|Language|License|
@@ -206,6 +214,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 |[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
+|[jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers)|![GitHub Repo stars](https://img.shields.io/github/stars/jopilot-net/jopilot-4-job-seekers?style=social)|C#|-|
 
 
 ## Chatbots
@@ -304,6 +313,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - 自己追跡データの分析：インタラクティブな可視化と予測アルゴリズム
  * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AIパワードアシスタントGemがあなたのRailsコンソールに直接組み込まれています。ChatGPTのフルパワーをRailsで利用できます。
  * [ecoute](https://github.com/sevask/ecoute) - Ecouteは、ユーザーのマイク入力（You）とスピーカー出力（Speaker）の両方に対して、リアルタイムのテキストトランスクリプトを提供するライブトランスクリプションツールです。また、会話のライブトランスクリプションに基づいて、OpenAIのGPT-3.5を使用してユーザーが言うべき推奨応答を生成します。
+ * [privateGPT](https://github.com/samuraigpt/privategpt) - GPTの力を使って、100％プライベートでドキュメントとやり取りするアプリ。データ漏洩はありません。
+ * [LLaVA](https://github.com/haotian-liu/llava) - マルチモーダルなGPT-4レベルの機能に向けて構築された大規模な言語とビジョンアシスタント。
 
 
 |Name|GitHub Stars|Language|License|
@@ -399,6 +410,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 |[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
 |[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
+|[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/privateGPT?style=social)|JavaScript|mit|
+|[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -877,6 +890,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT：医療ビジョン言語モデルを使用した胸部レントゲン写真の要約。
  * [Voyager](https://github.com/minedojo/voyager) - 大規模言語モデルを備えたオープンエンドの具現化エージェント
  * [gorilla](https://github.com/shishirpatil/gorilla) - ゴリラ：LLMのためのAPIストア
+ * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - VSCodeのSudoLang LLMサポート
+ * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - Azureで実行される検索増強生成パターンのサンプルアプリで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを使用しています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -992,8 +1007,10 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[qlora](https://github.com/artidoro/qlora)|![GitHub Repo stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)|Jupyter Notebook|mit|
 |[BriefGPT](https://github.com/e-johnstonn/briefgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/e-johnstonn/BriefGPT?style=social)|Python|-|
 |[XrayGPT](https://github.com/mbzuai-oryx/xraygpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT?style=social)|Python|-|
-|[Voyager](https://github.com/minedojo/voyager)|![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)|Python|mit|
-|[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)|Python|-|
+|[Voyager](https://github.com/minedojo/voyager)|![GitHub Repo stars](https://img.shields.io/github/stars/minedojo/Voyager?style=social)|Python|mit|
+|[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/shishirpatil/gorilla?style=social)|Python|-|
+|[sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)|![GitHub Repo stars](https://img.shields.io/github/stars/paralleldrive/sudolang-llm-support?style=social)|-|mit|
+|[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1037,6 +1054,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 LaWGPTのためのリポジトリ、中国法律知識に調整された中国ラマ。中文法律知識に基づく大規模言語モデル。
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）は、AIモデルを簡単に展示できるオープンソースのデモプラットフォームです。現在、DragGAN、ChatGPT、ImageBind、GPT-4のようなマルチモーダルチャット、SAM、インタラクティブな画像編集などをサポートしています。igpt.opengvlab.comでお試しください。
  * [chainlit](https://github.com/chainlit/chainlit) - 数分でPython LLMアプリを構築する ⚡️
+ * [Flowise](https://github.com/flowiseai/flowise) - LangchainJSを使用してカスタマイズされたLLMフローを構築するためのドラッグ＆ドロップUI
 
 
 |Name|GitHub Stars|Language|License|
@@ -1079,7 +1097,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
 |[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
-|[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)|TypeScript|apache-2.0|
+|[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
+|[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)|JavaScript|mit|
 
 
 ## Unity
@@ -1462,6 +1481,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT：すべてを指示に従うための1つのモデル
  * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - リポジトリには、「rinna/japanese-gpt-neox...」[gpt-neox]モデルをggmlに変換した場合に、LoRAチューニングのためにAlpaca-Loraアダプタに適応するために変更されたスクリプトとマージスクリプトが含まれています。
  * [gptlink](https://github.com/gptlink/gptlink) - 自分で無料で商用可能なChatGPT環境を10分で構築できます。ユーザー、注文、タスク、支払いなどの機能が含まれ、構築は簡単です。
+ * [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - 「ストーリーを教えて」という小さなアプリは、ChatGPTとReact Nativeを使用してストーリーを書くことができるアプリです。
+ * [chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - Kubernetesのスキーマと検証機能に関する完全な知識をChatGPTに与えてください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1654,7 +1675,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/Mr.trans?style=social)|-|mit|
 |[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
 |[PandaGPT](https://github.com/yxuansu/pandagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/yxuansu/PandaGPT?style=social)|Python|apache-2.0|
-|[rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora)|![GitHub Repo stars](https://img.shields.io/github/stars/Yukaryavka/rinna_gpt-neox_ggml-lora?style=social)|Python|apache-2.0|
+|[rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora)|![GitHub Repo stars](https://img.shields.io/github/stars/yukaryavka/rinna_gpt-neox_ggml-lora?style=social)|Python|apache-2.0|
 |[gptlink](https://github.com/gptlink/gptlink)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink?style=social)|PHP|-|
+|[tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/kiki-le-singe/tell-me-a-story-ai?style=social)|TypeScript|-|
+|[chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/robusta-dev/chatgpt-yaml-generator?style=social)|Python|mit|
 
 

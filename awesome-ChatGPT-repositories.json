@@ -308,6 +308,33 @@
                     "zh-hans": "🤖 ChatGPT的超棒列表——由OpenAI开发的人工智能聊天机器人",
                     "zh-hant": "🤖 ChatGPT 的精彩列表 — 由 OpenAI 開發的人工智慧聊天機器人"
                 }
+            },
+            "https://github.com/lilittlecat/awesome-free-chatgpt": {
+                "repository_name": "awesome-free-chatgpt",
+                "user_name": "LiLittleCat",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. ",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "chat",
+                    "chatgpt",
+                    "free",
+                    "freechatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. ",
+                    "ja": "🆓無料のChatGPTミラーサイトのリスト、常に更新中。",
+                    "zh-hans": "🆓免费的 ChatGPT 镜像网站列表，持续更新。",
+                    "zh-hant": "🆓免費的 ChatGPT 鏡像網站列表，持續更新。"
+                }
             }
         },
         "Prompts": {
@@ -1193,6 +1220,24 @@
                     "ja": "RecurrentGPT：（任意に）長いテキストのインタラクティブ生成\n各タイムステップで段落を生成し、それぞれハードドライブとプロンプトに保存された言語ベースの長期・短期メモリを更新します。リポジトリ：abs：",
                     "zh-hans": "RecurrentGPT：交互式生成（任意长度的）长文本。每个时间步生成一个段落，并分别更新存储在硬盘和提示中的基于语言的长短期记忆。仓库：abs：",
                     "zh-hant": "RecurrentGPT：互動生成（任意）長文本，每個時間步生成一段落，並分別更新存儲在硬盤和提示中的基於語言的長短期記憶。存儲庫：abs："
+                }
+            },
+            "https://github.com/jopilot-net/jopilot-4-job-seekers": {
+                "repository_name": "jopilot-4-job-seekers",
+                "user_name": "jopilot-net",
+                "language": "C#",
+                "license": null,
+                "description": "The prompts supported by JoPilot ",
+                "topics": [
+                    "chatgpt",
+                    "copilot",
+                    "jobsearch"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The prompts supported by JoPilot ",
+                    "ja": "JoPilotがサポートするプロンプト",
+                    "zh-hans": "JoPilot支持的提示信息",
+                    "zh-hant": "JoPilot 支援的提示訊息"
                 }
             }
         },
@@ -2968,6 +3013,61 @@
                     "ja": "Ecouteは、ユーザーのマイク入力（You）とスピーカー出力（Speaker）の両方に対して、リアルタイムのテキストトランスクリプトを提供するライブトランスクリプションツールです。また、会話のライブトランスクリプションに基づいて、OpenAIのGPT-3.5を使用してユーザーが言うべき推奨応答を生成します。",
                     "zh-hans": "Ecoute是一款实时转录工具，可以为用户的麦克风输入（您）和扬声器输出（扬声器）提供实时转录，并在文本框中生成使用OpenAI的GPT-3.5的建议响应。它基于对话的实时转录为用户提供要说的建议。",
                     "zh-hant": "Ecoute是一個即時轉錄工具，可以為使用者的麥克風輸入（您）和使用者的揚聲器輸出（揚聲器）提供即時轉錄，並在文本框中生成使用OpenAI的GPT-3.5的建議回應，該回應基於對話的即時轉錄。"
+                }
+            },
+            "https://github.com/samuraigpt/privategpt": {
+                "repository_name": "privateGPT",
+                "user_name": "SamurAIGPT",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "gpt",
+                    "gpt4",
+                    "langchain",
+                    "openai",
+                    "privategpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks",
+                    "ja": "GPTの力を使って、100％プライベートでドキュメントとやり取りするアプリ。データ漏洩はありません。",
+                    "zh-hans": "一款使用GPT强大功能与您的文档进行私密互动的应用程序，100%私密，无数据泄漏。",
+                    "zh-hant": "一個使用GPT強大功能與您的文件進行私密互動的應用程式，100％私密，無數據洩漏。"
+                }
+            },
+            "https://github.com/haotian-liu/llava": {
+                "repository_name": "LLaVA",
+                "user_name": "haotian-liu",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "gpt-4",
+                    "llama",
+                    "llava",
+                    "multimodal"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.",
+                    "ja": "マルチモーダルなGPT-4レベルの機能に向けて構築された大規模な言語とビジョンアシスタント。",
+                    "zh-hans": "面向多模态GPT-4级能力构建的大型语言与视觉助手。",
+                    "zh-hant": "針對多模態GPT-4級別能力建立的大型語言和視覺助手。"
                 }
             }
         },
@@ -8185,6 +8285,53 @@
                     "zh-hans": "大猩猩：LLM的API商店",
                     "zh-hant": "大猩猩：LLM的API商店"
                 }
+            },
+            "https://github.com/paralleldrive/sudolang-llm-support": {
+                "repository_name": "sudolang-llm-support",
+                "user_name": "paralleldrive",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "SudoLang LLM Support for VSCode",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "SudoLang LLM Support for VSCode",
+                    "ja": "VSCodeのSudoLang LLMサポート",
+                    "zh-hans": "SudoLang LLM 在 VSCode 中的支持",
+                    "zh-hant": "SudoLang LLM 在 VSCode 的支援"
+                }
+            },
+            "https://github.com/azure-samples/azure-search-openai-demo": {
+                "repository_name": "azure-search-openai-demo",
+                "user_name": "Azure-Samples",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.",
+                "topics": [
+                    "azd-templates",
+                    "azure",
+                    "azurecognitivesearch",
+                    "azureopenai",
+                    "chatgpt",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.",
+                    "ja": "Azureで実行される検索増強生成パターンのサンプルアプリで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを使用しています。",
+                    "zh-hans": "一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+                    "zh-hant": "一個在Azure上運行的應用程式範例，使用Azure Cognitive Search進行檢索，並使用Azure OpenAI大型語言模型來支持ChatGPT風格和Q&A體驗的檢索增強生成模式。"
+                }
             }
         },
         "Langchain": {
@@ -8969,6 +9116,26 @@
                     "ja": "数分でPython LLMアプリを構築する ⚡️",
                     "zh-hans": "在几分钟内构建Python LLM应用程序 ⚡️",
                     "zh-hant": "在幾分鐘內建立Python LLM應用程式 ⚡️"
+                }
+            },
+            "https://github.com/flowiseai/flowise": {
+                "repository_name": "Flowise",
+                "user_name": "FlowiseAI",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Drag & drop UI to build your customized LLM flow using LangchainJS",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Drag & drop UI to build your customized LLM flow using LangchainJS",
+                    "ja": "LangchainJSを使用してカスタマイズされたLLMフローを構築するためのドラッグ＆ドロップUI",
+                    "zh-hans": "使用LangchainJS拖放界面构建您定制的LLM流程",
+                    "zh-hant": "拖放式的使用者介面，讓您可以使用LangchainJS建立您自訂的LLM流程。"
                 }
             }
         },
@@ -13879,6 +14046,53 @@
                     "ja": "自分で無料で商用可能なChatGPT環境を10分で構築できます。ユーザー、注文、タスク、支払いなどの機能が含まれ、構築は簡単です。",
                     "zh-hans": "10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能。",
                     "zh-hant": "10分鐘搭建自己可免費商用的ChatGPT環境，搭建簡單，包含用戶，訂單，任務，付費等功能。"
+                }
+            },
+            "https://github.com/kiki-le-singe/tell-me-a-story-ai": {
+                "repository_name": "tell-me-a-story-ai",
+                "user_name": "kiki-le-singe",
+                "language": "TypeScript",
+                "license": null,
+                "description": "\"Tell me a story\" is a small app that allows you to write a story using ChatGPT and React Native.",
+                "topics": [
+                    "android",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "ios",
+                    "javascript",
+                    "mobile",
+                    "mobile-app",
+                    "openai-api",
+                    "openapi",
+                    "react-native",
+                    "reactjs",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "\"Tell me a story\" is a small app that allows you to write a story using ChatGPT and React Native.",
+                    "ja": "「ストーリーを教えて」という小さなアプリは、ChatGPTとReact Nativeを使用してストーリーを書くことができるアプリです。",
+                    "zh-hans": "“讲个故事”是一个小应用程序，可以使用ChatGPT和React Native编写故事。",
+                    "zh-hant": "「講個故事」是一個小應用程式，可以使用ChatGPT和React Native來撰寫故事。"
+                }
+            },
+            "https://github.com/robusta-dev/chatgpt-yaml-generator": {
+                "repository_name": "chatgpt-yaml-generator",
+                "user_name": "robusta-dev",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Give ChatGPT full knowledge of Kubernetes schemas + validation capabilities",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Give ChatGPT full knowledge of Kubernetes schemas + validation capabilities",
+                    "ja": "Kubernetesのスキーマと検証機能に関する完全な知識をChatGPTに与えてください。",
+                    "zh-hans": "将Kubernetes模式和验证能力的完整知识授予ChatGPT。",
+                    "zh-hant": "輸入：讓 ChatGPT 具備 Kubernetes 模式和驗證能力的完整知識\n輸出："
                 }
             }
         }
