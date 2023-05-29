@@ -16,29 +16,34 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [chat-ai-plugin](https://github.com/personoids/chat-ai-plugin) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. 
+**Awesome-lists**
+ * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+
+
+**Prompts**
+ * [jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers) - The prompts supported by JoPilot 
+
+
+**Chatbots**
+ * [privateGPT](https://github.com/samuraigpt/privategpt) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
+ * [LLaVA](https://github.com/haotian-liu/llava) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 
 
 **NLP**
- * [Voyager](https://github.com/minedojo/voyager) - An Open-Ended Embodied Agent with Large Language Models
- * [gorilla](https://github.com/shishirpatil/gorilla) - Gorilla: A store for APIs for LLMs.
+ * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
+ * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
 
 
 **Langchain**
- * [chainlit](https://github.com/chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
-
-
-**Openai**
- * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - An OpenAI API proxy running with Cloudflare worker.
+ * [Flowise](https://github.com/flowiseai/flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
 
 
 **Others**
- * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - The repository contains scripts and merge scripts that have been modified to adapt an Alpaca-Lora adapter for LoRA tuning when assuming the use of the "rinna/japanese-gpt-neox..." [gpt-neox] model converted to ggml.
- * [gptlink](https://github.com/gptlink/gptlink) - Build your own ChatGPT environment for free commercial use in just 10 minutes. The setup is simple and includes features such as user management, order management, task management, and payment processing.
+ * [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - "Tell me a story" is a small app that allows you to write a story using ChatGPT and React Native.
+ * [chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - Give ChatGPT full knowledge of Kubernetes schemas + validation capabilities
 
 
-_Updated on May 29, 2023_ (A total of 734 repositories listed.)
+_Updated on May 30, 2023_ (A total of 743 repositories listed.)
 
 🏅 [Appointat](https://github.com/Appointat) provided some repository information. Thank you!
 
@@ -76,6 +81,7 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
  * [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
  * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - A collection of awesome GPT4 prompts
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+ * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
 
 
 |Name|GitHub Stars|Language|License|
@@ -95,6 +101,7 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
 |[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)|![GitHub Repo stars](https://img.shields.io/github/stars/cckuailong/awesome-gpt-security?style=social)|-|cc0-1.0|
 |[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|-|-|
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
+|[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt?style=social)|Python|mit|
 
 
 ## Prompts
@@ -149,6 +156,7 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
  * [prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
  * [wonderful-prompts](https://github.com/yzfly/wonderful-prompts) - 🔥Selected Chinese prompts🔥, ChatGPT User Guide, Enhance ChatGPT's Playability and Usability!🚀
  * [RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt) - RecurrentGPT: Interactive Generation of (Arbitrarily) Long TextGenerates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. repo:  abs:  
+ * [jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers) - The prompts supported by JoPilot 
 
 
 |Name|GitHub Stars|Language|License|
@@ -203,6 +211,7 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
 |[prompt-engineering](https://github.com/brexhq/prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/brexhq/prompt-engineering?style=social)|-|mit|
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 |[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
+|[jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers)|![GitHub Repo stars](https://img.shields.io/github/stars/jopilot-net/jopilot-4-job-seekers?style=social)|C#|-|
 
 
 ## Chatbots
@@ -298,6 +307,8 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
  * [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - Analysis of self-tracked data: interactive visualizations & predictive algorithms
  * [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - AI-Powered Assistant Gem right in your Rails console. Full power of ChatGPT in Rails
  * [ecoute](https://github.com/sevask/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
+ * [privateGPT](https://github.com/samuraigpt/privategpt) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
+ * [LLaVA](https://github.com/haotian-liu/llava) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
 
 
 |Name|GitHub Stars|Language|License|
@@ -393,6 +404,8 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
 |[pdf-chatbot](https://github.com/dissorial/pdf-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/dissorial/pdf-chatbot?style=social)|Python|mit|
 |[ask_chatgpt](https://github.com/railsjazz/ask_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/railsjazz/ask_chatgpt?style=social)|Ruby|mit|
 |[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
+|[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/privateGPT?style=social)|JavaScript|mit|
+|[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -868,6 +881,8 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
  * [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models.
  * [Voyager](https://github.com/minedojo/voyager) - An Open-Ended Embodied Agent with Large Language Models
  * [gorilla](https://github.com/shishirpatil/gorilla) - Gorilla: A store for APIs for LLMs.
+ * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
+ * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
 
 
 |Name|GitHub Stars|Language|License|
@@ -983,8 +998,10 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
 |[qlora](https://github.com/artidoro/qlora)|![GitHub Repo stars](https://img.shields.io/github/stars/artidoro/qlora?style=social)|Jupyter Notebook|mit|
 |[BriefGPT](https://github.com/e-johnstonn/briefgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/e-johnstonn/BriefGPT?style=social)|Python|-|
 |[XrayGPT](https://github.com/mbzuai-oryx/xraygpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/XrayGPT?style=social)|Python|-|
-|[Voyager](https://github.com/minedojo/voyager)|![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)|Python|mit|
-|[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)|Python|-|
+|[Voyager](https://github.com/minedojo/voyager)|![GitHub Repo stars](https://img.shields.io/github/stars/minedojo/Voyager?style=social)|Python|mit|
+|[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/shishirpatil/gorilla?style=social)|Python|-|
+|[sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)|![GitHub Repo stars](https://img.shields.io/github/stars/paralleldrive/sudolang-llm-support?style=social)|-|mit|
+|[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1028,6 +1045,7 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
  * [LaWGPT](https://github.com/pengxiao-song/lawgpt) -  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com
  * [chainlit](https://github.com/chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
+ * [Flowise](https://github.com/flowiseai/flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
 
 
 |Name|GitHub Stars|Language|License|
@@ -1070,7 +1088,8 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
 |[DB-GPT](https://github.com/csunny/db-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/csunny/DB-GPT?style=social)|Python|mit|
 |[LaWGPT](https://github.com/pengxiao-song/lawgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/pengxiao-song/LaWGPT?style=social)|Python|-|
 |[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
-|[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)|TypeScript|apache-2.0|
+|[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
+|[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)|JavaScript|mit|
 
 
 ## Unity
@@ -1451,6 +1470,8 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
  * [PandaGPT](https://github.com/yxuansu/pandagpt) - PandaGPT: One Model To Instruction-Follow Them All
  * [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - The repository contains scripts and merge scripts that have been modified to adapt an Alpaca-Lora adapter for LoRA tuning when assuming the use of the "rinna/japanese-gpt-neox..." [gpt-neox] model converted to ggml.
  * [gptlink](https://github.com/gptlink/gptlink) - Build your own ChatGPT environment for free commercial use in just 10 minutes. The setup is simple and includes features such as user management, order management, task management, and payment processing.
+ * [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - "Tell me a story" is a small app that allows you to write a story using ChatGPT and React Native.
+ * [chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - Give ChatGPT full knowledge of Kubernetes schemas + validation capabilities
 
 
 |Name|GitHub Stars|Language|License|
@@ -1643,7 +1664,9 @@ _Updated on May 29, 2023_ (A total of 734 repositories listed.)
 |[Mr.trans](https://github.com/illumine-labs/mr.trans)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/Mr.trans?style=social)|-|mit|
 |[chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler)|![GitHub Repo stars](https://img.shields.io/github/stars/schwad/chat_gpt_error_handler?style=social)|Ruby|mit|
 |[PandaGPT](https://github.com/yxuansu/pandagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/yxuansu/PandaGPT?style=social)|Python|apache-2.0|
-|[rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora)|![GitHub Repo stars](https://img.shields.io/github/stars/Yukaryavka/rinna_gpt-neox_ggml-lora?style=social)|Python|apache-2.0|
+|[rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora)|![GitHub Repo stars](https://img.shields.io/github/stars/yukaryavka/rinna_gpt-neox_ggml-lora?style=social)|Python|apache-2.0|
 |[gptlink](https://github.com/gptlink/gptlink)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink?style=social)|PHP|-|
+|[tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/kiki-le-singe/tell-me-a-story-ai?style=social)|TypeScript|-|
+|[chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/robusta-dev/chatgpt-yaml-generator?style=social)|Python|mit|
 
 
