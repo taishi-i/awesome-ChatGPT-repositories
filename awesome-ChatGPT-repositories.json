@@ -1239,6 +1239,51 @@
                     "zh-hans": "JoPilot支持的提示信息",
                     "zh-hant": "JoPilot 支援的提示訊息"
                 }
+            },
+            "https://github.com/franxyao/chain-of-thought-hub": {
+                "repository_name": "chain-of-thought-hub",
+                "user_name": "FranxYao",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "Benchmarking large language models' complex reasoning ability with chain-of-thought prompting",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Benchmarking large language models' complex reasoning ability with chain-of-thought prompting",
+                    "ja": "チェーン・オブ・ソート・プロンプティングを用いた大規模言語モデルの複雑な推論能力のベンチマーク化",
+                    "zh-hans": "使用思维链提示来基准测试大型语言模型的复杂推理能力",
+                    "zh-hant": "使用思維鏈提示來評估大型語言模型的複雜推理能力的基準測試"
+                }
+            },
+            "https://github.com/aprilnea/chatgpt-admin-web": {
+                "repository_name": "ChatGPT-Admin-Web",
+                "user_name": "AprilNEA",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "带有用户管理和后台管理系统的 ChatGPT WebUI",
+                "topics": [
+                    "chatgpt",
+                    "gpt-4",
+                    "newbing",
+                    "nextjs",
+                    "prompt",
+                    "redis",
+                    "user-management",
+                    "vercel",
+                    "web",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT WebUI with user management and backend management system.",
+                    "ja": "ChatGPT WebUIには、ユーザー管理とバックエンド管理システムが含まれています。",
+                    "zh-hans": "带有用户管理和后台管理系统的 ChatGPT 网页用户界面",
+                    "zh-hant": "具備使用者管理和後台管理系統的 ChatGPT WebUI"
+                }
             }
         },
         "Chatbots": {
@@ -4653,6 +4698,109 @@
                     "zh-hans": "“每个聊天中的自主权的力量” - 将ChatGPT转化为一个强大的自主代理，可以独立完成复杂任务。",
                     "zh-hant": "「每個聊天中的自主權力」- 將ChatGPT轉化為一個強大的自主代理，可以獨立完成複雜的任務。"
                 }
+            },
+            "https://github.com/jesserweigel/github-chatgpt-plugin": {
+                "repository_name": "github-chatGPT-plugin",
+                "user_name": "JesseRWeigel",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A ChatGPT plugin to give access to GitHub.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT plugin to give access to GitHub.",
+                    "ja": "GitHubにアクセスするためのChatGPTプラグイン。",
+                    "zh-hans": "一个ChatGPT插件，可让您访问GitHub。",
+                    "zh-hant": "一個 ChatGPT 插件，可讓使用者訪問 GitHub。"
+                }
+            },
+            "https://github.com/kesor/chatgpt-code-plugin": {
+                "repository_name": "chatgpt-code-plugin",
+                "user_name": "kesor",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to \"talk\" with YOUR code",
+                "topics": [
+                    "chatgpt",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to \"talk\" with YOUR code",
+                    "ja": "Code ChatGPTプラグインは、ChatGPTがあなたのコードと「話す」ことを可能にするTypeScriptコードアナライザーです。",
+                    "zh-hans": "代码 ChatGPT 插件是一种 TypeScript 代码分析器，使 ChatGPT 能够与您的代码“交流”。",
+                    "zh-hant": "代碼 ChatGPT 插件是一種 TypeScript 代碼分析器，使 ChatGPT 能夠與您的代碼“交談”。"
+                }
+            },
+            "https://github.com/isaiahbjork/auto-gpt-crypto-plugin": {
+                "repository_name": "Auto-GPT-Crypto-Plugin",
+                "user_name": "isaiahbjork",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.",
+                "topics": [
+                    "altcoins",
+                    "autogpt",
+                    "cryptocurrencies",
+                    "cryptocurrency",
+                    "cryptocurrency-exchanges",
+                    "defi",
+                    "eth",
+                    "ethereum",
+                    "gpt-3",
+                    "gpt-4",
+                    "trading",
+                    "web3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.",
+                    "ja": "AutoGPT Cryptoプラグインは、トレーダーが自分の暗号通貨ウォレットまたは取引所をAuto-GPTに接続できるようにするソフトウェアツールです。",
+                    "zh-hans": "AutoGPT加密插件是一种软件工具，使交易者能够将他们的加密钱包或交易所连接到Auto-GPT。",
+                    "zh-hant": "AutoGPT加密插件是一款軟件工具，可讓交易員將其加密錢包或交易所連接到Auto-GPT。"
+                }
+            },
+            "https://github.com/samuraigpt/chatgpt-developer-plugins": {
+                "repository_name": "ChatGPT-Developer-Plugins",
+                "user_name": "SamurAIGPT",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Run ChatGPT plugins for free without having access to Plus subscription",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plugins",
+                    "gpt",
+                    "gpt4",
+                    "langchain",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Run ChatGPT plugins for free without having access to Plus subscription",
+                    "ja": "プラスサブスクリプションにアクセスせずに、無料でChatGPTプラグインを実行する。",
+                    "zh-hans": "免费运行ChatGPT插件，无需订阅Plus。",
+                    "zh-hant": "免費運行ChatGPT插件，無需訂閱Plus。"
+                }
             }
         },
         "CLIs": {
@@ -5841,6 +5989,27 @@
                     "ja": "会話型の半自律型開発者アシスタント。コピペなしのAIペアプログラミング。",
                     "zh-hans": "一个对话式半自主开发助手。AI配对编程，无需复制粘贴。",
                     "zh-hant": "一個對話式半自主開發者助手。AI配對編程，無需複製粘貼。"
+                }
+            },
+            "https://github.com/darrenburns/elia": {
+                "repository_name": "elia",
+                "user_name": "darrenburns",
+                "language": "Python",
+                "license": null,
+                "description": "A terminal ChatGPT client built with Textual",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt",
+                    "python",
+                    "terminal",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A terminal ChatGPT client built with Textual",
+                    "ja": "Textualで構築されたターミナルのChatGPTクライアント",
+                    "zh-hans": "一个使用Textual构建的终端ChatGPT客户端。",
+                    "zh-hant": "一個使用Textual建立的終端ChatGPT客戶端"
                 }
             }
         },
