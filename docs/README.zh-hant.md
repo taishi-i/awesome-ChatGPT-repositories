@@ -15,25 +15,34 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub) - 比較大型語言模型的複雜推理能力與連鎖思考提示
- * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - 帶用戶管理和后台管理系統的 ChatGPT WebUI
+**Awesome-lists**
+ * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - 精選了一些非常棒的資源,工具與其他光的東西,
+
+
+**Chatbots**
+ * [OpenChat](https://github.com/openchatai/openchat) - 透過OpenChat執行和創建自訂的ChatGPT類型的機器人,
 
 
 **Browser-extensions**
- * [github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin) - 這是一款提供 GitHub 访问權限的 ChatGPT 插件.
- * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - 該程式是一個 TypeScript 代碼分析器,
- * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - 該軟體是為交易者提供連接其加密錢包或交易所與Auto-GPT的軟體工具.
- * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - 沒有使用 Plus 訂閱,可以免費執行 ChatGPT 插件
+ * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - 這樣的程式就能成為你第一次開發插件的例子.
 
 
 **CLIs**
- * [elia](https://github.com/darrenburns/elia) - 透過 Textural 建立的終端 ChatGPT 客戶端
+ * [README-AI](https://github.com/eli64s/readme-ai) -  CLI工具生成美麗且有資訊性的 README 標記檔.
 
 
-_Updated on June 01, 2023_ (A total of 750 repositories listed.)
+**NLP**
+ * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - 沒有再乏的複製貼貼. 願多年多久!
+ * [ToolBench](https://github.com/openbmb/toolbench) - 提供訓練,服務和評估大型語言學習工具模式的開放平台.
 
-🏅 [kesor](https://github.com/kesor) provided some repository information. Thank you!
+
+**Langchain**
+ * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - 嵌入文本檔案到向量,儲存在Pinecone上,並使用GPT3和Langchain在Next.js UI中進行語義搜索
+
+
+_Updated on June 02, 2023_ (A total of 757 repositories listed.)
+
+🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -70,6 +79,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - 一系列令人驚嘆的GPT4提示集合
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 ChatGPT 的精彩列表 — 由 OpenAI 開發的人工智慧聊天機器人
  * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓免費的 ChatGPT 鏡像網站列表，持續更新。
+ * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - 一個經過精心挑選的資源、工具和其他閃亮物品的清單，適用於GPT提示工程。
 
 
 |Name|GitHub Stars|Language|License|
@@ -90,6 +100,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|-|-|
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
 |[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lilittlecat/awesome-free-chatgpt?style=social)|Python|mit|
+|[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
 
 
 ## Prompts
@@ -204,8 +215,8 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 |[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
 |[jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers)|![GitHub Repo stars](https://img.shields.io/github/stars/jopilot-net/jopilot-4-job-seekers?style=social)|C#|-|
-|[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/FranxYao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
-|[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/AprilNEA/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
+|[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
+|[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 
 
 ## Chatbots
@@ -304,6 +315,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [ecoute](https://github.com/sevask/ecoute) - Ecoute是一個即時轉錄工具，可以為使用者的麥克風輸入（您）和使用者的揚聲器輸出（揚聲器）提供即時轉錄，並在文本框中生成使用OpenAI的GPT-3.5的建議回應，該回應基於對話的即時轉錄。
  * [privateGPT](https://github.com/samuraigpt/privategpt) - 一個使用GPT強大功能與您的文件進行私密互動的應用程式，100％私密，無數據洩漏。
  * [LLaVA](https://github.com/haotian-liu/llava) - 針對多模態GPT-4級別能力建立的大型語言和視覺助手。
+ * [OpenChat](https://github.com/openchatai/openchat) - 使用OpenChat運行和創建自定義的ChatGPT樣式機器人，在任何地方嵌入和分享這些機器人，這是一個開源的聊天機器人控制台。
 
 
 |Name|GitHub Stars|Language|License|
@@ -401,6 +413,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
 |[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/privateGPT?style=social)|JavaScript|mit|
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
+|[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
 
 
 ## Browser-extensions
@@ -492,6 +505,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - 代碼 ChatGPT 插件是一種 TypeScript 代碼分析器，使 ChatGPT 能夠與您的代碼“交談”。
  * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - AutoGPT加密插件是一款軟件工具，可讓交易員將其加密錢包或交易所連接到Auto-GPT。
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - 免費運行ChatGPT插件，無需訂閱Plus。
+ * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - 透過這個極簡的程式碼和指示，您可以開始開發 ChatGPT 插件。這是您第一個插件開發的完美範例。
 
 
 |Name|GitHub Stars|Language|License|
@@ -579,10 +593,11 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/openai-plugin-fastapi?style=social)|Bicep|mit|
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 |[chat-ai-plugin](https://github.com/personoids/chat-ai-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/chat-ai-plugin?style=social)|JavaScript|mit|
-|[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/JesseRWeigel/github-chatGPT-plugin?style=social)|Python|mit|
+|[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/jesserweigel/github-chatGPT-plugin?style=social)|Python|mit|
 |[chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/kesor/chatgpt-code-plugin?style=social)|TypeScript|mit|
 |[Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-Crypto-Plugin?style=social)|Python|mit|
-|[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/ChatGPT-Developer-Plugins?style=social)|Python|mit|
+|[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
+|[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
 
 
 ## CLIs
@@ -650,6 +665,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - 一個免費的ChatGPT客戶端，現在支援線上搜尋。無需金鑰，無需登錄。多節點自動速度測量切換，無字數限制的長文翻譯，AI圖形。
  * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 一個對話式半自主開發者助手。AI配對編程，無需複製粘貼。
  * [elia](https://github.com/darrenburns/elia) - 一個使用Textual建立的終端ChatGPT客戶端
+ * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 一個 CLI 工具，可以生成美觀且豐富的 README Markdown 文件。由 OpenAI 的 GPT APIs 提供支持 💫
 
 
 |Name|GitHub Stars|Language|License|
@@ -715,6 +731,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub)|![GitHub Repo stars](https://img.shields.io/github/stars/akl7777777/free-chatgpt-client-pub?style=social)|JavaScript|-|
 |[duet-gpt](https://github.com/kristoferlund/duet-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)|TypeScript|mit|
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
+|[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
 
 
 ## Reimplementations
@@ -898,6 +915,8 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [gorilla](https://github.com/shishirpatil/gorilla) - 大猩猩：LLM的API商店
  * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM 在 VSCode 的支援
  * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - 一個在Azure上運行的應用程式範例，使用Azure Cognitive Search進行檢索，並使用Azure OpenAI大型語言模型來支持ChatGPT風格和Q&A體驗的檢索增強生成模式。
+ * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPT 是一個 Python 腳本，讓您可以將無限大小的文本輸入到 OpenAI API 中。不再需要繁瑣的複製和粘貼。多線程萬歲！
+ * [ToolBench](https://github.com/openbmb/toolbench) - 一個開放平台，用於訓練、服務和評估大型語言模型，以進行工具學習。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1017,6 +1036,8 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/shishirpatil/gorilla?style=social)|Python|-|
 |[sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)|![GitHub Repo stars](https://img.shields.io/github/stars/paralleldrive/sudolang-llm-support?style=social)|-|mit|
 |[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo?style=social)|Python|mit|
+|[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
+|[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1061,6 +1082,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）是一個開源的演示平台，您可以輕鬆展示您的AI模型。現在它支持DragGAN、ChatGPT、ImageBind、像GPT-4、SAM、交互式圖像編輯等多模態聊天。請在igpt.opengvlab.com上嘗試。
  * [chainlit](https://github.com/chainlit/chainlit) - 在幾分鐘內建立Python LLM應用程式 ⚡️
  * [Flowise](https://github.com/flowiseai/flowise) - 拖放式的使用者介面，讓您可以使用LangchainJS建立您自訂的LLM流程。
+ * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - 將文本文件嵌入向量中，存儲在Pinecone中，並使用GPT3和Langchain在Next.js UI中啟用語義搜索。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1105,6 +1127,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
 |[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
 |[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social)|JavaScript|mit|
+|[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
 
 
 ## Unity
