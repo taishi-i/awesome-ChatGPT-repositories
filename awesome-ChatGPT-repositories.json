@@ -335,6 +335,33 @@
                     "zh-hans": "🆓免费的 ChatGPT 镜像网站列表，持续更新。",
                     "zh-hant": "🆓免費的 ChatGPT 鏡像網站列表，持續更新。"
                 }
+            },
+            "https://github.com/snwfdhmp/awesome-gpt-prompt-engineering": {
+                "repository_name": "awesome-gpt-prompt-engineering",
+                "user_name": "snwfdhmp",
+                "language": null,
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.",
+                "topics": [
+                    "awesome",
+                    "chatgpt",
+                    "gpt",
+                    "gpt-4",
+                    "prompt",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.",
+                    "ja": "GPTプロンプトエンジニアリングのための素晴らしいリソース、ツール、その他の輝くものの厳選リスト。",
+                    "zh-hans": "一个为GPT提示工程师精心策划的资源、工具和其他闪亮物品的精选列表。",
+                    "zh-hant": "一個經過精心挑選的資源、工具和其他閃亮物品的清單，適用於GPT提示工程。"
+                }
             }
         },
         "Prompts": {
@@ -3114,6 +3141,20 @@
                     "zh-hans": "面向多模态GPT-4级能力构建的大型语言与视觉助手。",
                     "zh-hant": "針對多模態GPT-4級別能力建立的大型語言和視覺助手。"
                 }
+            },
+            "https://github.com/openchatai/openchat": {
+                "repository_name": "OpenChat",
+                "user_name": "openchatai",
+                "language": "Blade",
+                "license": null,
+                "description": "Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.",
+                    "ja": "OpenChatでカスタムChatGPTのようなボットを実行して作成し、どこでも埋め込んで共有できるオープンソースのチャットボットコンソールです。",
+                    "zh-hans": "使用OpenChat运行和创建自定义的ChatGPT样式的机器人，在任何地方嵌入和分享这些机器人，这是一个开源的聊天机器人控制台。",
+                    "zh-hant": "使用OpenChat運行和創建自定義的ChatGPT樣式機器人，在任何地方嵌入和分享這些機器人，這是一個開源的聊天機器人控制台。"
+                }
             }
         },
         "Browser-extensions": {
@@ -4801,6 +4842,20 @@
                     "zh-hans": "免费运行ChatGPT插件，无需订阅Plus。",
                     "zh-hant": "免費運行ChatGPT插件，無需訂閱Plus。"
                 }
+            },
+            "https://github.com/yoshinorisano/chatgpt-simple-todo-plugin": {
+                "repository_name": "chatgpt-simple-todo-plugin",
+                "user_name": "yoshinorisano",
+                "language": "Python",
+                "license": null,
+                "description": "With this minimal code and instructions, you can get started on developing a ChatGPT Plugin. It's perfect as an example for your first plugin development.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "With this minimal code and instructions, you can get started on developing a ChatGPT Plugin. It's perfect as an example for your first plugin development.",
+                    "ja": "この最小限のコードと手順で、ChatGPTプラグインの開発を始めることができます。これは、最初のプラグイン開発の例として完璧です。",
+                    "zh-hans": "通过这个简单的代码和说明，你可以开始开发ChatGPT插件。这是你第一个插件开发的完美示例。",
+                    "zh-hant": "透過這個極簡的程式碼和指示，您可以開始開發 ChatGPT 插件。這是您第一個插件開發的完美範例。"
+                }
             }
         },
         "CLIs": {
@@ -6010,6 +6065,46 @@
                     "ja": "Textualで構築されたターミナルのChatGPTクライアント",
                     "zh-hans": "一个使用Textual构建的终端ChatGPT客户端。",
                     "zh-hant": "一個使用Textual建立的終端ChatGPT客戶端"
+                }
+            },
+            "https://github.com/eli64s/readme-ai": {
+                "repository_name": "README-AI",
+                "user_name": "eli64s",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫",
+                "topics": [
+                    "ai",
+                    "auto-readme",
+                    "automated-readme",
+                    "badges",
+                    "chatgpt-python",
+                    "command-line-tools",
+                    "documentation",
+                    "gpt-3",
+                    "gpt-4",
+                    "nlp",
+                    "openai",
+                    "openai-api",
+                    "openai-gpt3",
+                    "python",
+                    "readme",
+                    "readme-automation",
+                    "readme-generator",
+                    "readme-generator-template",
+                    "readme-template"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫",
+                    "ja": "🚀 README Markdownファイルを美しく情報豊かに生成するCLIツール。OpenAIのGPT APIによって動作します 💫",
+                    "zh-hans": "🚀 生成美观且信息丰富的 README Markdown 文件的 CLI 工具。由 OpenAI 的 GPT API 提供支持 💫",
+                    "zh-hant": "🚀 一個 CLI 工具，可以生成美觀且豐富的 README Markdown 文件。由 OpenAI 的 GPT APIs 提供支持 💫"
                 }
             }
         },
@@ -8501,6 +8596,40 @@
                     "zh-hans": "一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
                     "zh-hant": "一個在Azure上運行的應用程式範例，使用Azure Cognitive Search進行檢索，並使用Azure OpenAI大型語言模型來支持ChatGPT風格和Q&A體驗的檢索增強生成模式。"
                 }
+            },
+            "https://github.com/emmethalm/infinitegpt": {
+                "repository_name": "infiniteGPT",
+                "user_name": "emmethalm",
+                "language": "Python",
+                "license": null,
+                "description": "InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!",
+                    "ja": "InfiniteGPTは、OpenAI APIに無制限のサイズのテキストを入力できるPythonスクリプトです。もう面倒なコピー＆ペーストは不要です。マルチスレッド万歳！",
+                    "zh-hans": "InfiniteGPT是一个Python脚本，可以让您将无限大小的文本输入到OpenAI API中。不再需要繁琐的复制和粘贴。多线程万岁！",
+                    "zh-hant": "InfiniteGPT 是一個 Python 腳本，讓您可以將無限大小的文本輸入到 OpenAI API 中。不再需要繁瑣的複製和粘貼。多線程萬歲！"
+                }
+            },
+            "https://github.com/openbmb/toolbench": {
+                "repository_name": "ToolBench",
+                "user_name": "OpenBMB",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "An open platform for training, serving, and evaluating large language model for tool learning.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An open platform for training, serving, and evaluating large language model for tool learning.",
+                    "ja": "ツール学習のための大規模言語モデルのトレーニング、提供、評価のためのオープンプラットフォーム。",
+                    "zh-hans": "一个用于训练、服务和评估大型语言模型的开放平台，用于工具学习。",
+                    "zh-hant": "一個開放平台，用於訓練、服務和評估大型語言模型，以進行工具學習。"
+                }
             }
         },
         "Langchain": {
@@ -9305,6 +9434,25 @@
                     "ja": "LangchainJSを使用してカスタマイズされたLLMフローを構築するためのドラッグ＆ドロップUI",
                     "zh-hans": "使用LangchainJS拖放界面构建您定制的LLM流程",
                     "zh-hant": "拖放式的使用者介面，讓您可以使用LangchainJS建立您自訂的LLM流程。"
+                }
+            },
+            "https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt": {
+                "repository_name": "semantic-search-nextjs-pinecone-langchain-chatgpt",
+                "user_name": "dabit3",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI",
+                "topics": [
+                    "langchain",
+                    "nextjs",
+                    "openai",
+                    "pinecone"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI",
+                    "ja": "テキストファイルをベクトルに埋め込み、Pineconeに保存し、Next.js UIでGPT3とLangchainを使用して意味検索を可能にします。",
+                    "zh-hans": "将文本文件嵌入向量中，存储在Pinecone上，并使用GPT3和Langchain在Next.js UI中实现语义搜索。",
+                    "zh-hant": "將文本文件嵌入向量中，存儲在Pinecone中，並使用GPT3和Langchain在Next.js UI中啟用語義搜索。"
                 }
             }
         },

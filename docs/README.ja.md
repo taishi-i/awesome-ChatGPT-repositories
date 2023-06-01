@@ -15,25 +15,34 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub) - チェーン・オブ・ソート・プロンプティングを用いた大規模言語モデルの複雑な推論能力のベンチマーク化
- * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - ChatGPT WebUIには、ユーザー管理とバックエンド管理システムが含まれています。
+**Awesome-lists**
+ * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - GPTプロンプトエンジニアリングのための素晴らしいリソース、ツール、その他の輝くものの厳選リスト。
+
+
+**Chatbots**
+ * [OpenChat](https://github.com/openchatai/openchat) - OpenChatでカスタムChatGPTのようなボットを実行して作成し、どこでも埋め込んで共有できるオープンソースのチャットボットコンソールです。
 
 
 **Browser-extensions**
- * [github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin) - GitHubにアクセスするためのChatGPTプラグイン。
- * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - Code ChatGPTプラグインは、ChatGPTがあなたのコードと「話す」ことを可能にするTypeScriptコードアナライザーです。
- * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - AutoGPT Cryptoプラグインは、トレーダーが自分の暗号通貨ウォレットまたは取引所をAuto-GPTに接続できるようにするソフトウェアツールです。
- * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - プラスサブスクリプションにアクセスせずに、無料でChatGPTプラグインを実行する。
+ * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - この最小限のコードと手順で、ChatGPTプラグインの開発を始めることができます。これは、最初のプラグイン開発の例として完璧です。
 
 
 **CLIs**
- * [elia](https://github.com/darrenburns/elia) - Textualで構築されたターミナルのChatGPTクライアント
+ * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 README Markdownファイルを美しく情報豊かに生成するCLIツール。OpenAIのGPT APIによって動作します 💫
 
 
-_Updated on June 01, 2023_ (A total of 750 repositories listed.)
+**NLP**
+ * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPTは、OpenAI APIに無制限のサイズのテキストを入力できるPythonスクリプトです。もう面倒なコピー＆ペーストは不要です。マルチスレッド万歳！
+ * [ToolBench](https://github.com/openbmb/toolbench) - ツール学習のための大規模言語モデルのトレーニング、提供、評価のためのオープンプラットフォーム。
 
-🏅 [kesor](https://github.com/kesor) provided some repository information. Thank you!
+
+**Langchain**
+ * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - テキストファイルをベクトルに埋め込み、Pineconeに保存し、Next.js UIでGPT3とLangchainを使用して意味検索を可能にします。
+
+
+_Updated on June 02, 2023_ (A total of 757 repositories listed.)
+
+🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -70,6 +79,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - 素晴らしいGPT4プロンプトのコレクション
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 OpenAIによって開発された人工知能チャットボットChatGPTの素晴らしいリスト
  * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓無料のChatGPTミラーサイトのリスト、常に更新中。
+ * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - GPTプロンプトエンジニアリングのための素晴らしいリソース、ツール、その他の輝くものの厳選リスト。
 
 
 |Name|GitHub Stars|Language|License|
@@ -90,6 +100,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|-|-|
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
 |[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lilittlecat/awesome-free-chatgpt?style=social)|Python|mit|
+|[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
 
 
 ## Prompts
@@ -206,8 +217,8 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 |[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
 |[jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers)|![GitHub Repo stars](https://img.shields.io/github/stars/jopilot-net/jopilot-4-job-seekers?style=social)|C#|-|
-|[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/FranxYao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
-|[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/AprilNEA/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
+|[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
+|[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 
 
 ## Chatbots
@@ -308,6 +319,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [ecoute](https://github.com/sevask/ecoute) - Ecouteは、ユーザーのマイク入力（You）とスピーカー出力（Speaker）の両方に対して、リアルタイムのテキストトランスクリプトを提供するライブトランスクリプションツールです。また、会話のライブトランスクリプションに基づいて、OpenAIのGPT-3.5を使用してユーザーが言うべき推奨応答を生成します。
  * [privateGPT](https://github.com/samuraigpt/privategpt) - GPTの力を使って、100％プライベートでドキュメントとやり取りするアプリ。データ漏洩はありません。
  * [LLaVA](https://github.com/haotian-liu/llava) - マルチモーダルなGPT-4レベルの機能に向けて構築された大規模な言語とビジョンアシスタント。
+ * [OpenChat](https://github.com/openchatai/openchat) - OpenChatでカスタムChatGPTのようなボットを実行して作成し、どこでも埋め込んで共有できるオープンソースのチャットボットコンソールです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -405,6 +417,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
 |[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/privateGPT?style=social)|JavaScript|mit|
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
+|[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
 
 
 ## Browser-extensions
@@ -496,6 +509,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - Code ChatGPTプラグインは、ChatGPTがあなたのコードと「話す」ことを可能にするTypeScriptコードアナライザーです。
  * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - AutoGPT Cryptoプラグインは、トレーダーが自分の暗号通貨ウォレットまたは取引所をAuto-GPTに接続できるようにするソフトウェアツールです。
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - プラスサブスクリプションにアクセスせずに、無料でChatGPTプラグインを実行する。
+ * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - この最小限のコードと手順で、ChatGPTプラグインの開発を始めることができます。これは、最初のプラグイン開発の例として完璧です。
 
 
 |Name|GitHub Stars|Language|License|
@@ -583,10 +597,11 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/openai-plugin-fastapi?style=social)|Bicep|mit|
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 |[chat-ai-plugin](https://github.com/personoids/chat-ai-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/chat-ai-plugin?style=social)|JavaScript|mit|
-|[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/JesseRWeigel/github-chatGPT-plugin?style=social)|Python|mit|
+|[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/jesserweigel/github-chatGPT-plugin?style=social)|Python|mit|
 |[chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/kesor/chatgpt-code-plugin?style=social)|TypeScript|mit|
 |[Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-Crypto-Plugin?style=social)|Python|mit|
-|[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/ChatGPT-Developer-Plugins?style=social)|Python|mit|
+|[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
+|[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
 
 
 ## CLIs
@@ -652,6 +667,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - 無料のChatGPTクライアント、オンライン検索に対応。キー不要、ログイン不要。マルチノード自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスを搭載。
  * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 会話型の半自律型開発者アシスタント。コピペなしのAIペアプログラミング。
  * [elia](https://github.com/darrenburns/elia) - Textualで構築されたターミナルのChatGPTクライアント
+ * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 README Markdownファイルを美しく情報豊かに生成するCLIツール。OpenAIのGPT APIによって動作します 💫
 
 
 |Name|GitHub Stars|Language|License|
@@ -717,6 +733,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub)|![GitHub Repo stars](https://img.shields.io/github/stars/akl7777777/free-chatgpt-client-pub?style=social)|JavaScript|-|
 |[duet-gpt](https://github.com/kristoferlund/duet-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)|TypeScript|mit|
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
+|[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
 
 
 ## Reimplementations
@@ -895,6 +912,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [gorilla](https://github.com/shishirpatil/gorilla) - ゴリラ：LLMのためのAPIストア
  * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - VSCodeのSudoLang LLMサポート
  * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - Azureで実行される検索増強生成パターンのサンプルアプリで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを使用しています。
+ * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPTは、OpenAI APIに無制限のサイズのテキストを入力できるPythonスクリプトです。もう面倒なコピー＆ペーストは不要です。マルチスレッド万歳！
+ * [ToolBench](https://github.com/openbmb/toolbench) - ツール学習のための大規模言語モデルのトレーニング、提供、評価のためのオープンプラットフォーム。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1014,6 +1033,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/shishirpatil/gorilla?style=social)|Python|-|
 |[sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)|![GitHub Repo stars](https://img.shields.io/github/stars/paralleldrive/sudolang-llm-support?style=social)|-|mit|
 |[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo?style=social)|Python|mit|
+|[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
+|[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1058,6 +1079,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）は、AIモデルを簡単に展示できるオープンソースのデモプラットフォームです。現在、DragGAN、ChatGPT、ImageBind、GPT-4のようなマルチモーダルチャット、SAM、インタラクティブな画像編集などをサポートしています。igpt.opengvlab.comでお試しください。
  * [chainlit](https://github.com/chainlit/chainlit) - 数分でPython LLMアプリを構築する ⚡️
  * [Flowise](https://github.com/flowiseai/flowise) - LangchainJSを使用してカスタマイズされたLLMフローを構築するためのドラッグ＆ドロップUI
+ * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - テキストファイルをベクトルに埋め込み、Pineconeに保存し、Next.js UIでGPT3とLangchainを使用して意味検索を可能にします。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1102,6 +1124,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
 |[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
 |[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social)|JavaScript|mit|
+|[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
 
 
 ## Unity

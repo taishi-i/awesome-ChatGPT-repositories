@@ -16,25 +16,34 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub) - Benchmarking large language models' complex reasoning ability with chain-of-thought prompting
- * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - ChatGPT WebUI with user management and backend management system.
+**Awesome-lists**
+ * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
+
+
+**Chatbots**
+ * [OpenChat](https://github.com/openchatai/openchat) - Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.
 
 
 **Browser-extensions**
- * [github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin) - A ChatGPT plugin to give access to GitHub.
- * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code
- * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
- * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - Run ChatGPT plugins for free without having access to Plus subscription
+ * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - With this minimal code and instructions, you can get started on developing a ChatGPT Plugin. It's perfect as an example for your first plugin development.
 
 
 **CLIs**
- * [elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
+ * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
 
 
-_Updated on June 01, 2023_ (A total of 750 repositories listed.)
+**NLP**
+ * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
+ * [ToolBench](https://github.com/openbmb/toolbench) - An open platform for training, serving, and evaluating large language model for tool learning.
 
-🏅 [kesor](https://github.com/kesor) provided some repository information. Thank you!
+
+**Langchain**
+ * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
+
+
+_Updated on June 02, 2023_ (A total of 757 repositories listed.)
+
+🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -71,6 +80,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - A collection of awesome GPT4 prompts
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
  * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+ * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
 
 
 |Name|GitHub Stars|Language|License|
@@ -91,6 +101,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|-|-|
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
 |[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lilittlecat/awesome-free-chatgpt?style=social)|Python|mit|
+|[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
 
 
 ## Prompts
@@ -203,8 +214,8 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 |[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
 |[jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers)|![GitHub Repo stars](https://img.shields.io/github/stars/jopilot-net/jopilot-4-job-seekers?style=social)|C#|-|
-|[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/FranxYao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
-|[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/AprilNEA/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
+|[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
+|[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 
 
 ## Chatbots
@@ -302,6 +313,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [ecoute](https://github.com/sevask/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
  * [privateGPT](https://github.com/samuraigpt/privategpt) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
  * [LLaVA](https://github.com/haotian-liu/llava) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
+ * [OpenChat](https://github.com/openchatai/openchat) - Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.
 
 
 |Name|GitHub Stars|Language|License|
@@ -399,6 +411,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
 |[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/privateGPT?style=social)|JavaScript|mit|
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
+|[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
 
 
 ## Browser-extensions
@@ -490,6 +503,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code
  * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - Run ChatGPT plugins for free without having access to Plus subscription
+ * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - With this minimal code and instructions, you can get started on developing a ChatGPT Plugin. It's perfect as an example for your first plugin development.
 
 
 |Name|GitHub Stars|Language|License|
@@ -577,10 +591,11 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/openai-plugin-fastapi?style=social)|Bicep|mit|
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 |[chat-ai-plugin](https://github.com/personoids/chat-ai-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/chat-ai-plugin?style=social)|JavaScript|mit|
-|[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/JesseRWeigel/github-chatGPT-plugin?style=social)|Python|mit|
+|[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/jesserweigel/github-chatGPT-plugin?style=social)|Python|mit|
 |[chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/kesor/chatgpt-code-plugin?style=social)|TypeScript|mit|
 |[Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-Crypto-Plugin?style=social)|Python|mit|
-|[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/ChatGPT-Developer-Plugins?style=social)|Python|mit|
+|[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
+|[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
 
 
 ## CLIs
@@ -646,6 +661,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - **A free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
  * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - A conversational semi-autonomous developer assistant. AI pair programming without the copypasta.
  * [elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
+ * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
 
 
 |Name|GitHub Stars|Language|License|
@@ -711,6 +727,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub)|![GitHub Repo stars](https://img.shields.io/github/stars/akl7777777/free-chatgpt-client-pub?style=social)|JavaScript|-|
 |[duet-gpt](https://github.com/kristoferlund/duet-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)|TypeScript|mit|
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
+|[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
 
 
 ## Reimplementations
@@ -886,6 +903,8 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [gorilla](https://github.com/shishirpatil/gorilla) - Gorilla: A store for APIs for LLMs.
  * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM Support for VSCode
  * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
+ * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
+ * [ToolBench](https://github.com/openbmb/toolbench) - An open platform for training, serving, and evaluating large language model for tool learning.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1005,6 +1024,8 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/shishirpatil/gorilla?style=social)|Python|-|
 |[sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)|![GitHub Repo stars](https://img.shields.io/github/stars/paralleldrive/sudolang-llm-support?style=social)|-|mit|
 |[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo?style=social)|Python|mit|
+|[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
+|[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1049,6 +1070,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com
  * [chainlit](https://github.com/chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
  * [Flowise](https://github.com/flowiseai/flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
+ * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
 
 
 |Name|GitHub Stars|Language|License|
@@ -1093,6 +1115,7 @@ _Updated on June 01, 2023_ (A total of 750 repositories listed.)
 |[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
 |[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
 |[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social)|JavaScript|mit|
+|[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
 
 
 ## Unity

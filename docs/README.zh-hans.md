@@ -15,25 +15,34 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub) - 较量大型语言模型的复杂推理能力与思维链提示
- * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - 带用户管理和后台管理系统的 ChatGPT WebUI
+**Awesome-lists**
+ * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - 精心整理的GPT快速工程资源,工具和其他闪亮的东西.
+
+
+**Chatbots**
+ * [OpenChat](https://github.com/openchatai/openchat) - 运行和创建自定义的ChatGPT类似的机器人, 嵌入和分享这些机器人在任何地方, 开源聊天机器人控制台.
 
 
 **Browser-extensions**
- * [github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin) - 一个ChatGPT插件,可以访问GitHub.
- * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - 编码 ChatGPT 插件是一个 TypeScript 代码分析器,使 ChatGPT 能够与你的代码"交谈"
- * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - AutoGPT加密插件是一个软件工具,使交易者能够将他们的加密钱包或交易所连接到Auto-GPT.
- * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - 运行免费的ChatGPT插件,而无需访问Plus订阅
+ * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - 通过这些最小的代码和说明,你可以开始开发一个ChatGPT插件.
 
 
 **CLIs**
- * [elia](https://github.com/darrenburns/elia) - 一个用 Textual 构建的终端 ChatGPT 客户端
+ * [README-AI](https://github.com/eli64s/readme-ai) -  CLI工具,生成美丽而有信息的README标记文件.由OpenAI的GPTAPI提供支持
 
 
-_Updated on June 01, 2023_ (A total of 750 repositories listed.)
+**NLP**
+ * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPT是一个Python脚本,可以让你在OpenAI API中输入无限大小的文本.不再繁的复制和粘贴.多年来多线程!
+ * [ToolBench](https://github.com/openbmb/toolbench) - 培训,服务和评估大型语言模型的开放平台.
 
-🏅 [kesor](https://github.com/kesor) provided some repository information. Thank you!
+
+**Langchain**
+ * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - 将文本文件嵌入向量中,存储在Pinecone上,并使用GPT3和Langchain在Next.jsUI中实现语义搜索
+
+
+_Updated on June 02, 2023_ (A total of 757 repositories listed.)
+
+🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -71,6 +80,7 @@ ChatGPT资料汇总学习，持续更新......
  * [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - 一组令人惊叹的GPT4提示集合
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 ChatGPT的超棒列表——由OpenAI开发的人工智能聊天机器人
  * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。
+ * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - 一个为GPT提示工程师精心策划的资源、工具和其他闪亮物品的精选列表。
 
 
 |Name|GitHub Stars|Language|License|
@@ -91,6 +101,7 @@ ChatGPT资料汇总学习，持续更新......
 |[Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/ora-sh/Awesome-GPT4-Prompts?style=social)|-|-|
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
 |[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lilittlecat/awesome-free-chatgpt?style=social)|Python|mit|
+|[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
 
 
 ## Prompts
@@ -203,8 +214,8 @@ ChatGPT资料汇总学习，持续更新......
 |[wonderful-prompts](https://github.com/yzfly/wonderful-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/yzfly/wonderful-prompts?style=social)|-|mit|
 |[RecurrentGPT](https://github.com/aiwaves-cn/recurrentgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aiwaves-cn/RecurrentGPT?style=social)|Python|apache-2.0|
 |[jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers)|![GitHub Repo stars](https://img.shields.io/github/stars/jopilot-net/jopilot-4-job-seekers?style=social)|C#|-|
-|[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/FranxYao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
-|[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/AprilNEA/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
+|[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
+|[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 
 
 ## Chatbots
@@ -302,6 +313,7 @@ ChatGPT资料汇总学习，持续更新......
  * [ecoute](https://github.com/sevask/ecoute) - Ecoute是一款实时转录工具，可以为用户的麦克风输入（您）和扬声器输出（扬声器）提供实时转录，并在文本框中生成使用OpenAI的GPT-3.5的建议响应。它基于对话的实时转录为用户提供要说的建议。
  * [privateGPT](https://github.com/samuraigpt/privategpt) - 一款使用GPT强大功能与您的文档进行私密互动的应用程序，100%私密，无数据泄漏。
  * [LLaVA](https://github.com/haotian-liu/llava) - 面向多模态GPT-4级能力构建的大型语言与视觉助手。
+ * [OpenChat](https://github.com/openchatai/openchat) - 使用OpenChat运行和创建自定义的ChatGPT样式的机器人，在任何地方嵌入和分享这些机器人，这是一个开源的聊天机器人控制台。
 
 
 |Name|GitHub Stars|Language|License|
@@ -399,6 +411,7 @@ ChatGPT资料汇总学习，持续更新......
 |[ecoute](https://github.com/sevask/ecoute)|![GitHub Repo stars](https://img.shields.io/github/stars/sevask/ecoute?style=social)|Python|mit|
 |[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/privateGPT?style=social)|JavaScript|mit|
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
+|[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
 
 
 ## Browser-extensions
@@ -491,6 +504,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - 代码 ChatGPT 插件是一种 TypeScript 代码分析器，使 ChatGPT 能够与您的代码“交流”。
  * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - AutoGPT加密插件是一种软件工具，使交易者能够将他们的加密钱包或交易所连接到Auto-GPT。
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - 免费运行ChatGPT插件，无需订阅Plus。
+ * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - 通过这个简单的代码和说明，你可以开始开发ChatGPT插件。这是你第一个插件开发的完美示例。
 
 
 |Name|GitHub Stars|Language|License|
@@ -578,10 +592,11 @@ ChatGPT资料汇总学习，持续更新......
 |[openai-plugin-fastapi](https://github.com/azure-samples/openai-plugin-fastapi)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/openai-plugin-fastapi?style=social)|Bicep|mit|
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 |[chat-ai-plugin](https://github.com/personoids/chat-ai-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/chat-ai-plugin?style=social)|JavaScript|mit|
-|[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/JesseRWeigel/github-chatGPT-plugin?style=social)|Python|mit|
+|[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/jesserweigel/github-chatGPT-plugin?style=social)|Python|mit|
 |[chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/kesor/chatgpt-code-plugin?style=social)|TypeScript|mit|
 |[Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-Crypto-Plugin?style=social)|Python|mit|
-|[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/SamurAIGPT/ChatGPT-Developer-Plugins?style=social)|Python|mit|
+|[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
+|[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
 
 
 ## CLIs
@@ -650,6 +665,7 @@ ChatGPT资料汇总学习，持续更新......
  * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) - 一个免费的ChatGPT客户端，现在支持在线搜索。无需密钥，无需登录。多节点自动速度测量切换，长文翻译无字数限制，AI图形。
  * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 一个对话式半自主开发助手。AI配对编程，无需复制粘贴。
  * [elia](https://github.com/darrenburns/elia) - 一个使用Textual构建的终端ChatGPT客户端。
+ * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 生成美观且信息丰富的 README Markdown 文件的 CLI 工具。由 OpenAI 的 GPT API 提供支持 💫
 
 
 |Name|GitHub Stars|Language|License|
@@ -715,6 +731,7 @@ ChatGPT资料汇总学习，持续更新......
 |[free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub)|![GitHub Repo stars](https://img.shields.io/github/stars/akl7777777/free-chatgpt-client-pub?style=social)|JavaScript|-|
 |[duet-gpt](https://github.com/kristoferlund/duet-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)|TypeScript|mit|
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
+|[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
 
 
 ## Reimplementations
@@ -897,6 +914,8 @@ ChatGPT资料汇总学习，持续更新......
  * [gorilla](https://github.com/shishirpatil/gorilla) - 大猩猩：LLM的API商店
  * [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - SudoLang LLM 在 VSCode 中的支持
  * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - 一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。
+ * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPT是一个Python脚本，可以让您将无限大小的文本输入到OpenAI API中。不再需要繁琐的复制和粘贴。多线程万岁！
+ * [ToolBench](https://github.com/openbmb/toolbench) - 一个用于训练、服务和评估大型语言模型的开放平台，用于工具学习。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1016,6 +1035,8 @@ ChatGPT资料汇总学习，持续更新......
 |[gorilla](https://github.com/shishirpatil/gorilla)|![GitHub Repo stars](https://img.shields.io/github/stars/shishirpatil/gorilla?style=social)|Python|-|
 |[sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)|![GitHub Repo stars](https://img.shields.io/github/stars/paralleldrive/sudolang-llm-support?style=social)|-|mit|
 |[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo?style=social)|Python|mit|
+|[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
+|[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1060,6 +1081,7 @@ ChatGPT资料汇总学习，持续更新......
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT（iGPT）是一个开源演示平台，您可以轻松展示您的AI模型。现在它支持DragGAN、ChatGPT、ImageBind、多模式聊天（如GPT-4、SAM）、交互式图像编辑等。请在igpt.opengvlab.com上尝试。
  * [chainlit](https://github.com/chainlit/chainlit) - 在几分钟内构建Python LLM应用程序 ⚡️
  * [Flowise](https://github.com/flowiseai/flowise) - 使用LangchainJS拖放界面构建您定制的LLM流程
+ * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - 将文本文件嵌入向量中，存储在Pinecone上，并使用GPT3和Langchain在Next.js UI中实现语义搜索。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1104,6 +1126,7 @@ ChatGPT资料汇总学习，持续更新......
 |[InternGPT](https://github.com/opengvlab/interngpt)|![GitHub Repo stars](https://img.shields.io/github/stars/opengvlab/InternGPT?style=social)|Python|apache-2.0|
 |[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
 |[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social)|JavaScript|mit|
+|[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
 
 
 ## Unity
