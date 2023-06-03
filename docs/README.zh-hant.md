@@ -15,32 +15,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - 精選了一些非常棒的資源,工具與其他光的東西,
-
-
 **Chatbots**
- * [OpenChat](https://github.com/openchatai/openchat) - 透過OpenChat執行和創建自訂的ChatGPT類型的機器人,
-
-
-**Browser-extensions**
- * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - 這樣的程式就能成為你第一次開發插件的例子.
+ * [st-chat](https://github.com/ai-yash/st-chat) - 透過網路,網路與網路,
 
 
 **CLIs**
- * [README-AI](https://github.com/eli64s/readme-ai) -  CLI工具生成美麗且有資訊性的 README 標記檔.
+ * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) -  推出了我的 @OpenAI/@Azure PowerShell 樣本!使用 PowerShellAI 模組,您將掌握 ChatGPT 的功能. 在多語言互動筆記本中探索樣本. 讓我們重新定義人工智能所能做到的! 👇 #PowerShell #MSBuild
 
 
 **NLP**
- * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - 沒有再乏的複製貼貼. 願多年多久!
- * [ToolBench](https://github.com/openbmb/toolbench) - 提供訓練,服務和評估大型語言學習工具模式的開放平台.
+ * [localGPT](https://github.com/promtengineer/localgpt) - 透過GPT模式與本地裝置上的文檔進行聊天.
 
 
-**Langchain**
- * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - 嵌入文本檔案到向量,儲存在Pinecone上,並使用GPT3和Langchain在Next.js UI中進行語義搜索
+**Others**
+ * [ComposeAI](https://github.com/ebfvince/composeai) - 這是一款與Compose多平台合作的Android和iOS應用程式,
+ * [GreatMaster](https://github.com/illumine-labs/greatmaster) - 師父,請幫助我們醒來,
+ * [SAIL](https://github.com/luohongyin/sail) - 搜尋增強教學學習
+ * [PodcastCopilot](https://github.com/microsoft/podcastcopilot) - 能擴展,快速,輕量化系統,
+ * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免費版、文心一言、Poe、chat等多平台,支持自定义导入平台
 
 
-_Updated on June 02, 2023_ (A total of 757 repositories listed.)
+_Updated on June 04, 2023_ (A total of 765 repositories listed.)
 
 🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
@@ -316,6 +311,7 @@ _Updated on June 02, 2023_ (A total of 757 repositories listed.)
  * [privateGPT](https://github.com/samuraigpt/privategpt) - 一個使用GPT強大功能與您的文件進行私密互動的應用程式，100％私密，無數據洩漏。
  * [LLaVA](https://github.com/haotian-liu/llava) - 針對多模態GPT-4級別能力建立的大型語言和視覺助手。
  * [OpenChat](https://github.com/openchatai/openchat) - 使用OpenChat運行和創建自定義的ChatGPT樣式機器人，在任何地方嵌入和分享這些機器人，這是一個開源的聊天機器人控制台。
+ * [st-chat](https://github.com/ai-yash/st-chat) - Streamlit元件，用於聊天機器人界面
 
 
 |Name|GitHub Stars|Language|License|
@@ -414,6 +410,7 @@ _Updated on June 02, 2023_ (A total of 757 repositories listed.)
 |[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/privateGPT?style=social)|JavaScript|mit|
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 |[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
+|[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/AI-Yash/st-chat?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -666,6 +663,7 @@ _Updated on June 02, 2023_ (A total of 757 repositories listed.)
  * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 一個對話式半自主開發者助手。AI配對編程，無需複製粘貼。
  * [elia](https://github.com/darrenburns/elia) - 一個使用Textual建立的終端ChatGPT客戶端
  * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 一個 CLI 工具，可以生成美觀且豐富的 README Markdown 文件。由 OpenAI 的 GPT APIs 提供支持 💫
+ * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 我推出了我的 @OpenAI/@Azure PowerShell 範例！使用 PowerShellAI 模組，您將擁有 ChatGPT 的強大功能。在多語言互動筆記本中探索這些範例。讓我們重新定義 AI 的可能性！👇 #PowerShell #MSBuild
 
 
 |Name|GitHub Stars|Language|License|
@@ -732,6 +730,7 @@ _Updated on June 02, 2023_ (A total of 757 repositories listed.)
 |[duet-gpt](https://github.com/kristoferlund/duet-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)|TypeScript|mit|
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
 |[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
+|[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
 
 
 ## Reimplementations
@@ -917,6 +916,7 @@ _Updated on June 02, 2023_ (A total of 757 repositories listed.)
  * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - 一個在Azure上運行的應用程式範例，使用Azure Cognitive Search進行檢索，並使用Azure OpenAI大型語言模型來支持ChatGPT風格和Q&A體驗的檢索增強生成模式。
  * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPT 是一個 Python 腳本，讓您可以將無限大小的文本輸入到 OpenAI API 中。不再需要繁瑣的複製和粘貼。多線程萬歲！
  * [ToolBench](https://github.com/openbmb/toolbench) - 一個開放平台，用於訓練、服務和評估大型語言模型，以進行工具學習。
+ * [localGPT](https://github.com/promtengineer/localgpt) - 使用GPT模型在本地設備上與您的文件進行聊天。沒有數據離開您的設備，100％私密。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1037,7 +1037,8 @@ _Updated on June 02, 2023_ (A total of 757 repositories listed.)
 |[sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)|![GitHub Repo stars](https://img.shields.io/github/stars/paralleldrive/sudolang-llm-support?style=social)|-|mit|
 |[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo?style=social)|Python|mit|
 |[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
-|[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)|Python|apache-2.0|
+|[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/ToolBench?style=social)|Python|apache-2.0|
+|[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1522,6 +1523,11 @@ add chatgpt to your groupchats:
  * [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - 「講個故事」是一個小應用程式，可以使用ChatGPT和React Native來撰寫故事。
  * [chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - 輸入：讓 ChatGPT 具備 Kubernetes 模式和驗證能力的完整知識
 輸出：
+ * [ComposeAI](https://github.com/ebfvince/composeai) - 一個使用Compose Multiplatform製作的Android和iOS應用程式ChatGPT。
+ * [GreatMaster](https://github.com/illumine-labs/greatmaster) - 大師，請幫助我們覺醒和開悟。
+ * [SAIL](https://github.com/luohongyin/sail) - SAIL：搜尋增強式指令學習
+ * [PodcastCopilot](https://github.com/microsoft/podcastcopilot) - 可擴展、快速、輕量級的大規模主題建模系統
+ * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免費版、文心一言、Poe、chatchat等多平台，支援自訂導入平台。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1718,5 +1724,10 @@ add chatgpt to your groupchats:
 |[gptlink](https://github.com/gptlink/gptlink)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink?style=social)|PHP|-|
 |[tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/kiki-le-singe/tell-me-a-story-ai?style=social)|TypeScript|-|
 |[chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/robusta-dev/chatgpt-yaml-generator?style=social)|Python|mit|
+|[ComposeAI](https://github.com/ebfvince/composeai)|![GitHub Repo stars](https://img.shields.io/github/stars/EBfVince/ComposeAI?style=social)|Kotlin|apache-2.0|
+|[GreatMaster](https://github.com/illumine-labs/greatmaster)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/GreatMaster?style=social)|-|mit|
+|[SAIL](https://github.com/luohongyin/sail)|![GitHub Repo stars](https://img.shields.io/github/stars/luohongyin/SAIL?style=social)|Python|gpl-3.0|
+|[PodcastCopilot](https://github.com/microsoft/podcastcopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PodcastCopilot?style=social)|C++|mit|
+|[gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)|![GitHub Repo stars](https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social)|Rust|gpl-3.0|
 
 
