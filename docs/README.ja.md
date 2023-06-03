@@ -15,32 +15,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - GPTプロンプトエンジニアリングのための素晴らしいリソース、ツール、その他の輝くものの厳選リスト。
-
-
 **Chatbots**
- * [OpenChat](https://github.com/openchatai/openchat) - OpenChatでカスタムChatGPTのようなボットを実行して作成し、どこでも埋め込んで共有できるオープンソースのチャットボットコンソールです。
-
-
-**Browser-extensions**
- * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - この最小限のコードと手順で、ChatGPTプラグインの開発を始めることができます。これは、最初のプラグイン開発の例として完璧です。
+ * [st-chat](https://github.com/ai-yash/st-chat) - チャットボットUIのためのStreamlitコンポーネント
 
 
 **CLIs**
- * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 README Markdownファイルを美しく情報豊かに生成するCLIツール。OpenAIのGPT APIによって動作します 💫
+ * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 @OpenAI/@Azure PowerShellサンプルをリリースしました！PowerShellAIモジュールを使用すると、ChatGPTの力を手軽に利用できます。Polyglotインタラクティブノートブックでサンプルを探索してください。AIで可能性を再定義しましょう！👇 #PowerShell #MSBuild
 
 
 **NLP**
- * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPTは、OpenAI APIに無制限のサイズのテキストを入力できるPythonスクリプトです。もう面倒なコピー＆ペーストは不要です。マルチスレッド万歳！
- * [ToolBench](https://github.com/openbmb/toolbench) - ツール学習のための大規模言語モデルのトレーニング、提供、評価のためのオープンプラットフォーム。
+ * [localGPT](https://github.com/promtengineer/localgpt) - GPTモデルを使用して、ローカルデバイス上のドキュメントとチャットできます。データはデバイスから出ることはなく、100％プライベートです。
 
 
-**Langchain**
- * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - テキストファイルをベクトルに埋め込み、Pineconeに保存し、Next.js UIでGPT3とLangchainを使用して意味検索を可能にします。
+**Others**
+ * [ComposeAI](https://github.com/ebfvince/composeai) - AndroidとiOSアプリChatGPTのようなものをCompose Multiplatformで作成しました。
+ * [GreatMaster](https://github.com/illumine-labs/greatmaster) - 師匠、私たちを目覚めさせ、悟りを開かせてください。
+ * [SAIL](https://github.com/luohongyin/sail) - SAIL：検索増強型インストラクション学習
+ * [PodcastCopilot](https://github.com/microsoft/podcastcopilot) - 大規模トピックモデリングのためのスケーラブルで高速かつ軽量なシステム
+ * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPTの公式版、ChatGPTの無料版、文心一言、Poe、chatchatなど、複数のプラットフォームを統合し、カスタムインポートプラットフォームをサポートしています。
 
 
-_Updated on June 02, 2023_ (A total of 757 repositories listed.)
+_Updated on June 04, 2023_ (A total of 765 repositories listed.)
 
 🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
@@ -320,6 +315,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [privateGPT](https://github.com/samuraigpt/privategpt) - GPTの力を使って、100％プライベートでドキュメントとやり取りするアプリ。データ漏洩はありません。
  * [LLaVA](https://github.com/haotian-liu/llava) - マルチモーダルなGPT-4レベルの機能に向けて構築された大規模な言語とビジョンアシスタント。
  * [OpenChat](https://github.com/openchatai/openchat) - OpenChatでカスタムChatGPTのようなボットを実行して作成し、どこでも埋め込んで共有できるオープンソースのチャットボットコンソールです。
+ * [st-chat](https://github.com/ai-yash/st-chat) - チャットボットUIのためのStreamlitコンポーネント
 
 
 |Name|GitHub Stars|Language|License|
@@ -418,6 +414,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/privateGPT?style=social)|JavaScript|mit|
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 |[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
+|[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/AI-Yash/st-chat?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -668,6 +665,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [duet-gpt](https://github.com/kristoferlund/duet-gpt) - 会話型の半自律型開発者アシスタント。コピペなしのAIペアプログラミング。
  * [elia](https://github.com/darrenburns/elia) - Textualで構築されたターミナルのChatGPTクライアント
  * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 README Markdownファイルを美しく情報豊かに生成するCLIツール。OpenAIのGPT APIによって動作します 💫
+ * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 @OpenAI/@Azure PowerShellサンプルをリリースしました！PowerShellAIモジュールを使用すると、ChatGPTの力を手軽に利用できます。Polyglotインタラクティブノートブックでサンプルを探索してください。AIで可能性を再定義しましょう！👇 #PowerShell #MSBuild
 
 
 |Name|GitHub Stars|Language|License|
@@ -734,6 +732,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[duet-gpt](https://github.com/kristoferlund/duet-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)|TypeScript|mit|
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
 |[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
+|[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
 
 
 ## Reimplementations
@@ -914,6 +913,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - Azureで実行される検索増強生成パターンのサンプルアプリで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを使用しています。
  * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPTは、OpenAI APIに無制限のサイズのテキストを入力できるPythonスクリプトです。もう面倒なコピー＆ペーストは不要です。マルチスレッド万歳！
  * [ToolBench](https://github.com/openbmb/toolbench) - ツール学習のための大規模言語モデルのトレーニング、提供、評価のためのオープンプラットフォーム。
+ * [localGPT](https://github.com/promtengineer/localgpt) - GPTモデルを使用して、ローカルデバイス上のドキュメントとチャットできます。データはデバイスから出ることはなく、100％プライベートです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1034,7 +1034,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)|![GitHub Repo stars](https://img.shields.io/github/stars/paralleldrive/sudolang-llm-support?style=social)|-|mit|
 |[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo?style=social)|Python|mit|
 |[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
-|[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenBMB/ToolBench?style=social)|Python|apache-2.0|
+|[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/ToolBench?style=social)|Python|apache-2.0|
+|[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1509,6 +1510,11 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [gptlink](https://github.com/gptlink/gptlink) - 自分で無料で商用可能なChatGPT環境を10分で構築できます。ユーザー、注文、タスク、支払いなどの機能が含まれ、構築は簡単です。
  * [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - 「ストーリーを教えて」という小さなアプリは、ChatGPTとReact Nativeを使用してストーリーを書くことができるアプリです。
  * [chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - Kubernetesのスキーマと検証機能に関する完全な知識をChatGPTに与えてください。
+ * [ComposeAI](https://github.com/ebfvince/composeai) - AndroidとiOSアプリChatGPTのようなものをCompose Multiplatformで作成しました。
+ * [GreatMaster](https://github.com/illumine-labs/greatmaster) - 師匠、私たちを目覚めさせ、悟りを開かせてください。
+ * [SAIL](https://github.com/luohongyin/sail) - SAIL：検索増強型インストラクション学習
+ * [PodcastCopilot](https://github.com/microsoft/podcastcopilot) - 大規模トピックモデリングのためのスケーラブルで高速かつ軽量なシステム
+ * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPTの公式版、ChatGPTの無料版、文心一言、Poe、chatchatなど、複数のプラットフォームを統合し、カスタムインポートプラットフォームをサポートしています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1705,5 +1711,10 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[gptlink](https://github.com/gptlink/gptlink)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink?style=social)|PHP|-|
 |[tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/kiki-le-singe/tell-me-a-story-ai?style=social)|TypeScript|-|
 |[chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/robusta-dev/chatgpt-yaml-generator?style=social)|Python|mit|
+|[ComposeAI](https://github.com/ebfvince/composeai)|![GitHub Repo stars](https://img.shields.io/github/stars/EBfVince/ComposeAI?style=social)|Kotlin|apache-2.0|
+|[GreatMaster](https://github.com/illumine-labs/greatmaster)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/GreatMaster?style=social)|-|mit|
+|[SAIL](https://github.com/luohongyin/sail)|![GitHub Repo stars](https://img.shields.io/github/stars/luohongyin/SAIL?style=social)|Python|gpl-3.0|
+|[PodcastCopilot](https://github.com/microsoft/podcastcopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PodcastCopilot?style=social)|C++|mit|
+|[gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)|![GitHub Repo stars](https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social)|Rust|gpl-3.0|
 
 

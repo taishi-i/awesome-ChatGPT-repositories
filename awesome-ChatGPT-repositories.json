@@ -3155,6 +3155,30 @@
                     "zh-hans": "使用OpenChat运行和创建自定义的ChatGPT样式的机器人，在任何地方嵌入和分享这些机器人，这是一个开源的聊天机器人控制台。",
                     "zh-hant": "使用OpenChat運行和創建自定義的ChatGPT樣式機器人，在任何地方嵌入和分享這些機器人，這是一個開源的聊天機器人控制台。"
                 }
+            },
+            "https://github.com/ai-yash/st-chat": {
+                "repository_name": "st-chat",
+                "user_name": "AI-Yash",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Streamlit Component, for a Chatbot UI",
+                "topics": [
+                    "chatbot",
+                    "hacktoberfest",
+                    "streamlit-component"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Streamlit Component, for a Chatbot UI",
+                    "ja": "チャットボットUIのためのStreamlitコンポーネント",
+                    "zh-hans": "Streamlit组件，用于聊天机器人用户界面",
+                    "zh-hant": "Streamlit元件，用於聊天機器人界面"
+                }
             }
         },
         "Browser-extensions": {
@@ -6106,6 +6130,20 @@
                     "zh-hans": "🚀 生成美观且信息丰富的 README Markdown 文件的 CLI 工具。由 OpenAI 的 GPT API 提供支持 💫",
                     "zh-hant": "🚀 一個 CLI 工具，可以生成美觀且豐富的 README Markdown 文件。由 OpenAI 的 GPT APIs 提供支持 💫"
                 }
+            },
+            "https://github.com/dfinke/openai-powershell-samples": {
+                "repository_name": "openai-powershell-samples",
+                "user_name": "dfinke",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "🚀 Launched my @OpenAI/@Azure PowerShell Samples! With the PowerShellAI module, you'll have the power of ChatGPT at your fingertips. Explore the samples in Polyglot Interactive Notebooks. Let's redefine what's possible with AI! 👇  #PowerShell #MSBuild",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "🚀 Launched my @OpenAI/@Azure PowerShell Samples! With the PowerShellAI module, you'll have the power of ChatGPT at your fingertips. Explore the samples in Polyglot Interactive Notebooks. Let's redefine what's possible with AI! 👇  #PowerShell #MSBuild",
+                    "ja": "🚀 @OpenAI/@Azure PowerShellサンプルをリリースしました！PowerShellAIモジュールを使用すると、ChatGPTの力を手軽に利用できます。Polyglotインタラクティブノートブックでサンプルを探索してください。AIで可能性を再定義しましょう！👇 #PowerShell #MSBuild",
+                    "zh-hans": "🚀 我发布了我的 @OpenAI/@Azure PowerShell 示例！使用 PowerShellAI 模块，您将拥有 ChatGPT 的强大功能。在多语言交互式笔记本中探索示例。让我们重新定义 AI 的可能性！👇 #PowerShell #MSBuild",
+                    "zh-hant": "🚀 我推出了我的 @OpenAI/@Azure PowerShell 範例！使用 PowerShellAI 模組，您將擁有 ChatGPT 的強大功能。在多語言互動筆記本中探索這些範例。讓我們重新定義 AI 的可能性！👇 #PowerShell #MSBuild"
+                }
             }
         },
         "Reimplementations": {
@@ -8629,6 +8667,26 @@
                     "ja": "ツール学習のための大規模言語モデルのトレーニング、提供、評価のためのオープンプラットフォーム。",
                     "zh-hans": "一个用于训练、服务和评估大型语言模型的开放平台，用于工具学习。",
                     "zh-hant": "一個開放平台，用於訓練、服務和評估大型語言模型，以進行工具學習。"
+                }
+            },
+            "https://github.com/promtengineer/localgpt": {
+                "repository_name": "localGPT",
+                "user_name": "PromtEngineer",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. ",
+                    "ja": "GPTモデルを使用して、ローカルデバイス上のドキュメントとチャットできます。データはデバイスから出ることはなく、100％プライベートです。",
+                    "zh-hans": "使用GPT模型在本地设备上与您的文档聊天。没有数据离开您的设备，100％私密。",
+                    "zh-hant": "使用GPT模型在本地設備上與您的文件進行聊天。沒有數據離開您的設備，100％私密。"
                 }
             }
         },
@@ -14410,6 +14468,112 @@
                     "ja": "Kubernetesのスキーマと検証機能に関する完全な知識をChatGPTに与えてください。",
                     "zh-hans": "将Kubernetes模式和验证能力的完整知识授予ChatGPT。",
                     "zh-hant": "輸入：讓 ChatGPT 具備 Kubernetes 模式和驗證能力的完整知識\n輸出："
+                }
+            },
+            "https://github.com/ebfvince/composeai": {
+                "repository_name": "ComposeAI",
+                "user_name": "EBfVince",
+                "language": "Kotlin",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "An Android & iOS application ChatGPT like made with Compose Multiplatform",
+                "topics": [
+                    "chatgpt",
+                    "compose-ios",
+                    "compose-multiplatform",
+                    "kmm",
+                    "kotlin-multiplatform"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An Android & iOS application ChatGPT like made with Compose Multiplatform",
+                    "ja": "AndroidとiOSアプリChatGPTのようなものをCompose Multiplatformで作成しました。",
+                    "zh-hans": "一个使用Compose Multiplatform制作的Android和iOS应用程序ChatGPT。",
+                    "zh-hant": "一個使用Compose Multiplatform製作的Android和iOS應用程式ChatGPT。"
+                }
+            },
+            "https://github.com/illumine-labs/greatmaster": {
+                "repository_name": "GreatMaster",
+                "user_name": "Illumine-Labs",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Master, help us to awaken and enlighten. 大师，我悟了。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Master, help us to awaken and enlighten. Master, I have realized.",
+                    "ja": "師匠、私たちを目覚めさせ、悟りを開かせてください。",
+                    "zh-hans": "大师，请帮助我们觉醒和开悟。",
+                    "zh-hant": "大師，請幫助我們覺醒和開悟。"
+                }
+            },
+            "https://github.com/luohongyin/sail": {
+                "repository_name": "SAIL",
+                "user_name": "luohongyin",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "SAIL: Search Augmented Instruction Learning",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "SAIL: Search Augmented Instruction Learning",
+                    "ja": "SAIL：検索増強型インストラクション学習",
+                    "zh-hans": "SAIL：搜索增强指令学习",
+                    "zh-hant": "SAIL：搜尋增強式指令學習"
+                }
+            },
+            "https://github.com/microsoft/podcastcopilot": {
+                "repository_name": "PodcastCopilot",
+                "user_name": "microsoft",
+                "language": "C++",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Scalable, fast, and lightweight system for large-scale topic modeling",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Scalable, fast, and lightweight system for large-scale topic modeling",
+                    "ja": "大規模トピックモデリングのためのスケーラブルで高速かつ軽量なシステム",
+                    "zh-hans": "可扩展、快速、轻量级的大规模主题建模系统",
+                    "zh-hant": "可擴展、快速、輕量級的大規模主題建模系統"
+                }
+            },
+            "https://github.com/1595901624/gpt-aggregated-edition": {
+                "repository_name": "gpt-aggregated-edition",
+                "user_name": "1595901624",
+                "language": "Rust",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Aggregate multiple platforms including ChatGPT official version, ChatGPT free version, Wenxin Yiyuan, Poe, chatchat, etc., and support custom import platforms.",
+                    "ja": "聚合ChatGPTの公式版、ChatGPTの無料版、文心一言、Poe、chatchatなど、複数のプラットフォームを統合し、カスタムインポートプラットフォームをサポートしています。",
+                    "zh-hans": "聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。",
+                    "zh-hant": "聚合ChatGPT官方版、ChatGPT免費版、文心一言、Poe、chatchat等多平台，支援自訂導入平台。"
                 }
             }
         }
