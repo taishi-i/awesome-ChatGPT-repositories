@@ -4880,6 +4880,30 @@
                     "zh-hans": "通过这个简单的代码和说明，你可以开始开发ChatGPT插件。这是你第一个插件开发的完美示例。",
                     "zh-hant": "透過這個極簡的程式碼和指示，您可以開始開發 ChatGPT 插件。這是您第一個插件開發的完美範例。"
                 }
+            },
+            "https://github.com/mthbernardes/codeexplain.nvim": {
+                "repository_name": "codeexplain.nvim",
+                "user_name": "mthbernardes",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A nvim plugin Powered by GPT4ALL for Real-time Code Explanation and Vulnerability Detection (no internet necessary)",
+                "topics": [
+                    "code-analyzer",
+                    "gpt4all",
+                    "nvim"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A nvim plugin Powered by GPT4ALL for Real-time Code Explanation and Vulnerability Detection (no internet necessary)",
+                    "ja": "リアルタイムのコード説明と脆弱性検出のためのGPT4ALLによるnvimプラグイン（インターネット不要）",
+                    "zh-hans": "一个由GPT4ALL驱动的nvim插件，用于实时代码解释和漏洞检测（无需互联网）。",
+                    "zh-hant": "一個由GPT4ALL驅動的nvim插件，可進行實時代碼解釋和漏洞檢測（無需互聯網）。"
+                }
             }
         },
         "CLIs": {
@@ -6143,6 +6167,26 @@
                     "ja": "🚀 @OpenAI/@Azure PowerShellサンプルをリリースしました！PowerShellAIモジュールを使用すると、ChatGPTの力を手軽に利用できます。Polyglotインタラクティブノートブックでサンプルを探索してください。AIで可能性を再定義しましょう！👇 #PowerShell #MSBuild",
                     "zh-hans": "🚀 我发布了我的 @OpenAI/@Azure PowerShell 示例！使用 PowerShellAI 模块，您将拥有 ChatGPT 的强大功能。在多语言交互式笔记本中探索示例。让我们重新定义 AI 的可能性！👇 #PowerShell #MSBuild",
                     "zh-hant": "🚀 我推出了我的 @OpenAI/@Azure PowerShell 範例！使用 PowerShellAI 模組，您將擁有 ChatGPT 的強大功能。在多語言互動筆記本中探索這些範例。讓我們重新定義 AI 的可能性！👇 #PowerShell #MSBuild"
+                }
+            },
+            "https://github.com/sentdex/termgpt": {
+                "repository_name": "TermGPT",
+                "user_name": "Sentdex",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Giving LLMs like GPT-4 the ability to plan and execute terminal commands",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Giving LLMs like GPT-4 the ability to plan and execute terminal commands",
+                    "ja": "LLMのようなGPT-4に、ターミナルコマンドの計画と実行の能力を与えること。",
+                    "zh-hans": "赋予像GPT-4这样的LLM能够规划和执行终端命令的能力。",
+                    "zh-hant": "讓像GPT-4這樣的LLM具備計劃和執行終端命令的能力"
                 }
             }
         },
@@ -8687,6 +8731,33 @@
                     "ja": "GPTモデルを使用して、ローカルデバイス上のドキュメントとチャットできます。データはデバイスから出ることはなく、100％プライベートです。",
                     "zh-hans": "使用GPT模型在本地设备上与您的文档聊天。没有数据离开您的设备，100％私密。",
                     "zh-hant": "使用GPT模型在本地設備上與您的文件進行聊天。沒有數據離開您的設備，100％私密。"
+                }
+            },
+            "https://github.com/azure-samples/azure-search-openai-demo-csharp": {
+                "repository_name": "azure-search-openai-demo-csharp",
+                "user_name": "Azure-Samples",
+                "language": "C#",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. ",
+                "topics": [
+                    "azd-templates",
+                    "azure",
+                    "chatgpt",
+                    "csharp",
+                    "dotnet",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. ",
+                    "ja": "Azureで実行されるRetrieval-Augmented Generationパターンのサンプルアプリで、検索にAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にパワーを与えるためにAzure OpenAI大規模言語モデルを使用しています。",
+                    "zh-hans": "一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+                    "zh-hant": "一個在Azure上運行的應用程式範例，使用Azure Cognitive Search進行檢索，並使用Azure OpenAI大型語言模型來支持ChatGPT風格和Q&A體驗的檢索增強生成模式。"
                 }
             }
         },
@@ -14574,6 +14645,40 @@
                     "ja": "聚合ChatGPTの公式版、ChatGPTの無料版、文心一言、Poe、chatchatなど、複数のプラットフォームを統合し、カスタムインポートプラットフォームをサポートしています。",
                     "zh-hans": "聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。",
                     "zh-hant": "聚合ChatGPT官方版、ChatGPT免費版、文心一言、Poe、chatchat等多平台，支援自訂導入平台。"
+                }
+            },
+            "https://github.com/evanthebouncy/larc_gpt4": {
+                "repository_name": "larc_gpt4",
+                "user_name": "evanthebouncy",
+                "language": "Python",
+                "license": null,
+                "description": "larc solving with gpt4",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "larc solving with gpt4",
+                    "ja": "larcがGPT-4で解決する",
+                    "zh-hans": "LARC与GPT-4的解决方案",
+                    "zh-hant": "使用GPT-4進行LARC求解"
+                }
+            },
+            "https://github.com/adams549659584/go-proxy-bingai": {
+                "repository_name": "go-proxy-bingai",
+                "user_name": "adams549659584",
+                "language": "HTML",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A Microsoft New Bing demo site built with Vue3 and Go, with a consistent UI experience and support for ChatGPT prompts, available in China.",
+                    "ja": "Vue3とGoを使用して構築されたMicrosoft New Bingのデモサイトは、一貫したUI体験を提供し、ChatGPTのヒントワードをサポートしています。国内でも利用可能です。",
+                    "zh-hans": "使用Vue3和Go构建的微软New Bing演示站点，具有一致的UI体验，支持ChatGPT提示词，可在国内使用。",
+                    "zh-hant": "使用 Vue3 和 Go 構建的微軟 New Bing 示範站點，擁有一致的 UI 體驗，支援 ChatGPT 提示詞，國內可用。"
                 }
             }
         }

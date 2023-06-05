@@ -15,27 +15,24 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [st-chat](https://github.com/ai-yash/st-chat) - 简化组件,用于聊天机器人UI
+**Browser-extensions**
+ * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - 一个nvim插件 支持GPT4ALL实时代码解释和漏洞检测 (不需要互联网)
 
 
 **CLIs**
- * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) -  推出了我的 @OpenAI/@Azure PowerShell Samples! 通过 PowerShellAI 模块,您可以随时掌握 ChatGPT 的功能. 在多语言交互笔记本中探索样本. 让我们重新定义人工智能所能实现的! 👇 #PowerShell #MSBuild
+ * [TermGPT](https://github.com/sentdex/termgpt) - 让像GPT-4这样的LLM能够计划和执行终端命令
 
 
 **NLP**
- * [localGPT](https://github.com/promtengineer/localgpt) - 使用GPT模型与本地设备上的文档进行聊天. 没有数据离开您的设备,100%私有. 
+ * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - 在Azure中运行的获取增强生成模式的示例应用程序,使用Azure认知搜索进行检索,并使用Azure OpenAI大型语言模型来支持ChatGPT式问答体验. 
 
 
 **Others**
- * [ComposeAI](https://github.com/ebfvince/composeai) - 一个与Compose多平台制作的类似于ChatGPT的Android和iOS应用程序
- * [GreatMaster](https://github.com/illumine-labs/greatmaster) - 师父,帮助我们醒来,获得启蒙. 大师,我悟了.
- * [SAIL](https://github.com/luohongyin/sail) - :搜索增强指导学习
- * [PodcastCopilot](https://github.com/microsoft/podcastcopilot) - 可扩展,快速,轻量级的系统,用于大规模主题建模
- * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、聊天等多平台,支持自定义导入平台
+ * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - 解决gpt4的
+ * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用Vue3 和Go 搭建的微软 新的Bing演示站点,拥有一个一致的UI体验,支持ChatGPT 提示词,国内可用.
 
 
-_Updated on June 04, 2023_ (A total of 765 repositories listed.)
+_Updated on June 05, 2023_ (A total of 770 repositories listed.)
 
 🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
@@ -408,7 +405,7 @@ ChatGPT资料汇总学习，持续更新......
 |[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/privateGPT?style=social)|JavaScript|mit|
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 |[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
-|[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/AI-Yash/st-chat?style=social)|Python|mit|
+|[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/ai-yash/st-chat?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -502,6 +499,7 @@ ChatGPT资料汇总学习，持续更新......
  * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - AutoGPT加密插件是一种软件工具，使交易者能够将他们的加密钱包或交易所连接到Auto-GPT。
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - 免费运行ChatGPT插件，无需订阅Plus。
  * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - 通过这个简单的代码和说明，你可以开始开发ChatGPT插件。这是你第一个插件开发的完美示例。
+ * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - 一个由GPT4ALL驱动的nvim插件，用于实时代码解释和漏洞检测（无需互联网）。
 
 
 |Name|GitHub Stars|Language|License|
@@ -594,6 +592,7 @@ ChatGPT资料汇总学习，持续更新......
 |[Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-Crypto-Plugin?style=social)|Python|mit|
 |[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
 |[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
+|[codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim)|![GitHub Repo stars](https://img.shields.io/github/stars/mthbernardes/codeexplain.nvim?style=social)|Python|mit|
 
 
 ## CLIs
@@ -664,6 +663,7 @@ ChatGPT资料汇总学习，持续更新......
  * [elia](https://github.com/darrenburns/elia) - 一个使用Textual构建的终端ChatGPT客户端。
  * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 生成美观且信息丰富的 README Markdown 文件的 CLI 工具。由 OpenAI 的 GPT API 提供支持 💫
  * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 我发布了我的 @OpenAI/@Azure PowerShell 示例！使用 PowerShellAI 模块，您将拥有 ChatGPT 的强大功能。在多语言交互式笔记本中探索示例。让我们重新定义 AI 的可能性！👇 #PowerShell #MSBuild
+ * [TermGPT](https://github.com/sentdex/termgpt) - 赋予像GPT-4这样的LLM能够规划和执行终端命令的能力。
 
 
 |Name|GitHub Stars|Language|License|
@@ -731,6 +731,7 @@ ChatGPT资料汇总学习，持续更新......
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
 |[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
 |[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
+|[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
 
 
 ## Reimplementations
@@ -916,6 +917,7 @@ ChatGPT资料汇总学习，持续更新......
  * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPT是一个Python脚本，可以让您将无限大小的文本输入到OpenAI API中。不再需要繁琐的复制和粘贴。多线程万岁！
  * [ToolBench](https://github.com/openbmb/toolbench) - 一个用于训练、服务和评估大型语言模型的开放平台，用于工具学习。
  * [localGPT](https://github.com/promtengineer/localgpt) - 使用GPT模型在本地设备上与您的文档聊天。没有数据离开您的设备，100％私密。
+ * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - 一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1037,7 +1039,8 @@ ChatGPT资料汇总学习，持续更新......
 |[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo?style=social)|Python|mit|
 |[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
 |[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/ToolBench?style=social)|Python|apache-2.0|
-|[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)|Python|apache-2.0|
+|[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/promtengineer/localGPT?style=social)|Python|apache-2.0|
+|[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
 
 
 ## Langchain
@@ -1524,6 +1527,8 @@ Chat酱独立部署版，docker方案自带代理
  * [SAIL](https://github.com/luohongyin/sail) - SAIL：搜索增强指令学习
  * [PodcastCopilot](https://github.com/microsoft/podcastcopilot) - 可扩展、快速、轻量级的大规模主题建模系统
  * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
+ * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - LARC与GPT-4的解决方案
+ * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 使用Vue3和Go构建的微软New Bing演示站点，具有一致的UI体验，支持ChatGPT提示词，可在国内使用。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1720,10 +1725,12 @@ Chat酱独立部署版，docker方案自带代理
 |[gptlink](https://github.com/gptlink/gptlink)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink?style=social)|PHP|-|
 |[tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/kiki-le-singe/tell-me-a-story-ai?style=social)|TypeScript|-|
 |[chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/robusta-dev/chatgpt-yaml-generator?style=social)|Python|mit|
-|[ComposeAI](https://github.com/ebfvince/composeai)|![GitHub Repo stars](https://img.shields.io/github/stars/EBfVince/ComposeAI?style=social)|Kotlin|apache-2.0|
-|[GreatMaster](https://github.com/illumine-labs/greatmaster)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/GreatMaster?style=social)|-|mit|
+|[ComposeAI](https://github.com/ebfvince/composeai)|![GitHub Repo stars](https://img.shields.io/github/stars/ebfvince/ComposeAI?style=social)|Kotlin|apache-2.0|
+|[GreatMaster](https://github.com/illumine-labs/greatmaster)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/GreatMaster?style=social)|-|mit|
 |[SAIL](https://github.com/luohongyin/sail)|![GitHub Repo stars](https://img.shields.io/github/stars/luohongyin/SAIL?style=social)|Python|gpl-3.0|
 |[PodcastCopilot](https://github.com/microsoft/podcastcopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PodcastCopilot?style=social)|C++|mit|
 |[gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)|![GitHub Repo stars](https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social)|Rust|gpl-3.0|
+|[larc_gpt4](https://github.com/evanthebouncy/larc_gpt4)|![GitHub Repo stars](https://img.shields.io/github/stars/evanthebouncy/larc_gpt4?style=social)|Python|-|
+|[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|![GitHub Repo stars](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai?style=social)|HTML|mit|
 
 
