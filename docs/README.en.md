@@ -16,27 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [st-chat](https://github.com/ai-yash/st-chat) - Streamlit Component, for a Chatbot UI
+**Browser-extensions**
+ * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - A nvim plugin Powered by GPT4ALL for Real-time Code Explanation and Vulnerability Detection (no internet necessary)
 
 
 **CLIs**
- * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 Launched my @OpenAI/@Azure PowerShell Samples! With the PowerShellAI module, you'll have the power of ChatGPT at your fingertips. Explore the samples in Polyglot Interactive Notebooks. Let's redefine what's possible with AI! 👇  #PowerShell #MSBuild
+ * [TermGPT](https://github.com/sentdex/termgpt) - Giving LLMs like GPT-4 the ability to plan and execute terminal commands
 
 
 **NLP**
- * [localGPT](https://github.com/promtengineer/localgpt) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+ * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. 
 
 
 **Others**
- * [ComposeAI](https://github.com/ebfvince/composeai) - An Android & iOS application ChatGPT like made with Compose Multiplatform
- * [GreatMaster](https://github.com/illumine-labs/greatmaster) - Master, help us to awaken and enlighten. Master, I have realized.
- * [SAIL](https://github.com/luohongyin/sail) - SAIL: Search Augmented Instruction Learning
- * [PodcastCopilot](https://github.com/microsoft/podcastcopilot) - Scalable, fast, and lightweight system for large-scale topic modeling
- * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - Aggregate multiple platforms including ChatGPT official version, ChatGPT free version, Wenxin Yiyuan, Poe, chatchat, etc., and support custom import platforms.
+ * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - larc solving with gpt4
+ * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - A Microsoft New Bing demo site built with Vue3 and Go, with a consistent UI experience and support for ChatGPT prompts, available in China.
 
 
-_Updated on June 04, 2023_ (A total of 765 repositories listed.)
+_Updated on June 05, 2023_ (A total of 770 repositories listed.)
 
 🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
@@ -408,7 +405,7 @@ _Updated on June 04, 2023_ (A total of 765 repositories listed.)
 |[privateGPT](https://github.com/samuraigpt/privategpt)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/privateGPT?style=social)|JavaScript|mit|
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 |[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
-|[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/AI-Yash/st-chat?style=social)|Python|mit|
+|[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/ai-yash/st-chat?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -501,6 +498,7 @@ _Updated on June 04, 2023_ (A total of 765 repositories listed.)
  * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - Run ChatGPT plugins for free without having access to Plus subscription
  * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - With this minimal code and instructions, you can get started on developing a ChatGPT Plugin. It's perfect as an example for your first plugin development.
+ * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - A nvim plugin Powered by GPT4ALL for Real-time Code Explanation and Vulnerability Detection (no internet necessary)
 
 
 |Name|GitHub Stars|Language|License|
@@ -593,6 +591,7 @@ _Updated on June 04, 2023_ (A total of 765 repositories listed.)
 |[Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-Crypto-Plugin?style=social)|Python|mit|
 |[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
 |[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
+|[codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim)|![GitHub Repo stars](https://img.shields.io/github/stars/mthbernardes/codeexplain.nvim?style=social)|Python|mit|
 
 
 ## CLIs
@@ -660,6 +659,7 @@ _Updated on June 04, 2023_ (A total of 765 repositories listed.)
  * [elia](https://github.com/darrenburns/elia) - A terminal ChatGPT client built with Textual
  * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
  * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 Launched my @OpenAI/@Azure PowerShell Samples! With the PowerShellAI module, you'll have the power of ChatGPT at your fingertips. Explore the samples in Polyglot Interactive Notebooks. Let's redefine what's possible with AI! 👇  #PowerShell #MSBuild
+ * [TermGPT](https://github.com/sentdex/termgpt) - Giving LLMs like GPT-4 the ability to plan and execute terminal commands
 
 
 |Name|GitHub Stars|Language|License|
@@ -727,6 +727,7 @@ _Updated on June 04, 2023_ (A total of 765 repositories listed.)
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
 |[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
 |[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
+|[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
 
 
 ## Reimplementations
@@ -905,6 +906,7 @@ _Updated on June 04, 2023_ (A total of 765 repositories listed.)
  * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
  * [ToolBench](https://github.com/openbmb/toolbench) - An open platform for training, serving, and evaluating large language model for tool learning.
  * [localGPT](https://github.com/promtengineer/localgpt) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+ * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. 
 
 
 |Name|GitHub Stars|Language|License|
@@ -1026,7 +1028,8 @@ _Updated on June 04, 2023_ (A total of 765 repositories listed.)
 |[azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo?style=social)|Python|mit|
 |[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
 |[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/ToolBench?style=social)|Python|apache-2.0|
-|[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=social)|Python|apache-2.0|
+|[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/promtengineer/localGPT?style=social)|Python|apache-2.0|
+|[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
 
 
 ## Langchain
@@ -1504,6 +1507,8 @@ _Updated on June 04, 2023_ (A total of 765 repositories listed.)
  * [SAIL](https://github.com/luohongyin/sail) - SAIL: Search Augmented Instruction Learning
  * [PodcastCopilot](https://github.com/microsoft/podcastcopilot) - Scalable, fast, and lightweight system for large-scale topic modeling
  * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - Aggregate multiple platforms including ChatGPT official version, ChatGPT free version, Wenxin Yiyuan, Poe, chatchat, etc., and support custom import platforms.
+ * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - larc solving with gpt4
+ * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - A Microsoft New Bing demo site built with Vue3 and Go, with a consistent UI experience and support for ChatGPT prompts, available in China.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1700,10 +1705,12 @@ _Updated on June 04, 2023_ (A total of 765 repositories listed.)
 |[gptlink](https://github.com/gptlink/gptlink)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink?style=social)|PHP|-|
 |[tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/kiki-le-singe/tell-me-a-story-ai?style=social)|TypeScript|-|
 |[chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/robusta-dev/chatgpt-yaml-generator?style=social)|Python|mit|
-|[ComposeAI](https://github.com/ebfvince/composeai)|![GitHub Repo stars](https://img.shields.io/github/stars/EBfVince/ComposeAI?style=social)|Kotlin|apache-2.0|
-|[GreatMaster](https://github.com/illumine-labs/greatmaster)|![GitHub Repo stars](https://img.shields.io/github/stars/Illumine-Labs/GreatMaster?style=social)|-|mit|
+|[ComposeAI](https://github.com/ebfvince/composeai)|![GitHub Repo stars](https://img.shields.io/github/stars/ebfvince/ComposeAI?style=social)|Kotlin|apache-2.0|
+|[GreatMaster](https://github.com/illumine-labs/greatmaster)|![GitHub Repo stars](https://img.shields.io/github/stars/illumine-labs/GreatMaster?style=social)|-|mit|
 |[SAIL](https://github.com/luohongyin/sail)|![GitHub Repo stars](https://img.shields.io/github/stars/luohongyin/SAIL?style=social)|Python|gpl-3.0|
 |[PodcastCopilot](https://github.com/microsoft/podcastcopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PodcastCopilot?style=social)|C++|mit|
 |[gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)|![GitHub Repo stars](https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social)|Rust|gpl-3.0|
+|[larc_gpt4](https://github.com/evanthebouncy/larc_gpt4)|![GitHub Repo stars](https://img.shields.io/github/stars/evanthebouncy/larc_gpt4?style=social)|Python|-|
+|[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|![GitHub Repo stars](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai?style=social)|HTML|mit|
 
 
