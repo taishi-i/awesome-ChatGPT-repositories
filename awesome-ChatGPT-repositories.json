@@ -362,6 +362,34 @@
                     "zh-hans": "一个为GPT提示工程师精心策划的资源、工具和其他闪亮物品的精选列表。",
                     "zh-hant": "一個經過精心挑選的資源、工具和其他閃亮物品的清單，適用於GPT提示工程。"
                 }
+            },
+            "https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity": {
+                "repository_name": "awesome-chatgpt-prompts-cybersecurity",
+                "user_name": "sechelper",
+                "language": null,
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "网络安全chatgpt指令集，训练chatgpt成为一名网络安全专家",
+                "topics": [
+                    "blueteam",
+                    "chatgpt",
+                    "cybersecurity",
+                    "hacker",
+                    "pantest",
+                    "prompts",
+                    "redteam"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Network security chatgpt command set, training chatgpt to become a network security expert.",
+                    "ja": "ネットワークセキュリティchatgptコマンドセット、chatgptをネットワークセキュリティ専門家にトレーニングする。",
+                    "zh-hans": "网络安全chatgpt指令集，训练chatgpt成为一名网络安全专家。",
+                    "zh-hant": "網絡安全chatgpt指令集，訓練chatgpt成為一名網絡安全專家。"
+                }
             }
         },
         "Prompts": {
@@ -3178,6 +3206,58 @@
                     "ja": "チャットボットUIのためのStreamlitコンポーネント",
                     "zh-hans": "Streamlit组件，用于聊天机器人用户界面",
                     "zh-hant": "Streamlit元件，用於聊天機器人界面"
+                }
+            },
+            "https://github.com/tpai/summary-gpt-bot": {
+                "repository_name": "summary-gpt-bot",
+                "user_name": "tpai",
+                "language": "Python",
+                "license": null,
+                "description": "An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, and YouTube videos.",
+                "topics": [
+                    "gpt",
+                    "summarytools",
+                    "telegram-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, and YouTube videos.",
+                    "ja": "テキスト、URL、YouTubeビデオの簡潔な要約を生成するAIパワードのテキスト要約Telegramボット。",
+                    "zh-hans": "一款由人工智能驱动的Telegram文本摘要机器人，可以生成文本、URL和YouTube视频的简洁摘要。",
+                    "zh-hant": "一個由人工智慧驅動的 Telegram 文本摘要機器人，可以生成簡潔的文本、URL 和 YouTube 視頻摘要。"
+                }
+            },
+            "https://github.com/dsdanielpark/bard-api": {
+                "repository_name": "Bard-API",
+                "user_name": "dsdanielpark",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "The unofficial python package that returns response of Google Bard through cookie value.",
+                "topics": [
+                    "ai-api",
+                    "api",
+                    "bard",
+                    "bard-api",
+                    "chatbot",
+                    "google",
+                    "google-bard",
+                    "google-bard-api",
+                    "google-bard-python",
+                    "google-maps-api",
+                    "googlebard",
+                    "llm",
+                    "nlp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The unofficial python package that returns response of Google Bard through cookie value.",
+                    "ja": "クッキー値を通じてGoogle Bardの応答を返す非公式のPythonパッケージ。",
+                    "zh-hans": "这是一个非官方的Python包，通过cookie值返回Google Bard的响应。",
+                    "zh-hant": "這是一個非官方的Python套件，透過Cookie值返回Google Bard的回應。"
                 }
             }
         },
@@ -6188,6 +6268,32 @@
                     "zh-hans": "赋予像GPT-4这样的LLM能够规划和执行终端命令的能力。",
                     "zh-hant": "讓像GPT-4這樣的LLM具備計劃和執行終端命令的能力"
                 }
+            },
+            "https://github.com/marcolardera/chatgpt-cli": {
+                "repository_name": "chatgpt-cli",
+                "user_name": "marcolardera",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Simple yet effective command line client for chatting with ChatGPT using the official API",
+                "topics": [
+                    "api",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "cli",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Simple yet effective command line client for chatting with ChatGPT using the official API",
+                    "ja": "公式APIを使用してChatGPTとチャットするためのシンプルで効果的なコマンドラインクライアント",
+                    "zh-hans": "使用官方API与ChatGPT聊天的简单而有效的命令行客户端",
+                    "zh-hant": "使用官方API與ChatGPT聊天的簡單而有效的命令行客戶端"
+                }
             }
         },
         "Reimplementations": {
@@ -6469,6 +6575,33 @@
                     "ja": "DragGANのオンラインデモと実装 - 「Drag Your GAN：生成画像マニフォールド上のインタラクティブなポイントベースの操作」",
                     "zh-hans": "在线演示和实现DragGAN - “拖动您的GAN：在生成图像流形上进行交互式基于点的操作”",
                     "zh-hant": "DragGAN 的線上演示和實現 - 「拖動您的 GAN：在生成圖像流形上進行交互式基於點的操作」。"
+                }
+            },
+            "https://github.com/keyvank/femtogpt": {
+                "repository_name": "femtoGPT",
+                "user_name": "keyvank",
+                "language": "Rust",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Pure Rust implementation of a minimal Generative Pretrained Transformer",
+                "topics": [
+                    "from-scratch",
+                    "gpt",
+                    "llm",
+                    "machine-learning",
+                    "neural-network",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Pure Rust implementation of a minimal Generative Pretrained Transformer",
+                    "ja": "最小限のGenerative Pretrained Transformerの純粋なRust実装",
+                    "zh-hans": "一个最小化的生成预训练变压器的纯Rust实现。",
+                    "zh-hant": "一個最小化的生成預訓練轉換器的純Rust實現"
                 }
             }
         },
