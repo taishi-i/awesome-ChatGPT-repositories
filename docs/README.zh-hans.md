@@ -15,24 +15,24 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - 一个nvim插件 支持GPT4ALL实时代码解释和漏洞检测 (不需要互联网)
+**Awesome-lists**
+ * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 网络安全聊天GPT指令集,训练聊天GPT成为网络安全专家
+
+
+**Chatbots**
+ * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - 一个以人工智能为动力的文本总结电话机器人,生成文本,URL和YouTube视频的简洁总结.
+ * [Bard-API](https://github.com/dsdanielpark/bard-api) - 不官方的python包通过cookie值返回Google Bard的响应.
 
 
 **CLIs**
- * [TermGPT](https://github.com/sentdex/termgpt) - 让像GPT-4这样的LLM能够计划和执行终端命令
+ * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 使用官方API与ChatGPT聊天的简单但有效的命令行客户端
 
 
-**NLP**
- * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - 在Azure中运行的获取增强生成模式的示例应用程序,使用Azure认知搜索进行检索,并使用Azure OpenAI大型语言模型来支持ChatGPT式问答体验. 
+**Reimplementations**
+ * [femtoGPT](https://github.com/keyvank/femtogpt) - 纯实现最小生成预训练变压器
 
 
-**Others**
- * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - 解决gpt4的
- * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用Vue3 和Go 搭建的微软 新的Bing演示站点,拥有一个一致的UI体验,支持ChatGPT 提示词,国内可用.
-
-
-_Updated on June 05, 2023_ (A total of 770 repositories listed.)
+_Updated on June 07, 2023_ (A total of 775 repositories listed.)
 
 🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
@@ -73,6 +73,7 @@ ChatGPT资料汇总学习，持续更新......
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 ChatGPT的超棒列表——由OpenAI开发的人工智能聊天机器人
  * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。
  * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - 一个为GPT提示工程师精心策划的资源、工具和其他闪亮物品的精选列表。
+ * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 网络安全chatgpt指令集，训练chatgpt成为一名网络安全专家。
 
 
 |Name|GitHub Stars|Language|License|
@@ -94,6 +95,7 @@ ChatGPT资料汇总学习，持续更新......
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
 |[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lilittlecat/awesome-free-chatgpt?style=social)|Python|mit|
 |[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
+|[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
 
 
 ## Prompts
@@ -307,6 +309,8 @@ ChatGPT资料汇总学习，持续更新......
  * [LLaVA](https://github.com/haotian-liu/llava) - 面向多模态GPT-4级能力构建的大型语言与视觉助手。
  * [OpenChat](https://github.com/openchatai/openchat) - 使用OpenChat运行和创建自定义的ChatGPT样式的机器人，在任何地方嵌入和分享这些机器人，这是一个开源的聊天机器人控制台。
  * [st-chat](https://github.com/ai-yash/st-chat) - Streamlit组件，用于聊天机器人用户界面
+ * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - 一款由人工智能驱动的Telegram文本摘要机器人，可以生成文本、URL和YouTube视频的简洁摘要。
+ * [Bard-API](https://github.com/dsdanielpark/bard-api) - 这是一个非官方的Python包，通过cookie值返回Google Bard的响应。
 
 
 |Name|GitHub Stars|Language|License|
@@ -406,6 +410,8 @@ ChatGPT资料汇总学习，持续更新......
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 |[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
 |[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/ai-yash/st-chat?style=social)|Python|mit|
+|[summary-gpt-bot](https://github.com/tpai/summary-gpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/tpai/summary-gpt-bot?style=social)|Python|-|
+|[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -664,6 +670,7 @@ ChatGPT资料汇总学习，持续更新......
  * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 生成美观且信息丰富的 README Markdown 文件的 CLI 工具。由 OpenAI 的 GPT API 提供支持 💫
  * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 我发布了我的 @OpenAI/@Azure PowerShell 示例！使用 PowerShellAI 模块，您将拥有 ChatGPT 的强大功能。在多语言交互式笔记本中探索示例。让我们重新定义 AI 的可能性！👇 #PowerShell #MSBuild
  * [TermGPT](https://github.com/sentdex/termgpt) - 赋予像GPT-4这样的LLM能够规划和执行终端命令的能力。
+ * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 使用官方API与ChatGPT聊天的简单而有效的命令行客户端
 
 
 |Name|GitHub Stars|Language|License|
@@ -731,7 +738,8 @@ ChatGPT资料汇总学习，持续更新......
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
 |[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
 |[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
-|[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
+|[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
+|[chatgpt-cli](https://github.com/marcolardera/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/marcolardera/chatgpt-cli?style=social)|Python|mit|
 
 
 ## Reimplementations
@@ -752,6 +760,7 @@ ChatGPT资料汇总学习，持续更新......
  * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - 基于nanoGPT的StableLM/Pythia/INCITE语言模型的实现。支持闪存注意力、LLaMA-Adapter微调、预训练。采用Apache 2.0许可证。
  * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - OpenAI的ChatGPT代码解释器的开源实现
  * [DragGAN](https://github.com/zeqiang-lai/draggan) - 在线演示和实现DragGAN - “拖动您的GAN：在生成图像流形上进行交互式基于点的操作”
+ * [femtoGPT](https://github.com/keyvank/femtogpt) - 一个最小化的生成预训练变压器的纯Rust实现。
 
 
 |Name|GitHub Stars|Language|License|
@@ -772,6 +781,7 @@ ChatGPT资料汇总学习，持续更新......
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
 |[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/zeqiang-lai/DragGAN?style=social)|Python|-|
+|[femtoGPT](https://github.com/keyvank/femtogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/keyvank/femtoGPT?style=social)|Rust|mit|
 
 
 ## Tutorials
@@ -1040,7 +1050,7 @@ ChatGPT资料汇总学习，持续更新......
 |[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
 |[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/ToolBench?style=social)|Python|apache-2.0|
 |[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/promtengineer/localGPT?style=social)|Python|apache-2.0|
-|[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
+|[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
 
 
 ## Langchain

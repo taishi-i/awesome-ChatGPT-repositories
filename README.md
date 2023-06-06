@@ -18,24 +18,24 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - A nvim plugin Powered by GPT4ALL for Real-time Code Explanation and Vulnerability Detection (no internet necessary)
+**Awesome-lists**
+ * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 网络安全chatgpt指令集，训练chatgpt成为一名网络安全专家
+
+
+**Chatbots**
+ * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, and YouTube videos.
+ * [Bard-API](https://github.com/dsdanielpark/bard-api) - The unofficial python package that returns response of Google Bard through cookie value.
 
 
 **CLIs**
- * [TermGPT](https://github.com/sentdex/termgpt) - Giving LLMs like GPT-4 the ability to plan and execute terminal commands
+ * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 
 
-**NLP**
- * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. 
+**Reimplementations**
+ * [femtoGPT](https://github.com/keyvank/femtogpt) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 
 
-**Others**
- * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - larc solving with gpt4
- * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-
-_Updated on June 05, 2023_ (A total of 770 repositories listed.)
+_Updated on June 07, 2023_ (A total of 775 repositories listed.)
 
 🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
@@ -75,6 +75,7 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
  * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated.
  * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.
+ * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 网络安全chatgpt指令集，训练chatgpt成为一名网络安全专家
 
 
 |Name|GitHub Stars|Language|License|
@@ -96,6 +97,7 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
 |[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lilittlecat/awesome-free-chatgpt?style=social)|Python|mit|
 |[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
+|[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
 
 
 ## Prompts
@@ -309,6 +311,8 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
  * [LLaVA](https://github.com/haotian-liu/llava) - Large Language-and-Vision Assistant built towards multimodal GPT-4 level capabilities.
  * [OpenChat](https://github.com/openchatai/openchat) - Run and create custom ChatGPT-like bots with OpenChat, embed and share these bots anywhere, the open-source chatbot console.
  * [st-chat](https://github.com/ai-yash/st-chat) - Streamlit Component, for a Chatbot UI
+ * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, and YouTube videos.
+ * [Bard-API](https://github.com/dsdanielpark/bard-api) - The unofficial python package that returns response of Google Bard through cookie value.
 
 
 |Name|GitHub Stars|Language|License|
@@ -408,6 +412,8 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 |[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
 |[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/ai-yash/st-chat?style=social)|Python|mit|
+|[summary-gpt-bot](https://github.com/tpai/summary-gpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/tpai/summary-gpt-bot?style=social)|Python|-|
+|[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -662,6 +668,7 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
  * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 CLI tool that generates beautiful and informative README Markdown files. Powered by OpenAI's GPT APIs 💫
  * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 Launched my @OpenAI/@Azure PowerShell Samples! With the PowerShellAI module, you'll have the power of ChatGPT at your fingertips. Explore the samples in Polyglot Interactive Notebooks. Let's redefine what's possible with AI! 👇  #PowerShell #MSBuild
  * [TermGPT](https://github.com/sentdex/termgpt) - Giving LLMs like GPT-4 the ability to plan and execute terminal commands
+ * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 
 
 |Name|GitHub Stars|Language|License|
@@ -729,7 +736,8 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
 |[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
 |[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
-|[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
+|[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
+|[chatgpt-cli](https://github.com/marcolardera/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/marcolardera/chatgpt-cli?style=social)|Python|mit|
 
 
 ## Reimplementations
@@ -750,6 +758,7 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
  * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - Implementation of the StableLM/Pythia/INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
  * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
  * [DragGAN](https://github.com/zeqiang-lai/draggan) - Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
+ * [femtoGPT](https://github.com/keyvank/femtogpt) - Pure Rust implementation of a minimal Generative Pretrained Transformer
 
 
 |Name|GitHub Stars|Language|License|
@@ -770,6 +779,7 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
 |[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/zeqiang-lai/DragGAN?style=social)|Python|-|
+|[femtoGPT](https://github.com/keyvank/femtogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/keyvank/femtoGPT?style=social)|Rust|mit|
 
 
 ## Tutorials
@@ -908,7 +918,7 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
  * [infiniteGPT](https://github.com/emmethalm/infinitegpt) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
  * [ToolBench](https://github.com/openbmb/toolbench) - An open platform for training, serving, and evaluating large language model for tool learning.
  * [localGPT](https://github.com/promtengineer/localgpt) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
- * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. 
+ * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1031,7 +1041,7 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
 |[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
 |[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/ToolBench?style=social)|Python|apache-2.0|
 |[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/promtengineer/localGPT?style=social)|Python|apache-2.0|
-|[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
+|[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
 
 
 ## Langchain

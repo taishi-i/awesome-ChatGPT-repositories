@@ -15,24 +15,24 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - リアルタイムのコード説明と脆弱性検出のためのGPT4ALLによるnvimプラグイン（インターネット不要）
+**Awesome-lists**
+ * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - ネットワークセキュリティchatgptコマンドセット、chatgptをネットワークセキュリティ専門家にトレーニングする。
+
+
+**Chatbots**
+ * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - テキスト、URL、YouTubeビデオの簡潔な要約を生成するAIパワードのテキスト要約Telegramボット。
+ * [Bard-API](https://github.com/dsdanielpark/bard-api) - クッキー値を通じてGoogle Bardの応答を返す非公式のPythonパッケージ。
 
 
 **CLIs**
- * [TermGPT](https://github.com/sentdex/termgpt) - LLMのようなGPT-4に、ターミナルコマンドの計画と実行の能力を与えること。
+ * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 公式APIを使用してChatGPTとチャットするためのシンプルで効果的なコマンドラインクライアント
 
 
-**NLP**
- * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - Azureで実行されるRetrieval-Augmented Generationパターンのサンプルアプリで、検索にAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にパワーを与えるためにAzure OpenAI大規模言語モデルを使用しています。
+**Reimplementations**
+ * [femtoGPT](https://github.com/keyvank/femtogpt) - 最小限のGenerative Pretrained Transformerの純粋なRust実装
 
 
-**Others**
- * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - larcがGPT-4で解決する
- * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - Vue3とGoを使用して構築されたMicrosoft New Bingのデモサイトは、一貫したUI体験を提供し、ChatGPTのヒントワードをサポートしています。国内でも利用可能です。
-
-
-_Updated on June 05, 2023_ (A total of 770 repositories listed.)
+_Updated on June 07, 2023_ (A total of 775 repositories listed.)
 
 🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
 
@@ -72,6 +72,7 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
  * [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 OpenAIによって開発された人工知能チャットボットChatGPTの素晴らしいリスト
  * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓無料のChatGPTミラーサイトのリスト、常に更新中。
  * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - GPTプロンプトエンジニアリングのための素晴らしいリソース、ツール、その他の輝くものの厳選リスト。
+ * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - ネットワークセキュリティchatgptコマンドセット、chatgptをネットワークセキュリティ専門家にトレーニングする。
 
 
 |Name|GitHub Stars|Language|License|
@@ -93,6 +94,7 @@ _Updated on June 05, 2023_ (A total of 770 repositories listed.)
 |[awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sindresorhus/awesome-chatgpt?style=social)|-|cc0-1.0|
 |[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lilittlecat/awesome-free-chatgpt?style=social)|Python|mit|
 |[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
+|[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
 
 
 ## Prompts
@@ -313,6 +315,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [LLaVA](https://github.com/haotian-liu/llava) - マルチモーダルなGPT-4レベルの機能に向けて構築された大規模な言語とビジョンアシスタント。
  * [OpenChat](https://github.com/openchatai/openchat) - OpenChatでカスタムChatGPTのようなボットを実行して作成し、どこでも埋め込んで共有できるオープンソースのチャットボットコンソールです。
  * [st-chat](https://github.com/ai-yash/st-chat) - チャットボットUIのためのStreamlitコンポーネント
+ * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - テキスト、URL、YouTubeビデオの簡潔な要約を生成するAIパワードのテキスト要約Telegramボット。
+ * [Bard-API](https://github.com/dsdanielpark/bard-api) - クッキー値を通じてGoogle Bardの応答を返す非公式のPythonパッケージ。
 
 
 |Name|GitHub Stars|Language|License|
@@ -412,6 +416,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[LLaVA](https://github.com/haotian-liu/llava)|![GitHub Repo stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=social)|Python|apache-2.0|
 |[OpenChat](https://github.com/openchatai/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)|Blade|-|
 |[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/ai-yash/st-chat?style=social)|Python|mit|
+|[summary-gpt-bot](https://github.com/tpai/summary-gpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/tpai/summary-gpt-bot?style=social)|Python|-|
+|[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -666,6 +672,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [README-AI](https://github.com/eli64s/readme-ai) - 🚀 README Markdownファイルを美しく情報豊かに生成するCLIツール。OpenAIのGPT APIによって動作します 💫
  * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 @OpenAI/@Azure PowerShellサンプルをリリースしました！PowerShellAIモジュールを使用すると、ChatGPTの力を手軽に利用できます。Polyglotインタラクティブノートブックでサンプルを探索してください。AIで可能性を再定義しましょう！👇 #PowerShell #MSBuild
  * [TermGPT](https://github.com/sentdex/termgpt) - LLMのようなGPT-4に、ターミナルコマンドの計画と実行の能力を与えること。
+ * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 公式APIを使用してChatGPTとチャットするためのシンプルで効果的なコマンドラインクライアント
 
 
 |Name|GitHub Stars|Language|License|
@@ -733,7 +740,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[elia](https://github.com/darrenburns/elia)|![GitHub Repo stars](https://img.shields.io/github/stars/darrenburns/elia?style=social)|Python|-|
 |[README-AI](https://github.com/eli64s/readme-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/eli64s/README-AI?style=social)|Python|mit|
 |[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
-|[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
+|[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
+|[chatgpt-cli](https://github.com/marcolardera/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/marcolardera/chatgpt-cli?style=social)|Python|mit|
 
 
 ## Reimplementations
@@ -754,6 +762,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [lit-parrot](https://github.com/lightning-ai/lit-parrot) - nanoGPTに基づくStableLM/Pythia/INCITE言語モデルの実装。フラッシュアテンション、LLaMA-アダプターの微調整、事前学習をサポート。Apache 2.0ライセンス。
  * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - OpenAIのChatGPTコードインタープリターのオープンソース実装
  * [DragGAN](https://github.com/zeqiang-lai/draggan) - DragGANのオンラインデモと実装 - 「Drag Your GAN：生成画像マニフォールド上のインタラクティブなポイントベースの操作」
+ * [femtoGPT](https://github.com/keyvank/femtogpt) - 最小限のGenerative Pretrained Transformerの純粋なRust実装
 
 
 |Name|GitHub Stars|Language|License|
@@ -774,6 +783,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[lit-parrot](https://github.com/lightning-ai/lit-parrot)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-parrot?style=social)|Python|apache-2.0|
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
 |[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/zeqiang-lai/DragGAN?style=social)|Python|-|
+|[femtoGPT](https://github.com/keyvank/femtogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/keyvank/femtoGPT?style=social)|Rust|mit|
 
 
 ## Tutorials
@@ -1038,7 +1048,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[infiniteGPT](https://github.com/emmethalm/infinitegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/emmethalm/infiniteGPT?style=social)|Python|-|
 |[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/ToolBench?style=social)|Python|apache-2.0|
 |[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/promtengineer/localGPT?style=social)|Python|apache-2.0|
-|[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
+|[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
 
 
 ## Langchain
