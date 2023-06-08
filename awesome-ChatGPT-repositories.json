@@ -3259,6 +3259,32 @@
                     "zh-hans": "这是一个非官方的Python包，通过cookie值返回Google Bard的响应。",
                     "zh-hant": "這是一個非官方的Python套件，透過Cookie值返回Google Bard的回應。"
                 }
+            },
+            "https://github.com/n4ze3m/dialoqbase": {
+                "repository_name": "dialoqbase",
+                "user_name": "n4ze3m",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Create chatbots with ease",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "framework",
+                    "gpt-3",
+                    "langchain"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create chatbots with ease",
+                    "ja": "簡単にチャットボットを作成する",
+                    "zh-hans": "轻松创建聊天机器人",
+                    "zh-hant": "輕鬆創建聊天機器人"
+                }
             }
         },
         "Browser-extensions": {
@@ -6687,6 +6713,33 @@
                     "zh-hans": "学习Q#和量子计算的教程和编程练习",
                     "zh-hant": "學習 Q# 和量子計算的教程和編程練習"
                 }
+            },
+            "https://github.com/akshitireddy/ai-powered-video-tutorial-generator": {
+                "repository_name": "AI-Powered-Video-Tutorial-Generator",
+                "user_name": "AkshitIreddy",
+                "language": "JavaScript",
+                "license": {
+                    "key": "unlicense",
+                    "name": "The Unlicense",
+                    "spdx_id": "Unlicense",
+                    "url": "https://api.github.com/licenses/unlicense",
+                    "node_id": "MDc6TGljZW5zZTE1"
+                },
+                "description": "Create AI-Generated Video Tutorials with Character Animation and Slides!",
+                "topics": [
+                    "creative",
+                    "facial-animation",
+                    "fastapi",
+                    "generativeai",
+                    "langchain-python",
+                    "nextjs13"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create AI-Generated Video Tutorials with Character Animation and Slides!",
+                    "ja": "キャラクターアニメーションとスライドを使用したAI生成ビデオチュートリアルを作成しましょう！",
+                    "zh-hans": "使用角色动画和幻灯片创建AI生成的视频教程！",
+                    "zh-hant": "創建具有角色動畫和幻燈片的AI生成視頻教程！"
+                }
             }
         },
         "NLP": {
@@ -9716,6 +9769,26 @@
                     "zh-hans": "将文本文件嵌入向量中，存储在Pinecone上，并使用GPT3和Langchain在Next.js UI中实现语义搜索。",
                     "zh-hant": "將文本文件嵌入向量中，存儲在Pinecone中，並使用GPT3和Langchain在Next.js UI中啟用語義搜索。"
                 }
+            },
+            "https://github.com/togethercomputer/redpajama.cpp": {
+                "repository_name": "redpajama.cpp",
+                "user_name": "togethercomputer",
+                "language": "C",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Extend the original llama.cpp repo to support redpajama model.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Please expand the existing llama.cpp repository to include support for the redpajama model.",
+                    "ja": "元のllama.cppリポジトリを拡張して、redpajamaモデルをサポートするようにしてください。",
+                    "zh-hans": "扩展原始的llama.cpp仓库以支持redpajama模型。",
+                    "zh-hant": "擴展原始的llama.cpp存儲庫以支持redpajama模型。"
+                }
             }
         },
         "Unity": {
@@ -11318,6 +11391,31 @@
                     "ja": "Cloudflareワーカーで実行されているOpenAI APIプロキシ。",
                     "zh-hans": "一个在Cloudflare worker上运行的OpenAI API代理。",
                     "zh-hant": "一個運行在 Cloudflare worker 上的 OpenAI API 代理。"
+                }
+            },
+            "https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd": {
+                "repository_name": "KeepChatGPT",
+                "user_name": "xcanwin",
+                "language": "JavaScript",
+                "license": {
+                    "key": "gpl-2.0",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0",
+                    "url": "https://api.github.com/licenses/gpl-2.0",
+                    "node_id": "MDc6TGljZW5zZTg="
+                },
+                "description": "这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "openai",
+                    "userscript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This is a ChatGPT chat and enhancement plugin. It is open source and free. It not only solves all error refreshing problems, but also has many advanced features such as staying active, canceling audits, cloning conversations, purifying the homepage, displaying on a large screen, displaying in full screen, expressing oneself fully, intercepting tracking, and constantly improving. It makes our AI experience incredibly smooth, efficient, and concise.",
+                    "ja": "これはChatGPTのスムーズなチャットと強化プラグインです。オープンソースで無料です。すべてのエラーをリフレッシュする必要がなくなるだけでなく、アクティブを維持し、監査をキャンセルし、会話をクローンし、ホームページを浄化し、大画面を表示し、フルスクリーンを表示し、言葉を尽くし、トラッキングをブロックし、日々進化するなど、多数の高度な機能があります。私たちのAI体験を非常にスムーズでシームレス、効率的、簡潔にします。",
+                    "zh-hans": "这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。",
+                    "zh-hant": "這是一個ChatGPT的暢聊與增強插件。開源免費。不僅能解決所有報錯不再刷新，還有保持活躍、取消審計、克隆對話、淨化首頁、展示大屏、展示全屏、言無不盡、攔截跟蹤、日新月異等多個高級功能。讓我們的AI體驗無比順暢、絲滑、高效、簡潔。"
                 }
             }
         },
@@ -14812,6 +14910,20 @@
                     "ja": "Vue3とGoを使用して構築されたMicrosoft New Bingのデモサイトは、一貫したUI体験を提供し、ChatGPTのヒントワードをサポートしています。国内でも利用可能です。",
                     "zh-hans": "使用Vue3和Go构建的微软New Bing演示站点，具有一致的UI体验，支持ChatGPT提示词，可在国内使用。",
                     "zh-hant": "使用 Vue3 和 Go 構建的微軟 New Bing 示範站點，擁有一致的 UI 體驗，支援 ChatGPT 提示詞，國內可用。"
+                }
+            },
+            "https://github.com/nearform/slack-knowledgebase-chatgpt-responder": {
+                "repository_name": "slack-knowledgebase-chatgpt-responder",
+                "user_name": "nearform",
+                "language": "JavaScript",
+                "license": null,
+                "description": "ChatGPT powered slack responder to the questions that are about NearForm knowledge base",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT powered slack responder to the questions that are about NearForm knowledge base",
+                    "ja": "NearFormの知識ベースに関する質問に対する回答を提供するChatGPTパワードのSlack応答者。",
+                    "zh-hans": "ChatGPT是由Slack驱动的自动回复程序，用于回答与NearForm知识库相关的问题。",
+                    "zh-hant": "ChatGPT 驅動的 Slack 回覆器，用於回答關於 NearForm 知識庫的問題。"
                 }
             }
         }

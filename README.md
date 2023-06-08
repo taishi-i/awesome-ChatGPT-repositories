@@ -18,26 +18,27 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 网络安全chatgpt指令集，训练chatgpt成为一名网络安全专家
-
-
 **Chatbots**
- * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, and YouTube videos.
- * [Bard-API](https://github.com/dsdanielpark/bard-api) - The unofficial python package that returns response of Google Bard through cookie value.
+ * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 
 
-**CLIs**
- * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
+**Tutorials**
+ * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - Create AI-Generated Video Tutorials with Character Animation and Slides!
 
 
-**Reimplementations**
- * [femtoGPT](https://github.com/keyvank/femtogpt) - Pure Rust implementation of a minimal Generative Pretrained Transformer
+**Langchain**
+ * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - Extend the original llama.cpp repo to support redpajama model.
 
 
-_Updated on June 07, 2023_ (A total of 775 repositories listed.)
+**Openai**
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 
-🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
+
+**Others**
+ * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - ChatGPT powered slack responder to the questions that are about NearForm knowledge base
+
+
+_Updated on June 09, 2023_ (A total of 780 repositories listed.)
 
 ## Table of contents
 
@@ -313,6 +314,7 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
  * [st-chat](https://github.com/ai-yash/st-chat) - Streamlit Component, for a Chatbot UI
  * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, and YouTube videos.
  * [Bard-API](https://github.com/dsdanielpark/bard-api) - The unofficial python package that returns response of Google Bard through cookie value.
+ * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
 
 
 |Name|GitHub Stars|Language|License|
@@ -414,6 +416,7 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
 |[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/ai-yash/st-chat?style=social)|Python|mit|
 |[summary-gpt-bot](https://github.com/tpai/summary-gpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/tpai/summary-gpt-bot?style=social)|Python|-|
 |[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
+|[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
 
 
 ## Browser-extensions
@@ -788,6 +791,7 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
  * [notebooks](https://github.com/dataflowr/notebooks) - code for deep learning courses
  * [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 🔥gpt4all (the best chatgpt clone) running locally and on colab tutorial -  -  to @camenduru's colab -
  * [X-Decoder](https://github.com/microsoft/x-decoder) - Tutorials and programming exercises for learning Q# and quantum computing
+ * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - Create AI-Generated Video Tutorials with Character Animation and Slides!
 
 
 |Name|GitHub Stars|Language|License|
@@ -796,6 +800,7 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
 |[notebooks](https://github.com/dataflowr/notebooks)|![GitHub Repo stars](https://img.shields.io/github/stars/dataflowr/notebooks?style=social)|Jupyter Notebook|apache-2.0|
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
+|[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/AkshitIreddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
 
 
 ## NLP
@@ -1087,6 +1092,7 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
  * [chainlit](https://github.com/chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
  * [Flowise](https://github.com/flowiseai/flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
  * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
+ * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - Extend the original llama.cpp repo to support redpajama model.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1132,6 +1138,7 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
 |[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
 |[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social)|JavaScript|mit|
 |[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
+|[redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/redpajama.cpp?style=social)|C|mit|
 
 
 ## Unity
@@ -1237,6 +1244,7 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
  * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Sample application that combines Azure Cosmos DB with Azure OpenAI ChatGPT service
  * [ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - An OpenAI API proxy running with Cloudflare worker.
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1318,6 +1326,7 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
 |[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 |[ix](https://github.com/kreneskyp/ix)|![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)|Python|mit|
 |[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
+|[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 
 
 ## Others
@@ -1521,6 +1530,7 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
  * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台
  * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - larc solving with gpt4
  * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+ * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - ChatGPT powered slack responder to the questions that are about NearForm knowledge base
 
 
 |Name|GitHub Stars|Language|License|
@@ -1724,5 +1734,6 @@ _Updated on June 07, 2023_ (A total of 775 repositories listed.)
 |[gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)|![GitHub Repo stars](https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social)|Rust|gpl-3.0|
 |[larc_gpt4](https://github.com/evanthebouncy/larc_gpt4)|![GitHub Repo stars](https://img.shields.io/github/stars/evanthebouncy/larc_gpt4?style=social)|Python|-|
 |[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|![GitHub Repo stars](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai?style=social)|HTML|mit|
+|[slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder)|![GitHub Repo stars](https://img.shields.io/github/stars/nearform/slack-knowledgebase-chatgpt-responder?style=social)|JavaScript|-|
 
 
