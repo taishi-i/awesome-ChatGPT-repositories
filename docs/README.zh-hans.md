@@ -15,26 +15,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 网络安全聊天GPT指令集,训练聊天GPT成为网络安全专家
-
-
 **Chatbots**
- * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - 一个以人工智能为动力的文本总结电话机器人,生成文本,URL和YouTube视频的简洁总结.
- * [Bard-API](https://github.com/dsdanielpark/bard-api) - 不官方的python包通过cookie值返回Google Bard的响应.
+ * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 轻松创建聊天机器人
 
 
-**CLIs**
- * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 使用官方API与ChatGPT聊天的简单但有效的命令行客户端
+**Tutorials**
+ * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - 创建人工智能生成的视频教程,
 
 
-**Reimplementations**
- * [femtoGPT](https://github.com/keyvank/femtogpt) - 纯实现最小生成预训练变压器
+**Langchain**
+ * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - 扩展原始的 llama.cpp repo 支持redpajama模型.
 
 
-_Updated on June 07, 2023_ (A total of 775 repositories listed.)
+**Openai**
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 这是一个ChatGPT的聊和增强插件──开源免费──不仅可以解决所有错误,还可以保持活跃,取消审计,克隆对话,清理首页,展示大屏幕,展示全屏幕,言语无尽,拦截跟踪,日新月等等多种高级功能──让我们的AI体验无与伦比顺,滑滑滑,高效,简单.
 
-🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
+
+**Others**
+ * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - 关于 NearForm 知识库的问题的 ChatGPT 驱动缓慢响应器
+
+
+_Updated on June 09, 2023_ (A total of 780 repositories listed.)
 
 ## Table of contents
 
@@ -311,6 +312,7 @@ ChatGPT资料汇总学习，持续更新......
  * [st-chat](https://github.com/ai-yash/st-chat) - Streamlit组件，用于聊天机器人用户界面
  * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - 一款由人工智能驱动的Telegram文本摘要机器人，可以生成文本、URL和YouTube视频的简洁摘要。
  * [Bard-API](https://github.com/dsdanielpark/bard-api) - 这是一个非官方的Python包，通过cookie值返回Google Bard的响应。
+ * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 轻松创建聊天机器人
 
 
 |Name|GitHub Stars|Language|License|
@@ -412,6 +414,7 @@ ChatGPT资料汇总学习，持续更新......
 |[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/ai-yash/st-chat?style=social)|Python|mit|
 |[summary-gpt-bot](https://github.com/tpai/summary-gpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/tpai/summary-gpt-bot?style=social)|Python|-|
 |[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
+|[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
 
 
 ## Browser-extensions
@@ -790,6 +793,7 @@ ChatGPT资料汇总学习，持续更新......
  * [notebooks](https://github.com/dataflowr/notebooks) - 深度学习课程代码
  * [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 🔥gpt4all（最好的chatgpt克隆版）在本地和colab教程上运行 - 到@camenduru的colab -
  * [X-Decoder](https://github.com/microsoft/x-decoder) - 学习Q#和量子计算的教程和编程练习
+ * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - 使用角色动画和幻灯片创建AI生成的视频教程！
 
 
 |Name|GitHub Stars|Language|License|
@@ -798,6 +802,7 @@ ChatGPT资料汇总学习，持续更新......
 |[notebooks](https://github.com/dataflowr/notebooks)|![GitHub Repo stars](https://img.shields.io/github/stars/dataflowr/notebooks?style=social)|Jupyter Notebook|apache-2.0|
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
+|[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/AkshitIreddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
 
 
 ## NLP
@@ -1096,6 +1101,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chainlit](https://github.com/chainlit/chainlit) - 在几分钟内构建Python LLM应用程序 ⚡️
  * [Flowise](https://github.com/flowiseai/flowise) - 使用LangchainJS拖放界面构建您定制的LLM流程
  * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - 将文本文件嵌入向量中，存储在Pinecone上，并使用GPT3和Langchain在Next.js UI中实现语义搜索。
+ * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - 扩展原始的llama.cpp仓库以支持redpajama模型。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1141,6 +1147,7 @@ ChatGPT资料汇总学习，持续更新......
 |[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
 |[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social)|JavaScript|mit|
 |[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
+|[redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/redpajama.cpp?style=social)|C|mit|
 
 
 ## Unity
@@ -1252,6 +1259,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - 结合Azure Cosmos DB和Azure OpenAI ChatGPT服务的示例应用程序
  * [ix](https://github.com/kreneskyp/ix) - 自主GPT-4代理平台
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - 一个在Cloudflare worker上运行的OpenAI API代理。
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1333,6 +1341,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 |[ix](https://github.com/kreneskyp/ix)|![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)|Python|mit|
 |[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
+|[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 
 
 ## Others
@@ -1539,6 +1548,7 @@ Chat酱独立部署版，docker方案自带代理
  * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
  * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - LARC与GPT-4的解决方案
  * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 使用Vue3和Go构建的微软New Bing演示站点，具有一致的UI体验，支持ChatGPT提示词，可在国内使用。
+ * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - ChatGPT是由Slack驱动的自动回复程序，用于回答与NearForm知识库相关的问题。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1742,5 +1752,6 @@ Chat酱独立部署版，docker方案自带代理
 |[gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)|![GitHub Repo stars](https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social)|Rust|gpl-3.0|
 |[larc_gpt4](https://github.com/evanthebouncy/larc_gpt4)|![GitHub Repo stars](https://img.shields.io/github/stars/evanthebouncy/larc_gpt4?style=social)|Python|-|
 |[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|![GitHub Repo stars](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai?style=social)|HTML|mit|
+|[slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder)|![GitHub Repo stars](https://img.shields.io/github/stars/nearform/slack-knowledgebase-chatgpt-responder?style=social)|JavaScript|-|
 
 

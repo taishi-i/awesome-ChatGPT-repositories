@@ -15,26 +15,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - ネットワークセキュリティchatgptコマンドセット、chatgptをネットワークセキュリティ専門家にトレーニングする。
-
-
 **Chatbots**
- * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - テキスト、URL、YouTubeビデオの簡潔な要約を生成するAIパワードのテキスト要約Telegramボット。
- * [Bard-API](https://github.com/dsdanielpark/bard-api) - クッキー値を通じてGoogle Bardの応答を返す非公式のPythonパッケージ。
+ * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 簡単にチャットボットを作成する
 
 
-**CLIs**
- * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 公式APIを使用してChatGPTとチャットするためのシンプルで効果的なコマンドラインクライアント
+**Tutorials**
+ * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - キャラクターアニメーションとスライドを使用したAI生成ビデオチュートリアルを作成しましょう！
 
 
-**Reimplementations**
- * [femtoGPT](https://github.com/keyvank/femtogpt) - 最小限のGenerative Pretrained Transformerの純粋なRust実装
+**Langchain**
+ * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - 元のllama.cppリポジトリを拡張して、redpajamaモデルをサポートするようにしてください。
 
 
-_Updated on June 07, 2023_ (A total of 775 repositories listed.)
+**Openai**
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - これはChatGPTのスムーズなチャットと強化プラグインです。オープンソースで無料です。すべてのエラーをリフレッシュする必要がなくなるだけでなく、アクティブを維持し、監査をキャンセルし、会話をクローンし、ホームページを浄化し、大画面を表示し、フルスクリーンを表示し、言葉を尽くし、トラッキングをブロックし、日々進化するなど、多数の高度な機能があります。私たちのAI体験を非常にスムーズでシームレス、効率的、簡潔にします。
 
-🏅 [eli64s](https://github.com/eli64s) and [snwfdhmp](https://github.com/snwfdhmp) provided some repository information. Thank you!
+
+**Others**
+ * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - NearFormの知識ベースに関する質問に対する回答を提供するChatGPTパワードのSlack応答者。
+
+
+_Updated on June 09, 2023_ (A total of 780 repositories listed.)
 
 ## Table of contents
 
@@ -317,6 +318,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [st-chat](https://github.com/ai-yash/st-chat) - チャットボットUIのためのStreamlitコンポーネント
  * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - テキスト、URL、YouTubeビデオの簡潔な要約を生成するAIパワードのテキスト要約Telegramボット。
  * [Bard-API](https://github.com/dsdanielpark/bard-api) - クッキー値を通じてGoogle Bardの応答を返す非公式のPythonパッケージ。
+ * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 簡単にチャットボットを作成する
 
 
 |Name|GitHub Stars|Language|License|
@@ -418,6 +420,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[st-chat](https://github.com/ai-yash/st-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/ai-yash/st-chat?style=social)|Python|mit|
 |[summary-gpt-bot](https://github.com/tpai/summary-gpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/tpai/summary-gpt-bot?style=social)|Python|-|
 |[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
+|[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
 
 
 ## Browser-extensions
@@ -792,6 +795,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [notebooks](https://github.com/dataflowr/notebooks) - 深層学習コースのコード
  * [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 🔥gpt4all（最高のchatgptクローン）がローカルとcolabチュートリアルで実行されています-@camenduruのcolabに-
  * [X-Decoder](https://github.com/microsoft/x-decoder) - Q#と量子コンピューティングを学ぶためのチュートリアルとプログラミング演習
+ * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - キャラクターアニメーションとスライドを使用したAI生成ビデオチュートリアルを作成しましょう！
 
 
 |Name|GitHub Stars|Language|License|
@@ -800,6 +804,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[notebooks](https://github.com/dataflowr/notebooks)|![GitHub Repo stars](https://img.shields.io/github/stars/dataflowr/notebooks?style=social)|Jupyter Notebook|apache-2.0|
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
+|[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/AkshitIreddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
 
 
 ## NLP
@@ -1094,6 +1099,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [chainlit](https://github.com/chainlit/chainlit) - 数分でPython LLMアプリを構築する ⚡️
  * [Flowise](https://github.com/flowiseai/flowise) - LangchainJSを使用してカスタマイズされたLLMフローを構築するためのドラッグ＆ドロップUI
  * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - テキストファイルをベクトルに埋め込み、Pineconeに保存し、Next.js UIでGPT3とLangchainを使用して意味検索を可能にします。
+ * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - 元のllama.cppリポジトリを拡張して、redpajamaモデルをサポートするようにしてください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1139,6 +1145,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[chainlit](https://github.com/chainlit/chainlit)|![GitHub Repo stars](https://img.shields.io/github/stars/chainlit/chainlit?style=social)|TypeScript|apache-2.0|
 |[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social)|JavaScript|mit|
 |[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
+|[redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/redpajama.cpp?style=social)|C|mit|
 
 
 ## Unity
@@ -1244,6 +1251,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - Azure Cosmos DBとAzure OpenAI ChatGPTサービスを組み合わせたサンプルアプリケーション
  * [ix](https://github.com/kreneskyp/ix) - 自律型GPT-4エージェントプラットフォーム
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - Cloudflareワーカーで実行されているOpenAI APIプロキシ。
+ * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - これはChatGPTのスムーズなチャットと強化プラグインです。オープンソースで無料です。すべてのエラーをリフレッシュする必要がなくなるだけでなく、アクティブを維持し、監査をキャンセルし、会話をクローンし、ホームページを浄化し、大画面を表示し、フルスクリーンを表示し、言葉を尽くし、トラッキングをブロックし、日々進化するなど、多数の高度な機能があります。私たちのAI体験を非常にスムーズでシームレス、効率的、簡潔にします。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1325,6 +1333,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/cosmosdb-chatgpt?style=social)|HTML|mit|
 |[ix](https://github.com/kreneskyp/ix)|![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)|Python|mit|
 |[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
+|[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 
 
 ## Others
@@ -1530,6 +1539,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - 聚合ChatGPTの公式版、ChatGPTの無料版、文心一言、Poe、chatchatなど、複数のプラットフォームを統合し、カスタムインポートプラットフォームをサポートしています。
  * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - larcがGPT-4で解決する
  * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - Vue3とGoを使用して構築されたMicrosoft New Bingのデモサイトは、一貫したUI体験を提供し、ChatGPTのヒントワードをサポートしています。国内でも利用可能です。
+ * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - NearFormの知識ベースに関する質問に対する回答を提供するChatGPTパワードのSlack応答者。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1733,5 +1743,6 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition)|![GitHub Repo stars](https://img.shields.io/github/stars/1595901624/gpt-aggregated-edition?style=social)|Rust|gpl-3.0|
 |[larc_gpt4](https://github.com/evanthebouncy/larc_gpt4)|![GitHub Repo stars](https://img.shields.io/github/stars/evanthebouncy/larc_gpt4?style=social)|Python|-|
 |[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|![GitHub Repo stars](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai?style=social)|HTML|mit|
+|[slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder)|![GitHub Repo stars](https://img.shields.io/github/stars/nearform/slack-knowledgebase-chatgpt-responder?style=social)|JavaScript|-|
 
 
