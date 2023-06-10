@@ -15,27 +15,28 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 輕鬆地創建聊天機
+**Awesome-lists**
+ * [awesome-ai](https://github.com/lencx/awesome-ai) -  很棒的AI
 
 
-**Tutorials**
- * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - 透過角色動畫和幻燈片創建人工智能製作的影片教程!
+**Prompts**
+ * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - 這裡有許多使用GPT模型的快速示例.
 
 
-**Langchain**
- * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - 延伸原始的 llama.cpp repo,
+**NLP**
+ * [llm](https://github.com/simonw/llm) - 接觸從命令行的大語言模型
+ * [AutoGPTQ](https://github.com/panqiwei/autogptq) - 這是一款易於使用的LLM量化包,
 
 
 **Openai**
- * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 這是一款ChatGPT的聊與增強插件──開放源碼免費──不僅能解決所有更新錯誤,還能保持活力,取消審核,克隆對話,清理首頁,顯示大屏幕,顯示全屏幕,言論無盡,拦截跟蹤,日新月等多種先進功能──讓我們的AI體驗無比順,滑滑,高效,簡潔.
+ * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - 提供 Cloudflare 工作者程式碼,
 
 
 **Others**
- * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - 關於 NearForm 知識庫的問題,
+ * [simpleaichat](https://github.com/minimaxir/simpleaichat) - 提供強大的功能和最小的代碼複雜性.
 
 
-_Updated on June 09, 2023_ (A total of 780 repositories listed.)
+_Updated on June 10, 2023_ (A total of 786 repositories listed.)
 
 ## Table of contents
 
@@ -74,6 +75,7 @@ _Updated on June 09, 2023_ (A total of 780 repositories listed.)
  * [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - 🆓免費的 ChatGPT 鏡像網站列表，持續更新。
  * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - 一個經過精心挑選的資源、工具和其他閃亮物品的清單，適用於GPT提示工程。
  * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 網絡安全chatgpt指令集，訓練chatgpt成為一名網絡安全專家。
+ * [awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 神奇人工智慧
 
 
 |Name|GitHub Stars|Language|License|
@@ -96,6 +98,7 @@ _Updated on June 09, 2023_ (A total of 780 repositories listed.)
 |[awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lilittlecat/awesome-free-chatgpt?style=social)|Python|mit|
 |[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
 |[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
+|[awesome-ai](https://github.com/lencx/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/awesome-ai?style=social)|-|cc0-1.0|
 
 
 ## Prompts
@@ -155,6 +158,7 @@ _Updated on June 09, 2023_ (A total of 780 repositories listed.)
  * [jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers) - JoPilot 支援的提示訊息
  * [chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub) - 使用思維鏈提示來評估大型語言模型的複雜推理能力的基準測試
  * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - 具備使用者管理和後台管理系統的 ChatGPT WebUI
+ * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - 這個存儲庫包含一系列的提示範例，可用於 Power Platform 中的 GPT 模型。
 
 
 |Name|GitHub Stars|Language|License|
@@ -212,6 +216,7 @@ _Updated on June 09, 2023_ (A total of 780 repositories listed.)
 |[jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers)|![GitHub Repo stars](https://img.shields.io/github/stars/jopilot-net/jopilot-4-job-seekers?style=social)|C#|-|
 |[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
+|[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
 
 
 ## Chatbots
@@ -803,7 +808,7 @@ _Updated on June 09, 2023_ (A total of 780 repositories listed.)
 |[notebooks](https://github.com/dataflowr/notebooks)|![GitHub Repo stars](https://img.shields.io/github/stars/dataflowr/notebooks?style=social)|Jupyter Notebook|apache-2.0|
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
-|[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/AkshitIreddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
+|[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/akshitireddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
 
 
 ## NLP
@@ -934,6 +939,8 @@ _Updated on June 09, 2023_ (A total of 780 repositories listed.)
  * [ToolBench](https://github.com/openbmb/toolbench) - 一個開放平台，用於訓練、服務和評估大型語言模型，以進行工具學習。
  * [localGPT](https://github.com/promtengineer/localgpt) - 使用GPT模型在本地設備上與您的文件進行聊天。沒有數據離開您的設備，100％私密。
  * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - 一個在Azure上運行的應用程式範例，使用Azure Cognitive Search進行檢索，並使用Azure OpenAI大型語言模型來支持ChatGPT風格和Q&A體驗的檢索增強生成模式。
+ * [llm](https://github.com/simonw/llm) - 從命令行訪問大型語言模型
+ * [AutoGPTQ](https://github.com/panqiwei/autogptq) - 一個基於GPTQ算法的易於使用的LLMs量化套件，具有用戶友好的API。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1057,6 +1064,8 @@ _Updated on June 09, 2023_ (A total of 780 repositories listed.)
 |[ToolBench](https://github.com/openbmb/toolbench)|![GitHub Repo stars](https://img.shields.io/github/stars/openbmb/ToolBench?style=social)|Python|apache-2.0|
 |[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/promtengineer/localGPT?style=social)|Python|apache-2.0|
 |[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
+|[llm](https://github.com/simonw/llm)|![GitHub Repo stars](https://img.shields.io/github/stars/simonw/llm?style=social)|Python|apache-2.0|
+|[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/PanQiWei/AutoGPTQ?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1256,6 +1265,7 @@ _Updated on June 09, 2023_ (A total of 780 repositories listed.)
  * [ix](https://github.com/kreneskyp/ix) - 自主GPT-4代理平台
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - 一個運行在 Cloudflare worker 上的 OpenAI API 代理。
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 這是一個ChatGPT的暢聊與增強插件。開源免費。不僅能解決所有報錯不再刷新，還有保持活躍、取消審計、克隆對話、淨化首頁、展示大屏、展示全屏、言無不盡、攔截跟蹤、日新月異等多個高級功能。讓我們的AI體驗無比順暢、絲滑、高效、簡潔。
+ * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - 一個 Cloudflare worker 腳本，用於代理 OpenAI 對 Azure OpenAI 服務的請求。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1338,6 +1348,7 @@ _Updated on June 09, 2023_ (A total of 780 repositories listed.)
 |[ix](https://github.com/kreneskyp/ix)|![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)|Python|mit|
 |[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
+|[cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/haibbo/cf-openai-azure-proxy?style=social)|JavaScript|mit|
 
 
 ## Others
@@ -1553,6 +1564,7 @@ add chatgpt to your groupchats:
  * [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - 使用GPT-4進行LARC求解
  * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 使用 Vue3 和 Go 構建的微軟 New Bing 示範站點，擁有一致的 UI 體驗，支援 ChatGPT 提示詞，國內可用。
  * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - ChatGPT 驅動的 Slack 回覆器，用於回答關於 NearForm 知識庫的問題。
+ * [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python套件，可輕鬆與聊天應用程式進行接口，具有強大的功能和最小的代碼複雜性。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1757,5 +1769,6 @@ add chatgpt to your groupchats:
 |[larc_gpt4](https://github.com/evanthebouncy/larc_gpt4)|![GitHub Repo stars](https://img.shields.io/github/stars/evanthebouncy/larc_gpt4?style=social)|Python|-|
 |[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|![GitHub Repo stars](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai?style=social)|HTML|mit|
 |[slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder)|![GitHub Repo stars](https://img.shields.io/github/stars/nearform/slack-knowledgebase-chatgpt-responder?style=social)|JavaScript|-|
+|[simpleaichat](https://github.com/minimaxir/simpleaichat)|![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)|Python|mit|
 
 
