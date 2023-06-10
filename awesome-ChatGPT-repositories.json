@@ -390,6 +390,33 @@
                     "zh-hans": "网络安全chatgpt指令集，训练chatgpt成为一名网络安全专家。",
                     "zh-hant": "網絡安全chatgpt指令集，訓練chatgpt成為一名網絡安全專家。"
                 }
+            },
+            "https://github.com/lencx/awesome-ai": {
+                "repository_name": "awesome-ai",
+                "user_name": "lencx",
+                "language": null,
+                "license": {
+                    "key": "cc0-1.0",
+                    "name": "Creative Commons Zero v1.0 Universal",
+                    "spdx_id": "CC0-1.0",
+                    "url": "https://api.github.com/licenses/cc0-1.0",
+                    "node_id": "MDc6TGljZW5zZTY="
+                },
+                "description": "🤖 Awesome AI",
+                "topics": [
+                    "ai",
+                    "application",
+                    "chatgpt",
+                    "gpt",
+                    "stable-diffusion",
+                    "tools"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 Awesome AI",
+                    "ja": "🤖 素晴らしい人工知能",
+                    "zh-hans": "🤖 令人惊叹的人工智能",
+                    "zh-hant": "🤖 神奇人工智慧"
+                }
             }
         },
         "Prompts": {
@@ -1338,6 +1365,20 @@
                     "ja": "ChatGPT WebUIには、ユーザー管理とバックエンド管理システムが含まれています。",
                     "zh-hans": "带有用户管理和后台管理系统的 ChatGPT 网页用户界面",
                     "zh-hant": "具備使用者管理和後台管理系統的 ChatGPT WebUI"
+                }
+            },
+            "https://github.com/pnp/powerplatform-prompts": {
+                "repository_name": "powerplatform-prompts",
+                "user_name": "pnp",
+                "language": "HTML",
+                "license": null,
+                "description": "This repository contains a collection of prompt examples to be used with GPT models in the Power Platform.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This repository contains a collection of prompt examples to be used with GPT models in the Power Platform.",
+                    "ja": "このリポジトリには、Power Platformで使用するためのGPTモデルのプロンプト例のコレクションが含まれています。",
+                    "zh-hans": "这个仓库包含了一系列的提示示例，可用于在Power Platform中使用GPT模型。",
+                    "zh-hant": "這個存儲庫包含一系列的提示範例，可用於 Power Platform 中的 GPT 模型。"
                 }
             }
         },
@@ -8945,6 +8986,56 @@
                     "zh-hans": "一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
                     "zh-hant": "一個在Azure上運行的應用程式範例，使用Azure Cognitive Search進行檢索，並使用Azure OpenAI大型語言模型來支持ChatGPT風格和Q&A體驗的檢索增強生成模式。"
                 }
+            },
+            "https://github.com/simonw/llm": {
+                "repository_name": "llm",
+                "user_name": "simonw",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Access large language models from the command-line",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Access large language models from the command-line",
+                    "ja": "コマンドラインから大規模言語モデルにアクセスする。",
+                    "zh-hans": "从命令行访问大型语言模型",
+                    "zh-hant": "從命令行訪問大型語言模型"
+                }
+            },
+            "https://github.com/panqiwei/autogptq": {
+                "repository_name": "AutoGPTQ",
+                "user_name": "PanQiWei",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.",
+                "topics": [
+                    "deep-learning",
+                    "inference",
+                    "large-language-models",
+                    "llms",
+                    "nlp",
+                    "pytorch",
+                    "quantization",
+                    "transformer",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.",
+                    "ja": "GPTQアルゴリズムに基づくユーザーフレンドリーなAPIを備えた使いやすいLLMs量子化パッケージ。",
+                    "zh-hans": "基于GPTQ算法的易于使用的LLMs量化包，具有用户友好的API。",
+                    "zh-hant": "一個基於GPTQ算法的易於使用的LLMs量化套件，具有用戶友好的API。"
+                }
             }
         },
         "Langchain": {
@@ -11416,6 +11507,33 @@
                     "ja": "これはChatGPTのスムーズなチャットと強化プラグインです。オープンソースで無料です。すべてのエラーをリフレッシュする必要がなくなるだけでなく、アクティブを維持し、監査をキャンセルし、会話をクローンし、ホームページを浄化し、大画面を表示し、フルスクリーンを表示し、言葉を尽くし、トラッキングをブロックし、日々進化するなど、多数の高度な機能があります。私たちのAI体験を非常にスムーズでシームレス、効率的、簡潔にします。",
                     "zh-hans": "这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。",
                     "zh-hant": "這是一個ChatGPT的暢聊與增強插件。開源免費。不僅能解決所有報錯不再刷新，還有保持活躍、取消審計、克隆對話、淨化首頁、展示大屏、展示全屏、言無不盡、攔截跟蹤、日新月異等多個高級功能。讓我們的AI體驗無比順暢、絲滑、高效、簡潔。"
+                }
+            },
+            "https://github.com/haibbo/cf-openai-azure-proxy": {
+                "repository_name": "cf-openai-azure-proxy",
+                "user_name": "haibbo",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service",
+                "topics": [
+                    "azure-openai-proxy",
+                    "chatgpt",
+                    "cloudflare-workers",
+                    "gpt-3",
+                    "palm",
+                    "streaming"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service",
+                    "ja": "Azure OpenAIサービスへのOpenAIのリクエストをプロキシするためのCloudflareワーカースクリプト",
+                    "zh-hans": "一个Cloudflare工作脚本，用于代理OpenAI向Azure OpenAI服务发出的请求。",
+                    "zh-hant": "一個 Cloudflare worker 腳本，用於代理 OpenAI 對 Azure OpenAI 服務的請求。"
                 }
             }
         },
@@ -14924,6 +15042,29 @@
                     "ja": "NearFormの知識ベースに関する質問に対する回答を提供するChatGPTパワードのSlack応答者。",
                     "zh-hans": "ChatGPT是由Slack驱动的自动回复程序，用于回答与NearForm知识库相关的问题。",
                     "zh-hant": "ChatGPT 驅動的 Slack 回覆器，用於回答關於 NearForm 知識庫的問題。"
+                }
+            },
+            "https://github.com/minimaxir/simpleaichat": {
+                "repository_name": "simpleaichat",
+                "user_name": "minimaxir",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Python package for easily interfacing with chat apps, with robust features and minimal code complexity.",
+                "topics": [
+                    "ai",
+                    "chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Python package for easily interfacing with chat apps, with robust features and minimal code complexity.",
+                    "ja": "Pythonパッケージは、堅牢な機能と最小限のコード複雑性を備えたチャットアプリと簡単にインターフェースを行うためのものです。",
+                    "zh-hans": "Python包，可轻松与聊天应用程序进行接口交互，具有强大的功能和最小的代码复杂性。",
+                    "zh-hant": "Python套件，可輕鬆與聊天應用程式進行接口，具有強大的功能和最小的代碼複雜性。"
                 }
             }
         }
