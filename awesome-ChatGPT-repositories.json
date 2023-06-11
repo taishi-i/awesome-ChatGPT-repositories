@@ -1380,6 +1380,26 @@
                     "zh-hans": "这个仓库包含了一系列的提示示例，可用于在Power Platform中使用GPT模型。",
                     "zh-hant": "這個存儲庫包含一系列的提示範例，可用於 Power Platform 中的 GPT 模型。"
                 }
+            },
+            "https://github.com/plastic-labs/tutor-gpt": {
+                "repository_name": "tutor-gpt",
+                "user_name": "plastic-labs",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "LangChain LLM application. Dynamic few-shot metaprompting for the task of tutoring. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "LangChain LLM application. Dynamic few-shot metaprompting for the task of tutoring. ",
+                    "ja": "LangChain LLMアプリケーション。チュータリングのタスクに対するダイナミックなフューショットメタプロンプティング。",
+                    "zh-hans": "LangChain LLM 应用程序。针对辅导任务的动态少量样本元提示。",
+                    "zh-hant": "LangChain LLM 應用程式。針對教學任務的動態少量樣本元提示。"
+                }
             }
         },
         "Chatbots": {
@@ -3325,6 +3345,38 @@
                     "ja": "簡単にチャットボットを作成する",
                     "zh-hans": "轻松创建聊天机器人",
                     "zh-hant": "輕鬆創建聊天機器人"
+                }
+            },
+            "https://github.com/mbzuai-oryx/video-chatgpt": {
+                "repository_name": "Video-ChatGPT",
+                "user_name": "mbzuai-oryx",
+                "language": "Python",
+                "license": {
+                    "key": "cc-by-4.0",
+                    "name": "Creative Commons Attribution 4.0 International",
+                    "spdx_id": "CC-BY-4.0",
+                    "url": "https://api.github.com/licenses/cc-by-4.0",
+                    "node_id": "MDc6TGljZW5zZTI1"
+                },
+                "description": "Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation.",
+                "topics": [
+                    "chatbot",
+                    "clip",
+                    "gpt-4",
+                    "llama",
+                    "llava",
+                    "mulit-modal",
+                    "vicuna",
+                    "video-chatboat",
+                    "video-conversation",
+                    "vision-language",
+                    "vision-language-pretraining"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation.",
+                    "ja": "ビデオチャットGPTは、ビデオに関する意味のある会話を生成することができるビデオ会話モデルです。LLMsの機能と、時空間ビデオ表現に適応された事前学習された視覚エンコーダーの能力を組み合わせています。",
+                    "zh-hans": "视频聊天GPT是一种视频对话模型，能够生成有关视频的有意义的对话。它结合了LLMs的能力和预训练的视觉编码器，适用于时空视频表示。",
+                    "zh-hant": "Video-ChatGPT是一種視頻對話模型，能夠生成有關視頻的有意義對話。它結合了LLMs的能力和預訓練的視覺編碼器，適應於時空視頻表示。"
                 }
             }
         },
@@ -6361,6 +6413,55 @@
                     "zh-hans": "使用官方API与ChatGPT聊天的简单而有效的命令行客户端",
                     "zh-hant": "使用官方API與ChatGPT聊天的簡單而有效的命令行客戶端"
                 }
+            },
+            "https://github.com/umatter/openair": {
+                "repository_name": "OpenAIR",
+                "user_name": "umatter",
+                "language": "R",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "OpenAI R client",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI R client",
+                    "ja": "OpenAI Rクライアント",
+                    "zh-hans": "OpenAI R客户端",
+                    "zh-hant": "OpenAI R 客戶端"
+                }
+            },
+            "https://github.com/licoy/chatgpt-midjourney": {
+                "repository_name": "ChatGPT-Midjourney",
+                "user_name": "Licoy",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \\ Own your own ChatGPT+Midjourney web service with one click",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-web",
+                    "discord",
+                    "discord-bot",
+                    "midjourney",
+                    "niji",
+                    "openai",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \\ Own your own ChatGPT+Midjourney web service with one click",
+                    "ja": "🎨 一クリックで自分のChatGPT+Midjourneyウェブサービスを所有してください。",
+                    "zh-hans": "🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务",
+                    "zh-hant": "🎨 一鍵擁有你自己的 ChatGPT+Midjourney 網頁服務"
+                }
             }
         },
         "Reimplementations": {
@@ -9035,6 +9136,34 @@
                     "ja": "GPTQアルゴリズムに基づくユーザーフレンドリーなAPIを備えた使いやすいLLMs量子化パッケージ。",
                     "zh-hans": "基于GPTQ算法的易于使用的LLMs量化包，具有用户友好的API。",
                     "zh-hant": "一個基於GPTQ算法的易於使用的LLMs量化套件，具有用戶友好的API。"
+                }
+            },
+            "https://github.com/zkx06111/algo": {
+                "repository_name": "ALGO",
+                "user_name": "zkx06111",
+                "language": "Python",
+                "license": null,
+                "description": "🚀Introducing ALGO, a code synthesis framework guided by LLM-generated oracles. Integrated with ALGO, Codex is 8x better and ChatGPT 1.3x better at contest-level problems. Plus, ALGO verifies your solution before submission!🧵📜:🔗: ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "🚀Introducing ALGO, a code synthesis framework guided by LLM-generated oracles. Integrated with ALGO, Codex is 8x better and ChatGPT 1.3x better at contest-level problems. Plus, ALGO verifies your solution before submission!🧵📜:🔗: ",
+                    "ja": "🚀ALGOをご紹介します。LLM生成のオラクルによって導かれるコード合成フレームワークです。ALGOに統合されたCodexは、コンテストレベルの問題において8倍、ChatGPTは1.3倍の性能を発揮します。さらに、ALGOは提出前にあなたの解決策を検証します！🧵📜:🔗:",
+                    "zh-hans": "🚀介绍ALGO，这是一个由LLM生成的神谕引导的代码合成框架。与ALGO集成，Codex在竞赛级别的问题上提高了8倍，ChatGPT提高了1.3倍。此外，ALGO在提交前验证您的解决方案！🧵📜:🔗:",
+                    "zh-hant": "🚀介紹 ALGO，一個由 LLM 生成的神諭引導的代碼合成框架。集成了 ALGO，Codex 在競賽級別的問題上提高了 8 倍，ChatGPT 則提高了 1.3 倍。此外，ALGO 在提交前會驗證您的解決方案！🧵📜:🔗:"
+                }
+            },
+            "https://github.com/i-eval/faireval": {
+                "repository_name": "FairEval",
+                "user_name": "i-Eval",
+                "language": "Python",
+                "license": null,
+                "description": "Large Language Models are not Fair Evaluators- A bias in the evaluation of adopting LLMs, e.g., GPT-4, as a referee to score- Successfully mitigates the bias, resulting in closer alignment with human judgmentsrepo:   ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Large Language Models are not Fair Evaluators- A bias in the evaluation of adopting LLMs, e.g., GPT-4, as a referee to score- Successfully mitigates the bias, resulting in closer alignment with human judgmentsrepo:   ",
+                    "ja": "大規模言語モデルは公正な評価者ではありません- LLM（例：GPT-4）の採用の評価に偏りがあり、審判としてスコアリングすることに成功したバイアス- バイアスを軽減することにより、人間の判断により近い結果になります。repo:",
+                    "zh-hans": "大型语言模型不是公平的评估者-采用LLMs（例如GPT-4）作为评分裁判存在偏见-成功地缓解了偏见，使其更接近人类判断。",
+                    "zh-hant": "大型語言模型不是公平的評估者- 在採用LLMs（例如GPT-4）作為裁判評分的評估中存在偏見- 成功地緩解了偏見，使其更接近人類判斷。"
                 }
             }
         },
@@ -15065,6 +15194,48 @@
                     "ja": "Pythonパッケージは、堅牢な機能と最小限のコード複雑性を備えたチャットアプリと簡単にインターフェースを行うためのものです。",
                     "zh-hans": "Python包，可轻松与聊天应用程序进行接口交互，具有强大的功能和最小的代码复杂性。",
                     "zh-hant": "Python套件，可輕鬆與聊天應用程式進行接口，具有強大的功能和最小的代碼複雜性。"
+                }
+            },
+            "https://github.com/huggingface/instruction-tuned-sd": {
+                "repository_name": "instruction-tuned-sd",
+                "user_name": "huggingface",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Code for instruction-tuning Stable Diffusion.",
+                "topics": [
+                    "accelerate",
+                    "diffusers",
+                    "generative-ai",
+                    "image-editing",
+                    "instruction-tuning",
+                    "stable-diffusion",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code for instruction-tuning Stable Diffusion.",
+                    "ja": "指示調整安定拡散のためのコード。",
+                    "zh-hans": "指令调整稳定扩散的代码。",
+                    "zh-hant": "指令調整穩定擴散的程式碼。"
+                }
+            },
+            "https://github.com/antonosika/gpt-engineer": {
+                "repository_name": "gpt-engineer",
+                "user_name": "AntonOsika",
+                "language": "Python",
+                "license": null,
+                "description": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
+                    "ja": "何を構築したいか指定し、AIが確認を求め、それを構築します。",
+                    "zh-hans": "输入：指定您想要建造的内容，人工智能会要求澄清，并进行建造。\n输出：",
+                    "zh-hant": "輸入：指定您想要建造的內容，人工智慧會詢問澄清問題，然後進行建造。"
                 }
             }
         }

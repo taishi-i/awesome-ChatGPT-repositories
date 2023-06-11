@@ -5,7 +5,7 @@
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 [ChatGPT](https://openai.com/blog/chatgpt)に関連するオープンソースのGitHubリポジトリを厳選したリストです。
-このリストは、Twitterのトレンド分析を6ヶ月間行った結果、抽出された1000以上のリポジトリを元に作成されました。リストの内容は毎週自動的に更新されます
+このリストは、Twitterのトレンド分析を6ヶ月間行った結果、抽出された2500以上のリポジトリを元に作成されました。リストの内容は毎週自動的に更新されます
 これらのリポジトリを[検索するためのツール](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)はHugging Face Spacesで利用できます。
 
 あなたの貢献をいつでも歓迎します！貢献する前に、[ガイドライン](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md)をお読みください。
@@ -15,28 +15,30 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 素晴らしい人工知能
-
-
 **Prompts**
- * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - このリポジトリには、Power Platformで使用するためのGPTモデルのプロンプト例のコレクションが含まれています。
+ * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLMアプリケーション。チュータリングのタスクに対するダイナミックなフューショットメタプロンプティング。
+
+
+**Chatbots**
+ * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - ビデオチャットGPTは、ビデオに関する意味のある会話を生成することができるビデオ会話モデルです。LLMsの機能と、時空間ビデオ表現に適応された事前学習された視覚エンコーダーの能力を組み合わせています。
+
+
+**CLIs**
+ * [OpenAIR](https://github.com/umatter/openair) - OpenAI Rクライアント
+ * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一クリックで自分のChatGPT+Midjourneyウェブサービスを所有してください。
 
 
 **NLP**
- * [llm](https://github.com/simonw/llm) - コマンドラインから大規模言語モデルにアクセスする。
- * [AutoGPTQ](https://github.com/panqiwei/autogptq) - GPTQアルゴリズムに基づくユーザーフレンドリーなAPIを備えた使いやすいLLMs量子化パッケージ。
-
-
-**Openai**
- * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - Azure OpenAIサービスへのOpenAIのリクエストをプロキシするためのCloudflareワーカースクリプト
+ * [ALGO](https://github.com/zkx06111/algo) - 🚀ALGOをご紹介します。LLM生成のオラクルによって導かれるコード合成フレームワークです。ALGOに統合されたCodexは、コンテストレベルの問題において8倍、ChatGPTは1.3倍の性能を発揮します。さらに、ALGOは提出前にあなたの解決策を検証します！🧵📜:🔗:
+ * [FairEval](https://github.com/i-eval/faireval) - 大規模言語モデルは公正な評価者ではありません- LLM（例：GPT-4）の採用の評価に偏りがあり、審判としてスコアリングすることに成功したバイアス- バイアスを軽減することにより、人間の判断により近い結果になります。repo:
 
 
 **Others**
- * [simpleaichat](https://github.com/minimaxir/simpleaichat) - Pythonパッケージは、堅牢な機能と最小限のコード複雑性を備えたチャットアプリと簡単にインターフェースを行うためのものです。
+ * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 指示調整安定拡散のためのコード。
+ * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 何を構築したいか指定し、AIが確認を求め、それを構築します。
 
 
-_Updated on June 10, 2023_ (A total of 786 repositories listed.)
+_Updated on June 12, 2023_ (A total of 794 repositories listed.)
 
 ## Table of contents
 
@@ -161,6 +163,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub) - チェーン・オブ・ソート・プロンプティングを用いた大規模言語モデルの複雑な推論能力のベンチマーク化
  * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - ChatGPT WebUIには、ユーザー管理とバックエンド管理システムが含まれています。
  * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - このリポジトリには、Power Platformで使用するためのGPTモデルのプロンプト例のコレクションが含まれています。
+ * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLMアプリケーション。チュータリングのタスクに対するダイナミックなフューショットメタプロンプティング。
 
 
 |Name|GitHub Stars|Language|License|
@@ -219,6 +222,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 |[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
+|[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -324,6 +328,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - テキスト、URL、YouTubeビデオの簡潔な要約を生成するAIパワードのテキスト要約Telegramボット。
  * [Bard-API](https://github.com/dsdanielpark/bard-api) - クッキー値を通じてGoogle Bardの応答を返す非公式のPythonパッケージ。
  * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 簡単にチャットボットを作成する
+ * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - ビデオチャットGPTは、ビデオに関する意味のある会話を生成することができるビデオ会話モデルです。LLMsの機能と、時空間ビデオ表現に適応された事前学習された視覚エンコーダーの能力を組み合わせています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -426,6 +431,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[summary-gpt-bot](https://github.com/tpai/summary-gpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/tpai/summary-gpt-bot?style=social)|Python|-|
 |[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
+|[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
 
 
 ## Browser-extensions
@@ -681,6 +687,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 @OpenAI/@Azure PowerShellサンプルをリリースしました！PowerShellAIモジュールを使用すると、ChatGPTの力を手軽に利用できます。Polyglotインタラクティブノートブックでサンプルを探索してください。AIで可能性を再定義しましょう！👇 #PowerShell #MSBuild
  * [TermGPT](https://github.com/sentdex/termgpt) - LLMのようなGPT-4に、ターミナルコマンドの計画と実行の能力を与えること。
  * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 公式APIを使用してChatGPTとチャットするためのシンプルで効果的なコマンドラインクライアント
+ * [OpenAIR](https://github.com/umatter/openair) - OpenAI Rクライアント
+ * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一クリックで自分のChatGPT+Midjourneyウェブサービスを所有してください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -750,6 +758,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
 |[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
 |[chatgpt-cli](https://github.com/marcolardera/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/marcolardera/chatgpt-cli?style=social)|Python|mit|
+|[OpenAIR](https://github.com/umatter/openair)|![GitHub Repo stars](https://img.shields.io/github/stars/umatter/OpenAIR?style=social)|R|other|
+|[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
 
 
 ## Reimplementations
@@ -938,6 +948,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - Azureで実行されるRetrieval-Augmented Generationパターンのサンプルアプリで、検索にAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にパワーを与えるためにAzure OpenAI大規模言語モデルを使用しています。
  * [llm](https://github.com/simonw/llm) - コマンドラインから大規模言語モデルにアクセスする。
  * [AutoGPTQ](https://github.com/panqiwei/autogptq) - GPTQアルゴリズムに基づくユーザーフレンドリーなAPIを備えた使いやすいLLMs量子化パッケージ。
+ * [ALGO](https://github.com/zkx06111/algo) - 🚀ALGOをご紹介します。LLM生成のオラクルによって導かれるコード合成フレームワークです。ALGOに統合されたCodexは、コンテストレベルの問題において8倍、ChatGPTは1.3倍の性能を発揮します。さらに、ALGOは提出前にあなたの解決策を検証します！🧵📜:🔗:
+ * [FairEval](https://github.com/i-eval/faireval) - 大規模言語モデルは公正な評価者ではありません- LLM（例：GPT-4）の採用の評価に偏りがあり、審判としてスコアリングすることに成功したバイアス- バイアスを軽減することにより、人間の判断により近い結果になります。repo:
 
 
 |Name|GitHub Stars|Language|License|
@@ -1062,7 +1074,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/promtengineer/localGPT?style=social)|Python|apache-2.0|
 |[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
 |[llm](https://github.com/simonw/llm)|![GitHub Repo stars](https://img.shields.io/github/stars/simonw/llm?style=social)|Python|apache-2.0|
-|[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/PanQiWei/AutoGPTQ?style=social)|Python|mit|
+|[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/panqiwei/AutoGPTQ?style=social)|Python|mit|
+|[ALGO](https://github.com/zkx06111/algo)|![GitHub Repo stars](https://img.shields.io/github/stars/zkx06111/ALGO?style=social)|Python|-|
+|[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-Eval/FairEval?style=social)|Python|-|
 
 
 ## Langchain
@@ -1552,6 +1566,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - Vue3とGoを使用して構築されたMicrosoft New Bingのデモサイトは、一貫したUI体験を提供し、ChatGPTのヒントワードをサポートしています。国内でも利用可能です。
  * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - NearFormの知識ベースに関する質問に対する回答を提供するChatGPTパワードのSlack応答者。
  * [simpleaichat](https://github.com/minimaxir/simpleaichat) - Pythonパッケージは、堅牢な機能と最小限のコード複雑性を備えたチャットアプリと簡単にインターフェースを行うためのものです。
+ * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 指示調整安定拡散のためのコード。
+ * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 何を構築したいか指定し、AIが確認を求め、それを構築します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1757,5 +1773,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|![GitHub Repo stars](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai?style=social)|HTML|mit|
 |[slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder)|![GitHub Repo stars](https://img.shields.io/github/stars/nearform/slack-knowledgebase-chatgpt-responder?style=social)|JavaScript|-|
 |[simpleaichat](https://github.com/minimaxir/simpleaichat)|![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)|Python|mit|
+|[instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/instruction-tuned-sd?style=social)|Python|apache-2.0|
+|[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Python|-|
 
 

@@ -5,7 +5,7 @@
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 一个专门用于与[ChatGPT](https://openai.com/blog/chatgpt)相关的开源GitHub存储库的资源列表.
-根据六个月的Twitter趋势分析,该列表基于1000多个抽取的存储库创建. 此外,该列表的内容每周自动更新.
+根据六个月的Twitter趋势分析,该列表基于2500多个抽取的存储库创建. 此外,该列表的内容每周自动更新.
 搜索这些存储库的[工具](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)可在 Hugging Face Spaces 上找到.
 
 您的贡献始终是受欢迎的! 在捐款之前,请阅读[指南](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
@@ -15,28 +15,30 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai](https://github.com/lencx/awesome-ai) -  很棒的AI
-
-
 **Prompts**
- * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - 本存储库包含用于Power平台中的GPT模型的快速示例.
+ * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - 动态短拍子传感器,用于辅导. 
+
+
+**Chatbots**
+ * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - 视频聊天GPT是一个能够产生有关视频有意义的视频对话模型.它结合了LLM的能力与适用于空间时空视频表示的预训练式视觉编码器.
+
+
+**CLIs**
+ * [OpenAIR](https://github.com/umatter/openair) - 开放RAI客户端
+ * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) -  一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ 拥有你自己的 ChatGPT+Midjourney 网络服务
 
 
 **NLP**
- * [llm](https://github.com/simonw/llm) - 从命令行访问大型语言模型
- * [AutoGPTQ](https://github.com/panqiwei/autogptq) - 一个易于使用的LLM量化包,基于GPTQ算法,具有用户友好的APIS.
-
-
-**Openai**
- * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - 一个Cloudflare工作者脚本,以代理OpenAI向Azure OpenAI服务的请求
+ * [ALGO](https://github.com/zkx06111/algo) - 引入ALGO,一个由LLM生成的语指导的代码合成框架.与ALGO集成,Codex在比赛级问题上更好8倍,ChatGPT更好1.3倍.此外,ALGO在提交之前验证您的解决方案!
+ * [FairEval](https://github.com/i-eval/faireval) - 通过高水平的语言模型来评估,通过采用高水平的语言模型来评价,通过高水平的语言模型来评价.
 
 
 **Others**
- * [simpleaichat](https://github.com/minimaxir/simpleaichat) - 基于Python的软件包,可轻松与聊天应用程序接口,具有强大的功能和最小的代码复杂性.
+ * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 稳定扩散的调节指令代码.
+ * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 指定要建造什么,人工智能要求澄清,然后建造它.
 
 
-_Updated on June 10, 2023_ (A total of 786 repositories listed.)
+_Updated on June 12, 2023_ (A total of 794 repositories listed.)
 
 ## Table of contents
 
@@ -158,6 +160,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub) - 使用思维链提示来基准测试大型语言模型的复杂推理能力
  * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - 带有用户管理和后台管理系统的 ChatGPT 网页用户界面
  * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - 这个仓库包含了一系列的提示示例，可用于在Power Platform中使用GPT模型。
+ * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM 应用程序。针对辅导任务的动态少量样本元提示。
 
 
 |Name|GitHub Stars|Language|License|
@@ -216,6 +219,7 @@ ChatGPT资料汇总学习，持续更新......
 |[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 |[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
+|[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -318,6 +322,7 @@ ChatGPT资料汇总学习，持续更新......
  * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - 一款由人工智能驱动的Telegram文本摘要机器人，可以生成文本、URL和YouTube视频的简洁摘要。
  * [Bard-API](https://github.com/dsdanielpark/bard-api) - 这是一个非官方的Python包，通过cookie值返回Google Bard的响应。
  * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 轻松创建聊天机器人
+ * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - 视频聊天GPT是一种视频对话模型，能够生成有关视频的有意义的对话。它结合了LLMs的能力和预训练的视觉编码器，适用于时空视频表示。
 
 
 |Name|GitHub Stars|Language|License|
@@ -420,6 +425,7 @@ ChatGPT资料汇总学习，持续更新......
 |[summary-gpt-bot](https://github.com/tpai/summary-gpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/tpai/summary-gpt-bot?style=social)|Python|-|
 |[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
+|[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
 
 
 ## Browser-extensions
@@ -679,6 +685,8 @@ ChatGPT资料汇总学习，持续更新......
  * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 我发布了我的 @OpenAI/@Azure PowerShell 示例！使用 PowerShellAI 模块，您将拥有 ChatGPT 的强大功能。在多语言交互式笔记本中探索示例。让我们重新定义 AI 的可能性！👇 #PowerShell #MSBuild
  * [TermGPT](https://github.com/sentdex/termgpt) - 赋予像GPT-4这样的LLM能够规划和执行终端命令的能力。
  * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 使用官方API与ChatGPT聊天的简单而有效的命令行客户端
+ * [OpenAIR](https://github.com/umatter/openair) - OpenAI R客户端
+ * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务
 
 
 |Name|GitHub Stars|Language|License|
@@ -748,6 +756,8 @@ ChatGPT资料汇总学习，持续更新......
 |[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
 |[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
 |[chatgpt-cli](https://github.com/marcolardera/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/marcolardera/chatgpt-cli?style=social)|Python|mit|
+|[OpenAIR](https://github.com/umatter/openair)|![GitHub Repo stars](https://img.shields.io/github/stars/umatter/OpenAIR?style=social)|R|other|
+|[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
 
 
 ## Reimplementations
@@ -940,6 +950,8 @@ ChatGPT资料汇总学习，持续更新......
  * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - 一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。
  * [llm](https://github.com/simonw/llm) - 从命令行访问大型语言模型
  * [AutoGPTQ](https://github.com/panqiwei/autogptq) - 基于GPTQ算法的易于使用的LLMs量化包，具有用户友好的API。
+ * [ALGO](https://github.com/zkx06111/algo) - 🚀介绍ALGO，这是一个由LLM生成的神谕引导的代码合成框架。与ALGO集成，Codex在竞赛级别的问题上提高了8倍，ChatGPT提高了1.3倍。此外，ALGO在提交前验证您的解决方案！🧵📜:🔗:
+ * [FairEval](https://github.com/i-eval/faireval) - 大型语言模型不是公平的评估者-采用LLMs（例如GPT-4）作为评分裁判存在偏见-成功地缓解了偏见，使其更接近人类判断。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1064,7 +1076,9 @@ ChatGPT资料汇总学习，持续更新......
 |[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/promtengineer/localGPT?style=social)|Python|apache-2.0|
 |[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
 |[llm](https://github.com/simonw/llm)|![GitHub Repo stars](https://img.shields.io/github/stars/simonw/llm?style=social)|Python|apache-2.0|
-|[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/PanQiWei/AutoGPTQ?style=social)|Python|mit|
+|[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/panqiwei/AutoGPTQ?style=social)|Python|mit|
+|[ALGO](https://github.com/zkx06111/algo)|![GitHub Repo stars](https://img.shields.io/github/stars/zkx06111/ALGO?style=social)|Python|-|
+|[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-Eval/FairEval?style=social)|Python|-|
 
 
 ## Langchain
@@ -1561,6 +1575,9 @@ Chat酱独立部署版，docker方案自带代理
  * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 使用Vue3和Go构建的微软New Bing演示站点，具有一致的UI体验，支持ChatGPT提示词，可在国内使用。
  * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - ChatGPT是由Slack驱动的自动回复程序，用于回答与NearForm知识库相关的问题。
  * [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python包，可轻松与聊天应用程序进行接口交互，具有强大的功能和最小的代码复杂性。
+ * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 指令调整稳定扩散的代码。
+ * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 输入：指定您想要建造的内容，人工智能会要求澄清，并进行建造。
+输出：
 
 
 |Name|GitHub Stars|Language|License|
@@ -1766,5 +1783,7 @@ Chat酱独立部署版，docker方案自带代理
 |[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|![GitHub Repo stars](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai?style=social)|HTML|mit|
 |[slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder)|![GitHub Repo stars](https://img.shields.io/github/stars/nearform/slack-knowledgebase-chatgpt-responder?style=social)|JavaScript|-|
 |[simpleaichat](https://github.com/minimaxir/simpleaichat)|![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)|Python|mit|
+|[instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/instruction-tuned-sd?style=social)|Python|apache-2.0|
+|[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Python|-|
 
 

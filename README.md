@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to open source GitHub repositories related to [ChatGPT](https://openai.com/blog/chatgpt).
 
-This list was created based on 1000+ extracted repositories after conducting six months of Twitter trend analysis. In addition, the contents of the list are automatically updated every few days.
+This list was created based on 2500+ extracted repositories after conducting six months of Twitter trend analysis. In addition, the contents of the list are automatically updated every few days.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) on Hugging Face Spaces.
 
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
@@ -18,28 +18,30 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 Awesome AI
-
-
 **Prompts**
- * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - This repository contains a collection of prompt examples to be used with GPT models in the Power Platform.
+ * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic few-shot metaprompting for the task of tutoring. 
+
+
+**Chatbots**
+ * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation.
+
+
+**CLIs**
+ * [OpenAIR](https://github.com/umatter/openair) - OpenAI R client
+ * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ Own your own ChatGPT+Midjourney web service with one click
 
 
 **NLP**
- * [llm](https://github.com/simonw/llm) - Access large language models from the command-line
- * [AutoGPTQ](https://github.com/panqiwei/autogptq) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
-
-
-**Openai**
- * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
+ * [ALGO](https://github.com/zkx06111/algo) - 🚀Introducing ALGO, a code synthesis framework guided by LLM-generated oracles. Integrated with ALGO, Codex is 8x better and ChatGPT 1.3x better at contest-level problems. Plus, ALGO verifies your solution before submission!🧵📜:🔗: 
+ * [FairEval](https://github.com/i-eval/faireval) - Large Language Models are not Fair Evaluators- A bias in the evaluation of adopting LLMs, e.g., GPT-4, as a referee to score- Successfully mitigates the bias, resulting in closer alignment with human judgmentsrepo:   
 
 
 **Others**
- * [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
+ * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - Code for instruction-tuning Stable Diffusion.
+ * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 
 
-_Updated on June 10, 2023_ (A total of 786 repositories listed.)
+_Updated on June 12, 2023_ (A total of 794 repositories listed.)
 
 ## Table of contents
 
@@ -160,6 +162,7 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
  * [chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub) - Benchmarking large language models' complex reasoning ability with chain-of-thought prompting
  * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
  * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - This repository contains a collection of prompt examples to be used with GPT models in the Power Platform.
+ * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic few-shot metaprompting for the task of tutoring. 
 
 
 |Name|GitHub Stars|Language|License|
@@ -218,6 +221,7 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
 |[chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/chain-of-thought-hub?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 |[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
+|[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -320,6 +324,7 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
  * [summary-gpt-bot](https://github.com/tpai/summary-gpt-bot) - An AI-powered text summarization Telegram bot that generates concise summaries of text, URLs, and YouTube videos.
  * [Bard-API](https://github.com/dsdanielpark/bard-api) - The unofficial python package that returns response of Google Bard through cookie value.
  * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
+ * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation.
 
 
 |Name|GitHub Stars|Language|License|
@@ -422,6 +427,7 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
 |[summary-gpt-bot](https://github.com/tpai/summary-gpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/tpai/summary-gpt-bot?style=social)|Python|-|
 |[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
+|[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
 
 
 ## Browser-extensions
@@ -677,6 +683,8 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
  * [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - 🚀 Launched my @OpenAI/@Azure PowerShell Samples! With the PowerShellAI module, you'll have the power of ChatGPT at your fingertips. Explore the samples in Polyglot Interactive Notebooks. Let's redefine what's possible with AI! 👇  #PowerShell #MSBuild
  * [TermGPT](https://github.com/sentdex/termgpt) - Giving LLMs like GPT-4 the ability to plan and execute terminal commands
  * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
+ * [OpenAIR](https://github.com/umatter/openair) - OpenAI R client
+ * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ Own your own ChatGPT+Midjourney web service with one click
 
 
 |Name|GitHub Stars|Language|License|
@@ -746,6 +754,8 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
 |[openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/dfinke/openai-powershell-samples?style=social)|Jupyter Notebook|-|
 |[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
 |[chatgpt-cli](https://github.com/marcolardera/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/marcolardera/chatgpt-cli?style=social)|Python|mit|
+|[OpenAIR](https://github.com/umatter/openair)|![GitHub Repo stars](https://img.shields.io/github/stars/umatter/OpenAIR?style=social)|R|other|
+|[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
 
 
 ## Reimplementations
@@ -931,6 +941,8 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
  * [azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp) - A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
  * [llm](https://github.com/simonw/llm) - Access large language models from the command-line
  * [AutoGPTQ](https://github.com/panqiwei/autogptq) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
+ * [ALGO](https://github.com/zkx06111/algo) - 🚀Introducing ALGO, a code synthesis framework guided by LLM-generated oracles. Integrated with ALGO, Codex is 8x better and ChatGPT 1.3x better at contest-level problems. Plus, ALGO verifies your solution before submission!🧵📜:🔗: 
+ * [FairEval](https://github.com/i-eval/faireval) - Large Language Models are not Fair Evaluators- A bias in the evaluation of adopting LLMs, e.g., GPT-4, as a referee to score- Successfully mitigates the bias, resulting in closer alignment with human judgmentsrepo:   
 
 
 |Name|GitHub Stars|Language|License|
@@ -1055,7 +1067,9 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
 |[localGPT](https://github.com/promtengineer/localgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/promtengineer/localGPT?style=social)|Python|apache-2.0|
 |[azure-search-openai-demo-csharp](https://github.com/azure-samples/azure-search-openai-demo-csharp)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/azure-search-openai-demo-csharp?style=social)|C#|mit|
 |[llm](https://github.com/simonw/llm)|![GitHub Repo stars](https://img.shields.io/github/stars/simonw/llm?style=social)|Python|apache-2.0|
-|[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/PanQiWei/AutoGPTQ?style=social)|Python|mit|
+|[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/panqiwei/AutoGPTQ?style=social)|Python|mit|
+|[ALGO](https://github.com/zkx06111/algo)|![GitHub Repo stars](https://img.shields.io/github/stars/zkx06111/ALGO?style=social)|Python|-|
+|[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-Eval/FairEval?style=social)|Python|-|
 
 
 ## Langchain
@@ -1543,6 +1557,8 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
  * [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
  * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - ChatGPT powered slack responder to the questions that are about NearForm knowledge base
  * [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
+ * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - Code for instruction-tuning Stable Diffusion.
+ * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1748,5 +1764,7 @@ _Updated on June 10, 2023_ (A total of 786 repositories listed.)
 |[go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|![GitHub Repo stars](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai?style=social)|HTML|mit|
 |[slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder)|![GitHub Repo stars](https://img.shields.io/github/stars/nearform/slack-knowledgebase-chatgpt-responder?style=social)|JavaScript|-|
 |[simpleaichat](https://github.com/minimaxir/simpleaichat)|![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)|Python|mit|
+|[instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/instruction-tuned-sd?style=social)|Python|apache-2.0|
+|[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Python|-|
 
 
