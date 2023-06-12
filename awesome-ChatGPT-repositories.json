@@ -1400,6 +1400,26 @@
                     "zh-hans": "LangChain LLM 应用程序。针对辅导任务的动态少量样本元提示。",
                     "zh-hant": "LangChain LLM 應用程式。針對教學任務的動態少量樣本元提示。"
                 }
+            },
+            "https://github.com/admtal/chat-gpt-games": {
+                "repository_name": "chat-gpt-games",
+                "user_name": "AdmTal",
+                "language": null,
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Prompts for playable games in ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Prompts for playable games in ChatGPT",
+                    "ja": "ChatGPTでプレイ可能なゲームのプロンプト",
+                    "zh-hans": "在ChatGPT中可玩游戏的提示",
+                    "zh-hant": "在ChatGPT中可玩遊戲的提示"
+                }
             }
         },
         "Chatbots": {
@@ -3377,6 +3397,26 @@
                     "ja": "ビデオチャットGPTは、ビデオに関する意味のある会話を生成することができるビデオ会話モデルです。LLMsの機能と、時空間ビデオ表現に適応された事前学習された視覚エンコーダーの能力を組み合わせています。",
                     "zh-hans": "视频聊天GPT是一种视频对话模型，能够生成有关视频的有意义的对话。它结合了LLMs的能力和预训练的视觉编码器，适用于时空视频表示。",
                     "zh-hant": "Video-ChatGPT是一種視頻對話模型，能夠生成有關視頻的有意義對話。它結合了LLMs的能力和預訓練的視覺編碼器，適應於時空視頻表示。"
+                }
+            },
+            "https://github.com/microsoft/llava-med": {
+                "repository_name": "LLaVA-Med",
+                "user_name": "microsoft",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.",
+                    "ja": "バイオメディシン向けの大規模言語・ビジョンアシスタントで、マルチモーダルなGPT-4レベルの機能に向けて構築されました。",
+                    "zh-hans": "面向生物医学的大型语言与视觉助手，具备多模态GPT-4级别的能力。",
+                    "zh-hant": "針對生物醫學領域建立的大型語言和視覺助手，具備多模態GPT-4級別的能力。"
                 }
             }
         },
@@ -6461,6 +6501,20 @@
                     "ja": "🎨 一クリックで自分のChatGPT+Midjourneyウェブサービスを所有してください。",
                     "zh-hans": "🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务",
                     "zh-hant": "🎨 一鍵擁有你自己的 ChatGPT+Midjourney 網頁服務"
+                }
+            },
+            "https://github.com/tcapelle/termgpt": {
+                "repository_name": "termGPT",
+                "user_name": "tcapelle",
+                "language": "Python",
+                "license": null,
+                "description": "A simple wrapper to call openAI's chatGPT on the terminal written in Python",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A simple wrapper to call openAI's chatGPT on the terminal written in Python",
+                    "ja": "Pythonで書かれたターミナルでopenAIのchatGPTを呼び出すためのシンプルなラッパー",
+                    "zh-hans": "一个简单的Python包装器，可在终端上调用openAI的chatGPT。",
+                    "zh-hant": "一個簡單的Python封裝程式，可在終端上調用openAI的chatGPT。"
                 }
             }
         },
@@ -15236,6 +15290,20 @@
                     "ja": "何を構築したいか指定し、AIが確認を求め、それを構築します。",
                     "zh-hans": "输入：指定您想要建造的内容，人工智能会要求澄清，并进行建造。\n输出：",
                     "zh-hant": "輸入：指定您想要建造的內容，人工智慧會詢問澄清問題，然後進行建造。"
+                }
+            },
+            "https://github.com/andrewgcodes/falconstreaming": {
+                "repository_name": "FalconStreaming",
+                "user_name": "andrewgcodes",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "Falcon40B and 7B (Instruct) with streaming, top-k, and beam search",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Falcon40B and 7B (Instruct) with streaming, top-k, and beam search",
+                    "ja": "ストリーミング、トップ-k、ビームサーチを備えたFalcon40Bと7B（Instruct）の入力と出力。",
+                    "zh-hans": "Falcon40B和7B（指令）具有流式传输、前k个结果和波束搜索。",
+                    "zh-hant": "Falcon40B和7B（指令）具有流式傳輸、前k個、和波束搜索功能。"
                 }
             }
         }
