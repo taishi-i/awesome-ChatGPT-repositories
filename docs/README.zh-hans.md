@@ -16,29 +16,22 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - 动态短拍子传感器,用于辅导. 
+ * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - 在 ChatGPT 中可玩游戏提示
 
 
 **Chatbots**
- * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - 视频聊天GPT是一个能够产生有关视频有意义的视频对话模型.它结合了LLM的能力与适用于空间时空视频表示的预训练式视觉编码器.
+ * [LLaVA-Med](https://github.com/microsoft/llava-med) - 生物医学大型语言和视觉助理, 面向多式GPT-4级能力.
 
 
 **CLIs**
- * [OpenAIR](https://github.com/umatter/openair) - 开放RAI客户端
- * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) -  一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ 拥有你自己的 ChatGPT+Midjourney 网络服务
-
-
-**NLP**
- * [ALGO](https://github.com/zkx06111/algo) - 引入ALGO,一个由LLM生成的语指导的代码合成框架.与ALGO集成,Codex在比赛级问题上更好8倍,ChatGPT更好1.3倍.此外,ALGO在提交之前验证您的解决方案!
- * [FairEval](https://github.com/i-eval/faireval) - 通过高水平的语言模型来评估,通过采用高水平的语言模型来评价,通过高水平的语言模型来评价.
+ * [termGPT](https://github.com/tcapelle/termgpt) - 一个简单的包装器,可以在 Python 语言写的终端上调用 openAI 的 chatGPT
 
 
 **Others**
- * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 稳定扩散的调节指令代码.
- * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 指定要建造什么,人工智能要求澄清,然后建造它.
+ * [FalconStreaming](https://github.com/andrewgcodes/falconstreaming) - 猎40B和7B (Instruct) 带有流媒体,顶部k和射线搜索
 
 
-_Updated on June 12, 2023_ (A total of 794 repositories listed.)
+_Updated on June 13, 2023_ (A total of 798 repositories listed.)
 
 ## Table of contents
 
@@ -161,6 +154,7 @@ ChatGPT资料汇总学习，持续更新......
  * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - 带有用户管理和后台管理系统的 ChatGPT 网页用户界面
  * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - 这个仓库包含了一系列的提示示例，可用于在Power Platform中使用GPT模型。
  * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM 应用程序。针对辅导任务的动态少量样本元提示。
+ * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - 在ChatGPT中可玩游戏的提示
 
 
 |Name|GitHub Stars|Language|License|
@@ -220,6 +214,7 @@ ChatGPT资料汇总学习，持续更新......
 |[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 |[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
 |[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
+|[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/AdmTal/chat-gpt-games?style=social)|-|apache-2.0|
 
 
 ## Chatbots
@@ -323,6 +318,7 @@ ChatGPT资料汇总学习，持续更新......
  * [Bard-API](https://github.com/dsdanielpark/bard-api) - 这是一个非官方的Python包，通过cookie值返回Google Bard的响应。
  * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 轻松创建聊天机器人
  * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - 视频聊天GPT是一种视频对话模型，能够生成有关视频的有意义的对话。它结合了LLMs的能力和预训练的视觉编码器，适用于时空视频表示。
+ * [LLaVA-Med](https://github.com/microsoft/llava-med) - 面向生物医学的大型语言与视觉助手，具备多模态GPT-4级别的能力。
 
 
 |Name|GitHub Stars|Language|License|
@@ -426,6 +422,7 @@ ChatGPT资料汇总学习，持续更新......
 |[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
 |[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
+|[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
 
 
 ## Browser-extensions
@@ -687,6 +684,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 使用官方API与ChatGPT聊天的简单而有效的命令行客户端
  * [OpenAIR](https://github.com/umatter/openair) - OpenAI R客户端
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务
+ * [termGPT](https://github.com/tcapelle/termgpt) - 一个简单的Python包装器，可在终端上调用openAI的chatGPT。
 
 
 |Name|GitHub Stars|Language|License|
@@ -757,7 +755,8 @@ ChatGPT资料汇总学习，持续更新......
 |[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
 |[chatgpt-cli](https://github.com/marcolardera/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/marcolardera/chatgpt-cli?style=social)|Python|mit|
 |[OpenAIR](https://github.com/umatter/openair)|![GitHub Repo stars](https://img.shields.io/github/stars/umatter/OpenAIR?style=social)|R|other|
-|[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
+|[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
+|[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
 
 
 ## Reimplementations
@@ -1078,7 +1077,7 @@ ChatGPT资料汇总学习，持续更新......
 |[llm](https://github.com/simonw/llm)|![GitHub Repo stars](https://img.shields.io/github/stars/simonw/llm?style=social)|Python|apache-2.0|
 |[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/panqiwei/AutoGPTQ?style=social)|Python|mit|
 |[ALGO](https://github.com/zkx06111/algo)|![GitHub Repo stars](https://img.shields.io/github/stars/zkx06111/ALGO?style=social)|Python|-|
-|[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-Eval/FairEval?style=social)|Python|-|
+|[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-eval/FairEval?style=social)|Python|-|
 
 
 ## Langchain
@@ -1578,6 +1577,7 @@ Chat酱独立部署版，docker方案自带代理
  * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 指令调整稳定扩散的代码。
  * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 输入：指定您想要建造的内容，人工智能会要求澄清，并进行建造。
 输出：
+ * [FalconStreaming](https://github.com/andrewgcodes/falconstreaming) - Falcon40B和7B（指令）具有流式传输、前k个结果和波束搜索。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1784,6 +1784,7 @@ Chat酱独立部署版，docker方案自带代理
 |[slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder)|![GitHub Repo stars](https://img.shields.io/github/stars/nearform/slack-knowledgebase-chatgpt-responder?style=social)|JavaScript|-|
 |[simpleaichat](https://github.com/minimaxir/simpleaichat)|![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)|Python|mit|
 |[instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/instruction-tuned-sd?style=social)|Python|apache-2.0|
-|[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Python|-|
+|[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/antonosika/gpt-engineer?style=social)|Python|-|
+|[FalconStreaming](https://github.com/andrewgcodes/falconstreaming)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/FalconStreaming?style=social)|Jupyter Notebook|-|
 
 

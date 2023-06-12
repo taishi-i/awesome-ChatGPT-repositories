@@ -16,29 +16,22 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLMアプリケーション。チュータリングのタスクに対するダイナミックなフューショットメタプロンプティング。
+ * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - ChatGPTでプレイ可能なゲームのプロンプト
 
 
 **Chatbots**
- * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - ビデオチャットGPTは、ビデオに関する意味のある会話を生成することができるビデオ会話モデルです。LLMsの機能と、時空間ビデオ表現に適応された事前学習された視覚エンコーダーの能力を組み合わせています。
+ * [LLaVA-Med](https://github.com/microsoft/llava-med) - バイオメディシン向けの大規模言語・ビジョンアシスタントで、マルチモーダルなGPT-4レベルの機能に向けて構築されました。
 
 
 **CLIs**
- * [OpenAIR](https://github.com/umatter/openair) - OpenAI Rクライアント
- * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一クリックで自分のChatGPT+Midjourneyウェブサービスを所有してください。
-
-
-**NLP**
- * [ALGO](https://github.com/zkx06111/algo) - 🚀ALGOをご紹介します。LLM生成のオラクルによって導かれるコード合成フレームワークです。ALGOに統合されたCodexは、コンテストレベルの問題において8倍、ChatGPTは1.3倍の性能を発揮します。さらに、ALGOは提出前にあなたの解決策を検証します！🧵📜:🔗:
- * [FairEval](https://github.com/i-eval/faireval) - 大規模言語モデルは公正な評価者ではありません- LLM（例：GPT-4）の採用の評価に偏りがあり、審判としてスコアリングすることに成功したバイアス- バイアスを軽減することにより、人間の判断により近い結果になります。repo:
+ * [termGPT](https://github.com/tcapelle/termgpt) - Pythonで書かれたターミナルでopenAIのchatGPTを呼び出すためのシンプルなラッパー
 
 
 **Others**
- * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 指示調整安定拡散のためのコード。
- * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 何を構築したいか指定し、AIが確認を求め、それを構築します。
+ * [FalconStreaming](https://github.com/andrewgcodes/falconstreaming) - ストリーミング、トップ-k、ビームサーチを備えたFalcon40Bと7B（Instruct）の入力と出力。
 
 
-_Updated on June 12, 2023_ (A total of 794 repositories listed.)
+_Updated on June 13, 2023_ (A total of 798 repositories listed.)
 
 ## Table of contents
 
@@ -164,6 +157,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - ChatGPT WebUIには、ユーザー管理とバックエンド管理システムが含まれています。
  * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - このリポジトリには、Power Platformで使用するためのGPTモデルのプロンプト例のコレクションが含まれています。
  * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLMアプリケーション。チュータリングのタスクに対するダイナミックなフューショットメタプロンプティング。
+ * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - ChatGPTでプレイ可能なゲームのプロンプト
 
 
 |Name|GitHub Stars|Language|License|
@@ -223,6 +217,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 |[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
 |[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
+|[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/AdmTal/chat-gpt-games?style=social)|-|apache-2.0|
 
 
 ## Chatbots
@@ -329,6 +324,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [Bard-API](https://github.com/dsdanielpark/bard-api) - クッキー値を通じてGoogle Bardの応答を返す非公式のPythonパッケージ。
  * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 簡単にチャットボットを作成する
  * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - ビデオチャットGPTは、ビデオに関する意味のある会話を生成することができるビデオ会話モデルです。LLMsの機能と、時空間ビデオ表現に適応された事前学習された視覚エンコーダーの能力を組み合わせています。
+ * [LLaVA-Med](https://github.com/microsoft/llava-med) - バイオメディシン向けの大規模言語・ビジョンアシスタントで、マルチモーダルなGPT-4レベルの機能に向けて構築されました。
 
 
 |Name|GitHub Stars|Language|License|
@@ -432,6 +428,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[Bard-API](https://github.com/dsdanielpark/bard-api)|![GitHub Repo stars](https://img.shields.io/github/stars/dsdanielpark/Bard-API?style=social)|Python|mit|
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
 |[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
+|[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
 
 
 ## Browser-extensions
@@ -689,6 +686,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - 公式APIを使用してChatGPTとチャットするためのシンプルで効果的なコマンドラインクライアント
  * [OpenAIR](https://github.com/umatter/openair) - OpenAI Rクライアント
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一クリックで自分のChatGPT+Midjourneyウェブサービスを所有してください。
+ * [termGPT](https://github.com/tcapelle/termgpt) - Pythonで書かれたターミナルでopenAIのchatGPTを呼び出すためのシンプルなラッパー
 
 
 |Name|GitHub Stars|Language|License|
@@ -759,7 +757,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[TermGPT](https://github.com/sentdex/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sentdex/TermGPT?style=social)|Jupyter Notebook|mit|
 |[chatgpt-cli](https://github.com/marcolardera/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/marcolardera/chatgpt-cli?style=social)|Python|mit|
 |[OpenAIR](https://github.com/umatter/openair)|![GitHub Repo stars](https://img.shields.io/github/stars/umatter/OpenAIR?style=social)|R|other|
-|[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
+|[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
+|[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
 
 
 ## Reimplementations
@@ -1076,7 +1075,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[llm](https://github.com/simonw/llm)|![GitHub Repo stars](https://img.shields.io/github/stars/simonw/llm?style=social)|Python|apache-2.0|
 |[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/panqiwei/AutoGPTQ?style=social)|Python|mit|
 |[ALGO](https://github.com/zkx06111/algo)|![GitHub Repo stars](https://img.shields.io/github/stars/zkx06111/ALGO?style=social)|Python|-|
-|[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-Eval/FairEval?style=social)|Python|-|
+|[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-eval/FairEval?style=social)|Python|-|
 
 
 ## Langchain
@@ -1568,6 +1567,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [simpleaichat](https://github.com/minimaxir/simpleaichat) - Pythonパッケージは、堅牢な機能と最小限のコード複雑性を備えたチャットアプリと簡単にインターフェースを行うためのものです。
  * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 指示調整安定拡散のためのコード。
  * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 何を構築したいか指定し、AIが確認を求め、それを構築します。
+ * [FalconStreaming](https://github.com/andrewgcodes/falconstreaming) - ストリーミング、トップ-k、ビームサーチを備えたFalcon40Bと7B（Instruct）の入力と出力。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1774,6 +1774,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder)|![GitHub Repo stars](https://img.shields.io/github/stars/nearform/slack-knowledgebase-chatgpt-responder?style=social)|JavaScript|-|
 |[simpleaichat](https://github.com/minimaxir/simpleaichat)|![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)|Python|mit|
 |[instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/instruction-tuned-sd?style=social)|Python|apache-2.0|
-|[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)|Python|-|
+|[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/antonosika/gpt-engineer?style=social)|Python|-|
+|[FalconStreaming](https://github.com/andrewgcodes/falconstreaming)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/FalconStreaming?style=social)|Jupyter Notebook|-|
 
 
