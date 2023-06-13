@@ -518,6 +518,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - Run ChatGPT plugins for free without having access to Plus subscription
  * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - With this minimal code and instructions, you can get started on developing a ChatGPT Plugin. It's perfect as an example for your first plugin development.
  * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - A nvim plugin Powered by GPT4ALL for Real-time Code Explanation and Vulnerability Detection (no internet necessary)
+ * [ChatGPT Export](https://github.com/yaph/chatgpt-export) A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
 
 
 |Name|GitHub Stars|Language|License|
@@ -611,6 +612,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
 |[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
 |[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
 |[codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim)|![GitHub Repo stars](https://img.shields.io/github/stars/mthbernardes/codeexplain.nvim?style=social)|Python|mit|
+|[chatgpt-export](https://github.com/yaph/chatgpt-export)|![GitHub Repo stars](https://img.shields.io/github/stars/yaph/chatgpt-export?style=social)|JavaScript|mit|
 
 
 ## CLIs
