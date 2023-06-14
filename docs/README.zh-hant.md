@@ -15,23 +15,31 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - 在 ChatGPT 中可播放遊戲提示
+**Browser-extensions**
+ * [chatgpt-export](https://github.com/yaph/chatgpt-export) - 透過 ChatGPT 輸出對話為標記檔.
 
 
-**Chatbots**
- * [LLaVA-Med](https://github.com/microsoft/llava-med) - 該系統的功能可達到多元型GPT-4級的功能.
+**NLP**
+ * [pdf2md](https://github.com/eiaserinnys/pdf2md) - 這項計畫將學術論文的PDF檔案轉化為可消化文本檔案. 通過分析PDF檔案的布局,應用程式重組段落並翻譯所需內容. 最后的結果是方便輸出的文本檔案.
 
 
-**CLIs**
- * [termGPT](https://github.com/tcapelle/termgpt) - 這是一款用Python寫在終端上的 openAI的 callGPT簡易包裹器
+**Langchain**
+ * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - 工具包使用自主托管的大型語言模型,
+
+
+**Openai**
+ * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - 沒有官方版的Python包裝為OpenAI的ChatGPT API
 
 
 **Others**
- * [FalconStreaming](https://github.com/andrewgcodes/falconstreaming) - 鷹40B和7B (Instruct) 提供流動,頂級K和光束搜尋
+ * [lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt) - 使用 GPT4 和 GPT3.5 在無限大小的輸入. 使用多線程並行處理多塊. 有用的任務,如命名實體識別,在大型帳簿,數據集,等信息提取.
+ * [bloop](https://github.com/bloopai/bloop) - 是用寫的快速代碼搜尋引擎.
+ * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - 在奧布西迪安中使用ChatGPT副駕駛
 
 
-_Updated on June 13, 2023_ (A total of 798 repositories listed.)
+_Updated on June 15, 2023_ (A total of 805 repositories listed.)
+
+🏅 [yaph](https://github.com/yaph) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -215,7 +223,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
 |[ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web)|![GitHub Repo stars](https://img.shields.io/github/stars/aprilnea/ChatGPT-Admin-Web?style=social)|TypeScript|mit|
 |[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
 |[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
-|[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/AdmTal/chat-gpt-games?style=social)|-|apache-2.0|
+|[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/admtal/chat-gpt-games?style=social)|-|apache-2.0|
 
 
 ## Chatbots
@@ -518,6 +526,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - 免費運行ChatGPT插件，無需訂閱Plus。
  * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - 透過這個極簡的程式碼和指示，您可以開始開發 ChatGPT 插件。這是您第一個插件開發的完美範例。
  * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - 一個由GPT4ALL驅動的nvim插件，可進行實時代碼解釋和漏洞檢測（無需互聯網）。
+ * [chatgpt-export](https://github.com/yaph/chatgpt-export) - 一個瀏覽器書籤小工具，可將與ChatGPT的對話匯出為Markdown文件。
 
 
 |Name|GitHub Stars|Language|License|
@@ -611,6 +620,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
 |[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
 |[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
 |[codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim)|![GitHub Repo stars](https://img.shields.io/github/stars/mthbernardes/codeexplain.nvim?style=social)|Python|mit|
+|[chatgpt-export](https://github.com/yaph/chatgpt-export)|![GitHub Repo stars](https://img.shields.io/github/stars/yaph/chatgpt-export?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -952,6 +962,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
  * [AutoGPTQ](https://github.com/panqiwei/autogptq) - 一個基於GPTQ算法的易於使用的LLMs量化套件，具有用戶友好的API。
  * [ALGO](https://github.com/zkx06111/algo) - 🚀介紹 ALGO，一個由 LLM 生成的神諭引導的代碼合成框架。集成了 ALGO，Codex 在競賽級別的問題上提高了 8 倍，ChatGPT 則提高了 1.3 倍。此外，ALGO 在提交前會驗證您的解決方案！🧵📜:🔗:
  * [FairEval](https://github.com/i-eval/faireval) - 大型語言模型不是公平的評估者- 在採用LLMs（例如GPT-4）作為裁判評分的評估中存在偏見- 成功地緩解了偏見，使其更接近人類判斷。
+ * [pdf2md](https://github.com/eiaserinnys/pdf2md) - 這個項目pdf2md將學術論文PDF文件轉換為易於閱讀的文本文件。通過分析PDF文件的佈局，應用程序重新結構段落並翻譯所需內容。最終結果是一個方便的導出文本文件。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1079,6 +1090,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
 |[AutoGPTQ](https://github.com/panqiwei/autogptq)|![GitHub Repo stars](https://img.shields.io/github/stars/panqiwei/AutoGPTQ?style=social)|Python|mit|
 |[ALGO](https://github.com/zkx06111/algo)|![GitHub Repo stars](https://img.shields.io/github/stars/zkx06111/ALGO?style=social)|Python|-|
 |[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-eval/FairEval?style=social)|Python|-|
+|[pdf2md](https://github.com/eiaserinnys/pdf2md)|![GitHub Repo stars](https://img.shields.io/github/stars/eiaserinnys/pdf2md?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1125,6 +1137,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
  * [Flowise](https://github.com/flowiseai/flowise) - 拖放式的使用者介面，讓您可以使用LangchainJS建立您自訂的LLM流程。
  * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - 將文本文件嵌入向量中，存儲在Pinecone中，並使用GPT3和Langchain在Next.js UI中啟用語義搜索。
  * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - 擴展原始的llama.cpp存儲庫以支持redpajama模型。
+ * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - 透過 langchain 和其他方式使用自託管的大型語言模型工具箱
 
 
 |Name|GitHub Stars|Language|License|
@@ -1171,6 +1184,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
 |[Flowise](https://github.com/flowiseai/flowise)|![GitHub Repo stars](https://img.shields.io/github/stars/flowiseai/Flowise?style=social)|JavaScript|mit|
 |[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
 |[redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/redpajama.cpp?style=social)|C|mit|
+|[OgbujiPT](https://github.com/uogbuji/ogbujipt)|![GitHub Repo stars](https://img.shields.io/github/stars/uogbuji/OgbujiPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1279,6 +1293,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - 一個運行在 Cloudflare worker 上的 OpenAI API 代理。
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 這是一個ChatGPT的暢聊與增強插件。開源免費。不僅能解決所有報錯不再刷新，還有保持活躍、取消審計、克隆對話、淨化首頁、展示大屏、展示全屏、言無不盡、攔截跟蹤、日新月異等多個高級功能。讓我們的AI體驗無比順暢、絲滑、高效、簡潔。
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - 一個 Cloudflare worker 腳本，用於代理 OpenAI 對 Azure OpenAI 服務的請求。
+ * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - 一個非官方的Python封裝器，用於OpenAI的ChatGPT API。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1362,6 +1377,7 @@ _Updated on June 13, 2023_ (A total of 798 repositories listed.)
 |[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 |[cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/haibbo/cf-openai-azure-proxy?style=social)|JavaScript|mit|
+|[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
 
 
 ## Others
@@ -1581,6 +1597,9 @@ add chatgpt to your groupchats:
  * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 指令調整穩定擴散的程式碼。
  * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 輸入：指定您想要建造的內容，人工智慧會詢問澄清問題，然後進行建造。
  * [FalconStreaming](https://github.com/andrewgcodes/falconstreaming) - Falcon40B和7B（指令）具有流式傳輸、前k個、和波束搜索功能。
+ * [lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt) - 使用GPT4和GPT3.5處理無限大小的輸入。使用多線程並行處理多個塊，對於命名實體識別、大型書籍、數據集等信息提取任務非常有用。
+ * [bloop](https://github.com/bloopai/bloop) - bloop 是一個用 Rust 編寫的快速代碼搜索引擎。
+ * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - 黑曜石中的ChatGPT副駕駛員
 
 
 |Name|GitHub Stars|Language|License|
@@ -1789,5 +1808,8 @@ add chatgpt to your groupchats:
 |[instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd)|![GitHub Repo stars](https://img.shields.io/github/stars/huggingface/instruction-tuned-sd?style=social)|Python|apache-2.0|
 |[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/antonosika/gpt-engineer?style=social)|Python|-|
 |[FalconStreaming](https://github.com/andrewgcodes/falconstreaming)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/FalconStreaming?style=social)|Jupyter Notebook|-|
+|[lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/lightspeedGPT?style=social)|Jupyter Notebook|mit|
+|[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social)|Rust|apache-2.0|
+|[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
 
 

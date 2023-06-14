@@ -5143,6 +5143,37 @@
                     "zh-hans": "一个由GPT4ALL驱动的nvim插件，用于实时代码解释和漏洞检测（无需互联网）。",
                     "zh-hant": "一個由GPT4ALL驅動的nvim插件，可進行實時代碼解釋和漏洞檢測（無需互聯網）。"
                 }
+            },
+            "https://github.com/yaph/chatgpt-export": {
+                "repository_name": "chatgpt-export",
+                "user_name": "yaph",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A browser bookmarklet for exporting conversations with ChatGPT as markdown files.",
+                "topics": [
+                    "bookmarklet",
+                    "browser-bookmarklets",
+                    "browser-tools",
+                    "chatgpt",
+                    "chatgpt-tools",
+                    "document-conversion",
+                    "html2markdown",
+                    "markdown",
+                    "vanilla-javascript",
+                    "vanilla-js"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A browser bookmarklet for exporting conversations with ChatGPT as markdown files.",
+                    "ja": "ChatGPTの会話をマークダウンファイルとしてエクスポートするためのブラウザブックマークレット。",
+                    "zh-hans": "一个用于将ChatGPT对话导出为Markdown文件的浏览器书签工具。",
+                    "zh-hant": "一個瀏覽器書籤小工具，可將與ChatGPT的對話匯出為Markdown文件。"
+                }
             }
         },
         "CLIs": {
@@ -9219,6 +9250,29 @@
                     "zh-hans": "大型语言模型不是公平的评估者-采用LLMs（例如GPT-4）作为评分裁判存在偏见-成功地缓解了偏见，使其更接近人类判断。",
                     "zh-hant": "大型語言模型不是公平的評估者- 在採用LLMs（例如GPT-4）作為裁判評分的評估中存在偏見- 成功地緩解了偏見，使其更接近人類判斷。"
                 }
+            },
+            "https://github.com/eiaserinnys/pdf2md": {
+                "repository_name": "pdf2md",
+                "user_name": "eiaserinnys",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "This project, pdf2md, transforms academic paper PDF files into digestible text files. By analyzing the layout of the PDF file, the application restructures paragraphs and translates desired content. The final result is a conveniently exported text file.",
+                "topics": [
+                    "pdf-converter",
+                    "translation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This project, pdf2md, transforms academic paper PDF files into digestible text files. By analyzing the layout of the PDF file, the application restructures paragraphs and translates desired content. The final result is a conveniently exported text file.",
+                    "ja": "このプロジェクト、pdf2mdは、学術論文のPDFファイルを消化しやすいテキストファイルに変換します。PDFファイルのレイアウトを分析して、アプリケーションが段落を再構成し、必要なコンテンツを翻訳します。最終的な結果は、便利にエクスポートされたテキストファイルです。",
+                    "zh-hans": "这个项目pdf2md将学术论文PDF文件转换为易于阅读的文本文件。通过分析PDF文件的布局，应用程序重新构造段落并翻译所需内容。最终结果是一个方便导出的文本文件。",
+                    "zh-hant": "這個項目pdf2md將學術論文PDF文件轉換為易於閱讀的文本文件。通過分析PDF文件的佈局，應用程序重新結構段落並翻譯所需內容。最終結果是一個方便的導出文本文件。"
+                }
             }
         },
         "Langchain": {
@@ -10062,6 +10116,32 @@
                     "ja": "元のllama.cppリポジトリを拡張して、redpajamaモデルをサポートするようにしてください。",
                     "zh-hans": "扩展原始的llama.cpp仓库以支持redpajama模型。",
                     "zh-hant": "擴展原始的llama.cpp存儲庫以支持redpajama模型。"
+                }
+            },
+            "https://github.com/uogbuji/ogbujipt": {
+                "repository_name": "OgbujiPT",
+                "user_name": "uogbuji",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Toolkit for using self-hosted large language models, through langchain & other means",
+                "topics": [
+                    "gpt",
+                    "langchain",
+                    "large-language-models",
+                    "llm",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Toolkit for using self-hosted large language models, through langchain & other means",
+                    "ja": "langchainやその他の手段を通じて、自己ホストされた大規模言語モデルを使用するためのツールキット",
+                    "zh-hans": "通过langchain和其他方式使用自托管的大型语言模型的工具包",
+                    "zh-hant": "透過 langchain 和其他方式使用自託管的大型語言模型工具箱"
                 }
             }
         },
@@ -11717,6 +11797,32 @@
                     "ja": "Azure OpenAIサービスへのOpenAIのリクエストをプロキシするためのCloudflareワーカースクリプト",
                     "zh-hans": "一个Cloudflare工作脚本，用于代理OpenAI向Azure OpenAI服务发出的请求。",
                     "zh-hant": "一個 Cloudflare worker 腳本，用於代理 OpenAI 對 Azure OpenAI 服務的請求。"
+                }
+            },
+            "https://github.com/sxvxgee/unlimitedgpt": {
+                "repository_name": "UnlimitedGPT",
+                "user_name": "Sxvxgee",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "An unofficial Python wrapper for OpenAI's ChatGPT API",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt3",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An unofficial Python wrapper for OpenAI's ChatGPT API",
+                    "ja": "OpenAIのChatGPT APIの非公式Pythonラッパー",
+                    "zh-hans": "OpenAI的ChatGPT API的非官方Python封装程序",
+                    "zh-hant": "一個非官方的Python封裝器，用於OpenAI的ChatGPT API。"
                 }
             }
         },
@@ -15304,6 +15410,70 @@
                     "ja": "ストリーミング、トップ-k、ビームサーチを備えたFalcon40Bと7B（Instruct）の入力と出力。",
                     "zh-hans": "Falcon40B和7B（指令）具有流式传输、前k个结果和波束搜索。",
                     "zh-hant": "Falcon40B和7B（指令）具有流式傳輸、前k個、和波束搜索功能。"
+                }
+            },
+            "https://github.com/andrewgcodes/lightspeedgpt": {
+                "repository_name": "lightspeedGPT",
+                "user_name": "andrewgcodes",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Use GPT4 and GPT3.5 on inputs of unlimited size. Uses multithreading to process multiple chunks in parallel. Useful for tasks like Named Entity Recognition, information extraction on large books, datasets, etc.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Use GPT4 and GPT3.5 on inputs of unlimited size. Uses multithreading to process multiple chunks in parallel. Useful for tasks like Named Entity Recognition, information extraction on large books, datasets, etc.",
+                    "ja": "GPT4とGPT3.5を無制限の入力に使用します。マルチスレッドを使用して複数のチャンクを並列処理します。大きな書籍、データセットなどの情報抽出や固有表現認識などのタスクに役立ちます。",
+                    "zh-hans": "使用GPT4和GPT3.5处理无限大小的输入。使用多线程并行处理多个块，适用于命名实体识别、大型书籍、数据集等信息提取任务。",
+                    "zh-hant": "使用GPT4和GPT3.5處理無限大小的輸入。使用多線程並行處理多個塊，對於命名實體識別、大型書籍、數據集等信息提取任務非常有用。"
+                }
+            },
+            "https://github.com/bloopai/bloop": {
+                "repository_name": "bloop",
+                "user_name": "BloopAI",
+                "language": "Rust",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "bloop is a fast code search engine written in Rust.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "bloop is a fast code search engine written in Rust.",
+                    "ja": "bloopはRustで書かれた高速なコード検索エンジンです。",
+                    "zh-hans": "bloop是一个用Rust编写的快速代码搜索引擎。",
+                    "zh-hant": "bloop 是一個用 Rust 編寫的快速代碼搜索引擎。"
+                }
+            },
+            "https://github.com/logancyang/obsidian-copilot": {
+                "repository_name": "obsidian-copilot",
+                "user_name": "logancyang",
+                "language": "TypeScript",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "A ChatGPT Copilot in Obsidian",
+                "topics": [
+                    "chatgpt",
+                    "obsidian-plugin",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT Copilot in Obsidian",
+                    "ja": "オブシディアンの中のChatGPTコパイロット",
+                    "zh-hans": "黑曜石中的ChatGPT副驾驶员",
+                    "zh-hant": "黑曜石中的ChatGPT副駕駛員"
                 }
             }
         }
