@@ -15,29 +15,26 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [chatgpt-export](https://github.com/yaph/chatgpt-export) - ChatGPTの会話をマークダウンファイルとしてエクスポートするためのブラウザブックマークレット。
+**Chatbots**
+ * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Ethereumのコードベースとドキュメントのためのチャットボット。
 
 
 **NLP**
- * [pdf2md](https://github.com/eiaserinnys/pdf2md) - このプロジェクト、pdf2mdは、学術論文のPDFファイルを消化しやすいテキストファイルに変換します。PDFファイルのレイアウトを分析して、アプリケーションが段落を再構成し、必要なコンテンツを翻訳します。最終的な結果は、便利にエクスポートされたテキストファイルです。
+ * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPTベースのオントロジー抽出ツール、SPIRESを含む
+ * [selefra](https://github.com/selefra/selefra) - マルチクラウドおよびSaaS環境の分析を提供するオープンソースのポリシーコードソフトウェアで、OpenAIによって強化された自然言語で洞察を得ることができます。
 
 
 **Langchain**
- * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - langchainやその他の手段を通じて、自己ホストされた大規模言語モデルを使用するためのツールキット
+ * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - GDScript生成のための大規模言語モデルのファインチューニング。
+ * [eva](https://github.com/georgia-tech-db/eva) - よりシンプルで高速なAI搭載アプリケーションを構築するためのデータベースシステム
 
 
 **Openai**
- * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - OpenAIのChatGPT APIの非公式Pythonラッパー
+ * [polyglot](https://github.com/liou666/polyglot) - 🤖️ デスクトップAI言語練習アプリ
+ * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Kubernetesクラスター内の自動SREスーパーパワー
 
 
-**Others**
- * [lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt) - GPT4とGPT3.5を無制限の入力に使用します。マルチスレッドを使用して複数のチャンクを並列処理します。大きな書籍、データセットなどの情報抽出や固有表現認識などのタスクに役立ちます。
- * [bloop](https://github.com/bloopai/bloop) - bloopはRustで書かれた高速なコード検索エンジンです。
- * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - オブシディアンの中のChatGPTコパイロット
-
-
-_Updated on June 15, 2023_ (A total of 805 repositories listed.)
+_Updated on June 16, 2023_ (A total of 812 repositories listed.)
 
 🏅 [yaph](https://github.com/yaph) provided some repository information. Thank you!
 
@@ -333,6 +330,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 簡単にチャットボットを作成する
  * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - ビデオチャットGPTは、ビデオに関する意味のある会話を生成することができるビデオ会話モデルです。LLMsの機能と、時空間ビデオ表現に適応された事前学習された視覚エンコーダーの能力を組み合わせています。
  * [LLaVA-Med](https://github.com/microsoft/llava-med) - バイオメディシン向けの大規模言語・ビジョンアシスタントで、マルチモーダルなGPT-4レベルの機能に向けて構築されました。
+ * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Ethereumのコードベースとドキュメントのためのチャットボット。
 
 
 |Name|GitHub Stars|Language|License|
@@ -437,6 +435,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
 |[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
 |[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
+|[ethgpt](https://github.com/jiayaoqijia/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jiayaoqijia/ethgpt?style=social)|Shell|-|
 
 
 ## Browser-extensions
@@ -960,6 +959,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [ALGO](https://github.com/zkx06111/algo) - 🚀ALGOをご紹介します。LLM生成のオラクルによって導かれるコード合成フレームワークです。ALGOに統合されたCodexは、コンテストレベルの問題において8倍、ChatGPTは1.3倍の性能を発揮します。さらに、ALGOは提出前にあなたの解決策を検証します！🧵📜:🔗:
  * [FairEval](https://github.com/i-eval/faireval) - 大規模言語モデルは公正な評価者ではありません- LLM（例：GPT-4）の採用の評価に偏りがあり、審判としてスコアリングすることに成功したバイアス- バイアスを軽減することにより、人間の判断により近い結果になります。repo:
  * [pdf2md](https://github.com/eiaserinnys/pdf2md) - このプロジェクト、pdf2mdは、学術論文のPDFファイルを消化しやすいテキストファイルに変換します。PDFファイルのレイアウトを分析して、アプリケーションが段落を再構成し、必要なコンテンツを翻訳します。最終的な結果は、便利にエクスポートされたテキストファイルです。
+ * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPTベースのオントロジー抽出ツール、SPIRESを含む
+ * [selefra](https://github.com/selefra/selefra) - マルチクラウドおよびSaaS環境の分析を提供するオープンソースのポリシーコードソフトウェアで、OpenAIによって強化された自然言語で洞察を得ることができます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1088,6 +1089,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[ALGO](https://github.com/zkx06111/algo)|![GitHub Repo stars](https://img.shields.io/github/stars/zkx06111/ALGO?style=social)|Python|-|
 |[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-eval/FairEval?style=social)|Python|-|
 |[pdf2md](https://github.com/eiaserinnys/pdf2md)|![GitHub Repo stars](https://img.shields.io/github/stars/eiaserinnys/pdf2md?style=social)|Python|mit|
+|[ontogpt](https://github.com/monarch-initiative/ontogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/monarch-initiative/ontogpt?style=social)|Jupyter Notebook|bsd-3-clause|
+|[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
 
 
 ## Langchain
@@ -1135,6 +1138,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - テキストファイルをベクトルに埋め込み、Pineconeに保存し、Next.js UIでGPT3とLangchainを使用して意味検索を可能にします。
  * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - 元のllama.cppリポジトリを拡張して、redpajamaモデルをサポートするようにしてください。
  * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - langchainやその他の手段を通じて、自己ホストされた大規模言語モデルを使用するためのツールキット
+ * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - GDScript生成のための大規模言語モデルのファインチューニング。
+ * [eva](https://github.com/georgia-tech-db/eva) - よりシンプルで高速なAI搭載アプリケーションを構築するためのデータベースシステム
 
 
 |Name|GitHub Stars|Language|License|
@@ -1182,6 +1187,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
 |[redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/redpajama.cpp?style=social)|C|mit|
 |[OgbujiPT](https://github.com/uogbuji/ogbujipt)|![GitHub Repo stars](https://img.shields.io/github/stars/uogbuji/OgbujiPT?style=social)|Python|apache-2.0|
+|[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
+|[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1290,6 +1297,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - これはChatGPTのスムーズなチャットと強化プラグインです。オープンソースで無料です。すべてのエラーをリフレッシュする必要がなくなるだけでなく、アクティブを維持し、監査をキャンセルし、会話をクローンし、ホームページを浄化し、大画面を表示し、フルスクリーンを表示し、言葉を尽くし、トラッキングをブロックし、日々進化するなど、多数の高度な機能があります。私たちのAI体験を非常にスムーズでシームレス、効率的、簡潔にします。
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - Azure OpenAIサービスへのOpenAIのリクエストをプロキシするためのCloudflareワーカースクリプト
  * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - OpenAIのChatGPT APIの非公式Pythonラッパー
+ * [polyglot](https://github.com/liou666/polyglot) - 🤖️ デスクトップAI言語練習アプリ
+ * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Kubernetesクラスター内の自動SREスーパーパワー
 
 
 |Name|GitHub Stars|Language|License|
@@ -1373,7 +1382,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 |[cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/haibbo/cf-openai-azure-proxy?style=social)|JavaScript|mit|
-|[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
+|[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
+|[polyglot](https://github.com/liou666/polyglot)|![GitHub Repo stars](https://img.shields.io/github/stars/liou666/polyglot?style=social)|TypeScript|gpl-3.0|
+|[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
 
 
 ## Others
@@ -1796,7 +1807,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/antonosika/gpt-engineer?style=social)|Python|-|
 |[FalconStreaming](https://github.com/andrewgcodes/falconstreaming)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/FalconStreaming?style=social)|Jupyter Notebook|-|
 |[lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/lightspeedGPT?style=social)|Jupyter Notebook|mit|
-|[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social)|Rust|apache-2.0|
+|[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/bloopai/bloop?style=social)|Rust|apache-2.0|
 |[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
 
 
