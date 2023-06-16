@@ -3418,6 +3418,20 @@
                     "zh-hans": "面向生物医学的大型语言与视觉助手，具备多模态GPT-4级别的能力。",
                     "zh-hant": "針對生物醫學領域建立的大型語言和視覺助手，具備多模態GPT-4級別的能力。"
                 }
+            },
+            "https://github.com/jiayaoqijia/ethgpt": {
+                "repository_name": "ethgpt",
+                "user_name": "jiayaoqijia",
+                "language": "Shell",
+                "license": null,
+                "description": "Chatbot for Ethereum codebase and docs.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Chatbot for Ethereum codebase and docs.",
+                    "ja": "Ethereumのコードベースとドキュメントのためのチャットボット。",
+                    "zh-hans": "以太坊代码库和文档的聊天机器人。",
+                    "zh-hant": "以太坊程式碼庫和文件的聊天機器人。"
+                }
             }
         },
         "Browser-extensions": {
@@ -9273,6 +9287,74 @@
                     "zh-hans": "这个项目pdf2md将学术论文PDF文件转换为易于阅读的文本文件。通过分析PDF文件的布局，应用程序重新构造段落并翻译所需内容。最终结果是一个方便导出的文本文件。",
                     "zh-hant": "這個項目pdf2md將學術論文PDF文件轉換為易於閱讀的文本文件。通過分析PDF文件的佈局，應用程序重新結構段落並翻譯所需內容。最終結果是一個方便的導出文本文件。"
                 }
+            },
+            "https://github.com/monarch-initiative/ontogpt": {
+                "repository_name": "ontogpt",
+                "user_name": "monarch-initiative",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "bsd-3-clause",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause",
+                    "url": "https://api.github.com/licenses/bsd-3-clause",
+                    "node_id": "MDc6TGljZW5zZTU="
+                },
+                "description": "GPT-based ontological extraction tools, including SPIRES",
+                "topics": [
+                    "ai",
+                    "chat-gpt",
+                    "gpt-3",
+                    "language-models",
+                    "large-language-models",
+                    "linkml",
+                    "monarchinitiative",
+                    "nlp",
+                    "oaklib",
+                    "obofoundry",
+                    "relation-extraction"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GPT-based ontological extraction tools, including SPIRES",
+                    "ja": "GPTベースのオントロジー抽出ツール、SPIRESを含む",
+                    "zh-hans": "基于GPT的本体抽取工具，包括SPIRES。",
+                    "zh-hant": "基於GPT的本體抽取工具，包括SPIRES"
+                }
+            },
+            "https://github.com/selefra/selefra": {
+                "repository_name": "selefra",
+                "user_name": "selefra",
+                "language": "Go",
+                "license": {
+                    "key": "mpl-2.0",
+                    "name": "Mozilla Public License 2.0",
+                    "spdx_id": "MPL-2.0",
+                    "url": "https://api.github.com/licenses/mpl-2.0",
+                    "node_id": "MDc6TGljZW5zZTE0"
+                },
+                "description": "The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).",
+                "topics": [
+                    "aws",
+                    "azure",
+                    "chatgpt",
+                    "cloud",
+                    "cspm",
+                    "devops",
+                    "finops",
+                    "gcp",
+                    "golang",
+                    "google",
+                    "infrastructure-as-code",
+                    "kubernetes",
+                    "openai",
+                    "policy-as-code",
+                    "terraform"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).",
+                    "ja": "マルチクラウドおよびSaaS環境の分析を提供するオープンソースのポリシーコードソフトウェアで、OpenAIによって強化された自然言語で洞察を得ることができます。",
+                    "zh-hans": "这是一款开源的政策即代码软件，可为多云和SaaS环境提供分析，您可以通过自然语言获得洞察力（由OpenAI提供支持）。",
+                    "zh-hant": "這是一款開源的政策即代碼軟件，可為多雲和SaaS環境提供分析，您可以通過自然語言獲得洞察力（由OpenAI提供支持）。"
+                }
             }
         },
         "Langchain": {
@@ -10142,6 +10224,67 @@
                     "ja": "langchainやその他の手段を通じて、自己ホストされた大規模言語モデルを使用するためのツールキット",
                     "zh-hans": "通过langchain和其他方式使用自托管的大型语言模型的工具包",
                     "zh-hant": "透過 langchain 和其他方式使用自託管的大型語言模型工具箱"
+                }
+            },
+            "https://github.com/minosvasilias/godot-dodo": {
+                "repository_name": "godot-dodo",
+                "user_name": "minosvasilias",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Finetuning large language models for GDScript generation.",
+                "topics": [
+                    "ai",
+                    "finetuning",
+                    "gdscript",
+                    "godot",
+                    "llama"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Refining large language models for generating GDScript.",
+                    "ja": "GDScript生成のための大規模言語モデルのファインチューニング。",
+                    "zh-hans": "为GDScript生成调整大型语言模型。",
+                    "zh-hant": "微調大型語言模型以生成GDScript。"
+                }
+            },
+            "https://github.com/georgia-tech-db/eva": {
+                "repository_name": "eva",
+                "user_name": "georgia-tech-db",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Database system for building simpler and faster AI-powered applications",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "data-analysis",
+                    "database",
+                    "eva",
+                    "gpt-4",
+                    "labeling",
+                    "labeling-tool",
+                    "langchain",
+                    "llama",
+                    "object-detection",
+                    "serving",
+                    "video-analytics",
+                    "yolo"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Database system for building simpler and faster AI-powered applications",
+                    "ja": "よりシンプルで高速なAI搭載アプリケーションを構築するためのデータベースシステム",
+                    "zh-hans": "构建更简单、更快的人工智能应用程序的数据库系统",
+                    "zh-hant": "建立更簡單、更快速的人工智慧應用程式的資料庫系統"
                 }
             }
         },
@@ -11823,6 +11966,59 @@
                     "ja": "OpenAIのChatGPT APIの非公式Pythonラッパー",
                     "zh-hans": "OpenAI的ChatGPT API的非官方Python封装程序",
                     "zh-hant": "一個非官方的Python封裝器，用於OpenAI的ChatGPT API。"
+                }
+            },
+            "https://github.com/liou666/polyglot": {
+                "repository_name": "polyglot",
+                "user_name": "liou666",
+                "language": "TypeScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "🤖️ 桌面端AI语言练习应用",
+                "topics": [
+                    "azure",
+                    "chatgpt",
+                    "electron",
+                    "openai",
+                    "polyglot",
+                    "tts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖️ Desktop AI language practice application",
+                    "ja": "🤖️ デスクトップAI言語練習アプリ",
+                    "zh-hans": "🤖️ 桌面端人工智能语言练习应用",
+                    "zh-hant": "🤖️ 桌面端人工智慧語言練習應用程式"
+                }
+            },
+            "https://github.com/k8sgpt-ai/k8sgpt-operator": {
+                "repository_name": "k8sgpt-operator",
+                "user_name": "k8sgpt-ai",
+                "language": "Go",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Automatic SRE Superpowers within your Kubernetes cluster",
+                "topics": [
+                    "devops",
+                    "kubernetes",
+                    "openai",
+                    "sre",
+                    "tooling"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Automatic SRE Superpowers within your Kubernetes cluster",
+                    "ja": "Kubernetesクラスター内の自動SREスーパーパワー",
+                    "zh-hans": "在您的Kubernetes集群中自动获得SRE超能力",
+                    "zh-hant": "在您的 Kubernetes 集群中自動啟用 SRE 超能力"
                 }
             }
         },

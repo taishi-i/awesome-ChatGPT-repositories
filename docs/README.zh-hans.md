@@ -15,29 +15,26 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [chatgpt-export](https://github.com/yaph/chatgpt-export) - 一个浏览器书签小程序,用于将ChatGPT的对话导出为标记文件.
+**Chatbots**
+ * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - 对于以太坊代码库和文档的聊天机器人.
 
 
 **NLP**
- * [pdf2md](https://github.com/eiaserinnys/pdf2md) - 该项目,pdf2md,将学术论文PDF文件转换为可消化的文本文件.通过分析PDF文件的布局,应用程序重组段落并翻译所需的内容.最终的结果是方便的导出文本文件.
+ * [ontogpt](https://github.com/monarch-initiative/ontogpt) - 基于GPT的本体学提取工具,包括SPIRES
+ * [selefra](https://github.com/selefra/selefra) - 开源的政策为代码软件, 提供多云和SaaS环境的分析, 你可以通过自然语言 (由OpenAI提供动力) 获得见解.
 
 
 **Langchain**
- * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - 通过 langchain 和其他方式使用自主托管的大语言模型的工具包
+ * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - 精细调整大型语言模型,用于GDScript生成.
+ * [eva](https://github.com/georgia-tech-db/eva) - 建立更简单,更快的AI应用程序的数据库系统
 
 
 **Openai**
- * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - 对于OpenAI的ChatGPT API,一个非官方的Python包装
+ * [polyglot](https://github.com/liou666/polyglot) - ️ 桌面端AI语言练习应用
+ * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - 在您的Kubernetes集群中自动SRE超级力量
 
 
-**Others**
- * [lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt) - 使用 GPT4 和 GPT3.5 在无限大小的输入中. 使用多线程并行处理多块.有用的任务如命名实体识别,大型簿,数据集等信息提取.
- * [bloop](https://github.com/bloopai/bloop) - 是用Rust编写的快速代码搜索引擎.
- * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - 在石中使用ChatGPT副飞行员
-
-
-_Updated on June 15, 2023_ (A total of 805 repositories listed.)
+_Updated on June 16, 2023_ (A total of 812 repositories listed.)
 
 🏅 [yaph](https://github.com/yaph) provided some repository information. Thank you!
 
@@ -327,6 +324,7 @@ ChatGPT资料汇总学习，持续更新......
  * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - 轻松创建聊天机器人
  * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - 视频聊天GPT是一种视频对话模型，能够生成有关视频的有意义的对话。它结合了LLMs的能力和预训练的视觉编码器，适用于时空视频表示。
  * [LLaVA-Med](https://github.com/microsoft/llava-med) - 面向生物医学的大型语言与视觉助手，具备多模态GPT-4级别的能力。
+ * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - 以太坊代码库和文档的聊天机器人。
 
 
 |Name|GitHub Stars|Language|License|
@@ -431,6 +429,7 @@ ChatGPT资料汇总学习，持续更新......
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
 |[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
 |[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
+|[ethgpt](https://github.com/jiayaoqijia/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jiayaoqijia/ethgpt?style=social)|Shell|-|
 
 
 ## Browser-extensions
@@ -962,6 +961,8 @@ ChatGPT资料汇总学习，持续更新......
  * [ALGO](https://github.com/zkx06111/algo) - 🚀介绍ALGO，这是一个由LLM生成的神谕引导的代码合成框架。与ALGO集成，Codex在竞赛级别的问题上提高了8倍，ChatGPT提高了1.3倍。此外，ALGO在提交前验证您的解决方案！🧵📜:🔗:
  * [FairEval](https://github.com/i-eval/faireval) - 大型语言模型不是公平的评估者-采用LLMs（例如GPT-4）作为评分裁判存在偏见-成功地缓解了偏见，使其更接近人类判断。
  * [pdf2md](https://github.com/eiaserinnys/pdf2md) - 这个项目pdf2md将学术论文PDF文件转换为易于阅读的文本文件。通过分析PDF文件的布局，应用程序重新构造段落并翻译所需内容。最终结果是一个方便导出的文本文件。
+ * [ontogpt](https://github.com/monarch-initiative/ontogpt) - 基于GPT的本体抽取工具，包括SPIRES。
+ * [selefra](https://github.com/selefra/selefra) - 这是一款开源的政策即代码软件，可为多云和SaaS环境提供分析，您可以通过自然语言获得洞察力（由OpenAI提供支持）。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1090,6 +1091,8 @@ ChatGPT资料汇总学习，持续更新......
 |[ALGO](https://github.com/zkx06111/algo)|![GitHub Repo stars](https://img.shields.io/github/stars/zkx06111/ALGO?style=social)|Python|-|
 |[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-eval/FairEval?style=social)|Python|-|
 |[pdf2md](https://github.com/eiaserinnys/pdf2md)|![GitHub Repo stars](https://img.shields.io/github/stars/eiaserinnys/pdf2md?style=social)|Python|mit|
+|[ontogpt](https://github.com/monarch-initiative/ontogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/monarch-initiative/ontogpt?style=social)|Jupyter Notebook|bsd-3-clause|
+|[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
 
 
 ## Langchain
@@ -1137,6 +1140,8 @@ ChatGPT资料汇总学习，持续更新......
  * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - 将文本文件嵌入向量中，存储在Pinecone上，并使用GPT3和Langchain在Next.js UI中实现语义搜索。
  * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - 扩展原始的llama.cpp仓库以支持redpajama模型。
  * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - 通过langchain和其他方式使用自托管的大型语言模型的工具包
+ * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - 为GDScript生成调整大型语言模型。
+ * [eva](https://github.com/georgia-tech-db/eva) - 构建更简单、更快的人工智能应用程序的数据库系统
 
 
 |Name|GitHub Stars|Language|License|
@@ -1184,6 +1189,8 @@ ChatGPT资料汇总学习，持续更新......
 |[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
 |[redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/redpajama.cpp?style=social)|C|mit|
 |[OgbujiPT](https://github.com/uogbuji/ogbujipt)|![GitHub Repo stars](https://img.shields.io/github/stars/uogbuji/OgbujiPT?style=social)|Python|apache-2.0|
+|[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
+|[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1298,6 +1305,8 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - 一个Cloudflare工作脚本，用于代理OpenAI向Azure OpenAI服务发出的请求。
  * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - OpenAI的ChatGPT API的非官方Python封装程序
+ * [polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端人工智能语言练习应用
+ * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - 在您的Kubernetes集群中自动获得SRE超能力
 
 
 |Name|GitHub Stars|Language|License|
@@ -1381,7 +1390,9 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 |[cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/haibbo/cf-openai-azure-proxy?style=social)|JavaScript|mit|
-|[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
+|[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
+|[polyglot](https://github.com/liou666/polyglot)|![GitHub Repo stars](https://img.shields.io/github/stars/liou666/polyglot?style=social)|TypeScript|gpl-3.0|
+|[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
 
 
 ## Others
@@ -1806,7 +1817,7 @@ Chat酱独立部署版，docker方案自带代理
 |[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/antonosika/gpt-engineer?style=social)|Python|-|
 |[FalconStreaming](https://github.com/andrewgcodes/falconstreaming)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/FalconStreaming?style=social)|Jupyter Notebook|-|
 |[lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/lightspeedGPT?style=social)|Jupyter Notebook|mit|
-|[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social)|Rust|apache-2.0|
+|[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/bloopai/bloop?style=social)|Rust|apache-2.0|
 |[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
 
 

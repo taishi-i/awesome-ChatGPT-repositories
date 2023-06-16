@@ -18,29 +18,26 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [chatgpt-export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
+**Chatbots**
+ * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Chatbot for Ethereum codebase and docs.
 
 
 **NLP**
- * [pdf2md](https://github.com/eiaserinnys/pdf2md) - This project, pdf2md, transforms academic paper PDF files into digestible text files. By analyzing the layout of the PDF file, the application restructures paragraphs and translates desired content. The final result is a conveniently exported text file.
+ * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPT-based ontological extraction tools, including SPIRES
+ * [selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 
 
 **Langchain**
- * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - Toolkit for using self-hosted large language models, through langchain & other means
+ * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
+ * [eva](https://github.com/georgia-tech-db/eva) - Database system for building simpler and faster AI-powered applications
 
 
 **Openai**
- * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - An unofficial Python wrapper for OpenAI's ChatGPT API
+ * [polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端AI语言练习应用
+ * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
 
 
-**Others**
- * [lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt) - Use GPT4 and GPT3.5 on inputs of unlimited size. Uses multithreading to process multiple chunks in parallel. Useful for tasks like Named Entity Recognition, information extraction on large books, datasets, etc.
- * [bloop](https://github.com/bloopai/bloop) - bloop is a fast code search engine written in Rust.
- * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
-
-
-_Updated on June 15, 2023_ (A total of 805 repositories listed.)
+_Updated on June 16, 2023_ (A total of 812 repositories listed.)
 
 🏅 [yaph](https://github.com/yaph) provided some repository information. Thank you!
 
@@ -329,6 +326,7 @@ _Updated on June 15, 2023_ (A total of 805 repositories listed.)
  * [dialoqbase](https://github.com/n4ze3m/dialoqbase) - Create chatbots with ease
  * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation.
  * [LLaVA-Med](https://github.com/microsoft/llava-med) - Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.
+ * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Chatbot for Ethereum codebase and docs.
 
 
 |Name|GitHub Stars|Language|License|
@@ -433,6 +431,7 @@ _Updated on June 15, 2023_ (A total of 805 repositories listed.)
 |[dialoqbase](https://github.com/n4ze3m/dialoqbase)|![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)|TypeScript|mit|
 |[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
 |[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
+|[ethgpt](https://github.com/jiayaoqijia/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jiayaoqijia/ethgpt?style=social)|Shell|-|
 
 
 ## Browser-extensions
@@ -953,6 +952,8 @@ _Updated on June 15, 2023_ (A total of 805 repositories listed.)
  * [ALGO](https://github.com/zkx06111/algo) - 🚀Introducing ALGO, a code synthesis framework guided by LLM-generated oracles. Integrated with ALGO, Codex is 8x better and ChatGPT 1.3x better at contest-level problems. Plus, ALGO verifies your solution before submission!🧵📜:🔗:
  * [FairEval](https://github.com/i-eval/faireval) - Large Language Models are not Fair Evaluators- A bias in the evaluation of adopting LLMs, e.g., GPT-4, as a referee to score- Successfully mitigates the bias, resulting in closer alignment with human judgmentsrepo:
  * [pdf2md](https://github.com/eiaserinnys/pdf2md) - This project, pdf2md, transforms academic paper PDF files into digestible text files. By analyzing the layout of the PDF file, the application restructures paragraphs and translates desired content. The final result is a conveniently exported text file.
+ * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPT-based ontological extraction tools, including SPIRES
+ * [selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
 
 
 |Name|GitHub Stars|Language|License|
@@ -1081,6 +1082,8 @@ _Updated on June 15, 2023_ (A total of 805 repositories listed.)
 |[ALGO](https://github.com/zkx06111/algo)|![GitHub Repo stars](https://img.shields.io/github/stars/zkx06111/ALGO?style=social)|Python|-|
 |[FairEval](https://github.com/i-eval/faireval)|![GitHub Repo stars](https://img.shields.io/github/stars/i-eval/FairEval?style=social)|Python|-|
 |[pdf2md](https://github.com/eiaserinnys/pdf2md)|![GitHub Repo stars](https://img.shields.io/github/stars/eiaserinnys/pdf2md?style=social)|Python|mit|
+|[ontogpt](https://github.com/monarch-initiative/ontogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/monarch-initiative/ontogpt?style=social)|Jupyter Notebook|bsd-3-clause|
+|[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
 
 
 ## Langchain
@@ -1128,6 +1131,8 @@ _Updated on June 15, 2023_ (A total of 805 repositories listed.)
  * [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
  * [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - Extend the original llama.cpp repo to support redpajama model.
  * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - Toolkit for using self-hosted large language models, through langchain & other means
+ * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
+ * [eva](https://github.com/georgia-tech-db/eva) - Database system for building simpler and faster AI-powered applications
 
 
 |Name|GitHub Stars|Language|License|
@@ -1175,6 +1180,8 @@ _Updated on June 15, 2023_ (A total of 805 repositories listed.)
 |[semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt?style=social)|TypeScript|-|
 |[redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp)|![GitHub Repo stars](https://img.shields.io/github/stars/togethercomputer/redpajama.cpp?style=social)|C|mit|
 |[OgbujiPT](https://github.com/uogbuji/ogbujipt)|![GitHub Repo stars](https://img.shields.io/github/stars/uogbuji/OgbujiPT?style=social)|Python|apache-2.0|
+|[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
+|[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1283,6 +1290,8 @@ _Updated on June 15, 2023_ (A total of 805 repositories listed.)
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 这是一个ChatGPT的畅聊与增强插件。开源免费。不仅能解决所有报错不再刷新，还有保持活跃、取消审计、克隆对话、净化首页、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等多个高级功能。让我们的AI体验无比顺畅、丝滑、高效、简洁。
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
  * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - An unofficial Python wrapper for OpenAI's ChatGPT API
+ * [polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端AI语言练习应用
+ * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
 
 
 |Name|GitHub Stars|Language|License|
@@ -1366,7 +1375,9 @@ _Updated on June 15, 2023_ (A total of 805 repositories listed.)
 |[openai-cloudflare](https://github.com/janlay/openai-cloudflare)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cloudflare?style=social)|JavaScript|mit|
 |[KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd)|![GitHub Repo stars](https://img.shields.io/github/stars/xcanwin/KeepChatGPT?style=social)|JavaScript|gpl-2.0|
 |[cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/haibbo/cf-openai-azure-proxy?style=social)|JavaScript|mit|
-|[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
+|[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
+|[polyglot](https://github.com/liou666/polyglot)|![GitHub Repo stars](https://img.shields.io/github/stars/liou666/polyglot?style=social)|TypeScript|gpl-3.0|
+|[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
 
 
 ## Others
@@ -1787,7 +1798,7 @@ _Updated on June 15, 2023_ (A total of 805 repositories listed.)
 |[gpt-engineer](https://github.com/antonosika/gpt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/antonosika/gpt-engineer?style=social)|Python|-|
 |[FalconStreaming](https://github.com/andrewgcodes/falconstreaming)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/FalconStreaming?style=social)|Jupyter Notebook|-|
 |[lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/lightspeedGPT?style=social)|Jupyter Notebook|mit|
-|[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/BloopAI/bloop?style=social)|Rust|apache-2.0|
+|[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/bloopai/bloop?style=social)|Rust|apache-2.0|
 |[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
 
 
