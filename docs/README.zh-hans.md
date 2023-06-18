@@ -15,28 +15,29 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble 如果提示是描述性的,可以区分彼此,我的理解是代理仍然可以对大量工具工作. 为了使用工具列表的示例,请查看微软的视觉ChatGPT repo 不确定有100万... 
+
+
 **Chatbots**
- * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - 对于以太坊代码库和文档的聊天机器人.
+ * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - 基于NodeJS的ChatGPT机器人现在可以运行在Telegram上,
+
+
+**Browser-extensions**
+ * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - 一个紧密集成的ChatGPT插件,用于Logseq.
+ * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - 这就像Auto-GPT遇到了Brew. 最简单,最快的方法开始使用AutoGPT,使用任何您选择的后端和您可能需要的任何插件
 
 
 **NLP**
- * [ontogpt](https://github.com/monarch-initiative/ontogpt) - 基于GPT的本体学提取工具,包括SPIRES
- * [selefra](https://github.com/selefra/selefra) - 开源的政策为代码软件, 提供多云和SaaS环境的分析, 你可以通过自然语言 (由OpenAI提供动力) 获得见解.
+ * [haystack](https://github.com/deepset-ai/haystack) - :mag:Haystack是一个开源NLP框架,可以使用变换模型和LLM (GPT-4,ChatGPT等) 与您的数据交互.Haystack提供了生产准备的工具,可以快速构建复杂的问题答案,语义搜索,文本生成应用程序等.
 
 
-**Langchain**
- * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - 精细调整大型语言模型,用于GDScript生成.
- * [eva](https://github.com/georgia-tech-db/eva) - 建立更简单,更快的AI应用程序的数据库系统
+**Others**
+ * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - 突尼斯航空应用程序REST API
+ * [babyagi-ui](https://github.com/miurla/babyagi-ui) - 设计的目的是让它更容易运行和开发在web应用程序中,比如ChatGPT.
 
 
-**Openai**
- * [polyglot](https://github.com/liou666/polyglot) - ️ 桌面端AI语言练习应用
- * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - 在您的Kubernetes集群中自动SRE超级力量
-
-
-_Updated on June 16, 2023_ (A total of 812 repositories listed.)
-
-🏅 [yaph](https://github.com/yaph) provided some repository information. Thank you!
+_Updated on June 19, 2023_ (A total of 819 repositories listed.)
 
 ## Table of contents
 
@@ -160,6 +161,7 @@ ChatGPT资料汇总学习，持续更新......
  * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - 这个仓库包含了一系列的提示示例，可用于在Power Platform中使用GPT模型。
  * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM 应用程序。针对辅导任务的动态少量样本元提示。
  * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - 在ChatGPT中可玩游戏的提示
+ * [TaskMatrix](https://github.com/microsoft/taskmatrix) - 如果提示信息具有描述性并且彼此之间可以区分，那么我认为代理程序仍然可以适用于大量的工具。如果想要查看一组工具的示例用法，请查看微软的visualChatGPT存储库，但不确定是否适用于100万个工具... @jksyaw @LangChainAI @FlowiseAI @bubble
 
 
 |Name|GitHub Stars|Language|License|
@@ -220,6 +222,7 @@ ChatGPT资料汇总学习，持续更新......
 |[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
 |[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
 |[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/admtal/chat-gpt-games?style=social)|-|apache-2.0|
+|[TaskMatrix](https://github.com/microsoft/taskmatrix)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskMatrix?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -325,6 +328,7 @@ ChatGPT资料汇总学习，持续更新......
  * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - 视频聊天GPT是一种视频对话模型，能够生成有关视频的有意义的对话。它结合了LLMs的能力和预训练的视觉编码器，适用于时空视频表示。
  * [LLaVA-Med](https://github.com/microsoft/llava-med) - 面向生物医学的大型语言与视觉助手，具备多模态GPT-4级别的能力。
  * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - 以太坊代码库和文档的聊天机器人。
+ * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - 基于NodeJS的ChatGPT机器人现在在Telegram上拥有高级功能，如语音聊天和图像生成。
 
 
 |Name|GitHub Stars|Language|License|
@@ -430,6 +434,7 @@ ChatGPT资料汇总学习，持续更新......
 |[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
 |[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
 |[ethgpt](https://github.com/jiayaoqijia/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jiayaoqijia/ethgpt?style=social)|Shell|-|
+|[telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/sabber-slt/telegram-chatgpt-bot?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -525,6 +530,8 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - 通过这个简单的代码和说明，你可以开始开发ChatGPT插件。这是你第一个插件开发的完美示例。
  * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - 一个由GPT4ALL驱动的nvim插件，用于实时代码解释和漏洞检测（无需互联网）。
  * [chatgpt-export](https://github.com/yaph/chatgpt-export) - 一个用于将ChatGPT对话导出为Markdown文件的浏览器书签工具。
+ * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - 一个紧密集成的Logseq聊天插件。
+ * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - 就像Auto-GPT遇到了Brew一样。使用任何您选择的后端和所需的插件，最简单和最快速的开始使用AutoGPT的方法。
 
 
 |Name|GitHub Stars|Language|License|
@@ -619,6 +626,8 @@ ChatGPT资料汇总学习，持续更新......
 |[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
 |[codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim)|![GitHub Repo stars](https://img.shields.io/github/stars/mthbernardes/codeexplain.nvim?style=social)|Python|mit|
 |[chatgpt-export](https://github.com/yaph/chatgpt-export)|![GitHub Repo stars](https://img.shields.io/github/stars/yaph/chatgpt-export?style=social)|JavaScript|mit|
+|[logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/debanjandhar12/logseq-chatgpt-plugin?style=social)|TypeScript|agpl-3.0|
+|[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
 
 
 ## CLIs
@@ -963,6 +972,7 @@ ChatGPT资料汇总学习，持续更新......
  * [pdf2md](https://github.com/eiaserinnys/pdf2md) - 这个项目pdf2md将学术论文PDF文件转换为易于阅读的文本文件。通过分析PDF文件的布局，应用程序重新构造段落并翻译所需内容。最终结果是一个方便导出的文本文件。
  * [ontogpt](https://github.com/monarch-initiative/ontogpt) - 基于GPT的本体抽取工具，包括SPIRES。
  * [selefra](https://github.com/selefra/selefra) - 这是一款开源的政策即代码软件，可为多云和SaaS环境提供分析，您可以通过自然语言获得洞察力（由OpenAI提供支持）。
+ * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack是一个开源的NLP框架，使用Transformer模型和LLMs（如GPT-4、ChatGPT等）与您的数据进行交互。Haystack提供了生产就绪的工具，快速构建复杂的问答、语义搜索、文本生成应用等。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1093,6 +1103,7 @@ ChatGPT资料汇总学习，持续更新......
 |[pdf2md](https://github.com/eiaserinnys/pdf2md)|![GitHub Repo stars](https://img.shields.io/github/stars/eiaserinnys/pdf2md?style=social)|Python|mit|
 |[ontogpt](https://github.com/monarch-initiative/ontogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/monarch-initiative/ontogpt?style=social)|Jupyter Notebook|bsd-3-clause|
 |[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
+|[haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1608,6 +1619,8 @@ Chat酱独立部署版，docker方案自带代理
  * [lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt) - 使用GPT4和GPT3.5处理无限大小的输入。使用多线程并行处理多个块，适用于命名实体识别、大型书籍、数据集等信息提取任务。
  * [bloop](https://github.com/bloopai/bloop) - bloop是一个用Rust编写的快速代码搜索引擎。
  * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - 黑曜石中的ChatGPT副驾驶员
+ * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - 突尼斯航空公司应用程序REST API
+ * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI旨在使在Web应用程序中运行和开发BabyAGI（类似于ChatGPT）更加容易。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1819,5 +1832,7 @@ Chat酱独立部署版，docker方案自带代理
 |[lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/lightspeedGPT?style=social)|Jupyter Notebook|mit|
 |[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/bloopai/bloop?style=social)|Rust|apache-2.0|
 |[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
+|[thinkgpt](https://github.com/alaeddine-13/thinkgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)|Python|-|
+|[babyagi-ui](https://github.com/miurla/babyagi-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)|TypeScript|mit|
 
 

@@ -15,28 +15,29 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble プロンプトが説明的で互いに区別できる場合、エージェントは多数のツールでまだ正常に動作すると理解しています。ツールのリストのサンプル使用については、MicrosoftのvisualChatGPTリポジトリをチェックしてください。100万個については確信が持てません...
+
+
 **Chatbots**
- * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Ethereumのコードベースとドキュメントのためのチャットボット。
+ * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - Telegramで動作するNodeJSベースのChatGPTボットは、音声チャットや画像生成などの高度な機能を備えています。
+
+
+**Browser-extensions**
+ * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - Logseq用の密接に統合されたChatGPTプラグイン。
+ * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - それはまるでAuto-GPTがBrewと出会ったようです。あなたが選ぶバックエンドと必要なプラグインを使って、AutoGPTを始めるための最も簡単で最速の方法です。
 
 
 **NLP**
- * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPTベースのオントロジー抽出ツール、SPIRESを含む
- * [selefra](https://github.com/selefra/selefra) - マルチクラウドおよびSaaS環境の分析を提供するオープンソースのポリシーコードソフトウェアで、OpenAIによって強化された自然言語で洞察を得ることができます。
+ * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystackは、TransformerモデルやLLMs（GPT-4、ChatGPTなど）を使用してデータと対話するためのオープンソースのNLPフレームワークです。Haystackは、複雑な質問応答、意味検索、テキスト生成アプリケーションなどを素早く構築するための本番用ツールを提供しています。
 
 
-**Langchain**
- * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - GDScript生成のための大規模言語モデルのファインチューニング。
- * [eva](https://github.com/georgia-tech-db/eva) - よりシンプルで高速なAI搭載アプリケーションを構築するためのデータベースシステム
+**Others**
+ * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - チュニジア航空アプリのREST API
+ * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UIは、ChatGPTのようなWebアプリでのBabyAGIの実行と開発をより簡単にするために設計されています。
 
 
-**Openai**
- * [polyglot](https://github.com/liou666/polyglot) - 🤖️ デスクトップAI言語練習アプリ
- * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Kubernetesクラスター内の自動SREスーパーパワー
-
-
-_Updated on June 16, 2023_ (A total of 812 repositories listed.)
-
-🏅 [yaph](https://github.com/yaph) provided some repository information. Thank you!
+_Updated on June 19, 2023_ (A total of 819 repositories listed.)
 
 ## Table of contents
 
@@ -163,6 +164,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - このリポジトリには、Power Platformで使用するためのGPTモデルのプロンプト例のコレクションが含まれています。
  * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLMアプリケーション。チュータリングのタスクに対するダイナミックなフューショットメタプロンプティング。
  * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - ChatGPTでプレイ可能なゲームのプロンプト
+ * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble プロンプトが説明的で互いに区別できる場合、エージェントは多数のツールでまだ正常に動作すると理解しています。ツールのリストのサンプル使用については、MicrosoftのvisualChatGPTリポジトリをチェックしてください。100万個については確信が持てません...
 
 
 |Name|GitHub Stars|Language|License|
@@ -223,6 +225,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
 |[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
 |[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/admtal/chat-gpt-games?style=social)|-|apache-2.0|
+|[TaskMatrix](https://github.com/microsoft/taskmatrix)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskMatrix?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -331,6 +334,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - ビデオチャットGPTは、ビデオに関する意味のある会話を生成することができるビデオ会話モデルです。LLMsの機能と、時空間ビデオ表現に適応された事前学習された視覚エンコーダーの能力を組み合わせています。
  * [LLaVA-Med](https://github.com/microsoft/llava-med) - バイオメディシン向けの大規模言語・ビジョンアシスタントで、マルチモーダルなGPT-4レベルの機能に向けて構築されました。
  * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Ethereumのコードベースとドキュメントのためのチャットボット。
+ * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - Telegramで動作するNodeJSベースのChatGPTボットは、音声チャットや画像生成などの高度な機能を備えています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -436,6 +440,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
 |[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
 |[ethgpt](https://github.com/jiayaoqijia/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jiayaoqijia/ethgpt?style=social)|Shell|-|
+|[telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/sabber-slt/telegram-chatgpt-bot?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -530,6 +535,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - この最小限のコードと手順で、ChatGPTプラグインの開発を始めることができます。これは、最初のプラグイン開発の例として完璧です。
  * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - リアルタイムのコード説明と脆弱性検出のためのGPT4ALLによるnvimプラグイン（インターネット不要）
  * [chatgpt-export](https://github.com/yaph/chatgpt-export) - ChatGPTの会話をマークダウンファイルとしてエクスポートするためのブラウザブックマークレット。
+ * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - Logseq用の密接に統合されたChatGPTプラグイン。
+ * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - それはまるでAuto-GPTがBrewと出会ったようです。あなたが選ぶバックエンドと必要なプラグインを使って、AutoGPTを始めるための最も簡単で最速の方法です。
 
 
 |Name|GitHub Stars|Language|License|
@@ -624,6 +631,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
 |[codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim)|![GitHub Repo stars](https://img.shields.io/github/stars/mthbernardes/codeexplain.nvim?style=social)|Python|mit|
 |[chatgpt-export](https://github.com/yaph/chatgpt-export)|![GitHub Repo stars](https://img.shields.io/github/stars/yaph/chatgpt-export?style=social)|JavaScript|mit|
+|[logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/debanjandhar12/logseq-chatgpt-plugin?style=social)|TypeScript|agpl-3.0|
+|[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
 
 
 ## CLIs
@@ -961,6 +970,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [pdf2md](https://github.com/eiaserinnys/pdf2md) - このプロジェクト、pdf2mdは、学術論文のPDFファイルを消化しやすいテキストファイルに変換します。PDFファイルのレイアウトを分析して、アプリケーションが段落を再構成し、必要なコンテンツを翻訳します。最終的な結果は、便利にエクスポートされたテキストファイルです。
  * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPTベースのオントロジー抽出ツール、SPIRESを含む
  * [selefra](https://github.com/selefra/selefra) - マルチクラウドおよびSaaS環境の分析を提供するオープンソースのポリシーコードソフトウェアで、OpenAIによって強化された自然言語で洞察を得ることができます。
+ * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystackは、TransformerモデルやLLMs（GPT-4、ChatGPTなど）を使用してデータと対話するためのオープンソースのNLPフレームワークです。Haystackは、複雑な質問応答、意味検索、テキスト生成アプリケーションなどを素早く構築するための本番用ツールを提供しています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1091,6 +1101,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[pdf2md](https://github.com/eiaserinnys/pdf2md)|![GitHub Repo stars](https://img.shields.io/github/stars/eiaserinnys/pdf2md?style=social)|Python|mit|
 |[ontogpt](https://github.com/monarch-initiative/ontogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/monarch-initiative/ontogpt?style=social)|Jupyter Notebook|bsd-3-clause|
 |[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
+|[haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1598,6 +1609,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt) - GPT4とGPT3.5を無制限の入力に使用します。マルチスレッドを使用して複数のチャンクを並列処理します。大きな書籍、データセットなどの情報抽出や固有表現認識などのタスクに役立ちます。
  * [bloop](https://github.com/bloopai/bloop) - bloopはRustで書かれた高速なコード検索エンジンです。
  * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - オブシディアンの中のChatGPTコパイロット
+ * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - チュニジア航空アプリのREST API
+ * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UIは、ChatGPTのようなWebアプリでのBabyAGIの実行と開発をより簡単にするために設計されています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1809,5 +1822,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/lightspeedGPT?style=social)|Jupyter Notebook|mit|
 |[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/bloopai/bloop?style=social)|Rust|apache-2.0|
 |[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
+|[thinkgpt](https://github.com/alaeddine-13/thinkgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)|Python|-|
+|[babyagi-ui](https://github.com/miurla/babyagi-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)|TypeScript|mit|
 
 

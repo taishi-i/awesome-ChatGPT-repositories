@@ -16,28 +16,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble If the prompts are descriptive and distinguishable from each other, my understanding is the agent can still work fine for a large number of tools. For a sample use of a list of tools check out Microsoft's visualChatGPT repo  not sure with 1 million… 
+
+
 **Chatbots**
- * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Chatbot for Ethereum codebase and docs.
+ * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - NodeJS-based bot for ChatGPT that runs on Telegram now features advanced capabilities such as voice chat and image generation.
+
+
+**Browser-extensions**
+ * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - A tightly integrated ChatGPT plugin for Logseq.
+ * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - It's like Auto-GPT met Brew. The easiest and fastest way to get started with AutoGPT with any backend of your choice & whatever plugins you may need
 
 
 **NLP**
- * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPT-based ontological extraction tools, including SPIRES
- * [selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
+ * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.
 
 
-**Langchain**
- * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - Refining large language models for generating GDScript.
- * [eva](https://github.com/georgia-tech-db/eva) - Database system for building simpler and faster AI-powered applications
+**Others**
+ * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - API for the Tunisair mobile application using REST architecture.
+ * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
 
 
-**Openai**
- * [polyglot](https://github.com/liou666/polyglot) - 🤖️ Desktop AI language practice application
- * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
-
-
-_Updated on June 16, 2023_ (A total of 812 repositories listed.)
-
-🏅 [yaph](https://github.com/yaph) provided some repository information. Thank you!
+_Updated on June 19, 2023_ (A total of 819 repositories listed.)
 
 ## Table of contents
 
@@ -160,6 +161,7 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
  * [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - This repository contains a collection of prompt examples to be used with GPT models in the Power Platform.
  * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic few-shot metaprompting for the task of tutoring. 
  * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - Prompts for playable games in ChatGPT
+ * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble If the prompts are descriptive and distinguishable from each other, my understanding is the agent can still work fine for a large number of tools. For a sample use of a list of tools check out Microsoft's visualChatGPT repo  not sure with 1 million… 
 
 
 |Name|GitHub Stars|Language|License|
@@ -220,6 +222,7 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
 |[powerplatform-prompts](https://github.com/pnp/powerplatform-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pnp/powerplatform-prompts?style=social)|HTML|-|
 |[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
 |[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/admtal/chat-gpt-games?style=social)|-|apache-2.0|
+|[TaskMatrix](https://github.com/microsoft/taskmatrix)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskMatrix?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -325,6 +328,7 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
  * [Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt) - Video-ChatGPT is a video conversation model capable of generating meaningful conversation about videos. It combines the capabilities of LLMs with a pretrained visual encoder adapted for spatiotemporal video representation.
  * [LLaVA-Med](https://github.com/microsoft/llava-med) - Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.
  * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Chatbot for Ethereum codebase and docs.
+ * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - NodeJS-based bot for ChatGPT that runs on Telegram now features advanced capabilities such as voice chat and image generation.
 
 
 |Name|GitHub Stars|Language|License|
@@ -430,6 +434,7 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
 |[Video-ChatGPT](https://github.com/mbzuai-oryx/video-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT?style=social)|Python|cc-by-4.0|
 |[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
 |[ethgpt](https://github.com/jiayaoqijia/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jiayaoqijia/ethgpt?style=social)|Shell|-|
+|[telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/sabber-slt/telegram-chatgpt-bot?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -524,6 +529,8 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
  * [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - With this minimal code and instructions, you can get started on developing a ChatGPT Plugin. It's perfect as an example for your first plugin development.
  * [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - A nvim plugin Powered by GPT4ALL for Real-time Code Explanation and Vulnerability Detection (no internet necessary)
  * [chatgpt-export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
+ * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - A tightly integrated ChatGPT plugin for Logseq.
+ * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - It's like Auto-GPT met Brew. The easiest and fastest way to get started with AutoGPT with any backend of your choice & whatever plugins you may need
 
 
 |Name|GitHub Stars|Language|License|
@@ -618,6 +625,8 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
 |[chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/yoshinorisano/chatgpt-simple-todo-plugin?style=social)|Python|-|
 |[codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim)|![GitHub Repo stars](https://img.shields.io/github/stars/mthbernardes/codeexplain.nvim?style=social)|Python|mit|
 |[chatgpt-export](https://github.com/yaph/chatgpt-export)|![GitHub Repo stars](https://img.shields.io/github/stars/yaph/chatgpt-export?style=social)|JavaScript|mit|
+|[logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/debanjandhar12/logseq-chatgpt-plugin?style=social)|TypeScript|agpl-3.0|
+|[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
 
 
 ## CLIs
@@ -952,6 +961,7 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
  * [pdf2md](https://github.com/eiaserinnys/pdf2md) - This project, pdf2md, transforms academic paper PDF files into digestible text files. By analyzing the layout of the PDF file, the application restructures paragraphs and translates desired content. The final result is a conveniently exported text file.
  * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPT-based ontological extraction tools, including SPIRES
  * [selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
+ * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1082,6 +1092,7 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
 |[pdf2md](https://github.com/eiaserinnys/pdf2md)|![GitHub Repo stars](https://img.shields.io/github/stars/eiaserinnys/pdf2md?style=social)|Python|mit|
 |[ontogpt](https://github.com/monarch-initiative/ontogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/monarch-initiative/ontogpt?style=social)|Jupyter Notebook|bsd-3-clause|
 |[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
+|[haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1587,6 +1598,8 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
  * [lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt) - Use GPT4 and GPT3.5 on inputs of unlimited size. Uses multithreading to process multiple chunks in parallel. Useful for tasks like Named Entity Recognition, information extraction on large books, datasets, etc.
  * [bloop](https://github.com/bloopai/bloop) - bloop is a fast code search engine written in Rust.
  * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
+ * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - API for the Tunisair mobile application using REST architecture.
+ * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1798,5 +1811,7 @@ _Updated on June 16, 2023_ (A total of 812 repositories listed.)
 |[lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/andrewgcodes/lightspeedGPT?style=social)|Jupyter Notebook|mit|
 |[bloop](https://github.com/bloopai/bloop)|![GitHub Repo stars](https://img.shields.io/github/stars/bloopai/bloop?style=social)|Rust|apache-2.0|
 |[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
+|[thinkgpt](https://github.com/alaeddine-13/thinkgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)|Python|-|
+|[babyagi-ui](https://github.com/miurla/babyagi-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)|TypeScript|mit|
 
 

@@ -1420,6 +1420,26 @@
                     "zh-hans": "在ChatGPT中可玩游戏的提示",
                     "zh-hant": "在ChatGPT中可玩遊戲的提示"
                 }
+            },
+            "https://github.com/microsoft/taskmatrix": {
+                "repository_name": "TaskMatrix",
+                "user_name": "microsoft",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "@jksyaw @LangChainAI @FlowiseAI @bubble If the prompts are descriptive and distinguishable from each other, my understanding is the agent can still work fine for a large number of tools. For a sample use of a list of tools check out Microsoft's visualChatGPT repo  not sure with 1 million… ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "@jksyaw @LangChainAI @FlowiseAI @bubble If the prompts are descriptive and distinguishable from each other, my understanding is the agent can still work fine for a large number of tools. For a sample use of a list of tools check out Microsoft's visualChatGPT repo  not sure with 1 million… ",
+                    "ja": "@jksyaw @LangChainAI @FlowiseAI @bubble プロンプトが説明的で互いに区別できる場合、エージェントは多数のツールでまだ正常に動作すると理解しています。ツールのリストのサンプル使用については、MicrosoftのvisualChatGPTリポジトリをチェックしてください。100万個については確信が持てません...",
+                    "zh-hans": "如果提示信息具有描述性并且彼此之间可以区分，那么我认为代理程序仍然可以适用于大量的工具。如果想要查看一组工具的示例用法，请查看微软的visualChatGPT存储库，但不确定是否适用于100万个工具... @jksyaw @LangChainAI @FlowiseAI @bubble",
+                    "zh-hant": "如果提示具有描述性且彼此可区分，我认为代理仍然可以适用于大量工具。有关工具列表的示例用法，请查看Microsoft的visualChatGPT存储库，不确定是否有100万... @jksyaw @LangChainAI @FlowiseAI @bubble"
+                }
             }
         },
         "Chatbots": {
@@ -3432,6 +3452,28 @@
                     "zh-hans": "以太坊代码库和文档的聊天机器人。",
                     "zh-hant": "以太坊程式碼庫和文件的聊天機器人。"
                 }
+            },
+            "https://github.com/sabber-slt/telegram-chatgpt-bot": {
+                "repository_name": "telegram-chatgpt-bot",
+                "user_name": "sabber-slt",
+                "language": "JavaScript",
+                "license": null,
+                "description": "NodeJS-based bot for ChatGPT that runs on Telegram now features advanced capabilities such as voice chat and image generation.",
+                "topics": [
+                    "chatgpt",
+                    "image-generation",
+                    "nodejs",
+                    "openapi",
+                    "telegraf",
+                    "telegram-bot",
+                    "voice"
+                ],
+                "multilingual_descriptions": {
+                    "en": "NodeJS-based bot for ChatGPT that runs on Telegram now features advanced capabilities such as voice chat and image generation.",
+                    "ja": "Telegramで動作するNodeJSベースのChatGPTボットは、音声チャットや画像生成などの高度な機能を備えています。",
+                    "zh-hans": "基于NodeJS的ChatGPT机器人现在在Telegram上拥有高级功能，如语音聊天和图像生成。",
+                    "zh-hant": "基於NodeJS的ChatGPT機器人現在在Telegram上擁有高級功能，如語音聊天和圖像生成。"
+                }
             }
         },
         "Browser-extensions": {
@@ -5187,6 +5229,53 @@
                     "ja": "ChatGPTの会話をマークダウンファイルとしてエクスポートするためのブラウザブックマークレット。",
                     "zh-hans": "一个用于将ChatGPT对话导出为Markdown文件的浏览器书签工具。",
                     "zh-hant": "一個瀏覽器書籤小工具，可將與ChatGPT的對話匯出為Markdown文件。"
+                }
+            },
+            "https://github.com/debanjandhar12/logseq-chatgpt-plugin": {
+                "repository_name": "logseq-chatgpt-plugin",
+                "user_name": "debanjandhar12",
+                "language": "TypeScript",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "A tightly integrated ChatGPT plugin for Logseq.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A tightly integrated ChatGPT plugin for Logseq.",
+                    "ja": "Logseq用の密接に統合されたChatGPTプラグイン。",
+                    "zh-hans": "一个紧密集成的Logseq聊天插件。",
+                    "zh-hant": "一個緊密集成的Logseq聊天插件。"
+                }
+            },
+            "https://github.com/kurtosis-tech/autogpt-package": {
+                "repository_name": "autogpt-package",
+                "user_name": "kurtosis-tech",
+                "language": "Starlark",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "It's like Auto-GPT met Brew. The easiest and fastest way to get started with AutoGPT with any backend of your choice & whatever plugins you may need",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "auto-gpt",
+                    "autogpt",
+                    "gpt",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "It's like Auto-GPT met Brew. The easiest and fastest way to get started with AutoGPT with any backend of your choice & whatever plugins you may need",
+                    "ja": "それはまるでAuto-GPTがBrewと出会ったようです。あなたが選ぶバックエンドと必要なプラグインを使って、AutoGPTを始めるための最も簡単で最速の方法です。",
+                    "zh-hans": "就像Auto-GPT遇到了Brew一样。使用任何您选择的后端和所需的插件，最简单和最快速的开始使用AutoGPT的方法。",
+                    "zh-hant": "就像Auto-GPT遇到了Brew一樣。使用任何您選擇的後端和您可能需要的任何插件，開始使用AutoGPT的最簡單和最快速的方法。"
                 }
             }
         },
@@ -9354,6 +9443,47 @@
                     "ja": "マルチクラウドおよびSaaS環境の分析を提供するオープンソースのポリシーコードソフトウェアで、OpenAIによって強化された自然言語で洞察を得ることができます。",
                     "zh-hans": "这是一款开源的政策即代码软件，可为多云和SaaS环境提供分析，您可以通过自然语言获得洞察力（由OpenAI提供支持）。",
                     "zh-hant": "這是一款開源的政策即代碼軟件，可為多雲和SaaS環境提供分析，您可以通過自然語言獲得洞察力（由OpenAI提供支持）。"
+                }
+            },
+            "https://github.com/deepset-ai/haystack": {
+                "repository_name": "haystack",
+                "user_name": "deepset-ai",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": ":mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.",
+                "topics": [
+                    "ai",
+                    "bert",
+                    "chatgpt",
+                    "elasticsearch",
+                    "generative-ai",
+                    "gpt-3",
+                    "information-retrieval",
+                    "language-model",
+                    "large-language-models",
+                    "machine-learning",
+                    "natural-language-processing",
+                    "nlp",
+                    "python",
+                    "pytorch",
+                    "question-answering",
+                    "semantic-search",
+                    "squad",
+                    "summarization",
+                    "transfer-learning",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": ":mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.",
+                    "ja": ":mag: Haystackは、TransformerモデルやLLMs（GPT-4、ChatGPTなど）を使用してデータと対話するためのオープンソースのNLPフレームワークです。Haystackは、複雑な質問応答、意味検索、テキスト生成アプリケーションなどを素早く構築するための本番用ツールを提供しています。",
+                    "zh-hans": ":mag: Haystack是一个开源的NLP框架，使用Transformer模型和LLMs（如GPT-4、ChatGPT等）与您的数据进行交互。Haystack提供了生产就绪的工具，快速构建复杂的问答、语义搜索、文本生成应用等。",
+                    "zh-hant": ":mag: Haystack 是一個開源的 NLP 框架，可使用 Transformer 模型和 LLM（GPT-4、ChatGPT 等）與您的數據進行交互。Haystack 提供了生產就緒的工具，可以快速構建複雜的問答、語義搜索、文本生成應用等。"
                 }
             }
         },
@@ -15670,6 +15800,49 @@
                     "ja": "オブシディアンの中のChatGPTコパイロット",
                     "zh-hans": "黑曜石中的ChatGPT副驾驶员",
                     "zh-hant": "黑曜石中的ChatGPT副駕駛員"
+                }
+            },
+            "https://github.com/alaeddine-13/thinkgpt": {
+                "repository_name": "thinkgpt",
+                "user_name": "alaeddine-13",
+                "language": "Python",
+                "license": null,
+                "description": "Tunisair App REST API",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "API for the Tunisair mobile application using REST architecture.",
+                    "ja": "チュニジア航空アプリのREST API",
+                    "zh-hans": "突尼斯航空公司应用程序REST API",
+                    "zh-hant": "突尼西亞航空公司應用程式 REST API"
+                }
+            },
+            "https://github.com/miurla/babyagi-ui": {
+                "repository_name": "babyagi-ui",
+                "user_name": "miurla",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.",
+                "topics": [
+                    "agent",
+                    "babyagi",
+                    "langchain-js",
+                    "nextjs",
+                    "openai-api",
+                    "pinecone",
+                    "radix-ui",
+                    "tailwindcss"
+                ],
+                "multilingual_descriptions": {
+                    "en": "BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.",
+                    "ja": "BabyAGI UIは、ChatGPTのようなWebアプリでのBabyAGIの実行と開発をより簡単にするために設計されています。",
+                    "zh-hans": "BabyAGI UI旨在使在Web应用程序中运行和开发BabyAGI（类似于ChatGPT）更加容易。",
+                    "zh-hant": "BabyAGI UI 的設計旨在使在 Web 應用程序中運行和開發 BabyAGI 變得更加容易，就像 ChatGPT 一樣。"
                 }
             }
         }
