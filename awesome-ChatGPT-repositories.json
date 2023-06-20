@@ -5277,6 +5277,38 @@
                     "zh-hans": "就像Auto-GPT遇到了Brew一样。使用任何您选择的后端和所需的插件，最简单和最快速的开始使用AutoGPT的方法。",
                     "zh-hant": "就像Auto-GPT遇到了Brew一樣。使用任何您選擇的後端和您可能需要的任何插件，開始使用AutoGPT的最簡單和最快速的方法。"
                 }
+            },
+            "https://github.com/robert-hoffmann/powertoys4openai": {
+                "repository_name": "PowerToys4OpenAI",
+                "user_name": "robert-hoffmann",
+                "language": "TypeScript",
+                "license": null,
+                "description": "GPT chat extension for Chrome, Edge, and Opera. Direct integration with search results. Full chat interface with history management. No server needed & cost effective.",
+                "topics": [
+                    "ai",
+                    "browser-extension",
+                    "chatbot",
+                    "chatgpt-api",
+                    "chrome-extension",
+                    "gpt-3",
+                    "gpt-3-5-turbo",
+                    "gpt-4",
+                    "gpt3",
+                    "gpt4",
+                    "openai",
+                    "openai-api",
+                    "quasar",
+                    "quasar-framework",
+                    "typescript",
+                    "vue3",
+                    "vuejs"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GPT chat extension for Chrome, Edge, and Opera. Direct integration with search results. Full chat interface with history management. No server needed & cost effective.",
+                    "ja": "Chrome、Edge、Opera用のGPTチャット拡張機能。検索結果との直接統合。履歴管理付きの完全なチャットインターフェース。サーバー不要でコスト効果的。",
+                    "zh-hans": "Chrome、Edge和Opera的GPT聊天扩展。与搜索结果直接集成。完整的聊天界面和历史记录管理。无需服务器，成本效益高。",
+                    "zh-hant": "Chrome、Edge 和 Opera 的 GPT 聊天擴展。直接與搜索結果集成。完整的聊天界面，具有歷史管理功能。無需服務器，成本效益高。"
+                }
             }
         },
         "CLIs": {
@@ -6649,6 +6681,42 @@
                     "ja": "Pythonで書かれたターミナルでopenAIのchatGPTを呼び出すためのシンプルなラッパー",
                     "zh-hans": "一个简单的Python包装器，可在终端上调用openAI的chatGPT。",
                     "zh-hant": "一個簡單的Python封裝程式，可在終端上調用openAI的chatGPT。"
+                }
+            },
+            "https://github.com/alibaba/chat2db": {
+                "repository_name": "Chat2DB",
+                "user_name": "alibaba",
+                "language": "Java",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "datagrip",
+                    "dbeaver",
+                    "electron",
+                    "gpt",
+                    "java",
+                    "mysql",
+                    "navicat",
+                    "oracle",
+                    "postgresql",
+                    "redis",
+                    "sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
+                    "ja": "🔥 🔥 🔥 チャットGPT機能を統合した、データベース用の知的で多目的な汎用SQLクライアントおよびレポートツール。",
+                    "zh-hans": "🔥 🔥 🔥 一款智能、多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。",
+                    "zh-hant": "🔥 🔥 🔥 一個智能且多功能的通用SQL客戶端和報表工具，可整合ChatGPT功能。"
                 }
             }
         },
@@ -15843,6 +15911,46 @@
                     "ja": "BabyAGI UIは、ChatGPTのようなWebアプリでのBabyAGIの実行と開発をより簡単にするために設計されています。",
                     "zh-hans": "BabyAGI UI旨在使在Web应用程序中运行和开发BabyAGI（类似于ChatGPT）更加容易。",
                     "zh-hant": "BabyAGI UI 的設計旨在使在 Web 應用程序中運行和開發 BabyAGI 變得更加容易，就像 ChatGPT 一樣。"
+                }
+            },
+            "https://github.com/easychen/gpt4company": {
+                "repository_name": "GPT4Company",
+                "user_name": "easychen",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Gpt4Company is a request forwarder used to prevent Samsung-style leaks. Gpt4Company 是一个用来避免三星式泄密的请求转发器",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Gpt4Company is a request forwarder used to prevent Samsung-style leaks. Gpt4Company 是一个用来避免三星式泄密的请求转发器",
+                    "ja": "Gpt4Companyは、Samsungのような情報漏洩を防止するために使用されるリクエストフォワーダーです。",
+                    "zh-hans": "Gpt4Company是一个用来防止三星式泄密的请求转发器。",
+                    "zh-hant": "Gpt4Company 是一個用來避免三星式洩漏的請求轉發器。"
+                }
+            },
+            "https://github.com/linux-china/chatgpt-spring-boot-starter": {
+                "repository_name": "chatgpt-spring-boot-starter",
+                "user_name": "linux-china",
+                "language": "Java",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Spring Boot ChatGPT Starter",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Spring Boot ChatGPT Starter",
+                    "ja": "Spring Boot ChatGPT スターター",
+                    "zh-hans": "Spring Boot ChatGPT 起始器",
+                    "zh-hant": "Spring Boot ChatGPT 開始者"
                 }
             }
         }

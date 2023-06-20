@@ -16,29 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble If the prompts are descriptive and distinguishable from each other, my understanding is the agent can still work fine for a large number of tools. For a sample use of a list of tools check out Microsoft's visualChatGPT repo  not sure with 1 million… 
-
-
-**Chatbots**
- * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - NodeJS-based bot for ChatGPT that runs on Telegram now features advanced capabilities such as voice chat and image generation.
-
-
 **Browser-extensions**
- * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - A tightly integrated ChatGPT plugin for Logseq.
- * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - It's like Auto-GPT met Brew. The easiest and fastest way to get started with AutoGPT with any backend of your choice & whatever plugins you may need
+ * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - GPT chat extension for Chrome, Edge, and Opera. Direct integration with search results. Full chat interface with history management. No server needed & cost effective.
 
 
-**NLP**
- * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.
+**CLIs**
+ * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 
 
 **Others**
- * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - API for the Tunisair mobile application using REST architecture.
- * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
+ * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Company is a request forwarder used to prevent Samsung-style leaks. Gpt4Company 是一个用来避免三星式泄密的请求转发器
+ * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
 
 
-_Updated on June 19, 2023_ (A total of 819 repositories listed.)
+_Updated on June 21, 2023_ (A total of 823 repositories listed.)
 
 ## Table of contents
 
@@ -531,6 +522,7 @@ _Updated on June 19, 2023_ (A total of 819 repositories listed.)
  * [chatgpt-export](https://github.com/yaph/chatgpt-export) - A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
  * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - A tightly integrated ChatGPT plugin for Logseq.
  * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - It's like Auto-GPT met Brew. The easiest and fastest way to get started with AutoGPT with any backend of your choice & whatever plugins you may need
+ * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - GPT chat extension for Chrome, Edge, and Opera. Direct integration with search results. Full chat interface with history management. No server needed & cost effective.
 
 
 |Name|GitHub Stars|Language|License|
@@ -627,6 +619,7 @@ _Updated on June 19, 2023_ (A total of 819 repositories listed.)
 |[chatgpt-export](https://github.com/yaph/chatgpt-export)|![GitHub Repo stars](https://img.shields.io/github/stars/yaph/chatgpt-export?style=social)|JavaScript|mit|
 |[logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/debanjandhar12/logseq-chatgpt-plugin?style=social)|TypeScript|agpl-3.0|
 |[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
+|[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
 
 
 ## CLIs
@@ -699,6 +692,7 @@ _Updated on June 19, 2023_ (A total of 819 repositories listed.)
  * [OpenAIR](https://github.com/umatter/openair) - OpenAI R client
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务 \ Own your own ChatGPT+Midjourney web service with one click
  * [termGPT](https://github.com/tcapelle/termgpt) - A simple wrapper to call openAI's chatGPT on the terminal written in Python
+ * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 
 
 |Name|GitHub Stars|Language|License|
@@ -771,6 +765,7 @@ _Updated on June 19, 2023_ (A total of 819 repositories listed.)
 |[OpenAIR](https://github.com/umatter/openair)|![GitHub Repo stars](https://img.shields.io/github/stars/umatter/OpenAIR?style=social)|R|other|
 |[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
 |[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
+|[Chat2DB](https://github.com/alibaba/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/Chat2DB?style=social)|Java|apache-2.0|
 
 
 ## Reimplementations
@@ -1600,6 +1595,8 @@ _Updated on June 19, 2023_ (A total of 819 repositories listed.)
  * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - A ChatGPT Copilot in Obsidian
  * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - API for the Tunisair mobile application using REST architecture.
  * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
+ * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Company is a request forwarder used to prevent Samsung-style leaks. Gpt4Company 是一个用来避免三星式泄密的请求转发器
+ * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
 
 
 |Name|GitHub Stars|Language|License|
@@ -1813,5 +1810,7 @@ _Updated on June 19, 2023_ (A total of 819 repositories listed.)
 |[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
 |[thinkgpt](https://github.com/alaeddine-13/thinkgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)|Python|-|
 |[babyagi-ui](https://github.com/miurla/babyagi-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)|TypeScript|mit|
+|[GPT4Company](https://github.com/easychen/gpt4company)|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/GPT4Company?style=social)|JavaScript|mit|
+|[chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter)|![GitHub Repo stars](https://img.shields.io/github/stars/linux-china/chatgpt-spring-boot-starter?style=social)|Java|apache-2.0|
 
 

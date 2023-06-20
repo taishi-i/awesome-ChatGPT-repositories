@@ -15,29 +15,20 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble プロンプトが説明的で互いに区別できる場合、エージェントは多数のツールでまだ正常に動作すると理解しています。ツールのリストのサンプル使用については、MicrosoftのvisualChatGPTリポジトリをチェックしてください。100万個については確信が持てません...
-
-
-**Chatbots**
- * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - Telegramで動作するNodeJSベースのChatGPTボットは、音声チャットや画像生成などの高度な機能を備えています。
-
-
 **Browser-extensions**
- * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - Logseq用の密接に統合されたChatGPTプラグイン。
- * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - それはまるでAuto-GPTがBrewと出会ったようです。あなたが選ぶバックエンドと必要なプラグインを使って、AutoGPTを始めるための最も簡単で最速の方法です。
+ * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge、Opera用のGPTチャット拡張機能。検索結果との直接統合。履歴管理付きの完全なチャットインターフェース。サーバー不要でコスト効果的。
 
 
-**NLP**
- * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystackは、TransformerモデルやLLMs（GPT-4、ChatGPTなど）を使用してデータと対話するためのオープンソースのNLPフレームワークです。Haystackは、複雑な質問応答、意味検索、テキスト生成アプリケーションなどを素早く構築するための本番用ツールを提供しています。
+**CLIs**
+ * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 チャットGPT機能を統合した、データベース用の知的で多目的な汎用SQLクライアントおよびレポートツール。
 
 
 **Others**
- * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - チュニジア航空アプリのREST API
- * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UIは、ChatGPTのようなWebアプリでのBabyAGIの実行と開発をより簡単にするために設計されています。
+ * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Companyは、Samsungのような情報漏洩を防止するために使用されるリクエストフォワーダーです。
+ * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT スターター
 
 
-_Updated on June 19, 2023_ (A total of 819 repositories listed.)
+_Updated on June 21, 2023_ (A total of 823 repositories listed.)
 
 ## Table of contents
 
@@ -537,6 +528,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [chatgpt-export](https://github.com/yaph/chatgpt-export) - ChatGPTの会話をマークダウンファイルとしてエクスポートするためのブラウザブックマークレット。
  * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - Logseq用の密接に統合されたChatGPTプラグイン。
  * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - それはまるでAuto-GPTがBrewと出会ったようです。あなたが選ぶバックエンドと必要なプラグインを使って、AutoGPTを始めるための最も簡単で最速の方法です。
+ * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge、Opera用のGPTチャット拡張機能。検索結果との直接統合。履歴管理付きの完全なチャットインターフェース。サーバー不要でコスト効果的。
 
 
 |Name|GitHub Stars|Language|License|
@@ -633,6 +625,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[chatgpt-export](https://github.com/yaph/chatgpt-export)|![GitHub Repo stars](https://img.shields.io/github/stars/yaph/chatgpt-export?style=social)|JavaScript|mit|
 |[logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/debanjandhar12/logseq-chatgpt-plugin?style=social)|TypeScript|agpl-3.0|
 |[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
+|[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
 
 
 ## CLIs
@@ -705,6 +698,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [OpenAIR](https://github.com/umatter/openair) - OpenAI Rクライアント
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一クリックで自分のChatGPT+Midjourneyウェブサービスを所有してください。
  * [termGPT](https://github.com/tcapelle/termgpt) - Pythonで書かれたターミナルでopenAIのchatGPTを呼び出すためのシンプルなラッパー
+ * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 チャットGPT機能を統合した、データベース用の知的で多目的な汎用SQLクライアントおよびレポートツール。
 
 
 |Name|GitHub Stars|Language|License|
@@ -777,6 +771,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[OpenAIR](https://github.com/umatter/openair)|![GitHub Repo stars](https://img.shields.io/github/stars/umatter/OpenAIR?style=social)|R|other|
 |[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
 |[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
+|[Chat2DB](https://github.com/alibaba/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/Chat2DB?style=social)|Java|apache-2.0|
 
 
 ## Reimplementations
@@ -1611,6 +1606,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - オブシディアンの中のChatGPTコパイロット
  * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - チュニジア航空アプリのREST API
  * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UIは、ChatGPTのようなWebアプリでのBabyAGIの実行と開発をより簡単にするために設計されています。
+ * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Companyは、Samsungのような情報漏洩を防止するために使用されるリクエストフォワーダーです。
+ * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT スターター
 
 
 |Name|GitHub Stars|Language|License|
@@ -1824,5 +1821,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
 |[thinkgpt](https://github.com/alaeddine-13/thinkgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)|Python|-|
 |[babyagi-ui](https://github.com/miurla/babyagi-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)|TypeScript|mit|
+|[GPT4Company](https://github.com/easychen/gpt4company)|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/GPT4Company?style=social)|JavaScript|mit|
+|[chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter)|![GitHub Repo stars](https://img.shields.io/github/stars/linux-china/chatgpt-spring-boot-starter?style=social)|Java|apache-2.0|
 
 
