@@ -15,29 +15,20 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble 如果提示是描述性的,可以区分彼此,我的理解是代理仍然可以对大量工具工作. 为了使用工具列表的示例,请查看微软的视觉ChatGPT repo 不确定有100万... 
-
-
-**Chatbots**
- * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - 基于NodeJS的ChatGPT机器人现在可以运行在Telegram上,
-
-
 **Browser-extensions**
- * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - 一个紧密集成的ChatGPT插件,用于Logseq.
- * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - 这就像Auto-GPT遇到了Brew. 最简单,最快的方法开始使用AutoGPT,使用任何您选择的后端和您可能需要的任何插件
+ * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - 对于Chrome,Edge和Opera,GPT聊天扩展.与搜索结果直接集成. 具有历史管理的完整聊天界面.无需服务器,成本有效.
 
 
-**NLP**
- * [haystack](https://github.com/deepset-ai/haystack) - :mag:Haystack是一个开源NLP框架,可以使用变换模型和LLM (GPT-4,ChatGPT等) 与您的数据交互.Haystack提供了生产准备的工具,可以快速构建复杂的问题答案,语义搜索,文本生成应用程序等.
+**CLIs**
+ * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 智能通用数据库SQL客户端和报表工具.
 
 
 **Others**
- * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - 突尼斯航空应用程序REST API
- * [babyagi-ui](https://github.com/miurla/babyagi-ui) - 设计的目的是让它更容易运行和开发在web应用程序中,比如ChatGPT.
+ * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Company是一个用于防止三星式泄密的请求转发器.
+ * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - 春季启动ChatGPT启动器
 
 
-_Updated on June 19, 2023_ (A total of 819 repositories listed.)
+_Updated on June 21, 2023_ (A total of 823 repositories listed.)
 
 ## Table of contents
 
@@ -532,6 +523,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-export](https://github.com/yaph/chatgpt-export) - 一个用于将ChatGPT对话导出为Markdown文件的浏览器书签工具。
  * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - 一个紧密集成的Logseq聊天插件。
  * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - 就像Auto-GPT遇到了Brew一样。使用任何您选择的后端和所需的插件，最简单和最快速的开始使用AutoGPT的方法。
+ * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge和Opera的GPT聊天扩展。与搜索结果直接集成。完整的聊天界面和历史记录管理。无需服务器，成本效益高。
 
 
 |Name|GitHub Stars|Language|License|
@@ -628,6 +620,7 @@ ChatGPT资料汇总学习，持续更新......
 |[chatgpt-export](https://github.com/yaph/chatgpt-export)|![GitHub Repo stars](https://img.shields.io/github/stars/yaph/chatgpt-export?style=social)|JavaScript|mit|
 |[logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/debanjandhar12/logseq-chatgpt-plugin?style=social)|TypeScript|agpl-3.0|
 |[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
+|[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
 
 
 ## CLIs
@@ -703,6 +696,7 @@ ChatGPT资料汇总学习，持续更新......
  * [OpenAIR](https://github.com/umatter/openair) - OpenAI R客户端
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务
  * [termGPT](https://github.com/tcapelle/termgpt) - 一个简单的Python包装器，可在终端上调用openAI的chatGPT。
+ * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 一款智能、多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。
 
 
 |Name|GitHub Stars|Language|License|
@@ -775,6 +769,7 @@ ChatGPT资料汇总学习，持续更新......
 |[OpenAIR](https://github.com/umatter/openair)|![GitHub Repo stars](https://img.shields.io/github/stars/umatter/OpenAIR?style=social)|R|other|
 |[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
 |[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
+|[Chat2DB](https://github.com/alibaba/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/Chat2DB?style=social)|Java|apache-2.0|
 
 
 ## Reimplementations
@@ -1621,6 +1616,8 @@ Chat酱独立部署版，docker方案自带代理
  * [obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - 黑曜石中的ChatGPT副驾驶员
  * [thinkgpt](https://github.com/alaeddine-13/thinkgpt) - 突尼斯航空公司应用程序REST API
  * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI旨在使在Web应用程序中运行和开发BabyAGI（类似于ChatGPT）更加容易。
+ * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Company是一个用来防止三星式泄密的请求转发器。
+ * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT 起始器
 
 
 |Name|GitHub Stars|Language|License|
@@ -1834,5 +1831,7 @@ Chat酱独立部署版，docker方案自带代理
 |[obsidian-copilot](https://github.com/logancyang/obsidian-copilot)|![GitHub Repo stars](https://img.shields.io/github/stars/logancyang/obsidian-copilot?style=social)|TypeScript|agpl-3.0|
 |[thinkgpt](https://github.com/alaeddine-13/thinkgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/alaeddine-13/thinkgpt?style=social)|Python|-|
 |[babyagi-ui](https://github.com/miurla/babyagi-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)|TypeScript|mit|
+|[GPT4Company](https://github.com/easychen/gpt4company)|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/GPT4Company?style=social)|JavaScript|mit|
+|[chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter)|![GitHub Repo stars](https://img.shields.io/github/stars/linux-china/chatgpt-spring-boot-starter?style=social)|Java|apache-2.0|
 
 
