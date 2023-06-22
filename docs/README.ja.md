@@ -15,20 +15,22 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge、Opera用のGPTチャット拡張機能。検索結果との直接統合。履歴管理付きの完全なチャットインターフェース。サーバー不要でコスト効果的。
+**Prompts**
+ * [GPTWorld](https://github.com/srush/gptworld) - 促進について学ぶためのパズル
 
 
-**CLIs**
- * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 チャットGPT機能を統合した、データベース用の知的で多目的な汎用SQLクライアントおよびレポートツール。
+**Chatbots**
+ * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 Pythonで書かれた、OpenAIの公式ChatGPT APIと統合して回答を提供するTelegramボット。
+ * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - Vercel Labsによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
 
 
 **Others**
- * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Companyは、Samsungのような情報漏洩を防止するために使用されるリクエストフォワーダーです。
- * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT スターター
+ * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - チャットはNucleiテンプレート生成を自動化します。
+ * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [プレビュー] AOAIを通じてchatGPTをターゲットにしたシンプルなWebチャット体験のサンプルコード。
+ * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4はニューラルアーキテクチャサーチを実行できるか？
 
 
-_Updated on June 21, 2023_ (A total of 823 repositories listed.)
+_Updated on June 23, 2023_ (A total of 829 repositories listed.)
 
 ## Table of contents
 
@@ -156,6 +158,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLMアプリケーション。チュータリングのタスクに対するダイナミックなフューショットメタプロンプティング。
  * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - ChatGPTでプレイ可能なゲームのプロンプト
  * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble プロンプトが説明的で互いに区別できる場合、エージェントは多数のツールでまだ正常に動作すると理解しています。ツールのリストのサンプル使用については、MicrosoftのvisualChatGPTリポジトリをチェックしてください。100万個については確信が持てません...
+ * [GPTWorld](https://github.com/srush/gptworld) - 促進について学ぶためのパズル
 
 
 |Name|GitHub Stars|Language|License|
@@ -217,6 +220,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
 |[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/admtal/chat-gpt-games?style=social)|-|apache-2.0|
 |[TaskMatrix](https://github.com/microsoft/taskmatrix)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskMatrix?style=social)|Python|mit|
+|[GPTWorld](https://github.com/srush/gptworld)|![GitHub Repo stars](https://img.shields.io/github/stars/srush/GPTWorld?style=social)|Jupyter Notebook|mit|
 
 
 ## Chatbots
@@ -326,6 +330,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [LLaVA-Med](https://github.com/microsoft/llava-med) - バイオメディシン向けの大規模言語・ビジョンアシスタントで、マルチモーダルなGPT-4レベルの機能に向けて構築されました。
  * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Ethereumのコードベースとドキュメントのためのチャットボット。
  * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - Telegramで動作するNodeJSベースのChatGPTボットは、音声チャットや画像生成などの高度な機能を備えています。
+ * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 Pythonで書かれた、OpenAIの公式ChatGPT APIと統合して回答を提供するTelegramボット。
+ * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - Vercel Labsによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
 
 
 |Name|GitHub Stars|Language|License|
@@ -432,6 +438,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
 |[ethgpt](https://github.com/jiayaoqijia/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jiayaoqijia/ethgpt?style=social)|Shell|-|
 |[telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/sabber-slt/telegram-chatgpt-bot?style=social)|JavaScript|-|
+|[chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/n3d1117/chatgpt-telegram-bot?style=social)|Python|gpl-2.0|
+|[ai-chatbot](https://github.com/vercel-labs/ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)|TypeScript|other|
 
 
 ## Browser-extensions
@@ -1608,6 +1616,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UIは、ChatGPTのようなWebアプリでのBabyAGIの実行と開発をより簡単にするために設計されています。
  * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Companyは、Samsungのような情報漏洩を防止するために使用されるリクエストフォワーダーです。
  * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT スターター
+ * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - チャットはNucleiテンプレート生成を自動化します。
+ * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [プレビュー] AOAIを通じてchatGPTをターゲットにしたシンプルなWebチャット体験のサンプルコード。
+ * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4はニューラルアーキテクチャサーチを実行できるか？
 
 
 |Name|GitHub Stars|Language|License|
@@ -1823,5 +1834,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[babyagi-ui](https://github.com/miurla/babyagi-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)|TypeScript|mit|
 |[GPT4Company](https://github.com/easychen/gpt4company)|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/GPT4Company?style=social)|JavaScript|mit|
 |[chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter)|![GitHub Repo stars](https://img.shields.io/github/stars/linux-china/chatgpt-spring-boot-starter?style=social)|Java|apache-2.0|
+|[nuclei_gpt](https://github.com/sf197/nuclei_gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sf197/nuclei_gpt?style=social)|Python|-|
+|[sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sample-app-aoai-chatGPT?style=social)|Python|mit|
+|[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
 
 
