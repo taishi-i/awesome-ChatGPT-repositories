@@ -15,20 +15,22 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - 对于Chrome,Edge和Opera,GPT聊天扩展.与搜索结果直接集成. 具有历史管理的完整聊天界面.无需服务器,成本有效.
+**Prompts**
+ * [GPTWorld](https://github.com/srush/gptworld) - 一个关于提示的难题
 
 
-**CLIs**
- * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 智能通用数据库SQL客户端和报表工具.
+**Chatbots**
+ * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) -  一个用Python编写的 Telegram bot,与OpenAI官方的ChatGPT API集成,提供答案
+ * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - 由Vercel实验室开发的全功能,可被黑客攻击的Next.js AI聊天机器人
 
 
 **Others**
- * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Company是一个用于防止三星式泄密的请求转发器.
- * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - 春季启动ChatGPT启动器
+ * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - 聊天自动生成Nuclei模板
+ * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - 通过AOAI实现简单的网络聊天体验.
+ * [GENIUS](https://github.com/mingkai-zheng/genius) - 能否执行神经架构搜索?
 
 
-_Updated on June 21, 2023_ (A total of 823 repositories listed.)
+_Updated on June 23, 2023_ (A total of 829 repositories listed.)
 
 ## Table of contents
 
@@ -153,6 +155,7 @@ ChatGPT资料汇总学习，持续更新......
  * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM 应用程序。针对辅导任务的动态少量样本元提示。
  * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - 在ChatGPT中可玩游戏的提示
  * [TaskMatrix](https://github.com/microsoft/taskmatrix) - 如果提示信息具有描述性并且彼此之间可以区分，那么我认为代理程序仍然可以适用于大量的工具。如果想要查看一组工具的示例用法，请查看微软的visualChatGPT存储库，但不确定是否适用于100万个工具... @jksyaw @LangChainAI @FlowiseAI @bubble
+ * [GPTWorld](https://github.com/srush/gptworld) - 一个学习提示的谜题
 
 
 |Name|GitHub Stars|Language|License|
@@ -214,6 +217,7 @@ ChatGPT资料汇总学习，持续更新......
 |[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
 |[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/admtal/chat-gpt-games?style=social)|-|apache-2.0|
 |[TaskMatrix](https://github.com/microsoft/taskmatrix)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskMatrix?style=social)|Python|mit|
+|[GPTWorld](https://github.com/srush/gptworld)|![GitHub Repo stars](https://img.shields.io/github/stars/srush/GPTWorld?style=social)|Jupyter Notebook|mit|
 
 
 ## Chatbots
@@ -320,6 +324,8 @@ ChatGPT资料汇总学习，持续更新......
  * [LLaVA-Med](https://github.com/microsoft/llava-med) - 面向生物医学的大型语言与视觉助手，具备多模态GPT-4级别的能力。
  * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - 以太坊代码库和文档的聊天机器人。
  * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - 基于NodeJS的ChatGPT机器人现在在Telegram上拥有高级功能，如语音聊天和图像生成。
+ * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 一个使用Python编写的Telegram机器人，集成了OpenAI官方的ChatGPT API，可以提供答案。
+ * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - 由Vercel Labs构建的全功能、可黑客的Next.js AI聊天机器人
 
 
 |Name|GitHub Stars|Language|License|
@@ -426,6 +432,8 @@ ChatGPT资料汇总学习，持续更新......
 |[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
 |[ethgpt](https://github.com/jiayaoqijia/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jiayaoqijia/ethgpt?style=social)|Shell|-|
 |[telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/sabber-slt/telegram-chatgpt-bot?style=social)|JavaScript|-|
+|[chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/n3d1117/chatgpt-telegram-bot?style=social)|Python|gpl-2.0|
+|[ai-chatbot](https://github.com/vercel-labs/ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)|TypeScript|other|
 
 
 ## Browser-extensions
@@ -1618,6 +1626,9 @@ Chat酱独立部署版，docker方案自带代理
  * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI旨在使在Web应用程序中运行和开发BabyAGI（类似于ChatGPT）更加容易。
  * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Company是一个用来防止三星式泄密的请求转发器。
  * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT 起始器
+ * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - 聊天自动化生成Nuclei模板
+ * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [预览] 通过AOAI针对chatGPT的简单网络聊天体验的示例代码。
+ * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4能进行神经架构搜索吗？
 
 
 |Name|GitHub Stars|Language|License|
@@ -1833,5 +1844,8 @@ Chat酱独立部署版，docker方案自带代理
 |[babyagi-ui](https://github.com/miurla/babyagi-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)|TypeScript|mit|
 |[GPT4Company](https://github.com/easychen/gpt4company)|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/GPT4Company?style=social)|JavaScript|mit|
 |[chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter)|![GitHub Repo stars](https://img.shields.io/github/stars/linux-china/chatgpt-spring-boot-starter?style=social)|Java|apache-2.0|
+|[nuclei_gpt](https://github.com/sf197/nuclei_gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sf197/nuclei_gpt?style=social)|Python|-|
+|[sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sample-app-aoai-chatGPT?style=social)|Python|mit|
+|[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
 
 

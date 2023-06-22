@@ -16,20 +16,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - GPT chat extension for Chrome, Edge, and Opera. Direct integration with search results. Full chat interface with history management. No server needed & cost effective.
+**Prompts**
+ * [GPTWorld](https://github.com/srush/gptworld) - A puzzle to learn about prompting
 
 
-**CLIs**
- * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+**Chatbots**
+ * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
+ * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 
 
 **Others**
- * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Company is a request forwarder used to prevent Samsung-style leaks. Gpt4Company 是一个用来避免三星式泄密的请求转发器
- * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
+ * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - Chat automates Nuclei template generation
+ * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.
+ * [GENIUS](https://github.com/mingkai-zheng/genius) - Can GPT-4 Perform Neural Architecture Search?
 
 
-_Updated on June 21, 2023_ (A total of 823 repositories listed.)
+_Updated on June 23, 2023_ (A total of 829 repositories listed.)
 
 ## Table of contents
 
@@ -153,6 +155,7 @@ _Updated on June 21, 2023_ (A total of 823 repositories listed.)
  * [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic few-shot metaprompting for the task of tutoring. 
  * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - Prompts for playable games in ChatGPT
  * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble If the prompts are descriptive and distinguishable from each other, my understanding is the agent can still work fine for a large number of tools. For a sample use of a list of tools check out Microsoft's visualChatGPT repo  not sure with 1 million… 
+ * [GPTWorld](https://github.com/srush/gptworld) - A puzzle to learn about prompting
 
 
 |Name|GitHub Stars|Language|License|
@@ -214,6 +217,7 @@ _Updated on June 21, 2023_ (A total of 823 repositories listed.)
 |[tutor-gpt](https://github.com/plastic-labs/tutor-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)|Python|mit|
 |[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/admtal/chat-gpt-games?style=social)|-|apache-2.0|
 |[TaskMatrix](https://github.com/microsoft/taskmatrix)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskMatrix?style=social)|Python|mit|
+|[GPTWorld](https://github.com/srush/gptworld)|![GitHub Repo stars](https://img.shields.io/github/stars/srush/GPTWorld?style=social)|Jupyter Notebook|mit|
 
 
 ## Chatbots
@@ -320,6 +324,8 @@ _Updated on June 21, 2023_ (A total of 823 repositories listed.)
  * [LLaVA-Med](https://github.com/microsoft/llava-med) - Large Language-and-Vision Assistant for BioMedicine, built towards multimodal GPT-4 level capabilities.
  * [ethgpt](https://github.com/jiayaoqijia/ethgpt) - Chatbot for Ethereum codebase and docs.
  * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - NodeJS-based bot for ChatGPT that runs on Telegram now features advanced capabilities such as voice chat and image generation.
+ * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
+ * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 
 
 |Name|GitHub Stars|Language|License|
@@ -426,6 +432,8 @@ _Updated on June 21, 2023_ (A total of 823 repositories listed.)
 |[LLaVA-Med](https://github.com/microsoft/llava-med)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/LLaVA-Med?style=social)|-|mit|
 |[ethgpt](https://github.com/jiayaoqijia/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/jiayaoqijia/ethgpt?style=social)|Shell|-|
 |[telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/sabber-slt/telegram-chatgpt-bot?style=social)|JavaScript|-|
+|[chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/n3d1117/chatgpt-telegram-bot?style=social)|Python|gpl-2.0|
+|[ai-chatbot](https://github.com/vercel-labs/ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)|TypeScript|other|
 
 
 ## Browser-extensions
@@ -1597,6 +1605,9 @@ _Updated on June 21, 2023_ (A total of 823 repositories listed.)
  * [babyagi-ui](https://github.com/miurla/babyagi-ui) - BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
  * [GPT4Company](https://github.com/easychen/gpt4company) - Gpt4Company is a request forwarder used to prevent Samsung-style leaks. Gpt4Company 是一个用来避免三星式泄密的请求转发器
  * [chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter) - Spring Boot ChatGPT Starter
+ * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - Chat automates Nuclei template generation
+ * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.
+ * [GENIUS](https://github.com/mingkai-zheng/genius) - Can GPT-4 Perform Neural Architecture Search?
 
 
 |Name|GitHub Stars|Language|License|
@@ -1812,5 +1823,8 @@ _Updated on June 21, 2023_ (A total of 823 repositories listed.)
 |[babyagi-ui](https://github.com/miurla/babyagi-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/miurla/babyagi-ui?style=social)|TypeScript|mit|
 |[GPT4Company](https://github.com/easychen/gpt4company)|![GitHub Repo stars](https://img.shields.io/github/stars/easychen/GPT4Company?style=social)|JavaScript|mit|
 |[chatgpt-spring-boot-starter](https://github.com/linux-china/chatgpt-spring-boot-starter)|![GitHub Repo stars](https://img.shields.io/github/stars/linux-china/chatgpt-spring-boot-starter?style=social)|Java|apache-2.0|
+|[nuclei_gpt](https://github.com/sf197/nuclei_gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sf197/nuclei_gpt?style=social)|Python|-|
+|[sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sample-app-aoai-chatGPT?style=social)|Python|mit|
+|[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
 
 

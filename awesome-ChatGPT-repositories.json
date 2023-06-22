@@ -1440,6 +1440,28 @@
                     "zh-hans": "如果提示信息具有描述性并且彼此之间可以区分，那么我认为代理程序仍然可以适用于大量的工具。如果想要查看一组工具的示例用法，请查看微软的visualChatGPT存储库，但不确定是否适用于100万个工具... @jksyaw @LangChainAI @FlowiseAI @bubble",
                     "zh-hant": "如果提示具有描述性且彼此可区分，我认为代理仍然可以适用于大量工具。有关工具列表的示例用法，请查看Microsoft的visualChatGPT存储库，不确定是否有100万... @jksyaw @LangChainAI @FlowiseAI @bubble"
                 }
+            },
+            "https://github.com/srush/gptworld": {
+                "repository_name": "GPTWorld",
+                "user_name": "srush",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A puzzle to learn about prompting",
+                "topics": [
+                    "puzzles"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A puzzle to learn about prompting",
+                    "ja": "促進について学ぶためのパズル",
+                    "zh-hans": "一个学习提示的谜题",
+                    "zh-hant": "一個學習提示的拼圖"
+                }
             }
         },
         "Chatbots": {
@@ -3473,6 +3495,63 @@
                     "ja": "Telegramで動作するNodeJSベースのChatGPTボットは、音声チャットや画像生成などの高度な機能を備えています。",
                     "zh-hans": "基于NodeJS的ChatGPT机器人现在在Telegram上拥有高级功能，如语音聊天和图像生成。",
                     "zh-hant": "基於NodeJS的ChatGPT機器人現在在Telegram上擁有高級功能，如語音聊天和圖像生成。"
+                }
+            },
+            "https://github.com/n3d1117/chatgpt-telegram-bot": {
+                "repository_name": "chatgpt-telegram-bot",
+                "user_name": "n3d1117",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-2.0",
+                    "name": "GNU General Public License v2.0",
+                    "spdx_id": "GPL-2.0",
+                    "url": "https://api.github.com/licenses/gpl-2.0",
+                    "node_id": "MDc6TGljZW5zZTg="
+                },
+                "description": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
+                "topics": [
+                    "chatgpt",
+                    "dall-e",
+                    "openai",
+                    "python",
+                    "telegram-bot",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
+                    "ja": "🤖 Pythonで書かれた、OpenAIの公式ChatGPT APIと統合して回答を提供するTelegramボット。",
+                    "zh-hans": "🤖 一个使用Python编写的Telegram机器人，集成了OpenAI官方的ChatGPT API，可以提供答案。",
+                    "zh-hant": "🤖 一個與OpenAI官方ChatGPT API整合的Telegram機器人，使用Python編寫的答案提供者。"
+                }
+            },
+            "https://github.com/vercel-labs/ai-chatbot": {
+                "repository_name": "ai-chatbot",
+                "user_name": "vercel-labs",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "A full-featured, hackable Next.js AI chatbot built by Vercel Labs",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "nextjs",
+                    "react",
+                    "redis",
+                    "shadcn-ui",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A full-featured, hackable Next.js AI chatbot built by Vercel Labs",
+                    "ja": "Vercel Labsによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。",
+                    "zh-hans": "由Vercel Labs构建的全功能、可黑客的Next.js AI聊天机器人",
+                    "zh-hant": "由 Vercel 實驗室打造的全功能、可駭入的 Next.js AI 聊天機器人"
                 }
             }
         },
@@ -15951,6 +16030,54 @@
                     "ja": "Spring Boot ChatGPT スターター",
                     "zh-hans": "Spring Boot ChatGPT 起始器",
                     "zh-hant": "Spring Boot ChatGPT 開始者"
+                }
+            },
+            "https://github.com/sf197/nuclei_gpt": {
+                "repository_name": "nuclei_gpt",
+                "user_name": "sf197",
+                "language": "Python",
+                "license": null,
+                "description": "Chat automates Nuclei template generation",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Chat automates Nuclei template generation",
+                    "ja": "チャットはNucleiテンプレート生成を自動化します。",
+                    "zh-hans": "聊天自动化生成Nuclei模板",
+                    "zh-hant": "聊天自動化核心模板生成"
+                }
+            },
+            "https://github.com/microsoft/sample-app-aoai-chatgpt": {
+                "repository_name": "sample-app-aoai-chatGPT",
+                "user_name": "microsoft",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "[PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "[PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.",
+                    "ja": "[プレビュー] AOAIを通じてchatGPTをターゲットにしたシンプルなWebチャット体験のサンプルコード。",
+                    "zh-hans": "[预览] 通过AOAI针对chatGPT的简单网络聊天体验的示例代码。",
+                    "zh-hant": "[預覽] 透過AOAI針對chatGPT的簡單網路聊天體驗的範例程式碼。"
+                }
+            },
+            "https://github.com/mingkai-zheng/genius": {
+                "repository_name": "GENIUS",
+                "user_name": "mingkai-zheng",
+                "language": "Python",
+                "license": null,
+                "description": "Can GPT-4 Perform Neural Architecture Search?",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Can GPT-4 Perform Neural Architecture Search?",
+                    "ja": "GPT-4はニューラルアーキテクチャサーチを実行できるか？",
+                    "zh-hans": "GPT-4能进行神经架构搜索吗？",
+                    "zh-hant": "GPT-4能夠進行神經架構搜索嗎？"
                 }
             }
         }
