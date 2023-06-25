@@ -5388,6 +5388,26 @@
                     "zh-hans": "Chrome、Edge和Opera的GPT聊天扩展。与搜索结果直接集成。完整的聊天界面和历史记录管理。无需服务器，成本效益高。",
                     "zh-hant": "Chrome、Edge 和 Opera 的 GPT 聊天擴展。直接與搜索結果集成。完整的聊天界面，具有歷史管理功能。無需服務器，成本效益高。"
                 }
+            },
+            "https://github.com/royerlab/napari-chatgpt": {
+                "repository_name": "napari-chatgpt",
+                "user_name": "royerlab",
+                "language": "CSS",
+                "license": {
+                    "key": "bsd-3-clause",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause",
+                    "url": "https://api.github.com/licenses/bsd-3-clause",
+                    "node_id": "MDc6TGljZW5zZTU="
+                },
+                "description": "A napari plugin to process and analyse images with chatGPT!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A napari plugin to process and analyse images with chatGPT!",
+                    "ja": "チャットGPTを使用して画像を処理および分析するためのnapariプラグイン！",
+                    "zh-hans": "一个使用chatGPT处理和分析图像的napari插件！",
+                    "zh-hant": "一個使用chatGPT處理和分析圖像的napari插件！"
+                }
             }
         },
         "CLIs": {
@@ -9632,6 +9652,20 @@
                     "zh-hans": ":mag: Haystack是一个开源的NLP框架，使用Transformer模型和LLMs（如GPT-4、ChatGPT等）与您的数据进行交互。Haystack提供了生产就绪的工具，快速构建复杂的问答、语义搜索、文本生成应用等。",
                     "zh-hant": ":mag: Haystack 是一個開源的 NLP 框架，可使用 Transformer 模型和 LLM（GPT-4、ChatGPT 等）與您的數據進行交互。Haystack 提供了生產就緒的工具，可以快速構建複雜的問答、語義搜索、文本生成應用等。"
                 }
+            },
+            "https://github.com/nlpxucan/wizardlm": {
+                "repository_name": "WizardLM",
+                "user_name": "nlpxucan",
+                "language": "Python",
+                "license": null,
+                "description": "Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder",
+                    "ja": "Evol-Instructによって動力化された指示に従うLLMsのファミリー：WizardLM、WizardCoder",
+                    "zh-hans": "由Evol-Instruct驱动的遵循指令的LLM家族：WizardLM，WizardCoder。",
+                    "zh-hant": "由Evol-Instruct驅動的遵循指令的LLM家族：WizardLM，WizardCoder"
+                }
             }
         },
         "Langchain": {
@@ -12296,6 +12330,31 @@
                     "ja": "Kubernetesクラスター内の自動SREスーパーパワー",
                     "zh-hans": "在您的Kubernetes集群中自动获得SRE超能力",
                     "zh-hant": "在您的 Kubernetes 集群中自動啟用 SRE 超能力"
+                }
+            },
+            "https://github.com/brianpetro/obsidian-smart-connections": {
+                "repository_name": "obsidian-smart-connections",
+                "user_name": "brianpetro",
+                "language": "JavaScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.",
+                "topics": [
+                    "chatgpt",
+                    "embeddings",
+                    "gpt-4",
+                    "obsidian-md"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.",
+                    "ja": "Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。",
+                    "zh-hans": "在Obsidian中使用笔记进行聊天！此外，实时查看最相关的内容！互动并保持组织。由OpenAI ChatGPT、GPT-4和嵌入式技术提供支持。",
+                    "zh-hant": "在Obsidian中使用筆記進行聊天！此外，即時查看最相關的內容！互動並保持組織。由OpenAI ChatGPT、GPT-4和嵌入式技術提供支持。"
                 }
             }
         },
@@ -16078,6 +16137,30 @@
                     "ja": "GPT-4はニューラルアーキテクチャサーチを実行できるか？",
                     "zh-hans": "GPT-4能进行神经架构搜索吗？",
                     "zh-hant": "GPT-4能夠進行神經架構搜索嗎？"
+                }
+            },
+            "https://github.com/0xdevalias/chatgpt-source-watch": {
+                "repository_name": "chatgpt-source-watch",
+                "user_name": "0xdevalias",
+                "language": "JavaScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Analyzing the evolution of ChatGPT's codebase through time with curated archives and scripts",
+                "topics": [
+                    "archive",
+                    "chatgpt",
+                    "webpack"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Analyzing the evolution of ChatGPT's codebase through time with curated archives and scripts",
+                    "ja": "キュレーションされたアーカイブとスクリプトを使用して、ChatGPTのコードベースの進化を時間の経過とともに分析する。",
+                    "zh-hans": "使用策划档案和脚本分析ChatGPT代码库的演变历程。",
+                    "zh-hant": "通過精選的檔案和腳本分析ChatGPT代碼庫的演變。"
                 }
             }
         }

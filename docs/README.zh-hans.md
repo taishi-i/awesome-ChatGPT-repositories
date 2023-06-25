@@ -15,22 +15,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [GPTWorld](https://github.com/srush/gptworld) - 一个关于提示的难题
+**Browser-extensions**
+ * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - 一个napari插件,可以使用chatGPT处理和分析图像!
 
 
-**Chatbots**
- * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) -  一个用Python编写的 Telegram bot,与OpenAI官方的ChatGPT API集成,提供答案
- * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - 由Vercel实验室开发的全功能,可被黑客攻击的Next.js AI聊天机器人
+**NLP**
+ * [WizardLM](https://github.com/nlpxucan/wizardlm) - 基于Evol-Instruct的命令追随LLM系列:WizardLM,WizardCoder
+
+
+**Openai**
+ * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - 在Obsidian中与你的笔记聊天! 另外,实时查看最相关的内容! 互动并保持组织. 由OpenAI ChatGPT,GPT-4和嵌入式提供支持.
 
 
 **Others**
- * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - 聊天自动生成Nuclei模板
- * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - 通过AOAI实现简单的网络聊天体验.
- * [GENIUS](https://github.com/mingkai-zheng/genius) - 能否执行神经架构搜索?
+ * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - 通过策划的档案和脚本分析ChatGPT代码库的发展
 
 
-_Updated on June 23, 2023_ (A total of 829 repositories listed.)
+_Updated on June 26, 2023_ (A total of 833 repositories listed.)
 
 ## Table of contents
 
@@ -532,6 +533,7 @@ ChatGPT资料汇总学习，持续更新......
  * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - 一个紧密集成的Logseq聊天插件。
  * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - 就像Auto-GPT遇到了Brew一样。使用任何您选择的后端和所需的插件，最简单和最快速的开始使用AutoGPT的方法。
  * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge和Opera的GPT聊天扩展。与搜索结果直接集成。完整的聊天界面和历史记录管理。无需服务器，成本效益高。
+ * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - 一个使用chatGPT处理和分析图像的napari插件！
 
 
 |Name|GitHub Stars|Language|License|
@@ -629,6 +631,7 @@ ChatGPT资料汇总学习，持续更新......
 |[logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/debanjandhar12/logseq-chatgpt-plugin?style=social)|TypeScript|agpl-3.0|
 |[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
 |[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
+|[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
 
 
 ## CLIs
@@ -976,6 +979,7 @@ ChatGPT资料汇总学习，持续更新......
  * [ontogpt](https://github.com/monarch-initiative/ontogpt) - 基于GPT的本体抽取工具，包括SPIRES。
  * [selefra](https://github.com/selefra/selefra) - 这是一款开源的政策即代码软件，可为多云和SaaS环境提供分析，您可以通过自然语言获得洞察力（由OpenAI提供支持）。
  * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack是一个开源的NLP框架，使用Transformer模型和LLMs（如GPT-4、ChatGPT等）与您的数据进行交互。Haystack提供了生产就绪的工具，快速构建复杂的问答、语义搜索、文本生成应用等。
+ * [WizardLM](https://github.com/nlpxucan/wizardlm) - 由Evol-Instruct驱动的遵循指令的LLM家族：WizardLM，WizardCoder。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1107,6 +1111,7 @@ ChatGPT资料汇总学习，持续更新......
 |[ontogpt](https://github.com/monarch-initiative/ontogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/monarch-initiative/ontogpt?style=social)|Jupyter Notebook|bsd-3-clause|
 |[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
 |[haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)|Python|apache-2.0|
+|[WizardLM](https://github.com/nlpxucan/wizardlm)|![GitHub Repo stars](https://img.shields.io/github/stars/nlpxucan/WizardLM?style=social)|Python|-|
 
 
 ## Langchain
@@ -1321,6 +1326,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - OpenAI的ChatGPT API的非官方Python封装程序
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端人工智能语言练习应用
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - 在您的Kubernetes集群中自动获得SRE超能力
+ * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - 在Obsidian中使用笔记进行聊天！此外，实时查看最相关的内容！互动并保持组织。由OpenAI ChatGPT、GPT-4和嵌入式技术提供支持。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1407,6 +1413,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
 |[polyglot](https://github.com/liou666/polyglot)|![GitHub Repo stars](https://img.shields.io/github/stars/liou666/polyglot?style=social)|TypeScript|gpl-3.0|
 |[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
+|[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
 
 
 ## Others
@@ -1629,6 +1636,7 @@ Chat酱独立部署版，docker方案自带代理
  * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - 聊天自动化生成Nuclei模板
  * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [预览] 通过AOAI针对chatGPT的简单网络聊天体验的示例代码。
  * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4能进行神经架构搜索吗？
+ * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - 使用策划档案和脚本分析ChatGPT代码库的演变历程。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1847,5 +1855,6 @@ Chat酱独立部署版，docker方案自带代理
 |[nuclei_gpt](https://github.com/sf197/nuclei_gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sf197/nuclei_gpt?style=social)|Python|-|
 |[sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sample-app-aoai-chatGPT?style=social)|Python|mit|
 |[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
+|[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
 
 

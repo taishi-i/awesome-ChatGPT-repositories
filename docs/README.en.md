@@ -16,22 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [GPTWorld](https://github.com/srush/gptworld) - A puzzle to learn about prompting
+**Browser-extensions**
+ * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - A napari plugin to process and analyse images with chatGPT!
 
 
-**Chatbots**
- * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
- * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
+**NLP**
+ * [WizardLM](https://github.com/nlpxucan/wizardlm) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
+
+
+**Openai**
+ * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
 
 
 **Others**
- * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - Chat automates Nuclei template generation
- * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.
- * [GENIUS](https://github.com/mingkai-zheng/genius) - Can GPT-4 Perform Neural Architecture Search?
+ * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - Analyzing the evolution of ChatGPT's codebase through time with curated archives and scripts
 
 
-_Updated on June 23, 2023_ (A total of 829 repositories listed.)
+_Updated on June 26, 2023_ (A total of 833 repositories listed.)
 
 ## Table of contents
 
@@ -531,6 +532,7 @@ _Updated on June 23, 2023_ (A total of 829 repositories listed.)
  * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - A tightly integrated ChatGPT plugin for Logseq.
  * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - It's like Auto-GPT met Brew. The easiest and fastest way to get started with AutoGPT with any backend of your choice & whatever plugins you may need
  * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - GPT chat extension for Chrome, Edge, and Opera. Direct integration with search results. Full chat interface with history management. No server needed & cost effective.
+ * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - A napari plugin to process and analyse images with chatGPT!
 
 
 |Name|GitHub Stars|Language|License|
@@ -628,6 +630,7 @@ _Updated on June 23, 2023_ (A total of 829 repositories listed.)
 |[logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/debanjandhar12/logseq-chatgpt-plugin?style=social)|TypeScript|agpl-3.0|
 |[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
 |[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
+|[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
 
 
 ## CLIs
@@ -965,6 +968,7 @@ _Updated on June 23, 2023_ (A total of 829 repositories listed.)
  * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPT-based ontological extraction tools, including SPIRES
  * [selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
  * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.
+ * [WizardLM](https://github.com/nlpxucan/wizardlm) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
 
 
 |Name|GitHub Stars|Language|License|
@@ -1096,6 +1100,7 @@ _Updated on June 23, 2023_ (A total of 829 repositories listed.)
 |[ontogpt](https://github.com/monarch-initiative/ontogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/monarch-initiative/ontogpt?style=social)|Jupyter Notebook|bsd-3-clause|
 |[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
 |[haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)|Python|apache-2.0|
+|[WizardLM](https://github.com/nlpxucan/wizardlm)|![GitHub Repo stars](https://img.shields.io/github/stars/nlpxucan/WizardLM?style=social)|Python|-|
 
 
 ## Langchain
@@ -1304,6 +1309,7 @@ _Updated on June 23, 2023_ (A total of 829 repositories listed.)
  * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - An unofficial Python wrapper for OpenAI's ChatGPT API
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ Desktop AI language practice application
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
+ * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1390,6 +1396,7 @@ _Updated on June 23, 2023_ (A total of 829 repositories listed.)
 |[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
 |[polyglot](https://github.com/liou666/polyglot)|![GitHub Repo stars](https://img.shields.io/github/stars/liou666/polyglot?style=social)|TypeScript|gpl-3.0|
 |[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
+|[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
 
 
 ## Others
@@ -1608,6 +1615,7 @@ _Updated on June 23, 2023_ (A total of 829 repositories listed.)
  * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - Chat automates Nuclei template generation
  * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.
  * [GENIUS](https://github.com/mingkai-zheng/genius) - Can GPT-4 Perform Neural Architecture Search?
+ * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - Analyzing the evolution of ChatGPT's codebase through time with curated archives and scripts
 
 
 |Name|GitHub Stars|Language|License|
@@ -1826,5 +1834,6 @@ _Updated on June 23, 2023_ (A total of 829 repositories listed.)
 |[nuclei_gpt](https://github.com/sf197/nuclei_gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sf197/nuclei_gpt?style=social)|Python|-|
 |[sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sample-app-aoai-chatGPT?style=social)|Python|mit|
 |[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
+|[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
 
 
