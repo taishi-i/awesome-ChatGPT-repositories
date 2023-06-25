@@ -15,22 +15,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [GPTWorld](https://github.com/srush/gptworld) - 促進について学ぶためのパズル
+**Browser-extensions**
+ * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - チャットGPTを使用して画像を処理および分析するためのnapariプラグイン！
 
 
-**Chatbots**
- * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 Pythonで書かれた、OpenAIの公式ChatGPT APIと統合して回答を提供するTelegramボット。
- * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - Vercel Labsによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
+**NLP**
+ * [WizardLM](https://github.com/nlpxucan/wizardlm) - Evol-Instructによって動力化された指示に従うLLMsのファミリー：WizardLM、WizardCoder
+
+
+**Openai**
+ * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。
 
 
 **Others**
- * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - チャットはNucleiテンプレート生成を自動化します。
- * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [プレビュー] AOAIを通じてchatGPTをターゲットにしたシンプルなWebチャット体験のサンプルコード。
- * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4はニューラルアーキテクチャサーチを実行できるか？
+ * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - キュレーションされたアーカイブとスクリプトを使用して、ChatGPTのコードベースの進化を時間の経過とともに分析する。
 
 
-_Updated on June 23, 2023_ (A total of 829 repositories listed.)
+_Updated on June 26, 2023_ (A total of 833 repositories listed.)
 
 ## Table of contents
 
@@ -537,6 +538,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - Logseq用の密接に統合されたChatGPTプラグイン。
  * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - それはまるでAuto-GPTがBrewと出会ったようです。あなたが選ぶバックエンドと必要なプラグインを使って、AutoGPTを始めるための最も簡単で最速の方法です。
  * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge、Opera用のGPTチャット拡張機能。検索結果との直接統合。履歴管理付きの完全なチャットインターフェース。サーバー不要でコスト効果的。
+ * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - チャットGPTを使用して画像を処理および分析するためのnapariプラグイン！
 
 
 |Name|GitHub Stars|Language|License|
@@ -634,6 +636,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/debanjandhar12/logseq-chatgpt-plugin?style=social)|TypeScript|agpl-3.0|
 |[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
 |[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
+|[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
 
 
 ## CLIs
@@ -974,6 +977,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [ontogpt](https://github.com/monarch-initiative/ontogpt) - GPTベースのオントロジー抽出ツール、SPIRESを含む
  * [selefra](https://github.com/selefra/selefra) - マルチクラウドおよびSaaS環境の分析を提供するオープンソースのポリシーコードソフトウェアで、OpenAIによって強化された自然言語で洞察を得ることができます。
  * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystackは、TransformerモデルやLLMs（GPT-4、ChatGPTなど）を使用してデータと対話するためのオープンソースのNLPフレームワークです。Haystackは、複雑な質問応答、意味検索、テキスト生成アプリケーションなどを素早く構築するための本番用ツールを提供しています。
+ * [WizardLM](https://github.com/nlpxucan/wizardlm) - Evol-Instructによって動力化された指示に従うLLMsのファミリー：WizardLM、WizardCoder
 
 
 |Name|GitHub Stars|Language|License|
@@ -1105,6 +1109,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[ontogpt](https://github.com/monarch-initiative/ontogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/monarch-initiative/ontogpt?style=social)|Jupyter Notebook|bsd-3-clause|
 |[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
 |[haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)|Python|apache-2.0|
+|[WizardLM](https://github.com/nlpxucan/wizardlm)|![GitHub Repo stars](https://img.shields.io/github/stars/nlpxucan/WizardLM?style=social)|Python|-|
 
 
 ## Langchain
@@ -1313,6 +1318,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - OpenAIのChatGPT APIの非公式Pythonラッパー
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ デスクトップAI言語練習アプリ
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Kubernetesクラスター内の自動SREスーパーパワー
+ * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1399,6 +1405,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sxvxgee/UnlimitedGPT?style=social)|Python|gpl-3.0|
 |[polyglot](https://github.com/liou666/polyglot)|![GitHub Repo stars](https://img.shields.io/github/stars/liou666/polyglot?style=social)|TypeScript|gpl-3.0|
 |[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
+|[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
 
 
 ## Others
@@ -1619,6 +1626,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - チャットはNucleiテンプレート生成を自動化します。
  * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [プレビュー] AOAIを通じてchatGPTをターゲットにしたシンプルなWebチャット体験のサンプルコード。
  * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4はニューラルアーキテクチャサーチを実行できるか？
+ * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - キュレーションされたアーカイブとスクリプトを使用して、ChatGPTのコードベースの進化を時間の経過とともに分析する。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1837,5 +1845,6 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[nuclei_gpt](https://github.com/sf197/nuclei_gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sf197/nuclei_gpt?style=social)|Python|-|
 |[sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sample-app-aoai-chatGPT?style=social)|Python|mit|
 |[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
+|[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
 
 
