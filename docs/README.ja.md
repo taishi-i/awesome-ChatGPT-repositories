@@ -16,22 +16,25 @@
 ## The latest additions 🎉
 
 **Browser-extensions**
- * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - チャットGPTを使用して画像を処理および分析するためのnapariプラグイン！
+ * [kaguya](https://github.com/ykdojo/kaguya) - 制御された方法でローカルファイルを読み込み、編集し、Python、JavaScript、およびbashスクリプトを実行できるChatGPTプラグイン。
 
 
 **NLP**
- * [WizardLM](https://github.com/nlpxucan/wizardlm) - Evol-Instructによって動力化された指示に従うLLMsのファミリー：WizardLM、WizardCoder
+ * [sparrow](https://github.com/katanaml/sparrow) - MLによる文書からのデータ抽出
+ * [lamini](https://github.com/lamini-ai/lamini) - 今日：🎉ChatGPTのようなLLMのトレーニングのためのホストされたデータジェネレータを開催しました🎉Laminiエンジンで生成されたデータでトレーニングされたオープンソースのLLM👉フルトレーニング、エンタープライズVPCなどを含む早期アクセス待ちリスト。
+ * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - 長い文章から画像を生成する、深層生成モデルのパイプラインを使用したテキストから画像生成（GPT-3とStable Diffusion）
 
 
 **Openai**
- * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。
+ * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Next.js、OpenAI、およびSupabaseによって動力化された独自のカスタムChatGPTスタイルのドキュメント検索を構築するためのテンプレート。
+ * [reliableGPT](https://github.com/berriai/reliablegpt) - OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。
 
 
 **Others**
- * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - キュレーションされたアーカイブとスクリプトを使用して、ChatGPTのコードベースの進化を時間の経過とともに分析する。
+ * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPTは、Twitter上のプロフィールやハッシュタグを分析するためのツールです。このアプリケーションは、さまざまな技術やAPIを活用してデータを収集し、ユーザーのために情報を生成します。
 
 
-_Updated on June 26, 2023_ (A total of 833 repositories listed.)
+_Updated on June 27, 2023_ (A total of 840 repositories listed.)
 
 ## Table of contents
 
@@ -539,6 +542,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - それはまるでAuto-GPTがBrewと出会ったようです。あなたが選ぶバックエンドと必要なプラグインを使って、AutoGPTを始めるための最も簡単で最速の方法です。
  * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge、Opera用のGPTチャット拡張機能。検索結果との直接統合。履歴管理付きの完全なチャットインターフェース。サーバー不要でコスト効果的。
  * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - チャットGPTを使用して画像を処理および分析するためのnapariプラグイン！
+ * [kaguya](https://github.com/ykdojo/kaguya) - 制御された方法でローカルファイルを読み込み、編集し、Python、JavaScript、およびbashスクリプトを実行できるChatGPTプラグイン。
 
 
 |Name|GitHub Stars|Language|License|
@@ -637,6 +641,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
 |[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
 |[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
+|[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -978,6 +983,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [selefra](https://github.com/selefra/selefra) - マルチクラウドおよびSaaS環境の分析を提供するオープンソースのポリシーコードソフトウェアで、OpenAIによって強化された自然言語で洞察を得ることができます。
  * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystackは、TransformerモデルやLLMs（GPT-4、ChatGPTなど）を使用してデータと対話するためのオープンソースのNLPフレームワークです。Haystackは、複雑な質問応答、意味検索、テキスト生成アプリケーションなどを素早く構築するための本番用ツールを提供しています。
  * [WizardLM](https://github.com/nlpxucan/wizardlm) - Evol-Instructによって動力化された指示に従うLLMsのファミリー：WizardLM、WizardCoder
+ * [sparrow](https://github.com/katanaml/sparrow) - MLによる文書からのデータ抽出
+ * [lamini](https://github.com/lamini-ai/lamini) - 今日：🎉ChatGPTのようなLLMのトレーニングのためのホストされたデータジェネレータを開催しました🎉Laminiエンジンで生成されたデータでトレーニングされたオープンソースのLLM👉フルトレーニング、エンタープライズVPCなどを含む早期アクセス待ちリスト。
+ * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - 長い文章から画像を生成する、深層生成モデルのパイプラインを使用したテキストから画像生成（GPT-3とStable Diffusion）
 
 
 |Name|GitHub Stars|Language|License|
@@ -1110,6 +1118,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
 |[haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)|Python|apache-2.0|
 |[WizardLM](https://github.com/nlpxucan/wizardlm)|![GitHub Repo stars](https://img.shields.io/github/stars/nlpxucan/WizardLM?style=social)|Python|-|
+|[sparrow](https://github.com/katanaml/sparrow)|![GitHub Repo stars](https://img.shields.io/github/stars/katanaml/sparrow?style=social)|Jupyter Notebook|mit|
+|[lamini](https://github.com/lamini-ai/lamini)|![GitHub Repo stars](https://img.shields.io/github/stars/lamini-ai/lamini?style=social)|Python|other|
+|[long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)|![GitHub Repo stars](https://img.shields.io/github/stars/sharonzhou/long_stable_diffusion?style=social)|Python|-|
 
 
 ## Langchain
@@ -1319,6 +1330,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ デスクトップAI言語練習アプリ
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Kubernetesクラスター内の自動SREスーパーパワー
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。
+ * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Next.js、OpenAI、およびSupabaseによって動力化された独自のカスタムChatGPTスタイルのドキュメント検索を構築するためのテンプレート。
+ * [reliableGPT](https://github.com/berriai/reliablegpt) - OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1406,6 +1419,8 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[polyglot](https://github.com/liou666/polyglot)|![GitHub Repo stars](https://img.shields.io/github/stars/liou666/polyglot?style=social)|TypeScript|gpl-3.0|
 |[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
 |[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
+|[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
+|[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/reliableGPT?style=social)|Python|mit|
 
 
 ## Others
@@ -1627,6 +1642,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [プレビュー] AOAIを通じてchatGPTをターゲットにしたシンプルなWebチャット体験のサンプルコード。
  * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4はニューラルアーキテクチャサーチを実行できるか？
  * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - キュレーションされたアーカイブとスクリプトを使用して、ChatGPTのコードベースの進化を時間の経過とともに分析する。
+ * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPTは、Twitter上のプロフィールやハッシュタグを分析するためのツールです。このアプリケーションは、さまざまな技術やAPIを活用してデータを収集し、ユーザーのために情報を生成します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1846,5 +1862,6 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sample-app-aoai-chatGPT?style=social)|Python|mit|
 |[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
 |[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
+|[PROFILEGPT](https://github.com/odiks/profilegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/odiks/PROFILEGPT?style=social)|HTML|-|
 
 

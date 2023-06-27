@@ -17,22 +17,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Browser-extensions**
- * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - A napari plugin to process and analyse images with chatGPT!
+ * [kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
 
 
 **NLP**
- * [WizardLM](https://github.com/nlpxucan/wizardlm) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
+ * [sparrow](https://github.com/katanaml/sparrow) - Data extraction from documents with ML
+ * [lamini](https://github.com/lamini-ai/lamini) - Today:🎉Hosted data generator for training LLMs like ChatGPT 🎉An open-source LLM, trained on the generated data with the Lamini engine 👉Early access waitlist to full training, incl. enterprise VPC etc.  
+ * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
 
 
 **Openai**
- * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
+ * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+ * [reliableGPT](https://github.com/berriai/reliablegpt) - Get 100% uptime, reliability from OpenAI. Handle Rate Limit, Timeout, API, Keys Errors
 
 
 **Others**
- * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - Analyzing the evolution of ChatGPT's codebase through time with curated archives and scripts
+ * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPT is a tool for analyzing profiles and hashtags on Twitter. The application exploits various technologies and APIs to collect data and generate information for users.
 
 
-_Updated on June 26, 2023_ (A total of 833 repositories listed.)
+_Updated on June 27, 2023_ (A total of 840 repositories listed.)
 
 ## Table of contents
 
@@ -533,6 +536,7 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
  * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - It's like Auto-GPT met Brew. The easiest and fastest way to get started with AutoGPT with any backend of your choice & whatever plugins you may need
  * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - GPT chat extension for Chrome, Edge, and Opera. Direct integration with search results. Full chat interface with history management. No server needed & cost effective.
  * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - A napari plugin to process and analyse images with chatGPT!
+ * [kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
 
 
 |Name|GitHub Stars|Language|License|
@@ -631,6 +635,7 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
 |[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
 |[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
 |[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
+|[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -969,6 +974,9 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
  * [selefra](https://github.com/selefra/selefra) - The open-source policy-as-code software that provides analysis for Multi-Cloud and SaaS environments, you can get insight with natural language (powered by OpenAI).
  * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-4, ChatGPT and alike). Haystack offers production-ready tools to quickly build complex question answering, semantic search, text generation applications, and more.
  * [WizardLM](https://github.com/nlpxucan/wizardlm) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
+ * [sparrow](https://github.com/katanaml/sparrow) - Data extraction from documents with ML
+ * [lamini](https://github.com/lamini-ai/lamini) - Today:🎉Hosted data generator for training LLMs like ChatGPT 🎉An open-source LLM, trained on the generated data with the Lamini engine 👉Early access waitlist to full training, incl. enterprise VPC etc.  
+ * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)
 
 
 |Name|GitHub Stars|Language|License|
@@ -1101,6 +1109,9 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
 |[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
 |[haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)|Python|apache-2.0|
 |[WizardLM](https://github.com/nlpxucan/wizardlm)|![GitHub Repo stars](https://img.shields.io/github/stars/nlpxucan/WizardLM?style=social)|Python|-|
+|[sparrow](https://github.com/katanaml/sparrow)|![GitHub Repo stars](https://img.shields.io/github/stars/katanaml/sparrow?style=social)|Jupyter Notebook|mit|
+|[lamini](https://github.com/lamini-ai/lamini)|![GitHub Repo stars](https://img.shields.io/github/stars/lamini-ai/lamini?style=social)|Python|other|
+|[long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)|![GitHub Repo stars](https://img.shields.io/github/stars/sharonzhou/long_stable_diffusion?style=social)|Python|-|
 
 
 ## Langchain
@@ -1310,6 +1321,8 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ Desktop AI language practice application
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
+ * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+ * [reliableGPT](https://github.com/berriai/reliablegpt) - Get 100% uptime, reliability from OpenAI. Handle Rate Limit, Timeout, API, Keys Errors
 
 
 |Name|GitHub Stars|Language|License|
@@ -1397,6 +1410,8 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
 |[polyglot](https://github.com/liou666/polyglot)|![GitHub Repo stars](https://img.shields.io/github/stars/liou666/polyglot?style=social)|TypeScript|gpl-3.0|
 |[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
 |[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
+|[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
+|[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/reliableGPT?style=social)|Python|mit|
 
 
 ## Others
@@ -1616,6 +1631,7 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
  * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [PREVIEW] Sample code for a simple web chat experience targeting chatGPT through AOAI.
  * [GENIUS](https://github.com/mingkai-zheng/genius) - Can GPT-4 Perform Neural Architecture Search?
  * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - Analyzing the evolution of ChatGPT's codebase through time with curated archives and scripts
+ * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPT is a tool for analyzing profiles and hashtags on Twitter. The application exploits various technologies and APIs to collect data and generate information for users.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1835,5 +1851,6 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
 |[sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sample-app-aoai-chatGPT?style=social)|Python|mit|
 |[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
 |[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
+|[PROFILEGPT](https://github.com/odiks/profilegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/odiks/PROFILEGPT?style=social)|HTML|-|
 
 

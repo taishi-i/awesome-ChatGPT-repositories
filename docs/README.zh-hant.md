@@ -16,22 +16,25 @@
 ## The latest additions 🎉
 
 **Browser-extensions**
- * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - 這是一款使用chatGPT處理和分析圖像的napari插件!
+ * [kaguya](https://github.com/ykdojo/kaguya) - 提供您可在任何情況下使用Python,JavaScript和bash程式進行.
 
 
 **NLP**
- * [WizardLM](https://github.com/nlpxucan/wizardlm) - 隨著指令執行的LLM系列由Evol-Instruct提供支持:WizardLM,WizardCoder
+ * [sparrow](https://github.com/katanaml/sparrow) - 數據從ML使用的文件中提取
+ * [lamini](https://github.com/lamini-ai/lamini) - 提供開放源的LLM,使用Lamini引擎培訓生成的數據. 👉提早進入等候名單,接受全面培訓,包括企業VPC等.
+ * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - 長期形式的文字轉換成圖像生成,使用深度生成模型 (GPT-3和穩定擴散)
 
 
 **Openai**
- * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - 透過 Obsidian 聊天與筆記! 再加上,即時查看最重要的事情! 互動並保持組織. 由 OpenAI ChatGPT, GPT-4 & Embeddings 提供支持.
+ * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - 建構自己的自訂ChatGPT風格文檔搜索模板, 由Next.js,OpenAI和Supabase提供支持.
+ * [reliableGPT](https://github.com/berriai/reliablegpt) - 獲得100%的正常運行時間,可靠性,
 
 
 **Others**
- * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - 分析ChatGPT的代碼庫的演變,
+ * [PROFILEGPT](https://github.com/odiks/profilegpt) - 網路上有許多人使用Twitter, 網路上有許多人使用Twitter,
 
 
-_Updated on June 26, 2023_ (A total of 833 repositories listed.)
+_Updated on June 27, 2023_ (A total of 840 repositories listed.)
 
 ## Table of contents
 
@@ -535,6 +538,7 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
  * [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - 就像Auto-GPT遇到了Brew一樣。使用任何您選擇的後端和您可能需要的任何插件，開始使用AutoGPT的最簡單和最快速的方法。
  * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge 和 Opera 的 GPT 聊天擴展。直接與搜索結果集成。完整的聊天界面，具有歷史管理功能。無需服務器，成本效益高。
  * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - 一個使用chatGPT處理和分析圖像的napari插件！
+ * [kaguya](https://github.com/ykdojo/kaguya) - 一個 ChatGPT 插件，可以以受控方式載入和編輯本地文件，並運行任何 Python、JavaScript 和 bash 腳本。
 
 
 |Name|GitHub Stars|Language|License|
@@ -633,6 +637,7 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
 |[autogpt-package](https://github.com/kurtosis-tech/autogpt-package)|![GitHub Repo stars](https://img.shields.io/github/stars/kurtosis-tech/autogpt-package?style=social)|Starlark|mit|
 |[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
 |[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
+|[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -981,6 +986,9 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
  * [selefra](https://github.com/selefra/selefra) - 這是一款開源的政策即代碼軟件，可為多雲和SaaS環境提供分析，您可以通過自然語言獲得洞察力（由OpenAI提供支持）。
  * [haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack 是一個開源的 NLP 框架，可使用 Transformer 模型和 LLM（GPT-4、ChatGPT 等）與您的數據進行交互。Haystack 提供了生產就緒的工具，可以快速構建複雜的問答、語義搜索、文本生成應用等。
  * [WizardLM](https://github.com/nlpxucan/wizardlm) - 由Evol-Instruct驅動的遵循指令的LLM家族：WizardLM，WizardCoder
+ * [sparrow](https://github.com/katanaml/sparrow) - 利用機器學習從文件中提取數據
+ * [lamini](https://github.com/lamini-ai/lamini) - 今天：🎉主持用於訓練像ChatGPT這樣的LLM的數據生成器🎉一個開源的LLM，使用Lamini引擎訓練生成的數據👉提前訪問完整培訓的等待名單，包括企業VPC等。
+ * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - 長文本轉圖像生成，使用深度生成模型（GPT-3和穩定擴散）的管道。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1113,6 +1121,9 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
 |[selefra](https://github.com/selefra/selefra)|![GitHub Repo stars](https://img.shields.io/github/stars/selefra/selefra?style=social)|Go|mpl-2.0|
 |[haystack](https://github.com/deepset-ai/haystack)|![GitHub Repo stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social)|Python|apache-2.0|
 |[WizardLM](https://github.com/nlpxucan/wizardlm)|![GitHub Repo stars](https://img.shields.io/github/stars/nlpxucan/WizardLM?style=social)|Python|-|
+|[sparrow](https://github.com/katanaml/sparrow)|![GitHub Repo stars](https://img.shields.io/github/stars/katanaml/sparrow?style=social)|Jupyter Notebook|mit|
+|[lamini](https://github.com/lamini-ai/lamini)|![GitHub Repo stars](https://img.shields.io/github/stars/lamini-ai/lamini?style=social)|Python|other|
+|[long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)|![GitHub Repo stars](https://img.shields.io/github/stars/sharonzhou/long_stable_diffusion?style=social)|Python|-|
 
 
 ## Langchain
@@ -1323,6 +1334,8 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端人工智慧語言練習應用程式
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - 在您的 Kubernetes 集群中自動啟用 SRE 超能力
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - 在Obsidian中使用筆記進行聊天！此外，即時查看最相關的內容！互動並保持組織。由OpenAI ChatGPT、GPT-4和嵌入式技術提供支持。
+ * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - 建立自己的定制化 ChatGPT 風格文件搜索模板，由 Next.js、OpenAI 和 Supabase 提供動力。
+ * [reliableGPT](https://github.com/berriai/reliablegpt) - 從OpenAI獲得100％的正常運行時間和可靠性。處理速率限制、超時、API和密鑰錯誤。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1410,6 +1423,8 @@ _Updated on June 26, 2023_ (A total of 833 repositories listed.)
 |[polyglot](https://github.com/liou666/polyglot)|![GitHub Repo stars](https://img.shields.io/github/stars/liou666/polyglot?style=social)|TypeScript|gpl-3.0|
 |[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
 |[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
+|[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
+|[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/reliableGPT?style=social)|Python|mit|
 
 
 ## Others
@@ -1640,6 +1655,7 @@ add chatgpt to your groupchats:
  * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt) - [預覽] 透過AOAI針對chatGPT的簡單網路聊天體驗的範例程式碼。
  * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4能夠進行神經架構搜索嗎？
  * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - 通過精選的檔案和腳本分析ChatGPT代碼庫的演變。
+ * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPT 是一個用於分析 Twitter 上的個人資料和標籤的工具。該應用程式利用各種技術和 API 收集數據，為用戶生成信息。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1859,5 +1875,6 @@ add chatgpt to your groupchats:
 |[sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/sample-app-aoai-chatGPT?style=social)|Python|mit|
 |[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
 |[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
+|[PROFILEGPT](https://github.com/odiks/profilegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/odiks/PROFILEGPT?style=social)|HTML|-|
 
 
