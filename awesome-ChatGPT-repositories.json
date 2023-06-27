@@ -5408,6 +5408,26 @@
                     "zh-hans": "一个使用chatGPT处理和分析图像的napari插件！",
                     "zh-hant": "一個使用chatGPT處理和分析圖像的napari插件！"
                 }
+            },
+            "https://github.com/ykdojo/kaguya": {
+                "repository_name": "kaguya",
+                "user_name": "ykdojo",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.",
+                    "ja": "制御された方法でローカルファイルを読み込み、編集し、Python、JavaScript、およびbashスクリプトを実行できるChatGPTプラグイン。",
+                    "zh-hans": "一个ChatGPT插件，可以以受控方式加载和编辑本地文件，以及运行任何Python、JavaScript和bash脚本。",
+                    "zh-hant": "一個 ChatGPT 插件，可以以受控方式載入和編輯本地文件，並運行任何 Python、JavaScript 和 bash 腳本。"
+                }
             }
         },
         "CLIs": {
@@ -9666,6 +9686,65 @@
                     "zh-hans": "由Evol-Instruct驱动的遵循指令的LLM家族：WizardLM，WizardCoder。",
                     "zh-hant": "由Evol-Instruct驅動的遵循指令的LLM家族：WizardLM，WizardCoder"
                 }
+            },
+            "https://github.com/katanaml/sparrow": {
+                "repository_name": "sparrow",
+                "user_name": "katanaml",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Data extraction from documents with ML",
+                "topics": [
+                    "computer-vision",
+                    "huggingface-transformers",
+                    "machinelearning",
+                    "nlp-machine-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Data extraction from documents with ML",
+                    "ja": "MLによる文書からのデータ抽出",
+                    "zh-hans": "使用机器学习从文档中提取数据",
+                    "zh-hant": "利用機器學習從文件中提取數據"
+                }
+            },
+            "https://github.com/lamini-ai/lamini": {
+                "repository_name": "lamini",
+                "user_name": "lamini-ai",
+                "language": "Python",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Today:🎉Hosted data generator for training LLMs like ChatGPT 🎉An open-source LLM, trained on the generated data with the Lamini engine 👉Early access waitlist to full training, incl. enterprise VPC etc.  ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Today:🎉Hosted data generator for training LLMs like ChatGPT 🎉An open-source LLM, trained on the generated data with the Lamini engine 👉Early access waitlist to full training, incl. enterprise VPC etc.  ",
+                    "ja": "今日：🎉ChatGPTのようなLLMのトレーニングのためのホストされたデータジェネレータを開催しました🎉Laminiエンジンで生成されたデータでトレーニングされたオープンソースのLLM👉フルトレーニング、エンタープライズVPCなどを含む早期アクセス待ちリスト。",
+                    "zh-hans": "今天：🎉为像ChatGPT这样的LLM托管数据生成器🎉一个开源的LLM，使用Lamini引擎训练生成的数据👉提前访问完整的培训等待名单，包括企业VPC等。",
+                    "zh-hant": "今天：🎉主持用於訓練像ChatGPT這樣的LLM的數據生成器🎉一個開源的LLM，使用Lamini引擎訓練生成的數據👉提前訪問完整培訓的等待名單，包括企業VPC等。"
+                }
+            },
+            "https://github.com/sharonzhou/long_stable_diffusion": {
+                "repository_name": "long_stable_diffusion",
+                "user_name": "sharonzhou",
+                "language": "Python",
+                "license": null,
+                "description": "Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Long-form text-to-images generation, using a pipeline of deep generative models (GPT-3 and Stable Diffusion)",
+                    "ja": "長い文章から画像を生成する、深層生成モデルのパイプラインを使用したテキストから画像生成（GPT-3とStable Diffusion）",
+                    "zh-hans": "长文本生成图像，使用深度生成模型（GPT-3和稳定扩散）的管道。",
+                    "zh-hant": "長文本轉圖像生成，使用深度生成模型（GPT-3和穩定擴散）的管道。"
+                }
             }
         },
         "Langchain": {
@@ -12355,6 +12434,49 @@
                     "ja": "Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。",
                     "zh-hans": "在Obsidian中使用笔记进行聊天！此外，实时查看最相关的内容！互动并保持组织。由OpenAI ChatGPT、GPT-4和嵌入式技术提供支持。",
                     "zh-hant": "在Obsidian中使用筆記進行聊天！此外，即時查看最相關的內容！互動並保持組織。由OpenAI ChatGPT、GPT-4和嵌入式技術提供支持。"
+                }
+            },
+            "https://github.com/supabase-community/nextjs-openai-doc-search": {
+                "repository_name": "nextjs-openai-doc-search",
+                "user_name": "supabase-community",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "nextjs",
+                    "openai",
+                    "postgres",
+                    "supabase",
+                    "template",
+                    "vector-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.",
+                    "ja": "Next.js、OpenAI、およびSupabaseによって動力化された独自のカスタムChatGPTスタイルのドキュメント検索を構築するためのテンプレート。",
+                    "zh-hans": "使用Next.js、OpenAI和Supabase构建自定义ChatGPT风格文档搜索的模板。",
+                    "zh-hant": "建立自己的定制化 ChatGPT 風格文件搜索模板，由 Next.js、OpenAI 和 Supabase 提供動力。"
+                }
+            },
+            "https://github.com/berriai/reliablegpt": {
+                "repository_name": "reliableGPT",
+                "user_name": "BerriAI",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Get 100% uptime, reliability from OpenAI. Handle Rate Limit, Timeout, API, Keys Errors",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Get 100% uptime, reliability from OpenAI. Handle Rate Limit, Timeout, API, Keys Errors",
+                    "ja": "OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。",
+                    "zh-hans": "从OpenAI获得100%的正常运行时间和可靠性。处理速率限制、超时、API和密钥错误。",
+                    "zh-hant": "從OpenAI獲得100％的正常運行時間和可靠性。處理速率限制、超時、API和密鑰錯誤。"
                 }
             }
         },
@@ -16161,6 +16283,20 @@
                     "ja": "キュレーションされたアーカイブとスクリプトを使用して、ChatGPTのコードベースの進化を時間の経過とともに分析する。",
                     "zh-hans": "使用策划档案和脚本分析ChatGPT代码库的演变历程。",
                     "zh-hant": "通過精選的檔案和腳本分析ChatGPT代碼庫的演變。"
+                }
+            },
+            "https://github.com/odiks/profilegpt": {
+                "repository_name": "PROFILEGPT",
+                "user_name": "odiks",
+                "language": "HTML",
+                "license": null,
+                "description": "PROFILEGPT is a tool for analyzing profiles and hashtags on Twitter. The application exploits various technologies and APIs to collect data and generate information for users.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "PROFILEGPT is a tool for analyzing profiles and hashtags on Twitter. The application exploits various technologies and APIs to collect data and generate information for users.",
+                    "ja": "PROFILEGPTは、Twitter上のプロフィールやハッシュタグを分析するためのツールです。このアプリケーションは、さまざまな技術やAPIを活用してデータを収集し、ユーザーのために情報を生成します。",
+                    "zh-hans": "PROFILEGPT是一款用于分析Twitter上的个人资料和标签的工具。该应用程序利用各种技术和API收集数据并为用户生成信息。",
+                    "zh-hant": "PROFILEGPT 是一個用於分析 Twitter 上的個人資料和標籤的工具。該應用程式利用各種技術和 API 收集數據，為用戶生成信息。"
                 }
             }
         }
