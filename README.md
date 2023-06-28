@@ -1333,6 +1333,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
  * [reliableGPT](https://github.com/berriai/reliablegpt) - Get 100% uptime, reliability from OpenAI. Handle Rate Limit, Timeout, API, Keys Errors
  * [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
  * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
+ * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 
 
 |Name|GitHub Stars|Language|License|
@@ -1424,6 +1425,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/reliableGPT?style=social)|Python|mit|
 |[autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/autoclear-chatgpt-history?style=social)|JavaScript|mit|
 |[chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-refresh?style=social)|JavaScript|mit|
+|[chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-infinity?style=social)|JavaScript|mit|
 
 
 ## Others
