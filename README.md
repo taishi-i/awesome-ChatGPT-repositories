@@ -543,6 +543,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
  * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - GPT chat extension for Chrome, Edge, and Opera. Direct integration with search results. Full chat interface with history management. No server needed & cost effective.
  * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - A napari plugin to process and analyse images with chatGPT!
  * [kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
+ * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - 🖥️ Adds Widescreen + Fullscreen modes to ChatGPT for enhanced viewing.
 
 
 |Name|GitHub Stars|Language|License|
@@ -642,6 +643,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
 |[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
 |[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
 |[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
+|[chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-widescreen?style=social)|JavaScript|mit|
 
 
 ## CLIs
