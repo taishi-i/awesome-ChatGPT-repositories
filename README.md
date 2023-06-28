@@ -1337,6 +1337,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
  * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
  * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
  * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
+ * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX
 
 
 |Name|GitHub Stars|Language|License|
@@ -1430,6 +1431,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
 |[chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-refresh?style=social)|JavaScript|mit|
 |[chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-infinity?style=social)|JavaScript|mit|
 |[chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-continue?style=social)|JavaScript|mit|
+|[chatgpt-apps](https://github.com/adamlui/chatgpt-apps)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-apps?style=social)|JavaScript|mit|
 
 
 ## Others
