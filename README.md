@@ -1644,6 +1644,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
  * [GENIUS](https://github.com/mingkai-zheng/genius) - Can GPT-4 Perform Neural Architecture Search?
  * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - Analyzing the evolution of ChatGPT's codebase through time with curated archives and scripts
  * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPT is a tool for analyzing profiles and hashtags on Twitter. The application exploits various technologies and APIs to collect data and generate information for users.
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 A powerful client-side JavaScript library for ChatGPT.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1864,5 +1865,6 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
 |[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
 |[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
 |[PROFILEGPT](https://github.com/odiks/profilegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/odiks/PROFILEGPT?style=social)|HTML|-|
+|[chatgpt.js](https://github.com/chatgptjs/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/chatgptjs/chatgpt.js?style=social)|JavaScript|mit|
 
 
