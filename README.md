@@ -544,6 +544,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
  * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - A napari plugin to process and analyse images with chatGPT!
  * [kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
  * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - 🖥️ Adds Widescreen + Fullscreen modes to ChatGPT for enhanced viewing.
+ * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 
 
 |Name|GitHub Stars|Language|License|
@@ -644,6 +645,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
 |[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
 |[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
 |[chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-widescreen?style=social)|JavaScript|mit|
+|[chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-infinity?style=social)|JavaScript|mit|
 
 
 ## CLIs
