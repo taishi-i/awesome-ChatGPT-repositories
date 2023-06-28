@@ -1329,6 +1329,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
  * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
  * [reliableGPT](https://github.com/berriai/reliablegpt) - Get 100% uptime, reliability from OpenAI. Handle Rate Limit, Timeout, API, Keys Errors
+ * [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
 
 
 |Name|GitHub Stars|Language|License|
@@ -1418,6 +1419,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
 |[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/reliableGPT?style=social)|Python|mit|
+|[autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/autoclear-chatgpt-history?style=social)|JavaScript|mit|
 
 
 ## Others
