@@ -332,7 +332,8 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
  * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - NodeJS-based bot for ChatGPT that runs on Telegram now features advanced capabilities such as voice chat and image generation.
  * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
  * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
- * [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
+ * [duckduckgpt](https://github.com/kudoai/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
+ * [bravegpt](https://github.com/kudoai/bravegpt) - 🦁 Brave Search add-on that brings the magic of ChatGPT to search results (powered by GPT-4!) 
 
 
 |Name|GitHub Stars|Language|License|
@@ -442,6 +443,7 @@ _Updated on June 27, 2023_ (A total of 840 repositories listed.)
 |[chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/n3d1117/chatgpt-telegram-bot?style=social)|Python|gpl-2.0|
 |[ai-chatbot](https://github.com/vercel-labs/ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)|TypeScript|other|
 |[duckduckgpt](https://github.com/kudoai/duckduckgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/duckduckgpt?style=social)|JavaScript|mit|
+|[bravegpt](https://github.com/kudoai/bravegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/bravegpt?style=social)|JavaScript|mit|
 
 
 ## Browser-extensions
