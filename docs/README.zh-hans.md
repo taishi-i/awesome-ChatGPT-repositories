@@ -15,26 +15,30 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - ️为更多的隐私添加了自动清除聊天功能
+ * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - ️ 增加宽屏+全屏模式,以便更好地查看.
+ * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞从万能的ChatGPT (在任何语言中) 生成无限的答案!
+ * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) -  保持 ChatGPT 会议清新,以避免网络错误 + Cloudflare 检查
+ * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 应用程序利用ChatGPT的惊人的力量或增强其用户体验
+
+
 **Browser-extensions**
- * [kaguya](https://github.com/ykdojo/kaguya) - 一个ChatGPT插件,允许您以控制的方式加载和编辑本地文件,并运行任何Python,JavaScript和bash脚本.
+ * [duckduckgpt](https://github.com/kudoai/duckduckgpt) -  DuckDuckGo 添加程序,将 ChatGPT 的魔力带到搜索结果中 (由 GPT-4 提供支持!)
+ * [bravegpt](https://github.com/kudoai/bravegpt) -  勇敢的搜索附加程序,将ChatGPT的魔力带到搜索结果中 (GPT-4支持!)
 
 
-**NLP**
- * [sparrow](https://github.com/katanaml/sparrow) - 通过ML从文档中提取数据
- * [lamini](https://github.com/lamini-ai/lamini) - 提供了像ChatGPT这样的LLM培训的托管数据生成器. 提供了开源LLM,通过Lamini引擎培训生成的数据.
- * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - 长形式的文本转换成图像生成,使用深度生成模型 (GPT-3和稳定扩散)
-
-
-**Openai**
- * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - 模板为构建您自己的自定义ChatGPT样式文档搜索,由Next.js,OpenAI和Supabase提供支持.
- * [reliableGPT](https://github.com/berriai/reliablegpt) - 获得100%的正常运行时间,可靠性从OpenAI. 处理速度限制,时间过关,API,键错误
+**CLIs**
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) -  对于 ChatGPT 的一个强大的客户端 JavaScript 库.
 
 
 **Others**
- * [PROFILEGPT](https://github.com/odiks/profilegpt) - ProfileGpt是一个用于分析Twitter上的个人资料和标签的工具.该应用程序利用各种技术和API收集数据并为用户生成信息.
+ * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) -  继续自动生成多个ChatGPT响应
 
 
-_Updated on June 27, 2023_ (A total of 840 repositories listed.)
+_Updated on June 30, 2023_ (A total of 849 repositories listed.)
+
+🏅 [adamlui](https://github.com/adamlui) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -330,6 +334,11 @@ ChatGPT资料汇总学习，持续更新......
  * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - 基于NodeJS的ChatGPT机器人现在在Telegram上拥有高级功能，如语音聊天和图像生成。
  * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 一个使用Python编写的Telegram机器人，集成了OpenAI官方的ChatGPT API，可以提供答案。
  * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - 由Vercel Labs构建的全功能、可黑客的Next.js AI聊天机器人
+ * [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ 为ChatGPT添加聊天自动清除功能，提供更多隐私保护。
+ * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - 输入：🖥️ 为ChatGPT添加宽屏和全屏模式，以提供更好的观看体验。
+ * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ 从全知的ChatGPT（以任何语言）生成无尽的答案！
+ * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - 输入：↻ 保持ChatGPT会话的新鲜度以避免网络错误+ Cloudflare检查
+ * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 利用ChatGPT的惊人能力或增强其用户体验的应用程序
 
 
 |Name|GitHub Stars|Language|License|
@@ -438,6 +447,11 @@ ChatGPT资料汇总学习，持续更新......
 |[telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/sabber-slt/telegram-chatgpt-bot?style=social)|JavaScript|-|
 |[chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/n3d1117/chatgpt-telegram-bot?style=social)|Python|gpl-2.0|
 |[ai-chatbot](https://github.com/vercel-labs/ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)|TypeScript|other|
+|[autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/autoclear-chatgpt-history?style=social)|JavaScript|mit|
+|[chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-widescreen?style=social)|JavaScript|mit|
+|[chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-infinity?style=social)|JavaScript|mit|
+|[chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-refresh?style=social)|JavaScript|mit|
+|[chatgpt-apps](https://github.com/adamlui/chatgpt-apps)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-apps?style=social)|JavaScript|mit|
 
 
 ## Browser-extensions
@@ -538,6 +552,8 @@ ChatGPT资料汇总学习，持续更新......
  * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge和Opera的GPT聊天扩展。与搜索结果直接集成。完整的聊天界面和历史记录管理。无需服务器，成本效益高。
  * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - 一个使用chatGPT处理和分析图像的napari插件！
  * [kaguya](https://github.com/ykdojo/kaguya) - 一个ChatGPT插件，可以以受控方式加载和编辑本地文件，以及运行任何Python、JavaScript和bash脚本。
+ * [duckduckgpt](https://github.com/kudoai/duckduckgpt) - 🐤 DuckDuckGo 插件将 ChatGPT 的魔力带到搜索结果中（由 GPT-4 提供动力！）
+ * [bravegpt](https://github.com/kudoai/bravegpt) - 🦁 勇敢搜索插件将ChatGPT的魔力带到搜索结果中（由GPT-4提供动力！）
 
 
 |Name|GitHub Stars|Language|License|
@@ -637,6 +653,8 @@ ChatGPT资料汇总学习，持续更新......
 |[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
 |[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
 |[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
+|[duckduckgpt](https://github.com/kudoai/duckduckgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/duckduckgpt?style=social)|JavaScript|mit|
+|[bravegpt](https://github.com/kudoai/bravegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/bravegpt?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -713,6 +731,7 @@ ChatGPT资料汇总学习，持续更新......
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务
  * [termGPT](https://github.com/tcapelle/termgpt) - 一个简单的Python包装器，可在终端上调用openAI的chatGPT。
  * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 一款智能、多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 ChatGPT 的强大客户端 JavaScript 库。
 
 
 |Name|GitHub Stars|Language|License|
@@ -786,6 +805,7 @@ ChatGPT资料汇总学习，持续更新......
 |[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
 |[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
 |[Chat2DB](https://github.com/alibaba/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/Chat2DB?style=social)|Java|apache-2.0|
+|[chatgpt.js](https://github.com/chatgptjs/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/chatgptjs/chatgpt.js?style=social)|JavaScript|mit|
 
 
 ## Reimplementations
@@ -1428,7 +1448,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
 |[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
-|[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/reliableGPT?style=social)|Python|mit|
+|[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
 
 
 ## Others
@@ -1653,6 +1673,7 @@ Chat酱独立部署版，docker方案自带代理
  * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4能进行神经架构搜索吗？
  * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - 使用策划档案和脚本分析ChatGPT代码库的演变历程。
  * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPT是一款用于分析Twitter上的个人资料和标签的工具。该应用程序利用各种技术和API收集数据并为用户生成信息。
+ * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ 自动继续生成多个ChatGPT回复
 
 
 |Name|GitHub Stars|Language|License|
@@ -1873,5 +1894,6 @@ Chat酱独立部署版，docker方案自带代理
 |[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
 |[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
 |[PROFILEGPT](https://github.com/odiks/profilegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/odiks/PROFILEGPT?style=social)|HTML|-|
+|[chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-continue?style=social)|JavaScript|mit|
 
 

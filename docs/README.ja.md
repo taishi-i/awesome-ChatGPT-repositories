@@ -15,26 +15,30 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ プライバシーをより保護するために、ChatGPTにチャット自動クリア機能を追加しました。
+ * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - 🖥️ チャットGPTのワイドスクリーン+フルスクリーンモードを追加して、視聴を向上させます。
+ * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ 全知のChatGPTから無限の回答を生成します（どの言語でも可！）
+ * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ↻ ネットワークエラーやCloudflareのチェックを回避するために、ChatGPTセッションを新鮮に保ちます。
+ * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 ChatGPTの驚異的なパワーを活用するアプリやそのUXを向上させるアプリ
+
+
 **Browser-extensions**
- * [kaguya](https://github.com/ykdojo/kaguya) - 制御された方法でローカルファイルを読み込み、編集し、Python、JavaScript、およびbashスクリプトを実行できるChatGPTプラグイン。
+ * [duckduckgpt](https://github.com/kudoai/duckduckgpt) - 🐤 DuckDuckGoのアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
+ * [bravegpt](https://github.com/kudoai/bravegpt) - 🦁 ブレイブサーチアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
 
 
-**NLP**
- * [sparrow](https://github.com/katanaml/sparrow) - MLによる文書からのデータ抽出
- * [lamini](https://github.com/lamini-ai/lamini) - 今日：🎉ChatGPTのようなLLMのトレーニングのためのホストされたデータジェネレータを開催しました🎉Laminiエンジンで生成されたデータでトレーニングされたオープンソースのLLM👉フルトレーニング、エンタープライズVPCなどを含む早期アクセス待ちリスト。
- * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - 長い文章から画像を生成する、深層生成モデルのパイプラインを使用したテキストから画像生成（GPT-3とStable Diffusion）
-
-
-**Openai**
- * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Next.js、OpenAI、およびSupabaseによって動力化された独自のカスタムChatGPTスタイルのドキュメント検索を構築するためのテンプレート。
- * [reliableGPT](https://github.com/berriai/reliablegpt) - OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。
+**CLIs**
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 ChatGPTのための強力なクライアントサイドのJavaScriptライブラリ。
 
 
 **Others**
- * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPTは、Twitter上のプロフィールやハッシュタグを分析するためのツールです。このアプリケーションは、さまざまな技術やAPIを活用してデータを収集し、ユーザーのために情報を生成します。
+ * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ 複数のChatGPTの応答を自動的に生成し続ける
 
 
-_Updated on June 27, 2023_ (A total of 840 repositories listed.)
+_Updated on June 30, 2023_ (A total of 849 repositories listed.)
+
+🏅 [adamlui](https://github.com/adamlui) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -336,6 +340,11 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - Telegramで動作するNodeJSベースのChatGPTボットは、音声チャットや画像生成などの高度な機能を備えています。
  * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 Pythonで書かれた、OpenAIの公式ChatGPT APIと統合して回答を提供するTelegramボット。
  * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - Vercel Labsによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
+ * [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ プライバシーをより保護するために、ChatGPTにチャット自動クリア機能を追加しました。
+ * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - 🖥️ チャットGPTのワイドスクリーン+フルスクリーンモードを追加して、視聴を向上させます。
+ * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ 全知のChatGPTから無限の回答を生成します（どの言語でも可！）
+ * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ↻ ネットワークエラーやCloudflareのチェックを回避するために、ChatGPTセッションを新鮮に保ちます。
+ * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 ChatGPTの驚異的なパワーを活用するアプリやそのUXを向上させるアプリ
 
 
 |Name|GitHub Stars|Language|License|
@@ -444,6 +453,11 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/sabber-slt/telegram-chatgpt-bot?style=social)|JavaScript|-|
 |[chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/n3d1117/chatgpt-telegram-bot?style=social)|Python|gpl-2.0|
 |[ai-chatbot](https://github.com/vercel-labs/ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)|TypeScript|other|
+|[autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/autoclear-chatgpt-history?style=social)|JavaScript|mit|
+|[chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-widescreen?style=social)|JavaScript|mit|
+|[chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-infinity?style=social)|JavaScript|mit|
+|[chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-refresh?style=social)|JavaScript|mit|
+|[chatgpt-apps](https://github.com/adamlui/chatgpt-apps)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-apps?style=social)|JavaScript|mit|
 
 
 ## Browser-extensions
@@ -543,6 +557,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - Chrome、Edge、Opera用のGPTチャット拡張機能。検索結果との直接統合。履歴管理付きの完全なチャットインターフェース。サーバー不要でコスト効果的。
  * [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - チャットGPTを使用して画像を処理および分析するためのnapariプラグイン！
  * [kaguya](https://github.com/ykdojo/kaguya) - 制御された方法でローカルファイルを読み込み、編集し、Python、JavaScript、およびbashスクリプトを実行できるChatGPTプラグイン。
+ * [duckduckgpt](https://github.com/kudoai/duckduckgpt) - 🐤 DuckDuckGoのアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
+ * [bravegpt](https://github.com/kudoai/bravegpt) - 🦁 ブレイブサーチアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
 
 
 |Name|GitHub Stars|Language|License|
@@ -642,6 +658,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai)|![GitHub Repo stars](https://img.shields.io/github/stars/robert-hoffmann/PowerToys4OpenAI?style=social)|TypeScript|-|
 |[napari-chatgpt](https://github.com/royerlab/napari-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/royerlab/napari-chatgpt?style=social)|CSS|bsd-3-clause|
 |[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
+|[duckduckgpt](https://github.com/kudoai/duckduckgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/duckduckgpt?style=social)|JavaScript|mit|
+|[bravegpt](https://github.com/kudoai/bravegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/bravegpt?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -715,6 +733,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一クリックで自分のChatGPT+Midjourneyウェブサービスを所有してください。
  * [termGPT](https://github.com/tcapelle/termgpt) - Pythonで書かれたターミナルでopenAIのchatGPTを呼び出すためのシンプルなラッパー
  * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 チャットGPT機能を統合した、データベース用の知的で多目的な汎用SQLクライアントおよびレポートツール。
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 ChatGPTのための強力なクライアントサイドのJavaScriptライブラリ。
 
 
 |Name|GitHub Stars|Language|License|
@@ -788,6 +807,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
 |[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
 |[Chat2DB](https://github.com/alibaba/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/Chat2DB?style=social)|Java|apache-2.0|
+|[chatgpt.js](https://github.com/chatgptjs/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/chatgptjs/chatgpt.js?style=social)|JavaScript|mit|
 
 
 ## Reimplementations
@@ -1420,7 +1440,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator)|![GitHub Repo stars](https://img.shields.io/github/stars/k8sgpt-ai/k8sgpt-operator?style=social)|Go|apache-2.0|
 |[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
-|[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/reliableGPT?style=social)|Python|mit|
+|[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
 
 
 ## Others
@@ -1643,6 +1663,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [GENIUS](https://github.com/mingkai-zheng/genius) - GPT-4はニューラルアーキテクチャサーチを実行できるか？
  * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - キュレーションされたアーカイブとスクリプトを使用して、ChatGPTのコードベースの進化を時間の経過とともに分析する。
  * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPTは、Twitter上のプロフィールやハッシュタグを分析するためのツールです。このアプリケーションは、さまざまな技術やAPIを活用してデータを収集し、ユーザーのために情報を生成します。
+ * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ 複数のChatGPTの応答を自動的に生成し続ける
 
 
 |Name|GitHub Stars|Language|License|
@@ -1863,5 +1884,6 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[GENIUS](https://github.com/mingkai-zheng/genius)|![GitHub Repo stars](https://img.shields.io/github/stars/mingkai-zheng/GENIUS?style=social)|Python|-|
 |[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
 |[PROFILEGPT](https://github.com/odiks/profilegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/odiks/PROFILEGPT?style=social)|HTML|-|
+|[chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-continue?style=social)|JavaScript|mit|
 
 
