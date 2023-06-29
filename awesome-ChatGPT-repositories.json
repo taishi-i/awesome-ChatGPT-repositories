@@ -3553,6 +3553,192 @@
                     "zh-hans": "由Vercel Labs构建的全功能、可黑客的Next.js AI聊天机器人",
                     "zh-hant": "由 Vercel 實驗室打造的全功能、可駭入的 Next.js AI 聊天機器人"
                 }
+            },
+            "https://github.com/adamlui/autoclear-chatgpt-history": {
+                "repository_name": "autoclear-chatgpt-history",
+                "user_name": "adamlui",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy",
+                "topics": [
+                    "artificial-intelligence",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt3",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "greasemonkey",
+                    "javascript",
+                    "machine-learning",
+                    "ml",
+                    "nlp",
+                    "openai",
+                    "privacy",
+                    "userscript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy",
+                    "ja": "🕶️ プライバシーをより保護するために、ChatGPTにチャット自動クリア機能を追加しました。",
+                    "zh-hans": "🕶️ 为ChatGPT添加聊天自动清除功能，提供更多隐私保护。",
+                    "zh-hant": "🕶️ 為了更好的隱私保護，為ChatGPT添加了聊天自動清除功能"
+                }
+            },
+            "https://github.com/adamlui/chatgpt-widescreen": {
+                "repository_name": "chatgpt-widescreen",
+                "user_name": "adamlui",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🖥️ Adds Widescreen + Fullscreen modes to ChatGPT for enhanced viewing",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt3",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "greasemonkey",
+                    "javascript",
+                    "machine-learning",
+                    "nlp",
+                    "openai",
+                    "ui",
+                    "userscript",
+                    "widescreen"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🖥️ Adds Widescreen + Fullscreen modes to ChatGPT for enhanced viewing.",
+                    "ja": "🖥️ チャットGPTのワイドスクリーン+フルスクリーンモードを追加して、視聴を向上させます。",
+                    "zh-hans": "输入：🖥️ 为ChatGPT添加宽屏和全屏模式，以提供更好的观看体验。",
+                    "zh-hant": "輸入：🖥️ 為ChatGPT新增了寬螢幕和全螢幕模式，以提供更好的觀賞體驗。"
+                }
+            },
+            "https://github.com/adamlui/chatgpt-infinity": {
+                "repository_name": "chatgpt-infinity",
+                "user_name": "adamlui",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "∞ Generate endless answers from all-knowing ChatGPT (in any language!)",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "chatbot",
+                    "chatgpt",
+                    "experimental",
+                    "gpt-3",
+                    "machine-learning",
+                    "nlp",
+                    "openai",
+                    "trivia"
+                ],
+                "multilingual_descriptions": {
+                    "en": "∞ Generate endless answers from all-knowing ChatGPT (in any language!)",
+                    "ja": "∞ 全知のChatGPTから無限の回答を生成します（どの言語でも可！）",
+                    "zh-hans": "∞ 从全知的ChatGPT（以任何语言）生成无尽的答案！",
+                    "zh-hant": "∞ 從全知的ChatGPT（以任何語言）生成無盡的答案！"
+                }
+            },
+            "https://github.com/adamlui/chatgpt-auto-refresh": {
+                "repository_name": "chatgpt-auto-refresh",
+                "user_name": "adamlui",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt3",
+                    "cloudflare",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "greasemonkey",
+                    "javascript",
+                    "machine-learning",
+                    "ml",
+                    "nlp",
+                    "openai",
+                    "reloader",
+                    "userscript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks",
+                    "ja": "↻ ネットワークエラーやCloudflareのチェックを回避するために、ChatGPTセッションを新鮮に保ちます。",
+                    "zh-hans": "输入：↻ 保持ChatGPT会话的新鲜度以避免网络错误+ Cloudflare检查",
+                    "zh-hant": "輸入：↻ 保持ChatGPT會話的新鮮度，以避免網絡錯誤+ Cloudflare檢查"
+                }
+            },
+            "https://github.com/adamlui/chatgpt-apps": {
+                "repository_name": "chatgpt-apps",
+                "user_name": "adamlui",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX",
+                "topics": [
+                    "ai",
+                    "artificialintelligence",
+                    "brave",
+                    "brave-search",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt3",
+                    "chatgpt35-turbo",
+                    "duckduckgo",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt3",
+                    "greasemonkey",
+                    "javascript",
+                    "machine-learning",
+                    "ml",
+                    "nlp",
+                    "openai",
+                    "userscript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 Apps that utilize the astounding power of ChatGPT or enhance its UX",
+                    "ja": "🤖 ChatGPTの驚異的なパワーを活用するアプリやそのUXを向上させるアプリ",
+                    "zh-hans": "🤖 利用ChatGPT的惊人能力或增强其用户体验的应用程序",
+                    "zh-hant": "🤖 應用程式利用ChatGPT的驚人能力或增強其使用者體驗"
+                }
             }
         },
         "Browser-extensions": {
@@ -5428,6 +5614,87 @@
                     "zh-hans": "一个ChatGPT插件，可以以受控方式加载和编辑本地文件，以及运行任何Python、JavaScript和bash脚本。",
                     "zh-hant": "一個 ChatGPT 插件，可以以受控方式載入和編輯本地文件，並運行任何 Python、JavaScript 和 bash 腳本。"
                 }
+            },
+            "https://github.com/kudoai/duckduckgpt": {
+                "repository_name": "duckduckgpt",
+                "user_name": "kudoai",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "bot",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt3",
+                    "ddg",
+                    "duckduckgo",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "greasemonkey",
+                    "javascript",
+                    "machine-learning",
+                    "nlp",
+                    "openai",
+                    "search",
+                    "userscript",
+                    "web"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)",
+                    "ja": "🐤 DuckDuckGoのアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）",
+                    "zh-hans": "🐤 DuckDuckGo 插件将 ChatGPT 的魔力带到搜索结果中（由 GPT-4 提供动力！）",
+                    "zh-hant": "🐤 DuckDuckGo 的附加元件，將 ChatGPT 的魔力帶到搜尋結果中（由 GPT-4 驅動！）"
+                }
+            },
+            "https://github.com/kudoai/bravegpt": {
+                "repository_name": "bravegpt",
+                "user_name": "kudoai",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🦁 Brave Search add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "brave",
+                    "brave-search",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt3",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "greasemonkey",
+                    "javascript",
+                    "machine-learning",
+                    "nlp",
+                    "openai",
+                    "search",
+                    "userscript",
+                    "web",
+                    "websearch"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🦁 Brave Search add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)",
+                    "ja": "🦁 ブレイブサーチアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）",
+                    "zh-hans": "🦁 勇敢搜索插件将ChatGPT的魔力带到搜索结果中（由GPT-4提供动力！）",
+                    "zh-hant": "🦁 勇敢搜索插件將ChatGPT的魔力帶到搜索結果中（由GPT-4提供動力！）"
+                }
             }
         },
         "CLIs": {
@@ -6836,6 +7103,47 @@
                     "ja": "🔥 🔥 🔥 チャットGPT機能を統合した、データベース用の知的で多目的な汎用SQLクライアントおよびレポートツール。",
                     "zh-hans": "🔥 🔥 🔥 一款智能、多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。",
                     "zh-hant": "🔥 🔥 🔥 一個智能且多功能的通用SQL客戶端和報表工具，可整合ChatGPT功能。"
+                }
+            },
+            "https://github.com/chatgptjs/chatgpt.js": {
+                "repository_name": "chatgpt.js",
+                "user_name": "chatgptjs",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🤖 A powerful client-side JavaScript library for ChatGPT",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "bot",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "clientside",
+                    "conversational-ai",
+                    "conversational-bots",
+                    "frontend",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "javascript",
+                    "js",
+                    "library",
+                    "machine-learning",
+                    "ml",
+                    "nlp",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 A powerful client-side JavaScript library for ChatGPT.",
+                    "ja": "🤖 ChatGPTのための強力なクライアントサイドのJavaScriptライブラリ。",
+                    "zh-hans": "🤖 ChatGPT 的强大客户端 JavaScript 库。",
+                    "zh-hant": "🤖 ChatGPT 的強大客戶端 JavaScript 函式庫。"
                 }
             }
         },
@@ -16297,6 +16605,26 @@
                     "ja": "PROFILEGPTは、Twitter上のプロフィールやハッシュタグを分析するためのツールです。このアプリケーションは、さまざまな技術やAPIを活用してデータを収集し、ユーザーのために情報を生成します。",
                     "zh-hans": "PROFILEGPT是一款用于分析Twitter上的个人资料和标签的工具。该应用程序利用各种技术和API收集数据并为用户生成信息。",
                     "zh-hant": "PROFILEGPT 是一個用於分析 Twitter 上的個人資料和標籤的工具。該應用程式利用各種技術和 API 收集數據，為用戶生成信息。"
+                }
+            },
+            "https://github.com/adamlui/chatgpt-auto-continue": {
+                "repository_name": "chatgpt-auto-continue",
+                "user_name": "adamlui",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "⏩ Automatically continue generating multiple ChatGPT responses",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "⏩ Automatically continue generating multiple ChatGPT responses",
+                    "ja": "⏩ 複数のChatGPTの応答を自動的に生成し続ける",
+                    "zh-hans": "⏩ 自动继续生成多个ChatGPT回复",
+                    "zh-hant": "⏩ 自動繼續生成多個ChatGPT回應"
                 }
             }
         }
