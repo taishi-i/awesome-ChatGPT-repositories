@@ -29,7 +29,7 @@
 
 
 **CLIs**
- * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 為ChatGPT提供強大的客戶端JavaScript庫.
+ * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 為ChatGPT提供強大的客戶端JavaScript庫.
 
 
 **Others**
@@ -731,7 +731,7 @@ _Updated on June 30, 2023_ (A total of 849 repositories listed.)
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一鍵擁有你自己的 ChatGPT+Midjourney 網頁服務
  * [termGPT](https://github.com/tcapelle/termgpt) - 一個簡單的Python封裝程式，可在終端上調用openAI的chatGPT。
  * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 一個智能且多功能的通用SQL客戶端和報表工具，可整合ChatGPT功能。
- * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 ChatGPT 的強大客戶端 JavaScript 函式庫。
+ * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 ChatGPT 的強大客戶端 JavaScript 函式庫。
 
 
 |Name|GitHub Stars|Language|License|
@@ -805,7 +805,7 @@ _Updated on June 30, 2023_ (A total of 849 repositories listed.)
 |[ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney?style=social)|TypeScript|other|
 |[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
 |[Chat2DB](https://github.com/alibaba/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/Chat2DB?style=social)|Java|apache-2.0|
-|[chatgpt.js](https://github.com/chatgptjs/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/chatgptjs/chatgpt.js?style=social)|JavaScript|mit|
+|[chatgpt.js](https://github.com/kudoai/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/chatgpt.js?style=social)|JavaScript|mit|
 
 
 ## Reimplementations
