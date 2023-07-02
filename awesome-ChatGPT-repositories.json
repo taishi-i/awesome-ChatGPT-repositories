@@ -3739,6 +3739,31 @@
                     "zh-hans": "🤖 利用ChatGPT的惊人能力或增强其用户体验的应用程序",
                     "zh-hant": "🤖 應用程式利用ChatGPT的驚人能力或增強其使用者體驗"
                 }
+            },
+            "https://github.com/embedchain/embedchain": {
+                "repository_name": "embedchain",
+                "user_name": "embedchain",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Framework to easily create LLM powered bots over any dataset.",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Framework to easily create LLM powered bots over any dataset.",
+                    "ja": "任意のデータセット上で簡単にLLMパワードボットを作成するためのフレームワーク。",
+                    "zh-hans": "使用框架轻松创建基于任何数据集的LLM强化机器人。",
+                    "zh-hant": "輸入：一個能夠輕鬆在任何數據集上創建以LLM為動力的機器人的框架。\n輸出："
+                }
             }
         },
         "Browser-extensions": {
@@ -7145,6 +7170,26 @@
                     "zh-hans": "🤖 ChatGPT 的强大客户端 JavaScript 库。",
                     "zh-hant": "🤖 ChatGPT 的強大客戶端 JavaScript 函式庫。"
                 }
+            },
+            "https://github.com/sderev/llm-toolbox": {
+                "repository_name": "llm-toolbox",
+                "user_name": "sderev",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "LLM-Toolbox is a versatile collection of command-line interface (CLI) tools that utilize AI to perform various tasks, including proofreading, identifying appropriate shell commands, generating automatic commit messages, and more.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "LLM-Toolbox is a versatile collection of command-line interface (CLI) tools that utilize AI to perform various tasks, including proofreading, identifying appropriate shell commands, generating automatic commit messages, and more.",
+                    "ja": "LLM-Toolboxは、AIを利用して様々なタスクを実行するための多機能なコマンドラインインターフェース（CLI）ツールの集合です。これには、校正、適切なシェルコマンドの特定、自動コミットメッセージの生成などが含まれます。",
+                    "zh-hans": "LLM-Toolbox是一个多功能的命令行界面（CLI）工具集合，利用人工智能来执行各种任务，包括校对、识别适当的shell命令、生成自动提交信息等等。",
+                    "zh-hant": "LLM-Toolbox 是一個多功能的命令行界面（CLI）工具集，利用人工智能執行各種任務，包括校對、識別適當的 shell 命令、生成自動提交訊息等等。"
+                }
             }
         },
         "Reimplementations": {
@@ -10052,6 +10097,26 @@
                     "ja": "長い文章から画像を生成する、深層生成モデルのパイプラインを使用したテキストから画像生成（GPT-3とStable Diffusion）",
                     "zh-hans": "长文本生成图像，使用深度生成模型（GPT-3和稳定扩散）的管道。",
                     "zh-hant": "長文本轉圖像生成，使用深度生成模型（GPT-3和穩定擴散）的管道。"
+                }
+            },
+            "https://github.com/0xpayne/gpt-migrate": {
+                "repository_name": "gpt-migrate",
+                "user_name": "0xpayne",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Easily migrate your codebase from one framework or language to another.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Easily migrate your codebase from one framework or language to another.",
+                    "ja": "簡単にコードベースを別のフレームワークや言語に移行できます。",
+                    "zh-hans": "轻松将您的代码库从一个框架或语言迁移到另一个框架或语言。",
+                    "zh-hant": "輕鬆將您的程式碼從一個框架或語言遷移到另一個。"
                 }
             }
         },
@@ -16625,6 +16690,61 @@
                     "ja": "⏩ 複数のChatGPTの応答を自動的に生成し続ける",
                     "zh-hans": "⏩ 自动继续生成多个ChatGPT回复",
                     "zh-hant": "⏩ 自動繼續生成多個ChatGPT回應"
+                }
+            },
+            "https://github.com/a1k0n/a1gpt": {
+                "repository_name": "a1gpt",
+                "user_name": "a1k0n",
+                "language": "C++",
+                "license": null,
+                "description": "throwaway GPT inference",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "throwaway GPT inference",
+                    "ja": "使い捨てのGPT推論",
+                    "zh-hans": "一次性使用的GPT推理",
+                    "zh-hant": "一次性使用的GPT推理"
+                }
+            },
+            "https://github.com/ramonvc/freegpt-webui": {
+                "repository_name": "freegpt-webui",
+                "user_name": "ramonvc",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "GPT 3.5/4 with a Chat Web UI. No API key required.",
+                "topics": [
+                    "apifree",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-clone",
+                    "freegpt",
+                    "freegpt4",
+                    "gpt-4",
+                    "gpt-4-api",
+                    "gpt-4-free",
+                    "gpt-free",
+                    "gpt-interface",
+                    "gpt3",
+                    "gpt3-api",
+                    "gpt3-turbo",
+                    "gpt4",
+                    "gpt4all",
+                    "gptfree",
+                    "jailbreak",
+                    "language-model",
+                    "website"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GPT 3.5/4 with a Chat Web UI. No API key required.",
+                    "ja": "GPT 3.5/4とチャットWeb UIを使用しています。APIキーは必要ありません。",
+                    "zh-hans": "GPT 3.5/4带有聊天网页界面。无需API密钥。",
+                    "zh-hant": "輸入：具有聊天網頁界面的GPT 3.5/4。無需API密鑰。\n輸出："
                 }
             }
         }
