@@ -16,27 +16,24 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - ️为更多的隐私添加了自动清除聊天功能
- * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - ️ 增加宽屏+全屏模式,以便更好地查看.
- * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞从万能的ChatGPT (在任何语言中) 生成无限的答案!
- * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) -  保持 ChatGPT 会议清新,以避免网络错误 + Cloudflare 检查
- * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 应用程序利用ChatGPT的惊人的力量或增强其用户体验
-
-
-**Browser-extensions**
- * [duckduckgpt](https://github.com/kudoai/duckduckgpt) -  DuckDuckGo 添加程序,将 ChatGPT 的魔力带到搜索结果中 (由 GPT-4 提供支持!)
- * [bravegpt](https://github.com/kudoai/bravegpt) -  勇敢的搜索附加程序,将ChatGPT的魔力带到搜索结果中 (GPT-4支持!)
+ * [embedchain](https://github.com/embedchain/embedchain) - 框架可以轻松地在任何数据集上创建LLM驱动的机器人.
 
 
 **CLIs**
- * [chatgpt.js](https://github.com/kudoai/chatgpt.js) -  对于 ChatGPT 的一个强大的客户端 JavaScript 库.
+ * [llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox是一个多功能的命令行接口 (CLI) 工具,利用AI执行各种任务,包括校对,识别适当的shell命令,生成自动提交消息等.
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) -  对于 ChatGPT 的一个强大的客户端 JavaScript 库.
+
+
+**NLP**
+ * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - 轻松地将代码库从一个框架或语言迁移到另一个语言.
 
 
 **Others**
- * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) -  继续自动生成多个ChatGPT响应
+ * [a1gpt](https://github.com/a1k0n/a1gpt) - 丢弃性 GPT 推理
+ * [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - 采用GPT 3.5/4的网络聊天界面.
 
 
-_Updated on June 30, 2023_ (A total of 849 repositories listed.)
+_Updated on July 03, 2023_ (A total of 855 repositories listed.)
 
 🏅 [adamlui](https://github.com/adamlui) provided some repository information. Thank you!
 
@@ -339,6 +336,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ 从全知的ChatGPT（以任何语言）生成无尽的答案！
  * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - 输入：↻ 保持ChatGPT会话的新鲜度以避免网络错误+ Cloudflare检查
  * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 利用ChatGPT的惊人能力或增强其用户体验的应用程序
+ * [embedchain](https://github.com/embedchain/embedchain) - 使用框架轻松创建基于任何数据集的LLM强化机器人。
 
 
 |Name|GitHub Stars|Language|License|
@@ -452,6 +450,7 @@ ChatGPT资料汇总学习，持续更新......
 |[chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-infinity?style=social)|JavaScript|mit|
 |[chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-refresh?style=social)|JavaScript|mit|
 |[chatgpt-apps](https://github.com/adamlui/chatgpt-apps)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-apps?style=social)|JavaScript|mit|
+|[embedchain](https://github.com/embedchain/embedchain)|![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -731,7 +730,9 @@ ChatGPT资料汇总学习，持续更新......
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一键拥有你自己的 ChatGPT+Midjourney 网页服务
  * [termGPT](https://github.com/tcapelle/termgpt) - 一个简单的Python包装器，可在终端上调用openAI的chatGPT。
  * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 一款智能、多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。
- * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 ChatGPT 的强大客户端 JavaScript 库。
+ * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 一个强大的客户端JavaScript库，用于ChatGPT
+ * [llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox是一个多功能的命令行界面（CLI）工具集合，利用人工智能来执行各种任务，包括校对、识别适当的shell命令、生成自动提交信息等等。
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 ChatGPT 的强大客户端 JavaScript 库。
 
 
 |Name|GitHub Stars|Language|License|
@@ -806,6 +807,8 @@ ChatGPT资料汇总学习，持续更新......
 |[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
 |[Chat2DB](https://github.com/alibaba/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/Chat2DB?style=social)|Java|apache-2.0|
 |[chatgpt.js](https://github.com/kudoai/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/chatgpt.js?style=social)|JavaScript|mit|
+|[llm-toolbox](https://github.com/sderev/llm-toolbox)|![GitHub Repo stars](https://img.shields.io/github/stars/sderev/llm-toolbox?style=social)|Python|apache-2.0|
+|[chatgpt.js](https://github.com/chatgptjs/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/chatgptjs/chatgpt.js?style=social)|JavaScript|mit|
 
 
 ## Reimplementations
@@ -1008,6 +1011,7 @@ ChatGPT资料汇总学习，持续更新......
  * [sparrow](https://github.com/katanaml/sparrow) - 使用机器学习从文档中提取数据
  * [lamini](https://github.com/lamini-ai/lamini) - 今天：🎉为像ChatGPT这样的LLM托管数据生成器🎉一个开源的LLM，使用Lamini引擎训练生成的数据👉提前访问完整的培训等待名单，包括企业VPC等。
  * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - 长文本生成图像，使用深度生成模型（GPT-3和稳定扩散）的管道。
+ * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - 轻松将您的代码库从一个框架或语言迁移到另一个框架或语言。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1143,6 +1147,7 @@ ChatGPT资料汇总学习，持续更新......
 |[sparrow](https://github.com/katanaml/sparrow)|![GitHub Repo stars](https://img.shields.io/github/stars/katanaml/sparrow?style=social)|Jupyter Notebook|mit|
 |[lamini](https://github.com/lamini-ai/lamini)|![GitHub Repo stars](https://img.shields.io/github/stars/lamini-ai/lamini?style=social)|Python|other|
 |[long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)|![GitHub Repo stars](https://img.shields.io/github/stars/sharonzhou/long_stable_diffusion?style=social)|Python|-|
+|[gpt-migrate](https://github.com/0xpayne/gpt-migrate)|![GitHub Repo stars](https://img.shields.io/github/stars/0xpayne/gpt-migrate?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1674,6 +1679,8 @@ Chat酱独立部署版，docker方案自带代理
  * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - 使用策划档案和脚本分析ChatGPT代码库的演变历程。
  * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPT是一款用于分析Twitter上的个人资料和标签的工具。该应用程序利用各种技术和API收集数据并为用户生成信息。
  * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ 自动继续生成多个ChatGPT回复
+ * [a1gpt](https://github.com/a1k0n/a1gpt) - 一次性使用的GPT推理
+ * [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4带有聊天网页界面。无需API密钥。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1895,5 +1902,7 @@ Chat酱独立部署版，docker方案自带代理
 |[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
 |[PROFILEGPT](https://github.com/odiks/profilegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/odiks/PROFILEGPT?style=social)|HTML|-|
 |[chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-continue?style=social)|JavaScript|mit|
+|[a1gpt](https://github.com/a1k0n/a1gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/a1k0n/a1gpt?style=social)|C++|-|
+|[freegpt-webui](https://github.com/ramonvc/freegpt-webui)|![GitHub Repo stars](https://img.shields.io/github/stars/ramonvc/freegpt-webui?style=social)|Python|gpl-3.0|
 
 

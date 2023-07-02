@@ -16,27 +16,24 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - ️為更多隱私提供了自動清除聊天功能
- * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - ️為增強視頻的使用增加廣+全屏模式.
- * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞從萬能的ChatGPT (以任何語言) 生成無限的答案!
- * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - 保持ChatGPT會議更新以避免網路錯誤 + Cloudflare檢查
- * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 使用ChatGPT的驚人力量或增強其使用者體驗的應用程式
-
-
-**Browser-extensions**
- * [duckduckgpt](https://github.com/kudoai/duckduckgpt) -  DuckDuckGo附加程式將ChatGPT的魔力帶入搜尋結果 (由GPT-4提供動力!)
- * [bravegpt](https://github.com/kudoai/bravegpt) - 勇敢搜尋插件, 將ChatGPT的魔力帶到搜尋結果 (由GPT-4提供動力!)
+ * [embedchain](https://github.com/embedchain/embedchain) - 框架讓我們輕鬆地在任何數據集上創建LLM動態機器人.
 
 
 **CLIs**
- * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 為ChatGPT提供強大的客戶端JavaScript庫.
+ * [llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox是一系列多功能命令行接口 (CLI) 工具,使用AI進行各種任務,包括校對,識別適當的 shell命令,生成自動提交訊息等.
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 為ChatGPT提供強大的客戶端JavaScript庫.
+
+
+**NLP**
+ * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - 輕鬆地將你的代碼庫從一個框架或語言遷移到另一個.
 
 
 **Others**
- * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) -  自動繼續生成多個ChatGPT回應
+ * [a1gpt](https://github.com/a1k0n/a1gpt) - 回使用 GPT 推論
+ * [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - 沒有需要API鍵.
 
 
-_Updated on June 30, 2023_ (A total of 849 repositories listed.)
+_Updated on July 03, 2023_ (A total of 855 repositories listed.)
 
 🏅 [adamlui](https://github.com/adamlui) provided some repository information. Thank you!
 
@@ -341,6 +338,8 @@ _Updated on June 30, 2023_ (A total of 849 repositories listed.)
  * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ 從全知的ChatGPT（以任何語言）生成無盡的答案！
  * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - 輸入：↻ 保持ChatGPT會話的新鮮度，以避免網絡錯誤+ Cloudflare檢查
  * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 應用程式利用ChatGPT的驚人能力或增強其使用者體驗
+ * [embedchain](https://github.com/embedchain/embedchain) - 輸入：一個能夠輕鬆在任何數據集上創建以LLM為動力的機器人的框架。
+輸出：
 
 
 |Name|GitHub Stars|Language|License|
@@ -454,6 +453,7 @@ _Updated on June 30, 2023_ (A total of 849 repositories listed.)
 |[chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-infinity?style=social)|JavaScript|mit|
 |[chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-refresh?style=social)|JavaScript|mit|
 |[chatgpt-apps](https://github.com/adamlui/chatgpt-apps)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-apps?style=social)|JavaScript|mit|
+|[embedchain](https://github.com/embedchain/embedchain)|![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -731,7 +731,9 @@ _Updated on June 30, 2023_ (A total of 849 repositories listed.)
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一鍵擁有你自己的 ChatGPT+Midjourney 網頁服務
  * [termGPT](https://github.com/tcapelle/termgpt) - 一個簡單的Python封裝程式，可在終端上調用openAI的chatGPT。
  * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 一個智能且多功能的通用SQL客戶端和報表工具，可整合ChatGPT功能。
- * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 ChatGPT 的強大客戶端 JavaScript 函式庫。
+ * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 ChatGPT 的強大客戶端 JavaScript 函式庫
+ * [llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox 是一個多功能的命令行界面（CLI）工具集，利用人工智能執行各種任務，包括校對、識別適當的 shell 命令、生成自動提交訊息等等。
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 ChatGPT 的強大客戶端 JavaScript 函式庫。
 
 
 |Name|GitHub Stars|Language|License|
@@ -806,6 +808,8 @@ _Updated on June 30, 2023_ (A total of 849 repositories listed.)
 |[termGPT](https://github.com/tcapelle/termgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcapelle/termGPT?style=social)|Python|-|
 |[Chat2DB](https://github.com/alibaba/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/Chat2DB?style=social)|Java|apache-2.0|
 |[chatgpt.js](https://github.com/kudoai/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/chatgpt.js?style=social)|JavaScript|mit|
+|[llm-toolbox](https://github.com/sderev/llm-toolbox)|![GitHub Repo stars](https://img.shields.io/github/stars/sderev/llm-toolbox?style=social)|Python|apache-2.0|
+|[chatgpt.js](https://github.com/chatgptjs/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/chatgptjs/chatgpt.js?style=social)|JavaScript|mit|
 
 
 ## Reimplementations
@@ -1009,6 +1013,7 @@ _Updated on June 30, 2023_ (A total of 849 repositories listed.)
  * [sparrow](https://github.com/katanaml/sparrow) - 利用機器學習從文件中提取數據
  * [lamini](https://github.com/lamini-ai/lamini) - 今天：🎉主持用於訓練像ChatGPT這樣的LLM的數據生成器🎉一個開源的LLM，使用Lamini引擎訓練生成的數據👉提前訪問完整培訓的等待名單，包括企業VPC等。
  * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - 長文本轉圖像生成，使用深度生成模型（GPT-3和穩定擴散）的管道。
+ * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - 輕鬆將您的程式碼從一個框架或語言遷移到另一個。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1144,6 +1149,7 @@ _Updated on June 30, 2023_ (A total of 849 repositories listed.)
 |[sparrow](https://github.com/katanaml/sparrow)|![GitHub Repo stars](https://img.shields.io/github/stars/katanaml/sparrow?style=social)|Jupyter Notebook|mit|
 |[lamini](https://github.com/lamini-ai/lamini)|![GitHub Repo stars](https://img.shields.io/github/stars/lamini-ai/lamini?style=social)|Python|other|
 |[long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)|![GitHub Repo stars](https://img.shields.io/github/stars/sharonzhou/long_stable_diffusion?style=social)|Python|-|
+|[gpt-migrate](https://github.com/0xpayne/gpt-migrate)|![GitHub Repo stars](https://img.shields.io/github/stars/0xpayne/gpt-migrate?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1677,6 +1683,9 @@ add chatgpt to your groupchats:
  * [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - 通過精選的檔案和腳本分析ChatGPT代碼庫的演變。
  * [PROFILEGPT](https://github.com/odiks/profilegpt) - PROFILEGPT 是一個用於分析 Twitter 上的個人資料和標籤的工具。該應用程式利用各種技術和 API 收集數據，為用戶生成信息。
  * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ 自動繼續生成多個ChatGPT回應
+ * [a1gpt](https://github.com/a1k0n/a1gpt) - 一次性使用的GPT推理
+ * [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - 輸入：具有聊天網頁界面的GPT 3.5/4。無需API密鑰。
+輸出：
 
 
 |Name|GitHub Stars|Language|License|
@@ -1898,5 +1907,7 @@ add chatgpt to your groupchats:
 |[chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch)|![GitHub Repo stars](https://img.shields.io/github/stars/0xdevalias/chatgpt-source-watch?style=social)|JavaScript|other|
 |[PROFILEGPT](https://github.com/odiks/profilegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/odiks/PROFILEGPT?style=social)|HTML|-|
 |[chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-continue?style=social)|JavaScript|mit|
+|[a1gpt](https://github.com/a1k0n/a1gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/a1k0n/a1gpt?style=social)|C++|-|
+|[freegpt-webui](https://github.com/ramonvc/freegpt-webui)|![GitHub Repo stars](https://img.shields.io/github/stars/ramonvc/freegpt-webui?style=social)|Python|gpl-3.0|
 
 
