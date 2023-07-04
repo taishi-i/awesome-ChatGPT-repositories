@@ -1188,6 +1188,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
  * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - Toolkit for using self-hosted large language models, through langchain & other means
  * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
  * [eva](https://github.com/georgia-tech-db/eva) - Database system for building simpler and faster AI-powered applications
+ * [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩 DemoGPT enables you to create quick demos by just using prompts on top of LangChain documentation.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1237,6 +1238,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
 |[OgbujiPT](https://github.com/uogbuji/ogbujipt)|![GitHub Repo stars](https://img.shields.io/github/stars/uogbuji/OgbujiPT?style=social)|Python|apache-2.0|
 |[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
 |[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
+|[DemoGPT](https://github.com/melih-unsal/DemoGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)|Python|mit|
 
 
 ## Unity
