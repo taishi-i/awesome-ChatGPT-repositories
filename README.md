@@ -18,27 +18,35 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
+**Prompts**
+ * [DemoGPT](https://github.com/melih-unsal/demogpt) - ⚡ DemoGPT enables you to create quick demos by just using prompts. ⚡    🌟 Star to support our work!
 
 
 **CLIs**
- * [llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox is a versatile collection of command-line interface (CLI) tools that utilize AI to perform various tasks, including proofreading, identifying appropriate shell commands, generating automatic commit messages, and more.
- * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful client-side JavaScript library for ChatGPT
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 A powerful client-side JavaScript library for ChatGPT
+ * [Clippy](https://github.com/firecubestudios/clippy) - Clippy by FireCube.
+ * [aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
 
 
-**NLP**
- * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+**Reimplementations**
+ * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+
+
+**Langchain**
+ * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI
+
+
+**Openai**
+ * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。 
 
 
 **Others**
- * [a1gpt](https://github.com/a1k0n/a1gpt) - throwaway GPT inference
- * [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
+ * [commavq](https://github.com/commaai/commavq) - commaVQ is a dataset of compressed driving video
 
 
-_Updated on July 03, 2023_ (A total of 855 repositories listed.)
+_Updated on July 04, 2023_ (A total of 862 repositories listed.)
 
-🏅 [adamlui](https://github.com/adamlui) provided some repository information. Thank you!
+🏅 [melih-unsal](https://github.com/melih-unsal) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -163,6 +171,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
  * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - Prompts for playable games in ChatGPT
  * [TaskMatrix](https://github.com/microsoft/taskmatrix) - @jksyaw @LangChainAI @FlowiseAI @bubble If the prompts are descriptive and distinguishable from each other, my understanding is the agent can still work fine for a large number of tools. For a sample use of a list of tools check out Microsoft's visualChatGPT repo  not sure with 1 million…
  * [GPTWorld](https://github.com/srush/gptworld) - A puzzle to learn about prompting
+ * [DemoGPT](https://github.com/melih-unsal/demogpt) - ⚡ DemoGPT enables you to create quick demos by just using prompts. ⚡    🌟 Star to support our work!
 
 
 |Name|GitHub Stars|Language|License|
@@ -225,6 +234,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
 |[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/admtal/chat-gpt-games?style=social)|-|apache-2.0|
 |[TaskMatrix](https://github.com/microsoft/taskmatrix)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskMatrix?style=social)|Python|mit|
 |[GPTWorld](https://github.com/srush/gptworld)|![GitHub Repo stars](https://img.shields.io/github/stars/srush/GPTWorld?style=social)|Jupyter Notebook|mit|
+|[DemoGPT](https://github.com/melih-unsal/demogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -730,7 +740,9 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
  * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
  * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful client-side JavaScript library for ChatGPT
  * [llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox is a versatile collection of command-line interface (CLI) tools that utilize AI to perform various tasks, including proofreading, identifying appropriate shell commands, generating automatic commit messages, and more.
- * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 A powerful client-side JavaScript library for ChatGPT
+ * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 A powerful client-side JavaScript library for ChatGPT
+ * [Clippy](https://github.com/firecubestudios/clippy) - Clippy by FireCube.
+ * [aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
 
 
 |Name|GitHub Stars|Language|License|
@@ -806,7 +818,9 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
 |[Chat2DB](https://github.com/alibaba/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/Chat2DB?style=social)|Java|apache-2.0|
 |[chatgpt.js](https://github.com/kudoai/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/chatgpt.js?style=social)|JavaScript|mit|
 |[llm-toolbox](https://github.com/sderev/llm-toolbox)|![GitHub Repo stars](https://img.shields.io/github/stars/sderev/llm-toolbox?style=social)|Python|apache-2.0|
-|[chatgpt.js](https://github.com/kudoai/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/chatgpt.js?style=social)|JavaScript|mit|
+|[chatgpt.js](https://github.com/chatgptjs/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/chatgptjs/chatgpt.js?style=social)|JavaScript|mit|
+|[Clippy](https://github.com/firecubestudios/clippy)|![GitHub Repo stars](https://img.shields.io/github/stars/FireCubeStudios/Clippy?style=social)|C#|-|
+|[aider](https://github.com/paul-gauthier/aider)|![GitHub Repo stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social)|Python|apache-2.0|
 
 
 ## Reimplementations
@@ -828,6 +842,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
  * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - An open source implementation of OpenAI's ChatGPT Code interpreter
  * [DragGAN](https://github.com/zeqiang-lai/draggan) - Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold"
  * [femtoGPT](https://github.com/keyvank/femtogpt) - Pure Rust implementation of a minimal Generative Pretrained Transformer
+ * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 
 
 |Name|GitHub Stars|Language|License|
@@ -849,6 +864,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
 |[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/zeqiang-lai/DragGAN?style=social)|Python|-|
 |[femtoGPT](https://github.com/keyvank/femtogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/keyvank/femtoGPT?style=social)|Rust|mit|
+|[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-gpt?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -1188,7 +1204,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
  * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - Toolkit for using self-hosted large language models, through langchain & other means
  * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
  * [eva](https://github.com/georgia-tech-db/eva) - Database system for building simpler and faster AI-powered applications
- * [DemoGPT](https://github.com/melih-unsal/DemoGPT) - 🧩 DemoGPT enables you to create quick demos by just using prompts on top of LangChain documentation.
+ * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI
 
 
 |Name|GitHub Stars|Language|License|
@@ -1238,7 +1254,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
 |[OgbujiPT](https://github.com/uogbuji/ogbujipt)|![GitHub Repo stars](https://img.shields.io/github/stars/uogbuji/OgbujiPT?style=social)|Python|apache-2.0|
 |[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
 |[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
-|[DemoGPT](https://github.com/melih-unsal/DemoGPT)|![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)|Python|mit|
+|[LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/sugarforever/LangChain-Tutorials?style=social)|Jupyter Notebook|-|
 
 
 ## Unity
@@ -1352,6 +1368,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.
  * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
  * [reliableGPT](https://github.com/berriai/reliablegpt) - Get 100% uptime, reliability from OpenAI. Handle Rate Limit, Timeout, API, Keys Errors
+ * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。 
 
 
 |Name|GitHub Stars|Language|License|
@@ -1441,6 +1458,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
 |[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
+|[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/City-of-Kobe/pva-aoai-integration-solution?style=social)|-|mit|
 
 
 ## Others
@@ -1664,6 +1682,7 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
  * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ Automatically continue generating multiple ChatGPT responses
  * [a1gpt](https://github.com/a1k0n/a1gpt) - throwaway GPT inference
  * [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required.
+ * [commavq](https://github.com/commaai/commavq) - commaVQ is a dataset of compressed driving video
 
 
 |Name|GitHub Stars|Language|License|
@@ -1887,5 +1906,6 @@ _Updated on July 03, 2023_ (A total of 855 repositories listed.)
 |[chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-continue?style=social)|JavaScript|mit|
 |[a1gpt](https://github.com/a1k0n/a1gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/a1k0n/a1gpt?style=social)|C++|-|
 |[freegpt-webui](https://github.com/ramonvc/freegpt-webui)|![GitHub Repo stars](https://img.shields.io/github/stars/ramonvc/freegpt-webui?style=social)|Python|gpl-3.0|
+|[commavq](https://github.com/commaai/commavq)|![GitHub Repo stars](https://img.shields.io/github/stars/commaai/commavq?style=social)|Jupyter Notebook|mit|
 
 
