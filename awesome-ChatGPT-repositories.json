@@ -1462,6 +1462,40 @@
                     "zh-hans": "一个学习提示的谜题",
                     "zh-hant": "一個學習提示的拼圖"
                 }
+            },
+            "https://github.com/melih-unsal/demogpt": {
+                "repository_name": "DemoGPT",
+                "user_name": "melih-unsal",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "⚡ DemoGPT enables you to create quick demos by just using prompts. ⚡    🌟 Star to support our work!",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "demo",
+                    "gpt3-turbo",
+                    "langchain",
+                    "langchain-app",
+                    "langchain-python",
+                    "llms",
+                    "open-source",
+                    "prompt",
+                    "prompt-engineering",
+                    "streamlit",
+                    "streamlit-application"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⚡ DemoGPT enables you to create quick demos by just using prompts. ⚡    🌟 Star to support our work!",
+                    "ja": "⚡ DemoGPTは、プロンプトを使用するだけで簡単にクイックデモを作成することができます。⚡ 🌟 星をつけて私たちの活動をサポートしてください！",
+                    "zh-hans": "⚡ DemoGPT 可以通过简单的提示帮助您创建快速演示。⚡ 🌟 点赞支持我们的工作！",
+                    "zh-hant": "輸入：⚡ DemoGPT 讓您只需使用提示即可創建快速演示。⚡ 🌟 點贊以支持我們的工作！"
+                }
             }
         },
         "Chatbots": {
@@ -7190,6 +7224,59 @@
                     "zh-hans": "LLM-Toolbox是一个多功能的命令行界面（CLI）工具集合，利用人工智能来执行各种任务，包括校对、识别适当的shell命令、生成自动提交信息等等。",
                     "zh-hant": "LLM-Toolbox 是一個多功能的命令行界面（CLI）工具集，利用人工智能執行各種任務，包括校對、識別適當的 shell 命令、生成自動提交訊息等等。"
                 }
+            },
+            "https://github.com/firecubestudios/clippy": {
+                "repository_name": "Clippy",
+                "user_name": "FireCubeStudios",
+                "language": "C#",
+                "license": null,
+                "description": "Clippy by FireCube.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "clippy",
+                    "fluent-design",
+                    "gpt-3",
+                    "openai",
+                    "windows",
+                    "windows-10",
+                    "windows-11",
+                    "winui3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Clippy by FireCube.",
+                    "ja": "クリッピー by FireCube。",
+                    "zh-hans": "火方块的Clippy。",
+                    "zh-hant": "Clippy由FireCube提供。"
+                }
+            },
+            "https://github.com/paul-gauthier/aider": {
+                "repository_name": "aider",
+                "user_name": "paul-gauthier",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "aider is GPT powered coding in your terminal",
+                "topics": [
+                    "chatgpt",
+                    "cli",
+                    "command-line",
+                    "gpt-3",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "aider is GPT powered coding in your terminal",
+                    "ja": "入力：aiderはターミナルで動作するGPTパワードのコーディングです。\n出力：aiderはターミナルで動作するGPTパワードのコーディングです。",
+                    "zh-hans": "aider是由GPT驱动的终端编码工具",
+                    "zh-hant": "輸入：aider是在您的終端機上使用GPT進行編碼的工具"
+                }
             }
         },
         "Reimplementations": {
@@ -7498,6 +7585,26 @@
                     "ja": "最小限のGenerative Pretrained Transformerの純粋なRust実装",
                     "zh-hans": "一个最小化的生成预训练变压器的纯Rust实现。",
                     "zh-hant": "一個最小化的生成預訓練轉換器的純Rust實現"
+                }
+            },
+            "https://github.com/lightning-ai/lit-gpt": {
+                "repository_name": "lit-gpt",
+                "user_name": "Lightning-AI",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+                    "ja": "入力：nanoGPTに基づいた最新のオープンソースLLMsのハッキング可能な実装。フラッシュアテンション、Int8およびGPTQ 4ビットの量子化、LoRAおよびLLaMA-Adapterのファインチューニング、事前トレーニングをサポートしています。Apache 2.0ライセンスです。",
+                    "zh-hans": "可黑客实现的基于nanoGPT的最先进开源LLMs。支持闪存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微调、预训练。Apache 2.0许可。",
+                    "zh-hant": "可駭入的最先進開源LLMs的實現，基於nanoGPT。支持閃存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微調、預訓練。Apache 2.0許可。"
                 }
             }
         },
@@ -11049,6 +11156,20 @@
                     "zh-hans": "构建更简单、更快的人工智能应用程序的数据库系统",
                     "zh-hant": "建立更簡單、更快速的人工智慧應用程式的資料庫系統"
                 }
+            },
+            "https://github.com/sugarforever/langchain-tutorials": {
+                "repository_name": "LangChain-Tutorials",
+                "user_name": "sugarforever",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "I am quite curious about the stream-like output of ChatGPT. I put in a lot of effort and built an implementation based on Python LangChain, which covers asynchronous stream-like output for both the console and Web3 applications. I still need to delve deeper into Python asynchronous programming. 🧐 Here is the code: 👇 Video sharing: 👇 bilibili: #LangChain #ChatGPT #OpenAI",
+                    "ja": "入力：挺好奇ChatGPT那种流式出力、頑張ってPythonのLangChainを使って実装しました。コンソールとWeb3アプリケーションの非同期の流れるような出力をカバーしています。Pythonの非同期プログラミングはまだ深く学ぶ必要があります🧐コード👇ビデオ共有👇bilibili:   #LangChain #ChatGPT #OpenAI",
+                    "zh-hans": "挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI",
+                    "zh-hant": "輸入：非常好奇ChatGPT那種流式輸出，費了牛勁，堆砌出了基於Python LangChain的實現，涵蓋控制台和Web3應用的異步流式輸出。Python異步編程還需深入學習🧐代碼👇視頻分享👇bilibili:   #LangChain #ChatGPT #OpenAI"
+                }
             }
         },
         "Unity": {
@@ -12850,6 +12971,26 @@
                     "ja": "OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。",
                     "zh-hans": "从OpenAI获得100%的正常运行时间和可靠性。处理速率限制、超时、API和密钥错误。",
                     "zh-hant": "從OpenAI獲得100％的正常運行時間和可靠性。處理速率限制、超時、API和密鑰錯誤。"
+                }
+            },
+            "https://github.com/city-of-kobe/pva-aoai-integration-solution": {
+                "repository_name": "pva-aoai-integration-solution",
+                "user_name": "City-of-Kobe",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。 ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The content is not significant, but it is interesting as a local government initiative. Azure OpenAI - This repository is a solution that was created and made public for the purpose of trial use of ChatGPT at the Kobe City Hall, including the flow and other elements.",
+                    "ja": "中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。 ",
+                    "zh-hans": "输入：中身并不重要，但作为地方政府的努力是非常有趣的。Azure OpenAI——这个存储库是为了将在神户市政府进行ChatGPT试用的流程等转化为解决方案并公开而创建的。",
+                    "zh-hant": "輸入：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。\n輸出：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。"
                 }
             }
         },
@@ -16745,6 +16886,26 @@
                     "ja": "GPT 3.5/4とチャットWeb UIを使用しています。APIキーは必要ありません。",
                     "zh-hans": "GPT 3.5/4带有聊天网页界面。无需API密钥。",
                     "zh-hant": "輸入：具有聊天網頁界面的GPT 3.5/4。無需API密鑰。\n輸出："
+                }
+            },
+            "https://github.com/commaai/commavq": {
+                "repository_name": "commavq",
+                "user_name": "commaai",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "commaVQ is a dataset of compressed driving video",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "commaVQ is a dataset of compressed driving video",
+                    "ja": "commaVQは圧縮された運転映像のデータセットです。",
+                    "zh-hans": "commaVQ是一个压缩的驾驶视频数据集。",
+                    "zh-hant": "commaVQ 是一個壓縮的駕駛視頻數據集。"
                 }
             }
         }

@@ -15,27 +15,35 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [embedchain](https://github.com/embedchain/embedchain) - 框架可以轻松地在任何数据集上创建LLM驱动的机器人.
+**Prompts**
+ * [DemoGPT](https://github.com/melih-unsal/demogpt) -   星星支持我们的工作!
 
 
 **CLIs**
- * [llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox是一个多功能的命令行接口 (CLI) 工具,利用AI执行各种任务,包括校对,识别适当的shell命令,生成自动提交消息等.
  * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) -  对于 ChatGPT 的一个强大的客户端 JavaScript 库.
+ * [Clippy](https://github.com/firecubestudios/clippy) - 通过FireCube的剪辑.
+ * [aider](https://github.com/paul-gauthier/aider) - 助手是GPT驱动的编码在您的终端
 
 
-**NLP**
- * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - 轻松地将代码库从一个框架或语言迁移到另一个语言.
+**Reimplementations**
+ * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - 基于纳米GPT的最先进的开源LLM可被黑客实现. 支持闪存注意,Int8和GPTQ4位量子化,LoRA和LLaMA适配器精细调整,预训练. Apache 2.0许可.
+
+
+**Langchain**
+ * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 挺好奇ChatGPT那种流式输出,费了牛,堆出了基于Python LangChain的实现,涵盖控制台和Web3应用的异步流式输出.
+
+
+**Openai**
+ * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 内容不大,但作为自治体的举措很有趣.Azure OpenAI - - 这个存储库,是解决并公开了神戸市政厅为ChatGPT试用而创建的流等.
 
 
 **Others**
- * [a1gpt](https://github.com/a1k0n/a1gpt) - 丢弃性 GPT 推理
- * [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - 采用GPT 3.5/4的网络聊天界面.
+ * [commavq](https://github.com/commaai/commavq) - commaVQ是一个压缩驾驶视频的数据集
 
 
-_Updated on July 03, 2023_ (A total of 855 repositories listed.)
+_Updated on July 04, 2023_ (A total of 862 repositories listed.)
 
-🏅 [adamlui](https://github.com/adamlui) provided some repository information. Thank you!
+🏅 [melih-unsal](https://github.com/melih-unsal) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -161,6 +169,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - 在ChatGPT中可玩游戏的提示
  * [TaskMatrix](https://github.com/microsoft/taskmatrix) - 如果提示信息具有描述性并且彼此之间可以区分，那么我认为代理程序仍然可以适用于大量的工具。如果想要查看一组工具的示例用法，请查看微软的visualChatGPT存储库，但不确定是否适用于100万个工具... @jksyaw @LangChainAI @FlowiseAI @bubble
  * [GPTWorld](https://github.com/srush/gptworld) - 一个学习提示的谜题
+ * [DemoGPT](https://github.com/melih-unsal/demogpt) - ⚡ DemoGPT 可以通过简单的提示帮助您创建快速演示。⚡ 🌟 点赞支持我们的工作！
 
 
 |Name|GitHub Stars|Language|License|
@@ -223,6 +232,7 @@ ChatGPT资料汇总学习，持续更新......
 |[chat-gpt-games](https://github.com/admtal/chat-gpt-games)|![GitHub Repo stars](https://img.shields.io/github/stars/admtal/chat-gpt-games?style=social)|-|apache-2.0|
 |[TaskMatrix](https://github.com/microsoft/taskmatrix)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/TaskMatrix?style=social)|Python|mit|
 |[GPTWorld](https://github.com/srush/gptworld)|![GitHub Repo stars](https://img.shields.io/github/stars/srush/GPTWorld?style=social)|Jupyter Notebook|mit|
+|[DemoGPT](https://github.com/melih-unsal/demogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/melih-unsal/DemoGPT?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -733,6 +743,8 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 一个强大的客户端JavaScript库，用于ChatGPT
  * [llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox是一个多功能的命令行界面（CLI）工具集合，利用人工智能来执行各种任务，包括校对、识别适当的shell命令、生成自动提交信息等等。
  * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 ChatGPT 的强大客户端 JavaScript 库。
+ * [Clippy](https://github.com/firecubestudios/clippy) - 火方块的Clippy。
+ * [aider](https://github.com/paul-gauthier/aider) - aider是由GPT驱动的终端编码工具
 
 
 |Name|GitHub Stars|Language|License|
@@ -809,6 +821,8 @@ ChatGPT资料汇总学习，持续更新......
 |[chatgpt.js](https://github.com/kudoai/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/chatgpt.js?style=social)|JavaScript|mit|
 |[llm-toolbox](https://github.com/sderev/llm-toolbox)|![GitHub Repo stars](https://img.shields.io/github/stars/sderev/llm-toolbox?style=social)|Python|apache-2.0|
 |[chatgpt.js](https://github.com/chatgptjs/chatgpt.js)|![GitHub Repo stars](https://img.shields.io/github/stars/chatgptjs/chatgpt.js?style=social)|JavaScript|mit|
+|[Clippy](https://github.com/firecubestudios/clippy)|![GitHub Repo stars](https://img.shields.io/github/stars/FireCubeStudios/Clippy?style=social)|C#|-|
+|[aider](https://github.com/paul-gauthier/aider)|![GitHub Repo stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social)|Python|apache-2.0|
 
 
 ## Reimplementations
@@ -830,6 +844,7 @@ ChatGPT资料汇总学习，持续更新......
  * [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) - OpenAI的ChatGPT代码解释器的开源实现
  * [DragGAN](https://github.com/zeqiang-lai/draggan) - 在线演示和实现DragGAN - “拖动您的GAN：在生成图像流形上进行交互式基于点的操作”
  * [femtoGPT](https://github.com/keyvank/femtogpt) - 一个最小化的生成预训练变压器的纯Rust实现。
+ * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - 可黑客实现的基于nanoGPT的最先进开源LLMs。支持闪存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微调、预训练。Apache 2.0许可。
 
 
 |Name|GitHub Stars|Language|License|
@@ -851,6 +866,7 @@ ChatGPT资料汇总学习，持续更新......
 |[gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/ricklamers/gpt-code-ui?style=social)|Python|mit|
 |[DragGAN](https://github.com/zeqiang-lai/draggan)|![GitHub Repo stars](https://img.shields.io/github/stars/zeqiang-lai/DragGAN?style=social)|Python|-|
 |[femtoGPT](https://github.com/keyvank/femtogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/keyvank/femtoGPT?style=social)|Rust|mit|
+|[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Lightning-AI/lit-gpt?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -1197,6 +1213,7 @@ ChatGPT资料汇总学习，持续更新......
  * [OgbujiPT](https://github.com/uogbuji/ogbujipt) - 通过langchain和其他方式使用自托管的大型语言模型的工具包
  * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - 为GDScript生成调整大型语言模型。
  * [eva](https://github.com/georgia-tech-db/eva) - 构建更简单、更快的人工智能应用程序的数据库系统
+ * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI
 
 
 |Name|GitHub Stars|Language|License|
@@ -1246,6 +1263,7 @@ ChatGPT资料汇总学习，持续更新......
 |[OgbujiPT](https://github.com/uogbuji/ogbujipt)|![GitHub Repo stars](https://img.shields.io/github/stars/uogbuji/OgbujiPT?style=social)|Python|apache-2.0|
 |[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
 |[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
+|[LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/sugarforever/LangChain-Tutorials?style=social)|Jupyter Notebook|-|
 
 
 ## Unity
@@ -1365,6 +1383,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - 在Obsidian中使用笔记进行聊天！此外，实时查看最相关的内容！互动并保持组织。由OpenAI ChatGPT、GPT-4和嵌入式技术提供支持。
  * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - 使用Next.js、OpenAI和Supabase构建自定义ChatGPT风格文档搜索的模板。
  * [reliableGPT](https://github.com/berriai/reliablegpt) - 从OpenAI获得100%的正常运行时间和可靠性。处理速率限制、超时、API和密钥错误。
+ * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 输入：中身并不重要，但作为地方政府的努力是非常有趣的。Azure OpenAI——这个存储库是为了将在神户市政府进行ChatGPT试用的流程等转化为解决方案并公开而创建的。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1454,6 +1473,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections)|![GitHub Repo stars](https://img.shields.io/github/stars/brianpetro/obsidian-smart-connections?style=social)|JavaScript|gpl-3.0|
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
+|[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/City-of-Kobe/pva-aoai-integration-solution?style=social)|-|mit|
 
 
 ## Others
@@ -1681,6 +1701,7 @@ Chat酱独立部署版，docker方案自带代理
  * [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⏩ 自动继续生成多个ChatGPT回复
  * [a1gpt](https://github.com/a1k0n/a1gpt) - 一次性使用的GPT推理
  * [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - GPT 3.5/4带有聊天网页界面。无需API密钥。
+ * [commavq](https://github.com/commaai/commavq) - commaVQ是一个压缩的驾驶视频数据集。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1904,5 +1925,6 @@ Chat酱独立部署版，docker方案自带代理
 |[chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-auto-continue?style=social)|JavaScript|mit|
 |[a1gpt](https://github.com/a1k0n/a1gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/a1k0n/a1gpt?style=social)|C++|-|
 |[freegpt-webui](https://github.com/ramonvc/freegpt-webui)|![GitHub Repo stars](https://img.shields.io/github/stars/ramonvc/freegpt-webui?style=social)|Python|gpl-3.0|
+|[commavq](https://github.com/commaai/commavq)|![GitHub Repo stars](https://img.shields.io/github/stars/commaai/commavq?style=social)|Jupyter Notebook|mit|
 
 
