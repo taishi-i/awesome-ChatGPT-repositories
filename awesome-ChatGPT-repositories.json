@@ -1496,6 +1496,60 @@
                     "zh-hans": "⚡ DemoGPT 可以通过简单的提示帮助您创建快速演示。⚡ 🌟 点赞支持我们的工作！",
                     "zh-hant": "輸入：⚡ DemoGPT 讓您只需使用提示即可創建快速演示。⚡ 🌟 點贊以支持我們的工作！"
                 }
+            },
+            "https://github.com/svermeulen/text-to-colorscheme": {
+                "repository_name": "text-to-colorscheme",
+                "user_name": "svermeulen",
+                "language": "Lua",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Neovim colorschemes generated on the fly with a text prompt using ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Neovim colorschemes generated on the fly with a text prompt using ChatGPT",
+                    "ja": "ChatGPTを使用してテキストプロンプトで生成されたNeovimのカラースキーム",
+                    "zh-hans": "使用ChatGPT通过文本提示即时生成的Neovim配色方案",
+                    "zh-hant": "使用ChatGPT通過文本提示即時生成的Neovim色彩方案"
+                }
+            },
+            "https://github.com/mshumer/gpt-prompt-engineer": {
+                "repository_name": "gpt-prompt-engineer",
+                "user_name": "mshumer",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Introducing `gpt-prompt-engineer` ✍️An agent that creates optimal GPT prompts.Just describe the task, and a chain of AI systems will:- Generate many possible prompts- Test them in a ranked tournament- Return the best promptAnd it's open-source:  ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Introducing `gpt-prompt-engineer` ✍️An agent that creates optimal GPT prompts.Just describe the task, and a chain of AI systems will:- Generate many possible prompts- Test them in a ranked tournament- Return the best promptAnd it's open-source:  ",
+                    "ja": "`gpt-prompt-engineer`をご紹介します✍️最適なGPTプロンプトを作成するエージェントです。タスクを説明するだけで、AIシステムの連鎖が以下の手順で行います：\n- 多くの可能なプロンプトを生成します\n- ランキングトーナメントでそれらをテストします\n- 最も優れたプロンプトを返します\n\nしかも、これはオープンソースです。",
+                    "zh-hans": "介绍 `gpt-prompt-engineer` ✍️ 一个能够创建最佳 GPT 提示的代理。只需描述任务，一系列 AI 系统将会：- 生成许多可能的提示- 在排名比赛中测试它们- 返回最佳提示。而且它是开源的：",
+                    "zh-hant": "介紹「gpt-prompt-engineer」✍️一個能夠創建最佳GPT提示的代理人。只需描述任務，一系列AI系統將會：- 生成許多可能的提示- 在排名比賽中測試它們- 返回最佳提示。而且它是開源的："
+                }
+            },
+            "https://github.com/dabit3/prompt-engineering-for-javascript-developers": {
+                "repository_name": "prompt-engineering-for-javascript-developers",
+                "user_name": "dabit3",
+                "language": null,
+                "license": null,
+                "description": "Notes summarized from ChatGPT Prompt Engineering for Developers by DeepLearning.ai",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Notes summarized from ChatGPT Prompt Engineering for Developers by DeepLearning.ai",
+                    "ja": "入力：DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ\n出力：",
+                    "zh-hans": "输入：来自DeepLearning.ai的ChatGPT Prompt Engineering for Developers的笔记总结\n输出：ChatGPT Prompt Engineering for Developers的笔记总结",
+                    "zh-hant": "輸入：從DeepLearning.ai的「ChatGPT Prompt Engineering for Developers」摘要的筆記"
+                }
             }
         },
         "Chatbots": {
@@ -3798,6 +3852,29 @@
                     "zh-hans": "使用框架轻松创建基于任何数据集的LLM强化机器人。",
                     "zh-hant": "輸入：一個能夠輕鬆在任何數據集上創建以LLM為動力的機器人的框架。\n輸出："
                 }
+            },
+            "https://github.com/discus0434/paper-summarizer": {
+                "repository_name": "paper-summarizer",
+                "user_name": "discus0434",
+                "language": "Python",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "A Slack Bot for summarizing arXiv papers, powered by OpenAI LLMs.",
+                "topics": [
+                    "gpt-4",
+                    "slack-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Slack Bot for summarizing arXiv papers, powered by OpenAI LLMs.",
+                    "ja": "OpenAI LLMsを活用したarXiv論文の要約を行うSlackボット。",
+                    "zh-hans": "一个由OpenAI LLMs驱动的用于总结arXiv论文的Slack机器人。",
+                    "zh-hant": "一個由OpenAI LLMs提供支持的用於總結arXiv論文的Slack機器人。"
+                }
             }
         },
         "Browser-extensions": {
@@ -5754,6 +5831,33 @@
                     "zh-hans": "🦁 勇敢搜索插件将ChatGPT的魔力带到搜索结果中（由GPT-4提供动力！）",
                     "zh-hant": "🦁 勇敢搜索插件將ChatGPT的魔力帶到搜索結果中（由GPT-4提供動力！）"
                 }
+            },
+            "https://github.com/listennotes/listennotes-chatgpt-plugin": {
+                "repository_name": "listennotes-chatgpt-plugin",
+                "user_name": "ListenNotes",
+                "language": "JavaScript",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "Listen Notes ChatGPT Plugin for AI-powered podcast search. Powered by PodcastAPI.com and Cloudflare Pages.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plugins",
+                    "listennotes",
+                    "podcast-api",
+                    "podcast-database",
+                    "podcast-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Listen Notes ChatGPT Plugin for AI-powered podcast search. Powered by PodcastAPI.com and Cloudflare Pages.",
+                    "ja": "入力：AIパワードポッドキャスト検索のためのListen Notes ChatGPTプラグイン。PodcastAPI.comとCloudflare Pagesによって提供されています。",
+                    "zh-hans": "输入：Listen Notes ChatGPT插件，用于基于人工智能的播客搜索。由PodcastAPI.com和Cloudflare Pages提供支持。",
+                    "zh-hant": "輸入：Listen Notes ChatGPT 插件，用於 AI 強化的播客搜索。由 PodcastAPI.com 和 Cloudflare Pages 提供動力。"
+                }
             }
         },
         "CLIs": {
@@ -7277,6 +7381,20 @@
                     "zh-hans": "aider是由GPT驱动的终端编码工具",
                     "zh-hant": "輸入：aider是在您的終端機上使用GPT進行編碼的工具"
                 }
+            },
+            "https://github.com/wasp-lang/saas-template-gpt": {
+                "repository_name": "SaaS-Template-GPT",
+                "user_name": "wasp-lang",
+                "language": "TypeScript",
+                "license": null,
+                "description": "🐝 Wasp- immediately started with a SaaS template that includes social/email login, GPT/Stripe integration, cron jobs, ... → super fast start⚡️- `wasp db` CLI command is also a nice touch, immediately starts a local Postgres db in the background ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "🐝 Wasp- immediately started with a SaaS template that includes social/email login, GPT/Stripe integration, cron jobs, ... → super fast start⚡️- `wasp db` CLI command is also a nice touch, immediately starts a local Postgres db in the background ",
+                    "ja": "入力：🐝 ワスプ- ソーシャル/メールログイン、GPT/Stripeの統合、cronジョブなどを含むSaaSテンプレートで即座に開始します⚡️- `wasp db` CLIコマンドも素敵な要素で、バックグラウンドでローカルのPostgresデータベースをすぐに開始します。",
+                    "zh-hans": "🐝 Wasp- 立即开始使用包含社交/电子邮件登录、GPT/Stripe集成、cron作业等功能的SaaS模板 → 超快速启动⚡️- `wasp db` CLI命令也是一个很好的功能，可以立即在后台启动本地的Postgres数据库。",
+                    "zh-hant": "🐝 黃蜂- 立即使用包含社交/郵件登錄、GPT/Stripe集成、cron作業等的SaaS模板開始⚡️- `wasp db` CLI命令也是一個不錯的功能，可以立即在後台啟動本地的Postgres數據庫。"
+                }
             }
         },
         "Reimplementations": {
@@ -7605,6 +7723,26 @@
                     "ja": "入力：nanoGPTに基づいた最新のオープンソースLLMsのハッキング可能な実装。フラッシュアテンション、Int8およびGPTQ 4ビットの量子化、LoRAおよびLLaMA-Adapterのファインチューニング、事前トレーニングをサポートしています。Apache 2.0ライセンスです。",
                     "zh-hans": "可黑客实现的基于nanoGPT的最先进开源LLMs。支持闪存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微调、预训练。Apache 2.0许可。",
                     "zh-hant": "可駭入的最先進開源LLMs的實現，基於nanoGPT。支持閃存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微調、預訓練。Apache 2.0許可。"
+                }
+            },
+            "https://github.com/turboderp/exllama": {
+                "repository_name": "exllama",
+                "user_name": "turboderp",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.",
+                    "ja": "量子化された重みを使用するためのLlamaのHF transformers実装のメモリ効率の改善版。",
+                    "zh-hans": "一个更节省内存的重写版本，用于使用量化权重的Llama的HF变压器实现。",
+                    "zh-hant": "一個更節省記憶體的重寫版本，用於使用量化權重的Llama的HF transformers實現。"
                 }
             }
         },
@@ -10224,6 +10362,55 @@
                     "ja": "簡単にコードベースを別のフレームワークや言語に移行できます。",
                     "zh-hans": "轻松将您的代码库从一个框架或语言迁移到另一个框架或语言。",
                     "zh-hant": "輕鬆將您的程式碼從一個框架或語言遷移到另一個。"
+                }
+            },
+            "https://github.com/imoneoi/openchat": {
+                "repository_name": "openchat",
+                "user_name": "imoneoi",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "OpenChat: Less is More for Open-source Models",
+                "topics": [
+                    "large-language-models",
+                    "open-source",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenChat: Less is More for Open-source Models",
+                    "ja": "オープンチャット：オープンソースモデルにおいては、少ない方が良い",
+                    "zh-hans": "开放聊天：对于开源模型来说，越简单越好",
+                    "zh-hant": "開放聊天：對於開源模型而言，少即是多"
+                }
+            },
+            "https://github.com/thudm/webglm": {
+                "repository_name": "WebGLM",
+                "user_name": "THUDM",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)",
+                "topics": [
+                    "chatgpt",
+                    "llm",
+                    "rlhf",
+                    "webglm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)",
+                    "ja": "入力：WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）\n出力：WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）",
+                    "zh-hans": "WebGLM：一种高效的增强型网络问答系统（KDD 2023）",
+                    "zh-hant": "WebGLM：一個高效的網頁增強問答系統（KDD 2023）"
                 }
             }
         },
@@ -16906,6 +17093,46 @@
                     "ja": "commaVQは圧縮された運転映像のデータセットです。",
                     "zh-hans": "commaVQ是一个压缩的驾驶视频数据集。",
                     "zh-hant": "commaVQ 是一個壓縮的駕駛視頻數據集。"
+                }
+            },
+            "https://github.com/samrawal/chatgpt-localfiles": {
+                "repository_name": "chatgpt-localfiles",
+                "user_name": "samrawal",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Make local files accessible to ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Make local files accessible to ChatGPT",
+                    "ja": "ChatGPTにローカルファイルへのアクセスを可能にする。",
+                    "zh-hans": "使本地文件可以访问ChatGPT",
+                    "zh-hant": "將本地文件設置為ChatGPT可訪問的。"
+                }
+            },
+            "https://github.com/snakajima/slashgpt": {
+                "repository_name": "SlashGPT",
+                "user_name": "snakajima",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "@snakajima さんによるSlashGPTの解説後でコードを確認する。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "After @snakajima's explanation of SlashGPT, let's check the code.",
+                    "ja": "@snakajima さんによるSlashGPTの解説後でコードを確認する。",
+                    "zh-hans": "在 @snakajima さん解释完SlashGPT之后，我们来确认一下代码。",
+                    "zh-hant": "在 @snakajima さん解說完SlashGPT之後，請確認程式碼。"
                 }
             }
         }
