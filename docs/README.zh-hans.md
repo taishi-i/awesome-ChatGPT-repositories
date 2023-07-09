@@ -15,41 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - 使用ChatGPT在飞行中生成的新型色彩方案
- * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 介绍 `gpt-prompt-engineer` ✍️一个能创建最佳 GPT 提示的代理.只需描述任务,一个链接的 AI 系统将:-生成许多可能的提示-在排名赛事中测试它们-返回最佳提示,并且是开源: 
- * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - 摘要来自DeepLearning.ai的开发人员的ChatGPT快速工程
-
-
 **Chatbots**
- * [paper-summarizer](https://github.com/discus0434/paper-summarizer) - 一个用于总结 arXiv 论文的 Slack Bot,由 OpenAI LLM 提供支持.
-
-
-**Browser-extensions**
- * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - 听笔记 聊天GPT插件用于人工智能支持的播客搜索.由PodcastAPI.com和Cloudflare页面提供支持.
-
-
-**CLIs**
- * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) -  Wasp-立即启动一个SaaS模板,包括社交/电子邮件登录,GPT/Stripe集成,cron工作,... →超快速启动️- `wasp db` CLI命令也是一个很好的触摸,立即启动本地Postgres db 在后台
-
-
-**Reimplementations**
- * [exllama](https://github.com/turboderp/exllama) - 实现Llama的高频变压器,以便使用量子重量.
+ * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - 一个由Vercel Labs和Supabase开发的全功能Supabaseified Next.js AI聊天机器人
 
 
 **NLP**
- * [openchat](https://github.com/imoneoi/openchat) - 开源模式:少是多
- * [WebGLM](https://github.com/thudm/webglm) - 网络GLM:一个高效的网络增强问题答案系统 (KDD 2023)
+ * [MetaGPT](https://github.com/geekan/metagpt) - 多代理元编程框架:给出一行要求,返回PRD,设计,任务,回复. 多智能体元编程框架:给定老板需求,输出产品文档、架构设计、任务列表、代码
+ * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 一个高效的工具,用于索引和搜索PDF文本数据,使用OpenAI的GPT-2模型和FAISS (Facebook AI相似性搜索) 索引,旨在快速获取信息和优越的搜索精度.
+
+
+**Openai**
+ * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本微软发布了GPT的参考架构. 基于日本语场景的示例实现是惊人的! 按下这个存储库,你会得到很多进展. 登录和验证周围很高兴. 示例列表1.
 
 
 **Others**
- * [chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles) - 让本地文件可访问ChatGPT
- * [SlashGPT](https://github.com/snakajima/slashgpt) - 对于SlashGPT的评论,
+ * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - 通过AI问有关新版676页的NBACBA的问题.
 
 
-_Updated on July 06, 2023_ (A total of 873 repositories listed.)
-
-🏅 [melih-unsal](https://github.com/melih-unsal) provided some repository information. Thank you!
+_Updated on July 10, 2023_ (A total of 878 repositories listed.)
 
 ## Table of contents
 
@@ -361,6 +344,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 利用ChatGPT的惊人能力或增强其用户体验的应用程序
  * [embedchain](https://github.com/embedchain/embedchain) - 使用框架轻松创建基于任何数据集的LLM强化机器人。
  * [paper-summarizer](https://github.com/discus0434/paper-summarizer) - 一个由OpenAI LLMs驱动的用于总结arXiv论文的Slack机器人。
+ * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - 一个由Vercel Labs和Supabase构建的功能齐全的、Supabaseified的Next.js AI聊天机器人。
 
 
 |Name|GitHub Stars|Language|License|
@@ -476,6 +460,7 @@ ChatGPT资料汇总学习，持续更新......
 |[chatgpt-apps](https://github.com/adamlui/chatgpt-apps)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-apps?style=social)|JavaScript|mit|
 |[embedchain](https://github.com/embedchain/embedchain)|![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)|Python|apache-2.0|
 |[paper-summarizer](https://github.com/discus0434/paper-summarizer)|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/paper-summarizer?style=social)|Python|agpl-3.0|
+|[vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/vercel-ai-chatbot?style=social)|TypeScript|other|
 
 
 ## Browser-extensions
@@ -680,7 +665,7 @@ ChatGPT资料汇总学习，持续更新......
 |[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
 |[duckduckgpt](https://github.com/kudoai/duckduckgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/duckduckgpt?style=social)|JavaScript|mit|
 |[bravegpt](https://github.com/kudoai/bravegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/bravegpt?style=social)|JavaScript|mit|
-|[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/ListenNotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
+|[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/listennotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
 
 
 ## CLIs
@@ -1051,6 +1036,8 @@ ChatGPT资料汇总学习，持续更新......
  * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - 轻松将您的代码库从一个框架或语言迁移到另一个框架或语言。
  * [openchat](https://github.com/imoneoi/openchat) - 开放聊天：对于开源模型来说，越简单越好
  * [WebGLM](https://github.com/thudm/webglm) - WebGLM：一种高效的增强型网络问答系统（KDD 2023）
+ * [MetaGPT](https://github.com/geekan/metagpt) - 多智能体元编程框架：输入一行需求，返回产品需求文档、设计、任务列表、代码库。
+ * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 一个高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI Similarity Search）索引来索引和搜索PDF文本数据，旨在实现快速信息检索和卓越的搜索准确性。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1188,7 +1175,9 @@ ChatGPT资料汇总学习，持续更新......
 |[long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)|![GitHub Repo stars](https://img.shields.io/github/stars/sharonzhou/long_stable_diffusion?style=social)|Python|-|
 |[gpt-migrate](https://github.com/0xpayne/gpt-migrate)|![GitHub Repo stars](https://img.shields.io/github/stars/0xpayne/gpt-migrate?style=social)|Python|mit|
 |[openchat](https://github.com/imoneoi/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/imoneoi/openchat?style=social)|Jupyter Notebook|apache-2.0|
-|[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/WebGLM?style=social)|Python|apache-2.0|
+|[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/thudm/WebGLM?style=social)|Python|apache-2.0|
+|[MetaGPT](https://github.com/geekan/metagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)|Python|mit|
+|[PdfGptIndexer](https://github.com/raghavan/pdfgptindexer)|![GitHub Repo stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1409,6 +1398,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - 使用Next.js、OpenAI和Supabase构建自定义ChatGPT风格文档搜索的模板。
  * [reliableGPT](https://github.com/berriai/reliablegpt) - 从OpenAI获得100%的正常运行时间和可靠性。处理速率限制、超时、API和密钥错误。
  * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 输入：中身并不重要，但作为地方政府的努力是非常有趣的。Azure OpenAI——这个存储库是为了将在神户市政府进行ChatGPT试用的流程等转化为解决方案并公开而创建的。
+ * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本微软发布了GPT的参考架构。基于日语的场景的示例实现应有尽有！如果掌握了这个存储库，会有很多进展。有日志和认证等功能真是太好了。~示例列表~1. 面向呼叫中心的GPT助手...
 
 
 |Name|GitHub Stars|Language|License|
@@ -1499,6 +1489,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
+|[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/jp-azureopenai-samples?style=social)|Python|mit|
 
 
 ## Others
@@ -1729,6 +1720,7 @@ Chat酱独立部署版，docker方案自带代理
  * [commavq](https://github.com/commaai/commavq) - commaVQ是一个压缩的驾驶视频数据集。
  * [chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles) - 使本地文件可以访问ChatGPT
  * [SlashGPT](https://github.com/snakajima/slashgpt) - 在 @snakajima さん解释完SlashGPT之后，我们来确认一下代码。
+ * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - 使用人工智能来询问有关新的676页NBA CBA的问题。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1955,5 +1947,6 @@ Chat酱独立部署版，docker方案自带代理
 |[commavq](https://github.com/commaai/commavq)|![GitHub Repo stars](https://img.shields.io/github/stars/commaai/commavq?style=social)|Jupyter Notebook|mit|
 |[chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles)|![GitHub Repo stars](https://img.shields.io/github/stars/samrawal/chatgpt-localfiles?style=social)|Python|mit|
 |[SlashGPT](https://github.com/snakajima/slashgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/snakajima/SlashGPT?style=social)|Python|mit|
+|[nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/nba-cba-ai-chat?style=social)|TypeScript|mit|
 
 
