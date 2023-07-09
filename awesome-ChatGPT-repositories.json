@@ -3875,6 +3875,26 @@
                     "zh-hans": "一个由OpenAI LLMs驱动的用于总结arXiv论文的Slack机器人。",
                     "zh-hant": "一個由OpenAI LLMs提供支持的用於總結arXiv論文的Slack機器人。"
                 }
+            },
+            "https://github.com/supabase-community/vercel-ai-chatbot": {
+                "repository_name": "vercel-ai-chatbot",
+                "user_name": "supabase-community",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "A full-featured, Supabaseified Next.js AI chatbot built by Vercel Labs & Supabase",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A full-featured, Supabaseified Next.js AI chatbot built by Vercel Labs & Supabase",
+                    "ja": "フル機能を備えた、Vercel Labs＆Supabaseによって構築されたSupabaseified Next.js AIチャットボット。",
+                    "zh-hans": "一个由Vercel Labs和Supabase构建的功能齐全的、Supabaseified的Next.js AI聊天机器人。",
+                    "zh-hant": "一個由Vercel Labs和Supabase打造的功能齊全、Supabaseified的Next.js AI聊天機器人。"
+                }
             }
         },
         "Browser-extensions": {
@@ -10412,6 +10432,51 @@
                     "zh-hans": "WebGLM：一种高效的增强型网络问答系统（KDD 2023）",
                     "zh-hant": "WebGLM：一個高效的網頁增強問答系統（KDD 2023）"
                 }
+            },
+            "https://github.com/geekan/metagpt": {
+                "repository_name": "MetaGPT",
+                "user_name": "geekan",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码",
+                "topics": [
+                    "agent",
+                    "gpt",
+                    "llm",
+                    "metagpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码",
+                    "ja": "マルチエージェントメタプログラミングフレームワーク：1行の要件を与えると、PRD、デザイン、タスク、リポジトリを返します。",
+                    "zh-hans": "多智能体元编程框架：输入一行需求，返回产品需求文档、设计、任务列表、代码库。",
+                    "zh-hant": "多智能體元編程框架：給定老闆需求，輸出產品文件、架構設計、任務列表、程式庫"
+                }
+            },
+            "https://github.com/raghavan/pdfgptindexer": {
+                "repository_name": "PdfGptIndexer",
+                "user_name": "raghavan",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "An efficient tool for indexing and searching PDF text data using OpenAI's GPT-2 model and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An efficient tool for indexing and searching PDF text data using OpenAI's GPT-2 model and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.",
+                    "ja": "入力：OpenAIのGPT-2モデルとFAISS（Facebook AI Similarity Search）インデックスを使用したPDFテキストデータのインデックス化と検索のための効率的なツールであり、迅速な情報検索と優れた検索精度を実現するために設計されています。",
+                    "zh-hans": "一个高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI Similarity Search）索引来索引和搜索PDF文本数据，旨在实现快速信息检索和卓越的搜索准确性。",
+                    "zh-hant": "一個高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI相似性搜索）索引來索引和搜索PDF文本數據，旨在實現快速信息檢索和卓越的搜索準確性。"
+                }
             }
         },
         "Langchain": {
@@ -13178,6 +13243,26 @@
                     "ja": "中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。 ",
                     "zh-hans": "输入：中身并不重要，但作为地方政府的努力是非常有趣的。Azure OpenAI——这个存储库是为了将在神户市政府进行ChatGPT试用的流程等转化为解决方案并公开而创建的。",
                     "zh-hant": "輸入：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。\n輸出：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。"
+                }
+            },
+            "https://github.com/azure-samples/jp-azureopenai-samples": {
+                "repository_name": "jp-azureopenai-samples",
+                "user_name": "Azure-Samples",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Microsoft Japan has released the reference architecture for GPT. There are plenty of sample implementations based on Japanese scenarios! If you keep an eye on this repository, it will be very helpful. It's great that there are logs and authentication included. ~List of samples~ 1. GPT Assistant for Call Centers...",
+                    "ja": "日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  ",
+                    "zh-hans": "日本微软发布了GPT的参考架构。基于日语的场景的示例实现应有尽有！如果掌握了这个存储库，会有很多进展。有日志和认证等功能真是太好了。~示例列表~1. 面向呼叫中心的GPT助手...",
+                    "zh-hant": "輸入：日本微軟公開了GPT的參考架構。有許多以日語為基礎的樣本實現可供參考！如果掌握了這個存儲庫，將會事半功倍。有日誌和認證等功能，真是太棒了。～樣本列表～1. 面向呼叫中心的GPT助手..."
                 }
             }
         },
@@ -17133,6 +17218,26 @@
                     "ja": "@snakajima さんによるSlashGPTの解説後でコードを確認する。",
                     "zh-hans": "在 @snakajima さん解释完SlashGPT之后，我们来确认一下代码。",
                     "zh-hant": "在 @snakajima さん解說完SlashGPT之後，請確認程式碼。"
+                }
+            },
+            "https://github.com/mckaywrigley/nba-cba-ai-chat": {
+                "repository_name": "nba-cba-ai-chat",
+                "user_name": "mckaywrigley",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Use AI to ask questions about the new 676-page NBA CBA.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Use AI to ask questions about the new 676-page NBA CBA.",
+                    "ja": "新しい676ページのNBA CBAについて質問するためにAIを使用してください。",
+                    "zh-hans": "使用人工智能来询问有关新的676页NBA CBA的问题。",
+                    "zh-hant": "使用人工智慧來詢問有關新的676頁NBA CBA的問題。"
                 }
             }
         }

@@ -15,41 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - 透過使用ChatGPT的文字提示器在飛機上生成的新型色彩圖
- * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 介紹 `gpt-prompt-engineer` ✍️一個能創造最佳 GPT 提示的代理. 只需描述任務,
- * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - 摘要來自DeepLearning.ai的開發者專用ChatGPT速速工程
-
-
 **Chatbots**
- * [paper-summarizer](https://github.com/discus0434/paper-summarizer) - 該網站的網站是一個由 OpenAI LLM 提供支持的,
-
-
-**Browser-extensions**
- * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - 聽取註冊 ChatGPT插件, 提供人工智能支持的播客搜索.
-
-
-**CLIs**
- * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) -  Wasp-立即開始使用SaaS模板, 包括社交/電子郵件登入,GPT/Stripe集成,cron工作,... →超快速開始️- `wasp db` CLI命令也是一個很好的觸摸,立即開始本地Postgres db 在背景下
-
-
-**Reimplementations**
- * [exllama](https://github.com/turboderp/exllama) - 能使用量化重量來實現Llama的高頻變壓器.
+ * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - 提供了一個由Vercel Labs和Supabase建立的全功能Supabaseified Next.js AI聊天機
 
 
 **NLP**
- * [openchat](https://github.com/imoneoi/openchat) - 公開聊天:開放源代碼模式的價值更低
- * [WebGLM](https://github.com/thudm/webglm) - 網站使用者應使用 WebGLM 來進行網站化問題解答.
+ * [MetaGPT](https://github.com/geekan/metagpt) - 多智能體元程式框架:給定老板需求,輸出產品文檔、架構設計、任務列表、代碼
+ * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 這項軟體是使用OpenAI的GPT-2模型和FAISS (Facebook AI類似搜尋) 索引索引索引和搜索PDF文本數據的高效工具,
+
+
+**Openai**
+ * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 微軟發布了日本的GPT參考架構. 基于日文的情景的範例實現是驚人的! 按下這個庫,我們會取得很多成果.
 
 
 **Others**
- * [chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles) - 提供本地檔案可用性
- * [SlashGPT](https://github.com/snakajima/slashgpt) - 請使用SlashGPT的程式碼.
+ * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - 請使用人工智能詢問關於新版676頁的NBA CBA.
 
 
-_Updated on July 06, 2023_ (A total of 873 repositories listed.)
-
-🏅 [melih-unsal](https://github.com/melih-unsal) provided some repository information. Thank you!
+_Updated on July 10, 2023_ (A total of 878 repositories listed.)
 
 ## Table of contents
 
@@ -363,6 +346,7 @@ _Updated on July 06, 2023_ (A total of 873 repositories listed.)
  * [embedchain](https://github.com/embedchain/embedchain) - 輸入：一個能夠輕鬆在任何數據集上創建以LLM為動力的機器人的框架。
 輸出：
  * [paper-summarizer](https://github.com/discus0434/paper-summarizer) - 一個由OpenAI LLMs提供支持的用於總結arXiv論文的Slack機器人。
+ * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - 一個由Vercel Labs和Supabase打造的功能齊全、Supabaseified的Next.js AI聊天機器人。
 
 
 |Name|GitHub Stars|Language|License|
@@ -478,6 +462,7 @@ _Updated on July 06, 2023_ (A total of 873 repositories listed.)
 |[chatgpt-apps](https://github.com/adamlui/chatgpt-apps)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-apps?style=social)|JavaScript|mit|
 |[embedchain](https://github.com/embedchain/embedchain)|![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)|Python|apache-2.0|
 |[paper-summarizer](https://github.com/discus0434/paper-summarizer)|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/paper-summarizer?style=social)|Python|agpl-3.0|
+|[vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/vercel-ai-chatbot?style=social)|TypeScript|other|
 
 
 ## Browser-extensions
@@ -681,7 +666,7 @@ _Updated on July 06, 2023_ (A total of 873 repositories listed.)
 |[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
 |[duckduckgpt](https://github.com/kudoai/duckduckgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/duckduckgpt?style=social)|JavaScript|mit|
 |[bravegpt](https://github.com/kudoai/bravegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/bravegpt?style=social)|JavaScript|mit|
-|[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/ListenNotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
+|[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/listennotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
 
 
 ## CLIs
@@ -1052,6 +1037,8 @@ _Updated on July 06, 2023_ (A total of 873 repositories listed.)
  * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - 輕鬆將您的程式碼從一個框架或語言遷移到另一個。
  * [openchat](https://github.com/imoneoi/openchat) - 開放聊天：對於開源模型而言，少即是多
  * [WebGLM](https://github.com/thudm/webglm) - WebGLM：一個高效的網頁增強問答系統（KDD 2023）
+ * [MetaGPT](https://github.com/geekan/metagpt) - 多智能體元編程框架：給定老闆需求，輸出產品文件、架構設計、任務列表、程式庫
+ * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 一個高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI相似性搜索）索引來索引和搜索PDF文本數據，旨在實現快速信息檢索和卓越的搜索準確性。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1189,7 +1176,9 @@ _Updated on July 06, 2023_ (A total of 873 repositories listed.)
 |[long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)|![GitHub Repo stars](https://img.shields.io/github/stars/sharonzhou/long_stable_diffusion?style=social)|Python|-|
 |[gpt-migrate](https://github.com/0xpayne/gpt-migrate)|![GitHub Repo stars](https://img.shields.io/github/stars/0xpayne/gpt-migrate?style=social)|Python|mit|
 |[openchat](https://github.com/imoneoi/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/imoneoi/openchat?style=social)|Jupyter Notebook|apache-2.0|
-|[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/WebGLM?style=social)|Python|apache-2.0|
+|[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/thudm/WebGLM?style=social)|Python|apache-2.0|
+|[MetaGPT](https://github.com/geekan/metagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)|Python|mit|
+|[PdfGptIndexer](https://github.com/raghavan/pdfgptindexer)|![GitHub Repo stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1406,6 +1395,7 @@ _Updated on July 06, 2023_ (A total of 873 repositories listed.)
  * [reliableGPT](https://github.com/berriai/reliablegpt) - 從OpenAI獲得100％的正常運行時間和可靠性。處理速率限制、超時、API和密鑰錯誤。
  * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 輸入：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。
 輸出：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。
+ * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 輸入：日本微軟公開了GPT的參考架構。有許多以日語為基礎的樣本實現可供參考！如果掌握了這個存儲庫，將會事半功倍。有日誌和認證等功能，真是太棒了。～樣本列表～1. 面向呼叫中心的GPT助手...
 
 
 |Name|GitHub Stars|Language|License|
@@ -1496,6 +1486,7 @@ _Updated on July 06, 2023_ (A total of 873 repositories listed.)
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
+|[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/jp-azureopenai-samples?style=social)|Python|mit|
 
 
 ## Others
@@ -1734,6 +1725,7 @@ add chatgpt to your groupchats:
  * [commavq](https://github.com/commaai/commavq) - commaVQ 是一個壓縮的駕駛視頻數據集。
  * [chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles) - 將本地文件設置為ChatGPT可訪問的。
  * [SlashGPT](https://github.com/snakajima/slashgpt) - 在 @snakajima さん解說完SlashGPT之後，請確認程式碼。
+ * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - 使用人工智慧來詢問有關新的676頁NBA CBA的問題。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1960,5 +1952,6 @@ add chatgpt to your groupchats:
 |[commavq](https://github.com/commaai/commavq)|![GitHub Repo stars](https://img.shields.io/github/stars/commaai/commavq?style=social)|Jupyter Notebook|mit|
 |[chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles)|![GitHub Repo stars](https://img.shields.io/github/stars/samrawal/chatgpt-localfiles?style=social)|Python|mit|
 |[SlashGPT](https://github.com/snakajima/slashgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/snakajima/SlashGPT?style=social)|Python|mit|
+|[nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/nba-cba-ai-chat?style=social)|TypeScript|mit|
 
 

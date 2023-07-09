@@ -15,48 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - ChatGPTを使用してテキストプロンプトで生成されたNeovimのカラースキーム
- * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - `gpt-prompt-engineer`をご紹介します✍️最適なGPTプロンプトを作成するエージェントです。タスクを説明するだけで、AIシステムの連鎖が以下の手順で行います：
-- 多くの可能なプロンプトを生成します
-- ランキングトーナメントでそれらをテストします
-- 最も優れたプロンプトを返します
-
-しかも、これはオープンソースです。
- * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - 入力：DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ
-出力：
-
-
 **Chatbots**
- * [paper-summarizer](https://github.com/discus0434/paper-summarizer) - OpenAI LLMsを活用したarXiv論文の要約を行うSlackボット。
-
-
-**Browser-extensions**
- * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - 入力：AIパワードポッドキャスト検索のためのListen Notes ChatGPTプラグイン。PodcastAPI.comとCloudflare Pagesによって提供されています。
-
-
-**CLIs**
- * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - 入力：🐝 ワスプ- ソーシャル/メールログイン、GPT/Stripeの統合、cronジョブなどを含むSaaSテンプレートで即座に開始します⚡️- `wasp db` CLIコマンドも素敵な要素で、バックグラウンドでローカルのPostgresデータベースをすぐに開始します。
-
-
-**Reimplementations**
- * [exllama](https://github.com/turboderp/exllama) - 量子化された重みを使用するためのLlamaのHF transformers実装のメモリ効率の改善版。
+ * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - フル機能を備えた、Vercel Labs＆Supabaseによって構築されたSupabaseified Next.js AIチャットボット。
 
 
 **NLP**
- * [openchat](https://github.com/imoneoi/openchat) - オープンチャット：オープンソースモデルにおいては、少ない方が良い
- * [WebGLM](https://github.com/thudm/webglm) - 入力：WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
-出力：WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
+ * [MetaGPT](https://github.com/geekan/metagpt) - マルチエージェントメタプログラミングフレームワーク：1行の要件を与えると、PRD、デザイン、タスク、リポジトリを返します。
+ * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 入力：OpenAIのGPT-2モデルとFAISS（Facebook AI Similarity Search）インデックスを使用したPDFテキストデータのインデックス化と検索のための効率的なツールであり、迅速な情報検索と優れた検索精度を実現するために設計されています。
+
+
+**Openai**
+ * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  
 
 
 **Others**
- * [chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles) - ChatGPTにローカルファイルへのアクセスを可能にする。
- * [SlashGPT](https://github.com/snakajima/slashgpt) - @snakajima さんによるSlashGPTの解説後でコードを確認する。
+ * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - 新しい676ページのNBA CBAについて質問するためにAIを使用してください。
 
 
-_Updated on July 06, 2023_ (A total of 873 repositories listed.)
-
-🏅 [melih-unsal](https://github.com/melih-unsal) provided some repository information. Thank you!
+_Updated on July 10, 2023_ (A total of 878 repositories listed.)
 
 ## Table of contents
 
@@ -193,8 +169,8 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 - 最も優れたプロンプトを返します
 
 しかも、これはオープンソースです。
- * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - 入力：DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ
-出力：
+ * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ
+
 
 
 |Name|GitHub Stars|Language|License|
@@ -379,6 +355,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 ChatGPTの驚異的なパワーを活用するアプリやそのUXを向上させるアプリ
  * [embedchain](https://github.com/embedchain/embedchain) - 任意のデータセット上で簡単にLLMパワードボットを作成するためのフレームワーク。
  * [paper-summarizer](https://github.com/discus0434/paper-summarizer) - OpenAI LLMsを活用したarXiv論文の要約を行うSlackボット。
+ * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - フル機能を備えた、Vercel Labs＆Supabaseによって構築されたSupabaseified Next.js AIチャットボット。
 
 
 |Name|GitHub Stars|Language|License|
@@ -494,6 +471,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[chatgpt-apps](https://github.com/adamlui/chatgpt-apps)|![GitHub Repo stars](https://img.shields.io/github/stars/adamlui/chatgpt-apps?style=social)|JavaScript|mit|
 |[embedchain](https://github.com/embedchain/embedchain)|![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)|Python|apache-2.0|
 |[paper-summarizer](https://github.com/discus0434/paper-summarizer)|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/paper-summarizer?style=social)|Python|agpl-3.0|
+|[vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/vercel-ai-chatbot?style=social)|TypeScript|other|
 
 
 ## Browser-extensions
@@ -595,7 +573,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [kaguya](https://github.com/ykdojo/kaguya) - 制御された方法でローカルファイルを読み込み、編集し、Python、JavaScript、およびbashスクリプトを実行できるChatGPTプラグイン。
  * [duckduckgpt](https://github.com/kudoai/duckduckgpt) - 🐤 DuckDuckGoのアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
  * [bravegpt](https://github.com/kudoai/bravegpt) - 🦁 ブレイブサーチアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
- * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - 入力：AIパワードポッドキャスト検索のためのListen Notes ChatGPTプラグイン。PodcastAPI.comとCloudflare Pagesによって提供されています。
+ * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - AIパワードポッドキャスト検索のためのListen Notes ChatGPTプラグイン。PodcastAPI.comとCloudflare Pagesによって提供されています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -697,7 +675,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[kaguya](https://github.com/ykdojo/kaguya)|![GitHub Repo stars](https://img.shields.io/github/stars/ykdojo/kaguya?style=social)|JavaScript|mit|
 |[duckduckgpt](https://github.com/kudoai/duckduckgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/duckduckgpt?style=social)|JavaScript|mit|
 |[bravegpt](https://github.com/kudoai/bravegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/bravegpt?style=social)|JavaScript|mit|
-|[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/ListenNotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
+|[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/listennotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
 
 
 ## CLIs
@@ -777,7 +755,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [Clippy](https://github.com/firecubestudios/clippy) - クリッピー by FireCube。
  * [aider](https://github.com/paul-gauthier/aider) - aiderはターミナルで動作するGPTパワードのコーディングです。
 aiderはターミナルで動作するGPTパワードのコーディングです。
- * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - 入力：🐝 ワスプ- ソーシャル/メールログイン、GPT/Stripeの統合、cronジョブなどを含むSaaSテンプレートで即座に開始します⚡️- `wasp db` CLIコマンドも素敵な要素で、バックグラウンドでローカルのPostgresデータベースをすぐに開始します。
+ * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - 🐝 ワスプ- ソーシャル/メールログイン、GPT/Stripeの統合、cronジョブなどを含むSaaSテンプレートで即座に開始します⚡️- `wasp db` CLIコマンドも素敵な要素で、バックグラウンドでローカルのPostgresデータベースをすぐに開始します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1061,8 +1039,10 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - 長い文章から画像を生成する、深層生成モデルのパイプラインを使用したテキストから画像生成（GPT-3とStable Diffusion）
  * [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - 簡単にコードベースを別のフレームワークや言語に移行できます。
  * [openchat](https://github.com/imoneoi/openchat) - オープンチャット：オープンソースモデルにおいては、少ない方が良い
- * [WebGLM](https://github.com/thudm/webglm) - 入力：WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
-出力：WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
+ * [WebGLM](https://github.com/thudm/webglm) - WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
+WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
+ * [MetaGPT](https://github.com/geekan/metagpt) - マルチエージェントメタプログラミングフレームワーク：1行の要件を与えると、PRD、デザイン、タスク、リポジトリを返します。
+ * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 入力：OpenAIのGPT-2モデルとFAISS（Facebook AI Similarity Search）インデックスを使用したPDFテキストデータのインデックス化と検索のための効率的なツールであり、迅速な情報検索と優れた検索精度を実現するために設計されています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1200,7 +1180,9 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion)|![GitHub Repo stars](https://img.shields.io/github/stars/sharonzhou/long_stable_diffusion?style=social)|Python|-|
 |[gpt-migrate](https://github.com/0xpayne/gpt-migrate)|![GitHub Repo stars](https://img.shields.io/github/stars/0xpayne/gpt-migrate?style=social)|Python|mit|
 |[openchat](https://github.com/imoneoi/openchat)|![GitHub Repo stars](https://img.shields.io/github/stars/imoneoi/openchat?style=social)|Jupyter Notebook|apache-2.0|
-|[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/THUDM/WebGLM?style=social)|Python|apache-2.0|
+|[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/thudm/WebGLM?style=social)|Python|apache-2.0|
+|[MetaGPT](https://github.com/geekan/metagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)|Python|mit|
+|[PdfGptIndexer](https://github.com/raghavan/pdfgptindexer)|![GitHub Repo stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1415,6 +1397,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Next.js、OpenAI、およびSupabaseによって動力化された独自のカスタムChatGPTスタイルのドキュメント検索を構築するためのテンプレート。
  * [reliableGPT](https://github.com/berriai/reliablegpt) - OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。
  * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。 
+ * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  
 
 
 |Name|GitHub Stars|Language|License|
@@ -1505,6 +1488,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
+|[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/jp-azureopenai-samples?style=social)|Python|mit|
 
 
 ## Others
@@ -1733,6 +1717,7 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
  * [commavq](https://github.com/commaai/commavq) - commaVQは圧縮された運転映像のデータセットです。
  * [chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles) - ChatGPTにローカルファイルへのアクセスを可能にする。
  * [SlashGPT](https://github.com/snakajima/slashgpt) - @snakajima さんによるSlashGPTの解説後でコードを確認する。
+ * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - 新しい676ページのNBA CBAについて質問するためにAIを使用してください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1959,5 +1944,6 @@ GPT-4による説明に基づいてニューロンの活性化をシミュレー
 |[commavq](https://github.com/commaai/commavq)|![GitHub Repo stars](https://img.shields.io/github/stars/commaai/commavq?style=social)|Jupyter Notebook|mit|
 |[chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles)|![GitHub Repo stars](https://img.shields.io/github/stars/samrawal/chatgpt-localfiles?style=social)|Python|mit|
 |[SlashGPT](https://github.com/snakajima/slashgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/snakajima/SlashGPT?style=social)|Python|mit|
+|[nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/nba-cba-ai-chat?style=social)|TypeScript|mit|
 
 
