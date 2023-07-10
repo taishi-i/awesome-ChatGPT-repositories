@@ -550,6 +550,7 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - Make your ChatGPT Plugin store searchable.让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
  * [chat-ai-plugin](https://github.com/personoids/chat-ai-plugin) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
  * [github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin) - A ChatGPT plugin to give access to GitHub.
+ * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - Self-hosted (Amazon WS) ChatGPT plugin to access and explore Github repositories.
  * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code
  * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - Run ChatGPT plugins for free without having access to Plus subscription
@@ -652,6 +653,7 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 |[chat-ai-plugin](https://github.com/personoids/chat-ai-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/chat-ai-plugin?style=social)|JavaScript|mit|
 |[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/jesserweigel/github-chatGPT-plugin?style=social)|Python|mit|
+|[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|MIT|
 |[chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/kesor/chatgpt-code-plugin?style=social)|TypeScript|mit|
 |[Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-Crypto-Plugin?style=social)|Python|mit|
 |[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
