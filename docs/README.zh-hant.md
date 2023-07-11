@@ -16,23 +16,43 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - 提供了一個由Vercel Labs和Supabase建立的全功能Supabaseified Next.js AI聊天機
+ * [llm-inference](https://github.com/aniketmaurya/llm-inference) - 大型語言模型 (LLM) 推論API和聊天機
+ * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - 能自動決定,控制和利用不同的視覺基礎模型, 讓使用者在對話中與圖像互動.
+
+
+**Browser-extensions**
+ * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - 這裡包含 ChatGPT 的插件,它與 GitHub API 互動. 它可以尋找 GitHub 資料庫的資訊,包括資料庫列表,資料庫中的分支和檔案,以及特定檔案的內容.
+ * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 透過使用 Cloudflare 工作者和 Clerk OAuth2 后端的 ChatGPT 插件範例.
+
+
+**CLIs**
+ * [openai-cli](https://github.com/janlay/openai-cli) - 這是一種用BASH寫的 OpenAI的通用程式.
+ * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 智能通用資料庫SQL客戶端和報表工具.
 
 
 **NLP**
- * [MetaGPT](https://github.com/geekan/metagpt) - 多智能體元程式框架:給定老板需求,輸出產品文檔、架構設計、任務列表、代碼
- * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 這項軟體是使用OpenAI的GPT-2模型和FAISS (Facebook AI類似搜尋) 索引索引索引和搜索PDF文本數據的高效工具,
+ * [SuperAGI](https://github.com/transformeroptimus/superagi) - 超級AGI - 一款開源開發者首發的自動人工智能代理框架.
+ * [OpenLLM](https://github.com/bentoml/openllm) - 在生產中經營的LLM
+
+
+**Langchain**
+ * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - 透過使用Streamlit,LangChain和開放源碼的LLM,
+ * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 帶著您的數位鋼琴, @OpenAI API 鍵和 #GPU 成為藝術家! #musicgen #audiocraft #gpt @LangChainAI @MetaAI 為了讓這一切可能的工具! 
 
 
 **Openai**
- * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 微軟發布了日本的GPT參考架構. 基于日文的情景的範例實現是驚人的! 按下這個庫,我們會取得很多成果.
+ * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - 打開AIGPT SwiftUI聊天應用程式,
 
 
 **Others**
- * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - 請使用人工智能詢問關於新版676頁的NBA CBA.
+ * [Taqyim](https://github.com/arbml/taqyim) - 在chatgpt模型上進行評估的Python集體
+ * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - 該網站的應用程式可自動地傳播.
+ * [Callisto](https://github.com/jetp1ane/callisto) - 卡利斯托 - 智能二元脆弱性分析工具
 
 
-_Updated on July 10, 2023_ (A total of 878 repositories listed.)
+_Updated on July 12, 2023_ (A total of 892 repositories listed.)
+
+🏅 [carlos-lugo](https://github.com/carlos-lugo) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -347,6 +367,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 輸出：
  * [paper-summarizer](https://github.com/discus0434/paper-summarizer) - 一個由OpenAI LLMs提供支持的用於總結arXiv論文的Slack機器人。
  * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - 一個由Vercel Labs和Supabase打造的功能齊全、Supabaseified的Next.js AI聊天機器人。
+ * [llm-inference](https://github.com/aniketmaurya/llm-inference) - 大型語言模型（LLM）推論API和聊天機器人
+ * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Tools 是一個智能系統，可以自動決定、控制和利用不同的視覺基礎模型，讓使用者在對話中與圖像互動。
 
 
 |Name|GitHub Stars|Language|License|
@@ -463,6 +485,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[embedchain](https://github.com/embedchain/embedchain)|![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)|Python|apache-2.0|
 |[paper-summarizer](https://github.com/discus0434/paper-summarizer)|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/paper-summarizer?style=social)|Python|agpl-3.0|
 |[vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/vercel-ai-chatbot?style=social)|TypeScript|other|
+|[llm-inference](https://github.com/aniketmaurya/llm-inference)|![GitHub Repo stars](https://img.shields.io/github/stars/aniketmaurya/llm-inference?style=social)|Python|mit|
+|[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/StevenGrove/GPT4Tools?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -565,6 +589,9 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [duckduckgpt](https://github.com/kudoai/duckduckgpt) - 🐤 DuckDuckGo 的附加元件，將 ChatGPT 的魔力帶到搜尋結果中（由 GPT-4 驅動！）
  * [bravegpt](https://github.com/kudoai/bravegpt) - 🦁 勇敢搜索插件將ChatGPT的魔力帶到搜索結果中（由GPT-4提供動力！）
  * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - 輸入：Listen Notes ChatGPT 插件，用於 AI 強化的播客搜索。由 PodcastAPI.com 和 Cloudflare Pages 提供動力。
+ * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - 這個存儲庫包含一個與GitHub API交互的ChatGPT插件。它可以獲取有關GitHub存儲庫的信息，包括存儲庫列表、存儲庫中的分支和文件，以及特定文件的內容。
+ * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 輸入：使用 Cloudflare Workers 和 Clerk OAuth2 後端的 ChatGPT 插件示例。
+輸出：
 
 
 |Name|GitHub Stars|Language|License|
@@ -667,6 +694,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[duckduckgpt](https://github.com/kudoai/duckduckgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/duckduckgpt?style=social)|JavaScript|mit|
 |[bravegpt](https://github.com/kudoai/bravegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/bravegpt?style=social)|JavaScript|mit|
 |[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/listennotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
+|[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|-|
+|[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -748,6 +777,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [Clippy](https://github.com/firecubestudios/clippy) - Clippy由FireCube提供。
  * [aider](https://github.com/paul-gauthier/aider) - 輸入：aider是在您的終端機上使用GPT進行編碼的工具
  * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - 🐝 黃蜂- 立即使用包含社交/郵件登錄、GPT/Stripe集成、cron作業等的SaaS模板開始⚡️- `wasp db` CLI命令也是一個不錯的功能，可以立即在後台啟動本地的Postgres數據庫。
+ * [openai-cli](https://github.com/janlay/openai-cli) - 一個用BASH編寫的OpenAI通用命令行界面。
+ * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 一個智能且多功能的通用SQL客戶端和報表工具，集成了ChatGPT功能。
 
 
 |Name|GitHub Stars|Language|License|
@@ -827,6 +858,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[Clippy](https://github.com/firecubestudios/clippy)|![GitHub Repo stars](https://img.shields.io/github/stars/firecubestudios/Clippy?style=social)|C#|-|
 |[aider](https://github.com/paul-gauthier/aider)|![GitHub Repo stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social)|Python|apache-2.0|
 |[SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/wasp-lang/SaaS-Template-GPT?style=social)|TypeScript|-|
+|[openai-cli](https://github.com/janlay/openai-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cli?style=social)|Shell|mit|
+|[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
 
 
 ## Reimplementations
@@ -1039,6 +1072,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [WebGLM](https://github.com/thudm/webglm) - WebGLM：一個高效的網頁增強問答系統（KDD 2023）
  * [MetaGPT](https://github.com/geekan/metagpt) - 多智能體元編程框架：給定老闆需求，輸出產品文件、架構設計、任務列表、程式庫
  * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 一個高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI相似性搜索）索引來索引和搜索PDF文本數據，旨在實現快速信息檢索和卓越的搜索準確性。
+ * [SuperAGI](https://github.com/transformeroptimus/superagi) - <⚡️> SuperAGI - 一個以開發者為主的開源自主人工智能代理框架。讓開發者能夠快速可靠地建立、管理和運行有用的自主代理。
+ * [OpenLLM](https://github.com/bentoml/openllm) - 在生產中操作LLMs
 
 
 |Name|GitHub Stars|Language|License|
@@ -1179,6 +1214,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/thudm/WebGLM?style=social)|Python|apache-2.0|
 |[MetaGPT](https://github.com/geekan/metagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)|Python|mit|
 |[PdfGptIndexer](https://github.com/raghavan/pdfgptindexer)|![GitHub Repo stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)|Python|mit|
+|[SuperAGI](https://github.com/transformeroptimus/superagi)|![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)|Python|mit|
+|[OpenLLM](https://github.com/bentoml/openllm)|![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1229,6 +1266,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - 微調大型語言模型以生成GDScript。
  * [eva](https://github.com/georgia-tech-db/eva) - 建立更簡單、更快速的人工智慧應用程式的資料庫系統
  * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 輸入：非常好奇ChatGPT那種流式輸出，費了牛勁，堆砌出了基於Python LangChain的實現，涵蓋控制台和Web3應用的異步流式輸出。Python異步編程還需深入學習🧐代碼👇視頻分享👇bilibili:   #LangChain #ChatGPT #OpenAI
+ * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - 使用Streamlit、LangChain和開源LLMs進行DIY ChatGPT
+ * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 介紹「GPT-Producer」，帶上你的數位鋼琴、@OpenAI API金鑰和你的#GPU，成為一位藝術家！感謝@LangChainAI和@MetaAI提供的工具，使這一切成為可能！ #musicgen #audiocraft #gpt
 
 
 |Name|GitHub Stars|Language|License|
@@ -1279,6 +1318,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
 |[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
 |[LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/sugarforever/LangChain-Tutorials?style=social)|Jupyter Notebook|-|
+|[chat-efficient](https://github.com/coefficientsystems/chat-efficient)|![GitHub Repo stars](https://img.shields.io/github/stars/CoefficientSystems/chat-efficient?style=social)|Jupyter Notebook|mit|
+|[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
 
 
 ## Unity
@@ -1396,6 +1437,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 輸入：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。
 輸出：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 輸入：日本微軟公開了GPT的參考架構。有許多以日語為基礎的樣本實現可供參考！如果掌握了這個存儲庫，將會事半功倍。有日誌和認證等功能，真是太棒了。～樣本列表～1. 面向呼叫中心的GPT助手...
+ * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - 輸入：OpenAI ChatGPT SwiftUI iOS、iPadOS、macOS 應用程式
+輸出：
 
 
 |Name|GitHub Stars|Language|License|
@@ -1486,7 +1529,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
-|[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/jp-azureopenai-samples?style=social)|Python|mit|
+|[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
+|[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37MobileTeam/iChatGPT?style=social)|Swift|gpl-3.0|
 
 
 ## Others
@@ -1726,6 +1770,11 @@ add chatgpt to your groupchats:
  * [chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles) - 將本地文件設置為ChatGPT可訪問的。
  * [SlashGPT](https://github.com/snakajima/slashgpt) - 在 @snakajima さん解說完SlashGPT之後，請確認程式碼。
  * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - 使用人工智慧來詢問有關新的676頁NBA CBA的問題。
+ * [Taqyim](https://github.com/arbml/taqyim) - 輸入：用於評估ChatGPT模型的Python介面
+輸出：
+ * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - 輸入：GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的分發。
+輸出：GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的分發。
+ * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - 一個智能的二進制漏洞分析工具
 
 
 |Name|GitHub Stars|Language|License|
@@ -1953,5 +2002,8 @@ add chatgpt to your groupchats:
 |[chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles)|![GitHub Repo stars](https://img.shields.io/github/stars/samrawal/chatgpt-localfiles?style=social)|Python|mit|
 |[SlashGPT](https://github.com/snakajima/slashgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/snakajima/SlashGPT?style=social)|Python|mit|
 |[nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/nba-cba-ai-chat?style=social)|TypeScript|mit|
+|[Taqyim](https://github.com/arbml/taqyim)|![GitHub Repo stars](https://img.shields.io/github/stars/ARBML/Taqyim?style=social)|Jupyter Notebook|mit|
+|[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
+|[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/JetP1ane/Callisto?style=social)|Python|-|
 
 

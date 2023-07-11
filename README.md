@@ -19,23 +19,43 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 ## The latest additions 🎉
 
 **Chatbots**
- * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - A full-featured, Supabaseified Next.js AI chatbot built by Vercel Labs & Supabase
+ * [llm-inference](https://github.com/aniketmaurya/llm-inference) - Large Language Model (LLM) Inference API and Chatbot
+ * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Tools is an intelligent system that can automatically decide, control, and utilize different visual foundation models, allowing the user to interact with images during a conversation.
+
+
+**Browser-extensions**
+ * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - This repository contains a plugin for ChatGPT that interacts with the GitHub API. It can fetch information about GitHub repositories, including the list of repositories, branch and files in a repository, and the content of a specific file.
+ * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - ChatGPT plugin example using Cloudflare Workers and Clerk OAuth2 backend.
+
+
+**CLIs**
+ * [openai-cli](https://github.com/janlay/openai-cli) - A universal cli for OpenAI, written in BASH.
+ * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 
 
 **NLP**
- * [MetaGPT](https://github.com/geekan/metagpt) - The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码
- * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - An efficient tool for indexing and searching PDF text data using OpenAI's GPT-2 model and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
+ * [SuperAGI](https://github.com/transformeroptimus/superagi) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+ * [OpenLLM](https://github.com/bentoml/openllm) - Operating LLMs in production
+
+
+**Langchain**
+ * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - DIY ChatGPT using Streamlit, LangChain and open-source LLMs
+ * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - Introducing "GPT-Producer"Bring your Digital Piano, your @OpenAI API key, and your #GPU and become an artist! #musicgen #audiocraft #gpt  @LangChainAI @MetaAI for the tools that made this possible! 
 
 
 **Openai**
- * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  
+ * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 
 
 **Others**
- * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - Use AI to ask questions about the new 676-page NBA CBA.
+ * [Taqyim](https://github.com/arbml/taqyim) - Python intefrace for evaluation on chatgpt models
+ * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - GitHub Action to upload your app for automating the distribution of your app.
+ * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - An Intelligent Binary Vulnerability Analysis Tool
 
 
-_Updated on July 10, 2023_ (A total of 878 repositories listed.)
+_Updated on July 12, 2023_ (A total of 892 repositories listed.)
+
+🏅 [carlos-lugo](https://github.com/carlos-lugo) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -346,6 +366,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
  * [paper-summarizer](https://github.com/discus0434/paper-summarizer) - A Slack Bot for summarizing arXiv papers, powered by OpenAI LLMs.
  * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - A full-featured, Supabaseified Next.js AI chatbot built by Vercel Labs & Supabase
+ * [llm-inference](https://github.com/aniketmaurya/llm-inference) - Large Language Model (LLM) Inference API and Chatbot
+ * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Tools is an intelligent system that can automatically decide, control, and utilize different visual foundation models, allowing the user to interact with images during a conversation.
 
 
 |Name|GitHub Stars|Language|License|
@@ -462,6 +484,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[embedchain](https://github.com/embedchain/embedchain)|![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)|Python|apache-2.0|
 |[paper-summarizer](https://github.com/discus0434/paper-summarizer)|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/paper-summarizer?style=social)|Python|agpl-3.0|
 |[vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/vercel-ai-chatbot?style=social)|TypeScript|other|
+|[llm-inference](https://github.com/aniketmaurya/llm-inference)|![GitHub Repo stars](https://img.shields.io/github/stars/aniketmaurya/llm-inference?style=social)|Python|mit|
+|[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/StevenGrove/GPT4Tools?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -550,7 +574,6 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable) - Make your ChatGPT Plugin store searchable.让你的 ChatGPT 插件商店支持搜索。https://greasyfork.org/scripts/466901-chatgpt-plugins-searchable
  * [chat-ai-plugin](https://github.com/personoids/chat-ai-plugin) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
  * [github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin) - A ChatGPT plugin to give access to GitHub.
- * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - Self-hosted (Amazon WS) ChatGPT plugin to access and explore Github repositories.
  * [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code
  * [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - The AutoGPT Crypto Plugin is a software tool that enables traders to connect their Crypto wallet or exchange to Auto-GPT.
  * [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - Run ChatGPT plugins for free without having access to Plus subscription
@@ -565,6 +588,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [duckduckgpt](https://github.com/kudoai/duckduckgpt) - 🐤 DuckDuckGo add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
  * [bravegpt](https://github.com/kudoai/bravegpt) - 🦁 Brave Search add-on that brings the magic of ChatGPT to search results (powered by GPT-4!)
  * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - Listen Notes ChatGPT Plugin for AI-powered podcast search. Powered by PodcastAPI.com and Cloudflare Pages.
+ * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - This repository contains a plugin for ChatGPT that interacts with the GitHub API. It can fetch information about GitHub repositories, including the list of repositories, branch and files in a repository, and the content of a specific file.
+ * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - ChatGPT plugin example using Cloudflare Workers and Clerk OAuth2 backend.
 
 
 |Name|GitHub Stars|Language|License|
@@ -653,7 +678,6 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[ChatGPT-Plugins-Searchable](https://github.com/banbri/chatgpt-plugins-searchable)|![GitHub Repo stars](https://img.shields.io/github/stars/banbri/ChatGPT-Plugins-Searchable?style=social)|JavaScript|mit|
 |[chat-ai-plugin](https://github.com/personoids/chat-ai-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/chat-ai-plugin?style=social)|JavaScript|mit|
 |[github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/jesserweigel/github-chatGPT-plugin?style=social)|Python|mit|
-|[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|MIT|
 |[chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/kesor/chatgpt-code-plugin?style=social)|TypeScript|mit|
 |[Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/isaiahbjork/Auto-GPT-Crypto-Plugin?style=social)|Python|mit|
 |[ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/samuraigpt/ChatGPT-Developer-Plugins?style=social)|Python|mit|
@@ -668,6 +692,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[duckduckgpt](https://github.com/kudoai/duckduckgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/duckduckgpt?style=social)|JavaScript|mit|
 |[bravegpt](https://github.com/kudoai/bravegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/kudoai/bravegpt?style=social)|JavaScript|mit|
 |[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/listennotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
+|[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|-|
+|[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -747,6 +773,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [Clippy](https://github.com/firecubestudios/clippy) - Clippy by FireCube.
  * [aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
  * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - 🐝 Wasp- immediately started with a SaaS template that includes social/email login, GPT/Stripe integration, cron jobs, ... → super fast start⚡️- `wasp db` CLI command is also a nice touch, immediately starts a local Postgres db in the background
+ * [openai-cli](https://github.com/janlay/openai-cli) - A universal cli for OpenAI, written in BASH.
+ * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 
 
 |Name|GitHub Stars|Language|License|
@@ -826,6 +854,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[Clippy](https://github.com/firecubestudios/clippy)|![GitHub Repo stars](https://img.shields.io/github/stars/firecubestudios/Clippy?style=social)|C#|-|
 |[aider](https://github.com/paul-gauthier/aider)|![GitHub Repo stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=social)|Python|apache-2.0|
 |[SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/wasp-lang/SaaS-Template-GPT?style=social)|TypeScript|-|
+|[openai-cli](https://github.com/janlay/openai-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cli?style=social)|Shell|mit|
+|[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
 
 
 ## Reimplementations
@@ -1030,6 +1060,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [WebGLM](https://github.com/thudm/webglm) - WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)
  * [MetaGPT](https://github.com/geekan/metagpt) - The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo | 多智能体元编程框架：给定老板需求，输出产品文档、架构设计、任务列表、代码
  * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - An efficient tool for indexing and searching PDF text data using OpenAI's GPT-2 model and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.
+ * [SuperAGI](https://github.com/transformeroptimus/superagi) - <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+ * [OpenLLM](https://github.com/bentoml/openllm) - Operating LLMs in production
 
 
 |Name|GitHub Stars|Language|License|
@@ -1170,6 +1202,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/thudm/WebGLM?style=social)|Python|apache-2.0|
 |[MetaGPT](https://github.com/geekan/metagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)|Python|mit|
 |[PdfGptIndexer](https://github.com/raghavan/pdfgptindexer)|![GitHub Repo stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)|Python|mit|
+|[SuperAGI](https://github.com/transformeroptimus/superagi)|![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)|Python|mit|
+|[OpenLLM](https://github.com/bentoml/openllm)|![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)|Python|apache-2.0|
 
 
 ## Langchain
@@ -1220,6 +1254,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - Finetuning large language models for GDScript generation.
  * [eva](https://github.com/georgia-tech-db/eva) - Database system for building simpler and faster AI-powered applications
  * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI
+ * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - DIY ChatGPT using Streamlit, LangChain and open-source LLMs
+ * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - Introducing "GPT-Producer"Bring your Digital Piano, your @OpenAI API key, and your #GPU and become an artist! #musicgen #audiocraft #gpt  @LangChainAI @MetaAI for the tools that made this possible! 
 
 
 |Name|GitHub Stars|Language|License|
@@ -1270,6 +1306,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
 |[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
 |[LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/sugarforever/LangChain-Tutorials?style=social)|Jupyter Notebook|-|
+|[chat-efficient](https://github.com/coefficientsystems/chat-efficient)|![GitHub Repo stars](https://img.shields.io/github/stars/CoefficientSystems/chat-efficient?style=social)|Jupyter Notebook|mit|
+|[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
 
 
 ## Unity
@@ -1384,7 +1422,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
  * [reliableGPT](https://github.com/berriai/reliablegpt) - Get 100% uptime, reliability from OpenAI. Handle Rate Limit, Timeout, API, Keys Errors
  * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。
- * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  
+ * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…
+ * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
 
 
 |Name|GitHub Stars|Language|License|
@@ -1475,7 +1514,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/nextjs-openai-doc-search?style=social)|TypeScript|-|
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
-|[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/jp-azureopenai-samples?style=social)|Python|mit|
+|[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
+|[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37MobileTeam/iChatGPT?style=social)|Swift|gpl-3.0|
 
 
 ## Others
@@ -1703,6 +1743,9 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
  * [chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles) - Make local files accessible to ChatGPT
  * [SlashGPT](https://github.com/snakajima/slashgpt) - @snakajima さんによるSlashGPTの解説後でコードを確認する。
  * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - Use AI to ask questions about the new 676-page NBA CBA.
+ * [Taqyim](https://github.com/arbml/taqyim) - Python intefrace for evaluation on chatgpt models
+ * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - GitHub Action to upload your app for automating the distribution of your app.
+ * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - An Intelligent Binary Vulnerability Analysis Tool
 
 
 |Name|GitHub Stars|Language|License|
@@ -1930,5 +1973,8 @@ _Updated on July 10, 2023_ (A total of 878 repositories listed.)
 |[chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles)|![GitHub Repo stars](https://img.shields.io/github/stars/samrawal/chatgpt-localfiles?style=social)|Python|mit|
 |[SlashGPT](https://github.com/snakajima/slashgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/snakajima/SlashGPT?style=social)|Python|mit|
 |[nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/nba-cba-ai-chat?style=social)|TypeScript|mit|
+|[Taqyim](https://github.com/arbml/taqyim)|![GitHub Repo stars](https://img.shields.io/github/stars/ARBML/Taqyim?style=social)|Jupyter Notebook|mit|
+|[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
+|[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/JetP1ane/Callisto?style=social)|Python|-|
 
 

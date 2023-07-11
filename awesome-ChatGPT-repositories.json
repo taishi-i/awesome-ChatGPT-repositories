@@ -3895,6 +3895,51 @@
                     "zh-hans": "一个由Vercel Labs和Supabase构建的功能齐全的、Supabaseified的Next.js AI聊天机器人。",
                     "zh-hant": "一個由Vercel Labs和Supabase打造的功能齊全、Supabaseified的Next.js AI聊天機器人。"
                 }
+            },
+            "https://github.com/aniketmaurya/llm-inference": {
+                "repository_name": "llm-inference",
+                "user_name": "aniketmaurya",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Large Language Model (LLM) Inference API and Chatbot",
+                "topics": [
+                    "chatbot",
+                    "llama",
+                    "llm",
+                    "opensource"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Large Language Model (LLM) Inference API and Chatbot",
+                    "ja": "大規模言語モデル（LLM）の推論APIとチャットボット",
+                    "zh-hans": "大型语言模型（LLM）推理API和聊天机器人",
+                    "zh-hant": "大型語言模型（LLM）推論API和聊天機器人"
+                }
+            },
+            "https://github.com/stevengrove/gpt4tools": {
+                "repository_name": "GPT4Tools",
+                "user_name": "StevenGrove",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "GPT4Tools is an intelligent system that can automatically decide, control, and utilize different visual foundation models, allowing the user to interact with images during a conversation.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "GPT4Tools is an intelligent system that can automatically decide, control, and utilize different visual foundation models, allowing the user to interact with images during a conversation.",
+                    "ja": "GPT4Toolsは、異なるビジュアル基盤モデルを自動的に決定、制御、活用することができるインテリジェントシステムです。これにより、ユーザーは会話中に画像と対話することができます。",
+                    "zh-hans": "GPT4Tools是一个智能系统，可以自动决定、控制和利用不同的视觉基础模型，允许用户在对话过程中与图像进行交互。",
+                    "zh-hant": "GPT4Tools 是一個智能系統，可以自動決定、控制和利用不同的視覺基礎模型，讓使用者在對話中與圖像互動。"
+                }
             }
         },
         "Browser-extensions": {
@@ -5878,6 +5923,53 @@
                     "zh-hans": "输入：Listen Notes ChatGPT插件，用于基于人工智能的播客搜索。由PodcastAPI.com和Cloudflare Pages提供支持。",
                     "zh-hant": "輸入：Listen Notes ChatGPT 插件，用於 AI 強化的播客搜索。由 PodcastAPI.com 和 Cloudflare Pages 提供動力。"
                 }
+            },
+            "https://github.com/carlos-lugo/chatgpt-github-plugin": {
+                "repository_name": "chatgpt-github-plugin",
+                "user_name": "carlos-lugo",
+                "language": "JavaScript",
+                "license": null,
+                "description": "This repository contains a plugin for ChatGPT that interacts with the GitHub API. It can fetch information about GitHub repositories, including the list of repositories, branch and files in a repository, and the content of a specific file.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plugins"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This repository contains a plugin for ChatGPT that interacts with the GitHub API. It can fetch information about GitHub repositories, including the list of repositories, branch and files in a repository, and the content of a specific file.",
+                    "ja": "このリポジトリには、ChatGPTとGitHub APIとの連携を可能にするプラグインが含まれています。GitHubのリポジトリに関する情報を取得することができます。具体的には、リポジトリの一覧、ブランチやファイルの情報、特定のファイルの内容などを取得することができます。",
+                    "zh-hans": "这个仓库包含一个与GitHub API交互的ChatGPT插件。它可以获取关于GitHub仓库的信息，包括仓库列表、仓库中的分支和文件，以及特定文件的内容。",
+                    "zh-hant": "這個存儲庫包含一個與GitHub API交互的ChatGPT插件。它可以獲取有關GitHub存儲庫的信息，包括存儲庫列表、存儲庫中的分支和文件，以及特定文件的內容。"
+                }
+            },
+            "https://github.com/eidam/chatgpt-plugin-clerk-auth": {
+                "repository_name": "chatgpt-plugin-clerk-auth",
+                "user_name": "eidam",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT plugin example using Cloudflare Workers and Clerk OAuth2 backend.",
+                "topics": [
+                    "chatgpt",
+                    "clerk",
+                    "clerkauth",
+                    "cloudflare",
+                    "cloudflare-workers",
+                    "oauth2",
+                    "openai",
+                    "plugin",
+                    "workers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT plugin example using Cloudflare Workers and Clerk OAuth2 backend.",
+                    "ja": "入力：Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。\n出力：",
+                    "zh-hans": "输入：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。\n输出：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。",
+                    "zh-hant": "輸入：使用 Cloudflare Workers 和 Clerk OAuth2 後端的 ChatGPT 插件示例。\n輸出："
+                }
             }
         },
         "CLIs": {
@@ -7414,6 +7506,59 @@
                     "ja": "入力：🐝 ワスプ- ソーシャル/メールログイン、GPT/Stripeの統合、cronジョブなどを含むSaaSテンプレートで即座に開始します⚡️- `wasp db` CLIコマンドも素敵な要素で、バックグラウンドでローカルのPostgresデータベースをすぐに開始します。",
                     "zh-hans": "🐝 Wasp- 立即开始使用包含社交/电子邮件登录、GPT/Stripe集成、cron作业等功能的SaaS模板 → 超快速启动⚡️- `wasp db` CLI命令也是一个很好的功能，可以立即在后台启动本地的Postgres数据库。",
                     "zh-hant": "🐝 黃蜂- 立即使用包含社交/郵件登錄、GPT/Stripe集成、cron作業等的SaaS模板開始⚡️- `wasp db` CLI命令也是一個不錯的功能，可以立即在後台啟動本地的Postgres數據庫。"
+                }
+            },
+            "https://github.com/janlay/openai-cli": {
+                "repository_name": "openai-cli",
+                "user_name": "janlay",
+                "language": "Shell",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A universal cli for OpenAI, written in BASH.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A universal cli for OpenAI, written in BASH.",
+                    "ja": "入力：BASHで書かれたOpenAIのためのユニバーサルCLI。\n出力：",
+                    "zh-hans": "一个用BASH编写的OpenAI通用命令行界面。",
+                    "zh-hant": "一個用BASH編寫的OpenAI通用命令行界面。"
+                }
+            },
+            "https://github.com/chat2db/chat2db": {
+                "repository_name": "Chat2DB",
+                "user_name": "chat2db",
+                "language": "Java",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "datagrip",
+                    "dbeaver",
+                    "gpt",
+                    "h2",
+                    "mysql",
+                    "navicat",
+                    "oracle",
+                    "postgresql",
+                    "redis",
+                    "sqlserver"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)",
+                    "ja": "🔥 🔥 🔥 データベース用の知識豊富で多機能な汎用SQLクライアントおよびレポートツールで、ChatGPTの機能も統合されています。",
+                    "zh-hans": "🔥 🔥 🔥 一个智能且多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。",
+                    "zh-hant": "🔥 🔥 🔥 一個智能且多功能的通用SQL客戶端和報表工具，集成了ChatGPT功能。"
                 }
             }
         },
@@ -10477,6 +10622,78 @@
                     "zh-hans": "一个高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI Similarity Search）索引来索引和搜索PDF文本数据，旨在实现快速信息检索和卓越的搜索准确性。",
                     "zh-hant": "一個高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI相似性搜索）索引來索引和搜索PDF文本數據，旨在實現快速信息檢索和卓越的搜索準確性。"
                 }
+            },
+            "https://github.com/transformeroptimus/superagi": {
+                "repository_name": "SuperAGI",
+                "user_name": "TransformerOptimus",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+                "topics": [
+                    "agents",
+                    "agi",
+                    "ai",
+                    "artificial-general-intelligence",
+                    "artificial-intelligence",
+                    "autonomous-agents",
+                    "gpt-4",
+                    "llm",
+                    "llmops",
+                    "nextjs",
+                    "openai",
+                    "pinecone",
+                    "python",
+                    "superagi"
+                ],
+                "multilingual_descriptions": {
+                    "en": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+                    "ja": "<⚡️> SuperAGI - 開発者第一のオープンソース自律型AIエージェントフレームワーク。開発者が迅速かつ信頼性の高い有用な自律エージェントを構築、管理、実行できるようにします。",
+                    "zh-hans": "<⚡️> SuperAGI - 一个以开发者为中心的开源自主人工智能代理框架。使开发者能够快速可靠地构建、管理和运行有用的自主代理。",
+                    "zh-hant": "<⚡️> SuperAGI - 一個以開發者為主的開源自主人工智能代理框架。讓開發者能夠快速可靠地建立、管理和運行有用的自主代理。"
+                }
+            },
+            "https://github.com/bentoml/openllm": {
+                "repository_name": "OpenLLM",
+                "user_name": "bentoml",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Operating LLMs in production",
+                "topics": [
+                    "ai",
+                    "chatglm",
+                    "deployment",
+                    "developer-tools",
+                    "dolly",
+                    "easy-to-use",
+                    "falcon",
+                    "fine-tuning",
+                    "llm",
+                    "llm-serving",
+                    "llmops",
+                    "lmops",
+                    "machine-learning",
+                    "model-inference",
+                    "stablelm",
+                    "t5-model"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Operating LLMs in production",
+                    "ja": "製造中のLLMの操作",
+                    "zh-hans": "在生产中运行LLMs",
+                    "zh-hant": "在生產中操作LLMs"
+                }
             }
         },
         "Langchain": {
@@ -11421,6 +11638,46 @@
                     "ja": "入力：挺好奇ChatGPT那种流式出力、頑張ってPythonのLangChainを使って実装しました。コンソールとWeb3アプリケーションの非同期の流れるような出力をカバーしています。Pythonの非同期プログラミングはまだ深く学ぶ必要があります🧐コード👇ビデオ共有👇bilibili:   #LangChain #ChatGPT #OpenAI",
                     "zh-hans": "挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI",
                     "zh-hant": "輸入：非常好奇ChatGPT那種流式輸出，費了牛勁，堆砌出了基於Python LangChain的實現，涵蓋控制台和Web3應用的異步流式輸出。Python異步編程還需深入學習🧐代碼👇視頻分享👇bilibili:   #LangChain #ChatGPT #OpenAI"
+                }
+            },
+            "https://github.com/coefficientsystems/chat-efficient": {
+                "repository_name": "chat-efficient",
+                "user_name": "CoefficientSystems",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "DIY ChatGPT using Streamlit, LangChain and open-source LLMs",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "DIY ChatGPT using Streamlit, LangChain and open-source LLMs",
+                    "ja": "入力：Streamlit、LangChain、オープンソースのLLMsを使用したDIY ChatGPT\n出力：",
+                    "zh-hans": "使用Streamlit、LangChain和开源LLMs进行DIY ChatGPT",
+                    "zh-hant": "使用Streamlit、LangChain和開源LLMs進行DIY ChatGPT"
+                }
+            },
+            "https://github.com/juankysoriano/gpt-producer": {
+                "repository_name": "gpt-producer",
+                "user_name": "juankysoriano",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Introducing \"GPT-Producer\"Bring your Digital Piano, your @OpenAI API key, and your #GPU and become an artist! #musicgen #audiocraft #gpt  @LangChainAI @MetaAI for the tools that made this possible! ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Introducing \"GPT-Producer\"Bring your Digital Piano, your @OpenAI API key, and your #GPU and become an artist! #musicgen #audiocraft #gpt  @LangChainAI @MetaAI for the tools that made this possible! ",
+                    "ja": "「GPT-Producer」をご紹介します。デジタルピアノ、@OpenAI APIキー、そして#GPUを持って、アーティストになりましょう！ #musicgen #audiocraft #gpt @LangChainAI @MetaAI は、この可能性を実現するためのツールです！",
+                    "zh-hans": "介绍“GPT-Producer”带上你的数字钢琴，你的@OpenAI API密钥和你的#GPU，成为一位艺术家！#音乐生成 #音频制作 #gpt 感谢@LangChainAI和@MetaAI提供的工具使这一切成为可能！",
+                    "zh-hant": "介紹「GPT-Producer」，帶上你的數位鋼琴、@OpenAI API金鑰和你的#GPU，成為一位藝術家！感謝@LangChainAI和@MetaAI提供的工具，使這一切成為可能！ #musicgen #audiocraft #gpt"
                 }
             }
         },
@@ -13263,6 +13520,26 @@
                     "ja": "日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  ",
                     "zh-hans": "日本微软发布了GPT的参考架构。基于日语的场景的示例实现应有尽有！如果掌握了这个存储库，会有很多进展。有日志和认证等功能真是太好了。~示例列表~1. 面向呼叫中心的GPT助手...",
                     "zh-hant": "輸入：日本微軟公開了GPT的參考架構。有許多以日語為基礎的樣本實現可供參考！如果掌握了這個存儲庫，將會事半功倍。有日誌和認證等功能，真是太棒了。～樣本列表～1. 面向呼叫中心的GPT助手..."
+                }
+            },
+            "https://github.com/37mobileteam/ichatgpt": {
+                "repository_name": "iChatGPT",
+                "user_name": "37MobileTeam",
+                "language": "Swift",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS",
+                    "ja": "入力：iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ\n出力：",
+                    "zh-hans": "OpenAI ChatGPT SwiftUI 应用程序适用于 iOS、iPadOS 和 macOS。",
+                    "zh-hant": "輸入：OpenAI ChatGPT SwiftUI iOS、iPadOS、macOS 應用程式\n輸出："
                 }
             }
         },
@@ -17238,6 +17515,62 @@
                     "ja": "新しい676ページのNBA CBAについて質問するためにAIを使用してください。",
                     "zh-hans": "使用人工智能来询问有关新的676页NBA CBA的问题。",
                     "zh-hant": "使用人工智慧來詢問有關新的676頁NBA CBA的問題。"
+                }
+            },
+            "https://github.com/arbml/taqyim": {
+                "repository_name": "Taqyim",
+                "user_name": "ARBML",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Python intefrace for evaluation on chatgpt models",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Python intefrace for evaluation on chatgpt models",
+                    "ja": "チャットGPTモデルの評価のためのPythonインターフェース",
+                    "zh-hans": "Python界面用于对ChatGPT模型进行评估",
+                    "zh-hant": "輸入：用於評估ChatGPT模型的Python介面\n輸出："
+                }
+            },
+            "https://github.com/wolfia-app/gpt-code-search": {
+                "repository_name": "gpt-code-search",
+                "user_name": "wolfia-app",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "GitHub Action to upload your app for automating the distribution of your app.",
+                "topics": [
+                    "github-actions"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GitHub Action to upload your app for automating the distribution of your app.",
+                    "ja": "アプリの配布を自動化するためのGitHubアクション。",
+                    "zh-hans": "GitHub操作，用于自动化分发您的应用程序的操作。",
+                    "zh-hant": "輸入：GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的分發。\n輸出：GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的分發。"
+                }
+            },
+            "https://github.com/jetp1ane/callisto": {
+                "repository_name": "Callisto",
+                "user_name": "JetP1ane",
+                "language": "Python",
+                "license": null,
+                "description": "Callisto - An Intelligent Binary Vulnerability Analysis Tool",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Callisto - An Intelligent Binary Vulnerability Analysis Tool",
+                    "ja": "入力：Callisto - インテリジェントなバイナリ脆弱性分析ツール",
+                    "zh-hans": "Callisto - 一个智能的二进制漏洞分析工具",
+                    "zh-hant": "Callisto - 一個智能的二進制漏洞分析工具"
                 }
             }
         }
