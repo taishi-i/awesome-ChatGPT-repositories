@@ -15,44 +15,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [llm-inference](https://github.com/aniketmaurya/llm-inference) - 大语言模型 (LLM) 推理API和聊天机器人
- * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Tools是一个智能系统,可以自动决定,控制和利用不同的视觉基础模型,允许用户在对话中与图像交互.
+**Awesome-lists**
+ * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - 您可以使用ChatGPT+代码解释器组合做出惊人的事情🔥
 
 
-**Browser-extensions**
- * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - 该存储库包含与GitHub API交互的ChatGPT插件.它可以获取GitHub存储库的信息,包括存储库列表,存储库中的分支和文件以及特定文件的内容.
- * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 使用Cloudflare工作者和Clerk OAuth2后端的ChatGPT插件示例.
-
-
-**CLIs**
- * [openai-cli](https://github.com/janlay/openai-cli) - 这是一个用BASH写的OpenAI的通用CLI.
- * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 智能通用数据库SQL客户端和报表工具.
+**Reimplementations**
+ * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 官方实施A*网络
 
 
 **NLP**
- * [SuperAGI](https://github.com/transformeroptimus/superagi) - 超级AGI - 一个开发者首个开源自主AI代理框架. 允许开发人员快速可靠地构建,管理和运行有用的自主代理.
- * [OpenLLM](https://github.com/bentoml/openllm) - 在生产中运营的LLM
-
-
-**Langchain**
- * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - 使用Streamlit,LangChain和开源LLM的DIY ChatGPT
- * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 带上你的数字钢琴,你的 @OpenAI API 密钥,你的 #GPU,成为一个艺术家! #musicgen #audiocraft #gpt @LangChainAI @MetaAI 感谢使这一切成为可能的工具! 
-
-
-**Openai**
- * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - 开放AIGPT SwiftUI应用程序
+ * [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - 编码Arxiv 2023:通过自主播放和从AI反中在语境学习来改善语言模型谈判
+ * [dreamGPT](https://github.com/divergentai/dreamgpt) - 利用大型语言模型 (LLM) 的幻觉来进行创新驱动的探索.
+ * [lnchat](https://github.com/litch/lnchat) - 所以我打造了一个东西 - - LNChat.你把这个应用程序连接到你的节点,然后你可以问它纯文本问题,比如",我的最新频道是什么","给我看频道概要". ChatGPT弥合了这一差距.这很有趣,但并不非常有用.
 
 
 **Others**
- * [Taqyim](https://github.com/arbml/taqyim) - 基于chatgpt模型进行评估的Python集成函数
- * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - 让我们一起来看看.
- * [Callisto](https://github.com/jetp1ane/callisto) - 卡利斯托 - 一个智能双重脆弱性分析工具
+ * [OpenELM](https://github.com/carperai/openelm) - 通过大型模型的进化
 
 
-_Updated on July 12, 2023_ (A total of 892 repositories listed.)
-
-🏅 [carlos-lugo](https://github.com/carlos-lugo) provided some repository information. Thank you!
+_Updated on July 14, 2023_ (A total of 898 repositories listed.)
 
 ## Table of contents
 
@@ -93,6 +74,7 @@ ChatGPT资料汇总学习，持续更新......
  * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - 一个为GPT提示工程师精心策划的资源、工具和其他闪亮物品的精选列表。
  * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 网络安全chatgpt指令集，训练chatgpt成为一名网络安全专家。
  * [awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 令人惊叹的人工智能
+ * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - 使用ChatGPT + Code Interpreter组合可以做的很棒的事情🔥
 
 
 |Name|GitHub Stars|Language|License|
@@ -116,6 +98,7 @@ ChatGPT资料汇总学习，持续更新......
 |[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
 |[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
 |[awesome-ai](https://github.com/lencx/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/awesome-ai?style=social)|-|cc0-1.0|
+|[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/SkalskiP/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
 
 
 ## Prompts
@@ -484,7 +467,7 @@ ChatGPT资料汇总学习，持续更新......
 |[paper-summarizer](https://github.com/discus0434/paper-summarizer)|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/paper-summarizer?style=social)|Python|agpl-3.0|
 |[vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/vercel-ai-chatbot?style=social)|TypeScript|other|
 |[llm-inference](https://github.com/aniketmaurya/llm-inference)|![GitHub Repo stars](https://img.shields.io/github/stars/aniketmaurya/llm-inference?style=social)|Python|mit|
-|[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/StevenGrove/GPT4Tools?style=social)|Python|apache-2.0|
+|[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/stevengrove/GPT4Tools?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -883,6 +866,7 @@ ChatGPT资料汇总学习，持续更新......
  * [femtoGPT](https://github.com/keyvank/femtogpt) - 一个最小化的生成预训练变压器的纯Rust实现。
  * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - 可黑客实现的基于nanoGPT的最先进开源LLMs。支持闪存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微调、预训练。Apache 2.0许可。
  * [exllama](https://github.com/turboderp/exllama) - 一个更节省内存的重写版本，用于使用量化权重的Llama的HF变压器实现。
+ * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 官方实现的A*网络
 
 
 |Name|GitHub Stars|Language|License|
@@ -906,6 +890,7 @@ ChatGPT资料汇总学习，持续更新......
 |[femtoGPT](https://github.com/keyvank/femtogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/keyvank/femtoGPT?style=social)|Rust|mit|
 |[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-gpt?style=social)|Python|apache-2.0|
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
+|[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/DeepGraphLearning/AStarNet?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -1073,6 +1058,10 @@ ChatGPT资料汇总学习，持续更新......
  * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 一个高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI Similarity Search）索引来索引和搜索PDF文本数据，旨在实现快速信息检索和卓越的搜索准确性。
  * [SuperAGI](https://github.com/transformeroptimus/superagi) - <⚡️> SuperAGI - 一个以开发者为中心的开源自主人工智能代理框架。使开发者能够快速可靠地构建、管理和运行有用的自主代理。
  * [OpenLLM](https://github.com/bentoml/openllm) - 在生产中运行LLMs
+ * [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - 输入：Arxiv 2023年的代码：通过自我对弈和从AI反馈中学习来改进语言模型的谈判能力
+输出：
+ * [dreamGPT](https://github.com/divergentai/dreamgpt) - 利用大型语言模型（LLMs）的幻觉进行以新颖性驱动的探索。
+ * [lnchat](https://github.com/litch/lnchat) - 所以我做了一个东西 - LNChat。你将这个应用连接到你的节点，然后你可以用纯文本的方式向它提问，比如“我的最新通道是什么”，“给我展示一个通道摘要”。ChatGPT填补了这个空白。它很有趣，但并不是特别有用。至少现在还不是。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1213,8 +1202,11 @@ ChatGPT资料汇总学习，持续更新......
 |[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/thudm/WebGLM?style=social)|Python|apache-2.0|
 |[MetaGPT](https://github.com/geekan/metagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)|Python|mit|
 |[PdfGptIndexer](https://github.com/raghavan/pdfgptindexer)|![GitHub Repo stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)|Python|mit|
-|[SuperAGI](https://github.com/transformeroptimus/superagi)|![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)|Python|mit|
+|[SuperAGI](https://github.com/transformeroptimus/superagi)|![GitHub Repo stars](https://img.shields.io/github/stars/transformeroptimus/SuperAGI?style=social)|Python|mit|
 |[OpenLLM](https://github.com/bentoml/openllm)|![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)|Python|apache-2.0|
+|[GPT-Bargaining](https://github.com/franxyao/gpt-bargaining)|![GitHub Repo stars](https://img.shields.io/github/stars/FranxYao/GPT-Bargaining?style=social)|Jupyter Notebook|-|
+|[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/DivergentAI/dreamGPT?style=social)|Python|mit|
+|[lnchat](https://github.com/litch/lnchat)|![GitHub Repo stars](https://img.shields.io/github/stars/litch/lnchat?style=social)|Python|-|
 
 
 ## Langchain
@@ -1317,7 +1309,7 @@ ChatGPT资料汇总学习，持续更新......
 |[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
 |[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
 |[LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/sugarforever/LangChain-Tutorials?style=social)|Jupyter Notebook|-|
-|[chat-efficient](https://github.com/coefficientsystems/chat-efficient)|![GitHub Repo stars](https://img.shields.io/github/stars/CoefficientSystems/chat-efficient?style=social)|Jupyter Notebook|mit|
+|[chat-efficient](https://github.com/coefficientsystems/chat-efficient)|![GitHub Repo stars](https://img.shields.io/github/stars/coefficientsystems/chat-efficient?style=social)|Jupyter Notebook|mit|
 |[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
 
 
@@ -1532,7 +1524,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
-|[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37MobileTeam/iChatGPT?style=social)|Swift|gpl-3.0|
+|[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
 
 
 ## Others
@@ -1767,6 +1759,7 @@ Chat酱独立部署版，docker方案自带代理
  * [Taqyim](https://github.com/arbml/taqyim) - Python界面用于对ChatGPT模型进行评估
  * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - GitHub操作，用于自动化分发您的应用程序的操作。
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - 一个智能的二进制漏洞分析工具
+ * [OpenELM](https://github.com/carperai/openelm) - 通过大型模型的演化
 
 
 |Name|GitHub Stars|Language|License|
@@ -1994,8 +1987,9 @@ Chat酱独立部署版，docker方案自带代理
 |[chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles)|![GitHub Repo stars](https://img.shields.io/github/stars/samrawal/chatgpt-localfiles?style=social)|Python|mit|
 |[SlashGPT](https://github.com/snakajima/slashgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/snakajima/SlashGPT?style=social)|Python|mit|
 |[nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/nba-cba-ai-chat?style=social)|TypeScript|mit|
-|[Taqyim](https://github.com/arbml/taqyim)|![GitHub Repo stars](https://img.shields.io/github/stars/ARBML/Taqyim?style=social)|Jupyter Notebook|mit|
+|[Taqyim](https://github.com/arbml/taqyim)|![GitHub Repo stars](https://img.shields.io/github/stars/arbml/Taqyim?style=social)|Jupyter Notebook|mit|
 |[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
-|[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/JetP1ane/Callisto?style=social)|Python|-|
+|[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
+|[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/CarperAI/OpenELM?style=social)|Python|mit|
 
 
