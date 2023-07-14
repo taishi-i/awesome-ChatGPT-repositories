@@ -15,48 +15,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [llm-inference](https://github.com/aniketmaurya/llm-inference) - 大規模言語モデル（LLM）の推論APIとチャットボット
- * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Toolsは、異なるビジュアル基盤モデルを自動的に決定、制御、活用することができるインテリジェントシステムです。これにより、ユーザーは会話中に画像と対話することができます。
+**Awesome-lists**
+ * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - ChatGPT + Code Interpreterコンボでできる素晴らしいこと 🔥
 
 
-**Browser-extensions**
- * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - このリポジトリには、ChatGPTとGitHub APIとの連携を可能にするプラグインが含まれています。GitHubのリポジトリに関する情報を取得することができます。具体的には、リポジトリの一覧、ブランチやファイルの情報、特定のファイルの内容などを取得することができます。
- * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 入力：Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。
-出力：
-
-
-**CLIs**
- * [openai-cli](https://github.com/janlay/openai-cli) - 入力：BASHで書かれたOpenAIのためのユニバーサルCLI。
-出力：
- * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 データベース用の知識豊富で多機能な汎用SQLクライアントおよびレポートツールで、ChatGPTの機能も統合されています。
+**Reimplementations**
+ * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 公式のA*ネットワークの実装
 
 
 **NLP**
- * [SuperAGI](https://github.com/transformeroptimus/superagi) - <⚡️> SuperAGI - 開発者第一のオープンソース自律型AIエージェントフレームワーク。開発者が迅速かつ信頼性の高い有用な自律エージェントを構築、管理、実行できるようにします。
- * [OpenLLM](https://github.com/bentoml/openllm) - 製造中のLLMの操作
-
-
-**Langchain**
- * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - 入力：Streamlit、LangChain、オープンソースのLLMsを使用したDIY ChatGPT
-出力：
- * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 「GPT-Producer」をご紹介します。デジタルピアノ、@OpenAI APIキー、そして#GPUを持って、アーティストになりましょう！ #musicgen #audiocraft #gpt @LangChainAI @MetaAI は、この可能性を実現するためのツールです！
-
-
-**Openai**
- * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - 入力：iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ
-出力：
+ * [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - アーキブ2023のコード：自己対戦とAIフィードバックからのインコンテキスト学習による言語モデルの交渉の改善
+ * [dreamGPT](https://github.com/divergentai/dreamgpt) - 大規模言語モデル（LLM）からの幻覚を利用して、新奇性に基づく探索を行います。
+ * [lnchat](https://github.com/litch/lnchat) - だから、私はLNChatというものを作りました。このアプリをノードに接続すると、"最新のチャネルは何ですか？"や"チャネルの概要を表示してください"などの平文の質問をすることができます。ChatGPTがそのギャップを埋めます。それはかなり楽しいですが、まだあまり役に立ちません。まだですが。
 
 
 **Others**
- * [Taqyim](https://github.com/arbml/taqyim) - チャットGPTモデルの評価のためのPythonインターフェース
- * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - アプリの配布を自動化するためのGitHubアクション。
- * [Callisto](https://github.com/jetp1ane/callisto) - 入力：Callisto - インテリジェントなバイナリ脆弱性分析ツール
+ * [OpenELM](https://github.com/carperai/openelm) - 大規模モデルを通じた進化
 
 
-_Updated on July 12, 2023_ (A total of 892 repositories listed.)
-
-🏅 [carlos-lugo](https://github.com/carlos-lugo) provided some repository information. Thank you!
+_Updated on July 14, 2023_ (A total of 898 repositories listed.)
 
 ## Table of contents
 
@@ -96,6 +73,7 @@ _Updated on July 12, 2023_ (A total of 892 repositories listed.)
  * [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - GPTプロンプトエンジニアリングのための素晴らしいリソース、ツール、その他の輝くものの厳選リスト。
  * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - ネットワークセキュリティchatgptコマンドセット、chatgptをネットワークセキュリティ専門家にトレーニングする。
  * [awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 素晴らしい人工知能
+ * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - ChatGPT + Code Interpreterコンボでできる素晴らしいこと 🔥
 
 
 |Name|GitHub Stars|Language|License|
@@ -119,6 +97,7 @@ _Updated on July 12, 2023_ (A total of 892 repositories listed.)
 |[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
 |[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
 |[awesome-ai](https://github.com/lencx/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/awesome-ai?style=social)|-|cc0-1.0|
+|[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/SkalskiP/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
 
 
 ## Prompts
@@ -499,7 +478,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[paper-summarizer](https://github.com/discus0434/paper-summarizer)|![GitHub Repo stars](https://img.shields.io/github/stars/discus0434/paper-summarizer?style=social)|Python|agpl-3.0|
 |[vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/vercel-ai-chatbot?style=social)|TypeScript|other|
 |[llm-inference](https://github.com/aniketmaurya/llm-inference)|![GitHub Repo stars](https://img.shields.io/github/stars/aniketmaurya/llm-inference?style=social)|Python|mit|
-|[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/StevenGrove/GPT4Tools?style=social)|Python|apache-2.0|
+|[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/stevengrove/GPT4Tools?style=social)|Python|apache-2.0|
 
 
 ## Browser-extensions
@@ -603,8 +582,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [bravegpt](https://github.com/kudoai/bravegpt) - 🦁 ブレイブサーチアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
  * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - AIパワードポッドキャスト検索のためのListen Notes ChatGPTプラグイン。PodcastAPI.comとCloudflare Pagesによって提供されています。
  * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - このリポジトリには、ChatGPTとGitHub APIとの連携を可能にするプラグインが含まれています。GitHubのリポジトリに関する情報を取得することができます。具体的には、リポジトリの一覧、ブランチやファイルの情報、特定のファイルの内容などを取得することができます。
- * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 入力：Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。
-出力：
+ * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。
+
 
 
 |Name|GitHub Stars|Language|License|
@@ -789,8 +768,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [aider](https://github.com/paul-gauthier/aider) - aiderはターミナルで動作するGPTパワードのコーディングです。
 aiderはターミナルで動作するGPTパワードのコーディングです。
  * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - 🐝 ワスプ- ソーシャル/メールログイン、GPT/Stripeの統合、cronジョブなどを含むSaaSテンプレートで即座に開始します⚡️- `wasp db` CLIコマンドも素敵な要素で、バックグラウンドでローカルのPostgresデータベースをすぐに開始します。
- * [openai-cli](https://github.com/janlay/openai-cli) - 入力：BASHで書かれたOpenAIのためのユニバーサルCLI。
-出力：
+ * [openai-cli](https://github.com/janlay/openai-cli) - BASHで書かれたOpenAIのためのユニバーサルCLI。
+
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 データベース用の知識豊富で多機能な汎用SQLクライアントおよびレポートツールで、ChatGPTの機能も統合されています。
 
 
@@ -896,6 +875,7 @@ aiderはターミナルで動作するGPTパワードのコーディングです
  * [femtoGPT](https://github.com/keyvank/femtogpt) - 最小限のGenerative Pretrained Transformerの純粋なRust実装
  * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - nanoGPTに基づいた最新のオープンソースLLMsのハッキング可能な実装。フラッシュアテンション、Int8およびGPTQ 4ビットの量子化、LoRAおよびLLaMA-Adapterのファインチューニング、事前トレーニングをサポートしています。Apache 2.0ライセンスです。
  * [exllama](https://github.com/turboderp/exllama) - 量子化された重みを使用するためのLlamaのHF transformers実装のメモリ効率の改善版。
+ * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 公式のA*ネットワークの実装
 
 
 |Name|GitHub Stars|Language|License|
@@ -919,6 +899,7 @@ aiderはターミナルで動作するGPTパワードのコーディングです
 |[femtoGPT](https://github.com/keyvank/femtogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/keyvank/femtoGPT?style=social)|Rust|mit|
 |[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-gpt?style=social)|Python|apache-2.0|
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
+|[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/DeepGraphLearning/AStarNet?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -1083,6 +1064,9 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - OpenAIのGPT-2モデルとFAISS（Facebook AI Similarity Search）インデックスを使用したPDFテキストデータのインデックス化と検索のための効率的なツールであり、迅速な情報検索と優れた検索精度を実現するために設計されています。
  * [SuperAGI](https://github.com/transformeroptimus/superagi) - <⚡️> SuperAGI - 開発者第一のオープンソース自律型AIエージェントフレームワーク。開発者が迅速かつ信頼性の高い有用な自律エージェントを構築、管理、実行できるようにします。
  * [OpenLLM](https://github.com/bentoml/openllm) - 製造中のLLMの操作
+ * [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - アーキブ2023のコード：自己対戦とAIフィードバックからのインコンテキスト学習による言語モデルの交渉の改善
+ * [dreamGPT](https://github.com/divergentai/dreamgpt) - 大規模言語モデル（LLM）からの幻覚を利用して、新奇性に基づく探索を行います。
+ * [lnchat](https://github.com/litch/lnchat) - だから、私はLNChatというものを作りました。このアプリをノードに接続すると、"最新のチャネルは何ですか？"や"チャネルの概要を表示してください"などの平文の質問をすることができます。ChatGPTがそのギャップを埋めます。それはかなり楽しいですが、まだあまり役に立ちません。まだですが。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1223,8 +1207,11 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[WebGLM](https://github.com/thudm/webglm)|![GitHub Repo stars](https://img.shields.io/github/stars/thudm/WebGLM?style=social)|Python|apache-2.0|
 |[MetaGPT](https://github.com/geekan/metagpt)|![GitHub Repo stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social)|Python|mit|
 |[PdfGptIndexer](https://github.com/raghavan/pdfgptindexer)|![GitHub Repo stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)|Python|mit|
-|[SuperAGI](https://github.com/transformeroptimus/superagi)|![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)|Python|mit|
+|[SuperAGI](https://github.com/transformeroptimus/superagi)|![GitHub Repo stars](https://img.shields.io/github/stars/transformeroptimus/SuperAGI?style=social)|Python|mit|
 |[OpenLLM](https://github.com/bentoml/openllm)|![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)|Python|apache-2.0|
+|[GPT-Bargaining](https://github.com/franxyao/gpt-bargaining)|![GitHub Repo stars](https://img.shields.io/github/stars/FranxYao/GPT-Bargaining?style=social)|Jupyter Notebook|-|
+|[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/DivergentAI/dreamGPT?style=social)|Python|mit|
+|[lnchat](https://github.com/litch/lnchat)|![GitHub Repo stars](https://img.shields.io/github/stars/litch/lnchat?style=social)|Python|-|
 
 
 ## Langchain
@@ -1275,8 +1262,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [godot-dodo](https://github.com/minosvasilias/godot-dodo) - GDScript生成のための大規模言語モデルのファインチューニング。
  * [eva](https://github.com/georgia-tech-db/eva) - よりシンプルで高速なAI搭載アプリケーションを構築するためのデータベースシステム
  * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 挺好奇ChatGPT那种流式出力、頑張ってPythonのLangChainを使って実装しました。コンソールとWeb3アプリケーションの非同期の流れるような出力をカバーしています。Pythonの非同期プログラミングはまだ深く学ぶ必要があります🧐コード👇ビデオ共有👇bilibili:   #LangChain #ChatGPT #OpenAI
- * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - 入力：Streamlit、LangChain、オープンソースのLLMsを使用したDIY ChatGPT
-出力：
+ * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - Streamlit、LangChain、オープンソースのLLMsを使用したDIY ChatGPT
+
  * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 「GPT-Producer」をご紹介します。デジタルピアノ、@OpenAI APIキー、そして#GPUを持って、アーティストになりましょう！ #musicgen #audiocraft #gpt @LangChainAI @MetaAI は、この可能性を実現するためのツールです！
 
 
@@ -1328,7 +1315,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[godot-dodo](https://github.com/minosvasilias/godot-dodo)|![GitHub Repo stars](https://img.shields.io/github/stars/minosvasilias/godot-dodo?style=social)|Python|mit|
 |[eva](https://github.com/georgia-tech-db/eva)|![GitHub Repo stars](https://img.shields.io/github/stars/georgia-tech-db/eva?style=social)|Python|apache-2.0|
 |[LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/sugarforever/LangChain-Tutorials?style=social)|Jupyter Notebook|-|
-|[chat-efficient](https://github.com/coefficientsystems/chat-efficient)|![GitHub Repo stars](https://img.shields.io/github/stars/CoefficientSystems/chat-efficient?style=social)|Jupyter Notebook|mit|
+|[chat-efficient](https://github.com/coefficientsystems/chat-efficient)|![GitHub Repo stars](https://img.shields.io/github/stars/coefficientsystems/chat-efficient?style=social)|Jupyter Notebook|mit|
 |[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
 
 
@@ -1445,8 +1432,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [reliableGPT](https://github.com/berriai/reliablegpt) - OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。
  * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。 
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  
- * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - 入力：iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ
-出力：
+ * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ
+
 
 
 |Name|GitHub Stars|Language|License|
@@ -1538,7 +1525,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[reliableGPT](https://github.com/berriai/reliablegpt)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/reliableGPT?style=social)|Python|mit|
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
-|[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37MobileTeam/iChatGPT?style=social)|Swift|gpl-3.0|
+|[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
 
 
 ## Others
@@ -1770,7 +1757,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - 新しい676ページのNBA CBAについて質問するためにAIを使用してください。
  * [Taqyim](https://github.com/arbml/taqyim) - チャットGPTモデルの評価のためのPythonインターフェース
  * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - アプリの配布を自動化するためのGitHubアクション。
- * [Callisto](https://github.com/jetp1ane/callisto) - 入力：Callisto - インテリジェントなバイナリ脆弱性分析ツール
+ * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - インテリジェントなバイナリ脆弱性分析ツール
+ * [OpenELM](https://github.com/carperai/openelm) - 大規模モデルを通じた進化
 
 
 |Name|GitHub Stars|Language|License|
@@ -1998,8 +1986,9 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles)|![GitHub Repo stars](https://img.shields.io/github/stars/samrawal/chatgpt-localfiles?style=social)|Python|mit|
 |[SlashGPT](https://github.com/snakajima/slashgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/snakajima/SlashGPT?style=social)|Python|mit|
 |[nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/mckaywrigley/nba-cba-ai-chat?style=social)|TypeScript|mit|
-|[Taqyim](https://github.com/arbml/taqyim)|![GitHub Repo stars](https://img.shields.io/github/stars/ARBML/Taqyim?style=social)|Jupyter Notebook|mit|
+|[Taqyim](https://github.com/arbml/taqyim)|![GitHub Repo stars](https://img.shields.io/github/stars/arbml/Taqyim?style=social)|Jupyter Notebook|mit|
 |[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
-|[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/JetP1ane/Callisto?style=social)|Python|-|
+|[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
+|[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/CarperAI/OpenELM?style=social)|Python|mit|
 
 

@@ -417,6 +417,25 @@
                     "zh-hans": "🤖 令人惊叹的人工智能",
                     "zh-hant": "🤖 神奇人工智慧"
                 }
+            },
+            "https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments": {
+                "repository_name": "awesome-chatgpt-code-interpreter-experiments",
+                "user_name": "SkalskiP",
+                "language": null,
+                "license": null,
+                "description": "Awesome things you can do with ChatGPT + Code Interpreter combo 🔥",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "code-interpreter",
+                    "language"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Awesome things you can do with ChatGPT + Code Interpreter combo 🔥",
+                    "ja": "ChatGPT + Code Interpreterコンボでできる素晴らしいこと 🔥",
+                    "zh-hans": "使用ChatGPT + Code Interpreter组合可以做的很棒的事情🔥",
+                    "zh-hant": "使用ChatGPT + Code Interpreter組合的超棒功能🔥"
+                }
             }
         },
         "Prompts": {
@@ -7909,6 +7928,26 @@
                     "zh-hans": "一个更节省内存的重写版本，用于使用量化权重的Llama的HF变压器实现。",
                     "zh-hant": "一個更節省記憶體的重寫版本，用於使用量化權重的Llama的HF transformers實現。"
                 }
+            },
+            "https://github.com/deepgraphlearning/astarnet": {
+                "repository_name": "AStarNet",
+                "user_name": "DeepGraphLearning",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Official implementation of A* Networks",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Official implementation of A* Networks",
+                    "ja": "公式のA*ネットワークの実装",
+                    "zh-hans": "官方实现的A*网络",
+                    "zh-hant": "官方實現的A*網絡"
+                }
             }
         },
         "Tutorials": {
@@ -10693,6 +10732,64 @@
                     "ja": "製造中のLLMの操作",
                     "zh-hans": "在生产中运行LLMs",
                     "zh-hant": "在生產中操作LLMs"
+                }
+            },
+            "https://github.com/franxyao/gpt-bargaining": {
+                "repository_name": "GPT-Bargaining",
+                "user_name": "FranxYao",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "Code for Arxiv 2023: Improving Language Model Negociation with Self-Play and In-Context Learning from AI Feedback",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Code for Arxiv 2023: Improving Language Model Negociation with Self-Play and In-Context Learning from AI Feedback",
+                    "ja": "アーキブ2023のコード：自己対戦とAIフィードバックからのインコンテキスト学習による言語モデルの交渉の改善",
+                    "zh-hans": "输入：Arxiv 2023年的代码：通过自我对弈和从AI反馈中学习来改进语言模型的谈判能力\n输出：",
+                    "zh-hant": "輸入：Arxiv 2023年的代碼：通過自我對弈和從AI反饋中的上下文學習來改進語言模型的談判\n輸出："
+                }
+            },
+            "https://github.com/divergentai/dreamgpt": {
+                "repository_name": "dreamGPT",
+                "user_name": "DivergentAI",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations.",
+                "topics": [
+                    "agents",
+                    "artificial-intelligence",
+                    "automation",
+                    "generative-model",
+                    "ideas",
+                    "llm",
+                    "llms",
+                    "machinelearning",
+                    "ml"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Leverage hallucinations from Large Language Models (LLMs) for novelty-driven explorations.",
+                    "ja": "大規模言語モデル（LLM）からの幻覚を利用して、新奇性に基づく探索を行います。",
+                    "zh-hans": "利用大型语言模型（LLMs）的幻觉进行以新颖性驱动的探索。",
+                    "zh-hant": "利用大型語言模型（LLMs）的幻覺進行以新奇驅動的探索。"
+                }
+            },
+            "https://github.com/litch/lnchat": {
+                "repository_name": "lnchat",
+                "user_name": "litch",
+                "language": "Python",
+                "license": null,
+                "description": "So I built a thing - LNChat.  You hook this app up to your node and then you can ask it plaintext questions like, \"what is my newest channel\", \"show me a channel summary\". ChatGPT bridges the gap.  It's pretty fun, but not super useful.  Yet. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "So I built a thing - LNChat.  You hook this app up to your node and then you can ask it plaintext questions like, \"what is my newest channel\", \"show me a channel summary\". ChatGPT bridges the gap.  It's pretty fun, but not super useful.  Yet. ",
+                    "ja": "だから、私はLNChatというものを作りました。このアプリをノードに接続すると、\"最新のチャネルは何ですか？\"や\"チャネルの概要を表示してください\"などの平文の質問をすることができます。ChatGPTがそのギャップを埋めます。それはかなり楽しいですが、まだあまり役に立ちません。まだですが。",
+                    "zh-hans": "所以我做了一个东西 - LNChat。你将这个应用连接到你的节点，然后你可以用纯文本的方式向它提问，比如“我的最新通道是什么”，“给我展示一个通道摘要”。ChatGPT填补了这个空白。它很有趣，但并不是特别有用。至少现在还不是。",
+                    "zh-hant": "所以我建立了一个东西 - LNChat。你将这个应用连接到你的节点，然后你可以向它提出明文问题，比如“我的最新频道是什么”，“给我展示一个频道摘要”。ChatGPT填补了这个空白。它非常有趣，但并不是非常有用。至少现在还不是。"
                 }
             }
         },
@@ -17571,6 +17668,26 @@
                     "ja": "入力：Callisto - インテリジェントなバイナリ脆弱性分析ツール",
                     "zh-hans": "Callisto - 一个智能的二进制漏洞分析工具",
                     "zh-hant": "Callisto - 一個智能的二進制漏洞分析工具"
+                }
+            },
+            "https://github.com/carperai/openelm": {
+                "repository_name": "OpenELM",
+                "user_name": "CarperAI",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Evolution Through Large Models",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Evolution Through Large Models",
+                    "ja": "大規模モデルを通じた進化",
+                    "zh-hans": "通过大型模型的演化",
+                    "zh-hant": "透過大型模型的演化"
                 }
             }
         }
