@@ -102,6 +102,7 @@ _Updated on July 14, 2023_ (A total of 898 repositories listed.)
 
 ## Prompts
 
+ * [gpt-runner](https://github.com/nicepkg/gpt-runner) GPT-Runner 能管理并运行你的prompt，它是 prompt storybook，也可以和选中的文件对话。
  * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - 將代碼存儲庫轉換為LLM提示友好格式。主要由GPT-4構建。
  * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReader是Slack上的機器人，可以閱讀和總結任何網頁、文件（包括電子書）甚至YouTube上的視頻。它可以通過語音與您進行交流。
  * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - 應用LLMs到機器人的社區和具有ChatGPT集成的機器人模擬器

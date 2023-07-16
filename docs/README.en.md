@@ -103,6 +103,7 @@ _Updated on July 14, 2023_ (A total of 898 repositories listed.)
 
 ## Prompts
 
+ * [gpt-runner](https://github.com/nicepkg/gpt-runner) GPT-Runner can manage and run your prompt. It is a prompt storybook, and can also talk to selected files.
  * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
  * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReader is a bot on Slack that can read and summarize any webpage, documents including ebooks, or even videos from YouTube. It can communicate with you through voice.
  * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
