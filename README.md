@@ -237,6 +237,8 @@ _Updated on July 14, 2023_ (A total of 898 repositories listed.)
 
 ## Chatbots
 
+* [chatgpt-ultimate](https://github.com/imabutahersiddik/Ultimate-ChatGPT) - The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
+
  * [gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
  * [Open-Assistant](https://github.com/laion-ai/open-assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
  * [FastChat](https://github.com/lm-sys/fastchat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
