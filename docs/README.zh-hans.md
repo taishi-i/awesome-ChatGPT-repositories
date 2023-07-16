@@ -103,6 +103,7 @@ ChatGPT资料汇总学习，持续更新......
 
 ## Prompts
 
+ * [gpt-runner](https://github.com/nicepkg/gpt-runner) GPT-Runner 能管理並運行你的prompt，它是 prompt storybook，也可以和選中的文件對話。
  * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - 将代码仓库转换为LLM提示友好格式。主要由GPT-4构建。
  * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReader是Slack上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自YouTube的视频。它可以通过语音与您交流。
  * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - 应用LLM到机器人的社区和集成ChatGPT的机器人模拟器。

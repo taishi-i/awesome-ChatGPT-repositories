@@ -102,6 +102,7 @@ _Updated on July 14, 2023_ (A total of 898 repositories listed.)
 
 ## Prompts
 
+* [gpt-runner](https://github.com/nicepkg/gpt-runner) GPT-Runner はプロンプトを管理および実行でき、プロンプトのストーリーブックであり、選択したファイルと通信することもできます。
  * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - コードリポジトリをLLMプロンプトに適した形式に変換します。主にGPT-4によって構築されています。
  * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReaderは、Slack上のボットで、電子書籍を含む任意のウェブページ、ドキュメント、さらにはYouTubeの動画を読み取り、要約することができます。音声を通じてあなたとコミュニケーションすることもできます。
  * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - LLMをロボットに応用するコミュニティと、ChatGPT統合のロボットシミュレーター。
