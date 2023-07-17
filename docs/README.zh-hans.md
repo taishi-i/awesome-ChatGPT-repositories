@@ -15,25 +15,21 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - 您可以使用ChatGPT+代码解释器组合做出惊人的事情🔥
+**Prompts**
+ * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 管理和运行你的人工智能预设!
 
 
-**Reimplementations**
- * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 官方实施A*网络
+**Chatbots**
+ * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 最终聊天GPT是一个人工智能驱动的虚拟助理,旨在提供更好的写作和解决问题的体验.
 
 
-**NLP**
- * [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - 编码Arxiv 2023:通过自主播放和从AI反中在语境学习来改善语言模型谈判
- * [dreamGPT](https://github.com/divergentai/dreamgpt) - 利用大型语言模型 (LLM) 的幻觉来进行创新驱动的探索.
- * [lnchat](https://github.com/litch/lnchat) - 所以我打造了一个东西 - - LNChat.你把这个应用程序连接到你的节点,然后你可以问它纯文本问题,比如",我的最新频道是什么","给我看频道概要". ChatGPT弥合了这一差距.这很有趣,但并不非常有用.
+**Browser-extensions**
+ * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 另一个AI git提交插件, 但不需要手动确认.
 
 
-**Others**
- * [OpenELM](https://github.com/carperai/openelm) - 通过大型模型的进化
+_Updated on July 18, 2023_ (A total of 901 repositories listed.)
 
-
-_Updated on July 14, 2023_ (A total of 898 repositories listed.)
+🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -98,12 +94,11 @@ ChatGPT资料汇总学习，持续更新......
 |[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
 |[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
 |[awesome-ai](https://github.com/lencx/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/awesome-ai?style=social)|-|cc0-1.0|
-|[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/SkalskiP/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
+|[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/skalskip/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
 
 
 ## Prompts
 
- * [gpt-runner](https://github.com/nicepkg/gpt-runner) GPT-Runner 能管理並運行你的prompt，它是 prompt storybook，也可以和選中的文件對話。
  * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - 将代码仓库转换为LLM提示友好格式。主要由GPT-4构建。
  * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReader是Slack上的一个机器人，可以阅读和总结任何网页、文档（包括电子书）甚至来自YouTube的视频。它可以通过语音与您交流。
  * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - 应用LLM到机器人的社区和集成ChatGPT的机器人模拟器。
@@ -167,6 +162,7 @@ ChatGPT资料汇总学习，持续更新......
  * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 介绍 `gpt-prompt-engineer` ✍️ 一个能够创建最佳 GPT 提示的代理。只需描述任务，一系列 AI 系统将会：- 生成许多可能的提示- 在排名比赛中测试它们- 返回最佳提示。而且它是开源的：
  * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - 输入：来自DeepLearning.ai的ChatGPT Prompt Engineering for Developers的笔记总结
 输出：ChatGPT Prompt Engineering for Developers的笔记总结
+ * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 与您的文件对话！管理和运行您的AI预设！
 
 
 |Name|GitHub Stars|Language|License|
@@ -233,6 +229,7 @@ ChatGPT资料汇总学习，持续更新......
 |[text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme)|![GitHub Repo stars](https://img.shields.io/github/stars/svermeulen/text-to-colorscheme?style=social)|Lua|mit|
 |[gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/mshumer/gpt-prompt-engineer?style=social)|Jupyter Notebook|mit|
 |[prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/prompt-engineering-for-javascript-developers?style=social)|-|-|
+|[gpt-runner](https://github.com/nicepkg/gpt-runner)|![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=social)|TypeScript|mit|
 
 
 ## Chatbots
@@ -351,6 +348,7 @@ ChatGPT资料汇总学习，持续更新......
  * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - 一个由Vercel Labs和Supabase构建的功能齐全的、Supabaseified的Next.js AI聊天机器人。
  * [llm-inference](https://github.com/aniketmaurya/llm-inference) - 大型语言模型（LLM）推理API和聊天机器人
  * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Tools是一个智能系统，可以自动决定、控制和利用不同的视觉基础模型，允许用户在对话过程中与图像进行交互。
+ * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 终极ChatGPT是一个由人工智能驱动的虚拟助手，旨在提供卓越的写作和问题解决体验。
 
 
 |Name|GitHub Stars|Language|License|
@@ -469,6 +467,7 @@ ChatGPT资料汇总学习，持续更新......
 |[vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/vercel-ai-chatbot?style=social)|TypeScript|other|
 |[llm-inference](https://github.com/aniketmaurya/llm-inference)|![GitHub Repo stars](https://img.shields.io/github/stars/aniketmaurya/llm-inference?style=social)|Python|mit|
 |[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/stevengrove/GPT4Tools?style=social)|Python|apache-2.0|
+|[Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imabutahersiddik/Ultimate-ChatGPT?style=social)|TypeScript|other|
 
 
 ## Browser-extensions
@@ -575,6 +574,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - 这个仓库包含一个与GitHub API交互的ChatGPT插件。它可以获取关于GitHub仓库的信息，包括仓库列表、仓库中的分支和文件，以及特定文件的内容。
  * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 输入：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。
 输出：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。
+ * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 又一个AI git提交插件，但无需手动确认。
 
 
 |Name|GitHub Stars|Language|License|
@@ -679,6 +679,7 @@ ChatGPT资料汇总学习，持续更新......
 |[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/listennotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
 |[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|-|
 |[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
+|[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -891,7 +892,7 @@ ChatGPT资料汇总学习，持续更新......
 |[femtoGPT](https://github.com/keyvank/femtogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/keyvank/femtoGPT?style=social)|Rust|mit|
 |[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-gpt?style=social)|Python|apache-2.0|
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
-|[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/DeepGraphLearning/AStarNet?style=social)|Python|mit|
+|[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -1205,8 +1206,8 @@ ChatGPT资料汇总学习，持续更新......
 |[PdfGptIndexer](https://github.com/raghavan/pdfgptindexer)|![GitHub Repo stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)|Python|mit|
 |[SuperAGI](https://github.com/transformeroptimus/superagi)|![GitHub Repo stars](https://img.shields.io/github/stars/transformeroptimus/SuperAGI?style=social)|Python|mit|
 |[OpenLLM](https://github.com/bentoml/openllm)|![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)|Python|apache-2.0|
-|[GPT-Bargaining](https://github.com/franxyao/gpt-bargaining)|![GitHub Repo stars](https://img.shields.io/github/stars/FranxYao/GPT-Bargaining?style=social)|Jupyter Notebook|-|
-|[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/DivergentAI/dreamGPT?style=social)|Python|mit|
+|[GPT-Bargaining](https://github.com/franxyao/gpt-bargaining)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/GPT-Bargaining?style=social)|Jupyter Notebook|-|
+|[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/divergentai/dreamGPT?style=social)|Python|mit|
 |[lnchat](https://github.com/litch/lnchat)|![GitHub Repo stars](https://img.shields.io/github/stars/litch/lnchat?style=social)|Python|-|
 
 
@@ -1991,6 +1992,6 @@ Chat酱独立部署版，docker方案自带代理
 |[Taqyim](https://github.com/arbml/taqyim)|![GitHub Repo stars](https://img.shields.io/github/stars/arbml/Taqyim?style=social)|Jupyter Notebook|mit|
 |[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
-|[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/CarperAI/OpenELM?style=social)|Python|mit|
+|[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
 
 
