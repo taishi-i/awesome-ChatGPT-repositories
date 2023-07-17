@@ -15,25 +15,21 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - ChatGPT + Code Interpreterコンボでできる素晴らしいこと 🔥
+**Prompts**
+ * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 入力：ファイルとの会話！ AIプリセットを管理して実行しましょう！
 
 
-**Reimplementations**
- * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 公式のA*ネットワークの実装
+**Chatbots**
+ * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 究極のChatGPTは、強化された文章作成と問題解決の体験を提供するために設計されたAIパワードの仮想アシスタントです。
 
 
-**NLP**
- * [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - アーキブ2023のコード：自己対戦とAIフィードバックからのインコンテキスト学習による言語モデルの交渉の改善
- * [dreamGPT](https://github.com/divergentai/dreamgpt) - 大規模言語モデル（LLM）からの幻覚を利用して、新奇性に基づく探索を行います。
- * [lnchat](https://github.com/litch/lnchat) - だから、私はLNChatというものを作りました。このアプリをノードに接続すると、"最新のチャネルは何ですか？"や"チャネルの概要を表示してください"などの平文の質問をすることができます。ChatGPTがそのギャップを埋めます。それはかなり楽しいですが、まだあまり役に立ちません。まだですが。
+**Browser-extensions**
+ * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - もう一つのAI gitコミットプラグインですが、手動確認の必要はありません。
 
 
-**Others**
- * [OpenELM](https://github.com/carperai/openelm) - 大規模モデルを通じた進化
+_Updated on July 18, 2023_ (A total of 901 repositories listed.)
 
-
-_Updated on July 14, 2023_ (A total of 898 repositories listed.)
+🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -97,12 +93,11 @@ _Updated on July 14, 2023_ (A total of 898 repositories listed.)
 |[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)|![GitHub Repo stars](https://img.shields.io/github/stars/snwfdhmp/awesome-gpt-prompt-engineering?style=social)|-|other|
 |[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
 |[awesome-ai](https://github.com/lencx/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/awesome-ai?style=social)|-|cc0-1.0|
-|[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/SkalskiP/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
+|[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/skalskip/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
 
 
 ## Prompts
 
-* [gpt-runner](https://github.com/nicepkg/gpt-runner) GPT-Runner はプロンプトを管理および実行でき、プロンプトのストーリーブックであり、選択したファイルと通信することもできます。
  * [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - コードリポジトリをLLMプロンプトに適した形式に変換します。主にGPT-4によって構築されています。
  * [myGPTReader](https://github.com/madawei2699/mygptreader) - myGPTReaderは、Slack上のボットで、電子書籍を含む任意のウェブページ、ドキュメント、さらにはYouTubeの動画を読み取り、要約することができます。音声を通じてあなたとコミュニケーションすることもできます。
  * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - LLMをロボットに応用するコミュニティと、ChatGPT統合のロボットシミュレーター。
@@ -175,6 +170,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 しかも、これはオープンソースです。
  * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ
 
+ * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 入力：ファイルとの会話！ AIプリセットを管理して実行しましょう！
 
 
 |Name|GitHub Stars|Language|License|
@@ -241,6 +237,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme)|![GitHub Repo stars](https://img.shields.io/github/stars/svermeulen/text-to-colorscheme?style=social)|Lua|mit|
 |[gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/mshumer/gpt-prompt-engineer?style=social)|Jupyter Notebook|mit|
 |[prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/prompt-engineering-for-javascript-developers?style=social)|-|-|
+|[gpt-runner](https://github.com/nicepkg/gpt-runner)|![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=social)|TypeScript|mit|
 
 
 ## Chatbots
@@ -362,6 +359,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - フル機能を備えた、Vercel Labs＆Supabaseによって構築されたSupabaseified Next.js AIチャットボット。
  * [llm-inference](https://github.com/aniketmaurya/llm-inference) - 大規模言語モデル（LLM）の推論APIとチャットボット
  * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Toolsは、異なるビジュアル基盤モデルを自動的に決定、制御、活用することができるインテリジェントシステムです。これにより、ユーザーは会話中に画像と対話することができます。
+ * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 究極のChatGPTは、強化された文章作成と問題解決の体験を提供するために設計されたAIパワードの仮想アシスタントです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -480,6 +478,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/supabase-community/vercel-ai-chatbot?style=social)|TypeScript|other|
 |[llm-inference](https://github.com/aniketmaurya/llm-inference)|![GitHub Repo stars](https://img.shields.io/github/stars/aniketmaurya/llm-inference?style=social)|Python|mit|
 |[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/stevengrove/GPT4Tools?style=social)|Python|apache-2.0|
+|[Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imabutahersiddik/Ultimate-ChatGPT?style=social)|TypeScript|other|
 
 
 ## Browser-extensions
@@ -585,6 +584,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - このリポジトリには、ChatGPTとGitHub APIとの連携を可能にするプラグインが含まれています。GitHubのリポジトリに関する情報を取得することができます。具体的には、リポジトリの一覧、ブランチやファイルの情報、特定のファイルの内容などを取得することができます。
  * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。
 
+ * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - もう一つのAI gitコミットプラグインですが、手動確認の必要はありません。
 
 
 |Name|GitHub Stars|Language|License|
@@ -689,6 +689,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/listennotes/listennotes-chatgpt-plugin?style=social)|JavaScript|agpl-3.0|
 |[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|-|
 |[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
+|[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -900,7 +901,7 @@ aiderはターミナルで動作するGPTパワードのコーディングです
 |[femtoGPT](https://github.com/keyvank/femtogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/keyvank/femtoGPT?style=social)|Rust|mit|
 |[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-gpt?style=social)|Python|apache-2.0|
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
-|[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/DeepGraphLearning/AStarNet?style=social)|Python|mit|
+|[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -1210,8 +1211,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[PdfGptIndexer](https://github.com/raghavan/pdfgptindexer)|![GitHub Repo stars](https://img.shields.io/github/stars/raghavan/PdfGptIndexer?style=social)|Python|mit|
 |[SuperAGI](https://github.com/transformeroptimus/superagi)|![GitHub Repo stars](https://img.shields.io/github/stars/transformeroptimus/SuperAGI?style=social)|Python|mit|
 |[OpenLLM](https://github.com/bentoml/openllm)|![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)|Python|apache-2.0|
-|[GPT-Bargaining](https://github.com/franxyao/gpt-bargaining)|![GitHub Repo stars](https://img.shields.io/github/stars/FranxYao/GPT-Bargaining?style=social)|Jupyter Notebook|-|
-|[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/DivergentAI/dreamGPT?style=social)|Python|mit|
+|[GPT-Bargaining](https://github.com/franxyao/gpt-bargaining)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/GPT-Bargaining?style=social)|Jupyter Notebook|-|
+|[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/divergentai/dreamGPT?style=social)|Python|mit|
 |[lnchat](https://github.com/litch/lnchat)|![GitHub Repo stars](https://img.shields.io/github/stars/litch/lnchat?style=social)|Python|-|
 
 
@@ -1990,6 +1991,6 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[Taqyim](https://github.com/arbml/taqyim)|![GitHub Repo stars](https://img.shields.io/github/stars/arbml/Taqyim?style=social)|Jupyter Notebook|mit|
 |[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
-|[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/CarperAI/OpenELM?style=social)|Python|mit|
+|[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
 
 

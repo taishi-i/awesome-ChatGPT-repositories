@@ -1569,6 +1569,35 @@
                     "zh-hans": "输入：来自DeepLearning.ai的ChatGPT Prompt Engineering for Developers的笔记总结\n输出：ChatGPT Prompt Engineering for Developers的笔记总结",
                     "zh-hant": "輸入：從DeepLearning.ai的「ChatGPT Prompt Engineering for Developers」摘要的筆記"
                 }
+            },
+            "https://github.com/nicepkg/gpt-runner": {
+                "repository_name": "gpt-runner",
+                "user_name": "nicepkg",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Conversations with your files! Manage and run your AI presets!",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "chatgpt",
+                    "langchain",
+                    "llm",
+                    "openai",
+                    "prompt",
+                    "promptengineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Conversations with your files! Manage and run your AI presets!",
+                    "ja": "入力：ファイルとの会話！ AIプリセットを管理して実行しましょう！",
+                    "zh-hans": "与您的文件对话！管理和运行您的AI预设！",
+                    "zh-hant": "與您的文件對話！管理和運行您的AI預設！"
+                }
             }
         },
         "Chatbots": {
@@ -3959,6 +3988,43 @@
                     "zh-hans": "GPT4Tools是一个智能系统，可以自动决定、控制和利用不同的视觉基础模型，允许用户在对话过程中与图像进行交互。",
                     "zh-hant": "GPT4Tools 是一個智能系統，可以自動決定、控制和利用不同的視覺基礎模型，讓使用者在對話中與圖像互動。"
                 }
+            },
+            "https://github.com/imabutahersiddik/ultimate-chatgpt": {
+                "repository_name": "Ultimate-ChatGPT",
+                "user_name": "imabutahersiddik",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "chatgpt-bot",
+                    "chatgpt-free",
+                    "chatgpt3",
+                    "chatgpt4",
+                    "chatgptfree",
+                    "freegpt",
+                    "freegpt4",
+                    "gpt",
+                    "gpt3",
+                    "gpt3-free",
+                    "gpt3-turbo",
+                    "gpt4",
+                    "gpt4free"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.",
+                    "ja": "究極のChatGPTは、強化された文章作成と問題解決の体験を提供するために設計されたAIパワードの仮想アシスタントです。",
+                    "zh-hans": "终极ChatGPT是一个由人工智能驱动的虚拟助手，旨在提供卓越的写作和问题解决体验。",
+                    "zh-hant": "終極ChatGPT是一個由人工智能驅動的虛擬助手，旨在提供優質的寫作和解決問題體驗。"
+                }
             }
         },
         "Browser-extensions": {
@@ -5988,6 +6054,26 @@
                     "ja": "入力：Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。\n出力：",
                     "zh-hans": "输入：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。\n输出：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。",
                     "zh-hant": "輸入：使用 Cloudflare Workers 和 Clerk OAuth2 後端的 ChatGPT 插件示例。\n輸出："
+                }
+            },
+            "https://github.com/mefengl/vscode-i-dont-care-about-commit-message": {
+                "repository_name": "vscode-i-dont-care-about-commit-message",
+                "user_name": "mefengl",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Yet another AI git commit plugin, but without the need for manual confirmation.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Yet another AI git commit plugin, but without the need for manual confirmation.",
+                    "ja": "もう一つのAI gitコミットプラグインですが、手動確認の必要はありません。",
+                    "zh-hans": "又一个AI git提交插件，但无需手动确认。",
+                    "zh-hant": "又一个AI git提交插件，但无需手动确认。"
                 }
             }
         },
