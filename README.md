@@ -1419,6 +1419,7 @@ _Updated on July 14, 2023_ (A total of 898 repositories listed.)
  * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
+ * [I Don't Care About Commit Message (VS Code Extension)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message): Yet another AI git commit plugin, but without the need for manual confirmation.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1511,6 +1512,7 @@ _Updated on July 14, 2023_ (A total of 898 repositories listed.)
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
+|[I Don't Care About Commit Message (VS Code Extension)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1973,5 +1975,3 @@ _Updated on July 14, 2023_ (A total of 898 repositories listed.)
 |[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
 |[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/CarperAI/OpenELM?style=social)|Python|mit|
-
-
