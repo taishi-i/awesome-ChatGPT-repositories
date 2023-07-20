@@ -15,19 +15,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 入力：ファイルとの会話！ AIプリセットを管理して実行しましょう！
+**Reimplementations**
+ * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPTコードインタープリターのオープンソース実装 👾
 
 
-**Chatbots**
- * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 究極のChatGPTは、強化された文章作成と問題解決の体験を提供するために設計されたAIパワードの仮想アシスタントです。
+**Openai**
+ * [zod-gpt](https://github.com/dzhng/zod-gpt) - OpenAIとAnthropicモデルから、構造化され、完全に型付けされ、検証済みのJSON出力を取得してください。
 
 
-**Browser-extensions**
- * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - もう一つのAI gitコミットプラグインですが、手動確認の必要はありません。
+**Others**
+ * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高度なHTTPライブラリ
 
 
-_Updated on July 18, 2023_ (A total of 901 repositories listed.)
+_Updated on July 21, 2023_ (A total of 904 repositories listed.)
 
 🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
@@ -170,7 +170,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 しかも、これはオープンソースです。
  * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ
 
- * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 入力：ファイルとの会話！ AIプリセットを管理して実行しましょう！
+ * [gpt-runner](https://github.com/nicepkg/gpt-runner) - ファイルとの会話！ AIプリセットを管理して実行しましょう！
 
 
 |Name|GitHub Stars|Language|License|
@@ -878,6 +878,7 @@ aiderはターミナルで動作するGPTパワードのコーディングです
  * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - nanoGPTに基づいた最新のオープンソースLLMsのハッキング可能な実装。フラッシュアテンション、Int8およびGPTQ 4ビットの量子化、LoRAおよびLLaMA-Adapterのファインチューニング、事前トレーニングをサポートしています。Apache 2.0ライセンスです。
  * [exllama](https://github.com/turboderp/exllama) - 量子化された重みを使用するためのLlamaのHF transformers実装のメモリ効率の改善版。
  * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 公式のA*ネットワークの実装
+ * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPTコードインタープリターのオープンソース実装 👾
 
 
 |Name|GitHub Stars|Language|License|
@@ -902,6 +903,7 @@ aiderはターミナルで動作するGPTパワードのコーディングです
 |[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-gpt?style=social)|Python|apache-2.0|
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
+|[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -1436,6 +1438,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ
 
+ * [zod-gpt](https://github.com/dzhng/zod-gpt) - OpenAIとAnthropicモデルから、構造化され、完全に型付けされ、検証済みのJSON出力を取得してください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1528,6 +1531,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
+|[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1761,6 +1765,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - アプリの配布を自動化するためのGitHubアクション。
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - インテリジェントなバイナリ脆弱性分析ツール
  * [OpenELM](https://github.com/carperai/openelm) - 大規模モデルを通じた進化
+ * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高度なHTTPライブラリ
 
 
 |Name|GitHub Stars|Language|License|
@@ -1992,5 +1997,6 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
 |[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
+|[chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/chatgpt-to-api?style=social)|Python|mit|
 
 

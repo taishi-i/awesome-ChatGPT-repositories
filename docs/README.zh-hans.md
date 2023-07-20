@@ -15,19 +15,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 管理和运行你的人工智能预设!
+**Reimplementations**
+ * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 开源实现ChatGPT代码解释器
 
 
-**Chatbots**
- * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 最终聊天GPT是一个人工智能驱动的虚拟助理,旨在提供更好的写作和解决问题的体验.
+**Openai**
+ * [zod-gpt](https://github.com/dzhng/zod-gpt) - 获取结构化,完全类型化和验证的JSON输出,
 
 
-**Browser-extensions**
- * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 另一个AI git提交插件, 但不需要手动确认.
+**Others**
+ * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高级HTTP库
 
 
-_Updated on July 18, 2023_ (A total of 901 repositories listed.)
+_Updated on July 21, 2023_ (A total of 904 repositories listed.)
 
 🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
@@ -869,6 +869,7 @@ ChatGPT资料汇总学习，持续更新......
  * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - 可黑客实现的基于nanoGPT的最先进开源LLMs。支持闪存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微调、预训练。Apache 2.0许可。
  * [exllama](https://github.com/turboderp/exllama) - 一个更节省内存的重写版本，用于使用量化权重的Llama的HF变压器实现。
  * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 官方实现的A*网络
+ * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPT代码解释器的开源实现 👾
 
 
 |Name|GitHub Stars|Language|License|
@@ -893,6 +894,7 @@ ChatGPT资料汇总学习，持续更新......
 |[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-gpt?style=social)|Python|apache-2.0|
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
+|[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -1435,6 +1437,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 输入：中身并不重要，但作为地方政府的努力是非常有趣的。Azure OpenAI——这个存储库是为了将在神户市政府进行ChatGPT试用的流程等转化为解决方案并公开而创建的。
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本微软发布了GPT的参考架构。基于日语的场景的示例实现应有尽有！如果掌握了这个存储库，会有很多进展。有日志和认证等功能真是太好了。~示例列表~1. 面向呼叫中心的GPT助手...
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - OpenAI ChatGPT SwiftUI 应用程序适用于 iOS、iPadOS 和 macOS。
+ * [zod-gpt](https://github.com/dzhng/zod-gpt) - 从OpenAI和Anthropic模型中获取结构化、完全类型化和经过验证的JSON输出。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1527,6 +1530,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
+|[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1762,6 +1766,7 @@ Chat酱独立部署版，docker方案自带代理
  * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - GitHub操作，用于自动化分发您的应用程序的操作。
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - 一个智能的二进制漏洞分析工具
  * [OpenELM](https://github.com/carperai/openelm) - 通过大型模型的演化
+ * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高级HTTP库
 
 
 |Name|GitHub Stars|Language|License|
@@ -1993,5 +1998,6 @@ Chat酱独立部署版，docker方案自带代理
 |[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
 |[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
+|[chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/chatgpt-to-api?style=social)|Python|mit|
 
 

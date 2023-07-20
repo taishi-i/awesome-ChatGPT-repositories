@@ -16,19 +16,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [gpt-runner](https://github.com/nicepkg/gpt-runner) - Conversations with your files! Manage and run your AI presets!
+**Reimplementations**
+ * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾
 
 
-**Chatbots**
- * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
+**Openai**
+ * [zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 
 
-**Browser-extensions**
- * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Yet another AI git commit plugin, but without the need for manual confirmation.
+**Others**
+ * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - Advanced HTTP Library
 
 
-_Updated on July 18, 2023_ (A total of 901 repositories listed.)
+_Updated on July 21, 2023_ (A total of 904 repositories listed.)
 
 🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
@@ -863,6 +863,7 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
  * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
  * [exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
  * [AStarNet](https://github.com/deepgraphlearning/astarnet) - Official implementation of A* Networks
+ * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾
 
 
 |Name|GitHub Stars|Language|License|
@@ -887,6 +888,7 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
 |[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-gpt?style=social)|Python|apache-2.0|
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
+|[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -1415,6 +1417,7 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
  * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - The content is not significant, but it is interesting as a local government initiative. Azure OpenAI - This repository is a solution that was created and made public for the purpose of trial use of ChatGPT at the Kobe City Hall, including the flow and other elements.
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - Microsoft Japan has released the reference architecture for GPT. There are plenty of sample implementations based on Japanese scenarios! If you keep an eye on this repository, it will be very helpful. It's great that there are logs and authentication included. ~List of samples~ 1. GPT Assistant for Call Centers...
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
+ * [zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1507,6 +1510,7 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
+|[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1738,6 +1742,7 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
  * [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - GitHub Action to upload your app for automating the distribution of your app.
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - An Intelligent Binary Vulnerability Analysis Tool
  * [OpenELM](https://github.com/carperai/openelm) - Evolution Through Large Models
+ * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - Advanced HTTP Library
 
 
 |Name|GitHub Stars|Language|License|
@@ -1969,5 +1974,6 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
 |[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
 |[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
+|[chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/chatgpt-to-api?style=social)|Python|mit|
 
 
