@@ -15,19 +15,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 管理並執行您的人工智能預設!
+**Reimplementations**
+ * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 公開源碼的 ChatGPT 代碼傳譯器實現
 
 
-**Chatbots**
- * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 終極聊天GPT是一款以人工智能為主動的虛擬助理,
+**Openai**
+ * [zod-gpt](https://github.com/dzhng/zod-gpt) - 獲得從OpenAI和Anthropic模型中結構化,完全輸入和驗證的JSON輸出.
 
 
-**Browser-extensions**
- * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 沒有必要手動確認.
+**Others**
+ * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 進階 HTTP 圖書館
 
 
-_Updated on July 18, 2023_ (A total of 901 repositories listed.)
+_Updated on July 21, 2023_ (A total of 904 repositories listed.)
 
 🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
@@ -869,6 +869,7 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
  * [lit-gpt](https://github.com/lightning-ai/lit-gpt) - 可駭入的最先進開源LLMs的實現，基於nanoGPT。支持閃存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微調、預訓練。Apache 2.0許可。
  * [exllama](https://github.com/turboderp/exllama) - 一個更節省記憶體的重寫版本，用於使用量化權重的Llama的HF transformers實現。
  * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 官方實現的A*網絡
+ * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 開源ChatGPT代碼解釋器的實現 👾
 
 
 |Name|GitHub Stars|Language|License|
@@ -893,6 +894,7 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
 |[lit-gpt](https://github.com/lightning-ai/lit-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/lightning-ai/lit-gpt?style=social)|Python|apache-2.0|
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
+|[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
 
 
 ## Tutorials
@@ -1433,6 +1435,7 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 輸入：日本微軟公開了GPT的參考架構。有許多以日語為基礎的樣本實現可供參考！如果掌握了這個存儲庫，將會事半功倍。有日誌和認證等功能，真是太棒了。～樣本列表～1. 面向呼叫中心的GPT助手...
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - 輸入：OpenAI ChatGPT SwiftUI iOS、iPadOS、macOS 應用程式
 輸出：
+ * [zod-gpt](https://github.com/dzhng/zod-gpt) - 從OpenAI和Anthropic模型獲取結構化、完全類型化和驗證過的JSON輸出。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1525,6 +1528,7 @@ _Updated on July 18, 2023_ (A total of 901 repositories listed.)
 |[pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution)|![GitHub Repo stars](https://img.shields.io/github/stars/city-of-kobe/pva-aoai-integration-solution?style=social)|-|mit|
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
+|[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1770,6 +1774,7 @@ add chatgpt to your groupchats:
 輸出：GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的分發。
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - 一個智能的二進制漏洞分析工具
  * [OpenELM](https://github.com/carperai/openelm) - 透過大型模型的演化
+ * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高級HTTP庫
 
 
 |Name|GitHub Stars|Language|License|
@@ -2001,5 +2006,6 @@ add chatgpt to your groupchats:
 |[gpt-code-search](https://github.com/wolfia-app/gpt-code-search)|![GitHub Repo stars](https://img.shields.io/github/stars/wolfia-app/gpt-code-search?style=social)|TypeScript|mit|
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
 |[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
+|[chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/chatgpt-to-api?style=social)|Python|mit|
 
 
