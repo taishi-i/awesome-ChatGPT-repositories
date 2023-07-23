@@ -15,19 +15,21 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 公開源碼的 ChatGPT 代碼傳譯器實現
+**Browser-extensions**
+ * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的浏览器扩展和跨平台桌面应用程序.
 
 
 **Openai**
- * [zod-gpt](https://github.com/dzhng/zod-gpt) - 獲得從OpenAI和Anthropic模型中結構化,完全輸入和驗證的JSON輸出.
+ * [ai-beehive](https://github.com/hncboy/ai-beehive) - 基于Java的AI蜂巢使用Spring Boot 3和JDK 17,支持功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等
 
 
 **Others**
- * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 進階 HTTP 圖書館
+ * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 提供提供者為Plus帳戶或API.
+ * [poe-api](https://github.com/ading2210/poe-api) - 提供免費接入ChatGPT,GPT-4和Claude的Python API包裝.
+ * [leetcode](https://github.com/azl397985856/leetcode) - 推免費ChatGPT網站:www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer 解密碼解決方案:我的問題解決之旅記錄.
 
 
-_Updated on July 21, 2023_ (A total of 904 repositories listed.)
+_Updated on July 23, 2023_ (A total of 909 repositories listed.)
 
 🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
@@ -576,6 +578,7 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
  * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 輸入：使用 Cloudflare Workers 和 Clerk OAuth2 後端的 ChatGPT 插件示例。
 輸出：
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 又一个AI git提交插件，但无需手动确认。
+ * [openai-translator](https://github.com/openai-translator/openai-translator) - 基於 ChatGPT API 的劃詞翻譯瀏覽器插件和跨平台桌面端應用 - 基於 ChatGPT API 的翻譯瀏覽器插件和跨平台桌面應用。
 
 
 |Name|GitHub Stars|Language|License|
@@ -681,6 +684,7 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
 |[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|-|
 |[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
+|[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
 
 
 ## CLIs
@@ -1436,6 +1440,7 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - 輸入：OpenAI ChatGPT SwiftUI iOS、iPadOS、macOS 應用程式
 輸出：
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - 從OpenAI和Anthropic模型獲取結構化、完全類型化和驗證過的JSON輸出。
+ * [ai-beehive](https://github.com/hncboy/ai-beehive) - 輸入：AI 蜂巢，基於 Java 使用 Spring Boot 3 和 JDK 17，支援的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等
 
 
 |Name|GitHub Stars|Language|License|
@@ -1529,6 +1534,7 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
+|[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
 
 
 ## Others
@@ -1775,6 +1781,9 @@ add chatgpt to your groupchats:
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - 一個智能的二進制漏洞分析工具
  * [OpenELM](https://github.com/carperai/openelm) - 透過大型模型的演化
  * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高級HTTP庫
+ * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 一個功能齊全的多用戶ChatGPT網絡系統，提供Plus帳戶或API作為服務提供者。
+ * [poe-api](https://github.com/ading2210/poe-api) - 一個逆向工程的Python API封裝器，用於Quora的Poe，提供免費訪問ChatGPT、GPT-4和Claude。
+ * [leetcode](https://github.com/azl397985856/leetcode) - 推薦免費ChatGPT網站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode解題方案：一個我解題之旅的記錄。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2007,5 +2016,8 @@ add chatgpt to your groupchats:
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
 |[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
 |[chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/chatgpt-to-api?style=social)|Python|mit|
+|[chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)|![GitHub Repo stars](https://img.shields.io/github/stars/moeakwak/chatgpt-web-share?style=social)|Vue|gpl-3.0|
+|[poe-api](https://github.com/ading2210/poe-api)|![GitHub Repo stars](https://img.shields.io/github/stars/ading2210/poe-api?style=social)|Python|gpl-3.0|
+|[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 
 

@@ -18,19 +18,21 @@ _☝ By using ChatGPT, we were able to improve the translation results._
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter 👾
+**Browser-extensions**
+ * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 
 
 **Openai**
- * [zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
+ * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等
 
 
 **Others**
- * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - Advanced HTTP Library
+ * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
+ * [poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+ * [leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 
-_Updated on July 21, 2023_ (A total of 904 repositories listed.)
+_Updated on July 23, 2023_ (A total of 909 repositories listed.)
 
 🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
@@ -574,6 +576,7 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
  * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - This repository contains a plugin for ChatGPT that interacts with the GitHub API. It can fetch information about GitHub repositories, including the list of repositories, branch and files in a repository, and the content of a specific file.
  * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - ChatGPT plugin example using Cloudflare Workers and Clerk OAuth2 backend.
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Yet another AI git commit plugin, but without the need for manual confirmation.
+ * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 
 
 |Name|GitHub Stars|Language|License|
@@ -679,6 +682,7 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
 |[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|-|
 |[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
+|[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
 
 
 ## CLIs
@@ -1420,6 +1424,7 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - Get structured, fully typed, and validated JSON outputs from OpenAI and Anthropic models.
+ * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等
 
 
 |Name|GitHub Stars|Language|License|
@@ -1513,6 +1518,7 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
+|[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
 
 
 ## Others
@@ -1745,6 +1751,9 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - An Intelligent Binary Vulnerability Analysis Tool
  * [OpenELM](https://github.com/carperai/openelm) - Evolution Through Large Models
  * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - Advanced HTTP Library
+ * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.
+ * [poe-api](https://github.com/ading2210/poe-api) - A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+ * [leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 
 |Name|GitHub Stars|Language|License|
@@ -1977,5 +1986,8 @@ _Updated on July 21, 2023_ (A total of 904 repositories listed.)
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
 |[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
 |[chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/chatgpt-to-api?style=social)|Python|mit|
+|[chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)|![GitHub Repo stars](https://img.shields.io/github/stars/moeakwak/chatgpt-web-share?style=social)|Vue|gpl-3.0|
+|[poe-api](https://github.com/ading2210/poe-api)|![GitHub Repo stars](https://img.shields.io/github/stars/ading2210/poe-api?style=social)|Python|gpl-3.0|
+|[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 
 

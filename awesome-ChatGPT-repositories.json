@@ -6075,6 +6075,34 @@
                     "zh-hans": "又一个AI git提交插件，但无需手动确认。",
                     "zh-hant": "又一个AI git提交插件，但无需手动确认。"
                 }
+            },
+            "https://github.com/openai-translator/openai-translator": {
+                "repository_name": "openai-translator",
+                "user_name": "openai-translator",
+                "language": "TypeScript",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+                "topics": [
+                    "browser-extension",
+                    "chatgpt",
+                    "chrome-extension",
+                    "openai",
+                    "translation",
+                    "translator",
+                    "translator-app"
+                ],
+                "multilingual_descriptions": {
+                    "en": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+                    "ja": "ChatGPT APIに基づく翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。",
+                    "zh-hans": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。",
+                    "zh-hant": "基於 ChatGPT API 的劃詞翻譯瀏覽器插件和跨平台桌面端應用 - 基於 ChatGPT API 的翻譯瀏覽器插件和跨平台桌面應用。"
+                }
             }
         },
         "CLIs": {
@@ -13771,6 +13799,31 @@
                     "zh-hans": "从OpenAI和Anthropic模型中获取结构化、完全类型化和经过验证的JSON输出。",
                     "zh-hant": "從OpenAI和Anthropic模型獲取結構化、完全類型化和驗證過的JSON輸出。"
                 }
+            },
+            "https://github.com/hncboy/ai-beehive": {
+                "repository_name": "ai-beehive",
+                "user_name": "hncboy",
+                "language": "Java",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-java",
+                    "java",
+                    "midjourney"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等",
+                    "ja": "入力：AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。",
+                    "zh-hans": "AI蜂巢，基于Java使用Spring Boot 3和JDK 17，支持的功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等。",
+                    "zh-hant": "輸入：AI 蜂巢，基於 Java 使用 Spring Boot 3 和 JDK 17，支援的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等"
+                }
             }
         },
         "Others": {
@@ -17841,6 +17894,95 @@
                     "ja": "高度なHTTPライブラリ",
                     "zh-hans": "高级HTTP库",
                     "zh-hant": "高級HTTP庫"
+                }
+            },
+            "https://github.com/moeakwak/chatgpt-web-share": {
+                "repository_name": "chatgpt-web-share",
+                "user_name": "moeakwak",
+                "language": "Vue",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-app",
+                    "fastapi",
+                    "gpt-4",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.",
+                    "ja": "入力：PlusアカウントまたはAPIを提供する、完全機能を備えたマルチユーザーChatGPTウェブシステム。\n出力：",
+                    "zh-hans": "一个功能齐全的多用户ChatGPT网络系统，提供Plus账户或API作为服务提供商。",
+                    "zh-hant": "一個功能齊全的多用戶ChatGPT網絡系統，提供Plus帳戶或API作為服務提供者。"
+                }
+            },
+            "https://github.com/ading2210/poe-api": {
+                "repository_name": "poe-api",
+                "user_name": "ading2210",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.",
+                "topics": [
+                    "chatgpt",
+                    "graphql",
+                    "library",
+                    "poe",
+                    "python",
+                    "quora"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.",
+                    "ja": "入力：QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。",
+                    "zh-hans": "一个逆向工程的Python API包装器，用于Quora的Poe，提供免费访问ChatGPT、GPT-4和Claude。",
+                    "zh-hant": "一個逆向工程的Python API封裝器，用於Quora的Poe，提供免費訪問ChatGPT、GPT-4和Claude。"
+                }
+            },
+            "https://github.com/azl397985856/leetcode": {
+                "repository_name": "leetcode",
+                "user_name": "azl397985856",
+                "language": "JavaScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+                "topics": [
+                    "algo",
+                    "algorithm",
+                    "algorithms",
+                    "algorithms-datastructures",
+                    "computer-science",
+                    "cpp",
+                    "data-structures",
+                    "interview",
+                    "java",
+                    "javascript",
+                    "leetcode",
+                    "leetcode-solutions",
+                    "python",
+                    "tree"
+                ],
+                "multilingual_descriptions": {
+                    "en": "推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+                    "ja": "入力：推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)",
+                    "zh-hans": "推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode题解：记录自己的问题解决之旅。",
+                    "zh-hant": "推薦免費ChatGPT網站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode解題方案：一個我解題之旅的記錄。"
                 }
             }
         }
