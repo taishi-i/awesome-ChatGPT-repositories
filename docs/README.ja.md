@@ -15,19 +15,22 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPTコードインタープリターのオープンソース実装 👾
+**Browser-extensions**
+ * [openai-translator](https://github.com/openai-translator/openai-translator) - ChatGPT APIに基づく翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
 
 
 **Openai**
- * [zod-gpt](https://github.com/dzhng/zod-gpt) - OpenAIとAnthropicモデルから、構造化され、完全に型付けされ、検証済みのJSON出力を取得してください。
+ * [ai-beehive](https://github.com/hncboy/ai-beehive) - 入力：AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。
 
 
 **Others**
- * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高度なHTTPライブラリ
+ * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 入力：PlusアカウントまたはAPIを提供する、完全機能を備えたマルチユーザーChatGPTウェブシステム。
+出力：
+ * [poe-api](https://github.com/ading2210/poe-api) - 入力：QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。
+ * [leetcode](https://github.com/azl397985856/leetcode) - 入力：推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)
 
 
-_Updated on July 21, 2023_ (A total of 904 repositories listed.)
+_Updated on July 23, 2023_ (A total of 909 repositories listed.)
 
 🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
@@ -585,6 +588,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。
 
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - もう一つのAI gitコミットプラグインですが、手動確認の必要はありません。
+ * [openai-translator](https://github.com/openai-translator/openai-translator) - ChatGPT APIに基づく翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
 
 
 |Name|GitHub Stars|Language|License|
@@ -690,6 +694,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|-|
 |[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
+|[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
 
 
 ## CLIs
@@ -1439,6 +1444,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ
 
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - OpenAIとAnthropicモデルから、構造化され、完全に型付けされ、検証済みのJSON出力を取得してください。
+ * [ai-beehive](https://github.com/hncboy/ai-beehive) - 入力：AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1532,6 +1538,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
+|[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
 
 
 ## Others
@@ -1766,6 +1773,10 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - インテリジェントなバイナリ脆弱性分析ツール
  * [OpenELM](https://github.com/carperai/openelm) - 大規模モデルを通じた進化
  * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高度なHTTPライブラリ
+ * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 入力：PlusアカウントまたはAPIを提供する、完全機能を備えたマルチユーザーChatGPTウェブシステム。
+出力：
+ * [poe-api](https://github.com/ading2210/poe-api) - 入力：QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。
+ * [leetcode](https://github.com/azl397985856/leetcode) - 入力：推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)
 
 
 |Name|GitHub Stars|Language|License|
@@ -1998,5 +2009,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
 |[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
 |[chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/chatgpt-to-api?style=social)|Python|mit|
+|[chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)|![GitHub Repo stars](https://img.shields.io/github/stars/moeakwak/chatgpt-web-share?style=social)|Vue|gpl-3.0|
+|[poe-api](https://github.com/ading2210/poe-api)|![GitHub Repo stars](https://img.shields.io/github/stars/ading2210/poe-api?style=social)|Python|gpl-3.0|
+|[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 
 

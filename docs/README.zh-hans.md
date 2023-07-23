@@ -15,19 +15,21 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 开源实现ChatGPT代码解释器
+**Browser-extensions**
+ * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的浏览器扩展和跨平台桌面应用程序.
 
 
 **Openai**
- * [zod-gpt](https://github.com/dzhng/zod-gpt) - 获取结构化,完全类型化和验证的JSON输出,
+ * [ai-beehive](https://github.com/hncboy/ai-beehive) - 基于Java的AI蜂巢,使用Spring Boot 3和JDK 17,支持功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等
 
 
 **Others**
- * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高级HTTP库
+ * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 一个功能齐全的多用户ChatGPT网络系统,提供者是Plus帐户或API.
+ * [poe-api](https://github.com/ading2210/poe-api) - 一个为Quora的Poe进行反向工程的Python API包装,可免费访问ChatGPT,GPT-4和Claude.
+ * [leetcode](https://github.com/azl397985856/leetcode) - 推免费ChatGPT网站:www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer 简体中文版:我的问题解决之旅记录.
 
 
-_Updated on July 21, 2023_ (A total of 904 repositories listed.)
+_Updated on July 23, 2023_ (A total of 909 repositories listed.)
 
 🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
 
@@ -575,6 +577,7 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 输入：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。
 输出：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 又一个AI git提交插件，但无需手动确认。
+ * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。
 
 
 |Name|GitHub Stars|Language|License|
@@ -680,6 +683,7 @@ ChatGPT资料汇总学习，持续更新......
 |[chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/carlos-lugo/chatgpt-github-plugin?style=social)|JavaScript|-|
 |[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
+|[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
 
 
 ## CLIs
@@ -1438,6 +1442,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本微软发布了GPT的参考架构。基于日语的场景的示例实现应有尽有！如果掌握了这个存储库，会有很多进展。有日志和认证等功能真是太好了。~示例列表~1. 面向呼叫中心的GPT助手...
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - OpenAI ChatGPT SwiftUI 应用程序适用于 iOS、iPadOS 和 macOS。
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - 从OpenAI和Anthropic模型中获取结构化、完全类型化和经过验证的JSON输出。
+ * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI蜂巢，基于Java使用Spring Boot 3和JDK 17，支持的功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1531,6 +1536,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/jp-azureopenai-samples?style=social)|Python|mit|
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
+|[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
 
 
 ## Others
@@ -1767,6 +1773,9 @@ Chat酱独立部署版，docker方案自带代理
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - 一个智能的二进制漏洞分析工具
  * [OpenELM](https://github.com/carperai/openelm) - 通过大型模型的演化
  * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高级HTTP库
+ * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 一个功能齐全的多用户ChatGPT网络系统，提供Plus账户或API作为服务提供商。
+ * [poe-api](https://github.com/ading2210/poe-api) - 一个逆向工程的Python API包装器，用于Quora的Poe，提供免费访问ChatGPT、GPT-4和Claude。
+ * [leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode题解：记录自己的问题解决之旅。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1999,5 +2008,8 @@ Chat酱独立部署版，docker方案自带代理
 |[Callisto](https://github.com/jetp1ane/callisto)|![GitHub Repo stars](https://img.shields.io/github/stars/jetp1ane/Callisto?style=social)|Python|-|
 |[OpenELM](https://github.com/carperai/openelm)|![GitHub Repo stars](https://img.shields.io/github/stars/carperai/OpenELM?style=social)|Python|mit|
 |[chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/acheong08/chatgpt-to-api?style=social)|Python|mit|
+|[chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)|![GitHub Repo stars](https://img.shields.io/github/stars/moeakwak/chatgpt-web-share?style=social)|Vue|gpl-3.0|
+|[poe-api](https://github.com/ading2210/poe-api)|![GitHub Repo stars](https://img.shields.io/github/stars/ading2210/poe-api?style=social)|Python|gpl-3.0|
+|[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 
 
