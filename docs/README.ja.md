@@ -16,23 +16,26 @@
 ## The latest additions 🎉
 
 **Browser-extensions**
- * [openai-translator](https://github.com/openai-translator/openai-translator) - ChatGPT APIに基づく翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
+ * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - プラグインをサポートするChatGPTです。TG: https://t.me/+bIZncGryj_85MjYx
+
+
+**Langchain**
+ * [MedicalGPT](https://github.com/shibing624/medicalgpt) - MedicalGPT: ChatGPTトレーニングパイプラインを使用して独自の医療GPTモデルをトレーニングする。二次プレトレーニング、教師あり微調整、報酬モデリング、強化学習トレーニングを含む。
+ * [rag-stack](https://github.com/psychic-api/rag-stack) - 入力：🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。
+ * [opencompass](https://github.com/internlm/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
 
 
 **Openai**
- * [ai-beehive](https://github.com/hncboy/ai-beehive) - 入力：AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。
+ * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ
 
 
 **Others**
- * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 入力：PlusアカウントまたはAPIを提供する、完全機能を備えたマルチユーザーChatGPTウェブシステム。
+ * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 入力：Chatgptビジネス版はすでに41個集められ、さらに収益化方法、ビジネスのソースコードプログラム、アカウントAPIチャネル、支払い受け取りチャネル、サーバーチャネル、コースのサポートサービス、CHATGPT知識の星、開発カスタマイズの外注を提供しています。
+ * [chapyter](https://github.com/chapyter/chapyter) - 入力：Chapyter：JupyterノートブックでのChatGPTコードインタープリター
 出力：
- * [poe-api](https://github.com/ading2210/poe-api) - 入力：QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。
- * [leetcode](https://github.com/azl397985856/leetcode) - 入力：推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)
 
 
-_Updated on July 23, 2023_ (A total of 909 repositories listed.)
-
-🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
+_Updated on July 26, 2023_ (A total of 916 repositories listed.)
 
 ## Table of contents
 
@@ -589,6 +592,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - もう一つのAI gitコミットプラグインですが、手動確認の必要はありません。
  * [openai-translator](https://github.com/openai-translator/openai-translator) - ChatGPT APIに基づく翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
+ * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - プラグインをサポートするChatGPTです。TG: https://t.me/+bIZncGryj_85MjYx
 
 
 |Name|GitHub Stars|Language|License|
@@ -695,6 +699,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 |[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
+|[ais-ninja](https://github.com/jarvis2f/ais-ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/jarvis2f/ais-ninja?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1274,6 +1279,9 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - Streamlit、LangChain、オープンソースのLLMsを使用したDIY ChatGPT
 
  * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 「GPT-Producer」をご紹介します。デジタルピアノ、@OpenAI APIキー、そして#GPUを持って、アーティストになりましょう！ #musicgen #audiocraft #gpt @LangChainAI @MetaAI は、この可能性を実現するためのツールです！
+ * [MedicalGPT](https://github.com/shibing624/medicalgpt) - MedicalGPT: ChatGPTトレーニングパイプラインを使用して独自の医療GPTモデルをトレーニングする。二次プレトレーニング、教師あり微調整、報酬モデリング、強化学習トレーニングを含む。
+ * [rag-stack](https://github.com/psychic-api/rag-stack) - 入力：🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。
+ * [opencompass](https://github.com/internlm/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1326,6 +1334,9 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/sugarforever/LangChain-Tutorials?style=social)|Jupyter Notebook|-|
 |[chat-efficient](https://github.com/coefficientsystems/chat-efficient)|![GitHub Repo stars](https://img.shields.io/github/stars/coefficientsystems/chat-efficient?style=social)|Jupyter Notebook|mit|
 |[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
+|[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
+|[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
+|[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1444,7 +1455,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ
 
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - OpenAIとAnthropicモデルから、構造化され、完全に型付けされ、検証済みのJSON出力を取得してください。
- * [ai-beehive](https://github.com/hncboy/ai-beehive) - 入力：AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。
+ * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。
+ * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ
 
 
 |Name|GitHub Stars|Language|License|
@@ -1539,6 +1551,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 |[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
+|[cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/gaboolic/cloudflare-reverse-proxy?style=social)|JavaScript|-|
 
 
 ## Others
@@ -1773,10 +1786,13 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [Callisto](https://github.com/jetp1ane/callisto) - Callisto - インテリジェントなバイナリ脆弱性分析ツール
  * [OpenELM](https://github.com/carperai/openelm) - 大規模モデルを通じた進化
  * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高度なHTTPライブラリ
- * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 入力：PlusアカウントまたはAPIを提供する、完全機能を備えたマルチユーザーChatGPTウェブシステム。
+ * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - PlusアカウントまたはAPIを提供する、完全機能を備えたマルチユーザーChatGPTウェブシステム。
+
+ * [poe-api](https://github.com/ading2210/poe-api) - QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。
+ * [leetcode](https://github.com/azl397985856/leetcode) - 推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)
+ * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 入力：Chatgptビジネス版はすでに41個集められ、さらに収益化方法、ビジネスのソースコードプログラム、アカウントAPIチャネル、支払い受け取りチャネル、サーバーチャネル、コースのサポートサービス、CHATGPT知識の星、開発カスタマイズの外注を提供しています。
+ * [chapyter](https://github.com/chapyter/chapyter) - 入力：Chapyter：JupyterノートブックでのChatGPTコードインタープリター
 出力：
- * [poe-api](https://github.com/ading2210/poe-api) - 入力：QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。
- * [leetcode](https://github.com/azl397985856/leetcode) - 入力：推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)
 
 
 |Name|GitHub Stars|Language|License|
@@ -2012,5 +2028,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)|![GitHub Repo stars](https://img.shields.io/github/stars/moeakwak/chatgpt-web-share?style=social)|Vue|gpl-3.0|
 |[poe-api](https://github.com/ading2210/poe-api)|![GitHub Repo stars](https://img.shields.io/github/stars/ading2210/poe-api?style=social)|Python|gpl-3.0|
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
+|[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
+|[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
 
 

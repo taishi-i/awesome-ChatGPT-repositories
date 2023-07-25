@@ -16,22 +16,25 @@
 ## The latest additions 🎉
 
 **Browser-extensions**
- * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的浏览器扩展和跨平台桌面应用程序.
+ * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - 這項計畫的目標是:
+
+
+**Langchain**
+ * [MedicalGPT](https://github.com/shibing624/medicalgpt) - 訓練醫療大模型,实现包括二次預訓練、有監督微调、獎勵建模、強化学习訓練.
+ * [rag-stack](https://github.com/psychic-api/rag-stack) - 部署在您的VPC內托管的私人ChatGPT替代方案. 將其連接到您的組織的知識庫,並使用它作為企業神話. 支持Llama 2,Falcon和GPT4All等開放源的LLM.
+ * [opencompass](https://github.com/internlm/opencompass) - 支持超過50個數據集的各種模型 (LLaMA,LLaMa2,ChatGLM2,ChatGPT,Claude等).
 
 
 **Openai**
- * [ai-beehive](https://github.com/hncboy/ai-beehive) - 基于Java的AI蜂巢使用Spring Boot 3和JDK 17,支持功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等
+ * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - 提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供
 
 
 **Others**
- * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 提供提供者為Plus帳戶或API.
- * [poe-api](https://github.com/ading2210/poe-api) - 提供免費接入ChatGPT,GPT-4和Claude的Python API包裝.
- * [leetcode](https://github.com/azl397985856/leetcode) - 推免費ChatGPT網站:www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer 解密碼解決方案:我的問題解決之旅記錄.
+ * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总41个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API道,支付收款道,服务器道,课程配套服务,CHATGPT知识星球,开发定制外包
+ * [chapyter](https://github.com/chapyter/chapyter) - 章節:Jupyter筆記本中的ChatGPT代碼傳譯器
 
 
-_Updated on July 23, 2023_ (A total of 909 repositories listed.)
-
-🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
+_Updated on July 26, 2023_ (A total of 916 repositories listed.)
 
 ## Table of contents
 
@@ -579,6 +582,7 @@ _Updated on July 23, 2023_ (A total of 909 repositories listed.)
 輸出：
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 又一个AI git提交插件，但无需手动确认。
  * [openai-translator](https://github.com/openai-translator/openai-translator) - 基於 ChatGPT API 的劃詞翻譯瀏覽器插件和跨平台桌面端應用 - 基於 ChatGPT API 的翻譯瀏覽器插件和跨平台桌面應用。
+ * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - 一個支援插件的 ChatGPT。TG：https://t.me/+bIZncGryj_85MjYx
 
 
 |Name|GitHub Stars|Language|License|
@@ -685,6 +689,7 @@ _Updated on July 23, 2023_ (A total of 909 repositories listed.)
 |[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 |[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
+|[ais-ninja](https://github.com/jarvis2f/ais-ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/jarvis2f/ais-ninja?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1268,6 +1273,9 @@ _Updated on July 23, 2023_ (A total of 909 repositories listed.)
  * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 輸入：非常好奇ChatGPT那種流式輸出，費了牛勁，堆砌出了基於Python LangChain的實現，涵蓋控制台和Web3應用的異步流式輸出。Python異步編程還需深入學習🧐代碼👇視頻分享👇bilibili:   #LangChain #ChatGPT #OpenAI
  * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - 使用Streamlit、LangChain和開源LLMs進行DIY ChatGPT
  * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 介紹「GPT-Producer」，帶上你的數位鋼琴、@OpenAI API金鑰和你的#GPU，成為一位藝術家！感謝@LangChainAI和@MetaAI提供的工具，使這一切成為可能！ #musicgen #audiocraft #gpt
+ * [MedicalGPT](https://github.com/shibing624/medicalgpt) - 醫學GPT：使用ChatGPT訓練流程來訓練您自己的醫學GPT模型。
+ * [rag-stack](https://github.com/psychic-api/rag-stack) - 輸入：🤖 在您的虛擬私有雲中部署一個私有的 ChatGPT 替代方案。🔮 將其連接到您組織的知識庫，並將其用作企業的神諭。支持像 Llama 2、Falcon 和 GPT4All 這樣的開源 LLM。
+ * [opencompass](https://github.com/internlm/opencompass) - OpenCompass 是一個 LLM 評估平台，支援超過 50 個數據集的多種模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude 等）。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1320,6 +1328,9 @@ _Updated on July 23, 2023_ (A total of 909 repositories listed.)
 |[LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/sugarforever/LangChain-Tutorials?style=social)|Jupyter Notebook|-|
 |[chat-efficient](https://github.com/coefficientsystems/chat-efficient)|![GitHub Repo stars](https://img.shields.io/github/stars/coefficientsystems/chat-efficient?style=social)|Jupyter Notebook|mit|
 |[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
+|[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
+|[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
+|[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1441,6 +1452,9 @@ _Updated on July 23, 2023_ (A total of 909 repositories listed.)
 輸出：
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - 從OpenAI和Anthropic模型獲取結構化、完全類型化和驗證過的JSON輸出。
  * [ai-beehive](https://github.com/hncboy/ai-beehive) - 輸入：AI 蜂巢，基於 Java 使用 Spring Boot 3 和 JDK 17，支援的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等
+ * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - 請將以下內容翻譯成繁體中文。
+輸入：cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理
+輸出：cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理
 
 
 |Name|GitHub Stars|Language|License|
@@ -1535,6 +1549,7 @@ _Updated on July 23, 2023_ (A total of 909 repositories listed.)
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 |[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
+|[cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/gaboolic/cloudflare-reverse-proxy?style=social)|JavaScript|-|
 
 
 ## Others
@@ -1784,6 +1799,9 @@ add chatgpt to your groupchats:
  * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 一個功能齊全的多用戶ChatGPT網絡系統，提供Plus帳戶或API作為服務提供者。
  * [poe-api](https://github.com/ading2210/poe-api) - 一個逆向工程的Python API封裝器，用於Quora的Poe，提供免費訪問ChatGPT、GPT-4和Claude。
  * [leetcode](https://github.com/azl397985856/leetcode) - 推薦免費ChatGPT網站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode解題方案：一個我解題之旅的記錄。
+ * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已匯總41個Chatgpt商業版及提供更多的變現方式，商業源碼程序，帳號API渠道，支付收款渠道，伺服器渠道，課程配套服務，CHATGPT知識星球，開發定制外包
+ * [chapyter](https://github.com/chapyter/chapyter) - 輸入：Chapyter：在Jupyter筆記本中的ChatGPT代碼解釋器
+輸出：
 
 
 |Name|GitHub Stars|Language|License|
@@ -2019,5 +2037,7 @@ add chatgpt to your groupchats:
 |[chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)|![GitHub Repo stars](https://img.shields.io/github/stars/moeakwak/chatgpt-web-share?style=social)|Vue|gpl-3.0|
 |[poe-api](https://github.com/ading2210/poe-api)|![GitHub Repo stars](https://img.shields.io/github/stars/ading2210/poe-api?style=social)|Python|gpl-3.0|
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
+|[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
+|[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
 
 
