@@ -16,22 +16,25 @@
 ## The latest additions 🎉
 
 **Browser-extensions**
- * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的浏览器扩展和跨平台桌面应用程序.
+ * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - 一个支持插件的聊天GPT.
+
+
+**Langchain**
+ * [MedicalGPT](https://github.com/shibing624/medicalgpt) - 医疗GPT:与ChatGPT培训管道培训您自己的医疗GPT模型. 训练医疗大模型,实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
+ * [rag-stack](https://github.com/psychic-api/rag-stack) - 部署一个在您的VPC内托管的私有ChatGPT替代方案. 将其连接到您的组织的知识库并使用它作为企业神. 支持Llama 2,Falcon和GPT4All等开源LLM.
+ * [opencompass](https://github.com/internlm/opencompass) - 开放式电路盘是一个LLM评估平台,支持50多个数据集的各种模型 (LLaMA,LLaMa2,ChatGLM2,ChatGPT,Claude等).
 
 
 **Openai**
- * [ai-beehive](https://github.com/hncboy/ai-beehive) - 基于Java的AI蜂巢,使用Spring Boot 3和JDK 17,支持功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等
+ * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - 云反向代理 OpenAI/ChatGPT 免翻墙代理 github免翻墙代理 github下载加速代理 谷歌代理 云万能代理
 
 
 **Others**
- * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 一个功能齐全的多用户ChatGPT网络系统,提供者是Plus帐户或API.
- * [poe-api](https://github.com/ading2210/poe-api) - 一个为Quora的Poe进行反向工程的Python API包装,可免费访问ChatGPT,GPT-4和Claude.
- * [leetcode](https://github.com/azl397985856/leetcode) - 推免费ChatGPT网站:www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer 简体中文版:我的问题解决之旅记录.
+ * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总41个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API道,支付收款道,服务器道,课程配套服务,CHATGPT知识星球,开发定制外包
+ * [chapyter](https://github.com/chapyter/chapyter) - 章节:Jupyter笔记本中的ChatGPT代码解释器
 
 
-_Updated on July 23, 2023_ (A total of 909 repositories listed.)
-
-🏅 [2214962083](https://github.com/2214962083), [imabutahersiddik](https://github.com/imabutahersiddik) and [mefengl](https://github.com/mefengl) provided some repository information. Thank you!
+_Updated on July 26, 2023_ (A total of 916 repositories listed.)
 
 ## Table of contents
 
@@ -578,6 +581,7 @@ ChatGPT资料汇总学习，持续更新......
 输出：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 又一个AI git提交插件，但无需手动确认。
  * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。
+ * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - 一个支持插件的ChatGPT。TG：https://t.me/+bIZncGryj_85MjYx
 
 
 |Name|GitHub Stars|Language|License|
@@ -684,6 +688,7 @@ ChatGPT资料汇总学习，持续更新......
 |[chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth)|![GitHub Repo stars](https://img.shields.io/github/stars/eidam/chatgpt-plugin-clerk-auth?style=social)|TypeScript|mit|
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 |[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
+|[ais-ninja](https://github.com/jarvis2f/ais-ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/jarvis2f/ais-ninja?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1267,6 +1272,9 @@ ChatGPT资料汇总学习，持续更新......
  * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI
  * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - 使用Streamlit、LangChain和开源LLMs进行DIY ChatGPT
  * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 介绍“GPT-Producer”带上你的数字钢琴，你的@OpenAI API密钥和你的#GPU，成为一位艺术家！#音乐生成 #音频制作 #gpt 感谢@LangChainAI和@MetaAI提供的工具使这一切成为可能！
+ * [MedicalGPT](https://github.com/shibing624/medicalgpt) - MedicalGPT：使用ChatGPT训练流程训练您自己的医疗GPT模型。
+ * [rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 在您的VPC中部署一个私有的ChatGPT替代品。🔮 将其连接到您的组织知识库，并将其用作企业预言机。支持开源的LLMs，如Llama 2、Falcon和GPT4All。
+ * [opencompass](https://github.com/internlm/opencompass) - OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA，LLaMa2，ChatGLM2，ChatGPT，Claude等）。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1319,6 +1327,9 @@ ChatGPT资料汇总学习，持续更新......
 |[LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials)|![GitHub Repo stars](https://img.shields.io/github/stars/sugarforever/LangChain-Tutorials?style=social)|Jupyter Notebook|-|
 |[chat-efficient](https://github.com/coefficientsystems/chat-efficient)|![GitHub Repo stars](https://img.shields.io/github/stars/coefficientsystems/chat-efficient?style=social)|Jupyter Notebook|mit|
 |[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
+|[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
+|[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
+|[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1443,6 +1454,8 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - OpenAI ChatGPT SwiftUI 应用程序适用于 iOS、iPadOS 和 macOS。
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - 从OpenAI和Anthropic模型中获取结构化、完全类型化和经过验证的JSON输出。
  * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI蜂巢，基于Java使用Spring Boot 3和JDK 17，支持的功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等。
+ * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - 输入：cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理
+输出：cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理
 
 
 |Name|GitHub Stars|Language|License|
@@ -1537,6 +1550,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 |[iChatGPT](https://github.com/37mobileteam/ichatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/37mobileteam/iChatGPT?style=social)|Swift|gpl-3.0|
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 |[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
+|[cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/gaboolic/cloudflare-reverse-proxy?style=social)|JavaScript|-|
 
 
 ## Others
@@ -1776,6 +1790,8 @@ Chat酱独立部署版，docker方案自带代理
  * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - 一个功能齐全的多用户ChatGPT网络系统，提供Plus账户或API作为服务提供商。
  * [poe-api](https://github.com/ading2210/poe-api) - 一个逆向工程的Python API包装器，用于Quora的Poe，提供免费访问ChatGPT、GPT-4和Claude。
  * [leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode题解：记录自己的问题解决之旅。
+ * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总41个Chatgpt商业版及提供更多的变现方式，商业源码程序，账号API渠道，支付收款渠道，服务器渠道，课程配套服务，CHATGPT知识星球，开发定制外包。
+ * [chapyter](https://github.com/chapyter/chapyter) - Chapyter：Jupyter Notebooks中的ChatGPT代码解释器
 
 
 |Name|GitHub Stars|Language|License|
@@ -2011,5 +2027,7 @@ Chat酱独立部署版，docker方案自带代理
 |[chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)|![GitHub Repo stars](https://img.shields.io/github/stars/moeakwak/chatgpt-web-share?style=social)|Vue|gpl-3.0|
 |[poe-api](https://github.com/ading2210/poe-api)|![GitHub Repo stars](https://img.shields.io/github/stars/ading2210/poe-api?style=social)|Python|gpl-3.0|
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
+|[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
+|[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
 
 

@@ -6103,6 +6103,26 @@
                     "zh-hans": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。",
                     "zh-hant": "基於 ChatGPT API 的劃詞翻譯瀏覽器插件和跨平台桌面端應用 - 基於 ChatGPT API 的翻譯瀏覽器插件和跨平台桌面應用。"
                 }
+            },
+            "https://github.com/jarvis2f/ais-ninja": {
+                "repository_name": "ais-ninja",
+                "user_name": "jarvis2f",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A ChatGPT that supports plugins.             TG: https://t.me/+bIZncGryj_85MjYx",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT that supports plugins.             TG: https://t.me/+bIZncGryj_85MjYx",
+                    "ja": "プラグインをサポートするChatGPTです。TG: https://t.me/+bIZncGryj_85MjYx",
+                    "zh-hans": "一个支持插件的ChatGPT。TG：https://t.me/+bIZncGryj_85MjYx",
+                    "zh-hant": "一個支援插件的 ChatGPT。TG：https://t.me/+bIZncGryj_85MjYx"
+                }
             }
         },
         "CLIs": {
@@ -11917,6 +11937,80 @@
                     "zh-hans": "介绍“GPT-Producer”带上你的数字钢琴，你的@OpenAI API密钥和你的#GPU，成为一位艺术家！#音乐生成 #音频制作 #gpt 感谢@LangChainAI和@MetaAI提供的工具使这一切成为可能！",
                     "zh-hant": "介紹「GPT-Producer」，帶上你的數位鋼琴、@OpenAI API金鑰和你的#GPU，成為一位藝術家！感謝@LangChainAI和@MetaAI提供的工具，使這一切成為可能！ #musicgen #audiocraft #gpt"
                 }
+            },
+            "https://github.com/shibing624/medicalgpt": {
+                "repository_name": "MedicalGPT",
+                "user_name": "shibing624",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "llama",
+                    "llm",
+                    "medical"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。",
+                    "ja": "MedicalGPT: ChatGPTトレーニングパイプラインを使用して独自の医療GPTモデルをトレーニングする。二次プレトレーニング、教師あり微調整、報酬モデリング、強化学習トレーニングを含む。",
+                    "zh-hans": "MedicalGPT：使用ChatGPT训练流程训练您自己的医疗GPT模型。",
+                    "zh-hant": "醫學GPT：使用ChatGPT訓練流程來訓練您自己的醫學GPT模型。"
+                }
+            },
+            "https://github.com/psychic-api/rag-stack": {
+                "repository_name": "rag-stack",
+                "user_name": "psychic-api",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.",
+                    "ja": "入力：🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。",
+                    "zh-hans": "🤖 在您的VPC中部署一个私有的ChatGPT替代品。🔮 将其连接到您的组织知识库，并将其用作企业预言机。支持开源的LLMs，如Llama 2、Falcon和GPT4All。",
+                    "zh-hant": "輸入：🤖 在您的虛擬私有雲中部署一個私有的 ChatGPT 替代方案。🔮 將其連接到您組織的知識庫，並將其用作企業的神諭。支持像 Llama 2、Falcon 和 GPT4All 這樣的開源 LLM。"
+                }
+            },
+            "https://github.com/internlm/opencompass": {
+                "repository_name": "opencompass",
+                "user_name": "InternLM",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.",
+                "topics": [
+                    "benchmark",
+                    "chatgpt",
+                    "evaluation",
+                    "large-language-model",
+                    "llama",
+                    "llama2",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.",
+                    "ja": "OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。",
+                    "zh-hans": "OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA，LLaMa2，ChatGLM2，ChatGPT，Claude等）。",
+                    "zh-hant": "OpenCompass 是一個 LLM 評估平台，支援超過 50 個數據集的多種模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude 等）。"
+                }
             }
         },
         "Unity": {
@@ -13823,6 +13917,29 @@
                     "ja": "入力：AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。",
                     "zh-hans": "AI蜂巢，基于Java使用Spring Boot 3和JDK 17，支持的功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等。",
                     "zh-hant": "輸入：AI 蜂巢，基於 Java 使用 Spring Boot 3 和 JDK 17，支援的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等"
+                }
+            },
+            "https://github.com/gaboolic/cloudflare-reverse-proxy": {
+                "repository_name": "cloudflare-reverse-proxy",
+                "user_name": "gaboolic",
+                "language": "JavaScript",
+                "license": null,
+                "description": "cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理",
+                "topics": [
+                    "chatgpt-proxy",
+                    "cloudflare",
+                    "cloudflare-proxy",
+                    "cloudflare-reverse-proxy",
+                    "github-proxy",
+                    "google-proxy",
+                    "openai-proxy",
+                    "reverse-proxy"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wall proxy | Github download acceleration | Google proxy | Cloudflare universal proxy\nOutput: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wall proxy | Github download acceleration | Google proxy | Cloudflare universal proxy",
+                    "ja": "クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ",
+                    "zh-hans": "输入：cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理\n输出：cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。\n輸入：cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理\n輸出：cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理"
                 }
             }
         },
@@ -17983,6 +18100,40 @@
                     "ja": "入力：推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)",
                     "zh-hans": "推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode题解：记录自己的问题解决之旅。",
                     "zh-hant": "推薦免費ChatGPT網站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode解題方案：一個我解題之旅的記錄。"
+                }
+            },
+            "https://github.com/garyvalue/chatgpt-business": {
+                "repository_name": "chatgpt-business",
+                "user_name": "garyvalue",
+                "language": null,
+                "license": null,
+                "description": "已汇总41个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API渠道,支付收款渠道,服务器渠道,课程配套服务,CHATGPT知识星球,开发定制外包",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Already summarized 41 Chatgpt business editions and provide more monetization methods, commercial source code programs, account API channels, payment and collection channels, server channels, course support services, CHATGPT knowledge planet, development and customization outsourcing.",
+                    "ja": "入力：Chatgptビジネス版はすでに41個集められ、さらに収益化方法、ビジネスのソースコードプログラム、アカウントAPIチャネル、支払い受け取りチャネル、サーバーチャネル、コースのサポートサービス、CHATGPT知識の星、開発カスタマイズの外注を提供しています。",
+                    "zh-hans": "已汇总41个Chatgpt商业版及提供更多的变现方式，商业源码程序，账号API渠道，支付收款渠道，服务器渠道，课程配套服务，CHATGPT知识星球，开发定制外包。",
+                    "zh-hant": "已匯總41個Chatgpt商業版及提供更多的變現方式，商業源碼程序，帳號API渠道，支付收款渠道，伺服器渠道，課程配套服務，CHATGPT知識星球，開發定制外包"
+                }
+            },
+            "https://github.com/chapyter/chapyter": {
+                "repository_name": "chapyter",
+                "user_name": "chapyter",
+                "language": "Python",
+                "license": {
+                    "key": "bsd-3-clause",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause",
+                    "url": "https://api.github.com/licenses/bsd-3-clause",
+                    "node_id": "MDc6TGljZW5zZTU="
+                },
+                "description": "Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks",
+                    "ja": "入力：Chapyter：JupyterノートブックでのChatGPTコードインタープリター\n出力：",
+                    "zh-hans": "Chapyter：Jupyter Notebooks中的ChatGPT代码解释器",
+                    "zh-hant": "輸入：Chapyter：在Jupyter筆記本中的ChatGPT代碼解釋器\n輸出："
                 }
             }
         }
