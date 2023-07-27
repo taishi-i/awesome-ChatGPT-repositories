@@ -15,26 +15,22 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - 這項計畫的目標是:
+**CLIs**
+ * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨使用程序員方法打開ChatGPT! GPT Terminal是一種平台,
 
 
-**Langchain**
- * [MedicalGPT](https://github.com/shibing624/medicalgpt) - 訓練醫療大模型,实现包括二次預訓練、有監督微调、獎勵建模、強化学习訓練.
- * [rag-stack](https://github.com/psychic-api/rag-stack) - 部署在您的VPC內托管的私人ChatGPT替代方案. 將其連接到您的組織的知識庫,並使用它作為企業神話. 支持Llama 2,Falcon和GPT4All等開放源的LLM.
- * [opencompass](https://github.com/internlm/opencompass) - 支持超過50個數據集的各種模型 (LLaMA,LLaMa2,ChatGLM2,ChatGPT,Claude等).
-
-
-**Openai**
- * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - 提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供提供
+**NLP**
+ * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - 這種服務器比ChatGPT還好.
 
 
 **Others**
- * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总41个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API道,支付收款道,服务器道,课程配套服务,CHATGPT知识星球,开发定制外包
- * [chapyter](https://github.com/chapyter/chapyter) - 章節:Jupyter筆記本中的ChatGPT代碼傳譯器
+ * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - ️ 基于Golang+Vue3+NaiveUI 的全新聊天GPT-Midjourney 的 AIGC 應用程式
+ * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定義定時任務的聊天插件
+ * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 聊天機-鏡頭-伺服器快速部署庫文件
+ * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ️使用 ChatGPT生成和預覽
 
 
-_Updated on July 26, 2023_ (A total of 916 repositories listed.)
+_Updated on July 28, 2023_ (A total of 922 repositories listed.)
 
 ## Table of contents
 
@@ -773,6 +769,7 @@ _Updated on July 26, 2023_ (A total of 916 repositories listed.)
  * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - 🐝 黃蜂- 立即使用包含社交/郵件登錄、GPT/Stripe集成、cron作業等的SaaS模板開始⚡️- `wasp db` CLI命令也是一個不錯的功能，可以立即在後台啟動本地的Postgres數據庫。
  * [openai-cli](https://github.com/janlay/openai-cli) - 一個用BASH編寫的OpenAI通用命令行界面。
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 一個智能且多功能的通用SQL客戶端和報表工具，集成了ChatGPT功能。
+ * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ 以程式設計師的方式開啟 ChatGPT！GPT Terminal 是一個讓您可以在終端機中與 GPT 進行溝通的平台。
 
 
 |Name|GitHub Stars|Language|License|
@@ -854,6 +851,7 @@ _Updated on July 26, 2023_ (A total of 916 repositories listed.)
 |[SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/wasp-lang/SaaS-Template-GPT?style=social)|TypeScript|-|
 |[openai-cli](https://github.com/janlay/openai-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cli?style=social)|Shell|mit|
 |[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
+|[gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal)|![GitHub Repo stars](https://img.shields.io/github/stars/ltyzzzxxx/gpt-web-terminal?style=social)|TypeScript|apache-2.0|
 
 
 ## Reimplementations
@@ -1076,6 +1074,7 @@ _Updated on July 26, 2023_ (A total of 916 repositories listed.)
 輸出：
  * [dreamGPT](https://github.com/divergentai/dreamgpt) - 利用大型語言模型（LLMs）的幻覺進行以新奇驅動的探索。
  * [lnchat](https://github.com/litch/lnchat) - 所以我建立了一个东西 - LNChat。你将这个应用连接到你的节点，然后你可以向它提出明文问题，比如“我的最新频道是什么”，“给我展示一个频道摘要”。ChatGPT填补了这个空白。它非常有趣，但并不是非常有用。至少现在还不是。
+ * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - 一個比ChatGPT更好的本地化開源AI服務器。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1221,6 +1220,7 @@ _Updated on July 26, 2023_ (A total of 916 repositories listed.)
 |[GPT-Bargaining](https://github.com/franxyao/gpt-bargaining)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/GPT-Bargaining?style=social)|Jupyter Notebook|-|
 |[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/divergentai/dreamGPT?style=social)|Python|mit|
 |[lnchat](https://github.com/litch/lnchat)|![GitHub Repo stars](https://img.shields.io/github/stars/litch/lnchat?style=social)|Python|-|
+|[ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server)|![GitHub Repo stars](https://img.shields.io/github/stars/cgisky1980/ai00_rwkv_server?style=social)|CSS|mit|
 
 
 ## Langchain
@@ -1330,7 +1330,7 @@ _Updated on July 26, 2023_ (A total of 916 repositories listed.)
 |[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
 |[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
 |[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
-|[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/opencompass?style=social)|Python|apache-2.0|
+|[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1802,6 +1802,11 @@ add chatgpt to your groupchats:
  * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已匯總41個Chatgpt商業版及提供更多的變現方式，商業源碼程序，帳號API渠道，支付收款渠道，伺服器渠道，課程配套服務，CHATGPT知識星球，開發定制外包
  * [chapyter](https://github.com/chapyter/chapyter) - 輸入：Chapyter：在Jupyter筆記本中的ChatGPT代碼解釋器
 輸出：
+ * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - 🤖️ 基於 Golang + Vue3 + NaiveUI 的全新 ChatGPT-Midjourney 的 AIGC 應用
+ * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定義定時任務的chatgpt-on-wechat插件
+ * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 輸入：chatgpt-mirror-server快速部署庫文件
+輸出：
+ * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ 使用🤖 ChatGPT 生成並預覽 ⚛️ React 元件
 
 
 |Name|GitHub Stars|Language|License|
@@ -2039,5 +2044,9 @@ add chatgpt to your groupchats:
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 |[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
 |[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
+|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
+|[timetask](https://github.com/haikerapples/timetask)|![GitHub Repo stars](https://img.shields.io/github/stars/haikerapples/timetask?style=social)|Python|mit|
+|[chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|![GitHub Repo stars](https://img.shields.io/github/stars/xyhelper/chatgpt-mirror-server-deploy?style=social)|Shell|-|
+|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/XD2Sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
 
 

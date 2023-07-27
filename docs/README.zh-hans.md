@@ -15,26 +15,22 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - 一个支持插件的聊天GPT.
+**CLIs**
+ * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨用程序员方法打开ChatGPT!GPT终端是一个平台,允许您在终端中与GPT通信.
 
 
-**Langchain**
- * [MedicalGPT](https://github.com/shibing624/medicalgpt) - 医疗GPT:与ChatGPT培训管道培训您自己的医疗GPT模型. 训练医疗大模型,实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
- * [rag-stack](https://github.com/psychic-api/rag-stack) - 部署一个在您的VPC内托管的私有ChatGPT替代方案. 将其连接到您的组织的知识库并使用它作为企业神. 支持Llama 2,Falcon和GPT4All等开源LLM.
- * [opencompass](https://github.com/internlm/opencompass) - 开放式电路盘是一个LLM评估平台,支持50多个数据集的各种模型 (LLaMA,LLaMa2,ChatGLM2,ChatGPT,Claude等).
-
-
-**Openai**
- * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - 云反向代理 OpenAI/ChatGPT 免翻墙代理 github免翻墙代理 github下载加速代理 谷歌代理 云万能代理
+**NLP**
+ * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - 一个比ChatGPT更好的本地化开源AI服务器.
 
 
 **Others**
- * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总41个Chatgpt商业版及提供更多的变现方式,商业源码程序,账号API道,支付收款道,服务器道,课程配套服务,CHATGPT知识星球,开发定制外包
- * [chapyter](https://github.com/chapyter/chapyter) - 章节:Jupyter笔记本中的ChatGPT代码解释器
+ * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - ️ 基于Golang + Vue3 + NaiveUI 的全新聊天GPT-Midjourney 的 AIGC 应用程序
+ * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定义定时任务的聊天插件
+ * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 聊天gpt-镜像服务器快速部署库文件
+ * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ️生成和预览 ️使用 ChatGPT 生成和预览 React 组件
 
 
-_Updated on July 26, 2023_ (A total of 916 repositories listed.)
+_Updated on July 28, 2023_ (A total of 922 repositories listed.)
 
 ## Table of contents
 
@@ -773,6 +769,7 @@ ChatGPT资料汇总学习，持续更新......
  * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - 🐝 Wasp- 立即开始使用包含社交/电子邮件登录、GPT/Stripe集成、cron作业等功能的SaaS模板 → 超快速启动⚡️- `wasp db` CLI命令也是一个很好的功能，可以立即在后台启动本地的Postgres数据库。
  * [openai-cli](https://github.com/janlay/openai-cli) - 一个用BASH编写的OpenAI通用命令行界面。
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 一个智能且多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。
+ * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ 以程序员的方式打开ChatGPT！GPT终端是一个平台，允许您在终端中与GPT进行通信。
 
 
 |Name|GitHub Stars|Language|License|
@@ -854,6 +851,7 @@ ChatGPT资料汇总学习，持续更新......
 |[SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/wasp-lang/SaaS-Template-GPT?style=social)|TypeScript|-|
 |[openai-cli](https://github.com/janlay/openai-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cli?style=social)|Shell|mit|
 |[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
+|[gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal)|![GitHub Repo stars](https://img.shields.io/github/stars/ltyzzzxxx/gpt-web-terminal?style=social)|TypeScript|apache-2.0|
 
 
 ## Reimplementations
@@ -1075,6 +1073,7 @@ ChatGPT资料汇总学习，持续更新......
 输出：
  * [dreamGPT](https://github.com/divergentai/dreamgpt) - 利用大型语言模型（LLMs）的幻觉进行以新颖性驱动的探索。
  * [lnchat](https://github.com/litch/lnchat) - 所以我做了一个东西 - LNChat。你将这个应用连接到你的节点，然后你可以用纯文本的方式向它提问，比如“我的最新通道是什么”，“给我展示一个通道摘要”。ChatGPT填补了这个空白。它很有趣，但并不是特别有用。至少现在还不是。
+ * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - 一个比ChatGPT更好的本地化开源AI服务器。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1220,6 +1219,7 @@ ChatGPT资料汇总学习，持续更新......
 |[GPT-Bargaining](https://github.com/franxyao/gpt-bargaining)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/GPT-Bargaining?style=social)|Jupyter Notebook|-|
 |[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/divergentai/dreamGPT?style=social)|Python|mit|
 |[lnchat](https://github.com/litch/lnchat)|![GitHub Repo stars](https://img.shields.io/github/stars/litch/lnchat?style=social)|Python|-|
+|[ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server)|![GitHub Repo stars](https://img.shields.io/github/stars/cgisky1980/ai00_rwkv_server?style=social)|CSS|mit|
 
 
 ## Langchain
@@ -1329,7 +1329,7 @@ ChatGPT资料汇总学习，持续更新......
 |[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
 |[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
 |[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
-|[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/opencompass?style=social)|Python|apache-2.0|
+|[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1792,6 +1792,11 @@ Chat酱独立部署版，docker方案自带代理
  * [leetcode](https://github.com/azl397985856/leetcode) - 推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode题解：记录自己的问题解决之旅。
  * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 已汇总41个Chatgpt商业版及提供更多的变现方式，商业源码程序，账号API渠道，支付收款渠道，服务器渠道，课程配套服务，CHATGPT知识星球，开发定制外包。
  * [chapyter](https://github.com/chapyter/chapyter) - Chapyter：Jupyter Notebooks中的ChatGPT代码解释器
+ * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - 🤖️ 基于 Golang + Vue3 + NaiveUI 的全新 ChatGPT-Midjourney 的 AIGC 应用
+ * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定义定时任务的chatgpt-on-wechat插件
+ * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 输入：chatgpt-mirror-server快速部署库文件
+输出：chatgpt-mirror-server快速部署库文件
+ * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ 使用🤖 ChatGPT 生成并预览 ⚛️ React 组件
 
 
 |Name|GitHub Stars|Language|License|
@@ -2029,5 +2034,9 @@ Chat酱独立部署版，docker方案自带代理
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 |[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
 |[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
+|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
+|[timetask](https://github.com/haikerapples/timetask)|![GitHub Repo stars](https://img.shields.io/github/stars/haikerapples/timetask?style=social)|Python|mit|
+|[chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|![GitHub Repo stars](https://img.shields.io/github/stars/xyhelper/chatgpt-mirror-server-deploy?style=social)|Shell|-|
+|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/XD2Sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
 
 

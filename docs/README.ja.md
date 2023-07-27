@@ -15,27 +15,23 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - プラグインをサポートするChatGPTです。TG: https://t.me/+bIZncGryj_85MjYx
+**CLIs**
+ * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ プログラマーのアプローチでChatGPTを開く！ GPT Terminalは、ターミナルでGPTとコミュニケーションを取ることができるプラットフォームです。
 
 
-**Langchain**
- * [MedicalGPT](https://github.com/shibing624/medicalgpt) - MedicalGPT: ChatGPTトレーニングパイプラインを使用して独自の医療GPTモデルをトレーニングする。二次プレトレーニング、教師あり微調整、報酬モデリング、強化学習トレーニングを含む。
- * [rag-stack](https://github.com/psychic-api/rag-stack) - 入力：🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。
- * [opencompass](https://github.com/internlm/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
-
-
-**Openai**
- * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ
+**NLP**
+ * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - ChatGPTよりも優れたローカライズされたオープンソースのAIサーバー。
 
 
 **Others**
- * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 入力：Chatgptビジネス版はすでに41個集められ、さらに収益化方法、ビジネスのソースコードプログラム、アカウントAPIチャネル、支払い受け取りチャネル、サーバーチャネル、コースのサポートサービス、CHATGPT知識の星、開発カスタマイズの外注を提供しています。
- * [chapyter](https://github.com/chapyter/chapyter) - 入力：Chapyter：JupyterノートブックでのChatGPTコードインタープリター
+ * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - 🤖️ Golang + Vue3 + NaiveUI をベースにした新しい ChatGPT-Midjourney の AIGC アプリ
+ * [timetask](https://github.com/haikerapples/timetask) - 出力：自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン
+ * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 入力：chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル
 出力：
+ * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ ChatGPTで⚛️ Reactコンポーネントを生成してプレビューする 🤖
 
 
-_Updated on July 26, 2023_ (A total of 916 repositories listed.)
+_Updated on July 28, 2023_ (A total of 922 repositories listed.)
 
 ## Table of contents
 
@@ -783,6 +779,7 @@ aiderはターミナルで動作するGPTパワードのコーディングです
  * [openai-cli](https://github.com/janlay/openai-cli) - BASHで書かれたOpenAIのためのユニバーサルCLI。
 
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 データベース用の知識豊富で多機能な汎用SQLクライアントおよびレポートツールで、ChatGPTの機能も統合されています。
+ * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ プログラマーのアプローチでChatGPTを開く！ GPT Terminalは、ターミナルでGPTとコミュニケーションを取ることができるプラットフォームです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -864,6 +861,7 @@ aiderはターミナルで動作するGPTパワードのコーディングです
 |[SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/wasp-lang/SaaS-Template-GPT?style=social)|TypeScript|-|
 |[openai-cli](https://github.com/janlay/openai-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cli?style=social)|Shell|mit|
 |[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
+|[gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal)|![GitHub Repo stars](https://img.shields.io/github/stars/ltyzzzxxx/gpt-web-terminal?style=social)|TypeScript|apache-2.0|
 
 
 ## Reimplementations
@@ -1081,6 +1079,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - アーキブ2023のコード：自己対戦とAIフィードバックからのインコンテキスト学習による言語モデルの交渉の改善
  * [dreamGPT](https://github.com/divergentai/dreamgpt) - 大規模言語モデル（LLM）からの幻覚を利用して、新奇性に基づく探索を行います。
  * [lnchat](https://github.com/litch/lnchat) - だから、私はLNChatというものを作りました。このアプリをノードに接続すると、"最新のチャネルは何ですか？"や"チャネルの概要を表示してください"などの平文の質問をすることができます。ChatGPTがそのギャップを埋めます。それはかなり楽しいですが、まだあまり役に立ちません。まだですが。
+ * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - ChatGPTよりも優れたローカライズされたオープンソースのAIサーバー。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1226,6 +1225,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[GPT-Bargaining](https://github.com/franxyao/gpt-bargaining)|![GitHub Repo stars](https://img.shields.io/github/stars/franxyao/GPT-Bargaining?style=social)|Jupyter Notebook|-|
 |[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/divergentai/dreamGPT?style=social)|Python|mit|
 |[lnchat](https://github.com/litch/lnchat)|![GitHub Repo stars](https://img.shields.io/github/stars/litch/lnchat?style=social)|Python|-|
+|[ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server)|![GitHub Repo stars](https://img.shields.io/github/stars/cgisky1980/ai00_rwkv_server?style=social)|CSS|mit|
 
 
 ## Langchain
@@ -1280,7 +1280,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 
  * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 「GPT-Producer」をご紹介します。デジタルピアノ、@OpenAI APIキー、そして#GPUを持って、アーティストになりましょう！ #musicgen #audiocraft #gpt @LangChainAI @MetaAI は、この可能性を実現するためのツールです！
  * [MedicalGPT](https://github.com/shibing624/medicalgpt) - MedicalGPT: ChatGPTトレーニングパイプラインを使用して独自の医療GPTモデルをトレーニングする。二次プレトレーニング、教師あり微調整、報酬モデリング、強化学習トレーニングを含む。
- * [rag-stack](https://github.com/psychic-api/rag-stack) - 入力：🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。
+ * [rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。
  * [opencompass](https://github.com/internlm/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
 
 
@@ -1336,7 +1336,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[gpt-producer](https://github.com/juankysoriano/gpt-producer)|![GitHub Repo stars](https://img.shields.io/github/stars/juankysoriano/gpt-producer?style=social)|Python|mit|
 |[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
 |[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
-|[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/opencompass?style=social)|Python|apache-2.0|
+|[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1790,9 +1790,14 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 
  * [poe-api](https://github.com/ading2210/poe-api) - QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。
  * [leetcode](https://github.com/azl397985856/leetcode) - 推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)
- * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - 入力：Chatgptビジネス版はすでに41個集められ、さらに収益化方法、ビジネスのソースコードプログラム、アカウントAPIチャネル、支払い受け取りチャネル、サーバーチャネル、コースのサポートサービス、CHATGPT知識の星、開発カスタマイズの外注を提供しています。
- * [chapyter](https://github.com/chapyter/chapyter) - 入力：Chapyter：JupyterノートブックでのChatGPTコードインタープリター
+ * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - Chatgptビジネス版はすでに41個集められ、さらに収益化方法、ビジネスのソースコードプログラム、アカウントAPIチャネル、支払い受け取りチャネル、サーバーチャネル、コースのサポートサービス、CHATGPT知識の星、開発カスタマイズの外注を提供しています。
+ * [chapyter](https://github.com/chapyter/chapyter) - Chapyter：JupyterノートブックでのChatGPTコードインタープリター
+
+ * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - 🤖️ Golang + Vue3 + NaiveUI をベースにした新しい ChatGPT-Midjourney の AIGC アプリ
+ * [timetask](https://github.com/haikerapples/timetask) - 出力：自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン
+ * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 入力：chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル
 出力：
+ * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ ChatGPTで⚛️ Reactコンポーネントを生成してプレビューする 🤖
 
 
 |Name|GitHub Stars|Language|License|
@@ -2030,5 +2035,9 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 |[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
 |[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
+|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
+|[timetask](https://github.com/haikerapples/timetask)|![GitHub Repo stars](https://img.shields.io/github/stars/haikerapples/timetask?style=social)|Python|mit|
+|[chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|![GitHub Repo stars](https://img.shields.io/github/stars/xyhelper/chatgpt-mirror-server-deploy?style=social)|Shell|-|
+|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/XD2Sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
 
 
