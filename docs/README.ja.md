@@ -25,13 +25,12 @@
 
 **Others**
  * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - 🤖️ Golang + Vue3 + NaiveUI をベースにした新しい ChatGPT-Midjourney の AIGC アプリ
- * [timetask](https://github.com/haikerapples/timetask) - 出力：自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン
- * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 入力：chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル
-出力：
+ * [timetask](https://github.com/haikerapples/timetask) - 自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン
+ * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ ChatGPTで⚛️ Reactコンポーネントを生成してプレビューする 🤖
 
 
-_Updated on July 28, 2023_ (A total of 922 repositories listed.)
+_Updated on July 29, 2023_ (A total of 922 repositories listed.)
 
 ## Table of contents
 
@@ -141,7 +140,6 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [ai-notes](https://github.com/sw-yx/ai-notes) - 新しいAIの開発に追いつくためのソフトウェアエンジニア向けのノート。lspace.swyx.ioのライティングや製品のブレストに役立つデータストアとして機能しますが、/Resourcesフォルダーの下にクリーンアップされた標準的な参照があります。
  * [squidgy-prompts](https://github.com/squidgyai/squidgy-prompts) - #langtwt の皆さん、#gpt3 / #chatgpt と言語学習に興味はありますか？私たちは、学習者がデッキを構築し、文をマイニングし、文法を修正し、単語ゲームをプレイするためのオープンソースのプロンプトセットをリリースしました。単独で使用することも、@squidgiesapp で使用することもできます。
  * [ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan) - ChatGPT DAN、Jailbreaksのプロンプト
-
  * [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - 研究作業のためのChatGPTの50のユースケース
  * [FinGPT](https://github.com/ai4finance-foundation/fingpt) - オープンファイナンスのためのオープンソース！革命を起こそう🔥
  * [aish](https://github.com/aishell-io/aish) - プロンプトとメッセージのためのローカルストレージを備えたChatGPT CLI。
@@ -171,7 +169,6 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 
 しかも、これはオープンソースです。
  * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ
-
  * [gpt-runner](https://github.com/nicepkg/gpt-runner) - ファイルとの会話！ AIプリセットを管理して実行しましょう！
 
 
@@ -585,7 +582,6 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - AIパワードポッドキャスト検索のためのListen Notes ChatGPTプラグイン。PodcastAPI.comとCloudflare Pagesによって提供されています。
  * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - このリポジトリには、ChatGPTとGitHub APIとの連携を可能にするプラグインが含まれています。GitHubのリポジトリに関する情報を取得することができます。具体的には、リポジトリの一覧、ブランチやファイルの情報、特定のファイルの内容などを取得することができます。
  * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。
-
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - もう一つのAI gitコミットプラグインですが、手動確認の必要はありません。
  * [openai-translator](https://github.com/openai-translator/openai-translator) - ChatGPT APIに基づく翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
  * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - プラグインをサポートするChatGPTです。TG: https://t.me/+bIZncGryj_85MjYx
@@ -777,7 +773,6 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 aiderはターミナルで動作するGPTパワードのコーディングです。
  * [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - 🐝 ワスプ- ソーシャル/メールログイン、GPT/Stripeの統合、cronジョブなどを含むSaaSテンプレートで即座に開始します⚡️- `wasp db` CLIコマンドも素敵な要素で、バックグラウンドでローカルのPostgresデータベースをすぐに開始します。
  * [openai-cli](https://github.com/janlay/openai-cli) - BASHで書かれたOpenAIのためのユニバーサルCLI。
-
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 データベース用の知識豊富で多機能な汎用SQLクライアントおよびレポートツールで、ChatGPTの機能も統合されています。
  * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ プログラマーのアプローチでChatGPTを開く！ GPT Terminalは、ターミナルでGPTとコミュニケーションを取ることができるプラットフォームです。
 
@@ -1277,7 +1272,6 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [eva](https://github.com/georgia-tech-db/eva) - よりシンプルで高速なAI搭載アプリケーションを構築するためのデータベースシステム
  * [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - 挺好奇ChatGPT那种流式出力、頑張ってPythonのLangChainを使って実装しました。コンソールとWeb3アプリケーションの非同期の流れるような出力をカバーしています。Pythonの非同期プログラミングはまだ深く学ぶ必要があります🧐コード👇ビデオ共有👇bilibili:   #LangChain #ChatGPT #OpenAI
  * [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - Streamlit、LangChain、オープンソースのLLMsを使用したDIY ChatGPT
-
  * [gpt-producer](https://github.com/juankysoriano/gpt-producer) - 「GPT-Producer」をご紹介します。デジタルピアノ、@OpenAI APIキー、そして#GPUを持って、アーティストになりましょう！ #musicgen #audiocraft #gpt @LangChainAI @MetaAI は、この可能性を実現するためのツールです！
  * [MedicalGPT](https://github.com/shibing624/medicalgpt) - MedicalGPT: ChatGPTトレーニングパイプラインを使用して独自の医療GPTモデルをトレーニングする。二次プレトレーニング、教師あり微調整、報酬モデリング、強化学習トレーニングを含む。
  * [rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。
@@ -1450,10 +1444,9 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。
  * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Next.js、OpenAI、およびSupabaseによって動力化された独自のカスタムChatGPTスタイルのドキュメント検索を構築するためのテンプレート。
  * [reliableGPT](https://github.com/berriai/reliablegpt) - OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。
- * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。 
- * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  
+ * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。
+ * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ
-
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - OpenAIとAnthropicモデルから、構造化され、完全に型付けされ、検証済みのJSON出力を取得してください。
  * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。
  * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ
@@ -1787,16 +1780,13 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [OpenELM](https://github.com/carperai/openelm) - 大規模モデルを通じた進化
  * [chatgpt-to-api](https://github.com/acheong08/chatgpt-to-api) - 高度なHTTPライブラリ
  * [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) - PlusアカウントまたはAPIを提供する、完全機能を備えたマルチユーザーChatGPTウェブシステム。
-
  * [poe-api](https://github.com/ading2210/poe-api) - QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。
  * [leetcode](https://github.com/azl397985856/leetcode) - 推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)
  * [chatgpt-business](https://github.com/garyvalue/chatgpt-business) - Chatgptビジネス版はすでに41個集められ、さらに収益化方法、ビジネスのソースコードプログラム、アカウントAPIチャネル、支払い受け取りチャネル、サーバーチャネル、コースのサポートサービス、CHATGPT知識の星、開発カスタマイズの外注を提供しています。
  * [chapyter](https://github.com/chapyter/chapyter) - Chapyter：JupyterノートブックでのChatGPTコードインタープリター
-
  * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - 🤖️ Golang + Vue3 + NaiveUI をベースにした新しい ChatGPT-Midjourney の AIGC アプリ
- * [timetask](https://github.com/haikerapples/timetask) - 出力：自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン
- * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 入力：chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル
-出力：
+ * [timetask](https://github.com/haikerapples/timetask) - 自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン
+ * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ ChatGPTで⚛️ Reactコンポーネントを生成してプレビューする 🤖
 
 

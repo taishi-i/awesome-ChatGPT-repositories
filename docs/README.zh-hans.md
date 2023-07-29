@@ -30,7 +30,7 @@
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ️生成和预览 ️使用 ChatGPT 生成和预览 React 组件
 
 
-_Updated on July 28, 2023_ (A total of 922 repositories listed.)
+_Updated on July 29, 2023_ (A total of 922 repositories listed.)
 
 ## Table of contents
 
@@ -105,7 +105,7 @@ ChatGPT资料汇总学习，持续更新......
  * [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - 应用LLM到机器人的社区和集成ChatGPT的机器人模拟器。
  * [chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine) - @realtimeai 几周前有人试图使用chatgpt制作一个自我改进的提示。它只用了11代就崩溃成了一种病态模式。
  * [blender_jarvis](https://github.com/dene33/blender_jarvis) - 通过ChatGPT的文本提示控制Blender
- * [Promptify](https://github.com/promptslab/promptify) - 输入：Prompt Engineering | 使用GPT或其他基于提示的模型获取结构化输出。加入我们的Discord，了解Prompt-Engineering、LLMs和其他最新研究。
+ * [Promptify](https://github.com/promptslab/promptify) - Prompt Engineering | 使用GPT或其他基于提示的模型获取结构化输出。加入我们的Discord，了解Prompt-Engineering、LLMs和其他最新研究。
  * [SchemaGPT](https://github.com/u-hubar/schemagpt) - 使用GPT-3魔法的Python库，用于从提示生成RDF模式🪄🪄🪄
  * [CaFo](https://github.com/zrrskywalker/cafo) - [CVPR 2023] 快速生成并缓存：基础模型级联使得强大的少样本学习者
  * [gpt3-interview-bot](https://github.com/promptable/gpt3-interview-bot) - GPT3面试聊天机器人
@@ -127,16 +127,16 @@ ChatGPT资料汇总学习，持续更新......
  * [prompt-engine](https://github.com/microsoft/prompt-engine) - 使用Figma创建应用程序
  * [ChatGPT-Siri](https://github.com/yue-yang/chatgpt-siri) - 使用ChatGPT API gpt-3.5-turbo和gpt-4模型的Siri快捷方式，支持连续对话，配置API密钥和保存聊天记录。配置系统提示。
  * [The-HustleGPT-Challenge](https://github.com/jtmuller5/the-hustlegpt-challenge) - 与AI联合创始人一起打造创业公司
- * [docsgpt](https://github.com/arc53/docsgpt) - 输入：通过微调创建小模型：-：-：-工程：-后见之明提示链-
+ * [docsgpt](https://github.com/arc53/docsgpt) - 通过微调创建小模型：-：-：-工程：-后见之明提示链-
  * [chatgpt-prompts](https://github.com/carterleffen/chatgpt-prompts) - 这里是我创建并想分享的提示。
  * [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/chatgpt-data-science-prompts) - ChatGPT的60个有用的数据科学提示存储库
- * [CWK-ChatGPT-MidJourney-Prompt-Template](https://github.com/neobundy/cwk-chatgpt-midjourney-prompt-template) - 输入：cwk-chatgpt-midjourney-prompt-template v1.2可能是最后一个版本：支持23种提示类型。我将采用面向对象的方法进行完全重写。它将与chatgpt更好地配合使用。仓库中有一个1.2轻量级分支，删除了一些...
+ * [CWK-ChatGPT-MidJourney-Prompt-Template](https://github.com/neobundy/cwk-chatgpt-midjourney-prompt-template) - cwk-chatgpt-midjourney-prompt-template v1.2可能是最后一个版本：支持23种提示类型。我将采用面向对象的方法进行完全重写。它将与chatgpt更好地配合使用。仓库中有一个1.2轻量级分支，删除了一些...
  * [chatgpt-prompts-bug-bounty](https://github.com/taksec/chatgpt-prompts-bug-bounty) - ChatGPT 提供漏洞赏金和渗透测试提示。
  * [Share-to-ChatGPT-Shortcut](https://github.com/reorx/share-to-chatgpt-shortcut) - 一个苹果快捷方式，可以使用个性化提示将文本分享到ChatGPT。
  * [ChatGPT-Prompts](https://github.com/prathamkumar14/chatgpt-prompts) - 人工智能正在慢慢接管。以下是一些使用ChatGPT/API提示，可帮助您释放100％的生产力。
  * [soren](https://github.com/jacksonmills/soren) - SorenCAI是一款人工智能软件工程师助手提示。
  * [chatbot-injections-exploits](https://github.com/cranot/chatbot-injections-exploits) - 聊天机器人注入和利用示例：一份策划的工程师命令列表 - ChatGPT
- * [ai-notes](https://github.com/sw-yx/ai-notes) - 输入：软件工程师了解新的人工智能发展的笔记。作为 lspace.swyx.io 写作和产品头脑风暴的数据存储，但在 /资源文件夹下整理了干净的规范参考资料。
+ * [ai-notes](https://github.com/sw-yx/ai-notes) - 软件工程师了解新的人工智能发展的笔记。作为 lspace.swyx.io 写作和产品头脑风暴的数据存储，但在 /资源文件夹下整理了干净的规范参考资料。
  * [squidgy-prompts](https://github.com/squidgyai/squidgy-prompts) - 有没有#langtwt的人对#gpt3 / #chatgpt和语言学习感兴趣？我们刚刚发布了一组开源提示，帮助学习者构建卡组、挖掘句子、纠正语法、玩单词游戏等等。可以单独使用或在@squidgiesapp中使用。
  * [ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan) - ChatGPT DAN，越狱提示
  * [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - ChatGPT的50个用例研究工作
@@ -161,8 +161,8 @@ ChatGPT资料汇总学习，持续更新......
  * [DemoGPT](https://github.com/melih-unsal/demogpt) - ⚡ DemoGPT 可以通过简单的提示帮助您创建快速演示。⚡ 🌟 点赞支持我们的工作！
  * [text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - 使用ChatGPT通过文本提示即时生成的Neovim配色方案
  * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 介绍 `gpt-prompt-engineer` ✍️ 一个能够创建最佳 GPT 提示的代理。只需描述任务，一系列 AI 系统将会：- 生成许多可能的提示- 在排名比赛中测试它们- 返回最佳提示。而且它是开源的：
- * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - 输入：来自DeepLearning.ai的ChatGPT Prompt Engineering for Developers的笔记总结
-输出：ChatGPT Prompt Engineering for Developers的笔记总结
+ * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - 来自DeepLearning.ai的ChatGPT Prompt Engineering for Developers的笔记总结
+ChatGPT Prompt Engineering for Developers的笔记总结
  * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 与您的文件对话！管理和运行您的AI预设！
 
 
@@ -340,9 +340,9 @@ ChatGPT资料汇总学习，持续更新......
  * [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 一个使用Python编写的Telegram机器人，集成了OpenAI官方的ChatGPT API，可以提供答案。
  * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - 由Vercel Labs构建的全功能、可黑客的Next.js AI聊天机器人
  * [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - 🕶️ 为ChatGPT添加聊天自动清除功能，提供更多隐私保护。
- * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - 输入：🖥️ 为ChatGPT添加宽屏和全屏模式，以提供更好的观看体验。
+ * [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - 🖥️ 为ChatGPT添加宽屏和全屏模式，以提供更好的观看体验。
  * [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ∞ 从全知的ChatGPT（以任何语言）生成无尽的答案！
- * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - 输入：↻ 保持ChatGPT会话的新鲜度以避免网络错误+ Cloudflare检查
+ * [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ↻ 保持ChatGPT会话的新鲜度以避免网络错误+ Cloudflare检查
  * [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - 🤖 利用ChatGPT的惊人能力或增强其用户体验的应用程序
  * [embedchain](https://github.com/embedchain/embedchain) - 使用框架轻松创建基于任何数据集的LLM强化机器人。
  * [paper-summarizer](https://github.com/discus0434/paper-summarizer) - 一个由OpenAI LLMs驱动的用于总结arXiv论文的Slack机器人。
@@ -486,8 +486,8 @@ ChatGPT资料汇总学习，持续更新......
  * [Agent-LLM](https://github.com/josh-xt/agent-llm) - 一个人工智能自动化平台。支持来自各种提供商的AI指令管理，具有自适应记忆和多功能插件系统，包括网页浏览等多个命令。支持许多AI提供商和模型，并每天增加支持。
  * [web-llm](https://github.com/mlc-ai/web-llm) - 将大型语言模型和聊天引入到Web浏览器中。一切都在浏览器内运行，无需服务器支持。
  * [langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin) - "Langchain作为AI插件"🔥-超酷。@hwchase17 @langchainai 这就像给#chatgpt超能力，因为它现在可以轻松地使用Langchain组件（代理、链等）作为插件。这个仓库将很快扩大规模。例如：检索QA链作为插件。
- * [plugins-quickstart](https://github.com/openai/plugins-quickstart) - 输入：在不到5分钟内启动ChatGPT插件！
-输出：在不到5分钟内启动ChatGPT插件！
+ * [plugins-quickstart](https://github.com/openai/plugins-quickstart) - 在不到5分钟内启动ChatGPT插件！
+在不到5分钟内启动ChatGPT插件！
  * [dangermode](https://github.com/rgbkrk/dangermode) - Dangermode是一个使用Python和FastAPI编写的ChatGPT插件，它允许ChatGPT在IPython会话中执行代码片段。
  * [examples](https://github.com/pinecone-io/examples) - 如果你对如何开发chatgpt插件感兴趣，推荐看一下这个视频，完整的介绍了：1. 什么是chatgpt插件2. 如何开发一个langchain文档查询的chatgpt插件3. 如何安装调试chatgpt插件视频：：
  * [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - 一个浏览器扩展，可以让你从任何本地Jupyter笔记本与ChatGPT聊天。
@@ -571,10 +571,10 @@ ChatGPT资料汇总学习，持续更新......
  * [kaguya](https://github.com/ykdojo/kaguya) - 一个ChatGPT插件，可以以受控方式加载和编辑本地文件，以及运行任何Python、JavaScript和bash脚本。
  * [duckduckgpt](https://github.com/kudoai/duckduckgpt) - 🐤 DuckDuckGo 插件将 ChatGPT 的魔力带到搜索结果中（由 GPT-4 提供动力！）
  * [bravegpt](https://github.com/kudoai/bravegpt) - 🦁 勇敢搜索插件将ChatGPT的魔力带到搜索结果中（由GPT-4提供动力！）
- * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - 输入：Listen Notes ChatGPT插件，用于基于人工智能的播客搜索。由PodcastAPI.com和Cloudflare Pages提供支持。
+ * [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - Listen Notes ChatGPT插件，用于基于人工智能的播客搜索。由PodcastAPI.com和Cloudflare Pages提供支持。
  * [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - 这个仓库包含一个与GitHub API交互的ChatGPT插件。它可以获取关于GitHub仓库的信息，包括仓库列表、仓库中的分支和文件，以及特定文件的内容。
- * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 输入：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。
-输出：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。
+ * [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - 使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。
+使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 又一个AI git提交插件，但无需手动确认。
  * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。
  * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - 一个支持插件的ChatGPT。TG：https://t.me/+bIZncGryj_85MjYx
@@ -729,8 +729,7 @@ ChatGPT资料汇总学习，持续更新......
  * [aichat](https://github.com/sigoden/aichat) - 在终端中使用ChatGPT/GPT-3.5/GPT-4。
  * [rusty](https://github.com/zahidkhawaja/rusty) - GPT-3 动力的 CLI 工具，帮助您记住 bash 命令。
  * [cligpt](https://github.com/schneiderfelipe/cligpt) - cligpt是一个命令行界面，用于与OpenAI的ChatGPT API进行交互。
- * [ata](https://github.com/rikhuijzer/ata) - 输入：在终端中询问任何事情（ATA）：在终端中输入ChatGPT
-输出：
+ * [ata](https://github.com/rikhuijzer/ata) - 在终端中询问任何事情（ATA）：在终端中输入ChatGPT
  * [acli](https://github.com/jseguillon/acli) - 辅助命令行，由Open AI的API提供动力
  * [openaigo](https://github.com/otiai10/openaigo) - OpenAI GPT3/3.5 ChatGPT API Go客户端库，简单、依赖少、经过充分测试。
  * [cligpt](https://github.com/paij0se/cligpt) - 在终端中的ChatGPT
@@ -744,9 +743,7 @@ ChatGPT资料汇总学习，持续更新......
  * [slickgpt](https://github.com/shipbit/slickgpt) - SlickGPT是一个轻量级的“使用自己的API密钥”的Web客户端，用Svelte编写，用于OpenAI API。它提供了GPT-4集成、无用户分享功能和其他超级功能。
  * [chatgpt-ui](https://github.com/wongsaang/chatgpt-ui) - 一个支持多用户、多数据库连接进行持久化数据存储、支持i18n的ChatGPT Web客户端。提供Docker镜像和快速部署脚本。
  * [openai-java](https://github.com/theokanning/openai-java) - Java中的OpenAI GPT-3 Api客户端
- * [hfuzz](https://github.com/thehlopster/hfuzz) - 输入：用于网络模糊测试的单词列表，由多个可靠来源制作，包括：我的渗透测试结果、git.rip、ChatGPT、Lex、核心模板、网络扫描器、seclist、bo0m等等。
-
-输出：
+ * [hfuzz](https://github.com/thehlopster/hfuzz) - 用于网络模糊测试的单词列表，由多个可靠来源制作，包括：我的渗透测试结果、git.rip、ChatGPT、Lex、核心模板、网络扫描器、seclist、bo0m等等。
  * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 掌握命令行，仅需一页
  * [auto-copilot-cli](https://github.com/rsaryev/auto-copilot-cli) - Auto Copilot是一个CLI工具，它使用OpenAI模型生成命令，以实现终端和文件系统操作的目标。
  * [DelphiOpenAI](https://github.com/hemulgm/delphiopenai) - Delphi的OpenAI API客户端。使用ChatGPT、DALL-E和其他产品。
@@ -925,8 +922,7 @@ ChatGPT资料汇总学习，持续更新......
 ## NLP
 
  * [BioGPT](https://github.com/microsoft/biogpt) - 微软研究院发布了Biogpt，这是一个在生物医学研究文献上训练的大型语言模型。该模型在回答生物医学文献问题方面表现优于人类，经过PubMedQA评估。该模型的代码…
- * [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - 输入：用于训练斯坦福大学Alpaca模型和生成数据的代码和文档。 
-输出：
+ * [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - 用于训练斯坦福大学Alpaca模型和生成数据的代码和文档。
  * [openai-python](https://github.com/openai/openai-python) - OpenAI Python 库为使用 Python 语言编写的应用程序提供方便的访问 OpenAI API 的方式。
  * [FlexGen](https://github.com/fminference/flexgen) - 在单个GPU上运行大型语言模型以实现吞吐量导向的场景。
  * [RWKV-LM](https://github.com/blinkdl/rwkv-lm) - RWKV是具有变压器级别LLM性能的RNN。它可以像GPT一样直接进行训练（可并行化）。因此，它结合了RNN和变压器的优点-出色的性能、快速推理、节省VRAM、快速训练、“无限”ctx_len和免费的句子嵌入。
@@ -946,8 +942,7 @@ ChatGPT资料汇总学习，持续更新......
  * [self-instruct](https://github.com/yizhongw/self-instruct) - 将预训练语言模型与自身生成的指令数据对齐。
  * [knowledge_gpt](https://github.com/mmz-001/knowledge_gpt) - 您的文件将获得准确的答案和即时引用。
  * [lqae](https://github.com/lhao499/lqae) - 语言量化自编码器
- * [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca#fine-tuning) - 输入：用于训练斯坦福大学Alpaca模型和生成数据的代码和文档。 
-输出：
+ * [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca#fine-tuning) - 用于训练斯坦福大学Alpaca模型和生成数据的代码和文档。
  * [fib](https://github.com/r-three/fib) - “bloom”、“opt-175b”、“t0”和“gpt-neox”是否“事实上一致”？新的预印本！我们介绍了“事实不一致基准测试”（FIB），并评估了23个LLM。与@anisham197 @byryuer @mohitban47 @colinraffel一起完成的工作📄 💾 🧵 ⬇️
  * [petals](https://github.com/bigscience-workshop/petals) - 🌸 在家运行100B+语言模型，类似于BitTorrent。微调和推理速度比卸载快10倍。
  * [emailGPT](https://github.com/lucasmccabe/emailgpt) - 使用ChatGPT快速轻松生成电子邮件的界面
@@ -988,9 +983,7 @@ ChatGPT资料汇总学习，持续更新......
  * [gpt-commit-summarizer](https://github.com/kanhari/gpt-commit-summarizer) - 基于GPT的工具，可以为您编写提交信息。
  * [tesseract.js](https://github.com/naptha/tesseract.js) - 超过100种语言的纯JavaScript OCR 📖🎉🖥
  * [subtitle-translator](https://github.com/gnehs/subtitle-translator) - 使用ChatGPT翻译字幕
- * [vault-ai](https://github.com/pashpashpash/vault-ai) - 输入：OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）为ChatGPT提供长期记忆。使用简单的React前端上传自己的自定义知识库文件（PDF、txt等）。
-
-输出：
+ * [vault-ai](https://github.com/pashpashpash/vault-ai) - OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）为ChatGPT提供长期记忆。使用简单的React前端上传自己的自定义知识库文件（PDF、txt等）。
  * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - 使用人工智能将代码从一种语言翻译成另一种语言。
  * [chatgpt-i18n](https://github.com/observedobserver/chatgpt-i18n) - 使用AI辅助翻译您的本地化JSON文件。
  * [flux](https://github.com/transmissions11/flux) - LLM 电动工具
@@ -1069,8 +1062,7 @@ ChatGPT资料汇总学习，持续更新......
  * [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - 一个高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI Similarity Search）索引来索引和搜索PDF文本数据，旨在实现快速信息检索和卓越的搜索准确性。
  * [SuperAGI](https://github.com/transformeroptimus/superagi) - <⚡️> SuperAGI - 一个以开发者为中心的开源自主人工智能代理框架。使开发者能够快速可靠地构建、管理和运行有用的自主代理。
  * [OpenLLM](https://github.com/bentoml/openllm) - 在生产中运行LLMs
- * [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - 输入：Arxiv 2023年的代码：通过自我对弈和从AI反馈中学习来改进语言模型的谈判能力
-输出：
+ * [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - Arxiv 2023年的代码：通过自我对弈和从AI反馈中学习来改进语言模型的谈判能力
  * [dreamGPT](https://github.com/divergentai/dreamgpt) - 利用大型语言模型（LLMs）的幻觉进行以新颖性驱动的探索。
  * [lnchat](https://github.com/litch/lnchat) - 所以我做了一个东西 - LNChat。你将这个应用连接到你的节点，然后你可以用纯文本的方式向它提问，比如“我的最新通道是什么”，“给我展示一个通道摘要”。ChatGPT填补了这个空白。它很有趣，但并不是特别有用。至少现在还不是。
  * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - 一个比ChatGPT更好的本地化开源AI服务器。
@@ -1377,9 +1369,9 @@ ChatGPT资料汇总学习，持续更新......
  * [Auto-GPT](https://github.com/significant-gravitas/auto-gpt) - 一个试图让GPT-4完全自主的实验性开源尝试。
  * [openai_tools](https://github.com/alleninstitute/openai_tools) - 使用ChatGPT API探索PDF出版物的脚本集正在增长。
  * [openai-cookbook](https://github.com/openai/openai-cookbook) - 使用OpenAI API的示例和指南
- * [disco-diffusion](https://github.com/alembics/disco-diffusion) - 输入：openai开发的ai模型目前比较知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天为大家更新5个好用的ai算法模型学习渠道1、神力中文ai算法市场：、disco-diffusion型：、百度文心ernie-vilg：
+ * [disco-diffusion](https://github.com/alembics/disco-diffusion) - openai开发的ai模型目前比较知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天为大家更新5个好用的ai算法模型学习渠道1、神力中文ai算法市场：、disco-diffusion型：、百度文心ernie-vilg：
 
-输出：openai开发的AI模型目前比较知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天为大家更新5个好用的AI算法模型学习渠道，包括：1、神力中文AI算法市场；2、disco-diffusion型；3、百度文心ernie-vilg。
+openai开发的AI模型目前比较知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天为大家更新5个好用的AI算法模型学习渠道，包括：1、神力中文AI算法市场；2、disco-diffusion型；3、百度文心ernie-vilg。
  * [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac，常驻在您的菜单栏中。
  * [everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - :mag: 探索ChatGPT网络应用程序(chat.openai.com)的内部运作，当然还有一些猜测。
  * [userscripts](https://github.com/adamlui/userscripts) - 🐵 MTurk、ChatGPT和其他Greasemonkey用户脚本。
@@ -1417,8 +1409,8 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [ChatGptNet](https://github.com/marcominerva/chatgptnet) - 一个用于.NET的ChatGPT集成库
  * [Simple-ChatGPT-API-Desktop](https://github.com/cranot/simple-chatgpt-api-desktop) - 桌面版简易ChatGPT API
  * [openai-gpt-dev-notes-for-cn-developer](https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer) - 如何快速开发一个OpenAI/GPT应用：国内开发者笔记
- * [cheetah](https://github.com/leetcode-mafia/cheetah) - 输入：Whisper和基于GPT的应用程序，用于通过远程SWE面试
-输出：Whisper和基于GPT的应用程序，用于通过远程SWE面试
+ * [cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper和基于GPT的应用程序，用于通过远程SWE面试
+Whisper和基于GPT的应用程序，用于通过远程SWE面试
  * [ChatGPTSwift](https://github.com/alfianlosari/chatgptswift) - 使用Swift访问ChatGPT API
  * [nitmgpt](https://github.com/deskbtm/nitmgpt) - nitmgpt（中间通知GPT）。通过ChatGPT过滤广告或垃圾通知。
  * [iChatGPT](https://github.com/37ios/ichatgpt) - OpenAI ChatGPT SwiftUI 应用程序适用于 iOS、iPadOS 和 macOS。
@@ -1428,7 +1420,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [subvert](https://github.com/aschmelyun/subvert) - 在几秒钟内从视频中生成字幕、摘要和章节
  * [carrot](https://github.com/xx025/carrot) - 免费ChatGPT站点列表，包含100+个镜像站点，方便使用。
  * [impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt) - OpenAI的chatgpt收集了许多令人印象深刻和有用的结果。
- * [bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt) - 输入：bbfuzzing.txt
+ * [bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt) - bbfuzzing.txt
 这是一个独特的词汇表，其中70%是由openai chatgpt生成的，剩下的30%是来自bo0om、circuit和其他bugbounters的字典编译而成。#chatgpt
  * [chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt) - 通过 GitHub 问题评论与 ChatGPT 聊天。
  * [ChatGPT](https://github.com/hemulgm/chatgpt) - ChatGPT 本地桌面应用程序（Windows、Mac、Android、iOS 和 Linux）
@@ -1449,13 +1441,13 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - 在Obsidian中使用笔记进行聊天！此外，实时查看最相关的内容！互动并保持组织。由OpenAI ChatGPT、GPT-4和嵌入式技术提供支持。
  * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - 使用Next.js、OpenAI和Supabase构建自定义ChatGPT风格文档搜索的模板。
  * [reliableGPT](https://github.com/berriai/reliablegpt) - 从OpenAI获得100%的正常运行时间和可靠性。处理速率限制、超时、API和密钥错误。
- * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 输入：中身并不重要，但作为地方政府的努力是非常有趣的。Azure OpenAI——这个存储库是为了将在神户市政府进行ChatGPT试用的流程等转化为解决方案并公开而创建的。
+ * [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - 中身并不重要，但作为地方政府的努力是非常有趣的。Azure OpenAI——这个存储库是为了将在神户市政府进行ChatGPT试用的流程等转化为解决方案并公开而创建的。
  * [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - 日本微软发布了GPT的参考架构。基于日语的场景的示例实现应有尽有！如果掌握了这个存储库，会有很多进展。有日志和认证等功能真是太好了。~示例列表~1. 面向呼叫中心的GPT助手...
  * [iChatGPT](https://github.com/37mobileteam/ichatgpt) - OpenAI ChatGPT SwiftUI 应用程序适用于 iOS、iPadOS 和 macOS。
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - 从OpenAI和Anthropic模型中获取结构化、完全类型化和经过验证的JSON输出。
  * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI蜂巢，基于Java使用Spring Boot 3和JDK 17，支持的功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等。
- * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - 输入：cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理
-输出：cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理
+ * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理
+cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理
 
 
 |Name|GitHub Stars|Language|License|
@@ -1587,8 +1579,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [go-gpt3](https://github.com/sashabaranov/go-gpt3) - Python接口到亚马逊网络服务
  * [talkGPT](https://github.com/chenyukang/talkgpt) - 一个简单的Python程序，可以帮助你与ChatGPT交流，练习口语英语...
  * [XX-Net](https://github.com/xx-net/xx-net) - 一个用于绕过GFW的代理工具。
- * [ida_gpt](https://github.com/mayerdaniel/ida_gpt) - 输入：将 #chatgpt 集成到 @hexrayssa 中，以评论 gpt 的功能描述，并为您重命名变量和函数名称的代码。
-输出：
+ * [ida_gpt](https://github.com/mayerdaniel/ida_gpt) - 将 #chatgpt 集成到 @hexrayssa 中，以评论 gpt 的功能描述，并为您重命名变量和函数名称的代码。
  * [pubmedgpt](https://github.com/stanford-crfm/pubmedgpt) - 机器学习训练效率的组合方法
  * [nanoGPT](https://github.com/karpathy/nanogpt?utm_source=tldrnewsletter) - 最简单、最快的中等规模GPT训练/微调存储库。
  * [slither](https://github.com/crytic/slither) - Solidity静态分析器
@@ -1644,7 +1635,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [monocle-rizz](https://github.com/acui51/monocle-rizz) - rizzGPT
  * [gptrpg](https://github.com/dzoba/gptrpg) - 一个基于GPT的代理程序在类似RPG的环境中的演示
  * [ChattyCaty](https://github.com/cyberark/chattycaty) - chattycaty - OSS工具，使用GPT模型创建多态程序。
- * [appwrite](https://github.com/appwrite/appwrite) - 输入：Web、移动和Flutter开发人员的安全后端服务器🚀，也称为100％开源的Firebase替代品。
+ * [appwrite](https://github.com/appwrite/appwrite) - Web、移动和Flutter开发人员的安全后端服务器🚀，也称为100％开源的Firebase替代品。
  * [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - 通过 wechaty 在微信上使用 ChatGPT
  * [roomGPT](https://github.com/nutlope/roomgpt) - 上传您房间的照片，使用人工智能生成您的梦想房间。
  * [noobnooc](https://github.com/noobnooc/noobnooc) - 我的个人资料、博客和主页（https://www.nooc.ink）的内容。
@@ -1668,7 +1659,7 @@ Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
  * [gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT 是由 Rust 过程宏驱动的编译时代码生成器。
  * [nofwl](https://github.com/lencx/nofwl) - NoFWL桌面应用程序
  * [gwipt](https://github.com/benwr/gwipt) - 使用GPT-3提交消息自动将所有编辑提交到wip分支。
- * [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - 输入：#8 chatgpt 用于 WhatsApp 和 Telegram将 chatgpt 添加到您的群聊中：• WhatsAppgpt：• Telegramgpt：
+ * [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - #8 chatgpt 用于 WhatsApp 和 Telegram将 chatgpt 添加到您的群聊中：• WhatsAppgpt：• Telegramgpt：
  * [chatgpt-web](https://github.com/869413421/chatgpt-web) - 基于ChatGPT3.5 API实现的私有化Web程序
  * [legitify](https://github.com/legit-labs/legitify) - 检测和纠正您所有 GitHub 和 GitLab 资产中的配置错误和安全风险。
  * [wechatgpt](https://github.com/houko/wechatgpt) - wechatgpt的golang版chatgpt机器人（可通过docker部署），目前支持wechat和telegram。
@@ -1760,8 +1751,7 @@ Chat酱独立部署版，docker方案自带代理
  * [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - ChatGPT是由Slack驱动的自动回复程序，用于回答与NearForm知识库相关的问题。
  * [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python包，可轻松与聊天应用程序进行接口交互，具有强大的功能和最小的代码复杂性。
  * [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - 指令调整稳定扩散的代码。
- * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 输入：指定您想要建造的内容，人工智能会要求澄清，并进行建造。
-输出：
+ * [gpt-engineer](https://github.com/antonosika/gpt-engineer) - 指定您想要建造的内容，人工智能会要求澄清，并进行建造。
  * [FalconStreaming](https://github.com/andrewgcodes/falconstreaming) - Falcon40B和7B（指令）具有流式传输、前k个结果和波束搜索。
  * [lightspeedGPT](https://github.com/andrewgcodes/lightspeedgpt) - 使用GPT4和GPT3.5处理无限大小的输入。使用多线程并行处理多个块，适用于命名实体识别、大型书籍、数据集等信息提取任务。
  * [bloop](https://github.com/bloopai/bloop) - bloop是一个用Rust编写的快速代码搜索引擎。
@@ -1794,8 +1784,8 @@ Chat酱独立部署版，docker方案自带代理
  * [chapyter](https://github.com/chapyter/chapyter) - Chapyter：Jupyter Notebooks中的ChatGPT代码解释器
  * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - 🤖️ 基于 Golang + Vue3 + NaiveUI 的全新 ChatGPT-Midjourney 的 AIGC 应用
  * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定义定时任务的chatgpt-on-wechat插件
- * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 输入：chatgpt-mirror-server快速部署库文件
-输出：chatgpt-mirror-server快速部署库文件
+ * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-server快速部署库文件
+chatgpt-mirror-server快速部署库文件
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ 使用🤖 ChatGPT 生成并预览 ⚛️ React 组件
 
 
