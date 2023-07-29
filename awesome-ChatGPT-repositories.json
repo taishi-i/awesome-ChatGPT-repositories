@@ -508,8 +508,8 @@
                 "multilingual_descriptions": {
                     "en": "creating small models with fine tuning:- :- :-  engineering:-   chain of hindsight promptint-",
                     "ja": "微調整を施した小さなモデルを作成する：エンジニアリング：後見プロンプトの連鎖-",
-                    "zh-hans": "输入：通过微调创建小模型：-：-：-工程：-后见之明提示链-",
-                    "zh-hant": "輸入：創建微調小模型：-：-：-工程：-後見之明提示鏈-"
+                    "zh-hans": "通过微调创建小模型：-：-：-工程：-后见之明提示链-",
+                    "zh-hant": "創建微調小模型：-：-：-工程：-後見之明提示鏈-"
                 }
             },
             "https://github.com/mpoon/gpt-repository-loader": {
@@ -672,9 +672,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "cwk-chatgpt-midjourney-prompt-template v1.2probably the last version: 23 prompt types supported.i will switch to an object oriented approach: a complete rewrite. it will work better with chatgpt.there's a 1.2 light branch in the repo dropping a few …",
-                    "ja": "入力：cwk-chatgpt-midjourney-prompt-template v1.2おそらく最後のバージョン：23のプロンプトタイプがサポートされています。オブジェクト指向のアプローチに切り替えます：完全な書き直しです。ChatGPTとの互換性が向上します。リポジトリに1.2ライトブランチがあり、いくつかの機能が削除されています...",
-                    "zh-hans": "输入：cwk-chatgpt-midjourney-prompt-template v1.2可能是最后一个版本：支持23种提示类型。我将采用面向对象的方法进行完全重写。它将与chatgpt更好地配合使用。仓库中有一个1.2轻量级分支，删除了一些...",
-                    "zh-hant": "輸入：cwk-chatgpt-midjourney-prompt-template v1.2可能是最後一個版本：支援23種提示類型。我將轉向面向對象的方法：進行完全重寫。這將與chatgpt更好地配合使用。存儲庫中有一個1.2輕量級分支，可以刪除一些..."
+                    "ja": "cwk-chatgpt-midjourney-prompt-template v1.2おそらく最後のバージョン：23のプロンプトタイプがサポートされています。オブジェクト指向のアプローチに切り替えます：完全な書き直しです。ChatGPTとの互換性が向上します。リポジトリに1.2ライトブランチがあり、いくつかの機能が削除されています...",
+                    "zh-hans": "cwk-chatgpt-midjourney-prompt-template v1.2可能是最后一个版本：支持23种提示类型。我将采用面向对象的方法进行完全重写。它将与chatgpt更好地配合使用。仓库中有一个1.2轻量级分支，删除了一些...",
+                    "zh-hant": "cwk-chatgpt-midjourney-prompt-template v1.2可能是最後一個版本：支援23種提示類型。我將轉向面向對象的方法：進行完全重寫。這將與chatgpt更好地配合使用。存儲庫中有一個1.2輕量級分支，可以刪除一些..."
                 }
             },
             "https://github.com/ferrislucas/promptr": {
@@ -735,9 +735,9 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "Prompt Engineering | Use GPT or other prompt based models to get structured output. Join our discord for Prompt-Engineering, LLMs and other latest research",
-                    "ja": "入力：Prompt Engineering | GPTや他のプロンプトベースのモデルを使用して構造化された出力を取得します。Prompt-Engineering、LLMs、およびその他の最新の研究については、私たちのDiscordに参加してください。\n\n出力：Prompt Engineering | GPTまたは他のプロンプトベースのモデルを使用して構造化された出力を取得します。Prompt-Engineering、LLMs、およびその他の最新の研究については、私たちのDiscordに参加してください。",
-                    "zh-hans": "输入：Prompt Engineering | 使用GPT或其他基于提示的模型获取结构化输出。加入我们的Discord，了解Prompt-Engineering、LLMs和其他最新研究。",
-                    "zh-hant": "輸入：Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸出。加入我們的Discord，了解Prompt-Engineering、LLMs和其他最新研究。\n\n輸出：Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸出。加入我們的Discord，了解Prompt-Engineering、LLMs和其他最新研究。"
+                    "ja": "Prompt Engineering | GPTや他のプロンプトベースのモデルを使用して構造化された出力を取得します。Prompt-Engineering、LLMs、およびその他の最新の研究については、私たちのDiscordに参加してください。\n\nPrompt Engineering | GPTまたは他のプロンプトベースのモデルを使用して構造化された出力を取得します。Prompt-Engineering、LLMs、およびその他の最新の研究については、私たちのDiscordに参加してください。",
+                    "zh-hans": "Prompt Engineering | 使用GPT或其他基于提示的模型获取结构化输出。加入我们的Discord，了解Prompt-Engineering、LLMs和其他最新研究。",
+                    "zh-hant": "Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸出。加入我們的Discord，了解Prompt-Engineering、LLMs和其他最新研究。\n\nPrompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸出。加入我們的Discord，了解Prompt-Engineering、LLMs和其他最新研究。"
                 }
             },
             "https://github.com/u-hubar/schemagpt": {
@@ -960,8 +960,8 @@
                 "multilingual_descriptions": {
                     "en": "notes for software engineers getting up to speed on new AI developments. Serves as datastore for lspace.swyx.io writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.",
                     "ja": "新しいAIの開発に追いつくためのソフトウェアエンジニア向けのノート。lspace.swyx.ioのライティングや製品のブレストに役立つデータストアとして機能しますが、/Resourcesフォルダーの下にクリーンアップされた標準的な参照があります。",
-                    "zh-hans": "输入：软件工程师了解新的人工智能发展的笔记。作为 lspace.swyx.io 写作和产品头脑风暴的数据存储，但在 /资源文件夹下整理了干净的规范参考资料。",
-                    "zh-hant": "輸入：軟體工程師快速掌握新人工智慧發展的筆記。作為 lspace.swyx.io 寫作和產品頭腦風暴的數據存儲庫，但在 /資源文件夾下整理了清理過的標準參考資料。"
+                    "zh-hans": "软件工程师了解新的人工智能发展的笔记。作为 lspace.swyx.io 写作和产品头脑风暴的数据存储，但在 /资源文件夹下整理了干净的规范参考资料。",
+                    "zh-hant": "軟體工程師快速掌握新人工智慧發展的筆記。作為 lspace.swyx.io 寫作和產品頭腦風暴的數據存儲庫，但在 /資源文件夾下整理了清理過的標準參考資料。"
                 }
             },
             "https://github.com/squidgyai/squidgy-prompts": {
@@ -994,7 +994,7 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "ChatGPT DAN, Jailbreaks prompt",
-                    "ja": "入力：ChatGPT DAN、Jailbreaksのプロンプト\n出力：",
+                    "ja": "ChatGPT DAN、Jailbreaksのプロンプト",
                     "zh-hans": "ChatGPT DAN，越狱提示",
                     "zh-hant": "ChatGPT DAN，越獄提示"
                 }
@@ -1513,7 +1513,7 @@
                     "en": "⚡ DemoGPT enables you to create quick demos by just using prompts. ⚡    🌟 Star to support our work!",
                     "ja": "⚡ DemoGPTは、プロンプトを使用するだけで簡単にクイックデモを作成することができます。⚡ 🌟 星をつけて私たちの活動をサポートしてください！",
                     "zh-hans": "⚡ DemoGPT 可以通过简单的提示帮助您创建快速演示。⚡ 🌟 点赞支持我们的工作！",
-                    "zh-hant": "輸入：⚡ DemoGPT 讓您只需使用提示即可創建快速演示。⚡ 🌟 點贊以支持我們的工作！"
+                    "zh-hant": "⚡ DemoGPT 讓您只需使用提示即可創建快速演示。⚡ 🌟 點贊以支持我們的工作！"
                 }
             },
             "https://github.com/svermeulen/text-to-colorscheme": {
@@ -1565,9 +1565,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "Notes summarized from ChatGPT Prompt Engineering for Developers by DeepLearning.ai",
-                    "ja": "入力：DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ\n出力：",
-                    "zh-hans": "输入：来自DeepLearning.ai的ChatGPT Prompt Engineering for Developers的笔记总结\n输出：ChatGPT Prompt Engineering for Developers的笔记总结",
-                    "zh-hant": "輸入：從DeepLearning.ai的「ChatGPT Prompt Engineering for Developers」摘要的筆記"
+                    "ja": "DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ",
+                    "zh-hans": "来自DeepLearning.ai的ChatGPT Prompt Engineering for Developers的笔记总结\nChatGPT Prompt Engineering for Developers的笔记总结",
+                    "zh-hant": "從DeepLearning.ai的「ChatGPT Prompt Engineering for Developers」摘要的筆記"
                 }
             },
             "https://github.com/nicepkg/gpt-runner": {
@@ -1594,7 +1594,7 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "Conversations with your files! Manage and run your AI presets!",
-                    "ja": "入力：ファイルとの会話！ AIプリセットを管理して実行しましょう！",
+                    "ja": "ファイルとの会話！ AIプリセットを管理して実行しましょう！",
                     "zh-hans": "与您的文件对话！管理和运行您的AI预设！",
                     "zh-hant": "與您的文件對話！管理和運行您的AI預設！"
                 }
@@ -1813,7 +1813,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "ChatGPT @ Home: Large Language Model (LLM) chatbot application, written by ChatGPT",
-                    "ja": "入力：ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM）チャットボットアプリケーション\n出力：ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM）チャットボットアプリケーション",
+                    "ja": "ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM）チャットボットアプリケーション\nChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM）チャットボットアプリケーション",
                     "zh-hans": "ChatGPT @ Home：大型语言模型（LLM）聊天机器人应用程序，由ChatGPT编写",
                     "zh-hant": "ChatGPT @ Home：由ChatGPT編寫的大型語言模型（LLM）聊天機器人應用程式。"
                 }
@@ -2010,7 +2010,7 @@
                     "en": "Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",
                     "ja": "Pythonで書かれたDiscordボットの例で、completions APIを使用して`text-davinci-003`モデルと会話し、moderations APIを使用してメッセージをフィルタリングします。",
                     "zh-hans": "使用Python编写的示例Discord机器人，使用完成API与“text-davinci-003”模型进行对话，并使用管理API过滤消息。",
-                    "zh-hant": "輸入：使用Python編寫的示例Discord機器人，使用完成API與“text-davinci-003”模型進行對話，並使用管理API過濾消息。\n輸出："
+                    "zh-hant": "使用Python編寫的示例Discord機器人，使用完成API與“text-davinci-003”模型進行對話，並使用管理API過濾消息。"
                 }
             },
             "https://github.com/askrella/whatsapp-chatgpt": {
@@ -2045,7 +2045,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot",
-                    "ja": "入力：WeChatのためのChatGPT https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+                    "ja": "WeChatのためのChatGPT https://github.com/AutumnWhj/ChatGPT-wechat-bot",
                     "zh-hans": "ChatGPT 微信版 https://github.com/AutumnWhj/ChatGPT-wechat-bot",
                     "zh-hant": "ChatGPT for 微信 https://github.com/AutumnWhj/ChatGPT-wechat-bot"
                 }
@@ -3761,8 +3761,8 @@
                 "multilingual_descriptions": {
                     "en": "🖥️ Adds Widescreen + Fullscreen modes to ChatGPT for enhanced viewing.",
                     "ja": "🖥️ チャットGPTのワイドスクリーン+フルスクリーンモードを追加して、視聴を向上させます。",
-                    "zh-hans": "输入：🖥️ 为ChatGPT添加宽屏和全屏模式，以提供更好的观看体验。",
-                    "zh-hant": "輸入：🖥️ 為ChatGPT新增了寬螢幕和全螢幕模式，以提供更好的觀賞體驗。"
+                    "zh-hans": "🖥️ 为ChatGPT添加宽屏和全屏模式，以提供更好的观看体验。",
+                    "zh-hant": "🖥️ 為ChatGPT新增了寬螢幕和全螢幕模式，以提供更好的觀賞體驗。"
                 }
             },
             "https://github.com/adamlui/chatgpt-infinity": {
@@ -3831,8 +3831,8 @@
                 "multilingual_descriptions": {
                     "en": "↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks",
                     "ja": "↻ ネットワークエラーやCloudflareのチェックを回避するために、ChatGPTセッションを新鮮に保ちます。",
-                    "zh-hans": "输入：↻ 保持ChatGPT会话的新鲜度以避免网络错误+ Cloudflare检查",
-                    "zh-hant": "輸入：↻ 保持ChatGPT會話的新鮮度，以避免網絡錯誤+ Cloudflare檢查"
+                    "zh-hans": "↻ 保持ChatGPT会话的新鲜度以避免网络错误+ Cloudflare检查",
+                    "zh-hant": "↻ 保持ChatGPT會話的新鮮度，以避免網絡錯誤+ Cloudflare檢查"
                 }
             },
             "https://github.com/adamlui/chatgpt-apps": {
@@ -3898,7 +3898,7 @@
                     "en": "Framework to easily create LLM powered bots over any dataset.",
                     "ja": "任意のデータセット上で簡単にLLMパワードボットを作成するためのフレームワーク。",
                     "zh-hans": "使用框架轻松创建基于任何数据集的LLM强化机器人。",
-                    "zh-hant": "輸入：一個能夠輕鬆在任何數據集上創建以LLM為動力的機器人的框架。\n輸出："
+                    "zh-hant": "一個能夠輕鬆在任何數據集上創建以LLM為動力的機器人的框架。"
                 }
             },
             "https://github.com/discus0434/paper-summarizer": {
@@ -5178,7 +5178,7 @@
                 "multilingual_descriptions": {
                     "en": "Get a ChatGPT plugin up and running in under 5 minutes!",
                     "ja": "5分以内にChatGPTプラグインを起動してください！",
-                    "zh-hans": "输入：在不到5分钟内启动ChatGPT插件！\n输出：在不到5分钟内启动ChatGPT插件！",
+                    "zh-hans": "在不到5分钟内启动ChatGPT插件！\n在不到5分钟内启动ChatGPT插件！",
                     "zh-hant": "在不到5分鐘內啟用ChatGPT插件！"
                 }
             },
@@ -5547,7 +5547,7 @@
                     "en": "ChatGPT plugin to get the current deals on PC games from multiple stores. Powered by Cheapshark",
                     "ja": "複数のストアからPCゲームの最新情報を取得するChatGPTプラグイン。Cheapsharkによって提供されます。",
                     "zh-hans": "使用ChatGPT插件，从多个商店获取PC游戏的最新优惠。由Cheapshark提供支持。",
-                    "zh-hant": "輸入：ChatGPT插件，可從多個商店獲取PC遊戲的最新優惠。由Cheapshark提供支持。"
+                    "zh-hant": "ChatGPT插件，可從多個商店獲取PC遊戲的最新優惠。由Cheapshark提供支持。"
                 }
             },
             "https://github.com/azure-samples/openai-plugin-fastapi": {
@@ -6004,9 +6004,9 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "Listen Notes ChatGPT Plugin for AI-powered podcast search. Powered by PodcastAPI.com and Cloudflare Pages.",
-                    "ja": "入力：AIパワードポッドキャスト検索のためのListen Notes ChatGPTプラグイン。PodcastAPI.comとCloudflare Pagesによって提供されています。",
-                    "zh-hans": "输入：Listen Notes ChatGPT插件，用于基于人工智能的播客搜索。由PodcastAPI.com和Cloudflare Pages提供支持。",
-                    "zh-hant": "輸入：Listen Notes ChatGPT 插件，用於 AI 強化的播客搜索。由 PodcastAPI.com 和 Cloudflare Pages 提供動力。"
+                    "ja": "AIパワードポッドキャスト検索のためのListen Notes ChatGPTプラグイン。PodcastAPI.comとCloudflare Pagesによって提供されています。",
+                    "zh-hans": "Listen Notes ChatGPT插件，用于基于人工智能的播客搜索。由PodcastAPI.com和Cloudflare Pages提供支持。",
+                    "zh-hant": "Listen Notes ChatGPT 插件，用於 AI 強化的播客搜索。由 PodcastAPI.com 和 Cloudflare Pages 提供動力。"
                 }
             },
             "https://github.com/carlos-lugo/chatgpt-github-plugin": {
@@ -6051,9 +6051,9 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "ChatGPT plugin example using Cloudflare Workers and Clerk OAuth2 backend.",
-                    "ja": "入力：Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。\n出力：",
-                    "zh-hans": "输入：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。\n输出：使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。",
-                    "zh-hant": "輸入：使用 Cloudflare Workers 和 Clerk OAuth2 後端的 ChatGPT 插件示例。\n輸出："
+                    "ja": "Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。",
+                    "zh-hans": "使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。\n使用Cloudflare Workers和Clerk OAuth2后端的ChatGPT插件示例。",
+                    "zh-hant": "使用 Cloudflare Workers 和 Clerk OAuth2 後端的 ChatGPT 插件示例。"
                 }
             },
             "https://github.com/mefengl/vscode-i-dont-care-about-commit-message": {
@@ -6579,7 +6579,7 @@
                 "multilingual_descriptions": {
                     "en": "Wordlist for web fuzzing, made from a variety of reliable sources including: result from my pentests, git.rip, ChatGPT, Lex, nuclei templates, web-scanners, seclist, bo0m, and more.",
                     "ja": "私が行ったペントテストの結果、git.rip、ChatGPT、Lex、nucleiテンプレート、Webスキャナー、seclist、bo0mなど、信頼できるさまざまなソースから作成されたWebファジング用のワードリスト。",
-                    "zh-hans": "输入：用于网络模糊测试的单词列表，由多个可靠来源制作，包括：我的渗透测试结果、git.rip、ChatGPT、Lex、核心模板、网络扫描器、seclist、bo0m等等。\n\n输出：",
+                    "zh-hans": "用于网络模糊测试的单词列表，由多个可靠来源制作，包括：我的渗透测试结果、git.rip、ChatGPT、Lex、核心模板、网络扫描器、seclist、bo0m等等。",
                     "zh-hant": "網站模糊測試的單詞列表，由多個可靠來源製作，包括：我的測試結果、git.rip、ChatGPT、Lex、核心模板、網站掃描器、seclist、bo0m等等。"
                 }
             },
@@ -7124,8 +7124,8 @@
                 "multilingual_descriptions": {
                     "en": "Ask the Terminal Anything (ATA): ChatGPT in the terminal",
                     "ja": "ターミナルに何でも聞いてください（ATA）：ターミナルでChatGPT",
-                    "zh-hans": "输入：在终端中询问任何事情（ATA）：在终端中输入ChatGPT\n输出：",
-                    "zh-hant": "輸入：在終端機上問任何問題（ATA）：在終端機上輸入ChatGPT\n輸出："
+                    "zh-hans": "在终端中询问任何事情（ATA）：在终端中输入ChatGPT",
+                    "zh-hant": "在終端機上問任何問題（ATA）：在終端機上輸入ChatGPT"
                 }
             },
             "https://github.com/j178/chatgpt-cli": {
@@ -7258,7 +7258,7 @@
                     "en": "OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.",
                     "ja": "Delphi用のOpenAI APIクライアント。ChatGPT、DALL-Eなどの製品を使用します。",
                     "zh-hans": "Delphi的OpenAI API客户端。使用ChatGPT、DALL-E和其他产品。",
-                    "zh-hant": "輸入：Delphi的OpenAI API客戶端。使用ChatGPT、DALL-E和其他產品。\n輸出："
+                    "zh-hant": "Delphi的OpenAI API客戶端。使用ChatGPT、DALL-E和其他產品。"
                 }
             },
             "https://github.com/akl7777777/free-chatgpt-client-pub": {
@@ -7642,9 +7642,9 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "aider is GPT powered coding in your terminal",
-                    "ja": "入力：aiderはターミナルで動作するGPTパワードのコーディングです。\n出力：aiderはターミナルで動作するGPTパワードのコーディングです。",
+                    "ja": "aiderはターミナルで動作するGPTパワードのコーディングです。\naiderはターミナルで動作するGPTパワードのコーディングです。",
                     "zh-hans": "aider是由GPT驱动的终端编码工具",
-                    "zh-hant": "輸入：aider是在您的終端機上使用GPT進行編碼的工具"
+                    "zh-hant": "aider是在您的終端機上使用GPT進行編碼的工具"
                 }
             },
             "https://github.com/wasp-lang/saas-template-gpt": {
@@ -7656,7 +7656,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "🐝 Wasp- immediately started with a SaaS template that includes social/email login, GPT/Stripe integration, cron jobs, ... → super fast start⚡️- `wasp db` CLI command is also a nice touch, immediately starts a local Postgres db in the background ",
-                    "ja": "入力：🐝 ワスプ- ソーシャル/メールログイン、GPT/Stripeの統合、cronジョブなどを含むSaaSテンプレートで即座に開始します⚡️- `wasp db` CLIコマンドも素敵な要素で、バックグラウンドでローカルのPostgresデータベースをすぐに開始します。",
+                    "ja": "🐝 ワスプ- ソーシャル/メールログイン、GPT/Stripeの統合、cronジョブなどを含むSaaSテンプレートで即座に開始します⚡️- `wasp db` CLIコマンドも素敵な要素で、バックグラウンドでローカルのPostgresデータベースをすぐに開始します。",
                     "zh-hans": "🐝 Wasp- 立即开始使用包含社交/电子邮件登录、GPT/Stripe集成、cron作业等功能的SaaS模板 → 超快速启动⚡️- `wasp db` CLI命令也是一个很好的功能，可以立即在后台启动本地的Postgres数据库。",
                     "zh-hant": "🐝 黃蜂- 立即使用包含社交/郵件登錄、GPT/Stripe集成、cron作業等的SaaS模板開始⚡️- `wasp db` CLI命令也是一個不錯的功能，可以立即在後台啟動本地的Postgres數據庫。"
                 }
@@ -7676,7 +7676,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "A universal cli for OpenAI, written in BASH.",
-                    "ja": "入力：BASHで書かれたOpenAIのためのユニバーサルCLI。\n出力：",
+                    "ja": "BASHで書かれたOpenAIのためのユニバーサルCLI。",
                     "zh-hans": "一个用BASH编写的OpenAI通用命令行界面。",
                     "zh-hant": "一個用BASH編寫的OpenAI通用命令行界面。"
                 }
@@ -8071,7 +8071,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
-                    "ja": "入力：nanoGPTに基づいた最新のオープンソースLLMsのハッキング可能な実装。フラッシュアテンション、Int8およびGPTQ 4ビットの量子化、LoRAおよびLLaMA-Adapterのファインチューニング、事前トレーニングをサポートしています。Apache 2.0ライセンスです。",
+                    "ja": "nanoGPTに基づいた最新のオープンソースLLMsのハッキング可能な実装。フラッシュアテンション、Int8およびGPTQ 4ビットの量子化、LoRAおよびLLaMA-Adapterのファインチューニング、事前トレーニングをサポートしています。Apache 2.0ライセンスです。",
                     "zh-hans": "可黑客实现的基于nanoGPT的最先进开源LLMs。支持闪存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微调、预训练。Apache 2.0许可。",
                     "zh-hant": "可駭入的最先進開源LLMs的實現，基於nanoGPT。支持閃存注意力、Int8和GPTQ 4位量化、LoRA和LLaMA-Adapter微調、預訓練。Apache 2.0許可。"
                 }
@@ -8202,7 +8202,7 @@
                     "en": "🔥gpt4all (the best chatgpt clone) running locally and on colab tutorial -  -  to @camenduru's colab -",
                     "ja": "🔥gpt4all（最高のchatgptクローン）がローカルとcolabチュートリアルで実行されています-@camenduruのcolabに-",
                     "zh-hans": "🔥gpt4all（最好的chatgpt克隆版）在本地和colab教程上运行 - 到@camenduru的colab -",
-                    "zh-hant": "輸入：🔥gpt4all（最佳的chatgpt克隆版）在本地運行並在colab教程中 - 到@camenduru的colab -\n輸出：🔥gpt4all（最佳的chatgpt克隆版）在本地運行並在colab教程中 - 到@camenduru的colab -"
+                    "zh-hant": "🔥gpt4all（最佳的chatgpt克隆版）在本地運行並在colab教程中 - 到@camenduru的colab -\n🔥gpt4all（最佳的chatgpt克隆版）在本地運行並在colab教程中 - 到@camenduru的colab -"
                 }
             },
             "https://github.com/microsoft/x-decoder": {
@@ -8315,8 +8315,8 @@
                 "multilingual_descriptions": {
                     "en": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
                     "ja": "スタンフォードのアルパカモデルをトレーニングするためのコードとドキュメンテーション、およびデータを生成するためのもの。",
-                    "zh-hans": "输入：用于训练斯坦福大学Alpaca模型和生成数据的代码和文档。 \n输出：",
-                    "zh-hant": "輸入：訓練斯坦福大學的Alpaca模型的代碼和文檔，以及生成數據。\n輸出："
+                    "zh-hans": "用于训练斯坦福大学Alpaca模型和生成数据的代码和文档。",
+                    "zh-hant": "訓練斯坦福大學的Alpaca模型的代碼和文檔，以及生成數據。"
                 }
             },
             "https://github.com/antimatter15/alpaca.cpp": {
@@ -8875,8 +8875,8 @@
                 "multilingual_descriptions": {
                     "en": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
                     "ja": "スタンフォードのアルパカモデルをトレーニングするためのコードとドキュメンテーション、およびデータを生成するためのもの。",
-                    "zh-hans": "输入：用于训练斯坦福大学Alpaca模型和生成数据的代码和文档。 \n输出：",
-                    "zh-hant": "輸入：訓練斯坦福大學的Alpaca模型的代碼和文檔，以及生成數據。\n輸出："
+                    "zh-hans": "用于训练斯坦福大学Alpaca模型和生成数据的代码和文档。",
+                    "zh-hant": "訓練斯坦福大學的Alpaca模型的代碼和文檔，以及生成數據。"
                 }
             },
             "https://github.com/rupeshs/alpaca.cpp": {
@@ -9698,8 +9698,8 @@
                 "multilingual_descriptions": {
                     "en": "OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.",
                     "ja": "OP Vault ChatGPT：OPスタック（OpenAI + Pinecone Vector Database）を使用して、ChatGPTに長期的な記憶を与えます。シンプルなReactフロントエンドを使用して、独自の知識ベースファイル（PDF、txtなど）をアップロードできます。",
-                    "zh-hans": "输入：OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）为ChatGPT提供长期记忆。使用简单的React前端上传自己的自定义知识库文件（PDF、txt等）。\n\n输出：",
-                    "zh-hant": "輸入：OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatGPT提供長期記憶。使用簡單的React前端上傳自己的自定義知識庫文件（PDF，txt等）。\n\n輸出：OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatGPT提供長期記憶。使用簡單的React前端上傳自己的自定義知識庫文件（PDF，txt等）。"
+                    "zh-hans": "OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）为ChatGPT提供长期记忆。使用简单的React前端上传自己的自定义知识库文件（PDF、txt等）。",
+                    "zh-hant": "OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatGPT提供長期記憶。使用簡單的React前端上傳自己的自定義知識庫文件（PDF，txt等）。\n\nOP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatGPT提供長期記憶。使用簡單的React前端上傳自己的自定義知識庫文件（PDF，txt等）。"
                 }
             },
             "https://github.com/ohmplatform/freedomgpt": {
@@ -10806,7 +10806,7 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "WebGLM: An Efficient Web-enhanced Question Answering System (KDD 2023)",
-                    "ja": "入力：WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）\n出力：WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）",
+                    "ja": "WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）\nWebGLM：効率的なWeb強化型質問応答システム（KDD 2023）",
                     "zh-hans": "WebGLM：一种高效的增强型网络问答系统（KDD 2023）",
                     "zh-hant": "WebGLM：一個高效的網頁增強問答系統（KDD 2023）"
                 }
@@ -10851,7 +10851,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "An efficient tool for indexing and searching PDF text data using OpenAI's GPT-2 model and FAISS (Facebook AI Similarity Search) index, designed for rapid information retrieval and superior search accuracy.",
-                    "ja": "入力：OpenAIのGPT-2モデルとFAISS（Facebook AI Similarity Search）インデックスを使用したPDFテキストデータのインデックス化と検索のための効率的なツールであり、迅速な情報検索と優れた検索精度を実現するために設計されています。",
+                    "ja": "OpenAIのGPT-2モデルとFAISS（Facebook AI Similarity Search）インデックスを使用したPDFテキストデータのインデックス化と検索のための効率的なツールであり、迅速な情報検索と優れた検索精度を実現するために設計されています。",
                     "zh-hans": "一个高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI Similarity Search）索引来索引和搜索PDF文本数据，旨在实现快速信息检索和卓越的搜索准确性。",
                     "zh-hant": "一個高效的工具，使用OpenAI的GPT-2模型和FAISS（Facebook AI相似性搜索）索引來索引和搜索PDF文本數據，旨在實現快速信息檢索和卓越的搜索準確性。"
                 }
@@ -10938,8 +10938,8 @@
                 "multilingual_descriptions": {
                     "en": "Code for Arxiv 2023: Improving Language Model Negociation with Self-Play and In-Context Learning from AI Feedback",
                     "ja": "アーキブ2023のコード：自己対戦とAIフィードバックからのインコンテキスト学習による言語モデルの交渉の改善",
-                    "zh-hans": "输入：Arxiv 2023年的代码：通过自我对弈和从AI反馈中学习来改进语言模型的谈判能力\n输出：",
-                    "zh-hant": "輸入：Arxiv 2023年的代碼：通過自我對弈和從AI反饋中的上下文學習來改進語言模型的談判\n輸出："
+                    "zh-hans": "Arxiv 2023年的代码：通过自我对弈和从AI反馈中学习来改进语言模型的谈判能力",
+                    "zh-hant": "Arxiv 2023年的代碼：通過自我對弈和從AI反饋中的上下文學習來改進語言模型的談判"
                 }
             },
             "https://github.com/divergentai/dreamgpt": {
@@ -11956,9 +11956,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "I am quite curious about the stream-like output of ChatGPT. I put in a lot of effort and built an implementation based on Python LangChain, which covers asynchronous stream-like output for both the console and Web3 applications. I still need to delve deeper into Python asynchronous programming. 🧐 Here is the code: 👇 Video sharing: 👇 bilibili: #LangChain #ChatGPT #OpenAI",
-                    "ja": "入力：挺好奇ChatGPT那种流式出力、頑張ってPythonのLangChainを使って実装しました。コンソールとWeb3アプリケーションの非同期の流れるような出力をカバーしています。Pythonの非同期プログラミングはまだ深く学ぶ必要があります🧐コード👇ビデオ共有👇bilibili:   #LangChain #ChatGPT #OpenAI",
+                    "ja": "挺好奇ChatGPT那种流式出力、頑張ってPythonのLangChainを使って実装しました。コンソールとWeb3アプリケーションの非同期の流れるような出力をカバーしています。Pythonの非同期プログラミングはまだ深く学ぶ必要があります🧐コード👇ビデオ共有👇bilibili:   #LangChain #ChatGPT #OpenAI",
                     "zh-hans": "挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI",
-                    "zh-hant": "輸入：非常好奇ChatGPT那種流式輸出，費了牛勁，堆砌出了基於Python LangChain的實現，涵蓋控制台和Web3應用的異步流式輸出。Python異步編程還需深入學習🧐代碼👇視頻分享👇bilibili:   #LangChain #ChatGPT #OpenAI"
+                    "zh-hant": "非常好奇ChatGPT那種流式輸出，費了牛勁，堆砌出了基於Python LangChain的實現，涵蓋控制台和Web3應用的異步流式輸出。Python異步編程還需深入學習🧐代碼👇視頻分享👇bilibili:   #LangChain #ChatGPT #OpenAI"
                 }
             },
             "https://github.com/coefficientsystems/chat-efficient": {
@@ -11976,7 +11976,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "DIY ChatGPT using Streamlit, LangChain and open-source LLMs",
-                    "ja": "入力：Streamlit、LangChain、オープンソースのLLMsを使用したDIY ChatGPT\n出力：",
+                    "ja": "Streamlit、LangChain、オープンソースのLLMsを使用したDIY ChatGPT",
                     "zh-hans": "使用Streamlit、LangChain和开源LLMs进行DIY ChatGPT",
                     "zh-hant": "使用Streamlit、LangChain和開源LLMs進行DIY ChatGPT"
                 }
@@ -12042,9 +12042,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.",
-                    "ja": "入力：🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。",
+                    "ja": "🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。",
                     "zh-hans": "🤖 在您的VPC中部署一个私有的ChatGPT替代品。🔮 将其连接到您的组织知识库，并将其用作企业预言机。支持开源的LLMs，如Llama 2、Falcon和GPT4All。",
-                    "zh-hant": "輸入：🤖 在您的虛擬私有雲中部署一個私有的 ChatGPT 替代方案。🔮 將其連接到您組織的知識庫，並將其用作企業的神諭。支持像 Llama 2、Falcon 和 GPT4All 這樣的開源 LLM。"
+                    "zh-hant": "🤖 在您的虛擬私有雲中部署一個私有的 ChatGPT 替代方案。🔮 將其連接到您組織的知識庫，並將其用作企業的神諭。支持像 Llama 2、Falcon 和 GPT4All 這樣的開源 LLM。"
                 }
             },
             "https://github.com/internlm/opencompass": {
@@ -12505,7 +12505,7 @@
                 "multilingual_descriptions": {
                     "en": "Whisper & GPT-based app for passing remote SWE interviews",
                     "ja": "リモートSWE面接を受けるためのWhisper＆GPTベースのアプリ",
-                    "zh-hans": "输入：Whisper和基于GPT的应用程序，用于通过远程SWE面试\n输出：Whisper和基于GPT的应用程序，用于通过远程SWE面试",
+                    "zh-hans": "Whisper和基于GPT的应用程序，用于通过远程SWE面试\nWhisper和基于GPT的应用程序，用于通过远程SWE面试",
                     "zh-hant": "Whisper & GPT 基於的應用程式，用於通過遠程 SWE 面試"
                 }
             },
@@ -12906,7 +12906,7 @@
                 "multilingual_descriptions": {
                     "en": "bbfuzzing.txta unique vocabulary that is 70% generated with openai chatgpt.the remaining 30% is a compilation of dictionaries from bo0om, circuit and other bugbounters. #chatgpt",
                     "ja": "bbfuzzing.txtは、70％がopenai chatgptで生成されたユニークな語彙であり、残りの30％はbo0om、circuit、その他のbugbountersの辞書のコンピレーションです。#chatgpt",
-                    "zh-hans": "输入：bbfuzzing.txt\n这是一个独特的词汇表，其中70%是由openai chatgpt生成的，剩下的30%是来自bo0om、circuit和其他bugbounters的字典编译而成。#chatgpt",
+                    "zh-hans": "bbfuzzing.txt\n这是一个独特的词汇表，其中70%是由openai chatgpt生成的，剩下的30%是来自bo0om、circuit和其他bugbounters的字典编译而成。#chatgpt",
                     "zh-hant": "bbfuzzing.txt是一個獨特的詞彙，其中70％是由openai chatgpt生成的。剩下的30％是來自bo0om、circuit和其他bugbounters的字典編輯。＃chatgpt"
                 }
             },
@@ -12946,7 +12946,7 @@
                     "en": "Library to ask OpenAI GPT for generating objects on the Python runtime.",
                     "ja": "Pythonランタイム上でオブジェクトを生成するためにOpenAI GPTに問い合わせるライブラリ。",
                     "zh-hans": "使用Python运行时向OpenAI GPT询问生成对象的库。",
-                    "zh-hant": "輸入：使用圖書館向OpenAI GPT請求在Python運行時生成對象。\n輸出："
+                    "zh-hant": "使用圖書館向OpenAI GPT請求在Python運行時生成對象。"
                 }
             },
             "https://github.com/adamrushy/openaiswift": {
@@ -13313,7 +13313,7 @@
                 "multilingual_descriptions": {
                     "en": "openai开发的ai模型目前比较知名的有： #chatgpt、#midjourney、#stablediffusionchat 今天为大家更新5个好用的ai算法模型学习渠道1、神力中文ai算法市场:、disco-diffusion型:、百度文心 ernie-vilg:",
                     "ja": "現在OpenAI開發的AI模型中比較知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天為大家更新5個好用的AI算法模型學習渠道，包括：1、神力中文AI算法市場、disco-diffusion型、百度文心ernie-vilg。",
-                    "zh-hans": "输入：openai开发的ai模型目前比较知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天为大家更新5个好用的ai算法模型学习渠道1、神力中文ai算法市场：、disco-diffusion型：、百度文心ernie-vilg：\n\n输出：openai开发的AI模型目前比较知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天为大家更新5个好用的AI算法模型学习渠道，包括：1、神力中文AI算法市场；2、disco-diffusion型；3、百度文心ernie-vilg。",
+                    "zh-hans": "openai开发的ai模型目前比较知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天为大家更新5个好用的ai算法模型学习渠道1、神力中文ai算法市场：、disco-diffusion型：、百度文心ernie-vilg：\n\nopenai开发的AI模型目前比较知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天为大家更新5个好用的AI算法模型学习渠道，包括：1、神力中文AI算法市场；2、disco-diffusion型；3、百度文心ernie-vilg。",
                     "zh-hant": "目前由OpenAI開發的人工智慧模型中，比較知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天為大家更新5個好用的人工智慧算法模型學習渠道，包括：1、神力中文人工智慧算法市場；2、disco-diffusion型；3、百度文心ernie-vilg。"
                 }
             },
@@ -13892,9 +13892,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "The content is not significant, but it is interesting as a local government initiative. Azure OpenAI - This repository is a solution that was created and made public for the purpose of trial use of ChatGPT at the Kobe City Hall, including the flow and other elements.",
-                    "ja": "中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。 ",
-                    "zh-hans": "输入：中身并不重要，但作为地方政府的努力是非常有趣的。Azure OpenAI——这个存储库是为了将在神户市政府进行ChatGPT试用的流程等转化为解决方案并公开而创建的。",
-                    "zh-hant": "輸入：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。\n輸出：中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。"
+                    "ja": "中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。",
+                    "zh-hans": "中身并不重要，但作为地方政府的努力是非常有趣的。Azure OpenAI——这个存储库是为了将在神户市政府进行ChatGPT试用的流程等转化为解决方案并公开而创建的。",
+                    "zh-hant": "中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。\n中身不是很重要，但作為地方政府的努力，這很有趣。Azure OpenAI - 這個存儲庫是為了將在神戶市政府中試用ChatGPT的流程等進行解決方案化並公開而創建的。"
                 }
             },
             "https://github.com/azure-samples/jp-azureopenai-samples": {
@@ -13912,9 +13912,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "Microsoft Japan has released the reference architecture for GPT. There are plenty of sample implementations based on Japanese scenarios! If you keep an eye on this repository, it will be very helpful. It's great that there are logs and authentication included. ~List of samples~ 1. GPT Assistant for Call Centers...",
-                    "ja": "日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…  ",
+                    "ja": "日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…",
                     "zh-hans": "日本微软发布了GPT的参考架构。基于日语的场景的示例实现应有尽有！如果掌握了这个存储库，会有很多进展。有日志和认证等功能真是太好了。~示例列表~1. 面向呼叫中心的GPT助手...",
-                    "zh-hant": "輸入：日本微軟公開了GPT的參考架構。有許多以日語為基礎的樣本實現可供參考！如果掌握了這個存儲庫，將會事半功倍。有日誌和認證等功能，真是太棒了。～樣本列表～1. 面向呼叫中心的GPT助手..."
+                    "zh-hant": "日本微軟公開了GPT的參考架構。有許多以日語為基礎的樣本實現可供參考！如果掌握了這個存儲庫，將會事半功倍。有日誌和認證等功能，真是太棒了。～樣本列表～1. 面向呼叫中心的GPT助手..."
                 }
             },
             "https://github.com/37mobileteam/ichatgpt": {
@@ -13932,9 +13932,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "OpenAI ChatGPT SwiftUI app for iOS, iPadOS, macOS",
-                    "ja": "入力：iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ\n出力：",
+                    "ja": "iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ",
                     "zh-hans": "OpenAI ChatGPT SwiftUI 应用程序适用于 iOS、iPadOS 和 macOS。",
-                    "zh-hant": "輸入：OpenAI ChatGPT SwiftUI iOS、iPadOS、macOS 應用程式\n輸出："
+                    "zh-hant": "OpenAI ChatGPT SwiftUI iOS、iPadOS、macOS 應用程式"
                 }
             },
             "https://github.com/dzhng/zod-gpt": {
@@ -13977,9 +13977,9 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等",
-                    "ja": "入力：AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。",
+                    "ja": "AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。",
                     "zh-hans": "AI蜂巢，基于Java使用Spring Boot 3和JDK 17，支持的功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等。",
-                    "zh-hant": "輸入：AI 蜂巢，基於 Java 使用 Spring Boot 3 和 JDK 17，支援的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等"
+                    "zh-hant": "AI 蜂巢，基於 Java 使用 Spring Boot 3 和 JDK 17，支援的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等"
                 }
             },
             "https://github.com/gaboolic/cloudflare-reverse-proxy": {
@@ -14001,8 +14001,8 @@
                 "multilingual_descriptions": {
                     "en": "Input: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wall proxy | Github download acceleration | Google proxy | Cloudflare universal proxy\nOutput: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wall proxy | Github download acceleration | Google proxy | Cloudflare universal proxy",
                     "ja": "クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ",
-                    "zh-hans": "输入：cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理\n输出：cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理",
-                    "zh-hant": "請將以下內容翻譯成繁體中文。\n輸入：cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理\n輸出：cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理"
+                    "zh-hans": "cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理\ncloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。\ncloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理\ncloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理"
                 }
             }
         },
@@ -14106,9 +14106,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "#8 chatgpt for whatsapp and telegramadd chatgpt to your groupchats:• whatsappgpt: • telegramgpt:",
-                    "ja": "入力：#8 WhatsAppとTelegramのためのchatgptグループチャットにchatgptを追加する：• WhatsAppgpt：• Telegramgpt：\n\n出力：#8 WhatsAppとTelegramのためのchatgptグループチャットにchatgptを追加してください：• WhatsAppgpt：• Telegramgpt：",
-                    "zh-hans": "输入：#8 chatgpt 用于 WhatsApp 和 Telegram将 chatgpt 添加到您的群聊中：• WhatsAppgpt：• Telegramgpt：",
-                    "zh-hant": "請將以下內容翻譯成繁體中文。\n輸入：#8 chatgpt for whatsapp and telegram\nadd chatgpt to your groupchats:\n• whatsappgpt: \n• telegramgpt: \n\n輸出：將chatgpt添加到您的群聊中：\n• whatsappgpt：\n• telegramgpt："
+                    "ja": "#8 WhatsAppとTelegramのためのchatgptグループチャットにchatgptを追加する：• WhatsAppgpt：• Telegramgpt：\n\n#8 WhatsAppとTelegramのためのchatgptグループチャットにchatgptを追加してください：• WhatsAppgpt：• Telegramgpt：",
+                    "zh-hans": "#8 chatgpt 用于 WhatsApp 和 Telegram将 chatgpt 添加到您的群聊中：• WhatsAppgpt：• Telegramgpt：",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。\n#8 chatgpt for whatsapp and telegram\nadd chatgpt to your groupchats:\n• whatsappgpt: \n• telegramgpt: \n\n將chatgpt添加到您的群聊中：\n• whatsappgpt：\n• telegramgpt："
                 }
             },
             "https://github.com/tw93/pake": {
@@ -14184,7 +14184,7 @@
                 "multilingual_descriptions": {
                     "en": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
                     "ja": "Web、モバイル、Flutter開発者向けの安全なバックエンドサーバー🚀、100％オープンソースのFirebase代替としても知られています。",
-                    "zh-hans": "输入：Web、移动和Flutter开发人员的安全后端服务器🚀，也称为100％开源的Firebase替代品。",
+                    "zh-hans": "Web、移动和Flutter开发人员的安全后端服务器🚀，也称为100％开源的Firebase替代品。",
                     "zh-hant": "安全的後端伺服器，適用於網頁、行動裝置和Flutter開發人員🚀，也就是100％開源的Firebase替代方案。"
                 }
             },
@@ -14657,7 +14657,7 @@
                     "en": "protal releases:system tray mode supportsapi chat mode historyoptional solution for chatgpt web disconnection issuesautomatic remote update",
                     "ja": "ポータルリリース：システムトレイモードがサポートされ、APIチャットモードの履歴オプションソリューションが提供され、チャットGPT Web切断問題の自動リモート更新が可能になりました。",
                     "zh-hans": "门户发布：系统托盘模式支持API聊天模式历史可选聊天GPT Web断开问题的解决方案自动远程更新。",
-                    "zh-hant": "入力： protal 發布：系統托盤模式支持 API 聊天模式歷史可選聊天 GPT 網絡斷開問題的解決方案自動遠程更新。"
+                    "zh-hant": "protal 發布：系統托盤模式支持 API 聊天模式歷史可選聊天 GPT 網絡斷開問題的解決方案自動遠程更新。"
                 }
             },
             "https://github.com/yoheinakajima/babyagi": {
@@ -15708,8 +15708,8 @@
                 "multilingual_descriptions": {
                     "en": "code to integrate #chatgpt into @hexrayssa to comment gpt's description of functions and rename variables and function names for you.",
                     "ja": "@hexrayssaに#chatgptを統合するためのコードを入力し、GPTの機能の説明をコメントし、変数と関数名をあなたのためにリネームします。",
-                    "zh-hans": "输入：将 #chatgpt 集成到 @hexrayssa 中，以评论 gpt 的功能描述，并为您重命名变量和函数名称的代码。\n输出：",
-                    "zh-hant": "輸入：代碼以將＃chatgpt整合到@hexrayssa中，以評論gpt的功能描述並為您重新命名變量和函數名稱。\n\n輸出：將＃chatgpt整合到@hexrayssa中的代碼，以評論gpt的功能描述並為您重新命名變量和函數名稱。"
+                    "zh-hans": "将 #chatgpt 集成到 @hexrayssa 中，以评论 gpt 的功能描述，并为您重命名变量和函数名称的代码。",
+                    "zh-hant": "代碼以將＃chatgpt整合到@hexrayssa中，以評論gpt的功能描述並為您重新命名變量和函數名稱。\n\n將＃chatgpt整合到@hexrayssa中的代碼，以評論gpt的功能描述並為您重新命名變量和函數名稱。"
                 }
             },
             "https://github.com/stanford-crfm/pubmedgpt": {
@@ -17356,7 +17356,7 @@
                     "en": "Give ChatGPT full knowledge of Kubernetes schemas + validation capabilities",
                     "ja": "Kubernetesのスキーマと検証機能に関する完全な知識をChatGPTに与えてください。",
                     "zh-hans": "将Kubernetes模式和验证能力的完整知识授予ChatGPT。",
-                    "zh-hant": "輸入：讓 ChatGPT 具備 Kubernetes 模式和驗證能力的完整知識\n輸出："
+                    "zh-hant": "讓 ChatGPT 具備 Kubernetes 模式和驗證能力的完整知識"
                 }
             },
             "https://github.com/ebfvince/composeai": {
@@ -17574,8 +17574,8 @@
                 "multilingual_descriptions": {
                     "en": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
                     "ja": "何を構築したいか指定し、AIが確認を求め、それを構築します。",
-                    "zh-hans": "输入：指定您想要建造的内容，人工智能会要求澄清，并进行建造。\n输出：",
-                    "zh-hant": "輸入：指定您想要建造的內容，人工智慧會詢問澄清問題，然後進行建造。"
+                    "zh-hans": "指定您想要建造的内容，人工智能会要求澄清，并进行建造。",
+                    "zh-hant": "指定您想要建造的內容，人工智慧會詢問澄清問題，然後進行建造。"
                 }
             },
             "https://github.com/andrewgcodes/falconstreaming": {
@@ -17897,7 +17897,7 @@
                     "en": "GPT 3.5/4 with a Chat Web UI. No API key required.",
                     "ja": "GPT 3.5/4とチャットWeb UIを使用しています。APIキーは必要ありません。",
                     "zh-hans": "GPT 3.5/4带有聊天网页界面。无需API密钥。",
-                    "zh-hant": "輸入：具有聊天網頁界面的GPT 3.5/4。無需API密鑰。\n輸出："
+                    "zh-hant": "具有聊天網頁界面的GPT 3.5/4。無需API密鑰。"
                 }
             },
             "https://github.com/commaai/commavq": {
@@ -17997,7 +17997,7 @@
                     "en": "Python intefrace for evaluation on chatgpt models",
                     "ja": "チャットGPTモデルの評価のためのPythonインターフェース",
                     "zh-hans": "Python界面用于对ChatGPT模型进行评估",
-                    "zh-hant": "輸入：用於評估ChatGPT模型的Python介面\n輸出："
+                    "zh-hant": "用於評估ChatGPT模型的Python介面"
                 }
             },
             "https://github.com/wolfia-app/gpt-code-search": {
@@ -18019,7 +18019,7 @@
                     "en": "GitHub Action to upload your app for automating the distribution of your app.",
                     "ja": "アプリの配布を自動化するためのGitHubアクション。",
                     "zh-hans": "GitHub操作，用于自动化分发您的应用程序的操作。",
-                    "zh-hant": "輸入：GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的分發。\n輸出：GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的分發。"
+                    "zh-hant": "GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的分發。\nGitHub Action 可以自動上傳您的應用程式，以自動化應用程式的分發。"
                 }
             },
             "https://github.com/jetp1ane/callisto": {
@@ -18031,7 +18031,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "Callisto - An Intelligent Binary Vulnerability Analysis Tool",
-                    "ja": "入力：Callisto - インテリジェントなバイナリ脆弱性分析ツール",
+                    "ja": "Callisto - インテリジェントなバイナリ脆弱性分析ツール",
                     "zh-hans": "Callisto - 一个智能的二进制漏洞分析工具",
                     "zh-hant": "Callisto - 一個智能的二進制漏洞分析工具"
                 }
@@ -18098,7 +18098,7 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.",
-                    "ja": "入力：PlusアカウントまたはAPIを提供する、完全機能を備えたマルチユーザーChatGPTウェブシステム。\n出力：",
+                    "ja": "PlusアカウントまたはAPIを提供する、完全機能を備えたマルチユーザーChatGPTウェブシステム。",
                     "zh-hans": "一个功能齐全的多用户ChatGPT网络系统，提供Plus账户或API作为服务提供商。",
                     "zh-hant": "一個功能齊全的多用戶ChatGPT網絡系統，提供Plus帳戶或API作為服務提供者。"
                 }
@@ -18125,7 +18125,7 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.",
-                    "ja": "入力：QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。",
+                    "ja": "QuoraのPoeの逆解析されたPython APIラッパーで、ChatGPT、GPT-4、およびClaudeへの無料アクセスを提供します。",
                     "zh-hans": "一个逆向工程的Python API包装器，用于Quora的Poe，提供免费访问ChatGPT、GPT-4和Claude。",
                     "zh-hant": "一個逆向工程的Python API封裝器，用於Quora的Poe，提供免費訪問ChatGPT、GPT-4和Claude。"
                 }
@@ -18160,7 +18160,7 @@
                 ],
                 "multilingual_descriptions": {
                     "en": "推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
-                    "ja": "入力：推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)",
+                    "ja": "推奨無料ChatGPTウェブサイト：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCodeの解答：私の問題解決の旅の記録。 (leetcode解答、自分のleetcode問題解決の旅の記録。)",
                     "zh-hans": "推荐免费ChatGPT网站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode题解：记录自己的问题解决之旅。",
                     "zh-hant": "推薦免費ChatGPT網站：www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer  LeetCode解題方案：一個我解題之旅的記錄。"
                 }
@@ -18174,7 +18174,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "Already summarized 41 Chatgpt business editions and provide more monetization methods, commercial source code programs, account API channels, payment and collection channels, server channels, course support services, CHATGPT knowledge planet, development and customization outsourcing.",
-                    "ja": "入力：Chatgptビジネス版はすでに41個集められ、さらに収益化方法、ビジネスのソースコードプログラム、アカウントAPIチャネル、支払い受け取りチャネル、サーバーチャネル、コースのサポートサービス、CHATGPT知識の星、開発カスタマイズの外注を提供しています。",
+                    "ja": "Chatgptビジネス版はすでに41個集められ、さらに収益化方法、ビジネスのソースコードプログラム、アカウントAPIチャネル、支払い受け取りチャネル、サーバーチャネル、コースのサポートサービス、CHATGPT知識の星、開発カスタマイズの外注を提供しています。",
                     "zh-hans": "已汇总41个Chatgpt商业版及提供更多的变现方式，商业源码程序，账号API渠道，支付收款渠道，服务器渠道，课程配套服务，CHATGPT知识星球，开发定制外包。",
                     "zh-hant": "已匯總41個Chatgpt商業版及提供更多的變現方式，商業源碼程序，帳號API渠道，支付收款渠道，伺服器渠道，課程配套服務，CHATGPT知識星球，開發定制外包"
                 }
@@ -18194,9 +18194,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "Chapyter: ChatGPT Code Interpreter in Jupyter Notebooks",
-                    "ja": "入力：Chapyter：JupyterノートブックでのChatGPTコードインタープリター\n出力：",
+                    "ja": "Chapyter：JupyterノートブックでのChatGPTコードインタープリター",
                     "zh-hans": "Chapyter：Jupyter Notebooks中的ChatGPT代码解释器",
-                    "zh-hant": "輸入：Chapyter：在Jupyter筆記本中的ChatGPT代碼解釋器\n輸出："
+                    "zh-hant": "Chapyter：在Jupyter筆記本中的ChatGPT代碼解釋器"
                 }
             },
             "https://github.com/licoy/chatgpt-midjourney-pro": {
@@ -18233,7 +18233,7 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "一款支持自定义定时任务的chatgpt-on-wechat插件",
-                    "ja": "出力：自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン",
+                    "ja": "自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン",
                     "zh-hans": "一款支持自定义定时任务的chatgpt-on-wechat插件",
                     "zh-hant": "一款支持自定義定時任務的chatgpt-on-wechat插件"
                 }
@@ -18247,9 +18247,9 @@
                 "topics": [],
                 "multilingual_descriptions": {
                     "en": "chatgpt-mirror-server快速部署库文件",
-                    "ja": "入力：chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル\n出力：",
-                    "zh-hans": "输入：chatgpt-mirror-server快速部署库文件\n输出：chatgpt-mirror-server快速部署库文件",
-                    "zh-hant": "輸入：chatgpt-mirror-server快速部署庫文件\n輸出："
+                    "ja": "chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル",
+                    "zh-hans": "chatgpt-mirror-server快速部署库文件\nchatgpt-mirror-server快速部署库文件",
+                    "zh-hant": "chatgpt-mirror-server快速部署庫文件"
                 }
             },
             "https://github.com/xd2sketch/gpt-react-designer": {
