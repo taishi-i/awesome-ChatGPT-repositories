@@ -15,22 +15,23 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨使用程序員方法打開ChatGPT! GPT Terminal是一種平台,
+**Langchain**
+ * [dolphin](https://github.com/kaleido-lab/dolphin) - 基于LLM的一般視頻互動平台,包括Video ChatGPT
+ * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - 公開大型語言模型的開放式 API, 使用LLM,
 
 
-**NLP**
- * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - 這種服務器比ChatGPT還好.
+**Openai**
+ * [opengpt](https://github.com/gngpp/opengpt) - 逆向工程非官方ChatGPT代理 (通過Cloudflare 403 拒絕使用)
+ * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - 基于OpenAI API实现的ChatGPT Web 應用程式,包括通用版和角色版──自带管理后台,采用Go + Vue3 +元素加上实现──
+ * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超級AI大腦一個基于Spring Boot架構,支持web,Android,IOS,H5多端應用,使用OpenAI的ChatGPT模型实现智能聊天機. 用戶可以在界面上與聊天機進行對話,聊天機會根據用戶的輸入自動生成回复.同時也支持圖片,用戶輸入文本,便可自動制作文生文生圖.
 
 
 **Others**
- * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - ️ 基于Golang+Vue3+NaiveUI 的全新聊天GPT-Midjourney 的 AIGC 應用程式
- * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定義定時任務的聊天插件
- * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 聊天機-鏡頭-伺服器快速部署庫文件
- * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ️使用 ChatGPT生成和預覽
+ * [personoids-lite](https://github.com/personoids/personoids-lite) - 透過 ChatGPT 成為一個能獨立完成複雜任務的強大自動代理. 
+ * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - 在ChatGPT-Next-Web的基礎上,增加註冊登入,額度限制,邀請,敏感詞,付款,基于docker一鍵部署.
 
 
-_Updated on July 29, 2023_ (A total of 922 repositories listed.)
+_Updated on July 31, 2023_ (A total of 929 repositories listed.)
 
 ## Table of contents
 
@@ -1268,6 +1269,8 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [MedicalGPT](https://github.com/shibing624/medicalgpt) - 醫學GPT：使用ChatGPT訓練流程來訓練您自己的醫學GPT模型。
  * [rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 在您的虛擬私有雲中部署一個私有的 ChatGPT 替代方案。🔮 將其連接到您組織的知識庫，並將其用作企業的神諭。支持像 Llama 2、Falcon 和 GPT4All 這樣的開源 LLM。
  * [opencompass](https://github.com/internlm/opencompass) - OpenCompass 是一個 LLM 評估平台，支援超過 50 個數據集的多種模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude 等）。
+ * [dolphin](https://github.com/kaleido-lab/dolphin) - 基於LLMs的通用視頻互動平台，包括Video ChatGPT。
+ * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - 使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1323,6 +1326,8 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
 |[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
 |[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
+|[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
+|[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1445,6 +1450,9 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - 請將以下內容翻譯成繁體中文。
 cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理
 cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理
+ * [opengpt](https://github.com/gngpp/opengpt) - 一個逆向工程的非官方ChatGPT代理（繞過Cloudflare 403訪問被拒絕）
+ * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - 基於 OpenAI API 實現的 ChatGPT Web 應用，包括通用版和角色版。自帶管理後台，採用 Go + Vue3 + element-plus 實現。
+ * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超級AI大腦一個基於Spring Boot架構，支持web，Android，IOS，H5多端應用，使用了OpenAI的ChatGPT模型實現了智能聊天機器人。用戶可以在界面上與聊天機器人進行對話，聊天機器人會根據用戶的輸入自動生成回覆。同時也支持畫圖，用戶輸入文本，便可以自動製作文生文生圖。未來會接入：文心一言、通義千問、MOSS等國產AI大模型，持續更新中，更多功能等著你來解鎖
 
 
 |Name|GitHub Stars|Language|License|
@@ -1540,6 +1548,9 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 |[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
 |[cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/gaboolic/cloudflare-reverse-proxy?style=social)|JavaScript|-|
+|[opengpt](https://github.com/gngpp/opengpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/opengpt?style=social)|Rust|mit|
+|[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
+|[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
 
 
 ## Others
@@ -1792,6 +1803,8 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定義定時任務的chatgpt-on-wechat插件
  * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-server快速部署庫文件
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ 使用🤖 ChatGPT 生成並預覽 ⚛️ React 元件
+ * [personoids-lite](https://github.com/personoids/personoids-lite) - 「每個對話中的自主權力」- 將ChatGPT轉變為一個強大的自主代理，能夠獨立完成複雜任務。
+ * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - 在ChatGPT-Next-Web的基礎上，增加註冊登錄，額度限制，邀請，敏感詞，支付，基於docker一鍵部署。提供後台管理系統，可配置標題、歡迎詞、額度不足提醒、公告。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2029,9 +2042,11 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 |[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
 |[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
-|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
+|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
 |[timetask](https://github.com/haikerapples/timetask)|![GitHub Repo stars](https://img.shields.io/github/stars/haikerapples/timetask?style=social)|Python|mit|
 |[chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|![GitHub Repo stars](https://img.shields.io/github/stars/xyhelper/chatgpt-mirror-server-deploy?style=social)|Shell|-|
-|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/XD2Sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
+|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/xd2sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
+|[personoids-lite](https://github.com/personoids/personoids-lite)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/personoids-lite?style=social)|JavaScript|mit|
+|[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/Nanjiren01/AIChatWeb?style=social)|TypeScript|other|
 
 

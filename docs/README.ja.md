@@ -15,22 +15,25 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ プログラマーのアプローチでChatGPTを開く！ GPT Terminalは、ターミナルでGPTとコミュニケーションを取ることができるプラットフォームです。
+**Langchain**
+ * [dolphin](https://github.com/kaleido-lab/dolphin) - LLMを基にした一般的なビデオ対話プラットフォーム、Video ChatGPTを含む。
+ * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - オープンAIスタイルAPIは、チャットGPTと同様にLLM（Large Language Models）を使用して、オープンな大規模言語モデルを開くための統一されたバックエンドインターフェースです。
 
 
-**NLP**
- * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - ChatGPTよりも優れたローカライズされたオープンソースのAIサーバー。
+**Openai**
+ * [opengpt](https://github.com/gngpp/opengpt) - リバースエンジニアリングされた非公式のChatGPTプロキシ（Cloudflare 403アクセス拒否をバイパス）
+
+ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudflare 403アクセス拒否をバイパス）
+ * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - OpenAI APIを使用して実装されたChatGPTウェブアプリケーションです。一般版とロール版が含まれています。管理ダッシュボードが付属しており、Go + Vue3 + element-plusで実装されています。
+ * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超級AI大脳は、Spring Bootアーキテクチャをベースにした、web、Android、IOS、H5などのマルチプラットフォームアプリケーションをサポートしています。OpenAIのChatGPTモデルを使用して、スマートなチャットボットを実現しています。ユーザーはインターフェース上でチャットボットと対話することができ、チャットボットはユーザーの入力に基づいて自動的に返信を生成します。また、絵を描くこともサポートしており、ユーザーがテキストを入力すると、自動的に図を作成することができます。将来的には、文心一言、通義千問、MOSSなどの国産AIモデルを統合し、継続的に更新しています。さらに多くの機能が解除されるのをお待ちしています。
 
 
 **Others**
- * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - 🤖️ Golang + Vue3 + NaiveUI をベースにした新しい ChatGPT-Midjourney の AIGC アプリ
- * [timetask](https://github.com/haikerapples/timetask) - 自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン
- * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル
- * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ ChatGPTで⚛️ Reactコンポーネントを生成してプレビューする 🤖
+ * [personoids-lite](https://github.com/personoids/personoids-lite) - 「チャットごとの自律性の力」- ChatGPTを強力な自律エージェントに変え、複雑なタスクを独立して達成できるようにします。
+ * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - ChatGPT-Next-Webをベースに、登録とログイン、制限額、招待、禁止ワード、支払い、Dockerを使用したワンクリックデプロイメントを追加します。バックエンド管理システムを提供し、タイトル、ウェルカムメッセージ、制限額不足の通知、お知らせを設定できます。
 
 
-_Updated on July 29, 2023_ (A total of 922 repositories listed.)
+_Updated on July 31, 2023_ (A total of 929 repositories listed.)
 
 ## Table of contents
 
@@ -1276,6 +1279,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [MedicalGPT](https://github.com/shibing624/medicalgpt) - MedicalGPT: ChatGPTトレーニングパイプラインを使用して独自の医療GPTモデルをトレーニングする。二次プレトレーニング、教師あり微調整、報酬モデリング、強化学習トレーニングを含む。
  * [rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。
  * [opencompass](https://github.com/internlm/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
+ * [dolphin](https://github.com/kaleido-lab/dolphin) - LLMを基にした一般的なビデオ対話プラットフォーム、Video ChatGPTを含む。
+ * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - オープンAIスタイルAPIは、チャットGPTと同様にLLM（Large Language Models）を使用して、オープンな大規模言語モデルを開くための統一されたバックエンドインターフェースです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1331,6 +1336,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
 |[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
 |[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
+|[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
+|[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1450,6 +1457,11 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [zod-gpt](https://github.com/dzhng/zod-gpt) - OpenAIとAnthropicモデルから、構造化され、完全に型付けされ、検証済みのJSON出力を取得してください。
  * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。
  * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ
+ * [opengpt](https://github.com/gngpp/opengpt) - リバースエンジニアリングされた非公式のChatGPTプロキシ（Cloudflare 403アクセス拒否をバイパス）
+
+ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudflare 403アクセス拒否をバイパス）
+ * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - OpenAI APIを使用して実装されたChatGPTウェブアプリケーションです。一般版とロール版が含まれています。管理ダッシュボードが付属しており、Go + Vue3 + element-plusで実装されています。
+ * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超級AI大脳は、Spring Bootアーキテクチャをベースにした、web、Android、IOS、H5などのマルチプラットフォームアプリケーションをサポートしています。OpenAIのChatGPTモデルを使用して、スマートなチャットボットを実現しています。ユーザーはインターフェース上でチャットボットと対話することができ、チャットボットはユーザーの入力に基づいて自動的に返信を生成します。また、絵を描くこともサポートしており、ユーザーがテキストを入力すると、自動的に図を作成することができます。将来的には、文心一言、通義千問、MOSSなどの国産AIモデルを統合し、継続的に更新しています。さらに多くの機能が解除されるのをお待ちしています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1545,6 +1557,9 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 |[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
 |[cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/gaboolic/cloudflare-reverse-proxy?style=social)|JavaScript|-|
+|[opengpt](https://github.com/gngpp/opengpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/opengpt?style=social)|Rust|mit|
+|[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
+|[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
 
 
 ## Others
@@ -1788,6 +1803,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [timetask](https://github.com/haikerapples/timetask) - 自分でカスタマイズ可能なタイマータスクをサポートするchatgpt-on-wechatのプラグイン
  * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-serverの迅速なデプロイメントライブラリファイル
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ ChatGPTで⚛️ Reactコンポーネントを生成してプレビューする 🤖
+ * [personoids-lite](https://github.com/personoids/personoids-lite) - 「チャットごとの自律性の力」- ChatGPTを強力な自律エージェントに変え、複雑なタスクを独立して達成できるようにします。
+ * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - ChatGPT-Next-Webをベースに、登録とログイン、制限額、招待、禁止ワード、支払い、Dockerを使用したワンクリックデプロイメントを追加します。バックエンド管理システムを提供し、タイトル、ウェルカムメッセージ、制限額不足の通知、お知らせを設定できます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2025,9 +2042,11 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 |[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
 |[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
-|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
+|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
 |[timetask](https://github.com/haikerapples/timetask)|![GitHub Repo stars](https://img.shields.io/github/stars/haikerapples/timetask?style=social)|Python|mit|
 |[chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|![GitHub Repo stars](https://img.shields.io/github/stars/xyhelper/chatgpt-mirror-server-deploy?style=social)|Shell|-|
-|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/XD2Sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
+|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/xd2sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
+|[personoids-lite](https://github.com/personoids/personoids-lite)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/personoids-lite?style=social)|JavaScript|mit|
+|[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/Nanjiren01/AIChatWeb?style=social)|TypeScript|other|
 
 
