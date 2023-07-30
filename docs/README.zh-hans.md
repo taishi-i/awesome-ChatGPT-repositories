@@ -15,22 +15,23 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨用程序员方法打开ChatGPT!GPT终端是一个平台,允许您在终端中与GPT通信.
+**Langchain**
+ * [dolphin](https://github.com/kaleido-lab/dolphin) - 基于LLM的一般视频交互平台,包括Video ChatGPT
+ * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - 开源大模型的统一后端接口
 
 
-**NLP**
- * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - 一个比ChatGPT更好的本地化开源AI服务器.
+**Openai**
+ * [opengpt](https://github.com/gngpp/opengpt) - 一个反向工程的非官方ChatGPT代理 (绕过Cloudflare 403 访问被拒绝)
+ * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - 基于OpenAI API实现的ChatGPT Web应用,包括通用版和角色版。自带管理后台,采用Go + Vue3 +元素加实现。
+ * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超级AI脑一个基于Spring Boot架构,支持web,Android,IOS,H5多端应用,使用了OpenAI的ChatGPT模型实现了智能聊天机器人. 用户可以在界面上与聊天机器人进行对话,聊天机器人会根据用户的输入自动生成回复.同时也支持图片图,用户输入文本,便可以自动制作文生文生图.未来会接入:文心一言、通义千问、MOSS等国产AI大模型功能,持续更新中,更多等待你来解锁.
 
 
 **Others**
- * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - ️ 基于Golang + Vue3 + NaiveUI 的全新聊天GPT-Midjourney 的 AIGC 应用程序
- * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定义定时任务的聊天插件
- * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - 聊天gpt-镜像服务器快速部署库文件
- * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ️生成和预览 ️使用 ChatGPT 生成和预览 React 组件
+ * [personoids-lite](https://github.com/personoids/personoids-lite) - "每一个聊天中自主性的力量". - 将ChatGPT转化为一个强大的自主代理,可以独立完成复杂任务. 
+ * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - 在ChatGPT-Next-Web的基础上,增加注册登录,额度限制,邀请,敏感词,支付,基于docker一键部署.
 
 
-_Updated on July 29, 2023_ (A total of 922 repositories listed.)
+_Updated on July 31, 2023_ (A total of 929 repositories listed.)
 
 ## Table of contents
 
@@ -1267,6 +1268,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [MedicalGPT](https://github.com/shibing624/medicalgpt) - MedicalGPT：使用ChatGPT训练流程训练您自己的医疗GPT模型。
  * [rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 在您的VPC中部署一个私有的ChatGPT替代品。🔮 将其连接到您的组织知识库，并将其用作企业预言机。支持开源的LLMs，如Llama 2、Falcon和GPT4All。
  * [opencompass](https://github.com/internlm/opencompass) - OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA，LLaMa2，ChatGLM2，ChatGPT，Claude等）。
+ * [dolphin](https://github.com/kaleido-lab/dolphin) - 基于LLMs的通用视频互动平台，包括Video ChatGPT。
+ * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - 使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1322,6 +1325,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
 |[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
 |[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
+|[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
+|[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1448,6 +1453,9 @@ Whisper和基于GPT的应用程序，用于通过远程SWE面试
  * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI蜂巢，基于Java使用Spring Boot 3和JDK 17，支持的功能有ChatGPT、OpenAi Image、Midjourney、NewBing等等。
  * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理
 cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理
+ * [opengpt](https://github.com/gngpp/opengpt) - 一个反向工程的非官方ChatGPT代理（绕过Cloudflare 403访问被拒绝）
+ * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - 基于 OpenAI API 实现的 ChatGPT Web 应用，包括通用版和角色版。自带管理后台，采用 Go + Vue3 + element-plus 实现。
+ * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超级AI大脑是一个基于Spring Boot架构的系统，支持web、Android、IOS和H5多端应用。它使用了OpenAI的ChatGPT模型来实现智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时，它还支持画图功能，用户只需输入文本，系统就能自动制作出相应的图形。未来，我们还会接入文心一言、通义千问、MOSS等国产AI大模型，并持续更新，更多功能等着你来解锁。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1543,6 +1551,9 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 |[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
 |[cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/gaboolic/cloudflare-reverse-proxy?style=social)|JavaScript|-|
+|[opengpt](https://github.com/gngpp/opengpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/opengpt?style=social)|Rust|mit|
+|[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
+|[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
 
 
 ## Others
@@ -1787,6 +1798,8 @@ Chat酱独立部署版，docker方案自带代理
  * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-server快速部署库文件
 chatgpt-mirror-server快速部署库文件
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ 使用🤖 ChatGPT 生成并预览 ⚛️ React 组件
+ * [personoids-lite](https://github.com/personoids/personoids-lite) - 每个聊天中的自主权的力量。将ChatGPT转化为一个强大的自主代理，能够独立完成复杂任务。
+ * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2024,9 +2037,11 @@ chatgpt-mirror-server快速部署库文件
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 |[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
 |[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
-|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
+|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
 |[timetask](https://github.com/haikerapples/timetask)|![GitHub Repo stars](https://img.shields.io/github/stars/haikerapples/timetask?style=social)|Python|mit|
 |[chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|![GitHub Repo stars](https://img.shields.io/github/stars/xyhelper/chatgpt-mirror-server-deploy?style=social)|Shell|-|
-|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/XD2Sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
+|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/xd2sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
+|[personoids-lite](https://github.com/personoids/personoids-lite)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/personoids-lite?style=social)|JavaScript|mit|
+|[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/Nanjiren01/AIChatWeb?style=social)|TypeScript|other|
 
 

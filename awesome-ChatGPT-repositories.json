@@ -12074,6 +12074,63 @@
                     "zh-hans": "OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA，LLaMa2，ChatGLM2，ChatGPT，Claude等）。",
                     "zh-hant": "OpenCompass 是一個 LLM 評估平台，支援超過 50 個數據集的多種模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude 等）。"
                 }
+            },
+            "https://github.com/kaleido-lab/dolphin": {
+                "repository_name": "dolphin",
+                "user_name": "kaleido-lab",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "General video interaction platform based on LLMs, including Video ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "langchain",
+                    "video"
+                ],
+                "multilingual_descriptions": {
+                    "en": "General video interaction platform based on LLMs, including Video ChatGPT",
+                    "ja": "LLMを基にした一般的なビデオ対話プラットフォーム、Video ChatGPTを含む。",
+                    "zh-hans": "基于LLMs的通用视频互动平台，包括Video ChatGPT。",
+                    "zh-hant": "基於LLMs的通用視頻互動平台，包括Video ChatGPT。"
+                }
+            },
+            "https://github.com/xusenlinzy/api-for-open-llm": {
+                "repository_name": "api-for-open-llm",
+                "user_name": "xusenlinzy",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "openai style api for open large language models, using LLMs just as chatgpt! 开源大模型的统一后端接口",
+                "topics": [
+                    "baichuan",
+                    "chatglm",
+                    "docker",
+                    "internlm",
+                    "langchain",
+                    "llama",
+                    "llms",
+                    "moss",
+                    "nlp",
+                    "openai",
+                    "phoenix"
+                ],
+                "multilingual_descriptions": {
+                    "en": "openai style api for open large language models, using LLMs just as chatgpt! 开源大模型的统一后端接口",
+                    "ja": "オープンAIスタイルAPIは、チャットGPTと同様にLLM（Large Language Models）を使用して、オープンな大規模言語モデルを開くための統一されたバックエンドインターフェースです。",
+                    "zh-hans": "使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。",
+                    "zh-hant": "使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。"
+                }
             }
         },
         "Unity": {
@@ -14003,6 +14060,89 @@
                     "ja": "クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ",
                     "zh-hans": "cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理\ncloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|cloudflare万能代理",
                     "zh-hant": "請將以下內容翻譯成繁體中文。\ncloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理\ncloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|github下載加速|google代理|cloudflare萬能代理"
+                }
+            },
+            "https://github.com/gngpp/opengpt": {
+                "repository_name": "opengpt",
+                "user_name": "gngpp",
+                "language": "Rust",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A reverse engineered unofficial ChatGPT proxy (bypass Cloudflare 403 Access Denied)",
+                "topics": [
+                    "chatgpt",
+                    "cloudflare",
+                    "command-line",
+                    "gpt3",
+                    "gpt4",
+                    "hyper",
+                    "linux",
+                    "macos",
+                    "official",
+                    "openai",
+                    "openwrt",
+                    "rust",
+                    "server",
+                    "unofficial",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A reverse engineered unofficial ChatGPT proxy (bypass Cloudflare 403 Access Denied)",
+                    "ja": "リバースエンジニアリングされた非公式のChatGPTプロキシ（Cloudflare 403アクセス拒否をバイパス）\n\nChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudflare 403アクセス拒否をバイパス）",
+                    "zh-hans": "一个反向工程的非官方ChatGPT代理（绕过Cloudflare 403访问被拒绝）",
+                    "zh-hant": "一個逆向工程的非官方ChatGPT代理（繞過Cloudflare 403訪問被拒絕）"
+                }
+            },
+            "https://github.com/yangjian102621/chatgpt-plus": {
+                "repository_name": "chatgpt-plus",
+                "user_name": "yangjian102621",
+                "language": "Vue",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "基于 OpenAI API 实现的 ChatGPT Web 应用，包括通用版和角色版。自带管理后台，采用 Go + Vue3 + element-plus 实现。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Web application based on OpenAI API, including a general version and a role version. It comes with a management backend and is implemented using Go + Vue3 + element-plus.",
+                    "ja": "OpenAI APIを使用して実装されたChatGPTウェブアプリケーションです。一般版とロール版が含まれています。管理ダッシュボードが付属しており、Go + Vue3 + element-plusで実装されています。",
+                    "zh-hans": "基于 OpenAI API 实现的 ChatGPT Web 应用，包括通用版和角色版。自带管理后台，采用 Go + Vue3 + element-plus 实现。",
+                    "zh-hant": "基於 OpenAI API 實現的 ChatGPT Web 應用，包括通用版和角色版。自帶管理後台，採用 Go + Vue3 + element-plus 實現。"
+                }
+            },
+            "https://github.com/274056675/springboot-openai-chatgpt": {
+                "repository_name": "springboot-openai-chatgpt",
+                "user_name": "274056675",
+                "language": "Java",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可以自动制作文生文生图。未来会接入：文心一言、通义千问、MOSS等国产AI大模型，持续更新中，更多功能等着你来解锁",
+                "topics": [
+                    "chatgpt",
+                    "gpt-4",
+                    "java",
+                    "openai",
+                    "rabittmq",
+                    "springboot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Super AI Brain is a Spring Boot-based architecture that supports web, Android, iOS, and H5 multi-platform applications. It uses OpenAI's ChatGPT model to implement an intelligent chatbot. Users can have conversations with the chatbot on the interface, and the chatbot will generate replies based on the user's input. It also supports drawing, where users can input text and automatically create corresponding diagrams. In the future, it will integrate with domestic AI models such as Wenxin Yiyuan, Tongyi Qianwen, MOSS, etc., and will continue to be updated with more features waiting for you to unlock.",
+                    "ja": "超級AI大脳は、Spring Bootアーキテクチャをベースにした、web、Android、IOS、H5などのマルチプラットフォームアプリケーションをサポートしています。OpenAIのChatGPTモデルを使用して、スマートなチャットボットを実現しています。ユーザーはインターフェース上でチャットボットと対話することができ、チャットボットはユーザーの入力に基づいて自動的に返信を生成します。また、絵を描くこともサポートしており、ユーザーがテキストを入力すると、自動的に図を作成することができます。将来的には、文心一言、通義千問、MOSSなどの国産AIモデルを統合し、継続的に更新しています。さらに多くの機能が解除されるのをお待ちしています。",
+                    "zh-hans": "超级AI大脑是一个基于Spring Boot架构的系统，支持web、Android、IOS和H5多端应用。它使用了OpenAI的ChatGPT模型来实现智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时，它还支持画图功能，用户只需输入文本，系统就能自动制作出相应的图形。未来，我们还会接入文心一言、通义千问、MOSS等国产AI大模型，并持续更新，更多功能等着你来解锁。",
+                    "zh-hant": "超級AI大腦一個基於Spring Boot架構，支持web，Android，IOS，H5多端應用，使用了OpenAI的ChatGPT模型實現了智能聊天機器人。用戶可以在界面上與聊天機器人進行對話，聊天機器人會根據用戶的輸入自動生成回覆。同時也支持畫圖，用戶輸入文本，便可以自動製作文生文生圖。未來會接入：文心一言、通義千問、MOSS等國產AI大模型，持續更新中，更多功能等著你來解鎖"
                 }
             }
         },
@@ -18276,6 +18416,57 @@
                     "ja": "⚡️ ChatGPTで⚛️ Reactコンポーネントを生成してプレビューする 🤖",
                     "zh-hans": "⚡️ 使用🤖 ChatGPT 生成并预览 ⚛️ React 组件",
                     "zh-hant": "⚡️ 使用🤖 ChatGPT 生成並預覽 ⚛️ React 元件"
+                }
+            },
+            "https://github.com/personoids/personoids-lite": {
+                "repository_name": "personoids-lite",
+                "user_name": "personoids",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "\"The Power of Autonomy in Every Chat.\" - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "\"The Power of Autonomy in Every Chat.\" - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. ",
+                    "ja": "「チャットごとの自律性の力」- ChatGPTを強力な自律エージェントに変え、複雑なタスクを独立して達成できるようにします。",
+                    "zh-hans": "每个聊天中的自主权的力量。将ChatGPT转化为一个强大的自主代理，能够独立完成复杂任务。",
+                    "zh-hant": "「每個對話中的自主權力」- 將ChatGPT轉變為一個強大的自主代理，能夠獨立完成複雜任務。"
+                }
+            },
+            "https://github.com/nanjiren01/aichatweb": {
+                "repository_name": "AIChatWeb",
+                "user_name": "Nanjiren01",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告",
+                "topics": [
+                    "admin",
+                    "bard",
+                    "chatgpt",
+                    "chatgpt-next-web",
+                    "claude",
+                    "login",
+                    "midjourney",
+                    "pay",
+                    "register",
+                    "system"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Based on ChatGPT-Next-Web, add registration and login, credit limit, invitation, sensitive words, payment, and one-click deployment based on Docker. Provide a backend management system that allows configuration of titles, welcome messages, insufficient credit reminders, and announcements.",
+                    "ja": "ChatGPT-Next-Webをベースに、登録とログイン、制限額、招待、禁止ワード、支払い、Dockerを使用したワンクリックデプロイメントを追加します。バックエンド管理システムを提供し、タイトル、ウェルカムメッセージ、制限額不足の通知、お知らせを設定できます。",
+                    "zh-hans": "在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告。",
+                    "zh-hant": "在ChatGPT-Next-Web的基礎上，增加註冊登錄，額度限制，邀請，敏感詞，支付，基於docker一鍵部署。提供後台管理系統，可配置標題、歡迎詞、額度不足提醒、公告。"
                 }
             }
         }

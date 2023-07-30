@@ -16,22 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ Open ChatGPT with Programmer's Approach! GPT Terminal is a platform that allows you to communicate with GPT in a terminal.
+**Langchain**
+ * [dolphin](https://github.com/kaleido-lab/dolphin) - General video interaction platform based on LLMs, including Video ChatGPT
+ * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - openai style api for open large language models, using LLMs just as chatgpt! 开源大模型的统一后端接口
 
 
-**NLP**
- * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - A localized open-source AI server that is better than ChatGPT.
+**Openai**
+ * [opengpt](https://github.com/gngpp/opengpt) - A reverse engineered unofficial ChatGPT proxy (bypass Cloudflare 403 Access Denied)
+ * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - ChatGPT Web application based on OpenAI API, including a general version and a role version. It comes with a management backend and is implemented using Go + Vue3 + element-plus.
+ * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - Super AI Brain is a Spring Boot-based architecture that supports web, Android, iOS, and H5 multi-platform applications. It uses OpenAI's ChatGPT model to implement an intelligent chatbot. Users can have conversations with the chatbot on the interface, and the chatbot will generate replies based on the user's input. It also supports drawing, where users can input text and automatically create corresponding diagrams. In the future, it will integrate with domestic AI models such as Wenxin Yiyuan, Tongyi Qianwen, MOSS, etc., and will continue to be updated with more features waiting for you to unlock.
 
 
 **Others**
- * [ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro) - 🤖️ 基于 Golang + Vue3 + NaiveUI 的全新 ChatGPT-Midjourney 的 AIGC 应用
- * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定义定时任务的chatgpt-on-wechat插件
- * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-server快速部署库文件
- * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ Generate and preview ⚛️ React components with 🤖 ChatGPT
+ * [personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. 
+ * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - Based on ChatGPT-Next-Web, add registration and login, credit limit, invitation, sensitive words, payment, and one-click deployment based on Docker. Provide a backend management system that allows configuration of titles, welcome messages, insufficient credit reminders, and announcements.
 
 
-_Updated on July 29, 2023_ (A total of 922 repositories listed.)
+_Updated on July 31, 2023_ (A total of 929 repositories listed.)
 
 ## Table of contents
 
@@ -1261,6 +1262,8 @@ _Updated on July 29, 2023_ (A total of 922 repositories listed.)
  * [MedicalGPT](https://github.com/shibing624/medicalgpt) - MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现包括二次预训练、有监督微调、奖励建模、强化学习训练。
  * [rag-stack](https://github.com/psychic-api/rag-stack) - 🤖 Deploy a private ChatGPT alternative hosted within your VPC. 🔮 Connect it to your organization's knowledge base and use it as a corporate oracle. Supports open-source LLMs like Llama 2, Falcon, and GPT4All.
  * [opencompass](https://github.com/internlm/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
+ * [dolphin](https://github.com/kaleido-lab/dolphin) - General video interaction platform based on LLMs, including Video ChatGPT
+ * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - openai style api for open large language models, using LLMs just as chatgpt! 开源大模型的统一后端接口
 
 
 |Name|GitHub Stars|Language|License|
@@ -1316,6 +1319,8 @@ _Updated on July 29, 2023_ (A total of 922 repositories listed.)
 |[MedicalGPT](https://github.com/shibing624/medicalgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/shibing624/MedicalGPT?style=social)|Python|apache-2.0|
 |[rag-stack](https://github.com/psychic-api/rag-stack)|![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/rag-stack?style=social)|Python|mit|
 |[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
+|[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
+|[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1436,6 +1441,9 @@ _Updated on July 29, 2023_ (A total of 922 repositories listed.)
  * [ai-beehive](https://github.com/hncboy/ai-beehive) - AI 蜂巢，基于 Java 使用 Spring Boot 3 和 JDK 17，支持的功能有 ChatGPT、OpenAi Image、Midjourney、NewBing 等等
  * [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - Input: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wall proxy | Github download acceleration | Google proxy | Cloudflare universal proxy
 Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wall proxy | Github download acceleration | Google proxy | Cloudflare universal proxy
+ * [opengpt](https://github.com/gngpp/opengpt) - A reverse engineered unofficial ChatGPT proxy (bypass Cloudflare 403 Access Denied)
+ * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - ChatGPT Web application based on OpenAI API, including a general version and a role version. It comes with a management backend and is implemented using Go + Vue3 + element-plus.
+ * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - Super AI Brain is a Spring Boot-based architecture that supports web, Android, iOS, and H5 multi-platform applications. It uses OpenAI's ChatGPT model to implement an intelligent chatbot. Users can have conversations with the chatbot on the interface, and the chatbot will generate replies based on the user's input. It also supports drawing, where users can input text and automatically create corresponding diagrams. In the future, it will integrate with domestic AI models such as Wenxin Yiyuan, Tongyi Qianwen, MOSS, etc., and will continue to be updated with more features waiting for you to unlock.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1531,6 +1539,9 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[zod-gpt](https://github.com/dzhng/zod-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/zod-gpt?style=social)|TypeScript|mit|
 |[ai-beehive](https://github.com/hncboy/ai-beehive)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/ai-beehive?style=social)|Java|apache-2.0|
 |[cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy)|![GitHub Repo stars](https://img.shields.io/github/stars/gaboolic/cloudflare-reverse-proxy?style=social)|JavaScript|-|
+|[opengpt](https://github.com/gngpp/opengpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/opengpt?style=social)|Rust|mit|
+|[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
+|[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
 
 
 ## Others
@@ -1772,6 +1783,8 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
  * [timetask](https://github.com/haikerapples/timetask) - 一款支持自定义定时任务的chatgpt-on-wechat插件
  * [chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy) - chatgpt-mirror-server快速部署库文件
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ Generate and preview ⚛️ React components with 🤖 ChatGPT
+ * [personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks. 
+ * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - Based on ChatGPT-Next-Web, add registration and login, credit limit, invitation, sensitive words, payment, and one-click deployment based on Docker. Provide a backend management system that allows configuration of titles, welcome messages, insufficient credit reminders, and announcements.
 
 
 |Name|GitHub Stars|Language|License|
@@ -2009,9 +2022,11 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[leetcode](https://github.com/azl397985856/leetcode)|![GitHub Repo stars](https://img.shields.io/github/stars/azl397985856/leetcode?style=social)|JavaScript|other|
 |[chatgpt-business](https://github.com/garyvalue/chatgpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/garyvalue/chatgpt-business?style=social)|-|-|
 |[chapyter](https://github.com/chapyter/chapyter)|![GitHub Repo stars](https://img.shields.io/github/stars/chapyter/chapyter?style=social)|Python|bsd-3-clause|
-|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/Licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
+|[ChatGPT-Midjourney-Pro](https://github.com/licoy/chatgpt-midjourney-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/licoy/ChatGPT-Midjourney-Pro?style=social)|-|-|
 |[timetask](https://github.com/haikerapples/timetask)|![GitHub Repo stars](https://img.shields.io/github/stars/haikerapples/timetask?style=social)|Python|mit|
 |[chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|![GitHub Repo stars](https://img.shields.io/github/stars/xyhelper/chatgpt-mirror-server-deploy?style=social)|Shell|-|
-|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/XD2Sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
+|[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/xd2sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
+|[personoids-lite](https://github.com/personoids/personoids-lite)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/personoids-lite?style=social)|JavaScript|mit|
+|[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/Nanjiren01/AIChatWeb?style=social)|TypeScript|other|
 
 
