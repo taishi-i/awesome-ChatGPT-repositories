@@ -4025,6 +4025,31 @@
                     "zh-hans": "终极ChatGPT是一个由人工智能驱动的虚拟助手，旨在提供卓越的写作和问题解决体验。",
                     "zh-hant": "終極ChatGPT是一個由人工智能驅動的虛擬助手，旨在提供優質的寫作和解決問題體驗。"
                 }
+            },
+            "https://github.com/iuiaoin/wechat-gptbot": {
+                "repository_name": "wechat-gptbot",
+                "user_name": "iuiaoin",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A wechat robot based on ChatGPT with no risk, very stable! 🚀",
+                "topics": [
+                    "chatgpt",
+                    "openai",
+                    "python",
+                    "wechat"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A wechat robot based on ChatGPT with no risk, very stable! 🚀",
+                    "ja": "リスクのない、非常に安定したChatGPTベースのWeChatロボットです！ 🚀",
+                    "zh-hans": "一个基于ChatGPT的微信机器人，没有风险，非常稳定！🚀",
+                    "zh-hant": "一個基於ChatGPT的微信機器人，沒有風險，非常穩定！🚀"
+                }
             }
         },
         "Browser-extensions": {
@@ -6122,6 +6147,90 @@
                     "ja": "プラグインをサポートするChatGPTです。TG: https://t.me/+bIZncGryj_85MjYx",
                     "zh-hans": "一个支持插件的ChatGPT。TG：https://t.me/+bIZncGryj_85MjYx",
                     "zh-hant": "一個支援插件的 ChatGPT。TG：https://t.me/+bIZncGryj_85MjYx"
+                }
+            },
+            "https://github.com/cakecrusher/openplugin": {
+                "repository_name": "openplugin",
+                "user_name": "CakeCrusher",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "client",
+                    "openai",
+                    "openai-api",
+                    "openai-plugin",
+                    "package",
+                    "plugins",
+                    "pypi"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!",
+                    "ja": "API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！",
+                    "zh-hans": "通过API（或客户端）与OpenAI的ChatGPT插件无缝集成，提供与ChatGPT api +插件相同的强大功能！",
+                    "zh-hant": "通過API（或客戶端）與OpenAI的ChatGPT插件無縫集成，提供與ChatGPT api + 插件相同的強大功能！"
+                }
+            },
+            "https://github.com/continuedev/continue": {
+                "repository_name": "continue",
+                "user_name": "continuedev",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE",
+                "topics": [
+                    "autopilot",
+                    "chatgpt",
+                    "developer-tools",
+                    "open-source",
+                    "software-development",
+                    "vscode"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE",
+                    "ja": "ソフトウェア開発のためのオープンソースの自動操縦システム-ChatGPTのパワーをあなたのIDEにもたらすVS Code拡張機能",
+                    "zh-hans": "⏩ 这是一个开源的自动驾驶软件开发工具——一个将ChatGPT的强大功能引入到您的IDE中的VS Code扩展。",
+                    "zh-hant": "⏩ 軟體開發的開源自動駕駛系統 - 一個將 ChatGPT 強大功能帶入您的 IDE 的 VS Code 擴展。"
+                }
+            },
+            "https://github.com/targed/gpt-plugins": {
+                "repository_name": "GPT-Plugins",
+                "user_name": "targed",
+                "language": "Markdown",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt",
+                    "open-assistant",
+                    "plugin",
+                    "plugins"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.",
+                    "ja": "GPT-Pluginsは、ChatGPTやGPTアーキテクチャと互換性のある他の言語モデルのプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。",
+                    "zh-hans": "GPT-Plugins是一个GitHub仓库，它作为一个全面的插件、附加组件和扩展列表，为ChatGPT以及与GPT架构兼容的其他语言模型提供服务。",
+                    "zh-hant": "GPT-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供服務，同時也兼容 GPT 架構的其他語言模型。"
                 }
             }
         },
@@ -12130,6 +12239,38 @@
                     "ja": "オープンAIスタイルAPIは、チャットGPTと同様にLLM（Large Language Models）を使用して、オープンな大規模言語モデルを開くための統一されたバックエンドインターフェースです。",
                     "zh-hans": "使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。",
                     "zh-hant": "使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。"
+                }
+            },
+            "https://github.com/atomecho/atomgpt": {
+                "repository_name": "AtomGPT",
+                "user_name": "AtomEcho",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "中英文预训练大模型，目标与ChatGPT的水平一致",
+                "topics": [
+                    "chatgpt",
+                    "deep-learning",
+                    "gpt",
+                    "inference",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "nlp",
+                    "pytorch",
+                    "transformer",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Pretrained large models for Chinese and English, aiming to achieve the same level as ChatGPT.",
+                    "ja": "中英文の事前トレーニング済みモデルは、ChatGPTと同じレベルを目指しています。",
+                    "zh-hans": "中英文预训练大模型，目标与ChatGPT的水平一致",
+                    "zh-hant": "中英文預訓練大模型，目標與ChatGPT的水平一致\n中英文預訓練大模型，目標與ChatGPT的水平一致"
                 }
             }
         },
@@ -18467,6 +18608,30 @@
                     "ja": "ChatGPT-Next-Webをベースに、登録とログイン、制限額、招待、禁止ワード、支払い、Dockerを使用したワンクリックデプロイメントを追加します。バックエンド管理システムを提供し、タイトル、ウェルカムメッセージ、制限額不足の通知、お知らせを設定できます。",
                     "zh-hans": "在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告。",
                     "zh-hant": "在ChatGPT-Next-Web的基礎上，增加註冊登錄，額度限制，邀請，敏感詞，支付，基於docker一鍵部署。提供後台管理系統，可配置標題、歡迎詞、額度不足提醒、公告。"
+                }
+            },
+            "https://github.com/woheller69/gptassist": {
+                "repository_name": "gptAssist",
+                "user_name": "woheller69",
+                "language": "Java",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "gptAssist is a simple WebView wrapper for ChatGPT",
+                "topics": [
+                    "android",
+                    "artificial-intelligence",
+                    "chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "gptAssist is a simple WebView wrapper for ChatGPT",
+                    "ja": "gptAssistはChatGPTのためのシンプルなWebViewラッパーです。",
+                    "zh-hans": "gptAssist是ChatGPT的一个简单的WebView封装器。",
+                    "zh-hant": "gptAssist 是 ChatGPT 的簡單 WebView 封裝程式。"
                 }
             }
         }
