@@ -15,23 +15,25 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - 基于ChatGPT的微信机器人, 没有风险,非常稳定!
+
+
+**Browser-extensions**
+ * [openplugin](https://github.com/cakecrusher/openplugin) - 通过API (或客户端) 无地与OpenAI的ChatGPT插件集成,提供与ChatGPT api+插件相同的功能!
+ * [continue](https://github.com/continuedev/continue) - 软件开发的开源自动驾驶员,将ChatGPT的功能带到您的IDE
+ * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins是一个 GitHub 存储库,它提供了 ChatGPT 的插件,附加组件和扩展程序以及与 GPT 架构兼容的其他语言模型的全面列表.
+
+
 **Langchain**
- * [dolphin](https://github.com/kaleido-lab/dolphin) - 基于LLM的一般视频交互平台,包括Video ChatGPT
- * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - 开源大模型的统一后端接口
-
-
-**Openai**
- * [opengpt](https://github.com/gngpp/opengpt) - 一个反向工程的非官方ChatGPT代理 (绕过Cloudflare 403 访问被拒绝)
- * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - 基于OpenAI API实现的ChatGPT Web应用,包括通用版和角色版。自带管理后台,采用Go + Vue3 +元素加实现。
- * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超级AI脑一个基于Spring Boot架构,支持web,Android,IOS,H5多端应用,使用了OpenAI的ChatGPT模型实现了智能聊天机器人. 用户可以在界面上与聊天机器人进行对话,聊天机器人会根据用户的输入自动生成回复.同时也支持图片图,用户输入文本,便可以自动制作文生文生图.未来会接入:文心一言、通义千问、MOSS等国产AI大模型功能,持续更新中,更多等待你来解锁.
+ * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文预训练大模型,目标与ChatGPT的水平一致
 
 
 **Others**
- * [personoids-lite](https://github.com/personoids/personoids-lite) - "每一个聊天中自主性的力量". - 将ChatGPT转化为一个强大的自主代理,可以独立完成复杂任务. 
- * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - 在ChatGPT-Next-Web的基础上,增加注册登录,额度限制,邀请,敏感词,支付,基于docker一键部署.
+ * [gptAssist](https://github.com/woheller69/gptassist) - gptAssist 是一个简单的 WebView 包裹器
 
 
-_Updated on July 31, 2023_ (A total of 929 repositories listed.)
+_Updated on August 02, 2023_ (A total of 935 repositories listed.)
 
 ## Table of contents
 
@@ -351,6 +353,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [llm-inference](https://github.com/aniketmaurya/llm-inference) - 大型语言模型（LLM）推理API和聊天机器人
  * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Tools是一个智能系统，可以自动决定、控制和利用不同的视觉基础模型，允许用户在对话过程中与图像进行交互。
  * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 终极ChatGPT是一个由人工智能驱动的虚拟助手，旨在提供卓越的写作和问题解决体验。
+ * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - 一个基于ChatGPT的微信机器人，没有风险，非常稳定！🚀
 
 
 |Name|GitHub Stars|Language|License|
@@ -470,6 +473,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[llm-inference](https://github.com/aniketmaurya/llm-inference)|![GitHub Repo stars](https://img.shields.io/github/stars/aniketmaurya/llm-inference?style=social)|Python|mit|
 |[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/stevengrove/GPT4Tools?style=social)|Python|apache-2.0|
 |[Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imabutahersiddik/Ultimate-ChatGPT?style=social)|TypeScript|other|
+|[wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot)|![GitHub Repo stars](https://img.shields.io/github/stars/iuiaoin/wechat-gptbot?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -579,6 +583,9 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - 又一个AI git提交插件，但无需手动确认。
  * [openai-translator](https://github.com/openai-translator/openai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。
  * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - 一个支持插件的ChatGPT。TG：https://t.me/+bIZncGryj_85MjYx
+ * [openplugin](https://github.com/cakecrusher/openplugin) - 通过API（或客户端）与OpenAI的ChatGPT插件无缝集成，提供与ChatGPT api +插件相同的强大功能！
+ * [continue](https://github.com/continuedev/continue) - ⏩ 这是一个开源的自动驾驶软件开发工具——一个将ChatGPT的强大功能引入到您的IDE中的VS Code扩展。
+ * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins是一个GitHub仓库，它作为一个全面的插件、附加组件和扩展列表，为ChatGPT以及与GPT架构兼容的其他语言模型提供服务。
 
 
 |Name|GitHub Stars|Language|License|
@@ -686,6 +693,9 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 |[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
 |[ais-ninja](https://github.com/jarvis2f/ais-ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/jarvis2f/ais-ninja?style=social)|TypeScript|mit|
+|[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CakeCrusher/openplugin?style=social)|Python|apache-2.0|
+|[continue](https://github.com/continuedev/continue)|![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=social)|Python|apache-2.0|
+|[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
 
 
 ## CLIs
@@ -1270,6 +1280,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [opencompass](https://github.com/internlm/opencompass) - OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA，LLaMa2，ChatGLM2，ChatGPT，Claude等）。
  * [dolphin](https://github.com/kaleido-lab/dolphin) - 基于LLMs的通用视频互动平台，包括Video ChatGPT。
  * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - 使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。
+ * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文预训练大模型，目标与ChatGPT的水平一致
 
 
 |Name|GitHub Stars|Language|License|
@@ -1327,6 +1338,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
 |[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
+|[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/AtomEcho/AtomGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1800,6 +1812,7 @@ chatgpt-mirror-server快速部署库文件
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ 使用🤖 ChatGPT 生成并预览 ⚛️ React 组件
  * [personoids-lite](https://github.com/personoids/personoids-lite) - 每个聊天中的自主权的力量。将ChatGPT转化为一个强大的自主代理，能够独立完成复杂任务。
  * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告。
+ * [gptAssist](https://github.com/woheller69/gptassist) - gptAssist是ChatGPT的一个简单的WebView封装器。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2042,6 +2055,7 @@ chatgpt-mirror-server快速部署库文件
 |[chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|![GitHub Repo stars](https://img.shields.io/github/stars/xyhelper/chatgpt-mirror-server-deploy?style=social)|Shell|-|
 |[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/xd2sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
 |[personoids-lite](https://github.com/personoids/personoids-lite)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/personoids-lite?style=social)|JavaScript|mit|
-|[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/Nanjiren01/AIChatWeb?style=social)|TypeScript|other|
+|[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/nanjiren01/AIChatWeb?style=social)|TypeScript|other|
+|[gptAssist](https://github.com/woheller69/gptassist)|![GitHub Repo stars](https://img.shields.io/github/stars/woheller69/gptAssist?style=social)|Java|gpl-3.0|
 
 

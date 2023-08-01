@@ -15,25 +15,25 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - リスクのない、非常に安定したChatGPTベースのWeChatロボットです！ 🚀
+
+
+**Browser-extensions**
+ * [openplugin](https://github.com/cakecrusher/openplugin) - API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
+ * [continue](https://github.com/continuedev/continue) - ソフトウェア開発のためのオープンソースの自動操縦システム-ChatGPTのパワーをあなたのIDEにもたらすVS Code拡張機能
+ * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Pluginsは、ChatGPTやGPTアーキテクチャと互換性のある他の言語モデルのプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。
+
+
 **Langchain**
- * [dolphin](https://github.com/kaleido-lab/dolphin) - LLMを基にした一般的なビデオ対話プラットフォーム、Video ChatGPTを含む。
- * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - オープンAIスタイルAPIは、チャットGPTと同様にLLM（Large Language Models）を使用して、オープンな大規模言語モデルを開くための統一されたバックエンドインターフェースです。
-
-
-**Openai**
- * [opengpt](https://github.com/gngpp/opengpt) - リバースエンジニアリングされた非公式のChatGPTプロキシ（Cloudflare 403アクセス拒否をバイパス）
-
-ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudflare 403アクセス拒否をバイパス）
- * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - OpenAI APIを使用して実装されたChatGPTウェブアプリケーションです。一般版とロール版が含まれています。管理ダッシュボードが付属しており、Go + Vue3 + element-plusで実装されています。
- * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超級AI大脳は、Spring Bootアーキテクチャをベースにした、web、Android、IOS、H5などのマルチプラットフォームアプリケーションをサポートしています。OpenAIのChatGPTモデルを使用して、スマートなチャットボットを実現しています。ユーザーはインターフェース上でチャットボットと対話することができ、チャットボットはユーザーの入力に基づいて自動的に返信を生成します。また、絵を描くこともサポートしており、ユーザーがテキストを入力すると、自動的に図を作成することができます。将来的には、文心一言、通義千問、MOSSなどの国産AIモデルを統合し、継続的に更新しています。さらに多くの機能が解除されるのをお待ちしています。
+ * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文の事前トレーニング済みモデルは、ChatGPTと同じレベルを目指しています。
 
 
 **Others**
- * [personoids-lite](https://github.com/personoids/personoids-lite) - 「チャットごとの自律性の力」- ChatGPTを強力な自律エージェントに変え、複雑なタスクを独立して達成できるようにします。
- * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - ChatGPT-Next-Webをベースに、登録とログイン、制限額、招待、禁止ワード、支払い、Dockerを使用したワンクリックデプロイメントを追加します。バックエンド管理システムを提供し、タイトル、ウェルカムメッセージ、制限額不足の通知、お知らせを設定できます。
+ * [gptAssist](https://github.com/woheller69/gptassist) - gptAssistはChatGPTのためのシンプルなWebViewラッパーです。
 
 
-_Updated on July 31, 2023_ (A total of 929 repositories listed.)
+_Updated on August 02, 2023_ (A total of 935 repositories listed.)
 
 ## Table of contents
 
@@ -362,6 +362,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [llm-inference](https://github.com/aniketmaurya/llm-inference) - 大規模言語モデル（LLM）の推論APIとチャットボット
  * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Toolsは、異なるビジュアル基盤モデルを自動的に決定、制御、活用することができるインテリジェントシステムです。これにより、ユーザーは会話中に画像と対話することができます。
  * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 究極のChatGPTは、強化された文章作成と問題解決の体験を提供するために設計されたAIパワードの仮想アシスタントです。
+ * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - リスクのない、非常に安定したChatGPTベースのWeChatロボットです！ 🚀
 
 
 |Name|GitHub Stars|Language|License|
@@ -481,6 +482,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[llm-inference](https://github.com/aniketmaurya/llm-inference)|![GitHub Repo stars](https://img.shields.io/github/stars/aniketmaurya/llm-inference?style=social)|Python|mit|
 |[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/stevengrove/GPT4Tools?style=social)|Python|apache-2.0|
 |[Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imabutahersiddik/Ultimate-ChatGPT?style=social)|TypeScript|other|
+|[wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot)|![GitHub Repo stars](https://img.shields.io/github/stars/iuiaoin/wechat-gptbot?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -588,6 +590,9 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - もう一つのAI gitコミットプラグインですが、手動確認の必要はありません。
  * [openai-translator](https://github.com/openai-translator/openai-translator) - ChatGPT APIに基づく翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
  * [ais-ninja](https://github.com/jarvis2f/ais-ninja) - プラグインをサポートするChatGPTです。TG: https://t.me/+bIZncGryj_85MjYx
+ * [openplugin](https://github.com/cakecrusher/openplugin) - API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
+ * [continue](https://github.com/continuedev/continue) - ソフトウェア開発のためのオープンソースの自動操縦システム-ChatGPTのパワーをあなたのIDEにもたらすVS Code拡張機能
+ * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Pluginsは、ChatGPTやGPTアーキテクチャと互換性のある他の言語モデルのプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -695,6 +700,9 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 |[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
 |[ais-ninja](https://github.com/jarvis2f/ais-ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/jarvis2f/ais-ninja?style=social)|TypeScript|mit|
+|[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CakeCrusher/openplugin?style=social)|Python|apache-2.0|
+|[continue](https://github.com/continuedev/continue)|![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=social)|Python|apache-2.0|
+|[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
 
 
 ## CLIs
@@ -1281,6 +1289,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [opencompass](https://github.com/internlm/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
  * [dolphin](https://github.com/kaleido-lab/dolphin) - LLMを基にした一般的なビデオ対話プラットフォーム、Video ChatGPTを含む。
  * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - オープンAIスタイルAPIは、チャットGPTと同様にLLM（Large Language Models）を使用して、オープンな大規模言語モデルを開くための統一されたバックエンドインターフェースです。
+ * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文の事前トレーニング済みモデルは、ChatGPTと同じレベルを目指しています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1338,6 +1347,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
 |[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
+|[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/AtomEcho/AtomGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1805,6 +1815,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer) - ⚡️ ChatGPTで⚛️ Reactコンポーネントを生成してプレビューする 🤖
  * [personoids-lite](https://github.com/personoids/personoids-lite) - 「チャットごとの自律性の力」- ChatGPTを強力な自律エージェントに変え、複雑なタスクを独立して達成できるようにします。
  * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - ChatGPT-Next-Webをベースに、登録とログイン、制限額、招待、禁止ワード、支払い、Dockerを使用したワンクリックデプロイメントを追加します。バックエンド管理システムを提供し、タイトル、ウェルカムメッセージ、制限額不足の通知、お知らせを設定できます。
+ * [gptAssist](https://github.com/woheller69/gptassist) - gptAssistはChatGPTのためのシンプルなWebViewラッパーです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2047,6 +2058,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|![GitHub Repo stars](https://img.shields.io/github/stars/xyhelper/chatgpt-mirror-server-deploy?style=social)|Shell|-|
 |[gpt-react-designer](https://github.com/xd2sketch/gpt-react-designer)|![GitHub Repo stars](https://img.shields.io/github/stars/xd2sketch/gpt-react-designer?style=social)|TypeScript|apache-2.0|
 |[personoids-lite](https://github.com/personoids/personoids-lite)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/personoids-lite?style=social)|JavaScript|mit|
-|[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/Nanjiren01/AIChatWeb?style=social)|TypeScript|other|
+|[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/nanjiren01/AIChatWeb?style=social)|TypeScript|other|
+|[gptAssist](https://github.com/woheller69/gptassist)|![GitHub Repo stars](https://img.shields.io/github/stars/woheller69/gptAssist?style=social)|Java|gpl-3.0|
 
 
