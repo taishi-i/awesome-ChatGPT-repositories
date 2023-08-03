@@ -6232,6 +6232,26 @@
                     "zh-hans": "GPT-Plugins是一个GitHub仓库，它作为一个全面的插件、附加组件和扩展列表，为ChatGPT以及与GPT架构兼容的其他语言模型提供服务。",
                     "zh-hant": "GPT-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供服務，同時也兼容 GPT 架構的其他語言模型。"
                 }
+            },
+            "https://github.com/tbd54566975/web5-chatgpt-plugin": {
+                "repository_name": "web5-chatgpt-plugin",
+                "user_name": "TBD54566975",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A chatGPT plugin that adds web5 code assistance and knowledge to ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A chatGPT plugin that adds web5 code assistance and knowledge to ChatGPT",
+                    "ja": "ChatGPTにWeb5コードのサポートと知識を追加するChatGPTプラグイン",
+                    "zh-hans": "一个ChatGPT插件，为ChatGPT添加了web5代码辅助和知识。",
+                    "zh-hant": "一個 ChatGPT 插件，為 ChatGPT 添加了 web5 代碼協助和知識。"
+                }
             }
         },
         "CLIs": {
@@ -14285,6 +14305,26 @@
                     "zh-hans": "超级AI大脑是一个基于Spring Boot架构的系统，支持web、Android、IOS和H5多端应用。它使用了OpenAI的ChatGPT模型来实现智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时，它还支持画图功能，用户只需输入文本，系统就能自动制作出相应的图形。未来，我们还会接入文心一言、通义千问、MOSS等国产AI大模型，并持续更新，更多功能等着你来解锁。",
                     "zh-hant": "超級AI大腦一個基於Spring Boot架構，支持web，Android，IOS，H5多端應用，使用了OpenAI的ChatGPT模型實現了智能聊天機器人。用戶可以在界面上與聊天機器人進行對話，聊天機器人會根據用戶的輸入自動生成回覆。同時也支持畫圖，用戶輸入文本，便可以自動製作文生文生圖。未來會接入：文心一言、通義千問、MOSS等國產AI大模型，持續更新中，更多功能等著你來解鎖"
                 }
+            },
+            "https://github.com/azure-samples/chatgpt-quickstart": {
+                "repository_name": "chatgpt-quickstart",
+                "user_name": "Azure-Samples",
+                "language": "Bicep",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Build a chat application using Azure OpenAI with ChatGPT.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Build a chat application using Azure OpenAI with ChatGPT.",
+                    "ja": "Azure OpenAIとChatGPTを使用してチャットアプリケーションを構築してください。",
+                    "zh-hans": "使用Azure OpenAI和ChatGPT构建一个聊天应用程序。",
+                    "zh-hant": "使用Azure OpenAI和ChatGPT构建一个聊天应用程序。"
+                }
             }
         },
         "Others": {
@@ -18632,6 +18672,48 @@
                     "ja": "gptAssistはChatGPTのためのシンプルなWebViewラッパーです。",
                     "zh-hans": "gptAssist是ChatGPT的一个简单的WebView封装器。",
                     "zh-hant": "gptAssist 是 ChatGPT 的簡單 WebView 封裝程式。"
+                }
+            },
+            "https://github.com/chunhuizhang/personal_chatgpt": {
+                "repository_name": "personal_chatgpt",
+                "user_name": "chunhuizhang",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "personal chatgpt",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "personal chatgpt",
+                    "ja": "個人用チャットGPT",
+                    "zh-hans": "个人聊天GPT",
+                    "zh-hant": "個人聊天GPT"
+                }
+            },
+            "https://github.com/cuishuang/explain-source-code-by-chatgpt": {
+                "repository_name": "explain-source-code-by-chatgpt",
+                "user_name": "cuishuang",
+                "language": null,
+                "license": null,
+                "description": "👂🏻 chatgpt讲解Go知名项目的源码",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "👂🏻 ChatGPT explains the source code of a well-known Go project.",
+                    "ja": "👂🏻 chatgptがGoの有名なプロジェクトのソースコードを解説します。",
+                    "zh-hans": "👂🏻 chatgpt讲解Go知名项目的源码",
+                    "zh-hant": "👂🏻 chatgpt講解Go知名項目的源碼"
+                }
+            },
+            "https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper": {
+                "repository_name": "ChatGPT_principle_fine-tuning_code_paper",
+                "user_name": "julycoding",
+                "language": null,
+                "license": null,
+                "description": "本『ChatGPT资源库(原理/微调/代码/论文)』的初始版本来自July CSDN博客上阅读量高达50万的ChatGPT系列，联合发起人：七月ChatGPT原理课学员，6月初正式对外发布",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The initial version of this \"ChatGPT Resource Library (Principles/Fine-tuning/Code/Papers)\" comes from the highly popular ChatGPT series on July's CSDN blog, with a reading count of up to 500,000. Co-initiated by the students of July's ChatGPT Principles Course, it was officially released to the public in early June.",
+                    "ja": "本『ChatGPTリソースライブラリ（原理/微調/コード/論文）』の初期バージョンは、July CSDNブログで50万回以上閲覧されたChatGPTシリーズから派生しました。共同発起人：七月ChatGPT原理コースの受講生であり、6月初旬に正式に公開されました。",
+                    "zh-hans": "本『ChatGPT资源库(原理/微调/代码/论文)』的初始版本来自July CSDN博客上阅读量高达50万的ChatGPT系列，联合发起人：七月ChatGPT原理课学员，6月初正式对外发布",
+                    "zh-hant": "本『ChatGPT資源庫(原理/微調/代碼/論文)』的初始版本來自July CSDN博客上閱讀量高達50萬的ChatGPT系列，聯合發起人：七月ChatGPT原理課學員，6月初正式對外發布"
                 }
             }
         }
