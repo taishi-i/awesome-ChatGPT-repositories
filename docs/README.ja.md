@@ -15,25 +15,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - リスクのない、非常に安定したChatGPTベースのWeChatロボットです！ 🚀
-
-
 **Browser-extensions**
- * [openplugin](https://github.com/cakecrusher/openplugin) - API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
- * [continue](https://github.com/continuedev/continue) - ソフトウェア開発のためのオープンソースの自動操縦システム-ChatGPTのパワーをあなたのIDEにもたらすVS Code拡張機能
- * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Pluginsは、ChatGPTやGPTアーキテクチャと互換性のある他の言語モデルのプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。
+ * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - ChatGPTにWeb5コードのサポートと知識を追加するChatGPTプラグイン
 
 
-**Langchain**
- * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文の事前トレーニング済みモデルは、ChatGPTと同じレベルを目指しています。
+**Openai**
+ * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - Azure OpenAIとChatGPTを使用してチャットアプリケーションを構築してください。
 
 
 **Others**
- * [gptAssist](https://github.com/woheller69/gptassist) - gptAssistはChatGPTのためのシンプルなWebViewラッパーです。
+ * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - 個人用チャットGPT
+ * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 chatgptがGoの有名なプロジェクトのソースコードを解説します。
+ * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPTリソースライブラリ（原理/微調/コード/論文）』の初期バージョンは、July CSDNブログで50万回以上閲覧されたChatGPTシリーズから派生しました。共同発起人：七月ChatGPT原理コースの受講生であり、6月初旬に正式に公開されました。
 
 
-_Updated on August 02, 2023_ (A total of 935 repositories listed.)
+_Updated on August 04, 2023_ (A total of 940 repositories listed.)
 
 ## Table of contents
 
@@ -593,6 +589,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [openplugin](https://github.com/cakecrusher/openplugin) - API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
  * [continue](https://github.com/continuedev/continue) - ソフトウェア開発のためのオープンソースの自動操縦システム-ChatGPTのパワーをあなたのIDEにもたらすVS Code拡張機能
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Pluginsは、ChatGPTやGPTアーキテクチャと互換性のある他の言語モデルのプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。
+ * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - ChatGPTにWeb5コードのサポートと知識を追加するChatGPTプラグイン
 
 
 |Name|GitHub Stars|Language|License|
@@ -700,9 +697,10 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 |[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
 |[ais-ninja](https://github.com/jarvis2f/ais-ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/jarvis2f/ais-ninja?style=social)|TypeScript|mit|
-|[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CakeCrusher/openplugin?style=social)|Python|apache-2.0|
+|[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cakecrusher/openplugin?style=social)|Python|apache-2.0|
 |[continue](https://github.com/continuedev/continue)|![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=social)|Python|apache-2.0|
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
+|[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/TBD54566975/web5-chatgpt-plugin?style=social)|Python|mit|
 
 
 ## CLIs
@@ -1347,7 +1345,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
 |[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
-|[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/AtomEcho/AtomGPT?style=social)|Python|apache-2.0|
+|[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1472,6 +1470,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudflare 403アクセス拒否をバイパス）
  * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - OpenAI APIを使用して実装されたChatGPTウェブアプリケーションです。一般版とロール版が含まれています。管理ダッシュボードが付属しており、Go + Vue3 + element-plusで実装されています。
  * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超級AI大脳は、Spring Bootアーキテクチャをベースにした、web、Android、IOS、H5などのマルチプラットフォームアプリケーションをサポートしています。OpenAIのChatGPTモデルを使用して、スマートなチャットボットを実現しています。ユーザーはインターフェース上でチャットボットと対話することができ、チャットボットはユーザーの入力に基づいて自動的に返信を生成します。また、絵を描くこともサポートしており、ユーザーがテキストを入力すると、自動的に図を作成することができます。将来的には、文心一言、通義千問、MOSSなどの国産AIモデルを統合し、継続的に更新しています。さらに多くの機能が解除されるのをお待ちしています。
+ * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - Azure OpenAIとChatGPTを使用してチャットアプリケーションを構築してください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1570,6 +1569,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[opengpt](https://github.com/gngpp/opengpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/opengpt?style=social)|Rust|mit|
 |[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
 |[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
+|[chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/chatgpt-quickstart?style=social)|Bicep|mit|
 
 
 ## Others
@@ -1816,6 +1816,9 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [personoids-lite](https://github.com/personoids/personoids-lite) - 「チャットごとの自律性の力」- ChatGPTを強力な自律エージェントに変え、複雑なタスクを独立して達成できるようにします。
  * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - ChatGPT-Next-Webをベースに、登録とログイン、制限額、招待、禁止ワード、支払い、Dockerを使用したワンクリックデプロイメントを追加します。バックエンド管理システムを提供し、タイトル、ウェルカムメッセージ、制限額不足の通知、お知らせを設定できます。
  * [gptAssist](https://github.com/woheller69/gptassist) - gptAssistはChatGPTのためのシンプルなWebViewラッパーです。
+ * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - 個人用チャットGPT
+ * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 chatgptがGoの有名なプロジェクトのソースコードを解説します。
+ * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPTリソースライブラリ（原理/微調/コード/論文）』の初期バージョンは、July CSDNブログで50万回以上閲覧されたChatGPTシリーズから派生しました。共同発起人：七月ChatGPT原理コースの受講生であり、6月初旬に正式に公開されました。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2060,5 +2063,8 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[personoids-lite](https://github.com/personoids/personoids-lite)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/personoids-lite?style=social)|JavaScript|mit|
 |[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/nanjiren01/AIChatWeb?style=social)|TypeScript|other|
 |[gptAssist](https://github.com/woheller69/gptassist)|![GitHub Repo stars](https://img.shields.io/github/stars/woheller69/gptAssist?style=social)|Java|gpl-3.0|
+|[personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/chunhuizhang/personal_chatgpt?style=social)|Jupyter Notebook|-|
+|[explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cuishuang/explain-source-code-by-chatgpt?style=social)|-|-|
+|[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
 
 

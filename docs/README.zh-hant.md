@@ -15,25 +15,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - 沒有任何風險,非常穩定!
-
-
 **Browser-extensions**
- * [openplugin](https://github.com/cakecrusher/openplugin) - 透過API (或客戶端) 合 OpenAI 的 ChatGPT 插件,
- * [continue](https://github.com/continuedev/continue) - 開源軟件開發自動駕駛將ChatGPT的功能帶入您的IDE的VS Code擴展
- * [GPT-Plugins](https://github.com/targed/gpt-plugins) - 提供了關於 ChatGPT 的插件,附加程式和擴展程序的完整列表, 以及其他與 GPT 架構兼容的語言模型.
+ * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - 這種插件可以為ChatGPT提供web5代碼協助和知識.
 
 
-**Langchain**
- * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文預訓練大模型,目標與ChatGPT的水平一致
+**Openai**
+ * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - 建立使用 Azure OpenAI 的聊天應用程式.
 
 
 **Others**
- * [gptAssist](https://github.com/woheller69/gptassist) - gptAssist 是一個簡單的WebView包裹器,
+ * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - 關於個人聊天
+ * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 🏻聊天的說話 關于知名項目源碼
+ * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPT資源庫 ((原理/微调/代码/论文) 』的初始版本來自CSDN博客上閱讀量高達50萬的ChatGPT系列,联合发起人:七月ChatGPT原理课学员,6月初正式对外发布
 
 
-_Updated on August 02, 2023_ (A total of 935 repositories listed.)
+_Updated on August 04, 2023_ (A total of 940 repositories listed.)
 
 ## Table of contents
 
@@ -584,6 +580,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [openplugin](https://github.com/cakecrusher/openplugin) - 通過API（或客戶端）與OpenAI的ChatGPT插件無縫集成，提供與ChatGPT api + 插件相同的強大功能！
  * [continue](https://github.com/continuedev/continue) - ⏩ 軟體開發的開源自動駕駛系統 - 一個將 ChatGPT 強大功能帶入您的 IDE 的 VS Code 擴展。
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供服務，同時也兼容 GPT 架構的其他語言模型。
+ * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - 一個 ChatGPT 插件，為 ChatGPT 添加了 web5 代碼協助和知識。
 
 
 |Name|GitHub Stars|Language|License|
@@ -691,9 +688,10 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 |[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
 |[ais-ninja](https://github.com/jarvis2f/ais-ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/jarvis2f/ais-ninja?style=social)|TypeScript|mit|
-|[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CakeCrusher/openplugin?style=social)|Python|apache-2.0|
+|[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cakecrusher/openplugin?style=social)|Python|apache-2.0|
 |[continue](https://github.com/continuedev/continue)|![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=social)|Python|apache-2.0|
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
+|[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/TBD54566975/web5-chatgpt-plugin?style=social)|Python|mit|
 
 
 ## CLIs
@@ -1340,7 +1338,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
 |[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
-|[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/AtomEcho/AtomGPT?style=social)|Python|apache-2.0|
+|[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1466,6 +1464,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
  * [opengpt](https://github.com/gngpp/opengpt) - 一個逆向工程的非官方ChatGPT代理（繞過Cloudflare 403訪問被拒絕）
  * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - 基於 OpenAI API 實現的 ChatGPT Web 應用，包括通用版和角色版。自帶管理後台，採用 Go + Vue3 + element-plus 實現。
  * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超級AI大腦一個基於Spring Boot架構，支持web，Android，IOS，H5多端應用，使用了OpenAI的ChatGPT模型實現了智能聊天機器人。用戶可以在界面上與聊天機器人進行對話，聊天機器人會根據用戶的輸入自動生成回覆。同時也支持畫圖，用戶輸入文本，便可以自動製作文生文生圖。未來會接入：文心一言、通義千問、MOSS等國產AI大模型，持續更新中，更多功能等著你來解鎖
+ * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - 使用Azure OpenAI和ChatGPT构建一个聊天应用程序。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1564,6 +1563,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[opengpt](https://github.com/gngpp/opengpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/opengpt?style=social)|Rust|mit|
 |[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
 |[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
+|[chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/chatgpt-quickstart?style=social)|Bicep|mit|
 
 
 ## Others
@@ -1819,6 +1819,9 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [personoids-lite](https://github.com/personoids/personoids-lite) - 「每個對話中的自主權力」- 將ChatGPT轉變為一個強大的自主代理，能夠獨立完成複雜任務。
  * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - 在ChatGPT-Next-Web的基礎上，增加註冊登錄，額度限制，邀請，敏感詞，支付，基於docker一鍵部署。提供後台管理系統，可配置標題、歡迎詞、額度不足提醒、公告。
  * [gptAssist](https://github.com/woheller69/gptassist) - gptAssist 是 ChatGPT 的簡單 WebView 封裝程式。
+ * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - 個人聊天GPT
+ * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 chatgpt講解Go知名項目的源碼
+ * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPT資源庫(原理/微調/代碼/論文)』的初始版本來自July CSDN博客上閱讀量高達50萬的ChatGPT系列，聯合發起人：七月ChatGPT原理課學員，6月初正式對外發布
 
 
 |Name|GitHub Stars|Language|License|
@@ -2063,5 +2066,8 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[personoids-lite](https://github.com/personoids/personoids-lite)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/personoids-lite?style=social)|JavaScript|mit|
 |[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/nanjiren01/AIChatWeb?style=social)|TypeScript|other|
 |[gptAssist](https://github.com/woheller69/gptassist)|![GitHub Repo stars](https://img.shields.io/github/stars/woheller69/gptAssist?style=social)|Java|gpl-3.0|
+|[personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/chunhuizhang/personal_chatgpt?style=social)|Jupyter Notebook|-|
+|[explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cuishuang/explain-source-code-by-chatgpt?style=social)|-|-|
+|[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
 
 

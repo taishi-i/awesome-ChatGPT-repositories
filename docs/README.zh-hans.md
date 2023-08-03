@@ -15,25 +15,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - 基于ChatGPT的微信机器人, 没有风险,非常稳定!
-
-
 **Browser-extensions**
- * [openplugin](https://github.com/cakecrusher/openplugin) - 通过API (或客户端) 无地与OpenAI的ChatGPT插件集成,提供与ChatGPT api+插件相同的功能!
- * [continue](https://github.com/continuedev/continue) - 软件开发的开源自动驾驶员,将ChatGPT的功能带到您的IDE
- * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins是一个 GitHub 存储库,它提供了 ChatGPT 的插件,附加组件和扩展程序以及与 GPT 架构兼容的其他语言模型的全面列表.
+ * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - 一个添加到ChatGPT中web5代码帮助和知识的chatGPT插件
 
 
-**Langchain**
- * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文预训练大模型,目标与ChatGPT的水平一致
+**Openai**
+ * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - 使用 Azure OpenAI 和 ChatGPT 构建一个聊天应用程序.
 
 
 **Others**
- * [gptAssist](https://github.com/woheller69/gptassist) - gptAssist 是一个简单的 WebView 包裹器
+ * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - 个人聊天
+ * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 🏻聊天讲解 让我们了解这个项目源码
+ * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPT资源库 ((原理/微调/代码/论文) 』的初始版本来自7月CSDN博客上阅读量高达50万的ChatGPT系列,联合发起人:七月ChatGPT原理课学员,6月初正式对外发布
 
 
-_Updated on August 02, 2023_ (A total of 935 repositories listed.)
+_Updated on August 04, 2023_ (A total of 940 repositories listed.)
 
 ## Table of contents
 
@@ -586,6 +582,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [openplugin](https://github.com/cakecrusher/openplugin) - 通过API（或客户端）与OpenAI的ChatGPT插件无缝集成，提供与ChatGPT api +插件相同的强大功能！
  * [continue](https://github.com/continuedev/continue) - ⏩ 这是一个开源的自动驾驶软件开发工具——一个将ChatGPT的强大功能引入到您的IDE中的VS Code扩展。
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins是一个GitHub仓库，它作为一个全面的插件、附加组件和扩展列表，为ChatGPT以及与GPT架构兼容的其他语言模型提供服务。
+ * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - 一个ChatGPT插件，为ChatGPT添加了web5代码辅助和知识。
 
 
 |Name|GitHub Stars|Language|License|
@@ -693,9 +690,10 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message)|![GitHub Repo stars](https://img.shields.io/github/stars/mefengl/vscode-i-dont-care-about-commit-message?style=social)|TypeScript|mit|
 |[openai-translator](https://github.com/openai-translator/openai-translator)|![GitHub Repo stars](https://img.shields.io/github/stars/openai-translator/openai-translator?style=social)|TypeScript|agpl-3.0|
 |[ais-ninja](https://github.com/jarvis2f/ais-ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/jarvis2f/ais-ninja?style=social)|TypeScript|mit|
-|[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/CakeCrusher/openplugin?style=social)|Python|apache-2.0|
+|[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cakecrusher/openplugin?style=social)|Python|apache-2.0|
 |[continue](https://github.com/continuedev/continue)|![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=social)|Python|apache-2.0|
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
+|[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/TBD54566975/web5-chatgpt-plugin?style=social)|Python|mit|
 
 
 ## CLIs
@@ -1338,7 +1336,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[opencompass](https://github.com/internlm/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/internlm/opencompass?style=social)|Python|apache-2.0|
 |[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
-|[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/AtomEcho/AtomGPT?style=social)|Python|apache-2.0|
+|[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -1468,6 +1466,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
  * [opengpt](https://github.com/gngpp/opengpt) - 一个反向工程的非官方ChatGPT代理（绕过Cloudflare 403访问被拒绝）
  * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - 基于 OpenAI API 实现的 ChatGPT Web 应用，包括通用版和角色版。自带管理后台，采用 Go + Vue3 + element-plus 实现。
  * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超级AI大脑是一个基于Spring Boot架构的系统，支持web、Android、IOS和H5多端应用。它使用了OpenAI的ChatGPT模型来实现智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时，它还支持画图功能，用户只需输入文本，系统就能自动制作出相应的图形。未来，我们还会接入文心一言、通义千问、MOSS等国产AI大模型，并持续更新，更多功能等着你来解锁。
+ * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - 使用Azure OpenAI和ChatGPT构建一个聊天应用程序。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1566,6 +1565,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
 |[opengpt](https://github.com/gngpp/opengpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/opengpt?style=social)|Rust|mit|
 |[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
 |[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
+|[chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/chatgpt-quickstart?style=social)|Bicep|mit|
 
 
 ## Others
@@ -1813,6 +1813,9 @@ chatgpt-mirror-server快速部署库文件
  * [personoids-lite](https://github.com/personoids/personoids-lite) - 每个聊天中的自主权的力量。将ChatGPT转化为一个强大的自主代理，能够独立完成复杂任务。
  * [AIChatWeb](https://github.com/nanjiren01/aichatweb) - 在ChatGPT-Next-Web的基础上，增加注册登录，额度限制，邀请，敏感词，支付，基于docker一键部署。提供后台管理系统，可配置标题、欢迎词、额度不足提醒、公告。
  * [gptAssist](https://github.com/woheller69/gptassist) - gptAssist是ChatGPT的一个简单的WebView封装器。
+ * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - 个人聊天GPT
+ * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 chatgpt讲解Go知名项目的源码
+ * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPT资源库(原理/微调/代码/论文)』的初始版本来自July CSDN博客上阅读量高达50万的ChatGPT系列，联合发起人：七月ChatGPT原理课学员，6月初正式对外发布
 
 
 |Name|GitHub Stars|Language|License|
@@ -2057,5 +2060,8 @@ chatgpt-mirror-server快速部署库文件
 |[personoids-lite](https://github.com/personoids/personoids-lite)|![GitHub Repo stars](https://img.shields.io/github/stars/personoids/personoids-lite?style=social)|JavaScript|mit|
 |[AIChatWeb](https://github.com/nanjiren01/aichatweb)|![GitHub Repo stars](https://img.shields.io/github/stars/nanjiren01/AIChatWeb?style=social)|TypeScript|other|
 |[gptAssist](https://github.com/woheller69/gptassist)|![GitHub Repo stars](https://img.shields.io/github/stars/woheller69/gptAssist?style=social)|Java|gpl-3.0|
+|[personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/chunhuizhang/personal_chatgpt?style=social)|Jupyter Notebook|-|
+|[explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cuishuang/explain-source-code-by-chatgpt?style=social)|-|-|
+|[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
 
 
