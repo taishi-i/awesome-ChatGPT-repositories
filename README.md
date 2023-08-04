@@ -871,7 +871,7 @@ _Updated on August 04, 2023_ (A total of 940 repositories listed.)
  * [ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - Reference implementation of the Transformer architecture optimized for Apple Neural Engine (ANE)
  * [memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch) - Implementation of Memorizing Transformers (ICLR 2022), attention net augmented with indexing and retrieval of memories using approximate nearest neighbors, in Pytorch
  * [lit-llama](https://github.com/lightning-ai/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
- *  * [litellm](https://github.com/BerriAI/litellm) - a simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints
+ * [litellm](https://github.com/BerriAI/litellm) - a simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints
  * [large-model-parallelism](https://github.com/hundredblocks/large-model-parallelism) - Functional local implementations of main model parallelism approaches
  * [bloomz.cpp](https://github.com/nouamanetazi/bloomz.cpp) - C++ implementation for BLOOM
  * [swift-coreml-transformers](https://github.com/huggingface/swift-coreml-transformers) - Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT for Question answering. Other Transformers coming soon!
