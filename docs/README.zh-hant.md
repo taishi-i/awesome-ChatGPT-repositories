@@ -15,21 +15,35 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [promptmap](https://github.com/utkusen/promptmap) - 自動測試ChatGPT實例上的即時注入攻擊
+
+
+**Chatbots**
+ * [FeishuBot](https://github.com/rawchen/feishubot) - 飛書群聊/私聊聊GPT機器人
+
+
 **Browser-extensions**
- * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - 這種插件可以為ChatGPT提供web5代碼協助和知識.
+ * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - 任何語言,任何終端程序,自由使用檔案系統,
+
+
+**Langchain**
+ * [litellm](https://github.com/berriai/litellm) - 這是一款簡單輕巧的包,
 
 
 **Openai**
- * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - 建立使用 Azure OpenAI 的聊天應用程式.
+ * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - 這是一款使用ChatGPTAPI和穩定傳播API創建完全優化的部落格文章,
+ * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基于OPENAI的ChatGPTAPI開發的AI助手系統 聊天伺服器-Web 支持本地數據向量话题提問 基于Golang語言的后端API服務
 
 
 **Others**
- * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - 關於個人聊天
- * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 🏻聊天的說話 關于知名項目源碼
- * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPT資源庫 ((原理/微调/代码/论文) 』的初始版本來自CSDN博客上閱讀量高達50萬的ChatGPT系列,联合发起人:七月ChatGPT原理课学员,6月初正式对外发布
+ * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - 使用Spring/Java Stack的ChatGPT類似樣本
+ * [azurechatgpt](https://github.com/microsoft/azurechatgpt) -  Azure ChatGPT:私人與安全的ChatGPT,
 
 
-_Updated on August 04, 2023_ (A total of 940 repositories listed.)
+_Updated on August 07, 2023_ (A total of 948 repositories listed.)
+
+🏅 [ishaan-jaff](https://github.com/ishaan-jaff) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -163,6 +177,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 介紹「gpt-prompt-engineer」✍️一個能夠創建最佳GPT提示的代理人。只需描述任務，一系列AI系統將會：- 生成許多可能的提示- 在排名比賽中測試它們- 返回最佳提示。而且它是開源的：
  * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - 從DeepLearning.ai的「ChatGPT Prompt Engineering for Developers」摘要的筆記
  * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 與您的文件對話！管理和運行您的AI預設！
+ * [promptmap](https://github.com/utkusen/promptmap) - 自動測試ChatGPT實例上的提示注入攻擊。
 
 
 |Name|GitHub Stars|Language|License|
@@ -230,6 +245,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/mshumer/gpt-prompt-engineer?style=social)|Jupyter Notebook|mit|
 |[prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/prompt-engineering-for-javascript-developers?style=social)|-|-|
 |[gpt-runner](https://github.com/nicepkg/gpt-runner)|![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=social)|TypeScript|mit|
+|[promptmap](https://github.com/utkusen/promptmap)|![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -350,6 +366,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Tools 是一個智能系統，可以自動決定、控制和利用不同的視覺基礎模型，讓使用者在對話中與圖像互動。
  * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 終極ChatGPT是一個由人工智能驅動的虛擬助手，旨在提供優質的寫作和解決問題體驗。
  * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - 一個基於ChatGPT的微信機器人，沒有風險，非常穩定！🚀
+ * [FeishuBot](https://github.com/rawchen/feishubot) - 飛書群聊/私聊ChatGPT機器人
 
 
 |Name|GitHub Stars|Language|License|
@@ -470,6 +487,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/stevengrove/GPT4Tools?style=social)|Python|apache-2.0|
 |[Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imabutahersiddik/Ultimate-ChatGPT?style=social)|TypeScript|other|
 |[wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot)|![GitHub Repo stars](https://img.shields.io/github/stars/iuiaoin/wechat-gptbot?style=social)|Python|mit|
+|[FeishuBot](https://github.com/rawchen/feishubot)|![GitHub Repo stars](https://img.shields.io/github/stars/rawchen/FeishuBot?style=social)|Java|-|
 
 
 ## Browser-extensions
@@ -581,6 +599,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [continue](https://github.com/continuedev/continue) - ⏩ 軟體開發的開源自動駕駛系統 - 一個將 ChatGPT 強大功能帶入您的 IDE 的 VS Code 擴展。
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供服務，同時也兼容 GPT 架構的其他語言模型。
  * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - 一個 ChatGPT 插件，為 ChatGPT 添加了 web5 代碼協助和知識。
+ * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - ChatGPT的代碼解釋器強化版。運行任何語言，任何終端進程，自由使用文件系統。同時具有網絡訪問功能。
 
 
 |Name|GitHub Stars|Language|License|
@@ -691,7 +710,8 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cakecrusher/openplugin?style=social)|Python|apache-2.0|
 |[continue](https://github.com/continuedev/continue)|![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=social)|Python|apache-2.0|
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
-|[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/TBD54566975/web5-chatgpt-plugin?style=social)|Python|mit|
+|[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/tbd54566975/web5-chatgpt-plugin?style=social)|Python|mit|
+|[chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/chatgpt-plugin?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1281,6 +1301,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - 使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。
  * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文預訓練大模型，目標與ChatGPT的水平一致
 中英文預訓練大模型，目標與ChatGPT的水平一致
+ * [litellm](https://github.com/berriai/litellm) - 一個簡單輕巧的套件，可用於調用OpenAI、Azure、Cohere和Anthropic API端點。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1339,6 +1360,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 |[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
+|[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social)|Python|mit|
 
 
 ## Unity
@@ -1465,6 +1487,8 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
  * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - 基於 OpenAI API 實現的 ChatGPT Web 應用，包括通用版和角色版。自帶管理後台，採用 Go + Vue3 + element-plus 實現。
  * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - 超級AI大腦一個基於Spring Boot架構，支持web，Android，IOS，H5多端應用，使用了OpenAI的ChatGPT模型實現了智能聊天機器人。用戶可以在界面上與聊天機器人進行對話，聊天機器人會根據用戶的輸入自動生成回覆。同時也支持畫圖，用戶輸入文本，便可以自動製作文生文生圖。未來會接入：文心一言、通義千問、MOSS等國產AI大模型，持續更新中，更多功能等著你來解鎖
  * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - 使用Azure OpenAI和ChatGPT构建一个聊天应用程序。
+ * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - 這是一個使用ChatGPT API和Stable Diffusion API的自動部落格系統，可以創建完全優化的部落格文章並自動發佈到WordPress。
+ * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基於OPENAI的ChatGPT API開發的AI助手系統 Chatserver-web   支持本地數據向量話提問 基於Golang語言的後端API服務
 
 
 |Name|GitHub Stars|Language|License|
@@ -1563,7 +1587,9 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[opengpt](https://github.com/gngpp/opengpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/opengpt?style=social)|Rust|mit|
 |[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
 |[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
-|[chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/chatgpt-quickstart?style=social)|Bicep|mit|
+|[chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/chatgpt-quickstart?style=social)|Bicep|mit|
+|[autoblogger](https://github.com/incomestreamsurfer/autoblogger)|![GitHub Repo stars](https://img.shields.io/github/stars/IncomeStreamSurfer/autoblogger?style=social)|Python|-|
+|[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
 
 
 ## Others
@@ -1822,6 +1848,8 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - 個人聊天GPT
  * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 chatgpt講解Go知名項目的源碼
  * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPT資源庫(原理/微調/代碼/論文)』的初始版本來自July CSDN博客上閱讀量高達50萬的ChatGPT系列，聯合發起人：七月ChatGPT原理課學員，6月初正式對外發布
+ * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - 使用Spring / Java堆棧的ChatGPT樣本
+ * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT：私密且安全的內部企業使用聊天GPT 💼
 
 
 |Name|GitHub Stars|Language|License|
@@ -2069,5 +2097,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/chunhuizhang/personal_chatgpt?style=social)|Jupyter Notebook|-|
 |[explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cuishuang/explain-source-code-by-chatgpt?style=social)|-|-|
 |[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
+|[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/spring-chatgpt-sample?style=social)|Java|mit|
+|[azurechatgpt](https://github.com/microsoft/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/azurechatgpt?style=social)|TypeScript|mit|
 
 

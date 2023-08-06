@@ -16,21 +16,35 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [promptmap](https://github.com/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances
+
+
+**Chatbots**
+ * [FeishuBot](https://github.com/rawchen/feishubot) - Feishu group chat/private chat ChatGPT robot
+
+
 **Browser-extensions**
- * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - A chatGPT plugin that adds web5 code assistance and knowledge to ChatGPT
+ * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
+
+
+**Langchain**
+ * [litellm](https://github.com/berriai/litellm) - a simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints
 
 
 **Openai**
- * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - Build a chat application using Azure OpenAI with ChatGPT.
+ * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - This is an autoblogger that uses the ChatGPT API and Stable Diffusion API to create fully optimized blog posts and post them automatically to wordpress
+ * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web   支持本地数据向量话提问 基于Golang语言的后端API服务
 
 
 **Others**
- * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - personal chatgpt
- * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 ChatGPT explains the source code of a well-known Go project.
- * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - The initial version of this "ChatGPT Resource Library (Principles/Fine-tuning/Code/Papers)" comes from the highly popular ChatGPT series on July's CSDN blog, with a reading count of up to 500,000. Co-initiated by the students of July's ChatGPT Principles Course, it was officially released to the public in early June.
+ * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - A ChatGPT like sample using Spring / Java Stack
+ * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 
 
 
-_Updated on August 04, 2023_ (A total of 940 repositories listed.)
+_Updated on August 07, 2023_ (A total of 948 repositories listed.)
+
+🏅 [ishaan-jaff](https://github.com/ishaan-jaff) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -162,6 +176,7 @@ _Updated on August 04, 2023_ (A total of 940 repositories listed.)
  * [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - Introducing `gpt-prompt-engineer` ✍️An agent that creates optimal GPT prompts.Just describe the task, and a chain of AI systems will:- Generate many possible prompts- Test them in a ranked tournament- Return the best promptAnd it's open-source:  
  * [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - Notes summarized from ChatGPT Prompt Engineering for Developers by DeepLearning.ai
  * [gpt-runner](https://github.com/nicepkg/gpt-runner) - Conversations with your files! Manage and run your AI presets!
+ * [promptmap](https://github.com/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances
 
 
 |Name|GitHub Stars|Language|License|
@@ -229,6 +244,7 @@ _Updated on August 04, 2023_ (A total of 940 repositories listed.)
 |[gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)|![GitHub Repo stars](https://img.shields.io/github/stars/mshumer/gpt-prompt-engineer?style=social)|Jupyter Notebook|mit|
 |[prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/prompt-engineering-for-javascript-developers?style=social)|-|-|
 |[gpt-runner](https://github.com/nicepkg/gpt-runner)|![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=social)|TypeScript|mit|
+|[promptmap](https://github.com/utkusen/promptmap)|![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?style=social)|Python|mit|
 
 
 ## Chatbots
@@ -349,6 +365,7 @@ _Updated on August 04, 2023_ (A total of 940 repositories listed.)
  * [GPT4Tools](https://github.com/stevengrove/gpt4tools) - GPT4Tools is an intelligent system that can automatically decide, control, and utilize different visual foundation models, allowing the user to interact with images during a conversation.
  * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
  * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - A wechat robot based on ChatGPT with no risk, very stable! 🚀
+ * [FeishuBot](https://github.com/rawchen/feishubot) - Feishu group chat/private chat ChatGPT robot
 
 
 |Name|GitHub Stars|Language|License|
@@ -469,6 +486,7 @@ _Updated on August 04, 2023_ (A total of 940 repositories listed.)
 |[GPT4Tools](https://github.com/stevengrove/gpt4tools)|![GitHub Repo stars](https://img.shields.io/github/stars/stevengrove/GPT4Tools?style=social)|Python|apache-2.0|
 |[Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imabutahersiddik/Ultimate-ChatGPT?style=social)|TypeScript|other|
 |[wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot)|![GitHub Repo stars](https://img.shields.io/github/stars/iuiaoin/wechat-gptbot?style=social)|Python|mit|
+|[FeishuBot](https://github.com/rawchen/feishubot)|![GitHub Repo stars](https://img.shields.io/github/stars/rawchen/FeishuBot?style=social)|Java|-|
 
 
 ## Browser-extensions
@@ -580,6 +598,7 @@ _Updated on August 04, 2023_ (A total of 940 repositories listed.)
  * [continue](https://github.com/continuedev/continue) - ⏩ the open-source autopilot for software development—a VS Code extension that brings the power of ChatGPT to your IDE
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
  * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - A chatGPT plugin that adds web5 code assistance and knowledge to ChatGPT
+ * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 
 
 |Name|GitHub Stars|Language|License|
@@ -690,7 +709,8 @@ _Updated on August 04, 2023_ (A total of 940 repositories listed.)
 |[openplugin](https://github.com/cakecrusher/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/cakecrusher/openplugin?style=social)|Python|apache-2.0|
 |[continue](https://github.com/continuedev/continue)|![GitHub Repo stars](https://img.shields.io/github/stars/continuedev/continue?style=social)|Python|apache-2.0|
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
-|[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/TBD54566975/web5-chatgpt-plugin?style=social)|Python|mit|
+|[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/tbd54566975/web5-chatgpt-plugin?style=social)|Python|mit|
+|[chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/chatgpt-plugin?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1273,6 +1293,7 @@ _Updated on August 04, 2023_ (A total of 940 repositories listed.)
  * [dolphin](https://github.com/kaleido-lab/dolphin) - General video interaction platform based on LLMs, including Video ChatGPT
  * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - openai style api for open large language models, using LLMs just as chatgpt! 开源大模型的统一后端接口
  * [AtomGPT](https://github.com/atomecho/atomgpt) - Pretrained large models for Chinese and English, aiming to achieve the same level as ChatGPT.
+ * [litellm](https://github.com/berriai/litellm) - a simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints
 
 
 |Name|GitHub Stars|Language|License|
@@ -1331,6 +1352,7 @@ _Updated on August 04, 2023_ (A total of 940 repositories listed.)
 |[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 |[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
+|[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social)|Python|mit|
 
 
 ## Unity
@@ -1455,6 +1477,8 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
  * [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - ChatGPT Web application based on OpenAI API, including a general version and a role version. It comes with a management backend and is implemented using Go + Vue3 + element-plus.
  * [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - Super AI Brain is a Spring Boot-based architecture that supports web, Android, iOS, and H5 multi-platform applications. It uses OpenAI's ChatGPT model to implement an intelligent chatbot. Users can have conversations with the chatbot on the interface, and the chatbot will generate replies based on the user's input. It also supports drawing, where users can input text and automatically create corresponding diagrams. In the future, it will integrate with domestic AI models such as Wenxin Yiyuan, Tongyi Qianwen, MOSS, etc., and will continue to be updated with more features waiting for you to unlock.
  * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - Build a chat application using Azure OpenAI with ChatGPT.
+ * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - This is an autoblogger that uses the ChatGPT API and Stable Diffusion API to create fully optimized blog posts and post them automatically to wordpress
+ * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web   支持本地数据向量话提问 基于Golang语言的后端API服务
 
 
 |Name|GitHub Stars|Language|License|
@@ -1553,7 +1577,9 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[opengpt](https://github.com/gngpp/opengpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/opengpt?style=social)|Rust|mit|
 |[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
 |[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
-|[chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/chatgpt-quickstart?style=social)|Bicep|mit|
+|[chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/chatgpt-quickstart?style=social)|Bicep|mit|
+|[autoblogger](https://github.com/incomestreamsurfer/autoblogger)|![GitHub Repo stars](https://img.shields.io/github/stars/IncomeStreamSurfer/autoblogger?style=social)|Python|-|
+|[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
 
 
 ## Others
@@ -1801,6 +1827,8 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
  * [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - personal chatgpt
  * [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - 👂🏻 ChatGPT explains the source code of a well-known Go project.
  * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - The initial version of this "ChatGPT Resource Library (Principles/Fine-tuning/Code/Papers)" comes from the highly popular ChatGPT series on July's CSDN blog, with a reading count of up to 500,000. Co-initiated by the students of July's ChatGPT Principles Course, it was officially released to the public in early June.
+ * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - A ChatGPT like sample using Spring / Java Stack
+ * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 
 
 
 |Name|GitHub Stars|Language|License|
@@ -2048,5 +2076,7 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/chunhuizhang/personal_chatgpt?style=social)|Jupyter Notebook|-|
 |[explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cuishuang/explain-source-code-by-chatgpt?style=social)|-|-|
 |[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
+|[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/spring-chatgpt-sample?style=social)|Java|mit|
+|[azurechatgpt](https://github.com/microsoft/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/azurechatgpt?style=social)|TypeScript|mit|
 
 

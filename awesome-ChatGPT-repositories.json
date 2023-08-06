@@ -1598,6 +1598,31 @@
                     "zh-hans": "与您的文件对话！管理和运行您的AI预设！",
                     "zh-hant": "與您的文件對話！管理和運行您的AI預設！"
                 }
+            },
+            "https://github.com/utkusen/promptmap": {
+                "repository_name": "promptmap",
+                "user_name": "utkusen",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "automatically tests prompt injection attacks on ChatGPT instances",
+                "topics": [
+                    "chatgpt",
+                    "llm",
+                    "prompt-engineering",
+                    "prompt-injection"
+                ],
+                "multilingual_descriptions": {
+                    "en": "automatically tests prompt injection attacks on ChatGPT instances",
+                    "ja": "ChatGPTインスタンスに対して自動的にプロンプトインジェクション攻撃をテストします。",
+                    "zh-hans": "自动测试ChatGPT实例上的提示注入攻击。",
+                    "zh-hant": "自動測試ChatGPT實例上的提示注入攻擊。"
+                }
             }
         },
         "Chatbots": {
@@ -4050,6 +4075,20 @@
                     "zh-hans": "一个基于ChatGPT的微信机器人，没有风险，非常稳定！🚀",
                     "zh-hant": "一個基於ChatGPT的微信機器人，沒有風險，非常穩定！🚀"
                 }
+            },
+            "https://github.com/rawchen/feishubot": {
+                "repository_name": "FeishuBot",
+                "user_name": "rawchen",
+                "language": "Java",
+                "license": null,
+                "description": "飞书群聊/私聊ChatGPT机器人",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Feishu group chat/private chat ChatGPT robot",
+                    "ja": "飛書のグループチャット/個人チャットChatGPTロボット",
+                    "zh-hans": "飞书群聊/私聊ChatGPT机器人",
+                    "zh-hant": "飛書群聊/私聊ChatGPT機器人"
+                }
             }
         },
         "Browser-extensions": {
@@ -6251,6 +6290,47 @@
                     "ja": "ChatGPTにWeb5コードのサポートと知識を追加するChatGPTプラグイン",
                     "zh-hans": "一个ChatGPT插件，为ChatGPT添加了web5代码辅助和知识。",
                     "zh-hant": "一個 ChatGPT 插件，為 ChatGPT 添加了 web5 代碼協助和知識。"
+                }
+            },
+            "https://github.com/e2b-dev/chatgpt-plugin": {
+                "repository_name": "chatgpt-plugin",
+                "user_name": "e2b-dev",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.",
+                "topics": [
+                    "ai",
+                    "api",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-plugin",
+                    "code",
+                    "code-execution",
+                    "code-interpreter",
+                    "development",
+                    "gpt-3",
+                    "gpt-3-5-turbo",
+                    "gpt-4",
+                    "javascript",
+                    "llm",
+                    "nodejs",
+                    "openai",
+                    "openapi",
+                    "plugins",
+                    "rest",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.",
+                    "ja": "ChatGPTのためのステロイド入りコードインタプリタ。どんな言語でも実行し、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。",
+                    "zh-hans": "ChatGPT的代码解释器加强版。运行任何语言，任何终端进程，自由使用文件系统。同时具备互联网访问权限。",
+                    "zh-hant": "ChatGPT的代碼解釋器強化版。運行任何語言，任何終端進程，自由使用文件系統。同時具有網絡訪問功能。"
                 }
             }
         },
@@ -12292,6 +12372,33 @@
                     "zh-hans": "中英文预训练大模型，目标与ChatGPT的水平一致",
                     "zh-hant": "中英文預訓練大模型，目標與ChatGPT的水平一致\n中英文預訓練大模型，目標與ChatGPT的水平一致"
                 }
+            },
+            "https://github.com/berriai/litellm": {
+                "repository_name": "litellm",
+                "user_name": "BerriAI",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation",
+                "topics": [
+                    "anthropic",
+                    "langchain",
+                    "langchain-python",
+                    "llm",
+                    "llmops",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "a simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints",
+                    "ja": "OpenAI、Azure、Cohere、Anthropic APIエンドポイントを呼び出すためのシンプルで軽量なパッケージ",
+                    "zh-hans": "一个简单轻巧的软件包，用于调用OpenAI、Azure、Cohere和Anthropic API终端。",
+                    "zh-hant": "一個簡單輕巧的套件，可用於調用OpenAI、Azure、Cohere和Anthropic API端點。"
+                }
             }
         },
         "Unity": {
@@ -14324,6 +14431,40 @@
                     "ja": "Azure OpenAIとChatGPTを使用してチャットアプリケーションを構築してください。",
                     "zh-hans": "使用Azure OpenAI和ChatGPT构建一个聊天应用程序。",
                     "zh-hant": "使用Azure OpenAI和ChatGPT构建一个聊天应用程序。"
+                }
+            },
+            "https://github.com/incomestreamsurfer/autoblogger": {
+                "repository_name": "autoblogger",
+                "user_name": "IncomeStreamSurfer",
+                "language": "Python",
+                "license": null,
+                "description": "This is an autoblogger that uses the ChatGPT API and Stable Diffusion API to create fully optimized blog posts and post them automatically to wordpress",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This is an autoblogger that uses the ChatGPT API and Stable Diffusion API to create fully optimized blog posts and post them automatically to wordpress",
+                    "ja": "これはChatGPT APIとStable Diffusion APIを使用して、完全に最適化されたブログ記事を作成し、自動的にWordPressに投稿する自動ブロガーです。",
+                    "zh-hans": "这是一个使用ChatGPT API和Stable Diffusion API的自动博客工具，可以创建完全优化的博文并自动发布到WordPress。",
+                    "zh-hant": "這是一個使用ChatGPT API和Stable Diffusion API的自動部落格系統，可以創建完全優化的部落格文章並自動發佈到WordPress。"
+                }
+            },
+            "https://github.com/wooveep/chatserver-api": {
+                "repository_name": "chatserver-api",
+                "user_name": "wooveep",
+                "language": "Go",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web   支持本地数据向量话提问 基于Golang语言的后端API服务",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web   支持本地数据向量话提问 基于Golang语言的后端API服务",
+                    "ja": "OPENAIに基づいて開発されたChatGPT APIを使用したAIアシスタントシステムChatserver-web。ローカルデータベースのベクトルクエリに対応しています。バックエンドAPIサービスはGolang言語を使用しています。",
+                    "zh-hans": "基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web 支持本地数据向量话提问 基于Golang语言的后端API服务",
+                    "zh-hant": "基於OPENAI的ChatGPT API開發的AI助手系統 Chatserver-web   支持本地數據向量話提問 基於Golang語言的後端API服務"
                 }
             }
         },
@@ -18714,6 +18855,46 @@
                     "ja": "本『ChatGPTリソースライブラリ（原理/微調/コード/論文）』の初期バージョンは、July CSDNブログで50万回以上閲覧されたChatGPTシリーズから派生しました。共同発起人：七月ChatGPT原理コースの受講生であり、6月初旬に正式に公開されました。",
                     "zh-hans": "本『ChatGPT资源库(原理/微调/代码/论文)』的初始版本来自July CSDN博客上阅读量高达50万的ChatGPT系列，联合发起人：七月ChatGPT原理课学员，6月初正式对外发布",
                     "zh-hant": "本『ChatGPT資源庫(原理/微調/代碼/論文)』的初始版本來自July CSDN博客上閱讀量高達50萬的ChatGPT系列，聯合發起人：七月ChatGPT原理課學員，6月初正式對外發布"
+                }
+            },
+            "https://github.com/azure-samples/spring-chatgpt-sample": {
+                "repository_name": "spring-chatgpt-sample",
+                "user_name": "Azure-Samples",
+                "language": "Java",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A ChatGPT like sample using Spring / Java Stack",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT like sample using Spring / Java Stack",
+                    "ja": "Spring / Javaスタックを使用したChatGPTのサンプル",
+                    "zh-hans": "一个使用Spring / Java堆栈的ChatGPT样本",
+                    "zh-hant": "使用Spring / Java堆棧的ChatGPT樣本"
+                }
+            },
+            "https://github.com/microsoft/azurechatgpt": {
+                "repository_name": "azurechatgpt",
+                "user_name": "microsoft",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 ",
+                    "ja": "🤖 Azure ChatGPT: 内部企業利用のプライベートで安全なChatGPT 💼",
+                    "zh-hans": "🤖 Azure ChatGPT：专为企业内部使用而设计的私密安全聊天GPT 💼",
+                    "zh-hant": "🤖 Azure ChatGPT：私密且安全的內部企業使用聊天GPT 💼"
                 }
             }
         }
