@@ -436,6 +436,20 @@
                     "zh-hans": "使用ChatGPT + Code Interpreter组合可以做的很棒的事情🔥",
                     "zh-hant": "使用ChatGPT + Code Interpreter組合的超棒功能🔥"
                 }
+            },
+            "https://github.com/520hacker/awesome-ai": {
+                "repository_name": "awesome-ai",
+                "user_name": "520hacker",
+                "language": null,
+                "license": null,
+                "description": "对开源AI转发套壳应用生态进行研究，收集开源AI转发套壳应用，并进行对比。 ChatGPT,OPENAI.AZURE,BAIDU,XUNFEI",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Research on the ecosystem of open source AI forwarding shell applications, collect open source AI forwarding shell applications, and compare them. ChatGPT, OPENAI.AZURE, BAIDU, XUNFEI.",
+                    "ja": "オープンソースAI転送シェルアプリのエコシステムについて研究し、オープンソースAI転送シェルアプリを収集し、比較します。ChatGPT、OPENAI.AZURE、BAIDU、XUNFEI",
+                    "zh-hans": "对开源AI转发套壳应用生态进行研究，收集开源AI转发套壳应用，并进行对比。ChatGPT，OPENAI.AZURE，BAIDU，XUNFEI",
+                    "zh-hant": "對開源AI轉發套殼應用生態進行研究，收集開源AI轉發套殼應用，並進行對比。ChatGPT，OPENAI.AZURE，BAIDU，XUNFEI"
+                }
             }
         },
         "Prompts": {
@@ -4088,6 +4102,33 @@
                     "ja": "飛書のグループチャット/個人チャットChatGPTロボット",
                     "zh-hans": "飞书群聊/私聊ChatGPT机器人",
                     "zh-hant": "飛書群聊/私聊ChatGPT機器人"
+                }
+            },
+            "https://github.com/weaigc/gradio-chatbot": {
+                "repository_name": "gradio-chatbot",
+                "user_name": "weaigc",
+                "language": "TypeScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": " A tool that can automatically convert 🤗 Huggingface Spaces,魔搭创空间 and Gradio ChatBot into free APIs. Supports GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问 and many other chatbot like spaces.",
+                "topics": [
+                    "chatgpt",
+                    "gpt4free",
+                    "gradio-interface",
+                    "huggingface",
+                    "llama2",
+                    "mpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": " A tool that can automatically convert 🤗 Huggingface Spaces,魔搭创空间 and Gradio ChatBot into free APIs. Supports GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问 and many other chatbot like spaces.",
+                    "ja": "自動的に🤗 Huggingface Spaces、魔搭創空間、およびGradio ChatBotを無料のAPIに変換するツールです。GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通義千問など、さまざまなチャットボットのようなスペースをサポートしています。",
+                    "zh-hans": "一个可以自动将🤗 Huggingface Spaces、魔搭创空间和Gradio ChatBot转换为免费API的工具。支持GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通义千问和许多其他类似聊天机器人的空间。",
+                    "zh-hant": "一個可以自動將🤗 Huggingface Spaces、魔搭創空間和Gradio ChatBot轉換為免費API的工具。支援GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通義千問等許多類似聊天機器人的空間。"
                 }
             }
         },
@@ -14466,6 +14507,31 @@
                     "zh-hans": "基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web 支持本地数据向量话提问 基于Golang语言的后端API服务",
                     "zh-hant": "基於OPENAI的ChatGPT API開發的AI助手系統 Chatserver-web   支持本地數據向量話提問 基於Golang語言的後端API服務"
                 }
+            },
+            "https://github.com/blinq-dev/laravel-synth": {
+                "repository_name": "laravel-synth",
+                "user_name": "blinq-dev",
+                "language": "PHP",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Generate Laravel code with ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "laravel",
+                    "openai",
+                    "php"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Generate Laravel code with ChatGPT",
+                    "ja": "ChatGPTを使用してLaravelコードを生成します。",
+                    "zh-hans": "使用ChatGPT生成Laravel代码",
+                    "zh-hant": "使用ChatGPT生成Laravel代碼"
+                }
             }
         },
         "Others": {
@@ -18895,6 +18961,20 @@
                     "ja": "🤖 Azure ChatGPT: 内部企業利用のプライベートで安全なChatGPT 💼",
                     "zh-hans": "🤖 Azure ChatGPT：专为企业内部使用而设计的私密安全聊天GPT 💼",
                     "zh-hant": "🤖 Azure ChatGPT：私密且安全的內部企業使用聊天GPT 💼"
+                }
+            },
+            "https://github.com/dreamergrow/chatgpt-nine-ai": {
+                "repository_name": "ChatGPT-Nine-Ai",
+                "user_name": "DreamerGrow",
+                "language": null,
+                "license": null,
+                "description": "使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A commercial ChatGPT website built using Nestjs and Vue3.",
+                    "ja": "使用NestjsとVue3で構築された商業化ChatGPTウェブサイト",
+                    "zh-hans": "使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站",
+                    "zh-hant": "使用 Nestjs 和 Vue3 搭建的 商業化ChatGPT網站"
                 }
             }
         }
