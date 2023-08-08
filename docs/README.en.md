@@ -38,18 +38,18 @@ _Updated on August 09, 2023_ (A total of 952 repositories listed.)
 
 ## Table of contents
 
- * [Awesome-lists](#Awesome-lists)
- * [Prompts](#Prompts)
- * [Chatbots](#Chatbots)
- * [Browser-extensions](#Browser-extensions)
- * [CLIs](#CLIs)
- * [Reimplementations](#Reimplementations)
- * [Tutorials](#Tutorials)
- * [NLP](#NLP)
- * [Langchain](#Langchain)
- * [Unity](#Unity)
- * [Openai](#Openai)
- * [Others](#Others)
+ * [Awesome-lists](#awesome-lists)
+ * [Prompts](#prompts)
+ * [Chatbots](#chatbots)
+ * [Browser-extensions](#browser-extensions)
+ * [CLIs](#clis)
+ * [Reimplementations](#reimplementations)
+ * [Tutorials](#tutorials)
+ * [NLP](#nlp)
+ * [Langchain](#langchain)
+ * [Unity](#unity)
+ * [Openai](#openai)
+ * [Others](#others)
 
 *Each content is under consideration, so there is a possibility that the contents may change in the future. Additionally, other content will be categorized in the future.*
 
