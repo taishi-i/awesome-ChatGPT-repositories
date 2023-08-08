@@ -15,33 +15,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [promptmap](https://github.com/utkusen/promptmap) - 自動測試ChatGPT實例上的即時注入攻擊
+**Awesome-lists**
+ * [awesome-ai](https://github.com/520hacker/awesome-ai) - 對開源AI轉發套應用生態進行研究,收集開源AI轉發套應用,並進行對比.
 
 
 **Chatbots**
- * [FeishuBot](https://github.com/rawchen/feishubot) - 飛書群聊/私聊聊GPT機器人
-
-
-**Browser-extensions**
- * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - 任何語言,任何終端程序,自由使用檔案系統,
-
-
-**Langchain**
- * [litellm](https://github.com/berriai/litellm) - 這是一款簡單輕巧的包,
+ * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - 支持GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问等許多其他聊天機類空間.
 
 
 **Openai**
- * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - 這是一款使用ChatGPTAPI和穩定傳播API創建完全優化的部落格文章,
- * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基于OPENAI的ChatGPTAPI開發的AI助手系統 聊天伺服器-Web 支持本地數據向量话题提問 基于Golang語言的后端API服務
+ * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - 使用 ChatGPT 生成Laravel 代碼
 
 
 **Others**
- * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - 使用Spring/Java Stack的ChatGPT類似樣本
- * [azurechatgpt](https://github.com/microsoft/azurechatgpt) -  Azure ChatGPT:私人與安全的ChatGPT,
+ * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 網路使用者與Vue3建立的商用聊天GPT網站
 
 
-_Updated on August 07, 2023_ (A total of 948 repositories listed.)
+_Updated on August 09, 2023_ (A total of 952 repositories listed.)
 
 🏅 [ishaan-jaff](https://github.com/ishaan-jaff) provided some repository information. Thank you!
 
@@ -84,6 +74,7 @@ _Updated on August 07, 2023_ (A total of 948 repositories listed.)
  * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - 網絡安全chatgpt指令集，訓練chatgpt成為一名網絡安全專家。
  * [awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 神奇人工智慧
  * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - 使用ChatGPT + Code Interpreter組合的超棒功能🔥
+ * [awesome-ai](https://github.com/520hacker/awesome-ai) - 對開源AI轉發套殼應用生態進行研究，收集開源AI轉發套殼應用，並進行對比。ChatGPT，OPENAI.AZURE，BAIDU，XUNFEI
 
 
 |Name|GitHub Stars|Language|License|
@@ -108,6 +99,7 @@ _Updated on August 07, 2023_ (A total of 948 repositories listed.)
 |[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
 |[awesome-ai](https://github.com/lencx/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/awesome-ai?style=social)|-|cc0-1.0|
 |[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/skalskip/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
+|[awesome-ai](https://github.com/520hacker/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/520hacker/awesome-ai?style=social)|-|-|
 
 
 ## Prompts
@@ -367,6 +359,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 終極ChatGPT是一個由人工智能驅動的虛擬助手，旨在提供優質的寫作和解決問題體驗。
  * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - 一個基於ChatGPT的微信機器人，沒有風險，非常穩定！🚀
  * [FeishuBot](https://github.com/rawchen/feishubot) - 飛書群聊/私聊ChatGPT機器人
+ * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - 一個可以自動將🤗 Huggingface Spaces、魔搭創空間和Gradio ChatBot轉換為免費API的工具。支援GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通義千問等許多類似聊天機器人的空間。
 
 
 |Name|GitHub Stars|Language|License|
@@ -488,6 +481,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imabutahersiddik/Ultimate-ChatGPT?style=social)|TypeScript|other|
 |[wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot)|![GitHub Repo stars](https://img.shields.io/github/stars/iuiaoin/wechat-gptbot?style=social)|Python|mit|
 |[FeishuBot](https://github.com/rawchen/feishubot)|![GitHub Repo stars](https://img.shields.io/github/stars/rawchen/FeishuBot?style=social)|Java|-|
+|[gradio-chatbot](https://github.com/weaigc/gradio-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/weaigc/gradio-chatbot?style=social)|TypeScript|apache-2.0|
 
 
 ## Browser-extensions
@@ -1360,7 +1354,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 |[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
-|[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social)|Python|mit|
+|[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
 
 
 ## Unity
@@ -1489,6 +1483,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
  * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - 使用Azure OpenAI和ChatGPT构建一个聊天应用程序。
  * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - 這是一個使用ChatGPT API和Stable Diffusion API的自動部落格系統，可以創建完全優化的部落格文章並自動發佈到WordPress。
  * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基於OPENAI的ChatGPT API開發的AI助手系統 Chatserver-web   支持本地數據向量話提問 基於Golang語言的後端API服務
+ * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - 使用ChatGPT生成Laravel代碼
 
 
 |Name|GitHub Stars|Language|License|
@@ -1588,8 +1583,9 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
 |[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
 |[chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/chatgpt-quickstart?style=social)|Bicep|mit|
-|[autoblogger](https://github.com/incomestreamsurfer/autoblogger)|![GitHub Repo stars](https://img.shields.io/github/stars/IncomeStreamSurfer/autoblogger?style=social)|Python|-|
+|[autoblogger](https://github.com/incomestreamsurfer/autoblogger)|![GitHub Repo stars](https://img.shields.io/github/stars/incomestreamsurfer/autoblogger?style=social)|Python|-|
 |[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
+|[laravel-synth](https://github.com/blinq-dev/laravel-synth)|![GitHub Repo stars](https://img.shields.io/github/stars/blinq-dev/laravel-synth?style=social)|PHP|mit|
 
 
 ## Others
@@ -1850,6 +1846,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPT資源庫(原理/微調/代碼/論文)』的初始版本來自July CSDN博客上閱讀量高達50萬的ChatGPT系列，聯合發起人：七月ChatGPT原理課學員，6月初正式對外發布
  * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - 使用Spring / Java堆棧的ChatGPT樣本
  * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT：私密且安全的內部企業使用聊天GPT 💼
+ * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 使用 Nestjs 和 Vue3 搭建的 商業化ChatGPT網站
 
 
 |Name|GitHub Stars|Language|License|
@@ -2097,7 +2094,8 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/chunhuizhang/personal_chatgpt?style=social)|Jupyter Notebook|-|
 |[explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cuishuang/explain-source-code-by-chatgpt?style=social)|-|-|
 |[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
-|[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/spring-chatgpt-sample?style=social)|Java|mit|
+|[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/spring-chatgpt-sample?style=social)|Java|mit|
 |[azurechatgpt](https://github.com/microsoft/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/azurechatgpt?style=social)|TypeScript|mit|
+|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/DreamerGrow/ChatGPT-Nine-Ai?style=social)|-|-|
 
 

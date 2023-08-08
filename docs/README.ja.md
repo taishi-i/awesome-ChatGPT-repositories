@@ -15,33 +15,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [promptmap](https://github.com/utkusen/promptmap) - ChatGPTインスタンスに対して自動的にプロンプトインジェクション攻撃をテストします。
+**Awesome-lists**
+ * [awesome-ai](https://github.com/520hacker/awesome-ai) - オープンソースAI転送シェルアプリのエコシステムについて研究し、オープンソースAI転送シェルアプリを収集し、比較します。ChatGPT、OPENAI.AZURE、BAIDU、XUNFEI
 
 
 **Chatbots**
- * [FeishuBot](https://github.com/rawchen/feishubot) - 飛書のグループチャット/個人チャットChatGPTロボット
-
-
-**Browser-extensions**
- * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - ChatGPTのためのステロイド入りコードインタプリタ。どんな言語でも実行し、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
-
-
-**Langchain**
- * [litellm](https://github.com/berriai/litellm) - OpenAI、Azure、Cohere、Anthropic APIエンドポイントを呼び出すためのシンプルで軽量なパッケージ
+ * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - 自動的に🤗 Huggingface Spaces、魔搭創空間、およびGradio ChatBotを無料のAPIに変換するツールです。GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通義千問など、さまざまなチャットボットのようなスペースをサポートしています。
 
 
 **Openai**
- * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - これはChatGPT APIとStable Diffusion APIを使用して、完全に最適化されたブログ記事を作成し、自動的にWordPressに投稿する自動ブロガーです。
- * [chatserver-api](https://github.com/wooveep/chatserver-api) - OPENAIに基づいて開発されたChatGPT APIを使用したAIアシスタントシステムChatserver-web。ローカルデータベースのベクトルクエリに対応しています。バックエンドAPIサービスはGolang言語を使用しています。
+ * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - ChatGPTを使用してLaravelコードを生成します。
 
 
 **Others**
- * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - Spring / Javaスタックを使用したChatGPTのサンプル
- * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: 内部企業利用のプライベートで安全なChatGPT 💼
+ * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 使用NestjsとVue3で構築された商業化ChatGPTウェブサイト
 
 
-_Updated on August 07, 2023_ (A total of 948 repositories listed.)
+_Updated on August 09, 2023_ (A total of 952 repositories listed.)
 
 🏅 [ishaan-jaff](https://github.com/ishaan-jaff) provided some repository information. Thank you!
 
@@ -84,6 +74,7 @@ _Updated on August 07, 2023_ (A total of 948 repositories listed.)
  * [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - ネットワークセキュリティchatgptコマンドセット、chatgptをネットワークセキュリティ専門家にトレーニングする。
  * [awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 素晴らしい人工知能
  * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - ChatGPT + Code Interpreterコンボでできる素晴らしいこと 🔥
+ * [awesome-ai](https://github.com/520hacker/awesome-ai) - オープンソースAI転送シェルアプリのエコシステムについて研究し、オープンソースAI転送シェルアプリを収集し、比較します。ChatGPT、OPENAI.AZURE、BAIDU、XUNFEI
 
 
 |Name|GitHub Stars|Language|License|
@@ -108,6 +99,7 @@ _Updated on August 07, 2023_ (A total of 948 repositories listed.)
 |[awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity)|![GitHub Repo stars](https://img.shields.io/github/stars/sechelper/awesome-chatgpt-prompts-cybersecurity?style=social)|-|gpl-3.0|
 |[awesome-ai](https://github.com/lencx/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/awesome-ai?style=social)|-|cc0-1.0|
 |[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/skalskip/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
+|[awesome-ai](https://github.com/520hacker/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/520hacker/awesome-ai?style=social)|-|-|
 
 
 ## Prompts
@@ -376,6 +368,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - 究極のChatGPTは、強化された文章作成と問題解決の体験を提供するために設計されたAIパワードの仮想アシスタントです。
  * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - リスクのない、非常に安定したChatGPTベースのWeChatロボットです！ 🚀
  * [FeishuBot](https://github.com/rawchen/feishubot) - 飛書のグループチャット/個人チャットChatGPTロボット
+ * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - 自動的に🤗 Huggingface Spaces、魔搭創空間、およびGradio ChatBotを無料のAPIに変換するツールです。GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通義千問など、さまざまなチャットボットのようなスペースをサポートしています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -497,6 +490,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/imabutahersiddik/Ultimate-ChatGPT?style=social)|TypeScript|other|
 |[wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot)|![GitHub Repo stars](https://img.shields.io/github/stars/iuiaoin/wechat-gptbot?style=social)|Python|mit|
 |[FeishuBot](https://github.com/rawchen/feishubot)|![GitHub Repo stars](https://img.shields.io/github/stars/rawchen/FeishuBot?style=social)|Java|-|
+|[gradio-chatbot](https://github.com/weaigc/gradio-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/weaigc/gradio-chatbot?style=social)|TypeScript|apache-2.0|
 
 
 ## Browser-extensions
@@ -1367,7 +1361,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[dolphin](https://github.com/kaleido-lab/dolphin)|![GitHub Repo stars](https://img.shields.io/github/stars/kaleido-lab/dolphin?style=social)|Python|mit|
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 |[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
-|[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/BerriAI/litellm?style=social)|Python|mit|
+|[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
 
 
 ## Unity
@@ -1495,6 +1489,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - Azure OpenAIとChatGPTを使用してチャットアプリケーションを構築してください。
  * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - これはChatGPT APIとStable Diffusion APIを使用して、完全に最適化されたブログ記事を作成し、自動的にWordPressに投稿する自動ブロガーです。
  * [chatserver-api](https://github.com/wooveep/chatserver-api) - OPENAIに基づいて開発されたChatGPT APIを使用したAIアシスタントシステムChatserver-web。ローカルデータベースのベクトルクエリに対応しています。バックエンドAPIサービスはGolang言語を使用しています。
+ * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - ChatGPTを使用してLaravelコードを生成します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1594,8 +1589,9 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/yangjian102621/chatgpt-plus?style=social)|Vue|mit|
 |[springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/274056675/springboot-openai-chatgpt?style=social)|Java|apache-2.0|
 |[chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/chatgpt-quickstart?style=social)|Bicep|mit|
-|[autoblogger](https://github.com/incomestreamsurfer/autoblogger)|![GitHub Repo stars](https://img.shields.io/github/stars/IncomeStreamSurfer/autoblogger?style=social)|Python|-|
+|[autoblogger](https://github.com/incomestreamsurfer/autoblogger)|![GitHub Repo stars](https://img.shields.io/github/stars/incomestreamsurfer/autoblogger?style=social)|Python|-|
 |[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
+|[laravel-synth](https://github.com/blinq-dev/laravel-synth)|![GitHub Repo stars](https://img.shields.io/github/stars/blinq-dev/laravel-synth?style=social)|PHP|mit|
 
 
 ## Others
@@ -1847,6 +1843,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - 本『ChatGPTリソースライブラリ（原理/微調/コード/論文）』の初期バージョンは、July CSDNブログで50万回以上閲覧されたChatGPTシリーズから派生しました。共同発起人：七月ChatGPT原理コースの受講生であり、6月初旬に正式に公開されました。
  * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - Spring / Javaスタックを使用したChatGPTのサンプル
  * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: 内部企業利用のプライベートで安全なChatGPT 💼
+ * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 使用NestjsとVue3で構築された商業化ChatGPTウェブサイト
 
 
 |Name|GitHub Stars|Language|License|
@@ -2094,7 +2091,8 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/chunhuizhang/personal_chatgpt?style=social)|Jupyter Notebook|-|
 |[explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cuishuang/explain-source-code-by-chatgpt?style=social)|-|-|
 |[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
-|[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/spring-chatgpt-sample?style=social)|Java|mit|
+|[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/spring-chatgpt-sample?style=social)|Java|mit|
 |[azurechatgpt](https://github.com/microsoft/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/azurechatgpt?style=social)|TypeScript|mit|
+|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/DreamerGrow/ChatGPT-Nine-Ai?style=social)|-|-|
 
 
