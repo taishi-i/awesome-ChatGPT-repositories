@@ -595,6 +595,7 @@ _Updated on August 09, 2023_ (A total of 952 repositories listed.)
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
  * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - A chatGPT plugin that adds web5 code assistance and knowledge to ChatGPT
  * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
+ * [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper for meetings and any browser tab.
 
 
 |Name|GitHub Stars|Language|License|
@@ -707,6 +708,7 @@ _Updated on August 09, 2023_ (A total of 952 repositories listed.)
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
 |[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/tbd54566975/web5-chatgpt-plugin?style=social)|Python|mit|
 |[chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/chatgpt-plugin?style=social)|TypeScript|mit|
+|[Meeper](https://github.com/pas1ko/meeper)|![GitHub Repo stars](https://img.shields.io/github/stars/pas1ko/meeper?style=social)|TypeScript|MPL2|
 
 
 ## CLIs
