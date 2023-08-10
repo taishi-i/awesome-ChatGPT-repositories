@@ -15,25 +15,26 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai](https://github.com/520hacker/awesome-ai) - 對開源AI轉發套應用生態進行研究,收集開源AI轉發套應用,並進行對比.
+**Browser-extensions**
+ * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - 包含詳細的描述和使用文件,以及插件的非官方來源.
+ * [meeper](https://github.com/pas1ko/meeper) - 是任何網路會議的秘書.
 
 
-**Chatbots**
- * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - 支持GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问等許多其他聊天機類空間.
+**CLIs**
+ * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - 網路聊天GPT 單擊部署
 
 
-**Openai**
- * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - 使用 ChatGPT 生成Laravel 代碼
+**Langchain**
+ * [BayLing](https://github.com/ictnlp/bayling) - 百是一項以LLaMA為基礎的語言對齊增強的英语/中文大語言模型,具有優越的英语/中文能力,在多種語言和通用任務等多項測試中取得ChatGPT 90%的性能.
 
 
 **Others**
- * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 網路使用者與Vue3建立的商用聊天GPT網站
+ * [gptlink-web](https://github.com/gptlink/gptlink-web) - 該網站的網站應用程式為:
 
 
-_Updated on August 09, 2023_ (A total of 952 repositories listed.)
+_Updated on August 11, 2023_ (A total of 957 repositories listed.)
 
-🏅 [ishaan-jaff](https://github.com/ishaan-jaff) provided some repository information. Thank you!
+🏅 [pas1ko](https://github.com/pas1ko) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -594,6 +595,8 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供服務，同時也兼容 GPT 架構的其他語言模型。
  * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - 一個 ChatGPT 插件，為 ChatGPT 添加了 web5 代碼協助和知識。
  * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - ChatGPT的代碼解釋器強化版。運行任何語言，任何終端進程，自由使用文件系統。同時具有網絡訪問功能。
+ * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - ChatGPT Plus 中所有可用的 ChatGPT 插件的精選清單，包括詳細描述和使用文檔，以及非官方的插件來源。
+ * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - 是您在瀏覽器中進行任何會議的秘書。
 
 
 |Name|GitHub Stars|Language|License|
@@ -706,6 +709,8 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
 |[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/tbd54566975/web5-chatgpt-plugin?style=social)|Python|mit|
 |[chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/chatgpt-plugin?style=social)|TypeScript|mit|
+|[awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/HighwayofLife/awesome-chatgpt-plugins?style=social)|Jupyter Notebook|cc0-1.0|
+|[meeper](https://github.com/pas1ko/meeper)|![GitHub Repo stars](https://img.shields.io/github/stars/pas1ko/meeper?style=social)|TypeScript|mpl-2.0|
 
 
 ## CLIs
@@ -788,6 +793,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [openai-cli](https://github.com/janlay/openai-cli) - 一個用BASH編寫的OpenAI通用命令行界面。
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 一個智能且多功能的通用SQL客戶端和報表工具，集成了ChatGPT功能。
  * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ 以程式設計師的方式開啟 ChatGPT！GPT Terminal 是一個讓您可以在終端機中與 GPT 進行溝通的平台。
+ * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ChatGPT 網頁一鍵部署
 
 
 |Name|GitHub Stars|Language|License|
@@ -870,6 +876,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[openai-cli](https://github.com/janlay/openai-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cli?style=social)|Shell|mit|
 |[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
 |[gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal)|![GitHub Repo stars](https://img.shields.io/github/stars/ltyzzzxxx/gpt-web-terminal?style=social)|TypeScript|apache-2.0|
+|[chatgpt-web](https://github.com/dqzboy/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/dqzboy/chatgpt-web?style=social)|Shell|-|
 
 
 ## Reimplementations
@@ -1296,6 +1303,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文預訓練大模型，目標與ChatGPT的水平一致
 中英文預訓練大模型，目標與ChatGPT的水平一致
  * [litellm](https://github.com/berriai/litellm) - 一個簡單輕巧的套件，可用於調用OpenAI、Azure、Cohere和Anthropic API端點。
+ * [BayLing](https://github.com/ictnlp/bayling) - “百聆”是一個基於LLaMA的語言對齊增強的英語/中文大語言模型，具有優越的英語/中文能力，在多語言和通用任務等多項測試中取得ChatGPT 90%的性能。BayLing是一個配備先進語言對齊功能的英語/中文LLM，展示出在英語/中文生成、指令遵從和多輪互動方面的優越能力。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1355,6 +1363,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 |[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
 |[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
+|[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 
 
 ## Unity
@@ -1847,6 +1856,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - 使用Spring / Java堆棧的ChatGPT樣本
  * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT：私密且安全的內部企業使用聊天GPT 💼
  * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 使用 Nestjs 和 Vue3 搭建的 商業化ChatGPT網站
+ * [gptlink-web](https://github.com/gptlink/gptlink-web) - 一個使用React和Tailwind CSS開發的ChatGPT網絡應用程序，API由gptlink提供。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2096,6 +2106,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
 |[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/spring-chatgpt-sample?style=social)|Java|mit|
 |[azurechatgpt](https://github.com/microsoft/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/azurechatgpt?style=social)|TypeScript|mit|
-|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/DreamerGrow/ChatGPT-Nine-Ai?style=social)|-|-|
+|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/dreamergrow/ChatGPT-Nine-Ai?style=social)|-|-|
+|[gptlink-web](https://github.com/gptlink/gptlink-web)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink-web?style=social)|TypeScript|mit|
 
 

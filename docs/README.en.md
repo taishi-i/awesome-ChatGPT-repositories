@@ -16,25 +16,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai](https://github.com/520hacker/awesome-ai) - Research on the ecosystem of open source AI forwarding shell applications, collect open source AI forwarding shell applications, and compare them. ChatGPT, OPENAI.AZURE, BAIDU, XUNFEI.
+**Browser-extensions**
+ * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - A curated list of all of the ChatGPT plugins available within ChatGPT plus, includes detailed descriptions and usage docs, as well as unofficial sources of plugins
+ * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - is your secretary for any in-browser conference.
 
 
-**Chatbots**
- * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) -  A tool that can automatically convert 🤗 Huggingface Spaces,魔搭创空间 and Gradio ChatBot into free APIs. Supports GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问 and many other chatbot like spaces.
+**CLIs**
+ * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ChatGPT Web One-click deployment
 
 
-**Openai**
- * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - Generate Laravel code with ChatGPT
+**Langchain**
+ * [BayLing](https://github.com/ictnlp/bayling) -  “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
 
 
 **Others**
- * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - A commercial ChatGPT website built using Nestjs and Vue3.
+ * [gptlink-web](https://github.com/gptlink/gptlink-web) - A ChatGPT web app by React and Tailwind CSS，API by gptlink。
 
 
-_Updated on August 09, 2023_ (A total of 952 repositories listed.)
+_Updated on August 11, 2023_ (A total of 957 repositories listed.)
 
-🏅 [ishaan-jaff](https://github.com/ishaan-jaff) provided some repository information. Thank you!
+🏅 [pas1ko](https://github.com/pas1ko) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -593,6 +594,8 @@ _Updated on August 09, 2023_ (A total of 952 repositories listed.)
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
  * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - A chatGPT plugin that adds web5 code assistance and knowledge to ChatGPT
  * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
+ * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - A curated list of all of the ChatGPT plugins available within ChatGPT plus, includes detailed descriptions and usage docs, as well as unofficial sources of plugins
+ * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - is your secretary for any in-browser conference.
 
 
 |Name|GitHub Stars|Language|License|
@@ -705,6 +708,8 @@ _Updated on August 09, 2023_ (A total of 952 repositories listed.)
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
 |[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/tbd54566975/web5-chatgpt-plugin?style=social)|Python|mit|
 |[chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/chatgpt-plugin?style=social)|TypeScript|mit|
+|[awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/HighwayofLife/awesome-chatgpt-plugins?style=social)|Jupyter Notebook|cc0-1.0|
+|[meeper](https://github.com/pas1ko/meeper)|![GitHub Repo stars](https://img.shields.io/github/stars/pas1ko/meeper?style=social)|TypeScript|mpl-2.0|
 
 
 ## CLIs
@@ -787,6 +792,7 @@ _Updated on August 09, 2023_ (A total of 952 repositories listed.)
  * [openai-cli](https://github.com/janlay/openai-cli) - A universal cli for OpenAI, written in BASH.
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
  * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ Open ChatGPT with Programmer's Approach! GPT Terminal is a platform that allows you to communicate with GPT in a terminal.
+ * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ChatGPT Web One-click deployment
 
 
 |Name|GitHub Stars|Language|License|
@@ -869,6 +875,7 @@ _Updated on August 09, 2023_ (A total of 952 repositories listed.)
 |[openai-cli](https://github.com/janlay/openai-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cli?style=social)|Shell|mit|
 |[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
 |[gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal)|![GitHub Repo stars](https://img.shields.io/github/stars/ltyzzzxxx/gpt-web-terminal?style=social)|TypeScript|apache-2.0|
+|[chatgpt-web](https://github.com/dqzboy/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/dqzboy/chatgpt-web?style=social)|Shell|-|
 
 
 ## Reimplementations
@@ -1288,6 +1295,7 @@ _Updated on August 09, 2023_ (A total of 952 repositories listed.)
  * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - openai style api for open large language models, using LLMs just as chatgpt! 开源大模型的统一后端接口
  * [AtomGPT](https://github.com/atomecho/atomgpt) - Pretrained large models for Chinese and English, aiming to achieve the same level as ChatGPT.
  * [litellm](https://github.com/berriai/litellm) - a simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints
+ * [BayLing](https://github.com/ictnlp/bayling) -  “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1347,6 +1355,7 @@ _Updated on August 09, 2023_ (A total of 952 repositories listed.)
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 |[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
 |[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
+|[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 
 
 ## Unity
@@ -1826,6 +1835,7 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
  * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - A ChatGPT like sample using Spring / Java Stack
  * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼 
  * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - A commercial ChatGPT website built using Nestjs and Vue3.
+ * [gptlink-web](https://github.com/gptlink/gptlink-web) - A ChatGPT web app by React and Tailwind CSS，API by gptlink。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2075,6 +2085,7 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
 |[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/spring-chatgpt-sample?style=social)|Java|mit|
 |[azurechatgpt](https://github.com/microsoft/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/azurechatgpt?style=social)|TypeScript|mit|
-|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/DreamerGrow/ChatGPT-Nine-Ai?style=social)|-|-|
+|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/dreamergrow/ChatGPT-Nine-Ai?style=social)|-|-|
+|[gptlink-web](https://github.com/gptlink/gptlink-web)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink-web?style=social)|TypeScript|mit|
 
 

@@ -15,25 +15,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai](https://github.com/520hacker/awesome-ai) - オープンソースAI転送シェルアプリのエコシステムについて研究し、オープンソースAI転送シェルアプリを収集し、比較します。ChatGPT、OPENAI.AZURE、BAIDU、XUNFEI
+**Browser-extensions**
+ * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - ChatGPT plus内で利用可能なChatGPTプラグインの厳選リスト。詳細な説明と使用方法のドキュメント、非公式なプラグインの情報も含まれています。
+ * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - ブラウザ内のどんなオンライン会議でもあなたの秘書です。
 
 
-**Chatbots**
- * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - 自動的に🤗 Huggingface Spaces、魔搭創空間、およびGradio ChatBotを無料のAPIに変換するツールです。GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通義千問など、さまざまなチャットボットのようなスペースをサポートしています。
+**CLIs**
+ * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ChatGPT Webのワンクリックデプロイメント
+ChatGPT Webのワンクリックデプロイメント
 
 
-**Openai**
- * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - ChatGPTを使用してLaravelコードを生成します。
+**Langchain**
+ * [BayLing](https://github.com/ictnlp/bayling) - 「百聆」は、LLaMAに基づいた言語アライメント強化型の英語/中国語の大規模言語モデルであり、英語/中国語の能力に優れており、多言語や一般的なタスクなどのさまざまなテストでChatGPTの90%の性能を発揮します。BayLingは、英語/中国語のLLMであり、高度な言語アライメントを備えており、英語/中国語の生成、指示の追跡、マルチターンの対話において優れた能力を示します。
 
 
 **Others**
- * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 使用NestjsとVue3で構築された商業化ChatGPTウェブサイト
+ * [gptlink-web](https://github.com/gptlink/gptlink-web) - ReactとTailwind CSSによるChatGPTウェブアプリ、APIはgptlinkを使用しています。
 
 
-_Updated on August 09, 2023_ (A total of 952 repositories listed.)
+_Updated on August 11, 2023_ (A total of 957 repositories listed.)
 
-🏅 [ishaan-jaff](https://github.com/ishaan-jaff) provided some repository information. Thank you!
+🏅 [pas1ko](https://github.com/pas1ko) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -603,6 +605,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Pluginsは、ChatGPTやGPTアーキテクチャと互換性のある他の言語モデルのプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。
  * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - ChatGPTにWeb5コードのサポートと知識を追加するChatGPTプラグイン
  * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - ChatGPTのためのステロイド入りコードインタプリタ。どんな言語でも実行し、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
+ * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - ChatGPT plus内で利用可能なChatGPTプラグインの厳選リスト。詳細な説明と使用方法のドキュメント、非公式なプラグインの情報も含まれています。
+ * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - ブラウザ内のどんなオンライン会議でもあなたの秘書です。
 
 
 |Name|GitHub Stars|Language|License|
@@ -715,6 +719,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
 |[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/tbd54566975/web5-chatgpt-plugin?style=social)|Python|mit|
 |[chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/chatgpt-plugin?style=social)|TypeScript|mit|
+|[awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/HighwayofLife/awesome-chatgpt-plugins?style=social)|Jupyter Notebook|cc0-1.0|
+|[meeper](https://github.com/pas1ko/meeper)|![GitHub Repo stars](https://img.shields.io/github/stars/pas1ko/meeper?style=social)|TypeScript|mpl-2.0|
 
 
 ## CLIs
@@ -798,6 +804,8 @@ aiderはターミナルで動作するGPTパワードのコーディングです
  * [openai-cli](https://github.com/janlay/openai-cli) - BASHで書かれたOpenAIのためのユニバーサルCLI。
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 データベース用の知識豊富で多機能な汎用SQLクライアントおよびレポートツールで、ChatGPTの機能も統合されています。
  * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ プログラマーのアプローチでChatGPTを開く！ GPT Terminalは、ターミナルでGPTとコミュニケーションを取ることができるプラットフォームです。
+ * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ChatGPT Webのワンクリックデプロイメント
+ChatGPT Webのワンクリックデプロイメント
 
 
 |Name|GitHub Stars|Language|License|
@@ -880,6 +888,7 @@ aiderはターミナルで動作するGPTパワードのコーディングです
 |[openai-cli](https://github.com/janlay/openai-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cli?style=social)|Shell|mit|
 |[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
 |[gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal)|![GitHub Repo stars](https://img.shields.io/github/stars/ltyzzzxxx/gpt-web-terminal?style=social)|TypeScript|apache-2.0|
+|[chatgpt-web](https://github.com/dqzboy/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/dqzboy/chatgpt-web?style=social)|Shell|-|
 
 
 ## Reimplementations
@@ -1303,6 +1312,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - オープンAIスタイルAPIは、チャットGPTと同様にLLM（Large Language Models）を使用して、オープンな大規模言語モデルを開くための統一されたバックエンドインターフェースです。
  * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文の事前トレーニング済みモデルは、ChatGPTと同じレベルを目指しています。
  * [litellm](https://github.com/berriai/litellm) - OpenAI、Azure、Cohere、Anthropic APIエンドポイントを呼び出すためのシンプルで軽量なパッケージ
+ * [BayLing](https://github.com/ictnlp/bayling) - 「百聆」は、LLaMAに基づいた言語アライメント強化型の英語/中国語の大規模言語モデルであり、英語/中国語の能力に優れており、多言語や一般的なタスクなどのさまざまなテストでChatGPTの90%の性能を発揮します。BayLingは、英語/中国語のLLMであり、高度な言語アライメントを備えており、英語/中国語の生成、指示の追跡、マルチターンの対話において優れた能力を示します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1362,6 +1372,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 |[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
 |[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
+|[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 
 
 ## Unity
@@ -1844,6 +1855,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - Spring / Javaスタックを使用したChatGPTのサンプル
  * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: 内部企業利用のプライベートで安全なChatGPT 💼
  * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 使用NestjsとVue3で構築された商業化ChatGPTウェブサイト
+ * [gptlink-web](https://github.com/gptlink/gptlink-web) - ReactとTailwind CSSによるChatGPTウェブアプリ、APIはgptlinkを使用しています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2093,6 +2105,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
 |[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/spring-chatgpt-sample?style=social)|Java|mit|
 |[azurechatgpt](https://github.com/microsoft/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/azurechatgpt?style=social)|TypeScript|mit|
-|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/DreamerGrow/ChatGPT-Nine-Ai?style=social)|-|-|
+|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/dreamergrow/ChatGPT-Nine-Ai?style=social)|-|-|
+|[gptlink-web](https://github.com/gptlink/gptlink-web)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink-web?style=social)|TypeScript|mit|
 
 
