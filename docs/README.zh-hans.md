@@ -15,25 +15,26 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai](https://github.com/520hacker/awesome-ai) - 对开源AI转发套应用生态进行研究,收集开源AI转发套应用,并进行对比.
+**Browser-extensions**
+ * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - 一个精心整理的列表,所有在ChatGPT Plus中可用的ChatGPT插件,包括详细的描述和使用文件,以及插件的非官方来源
+ * [meeper](https://github.com/pas1ko/meeper) - 微信是您的秘书,
 
 
-**Chatbots**
- * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - 工具可以自动将 Huggingface Spaces,魔搭创空间和 Gradio ChatBot 转换成免费 API.支持 GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问和其他许多聊天机器人.
+**CLIs**
+ * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - 通过单击实现ChatGPT Web
 
 
-**Openai**
- * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - 使用ChatGPT生成Laravel代码
+**Langchain**
+ * [BayLing](https://github.com/ictnlp/bayling) - 百是一个基于LLaMA的语言对齐增强的英语/中文大语言模型,具有优越的英语/中文能力,在多语言和通用任务等多项测试中取得ChatGPT 90%的性能.BayLing是一门英语/中文LLM,配备了先进的语言对齐,在英语/中文生成,指令遵循和多轮交互方面表现出卓越的能力.
 
 
 **Others**
- * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 使用Nestjs 和Vue3 搭建的商业化ChatGPT网站
+ * [gptlink-web](https://github.com/gptlink/gptlink-web) - 通过 React 和 Tailwind CSS 开发的 ChatGPT 网络应用程序,通过 gptlink 开发的 API .
 
 
-_Updated on August 09, 2023_ (A total of 952 repositories listed.)
+_Updated on August 11, 2023_ (A total of 957 repositories listed.)
 
-🏅 [ishaan-jaff](https://github.com/ishaan-jaff) provided some repository information. Thank you!
+🏅 [pas1ko](https://github.com/pas1ko) provided some repository information. Thank you!
 
 ## Table of contents
 
@@ -596,6 +597,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [GPT-Plugins](https://github.com/targed/gpt-plugins) - GPT-Plugins是一个GitHub仓库，它作为一个全面的插件、附加组件和扩展列表，为ChatGPT以及与GPT架构兼容的其他语言模型提供服务。
  * [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - 一个ChatGPT插件，为ChatGPT添加了web5代码辅助和知识。
  * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - ChatGPT的代码解释器加强版。运行任何语言，任何终端进程，自由使用文件系统。同时具备互联网访问权限。
+ * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - ChatGPT Plus中所有可用的ChatGPT插件的精选列表，包括详细描述和使用文档，以及非官方的插件来源。
+ * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - 是您在浏览器中的任何会议的秘书。
 
 
 |Name|GitHub Stars|Language|License|
@@ -708,6 +711,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
 |[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/tbd54566975/web5-chatgpt-plugin?style=social)|Python|mit|
 |[chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/chatgpt-plugin?style=social)|TypeScript|mit|
+|[awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/HighwayofLife/awesome-chatgpt-plugins?style=social)|Jupyter Notebook|cc0-1.0|
+|[meeper](https://github.com/pas1ko/meeper)|![GitHub Repo stars](https://img.shields.io/github/stars/pas1ko/meeper?style=social)|TypeScript|mpl-2.0|
 
 
 ## CLIs
@@ -790,6 +795,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [openai-cli](https://github.com/janlay/openai-cli) - 一个用BASH编写的OpenAI通用命令行界面。
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 一个智能且多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。
  * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ 以程序员的方式打开ChatGPT！GPT终端是一个平台，允许您在终端中与GPT进行通信。
+ * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ChatGPT 网页一键部署
 
 
 |Name|GitHub Stars|Language|License|
@@ -872,6 +878,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[openai-cli](https://github.com/janlay/openai-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/janlay/openai-cli?style=social)|Shell|mit|
 |[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
 |[gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal)|![GitHub Repo stars](https://img.shields.io/github/stars/ltyzzzxxx/gpt-web-terminal?style=social)|TypeScript|apache-2.0|
+|[chatgpt-web](https://github.com/dqzboy/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/dqzboy/chatgpt-web?style=social)|Shell|-|
 
 
 ## Reimplementations
@@ -1294,6 +1301,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - 使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。
  * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文预训练大模型，目标与ChatGPT的水平一致
  * [litellm](https://github.com/berriai/litellm) - 一个简单轻巧的软件包，用于调用OpenAI、Azure、Cohere和Anthropic API终端。
+ * [BayLing](https://github.com/ictnlp/bayling) - “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing是一个配备先进语言对齐功能的英语/中文LLM，展现出在英语/中文生成、指令遵循和多轮互动方面的卓越能力。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1353,6 +1361,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)|![GitHub Repo stars](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm?style=social)|Python|apache-2.0|
 |[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
 |[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
+|[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 
 
 ## Unity
@@ -1841,6 +1850,7 @@ chatgpt-mirror-server快速部署库文件
  * [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - 一个使用Spring / Java堆栈的ChatGPT样本
  * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT：专为企业内部使用而设计的私密安全聊天GPT 💼
  * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站
+ * [gptlink-web](https://github.com/gptlink/gptlink-web) - 一个由React和Tailwind CSS构建的ChatGPT网络应用，API由gptlink提供。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2090,6 +2100,7 @@ chatgpt-mirror-server快速部署库文件
 |[ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper)|![GitHub Repo stars](https://img.shields.io/github/stars/julycoding/ChatGPT_principle_fine-tuning_code_paper?style=social)|-|-|
 |[spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/spring-chatgpt-sample?style=social)|Java|mit|
 |[azurechatgpt](https://github.com/microsoft/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/azurechatgpt?style=social)|TypeScript|mit|
-|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/DreamerGrow/ChatGPT-Nine-Ai?style=social)|-|-|
+|[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/dreamergrow/ChatGPT-Nine-Ai?style=social)|-|-|
+|[gptlink-web](https://github.com/gptlink/gptlink-web)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink-web?style=social)|TypeScript|mit|
 
 

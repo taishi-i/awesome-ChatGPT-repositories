@@ -6373,6 +6373,65 @@
                     "zh-hans": "ChatGPT的代码解释器加强版。运行任何语言，任何终端进程，自由使用文件系统。同时具备互联网访问权限。",
                     "zh-hant": "ChatGPT的代碼解釋器強化版。運行任何語言，任何終端進程，自由使用文件系統。同時具有網絡訪問功能。"
                 }
+            },
+            "https://github.com/highwayoflife/awesome-chatgpt-plugins": {
+                "repository_name": "awesome-chatgpt-plugins",
+                "user_name": "HighwayofLife",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "cc0-1.0",
+                    "name": "Creative Commons Zero v1.0 Universal",
+                    "spdx_id": "CC0-1.0",
+                    "url": "https://api.github.com/licenses/cc0-1.0",
+                    "node_id": "MDc6TGljZW5zZTY="
+                },
+                "description": "A curated list of all of the ChatGPT plugins available within ChatGPT plus, includes detailed descriptions and usage docs, as well as unofficial sources of plugins",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "awesome-lists",
+                    "chatgpt",
+                    "chatgpt-plugins",
+                    "gpt-3",
+                    "gpt-4",
+                    "lists",
+                    "openai",
+                    "plugins"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of all of the ChatGPT plugins available within ChatGPT plus, includes detailed descriptions and usage docs, as well as unofficial sources of plugins",
+                    "ja": "ChatGPT plus内で利用可能なChatGPTプラグインの厳選リスト。詳細な説明と使用方法のドキュメント、非公式なプラグインの情報も含まれています。",
+                    "zh-hans": "ChatGPT Plus中所有可用的ChatGPT插件的精选列表，包括详细描述和使用文档，以及非官方的插件来源。",
+                    "zh-hant": "ChatGPT Plus 中所有可用的 ChatGPT 插件的精選清單，包括詳細描述和使用文檔，以及非官方的插件來源。"
+                }
+            },
+            "https://github.com/pas1ko/meeper": {
+                "repository_name": "meeper",
+                "user_name": "pas1ko",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mpl-2.0",
+                    "name": "Mozilla Public License 2.0",
+                    "spdx_id": "MPL-2.0",
+                    "url": "https://api.github.com/licenses/mpl-2.0",
+                    "node_id": "MDc6TGljZW5zZTE0"
+                },
+                "description": "Meeper 📝 - is your secretary for any in-browser conference.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "extension",
+                    "langchain",
+                    "summary",
+                    "transcription",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Meeper 📝 - is your secretary for any in-browser conference.",
+                    "ja": "Meeper 📝 - ブラウザ内のどんなオンライン会議でもあなたの秘書です。",
+                    "zh-hans": "Meeper 📝 - 是您在浏览器中的任何会议的秘书。",
+                    "zh-hant": "Meeper 📝 - 是您在瀏覽器中進行任何會議的秘書。"
+                }
             }
         },
         "CLIs": {
@@ -7995,6 +8054,24 @@
                     "ja": "✨ プログラマーのアプローチでChatGPTを開く！ GPT Terminalは、ターミナルでGPTとコミュニケーションを取ることができるプラットフォームです。",
                     "zh-hans": "✨ 以程序员的方式打开ChatGPT！GPT终端是一个平台，允许您在终端中与GPT进行通信。",
                     "zh-hant": "✨ 以程式設計師的方式開啟 ChatGPT！GPT Terminal 是一個讓您可以在終端機中與 GPT 進行溝通的平台。"
+                }
+            },
+            "https://github.com/dqzboy/chatgpt-web": {
+                "repository_name": "chatgpt-web",
+                "user_name": "dqzboy",
+                "language": "Shell",
+                "license": null,
+                "description": "ChatGPT Web One-click deployment",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-next-web",
+                    "chatgpt-web"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Web One-click deployment",
+                    "ja": "ChatGPT Webのワンクリックデプロイメント\nChatGPT Webのワンクリックデプロイメント",
+                    "zh-hans": "ChatGPT 网页一键部署",
+                    "zh-hant": "ChatGPT 網頁一鍵部署"
                 }
             }
         },
@@ -12439,6 +12516,42 @@
                     "ja": "OpenAI、Azure、Cohere、Anthropic APIエンドポイントを呼び出すためのシンプルで軽量なパッケージ",
                     "zh-hans": "一个简单轻巧的软件包，用于调用OpenAI、Azure、Cohere和Anthropic API终端。",
                     "zh-hant": "一個簡單輕巧的套件，可用於調用OpenAI、Azure、Cohere和Anthropic API端點。"
+                }
+            },
+            "https://github.com/ictnlp/bayling": {
+                "repository_name": "BayLing",
+                "user_name": "ictnlp",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": " “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.",
+                "topics": [
+                    "aigc",
+                    "bayling",
+                    "chatgpt",
+                    "chinese",
+                    "cross-lingual",
+                    "general-language-model",
+                    "gpt4",
+                    "human-performance",
+                    "instruction-tuning",
+                    "interactive",
+                    "large-language-models",
+                    "llama",
+                    "machine-translation",
+                    "multilingual-translation",
+                    "translation"
+                ],
+                "multilingual_descriptions": {
+                    "en": " “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.",
+                    "ja": "「百聆」は、LLaMAに基づいた言語アライメント強化型の英語/中国語の大規模言語モデルであり、英語/中国語の能力に優れており、多言語や一般的なタスクなどのさまざまなテストでChatGPTの90%の性能を発揮します。BayLingは、英語/中国語のLLMであり、高度な言語アライメントを備えており、英語/中国語の生成、指示の追跡、マルチターンの対話において優れた能力を示します。",
+                    "zh-hans": "“百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing是一个配备先进语言对齐功能的英语/中文LLM，展现出在英语/中文生成、指令遵循和多轮互动方面的卓越能力。",
+                    "zh-hant": "“百聆”是一個基於LLaMA的語言對齊增強的英語/中文大語言模型，具有優越的英語/中文能力，在多語言和通用任務等多項測試中取得ChatGPT 90%的性能。BayLing是一個配備先進語言對齊功能的英語/中文LLM，展示出在英語/中文生成、指令遵從和多輪互動方面的優越能力。"
                 }
             }
         },
@@ -18975,6 +19088,30 @@
                     "ja": "使用NestjsとVue3で構築された商業化ChatGPTウェブサイト",
                     "zh-hans": "使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站",
                     "zh-hant": "使用 Nestjs 和 Vue3 搭建的 商業化ChatGPT網站"
+                }
+            },
+            "https://github.com/gptlink/gptlink-web": {
+                "repository_name": "gptlink-web",
+                "user_name": "gptlink",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A ChatGPT web app by React and Tailwind CSS，API by gptlink。",
+                "topics": [
+                    "gptlink",
+                    "react",
+                    "tailwindcss"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT web app by React and Tailwind CSS，API by gptlink。",
+                    "ja": "ReactとTailwind CSSによるChatGPTウェブアプリ、APIはgptlinkを使用しています。",
+                    "zh-hans": "一个由React和Tailwind CSS构建的ChatGPT网络应用，API由gptlink提供。",
+                    "zh-hant": "一個使用React和Tailwind CSS開發的ChatGPT網絡應用程序，API由gptlink提供。"
                 }
             }
         }
