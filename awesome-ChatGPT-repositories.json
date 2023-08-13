@@ -450,6 +450,28 @@
                     "zh-hans": "对开源AI转发套壳应用生态进行研究，收集开源AI转发套壳应用，并进行对比。ChatGPT，OPENAI.AZURE，BAIDU，XUNFEI",
                     "zh-hant": "對開源AI轉發套殼應用生態進行研究，收集開源AI轉發套殼應用，並進行對比。ChatGPT，OPENAI.AZURE，BAIDU，XUNFEI"
                 }
+            },
+            "https://github.com/changeyu0229/awesome-chatgpt-ai-zh": {
+                "repository_name": "Awesome-ChatGPT-AI-ZH",
+                "user_name": "ChangeYu0229",
+                "language": null,
+                "license": null,
+                "description": "全网曝光超1000万的「AI 知识库」正式移步Github开源，永久免费更新，提供ChatGPT，Midjourney等使用教程",
+                "topics": [
+                    "ai",
+                    "aigc",
+                    "chatgpt",
+                    "chatgpt4",
+                    "midjourney",
+                    "stable",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The \"AI Knowledge Base\" that has been exposed to over 10 million people on the internet is now officially open source on Github. It will be permanently updated for free and provide tutorials for using ChatGPT, Midjourney, and more.",
+                    "ja": "全ネットで1000万以上の露出を受けた「AI知識ベース」が正式にGithubでオープンソース化され、永久に無料で更新され、ChatGPT、Midjourneyなどの使用方法が提供されています。",
+                    "zh-hans": "全网曝光超过1000万的「AI 知识库」正式移步Github开源，永久免费更新，提供ChatGPT，Midjourney等使用教程。",
+                    "zh-hant": "全網曝光超1000萬的「AI 知識庫」正式移步Github開源，永久免費更新，提供ChatGPT，Midjourney等使用教程"
+                }
             }
         },
         "Prompts": {
@@ -1636,6 +1658,43 @@
                     "ja": "ChatGPTインスタンスに対して自動的にプロンプトインジェクション攻撃をテストします。",
                     "zh-hans": "自动测试ChatGPT实例上的提示注入攻击。",
                     "zh-hant": "自動測試ChatGPT實例上的提示注入攻擊。"
+                }
+            },
+            "https://github.com/barqawiz/intellinode": {
+                "repository_name": "IntelliNode",
+                "user_name": "Barqawiz",
+                "language": "JavaScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Access the latest AI models like ChatGPT, LLaMA, Stable Diffusion, WaveNet, and beyond through a unified prompt layer and performance evaluation",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "dall-e",
+                    "embeddings",
+                    "google-ai",
+                    "gpt-4",
+                    "hugging-face",
+                    "image-generation",
+                    "javascript",
+                    "language-model",
+                    "nodejs",
+                    "openai",
+                    "prompt-engineering",
+                    "semantic-search",
+                    "speech-synthesis",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Access the latest AI models like ChatGPT, LLaMA, Stable Diffusion, WaveNet, and beyond through a unified prompt layer and performance evaluation",
+                    "ja": "統一されたプロンプトレイヤーとパフォーマンス評価を通じて、ChatGPT、LLaMA、Stable Diffusion、WaveNetなどの最新のAIモデルにアクセスします。",
+                    "zh-hans": "通过统一的提示层和性能评估，访问最新的AI模型，如ChatGPT、LLaMA、Stable Diffusion、WaveNet等等。",
+                    "zh-hant": "透過統一的提示層和性能評估，存取最新的AI模型，如ChatGPT、LLaMA、Stable Diffusion、WaveNet等等。"
                 }
             }
         },
@@ -4130,6 +4189,59 @@
                     "zh-hans": "一个可以自动将🤗 Huggingface Spaces、魔搭创空间和Gradio ChatBot转换为免费API的工具。支持GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通义千问和许多其他类似聊天机器人的空间。",
                     "zh-hant": "一個可以自動將🤗 Huggingface Spaces、魔搭創空間和Gradio ChatBot轉換為免費API的工具。支援GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通義千問等許多類似聊天機器人的空間。"
                 }
+            },
+            "https://github.com/79e/chatgpt-web": {
+                "repository_name": "ChatGpt-Web",
+                "user_name": "79E",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。",
+                "topics": [
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "openai",
+                    "react"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。",
+                    "ja": "Reactで構築された商業的に有益なChatGptウェブアプリケーション。",
+                    "zh-hans": "使用React构建的一款商业可行的ChatGpt Web应用。",
+                    "zh-hant": "使用React搭建的一款商業化ChatGpt網頁應用程式。"
+                }
+            },
+            "https://github.com/kuingsmile/word-gpt-plus": {
+                "repository_name": "word-GPT-Plus",
+                "user_name": "Kuingsmile",
+                "language": "Vue",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.",
+                "topics": [
+                    "chatgpt",
+                    "copilot",
+                    "office",
+                    "office365",
+                    "openai",
+                    "word"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.",
+                    "ja": "Word GPT Plusは、chatGPTモデルをMicrosoft Wordに統合するワードアドインです。公式およびWeb APIの両方がサポートされています。",
+                    "zh-hans": "Word GPT Plus是一个将chatGPT模型集成到Microsoft Word中的Word插件。它支持官方和Web API。",
+                    "zh-hant": "Word GPT Plus 是一個將 chatGPT 模型整合到 Microsoft Word 的文字附加元件。它支援官方和網頁 API。"
+                }
             }
         },
         "Browser-extensions": {
@@ -6432,6 +6544,34 @@
                     "zh-hans": "Meeper 📝 - 是您在浏览器中的任何会议的秘书。",
                     "zh-hant": "Meeper 📝 - 是您在瀏覽器中進行任何會議的秘書。"
                 }
+            },
+            "https://github.com/iamgreggarcia/codesherpa": {
+                "repository_name": "codesherpa",
+                "user_name": "iamgreggarcia",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A code interpreter and ChatGPT plugin",
+                "topics": [
+                    "chatgpt-plugin",
+                    "code-interpreter",
+                    "fastapi",
+                    "gpt-4",
+                    "gpt-4-0613",
+                    "nextjs",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A code interpreter and ChatGPT plugin",
+                    "ja": "コードインタプリターとChatGPTプラグイン",
+                    "zh-hans": "一个代码解释器和ChatGPT插件",
+                    "zh-hant": "一個程式碼解譯器和ChatGPT插件"
+                }
             }
         },
         "CLIs": {
@@ -8072,6 +8212,38 @@
                     "ja": "ChatGPT Webのワンクリックデプロイメント\nChatGPT Webのワンクリックデプロイメント",
                     "zh-hans": "ChatGPT 网页一键部署",
                     "zh-hant": "ChatGPT 網頁一鍵部署"
+                }
+            },
+            "https://github.com/aandrew-me/tgpt": {
+                "repository_name": "tgpt",
+                "user_name": "aandrew-me",
+                "language": "Go",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "ChatGPT in terminal without needing API keys",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "cli",
+                    "go",
+                    "golang",
+                    "gpt3",
+                    "linux",
+                    "macos",
+                    "terminal",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT in terminal without needing API keys",
+                    "ja": "APIキーを必要とせずにターミナルでChatGPTを使用する。",
+                    "zh-hans": "在终端中使用ChatGPT而无需API密钥",
+                    "zh-hant": "在終端機中使用ChatGPT而不需要API密鑰"
                 }
             }
         },
@@ -11341,6 +11513,39 @@
                     "ja": "ChatGPTよりも優れたローカライズされたオープンソースのAIサーバー。",
                     "zh-hans": "一个比ChatGPT更好的本地化开源AI服务器。",
                     "zh-hant": "一個比ChatGPT更好的本地化開源AI服務器。"
+                }
+            },
+            "https://github.com/jeinlee1991/chinese-llm-benchmark": {
+                "repository_name": "chinese-llm-benchmark",
+                "user_name": "jeinlee1991",
+                "language": null,
+                "license": null,
+                "description": "中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Chinese Large Model Capability Evaluation Ranking: Covers open source large models such as Baidu Wenxin Yiyuan, ChatGPT, Ali Tongyi Qianwen, Xunfei Xinghuo, Belle/ChatGLM6B, etc., with multidimensional capability evaluation. It not only provides a ranking of capability scores but also provides the original output results of all models!",
+                    "ja": "中文大模型能力評測ランキング：百度文心一言、chatgpt、阿里通義千問、讯飞星火、belle / chatglm6bなどのオープンソースの大規模モデルをカバーし、多次元能力評価を提供します。能力スコアのランキングだけでなく、すべてのモデルの元の出力結果も提供します！",
+                    "zh-hans": "中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！",
+                    "zh-hant": "中文大模型能力評測榜單：覆蓋百度文心一言、chatgpt、阿里通義千問、訊飛星火、belle / chatglm6b 等開源大模型，多維度能力評測。不僅提供能力評分排行榜，也提供所有模型的原始輸出結果！"
+                }
+            },
+            "https://github.com/sunnweiwei/rankgpt": {
+                "repository_name": "RankGPT",
+                "user_name": "sunnweiwei",
+                "language": "Python",
+                "license": null,
+                "description": "Is ChatGPT Good at Search? LLMs as Re-Ranking Agent",
+                "topics": [
+                    "chatgpt",
+                    "information-retrieval",
+                    "large-language-models",
+                    "reranking"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Is ChatGPT Good at Search? LLMs as Re-Ranking Agent",
+                    "ja": "ChatGPTは検索に優れていますか？LLMsは再ランキングエージェントとして優れています。",
+                    "zh-hans": "ChatGPT在搜索方面表现如何？LLMs作为重新排序代理",
+                    "zh-hant": "ChatGPT在搜索方面表現如何？LLMs作為重新排序代理"
                 }
             }
         },
@@ -19112,6 +19317,34 @@
                     "ja": "ReactとTailwind CSSによるChatGPTウェブアプリ、APIはgptlinkを使用しています。",
                     "zh-hans": "一个由React和Tailwind CSS构建的ChatGPT网络应用，API由gptlink提供。",
                     "zh-hant": "一個使用React和Tailwind CSS開發的ChatGPT網絡應用程序，API由gptlink提供。"
+                }
+            },
+            "https://github.com/smallnew666/chatgpt-virtual-live": {
+                "repository_name": "ChatGPT-Virtual-Live",
+                "user_name": "smallnew666",
+                "language": "Python",
+                "license": null,
+                "description": "ChatGPT虚拟主播、支持B站、抖音、视频号",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.\nOutput: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.",
+                    "ja": "ChatGPTバーチャルタレント、Bilibili、TikTok、Video号をサポートしています。",
+                    "zh-hans": "ChatGPT虚拟主播，支持B站、抖音和视频号。",
+                    "zh-hant": "ChatGPT虛擬主播、支持B站、抖音、視頻號"
+                }
+            },
+            "https://github.com/chanzhaoyu/chatgpt-web-plus": {
+                "repository_name": "chatgpt-web-plus",
+                "user_name": "Chanzhaoyu",
+                "language": null,
+                "license": null,
+                "description": "chatgpt-web-plus",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "chatgpt-web-plus",
+                    "ja": "chatgpt-web-plus\nチャットGPTウェブプラス",
+                    "zh-hans": "聊天GPT网络增强版",
+                    "zh-hant": "chatgpt-web-plus"
                 }
             }
         }

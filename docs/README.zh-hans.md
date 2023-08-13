@@ -15,24 +15,38 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh) - 全网曝光超过1000万的『AI知识库』正式移动Github开源,永久免费更新,提供ChatGPT,Midjourney等使用教程
+
+
+**Prompts**
+ * [IntelliNode](https://github.com/barqawiz/intellinode) - 通过统一的提示层和性能评估访问 ChatGPT,LLaMA,稳定扩散,WaveNet等最新的AI模型
+
+
+**Chatbots**
+ * [ChatGpt-Web](https://github.com/79e/chatgpt-web) - 一个商业化的ChatGptWeb应用程序.
+ * [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) - Word GPT Plus是一个 Word 插件,将 chatGPT 模型集成到 Microsoft Word 中.支持官方和 Web API.
+
+
 **Browser-extensions**
- * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - 一个精心整理的列表,所有在ChatGPT Plus中可用的ChatGPT插件,包括详细的描述和使用文件,以及插件的非官方来源
- * [meeper](https://github.com/pas1ko/meeper) - 微信是您的秘书,
+ * [codesherpa](https://github.com/iamgreggarcia/codesherpa) - 代码解释器和ChatGPT插件
 
 
 **CLIs**
- * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - 通过单击实现ChatGPT Web
+ * [tgpt](https://github.com/aandrew-me/tgpt) - 在终端中使用ChatGPT,不需要API键
 
 
-**Langchain**
- * [BayLing](https://github.com/ictnlp/bayling) - 百是一个基于LLaMA的语言对齐增强的英语/中文大语言模型,具有优越的英语/中文能力,在多语言和通用任务等多项测试中取得ChatGPT 90%的性能.BayLing是一门英语/中文LLM,配备了先进的语言对齐,在英语/中文生成,指令遵循和多轮交互方面表现出卓越的能力.
+**NLP**
+ * [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜:覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型,多维度能力评测。不仅提供能力评分排行榜,还提供所有模型的原始输出结果!
+ * [RankGPT](https://github.com/sunnweiwei/rankgpt) - 聊GPT是否擅长搜索?
 
 
 **Others**
- * [gptlink-web](https://github.com/gptlink/gptlink-web) - 通过 React 和 Tailwind CSS 开发的 ChatGPT 网络应用程序,通过 gptlink 开发的 API .
+ * [ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live) - 聊天GPT虚拟主播、支持B站、音、视频号
+ * [chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus) - 聊天网页加
 
 
-_Updated on August 11, 2023_ (A total of 957 repositories listed.)
+_Updated on August 14, 2023_ (A total of 967 repositories listed.)
 
 🏅 [pas1ko](https://github.com/pas1ko) provided some repository information. Thank you!
 
@@ -77,6 +91,7 @@ ChatGPT资料汇总学习，持续更新......
  * [awesome-ai](https://github.com/lencx/awesome-ai) - 🤖 令人惊叹的人工智能
  * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - 使用ChatGPT + Code Interpreter组合可以做的很棒的事情🔥
  * [awesome-ai](https://github.com/520hacker/awesome-ai) - 对开源AI转发套壳应用生态进行研究，收集开源AI转发套壳应用，并进行对比。ChatGPT，OPENAI.AZURE，BAIDU，XUNFEI
+ * [Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh) - 全网曝光超过1000万的「AI 知识库」正式移步Github开源，永久免费更新，提供ChatGPT，Midjourney等使用教程。
 
 
 |Name|GitHub Stars|Language|License|
@@ -102,6 +117,7 @@ ChatGPT资料汇总学习，持续更新......
 |[awesome-ai](https://github.com/lencx/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/awesome-ai?style=social)|-|cc0-1.0|
 |[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/skalskip/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
 |[awesome-ai](https://github.com/520hacker/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/520hacker/awesome-ai?style=social)|-|-|
+|[Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh)|![GitHub Repo stars](https://img.shields.io/github/stars/ChangeYu0229/Awesome-ChatGPT-AI-ZH?style=social)|-|-|
 
 
 ## Prompts
@@ -171,6 +187,7 @@ ChatGPT资料汇总学习，持续更新......
 ChatGPT Prompt Engineering for Developers的笔记总结
  * [gpt-runner](https://github.com/nicepkg/gpt-runner) - 与您的文件对话！管理和运行您的AI预设！
  * [promptmap](https://github.com/utkusen/promptmap) - 自动测试ChatGPT实例上的提示注入攻击。
+ * [IntelliNode](https://github.com/barqawiz/intellinode) - 通过统一的提示层和性能评估，访问最新的AI模型，如ChatGPT、LLaMA、Stable Diffusion、WaveNet等等。
 
 
 |Name|GitHub Stars|Language|License|
@@ -239,6 +256,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/prompt-engineering-for-javascript-developers?style=social)|-|-|
 |[gpt-runner](https://github.com/nicepkg/gpt-runner)|![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=social)|TypeScript|mit|
 |[promptmap](https://github.com/utkusen/promptmap)|![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?style=social)|Python|mit|
+|[IntelliNode](https://github.com/barqawiz/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/Barqawiz/IntelliNode?style=social)|JavaScript|apache-2.0|
 
 
 ## Chatbots
@@ -361,6 +379,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - 一个基于ChatGPT的微信机器人，没有风险，非常稳定！🚀
  * [FeishuBot](https://github.com/rawchen/feishubot) - 飞书群聊/私聊ChatGPT机器人
  * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - 一个可以自动将🤗 Huggingface Spaces、魔搭创空间和Gradio ChatBot转换为免费API的工具。支持GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通义千问和许多其他类似聊天机器人的空间。
+ * [ChatGpt-Web](https://github.com/79e/chatgpt-web) - 使用React构建的一款商业可行的ChatGpt Web应用。
+ * [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) - Word GPT Plus是一个将chatGPT模型集成到Microsoft Word中的Word插件。它支持官方和Web API。
 
 
 |Name|GitHub Stars|Language|License|
@@ -483,6 +503,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot)|![GitHub Repo stars](https://img.shields.io/github/stars/iuiaoin/wechat-gptbot?style=social)|Python|mit|
 |[FeishuBot](https://github.com/rawchen/feishubot)|![GitHub Repo stars](https://img.shields.io/github/stars/rawchen/FeishuBot?style=social)|Java|-|
 |[gradio-chatbot](https://github.com/weaigc/gradio-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/weaigc/gradio-chatbot?style=social)|TypeScript|apache-2.0|
+|[ChatGpt-Web](https://github.com/79e/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/79E/ChatGpt-Web?style=social)|TypeScript|mit|
+|[word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/Kuingsmile/word-GPT-Plus?style=social)|Vue|mit|
 
 
 ## Browser-extensions
@@ -599,6 +621,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - ChatGPT的代码解释器加强版。运行任何语言，任何终端进程，自由使用文件系统。同时具备互联网访问权限。
  * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - ChatGPT Plus中所有可用的ChatGPT插件的精选列表，包括详细描述和使用文档，以及非官方的插件来源。
  * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - 是您在浏览器中的任何会议的秘书。
+ * [codesherpa](https://github.com/iamgreggarcia/codesherpa) - 一个代码解释器和ChatGPT插件
 
 
 |Name|GitHub Stars|Language|License|
@@ -711,8 +734,9 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[GPT-Plugins](https://github.com/targed/gpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/targed/GPT-Plugins?style=social)|Markdown|mit|
 |[web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/tbd54566975/web5-chatgpt-plugin?style=social)|Python|mit|
 |[chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/chatgpt-plugin?style=social)|TypeScript|mit|
-|[awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/HighwayofLife/awesome-chatgpt-plugins?style=social)|Jupyter Notebook|cc0-1.0|
+|[awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/highwayoflife/awesome-chatgpt-plugins?style=social)|Jupyter Notebook|cc0-1.0|
 |[meeper](https://github.com/pas1ko/meeper)|![GitHub Repo stars](https://img.shields.io/github/stars/pas1ko/meeper?style=social)|TypeScript|mpl-2.0|
+|[codesherpa](https://github.com/iamgreggarcia/codesherpa)|![GitHub Repo stars](https://img.shields.io/github/stars/iamgreggarcia/codesherpa?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -796,6 +820,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [Chat2DB](https://github.com/chat2db/chat2db) - 🔥 🔥 🔥 一个智能且多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。
  * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ 以程序员的方式打开ChatGPT！GPT终端是一个平台，允许您在终端中与GPT进行通信。
  * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ChatGPT 网页一键部署
+ * [tgpt](https://github.com/aandrew-me/tgpt) - 在终端中使用ChatGPT而无需API密钥
 
 
 |Name|GitHub Stars|Language|License|
@@ -879,6 +904,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[Chat2DB](https://github.com/chat2db/chat2db)|![GitHub Repo stars](https://img.shields.io/github/stars/chat2db/Chat2DB?style=social)|Java|apache-2.0|
 |[gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal)|![GitHub Repo stars](https://img.shields.io/github/stars/ltyzzzxxx/gpt-web-terminal?style=social)|TypeScript|apache-2.0|
 |[chatgpt-web](https://github.com/dqzboy/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/dqzboy/chatgpt-web?style=social)|Shell|-|
+|[tgpt](https://github.com/aandrew-me/tgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aandrew-me/tgpt?style=social)|Go|gpl-3.0|
 
 
 ## Reimplementations
@@ -1096,6 +1122,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [dreamGPT](https://github.com/divergentai/dreamgpt) - 利用大型语言模型（LLMs）的幻觉进行以新颖性驱动的探索。
  * [lnchat](https://github.com/litch/lnchat) - 所以我做了一个东西 - LNChat。你将这个应用连接到你的节点，然后你可以用纯文本的方式向它提问，比如“我的最新通道是什么”，“给我展示一个通道摘要”。ChatGPT填补了这个空白。它很有趣，但并不是特别有用。至少现在还不是。
  * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - 一个比ChatGPT更好的本地化开源AI服务器。
+ * [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+ * [RankGPT](https://github.com/sunnweiwei/rankgpt) - ChatGPT在搜索方面表现如何？LLMs作为重新排序代理
 
 
 |Name|GitHub Stars|Language|License|
@@ -1242,6 +1270,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[dreamGPT](https://github.com/divergentai/dreamgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/divergentai/dreamGPT?style=social)|Python|mit|
 |[lnchat](https://github.com/litch/lnchat)|![GitHub Repo stars](https://img.shields.io/github/stars/litch/lnchat?style=social)|Python|-|
 |[ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server)|![GitHub Repo stars](https://img.shields.io/github/stars/cgisky1980/ai00_rwkv_server?style=social)|CSS|mit|
+|[chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)|![GitHub Repo stars](https://img.shields.io/github/stars/jeinlee1991/chinese-llm-benchmark?style=social)|-|-|
+|[RankGPT](https://github.com/sunnweiwei/rankgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sunnweiwei/RankGPT?style=social)|Python|-|
 
 
 ## Langchain
@@ -1851,6 +1881,8 @@ chatgpt-mirror-server快速部署库文件
  * [azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT：专为企业内部使用而设计的私密安全聊天GPT 💼
  * [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站
  * [gptlink-web](https://github.com/gptlink/gptlink-web) - 一个由React和Tailwind CSS构建的ChatGPT网络应用，API由gptlink提供。
+ * [ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live) - ChatGPT虚拟主播，支持B站、抖音和视频号。
+ * [chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus) - 聊天GPT网络增强版
 
 
 |Name|GitHub Stars|Language|License|
@@ -2102,5 +2134,7 @@ chatgpt-mirror-server快速部署库文件
 |[azurechatgpt](https://github.com/microsoft/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/azurechatgpt?style=social)|TypeScript|mit|
 |[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/dreamergrow/ChatGPT-Nine-Ai?style=social)|-|-|
 |[gptlink-web](https://github.com/gptlink/gptlink-web)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink-web?style=social)|TypeScript|mit|
+|[ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live)|![GitHub Repo stars](https://img.shields.io/github/stars/smallnew666/ChatGPT-Virtual-Live?style=social)|Python|-|
+|[chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/Chanzhaoyu/chatgpt-web-plus?style=social)|-|-|
 
 
