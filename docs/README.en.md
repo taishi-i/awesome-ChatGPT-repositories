@@ -6,7 +6,7 @@
 
 A curated list of resources dedicated to open source GitHub repositories related to [ChatGPT](https://openai.com/blog/chatgpt).
 
-This list was created based on 2500+ extracted repositories after conducting six months of Twitter trend analysis. In addition, the contents of the list are automatically updated every few days.
+This list was created based on 5000+ extracted repositories after conducting six months of Twitter trend analysis. In addition, the contents of the list are automatically updated every few days.
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) on Hugging Face Spaces.
 
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
@@ -16,41 +16,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh) - The "AI Knowledge Base" that has been exposed to over 10 million people on the internet is now officially open source on Github. It will be permanently updated for free and provide tutorials for using ChatGPT, Midjourney, and more.
-
-
 **Prompts**
- * [IntelliNode](https://github.com/barqawiz/intellinode) - Access the latest AI models like ChatGPT, LLaMA, Stable Diffusion, WaveNet, and beyond through a unified prompt layer and performance evaluation
+ * [tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - Using Tree-of-Thought Prompting to boost ChatGPT's reasoning
+ * [chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts) - 油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框
 
 
 **Chatbots**
- * [ChatGpt-Web](https://github.com/79e/chatgpt-web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
- * [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
-
-
-**Browser-extensions**
- * [codesherpa](https://github.com/iamgreggarcia/codesherpa) - A code interpreter and ChatGPT plugin
+ * [chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc) - Chat with your docs in PDF/PPTX/DOCX format, using LangChain and GPT4/ChatGPT from both Azure OpenAI Service and OpenAI
+ * [OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot) - Open Ai ChatGPT Bot By DarkMakerofc(   Mr  Nima ) & Team , You Can Expirience ChatGPT on Your Whatsapp.
 
 
 **CLIs**
- * [tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
+ * [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is an advanced command-line interface for OpenAI's ChatGPT, offering streaming, query mode, and history tracking for seamless and context-aware conversations. Ideal for both users and developers, it provides advanced configuration and easy setup options to ensure a tailored conversational experience with the GPT model.
 
 
-**NLP**
- * [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - Chinese Large Model Capability Evaluation Ranking: Covers open source large models such as Baidu Wenxin Yiyuan, ChatGPT, Ali Tongyi Qianwen, Xunfei Xinghuo, Belle/ChatGLM6B, etc., with multidimensional capability evaluation. It not only provides a ranking of capability scores but also provides the original output results of all models!
- * [RankGPT](https://github.com/sunnweiwei/rankgpt) - Is ChatGPT Good at Search? LLMs as Re-Ranking Agent
+**Langchain**
+ * [auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
 
 
-**Others**
- * [ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live) - Input: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
-Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
- * [chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus) - chatgpt-web-plus
-
-
-_Updated on August 14, 2023_ (A total of 967 repositories listed.)
-
-🏅 [pas1ko](https://github.com/pas1ko) provided some repository information. Thank you!
+_Updated on August 16, 2023_ (A total of 973 repositories listed.)
 
 ## Table of contents
 
@@ -66,8 +50,6 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
  * [Unity](#unity)
  * [Openai](#openai)
  * [Others](#others)
-
-*Each content is under consideration, so there is a possibility that the contents may change in the future. Additionally, other content will be categorized in the future.*
 
 ## Awesome-lists
 
@@ -118,7 +100,7 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
 |[awesome-ai](https://github.com/lencx/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/lencx/awesome-ai?style=social)|-|cc0-1.0|
 |[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/skalskip/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
 |[awesome-ai](https://github.com/520hacker/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/520hacker/awesome-ai?style=social)|-|-|
-|[Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh)|![GitHub Repo stars](https://img.shields.io/github/stars/ChangeYu0229/Awesome-ChatGPT-AI-ZH?style=social)|-|-|
+|[Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh)|![GitHub Repo stars](https://img.shields.io/github/stars/changeyu0229/Awesome-ChatGPT-AI-ZH?style=social)|-|-|
 
 
 ## Prompts
@@ -188,6 +170,8 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
  * [gpt-runner](https://github.com/nicepkg/gpt-runner) - Conversations with your files! Manage and run your AI presets!
  * [promptmap](https://github.com/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances
  * [IntelliNode](https://github.com/barqawiz/intellinode) - Access the latest AI models like ChatGPT, LLaMA, Stable Diffusion, WaveNet, and beyond through a unified prompt layer and performance evaluation
+ * [tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - Using Tree-of-Thought Prompting to boost ChatGPT's reasoning
+ * [chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts) - 油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框
 
 
 |Name|GitHub Stars|Language|License|
@@ -256,7 +240,9 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
 |[prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/dabit3/prompt-engineering-for-javascript-developers?style=social)|-|-|
 |[gpt-runner](https://github.com/nicepkg/gpt-runner)|![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=social)|TypeScript|mit|
 |[promptmap](https://github.com/utkusen/promptmap)|![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?style=social)|Python|mit|
-|[IntelliNode](https://github.com/barqawiz/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/Barqawiz/IntelliNode?style=social)|JavaScript|apache-2.0|
+|[IntelliNode](https://github.com/barqawiz/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/barqawiz/IntelliNode?style=social)|JavaScript|apache-2.0|
+|[tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/tree-of-thought-prompting?style=social)|-|mit|
+|[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/winchesHe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 
 
 ## Chatbots
@@ -381,6 +367,8 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
  * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) -  A tool that can automatically convert 🤗 Huggingface Spaces,魔搭创空间 and Gradio ChatBot into free APIs. Supports GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问 and many other chatbot like spaces.
  * [ChatGpt-Web](https://github.com/79e/chatgpt-web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
  * [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
+ * [chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc) - Chat with your docs in PDF/PPTX/DOCX format, using LangChain and GPT4/ChatGPT from both Azure OpenAI Service and OpenAI
+ * [OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot) - Open Ai ChatGPT Bot By DarkMakerofc(   Mr  Nima ) & Team , You Can Expirience ChatGPT on Your Whatsapp.
 
 
 |Name|GitHub Stars|Language|License|
@@ -503,8 +491,10 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
 |[wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot)|![GitHub Repo stars](https://img.shields.io/github/stars/iuiaoin/wechat-gptbot?style=social)|Python|mit|
 |[FeishuBot](https://github.com/rawchen/feishubot)|![GitHub Repo stars](https://img.shields.io/github/stars/rawchen/FeishuBot?style=social)|Java|-|
 |[gradio-chatbot](https://github.com/weaigc/gradio-chatbot)|![GitHub Repo stars](https://img.shields.io/github/stars/weaigc/gradio-chatbot?style=social)|TypeScript|apache-2.0|
-|[ChatGpt-Web](https://github.com/79e/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/79E/ChatGpt-Web?style=social)|TypeScript|mit|
-|[word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/Kuingsmile/word-GPT-Plus?style=social)|Vue|mit|
+|[ChatGpt-Web](https://github.com/79e/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/79e/ChatGpt-Web?style=social)|TypeScript|mit|
+|[word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/kuingsmile/word-GPT-Plus?style=social)|Vue|mit|
+|[chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc)|![GitHub Repo stars](https://img.shields.io/github/stars/linjungz/chat-with-your-doc?style=social)|Python|-|
+|[OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/DarkMakerofc/OpenAi-ChatGPT-Bot?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -819,6 +809,7 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
  * [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ✨ Open ChatGPT with Programmer's Approach! GPT Terminal is a platform that allows you to communicate with GPT in a terminal.
  * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ChatGPT Web One-click deployment
  * [tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
+ * [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is an advanced command-line interface for OpenAI's ChatGPT, offering streaming, query mode, and history tracking for seamless and context-aware conversations. Ideal for both users and developers, it provides advanced configuration and easy setup options to ensure a tailored conversational experience with the GPT model.
 
 
 |Name|GitHub Stars|Language|License|
@@ -903,6 +894,7 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
 |[gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal)|![GitHub Repo stars](https://img.shields.io/github/stars/ltyzzzxxx/gpt-web-terminal?style=social)|TypeScript|apache-2.0|
 |[chatgpt-web](https://github.com/dqzboy/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/dqzboy/chatgpt-web?style=social)|Shell|-|
 |[tgpt](https://github.com/aandrew-me/tgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aandrew-me/tgpt?style=social)|Go|gpl-3.0|
+|[chatgpt-cli](https://github.com/kardolus/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/kardolus/chatgpt-cli?style=social)|Go|mit|
 
 
 ## Reimplementations
@@ -1327,6 +1319,7 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
  * [AtomGPT](https://github.com/atomecho/atomgpt) - Pretrained large models for Chinese and English, aiming to achieve the same level as ChatGPT.
  * [litellm](https://github.com/berriai/litellm) - a simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints
  * [BayLing](https://github.com/ictnlp/bayling) -  “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
+ * [auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1387,6 +1380,7 @@ _Updated on August 14, 2023_ (A total of 967 repositories listed.)
 |[AtomGPT](https://github.com/atomecho/atomgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atomecho/AtomGPT?style=social)|Python|apache-2.0|
 |[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
 |[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
+|[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 
 
 ## Unity
@@ -2122,6 +2116,6 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
 |[ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/dreamergrow/ChatGPT-Nine-Ai?style=social)|-|-|
 |[gptlink-web](https://github.com/gptlink/gptlink-web)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink-web?style=social)|TypeScript|mit|
 |[ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live)|![GitHub Repo stars](https://img.shields.io/github/stars/smallnew666/ChatGPT-Virtual-Live?style=social)|Python|-|
-|[chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/Chanzhaoyu/chatgpt-web-plus?style=social)|-|-|
+|[chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/chanzhaoyu/chatgpt-web-plus?style=social)|-|-|
 
 
