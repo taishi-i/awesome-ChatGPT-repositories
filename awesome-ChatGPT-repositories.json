@@ -1696,6 +1696,40 @@
                     "zh-hans": "通过统一的提示层和性能评估，访问最新的AI模型，如ChatGPT、LLaMA、Stable Diffusion、WaveNet等等。",
                     "zh-hant": "透過統一的提示層和性能評估，存取最新的AI模型，如ChatGPT、LLaMA、Stable Diffusion、WaveNet等等。"
                 }
+            },
+            "https://github.com/dave1010/tree-of-thought-prompting": {
+                "repository_name": "tree-of-thought-prompting",
+                "user_name": "dave1010",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Using Tree-of-Thought Prompting to boost ChatGPT's reasoning",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Using Tree-of-Thought Prompting to boost ChatGPT's reasoning",
+                    "ja": "ツリーオブソートプロンプティングを使用して、ChatGPTの推論力を向上させる",
+                    "zh-hans": "使用思维树提示来提升ChatGPT的推理能力",
+                    "zh-hant": "使用思維樹提示來提升ChatGPT的推理能力"
+                }
+            },
+            "https://github.com/wincheshe/chatgpt-prompt-scripts": {
+                "repository_name": "chatGPT-prompt-scripts",
+                "user_name": "winchesHe",
+                "language": "JavaScript",
+                "license": null,
+                "description": "油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框",
+                    "ja": "油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框\n油猿 chatgpt Prompt スクリプトプラグインを使用して、chatgptチャットボックスにPromptダイアログをインポートします。",
+                    "zh-hans": "油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框\n油猴 chatgpt Prompt 脚本插件，将Prompt对话框导入到chatgpt聊天框中。",
+                    "zh-hant": "油猴 chatgpt Prompt 腳本插件，在 chatgpt 聊天框導入 Prompt 對話框"
+                }
             }
         },
         "Chatbots": {
@@ -4241,6 +4275,49 @@
                     "ja": "Word GPT Plusは、chatGPTモデルをMicrosoft Wordに統合するワードアドインです。公式およびWeb APIの両方がサポートされています。",
                     "zh-hans": "Word GPT Plus是一个将chatGPT模型集成到Microsoft Word中的Word插件。它支持官方和Web API。",
                     "zh-hant": "Word GPT Plus 是一個將 chatGPT 模型整合到 Microsoft Word 的文字附加元件。它支援官方和網頁 API。"
+                }
+            },
+            "https://github.com/linjungz/chat-with-your-doc": {
+                "repository_name": "chat-with-your-doc",
+                "user_name": "linjungz",
+                "language": "Python",
+                "license": null,
+                "description": "Chat with your docs in PDF/PPTX/DOCX format, using LangChain and GPT4/ChatGPT from both Azure OpenAI Service and OpenAI",
+                "topics": [
+                    "azure",
+                    "azure-openai-service",
+                    "chatgpt",
+                    "embeddings",
+                    "gpt-4",
+                    "langchain",
+                    "openai",
+                    "vectorstore"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with your docs in PDF/PPTX/DOCX format, using LangChain and GPT4/ChatGPT from both Azure OpenAI Service and OpenAI",
+                    "ja": "LangChainとGPT4/ChatGPTを使用して、Azure OpenAIサービスとOpenAIの両方でPDF/PPTX/DOCX形式のドキュメントとチャットする。",
+                    "zh-hans": "使用LangChain和GPT4/ChatGPT从Azure OpenAI服务和OpenAI中的PDF/PPTX/DOCX格式的文档中进行聊天。",
+                    "zh-hant": "使用LangChain和GPT4/ChatGPT從Azure OpenAI服務和OpenAI，以PDF/PPTX/DOCX格式與您的醫生進行聊天。"
+                }
+            },
+            "https://github.com/darkmakerofc/openai-chatgpt-bot": {
+                "repository_name": "OpenAi-ChatGPT-Bot",
+                "user_name": "DarkMakerofc",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Open Ai ChatGPT Bot By DarkMakerofc(   Mr  Nima ) & Team , You Can Expirience ChatGPT on Your Whatsapp.",
+                "topics": [
+                    "baileys",
+                    "mrnima",
+                    "openai-api",
+                    "openai-chatgpt",
+                    "whatsapp-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open Ai ChatGPT Bot By DarkMakerofc(   Mr  Nima ) & Team , You Can Expirience ChatGPT on Your Whatsapp.",
+                    "ja": "DarkMakerofc（Mr Nima）とチームによるOpen Ai ChatGPTボット、WhatsappでChatGPTを体験できます。",
+                    "zh-hans": "由DarkMakerofc（Nima先生）和团队开发的Open Ai ChatGPT机器人，您可以在Whatsapp上体验ChatGPT。",
+                    "zh-hant": "由DarkMakerofc（Nima先生）和團隊開發的Open Ai ChatGPT機器人，您可以在Whatsapp上體驗ChatGPT。"
                 }
             }
         },
@@ -8244,6 +8321,28 @@
                     "ja": "APIキーを必要とせずにターミナルでChatGPTを使用する。",
                     "zh-hans": "在终端中使用ChatGPT而无需API密钥",
                     "zh-hant": "在終端機中使用ChatGPT而不需要API密鑰"
+                }
+            },
+            "https://github.com/kardolus/chatgpt-cli": {
+                "repository_name": "chatgpt-cli",
+                "user_name": "kardolus",
+                "language": "Go",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT CLI is an advanced command-line interface for OpenAI's ChatGPT, offering streaming, query mode, and history tracking for seamless and context-aware conversations. Ideal for both users and developers, it provides advanced configuration and easy setup options to ensure a tailored conversational experience with the GPT model.",
+                "topics": [
+                    "chatgpt-openai-cli-gpt-language-model-golang-go"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT CLI is an advanced command-line interface for OpenAI's ChatGPT, offering streaming, query mode, and history tracking for seamless and context-aware conversations. Ideal for both users and developers, it provides advanced configuration and easy setup options to ensure a tailored conversational experience with the GPT model.",
+                    "ja": "ChatGPT CLIは、OpenAIのChatGPTのための高度なコマンドラインインターフェースであり、ストリーミング、クエリモード、および履歴追跡を提供し、シームレスでコンテキストに対応した会話を実現します。ユーザーと開発者の両方に最適であり、高度な設定と簡単なセットアップオプションを提供し、GPTモデルとのカスタマイズされた会話体験を確保します。",
+                    "zh-hans": "ChatGPT CLI是OpenAI的ChatGPT的高级命令行界面，提供流式传输、查询模式和历史记录跟踪，实现无缝和上下文感知的对话。非常适合用户和开发人员使用，它提供高级配置和简单设置选项，以确保与GPT模型的对话体验量身定制。",
+                    "zh-hant": "ChatGPT CLI 是 OpenAI 的 ChatGPT 的高級命令行界面，提供流式傳輸、查詢模式和歷史記錄功能，實現無縫且具有上下文感知的對話。非常適合用戶和開發人員使用，它提供了高級配置和簡單的設置選項，確保與 GPT 模型的對話體驗符合需求。"
                 }
             }
         },
@@ -12757,6 +12856,26 @@
                     "ja": "「百聆」は、LLaMAに基づいた言語アライメント強化型の英語/中国語の大規模言語モデルであり、英語/中国語の能力に優れており、多言語や一般的なタスクなどのさまざまなテストでChatGPTの90%の性能を発揮します。BayLingは、英語/中国語のLLMであり、高度な言語アライメントを備えており、英語/中国語の生成、指示の追跡、マルチターンの対話において優れた能力を示します。",
                     "zh-hans": "“百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing是一个配备先进语言对齐功能的英语/中文LLM，展现出在英语/中文生成、指令遵循和多轮互动方面的卓越能力。",
                     "zh-hant": "“百聆”是一個基於LLaMA的語言對齊增強的英語/中文大語言模型，具有優越的英語/中文能力，在多語言和通用任務等多項測試中取得ChatGPT 90%的性能。BayLing是一個配備先進語言對齊功能的英語/中文LLM，展示出在英語/中文生成、指令遵從和多輪互動方面的優越能力。"
+                }
+            },
+            "https://github.com/finaldie/auto-news": {
+                "repository_name": "auto-news",
+                "user_name": "finaldie",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A personal news aggregator to pull information from multi-sources + LLM (ChatGPT via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A personal news aggregator to pull information from multi-sources + LLM (ChatGPT via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.",
+                    "ja": "複数のソースから情報を収集する個人用ニュースアグリゲータ+ LLM（LangChain経由のChatGPT）による効率的な読書支援（ノイズを減らす）、ソースにはツイート、RSS、YouTube、ウェブ記事、Reddit、個人のジャーナルノートが含まれます。",
+                    "zh-hans": "一个个人新闻聚合器，可以从多个来源获取信息+LLM（通过LangChain的ChatGPT）帮助我们以更高效的方式阅读，减少干扰。这些来源包括：推特、RSS、YouTube、网页文章、Reddit和个人日记笔记。",
+                    "zh-hant": "一個個人新聞聚合器，可以從多個來源中提取信息，並利用LLM（通過LangChain的ChatGPT）幫助我們以更高效的方式閱讀，減少干擾。這些來源包括：推特、RSS、YouTube、網絡文章、Reddit和個人日記筆記。"
                 }
             }
         },
