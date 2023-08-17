@@ -15,26 +15,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - ツリーオブソートプロンプティングを使用して、ChatGPTの推論力を向上させる
- * [chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts) - 油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框
-油猿 chatgpt Prompt スクリプトプラグインを使用して、chatgptチャットボックスにPromptダイアログをインポートします。
+**Awesome-lists**
+ * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - Awesome-LLM-Eval：ChatGPT、LLaMA、GLMなどの大規模言語モデルの評価に関するツール、デモ、論文、ドキュメントの厳選リスト
+ * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - LLMの力を解放しましょう：これらのデータセットを使って独自のChatGPTをトレーニングしましょう！
+ * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
+GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
 
 
-**Chatbots**
- * [chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc) - LangChainとGPT4/ChatGPTを使用して、Azure OpenAIサービスとOpenAIの両方でPDF/PPTX/DOCX形式のドキュメントとチャットする。
- * [OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot) - DarkMakerofc（Mr Nima）とチームによるOpen Ai ChatGPTボット、WhatsappでChatGPTを体験できます。
+**NLP**
+ * [smile](https://github.com/qiuhuachuan/smile) - SMILE: メンタルヘルスサポートのためのチャットGPTを介したシングルターンからマルチターンへの包括的な言語拡張
 
 
-**CLIs**
- * [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLIは、OpenAIのChatGPTのための高度なコマンドラインインターフェースであり、ストリーミング、クエリモード、および履歴追跡を提供し、シームレスでコンテキストに対応した会話を実現します。ユーザーと開発者の両方に最適であり、高度な設定と簡単なセットアップオプションを提供し、GPTモデルとのカスタマイズされた会話体験を確保します。
+**Others**
+ * [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - ChatGPTを使用してマインドマップを自動生成します。
+ * [ExcelGPT](https://github.com/asterecho/excelgpt) - Input: chatgpt for Excel, developed based on ExcelDNA
+Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
+ * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPTのクロスプラットフォームデスクトップクライアント。シンプルなユーザーインターフェースといつでも呼び出せる体験があります。ローカルの知識ベースの構築、ウェブ検索、長文の読み込み、ローカルのコードの実行などの機能があります。
 
 
-**Langchain**
- * [auto-news](https://github.com/finaldie/auto-news) - 複数のソースから情報を収集する個人用ニュースアグリゲータ+ LLM（LangChain経由のChatGPT）による効率的な読書支援（ノイズを減らす）、ソースにはツイート、RSS、YouTube、ウェブ記事、Reddit、個人のジャーナルノートが含まれます。
-
-
-_Updated on August 16, 2023_ (A total of 973 repositories listed.)
+_Updated on August 18, 2023_ (A total of 980 repositories listed.)
 
 ## Table of contents
 
@@ -75,6 +74,10 @@ _Updated on August 16, 2023_ (A total of 973 repositories listed.)
  * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - ChatGPT + Code Interpreterコンボでできる素晴らしいこと 🔥
  * [awesome-ai](https://github.com/520hacker/awesome-ai) - オープンソースAI転送シェルアプリのエコシステムについて研究し、オープンソースAI転送シェルアプリを収集し、比較します。ChatGPT、OPENAI.AZURE、BAIDU、XUNFEI
  * [Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh) - 全ネットで1000万以上の露出を受けた「AI知識ベース」が正式にGithubでオープンソース化され、永久に無料で更新され、ChatGPT、Midjourneyなどの使用方法が提供されています。
+ * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - Awesome-LLM-Eval：ChatGPT、LLaMA、GLMなどの大規模言語モデルの評価に関するツール、デモ、論文、ドキュメントの厳選リスト
+ * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - LLMの力を解放しましょう：これらのデータセットを使って独自のChatGPTをトレーニングしましょう！
+ * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
+GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
 
 
 |Name|GitHub Stars|Language|License|
@@ -101,6 +104,9 @@ _Updated on August 16, 2023_ (A total of 973 repositories listed.)
 |[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/skalskip/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
 |[awesome-ai](https://github.com/520hacker/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/520hacker/awesome-ai?style=social)|-|-|
 |[Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh)|![GitHub Repo stars](https://img.shields.io/github/stars/changeyu0229/Awesome-ChatGPT-AI-ZH?style=social)|-|-|
+|[Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval)|![GitHub Repo stars](https://img.shields.io/github/stars/onejune2018/Awesome-LLM-Eval?style=social)|-|mit|
+|[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
+|[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
 
 
 ## Prompts
@@ -251,7 +257,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[promptmap](https://github.com/utkusen/promptmap)|![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?style=social)|Python|mit|
 |[IntelliNode](https://github.com/barqawiz/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/barqawiz/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/tree-of-thought-prompting?style=social)|-|mit|
-|[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/winchesHe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
+|[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 
 
 ## Chatbots
@@ -506,7 +512,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[ChatGpt-Web](https://github.com/79e/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/79e/ChatGpt-Web?style=social)|TypeScript|mit|
 |[word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/kuingsmile/word-GPT-Plus?style=social)|Vue|mit|
 |[chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc)|![GitHub Repo stars](https://img.shields.io/github/stars/linjungz/chat-with-your-doc?style=social)|Python|-|
-|[OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/DarkMakerofc/OpenAi-ChatGPT-Bot?style=social)|JavaScript|-|
+|[OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/darkmakerofc/OpenAi-ChatGPT-Bot?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -1129,6 +1135,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - ChatGPTよりも優れたローカライズされたオープンソースのAIサーバー。
  * [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力評測ランキング：百度文心一言、chatgpt、阿里通義千問、讯飞星火、belle / chatglm6bなどのオープンソースの大規模モデルをカバーし、多次元能力評価を提供します。能力スコアのランキングだけでなく、すべてのモデルの元の出力結果も提供します！
  * [RankGPT](https://github.com/sunnweiwei/rankgpt) - ChatGPTは検索に優れていますか？LLMsは再ランキングエージェントとして優れています。
+ * [smile](https://github.com/qiuhuachuan/smile) - SMILE: メンタルヘルスサポートのためのチャットGPTを介したシングルターンからマルチターンへの包括的な言語拡張
 
 
 |Name|GitHub Stars|Language|License|
@@ -1277,6 +1284,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server)|![GitHub Repo stars](https://img.shields.io/github/stars/cgisky1980/ai00_rwkv_server?style=social)|CSS|mit|
 |[chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)|![GitHub Repo stars](https://img.shields.io/github/stars/jeinlee1991/chinese-llm-benchmark?style=social)|-|-|
 |[RankGPT](https://github.com/sunnweiwei/rankgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sunnweiwei/RankGPT?style=social)|Python|-|
+|[smile](https://github.com/qiuhuachuan/smile)|![GitHub Repo stars](https://img.shields.io/github/stars/qiuhuachuan/smile?style=social)|Python|cc0-1.0|
 
 
 ## Langchain
@@ -1885,6 +1893,10 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live) - ChatGPTバーチャルタレント、Bilibili、TikTok、Video号をサポートしています。
  * [chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus) - chatgpt-web-plus
 チャットGPTウェブプラス
+ * [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - ChatGPTを使用してマインドマップを自動生成します。
+ * [ExcelGPT](https://github.com/asterecho/excelgpt) - Input: chatgpt for Excel, developed based on ExcelDNA
+Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
+ * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPTのクロスプラットフォームデスクトップクライアント。シンプルなユーザーインターフェースといつでも呼び出せる体験があります。ローカルの知識ベースの構築、ウェブ検索、長文の読み込み、ローカルのコードの実行などの機能があります。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2138,5 +2150,8 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[gptlink-web](https://github.com/gptlink/gptlink-web)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink-web?style=social)|TypeScript|mit|
 |[ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live)|![GitHub Repo stars](https://img.shields.io/github/stars/smallnew666/ChatGPT-Virtual-Live?style=social)|Python|-|
 |[chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/chanzhaoyu/chatgpt-web-plus?style=social)|-|-|
+|[MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai)|![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)|Vue|mit|
+|[ExcelGPT](https://github.com/asterecho/excelgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Asterecho/ExcelGPT?style=social)|C#|-|
+|[OpenCopilot](https://github.com/newfyu/opencopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/newfyu/OpenCopilot?style=social)|JavaScript|-|
 
 

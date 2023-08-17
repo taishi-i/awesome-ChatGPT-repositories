@@ -15,25 +15,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - 使用思维树提示来增强ChatGPT的推理
- * [chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts) - 油聊天Prompt 脚本插件,在聊天框导入Prompt 对话框
+**Awesome-lists**
+ * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - 精彩的LLM-Eval:一个精心策划的工具,演示,论文,文件, 评估大语言模型,如ChatGPT,LLaMA,GLM
+ * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - 释放法学士课程的力量:探索这些数据集,培训自己的聊天GPT!
+ * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - 精心整理的项目和资源, 相关的GPT,ChatGPT,OpenAI,LLM, 和更多.
 
 
-**Chatbots**
- * [chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc) - 在PDF/PPTX/DOCX格式中与您的文档进行聊天,使用LangChain和GPT4/ChatGPT从Azure OpenAI服务和OpenAI
- * [OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot) - 您可以在WhatsApp上使用GPT聊天.
+**NLP**
+ * [smile](https://github.com/qiuhuachuan/smile) - 通过ChatGPT为心理健康提供支持
 
 
-**CLIs**
- * [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI是OpenAI ChatGPT的高级命令行接口,提供流媒体,查询模式和历史跟踪,可无和上下文意识的对话. 非常适合用户和开发人员,提供高级配置和简单的设置选项,以确保GPT模型的定制对话体验.
+**Others**
+ * [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - 通过ChatGPT自动生成MindMap
+ * [ExcelGPT](https://github.com/asterecho/excelgpt) - 基于ExcelDNA开发的Excel的chatgpt
+ * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPT的跨平台桌面客户端,简洁的用户界面和随时唤起的体验.
 
 
-**Langchain**
- * [auto-news](https://github.com/finaldie/auto-news) - 一个个人新闻聚合器, 从多个来源中获取信息, 通过LangChain帮助我们更有效地阅读, 减少噪音, 来源包括: 推文, RSS, YouTube, Web文章, Reddit和个人日志笔记.
-
-
-_Updated on August 16, 2023_ (A total of 973 repositories listed.)
+_Updated on August 18, 2023_ (A total of 980 repositories listed.)
 
 ## Table of contents
 
@@ -75,6 +73,9 @@ ChatGPT资料汇总学习，持续更新......
  * [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - 使用ChatGPT + Code Interpreter组合可以做的很棒的事情🔥
  * [awesome-ai](https://github.com/520hacker/awesome-ai) - 对开源AI转发套壳应用生态进行研究，收集开源AI转发套壳应用，并进行对比。ChatGPT，OPENAI.AZURE，BAIDU，XUNFEI
  * [Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh) - 全网曝光超过1000万的「AI 知识库」正式移步Github开源，永久免费更新，提供ChatGPT，Midjourney等使用教程。
+ * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - 令人惊叹的LLM评估：一个精选的工具、演示、论文、文档列表，用于评估像ChatGPT、LLaMA、GLM这样的大型语言模型。
+ * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - 解锁LLM的力量：探索这些数据集，训练您自己的ChatGPT！
+ * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - 一个精选的与GPT、ChatGPT、OpenAI、LLM等相关的令人惊叹的项目和资源列表。
 
 
 |Name|GitHub Stars|Language|License|
@@ -101,6 +102,9 @@ ChatGPT资料汇总学习，持续更新......
 |[awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments)|![GitHub Repo stars](https://img.shields.io/github/stars/skalskip/awesome-chatgpt-code-interpreter-experiments?style=social)|-|-|
 |[awesome-ai](https://github.com/520hacker/awesome-ai)|![GitHub Repo stars](https://img.shields.io/github/stars/520hacker/awesome-ai?style=social)|-|-|
 |[Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh)|![GitHub Repo stars](https://img.shields.io/github/stars/changeyu0229/Awesome-ChatGPT-AI-ZH?style=social)|-|-|
+|[Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval)|![GitHub Repo stars](https://img.shields.io/github/stars/onejune2018/Awesome-LLM-Eval?style=social)|-|mit|
+|[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
+|[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
 
 
 ## Prompts
@@ -244,7 +248,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[promptmap](https://github.com/utkusen/promptmap)|![GitHub Repo stars](https://img.shields.io/github/stars/utkusen/promptmap?style=social)|Python|mit|
 |[IntelliNode](https://github.com/barqawiz/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/barqawiz/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/tree-of-thought-prompting?style=social)|-|mit|
-|[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/winchesHe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
+|[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 
 
 ## Chatbots
@@ -496,7 +500,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[ChatGpt-Web](https://github.com/79e/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/79e/ChatGpt-Web?style=social)|TypeScript|mit|
 |[word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/kuingsmile/word-GPT-Plus?style=social)|Vue|mit|
 |[chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc)|![GitHub Repo stars](https://img.shields.io/github/stars/linjungz/chat-with-your-doc?style=social)|Python|-|
-|[OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/DarkMakerofc/OpenAi-ChatGPT-Bot?style=social)|JavaScript|-|
+|[OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/darkmakerofc/OpenAi-ChatGPT-Bot?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -1118,6 +1122,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - 一个比ChatGPT更好的本地化开源AI服务器。
  * [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
  * [RankGPT](https://github.com/sunnweiwei/rankgpt) - ChatGPT在搜索方面表现如何？LLMs作为重新排序代理
+ * [smile](https://github.com/qiuhuachuan/smile) - 微笑：通过ChatGPT进行单轮到多轮包容性语言扩展，为心理健康支持提供帮助。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1266,6 +1271,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server)|![GitHub Repo stars](https://img.shields.io/github/stars/cgisky1980/ai00_rwkv_server?style=social)|CSS|mit|
 |[chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)|![GitHub Repo stars](https://img.shields.io/github/stars/jeinlee1991/chinese-llm-benchmark?style=social)|-|-|
 |[RankGPT](https://github.com/sunnweiwei/rankgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sunnweiwei/RankGPT?style=social)|Python|-|
+|[smile](https://github.com/qiuhuachuan/smile)|![GitHub Repo stars](https://img.shields.io/github/stars/qiuhuachuan/smile?style=social)|Python|cc0-1.0|
 
 
 ## Langchain
@@ -1879,6 +1885,9 @@ chatgpt-mirror-server快速部署库文件
  * [gptlink-web](https://github.com/gptlink/gptlink-web) - 一个由React和Tailwind CSS构建的ChatGPT网络应用，API由gptlink提供。
  * [ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live) - ChatGPT虚拟主播，支持B站、抖音和视频号。
  * [chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus) - 聊天GPT网络增强版
+ * [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - 使用ChatGPT自动生成思维导图
+ * [ExcelGPT](https://github.com/asterecho/excelgpt) - chatgpt for Excel，基于ExcelDNA开发
+ * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPT的跨平台桌面客户端，拥有简洁的用户界面和随时唤起的体验。具备构建本地知识库、网络检索、长文本阅读、执行本地代码等功能。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2132,5 +2141,8 @@ chatgpt-mirror-server快速部署库文件
 |[gptlink-web](https://github.com/gptlink/gptlink-web)|![GitHub Repo stars](https://img.shields.io/github/stars/gptlink/gptlink-web?style=social)|TypeScript|mit|
 |[ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live)|![GitHub Repo stars](https://img.shields.io/github/stars/smallnew666/ChatGPT-Virtual-Live?style=social)|Python|-|
 |[chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/chanzhaoyu/chatgpt-web-plus?style=social)|-|-|
+|[MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai)|![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)|Vue|mit|
+|[ExcelGPT](https://github.com/asterecho/excelgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Asterecho/ExcelGPT?style=social)|C#|-|
+|[OpenCopilot](https://github.com/newfyu/opencopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/newfyu/OpenCopilot?style=social)|JavaScript|-|
 
 
