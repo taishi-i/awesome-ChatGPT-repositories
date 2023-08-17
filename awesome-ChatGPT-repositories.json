@@ -472,6 +472,66 @@
                     "zh-hans": "全网曝光超过1000万的「AI 知识库」正式移步Github开源，永久免费更新，提供ChatGPT，Midjourney等使用教程。",
                     "zh-hant": "全網曝光超1000萬的「AI 知識庫」正式移步Github開源，永久免費更新，提供ChatGPT，Midjourney等使用教程"
                 }
+            },
+            "https://github.com/onejune2018/awesome-llm-eval": {
+                "repository_name": "Awesome-LLM-Eval",
+                "user_name": "onejune2018",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Awesome-LLM-Eval: a curated list of tools, demos, papers, docs for Evaluation on Large Language Models like ChatGPT, LLaMA, GLM",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Awesome-LLM-Eval: a curated list of tools, demos, papers, docs for Evaluation on Large Language Models like ChatGPT, LLaMA, GLM",
+                    "ja": "Awesome-LLM-Eval：ChatGPT、LLaMA、GLMなどの大規模言語モデルの評価に関するツール、デモ、論文、ドキュメントの厳選リスト",
+                    "zh-hans": "令人惊叹的LLM评估：一个精选的工具、演示、论文、文档列表，用于评估像ChatGPT、LLaMA、GLM这样的大型语言模型。",
+                    "zh-hant": "超棒-LLM-Eval：一個精選的工具、演示、論文、文件列表，用於評估大型語言模型，如ChatGPT、LLaMA、GLM。"
+                }
+            },
+            "https://github.com/voidful/awesome-chatgpt-dataset": {
+                "repository_name": "awesome-chatgpt-dataset",
+                "user_name": "voidful",
+                "language": null,
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!",
+                "topics": [
+                    "awesome",
+                    "chatgpt",
+                    "dataset",
+                    "gpt4",
+                    "instructions"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!",
+                    "ja": "LLMの力を解放しましょう：これらのデータセットを使って独自のChatGPTをトレーニングしましょう！",
+                    "zh-hans": "解锁LLM的力量：探索这些数据集，训练您自己的ChatGPT！",
+                    "zh-hant": "解鎖 LLM 的力量：探索這些數據集，訓練您自己的 ChatGPT！"
+                }
+            },
+            "https://github.com/formulahendry/awesome-gpt": {
+                "repository_name": "awesome-gpt",
+                "user_name": "formulahendry",
+                "language": null,
+                "license": null,
+                "description": "A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.",
+                    "ja": "GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。\nGPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。",
+                    "zh-hans": "一个精选的与GPT、ChatGPT、OpenAI、LLM等相关的令人惊叹的项目和资源列表。",
+                    "zh-hant": "一個精心挑選的與GPT、ChatGPT、OpenAI、LLM等相關的令人驚嘆的項目和資源清單。"
+                }
             }
         },
         "Prompts": {
@@ -11646,6 +11706,26 @@
                     "zh-hans": "ChatGPT在搜索方面表现如何？LLMs作为重新排序代理",
                     "zh-hant": "ChatGPT在搜索方面表現如何？LLMs作為重新排序代理"
                 }
+            },
+            "https://github.com/qiuhuachuan/smile": {
+                "repository_name": "smile",
+                "user_name": "qiuhuachuan",
+                "language": "Python",
+                "license": {
+                    "key": "cc0-1.0",
+                    "name": "Creative Commons Zero v1.0 Universal",
+                    "spdx_id": "CC0-1.0",
+                    "url": "https://api.github.com/licenses/cc0-1.0",
+                    "node_id": "MDc6TGljZW5zZTY="
+                },
+                "description": "SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support",
+                    "ja": "SMILE: メンタルヘルスサポートのためのチャットGPTを介したシングルターンからマルチターンへの包括的な言語拡張",
+                    "zh-hans": "微笑：通过ChatGPT进行单轮到多轮包容性语言扩展，为心理健康支持提供帮助。",
+                    "zh-hant": "微笑：透過ChatGPT的單輪轉多輪包容性語言擴展，為心理健康支持提供幫助。"
+                }
             }
         },
         "Langchain": {
@@ -19464,6 +19544,60 @@
                     "ja": "chatgpt-web-plus\nチャットGPTウェブプラス",
                     "zh-hans": "聊天GPT网络增强版",
                     "zh-hant": "chatgpt-web-plus"
+                }
+            },
+            "https://github.com/xianjianlf2/mindgeniusai": {
+                "repository_name": "MindGeniusAI",
+                "user_name": "xianjianlf2",
+                "language": "Vue",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Auto generate MindMap with ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "langchain-js",
+                    "mindmap"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Auto generate MindMap with ChatGPT",
+                    "ja": "ChatGPTを使用してマインドマップを自動生成します。",
+                    "zh-hans": "使用ChatGPT自动生成思维导图",
+                    "zh-hant": "使用ChatGPT自動生成思維導圖"
+                }
+            },
+            "https://github.com/asterecho/excelgpt": {
+                "repository_name": "ExcelGPT",
+                "user_name": "Asterecho",
+                "language": "C#",
+                "license": null,
+                "description": "chatgpt for Excel ，基于ExcelDNA开发",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "chatgpt for Excel, developed based on ExcelDNA.",
+                    "ja": "Input: chatgpt for Excel, developed based on ExcelDNA\nOutput: chatgpt for Excel、ExcelDNAをベースに開発されました。",
+                    "zh-hans": "chatgpt for Excel，基于ExcelDNA开发",
+                    "zh-hant": "chatgpt for Excel ，基於ExcelDNA開發"
+                }
+            },
+            "https://github.com/newfyu/opencopilot": {
+                "repository_name": "OpenCopilot",
+                "user_name": "newfyu",
+                "language": "JavaScript",
+                "license": null,
+                "description": "ChatGPT的跨平台桌面客户端，简洁的用户界面和随时唤起的体验。有构建本地知识库、网络检索、长文本阅读、执行本地代码等功能。",
+                "topics": [
+                    "chatgpt-app"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGPT's cross-platform desktop client, with a clean user interface and an instantly accessible experience. It has features such as building a local knowledge base, web search, reading long texts, and executing local code.",
+                    "ja": "ChatGPTのクロスプラットフォームデスクトップクライアント。シンプルなユーザーインターフェースといつでも呼び出せる体験があります。ローカルの知識ベースの構築、ウェブ検索、長文の読み込み、ローカルのコードの実行などの機能があります。",
+                    "zh-hans": "ChatGPT的跨平台桌面客户端，拥有简洁的用户界面和随时唤起的体验。具备构建本地知识库、网络检索、长文本阅读、执行本地代码等功能。",
+                    "zh-hant": "ChatGPT的跨平台桌面客戶端，簡潔的使用者介面和隨時喚起的體驗。具備建立本地知識庫、網路檢索、長文本閱讀、執行本地程式碼等功能。"
                 }
             }
         }
