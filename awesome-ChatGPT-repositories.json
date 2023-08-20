@@ -4379,6 +4379,83 @@
                     "zh-hans": "由DarkMakerofc（Nima先生）和团队开发的Open Ai ChatGPT机器人，您可以在Whatsapp上体验ChatGPT。",
                     "zh-hant": "由DarkMakerofc（Nima先生）和團隊開發的Open Ai ChatGPT機器人，您可以在Whatsapp上體驗ChatGPT。"
                 }
+            },
+            "https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io": {
+                "repository_name": "opening-up-chatgpt.github.io",
+                "user_name": "opening-up-chatgpt",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Liesenfeld, Andreas, Alianda Lopez, and Mark Dingemanse. 2023. “Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-Tuned Text Generators.” In Proceedings of the 5th International Conference on Conversational User Interfaces. Eindhoven. doi:10.1145/3571884.3604316.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-free",
+                    "llm",
+                    "open-source",
+                    "rlhf",
+                    "transparency"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Liesenfeld, Andreas, Alianda Lopez, and Mark Dingemanse. 2023. “Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-Tuned Text Generators.” In Proceedings of the 5th International Conference on Conversational User Interfaces. Eindhoven. doi:10.1145/3571884.3604316.",
+                    "ja": "Liesenfeld、Andreas、Alianda Lopez、およびMark Dingemanse。2023年。「ChatGPTの公開：指示に調整されたテキスト生成器の公開性、透明性、および説明責任の追跡」。第5回国際会議「対話型ユーザーインターフェースに関する国際会議」の論文集。アイントホーフェン。doi：10.1145/3571884.3604316。",
+                    "zh-hans": "Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“开放ChatGPT：追踪指导调整文本生成器的开放性、透明度和问责制。”在第五届国际会议上的对话用户界面。埃因霍温。doi:10.1145/3571884.3604316。",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。\nLiesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGPT：追蹤指導調整文本生成器的開放性、透明度和責任。”在第5屆國際會議上的對話用戶界面。愛因霍芬。doi:10.1145/3571884.3604316。"
+                }
+            },
+            "https://github.com/chao1224/chatdrug": {
+                "repository_name": "ChatDrug",
+                "user_name": "chao1224",
+                "language": "Python",
+                "license": null,
+                "description": "ChatGPT for Drug Discovery",
+                "topics": [
+                    "chatgpt",
+                    "conversation",
+                    "domain-feedback",
+                    "drug",
+                    "drug-discovery",
+                    "drug-editing",
+                    "editing",
+                    "molecule",
+                    "motif",
+                    "peptide",
+                    "protein",
+                    "retrieval",
+                    "secondary-structure",
+                    "small-molecule",
+                    "structure"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT for Drug Discovery",
+                    "ja": "薬剤探索のためのChatGPT",
+                    "zh-hans": "ChatGPT用于药物发现",
+                    "zh-hant": "ChatGPT用於藥物研發"
+                }
+            },
+            "https://github.com/azure-samples/aks-openai-terraform": {
+                "repository_name": "aks-openai-terraform",
+                "user_name": "Azure-Samples",
+                "language": "HCL",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Terraform and how to deploy a Terraform chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Terraform and how to deploy a Terraform chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.",
+                    "ja": "この記事では、Terraformを使用してAzure Kubernetes Service(AKS)クラスターとAzure OpenAIサービスを展開する方法、およびAzure ADワークロードアイデンティティを使用してAzure OpenAIに対して認証するTerraformチャットボットを展開し、ChatGPTモデルのChat Completion APIを呼び出す方法を示しています。",
+                    "zh-hans": "本文介绍了如何通过Terraform部署Azure Kubernetes Service（AKS）集群和Azure OpenAI服务，以及如何部署一个Terraform聊天机器人，该机器人使用Azure AD工作负载身份验证Azure OpenAI，并调用ChatGPT模型的Chat Completion API。",
+                    "zh-hant": "本文介紹了如何通過Terraform部署Azure Kubernetes Service（AKS）集群和Azure OpenAI服務，以及如何部署一個使用Azure AD工作負載身份驗證Azure OpenAI並調用ChatGPT模型的Chat Completion API的Terraform聊天機器人。"
+                }
             }
         },
         "Browser-extensions": {
@@ -6708,6 +6785,57 @@
                     "ja": "コードインタプリターとChatGPTプラグイン",
                     "zh-hans": "一个代码解释器和ChatGPT插件",
                     "zh-hant": "一個程式碼解譯器和ChatGPT插件"
+                }
+            },
+            "https://github.com/xinbenlv/ethgpt": {
+                "repository_name": "ethgpt",
+                "user_name": "xinbenlv",
+                "language": "TypeScript",
+                "license": null,
+                "description": "ChatGPT Plugin for Ethereum and EVM dApp / smart contract functionalities",
+                "topics": [
+                    "chat-gpt",
+                    "chatgpt-plugin",
+                    "chatgpt-plugin-template",
+                    "chatgpt-plugins",
+                    "examples",
+                    "nextjs",
+                    "nextjs-template",
+                    "openai",
+                    "plugin",
+                    "template"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Plugin for Ethereum and EVM dApp / smart contract functionalities",
+                    "ja": "EthereumおよびEVM dApp /スマートコントラクト機能のためのChatGPTプラグイン",
+                    "zh-hans": "ChatGPT插件用于以太坊和EVM dApp /智能合约功能\nChatGPT插件用于以太坊和EVM dApp /智能合约功能",
+                    "zh-hant": "ChatGPT Plugin for Ethereum 和 EVM dApp / 智能合約功能"
+                }
+            },
+            "https://github.com/smol-ai/godmode": {
+                "repository_name": "GodMode",
+                "user_name": "smol-ai",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.",
+                "topics": [
+                    "bard",
+                    "chatgpt",
+                    "electron",
+                    "google",
+                    "menubar"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.",
+                    "ja": "AIチャットブラウザ：ChatGPT / Claude / Bard / Bing / Llama2への高速で完全なウェブアプリアクセス！私はこれを1日に20回使用しています。",
+                    "zh-hans": "AI聊天浏览器：快速、完整的Web应用程序访问ChatGPT / Claude / Bard / Bing / Llama2！我每天使用它20次。",
+                    "zh-hant": "AI聊天瀏覽器：快速、完整的網頁應用程式，可存取ChatGPT / Claude / Bard / Bing / Llama2！我每天使用這個20次。"
                 }
             }
         },
@@ -11725,6 +11853,20 @@
                     "ja": "SMILE: メンタルヘルスサポートのためのチャットGPTを介したシングルターンからマルチターンへの包括的な言語拡張",
                     "zh-hans": "微笑：通过ChatGPT进行单轮到多轮包容性语言扩展，为心理健康支持提供帮助。",
                     "zh-hant": "微笑：透過ChatGPT的單輪轉多輪包容性語言擴展，為心理健康支持提供幫助。"
+                }
+            },
+            "https://github.com/bigbigwatermalon/c3sql": {
+                "repository_name": "C3SQL",
+                "user_name": "bigbigwatermalon",
+                "language": "Python",
+                "license": null,
+                "description": "The code for the paper C3: Zero-shot Text-to-SQL with ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The code for the paper C3: Zero-shot Text-to-SQL with ChatGPT",
+                    "ja": "論文C3のコード：ChatGPTを用いたゼロショットテキストからSQLへの変換",
+                    "zh-hans": "论文C3的代码：使用ChatGPT进行零样本文本到SQL的转换。",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。\n論文C3的代碼：使用ChatGPT進行零樣本文本到SQL的轉換"
                 }
             }
         },
@@ -19598,6 +19740,26 @@
                     "ja": "ChatGPTのクロスプラットフォームデスクトップクライアント。シンプルなユーザーインターフェースといつでも呼び出せる体験があります。ローカルの知識ベースの構築、ウェブ検索、長文の読み込み、ローカルのコードの実行などの機能があります。",
                     "zh-hans": "ChatGPT的跨平台桌面客户端，拥有简洁的用户界面和随时唤起的体验。具备构建本地知识库、网络检索、长文本阅读、执行本地代码等功能。",
                     "zh-hant": "ChatGPT的跨平台桌面客戶端，簡潔的使用者介面和隨時喚起的體驗。具備建立本地知識庫、網路檢索、長文本閱讀、執行本地程式碼等功能。"
+                }
+            },
+            "https://github.com/ucsd-ai4h/drugchat": {
+                "repository_name": "drugchat",
+                "user_name": "UCSD-AI4H",
+                "language": "Python",
+                "license": {
+                    "key": "bsd-3-clause",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause",
+                    "url": "https://api.github.com/licenses/bsd-3-clause",
+                    "node_id": "MDc6TGljZW5zZTU="
+                },
+                "description": "DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs",
+                    "ja": "ドラッグチャット：薬物分子グラフ上でのChatGPTのような機能を可能にするために",
+                    "zh-hans": "DrugChat：实现在药物分子图上启用ChatGPT类似功能",
+                    "zh-hant": "DrugChat：實現在藥物分子圖上啟用ChatGPT類似的功能"
                 }
             }
         }

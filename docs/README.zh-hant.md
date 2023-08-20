@@ -15,23 +15,26 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - 該網站提供了許多工具,演示,論文,文件,
- * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - 解釋法學士學位的力量:探索這些數據集,
- * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - 關於GPT,ChatGPT,OpenAI,LLM等相關的精彩計畫和資源.
+**Chatbots**
+ * [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - 開啟ChatGPT:跟蹤開放性,透明性和指令調節文本生成器的責任.在第五次國際會議談話用戶介面議程. 艾因霍文. doi:10.1145/3571884.3604316.
+ * [ChatDrug](https://github.com/chao1224/chatdrug) - 該網站的網站
+ * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - 這篇文章展示了如何透過 Terraform 部署 Azure Kubernetes Service ((AKS) 集群和 Azure OpenAI Service,以及如何部署使用 Azure AD 工作負載身份對 Azure OpenAI 進行認證的 Terraform 聊天機,並呼叫 ChatGPT 模型的聊天完成 API.
+
+
+**Browser-extensions**
+ * [ethgpt](https://github.com/xinbenlv/ethgpt) - 網路使用者必須使用此程式.
+ * [GodMode](https://github.com/smol-ai/godmode) - 快速,全網頁應用程式可使用ChatGPT/Claude/Bard/Bing/Llama2!
 
 
 **NLP**
- * [smile](https://github.com/qiuhuachuan/smile) - 微笑:透過ChatGPT提供精神健康支持,
+ * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - 該文件的代碼是C3:使用ChatGPT的零射擊文字到SQL
 
 
 **Others**
- * [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - 自動生成使用ChatGPT的MindMap
- * [ExcelGPT](https://github.com/asterecho/excelgpt) - 專為Excel使用的chatgpt ,
- * [OpenCopilot](https://github.com/newfyu/opencopilot) - 提供了網路搜尋,長文本閱讀,執行本地代碼等功能.
+ * [drugchat](https://github.com/ucsd-ai4h/drugchat) - 藥物分子圖表上使用類似ChatGPT的功能
 
 
-_Updated on August 18, 2023_ (A total of 980 repositories listed.)
+_Updated on August 20, 2023_ (A total of 987 repositories listed.)
 
 ## Table of contents
 
@@ -374,6 +377,10 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) - Word GPT Plus 是一個將 chatGPT 模型整合到 Microsoft Word 的文字附加元件。它支援官方和網頁 API。
  * [chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc) - 使用LangChain和GPT4/ChatGPT從Azure OpenAI服務和OpenAI，以PDF/PPTX/DOCX格式與您的醫生進行聊天。
  * [OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot) - 由DarkMakerofc（Nima先生）和團隊開發的Open Ai ChatGPT機器人，您可以在Whatsapp上體驗ChatGPT。
+ * [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - 請將以下內容翻譯成繁體中文。
+Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGPT：追蹤指導調整文本生成器的開放性、透明度和責任。”在第5屆國際會議上的對話用戶界面。愛因霍芬。doi:10.1145/3571884.3604316。
+ * [ChatDrug](https://github.com/chao1224/chatdrug) - ChatGPT用於藥物研發
+ * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - 本文介紹了如何通過Terraform部署Azure Kubernetes Service（AKS）集群和Azure OpenAI服務，以及如何部署一個使用Azure AD工作負載身份驗證Azure OpenAI並調用ChatGPT模型的Chat Completion API的Terraform聊天機器人。
 
 
 |Name|GitHub Stars|Language|License|
@@ -500,6 +507,9 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/kuingsmile/word-GPT-Plus?style=social)|Vue|mit|
 |[chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc)|![GitHub Repo stars](https://img.shields.io/github/stars/linjungz/chat-with-your-doc?style=social)|Python|-|
 |[OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/darkmakerofc/OpenAi-ChatGPT-Bot?style=social)|JavaScript|-|
+|[opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)|![GitHub Repo stars](https://img.shields.io/github/stars/opening-up-chatgpt/opening-up-chatgpt.github.io?style=social)|Python|apache-2.0|
+|[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
+|[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/aks-openai-terraform?style=social)|HCL|mit|
 
 
 ## Browser-extensions
@@ -615,6 +625,8 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - ChatGPT Plus 中所有可用的 ChatGPT 插件的精選清單，包括詳細描述和使用文檔，以及非官方的插件來源。
  * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - 是您在瀏覽器中進行任何會議的秘書。
  * [codesherpa](https://github.com/iamgreggarcia/codesherpa) - 一個程式碼解譯器和ChatGPT插件
+ * [ethgpt](https://github.com/xinbenlv/ethgpt) - ChatGPT Plugin for Ethereum 和 EVM dApp / 智能合約功能
+ * [GodMode](https://github.com/smol-ai/godmode) - AI聊天瀏覽器：快速、完整的網頁應用程式，可存取ChatGPT / Claude / Bard / Bing / Llama2！我每天使用這個20次。
 
 
 |Name|GitHub Stars|Language|License|
@@ -730,6 +742,8 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/highwayoflife/awesome-chatgpt-plugins?style=social)|Jupyter Notebook|cc0-1.0|
 |[meeper](https://github.com/pas1ko/meeper)|![GitHub Repo stars](https://img.shields.io/github/stars/pas1ko/meeper?style=social)|TypeScript|mpl-2.0|
 |[codesherpa](https://github.com/iamgreggarcia/codesherpa)|![GitHub Repo stars](https://img.shields.io/github/stars/iamgreggarcia/codesherpa?style=social)|TypeScript|mit|
+|[ethgpt](https://github.com/xinbenlv/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/xinbenlv/ethgpt?style=social)|TypeScript|-|
+|[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1123,6 +1137,8 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力評測榜單：覆蓋百度文心一言、chatgpt、阿里通義千問、訊飛星火、belle / chatglm6b 等開源大模型，多維度能力評測。不僅提供能力評分排行榜，也提供所有模型的原始輸出結果！
  * [RankGPT](https://github.com/sunnweiwei/rankgpt) - ChatGPT在搜索方面表現如何？LLMs作為重新排序代理
  * [smile](https://github.com/qiuhuachuan/smile) - 微笑：透過ChatGPT的單輪轉多輪包容性語言擴展，為心理健康支持提供幫助。
+ * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - 請將以下內容翻譯成繁體中文。
+論文C3的代碼：使用ChatGPT進行零樣本文本到SQL的轉換
 
 
 |Name|GitHub Stars|Language|License|
@@ -1272,6 +1288,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)|![GitHub Repo stars](https://img.shields.io/github/stars/jeinlee1991/chinese-llm-benchmark?style=social)|-|-|
 |[RankGPT](https://github.com/sunnweiwei/rankgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sunnweiwei/RankGPT?style=social)|Python|-|
 |[smile](https://github.com/qiuhuachuan/smile)|![GitHub Repo stars](https://img.shields.io/github/stars/qiuhuachuan/smile?style=social)|Python|cc0-1.0|
+|[C3SQL](https://github.com/bigbigwatermalon/c3sql)|![GitHub Repo stars](https://img.shields.io/github/stars/bigbigwatermalon/C3SQL?style=social)|Python|-|
 
 
 ## Langchain
@@ -1893,6 +1910,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - 使用ChatGPT自動生成思維導圖
  * [ExcelGPT](https://github.com/asterecho/excelgpt) - chatgpt for Excel ，基於ExcelDNA開發
  * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPT的跨平台桌面客戶端，簡潔的使用者介面和隨時喚起的體驗。具備建立本地知識庫、網路檢索、長文本閱讀、執行本地程式碼等功能。
+ * [drugchat](https://github.com/ucsd-ai4h/drugchat) - DrugChat：實現在藥物分子圖上啟用ChatGPT類似的功能
 
 
 |Name|GitHub Stars|Language|License|
@@ -2147,7 +2165,8 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live)|![GitHub Repo stars](https://img.shields.io/github/stars/smallnew666/ChatGPT-Virtual-Live?style=social)|Python|-|
 |[chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/chanzhaoyu/chatgpt-web-plus?style=social)|-|-|
 |[MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai)|![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)|Vue|mit|
-|[ExcelGPT](https://github.com/asterecho/excelgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Asterecho/ExcelGPT?style=social)|C#|-|
+|[ExcelGPT](https://github.com/asterecho/excelgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/asterecho/ExcelGPT?style=social)|C#|-|
 |[OpenCopilot](https://github.com/newfyu/opencopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/newfyu/OpenCopilot?style=social)|JavaScript|-|
+|[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/UCSD-AI4H/drugchat?style=social)|Python|bsd-3-clause|
 
 
