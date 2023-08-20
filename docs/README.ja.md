@@ -15,25 +15,26 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - Awesome-LLM-Eval：ChatGPT、LLaMA、GLMなどの大規模言語モデルの評価に関するツール、デモ、論文、ドキュメントの厳選リスト
- * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - LLMの力を解放しましょう：これらのデータセットを使って独自のChatGPTをトレーニングしましょう！
- * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
-GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
+**Chatbots**
+ * [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Liesenfeld、Andreas、Alianda Lopez、およびMark Dingemanse。2023年。「ChatGPTの公開：指示に調整されたテキスト生成器の公開性、透明性、および説明責任の追跡」。第5回国際会議「対話型ユーザーインターフェースに関する国際会議」の論文集。アイントホーフェン。doi：10.1145/3571884.3604316。
+ * [ChatDrug](https://github.com/chao1224/chatdrug) - 薬剤探索のためのChatGPT
+ * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - この記事では、Terraformを使用してAzure Kubernetes Service(AKS)クラスターとAzure OpenAIサービスを展開する方法、およびAzure ADワークロードアイデンティティを使用してAzure OpenAIに対して認証するTerraformチャットボットを展開し、ChatGPTモデルのChat Completion APIを呼び出す方法を示しています。
+
+
+**Browser-extensions**
+ * [ethgpt](https://github.com/xinbenlv/ethgpt) - EthereumおよびEVM dApp /スマートコントラクト機能のためのChatGPTプラグイン
+ * [GodMode](https://github.com/smol-ai/godmode) - AIチャットブラウザ：ChatGPT / Claude / Bard / Bing / Llama2への高速で完全なウェブアプリアクセス！私はこれを1日に20回使用しています。
 
 
 **NLP**
- * [smile](https://github.com/qiuhuachuan/smile) - SMILE: メンタルヘルスサポートのためのチャットGPTを介したシングルターンからマルチターンへの包括的な言語拡張
+ * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - 論文C3のコード：ChatGPTを用いたゼロショットテキストからSQLへの変換
 
 
 **Others**
- * [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - ChatGPTを使用してマインドマップを自動生成します。
- * [ExcelGPT](https://github.com/asterecho/excelgpt) - Input: chatgpt for Excel, developed based on ExcelDNA
-Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
- * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPTのクロスプラットフォームデスクトップクライアント。シンプルなユーザーインターフェースといつでも呼び出せる体験があります。ローカルの知識ベースの構築、ウェブ検索、長文の読み込み、ローカルのコードの実行などの機能があります。
+ * [drugchat](https://github.com/ucsd-ai4h/drugchat) - ドラッグチャット：薬物分子グラフ上でのChatGPTのような機能を可能にするために
 
 
-_Updated on August 18, 2023_ (A total of 980 repositories listed.)
+_Updated on August 20, 2023_ (A total of 987 repositories listed.)
 
 ## Table of contents
 
@@ -387,6 +388,9 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) - Word GPT Plusは、chatGPTモデルをMicrosoft Wordに統合するワードアドインです。公式およびWeb APIの両方がサポートされています。
  * [chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc) - LangChainとGPT4/ChatGPTを使用して、Azure OpenAIサービスとOpenAIの両方でPDF/PPTX/DOCX形式のドキュメントとチャットする。
  * [OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot) - DarkMakerofc（Mr Nima）とチームによるOpen Ai ChatGPTボット、WhatsappでChatGPTを体験できます。
+ * [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Liesenfeld、Andreas、Alianda Lopez、およびMark Dingemanse。2023年。「ChatGPTの公開：指示に調整されたテキスト生成器の公開性、透明性、および説明責任の追跡」。第5回国際会議「対話型ユーザーインターフェースに関する国際会議」の論文集。アイントホーフェン。doi：10.1145/3571884.3604316。
+ * [ChatDrug](https://github.com/chao1224/chatdrug) - 薬剤探索のためのChatGPT
+ * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - この記事では、Terraformを使用してAzure Kubernetes Service(AKS)クラスターとAzure OpenAIサービスを展開する方法、およびAzure ADワークロードアイデンティティを使用してAzure OpenAIに対して認証するTerraformチャットボットを展開し、ChatGPTモデルのChat Completion APIを呼び出す方法を示しています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -513,6 +517,9 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/kuingsmile/word-GPT-Plus?style=social)|Vue|mit|
 |[chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc)|![GitHub Repo stars](https://img.shields.io/github/stars/linjungz/chat-with-your-doc?style=social)|Python|-|
 |[OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/darkmakerofc/OpenAi-ChatGPT-Bot?style=social)|JavaScript|-|
+|[opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)|![GitHub Repo stars](https://img.shields.io/github/stars/opening-up-chatgpt/opening-up-chatgpt.github.io?style=social)|Python|apache-2.0|
+|[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
+|[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/aks-openai-terraform?style=social)|HCL|mit|
 
 
 ## Browser-extensions
@@ -628,6 +635,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - ChatGPT plus内で利用可能なChatGPTプラグインの厳選リスト。詳細な説明と使用方法のドキュメント、非公式なプラグインの情報も含まれています。
  * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - ブラウザ内のどんなオンライン会議でもあなたの秘書です。
  * [codesherpa](https://github.com/iamgreggarcia/codesherpa) - コードインタプリターとChatGPTプラグイン
+ * [ethgpt](https://github.com/xinbenlv/ethgpt) - EthereumおよびEVM dApp /スマートコントラクト機能のためのChatGPTプラグイン
+ * [GodMode](https://github.com/smol-ai/godmode) - AIチャットブラウザ：ChatGPT / Claude / Bard / Bing / Llama2への高速で完全なウェブアプリアクセス！私はこれを1日に20回使用しています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -743,6 +752,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/highwayoflife/awesome-chatgpt-plugins?style=social)|Jupyter Notebook|cc0-1.0|
 |[meeper](https://github.com/pas1ko/meeper)|![GitHub Repo stars](https://img.shields.io/github/stars/pas1ko/meeper?style=social)|TypeScript|mpl-2.0|
 |[codesherpa](https://github.com/iamgreggarcia/codesherpa)|![GitHub Repo stars](https://img.shields.io/github/stars/iamgreggarcia/codesherpa?style=social)|TypeScript|mit|
+|[ethgpt](https://github.com/xinbenlv/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/xinbenlv/ethgpt?style=social)|TypeScript|-|
+|[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1136,6 +1147,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力評測ランキング：百度文心一言、chatgpt、阿里通義千問、讯飞星火、belle / chatglm6bなどのオープンソースの大規模モデルをカバーし、多次元能力評価を提供します。能力スコアのランキングだけでなく、すべてのモデルの元の出力結果も提供します！
  * [RankGPT](https://github.com/sunnweiwei/rankgpt) - ChatGPTは検索に優れていますか？LLMsは再ランキングエージェントとして優れています。
  * [smile](https://github.com/qiuhuachuan/smile) - SMILE: メンタルヘルスサポートのためのチャットGPTを介したシングルターンからマルチターンへの包括的な言語拡張
+ * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - 論文C3のコード：ChatGPTを用いたゼロショットテキストからSQLへの変換
 
 
 |Name|GitHub Stars|Language|License|
@@ -1285,6 +1297,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)|![GitHub Repo stars](https://img.shields.io/github/stars/jeinlee1991/chinese-llm-benchmark?style=social)|-|-|
 |[RankGPT](https://github.com/sunnweiwei/rankgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sunnweiwei/RankGPT?style=social)|Python|-|
 |[smile](https://github.com/qiuhuachuan/smile)|![GitHub Repo stars](https://img.shields.io/github/stars/qiuhuachuan/smile?style=social)|Python|cc0-1.0|
+|[C3SQL](https://github.com/bigbigwatermalon/c3sql)|![GitHub Repo stars](https://img.shields.io/github/stars/bigbigwatermalon/C3SQL?style=social)|Python|-|
 
 
 ## Langchain
@@ -1897,6 +1910,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [ExcelGPT](https://github.com/asterecho/excelgpt) - Input: chatgpt for Excel, developed based on ExcelDNA
 Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
  * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPTのクロスプラットフォームデスクトップクライアント。シンプルなユーザーインターフェースといつでも呼び出せる体験があります。ローカルの知識ベースの構築、ウェブ検索、長文の読み込み、ローカルのコードの実行などの機能があります。
+ * [drugchat](https://github.com/ucsd-ai4h/drugchat) - ドラッグチャット：薬物分子グラフ上でのChatGPTのような機能を可能にするために
 
 
 |Name|GitHub Stars|Language|License|
@@ -2151,7 +2165,8 @@ Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
 |[ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live)|![GitHub Repo stars](https://img.shields.io/github/stars/smallnew666/ChatGPT-Virtual-Live?style=social)|Python|-|
 |[chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/chanzhaoyu/chatgpt-web-plus?style=social)|-|-|
 |[MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai)|![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)|Vue|mit|
-|[ExcelGPT](https://github.com/asterecho/excelgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Asterecho/ExcelGPT?style=social)|C#|-|
+|[ExcelGPT](https://github.com/asterecho/excelgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/asterecho/ExcelGPT?style=social)|C#|-|
 |[OpenCopilot](https://github.com/newfyu/opencopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/newfyu/OpenCopilot?style=social)|JavaScript|-|
+|[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/UCSD-AI4H/drugchat?style=social)|Python|bsd-3-clause|
 
 

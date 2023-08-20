@@ -16,23 +16,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - Awesome-LLM-Eval: a curated list of tools, demos, papers, docs for Evaluation on Large Language Models like ChatGPT, LLaMA, GLM
- * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!
- * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
+**Chatbots**
+ * [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Liesenfeld, Andreas, Alianda Lopez, and Mark Dingemanse. 2023. “Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-Tuned Text Generators.” In Proceedings of the 5th International Conference on Conversational User Interfaces. Eindhoven. doi:10.1145/3571884.3604316.
+ * [ChatDrug](https://github.com/chao1224/chatdrug) - ChatGPT for Drug Discovery
+ * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Terraform and how to deploy a Terraform chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.
+
+
+**Browser-extensions**
+ * [ethgpt](https://github.com/xinbenlv/ethgpt) - ChatGPT Plugin for Ethereum and EVM dApp / smart contract functionalities
+ * [GodMode](https://github.com/smol-ai/godmode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 
 
 **NLP**
- * [smile](https://github.com/qiuhuachuan/smile) - SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support
+ * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - The code for the paper C3: Zero-shot Text-to-SQL with ChatGPT
 
 
 **Others**
- * [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - Auto generate MindMap with ChatGPT
- * [ExcelGPT](https://github.com/asterecho/excelgpt) - chatgpt for Excel, developed based on ExcelDNA.
- * [OpenCopilot](https://github.com/newfyu/opencopilot) - Input: ChatGPT's cross-platform desktop client, with a clean user interface and an instantly accessible experience. It has features such as building a local knowledge base, web search, reading long texts, and executing local code.
+ * [drugchat](https://github.com/ucsd-ai4h/drugchat) - DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs
 
 
-_Updated on August 18, 2023_ (A total of 980 repositories listed.)
+_Updated on August 20, 2023_ (A total of 987 repositories listed.)
 
 ## Table of contents
 
@@ -373,6 +376,9 @@ _Updated on August 18, 2023_ (A total of 980 repositories listed.)
  * [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
  * [chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc) - Chat with your docs in PDF/PPTX/DOCX format, using LangChain and GPT4/ChatGPT from both Azure OpenAI Service and OpenAI
  * [OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot) - Open Ai ChatGPT Bot By DarkMakerofc(   Mr  Nima ) & Team , You Can Expirience ChatGPT on Your Whatsapp.
+ * [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Liesenfeld, Andreas, Alianda Lopez, and Mark Dingemanse. 2023. “Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-Tuned Text Generators.” In Proceedings of the 5th International Conference on Conversational User Interfaces. Eindhoven. doi:10.1145/3571884.3604316.
+ * [ChatDrug](https://github.com/chao1224/chatdrug) - ChatGPT for Drug Discovery
+ * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Terraform and how to deploy a Terraform chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.
 
 
 |Name|GitHub Stars|Language|License|
@@ -499,6 +505,9 @@ _Updated on August 18, 2023_ (A total of 980 repositories listed.)
 |[word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/kuingsmile/word-GPT-Plus?style=social)|Vue|mit|
 |[chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc)|![GitHub Repo stars](https://img.shields.io/github/stars/linjungz/chat-with-your-doc?style=social)|Python|-|
 |[OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/darkmakerofc/OpenAi-ChatGPT-Bot?style=social)|JavaScript|-|
+|[opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)|![GitHub Repo stars](https://img.shields.io/github/stars/opening-up-chatgpt/opening-up-chatgpt.github.io?style=social)|Python|apache-2.0|
+|[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
+|[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/aks-openai-terraform?style=social)|HCL|mit|
 
 
 ## Browser-extensions
@@ -614,6 +623,8 @@ _Updated on August 18, 2023_ (A total of 980 repositories listed.)
  * [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - A curated list of all of the ChatGPT plugins available within ChatGPT plus, includes detailed descriptions and usage docs, as well as unofficial sources of plugins
  * [meeper](https://github.com/pas1ko/meeper) - Meeper 📝 - is your secretary for any in-browser conference.
  * [codesherpa](https://github.com/iamgreggarcia/codesherpa) - A code interpreter and ChatGPT plugin
+ * [ethgpt](https://github.com/xinbenlv/ethgpt) - ChatGPT Plugin for Ethereum and EVM dApp / smart contract functionalities
+ * [GodMode](https://github.com/smol-ai/godmode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 
 
 |Name|GitHub Stars|Language|License|
@@ -729,6 +740,8 @@ _Updated on August 18, 2023_ (A total of 980 repositories listed.)
 |[awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/highwayoflife/awesome-chatgpt-plugins?style=social)|Jupyter Notebook|cc0-1.0|
 |[meeper](https://github.com/pas1ko/meeper)|![GitHub Repo stars](https://img.shields.io/github/stars/pas1ko/meeper?style=social)|TypeScript|mpl-2.0|
 |[codesherpa](https://github.com/iamgreggarcia/codesherpa)|![GitHub Repo stars](https://img.shields.io/github/stars/iamgreggarcia/codesherpa?style=social)|TypeScript|mit|
+|[ethgpt](https://github.com/xinbenlv/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/xinbenlv/ethgpt?style=social)|TypeScript|-|
+|[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1116,6 +1129,7 @@ _Updated on August 18, 2023_ (A total of 980 repositories listed.)
  * [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - Chinese Large Model Capability Evaluation Ranking: Covers open source large models such as Baidu Wenxin Yiyuan, ChatGPT, Ali Tongyi Qianwen, Xunfei Xinghuo, Belle/ChatGLM6B, etc., with multidimensional capability evaluation. It not only provides a ranking of capability scores but also provides the original output results of all models!
  * [RankGPT](https://github.com/sunnweiwei/rankgpt) - Is ChatGPT Good at Search? LLMs as Re-Ranking Agent
  * [smile](https://github.com/qiuhuachuan/smile) - SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support
+ * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - The code for the paper C3: Zero-shot Text-to-SQL with ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -1265,6 +1279,7 @@ _Updated on August 18, 2023_ (A total of 980 repositories listed.)
 |[chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark)|![GitHub Repo stars](https://img.shields.io/github/stars/jeinlee1991/chinese-llm-benchmark?style=social)|-|-|
 |[RankGPT](https://github.com/sunnweiwei/rankgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sunnweiwei/RankGPT?style=social)|Python|-|
 |[smile](https://github.com/qiuhuachuan/smile)|![GitHub Repo stars](https://img.shields.io/github/stars/qiuhuachuan/smile?style=social)|Python|cc0-1.0|
+|[C3SQL](https://github.com/bigbigwatermalon/c3sql)|![GitHub Repo stars](https://img.shields.io/github/stars/bigbigwatermalon/C3SQL?style=social)|Python|-|
 
 
 ## Langchain
@@ -1873,6 +1888,7 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
  * [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - Auto generate MindMap with ChatGPT
  * [ExcelGPT](https://github.com/asterecho/excelgpt) - chatgpt for Excel, developed based on ExcelDNA.
  * [OpenCopilot](https://github.com/newfyu/opencopilot) - Input: ChatGPT's cross-platform desktop client, with a clean user interface and an instantly accessible experience. It has features such as building a local knowledge base, web search, reading long texts, and executing local code.
+ * [drugchat](https://github.com/ucsd-ai4h/drugchat) - DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs
 
 
 |Name|GitHub Stars|Language|License|
@@ -2127,7 +2143,8 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
 |[ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live)|![GitHub Repo stars](https://img.shields.io/github/stars/smallnew666/ChatGPT-Virtual-Live?style=social)|Python|-|
 |[chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus)|![GitHub Repo stars](https://img.shields.io/github/stars/chanzhaoyu/chatgpt-web-plus?style=social)|-|-|
 |[MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai)|![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)|Vue|mit|
-|[ExcelGPT](https://github.com/asterecho/excelgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Asterecho/ExcelGPT?style=social)|C#|-|
+|[ExcelGPT](https://github.com/asterecho/excelgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/asterecho/ExcelGPT?style=social)|C#|-|
 |[OpenCopilot](https://github.com/newfyu/opencopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/newfyu/OpenCopilot?style=social)|JavaScript|-|
+|[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/UCSD-AI4H/drugchat?style=social)|Python|bsd-3-clause|
 
 
