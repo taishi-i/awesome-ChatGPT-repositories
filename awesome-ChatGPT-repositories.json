@@ -1790,6 +1790,61 @@
                     "zh-hans": "油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框\n油猴 chatgpt Prompt 脚本插件，将Prompt对话框导入到chatgpt聊天框中。",
                     "zh-hant": "油猴 chatgpt Prompt 腳本插件，在 chatgpt 聊天框導入 Prompt 對話框"
                 }
+            },
+            "https://github.com/dillionverma/llm.report": {
+                "repository_name": "llm.report",
+                "user_name": "dillionverma",
+                "language": "TypeScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+                "topics": [
+                    "aiops",
+                    "gpt-3",
+                    "gpt-4",
+                    "llm",
+                    "llmops",
+                    "mlops",
+                    "nextjs",
+                    "nodejs",
+                    "open-source",
+                    "openai",
+                    "react",
+                    "shadcn-ui",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
+                    "ja": "📊 llm.reportは、OpenAIのためのオープンソースのログと分析プラットフォームです：ChatGPT APIのリクエストを記録し、コストを分析し、プロンプトを改善します。",
+                    "zh-hans": "📊 llm.report 是一个开源的日志和分析平台，用于OpenAI：记录您的ChatGPT API请求，分析成本，并改进您的提示。",
+                    "zh-hant": "📊 llm.report 是一個開源的日誌和分析平台，專為 OpenAI 設計：記錄您的 ChatGPT API 請求，分析成本並改進您的提示。"
+                }
+            },
+            "https://github.com/lichang-chen/instructzero": {
+                "repository_name": "InstructZero",
+                "user_name": "Lichang-Chen",
+                "language": "Python",
+                "license": null,
+                "description": "Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!",
+                "topics": [
+                    "black-box-optimization",
+                    "black-box-tuning",
+                    "chatgpt",
+                    "instruction-optimization",
+                    "large-language-model",
+                    "vicuna"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!",
+                    "ja": "公式実装：InstructZeroの導入。ChatGPT（API LLMs）の悪いプロンプトを最適化し、最終的に良いプロンプトを得るための最初のフレームワークです！",
+                    "zh-hans": "正式实施InstructZero；这是第一个优化ChatGPT(API LLMs)糟糕提示并最终获得良好提示的框架！",
+                    "zh-hant": "正式實施InstructZero；這是第一個優化ChatGPT（API LLMs）不良提示並最終獲得良好提示的框架！"
+                }
             }
         },
         "Chatbots": {
@@ -11868,6 +11923,38 @@
                     "zh-hans": "论文C3的代码：使用ChatGPT进行零样本文本到SQL的转换。",
                     "zh-hant": "請將以下內容翻譯成繁體中文。\n論文C3的代碼：使用ChatGPT進行零樣本文本到SQL的轉換"
                 }
+            },
+            "https://github.com/fmxexpress/codedroidai": {
+                "repository_name": "CodeDroidAI",
+                "user_name": "FMXExpress",
+                "language": "Pascal",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Generate code and forms with AI for Delphi Object Pascal and C++Builder using LLMs like ChatGPT and Vicuna-13b.",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "chatgpt-api",
+                    "cpp-builder",
+                    "delphi",
+                    "delphi2007",
+                    "gpt-3",
+                    "gpt-4",
+                    "replicate",
+                    "unicode",
+                    "vicuna-13b"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Generate code and forms with AI for Delphi Object Pascal and C++Builder using LLMs like ChatGPT and Vicuna-13b.",
+                    "ja": "ChatGPTやVicuna-13bのようなLLMを使用して、Delphi Object PascalとC++BuilderのためのコードとフォームをAIで生成します。",
+                    "zh-hans": "使用像ChatGPT和Vicuna-13b这样的LLMs，为Delphi Object Pascal和C++Builder生成代码和表单。",
+                    "zh-hant": "使用像ChatGPT和Vicuna-13b这样的LLMs，为Delphi Object Pascal和C++Builder生成代碼和表單的人工智能。"
+                }
             }
         },
         "Langchain": {
@@ -15190,6 +15277,26 @@
                     "ja": "ChatGPTを使用してLaravelコードを生成します。",
                     "zh-hans": "使用ChatGPT生成Laravel代码",
                     "zh-hant": "使用ChatGPT生成Laravel代碼"
+                }
+            },
+            "https://github.com/woodchen-ink/openai-billing-query": {
+                "repository_name": "openai-billing-query",
+                "user_name": "woodchen-ink",
+                "language": "HTML",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card. ",
+                    "ja": "単一ページのプロジェクトで、openai（chatgpt）の残高を一括で可視化クエリすることができます。総額、使用額、残高、使用比率、有効期限、GPT-4、カードとのバインドの有無を表示することができます。",
+                    "zh-hans": "这是一个单页面项目，可以批量可视化查询openai(chatgpt)的余额。支持显示总量、已使用量、剩余量、使用比例、到期时间、GPT-4以及是否绑定卡片。",
+                    "zh-hant": "單頁面專案，批量可視化查詢openai(chatgpt)餘額，支持顯示總量，已使用，剩餘量，已用比例，到期時間，GPT-4，是否綁卡。\n這是一個單頁面專案，可以批量查詢openai(chatgpt)餘額的可視化功能。支持顯示總量、已使用量、剩餘量、使用比例、到期時間、GPT-4以及是否綁定卡片。"
                 }
             }
         },
@@ -19760,6 +19867,30 @@
                     "ja": "ドラッグチャット：薬物分子グラフ上でのChatGPTのような機能を可能にするために",
                     "zh-hans": "DrugChat：实现在药物分子图上启用ChatGPT类似功能",
                     "zh-hant": "DrugChat：實現在藥物分子圖上啟用ChatGPT類似的功能"
+                }
+            },
+            "https://github.com/chengxs1994/chatgpt-sdimg-web": {
+                "repository_name": "ChatGPT-SDImg-Web",
+                "user_name": "chengxs1994",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Based on ChatGPT-Next-Web, integrate SD webui AI drawing to achieve functions such as registration, login, usage limits, recharge, and sharing.",
+                    "ja": "ChatGPT-Next-Webをベースに、SD webui AI描画を統合し、登録、ログイン、回数制限、チャージ、共有などの機能を実現します。",
+                    "zh-hans": "基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能",
+                    "zh-hant": "基於ChatGPT-Next-Web，整合SD webui AI繪圖，實現註冊登錄，次數限制，充值，分享等功能。"
                 }
             }
         }
