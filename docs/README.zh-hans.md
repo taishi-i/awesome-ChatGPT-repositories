@@ -15,26 +15,24 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - 开放ChatGPT:跟踪开放性,透明性和指令调整文本生成器的问责制.在第五届国际对话用户界面会议的会议. 爱因霍温. doi:10.1145/3571884.3604316.
- * [ChatDrug](https://github.com/chao1224/chatdrug) - 关于药物发现的ChatGPT
- * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - 本文展示了如何通过Terraform部署 Azure Kubernetes Service ((AKS) 集群和Azure OpenAI Service,以及如何部署使用Azure AD工作负载身份对 Azure OpenAI进行认证并调用ChatGPT模型的Chat完成API的Terraform聊天机器人.
-
-
-**Browser-extensions**
- * [ethgpt](https://github.com/xinbenlv/ethgpt) - 对于以太坊和EVM dApp/智能合约功能,ChatGPT插件
- * [GodMode](https://github.com/smol-ai/godmode) - 快速,全面的webapp访问ChatGPT/Claude/Bard/Bing/Llama2!我每天使用这 20 次.
+**Prompts**
+ * [llm.report](https://github.com/dillionverma/llm.report) -  llm.report 是一个开源的日志和分析平台,用于OpenAI:记录您的ChatGPT API请求,分析成本,并改进您的提示.
+ * [InstructZero](https://github.com/lichang-chen/instructzero) - 官方实施了InstructZero;第一个优化ChatGPT的坏提示 (API LLM) 并最终获得好提示的框架!
 
 
 **NLP**
- * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - 纸上的代码C3:使用ChatGPT的零射击文本到SQL
+ * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - 通过使用 ChatGPT 和 Vicuna-13b 等 LLM 生成代码和 AI 形式,
+
+
+**Openai**
+ * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 单页项目,批量可视化查询open (chatgpt) 余额,支持显示总量,已使用,剩余量,已用比例,到期时间,GPT-4,是否绑卡.这是一个单页项目,可实现对open (chatgpt) 余额的批量可视化查询.它支持显示总数,使用数量,剩余数量,使用比率,到期时间,GPT-4,以及是否与卡片绑定. 
 
 
 **Others**
- * [drugchat](https://github.com/ucsd-ai4h/drugchat) - 药物聊天:向药物分子图表上实现类似ChatGPT的功能
+ * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - 基于ChatGPT-Next-Web,集成SD网络AI绘图,实现注册登录,次数限制,充值,分享等功能
 
 
-_Updated on August 20, 2023_ (A total of 987 repositories listed.)
+_Updated on August 23, 2023_ (A total of 992 repositories listed.)
 
 ## Table of contents
 
@@ -181,6 +179,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - 使用思维树提示来提升ChatGPT的推理能力
  * [chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts) - 油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框
 油猴 chatgpt Prompt 脚本插件，将Prompt对话框导入到chatgpt聊天框中。
+ * [llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.report 是一个开源的日志和分析平台，用于OpenAI：记录您的ChatGPT API请求，分析成本，并改进您的提示。
+ * [InstructZero](https://github.com/lichang-chen/instructzero) - 正式实施InstructZero；这是第一个优化ChatGPT(API LLMs)糟糕提示并最终获得良好提示的框架！
 
 
 |Name|GitHub Stars|Language|License|
@@ -252,6 +252,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[IntelliNode](https://github.com/barqawiz/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/barqawiz/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/tree-of-thought-prompting?style=social)|-|mit|
 |[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
+|[llm.report](https://github.com/dillionverma/llm.report)|![GitHub Repo stars](https://img.shields.io/github/stars/dillionverma/llm.report?style=social)|TypeScript|gpl-3.0|
+|[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/Lichang-Chen/InstructZero?style=social)|Python|-|
 
 
 ## Chatbots
@@ -509,7 +511,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot)|![GitHub Repo stars](https://img.shields.io/github/stars/darkmakerofc/OpenAi-ChatGPT-Bot?style=social)|JavaScript|-|
 |[opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)|![GitHub Repo stars](https://img.shields.io/github/stars/opening-up-chatgpt/opening-up-chatgpt.github.io?style=social)|Python|apache-2.0|
 |[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
-|[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/aks-openai-terraform?style=social)|HCL|mit|
+|[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=social)|HCL|mit|
 
 
 ## Browser-extensions
@@ -1138,6 +1140,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [RankGPT](https://github.com/sunnweiwei/rankgpt) - ChatGPT在搜索方面表现如何？LLMs作为重新排序代理
  * [smile](https://github.com/qiuhuachuan/smile) - 微笑：通过ChatGPT进行单轮到多轮包容性语言扩展，为心理健康支持提供帮助。
  * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - 论文C3的代码：使用ChatGPT进行零样本文本到SQL的转换。
+ * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - 使用像ChatGPT和Vicuna-13b这样的LLMs，为Delphi Object Pascal和C++Builder生成代码和表单。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1288,6 +1291,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[RankGPT](https://github.com/sunnweiwei/rankgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sunnweiwei/RankGPT?style=social)|Python|-|
 |[smile](https://github.com/qiuhuachuan/smile)|![GitHub Repo stars](https://img.shields.io/github/stars/qiuhuachuan/smile?style=social)|Python|cc0-1.0|
 |[C3SQL](https://github.com/bigbigwatermalon/c3sql)|![GitHub Repo stars](https://img.shields.io/github/stars/bigbigwatermalon/C3SQL?style=social)|Python|-|
+|[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/FMXExpress/CodeDroidAI?style=social)|Pascal|mit|
 
 
 ## Langchain
@@ -1543,6 +1547,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
  * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - 这是一个使用ChatGPT API和Stable Diffusion API的自动博客工具，可以创建完全优化的博文并自动发布到WordPress。
  * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web 支持本地数据向量话提问 基于Golang语言的后端API服务
  * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - 使用ChatGPT生成Laravel代码
+ * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 这是一个单页面项目，可以批量可视化查询openai(chatgpt)的余额。支持显示总量、已使用量、剩余量、使用比例、到期时间、GPT-4以及是否绑定卡片。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1645,6 +1650,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
 |[autoblogger](https://github.com/incomestreamsurfer/autoblogger)|![GitHub Repo stars](https://img.shields.io/github/stars/incomestreamsurfer/autoblogger?style=social)|Python|-|
 |[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
 |[laravel-synth](https://github.com/blinq-dev/laravel-synth)|![GitHub Repo stars](https://img.shields.io/github/stars/blinq-dev/laravel-synth?style=social)|PHP|mit|
+|[openai-billing-query](https://github.com/woodchen-ink/openai-billing-query)|![GitHub Repo stars](https://img.shields.io/github/stars/woodchen-ink/openai-billing-query?style=social)|HTML|apache-2.0|
 
 
 ## Others
@@ -1905,6 +1911,7 @@ chatgpt-mirror-server快速部署库文件
  * [ExcelGPT](https://github.com/asterecho/excelgpt) - chatgpt for Excel，基于ExcelDNA开发
  * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPT的跨平台桌面客户端，拥有简洁的用户界面和随时唤起的体验。具备构建本地知识库、网络检索、长文本阅读、执行本地代码等功能。
  * [drugchat](https://github.com/ucsd-ai4h/drugchat) - DrugChat：实现在药物分子图上启用ChatGPT类似功能
+ * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - 基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能
 
 
 |Name|GitHub Stars|Language|License|
@@ -2161,6 +2168,7 @@ chatgpt-mirror-server快速部署库文件
 |[MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai)|![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)|Vue|mit|
 |[ExcelGPT](https://github.com/asterecho/excelgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/asterecho/ExcelGPT?style=social)|C#|-|
 |[OpenCopilot](https://github.com/newfyu/opencopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/newfyu/OpenCopilot?style=social)|JavaScript|-|
-|[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/UCSD-AI4H/drugchat?style=social)|Python|bsd-3-clause|
+|[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/ucsd-ai4h/drugchat?style=social)|Python|bsd-3-clause|
+|[ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web)|![GitHub Repo stars](https://img.shields.io/github/stars/chengxs1994/ChatGPT-SDImg-Web?style=social)|TypeScript|other|
 
 
