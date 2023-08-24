@@ -4511,6 +4511,26 @@
                     "zh-hans": "本文介绍了如何通过Terraform部署Azure Kubernetes Service（AKS）集群和Azure OpenAI服务，以及如何部署一个Terraform聊天机器人，该机器人使用Azure AD工作负载身份验证Azure OpenAI，并调用ChatGPT模型的Chat Completion API。",
                     "zh-hant": "本文介紹了如何通過Terraform部署Azure Kubernetes Service（AKS）集群和Azure OpenAI服務，以及如何部署一個使用Azure AD工作負載身份驗證Azure OpenAI並調用ChatGPT模型的Chat Completion API的Terraform聊天機器人。"
                 }
+            },
+            "https://github.com/nonejou072/robot-gpt": {
+                "repository_name": "Robot-GPT",
+                "user_name": "NoneJou072",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A simulation framework based on ROS2 and ChatGPT for robot interaction tasks in the era of large models",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A simulation framework based on ROS2 and ChatGPT for robot interaction tasks in the era of large models",
+                    "ja": "大型モデルの時代におけるロボットの相互作用タスクのためのROS2とChatGPTに基づくシミュレーションフレームワーク",
+                    "zh-hans": "基于ROS2和ChatGPT的仿真框架，用于大型模型时代的机器人交互任务。",
+                    "zh-hant": "一個基於ROS2和ChatGPT的模擬框架，用於大型模型時代的機器人交互任務。"
+                }
             }
         },
         "Browser-extensions": {
@@ -6892,6 +6912,32 @@
                     "zh-hans": "AI聊天浏览器：快速、完整的Web应用程序访问ChatGPT / Claude / Bard / Bing / Llama2！我每天使用它20次。",
                     "zh-hant": "AI聊天瀏覽器：快速、完整的網頁應用程式，可存取ChatGPT / Claude / Bard / Bing / Llama2！我每天使用這個20次。"
                 }
+            },
+            "https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt": {
+                "repository_name": "Image-To-Text-OCR-extension-for-ChatGPT",
+                "user_name": "Tshetrim",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Image To Text (OCR) Chrome extension for ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "google-extension",
+                    "ocr",
+                    "productivity-tools",
+                    "tesseractjs"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Image To Text (OCR) Chrome extension for ChatGPT",
+                    "ja": "ChatGPT用の画像からテキストへの変換（OCR）Chrome拡張機能",
+                    "zh-hans": "图像转文本（OCR）ChatGPT Chrome扩展程序",
+                    "zh-hant": "圖像轉文字（OCR）ChatGPT Chrome 擴展程式"
+                }
             }
         },
         "CLIs": {
@@ -8586,6 +8632,39 @@
                     "ja": "ChatGPT CLIは、OpenAIのChatGPTのための高度なコマンドラインインターフェースであり、ストリーミング、クエリモード、および履歴追跡を提供し、シームレスでコンテキストに対応した会話を実現します。ユーザーと開発者の両方に最適であり、高度な設定と簡単なセットアップオプションを提供し、GPTモデルとのカスタマイズされた会話体験を確保します。",
                     "zh-hans": "ChatGPT CLI是OpenAI的ChatGPT的高级命令行界面，提供流式传输、查询模式和历史记录跟踪，实现无缝和上下文感知的对话。非常适合用户和开发人员使用，它提供高级配置和简单设置选项，以确保与GPT模型的对话体验量身定制。",
                     "zh-hant": "ChatGPT CLI 是 OpenAI 的 ChatGPT 的高級命令行界面，提供流式傳輸、查詢模式和歷史記錄功能，實現無縫且具有上下文感知的對話。非常適合用戶和開發人員使用，它提供了高級配置和簡單的設置選項，確保與 GPT 模型的對話體驗符合需求。"
+                }
+            },
+            "https://github.com/lobehub/lobe-commit": {
+                "repository_name": "lobe-commit",
+                "user_name": "lobehub",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "💌 Lobe Commit is a CLI tool that uses Langchain/ChatGPT to generate Gitmoji-based commit messages",
+                "topics": [
+                    "ai",
+                    "ai-commit",
+                    "aicommit",
+                    "chatgpt",
+                    "cli",
+                    "git-commits",
+                    "gitmoji-cli",
+                    "gpt",
+                    "langchain",
+                    "langchainjs",
+                    "lobehub",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "💌 Lobe Commit is a CLI tool that uses Langchain/ChatGPT to generate Gitmoji-based commit messages",
+                    "ja": "💌 Lobe Commitは、Langchain/ChatGPTを使用してGitmojiベースのコミットメッセージを生成するCLIツールです。",
+                    "zh-hans": "💌 Lobe Commit 是一个使用 Langchain/ChatGPT 来生成基于 Gitmoji 的提交信息的命令行工具。",
+                    "zh-hant": "💌 Lobe Commit 是一個使用 Langchain/ChatGPT 的 CLI 工具，用於生成基於 Gitmoji 的提交訊息。"
                 }
             }
         },
@@ -11954,6 +12033,26 @@
                     "ja": "ChatGPTやVicuna-13bのようなLLMを使用して、Delphi Object PascalとC++BuilderのためのコードとフォームをAIで生成します。",
                     "zh-hans": "使用像ChatGPT和Vicuna-13b这样的LLMs，为Delphi Object Pascal和C++Builder生成代码和表单。",
                     "zh-hant": "使用像ChatGPT和Vicuna-13b这样的LLMs，为Delphi Object Pascal和C++Builder生成代碼和表單的人工智能。"
+                }
+            },
+            "https://github.com/kdalanon/chatgpt-autohotkey-utility": {
+                "repository_name": "ChatGPT-AutoHotkey-Utility",
+                "user_name": "kdalanon",
+                "language": "AutoHotkey",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "An AutoHotkey script that uses ChatGPT API to process text.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An AutoHotkey script that uses ChatGPT API to process text.",
+                    "ja": "テキストを処理するためにChatGPT APIを使用するAutoHotkeyスクリプト。",
+                    "zh-hans": "一个使用ChatGPT API处理文本的AutoHotkey脚本。",
+                    "zh-hant": "一個使用ChatGPT API來處理文本的AutoHotkey腳本。"
                 }
             }
         },
@@ -19891,6 +19990,20 @@
                     "ja": "ChatGPT-Next-Webをベースに、SD webui AI描画を統合し、登録、ログイン、回数制限、チャージ、共有などの機能を実現します。",
                     "zh-hans": "基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能",
                     "zh-hant": "基於ChatGPT-Next-Web，整合SD webui AI繪圖，實現註冊登錄，次數限制，充值，分享等功能。"
+                }
+            },
+            "https://github.com/techiesms/esp32-chatgpt": {
+                "repository_name": "ESP32-ChatGPT",
+                "user_name": "techiesms",
+                "language": "C++",
+                "license": null,
+                "description": "This Repo contains the code for using ChatGPT on ESP32 board along with Audio Response using i2s amplifier module",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This Repo contains the code for using ChatGPT on ESP32 board along with Audio Response using i2s amplifier module",
+                    "ja": "このリポジトリには、ESP32ボードでChatGPTを使用するためのコードが含まれており、i2sアンプモジュールを使用したオーディオ応答も行います。",
+                    "zh-hans": "这个仓库包含了在ESP32开发板上使用ChatGPT的代码，同时还使用了i2s放大模块进行音频响应。",
+                    "zh-hant": "這個存儲庫包含在ESP32開發板上使用ChatGPT的代碼，並使用i2s放大模組進行音頻回應。"
                 }
             }
         }

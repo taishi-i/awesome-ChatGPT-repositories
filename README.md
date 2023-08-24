@@ -16,24 +16,27 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.
- * [InstructZero](https://github.com/lichang-chen/instructzero) - Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!
+**Chatbots**
+ * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - A simulation framework based on ROS2 and ChatGPT for robot interaction tasks in the era of large models
+
+
+**Browser-extensions**
+ * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - Image To Text (OCR) Chrome extension for ChatGPT
+
+
+**CLIs**
+ * [lobe-commit](https://github.com/lobehub/lobe-commit) - 💌 Lobe Commit is a CLI tool that uses Langchain/ChatGPT to generate Gitmoji-based commit messages
 
 
 **NLP**
- * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - Generate code and forms with AI for Delphi Object Pascal and C++Builder using LLMs like ChatGPT and Vicuna-13b.
-
-
-**Openai**
- * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card. 
+ * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - An AutoHotkey script that uses ChatGPT API to process text.
 
 
 **Others**
- * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - 基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能
+ * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - This Repo contains the code for using ChatGPT on ESP32 board along with Audio Response using i2s amplifier module
 
 
-_Updated on August 23, 2023_ (A total of 992 repositories listed.)
+_Updated on August 25, 2023_ (A total of 997 repositories listed.)
 
 ## Table of contents
 
@@ -251,7 +254,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
 |[tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/tree-of-thought-prompting?style=social)|-|mit|
 |[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 |[llm.report](https://github.com/dillionverma/llm.report)|![GitHub Repo stars](https://img.shields.io/github/stars/dillionverma/llm.report?style=social)|TypeScript|gpl-3.0|
-|[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/Lichang-Chen/InstructZero?style=social)|Python|-|
+|[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
 
 
 ## Chatbots
@@ -381,6 +384,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
  * [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Liesenfeld, Andreas, Alianda Lopez, and Mark Dingemanse. 2023. “Opening up ChatGPT: Tracking Openness, Transparency, and Accountability in Instruction-Tuned Text Generators.” In Proceedings of the 5th International Conference on Conversational User Interfaces. Eindhoven. doi:10.1145/3571884.3604316.
  * [ChatDrug](https://github.com/chao1224/chatdrug) - ChatGPT for Drug Discovery
  * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Terraform and how to deploy a Terraform chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.
+ * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - A simulation framework based on ROS2 and ChatGPT for robot interaction tasks in the era of large models
 
 
 |Name|GitHub Stars|Language|License|
@@ -510,6 +514,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
 |[opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)|![GitHub Repo stars](https://img.shields.io/github/stars/opening-up-chatgpt/opening-up-chatgpt.github.io?style=social)|Python|apache-2.0|
 |[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
 |[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=social)|HCL|mit|
+|[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NoneJou072/Robot-GPT?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -627,6 +632,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
  * [codesherpa](https://github.com/iamgreggarcia/codesherpa) - A code interpreter and ChatGPT plugin
  * [ethgpt](https://github.com/xinbenlv/ethgpt) - ChatGPT Plugin for Ethereum and EVM dApp / smart contract functionalities
  * [GodMode](https://github.com/smol-ai/godmode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
+ * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - Image To Text (OCR) Chrome extension for ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -744,6 +750,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
 |[codesherpa](https://github.com/iamgreggarcia/codesherpa)|![GitHub Repo stars](https://img.shields.io/github/stars/iamgreggarcia/codesherpa?style=social)|TypeScript|mit|
 |[ethgpt](https://github.com/xinbenlv/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/xinbenlv/ethgpt?style=social)|TypeScript|-|
 |[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
+|[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -829,6 +836,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
  * [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ChatGPT Web One-click deployment
  * [tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
  * [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is an advanced command-line interface for OpenAI's ChatGPT, offering streaming, query mode, and history tracking for seamless and context-aware conversations. Ideal for both users and developers, it provides advanced configuration and easy setup options to ensure a tailored conversational experience with the GPT model.
+ * [lobe-commit](https://github.com/lobehub/lobe-commit) - 💌 Lobe Commit is a CLI tool that uses Langchain/ChatGPT to generate Gitmoji-based commit messages
 
 
 |Name|GitHub Stars|Language|License|
@@ -914,6 +922,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
 |[chatgpt-web](https://github.com/dqzboy/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/dqzboy/chatgpt-web?style=social)|Shell|-|
 |[tgpt](https://github.com/aandrew-me/tgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aandrew-me/tgpt?style=social)|Go|gpl-3.0|
 |[chatgpt-cli](https://github.com/kardolus/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/kardolus/chatgpt-cli?style=social)|Go|mit|
+|[lobe-commit](https://github.com/lobehub/lobe-commit)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-commit?style=social)|TypeScript|mit|
 
 
 ## Reimplementations
@@ -1133,6 +1142,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
  * [smile](https://github.com/qiuhuachuan/smile) - SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support
  * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - The code for the paper C3: Zero-shot Text-to-SQL with ChatGPT
  * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - Generate code and forms with AI for Delphi Object Pascal and C++Builder using LLMs like ChatGPT and Vicuna-13b.
+ * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - An AutoHotkey script that uses ChatGPT API to process text.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1283,7 +1293,8 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
 |[RankGPT](https://github.com/sunnweiwei/rankgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sunnweiwei/RankGPT?style=social)|Python|-|
 |[smile](https://github.com/qiuhuachuan/smile)|![GitHub Repo stars](https://img.shields.io/github/stars/qiuhuachuan/smile?style=social)|Python|cc0-1.0|
 |[C3SQL](https://github.com/bigbigwatermalon/c3sql)|![GitHub Repo stars](https://img.shields.io/github/stars/bigbigwatermalon/C3SQL?style=social)|Python|-|
-|[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/FMXExpress/CodeDroidAI?style=social)|Pascal|mit|
+|[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/fmxexpress/CodeDroidAI?style=social)|Pascal|mit|
+|[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
 
 
 ## Langchain
@@ -1532,7 +1543,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
  * [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - This is an autoblogger that uses the ChatGPT API and Stable Diffusion API to create fully optimized blog posts and post them automatically to wordpress
  * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web   支持本地数据向量话提问 基于Golang语言的后端API服务
  * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - Generate Laravel code with ChatGPT
- * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card. 
+ * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1894,6 +1905,7 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
  * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPT的跨平台桌面客户端，简洁的用户界面和随时唤起的体验。有构建本地知识库、网络检索、长文本阅读、执行本地代码等功能。
  * [drugchat](https://github.com/ucsd-ai4h/drugchat) - DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs
  * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - 基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能
+ * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - This Repo contains the code for using ChatGPT on ESP32 board along with Audio Response using i2s amplifier module
 
 
 |Name|GitHub Stars|Language|License|
@@ -2152,5 +2164,6 @@ _Updated on August 23, 2023_ (A total of 992 repositories listed.)
 |[OpenCopilot](https://github.com/newfyu/opencopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/newfyu/OpenCopilot?style=social)|JavaScript|-|
 |[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/ucsd-ai4h/drugchat?style=social)|Python|bsd-3-clause|
 |[ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web)|![GitHub Repo stars](https://img.shields.io/github/stars/chengxs1994/ChatGPT-SDImg-Web?style=social)|TypeScript|other|
+|[ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/techiesms/ESP32-ChatGPT?style=social)|C++|-|
 
 
