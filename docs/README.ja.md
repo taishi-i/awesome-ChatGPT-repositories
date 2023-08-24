@@ -15,24 +15,27 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.reportは、OpenAIのためのオープンソースのログと分析プラットフォームです：ChatGPT APIのリクエストを記録し、コストを分析し、プロンプトを改善します。
- * [InstructZero](https://github.com/lichang-chen/instructzero) - 公式実装：InstructZeroの導入。ChatGPT（API LLMs）の悪いプロンプトを最適化し、最終的に良いプロンプトを得るための最初のフレームワークです！
+**Chatbots**
+ * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - 大型モデルの時代におけるロボットの相互作用タスクのためのROS2とChatGPTに基づくシミュレーションフレームワーク
+
+
+**Browser-extensions**
+ * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - ChatGPT用の画像からテキストへの変換（OCR）Chrome拡張機能
+
+
+**CLIs**
+ * [lobe-commit](https://github.com/lobehub/lobe-commit) - 💌 Lobe Commitは、Langchain/ChatGPTを使用してGitmojiベースのコミットメッセージを生成するCLIツールです。
 
 
 **NLP**
- * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - ChatGPTやVicuna-13bのようなLLMを使用して、Delphi Object PascalとC++BuilderのためのコードとフォームをAIで生成します。
-
-
-**Openai**
- * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 単一ページのプロジェクトで、openai（chatgpt）の残高を一括で可視化クエリすることができます。総額、使用額、残高、使用比率、有効期限、GPT-4、カードとのバインドの有無を表示することができます。
+ * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - テキストを処理するためにChatGPT APIを使用するAutoHotkeyスクリプト。
 
 
 **Others**
- * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - ChatGPT-Next-Webをベースに、SD webui AI描画を統合し、登録、ログイン、回数制限、チャージ、共有などの機能を実現します。
+ * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - このリポジトリには、ESP32ボードでChatGPTを使用するためのコードが含まれており、i2sアンプモジュールを使用したオーディオ応答も行います。
 
 
-_Updated on August 23, 2023_ (A total of 992 repositories listed.)
+_Updated on August 25, 2023_ (A total of 997 repositories listed.)
 
 ## Table of contents
 
@@ -260,7 +263,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/tree-of-thought-prompting?style=social)|-|mit|
 |[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 |[llm.report](https://github.com/dillionverma/llm.report)|![GitHub Repo stars](https://img.shields.io/github/stars/dillionverma/llm.report?style=social)|TypeScript|gpl-3.0|
-|[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/Lichang-Chen/InstructZero?style=social)|Python|-|
+|[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
 
 
 ## Chatbots
@@ -393,6 +396,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - Liesenfeld、Andreas、Alianda Lopez、およびMark Dingemanse。2023年。「ChatGPTの公開：指示に調整されたテキスト生成器の公開性、透明性、および説明責任の追跡」。第5回国際会議「対話型ユーザーインターフェースに関する国際会議」の論文集。アイントホーフェン。doi：10.1145/3571884.3604316。
  * [ChatDrug](https://github.com/chao1224/chatdrug) - 薬剤探索のためのChatGPT
  * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - この記事では、Terraformを使用してAzure Kubernetes Service(AKS)クラスターとAzure OpenAIサービスを展開する方法、およびAzure ADワークロードアイデンティティを使用してAzure OpenAIに対して認証するTerraformチャットボットを展開し、ChatGPTモデルのChat Completion APIを呼び出す方法を示しています。
+ * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - 大型モデルの時代におけるロボットの相互作用タスクのためのROS2とChatGPTに基づくシミュレーションフレームワーク
 
 
 |Name|GitHub Stars|Language|License|
@@ -522,6 +526,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)|![GitHub Repo stars](https://img.shields.io/github/stars/opening-up-chatgpt/opening-up-chatgpt.github.io?style=social)|Python|apache-2.0|
 |[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
 |[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=social)|HCL|mit|
+|[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NoneJou072/Robot-GPT?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -639,6 +644,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [codesherpa](https://github.com/iamgreggarcia/codesherpa) - コードインタプリターとChatGPTプラグイン
  * [ethgpt](https://github.com/xinbenlv/ethgpt) - EthereumおよびEVM dApp /スマートコントラクト機能のためのChatGPTプラグイン
  * [GodMode](https://github.com/smol-ai/godmode) - AIチャットブラウザ：ChatGPT / Claude / Bard / Bing / Llama2への高速で完全なウェブアプリアクセス！私はこれを1日に20回使用しています。
+ * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - ChatGPT用の画像からテキストへの変換（OCR）Chrome拡張機能
 
 
 |Name|GitHub Stars|Language|License|
@@ -756,6 +762,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[codesherpa](https://github.com/iamgreggarcia/codesherpa)|![GitHub Repo stars](https://img.shields.io/github/stars/iamgreggarcia/codesherpa?style=social)|TypeScript|mit|
 |[ethgpt](https://github.com/xinbenlv/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/xinbenlv/ethgpt?style=social)|TypeScript|-|
 |[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
+|[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 
 
 ## CLIs
@@ -843,6 +850,7 @@ aiderはターミナルで動作するGPTパワードのコーディングです
 ChatGPT Webのワンクリックデプロイメント
  * [tgpt](https://github.com/aandrew-me/tgpt) - APIキーを必要とせずにターミナルでChatGPTを使用する。
  * [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLIは、OpenAIのChatGPTのための高度なコマンドラインインターフェースであり、ストリーミング、クエリモード、および履歴追跡を提供し、シームレスでコンテキストに対応した会話を実現します。ユーザーと開発者の両方に最適であり、高度な設定と簡単なセットアップオプションを提供し、GPTモデルとのカスタマイズされた会話体験を確保します。
+ * [lobe-commit](https://github.com/lobehub/lobe-commit) - 💌 Lobe Commitは、Langchain/ChatGPTを使用してGitmojiベースのコミットメッセージを生成するCLIツールです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -928,6 +936,7 @@ ChatGPT Webのワンクリックデプロイメント
 |[chatgpt-web](https://github.com/dqzboy/chatgpt-web)|![GitHub Repo stars](https://img.shields.io/github/stars/dqzboy/chatgpt-web?style=social)|Shell|-|
 |[tgpt](https://github.com/aandrew-me/tgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aandrew-me/tgpt?style=social)|Go|gpl-3.0|
 |[chatgpt-cli](https://github.com/kardolus/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/kardolus/chatgpt-cli?style=social)|Go|mit|
+|[lobe-commit](https://github.com/lobehub/lobe-commit)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-commit?style=social)|TypeScript|mit|
 
 
 ## Reimplementations
@@ -1151,6 +1160,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [smile](https://github.com/qiuhuachuan/smile) - SMILE: メンタルヘルスサポートのためのチャットGPTを介したシングルターンからマルチターンへの包括的な言語拡張
  * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - 論文C3のコード：ChatGPTを用いたゼロショットテキストからSQLへの変換
  * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - ChatGPTやVicuna-13bのようなLLMを使用して、Delphi Object PascalとC++BuilderのためのコードとフォームをAIで生成します。
+ * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - テキストを処理するためにChatGPT APIを使用するAutoHotkeyスクリプト。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1301,7 +1311,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[RankGPT](https://github.com/sunnweiwei/rankgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/sunnweiwei/RankGPT?style=social)|Python|-|
 |[smile](https://github.com/qiuhuachuan/smile)|![GitHub Repo stars](https://img.shields.io/github/stars/qiuhuachuan/smile?style=social)|Python|cc0-1.0|
 |[C3SQL](https://github.com/bigbigwatermalon/c3sql)|![GitHub Repo stars](https://img.shields.io/github/stars/bigbigwatermalon/C3SQL?style=social)|Python|-|
-|[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/FMXExpress/CodeDroidAI?style=social)|Pascal|mit|
+|[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/fmxexpress/CodeDroidAI?style=social)|Pascal|mit|
+|[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
 
 
 ## Langchain
@@ -1918,6 +1929,7 @@ Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
  * [OpenCopilot](https://github.com/newfyu/opencopilot) - ChatGPTのクロスプラットフォームデスクトップクライアント。シンプルなユーザーインターフェースといつでも呼び出せる体験があります。ローカルの知識ベースの構築、ウェブ検索、長文の読み込み、ローカルのコードの実行などの機能があります。
  * [drugchat](https://github.com/ucsd-ai4h/drugchat) - ドラッグチャット：薬物分子グラフ上でのChatGPTのような機能を可能にするために
  * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - ChatGPT-Next-Webをベースに、SD webui AI描画を統合し、登録、ログイン、回数制限、チャージ、共有などの機能を実現します。
+ * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - このリポジトリには、ESP32ボードでChatGPTを使用するためのコードが含まれており、i2sアンプモジュールを使用したオーディオ応答も行います。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2176,5 +2188,6 @@ Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
 |[OpenCopilot](https://github.com/newfyu/opencopilot)|![GitHub Repo stars](https://img.shields.io/github/stars/newfyu/OpenCopilot?style=social)|JavaScript|-|
 |[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/ucsd-ai4h/drugchat?style=social)|Python|bsd-3-clause|
 |[ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web)|![GitHub Repo stars](https://img.shields.io/github/stars/chengxs1994/ChatGPT-SDImg-Web?style=social)|TypeScript|other|
+|[ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/techiesms/ESP32-ChatGPT?style=social)|C++|-|
 
 
