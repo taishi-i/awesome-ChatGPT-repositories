@@ -15,27 +15,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - 基于ROS2和ChatGPT的模拟框架,用于大型模型时代的机器人交互任务
+**Prompts**
+ * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 恩达ChatGPT 开发人员的快速工程课程中英版
 
 
 **Browser-extensions**
- * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - 图像转换成文本 (OCR) Chrome扩展程序
+ * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 搜索推词采集与内容生成助手是一个强大的Chrome插件,专为小红书、音、B站、知乎、百度、google用户设计. 它能够自动收集和显示这些平台的搜索推词或联想词,保存下载为csv文件,帮助您更轻松地进行搜索、浏览和发现感兴趣的内容.同时可以利用chatgpt自动批量生产和采集内容发布到wordpress站点.
 
 
-**CLIs**
- * [lobe-commit](https://github.com/lobehub/lobe-commit) -  Lobe Commit 是一个使用 Langchain/ChatGPT 生成 Gitmoji 基于提交消息的 CLI 工具
-
-
-**NLP**
- * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - 一个使用 ChatGPT API 处理文本的 AutoHotkey 脚本.
+**Openai**
+ * [aks-openai](https://github.com/azure-samples/aks-openai) - 采用 Azure Cosmos 样本来利用 Graph API 帐户的大量功能
 
 
 **Others**
- * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - 本文包含在ESP32板上使用ChatGPT的代码,以及使用i2s放大器模块的音频响应
+ * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - 吉约聊天GPT书
 
 
-_Updated on August 25, 2023_ (A total of 997 repositories listed.)
+_Updated on August 28, 2023_ (A total of 1001 repositories listed.)
 
 ## Table of contents
 
@@ -184,6 +180,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 油猴 chatgpt Prompt 脚本插件，将Prompt对话框导入到chatgpt聊天框中。
  * [llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.report 是一个开源的日志和分析平台，用于OpenAI：记录您的ChatGPT API请求，分析成本，并改进您的提示。
  * [InstructZero](https://github.com/lichang-chen/instructzero) - 正式实施InstructZero；这是第一个优化ChatGPT(API LLMs)糟糕提示并最终获得良好提示的框架！
+ * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版
 
 
 |Name|GitHub Stars|Language|License|
@@ -257,6 +254,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 |[llm.report](https://github.com/dillionverma/llm.report)|![GitHub Repo stars](https://img.shields.io/github/stars/dillionverma/llm.report?style=social)|TypeScript|gpl-3.0|
 |[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
+|[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/Kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 
 
 ## Chatbots
@@ -516,7 +514,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)|![GitHub Repo stars](https://img.shields.io/github/stars/opening-up-chatgpt/opening-up-chatgpt.github.io?style=social)|Python|apache-2.0|
 |[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
 |[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=social)|HCL|mit|
-|[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NoneJou072/Robot-GPT?style=social)|Python|mit|
+|[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nonejou072/Robot-GPT?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -638,6 +636,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [GodMode](https://github.com/smol-ai/godmode) - AI聊天浏览器：快速、完整的Web应用程序访问ChatGPT / Claude / Bard / Bing / Llama2！我每天使用它20次。
  * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - 图像转文本（OCR）ChatGPT Chrome扩展程序
+ * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 搜索推荐词采集与内容生成助手是一款强大的Chrome插件，专为小红书、抖音、B站、知乎、百度、google用户设计。它能够自动收集并显示这些平台的搜索推荐词或联想词，保存下载为csv文件，帮助您更轻松地进行搜索、浏览和发现感兴趣的内容。同时可以利用chatgpt自动化批量生产与采集内容发布到wordpress站点。
 
 
 |Name|GitHub Stars|Language|License|
@@ -755,7 +754,8 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[codesherpa](https://github.com/iamgreggarcia/codesherpa)|![GitHub Repo stars](https://img.shields.io/github/stars/iamgreggarcia/codesherpa?style=social)|TypeScript|mit|
 |[ethgpt](https://github.com/xinbenlv/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/xinbenlv/ethgpt?style=social)|TypeScript|-|
 |[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
-|[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
+|[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
+|[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 
 
 ## CLIs
@@ -1559,6 +1559,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
  * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web 支持本地数据向量话提问 基于Golang语言的后端API服务
  * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - 使用ChatGPT生成Laravel代码
  * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 这是一个单页面项目，可以批量可视化查询openai(chatgpt)的余额。支持显示总量、已使用量、剩余量、使用比例、到期时间、GPT-4以及是否绑定卡片。
+ * [aks-openai](https://github.com/azure-samples/aks-openai) - 使用Azure Cosmos示例来利用图形API帐户的批量功能
 
 
 |Name|GitHub Stars|Language|License|
@@ -1662,6 +1663,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
 |[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
 |[laravel-synth](https://github.com/blinq-dev/laravel-synth)|![GitHub Repo stars](https://img.shields.io/github/stars/blinq-dev/laravel-synth?style=social)|PHP|mit|
 |[openai-billing-query](https://github.com/woodchen-ink/openai-billing-query)|![GitHub Repo stars](https://img.shields.io/github/stars/woodchen-ink/openai-billing-query?style=social)|HTML|apache-2.0|
+|[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/aks-openai?style=social)|Java|mit|
 
 
 ## Others
@@ -1924,6 +1926,7 @@ chatgpt-mirror-server快速部署库文件
  * [drugchat](https://github.com/ucsd-ai4h/drugchat) - DrugChat：实现在药物分子图上启用ChatGPT类似功能
  * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - 基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能
  * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - 这个仓库包含了在ESP32开发板上使用ChatGPT的代码，同时还使用了i2s放大模块进行音频响应。
+ * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - Gihyo ChatGPT 书籍
 
 
 |Name|GitHub Stars|Language|License|
@@ -2183,5 +2186,6 @@ chatgpt-mirror-server快速部署库文件
 |[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/ucsd-ai4h/drugchat?style=social)|Python|bsd-3-clause|
 |[ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web)|![GitHub Repo stars](https://img.shields.io/github/stars/chengxs1994/ChatGPT-SDImg-Web?style=social)|TypeScript|other|
 |[ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/techiesms/ESP32-ChatGPT?style=social)|C++|-|
+|[gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gamasenninn/gihyo-ChatGPT?style=social)|Jupyter Notebook|mit|
 
 
