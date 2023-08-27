@@ -15,27 +15,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - 大型モデルの時代におけるロボットの相互作用タスクのためのROS2とChatGPTに基づくシミュレーションフレームワーク
+**Prompts**
+ * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》コース中英版
 
 
 **Browser-extensions**
- * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - ChatGPT用の画像からテキストへの変換（OCR）Chrome拡張機能
+ * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 検索推奨語収集とコンテンツ生成アシスタントは、小紅書、TikTok、Bilibili、知乎、百度、Googleのユーザー向けに設計された強力なChrome拡張機能です。この拡張機能は、これらのプラットフォームの検索推奨語や関連語を自動的に収集し表示し、CSVファイルとして保存してダウンロードすることができます。興味のあるコンテンツを検索、閲覧、発見するのをサポートします。また、chatgptを利用して、自動化された大量のコンテンツを生成し、WordPressサイトに投稿することもできます。
 
 
-**CLIs**
- * [lobe-commit](https://github.com/lobehub/lobe-commit) - 💌 Lobe Commitは、Langchain/ChatGPTを使用してGitmojiベースのコミットメッセージを生成するCLIツールです。
-
-
-**NLP**
- * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - テキストを処理するためにChatGPT APIを使用するAutoHotkeyスクリプト。
+**Openai**
+ * [aks-openai](https://github.com/azure-samples/aks-openai) - グラフAPIアカウントのバルク機能を活用するためのAzure Cosmosのサンプル
 
 
 **Others**
- * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - このリポジトリには、ESP32ボードでChatGPTを使用するためのコードが含まれており、i2sアンプモジュールを使用したオーディオ応答も行います。
+ * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - 技評 ChatGPT ブック
 
 
-_Updated on August 25, 2023_ (A total of 997 repositories listed.)
+_Updated on August 28, 2023_ (A total of 1001 repositories listed.)
 
 ## Table of contents
 
@@ -191,6 +187,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 油猿 chatgpt Prompt スクリプトプラグインを使用して、chatgptチャットボックスにPromptダイアログをインポートします。
  * [llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.reportは、OpenAIのためのオープンソースのログと分析プラットフォームです：ChatGPT APIのリクエストを記録し、コストを分析し、プロンプトを改善します。
  * [InstructZero](https://github.com/lichang-chen/instructzero) - 公式実装：InstructZeroの導入。ChatGPT（API LLMs）の悪いプロンプトを最適化し、最終的に良いプロンプトを得るための最初のフレームワークです！
+ * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》コース中英版
 
 
 |Name|GitHub Stars|Language|License|
@@ -264,6 +261,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 |[llm.report](https://github.com/dillionverma/llm.report)|![GitHub Repo stars](https://img.shields.io/github/stars/dillionverma/llm.report?style=social)|TypeScript|gpl-3.0|
 |[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
+|[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/Kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 
 
 ## Chatbots
@@ -526,7 +524,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)|![GitHub Repo stars](https://img.shields.io/github/stars/opening-up-chatgpt/opening-up-chatgpt.github.io?style=social)|Python|apache-2.0|
 |[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
 |[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=social)|HCL|mit|
-|[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NoneJou072/Robot-GPT?style=social)|Python|mit|
+|[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nonejou072/Robot-GPT?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -645,6 +643,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [ethgpt](https://github.com/xinbenlv/ethgpt) - EthereumおよびEVM dApp /スマートコントラクト機能のためのChatGPTプラグイン
  * [GodMode](https://github.com/smol-ai/godmode) - AIチャットブラウザ：ChatGPT / Claude / Bard / Bing / Llama2への高速で完全なウェブアプリアクセス！私はこれを1日に20回使用しています。
  * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - ChatGPT用の画像からテキストへの変換（OCR）Chrome拡張機能
+ * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 検索推奨語収集とコンテンツ生成アシスタントは、小紅書、TikTok、Bilibili、知乎、百度、Googleのユーザー向けに設計された強力なChrome拡張機能です。この拡張機能は、これらのプラットフォームの検索推奨語や関連語を自動的に収集し表示し、CSVファイルとして保存してダウンロードすることができます。興味のあるコンテンツを検索、閲覧、発見するのをサポートします。また、chatgptを利用して、自動化された大量のコンテンツを生成し、WordPressサイトに投稿することもできます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -762,7 +761,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[codesherpa](https://github.com/iamgreggarcia/codesherpa)|![GitHub Repo stars](https://img.shields.io/github/stars/iamgreggarcia/codesherpa?style=social)|TypeScript|mit|
 |[ethgpt](https://github.com/xinbenlv/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/xinbenlv/ethgpt?style=social)|TypeScript|-|
 |[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
-|[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
+|[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
+|[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 
 
 ## CLIs
@@ -1564,6 +1564,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [chatserver-api](https://github.com/wooveep/chatserver-api) - OPENAIに基づいて開発されたChatGPT APIを使用したAIアシスタントシステムChatserver-web。ローカルデータベースのベクトルクエリに対応しています。バックエンドAPIサービスはGolang言語を使用しています。
  * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - ChatGPTを使用してLaravelコードを生成します。
  * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 単一ページのプロジェクトで、openai（chatgpt）の残高を一括で可視化クエリすることができます。総額、使用額、残高、使用比率、有効期限、GPT-4、カードとのバインドの有無を表示することができます。
+ * [aks-openai](https://github.com/azure-samples/aks-openai) - グラフAPIアカウントのバルク機能を活用するためのAzure Cosmosのサンプル
 
 
 |Name|GitHub Stars|Language|License|
@@ -1667,6 +1668,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
 |[laravel-synth](https://github.com/blinq-dev/laravel-synth)|![GitHub Repo stars](https://img.shields.io/github/stars/blinq-dev/laravel-synth?style=social)|PHP|mit|
 |[openai-billing-query](https://github.com/woodchen-ink/openai-billing-query)|![GitHub Repo stars](https://img.shields.io/github/stars/woodchen-ink/openai-billing-query?style=social)|HTML|apache-2.0|
+|[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/aks-openai?style=social)|Java|mit|
 
 
 ## Others
@@ -1930,6 +1932,7 @@ Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
  * [drugchat](https://github.com/ucsd-ai4h/drugchat) - ドラッグチャット：薬物分子グラフ上でのChatGPTのような機能を可能にするために
  * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - ChatGPT-Next-Webをベースに、SD webui AI描画を統合し、登録、ログイン、回数制限、チャージ、共有などの機能を実現します。
  * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - このリポジトリには、ESP32ボードでChatGPTを使用するためのコードが含まれており、i2sアンプモジュールを使用したオーディオ応答も行います。
+ * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - 技評 ChatGPT ブック
 
 
 |Name|GitHub Stars|Language|License|
@@ -2189,5 +2192,6 @@ Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
 |[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/ucsd-ai4h/drugchat?style=social)|Python|bsd-3-clause|
 |[ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web)|![GitHub Repo stars](https://img.shields.io/github/stars/chengxs1994/ChatGPT-SDImg-Web?style=social)|TypeScript|other|
 |[ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/techiesms/ESP32-ChatGPT?style=social)|C++|-|
+|[gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gamasenninn/gihyo-ChatGPT?style=social)|Jupyter Notebook|mit|
 
 

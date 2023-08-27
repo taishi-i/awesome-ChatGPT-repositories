@@ -1845,6 +1845,26 @@
                     "zh-hans": "正式实施InstructZero；这是第一个优化ChatGPT(API LLMs)糟糕提示并最终获得良好提示的框架！",
                     "zh-hant": "正式實施InstructZero；這是第一個優化ChatGPT（API LLMs）不良提示並最終獲得良好提示的框架！"
                 }
+            },
+            "https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers": {
+                "repository_name": "chatgpt-prompt-engineering-for-developers",
+                "user_name": "Kevin-free",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版",
+                "topics": [
+                    "chatgpt",
+                    "deep-learning",
+                    "language-model",
+                    "openai",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版",
+                    "ja": "吴恩达《ChatGPT Prompt Engineering for Developers》コース中英版",
+                    "zh-hans": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版",
+                    "zh-hant": "吳恩達《ChatGPT Prompt Engineering for Developers》課程中英版"
+                }
             }
         },
         "Chatbots": {
@@ -6937,6 +6957,20 @@
                     "ja": "ChatGPT用の画像からテキストへの変換（OCR）Chrome拡張機能",
                     "zh-hans": "图像转文本（OCR）ChatGPT Chrome扩展程序",
                     "zh-hant": "圖像轉文字（OCR）ChatGPT Chrome 擴展程式"
+                }
+            },
+            "https://github.com/niemingxing/search-recommendations": {
+                "repository_name": "search-recommendations",
+                "user_name": "niemingxing",
+                "language": "JavaScript",
+                "license": null,
+                "description": "搜索推荐词采集与内容生成助手是一款强大的Chrome插件，专为小红书、抖音、B站、知乎、百度、google用户设计。它能够自动收集并显示这些平台的搜索推荐词或联想词，保存下载为csv文件，帮助您更轻松地进行搜索、浏览和发现感兴趣的内容。同时可以利用chatgpt自动化批量生产与采集内容发布到wordpress站点。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The Search Recommendation Word Collection and Content Generation Assistant is a powerful Chrome extension designed for users of Xiaohongshu, Douyin, Bilibili, Zhihu, Baidu, and Google. It can automatically collect and display the search recommendation words or associated words from these platforms, save them as CSV files for download, and help you search, browse, and discover interesting content more easily. It can also use ChatGPT to automate the batch production and collection of content for publishing on WordPress sites.",
+                    "ja": "検索推奨語収集とコンテンツ生成アシスタントは、小紅書、TikTok、Bilibili、知乎、百度、Googleのユーザー向けに設計された強力なChrome拡張機能です。この拡張機能は、これらのプラットフォームの検索推奨語や関連語を自動的に収集し表示し、CSVファイルとして保存してダウンロードすることができます。興味のあるコンテンツを検索、閲覧、発見するのをサポートします。また、chatgptを利用して、自動化された大量のコンテンツを生成し、WordPressサイトに投稿することもできます。",
+                    "zh-hans": "搜索推荐词采集与内容生成助手是一款强大的Chrome插件，专为小红书、抖音、B站、知乎、百度、google用户设计。它能够自动收集并显示这些平台的搜索推荐词或联想词，保存下载为csv文件，帮助您更轻松地进行搜索、浏览和发现感兴趣的内容。同时可以利用chatgpt自动化批量生产与采集内容发布到wordpress站点。",
+                    "zh-hant": "搜索推薦詞采集與內容生成助手是一款強大的Chrome插件，專為小紅書、抖音、B站、知乎、百度、google用戶設計。它能夠自動收集並顯示這些平台的搜索推薦詞或聯想詞，保存下載為csv文件，幫助您更輕鬆地進行搜索、瀏覽和發現感興趣的內容。同時可以利用chatgpt自動化批量生產與采集內容發布到wordpress站點。"
                 }
             }
         },
@@ -15397,6 +15431,29 @@
                     "zh-hans": "这是一个单页面项目，可以批量可视化查询openai(chatgpt)的余额。支持显示总量、已使用量、剩余量、使用比例、到期时间、GPT-4以及是否绑定卡片。",
                     "zh-hant": "單頁面專案，批量可視化查詢openai(chatgpt)餘額，支持顯示總量，已使用，剩餘量，已用比例，到期時間，GPT-4，是否綁卡。\n這是一個單頁面專案，可以批量查詢openai(chatgpt)餘額的可視化功能。支持顯示總量、已使用量、剩餘量、使用比例、到期時間、GPT-4以及是否綁定卡片。"
                 }
+            },
+            "https://github.com/azure-samples/aks-openai": {
+                "repository_name": "aks-openai",
+                "user_name": "Azure-Samples",
+                "language": "Java",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Azure Cosmos samples to leverage Bulk capabilities for Graph API accounts",
+                "topics": [
+                    "azure-cosmos-db",
+                    "gremlin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Azure Cosmos samples to leverage Bulk capabilities for Graph API accounts",
+                    "ja": "グラフAPIアカウントのバルク機能を活用するためのAzure Cosmosのサンプル",
+                    "zh-hans": "使用Azure Cosmos示例来利用图形API帐户的批量功能",
+                    "zh-hant": "使用Azure Cosmos示例来利用图形API帐户的批量功能"
+                }
             }
         },
         "Others": {
@@ -20004,6 +20061,26 @@
                     "ja": "このリポジトリには、ESP32ボードでChatGPTを使用するためのコードが含まれており、i2sアンプモジュールを使用したオーディオ応答も行います。",
                     "zh-hans": "这个仓库包含了在ESP32开发板上使用ChatGPT的代码，同时还使用了i2s放大模块进行音频响应。",
                     "zh-hant": "這個存儲庫包含在ESP32開發板上使用ChatGPT的代碼，並使用i2s放大模組進行音頻回應。"
+                }
+            },
+            "https://github.com/gamasenninn/gihyo-chatgpt": {
+                "repository_name": "gihyo-ChatGPT",
+                "user_name": "gamasenninn",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Gihyo ChatGPT Book",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Gihyo ChatGPT Book",
+                    "ja": "技評 ChatGPT ブック",
+                    "zh-hans": "Gihyo ChatGPT 书籍",
+                    "zh-hant": "Gihyo ChatGPT 書籍"
                 }
             }
         }

@@ -16,27 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - A simulation framework based on ROS2 and ChatGPT for robot interaction tasks in the era of large models
+**Prompts**
+ * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版
 
 
 **Browser-extensions**
- * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - Image To Text (OCR) Chrome extension for ChatGPT
+ * [search-recommendations](https://github.com/niemingxing/search-recommendations) - The Search Recommendation Word Collection and Content Generation Assistant is a powerful Chrome extension designed for users of Xiaohongshu, Douyin, Bilibili, Zhihu, Baidu, and Google. It can automatically collect and display the search recommendation words or associated words from these platforms, save them as CSV files for download, and help you search, browse, and discover interesting content more easily. It can also use ChatGPT to automate the batch production and collection of content for publishing on WordPress sites.
 
 
-**CLIs**
- * [lobe-commit](https://github.com/lobehub/lobe-commit) - 💌 Lobe Commit is a CLI tool that uses Langchain/ChatGPT to generate Gitmoji-based commit messages
-
-
-**NLP**
- * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - An AutoHotkey script that uses ChatGPT API to process text.
+**Openai**
+ * [aks-openai](https://github.com/azure-samples/aks-openai) - Azure Cosmos samples to leverage Bulk capabilities for Graph API accounts
 
 
 **Others**
- * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - This Repo contains the code for using ChatGPT on ESP32 board along with Audio Response using i2s amplifier module
+ * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - Gihyo ChatGPT Book
 
 
-_Updated on August 25, 2023_ (A total of 997 repositories listed.)
+_Updated on August 28, 2023_ (A total of 1001 repositories listed.)
 
 ## Table of contents
 
@@ -182,6 +178,7 @@ _Updated on August 25, 2023_ (A total of 997 repositories listed.)
  * [chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts) - 油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框
  * [llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.
  * [InstructZero](https://github.com/lichang-chen/instructzero) - Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!
+ * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版
 
 
 |Name|GitHub Stars|Language|License|
@@ -255,6 +252,7 @@ _Updated on August 25, 2023_ (A total of 997 repositories listed.)
 |[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 |[llm.report](https://github.com/dillionverma/llm.report)|![GitHub Repo stars](https://img.shields.io/github/stars/dillionverma/llm.report?style=social)|TypeScript|gpl-3.0|
 |[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
+|[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/Kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 
 
 ## Chatbots
@@ -514,7 +512,7 @@ _Updated on August 25, 2023_ (A total of 997 repositories listed.)
 |[opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io)|![GitHub Repo stars](https://img.shields.io/github/stars/opening-up-chatgpt/opening-up-chatgpt.github.io?style=social)|Python|apache-2.0|
 |[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
 |[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=social)|HCL|mit|
-|[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NoneJou072/Robot-GPT?style=social)|Python|mit|
+|[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nonejou072/Robot-GPT?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -633,6 +631,7 @@ _Updated on August 25, 2023_ (A total of 997 repositories listed.)
  * [ethgpt](https://github.com/xinbenlv/ethgpt) - ChatGPT Plugin for Ethereum and EVM dApp / smart contract functionalities
  * [GodMode](https://github.com/smol-ai/godmode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
  * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - Image To Text (OCR) Chrome extension for ChatGPT
+ * [search-recommendations](https://github.com/niemingxing/search-recommendations) - The Search Recommendation Word Collection and Content Generation Assistant is a powerful Chrome extension designed for users of Xiaohongshu, Douyin, Bilibili, Zhihu, Baidu, and Google. It can automatically collect and display the search recommendation words or associated words from these platforms, save them as CSV files for download, and help you search, browse, and discover interesting content more easily. It can also use ChatGPT to automate the batch production and collection of content for publishing on WordPress sites.
 
 
 |Name|GitHub Stars|Language|License|
@@ -750,7 +749,8 @@ _Updated on August 25, 2023_ (A total of 997 repositories listed.)
 |[codesherpa](https://github.com/iamgreggarcia/codesherpa)|![GitHub Repo stars](https://img.shields.io/github/stars/iamgreggarcia/codesherpa?style=social)|TypeScript|mit|
 |[ethgpt](https://github.com/xinbenlv/ethgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/xinbenlv/ethgpt?style=social)|TypeScript|-|
 |[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
-|[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
+|[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
+|[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 
 
 ## CLIs
@@ -1545,6 +1545,7 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
  * [chatserver-api](https://github.com/wooveep/chatserver-api) - 基于OPENAI的ChatGPT API开发的AI助手系统 Chatserver-web   支持本地数据向量话提问 基于Golang语言的后端API服务
  * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - Generate Laravel code with ChatGPT
  * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card. 
+ * [aks-openai](https://github.com/azure-samples/aks-openai) - Azure Cosmos samples to leverage Bulk capabilities for Graph API accounts
 
 
 |Name|GitHub Stars|Language|License|
@@ -1648,6 +1649,7 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
 |[laravel-synth](https://github.com/blinq-dev/laravel-synth)|![GitHub Repo stars](https://img.shields.io/github/stars/blinq-dev/laravel-synth?style=social)|PHP|mit|
 |[openai-billing-query](https://github.com/woodchen-ink/openai-billing-query)|![GitHub Repo stars](https://img.shields.io/github/stars/woodchen-ink/openai-billing-query?style=social)|HTML|apache-2.0|
+|[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/aks-openai?style=social)|Java|mit|
 
 
 ## Others
@@ -1908,6 +1910,7 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
  * [drugchat](https://github.com/ucsd-ai4h/drugchat) - DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs
  * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - Based on ChatGPT-Next-Web, integrate SD webui AI drawing to achieve functions such as registration, login, usage limits, recharge, and sharing.
  * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - This Repo contains the code for using ChatGPT on ESP32 board along with Audio Response using i2s amplifier module
+ * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - Gihyo ChatGPT Book
 
 
 |Name|GitHub Stars|Language|License|
@@ -2167,5 +2170,6 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
 |[drugchat](https://github.com/ucsd-ai4h/drugchat)|![GitHub Repo stars](https://img.shields.io/github/stars/ucsd-ai4h/drugchat?style=social)|Python|bsd-3-clause|
 |[ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web)|![GitHub Repo stars](https://img.shields.io/github/stars/chengxs1994/ChatGPT-SDImg-Web?style=social)|TypeScript|other|
 |[ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/techiesms/ESP32-ChatGPT?style=social)|C++|-|
+|[gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gamasenninn/gihyo-ChatGPT?style=social)|Jupyter Notebook|mit|
 
 
