@@ -4551,6 +4551,40 @@
                     "zh-hans": "基于ROS2和ChatGPT的仿真框架，用于大型模型时代的机器人交互任务。",
                     "zh-hant": "一個基於ROS2和ChatGPT的模擬框架，用於大型模型時代的機器人交互任務。"
                 }
+            },
+            "https://github.com/anchen1011/chatgpt-finetune-ui": {
+                "repository_name": "chatgpt-finetune-ui",
+                "user_name": "anchen1011",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Simple python WebUI for fine-tuning ChatGPT (gpt-3.5-turbo)",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "finetune",
+                    "gpt-3",
+                    "gpt-35-turbo",
+                    "gui",
+                    "live-demo",
+                    "openai",
+                    "openai-api",
+                    "openai-chatgpt",
+                    "streamlit",
+                    "streamlit-webapp",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Simple python WebUI for fine-tuning ChatGPT (gpt-3.5-turbo)",
+                    "ja": "ChatGPT（gpt-3.5-turbo）の微調整のためのシンプルなPython WebUI",
+                    "zh-hans": "简单的Python WebUI用于微调ChatGPT（gpt-3.5-turbo）",
+                    "zh-hant": "簡單的Python WebUI，用於微調ChatGPT（gpt-3.5-turbo）。"
+                }
             }
         },
         "Browser-extensions": {
@@ -8700,6 +8734,83 @@
                     "zh-hans": "💌 Lobe Commit 是一个使用 Langchain/ChatGPT 来生成基于 Gitmoji 的提交信息的命令行工具。",
                     "zh-hant": "💌 Lobe Commit 是一個使用 Langchain/ChatGPT 的 CLI 工具，用於生成基於 Gitmoji 的提交訊息。"
                 }
+            },
+            "https://github.com/alexandrevl/supersummarizeai": {
+                "repository_name": "SuperSummarizeAI",
+                "user_name": "alexandrevl",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Unleash the power of AI with SuperSummarizeAI! Effortlessly extract, condense, and clip content from webpages and YouTube videos using ChatGPT. Turning endless streams of content into digestible summaries.",
+                "topics": [
+                    "beautifulsoup",
+                    "chatgpt",
+                    "content-analysis",
+                    "multilingual",
+                    "nlp",
+                    "openai",
+                    "papperclip",
+                    "text",
+                    "text-processing",
+                    "text-summarization",
+                    "web-scraping",
+                    "youtube"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Unleash the power of AI with SuperSummarizeAI! Effortlessly extract, condense, and clip content from webpages and YouTube videos using ChatGPT. Turning endless streams of content into digestible summaries.",
+                    "ja": "スーパーサマライズAIでAIの力を解き放ちましょう！ChatGPTを使用して、ウェブページやYouTubeの動画から簡単にコンテンツを抽出、要約、クリップすることができます。無限のコンテンツを消化しやすい要約に変えましょう。",
+                    "zh-hans": "使用SuperSummarizeAI释放人工智能的力量！轻松地使用ChatGPT从网页和YouTube视频中提取、压缩和剪辑内容。将无尽的内容转化为易于理解的摘要。",
+                    "zh-hant": "發揮SuperSummarizeAI的人工智能力量！輕鬆地使用ChatGPT從網頁和YouTube視頻中提取、縮短和剪輯內容，將無窮的內容轉化為易於理解的摘要。"
+                }
+            },
+            "https://github.com/mikaelvesavuori/minion": {
+                "repository_name": "minion",
+                "user_name": "mikaelvesavuori",
+                "language": "Shell",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "The easiest and most lightweight way for developers to use ChatGPT in a CLI.",
+                "topics": [
+                    "ai-developer-tools",
+                    "chatgpt",
+                    "developer-tools"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The easiest and most lightweight way for developers to use ChatGPT in a CLI.",
+                    "ja": "開発者がCLIでChatGPTを使用するための最も簡単で軽量な方法。",
+                    "zh-hans": "开发者在命令行界面中使用ChatGPT的最简单和最轻量级的方式。",
+                    "zh-hant": "開發者在命令列介面中使用ChatGPT的最簡單且最輕量的方式。"
+                }
+            },
+            "https://github.com/rogueocelot/chai-ruby": {
+                "repository_name": "chai-ruby",
+                "user_name": "rogueocelot",
+                "language": "Ruby",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "cd into the directory open in GNOME Files with a terminal emulator of your choice",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "cd into the directory open in GNOME Files with a terminal emulator of your choice",
+                    "ja": "ターミナルエミュレータを使用して、GNOME Filesで開いているディレクトリにcdしてください。",
+                    "zh-hans": "使用您选择的终端模拟器，进入GNOME Files中打开的目录。",
+                    "zh-hant": "使用您選擇的終端模擬器進入GNOME Files中打開的目錄"
+                }
             }
         },
         "Reimplementations": {
@@ -9095,6 +9206,26 @@
                     "ja": "ChatGPTコードインタープリターのオープンソース実装 👾",
                     "zh-hans": "ChatGPT代码解释器的开源实现 👾",
                     "zh-hant": "開源ChatGPT代碼解釋器的實現 👾"
+                }
+            },
+            "https://github.com/mrgreyfun/local-code-interpreter": {
+                "repository_name": "Local-Code-Interpreter",
+                "user_name": "MrGreyfun",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "A local implementation of OpenAI's ChatGPT Code Interpreter.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A local implementation of OpenAI's ChatGPT Code Interpreter.",
+                    "ja": "OpenAIのChatGPTコードインタプリタのローカル実装。",
+                    "zh-hans": "一个本地实现的OpenAI ChatGPT代码解释器。",
+                    "zh-hant": "一個本地實現的OpenAI ChatGPT代碼解釋器。"
                 }
             }
         },
@@ -12087,6 +12218,33 @@
                     "ja": "テキストを処理するためにChatGPT APIを使用するAutoHotkeyスクリプト。",
                     "zh-hans": "一个使用ChatGPT API处理文本的AutoHotkey脚本。",
                     "zh-hant": "一個使用ChatGPT API來處理文本的AutoHotkey腳本。"
+                }
+            },
+            "https://github.com/yegor256/jekyll-chatgpt-translate": {
+                "repository_name": "jekyll-chatgpt-translate",
+                "user_name": "yegor256",
+                "language": "Ruby",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Automated translating of Jekyll pages via ChatGPT: all you need is just an OpenAI API key",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-app",
+                    "internationalization",
+                    "jekyll",
+                    "jekyll-plugin",
+                    "translation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Automated translating of Jekyll pages via ChatGPT: all you need is just an OpenAI API key",
+                    "ja": "ChatGPTを使用したJekyllページの自動翻訳：必要なのはOpenAI APIキーだけです。",
+                    "zh-hans": "通过ChatGPT自动翻译Jekyll页面：您只需要一个OpenAI API密钥。",
+                    "zh-hant": "使用ChatGPT自動翻譯Jekyll頁面：您只需要一個OpenAI API金鑰。"
                 }
             }
         },
@@ -15453,6 +15611,33 @@
                     "ja": "グラフAPIアカウントのバルク機能を活用するためのAzure Cosmosのサンプル",
                     "zh-hans": "使用Azure Cosmos示例来利用图形API帐户的批量功能",
                     "zh-hant": "使用Azure Cosmos示例来利用图形API帐户的批量功能"
+                }
+            },
+            "https://github.com/atinylittleshell/function-gpt": {
+                "repository_name": "function-gpt",
+                "user_name": "atinylittleshell",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "This is a typescript library that helps handle function calling with OpenAI's ChatGPT API.",
+                "topics": [
+                    "api",
+                    "chatgpt",
+                    "function-calling",
+                    "gpt",
+                    "openai",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This is a typescript library that helps handle function calling with OpenAI's ChatGPT API.",
+                    "ja": "これは、OpenAIのChatGPT APIを使用して関数呼び出しを処理するのに役立つTypeScriptライブラリです。",
+                    "zh-hans": "这是一个帮助处理使用OpenAI的ChatGPT API进行函数调用的TypeScript库。",
+                    "zh-hant": "這是一個 TypeScript 函式庫，可協助處理使用 OpenAI 的 ChatGPT API 進行函式呼叫。"
                 }
             }
         },
@@ -20081,6 +20266,108 @@
                     "ja": "技評 ChatGPT ブック",
                     "zh-hans": "Gihyo ChatGPT 书籍",
                     "zh-hant": "Gihyo ChatGPT 書籍"
+                }
+            },
+            "https://github.com/dandinu/azurechatgpt": {
+                "repository_name": "azurechatgpt",
+                "user_name": "dandinu",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼",
+                    "ja": "🤖 Azure ChatGPT: 内部企業利用のためのプライベートで安全なChatGPT 💼",
+                    "zh-hans": "🤖 Azure ChatGPT：专为企业内部使用而设计的私密安全聊天GPT 💼",
+                    "zh-hant": "🤖 Azure ChatGPT：私密且安全的企業內部使用聊天機器人 💼"
+                }
+            },
+            "https://github.com/black-fruit/opengpt-business": {
+                "repository_name": "OpenGPT-Business",
+                "user_name": "black-fruit",
+                "language": "TypeScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "chatgpt商业应用！79E/ChatGpt-Web 的1.3.9最新！本人破解，无需授权！",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGpt business application! Latest version 1.3.9 of 79E/ChatGpt-Web! Cracked by me, no authorization required!",
+                    "ja": "chatgpt商業アプリ！79E/ChatGpt-Webの1.3.9最新版！私はクラックしました、ライセンスは必要ありません！",
+                    "zh-hans": "chatgpt商业应用！79E/ChatGpt-Web 的1.3.9最新！本人破解，无需授权！\nchatgpt商业应用！79E/ChatGpt-Web 的1.3.9最新！本人破解，无需授权！",
+                    "zh-hant": "chatgpt商業應用！79E/ChatGpt-Web 的1.3.9最新！本人破解，無需授權！"
+                }
+            },
+            "https://github.com/iongpt/chatgpt-fine-tuning": {
+                "repository_name": "ChatGPT-fine-tuning",
+                "user_name": "iongpt",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Utility class for training fine tuning ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Utility class for training fine tuning ChatGPT",
+                    "ja": "ChatGPTのファインチューニングを行うためのユーティリティクラス\nChatGPTのファインチューニングのためのユーティリティクラス",
+                    "zh-hans": "用于训练微调ChatGPT的实用类",
+                    "zh-hant": "用於訓練微調ChatGPT的實用程式類別"
+                }
+            },
+            "https://github.com/vual/chatgpt-next-web-pro": {
+                "repository_name": "ChatGPT-Next-Web-Pro",
+                "user_name": "vual",
+                "language": null,
+                "license": null,
+                "description": "基于chatgpt-next-web，增加了midjourney绘画功能。后续会接入stable-diffusion，注册登录，后台管理，接入知识库等。",
+                "topics": [
+                    "admin",
+                    "chatgpt",
+                    "chatgpt-next-web",
+                    "login",
+                    "midjourney",
+                    "register",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "基于chatgpt-next-web，增加了midjourney绘画功能。后续会接入stable-diffusion，注册登录，后台管理，接入知识库等。",
+                    "ja": "chatgpt-next-webをベースに、midjourneyの描画機能を追加しました。今後はstable-diffusion、登録ログイン、バックエンド管理、ナレッジベースの接続などを行います。",
+                    "zh-hans": "基于chatgpt-next-web，增加了midjourney绘画功能。后续会接入stable-diffusion，注册登录，后台管理，接入知识库等。",
+                    "zh-hant": "基於chatgpt-next-web，增加了midjourney繪畫功能。後續會接入stable-diffusion，註冊登錄，後台管理，接入知識庫等。"
+                }
+            },
+            "https://github.com/rogueocelot/chirp": {
+                "repository_name": "chirp",
+                "user_name": "rogueocelot",
+                "language": "Ruby",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Relay ChatGPT questions and answers from Discord",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Relay ChatGPT questions and answers from Discord",
+                    "ja": "DiscordからのリレーチャットGPTの質問と回答",
+                    "zh-hans": "从Discord中的Relay ChatGPT的问题和答案",
+                    "zh-hant": "從Discord中的Relay ChatGPT問題和答案"
                 }
             }
         }

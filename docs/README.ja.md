@@ -15,23 +15,38 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》コース中英版
+**Chatbots**
+ * [chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui) - ChatGPT（gpt-3.5-turbo）の微調整のためのシンプルなPython WebUI
 
 
-**Browser-extensions**
- * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 検索推奨語収集とコンテンツ生成アシスタントは、小紅書、TikTok、Bilibili、知乎、百度、Googleのユーザー向けに設計された強力なChrome拡張機能です。この拡張機能は、これらのプラットフォームの検索推奨語や関連語を自動的に収集し表示し、CSVファイルとして保存してダウンロードすることができます。興味のあるコンテンツを検索、閲覧、発見するのをサポートします。また、chatgptを利用して、自動化された大量のコンテンツを生成し、WordPressサイトに投稿することもできます。
+**CLIs**
+ * [SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai) - スーパーサマライズAIでAIの力を解き放ちましょう！ChatGPTを使用して、ウェブページやYouTubeの動画から簡単にコンテンツを抽出、要約、クリップすることができます。無限のコンテンツを消化しやすい要約に変えましょう。
+ * [minion](https://github.com/mikaelvesavuori/minion) - 開発者がCLIでChatGPTを使用するための最も簡単で軽量な方法。
+ * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - ターミナルエミュレータを使用して、GNOME Filesで開いているディレクトリにcdしてください。
+
+
+**Reimplementations**
+ * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - OpenAIのChatGPTコードインタプリタのローカル実装。
+
+
+**NLP**
+ * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - ChatGPTを使用したJekyllページの自動翻訳：必要なのはOpenAI APIキーだけです。
 
 
 **Openai**
- * [aks-openai](https://github.com/azure-samples/aks-openai) - グラフAPIアカウントのバルク機能を活用するためのAzure Cosmosのサンプル
+ * [function-gpt](https://github.com/atinylittleshell/function-gpt) - これは、OpenAIのChatGPT APIを使用して関数呼び出しを処理するのに役立つTypeScriptライブラリです。
 
 
 **Others**
- * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - 技評 ChatGPT ブック
+ * [azurechatgpt](https://github.com/dandinu/azurechatgpt) - 🤖 Azure ChatGPT: 内部企業利用のためのプライベートで安全なChatGPT 💼
+ * [OpenGPT-Business](https://github.com/black-fruit/opengpt-business) - chatgpt商業アプリ！79E/ChatGpt-Webの1.3.9最新版！私はクラックしました、ライセンスは必要ありません！
+ * [ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning) - ChatGPTのファインチューニングを行うためのユーティリティクラス
+ChatGPTのファインチューニングのためのユーティリティクラス
+ * [ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro) - chatgpt-next-webをベースに、midjourneyの描画機能を追加しました。今後はstable-diffusion、登録ログイン、バックエンド管理、ナレッジベースの接続などを行います。
+ * [chirp](https://github.com/rogueocelot/chirp) - DiscordからのリレーチャットGPTの質問と回答
 
 
-_Updated on August 28, 2023_ (A total of 1001 repositories listed.)
+_Updated on August 30, 2023_ (A total of 1013 repositories listed.)
 
 ## Table of contents
 
@@ -261,7 +276,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 |[llm.report](https://github.com/dillionverma/llm.report)|![GitHub Repo stars](https://img.shields.io/github/stars/dillionverma/llm.report?style=social)|TypeScript|gpl-3.0|
 |[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
-|[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/Kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
+|[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 
 
 ## Chatbots
@@ -395,6 +410,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [ChatDrug](https://github.com/chao1224/chatdrug) - 薬剤探索のためのChatGPT
  * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - この記事では、Terraformを使用してAzure Kubernetes Service(AKS)クラスターとAzure OpenAIサービスを展開する方法、およびAzure ADワークロードアイデンティティを使用してAzure OpenAIに対して認証するTerraformチャットボットを展開し、ChatGPTモデルのChat Completion APIを呼び出す方法を示しています。
  * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - 大型モデルの時代におけるロボットの相互作用タスクのためのROS2とChatGPTに基づくシミュレーションフレームワーク
+ * [chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui) - ChatGPT（gpt-3.5-turbo）の微調整のためのシンプルなPython WebUI
 
 
 |Name|GitHub Stars|Language|License|
@@ -525,6 +541,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
 |[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=social)|HCL|mit|
 |[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nonejou072/Robot-GPT?style=social)|Python|mit|
+|[chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/anchen1011/chatgpt-finetune-ui?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -851,6 +868,9 @@ ChatGPT Webのワンクリックデプロイメント
  * [tgpt](https://github.com/aandrew-me/tgpt) - APIキーを必要とせずにターミナルでChatGPTを使用する。
  * [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLIは、OpenAIのChatGPTのための高度なコマンドラインインターフェースであり、ストリーミング、クエリモード、および履歴追跡を提供し、シームレスでコンテキストに対応した会話を実現します。ユーザーと開発者の両方に最適であり、高度な設定と簡単なセットアップオプションを提供し、GPTモデルとのカスタマイズされた会話体験を確保します。
  * [lobe-commit](https://github.com/lobehub/lobe-commit) - 💌 Lobe Commitは、Langchain/ChatGPTを使用してGitmojiベースのコミットメッセージを生成するCLIツールです。
+ * [SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai) - スーパーサマライズAIでAIの力を解き放ちましょう！ChatGPTを使用して、ウェブページやYouTubeの動画から簡単にコンテンツを抽出、要約、クリップすることができます。無限のコンテンツを消化しやすい要約に変えましょう。
+ * [minion](https://github.com/mikaelvesavuori/minion) - 開発者がCLIでChatGPTを使用するための最も簡単で軽量な方法。
+ * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - ターミナルエミュレータを使用して、GNOME Filesで開いているディレクトリにcdしてください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -937,6 +957,9 @@ ChatGPT Webのワンクリックデプロイメント
 |[tgpt](https://github.com/aandrew-me/tgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aandrew-me/tgpt?style=social)|Go|gpl-3.0|
 |[chatgpt-cli](https://github.com/kardolus/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/kardolus/chatgpt-cli?style=social)|Go|mit|
 |[lobe-commit](https://github.com/lobehub/lobe-commit)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-commit?style=social)|TypeScript|mit|
+|[SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai)|![GitHub Repo stars](https://img.shields.io/github/stars/alexandrevl/SuperSummarizeAI?style=social)|Python|mit|
+|[minion](https://github.com/mikaelvesavuori/minion)|![GitHub Repo stars](https://img.shields.io/github/stars/mikaelvesavuori/minion?style=social)|Shell|mit|
+|[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
 
 
 ## Reimplementations
@@ -962,6 +985,7 @@ ChatGPT Webのワンクリックデプロイメント
  * [exllama](https://github.com/turboderp/exllama) - 量子化された重みを使用するためのLlamaのHF transformers実装のメモリ効率の改善版。
  * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 公式のA*ネットワークの実装
  * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPTコードインタープリターのオープンソース実装 👾
+ * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - OpenAIのChatGPTコードインタプリタのローカル実装。
 
 
 |Name|GitHub Stars|Language|License|
@@ -987,6 +1011,7 @@ ChatGPT Webのワンクリックデプロイメント
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 |[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
+|[Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/MrGreyfun/Local-Code-Interpreter?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -1161,6 +1186,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [C3SQL](https://github.com/bigbigwatermalon/c3sql) - 論文C3のコード：ChatGPTを用いたゼロショットテキストからSQLへの変換
  * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - ChatGPTやVicuna-13bのようなLLMを使用して、Delphi Object PascalとC++BuilderのためのコードとフォームをAIで生成します。
  * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - テキストを処理するためにChatGPT APIを使用するAutoHotkeyスクリプト。
+ * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - ChatGPTを使用したJekyllページの自動翻訳：必要なのはOpenAI APIキーだけです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1313,6 +1339,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[C3SQL](https://github.com/bigbigwatermalon/c3sql)|![GitHub Repo stars](https://img.shields.io/github/stars/bigbigwatermalon/C3SQL?style=social)|Python|-|
 |[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/fmxexpress/CodeDroidAI?style=social)|Pascal|mit|
 |[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
+|[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 
 
 ## Langchain
@@ -1565,6 +1592,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [laravel-synth](https://github.com/blinq-dev/laravel-synth) - ChatGPTを使用してLaravelコードを生成します。
  * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 単一ページのプロジェクトで、openai（chatgpt）の残高を一括で可視化クエリすることができます。総額、使用額、残高、使用比率、有効期限、GPT-4、カードとのバインドの有無を表示することができます。
  * [aks-openai](https://github.com/azure-samples/aks-openai) - グラフAPIアカウントのバルク機能を活用するためのAzure Cosmosのサンプル
+ * [function-gpt](https://github.com/atinylittleshell/function-gpt) - これは、OpenAIのChatGPT APIを使用して関数呼び出しを処理するのに役立つTypeScriptライブラリです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1668,7 +1696,8 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
 |[laravel-synth](https://github.com/blinq-dev/laravel-synth)|![GitHub Repo stars](https://img.shields.io/github/stars/blinq-dev/laravel-synth?style=social)|PHP|mit|
 |[openai-billing-query](https://github.com/woodchen-ink/openai-billing-query)|![GitHub Repo stars](https://img.shields.io/github/stars/woodchen-ink/openai-billing-query?style=social)|HTML|apache-2.0|
-|[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/aks-openai?style=social)|Java|mit|
+|[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai?style=social)|Java|mit|
+|[function-gpt](https://github.com/atinylittleshell/function-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atinylittleshell/function-gpt?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1933,6 +1962,12 @@ Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
  * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - ChatGPT-Next-Webをベースに、SD webui AI描画を統合し、登録、ログイン、回数制限、チャージ、共有などの機能を実現します。
  * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - このリポジトリには、ESP32ボードでChatGPTを使用するためのコードが含まれており、i2sアンプモジュールを使用したオーディオ応答も行います。
  * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - 技評 ChatGPT ブック
+ * [azurechatgpt](https://github.com/dandinu/azurechatgpt) - 🤖 Azure ChatGPT: 内部企業利用のためのプライベートで安全なChatGPT 💼
+ * [OpenGPT-Business](https://github.com/black-fruit/opengpt-business) - chatgpt商業アプリ！79E/ChatGpt-Webの1.3.9最新版！私はクラックしました、ライセンスは必要ありません！
+ * [ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning) - ChatGPTのファインチューニングを行うためのユーティリティクラス
+ChatGPTのファインチューニングのためのユーティリティクラス
+ * [ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro) - chatgpt-next-webをベースに、midjourneyの描画機能を追加しました。今後はstable-diffusion、登録ログイン、バックエンド管理、ナレッジベースの接続などを行います。
+ * [chirp](https://github.com/rogueocelot/chirp) - DiscordからのリレーチャットGPTの質問と回答
 
 
 |Name|GitHub Stars|Language|License|
@@ -2193,5 +2228,10 @@ Output: chatgpt for Excel、ExcelDNAをベースに開発されました。
 |[ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web)|![GitHub Repo stars](https://img.shields.io/github/stars/chengxs1994/ChatGPT-SDImg-Web?style=social)|TypeScript|other|
 |[ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/techiesms/ESP32-ChatGPT?style=social)|C++|-|
 |[gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gamasenninn/gihyo-ChatGPT?style=social)|Jupyter Notebook|mit|
+|[azurechatgpt](https://github.com/dandinu/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dandinu/azurechatgpt?style=social)|TypeScript|mit|
+|[OpenGPT-Business](https://github.com/black-fruit/opengpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/black-fruit/OpenGPT-Business?style=social)|TypeScript|apache-2.0|
+|[ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning)|![GitHub Repo stars](https://img.shields.io/github/stars/iongpt/ChatGPT-fine-tuning?style=social)|Python|apache-2.0|
+|[ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/vual/ChatGPT-Next-Web-Pro?style=social)|-|-|
+|[chirp](https://github.com/rogueocelot/chirp)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chirp?style=social)|Ruby|mit|
 
 

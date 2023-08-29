@@ -15,23 +15,37 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 恩達ChatGPT 發達人即時工程課程中英版
+**Chatbots**
+ * [chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui) - 簡單的python WebUI,用于微調ChatGPT (gpt-3.5-turbo)
 
 
-**Browser-extensions**
- * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 搜索推詞采集與內容生成助手是一款強大的Chrome插件,專為小紅書、音、B站、知乎、百度、google用戶設計. 它能夠自動收集和顯示這些平台的搜索推詞或联想詞,保存下載為csv文件,幫助您更輕鬆地進行搜索、覽和發現有興趣的內容.同時可以利用chatgpt自動批量產量和采集內容發佈到wordpress站點.
+**CLIs**
+ * [SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai) - 輕鬆地從網頁和YouTube影片中提取,凝縮和剪輯內容, 使用ChatGPT. 將無限的內容流轉化為易於消化的摘要.
+ * [minion](https://github.com/mikaelvesavuori/minion) - 开发者在CLI中使用ChatGPT的最簡單,最輕巧的方式.
+ * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - cd 在您選擇的終端模擬器中打開 GNOME 檔案目錄
+
+
+**Reimplementations**
+ * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - 提供了一個更好的方法,
+
+
+**NLP**
+ * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - 透過ChatGPT自動翻譯 Jekyll頁面:你只需要一個OpenAI API鍵
 
 
 **Openai**
- * [aks-openai](https://github.com/azure-samples/aks-openai) - 覽 Azure Cosmos 範例,以利用 Graph API 帳戶的大量功能
+ * [function-gpt](https://github.com/atinylittleshell/function-gpt) - 這是一本字體圖書館,
 
 
 **Others**
- * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - 網路書店
+ * [azurechatgpt](https://github.com/dandinu/azurechatgpt) -  Azure ChatGPT:私人與安全的ChatGPT,
+ * [OpenGPT-Business](https://github.com/black-fruit/opengpt-business) - 沒有必要授權!
+ * [ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning) - 訓練微調 ChatGPT 的實用類別
+ * [ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro) - 基于chatgpt-next-web,增加了中程繪畫功能. 後續會接入stable-diffusion,注冊登录,后台管理,接入知識庫等.
+ * [chirp](https://github.com/rogueocelot/chirp) - 接送 ChatGPT 詢問及解答
 
 
-_Updated on August 28, 2023_ (A total of 1001 repositories listed.)
+_Updated on August 30, 2023_ (A total of 1013 repositories listed.)
 
 ## Table of contents
 
@@ -253,7 +267,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts)|![GitHub Repo stars](https://img.shields.io/github/stars/wincheshe/chatGPT-prompt-scripts?style=social)|JavaScript|-|
 |[llm.report](https://github.com/dillionverma/llm.report)|![GitHub Repo stars](https://img.shields.io/github/stars/dillionverma/llm.report?style=social)|TypeScript|gpl-3.0|
 |[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
-|[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/Kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
+|[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 
 
 ## Chatbots
@@ -385,6 +399,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [ChatDrug](https://github.com/chao1224/chatdrug) - ChatGPT用於藥物研發
  * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - 本文介紹了如何通過Terraform部署Azure Kubernetes Service（AKS）集群和Azure OpenAI服務，以及如何部署一個使用Azure AD工作負載身份驗證Azure OpenAI並調用ChatGPT模型的Chat Completion API的Terraform聊天機器人。
  * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - 一個基於ROS2和ChatGPT的模擬框架，用於大型模型時代的機器人交互任務。
+ * [chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui) - 簡單的Python WebUI，用於微調ChatGPT（gpt-3.5-turbo）。
 
 
 |Name|GitHub Stars|Language|License|
@@ -515,6 +530,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[ChatDrug](https://github.com/chao1224/chatdrug)|![GitHub Repo stars](https://img.shields.io/github/stars/chao1224/ChatDrug?style=social)|Python|-|
 |[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=social)|HCL|mit|
 |[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nonejou072/Robot-GPT?style=social)|Python|mit|
+|[chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/anchen1011/chatgpt-finetune-ui?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -839,6 +855,9 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [tgpt](https://github.com/aandrew-me/tgpt) - 在終端機中使用ChatGPT而不需要API密鑰
  * [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI 是 OpenAI 的 ChatGPT 的高級命令行界面，提供流式傳輸、查詢模式和歷史記錄功能，實現無縫且具有上下文感知的對話。非常適合用戶和開發人員使用，它提供了高級配置和簡單的設置選項，確保與 GPT 模型的對話體驗符合需求。
  * [lobe-commit](https://github.com/lobehub/lobe-commit) - 💌 Lobe Commit 是一個使用 Langchain/ChatGPT 的 CLI 工具，用於生成基於 Gitmoji 的提交訊息。
+ * [SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai) - 發揮SuperSummarizeAI的人工智能力量！輕鬆地使用ChatGPT從網頁和YouTube視頻中提取、縮短和剪輯內容，將無窮的內容轉化為易於理解的摘要。
+ * [minion](https://github.com/mikaelvesavuori/minion) - 開發者在命令列介面中使用ChatGPT的最簡單且最輕量的方式。
+ * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - 使用您選擇的終端模擬器進入GNOME Files中打開的目錄
 
 
 |Name|GitHub Stars|Language|License|
@@ -925,6 +944,9 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[tgpt](https://github.com/aandrew-me/tgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/aandrew-me/tgpt?style=social)|Go|gpl-3.0|
 |[chatgpt-cli](https://github.com/kardolus/chatgpt-cli)|![GitHub Repo stars](https://img.shields.io/github/stars/kardolus/chatgpt-cli?style=social)|Go|mit|
 |[lobe-commit](https://github.com/lobehub/lobe-commit)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-commit?style=social)|TypeScript|mit|
+|[SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai)|![GitHub Repo stars](https://img.shields.io/github/stars/alexandrevl/SuperSummarizeAI?style=social)|Python|mit|
+|[minion](https://github.com/mikaelvesavuori/minion)|![GitHub Repo stars](https://img.shields.io/github/stars/mikaelvesavuori/minion?style=social)|Shell|mit|
+|[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
 
 
 ## Reimplementations
@@ -950,6 +972,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [exllama](https://github.com/turboderp/exllama) - 一個更節省記憶體的重寫版本，用於使用量化權重的Llama的HF transformers實現。
  * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 官方實現的A*網絡
  * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 開源ChatGPT代碼解釋器的實現 👾
+ * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - 一個本地實現的OpenAI ChatGPT代碼解釋器。
 
 
 |Name|GitHub Stars|Language|License|
@@ -975,6 +998,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 |[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
+|[Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/MrGreyfun/Local-Code-Interpreter?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -1152,6 +1176,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 論文C3的代碼：使用ChatGPT進行零樣本文本到SQL的轉換
  * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - 使用像ChatGPT和Vicuna-13b这样的LLMs，为Delphi Object Pascal和C++Builder生成代碼和表單的人工智能。
  * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - 一個使用ChatGPT API來處理文本的AutoHotkey腳本。
+ * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - 使用ChatGPT自動翻譯Jekyll頁面：您只需要一個OpenAI API金鑰。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1304,6 +1329,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[C3SQL](https://github.com/bigbigwatermalon/c3sql)|![GitHub Repo stars](https://img.shields.io/github/stars/bigbigwatermalon/C3SQL?style=social)|Python|-|
 |[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/fmxexpress/CodeDroidAI?style=social)|Pascal|mit|
 |[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
+|[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 
 
 ## Langchain
@@ -1559,6 +1585,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
  * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 單頁面專案，批量可視化查詢openai(chatgpt)餘額，支持顯示總量，已使用，剩餘量，已用比例，到期時間，GPT-4，是否綁卡。
 這是一個單頁面專案，可以批量查詢openai(chatgpt)餘額的可視化功能。支持顯示總量、已使用量、剩餘量、使用比例、到期時間、GPT-4以及是否綁定卡片。
  * [aks-openai](https://github.com/azure-samples/aks-openai) - 使用Azure Cosmos示例来利用图形API帐户的批量功能
+ * [function-gpt](https://github.com/atinylittleshell/function-gpt) - 這是一個 TypeScript 函式庫，可協助處理使用 OpenAI 的 ChatGPT API 進行函式呼叫。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1662,7 +1689,8 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[chatserver-api](https://github.com/wooveep/chatserver-api)|![GitHub Repo stars](https://img.shields.io/github/stars/wooveep/chatserver-api?style=social)|Go|mit|
 |[laravel-synth](https://github.com/blinq-dev/laravel-synth)|![GitHub Repo stars](https://img.shields.io/github/stars/blinq-dev/laravel-synth?style=social)|PHP|mit|
 |[openai-billing-query](https://github.com/woodchen-ink/openai-billing-query)|![GitHub Repo stars](https://img.shields.io/github/stars/woodchen-ink/openai-billing-query?style=social)|HTML|apache-2.0|
-|[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/aks-openai?style=social)|Java|mit|
+|[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai?style=social)|Java|mit|
+|[function-gpt](https://github.com/atinylittleshell/function-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atinylittleshell/function-gpt?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1934,6 +1962,11 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web) - 基於ChatGPT-Next-Web，整合SD webui AI繪圖，實現註冊登錄，次數限制，充值，分享等功能。
  * [ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt) - 這個存儲庫包含在ESP32開發板上使用ChatGPT的代碼，並使用i2s放大模組進行音頻回應。
  * [gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt) - Gihyo ChatGPT 書籍
+ * [azurechatgpt](https://github.com/dandinu/azurechatgpt) - 🤖 Azure ChatGPT：私密且安全的企業內部使用聊天機器人 💼
+ * [OpenGPT-Business](https://github.com/black-fruit/opengpt-business) - chatgpt商業應用！79E/ChatGpt-Web 的1.3.9最新！本人破解，無需授權！
+ * [ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning) - 用於訓練微調ChatGPT的實用程式類別
+ * [ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro) - 基於chatgpt-next-web，增加了midjourney繪畫功能。後續會接入stable-diffusion，註冊登錄，後台管理，接入知識庫等。
+ * [chirp](https://github.com/rogueocelot/chirp) - 從Discord中的Relay ChatGPT問題和答案
 
 
 |Name|GitHub Stars|Language|License|
@@ -2194,5 +2227,10 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[ChatGPT-SDImg-Web](https://github.com/chengxs1994/chatgpt-sdimg-web)|![GitHub Repo stars](https://img.shields.io/github/stars/chengxs1994/ChatGPT-SDImg-Web?style=social)|TypeScript|other|
 |[ESP32-ChatGPT](https://github.com/techiesms/esp32-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/techiesms/ESP32-ChatGPT?style=social)|C++|-|
 |[gihyo-ChatGPT](https://github.com/gamasenninn/gihyo-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/gamasenninn/gihyo-ChatGPT?style=social)|Jupyter Notebook|mit|
+|[azurechatgpt](https://github.com/dandinu/azurechatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dandinu/azurechatgpt?style=social)|TypeScript|mit|
+|[OpenGPT-Business](https://github.com/black-fruit/opengpt-business)|![GitHub Repo stars](https://img.shields.io/github/stars/black-fruit/OpenGPT-Business?style=social)|TypeScript|apache-2.0|
+|[ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning)|![GitHub Repo stars](https://img.shields.io/github/stars/iongpt/ChatGPT-fine-tuning?style=social)|Python|apache-2.0|
+|[ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/vual/ChatGPT-Next-Web-Pro?style=social)|-|-|
+|[chirp](https://github.com/rogueocelot/chirp)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chirp?style=social)|Ruby|mit|
 
 
