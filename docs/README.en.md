@@ -16,37 +16,34 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [chat-key](https://github.com/overflowy/chat-key) - Supercharge your productivity with ChatGPT and AutoHotkey 🚀
+
+
 **Chatbots**
- * [chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui) - Simple python WebUI for fine-tuning ChatGPT (gpt-3.5-turbo)
+ * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com, using Httpx. With this, you will have free access to ChatGPT, Claude, Llama, Google-PaLM and more! 🚀
+ * [llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 
 
 **CLIs**
- * [SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai) - Unleash the power of AI with SuperSummarizeAI! Effortlessly extract, condense, and clip content from webpages and YouTube videos using ChatGPT. Turning endless streams of content into digestible summaries.
- * [minion](https://github.com/mikaelvesavuori/minion) - The easiest and most lightweight way for developers to use ChatGPT in a CLI.
- * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - cd into the directory open in GNOME Files with a terminal emulator of your choice
+ * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 
 
-**Reimplementations**
- * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - A local implementation of OpenAI's ChatGPT Code Interpreter.
-
-
-**NLP**
- * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - Automated translating of Jekyll pages via ChatGPT: all you need is just an OpenAI API key
+**Langchain**
+ * [Zhongjing](https://github.com/suprityoung/zhongjing) - A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset.
 
 
 **Openai**
- * [function-gpt](https://github.com/atinylittleshell/function-gpt) - This is a typescript library that helps handle function calling with OpenAI's ChatGPT API.
+ * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - Customizable recipe generator powered by OpenAI and ChatGPT. Built with Next.Js Tailwind CSS Radix UI Supabase Clerk.
 
 
 **Others**
- * [azurechatgpt](https://github.com/dandinu/azurechatgpt) - 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
- * [OpenGPT-Business](https://github.com/black-fruit/opengpt-business) - Input: ChatGpt business application! Latest version 1.3.9 of 79E/ChatGpt-Web! Cracked by me, no authorization required!
- * [ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning) - Utility class for training fine tuning ChatGPT
- * [ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro) - 基于chatgpt-next-web，增加了midjourney绘画功能。后续会接入stable-diffusion，注册登录，后台管理，接入知识库等。
- * [chirp](https://github.com/rogueocelot/chirp) - Relay ChatGPT questions and answers from Discord
+ * [SQL-GPT](https://github.com/cl-lau/sql-gpt) - Use ChatGPT to generate SQL and perform execution. Optimization and error correction of SQL is also possible.
+ * [ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind) - Paper XMind Note Generation Tool, converts paper PDFs into concise XMind notes with images and formulas using ChatGPT, improving paper reading efficiency.
+ * [TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt) - Ai platform based on SpringBoot3 development, including both web and mini program, including chatgpt, newbing, and claude. It supports dual-end data synchronization, custom preset words, function module definition, various types of drawing, and web compatibility for mobile display.
 
 
-_Updated on August 30, 2023_ (A total of 1013 repositories listed.)
+_Updated on September 01, 2023_ (A total of 1022 repositories listed.)
 
 ## Table of contents
 
@@ -193,6 +190,7 @@ _Updated on August 30, 2023_ (A total of 1013 repositories listed.)
  * [llm.report](https://github.com/dillionverma/llm.report) - 📊 llm.report is an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.
  * [InstructZero](https://github.com/lichang-chen/instructzero) - Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!
  * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版
+ * [chat-key](https://github.com/overflowy/chat-key) - Supercharge your productivity with ChatGPT and AutoHotkey 🚀
 
 
 |Name|GitHub Stars|Language|License|
@@ -267,6 +265,7 @@ _Updated on August 30, 2023_ (A total of 1013 repositories listed.)
 |[llm.report](https://github.com/dillionverma/llm.report)|![GitHub Repo stars](https://img.shields.io/github/stars/dillionverma/llm.report?style=social)|TypeScript|gpl-3.0|
 |[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
 |[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
+|[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
 
 
 ## Chatbots
@@ -398,6 +397,8 @@ _Updated on August 30, 2023_ (A total of 1013 repositories listed.)
  * [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Terraform and how to deploy a Terraform chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.
  * [Robot-GPT](https://github.com/nonejou072/robot-gpt) - A simulation framework based on ROS2 and ChatGPT for robot interaction tasks in the era of large models
  * [chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui) - Simple python WebUI for fine-tuning ChatGPT (gpt-3.5-turbo)
+ * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com, using Httpx. With this, you will have free access to ChatGPT, Claude, Llama, Google-PaLM and more! 🚀
+ * [llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 
 
 |Name|GitHub Stars|Language|License|
@@ -529,6 +530,8 @@ _Updated on August 30, 2023_ (A total of 1013 repositories listed.)
 |[aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai-terraform?style=social)|HCL|mit|
 |[Robot-GPT](https://github.com/nonejou072/robot-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nonejou072/Robot-GPT?style=social)|Python|mit|
 |[chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/anchen1011/chatgpt-finetune-ui?style=social)|Python|mit|
+|[poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)|![GitHub Repo stars](https://img.shields.io/github/stars/snowby666/poe-api-wrapper?style=social)|Python|gpl-3.0|
+|[llama-gpt](https://github.com/getumbrel/llama-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=social)|TypeScript|mit|
 
 
 ## Browser-extensions
@@ -856,6 +859,7 @@ _Updated on August 30, 2023_ (A total of 1013 repositories listed.)
  * [SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai) - Unleash the power of AI with SuperSummarizeAI! Effortlessly extract, condense, and clip content from webpages and YouTube videos using ChatGPT. Turning endless streams of content into digestible summaries.
  * [minion](https://github.com/mikaelvesavuori/minion) - The easiest and most lightweight way for developers to use ChatGPT in a CLI.
  * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - cd into the directory open in GNOME Files with a terminal emulator of your choice
+ * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
 
 
 |Name|GitHub Stars|Language|License|
@@ -945,6 +949,7 @@ _Updated on August 30, 2023_ (A total of 1013 repositories listed.)
 |[SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai)|![GitHub Repo stars](https://img.shields.io/github/stars/alexandrevl/SuperSummarizeAI?style=social)|Python|mit|
 |[minion](https://github.com/mikaelvesavuori/minion)|![GitHub Repo stars](https://img.shields.io/github/stars/mikaelvesavuori/minion?style=social)|Shell|mit|
 |[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
+|[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 
 
 ## Reimplementations
@@ -996,7 +1001,7 @@ _Updated on August 30, 2023_ (A total of 1013 repositories listed.)
 |[exllama](https://github.com/turboderp/exllama)|![GitHub Repo stars](https://img.shields.io/github/stars/turboderp/exllama?style=social)|Python|mit|
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 |[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
-|[Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/MrGreyfun/Local-Code-Interpreter?style=social)|Python|apache-2.0|
+|[Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/mrgreyfun/Local-Code-Interpreter?style=social)|Python|apache-2.0|
 
 
 ## Tutorials
@@ -1382,6 +1387,7 @@ _Updated on August 30, 2023_ (A total of 1013 repositories listed.)
  * [litellm](https://github.com/berriai/litellm) - a simple & light package to call OpenAI, Azure, Cohere, Anthropic API Endpoints
  * [BayLing](https://github.com/ictnlp/bayling) -  “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
  * [auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
+ * [Zhongjing](https://github.com/suprityoung/zhongjing) - A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1443,6 +1449,7 @@ _Updated on August 30, 2023_ (A total of 1013 repositories listed.)
 |[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
 |[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
+|[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/SupritYoung/Zhongjing?style=social)|Shell|apache-2.0|
 
 
 ## Unity
@@ -1573,6 +1580,7 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
  * [openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card. 
  * [aks-openai](https://github.com/azure-samples/aks-openai) - Azure Cosmos samples to leverage Bulk capabilities for Graph API accounts
  * [function-gpt](https://github.com/atinylittleshell/function-gpt) - This is a typescript library that helps handle function calling with OpenAI's ChatGPT API.
+ * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - Customizable recipe generator powered by OpenAI and ChatGPT. Built with Next.Js Tailwind CSS Radix UI Supabase Clerk.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1678,6 +1686,7 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[openai-billing-query](https://github.com/woodchen-ink/openai-billing-query)|![GitHub Repo stars](https://img.shields.io/github/stars/woodchen-ink/openai-billing-query?style=social)|HTML|apache-2.0|
 |[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai?style=social)|Java|mit|
 |[function-gpt](https://github.com/atinylittleshell/function-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atinylittleshell/function-gpt?style=social)|TypeScript|mit|
+|[chef-gpt](https://github.com/giacomogaglione/chef-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/giacomogaglione/chef-gpt?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -1944,6 +1953,9 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
  * [ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning) - Utility class for training fine tuning ChatGPT
  * [ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro) - 基于chatgpt-next-web，增加了midjourney绘画功能。后续会接入stable-diffusion，注册登录，后台管理，接入知识库等。
  * [chirp](https://github.com/rogueocelot/chirp) - Relay ChatGPT questions and answers from Discord
+ * [SQL-GPT](https://github.com/cl-lau/sql-gpt) - Use ChatGPT to generate SQL and perform execution. Optimization and error correction of SQL is also possible.
+ * [ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind) - Paper XMind Note Generation Tool, converts paper PDFs into concise XMind notes with images and formulas using ChatGPT, improving paper reading efficiency.
+ * [TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt) - Ai platform based on SpringBoot3 development, including both web and mini program, including chatgpt, newbing, and claude. It supports dual-end data synchronization, custom preset words, function module definition, various types of drawing, and web compatibility for mobile display.
 
 
 |Name|GitHub Stars|Language|License|
@@ -2209,5 +2221,8 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
 |[ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning)|![GitHub Repo stars](https://img.shields.io/github/stars/iongpt/ChatGPT-fine-tuning?style=social)|Python|apache-2.0|
 |[ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/vual/ChatGPT-Next-Web-Pro?style=social)|-|-|
 |[chirp](https://github.com/rogueocelot/chirp)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chirp?style=social)|Ruby|mit|
+|[SQL-GPT](https://github.com/cl-lau/sql-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/CL-lau/SQL-GPT?style=social)|Python|mit|
+|[ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind)|![GitHub Repo stars](https://img.shields.io/github/stars/MasterYip/ChatPaper2Xmind?style=social)|Python|mit|
+|[TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dulaiduwang003/TIME-SEA-chatgpt?style=social)|Vue|apache-2.0|
 
 
