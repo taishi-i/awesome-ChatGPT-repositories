@@ -15,36 +15,22 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chat-key](https://github.com/overflowy/chat-key) - ChatGPTとAutoHotkeyで生産性を大幅に向上させましょう 🚀
-
-
 **Chatbots**
- * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 Httpxを使用したPoe.comのPython APIラッパー。これにより、ChatGPT、Claude、Llama、Google-PaLMなどに無料でアクセスできます！🚀
- * [llama-gpt](https://github.com/getumbrel/llama-gpt) - 自己ホスト型のオフラインのChatGPTのようなチャットボットです。Llama 2で動作します。データは一切デバイスから出ませんので、100%プライベートです。新機能：Code Llamaのサポートも追加されました！
+ * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 私は古い回転式電話をChatGPTベースの家庭用アシスタントに変えました。あなたも同じことができます。
 
 
-**CLIs**
- * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - AI Playgrounds by E2Bによって提供されています。ChatGPT用のステロイドコードインタープリター。どんな言語でも、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
-
-
-**Langchain**
- * [Zhongjing](https://github.com/suprityoung/zhongjing) - 大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされた、LLaMaベースの中国医学のChatGPT。
-
-LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされています。
-
-
-**Openai**
- * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - オープンAIとChatGPTによって動作するカスタマイズ可能なレシピジェネレーター。Next.Js、Tailwind CSS、Radix UI、Supabase Clerkで構築されています。
+**Browser-extensions**
+ * [openai.mini](https://github.com/llmapp/openai.mini) - OpenAIのAPIとプラグイン対応のChatGPTをオープンソースのLLMや他のモデルと統合する。
+OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連携可能なChatGPTを作成します。
 
 
 **Others**
- * [SQL-GPT](https://github.com/cl-lau/sql-gpt) - ChatGPTを使用してSQLを生成し、実行を行います。SQLの最適化やエラー修正も可能です。
- * [ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind) - 論文XMindノート生成ツールは、論文のPDFをChatGPTを通じて変換し、画像と数式を含む簡潔なXMindノートにすることで、論文の読解効率を向上させます。
- * [TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt) - SpringBoot3で開発されたAIプラットフォーム。デュアルエンド、ウェブサイトおよびミニプログラムを含み、chatgpt、newbing、claudeを含む。デュアルエンドのデータ同期、カスタムプリセットワードのサポート、機能モジュールの定義、さまざまな種類の図形描画、ウェブとモバイルの互換性を持つ。
+ * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - ChatGPTはGitlabと統合され、コードを自動的に監査してコメントします。
+ * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 無料のChatGPT 3.5 / ChatGPT 4
+ * [chatreview](https://github.com/specful-ai/chatreview) - ChatGPTのコードレビューモード
 
 
-_Updated on September 01, 2023_ (A total of 1022 repositories listed.)
+_Updated on September 04, 2023_ (A total of 1027 repositories listed.)
 
 ## Table of contents
 
@@ -413,6 +399,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui) - ChatGPT（gpt-3.5-turbo）の微調整のためのシンプルなPython WebUI
  * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 Httpxを使用したPoe.comのPython APIラッパー。これにより、ChatGPT、Claude、Llama、Google-PaLMなどに無料でアクセスできます！🚀
  * [llama-gpt](https://github.com/getumbrel/llama-gpt) - 自己ホスト型のオフラインのChatGPTのようなチャットボットです。Llama 2で動作します。データは一切デバイスから出ませんので、100%プライベートです。新機能：Code Llamaのサポートも追加されました！
+ * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 私は古い回転式電話をChatGPTベースの家庭用アシスタントに変えました。あなたも同じことができます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -546,6 +533,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/anchen1011/chatgpt-finetune-ui?style=social)|Python|mit|
 |[poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)|![GitHub Repo stars](https://img.shields.io/github/stars/snowby666/poe-api-wrapper?style=social)|Python|gpl-3.0|
 |[llama-gpt](https://github.com/getumbrel/llama-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=social)|TypeScript|mit|
+|[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -665,6 +653,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [GodMode](https://github.com/smol-ai/godmode) - AIチャットブラウザ：ChatGPT / Claude / Bard / Bing / Llama2への高速で完全なウェブアプリアクセス！私はこれを1日に20回使用しています。
  * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - ChatGPT用の画像からテキストへの変換（OCR）Chrome拡張機能
  * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 検索推奨語収集とコンテンツ生成アシスタントは、小紅書、TikTok、Bilibili、知乎、百度、Googleのユーザー向けに設計された強力なChrome拡張機能です。この拡張機能は、これらのプラットフォームの検索推奨語や関連語を自動的に収集し表示し、CSVファイルとして保存してダウンロードすることができます。興味のあるコンテンツを検索、閲覧、発見するのをサポートします。また、chatgptを利用して、自動化された大量のコンテンツを生成し、WordPressサイトに投稿することもできます。
+ * [openai.mini](https://github.com/llmapp/openai.mini) - OpenAIのAPIとプラグイン対応のChatGPTをオープンソースのLLMや他のモデルと統合する。
+OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連携可能なChatGPTを作成します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -784,6 +774,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
 |[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
+|[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1471,7 +1462,7 @@ LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習�
 |[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
 |[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
-|[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/SupritYoung/Zhongjing?style=social)|Shell|apache-2.0|
+|[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 
 
 ## Unity
@@ -1983,6 +1974,9 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
  * [SQL-GPT](https://github.com/cl-lau/sql-gpt) - ChatGPTを使用してSQLを生成し、実行を行います。SQLの最適化やエラー修正も可能です。
  * [ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind) - 論文XMindノート生成ツールは、論文のPDFをChatGPTを通じて変換し、画像と数式を含む簡潔なXMindノートにすることで、論文の読解効率を向上させます。
  * [TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt) - SpringBoot3で開発されたAIプラットフォーム。デュアルエンド、ウェブサイトおよびミニプログラムを含み、chatgpt、newbing、claudeを含む。デュアルエンドのデータ同期、カスタムプリセットワードのサポート、機能モジュールの定義、さまざまな種類の図形描画、ウェブとモバイルの互換性を持つ。
+ * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - ChatGPTはGitlabと統合され、コードを自動的に監査してコメントします。
+ * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 無料のChatGPT 3.5 / ChatGPT 4
+ * [chatreview](https://github.com/specful-ai/chatreview) - ChatGPTのコードレビューモード
 
 
 |Name|GitHub Stars|Language|License|
@@ -2248,8 +2242,11 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
 |[ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning)|![GitHub Repo stars](https://img.shields.io/github/stars/iongpt/ChatGPT-fine-tuning?style=social)|Python|apache-2.0|
 |[ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/vual/ChatGPT-Next-Web-Pro?style=social)|-|-|
 |[chirp](https://github.com/rogueocelot/chirp)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chirp?style=social)|Ruby|mit|
-|[SQL-GPT](https://github.com/cl-lau/sql-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/CL-lau/SQL-GPT?style=social)|Python|mit|
-|[ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind)|![GitHub Repo stars](https://img.shields.io/github/stars/MasterYip/ChatPaper2Xmind?style=social)|Python|mit|
+|[SQL-GPT](https://github.com/cl-lau/sql-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cl-lau/SQL-GPT?style=social)|Python|mit|
+|[ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind)|![GitHub Repo stars](https://img.shields.io/github/stars/masteryip/ChatPaper2Xmind?style=social)|Python|mit|
 |[TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dulaiduwang003/TIME-SEA-chatgpt?style=social)|Vue|apache-2.0|
+|[Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview)|![GitHub Repo stars](https://img.shields.io/github/stars/nangongchengfeng/Chat-CodeReview?style=social)|Python|-|
+|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Em1tSan/NeuroGPT?style=social)|Python|gpl-3.0|
+|[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
 
 

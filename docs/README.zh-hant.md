@@ -15,34 +15,21 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chat-key](https://github.com/overflowy/chat-key) - 透過 ChatGPT 和 AutoHotkey 增強您的生產力
-
-
 **Chatbots**
- * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 使用Httpx的Python API包裝器, 提供免費的ChatGPT,Claude,Llama,Google-PaLM等!
- * [llama-gpt](https://github.com/getumbrel/llama-gpt) - 網路上與網路上無關的ChatGPT類型的聊天機. 由Llama 2提供動力. 100%私有,沒有任何資料離開您的裝置.
+ * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 我把我的舊旋轉手機變成了基于ChatGPT的家庭助理,
 
 
-**CLIs**
- * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - 提供E2B的人工智能遊樂場. 代碼傳譯器在Steroids為ChatGPT. 執行任何語言,任何終端程序,使用檔案系統自由. 所有的接入網路.
-
-
-**Langchain**
- * [Zhongjing](https://github.com/suprityoung/zhongjing) - 基于LLaMa的中國醫療聊天GPT, 從大規模的預訓練資料庫和多轉對話資料集訓練.
-
-
-**Openai**
- * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - 透過OpenAI和ChatGPT提供可自訂的配方生成器.
+**Browser-extensions**
+ * [openai.mini](https://github.com/llmapp/openai.mini) - 實現開放AI API和插件支持的ChatGPT,
 
 
 **Others**
- * [SQL-GPT](https://github.com/cl-lau/sql-gpt) - 使用ChatGPT生成SQL並執行執行.
- * [ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind) - 文章XMind筆記生成工具,將論文pdf通過ChatGPT轉換為帶有圖片和公式的简要XMind筆記,提高論文閱讀效率.
- * [TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt) - 基于SpringBoot3的Ai平台包含雙端網頁以及小程序, 包含chatgpt新手, 雙端數據同步, 支持自定義預設詞,功能板塊定義,各類繪圖,
+ * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - 沒有任何關於我們的消息.
+ * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 免費聊天GPT 3.5 / 聊天GPT 4
+ * [chatreview](https://github.com/specful-ai/chatreview) - 網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路
 
 
-_Updated on September 01, 2023_ (A total of 1022 repositories listed.)
+_Updated on September 04, 2023_ (A total of 1027 repositories listed.)
 
 ## Table of contents
 
@@ -401,6 +388,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui) - 簡單的Python WebUI，用於微調ChatGPT（gpt-3.5-turbo）。
  * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 一個使用 Httpx 的 Poe.com Python API 封裝程式。使用此封裝程式，您將可以免費使用 ChatGPT、Claude、Llama、Google-PaLM 等等！🚀
  * [llama-gpt](https://github.com/getumbrel/llama-gpt) - 一個自主託管、離線運行的ChatGPT類似聊天機器人。由Llama 2提供動力。100％私密，不會將數據離開您的設備。新增功能：代碼Llama支援！
+ * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 我把我的舊式旋轉電話改造成了一個基於ChatGPT的家庭助手，現在你也可以這樣做。
 
 
 |Name|GitHub Stars|Language|License|
@@ -534,6 +522,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui)|![GitHub Repo stars](https://img.shields.io/github/stars/anchen1011/chatgpt-finetune-ui?style=social)|Python|mit|
 |[poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)|![GitHub Repo stars](https://img.shields.io/github/stars/snowby666/poe-api-wrapper?style=social)|Python|gpl-3.0|
 |[llama-gpt](https://github.com/getumbrel/llama-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=social)|TypeScript|mit|
+|[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -653,6 +642,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [GodMode](https://github.com/smol-ai/godmode) - AI聊天瀏覽器：快速、完整的網頁應用程式，可存取ChatGPT / Claude / Bard / Bing / Llama2！我每天使用這個20次。
  * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - 圖像轉文字（OCR）ChatGPT Chrome 擴展程式
  * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 搜索推薦詞采集與內容生成助手是一款強大的Chrome插件，專為小紅書、抖音、B站、知乎、百度、google用戶設計。它能夠自動收集並顯示這些平台的搜索推薦詞或聯想詞，保存下載為csv文件，幫助您更輕鬆地進行搜索、瀏覽和發現感興趣的內容。同時可以利用chatgpt自動化批量生產與采集內容發布到wordpress站點。
+ * [openai.mini](https://github.com/llmapp/openai.mini) - 實現使用OpenAI API和支援插件的ChatGPT，並使用開源LLM和其他模型。
 
 
 |Name|GitHub Stars|Language|License|
@@ -772,6 +762,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[GodMode](https://github.com/smol-ai/godmode)|![GitHub Repo stars](https://img.shields.io/github/stars/smol-ai/GodMode?style=social)|TypeScript|mit|
 |[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
+|[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1459,7 +1450,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[litellm](https://github.com/berriai/litellm)|![GitHub Repo stars](https://img.shields.io/github/stars/berriai/litellm?style=social)|Python|mit|
 |[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
-|[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/SupritYoung/Zhongjing?style=social)|Shell|apache-2.0|
+|[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 
 
 ## Unity
@@ -1979,6 +1970,9 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [SQL-GPT](https://github.com/cl-lau/sql-gpt) - 使用ChatGPT生成SQL並執行。還可以進行SQL的優化和錯誤修正。
  * [ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind) - 論文XMind筆記生成工具，將論文pdf通過ChatGPT轉換為帶有圖片和公式的簡要XMind筆記，提高論文閱讀效率。
  * [TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt) - 基於SpringBoot3開發的Ai平台 含雙端 網頁以及小程序 包含chatgpt newbing claude , 雙端數據同步 支持自定義預設詞,功能板塊定義,各類繪圖  web兼容手機展示
+ * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - ChatGPT整合了Gitlab，可以自动审计代码并进行评论。
+ * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 免費的ChatGPT 3.5 / ChatGPT 4
+ * [chatreview](https://github.com/specful-ai/chatreview) - ChatGPT 的程式碼審查模式
 
 
 |Name|GitHub Stars|Language|License|
@@ -2244,8 +2238,11 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning)|![GitHub Repo stars](https://img.shields.io/github/stars/iongpt/ChatGPT-fine-tuning?style=social)|Python|apache-2.0|
 |[ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro)|![GitHub Repo stars](https://img.shields.io/github/stars/vual/ChatGPT-Next-Web-Pro?style=social)|-|-|
 |[chirp](https://github.com/rogueocelot/chirp)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chirp?style=social)|Ruby|mit|
-|[SQL-GPT](https://github.com/cl-lau/sql-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/CL-lau/SQL-GPT?style=social)|Python|mit|
-|[ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind)|![GitHub Repo stars](https://img.shields.io/github/stars/MasterYip/ChatPaper2Xmind?style=social)|Python|mit|
+|[SQL-GPT](https://github.com/cl-lau/sql-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/cl-lau/SQL-GPT?style=social)|Python|mit|
+|[ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind)|![GitHub Repo stars](https://img.shields.io/github/stars/masteryip/ChatPaper2Xmind?style=social)|Python|mit|
 |[TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dulaiduwang003/TIME-SEA-chatgpt?style=social)|Vue|apache-2.0|
+|[Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview)|![GitHub Repo stars](https://img.shields.io/github/stars/nangongchengfeng/Chat-CodeReview?style=social)|Python|-|
+|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Em1tSan/NeuroGPT?style=social)|Python|gpl-3.0|
+|[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
 
 

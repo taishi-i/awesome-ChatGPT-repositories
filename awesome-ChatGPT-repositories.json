@@ -4689,6 +4689,26 @@
                     "zh-hans": "一个自托管的、离线的、类似ChatGPT的聊天机器人。由Llama 2提供支持。100%私密，没有数据离开您的设备。新增功能：支持Code Llama！",
                     "zh-hant": "一個自主託管、離線運行的ChatGPT類似聊天機器人。由Llama 2提供動力。100％私密，不會將數據離開您的設備。新增功能：代碼Llama支援！"
                 }
+            },
+            "https://github.com/tcz/rotary-gpt": {
+                "repository_name": "rotary-gpt",
+                "user_name": "tcz",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "I turned my old rotary phone into a ChatGPT-based home assistant and now you can too",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "I turned my old rotary phone into a ChatGPT-based home assistant and now you can too",
+                    "ja": "私は古い回転式電話をChatGPTベースの家庭用アシスタントに変えました。あなたも同じことができます。",
+                    "zh-hans": "我把我的旧转盘电话改装成了一个基于ChatGPT的家庭助手，现在你也可以这样做。",
+                    "zh-hant": "我把我的舊式旋轉電話改造成了一個基於ChatGPT的家庭助手，現在你也可以這樣做。"
+                }
             }
         },
         "Browser-extensions": {
@@ -7109,6 +7129,30 @@
                     "ja": "検索推奨語収集とコンテンツ生成アシスタントは、小紅書、TikTok、Bilibili、知乎、百度、Googleのユーザー向けに設計された強力なChrome拡張機能です。この拡張機能は、これらのプラットフォームの検索推奨語や関連語を自動的に収集し表示し、CSVファイルとして保存してダウンロードすることができます。興味のあるコンテンツを検索、閲覧、発見するのをサポートします。また、chatgptを利用して、自動化された大量のコンテンツを生成し、WordPressサイトに投稿することもできます。",
                     "zh-hans": "搜索推荐词采集与内容生成助手是一款强大的Chrome插件，专为小红书、抖音、B站、知乎、百度、google用户设计。它能够自动收集并显示这些平台的搜索推荐词或联想词，保存下载为csv文件，帮助您更轻松地进行搜索、浏览和发现感兴趣的内容。同时可以利用chatgpt自动化批量生产与采集内容发布到wordpress站点。",
                     "zh-hant": "搜索推薦詞采集與內容生成助手是一款強大的Chrome插件，專為小紅書、抖音、B站、知乎、百度、google用戶設計。它能夠自動收集並顯示這些平台的搜索推薦詞或聯想詞，保存下載為csv文件，幫助您更輕鬆地進行搜索、瀏覽和發現感興趣的內容。同時可以利用chatgpt自動化批量生產與采集內容發布到wordpress站點。"
+                }
+            },
+            "https://github.com/llmapp/openai.mini": {
+                "repository_name": "openai.mini",
+                "user_name": "llmapp",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Implement OpenAI APIs and plugin-enabled ChatGPT with open source LLM and other models.",
+                "topics": [
+                    "llm",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Implement OpenAI APIs and plugin-enabled ChatGPT with open source LLM and other models.",
+                    "ja": "OpenAIのAPIとプラグイン対応のChatGPTをオープンソースのLLMや他のモデルと統合する。\nOpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連携可能なChatGPTを作成します。",
+                    "zh-hans": "实现使用开源LLM和其他模型的OpenAI API和插件可用的ChatGPT。",
+                    "zh-hant": "實現使用OpenAI API和支援插件的ChatGPT，並使用開源LLM和其他模型。"
                 }
             }
         },
@@ -20636,6 +20680,66 @@
                     "ja": "SpringBoot3で開発されたAIプラットフォーム。デュアルエンド、ウェブサイトおよびミニプログラムを含み、chatgpt、newbing、claudeを含む。デュアルエンドのデータ同期、カスタムプリセットワードのサポート、機能モジュールの定義、さまざまな種類の図形描画、ウェブとモバイルの互換性を持つ。",
                     "zh-hans": "基于SpringBoot3开发的Ai平台 含双端 网页以及小程序 包含chatgpt newbing claude , 双端数据同步 支持自定义预设词,功能板块定义,各类绘图  web兼容手机展示",
                     "zh-hant": "基於SpringBoot3開發的Ai平台 含雙端 網頁以及小程序 包含chatgpt newbing claude , 雙端數據同步 支持自定義預設詞,功能板塊定義,各類繪圖  web兼容手機展示"
+                }
+            },
+            "https://github.com/nangongchengfeng/chat-codereview": {
+                "repository_name": "Chat-CodeReview",
+                "user_name": "nangongchengfeng",
+                "language": "Python",
+                "license": null,
+                "description": "ChatGPT集成Gitlab，自动审计代码进行评论",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGPT integrates with Gitlab to automatically audit code and provide comments.",
+                    "ja": "ChatGPTはGitlabと統合され、コードを自動的に監査してコメントします。",
+                    "zh-hans": "ChatGPT集成Gitlab，自动审计代码进行评论",
+                    "zh-hant": "ChatGPT整合了Gitlab，可以自动审计代码并进行评论。"
+                }
+            },
+            "https://github.com/em1tsan/neurogpt": {
+                "repository_name": "NeuroGPT",
+                "user_name": "Em1tSan",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "Бесплатный ChatGPT 3.5 / ChatGPT 4 ",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "free-chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Free ChatGPT 3.5 / ChatGPT 4",
+                    "ja": "無料のChatGPT 3.5 / ChatGPT 4",
+                    "zh-hans": "免费的ChatGPT 3.5 / ChatGPT 4",
+                    "zh-hant": "免費的ChatGPT 3.5 / ChatGPT 4"
+                }
+            },
+            "https://github.com/specful-ai/chatreview": {
+                "repository_name": "chatreview",
+                "user_name": "specful-ai",
+                "language": "JavaScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "Code Review Mode for ChatGPT",
+                "topics": [
+                    "chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code Review Mode for ChatGPT",
+                    "ja": "ChatGPTのコードレビューモード",
+                    "zh-hans": "ChatGPT的代码审查模式",
+                    "zh-hant": "ChatGPT 的程式碼審查模式"
                 }
             }
         }
