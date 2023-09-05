@@ -4709,6 +4709,26 @@
                     "zh-hans": "我把我的旧转盘电话改装成了一个基于ChatGPT的家庭助手，现在你也可以这样做。",
                     "zh-hant": "我把我的舊式旋轉電話改造成了一個基於ChatGPT的家庭助手，現在你也可以這樣做。"
                 }
+            },
+            "https://github.com/moonkraken/rusty_llama": {
+                "repository_name": "rusty_llama",
+                "user_name": "MoonKraken",
+                "language": "Rust",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.",
+                    "ja": "フロントエンドとバックエンドの両方でRustで作られたシンプルなChatGPTクローン。オープンソースの言語モデルとTailwindCSSを使用しています。",
+                    "zh-hans": "一个简单的ChatGPT克隆版本，使用Rust语言编写的前后端。使用开源语言模型和TailwindCSS。",
+                    "zh-hant": "一個簡單的ChatGPT克隆版本，前端和後端都使用Rust語言開發。使用開源語言模型和TailwindCSS。"
+                }
             }
         },
         "Browser-extensions": {
@@ -7153,6 +7173,36 @@
                     "ja": "OpenAIのAPIとプラグイン対応のChatGPTをオープンソースのLLMや他のモデルと統合する。\nOpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連携可能なChatGPTを作成します。",
                     "zh-hans": "实现使用开源LLM和其他模型的OpenAI API和插件可用的ChatGPT。",
                     "zh-hant": "實現使用OpenAI API和支援插件的ChatGPT，並使用開源LLM和其他模型。"
+                }
+            },
+            "https://github.com/openpluginaci/openplugin": {
+                "repository_name": "openplugin",
+                "user_name": "OpenPluginACI",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "client",
+                    "openai",
+                    "openai-api",
+                    "openai-plugin",
+                    "package",
+                    "plugins",
+                    "pypi"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!",
+                    "ja": "API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！",
+                    "zh-hans": "通过API（或客户端）与OpenAI的ChatGPT插件无缝集成，提供与ChatGPT api +插件相同的强大功能！",
+                    "zh-hant": "通過API（或客戶端）與OpenAI的ChatGPT插件無縫集成，提供與ChatGPT api + 插件相同的強大功能！"
                 }
             }
         },
@@ -12435,6 +12485,26 @@
                     "zh-hans": "通过ChatGPT自动翻译Jekyll页面：您只需要一个OpenAI API密钥。",
                     "zh-hant": "使用ChatGPT自動翻譯Jekyll頁面：您只需要一個OpenAI API金鑰。"
                 }
+            },
+            "https://github.com/lewangdev/autotranslate": {
+                "repository_name": "autotranslate",
+                "user_name": "lewangdev",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Videos Transcription and Translation with Faster Whisper and ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Videos Transcription and Translation with Faster Whisper and ChatGPT",
+                    "ja": "ビデオの転写と翻訳を、より速いささやき音声とChatGPTで行います。",
+                    "zh-hans": "视频转录和翻译，更快的耳语和ChatGPT",
+                    "zh-hant": "視頻轉錄和翻譯，使用更快的耳語和ChatGPT。"
+                }
             }
         },
         "Langchain": {
@@ -13685,6 +13755,34 @@
                     "ja": "大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされた、LLaMaベースの中国医学のChatGPT。\n\nLLaMaをベースにした中国医学のChatGPTは、大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされています。",
                     "zh-hans": "一个基于LLaMa的中文医学ChatGPT，通过大规模预训练语料库和多轮对话数据集进行训练。",
                     "zh-hant": "一個基於LLaMa的中醫ChatGPT，使用大規模預訓練語料庫和多輪對話數據集進行訓練。"
+                }
+            },
+            "https://github.com/open-compass/opencompass": {
+                "repository_name": "opencompass",
+                "user_name": "open-compass",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.",
+                "topics": [
+                    "benchmark",
+                    "chatgpt",
+                    "evaluation",
+                    "large-language-model",
+                    "llama2",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.",
+                    "ja": "OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。",
+                    "zh-hans": "OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude等）。",
+                    "zh-hant": "OpenCompass 是一個 LLM 評估平台，支援超過 50 個數據集的多種模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude 等）。"
                 }
             }
         },

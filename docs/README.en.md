@@ -17,20 +17,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [rotary-gpt](https://github.com/tcz/rotary-gpt) - I turned my old rotary phone into a ChatGPT-based home assistant and now you can too
+ * [rusty_llama](https://github.com/moonkraken/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
 
 
 **Browser-extensions**
- * [openai.mini](https://github.com/llmapp/openai.mini) - Implement OpenAI APIs and plugin-enabled ChatGPT with open source LLM and other models.
+ * [openplugin](https://github.com/openpluginaci/openplugin) - Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!
 
 
-**Others**
- * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - Input: ChatGPT integrates with Gitlab to automatically audit code and provide comments.
- * [NeuroGPT](https://github.com/em1tsan/neurogpt) - Free ChatGPT 3.5 / ChatGPT 4
- * [chatreview](https://github.com/specful-ai/chatreview) - Code Review Mode for ChatGPT
+**NLP**
+ * [autotranslate](https://github.com/lewangdev/autotranslate) - Videos Transcription and Translation with Faster Whisper and ChatGPT
 
 
-_Updated on September 04, 2023_ (A total of 1027 repositories listed.)
+**Langchain**
+ * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
+
+
+_Updated on September 06, 2023_ (A total of 1031 repositories listed.)
 
 ## Table of contents
 
@@ -387,6 +389,7 @@ _Updated on September 04, 2023_ (A total of 1027 repositories listed.)
  * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 A Python API wrapper for Poe.com, using Httpx. With this, you will have free access to ChatGPT, Claude, Llama, Google-PaLM and more! 🚀
  * [llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - I turned my old rotary phone into a ChatGPT-based home assistant and now you can too
+ * [rusty_llama](https://github.com/moonkraken/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
 
 
 |Name|GitHub Stars|Language|License|
@@ -521,6 +524,7 @@ _Updated on September 04, 2023_ (A total of 1027 repositories listed.)
 |[poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)|![GitHub Repo stars](https://img.shields.io/github/stars/snowby666/poe-api-wrapper?style=social)|Python|gpl-3.0|
 |[llama-gpt](https://github.com/getumbrel/llama-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=social)|TypeScript|mit|
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
+|[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/MoonKraken/rusty_llama?style=social)|Rust|mit|
 
 
 ## Browser-extensions
@@ -641,6 +645,7 @@ _Updated on September 04, 2023_ (A total of 1027 repositories listed.)
  * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - Image To Text (OCR) Chrome extension for ChatGPT
  * [search-recommendations](https://github.com/niemingxing/search-recommendations) - The Search Recommendation Word Collection and Content Generation Assistant is a powerful Chrome extension designed for users of Xiaohongshu, Douyin, Bilibili, Zhihu, Baidu, and Google. It can automatically collect and display the search recommendation words or associated words from these platforms, save them as CSV files for download, and help you search, browse, and discover interesting content more easily. It can also use ChatGPT to automate the batch production and collection of content for publishing on WordPress sites.
  * [openai.mini](https://github.com/llmapp/openai.mini) - Implement OpenAI APIs and plugin-enabled ChatGPT with open source LLM and other models.
+ * [openplugin](https://github.com/openpluginaci/openplugin) - Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!
 
 
 |Name|GitHub Stars|Language|License|
@@ -761,6 +766,7 @@ _Updated on September 04, 2023_ (A total of 1027 repositories listed.)
 |[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
+|[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenPluginACI/openplugin?style=social)|Python|apache-2.0|
 
 
 ## CLIs
@@ -1164,6 +1170,7 @@ _Updated on September 04, 2023_ (A total of 1027 repositories listed.)
  * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - Generate code and forms with AI for Delphi Object Pascal and C++Builder using LLMs like ChatGPT and Vicuna-13b.
  * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - An AutoHotkey script that uses ChatGPT API to process text.
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - Automated translating of Jekyll pages via ChatGPT: all you need is just an OpenAI API key
+ * [autotranslate](https://github.com/lewangdev/autotranslate) - Videos Transcription and Translation with Faster Whisper and ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -1317,6 +1324,7 @@ _Updated on September 04, 2023_ (A total of 1027 repositories listed.)
 |[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/fmxexpress/CodeDroidAI?style=social)|Pascal|mit|
 |[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
+|[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 
 
 ## Langchain
@@ -1379,6 +1387,7 @@ _Updated on September 04, 2023_ (A total of 1027 repositories listed.)
  * [BayLing](https://github.com/ictnlp/bayling) -  “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
  * [auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
  * [Zhongjing](https://github.com/suprityoung/zhongjing) - A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset.
+ * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1441,6 +1450,7 @@ _Updated on September 04, 2023_ (A total of 1027 repositories listed.)
 |[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
+|[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -2219,7 +2229,7 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
 |[ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind)|![GitHub Repo stars](https://img.shields.io/github/stars/masteryip/ChatPaper2Xmind?style=social)|Python|mit|
 |[TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dulaiduwang003/TIME-SEA-chatgpt?style=social)|Vue|apache-2.0|
 |[Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview)|![GitHub Repo stars](https://img.shields.io/github/stars/nangongchengfeng/Chat-CodeReview?style=social)|Python|-|
-|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Em1tSan/NeuroGPT?style=social)|Python|gpl-3.0|
+|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/em1tsan/NeuroGPT?style=social)|Python|gpl-3.0|
 |[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
 
 

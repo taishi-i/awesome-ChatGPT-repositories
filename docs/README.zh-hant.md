@@ -16,20 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 我把我的舊旋轉手機變成了基于ChatGPT的家庭助理,
+ * [rusty_llama](https://github.com/moonkraken/rusty_llama) - 這是一款在前端和後端的Rust中簡單的ChatGPT克隆.
 
 
 **Browser-extensions**
- * [openai.mini](https://github.com/llmapp/openai.mini) - 實現開放AI API和插件支持的ChatGPT,
+ * [openplugin](https://github.com/openpluginaci/openplugin) - 透過API (或客戶端) 合 OpenAI 的 ChatGPT 插件,
 
 
-**Others**
- * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - 沒有任何關於我們的消息.
- * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 免費聊天GPT 3.5 / 聊天GPT 4
- * [chatreview](https://github.com/specful-ai/chatreview) - 網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路
+**NLP**
+ * [autotranslate](https://github.com/lewangdev/autotranslate) - 影片轉錄與翻譯使用更快的聲和ChatGPT
 
 
-_Updated on September 04, 2023_ (A total of 1027 repositories listed.)
+**Langchain**
+ * [opencompass](https://github.com/open-compass/opencompass) - 支持超過50個數據集的各種模型 (LLaMA,LLaMa2,ChatGLM2,ChatGPT,Claude等).
+
+
+_Updated on September 06, 2023_ (A total of 1031 repositories listed.)
 
 ## Table of contents
 
@@ -389,6 +391,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 一個使用 Httpx 的 Poe.com Python API 封裝程式。使用此封裝程式，您將可以免費使用 ChatGPT、Claude、Llama、Google-PaLM 等等！🚀
  * [llama-gpt](https://github.com/getumbrel/llama-gpt) - 一個自主託管、離線運行的ChatGPT類似聊天機器人。由Llama 2提供動力。100％私密，不會將數據離開您的設備。新增功能：代碼Llama支援！
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 我把我的舊式旋轉電話改造成了一個基於ChatGPT的家庭助手，現在你也可以這樣做。
+ * [rusty_llama](https://github.com/moonkraken/rusty_llama) - 一個簡單的ChatGPT克隆版本，前端和後端都使用Rust語言開發。使用開源語言模型和TailwindCSS。
 
 
 |Name|GitHub Stars|Language|License|
@@ -523,6 +526,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)|![GitHub Repo stars](https://img.shields.io/github/stars/snowby666/poe-api-wrapper?style=social)|Python|gpl-3.0|
 |[llama-gpt](https://github.com/getumbrel/llama-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=social)|TypeScript|mit|
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
+|[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/MoonKraken/rusty_llama?style=social)|Rust|mit|
 
 
 ## Browser-extensions
@@ -643,6 +647,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - 圖像轉文字（OCR）ChatGPT Chrome 擴展程式
  * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 搜索推薦詞采集與內容生成助手是一款強大的Chrome插件，專為小紅書、抖音、B站、知乎、百度、google用戶設計。它能夠自動收集並顯示這些平台的搜索推薦詞或聯想詞，保存下載為csv文件，幫助您更輕鬆地進行搜索、瀏覽和發現感興趣的內容。同時可以利用chatgpt自動化批量生產與采集內容發布到wordpress站點。
  * [openai.mini](https://github.com/llmapp/openai.mini) - 實現使用OpenAI API和支援插件的ChatGPT，並使用開源LLM和其他模型。
+ * [openplugin](https://github.com/openpluginaci/openplugin) - 通過API（或客戶端）與OpenAI的ChatGPT插件無縫集成，提供與ChatGPT api + 插件相同的強大功能！
 
 
 |Name|GitHub Stars|Language|License|
@@ -763,6 +768,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
+|[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenPluginACI/openplugin?style=social)|Python|apache-2.0|
 
 
 ## CLIs
@@ -1173,6 +1179,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - 使用像ChatGPT和Vicuna-13b这样的LLMs，为Delphi Object Pascal和C++Builder生成代碼和表單的人工智能。
  * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - 一個使用ChatGPT API來處理文本的AutoHotkey腳本。
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - 使用ChatGPT自動翻譯Jekyll頁面：您只需要一個OpenAI API金鑰。
+ * [autotranslate](https://github.com/lewangdev/autotranslate) - 視頻轉錄和翻譯，使用更快的耳語和ChatGPT。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1326,6 +1333,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/fmxexpress/CodeDroidAI?style=social)|Pascal|mit|
 |[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
+|[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 
 
 ## Langchain
@@ -1389,6 +1397,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [BayLing](https://github.com/ictnlp/bayling) - “百聆”是一個基於LLaMA的語言對齊增強的英語/中文大語言模型，具有優越的英語/中文能力，在多語言和通用任務等多項測試中取得ChatGPT 90%的性能。BayLing是一個配備先進語言對齊功能的英語/中文LLM，展示出在英語/中文生成、指令遵從和多輪互動方面的優越能力。
  * [auto-news](https://github.com/finaldie/auto-news) - 一個個人新聞聚合器，可以從多個來源中提取信息，並利用LLM（通過LangChain的ChatGPT）幫助我們以更高效的方式閱讀，減少干擾。這些來源包括：推特、RSS、YouTube、網絡文章、Reddit和個人日記筆記。
  * [Zhongjing](https://github.com/suprityoung/zhongjing) - 一個基於LLaMa的中醫ChatGPT，使用大規模預訓練語料庫和多輪對話數據集進行訓練。
+ * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass 是一個 LLM 評估平台，支援超過 50 個數據集的多種模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude 等）。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1451,6 +1460,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
+|[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -2242,7 +2252,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind)|![GitHub Repo stars](https://img.shields.io/github/stars/masteryip/ChatPaper2Xmind?style=social)|Python|mit|
 |[TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dulaiduwang003/TIME-SEA-chatgpt?style=social)|Vue|apache-2.0|
 |[Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview)|![GitHub Repo stars](https://img.shields.io/github/stars/nangongchengfeng/Chat-CodeReview?style=social)|Python|-|
-|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Em1tSan/NeuroGPT?style=social)|Python|gpl-3.0|
+|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/em1tsan/NeuroGPT?style=social)|Python|gpl-3.0|
 |[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
 
 
