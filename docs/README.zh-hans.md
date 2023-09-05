@@ -16,20 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 我把我的旧旋转手机变成了基于ChatGPT的家庭助理,现在你也可以
+ * [rusty_llama](https://github.com/moonkraken/rusty_llama) - 一个简单的ChatGPT克隆在Rust上前端和后端. 使用开源语言模型和 TailwindCSS.
 
 
 **Browser-extensions**
- * [openai.mini](https://github.com/llmapp/openai.mini) - 实现开放AI API 和插件支持的ChatGPT,使用开源LLM和其他模型.
+ * [openplugin](https://github.com/openpluginaci/openplugin) - 通过API (或客户端) 无地与OpenAI的ChatGPT插件集成,提供与ChatGPT api+插件相同的功能!
 
 
-**Others**
- * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - 通过Gitlab,自动审计代码进行评论
- * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 免费聊天GPT 3.5 / 聊天GPT 4
- * [chatreview](https://github.com/specful-ai/chatreview) - 对于ChatGPT的代码检查模式
+**NLP**
+ * [autotranslate](https://github.com/lewangdev/autotranslate) - 视频转录和翻译使用更快的语和ChatGPT
 
 
-_Updated on September 04, 2023_ (A total of 1027 repositories listed.)
+**Langchain**
+ * [opencompass](https://github.com/open-compass/opencompass) - 开放式电路盘是一个LLM评估平台,支持50多个数据集的各种模型 (LLaMA,LLaMa2,ChatGLM2,ChatGPT,Claude等).
+
+
+_Updated on September 06, 2023_ (A total of 1031 repositories listed.)
 
 ## Table of contents
 
@@ -389,6 +391,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 一个使用Httpx的Poe.com的Python API封装器。通过使用它，您将可以免费访问ChatGPT、Claude、Llama、Google-PaLM等等！🚀
  * [llama-gpt](https://github.com/getumbrel/llama-gpt) - 一个自托管的、离线的、类似ChatGPT的聊天机器人。由Llama 2提供支持。100%私密，没有数据离开您的设备。新增功能：支持Code Llama！
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 我把我的旧转盘电话改装成了一个基于ChatGPT的家庭助手，现在你也可以这样做。
+ * [rusty_llama](https://github.com/moonkraken/rusty_llama) - 一个简单的ChatGPT克隆版本，使用Rust语言编写的前后端。使用开源语言模型和TailwindCSS。
 
 
 |Name|GitHub Stars|Language|License|
@@ -523,6 +526,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)|![GitHub Repo stars](https://img.shields.io/github/stars/snowby666/poe-api-wrapper?style=social)|Python|gpl-3.0|
 |[llama-gpt](https://github.com/getumbrel/llama-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=social)|TypeScript|mit|
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
+|[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/MoonKraken/rusty_llama?style=social)|Rust|mit|
 
 
 ## Browser-extensions
@@ -646,6 +650,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - 图像转文本（OCR）ChatGPT Chrome扩展程序
  * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 搜索推荐词采集与内容生成助手是一款强大的Chrome插件，专为小红书、抖音、B站、知乎、百度、google用户设计。它能够自动收集并显示这些平台的搜索推荐词或联想词，保存下载为csv文件，帮助您更轻松地进行搜索、浏览和发现感兴趣的内容。同时可以利用chatgpt自动化批量生产与采集内容发布到wordpress站点。
  * [openai.mini](https://github.com/llmapp/openai.mini) - 实现使用开源LLM和其他模型的OpenAI API和插件可用的ChatGPT。
+ * [openplugin](https://github.com/openpluginaci/openplugin) - 通过API（或客户端）与OpenAI的ChatGPT插件无缝集成，提供与ChatGPT api +插件相同的强大功能！
 
 
 |Name|GitHub Stars|Language|License|
@@ -766,6 +771,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
+|[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenPluginACI/openplugin?style=social)|Python|apache-2.0|
 
 
 ## CLIs
@@ -1172,6 +1178,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - 使用像ChatGPT和Vicuna-13b这样的LLMs，为Delphi Object Pascal和C++Builder生成代码和表单。
  * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - 一个使用ChatGPT API处理文本的AutoHotkey脚本。
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - 通过ChatGPT自动翻译Jekyll页面：您只需要一个OpenAI API密钥。
+ * [autotranslate](https://github.com/lewangdev/autotranslate) - 视频转录和翻译，更快的耳语和ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -1325,6 +1332,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/fmxexpress/CodeDroidAI?style=social)|Pascal|mit|
 |[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
+|[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 
 
 ## Langchain
@@ -1387,6 +1395,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [BayLing](https://github.com/ictnlp/bayling) - “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing是一个配备先进语言对齐功能的英语/中文LLM，展现出在英语/中文生成、指令遵循和多轮互动方面的卓越能力。
  * [auto-news](https://github.com/finaldie/auto-news) - 一个个人新闻聚合器，可以从多个来源获取信息+LLM（通过LangChain的ChatGPT）帮助我们以更高效的方式阅读，减少干扰。这些来源包括：推特、RSS、YouTube、网页文章、Reddit和个人日记笔记。
  * [Zhongjing](https://github.com/suprityoung/zhongjing) - 一个基于LLaMa的中文医学ChatGPT，通过大规模预训练语料库和多轮对话数据集进行训练。
+ * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude等）。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1449,6 +1458,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
+|[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -2236,7 +2246,7 @@ chatgpt商业应用！79E/ChatGpt-Web 的1.3.9最新！本人破解，无需授�
 |[ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind)|![GitHub Repo stars](https://img.shields.io/github/stars/masteryip/ChatPaper2Xmind?style=social)|Python|mit|
 |[TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dulaiduwang003/TIME-SEA-chatgpt?style=social)|Vue|apache-2.0|
 |[Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview)|![GitHub Repo stars](https://img.shields.io/github/stars/nangongchengfeng/Chat-CodeReview?style=social)|Python|-|
-|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Em1tSan/NeuroGPT?style=social)|Python|gpl-3.0|
+|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/em1tsan/NeuroGPT?style=social)|Python|gpl-3.0|
 |[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
 
 

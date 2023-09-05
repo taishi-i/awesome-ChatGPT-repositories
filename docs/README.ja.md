@@ -16,21 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 私は古い回転式電話をChatGPTベースの家庭用アシスタントに変えました。あなたも同じことができます。
+ * [rusty_llama](https://github.com/moonkraken/rusty_llama) - フロントエンドとバックエンドの両方でRustで作られたシンプルなChatGPTクローン。オープンソースの言語モデルとTailwindCSSを使用しています。
 
 
 **Browser-extensions**
- * [openai.mini](https://github.com/llmapp/openai.mini) - OpenAIのAPIとプラグイン対応のChatGPTをオープンソースのLLMや他のモデルと統合する。
-OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連携可能なChatGPTを作成します。
+ * [openplugin](https://github.com/openpluginaci/openplugin) - API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
 
 
-**Others**
- * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - ChatGPTはGitlabと統合され、コードを自動的に監査してコメントします。
- * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 無料のChatGPT 3.5 / ChatGPT 4
- * [chatreview](https://github.com/specful-ai/chatreview) - ChatGPTのコードレビューモード
+**NLP**
+ * [autotranslate](https://github.com/lewangdev/autotranslate) - ビデオの転写と翻訳を、より速いささやき音声とChatGPTで行います。
 
 
-_Updated on September 04, 2023_ (A total of 1027 repositories listed.)
+**Langchain**
+ * [opencompass](https://github.com/open-compass/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
+
+
+_Updated on September 06, 2023_ (A total of 1031 repositories listed.)
 
 ## Table of contents
 
@@ -400,6 +401,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - 👾 Httpxを使用したPoe.comのPython APIラッパー。これにより、ChatGPT、Claude、Llama、Google-PaLMなどに無料でアクセスできます！🚀
  * [llama-gpt](https://github.com/getumbrel/llama-gpt) - 自己ホスト型のオフラインのChatGPTのようなチャットボットです。Llama 2で動作します。データは一切デバイスから出ませんので、100%プライベートです。新機能：Code Llamaのサポートも追加されました！
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 私は古い回転式電話をChatGPTベースの家庭用アシスタントに変えました。あなたも同じことができます。
+ * [rusty_llama](https://github.com/moonkraken/rusty_llama) - フロントエンドとバックエンドの両方でRustで作られたシンプルなChatGPTクローン。オープンソースの言語モデルとTailwindCSSを使用しています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -534,6 +536,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)|![GitHub Repo stars](https://img.shields.io/github/stars/snowby666/poe-api-wrapper?style=social)|Python|gpl-3.0|
 |[llama-gpt](https://github.com/getumbrel/llama-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=social)|TypeScript|mit|
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
+|[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/MoonKraken/rusty_llama?style=social)|Rust|mit|
 
 
 ## Browser-extensions
@@ -655,6 +658,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 検索推奨語収集とコンテンツ生成アシスタントは、小紅書、TikTok、Bilibili、知乎、百度、Googleのユーザー向けに設計された強力なChrome拡張機能です。この拡張機能は、これらのプラットフォームの検索推奨語や関連語を自動的に収集し表示し、CSVファイルとして保存してダウンロードすることができます。興味のあるコンテンツを検索、閲覧、発見するのをサポートします。また、chatgptを利用して、自動化された大量のコンテンツを生成し、WordPressサイトに投稿することもできます。
  * [openai.mini](https://github.com/llmapp/openai.mini) - OpenAIのAPIとプラグイン対応のChatGPTをオープンソースのLLMや他のモデルと統合する。
 OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連携可能なChatGPTを作成します。
+ * [openplugin](https://github.com/openpluginaci/openplugin) - API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
 
 
 |Name|GitHub Stars|Language|License|
@@ -775,6 +779,7 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
 |[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
+|[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenPluginACI/openplugin?style=social)|Python|apache-2.0|
 
 
 ## CLIs
@@ -1184,6 +1189,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - ChatGPTやVicuna-13bのようなLLMを使用して、Delphi Object PascalとC++BuilderのためのコードとフォームをAIで生成します。
  * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - テキストを処理するためにChatGPT APIを使用するAutoHotkeyスクリプト。
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - ChatGPTを使用したJekyllページの自動翻訳：必要なのはOpenAI APIキーだけです。
+ * [autotranslate](https://github.com/lewangdev/autotranslate) - ビデオの転写と翻訳を、より速いささやき音声とChatGPTで行います。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1337,6 +1343,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[CodeDroidAI](https://github.com/fmxexpress/codedroidai)|![GitHub Repo stars](https://img.shields.io/github/stars/fmxexpress/CodeDroidAI?style=social)|Pascal|mit|
 |[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
+|[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 
 
 ## Langchain
@@ -1401,6 +1408,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [Zhongjing](https://github.com/suprityoung/zhongjing) - 大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされた、LLaMaベースの中国医学のChatGPT。
 
 LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされています。
+ * [opencompass](https://github.com/open-compass/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1463,6 +1471,7 @@ LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習�
 |[BayLing](https://github.com/ictnlp/bayling)|![GitHub Repo stars](https://img.shields.io/github/stars/ictnlp/BayLing?style=social)|Python|gpl-3.0|
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
+|[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
 
 
 ## Unity
@@ -2246,7 +2255,7 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
 |[ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind)|![GitHub Repo stars](https://img.shields.io/github/stars/masteryip/ChatPaper2Xmind?style=social)|Python|mit|
 |[TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/dulaiduwang003/TIME-SEA-chatgpt?style=social)|Vue|apache-2.0|
 |[Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview)|![GitHub Repo stars](https://img.shields.io/github/stars/nangongchengfeng/Chat-CodeReview?style=social)|Python|-|
-|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/Em1tSan/NeuroGPT?style=social)|Python|gpl-3.0|
+|[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/em1tsan/NeuroGPT?style=social)|Python|gpl-3.0|
 |[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
 
 
