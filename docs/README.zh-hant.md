@@ -16,22 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [rusty_llama](https://github.com/moonkraken/rusty_llama) - 這是一款在前端和後端的Rust中簡單的ChatGPT克隆.
+ * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - 提供Python代碼傳譯器和其他多功能,
 
 
 **Browser-extensions**
- * [openplugin](https://github.com/openpluginaci/openplugin) - 透過API (或客戶端) 合 OpenAI 的 ChatGPT 插件,
+ * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - 包含AIPRM的Windows中ChatGPT (對於無法在firefox上安裝的人來說)
 
 
-**NLP**
- * [autotranslate](https://github.com/lewangdev/autotranslate) - 影片轉錄與翻譯使用更快的聲和ChatGPT
+**Openai**
+ * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - 透過OpenAI ChatGPT生成Python文件串!!
 
 
-**Langchain**
- * [opencompass](https://github.com/open-compass/opencompass) - 支持超過50個數據集的各種模型 (LLaMA,LLaMa2,ChatGLM2,ChatGPT,Claude等).
+**Others**
+ * [pandora](https://github.com/dave1010/pandora) - 潘多拉讓ChatGPT能夠在您的機器上閱讀和寫檔案並執行命令.
 
 
-_Updated on September 06, 2023_ (A total of 1031 repositories listed.)
+_Updated on September 08, 2023_ (A total of 1035 repositories listed.)
 
 ## Table of contents
 
@@ -392,6 +392,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [llama-gpt](https://github.com/getumbrel/llama-gpt) - 一個自主託管、離線運行的ChatGPT類似聊天機器人。由Llama 2提供動力。100％私密，不會將數據離開您的設備。新增功能：代碼Llama支援！
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 我把我的舊式旋轉電話改造成了一個基於ChatGPT的家庭助手，現在你也可以這樣做。
  * [rusty_llama](https://github.com/moonkraken/rusty_llama) - 一個簡單的ChatGPT克隆版本，前端和後端都使用Rust語言開發。使用開源語言模型和TailwindCSS。
+ * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - 終極且免費的OpenAI提供者，使用Python代碼解釋器和其他多個功能實現，由ChatGPT和GPT-4提供動力！
 
 
 |Name|GitHub Stars|Language|License|
@@ -526,7 +527,8 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)|![GitHub Repo stars](https://img.shields.io/github/stars/snowby666/poe-api-wrapper?style=social)|Python|gpl-3.0|
 |[llama-gpt](https://github.com/getumbrel/llama-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=social)|TypeScript|mit|
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
-|[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/MoonKraken/rusty_llama?style=social)|Rust|mit|
+|[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/moonkraken/rusty_llama?style=social)|Rust|mit|
+|[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
 
 
 ## Browser-extensions
@@ -648,6 +650,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 搜索推薦詞采集與內容生成助手是一款強大的Chrome插件，專為小紅書、抖音、B站、知乎、百度、google用戶設計。它能夠自動收集並顯示這些平台的搜索推薦詞或聯想詞，保存下載為csv文件，幫助您更輕鬆地進行搜索、瀏覽和發現感興趣的內容。同時可以利用chatgpt自動化批量生產與采集內容發布到wordpress站點。
  * [openai.mini](https://github.com/llmapp/openai.mini) - 實現使用OpenAI API和支援插件的ChatGPT，並使用開源LLM和其他模型。
  * [openplugin](https://github.com/openpluginaci/openplugin) - 通過API（或客戶端）與OpenAI的ChatGPT插件無縫集成，提供與ChatGPT api + 插件相同的強大功能！
+ * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - 在 Windows 上的 ChatGPT 中包含 AIPRM（供無法在 Firefox 上安裝的人使用）
 
 
 |Name|GitHub Stars|Language|License|
@@ -768,7 +771,8 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
-|[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenPluginACI/openplugin?style=social)|Python|apache-2.0|
+|[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
+|[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/Inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
 
 
 ## CLIs
@@ -1595,6 +1599,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
  * [aks-openai](https://github.com/azure-samples/aks-openai) - 使用Azure Cosmos示例来利用图形API帐户的批量功能
  * [function-gpt](https://github.com/atinylittleshell/function-gpt) - 這是一個 TypeScript 函式庫，可協助處理使用 OpenAI 的 ChatGPT API 進行函式呼叫。
  * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - 可定制的食谱生成器，由OpenAI和ChatGPT驱动。使用Next.Js、Tailwind CSS、Radix UI、Supabase Clerk构建。
+ * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - 使用OpenAI ChatGPT生成Python文檔字符串！！
 
 
 |Name|GitHub Stars|Language|License|
@@ -1701,6 +1706,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai?style=social)|Java|mit|
 |[function-gpt](https://github.com/atinylittleshell/function-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atinylittleshell/function-gpt?style=social)|TypeScript|mit|
 |[chef-gpt](https://github.com/giacomogaglione/chef-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/giacomogaglione/chef-gpt?style=social)|TypeScript|mit|
+|[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/MichaelisTrofficus/gpt4docstrings?style=social)|Python|mit|
 
 
 ## Others
@@ -1983,6 +1989,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - ChatGPT整合了Gitlab，可以自动审计代码并进行评论。
  * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 免費的ChatGPT 3.5 / ChatGPT 4
  * [chatreview](https://github.com/specful-ai/chatreview) - ChatGPT 的程式碼審查模式
+ * [pandora](https://github.com/dave1010/pandora) - ChatGPT編碼解鎖！Pandora讓ChatGPT能夠讀寫文件並在您的機器上運行命令。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2254,5 +2261,6 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview)|![GitHub Repo stars](https://img.shields.io/github/stars/nangongchengfeng/Chat-CodeReview?style=social)|Python|-|
 |[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/em1tsan/NeuroGPT?style=social)|Python|gpl-3.0|
 |[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
+|[pandora](https://github.com/dave1010/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/pandora?style=social)|PHP|mit|
 
 
