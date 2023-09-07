@@ -4729,6 +4729,34 @@
                     "zh-hans": "一个简单的ChatGPT克隆版本，使用Rust语言编写的前后端。使用开源语言模型和TailwindCSS。",
                     "zh-hant": "一個簡單的ChatGPT克隆版本，前端和後端都使用Rust語言開發。使用開源語言模型和TailwindCSS。"
                 }
+            },
+            "https://github.com/boyueluzhipeng/gpt_codeinterpreter": {
+                "repository_name": "GPT_CodeInterpreter",
+                "user_name": "boyueluzhipeng",
+                "language": "Python",
+                "license": null,
+                "description": "Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!",
+                "topics": [
+                    "chainlit",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-bot",
+                    "chatgpt-plugins",
+                    "codeinterpreter",
+                    "gpt-35-turbo",
+                    "gpt4",
+                    "langchain",
+                    "openai",
+                    "openai-api",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!",
+                    "ja": "Pythonコードインタプリタと他の複数の機能を備えた究極で無料のOpenAIプロバイダー、ChatGPTとGPT-4によってパワーアップされました！",
+                    "zh-hans": "终极免费的OpenAI提供者，采用Python代码解释器和其他多种功能，由ChatGPT和GPT-4驱动！",
+                    "zh-hant": "終極且免費的OpenAI提供者，使用Python代碼解釋器和其他多個功能實現，由ChatGPT和GPT-4提供動力！"
+                }
             }
         },
         "Browser-extensions": {
@@ -7203,6 +7231,25 @@
                     "ja": "API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！",
                     "zh-hans": "通过API（或客户端）与OpenAI的ChatGPT插件无缝集成，提供与ChatGPT api +插件相同的强大功能！",
                     "zh-hant": "通過API（或客戶端）與OpenAI的ChatGPT插件無縫集成，提供與ChatGPT api + 插件相同的強大功能！"
+                }
+            },
+            "https://github.com/inplex-sys/chatgpt-desktop": {
+                "repository_name": "chatgpt-desktop",
+                "user_name": "Inplex-sys",
+                "language": "JavaScript",
+                "license": null,
+                "description": "ChatGPT in windows including AIPRM in it ( for people who can't install it on firefox )",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "chatgpt-desktop",
+                    "electron"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT in windows including AIPRM in it ( for people who can't install it on firefox )",
+                    "ja": "AIPRMを含むWindowsのChatGPT（Firefoxにインストールできない人向け）",
+                    "zh-hans": "在Windows上使用ChatGPT，包括其中的AIPRM（适用于无法在Firefox上安装的用户）",
+                    "zh-hant": "在 Windows 上的 ChatGPT 中包含 AIPRM（供無法在 Firefox 上安裝的人使用）"
                 }
             }
         },
@@ -15976,6 +16023,33 @@
                     "zh-hans": "可定制的食谱生成器，由OpenAI和ChatGPT驱动。使用Next.Js、Tailwind CSS、Radix UI、Supabase Clerk构建。",
                     "zh-hant": "可定制的食谱生成器，由OpenAI和ChatGPT驱动。使用Next.Js、Tailwind CSS、Radix UI、Supabase Clerk构建。"
                 }
+            },
+            "https://github.com/michaelistrofficus/gpt4docstrings": {
+                "repository_name": "gpt4docstrings",
+                "user_name": "MichaelisTrofficus",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Generating Python docstrings with OpenAI ChatGPT!!",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "code-quality",
+                    "docstrings",
+                    "precommit-hooks",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Generating Python docstrings with OpenAI ChatGPT!!",
+                    "ja": "OpenAI ChatGPTを使用してPythonのドックストリングを生成する！",
+                    "zh-hans": "使用OpenAI ChatGPT生成Python文档字符串！！",
+                    "zh-hant": "使用OpenAI ChatGPT生成Python文檔字符串！！"
+                }
             }
         },
         "Others": {
@@ -20838,6 +20912,29 @@
                     "ja": "ChatGPTのコードレビューモード",
                     "zh-hans": "ChatGPT的代码审查模式",
                     "zh-hant": "ChatGPT 的程式碼審查模式"
+                }
+            },
+            "https://github.com/dave1010/pandora": {
+                "repository_name": "pandora",
+                "user_name": "dave1010",
+                "language": "PHP",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT Coding Unleashed! Pandora gives ChatGPT the ability to read and write files and run commands on your machine.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Coding Unleashed! Pandora gives ChatGPT the ability to read and write files and run commands on your machine.",
+                    "ja": "ChatGPTコーディング解放！PandoraはChatGPTにマシン上でファイルの読み書きやコマンドの実行の能力を与えます。",
+                    "zh-hans": "ChatGPT编码解锁！Pandora赋予ChatGPT读写文件和在您的计算机上运行命令的能力。",
+                    "zh-hant": "ChatGPT編碼解鎖！Pandora讓ChatGPT能夠讀寫文件並在您的機器上運行命令。"
                 }
             }
         }

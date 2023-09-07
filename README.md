@@ -17,22 +17,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [rusty_llama](https://github.com/moonkraken/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
+ * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!
 
 
 **Browser-extensions**
- * [openplugin](https://github.com/openpluginaci/openplugin) - Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!
+ * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - ChatGPT in windows including AIPRM in it ( for people who can't install it on firefox )
 
 
-**NLP**
- * [autotranslate](https://github.com/lewangdev/autotranslate) - Videos Transcription and Translation with Faster Whisper and ChatGPT
+**Openai**
+ * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - Generating Python docstrings with OpenAI ChatGPT!!
 
 
-**Langchain**
- * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
+**Others**
+ * [pandora](https://github.com/dave1010/pandora) - ChatGPT Coding Unleashed! Pandora gives ChatGPT the ability to read and write files and run commands on your machine.
 
 
-_Updated on September 06, 2023_ (A total of 1031 repositories listed.)
+_Updated on September 08, 2023_ (A total of 1035 repositories listed.)
 
 ## Table of contents
 
@@ -390,6 +390,7 @@ _Updated on September 06, 2023_ (A total of 1031 repositories listed.)
  * [llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - I turned my old rotary phone into a ChatGPT-based home assistant and now you can too
  * [rusty_llama](https://github.com/moonkraken/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
+ * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!
 
 
 |Name|GitHub Stars|Language|License|
@@ -524,7 +525,8 @@ _Updated on September 06, 2023_ (A total of 1031 repositories listed.)
 |[poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper)|![GitHub Repo stars](https://img.shields.io/github/stars/snowby666/poe-api-wrapper?style=social)|Python|gpl-3.0|
 |[llama-gpt](https://github.com/getumbrel/llama-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=social)|TypeScript|mit|
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
-|[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/MoonKraken/rusty_llama?style=social)|Rust|mit|
+|[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/moonkraken/rusty_llama?style=social)|Rust|mit|
+|[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
 
 
 ## Browser-extensions
@@ -646,6 +648,7 @@ _Updated on September 06, 2023_ (A total of 1031 repositories listed.)
  * [search-recommendations](https://github.com/niemingxing/search-recommendations) - 搜索推荐词采集与内容生成助手是一款强大的Chrome插件，专为小红书、抖音、B站、知乎、百度、google用户设计。它能够自动收集并显示这些平台的搜索推荐词或联想词，保存下载为csv文件，帮助您更轻松地进行搜索、浏览和发现感兴趣的内容。同时可以利用chatgpt自动化批量生产与采集内容发布到wordpress站点。
  * [openai.mini](https://github.com/llmapp/openai.mini) - Implement OpenAI APIs and plugin-enabled ChatGPT with open source LLM and other models.
  * [openplugin](https://github.com/openpluginaci/openplugin) - Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!
+ * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - ChatGPT in windows including AIPRM in it ( for people who can't install it on firefox )
 
 
 |Name|GitHub Stars|Language|License|
@@ -766,7 +769,8 @@ _Updated on September 06, 2023_ (A total of 1031 repositories listed.)
 |[Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tshetrim/Image-To-Text-OCR-extension-for-ChatGPT?style=social)|JavaScript|mit|
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
-|[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenPluginACI/openplugin?style=social)|Python|apache-2.0|
+|[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
+|[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/Inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
 
 
 ## CLIs
@@ -1581,6 +1585,7 @@ _Updated on September 06, 2023_ (A total of 1031 repositories listed.)
  * [aks-openai](https://github.com/azure-samples/aks-openai) - Azure Cosmos samples to leverage Bulk capabilities for Graph API accounts
  * [function-gpt](https://github.com/atinylittleshell/function-gpt) - This is a typescript library that helps handle function calling with OpenAI's ChatGPT API.
  * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - Customizable recipe generator powered by OpenAI and ChatGPT. Built with Next.Js Tailwind CSS Radix UI Supabase Clerk.
+ * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - Generating Python docstrings with OpenAI ChatGPT!!
 
 
 |Name|GitHub Stars|Language|License|
@@ -1687,6 +1692,7 @@ _Updated on September 06, 2023_ (A total of 1031 repositories listed.)
 |[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai?style=social)|Java|mit|
 |[function-gpt](https://github.com/atinylittleshell/function-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atinylittleshell/function-gpt?style=social)|TypeScript|mit|
 |[chef-gpt](https://github.com/giacomogaglione/chef-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/giacomogaglione/chef-gpt?style=social)|TypeScript|mit|
+|[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/MichaelisTrofficus/gpt4docstrings?style=social)|Python|mit|
 
 
 ## Others
@@ -1958,6 +1964,7 @@ _Updated on September 06, 2023_ (A total of 1031 repositories listed.)
  * [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - ChatGPT集成Gitlab，自动审计代码进行评论
  * [NeuroGPT](https://github.com/em1tsan/neurogpt) - Бесплатный ChatGPT 3.5 / ChatGPT 4
  * [chatreview](https://github.com/specful-ai/chatreview) - Code Review Mode for ChatGPT
+ * [pandora](https://github.com/dave1010/pandora) - ChatGPT Coding Unleashed! Pandora gives ChatGPT the ability to read and write files and run commands on your machine.
 
 
 |Name|GitHub Stars|Language|License|
@@ -2229,5 +2236,6 @@ _Updated on September 06, 2023_ (A total of 1031 repositories listed.)
 |[Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview)|![GitHub Repo stars](https://img.shields.io/github/stars/nangongchengfeng/Chat-CodeReview?style=social)|Python|-|
 |[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/em1tsan/NeuroGPT?style=social)|Python|gpl-3.0|
 |[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
+|[pandora](https://github.com/dave1010/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/pandora?style=social)|PHP|mit|
 
 
