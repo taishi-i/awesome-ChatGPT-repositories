@@ -15,23 +15,29 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Pythonコードインタプリタと他の複数の機能を備えた究極で無料のOpenAIプロバイダー、ChatGPTとGPT-4によってパワーアップされました！
+**CLIs**
+ * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - オープンソースで拡張可能（関数呼び出し可能）、高性能なチャットボットフレームワークです。プライベートなChatGPT/LLMウェブアプリケーションのワンクリック無料デプロイをサポートしています。
 
 
-**Browser-extensions**
- * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - AIPRMを含むWindowsのChatGPT（Firefoxにインストールできない人向け）
+**NLP**
+ * [nextlint](https://github.com/sveltor/nextlint) - Svelte + tiptapで構築された、Notionのようなリッチテキストエディタ。ChatGPTを使用して、執筆体験を向上させます。
+
+
+**Langchain**
+ * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - GradioとLangchainを使用した、次のChatGPTアプリのための簡単にハッキングできるテンプレート。
 
 
 **Openai**
- * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - OpenAI ChatGPTを使用してPythonのドックストリングを生成する！
+ * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - チャットGPTのためのパワーツール
 
 
 **Others**
- * [pandora](https://github.com/dave1010/pandora) - ChatGPTコーディング解放！PandoraはChatGPTにマシン上でファイルの読み書きやコマンドの実行の能力を与えます。
+ * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - ChatGPTを統合したFeishuアプリ
+ * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - chatgpt-on-wechatのmj画像プラグイン、回数制限対応、GPTキーワードの磨き、画像合成、画像生成
+ * [humanify](https://github.com/jehna/humanify) - ChatGPTを使用して、JavaScriptコードを非圧縮化します。
 
 
-_Updated on September 08, 2023_ (A total of 1035 repositories listed.)
+_Updated on September 11, 2023_ (A total of 1042 repositories listed.)
 
 ## Table of contents
 
@@ -783,7 +789,7 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
 |[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
-|[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/Inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
+|[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
 
 
 ## CLIs
@@ -876,6 +882,7 @@ ChatGPT Webのワンクリックデプロイメント
  * [minion](https://github.com/mikaelvesavuori/minion) - 開発者がCLIでChatGPTを使用するための最も簡単で軽量な方法。
  * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - ターミナルエミュレータを使用して、GNOME Filesで開いているディレクトリにcdしてください。
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - AI Playgrounds by E2Bによって提供されています。ChatGPT用のステロイドコードインタープリター。どんな言語でも、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
+ * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - オープンソースで拡張可能（関数呼び出し可能）、高性能なチャットボットフレームワークです。プライベートなChatGPT/LLMウェブアプリケーションのワンクリック無料デプロイをサポートしています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -966,6 +973,7 @@ ChatGPT Webのワンクリックデプロイメント
 |[minion](https://github.com/mikaelvesavuori/minion)|![GitHub Repo stars](https://img.shields.io/github/stars/mikaelvesavuori/minion?style=social)|Shell|mit|
 |[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
+|[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
 
 
 ## Reimplementations
@@ -1194,6 +1202,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - テキストを処理するためにChatGPT APIを使用するAutoHotkeyスクリプト。
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - ChatGPTを使用したJekyllページの自動翻訳：必要なのはOpenAI APIキーだけです。
  * [autotranslate](https://github.com/lewangdev/autotranslate) - ビデオの転写と翻訳を、より速いささやき音声とChatGPTで行います。
+ * [nextlint](https://github.com/sveltor/nextlint) - Svelte + tiptapで構築された、Notionのようなリッチテキストエディタ。ChatGPTを使用して、執筆体験を向上させます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1348,6 +1357,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
+|[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
 
 
 ## Langchain
@@ -1413,6 +1423,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 
 LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされています。
  * [opencompass](https://github.com/open-compass/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
+ * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - GradioとLangchainを使用した、次のChatGPTアプリのための簡単にハッキングできるテンプレート。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1476,6 +1487,7 @@ LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習�
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
+|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/FrancescoSaverioZuppichini/gradioGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -1609,6 +1621,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [function-gpt](https://github.com/atinylittleshell/function-gpt) - これは、OpenAIのChatGPT APIを使用して関数呼び出しを処理するのに役立つTypeScriptライブラリです。
  * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - オープンAIとChatGPTによって動作するカスタマイズ可能なレシピジェネレーター。Next.Js、Tailwind CSS、Radix UI、Supabase Clerkで構築されています。
  * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - OpenAI ChatGPTを使用してPythonのドックストリングを生成する！
+ * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - チャットGPTのためのパワーツール
 
 
 |Name|GitHub Stars|Language|License|
@@ -1715,7 +1728,8 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai?style=social)|Java|mit|
 |[function-gpt](https://github.com/atinylittleshell/function-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atinylittleshell/function-gpt?style=social)|TypeScript|mit|
 |[chef-gpt](https://github.com/giacomogaglione/chef-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/giacomogaglione/chef-gpt?style=social)|TypeScript|mit|
-|[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/MichaelisTrofficus/gpt4docstrings?style=social)|Python|mit|
+|[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/michaelistrofficus/gpt4docstrings?style=social)|Python|mit|
+|[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 
 
 ## Others
@@ -1993,6 +2007,9 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
  * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 無料のChatGPT 3.5 / ChatGPT 4
  * [chatreview](https://github.com/specful-ai/chatreview) - ChatGPTのコードレビューモード
  * [pandora](https://github.com/dave1010/pandora) - ChatGPTコーディング解放！PandoraはChatGPTにマシン上でファイルの読み書きやコマンドの実行の能力を与えます。
+ * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - ChatGPTを統合したFeishuアプリ
+ * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - chatgpt-on-wechatのmj画像プラグイン、回数制限対応、GPTキーワードの磨き、画像合成、画像生成
+ * [humanify](https://github.com/jehna/humanify) - ChatGPTを使用して、JavaScriptコードを非圧縮化します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2265,5 +2282,8 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
 |[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/em1tsan/NeuroGPT?style=social)|Python|gpl-3.0|
 |[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
 |[pandora](https://github.com/dave1010/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/pandora?style=social)|PHP|mit|
+|[feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/1130600015/feishu-chatgpt?style=social)|Java|-|
+|[midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo)|![GitHub Repo stars](https://img.shields.io/github/stars/chazzjimel/midjourney_turbo?style=social)|Python|-|
+|[humanify](https://github.com/jehna/humanify)|![GitHub Repo stars](https://img.shields.io/github/stars/jehna/humanify?style=social)|TypeScript|mit|
 
 

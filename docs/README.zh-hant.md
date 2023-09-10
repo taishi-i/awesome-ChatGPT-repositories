@@ -15,23 +15,29 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - 提供Python代碼傳譯器和其他多功能,
+**CLIs**
+ * [lobe-chat](https://github.com/lobehub/lobe-chat) - Lobe Chat - 公開源代碼,可擴展 (功能呼叫),高性能聊天機架構. 它支持一點點的免費部署您的私人ChatGPT/LLM網頁應用程式.
 
 
-**Browser-extensions**
- * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - 包含AIPRM的Windows中ChatGPT (對於無法在firefox上安裝的人來說)
+**NLP**
+ * [nextlint](https://github.com/sveltor/nextlint) - 像編輯器一樣的豐富文字編輯器,使用svelte + tiptap建立.
+
+
+**Langchain**
+ * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - 輕鬆入下一個chatGPT應用程式的模板,
 
 
 **Openai**
- * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - 透過OpenAI ChatGPT生成Python文件串!!
+ * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - 網路使用者應使用
 
 
 **Others**
- * [pandora](https://github.com/dave1010/pandora) - 潘多拉讓ChatGPT能夠在您的機器上閱讀和寫檔案並執行命令.
+ * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - 一種集成的ChatGPT的飛機應用程式
+ * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - 支持次數限制,GPT關鍵詞色,圖片合成,以圖生圖
+ * [humanify](https://github.com/jehna/humanify) - 使用 ChatGPT 解除小編碼
 
 
-_Updated on September 08, 2023_ (A total of 1035 repositories listed.)
+_Updated on September 11, 2023_ (A total of 1042 repositories listed.)
 
 ## Table of contents
 
@@ -772,7 +778,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
 |[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
-|[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/Inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
+|[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
 
 
 ## CLIs
@@ -863,6 +869,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [minion](https://github.com/mikaelvesavuori/minion) - 開發者在命令列介面中使用ChatGPT的最簡單且最輕量的方式。
  * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - 使用您選擇的終端模擬器進入GNOME Files中打開的目錄
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - 由E2B提供的AI遊樂場驅動。ChatGPT的代碼解釋器增強版。運行任何語言，任何終端進程，自由使用文件系統。並且可以連接互聯網。
+ * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - 一個開源、可擴展（函數調用）的高性能聊天機器人框架。它支持一鍵免費部署您的私人ChatGPT/LLM網絡應用程式。
 
 
 |Name|GitHub Stars|Language|License|
@@ -953,6 +960,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[minion](https://github.com/mikaelvesavuori/minion)|![GitHub Repo stars](https://img.shields.io/github/stars/mikaelvesavuori/minion?style=social)|Shell|mit|
 |[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
+|[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
 
 
 ## Reimplementations
@@ -1184,6 +1192,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - 一個使用ChatGPT API來處理文本的AutoHotkey腳本。
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - 使用ChatGPT自動翻譯Jekyll頁面：您只需要一個OpenAI API金鑰。
  * [autotranslate](https://github.com/lewangdev/autotranslate) - 視頻轉錄和翻譯，使用更快的耳語和ChatGPT。
+ * [nextlint](https://github.com/sveltor/nextlint) - 一個豐富的文字編輯器，類似於Notion的編輯器，使用Svelte + Tiptap構建。通過ChatGPT提升寫作體驗。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1338,6 +1347,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
+|[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
 
 
 ## Langchain
@@ -1402,6 +1412,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [auto-news](https://github.com/finaldie/auto-news) - 一個個人新聞聚合器，可以從多個來源中提取信息，並利用LLM（通過LangChain的ChatGPT）幫助我們以更高效的方式閱讀，減少干擾。這些來源包括：推特、RSS、YouTube、網絡文章、Reddit和個人日記筆記。
  * [Zhongjing](https://github.com/suprityoung/zhongjing) - 一個基於LLaMa的中醫ChatGPT，使用大規模預訓練語料庫和多輪對話數據集進行訓練。
  * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass 是一個 LLM 評估平台，支援超過 50 個數據集的多種模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude 等）。
+ * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - 使用Gradio和Langchain的下一個ChatGPT應用程式的易於入侵的模板
 
 
 |Name|GitHub Stars|Language|License|
@@ -1465,6 +1476,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
+|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/FrancescoSaverioZuppichini/gradioGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -1600,6 +1612,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
  * [function-gpt](https://github.com/atinylittleshell/function-gpt) - 這是一個 TypeScript 函式庫，可協助處理使用 OpenAI 的 ChatGPT API 進行函式呼叫。
  * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - 可定制的食谱生成器，由OpenAI和ChatGPT驱动。使用Next.Js、Tailwind CSS、Radix UI、Supabase Clerk构建。
  * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - 使用OpenAI ChatGPT生成Python文檔字符串！！
+ * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - 一個用於ChatGPT的強大工具
 
 
 |Name|GitHub Stars|Language|License|
@@ -1706,7 +1719,8 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai?style=social)|Java|mit|
 |[function-gpt](https://github.com/atinylittleshell/function-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atinylittleshell/function-gpt?style=social)|TypeScript|mit|
 |[chef-gpt](https://github.com/giacomogaglione/chef-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/giacomogaglione/chef-gpt?style=social)|TypeScript|mit|
-|[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/MichaelisTrofficus/gpt4docstrings?style=social)|Python|mit|
+|[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/michaelistrofficus/gpt4docstrings?style=social)|Python|mit|
+|[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 
 
 ## Others
@@ -1990,6 +2004,9 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [NeuroGPT](https://github.com/em1tsan/neurogpt) - 免費的ChatGPT 3.5 / ChatGPT 4
  * [chatreview](https://github.com/specful-ai/chatreview) - ChatGPT 的程式碼審查模式
  * [pandora](https://github.com/dave1010/pandora) - ChatGPT編碼解鎖！Pandora讓ChatGPT能夠讀寫文件並在您的機器上運行命令。
+ * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - 一個集成ChatGPT的飛書應用
+ * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - chatgpt-on-wechat的mj畫圖插件，支持次數限制，GPT關鍵詞潤色，圖片合成，以圖生圖
+ * [humanify](https://github.com/jehna/humanify) - 使用ChatGPT解碼未壓縮的Javascript代碼
 
 
 |Name|GitHub Stars|Language|License|
@@ -2262,5 +2279,8 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/em1tsan/NeuroGPT?style=social)|Python|gpl-3.0|
 |[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
 |[pandora](https://github.com/dave1010/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/pandora?style=social)|PHP|mit|
+|[feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/1130600015/feishu-chatgpt?style=social)|Java|-|
+|[midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo)|![GitHub Repo stars](https://img.shields.io/github/stars/chazzjimel/midjourney_turbo?style=social)|Python|-|
+|[humanify](https://github.com/jehna/humanify)|![GitHub Repo stars](https://img.shields.io/github/stars/jehna/humanify?style=social)|TypeScript|mit|
 
 
