@@ -9097,6 +9097,40 @@
                     "zh-hans": "由E2B提供的AI游乐场驱动。强化版的ChatGPT代码解释器。运行任何语言，任何终端进程，自由使用文件系统。同时具备互联网访问功能。",
                     "zh-hant": "由E2B提供的AI遊樂場驅動。ChatGPT的代碼解釋器增強版。運行任何語言，任何終端進程，自由使用文件系統。並且可以連接互聯網。"
                 }
+            },
+            "https://github.com/lobehub/lobe-chat": {
+                "repository_name": "lobe-chat",
+                "user_name": "lobehub",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "function-calling",
+                    "langchangjs",
+                    "lobe-chat",
+                    "lobehub",
+                    "nextjs",
+                    "openai",
+                    "typescript",
+                    "vercel",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.",
+                    "ja": "🤖 Lobe Chat - オープンソースで拡張可能（関数呼び出し可能）、高性能なチャットボットフレームワークです。プライベートなChatGPT/LLMウェブアプリケーションのワンクリック無料デプロイをサポートしています。",
+                    "zh-hans": "🤖 Lobe Chat - 一个开源、可扩展（函数调用）的高性能聊天机器人框架。它支持一键免费部署您的私人ChatGPT/LLM网页应用程序。",
+                    "zh-hant": "🤖 Lobe Chat - 一個開源、可擴展（函數調用）的高性能聊天機器人框架。它支持一鍵免費部署您的私人ChatGPT/LLM網絡應用程式。"
+                }
             }
         },
         "Reimplementations": {
@@ -12552,6 +12586,34 @@
                     "zh-hans": "视频转录和翻译，更快的耳语和ChatGPT",
                     "zh-hant": "視頻轉錄和翻譯，使用更快的耳語和ChatGPT。"
                 }
+            },
+            "https://github.com/sveltor/nextlint": {
+                "repository_name": "nextlint",
+                "user_name": "sveltor",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A rich text editor,  notion like Editor, build with svelte + tiptap. Enhance writing experiences with ChatGPT",
+                "topics": [
+                    "editor",
+                    "gpt",
+                    "nextlint",
+                    "openai",
+                    "svelte",
+                    "tiptap",
+                    "wysiwyg"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A rich text editor,  notion like Editor, build with svelte + tiptap. Enhance writing experiences with ChatGPT",
+                    "ja": "Svelte + tiptapで構築された、Notionのようなリッチテキストエディタ。ChatGPTを使用して、執筆体験を向上させます。",
+                    "zh-hans": "一个富文本编辑器，类似于Notion的编辑器，使用Svelte + Tiptap构建。通过ChatGPT提升写作体验。",
+                    "zh-hant": "一個豐富的文字編輯器，類似於Notion的編輯器，使用Svelte + Tiptap構建。通過ChatGPT提升寫作體驗。"
+                }
             }
         },
         "Langchain": {
@@ -13830,6 +13892,20 @@
                     "ja": "OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。",
                     "zh-hans": "OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude等）。",
                     "zh-hant": "OpenCompass 是一個 LLM 評估平台，支援超過 50 個數據集的多種模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude 等）。"
+                }
+            },
+            "https://github.com/francescosaveriozuppichini/gradiogpt": {
+                "repository_name": "gradioGPT",
+                "user_name": "FrancescoSaverioZuppichini",
+                "language": "Python",
+                "license": null,
+                "description": "Easy to hack template for your next chatGPT app with Gradio and Langchain",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Easy to hack template for your next chatGPT app with Gradio and Langchain",
+                    "ja": "GradioとLangchainを使用した、次のChatGPTアプリのための簡単にハッキングできるテンプレート。",
+                    "zh-hans": "使用Gradio和Langchain创建下一个ChatGPT应用的易于入侵的模板。",
+                    "zh-hant": "使用Gradio和Langchain的下一個ChatGPT應用程式的易於入侵的模板"
                 }
             }
         },
@@ -16049,6 +16125,24 @@
                     "ja": "OpenAI ChatGPTを使用してPythonのドックストリングを生成する！",
                     "zh-hans": "使用OpenAI ChatGPT生成Python文档字符串！！",
                     "zh-hant": "使用OpenAI ChatGPT生成Python文檔字符串！！"
+                }
+            },
+            "https://github.com/youngle316/power-chatgpt": {
+                "repository_name": "power-chatgpt",
+                "user_name": "youngle316",
+                "language": "TypeScript",
+                "license": null,
+                "description": "A Power Tool For ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "nextjs13",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Power Tool For ChatGPT",
+                    "ja": "チャットGPTのためのパワーツール",
+                    "zh-hans": "一个用于ChatGPT的强大工具",
+                    "zh-hant": "一個用於ChatGPT的強大工具"
                 }
             }
         },
@@ -20935,6 +21029,54 @@
                     "ja": "ChatGPTコーディング解放！PandoraはChatGPTにマシン上でファイルの読み書きやコマンドの実行の能力を与えます。",
                     "zh-hans": "ChatGPT编码解锁！Pandora赋予ChatGPT读写文件和在您的计算机上运行命令的能力。",
                     "zh-hant": "ChatGPT編碼解鎖！Pandora讓ChatGPT能夠讀寫文件並在您的機器上運行命令。"
+                }
+            },
+            "https://github.com/1130600015/feishu-chatgpt": {
+                "repository_name": "feishu-chatgpt",
+                "user_name": "1130600015",
+                "language": "Java",
+                "license": null,
+                "description": "一个集成ChatGPT的飞书应用",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A Feishu application integrated with ChatGPT.",
+                    "ja": "ChatGPTを統合したFeishuアプリ",
+                    "zh-hans": "一个集成ChatGPT的飞书应用",
+                    "zh-hant": "一個集成ChatGPT的飛書應用"
+                }
+            },
+            "https://github.com/chazzjimel/midjourney_turbo": {
+                "repository_name": "midjourney_turbo",
+                "user_name": "chazzjimel",
+                "language": "Python",
+                "license": null,
+                "description": "chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，图片合成，以图生图",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGPT-on-WeChat's MJ drawing plugin, with usage restrictions, GPT keyword enhancement, image synthesis, and generating images based on pictures.",
+                    "ja": "chatgpt-on-wechatのmj画像プラグイン、回数制限対応、GPTキーワードの磨き、画像合成、画像生成",
+                    "zh-hans": "chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，图片合成，以图生图\nchatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，图片合成，以图生图",
+                    "zh-hant": "chatgpt-on-wechat的mj畫圖插件，支持次數限制，GPT關鍵詞潤色，圖片合成，以圖生圖"
+                }
+            },
+            "https://github.com/jehna/humanify": {
+                "repository_name": "humanify",
+                "user_name": "jehna",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Un-minify Javascript code using ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Un-minify Javascript code using ChatGPT",
+                    "ja": "ChatGPTを使用して、JavaScriptコードを非圧縮化します。",
+                    "zh-hans": "使用ChatGPT解压缩JavaScript代码",
+                    "zh-hant": "使用ChatGPT解碼未壓縮的Javascript代碼"
                 }
             }
         }

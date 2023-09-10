@@ -16,23 +16,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!
+**CLIs**
+ * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 
 
-**Browser-extensions**
- * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - ChatGPT in windows including AIPRM in it ( for people who can't install it on firefox )
+**NLP**
+ * [nextlint](https://github.com/sveltor/nextlint) - A rich text editor,  notion like Editor, build with svelte + tiptap. Enhance writing experiences with ChatGPT
+
+
+**Langchain**
+ * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - Easy to hack template for your next chatGPT app with Gradio and Langchain
 
 
 **Openai**
- * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - Generating Python docstrings with OpenAI ChatGPT!!
+ * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - A Power Tool For ChatGPT
 
 
 **Others**
- * [pandora](https://github.com/dave1010/pandora) - ChatGPT Coding Unleashed! Pandora gives ChatGPT the ability to read and write files and run commands on your machine.
+ * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - 一个集成ChatGPT的飞书应用
+ * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，图片合成，以图生图
+ * [humanify](https://github.com/jehna/humanify) - Un-minify Javascript code using ChatGPT
 
 
-_Updated on September 08, 2023_ (A total of 1035 repositories listed.)
+_Updated on September 11, 2023_ (A total of 1042 repositories listed.)
 
 ## Table of contents
 
@@ -770,7 +776,7 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
 |[search-recommendations](https://github.com/niemingxing/search-recommendations)|![GitHub Repo stars](https://img.shields.io/github/stars/niemingxing/search-recommendations?style=social)|JavaScript|-|
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
 |[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
-|[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/Inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
+|[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
 
 
 ## CLIs
@@ -861,6 +867,7 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
  * [minion](https://github.com/mikaelvesavuori/minion) - The easiest and most lightweight way for developers to use ChatGPT in a CLI.
  * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - cd into the directory open in GNOME Files with a terminal emulator of your choice
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
+ * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
 
 
 |Name|GitHub Stars|Language|License|
@@ -951,6 +958,7 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
 |[minion](https://github.com/mikaelvesavuori/minion)|![GitHub Repo stars](https://img.shields.io/github/stars/mikaelvesavuori/minion?style=social)|Shell|mit|
 |[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
+|[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
 
 
 ## Reimplementations
@@ -1175,6 +1183,7 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
  * [ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility) - An AutoHotkey script that uses ChatGPT API to process text.
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - Automated translating of Jekyll pages via ChatGPT: all you need is just an OpenAI API key
  * [autotranslate](https://github.com/lewangdev/autotranslate) - Videos Transcription and Translation with Faster Whisper and ChatGPT
+ * [nextlint](https://github.com/sveltor/nextlint) - A rich text editor,  notion like Editor, build with svelte + tiptap. Enhance writing experiences with ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -1329,6 +1338,7 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
 |[ChatGPT-AutoHotkey-Utility](https://github.com/kdalanon/chatgpt-autohotkey-utility)|![GitHub Repo stars](https://img.shields.io/github/stars/kdalanon/ChatGPT-AutoHotkey-Utility?style=social)|AutoHotkey|gpl-3.0|
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
+|[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
 
 
 ## Langchain
@@ -1392,6 +1402,7 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
  * [auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
  * [Zhongjing](https://github.com/suprityoung/zhongjing) - A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset.
  * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
+ * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - Easy to hack template for your next chatGPT app with Gradio and Langchain
 
 
 |Name|GitHub Stars|Language|License|
@@ -1455,6 +1466,7 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
+|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/FrancescoSaverioZuppichini/gradioGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -1586,6 +1598,7 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
  * [function-gpt](https://github.com/atinylittleshell/function-gpt) - This is a typescript library that helps handle function calling with OpenAI's ChatGPT API.
  * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - Customizable recipe generator powered by OpenAI and ChatGPT. Built with Next.Js Tailwind CSS Radix UI Supabase Clerk.
  * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - Generating Python docstrings with OpenAI ChatGPT!!
+ * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - A Power Tool For ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -1692,7 +1705,8 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
 |[aks-openai](https://github.com/azure-samples/aks-openai)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/aks-openai?style=social)|Java|mit|
 |[function-gpt](https://github.com/atinylittleshell/function-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/atinylittleshell/function-gpt?style=social)|TypeScript|mit|
 |[chef-gpt](https://github.com/giacomogaglione/chef-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/giacomogaglione/chef-gpt?style=social)|TypeScript|mit|
-|[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/MichaelisTrofficus/gpt4docstrings?style=social)|Python|mit|
+|[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/michaelistrofficus/gpt4docstrings?style=social)|Python|mit|
+|[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 
 
 ## Others
@@ -1965,6 +1979,9 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
  * [NeuroGPT](https://github.com/em1tsan/neurogpt) - Бесплатный ChatGPT 3.5 / ChatGPT 4
  * [chatreview](https://github.com/specful-ai/chatreview) - Code Review Mode for ChatGPT
  * [pandora](https://github.com/dave1010/pandora) - ChatGPT Coding Unleashed! Pandora gives ChatGPT the ability to read and write files and run commands on your machine.
+ * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - 一个集成ChatGPT的飞书应用
+ * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，图片合成，以图生图
+ * [humanify](https://github.com/jehna/humanify) - Un-minify Javascript code using ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -2237,5 +2254,8 @@ _Updated on September 08, 2023_ (A total of 1035 repositories listed.)
 |[NeuroGPT](https://github.com/em1tsan/neurogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/em1tsan/NeuroGPT?style=social)|Python|gpl-3.0|
 |[chatreview](https://github.com/specful-ai/chatreview)|![GitHub Repo stars](https://img.shields.io/github/stars/specful-ai/chatreview?style=social)|JavaScript|gpl-3.0|
 |[pandora](https://github.com/dave1010/pandora)|![GitHub Repo stars](https://img.shields.io/github/stars/dave1010/pandora?style=social)|PHP|mit|
+|[feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/1130600015/feishu-chatgpt?style=social)|Java|-|
+|[midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo)|![GitHub Repo stars](https://img.shields.io/github/stars/chazzjimel/midjourney_turbo?style=social)|Python|-|
+|[humanify](https://github.com/jehna/humanify)|![GitHub Repo stars](https://img.shields.io/github/stars/jehna/humanify?style=social)|TypeScript|mit|
 
 
