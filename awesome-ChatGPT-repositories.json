@@ -4757,6 +4757,41 @@
                     "zh-hans": "终极免费的OpenAI提供者，采用Python代码解释器和其他多种功能，由ChatGPT和GPT-4驱动！",
                     "zh-hant": "終極且免費的OpenAI提供者，使用Python代碼解釋器和其他多個功能實現，由ChatGPT和GPT-4提供動力！"
                 }
+            },
+            "https://github.com/amm1rr/webai-to-api": {
+                "repository_name": "WebAI-to-API",
+                "user_name": "Amm1rr",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT, Claude, Bard to API  : )",
+                "topics": [
+                    "ai",
+                    "api",
+                    "bard",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "claude-api",
+                    "development",
+                    "fastapi",
+                    "free",
+                    "google-bard-api",
+                    "python",
+                    "webserver",
+                    "webservice"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT, Claude, Bard to API  : )",
+                    "ja": "ChatGPT、クロード、バードからAPIへ：）",
+                    "zh-hans": "ChatGPT，克劳德，巴德到API：）",
+                    "zh-hant": "ChatGPT，Claude，Bard to API  : )"
+                }
             }
         },
         "Browser-extensions": {
@@ -9131,6 +9166,33 @@
                     "zh-hans": "🤖 Lobe Chat - 一个开源、可扩展（函数调用）的高性能聊天机器人框架。它支持一键免费部署您的私人ChatGPT/LLM网页应用程序。",
                     "zh-hant": "🤖 Lobe Chat - 一個開源、可擴展（函數調用）的高性能聊天機器人框架。它支持一鍵免費部署您的私人ChatGPT/LLM網絡應用程式。"
                 }
+            },
+            "https://github.com/jstrieb/paperify": {
+                "repository_name": "paperify",
+                "user_name": "jstrieb",
+                "language": "Shell",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Transform any document, web page, or eBook into a research paper (ChatGPT not required)",
+                "topics": [
+                    "latex",
+                    "pandoc",
+                    "posix-sh",
+                    "research-paper",
+                    "shell",
+                    "shell-script"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Transform any document, web page, or eBook into a research paper (ChatGPT not required)",
+                    "ja": "どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）",
+                    "zh-hans": "将任何文档、网页或电子书转化为研究论文（无需ChatGPT）。",
+                    "zh-hant": "將任何文件、網頁或電子書轉換為研究論文（不需要ChatGPT）。"
+                }
             }
         },
         "Reimplementations": {
@@ -12613,6 +12675,33 @@
                     "ja": "Svelte + tiptapで構築された、Notionのようなリッチテキストエディタ。ChatGPTを使用して、執筆体験を向上させます。",
                     "zh-hans": "一个富文本编辑器，类似于Notion的编辑器，使用Svelte + Tiptap构建。通过ChatGPT提升写作体验。",
                     "zh-hant": "一個豐富的文字編輯器，類似於Notion的編輯器，使用Svelte + Tiptap構建。通過ChatGPT提升寫作體驗。"
+                }
+            },
+            "https://github.com/boburmirzo/chatgpt-api-python-sales": {
+                "repository_name": "chatgpt-api-python-sales",
+                "user_name": "Boburmirzo",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Find real-time sales with AI-powered Python API using ChatGPT and LLM (Large Language Model) App. ",
+                "topics": [
+                    "ai",
+                    "api",
+                    "chatgpt",
+                    "large-language-models",
+                    "python",
+                    "real-time"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Find real-time sales with AI-powered Python API using ChatGPT and LLM (Large Language Model) App. ",
+                    "ja": "AIパワードのPython APIを使用して、ChatGPTとLLM（Large Language Model）アプリを使ってリアルタイムの売上を検索してください。",
+                    "zh-hans": "使用ChatGPT和LLM（大型语言模型）应用程序，通过AI驱动的Python API查找实时销售数据。",
+                    "zh-hant": "使用ChatGPT和LLM（大型語言模型）應用程式，利用AI驅動的Python API尋找即時銷售。"
                 }
             }
         },
@@ -21077,6 +21166,37 @@
                     "ja": "ChatGPTを使用して、JavaScriptコードを非圧縮化します。",
                     "zh-hans": "使用ChatGPT解压缩JavaScript代码",
                     "zh-hant": "使用ChatGPT解碼未壓縮的Javascript代碼"
+                }
+            },
+            "https://github.com/dmswl98/careerboost": {
+                "repository_name": "careerboost",
+                "user_name": "dmswl98",
+                "language": "TypeScript",
+                "license": null,
+                "description": "📝 chatGPT 이력서 첨삭 서비스",
+                "topics": [
+                    "chatgpt",
+                    "nextjs13"
+                ],
+                "multilingual_descriptions": {
+                    "en": "📝 chatGPT Resume Editing Service",
+                    "ja": "📝 chatGPT履歴書校正サービス",
+                    "zh-hans": "📝 chatGPT 简历润色服务",
+                    "zh-hant": "📝 chatGPT 履歷校對服務"
+                }
+            },
+            "https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform": {
+                "repository_name": "livecodingthefuture-docker-terraform",
+                "user_name": "digitalinnovationone",
+                "language": "Dockerfile",
+                "license": null,
+                "description": "Projeto Criado para salvar os Exemplos da Live Conding The Future. Realizando deploy de uma aplicação web em cloud com Docker, Terraform, Bard e ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Project created to save the examples from the Live Coding The Future. Deploying a web application in the cloud using Docker, Terraform, Bard, and ChatGPT.",
+                    "ja": "Live Conding The Futureの例を保存するために作成されたプロジェクト。Docker、Terraform、Bard、ChatGPTを使用してクラウド上にウェブアプリケーションをデプロイします。",
+                    "zh-hans": "创建项目以保存Live Conding The Future的示例。使用Docker、Terraform、Bard和ChatGPT在云中部署Web应用程序。",
+                    "zh-hant": "項目創建用於保存Live Conding The Future的示例。使用Docker、Terraform、Bard和ChatGPT在雲端部署Web應用程式。"
                 }
             }
         }

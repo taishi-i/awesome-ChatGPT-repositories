@@ -16,29 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT, Claude, Bard to API  : )
+
+
 **CLIs**
- * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
+ * [paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 
 
 **NLP**
- * [nextlint](https://github.com/sveltor/nextlint) - A rich text editor,  notion like Editor, build with svelte + tiptap. Enhance writing experiences with ChatGPT
-
-
-**Langchain**
- * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - Easy to hack template for your next chatGPT app with Gradio and Langchain
-
-
-**Openai**
- * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - A Power Tool For ChatGPT
+ * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - Find real-time sales with AI-powered Python API using ChatGPT and LLM (Large Language Model) App. 
 
 
 **Others**
- * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - A Feishu application integrated with ChatGPT.
- * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - Input: ChatGPT-on-WeChat's MJ drawing plugin, with usage restrictions, GPT keyword enhancement, image synthesis, and generating images based on pictures.
- * [humanify](https://github.com/jehna/humanify) - Un-minify Javascript code using ChatGPT
+ * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT Resume Editing Service
+ * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - Project created to save the examples from the Live Coding The Future. Deploying a web application in the cloud using Docker, Terraform, Bard, and ChatGPT.
 
 
-_Updated on September 11, 2023_ (A total of 1042 repositories listed.)
+_Updated on September 13, 2023_ (A total of 1047 repositories listed.)
 
 ## Table of contents
 
@@ -397,6 +392,7 @@ _Updated on September 11, 2023_ (A total of 1042 repositories listed.)
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - I turned my old rotary phone into a ChatGPT-based home assistant and now you can too
  * [rusty_llama](https://github.com/moonkraken/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!
+ * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT, Claude, Bard to API  : )
 
 
 |Name|GitHub Stars|Language|License|
@@ -533,6 +529,7 @@ _Updated on September 11, 2023_ (A total of 1042 repositories listed.)
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
 |[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/moonkraken/rusty_llama?style=social)|Rust|mit|
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
+|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/Amm1rr/WebAI-to-API?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -868,6 +865,7 @@ _Updated on September 11, 2023_ (A total of 1042 repositories listed.)
  * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - cd into the directory open in GNOME Files with a terminal emulator of your choice
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
  * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
+ * [paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
 
 
 |Name|GitHub Stars|Language|License|
@@ -959,6 +957,7 @@ _Updated on September 11, 2023_ (A total of 1042 repositories listed.)
 |[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
+|[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
 
 
 ## Reimplementations
@@ -1184,6 +1183,7 @@ _Updated on September 11, 2023_ (A total of 1042 repositories listed.)
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - Automated translating of Jekyll pages via ChatGPT: all you need is just an OpenAI API key
  * [autotranslate](https://github.com/lewangdev/autotranslate) - Videos Transcription and Translation with Faster Whisper and ChatGPT
  * [nextlint](https://github.com/sveltor/nextlint) - A rich text editor,  notion like Editor, build with svelte + tiptap. Enhance writing experiences with ChatGPT
+ * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - Find real-time sales with AI-powered Python API using ChatGPT and LLM (Large Language Model) App. 
 
 
 |Name|GitHub Stars|Language|License|
@@ -1339,6 +1339,7 @@ _Updated on September 11, 2023_ (A total of 1042 repositories listed.)
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
+|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/Boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1466,7 +1467,7 @@ _Updated on September 11, 2023_ (A total of 1042 repositories listed.)
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
-|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/FrancescoSaverioZuppichini/gradioGPT?style=social)|Python|-|
+|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/francescosaveriozuppichini/gradioGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -1984,6 +1985,8 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
  * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - A Feishu application integrated with ChatGPT.
  * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - Input: ChatGPT-on-WeChat's MJ drawing plugin, with usage restrictions, GPT keyword enhancement, image synthesis, and generating images based on pictures.
  * [humanify](https://github.com/jehna/humanify) - Un-minify Javascript code using ChatGPT
+ * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT Resume Editing Service
+ * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - Project created to save the examples from the Live Coding The Future. Deploying a web application in the cloud using Docker, Terraform, Bard, and ChatGPT.
 
 
 |Name|GitHub Stars|Language|License|
@@ -2259,5 +2262,7 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
 |[feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/1130600015/feishu-chatgpt?style=social)|Java|-|
 |[midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo)|![GitHub Repo stars](https://img.shields.io/github/stars/chazzjimel/midjourney_turbo?style=social)|Python|-|
 |[humanify](https://github.com/jehna/humanify)|![GitHub Repo stars](https://img.shields.io/github/stars/jehna/humanify?style=social)|TypeScript|mit|
+|[careerboost](https://github.com/dmswl98/careerboost)|![GitHub Repo stars](https://img.shields.io/github/stars/dmswl98/careerboost?style=social)|TypeScript|-|
+|[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
 
 

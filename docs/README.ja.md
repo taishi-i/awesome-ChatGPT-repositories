@@ -15,29 +15,24 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT、クロード、バードからAPIへ：）
+
+
 **CLIs**
- * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - オープンソースで拡張可能（関数呼び出し可能）、高性能なチャットボットフレームワークです。プライベートなChatGPT/LLMウェブアプリケーションのワンクリック無料デプロイをサポートしています。
+ * [paperify](https://github.com/jstrieb/paperify) - どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）
 
 
 **NLP**
- * [nextlint](https://github.com/sveltor/nextlint) - Svelte + tiptapで構築された、Notionのようなリッチテキストエディタ。ChatGPTを使用して、執筆体験を向上させます。
-
-
-**Langchain**
- * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - GradioとLangchainを使用した、次のChatGPTアプリのための簡単にハッキングできるテンプレート。
-
-
-**Openai**
- * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - チャットGPTのためのパワーツール
+ * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - AIパワードのPython APIを使用して、ChatGPTとLLM（Large Language Model）アプリを使ってリアルタイムの売上を検索してください。
 
 
 **Others**
- * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - ChatGPTを統合したFeishuアプリ
- * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - chatgpt-on-wechatのmj画像プラグイン、回数制限対応、GPTキーワードの磨き、画像合成、画像生成
- * [humanify](https://github.com/jehna/humanify) - ChatGPTを使用して、JavaScriptコードを非圧縮化します。
+ * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT履歴書校正サービス
+ * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - Live Conding The Futureの例を保存するために作成されたプロジェクト。Docker、Terraform、Bard、ChatGPTを使用してクラウド上にウェブアプリケーションをデプロイします。
 
 
-_Updated on September 11, 2023_ (A total of 1042 repositories listed.)
+_Updated on September 13, 2023_ (A total of 1047 repositories listed.)
 
 ## Table of contents
 
@@ -409,6 +404,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 私は古い回転式電話をChatGPTベースの家庭用アシスタントに変えました。あなたも同じことができます。
  * [rusty_llama](https://github.com/moonkraken/rusty_llama) - フロントエンドとバックエンドの両方でRustで作られたシンプルなChatGPTクローン。オープンソースの言語モデルとTailwindCSSを使用しています。
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Pythonコードインタプリタと他の複数の機能を備えた究極で無料のOpenAIプロバイダー、ChatGPTとGPT-4によってパワーアップされました！
+ * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT、クロード、バードからAPIへ：）
 
 
 |Name|GitHub Stars|Language|License|
@@ -545,6 +541,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
 |[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/moonkraken/rusty_llama?style=social)|Rust|mit|
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
+|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/Amm1rr/WebAI-to-API?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -883,6 +880,7 @@ ChatGPT Webのワンクリックデプロイメント
  * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - ターミナルエミュレータを使用して、GNOME Filesで開いているディレクトリにcdしてください。
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - AI Playgrounds by E2Bによって提供されています。ChatGPT用のステロイドコードインタープリター。どんな言語でも、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
  * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - オープンソースで拡張可能（関数呼び出し可能）、高性能なチャットボットフレームワークです。プライベートなChatGPT/LLMウェブアプリケーションのワンクリック無料デプロイをサポートしています。
+ * [paperify](https://github.com/jstrieb/paperify) - どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）
 
 
 |Name|GitHub Stars|Language|License|
@@ -974,6 +972,7 @@ ChatGPT Webのワンクリックデプロイメント
 |[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
+|[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
 
 
 ## Reimplementations
@@ -1203,6 +1202,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - ChatGPTを使用したJekyllページの自動翻訳：必要なのはOpenAI APIキーだけです。
  * [autotranslate](https://github.com/lewangdev/autotranslate) - ビデオの転写と翻訳を、より速いささやき音声とChatGPTで行います。
  * [nextlint](https://github.com/sveltor/nextlint) - Svelte + tiptapで構築された、Notionのようなリッチテキストエディタ。ChatGPTを使用して、執筆体験を向上させます。
+ * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - AIパワードのPython APIを使用して、ChatGPTとLLM（Large Language Model）アプリを使ってリアルタイムの売上を検索してください。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1358,6 +1358,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
+|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/Boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1487,7 +1488,7 @@ LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習�
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
-|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/FrancescoSaverioZuppichini/gradioGPT?style=social)|Python|-|
+|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/francescosaveriozuppichini/gradioGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -2010,6 +2011,8 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
  * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - ChatGPTを統合したFeishuアプリ
  * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - chatgpt-on-wechatのmj画像プラグイン、回数制限対応、GPTキーワードの磨き、画像合成、画像生成
  * [humanify](https://github.com/jehna/humanify) - ChatGPTを使用して、JavaScriptコードを非圧縮化します。
+ * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT履歴書校正サービス
+ * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - Live Conding The Futureの例を保存するために作成されたプロジェクト。Docker、Terraform、Bard、ChatGPTを使用してクラウド上にウェブアプリケーションをデプロイします。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2285,5 +2288,7 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
 |[feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/1130600015/feishu-chatgpt?style=social)|Java|-|
 |[midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo)|![GitHub Repo stars](https://img.shields.io/github/stars/chazzjimel/midjourney_turbo?style=social)|Python|-|
 |[humanify](https://github.com/jehna/humanify)|![GitHub Repo stars](https://img.shields.io/github/stars/jehna/humanify?style=social)|TypeScript|mit|
+|[careerboost](https://github.com/dmswl98/careerboost)|![GitHub Repo stars](https://img.shields.io/github/stars/dmswl98/careerboost?style=social)|TypeScript|-|
+|[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
 
 
