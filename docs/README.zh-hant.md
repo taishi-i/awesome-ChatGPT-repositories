@@ -15,29 +15,24 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - 接著是我們要做什麼?
+
+
 **CLIs**
- * [lobe-chat](https://github.com/lobehub/lobe-chat) - Lobe Chat - 公開源代碼,可擴展 (功能呼叫),高性能聊天機架構. 它支持一點點的免費部署您的私人ChatGPT/LLM網頁應用程式.
+ * [paperify](https://github.com/jstrieb/paperify) - 轉換任何文件,網頁或電子書成研究論文 (不需要ChatGPT)
 
 
 **NLP**
- * [nextlint](https://github.com/sveltor/nextlint) - 像編輯器一樣的豐富文字編輯器,使用svelte + tiptap建立.
-
-
-**Langchain**
- * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - 輕鬆入下一個chatGPT應用程式的模板,
-
-
-**Openai**
- * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - 網路使用者應使用
+ * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - 找到實時銷售與AI動力 Python API使用ChatGPT和LLM (大語言模型) 應用程式. 
 
 
 **Others**
- * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - 一種集成的ChatGPT的飛機應用程式
- * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - 支持次數限制,GPT關鍵詞色,圖片合成,以圖生圖
- * [humanify](https://github.com/jehna/humanify) - 使用 ChatGPT 解除小編碼
+ * [careerboost](https://github.com/dmswl98/careerboost) - 聊GPT的信件加入삭服務
+ * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - 計畫旨在拯救未來生活環境的例子.
 
 
-_Updated on September 11, 2023_ (A total of 1042 repositories listed.)
+_Updated on September 13, 2023_ (A total of 1047 repositories listed.)
 
 ## Table of contents
 
@@ -399,6 +394,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 我把我的舊式旋轉電話改造成了一個基於ChatGPT的家庭助手，現在你也可以這樣做。
  * [rusty_llama](https://github.com/moonkraken/rusty_llama) - 一個簡單的ChatGPT克隆版本，前端和後端都使用Rust語言開發。使用開源語言模型和TailwindCSS。
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - 終極且免費的OpenAI提供者，使用Python代碼解釋器和其他多個功能實現，由ChatGPT和GPT-4提供動力！
+ * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT，Claude，Bard to API  : )
 
 
 |Name|GitHub Stars|Language|License|
@@ -535,6 +531,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
 |[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/moonkraken/rusty_llama?style=social)|Rust|mit|
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
+|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/Amm1rr/WebAI-to-API?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -870,6 +867,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - 使用您選擇的終端模擬器進入GNOME Files中打開的目錄
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - 由E2B提供的AI遊樂場驅動。ChatGPT的代碼解釋器增強版。運行任何語言，任何終端進程，自由使用文件系統。並且可以連接互聯網。
  * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - 一個開源、可擴展（函數調用）的高性能聊天機器人框架。它支持一鍵免費部署您的私人ChatGPT/LLM網絡應用程式。
+ * [paperify](https://github.com/jstrieb/paperify) - 將任何文件、網頁或電子書轉換為研究論文（不需要ChatGPT）。
 
 
 |Name|GitHub Stars|Language|License|
@@ -961,6 +959,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
+|[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
 
 
 ## Reimplementations
@@ -1193,6 +1192,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - 使用ChatGPT自動翻譯Jekyll頁面：您只需要一個OpenAI API金鑰。
  * [autotranslate](https://github.com/lewangdev/autotranslate) - 視頻轉錄和翻譯，使用更快的耳語和ChatGPT。
  * [nextlint](https://github.com/sveltor/nextlint) - 一個豐富的文字編輯器，類似於Notion的編輯器，使用Svelte + Tiptap構建。通過ChatGPT提升寫作體驗。
+ * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - 使用ChatGPT和LLM（大型語言模型）應用程式，利用AI驅動的Python API尋找即時銷售。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1348,6 +1348,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
+|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/Boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1476,7 +1477,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
-|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/FrancescoSaverioZuppichini/gradioGPT?style=social)|Python|-|
+|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/francescosaveriozuppichini/gradioGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -2007,6 +2008,8 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - 一個集成ChatGPT的飛書應用
  * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - chatgpt-on-wechat的mj畫圖插件，支持次數限制，GPT關鍵詞潤色，圖片合成，以圖生圖
  * [humanify](https://github.com/jehna/humanify) - 使用ChatGPT解碼未壓縮的Javascript代碼
+ * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT 履歷校對服務
+ * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - 項目創建用於保存Live Conding The Future的示例。使用Docker、Terraform、Bard和ChatGPT在雲端部署Web應用程式。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2282,5 +2285,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/1130600015/feishu-chatgpt?style=social)|Java|-|
 |[midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo)|![GitHub Repo stars](https://img.shields.io/github/stars/chazzjimel/midjourney_turbo?style=social)|Python|-|
 |[humanify](https://github.com/jehna/humanify)|![GitHub Repo stars](https://img.shields.io/github/stars/jehna/humanify?style=social)|TypeScript|mit|
+|[careerboost](https://github.com/dmswl98/careerboost)|![GitHub Repo stars](https://img.shields.io/github/stars/dmswl98/careerboost?style=social)|TypeScript|-|
+|[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
 
 

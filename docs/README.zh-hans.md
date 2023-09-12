@@ -15,29 +15,24 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - 聊天GPT,克劳德,巴德到API:
+
+
 **CLIs**
- * [lobe-chat](https://github.com/lobehub/lobe-chat) -  Lobe Chat - 一个开源,可扩展 (函数调用),高性能聊天机器人框架.它支持单击免费部署您的私人ChatGPT/LLM网络应用程序.
+ * [paperify](https://github.com/jstrieb/paperify) - 将任何文档,网页或电子书转换成研究论文 (不需要ChatGPT)
 
 
 **NLP**
- * [nextlint](https://github.com/sveltor/nextlint) - 丰富的文本编辑器,像编辑器一样,使用svelte + tiptap构建. 增强与ChatGPT的写作体验
-
-
-**Langchain**
- * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - 简单的模板,为您的下一个chatGPT应用程序使用Gradio和Langchain
-
-
-**Openai**
- * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - 一个为ChatGPT提供动力工具
+ * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - 通过使用ChatGPT和LLM (大型语言模型) 应用程序,使用AI驱动的Python API找到实时销售. 
 
 
 **Others**
- * [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - 一个集成的ChatGPT的飞行应用程序
- * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - 聊天GPT-on-wechat的mj图图插件,支持次数限制,GPT关键词色,图片合成,以图生图
- * [humanify](https://github.com/jehna/humanify) - 使用ChatGPT解除JavaScript代码的微小化
+ * [careerboost](https://github.com/dmswl98/careerboost) - 聊GPT的信件添삭服务
+ * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - 项目创建以保存生活条件的例子未来.实现部署一个网络应用程序在云端与Docker,Terraform,Bard和ChatGPT
 
 
-_Updated on September 11, 2023_ (A total of 1042 repositories listed.)
+_Updated on September 13, 2023_ (A total of 1047 repositories listed.)
 
 ## Table of contents
 
@@ -399,6 +394,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [rotary-gpt](https://github.com/tcz/rotary-gpt) - 我把我的旧转盘电话改装成了一个基于ChatGPT的家庭助手，现在你也可以这样做。
  * [rusty_llama](https://github.com/moonkraken/rusty_llama) - 一个简单的ChatGPT克隆版本，使用Rust语言编写的前后端。使用开源语言模型和TailwindCSS。
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - 终极免费的OpenAI提供者，采用Python代码解释器和其他多种功能，由ChatGPT和GPT-4驱动！
+ * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT，克劳德，巴德到API：）
 
 
 |Name|GitHub Stars|Language|License|
@@ -535,6 +531,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
 |[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/moonkraken/rusty_llama?style=social)|Rust|mit|
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
+|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/Amm1rr/WebAI-to-API?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -873,6 +870,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [chai-ruby](https://github.com/rogueocelot/chai-ruby) - 使用您选择的终端模拟器，进入GNOME Files中打开的目录。
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - 由E2B提供的AI游乐场驱动。强化版的ChatGPT代码解释器。运行任何语言，任何终端进程，自由使用文件系统。同时具备互联网访问功能。
  * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - 一个开源、可扩展（函数调用）的高性能聊天机器人框架。它支持一键免费部署您的私人ChatGPT/LLM网页应用程序。
+ * [paperify](https://github.com/jstrieb/paperify) - 将任何文档、网页或电子书转化为研究论文（无需ChatGPT）。
 
 
 |Name|GitHub Stars|Language|License|
@@ -964,6 +962,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[chai-ruby](https://github.com/rogueocelot/chai-ruby)|![GitHub Repo stars](https://img.shields.io/github/stars/rogueocelot/chai-ruby?style=social)|Ruby|mit|
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
+|[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
 
 
 ## Reimplementations
@@ -1192,6 +1191,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate) - 通过ChatGPT自动翻译Jekyll页面：您只需要一个OpenAI API密钥。
  * [autotranslate](https://github.com/lewangdev/autotranslate) - 视频转录和翻译，更快的耳语和ChatGPT
  * [nextlint](https://github.com/sveltor/nextlint) - 一个富文本编辑器，类似于Notion的编辑器，使用Svelte + Tiptap构建。通过ChatGPT提升写作体验。
+ * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - 使用ChatGPT和LLM（大型语言模型）应用程序，通过AI驱动的Python API查找实时销售数据。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1347,6 +1347,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
+|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/Boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1474,7 +1475,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[auto-news](https://github.com/finaldie/auto-news)|![GitHub Repo stars](https://img.shields.io/github/stars/finaldie/auto-news?style=social)|Python|mit|
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
-|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/FrancescoSaverioZuppichini/gradioGPT?style=social)|Python|-|
+|[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/francescosaveriozuppichini/gradioGPT?style=social)|Python|-|
 
 
 ## Unity
@@ -2002,6 +2003,8 @@ chatgpt商业应用！79E/ChatGpt-Web 的1.3.9最新！本人破解，无需授�
  * [midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo) - chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，图片合成，以图生图
 chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，图片合成，以图生图
  * [humanify](https://github.com/jehna/humanify) - 使用ChatGPT解压缩JavaScript代码
+ * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT 简历润色服务
+ * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - 创建项目以保存Live Conding The Future的示例。使用Docker、Terraform、Bard和ChatGPT在云中部署Web应用程序。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2277,5 +2280,7 @@ chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，�
 |[feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/1130600015/feishu-chatgpt?style=social)|Java|-|
 |[midjourney_turbo](https://github.com/chazzjimel/midjourney_turbo)|![GitHub Repo stars](https://img.shields.io/github/stars/chazzjimel/midjourney_turbo?style=social)|Python|-|
 |[humanify](https://github.com/jehna/humanify)|![GitHub Repo stars](https://img.shields.io/github/stars/jehna/humanify?style=social)|TypeScript|mit|
+|[careerboost](https://github.com/dmswl98/careerboost)|![GitHub Repo stars](https://img.shields.io/github/stars/dmswl98/careerboost?style=social)|TypeScript|-|
+|[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
 
 
