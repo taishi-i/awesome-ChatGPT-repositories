@@ -4792,6 +4792,36 @@
                     "zh-hans": "ChatGPT，克劳德，巴德到API：）",
                     "zh-hant": "ChatGPT，Claude，Bard to API  : )"
                 }
+            },
+            "https://github.com/blrchen/chatgpt-minimal": {
+                "repository_name": "chatgpt-minimal",
+                "user_name": "blrchen",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Lightweight chatgpt bot built using Next.js and the OpenAI Streaming API. 一个使用 Next.js 和 OpenAI Streaming API 创建的简易ChatGPT聊天机器人",
+                "topics": [
+                    "ant-design",
+                    "azure-openai",
+                    "azureopenai",
+                    "chatbot",
+                    "chatbot-gui",
+                    "chatgpt",
+                    "chatgpt-ui",
+                    "gpt-35-turbo",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Lightweight chatgpt bot built using Next.js and the OpenAI Streaming API. 一个使用 Next.js 和 OpenAI Streaming API 创建的简易ChatGPT聊天机器人",
+                    "ja": "軽量なチャットGPTボットは、Next.jsとOpenAI Streaming APIを使用して構築されています。",
+                    "zh-hans": "一个使用Next.js和OpenAI Streaming API构建的轻量级ChatGPT聊天机器人。",
+                    "zh-hant": "使用Next.js和OpenAI Streaming API構建的輕量級ChatGPT聊天機器人。"
+                }
             }
         },
         "Browser-extensions": {
@@ -9192,6 +9222,26 @@
                     "ja": "どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）",
                     "zh-hans": "将任何文档、网页或电子书转化为研究论文（无需ChatGPT）。",
                     "zh-hant": "將任何文件、網頁或電子書轉換為研究論文（不需要ChatGPT）。"
+                }
+            },
+            "https://github.com/bashsenpai/cli": {
+                "repository_name": "cli",
+                "user_name": "BashSenpai",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "BashSenpai is a terminal assistant powered by ChatGPT.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "BashSenpai is a terminal assistant powered by ChatGPT.",
+                    "ja": "BashSenpaiはChatGPTによって動作するターミナルアシスタントです。",
+                    "zh-hans": "BashSenpai是由ChatGPT驱动的终端助手。",
+                    "zh-hant": "BashSenpai 是由 ChatGPT 驅動的終端助手。"
                 }
             }
         },
@@ -16232,6 +16282,57 @@
                     "ja": "チャットGPTのためのパワーツール",
                     "zh-hans": "一个用于ChatGPT的强大工具",
                     "zh-hant": "一個用於ChatGPT的強大工具"
+                }
+            },
+            "https://github.com/25077667/cg": {
+                "repository_name": "cg",
+                "user_name": "25077667",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "The commit GPT using OpenAI's chatGPT for free",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The commit GPT using OpenAI's chatGPT for free",
+                    "ja": "無料でOpenAIのchatGPTを使用したコミット",
+                    "zh-hans": "使用OpenAI的chatGPT免费提交",
+                    "zh-hant": "使用OpenAI的chatGPT免費提交"
+                }
+            },
+            "https://github.com/gngpp/ninja": {
+                "repository_name": "ninja",
+                "user_name": "gngpp",
+                "language": "Rust",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Reverse engineered ChatGPT proxy",
+                "topics": [
+                    "arkoselabs",
+                    "chatgpt",
+                    "cloudflare",
+                    "docker",
+                    "gpt3",
+                    "gpt4",
+                    "hyper",
+                    "openai",
+                    "openwrt",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Reverse engineered ChatGPT proxy",
+                    "ja": "逆エンジニアリングされたChatGPTプロキシ",
+                    "zh-hans": "逆向工程的ChatGPT代理",
+                    "zh-hant": "逆向工程的ChatGPT代理"
                 }
             }
         },

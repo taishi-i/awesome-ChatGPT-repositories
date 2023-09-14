@@ -16,23 +16,19 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT、クロード、バードからAPIへ：）
+ * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 軽量なチャットGPTボットは、Next.jsとOpenAI Streaming APIを使用して構築されています。
 
 
 **CLIs**
- * [paperify](https://github.com/jstrieb/paperify) - どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）
+ * [cli](https://github.com/bashsenpai/cli) - BashSenpaiはChatGPTによって動作するターミナルアシスタントです。
 
 
-**NLP**
- * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - AIパワードのPython APIを使用して、ChatGPTとLLM（Large Language Model）アプリを使ってリアルタイムの売上を検索してください。
+**Openai**
+ * [cg](https://github.com/25077667/cg) - 無料でOpenAIのchatGPTを使用したコミット
+ * [ninja](https://github.com/gngpp/ninja) - 逆エンジニアリングされたChatGPTプロキシ
 
 
-**Others**
- * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT履歴書校正サービス
- * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - Live Conding The Futureの例を保存するために作成されたプロジェクト。Docker、Terraform、Bard、ChatGPTを使用してクラウド上にウェブアプリケーションをデプロイします。
-
-
-_Updated on September 13, 2023_ (A total of 1047 repositories listed.)
+_Updated on September 15, 2023_ (A total of 1051 repositories listed.)
 
 ## Table of contents
 
@@ -405,6 +401,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [rusty_llama](https://github.com/moonkraken/rusty_llama) - フロントエンドとバックエンドの両方でRustで作られたシンプルなChatGPTクローン。オープンソースの言語モデルとTailwindCSSを使用しています。
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Pythonコードインタプリタと他の複数の機能を備えた究極で無料のOpenAIプロバイダー、ChatGPTとGPT-4によってパワーアップされました！
  * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT、クロード、バードからAPIへ：）
+ * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 軽量なチャットGPTボットは、Next.jsとOpenAI Streaming APIを使用して構築されています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -541,7 +538,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
 |[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/moonkraken/rusty_llama?style=social)|Rust|mit|
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
-|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/Amm1rr/WebAI-to-API?style=social)|Python|mit|
+|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
+|[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
 
 
 ## Browser-extensions
@@ -881,6 +879,7 @@ ChatGPT Webのワンクリックデプロイメント
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - AI Playgrounds by E2Bによって提供されています。ChatGPT用のステロイドコードインタープリター。どんな言語でも、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
  * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - オープンソースで拡張可能（関数呼び出し可能）、高性能なチャットボットフレームワークです。プライベートなChatGPT/LLMウェブアプリケーションのワンクリック無料デプロイをサポートしています。
  * [paperify](https://github.com/jstrieb/paperify) - どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）
+ * [cli](https://github.com/bashsenpai/cli) - BashSenpaiはChatGPTによって動作するターミナルアシスタントです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -973,6 +972,7 @@ ChatGPT Webのワンクリックデプロイメント
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
 |[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
+|[cli](https://github.com/bashsenpai/cli)|![GitHub Repo stars](https://img.shields.io/github/stars/BashSenpai/cli?style=social)|Python|apache-2.0|
 
 
 ## Reimplementations
@@ -1358,7 +1358,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
-|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/Boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
+|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1623,6 +1623,8 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - オープンAIとChatGPTによって動作するカスタマイズ可能なレシピジェネレーター。Next.Js、Tailwind CSS、Radix UI、Supabase Clerkで構築されています。
  * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - OpenAI ChatGPTを使用してPythonのドックストリングを生成する！
  * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - チャットGPTのためのパワーツール
+ * [cg](https://github.com/25077667/cg) - 無料でOpenAIのchatGPTを使用したコミット
+ * [ninja](https://github.com/gngpp/ninja) - 逆エンジニアリングされたChatGPTプロキシ
 
 
 |Name|GitHub Stars|Language|License|
@@ -1731,6 +1733,8 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[chef-gpt](https://github.com/giacomogaglione/chef-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/giacomogaglione/chef-gpt?style=social)|TypeScript|mit|
 |[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/michaelistrofficus/gpt4docstrings?style=social)|Python|mit|
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
+|[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
+|[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
 
 
 ## Others
