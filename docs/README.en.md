@@ -17,23 +17,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT, Claude, Bard to API  : )
+ * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - Lightweight chatgpt bot built using Next.js and the OpenAI Streaming API. 一个使用 Next.js 和 OpenAI Streaming API 创建的简易ChatGPT聊天机器人
 
 
 **CLIs**
- * [paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
+ * [cli](https://github.com/bashsenpai/cli) - BashSenpai is a terminal assistant powered by ChatGPT.
 
 
-**NLP**
- * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - Find real-time sales with AI-powered Python API using ChatGPT and LLM (Large Language Model) App. 
+**Openai**
+ * [cg](https://github.com/25077667/cg) - The commit GPT using OpenAI's chatGPT for free
+ * [ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 
 
-**Others**
- * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT Resume Editing Service
- * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - Project created to save the examples from the Live Coding The Future. Deploying a web application in the cloud using Docker, Terraform, Bard, and ChatGPT.
-
-
-_Updated on September 13, 2023_ (A total of 1047 repositories listed.)
+_Updated on September 15, 2023_ (A total of 1051 repositories listed.)
 
 ## Table of contents
 
@@ -393,6 +389,7 @@ _Updated on September 13, 2023_ (A total of 1047 repositories listed.)
  * [rusty_llama](https://github.com/moonkraken/rusty_llama) - A simple ChatGPT clone in Rust on both the frontend and backend. Uses open source language models and TailwindCSS.
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!
  * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT, Claude, Bard to API  : )
+ * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - Lightweight chatgpt bot built using Next.js and the OpenAI Streaming API. 一个使用 Next.js 和 OpenAI Streaming API 创建的简易ChatGPT聊天机器人
 
 
 |Name|GitHub Stars|Language|License|
@@ -529,7 +526,8 @@ _Updated on September 13, 2023_ (A total of 1047 repositories listed.)
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
 |[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/moonkraken/rusty_llama?style=social)|Rust|mit|
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
-|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/Amm1rr/WebAI-to-API?style=social)|Python|mit|
+|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
+|[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
 
 
 ## Browser-extensions
@@ -866,6 +864,7 @@ _Updated on September 13, 2023_ (A total of 1047 repositories listed.)
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - Powered by AI Playgrounds by E2B. Code interpreter on steroids for ChatGPT. Run any language, any terminal process, use filesystem freely. All with access to the internet.
  * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.
  * [paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
+ * [cli](https://github.com/bashsenpai/cli) - BashSenpai is a terminal assistant powered by ChatGPT.
 
 
 |Name|GitHub Stars|Language|License|
@@ -958,6 +957,7 @@ _Updated on September 13, 2023_ (A total of 1047 repositories listed.)
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
 |[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
+|[cli](https://github.com/bashsenpai/cli)|![GitHub Repo stars](https://img.shields.io/github/stars/BashSenpai/cli?style=social)|Python|apache-2.0|
 
 
 ## Reimplementations
@@ -1339,7 +1339,7 @@ _Updated on September 13, 2023_ (A total of 1047 repositories listed.)
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
-|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/Boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
+|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1601,6 +1601,8 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
  * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - Customizable recipe generator powered by OpenAI and ChatGPT. Built with Next.Js Tailwind CSS Radix UI Supabase Clerk.
  * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - Generating Python docstrings with OpenAI ChatGPT!!
  * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - A Power Tool For ChatGPT
+ * [cg](https://github.com/25077667/cg) - The commit GPT using OpenAI's chatGPT for free
+ * [ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
 
 
 |Name|GitHub Stars|Language|License|
@@ -1709,6 +1711,8 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[chef-gpt](https://github.com/giacomogaglione/chef-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/giacomogaglione/chef-gpt?style=social)|TypeScript|mit|
 |[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/michaelistrofficus/gpt4docstrings?style=social)|Python|mit|
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
+|[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
+|[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
 
 
 ## Others

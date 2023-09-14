@@ -16,23 +16,19 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - 接著是我們要做什麼?
+ * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 輕巧的chatgptbot使用Next.js和OpenAI流動API建立. 一个使用Next.js和OpenAI流動API 创建的简易ChatGPT聊天机器人
 
 
 **CLIs**
- * [paperify](https://github.com/jstrieb/paperify) - 轉換任何文件,網頁或電子書成研究論文 (不需要ChatGPT)
+ * [cli](https://github.com/bashsenpai/cli) - 該網站的使用者必須使用此工具.
 
 
-**NLP**
- * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - 找到實時銷售與AI動力 Python API使用ChatGPT和LLM (大語言模型) 應用程式. 
+**Openai**
+ * [cg](https://github.com/25077667/cg) - 透過使用 OpenAI 的chatGPT,
+ * [ninja](https://github.com/gngpp/ninja) - 逆向工程 ChatGPT代理
 
 
-**Others**
- * [careerboost](https://github.com/dmswl98/careerboost) - 聊GPT的信件加入삭服務
- * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - 計畫旨在拯救未來生活環境的例子.
-
-
-_Updated on September 13, 2023_ (A total of 1047 repositories listed.)
+_Updated on September 15, 2023_ (A total of 1051 repositories listed.)
 
 ## Table of contents
 
@@ -395,6 +391,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [rusty_llama](https://github.com/moonkraken/rusty_llama) - 一個簡單的ChatGPT克隆版本，前端和後端都使用Rust語言開發。使用開源語言模型和TailwindCSS。
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - 終極且免費的OpenAI提供者，使用Python代碼解釋器和其他多個功能實現，由ChatGPT和GPT-4提供動力！
  * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT，Claude，Bard to API  : )
+ * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 使用Next.js和OpenAI Streaming API構建的輕量級ChatGPT聊天機器人。
 
 
 |Name|GitHub Stars|Language|License|
@@ -531,7 +528,8 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[rotary-gpt](https://github.com/tcz/rotary-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/tcz/rotary-gpt?style=social)|Python|mit|
 |[rusty_llama](https://github.com/moonkraken/rusty_llama)|![GitHub Repo stars](https://img.shields.io/github/stars/moonkraken/rusty_llama?style=social)|Rust|mit|
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
-|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/Amm1rr/WebAI-to-API?style=social)|Python|mit|
+|[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
+|[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
 
 
 ## Browser-extensions
@@ -868,6 +866,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - 由E2B提供的AI遊樂場驅動。ChatGPT的代碼解釋器增強版。運行任何語言，任何終端進程，自由使用文件系統。並且可以連接互聯網。
  * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - 一個開源、可擴展（函數調用）的高性能聊天機器人框架。它支持一鍵免費部署您的私人ChatGPT/LLM網絡應用程式。
  * [paperify](https://github.com/jstrieb/paperify) - 將任何文件、網頁或電子書轉換為研究論文（不需要ChatGPT）。
+ * [cli](https://github.com/bashsenpai/cli) - BashSenpai 是由 ChatGPT 驅動的終端助手。
 
 
 |Name|GitHub Stars|Language|License|
@@ -960,6 +959,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
 |[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
+|[cli](https://github.com/bashsenpai/cli)|![GitHub Repo stars](https://img.shields.io/github/stars/BashSenpai/cli?style=social)|Python|apache-2.0|
 
 
 ## Reimplementations
@@ -1348,7 +1348,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[jekyll-chatgpt-translate](https://github.com/yegor256/jekyll-chatgpt-translate)|![GitHub Repo stars](https://img.shields.io/github/stars/yegor256/jekyll-chatgpt-translate?style=social)|Ruby|mit|
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
-|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/Boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
+|[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 
 
 ## Langchain
@@ -1614,6 +1614,8 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
  * [chef-gpt](https://github.com/giacomogaglione/chef-gpt) - 可定制的食谱生成器，由OpenAI和ChatGPT驱动。使用Next.Js、Tailwind CSS、Radix UI、Supabase Clerk构建。
  * [gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings) - 使用OpenAI ChatGPT生成Python文檔字符串！！
  * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - 一個用於ChatGPT的強大工具
+ * [cg](https://github.com/25077667/cg) - 使用OpenAI的chatGPT免費提交
+ * [ninja](https://github.com/gngpp/ninja) - 逆向工程的ChatGPT代理
 
 
 |Name|GitHub Stars|Language|License|
@@ -1722,6 +1724,8 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[chef-gpt](https://github.com/giacomogaglione/chef-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/giacomogaglione/chef-gpt?style=social)|TypeScript|mit|
 |[gpt4docstrings](https://github.com/michaelistrofficus/gpt4docstrings)|![GitHub Repo stars](https://img.shields.io/github/stars/michaelistrofficus/gpt4docstrings?style=social)|Python|mit|
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
+|[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
+|[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
 
 
 ## Others
