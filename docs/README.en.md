@@ -16,20 +16,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - Lightweight chatgpt bot built using Next.js and the OpenAI Streaming API. 一个使用 Next.js 和 OpenAI Streaming API 创建的简易ChatGPT聊天机器人
+**Awesome-lists**
+ * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
 
 
-**CLIs**
- * [cli](https://github.com/bashsenpai/cli) - BashSenpai is a terminal assistant powered by ChatGPT.
+**Prompts**
+ * [openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 
 
-**Openai**
- * [cg](https://github.com/25077667/cg) - The commit GPT using OpenAI's chatGPT for free
- * [ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
+**Browser-extensions**
+ * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features
+ * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
 
 
-_Updated on September 15, 2023_ (A total of 1051 repositories listed.)
+**NLP**
+ * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基于【mtool】或【Translator++】，chatgpt自动批量翻译工具，主要是用来翻译各种RPG游戏。
+
+
+**Langchain**
+ * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - Input: ChatGPT has become popular and has taken a crucial step towards AGI. This project aims to gather open-source alternatives to ChatGPT, including large text models and multimodal models, to provide convenience for everyone.
+
+
+_Updated on September 18, 2023_ (A total of 1057 repositories listed.)
 
 ## Table of contents
 
@@ -73,6 +81,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
  * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - Awesome-LLM-Eval: a curated list of tools, demos, papers, docs for Evaluation on Large Language Models like ChatGPT, LLaMA, GLM
  * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!
  * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
+ * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
 
 
 |Name|GitHub Stars|Language|License|
@@ -102,6 +111,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
 |[Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval)|![GitHub Repo stars](https://img.shields.io/github/stars/onejune2018/Awesome-LLM-Eval?style=social)|-|mit|
 |[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
 |[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
+|[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset?style=social)|-|-|
 
 
 ## Prompts
@@ -177,6 +187,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
  * [InstructZero](https://github.com/lichang-chen/instructzero) - Official Implementation of InstructZero; the first framework to optimize bad prompts of ChatGPT(API LLMs) and finally obtain good prompts!
  * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版
  * [chat-key](https://github.com/overflowy/chat-key) - Supercharge your productivity with ChatGPT and AutoHotkey 🚀
+ * [openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 
 
 |Name|GitHub Stars|Language|License|
@@ -252,6 +263,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
 |[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
 |[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
+|[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
 
 
 ## Chatbots
@@ -650,6 +662,8 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
  * [openai.mini](https://github.com/llmapp/openai.mini) - Implement OpenAI APIs and plugin-enabled ChatGPT with open source LLM and other models.
  * [openplugin](https://github.com/openpluginaci/openplugin) - Seamlessly integrate with OpenAI's ChatGPT plugins via API (or client), offering the same powerful functionality as the ChatGPT api + plugins!
  * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - ChatGPT in windows including AIPRM in it ( for people who can't install it on firefox )
+ * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features
+ * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -772,6 +786,8 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
 |[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
 |[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
+|[superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/saeedezzati/superpower-chatgpt?style=social)|JavaScript|-|
+|[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1nDump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
 
 
 ## CLIs
@@ -957,7 +973,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
 |[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
-|[cli](https://github.com/bashsenpai/cli)|![GitHub Repo stars](https://img.shields.io/github/stars/BashSenpai/cli?style=social)|Python|apache-2.0|
+|[cli](https://github.com/bashsenpai/cli)|![GitHub Repo stars](https://img.shields.io/github/stars/bashsenpai/cli?style=social)|Python|apache-2.0|
 
 
 ## Reimplementations
@@ -1184,6 +1200,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
  * [autotranslate](https://github.com/lewangdev/autotranslate) - Videos Transcription and Translation with Faster Whisper and ChatGPT
  * [nextlint](https://github.com/sveltor/nextlint) - A rich text editor,  notion like Editor, build with svelte + tiptap. Enhance writing experiences with ChatGPT
  * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - Find real-time sales with AI-powered Python API using ChatGPT and LLM (Large Language Model) App. 
+ * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基于【mtool】或【Translator++】，chatgpt自动批量翻译工具，主要是用来翻译各种RPG游戏。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1340,6 +1357,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
+|[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NEKOparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
 
 
 ## Langchain
@@ -1404,6 +1422,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
  * [Zhongjing](https://github.com/suprityoung/zhongjing) - A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset.
  * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
  * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - Easy to hack template for your next chatGPT app with Gradio and Langchain
+ * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - Input: ChatGPT has become popular and has taken a crucial step towards AGI. This project aims to gather open-source alternatives to ChatGPT, including large text models and multimodal models, to provide convenience for everyone.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1468,6 +1487,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
 |[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/francescosaveriozuppichini/gradioGPT?style=social)|Python|-|
+|[FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter)|![GitHub Repo stars](https://img.shields.io/github/stars/chenking2020/FindTheChatGPTer?style=social)|-|-|
 
 
 ## Unity

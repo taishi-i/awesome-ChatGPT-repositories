@@ -15,20 +15,28 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 軽量なチャットGPTボットは、Next.jsとOpenAI Streaming APIを使用して構築されています。
+**Awesome-lists**
+ * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 指示に従うためのオープンソースデータセットのコレクション（ChatGPT、LLaMA、Alpaca）
 
 
-**CLIs**
- * [cli](https://github.com/bashsenpai/cli) - BashSenpaiはChatGPTによって動作するターミナルアシスタントです。
+**Prompts**
+ * [openprompt.co](https://github.com/timqian/openprompt.co) - 作成する。使用する。共有する。ChatGPTのプロンプト
 
 
-**Openai**
- * [cg](https://github.com/25077667/cg) - 無料でOpenAIのchatGPTを使用したコミット
- * [ninja](https://github.com/gngpp/ninja) - 逆エンジニアリングされたChatGPTプロキシ
+**Browser-extensions**
+ * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - 超能力を持ったChatGPT！チャット履歴の検索、フォルダの作成、すべてのチャットのエクスポート、メッセージのピン留め、数千のコミュニティプロンプトへのアクセス、インコグニートモード、言語とトーンの選択、さらに多くの機能があります。
+ * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - ChatGPTで図を作成および編集する
 
 
-_Updated on September 15, 2023_ (A total of 1051 repositories listed.)
+**NLP**
+ * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 【mtool】または【Translator++】に基づく、chatgpt自動バッチ翻訳ツールで、主にさまざまなRPGゲームの翻訳に使用されます。
+
+
+**Langchain**
+ * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPTが大人気で、AGIへの鍵となる重要な一歩を踏み出しました。このプロジェクトは、ChatGPTのオープンソースの代替品、テキストモデル、マルチモーダルモデルなどをまとめ、皆さんに便利を提供することを目的としています。
+
+
+_Updated on September 18, 2023_ (A total of 1057 repositories listed.)
 
 ## Table of contents
 
@@ -73,6 +81,7 @@ _Updated on September 15, 2023_ (A total of 1051 repositories listed.)
  * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - LLMの力を解放しましょう：これらのデータセットを使って独自のChatGPTをトレーニングしましょう！
  * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
 GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
+ * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 指示に従うためのオープンソースデータセットのコレクション（ChatGPT、LLaMA、Alpaca）
 
 
 |Name|GitHub Stars|Language|License|
@@ -102,6 +111,7 @@ GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェク�
 |[Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval)|![GitHub Repo stars](https://img.shields.io/github/stars/onejune2018/Awesome-LLM-Eval?style=social)|-|mit|
 |[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
 |[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
+|[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset?style=social)|-|-|
 
 
 ## Prompts
@@ -186,6 +196,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [InstructZero](https://github.com/lichang-chen/instructzero) - 公式実装：InstructZeroの導入。ChatGPT（API LLMs）の悪いプロンプトを最適化し、最終的に良いプロンプトを得るための最初のフレームワークです！
  * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》コース中英版
  * [chat-key](https://github.com/overflowy/chat-key) - ChatGPTとAutoHotkeyで生産性を大幅に向上させましょう 🚀
+ * [openprompt.co](https://github.com/timqian/openprompt.co) - 作成する。使用する。共有する。ChatGPTのプロンプト
 
 
 |Name|GitHub Stars|Language|License|
@@ -261,6 +272,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
 |[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
+|[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
 
 
 ## Chatbots
@@ -663,6 +675,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連携可能なChatGPTを作成します。
  * [openplugin](https://github.com/openpluginaci/openplugin) - API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
  * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - AIPRMを含むWindowsのChatGPT（Firefoxにインストールできない人向け）
+ * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - 超能力を持ったChatGPT！チャット履歴の検索、フォルダの作成、すべてのチャットのエクスポート、メッセージのピン留め、数千のコミュニティプロンプトへのアクセス、インコグニートモード、言語とトーンの選択、さらに多くの機能があります。
+ * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - ChatGPTで図を作成および編集する
 
 
 |Name|GitHub Stars|Language|License|
@@ -785,6 +799,8 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
 |[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
 |[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
+|[superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/saeedezzati/superpower-chatgpt?style=social)|JavaScript|-|
+|[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1nDump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
 
 
 ## CLIs
@@ -972,7 +988,7 @@ ChatGPT Webのワンクリックデプロイメント
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
 |[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
-|[cli](https://github.com/bashsenpai/cli)|![GitHub Repo stars](https://img.shields.io/github/stars/BashSenpai/cli?style=social)|Python|apache-2.0|
+|[cli](https://github.com/bashsenpai/cli)|![GitHub Repo stars](https://img.shields.io/github/stars/bashsenpai/cli?style=social)|Python|apache-2.0|
 
 
 ## Reimplementations
@@ -1203,6 +1219,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [autotranslate](https://github.com/lewangdev/autotranslate) - ビデオの転写と翻訳を、より速いささやき音声とChatGPTで行います。
  * [nextlint](https://github.com/sveltor/nextlint) - Svelte + tiptapで構築された、Notionのようなリッチテキストエディタ。ChatGPTを使用して、執筆体験を向上させます。
  * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - AIパワードのPython APIを使用して、ChatGPTとLLM（Large Language Model）アプリを使ってリアルタイムの売上を検索してください。
+ * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 【mtool】または【Translator++】に基づく、chatgpt自動バッチ翻訳ツールで、主にさまざまなRPGゲームの翻訳に使用されます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1359,6 +1376,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
+|[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NEKOparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
 
 
 ## Langchain
@@ -1425,6 +1443,7 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされています。
  * [opencompass](https://github.com/open-compass/opencompass) - OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
  * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - GradioとLangchainを使用した、次のChatGPTアプリのための簡単にハッキングできるテンプレート。
+ * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPTが大人気で、AGIへの鍵となる重要な一歩を踏み出しました。このプロジェクトは、ChatGPTのオープンソースの代替品、テキストモデル、マルチモーダルモデルなどをまとめ、皆さんに便利を提供することを目的としています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1489,6 +1508,7 @@ LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習�
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
 |[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/francescosaveriozuppichini/gradioGPT?style=social)|Python|-|
+|[FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter)|![GitHub Repo stars](https://img.shields.io/github/stars/chenking2020/FindTheChatGPTer?style=social)|-|-|
 
 
 ## Unity

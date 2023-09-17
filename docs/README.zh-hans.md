@@ -15,20 +15,28 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 轻量级的chatgpt机器人使用Next.js和OpenAI流媒体API构建. 一个使用Next.js和OpenAI流媒体API创建的简易ChatGPT聊天机器人
+**Awesome-lists**
+ * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 开源数据集,用于培训遵循指令的法学专业人员 (ChatGPT,LLaMA,Alpaca)
 
 
-**CLIs**
- * [cli](https://github.com/bashsenpai/cli) - BashSenpai是一个由ChatGPT驱动的终端助理.
+**Prompts**
+ * [openprompt.co](https://github.com/timqian/openprompt.co) - 创建. 使用. 分享. 聊天GPT提示
 
 
-**Openai**
- * [cg](https://github.com/25077667/cg) - 提交 GPT 使用 OpenAI 的 chatGPT 免费
- * [ninja](https://github.com/gngpp/ninja) - 逆向工程 ChatGPT代理
+**Browser-extensions**
+ * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - 搜索聊天历史,创建文件,导出所有聊天,编码消息,访问数千个社区提示,隐形模式,语言和音调选择,以及更多功能
+ * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - 在 ChatGPT 中创建和编辑图表
 
 
-_Updated on September 15, 2023_ (A total of 1051 repositories listed.)
+**NLP**
+ * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基于mtool或Translator++的自动批量翻译工具,主要是用来翻译各种RPG游戏.
+
+
+**Langchain**
+ * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - 开启了通往AGI的关键步骤,本项目旨在汇集那些ChatGPT的开源平面,包括文本大模型,多模态大模型等,为大家提供一些便利.
+
+
+_Updated on September 18, 2023_ (A total of 1057 repositories listed.)
 
 ## Table of contents
 
@@ -73,6 +81,7 @@ ChatGPT资料汇总学习，持续更新......
  * [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - 令人惊叹的LLM评估：一个精选的工具、演示、论文、文档列表，用于评估像ChatGPT、LLaMA、GLM这样的大型语言模型。
  * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - 解锁LLM的力量：探索这些数据集，训练您自己的ChatGPT！
  * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - 一个精选的与GPT、ChatGPT、OpenAI、LLM等相关的令人惊叹的项目和资源列表。
+ * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 一个用于训练指令跟随LLM（ChatGPT、LLaMA、Alpaca）的开源数据集合。
 
 
 |Name|GitHub Stars|Language|License|
@@ -102,6 +111,7 @@ ChatGPT资料汇总学习，持续更新......
 |[Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval)|![GitHub Repo stars](https://img.shields.io/github/stars/onejune2018/Awesome-LLM-Eval?style=social)|-|mit|
 |[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
 |[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
+|[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset?style=social)|-|-|
 
 
 ## Prompts
@@ -179,6 +189,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [InstructZero](https://github.com/lichang-chen/instructzero) - 正式实施InstructZero；这是第一个优化ChatGPT(API LLMs)糟糕提示并最终获得良好提示的框架！
  * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版
  * [chat-key](https://github.com/overflowy/chat-key) - 使用ChatGPT和AutoHotkey来提高您的生产力 🚀
+ * [openprompt.co](https://github.com/timqian/openprompt.co) - 创建。使用。分享。ChatGPT提示
 
 
 |Name|GitHub Stars|Language|License|
@@ -254,6 +265,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[InstructZero](https://github.com/lichang-chen/instructzero)|![GitHub Repo stars](https://img.shields.io/github/stars/lichang-chen/InstructZero?style=social)|Python|-|
 |[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
+|[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
 
 
 ## Chatbots
@@ -655,6 +667,8 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [openai.mini](https://github.com/llmapp/openai.mini) - 实现使用开源LLM和其他模型的OpenAI API和插件可用的ChatGPT。
  * [openplugin](https://github.com/openpluginaci/openplugin) - 通过API（或客户端）与OpenAI的ChatGPT插件无缝集成，提供与ChatGPT api +插件相同的强大功能！
  * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - 在Windows上使用ChatGPT，包括其中的AIPRM（适用于无法在Firefox上安装的用户）
+ * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT具备超能力！搜索聊天记录，创建文件夹，导出所有聊天记录，置顶消息，访问成千上万的社区提示，隐身模式，选择语言和语气，以及许多其他功能。
+ * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - 在ChatGPT中创建和编辑图表
 
 
 |Name|GitHub Stars|Language|License|
@@ -777,6 +791,8 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[openai.mini](https://github.com/llmapp/openai.mini)|![GitHub Repo stars](https://img.shields.io/github/stars/llmapp/openai.mini?style=social)|TypeScript|mit|
 |[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
 |[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
+|[superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/saeedezzati/superpower-chatgpt?style=social)|JavaScript|-|
+|[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1nDump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
 
 
 ## CLIs
@@ -962,7 +978,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/e2b-dev/llm-code-interpreter?style=social)|TypeScript|mit|
 |[lobe-chat](https://github.com/lobehub/lobe-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=social)|TypeScript|mit|
 |[paperify](https://github.com/jstrieb/paperify)|![GitHub Repo stars](https://img.shields.io/github/stars/jstrieb/paperify?style=social)|Shell|mit|
-|[cli](https://github.com/bashsenpai/cli)|![GitHub Repo stars](https://img.shields.io/github/stars/BashSenpai/cli?style=social)|Python|apache-2.0|
+|[cli](https://github.com/bashsenpai/cli)|![GitHub Repo stars](https://img.shields.io/github/stars/bashsenpai/cli?style=social)|Python|apache-2.0|
 
 
 ## Reimplementations
@@ -1192,6 +1208,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [autotranslate](https://github.com/lewangdev/autotranslate) - 视频转录和翻译，更快的耳语和ChatGPT
  * [nextlint](https://github.com/sveltor/nextlint) - 一个富文本编辑器，类似于Notion的编辑器，使用Svelte + Tiptap构建。通过ChatGPT提升写作体验。
  * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - 使用ChatGPT和LLM（大型语言模型）应用程序，通过AI驱动的Python API查找实时销售数据。
+ * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基于【mtool】或【Translator++】的chatgpt自动批量翻译工具，主要用于翻译各种RPG游戏。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1348,6 +1365,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
+|[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NEKOparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
 
 
 ## Langchain
@@ -1412,6 +1430,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [Zhongjing](https://github.com/suprityoung/zhongjing) - 一个基于LLaMa的中文医学ChatGPT，通过大规模预训练语料库和多轮对话数据集进行训练。
  * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude等）。
  * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - 使用Gradio和Langchain创建下一个ChatGPT应用的易于入侵的模板。
+ * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平台们，包括文本大模型、多模态大模型等，为大家提供一些便利。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1476,6 +1495,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[Zhongjing](https://github.com/suprityoung/zhongjing)|![GitHub Repo stars](https://img.shields.io/github/stars/suprityoung/Zhongjing?style=social)|Shell|apache-2.0|
 |[opencompass](https://github.com/open-compass/opencompass)|![GitHub Repo stars](https://img.shields.io/github/stars/open-compass/opencompass?style=social)|Python|apache-2.0|
 |[gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt)|![GitHub Repo stars](https://img.shields.io/github/stars/francescosaveriozuppichini/gradioGPT?style=social)|Python|-|
+|[FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter)|![GitHub Repo stars](https://img.shields.io/github/stars/chenking2020/FindTheChatGPTer?style=social)|-|-|
 
 
 ## Unity
