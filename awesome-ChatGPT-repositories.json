@@ -532,6 +532,29 @@
                     "zh-hans": "一个精选的与GPT、ChatGPT、OpenAI、LLM等相关的令人惊叹的项目和资源列表。",
                     "zh-hant": "一個精心挑選的與GPT、ChatGPT、OpenAI、LLM等相關的令人驚嘆的項目和資源清單。"
                 }
+            },
+            "https://github.com/yaodongc/awesome-instruction-dataset": {
+                "repository_name": "awesome-instruction-dataset",
+                "user_name": "yaodongC",
+                "language": null,
+                "license": null,
+                "description": "A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)",
+                "topics": [
+                    "awsome-lists",
+                    "datasets",
+                    "gpt-3",
+                    "gpt-4",
+                    "instruction-following",
+                    "instruction-tuning",
+                    "language-model",
+                    "llama"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)",
+                    "ja": "指示に従うためのオープンソースデータセットのコレクション（ChatGPT、LLaMA、Alpaca）",
+                    "zh-hans": "一个用于训练指令跟随LLM（ChatGPT、LLaMA、Alpaca）的开源数据集合。",
+                    "zh-hant": "一個開源數據集的收藏，用於訓練指令遵從的LLMs（ChatGPT，LLaMA，Alpaca）。"
+                }
             }
         },
         "Prompts": {
@@ -1896,6 +1919,31 @@
                     "ja": "ChatGPTとAutoHotkeyで生産性を大幅に向上させましょう 🚀",
                     "zh-hans": "使用ChatGPT和AutoHotkey来提高您的生产力 🚀",
                     "zh-hant": "使用ChatGPT和AutoHotkey提升您的生產力 🚀"
+                }
+            },
+            "https://github.com/timqian/openprompt.co": {
+                "repository_name": "openprompt.co",
+                "user_name": "timqian",
+                "language": "JavaScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "Create. Use. Share. ChatGPT prompts",
+                "topics": [
+                    "chatgpt",
+                    "prompt",
+                    "prompt-engineering",
+                    "prompt-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create. Use. Share. ChatGPT prompts",
+                    "ja": "作成する。使用する。共有する。ChatGPTのプロンプト",
+                    "zh-hans": "创建。使用。分享。ChatGPT提示",
+                    "zh-hant": "創建。使用。分享。ChatGPT提示"
                 }
             }
         },
@@ -7315,6 +7363,39 @@
                     "ja": "AIPRMを含むWindowsのChatGPT（Firefoxにインストールできない人向け）",
                     "zh-hans": "在Windows上使用ChatGPT，包括其中的AIPRM（适用于无法在Firefox上安装的用户）",
                     "zh-hant": "在 Windows 上的 ChatGPT 中包含 AIPRM（供無法在 Firefox 上安裝的人使用）"
+                }
+            },
+            "https://github.com/saeedezzati/superpower-chatgpt": {
+                "repository_name": "superpower-chatgpt",
+                "user_name": "saeedezzati",
+                "language": "JavaScript",
+                "license": null,
+                "description": "ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features",
+                "topics": [
+                    "chrome-extension",
+                    "firefox-addon",
+                    "firefox-extension",
+                    "productivity"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features",
+                    "ja": "超能力を持ったChatGPT！チャット履歴の検索、フォルダの作成、すべてのチャットのエクスポート、メッセージのピン留め、数千のコミュニティプロンプトへのアクセス、インコグニートモード、言語とトーンの選択、さらに多くの機能があります。",
+                    "zh-hans": "ChatGPT具备超能力！搜索聊天记录，创建文件夹，导出所有聊天记录，置顶消息，访问成千上万的社区提示，隐身模式，选择语言和语气，以及许多其他功能。",
+                    "zh-hant": "具有超能力的ChatGPT！搜索聊天記錄，建立文件夾，導出所有聊天，置頂訊息，訪問數千個社群提示，隱身模式，語言和語氣選擇，以及更多功能。"
+                }
+            },
+            "https://github.com/bra1ndump/show-me-chatgpt-plugin": {
+                "repository_name": "show-me-chatgpt-plugin",
+                "user_name": "bra1nDump",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Create and edit diagrams in ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Create and edit diagrams in ChatGPT",
+                    "ja": "ChatGPTで図を作成および編集する",
+                    "zh-hans": "在ChatGPT中创建和编辑图表",
+                    "zh-hant": "在ChatGPT中創建和編輯圖表"
                 }
             }
         },
@@ -12753,6 +12834,26 @@
                     "zh-hans": "使用ChatGPT和LLM（大型语言模型）应用程序，通过AI驱动的Python API查找实时销售数据。",
                     "zh-hant": "使用ChatGPT和LLM（大型語言模型）應用程式，利用AI驅動的Python API尋找即時銷售。"
                 }
+            },
+            "https://github.com/nekoparapa/ainiee-chatgpt": {
+                "repository_name": "AiNiee-chatgpt",
+                "user_name": "NEKOparapa",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "一款基于【mtool】或【Translator++】，chatgpt自动批量翻译工具，主要是用来翻译各种RPG游戏。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "一款基于【mtool】或【Translator++】，chatgpt自动批量翻译工具，主要是用来翻译各种RPG游戏。",
+                    "ja": "【mtool】または【Translator++】に基づく、chatgpt自動バッチ翻訳ツールで、主にさまざまなRPGゲームの翻訳に使用されます。",
+                    "zh-hans": "一款基于【mtool】或【Translator++】的chatgpt自动批量翻译工具，主要用于翻译各种RPG游戏。",
+                    "zh-hant": "一款基於【mtool】或【Translator++】的chatgpt自動批量翻譯工具，主要用於翻譯各種RPG遊戲。"
+                }
             }
         },
         "Langchain": {
@@ -14045,6 +14146,41 @@
                     "ja": "GradioとLangchainを使用した、次のChatGPTアプリのための簡単にハッキングできるテンプレート。",
                     "zh-hans": "使用Gradio和Langchain创建下一个ChatGPT应用的易于入侵的模板。",
                     "zh-hant": "使用Gradio和Langchain的下一個ChatGPT應用程式的易於入侵的模板"
+                }
+            },
+            "https://github.com/chenking2020/findthechatgpter": {
+                "repository_name": "FindTheChatGPTer",
+                "user_name": "chenking2020",
+                "language": null,
+                "license": null,
+                "description": "ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平替们，包括文本大模型、多模态大模型等，为大家提供一些便利",
+                "topics": [
+                    "agi",
+                    "alpaca",
+                    "autogpt",
+                    "baichuan",
+                    "belle",
+                    "ceval",
+                    "chatglm",
+                    "chatgpt",
+                    "codi",
+                    "guanaco",
+                    "learderboard",
+                    "linly",
+                    "llama",
+                    "llama2",
+                    "llava",
+                    "lora",
+                    "minigpt4",
+                    "self-instruct",
+                    "vicuna",
+                    "wizadlm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGPT has become popular and has taken a crucial step towards AGI. This project aims to gather open-source alternatives to ChatGPT, including large text models and multimodal models, to provide convenience for everyone.",
+                    "ja": "ChatGPTが大人気で、AGIへの鍵となる重要な一歩を踏み出しました。このプロジェクトは、ChatGPTのオープンソースの代替品、テキストモデル、マルチモーダルモデルなどをまとめ、皆さんに便利を提供することを目的としています。",
+                    "zh-hans": "ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平台们，包括文本大模型、多模态大模型等，为大家提供一些便利。",
+                    "zh-hant": "ChatGPT爆火，開啟了通往AGI的關鍵一步，本專案旨在匯總那些ChatGPT的開源平替們，包括文本大模型、多模態大模型等，為大家提供一些便利。"
                 }
             }
         },
