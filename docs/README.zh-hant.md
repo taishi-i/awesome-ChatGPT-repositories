@@ -15,28 +15,24 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 提供開放源代碼的數據集,
-
-
 **Prompts**
- * [openprompt.co](https://github.com/timqian/openprompt.co) - 創建.使用.分享.
+ * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - 提供了 LangChain & Prompt 工程教程, 提供了 ChatGPT 等大型語言模型 (LLM) 的教程. Jupyter 筆記本, 提供了資料加載和索引, 建立提示模板, CSV 代理, 並使用查詢自訂數據的檢索QA鎖. 專用 LLM (Llama 2) 進行PDF檔案聊天, 微博情緒分析.
 
 
 **Browser-extensions**
- * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - 搜尋聊天歷史,創建資料,輸出所有聊天,訊息,访问數千個社群提示,隱形模式,語言和音調選擇,以及更多功能
- * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - 在 ChatGPT 建立和編輯圖表
+ * [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - 提供 ChatGPT 使用網頁覽, Python 代碼執行和自訂插件的能力的 Repo
 
 
 **NLP**
- * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基于mtool或Translator++的自動批量翻譯工具,主要是用来翻譯各種RPG遊戲.
+ * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 一個專為大型語言模型設計的轉發服務 · 一鍵部署你的私人AI代理 · LLM代理 · OpenAI API逆向代理 
 
 
-**Langchain**
- * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - 這項計畫旨在將這些ChatGPT的開源平臺,包括文本大模型,多模態大模型等,
+**Others**
+ * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - 聊天GPT 管理端-解字
+ * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基于JDK8的AI聊天機器人!微信公眾號Midjourney圖片、卡密換、網頁支持ChatGPT、Midjourney圖片、sd圖片,卡密換,易付,公眾號引流,郵件註冊🔥
 
 
-_Updated on September 18, 2023_ (A total of 1057 repositories listed.)
+_Updated on September 20, 2023_ (A total of 1062 repositories listed.)
 
 ## Table of contents
 
@@ -110,7 +106,7 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
 |[Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval)|![GitHub Repo stars](https://img.shields.io/github/stars/onejune2018/Awesome-LLM-Eval?style=social)|-|mit|
 |[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
 |[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
-|[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset?style=social)|-|-|
+|[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongc/awesome-instruction-dataset?style=social)|-|-|
 
 
 ## Prompts
@@ -189,6 +185,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吳恩達《ChatGPT Prompt Engineering for Developers》課程中英版
  * [chat-key](https://github.com/overflowy/chat-key) - 使用ChatGPT和AutoHotkey提升您的生產力 🚀
  * [openprompt.co](https://github.com/timqian/openprompt.co) - 創建。使用。分享。ChatGPT提示
+ * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - 關於使用自定義數據的大型語言模型（LLMs）如ChatGPT的LangChain和Prompt工程教程。Jupyter筆記本教學，包括加載和索引數據，創建提示模板，CSV代理，以及使用檢索QA鏈來查詢自定義數據。項目涉及使用私有LLM（Llama 2）進行聊天和對PDF文件、推文情感分析。
 
 
 |Name|GitHub Stars|Language|License|
@@ -265,6 +262,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
 |[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
+|[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
 
 
 ## Chatbots
@@ -666,6 +664,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - 在 Windows 上的 ChatGPT 中包含 AIPRM（供無法在 Firefox 上安裝的人使用）
  * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - 具有超能力的ChatGPT！搜索聊天記錄，建立文件夾，導出所有聊天，置頂訊息，訪問數千個社群提示，隱身模式，語言和語氣選擇，以及更多功能。
  * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - 在ChatGPT中創建和編輯圖表
+ * [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - 用於讓ChatGPT具備網頁瀏覽、Python程式碼執行和自定義插件功能的存儲庫
 
 
 |Name|GitHub Stars|Language|License|
@@ -789,7 +788,8 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
 |[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
 |[superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/saeedezzati/superpower-chatgpt?style=social)|JavaScript|-|
-|[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1nDump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
+|[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1ndump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
+|[ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/serp-ai/ChatGPT-Plugins?style=social)|Python|-|
 
 
 ## CLIs
@@ -1210,6 +1210,7 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [nextlint](https://github.com/sveltor/nextlint) - 一個豐富的文字編輯器，類似於Notion的編輯器，使用Svelte + Tiptap構建。通過ChatGPT提升寫作體驗。
  * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - 使用ChatGPT和LLM（大型語言模型）應用程式，利用AI驅動的Python API尋找即時銷售。
  * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基於【mtool】或【Translator++】的chatgpt自動批量翻譯工具，主要用於翻譯各種RPG遊戲。
+ * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 🚀 一個專為大型語言模型設計的轉發服務 · 一鍵部署你的私人AI代理 · LLM Proxy · OpenAI API反向代理
 
 
 |Name|GitHub Stars|Language|License|
@@ -1366,7 +1367,8 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
-|[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NEKOparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
+|[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nekoparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
+|[openai-forward](https://github.com/beidongjiedeguang/openai-forward)|![GitHub Repo stars](https://img.shields.io/github/stars/beidongjiedeguang/openai-forward?style=social)|Python|mit|
 
 
 ## Langchain
@@ -2034,6 +2036,8 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [humanify](https://github.com/jehna/humanify) - 使用ChatGPT解碼未壓縮的Javascript代碼
  * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT 履歷校對服務
  * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - 項目創建用於保存Live Conding The Future的示例。使用Docker、Terraform、Bard和ChatGPT在雲端部署Web應用程式。
+ * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - ChatGPT 管理端-解字
+ * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基於JDK8 AI 聊天機器人！微信公眾號 Midjourney畫圖、卡密兌換、web 支持ChatGPT、Midjourney畫圖、sd畫圖，卡密兌換，易支付，公眾號引流，郵件註冊🔥
 
 
 |Name|GitHub Stars|Language|License|
@@ -2311,5 +2315,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[humanify](https://github.com/jehna/humanify)|![GitHub Repo stars](https://img.shields.io/github/stars/jehna/humanify?style=social)|TypeScript|mit|
 |[careerboost](https://github.com/dmswl98/careerboost)|![GitHub Repo stars](https://img.shields.io/github/stars/dmswl98/careerboost?style=social)|TypeScript|-|
 |[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
+|[chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/chatgpt-jiezi?style=social)|Vue|apache-2.0|
+|[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
 
 
