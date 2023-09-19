@@ -16,28 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
-
-
 **Prompts**
- * [openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
+ * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.
 
 
 **Browser-extensions**
- * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features
- * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
+ * [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - Repo for giving ChatGPT the ability to use web browsing, python code execution, and custom plugins
 
 
 **NLP**
- * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基于【mtool】或【Translator++】，chatgpt自动批量翻译工具，主要是用来翻译各种RPG游戏。
+ * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 🚀 一个专为大型语言模型设计的转发服务 ·  一键部署你的私人AI代理 · LLM Proxy · OpenAI API Reverse Proxy 
 
 
-**Langchain**
- * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平替们，包括文本大模型、多模态大模型等，为大家提供一些便利
+**Others**
+ * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - ChatGPT 管理端-解字
+ * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥
 
 
-_Updated on September 18, 2023_ (A total of 1057 repositories listed.)
+_Updated on September 20, 2023_ (A total of 1062 repositories listed.)
 
 ## Table of contents
 
@@ -111,7 +107,7 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
 |[Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval)|![GitHub Repo stars](https://img.shields.io/github/stars/onejune2018/Awesome-LLM-Eval?style=social)|-|mit|
 |[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
 |[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
-|[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongC/awesome-instruction-dataset?style=social)|-|-|
+|[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongc/awesome-instruction-dataset?style=social)|-|-|
 
 
 ## Prompts
@@ -188,6 +184,7 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
  * [chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中英版
  * [chat-key](https://github.com/overflowy/chat-key) - Supercharge your productivity with ChatGPT and AutoHotkey 🚀
  * [openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
+ * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.
 
 
 |Name|GitHub Stars|Language|License|
@@ -264,6 +261,7 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
 |[chatgpt-prompt-engineering-for-developers](https://github.com/kevin-free/chatgpt-prompt-engineering-for-developers)|![GitHub Repo stars](https://img.shields.io/github/stars/kevin-free/chatgpt-prompt-engineering-for-developers?style=social)|Jupyter Notebook|-|
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
 |[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
+|[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
 
 
 ## Chatbots
@@ -664,6 +662,7 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
  * [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - ChatGPT in windows including AIPRM in it ( for people who can't install it on firefox )
  * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features
  * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - Create and edit diagrams in ChatGPT
+ * [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - Repo for giving ChatGPT the ability to use web browsing, python code execution, and custom plugins
 
 
 |Name|GitHub Stars|Language|License|
@@ -787,7 +786,8 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
 |[openplugin](https://github.com/openpluginaci/openplugin)|![GitHub Repo stars](https://img.shields.io/github/stars/openpluginaci/openplugin?style=social)|Python|apache-2.0|
 |[chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop)|![GitHub Repo stars](https://img.shields.io/github/stars/inplex-sys/chatgpt-desktop?style=social)|JavaScript|-|
 |[superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/saeedezzati/superpower-chatgpt?style=social)|JavaScript|-|
-|[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1nDump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
+|[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1ndump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
+|[ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/serp-ai/ChatGPT-Plugins?style=social)|Python|-|
 
 
 ## CLIs
@@ -1201,6 +1201,7 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
  * [nextlint](https://github.com/sveltor/nextlint) - A rich text editor,  notion like Editor, build with svelte + tiptap. Enhance writing experiences with ChatGPT
  * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - Find real-time sales with AI-powered Python API using ChatGPT and LLM (Large Language Model) App.
  * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基于【mtool】或【Translator++】，chatgpt自动批量翻译工具，主要是用来翻译各种RPG游戏。
+ * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 🚀 一个专为大型语言模型设计的转发服务 ·  一键部署你的私人AI代理 · LLM Proxy · OpenAI API Reverse Proxy 
 
 
 |Name|GitHub Stars|Language|License|
@@ -1357,7 +1358,8 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
 |[autotranslate](https://github.com/lewangdev/autotranslate)|![GitHub Repo stars](https://img.shields.io/github/stars/lewangdev/autotranslate?style=social)|Jupyter Notebook|apache-2.0|
 |[nextlint](https://github.com/sveltor/nextlint)|![GitHub Repo stars](https://img.shields.io/github/stars/sveltor/nextlint?style=social)|TypeScript|mit|
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
-|[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/NEKOparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
+|[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nekoparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
+|[openai-forward](https://github.com/beidongjiedeguang/openai-forward)|![GitHub Repo stars](https://img.shields.io/github/stars/beidongjiedeguang/openai-forward?style=social)|Python|mit|
 
 
 ## Langchain
@@ -2009,6 +2011,8 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
  * [humanify](https://github.com/jehna/humanify) - Un-minify Javascript code using ChatGPT
  * [careerboost](https://github.com/dmswl98/careerboost) - 📝 chatGPT 이력서 첨삭 서비스
  * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - Projeto Criado para salvar os Exemplos da Live Conding The Future. Realizando deploy de uma aplicação web em cloud com Docker, Terraform, Bard e ChatGPT
+ * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - ChatGPT 管理端-解字
+ * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥
 
 
 |Name|GitHub Stars|Language|License|
@@ -2286,5 +2290,7 @@ _Updated on September 18, 2023_ (A total of 1057 repositories listed.)
 |[humanify](https://github.com/jehna/humanify)|![GitHub Repo stars](https://img.shields.io/github/stars/jehna/humanify?style=social)|TypeScript|mit|
 |[careerboost](https://github.com/dmswl98/careerboost)|![GitHub Repo stars](https://img.shields.io/github/stars/dmswl98/careerboost?style=social)|TypeScript|-|
 |[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
+|[chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/chatgpt-jiezi?style=social)|Vue|apache-2.0|
+|[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
 
 

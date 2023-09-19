@@ -1945,6 +1945,39 @@
                     "zh-hans": "创建。使用。分享。ChatGPT提示",
                     "zh-hant": "創建。使用。分享。ChatGPT提示"
                 }
+            },
+            "https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain": {
+                "repository_name": "Get-Things-Done-with-Prompt-Engineering-and-LangChain",
+                "user_name": "curiousily",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "deep-learning",
+                    "gpt-4",
+                    "gpt4",
+                    "langchain",
+                    "language-models",
+                    "large-language-models",
+                    "llama2",
+                    "openai",
+                    "prompt-engineering",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.",
+                    "ja": "LangChain＆Promptエンジニアリングチュートリアルは、ChatGPTなどの大規模言語モデル（LLM）に関するもので、カスタムデータを使用します。データのロードとインデックス作成、プロンプトテンプレートの作成、CSVエージェントの作成、およびカスタムデータへのクエリにリトリーバルQAチェーンを使用するためのJupyterノートブックがあります。PDFファイルを使用したチャット用のプライベートLLM（Llama 2）を使用したプロジェクトや、ツイートの感情分析に関するプロジェクトもあります。",
+                    "zh-hans": "LangChain和Prompt工程教程，涉及大型语言模型（LLMs）如ChatGPT与自定义数据。Jupyter笔记本上的数据加载和索引、创建提示模板、CSV代理以及使用检索QA链查询自定义数据的方法。项目用于使用私有LLM（Llama 2）进行聊天，并进行PDF文件和推文情感分析。",
+                    "zh-hant": "關於使用自定義數據的大型語言模型（LLMs）如ChatGPT的LangChain和Prompt工程教程。Jupyter筆記本教學，包括加載和索引數據，創建提示模板，CSV代理，以及使用檢索QA鏈來查詢自定義數據。項目涉及使用私有LLM（Llama 2）進行聊天和對PDF文件、推文情感分析。"
+                }
             }
         },
         "Chatbots": {
@@ -7396,6 +7429,25 @@
                     "ja": "ChatGPTで図を作成および編集する",
                     "zh-hans": "在ChatGPT中创建和编辑图表",
                     "zh-hant": "在ChatGPT中創建和編輯圖表"
+                }
+            },
+            "https://github.com/serp-ai/chatgpt-plugins": {
+                "repository_name": "ChatGPT-Plugins",
+                "user_name": "serp-ai",
+                "language": "Python",
+                "license": null,
+                "description": "Repo for giving ChatGPT the ability to use web browsing, python code execution, and custom plugins",
+                "topics": [
+                    "chatgpt-plugins",
+                    "chatgpt-tool-use",
+                    "chatgpt-tools",
+                    "gpt-tool-use"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Repo for giving ChatGPT the ability to use web browsing, python code execution, and custom plugins",
+                    "ja": "ChatGPTにウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能を与えるためのリポジトリ\nウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能をChatGPTに与えるためのリポジトリ",
+                    "zh-hans": "为ChatGPT提供使用网络浏览、Python代码执行和自定义插件的能力的存储库",
+                    "zh-hant": "用於讓ChatGPT具備網頁瀏覽、Python程式碼執行和自定義插件功能的存儲庫"
                 }
             }
         },
@@ -12853,6 +12905,34 @@
                     "ja": "【mtool】または【Translator++】に基づく、chatgpt自動バッチ翻訳ツールで、主にさまざまなRPGゲームの翻訳に使用されます。",
                     "zh-hans": "一款基于【mtool】或【Translator++】的chatgpt自动批量翻译工具，主要用于翻译各种RPG游戏。",
                     "zh-hant": "一款基於【mtool】或【Translator++】的chatgpt自動批量翻譯工具，主要用於翻譯各種RPG遊戲。"
+                }
+            },
+            "https://github.com/beidongjiedeguang/openai-forward": {
+                "repository_name": "openai-forward",
+                "user_name": "beidongjiedeguang",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🚀 一个专为大型语言模型设计的转发服务 ·  一键部署你的私人AI代理 · LLM Proxy · OpenAI API Reverse Proxy ",
+                "topics": [
+                    "chatgpt-proxy",
+                    "fastapi",
+                    "llm-proxy",
+                    "openai-api",
+                    "openai-proxy",
+                    "python",
+                    "rate-limit"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 A forwarding service designed specifically for large language models · Deploy your personal AI agent with just one click · LLM Proxy · OpenAI API Reverse Proxy",
+                    "ja": "🚀 大規模言語モデル向けの転送サービス · あなたのプライベートAIプロキシをワンクリックでデプロイ · LLMプロキシ · OpenAI APIリバースプロキシ",
+                    "zh-hans": "🚀 一个专为大型语言模型设计的转发服务 · 一键部署你的私人AI代理 · LLM代理 · OpenAI API反向代理",
+                    "zh-hant": "🚀 一個專為大型語言模型設計的轉發服務 · 一鍵部署你的私人AI代理 · LLM Proxy · OpenAI API反向代理"
                 }
             }
         },
@@ -21434,6 +21514,52 @@
                     "ja": "Live Conding The Futureの例を保存するために作成されたプロジェクト。Docker、Terraform、Bard、ChatGPTを使用してクラウド上にウェブアプリケーションをデプロイします。",
                     "zh-hans": "创建项目以保存Live Conding The Future的示例。使用Docker、Terraform、Bard和ChatGPT在云中部署Web应用程序。",
                     "zh-hant": "項目創建用於保存Live Conding The Future的示例。使用Docker、Terraform、Bard和ChatGPT在雲端部署Web應用程式。"
+                }
+            },
+            "https://github.com/hncboy/chatgpt-jiezi": {
+                "repository_name": "chatgpt-jiezi",
+                "user_name": "hncboy",
+                "language": "Vue",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "ChatGPT 管理端-解字",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Management Platform - Character Decoding",
+                    "ja": "ChatGPT 管理端-解字\nチャットGPT 管理者-解読",
+                    "zh-hans": "ChatGPT 管理端-解字",
+                    "zh-hant": "ChatGPT 管理端-解字"
+                }
+            },
+            "https://github.com/a616567126/gpt-web-java": {
+                "repository_name": "GPT-WEB-JAVA",
+                "user_name": "a616567126",
+                "language": "Java",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥",
+                "topics": [
+                    "bard-api",
+                    "chatgpt",
+                    "google",
+                    "midjourney-api",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Based on JDK8 AI chatbot! WeChat official account Midjourney drawing, card exchange, web support ChatGPT, Midjourney drawing, sd drawing, card exchange, easy payment, official account drainage, email registration🔥",
+                    "ja": "JDK8に基づくAIチャットボット！WeChat公式アカウントMidjourney画像、カード交換、webサポートChatGPT、Midjourney画像、sd画像、カード交換、簡単な支払い、公式アカウントの誘導、メール登録🔥",
+                    "zh-hans": "基于JDK8的AI聊天机器人！微信公众号Midjourney画图、卡密兑换、web支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥",
+                    "zh-hant": "基於JDK8 AI 聊天機器人！微信公眾號 Midjourney畫圖、卡密兌換、web 支持ChatGPT、Midjourney畫圖、sd畫圖，卡密兌換，易支付，公眾號引流，郵件註冊🔥"
                 }
             }
         }
