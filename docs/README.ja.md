@@ -16,25 +16,20 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - LangChain＆Promptエンジニアリングチュートリアルは、ChatGPTなどの大規模言語モデル（LLM）に関するもので、カスタムデータを使用します。データのロードとインデックス作成、プロンプトテンプレートの作成、CSVエージェントの作成、およびカスタムデータへのクエリにリトリーバルQAチェーンを使用するためのJupyterノートブックがあります。PDFファイルを使用したチャット用のプライベートLLM（Llama 2）を使用したプロジェクトや、ツイートの感情分析に関するプロジェクトもあります。
+ * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久無料のオープンソースのAIGCコース、現在はChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音＆音楽、大模型微調をサポートしています。
 
 
-**Browser-extensions**
- * [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - ChatGPTにウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能を与えるためのリポジトリ
-ウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能をChatGPTに与えるためのリポジトリ
+**Reimplementations**
+ * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。
 
 
 **NLP**
- * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 🚀 大規模言語モデル向けの転送サービス · あなたのプライベートAIプロキシをワンクリックでデプロイ · LLMプロキシ · OpenAI APIリバースプロキシ
+ * [gpt4-playground](https://github.com/nashex/gpt4-playground) - APIキーを使って実験を行うために、OpenAIのChatGPTとPlayground環境のクローンを作成しました。
+OpenAIのChatGPTとPlayground環境のクローンを作成しました。APIキーを使用して実験を行うことができます。
+ * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - ChatGPTを使用してGitHubのプルリクエストを要約およびレビューする
 
 
-**Others**
- * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - ChatGPT 管理端-解字
-チャットGPT 管理者-解読
- * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - JDK8に基づくAIチャットボット！WeChat公式アカウントMidjourney画像、カード交換、webサポートChatGPT、Midjourney画像、sd画像、カード交換、簡単な支払い、公式アカウントの誘導、メール登録🔥
-
-
-_Updated on September 20, 2023_ (A total of 1062 repositories listed.)
+_Updated on September 22, 2023_ (A total of 1066 repositories listed.)
 
 ## Table of contents
 
@@ -196,6 +191,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [chat-key](https://github.com/overflowy/chat-key) - ChatGPTとAutoHotkeyで生産性を大幅に向上させましょう 🚀
  * [openprompt.co](https://github.com/timqian/openprompt.co) - 作成する。使用する。共有する。ChatGPTのプロンプト
  * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - LangChain＆Promptエンジニアリングチュートリアルは、ChatGPTなどの大規模言語モデル（LLM）に関するもので、カスタムデータを使用します。データのロードとインデックス作成、プロンプトテンプレートの作成、CSVエージェントの作成、およびカスタムデータへのクエリにリトリーバルQAチェーンを使用するためのJupyterノートブックがあります。PDFファイルを使用したチャット用のプライベートLLM（Llama 2）を使用したプロジェクトや、ツイートの感情分析に関するプロジェクトもあります。
+ * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久無料のオープンソースのAIGCコース、現在はChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音＆音楽、大模型微調をサポートしています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -273,6 +269,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
 |[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
 |[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
+|[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/LearnPrompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 
 
 ## Chatbots
@@ -1018,6 +1015,7 @@ ChatGPT Webのワンクリックデプロイメント
  * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 公式のA*ネットワークの実装
  * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPTコードインタープリターのオープンソース実装 👾
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - OpenAIのChatGPTコードインタプリタのローカル実装。
+ * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1044,6 +1042,7 @@ ChatGPT Webのワンクリックデプロイメント
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 |[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
 |[Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/mrgreyfun/Local-Code-Interpreter?style=social)|Python|apache-2.0|
+|[ChatPiXiu](https://github.com/openllmai/chatpixiu)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenLLMAI/ChatPiXiu?style=social)|-|apache-2.0|
 
 
 ## Tutorials
@@ -1224,6 +1223,9 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
  * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - AIパワードのPython APIを使用して、ChatGPTとLLM（Large Language Model）アプリを使ってリアルタイムの売上を検索してください。
  * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 【mtool】または【Translator++】に基づく、chatgpt自動バッチ翻訳ツールで、主にさまざまなRPGゲームの翻訳に使用されます。
  * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 🚀 大規模言語モデル向けの転送サービス · あなたのプライベートAIプロキシをワンクリックでデプロイ · LLMプロキシ · OpenAI APIリバースプロキシ
+ * [gpt4-playground](https://github.com/nashex/gpt4-playground) - APIキーを使って実験を行うために、OpenAIのChatGPTとPlayground環境のクローンを作成しました。
+OpenAIのChatGPTとPlayground環境のクローンを作成しました。APIキーを使用して実験を行うことができます。
+ * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - ChatGPTを使用してGitHubのプルリクエストを要約およびレビューする
 
 
 |Name|GitHub Stars|Language|License|
@@ -1382,6 +1384,8 @@ WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 |[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nekoparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
 |[openai-forward](https://github.com/beidongjiedeguang/openai-forward)|![GitHub Repo stars](https://img.shields.io/github/stars/beidongjiedeguang/openai-forward?style=social)|Python|mit|
+|[gpt4-playground](https://github.com/nashex/gpt4-playground)|![GitHub Repo stars](https://img.shields.io/github/stars/Nashex/gpt4-playground?style=social)|TypeScript|mit|
+|[github-pr-summary](https://github.com/flows-network/github-pr-summary)|![GitHub Repo stars](https://img.shields.io/github/stars/flows-network/github-pr-summary?style=social)|Rust|-|
 
 
 ## Langchain

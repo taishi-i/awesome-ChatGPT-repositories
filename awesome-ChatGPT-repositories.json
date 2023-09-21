@@ -1978,6 +1978,38 @@
                     "zh-hans": "LangChain和Prompt工程教程，涉及大型语言模型（LLMs）如ChatGPT与自定义数据。Jupyter笔记本上的数据加载和索引、创建提示模板、CSV代理以及使用检索QA链查询自定义数据的方法。项目用于使用私有LLM（Llama 2）进行聊天，并进行PDF文件和推文情感分析。",
                     "zh-hant": "關於使用自定義數據的大型語言模型（LLMs）如ChatGPT的LangChain和Prompt工程教程。Jupyter筆記本教學，包括加載和索引數據，創建提示模板，CSV代理，以及使用檢索QA鏈來查詢自定義數據。項目涉及使用私有LLM（Llama 2）進行聊天和對PDF文件、推文情感分析。"
                 }
+            },
+            "https://github.com/learnprompt/learnprompt": {
+                "repository_name": "LearnPrompt",
+                "user_name": "LearnPrompt",
+                "language": "JavaScript",
+                "license": {
+                    "key": "cc-by-sa-4.0",
+                    "name": "Creative Commons Attribution Share Alike 4.0 International",
+                    "spdx_id": "CC-BY-SA-4.0",
+                    "url": "https://api.github.com/licenses/cc-by-sa-4.0",
+                    "node_id": "MDc6TGljZW5zZTI2"
+                },
+                "description": "永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调",
+                "topics": [
+                    "chatgpt",
+                    "digital-humanities",
+                    "gpt-3",
+                    "gpt3",
+                    "llm",
+                    "midjourney",
+                    "prompt-engineering",
+                    "prompting",
+                    "runway",
+                    "runway-generated",
+                    "voice-control"
+                ],
+                "multilingual_descriptions": {
+                    "en": "永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调",
+                    "ja": "永久無料のオープンソースのAIGCコース、現在はChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音＆音楽、大模型微調をサポートしています。",
+                    "zh-hans": "永久免费开源的 AIGC 课程，目前已支持 ChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音和音乐、大模型微调。",
+                    "zh-hant": "永久免費開源的 AIGC 課程，目前已支援 ChatGPT、Midjourney、Runway、Stable Diffusion、AI數字人、AI聲音與音樂、大模型微調。"
+                }
             }
         },
         "Chatbots": {
@@ -9792,6 +9824,38 @@
                     "zh-hans": "一个本地实现的OpenAI ChatGPT代码解释器。",
                     "zh-hant": "一個本地實現的OpenAI ChatGPT代碼解釋器。"
                 }
+            },
+            "https://github.com/openllmai/chatpixiu": {
+                "repository_name": "ChatPiXiu",
+                "user_name": "OpenLLMAI",
+                "language": null,
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "ChatPiXiu: Docs of OpenLLMAI. Survey, reproduction and domain/task adaptation of open source chatgpt alternatives/implementations. PiXiu-貔貅 means fortune.",
+                "topics": [
+                    "chatglm",
+                    "chatgpt",
+                    "chatgpt-alternatives",
+                    "chatgpt-app",
+                    "chatgpt-bot",
+                    "chatzhangsan",
+                    "chatzhihu",
+                    "chinese-chatgpt",
+                    "llama",
+                    "openllm",
+                    "openllmai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatPiXiu: Docs of OpenLLMAI. Survey, reproduction and domain/task adaptation of open source chatgpt alternatives/implementations. PiXiu-貔貅 means fortune.",
+                    "ja": "ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。",
+                    "zh-hans": "ChatPiXiu：OpenLLMAI的文档。调查、复制和领域/任务适应开源chatgpt替代品/实现。PiXiu-貔貅意味着财富。",
+                    "zh-hant": "ChatPiXiu：OpenLLMAI的文件。調查、複製和領域/任務適應開源chatgpt替代方案/實現。PiXiu-貔貅意味著財富。"
+                }
             }
         },
         "Tutorials": {
@@ -12933,6 +12997,52 @@
                     "ja": "🚀 大規模言語モデル向けの転送サービス · あなたのプライベートAIプロキシをワンクリックでデプロイ · LLMプロキシ · OpenAI APIリバースプロキシ",
                     "zh-hans": "🚀 一个专为大型语言模型设计的转发服务 · 一键部署你的私人AI代理 · LLM代理 · OpenAI API反向代理",
                     "zh-hant": "🚀 一個專為大型語言模型設計的轉發服務 · 一鍵部署你的私人AI代理 · LLM Proxy · OpenAI API反向代理"
+                }
+            },
+            "https://github.com/nashex/gpt4-playground": {
+                "repository_name": "gpt4-playground",
+                "user_name": "Nashex",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Clone of OpenAI's ChatGPT and Playground environments to enable experimenting with API keys.",
+                "topics": [
+                    "gpt4",
+                    "gpt4-api",
+                    "nextjs",
+                    "nlp",
+                    "openai",
+                    "playground"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Clone of OpenAI's ChatGPT and Playground environments to enable experimenting with API keys.",
+                    "ja": "APIキーを使って実験を行うために、OpenAIのChatGPTとPlayground環境のクローンを作成しました。\nOpenAIのChatGPTとPlayground環境のクローンを作成しました。APIキーを使用して実験を行うことができます。",
+                    "zh-hans": "克隆OpenAI的ChatGPT和Playground环境，以便进行API密钥实验。",
+                    "zh-hant": "複製OpenAI的ChatGPT和Playground環境，以便進行API密鑰的實驗。\n\n克隆OpenAI的ChatGPT和Playground環境，以便進行API密鑰的實驗。"
+                }
+            },
+            "https://github.com/flows-network/github-pr-summary": {
+                "repository_name": "github-pr-summary",
+                "user_name": "flows-network",
+                "language": "Rust",
+                "license": null,
+                "description": "Use ChatGPT to summarize & review GitHub Pull Requests",
+                "topics": [
+                    "chatgpt",
+                    "codereview",
+                    "github",
+                    "gpt4"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Use ChatGPT to summarize & review GitHub Pull Requests",
+                    "ja": "ChatGPTを使用してGitHubのプルリクエストを要約およびレビューする",
+                    "zh-hans": "使用ChatGPT来总结和审查GitHub的Pull请求。",
+                    "zh-hant": "使用ChatGPT來總結和審查GitHub的Pull Requests。"
                 }
             }
         },
