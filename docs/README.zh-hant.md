@@ -16,23 +16,19 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - 提供了 LangChain & Prompt 工程教程, 提供了 ChatGPT 等大型語言模型 (LLM) 的教程. Jupyter 筆記本, 提供了資料加載和索引, 建立提示模板, CSV 代理, 並使用查詢自訂數據的檢索QA鎖. 專用 LLM (Llama 2) 進行PDF檔案聊天, 微博情緒分析.
+ * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久免費開源的AIGC 課程, 目前已支持ChatGPT,中途旅行,跑道,穩定擴散,AI數字人,AI聲音&音樂,大模型微调
 
 
-**Browser-extensions**
- * [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - 提供 ChatGPT 使用網頁覽, Python 代碼執行和自訂插件的能力的 Repo
+**Reimplementations**
+ * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - 查看更多關於 OpenLLMAI 的資料.
 
 
 **NLP**
- * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 一個專為大型語言模型設計的轉發服務 · 一鍵部署你的私人AI代理 · LLM代理 · OpenAI API逆向代理 
+ * [gpt4-playground](https://github.com/nashex/gpt4-playground) - 透過使用 API 鍵進行實驗.
+ * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - 使用ChatGPT來總結和檢視GitHub拉取要求
 
 
-**Others**
- * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - 聊天GPT 管理端-解字
- * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基于JDK8的AI聊天機器人!微信公眾號Midjourney圖片、卡密換、網頁支持ChatGPT、Midjourney圖片、sd圖片,卡密換,易付,公眾號引流,郵件註冊🔥
-
-
-_Updated on September 20, 2023_ (A total of 1062 repositories listed.)
+_Updated on September 22, 2023_ (A total of 1066 repositories listed.)
 
 ## Table of contents
 
@@ -186,6 +182,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [chat-key](https://github.com/overflowy/chat-key) - 使用ChatGPT和AutoHotkey提升您的生產力 🚀
  * [openprompt.co](https://github.com/timqian/openprompt.co) - 創建。使用。分享。ChatGPT提示
  * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - 關於使用自定義數據的大型語言模型（LLMs）如ChatGPT的LangChain和Prompt工程教程。Jupyter筆記本教學，包括加載和索引數據，創建提示模板，CSV代理，以及使用檢索QA鏈來查詢自定義數據。項目涉及使用私有LLM（Llama 2）進行聊天和對PDF文件、推文情感分析。
+ * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久免費開源的 AIGC 課程，目前已支援 ChatGPT、Midjourney、Runway、Stable Diffusion、AI數字人、AI聲音與音樂、大模型微調。
 
 
 |Name|GitHub Stars|Language|License|
@@ -263,6 +260,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
 |[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
 |[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
+|[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/LearnPrompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 
 
 ## Chatbots
@@ -1002,6 +1000,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 官方實現的A*網絡
  * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 開源ChatGPT代碼解釋器的實現 👾
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - 一個本地實現的OpenAI ChatGPT代碼解釋器。
+ * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAI的文件。調查、複製和領域/任務適應開源chatgpt替代方案/實現。PiXiu-貔貅意味著財富。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1028,6 +1027,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 |[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
 |[Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/mrgreyfun/Local-Code-Interpreter?style=social)|Python|apache-2.0|
+|[ChatPiXiu](https://github.com/openllmai/chatpixiu)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenLLMAI/ChatPiXiu?style=social)|-|apache-2.0|
 
 
 ## Tutorials
@@ -1211,6 +1211,10 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
  * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - 使用ChatGPT和LLM（大型語言模型）應用程式，利用AI驅動的Python API尋找即時銷售。
  * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基於【mtool】或【Translator++】的chatgpt自動批量翻譯工具，主要用於翻譯各種RPG遊戲。
  * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 🚀 一個專為大型語言模型設計的轉發服務 · 一鍵部署你的私人AI代理 · LLM Proxy · OpenAI API反向代理
+ * [gpt4-playground](https://github.com/nashex/gpt4-playground) - 複製OpenAI的ChatGPT和Playground環境，以便進行API密鑰的實驗。
+
+克隆OpenAI的ChatGPT和Playground環境，以便進行API密鑰的實驗。
+ * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - 使用ChatGPT來總結和審查GitHub的Pull Requests。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1369,6 +1373,8 @@ OP Vault ChatGPT：使用OP Stack（OpenAI + Pinecone Vector Database）為ChatG
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 |[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nekoparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
 |[openai-forward](https://github.com/beidongjiedeguang/openai-forward)|![GitHub Repo stars](https://img.shields.io/github/stars/beidongjiedeguang/openai-forward?style=social)|Python|mit|
+|[gpt4-playground](https://github.com/nashex/gpt4-playground)|![GitHub Repo stars](https://img.shields.io/github/stars/Nashex/gpt4-playground?style=social)|TypeScript|mit|
+|[github-pr-summary](https://github.com/flows-network/github-pr-summary)|![GitHub Repo stars](https://img.shields.io/github/stars/flows-network/github-pr-summary?style=social)|Rust|-|
 
 
 ## Langchain

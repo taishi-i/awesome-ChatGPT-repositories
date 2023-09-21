@@ -16,23 +16,19 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - 长链和提示工程教程大语言模型 (LLM) 如ChatGPT与自定义数据. Jupyter笔记本在加载和索引数据,创建提示模板,CSV代理,并使用检索QA链查询自定义数据. 项目使用私人LLM (Llama 2) 聊天PDF文件,推文情绪分析.
+ * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久免费开源的AIGC课程, 目前已支持ChatGPT, 中途旅行,跑道,稳定扩散,AI数字人,AI声音&音乐,大模型微调
 
 
-**Browser-extensions**
- * [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - 提供 ChatGPT 使用网络浏览,python代码执行和自定义插件的能力的 Repo
+**Reimplementations**
+ * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - 查特皮:OpenLLMAI的文件. 查询,复制和域/任务适应开源chatgpt替代方案/实现. PiXiu-意味着财富.
 
 
 **NLP**
- * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) -  一个专为大型语言模型设计的转发服务 · 一键部署你的私人AI代理 · LLM代理 · OpenAI API逆向代理 
+ * [gpt4-playground](https://github.com/nashex/gpt4-playground) - 克隆 OpenAI 的 ChatGPT 和 游戏场环境,以便使用 API 键进行实验.
+ * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - 使用 ChatGPT 总结和审查 GitHub 拉动请求
 
 
-**Others**
- * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - 聊天GPT 管理端-解字
- * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基于JDK8的AI聊天机器人!微信公众号Midjourney图片、卡密换、web支持ChatGPT、Midjourney图片、sd图片,卡密换,易付,公众号引流,邮件注册🔥
-
-
-_Updated on September 20, 2023_ (A total of 1062 repositories listed.)
+_Updated on September 22, 2023_ (A total of 1066 repositories listed.)
 
 ## Table of contents
 
@@ -187,6 +183,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [chat-key](https://github.com/overflowy/chat-key) - 使用ChatGPT和AutoHotkey来提高您的生产力 🚀
  * [openprompt.co](https://github.com/timqian/openprompt.co) - 创建。使用。分享。ChatGPT提示
  * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - LangChain和Prompt工程教程，涉及大型语言模型（LLMs）如ChatGPT与自定义数据。Jupyter笔记本上的数据加载和索引、创建提示模板、CSV代理以及使用检索QA链查询自定义数据的方法。项目用于使用私有LLM（Llama 2）进行聊天，并进行PDF文件和推文情感分析。
+ * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久免费开源的 AIGC 课程，目前已支持 ChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音和音乐、大模型微调。
 
 
 |Name|GitHub Stars|Language|License|
@@ -264,6 +261,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
 |[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
 |[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
+|[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/LearnPrompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 
 
 ## Chatbots
@@ -1005,6 +1003,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [AStarNet](https://github.com/deepgraphlearning/astarnet) - 官方实现的A*网络
  * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPT代码解释器的开源实现 👾
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - 一个本地实现的OpenAI ChatGPT代码解释器。
+ * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAI的文档。调查、复制和领域/任务适应开源chatgpt替代品/实现。PiXiu-貔貅意味着财富。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1031,6 +1030,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 |[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
 |[Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/mrgreyfun/Local-Code-Interpreter?style=social)|Python|apache-2.0|
+|[ChatPiXiu](https://github.com/openllmai/chatpixiu)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenLLMAI/ChatPiXiu?style=social)|-|apache-2.0|
 
 
 ## Tutorials
@@ -1210,6 +1210,8 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - 使用ChatGPT和LLM（大型语言模型）应用程序，通过AI驱动的Python API查找实时销售数据。
  * [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - 一款基于【mtool】或【Translator++】的chatgpt自动批量翻译工具，主要用于翻译各种RPG游戏。
  * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 🚀 一个专为大型语言模型设计的转发服务 · 一键部署你的私人AI代理 · LLM代理 · OpenAI API反向代理
+ * [gpt4-playground](https://github.com/nashex/gpt4-playground) - 克隆OpenAI的ChatGPT和Playground环境，以便进行API密钥实验。
+ * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - 使用ChatGPT来总结和审查GitHub的Pull请求。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1368,6 +1370,8 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 |[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nekoparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
 |[openai-forward](https://github.com/beidongjiedeguang/openai-forward)|![GitHub Repo stars](https://img.shields.io/github/stars/beidongjiedeguang/openai-forward?style=social)|Python|mit|
+|[gpt4-playground](https://github.com/nashex/gpt4-playground)|![GitHub Repo stars](https://img.shields.io/github/stars/Nashex/gpt4-playground?style=social)|TypeScript|mit|
+|[github-pr-summary](https://github.com/flows-network/github-pr-summary)|![GitHub Repo stars](https://img.shields.io/github/stars/flows-network/github-pr-summary?style=social)|Rust|-|
 
 
 ## Langchain
