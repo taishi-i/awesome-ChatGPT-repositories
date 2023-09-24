@@ -16,20 +16,16 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久無料のオープンソースのAIGCコース、現在はChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音＆音楽、大模型微調をサポートしています。
+ * [IntelliNode](https://github.com/intelligentnode/intellinode) - 統一されたプロンプトレイヤーとパフォーマンス評価を介して、ChatGPT、LLaMA、Diffusion、Hugging faceなどの最新のAIモデルにアクセスします。
 
 
-**Reimplementations**
- * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。
+**Browser-extensions**
+ * [ChatIDE](https://github.com/yagil/chatide) - あなたのIDEでのAIコーディングアシスタント - ChatGPT（OpenAI）とClaude（Anthropic）を使用したVSCode拡張機能。
+ * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - ChatGPTのためのVimプラグイン
+ * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - WeaverはObsidianのプラグインであり、ChatGPT/GPT-3をノート作成のワークフローに統合することができます。このプラグインは、Obsidian内でAIによる提案や洞察を簡単に利用できるようにし、執筆やブレインストーミングのプロセスを改善するのに役立ちます。
 
 
-**NLP**
- * [gpt4-playground](https://github.com/nashex/gpt4-playground) - APIキーを使って実験を行うために、OpenAIのChatGPTとPlayground環境のクローンを作成しました。
-OpenAIのChatGPTとPlayground環境のクローンを作成しました。APIキーを使用して実験を行うことができます。
- * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - ChatGPTを使用してGitHubのプルリクエストを要約およびレビューする
-
-
-_Updated on September 22, 2023_ (A total of 1066 repositories listed.)
+_Updated on September 24, 2023_ (A total of 1070 repositories listed.)
 
 ## Table of contents
 
@@ -192,6 +188,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [openprompt.co](https://github.com/timqian/openprompt.co) - 作成する。使用する。共有する。ChatGPTのプロンプト
  * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - LangChain＆Promptエンジニアリングチュートリアルは、ChatGPTなどの大規模言語モデル（LLM）に関するもので、カスタムデータを使用します。データのロードとインデックス作成、プロンプトテンプレートの作成、CSVエージェントの作成、およびカスタムデータへのクエリにリトリーバルQAチェーンを使用するためのJupyterノートブックがあります。PDFファイルを使用したチャット用のプライベートLLM（Llama 2）を使用したプロジェクトや、ツイートの感情分析に関するプロジェクトもあります。
  * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久無料のオープンソースのAIGCコース、現在はChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音＆音楽、大模型微調をサポートしています。
+ * [IntelliNode](https://github.com/intelligentnode/intellinode) - 統一されたプロンプトレイヤーとパフォーマンス評価を介して、ChatGPT、LLaMA、Diffusion、Hugging faceなどの最新のAIモデルにアクセスします。
 
 
 |Name|GitHub Stars|Language|License|
@@ -269,7 +266,8 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
 |[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
 |[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
-|[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/LearnPrompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
+|[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/learnprompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
+|[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 
 
 ## Chatbots
@@ -676,6 +674,9 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
  * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - ChatGPTで図を作成および編集する
  * [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - ChatGPTにウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能を与えるためのリポジトリ
 ウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能をChatGPTに与えるためのリポジトリ
+ * [ChatIDE](https://github.com/yagil/chatide) - あなたのIDEでのAIコーディングアシスタント - ChatGPT（OpenAI）とClaude（Anthropic）を使用したVSCode拡張機能。
+ * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - ChatGPTのためのVimプラグイン
+ * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - WeaverはObsidianのプラグインであり、ChatGPT/GPT-3をノート作成のワークフローに統合することができます。このプラグインは、Obsidian内でAIによる提案や洞察を簡単に利用できるようにし、執筆やブレインストーミングのプロセスを改善するのに役立ちます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -801,6 +802,9 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
 |[superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/saeedezzati/superpower-chatgpt?style=social)|JavaScript|-|
 |[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1ndump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
 |[ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/serp-ai/ChatGPT-Plugins?style=social)|Python|-|
+|[ChatIDE](https://github.com/yagil/chatide)|![GitHub Repo stars](https://img.shields.io/github/stars/yagil/ChatIDE?style=social)|TypeScript|mit|
+|[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/CoderCookE/vim-chatgpt?style=social)|Vim Script|unlicense|
+|[obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver)|![GitHub Repo stars](https://img.shields.io/github/stars/vasilecampeanu/obsidian-weaver?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1042,7 +1046,7 @@ ChatGPT Webのワンクリックデプロイメント
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 |[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
 |[Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/mrgreyfun/Local-Code-Interpreter?style=social)|Python|apache-2.0|
-|[ChatPiXiu](https://github.com/openllmai/chatpixiu)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenLLMAI/ChatPiXiu?style=social)|-|apache-2.0|
+|[ChatPiXiu](https://github.com/openllmai/chatpixiu)|![GitHub Repo stars](https://img.shields.io/github/stars/openllmai/ChatPiXiu?style=social)|-|apache-2.0|
 
 
 ## Tutorials
@@ -1384,7 +1388,7 @@ OpenAIのChatGPTとPlayground環境のクローンを作成しました。APIキ
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 |[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nekoparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
 |[openai-forward](https://github.com/beidongjiedeguang/openai-forward)|![GitHub Repo stars](https://img.shields.io/github/stars/beidongjiedeguang/openai-forward?style=social)|Python|mit|
-|[gpt4-playground](https://github.com/nashex/gpt4-playground)|![GitHub Repo stars](https://img.shields.io/github/stars/Nashex/gpt4-playground?style=social)|TypeScript|mit|
+|[gpt4-playground](https://github.com/nashex/gpt4-playground)|![GitHub Repo stars](https://img.shields.io/github/stars/nashex/gpt4-playground?style=social)|TypeScript|mit|
 |[github-pr-summary](https://github.com/flows-network/github-pr-summary)|![GitHub Repo stars](https://img.shields.io/github/stars/flows-network/github-pr-summary?style=social)|Rust|-|
 
 

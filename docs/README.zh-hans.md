@@ -16,19 +16,16 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久免费开源的AIGC课程, 目前已支持ChatGPT, 中途旅行,跑道,稳定扩散,AI数字人,AI声音&音乐,大模型微调
+ * [IntelliNode](https://github.com/intelligentnode/intellinode) - 通过统一的提示层和性能评估访问 ChatGPT,LLaMA,diffusion,Hugging face等最新的AI模型
 
 
-**Reimplementations**
- * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - 查特皮:OpenLLMAI的文件. 查询,复制和域/任务适应开源chatgpt替代方案/实现. PiXiu-意味着财富.
+**Browser-extensions**
+ * [ChatIDE](https://github.com/yagil/chatide) - 在您的 IDE 中使用 AI 编码助理 - - ChatGPT (OpenAI) 和 Claude (Anthropic) 在 VSCode 扩展中.
+ * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - 对于ChatGPT的Vim插件
+ * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - 布是一个有用的布语插件,将ChatGPT/GPT-3集成到您的笔记工作流中.该插件使您在布语中轻松访问人工智能生成的建议和见解,帮助您改善您的写作和头脑风暴过程.
 
 
-**NLP**
- * [gpt4-playground](https://github.com/nashex/gpt4-playground) - 克隆 OpenAI 的 ChatGPT 和 游戏场环境,以便使用 API 键进行实验.
- * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - 使用 ChatGPT 总结和审查 GitHub 拉动请求
-
-
-_Updated on September 22, 2023_ (A total of 1066 repositories listed.)
+_Updated on September 24, 2023_ (A total of 1070 repositories listed.)
 
 ## Table of contents
 
@@ -184,6 +181,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [openprompt.co](https://github.com/timqian/openprompt.co) - 创建。使用。分享。ChatGPT提示
  * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - LangChain和Prompt工程教程，涉及大型语言模型（LLMs）如ChatGPT与自定义数据。Jupyter笔记本上的数据加载和索引、创建提示模板、CSV代理以及使用检索QA链查询自定义数据的方法。项目用于使用私有LLM（Llama 2）进行聊天，并进行PDF文件和推文情感分析。
  * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久免费开源的 AIGC 课程，目前已支持 ChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音和音乐、大模型微调。
+ * [IntelliNode](https://github.com/intelligentnode/intellinode) - 通过统一的提示层和性能评估，访问最新的AI模型，如ChatGPT、LLaMA、Diffusion、Hugging face等等。
 
 
 |Name|GitHub Stars|Language|License|
@@ -261,7 +259,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[chat-key](https://github.com/overflowy/chat-key)|![GitHub Repo stars](https://img.shields.io/github/stars/overflowy/chat-key?style=social)|AutoHotkey|mit|
 |[openprompt.co](https://github.com/timqian/openprompt.co)|![GitHub Repo stars](https://img.shields.io/github/stars/timqian/openprompt.co?style=social)|JavaScript|gpl-3.0|
 |[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
-|[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/LearnPrompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
+|[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/learnprompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
+|[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 
 
 ## Chatbots
@@ -666,6 +665,9 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ChatGPT具备超能力！搜索聊天记录，创建文件夹，导出所有聊天记录，置顶消息，访问成千上万的社区提示，隐身模式，选择语言和语气，以及许多其他功能。
  * [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - 在ChatGPT中创建和编辑图表
  * [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - 为ChatGPT提供使用网络浏览、Python代码执行和自定义插件的能力的存储库
+ * [ChatIDE](https://github.com/yagil/chatide) - 在您的IDE中的AI编码助手 - ChatGPT（OpenAI）和Claude（Anthropic）在VSCode扩展中。
+ * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - Vim插件适用于ChatGPT
+ * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver是一个有用的黑曜石插件，将ChatGPT/GPT-3集成到您的笔记工作流中。这个插件使得在Obsidian中访问由人工智能生成的建议和见解变得容易，帮助您改善写作和头脑风暴的过程。
 
 
 |Name|GitHub Stars|Language|License|
@@ -791,6 +793,9 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/saeedezzati/superpower-chatgpt?style=social)|JavaScript|-|
 |[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1ndump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
 |[ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/serp-ai/ChatGPT-Plugins?style=social)|Python|-|
+|[ChatIDE](https://github.com/yagil/chatide)|![GitHub Repo stars](https://img.shields.io/github/stars/yagil/ChatIDE?style=social)|TypeScript|mit|
+|[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/CoderCookE/vim-chatgpt?style=social)|Vim Script|unlicense|
+|[obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver)|![GitHub Repo stars](https://img.shields.io/github/stars/vasilecampeanu/obsidian-weaver?style=social)|TypeScript|mit|
 
 
 ## CLIs
@@ -1030,7 +1035,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[AStarNet](https://github.com/deepgraphlearning/astarnet)|![GitHub Repo stars](https://img.shields.io/github/stars/deepgraphlearning/AStarNet?style=social)|Python|mit|
 |[codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api)|![GitHub Repo stars](https://img.shields.io/github/stars/shroominic/codeinterpreter-api?style=social)|Python|mit|
 |[Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/mrgreyfun/Local-Code-Interpreter?style=social)|Python|apache-2.0|
-|[ChatPiXiu](https://github.com/openllmai/chatpixiu)|![GitHub Repo stars](https://img.shields.io/github/stars/OpenLLMAI/ChatPiXiu?style=social)|-|apache-2.0|
+|[ChatPiXiu](https://github.com/openllmai/chatpixiu)|![GitHub Repo stars](https://img.shields.io/github/stars/openllmai/ChatPiXiu?style=social)|-|apache-2.0|
 
 
 ## Tutorials
@@ -1370,7 +1375,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales)|![GitHub Repo stars](https://img.shields.io/github/stars/boburmirzo/chatgpt-api-python-sales?style=social)|Python|mit|
 |[AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/nekoparapa/AiNiee-chatgpt?style=social)|Python|gpl-3.0|
 |[openai-forward](https://github.com/beidongjiedeguang/openai-forward)|![GitHub Repo stars](https://img.shields.io/github/stars/beidongjiedeguang/openai-forward?style=social)|Python|mit|
-|[gpt4-playground](https://github.com/nashex/gpt4-playground)|![GitHub Repo stars](https://img.shields.io/github/stars/Nashex/gpt4-playground?style=social)|TypeScript|mit|
+|[gpt4-playground](https://github.com/nashex/gpt4-playground)|![GitHub Repo stars](https://img.shields.io/github/stars/nashex/gpt4-playground?style=social)|TypeScript|mit|
 |[github-pr-summary](https://github.com/flows-network/github-pr-summary)|![GitHub Repo stars](https://img.shields.io/github/stars/flows-network/github-pr-summary?style=social)|Rust|-|
 
 
