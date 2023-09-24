@@ -2010,6 +2010,43 @@
                     "zh-hans": "永久免费开源的 AIGC 课程，目前已支持 ChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音和音乐、大模型微调。",
                     "zh-hant": "永久免費開源的 AIGC 課程，目前已支援 ChatGPT、Midjourney、Runway、Stable Diffusion、AI數字人、AI聲音與音樂、大模型微調。"
                 }
+            },
+            "https://github.com/intelligentnode/intellinode": {
+                "repository_name": "IntelliNode",
+                "user_name": "intelligentnode",
+                "language": "JavaScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Access the latest AI models like ChatGPT, LLaMA, Diffusion, Hugging face, and beyond through a unified prompt layer and performance evaluation",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "dall-e",
+                    "embeddings",
+                    "google-ai",
+                    "gpt-4",
+                    "hugging-face",
+                    "image-generation",
+                    "javascript",
+                    "language-model",
+                    "nodejs",
+                    "openai",
+                    "prompt-engineering",
+                    "semantic-search",
+                    "speech-synthesis",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Access the latest AI models like ChatGPT, LLaMA, Diffusion, Hugging face, and beyond through a unified prompt layer and performance evaluation",
+                    "ja": "統一されたプロンプトレイヤーとパフォーマンス評価を介して、ChatGPT、LLaMA、Diffusion、Hugging faceなどの最新のAIモデルにアクセスします。",
+                    "zh-hans": "通过统一的提示层和性能评估，访问最新的AI模型，如ChatGPT、LLaMA、Diffusion、Hugging face等等。",
+                    "zh-hant": "透過統一的提示層和性能評估，存取最新的人工智慧模型，如ChatGPT、LLaMA、Diffusion、Hugging face等等。"
+                }
             }
         },
         "Chatbots": {
@@ -7480,6 +7517,81 @@
                     "ja": "ChatGPTにウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能を与えるためのリポジトリ\nウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能をChatGPTに与えるためのリポジトリ",
                     "zh-hans": "为ChatGPT提供使用网络浏览、Python代码执行和自定义插件的能力的存储库",
                     "zh-hant": "用於讓ChatGPT具備網頁瀏覽、Python程式碼執行和自定義插件功能的存儲庫"
+                }
+            },
+            "https://github.com/yagil/chatide": {
+                "repository_name": "ChatIDE",
+                "user_name": "yagil",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension.",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "gpt-4",
+                    "openai",
+                    "vscode",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension.",
+                    "ja": "あなたのIDEでのAIコーディングアシスタント - ChatGPT（OpenAI）とClaude（Anthropic）を使用したVSCode拡張機能。",
+                    "zh-hans": "在您的IDE中的AI编码助手 - ChatGPT（OpenAI）和Claude（Anthropic）在VSCode扩展中。",
+                    "zh-hant": "在您的IDE中的AI編碼助手 - ChatGPT（OpenAI）和Claude（Anthropic）在VSCode擴展中。"
+                }
+            },
+            "https://github.com/codercooke/vim-chatgpt": {
+                "repository_name": "vim-chatgpt",
+                "user_name": "CoderCookE",
+                "language": "Vim Script",
+                "license": {
+                    "key": "unlicense",
+                    "name": "The Unlicense",
+                    "spdx_id": "Unlicense",
+                    "url": "https://api.github.com/licenses/unlicense",
+                    "node_id": "MDc6TGljZW5zZTE1"
+                },
+                "description": "Vim Plugin For ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Vim Plugin For ChatGPT",
+                    "ja": "ChatGPTのためのVimプラグイン",
+                    "zh-hans": "Vim插件适用于ChatGPT",
+                    "zh-hant": "Vim 插件用於 ChatGPT"
+                }
+            },
+            "https://github.com/vasilecampeanu/obsidian-weaver": {
+                "repository_name": "obsidian-weaver",
+                "user_name": "vasilecampeanu",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Weaver is a useful Obsidian plugin that integrates ChatGPT/GPT-3 into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "gpt-3",
+                    "knowledgemanagement",
+                    "obsidian-md",
+                    "plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Weaver is a useful Obsidian plugin that integrates ChatGPT/GPT-3 into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.",
+                    "ja": "WeaverはObsidianのプラグインであり、ChatGPT/GPT-3をノート作成のワークフローに統合することができます。このプラグインは、Obsidian内でAIによる提案や洞察を簡単に利用できるようにし、執筆やブレインストーミングのプロセスを改善するのに役立ちます。",
+                    "zh-hans": "Weaver是一个有用的黑曜石插件，将ChatGPT/GPT-3集成到您的笔记工作流中。这个插件使得在Obsidian中访问由人工智能生成的建议和见解变得容易，帮助您改善写作和头脑风暴的过程。",
+                    "zh-hant": "Weaver 是一個有用的 Obsidian 插件，將 ChatGPT/GPT-3 整合到您的筆記工作流程中。這個插件使得在 Obsidian 中輕鬆訪問 AI 生成的建議和見解，有助於改善您的寫作和腦力激盪過程。"
                 }
             }
         },
