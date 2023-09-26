@@ -15,17 +15,28 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 關於 ChatGPT 的相關計畫.
+
+
 **Prompts**
- * [IntelliNode](https://github.com/intelligentnode/intellinode) - 透過統一提示層和性能評估, 獲得最新的AI模型,
+ * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦:
+ * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基于Streamlit搭建的ChatGPT對話助手,無需科學上網即可使用,可免費雲部署.
+
+
+**Chatbots**
+ * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - 公開努力實現類似ChatGPT的模式,
 
 
 **Browser-extensions**
- * [ChatIDE](https://github.com/yagil/chatide) - 請使用您的 IDE 中的 AI 編碼助手 - ChatGPT (OpenAI) 和 Claude (Anthropic) 在 VSCode 擴展中.
- * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - 關於我們:
- * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - 這款插件讓您在Obsidian中輕鬆地獲得人工智能生成的建議和洞察,幫助您改善寫作和腦衝浪過程.
+ * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - 官方的ChatGPT插件
 
 
-_Updated on September 24, 2023_ (A total of 1070 repositories listed.)
+**Openai**
+ * [free-chat](https://github.com/cnseniorious000/free-chat) - 來自 @anse-app/chatgpt-demo 的分叉.
+
+
+_Updated on September 26, 2023_ (A total of 1076 repositories listed.)
 
 ## Table of contents
 
@@ -70,6 +81,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
  * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - 解鎖 LLM 的力量：探索這些數據集，訓練您自己的 ChatGPT！
  * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - 一個精心挑選的與GPT、ChatGPT、OpenAI、LLM等相關的令人驚嘆的項目和資源清單。
  * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 一個開源數據集的收藏，用於訓練指令遵從的LLMs（ChatGPT，LLaMA，Alpaca）。
+ * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 一個精心挑選的令人驚艷的ChatGPT相關項目清單。
 
 
 |Name|GitHub Stars|Language|License|
@@ -100,6 +112,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
 |[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
 |[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
 |[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongc/awesome-instruction-dataset?style=social)|-|-|
+|[awesome-chatgpt](https://github.com/uhub/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/uhub/awesome-chatgpt?style=social)|-|-|
 
 
 ## Prompts
@@ -181,6 +194,9 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - 關於使用自定義數據的大型語言模型（LLMs）如ChatGPT的LangChain和Prompt工程教程。Jupyter筆記本教學，包括加載和索引數據，創建提示模板，CSV代理，以及使用檢索QA鏈來查詢自定義數據。項目涉及使用私有LLM（Llama 2）進行聊天和對PDF文件、推文情感分析。
  * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久免費開源的 AIGC 課程，目前已支援 ChatGPT、Midjourney、Runway、Stable Diffusion、AI數字人、AI聲音與音樂、大模型微調。
  * [IntelliNode](https://github.com/intelligentnode/intellinode) - 透過統一的提示層和性能評估，存取最新的人工智慧模型，如ChatGPT、LLaMA、Diffusion、Hugging face等等。
+ * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI，OSS LLM 🌊1. 向量資料庫和🦙語言鏈 🔎2. RAG ChatGpt 示範 3. Microsoft ♾️LLM 🌌 函式庫等等。
+Azure OpenAI，OSS LLM 🌊1. 向量資料庫和🦙語言鏈 🔎2. RAG ChatGpt 示範 3. Microsoft ♾️LLM 🌌 函式庫等等。
+ * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基於Streamlit搭建的ChatGPT對話助手，無須科學上網即可使用，可免費雲部署。支持多窗口、語音交流、對話留存、上下文預設以及參數調節等功能。
 
 
 |Name|GitHub Stars|Language|License|
@@ -260,6 +276,8 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
 |[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
 |[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/learnprompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
+|[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
+|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/PierXuY/ChatGPT-Assistant?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
@@ -399,6 +417,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - 終極且免費的OpenAI提供者，使用Python代碼解釋器和其他多個功能實現，由ChatGPT和GPT-4提供動力！
  * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT，Claude，Bard to API  : )
  * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 使用Next.js和OpenAI Streaming API構建的輕量級ChatGPT聊天機器人。
+ * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - 開放努力實施類似ChatGPT的模型及更多。
 
 
 |Name|GitHub Stars|Language|License|
@@ -537,6 +556,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
+|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/SunLemuria/open_source_chatgpt_list?style=social)|-|-|
 
 
 ## Browser-extensions
@@ -665,6 +685,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [ChatIDE](https://github.com/yagil/chatide) - 在您的IDE中的AI編碼助手 - ChatGPT（OpenAI）和Claude（Anthropic）在VSCode擴展中。
  * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - Vim 插件用於 ChatGPT
  * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver 是一個有用的 Obsidian 插件，將 ChatGPT/GPT-3 整合到您的筆記工作流程中。這個插件使得在 Obsidian 中輕鬆訪問 AI 生成的建議和見解，有助於改善您的寫作和腦力激盪過程。
+ * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - 官方 ChatGPT 插件🧩
 
 
 |Name|GitHub Stars|Language|License|
@@ -791,8 +812,9 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1ndump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
 |[ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/serp-ai/ChatGPT-Plugins?style=social)|Python|-|
 |[ChatIDE](https://github.com/yagil/chatide)|![GitHub Repo stars](https://img.shields.io/github/stars/yagil/ChatIDE?style=social)|TypeScript|mit|
-|[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/CoderCookE/vim-chatgpt?style=social)|Vim Script|unlicense|
+|[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/codercooke/vim-chatgpt?style=social)|Vim Script|unlicense|
 |[obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver)|![GitHub Repo stars](https://img.shields.io/github/stars/vasilecampeanu/obsidian-weaver?style=social)|TypeScript|mit|
+|[chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/copilot-us/chatgpt-plugins?style=social)|C#|-|
 
 
 ## CLIs
@@ -1649,6 +1671,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
  * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - 一個用於ChatGPT的強大工具
  * [cg](https://github.com/25077667/cg) - 使用OpenAI的chatGPT免費提交
  * [ninja](https://github.com/gngpp/ninja) - 逆向工程的ChatGPT代理
+ * [free-chat](https://github.com/cnseniorious000/free-chat) - 從@anse-app/chatgpt-demo分叉。索引網站位於https://free-chat.asia/。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1759,6 +1782,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
+|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/CNSeniorious000/free-chat?style=social)|TypeScript|mit|
 
 
 ## Others

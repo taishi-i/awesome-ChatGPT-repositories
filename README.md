@@ -16,17 +16,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
+
+
 **Prompts**
- * [IntelliNode](https://github.com/intelligentnode/intellinode) - Access the latest AI models like ChatGPT, LLaMA, Diffusion, Hugging face, and beyond through a unified prompt layer and performance evaluation
+ * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, OSS LLM 🌊1. Vector db and 🦙langchain 🔎2. RAG ChatGpt demo 3. Microsoft ♾️LLM 🌌 libraries, etc.
+ * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基于Streamlit搭建的ChatGPT对话助手，无须科学上网即可使用，可免费云部署。支持多窗口、语音交流、对话留存、上下文预设以及参数调节等功能。
+
+
+**Chatbots**
+ * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - Open efforts to implement ChatGPT-like models and beyond.
 
 
 **Browser-extensions**
- * [ChatIDE](https://github.com/yagil/chatide) - AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension.
- * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - Vim Plugin For ChatGPT
- * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is a useful Obsidian plugin that integrates ChatGPT/GPT-3 into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
+ * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - Official ChatGPT Plugins🧩
 
 
-_Updated on September 24, 2023_ (A total of 1070 repositories listed.)
+**Openai**
+ * [free-chat](https://github.com/cnseniorious000/free-chat) - forked from @anse-app/chatgpt-demo. Index site at https://free-chat.asia/
+
+
+_Updated on September 26, 2023_ (A total of 1076 repositories listed.)
 
 ## Table of contents
 
@@ -71,6 +82,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
  * [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - Unlock the Power of LLM: Explore These Datasets to Train Your Own ChatGPT!
  * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
  * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)
+ * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
 
 
 |Name|GitHub Stars|Language|License|
@@ -101,6 +113,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
 |[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
 |[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
 |[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongc/awesome-instruction-dataset?style=social)|-|-|
+|[awesome-chatgpt](https://github.com/uhub/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/uhub/awesome-chatgpt?style=social)|-|-|
 
 
 ## Prompts
@@ -180,6 +193,8 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
  * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - LangChain & Prompt Engineering tutorials on Large Language Models (LLMs) such as ChatGPT with custom data. Jupyter notebooks on loading and indexing data, creating prompt templates, CSV agents, and using retrieval QA chains to query the custom data. Projects for using a private LLM (Llama 2) for chat with PDF files, tweets sentiment analysis.
  * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调
  * [IntelliNode](https://github.com/intelligentnode/intellinode) - Access the latest AI models like ChatGPT, LLaMA, Diffusion, Hugging face, and beyond through a unified prompt layer and performance evaluation
+ * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, OSS LLM 🌊1. Vector db and 🦙langchain 🔎2. RAG ChatGpt demo 3. Microsoft ♾️LLM 🌌 libraries, etc.
+ * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基于Streamlit搭建的ChatGPT对话助手，无须科学上网即可使用，可免费云部署。支持多窗口、语音交流、对话留存、上下文预设以及参数调节等功能。
 
 
 |Name|GitHub Stars|Language|License|
@@ -259,6 +274,8 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
 |[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
 |[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/learnprompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
+|[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
+|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/PierXuY/ChatGPT-Assistant?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
@@ -397,6 +414,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Ultimate and FREE OpenAI Provider implemented with Python code interpreter & other multiple functions, powered by ChatGPT & GPT-4!
  * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT, Claude, Bard to API  : )
  * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - Lightweight chatgpt bot built using Next.js and the OpenAI Streaming API. 一个使用 Next.js 和 OpenAI Streaming API 创建的简易ChatGPT聊天机器人
+ * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - Open efforts to implement ChatGPT-like models and beyond.
 
 
 |Name|GitHub Stars|Language|License|
@@ -535,6 +553,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
+|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/SunLemuria/open_source_chatgpt_list?style=social)|-|-|
 
 
 ## Browser-extensions
@@ -663,6 +682,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
  * [ChatIDE](https://github.com/yagil/chatide) - AI Coding Assistant in your IDE - ChatGPT (OpenAI) and Claude (Anthropic) in a VSCode extension.
  * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - Vim Plugin For ChatGPT
  * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is a useful Obsidian plugin that integrates ChatGPT/GPT-3 into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
+ * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - Official ChatGPT Plugins🧩
 
 
 |Name|GitHub Stars|Language|License|
@@ -789,8 +809,9 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
 |[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1ndump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
 |[ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/serp-ai/ChatGPT-Plugins?style=social)|Python|-|
 |[ChatIDE](https://github.com/yagil/chatide)|![GitHub Repo stars](https://img.shields.io/github/stars/yagil/ChatIDE?style=social)|TypeScript|mit|
-|[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/CoderCookE/vim-chatgpt?style=social)|Vim Script|unlicense|
+|[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/codercooke/vim-chatgpt?style=social)|Vim Script|unlicense|
 |[obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver)|![GitHub Repo stars](https://img.shields.io/github/stars/vasilecampeanu/obsidian-weaver?style=social)|TypeScript|mit|
+|[chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/copilot-us/chatgpt-plugins?style=social)|C#|-|
 
 
 ## CLIs
@@ -1633,6 +1654,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
  * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - A Power Tool For ChatGPT
  * [cg](https://github.com/25077667/cg) - The commit GPT using OpenAI's chatGPT for free
  * [ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
+ * [free-chat](https://github.com/cnseniorious000/free-chat) - forked from @anse-app/chatgpt-demo. Index site at https://free-chat.asia/
 
 
 |Name|GitHub Stars|Language|License|
@@ -1743,6 +1765,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
+|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/CNSeniorious000/free-chat?style=social)|TypeScript|mit|
 
 
 ## Others

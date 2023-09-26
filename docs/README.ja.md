@@ -15,17 +15,28 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 素晴らしいChatGPT関連プロジェクトの厳選リスト。
+
+
 **Prompts**
- * [IntelliNode](https://github.com/intelligentnode/intellinode) - 統一されたプロンプトレイヤーとパフォーマンス評価を介して、ChatGPT、LLaMA、Diffusion、Hugging faceなどの最新のAIモデルにアクセスします。
+ * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI、OSS LLM 🌊1. ベクトルデータベースと🦙langchain 🔎2. RAG ChatGptデモ 3. Microsoft ♾️LLM 🌌ライブラリなど。
+ * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - Streamlitを使用して構築されたChatGPTの対話アシスタントは、科学的なインターネット接続なしで使用でき、無料でクラウドに展開できます。複数のウィンドウ、音声通信、対話の保存、コンテキストのプリセット、およびパラメータの調整などの機能をサポートしています。
+
+
+**Chatbots**
+ * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - ChatGPTのようなモデルやそれ以上を実装するための積極的な取り組みを開始します。
 
 
 **Browser-extensions**
- * [ChatIDE](https://github.com/yagil/chatide) - あなたのIDEでのAIコーディングアシスタント - ChatGPT（OpenAI）とClaude（Anthropic）を使用したVSCode拡張機能。
- * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - ChatGPTのためのVimプラグイン
- * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - WeaverはObsidianのプラグインであり、ChatGPT/GPT-3をノート作成のワークフローに統合することができます。このプラグインは、Obsidian内でAIによる提案や洞察を簡単に利用できるようにし、執筆やブレインストーミングのプロセスを改善するのに役立ちます。
+ * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - 公式のChatGPTプラグイン🧩
 
 
-_Updated on September 24, 2023_ (A total of 1070 repositories listed.)
+**Openai**
+ * [free-chat](https://github.com/cnseniorious000/free-chat) - フォーク元：@anse-app/chatgpt-demoからフォークしました。インデックスサイトはhttps://free-chat.asia/です。
+
+
+_Updated on September 26, 2023_ (A total of 1076 repositories listed.)
 
 ## Table of contents
 
@@ -71,6 +82,7 @@ _Updated on September 24, 2023_ (A total of 1070 repositories listed.)
  * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
 GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
  * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 指示に従うためのオープンソースデータセットのコレクション（ChatGPT、LLaMA、Alpaca）
+ * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 素晴らしいChatGPT関連プロジェクトの厳選リスト。
 
 
 |Name|GitHub Stars|Language|License|
@@ -101,6 +113,7 @@ GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェク�
 |[awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/voidful/awesome-chatgpt-dataset?style=social)|-|gpl-3.0|
 |[awesome-gpt](https://github.com/formulahendry/awesome-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/formulahendry/awesome-gpt?style=social)|-|-|
 |[awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset)|![GitHub Repo stars](https://img.shields.io/github/stars/yaodongc/awesome-instruction-dataset?style=social)|-|-|
+|[awesome-chatgpt](https://github.com/uhub/awesome-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/uhub/awesome-chatgpt?style=social)|-|-|
 
 
 ## Prompts
@@ -189,6 +202,8 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - LangChain＆Promptエンジニアリングチュートリアルは、ChatGPTなどの大規模言語モデル（LLM）に関するもので、カスタムデータを使用します。データのロードとインデックス作成、プロンプトテンプレートの作成、CSVエージェントの作成、およびカスタムデータへのクエリにリトリーバルQAチェーンを使用するためのJupyterノートブックがあります。PDFファイルを使用したチャット用のプライベートLLM（Llama 2）を使用したプロジェクトや、ツイートの感情分析に関するプロジェクトもあります。
  * [LearnPrompt](https://github.com/learnprompt/learnprompt) - 永久無料のオープンソースのAIGCコース、現在はChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音＆音楽、大模型微調をサポートしています。
  * [IntelliNode](https://github.com/intelligentnode/intellinode) - 統一されたプロンプトレイヤーとパフォーマンス評価を介して、ChatGPT、LLaMA、Diffusion、Hugging faceなどの最新のAIモデルにアクセスします。
+ * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI、OSS LLM 🌊1. ベクトルデータベースと🦙langchain 🔎2. RAG ChatGptデモ 3. Microsoft ♾️LLM 🌌ライブラリなど。
+ * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - Streamlitを使用して構築されたChatGPTの対話アシスタントは、科学的なインターネット接続なしで使用でき、無料でクラウドに展開できます。複数のウィンドウ、音声通信、対話の保存、コンテキストのプリセット、およびパラメータの調整などの機能をサポートしています。
 
 
 |Name|GitHub Stars|Language|License|
@@ -268,6 +283,8 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain?style=social)|Jupyter Notebook|apache-2.0|
 |[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/learnprompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
+|[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
+|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/PierXuY/ChatGPT-Assistant?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
@@ -409,6 +426,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - Pythonコードインタプリタと他の複数の機能を備えた究極で無料のOpenAIプロバイダー、ChatGPTとGPT-4によってパワーアップされました！
  * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT、クロード、バードからAPIへ：）
  * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 軽量なチャットGPTボットは、Next.jsとOpenAI Streaming APIを使用して構築されています。
+ * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - ChatGPTのようなモデルやそれ以上を実装するための積極的な取り組みを開始します。
 
 
 |Name|GitHub Stars|Language|License|
@@ -547,6 +565,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
+|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/SunLemuria/open_source_chatgpt_list?style=social)|-|-|
 
 
 ## Browser-extensions
@@ -677,6 +696,7 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
  * [ChatIDE](https://github.com/yagil/chatide) - あなたのIDEでのAIコーディングアシスタント - ChatGPT（OpenAI）とClaude（Anthropic）を使用したVSCode拡張機能。
  * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - ChatGPTのためのVimプラグイン
  * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - WeaverはObsidianのプラグインであり、ChatGPT/GPT-3をノート作成のワークフローに統合することができます。このプラグインは、Obsidian内でAIによる提案や洞察を簡単に利用できるようにし、執筆やブレインストーミングのプロセスを改善するのに役立ちます。
+ * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - 公式のChatGPTプラグイン🧩
 
 
 |Name|GitHub Stars|Language|License|
@@ -803,8 +823,9 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
 |[show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/bra1ndump/show-me-chatgpt-plugin?style=social)|TypeScript|-|
 |[ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/serp-ai/ChatGPT-Plugins?style=social)|Python|-|
 |[ChatIDE](https://github.com/yagil/chatide)|![GitHub Repo stars](https://img.shields.io/github/stars/yagil/ChatIDE?style=social)|TypeScript|mit|
-|[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/CoderCookE/vim-chatgpt?style=social)|Vim Script|unlicense|
+|[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/codercooke/vim-chatgpt?style=social)|Vim Script|unlicense|
 |[obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver)|![GitHub Repo stars](https://img.shields.io/github/stars/vasilecampeanu/obsidian-weaver?style=social)|TypeScript|mit|
+|[chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/copilot-us/chatgpt-plugins?style=social)|C#|-|
 
 
 ## CLIs
@@ -1658,6 +1679,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [power-chatgpt](https://github.com/youngle316/power-chatgpt) - チャットGPTのためのパワーツール
  * [cg](https://github.com/25077667/cg) - 無料でOpenAIのchatGPTを使用したコミット
  * [ninja](https://github.com/gngpp/ninja) - 逆エンジニアリングされたChatGPTプロキシ
+ * [free-chat](https://github.com/cnseniorious000/free-chat) - フォーク元：@anse-app/chatgpt-demoからフォークしました。インデックスサイトはhttps://free-chat.asia/です。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1768,6 +1790,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
+|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/CNSeniorious000/free-chat?style=social)|TypeScript|mit|
 
 
 ## Others
