@@ -555,6 +555,20 @@
                     "zh-hans": "一个用于训练指令跟随LLM（ChatGPT、LLaMA、Alpaca）的开源数据集合。",
                     "zh-hant": "一個開源數據集的收藏，用於訓練指令遵從的LLMs（ChatGPT，LLaMA，Alpaca）。"
                 }
+            },
+            "https://github.com/uhub/awesome-chatgpt": {
+                "repository_name": "awesome-chatgpt",
+                "user_name": "uhub",
+                "language": null,
+                "license": null,
+                "description": "A curated list of awesome ChatGPT related projects.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A curated list of awesome ChatGPT related projects.",
+                    "ja": "素晴らしいChatGPT関連プロジェクトの厳選リスト。",
+                    "zh-hans": "一个精选的令人惊叹的ChatGPT相关项目列表。",
+                    "zh-hant": "一個精心挑選的令人驚艷的ChatGPT相關項目清單。"
+                }
             }
         },
         "Prompts": {
@@ -2046,6 +2060,67 @@
                     "ja": "統一されたプロンプトレイヤーとパフォーマンス評価を介して、ChatGPT、LLaMA、Diffusion、Hugging faceなどの最新のAIモデルにアクセスします。",
                     "zh-hans": "通过统一的提示层和性能评估，访问最新的AI模型，如ChatGPT、LLaMA、Diffusion、Hugging face等等。",
                     "zh-hant": "透過統一的提示層和性能評估，存取最新的人工智慧模型，如ChatGPT、LLaMA、Diffusion、Hugging face等等。"
+                }
+            },
+            "https://github.com/kimtth/azure-openai-llm-vector-langchain": {
+                "repository_name": "azure-openai-llm-vector-langchain",
+                "user_name": "kimtth",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "Azure OpenAI, OSS LLM 🌊1. Vector db and 🦙langchain 🔎2. RAG ChatGpt demo 3. Microsoft ♾️LLM 🌌 libraries, etc.",
+                "topics": [
+                    "azure-cognitive-search",
+                    "azure-openai",
+                    "azureopenai",
+                    "chatgpt",
+                    "deeplearning-ai",
+                    "finetuning",
+                    "gpt",
+                    "langchain",
+                    "language-model",
+                    "llama",
+                    "llama-index",
+                    "llm",
+                    "microsoft-azure",
+                    "openai",
+                    "prompt-engineering",
+                    "rag",
+                    "semantic-kernel",
+                    "vector-database",
+                    "vector-store"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Azure OpenAI, OSS LLM 🌊1. Vector db and 🦙langchain 🔎2. RAG ChatGpt demo 3. Microsoft ♾️LLM 🌌 libraries, etc.",
+                    "ja": "Azure OpenAI、OSS LLM 🌊1. ベクトルデータベースと🦙langchain 🔎2. RAG ChatGptデモ 3. Microsoft ♾️LLM 🌌ライブラリなど。",
+                    "zh-hans": "Azure OpenAI，OSS LLM 🌊1. 向量数据库和🦙语言链 🔎2. RAG ChatGpt演示 3. Microsoft ♾️LLM 🌌库等。",
+                    "zh-hant": "Azure OpenAI，OSS LLM 🌊1. 向量資料庫和🦙語言鏈 🔎2. RAG ChatGpt 示範 3. Microsoft ♾️LLM 🌌 函式庫等等。\nAzure OpenAI，OSS LLM 🌊1. 向量資料庫和🦙語言鏈 🔎2. RAG ChatGpt 示範 3. Microsoft ♾️LLM 🌌 函式庫等等。"
+                }
+            },
+            "https://github.com/pierxuy/chatgpt-assistant": {
+                "repository_name": "ChatGPT-Assistant",
+                "user_name": "PierXuY",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "基于Streamlit搭建的ChatGPT对话助手，无须科学上网即可使用，可免费云部署。支持多窗口、语音交流、对话留存、上下文预设以及参数调节等功能。",
+                "topics": [
+                    "academic",
+                    "chatgpt",
+                    "llm",
+                    "prompt",
+                    "streamlit",
+                    "voice"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT conversation assistant based on Streamlit, which can be used without scientific internet access and can be deployed for free in the cloud. It supports multiple windows, voice communication, conversation retention, context presets, and parameter adjustment functions.",
+                    "ja": "Streamlitを使用して構築されたChatGPTの対話アシスタントは、科学的なインターネット接続なしで使用でき、無料でクラウドに展開できます。複数のウィンドウ、音声通信、対話の保存、コンテキストのプリセット、およびパラメータの調整などの機能をサポートしています。",
+                    "zh-hans": "基于Streamlit搭建的ChatGPT对话助手，无须科学上网即可使用，可免费云部署。支持多窗口、语音交流、对话留存、上下文预设以及参数调节等功能。",
+                    "zh-hant": "基於Streamlit搭建的ChatGPT對話助手，無須科學上網即可使用，可免費雲部署。支持多窗口、語音交流、對話留存、上下文預設以及參數調節等功能。"
                 }
             }
         },
@@ -4972,6 +5047,30 @@
                     "zh-hans": "一个使用Next.js和OpenAI Streaming API构建的轻量级ChatGPT聊天机器人。",
                     "zh-hant": "使用Next.js和OpenAI Streaming API構建的輕量級ChatGPT聊天機器人。"
                 }
+            },
+            "https://github.com/sunlemuria/open_source_chatgpt_list": {
+                "repository_name": "open_source_chatgpt_list",
+                "user_name": "SunLemuria",
+                "language": null,
+                "license": null,
+                "description": "Open efforts to implement ChatGPT-like models and beyond.",
+                "topics": [
+                    "alpaca",
+                    "chatbot",
+                    "chatglm",
+                    "chatgpt",
+                    "large-language-models",
+                    "llm",
+                    "nlp",
+                    "openai",
+                    "opensource"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open efforts to implement ChatGPT-like models and beyond.",
+                    "ja": "ChatGPTのようなモデルやそれ以上を実装するための積極的な取り組みを開始します。",
+                    "zh-hans": "开放努力实施类似ChatGPT的模型及更多。",
+                    "zh-hant": "開放努力實施類似ChatGPT的模型及更多。"
+                }
             }
         },
         "Browser-extensions": {
@@ -7592,6 +7691,24 @@
                     "ja": "WeaverはObsidianのプラグインであり、ChatGPT/GPT-3をノート作成のワークフローに統合することができます。このプラグインは、Obsidian内でAIによる提案や洞察を簡単に利用できるようにし、執筆やブレインストーミングのプロセスを改善するのに役立ちます。",
                     "zh-hans": "Weaver是一个有用的黑曜石插件，将ChatGPT/GPT-3集成到您的笔记工作流中。这个插件使得在Obsidian中访问由人工智能生成的建议和见解变得容易，帮助您改善写作和头脑风暴的过程。",
                     "zh-hant": "Weaver 是一個有用的 Obsidian 插件，將 ChatGPT/GPT-3 整合到您的筆記工作流程中。這個插件使得在 Obsidian 中輕鬆訪問 AI 生成的建議和見解，有助於改善您的寫作和腦力激盪過程。"
+                }
+            },
+            "https://github.com/copilot-us/chatgpt-plugins": {
+                "repository_name": "chatgpt-plugins",
+                "user_name": "copilot-us",
+                "language": "C#",
+                "license": null,
+                "description": "Official ChatGPT Plugins🧩",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plugins",
+                    "copilot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Official ChatGPT Plugins🧩",
+                    "ja": "公式のChatGPTプラグイン🧩",
+                    "zh-hans": "官方ChatGPT插件🧩",
+                    "zh-hant": "官方 ChatGPT 插件🧩"
                 }
             }
         },
@@ -16771,6 +16888,34 @@
                     "ja": "逆エンジニアリングされたChatGPTプロキシ",
                     "zh-hans": "逆向工程的ChatGPT代理",
                     "zh-hant": "逆向工程的ChatGPT代理"
+                }
+            },
+            "https://github.com/cnseniorious000/free-chat": {
+                "repository_name": "free-chat",
+                "user_name": "CNSeniorious000",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "forked from @anse-app/chatgpt-demo. Index site at https://free-chat.asia/",
+                "topics": [
+                    "aibot",
+                    "astro",
+                    "chatgpt",
+                    "openai",
+                    "openai-api",
+                    "solidjs",
+                    "tiktoken"
+                ],
+                "multilingual_descriptions": {
+                    "en": "forked from @anse-app/chatgpt-demo. Index site at https://free-chat.asia/",
+                    "ja": "フォーク元：@anse-app/chatgpt-demoからフォークしました。インデックスサイトはhttps://free-chat.asia/です。",
+                    "zh-hans": "派生自@anse-app/chatgpt-demo。索引网站位于https://free-chat.asia/。",
+                    "zh-hant": "從@anse-app/chatgpt-demo分叉。索引網站位於https://free-chat.asia/。"
                 }
             }
         },
