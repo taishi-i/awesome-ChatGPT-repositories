@@ -16,28 +16,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
-
-
-**Prompts**
- * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, OSS LLM 🌊1. Vector db and 🦙langchain 🔎2. RAG ChatGpt demo 3. Microsoft ♾️LLM 🌌 libraries, etc.
- * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - ChatGPT conversation assistant based on Streamlit, which can be used without scientific internet access and can be deployed for free in the cloud. It supports multiple windows, voice communication, conversation retention, context presets, and parameter adjustment functions.
-
-
-**Chatbots**
- * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - Open efforts to implement ChatGPT-like models and beyond.
-
-
-**Browser-extensions**
- * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - Official ChatGPT Plugins🧩
-
-
 **Openai**
- * [free-chat](https://github.com/cnseniorious000/free-chat) - forked from @anse-app/chatgpt-demo. Index site at https://free-chat.asia/
+ * [Vontigo](https://github.com/vontigo/vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable themes and templates.
+ * [7-docs](https://github.com/7-docs/7-docs) - Use any public GitHub repository as a source and ask questions through ChatGPT about it
 
 
-_Updated on September 26, 2023_ (A total of 1076 repositories listed.)
+**Others**
+ * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Python Applications integrated with third party libraries and modules
+ * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ ChatLog: Recording and Analysing ChatGPT Across Time
+
+
+_Updated on September 29, 2023_ (A total of 1080 repositories listed.)
 
 ## Table of contents
 
@@ -275,7 +264,7 @@ _Updated on September 26, 2023_ (A total of 1076 repositories listed.)
 |[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/learnprompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
-|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/PierXuY/ChatGPT-Assistant?style=social)|Python|apache-2.0|
+|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
@@ -553,7 +542,7 @@ _Updated on September 26, 2023_ (A total of 1076 repositories listed.)
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
-|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/SunLemuria/open_source_chatgpt_list?style=social)|-|-|
+|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/sunlemuria/open_source_chatgpt_list?style=social)|-|-|
 
 
 ## Browser-extensions
@@ -1656,6 +1645,8 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
  * [cg](https://github.com/25077667/cg) - The commit GPT using OpenAI's chatGPT for free
  * [ninja](https://github.com/gngpp/ninja) - Reverse engineered ChatGPT proxy
  * [free-chat](https://github.com/cnseniorious000/free-chat) - forked from @anse-app/chatgpt-demo. Index site at https://free-chat.asia/
+ * [Vontigo](https://github.com/vontigo/vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable themes and templates.
+ * [7-docs](https://github.com/7-docs/7-docs) - Use any public GitHub repository as a source and ask questions through ChatGPT about it
 
 
 |Name|GitHub Stars|Language|License|
@@ -1766,7 +1757,9 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
-|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/CNSeniorious000/free-chat?style=social)|TypeScript|mit|
+|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/cnseniorious000/free-chat?style=social)|TypeScript|mit|
+|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/Vontigo/Vontigo?style=social)|Svelte|mit|
+|[7-docs](https://github.com/7-docs/7-docs)|![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -2047,6 +2040,8 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
  * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - Project created to save the examples from the Live Coding The Future. Deploying a web application in the cloud using Docker, Terraform, Bard, and ChatGPT.
  * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - ChatGPT Management Platform - Character Decoding
  * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - Based on JDK8 AI chatbot! WeChat official account Midjourney drawing, card exchange, web support ChatGPT, Midjourney drawing, sd drawing, card exchange, easy payment, official account drainage, email registration🔥
+ * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Python Applications integrated with third party libraries and modules
+ * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ ChatLog: Recording and Analysing ChatGPT Across Time
 
 
 |Name|GitHub Stars|Language|License|
@@ -2326,5 +2321,7 @@ Output: ChatGPT virtual anchor, supports Bilibili, Douyin, and Video Number.
 |[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
 |[chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/chatgpt-jiezi?style=social)|Vue|apache-2.0|
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
+|[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
+|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/ChatLog?style=social)|Jupyter Notebook|mit|
 
 

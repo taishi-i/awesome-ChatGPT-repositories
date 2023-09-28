@@ -15,28 +15,17 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 一个精心策划的精彩的 ChatGPT 相关项目列表.
-
-
-**Prompts**
- * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - 微软的应用程序,包括Azure OpenAI,OSS LLM 1. 矢量db和langchain 2.
- * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基于Streamlit搭建的ChatGPT对话助手,无需科学上网即可使用,可免费云部署. 支持多窗口、语音交流、对话留存、上下文预设以及参数调节等功能.
-
-
-**Chatbots**
- * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - 开放努力实施类似ChatGPT的模型,以及更远的领域.
-
-
-**Browser-extensions**
- * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - 官方的ChatGPT插件
-
-
 **Openai**
- * [free-chat](https://github.com/cnseniorious000/free-chat) - 索引网站在https://free-chat.asia/
+ * [Vontigo](https://github.com/vontigo/vontigo) -  Vontigo 是一个使用SvelteKit构建的开源CMS,具有人工智能驱动的 (ChatGPT) 内容生成. 具有快速页面加载和无路由,Vontigo提供了一个具有可定制主题和模板的用户友好的界面.
+ * [7-docs](https://github.com/7-docs/7-docs) - 使用任何公共 GitHub 存储库作为源,并通过 ChatGPT 提出有关它的问题
 
 
-_Updated on September 26, 2023_ (A total of 1076 repositories listed.)
+**Others**
+ * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - 集成与第三方库和模块的ChatGPT Python应用程序
+ * [ChatLog](https://github.com/thu-keg/chatlog) - 聊天日志:记录和分析时间上的聊天GPT
+
+
+_Updated on September 29, 2023_ (A total of 1080 repositories listed.)
 
 ## Table of contents
 
@@ -277,7 +266,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/learnprompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
-|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/PierXuY/ChatGPT-Assistant?style=social)|Python|apache-2.0|
+|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
@@ -555,7 +544,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
-|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/SunLemuria/open_source_chatgpt_list?style=social)|-|-|
+|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/sunlemuria/open_source_chatgpt_list?style=social)|-|-|
 
 
 ## Browser-extensions
@@ -1670,6 +1659,8 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
  * [cg](https://github.com/25077667/cg) - 使用OpenAI的chatGPT免费提交
  * [ninja](https://github.com/gngpp/ninja) - 逆向工程的ChatGPT代理
  * [free-chat](https://github.com/cnseniorious000/free-chat) - 派生自@anse-app/chatgpt-demo。索引网站位于https://free-chat.asia/。
+ * [Vontigo](https://github.com/vontigo/vontigo) - 🛸 Vontigo 是一个使用 SvelteKit 构建的开源 CMS，具备 🤖 AI 动力（ChatGPT）的内容生成功能。Vontigo 具有快速页面加载和无缝路由，提供了一个用户友好的界面，可定制主题和模板。
+ * [7-docs](https://github.com/7-docs/7-docs) - 使用任何公共GitHub存储库作为源，并通过ChatGPT提出问题。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1780,7 +1771,9 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
-|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/CNSeniorious000/free-chat?style=social)|TypeScript|mit|
+|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/cnseniorious000/free-chat?style=social)|TypeScript|mit|
+|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/Vontigo/Vontigo?style=social)|Svelte|mit|
+|[7-docs](https://github.com/7-docs/7-docs)|![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -2065,6 +2058,8 @@ chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，�
  * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - 创建项目以保存Live Conding The Future的示例。使用Docker、Terraform、Bard和ChatGPT在云中部署Web应用程序。
  * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - ChatGPT 管理端-解字
  * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基于JDK8的AI聊天机器人！微信公众号Midjourney画图、卡密兑换、web支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥
+ * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Python应用程序集成了第三方库和模块。
+ * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ 聊天记录：记录和分析ChatGPT的聊天内容
 
 
 |Name|GitHub Stars|Language|License|
@@ -2344,5 +2339,7 @@ chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，�
 |[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
 |[chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/chatgpt-jiezi?style=social)|Vue|apache-2.0|
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
+|[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
+|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/ChatLog?style=social)|Jupyter Notebook|mit|
 
 
