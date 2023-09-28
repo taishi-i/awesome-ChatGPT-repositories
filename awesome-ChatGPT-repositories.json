@@ -16917,6 +16917,74 @@
                     "zh-hans": "派生自@anse-app/chatgpt-demo。索引网站位于https://free-chat.asia/。",
                     "zh-hant": "從@anse-app/chatgpt-demo分叉。索引網站位於https://free-chat.asia/。"
                 }
+            },
+            "https://github.com/vontigo/vontigo": {
+                "repository_name": "Vontigo",
+                "user_name": "Vontigo",
+                "language": "Svelte",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable themes and templates.",
+                "topics": [
+                    "ai",
+                    "best-content-management-system-cms-2023",
+                    "blog-platform",
+                    "brainiacminds",
+                    "capacitor",
+                    "chatgpt",
+                    "chatgpt-powered-cms",
+                    "cms",
+                    "cms-platform",
+                    "content-management-system",
+                    "full-stack",
+                    "fullstack-sveltekit-cms",
+                    "fullstack-sveltekit-content-publishing-platform",
+                    "openai",
+                    "skeleton",
+                    "svelte",
+                    "sveltekit",
+                    "sveltekit-cms",
+                    "sveltekit-content-management-system",
+                    "vontigo"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable themes and templates.",
+                    "ja": "🛸 VontigoはSvelteKitで構築されたオープンソースのCMSで、🤖 AI（ChatGPT）によるコンテンツ生成機能を備えています。高速なページ読み込みとシームレスなルーティングにより、Vontigoはカスタマイズ可能なテーマとテンプレートを備えたユーザーフレンドリーなインターフェースを提供します。",
+                    "zh-hans": "🛸 Vontigo 是一个使用 SvelteKit 构建的开源 CMS，具备 🤖 AI 动力（ChatGPT）的内容生成功能。Vontigo 具有快速页面加载和无缝路由，提供了一个用户友好的界面，可定制主题和模板。",
+                    "zh-hant": "🛸 Vontigo 是一個使用 SvelteKit 構建的開源 CMS，具備 🤖 AI 驅動（ChatGPT）的內容生成功能。憑藉快速的頁面加載和無縫的路由，Vontigo 提供了一個用戶友好的界面，具有可自定義的主題和模板。"
+                }
+            },
+            "https://github.com/7-docs/7-docs": {
+                "repository_name": "7-docs",
+                "user_name": "7-docs",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Use any public GitHub repository as a source and ask questions through ChatGPT about it",
+                "topics": [
+                    "completion",
+                    "ingestion",
+                    "openai",
+                    "openai-api",
+                    "query",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Use any public GitHub repository as a source and ask questions through ChatGPT about it",
+                    "ja": "公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする",
+                    "zh-hans": "使用任何公共GitHub存储库作为源，并通过ChatGPT提出问题。",
+                    "zh-hant": "使用任何公開的 GitHub 存儲庫作為來源，並通過 ChatGPT 提出相關問題。"
+                }
             }
         },
         "Others": {
@@ -21927,6 +21995,53 @@
                     "ja": "JDK8に基づくAIチャットボット！WeChat公式アカウントMidjourney画像、カード交換、webサポートChatGPT、Midjourney画像、sd画像、カード交換、簡単な支払い、公式アカウントの誘導、メール登録🔥",
                     "zh-hans": "基于JDK8的AI聊天机器人！微信公众号Midjourney画图、卡密兑换、web支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥",
                     "zh-hant": "基於JDK8 AI 聊天機器人！微信公眾號 Midjourney畫圖、卡密兌換、web 支持ChatGPT、Midjourney畫圖、sd畫圖，卡密兌換，易支付，公眾號引流，郵件註冊🔥"
+                }
+            },
+            "https://github.com/xiaowuc2/chatgpt-python-applications": {
+                "repository_name": "ChatGPT-Python-Applications",
+                "user_name": "xiaowuc2",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "ChatGPT Python Applications integrated with third party libraries and modules",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "machine-learning",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Python Applications integrated with third party libraries and modules",
+                    "ja": "ChatGPT Pythonアプリケーションは、サードパーティのライブラリやモジュールと統合されています。",
+                    "zh-hans": "ChatGPT Python应用程序集成了第三方库和模块。",
+                    "zh-hant": "ChatGPT Python應用程式與第三方庫和模組整合"
+                }
+            },
+            "https://github.com/thu-keg/chatlog": {
+                "repository_name": "ChatLog",
+                "user_name": "THU-KEG",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "⏳ ChatLog: Recording and Analysing ChatGPT Across Time",
+                "topics": [
+                    "chatgpt",
+                    "detection",
+                    "evaluation",
+                    "feature-extraction",
+                    "knowledge",
+                    "linguistic-analysis",
+                    "time-series-analysis"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⏳ ChatLog: Recording and Analysing ChatGPT Across Time",
+                    "ja": "⏳ チャットログ：時間をかけてChatGPTの記録と分析",
+                    "zh-hans": "⏳ 聊天记录：记录和分析ChatGPT的聊天内容",
+                    "zh-hant": "⏳ 聊天記錄：記錄和分析ChatGPT隨時間變化的對話"
                 }
             }
         }

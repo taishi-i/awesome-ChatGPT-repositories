@@ -15,28 +15,17 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 關於 ChatGPT 的相關計畫.
-
-
-**Prompts**
- * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦: 客邦:
- * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基于Streamlit搭建的ChatGPT對話助手,無需科學上網即可使用,可免費雲部署.
-
-
-**Chatbots**
- * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - 公開努力實現類似ChatGPT的模式,
-
-
-**Browser-extensions**
- * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - 官方的ChatGPT插件
-
-
 **Openai**
- * [free-chat](https://github.com/cnseniorious000/free-chat) - 來自 @anse-app/chatgpt-demo 的分叉.
+ * [Vontigo](https://github.com/vontigo/vontigo) - Vontigo是一款使用SvelteKit的開放源代碼CMS,提供人工智能 (ChatGPT) 內容生成.
+ * [7-docs](https://github.com/7-docs/7-docs) - 使用任何公開的 GitHub 資料庫來源,並透過 ChatGPT 詢問問題
 
 
-_Updated on September 26, 2023_ (A total of 1076 repositories listed.)
+**Others**
+ * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - 透過使用Python的軟體,
+ * [ChatLog](https://github.com/thu-keg/chatlog) - 聊天日志:時間上的聊天GPT錄製和分析
+
+
+_Updated on September 29, 2023_ (A total of 1080 repositories listed.)
 
 ## Table of contents
 
@@ -277,7 +266,7 @@ Azure OpenAI，OSS LLM 🌊1. 向量資料庫和🦙語言鏈 🔎2. RAG ChatGpt
 |[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/learnprompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
-|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/PierXuY/ChatGPT-Assistant?style=social)|Python|apache-2.0|
+|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
@@ -556,7 +545,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
-|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/SunLemuria/open_source_chatgpt_list?style=social)|-|-|
+|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/sunlemuria/open_source_chatgpt_list?style=social)|-|-|
 
 
 ## Browser-extensions
@@ -1672,6 +1661,8 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
  * [cg](https://github.com/25077667/cg) - 使用OpenAI的chatGPT免費提交
  * [ninja](https://github.com/gngpp/ninja) - 逆向工程的ChatGPT代理
  * [free-chat](https://github.com/cnseniorious000/free-chat) - 從@anse-app/chatgpt-demo分叉。索引網站位於https://free-chat.asia/。
+ * [Vontigo](https://github.com/vontigo/vontigo) - 🛸 Vontigo 是一個使用 SvelteKit 構建的開源 CMS，具備 🤖 AI 驅動（ChatGPT）的內容生成功能。憑藉快速的頁面加載和無縫的路由，Vontigo 提供了一個用戶友好的界面，具有可自定義的主題和模板。
+ * [7-docs](https://github.com/7-docs/7-docs) - 使用任何公開的 GitHub 存儲庫作為來源，並通過 ChatGPT 提出相關問題。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1782,7 +1773,9 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
-|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/CNSeniorious000/free-chat?style=social)|TypeScript|mit|
+|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/cnseniorious000/free-chat?style=social)|TypeScript|mit|
+|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/Vontigo/Vontigo?style=social)|Svelte|mit|
+|[7-docs](https://github.com/7-docs/7-docs)|![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -2073,6 +2066,8 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - 項目創建用於保存Live Conding The Future的示例。使用Docker、Terraform、Bard和ChatGPT在雲端部署Web應用程式。
  * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - ChatGPT 管理端-解字
  * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基於JDK8 AI 聊天機器人！微信公眾號 Midjourney畫圖、卡密兌換、web 支持ChatGPT、Midjourney畫圖、sd畫圖，卡密兌換，易支付，公眾號引流，郵件註冊🔥
+ * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Python應用程式與第三方庫和模組整合
+ * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ 聊天記錄：記錄和分析ChatGPT隨時間變化的對話
 
 
 |Name|GitHub Stars|Language|License|
@@ -2352,5 +2347,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
 |[chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/chatgpt-jiezi?style=social)|Vue|apache-2.0|
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
+|[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
+|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/ChatLog?style=social)|Jupyter Notebook|mit|
 
 

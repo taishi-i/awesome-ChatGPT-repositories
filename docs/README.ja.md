@@ -15,28 +15,17 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 素晴らしいChatGPT関連プロジェクトの厳選リスト。
-
-
-**Prompts**
- * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI、OSS LLM 🌊1. ベクトルデータベースと🦙langchain 🔎2. RAG ChatGptデモ 3. Microsoft ♾️LLM 🌌ライブラリなど。
- * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - Streamlitを使用して構築されたChatGPTの対話アシスタントは、科学的なインターネット接続なしで使用でき、無料でクラウドに展開できます。複数のウィンドウ、音声通信、対話の保存、コンテキストのプリセット、およびパラメータの調整などの機能をサポートしています。
-
-
-**Chatbots**
- * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - ChatGPTのようなモデルやそれ以上を実装するための積極的な取り組みを開始します。
-
-
-**Browser-extensions**
- * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - 公式のChatGPTプラグイン🧩
-
-
 **Openai**
- * [free-chat](https://github.com/cnseniorious000/free-chat) - フォーク元：@anse-app/chatgpt-demoからフォークしました。インデックスサイトはhttps://free-chat.asia/です。
+ * [Vontigo](https://github.com/vontigo/vontigo) - 🛸 VontigoはSvelteKitで構築されたオープンソースのCMSで、🤖 AI（ChatGPT）によるコンテンツ生成機能を備えています。高速なページ読み込みとシームレスなルーティングにより、Vontigoはカスタマイズ可能なテーマとテンプレートを備えたユーザーフレンドリーなインターフェースを提供します。
+ * [7-docs](https://github.com/7-docs/7-docs) - 公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする
 
 
-_Updated on September 26, 2023_ (A total of 1076 repositories listed.)
+**Others**
+ * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Pythonアプリケーションは、サードパーティのライブラリやモジュールと統合されています。
+ * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ チャットログ：時間をかけてChatGPTの記録と分析
+
+
+_Updated on September 29, 2023_ (A total of 1080 repositories listed.)
 
 ## Table of contents
 
@@ -284,7 +273,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[LearnPrompt](https://github.com/learnprompt/learnprompt)|![GitHub Repo stars](https://img.shields.io/github/stars/learnprompt/LearnPrompt?style=social)|JavaScript|cc-by-sa-4.0|
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
-|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/PierXuY/ChatGPT-Assistant?style=social)|Python|apache-2.0|
+|[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
 
 
 ## Chatbots
@@ -565,7 +554,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter)|![GitHub Repo stars](https://img.shields.io/github/stars/boyueluzhipeng/GPT_CodeInterpreter?style=social)|Python|-|
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
-|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/SunLemuria/open_source_chatgpt_list?style=social)|-|-|
+|[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/sunlemuria/open_source_chatgpt_list?style=social)|-|-|
 
 
 ## Browser-extensions
@@ -1680,6 +1669,8 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [cg](https://github.com/25077667/cg) - 無料でOpenAIのchatGPTを使用したコミット
  * [ninja](https://github.com/gngpp/ninja) - 逆エンジニアリングされたChatGPTプロキシ
  * [free-chat](https://github.com/cnseniorious000/free-chat) - フォーク元：@anse-app/chatgpt-demoからフォークしました。インデックスサイトはhttps://free-chat.asia/です。
+ * [Vontigo](https://github.com/vontigo/vontigo) - 🛸 VontigoはSvelteKitで構築されたオープンソースのCMSで、🤖 AI（ChatGPT）によるコンテンツ生成機能を備えています。高速なページ読み込みとシームレスなルーティングにより、Vontigoはカスタマイズ可能なテーマとテンプレートを備えたユーザーフレンドリーなインターフェースを提供します。
+ * [7-docs](https://github.com/7-docs/7-docs) - 公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする
 
 
 |Name|GitHub Stars|Language|License|
@@ -1790,7 +1781,9 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[power-chatgpt](https://github.com/youngle316/power-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/youngle316/power-chatgpt?style=social)|TypeScript|-|
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
-|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/CNSeniorious000/free-chat?style=social)|TypeScript|mit|
+|[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/cnseniorious000/free-chat?style=social)|TypeScript|mit|
+|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/Vontigo/Vontigo?style=social)|Svelte|mit|
+|[7-docs](https://github.com/7-docs/7-docs)|![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)|TypeScript|mit|
 
 
 ## Others
@@ -2076,6 +2069,8 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
  * [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - ChatGPT 管理端-解字
 チャットGPT 管理者-解読
  * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - JDK8に基づくAIチャットボット！WeChat公式アカウントMidjourney画像、カード交換、webサポートChatGPT、Midjourney画像、sd画像、カード交換、簡単な支払い、公式アカウントの誘導、メール登録🔥
+ * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Pythonアプリケーションは、サードパーティのライブラリやモジュールと統合されています。
+ * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ チャットログ：時間をかけてChatGPTの記録と分析
 
 
 |Name|GitHub Stars|Language|License|
@@ -2355,5 +2350,7 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
 |[livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform)|![GitHub Repo stars](https://img.shields.io/github/stars/digitalinnovationone/livecodingthefuture-docker-terraform?style=social)|Dockerfile|-|
 |[chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/chatgpt-jiezi?style=social)|Vue|apache-2.0|
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
+|[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
+|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/ChatLog?style=social)|Jupyter Notebook|mit|
 
 
