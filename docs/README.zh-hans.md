@@ -15,17 +15,23 @@
 
 ## The latest additions 🎉
 
-**Openai**
- * [Vontigo](https://github.com/vontigo/vontigo) -  Vontigo 是一个使用SvelteKit构建的开源CMS,具有人工智能驱动的 (ChatGPT) 内容生成. 具有快速页面加载和无路由,Vontigo提供了一个具有可定制主题和模板的用户友好的界面.
- * [7-docs](https://github.com/7-docs/7-docs) - 使用任何公共 GitHub 存储库作为源,并通过 ChatGPT 提出有关它的问题
+**Prompts**
+ * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 为开发人员提供个人 ChatGPT 提示!
+
+
+**Chatbots**
+ * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代码、一键部署 聊到钉钉,无需VPN
+
+
+**Tutorials**
+ * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - 通过语义内核,OpenAI和Azure认知搜索进行ChatGPT+企业数据教程
 
 
 **Others**
- * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - 集成与第三方库和模块的ChatGPT Python应用程序
- * [ChatLog](https://github.com/thu-keg/chatlog) - 聊天日志:记录和分析时间上的聊天GPT
+ * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - 帮助您与Claude在缓慢的交互, 兼容ChatGPT Web API.
 
 
-_Updated on September 29, 2023_ (A total of 1080 repositories listed.)
+_Updated on October 02, 2023_ (A total of 1084 repositories listed.)
 
 ## Table of contents
 
@@ -186,6 +192,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [IntelliNode](https://github.com/intelligentnode/intellinode) - 通过统一的提示层和性能评估，访问最新的AI模型，如ChatGPT、LLaMA、Diffusion、Hugging face等等。
  * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI，OSS LLM 🌊1. 向量数据库和🦙语言链 🔎2. RAG ChatGpt演示 3. Microsoft ♾️LLM 🌌库等。
  * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基于Streamlit搭建的ChatGPT对话助手，无须科学上网即可使用，可免费云部署。支持多窗口、语音交流、对话留存、上下文预设以及参数调节等功能。
+ * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 开发者的ChatGPT提示个人收藏！
 
 
 |Name|GitHub Stars|Language|License|
@@ -267,6 +274,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
+|[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/PickleBoxer/dev-chatgpt-prompts?style=social)|-|-|
 
 
 ## Chatbots
@@ -406,6 +414,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT，克劳德，巴德到API：）
  * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 一个使用Next.js和OpenAI Streaming API构建的轻量级ChatGPT聊天机器人。
  * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - 开放努力实施类似ChatGPT的模型及更多。
+ * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代码、一键部署chatgpt到钉钉，无须VPN
 
 
 |Name|GitHub Stars|Language|License|
@@ -545,6 +554,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
 |[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/sunlemuria/open_source_chatgpt_list?style=social)|-|-|
+|[chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot)|![GitHub Repo stars](https://img.shields.io/github/stars/sytpb/chatgpt-dingtalk-robot?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -1055,6 +1065,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 🔥gpt4all（最好的chatgpt克隆版）在本地和colab教程上运行 - 到@camenduru的colab -
  * [X-Decoder](https://github.com/microsoft/x-decoder) - 学习Q#和量子计算的教程和编程练习
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - 使用角色动画和幻灯片创建AI生成的视频教程！
+ * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - ChatGPT + 企业数据与语义内核的教程，OpenAI 和 Azure Cognitive Search
 
 
 |Name|GitHub Stars|Language|License|
@@ -1064,6 +1075,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
 |[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/akshitireddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
+|[semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/semantic-kernel-rag-chat?style=social)|C#|mit|
 
 
 ## NLP
@@ -1772,7 +1784,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|gith
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
 |[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/cnseniorious000/free-chat?style=social)|TypeScript|mit|
-|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/Vontigo/Vontigo?style=social)|Svelte|mit|
+|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/vontigo/Vontigo?style=social)|Svelte|mit|
 |[7-docs](https://github.com/7-docs/7-docs)|![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)|TypeScript|mit|
 
 
@@ -2060,6 +2072,7 @@ chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，�
  * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基于JDK8的AI聊天机器人！微信公众号Midjourney画图、卡密兑换、web支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥
  * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Python应用程序集成了第三方库和模块。
  * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ 聊天记录：记录和分析ChatGPT的聊天内容
+ * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - 帮助您在slack中与Claude互动的HTTP服务器，与ChatGPT Web API兼容。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2340,6 +2353,7 @@ chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，�
 |[chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/chatgpt-jiezi?style=social)|Vue|apache-2.0|
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
 |[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
-|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/ChatLog?style=social)|Jupyter Notebook|mit|
+|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/thu-keg/ChatLog?style=social)|Jupyter Notebook|mit|
+|[claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server)|![GitHub Repo stars](https://img.shields.io/github/stars/LlmKira/claude-in-slack-server?style=social)|Python|gpl-3.0|
 
 
