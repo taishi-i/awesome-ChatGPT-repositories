@@ -2122,6 +2122,29 @@
                     "zh-hans": "基于Streamlit搭建的ChatGPT对话助手，无须科学上网即可使用，可免费云部署。支持多窗口、语音交流、对话留存、上下文预设以及参数调节等功能。",
                     "zh-hant": "基於Streamlit搭建的ChatGPT對話助手，無須科學上網即可使用，可免費雲部署。支持多窗口、語音交流、對話留存、上下文預設以及參數調節等功能。"
                 }
+            },
+            "https://github.com/pickleboxer/dev-chatgpt-prompts": {
+                "repository_name": "dev-chatgpt-prompts",
+                "user_name": "PickleBoxer",
+                "language": null,
+                "license": null,
+                "description": "📚 Personal collection of ChatGPT prompts for developers!",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt4",
+                    "code",
+                    "copilot",
+                    "faster",
+                    "ia",
+                    "prompts",
+                    "smarter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "📚 Personal collection of ChatGPT prompts for developers!",
+                    "ja": "📚 開発者向けのChatGPTプロンプトの個人コレクション！",
+                    "zh-hans": "📚 开发者的ChatGPT提示个人收藏！",
+                    "zh-hant": "📚 開發者的ChatGPT提示個人收藏！"
+                }
             }
         },
         "Chatbots": {
@@ -5070,6 +5093,30 @@
                     "ja": "ChatGPTのようなモデルやそれ以上を実装するための積極的な取り組みを開始します。",
                     "zh-hans": "开放努力实施类似ChatGPT的模型及更多。",
                     "zh-hant": "開放努力實施類似ChatGPT的模型及更多。"
+                }
+            },
+            "https://github.com/sytpb/chatgpt-dingtalk-robot": {
+                "repository_name": "chatgpt-dingtalk-robot",
+                "user_name": "sytpb",
+                "language": "JavaScript",
+                "license": null,
+                "description": "零代码、一键部署chatgpt到钉钉，无须VPN",
+                "topics": [
+                    "chat-bot",
+                    "chatapp",
+                    "chatbot",
+                    "chatgpt",
+                    "dingding",
+                    "enterprise",
+                    "openai",
+                    "openai-chatgpt",
+                    "robot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Zero code, one-click deployment of ChatGPT to DingTalk, no VPN required.",
+                    "ja": "零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要",
+                    "zh-hans": "零代码、一键部署chatgpt到钉钉，无须VPN",
+                    "zh-hant": "零代碼、一鍵部署chatgpt到釘釘，無須VPN"
                 }
             }
         },
@@ -10195,6 +10242,29 @@
                     "ja": "キャラクターアニメーションとスライドを使用したAI生成ビデオチュートリアルを作成しましょう！",
                     "zh-hans": "使用角色动画和幻灯片创建AI生成的视频教程！",
                     "zh-hant": "創建具有角色動畫和幻燈片的AI生成視頻教程！"
+                }
+            },
+            "https://github.com/azure-samples/semantic-kernel-rag-chat": {
+                "repository_name": "semantic-kernel-rag-chat",
+                "user_name": "Azure-Samples",
+                "language": "C#",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search",
+                "topics": [
+                    "azure-cognitive-search",
+                    "semantic-kernel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search",
+                    "ja": "チャットGPT + エンタープライズデータのチュートリアル、セマンティックカーネル、OpenAI、およびAzure Cognitive Searchについて",
+                    "zh-hans": "ChatGPT + 企业数据与语义内核的教程，OpenAI 和 Azure Cognitive Search",
+                    "zh-hant": "使用語義核心的ChatGPT + 企業數據的教程，OpenAI和Azure認知搜索"
                 }
             }
         },
@@ -22042,6 +22112,29 @@
                     "ja": "⏳ チャットログ：時間をかけてChatGPTの記録と分析",
                     "zh-hans": "⏳ 聊天记录：记录和分析ChatGPT的聊天内容",
                     "zh-hant": "⏳ 聊天記錄：記錄和分析ChatGPT隨時間變化的對話"
+                }
+            },
+            "https://github.com/llmkira/claude-in-slack-server": {
+                "repository_name": "claude-in-slack-server",
+                "user_name": "LlmKira",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "HTTP server that help you interact with Claude in slack, compatible with ChatGPT Web API.",
+                "topics": [
+                    "claude",
+                    "slack"
+                ],
+                "multilingual_descriptions": {
+                    "en": "HTTP server that help you interact with Claude in slack, compatible with ChatGPT Web API.",
+                    "ja": "Claudeとの対話をサポートするSlack向けのHTTPサーバーであり、ChatGPT Web APIと互換性があります。",
+                    "zh-hans": "帮助您在slack中与Claude互动的HTTP服务器，与ChatGPT Web API兼容。",
+                    "zh-hant": "幫助您在slack中與Claude互動的HTTP伺服器，與ChatGPT Web API相容。"
                 }
             }
         }

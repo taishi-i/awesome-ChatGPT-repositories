@@ -15,17 +15,23 @@
 
 ## The latest additions 🎉
 
-**Openai**
- * [Vontigo](https://github.com/vontigo/vontigo) - Vontigo是一款使用SvelteKit的開放源代碼CMS,提供人工智能 (ChatGPT) 內容生成.
- * [7-docs](https://github.com/7-docs/7-docs) - 使用任何公開的 GitHub 資料庫來源,並透過 ChatGPT 詢問問題
+**Prompts**
+ * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 為開發者提供個人 ChatGPT 提示!
+
+
+**Chatbots**
+ * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代碼、一鍵部署chatgpt到钉钉,无需VPN
+
+
+**Tutorials**
+ * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - 透過網路搜尋,使用網路搜尋,使用網路搜尋,使用網路搜尋,使用網路搜尋,使用網路搜尋,使用網路搜尋,使用網路搜尋,使用網路搜尋,
 
 
 **Others**
- * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - 透過使用Python的軟體,
- * [ChatLog](https://github.com/thu-keg/chatlog) - 聊天日志:時間上的聊天GPT錄製和分析
+ * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - 幫助您在緩慢的時間內與Claude互動,
 
 
-_Updated on September 29, 2023_ (A total of 1080 repositories listed.)
+_Updated on October 02, 2023_ (A total of 1084 repositories listed.)
 
 ## Table of contents
 
@@ -186,6 +192,7 @@ Prompt Engineering | 使用GPT或其他基於提示的模型獲取結構化輸�
  * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI，OSS LLM 🌊1. 向量資料庫和🦙語言鏈 🔎2. RAG ChatGpt 示範 3. Microsoft ♾️LLM 🌌 函式庫等等。
 Azure OpenAI，OSS LLM 🌊1. 向量資料庫和🦙語言鏈 🔎2. RAG ChatGpt 示範 3. Microsoft ♾️LLM 🌌 函式庫等等。
  * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基於Streamlit搭建的ChatGPT對話助手，無須科學上網即可使用，可免費雲部署。支持多窗口、語音交流、對話留存、上下文預設以及參數調節等功能。
+ * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 開發者的ChatGPT提示個人收藏！
 
 
 |Name|GitHub Stars|Language|License|
@@ -267,6 +274,7 @@ Azure OpenAI，OSS LLM 🌊1. 向量資料庫和🦙語言鏈 🔎2. RAG ChatGpt
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
+|[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/PickleBoxer/dev-chatgpt-prompts?style=social)|-|-|
 
 
 ## Chatbots
@@ -407,6 +415,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
  * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT，Claude，Bard to API  : )
  * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 使用Next.js和OpenAI Streaming API構建的輕量級ChatGPT聊天機器人。
  * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - 開放努力實施類似ChatGPT的模型及更多。
+ * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代碼、一鍵部署chatgpt到釘釘，無須VPN
 
 
 |Name|GitHub Stars|Language|License|
@@ -546,6 +555,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
 |[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/sunlemuria/open_source_chatgpt_list?style=social)|-|-|
+|[chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot)|![GitHub Repo stars](https://img.shields.io/github/stars/sytpb/chatgpt-dingtalk-robot?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -1054,6 +1064,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 🔥gpt4all（最佳的chatgpt克隆版）在本地運行並在colab教程中 - 到@camenduru的colab -
  * [X-Decoder](https://github.com/microsoft/x-decoder) - 學習 Q# 和量子計算的教程和編程練習
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - 創建具有角色動畫和幻燈片的AI生成視頻教程！
+ * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - 使用語義核心的ChatGPT + 企業數據的教程，OpenAI和Azure認知搜索
 
 
 |Name|GitHub Stars|Language|License|
@@ -1063,6 +1074,7 @@ Liesenfeld, Andreas, Alianda Lopez和Mark Dingemanse。2023年。“開放ChatGP
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
 |[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/akshitireddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
+|[semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/semantic-kernel-rag-chat?style=social)|C#|mit|
 
 
 ## NLP
@@ -1774,7 +1786,7 @@ cloudflare反向代理|OpenAI/ChatGPT 免翻牆代理|github免翻牆代理|gith
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
 |[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/cnseniorious000/free-chat?style=social)|TypeScript|mit|
-|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/Vontigo/Vontigo?style=social)|Svelte|mit|
+|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/vontigo/Vontigo?style=social)|Svelte|mit|
 |[7-docs](https://github.com/7-docs/7-docs)|![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)|TypeScript|mit|
 
 
@@ -2068,6 +2080,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
  * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - 基於JDK8 AI 聊天機器人！微信公眾號 Midjourney畫圖、卡密兌換、web 支持ChatGPT、Midjourney畫圖、sd畫圖，卡密兌換，易支付，公眾號引流，郵件註冊🔥
  * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Python應用程式與第三方庫和模組整合
  * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ 聊天記錄：記錄和分析ChatGPT隨時間變化的對話
+ * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - 幫助您在slack中與Claude互動的HTTP伺服器，與ChatGPT Web API相容。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2348,6 +2361,7 @@ GitHub Action 可以自動上傳您的應用程式，以自動化應用程式的
 |[chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/chatgpt-jiezi?style=social)|Vue|apache-2.0|
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
 |[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
-|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/ChatLog?style=social)|Jupyter Notebook|mit|
+|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/thu-keg/ChatLog?style=social)|Jupyter Notebook|mit|
+|[claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server)|![GitHub Repo stars](https://img.shields.io/github/stars/LlmKira/claude-in-slack-server?style=social)|Python|gpl-3.0|
 
 

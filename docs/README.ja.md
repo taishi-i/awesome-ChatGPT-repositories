@@ -15,17 +15,23 @@
 
 ## The latest additions 🎉
 
-**Openai**
- * [Vontigo](https://github.com/vontigo/vontigo) - 🛸 VontigoはSvelteKitで構築されたオープンソースのCMSで、🤖 AI（ChatGPT）によるコンテンツ生成機能を備えています。高速なページ読み込みとシームレスなルーティングにより、Vontigoはカスタマイズ可能なテーマとテンプレートを備えたユーザーフレンドリーなインターフェースを提供します。
- * [7-docs](https://github.com/7-docs/7-docs) - 公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする
+**Prompts**
+ * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 開発者向けのChatGPTプロンプトの個人コレクション！
+
+
+**Chatbots**
+ * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要
+
+
+**Tutorials**
+ * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - チャットGPT + エンタープライズデータのチュートリアル、セマンティックカーネル、OpenAI、およびAzure Cognitive Searchについて
 
 
 **Others**
- * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Pythonアプリケーションは、サードパーティのライブラリやモジュールと統合されています。
- * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ チャットログ：時間をかけてChatGPTの記録と分析
+ * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - Claudeとの対話をサポートするSlack向けのHTTPサーバーであり、ChatGPT Web APIと互換性があります。
 
 
-_Updated on September 29, 2023_ (A total of 1080 repositories listed.)
+_Updated on October 02, 2023_ (A total of 1084 repositories listed.)
 
 ## Table of contents
 
@@ -193,6 +199,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [IntelliNode](https://github.com/intelligentnode/intellinode) - 統一されたプロンプトレイヤーとパフォーマンス評価を介して、ChatGPT、LLaMA、Diffusion、Hugging faceなどの最新のAIモデルにアクセスします。
  * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI、OSS LLM 🌊1. ベクトルデータベースと🦙langchain 🔎2. RAG ChatGptデモ 3. Microsoft ♾️LLM 🌌ライブラリなど。
  * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - Streamlitを使用して構築されたChatGPTの対話アシスタントは、科学的なインターネット接続なしで使用でき、無料でクラウドに展開できます。複数のウィンドウ、音声通信、対話の保存、コンテキストのプリセット、およびパラメータの調整などの機能をサポートしています。
+ * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 開発者向けのChatGPTプロンプトの個人コレクション！
 
 
 |Name|GitHub Stars|Language|License|
@@ -274,6 +281,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
+|[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/PickleBoxer/dev-chatgpt-prompts?style=social)|-|-|
 
 
 ## Chatbots
@@ -416,6 +424,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ChatGPT、クロード、バードからAPIへ：）
  * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 軽量なチャットGPTボットは、Next.jsとOpenAI Streaming APIを使用して構築されています。
  * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - ChatGPTのようなモデルやそれ以上を実装するための積極的な取り組みを開始します。
+ * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要
 
 
 |Name|GitHub Stars|Language|License|
@@ -555,6 +564,7 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[WebAI-to-API](https://github.com/amm1rr/webai-to-api)|![GitHub Repo stars](https://img.shields.io/github/stars/amm1rr/WebAI-to-API?style=social)|Python|mit|
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
 |[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/sunlemuria/open_source_chatgpt_list?style=social)|-|-|
+|[chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot)|![GitHub Repo stars](https://img.shields.io/github/stars/sytpb/chatgpt-dingtalk-robot?style=social)|JavaScript|-|
 
 
 ## Browser-extensions
@@ -1066,6 +1076,7 @@ ChatGPT Webのワンクリックデプロイメント
  * [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - 🔥gpt4all（最高のchatgptクローン）がローカルとcolabチュートリアルで実行されています-@camenduruのcolabに-
  * [X-Decoder](https://github.com/microsoft/x-decoder) - Q#と量子コンピューティングを学ぶためのチュートリアルとプログラミング演習
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - キャラクターアニメーションとスライドを使用したAI生成ビデオチュートリアルを作成しましょう！
+ * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - チャットGPT + エンタープライズデータのチュートリアル、セマンティックカーネル、OpenAI、およびAzure Cognitive Searchについて
 
 
 |Name|GitHub Stars|Language|License|
@@ -1075,6 +1086,7 @@ ChatGPT Webのワンクリックデプロイメント
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
 |[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/akshitireddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
+|[semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/semantic-kernel-rag-chat?style=social)|C#|mit|
 
 
 ## NLP
@@ -1782,7 +1794,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[cg](https://github.com/25077667/cg)|![GitHub Repo stars](https://img.shields.io/github/stars/25077667/cg?style=social)|Python|gpl-3.0|
 |[ninja](https://github.com/gngpp/ninja)|![GitHub Repo stars](https://img.shields.io/github/stars/gngpp/ninja?style=social)|Rust|mit|
 |[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/cnseniorious000/free-chat?style=social)|TypeScript|mit|
-|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/Vontigo/Vontigo?style=social)|Svelte|mit|
+|[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/vontigo/Vontigo?style=social)|Svelte|mit|
 |[7-docs](https://github.com/7-docs/7-docs)|![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)|TypeScript|mit|
 
 
@@ -2071,6 +2083,7 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
  * [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - JDK8に基づくAIチャットボット！WeChat公式アカウントMidjourney画像、カード交換、webサポートChatGPT、Midjourney画像、sd画像、カード交換、簡単な支払い、公式アカウントの誘導、メール登録🔥
  * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Pythonアプリケーションは、サードパーティのライブラリやモジュールと統合されています。
  * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ チャットログ：時間をかけてChatGPTの記録と分析
+ * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - Claudeとの対話をサポートするSlack向けのHTTPサーバーであり、ChatGPT Web APIと互換性があります。
 
 
 |Name|GitHub Stars|Language|License|
@@ -2351,6 +2364,7 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
 |[chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|![GitHub Repo stars](https://img.shields.io/github/stars/hncboy/chatgpt-jiezi?style=social)|Vue|apache-2.0|
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
 |[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
-|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/THU-KEG/ChatLog?style=social)|Jupyter Notebook|mit|
+|[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/thu-keg/ChatLog?style=social)|Jupyter Notebook|mit|
+|[claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server)|![GitHub Repo stars](https://img.shields.io/github/stars/LlmKira/claude-in-slack-server?style=social)|Python|gpl-3.0|
 
 
