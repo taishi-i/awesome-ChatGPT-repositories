@@ -2145,6 +2145,33 @@
                     "zh-hans": "📚 开发者的ChatGPT提示个人收藏！",
                     "zh-hant": "📚 開發者的ChatGPT提示個人收藏！"
                 }
+            },
+            "https://github.com/iansinnott/prompta": {
+                "repository_name": "prompta",
+                "user_name": "iansinnott",
+                "language": "Svelte",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "gpt-4",
+                    "openai-api",
+                    "p2p",
+                    "sqlite"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.",
+                    "ja": "キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。",
+                    "zh-hans": "ChatGPT UI 是以键盘为中心的，适用于移动设备的，可以在多个设备上同步聊天记录并搜索过去的对话。",
+                    "zh-hant": "ChatGPT UI以鍵盤為中心，適用於移動設備，可以同步設備間的聊天記錄並搜索過去的對話。"
+                }
             }
         },
         "Chatbots": {
@@ -7757,6 +7784,86 @@
                     "zh-hans": "官方ChatGPT插件🧩",
                     "zh-hant": "官方 ChatGPT 插件🧩"
                 }
+            },
+            "https://github.com/ryuseisan/auto-chatgpt": {
+                "repository_name": "auto-chatgpt",
+                "user_name": "ryuseisan",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Automate interaction with the browser version of ChatGPT.",
+                "topics": [
+                    "chatgpt",
+                    "openai",
+                    "selenium"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Automate interaction with the browser version of ChatGPT.",
+                    "ja": "ブラウザ版ChatGPTとの対話を自動化します。",
+                    "zh-hans": "自动化与ChatGPT浏览器版本的互动。",
+                    "zh-hant": "自動化與ChatGPT的瀏覽器版本互動。"
+                }
+            },
+            "https://github.com/rgbkrk/chatlab": {
+                "repository_name": "chatlab",
+                "user_name": "rgbkrk",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Bringing ChatGPT Plugins to your notebooks",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "interpreter",
+                    "jupyter",
+                    "jupyter-lab",
+                    "jupyter-notebooks",
+                    "noteable",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Bringing ChatGPT Plugins to your notebooks",
+                    "ja": "ノートブックにChatGPTプラグインを導入する",
+                    "zh-hans": "将ChatGPT插件引入您的笔记本",
+                    "zh-hant": "將 ChatGPT 插件帶入您的筆記本"
+                }
+            },
+            "https://github.com/forward-operators/paperchat": {
+                "repository_name": "paperchat",
+                "user_name": "Forward-Operators",
+                "language": "HCL",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset",
+                "topics": [
+                    "arxiv",
+                    "chatgpt",
+                    "chatgpt-plugin",
+                    "gpt",
+                    "huggingface",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset",
+                    "ja": "PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン",
+                    "zh-hans": "PaperChat - 用于查询arXiv数据集的cli、API和ChatGPT插件",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。\nPaperChat - 用於查詢arXiv數據集的cli、API和ChatGPT插件"
+                }
             }
         },
         "CLIs": {
@@ -10265,6 +10372,31 @@
                     "ja": "チャットGPT + エンタープライズデータのチュートリアル、セマンティックカーネル、OpenAI、およびAzure Cognitive Searchについて",
                     "zh-hans": "ChatGPT + 企业数据与语义内核的教程，OpenAI 和 Azure Cognitive Search",
                     "zh-hant": "使用語義核心的ChatGPT + 企業數據的教程，OpenAI和Azure認知搜索"
+                }
+            },
+            "https://github.com/k4l1sh/alexa-gpt": {
+                "repository_name": "alexa-gpt",
+                "user_name": "k4l1sh",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A tutorial on how to use ChatGPT in Alexa",
+                "topics": [
+                    "alexa",
+                    "aws-lambda",
+                    "chatgpt",
+                    "gpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A tutorial on how to use ChatGPT in Alexa",
+                    "ja": "AlexaでChatGPTを使用する方法のチュートリアル",
+                    "zh-hans": "如何在Alexa中使用ChatGPT的教程",
+                    "zh-hant": "一個關於如何在Alexa上使用ChatGPT的教程"
                 }
             }
         },
@@ -22135,6 +22267,68 @@
                     "ja": "Claudeとの対話をサポートするSlack向けのHTTPサーバーであり、ChatGPT Web APIと互換性があります。",
                     "zh-hans": "帮助您在slack中与Claude互动的HTTP服务器，与ChatGPT Web API兼容。",
                     "zh-hant": "幫助您在slack中與Claude互動的HTTP伺服器，與ChatGPT Web API相容。"
+                }
+            },
+            "https://github.com/ikoofe/chat-review": {
+                "repository_name": "chat-review",
+                "user_name": "ikoofe",
+                "language": "TypeScript",
+                "license": null,
+                "description": "ChatGPT Gitlab Code Review",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Gitlab Code Review",
+                    "ja": "ChatGPT Gitlab コードレビュー",
+                    "zh-hans": "ChatGPT Gitlab 代码审查",
+                    "zh-hant": "ChatGPT Gitlab 代碼審查"
+                }
+            },
+            "https://github.com/liucongg/chatgptbook": {
+                "repository_name": "ChatGPTBook",
+                "user_name": "liucongg",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "\"Principles and Practice of ChatGPT: Algorithms, Techniques, and Privatization of Large-scale Language Models\"",
+                    "ja": "《ChatGPT原理与実践：大規模言語モデルのアルゴリズム、技術、およびプライベート化》",
+                    "zh-hans": "《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》",
+                    "zh-hant": "《ChatGPT原理與實戰：大型語言模型的算法、技術和私有化》"
+                }
+            },
+            "https://github.com/archibate/nvim-gpt": {
+                "repository_name": "nvim-gpt",
+                "user_name": "archibate",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Integrated ChatGPT + Bing AI in NeoVim just for neo-pioneers like you :)",
+                "topics": [
+                    "bingai",
+                    "chatgpt",
+                    "neovim",
+                    "nvim-plugin",
+                    "pynvim",
+                    "rplugin",
+                    "vim"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Integrated ChatGPT + Bing AI in NeoVim just for neo-pioneers like you :)",
+                    "ja": "あなたのようなネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)\nネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)",
+                    "zh-hans": "为像您这样的新先锋将ChatGPT和Bing AI集成到NeoVim中 :)",
+                    "zh-hant": "整合ChatGPT + Bing AI於NeoVim，專為像您這樣的新先鋒而設 :)"
                 }
             }
         }

@@ -17,22 +17,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
+ * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.
 
 
-**Chatbots**
- * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代码、一键部署chatgpt到钉钉，无须VPN
+**Browser-extensions**
+ * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - Automate interaction with the browser version of ChatGPT.
+ * [chatlab](https://github.com/rgbkrk/chatlab) - Bringing ChatGPT Plugins to your notebooks
+ * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset
 
 
 **Tutorials**
- * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search
+ * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - A tutorial on how to use ChatGPT in Alexa
 
 
 **Others**
- * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - HTTP server that help you interact with Claude in slack, compatible with ChatGPT Web API.
+ * [chat-review](https://github.com/ikoofe/chat-review) - ChatGPT Gitlab Code Review
+ * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - 《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》
+ * [nvim-gpt](https://github.com/archibate/nvim-gpt) - Integrated ChatGPT + Bing AI in NeoVim just for neo-pioneers like you :)
 
 
-_Updated on October 02, 2023_ (A total of 1084 repositories listed.)
+_Updated on October 04, 2023_ (A total of 1092 repositories listed.)
 
 ## Table of contents
 
@@ -191,6 +195,7 @@ _Updated on October 02, 2023_ (A total of 1084 repositories listed.)
  * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI, OSS LLM 🌊1. Vector db and 🦙langchain 🔎2. RAG ChatGpt demo 3. Microsoft ♾️LLM 🌌 libraries, etc.
  * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基于Streamlit搭建的ChatGPT对话助手，无须科学上网即可使用，可免费云部署。支持多窗口、语音交流、对话留存、上下文预设以及参数调节等功能。
  * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
+ * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.
 
 
 |Name|GitHub Stars|Language|License|
@@ -272,7 +277,8 @@ _Updated on October 02, 2023_ (A total of 1084 repositories listed.)
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
-|[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/PickleBoxer/dev-chatgpt-prompts?style=social)|-|-|
+|[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pickleboxer/dev-chatgpt-prompts?style=social)|-|-|
+|[prompta](https://github.com/iansinnott/prompta)|![GitHub Repo stars](https://img.shields.io/github/stars/iansinnott/prompta?style=social)|Svelte|mit|
 
 
 ## Chatbots
@@ -682,6 +688,9 @@ _Updated on October 02, 2023_ (A total of 1084 repositories listed.)
  * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - Vim Plugin For ChatGPT
  * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver is a useful Obsidian plugin that integrates ChatGPT/GPT-3 into your note-taking workflow. This plugin makes it easy to access AI-generated suggestions and insights within Obsidian, helping you improve your writing and brainstorming process.
  * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - Official ChatGPT Plugins🧩
+ * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - Automate interaction with the browser version of ChatGPT.
+ * [chatlab](https://github.com/rgbkrk/chatlab) - Bringing ChatGPT Plugins to your notebooks
+ * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset
 
 
 |Name|GitHub Stars|Language|License|
@@ -811,6 +820,9 @@ _Updated on October 02, 2023_ (A total of 1084 repositories listed.)
 |[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/codercooke/vim-chatgpt?style=social)|Vim Script|unlicense|
 |[obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver)|![GitHub Repo stars](https://img.shields.io/github/stars/vasilecampeanu/obsidian-weaver?style=social)|TypeScript|mit|
 |[chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/copilot-us/chatgpt-plugins?style=social)|C#|-|
+|[auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ryuseisan/auto-chatgpt?style=social)|Python|mit|
+|[chatlab](https://github.com/rgbkrk/chatlab)|![GitHub Repo stars](https://img.shields.io/github/stars/rgbkrk/chatlab?style=social)|Jupyter Notebook|other|
+|[paperchat](https://github.com/forward-operators/paperchat)|![GitHub Repo stars](https://img.shields.io/github/stars/Forward-Operators/paperchat?style=social)|HCL|mit|
 
 
 ## CLIs
@@ -1061,6 +1073,7 @@ _Updated on October 02, 2023_ (A total of 1084 repositories listed.)
  * [X-Decoder](https://github.com/microsoft/x-decoder) - Tutorials and programming exercises for learning Q# and quantum computing
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - Create AI-Generated Video Tutorials with Character Animation and Slides!
  * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search
+ * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - A tutorial on how to use ChatGPT in Alexa
 
 
 |Name|GitHub Stars|Language|License|
@@ -1070,7 +1083,8 @@ _Updated on October 02, 2023_ (A total of 1084 repositories listed.)
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
 |[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/akshitireddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
-|[semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/semantic-kernel-rag-chat?style=social)|C#|mit|
+|[semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/semantic-kernel-rag-chat?style=social)|C#|mit|
+|[alexa-gpt](https://github.com/k4l1sh/alexa-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/k4l1sh/alexa-gpt?style=social)|Python|mit|
 
 
 ## NLP
@@ -2053,6 +2067,9 @@ _Updated on October 02, 2023_ (A total of 1084 repositories listed.)
  * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Python Applications integrated with third party libraries and modules
  * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ ChatLog: Recording and Analysing ChatGPT Across Time
  * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - HTTP server that help you interact with Claude in slack, compatible with ChatGPT Web API.
+ * [chat-review](https://github.com/ikoofe/chat-review) - ChatGPT Gitlab Code Review
+ * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - 《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》
+ * [nvim-gpt](https://github.com/archibate/nvim-gpt) - Integrated ChatGPT + Bing AI in NeoVim just for neo-pioneers like you :)
 
 
 |Name|GitHub Stars|Language|License|
@@ -2334,6 +2351,9 @@ _Updated on October 02, 2023_ (A total of 1084 repositories listed.)
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
 |[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
 |[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/thu-keg/ChatLog?style=social)|Jupyter Notebook|mit|
-|[claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server)|![GitHub Repo stars](https://img.shields.io/github/stars/LlmKira/claude-in-slack-server?style=social)|Python|gpl-3.0|
+|[claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server)|![GitHub Repo stars](https://img.shields.io/github/stars/llmkira/claude-in-slack-server?style=social)|Python|gpl-3.0|
+|[chat-review](https://github.com/ikoofe/chat-review)|![GitHub Repo stars](https://img.shields.io/github/stars/ikoofe/chat-review?style=social)|TypeScript|-|
+|[ChatGPTBook](https://github.com/liucongg/chatgptbook)|![GitHub Repo stars](https://img.shields.io/github/stars/liucongg/ChatGPTBook?style=social)|Python|apache-2.0|
+|[nvim-gpt](https://github.com/archibate/nvim-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/archibate/nvim-gpt?style=social)|Python|mit|
 
 
