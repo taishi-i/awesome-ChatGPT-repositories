@@ -16,22 +16,27 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 開発者向けのChatGPTプロンプトの個人コレクション！
+ * [prompta](https://github.com/iansinnott/prompta) - キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。
 
 
-**Chatbots**
- * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要
+**Browser-extensions**
+ * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - ブラウザ版ChatGPTとの対話を自動化します。
+ * [chatlab](https://github.com/rgbkrk/chatlab) - ノートブックにChatGPTプラグインを導入する
+ * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン
 
 
 **Tutorials**
- * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - チャットGPT + エンタープライズデータのチュートリアル、セマンティックカーネル、OpenAI、およびAzure Cognitive Searchについて
+ * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - AlexaでChatGPTを使用する方法のチュートリアル
 
 
 **Others**
- * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - Claudeとの対話をサポートするSlack向けのHTTPサーバーであり、ChatGPT Web APIと互換性があります。
+ * [chat-review](https://github.com/ikoofe/chat-review) - ChatGPT Gitlab コードレビュー
+ * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - 《ChatGPT原理与実践：大規模言語モデルのアルゴリズム、技術、およびプライベート化》
+ * [nvim-gpt](https://github.com/archibate/nvim-gpt) - あなたのようなネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)
+ネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)
 
 
-_Updated on October 02, 2023_ (A total of 1084 repositories listed.)
+_Updated on October 04, 2023_ (A total of 1092 repositories listed.)
 
 ## Table of contents
 
@@ -200,6 +205,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI、OSS LLM 🌊1. ベクトルデータベースと🦙langchain 🔎2. RAG ChatGptデモ 3. Microsoft ♾️LLM 🌌ライブラリなど。
  * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - Streamlitを使用して構築されたChatGPTの対話アシスタントは、科学的なインターネット接続なしで使用でき、無料でクラウドに展開できます。複数のウィンドウ、音声通信、対話の保存、コンテキストのプリセット、およびパラメータの調整などの機能をサポートしています。
  * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 開発者向けのChatGPTプロンプトの個人コレクション！
+ * [prompta](https://github.com/iansinnott/prompta) - キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。
 
 
 |Name|GitHub Stars|Language|License|
@@ -281,7 +287,8 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
-|[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/PickleBoxer/dev-chatgpt-prompts?style=social)|-|-|
+|[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pickleboxer/dev-chatgpt-prompts?style=social)|-|-|
+|[prompta](https://github.com/iansinnott/prompta)|![GitHub Repo stars](https://img.shields.io/github/stars/iansinnott/prompta?style=social)|Svelte|mit|
 
 
 ## Chatbots
@@ -696,6 +703,9 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
  * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - ChatGPTのためのVimプラグイン
  * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - WeaverはObsidianのプラグインであり、ChatGPT/GPT-3をノート作成のワークフローに統合することができます。このプラグインは、Obsidian内でAIによる提案や洞察を簡単に利用できるようにし、執筆やブレインストーミングのプロセスを改善するのに役立ちます。
  * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - 公式のChatGPTプラグイン🧩
+ * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - ブラウザ版ChatGPTとの対話を自動化します。
+ * [chatlab](https://github.com/rgbkrk/chatlab) - ノートブックにChatGPTプラグインを導入する
+ * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン
 
 
 |Name|GitHub Stars|Language|License|
@@ -825,6 +835,9 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
 |[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/codercooke/vim-chatgpt?style=social)|Vim Script|unlicense|
 |[obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver)|![GitHub Repo stars](https://img.shields.io/github/stars/vasilecampeanu/obsidian-weaver?style=social)|TypeScript|mit|
 |[chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/copilot-us/chatgpt-plugins?style=social)|C#|-|
+|[auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ryuseisan/auto-chatgpt?style=social)|Python|mit|
+|[chatlab](https://github.com/rgbkrk/chatlab)|![GitHub Repo stars](https://img.shields.io/github/stars/rgbkrk/chatlab?style=social)|Jupyter Notebook|other|
+|[paperchat](https://github.com/forward-operators/paperchat)|![GitHub Repo stars](https://img.shields.io/github/stars/Forward-Operators/paperchat?style=social)|HCL|mit|
 
 
 ## CLIs
@@ -1077,6 +1090,7 @@ ChatGPT Webのワンクリックデプロイメント
  * [X-Decoder](https://github.com/microsoft/x-decoder) - Q#と量子コンピューティングを学ぶためのチュートリアルとプログラミング演習
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - キャラクターアニメーションとスライドを使用したAI生成ビデオチュートリアルを作成しましょう！
  * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - チャットGPT + エンタープライズデータのチュートリアル、セマンティックカーネル、OpenAI、およびAzure Cognitive Searchについて
+ * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - AlexaでChatGPTを使用する方法のチュートリアル
 
 
 |Name|GitHub Stars|Language|License|
@@ -1086,7 +1100,8 @@ ChatGPT Webのワンクリックデプロイメント
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
 |[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/akshitireddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
-|[semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/semantic-kernel-rag-chat?style=social)|C#|mit|
+|[semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/semantic-kernel-rag-chat?style=social)|C#|mit|
+|[alexa-gpt](https://github.com/k4l1sh/alexa-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/k4l1sh/alexa-gpt?style=social)|Python|mit|
 
 
 ## NLP
@@ -2084,6 +2099,10 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
  * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Pythonアプリケーションは、サードパーティのライブラリやモジュールと統合されています。
  * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ チャットログ：時間をかけてChatGPTの記録と分析
  * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - Claudeとの対話をサポートするSlack向けのHTTPサーバーであり、ChatGPT Web APIと互換性があります。
+ * [chat-review](https://github.com/ikoofe/chat-review) - ChatGPT Gitlab コードレビュー
+ * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - 《ChatGPT原理与実践：大規模言語モデルのアルゴリズム、技術、およびプライベート化》
+ * [nvim-gpt](https://github.com/archibate/nvim-gpt) - あなたのようなネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)
+ネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)
 
 
 |Name|GitHub Stars|Language|License|
@@ -2365,6 +2384,9 @@ ChatGPTのファインチューニングのためのユーティリティクラ�
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
 |[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
 |[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/thu-keg/ChatLog?style=social)|Jupyter Notebook|mit|
-|[claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server)|![GitHub Repo stars](https://img.shields.io/github/stars/LlmKira/claude-in-slack-server?style=social)|Python|gpl-3.0|
+|[claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server)|![GitHub Repo stars](https://img.shields.io/github/stars/llmkira/claude-in-slack-server?style=social)|Python|gpl-3.0|
+|[chat-review](https://github.com/ikoofe/chat-review)|![GitHub Repo stars](https://img.shields.io/github/stars/ikoofe/chat-review?style=social)|TypeScript|-|
+|[ChatGPTBook](https://github.com/liucongg/chatgptbook)|![GitHub Repo stars](https://img.shields.io/github/stars/liucongg/ChatGPTBook?style=social)|Python|apache-2.0|
+|[nvim-gpt](https://github.com/archibate/nvim-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/archibate/nvim-gpt?style=social)|Python|mit|
 
 

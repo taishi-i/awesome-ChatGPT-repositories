@@ -16,22 +16,26 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 为开发人员提供个人 ChatGPT 提示!
+ * [prompta](https://github.com/iansinnott/prompta) - 通过使用手机,可以同步设备间的聊天历史记录,搜索过去的对话.
 
 
-**Chatbots**
- * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代码、一键部署 聊到钉钉,无需VPN
+**Browser-extensions**
+ * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - 自动交互与浏览器版本的ChatGPT.
+ * [chatlab](https://github.com/rgbkrk/chatlab) - 将ChatGPT插件带到您的笔记本
+ * [paperchat](https://github.com/forward-operators/paperchat) - 文件聊天 - 查询 arXiv 的数据集的 cli,API 和 ChatGPT 插件
 
 
 **Tutorials**
- * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - 通过语义内核,OpenAI和Azure认知搜索进行ChatGPT+企业数据教程
+ * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - 在Alexa中使用ChatGPT的教程
 
 
 **Others**
- * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - 帮助您与Claude在缓慢的交互, 兼容ChatGPT Web API.
+ * [chat-review](https://github.com/ikoofe/chat-review) - 查看GPT Gitlab 代码
+ * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - ChatGPT原理与实战:大型语言模型的算法、技术和私有化
+ * [nvim-gpt](https://github.com/archibate/nvim-gpt) - 集成了ChatGPT+BingAI在NeoVim中, 只是为像你这样的新开拓者:)
 
 
-_Updated on October 02, 2023_ (A total of 1084 repositories listed.)
+_Updated on October 04, 2023_ (A total of 1092 repositories listed.)
 
 ## Table of contents
 
@@ -193,6 +197,7 @@ ChatGPT Prompt Engineering for Developers的笔记总结
  * [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - Azure OpenAI，OSS LLM 🌊1. 向量数据库和🦙语言链 🔎2. RAG ChatGpt演示 3. Microsoft ♾️LLM 🌌库等。
  * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - 基于Streamlit搭建的ChatGPT对话助手，无须科学上网即可使用，可免费云部署。支持多窗口、语音交流、对话留存、上下文预设以及参数调节等功能。
  * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 开发者的ChatGPT提示个人收藏！
+ * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI 是以键盘为中心的，适用于移动设备的，可以在多个设备上同步聊天记录并搜索过去的对话。
 
 
 |Name|GitHub Stars|Language|License|
@@ -274,7 +279,8 @@ ChatGPT Prompt Engineering for Developers的笔记总结
 |[IntelliNode](https://github.com/intelligentnode/intellinode)|![GitHub Repo stars](https://img.shields.io/github/stars/intelligentnode/IntelliNode?style=social)|JavaScript|apache-2.0|
 |[azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain)|![GitHub Repo stars](https://img.shields.io/github/stars/kimtth/azure-openai-llm-vector-langchain?style=social)|Jupyter Notebook|-|
 |[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
-|[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/PickleBoxer/dev-chatgpt-prompts?style=social)|-|-|
+|[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pickleboxer/dev-chatgpt-prompts?style=social)|-|-|
+|[prompta](https://github.com/iansinnott/prompta)|![GitHub Repo stars](https://img.shields.io/github/stars/iansinnott/prompta?style=social)|Svelte|mit|
 
 
 ## Chatbots
@@ -687,6 +693,9 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - Vim插件适用于ChatGPT
  * [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - Weaver是一个有用的黑曜石插件，将ChatGPT/GPT-3集成到您的笔记工作流中。这个插件使得在Obsidian中访问由人工智能生成的建议和见解变得容易，帮助您改善写作和头脑风暴的过程。
  * [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - 官方ChatGPT插件🧩
+ * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - 自动化与ChatGPT浏览器版本的互动。
+ * [chatlab](https://github.com/rgbkrk/chatlab) - 将ChatGPT插件引入您的笔记本
+ * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - 用于查询arXiv数据集的cli、API和ChatGPT插件
 
 
 |Name|GitHub Stars|Language|License|
@@ -816,6 +825,9 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[vim-chatgpt](https://github.com/codercooke/vim-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/codercooke/vim-chatgpt?style=social)|Vim Script|unlicense|
 |[obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver)|![GitHub Repo stars](https://img.shields.io/github/stars/vasilecampeanu/obsidian-weaver?style=social)|TypeScript|mit|
 |[chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/copilot-us/chatgpt-plugins?style=social)|C#|-|
+|[auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ryuseisan/auto-chatgpt?style=social)|Python|mit|
+|[chatlab](https://github.com/rgbkrk/chatlab)|![GitHub Repo stars](https://img.shields.io/github/stars/rgbkrk/chatlab?style=social)|Jupyter Notebook|other|
+|[paperchat](https://github.com/forward-operators/paperchat)|![GitHub Repo stars](https://img.shields.io/github/stars/Forward-Operators/paperchat?style=social)|HCL|mit|
 
 
 ## CLIs
@@ -1066,6 +1078,7 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
  * [X-Decoder](https://github.com/microsoft/x-decoder) - 学习Q#和量子计算的教程和编程练习
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - 使用角色动画和幻灯片创建AI生成的视频教程！
  * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - ChatGPT + 企业数据与语义内核的教程，OpenAI 和 Azure Cognitive Search
+ * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - 如何在Alexa中使用ChatGPT的教程
 
 
 |Name|GitHub Stars|Language|License|
@@ -1075,7 +1088,8 @@ ChatGPT插件用于以太坊和EVM dApp /智能合约功能
 |[gpt4all-colab](https://github.com/camenduru/gpt4all-colab)|![GitHub Repo stars](https://img.shields.io/github/stars/camenduru/gpt4all-colab?style=social)|Jupyter Notebook|-|
 |[X-Decoder](https://github.com/microsoft/x-decoder)|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/X-Decoder?style=social)|Jupyter Notebook|mit|
 |[AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator)|![GitHub Repo stars](https://img.shields.io/github/stars/akshitireddy/AI-Powered-Video-Tutorial-Generator?style=social)|JavaScript|unlicense|
-|[semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/Azure-Samples/semantic-kernel-rag-chat?style=social)|C#|mit|
+|[semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/azure-samples/semantic-kernel-rag-chat?style=social)|C#|mit|
+|[alexa-gpt](https://github.com/k4l1sh/alexa-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/k4l1sh/alexa-gpt?style=social)|Python|mit|
 
 
 ## NLP
@@ -2073,6 +2087,9 @@ chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，�
  * [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ChatGPT Python应用程序集成了第三方库和模块。
  * [ChatLog](https://github.com/thu-keg/chatlog) - ⏳ 聊天记录：记录和分析ChatGPT的聊天内容
  * [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - 帮助您在slack中与Claude互动的HTTP服务器，与ChatGPT Web API兼容。
+ * [chat-review](https://github.com/ikoofe/chat-review) - ChatGPT Gitlab 代码审查
+ * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - 《ChatGPT原理与实战：大型语言模型的算法、技术和私有化》
+ * [nvim-gpt](https://github.com/archibate/nvim-gpt) - 为像您这样的新先锋将ChatGPT和Bing AI集成到NeoVim中 :)
 
 
 |Name|GitHub Stars|Language|License|
@@ -2354,6 +2371,9 @@ chatgpt-on-wechat的mj画图插件，支持次数限制，GPT关键词润色，�
 |[GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java)|![GitHub Repo stars](https://img.shields.io/github/stars/a616567126/GPT-WEB-JAVA?style=social)|Java|apache-2.0|
 |[ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications)|![GitHub Repo stars](https://img.shields.io/github/stars/xiaowuc2/ChatGPT-Python-Applications?style=social)|Jupyter Notebook|-|
 |[ChatLog](https://github.com/thu-keg/chatlog)|![GitHub Repo stars](https://img.shields.io/github/stars/thu-keg/ChatLog?style=social)|Jupyter Notebook|mit|
-|[claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server)|![GitHub Repo stars](https://img.shields.io/github/stars/LlmKira/claude-in-slack-server?style=social)|Python|gpl-3.0|
+|[claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server)|![GitHub Repo stars](https://img.shields.io/github/stars/llmkira/claude-in-slack-server?style=social)|Python|gpl-3.0|
+|[chat-review](https://github.com/ikoofe/chat-review)|![GitHub Repo stars](https://img.shields.io/github/stars/ikoofe/chat-review?style=social)|TypeScript|-|
+|[ChatGPTBook](https://github.com/liucongg/chatgptbook)|![GitHub Repo stars](https://img.shields.io/github/stars/liucongg/ChatGPTBook?style=social)|Python|apache-2.0|
+|[nvim-gpt](https://github.com/archibate/nvim-gpt)|![GitHub Repo stars](https://img.shields.io/github/stars/archibate/nvim-gpt?style=social)|Python|mit|
 
 
