@@ -2172,6 +2172,26 @@
                     "zh-hans": "ChatGPT UI 是以键盘为中心的，适用于移动设备的，可以在多个设备上同步聊天记录并搜索过去的对话。",
                     "zh-hant": "ChatGPT UI以鍵盤為中心，適用於移動設備，可以同步設備間的聊天記錄並搜索過去的對話。"
                 }
+            },
+            "https://github.com/dahatake/chatgpt-prompt-sample-japanese": {
+                "repository_name": "ChatGPT-Prompt-Sample-Japanese",
+                "user_name": "dahatake",
+                "language": "HTML",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT の Prompt のサンプルです。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This is a sample of ChatGPT's prompt.",
+                    "ja": "ChatGPT の Prompt のサンプルです。",
+                    "zh-hans": "这是ChatGPT的提示示例。",
+                    "zh-hant": "這是ChatGPT的提示示例。\nChatGPT的提示示例。"
+                }
             }
         },
         "Chatbots": {
@@ -5145,6 +5165,50 @@
                     "zh-hans": "零代码、一键部署chatgpt到钉钉，无须VPN",
                     "zh-hant": "零代碼、一鍵部署chatgpt到釘釘，無須VPN"
                 }
+            },
+            "https://github.com/dschil138/chatterstack": {
+                "repository_name": "chatterstack",
+                "user_name": "dschil138",
+                "language": "Python",
+                "license": null,
+                "description": "Easily manage ChatGPT conversation variables",
+                "topics": [
+                    "chatgpt",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Easily manage ChatGPT conversation variables",
+                    "ja": "ChatGPTの会話変数を簡単に管理する",
+                    "zh-hans": "轻松管理ChatGPT对话变量",
+                    "zh-hant": "輕鬆管理ChatGPT對話變數"
+                }
+            },
+            "https://github.com/matteo-psnt/pokergpt": {
+                "repository_name": "PokerGPT",
+                "user_name": "matteo-psnt",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "PokerGPT Is a Poker Discord Bot that allows you to play Texas Hold'em poker with ChatGPT-4.",
+                "topics": [
+                    "chatgpt",
+                    "discord-bot",
+                    "poker"
+                ],
+                "multilingual_descriptions": {
+                    "en": "PokerGPT Is a Poker Discord Bot that allows you to play Texas Hold'em poker with ChatGPT-4.",
+                    "ja": "PokerGPTは、ChatGPT-4と一緒にテキサスホールデムポーカーをプレイすることができるPoker Discord Botです。",
+                    "zh-hans": "PokerGPT是一个Poker Discord机器人，可以让你与ChatGPT-4一起玩德州扑克。",
+                    "zh-hant": "PokerGPT 是一個可以讓你與 ChatGPT-4 一起玩德州撲克的 Poker Discord 機器人。"
+                }
             }
         },
         "Browser-extensions": {
@@ -7863,6 +7927,69 @@
                     "ja": "PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン",
                     "zh-hans": "PaperChat - 用于查询arXiv数据集的cli、API和ChatGPT插件",
                     "zh-hant": "請將以下內容翻譯成繁體中文。\nPaperChat - 用於查詢arXiv數據集的cli、API和ChatGPT插件"
+                }
+            },
+            "https://github.com/davidmvenegas/chatgpt-microphone": {
+                "repository_name": "chatgpt-microphone",
+                "user_name": "davidmvenegas",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Add voice-to-text and shortcut snippets to ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "chrome-extension",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Add voice-to-text and shortcut snippets to ChatGPT",
+                    "ja": "ChatGPTに音声テキスト変換とショートカットスニペットを追加してください。",
+                    "zh-hans": "将语音转文字和快捷片段添加到ChatGPT。",
+                    "zh-hant": "將語音轉文字和快捷片段添加到ChatGPT"
+                }
+            },
+            "https://github.com/aavetis/github-chatgpt-plugin": {
+                "repository_name": "github-chatgpt-plugin",
+                "user_name": "aavetis",
+                "language": "TypeScript",
+                "license": null,
+                "description": "ChatGPT plugin to interact with anything in GitHub. Install “Chat With Code” from the ChatGPT plugin store.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT plugin to interact with anything in GitHub. Install “Chat With Code” from the ChatGPT plugin store.",
+                    "ja": "GitHubで何でも対話するためのChatGPTプラグイン。ChatGPTプラグインストアから「Chat With Code」をインストールしてください。",
+                    "zh-hans": "ChatGPT插件可与GitHub中的任何内容进行交互。从ChatGPT插件商店安装“Chat With Code”插件。",
+                    "zh-hant": "ChatGPT插件可與GitHub上的任何內容進行互動。從ChatGPT插件商店安裝“Chat With Code”。\nChatGPT插件可與GitHub上的任何內容進行互動。從ChatGPT插件商店安裝“Chat With Code”。"
+                }
+            },
+            "https://github.com/gradusnikov/eclipse-chatgpt-plugin": {
+                "repository_name": "eclipse-chatgpt-plugin",
+                "user_name": "gradusnikov",
+                "language": "Java",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "An Eclipse plugin that integrates with ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "eclipse",
+                    "eclipse-plugin",
+                    "plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An Eclipse plugin that integrates with ChatGPT",
+                    "ja": "ChatGPTと統合されたEclipseのプラグイン",
+                    "zh-hans": "一个与ChatGPT集成的Eclipse插件",
+                    "zh-hant": "一個與ChatGPT整合的Eclipse插件"
                 }
             }
         },
@@ -17186,6 +17313,33 @@
                     "ja": "公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする",
                     "zh-hans": "使用任何公共GitHub存储库作为源，并通过ChatGPT提出问题。",
                     "zh-hant": "使用任何公開的 GitHub 存儲庫作為來源，並通過 ChatGPT 提出相關問題。"
+                }
+            },
+            "https://github.com/dariuszporowski/chatgpt-pre-commit-hooks": {
+                "repository_name": "chatgpt-pre-commit-hooks",
+                "user_name": "DariuszPorowski",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "openai",
+                    "pre-commit",
+                    "pre-commit-hook",
+                    "pre-commit-hooks"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.",
+                    "ja": "ChatGPTとOpenAIプラットフォームを利用して、コードベースへの変更を検証するためのプリコミットフックのコレクション。",
+                    "zh-hans": "预提交钩子集合，利用ChatGPT和OpenAI平台来验证对代码库所做的更改。\n使用ChatGPT和OpenAI平台的预提交钩子集合，用于验证对代码库所做的更改。",
+                    "zh-hant": "使用ChatGPT和OpenAI平台的預提交鉤子集合，用於驗證對代碼庫所做的更改。"
                 }
             }
         },

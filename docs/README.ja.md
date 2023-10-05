@@ -16,27 +16,25 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [prompta](https://github.com/iansinnott/prompta) - キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。
+ * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
+
+
+**Chatbots**
+ * [chatterstack](https://github.com/dschil138/chatterstack) - ChatGPTの会話変数を簡単に管理する
+ * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPTは、ChatGPT-4と一緒にテキサスホールデムポーカーをプレイすることができるPoker Discord Botです。
 
 
 **Browser-extensions**
- * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - ブラウザ版ChatGPTとの対話を自動化します。
- * [chatlab](https://github.com/rgbkrk/chatlab) - ノートブックにChatGPTプラグインを導入する
- * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン
+ * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - ChatGPTに音声テキスト変換とショートカットスニペットを追加してください。
+ * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - GitHubで何でも対話するためのChatGPTプラグイン。ChatGPTプラグインストアから「Chat With Code」をインストールしてください。
+ * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - ChatGPTと統合されたEclipseのプラグイン
 
 
-**Tutorials**
- * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - AlexaでChatGPTを使用する方法のチュートリアル
+**Openai**
+ * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - ChatGPTとOpenAIプラットフォームを利用して、コードベースへの変更を検証するためのプリコミットフックのコレクション。
 
 
-**Others**
- * [chat-review](https://github.com/ikoofe/chat-review) - ChatGPT Gitlab コードレビュー
- * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - 《ChatGPT原理与実践：大規模言語モデルのアルゴリズム、技術、およびプライベート化》
- * [nvim-gpt](https://github.com/archibate/nvim-gpt) - あなたのようなネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)
-ネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)
-
-
-_Updated on October 04, 2023_ (A total of 1092 repositories listed.)
+_Updated on October 06, 2023_ (A total of 1099 repositories listed.)
 
 ## Table of contents
 
@@ -206,6 +204,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
  * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - Streamlitを使用して構築されたChatGPTの対話アシスタントは、科学的なインターネット接続なしで使用でき、無料でクラウドに展開できます。複数のウィンドウ、音声通信、対話の保存、コンテキストのプリセット、およびパラメータの調整などの機能をサポートしています。
  * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 開発者向けのChatGPTプロンプトの個人コレクション！
  * [prompta](https://github.com/iansinnott/prompta) - キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。
+ * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -289,6 +288,7 @@ Prompt Engineering | GPTまたは他のプロンプトベースのモデルを�
 |[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
 |[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pickleboxer/dev-chatgpt-prompts?style=social)|-|-|
 |[prompta](https://github.com/iansinnott/prompta)|![GitHub Repo stars](https://img.shields.io/github/stars/iansinnott/prompta?style=social)|Svelte|mit|
+|[ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese)|![GitHub Repo stars](https://img.shields.io/github/stars/dahatake/ChatGPT-Prompt-Sample-Japanese?style=social)|HTML|mit|
 
 
 ## Chatbots
@@ -432,6 +432,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
  * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - 軽量なチャットGPTボットは、Next.jsとOpenAI Streaming APIを使用して構築されています。
  * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - ChatGPTのようなモデルやそれ以上を実装するための積極的な取り組みを開始します。
  * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要
+ * [chatterstack](https://github.com/dschil138/chatterstack) - ChatGPTの会話変数を簡単に管理する
+ * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPTは、ChatGPT-4と一緒にテキサスホールデムポーカーをプレイすることができるPoker Discord Botです。
 
 
 |Name|GitHub Stars|Language|License|
@@ -572,6 +574,8 @@ ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM�
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
 |[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/sunlemuria/open_source_chatgpt_list?style=social)|-|-|
 |[chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot)|![GitHub Repo stars](https://img.shields.io/github/stars/sytpb/chatgpt-dingtalk-robot?style=social)|JavaScript|-|
+|[chatterstack](https://github.com/dschil138/chatterstack)|![GitHub Repo stars](https://img.shields.io/github/stars/dschil138/chatterstack?style=social)|Python|-|
+|[PokerGPT](https://github.com/matteo-psnt/pokergpt)|![GitHub Repo stars](https://img.shields.io/github/stars/matteo-psnt/PokerGPT?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -706,6 +710,9 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
  * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - ブラウザ版ChatGPTとの対話を自動化します。
  * [chatlab](https://github.com/rgbkrk/chatlab) - ノートブックにChatGPTプラグインを導入する
  * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン
+ * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - ChatGPTに音声テキスト変換とショートカットスニペットを追加してください。
+ * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - GitHubで何でも対話するためのChatGPTプラグイン。ChatGPTプラグインストアから「Chat With Code」をインストールしてください。
+ * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - ChatGPTと統合されたEclipseのプラグイン
 
 
 |Name|GitHub Stars|Language|License|
@@ -837,7 +844,10 @@ OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連�
 |[chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/copilot-us/chatgpt-plugins?style=social)|C#|-|
 |[auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ryuseisan/auto-chatgpt?style=social)|Python|mit|
 |[chatlab](https://github.com/rgbkrk/chatlab)|![GitHub Repo stars](https://img.shields.io/github/stars/rgbkrk/chatlab?style=social)|Jupyter Notebook|other|
-|[paperchat](https://github.com/forward-operators/paperchat)|![GitHub Repo stars](https://img.shields.io/github/stars/Forward-Operators/paperchat?style=social)|HCL|mit|
+|[paperchat](https://github.com/forward-operators/paperchat)|![GitHub Repo stars](https://img.shields.io/github/stars/forward-operators/paperchat?style=social)|HCL|mit|
+|[chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone)|![GitHub Repo stars](https://img.shields.io/github/stars/davidmvenegas/chatgpt-microphone?style=social)|JavaScript|mit|
+|[github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/aavetis/github-chatgpt-plugin?style=social)|TypeScript|-|
+|[eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/gradusnikov/eclipse-chatgpt-plugin?style=social)|Java|mit|
 
 
 ## CLIs
@@ -1698,6 +1708,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
  * [free-chat](https://github.com/cnseniorious000/free-chat) - フォーク元：@anse-app/chatgpt-demoからフォークしました。インデックスサイトはhttps://free-chat.asia/です。
  * [Vontigo](https://github.com/vontigo/vontigo) - 🛸 VontigoはSvelteKitで構築されたオープンソースのCMSで、🤖 AI（ChatGPT）によるコンテンツ生成機能を備えています。高速なページ読み込みとシームレスなルーティングにより、Vontigoはカスタマイズ可能なテーマとテンプレートを備えたユーザーフレンドリーなインターフェースを提供します。
  * [7-docs](https://github.com/7-docs/7-docs) - 公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする
+ * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - ChatGPTとOpenAIプラットフォームを利用して、コードベースへの変更を検証するためのプリコミットフックのコレクション。
 
 
 |Name|GitHub Stars|Language|License|
@@ -1811,6 +1822,7 @@ ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudfl
 |[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/cnseniorious000/free-chat?style=social)|TypeScript|mit|
 |[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/vontigo/Vontigo?style=social)|Svelte|mit|
 |[7-docs](https://github.com/7-docs/7-docs)|![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)|TypeScript|mit|
+|[chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks)|![GitHub Repo stars](https://img.shields.io/github/stars/DariuszPorowski/chatgpt-pre-commit-hooks?style=social)|Python|mit|
 
 
 ## Others
