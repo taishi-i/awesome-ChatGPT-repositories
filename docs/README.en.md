@@ -17,26 +17,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.
+ * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - This is a sample of ChatGPT's prompt.
+
+
+**Chatbots**
+ * [chatterstack](https://github.com/dschil138/chatterstack) - Easily manage ChatGPT conversation variables
+ * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT Is a Poker Discord Bot that allows you to play Texas Hold'em poker with ChatGPT-4.
 
 
 **Browser-extensions**
- * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - Automate interaction with the browser version of ChatGPT.
- * [chatlab](https://github.com/rgbkrk/chatlab) - Bringing ChatGPT Plugins to your notebooks
- * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset
+ * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - Add voice-to-text and shortcut snippets to ChatGPT
+ * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - ChatGPT plugin to interact with anything in GitHub. Install “Chat With Code” from the ChatGPT plugin store.
+ * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - An Eclipse plugin that integrates with ChatGPT
 
 
-**Tutorials**
- * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - A tutorial on how to use ChatGPT in Alexa
+**Openai**
+ * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.
 
 
-**Others**
- * [chat-review](https://github.com/ikoofe/chat-review) - ChatGPT Gitlab Code Review
- * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - "Principles and Practice of ChatGPT: Algorithms, Techniques, and Privatization of Large-scale Language Models"
- * [nvim-gpt](https://github.com/archibate/nvim-gpt) - Integrated ChatGPT + Bing AI in NeoVim just for neo-pioneers like you :)
-
-
-_Updated on October 04, 2023_ (A total of 1092 repositories listed.)
+_Updated on October 06, 2023_ (A total of 1099 repositories listed.)
 
 ## Table of contents
 
@@ -196,6 +195,7 @@ _Updated on October 04, 2023_ (A total of 1092 repositories listed.)
  * [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - ChatGPT conversation assistant based on Streamlit, which can be used without scientific internet access and can be deployed for free in the cloud. It supports multiple windows, voice communication, conversation retention, context presets, and parameter adjustment functions.
  * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
  * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.
+ * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - This is a sample of ChatGPT's prompt.
 
 
 |Name|GitHub Stars|Language|License|
@@ -279,6 +279,7 @@ _Updated on October 04, 2023_ (A total of 1092 repositories listed.)
 |[ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant)|![GitHub Repo stars](https://img.shields.io/github/stars/pierxuy/ChatGPT-Assistant?style=social)|Python|apache-2.0|
 |[dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts)|![GitHub Repo stars](https://img.shields.io/github/stars/pickleboxer/dev-chatgpt-prompts?style=social)|-|-|
 |[prompta](https://github.com/iansinnott/prompta)|![GitHub Repo stars](https://img.shields.io/github/stars/iansinnott/prompta?style=social)|Svelte|mit|
+|[ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese)|![GitHub Repo stars](https://img.shields.io/github/stars/dahatake/ChatGPT-Prompt-Sample-Japanese?style=social)|HTML|mit|
 
 
 ## Chatbots
@@ -419,6 +420,8 @@ _Updated on October 04, 2023_ (A total of 1092 repositories listed.)
  * [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - Lightweight chatgpt bot built using Next.js and the OpenAI Streaming API. 一个使用 Next.js 和 OpenAI Streaming API 创建的简易ChatGPT聊天机器人
  * [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - Open efforts to implement ChatGPT-like models and beyond.
  * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - Zero code, one-click deployment of ChatGPT to DingTalk, no VPN required.
+ * [chatterstack](https://github.com/dschil138/chatterstack) - Easily manage ChatGPT conversation variables
+ * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT Is a Poker Discord Bot that allows you to play Texas Hold'em poker with ChatGPT-4.
 
 
 |Name|GitHub Stars|Language|License|
@@ -559,6 +562,8 @@ _Updated on October 04, 2023_ (A total of 1092 repositories listed.)
 |[chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal)|![GitHub Repo stars](https://img.shields.io/github/stars/blrchen/chatgpt-minimal?style=social)|TypeScript|mit|
 |[open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list)|![GitHub Repo stars](https://img.shields.io/github/stars/sunlemuria/open_source_chatgpt_list?style=social)|-|-|
 |[chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot)|![GitHub Repo stars](https://img.shields.io/github/stars/sytpb/chatgpt-dingtalk-robot?style=social)|JavaScript|-|
+|[chatterstack](https://github.com/dschil138/chatterstack)|![GitHub Repo stars](https://img.shields.io/github/stars/dschil138/chatterstack?style=social)|Python|-|
+|[PokerGPT](https://github.com/matteo-psnt/pokergpt)|![GitHub Repo stars](https://img.shields.io/github/stars/matteo-psnt/PokerGPT?style=social)|Python|mit|
 
 
 ## Browser-extensions
@@ -691,6 +696,9 @@ _Updated on October 04, 2023_ (A total of 1092 repositories listed.)
  * [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - Automate interaction with the browser version of ChatGPT.
  * [chatlab](https://github.com/rgbkrk/chatlab) - Bringing ChatGPT Plugins to your notebooks
  * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset
+ * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - Add voice-to-text and shortcut snippets to ChatGPT
+ * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - ChatGPT plugin to interact with anything in GitHub. Install “Chat With Code” from the ChatGPT plugin store.
+ * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - An Eclipse plugin that integrates with ChatGPT
 
 
 |Name|GitHub Stars|Language|License|
@@ -822,7 +830,10 @@ _Updated on October 04, 2023_ (A total of 1092 repositories listed.)
 |[chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins)|![GitHub Repo stars](https://img.shields.io/github/stars/copilot-us/chatgpt-plugins?style=social)|C#|-|
 |[auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt)|![GitHub Repo stars](https://img.shields.io/github/stars/ryuseisan/auto-chatgpt?style=social)|Python|mit|
 |[chatlab](https://github.com/rgbkrk/chatlab)|![GitHub Repo stars](https://img.shields.io/github/stars/rgbkrk/chatlab?style=social)|Jupyter Notebook|other|
-|[paperchat](https://github.com/forward-operators/paperchat)|![GitHub Repo stars](https://img.shields.io/github/stars/Forward-Operators/paperchat?style=social)|HCL|mit|
+|[paperchat](https://github.com/forward-operators/paperchat)|![GitHub Repo stars](https://img.shields.io/github/stars/forward-operators/paperchat?style=social)|HCL|mit|
+|[chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone)|![GitHub Repo stars](https://img.shields.io/github/stars/davidmvenegas/chatgpt-microphone?style=social)|JavaScript|mit|
+|[github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/aavetis/github-chatgpt-plugin?style=social)|TypeScript|-|
+|[eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin)|![GitHub Repo stars](https://img.shields.io/github/stars/gradusnikov/eclipse-chatgpt-plugin?style=social)|Java|mit|
 
 
 ## CLIs
@@ -1673,6 +1684,7 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
  * [free-chat](https://github.com/cnseniorious000/free-chat) - forked from @anse-app/chatgpt-demo. Index site at https://free-chat.asia/
  * [Vontigo](https://github.com/vontigo/vontigo) - 🛸 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable themes and templates.
  * [7-docs](https://github.com/7-docs/7-docs) - Use any public GitHub repository as a source and ask questions through ChatGPT about it
+ * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.
 
 
 |Name|GitHub Stars|Language|License|
@@ -1786,6 +1798,7 @@ Output: Cloudflare reverse proxy | OpenAI/ChatGPT non-wall proxy | Github non-wa
 |[free-chat](https://github.com/cnseniorious000/free-chat)|![GitHub Repo stars](https://img.shields.io/github/stars/cnseniorious000/free-chat?style=social)|TypeScript|mit|
 |[Vontigo](https://github.com/vontigo/vontigo)|![GitHub Repo stars](https://img.shields.io/github/stars/vontigo/Vontigo?style=social)|Svelte|mit|
 |[7-docs](https://github.com/7-docs/7-docs)|![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)|TypeScript|mit|
+|[chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks)|![GitHub Repo stars](https://img.shields.io/github/stars/DariuszPorowski/chatgpt-pre-commit-hooks?style=social)|Python|mit|
 
 
 ## Others
