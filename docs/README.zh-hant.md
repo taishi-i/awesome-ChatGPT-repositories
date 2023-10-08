@@ -15,26 +15,20 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - 這裡是一個很棒的例子.
-
-
-**Chatbots**
- * [chatterstack](https://github.com/dschil138/chatterstack) - 輕鬆管理ChatGPT對話變量
- * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - 提供您使用 ChatGPT-4 玩德州 ?? 克的機會.
-
-
-**Browser-extensions**
- * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - 加入語音到文字和快捷鍵片段到ChatGPT
- * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - 請從 ChatGPT 插件庫安裝Chat With Code.
- * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - 這是一款與ChatGPT集成的Eclipse插件
+**Langchain**
+ * [gpt_academic](https://github.com/binary-husky/gpt_academic) - 聊天GPT/GLM提供實用化交互界面,特別優化論文閱讀/色/寫作體驗,模塊化設計,支持自定義快捷按&函數插件,支持Python和C++等項目剖析&自譯解釋功能,PDF/拉德克斯论文翻译&總結功能,支持并行询问多種LLM模型,支持聊天glm2等本地模型。兼容文心一言,moss, llama2, rwkv, claude 为2,通义千问, 书生, 讯飞星等.
 
 
 **Openai**
- * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - 預先提交子集合, 使用ChatGPT和OpenAI平臺來驗證代碼庫所做的變更.
+ * [chatpad](https://github.com/deiucanta/chatpad) - 這不是另一種ChatGPT使用者介面!
 
 
-_Updated on October 09, 2023_ (A total of 1099 repositories listed.)
+**Others**
+ * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - 提供改善建議.
+ * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 基于ChatGLM-6B+LoRA的平價聊天實現方案.
+
+
+_Updated on October 09, 2023_ (A total of 1105 repositories listed.)
 
 ## Table of contents
 
@@ -375,7 +369,7 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI以鍵盤為中心，適用於移動設備，可以同步設備間的聊天記錄並搜索過去的對話。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/iansinnott/prompta?style=social)
- * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI以鍵盤為中心，適用於移動設備，可以同步設備間的聊天記錄並搜索過去的對話。
+ * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - 這是ChatGPT的提示示例。ChatGPT的提示示例。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/dahatake/ChatGPT-Prompt-Sample-Japanese?style=social)
 
@@ -790,10 +784,10 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代碼、一鍵部署chatgpt到釘釘，無須VPN
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/sytpb/chatgpt-dingtalk-robot?style=social)
- * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代碼、一鍵部署chatgpt到釘釘，無須VPN
+ * [chatterstack](https://github.com/dschil138/chatterstack) - 輕鬆管理ChatGPT對話變數
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/dschil138/chatterstack?style=social)
- * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代碼、一鍵部署chatgpt到釘釘，無須VPN
+ * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT 是一個可以讓你與 ChatGPT-4 一起玩德州撲克的 Poker Discord 機器人。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/matteo-psnt/PokerGPT?style=social)
 
@@ -1184,13 +1178,13 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [paperchat](https://github.com/forward-operators/paperchat) - 請將以下內容翻譯成繁體中文。PaperChat - 用於查詢arXiv數據集的cli、API和ChatGPT插件
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/forward-operators/paperchat?style=social)
- * [paperchat](https://github.com/forward-operators/paperchat) - 請將以下內容翻譯成繁體中文。PaperChat - 用於查詢arXiv數據集的cli、API和ChatGPT插件
+ * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - 將語音轉文字和快捷片段添加到ChatGPT
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/davidmvenegas/chatgpt-microphone?style=social)
- * [paperchat](https://github.com/forward-operators/paperchat) - 請將以下內容翻譯成繁體中文。PaperChat - 用於查詢arXiv數據集的cli、API和ChatGPT插件
+ * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - ChatGPT插件可與GitHub上的任何內容進行互動。從ChatGPT插件商店安裝“Chat With Code”。ChatGPT插件可與GitHub上的任何內容進行互動。從ChatGPT插件商店安裝“Chat With Code”。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/aavetis/github-chatgpt-plugin?style=social)
- * [paperchat](https://github.com/forward-operators/paperchat) - 請將以下內容翻譯成繁體中文。PaperChat - 用於查詢arXiv數據集的cli、API和ChatGPT插件
+ * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - 一個與ChatGPT整合的Eclipse插件
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/gradusnikov/eclipse-chatgpt-plugin?style=social)
 
@@ -2221,6 +2215,9 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPT爆火，開啟了通往AGI的關鍵一步，本專案旨在匯總那些ChatGPT的開源平替們，包括文本大模型、多模態大模型等，為大家提供一些便利。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/chenking2020/FindTheChatGPTer?style=social)
+ * [gpt_academic](https://github.com/binary-husky/gpt_academic) - 為ChatGPT/GLM提供實用化交互界面，特別優化論文閱讀/潤色/寫作體驗，模塊化設計，支持自定義快捷按鈕和函數插件，支持Python和C++等項目剖析和自譯解功能，PDF/LaTex論文翻譯和總結功能，支持並行問詢多種LLM模型，支持chatglm2等本地模型。兼容文心一言，moss，llama2，rwkv，claude2，通義千問，書生，訊飛星火等。
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social)
 
 
 ## Unity
@@ -2580,9 +2577,12 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [7-docs](https://github.com/7-docs/7-docs) - 使用任何公開的 GitHub 存儲庫作為來源，並通過 ChatGPT 提出相關問題。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)
- * [7-docs](https://github.com/7-docs/7-docs) - 使用任何公開的 GitHub 存儲庫作為來源，並通過 ChatGPT 提出相關問題。
+ * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - 使用ChatGPT和OpenAI平台的預提交鉤子集合，用於驗證對代碼庫所做的更改。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/dariuszporowski/chatgpt-pre-commit-hooks?style=social)
+ * [chatpad](https://github.com/deiucanta/chatpad) - 不只是另一個ChatGPT使用者介面！
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/deiucanta/chatpad?style=social)
 
 
 ## Others
@@ -3430,5 +3430,17 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [nvim-gpt](https://github.com/archibate/nvim-gpt) - 整合ChatGPT + Bing AI於NeoVim，專為像您這樣的新先鋒而設 :)
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/archibate/nvim-gpt?style=social)
+ * [jasper-alternative-gpt](https://github.com/yuvalsuede/jasper-alternative-gpt) - 一個具有ChatGPT的Jasper替代開源方案
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/yuvalsuede/jasper-alternative-gpt?style=social)
+ * [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - ChatGPT 網站導航。搜集國內可用的 ChatGPT 在線體驗免費網站列表。定時任務每日更新。
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/lzwme/chatgpt-sites?style=social)
+ * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: 使用ChatGPT分析論文優缺點，提出改進建議
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=social)
+ * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 一種平價的chatgpt實現方案，基於ChatGLM-6B + LoRA
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/mymusise/ChatGLM-Tuning?style=social)
 
 

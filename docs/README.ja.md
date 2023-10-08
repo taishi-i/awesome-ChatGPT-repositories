@@ -15,26 +15,20 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
-
-
-**Chatbots**
- * [chatterstack](https://github.com/dschil138/chatterstack) - ChatGPTの会話変数を簡単に管理する
- * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPTは、ChatGPT-4と一緒にテキサスホールデムポーカーをプレイすることができるPoker Discord Botです。
-
-
-**Browser-extensions**
- * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - ChatGPTに音声テキスト変換とショートカットスニペットを追加してください。
- * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - GitHubで何でも対話するためのChatGPTプラグイン。ChatGPTプラグインストアから「Chat With Code」をインストールしてください。
- * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - ChatGPTと統合されたEclipseのプラグイン
+**Langchain**
+ * [gpt_academic](https://github.com/binary-husky/gpt_academic) - ChatGPT/GLMのための実用的なインタラクティブなインターフェースを提供し、論文の読み込み/校正/執筆の体験を特に最適化し、モジュール化されたデザインで、カスタムショートカットボタンと関数プラグインをサポートし、PythonやC++などのプロジェクトの解析と自動翻訳機能をサポートし、PDF/LaTex論文の翻訳と要約機能を提供し、さまざまなLLMモデルの並列問い合わせをサポートし、chatglm2などのローカルモデルにも対応しています。文心一言、moss、llama2、rwkv、claude2、通義千問、書生、讯飞星火などと互換性があります。
 
 
 **Openai**
- * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - ChatGPTとOpenAIプラットフォームを利用して、コードベースへの変更を検証するためのプリコミットフックのコレクション。
+ * [chatpad](https://github.com/deiucanta/chatpad) - ただのChatGPTのユーザーインターフェースではありません！
 
 
-_Updated on October 09, 2023_ (A total of 1099 repositories listed.)
+**Others**
+ * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: ChatGPTを使用して論文の利点と欠点を分析し、改善の提案を行います。
+ * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法
+
+
+_Updated on October 09, 2023_ (A total of 1105 repositories listed.)
 
 ## Table of contents
 
@@ -375,7 +369,7 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [prompta](https://github.com/iansinnott/prompta) - キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/iansinnott/prompta?style=social)
- * [prompta](https://github.com/iansinnott/prompta) - キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。
+ * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/dahatake/ChatGPT-Prompt-Sample-Japanese?style=social)
 
@@ -790,10 +784,10 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/sytpb/chatgpt-dingtalk-robot?style=social)
- * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要
+ * [chatterstack](https://github.com/dschil138/chatterstack) - ChatGPTの会話変数を簡単に管理する
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/dschil138/chatterstack?style=social)
- * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要
+ * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPTは、ChatGPT-4と一緒にテキサスホールデムポーカーをプレイすることができるPoker Discord Botです。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/matteo-psnt/PokerGPT?style=social)
 
@@ -1184,13 +1178,13 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/forward-operators/paperchat?style=social)
- * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン
+ * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - ChatGPTに音声テキスト変換とショートカットスニペットを追加してください。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/davidmvenegas/chatgpt-microphone?style=social)
- * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン
+ * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - GitHubで何でも対話するためのChatGPTプラグイン。ChatGPTプラグインストアから「Chat With Code」をインストールしてください。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/aavetis/github-chatgpt-plugin?style=social)
- * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - arXivのデータセットをクエリするためのcli、API、およびChatGPTプラグイン
+ * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - ChatGPTと統合されたEclipseのプラグイン
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/gradusnikov/eclipse-chatgpt-plugin?style=social)
 
@@ -2221,6 +2215,9 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPTが大人気で、AGIへの鍵となる重要な一歩を踏み出しました。このプロジェクトは、ChatGPTのオープンソースの代替品、テキストモデル、マルチモーダルモデルなどをまとめ、皆さんに便利を提供することを目的としています。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/chenking2020/FindTheChatGPTer?style=social)
+ * [gpt_academic](https://github.com/binary-husky/gpt_academic) - ChatGPT/GLMのための実用的なインタラクティブなインターフェースを提供し、論文の読み込み/校正/執筆の体験を特に最適化し、モジュール化されたデザインで、カスタムショートカットボタンと関数プラグインをサポートし、PythonやC++などのプロジェクトの解析と自動翻訳機能をサポートし、PDF/LaTex論文の翻訳と要約機能を提供し、さまざまなLLMモデルの並列問い合わせをサポートし、chatglm2などのローカルモデルにも対応しています。文心一言、moss、llama2、rwkv、claude2、通義千問、書生、讯飞星火などと互換性があります。
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social)
 
 
 ## Unity
@@ -2580,9 +2577,12 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [7-docs](https://github.com/7-docs/7-docs) - 公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)
- * [7-docs](https://github.com/7-docs/7-docs) - 公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする
+ * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - ChatGPTとOpenAIプラットフォームを利用して、コードベースへの変更を検証するためのプリコミットフックのコレクション。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/dariuszporowski/chatgpt-pre-commit-hooks?style=social)
+ * [chatpad](https://github.com/deiucanta/chatpad) - ただのChatGPTのユーザーインターフェースではありません！
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/deiucanta/chatpad?style=social)
 
 
 ## Others
@@ -3430,5 +3430,17 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [nvim-gpt](https://github.com/archibate/nvim-gpt) - あなたのようなネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)ネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/archibate/nvim-gpt?style=social)
+ * [jasper-alternative-gpt](https://github.com/yuvalsuede/jasper-alternative-gpt) - ChatGPTを使用したJasperの代替オープンソースChatGPTを使用したJasperの代替オープンソース
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/yuvalsuede/jasper-alternative-gpt?style=social)
+ * [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - ChatGPTウェブサイトナビゲーション。国内で利用可能なChatGPTオンライン体験無料ウェブサイトのリストを収集します。定期的なタスクで毎日更新します。
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/lzwme/chatgpt-sites?style=social)
+ * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: ChatGPTを使用して論文の利点と欠点を分析し、改善の提案を行います。
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=social)
+ * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/mymusise/ChatGLM-Tuning?style=social)
 
 
