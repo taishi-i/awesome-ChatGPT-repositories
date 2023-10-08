@@ -16,26 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
-
-
-**Chatbots**
- * [chatterstack](https://github.com/dschil138/chatterstack) - Easily manage ChatGPT conversation variables
- * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT Is a Poker Discord Bot that allows you to play Texas Hold'em poker with ChatGPT-4.
-
-
-**Browser-extensions**
- * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - Add voice-to-text and shortcut snippets to ChatGPT
- * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - ChatGPT plugin to interact with anything in GitHub. Install “Chat With Code” from the ChatGPT plugin store.
- * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - An Eclipse plugin that integrates with ChatGPT
+**Langchain**
+ * [gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 
 
 **Openai**
- * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.
+ * [chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 
 
-_Updated on October 09, 2023_ (A total of 1099 repositories listed.)
+**Others**
+ * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: 使用ChatGPT分析论文优缺点，提出改进建议
+ * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 一种平价的chatgpt实现方案,  基于ChatGLM-6B + LoRA
+
+
+_Updated on October 09, 2023_ (A total of 1105 repositories listed.)
 
 ## Table of contents
 
@@ -376,7 +370,7 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/iansinnott/prompta?style=social)
- * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.
+ * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/dahatake/ChatGPT-Prompt-Sample-Japanese?style=social)
 
@@ -791,10 +785,10 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代码、一键部署chatgpt到钉钉，无须VPN
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/sytpb/chatgpt-dingtalk-robot?style=social)
- * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代码、一键部署chatgpt到钉钉，无须VPN
+ * [chatterstack](https://github.com/dschil138/chatterstack) - Easily manage ChatGPT conversation variables
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/dschil138/chatterstack?style=social)
- * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代码、一键部署chatgpt到钉钉，无须VPN
+ * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT Is a Poker Discord Bot that allows you to play Texas Hold'em poker with ChatGPT-4.
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/matteo-psnt/PokerGPT?style=social)
 
@@ -1185,13 +1179,13 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/forward-operators/paperchat?style=social)
- * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset
+ * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - Add voice-to-text and shortcut snippets to ChatGPT
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/davidmvenegas/chatgpt-microphone?style=social)
- * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset
+ * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - ChatGPT plugin to interact with anything in GitHub. Install “Chat With Code” from the ChatGPT plugin store.
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/aavetis/github-chatgpt-plugin?style=social)
- * [paperchat](https://github.com/forward-operators/paperchat) - PaperChat - cli, API and ChatGPT plugin to query arXiv's dataset
+ * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - An Eclipse plugin that integrates with ChatGPT
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/gradusnikov/eclipse-chatgpt-plugin?style=social)
 
@@ -2222,6 +2216,9 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平替们，包括文本大模型、多模态大模型等，为大家提供一些便利
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/chenking2020/FindTheChatGPTer?style=social)
+ * [gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/binary-husky/gpt_academic?style=social)
 
 
 ## Unity
@@ -2581,9 +2578,12 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [7-docs](https://github.com/7-docs/7-docs) - Use any public GitHub repository as a source and ask questions through ChatGPT about it
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/7-docs/7-docs?style=social)
- * [7-docs](https://github.com/7-docs/7-docs) - Use any public GitHub repository as a source and ask questions through ChatGPT about it
+ * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/dariuszporowski/chatgpt-pre-commit-hooks?style=social)
+ * [chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/deiucanta/chatpad?style=social)
 
 
 ## Others
@@ -3431,5 +3431,17 @@ _Updated on October 09, 2023_ (A total of 1099 repositories listed.)
  * [nvim-gpt](https://github.com/archibate/nvim-gpt) - Integrated ChatGPT + Bing AI in NeoVim just for neo-pioneers like you :)
 
      ![GitHub Repo stars](https://img.shields.io/github/stars/archibate/nvim-gpt?style=social)
+ * [jasper-alternative-gpt](https://github.com/yuvalsuede/jasper-alternative-gpt) - A Jasper alternative open source with ChatGPT
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/yuvalsuede/jasper-alternative-gpt?style=social)
+ * [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) -  ChatGPT 网站导航。搜集国内可用的 ChatGPT 在线体验免费网站列表。定时任务每日更新
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/lzwme/chatgpt-sites?style=social)
+ * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: 使用ChatGPT分析论文优缺点，提出改进建议
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/nishiwen1214/ChatReviewer?style=social)
+ * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 一种平价的chatgpt实现方案,  基于ChatGLM-6B + LoRA
+
+     ![GitHub Repo stars](https://img.shields.io/github/stars/mymusise/ChatGLM-Tuning?style=social)
 
 

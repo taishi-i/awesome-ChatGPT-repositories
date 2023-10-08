@@ -14930,6 +14930,32 @@
                     "zh-hans": "ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平台们，包括文本大模型、多模态大模型等，为大家提供一些便利。",
                     "zh-hant": "ChatGPT爆火，開啟了通往AGI的關鍵一步，本專案旨在匯總那些ChatGPT的開源平替們，包括文本大模型、多模態大模型等，為大家提供一些便利。"
                 }
+            },
+            "https://github.com/binary-husky/gpt_academic": {
+                "repository_name": "gpt_academic",
+                "user_name": "binary-husky",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。",
+                "topics": [
+                    "academic",
+                    "chatglm-6b",
+                    "chatgpt",
+                    "gpt-4",
+                    "large-language-models"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Provide a practical interactive interface for ChatGPT/GLM, specially optimized for paper reading/editing/writing experience. Modular design, supporting custom shortcut buttons & function plugins, supporting project analysis & self-translation functions for Python and C++ projects, PDF/LaTex paper translation & summarization functions, supporting parallel inquiries for various LLM models, supporting local models such as chatglm2. Compatible with Wenxin Yiyu, Moss, Llama2, RWKV, Claude2, Tongyi Qianwen, Shusheng, Xunfei Xinghuo, etc.",
+                    "ja": "ChatGPT/GLMのための実用的なインタラクティブなインターフェースを提供し、論文の読み込み/校正/執筆の体験を特に最適化し、モジュール化されたデザインで、カスタムショートカットボタンと関数プラグインをサポートし、PythonやC++などのプロジェクトの解析と自動翻訳機能をサポートし、PDF/LaTex論文の翻訳と要約機能を提供し、さまざまなLLMモデルの並列問い合わせをサポートし、chatglm2などのローカルモデルにも対応しています。文心一言、moss、llama2、rwkv、claude2、通義千問、書生、讯飞星火などと互換性があります。",
+                    "zh-hans": "为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮和函数插件，支持Python和C++等项目剖析和自译解功能，PDF/LaTex论文翻译和总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言、moss、llama2、rwkv、claude2、通义千问、书生、讯飞星火等。",
+                    "zh-hant": "為ChatGPT/GLM提供實用化交互界面，特別優化論文閱讀/潤色/寫作體驗，模塊化設計，支持自定義快捷按鈕和函數插件，支持Python和C++等項目剖析和自譯解功能，PDF/LaTex論文翻譯和總結功能，支持並行問詢多種LLM模型，支持chatglm2等本地模型。兼容文心一言，moss，llama2，rwkv，claude2，通義千問，書生，訊飛星火等。"
+                }
             }
         },
         "Unity": {
@@ -17340,6 +17366,34 @@
                     "ja": "ChatGPTとOpenAIプラットフォームを利用して、コードベースへの変更を検証するためのプリコミットフックのコレクション。",
                     "zh-hans": "预提交钩子集合，利用ChatGPT和OpenAI平台来验证对代码库所做的更改。\n使用ChatGPT和OpenAI平台的预提交钩子集合，用于验证对代码库所做的更改。",
                     "zh-hant": "使用ChatGPT和OpenAI平台的預提交鉤子集合，用於驗證對代碼庫所做的更改。"
+                }
+            },
+            "https://github.com/deiucanta/chatpad": {
+                "repository_name": "chatpad",
+                "user_name": "deiucanta",
+                "language": "TypeScript",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "Not just another ChatGPT user-interface!",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "electron",
+                    "javascript",
+                    "openai",
+                    "openai-api",
+                    "react"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Not just another ChatGPT user-interface!",
+                    "ja": "ただのChatGPTのユーザーインターフェースではありません！",
+                    "zh-hans": "不仅仅是另一个ChatGPT用户界面！",
+                    "zh-hant": "不只是另一個ChatGPT使用者介面！"
                 }
             }
         },
@@ -22483,6 +22537,51 @@
                     "ja": "あなたのようなネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)\nネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)",
                     "zh-hans": "为像您这样的新先锋将ChatGPT和Bing AI集成到NeoVim中 :)",
                     "zh-hant": "整合ChatGPT + Bing AI於NeoVim，專為像您這樣的新先鋒而設 :)"
+                }
+            },
+            "https://github.com/nishiwen1214/chatreviewer": {
+                "repository_name": "ChatReviewer",
+                "user_name": "nishiwen1214",
+                "language": "Python",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "ChatReviewer: 使用ChatGPT分析论文优缺点，提出改进建议",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatReviewer: 使用ChatGPT分析论文优缺点，提出改进建议",
+                    "ja": "ChatReviewer: ChatGPTを使用して論文の利点と欠点を分析し、改善の提案を行います。",
+                    "zh-hans": "ChatReviewer: 使用ChatGPT分析论文的优缺点，并提出改进建议",
+                    "zh-hant": "ChatReviewer: 使用ChatGPT分析論文優缺點，提出改進建議"
+                }
+            },
+            "https://github.com/mymusise/chatglm-tuning": {
+                "repository_name": "ChatGLM-Tuning",
+                "user_name": "mymusise",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "一种平价的chatgpt实现方案,  基于ChatGLM-6B + LoRA",
+                "topics": [
+                    "chatglm",
+                    "chatgpt",
+                    "lora",
+                    "peft"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An affordable chatgpt implementation solution based on ChatGLM-6B + LoRA.",
+                    "ja": "出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法",
+                    "zh-hans": "一种平价的chatgpt实现方案，基于ChatGLM-6B + LoRA",
+                    "zh-hant": "一種平價的chatgpt實現方案，基於ChatGLM-6B + LoRA"
                 }
             }
         }
