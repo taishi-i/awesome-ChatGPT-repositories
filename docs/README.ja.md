@@ -15,20 +15,24 @@
 
 ## The latest additions 🎉
 
-**Langchain**
- * [gpt_academic](https://github.com/binary-husky/gpt_academic) - ChatGPT/GLMのための実用的なインタラクティブなインターフェースを提供し、論文の読み込み/校正/執筆の体験を特に最適化し、モジュール化されたデザインで、カスタムショートカットボタンと関数プラグインをサポートし、PythonやC++などのプロジェクトの解析と自動翻訳機能をサポートし、PDF/LaTex論文の翻訳と要約機能を提供し、さまざまなLLMモデルの並列問い合わせをサポートし、chatglm2などのローカルモデルにも対応しています。文心一言、moss、llama2、rwkv、claude2、通義千問、書生、讯飞星火などと互換性があります。
+**Prompts**
+ * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分類されたChatGPTの中国語ガイド全集。
+
+
+**Chatbots**
+ * [kitt](https://github.com/livekit-examples/kitt) - リアルタイムでLiveKitを使用してChatGPTと会話してください。
 
 
 **Openai**
- * [chatpad](https://github.com/deiucanta/chatpad) - ただのChatGPTのユーザーインターフェースではありません！
+ * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - Nuxt.jsフレームワークを使用したChatGPTクラスプロジェクトで、OpenAIとAzureの2つのAPIの切り替えをサポートし、ダークモード、英語、日本語の多言語切り替えをサポートしています。
 
 
 **Others**
- * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: ChatGPTを使用して論文の利点と欠点を分析し、改善の提案を行います。
- * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法
+ * [chatgpt](https://github.com/emacs-openai/chatgpt) - Emacs内でChatGPTを使用する
+ * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - プログラミングの学習を強化するためにChatGPTの使い方を学びましょう。
 
 
-_Updated on October 10, 2023_ (A total of 1105 repositories listed.)
+_Updated on October 12, 2023_ (A total of 1110 repositories listed.)
 
 ## Table of contents
 
@@ -158,6 +162,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 開発者向けのChatGPTプロンプトの個人コレクション！
  * [prompta](https://github.com/iansinnott/prompta) - キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。
  * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
+ * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分類されたChatGPTの中国語ガイド全集。
 
 
 ## Chatbots
@@ -300,6 +305,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要
  * [chatterstack](https://github.com/dschil138/chatterstack) - ChatGPTの会話変数を簡単に管理する
  * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPTは、ChatGPT-4と一緒にテキサスホールデムポーカーをプレイすることができるPoker Discord Botです。
+ * [kitt](https://github.com/livekit-examples/kitt) - リアルタイムでLiveKitを使用してChatGPTと会話してください。
 
 
 ## Browser-extensions
@@ -919,6 +925,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [7-docs](https://github.com/7-docs/7-docs) - 公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする
  * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - ChatGPTとOpenAIプラットフォームを利用して、コードベースへの変更を検証するためのプリコミットフックのコレクション。
  * [chatpad](https://github.com/deiucanta/chatpad) - ただのChatGPTのユーザーインターフェースではありません！
+ * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - Nuxt.jsフレームワークを使用したChatGPTクラスプロジェクトで、OpenAIとAzureの2つのAPIの切り替えをサポートし、ダークモード、英語、日本語の多言語切り替えをサポートしています。
 
 
 ## Others
@@ -1208,5 +1215,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - ChatGPTウェブサイトナビゲーション。国内で利用可能なChatGPTオンライン体験無料ウェブサイトのリストを収集します。定期的なタスクで毎日更新します。
  * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: ChatGPTを使用して論文の利点と欠点を分析し、改善の提案を行います。
  * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法
+ * [chatgpt](https://github.com/emacs-openai/chatgpt) - Emacs内でChatGPTを使用する
+ * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - プログラミングの学習を強化するためにChatGPTの使い方を学びましょう。
 
 

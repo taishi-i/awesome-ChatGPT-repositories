@@ -16,20 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Langchain**
- * [gpt_academic](https://github.com/binary-husky/gpt_academic) - Provide a practical interactive interface for ChatGPT/GLM, specially optimized for paper reading/editing/writing experience. Modular design, supporting custom shortcut buttons & function plugins, supporting project analysis & self-translation functions for Python and C++ projects, PDF/LaTex paper translation & summarization functions, supporting parallel inquiries for various LLM models, supporting local models such as chatglm2. Compatible with Wenxin Yiyu, Moss, Llama2, RWKV, Claude2, Tongyi Qianwen, Shusheng, Xunfei Xinghuo, etc.
+**Prompts**
+ * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - Comprehensive collection of categorized Chinese prompts for ChatGPT.
+
+
+**Chatbots**
+ * [kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
 
 
 **Openai**
- * [chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
+ * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - A ChatGPT-like project based on the Nuxt.js framework, supporting the switching between OpenAI and Azure APIs, and supporting dark mode and switching between multiple languages including Chinese, English, and Japanese.
 
 
 **Others**
- * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: 使用ChatGPT分析论文优缺点，提出改进建议
- * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - An affordable chatgpt implementation solution based on ChatGLM-6B + LoRA.
+ * [chatgpt](https://github.com/emacs-openai/chatgpt) - Use ChatGPT inside Emacs
+ * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - "Learn how to use ChatGPT to enhance your learning of Programming
 
 
-_Updated on October 10, 2023_ (A total of 1105 repositories listed.)
+_Updated on October 12, 2023_ (A total of 1110 repositories listed.)
 
 ## Table of contents
 
@@ -159,6 +163,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
  * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.
  * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - This is a sample of ChatGPT's prompt.
+ * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - Comprehensive collection of categorized Chinese prompts for ChatGPT.
 
 
 ## Chatbots
@@ -301,6 +306,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - Zero code, one-click deployment of ChatGPT to DingTalk, no VPN required.
  * [chatterstack](https://github.com/dschil138/chatterstack) - Easily manage ChatGPT conversation variables
  * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT Is a Poker Discord Bot that allows you to play Texas Hold'em poker with ChatGPT-4.
+ * [kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
 
 
 ## Browser-extensions
@@ -920,6 +926,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [7-docs](https://github.com/7-docs/7-docs) - Use any public GitHub repository as a source and ask questions through ChatGPT about it
  * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.
  * [chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
+ * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - A ChatGPT-like project based on the Nuxt.js framework, supporting the switching between OpenAI and Azure APIs, and supporting dark mode and switching between multiple languages including Chinese, English, and Japanese.
 
 
 ## Others
@@ -1209,5 +1216,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - Input: ChatGPT website navigation. Collect a list of free websites for online ChatGPT experiences available in China. Scheduled task updates daily.
  * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: 使用ChatGPT分析论文优缺点，提出改进建议
  * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - An affordable chatgpt implementation solution based on ChatGLM-6B + LoRA.
+ * [chatgpt](https://github.com/emacs-openai/chatgpt) - Use ChatGPT inside Emacs
+ * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - "Learn how to use ChatGPT to enhance your learning of Programming
 
 
