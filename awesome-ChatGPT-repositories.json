@@ -2192,6 +2192,34 @@
                     "zh-hans": "这是ChatGPT的提示示例。",
                     "zh-hant": "這是ChatGPT的提示示例。\nChatGPT的提示示例。"
                 }
+            },
+            "https://github.com/jevantang/chatgpt-prompts": {
+                "repository_name": "chatgpt-prompts",
+                "user_name": "jevantang",
+                "language": null,
+                "license": {
+                    "key": "cc0-1.0",
+                    "name": "Creative Commons Zero v1.0 Universal",
+                    "spdx_id": "CC0-1.0",
+                    "url": "https://api.github.com/licenses/cc0-1.0",
+                    "node_id": "MDc6TGljZW5zZTY="
+                },
+                "description": "分门别类的 ChatGPT 中文引导语大全。",
+                "topics": [
+                    "bots",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "openai",
+                    "prompt",
+                    "prompts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Comprehensive collection of categorized Chinese prompts for ChatGPT.",
+                    "ja": "分類されたChatGPTの中国語ガイド全集。",
+                    "zh-hans": "分门别类的 ChatGPT 中文引导语大全。",
+                    "zh-hant": "分門別類的 ChatGPT 中文引導語大全。"
+                }
             }
         },
         "Chatbots": {
@@ -5208,6 +5236,38 @@
                     "ja": "PokerGPTは、ChatGPT-4と一緒にテキサスホールデムポーカーをプレイすることができるPoker Discord Botです。",
                     "zh-hans": "PokerGPT是一个Poker Discord机器人，可以让你与ChatGPT-4一起玩德州扑克。",
                     "zh-hant": "PokerGPT 是一個可以讓你與 ChatGPT-4 一起玩德州撲克的 Poker Discord 機器人。"
+                }
+            },
+            "https://github.com/livekit-examples/kitt": {
+                "repository_name": "kitt",
+                "user_name": "livekit-examples",
+                "language": "Go",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Talk to ChatGPT in real time using LiveKit",
+                "topics": [
+                    "ai",
+                    "assistant",
+                    "chatgpt",
+                    "gpt",
+                    "openai",
+                    "stt",
+                    "transcription",
+                    "translation",
+                    "tts",
+                    "voice",
+                    "webrtc"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Talk to ChatGPT in real time using LiveKit",
+                    "ja": "リアルタイムでLiveKitを使用してChatGPTと会話してください。",
+                    "zh-hans": "使用LiveKit实时与ChatGPT进行对话",
+                    "zh-hant": "使用LiveKit即時與ChatGPT對話"
                 }
             }
         },
@@ -17395,6 +17455,31 @@
                     "zh-hans": "不仅仅是另一个ChatGPT用户界面！",
                     "zh-hant": "不只是另一個ChatGPT使用者介面！"
                 }
+            },
+            "https://github.com/lianginx/chatgpt-nuxt": {
+                "repository_name": "chatgpt-nuxt",
+                "user_name": "lianginx",
+                "language": "Vue",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "nuxt",
+                    "vue3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT-like project based on the Nuxt.js framework, supporting the switching between OpenAI and Azure APIs, and supporting dark mode and switching between multiple languages including Chinese, English, and Japanese.",
+                    "ja": "Nuxt.jsフレームワークを使用したChatGPTクラスプロジェクトで、OpenAIとAzureの2つのAPIの切り替えをサポートし、ダークモード、英語、日本語の多言語切り替えをサポートしています。",
+                    "zh-hans": "基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。",
+                    "zh-hant": "基於 Nuxt.js 框架的 ChatGPT 類項目，支援 OpenAI 和 Azure 兩種 API 切換，支援黑暗模式、中英日多語言切換。"
+                }
             }
         },
         "Others": {
@@ -22582,6 +22667,40 @@
                     "ja": "出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法",
                     "zh-hans": "一种平价的chatgpt实现方案，基于ChatGLM-6B + LoRA",
                     "zh-hant": "一種平價的chatgpt實現方案，基於ChatGLM-6B + LoRA"
+                }
+            },
+            "https://github.com/emacs-openai/chatgpt": {
+                "repository_name": "chatgpt",
+                "user_name": "emacs-openai",
+                "language": "Emacs Lisp",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "Use ChatGPT inside Emacs",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Use ChatGPT inside Emacs",
+                    "ja": "Emacs内でChatGPTを使用する",
+                    "zh-hans": "在Emacs中使用ChatGPT",
+                    "zh-hant": "使用ChatGPT在Emacs中"
+                }
+            },
+            "https://github.com/blackstar1453/using-chatgpt-to-learn-programming": {
+                "repository_name": "Using-ChatGPT-to-Learn-Programming",
+                "user_name": "BlackStar1453",
+                "language": null,
+                "license": null,
+                "description": "\"Learn how to use ChatGPT to enhance your learning of Programming",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "\"Learn how to use ChatGPT to enhance your learning of Programming",
+                    "ja": "プログラミングの学習を強化するためにChatGPTの使い方を学びましょう。",
+                    "zh-hans": "学习如何使用ChatGPT来增强你的编程学习",
+                    "zh-hant": "學習如何使用ChatGPT來增強你的編程學習"
                 }
             }
         }

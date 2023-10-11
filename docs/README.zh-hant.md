@@ -15,20 +15,24 @@
 
 ## The latest additions 🎉
 
-**Langchain**
- * [gpt_academic](https://github.com/binary-husky/gpt_academic) - 聊天GPT/GLM提供實用化交互界面,特別優化論文閱讀/色/寫作體驗,模塊化設計,支持自定義快捷按&函數插件,支持Python和C++等項目剖析&自譯解釋功能,PDF/拉德克斯论文翻译&總結功能,支持并行询问多種LLM模型,支持聊天glm2等本地模型。兼容文心一言,moss, llama2, rwkv, claude 为2,通义千问, 书生, 讯飞星等.
+**Prompts**
+ * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分門類的聊天GPT 中文引导语大全。
+
+
+**Chatbots**
+ * [kitt](https://github.com/livekit-examples/kitt) - 使用LiveKit即時與ChatGPT通話
 
 
 **Openai**
- * [chatpad](https://github.com/deiucanta/chatpad) - 這不是另一種ChatGPT使用者介面!
+ * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基于Nuxt.js框架的ChatGPT類項目,支持OpenAI和Azure 兩種API 切換,支持黑暗模式、中英日多語言切換.
 
 
 **Others**
- * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - 提供改善建議.
- * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 基于ChatGLM-6B+LoRA的平價聊天實現方案.
+ * [chatgpt](https://github.com/emacs-openai/chatgpt) - 在 Emacs 中使用 ChatGPT
+ * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - 學習如何使用ChatGPT來增強你的編程學習
 
 
-_Updated on October 10, 2023_ (A total of 1105 repositories listed.)
+_Updated on October 12, 2023_ (A total of 1110 repositories listed.)
 
 ## Table of contents
 
@@ -158,6 +162,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - 📚 開發者的ChatGPT提示個人收藏！
  * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI以鍵盤為中心，適用於移動設備，可以同步設備間的聊天記錄並搜索過去的對話。
  * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - 這是ChatGPT的提示示例。ChatGPT的提示示例。
+ * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分門別類的 ChatGPT 中文引導語大全。
 
 
 ## Chatbots
@@ -300,6 +305,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - 零代碼、一鍵部署chatgpt到釘釘，無須VPN
  * [chatterstack](https://github.com/dschil138/chatterstack) - 輕鬆管理ChatGPT對話變數
  * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT 是一個可以讓你與 ChatGPT-4 一起玩德州撲克的 Poker Discord 機器人。
+ * [kitt](https://github.com/livekit-examples/kitt) - 使用LiveKit即時與ChatGPT對話
 
 
 ## Browser-extensions
@@ -919,6 +925,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [7-docs](https://github.com/7-docs/7-docs) - 使用任何公開的 GitHub 存儲庫作為來源，並通過 ChatGPT 提出相關問題。
  * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - 使用ChatGPT和OpenAI平台的預提交鉤子集合，用於驗證對代碼庫所做的更改。
  * [chatpad](https://github.com/deiucanta/chatpad) - 不只是另一個ChatGPT使用者介面！
+ * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基於 Nuxt.js 框架的 ChatGPT 類項目，支援 OpenAI 和 Azure 兩種 API 切換，支援黑暗模式、中英日多語言切換。
 
 
 ## Others
@@ -1208,5 +1215,7 @@ _Updated on October 10, 2023_ (A total of 1105 repositories listed.)
  * [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - ChatGPT 網站導航。搜集國內可用的 ChatGPT 在線體驗免費網站列表。定時任務每日更新。
  * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: 使用ChatGPT分析論文優缺點，提出改進建議
  * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 一種平價的chatgpt實現方案，基於ChatGLM-6B + LoRA
+ * [chatgpt](https://github.com/emacs-openai/chatgpt) - 使用ChatGPT在Emacs中
+ * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - 學習如何使用ChatGPT來增強你的編程學習
 
 
