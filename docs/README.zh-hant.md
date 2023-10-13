@@ -15,24 +15,28 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分門類的聊天GPT 中文引导语大全。
-
-
 **Chatbots**
- * [kitt](https://github.com/livekit-examples/kitt) - 使用LiveKit即時與ChatGPT通話
+ * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:使用 Kotlin + Jetpack 編輯+Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 編輯ChatGPT Kotlin - Android 聊天機.
+
+
+**Browser-extensions**
+ * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - 浏览器使用者程式將自動發送DAN訊息到ChatGPT
+
+
+**CLIs**
+ * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - 單位運行時間是一個 ChatGPT 等AI代碼的運行環境,可一鍵啟動並實時交互,幫助您快速建立和測試AI代碼.
+
+
+**NLP**
+ * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - 透過 ChatGPT的智慧, DALL·E 的創意,以及 Whisper 的精確音訊轉錄,
+ * [chie](https://github.com/chieapp/chie) - 提供了為ChatGPT和其他LLM提供的一款廣泛的桌面應用程式.
 
 
 **Openai**
- * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基于Nuxt.js框架的ChatGPT類項目,支持OpenAI和Azure 兩種API 切換,支持黑暗模式、中英日多語言切換.
+ * [chat](https://github.com/libli/chat) - 有使用者管理功能ChatGPT API透明代理后台
 
 
-**Others**
- * [chatgpt](https://github.com/emacs-openai/chatgpt) - 在 Emacs 中使用 ChatGPT
- * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - 學習如何使用ChatGPT來增強你的編程學習
-
-
-_Updated on October 12, 2023_ (A total of 1110 repositories listed.)
+_Updated on October 14, 2023_ (A total of 1114 repositories listed.)
 
 ## Table of contents
 
@@ -306,6 +310,7 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [chatterstack](https://github.com/dschil138/chatterstack) - 輕鬆管理ChatGPT對話變數
  * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT 是一個可以讓你與 ChatGPT-4 一起玩德州撲克的 Poker Discord 機器人。
  * [kitt](https://github.com/livekit-examples/kitt) - 使用LiveKit即時與ChatGPT對話
+ * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天機器人。允許從 ChatGPT API 接收流式回應。🤖
 
 
 ## Browser-extensions
@@ -441,6 +446,7 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - 將語音轉文字和快捷片段添加到ChatGPT
  * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - ChatGPT插件可與GitHub上的任何內容進行互動。從ChatGPT插件商店安裝“Chat With Code”。ChatGPT插件可與GitHub上的任何內容進行互動。從ChatGPT插件商店安裝“Chat With Code”。
  * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - 一個與ChatGPT整合的Eclipse插件
+ * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - 瀏覽器使用者腳本，可自動將DAN訊息發送到ChatGPT。
 
 
 ## CLIs
@@ -534,6 +540,7 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - 一個開源、可擴展（函數調用）的高性能聊天機器人框架。它支持一鍵免費部署您的私人ChatGPT/LLM網絡應用程式。
  * [paperify](https://github.com/jstrieb/paperify) - 將任何文件、網頁或電子書轉換為研究論文（不需要ChatGPT）。
  * [cli](https://github.com/bashsenpai/cli) - BashSenpai 是由 ChatGPT 驅動的終端助手。
+ * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime 是一個 ChatGPT 等 AI 代碼的運行環境，可一鍵啟動並實時交互，幫助您快速構建和測試 AI 代碼。Unit Runtime 是一個高效且用戶友好的 AI 代碼執行環境，可一鍵啟動並實時交互，幫助您快速構建和測試 AI 代碼。
 
 
 ## Reimplementations
@@ -732,6 +739,8 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 🚀 一個專為大型語言模型設計的轉發服務 · 一鍵部署你的私人AI代理 · LLM Proxy · OpenAI API反向代理
  * [gpt4-playground](https://github.com/nashex/gpt4-playground) - 複製OpenAI的ChatGPT和Playground環境，以便進行API密鑰的實驗。克隆OpenAI的ChatGPT和Playground環境，以便進行API密鑰的實驗。
  * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - 使用ChatGPT來總結和審查GitHub的Pull Requests。
+ * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - 釋放 SiriGPT 的力量：ChatGPT 的智能、DALL·E 的創造力和 Whisper 的精確音頻轉錄相結合，為您的 Apple 設備提供支援的 20 種語言。
+ * [chie](https://github.com/chieapp/chie) - 一個功能豐富的桌面應用程式，可用於ChatGPT和其他LLM。
 
 
 ## Langchain
@@ -926,6 +935,7 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - 使用ChatGPT和OpenAI平台的預提交鉤子集合，用於驗證對代碼庫所做的更改。
  * [chatpad](https://github.com/deiucanta/chatpad) - 不只是另一個ChatGPT使用者介面！
  * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基於 Nuxt.js 框架的 ChatGPT 類項目，支援 OpenAI 和 Azure 兩種 API 切換，支援黑暗模式、中英日多語言切換。
+ * [chat](https://github.com/libli/chat) - 具有用户管理功能的ChatGPT API透明代理後台
 
 
 ## Others
@@ -1211,8 +1221,6 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [chat-review](https://github.com/ikoofe/chat-review) - ChatGPT Gitlab 代碼審查
  * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - 《ChatGPT原理與實戰：大型語言模型的算法、技術和私有化》
  * [nvim-gpt](https://github.com/archibate/nvim-gpt) - 整合ChatGPT + Bing AI於NeoVim，專為像您這樣的新先鋒而設 :)
- * [jasper-alternative-gpt](https://github.com/yuvalsuede/jasper-alternative-gpt) - 一個具有ChatGPT的Jasper替代開源方案
- * [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - ChatGPT 網站導航。搜集國內可用的 ChatGPT 在線體驗免費網站列表。定時任務每日更新。
  * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: 使用ChatGPT分析論文優缺點，提出改進建議
  * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 一種平價的chatgpt實現方案，基於ChatGLM-6B + LoRA
  * [chatgpt](https://github.com/emacs-openai/chatgpt) - 使用ChatGPT在Emacs中
