@@ -5269,6 +5269,47 @@
                     "zh-hans": "使用LiveKit实时与ChatGPT进行对话",
                     "zh-hant": "使用LiveKit即時與ChatGPT對話"
                 }
+            },
+            "https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot": {
+                "repository_name": "compose-chatgpt-kotlin-android-chatbot",
+                "user_name": "lambiengcode",
+                "language": "Kotlin",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": ":lion:Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API.  Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖 ",
+                "topics": [
+                    "android",
+                    "chat-app",
+                    "chat-gpt",
+                    "chatbot",
+                    "chatgpt-android",
+                    "chatgpt-api",
+                    "chatgpt-app",
+                    "chatgpt-stream",
+                    "chatgpt3",
+                    "chatgpt4",
+                    "gpt-35-turbo",
+                    "gpt4",
+                    "hilt-dependency-injection",
+                    "jetpack-compose",
+                    "kotlin-android",
+                    "kotlin-coroutines",
+                    "navhost",
+                    "openai",
+                    "retrofit2",
+                    "server-sent-events"
+                ],
+                "multilingual_descriptions": {
+                    "en": ":lion:Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API.  Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖 ",
+                    "ja": ":lion:Compose ChatGPT Kotlin - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用したAndroidチャットボット。ChatGPT APIからのストリームレスポンスを許可します。Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖",
+                    "zh-hans": ":lion:使用Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI的GPT-3 API，编写Android聊天机器人。允许从ChatGPT API获取流式响应。🤖",
+                    "zh-hant": ":lion:使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天機器人。允許從 ChatGPT API 接收流式回應。🤖"
+                }
             }
         },
         "Browser-extensions": {
@@ -8051,6 +8092,41 @@
                     "zh-hans": "一个与ChatGPT集成的Eclipse插件",
                     "zh-hant": "一個與ChatGPT整合的Eclipse插件"
                 }
+            },
+            "https://github.com/madkarmaa/automatic-chatgpt-dan": {
+                "repository_name": "automatic-chatgpt-dan",
+                "user_name": "madkarmaa",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Browser userscript to automatically send DAN messages to ChatGPT",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "browser-extension",
+                    "browser-extensions",
+                    "chagpt-jailbreak",
+                    "chat-gpt",
+                    "chat-gpt-dan",
+                    "chat-gpt-tool",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-browser-extension",
+                    "chatgpt-dan",
+                    "conversational-ai",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "nlp",
+                    "openai",
+                    "userscript",
+                    "userscripts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Browser userscript to automatically send DAN messages to ChatGPT",
+                    "ja": "ブラウザのユーザースクリプトで、ChatGPTに自動的にDANメッセージを送信する。",
+                    "zh-hans": "浏览器用户脚本，自动将DAN消息发送到ChatGPT。",
+                    "zh-hant": "瀏覽器使用者腳本，可自動將DAN訊息發送到ChatGPT。"
+                }
             }
         },
         "CLIs": {
@@ -9977,6 +10053,29 @@
                     "ja": "BashSenpaiはChatGPTによって動作するターミナルアシスタントです。",
                     "zh-hans": "BashSenpai是由ChatGPT驱动的终端助手。",
                     "zh-hant": "BashSenpai 是由 ChatGPT 驅動的終端助手。"
+                }
+            },
+            "https://github.com/unit-mesh/unit-runtime": {
+                "repository_name": "unit-runtime",
+                "user_name": "unit-mesh",
+                "language": "Kotlin",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Unit Runtime 是一个 ChatGPT 等 AI 代码的运行环境，可一键启动并实时交互，帮助您快速构建和测试 AI 代码。Unit Runtime is an efficient and user-friendly AI code execution environment that allows for one-click startup and real-time interaction, helping you quickly build and test AI code.",
+                "topics": [
+                    "copilot",
+                    "repl"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Unit Runtime 是一个 ChatGPT 等 AI 代码的运行环境，可一键启动并实时交互，帮助您快速构建和测试 AI 代码。Unit Runtime is an efficient and user-friendly AI code execution environment that allows for one-click startup and real-time interaction, helping you quickly build and test AI code.",
+                    "ja": "Unit Runtime は、ChatGPT やその他の AI コードを実行するための効率的で使いやすい環境です。ワンクリックで起動し、リアルタイムで対話することができ、AI コードの構築とテストを迅速にサポートします。",
+                    "zh-hans": "Unit Runtime 是一个高效且用户友好的 AI 代码执行环境，可一键启动并实时交互，帮助您快速构建和测试 AI 代码。",
+                    "zh-hant": "Unit Runtime 是一個 ChatGPT 等 AI 代碼的運行環境，可一鍵啟動並實時交互，幫助您快速構建和測試 AI 代碼。Unit Runtime 是一個高效且用戶友好的 AI 代碼執行環境，可一鍵啟動並實時交互，幫助您快速構建和測試 AI 代碼。"
                 }
             }
         },
@@ -13661,6 +13760,72 @@
                     "ja": "ChatGPTを使用してGitHubのプルリクエストを要約およびレビューする",
                     "zh-hans": "使用ChatGPT来总结和审查GitHub的Pull请求。",
                     "zh-hant": "使用ChatGPT來總結和審查GitHub的Pull Requests。"
+                }
+            },
+            "https://github.com/nicolodiamante/sirigpt": {
+                "repository_name": "SiriGPT",
+                "user_name": "nicolodiamante",
+                "language": null,
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Unleash the power of SiriGPT: the intersection of ChatGPT’s intelligence, DALL·E's creativity, and Whisper's precise audio transcription for your Apple devices with support of 20 languages.",
+                "topics": [
+                    "ai-powered",
+                    "apple-shortcuts",
+                    "appleshortcuts",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "dalle2",
+                    "dallegenerator",
+                    "generative-ai",
+                    "generative-images",
+                    "gpt-3-5-turbo",
+                    "gpt-4",
+                    "openai",
+                    "openai-api",
+                    "openai-api-chatbot",
+                    "openai-chatgpt",
+                    "openai-dall-e",
+                    "openai-whisper",
+                    "siri",
+                    "sirigpt",
+                    "whisper-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Unleash the power of SiriGPT: the intersection of ChatGPT’s intelligence, DALL·E's creativity, and Whisper's precise audio transcription for your Apple devices with support of 20 languages.",
+                    "ja": "SiriGPTのパワーを解き放て：ChatGPTの知能、DALL·Eの創造性、Whisperの正確な音声転写が結集したAppleデバイス向けのサポートで、20言語に対応します。",
+                    "zh-hans": "释放SiriGPT的力量：ChatGPT的智能、DALL·E的创造力和Whisper的精确音频转录相交，为您的苹果设备提供支持，支持20种语言。",
+                    "zh-hant": "釋放 SiriGPT 的力量：ChatGPT 的智能、DALL·E 的創造力和 Whisper 的精確音頻轉錄相結合，為您的 Apple 設備提供支援的 20 種語言。"
+                }
+            },
+            "https://github.com/chieapp/chie": {
+                "repository_name": "chie",
+                "user_name": "chieapp",
+                "language": "TypeScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "An extensive desktop app for ChatGPT and other LLMs.",
+                "topics": [
+                    "chatgpt",
+                    "desktop-app",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An extensive desktop app for ChatGPT and other LLMs.",
+                    "ja": "ChatGPTや他のLLM向けの広範なデスクトップアプリ。",
+                    "zh-hans": "一个功能强大的桌面应用程序，用于ChatGPT和其他LLM。",
+                    "zh-hant": "一個功能豐富的桌面應用程式，可用於ChatGPT和其他LLM。"
                 }
             }
         },
@@ -17479,6 +17644,20 @@
                     "ja": "Nuxt.jsフレームワークを使用したChatGPTクラスプロジェクトで、OpenAIとAzureの2つのAPIの切り替えをサポートし、ダークモード、英語、日本語の多言語切り替えをサポートしています。",
                     "zh-hans": "基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。",
                     "zh-hant": "基於 Nuxt.js 框架的 ChatGPT 類項目，支援 OpenAI 和 Azure 兩種 API 切換，支援黑暗模式、中英日多語言切換。"
+                }
+            },
+            "https://github.com/libli/chat": {
+                "repository_name": "chat",
+                "user_name": "libli",
+                "language": "Go",
+                "license": null,
+                "description": "有用户管理功能的ChatGPT API透明代理后台",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT API transparent proxy backend with user management functionality.",
+                    "ja": "ユーザー管理機能を備えたChatGPT APIの透明なプロキシバックエンド",
+                    "zh-hans": "具备用户管理功能的ChatGPT API透明代理后台",
+                    "zh-hant": "具有用户管理功能的ChatGPT API透明代理後台"
                 }
             }
         },

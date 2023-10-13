@@ -15,24 +15,28 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分類されたChatGPTの中国語ガイド全集。
-
-
 **Chatbots**
- * [kitt](https://github.com/livekit-examples/kitt) - リアルタイムでLiveKitを使用してChatGPTと会話してください。
+ * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用したAndroidチャットボット。ChatGPT APIからのストリームレスポンスを許可します。Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖
+
+
+**Browser-extensions**
+ * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - ブラウザのユーザースクリプトで、ChatGPTに自動的にDANメッセージを送信する。
+
+
+**CLIs**
+ * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime は、ChatGPT やその他の AI コードを実行するための効率的で使いやすい環境です。ワンクリックで起動し、リアルタイムで対話することができ、AI コードの構築とテストを迅速にサポートします。
+
+
+**NLP**
+ * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - SiriGPTのパワーを解き放て：ChatGPTの知能、DALL·Eの創造性、Whisperの正確な音声転写が結集したAppleデバイス向けのサポートで、20言語に対応します。
+ * [chie](https://github.com/chieapp/chie) - ChatGPTや他のLLM向けの広範なデスクトップアプリ。
 
 
 **Openai**
- * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - Nuxt.jsフレームワークを使用したChatGPTクラスプロジェクトで、OpenAIとAzureの2つのAPIの切り替えをサポートし、ダークモード、英語、日本語の多言語切り替えをサポートしています。
+ * [chat](https://github.com/libli/chat) - ユーザー管理機能を備えたChatGPT APIの透明なプロキシバックエンド
 
 
-**Others**
- * [chatgpt](https://github.com/emacs-openai/chatgpt) - Emacs内でChatGPTを使用する
- * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - プログラミングの学習を強化するためにChatGPTの使い方を学びましょう。
-
-
-_Updated on October 12, 2023_ (A total of 1110 repositories listed.)
+_Updated on October 14, 2023_ (A total of 1114 repositories listed.)
 
 ## Table of contents
 
@@ -306,6 +310,7 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [chatterstack](https://github.com/dschil138/chatterstack) - ChatGPTの会話変数を簡単に管理する
  * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPTは、ChatGPT-4と一緒にテキサスホールデムポーカーをプレイすることができるPoker Discord Botです。
  * [kitt](https://github.com/livekit-examples/kitt) - リアルタイムでLiveKitを使用してChatGPTと会話してください。
+ * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用したAndroidチャットボット。ChatGPT APIからのストリームレスポンスを許可します。Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖
 
 
 ## Browser-extensions
@@ -441,6 +446,7 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [chatgpt-microphone](https://github.com/davidmvenegas/chatgpt-microphone) - ChatGPTに音声テキスト変換とショートカットスニペットを追加してください。
  * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - GitHubで何でも対話するためのChatGPTプラグイン。ChatGPTプラグインストアから「Chat With Code」をインストールしてください。
  * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - ChatGPTと統合されたEclipseのプラグイン
+ * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - ブラウザのユーザースクリプトで、ChatGPTに自動的にDANメッセージを送信する。
 
 
 ## CLIs
@@ -534,6 +540,7 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - オープンソースで拡張可能（関数呼び出し可能）、高性能なチャットボットフレームワークです。プライベートなChatGPT/LLMウェブアプリケーションのワンクリック無料デプロイをサポートしています。
  * [paperify](https://github.com/jstrieb/paperify) - どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）
  * [cli](https://github.com/bashsenpai/cli) - BashSenpaiはChatGPTによって動作するターミナルアシスタントです。
+ * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime は、ChatGPT やその他の AI コードを実行するための効率的で使いやすい環境です。ワンクリックで起動し、リアルタイムで対話することができ、AI コードの構築とテストを迅速にサポートします。
 
 
 ## Reimplementations
@@ -732,6 +739,8 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - 🚀 大規模言語モデル向けの転送サービス · あなたのプライベートAIプロキシをワンクリックでデプロイ · LLMプロキシ · OpenAI APIリバースプロキシ
  * [gpt4-playground](https://github.com/nashex/gpt4-playground) - APIキーを使って実験を行うために、OpenAIのChatGPTとPlayground環境のクローンを作成しました。OpenAIのChatGPTとPlayground環境のクローンを作成しました。APIキーを使用して実験を行うことができます。
  * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - ChatGPTを使用してGitHubのプルリクエストを要約およびレビューする
+ * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - SiriGPTのパワーを解き放て：ChatGPTの知能、DALL·Eの創造性、Whisperの正確な音声転写が結集したAppleデバイス向けのサポートで、20言語に対応します。
+ * [chie](https://github.com/chieapp/chie) - ChatGPTや他のLLM向けの広範なデスクトップアプリ。
 
 
 ## Langchain
@@ -926,6 +935,7 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - ChatGPTとOpenAIプラットフォームを利用して、コードベースへの変更を検証するためのプリコミットフックのコレクション。
  * [chatpad](https://github.com/deiucanta/chatpad) - ただのChatGPTのユーザーインターフェースではありません！
  * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - Nuxt.jsフレームワークを使用したChatGPTクラスプロジェクトで、OpenAIとAzureの2つのAPIの切り替えをサポートし、ダークモード、英語、日本語の多言語切り替えをサポートしています。
+ * [chat](https://github.com/libli/chat) - ユーザー管理機能を備えたChatGPT APIの透明なプロキシバックエンド
 
 
 ## Others
@@ -1211,8 +1221,6 @@ _Updated on October 12, 2023_ (A total of 1110 repositories listed.)
  * [chat-review](https://github.com/ikoofe/chat-review) - ChatGPT Gitlab コードレビュー
  * [ChatGPTBook](https://github.com/liucongg/chatgptbook) - 《ChatGPT原理与実践：大規模言語モデルのアルゴリズム、技術、およびプライベート化》
  * [nvim-gpt](https://github.com/archibate/nvim-gpt) - あなたのようなネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)ネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)
- * [jasper-alternative-gpt](https://github.com/yuvalsuede/jasper-alternative-gpt) - ChatGPTを使用したJasperの代替オープンソースChatGPTを使用したJasperの代替オープンソース
- * [chatgpt-sites](https://github.com/lzwme/chatgpt-sites) - ChatGPTウェブサイトナビゲーション。国内で利用可能なChatGPTオンライン体験無料ウェブサイトのリストを収集します。定期的なタスクで毎日更新します。
  * [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ChatReviewer: ChatGPTを使用して論文の利点と欠点を分析し、改善の提案を行います。
  * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法
  * [chatgpt](https://github.com/emacs-openai/chatgpt) - Emacs内でChatGPTを使用する
