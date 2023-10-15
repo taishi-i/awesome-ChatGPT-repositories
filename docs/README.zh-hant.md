@@ -15,28 +15,26 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:使用 Kotlin + Jetpack 編輯+Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 編輯ChatGPT Kotlin - Android 聊天機.
-
-
 **Browser-extensions**
- * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - 浏览器使用者程式將自動發送DAN訊息到ChatGPT
-
-
-**CLIs**
- * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - 單位運行時間是一個 ChatGPT 等AI代碼的運行環境,可一鍵啟動並實時交互,幫助您快速建立和測試AI代碼.
+ * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 透過自然語言查詢數據庫的ChatGPT插件. 獲獎於微軟首次的"企業最有用"類別的語義核黑客賽.
 
 
 **NLP**
- * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - 透過 ChatGPT的智慧, DALL·E 的創意,以及 Whisper 的精確音訊轉錄,
- * [chie](https://github.com/chieapp/chie) - 提供了為ChatGPT和其他LLM提供的一款廣泛的桌面應用程式.
+ * [chatnio](https://github.com/zmh-program/chatnio) -  Zh-網站計畫的文件 (使用 vitepress)
 
 
 **Openai**
- * [chat](https://github.com/libli/chat) - 有使用者管理功能ChatGPT API透明代理后台
+ * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - 聊天GPT節點服務,集成ChatGLM、GPT3.5、GPT4、GPT聯網、必应、Claude、百度文心一言等模型
 
 
-_Updated on October 14, 2023_ (A total of 1114 repositories listed.)
+**Others**
+ * [Apilot](https://github.com/6vision/apilot) - 基于chatgpt_on_wechat項目的一款API调用插件
+ * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - 您可以使用的自訂命令的複製
+ * [chatnio](https://github.com/deeptrain-community/chatnio) - 輕量級 ChatGPT 聊天平台,实现 ChatGPT 联网功能,多帳戶均衡负载,缓存,鉴权系统,支持 Stream 实时响应,图像生成,对话记忆功能 輕量 ChatGPT 聊天平台,實現 ChatGPT 網路搜索服務,多帳戶負載平衡,缓存,驗證系統,支持流實時反應,圖像生成和記憶功能
+ * [talk](https://github.com/proxoar/talk) - 聊天與GPT是一種輕鬆的方法,
+
+
+_Updated on October 16, 2023_ (A total of 1121 repositories listed.)
 
 ## Table of contents
 
@@ -447,6 +445,7 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - ChatGPT插件可與GitHub上的任何內容進行互動。從ChatGPT插件商店安裝“Chat With Code”。ChatGPT插件可與GitHub上的任何內容進行互動。從ChatGPT插件商店安裝“Chat With Code”。
  * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - 一個與ChatGPT整合的Eclipse插件
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - 瀏覽器使用者腳本，可自動將DAN訊息發送到ChatGPT。
+ * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 一個使用語義核心構建的ChatGPT插件，可以通過自然語言查詢數據庫。該插件在微軟首屆語義核心黑客松比賽中獲得了"對企業最有用"類別的冠軍。
 
 
 ## CLIs
@@ -741,6 +740,7 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - 使用ChatGPT來總結和審查GitHub的Pull Requests。
  * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - 釋放 SiriGPT 的力量：ChatGPT 的智能、DALL·E 的創造力和 Whisper 的精確音頻轉錄相結合，為您的 Apple 設備提供支援的 20 種語言。
  * [chie](https://github.com/chieapp/chie) - 一個功能豐富的桌面應用程式，可用於ChatGPT和其他LLM。
+ * [chatnio](https://github.com/zmh-program/chatnio) - 📚 中文網站項目的文件（使用 vitepress）
 
 
 ## Langchain
@@ -936,6 +936,8 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [chatpad](https://github.com/deiucanta/chatpad) - 不只是另一個ChatGPT使用者介面！
  * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基於 Nuxt.js 框架的 ChatGPT 類項目，支援 OpenAI 和 Azure 兩種 API 切換，支援黑暗模式、中英日多語言切換。
  * [chat](https://github.com/libli/chat) - 具有用户管理功能的ChatGPT API透明代理後台
+ * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejs服務，集成了ChatGLM、GPT3.5、GPT4、GPT聯網、必應、Claude、百度文心一言等模型
+chatgpt nodejs服務，集成了ChatGLM、GPT3.5、GPT4、GPT聯網、必應、Claude、百度文心一言等模型
 
 
 ## Others
@@ -1225,5 +1227,9 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 一種平價的chatgpt實現方案，基於ChatGLM-6B + LoRA
  * [chatgpt](https://github.com/emacs-openai/chatgpt) - 使用ChatGPT在Emacs中
  * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - 學習如何使用ChatGPT來增強你的編程學習
+ * [Apilot](https://github.com/6vision/apilot) - 基於chatgpt_on_wechat項目的一個API調用插件
+ * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - 您可以在ChatGPT中使用的自定義指令存儲庫
+ * [chatnio](https://github.com/deeptrain-community/chatnio) - 👋 輕量級 ChatGPT 聊天平台，實現 ChatGPT 聯網功能，多帳戶均衡負載，緩存，鑒權系統，支持 Stream 實時響應，圖像生成，對話記憶功能 👋
+ * [talk](https://github.com/proxoar/talk) - 與ChatGPT對話輕而易舉
 
 

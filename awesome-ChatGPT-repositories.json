@@ -8127,6 +8127,36 @@
                     "zh-hans": "浏览器用户脚本，自动将DAN消息发送到ChatGPT。",
                     "zh-hant": "瀏覽器使用者腳本，可自動將DAN訊息發送到ChatGPT。"
                 }
+            },
+            "https://github.com/anthonypuppo/sk-nl2ef-plugin": {
+                "repository_name": "sk-nl2ef-plugin",
+                "user_name": "anthonypuppo",
+                "language": "C#",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the \"Most Useful for the Enterprise\" category.",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "entity-framework",
+                    "llm",
+                    "netcore",
+                    "openai",
+                    "openai-plugin",
+                    "semantic-kernel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the \"Most Useful for the Enterprise\" category.",
+                    "ja": "自然言語でデータベースにクエリを送信するSemantic Kernelを使用したChatGPTプラグイン。Microsoftの最初のSemantic Kernelハッカソンで、「企業にとって最も有用」というカテゴリーで優勝しました。",
+                    "zh-hans": "一个使用语义内核构建的ChatGPT插件，可以通过自然语言查询数据库。在微软首届语义内核黑客马拉松中获得“对企业最有用”类别的冠军。",
+                    "zh-hant": "一個使用語義核心構建的ChatGPT插件，可以通過自然語言查詢數據庫。該插件在微軟首屆語義核心黑客松比賽中獲得了\"對企業最有用\"類別的冠軍。"
+                }
             }
         },
         "CLIs": {
@@ -13827,6 +13857,29 @@
                     "zh-hans": "一个功能强大的桌面应用程序，用于ChatGPT和其他LLM。",
                     "zh-hant": "一個功能豐富的桌面應用程式，可用於ChatGPT和其他LLM。"
                 }
+            },
+            "https://github.com/zmh-program/chatnio": {
+                "repository_name": "chatnio",
+                "user_name": "zmh-program",
+                "language": null,
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "📚 document of Zh-Website project (using vitepress)",
+                "topics": [
+                    "docs",
+                    "zh-website"
+                ],
+                "multilingual_descriptions": {
+                    "en": "📚 document of Zh-Website project (using vitepress)",
+                    "ja": "📚 Zh-Websiteプロジェクトのドキュメント（vitepressを使用）",
+                    "zh-hans": "📚 中文网站项目的文档（使用 vitepress）",
+                    "zh-hant": "📚 中文網站項目的文件（使用 vitepress）"
+                }
             }
         },
         "Langchain": {
@@ -17658,6 +17711,31 @@
                     "ja": "ユーザー管理機能を備えたChatGPT APIの透明なプロキシバックエンド",
                     "zh-hans": "具备用户管理功能的ChatGPT API透明代理后台",
                     "zh-hant": "具有用户管理功能的ChatGPT API透明代理後台"
+                }
+            },
+            "https://github.com/xingxin666/chatgpt-nodejs-web": {
+                "repository_name": "chatgpt-nodejs-web",
+                "user_name": "xingxin666",
+                "language": "TypeScript",
+                "license": null,
+                "description": " chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型",
+                "topics": [
+                    "bard",
+                    "bing",
+                    "chatglm",
+                    "chatgpt",
+                    "claude",
+                    "gpt",
+                    "gpt4",
+                    "midjourney",
+                    "openai",
+                    "wenxinyiyan"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: chatgpt nodejs service, integrated with models such as ChatGLM, GPT3.5, GPT4, GPT networking, Bing, Claude, Baidu Wenxin Yiyuan, etc.\nOutput:",
+                    "ja": "chatgpt nodejsサービスは、ChatGLM、GPT3.5、GPT4、GPTネットワーキング、Bing、Claude、Baidu Wenxin Yiyuなどのモデルを統合しています。",
+                    "zh-hans": "chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型\nchatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型",
+                    "zh-hant": "chatgpt nodejs服務，集成了ChatGLM、GPT3.5、GPT4、GPT聯網、必應、Claude、百度文心一言等模型\nchatgpt nodejs服務，集成了ChatGLM、GPT3.5、GPT4、GPT聯網、必應、Claude、百度文心一言等模型"
                 }
             }
         },
@@ -22880,6 +22958,103 @@
                     "ja": "プログラミングの学習を強化するためにChatGPTの使い方を学びましょう。",
                     "zh-hans": "学习如何使用ChatGPT来增强你的编程学习",
                     "zh-hant": "學習如何使用ChatGPT來增強你的編程學習"
+                }
+            },
+            "https://github.com/6vision/apilot": {
+                "repository_name": "Apilot",
+                "user_name": "6vision",
+                "language": "Python",
+                "license": null,
+                "description": "基于chatgpt_on_wechat项目的一个api调用插件",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "基于chatgpt_on_wechat项目的一个api调用插件",
+                    "ja": "chatgpt_on_wechatプロジェクトに基づくAPI呼び出しプラグイン\nchatgpt_on_wechatプロジェクトをベースにしたAPI呼び出しプラグイン",
+                    "zh-hans": "基于chatgpt_on_wechat项目的一个api调用插件",
+                    "zh-hant": "基於chatgpt_on_wechat項目的一個API調用插件"
+                }
+            },
+            "https://github.com/daveshap/chatgpt_custom_instructions": {
+                "repository_name": "ChatGPT_Custom_Instructions",
+                "user_name": "daveshap",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Repo of custom instructions that you can use for ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Repo of custom instructions that you can use for ChatGPT",
+                    "ja": "ChatGPTで使用できるカスタムインストラクションのリポジトリ",
+                    "zh-hans": "ChatGPT的自定义指令存储库",
+                    "zh-hant": "您可以在ChatGPT中使用的自定義指令存儲庫"
+                }
+            },
+            "https://github.com/deeptrain-community/chatnio": {
+                "repository_name": "chatnio",
+                "user_name": "Deeptrain-Community",
+                "language": "TypeScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "👋 轻量级 ChatGPT 聊天平台, 实现 ChatGPT 联网功能，多账户均衡负载，缓存，鉴权系统，支持 Stream 实时响应，图像生成，对话记忆功能 👋 Lightweight ChatGPT chat platform, implement ChatGPT online searching service, multi-account load balancing, cache, authentication system, supports stream real-time response, image generation and memory function",
+                "topics": [
+                    "ai-chat",
+                    "chatgpt",
+                    "golang",
+                    "react",
+                    "stream",
+                    "typescript",
+                    "web",
+                    "web-chatgpt",
+                    "websocket"
+                ],
+                "multilingual_descriptions": {
+                    "en": "👋 轻量级 ChatGPT 聊天平台, 实现 ChatGPT 联网功能，多账户均衡负载，缓存，鉴权系统，支持 Stream 实时响应，图像生成，对话记忆功能 👋 Lightweight ChatGPT chat platform, implement ChatGPT online searching service, multi-account load balancing, cache, authentication system, supports stream real-time response, image generation and memory function",
+                    "ja": "👋 軽量なChatGPTチャットプラットフォーム、ChatGPTのオンライン検索サービスを実装し、マルチアカウントの負荷分散、キャッシュ、認証システムをサポートし、ストリームのリアルタイム応答、画像生成、対話の記憶機能をサポートします。",
+                    "zh-hans": "👋 轻量级 ChatGPT 聊天平台，实现 ChatGPT 在线搜索服务，多账户负载均衡，缓存，鉴权系统，支持实时响应流，图像生成和记忆功能。",
+                    "zh-hant": "👋 輕量級 ChatGPT 聊天平台，實現 ChatGPT 聯網功能，多帳戶均衡負載，緩存，鑒權系統，支持 Stream 實時響應，圖像生成，對話記憶功能 👋"
+                }
+            },
+            "https://github.com/proxoar/talk": {
+                "repository_name": "talk",
+                "user_name": "proxoar",
+                "language": "Go",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Talking with ChatGPT is a breeze",
+                "topics": [
+                    "audio",
+                    "chatgpt",
+                    "elevenlabs",
+                    "go",
+                    "golang",
+                    "google-speech",
+                    "google-text-to-speech",
+                    "react",
+                    "single-page",
+                    "speech-to-text",
+                    "talk",
+                    "text-to-speech"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Talking with ChatGPT is a breeze",
+                    "ja": "ChatGPTとの会話はとても簡単です。",
+                    "zh-hans": "与ChatGPT交流非常轻松",
+                    "zh-hant": "與ChatGPT對話輕而易舉"
                 }
             }
         }

@@ -16,28 +16,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API.  Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖 
-
-
 **Browser-extensions**
- * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
-
-
-**CLIs**
- * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime 是一个 ChatGPT 等 AI 代码的运行环境，可一键启动并实时交互，帮助您快速构建和测试 AI 代码。Unit Runtime is an efficient and user-friendly AI code execution environment that allows for one-click startup and real-time interaction, helping you quickly build and test AI code.
+ * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the "Most Useful for the Enterprise" category.
 
 
 **NLP**
- * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - Unleash the power of SiriGPT: the intersection of ChatGPT’s intelligence, DALL·E's creativity, and Whisper's precise audio transcription for your Apple devices with support of 20 languages.
- * [chie](https://github.com/chieapp/chie) - An extensive desktop app for ChatGPT and other LLMs.
+ * [chatnio](https://github.com/zmh-program/chatnio) - 📚 document of Zh-Website project (using vitepress)
 
 
 **Openai**
- * [chat](https://github.com/libli/chat) - 有用户管理功能的ChatGPT API透明代理后台
+ * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) -  chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型
 
 
-_Updated on October 14, 2023_ (A total of 1114 repositories listed.)
+**Others**
+ * [Apilot](https://github.com/6vision/apilot) - 基于chatgpt_on_wechat项目的一个api调用插件
+ * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - Repo of custom instructions that you can use for ChatGPT
+ * [chatnio](https://github.com/deeptrain-community/chatnio) - 👋 轻量级 ChatGPT 聊天平台, 实现 ChatGPT 联网功能，多账户均衡负载，缓存，鉴权系统，支持 Stream 实时响应，图像生成，对话记忆功能 👋 Lightweight ChatGPT chat platform, implement ChatGPT online searching service, multi-account load balancing, cache, authentication system, supports stream real-time response, image generation and memory function
+ * [talk](https://github.com/proxoar/talk) - Talking with ChatGPT is a breeze
+
+
+_Updated on October 16, 2023_ (A total of 1121 repositories listed.)
 
 ## Table of contents
 
@@ -311,7 +309,7 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [chatterstack](https://github.com/dschil138/chatterstack) - Easily manage ChatGPT conversation variables
  * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT Is a Poker Discord Bot that allows you to play Texas Hold'em poker with ChatGPT-4.
  * [kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
- * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API.  Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖 
+ * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API.  Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖
 
 
 ## Browser-extensions
@@ -448,6 +446,7 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - ChatGPT plugin to interact with anything in GitHub. Install “Chat With Code” from the ChatGPT plugin store.
  * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - An Eclipse plugin that integrates with ChatGPT
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
+ * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the "Most Useful for the Enterprise" category.
 
 
 ## CLIs
@@ -742,6 +741,7 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - Use ChatGPT to summarize & review GitHub Pull Requests
  * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - Unleash the power of SiriGPT: the intersection of ChatGPT’s intelligence, DALL·E's creativity, and Whisper's precise audio transcription for your Apple devices with support of 20 languages.
  * [chie](https://github.com/chieapp/chie) - An extensive desktop app for ChatGPT and other LLMs.
+ * [chatnio](https://github.com/zmh-program/chatnio) - 📚 document of Zh-Website project (using vitepress)
 
 
 ## Langchain
@@ -937,6 +937,7 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
  * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。
  * [chat](https://github.com/libli/chat) - 有用户管理功能的ChatGPT API透明代理后台
+ * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) -  chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型
 
 
 ## Others
@@ -1226,5 +1227,9 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 一种平价的chatgpt实现方案,  基于ChatGLM-6B + LoRA
  * [chatgpt](https://github.com/emacs-openai/chatgpt) - Use ChatGPT inside Emacs
  * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - "Learn how to use ChatGPT to enhance your learning of Programming
+ * [Apilot](https://github.com/6vision/apilot) - 基于chatgpt_on_wechat项目的一个api调用插件
+ * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - Repo of custom instructions that you can use for ChatGPT
+ * [chatnio](https://github.com/deeptrain-community/chatnio) - 👋 轻量级 ChatGPT 聊天平台, 实现 ChatGPT 联网功能，多账户均衡负载，缓存，鉴权系统，支持 Stream 实时响应，图像生成，对话记忆功能 👋 Lightweight ChatGPT chat platform, implement ChatGPT online searching service, multi-account load balancing, cache, authentication system, supports stream real-time response, image generation and memory function
+ * [talk](https://github.com/proxoar/talk) - Talking with ChatGPT is a breeze
 
 

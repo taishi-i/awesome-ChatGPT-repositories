@@ -15,28 +15,27 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用したAndroidチャットボット。ChatGPT APIからのストリームレスポンスを許可します。Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖
-
-
 **Browser-extensions**
- * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - ブラウザのユーザースクリプトで、ChatGPTに自動的にDANメッセージを送信する。
-
-
-**CLIs**
- * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime は、ChatGPT やその他の AI コードを実行するための効率的で使いやすい環境です。ワンクリックで起動し、リアルタイムで対話することができ、AI コードの構築とテストを迅速にサポートします。
+ * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 自然言語でデータベースにクエリを送信するSemantic Kernelを使用したChatGPTプラグイン。Microsoftの最初のSemantic Kernelハッカソンで、「企業にとって最も有用」というカテゴリーで優勝しました。
 
 
 **NLP**
- * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - SiriGPTのパワーを解き放て：ChatGPTの知能、DALL·Eの創造性、Whisperの正確な音声転写が結集したAppleデバイス向けのサポートで、20言語に対応します。
- * [chie](https://github.com/chieapp/chie) - ChatGPTや他のLLM向けの広範なデスクトップアプリ。
+ * [chatnio](https://github.com/zmh-program/chatnio) - 📚 Zh-Websiteプロジェクトのドキュメント（vitepressを使用）
 
 
 **Openai**
- * [chat](https://github.com/libli/chat) - ユーザー管理機能を備えたChatGPT APIの透明なプロキシバックエンド
+ * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejsサービスは、ChatGLM、GPT3.5、GPT4、GPTネットワーキング、Bing、Claude、Baidu Wenxin Yiyuなどのモデルを統合しています。
 
 
-_Updated on October 14, 2023_ (A total of 1114 repositories listed.)
+**Others**
+ * [Apilot](https://github.com/6vision/apilot) - chatgpt_on_wechatプロジェクトに基づくAPI呼び出しプラグイン
+chatgpt_on_wechatプロジェクトをベースにしたAPI呼び出しプラグイン
+ * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - ChatGPTで使用できるカスタムインストラクションのリポジトリ
+ * [chatnio](https://github.com/deeptrain-community/chatnio) - 👋 軽量なChatGPTチャットプラットフォーム、ChatGPTのオンライン検索サービスを実装し、マルチアカウントの負荷分散、キャッシュ、認証システムをサポートし、ストリームのリアルタイム応答、画像生成、対話の記憶機能をサポートします。
+ * [talk](https://github.com/proxoar/talk) - ChatGPTとの会話はとても簡単です。
+
+
+_Updated on October 16, 2023_ (A total of 1121 repositories listed.)
 
 ## Table of contents
 
@@ -447,6 +446,7 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [github-chatgpt-plugin](https://github.com/aavetis/github-chatgpt-plugin) - GitHubで何でも対話するためのChatGPTプラグイン。ChatGPTプラグインストアから「Chat With Code」をインストールしてください。
  * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - ChatGPTと統合されたEclipseのプラグイン
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - ブラウザのユーザースクリプトで、ChatGPTに自動的にDANメッセージを送信する。
+ * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 自然言語でデータベースにクエリを送信するSemantic Kernelを使用したChatGPTプラグイン。Microsoftの最初のSemantic Kernelハッカソンで、「企業にとって最も有用」というカテゴリーで優勝しました。
 
 
 ## CLIs
@@ -741,6 +741,7 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [github-pr-summary](https://github.com/flows-network/github-pr-summary) - ChatGPTを使用してGitHubのプルリクエストを要約およびレビューする
  * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - SiriGPTのパワーを解き放て：ChatGPTの知能、DALL·Eの創造性、Whisperの正確な音声転写が結集したAppleデバイス向けのサポートで、20言語に対応します。
  * [chie](https://github.com/chieapp/chie) - ChatGPTや他のLLM向けの広範なデスクトップアプリ。
+ * [chatnio](https://github.com/zmh-program/chatnio) - 📚 Zh-Websiteプロジェクトのドキュメント（vitepressを使用）
 
 
 ## Langchain
@@ -936,6 +937,7 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [chatpad](https://github.com/deiucanta/chatpad) - ただのChatGPTのユーザーインターフェースではありません！
  * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - Nuxt.jsフレームワークを使用したChatGPTクラスプロジェクトで、OpenAIとAzureの2つのAPIの切り替えをサポートし、ダークモード、英語、日本語の多言語切り替えをサポートしています。
  * [chat](https://github.com/libli/chat) - ユーザー管理機能を備えたChatGPT APIの透明なプロキシバックエンド
+ * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejsサービスは、ChatGLM、GPT3.5、GPT4、GPTネットワーキング、Bing、Claude、Baidu Wenxin Yiyuなどのモデルを統合しています。
 
 
 ## Others
@@ -1225,5 +1227,10 @@ _Updated on October 14, 2023_ (A total of 1114 repositories listed.)
  * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法
  * [chatgpt](https://github.com/emacs-openai/chatgpt) - Emacs内でChatGPTを使用する
  * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - プログラミングの学習を強化するためにChatGPTの使い方を学びましょう。
+ * [Apilot](https://github.com/6vision/apilot) - chatgpt_on_wechatプロジェクトに基づくAPI呼び出しプラグイン
+chatgpt_on_wechatプロジェクトをベースにしたAPI呼び出しプラグイン
+ * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - ChatGPTで使用できるカスタムインストラクションのリポジトリ
+ * [chatnio](https://github.com/deeptrain-community/chatnio) - 👋 軽量なChatGPTチャットプラットフォーム、ChatGPTのオンライン検索サービスを実装し、マルチアカウントの負荷分散、キャッシュ、認証システムをサポートし、ストリームのリアルタイム応答、画像生成、対話の記憶機能をサポートします。
+ * [talk](https://github.com/proxoar/talk) - ChatGPTとの会話はとても簡単です。
 
 
