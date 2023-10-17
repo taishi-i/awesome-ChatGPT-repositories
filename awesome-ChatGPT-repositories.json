@@ -2220,6 +2220,26 @@
                     "zh-hans": "分门别类的 ChatGPT 中文引导语大全。",
                     "zh-hant": "分門別類的 ChatGPT 中文引導語大全。"
                 }
+            },
+            "https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh": {
+                "repository_name": "chat-gpt-prompts-from-aiprm-zh",
+                "user_name": "AdamBear",
+                "language": null,
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "来自aiprm社区的两千多个ChatGPT提示，使用GPT3.5的API完成的中文翻译",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Over 2,000 ChatGPT prompts from the aiprm community, translated into Chinese using the GPT3.5 API.",
+                    "ja": "aiprmコミュニティからの2000以上のChatGPTのプロンプトを使用して、GPT3.5のAPIを使って中国語に翻訳しました。",
+                    "zh-hans": "来自aiprm社区的两千多个ChatGPT提示，使用GPT3.5的API完成的中文翻译",
+                    "zh-hant": "來自aiprm社區的兩千多個ChatGPT提示，使用GPT3.5的API完成的中文翻譯"
+                }
             }
         },
         "Chatbots": {
@@ -5309,6 +5329,26 @@
                     "ja": ":lion:Compose ChatGPT Kotlin - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用したAndroidチャットボット。ChatGPT APIからのストリームレスポンスを許可します。Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖",
                     "zh-hans": ":lion:使用Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI的GPT-3 API，编写Android聊天机器人。允许从ChatGPT API获取流式响应。🤖",
                     "zh-hant": ":lion:使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天機器人。允許從 ChatGPT API 接收流式回應。🤖"
+                }
+            },
+            "https://github.com/misonomikadev/chino-chan-bot": {
+                "repository_name": "Chino-chan-Bot",
+                "user_name": "misonomikadev",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Bot Messenger được tích hợp ChatGPT.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The Messenger Bot is integrated with ChatGPT.",
+                    "ja": "ボットメッセンジャーはChatGPTが統合されています。",
+                    "zh-hans": "Bot Messenger 集成了 ChatGPT。\nBot Messenger 集成了 ChatGPT。",
+                    "zh-hant": "Bot Messenger 被整合了 ChatGPT。"
                 }
             }
         },
@@ -10107,6 +10147,31 @@
                     "zh-hans": "Unit Runtime 是一个高效且用户友好的 AI 代码执行环境，可一键启动并实时交互，帮助您快速构建和测试 AI 代码。",
                     "zh-hant": "Unit Runtime 是一個 ChatGPT 等 AI 代碼的運行環境，可一鍵啟動並實時交互，幫助您快速構建和測試 AI 代碼。Unit Runtime 是一個高效且用戶友好的 AI 代碼執行環境，可一鍵啟動並實時交互，幫助您快速構建和測試 AI 代碼。"
                 }
+            },
+            "https://github.com/databingo/aih": {
+                "repository_name": "aih",
+                "user_name": "Databingo",
+                "language": "Go",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Talk to AI modes in terminal. Bard|GPT3.5|Claude2|Llama2|Falcon180",
+                "topics": [
+                    "ai",
+                    "all-in-one",
+                    "enhancements",
+                    "thought2source"
+                ],
+                "multilingual_descriptions": {
+                    "en": "You can communicate with AI models in the terminal using the following modes: Bard, GPT3.5, Claude2, Llama2, and Falcon180.",
+                    "ja": "ターミナルでAIモードと話す。Bard|GPT3.5|Claude2|Llama2|Falcon180",
+                    "zh-hans": "在终端中与AI模式进行对话。Bard|GPT3.5|Claude2|Llama2|Falcon180",
+                    "zh-hant": "在終端機中與AI模式對話。Bard|GPT3.5|Claude2|Llama2|Falcon180"
+                }
             }
         },
         "Reimplementations": {
@@ -13879,6 +13944,24 @@
                     "ja": "📚 Zh-Websiteプロジェクトのドキュメント（vitepressを使用）",
                     "zh-hans": "📚 中文网站项目的文档（使用 vitepress）",
                     "zh-hant": "📚 中文網站項目的文件（使用 vitepress）"
+                }
+            },
+            "https://github.com/liyucheng09/selective_context": {
+                "repository_name": "Selective_Context",
+                "user_name": "liyucheng09",
+                "language": "Python",
+                "license": null,
+                "description": "Compress your input to ChatGPT or other LLMs, to let them process 2x more content and save 40% memory and GPU time.",
+                "topics": [
+                    "chatgpt",
+                    "llms",
+                    "nlp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Compress your input to ChatGPT or other LLMs, to let them process 2x more content and save 40% memory and GPU time.",
+                    "ja": "ChatGPTや他のLLMに入力を圧縮して、2倍のコンテンツを処理し、メモリとGPUの時間を40％節約します。",
+                    "zh-hans": "将您的输入压缩到ChatGPT或其他LLMs中，让它们能够处理多2倍的内容，并节省40%的内存和GPU时间。",
+                    "zh-hant": "將您的輸入壓縮到ChatGPT或其他LLMs，讓它們能夠處理2倍的內容並節省40％的記憶體和GPU時間。\n將您的輸入壓縮到ChatGPT或其他LLMs，讓它們能夠處理2倍的內容並節省40％的記憶體和GPU時間。"
                 }
             }
         },
@@ -17736,6 +17819,33 @@
                     "ja": "chatgpt nodejsサービスは、ChatGLM、GPT3.5、GPT4、GPTネットワーキング、Bing、Claude、Baidu Wenxin Yiyuなどのモデルを統合しています。",
                     "zh-hans": "chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型\nchatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型",
                     "zh-hant": "chatgpt nodejs服務，集成了ChatGLM、GPT3.5、GPT4、GPT聯網、必應、Claude、百度文心一言等模型\nchatgpt nodejs服務，集成了ChatGLM、GPT3.5、GPT4、GPT聯網、必應、Claude、百度文心一言等模型"
+                }
+            },
+            "https://github.com/dvcrn/chatgpt-ui": {
+                "repository_name": "chatgpt-ui",
+                "user_name": "dvcrn",
+                "language": "Elixir",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT UI with auth, targeted towards business-ey usecases, written in Elixir + LiveView",
+                "topics": [
+                    "chatgpt",
+                    "elixir",
+                    "liveview",
+                    "openai",
+                    "phoenix",
+                    "phoenix-framework"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT UI with auth, targeted towards business-ey usecases, written in Elixir + LiveView",
+                    "ja": "Elixir + LiveViewで書かれた、ビジネス向けの認証付きChatGPT UI",
+                    "zh-hans": "ChatGPT UI带有身份验证，针对商业用例，使用Elixir + LiveView编写的界面。",
+                    "zh-hant": "使用Elixir + LiveView編寫的ChatGPT UI，帶有身份驗證，針對商業用途的使用案例。\nChatGPT UI具有身份驗證，針對商業用途，使用Elixir + LiveView編寫。"
                 }
             }
         },
@@ -23055,6 +23165,39 @@
                     "ja": "ChatGPTとの会話はとても簡単です。",
                     "zh-hans": "与ChatGPT交流非常轻松",
                     "zh-hant": "與ChatGPT對話輕而易舉"
+                }
+            },
+            "https://github.com/caidukai/brain-reply": {
+                "repository_name": "brain-reply",
+                "user_name": "caidukai",
+                "language": "TypeScript",
+                "license": null,
+                "description": "更优雅的ChatGPT客户端",
+                "topics": [
+                    "chat",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "chatgpt4"
+                ],
+                "multilingual_descriptions": {
+                    "en": "More elegant ChatGPT client",
+                    "ja": "より優雅なChatGPTクライアント",
+                    "zh-hans": "更优雅的ChatGPT客户端",
+                    "zh-hant": "更優雅的ChatGPT客戶端"
+                }
+            },
+            "https://github.com/husanr/wechat_gpt_laf": {
+                "repository_name": "wechat_gpt_laf",
+                "user_name": "husanr",
+                "language": "TypeScript",
+                "license": null,
+                "description": "使用Laf云平台，两步将ChatGPT接入微信公众号",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Using the Laf cloud platform, ChatGPT can be integrated into WeChat official accounts in two steps.",
+                    "ja": "Lafクラウドプラットフォームを使用して、2つのステップでChatGPTをWeChat公式アカウントに接続します。",
+                    "zh-hans": "使用Laf云平台，只需两步即可将ChatGPT接入微信公众号。",
+                    "zh-hant": "使用Laf雲平台，兩步將ChatGPT接入微信公眾號"
                 }
             }
         }

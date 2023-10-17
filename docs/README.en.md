@@ -16,27 +16,32 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the "Most Useful for the Enterprise" category.
+**Prompts**
+ * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - Over 2,000 ChatGPT prompts from the aiprm community, translated into Chinese using the GPT3.5 API.
+
+
+**Chatbots**
+ * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - The Messenger Bot is integrated with ChatGPT.
+
+
+**CLIs**
+ * [aih](https://github.com/databingo/aih) - You can communicate with AI models in the terminal using the following modes: Bard, GPT3.5, Claude2, Llama2, and Falcon180.
 
 
 **NLP**
- * [chatnio](https://github.com/zmh-program/chatnio) - 📚 document of Zh-Website project (using vitepress)
+ * [Selective_Context](https://github.com/liyucheng09/selective_context) - Compress your input to ChatGPT or other LLMs, to let them process 2x more content and save 40% memory and GPU time.
 
 
 **Openai**
- * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - Input: chatgpt nodejs service, integrated with models such as ChatGLM, GPT3.5, GPT4, GPT networking, Bing, Claude, Baidu Wenxin Yiyuan, etc.
-Output:
+ * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - ChatGPT UI with auth, targeted towards business-ey usecases, written in Elixir + LiveView
 
 
 **Others**
- * [Apilot](https://github.com/6vision/apilot) - 基于chatgpt_on_wechat项目的一个api调用插件
- * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - Repo of custom instructions that you can use for ChatGPT
- * [chatnio](https://github.com/deeptrain-community/chatnio) - 👋 轻量级 ChatGPT 聊天平台, 实现 ChatGPT 联网功能，多账户均衡负载，缓存，鉴权系统，支持 Stream 实时响应，图像生成，对话记忆功能 👋 Lightweight ChatGPT chat platform, implement ChatGPT online searching service, multi-account load balancing, cache, authentication system, supports stream real-time response, image generation and memory function
- * [talk](https://github.com/proxoar/talk) - Talking with ChatGPT is a breeze
+ * [brain-reply](https://github.com/caidukai/brain-reply) - More elegant ChatGPT client
+ * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Using the Laf cloud platform, ChatGPT can be integrated into WeChat official accounts in two steps.
 
 
-_Updated on October 16, 2023_ (A total of 1121 repositories listed.)
+_Updated on October 17, 2023_ (A total of 1128 repositories listed.)
 
 ## Table of contents
 
@@ -167,6 +172,7 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [prompta](https://github.com/iansinnott/prompta) - ChatGPT UI that is keyboard-centric, mobile friendly, can syncs chat history across devices and search past conversations.
  * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - This is a sample of ChatGPT's prompt.
  * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - Comprehensive collection of categorized Chinese prompts for ChatGPT.
+ * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - Over 2,000 ChatGPT prompts from the aiprm community, translated into Chinese using the GPT3.5 API.
 
 
 ## Chatbots
@@ -311,6 +317,7 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPT Is a Poker Discord Bot that allows you to play Texas Hold'em poker with ChatGPT-4.
  * [kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
  * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API.  Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖 
+ * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - The Messenger Bot is integrated with ChatGPT.
 
 
 ## Browser-extensions
@@ -542,6 +549,7 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [paperify](https://github.com/jstrieb/paperify) - Transform any document, web page, or eBook into a research paper (ChatGPT not required)
  * [cli](https://github.com/bashsenpai/cli) - BashSenpai is a terminal assistant powered by ChatGPT.
  * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime 是一个 ChatGPT 等 AI 代码的运行环境，可一键启动并实时交互，帮助您快速构建和测试 AI 代码。Unit Runtime is an efficient and user-friendly AI code execution environment that allows for one-click startup and real-time interaction, helping you quickly build and test AI code.
+ * [aih](https://github.com/databingo/aih) - You can communicate with AI models in the terminal using the following modes: Bard, GPT3.5, Claude2, Llama2, and Falcon180.
 
 
 ## Reimplementations
@@ -743,6 +751,7 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - Unleash the power of SiriGPT: the intersection of ChatGPT’s intelligence, DALL·E's creativity, and Whisper's precise audio transcription for your Apple devices with support of 20 languages.
  * [chie](https://github.com/chieapp/chie) - An extensive desktop app for ChatGPT and other LLMs.
  * [chatnio](https://github.com/zmh-program/chatnio) - 📚 document of Zh-Website project (using vitepress)
+ * [Selective_Context](https://github.com/liyucheng09/selective_context) - Compress your input to ChatGPT or other LLMs, to let them process 2x more content and save 40% memory and GPU time.
 
 
 ## Langchain
@@ -938,8 +947,8 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
  * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - A ChatGPT-like project based on the Nuxt.js framework, supporting the switching between OpenAI and Azure APIs, and supporting dark mode and switching between multiple languages including Chinese, English, and Japanese.
  * [chat](https://github.com/libli/chat) - ChatGPT API transparent proxy backend with user management functionality.
- * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - Input: chatgpt nodejs service, integrated with models such as ChatGLM, GPT3.5, GPT4, GPT networking, Bing, Claude, Baidu Wenxin Yiyuan, etc.
-Output:
+ * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - Input: chatgpt nodejs service, integrated with models such as ChatGLM, GPT3.5, GPT4, GPT networking, Bing, Claude, Baidu Wenxin Yiyuan, etc.Output:
+ * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - ChatGPT UI with auth, targeted towards business-ey usecases, written in Elixir + LiveView
 
 
 ## Others
@@ -1233,5 +1242,7 @@ Output:
  * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - Repo of custom instructions that you can use for ChatGPT
  * [chatnio](https://github.com/deeptrain-community/chatnio) - 👋 轻量级 ChatGPT 聊天平台, 实现 ChatGPT 联网功能，多账户均衡负载，缓存，鉴权系统，支持 Stream 实时响应，图像生成，对话记忆功能 👋 Lightweight ChatGPT chat platform, implement ChatGPT online searching service, multi-account load balancing, cache, authentication system, supports stream real-time response, image generation and memory function
  * [talk](https://github.com/proxoar/talk) - Talking with ChatGPT is a breeze
+ * [brain-reply](https://github.com/caidukai/brain-reply) - More elegant ChatGPT client
+ * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Using the Laf cloud platform, ChatGPT can be integrated into WeChat official accounts in two steps.
 
 
