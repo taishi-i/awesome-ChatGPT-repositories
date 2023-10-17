@@ -15,27 +15,32 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 自然言語でデータベースにクエリを送信するSemantic Kernelを使用したChatGPTプラグイン。Microsoftの最初のSemantic Kernelハッカソンで、「企業にとって最も有用」というカテゴリーで優勝しました。
+**Prompts**
+ * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - aiprmコミュニティからの2000以上のChatGPTのプロンプトを使用して、GPT3.5のAPIを使って中国語に翻訳しました。
+
+
+**Chatbots**
+ * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - ボットメッセンジャーはChatGPTが統合されています。
+
+
+**CLIs**
+ * [aih](https://github.com/databingo/aih) - ターミナルでAIモードと話す。Bard|GPT3.5|Claude2|Llama2|Falcon180
 
 
 **NLP**
- * [chatnio](https://github.com/zmh-program/chatnio) - 📚 Zh-Websiteプロジェクトのドキュメント（vitepressを使用）
+ * [Selective_Context](https://github.com/liyucheng09/selective_context) - ChatGPTや他のLLMに入力を圧縮して、2倍のコンテンツを処理し、メモリとGPUの時間を40％節約します。
 
 
 **Openai**
- * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejsサービスは、ChatGLM、GPT3.5、GPT4、GPTネットワーキング、Bing、Claude、Baidu Wenxin Yiyuなどのモデルを統合しています。
+ * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - Elixir + LiveViewで書かれた、ビジネス向けの認証付きChatGPT UI
 
 
 **Others**
- * [Apilot](https://github.com/6vision/apilot) - chatgpt_on_wechatプロジェクトに基づくAPI呼び出しプラグイン
-chatgpt_on_wechatプロジェクトをベースにしたAPI呼び出しプラグイン
- * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - ChatGPTで使用できるカスタムインストラクションのリポジトリ
- * [chatnio](https://github.com/deeptrain-community/chatnio) - 👋 軽量なChatGPTチャットプラットフォーム、ChatGPTのオンライン検索サービスを実装し、マルチアカウントの負荷分散、キャッシュ、認証システムをサポートし、ストリームのリアルタイム応答、画像生成、対話の記憶機能をサポートします。
- * [talk](https://github.com/proxoar/talk) - ChatGPTとの会話はとても簡単です。
+ * [brain-reply](https://github.com/caidukai/brain-reply) - より優雅なChatGPTクライアント
+ * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Lafクラウドプラットフォームを使用して、2つのステップでChatGPTをWeChat公式アカウントに接続します。
 
 
-_Updated on October 16, 2023_ (A total of 1121 repositories listed.)
+_Updated on October 17, 2023_ (A total of 1128 repositories listed.)
 
 ## Table of contents
 
@@ -166,6 +171,7 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [prompta](https://github.com/iansinnott/prompta) - キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。
  * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
  * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分類されたChatGPTの中国語ガイド全集。
+ * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - aiprmコミュニティからの2000以上のChatGPTのプロンプトを使用して、GPT3.5のAPIを使って中国語に翻訳しました。
 
 
 ## Chatbots
@@ -310,6 +316,7 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [PokerGPT](https://github.com/matteo-psnt/pokergpt) - PokerGPTは、ChatGPT-4と一緒にテキサスホールデムポーカーをプレイすることができるPoker Discord Botです。
  * [kitt](https://github.com/livekit-examples/kitt) - リアルタイムでLiveKitを使用してChatGPTと会話してください。
  * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用したAndroidチャットボット。ChatGPT APIからのストリームレスポンスを許可します。Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖
+ * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - ボットメッセンジャーはChatGPTが統合されています。
 
 
 ## Browser-extensions
@@ -541,6 +548,7 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [paperify](https://github.com/jstrieb/paperify) - どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）
  * [cli](https://github.com/bashsenpai/cli) - BashSenpaiはChatGPTによって動作するターミナルアシスタントです。
  * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime は、ChatGPT やその他の AI コードを実行するための効率的で使いやすい環境です。ワンクリックで起動し、リアルタイムで対話することができ、AI コードの構築とテストを迅速にサポートします。
+ * [aih](https://github.com/databingo/aih) - ターミナルでAIモードと話す。Bard|GPT3.5|Claude2|Llama2|Falcon180
 
 
 ## Reimplementations
@@ -742,6 +750,7 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - SiriGPTのパワーを解き放て：ChatGPTの知能、DALL·Eの創造性、Whisperの正確な音声転写が結集したAppleデバイス向けのサポートで、20言語に対応します。
  * [chie](https://github.com/chieapp/chie) - ChatGPTや他のLLM向けの広範なデスクトップアプリ。
  * [chatnio](https://github.com/zmh-program/chatnio) - 📚 Zh-Websiteプロジェクトのドキュメント（vitepressを使用）
+ * [Selective_Context](https://github.com/liyucheng09/selective_context) - ChatGPTや他のLLMに入力を圧縮して、2倍のコンテンツを処理し、メモリとGPUの時間を40％節約します。
 
 
 ## Langchain
@@ -938,6 +947,7 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - Nuxt.jsフレームワークを使用したChatGPTクラスプロジェクトで、OpenAIとAzureの2つのAPIの切り替えをサポートし、ダークモード、英語、日本語の多言語切り替えをサポートしています。
  * [chat](https://github.com/libli/chat) - ユーザー管理機能を備えたChatGPT APIの透明なプロキシバックエンド
  * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejsサービスは、ChatGLM、GPT3.5、GPT4、GPTネットワーキング、Bing、Claude、Baidu Wenxin Yiyuなどのモデルを統合しています。
+ * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - Elixir + LiveViewで書かれた、ビジネス向けの認証付きChatGPT UI
 
 
 ## Others
@@ -1227,10 +1237,11 @@ _Updated on October 16, 2023_ (A total of 1121 repositories listed.)
  * [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - 出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法
  * [chatgpt](https://github.com/emacs-openai/chatgpt) - Emacs内でChatGPTを使用する
  * [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - プログラミングの学習を強化するためにChatGPTの使い方を学びましょう。
- * [Apilot](https://github.com/6vision/apilot) - chatgpt_on_wechatプロジェクトに基づくAPI呼び出しプラグイン
-chatgpt_on_wechatプロジェクトをベースにしたAPI呼び出しプラグイン
+ * [Apilot](https://github.com/6vision/apilot) - chatgpt_on_wechatプロジェクトに基づくAPI呼び出しプラグインchatgpt_on_wechatプロジェクトをベースにしたAPI呼び出しプラグイン
  * [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - ChatGPTで使用できるカスタムインストラクションのリポジトリ
  * [chatnio](https://github.com/deeptrain-community/chatnio) - 👋 軽量なChatGPTチャットプラットフォーム、ChatGPTのオンライン検索サービスを実装し、マルチアカウントの負荷分散、キャッシュ、認証システムをサポートし、ストリームのリアルタイム応答、画像生成、対話の記憶機能をサポートします。
  * [talk](https://github.com/proxoar/talk) - ChatGPTとの会話はとても簡単です。
+ * [brain-reply](https://github.com/caidukai/brain-reply) - より優雅なChatGPTクライアント
+ * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Lafクラウドプラットフォームを使用して、2つのステップでChatGPTをWeChat公式アカウントに接続します。
 
 
