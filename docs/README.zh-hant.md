@@ -15,32 +15,29 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - 來自aiprm社区的兩千多個ChatGPT提示,使用GPT3.5的API完成的中文翻譯
-
-
 **Chatbots**
- * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - 傳送訊息的機器人已集成ChatGPT.
+ * [Chatbase](https://github.com/anil-matcha/chatbase) - 透過個人化聊天機訓練您的網站內容,即時回答訪客的問題.
+
+
+**Browser-extensions**
+ * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - 該網站提供了 ChatGPT 插件,附加程式和擴展程序的完整列表,
 
 
 **CLIs**
- * [aih](https://github.com/databingo/aih) - 接觸到人工智能模式的終端.
-
-
-**NLP**
- * [Selective_Context](https://github.com/liyucheng09/selective_context) - 壓縮您的輸入到ChatGPT或其他LLM, 讓他們處理2倍的內容,
+ * [Sense](https://github.com/f0x1d/sense) - 支持ChatGPT的Android版OpenAI客戶端
+ * [sparrow](https://github.com/soulteary/sparrow) - 提供了一個非常好的服務.
+ * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - 透過 ChatGPT API 翻譯 Markdown 文檔的 CLI
 
 
 **Openai**
- * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - 專門針對商務用例,使用Elixir + LiveView
+ * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 地平線人工智能模板 - 最流行的開放源 ChatGPT UI AI模板與啟動工具組
 
 
 **Others**
- * [brain-reply](https://github.com/caidukai/brain-reply) - 更多優雅的ChatGPT客戶端
- * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - 請使用Laf雲平台,兩步將ChatGPT接入微信公眾號
+ * [bionicgpt](https://github.com/purton-tech/bionicgpt) - 提供生成性人工智能的優勢, 但同時保持嚴格的資料保密性.
 
 
-_Updated on October 17, 2023_ (A total of 1128 repositories listed.)
+_Updated on October 20, 2023_ (A total of 1135 repositories listed.)
 
 ## Table of contents
 
@@ -317,6 +314,7 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [kitt](https://github.com/livekit-examples/kitt) - 使用LiveKit即時與ChatGPT對話
  * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天機器人。允許從 ChatGPT API 接收流式回應。🤖
  * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - Bot Messenger 被整合了 ChatGPT。
+ * [Chatbase](https://github.com/anil-matcha/chatbase) - ChatGPT 適用於每個網站。使用根據您的網站內容訓練的個人化聊天機器人，即時回答您的訪客問題。Chatbase、SiteGPT、Dante AI 的替代方案。
 
 
 ## Browser-extensions
@@ -454,6 +452,7 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - 一個與ChatGPT整合的Eclipse插件
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - 瀏覽器使用者腳本，可自動將DAN訊息發送到ChatGPT。
  * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 一個使用語義核心構建的ChatGPT插件，可以通過自然語言查詢數據庫。該插件在微軟首屆語義核心黑客松比賽中獲得了"對企業最有用"類別的冠軍。
+ * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供支持，同時也支持與 GPT 架構兼容的其他語言模型。
 
 
 ## CLIs
@@ -549,6 +548,9 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [cli](https://github.com/bashsenpai/cli) - BashSenpai 是由 ChatGPT 驅動的終端助手。
  * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime 是一個 ChatGPT 等 AI 代碼的運行環境，可一鍵啟動並實時交互，幫助您快速構建和測試 AI 代碼。Unit Runtime 是一個高效且用戶友好的 AI 代碼執行環境，可一鍵啟動並實時交互，幫助您快速構建和測試 AI 代碼。
  * [aih](https://github.com/databingo/aih) - 在終端機中與AI模式對話。Bard|GPT3.5|Claude2|Llama2|Falcon180
+ * [Sense](https://github.com/f0x1d/sense) - 開放AI Android客戶端，支援ChatGPT功能
+ * [sparrow](https://github.com/soulteary/sparrow) - ChatGPT風格的客戶端相容的後端伺服器，開源實現。
+ * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - 使用ChatGPT API翻譯Markdown文件的CLI
 
 
 ## Reimplementations
@@ -750,8 +752,7 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [SiriGPT](https://github.com/nicolodiamante/sirigpt) - 釋放 SiriGPT 的力量：ChatGPT 的智能、DALL·E 的創造力和 Whisper 的精確音頻轉錄相結合，為您的 Apple 設備提供支援的 20 種語言。
  * [chie](https://github.com/chieapp/chie) - 一個功能豐富的桌面應用程式，可用於ChatGPT和其他LLM。
  * [chatnio](https://github.com/zmh-program/chatnio) - 📚 中文網站項目的文件（使用 vitepress）
- * [Selective_Context](https://github.com/liyucheng09/selective_context) - 將您的輸入壓縮到ChatGPT或其他LLMs，讓它們能夠處理2倍的內容並節省40％的記憶體和GPU時間。
-將您的輸入壓縮到ChatGPT或其他LLMs，讓它們能夠處理2倍的內容並節省40％的記憶體和GPU時間。
+ * [Selective_Context](https://github.com/liyucheng09/selective_context) - 將您的輸入壓縮到ChatGPT或其他LLMs，讓它們能夠處理2倍的內容並節省40％的記憶體和GPU時間。將您的輸入壓縮到ChatGPT或其他LLMs，讓它們能夠處理2倍的內容並節省40％的記憶體和GPU時間。
 
 
 ## Langchain
@@ -948,8 +949,8 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基於 Nuxt.js 框架的 ChatGPT 類項目，支援 OpenAI 和 Azure 兩種 API 切換，支援黑暗模式、中英日多語言切換。
  * [chat](https://github.com/libli/chat) - 具有用户管理功能的ChatGPT API透明代理後台
  * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejs服務，集成了ChatGLM、GPT3.5、GPT4、GPT聯網、必應、Claude、百度文心一言等模型chatgpt nodejs服務，集成了ChatGLM、GPT3.5、GPT4、GPT聯網、必應、Claude、百度文心一言等模型
- * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - 使用Elixir + LiveView編寫的ChatGPT UI，帶有身份驗證，針對商業用途的使用案例。
-ChatGPT UI具有身份驗證，針對商業用途，使用Elixir + LiveView編寫。
+ * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - 使用Elixir + LiveView編寫的ChatGPT UI，帶有身份驗證，針對商業用途的使用案例。ChatGPT UI具有身份驗證，針對商業用途，使用Elixir + LiveView編寫。
+ * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI 模板 - 最時尚的開源 ChatGPT UI AI 模板和 React、NextJS 及 Chakra UI 的入門套件
 
 
 ## Others
@@ -1245,5 +1246,6 @@ ChatGPT UI具有身份驗證，針對商業用途，使用Elixir + LiveView編�
  * [talk](https://github.com/proxoar/talk) - 與ChatGPT對話輕而易舉
  * [brain-reply](https://github.com/caidukai/brain-reply) - 更優雅的ChatGPT客戶端
  * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - 使用Laf雲平台，兩步將ChatGPT接入微信公眾號
+ * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT 是 ChatGPT 的本地替代方案，提供了生成式人工智能的优势，同时保持严格的数据保密性。
 
 
