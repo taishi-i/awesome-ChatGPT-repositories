@@ -15,32 +15,30 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - aiprmコミュニティからの2000以上のChatGPTのプロンプトを使用して、GPT3.5のAPIを使って中国語に翻訳しました。
-
-
 **Chatbots**
- * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - ボットメッセンジャーはChatGPTが統合されています。
+ * [Chatbase](https://github.com/anil-matcha/chatbase) - すべてのウェブサイトに対応するChatGPT。ウェブサイトのコンテンツを学習したパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案です。
+
+
+**Browser-extensions**
+ * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。また、GPTアーキテクチャに対応した他の言語モデルにも対応しています。
+Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、および拡張機能の包括的なリストであり、GPTアーキテクチャと互換性のある他の言語モデルにも対応しているGitHubリポジトリです。
 
 
 **CLIs**
- * [aih](https://github.com/databingo/aih) - ターミナルでAIモードと話す。Bard|GPT3.5|Claude2|Llama2|Falcon180
-
-
-**NLP**
- * [Selective_Context](https://github.com/liyucheng09/selective_context) - ChatGPTや他のLLMに入力を圧縮して、2倍のコンテンツを処理し、メモリとGPUの時間を40％節約します。
+ * [Sense](https://github.com/f0x1d/sense) - Android対応のOpenAIクライアントで、ChatGPTをサポートしています。
+ * [sparrow](https://github.com/soulteary/sparrow) - ChatGPTスタイルのクライアント互換のバックエンドサーバー、オープンソースの実装。
+ * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - ChatGPT APIを使用してMarkdownドキュメントを翻訳するためのCLI
 
 
 **Openai**
- * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - Elixir + LiveViewで書かれた、ビジネス向けの認証付きChatGPT UI
+ * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI テンプレート - 最新のオープンソース ChatGPT UI AI テンプレート＆React、NextJS、Chakra UI のスターターキット
 
 
 **Others**
- * [brain-reply](https://github.com/caidukai/brain-reply) - より優雅なChatGPTクライアント
- * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Lafクラウドプラットフォームを使用して、2つのステップでChatGPTをWeChat公式アカウントに接続します。
+ * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
 
 
-_Updated on October 17, 2023_ (A total of 1128 repositories listed.)
+_Updated on October 20, 2023_ (A total of 1135 repositories listed.)
 
 ## Table of contents
 
@@ -317,6 +315,7 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [kitt](https://github.com/livekit-examples/kitt) - リアルタイムでLiveKitを使用してChatGPTと会話してください。
  * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用したAndroidチャットボット。ChatGPT APIからのストリームレスポンスを許可します。Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖
  * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - ボットメッセンジャーはChatGPTが統合されています。
+ * [Chatbase](https://github.com/anil-matcha/chatbase) - すべてのウェブサイトに対応するChatGPT。ウェブサイトのコンテンツを学習したパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案です。
 
 
 ## Browser-extensions
@@ -454,6 +453,8 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - ChatGPTと統合されたEclipseのプラグイン
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - ブラウザのユーザースクリプトで、ChatGPTに自動的にDANメッセージを送信する。
  * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 自然言語でデータベースにクエリを送信するSemantic Kernelを使用したChatGPTプラグイン。Microsoftの最初のSemantic Kernelハッカソンで、「企業にとって最も有用」というカテゴリーで優勝しました。
+ * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。また、GPTアーキテクチャに対応した他の言語モデルにも対応しています。
+Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、および拡張機能の包括的なリストであり、GPTアーキテクチャと互換性のある他の言語モデルにも対応しているGitHubリポジトリです。
 
 
 ## CLIs
@@ -549,6 +550,9 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [cli](https://github.com/bashsenpai/cli) - BashSenpaiはChatGPTによって動作するターミナルアシスタントです。
  * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime は、ChatGPT やその他の AI コードを実行するための効率的で使いやすい環境です。ワンクリックで起動し、リアルタイムで対話することができ、AI コードの構築とテストを迅速にサポートします。
  * [aih](https://github.com/databingo/aih) - ターミナルでAIモードと話す。Bard|GPT3.5|Claude2|Llama2|Falcon180
+ * [Sense](https://github.com/f0x1d/sense) - Android対応のOpenAIクライアントで、ChatGPTをサポートしています。
+ * [sparrow](https://github.com/soulteary/sparrow) - ChatGPTスタイルのクライアント互換のバックエンドサーバー、オープンソースの実装。
+ * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - ChatGPT APIを使用してMarkdownドキュメントを翻訳するためのCLI
 
 
 ## Reimplementations
@@ -948,6 +952,7 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [chat](https://github.com/libli/chat) - ユーザー管理機能を備えたChatGPT APIの透明なプロキシバックエンド
  * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejsサービスは、ChatGLM、GPT3.5、GPT4、GPTネットワーキング、Bing、Claude、Baidu Wenxin Yiyuなどのモデルを統合しています。
  * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - Elixir + LiveViewで書かれた、ビジネス向けの認証付きChatGPT UI
+ * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI テンプレート - 最新のオープンソース ChatGPT UI AI テンプレート＆React、NextJS、Chakra UI のスターターキット
 
 
 ## Others
@@ -1243,5 +1248,6 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [talk](https://github.com/proxoar/talk) - ChatGPTとの会話はとても簡単です。
  * [brain-reply](https://github.com/caidukai/brain-reply) - より優雅なChatGPTクライアント
  * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Lafクラウドプラットフォームを使用して、2つのステップでChatGPTをWeChat公式アカウントに接続します。
+ * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
 
 

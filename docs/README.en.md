@@ -16,32 +16,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - Over 2,000 ChatGPT prompts from the aiprm community, translated into Chinese using the GPT3.5 API.
-
-
 **Chatbots**
- * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - The Messenger Bot is integrated with ChatGPT.
+ * [Chatbase](https://github.com/anil-matcha/chatbase) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
+
+
+**Browser-extensions**
+ * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
 
 
 **CLIs**
- * [aih](https://github.com/databingo/aih) - You can communicate with AI models in the terminal using the following modes: Bard, GPT3.5, Claude2, Llama2, and Falcon180.
-
-
-**NLP**
- * [Selective_Context](https://github.com/liyucheng09/selective_context) - Compress your input to ChatGPT or other LLMs, to let them process 2x more content and save 40% memory and GPU time.
+ * [Sense](https://github.com/f0x1d/sense) - OpenAI client for Android with ChatGPT support
+ * [sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
+ * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - CLI to translate Markdown docs using ChatGPT API
 
 
 **Openai**
- * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - ChatGPT UI with auth, targeted towards business-ey usecases, written in Elixir + LiveView
+ * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI
 
 
 **Others**
- * [brain-reply](https://github.com/caidukai/brain-reply) - More elegant ChatGPT client
- * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Using the Laf cloud platform, ChatGPT can be integrated into WeChat official accounts in two steps.
+ * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 
 
-_Updated on October 17, 2023_ (A total of 1128 repositories listed.)
+_Updated on October 20, 2023_ (A total of 1135 repositories listed.)
 
 ## Table of contents
 
@@ -318,6 +315,7 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [kitt](https://github.com/livekit-examples/kitt) - Talk to ChatGPT in real time using LiveKit
  * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API.  Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖 
  * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - The Messenger Bot is integrated with ChatGPT.
+ * [Chatbase](https://github.com/anil-matcha/chatbase) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
 
 
 ## Browser-extensions
@@ -455,6 +453,7 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - An Eclipse plugin that integrates with ChatGPT
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
  * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the "Most Useful for the Enterprise" category.
+ * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
 
 
 ## CLIs
@@ -550,6 +549,9 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [cli](https://github.com/bashsenpai/cli) - BashSenpai is a terminal assistant powered by ChatGPT.
  * [unit-runtime](https://github.com/unit-mesh/unit-runtime) - Unit Runtime 是一个 ChatGPT 等 AI 代码的运行环境，可一键启动并实时交互，帮助您快速构建和测试 AI 代码。Unit Runtime is an efficient and user-friendly AI code execution environment that allows for one-click startup and real-time interaction, helping you quickly build and test AI code.
  * [aih](https://github.com/databingo/aih) - You can communicate with AI models in the terminal using the following modes: Bard, GPT3.5, Claude2, Llama2, and Falcon180.
+ * [Sense](https://github.com/f0x1d/sense) - OpenAI client for Android with ChatGPT support
+ * [sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
+ * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - CLI to translate Markdown docs using ChatGPT API
 
 
 ## Reimplementations
@@ -949,6 +951,7 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [chat](https://github.com/libli/chat) - ChatGPT API transparent proxy backend with user management functionality.
  * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - Input: chatgpt nodejs service, integrated with models such as ChatGLM, GPT3.5, GPT4, GPT networking, Bing, Claude, Baidu Wenxin Yiyuan, etc.Output:
  * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - ChatGPT UI with auth, targeted towards business-ey usecases, written in Elixir + LiveView
+ * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI
 
 
 ## Others
@@ -1244,5 +1247,6 @@ _Updated on October 17, 2023_ (A total of 1128 repositories listed.)
  * [talk](https://github.com/proxoar/talk) - Talking with ChatGPT is a breeze
  * [brain-reply](https://github.com/caidukai/brain-reply) - More elegant ChatGPT client
  * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Using the Laf cloud platform, ChatGPT can be integrated into WeChat official accounts in two steps.
+ * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
 
 

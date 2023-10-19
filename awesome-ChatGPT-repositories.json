@@ -5350,6 +5350,41 @@
                     "zh-hans": "Bot Messenger 集成了 ChatGPT。\nBot Messenger 集成了 ChatGPT。",
                     "zh-hant": "Bot Messenger 被整合了 ChatGPT。"
                 }
+            },
+            "https://github.com/anil-matcha/chatbase": {
+                "repository_name": "Chatbase",
+                "user_name": "Anil-matcha",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI",
+                "topics": [
+                    "chatbase",
+                    "chatbase-alternative",
+                    "chatbot",
+                    "chatgpt",
+                    "dante-ai",
+                    "dante-ai-alternative",
+                    "gpt",
+                    "gpt4",
+                    "langchain",
+                    "openai",
+                    "sitegpt",
+                    "sitegpt-alternative",
+                    "web-chatbot",
+                    "website-chatbot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI",
+                    "ja": "すべてのウェブサイトに対応するChatGPT。ウェブサイトのコンテンツを学習したパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案です。",
+                    "zh-hans": "适用于每个网站的ChatGPT。使用根据您的网站内容训练的个性化聊天机器人即时回答访客的问题。是Chatbase、SiteGPT和Dante AI的替代选择。",
+                    "zh-hant": "ChatGPT 適用於每個網站。使用根據您的網站內容訓練的個人化聊天機器人，即時回答您的訪客問題。Chatbase、SiteGPT、Dante AI 的替代方案。"
+                }
             }
         },
         "Browser-extensions": {
@@ -8197,6 +8232,33 @@
                     "zh-hans": "一个使用语义内核构建的ChatGPT插件，可以通过自然语言查询数据库。在微软首届语义内核黑客马拉松中获得“对企业最有用”类别的冠军。",
                     "zh-hant": "一個使用語義核心構建的ChatGPT插件，可以通過自然語言查詢數據庫。該插件在微軟首屆語義核心黑客松比賽中獲得了\"對企業最有用\"類別的冠軍。"
                 }
+            },
+            "https://github.com/targed/awesome-plugins": {
+                "repository_name": "Awesome-Plugins",
+                "user_name": "targed",
+                "language": "Markdown",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt",
+                    "open-assistant",
+                    "plugin",
+                    "plugins"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.",
+                    "ja": "Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。また、GPTアーキテクチャに対応した他の言語モデルにも対応しています。\nAwesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、および拡張機能の包括的なリストであり、GPTアーキテクチャと互換性のある他の言語モデルにも対応しているGitHubリポジトリです。",
+                    "zh-hans": "Awesome-Plugins是一个GitHub仓库，它作为一个综合列表，提供了适用于ChatGPT以及与GPT架构兼容的其他语言模型的插件、附加组件和扩展。",
+                    "zh-hant": "Awesome-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供支持，同時也支持與 GPT 架構兼容的其他語言模型。"
+                }
             }
         },
         "CLIs": {
@@ -10171,6 +10233,85 @@
                     "ja": "ターミナルでAIモードと話す。Bard|GPT3.5|Claude2|Llama2|Falcon180",
                     "zh-hans": "在终端中与AI模式进行对话。Bard|GPT3.5|Claude2|Llama2|Falcon180",
                     "zh-hant": "在終端機中與AI模式對話。Bard|GPT3.5|Claude2|Llama2|Falcon180"
+                }
+            },
+            "https://github.com/f0x1d/sense": {
+                "repository_name": "Sense",
+                "user_name": "F0x1d",
+                "language": "Kotlin",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "OpenAI client for Android with ChatGPT support",
+                "topics": [
+                    "chatgpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI client for Android with ChatGPT support",
+                    "ja": "Android対応のOpenAIクライアントで、ChatGPTをサポートしています。",
+                    "zh-hans": "支持ChatGPT的Android版OpenAI客户端",
+                    "zh-hant": "開放AI Android客戶端，支援ChatGPT功能"
+                }
+            },
+            "https://github.com/soulteary/sparrow": {
+                "repository_name": "sparrow",
+                "user_name": "soulteary",
+                "language": "Go",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "ChatGPT Style client-compatible Backend Server, open source implementation.",
+                "topics": [
+                    "chat-application",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-backend",
+                    "chatgpt-plugin",
+                    "chatgpt-plugins",
+                    "flagstudio",
+                    "midjourney",
+                    "midjourney-api-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Style client-compatible Backend Server, open source implementation.",
+                    "ja": "ChatGPTスタイルのクライアント互換のバックエンドサーバー、オープンソースの実装。",
+                    "zh-hans": "ChatGPT风格的客户端兼容后端服务器，开源实现。",
+                    "zh-hant": "ChatGPT風格的客戶端相容的後端伺服器，開源實現。"
+                }
+            },
+            "https://github.com/smikitky/chatgpt-md-translator": {
+                "repository_name": "chatgpt-md-translator",
+                "user_name": "smikitky",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "CLI to translate Markdown docs using ChatGPT API",
+                "topics": [
+                    "chatgpt",
+                    "markdown",
+                    "translator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "CLI to translate Markdown docs using ChatGPT API",
+                    "ja": "ChatGPT APIを使用してMarkdownドキュメントを翻訳するためのCLI",
+                    "zh-hans": "使用ChatGPT API将Markdown文档翻译为CLI",
+                    "zh-hant": "使用ChatGPT API翻譯Markdown文件的CLI"
                 }
             }
         },
@@ -17847,6 +17988,45 @@
                     "zh-hans": "ChatGPT UI带有身份验证，针对商业用例，使用Elixir + LiveView编写的界面。",
                     "zh-hant": "使用Elixir + LiveView編寫的ChatGPT UI，帶有身份驗證，針對商業用途的使用案例。\nChatGPT UI具有身份驗證，針對商業用途，使用Elixir + LiveView編寫。"
                 }
+            },
+            "https://github.com/horizon-ui/chatgpt-ai-template": {
+                "repository_name": "chatgpt-ai-template",
+                "user_name": "horizon-ui",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🧠 Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI",
+                "topics": [
+                    "admin-dashboard",
+                    "chakra-ui",
+                    "chat-application",
+                    "chat-gpt",
+                    "chatgpt",
+                    "chatgpt-admin",
+                    "chatgpt-admin-template",
+                    "chatgpt-starter-kit",
+                    "chatgpt-template",
+                    "chatgpt3",
+                    "nextjs",
+                    "openai",
+                    "openai-template",
+                    "react",
+                    "react-admin-panel",
+                    "react-admin-template",
+                    "starter-kit",
+                    "starter-template"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🧠 Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI",
+                    "ja": "🧠 Horizon AI テンプレート - 最新のオープンソース ChatGPT UI AI テンプレート＆React、NextJS、Chakra UI のスターターキット",
+                    "zh-hans": "🧠 Horizon AI模板 - 最时尚的开源ChatGPT UI AI模板和React、NextJS、Chakra UI的入门套件",
+                    "zh-hant": "🧠 Horizon AI 模板 - 最時尚的開源 ChatGPT UI AI 模板和 React、NextJS 及 Chakra UI 的入門套件"
+                }
             }
         },
         "Others": {
@@ -23198,6 +23378,32 @@
                     "ja": "Lafクラウドプラットフォームを使用して、2つのステップでChatGPTをWeChat公式アカウントに接続します。",
                     "zh-hans": "使用Laf云平台，只需两步即可将ChatGPT接入微信公众号。",
                     "zh-hant": "使用Laf雲平台，兩步將ChatGPT接入微信公眾號"
+                }
+            },
+            "https://github.com/purton-tech/bionicgpt": {
+                "repository_name": "bionicgpt",
+                "user_name": "purton-tech",
+                "language": "Rust",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",
+                "topics": [
+                    "architecture",
+                    "full-stack",
+                    "llmops",
+                    "llms",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",
+                    "ja": "BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。",
+                    "zh-hans": "BionicGPT是ChatGPT的本地替代品，具有生成式人工智能的优势，同时保持严格的数据保密性。",
+                    "zh-hant": "BionicGPT 是 ChatGPT 的本地替代方案，提供了生成式人工智能的优势，同时保持严格的数据保密性。"
                 }
             }
         }
