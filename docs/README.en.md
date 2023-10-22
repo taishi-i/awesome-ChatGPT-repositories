@@ -16,29 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Chatbase](https://github.com/anil-matcha/chatbase) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
-
-
 **Browser-extensions**
- * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
+ * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 Would you like to use GPT4 with Plugins but don't want to pay $20/month? This is the solution!  With this repository you can have free clone of ChatGPT with plugin 
 
 
-**CLIs**
- * [Sense](https://github.com/f0x1d/sense) - OpenAI client for Android with ChatGPT support
- * [sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
- * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - CLI to translate Markdown docs using ChatGPT API
-
-
-**Openai**
- * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI
+**NLP**
+ * [GPT-RAG](https://github.com/azure/gpt-rag) - Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
+ * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) -  Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
 
 
 **Others**
- * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+ * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - Input: ChatGPT-Next-Web access management background, including: key management, user authentication, public account registration/QR code login, payment management, card management, etc.
+Output: ChatGPT-Next-Web access management backend, including: key management, user authentication, public account registration/QR code login, payment management, card management, etc.
 
 
-_Updated on October 20, 2023_ (A total of 1135 repositories listed.)
+_Updated on October 23, 2023_ (A total of 1139 repositories listed.)
 
 ## Table of contents
 
@@ -454,6 +446,7 @@ _Updated on October 20, 2023_ (A total of 1135 repositories listed.)
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
  * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the "Most Useful for the Enterprise" category.
  * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
+ * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 Would you like to use GPT4 with Plugins but don't want to pay $20/month? This is the solution!  With this repository you can have free clone of ChatGPT with plugin 
 
 
 ## CLIs
@@ -754,6 +747,8 @@ _Updated on October 20, 2023_ (A total of 1135 repositories listed.)
  * [chie](https://github.com/chieapp/chie) - An extensive desktop app for ChatGPT and other LLMs.
  * [chatnio](https://github.com/zmh-program/chatnio) - 📚 document of Zh-Website project (using vitepress)
  * [Selective_Context](https://github.com/liyucheng09/selective_context) - Compress your input to ChatGPT or other LLMs, to let them process 2x more content and save 40% memory and GPU time.
+ * [GPT-RAG](https://github.com/azure/gpt-rag) - Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
+ * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) -  Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
 
 
 ## Langchain
@@ -1248,5 +1243,7 @@ _Updated on October 20, 2023_ (A total of 1135 repositories listed.)
  * [brain-reply](https://github.com/caidukai/brain-reply) - More elegant ChatGPT client
  * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Using the Laf cloud platform, ChatGPT can be integrated into WeChat official accounts in two steps.
  * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+ * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - Input: ChatGPT-Next-Web access management background, including: key management, user authentication, public account registration/QR code login, payment management, card management, etc.
+Output: ChatGPT-Next-Web access management backend, including: key management, user authentication, public account registration/QR code login, payment management, card management, etc.
 
 

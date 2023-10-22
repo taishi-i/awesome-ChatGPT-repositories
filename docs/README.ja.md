@@ -15,30 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Chatbase](https://github.com/anil-matcha/chatbase) - すべてのウェブサイトに対応するChatGPT。ウェブサイトのコンテンツを学習したパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案です。
-
-
 **Browser-extensions**
- * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。また、GPTアーキテクチャに対応した他の言語モデルにも対応しています。
-Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、および拡張機能の包括的なリストであり、GPTアーキテクチャと互換性のある他の言語モデルにも対応しているGitHubリポジトリです。
+ * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 GPT4とプラグインを使用したいですかが、月額$20を支払いたくありませんか？ これが解決策です！ このリポジトリを使用すると、プラグイン付きの無料のChatGPTのクローンを利用できます。
 
 
-**CLIs**
- * [Sense](https://github.com/f0x1d/sense) - Android対応のOpenAIクライアントで、ChatGPTをサポートしています。
- * [sparrow](https://github.com/soulteary/sparrow) - ChatGPTスタイルのクライアント互換のバックエンドサーバー、オープンソースの実装。
- * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - ChatGPT APIを使用してMarkdownドキュメントを翻訳するためのCLI
-
-
-**Openai**
- * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI テンプレート - 最新のオープンソース ChatGPT UI AI テンプレート＆React、NextJS、Chakra UI のスターターキット
+**NLP**
+ * [GPT-RAG](https://github.com/azure/gpt-rag) - 私たちが集めてきた学習を共有し、Azure OpenAIを安全にスケールするための方法を提供します。GPT-RAGコアは、Azureで実行される検索増強生成パターンであり、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。
+ * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 文書からChatGLM2やChatGPTのようなLLMを使用して対話データを生成します。
 
 
 **Others**
- * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
+ * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Webの管理コンソール。キーの管理、ユーザー認証、公式アカウントの登録/QRコードログイン、支払い管理、ギフトカードの管理などが含まれています。
 
 
-_Updated on October 20, 2023_ (A total of 1135 repositories listed.)
+_Updated on October 23, 2023_ (A total of 1139 repositories listed.)
 
 ## Table of contents
 
@@ -453,8 +443,8 @@ _Updated on October 20, 2023_ (A total of 1135 repositories listed.)
  * [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - ChatGPTと統合されたEclipseのプラグイン
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - ブラウザのユーザースクリプトで、ChatGPTに自動的にDANメッセージを送信する。
  * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 自然言語でデータベースにクエリを送信するSemantic Kernelを使用したChatGPTプラグイン。Microsoftの最初のSemantic Kernelハッカソンで、「企業にとって最も有用」というカテゴリーで優勝しました。
- * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。また、GPTアーキテクチャに対応した他の言語モデルにも対応しています。
-Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、および拡張機能の包括的なリストであり、GPTアーキテクチャと互換性のある他の言語モデルにも対応しているGitHubリポジトリです。
+ * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。また、GPTアーキテクチャに対応した他の言語モデルにも対応しています。Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、および拡張機能の包括的なリストであり、GPTアーキテクチャと互換性のある他の言語モデルにも対応しているGitHubリポジトリです。
+ * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 GPT4とプラグインを使用したいですかが、月額$20を支払いたくありませんか？ これが解決策です！ このリポジトリを使用すると、プラグイン付きの無料のChatGPTのクローンを利用できます。
 
 
 ## CLIs
@@ -755,6 +745,8 @@ Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、お�
  * [chie](https://github.com/chieapp/chie) - ChatGPTや他のLLM向けの広範なデスクトップアプリ。
  * [chatnio](https://github.com/zmh-program/chatnio) - 📚 Zh-Websiteプロジェクトのドキュメント（vitepressを使用）
  * [Selective_Context](https://github.com/liyucheng09/selective_context) - ChatGPTや他のLLMに入力を圧縮して、2倍のコンテンツを処理し、メモリとGPUの時間を40％節約します。
+ * [GPT-RAG](https://github.com/azure/gpt-rag) - 私たちが集めてきた学習を共有し、Azure OpenAIを安全にスケールするための方法を提供します。GPT-RAGコアは、Azureで実行される検索増強生成パターンであり、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。
+ * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 文書からChatGLM2やChatGPTのようなLLMを使用して対話データを生成します。
 
 
 ## Langchain
@@ -1249,5 +1241,6 @@ Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、お�
  * [brain-reply](https://github.com/caidukai/brain-reply) - より優雅なChatGPTクライアント
  * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Lafクラウドプラットフォームを使用して、2つのステップでChatGPTをWeChat公式アカウントに接続します。
  * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
+ * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Webの管理コンソール。キーの管理、ユーザー認証、公式アカウントの登録/QRコードログイン、支払い管理、ギフトカードの管理などが含まれています。
 
 

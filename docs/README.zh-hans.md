@@ -15,29 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Chatbase](https://github.com/anil-matcha/chatbase) - 通过对网站内容进行培训的个性化聊天机器人即时回答访问者的问题.
-
-
 **Browser-extensions**
- * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - 超级插件是一个 GitHub 存储库,它提供了 ChatGPT 的插件,附加组件和扩展程序的完整列表,以及与 GPT 架构兼容的其他语言模型.
+ * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗你想使用GPT4的插件,但不想付20美元/月吗?这是解决方案!
 
 
-**CLIs**
- * [Sense](https://github.com/f0x1d/sense) - 支持ChatGPT的Android的OpenAI客户端
- * [sparrow](https://github.com/soulteary/sparrow) - 基于ChatGPT风格的客户端兼容后端服务器,开源实现.
- * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - 使用 ChatGPT API 翻译 Markdown 文档的 CLI
-
-
-**Openai**
- * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 视野AI模板 - 最流行的开源ChatGPT UIAI模板和启动工具包
+**NLP**
+ * [GPT-RAG](https://github.com/azure/gpt-rag) - 通过分享我们一直在收集的学习,以安全的方式实现Azure OpenAI规模化.GPT-RAG核心是一个在Azure运行的检索增强生成模式,使用Azure认知搜索检索和Azure OpenAI大语言模型来支持ChatGPT式和问答体验.
+ * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 从使用LLM的文档生成对话数据,如ChatGLM2或ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
 
 
 **Others**
- * [bionicgpt](https://github.com/purton-tech/bionicgpt) - 生物GPT是ChatGPT的本地替代品,提供生成AI的优势,同时保持严格的数据保密性
+ * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - 接入管理后台,包括:钥匙管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等
 
 
-_Updated on October 20, 2023_ (A total of 1135 repositories listed.)
+_Updated on October 23, 2023_ (A total of 1139 repositories listed.)
 
 ## Table of contents
 
@@ -453,6 +444,7 @@ _Updated on October 20, 2023_ (A total of 1135 repositories listed.)
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - 浏览器用户脚本，自动将DAN消息发送到ChatGPT。
  * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 一个使用语义内核构建的ChatGPT插件，可以通过自然语言查询数据库。在微软首届语义内核黑客马拉松中获得“对企业最有用”类别的冠军。
  * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins是一个GitHub仓库，它作为一个综合列表，提供了适用于ChatGPT以及与GPT架构兼容的其他语言模型的插件、附加组件和扩展。
+ * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 您想使用带有插件的GPT4，但又不想支付每月20美元吗？这就是解决方案！通过这个存储库，您可以免费获得ChatGPT的克隆版本。
 
 
 ## CLIs
@@ -753,6 +745,8 @@ _Updated on October 20, 2023_ (A total of 1135 repositories listed.)
  * [chie](https://github.com/chieapp/chie) - 一个功能强大的桌面应用程序，用于ChatGPT和其他LLM。
  * [chatnio](https://github.com/zmh-program/chatnio) - 📚 中文网站项目的文档（使用 vitepress）
  * [Selective_Context](https://github.com/liyucheng09/selective_context) - 将您的输入压缩到ChatGPT或其他LLMs中，让它们能够处理多2倍的内容，并节省40%的内存和GPU时间。
+ * [GPT-RAG](https://github.com/azure/gpt-rag) - 在我们一路上积累的学习中，以安全的方式实现Azure OpenAI的规模化。GPT-RAG核心是在Azure上运行的检索增强生成模式，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。
+ * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 利用ChatGLM2、ChatGPT等大模型从文档中生成对话数据。
 
 
 ## Langchain
@@ -1247,5 +1241,7 @@ _Updated on October 20, 2023_ (A total of 1135 repositories listed.)
  * [brain-reply](https://github.com/caidukai/brain-reply) - 更优雅的ChatGPT客户端
  * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - 使用Laf云平台，只需两步即可将ChatGPT接入微信公众号。
  * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT是ChatGPT的本地替代品，具有生成式人工智能的优势，同时保持严格的数据保密性。
+ * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等
+ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等
 
 
