@@ -8259,6 +8259,45 @@
                     "zh-hans": "Awesome-Plugins是一个GitHub仓库，它作为一个综合列表，提供了适用于ChatGPT以及与GPT架构兼容的其他语言模型的插件、附加组件和扩展。",
                     "zh-hant": "Awesome-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供支持，同時也支持與 GPT 架構兼容的其他語言模型。"
                 }
+            },
+            "https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin": {
+                "repository_name": "Free-personal-AI-Assistant-with-plugin",
+                "user_name": "IntelligenzaArtificiale",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "🤗 Would you like to use GPT4 with Plugins but don't want to pay $20/month? This is the solution!  With this repository you can have free clone of ChatGPT with plugin ",
+                "topics": [
+                    "autogpt",
+                    "chatbot-engine",
+                    "chatbot-platform",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-bot",
+                    "chatgpt-free",
+                    "chatgpt-plugins",
+                    "free-chatgpt",
+                    "free-gpt4",
+                    "gpt-3",
+                    "gpt-4",
+                    "hugchat",
+                    "hugging-chat",
+                    "huggingface",
+                    "langchain",
+                    "langchain-python",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤗 Would you like to use GPT4 with Plugins but don't want to pay $20/month? This is the solution!  With this repository you can have free clone of ChatGPT with plugin ",
+                    "ja": "🤗 GPT4とプラグインを使用したいですかが、月額$20を支払いたくありませんか？ これが解決策です！ このリポジトリを使用すると、プラグイン付きの無料のChatGPTのクローンを利用できます。",
+                    "zh-hans": "🤗 您想使用带有插件的GPT4，但又不想支付每月20美元吗？这就是解决方案！通过这个存储库，您可以免费获得ChatGPT的克隆版本。",
+                    "zh-hant": "🤗 您想使用帶有插件的GPT4，但不想支付每月20美元嗎？這就是解決方案！通過這個存儲庫，您可以免費獲得ChatGPT的克隆版本。"
+                }
             }
         },
         "CLIs": {
@@ -14103,6 +14142,45 @@
                     "ja": "ChatGPTや他のLLMに入力を圧縮して、2倍のコンテンツを処理し、メモリとGPUの時間を40％節約します。",
                     "zh-hans": "将您的输入压缩到ChatGPT或其他LLMs中，让它们能够处理多2倍的内容，并节省40%的内存和GPU时间。",
                     "zh-hant": "將您的輸入壓縮到ChatGPT或其他LLMs，讓它們能夠處理2倍的內容並節省40％的記憶體和GPU時間。\n將您的輸入壓縮到ChatGPT或其他LLMs，讓它們能夠處理2倍的內容並節省40％的記憶體和GPU時間。"
+                }
+            },
+            "https://github.com/azure/gpt-rag": {
+                "repository_name": "GPT-RAG",
+                "user_name": "Azure",
+                "language": "Bicep",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+                "topics": [
+                    "azure",
+                    "gpt-3",
+                    "gpt-4",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+                    "ja": "私たちが集めてきた学習を共有し、Azure OpenAIを安全にスケールするための方法を提供します。GPT-RAGコアは、Azureで実行される検索増強生成パターンであり、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。",
+                    "zh-hans": "在我们一路上积累的学习中，以安全的方式实现Azure OpenAI的规模化。GPT-RAG核心是在Azure上运行的检索增强生成模式，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+                    "zh-hant": "在我們一路上所收集的資料中分享學習，以安全的方式實現大規模的Azure OpenAI。GPT-RAG核心是在Azure上運行的檢索增強生成模式，使用Azure認知搜索進行檢索，並使用Azure OpenAI大型語言模型來提供ChatGPT風格和問答體驗。"
+                }
+            },
+            "https://github.com/threecolorfr/llmfordialogdatagenerate": {
+                "repository_name": "LLMforDialogDataGenerate",
+                "user_name": "threeColorFr",
+                "language": "Python",
+                "license": null,
+                "description": " Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": " Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集",
+                    "ja": "文書からChatGLM2やChatGPTのようなLLMを使用して対話データを生成します。",
+                    "zh-hans": "利用ChatGLM2、ChatGPT等大模型从文档中生成对话数据。",
+                    "zh-hant": "利用ChatGLM2、ChatGPT等大型模型從文件中生成對話數據。"
                 }
             }
         },
@@ -23404,6 +23482,26 @@
                     "ja": "BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。",
                     "zh-hans": "BionicGPT是ChatGPT的本地替代品，具有生成式人工智能的优势，同时保持严格的数据保密性。",
                     "zh-hant": "BionicGPT 是 ChatGPT 的本地替代方案，提供了生成式人工智能的优势，同时保持严格的数据保密性。"
+                }
+            },
+            "https://github.com/llboo/chatgpt-next-web-pro": {
+                "repository_name": "ChatGPT-Next-Web-PRO",
+                "user_name": "llboo",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGPT-Next-Web access management background, including: key management, user authentication, public account registration/QR code login, payment management, card management, etc.\nOutput: ChatGPT-Next-Web access management backend, including: key management, user authentication, public account registration/QR code login, payment management, card management, etc.",
+                    "ja": "ChatGPT-Next-Webの管理コンソール。キーの管理、ユーザー認証、公式アカウントの登録/QRコードログイン、支払い管理、ギフトカードの管理などが含まれています。",
+                    "zh-hans": "ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等\nChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等",
+                    "zh-hant": "ChatGPT-Next-Web 接入管理後台，包括：key管理、使用者驗證、公眾號註冊/掃碼登錄、支付管理、卡密管理等"
                 }
             }
         }
