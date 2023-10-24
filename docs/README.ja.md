@@ -15,20 +15,25 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 GPT4とプラグインを使用したいですかが、月額$20を支払いたくありませんか？ これが解決策です！ このリポジトリを使用すると、プラグイン付きの無料のChatGPTのクローンを利用できます。
+**Chatbots**
+ * [plotai](https://github.com/mljar/plotai) - プロットAI - あなたの究極のプロット補助！📊🤖 ChatGPT-3.5を使用して、PythonとMatplotlibで直接プロットを作成するためのPythonスクリプトやノートブックを使用してください。
 
 
 **NLP**
- * [GPT-RAG](https://github.com/azure/gpt-rag) - 私たちが集めてきた学習を共有し、Azure OpenAIを安全にスケールするための方法を提供します。GPT-RAGコアは、Azureで実行される検索増強生成パターンであり、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。
- * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 文書からChatGLM2やChatGPTのようなLLMを使用して対話データを生成します。
+ * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - ChatGPTを使用して、Markdownファイルを複数の言語に自動翻訳します。
+ * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - Azureで実行されるRAGパターンのためのソリューションアクセラレーターで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。これには、最も一般的な要件とベストプラクティスが含まれています。
+
+
+**Openai**
+ * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - JSONファイルからChatGPTのデータエクスポート全体を簡単に抽出し、整形されたマークダウンファイルに変換するスクリプト。
 
 
 **Others**
- * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Webの管理コンソール。キーの管理、ユーザー認証、公式アカウントの登録/QRコードログイン、支払い管理、ギフトカードの管理などが含まれています。
+ * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 🚀🧠💬 ChatGPT（非コーディング）およびChatGPTアドバンスドデータ分析（コーディング）のためのスーパーチャージカスタムインストラクション。
+ * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web アプリケーション、多ユーザー、ログイン不要。会社、組織、または小規模グループ内での内部利用に適しています。
 
 
-_Updated on October 23, 2023_ (A total of 1139 repositories listed.)
+_Updated on October 25, 2023_ (A total of 1145 repositories listed.)
 
 ## Table of contents
 
@@ -306,6 +311,7 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用したAndroidチャットボット。ChatGPT APIからのストリームレスポンスを許可します。Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖
  * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - ボットメッセンジャーはChatGPTが統合されています。
  * [Chatbase](https://github.com/anil-matcha/chatbase) - すべてのウェブサイトに対応するChatGPT。ウェブサイトのコンテンツを学習したパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案です。
+ * [plotai](https://github.com/mljar/plotai) - プロットAI - あなたの究極のプロット補助！📊🤖 ChatGPT-3.5を使用して、PythonとMatplotlibで直接プロットを作成するためのPythonスクリプトやノートブックを使用してください。
 
 
 ## Browser-extensions
@@ -747,6 +753,8 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [Selective_Context](https://github.com/liyucheng09/selective_context) - ChatGPTや他のLLMに入力を圧縮して、2倍のコンテンツを処理し、メモリとGPUの時間を40％節約します。
  * [GPT-RAG](https://github.com/azure/gpt-rag) - 私たちが集めてきた学習を共有し、Azure OpenAIを安全にスケールするための方法を提供します。GPT-RAGコアは、Azureで実行される検索増強生成パターンであり、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。
  * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 文書からChatGLM2やChatGPTのようなLLMを使用して対話データを生成します。
+ * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - ChatGPTを使用して、Markdownファイルを複数の言語に自動翻訳します。
+ * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - Azureで実行されるRAGパターンのためのソリューションアクセラレーターで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。これには、最も一般的な要件とベストプラクティスが含まれています。
 
 
 ## Langchain
@@ -945,6 +953,7 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejsサービスは、ChatGLM、GPT3.5、GPT4、GPTネットワーキング、Bing、Claude、Baidu Wenxin Yiyuなどのモデルを統合しています。
  * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - Elixir + LiveViewで書かれた、ビジネス向けの認証付きChatGPT UI
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI テンプレート - 最新のオープンソース ChatGPT UI AI テンプレート＆React、NextJS、Chakra UI のスターターキット
+ * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - JSONファイルからChatGPTのデータエクスポート全体を簡単に抽出し、整形されたマークダウンファイルに変換するスクリプト。
 
 
 ## Others
@@ -1242,5 +1251,7 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - Lafクラウドプラットフォームを使用して、2つのステップでChatGPTをWeChat公式アカウントに接続します。
  * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
  * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Webの管理コンソール。キーの管理、ユーザー認証、公式アカウントの登録/QRコードログイン、支払い管理、ギフトカードの管理などが含まれています。
+ * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 🚀🧠💬 ChatGPT（非コーディング）およびChatGPTアドバンスドデータ分析（コーディング）のためのスーパーチャージカスタムインストラクション。
+ * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web アプリケーション、多ユーザー、ログイン不要。会社、組織、または小規模グループ内での内部利用に適しています。
 
 
