@@ -16,20 +16,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 Would you like to use GPT4 with Plugins but don't want to pay $20/month? This is the solution!  With this repository you can have free clone of ChatGPT with plugin 
+**Chatbots**
+ * [plotai](https://github.com/mljar/plotai) - PlotAI - Your Ultimate Plotting Assistant! 📊🤖 Use ChatGPT-3.5 to create plots in Python and Matplotlib directly in your Python script or notebook. 
 
 
 **NLP**
- * [GPT-RAG](https://github.com/azure/gpt-rag) - Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
- * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) -  Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
+ * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
+ * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.
+
+
+**Openai**
+ * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 
 
 **Others**
- * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等
+ * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). 
+ * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。Team version of ChatGPT web application- multi-user and no log-in required. Suitable for internal use in companies, organizations or small groups.
 
 
-_Updated on October 23, 2023_ (A total of 1139 repositories listed.)
+_Updated on October 25, 2023_ (A total of 1145 repositories listed.)
 
 ## Table of contents
 
@@ -307,6 +312,7 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:Compose ChatGPT Kotlin - Android Chatbot using Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI's GPT-3 API. Allow stream response from ChatGPT API.  Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖
  * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - Bot Messenger được tích hợp ChatGPT.
  * [Chatbase](https://github.com/anil-matcha/chatbase) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
+ * [plotai](https://github.com/mljar/plotai) - PlotAI - Your Ultimate Plotting Assistant! 📊🤖 Use ChatGPT-3.5 to create plots in Python and Matplotlib directly in your Python script or notebook. 
 
 
 ## Browser-extensions
@@ -445,7 +451,7 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
  * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - A ChatGPT plugin built with Semantic Kernel that queries a database via natural language. Winner of Microsoft's first Semantic Kernel hackathon in the "Most Useful for the Enterprise" category.
  * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
- * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 Would you like to use GPT4 with Plugins but don't want to pay $20/month? This is the solution!  With this repository you can have free clone of ChatGPT with plugin 
+ * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 Would you like to use GPT4 with Plugins but don't want to pay $20/month? This is the solution!  With this repository you can have free clone of ChatGPT with plugin
 
 
 ## CLIs
@@ -748,6 +754,8 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [Selective_Context](https://github.com/liyucheng09/selective_context) - Compress your input to ChatGPT or other LLMs, to let them process 2x more content and save 40% memory and GPU time.
  * [GPT-RAG](https://github.com/azure/gpt-rag) - Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
  * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) -  Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
+ * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
+ * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.
 
 
 ## Langchain
@@ -946,6 +954,7 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) -  chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型
  * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - ChatGPT UI with auth, targeted towards business-ey usecases, written in Elixir + LiveView
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI
+ * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 
 
 ## Others
@@ -1243,5 +1252,7 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - 使用Laf云平台，两步将ChatGPT接入微信公众号
  * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
  * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等
+ * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). 
+ * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。Team version of ChatGPT web application- multi-user and no log-in required. Suitable for internal use in companies, organizations or small groups.
 
 

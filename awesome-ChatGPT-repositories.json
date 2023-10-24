@@ -5385,6 +5385,35 @@
                     "zh-hans": "适用于每个网站的ChatGPT。使用根据您的网站内容训练的个性化聊天机器人即时回答访客的问题。是Chatbase、SiteGPT和Dante AI的替代选择。",
                     "zh-hant": "ChatGPT 適用於每個網站。使用根據您的網站內容訓練的個人化聊天機器人，即時回答您的訪客問題。Chatbase、SiteGPT、Dante AI 的替代方案。"
                 }
+            },
+            "https://github.com/mljar/plotai": {
+                "repository_name": "plotai",
+                "user_name": "mljar",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "PlotAI - Your Ultimate Plotting Assistant! 📊🤖 Use ChatGPT-3.5 to create plots in Python and Matplotlib directly in your Python script or notebook. ",
+                "topics": [
+                    "charts",
+                    "chatgpt",
+                    "data-science",
+                    "llm",
+                    "matplotlib",
+                    "plots",
+                    "python",
+                    "visualization"
+                ],
+                "multilingual_descriptions": {
+                    "en": "PlotAI - Your Ultimate Plotting Assistant! 📊🤖 Use ChatGPT-3.5 to create plots in Python and Matplotlib directly in your Python script or notebook. ",
+                    "ja": "プロットAI - あなたの究極のプロット補助！📊🤖 ChatGPT-3.5を使用して、PythonとMatplotlibで直接プロットを作成するためのPythonスクリプトやノートブックを使用してください。",
+                    "zh-hans": "PlotAI - 你的终极绘图助手！📊🤖 使用ChatGPT-3.5在Python和Matplotlib中直接创建绘图，无论是在Python脚本还是笔记本中。",
+                    "zh-hant": "PlotAI - 您的終極繪圖助手！📊🤖 使用ChatGPT-3.5在Python和Matplotlib中直接創建圖表，可在您的Python腳本或筆記本中使用。"
+                }
             }
         },
         "Browser-extensions": {
@@ -14182,6 +14211,52 @@
                     "zh-hans": "利用ChatGLM2、ChatGPT等大模型从文档中生成对话数据。",
                     "zh-hant": "利用ChatGLM2、ChatGPT等大型模型從文件中生成對話數據。"
                 }
+            },
+            "https://github.com/linyuxuanlin/auto-i18n": {
+                "repository_name": "Auto-i18n",
+                "user_name": "linyuxuanlin",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT",
+                "topics": [
+                    "blog",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "python",
+                    "website"
+                ],
+                "multilingual_descriptions": {
+                    "en": "使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT",
+                    "ja": "ChatGPTを使用して、Markdownファイルを複数の言語に自動翻訳します。",
+                    "zh-hans": "使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言",
+                    "zh-hant": "使用 ChatGPT 自動將 Markdown 文件批量翻譯為多語言 | Auto translate Markdown 文件 to 多語言 using ChatGPT"
+                }
+            },
+            "https://github.com/azure-samples/chat-with-your-data-solution-accelerator": {
+                "repository_name": "chat-with-your-data-solution-accelerator",
+                "user_name": "Azure-Samples",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.",
+                    "ja": "Azureで実行されるRAGパターンのためのソリューションアクセラレーターで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。これには、最も一般的な要件とベストプラクティスが含まれています。",
+                    "zh-hans": "一个在Azure上运行的RAG模式的解决方案加速器，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的需求和最佳实践。",
+                    "zh-hant": "一個在Azure上運行的RAG模式解決方案加速器，使用Azure認知搜索進行檢索，並使用Azure OpenAI大型語言模型來提供ChatGPT風格和問答體驗。這包括最常見的需求和最佳實踐。"
+                }
             }
         },
         "Langchain": {
@@ -18104,6 +18179,40 @@
                     "ja": "🧠 Horizon AI テンプレート - 最新のオープンソース ChatGPT UI AI テンプレート＆React、NextJS、Chakra UI のスターターキット",
                     "zh-hans": "🧠 Horizon AI模板 - 最时尚的开源ChatGPT UI AI模板和React、NextJS、Chakra UI的入门套件",
                     "zh-hant": "🧠 Horizon AI 模板 - 最時尚的開源 ChatGPT UI AI 模板和 React、NextJS 及 Chakra UI 的入門套件"
+                }
+            },
+            "https://github.com/mohamed-chs/chatgpt-history-export-to-md": {
+                "repository_name": "chatgpt-history-export-to-md",
+                "user_name": "mohamed-chs",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.",
+                "topics": [
+                    "advanced-data-analysis",
+                    "bookmarklet",
+                    "chatgpt",
+                    "code-interpreter",
+                    "conversations",
+                    "export",
+                    "history",
+                    "json",
+                    "markdown",
+                    "obsidian-md",
+                    "openai",
+                    "python",
+                    "zip"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.",
+                    "ja": "JSONファイルからChatGPTのデータエクスポート全体を簡単に抽出し、整形されたマークダウンファイルに変換するスクリプト。",
+                    "zh-hans": "一个脚本，可以轻松地从JSON文件中提取您的整个ChatGPT数据导出，并将其转换为格式良好的markdown文件。",
+                    "zh-hant": "一個腳本，可以輕鬆從JSON文件中提取整個ChatGPT數據導出，並將其轉換為格式整齊的markdown文件。"
                 }
             }
         },
@@ -23502,6 +23611,45 @@
                     "ja": "ChatGPT-Next-Webの管理コンソール。キーの管理、ユーザー認証、公式アカウントの登録/QRコードログイン、支払い管理、ギフトカードの管理などが含まれています。",
                     "zh-hans": "ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等\nChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等",
                     "zh-hant": "ChatGPT-Next-Web 接入管理後台，包括：key管理、使用者驗證、公眾號註冊/掃碼登錄、支付管理、卡密管理等"
+                }
+            },
+            "https://github.com/spdustin/chatgpt-autoexpert": {
+                "repository_name": "ChatGPT-AutoExpert",
+                "user_name": "spdustin",
+                "language": "Python",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). ",
+                    "ja": "🚀🧠💬 ChatGPT（非コーディング）およびChatGPTアドバンスドデータ分析（コーディング）のためのスーパーチャージカスタムインストラクション。",
+                    "zh-hans": "🚀🧠💬 ChatGPT（非编程）和ChatGPT高级数据分析（编程）的超级定制指令。",
+                    "zh-hant": "🚀🧠💬 ChatGPT（非編碼）和ChatGPT高級數據分析（編碼）的超強定制指令。"
+                }
+            },
+            "https://github.com/panyanyany/muchat-aio": {
+                "repository_name": "muchat-aio",
+                "user_name": "panyanyany",
+                "language": "Shell",
+                "license": null,
+                "description": "团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。Team version of ChatGPT web application- multi-user and no log-in required. Suitable for internal use in companies, organizations or small groups.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-app",
+                    "chatgpt-multiple-users",
+                    "chatgpt-team"
+                ],
+                "multilingual_descriptions": {
+                    "en": "团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。Team version of ChatGPT web application- multi-user and no log-in required. Suitable for internal use in companies, organizations or small groups.",
+                    "ja": "团队版 ChatGPT Web アプリケーション、多ユーザー、ログイン不要。会社、組織、または小規模グループ内での内部利用に適しています。",
+                    "zh-hans": "团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。",
+                    "zh-hant": "團隊版 ChatGPT Web 應用，多使用者，免登錄。適合公司、組織或小團體內部使用。"
                 }
             }
         }

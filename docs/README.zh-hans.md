@@ -15,20 +15,25 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗你想使用GPT4的插件,但不想付20美元/月吗?这是解决方案!
+**Chatbots**
+ * [plotai](https://github.com/mljar/plotai) - 使用 ChatGPT-3.5 在 Python 和 Matplotlib 中直接在 Python 脚本或笔记本中创建图谱.
 
 
 **NLP**
- * [GPT-RAG](https://github.com/azure/gpt-rag) - 通过分享我们一直在收集的学习,以安全的方式实现Azure OpenAI规模化.GPT-RAG核心是一个在Azure运行的检索增强生成模式,使用Azure认知搜索检索和Azure OpenAI大语言模型来支持ChatGPT式和问答体验.
- * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 从使用LLM的文档生成对话数据,如ChatGLM2或ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
+ * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用ChatGPT自动将Markdown 文件批量翻译为多种语言.
+ * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - 在Azure中运行的RAG模式的解决方案加速器,使用Azure认知搜索检索和Azure OpenAI大语言模型来支持ChatGPT式和Q&A体验.其中包括最常见的要求和最佳实践.
+
+
+**Openai**
+ * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - 一个脚本可以轻松地从JSON文件中提取所有ChatGPT数据,
 
 
 **Others**
- * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - 接入管理后台,包括:钥匙管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等
+ * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 超级增强的自定义说明程序,用于ChatGPT (非编码) 和ChatGPT高级数据分析 (编码).
+ * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web 应用,多用户,免登录。适合公司、组织或小团体内部使用。ChatGPT Web 应用程序的团队版本-多用户,不需要登录.适用于公司,组织或小组的内部使用.
 
 
-_Updated on October 23, 2023_ (A total of 1139 repositories listed.)
+_Updated on October 25, 2023_ (A total of 1145 repositories listed.)
 
 ## Table of contents
 
@@ -306,6 +311,7 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - :lion:使用Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI的GPT-3 API，编写Android聊天机器人。允许从ChatGPT API获取流式响应。🤖
  * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - Bot Messenger 集成了 ChatGPT。Bot Messenger 集成了 ChatGPT。
  * [Chatbase](https://github.com/anil-matcha/chatbase) - 适用于每个网站的ChatGPT。使用根据您的网站内容训练的个性化聊天机器人即时回答访客的问题。是Chatbase、SiteGPT和Dante AI的替代选择。
+ * [plotai](https://github.com/mljar/plotai) - PlotAI - 你的终极绘图助手！📊🤖 使用ChatGPT-3.5在Python和Matplotlib中直接创建绘图，无论是在Python脚本还是笔记本中。
 
 
 ## Browser-extensions
@@ -747,6 +753,8 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [Selective_Context](https://github.com/liyucheng09/selective_context) - 将您的输入压缩到ChatGPT或其他LLMs中，让它们能够处理多2倍的内容，并节省40%的内存和GPU时间。
  * [GPT-RAG](https://github.com/azure/gpt-rag) - 在我们一路上积累的学习中，以安全的方式实现Azure OpenAI的规模化。GPT-RAG核心是在Azure上运行的检索增强生成模式，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。
  * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 利用ChatGLM2、ChatGPT等大模型从文档中生成对话数据。
+ * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言
+ * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - 一个在Azure上运行的RAG模式的解决方案加速器，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的需求和最佳实践。
 
 
 ## Langchain
@@ -945,6 +953,7 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型
  * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - ChatGPT UI带有身份验证，针对商业用例，使用Elixir + LiveView编写的界面。
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI模板 - 最时尚的开源ChatGPT UI AI模板和React、NextJS、Chakra UI的入门套件
+ * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - 一个脚本，可以轻松地从JSON文件中提取您的整个ChatGPT数据导出，并将其转换为格式良好的markdown文件。
 
 
 ## Others
@@ -1241,7 +1250,8 @@ _Updated on October 23, 2023_ (A total of 1139 repositories listed.)
  * [brain-reply](https://github.com/caidukai/brain-reply) - 更优雅的ChatGPT客户端
  * [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - 使用Laf云平台，只需两步即可将ChatGPT接入微信公众号。
  * [bionicgpt](https://github.com/purton-tech/bionicgpt) - BionicGPT是ChatGPT的本地替代品，具有生成式人工智能的优势，同时保持严格的数据保密性。
- * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等
-ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等
+ * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等ChatGPT-Next-Web 接入管理后台，包括：key管理、用户鉴权、公众号注册/扫码登录、支付管理、卡密管理等
+ * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 🚀🧠💬 ChatGPT（非编程）和ChatGPT高级数据分析（编程）的超级定制指令。
+ * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。
 
 
