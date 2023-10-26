@@ -15,25 +15,17 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [plotai](https://github.com/mljar/plotai) - プロットAI - あなたの究極のプロット補助！📊🤖 ChatGPT-3.5を使用して、PythonとMatplotlibで直接プロットを作成するためのPythonスクリプトやノートブックを使用してください。
-
-
-**NLP**
- * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - ChatGPTを使用して、Markdownファイルを複数の言語に自動翻訳します。
- * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - Azureで実行されるRAGパターンのためのソリューションアクセラレーターで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。これには、最も一般的な要件とベストプラクティスが含まれています。
-
-
-**Openai**
- * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - JSONファイルからChatGPTのデータエクスポート全体を簡単に抽出し、整形されたマークダウンファイルに変換するスクリプト。
+**Browser-extensions**
+ * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - Leanでの定理証明のためのChatGPTプラグイン
 
 
 **Others**
- * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 🚀🧠💬 ChatGPT（非コーディング）およびChatGPTアドバンスドデータ分析（コーディング）のためのスーパーチャージカスタムインストラクション。
- * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web アプリケーション、多ユーザー、ログイン不要。会社、組織、または小規模グループ内での内部利用に適しています。
+ * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - チャットGPTアプリケーションのためのGolangサービス
+ * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPTベースのredditプロファイル分析ツール。APIキーを持参してください。
+ * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
 
 
-_Updated on October 25, 2023_ (A total of 1145 repositories listed.)
+_Updated on October 27, 2023_ (A total of 1149 repositories listed.)
 
 ## Table of contents
 
@@ -451,6 +443,7 @@ _Updated on October 25, 2023_ (A total of 1145 repositories listed.)
  * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 自然言語でデータベースにクエリを送信するSemantic Kernelを使用したChatGPTプラグイン。Microsoftの最初のSemantic Kernelハッカソンで、「企業にとって最も有用」というカテゴリーで優勝しました。
  * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。また、GPTアーキテクチャに対応した他の言語モデルにも対応しています。Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、および拡張機能の包括的なリストであり、GPTアーキテクチャと互換性のある他の言語モデルにも対応しているGitHubリポジトリです。
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 GPT4とプラグインを使用したいですかが、月額$20を支払いたくありませんか？ これが解決策です！ このリポジトリを使用すると、プラグイン付きの無料のChatGPTのクローンを利用できます。
+ * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - Leanでの定理証明のためのChatGPTプラグイン
 
 
 ## CLIs
@@ -1253,5 +1246,8 @@ _Updated on October 25, 2023_ (A total of 1145 repositories listed.)
  * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Webの管理コンソール。キーの管理、ユーザー認証、公式アカウントの登録/QRコードログイン、支払い管理、ギフトカードの管理などが含まれています。
  * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 🚀🧠💬 ChatGPT（非コーディング）およびChatGPTアドバンスドデータ分析（コーディング）のためのスーパーチャージカスタムインストラクション。
  * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 团队版 ChatGPT Web アプリケーション、多ユーザー、ログイン不要。会社、組織、または小規模グループ内での内部利用に適しています。
+ * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - チャットGPTアプリケーションのためのGolangサービス
+ * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPTベースのredditプロファイル分析ツール。APIキーを持参してください。
+ * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
 
 
