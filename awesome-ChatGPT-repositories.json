@@ -8327,6 +8327,33 @@
                     "zh-hans": "🤗 您想使用带有插件的GPT4，但又不想支付每月20美元吗？这就是解决方案！通过这个存储库，您可以免费获得ChatGPT的克隆版本。",
                     "zh-hant": "🤗 您想使用帶有插件的GPT4，但不想支付每月20美元嗎？這就是解決方案！通過這個存儲庫，您可以免費獲得ChatGPT的克隆版本。"
                 }
+            },
+            "https://github.com/lean-dojo/leandojochatgpt": {
+                "repository_name": "LeanDojoChatGPT",
+                "user_name": "lean-dojo",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT plugin for theorem proving in Lean",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-plugin",
+                    "large-language-models",
+                    "lean",
+                    "machine-learning",
+                    "theorem"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT plugin for theorem proving in Lean",
+                    "ja": "Leanでの定理証明のためのChatGPTプラグイン",
+                    "zh-hans": "ChatGPT插件用于Lean中的定理证明。",
+                    "zh-hant": "ChatGPT 在 Lean 中的定理证明插件"
+                }
             }
         },
         "CLIs": {
@@ -23650,6 +23677,71 @@
                     "ja": "团队版 ChatGPT Web アプリケーション、多ユーザー、ログイン不要。会社、組織、または小規模グループ内での内部利用に適しています。",
                     "zh-hans": "团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。",
                     "zh-hant": "團隊版 ChatGPT Web 應用，多使用者，免登錄。適合公司、組織或小團體內部使用。"
+                }
+            },
+            "https://github.com/heimeropen/chatgpt-web-go": {
+                "repository_name": "chatgpt-web-go",
+                "user_name": "heimeropen",
+                "language": "Go",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A golang service for chatgpt application",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-app",
+                    "golang"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A golang service for chatgpt application",
+                    "ja": "チャットGPTアプリケーションのためのGolangサービス",
+                    "zh-hans": "一个用于ChatGPT应用的Golang服务",
+                    "zh-hant": "一個用於ChatGPT應用程序的Golang服務"
+                }
+            },
+            "https://github.com/grays42/reddit-profile-analyzer": {
+                "repository_name": "reddit-profile-analyzer",
+                "user_name": "grays42",
+                "language": "Python",
+                "license": null,
+                "description": "ChatGPT-based reddit profile analyzer. BYO api key",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT-based reddit profile analyzer. BYO api key",
+                    "ja": "ChatGPTベースのredditプロファイル分析ツール。APIキーを持参してください。",
+                    "zh-hans": "ChatGPT基于Reddit个人资料分析器。请自备API密钥。",
+                    "zh-hant": "ChatGPT基於Reddit個人資料分析器。請自備API金鑰。"
+                }
+            },
+            "https://github.com/bionic-gpt/bionic-gpt": {
+                "repository_name": "bionic-gpt",
+                "user_name": "bionic-gpt",
+                "language": "Rust",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",
+                "topics": [
+                    "architecture",
+                    "full-stack",
+                    "llmops",
+                    "llms",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",
+                    "ja": "BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。",
+                    "zh-hans": "BionicGPT是ChatGPT的本地替代品，具有生成式人工智能的优势，同时保持严格的数据保密性。",
+                    "zh-hant": "BionicGPT 是 ChatGPT 的本地替代方案，提供了生成式人工智能的优势，同时保持严格的数据保密性。"
                 }
             }
         }

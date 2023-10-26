@@ -15,25 +15,17 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [plotai](https://github.com/mljar/plotai) - 使用 ChatGPT-3.5 在Python和Matplotlib中直接在Python程式或筆記本中創建圖案.
-
-
-**NLP**
- * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用ChatGPT自動將Markdown 文件批量翻譯為多種語言.
- * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - 解決方案加速器為在 Azure 運行的 RAG 模式,使用 Azure 認知搜尋來搜尋和 Azure OpenAI 大語言模型來支持 ChatGPT 式的 Q&A 體驗.
-
-
-**Openai**
- * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - 這是一款可以輕鬆從JSON檔案中提取所有ChatGPT資料,
+**Browser-extensions**
+ * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - 顯示在的定理
 
 
 **Others**
- * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 超級增強的專用說明程式,
- * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 團隊版 ChatGPT Web 應用,多用戶,免登錄。適合公司、組織或小团体内部使用。ChatGPT 網頁應用程式的團隊版本-多用戶,不需要登入.適合公司,組織或小組內部使用.
+ * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - 該網站的目標是:
+ * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - 基于ChatGPT的reddit專頁分析器.
+ * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - 提供生成性人工智能的優勢, 但同時保持嚴格的資料保密性.
 
 
-_Updated on October 25, 2023_ (A total of 1145 repositories listed.)
+_Updated on October 27, 2023_ (A total of 1149 repositories listed.)
 
 ## Table of contents
 
@@ -451,6 +443,7 @@ _Updated on October 25, 2023_ (A total of 1145 repositories listed.)
  * [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - 一個使用語義核心構建的ChatGPT插件，可以通過自然語言查詢數據庫。該插件在微軟首屆語義核心黑客松比賽中獲得了"對企業最有用"類別的冠軍。
  * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供支持，同時也支持與 GPT 架構兼容的其他語言模型。
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 您想使用帶有插件的GPT4，但不想支付每月20美元嗎？這就是解決方案！通過這個存儲庫，您可以免費獲得ChatGPT的克隆版本。
+ * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - ChatGPT 在 Lean 中的定理证明插件
 
 
 ## CLIs
@@ -1253,5 +1246,8 @@ _Updated on October 25, 2023_ (A total of 1145 repositories listed.)
  * [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ChatGPT-Next-Web 接入管理後台，包括：key管理、使用者驗證、公眾號註冊/掃碼登錄、支付管理、卡密管理等
  * [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - 🚀🧠💬 ChatGPT（非編碼）和ChatGPT高級數據分析（編碼）的超強定制指令。
  * [muchat-aio](https://github.com/panyanyany/muchat-aio) - 團隊版 ChatGPT Web 應用，多使用者，免登錄。適合公司、組織或小團體內部使用。
+ * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - 一個用於ChatGPT應用程序的Golang服務
+ * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPT基於Reddit個人資料分析器。請自備API金鑰。
+ * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT 是 ChatGPT 的本地替代方案，提供了生成式人工智能的优势，同时保持严格的数据保密性。
 
 
