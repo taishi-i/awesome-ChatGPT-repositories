@@ -15,17 +15,29 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - 在精益中证明定理的ChatGPT插件
+**Chatbots**
+ * [TianMu](https://github.com/openjarvisai/tianmu) - 天木:一个现代人工智能工具,支持多平台,支持下调,多模式,连续对话,可定制命令. 一个APP支持文心一言、通义千问、LLaMa、ChatGPT等,开源的大模型客户端!
+ * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - 通过 ChatGPT 进行YouTube视频内容总结.
+
+
+**CLIs**
+ * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - 对于Ollama的ChatGPT式响应式聊天WebUI客户端 (GUI)
+
+
+**NLP**
+ * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - 使用 ChatGPT 总结您个性化的 RSS 源
+
+
+**Langchain**
+ * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - 实时误区检测使用OpenAI语和ChatGPT/LLaMA/Mistral
 
 
 **Others**
- * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - 一个Golang服务为chatgpt应用程序
- * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - 基于ChatGPT的reddit个人资料分析器.
- * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - 生物GPT是ChatGPT的本地替代品,提供生成AI的优势,同时保持严格的数据保密性
+ * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - 完全自动的令牌部署在ETH上,使用ChatGPT和DALL-E.
+ * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - 一个聊天的东西, 里克和莫蒂的角色,门户和有什雷克IDK.
 
 
-_Updated on October 27, 2023_ (A total of 1149 repositories listed.)
+_Updated on November 01, 2023_ (A total of 1156 repositories listed.)
 
 ## Table of contents
 
@@ -304,6 +316,8 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - Bot Messenger 集成了 ChatGPT。Bot Messenger 集成了 ChatGPT。
  * [Chatbase](https://github.com/anil-matcha/chatbase) - 适用于每个网站的ChatGPT。使用根据您的网站内容训练的个性化聊天机器人即时回答访客的问题。是Chatbase、SiteGPT和Dante AI的替代选择。
  * [plotai](https://github.com/mljar/plotai) - PlotAI - 你的终极绘图助手！📊🤖 使用ChatGPT-3.5在Python和Matplotlib中直接创建绘图，无论是在Python脚本还是笔记本中。
+ * [TianMu](https://github.com/openjarvisai/tianmu) - 天幕：一个现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个开源的大模型客户端！
+ * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - Telegram机器人使用ChatGPT来总结YouTube视频内容。
 
 
 ## Browser-extensions
@@ -542,6 +556,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [Sense](https://github.com/f0x1d/sense) - 支持ChatGPT的Android版OpenAI客户端
  * [sparrow](https://github.com/soulteary/sparrow) - ChatGPT风格的客户端兼容后端服务器，开源实现。
  * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - 使用ChatGPT API将Markdown文档翻译为CLI
+ * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style响应式聊天Web UI客户端（GUI）用于Ollama 🦙
 
 
 ## Reimplementations
@@ -748,6 +763,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 利用ChatGLM2、ChatGPT等大模型从文档中生成对话数据。
  * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - 一个在Azure上运行的RAG模式的解决方案加速器，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的需求和最佳实践。
+ * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - 使用ChatGPT来总结您的个性化RSS订阅
 
 
 ## Langchain
@@ -814,6 +830,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - 使用Gradio和Langchain创建下一个ChatGPT应用的易于入侵的模板。
  * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平台们，包括文本大模型、多模态大模型等，为大家提供一些便利。
  * [gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮和函数插件，支持Python和C++等项目剖析和自译解功能，PDF/LaTex论文翻译和总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言、moss、llama2、rwkv、claude2、通义千问、书生、讯飞星火等。
+ * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - 实时谬误检测使用OpenAI Whisper和ChatGPT/LLaMA/Mistral
 
 
 ## Unity
@@ -1249,5 +1266,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - 一个用于ChatGPT应用的Golang服务
  * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPT基于Reddit个人资料分析器。请自备API密钥。
  * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT是ChatGPT的本地替代品，具有生成式人工智能的优势，同时保持严格的数据保密性。
+ * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - 完全自动化的ETH代币部署，使用ChatGPT和DALL-E。
+ * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - 一个聊天GPT的东西，里面有瑞克和莫蒂的角色、传送门，还有什么怪物史莱克之类的，我也不知道。
 
 

@@ -16,17 +16,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - ChatGPT plugin for theorem proving in Lean
+**Chatbots**
+ * [TianMu](https://github.com/openjarvisai/tianmu) - TianMu: A modern AI tool with multi-platform support, markdown support, multimodal, continuous conversation, and customizable commands. 一个APP支持文心一言、通义千问、LLaMa、ChatGPT等，开源的大模型客户端！
+ * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - Telegram bot designed to summaries youtube video contents with ChatGPT.
+
+
+**CLIs**
+ * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙
+
+
+**NLP**
+ * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - Using ChatGPT to summarize your personalized RSS feeds
+
+
+**Langchain**
+ * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
 
 
 **Others**
- * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - A golang service for chatgpt application
- * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPT-based reddit profile analyzer. BYO api key
- * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+ * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - Fully automated token deployment on ETH, using ChatGPT and DALL-E.
+ * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - a chatgpt thingy with rick and morty characters and portals and theres shrek idk.
 
 
-_Updated on October 27, 2023_ (A total of 1149 repositories listed.)
+_Updated on November 01, 2023_ (A total of 1156 repositories listed.)
 
 ## Table of contents
 
@@ -305,6 +317,8 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - The Messenger Bot is integrated with ChatGPT.
  * [Chatbase](https://github.com/anil-matcha/chatbase) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
  * [plotai](https://github.com/mljar/plotai) - PlotAI - Your Ultimate Plotting Assistant! 📊🤖 Use ChatGPT-3.5 to create plots in Python and Matplotlib directly in your Python script or notebook. 
+ * [TianMu](https://github.com/openjarvisai/tianmu) - TianMu: A modern AI tool with multi-platform support, markdown support, multimodal, continuous conversation, and customizable commands. 一个APP支持文心一言、通义千问、LLaMa、ChatGPT等，开源的大模型客户端！
+ * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - Telegram bot designed to summaries youtube video contents with ChatGPT.
 
 
 ## Browser-extensions
@@ -543,6 +557,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [Sense](https://github.com/f0x1d/sense) - OpenAI client for Android with ChatGPT support
  * [sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
  * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - CLI to translate Markdown docs using ChatGPT API
+ * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙
 
 
 ## Reimplementations
@@ -749,6 +764,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) -  Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
  * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.
+ * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - Using ChatGPT to summarize your personalized RSS feeds
 
 
 ## Langchain
@@ -815,6 +831,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - Easy to hack template for your next chatGPT app with Gradio and Langchain
  * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - Input: ChatGPT has become popular and has taken a crucial step towards AGI. This project aims to gather open-source alternatives to ChatGPT, including large text models and multimodal models, to provide convenience for everyone.
  * [gpt_academic](https://github.com/binary-husky/gpt_academic) - Provide a practical interactive interface for ChatGPT/GLM, specially optimized for paper reading/editing/writing experience. Modular design, supporting custom shortcut buttons & function plugins, supporting project analysis & self-translation functions for Python and C++ projects, PDF/LaTex paper translation & summarization functions, supporting parallel inquiries for various LLM models, supporting local models such as chatglm2. Compatible with Wenxin Yiyu, Moss, Llama2, RWKV, Claude2, Tongyi Qianwen, Shusheng, Xunfei Xinghuo, etc.
+ * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
 
 
 ## Unity
@@ -1250,5 +1267,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - A golang service for chatgpt application
  * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPT-based reddit profile analyzer. BYO api key
  * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+ * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - Fully automated token deployment on ETH, using ChatGPT and DALL-E.
+ * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - a chatgpt thingy with rick and morty characters and portals and theres shrek idk.
 
 

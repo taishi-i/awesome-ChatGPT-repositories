@@ -15,17 +15,30 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - Leanでの定理証明のためのChatGPTプラグイン
+**Chatbots**
+ * [TianMu](https://github.com/openjarvisai/tianmu) - 天幕：一款现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个支持文心一言、通义千问、LLaMa、ChatGPT等功能的APP，同时也是一个开源的大模型客户端！
+ * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - ChatGPTを使用して、YouTube動画の内容を要約するために設計されたTelegramボット。
+
+
+**CLIs**
+ * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - Ollama 🦙のためのChatGPTスタイルの応答性のあるチャットWeb UIクライアント（GUI）
+
+
+**NLP**
+ * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - ChatGPTを使用して、個別に設定したRSSフィードを要約する
+ChatGPTを使用して、個別に設定したRSSフィードを要約します。
+
+
+**Langchain**
+ * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - リアルタイムの誤謬検出は、OpenAI WhisperとChatGPT/LLaMA/Mistralを使用して行われます。
 
 
 **Others**
- * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - チャットGPTアプリケーションのためのGolangサービス
- * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPTベースのredditプロファイル分析ツール。APIキーを持参してください。
- * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
+ * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - ETH上での完全自動トークン展開、ChatGPTとDALL-Eを使用しています。
+ * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - リックとモーティのキャラクターとポータルがあるチャットGPTのもので、シュレックもいるようですが、詳細はわかりません。
 
 
-_Updated on October 27, 2023_ (A total of 1149 repositories listed.)
+_Updated on November 01, 2023_ (A total of 1156 repositories listed.)
 
 ## Table of contents
 
@@ -304,6 +317,8 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - ボットメッセンジャーはChatGPTが統合されています。
  * [Chatbase](https://github.com/anil-matcha/chatbase) - すべてのウェブサイトに対応するChatGPT。ウェブサイトのコンテンツを学習したパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案です。
  * [plotai](https://github.com/mljar/plotai) - プロットAI - あなたの究極のプロット補助！📊🤖 ChatGPT-3.5を使用して、PythonとMatplotlibで直接プロットを作成するためのPythonスクリプトやノートブックを使用してください。
+ * [TianMu](https://github.com/openjarvisai/tianmu) - 天幕：一款现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个支持文心一言、通义千问、LLaMa、ChatGPT等功能的APP，同时也是一个开源的大模型客户端！
+ * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - ChatGPTを使用して、YouTube動画の内容を要約するために設計されたTelegramボット。
 
 
 ## Browser-extensions
@@ -542,6 +557,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [Sense](https://github.com/f0x1d/sense) - Android対応のOpenAIクライアントで、ChatGPTをサポートしています。
  * [sparrow](https://github.com/soulteary/sparrow) - ChatGPTスタイルのクライアント互換のバックエンドサーバー、オープンソースの実装。
  * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - ChatGPT APIを使用してMarkdownドキュメントを翻訳するためのCLI
+ * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - Ollama 🦙のためのChatGPTスタイルの応答性のあるチャットWeb UIクライアント（GUI）
 
 
 ## Reimplementations
@@ -748,6 +764,8 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 文書からChatGLM2やChatGPTのようなLLMを使用して対話データを生成します。
  * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - ChatGPTを使用して、Markdownファイルを複数の言語に自動翻訳します。
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - Azureで実行されるRAGパターンのためのソリューションアクセラレーターで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。これには、最も一般的な要件とベストプラクティスが含まれています。
+ * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - ChatGPTを使用して、個別に設定したRSSフィードを要約する
+ChatGPTを使用して、個別に設定したRSSフィードを要約します。
 
 
 ## Langchain
@@ -814,6 +832,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - GradioとLangchainを使用した、次のChatGPTアプリのための簡単にハッキングできるテンプレート。
  * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPTが大人気で、AGIへの鍵となる重要な一歩を踏み出しました。このプロジェクトは、ChatGPTのオープンソースの代替品、テキストモデル、マルチモーダルモデルなどをまとめ、皆さんに便利を提供することを目的としています。
  * [gpt_academic](https://github.com/binary-husky/gpt_academic) - ChatGPT/GLMのための実用的なインタラクティブなインターフェースを提供し、論文の読み込み/校正/執筆の体験を特に最適化し、モジュール化されたデザインで、カスタムショートカットボタンと関数プラグインをサポートし、PythonやC++などのプロジェクトの解析と自動翻訳機能をサポートし、PDF/LaTex論文の翻訳と要約機能を提供し、さまざまなLLMモデルの並列問い合わせをサポートし、chatglm2などのローカルモデルにも対応しています。文心一言、moss、llama2、rwkv、claude2、通義千問、書生、讯飞星火などと互換性があります。
+ * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - リアルタイムの誤謬検出は、OpenAI WhisperとChatGPT/LLaMA/Mistralを使用して行われます。
 
 
 ## Unity
@@ -1249,5 +1268,7 @@ _Updated on October 27, 2023_ (A total of 1149 repositories listed.)
  * [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - チャットGPTアプリケーションのためのGolangサービス
  * [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ChatGPTベースのredditプロファイル分析ツール。APIキーを持参してください。
  * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
+ * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - ETH上での完全自動トークン展開、ChatGPTとDALL-Eを使用しています。
+ * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - リックとモーティのキャラクターとポータルがあるチャットGPTのもので、シュレックもいるようですが、詳細はわかりません。
 
 
