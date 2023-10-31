@@ -5414,6 +5414,52 @@
                     "zh-hans": "PlotAI - 你的终极绘图助手！📊🤖 使用ChatGPT-3.5在Python和Matplotlib中直接创建绘图，无论是在Python脚本还是笔记本中。",
                     "zh-hant": "PlotAI - 您的終極繪圖助手！📊🤖 使用ChatGPT-3.5在Python和Matplotlib中直接創建圖表，可在您的Python腳本或筆記本中使用。"
                 }
+            },
+            "https://github.com/openjarvisai/tianmu": {
+                "repository_name": "TianMu",
+                "user_name": "OpenJarvisAI",
+                "language": null,
+                "license": null,
+                "description": "TianMu: A modern AI tool with multi-platform support, markdown support, multimodal, continuous conversation, and customizable commands. 一个APP支持文心一言、通义千问、LLaMa、ChatGPT等，开源的大模型客户端！",
+                "topics": [
+                    "chatgpt",
+                    "gpt4",
+                    "llm",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TianMu: A modern AI tool with multi-platform support, markdown support, multimodal, continuous conversation, and customizable commands. 一个APP支持文心一言、通义千问、LLaMa、ChatGPT等，开源的大模型客户端！",
+                    "ja": "天幕：一款现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个支持文心一言、通义千问、LLaMa、ChatGPT等功能的APP，同时也是一个开源的大模型客户端！",
+                    "zh-hans": "天幕：一个现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个开源的大模型客户端！",
+                    "zh-hant": "天幕：一個現代化的AI工具，具有多平台支持、支持markdown、多模態、連續對話和可自定義命令。一個支持文心一言、通義千問、LLaMa、ChatGPT等的開源大模型客戶端！"
+                }
+            },
+            "https://github.com/sabber-slt/youtube-summarizer": {
+                "repository_name": "youtube-summarizer",
+                "user_name": "sabber-slt",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Telegram bot designed to summaries youtube video contents with ChatGPT.",
+                "topics": [
+                    "chatgpt",
+                    "telegram",
+                    "telegram-bot",
+                    "typescript",
+                    "youtube"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Telegram bot designed to summaries youtube video contents with ChatGPT.",
+                    "ja": "ChatGPTを使用して、YouTube動画の内容を要約するために設計されたTelegramボット。",
+                    "zh-hans": "Telegram机器人使用ChatGPT来总结YouTube视频内容。",
+                    "zh-hant": "使用ChatGPT設計的Telegram機器人，用於總結YouTube視頻內容。"
+                }
             }
         },
         "Browser-extensions": {
@@ -10408,6 +10454,40 @@
                     "zh-hans": "使用ChatGPT API将Markdown文档翻译为CLI",
                     "zh-hant": "使用ChatGPT API翻譯Markdown文件的CLI"
                 }
+            },
+            "https://github.com/ollama-webui/ollama-webui": {
+                "repository_name": "ollama-webui",
+                "user_name": "ollama-webui",
+                "language": "Svelte",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙",
+                "topics": [
+                    "llm",
+                    "ollama",
+                    "ollama-app",
+                    "ollama-chat",
+                    "ollama-client",
+                    "ollama-gui",
+                    "ollama-interface",
+                    "ollama-ui",
+                    "ollama-web",
+                    "ollama-web-interface",
+                    "ollama-webui",
+                    "self-hosted",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙",
+                    "ja": "Ollama 🦙のためのChatGPTスタイルの応答性のあるチャットWeb UIクライアント（GUI）",
+                    "zh-hans": "ChatGPT-Style响应式聊天Web UI客户端（GUI）用于Ollama 🦙",
+                    "zh-hant": "ChatGPT-風格的Ollama🦙響應式聊天網頁用戶界面客戶端（GUI）"
+                }
             }
         },
         "Reimplementations": {
@@ -14284,6 +14364,26 @@
                     "zh-hans": "一个在Azure上运行的RAG模式的解决方案加速器，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的需求和最佳实践。",
                     "zh-hant": "一個在Azure上運行的RAG模式解決方案加速器，使用Azure認知搜索進行檢索，並使用Azure OpenAI大型語言模型來提供ChatGPT風格和問答體驗。這包括最常見的需求和最佳實踐。"
                 }
+            },
+            "https://github.com/yinan-c/rss-gpt": {
+                "repository_name": "RSS-GPT",
+                "user_name": "yinan-c",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Using ChatGPT to summarize your personalized RSS feeds",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Using ChatGPT to summarize your personalized RSS feeds",
+                    "ja": "ChatGPTを使用して、個別に設定したRSSフィードを要約する\nChatGPTを使用して、個別に設定したRSSフィードを要約します。",
+                    "zh-hans": "使用ChatGPT来总结您的个性化RSS订阅",
+                    "zh-hant": "使用ChatGPT來總結您的個人化RSS訂閱。"
+                }
             }
         },
         "Langchain": {
@@ -15637,6 +15737,26 @@
                     "ja": "ChatGPT/GLMのための実用的なインタラクティブなインターフェースを提供し、論文の読み込み/校正/執筆の体験を特に最適化し、モジュール化されたデザインで、カスタムショートカットボタンと関数プラグインをサポートし、PythonやC++などのプロジェクトの解析と自動翻訳機能をサポートし、PDF/LaTex論文の翻訳と要約機能を提供し、さまざまなLLMモデルの並列問い合わせをサポートし、chatglm2などのローカルモデルにも対応しています。文心一言、moss、llama2、rwkv、claude2、通義千問、書生、讯飞星火などと互換性があります。",
                     "zh-hans": "为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮和函数插件，支持Python和C++等项目剖析和自译解功能，PDF/LaTex论文翻译和总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言、moss、llama2、rwkv、claude2、通义千问、书生、讯飞星火等。",
                     "zh-hant": "為ChatGPT/GLM提供實用化交互界面，特別優化論文閱讀/潤色/寫作體驗，模塊化設計，支持自定義快捷按鈕和函數插件，支持Python和C++等項目剖析和自譯解功能，PDF/LaTex論文翻譯和總結功能，支持並行問詢多種LLM模型，支持chatglm2等本地模型。兼容文心一言，moss，llama2，rwkv，claude2，通義千問，書生，訊飛星火等。"
+                }
+            },
+            "https://github.com/latent-variable/real_time_fallacy_detection": {
+                "repository_name": "Real_time_fallacy_detection",
+                "user_name": "latent-variable",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral",
+                    "ja": "リアルタイムの誤謬検出は、OpenAI WhisperとChatGPT/LLaMA/Mistralを使用して行われます。",
+                    "zh-hans": "实时谬误检测使用OpenAI Whisper和ChatGPT/LLaMA/Mistral",
+                    "zh-hant": "即時辨識謬誤使用OpenAI whisper和ChatGPT/LLaMA/Mistral"
                 }
             }
         },
@@ -23742,6 +23862,34 @@
                     "ja": "BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。",
                     "zh-hans": "BionicGPT是ChatGPT的本地替代品，具有生成式人工智能的优势，同时保持严格的数据保密性。",
                     "zh-hant": "BionicGPT 是 ChatGPT 的本地替代方案，提供了生成式人工智能的优势，同时保持严格的数据保密性。"
+                }
+            },
+            "https://github.com/croissanteth/chatgpt-token": {
+                "repository_name": "chatgpt-token",
+                "user_name": "croissanteth",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Fully automated token deployment on ETH, using ChatGPT and DALL-E.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Fully automated token deployment on ETH, using ChatGPT and DALL-E.",
+                    "ja": "ETH上での完全自動トークン展開、ChatGPTとDALL-Eを使用しています。",
+                    "zh-hans": "完全自动化的ETH代币部署，使用ChatGPT和DALL-E。",
+                    "zh-hant": "完全自動化的ETH代幣部署，使用ChatGPT和DALL-E。"
+                }
+            },
+            "https://github.com/code-bullet/rickandmortai": {
+                "repository_name": "RickAndMortai",
+                "user_name": "Code-Bullet",
+                "language": "C#",
+                "license": null,
+                "description": "a chatgpt thingy with rick and morty characters and portals and theres shrek idk.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "a chatgpt thingy with rick and morty characters and portals and theres shrek idk.",
+                    "ja": "リックとモーティのキャラクターとポータルがあるチャットGPTのもので、シュレックもいるようですが、詳細はわかりません。",
+                    "zh-hans": "一个聊天GPT的东西，里面有瑞克和莫蒂的角色、传送门，还有什么怪物史莱克之类的，我也不知道。",
+                    "zh-hant": "一個有瑞克和莫蒂角色、傳送門和史瑞克的聊天GPT東西，我不知道。"
                 }
             }
         }
