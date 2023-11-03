@@ -16,29 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [TianMu](https://github.com/openjarvisai/tianmu) - TianMu: A modern AI tool with multi-platform support, markdown support, multimodal, continuous conversation, and customizable commands. 一个APP支持文心一言、通义千问、LLaMa、ChatGPT等，开源的大模型客户端！
- * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - Telegram bot designed to summaries youtube video contents with ChatGPT.
+**Browser-extensions**
+ * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - Most comprehensive list of ChatGPT Plugins in a single page!
 
 
-**CLIs**
- * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙
-
-
-**NLP**
- * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - Using ChatGPT to summarize your personalized RSS feeds
-
-
-**Langchain**
- * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
+**Openai**
+ * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - create your own chatgpt portal using azure openai 
 
 
 **Others**
- * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - Fully automated token deployment on ETH, using ChatGPT and DALL-E.
- * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - a chatgpt thingy with rick and morty characters and portals and theres shrek idk.
+ * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - This is a repository for using ChatGPT in Stable Diffusion web UI.
+ * [pictureChange](https://github.com/yanyutin753/picturechange) - 适用于chatgpt-on-wechat项目插件
+ * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - A Game Demo Powered by ChatGPT Agents
 
 
-_Updated on November 01, 2023_ (A total of 1156 repositories listed.)
+_Updated on November 03, 2023_ (A total of 1161 repositories listed.)
 
 ## Table of contents
 
@@ -459,6 +451,7 @@ _Updated on November 01, 2023_ (A total of 1156 repositories listed.)
  * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 Would you like to use GPT4 with Plugins but don't want to pay $20/month? This is the solution!  With this repository you can have free clone of ChatGPT with plugin
  * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - ChatGPT plugin for theorem proving in Lean
+ * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - Most comprehensive list of ChatGPT Plugins in a single page!
 
 
 ## CLIs
@@ -965,6 +958,7 @@ _Updated on November 01, 2023_ (A total of 1156 repositories listed.)
  * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - ChatGPT UI with auth, targeted towards business-ey usecases, written in Elixir + LiveView
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI
  * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
+ * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - create your own chatgpt portal using azure openai 
 
 
 ## Others
@@ -1269,5 +1263,8 @@ _Updated on November 01, 2023_ (A total of 1156 repositories listed.)
  * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
  * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - Fully automated token deployment on ETH, using ChatGPT and DALL-E.
  * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - a chatgpt thingy with rick and morty characters and portals and theres shrek idk.
+ * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - This is a repository for using ChatGPT in Stable Diffusion web UI.
+ * [pictureChange](https://github.com/yanyutin753/picturechange) - 适用于chatgpt-on-wechat项目插件
+ * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - A Game Demo Powered by ChatGPT Agents
 
 

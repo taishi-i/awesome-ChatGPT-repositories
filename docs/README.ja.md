@@ -15,30 +15,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [TianMu](https://github.com/openjarvisai/tianmu) - 天幕：一款现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个支持文心一言、通义千问、LLaMa、ChatGPT等功能的APP，同时也是一个开源的大模型客户端！
- * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - ChatGPTを使用して、YouTube動画の内容を要約するために設計されたTelegramボット。
+**Browser-extensions**
+ * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 一つのページにまとめられた、最も包括的なChatGPTプラグインのリスト！
 
 
-**CLIs**
- * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - Ollama 🦙のためのChatGPTスタイルの応答性のあるチャットWeb UIクライアント（GUI）
-
-
-**NLP**
- * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - ChatGPTを使用して、個別に設定したRSSフィードを要約する
-ChatGPTを使用して、個別に設定したRSSフィードを要約します。
-
-
-**Langchain**
- * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - リアルタイムの誤謬検出は、OpenAI WhisperとChatGPT/LLaMA/Mistralを使用して行われます。
+**Openai**
+ * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - Azure OpenAIを使用して独自のChatGPTポータルを作成します。
 
 
 **Others**
- * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - ETH上での完全自動トークン展開、ChatGPTとDALL-Eを使用しています。
- * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - リックとモーティのキャラクターとポータルがあるチャットGPTのもので、シュレックもいるようですが、詳細はわかりません。
+ * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - これはStable Diffusion web UIでChatGPTを使用するためのリポジトリです。
+ * [pictureChange](https://github.com/yanyutin753/picturechange) - chatgpt-on-wechatプロジェクトのプラグインに適用されます。
+ * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - チャットGPTエージェントによるゲームデモ
 
 
-_Updated on November 01, 2023_ (A total of 1156 repositories listed.)
+_Updated on November 03, 2023_ (A total of 1161 repositories listed.)
 
 ## Table of contents
 
@@ -459,6 +450,7 @@ _Updated on November 01, 2023_ (A total of 1156 repositories listed.)
  * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。また、GPTアーキテクチャに対応した他の言語モデルにも対応しています。Awesome-Pluginsは、ChatGPTに対応したプラグイン、アドオン、および拡張機能の包括的なリストであり、GPTアーキテクチャと互換性のある他の言語モデルにも対応しているGitHubリポジトリです。
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 GPT4とプラグインを使用したいですかが、月額$20を支払いたくありませんか？ これが解決策です！ このリポジトリを使用すると、プラグイン付きの無料のChatGPTのクローンを利用できます。
  * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - Leanでの定理証明のためのChatGPTプラグイン
+ * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 一つのページにまとめられた、最も包括的なChatGPTプラグインのリスト！
 
 
 ## CLIs
@@ -764,8 +756,7 @@ _Updated on November 01, 2023_ (A total of 1156 repositories listed.)
  * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - 文書からChatGLM2やChatGPTのようなLLMを使用して対話データを生成します。
  * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - ChatGPTを使用して、Markdownファイルを複数の言語に自動翻訳します。
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - Azureで実行されるRAGパターンのためのソリューションアクセラレーターで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。これには、最も一般的な要件とベストプラクティスが含まれています。
- * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - ChatGPTを使用して、個別に設定したRSSフィードを要約する
-ChatGPTを使用して、個別に設定したRSSフィードを要約します。
+ * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - ChatGPTを使用して、個別に設定したRSSフィードを要約するChatGPTを使用して、個別に設定したRSSフィードを要約します。
 
 
 ## Langchain
@@ -966,6 +957,7 @@ ChatGPTを使用して、個別に設定したRSSフィードを要約します�
  * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - Elixir + LiveViewで書かれた、ビジネス向けの認証付きChatGPT UI
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI テンプレート - 最新のオープンソース ChatGPT UI AI テンプレート＆React、NextJS、Chakra UI のスターターキット
  * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - JSONファイルからChatGPTのデータエクスポート全体を簡単に抽出し、整形されたマークダウンファイルに変換するスクリプト。
+ * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - Azure OpenAIを使用して独自のChatGPTポータルを作成します。
 
 
 ## Others
@@ -1270,5 +1262,8 @@ ChatGPTを使用して、個別に設定したRSSフィードを要約します�
  * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
  * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - ETH上での完全自動トークン展開、ChatGPTとDALL-Eを使用しています。
  * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - リックとモーティのキャラクターとポータルがあるチャットGPTのもので、シュレックもいるようですが、詳細はわかりません。
+ * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - これはStable Diffusion web UIでChatGPTを使用するためのリポジトリです。
+ * [pictureChange](https://github.com/yanyutin753/picturechange) - chatgpt-on-wechatプロジェクトのプラグインに適用されます。
+ * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - チャットGPTエージェントによるゲームデモ
 
 
