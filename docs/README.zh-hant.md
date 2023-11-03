@@ -15,29 +15,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [TianMu](https://github.com/openjarvisai/tianmu) - 台灣語:具有多平台支持,下降支持,多式,連續對話和可定制命令的現代人工智能工具. 一个APP支持文心一言、通义千问、LLaMa、ChatGPT等,开源的大模型客戶端!
- * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - 該網站的目標是:
+**Browser-extensions**
+ * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 這裡是一個最全面的 ChatGPT 插件列表!
 
 
-**CLIs**
- * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - 網路使用者應用程式 (GUI)
-
-
-**NLP**
- * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - 使用ChatGPT來總結您的個人化 RSS 訊息
-
-
-**Langchain**
- * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - 實時誤區檢測使用OpenAI聲和ChatGPT/LLaMA/Mistral
+**Openai**
+ * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - 創建自己的Chatgpt門戶使用Azure OpenAI.
 
 
 **Others**
- * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - 完全自動化使用ETH的代幣,
- * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - 還有"克 IDK"這個工具.
+ * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - 這是使用ChatGPT在穩定傳播網際使用者界面中的資料庫.
+ * [pictureChange](https://github.com/yanyutin753/picturechange) - 適用於聊天網站項目插件
+ * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - 遊戲演示由ChatGPT代理提供
 
 
-_Updated on November 01, 2023_ (A total of 1156 repositories listed.)
+_Updated on November 03, 2023_ (A total of 1161 repositories listed.)
 
 ## Table of contents
 
@@ -458,6 +450,7 @@ _Updated on November 01, 2023_ (A total of 1156 repositories listed.)
  * [Awesome-Plugins](https://github.com/targed/awesome-plugins) - Awesome-Plugins 是一個 GitHub 存儲庫，它作為一個全面的插件、附加組件和擴展列表，為 ChatGPT 提供支持，同時也支持與 GPT 架構兼容的其他語言模型。
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 您想使用帶有插件的GPT4，但不想支付每月20美元嗎？這就是解決方案！通過這個存儲庫，您可以免費獲得ChatGPT的克隆版本。
  * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - ChatGPT 在 Lean 中的定理证明插件
+ * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 最全面的ChatGPT插件列表，全部在一個頁面上！
 
 
 ## CLIs
@@ -964,6 +957,7 @@ _Updated on November 01, 2023_ (A total of 1156 repositories listed.)
  * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - 使用Elixir + LiveView編寫的ChatGPT UI，帶有身份驗證，針對商業用途的使用案例。ChatGPT UI具有身份驗證，針對商業用途，使用Elixir + LiveView編寫。
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI 模板 - 最時尚的開源 ChatGPT UI AI 模板和 React、NextJS 及 Chakra UI 的入門套件
  * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - 一個腳本，可以輕鬆從JSON文件中提取整個ChatGPT數據導出，並將其轉換為格式整齊的markdown文件。
+ * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - 使用Azure OpenAI創建您自己的ChatGPT門戶
 
 
 ## Others
@@ -1268,5 +1262,8 @@ _Updated on November 01, 2023_ (A total of 1156 repositories listed.)
  * [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - BionicGPT 是 ChatGPT 的本地替代方案，提供了生成式人工智能的优势，同时保持严格的数据保密性。
  * [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - 完全自動化的ETH代幣部署，使用ChatGPT和DALL-E。
  * [RickAndMortai](https://github.com/code-bullet/rickandmortai) - 一個有瑞克和莫蒂角色、傳送門和史瑞克的聊天GPT東西，我不知道。
+ * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - 這是在Stable Diffusion web UI中使用ChatGPT的儲存庫。
+ * [pictureChange](https://github.com/yanyutin753/picturechange) - 適用於chatgpt-on-wechat專案插件
+ * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - 一個由ChatGPT代理驅動的遊戲演示
 
 

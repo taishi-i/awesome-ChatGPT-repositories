@@ -8400,6 +8400,20 @@
                     "zh-hans": "ChatGPT插件用于Lean中的定理证明。",
                     "zh-hant": "ChatGPT 在 Lean 中的定理证明插件"
                 }
+            },
+            "https://github.com/jikkujose/awesome-chatgpt-plugins": {
+                "repository_name": "awesome-chatgpt-plugins",
+                "user_name": "jikkujose",
+                "language": null,
+                "license": null,
+                "description": "Most comprehensive list of ChatGPT Plugins in a single page!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Most comprehensive list of ChatGPT Plugins in a single page!",
+                    "ja": "一つのページにまとめられた、最も包括的なChatGPTプラグインのリスト！",
+                    "zh-hans": "最全面的ChatGPT插件列表，全部在一个页面上！",
+                    "zh-hant": "最全面的ChatGPT插件列表，全部在一個頁面上！"
+                }
             }
         },
         "CLIs": {
@@ -18361,6 +18375,20 @@
                     "zh-hans": "一个脚本，可以轻松地从JSON文件中提取您的整个ChatGPT数据导出，并将其转换为格式良好的markdown文件。",
                     "zh-hant": "一個腳本，可以輕鬆從JSON文件中提取整個ChatGPT數據導出，並將其轉換為格式整齊的markdown文件。"
                 }
+            },
+            "https://github.com/karleeov/chatgpt-aoai": {
+                "repository_name": "chatgpt-aoai",
+                "user_name": "karleeov",
+                "language": "TypeScript",
+                "license": null,
+                "description": "create your own chatgpt portal using azure openai ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "create your own chatgpt portal using azure openai ",
+                    "ja": "Azure OpenAIを使用して独自のChatGPTポータルを作成します。",
+                    "zh-hans": "使用Azure OpenAI创建您自己的ChatGPT门户",
+                    "zh-hant": "使用Azure OpenAI創建您自己的ChatGPT門戶"
+                }
             }
         },
         "Others": {
@@ -23890,6 +23918,66 @@
                     "ja": "リックとモーティのキャラクターとポータルがあるチャットGPTのもので、シュレックもいるようですが、詳細はわかりません。",
                     "zh-hans": "一个聊天GPT的东西，里面有瑞克和莫蒂的角色、传送门，还有什么怪物史莱克之类的，我也不知道。",
                     "zh-hant": "一個有瑞克和莫蒂角色、傳送門和史瑞克的聊天GPT東西，我不知道。"
+                }
+            },
+            "https://github.com/non906/sd-webui-chatgpt": {
+                "repository_name": "sd-webui-chatgpt",
+                "user_name": "NON906",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "This is a repository for using ChatGPT in Stable Diffusion web UI.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This is a repository for using ChatGPT in Stable Diffusion web UI.",
+                    "ja": "これはStable Diffusion web UIでChatGPTを使用するためのリポジトリです。",
+                    "zh-hans": "这是一个在稳定扩散网络界面中使用ChatGPT的存储库。",
+                    "zh-hant": "這是在Stable Diffusion web UI中使用ChatGPT的儲存庫。"
+                }
+            },
+            "https://github.com/yanyutin753/picturechange": {
+                "repository_name": "pictureChange",
+                "user_name": "Yanyutin753",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "适用于chatgpt-on-wechat项目插件",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "适用于chatgpt-on-wechat项目插件",
+                    "ja": "chatgpt-on-wechatプロジェクトのプラグインに適用されます。",
+                    "zh-hans": "适用于chatgpt-on-wechat项目插件",
+                    "zh-hant": "適用於chatgpt-on-wechat專案插件"
+                }
+            },
+            "https://github.com/liyucheng09/chatgpt_agent": {
+                "repository_name": "ChatGPT_Agent",
+                "user_name": "liyucheng09",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A Game Demo Powered by ChatGPT Agents",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A Game Demo Powered by ChatGPT Agents",
+                    "ja": "チャットGPTエージェントによるゲームデモ",
+                    "zh-hans": "一个由ChatGPT代理驱动的游戏演示",
+                    "zh-hant": "一個由ChatGPT代理驅動的遊戲演示"
                 }
             }
         }
