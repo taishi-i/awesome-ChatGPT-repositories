@@ -15,21 +15,22 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 バージョン
+ * [FirewaLLM](https://github.com/ysy1216/firewallm) - FirewaLLMを呼び出すことで、ユーザーは大規模なモデルの正確性を確保しながら、それとのやり取り時のプライバシー漏洩のリスクを大幅に減らすことができます。私たちはFirewallLLMがプライバシー保護されたChatGPTインタラクションプラットフォームであると考えています。
+
+
 **Browser-extensions**
- * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 一つのページにまとめられた、最も包括的なChatGPTプラグインのリスト！
+ * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
+GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
+ * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// Agents System/自己決定 |クラスChatGptプラグインシステム| Gpt-3.5/Gpt-4 |アシスタント |📱クロスプラットフォーム|🦾非同期|🔌プラグインシステム
 
 
-**Openai**
- * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - Azure OpenAIを使用して独自のChatGPTポータルを作成します。
+**Unity**
+ * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - Unityを使用してAIチャット関連の機能を実現します。現在、このライブラリにはchatgpt、chatglmなどの大規模言語モデルのAPI呼び出しのコード実装が含まれており、また、Microsoft AzureおよびBaidu AIの音声サービス機能も実装されています。音声サービスはすべてWeb APIを使用しており、Windows/WebGL/Androidなどのプラットフォームをサポートしています。
 
 
-**Others**
- * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - これはStable Diffusion web UIでChatGPTを使用するためのリポジトリです。
- * [pictureChange](https://github.com/yanyutin753/picturechange) - chatgpt-on-wechatプロジェクトのプラグインに適用されます。
- * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - チャットGPTエージェントによるゲームデモ
-
-
-_Updated on November 03, 2023_ (A total of 1161 repositories listed.)
+_Updated on November 07, 2023_ (A total of 1166 repositories listed.)
 
 ## Table of contents
 
@@ -310,6 +311,8 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [plotai](https://github.com/mljar/plotai) - プロットAI - あなたの究極のプロット補助！📊🤖 ChatGPT-3.5を使用して、PythonとMatplotlibで直接プロットを作成するためのPythonスクリプトやノートブックを使用してください。
  * [TianMu](https://github.com/openjarvisai/tianmu) - 天幕：一款现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个支持文心一言、通义千问、LLaMa、ChatGPT等功能的APP，同时也是一个开源的大模型客户端！
  * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - ChatGPTを使用して、YouTube動画の内容を要約するために設計されたTelegramボット。
+ * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 バージョン
+ * [FirewaLLM](https://github.com/ysy1216/firewallm) - FirewaLLMを呼び出すことで、ユーザーは大規模なモデルの正確性を確保しながら、それとのやり取り時のプライバシー漏洩のリスクを大幅に減らすことができます。私たちはFirewallLLMがプライバシー保護されたChatGPTインタラクションプラットフォームであると考えています。
 
 
 ## Browser-extensions
@@ -451,6 +454,9 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 GPT4とプラグインを使用したいですかが、月額$20を支払いたくありませんか？ これが解決策です！ このリポジトリを使用すると、プラグイン付きの無料のChatGPTのクローンを利用できます。
  * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - Leanでの定理証明のためのChatGPTプラグイン
  * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 一つのページにまとめられた、最も包括的なChatGPTプラグインのリスト！
+ * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
+GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
+ * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// Agents System/自己決定 |クラスChatGptプラグインシステム| Gpt-3.5/Gpt-4 |アシスタント |📱クロスプラットフォーム|🦾非同期|🔌プラグインシステム
 
 
 ## CLIs
@@ -836,6 +842,7 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [OpenAI-Unity](https://github.com/srcnalt/openai-unity) - OpenAI APIをUnityゲームエンジンで直接使用するための非公式なOpenAI Unityパッケージ。
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - Chat GPTを使用したUnityの数例
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio GPTキャッシュのバックエンドにferretdbを追加したいと思っています。ToDoリストに追加します。Milvusの開発者とコミュニティ全体を代表して、シャウトアウトありがとうございます！
+ * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - Unityを使用してAIチャット関連の機能を実現します。現在、このライブラリにはchatgpt、chatglmなどの大規模言語モデルのAPI呼び出しのコード実装が含まれており、また、Microsoft AzureおよびBaidu AIの音声サービス機能も実装されています。音声サービスはすべてWeb APIを使用しており、Windows/WebGL/Androidなどのプラットフォームをサポートしています。
 
 
 ## Openai

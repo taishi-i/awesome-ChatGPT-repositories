@@ -15,21 +15,21 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - 聊天GPT Web Nuxt 3 视频 3 版本
+ * [FirewaLLM](https://github.com/ysy1216/firewallm) - 通过调用FirewallLLM,用户可以确保大模型的准确性,同时大大减少与其交互时隐私泄漏的风险.我们认为FirewallLLM是一个隐私保护的chatgpt交互平台.
+
+
 **Browser-extensions**
- * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 在一个页面中最全面的 ChatGPT 插件列表!
+ * [gp.nvim](https://github.com/robitx/gp.nvim) - 创建一个新的AI插件.
+ * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机///代理系统/自决 类聊天Gpt插件系统 Gpt-3.5/Gpt-4 助理 跨平台 异步 插件系统
 
 
-**Openai**
- * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - 使用Azure OpenAI创建自己的Chatgpt门户
+**Unity**
+ * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity实现AI聊天相关功能. 目前本库包含对chatgpt、chatglm等大语言模型的API调用代码实现以及实现了微软Azure以及百度AI的语音服务功能,语音服务均采用web api实现,支持Windows/WebGL/Android等平台
 
 
-**Others**
- * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - 这是一个用于使用 ChatGPT 在稳定扩散 Web UI 的存储库.
- * [pictureChange](https://github.com/yanyutin753/picturechange) - 适用于聊天上的聊天项目插件
- * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - 由ChatGPT代理商提供游戏演示
-
-
-_Updated on November 03, 2023_ (A total of 1161 repositories listed.)
+_Updated on November 07, 2023_ (A total of 1166 repositories listed.)
 
 ## Table of contents
 
@@ -310,6 +310,9 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [plotai](https://github.com/mljar/plotai) - PlotAI - 你的终极绘图助手！📊🤖 使用ChatGPT-3.5在Python和Matplotlib中直接创建绘图，无论是在Python脚本还是笔记本中。
  * [TianMu](https://github.com/openjarvisai/tianmu) - 天幕：一个现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个开源的大模型客户端！
  * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - Telegram机器人使用ChatGPT来总结YouTube视频内容。
+ * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 版本
+ChatGPT Web Nuxt 3 Vue 3 版本
+ * [FirewaLLM](https://github.com/ysy1216/firewallm) - 通过调用FirewaLLM，用户可以在与大型模型交互时确保准确性，同时大大降低隐私泄露的风险。我们相信FirewallLLM是一个保护隐私的ChatGPT交互平台。
 
 
 ## Browser-extensions
@@ -451,6 +454,8 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 您想使用带有插件的GPT4，但又不想支付每月20美元吗？这就是解决方案！通过这个存储库，您可以免费获得ChatGPT的克隆版本。
  * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - ChatGPT插件用于Lean中的定理证明。
  * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 最全面的ChatGPT插件列表，全部在一个页面上！
+ * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AI插件 ～ OpenAI的ChatGPT和Copilot和语音转文字
+ * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// 代理系统/自决策 |类 ChatGpt 插件系统| Gpt-3.5/Gpt-4 |助手 | 📱 跨平台 | 🦾 异步 | 🔌 插件系统
 
 
 ## CLIs
@@ -836,6 +841,7 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [OpenAI-Unity](https://github.com/srcnalt/openai-unity) - 一个非官方的OpenAI Unity包，旨在帮助您直接在Unity游戏引擎中使用OpenAI API。
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - 在Unity中使用Chat GPT的几个示例
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio 我们很想为gptcache获取一个ferretdb后端。我们会将其添加到待办列表中。代表milvus开发者和更广泛的社区，感谢你们的支持！
+ * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用Unity实现AI聊天相关功能。目前这个库包含了对ChatGPT、ChatGLM等大语言模型的API调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用Web API实现，支持Windows/WebGL/Android等平台。
 
 
 ## Openai
