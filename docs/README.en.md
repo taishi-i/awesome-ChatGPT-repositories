@@ -16,21 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 Version
+ * [FirewaLLM](https://github.com/ysy1216/firewallm) - By calling FirewaLLM, users can ensure the accuracy of the large model while greatly reducing the risk of privacy leakage when interacting with it. We believe that FirewallLLM is a privacy protected chatgpt interaction platform.
+
+
 **Browser-extensions**
- * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - Most comprehensive list of ChatGPT Plugins in a single page!
+ * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim: Neovim AI plugin ~  OpenAI's ChatGPT & Copilot & Speech to text
+ * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// Agents System/自决策 |类 ChatGpt 插件系统| Gpt-3.5/Gpt-4 |Assistant | 📱 Cross-Platform | 🦾 Async | 🔌 Plugin System 
 
 
-**Openai**
- * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - create your own chatgpt portal using azure openai 
+**Unity**
+ * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - Use Unity to implement AI chat-related functions. Currently, this library includes code implementation for API calls to large language models such as chatgpt and chatglm, as well as the implementation of Microsoft Azure and Baidu AI voice services. The voice services are implemented using web APIs and support platforms such as Windows, WebGL, and Android.
 
 
-**Others**
- * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - This is a repository for using ChatGPT in Stable Diffusion web UI.
- * [pictureChange](https://github.com/yanyutin753/picturechange) - 适用于chatgpt-on-wechat项目插件
- * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - A Game Demo Powered by ChatGPT Agents
-
-
-_Updated on November 03, 2023_ (A total of 1161 repositories listed.)
+_Updated on November 07, 2023_ (A total of 1166 repositories listed.)
 
 ## Table of contents
 
@@ -311,6 +311,8 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [plotai](https://github.com/mljar/plotai) - PlotAI - Your Ultimate Plotting Assistant! 📊🤖 Use ChatGPT-3.5 to create plots in Python and Matplotlib directly in your Python script or notebook. 
  * [TianMu](https://github.com/openjarvisai/tianmu) - TianMu: A modern AI tool with multi-platform support, markdown support, multimodal, continuous conversation, and customizable commands. 一个APP支持文心一言、通义千问、LLaMa、ChatGPT等，开源的大模型客户端！
  * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - Telegram bot designed to summaries youtube video contents with ChatGPT.
+ * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 Version
+ * [FirewaLLM](https://github.com/ysy1216/firewallm) - By calling FirewaLLM, users can ensure the accuracy of the large model while greatly reducing the risk of privacy leakage when interacting with it. We believe that FirewallLLM is a privacy protected chatgpt interaction platform.
 
 
 ## Browser-extensions
@@ -452,6 +454,8 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 Would you like to use GPT4 with Plugins but don't want to pay $20/month? This is the solution!  With this repository you can have free clone of ChatGPT with plugin 
  * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - ChatGPT plugin for theorem proving in Lean
  * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - Most comprehensive list of ChatGPT Plugins in a single page!
+ * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim: Neovim AI plugin ~  OpenAI's ChatGPT & Copilot & Speech to text
+ * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// Agents System/自决策 |类 ChatGpt 插件系统| Gpt-3.5/Gpt-4 |Assistant | 📱 Cross-Platform | 🦾 Async | 🔌 Plugin System 
 
 
 ## CLIs
@@ -837,6 +841,7 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [OpenAI-Unity](https://github.com/srcnalt/openai-unity) - An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine.
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - Few examples with Chat GPT In Unity
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio we'd love to get a ferretdb backend for gptcache. we'll add it to the todo list.and on behalf of milvus developers and the broader community, thanks for the shout-out!
+ * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - Use Unity to implement AI chat-related functions. Currently, this library includes code implementation for API calls to large language models such as chatgpt and chatglm, as well as the implementation of Microsoft Azure and Baidu AI voice services. The voice services are implemented using web APIs and support platforms such as Windows, WebGL, and Android.
 
 
 ## Openai

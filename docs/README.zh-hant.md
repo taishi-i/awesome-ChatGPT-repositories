@@ -15,21 +15,21 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - 網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路
+ * [FirewaLLM](https://github.com/ysy1216/firewallm) - 我們相信 FirewallLLM是一個保護隱私的chatgpt互動平台.
+
+
 **Browser-extensions**
- * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 這裡是一個最全面的 ChatGPT 插件列表!
+ * [gp.nvim](https://github.com/robitx/gp.nvim) - 該網站的使用者必須在此處查看:
+ * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型機///代理系統/自決程序. 類聊天Gpt插件系統.
 
 
-**Openai**
- * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - 創建自己的Chatgpt門戶使用Azure OpenAI.
+**Unity**
+ * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity实现AI聊天相關功能. 目前本庫包含對chatgpt、chatglm等大語言模型的api调用代碼实现以及实现了微軟Azure以及百度AI的语音服務功能,语音服务均采用web api实现,支持Windows/WebGL/Android等平台
 
 
-**Others**
- * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - 這是使用ChatGPT在穩定傳播網際使用者界面中的資料庫.
- * [pictureChange](https://github.com/yanyutin753/picturechange) - 適用於聊天網站項目插件
- * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - 遊戲演示由ChatGPT代理提供
-
-
-_Updated on November 03, 2023_ (A total of 1161 repositories listed.)
+_Updated on November 07, 2023_ (A total of 1166 repositories listed.)
 
 ## Table of contents
 
@@ -310,6 +310,8 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [plotai](https://github.com/mljar/plotai) - PlotAI - 您的終極繪圖助手！📊🤖 使用ChatGPT-3.5在Python和Matplotlib中直接創建圖表，可在您的Python腳本或筆記本中使用。
  * [TianMu](https://github.com/openjarvisai/tianmu) - 天幕：一個現代化的AI工具，具有多平台支持、支持markdown、多模態、連續對話和可自定義命令。一個支持文心一言、通義千問、LLaMa、ChatGPT等的開源大模型客戶端！
  * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - 使用ChatGPT設計的Telegram機器人，用於總結YouTube視頻內容。
+ * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 版本
+ * [FirewaLLM](https://github.com/ysy1216/firewallm) - 通過使用FirewaLLM，用戶在與大型模型互動時可以確保其準確性，同時大大降低隱私洩露的風險。我們相信FirewallLLM是一個保護隱私的ChatGPT互動平台。
 
 
 ## Browser-extensions
@@ -451,6 +453,8 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 您想使用帶有插件的GPT4，但不想支付每月20美元嗎？這就是解決方案！通過這個存儲庫，您可以免費獲得ChatGPT的克隆版本。
  * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - ChatGPT 在 Lean 中的定理证明插件
  * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 最全面的ChatGPT插件列表，全部在一個頁面上！
+ * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AI 插件 〜 OpenAI 的 ChatGPT＆Copilot＆語音轉文字
+ * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型機 /// Agents System/自決策 |類 ChatGpt 插件系統| Gpt-3.5/Gpt-4 |助手 | 📱 跨平台 | 🦾 非同步 | 🔌 插件系統
 
 
 ## CLIs
@@ -836,6 +840,7 @@ _Updated on November 03, 2023_ (A total of 1161 repositories listed.)
  * [OpenAI-Unity](https://github.com/srcnalt/openai-unity) - 一個非官方的 OpenAI Unity 套件，旨在幫助您直接在 Unity 遊戲引擎中使用 OpenAI API。
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - 在Unity中使用Chat GPT的幾個例子
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio 我們很想為gptcache加入ferretdb後端。我們會將其加入待辦清單。代表milvus開發者和更廣泛的社區，感謝你們的提及！
+ * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity實現AI聊天相關功能。目前這個庫包含了對chatgpt、chatglm等大語言模型的api調用的程式實現以及實現了微軟Azure以及百度AI的語音服務功能，語音服務均採用web api實現，支援Windows/WebGL/Android等平台。
 
 
 ## Openai
