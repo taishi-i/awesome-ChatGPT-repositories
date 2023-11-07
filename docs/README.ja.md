@@ -15,22 +15,35 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [botpress](https://github.com/botpress/botpress) - GPT/LLMエージェントを構築・展開するためのオープンソースハブ ⚡️
+ * [promptflow](https://github.com/microsoft/promptflow) - 高品質なLLMアプリを構築します - プロトタイピング、テストから本番展開、モニタリングまで。
+
+
 **Chatbots**
- * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 バージョン
- * [FirewaLLM](https://github.com/ysy1216/firewallm) - FirewaLLMを呼び出すことで、ユーザーは大規模なモデルの正確性を確保しながら、それとのやり取り時のプライバシー漏洩のリスクを大幅に減らすことができます。私たちはFirewallLLMがプライバシー保護されたChatGPTインタラクションプラットフォームであると考えています。
+ * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - Langchain-Chatchat（元Langchain-ChatGLM）は、LangchainとChatGLMなどの言語モデルを利用したローカルな知識ベースの質問応答アプリです。
+ * [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robotは、シンプルで柔軟でエレガントな中国語音声対話ロボット/スマートスピーカープロジェクトであり、ChatGPTのマルチターン対話能力をサポートしています。また、脳機インタラクションをサポートする最初のオープンソーススマートスピーカープロジェクトかもしれません。
+ * [autogen](https://github.com/microsoft/autogen) - 次世代の大規模言語モデルアプリケーションを有効にする。私たちのDiscordに参加してください：https://discord.gg/pAbnFJrkgZ
 
 
 **Browser-extensions**
- * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
-GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
- * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// Agents System/自己決定 |クラスChatGptプラグインシステム| Gpt-3.5/Gpt-4 |アシスタント |📱クロスプラットフォーム|🦾非同期|🔌プラグインシステム
+ * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - ChatGPT APIに基づくテキスト翻訳、テキストの改善、文法修正のBobプラグインで、バベルの塔を必要としない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0のライセンスに基づいています。
 
 
-**Unity**
- * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - Unityを使用してAIチャット関連の機能を実現します。現在、このライブラリにはchatgpt、chatglmなどの大規模言語モデルのAPI呼び出しのコード実装が含まれており、また、Microsoft AzureおよびBaidu AIの音声サービス機能も実装されています。音声サービスはすべてWeb APIを使用しており、Windows/WebGL/Androidなどのプラットフォームをサポートしています。
+**NLP**
+ * [one-api](https://github.com/songquanpeng/one-api) - OpenAIのキー管理および再配布システムは、Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑、および腾讯混元をサポートしています。これは、二次的な配布管理キーに使用できる単一のAPIを使用しており、英語のUIを備えています。Dockerイメージがパッケージ化され、ワンクリックでデプロイできるため、すぐに使用することができます。
 
 
-_Updated on November 07, 2023_ (A total of 1166 repositories listed.)
+**Openai**
+ * [siyuan](https://github.com/siyuan-note/siyuan) - プライバシー重視、セルフホスト型、完全オープンソースの個人向け知識管理ソフトウェア。TypescriptとGolangで書かれています。
+
+
+**Others**
+ * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - vite+vue3+ginをベースにした開発基盤プラットフォーム（TS、JSの混在をサポート）、jwt認証、権限管理、ダイナミックルーティング、表示/非表示可能なコンポーネント、ページネーションのラッピング、マルチログインのインターセプト、リソース権限、アップロード/ダウンロード、コードジェネレータ、フォームジェネレータ、chatGPT自動テーブル検索など、開発に必要な機能を統合しています。
+ * [LMFlow](https://github.com/optimalscale/lmflow) - 大規模な基盤モデルの微調整と推論のための拡張可能なツールキット。すべてのための大規模なモデル。
+
+
+_Updated on November 08, 2023_ (A total of 1176 repositories listed.)
 
 ## Table of contents
 
@@ -162,6 +175,8 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ChatGPT の Prompt のサンプルです。
  * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分類されたChatGPTの中国語ガイド全集。
  * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - aiprmコミュニティからの2000以上のChatGPTのプロンプトを使用して、GPT3.5のAPIを使って中国語に翻訳しました。
+ * [botpress](https://github.com/botpress/botpress) - GPT/LLMエージェントを構築・展開するためのオープンソースハブ ⚡️
+ * [promptflow](https://github.com/microsoft/promptflow) - 高品質なLLMアプリを構築します - プロトタイピング、テストから本番展開、モニタリングまで。
 
 
 ## Chatbots
@@ -313,6 +328,9 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - ChatGPTを使用して、YouTube動画の内容を要約するために設計されたTelegramボット。
  * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 バージョン
  * [FirewaLLM](https://github.com/ysy1216/firewallm) - FirewaLLMを呼び出すことで、ユーザーは大規模なモデルの正確性を確保しながら、それとのやり取り時のプライバシー漏洩のリスクを大幅に減らすことができます。私たちはFirewallLLMがプライバシー保護されたChatGPTインタラクションプラットフォームであると考えています。
+ * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - Langchain-Chatchat（元Langchain-ChatGLM）は、LangchainとChatGLMなどの言語モデルを利用したローカルな知識ベースの質問応答アプリです。
+ * [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robotは、シンプルで柔軟でエレガントな中国語音声対話ロボット/スマートスピーカープロジェクトであり、ChatGPTのマルチターン対話能力をサポートしています。また、脳機インタラクションをサポートする最初のオープンソーススマートスピーカープロジェクトかもしれません。
+ * [autogen](https://github.com/microsoft/autogen) - 次世代の大規模言語モデルアプリケーションを有効にする。私たちのDiscordに参加してください：https://discord.gg/pAbnFJrkgZ
 
 
 ## Browser-extensions
@@ -454,9 +472,9 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - 🤗 GPT4とプラグインを使用したいですかが、月額$20を支払いたくありませんか？ これが解決策です！ このリポジトリを使用すると、プラグイン付きの無料のChatGPTのクローンを利用できます。
  * [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - Leanでの定理証明のためのChatGPTプラグイン
  * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 一つのページにまとめられた、最も包括的なChatGPTプラグインのリスト！
- * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
-GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
+ * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキストGPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
  * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// Agents System/自己決定 |クラスChatGptプラグインシステム| Gpt-3.5/Gpt-4 |アシスタント |📱クロスプラットフォーム|🦾非同期|🔌プラグインシステム
+ * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - ChatGPT APIに基づくテキスト翻訳、テキストの改善、文法修正のBobプラグインで、バベルの塔を必要としない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0のライセンスに基づいています。
 
 
 ## CLIs
@@ -763,6 +781,7 @@ GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキ�
  * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - ChatGPTを使用して、Markdownファイルを複数の言語に自動翻訳します。
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - Azureで実行されるRAGパターンのためのソリューションアクセラレーターで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。これには、最も一般的な要件とベストプラクティスが含まれています。
  * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - ChatGPTを使用して、個別に設定したRSSフィードを要約するChatGPTを使用して、個別に設定したRSSフィードを要約します。
+ * [one-api](https://github.com/songquanpeng/one-api) - OpenAIのキー管理および再配布システムは、Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑、および腾讯混元をサポートしています。これは、二次的な配布管理キーに使用できる単一のAPIを使用しており、英語のUIを備えています。Dockerイメージがパッケージ化され、ワンクリックでデプロイできるため、すぐに使用することができます。
 
 
 ## Langchain
@@ -965,6 +984,7 @@ GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキ�
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI テンプレート - 最新のオープンソース ChatGPT UI AI テンプレート＆React、NextJS、Chakra UI のスターターキット
  * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - JSONファイルからChatGPTのデータエクスポート全体を簡単に抽出し、整形されたマークダウンファイルに変換するスクリプト。
  * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - Azure OpenAIを使用して独自のChatGPTポータルを作成します。
+ * [siyuan](https://github.com/siyuan-note/siyuan) - プライバシー重視、セルフホスト型、完全オープンソースの個人向け知識管理ソフトウェア。TypescriptとGolangで書かれています。
 
 
 ## Others
@@ -1272,5 +1292,7 @@ GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキ�
  * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - これはStable Diffusion web UIでChatGPTを使用するためのリポジトリです。
  * [pictureChange](https://github.com/yanyutin753/picturechange) - chatgpt-on-wechatプロジェクトのプラグインに適用されます。
  * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - チャットGPTエージェントによるゲームデモ
+ * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - vite+vue3+ginをベースにした開発基盤プラットフォーム（TS、JSの混在をサポート）、jwt認証、権限管理、ダイナミックルーティング、表示/非表示可能なコンポーネント、ページネーションのラッピング、マルチログインのインターセプト、リソース権限、アップロード/ダウンロード、コードジェネレータ、フォームジェネレータ、chatGPT自動テーブル検索など、開発に必要な機能を統合しています。
+ * [LMFlow](https://github.com/optimalscale/lmflow) - 大規模な基盤モデルの微調整と推論のための拡張可能なツールキット。すべてのための大規模なモデル。
 
 
