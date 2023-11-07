@@ -15,21 +15,35 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [botpress](https://github.com/botpress/botpress) - 开源中心,用于构建和部署GPT/LLM代理
+ * [promptflow](https://github.com/microsoft/promptflow) - 建立高质量的LLM应用程序 - 从原型,测试到生产部署和监控.
+
+
 **Chatbots**
- * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - 聊天GPT Web Nuxt 3 视频 3 版本
- * [FirewaLLM](https://github.com/ysy1216/firewallm) - 通过调用FirewallLLM,用户可以确保大模型的准确性,同时大大减少与其交互时隐私泄漏的风险.我们认为FirewallLLM是一个隐私保护的chatgpt交互平台.
+ * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - 基于Langchain 与 ChatGLM 等语言模型的本地知识库问答.
+ * [wukong-robot](https://github.com/wzpan/wukong-robot) -  wukong-robot 是一个简单,灵活,优雅的中文语音对话机器人/智能音箱项目,支持ChatGPT多轮对话能力,还可能是首个支持脑机交互的开源智能音箱项目.
+ * [autogen](https://github.com/microsoft/autogen) - 启用下一代大型语言模型应用程序.加入我们的Discord: https://discord.gg/pAbnFJrkgZ
 
 
 **Browser-extensions**
- * [gp.nvim](https://github.com/robitx/gp.nvim) - 创建一个新的AI插件.
- * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机///代理系统/自决 类聊天Gpt插件系统 Gpt-3.5/Gpt-4 助理 跨平台 异步 插件系统
+ * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于ChatGPT API 的文本翻译,文本色,语法纠错Bob 插件,让我们一起迎接不需要巴别塔的新时代!
 
 
-**Unity**
- * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity实现AI聊天相关功能. 目前本库包含对chatgpt、chatglm等大语言模型的API调用代码实现以及实现了微软Azure以及百度AI的语音服务功能,语音服务均采用web api实现,支持Windows/WebGL/Android等平台
+**NLP**
+ * [one-api](https://github.com/songquanpeng/one-api) - 开放AI接口管理与分发系统,支持Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心言、讯飞星火认知、阿里通义千问、360 智脑以及讯混元,可用于二次分发管理键,仅单可执行文件,已打包好Docker镜像,一键部署,开箱即用.开放AI关键管理与重新分发系统,使用所有LLM的单一API,并具有英语UI.
 
 
-_Updated on November 07, 2023_ (A total of 1166 repositories listed.)
+**Openai**
+ * [siyuan](https://github.com/siyuan-note/siyuan) - 一个以隐私为首的,自主托管的,全开源的个人知识管理软件,
+
+
+**Others**
+ * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台 (支持TS,JS混用),集成jwt鉴权,权限管理,动态路由,显隐可控组件,分页封装,多点登录拦截,资源权限,上传下载,代码生成器,表单生成器,chatGPT自动查表等开发必备功能.
+ * [LMFlow](https://github.com/optimalscale/lmflow) - 一个可扩展的工具包,用于精细调整和推断大型基础模型.
+
+
+_Updated on November 08, 2023_ (A total of 1176 repositories listed.)
 
 ## Table of contents
 
@@ -161,6 +175,8 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - 这是ChatGPT的提示示例。
  * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分门别类的 ChatGPT 中文引导语大全。
  * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - 来自aiprm社区的两千多个ChatGPT提示，使用GPT3.5的API完成的中文翻译
+ * [botpress](https://github.com/botpress/botpress) - 构建和部署GPT/LLM代理的开源中心 ⚡️
+ * [promptflow](https://github.com/microsoft/promptflow) - 构建高质量的LLM应用程序-从原型设计、测试到生产部署和监控。
 
 
 ## Chatbots
@@ -310,9 +326,11 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [plotai](https://github.com/mljar/plotai) - PlotAI - 你的终极绘图助手！📊🤖 使用ChatGPT-3.5在Python和Matplotlib中直接创建绘图，无论是在Python脚本还是笔记本中。
  * [TianMu](https://github.com/openjarvisai/tianmu) - 天幕：一个现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个开源的大模型客户端！
  * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - Telegram机器人使用ChatGPT来总结YouTube视频内容。
- * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 版本
-ChatGPT Web Nuxt 3 Vue 3 版本
+ * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 版本ChatGPT Web Nuxt 3 Vue 3 版本
  * [FirewaLLM](https://github.com/ysy1216/firewallm) - 通过调用FirewaLLM，用户可以在与大型模型交互时确保准确性，同时大大降低隐私泄露的风险。我们相信FirewallLLM是一个保护隐私的ChatGPT交互平台。
+ * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）是一款基于Langchain和ChatGLM等语言模型的本地知识库问答应用程序。
+ * [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
+ * [autogen](https://github.com/microsoft/autogen) - 启用下一代大型语言模型应用。加入我们的Discord：https://discord.gg/pAbnFJrkgZ
 
 
 ## Browser-extensions
@@ -456,6 +474,7 @@ ChatGPT Web Nuxt 3 Vue 3 版本
  * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 最全面的ChatGPT插件列表，全部在一个页面上！
  * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AI插件 ～ OpenAI的ChatGPT和Copilot和语音转文字
  * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// 代理系统/自决策 |类 ChatGpt 插件系统| Gpt-3.5/Gpt-4 |助手 | 📱 跨平台 | 🦾 异步 | 🔌 插件系统
+ * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可证授权。
 
 
 ## CLIs
@@ -762,6 +781,7 @@ ChatGPT Web Nuxt 3 Vue 3 版本
  * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - 一个在Azure上运行的RAG模式的解决方案加速器，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的需求和最佳实践。
  * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - 使用ChatGPT来总结您的个性化RSS订阅
+ * [one-api](https://github.com/songquanpeng/one-api) - OpenAI接口管理和分发系统，支持Azure、Anthropic Claude、Google PaLM 2、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI key管理和重新分发系统，使用单个API适用于所有LLMs，并具有英文用户界面。
 
 
 ## Langchain
@@ -964,6 +984,7 @@ ChatGPT Web Nuxt 3 Vue 3 版本
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI模板 - 最时尚的开源ChatGPT UI AI模板和React、NextJS、Chakra UI的入门套件
  * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - 一个脚本，可以轻松地从JSON文件中提取您的整个ChatGPT数据导出，并将其转换为格式良好的markdown文件。
  * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - 使用Azure OpenAI创建您自己的ChatGPT门户
+ * [siyuan](https://github.com/siyuan-note/siyuan) - 一个以隐私为先、自托管、完全开源的个人知识管理软件，使用TypeScript和Golang编写。
 
 
 ## Others
@@ -1271,5 +1292,7 @@ ChatGPT Web Nuxt 3 Vue 3 版本
  * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - 这是一个在稳定扩散网络界面中使用ChatGPT的存储库。
  * [pictureChange](https://github.com/yanyutin753/picturechange) - 适用于chatgpt-on-wechat项目插件
  * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - 一个由ChatGPT代理驱动的游戏演示
+ * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
+ * [LMFlow](https://github.com/optimalscale/lmflow) - 一个可扩展的工具包，用于对大型基础模型进行微调和推理。适用于所有大型模型。
 
 

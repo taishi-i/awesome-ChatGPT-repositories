@@ -15,21 +15,35 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [botpress](https://github.com/botpress/botpress) - 建立和部署GPT/LLM代理的開放源碼中心️
+ * [promptflow](https://github.com/microsoft/promptflow) - 建立高品質的LLM應用程式 - 從原型,測試到生產部署和監控.
+
+
 **Chatbots**
- * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - 網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路網路
- * [FirewaLLM](https://github.com/ysy1216/firewallm) - 我們相信 FirewallLLM是一個保護隱私的chatgpt互動平台.
+ * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - 基于 Langchain 與 ChatGLM 等語言模型的本地知識庫問答.
+ * [wukong-robot](https://github.com/wzpan/wukong-robot) -  wukong-robot 是一個簡單,靈活,優雅的中文語音對話機/智能音箱項目,支持ChatGPT多輪對話能力,還可能是首個支持腦機交互的開源智能音箱項目.
+ * [autogen](https://github.com/microsoft/autogen) - 啟用下一代大型語言模型應用程式.
 
 
 **Browser-extensions**
- * [gp.nvim](https://github.com/robitx/gp.nvim) - 該網站的使用者必須在此處查看:
- * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型機///代理系統/自決程序. 類聊天Gpt插件系統.
+ * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于ChatGPT API的文字翻譯,文字色,語法纠错Bob插件,让我们一起迎接不需要巴别塔的新时代!
 
 
-**Unity**
- * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity实现AI聊天相關功能. 目前本庫包含對chatgpt、chatglm等大語言模型的api调用代碼实现以及实现了微軟Azure以及百度AI的语音服務功能,语音服务均采用web api实现,支持Windows/WebGL/Android等平台
+**NLP**
+ * [one-api](https://github.com/songquanpeng/one-api) - 支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及讯混元,可用于二次分布式管理密钥,仅单可执行文件,已打包好 Docker镜像,一键部署,开箱即用.
 
 
-_Updated on November 07, 2023_ (A total of 1166 repositories listed.)
+**Openai**
+ * [siyuan](https://github.com/siyuan-note/siyuan) - 提供了一個全方位的個人知識管理軟體,
+
+
+**Others**
+ * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的開發基礎平台 ((支持TS,JS混用),集成jwt鉴权,權限管理,動態路由,顯隱可控组件,分頁封裝,多點登录拦截,資源權限,上傳下載,代碼生成器,表單生成器,chatGPT自動查表等開發必備功能.
+ * [LMFlow](https://github.com/optimalscale/lmflow) - 很大的基礎模型的細節調和推論.
+
+
+_Updated on November 08, 2023_ (A total of 1176 repositories listed.)
 
 ## Table of contents
 
@@ -161,6 +175,8 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - 這是ChatGPT的提示示例。ChatGPT的提示示例。
  * [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - 分門別類的 ChatGPT 中文引導語大全。
  * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - 來自aiprm社區的兩千多個ChatGPT提示，使用GPT3.5的API完成的中文翻譯
+ * [botpress](https://github.com/botpress/botpress) - 建立和部署GPT/LLM代理的開源中心 ⚡️
+ * [promptflow](https://github.com/microsoft/promptflow) - 建立高品質的LLM應用程式 - 從原型製作、測試到生產部署和監控。
 
 
 ## Chatbots
@@ -312,6 +328,9 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - 使用ChatGPT設計的Telegram機器人，用於總結YouTube視頻內容。
  * [ChatGPT-Nuxt](https://github.com/hylarucoder/chatgpt-nuxt) - ChatGPT Web Nuxt 3 Vue 3 版本
  * [FirewaLLM](https://github.com/ysy1216/firewallm) - 通過使用FirewaLLM，用戶在與大型模型互動時可以確保其準確性，同時大大降低隱私洩露的風險。我們相信FirewallLLM是一個保護隱私的ChatGPT互動平台。
+ * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）是一款基于Langchain和ChatGLM等语言模型的本地知识库问答应用程序。
+ * [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一個簡單、靈活、優雅的中文語音對話機器人/智能音箱項目，支持ChatGPT多輪對話能力，還可能是首個支持腦機交互的開源智能音箱項目。
+ * [autogen](https://github.com/microsoft/autogen) - 啟用下一代大型語言模型應用程式。加入我們的Discord：https://discord.gg/pAbnFJrkgZ
 
 
 ## Browser-extensions
@@ -455,6 +474,7 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - 最全面的ChatGPT插件列表，全部在一個頁面上！
  * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AI 插件 〜 OpenAI 的 ChatGPT＆Copilot＆語音轉文字
  * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型機 /// Agents System/自決策 |類 ChatGpt 插件系統| Gpt-3.5/Gpt-4 |助手 | 📱 跨平台 | 🦾 非同步 | 🔌 插件系統
+ * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基於 ChatGPT API 的文本翻譯、文本潤色、語法糾錯 Bob 插件，讓我們一起迎接不需要巴別塔的新時代！根據 CC BY-NC-SA 4.0 授權。
 
 
 ## CLIs
@@ -761,6 +781,7 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用 ChatGPT 自動將 Markdown 文件批量翻譯為多語言 | Auto translate Markdown 文件 to 多語言 using ChatGPT
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - 一個在Azure上運行的RAG模式解決方案加速器，使用Azure認知搜索進行檢索，並使用Azure OpenAI大型語言模型來提供ChatGPT風格和問答體驗。這包括最常見的需求和最佳實踐。
  * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - 使用ChatGPT來總結您的個人化RSS訂閱。
+ * [one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理和分發系統，支援 Azure、Anthropic Claude、Google PaLM 2、智譜 ChatGLM、百度文心一言、訊飛星火認知、阿里通義千問、360 智腦以及騰訊混元，可用於二次分發管理金鑰，僅單可執行檔，已打包好 Docker 鏡像，一鍵部署，開箱即用。OpenAI 金鑰管理和重新分發系統，使用單一 API 供所有 LLMs 使用，並具有英文使用者介面。
 
 
 ## Langchain
@@ -963,6 +984,7 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI 模板 - 最時尚的開源 ChatGPT UI AI 模板和 React、NextJS 及 Chakra UI 的入門套件
  * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - 一個腳本，可以輕鬆從JSON文件中提取整個ChatGPT數據導出，並將其轉換為格式整齊的markdown文件。
  * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - 使用Azure OpenAI創建您自己的ChatGPT門戶
+ * [siyuan](https://github.com/siyuan-note/siyuan) - 一個以隱私為先、自主託管、完全開源的個人知識管理軟體，使用 TypeScript 和 Golang 編寫。
 
 
 ## Others
@@ -1270,5 +1292,7 @@ _Updated on November 07, 2023_ (A total of 1166 repositories listed.)
  * [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - 這是在Stable Diffusion web UI中使用ChatGPT的儲存庫。
  * [pictureChange](https://github.com/yanyutin753/picturechange) - 適用於chatgpt-on-wechat專案插件
  * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - 一個由ChatGPT代理驅動的遊戲演示
+ * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基於vite+vue3+gin搭建的開發基礎平台（支持TS,JS混用），集成jwt鑒權，權限管理，動態路由，顯隱可控組件，分頁封裝，多點登錄攔截，資源權限，上傳下載，代碼生成器，表單生成器，chatGPT自動查表等開發必備功能。
+ * [LMFlow](https://github.com/optimalscale/lmflow) - 一個可擴展的工具包，用於對大型基礎模型進行微調和推論。為所有人提供大型模型。
 
 
