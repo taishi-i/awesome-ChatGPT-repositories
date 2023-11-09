@@ -16,34 +16,28 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [botpress](https://github.com/botpress/botpress) - 开源中心,用于构建和部署GPT/LLM代理
- * [promptflow](https://github.com/microsoft/promptflow) - 建立高质量的LLM应用程序 - 从原型,测试到生产部署和监控.
+ * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 让我们开始使用生成AI的创建.
 
 
-**Chatbots**
- * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - 基于Langchain 与 ChatGLM 等语言模型的本地知识库问答.
- * [wukong-robot](https://github.com/wzpan/wukong-robot) -  wukong-robot 是一个简单,灵活,优雅的中文语音对话机器人/智能音箱项目,支持ChatGPT多轮对话能力,还可能是首个支持脑机交互的开源智能音箱项目.
- * [autogen](https://github.com/microsoft/autogen) - 启用下一代大型语言模型应用程序.加入我们的Discord: https://discord.gg/pAbnFJrkgZ
-
-
-**Browser-extensions**
- * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于ChatGPT API 的文本翻译,文本色,语法纠错Bob 插件,让我们一起迎接不需要巴别塔的新时代!
+**CLIs**
+ * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - 音频/视频和聊天学习内容的AI总结:Bilibili. YouTube. 微博. 推特. 微博. 谷歌. 驱动器. 本地文件. 网站. 播客. 会议. 讲座. 音频内容:AI 一键总结.
+ * [open-interpreter](https://github.com/killianlucas/open-interpreter) - 在您的终端中运行本地OpenAI的代码解释器
 
 
 **NLP**
- * [one-api](https://github.com/songquanpeng/one-api) - 开放AI接口管理与分发系统,支持Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心言、讯飞星火认知、阿里通义千问、360 智脑以及讯混元,可用于二次分发管理键,仅单可执行文件,已打包好Docker镜像,一键部署,开箱即用.开放AI关键管理与重新分发系统,使用所有LLM的单一API,并具有英语UI.
-
-
-**Openai**
- * [siyuan](https://github.com/siyuan-note/siyuan) - 一个以隐私为首的,自主托管的,全开源的个人知识管理软件,
+ * [Baichuan2](https://github.com/baichuan-inc/baichuan2) - 一系列由白川智能技术开发的大型语言模型
+ * [marqo](https://github.com/marqo-ai/marqo) - 载体搜索人类.也可在云上找到 - cloud.marqo.ai
+ * [khoj](https://github.com/khoj-ai/khoj) - 您的第二个大脑的AI副驾驶员. 搜索和聊天您的个人知识库,在线或离线
+ * [Otter](https://github.com/luodian/otter) -  Otter 是基于OpenFlamingo (DeepMind的Flamingo的开源版本) 的多模式模型,在MIMIC-IT上接受培训,并展示了改进的命令跟踪和上下文学习能力.
+ * [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - 简称RWKV,是一个完全自动化的RWKV管理和启动工具,只有8MB.并且提供与OpenAI API兼容的界面.RWKV是一个大型语言模型,完全是开源的,可用于商业用途.
 
 
 **Others**
- * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台 (支持TS,JS混用),集成jwt鉴权,权限管理,动态路由,显隐可控组件,分页封装,多点登录拦截,资源权限,上传下载,代码生成器,表单生成器,chatGPT自动查表等开发必备功能.
- * [LMFlow](https://github.com/optimalscale/lmflow) - 一个可扩展的工具包,用于精细调整和推断大型基础模型.
+ * [reloadium](https://github.com/reloadware/reloadium) - 热重载,配置文件和AI调试
+ * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - 聊天GPT Java SDK、支持GPT3.5、GPT4 API、开箱即用。
 
 
-_Updated on November 08, 2023_ (A total of 1176 repositories listed.)
+_Updated on November 10, 2023_ (A total of 1186 repositories listed.)
 
 ## Table of contents
 
@@ -177,6 +171,7 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - 来自aiprm社区的两千多个ChatGPT提示，使用GPT3.5的API完成的中文翻译
  * [botpress](https://github.com/botpress/botpress) - 构建和部署GPT/LLM代理的开源中心 ⚡️
  * [promptflow](https://github.com/microsoft/promptflow) - 构建高质量的LLM应用程序-从原型设计、测试到生产部署和监控。
+ * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12个课程，开始使用生成式人工智能构建  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 
 ## Chatbots
@@ -574,6 +569,8 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [sparrow](https://github.com/soulteary/sparrow) - ChatGPT风格的客户端兼容后端服务器，开源实现。
  * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - 使用ChatGPT API将Markdown文档翻译为CLI
  * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style响应式聊天Web UI客户端（GUI）用于Ollama 🦙
+ * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · 一键AI摘要音视频和聊天学习内容：哔哩哔哩 | YouTube | 推特 | 抖音 | 快手 | 百度网盘 | 谷歌云盘 | 本地文件 | 网站 | 播客 | 会议 | 讲座等。音视频内容AI一键总结和对话：哔哩哔哩 | YouTube | 推特 | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | 网页 | 播客 | 会议 | 讲座等（原BiliGPT省流神器和AI课代表）。
+ * [open-interpreter](https://github.com/killianlucas/open-interpreter) - 在您的终端中运行的OpenAI代码解释器
 
 
 ## Reimplementations
@@ -782,6 +779,11 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - 一个在Azure上运行的RAG模式的解决方案加速器，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的需求和最佳实践。
  * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - 使用ChatGPT来总结您的个性化RSS订阅
  * [one-api](https://github.com/songquanpeng/one-api) - OpenAI接口管理和分发系统，支持Azure、Anthropic Claude、Google PaLM 2、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI key管理和重新分发系统，使用单个API适用于所有LLMs，并具有英文用户界面。
+ * [Baichuan2](https://github.com/baichuan-inc/baichuan2) - 百川智能科技开发的一系列大型语言模型
+ * [marqo](https://github.com/marqo-ai/marqo) - 人类的向量搜索。也可在云端使用 - cloud.marqo.ai
+ * [khoj](https://github.com/khoj-ai/khoj) - 一个AI副驾驶员，为你的第二大脑。在线或离线搜索和与你的个人知识库聊天。
+ * [Otter](https://github.com/luodian/otter) - 🦦 Otter是基于OpenFlamingo（DeepMind的Flamingo的开源版本）的多模态模型，经过MIMIC-IT训练，展示了改进的指令跟随和上下文学习能力。
+ * [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - 一个RWKV管理和启动工具，完全自动化，仅8MB。并提供与OpenAI API兼容的接口。RWKV是一个完全开源且可用于商业用途的大型语言模型。
 
 
 ## Langchain
@@ -1294,5 +1296,7 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - 一个由ChatGPT代理驱动的游戏演示
  * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
  * [LMFlow](https://github.com/optimalscale/lmflow) - 一个可扩展的工具包，用于对大型基础模型进行微调和推理。适用于所有大型模型。
+ * [reloadium](https://github.com/reloadware/reloadium) - 热重载、性能分析和人工智能调试的Python
+ * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、GPT4 API。开箱即用。
 
 
