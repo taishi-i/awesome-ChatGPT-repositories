@@ -16,34 +16,28 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [botpress](https://github.com/botpress/botpress) - GPT/LLMエージェントを構築・展開するためのオープンソースハブ ⚡️
- * [promptflow](https://github.com/microsoft/promptflow) - 高品質なLLMアプリを構築します - プロトタイピング、テストから本番展開、モニタリングまで。
+ * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12のレッスン、ジェネレーティブAIを使ってビルディングを始めましょう 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 
-**Chatbots**
- * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - Langchain-Chatchat（元Langchain-ChatGLM）は、LangchainとChatGLMなどの言語モデルを利用したローカルな知識ベースの質問応答アプリです。
- * [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robotは、シンプルで柔軟でエレガントな中国語音声対話ロボット/スマートスピーカープロジェクトであり、ChatGPTのマルチターン対話能力をサポートしています。また、脳機インタラクションをサポートする最初のオープンソーススマートスピーカープロジェクトかもしれません。
- * [autogen](https://github.com/microsoft/autogen) - 次世代の大規模言語モデルアプリケーションを有効にする。私たちのDiscordに参加してください：https://discord.gg/pAbnFJrkgZ
-
-
-**Browser-extensions**
- * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - ChatGPT APIに基づくテキスト翻訳、テキストの改善、文法修正のBobプラグインで、バベルの塔を必要としない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0のライセンスに基づいています。
+**CLIs**
+ * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · 音声/ビデオとチャットのためのワンクリックAI要約、学習コンテンツ付き：Bilibili | YouTube | ツイート | TikTok | Dropbox | Google Drive | ローカルファイル | ウェブサイト | ポッドキャスト | ミーティング | 講義など。音声/ビデオコンテンツのAI要約と対話：哔哩哔哩 | YouTube | ツイッター | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | ウェブサイト | ポッドキャスト | ミーティング | ローカルファイルなど（元BiliGPT省流神器＆AI代表）。
+ * [open-interpreter](https://github.com/killianlucas/open-interpreter) - ローカルで実行されるターミナル上のOpenAIのコードインタプリター
 
 
 **NLP**
- * [one-api](https://github.com/songquanpeng/one-api) - OpenAIのキー管理および再配布システムは、Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑、および腾讯混元をサポートしています。これは、二次的な配布管理キーに使用できる単一のAPIを使用しており、英語のUIを備えています。Dockerイメージがパッケージ化され、ワンクリックでデプロイできるため、すぐに使用することができます。
-
-
-**Openai**
- * [siyuan](https://github.com/siyuan-note/siyuan) - プライバシー重視、セルフホスト型、完全オープンソースの個人向け知識管理ソフトウェア。TypescriptとGolangで書かれています。
+ * [Baichuan2](https://github.com/baichuan-inc/baichuan2) - 百川智能科技开发的一系列大型语言模型
+ * [marqo](https://github.com/marqo-ai/marqo) - ヒト向けのベクトル検索。クラウド上でも利用可能 - cloud.marqo.ai
+ * [khoj](https://github.com/khoj-ai/khoj) - 第2の脳のためのAIコパイロット。個人の知識ベースをオンラインまたはオフラインで検索し、チャットします。
+ * [Otter](https://github.com/luodian/otter) - 🦦 オッターは、MIMIC-ITで訓練され、改善された指示の追跡能力と文脈に即した学習能力を示す、OpenFlamingo（DeepMindのFlamingoのオープンソース版）に基づくマルチモーダルモデルです。
+ * [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - RWKVの管理およびスタートアップツールで、完全自動化であり、わずか8MBです。また、OpenAI APIと互換性のあるインターフェースを提供します。RWKVは完全にオープンソースであり、商用利用が可能な大規模な言語モデルです。
 
 
 **Others**
- * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - vite+vue3+ginをベースにした開発基盤プラットフォーム（TS、JSの混在をサポート）、jwt認証、権限管理、ダイナミックルーティング、表示/非表示可能なコンポーネント、ページネーションのラッピング、マルチログインのインターセプト、リソース権限、アップロード/ダウンロード、コードジェネレータ、フォームジェネレータ、chatGPT自動テーブル検索など、開発に必要な機能を統合しています。
- * [LMFlow](https://github.com/optimalscale/lmflow) - 大規模な基盤モデルの微調整と推論のための拡張可能なツールキット。すべてのための大規模なモデル。
+ * [reloadium](https://github.com/reloadware/reloadium) - ホットリローディング、プロファイリング、およびPythonのAIデバッグ
+ * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。GPT3.5、GPT4 APIに対応しています。すぐに使用できます。
 
 
-_Updated on November 08, 2023_ (A total of 1176 repositories listed.)
+_Updated on November 10, 2023_ (A total of 1186 repositories listed.)
 
 ## Table of contents
 
@@ -177,6 +171,7 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - aiprmコミュニティからの2000以上のChatGPTのプロンプトを使用して、GPT3.5のAPIを使って中国語に翻訳しました。
  * [botpress](https://github.com/botpress/botpress) - GPT/LLMエージェントを構築・展開するためのオープンソースハブ ⚡️
  * [promptflow](https://github.com/microsoft/promptflow) - 高品質なLLMアプリを構築します - プロトタイピング、テストから本番展開、モニタリングまで。
+ * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12のレッスン、ジェネレーティブAIを使ってビルディングを始めましょう 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 
 ## Chatbots
@@ -574,6 +569,8 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [sparrow](https://github.com/soulteary/sparrow) - ChatGPTスタイルのクライアント互換のバックエンドサーバー、オープンソースの実装。
  * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - ChatGPT APIを使用してMarkdownドキュメントを翻訳するためのCLI
  * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - Ollama 🦙のためのChatGPTスタイルの応答性のあるチャットWeb UIクライアント（GUI）
+ * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · 音声/ビデオとチャットのためのワンクリックAI要約、学習コンテンツ付き：Bilibili | YouTube | ツイート | TikTok | Dropbox | Google Drive | ローカルファイル | ウェブサイト | ポッドキャスト | ミーティング | 講義など。音声/ビデオコンテンツのAI要約と対話：哔哩哔哩 | YouTube | ツイッター | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | ウェブサイト | ポッドキャスト | ミーティング | ローカルファイルなど（元BiliGPT省流神器＆AI代表）。
+ * [open-interpreter](https://github.com/killianlucas/open-interpreter) - ローカルで実行されるターミナル上のOpenAIのコードインタプリター
 
 
 ## Reimplementations
@@ -782,6 +779,11 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - Azureで実行されるRAGパターンのためのソリューションアクセラレーターで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。これには、最も一般的な要件とベストプラクティスが含まれています。
  * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - ChatGPTを使用して、個別に設定したRSSフィードを要約するChatGPTを使用して、個別に設定したRSSフィードを要約します。
  * [one-api](https://github.com/songquanpeng/one-api) - OpenAIのキー管理および再配布システムは、Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑、および腾讯混元をサポートしています。これは、二次的な配布管理キーに使用できる単一のAPIを使用しており、英語のUIを備えています。Dockerイメージがパッケージ化され、ワンクリックでデプロイできるため、すぐに使用することができます。
+ * [Baichuan2](https://github.com/baichuan-inc/baichuan2) - 百川智能科技开发的一系列大型语言模型
+ * [marqo](https://github.com/marqo-ai/marqo) - ヒト向けのベクトル検索。クラウド上でも利用可能 - cloud.marqo.ai
+ * [khoj](https://github.com/khoj-ai/khoj) - 第2の脳のためのAIコパイロット。個人の知識ベースをオンラインまたはオフラインで検索し、チャットします。
+ * [Otter](https://github.com/luodian/otter) - 🦦 オッターは、MIMIC-ITで訓練され、改善された指示の追跡能力と文脈に即した学習能力を示す、OpenFlamingo（DeepMindのFlamingoのオープンソース版）に基づくマルチモーダルモデルです。
+ * [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - RWKVの管理およびスタートアップツールで、完全自動化であり、わずか8MBです。また、OpenAI APIと互換性のあるインターフェースを提供します。RWKVは完全にオープンソースであり、商用利用が可能な大規模な言語モデルです。
 
 
 ## Langchain
@@ -1294,5 +1296,7 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - チャットGPTエージェントによるゲームデモ
  * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - vite+vue3+ginをベースにした開発基盤プラットフォーム（TS、JSの混在をサポート）、jwt認証、権限管理、ダイナミックルーティング、表示/非表示可能なコンポーネント、ページネーションのラッピング、マルチログインのインターセプト、リソース権限、アップロード/ダウンロード、コードジェネレータ、フォームジェネレータ、chatGPT自動テーブル検索など、開発に必要な機能を統合しています。
  * [LMFlow](https://github.com/optimalscale/lmflow) - 大規模な基盤モデルの微調整と推論のための拡張可能なツールキット。すべてのための大規模なモデル。
+ * [reloadium](https://github.com/reloadware/reloadium) - ホットリローディング、プロファイリング、およびPythonのAIデバッグ
+ * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。GPT3.5、GPT4 APIに対応しています。すぐに使用できます。
 
 

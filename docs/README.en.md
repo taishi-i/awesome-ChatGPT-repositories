@@ -17,34 +17,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
- * [promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+ * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 
-**Chatbots**
- * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain 
- * [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 Wukong-robot is a simple, flexible, and elegant Chinese voice conversation robot/smart speaker project that supports ChatGPT's multi-turn conversation capability. It may also be the first open-source smart speaker project that supports brain-computer interaction.
- * [autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
-
-
-**Browser-extensions**
- * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - Bob plugin for text translation, text polishing, and grammar correction based on ChatGPT API, let's welcome a new era without the need for the Tower of Babel! Licensed under CC BY-NC-SA 4.0.
+**CLIs**
+ * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
+ * [open-interpreter](https://github.com/killianlucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 
 
 **NLP**
- * [one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
-
-
-**Openai**
- * [siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+ * [Baichuan2](https://github.com/baichuan-inc/baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
+ * [marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
+ * [khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
+ * [Otter](https://github.com/luodian/otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
+ * [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 
 
 **Others**
- * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - Development basic platform based on vite+vue3+gin (supporting mixed use of TS and JS), integrating jwt authentication, permission management, dynamic routing, controllable components, pagination encapsulation, multi-login interception, resource permissions, upload and download, code generator, form generator, chatGPT automatic table lookup and other essential development functions.
- * [LMFlow](https://github.com/optimalscale/lmflow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
+ * [reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
+ * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
 
 
-_Updated on November 08, 2023_ (A total of 1176 repositories listed.)
+_Updated on November 10, 2023_ (A total of 1186 repositories listed.)
 
 ## Table of contents
 
@@ -178,6 +172,7 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - Over 2,000 ChatGPT prompts from the aiprm community, translated into Chinese using the GPT3.5 API.
  * [botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
  * [promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+ * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 
 ## Chatbots
@@ -575,6 +570,8 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [sparrow](https://github.com/soulteary/sparrow) - ChatGPT Style client-compatible Backend Server, open source implementation.
  * [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - CLI to translate Markdown docs using ChatGPT API
  * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style Responsive Chat Web UI Client (GUI) for Ollama 🦙
+ * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
+ * [open-interpreter](https://github.com/killianlucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 
 
 ## Reimplementations
@@ -783,6 +780,11 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.
  * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - Using ChatGPT to summarize your personalized RSS feeds
  * [one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+ * [Baichuan2](https://github.com/baichuan-inc/baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
+ * [marqo](https://github.com/marqo-ai/marqo) - Vector search for humans. Also available on cloud - cloud.marqo.ai
+ * [khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
+ * [Otter](https://github.com/luodian/otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
+ * [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 
 
 ## Langchain
@@ -1295,5 +1297,7 @@ _Updated on November 08, 2023_ (A total of 1176 repositories listed.)
  * [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - A Game Demo Powered by ChatGPT Agents
  * [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - Development basic platform based on vite+vue3+gin (supporting mixed use of TS and JS), integrating jwt authentication, permission management, dynamic routing, controllable components, pagination encapsulation, multi-login interception, resource permissions, upload and download, code generator, form generator, chatGPT automatic table lookup and other essential development functions.
  * [LMFlow](https://github.com/optimalscale/lmflow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
+ * [reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
+ * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
 
 

@@ -2302,6 +2302,40 @@
                     "zh-hans": "构建高质量的LLM应用程序-从原型设计、测试到生产部署和监控。",
                     "zh-hant": "建立高品質的LLM應用程式 - 從原型製作、測試到生產部署和監控。"
                 }
+            },
+            "https://github.com/microsoft/generative-ai-for-beginners": {
+                "repository_name": "generative-ai-for-beginners",
+                "user_name": "microsoft",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+                "topics": [
+                    "ai",
+                    "azure",
+                    "chatgpt",
+                    "dall-e",
+                    "generative-ai",
+                    "generativeai",
+                    "gpt",
+                    "language-model",
+                    "llms",
+                    "openai",
+                    "prompt-engineering",
+                    "semantic-search",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+                    "ja": "12のレッスン、ジェネレーティブAIを使ってビルディングを始めましょう 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+                    "zh-hans": "12个课程，开始使用生成式人工智能构建  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+                    "zh-hant": "12堂課，開始使用生成式人工智慧建構  🔗 https://microsoft.github.io/generative-ai-for-beginners/"
+                }
             }
         },
         "Chatbots": {
@@ -10819,6 +10853,60 @@
                     "zh-hans": "ChatGPT-Style响应式聊天Web UI客户端（GUI）用于Ollama 🦙",
                     "zh-hant": "ChatGPT-風格的Ollama🦙響應式聊天網頁用戶界面客戶端（GUI）"
                 }
+            },
+            "https://github.com/jimmylv/bibigpt-v1": {
+                "repository_name": "BibiGPT-v1",
+                "user_name": "JimmyLv",
+                "language": "TypeScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)",
+                "topics": [
+                    "bilibili",
+                    "chatgpt",
+                    "gpt",
+                    "gpt-3",
+                    "openai",
+                    "youtube"
+                ],
+                "multilingual_descriptions": {
+                    "en": "BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)",
+                    "ja": "BibiGPT v1 · 音声/ビデオとチャットのためのワンクリックAI要約、学習コンテンツ付き：Bilibili | YouTube | ツイート | TikTok | Dropbox | Google Drive | ローカルファイル | ウェブサイト | ポッドキャスト | ミーティング | 講義など。音声/ビデオコンテンツのAI要約と対話：哔哩哔哩 | YouTube | ツイッター | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | ウェブサイト | ポッドキャスト | ミーティング | ローカルファイルなど（元BiliGPT省流神器＆AI代表）。",
+                    "zh-hans": "BibiGPT v1 · 一键AI摘要音视频和聊天学习内容：哔哩哔哩 | YouTube | 推特 | 抖音 | 快手 | 百度网盘 | 谷歌云盘 | 本地文件 | 网站 | 播客 | 会议 | 讲座等。音视频内容AI一键总结和对话：哔哩哔哩 | YouTube | 推特 | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | 网页 | 播客 | 会议 | 讲座等（原BiliGPT省流神器和AI课代表）。",
+                    "zh-hant": "BibiGPT v1 · 一鍵 AI 摘要工具，適用於音視頻和聊天內容：Bilibili | YouTube | 推特 | 抖音 | 快手 | 百度網盤 | 谷歌雲端硬碟 | 本地文件 | 網站 | 播客 | 會議 | 講座等等。音視頻內容 AI 一鍵總結 & 對話：哔哩哔哩 | YouTube | 推特 | 小紅書 | 抖音 | 快手 | 百度網盤 | 阿里雲盤 | 網頁 | 播客 | 會議 | 講座等等（原 BiliGPT 省流神器 & AI課代表）。"
+                }
+            },
+            "https://github.com/killianlucas/open-interpreter": {
+                "repository_name": "open-interpreter",
+                "user_name": "KillianLucas",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "OpenAI's Code Interpreter in your terminal, running locally",
+                "topics": [
+                    "chatgpt",
+                    "codellama",
+                    "gpt-4",
+                    "interpreter",
+                    "llama2",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI's Code Interpreter in your terminal, running locally",
+                    "ja": "ローカルで実行されるターミナル上のOpenAIのコードインタプリター",
+                    "zh-hans": "在您的终端中运行的OpenAI代码解释器",
+                    "zh-hant": "在您的终端中运行的OpenAI代码解释器"
+                }
             }
         },
         "Reimplementations": {
@@ -14745,6 +14833,176 @@
                     "ja": "OpenAIのキー管理および再配布システムは、Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑、および腾讯混元をサポートしています。これは、二次的な配布管理キーに使用できる単一のAPIを使用しており、英語のUIを備えています。Dockerイメージがパッケージ化され、ワンクリックでデプロイできるため、すぐに使用することができます。",
                     "zh-hans": "OpenAI接口管理和分发系统，支持Azure、Anthropic Claude、Google PaLM 2、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI key管理和重新分发系统，使用单个API适用于所有LLMs，并具有英文用户界面。",
                     "zh-hant": "OpenAI 接口管理和分發系統，支援 Azure、Anthropic Claude、Google PaLM 2、智譜 ChatGLM、百度文心一言、訊飛星火認知、阿里通義千問、360 智腦以及騰訊混元，可用於二次分發管理金鑰，僅單可執行檔，已打包好 Docker 鏡像，一鍵部署，開箱即用。OpenAI 金鑰管理和重新分發系統，使用單一 API 供所有 LLMs 使用，並具有英文使用者介面。"
+                }
+            },
+            "https://github.com/baichuan-inc/baichuan2": {
+                "repository_name": "Baichuan2",
+                "user_name": "baichuan-inc",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "A series of large language models developed by Baichuan Intelligent Technology",
+                "topics": [
+                    "artificial-intelligence",
+                    "benchmark",
+                    "ceval",
+                    "chatgpt",
+                    "chinese",
+                    "gpt",
+                    "gpt-4",
+                    "huggingface",
+                    "large-language-models",
+                    "llama2",
+                    "mmlu",
+                    "natural-language-processing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A series of large language models developed by Baichuan Intelligent Technology",
+                    "ja": "百川智能科技开发的一系列大型语言模型",
+                    "zh-hans": "百川智能科技开发的一系列大型语言模型",
+                    "zh-hant": "百川智能科技开发的一系列大型语言模型"
+                }
+            },
+            "https://github.com/marqo-ai/marqo": {
+                "repository_name": "marqo",
+                "user_name": "marqo-ai",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Vector search for humans. Also available on cloud - cloud.marqo.ai",
+                "topics": [
+                    "chatgpt",
+                    "clip",
+                    "deep-learning",
+                    "gpt",
+                    "hacktoberfest",
+                    "hnsw",
+                    "information-retrieval",
+                    "knn",
+                    "large-language-models",
+                    "machine-learning",
+                    "machinelearning",
+                    "multi-modal",
+                    "natural-language-processing",
+                    "search-engine",
+                    "semantic-search",
+                    "tensor-search",
+                    "transformers",
+                    "vector-search",
+                    "vision-language",
+                    "visual-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Vector search for humans. Also available on cloud - cloud.marqo.ai",
+                    "ja": "ヒト向けのベクトル検索。クラウド上でも利用可能 - cloud.marqo.ai",
+                    "zh-hans": "人类的向量搜索。也可在云端使用 - cloud.marqo.ai",
+                    "zh-hant": "人類的向量搜索。也可在雲端上使用 - cloud.marqo.ai"
+                }
+            },
+            "https://github.com/khoj-ai/khoj": {
+                "repository_name": "khoj",
+                "user_name": "khoj-ai",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "chatgpt",
+                    "emacs",
+                    "llm",
+                    "markdown",
+                    "obsidian-md",
+                    "org-mode",
+                    "personal-assistant",
+                    "productivity",
+                    "semantic-search",
+                    "sentence-transformer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline",
+                    "ja": "第2の脳のためのAIコパイロット。個人の知識ベースをオンラインまたはオフラインで検索し、チャットします。",
+                    "zh-hans": "一个AI副驾驶员，为你的第二大脑。在线或离线搜索和与你的个人知识库聊天。",
+                    "zh-hant": "一個AI副駕駛員，為您的第二大腦。在線或離線搜索和與您的個人知識庫聊天。"
+                }
+            },
+            "https://github.com/luodian/otter": {
+                "repository_name": "Otter",
+                "user_name": "Luodian",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.",
+                "topics": [
+                    "apple-vision-pro",
+                    "artificial-inteligence",
+                    "chatgpt",
+                    "deep-learning",
+                    "egocentric-vision",
+                    "embodied",
+                    "embodied-ai",
+                    "foundation-models",
+                    "gpt-4",
+                    "instruction-tuning",
+                    "large-scale-models",
+                    "machine-learning",
+                    "multi-modality",
+                    "visual-language-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.",
+                    "ja": "🦦 オッターは、MIMIC-ITで訓練され、改善された指示の追跡能力と文脈に即した学習能力を示す、OpenFlamingo（DeepMindのFlamingoのオープンソース版）に基づくマルチモーダルモデルです。",
+                    "zh-hans": "🦦 Otter是基于OpenFlamingo（DeepMind的Flamingo的开源版本）的多模态模型，经过MIMIC-IT训练，展示了改进的指令跟随和上下文学习能力。",
+                    "zh-hant": "🦦 Otter是一個基於OpenFlamingo（DeepMind的Flamingo的開源版本）的多模態模型，經過在MIMIC-IT上的訓練，展示了改進的指示遵從和上下文學習能力。"
+                }
+            },
+            "https://github.com/josstorer/rwkv-runner": {
+                "repository_name": "RWKV-Runner",
+                "user_name": "josStorer",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
+                "topics": [
+                    "api",
+                    "api-client",
+                    "chatgpt",
+                    "llm",
+                    "rwkv",
+                    "tool",
+                    "wails"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
+                    "ja": "RWKVの管理およびスタートアップツールで、完全自動化であり、わずか8MBです。また、OpenAI APIと互換性のあるインターフェースを提供します。RWKVは完全にオープンソースであり、商用利用が可能な大規模な言語モデルです。",
+                    "zh-hans": "一个RWKV管理和启动工具，完全自动化，仅8MB。并提供与OpenAI API兼容的接口。RWKV是一个完全开源且可用于商业用途的大型语言模型。",
+                    "zh-hant": "一個RWKV管理和啟動工具，完全自動化，僅8MB。並提供與OpenAI API兼容的界面。RWKV是一個完全開源且可用於商業用途的大型語言模型。"
                 }
             }
         },
@@ -24454,6 +24712,68 @@
                     "ja": "大規模な基盤モデルの微調整と推論のための拡張可能なツールキット。すべてのための大規模なモデル。",
                     "zh-hans": "一个可扩展的工具包，用于对大型基础模型进行微调和推理。适用于所有大型模型。",
                     "zh-hant": "一個可擴展的工具包，用於對大型基礎模型進行微調和推論。為所有人提供大型模型。"
+                }
+            },
+            "https://github.com/reloadware/reloadium": {
+                "repository_name": "reloadium",
+                "user_name": "reloadware",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Hot Reloading, Profiling and AI debugging for Python",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "django",
+                    "edit-and-continue",
+                    "flask",
+                    "hot-reload",
+                    "hot-reloading",
+                    "pandas",
+                    "python",
+                    "python3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Hot Reloading, Profiling and AI debugging for Python",
+                    "ja": "ホットリローディング、プロファイリング、およびPythonのAIデバッグ",
+                    "zh-hans": "热重载、性能分析和人工智能调试的Python",
+                    "zh-hant": "熱重新加載、性能分析和Python的AI調試"
+                }
+            },
+            "https://github.com/plexpt/chatgpt-java": {
+                "repository_name": "chatgpt-java",
+                "user_name": "PlexPt",
+                "language": "Java",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-api-wrapper",
+                    "chatgpt-bot",
+                    "chatgpt-sdk",
+                    "chatgpt3",
+                    "chatgpt4",
+                    "gpt4",
+                    "java"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。",
+                    "ja": "ChatGPT Java SDK。GPT3.5、GPT4 APIに対応しています。すぐに使用できます。",
+                    "zh-hans": "ChatGPT Java SDK。支持 GPT3.5、GPT4 API。开箱即用。",
+                    "zh-hant": "ChatGPT Java SDK。支援 GPT3.5、 GPT4 API。開箱即用。"
                 }
             }
         }
