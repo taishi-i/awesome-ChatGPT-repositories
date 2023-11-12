@@ -15,29 +15,27 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12のレッスン、ジェネレーティブAIを使ってビルディングを始めましょう 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-
-
-**CLIs**
- * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · 音声/ビデオとチャットのためのワンクリックAI要約、学習コンテンツ付き：Bilibili | YouTube | ツイート | TikTok | Dropbox | Google Drive | ローカルファイル | ウェブサイト | ポッドキャスト | ミーティング | 講義など。音声/ビデオコンテンツのAI要約と対話：哔哩哔哩 | YouTube | ツイッター | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | ウェブサイト | ポッドキャスト | ミーティング | ローカルファイルなど（元BiliGPT省流神器＆AI代表）。
- * [open-interpreter](https://github.com/killianlucas/open-interpreter) - ローカルで実行されるターミナル上のOpenAIのコードインタプリター
+**Browser-extensions**
+ * [Openaibot](https://github.com/llmkira/openaibot) - ⚡️ 自分自身のアシスタントボットを構築する|🧀 Discord/Slack/Kook/Telegram |🍓 ChatGptアーキテクチャの複製 |⛓ ToolCall/FunctionCall|🔖 プラグインサポート | 🌻 sh & docker-compose
+ * [LibreChat](https://github.com/danny-avila/librechat) - 強化されたChatGPTクローン：OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AIモデルの切り替え、メッセージ検索、langchain、DALL-E-3、ChatGPTプラグイン、OpenAI関数、セキュアなマルチユーザーシステム、プリセット、自己ホスティング用の完全なオープンソースなどの機能があります。開発中のさらなる機能もあります。
 
 
 **NLP**
- * [Baichuan2](https://github.com/baichuan-inc/baichuan2) - 百川智能科技开发的一系列大型语言模型
- * [marqo](https://github.com/marqo-ai/marqo) - ヒト向けのベクトル検索。クラウド上でも利用可能 - cloud.marqo.ai
- * [khoj](https://github.com/khoj-ai/khoj) - 第2の脳のためのAIコパイロット。個人の知識ベースをオンラインまたはオフラインで検索し、チャットします。
- * [Otter](https://github.com/luodian/otter) - 🦦 オッターは、MIMIC-ITで訓練され、改善された指示の追跡能力と文脈に即した学習能力を示す、OpenFlamingo（DeepMindのFlamingoのオープンソース版）に基づくマルチモーダルモデルです。
- * [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - RWKVの管理およびスタートアップツールで、完全自動化であり、わずか8MBです。また、OpenAI APIと互換性のあるインターフェースを提供します。RWKVは完全にオープンソースであり、商用利用が可能な大規模な言語モデルです。
+ * [MNBVC](https://github.com/esbatmop/mnbvc) - MNBVC（Massive Never-ending BT Vast Chinese corpus）超大規模中文語料集。chatGPTのトレーニングに使用される40Tのデータに対応しています。MNBVCデータセットには、メインストリームの文化だけでなく、マイナーカルチャーやさらには火星語のデータも含まれています。MNBVCデータセットには、ニュース、作文、小説、書籍、雑誌、論文、台詞、投稿、ウィキ、古詩、歌詞、商品紹介、ジョーク、失敗談、チャットの記録など、あらゆる形式の純文本の中国語データが含まれています。
+ * [Easydict](https://github.com/tisfeng/easydict) - シンプルでエレガントな辞書と翻訳のmacOSアプリ。すぐに使えるようになっており、オフラインOCR認識をサポートし、有道辞書、🍎 Appleシステム辞書、🍎 Appleシステム翻訳、ChatGPT、DeepL、Google、Bing、百度、火山翻訳に対応しています。単語の検索やテキストの翻訳に便利です。
+ * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT: あらゆるモーダルに対応した大規模言語モデルのコードとモデル
 
 
-**Others**
- * [reloadium](https://github.com/reloadware/reloadium) - ホットリローディング、プロファイリング、およびPythonのAIデバッグ
- * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。GPT3.5、GPT4 APIに対応しています。すぐに使用できます。
+**Langchain**
+ * [evadb](https://github.com/georgia-tech-db/evadb) - AIパワードアプリのためのデータベースシステム
 
 
-_Updated on November 10, 2023_ (A total of 1186 repositories listed.)
+**Openai**
+ * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - PandoraをベースにしたChatGPT APIにより、プールトークンの自動更新が実現されました。
+ * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高い安定性、🧩プラグインのサポート、🌏リアルタイムのネットワーキングを備えたChatGPT QQロボット🤖 | ChatGPT、New Bing、Claude、Google Bard、gpt4free、One APIをサポートするQQロボットプラットフォーム
+
+
+_Updated on November 13, 2023_ (A total of 1194 repositories listed.)
 
 ## Table of contents
 
@@ -470,6 +468,8 @@ _Updated on November 10, 2023_ (A total of 1186 repositories listed.)
  * [gp.nvim](https://github.com/robitx/gp.nvim) - GPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキストGPT.nvim：Neovim AIプラグイン〜OpenAIのChatGPT＆Copilot＆音声テキスト
  * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// Agents System/自己決定 |クラスChatGptプラグインシステム| Gpt-3.5/Gpt-4 |アシスタント |📱クロスプラットフォーム|🦾非同期|🔌プラグインシステム
  * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - ChatGPT APIに基づくテキスト翻訳、テキストの改善、文法修正のBobプラグインで、バベルの塔を必要としない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0のライセンスに基づいています。
+ * [Openaibot](https://github.com/llmkira/openaibot) - ⚡️ 自分自身のアシスタントボットを構築する|🧀 Discord/Slack/Kook/Telegram |🍓 ChatGptアーキテクチャの複製 |⛓ ToolCall/FunctionCall|🔖 プラグインサポート | 🌻 sh & docker-compose
+ * [LibreChat](https://github.com/danny-avila/librechat) - 強化されたChatGPTクローン：OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AIモデルの切り替え、メッセージ検索、langchain、DALL-E-3、ChatGPTプラグイン、OpenAI関数、セキュアなマルチユーザーシステム、プリセット、自己ホスティング用の完全なオープンソースなどの機能があります。開発中のさらなる機能もあります。
 
 
 ## CLIs
@@ -784,6 +784,9 @@ _Updated on November 10, 2023_ (A total of 1186 repositories listed.)
  * [khoj](https://github.com/khoj-ai/khoj) - 第2の脳のためのAIコパイロット。個人の知識ベースをオンラインまたはオフラインで検索し、チャットします。
  * [Otter](https://github.com/luodian/otter) - 🦦 オッターは、MIMIC-ITで訓練され、改善された指示の追跡能力と文脈に即した学習能力を示す、OpenFlamingo（DeepMindのFlamingoのオープンソース版）に基づくマルチモーダルモデルです。
  * [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - RWKVの管理およびスタートアップツールで、完全自動化であり、わずか8MBです。また、OpenAI APIと互換性のあるインターフェースを提供します。RWKVは完全にオープンソースであり、商用利用が可能な大規模な言語モデルです。
+ * [MNBVC](https://github.com/esbatmop/mnbvc) - MNBVC（Massive Never-ending BT Vast Chinese corpus）超大規模中文語料集。chatGPTのトレーニングに使用される40Tのデータに対応しています。MNBVCデータセットには、メインストリームの文化だけでなく、マイナーカルチャーやさらには火星語のデータも含まれています。MNBVCデータセットには、ニュース、作文、小説、書籍、雑誌、論文、台詞、投稿、ウィキ、古詩、歌詞、商品紹介、ジョーク、失敗談、チャットの記録など、あらゆる形式の純文本の中国語データが含まれています。
+ * [Easydict](https://github.com/tisfeng/easydict) - シンプルでエレガントな辞書と翻訳のmacOSアプリ。すぐに使えるようになっており、オフラインOCR認識をサポートし、有道辞書、🍎 Appleシステム辞書、🍎 Appleシステム翻訳、ChatGPT、DeepL、Google、Bing、百度、火山翻訳に対応しています。単語の検索やテキストの翻訳に便利です。
+ * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT: あらゆるモーダルに対応した大規模言語モデルのコードとモデル
 
 
 ## Langchain
@@ -851,6 +854,7 @@ _Updated on November 10, 2023_ (A total of 1186 repositories listed.)
  * [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ChatGPTが大人気で、AGIへの鍵となる重要な一歩を踏み出しました。このプロジェクトは、ChatGPTのオープンソースの代替品、テキストモデル、マルチモーダルモデルなどをまとめ、皆さんに便利を提供することを目的としています。
  * [gpt_academic](https://github.com/binary-husky/gpt_academic) - ChatGPT/GLMのための実用的なインタラクティブなインターフェースを提供し、論文の読み込み/校正/執筆の体験を特に最適化し、モジュール化されたデザインで、カスタムショートカットボタンと関数プラグインをサポートし、PythonやC++などのプロジェクトの解析と自動翻訳機能をサポートし、PDF/LaTex論文の翻訳と要約機能を提供し、さまざまなLLMモデルの並列問い合わせをサポートし、chatglm2などのローカルモデルにも対応しています。文心一言、moss、llama2、rwkv、claude2、通義千問、書生、讯飞星火などと互換性があります。
  * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - リアルタイムの誤謬検出は、OpenAI WhisperとChatGPT/LLaMA/Mistralを使用して行われます。
+ * [evadb](https://github.com/georgia-tech-db/evadb) - AIパワードアプリのためのデータベースシステム
 
 
 ## Unity
@@ -987,6 +991,8 @@ _Updated on November 10, 2023_ (A total of 1186 repositories listed.)
  * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - JSONファイルからChatGPTのデータエクスポート全体を簡単に抽出し、整形されたマークダウンファイルに変換するスクリプト。
  * [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - Azure OpenAIを使用して独自のChatGPTポータルを作成します。
  * [siyuan](https://github.com/siyuan-note/siyuan) - プライバシー重視、セルフホスト型、完全オープンソースの個人向け知識管理ソフトウェア。TypescriptとGolangで書かれています。
+ * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - PandoraをベースにしたChatGPT APIにより、プールトークンの自動更新が実現されました。
+ * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高い安定性、🧩プラグインのサポート、🌏リアルタイムのネットワーキングを備えたChatGPT QQロボット🤖 | ChatGPT、New Bing、Claude、Google Bard、gpt4free、One APIをサポートするQQロボットプラットフォーム
 
 
 ## Others
