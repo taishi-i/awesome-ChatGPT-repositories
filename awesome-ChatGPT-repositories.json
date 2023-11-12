@@ -8765,6 +8765,87 @@
                     "zh-hans": "基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可证授权。",
                     "zh-hant": "基於 ChatGPT API 的文本翻譯、文本潤色、語法糾錯 Bob 插件，讓我們一起迎接不需要巴別塔的新時代！根據 CC BY-NC-SA 4.0 授權。"
                 }
+            },
+            "https://github.com/llmkira/openaibot": {
+                "repository_name": "Openaibot",
+                "user_name": "LlmKira",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 sh & docker-compose ",
+                "topics": [
+                    "ai",
+                    "assistant",
+                    "chatbot",
+                    "chatgpt",
+                    "discordbot",
+                    "function-calling",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt-4-turbo",
+                    "gpt-4-vision-preview",
+                    "gpt-agent",
+                    "gpt-functions",
+                    "gpts",
+                    "kook-bot",
+                    "openai",
+                    "python",
+                    "qq-bot",
+                    "slack-bot",
+                    "telegram-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 sh & docker-compose ",
+                    "ja": "⚡️ 自分自身のアシスタントボットを構築する|🧀 Discord/Slack/Kook/Telegram |🍓 ChatGptアーキテクチャの複製 |⛓ ToolCall/FunctionCall|🔖 プラグインサポート | 🌻 sh & docker-compose",
+                    "zh-hans": "⚡️ 构建您自己的助手机器人 | 🧀 Discord/Slack/Kook/Telegram | 🍓 复刻 ChatGpt 架构 | ⛓ 工具调用/函数调用 | 🔖 插件支持 | 🌻 sh 和 docker-compose",
+                    "zh-hant": "⚡️ 建立您自己的助理机器人 | 🧀 Discord/Slack/Kook/Telegram | 🍓 複製 ChatGpt 架構 | ⛓ 工具呼叫/函數呼叫 | 🔖 插件支援 | 🌻 sh 和 docker-compose"
+                }
+            },
+            "https://github.com/danny-avila/librechat": {
+                "repository_name": "LibreChat",
+                "user_name": "danny-avila",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "api",
+                    "azure",
+                    "bing",
+                    "chatgpt",
+                    "chatgpt-clone",
+                    "claude",
+                    "clone",
+                    "dall-e-3",
+                    "dall-e3",
+                    "langchain",
+                    "librechat",
+                    "llms",
+                    "palm",
+                    "palm-2",
+                    "palm2",
+                    "plugins",
+                    "search",
+                    "webapp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+                    "ja": "強化されたChatGPTクローン：OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AIモデルの切り替え、メッセージ検索、langchain、DALL-E-3、ChatGPTプラグイン、OpenAI関数、セキュアなマルチユーザーシステム、プリセット、自己ホスティング用の完全なオープンソースなどの機能があります。開発中のさらなる機能もあります。",
+                    "zh-hans": "增强版ChatGPT克隆：功能包括OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AI模型切换、消息搜索、langchain、DALL-E-3、ChatGPT插件、OpenAI函数、安全多用户系统、预设，完全开源以供自主托管。更多功能正在开发中。",
+                    "zh-hant": "增強版ChatGPT克隆：功能包括OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AI模型切換、訊息搜尋、語言鏈、DALL-E-3、ChatGPT插件、OpenAI功能、安全多用戶系統、預設值，完全開源以供自行託管。更多功能正在開發中。"
+                }
             }
         },
         "CLIs": {
@@ -15004,6 +15085,98 @@
                     "zh-hans": "一个RWKV管理和启动工具，完全自动化，仅8MB。并提供与OpenAI API兼容的接口。RWKV是一个完全开源且可用于商业用途的大型语言模型。",
                     "zh-hant": "一個RWKV管理和啟動工具，完全自動化，僅8MB。並提供與OpenAI API兼容的界面。RWKV是一個完全開源且可用於商業用途的大型語言模型。"
                 }
+            },
+            "https://github.com/esbatmop/mnbvc": {
+                "repository_name": "MNBVC",
+                "user_name": "esbatmop",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。",
+                "topics": [
+                    "chinese",
+                    "chinese-language",
+                    "chinese-nlp",
+                    "chinese-simplified",
+                    "corpus-data",
+                    "nlp",
+                    "nlp-machine-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MNBVC (Massive Never-ending BT Vast Chinese corpus) is a large-scale Chinese language corpus. It consists of 40T data, which is comparable to the training data of chatGPT. The MNBVC dataset not only includes mainstream culture but also various niche cultures, and even data in Martian language. It encompasses pure text Chinese data in various forms such as news, compositions, novels, books, magazines, papers, dialogues, posts, wikis, ancient poems, song lyrics, product descriptions, jokes, embarrassing stories, and chat records.",
+                    "ja": "MNBVC（Massive Never-ending BT Vast Chinese corpus）超大規模中文語料集。chatGPTのトレーニングに使用される40Tのデータに対応しています。MNBVCデータセットには、メインストリームの文化だけでなく、マイナーカルチャーやさらには火星語のデータも含まれています。MNBVCデータセットには、ニュース、作文、小説、書籍、雑誌、論文、台詞、投稿、ウィキ、古詩、歌詞、商品紹介、ジョーク、失敗談、チャットの記録など、あらゆる形式の純文本の中国語データが含まれています。",
+                    "zh-hans": "MNBVC（Massive Never-ending BT Vast Chinese corpus）超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不仅包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、维基百科、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。",
+                    "zh-hant": "MNBVC（Massive Never-ending BT Vast Chinese corpus）超大規模中文語料集。對標chatGPT訓練的40T數據。MNBVC數據集不但包括主流文化，也包括各個小眾文化甚至火星文的數據。MNBVC數據集包括新聞、作文、小說、書籍、雜誌、論文、台詞、帖子、wiki、古詩、歌詞、商品介紹、笑話、糗事、聊天記錄等一切形式的純文本中文數據。"
+                }
+            },
+            "https://github.com/tisfeng/easydict": {
+                "repository_name": "Easydict",
+                "user_name": "tisfeng",
+                "language": "Objective-C",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ",
+                "topics": [
+                    "app",
+                    "baidu",
+                    "bing",
+                    "deepl",
+                    "dictionary",
+                    "google",
+                    "macos",
+                    "ocr",
+                    "shortcuts",
+                    "translate",
+                    "translator",
+                    "volcano",
+                    "youdao"
+                ],
+                "multilingual_descriptions": {
+                    "en": "一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. ",
+                    "ja": "シンプルでエレガントな辞書と翻訳のmacOSアプリ。すぐに使えるようになっており、オフラインOCR認識をサポートし、有道辞書、🍎 Appleシステム辞書、🍎 Appleシステム翻訳、ChatGPT、DeepL、Google、Bing、百度、火山翻訳に対応しています。単語の検索やテキストの翻訳に便利です。",
+                    "zh-hans": "一个简洁优雅的词典翻译 macOS 应用程序，可用于查找单词和翻译文本。支持离线 OCR 识别，同时支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。",
+                    "zh-hant": "一個簡潔優雅的詞典翻譯 macOS App。開箱即用，支持離線 OCR 識別，支持有道詞典，🍎 蘋果系統詞典，🍎 蘋果系統翻譯，ChatGPT，DeepL，Google，Bing，百度和火山翻譯。一個簡潔優雅的詞典和翻譯器 macOS App，用於查詢單詞和翻譯文本。"
+                }
+            },
+            "https://github.com/next-gpt/next-gpt": {
+                "repository_name": "NExT-GPT",
+                "user_name": "NExT-GPT",
+                "language": "Python",
+                "license": {
+                    "key": "bsd-3-clause",
+                    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+                    "spdx_id": "BSD-3-Clause",
+                    "url": "https://api.github.com/licenses/bsd-3-clause",
+                    "node_id": "MDc6TGljZW5zZTU="
+                },
+                "description": "Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model",
+                "topics": [
+                    "chatgpt",
+                    "foundation-models",
+                    "gpt-4",
+                    "instruction-tuning",
+                    "large-language-models",
+                    "llm",
+                    "multi-modal-chatgpt",
+                    "multimodal",
+                    "visual-language-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model",
+                    "ja": "NExT-GPT: あらゆるモーダルに対応した大規模言語モデルのコードとモデル",
+                    "zh-hans": "NExT-GPT的代码和模型：任意到任意的多模态大型语言模型",
+                    "zh-hant": "NExT-GPT：任意到任意多模態大型語言模型的代碼和模型"
+                }
             }
         },
         "Langchain": {
@@ -16377,6 +16550,44 @@
                     "ja": "リアルタイムの誤謬検出は、OpenAI WhisperとChatGPT/LLaMA/Mistralを使用して行われます。",
                     "zh-hans": "实时谬误检测使用OpenAI Whisper和ChatGPT/LLaMA/Mistral",
                     "zh-hant": "即時辨識謬誤使用OpenAI whisper和ChatGPT/LLaMA/Mistral"
+                }
+            },
+            "https://github.com/georgia-tech-db/evadb": {
+                "repository_name": "evadb",
+                "user_name": "georgia-tech-db",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Database system for AI-powered apps",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "auto-gpt",
+                    "chatgpt",
+                    "data-analysis",
+                    "database",
+                    "eva",
+                    "gpt-4",
+                    "gpt4all",
+                    "hacktoberfest",
+                    "huggingface",
+                    "labeling",
+                    "langchain",
+                    "llm",
+                    "object-detection",
+                    "serving",
+                    "video-analytics"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Database system for AI-powered apps",
+                    "ja": "AIパワードアプリのためのデータベースシステム",
+                    "zh-hans": "用于AI应用的数据库系统",
+                    "zh-hant": "AI 引擎應用的資料庫系統"
                 }
             }
         },
@@ -19054,6 +19265,51 @@
                     "ja": "プライバシー重視、セルフホスト型、完全オープンソースの個人向け知識管理ソフトウェア。TypescriptとGolangで書かれています。",
                     "zh-hans": "一个以隐私为先、自托管、完全开源的个人知识管理软件，使用TypeScript和Golang编写。",
                     "zh-hant": "一個以隱私為先、自主託管、完全開源的個人知識管理軟體，使用 TypeScript 和 Golang 編寫。"
+                }
+            },
+            "https://github.com/mufeng510/free-chatgpt-api": {
+                "repository_name": "Free-ChatGPT-API",
+                "user_name": "mufeng510",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "基于pandora的ChatGPT API，实现了pool token的自动更新",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "基于pandora的ChatGPT API，实现了pool token的自动更新",
+                    "ja": "PandoraをベースにしたChatGPT APIにより、プールトークンの自動更新が実現されました。",
+                    "zh-hans": "基于Pandora的ChatGPT API，实现了池令牌的自动更新。",
+                    "zh-hant": "基於Pandora的ChatGPT API，實現了pool token的自動更新。"
+                }
+            },
+            "https://github.com/rockchinq/qchatgpt": {
+                "repository_name": "QChatGPT",
+                "user_name": "RockChinQ",
+                "language": "Python",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台",
+                "topics": [
+                    "chatgpt",
+                    "openai",
+                    "plugins",
+                    "qq"
+                ],
+                "multilingual_descriptions": {
+                    "en": "😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台",
+                    "ja": "😎高い安定性、🧩プラグインのサポート、🌏リアルタイムのネットワーキングを備えたChatGPT QQロボット🤖 | ChatGPT、New Bing、Claude、Google Bard、gpt4free、One APIをサポートするQQロボットプラットフォーム",
+                    "zh-hans": "😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台",
+                    "zh-hant": "😎高穩定性、🧩支援插件、🌏即時聯網的 ChatGPT QQ 機器人🤖 | 支援 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 機器人平台"
                 }
             }
         },
