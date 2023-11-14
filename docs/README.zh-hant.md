@@ -15,27 +15,33 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [Openaibot](https://github.com/llmkira/openaibot) - ️建立自己的助理Bot 支持 Discord/Slack/Kook/Telegram ◎ 复刻 ChatGpt架構◎ 工具呼叫/功能呼叫 支持插件◎ sh & docker-compose
- * [LibreChat](https://github.com/danny-avila/librechat) - 增強了ChatGPT克隆:功能 OpenAI,Bing,Anthropic,OpenRouter,PaLM 2,AI模式切換,訊息搜尋,langchain,DALL-E-3,ChatGPT插件,OpenAI功能,安全多用戶系統,預設,完全開放源代碼自主托管. 更多功能正在進行中
+**Awesome-lists**
+ * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - 這裡有許多關於Prompt工程的資料庫,
+ * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 整合了生成型人工智能工具,作品,模型和參考資料的清單
+
+
+**Chatbots**
+ * [GPTDiscord](https://github.com/kav-k/gptdiscord) - 提供了一個強大的GPT接口, 像是聊天GPT式的對話,圖像生成,人工智能調節,自訂索引/知識庫,YouTube總結器等等!
+ * [BotSharp](https://github.com/scisharp/botsharp) - 在 .NET 中的AI代理應用框架
+
+
+**CLIs**
+ * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - 支持OpenAI官方所有接口. 支持ChatGPT的Java客戶端.
+
+
+**Reimplementations**
+ * [vall-e](https://github.com/lifeiteng/vall-e) - 該網站的使用者必須在使用者之前,
 
 
 **NLP**
- * [MNBVC](https://github.com/esbatmop/mnbvc) - MNBVC ((大规模永无止境的BT廣泛的中文資料庫)超大规模中文语料集.對標chatGPT訓練的40T數據.MNBVC數據集不但包括主流文化,也包括各個小众文化甚至火星文的數據.
- * [Easydict](https://github.com/tisfeng/easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用,支持离线OCR识别,支持有道词典, 果系统词典, 果系统翻译,ChatGPT,DeepL,Google,Bing,百度和火山翻译。一本簡潔而優雅的字典和翻譯器 macOS App,可搜索字母並翻譯文字. 
- * [NExT-GPT](https://github.com/next-gpt/next-gpt) - 代碼和模型為NEXT-GPT:任何多式大語言模型
-
-
-**Langchain**
- * [evadb](https://github.com/georgia-tech-db/evadb) - 數據庫系統為人工智能應用程式
+ * [TavernAI](https://github.com/tavernai/tavernai) - 氣氛冒險聊天AI語言模型 (KoboldAI,NovelAI,Pygmalion,OpenAI聊天gpt,gpt-4)
 
 
 **Openai**
- * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - 基于Pandora的ChatGPT API,实现了pool代幣的自動更新
- * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高穩定性、支持插件、實時聯網的ChatGPT QQ 機械人.
+ * [novel](https://github.com/steven-tey/novel) - 沒有任何關於我們,
 
 
-_Updated on November 13, 2023_ (A total of 1194 repositories listed.)
+_Updated on November 15, 2023_ (A total of 1202 repositories listed.)
 
 ## Table of contents
 
@@ -81,6 +87,8 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - 一個精心挑選的與GPT、ChatGPT、OpenAI、LLM等相關的令人驚嘆的項目和資源清單。
  * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 一個開源數據集的收藏，用於訓練指令遵從的LLMs（ChatGPT，LLaMA，Alpaca）。
  * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 一個精心挑選的令人驚艷的ChatGPT相關項目清單。
+ * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - 這個儲存庫包含了一些手動精選的資源，主要關注於生成式預訓練轉換器（GPT）、ChatGPT、PaLM等方面的提示工程。
+ * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 一個精選的生成式人工智能工具、作品、模型和參考資料清單
 
 
 ## Prompts
@@ -324,6 +332,8 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）是一款基于Langchain和ChatGLM等语言模型的本地知识库问答应用程序。
  * [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一個簡單、靈活、優雅的中文語音對話機器人/智能音箱項目，支持ChatGPT多輪對話能力，還可能是首個支持腦機交互的開源智能音箱項目。
  * [autogen](https://github.com/microsoft/autogen) - 啟用下一代大型語言模型應用程式。加入我們的Discord：https://discord.gg/pAbnFJrkgZ
+ * [GPTDiscord](https://github.com/kav-k/gptdiscord) - 一個強大的、全能的Discord GPT界面。ChatGPT風格的對話、圖像生成、AI審核、自定義索引/知識庫、YouTube摘要等等！
+ * [BotSharp](https://github.com/scisharp/botsharp) - .NET中的AI代理應用程式框架
 
 
 ## Browser-extensions
@@ -571,6 +581,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-風格的Ollama🦙響應式聊天網頁用戶界面客戶端（GUI）
  * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · 一鍵 AI 摘要工具，適用於音視頻和聊天內容：Bilibili | YouTube | 推特 | 抖音 | 快手 | 百度網盤 | 谷歌雲端硬碟 | 本地文件 | 網站 | 播客 | 會議 | 講座等等。音視頻內容 AI 一鍵總結 & 對話：哔哩哔哩 | YouTube | 推特 | 小紅書 | 抖音 | 快手 | 百度網盤 | 阿里雲盤 | 網頁 | 播客 | 會議 | 講座等等（原 BiliGPT 省流神器 & AI課代表）。
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - 在您的终端中运行的OpenAI代码解释器
+ * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式輸出、Gpt插件、聯網。支持OpenAI官方所有接口。ChatGPT的Java客戶端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
 
 
 ## Reimplementations
@@ -598,6 +609,8 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 開源ChatGPT代碼解釋器的實現 👾
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - 一個本地實現的OpenAI ChatGPT代碼解釋器。
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAI的文件。調查、複製和領域/任務適應開源chatgpt替代方案/實現。PiXiu-貔貅意味著財富。
+ * [vall-e](https://github.com/lifeiteng/vall-e) - 請將以下內容翻譯成繁體中文。
+VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://lifeiteng.github.io/valle/index.html
 
 
 ## Tutorials
@@ -787,6 +800,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [MNBVC](https://github.com/esbatmop/mnbvc) - MNBVC（Massive Never-ending BT Vast Chinese corpus）超大規模中文語料集。對標chatGPT訓練的40T數據。MNBVC數據集不但包括主流文化，也包括各個小眾文化甚至火星文的數據。MNBVC數據集包括新聞、作文、小說、書籍、雜誌、論文、台詞、帖子、wiki、古詩、歌詞、商品介紹、笑話、糗事、聊天記錄等一切形式的純文本中文數據。
  * [Easydict](https://github.com/tisfeng/easydict) - 一個簡潔優雅的詞典翻譯 macOS App。開箱即用，支持離線 OCR 識別，支持有道詞典，🍎 蘋果系統詞典，🍎 蘋果系統翻譯，ChatGPT，DeepL，Google，Bing，百度和火山翻譯。一個簡潔優雅的詞典和翻譯器 macOS App，用於查詢單詞和翻譯文本。
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT：任意到任意多模態大型語言模型的代碼和模型
+ * [TavernAI](https://github.com/tavernai/tavernai) - AI語言模型的大氣冒險聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）
 
 
 ## Langchain
@@ -993,6 +1007,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [siyuan](https://github.com/siyuan-note/siyuan) - 一個以隱私為先、自主託管、完全開源的個人知識管理軟體，使用 TypeScript 和 Golang 編寫。
  * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - 基於Pandora的ChatGPT API，實現了pool token的自動更新。
  * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高穩定性、🧩支援插件、🌏即時聯網的 ChatGPT QQ 機器人🤖 | 支援 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 機器人平台
+ * [novel](https://github.com/steven-tey/novel) - 具有AI驅動的自動完成功能的Notion風格所見即所得編輯器。
 
 
 ## Others
