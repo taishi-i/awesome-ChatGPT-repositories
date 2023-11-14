@@ -15,27 +15,33 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [Openaibot](https://github.com/llmkira/openaibot) - ️ 建立自己的助理Bot 支持                                                                                                                         
- * [LibreChat](https://github.com/danny-avila/librechat) - 增强的ChatGPT克隆:功能OpenAI,Bing,Anthropic,OpenRouter,PaLM 2,AI模型切换,消息搜索,langchain,DALL-E-3,ChatGPT插件,OpenAI功能,安全多用户系统,预设,完全开源自主托管. 更多功能正在开发中
+**Awesome-lists**
+ * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - 这里包含了关于Prompt工程的精心策划资源,主要关注生成预训练式变压器 (GPT),ChatGPT,PaLM等.
+ * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 精心编制的生成人工智能工具,作品,模型和参考
+
+
+**Chatbots**
+ * [GPTDiscord](https://github.com/kav-k/gptdiscord) - 一个强大的,全在一个GPT界面,用于Discord. 聊天GPT式对话,图像生成,人工智能调节,自定义索引/知识库,YouTube总结器等等!
+ * [BotSharp](https://github.com/scisharp/botsharp) - 在 .NET 中的AI代理应用框架
+
+
+**CLIs**
+ * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - 支持流式输出、Gpt插件、联网、支持OpenAI官方所有接口、ChatGPT的Java客户端、OpenAI GPT-3.5-Turb GPT-4 API Java客户端
+
+
+**Reimplementations**
+ * [vall-e](https://github.com/lifeiteng/vall-e) - 通过PyTorch实现VALL-E ((零射击文本到语音),复制演示 https://lifeiteng.github.io/valle/index.html
 
 
 **NLP**
- * [MNBVC](https://github.com/esbatmop/mnbvc) - MNBVC ((大规模无尽的BT广的中文语料集)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化,也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品、介绍、笑话、事、聊天记录等所有形式的纯文本中文数据。
- * [Easydict](https://github.com/tisfeng/easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用,支持离线OCR识别,支持有道词典, 果系统词典, 果系统翻译,ChatGPT,DeepL,Google,Bing,百度和火山翻译。一个简洁优雅的词典和翻译 macOS App 搜索单词和翻译文本. 
- * [NExT-GPT](https://github.com/next-gpt/next-gpt) - 代码和模型为NEXT-GPT:任何多式大语言模型
-
-
-**Langchain**
- * [evadb](https://github.com/georgia-tech-db/evadb) - 基于人工智能应用程序的数据库系统
+ * [TavernAI](https://github.com/tavernai/tavernai) - 对于AI语言模型的大气冒险聊天 (KoboldAI,NovelAI,Pygmalion,OpenAI聊天gpt,gpt-4)
 
 
 **Openai**
- * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - 基于Pandora的ChatGPT API实现了pool token的自动更新
- * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高稳定性、支持插件、实时联网的 ChatGPT QQ 机器人.
+ * [novel](https://github.com/steven-tey/novel) - 概念式WYSIWYG编辑器,
 
 
-_Updated on November 13, 2023_ (A total of 1194 repositories listed.)
+_Updated on November 15, 2023_ (A total of 1202 repositories listed.)
 
 ## Table of contents
 
@@ -81,6 +87,8 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - 一个精选的与GPT、ChatGPT、OpenAI、LLM等相关的令人惊叹的项目和资源列表。
  * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 一个用于训练指令跟随LLM（ChatGPT、LLaMA、Alpaca）的开源数据集合。
  * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 一个精选的令人惊叹的ChatGPT相关项目列表。
+ * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - 这个仓库包含了一个手动策划的资源，重点关注生成式预训练转换器（GPT）、ChatGPT、PaLM等方面的Prompt工程。
+ * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 一个精选的生成式人工智能工具、作品、模型和参考资料列表
 
 
 ## Prompts
@@ -324,6 +332,8 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - Langchain-Chatchat（原Langchain-ChatGLM）是一款基于Langchain和ChatGLM等语言模型的本地知识库问答应用程序。
  * [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
  * [autogen](https://github.com/microsoft/autogen) - 启用下一代大型语言模型应用。加入我们的Discord：https://discord.gg/pAbnFJrkgZ
+ * [GPTDiscord](https://github.com/kav-k/gptdiscord) - 一个强大的、一体化的Discord GPT界面。ChatGPT风格的对话、图像生成、AI-审查、自定义索引/知识库、YouTube摘要生成等等！
+ * [BotSharp](https://github.com/scisharp/botsharp) - AI代理应用程序框架在.NET中
 
 
 ## Browser-extensions
@@ -571,6 +581,8 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ChatGPT-Style响应式聊天Web UI客户端（GUI）用于Ollama 🦙
  * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · 一键AI摘要音视频和聊天学习内容：哔哩哔哩 | YouTube | 推特 | 抖音 | 快手 | 百度网盘 | 谷歌云盘 | 本地文件 | 网站 | 播客 | 会议 | 讲座等。音视频内容AI一键总结和对话：哔哩哔哩 | YouTube | 推特 | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | 网页 | 播客 | 会议 | 讲座等（原BiliGPT省流神器和AI课代表）。
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - 在您的终端中运行的OpenAI代码解释器
+ * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Java Api客户端。
+ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Java Api客户端。
 
 
 ## Reimplementations
@@ -598,6 +610,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPT代码解释器的开源实现 👾
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - 一个本地实现的OpenAI ChatGPT代码解释器。
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAI的文档。调查、复制和领域/任务适应开源chatgpt替代品/实现。PiXiu-貔貅意味着财富。
+ * [vall-e](https://github.com/lifeiteng/vall-e) - VALL-E（零样本文本到语音）的PyTorch实现，复现演示https://lifeiteng.github.io/valle/index.html
 
 
 ## Tutorials
@@ -787,6 +800,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [MNBVC](https://github.com/esbatmop/mnbvc) - MNBVC（Massive Never-ending BT Vast Chinese corpus）超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不仅包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、维基百科、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
  * [Easydict](https://github.com/tisfeng/easydict) - 一个简洁优雅的词典翻译 macOS 应用程序，可用于查找单词和翻译文本。支持离线 OCR 识别，同时支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT的代码和模型：任意到任意的多模态大型语言模型
+ * [TavernAI](https://github.com/tavernai/tavernai) - 针对AI语言模型的大气冒险聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）
 
 
 ## Langchain
@@ -993,6 +1007,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [siyuan](https://github.com/siyuan-note/siyuan) - 一个以隐私为先、自托管、完全开源的个人知识管理软件，使用TypeScript和Golang编写。
  * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - 基于Pandora的ChatGPT API，实现了池令牌的自动更新。
  * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台
+ * [novel](https://github.com/steven-tey/novel) - 具有AI驱动的自动完成功能的Notion风格所见即所得编辑器。
 
 
 ## Others

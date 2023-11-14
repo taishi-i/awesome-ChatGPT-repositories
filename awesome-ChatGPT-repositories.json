@@ -569,6 +569,86 @@
                     "zh-hans": "一个精选的令人惊叹的ChatGPT相关项目列表。",
                     "zh-hant": "一個精心挑選的令人驚艷的ChatGPT相關項目清單。"
                 }
+            },
+            "https://github.com/promptslab/awesome-prompt-engineering": {
+                "repository_name": "Awesome-Prompt-Engineering",
+                "user_name": "promptslab",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "deep-learning",
+                    "few-shot-learning",
+                    "gpt",
+                    "gpt-3",
+                    "machine-learning",
+                    "openai",
+                    "prompt",
+                    "prompt-based-learning",
+                    "prompt-engineering",
+                    "prompt-generator",
+                    "prompt-learning",
+                    "prompt-toolkit",
+                    "prompt-tuning",
+                    "promptengineering",
+                    "text-to-image",
+                    "text-to-speech",
+                    "text-to-video"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc ",
+                    "ja": "このリポジトリには、Prompt Engineeringに焦点を当てたGenerative Pre-trained Transformer（GPT）、ChatGPT、PaLMなどの手動で選別されたリソースが含まれています。",
+                    "zh-hans": "这个仓库包含了一个手动策划的资源，重点关注生成式预训练转换器（GPT）、ChatGPT、PaLM等方面的Prompt工程。",
+                    "zh-hant": "這個儲存庫包含了一些手動精選的資源，主要關注於生成式預訓練轉換器（GPT）、ChatGPT、PaLM等方面的提示工程。"
+                }
+            },
+            "https://github.com/filipecalegario/awesome-generative-ai": {
+                "repository_name": "awesome-generative-ai",
+                "user_name": "filipecalegario",
+                "language": null,
+                "license": {
+                    "key": "cc0-1.0",
+                    "name": "Creative Commons Zero v1.0 Universal",
+                    "spdx_id": "CC0-1.0",
+                    "url": "https://api.github.com/licenses/cc0-1.0",
+                    "node_id": "MDc6TGljZW5zZTY="
+                },
+                "description": "A curated list of Generative AI tools, works, models, and references",
+                "topics": [
+                    "ai-art",
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "dall-e",
+                    "dalle2",
+                    "embeddings",
+                    "generative-ai",
+                    "generative-art",
+                    "gpt-4",
+                    "image2image",
+                    "inpainting",
+                    "midjourney",
+                    "outpainting",
+                    "prompt-engineering",
+                    "semantic-search",
+                    "stable-diffusion",
+                    "text-to-image",
+                    "txt2img"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of Generative AI tools, works, models, and references",
+                    "ja": "選りすぐりの生成AIツール、作品、モデル、参考文献のリスト",
+                    "zh-hans": "一个精选的生成式人工智能工具、作品、模型和参考资料列表",
+                    "zh-hant": "一個精選的生成式人工智能工具、作品、模型和參考資料清單"
+                }
             }
         },
         "Prompts": {
@@ -5720,6 +5800,77 @@
                     "ja": "次世代の大規模言語モデルアプリケーションを有効にする。私たちのDiscordに参加してください：https://discord.gg/pAbnFJrkgZ",
                     "zh-hans": "启用下一代大型语言模型应用。加入我们的Discord：https://discord.gg/pAbnFJrkgZ",
                     "zh-hant": "啟用下一代大型語言模型應用程式。加入我們的Discord：https://discord.gg/pAbnFJrkgZ"
+                }
+            },
+            "https://github.com/kav-k/gptdiscord": {
+                "repository_name": "GPTDiscord",
+                "user_name": "Kav-K",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!",
+                "topics": [
+                    "artificial-intelligence",
+                    "asyncio",
+                    "chatbot",
+                    "code-interpreter",
+                    "collaborate",
+                    "dalle2",
+                    "digitalocean",
+                    "discord",
+                    "embeddings",
+                    "extractive-question-answering",
+                    "github",
+                    "gpt3",
+                    "hacktoberfest",
+                    "help-wanted",
+                    "moderator-bot",
+                    "multi-modal",
+                    "openai",
+                    "openai-api",
+                    "pinecone",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!",
+                    "ja": "Discord用の堅牢なオールインワンGPTインターフェース。ChatGPTスタイルの会話、画像生成、AIモデレーション、カスタムインデックス/ナレッジベース、YouTubeサマライザーなどが利用可能です！",
+                    "zh-hans": "一个强大的、一体化的Discord GPT界面。ChatGPT风格的对话、图像生成、AI-审查、自定义索引/知识库、YouTube摘要生成等等！",
+                    "zh-hant": "一個強大的、全能的Discord GPT界面。ChatGPT風格的對話、圖像生成、AI審核、自定義索引/知識庫、YouTube摘要等等！"
+                }
+            },
+            "https://github.com/scisharp/botsharp": {
+                "repository_name": "BotSharp",
+                "user_name": "SciSharp",
+                "language": "C#",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "The AI Agent Application Framework in .NET",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatbot",
+                    "chatbot-framework",
+                    "chatgpt",
+                    "llm",
+                    "nlp",
+                    "nlu",
+                    "rag",
+                    "semantic"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The AI Agent Application Framework in .NET",
+                    "ja": ".NETでのAIエージェントアプリケーションフレームワーク",
+                    "zh-hans": "AI代理应用程序框架在.NET中",
+                    "zh-hant": ".NET中的AI代理應用程式框架"
                 }
             }
         },
@@ -10988,6 +11139,39 @@
                     "zh-hans": "在您的终端中运行的OpenAI代码解释器",
                     "zh-hant": "在您的终端中运行的OpenAI代码解释器"
                 }
+            },
+            "https://github.com/grt1228/chatgpt-java": {
+                "repository_name": "chatgpt-java",
+                "user_name": "Grt1228",
+                "language": "Java",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-java",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "gpt-plugins",
+                    "java",
+                    "openai-api",
+                    "openai-chatgpt",
+                    "openai-images",
+                    "openai-whisper",
+                    "tiktoken-java",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java",
+                    "ja": "ChatGPT Java SDKは、ストリーミング出力、Gptプラグイン、ネットワーキングをサポートしています。OpenAI公式のすべてのインターフェースをサポートしています。ChatGPTのJavaクライアントです。OpenAI GPT-3.5-Turbo GPT-4のJava用APIクライアントです。",
+                    "zh-hans": "ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Java Api客户端。\nChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Java Api客户端。",
+                    "zh-hant": "ChatGPT Java SDK支持流式輸出、Gpt插件、聯網。支持OpenAI官方所有接口。ChatGPT的Java客戶端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java"
+                }
             }
         },
         "Reimplementations": {
@@ -11435,6 +11619,34 @@
                     "ja": "ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。",
                     "zh-hans": "ChatPiXiu：OpenLLMAI的文档。调查、复制和领域/任务适应开源chatgpt替代品/实现。PiXiu-貔貅意味着财富。",
                     "zh-hant": "ChatPiXiu：OpenLLMAI的文件。調查、複製和領域/任務適應開源chatgpt替代方案/實現。PiXiu-貔貅意味著財富。"
+                }
+            },
+            "https://github.com/lifeiteng/vall-e": {
+                "repository_name": "vall-e",
+                "user_name": "lifeiteng",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html",
+                "topics": [
+                    "chatgpt",
+                    "in-context-learning",
+                    "large-language-models",
+                    "text-to-speech",
+                    "tts",
+                    "vall-e",
+                    "valle"
+                ],
+                "multilingual_descriptions": {
+                    "en": "PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html",
+                    "ja": "VALL-E（ゼロショットテキストから音声へ）のPyTorch実装、再現されたデモ https://lifeiteng.github.io/valle/index.html",
+                    "zh-hans": "VALL-E（零样本文本到语音）的PyTorch实现，复现演示https://lifeiteng.github.io/valle/index.html",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。\nVALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://lifeiteng.github.io/valle/index.html"
                 }
             }
         },
@@ -15176,6 +15388,28 @@
                     "ja": "NExT-GPT: あらゆるモーダルに対応した大規模言語モデルのコードとモデル",
                     "zh-hans": "NExT-GPT的代码和模型：任意到任意的多模态大型语言模型",
                     "zh-hant": "NExT-GPT：任意到任意多模態大型語言模型的代碼和模型"
+                }
+            },
+            "https://github.com/tavernai/tavernai": {
+                "repository_name": "TavernAI",
+                "user_name": "TavernAI",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "chatgpt",
+                    "gpt-4",
+                    "koboldai",
+                    "novelai",
+                    "pygmalion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)",
+                    "ja": "AI言語モデル（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）の大気冒険チャット",
+                    "zh-hans": "针对AI语言模型的大气冒险聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）",
+                    "zh-hant": "AI語言模型的大氣冒險聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）"
                 }
             }
         },
@@ -19310,6 +19544,35 @@
                     "ja": "😎高い安定性、🧩プラグインのサポート、🌏リアルタイムのネットワーキングを備えたChatGPT QQロボット🤖 | ChatGPT、New Bing、Claude、Google Bard、gpt4free、One APIをサポートするQQロボットプラットフォーム",
                     "zh-hans": "😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台",
                     "zh-hant": "😎高穩定性、🧩支援插件、🌏即時聯網的 ChatGPT QQ 機器人🤖 | 支援 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 機器人平台"
+                }
+            },
+            "https://github.com/steven-tey/novel": {
+                "repository_name": "novel",
+                "user_name": "steven-tey",
+                "language": "TypeScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
+                "topics": [
+                    "ai-sdk",
+                    "chatgpt",
+                    "nextjs",
+                    "notion",
+                    "openai",
+                    "prosemirror",
+                    "tiptap",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
+                    "ja": "AIパワードのオートコンプリート機能を備えたNotionスタイルのWYSIWYGエディター。",
+                    "zh-hans": "具有AI驱动的自动完成功能的Notion风格所见即所得编辑器。",
+                    "zh-hant": "具有AI驅動的自動完成功能的Notion風格所見即所得編輯器。"
                 }
             }
         },

@@ -15,27 +15,33 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [Openaibot](https://github.com/llmkira/openaibot) - ⚡️ 自分自身のアシスタントボットを構築する|🧀 Discord/Slack/Kook/Telegram |🍓 ChatGptアーキテクチャの複製 |⛓ ToolCall/FunctionCall|🔖 プラグインサポート | 🌻 sh & docker-compose
- * [LibreChat](https://github.com/danny-avila/librechat) - 強化されたChatGPTクローン：OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AIモデルの切り替え、メッセージ検索、langchain、DALL-E-3、ChatGPTプラグイン、OpenAI関数、セキュアなマルチユーザーシステム、プリセット、自己ホスティング用の完全なオープンソースなどの機能があります。開発中のさらなる機能もあります。
+**Awesome-lists**
+ * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - このリポジトリには、Prompt Engineeringに焦点を当てたGenerative Pre-trained Transformer（GPT）、ChatGPT、PaLMなどの手動で選別されたリソースが含まれています。
+ * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 選りすぐりの生成AIツール、作品、モデル、参考文献のリスト
+
+
+**Chatbots**
+ * [GPTDiscord](https://github.com/kav-k/gptdiscord) - Discord用の堅牢なオールインワンGPTインターフェース。ChatGPTスタイルの会話、画像生成、AIモデレーション、カスタムインデックス/ナレッジベース、YouTubeサマライザーなどが利用可能です！
+ * [BotSharp](https://github.com/scisharp/botsharp) - .NETでのAIエージェントアプリケーションフレームワーク
+
+
+**CLIs**
+ * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDKは、ストリーミング出力、Gptプラグイン、ネットワーキングをサポートしています。OpenAI公式のすべてのインターフェースをサポートしています。ChatGPTのJavaクライアントです。OpenAI GPT-3.5-Turbo GPT-4のJava用APIクライアントです。
+
+
+**Reimplementations**
+ * [vall-e](https://github.com/lifeiteng/vall-e) - VALL-E（ゼロショットテキストから音声へ）のPyTorch実装、再現されたデモ https://lifeiteng.github.io/valle/index.html
 
 
 **NLP**
- * [MNBVC](https://github.com/esbatmop/mnbvc) - MNBVC（Massive Never-ending BT Vast Chinese corpus）超大規模中文語料集。chatGPTのトレーニングに使用される40Tのデータに対応しています。MNBVCデータセットには、メインストリームの文化だけでなく、マイナーカルチャーやさらには火星語のデータも含まれています。MNBVCデータセットには、ニュース、作文、小説、書籍、雑誌、論文、台詞、投稿、ウィキ、古詩、歌詞、商品紹介、ジョーク、失敗談、チャットの記録など、あらゆる形式の純文本の中国語データが含まれています。
- * [Easydict](https://github.com/tisfeng/easydict) - シンプルでエレガントな辞書と翻訳のmacOSアプリ。すぐに使えるようになっており、オフラインOCR認識をサポートし、有道辞書、🍎 Appleシステム辞書、🍎 Appleシステム翻訳、ChatGPT、DeepL、Google、Bing、百度、火山翻訳に対応しています。単語の検索やテキストの翻訳に便利です。
- * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT: あらゆるモーダルに対応した大規模言語モデルのコードとモデル
-
-
-**Langchain**
- * [evadb](https://github.com/georgia-tech-db/evadb) - AIパワードアプリのためのデータベースシステム
+ * [TavernAI](https://github.com/tavernai/tavernai) - AI言語モデル（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）の大気冒険チャット
 
 
 **Openai**
- * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - PandoraをベースにしたChatGPT APIにより、プールトークンの自動更新が実現されました。
- * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高い安定性、🧩プラグインのサポート、🌏リアルタイムのネットワーキングを備えたChatGPT QQロボット🤖 | ChatGPT、New Bing、Claude、Google Bard、gpt4free、One APIをサポートするQQロボットプラットフォーム
+ * [novel](https://github.com/steven-tey/novel) - AIパワードのオートコンプリート機能を備えたNotionスタイルのWYSIWYGエディター。
 
 
-_Updated on November 13, 2023_ (A total of 1194 repositories listed.)
+_Updated on November 15, 2023_ (A total of 1202 repositories listed.)
 
 ## Table of contents
 
@@ -81,6 +87,8 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
  * [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - 指示に従うためのオープンソースデータセットのコレクション（ChatGPT、LLaMA、Alpaca）
  * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 素晴らしいChatGPT関連プロジェクトの厳選リスト。
+ * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - このリポジトリには、Prompt Engineeringに焦点を当てたGenerative Pre-trained Transformer（GPT）、ChatGPT、PaLMなどの手動で選別されたリソースが含まれています。
+ * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 選りすぐりの生成AIツール、作品、モデル、参考文献のリスト
 
 
 ## Prompts
@@ -324,6 +332,8 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - Langchain-Chatchat（元Langchain-ChatGLM）は、LangchainとChatGLMなどの言語モデルを利用したローカルな知識ベースの質問応答アプリです。
  * [wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robotは、シンプルで柔軟でエレガントな中国語音声対話ロボット/スマートスピーカープロジェクトであり、ChatGPTのマルチターン対話能力をサポートしています。また、脳機インタラクションをサポートする最初のオープンソーススマートスピーカープロジェクトかもしれません。
  * [autogen](https://github.com/microsoft/autogen) - 次世代の大規模言語モデルアプリケーションを有効にする。私たちのDiscordに参加してください：https://discord.gg/pAbnFJrkgZ
+ * [GPTDiscord](https://github.com/kav-k/gptdiscord) - Discord用の堅牢なオールインワンGPTインターフェース。ChatGPTスタイルの会話、画像生成、AIモデレーション、カスタムインデックス/ナレッジベース、YouTubeサマライザーなどが利用可能です！
+ * [BotSharp](https://github.com/scisharp/botsharp) - .NETでのAIエージェントアプリケーションフレームワーク
 
 
 ## Browser-extensions
@@ -571,6 +581,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [ollama-webui](https://github.com/ollama-webui/ollama-webui) - Ollama 🦙のためのChatGPTスタイルの応答性のあるチャットWeb UIクライアント（GUI）
  * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · 音声/ビデオとチャットのためのワンクリックAI要約、学習コンテンツ付き：Bilibili | YouTube | ツイート | TikTok | Dropbox | Google Drive | ローカルファイル | ウェブサイト | ポッドキャスト | ミーティング | 講義など。音声/ビデオコンテンツのAI要約と対話：哔哩哔哩 | YouTube | ツイッター | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | ウェブサイト | ポッドキャスト | ミーティング | ローカルファイルなど（元BiliGPT省流神器＆AI代表）。
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - ローカルで実行されるターミナル上のOpenAIのコードインタプリター
+ * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDKは、ストリーミング出力、Gptプラグイン、ネットワーキングをサポートしています。OpenAI公式のすべてのインターフェースをサポートしています。ChatGPTのJavaクライアントです。OpenAI GPT-3.5-Turbo GPT-4のJava用APIクライアントです。
 
 
 ## Reimplementations
@@ -598,6 +609,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ChatGPTコードインタープリターのオープンソース実装 👾
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - OpenAIのChatGPTコードインタプリタのローカル実装。
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。
+ * [vall-e](https://github.com/lifeiteng/vall-e) - VALL-E（ゼロショットテキストから音声へ）のPyTorch実装、再現されたデモ https://lifeiteng.github.io/valle/index.html
 
 
 ## Tutorials
@@ -787,6 +799,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [MNBVC](https://github.com/esbatmop/mnbvc) - MNBVC（Massive Never-ending BT Vast Chinese corpus）超大規模中文語料集。chatGPTのトレーニングに使用される40Tのデータに対応しています。MNBVCデータセットには、メインストリームの文化だけでなく、マイナーカルチャーやさらには火星語のデータも含まれています。MNBVCデータセットには、ニュース、作文、小説、書籍、雑誌、論文、台詞、投稿、ウィキ、古詩、歌詞、商品紹介、ジョーク、失敗談、チャットの記録など、あらゆる形式の純文本の中国語データが含まれています。
  * [Easydict](https://github.com/tisfeng/easydict) - シンプルでエレガントな辞書と翻訳のmacOSアプリ。すぐに使えるようになっており、オフラインOCR認識をサポートし、有道辞書、🍎 Appleシステム辞書、🍎 Appleシステム翻訳、ChatGPT、DeepL、Google、Bing、百度、火山翻訳に対応しています。単語の検索やテキストの翻訳に便利です。
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT: あらゆるモーダルに対応した大規模言語モデルのコードとモデル
+ * [TavernAI](https://github.com/tavernai/tavernai) - AI言語モデル（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）の大気冒険チャット
 
 
 ## Langchain
@@ -993,6 +1006,7 @@ _Updated on November 13, 2023_ (A total of 1194 repositories listed.)
  * [siyuan](https://github.com/siyuan-note/siyuan) - プライバシー重視、セルフホスト型、完全オープンソースの個人向け知識管理ソフトウェア。TypescriptとGolangで書かれています。
  * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - PandoraをベースにしたChatGPT APIにより、プールトークンの自動更新が実現されました。
  * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高い安定性、🧩プラグインのサポート、🌏リアルタイムのネットワーキングを備えたChatGPT QQロボット🤖 | ChatGPT、New Bing、Claude、Google Bard、gpt4free、One APIをサポートするQQロボットプラットフォーム
+ * [novel](https://github.com/steven-tey/novel) - AIパワードのオートコンプリート機能を備えたNotionスタイルのWYSIWYGエディター。
 
 
 ## Others
