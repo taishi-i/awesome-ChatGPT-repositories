@@ -16,32 +16,29 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - このリポジトリには、Prompt Engineeringに焦点を当てたGenerative Pre-trained Transformer（GPT）、ChatGPT、PaLMなどの手動で選別されたリソースが含まれています。
- * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 選りすぐりの生成AIツール、作品、モデル、参考文献のリスト
-
-
-**Chatbots**
- * [GPTDiscord](https://github.com/kav-k/gptdiscord) - Discord用の堅牢なオールインワンGPTインターフェース。ChatGPTスタイルの会話、画像生成、AIモデレーション、カスタムインデックス/ナレッジベース、YouTubeサマライザーなどが利用可能です！
- * [BotSharp](https://github.com/scisharp/botsharp) - .NETでのAIエージェントアプリケーションフレームワーク
+ * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPTに関連するオープンソースプロジェクトのコレクション、GPT関連のオープンソースプロジェクトのまとめ🚀、厳選🔥🔥
 
 
 **CLIs**
- * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDKは、ストリーミング出力、Gptプラグイン、ネットワーキングをサポートしています。OpenAI公式のすべてのインターフェースをサポートしています。ChatGPTのJavaクライアントです。OpenAI GPT-3.5-Turbo GPT-4のJava用APIクライアントです。
-
-
-**Reimplementations**
- * [vall-e](https://github.com/lifeiteng/vall-e) - VALL-E（ゼロショットテキストから音声へ）のPyTorch実装、再現されたデモ https://lifeiteng.github.io/valle/index.html
+ * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - LLMsのPower CLIとワークフローマネージャー（コアパッケージ）
 
 
 **NLP**
- * [TavernAI](https://github.com/tavernai/tavernai) - AI言語モデル（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）の大気冒険チャット
+ * [lmql](https://github.com/eth-sri/lmql) - 制約に基づいた効率的なLLMプログラミングのための言語。
 
 
 **Openai**
- * [novel](https://github.com/steven-tey/novel) - AIパワードのオートコンプリート機能を備えたNotionスタイルのWYSIWYGエディター。
+ * [feishu-openai](https://github.com/connectai-e/feishu-openai) - 🎒 フェイシュー ×（GPT-4 + DALL·E-3 + Whisper）= フェイのような仕事体験 🚀 音声対話、役割演技、多様なトピックの議論、画像作成、表の分析、ドキュメントのエクスポート 🚀
+ * [openai](https://github.com/betalgo/openai) - OpenAI .NET SDK - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI、およびDALL-E
+ * [chatgpt](https://github.com/dirk1983/chatgpt) - 全ウェブ最も簡単に展開でき、最も高速な応答速度を持つChatGPT環境。PHP版はOpenAI APIを呼び出して質問と図の生成を行い、Streamストリームモード通信を採用し、生成と出力を同時に行います。フロントエンドはEventSourceを使用し、Markdown形式の解析と数式の表示をサポートし、コードには色付け処理があり、図の表示もサポートしています。ページのUIはシンプルで、コンテキストの連続した会話をサポートしています。ソースコードはわずかなファイルのみで、フレームワークは使用しておらず、すべてのPHPバージョンをサポートし、完全にオープンソースで、非常に簡単にカスタマイズできます。チュートリアルや関連リソースも完備しており、グループへの参加と交流を歓迎します。すべて無料です。
 
 
-_Updated on November 15, 2023_ (A total of 1202 repositories listed.)
+**Others**
+ * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据製品は、データプラットフォームを基盤とし、データ中台を橋渡しとして、機械学習プラットフォームやGPTプラットフォームをフレームワークとして、全体のデジタル化ソリューションを提供するものです。WeChatグループ：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+ * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中国語の基礎モデルのためのベンチマーク
+
+
+_Updated on November 17, 2023_ (A total of 1210 repositories listed.)
 
 ## Table of contents
 
@@ -89,6 +86,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 素晴らしいChatGPT関連プロジェクトの厳選リスト。
  * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - このリポジトリには、Prompt Engineeringに焦点を当てたGenerative Pre-trained Transformer（GPT）、ChatGPT、PaLMなどの手動で選別されたリソースが含まれています。
  * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 選りすぐりの生成AIツール、作品、モデル、参考文献のリスト
+ * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPTに関連するオープンソースプロジェクトのコレクション、GPT関連のオープンソースプロジェクトのまとめ🚀、厳選🔥🔥
 
 
 ## Prompts
@@ -582,6 +580,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · 音声/ビデオとチャットのためのワンクリックAI要約、学習コンテンツ付き：Bilibili | YouTube | ツイート | TikTok | Dropbox | Google Drive | ローカルファイル | ウェブサイト | ポッドキャスト | ミーティング | 講義など。音声/ビデオコンテンツのAI要約と対話：哔哩哔哩 | YouTube | ツイッター | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | ウェブサイト | ポッドキャスト | ミーティング | ローカルファイルなど（元BiliGPT省流神器＆AI代表）。
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - ローカルで実行されるターミナル上のOpenAIのコードインタプリター
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDKは、ストリーミング出力、Gptプラグイン、ネットワーキングをサポートしています。OpenAI公式のすべてのインターフェースをサポートしています。ChatGPTのJavaクライアントです。OpenAI GPT-3.5-Turbo GPT-4のJava用APIクライアントです。
+ * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - LLMsのPower CLIとワークフローマネージャー（コアパッケージ）
 
 
 ## Reimplementations
@@ -800,6 +799,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [Easydict](https://github.com/tisfeng/easydict) - シンプルでエレガントな辞書と翻訳のmacOSアプリ。すぐに使えるようになっており、オフラインOCR認識をサポートし、有道辞書、🍎 Appleシステム辞書、🍎 Appleシステム翻訳、ChatGPT、DeepL、Google、Bing、百度、火山翻訳に対応しています。単語の検索やテキストの翻訳に便利です。
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT: あらゆるモーダルに対応した大規模言語モデルのコードとモデル
  * [TavernAI](https://github.com/tavernai/tavernai) - AI言語モデル（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）の大気冒険チャット
+ * [lmql](https://github.com/eth-sri/lmql) - 制約に基づいた効率的なLLMプログラミングのための言語。
 
 
 ## Langchain
@@ -1007,6 +1007,9 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - PandoraをベースにしたChatGPT APIにより、プールトークンの自動更新が実現されました。
  * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高い安定性、🧩プラグインのサポート、🌏リアルタイムのネットワーキングを備えたChatGPT QQロボット🤖 | ChatGPT、New Bing、Claude、Google Bard、gpt4free、One APIをサポートするQQロボットプラットフォーム
  * [novel](https://github.com/steven-tey/novel) - AIパワードのオートコンプリート機能を備えたNotionスタイルのWYSIWYGエディター。
+ * [feishu-openai](https://github.com/connectai-e/feishu-openai) - 🎒 フェイシュー ×（GPT-4 + DALL·E-3 + Whisper）= フェイのような仕事体験 🚀 音声対話、役割演技、多様なトピックの議論、画像作成、表の分析、ドキュメントのエクスポート 🚀
+ * [openai](https://github.com/betalgo/openai) - OpenAI .NET SDK - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI、およびDALL-E
+ * [chatgpt](https://github.com/dirk1983/chatgpt) - 全ウェブ最も簡単に展開でき、最も高速な応答速度を持つChatGPT環境。PHP版はOpenAI APIを呼び出して質問と図の生成を行い、Streamストリームモード通信を採用し、生成と出力を同時に行います。フロントエンドはEventSourceを使用し、Markdown形式の解析と数式の表示をサポートし、コードには色付け処理があり、図の表示もサポートしています。ページのUIはシンプルで、コンテキストの連続した会話をサポートしています。ソースコードはわずかなファイルのみで、フレームワークは使用しておらず、すべてのPHPバージョンをサポートし、完全にオープンソースで、非常に簡単にカスタマイズできます。チュートリアルや関連リソースも完備しており、グループへの参加と交流を歓迎します。すべて無料です。
 
 
 ## Others
@@ -1318,5 +1321,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [LMFlow](https://github.com/optimalscale/lmflow) - 大規模な基盤モデルの微調整と推論のための拡張可能なツールキット。すべてのための大規模なモデル。
  * [reloadium](https://github.com/reloadware/reloadium) - ホットリローディング、プロファイリング、およびPythonのAIデバッグ
  * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。GPT3.5、GPT4 APIに対応しています。すぐに使用できます。
+ * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据製品は、データプラットフォームを基盤とし、データ中台を橋渡しとして、機械学習プラットフォームやGPTプラットフォームをフレームワークとして、全体のデジタル化ソリューションを提供するものです。WeChatグループ：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+ * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中国語の基礎モデルのためのベンチマーク
 
 

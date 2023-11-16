@@ -16,32 +16,29 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - 這裡有許多關於Prompt工程的資料庫,
- * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 整合了生成型人工智能工具,作品,模型和參考資料的清單
-
-
-**Chatbots**
- * [GPTDiscord](https://github.com/kav-k/gptdiscord) - 提供了一個強大的GPT接口, 像是聊天GPT式的對話,圖像生成,人工智能調節,自訂索引/知識庫,YouTube總結器等等!
- * [BotSharp](https://github.com/scisharp/botsharp) - 在 .NET 中的AI代理應用框架
+ * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - 關於 GPT 的開放源代碼項目集、精選🔥🔥
 
 
 **CLIs**
- * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - 支持OpenAI官方所有接口. 支持ChatGPT的Java客戶端.
-
-
-**Reimplementations**
- * [vall-e](https://github.com/lifeiteng/vall-e) - 該網站的使用者必須在使用者之前,
+ * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - 提供多元化管理系統的 Power CLI 和工作流程管理器 (核心套件)
 
 
 **NLP**
- * [TavernAI](https://github.com/tavernai/tavernai) - 氣氛冒險聊天AI語言模型 (KoboldAI,NovelAI,Pygmalion,OpenAI聊天gpt,gpt-4)
+ * [lmql](https://github.com/eth-sri/lmql) - 這種語言是指針對制約的高效LLM編程.
 
 
 **Openai**
- * [novel](https://github.com/steven-tey/novel) - 沒有任何關於我們,
+ * [feishu-openai](https://github.com/connectai-e/feishu-openai) -  飛書 ×(GPT-4 + DALL·E-3 + Whisper)= 飛一般的工作體驗  语音对话、角色扮演、多话题討論、圖片創作、表格分析、文档导出 
+ * [openai](https://github.com/betalgo/openai) - 網路使用者必須在網路上使用.
+ * [chatgpt](https://github.com/dirk1983/chatgpt) - 全網最易部署,响應速度最快的ChatGPT環境.PHP版调用OpenAI接口进行问答和画图,采用Stream流模式通信,一边生成一边输出. 前端采用EventSource,支持Markdown格式解析,支持公式显示,代码有色处理,支持画图. 頁面UI简洁,支持上下文连续会话. 源码只有几个文件,没用任何框架,支持所有PHP版本,全部开源,极易二进开.
 
 
-_Updated on November 15, 2023_ (A total of 1202 repositories listed.)
+**Others**
+ * [alldata](https://github.com/alldatacenter/alldata) - 🔥 AllData大數據產品是可定義的數據中台,以數據平台為底座,以數據中台為橋梁,以機器學習平台,GPT平台為框架,提供全連鎖數字化解決方案.
+ * [SuperCLUE](https://github.com/cluebenchmark/superclue) - 超級指引:中文通用大模型综合性基准.
+
+
+_Updated on November 17, 2023_ (A total of 1210 repositories listed.)
 
 ## Table of contents
 
@@ -89,6 +86,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - 一個精心挑選的令人驚艷的ChatGPT相關項目清單。
  * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - 這個儲存庫包含了一些手動精選的資源，主要關注於生成式預訓練轉換器（GPT）、ChatGPT、PaLM等方面的提示工程。
  * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 一個精選的生成式人工智能工具、作品、模型和參考資料清單
+ * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPT相關開源項目合集🚀、精選🔥🔥
 
 
 ## Prompts
@@ -582,6 +580,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · 一鍵 AI 摘要工具，適用於音視頻和聊天內容：Bilibili | YouTube | 推特 | 抖音 | 快手 | 百度網盤 | 谷歌雲端硬碟 | 本地文件 | 網站 | 播客 | 會議 | 講座等等。音視頻內容 AI 一鍵總結 & 對話：哔哩哔哩 | YouTube | 推特 | 小紅書 | 抖音 | 快手 | 百度網盤 | 阿里雲盤 | 網頁 | 播客 | 會議 | 講座等等（原 BiliGPT 省流神器 & AI課代表）。
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - 在您的终端中运行的OpenAI代码解释器
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式輸出、Gpt插件、聯網。支持OpenAI官方所有接口。ChatGPT的Java客戶端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
+ * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - LLMs的Power CLI和工作流程管理器（核心套件）
 
 
 ## Reimplementations
@@ -609,8 +608,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 開源ChatGPT代碼解釋器的實現 👾
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - 一個本地實現的OpenAI ChatGPT代碼解釋器。
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAI的文件。調查、複製和領域/任務適應開源chatgpt替代方案/實現。PiXiu-貔貅意味著財富。
- * [vall-e](https://github.com/lifeiteng/vall-e) - 請將以下內容翻譯成繁體中文。
-VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://lifeiteng.github.io/valle/index.html
+ * [vall-e](https://github.com/lifeiteng/vall-e) - 請將以下內容翻譯成繁體中文。VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://lifeiteng.github.io/valle/index.html
 
 
 ## Tutorials
@@ -801,6 +799,7 @@ VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://l
  * [Easydict](https://github.com/tisfeng/easydict) - 一個簡潔優雅的詞典翻譯 macOS App。開箱即用，支持離線 OCR 識別，支持有道詞典，🍎 蘋果系統詞典，🍎 蘋果系統翻譯，ChatGPT，DeepL，Google，Bing，百度和火山翻譯。一個簡潔優雅的詞典和翻譯器 macOS App，用於查詢單詞和翻譯文本。
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT：任意到任意多模態大型語言模型的代碼和模型
  * [TavernAI](https://github.com/tavernai/tavernai) - AI語言模型的大氣冒險聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）
+ * [lmql](https://github.com/eth-sri/lmql) - 一種用於受限制引導和高效LLM編程的語言。
 
 
 ## Langchain
@@ -1008,6 +1007,9 @@ VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://l
  * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - 基於Pandora的ChatGPT API，實現了pool token的自動更新。
  * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高穩定性、🧩支援插件、🌏即時聯網的 ChatGPT QQ 機器人🤖 | 支援 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 機器人平台
  * [novel](https://github.com/steven-tey/novel) - 具有AI驅動的自動完成功能的Notion風格所見即所得編輯器。
+ * [feishu-openai](https://github.com/connectai-e/feishu-openai) - 🎒 飛書 ×（GPT-4 + DALL·E-3 + Whisper）= 飛一般的工作體驗 🚀 語音對話、角色扮演、多話題討論、圖片創作、表格分析、文件導出 🚀
+ * [openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI 和 DALL-E
+ * [chatgpt](https://github.com/dirk1983/chatgpt) - 全網最易部署，響應速度最快的ChatGPT環境。PHP版調用OpenAI接口進行問答和畫圖，採用Stream流模式通信，一邊生成一邊輸出。前端採用EventSource，支持Markdown格式解析，支持公式顯示，代碼有著色處理，支持畫圖。頁面UI簡潔，支持上下文連續會話。源碼只有幾個文件，沒有使用任何框架，支持所有PHP版本，全部開源，極易二次開發。保姆級教程，全部周邊資源，歡迎進群交流，一切全免費。
 
 
 ## Others
@@ -1319,5 +1321,7 @@ VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://l
  * [LMFlow](https://github.com/optimalscale/lmflow) - 一個可擴展的工具包，用於對大型基礎模型進行微調和推論。為所有人提供大型模型。
  * [reloadium](https://github.com/reloadware/reloadium) - 熱重新加載、性能分析和Python的AI調試
  * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。支援 GPT3.5、 GPT4 API。開箱即用。
+ * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大數據產品是可定義數據中台，以數據平台為底座，以數據中台為橋樑，以機器學習平台，GPT平台為框架，提供全鏈路數字化解決方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+ * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | 一個針對中文基礎模型的基準測試
 
 

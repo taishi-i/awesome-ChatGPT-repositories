@@ -649,6 +649,41 @@
                     "zh-hans": "一个精选的生成式人工智能工具、作品、模型和参考资料列表",
                     "zh-hant": "一個精選的生成式人工智能工具、作品、模型和參考資料清單"
                 }
+            },
+            "https://github.com/ewingyangs/awesome-open-gpt": {
+                "repository_name": "awesome-open-gpt",
+                "user_name": "EwingYangs",
+                "language": "Python",
+                "license": null,
+                "description": "Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥",
+                "topics": [
+                    "agentgpt",
+                    "ai",
+                    "aigc",
+                    "audiogpt",
+                    "autogpt",
+                    "awesome",
+                    "awesome-list",
+                    "chatbox",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-sdk",
+                    "gpt",
+                    "gpt4",
+                    "gpt4free",
+                    "huggingchat",
+                    "machinelearning",
+                    "minigpt",
+                    "moss",
+                    "open-source",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥",
+                    "ja": "GPTに関連するオープンソースプロジェクトのコレクション、GPT関連のオープンソースプロジェクトのまとめ🚀、厳選🔥🔥",
+                    "zh-hans": "GPT相关开源项目合集🚀、精选🔥🔥",
+                    "zh-hant": "GPT相關開源項目合集🚀、精選🔥🔥"
+                }
             }
         },
         "Prompts": {
@@ -11172,6 +11207,35 @@
                     "zh-hans": "ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Java Api客户端。\nChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Java Api客户端。",
                     "zh-hant": "ChatGPT Java SDK支持流式輸出、Gpt插件、聯網。支持OpenAI官方所有接口。ChatGPT的Java客戶端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java"
                 }
+            },
+            "https://github.com/llm-workflow-engine/llm-workflow-engine": {
+                "repository_name": "llm-workflow-engine",
+                "user_name": "llm-workflow-engine",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Power CLI and Workflow manager for LLMs (core package)",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "gpt-3",
+                    "gpt3",
+                    "gpt4",
+                    "llm",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Power CLI and Workflow manager for LLMs (core package)",
+                    "ja": "LLMsのPower CLIとワークフローマネージャー（コアパッケージ）",
+                    "zh-hans": "LLMs的Power CLI和工作流管理器（核心包）",
+                    "zh-hant": "LLMs的Power CLI和工作流程管理器（核心套件）"
+                }
             }
         },
         "Reimplementations": {
@@ -15411,6 +15475,32 @@
                     "zh-hans": "针对AI语言模型的大气冒险聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）",
                     "zh-hant": "AI語言模型的大氣冒險聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）"
                 }
+            },
+            "https://github.com/eth-sri/lmql": {
+                "repository_name": "lmql",
+                "user_name": "eth-sri",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "A language for constraint-guided and efficient LLM programming.",
+                "topics": [
+                    "chatgpt",
+                    "gpt-3",
+                    "huggingface",
+                    "language-model",
+                    "programming-language"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A language for constraint-guided and efficient LLM programming.",
+                    "ja": "制約に基づいた効率的なLLMプログラミングのための言語。",
+                    "zh-hans": "一种用于约束引导和高效LLM编程的语言。",
+                    "zh-hant": "一種用於受限制引導和高效LLM編程的語言。"
+                }
             }
         },
         "Langchain": {
@@ -19573,6 +19663,86 @@
                     "ja": "AIパワードのオートコンプリート機能を備えたNotionスタイルのWYSIWYGエディター。",
                     "zh-hans": "具有AI驱动的自动完成功能的Notion风格所见即所得编辑器。",
                     "zh-hant": "具有AI驅動的自動完成功能的Notion風格所見即所得編輯器。"
+                }
+            },
+            "https://github.com/connectai-e/feishu-openai": {
+                "repository_name": "feishu-openai",
+                "user_name": "ConnectAI-E",
+                "language": "Go",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "🎒 飞书  ×（GPT-4 + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-bot",
+                    "connect-ai",
+                    "feishu-bot",
+                    "go",
+                    "golang",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: 🎒 Feishu × (GPT-4 + DALL·E-3 + Whisper) = An extraordinary work experience 🚀 Voice conversation, role-playing, multi-topic discussions, image creation, spreadsheet analysis, document export 🚀",
+                    "ja": "🎒 フェイシュー ×（GPT-4 + DALL·E-3 + Whisper）= フェイのような仕事体験 🚀 音声対話、役割演技、多様なトピックの議論、画像作成、表の分析、ドキュメントのエクスポート 🚀",
+                    "zh-hans": "🎒 飞书 ×（GPT-4 + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+                    "zh-hant": "🎒 飛書 ×（GPT-4 + DALL·E-3 + Whisper）= 飛一般的工作體驗 🚀 語音對話、角色扮演、多話題討論、圖片創作、表格分析、文件導出 🚀"
+                }
+            },
+            "https://github.com/betalgo/openai": {
+                "repository_name": "openai",
+                "user_name": "betalgo",
+                "language": "C#",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E ",
+                "topics": [
+                    "azure-openai",
+                    "chatgpt",
+                    "csharp",
+                    "dall-e",
+                    "dotnet",
+                    "gpt-3",
+                    "gpt-4",
+                    "openai",
+                    "openai-api",
+                    "sdk",
+                    "whisper",
+                    "whisper-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E ",
+                    "ja": "OpenAI .NET SDK - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI、およびDALL-E",
+                    "zh-hans": "OpenAI .NET SDK - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI 和 DALL-E",
+                    "zh-hant": "OpenAI .NET sdk - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI 和 DALL-E"
+                }
+            },
+            "https://github.com/dirk1983/chatgpt": {
+                "repository_name": "chatgpt",
+                "user_name": "dirk1983",
+                "language": "JavaScript",
+                "license": null,
+                "description": "全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。",
+                "topics": [
+                    "chatgpt",
+                    "html",
+                    "php"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: The easiest to deploy and fastest responding ChatGPT environment on the entire web. The PHP version calls the OpenAI interface for question answering and drawing, using Stream flow mode communication to generate and output simultaneously. The front-end uses EventSource, supports Markdown format parsing, formula display, code highlighting, and drawing. The page UI is simple, supports continuous contextual conversation. The source code consists of only a few files, without any frameworks, supports all PHP versions, is completely open source, and extremely easy to customize. There is a comprehensive tutorial and all related resources available. Welcome to join the group for communication, everything is completely free.",
+                    "ja": "全ウェブ最も簡単に展開でき、最も高速な応答速度を持つChatGPT環境。PHP版はOpenAI APIを呼び出して質問と図の生成を行い、Streamストリームモード通信を採用し、生成と出力を同時に行います。フロントエンドはEventSourceを使用し、Markdown形式の解析と数式の表示をサポートし、コードには色付け処理があり、図の表示もサポートしています。ページのUIはシンプルで、コンテキストの連続した会話をサポートしています。ソースコードはわずかなファイルのみで、フレームワークは使用しておらず、すべてのPHPバージョンをサポートし、完全にオープンソースで、非常に簡単にカスタマイズできます。チュートリアルや関連リソースも完備しており、グループへの参加と交流を歓迎します。すべて無料です。",
+                    "zh-hans": "全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。",
+                    "zh-hant": "全網最易部署，響應速度最快的ChatGPT環境。PHP版調用OpenAI接口進行問答和畫圖，採用Stream流模式通信，一邊生成一邊輸出。前端採用EventSource，支持Markdown格式解析，支持公式顯示，代碼有著色處理，支持畫圖。頁面UI簡潔，支持上下文連續會話。源碼只有幾個文件，沒有使用任何框架，支持所有PHP版本，全部開源，極易二次開發。保姆級教程，全部周邊資源，歡迎進群交流，一切全免費。"
                 }
             }
         },
@@ -25293,6 +25463,67 @@
                     "ja": "ChatGPT Java SDK。GPT3.5、GPT4 APIに対応しています。すぐに使用できます。",
                     "zh-hans": "ChatGPT Java SDK。支持 GPT3.5、GPT4 API。开箱即用。",
                     "zh-hant": "ChatGPT Java SDK。支援 GPT3.5、 GPT4 API。開箱即用。"
+                }
+            },
+            "https://github.com/alldatacenter/alldata": {
+                "repository_name": "alldata",
+                "user_name": "alldatacenter",
+                "language": "Java",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "🔥🔥 AllData大数据产品是可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台，GPT平台为框架，提供全链路数字化解决方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo ",
+                "topics": [
+                    "artificial-intelligence",
+                    "big-data",
+                    "chatgpt",
+                    "cloudeon",
+                    "cube-studio",
+                    "datart",
+                    "datasophon",
+                    "dinky",
+                    "dolphinscheduler",
+                    "flink",
+                    "griffin",
+                    "hudi",
+                    "iceberg",
+                    "kong",
+                    "mlops",
+                    "mlrun",
+                    "paimon",
+                    "ranger",
+                    "streampark",
+                    "tis"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥🔥 AllData's big data product is a definable data center, with a data platform as the foundation, a data bridge as the connection, and machine learning and GPT platforms as the framework, providing end-to-end digital solutions. WeChat group: https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo",
+                    "ja": "🔥🔥 AllData大数据製品は、データプラットフォームを基盤とし、データ中台を橋渡しとして、機械学習プラットフォームやGPTプラットフォームをフレームワークとして、全体のデジタル化ソリューションを提供するものです。WeChatグループ：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo",
+                    "zh-hans": "🔥🔥 AllData大数据产品是可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台，GPT平台为框架，提供全链路数字化解决方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo",
+                    "zh-hant": "🔥🔥 AllData大數據產品是可定義數據中台，以數據平台為底座，以數據中台為橋樑，以機器學習平台，GPT平台為框架，提供全鏈路數字化解決方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo"
+                }
+            },
+            "https://github.com/cluebenchmark/superclue": {
+                "repository_name": "SuperCLUE",
+                "user_name": "CLUEbenchmark",
+                "language": null,
+                "license": null,
+                "description": "SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese",
+                "topics": [
+                    "chatgpt",
+                    "chinese",
+                    "evaluation",
+                    "foundation-models",
+                    "gpt-4"
+                ],
+                "multilingual_descriptions": {
+                    "en": "SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese",
+                    "ja": "SuperCLUE: 中国語の基礎モデルのためのベンチマーク",
+                    "zh-hans": "SuperCLUE: 中文通用大模型综合性基准 | 一个用于中文基础模型的基准测试",
+                    "zh-hant": "SuperCLUE: 中文通用大模型综合性基准 | 一個針對中文基礎模型的基準測試"
                 }
             }
         }
