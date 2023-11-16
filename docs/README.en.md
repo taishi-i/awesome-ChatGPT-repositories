@@ -17,32 +17,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
- * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
-
-
-**Chatbots**
- * [GPTDiscord](https://github.com/kav-k/gptdiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
- * [BotSharp](https://github.com/scisharp/botsharp) - The AI Agent Application Framework in .NET
+ * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 
 
 **CLIs**
- * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
-
-
-**Reimplementations**
- * [vall-e](https://github.com/lifeiteng/vall-e) - PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html
+ * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 
 
 **NLP**
- * [TavernAI](https://github.com/tavernai/tavernai) - Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)
+ * [lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 
 
 **Openai**
- * [novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+ * [feishu-openai](https://github.com/connectai-e/feishu-openai) - Input: 🎒 Feishu × (GPT-4 + DALL·E-3 + Whisper) = An extraordinary work experience 🚀 Voice conversation, role-playing, multi-topic discussions, image creation, spreadsheet analysis, document export 🚀
+ * [openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E 
+ * [chatgpt](https://github.com/dirk1983/chatgpt) - Input: The easiest to deploy and fastest responding ChatGPT environment on the entire web. The PHP version calls the OpenAI interface for question answering and drawing, using Stream flow mode communication to generate and output simultaneously. The front-end uses EventSource, supports Markdown format parsing, formula display, code highlighting, and drawing. The page UI is simple, supports continuous contextual conversation. The source code consists of only a few files, without any frameworks, supports all PHP versions, is completely open source, and extremely easy to customize. There is a comprehensive tutorial and all related resources available. Welcome to join the group for communication, everything is completely free.
 
 
-_Updated on November 15, 2023_ (A total of 1202 repositories listed.)
+**Others**
+ * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData's big data product is a definable data center, with a data platform as the foundation, a data bridge as the connection, and machine learning and GPT platforms as the framework, providing end-to-end digital solutions. WeChat group: https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+ * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
+
+
+_Updated on November 17, 2023_ (A total of 1210 repositories listed.)
 
 ## Table of contents
 
@@ -90,6 +87,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - A curated list of awesome ChatGPT related projects.
  * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
  * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
+ * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 
 
 ## Prompts
@@ -583,6 +581,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
+ * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 
 
 ## Reimplementations
@@ -801,6 +800,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [Easydict](https://github.com/tisfeng/easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. 
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
  * [TavernAI](https://github.com/tavernai/tavernai) - Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)
+ * [lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
 
 
 ## Langchain
@@ -1008,6 +1008,9 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - 基于pandora的ChatGPT API，实现了pool token的自动更新
  * [QChatGPT](https://github.com/rockchinq/qchatgpt) - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台
  * [novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+ * [feishu-openai](https://github.com/connectai-e/feishu-openai) - Input: 🎒 Feishu × (GPT-4 + DALL·E-3 + Whisper) = An extraordinary work experience 🚀 Voice conversation, role-playing, multi-topic discussions, image creation, spreadsheet analysis, document export 🚀
+ * [openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E 
+ * [chatgpt](https://github.com/dirk1983/chatgpt) - Input: The easiest to deploy and fastest responding ChatGPT environment on the entire web. The PHP version calls the OpenAI interface for question answering and drawing, using Stream flow mode communication to generate and output simultaneously. The front-end uses EventSource, supports Markdown format parsing, formula display, code highlighting, and drawing. The page UI is simple, supports continuous contextual conversation. The source code consists of only a few files, without any frameworks, supports all PHP versions, is completely open source, and extremely easy to customize. There is a comprehensive tutorial and all related resources available. Welcome to join the group for communication, everything is completely free.
 
 
 ## Others
@@ -1319,5 +1322,7 @@ _Updated on November 15, 2023_ (A total of 1202 repositories listed.)
  * [LMFlow](https://github.com/optimalscale/lmflow) - An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
  * [reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
  * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
+ * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData's big data product is a definable data center, with a data platform as the foundation, a data bridge as the connection, and machine learning and GPT platforms as the framework, providing end-to-end digital solutions. WeChat group: https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
+ * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
 
 
