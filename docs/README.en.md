@@ -17,29 +17,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+ * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
+ * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - Curated list of awesome GPTs 👍.
 
 
-**CLIs**
- * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
-
-
-**NLP**
- * [lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
-
-
-**Openai**
- * [feishu-openai](https://github.com/connectai-e/feishu-openai) - Input: 🎒 Feishu × (GPT-4 + DALL·E-3 + Whisper) = An extraordinary work experience 🚀 Voice conversation, role-playing, multi-topic discussions, image creation, spreadsheet analysis, document export 🚀
- * [openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E 
- * [chatgpt](https://github.com/dirk1983/chatgpt) - Input: The easiest to deploy and fastest responding ChatGPT environment on the entire web. The PHP version calls the OpenAI interface for question answering and drawing, using Stream flow mode communication to generate and output simultaneously. The front-end uses EventSource, supports Markdown format parsing, formula display, code highlighting, and drawing. The page UI is simple, supports continuous contextual conversation. The source code consists of only a few files, without any frameworks, supports all PHP versions, is completely open source, and extremely easy to customize. There is a comprehensive tutorial and all related resources available. Welcome to join the group for communication, everything is completely free.
+**Prompts**
+ * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
 
 
 **Others**
- * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData's big data product is a definable data center, with a data platform as the foundation, a data bridge as the connection, and machine learning and GPT platforms as the framework, providing end-to-end digital solutions. WeChat group: https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
- * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
+ * [worktool](https://github.com/gallonyin/worktool) - [Enterprise WeChat] Enterprise WeChat Robot Chatbot, automatic friend adding, automatic group creation, automatic group messaging robot, no need for Root, zero account suspension, integrated with ChatGPT.
 
 
-_Updated on November 17, 2023_ (A total of 1210 repositories listed.)
+_Updated on November 20, 2023_ (A total of 1214 repositories listed.)
 
 ## Table of contents
 
@@ -88,6 +78,8 @@ _Updated on November 17, 2023_ (A total of 1210 repositories listed.)
  * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc 
  * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - A curated list of Generative AI tools, works, models, and references
  * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
+ * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
+ * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - Curated list of awesome GPTs 👍.
 
 
 ## Prompts
@@ -177,6 +169,7 @@ _Updated on November 17, 2023_ (A total of 1210 repositories listed.)
  * [botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
  * [promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
  * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+ * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
 
 
 ## Chatbots
@@ -1324,5 +1317,6 @@ _Updated on November 17, 2023_ (A total of 1210 repositories listed.)
  * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。
  * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData's big data product is a definable data center, with a data platform as the foundation, a data bridge as the connection, and machine learning and GPT platforms as the framework, providing end-to-end digital solutions. WeChat group: https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
+ * [worktool](https://github.com/gallonyin/worktool) - [Enterprise WeChat] Enterprise WeChat Robot Chatbot, automatic friend adding, automatic group creation, automatic group messaging robot, no need for Root, zero account suspension, integrated with ChatGPT.
 
 
