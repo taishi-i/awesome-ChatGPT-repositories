@@ -16,29 +16,19 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPTに関連するオープンソースプロジェクトのコレクション、GPT関連のオープンソースプロジェクトのまとめ🚀、厳選🔥🔥
+ * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - AI関連のユーティリティのコレクションです。問題やプルリクエストの提出を歓迎します。
+ * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 素晴らしいGPTの厳選リスト 👍。
 
 
-**CLIs**
- * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - LLMsのPower CLIとワークフローマネージャー（コアパッケージ）
-
-
-**NLP**
- * [lmql](https://github.com/eth-sri/lmql) - 制約に基づいた効率的なLLMプログラミングのための言語。
-
-
-**Openai**
- * [feishu-openai](https://github.com/connectai-e/feishu-openai) - 🎒 フェイシュー ×（GPT-4 + DALL·E-3 + Whisper）= フェイのような仕事体験 🚀 音声対話、役割演技、多様なトピックの議論、画像作成、表の分析、ドキュメントのエクスポート 🚀
- * [openai](https://github.com/betalgo/openai) - OpenAI .NET SDK - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI、およびDALL-E
- * [chatgpt](https://github.com/dirk1983/chatgpt) - 全ウェブ最も簡単に展開でき、最も高速な応答速度を持つChatGPT環境。PHP版はOpenAI APIを呼び出して質問と図の生成を行い、Streamストリームモード通信を採用し、生成と出力を同時に行います。フロントエンドはEventSourceを使用し、Markdown形式の解析と数式の表示をサポートし、コードには色付け処理があり、図の表示もサポートしています。ページのUIはシンプルで、コンテキストの連続した会話をサポートしています。ソースコードはわずかなファイルのみで、フレームワークは使用しておらず、すべてのPHPバージョンをサポートし、完全にオープンソースで、非常に簡単にカスタマイズできます。チュートリアルや関連リソースも完備しており、グループへの参加と交流を歓迎します。すべて無料です。
+**Prompts**
+ * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - ツリーオブソウルのプラグインとプレイの実装：大規模言語モデルによる意図的な問題解決を70％以上向上させる
 
 
 **Others**
- * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据製品は、データプラットフォームを基盤とし、データ中台を橋渡しとして、機械学習プラットフォームやGPTプラットフォームをフレームワークとして、全体のデジタル化ソリューションを提供するものです。WeChatグループ：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
- * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中国語の基礎モデルのためのベンチマーク
+ * [worktool](https://github.com/gallonyin/worktool) - 【企業微信】企業微信のロボット チャットボット、自動的に友達を追加、自動的にグループに招待、自動的にメッセージを送信するロボット ルート不要でアカウントが封鎖されない ChatGPTを統合
 
 
-_Updated on November 17, 2023_ (A total of 1210 repositories listed.)
+_Updated on November 20, 2023_ (A total of 1214 repositories listed.)
 
 ## Table of contents
 
@@ -87,6 +77,8 @@ _Updated on November 17, 2023_ (A total of 1210 repositories listed.)
  * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - このリポジトリには、Prompt Engineeringに焦点を当てたGenerative Pre-trained Transformer（GPT）、ChatGPT、PaLMなどの手動で選別されたリソースが含まれています。
  * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 選りすぐりの生成AIツール、作品、モデル、参考文献のリスト
  * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPTに関連するオープンソースプロジェクトのコレクション、GPT関連のオープンソースプロジェクトのまとめ🚀、厳選🔥🔥
+ * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - AI関連のユーティリティのコレクションです。問題やプルリクエストの提出を歓迎します。
+ * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 素晴らしいGPTの厳選リスト 👍。
 
 
 ## Prompts
@@ -176,6 +168,7 @@ _Updated on November 17, 2023_ (A total of 1210 repositories listed.)
  * [botpress](https://github.com/botpress/botpress) - GPT/LLMエージェントを構築・展開するためのオープンソースハブ ⚡️
  * [promptflow](https://github.com/microsoft/promptflow) - 高品質なLLMアプリを構築します - プロトタイピング、テストから本番展開、モニタリングまで。
  * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12のレッスン、ジェネレーティブAIを使ってビルディングを始めましょう 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+ * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - ツリーオブソウルのプラグインとプレイの実装：大規模言語モデルによる意図的な問題解決を70％以上向上させる
 
 
 ## Chatbots
@@ -1323,5 +1316,6 @@ _Updated on November 17, 2023_ (A total of 1210 repositories listed.)
  * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。GPT3.5、GPT4 APIに対応しています。すぐに使用できます。
  * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据製品は、データプラットフォームを基盤とし、データ中台を橋渡しとして、機械学習プラットフォームやGPTプラットフォームをフレームワークとして、全体のデジタル化ソリューションを提供するものです。WeChatグループ：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中国語の基礎モデルのためのベンチマーク
+ * [worktool](https://github.com/gallonyin/worktool) - 【企業微信】企業微信のロボット チャットボット、自動的に友達を追加、自動的にグループに招待、自動的にメッセージを送信するロボット ルート不要でアカウントが封鎖されない ChatGPTを統合
 
 

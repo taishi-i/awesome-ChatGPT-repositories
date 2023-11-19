@@ -16,29 +16,19 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - 开源项目与GPT相关的项目合集、精选🔥🔥
+ * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - 收藏AI相关的实用工具,欢迎提交问题或抽取请求
+ * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 精心策划了令人惊叹的GPT列表.
 
 
-**CLIs**
- * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - 对于LLM的Power CLI和工作流程管理器 (核心包)
-
-
-**NLP**
- * [lmql](https://github.com/eth-sri/lmql) - 一种以约束为导向和高效的法学士课程编程语言.
-
-
-**Openai**
- * [feishu-openai](https://github.com/connectai-e/feishu-openai) - 飞书 ×(GPT-4 + DALL·E-3 + 语)= 飞一般的工作体验  语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 
- * [openai](https://github.com/betalgo/openai) - 开放AI.NET sdk - 聊天GPT,语,GPT-3,GPT-4,Azure 开放AI 和 DALL-E
- * [chatgpt](https://github.com/dirk1983/chatgpt) - 全网最易部署,响应速度最快的ChatGPT环境.PHP版调用OpenAI接口进行问答和画图,采用Stream流模式通信,一边生成一边输出.前端采用EventSource,支持Markdown格式解析,支持公式显示,代码有色处理,支持画图.页面UI简洁,支持上下文连续会话.源码只有几个文件,没用任何框架,支持所有PHP版本,全部开源,极易进二开.
+**Prompts**
+ * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - 插入并玩 思想树的实施:用大语言模型故意解决问题,至少提高模型推理70%
 
 
 **Others**
- * [alldata](https://github.com/alldatacenter/alldata) - 🔥 AllData大数据产品是可定义的数据中台,以数据平台为底座,以数据中台为桥梁,以机器学习平台,GPT平台为框架,提供全链路数字化解决方案.
- * [SuperCLUE](https://github.com/cluebenchmark/superclue) - 超级指南:中文通用大模型综合性基准
+ * [worktool](https://github.com/gallonyin/worktool) - 企业微信企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
 
 
-_Updated on November 17, 2023_ (A total of 1210 repositories listed.)
+_Updated on November 20, 2023_ (A total of 1214 repositories listed.)
 
 ## Table of contents
 
@@ -87,6 +77,8 @@ _Updated on November 17, 2023_ (A total of 1210 repositories listed.)
  * [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - 这个仓库包含了一个手动策划的资源，重点关注生成式预训练转换器（GPT）、ChatGPT、PaLM等方面的Prompt工程。
  * [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - 一个精选的生成式人工智能工具、作品、模型和参考资料列表
  * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPT相关开源项目合集🚀、精选🔥🔥
+ * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - 收集了一系列与人工智能相关的实用工具。欢迎提交问题和拉取请求。
+ * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 精选的超棒GPT清单👍。
 
 
 ## Prompts
@@ -176,6 +168,7 @@ _Updated on November 17, 2023_ (A total of 1210 repositories listed.)
  * [botpress](https://github.com/botpress/botpress) - 构建和部署GPT/LLM代理的开源中心 ⚡️
  * [promptflow](https://github.com/microsoft/promptflow) - 构建高质量的LLM应用程序-从原型设计、测试到生产部署和监控。
  * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12个课程，开始使用生成式人工智能构建  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+ * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - 插入并播放思维树的实现：通过大型语言模型进行有意识的问题解决，将模型推理提升至至少70%。
 
 
 ## Chatbots
@@ -1323,5 +1316,6 @@ _Updated on November 17, 2023_ (A total of 1210 repositories listed.)
  * [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ChatGPT Java SDK。支持 GPT3.5、GPT4 API。开箱即用。
  * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据产品是可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台，GPT平台为框架，提供全链路数字化解决方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | 一个用于中文基础模型的基准测试
+ * [worktool](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
 
 

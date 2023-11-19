@@ -684,6 +684,54 @@
                     "zh-hans": "GPT相关开源项目合集🚀、精选🔥🔥",
                     "zh-hant": "GPT相關開源項目合集🚀、精選🔥🔥"
                 }
+            },
+            "https://github.com/ikaijua/awesome-aitools": {
+                "repository_name": "Awesome-AITools",
+                "user_name": "ikaijua",
+                "language": null,
+                "license": null,
+                "description": "Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests",
+                "topics": [
+                    "ai",
+                    "awesome",
+                    "chat-gpt",
+                    "chatgpt",
+                    "gpt-4",
+                    "llm",
+                    "tools"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests",
+                    "ja": "AI関連のユーティリティのコレクションです。問題やプルリクエストの提出を歓迎します。",
+                    "zh-hans": "收集了一系列与人工智能相关的实用工具。欢迎提交问题和拉取请求。",
+                    "zh-hant": "收藏AI相關的實用工具，歡迎提交issues或者pull requests"
+                }
+            },
+            "https://github.com/ai-boost/awesome-gpts": {
+                "repository_name": "Awesome-GPTs",
+                "user_name": "ai-boost",
+                "language": null,
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "Curated list of awesome GPTs 👍.",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "curated-list",
+                    "gpts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Curated list of awesome GPTs 👍.",
+                    "ja": "素晴らしいGPTの厳選リスト 👍。",
+                    "zh-hans": "精选的超棒GPT清单👍。",
+                    "zh-hant": "精心挑選的超棒GPT清單👍。"
+                }
             }
         },
         "Prompts": {
@@ -2450,6 +2498,36 @@
                     "ja": "12のレッスン、ジェネレーティブAIを使ってビルディングを始めましょう 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
                     "zh-hans": "12个课程，开始使用生成式人工智能构建  🔗 https://microsoft.github.io/generative-ai-for-beginners/",
                     "zh-hant": "12堂課，開始使用生成式人工智慧建構  🔗 https://microsoft.github.io/generative-ai-for-beginners/"
+                }
+            },
+            "https://github.com/kyegomez/tree-of-thoughts": {
+                "repository_name": "tree-of-thoughts",
+                "user_name": "kyegomez",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% ",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "deep-learning",
+                    "gpt4",
+                    "multimodal",
+                    "prompt",
+                    "prompt-engineering",
+                    "prompt-learning",
+                    "prompt-tuning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% ",
+                    "ja": "ツリーオブソウルのプラグインとプレイの実装：大規模言語モデルによる意図的な問題解決を70％以上向上させる",
+                    "zh-hans": "插入并播放思维树的实现：通过大型语言模型进行有意识的问题解决，将模型推理提升至至少70%。",
+                    "zh-hant": "樹狀思維的即插即用實現：利用大型語言模型進行有意義的問題解決，至少提升模型推理能力70%。"
                 }
             }
         },
@@ -25524,6 +25602,26 @@
                     "ja": "SuperCLUE: 中国語の基礎モデルのためのベンチマーク",
                     "zh-hans": "SuperCLUE: 中文通用大模型综合性基准 | 一个用于中文基础模型的基准测试",
                     "zh-hant": "SuperCLUE: 中文通用大模型综合性基准 | 一個針對中文基礎模型的基準測試"
+                }
+            },
+            "https://github.com/gallonyin/worktool": {
+                "repository_name": "worktool",
+                "user_name": "gallonyin",
+                "language": "Kotlin",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "[Enterprise WeChat] Enterprise WeChat Robot Chatbot, automatic friend adding, automatic group creation, automatic group messaging robot, no need for Root, zero account suspension, integrated with ChatGPT.",
+                    "ja": "【企業微信】企業微信のロボット チャットボット、自動的に友達を追加、自動的にグループに招待、自動的にメッセージを送信するロボット ルート不要でアカウントが封鎖されない ChatGPTを統合",
+                    "zh-hans": "【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT",
+                    "zh-hant": "【企業微信】企業微信機器人 聊天機器人、自動加好友、自動拉群、自動群發機器人 免Root零封號 集成ChatGPT"
                 }
             }
         }
