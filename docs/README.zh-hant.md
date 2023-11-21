@@ -15,20 +15,20 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - 收藏AI相關的實用工具,歡迎提交問題或拉回要求
- * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 覽這些精彩的GPT名單.
-
-
 **Prompts**
- * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - 透過大語言模型故意解決問題, 這樣至少能提高模型推理能力70%
+ * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - 學習快速的快速工程,生成性人工智能和LLM指南.
+ * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - 總結:開源數據與模型,AIGC應用
 
 
-**Others**
- * [worktool](https://github.com/gallonyin/worktool) - 企業微信企業微信機器人 聊天機器人、自動加好友、自動拉群、自動群發機器人 免Root零封號 集成ChatGPT
+**Chatbots**
+ * [anything-llm](https://github.com/mintplex-labs/anything-llm) - 支持無限文件,連結,並同時使用者和管理,所有都在一個非常乾淨的UI.
 
 
-_Updated on November 20, 2023_ (A total of 1214 repositories listed.)
+**Openai**
+ * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) -  钉钉 &  GPT-3.5 讓你的工作效率直接起飛  私聊群聊方式、單聊串聊模式、角色扮演、圖片創作
+
+
+_Updated on November 22, 2023_ (A total of 1218 repositories listed.)
 
 ## Table of contents
 
@@ -169,6 +169,8 @@ _Updated on November 20, 2023_ (A total of 1214 repositories listed.)
  * [promptflow](https://github.com/microsoft/promptflow) - 建立高品質的LLM應用程式 - 從原型製作、測試到生產部署和監控。
  * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12堂課，開始使用生成式人工智慧建構  🔗 https://microsoft.github.io/generative-ai-for-beginners/
  * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - 樹狀思維的即插即用實現：利用大型語言模型進行有意義的問題解決，至少提升模型推理能力70%。
+ * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering、生成式人工智能和LLM指南，由Learn Prompting提供 | 加入我們的Discord，成為最大的Prompt Engineering學習社群。
+ * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - 總結Prompt&LLM論文，開源數據&模型，AIGC應用
 
 
 ## Chatbots
@@ -325,6 +327,8 @@ _Updated on November 20, 2023_ (A total of 1214 repositories listed.)
  * [autogen](https://github.com/microsoft/autogen) - 啟用下一代大型語言模型應用程式。加入我們的Discord：https://discord.gg/pAbnFJrkgZ
  * [GPTDiscord](https://github.com/kav-k/gptdiscord) - 一個強大的、全能的Discord GPT界面。ChatGPT風格的對話、圖像生成、AI審核、自定義索引/知識庫、YouTube摘要等等！
  * [BotSharp](https://github.com/scisharp/botsharp) - .NET中的AI代理應用程式框架
+ * [anything-llm](https://github.com/mintplex-labs/anything-llm) - 針對開源和封閉源LLMs、嵌入器和向量數據庫的開源ChatGPT等效體驗。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。
+開源ChatGPT等效體驗，適用於開源和封閉源LLMs、嵌入器和向量數據庫。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。
 
 
 ## Browser-extensions
@@ -1003,6 +1007,7 @@ _Updated on November 20, 2023_ (A total of 1214 repositories listed.)
  * [feishu-openai](https://github.com/connectai-e/feishu-openai) - 🎒 飛書 ×（GPT-4 + DALL·E-3 + Whisper）= 飛一般的工作體驗 🚀 語音對話、角色扮演、多話題討論、圖片創作、表格分析、文件導出 🚀
  * [openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI 和 DALL-E
  * [chatgpt](https://github.com/dirk1983/chatgpt) - 全網最易部署，響應速度最快的ChatGPT環境。PHP版調用OpenAI接口進行問答和畫圖，採用Stream流模式通信，一邊生成一邊輸出。前端採用EventSource，支持Markdown格式解析，支持公式顯示，代碼有著色處理，支持畫圖。頁面UI簡潔，支持上下文連續會話。源碼只有幾個文件，沒有使用任何框架，支持所有PHP版本，全部開源，極易二次開發。保姆級教程，全部周邊資源，歡迎進群交流，一切全免費。
+ * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 釘釘 & 🤖 GPT-3.5 讓你的工作效率直接起飛 🚀 私聊群聊方式、單聊串聊模式、角色扮演、圖片創作 🚀
 
 
 ## Others

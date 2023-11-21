@@ -2529,6 +2529,73 @@
                     "zh-hans": "插入并播放思维树的实现：通过大型语言模型进行有意识的问题解决，将模型推理提升至至少70%。",
                     "zh-hant": "樹狀思維的即插即用實現：利用大型語言模型進行有意義的問題解決，至少提升模型推理能力70%。"
                 }
+            },
+            "https://github.com/trigaten/learn_prompting": {
+                "repository_name": "Learn_Prompting",
+                "user_name": "trigaten",
+                "language": "TeX",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "deep-learning",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt-4-api",
+                    "gpt3",
+                    "large-language-models",
+                    "llm",
+                    "machine-learning",
+                    "nlp",
+                    "openai-api",
+                    "prompt-engineering",
+                    "prompt-toolkit",
+                    "prompt-tuning",
+                    "prompting",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community",
+                    "ja": "Prompt Engineering、Generative AI、およびLLM Guide by Learn Prompting | 最大のPrompt Engineering学習コミュニティに参加するために、私たちのdiscordに参加してください。",
+                    "zh-hans": "Prompt Engineering，生成式人工智能和LLM指南由Learn Prompting提供 | 加入我们的Discord，成为最大的Prompt Engineering学习社区的一员。",
+                    "zh-hant": "Prompt Engineering、生成式人工智能和LLM指南，由Learn Prompting提供 | 加入我們的Discord，成為最大的Prompt Engineering學習社群。"
+                }
+            },
+            "https://github.com/dsxiangli/decryptprompt": {
+                "repository_name": "DecryptPrompt",
+                "user_name": "DSXiangLi",
+                "language": null,
+                "license": null,
+                "description": "总结Prompt&LLM论文，开源数据&模型，AIGC应用",
+                "topics": [
+                    "aigc",
+                    "chain-of-thought",
+                    "chatgpt",
+                    "demonstration",
+                    "few-shot-learning",
+                    "in-context-learning",
+                    "instruction-tuning",
+                    "llm",
+                    "llm-agent",
+                    "papers",
+                    "prompt",
+                    "prompt-engineering",
+                    "prompt-tuning",
+                    "zero-shot-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Summary of Prompt & LLM thesis, open source data & models, AIGC application.",
+                    "ja": "Prompt＆LLM論文のまとめ、オープンソースのデータ＆モデル、AIGCの応用",
+                    "zh-hans": "总结Prompt&LLM论文，开源数据&模型，AIGC应用",
+                    "zh-hant": "總結Prompt&LLM論文，開源數據&模型，AIGC應用"
+                }
             }
         },
         "Chatbots": {
@@ -5984,6 +6051,42 @@
                     "ja": ".NETでのAIエージェントアプリケーションフレームワーク",
                     "zh-hans": "AI代理应用程序框架在.NET中",
                     "zh-hant": ".NET中的AI代理應用程式框架"
+                }
+            },
+            "https://github.com/mintplex-labs/anything-llm": {
+                "repository_name": "anything-llm",
+                "user_name": "Mintplex-Labs",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.",
+                "topics": [
+                    "chatbots",
+                    "chatgpt-app",
+                    "chroma",
+                    "gpt3",
+                    "langchain",
+                    "llama",
+                    "llm",
+                    "llm-inference",
+                    "mistral-7b",
+                    "openai",
+                    "openai-api",
+                    "openai-chatgpt",
+                    "pinecone",
+                    "rag",
+                    "retrieval-augmented-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.",
+                    "ja": "オープンソースのChatGPTに相当する経験を、オープンソースおよびクローズドソースのLLMs、埋め込みツール、およびベクトルデータベースに提供します。非常にクリーンなUIで、無制限のドキュメント、スレッド、および同時ユーザーをサポートし、すべてを管理します。",
+                    "zh-hans": "开源的ChatGPT等效体验，适用于开源和闭源的LLMs、嵌入器和向量数据库。支持无限的文档、线程和并发用户，并在非常清晰的用户界面中进行管理。",
+                    "zh-hant": "針對開源和封閉源LLMs、嵌入器和向量數據庫的開源ChatGPT等效體驗。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。\n開源ChatGPT等效體驗，適用於開源和封閉源LLMs、嵌入器和向量數據庫。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。"
                 }
             }
         },
@@ -19821,6 +19924,36 @@
                     "ja": "全ウェブ最も簡単に展開でき、最も高速な応答速度を持つChatGPT環境。PHP版はOpenAI APIを呼び出して質問と図の生成を行い、Streamストリームモード通信を採用し、生成と出力を同時に行います。フロントエンドはEventSourceを使用し、Markdown形式の解析と数式の表示をサポートし、コードには色付け処理があり、図の表示もサポートしています。ページのUIはシンプルで、コンテキストの連続した会話をサポートしています。ソースコードはわずかなファイルのみで、フレームワークは使用しておらず、すべてのPHPバージョンをサポートし、完全にオープンソースで、非常に簡単にカスタマイズできます。チュートリアルや関連リソースも完備しており、グループへの参加と交流を歓迎します。すべて無料です。",
                     "zh-hans": "全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。",
                     "zh-hant": "全網最易部署，響應速度最快的ChatGPT環境。PHP版調用OpenAI接口進行問答和畫圖，採用Stream流模式通信，一邊生成一邊輸出。前端採用EventSource，支持Markdown格式解析，支持公式顯示，代碼有著色處理，支持畫圖。頁面UI簡潔，支持上下文連續會話。源碼只有幾個文件，沒有使用任何框架，支持所有PHP版本，全部開源，極易二次開發。保姆級教程，全部周邊資源，歡迎進群交流，一切全免費。"
+                }
+            },
+            "https://github.com/connectai-e/dingtalk-openai": {
+                "repository_name": "Dingtalk-OpenAI",
+                "user_name": "ConnectAI-E",
+                "language": "Go",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "connect-ai",
+                    "dingtalk",
+                    "dingtalk-robot",
+                    "go",
+                    "go-gpt",
+                    "golang",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: 🎒 DingTalk & 🤖 GPT-3.5 boost your work efficiency directly 🚀 Private chat, group chat, one-on-one conversation, role-playing, image creation 🚀",
+                    "ja": "🎒 钉钉 & 🤖 GPT-3.5 は、あなたの仕事の効率を直接的に向上させます 🚀 プライベートチャットやグループチャットの方法、一対一のチャットや連続チャットのモード、役割プレイ、画像作成などが可能です 🚀",
+                    "zh-hans": "🎒 钉钉和🤖 GPT-3.5可以让你的工作效率直接提升🚀。它支持私聊和群聊方式，还有单聊和串聊模式。此外，它还可以进行角色扮演和图片创作🚀。",
+                    "zh-hant": "🎒 釘釘 & 🤖 GPT-3.5 讓你的工作效率直接起飛 🚀 私聊群聊方式、單聊串聊模式、角色扮演、圖片創作 🚀"
                 }
             }
         },

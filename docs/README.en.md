@@ -16,20 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
- * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - Curated list of awesome GPTs 👍.
-
-
 **Prompts**
- * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
+ * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
+ * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - Summary of Prompt & LLM thesis, open source data & models, AIGC application.
 
 
-**Others**
- * [worktool](https://github.com/gallonyin/worktool) - [Enterprise WeChat] Enterprise WeChat Robot Chatbot, automatic friend adding, automatic group creation, automatic group messaging robot, no need for Root, zero account suspension, integrated with ChatGPT.
+**Chatbots**
+ * [anything-llm](https://github.com/mintplex-labs/anything-llm) - Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.
 
 
-_Updated on November 20, 2023_ (A total of 1214 repositories listed.)
+**Openai**
+ * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - Input: 🎒 DingTalk & 🤖 GPT-3.5 boost your work efficiency directly 🚀 Private chat, group chat, one-on-one conversation, role-playing, image creation 🚀
+
+
+_Updated on November 22, 2023_ (A total of 1218 repositories listed.)
 
 ## Table of contents
 
@@ -170,6 +170,8 @@ _Updated on November 20, 2023_ (A total of 1214 repositories listed.)
  * [promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
  * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
  * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
+ * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
+ * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - Summary of Prompt & LLM thesis, open source data & models, AIGC application.
 
 
 ## Chatbots
@@ -326,6 +328,7 @@ _Updated on November 20, 2023_ (A total of 1214 repositories listed.)
  * [autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
  * [GPTDiscord](https://github.com/kav-k/gptdiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
  * [BotSharp](https://github.com/scisharp/botsharp) - The AI Agent Application Framework in .NET
+ * [anything-llm](https://github.com/mintplex-labs/anything-llm) - Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.
 
 
 ## Browser-extensions
@@ -1004,6 +1007,7 @@ _Updated on November 20, 2023_ (A total of 1214 repositories listed.)
  * [feishu-openai](https://github.com/connectai-e/feishu-openai) - Input: 🎒 Feishu × (GPT-4 + DALL·E-3 + Whisper) = An extraordinary work experience 🚀 Voice conversation, role-playing, multi-topic discussions, image creation, spreadsheet analysis, document export 🚀
  * [openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E 
  * [chatgpt](https://github.com/dirk1983/chatgpt) - Input: The easiest to deploy and fastest responding ChatGPT environment on the entire web. The PHP version calls the OpenAI interface for question answering and drawing, using Stream flow mode communication to generate and output simultaneously. The front-end uses EventSource, supports Markdown format parsing, formula display, code highlighting, and drawing. The page UI is simple, supports continuous contextual conversation. The source code consists of only a few files, without any frameworks, supports all PHP versions, is completely open source, and extremely easy to customize. There is a comprehensive tutorial and all related resources available. Welcome to join the group for communication, everything is completely free.
+ * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - Input: 🎒 DingTalk & 🤖 GPT-3.5 boost your work efficiency directly 🚀 Private chat, group chat, one-on-one conversation, role-playing, image creation 🚀
 
 
 ## Others
