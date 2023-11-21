@@ -15,20 +15,20 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - AI関連のユーティリティのコレクションです。問題やプルリクエストの提出を歓迎します。
- * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 素晴らしいGPTの厳選リスト 👍。
-
-
 **Prompts**
- * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - ツリーオブソウルのプラグインとプレイの実装：大規模言語モデルによる意図的な問題解決を70％以上向上させる
+ * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering、Generative AI、およびLLM Guide by Learn Prompting | 最大のPrompt Engineering学習コミュニティに参加するために、私たちのdiscordに参加してください。
+ * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - Prompt＆LLM論文のまとめ、オープンソースのデータ＆モデル、AIGCの応用
 
 
-**Others**
- * [worktool](https://github.com/gallonyin/worktool) - 【企業微信】企業微信のロボット チャットボット、自動的に友達を追加、自動的にグループに招待、自動的にメッセージを送信するロボット ルート不要でアカウントが封鎖されない ChatGPTを統合
+**Chatbots**
+ * [anything-llm](https://github.com/mintplex-labs/anything-llm) - オープンソースのChatGPTに相当する経験を、オープンソースおよびクローズドソースのLLMs、埋め込みツール、およびベクトルデータベースに提供します。非常にクリーンなUIで、無制限のドキュメント、スレッド、および同時ユーザーをサポートし、すべてを管理します。
 
 
-_Updated on November 20, 2023_ (A total of 1214 repositories listed.)
+**Openai**
+ * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉 & 🤖 GPT-3.5 は、あなたの仕事の効率を直接的に向上させます 🚀 プライベートチャットやグループチャットの方法、一対一のチャットや連続チャットのモード、役割プレイ、画像作成などが可能です 🚀
+
+
+_Updated on November 22, 2023_ (A total of 1218 repositories listed.)
 
 ## Table of contents
 
@@ -169,6 +169,8 @@ _Updated on November 20, 2023_ (A total of 1214 repositories listed.)
  * [promptflow](https://github.com/microsoft/promptflow) - 高品質なLLMアプリを構築します - プロトタイピング、テストから本番展開、モニタリングまで。
  * [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 12のレッスン、ジェネレーティブAIを使ってビルディングを始めましょう 🔗 https://microsoft.github.io/generative-ai-for-beginners/
  * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - ツリーオブソウルのプラグインとプレイの実装：大規模言語モデルによる意図的な問題解決を70％以上向上させる
+ * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering、Generative AI、およびLLM Guide by Learn Prompting | 最大のPrompt Engineering学習コミュニティに参加するために、私たちのdiscordに参加してください。
+ * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - Prompt＆LLM論文のまとめ、オープンソースのデータ＆モデル、AIGCの応用
 
 
 ## Chatbots
@@ -325,6 +327,7 @@ _Updated on November 20, 2023_ (A total of 1214 repositories listed.)
  * [autogen](https://github.com/microsoft/autogen) - 次世代の大規模言語モデルアプリケーションを有効にする。私たちのDiscordに参加してください：https://discord.gg/pAbnFJrkgZ
  * [GPTDiscord](https://github.com/kav-k/gptdiscord) - Discord用の堅牢なオールインワンGPTインターフェース。ChatGPTスタイルの会話、画像生成、AIモデレーション、カスタムインデックス/ナレッジベース、YouTubeサマライザーなどが利用可能です！
  * [BotSharp](https://github.com/scisharp/botsharp) - .NETでのAIエージェントアプリケーションフレームワーク
+ * [anything-llm](https://github.com/mintplex-labs/anything-llm) - オープンソースのChatGPTに相当する経験を、オープンソースおよびクローズドソースのLLMs、埋め込みツール、およびベクトルデータベースに提供します。非常にクリーンなUIで、無制限のドキュメント、スレッド、および同時ユーザーをサポートし、すべてを管理します。
 
 
 ## Browser-extensions
@@ -1003,6 +1006,7 @@ _Updated on November 20, 2023_ (A total of 1214 repositories listed.)
  * [feishu-openai](https://github.com/connectai-e/feishu-openai) - 🎒 フェイシュー ×（GPT-4 + DALL·E-3 + Whisper）= フェイのような仕事体験 🚀 音声対話、役割演技、多様なトピックの議論、画像作成、表の分析、ドキュメントのエクスポート 🚀
  * [openai](https://github.com/betalgo/openai) - OpenAI .NET SDK - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI、およびDALL-E
  * [chatgpt](https://github.com/dirk1983/chatgpt) - 全ウェブ最も簡単に展開でき、最も高速な応答速度を持つChatGPT環境。PHP版はOpenAI APIを呼び出して質問と図の生成を行い、Streamストリームモード通信を採用し、生成と出力を同時に行います。フロントエンドはEventSourceを使用し、Markdown形式の解析と数式の表示をサポートし、コードには色付け処理があり、図の表示もサポートしています。ページのUIはシンプルで、コンテキストの連続した会話をサポートしています。ソースコードはわずかなファイルのみで、フレームワークは使用しておらず、すべてのPHPバージョンをサポートし、完全にオープンソースで、非常に簡単にカスタマイズできます。チュートリアルや関連リソースも完備しており、グループへの参加と交流を歓迎します。すべて無料です。
+ * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉 & 🤖 GPT-3.5 は、あなたの仕事の効率を直接的に向上させます 🚀 プライベートチャットやグループチャットの方法、一対一のチャットや連続チャットのモード、役割プレイ、画像作成などが可能です 🚀
 
 
 ## Others
