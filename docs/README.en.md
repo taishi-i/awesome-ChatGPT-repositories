@@ -16,20 +16,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
- * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - Summary of Prompt & LLM thesis, open source data & models, AIGC application.
+**Awesome-lists**
+ * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - Tracking and collecting papers/projects/others related to Segment Anything.
 
 
-**Chatbots**
- * [anything-llm](https://github.com/mintplex-labs/anything-llm) - Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.
+**CLIs**
+ * [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 
 
-**Openai**
- * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - Input: 🎒 DingTalk & 🤖 GPT-3.5 boost your work efficiency directly 🚀 Private chat, group chat, one-on-one conversation, role-playing, image creation 🚀
+**NLP**
+ * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
 
 
-_Updated on November 22, 2023_ (A total of 1218 repositories listed.)
+_Updated on November 24, 2023_ (A total of 1221 repositories listed.)
 
 ## Table of contents
 
@@ -80,6 +79,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
  * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
  * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - Curated list of awesome GPTs 👍.
+ * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - Tracking and collecting papers/projects/others related to Segment Anything.
 
 
 ## Prompts
@@ -578,6 +578,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
  * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
+ * [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
 
 
 ## Reimplementations
@@ -797,6 +798,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model
  * [TavernAI](https://github.com/tavernai/tavernai) - Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)
  * [lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
+ * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
 
 
 ## Langchain

@@ -15,20 +15,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering、Generative AI、およびLLM Guide by Learn Prompting | 最大のPrompt Engineering学習コミュニティに参加するために、私たちのdiscordに参加してください。
- * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - Prompt＆LLM論文のまとめ、オープンソースのデータ＆モデル、AIGCの応用
+**Awesome-lists**
+ * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - セグメントアニシングに関連する論文、プロジェクト、その他の情報を追跡して収集します。
 
 
-**Chatbots**
- * [anything-llm](https://github.com/mintplex-labs/anything-llm) - オープンソースのChatGPTに相当する経験を、オープンソースおよびクローズドソースのLLMs、埋め込みツール、およびベクトルデータベースに提供します。非常にクリーンなUIで、無制限のドキュメント、スレッド、および同時ユーザーをサポートし、すべてを管理します。
+**CLIs**
+ * [openai-kotlin](https://github.com/aallam/openai-kotlin) - マルチプラットフォームとコルーチンの機能を備えたKotlin用のOpenAI APIクライアント。
 
 
-**Openai**
- * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉 & 🤖 GPT-3.5 は、あなたの仕事の効率を直接的に向上させます 🚀 プライベートチャットやグループチャットの方法、一対一のチャットや連続チャットのモード、役割プレイ、画像作成などが可能です 🚀
+**NLP**
+ * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（またはChat Arena）は、LLMs向けのマルチエージェント言語ゲーム環境です。目標は、AIのコミュニケーションと協力能力を開発することです。
 
 
-_Updated on November 22, 2023_ (A total of 1218 repositories listed.)
+_Updated on November 24, 2023_ (A total of 1221 repositories listed.)
 
 ## Table of contents
 
@@ -79,6 +78,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPTに関連するオープンソースプロジェクトのコレクション、GPT関連のオープンソースプロジェクトのまとめ🚀、厳選🔥🔥
  * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - AI関連のユーティリティのコレクションです。問題やプルリクエストの提出を歓迎します。
  * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 素晴らしいGPTの厳選リスト 👍。
+ * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - セグメントアニシングに関連する論文、プロジェクト、その他の情報を追跡して収集します。
 
 
 ## Prompts
@@ -577,6 +577,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - ローカルで実行されるターミナル上のOpenAIのコードインタプリター
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDKは、ストリーミング出力、Gptプラグイン、ネットワーキングをサポートしています。OpenAI公式のすべてのインターフェースをサポートしています。ChatGPTのJavaクライアントです。OpenAI GPT-3.5-Turbo GPT-4のJava用APIクライアントです。
  * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - LLMsのPower CLIとワークフローマネージャー（コアパッケージ）
+ * [openai-kotlin](https://github.com/aallam/openai-kotlin) - マルチプラットフォームとコルーチンの機能を備えたKotlin用のOpenAI APIクライアント。
 
 
 ## Reimplementations
@@ -796,6 +797,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT: あらゆるモーダルに対応した大規模言語モデルのコードとモデル
  * [TavernAI](https://github.com/tavernai/tavernai) - AI言語モデル（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）の大気冒険チャット
  * [lmql](https://github.com/eth-sri/lmql) - 制約に基づいた効率的なLLMプログラミングのための言語。
+ * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（またはChat Arena）は、LLMs向けのマルチエージェント言語ゲーム環境です。目標は、AIのコミュニケーションと協力能力を開発することです。
 
 
 ## Langchain

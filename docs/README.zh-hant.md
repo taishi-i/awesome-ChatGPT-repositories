@@ -15,20 +15,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - 學習快速的快速工程,生成性人工智能和LLM指南.
- * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - 總結:開源數據與模型,AIGC應用
+**Awesome-lists**
+ * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - 追蹤和收集與任何部分相關的文件/項目/其他資料.
 
 
-**Chatbots**
- * [anything-llm](https://github.com/mintplex-labs/anything-llm) - 支持無限文件,連結,並同時使用者和管理,所有都在一個非常乾淨的UI.
+**CLIs**
+ * [openai-kotlin](https://github.com/aallam/openai-kotlin) - 提供多平台與 coroutines功能.
 
 
-**Openai**
- * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) -  钉钉 &  GPT-3.5 讓你的工作效率直接起飛  私聊群聊方式、單聊串聊模式、角色扮演、圖片創作
+**NLP**
+ * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena (或聊天場) 是一款為LLM提供多代理語言遊戲環境.
 
 
-_Updated on November 22, 2023_ (A total of 1218 repositories listed.)
+_Updated on November 24, 2023_ (A total of 1221 repositories listed.)
 
 ## Table of contents
 
@@ -79,6 +78,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPT相關開源項目合集🚀、精選🔥🔥
  * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - 收藏AI相關的實用工具，歡迎提交issues或者pull requests
  * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 精心挑選的超棒GPT清單👍。
+ * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - 追蹤並收集與分割任何相關的文件/專案/其他內容。
 
 
 ## Prompts
@@ -327,8 +327,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [autogen](https://github.com/microsoft/autogen) - 啟用下一代大型語言模型應用程式。加入我們的Discord：https://discord.gg/pAbnFJrkgZ
  * [GPTDiscord](https://github.com/kav-k/gptdiscord) - 一個強大的、全能的Discord GPT界面。ChatGPT風格的對話、圖像生成、AI審核、自定義索引/知識庫、YouTube摘要等等！
  * [BotSharp](https://github.com/scisharp/botsharp) - .NET中的AI代理應用程式框架
- * [anything-llm](https://github.com/mintplex-labs/anything-llm) - 針對開源和封閉源LLMs、嵌入器和向量數據庫的開源ChatGPT等效體驗。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。
-開源ChatGPT等效體驗，適用於開源和封閉源LLMs、嵌入器和向量數據庫。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。
+ * [anything-llm](https://github.com/mintplex-labs/anything-llm) - 針對開源和封閉源LLMs、嵌入器和向量數據庫的開源ChatGPT等效體驗。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。開源ChatGPT等效體驗，適用於開源和封閉源LLMs、嵌入器和向量數據庫。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。
 
 
 ## Browser-extensions
@@ -578,6 +577,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - 在您的终端中运行的OpenAI代码解释器
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式輸出、Gpt插件、聯網。支持OpenAI官方所有接口。ChatGPT的Java客戶端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
  * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - LLMs的Power CLI和工作流程管理器（核心套件）
+ * [openai-kotlin](https://github.com/aallam/openai-kotlin) - 具有多平台和協程功能的 Kotlin OpenAI API 客戶端。
 
 
 ## Reimplementations
@@ -797,6 +797,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT：任意到任意多模態大型語言模型的代碼和模型
  * [TavernAI](https://github.com/tavernai/tavernai) - AI語言模型的大氣冒險聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）
  * [lmql](https://github.com/eth-sri/lmql) - 一種用於受限制引導和高效LLM編程的語言。
+ * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（或Chat Arena）是一個為LLMs設計的多智能體語言遊戲環境。其目標是發展AI的溝通和協作能力。
 
 
 ## Langchain
