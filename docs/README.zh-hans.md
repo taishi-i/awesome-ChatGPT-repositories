@@ -15,20 +15,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - 通过学习快速的快速工程,生成性人工智能和LLM指南.
- * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - 总结 问答&LLM论文,开源数据&模型,AIGC应用
+**Awesome-lists**
+ * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - 追踪和收集与任何部分相关的论文/项目/其他.
 
 
-**Chatbots**
- * [anything-llm](https://github.com/mintplex-labs/anything-llm) - 开源 ChatGPT 类似的经验,适用于开源和近源 LLM,嵌入器和向量数据库.支持无限的文档,线程,并发用户和管理,所有这些都在一个非常干净的UI中.
+**CLIs**
+ * [openai-kotlin](https://github.com/aallam/openai-kotlin) - 开放AI API客户端为 Kotlin 提供多平台和 coroutines 功能.
 
 
-**Openai**
- * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) -  钉钉 &  GPT-3.5 让你的工作效率直接起飞  私聊群聊方式、单聊串聊模式、角色扮演、图片创作
+**NLP**
+ * [chatarena](https://github.com/farama-foundation/chatarena) - 聊天场 (或聊天场) 是一个为LLM提供多代理语言游戏环境.其目标是开发AI的通信和协作能力.
 
 
-_Updated on November 22, 2023_ (A total of 1218 repositories listed.)
+_Updated on November 24, 2023_ (A total of 1221 repositories listed.)
 
 ## Table of contents
 
@@ -79,6 +78,8 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPT相关开源项目合集🚀、精选🔥🔥
  * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - 收集了一系列与人工智能相关的实用工具。欢迎提交问题和拉取请求。
  * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 精选的超棒GPT清单👍。
+ * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - 跟踪和收集与分割任何相关的论文/项目/其他内容。
+跟踪和收集与分割任何相关的论文/项目/其他内容。
 
 
 ## Prompts
@@ -577,6 +578,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [open-interpreter](https://github.com/killianlucas/open-interpreter) - 在您的终端中运行的OpenAI代码解释器
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Java Api客户端。ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Java Api客户端。
  * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - LLMs的Power CLI和工作流管理器（核心包）
+ * [openai-kotlin](https://github.com/aallam/openai-kotlin) - 具有多平台和协程功能的Kotlin的OpenAI API客户端。
 
 
 ## Reimplementations
@@ -796,6 +798,7 @@ _Updated on November 22, 2023_ (A total of 1218 repositories listed.)
  * [NExT-GPT](https://github.com/next-gpt/next-gpt) - NExT-GPT的代码和模型：任意到任意的多模态大型语言模型
  * [TavernAI](https://github.com/tavernai/tavernai) - 针对AI语言模型的大气冒险聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）
  * [lmql](https://github.com/eth-sri/lmql) - 一种用于约束引导和高效LLM编程的语言。
+ * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（或Chat Arena）是一个为LLMs设计的多智能体语言游戏环境。其目标是开发AI的沟通和协作能力。
 
 
 ## Langchain

@@ -732,6 +732,37 @@
                     "zh-hans": "精选的超棒GPT清单👍。",
                     "zh-hant": "精心挑選的超棒GPT清單👍。"
                 }
+            },
+            "https://github.com/hedlen/awesome-segment-anything": {
+                "repository_name": "awesome-segment-anything",
+                "user_name": "Hedlen",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Tracking and collecting papers/projects/others related to Segment Anything.",
+                "topics": [
+                    "application",
+                    "awesome-list",
+                    "chatgpt",
+                    "image-generation",
+                    "inpainting",
+                    "object-detection",
+                    "segment-anything",
+                    "segmentation",
+                    "stable-diffusion",
+                    "suvey"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Tracking and collecting papers/projects/others related to Segment Anything.",
+                    "ja": "セグメントアニシングに関連する論文、プロジェクト、その他の情報を追跡して収集します。",
+                    "zh-hans": "跟踪和收集与分割任何相关的论文/项目/其他内容。\n跟踪和收集与分割任何相关的论文/项目/其他内容。",
+                    "zh-hant": "追蹤並收集與分割任何相關的文件/專案/其他內容。"
+                }
             }
         },
         "Prompts": {
@@ -11417,6 +11448,39 @@
                     "zh-hans": "LLMs的Power CLI和工作流管理器（核心包）",
                     "zh-hant": "LLMs的Power CLI和工作流程管理器（核心套件）"
                 }
+            },
+            "https://github.com/aallam/openai-kotlin": {
+                "repository_name": "openai-kotlin",
+                "user_name": "aallam",
+                "language": "Kotlin",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "OpenAI API client for Kotlin with multiplatform and coroutines capabilities.",
+                "topics": [
+                    "api",
+                    "chatgpt",
+                    "client",
+                    "coroutines",
+                    "dall-e",
+                    "gpt",
+                    "kotlin",
+                    "kotlin-library",
+                    "llm",
+                    "multiplatform",
+                    "openai",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI API client for Kotlin with multiplatform and coroutines capabilities.",
+                    "ja": "マルチプラットフォームとコルーチンの機能を備えたKotlin用のOpenAI APIクライアント。",
+                    "zh-hans": "具有多平台和协程功能的Kotlin的OpenAI API客户端。",
+                    "zh-hant": "具有多平台和協程功能的 Kotlin OpenAI API 客戶端。"
+                }
             }
         },
         "Reimplementations": {
@@ -15681,6 +15745,37 @@
                     "ja": "制約に基づいた効率的なLLMプログラミングのための言語。",
                     "zh-hans": "一种用于约束引导和高效LLM编程的语言。",
                     "zh-hant": "一種用於受限制引導和高效LLM編程的語言。"
+                }
+            },
+            "https://github.com/farama-foundation/chatarena": {
+                "repository_name": "chatarena",
+                "user_name": "Farama-Foundation",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "gpt-4",
+                    "large-language-models",
+                    "multi-agent",
+                    "multi-agent-reinforcement-learning",
+                    "multi-agent-simulation",
+                    "natural-language-processing",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.",
+                    "ja": "ChatArena（またはChat Arena）は、LLMs向けのマルチエージェント言語ゲーム環境です。目標は、AIのコミュニケーションと協力能力を開発することです。",
+                    "zh-hans": "ChatArena（或Chat Arena）是一个为LLMs设计的多智能体语言游戏环境。其目标是开发AI的沟通和协作能力。",
+                    "zh-hant": "ChatArena（或Chat Arena）是一個為LLMs設計的多智能體語言遊戲環境。其目標是發展AI的溝通和協作能力。"
                 }
             }
         },
