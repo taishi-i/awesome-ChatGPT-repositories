@@ -763,6 +763,107 @@
                     "zh-hans": "跟踪和收集与分割任何相关的论文/项目/其他内容。\n跟踪和收集与分割任何相关的论文/项目/其他内容。",
                     "zh-hant": "追蹤並收集與分割任何相關的文件/專案/其他內容。"
                 }
+            },
+            "https://github.com/luban-agi/awesome-aigc-tutorials": {
+                "repository_name": "Awesome-AIGC-Tutorials",
+                "user_name": "luban-agi",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Curated tutorials and resources for Large Language Models, AI Painting, and more. ",
+                "topics": [
+                    "ai",
+                    "aigc",
+                    "awesome",
+                    "chatgpt",
+                    "courses-resource",
+                    "deep-learning",
+                    "llm",
+                    "midjourney",
+                    "multimodal",
+                    "nlp",
+                    "prompt-engineering",
+                    "stable-diffusion",
+                    "tutorials"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Curated tutorials and resources for Large Language Models, AI Painting, and more. ",
+                    "ja": "大規模言語モデル、AI絵画などのための厳選されたチュートリアルとリソース。",
+                    "zh-hans": "精选的大型语言模型、AI绘画等教程和资源。",
+                    "zh-hant": "精心挑選的大型語言模型、人工智慧繪畫等教學和資源。"
+                }
+            },
+            "https://github.com/taranjeet/awesome-gpts": {
+                "repository_name": "awesome-gpts",
+                "user_name": "taranjeet",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Collection of all the GPTs created by the community",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "gpts",
+                    "gptstore",
+                    "lists",
+                    "resources"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Collection of all the GPTs created by the community",
+                    "ja": "コミュニティによって作成されたすべてのGPTのコレクション",
+                    "zh-hans": "社区创建的所有GPT的集合",
+                    "zh-hant": "由社群創建的所有GPT的收藏"
+                }
+            },
+            "https://github.com/egoalpha/prompt-in-context-learning": {
+                "repository_name": "prompt-in-context-learning",
+                "user_name": "EgoAlpha",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.",
+                "topics": [
+                    "chain-of-thought",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "cot",
+                    "in-context-learning",
+                    "language-modeling",
+                    "language-understanding",
+                    "large-language-model",
+                    "llm",
+                    "pre-training",
+                    "prompt",
+                    "prompt-based-learning",
+                    "prompt-design",
+                    "prompt-engineering",
+                    "prompt-learning",
+                    "prompt-toolkit",
+                    "prompt-tuning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.",
+                    "ja": "コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。\n\nコンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。",
+                    "zh-hans": "用于上下文学习和提示工程的绝佳资源：掌握ChatGPT、GPT-3和FlanT5等LLM的最新和尖端更新。",
+                    "zh-hant": "出色的資源，用於上下文學習和提示工程：掌握像ChatGPT、GPT-3和FlanT5這樣的LLM的最新和尖端更新。"
+                }
             }
         },
         "Prompts": {
@@ -2626,6 +2727,58 @@
                     "ja": "Prompt＆LLM論文のまとめ、オープンソースのデータ＆モデル、AIGCの応用",
                     "zh-hans": "总结Prompt&LLM论文，开源数据&模型，AIGC应用",
                     "zh-hant": "總結Prompt&LLM論文，開源數據&模型，AIGC應用"
+                }
+            },
+            "https://github.com/jackmpcollins/magentic": {
+                "repository_name": "magentic",
+                "user_name": "jackmpcollins",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Seamlessly integrate LLMs as Python functions",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "gpt",
+                    "llm",
+                    "magentic",
+                    "openai",
+                    "openai-api",
+                    "prompt",
+                    "pydantic"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Seamlessly integrate LLMs as Python functions",
+                    "ja": "Python関数としてLLMsをシームレスに統合する",
+                    "zh-hans": "无缝地将LLMs集成为Python函数",
+                    "zh-hant": "無縫地將LLMs整合為Python函數"
+                }
+            },
+            "https://github.com/louisshark/chatgpt_system_prompt": {
+                "repository_name": "chatgpt_system_prompt",
+                "user_name": "LouisShark",
+                "language": "Shell",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "store all agent's system prompt",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "store all agent's system prompt",
+                    "ja": "すべてのエージェントのシステムプロンプトを保存します。",
+                    "zh-hans": "存储所有代理人的系统提示",
+                    "zh-hant": "儲存所有代理人的系統提示"
                 }
             }
         },
@@ -6118,6 +6271,92 @@
                     "ja": "オープンソースのChatGPTに相当する経験を、オープンソースおよびクローズドソースのLLMs、埋め込みツール、およびベクトルデータベースに提供します。非常にクリーンなUIで、無制限のドキュメント、スレッド、および同時ユーザーをサポートし、すべてを管理します。",
                     "zh-hans": "开源的ChatGPT等效体验，适用于开源和闭源的LLMs、嵌入器和向量数据库。支持无限的文档、线程和并发用户，并在非常清晰的用户界面中进行管理。",
                     "zh-hant": "針對開源和封閉源LLMs、嵌入器和向量數據庫的開源ChatGPT等效體驗。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。\n開源ChatGPT等效體驗，適用於開源和封閉源LLMs、嵌入器和向量數據庫。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。"
+                }
+            },
+            "https://github.com/polterguy/magic": {
+                "repository_name": "magic",
+                "user_name": "polterguy",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Create a custom ChatGPT-based website chatbot",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "machine-learning",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create a custom ChatGPT-based website chatbot",
+                    "ja": "カスタムのChatGPTベースのウェブサイトチャットボットを作成してください。",
+                    "zh-hans": "创建一个基于ChatGPT的定制网站聊天机器人",
+                    "zh-hant": "建立一個基於ChatGPT的自定義網站聊天機器人。"
+                }
+            },
+            "https://github.com/run-llama/rags": {
+                "repository_name": "rags",
+                "user_name": "run-llama",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Build ChatGPT over your data, all with natural language",
+                "topics": [
+                    "agent",
+                    "chatbot",
+                    "chatgpt",
+                    "gpts",
+                    "llamaindex",
+                    "llm",
+                    "openai",
+                    "rag",
+                    "streamlit"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build ChatGPT over your data, all with natural language",
+                    "ja": "データを使用してChatGPTを構築し、すべて自然言語で行います。",
+                    "zh-hans": "使用您的数据构建ChatGPT，全部使用自然语言。",
+                    "zh-hant": "使用您的數據建立自然語言的ChatGPT。"
+                }
+            },
+            "https://github.com/scisharp/llamasharp": {
+                "repository_name": "LLamaSharp",
+                "user_name": "SciSharp",
+                "language": "C#",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Run LLaMA/GPT model easily and fast in C#!🤗 It's also easy to integrate LLamaSharp with semantic-kernel, unity, WPF and WebApp.",
+                "topics": [
+                    "aigc",
+                    "chatbot",
+                    "chatgpt",
+                    "gpt",
+                    "llama",
+                    "llamacpp",
+                    "llm",
+                    "scisharp",
+                    "semantic-kernel",
+                    "vector-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Run LLaMA/GPT model easily and fast in C#!🤗 It's also easy to integrate LLamaSharp with semantic-kernel, unity, WPF and WebApp.",
+                    "ja": "C#で簡単かつ高速にLLaMA/GPTモデルを実行できます！🤗 さらに、LLamaSharpをsemantic-kernel、unity、WPF、およびWebAppと簡単に統合することもできます。",
+                    "zh-hans": "在C#中轻松快速地运行LLaMA/GPT模型！🤗 同时，将LLamaSharp与语义内核、Unity、WPF和WebApp集成也很容易。",
+                    "zh-hant": "在C#中輕鬆快速地運行LLaMA/GPT模型！🤗 使用LLamaSharp與語義核心、Unity、WPF和WebApp進行集成也很容易。"
                 }
             }
         },
@@ -15777,6 +16016,47 @@
                     "zh-hans": "ChatArena（或Chat Arena）是一个为LLMs设计的多智能体语言游戏环境。其目标是开发AI的沟通和协作能力。",
                     "zh-hant": "ChatArena（或Chat Arena）是一個為LLMs設計的多智能體語言遊戲環境。其目標是發展AI的溝通和協作能力。"
                 }
+            },
+            "https://github.com/moataz-elmesmary/data-science-roadmap": {
+                "repository_name": "Data-Science-Roadmap",
+                "user_name": "Moataz-Elmesmary",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Data Science Roadmap from A to Z",
+                "topics": [
+                    "big-data",
+                    "chatgpt",
+                    "cheatsheet",
+                    "cv-template",
+                    "data-analysis",
+                    "data-engineering",
+                    "data-science",
+                    "data-visualization",
+                    "deep-learning",
+                    "interview-questions",
+                    "linear-algebra",
+                    "llms",
+                    "machine-learning",
+                    "mathematics",
+                    "neural-network",
+                    "nlp",
+                    "probability",
+                    "python",
+                    "sql",
+                    "statistics"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Data Science Roadmap from A to Z",
+                    "ja": "データサイエンスのロードマップ A から Z まで",
+                    "zh-hans": "从A到Z的数据科学路线图",
+                    "zh-hant": "從A到Z的數據科學路線圖"
+                }
             }
         },
         "Langchain": {
@@ -17189,6 +17469,47 @@
                     "zh-hans": "用于AI应用的数据库系统",
                     "zh-hant": "AI 引擎應用的資料庫系統"
                 }
+            },
+            "https://github.com/langchain4j/langchain4j": {
+                "repository_name": "langchain4j",
+                "user_name": "langchain4j",
+                "language": "Java",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Java version of LangChain",
+                "topics": [
+                    "azure-openai",
+                    "chatgpt",
+                    "chroma",
+                    "embeddings",
+                    "gpt",
+                    "huggingface",
+                    "java",
+                    "langchain",
+                    "langchain-java",
+                    "llama",
+                    "llama2",
+                    "localai",
+                    "milvus",
+                    "onnx",
+                    "openai",
+                    "pinecone",
+                    "spring",
+                    "spring-boot",
+                    "vector-database",
+                    "weaviate"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Java version of LangChain",
+                    "ja": "LangChainのJavaバージョン",
+                    "zh-hans": "LangChain的Java版本",
+                    "zh-hant": "Java 版本的 LangChain"
+                }
             }
         },
         "Unity": {
@@ -17328,6 +17649,37 @@
                     "ja": "Unityを使用してAIチャット関連の機能を実現します。現在、このライブラリにはchatgpt、chatglmなどの大規模言語モデルのAPI呼び出しのコード実装が含まれており、また、Microsoft AzureおよびBaidu AIの音声サービス機能も実装されています。音声サービスはすべてWeb APIを使用しており、Windows/WebGL/Androidなどのプラットフォームをサポートしています。",
                     "zh-hans": "使用Unity实现AI聊天相关功能。目前这个库包含了对ChatGPT、ChatGLM等大语言模型的API调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用Web API实现，支持Windows/WebGL/Android等平台。",
                     "zh-hant": "使用unity實現AI聊天相關功能。目前這個庫包含了對chatgpt、chatglm等大語言模型的api調用的程式實現以及實現了微軟Azure以及百度AI的語音服務功能，語音服務均採用web api實現，支援Windows/WebGL/Android等平台。"
+                }
+            },
+            "https://github.com/orhanerday/open-ai": {
+                "repository_name": "open-ai",
+                "user_name": "orhanerday",
+                "language": "PHP",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)",
+                "topics": [
+                    "cakephp",
+                    "dall-e",
+                    "dalle2",
+                    "gpt-3",
+                    "laravel",
+                    "openai",
+                    "openai-api",
+                    "php",
+                    "symfony",
+                    "yii"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)",
+                    "ja": "OpenAI PHP SDK：最もダウンロードされ、フォークされ、貢献され、大規模なコミュニティによってサポートされ、PHP（Laravel、Symfony、Yii、Cake PHPまたは任意のPHPフレームワーク）SDKとして使用されるOpenAI GPT-3およびDALL-EのSDKです。また、chatGPTのようなストリーミングもサポートしています。（ChatGPT AIがサポートされています）",
+                    "zh-hans": "OpenAI PHP SDK：最受欢迎、被Fork最多、贡献最多、拥有庞大社区支持的PHP（Laravel、Symfony、Yii、Cake PHP或任何PHP框架）SDK，用于OpenAI GPT-3和DALL-E。它还支持类似ChatGPT的流式聊天。（支持ChatGPT AI）",
+                    "zh-hant": "OpenAI PHP SDK：最多下載、派生、貢獻、龐大社群支持且被使用的 PHP（Laravel、Symfony、Yii、Cake PHP 或任何 PHP 框架）SDK，用於 OpenAI GPT-3 和 DALL-E。它還支持類似 ChatGPT 的串流功能。（支援 ChatGPT AI）"
                 }
             }
         },
@@ -25850,6 +26202,47 @@
                     "ja": "【企業微信】企業微信のロボット チャットボット、自動的に友達を追加、自動的にグループに招待、自動的にメッセージを送信するロボット ルート不要でアカウントが封鎖されない ChatGPTを統合",
                     "zh-hans": "【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT",
                     "zh-hant": "【企業微信】企業微信機器人 聊天機器人、自動加好友、自動拉群、自動群發機器人 免Root零封號 集成ChatGPT"
+                }
+            },
+            "https://github.com/blazity/next-enterprise": {
+                "repository_name": "next-enterprise",
+                "user_name": "Blazity",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.",
+                "topics": [
+                    "boilerplate",
+                    "chatgpt",
+                    "cva",
+                    "eslint",
+                    "jamstack",
+                    "javascript-ai",
+                    "next",
+                    "next-js",
+                    "next-theme",
+                    "nextjs",
+                    "nextjs13",
+                    "radix-ui",
+                    "react",
+                    "react-enterprise-boilerplate",
+                    "seo",
+                    "starter-kit",
+                    "starter-template",
+                    "tailwindcss",
+                    "typescript",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.",
+                    "ja": "💼 高性能で保守性の高いアプリケーションのためのエンタープライズグレードのNext.jsボイラープレート。Tailwind CSS、TypeScript、ESLint、Prettier、テストツールなどの機能が搭載されており、開発を加速させます。",
+                    "zh-hans": "💼 一个面向企业级的 Next.js 脚手架，用于构建高性能、易维护的应用程序。内置了诸如 Tailwind CSS、TypeScript、ESLint、Prettier、测试工具等功能，以加速您的开发过程。",
+                    "zh-hant": "💼 一個適用於高效能、易於維護的企業級 Next.js 樣板，內含豐富功能，如 Tailwind CSS、TypeScript、ESLint、Prettier、測試工具等，可加速您的開發流程。"
                 }
             }
         }

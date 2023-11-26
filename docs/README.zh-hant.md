@@ -16,18 +16,39 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - 追蹤和收集與任何部分相關的文件/項目/其他資料.
+ * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 編輯了大型語言模型,人工智能繪畫等類型的教程與資源. 
+ * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 收集社群所建立的所有GPT
+ * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 掌握了像ChatGPT,GPT-3和FlanT5這樣的法學士,
 
 
-**CLIs**
- * [openai-kotlin](https://github.com/aallam/openai-kotlin) - 提供多平台與 coroutines功能.
+**Prompts**
+ * [magentic](https://github.com/jackmpcollins/magentic) - 通整合LLM作為Python函數
+ * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 所有代理的系統提示儲存
+
+
+**Chatbots**
+ * [magic](https://github.com/polterguy/magic) - 建立一個基于ChatGPT的網站聊天機
+ * [rags](https://github.com/run-llama/rags) - 建立ChatGPT在您的數據上,
+ * [LLamaSharp](https://github.com/scisharp/llamasharp) - 很容易將LlamaSharp與語義內核,unity,WPF和WebApp相整合.
 
 
 **NLP**
- * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena (或聊天場) 是一款為LLM提供多代理語言遊戲環境.
+ * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 數據科學路線圖
 
 
-_Updated on November 24, 2023_ (A total of 1221 repositories listed.)
+**Langchain**
+ * [langchain4j](https://github.com/langchain4j/langchain4j) - 語言系統的Java版本
+
+
+**Unity**
+ * [open-ai](https://github.com/orhanerday/open-ai) - 公開AI PHP SDK:最常下載,分叉,貢獻,廣大社群支持,使用的 PHP (Laravel,Symfony,Yii, Cake PHP或任何 PHP 框架) 軟體SDK,適用於 OpenAI GPT-3 和 DALL-E.
+
+
+**Others**
+ * [next-enterprise](https://github.com/blazity/next-enterprise) - 為高性能,可維護應用程式提供企業級的Next.js熱水器. 裝滿 Tailwind CSS,TypeScript,ESLint,Prettier,測試工具等功能,
+
+
+_Updated on November 26, 2023_ (A total of 1233 repositories listed.)
 
 ## Table of contents
 
@@ -79,6 +100,9 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - 收藏AI相關的實用工具，歡迎提交issues或者pull requests
  * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 精心挑選的超棒GPT清單👍。
  * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - 追蹤並收集與分割任何相關的文件/專案/其他內容。
+ * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 精心挑選的大型語言模型、人工智慧繪畫等教學和資源。
+ * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 由社群創建的所有GPT的收藏
+ * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 出色的資源，用於上下文學習和提示工程：掌握像ChatGPT、GPT-3和FlanT5這樣的LLM的最新和尖端更新。
 
 
 ## Prompts
@@ -171,6 +195,8 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - 樹狀思維的即插即用實現：利用大型語言模型進行有意義的問題解決，至少提升模型推理能力70%。
  * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering、生成式人工智能和LLM指南，由Learn Prompting提供 | 加入我們的Discord，成為最大的Prompt Engineering學習社群。
  * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - 總結Prompt&LLM論文，開源數據&模型，AIGC應用
+ * [magentic](https://github.com/jackmpcollins/magentic) - 無縫地將LLMs整合為Python函數
+ * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 儲存所有代理人的系統提示
 
 
 ## Chatbots
@@ -328,6 +354,9 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [GPTDiscord](https://github.com/kav-k/gptdiscord) - 一個強大的、全能的Discord GPT界面。ChatGPT風格的對話、圖像生成、AI審核、自定義索引/知識庫、YouTube摘要等等！
  * [BotSharp](https://github.com/scisharp/botsharp) - .NET中的AI代理應用程式框架
  * [anything-llm](https://github.com/mintplex-labs/anything-llm) - 針對開源和封閉源LLMs、嵌入器和向量數據庫的開源ChatGPT等效體驗。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。開源ChatGPT等效體驗，適用於開源和封閉源LLMs、嵌入器和向量數據庫。支持無限文檔、線程和同時使用者，並在非常乾淨的用戶界面中進行管理。
+ * [magic](https://github.com/polterguy/magic) - 建立一個基於ChatGPT的自定義網站聊天機器人。
+ * [rags](https://github.com/run-llama/rags) - 使用您的數據建立自然語言的ChatGPT。
+ * [LLamaSharp](https://github.com/scisharp/llamasharp) - 在C#中輕鬆快速地運行LLaMA/GPT模型！🤗 使用LLamaSharp與語義核心、Unity、WPF和WebApp進行集成也很容易。
 
 
 ## Browser-extensions
@@ -798,6 +827,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [TavernAI](https://github.com/tavernai/tavernai) - AI語言模型的大氣冒險聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）
  * [lmql](https://github.com/eth-sri/lmql) - 一種用於受限制引導和高效LLM編程的語言。
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（或Chat Arena）是一個為LLMs設計的多智能體語言遊戲環境。其目標是發展AI的溝通和協作能力。
+ * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 從A到Z的數據科學路線圖
 
 
 ## Langchain
@@ -866,6 +896,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [gpt_academic](https://github.com/binary-husky/gpt_academic) - 為ChatGPT/GLM提供實用化交互界面，特別優化論文閱讀/潤色/寫作體驗，模塊化設計，支持自定義快捷按鈕和函數插件，支持Python和C++等項目剖析和自譯解功能，PDF/LaTex論文翻譯和總結功能，支持並行問詢多種LLM模型，支持chatglm2等本地模型。兼容文心一言，moss，llama2，rwkv，claude2，通義千問，書生，訊飛星火等。
  * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - 即時辨識謬誤使用OpenAI whisper和ChatGPT/LLaMA/Mistral
  * [evadb](https://github.com/georgia-tech-db/evadb) - AI 引擎應用的資料庫系統
+ * [langchain4j](https://github.com/langchain4j/langchain4j) - Java 版本的 LangChain
 
 
 ## Unity
@@ -879,6 +910,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - 在Unity中使用Chat GPT的幾個例子
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio 我們很想為gptcache加入ferretdb後端。我們會將其加入待辦清單。代表milvus開發者和更廣泛的社區，感謝你們的提及！
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity實現AI聊天相關功能。目前這個庫包含了對chatgpt、chatglm等大語言模型的api調用的程式實現以及實現了微軟Azure以及百度AI的語音服務功能，語音服務均採用web api實現，支援Windows/WebGL/Android等平台。
+ * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最多下載、派生、貢獻、龐大社群支持且被使用的 PHP（Laravel、Symfony、Yii、Cake PHP 或任何 PHP 框架）SDK，用於 OpenAI GPT-3 和 DALL-E。它還支持類似 ChatGPT 的串流功能。（支援 ChatGPT AI）
 
 
 ## Openai
@@ -1323,5 +1355,6 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大數據產品是可定義數據中台，以數據平台為底座，以數據中台為橋樑，以機器學習平台，GPT平台為框架，提供全鏈路數字化解決方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | 一個針對中文基礎模型的基準測試
  * [worktool](https://github.com/gallonyin/worktool) - 【企業微信】企業微信機器人 聊天機器人、自動加好友、自動拉群、自動群發機器人 免Root零封號 集成ChatGPT
+ * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 一個適用於高效能、易於維護的企業級 Next.js 樣板，內含豐富功能，如 Tailwind CSS、TypeScript、ESLint、Prettier、測試工具等，可加速您的開發流程。
 
 

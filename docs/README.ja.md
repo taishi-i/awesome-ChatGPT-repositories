@@ -16,18 +16,41 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - セグメントアニシングに関連する論文、プロジェクト、その他の情報を追跡して収集します。
+ * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 大規模言語モデル、AI絵画などのための厳選されたチュートリアルとリソース。
+ * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - コミュニティによって作成されたすべてのGPTのコレクション
+ * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
+
+コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
 
 
-**CLIs**
- * [openai-kotlin](https://github.com/aallam/openai-kotlin) - マルチプラットフォームとコルーチンの機能を備えたKotlin用のOpenAI APIクライアント。
+**Prompts**
+ * [magentic](https://github.com/jackmpcollins/magentic) - Python関数としてLLMsをシームレスに統合する
+ * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - すべてのエージェントのシステムプロンプトを保存します。
+
+
+**Chatbots**
+ * [magic](https://github.com/polterguy/magic) - カスタムのChatGPTベースのウェブサイトチャットボットを作成してください。
+ * [rags](https://github.com/run-llama/rags) - データを使用してChatGPTを構築し、すべて自然言語で行います。
+ * [LLamaSharp](https://github.com/scisharp/llamasharp) - C#で簡単かつ高速にLLaMA/GPTモデルを実行できます！🤗 さらに、LLamaSharpをsemantic-kernel、unity、WPF、およびWebAppと簡単に統合することもできます。
 
 
 **NLP**
- * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（またはChat Arena）は、LLMs向けのマルチエージェント言語ゲーム環境です。目標は、AIのコミュニケーションと協力能力を開発することです。
+ * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - データサイエンスのロードマップ A から Z まで
 
 
-_Updated on November 24, 2023_ (A total of 1221 repositories listed.)
+**Langchain**
+ * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChainのJavaバージョン
+
+
+**Unity**
+ * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最もダウンロードされ、フォークされ、貢献され、大規模なコミュニティによってサポートされ、PHP（Laravel、Symfony、Yii、Cake PHPまたは任意のPHPフレームワーク）SDKとして使用されるOpenAI GPT-3およびDALL-EのSDKです。また、chatGPTのようなストリーミングもサポートしています。（ChatGPT AIがサポートされています）
+
+
+**Others**
+ * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 高性能で保守性の高いアプリケーションのためのエンタープライズグレードのNext.jsボイラープレート。Tailwind CSS、TypeScript、ESLint、Prettier、テストツールなどの機能が搭載されており、開発を加速させます。
+
+
+_Updated on November 26, 2023_ (A total of 1233 repositories listed.)
 
 ## Table of contents
 
@@ -79,6 +102,11 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - AI関連のユーティリティのコレクションです。問題やプルリクエストの提出を歓迎します。
  * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 素晴らしいGPTの厳選リスト 👍。
  * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - セグメントアニシングに関連する論文、プロジェクト、その他の情報を追跡して収集します。
+ * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 大規模言語モデル、AI絵画などのための厳選されたチュートリアルとリソース。
+ * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - コミュニティによって作成されたすべてのGPTのコレクション
+ * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
+
+コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
 
 
 ## Prompts
@@ -171,6 +199,8 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - ツリーオブソウルのプラグインとプレイの実装：大規模言語モデルによる意図的な問題解決を70％以上向上させる
  * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering、Generative AI、およびLLM Guide by Learn Prompting | 最大のPrompt Engineering学習コミュニティに参加するために、私たちのdiscordに参加してください。
  * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - Prompt＆LLM論文のまとめ、オープンソースのデータ＆モデル、AIGCの応用
+ * [magentic](https://github.com/jackmpcollins/magentic) - Python関数としてLLMsをシームレスに統合する
+ * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - すべてのエージェントのシステムプロンプトを保存します。
 
 
 ## Chatbots
@@ -328,6 +358,9 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [GPTDiscord](https://github.com/kav-k/gptdiscord) - Discord用の堅牢なオールインワンGPTインターフェース。ChatGPTスタイルの会話、画像生成、AIモデレーション、カスタムインデックス/ナレッジベース、YouTubeサマライザーなどが利用可能です！
  * [BotSharp](https://github.com/scisharp/botsharp) - .NETでのAIエージェントアプリケーションフレームワーク
  * [anything-llm](https://github.com/mintplex-labs/anything-llm) - オープンソースのChatGPTに相当する経験を、オープンソースおよびクローズドソースのLLMs、埋め込みツール、およびベクトルデータベースに提供します。非常にクリーンなUIで、無制限のドキュメント、スレッド、および同時ユーザーをサポートし、すべてを管理します。
+ * [magic](https://github.com/polterguy/magic) - カスタムのChatGPTベースのウェブサイトチャットボットを作成してください。
+ * [rags](https://github.com/run-llama/rags) - データを使用してChatGPTを構築し、すべて自然言語で行います。
+ * [LLamaSharp](https://github.com/scisharp/llamasharp) - C#で簡単かつ高速にLLaMA/GPTモデルを実行できます！🤗 さらに、LLamaSharpをsemantic-kernel、unity、WPF、およびWebAppと簡単に統合することもできます。
 
 
 ## Browser-extensions
@@ -798,6 +831,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [TavernAI](https://github.com/tavernai/tavernai) - AI言語モデル（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）の大気冒険チャット
  * [lmql](https://github.com/eth-sri/lmql) - 制約に基づいた効率的なLLMプログラミングのための言語。
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（またはChat Arena）は、LLMs向けのマルチエージェント言語ゲーム環境です。目標は、AIのコミュニケーションと協力能力を開発することです。
+ * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - データサイエンスのロードマップ A から Z まで
 
 
 ## Langchain
@@ -866,6 +900,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [gpt_academic](https://github.com/binary-husky/gpt_academic) - ChatGPT/GLMのための実用的なインタラクティブなインターフェースを提供し、論文の読み込み/校正/執筆の体験を特に最適化し、モジュール化されたデザインで、カスタムショートカットボタンと関数プラグインをサポートし、PythonやC++などのプロジェクトの解析と自動翻訳機能をサポートし、PDF/LaTex論文の翻訳と要約機能を提供し、さまざまなLLMモデルの並列問い合わせをサポートし、chatglm2などのローカルモデルにも対応しています。文心一言、moss、llama2、rwkv、claude2、通義千問、書生、讯飞星火などと互換性があります。
  * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - リアルタイムの誤謬検出は、OpenAI WhisperとChatGPT/LLaMA/Mistralを使用して行われます。
  * [evadb](https://github.com/georgia-tech-db/evadb) - AIパワードアプリのためのデータベースシステム
+ * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChainのJavaバージョン
 
 
 ## Unity
@@ -879,6 +914,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - Chat GPTを使用したUnityの数例
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio GPTキャッシュのバックエンドにferretdbを追加したいと思っています。ToDoリストに追加します。Milvusの開発者とコミュニティ全体を代表して、シャウトアウトありがとうございます！
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - Unityを使用してAIチャット関連の機能を実現します。現在、このライブラリにはchatgpt、chatglmなどの大規模言語モデルのAPI呼び出しのコード実装が含まれており、また、Microsoft AzureおよびBaidu AIの音声サービス機能も実装されています。音声サービスはすべてWeb APIを使用しており、Windows/WebGL/Androidなどのプラットフォームをサポートしています。
+ * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最もダウンロードされ、フォークされ、貢献され、大規模なコミュニティによってサポートされ、PHP（Laravel、Symfony、Yii、Cake PHPまたは任意のPHPフレームワーク）SDKとして使用されるOpenAI GPT-3およびDALL-EのSDKです。また、chatGPTのようなストリーミングもサポートしています。（ChatGPT AIがサポートされています）
 
 
 ## Openai
@@ -1323,5 +1359,6 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据製品は、データプラットフォームを基盤とし、データ中台を橋渡しとして、機械学習プラットフォームやGPTプラットフォームをフレームワークとして、全体のデジタル化ソリューションを提供するものです。WeChatグループ：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中国語の基礎モデルのためのベンチマーク
  * [worktool](https://github.com/gallonyin/worktool) - 【企業微信】企業微信のロボット チャットボット、自動的に友達を追加、自動的にグループに招待、自動的にメッセージを送信するロボット ルート不要でアカウントが封鎖されない ChatGPTを統合
+ * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 高性能で保守性の高いアプリケーションのためのエンタープライズグレードのNext.jsボイラープレート。Tailwind CSS、TypeScript、ESLint、Prettier、テストツールなどの機能が搭載されており、開発を加速させます。
 
 
