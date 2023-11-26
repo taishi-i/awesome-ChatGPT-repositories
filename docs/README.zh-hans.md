@@ -16,18 +16,39 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - 追踪和收集与任何部分相关的论文/项目/其他.
+ * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 编辑了大型语言模型,人工智能绘画等相关教程和资源. 
+ * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 社区创建的所有GPT的集合
+ * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 对于在上下文学习和快速工程的绝佳资源:掌握了像ChatGPT,GPT-3和FlanT5这样的LLM,并提供最新的更新.
 
 
-**CLIs**
- * [openai-kotlin](https://github.com/aallam/openai-kotlin) - 开放AI API客户端为 Kotlin 提供多平台和 coroutines 功能.
+**Prompts**
+ * [magentic](https://github.com/jackmpcollins/magentic) - 无地将LLM作为Python函数集成
+ * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 所有代理的系统提示库
+
+
+**Chatbots**
+ * [magic](https://github.com/polterguy/magic) - 创建基于ChatGPT的自定义网站聊天机器人
+ * [rags](https://github.com/run-llama/rags) - 在您的数据上构建ChatGPT,所有这些都是用自然语言
+ * [LLamaSharp](https://github.com/scisharp/llamasharp) - 运行LLaMA/GPT模型在C#中快速,轻松!🤗还可以轻松地将LLamaSharp与语义内核,unity,WPF和WebApp集成.
 
 
 **NLP**
- * [chatarena](https://github.com/farama-foundation/chatarena) - 聊天场 (或聊天场) 是一个为LLM提供多代理语言游戏环境.其目标是开发AI的通信和协作能力.
+ * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 数据科学路线图从A到Z
 
 
-_Updated on November 24, 2023_ (A total of 1221 repositories listed.)
+**Langchain**
+ * [langchain4j](https://github.com/langchain4j/langchain4j) - 语言版本
+
+
+**Unity**
+ * [open-ai](https://github.com/orhanerday/open-ai) - 开放AI PHP SDK:最多下载,分叉,贡献,大社区支持,使用的 PHP (Laravel,Symfony,Yii, Cake PHP或任何 PHP框架) 开放AI GPT-3 和 DALL-E 的 SDK.它还支持像chatGPT一样的流媒体. (ChatGPT AI支持)
+
+
+**Others**
+ * [next-enterprise](https://github.com/blazity/next-enterprise) -  企业级的Next.js软件平台,可供高性能,可维护的应用程序使用. 充满了 Tailwind CSS,TypeScript,ESLint,Prettier,测试工具等功能,以加速您的开发.
+
+
+_Updated on November 26, 2023_ (A total of 1233 repositories listed.)
 
 ## Table of contents
 
@@ -78,8 +99,10 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - GPT相关开源项目合集🚀、精选🔥🔥
  * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - 收集了一系列与人工智能相关的实用工具。欢迎提交问题和拉取请求。
  * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - 精选的超棒GPT清单👍。
- * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - 跟踪和收集与分割任何相关的论文/项目/其他内容。
-跟踪和收集与分割任何相关的论文/项目/其他内容。
+ * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - 跟踪和收集与分割任何相关的论文/项目/其他内容。跟踪和收集与分割任何相关的论文/项目/其他内容。
+ * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 精选的大型语言模型、AI绘画等教程和资源。
+ * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 社区创建的所有GPT的集合
+ * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 用于上下文学习和提示工程的绝佳资源：掌握ChatGPT、GPT-3和FlanT5等LLM的最新和尖端更新。
 
 
 ## Prompts
@@ -172,6 +195,8 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - 插入并播放思维树的实现：通过大型语言模型进行有意识的问题解决，将模型推理提升至至少70%。
  * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering，生成式人工智能和LLM指南由Learn Prompting提供 | 加入我们的Discord，成为最大的Prompt Engineering学习社区的一员。
  * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - 总结Prompt&LLM论文，开源数据&模型，AIGC应用
+ * [magentic](https://github.com/jackmpcollins/magentic) - 无缝地将LLMs集成为Python函数
+ * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 存储所有代理人的系统提示
 
 
 ## Chatbots
@@ -329,6 +354,9 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [GPTDiscord](https://github.com/kav-k/gptdiscord) - 一个强大的、一体化的Discord GPT界面。ChatGPT风格的对话、图像生成、AI-审查、自定义索引/知识库、YouTube摘要生成等等！
  * [BotSharp](https://github.com/scisharp/botsharp) - AI代理应用程序框架在.NET中
  * [anything-llm](https://github.com/mintplex-labs/anything-llm) - 开源的ChatGPT等效体验，适用于开源和闭源的LLMs、嵌入器和向量数据库。支持无限的文档、线程和并发用户，并在非常清晰的用户界面中进行管理。
+ * [magic](https://github.com/polterguy/magic) - 创建一个基于ChatGPT的定制网站聊天机器人
+ * [rags](https://github.com/run-llama/rags) - 使用您的数据构建ChatGPT，全部使用自然语言。
+ * [LLamaSharp](https://github.com/scisharp/llamasharp) - 在C#中轻松快速地运行LLaMA/GPT模型！🤗 同时，将LLamaSharp与语义内核、Unity、WPF和WebApp集成也很容易。
 
 
 ## Browser-extensions
@@ -799,6 +827,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [TavernAI](https://github.com/tavernai/tavernai) - 针对AI语言模型的大气冒险聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）
  * [lmql](https://github.com/eth-sri/lmql) - 一种用于约束引导和高效LLM编程的语言。
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（或Chat Arena）是一个为LLMs设计的多智能体语言游戏环境。其目标是开发AI的沟通和协作能力。
+ * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 从A到Z的数据科学路线图
 
 
 ## Langchain
@@ -867,6 +896,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮和函数插件，支持Python和C++等项目剖析和自译解功能，PDF/LaTex论文翻译和总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言、moss、llama2、rwkv、claude2、通义千问、书生、讯飞星火等。
  * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - 实时谬误检测使用OpenAI Whisper和ChatGPT/LLaMA/Mistral
  * [evadb](https://github.com/georgia-tech-db/evadb) - 用于AI应用的数据库系统
+ * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChain的Java版本
 
 
 ## Unity
@@ -880,6 +910,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - 在Unity中使用Chat GPT的几个示例
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio 我们很想为gptcache获取一个ferretdb后端。我们会将其添加到待办列表中。代表milvus开发者和更广泛的社区，感谢你们的支持！
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用Unity实现AI聊天相关功能。目前这个库包含了对ChatGPT、ChatGLM等大语言模型的API调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用Web API实现，支持Windows/WebGL/Android等平台。
+ * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最受欢迎、被Fork最多、贡献最多、拥有庞大社区支持的PHP（Laravel、Symfony、Yii、Cake PHP或任何PHP框架）SDK，用于OpenAI GPT-3和DALL-E。它还支持类似ChatGPT的流式聊天。（支持ChatGPT AI）
 
 
 ## Openai
@@ -1324,5 +1355,6 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据产品是可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台，GPT平台为框架，提供全链路数字化解决方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | 一个用于中文基础模型的基准测试
  * [worktool](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
+ * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 一个面向企业级的 Next.js 脚手架，用于构建高性能、易维护的应用程序。内置了诸如 Tailwind CSS、TypeScript、ESLint、Prettier、测试工具等功能，以加速您的开发过程。
 
 

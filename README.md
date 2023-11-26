@@ -17,18 +17,39 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - Tracking and collecting papers/projects/others related to Segment Anything.
+ * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more. 
+ * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
+ * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 
 
-**CLIs**
- * [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
+**Prompts**
+ * [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
+ * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - store all agent's system prompt
+
+
+**Chatbots**
+ * [magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
+ * [rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
+ * [LLamaSharp](https://github.com/scisharp/llamasharp) - Run LLaMA/GPT model easily and fast in C#!🤗 It's also easy to integrate LLamaSharp with semantic-kernel, unity, WPF and WebApp.
 
 
 **NLP**
- * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
+ * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - Data Science Roadmap from A to Z
 
 
-_Updated on November 24, 2023_ (A total of 1221 repositories listed.)
+**Langchain**
+ * [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
+
+
+**Unity**
+ * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
+
+
+**Others**
+ * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
+
+
+_Updated on November 26, 2023_ (A total of 1233 repositories listed.)
 
 ## Table of contents
 
@@ -80,6 +101,9 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests
  * [Awesome-GPTs](https://github.com/ai-boost/awesome-gpts) - Curated list of awesome GPTs 👍.
  * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - Tracking and collecting papers/projects/others related to Segment Anything.
+ * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more. 
+ * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
+ * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
 
 
 ## Prompts
@@ -172,6 +196,8 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%
  * [Learn_Prompting](https://github.com/trigaten/learn_prompting) - Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community
  * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - 总结Prompt&LLM论文，开源数据&模型，AIGC应用
+ * [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
+ * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - store all agent's system prompt
 
 
 ## Chatbots
@@ -329,6 +355,9 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [GPTDiscord](https://github.com/kav-k/gptdiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
  * [BotSharp](https://github.com/scisharp/botsharp) - The AI Agent Application Framework in .NET
  * [anything-llm](https://github.com/mintplex-labs/anything-llm) - Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very clean UI.
+ * [magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
+ * [rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
+ * [LLamaSharp](https://github.com/scisharp/llamasharp) - Run LLaMA/GPT model easily and fast in C#!🤗 It's also easy to integrate LLamaSharp with semantic-kernel, unity, WPF and WebApp.
 
 
 ## Browser-extensions
@@ -799,6 +828,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [TavernAI](https://github.com/tavernai/tavernai) - Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)
  * [lmql](https://github.com/eth-sri/lmql) - A language for constraint-guided and efficient LLM programming.
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
+ * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - Data Science Roadmap from A to Z
 
 
 ## Langchain
@@ -867,6 +897,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
  * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
  * [evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
+ * [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
 
 
 ## Unity
@@ -880,6 +911,7 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [UnityChatGPT](https://github.com/dilmerv/unitychatgpt) - Few examples with Chat GPT In Unity
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio we'd love to get a ferretdb backend for gptcache. we'll add it to the todo list.and on behalf of milvus developers and the broader community, thanks for the shout-out!
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity实现AI聊天相关功能。目前这个库包含了对chatgpt、chatglm等大语言模型的api调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用web api实现，支持Windows/WebGL/Android等平台
+ * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
 
 
 ## Openai
@@ -1324,5 +1356,6 @@ _Updated on November 24, 2023_ (A total of 1221 repositories listed.)
  * [alldata](https://github.com/alldatacenter/alldata) - 🔥🔥 AllData大数据产品是可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台，GPT平台为框架，提供全链路数字化解决方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
  * [worktool](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
+ * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
 
 
