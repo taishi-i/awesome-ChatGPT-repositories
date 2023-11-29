@@ -17,39 +17,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more. 
- * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
- * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
-
-
-**Prompts**
- * [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
- * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - store all agent's system prompt
+ * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - Custom GPT Store - A collection of major GPTS available in public
 
 
 **Chatbots**
- * [magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
- * [rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
- * [LLamaSharp](https://github.com/scisharp/llamasharp) - Run LLaMA/GPT model easily and fast in C#!🤗 It's also easy to integrate LLamaSharp with semantic-kernel, unity, WPF and WebApp.
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - Create Custom GPT and add/embed on your site using Assistants api
 
 
-**NLP**
- * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - Data Science Roadmap from A to Z
+**Browser-extensions**
+ * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector database plugin for Postgres, written in Rust, specifically designed for LLM
+ * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - Curate a custom library of AI Prompts
 
 
 **Langchain**
- * [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
-
-
-**Unity**
- * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
+ * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
 
 
 **Others**
- * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
+ * [HydraLab](https://github.com/microsoft/hydralab) - Intelligent cloud testing made easy.
+ * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/
 
 
-_Updated on November 26, 2023_ (A total of 1233 repositories listed.)
+_Updated on November 30, 2023_ (A total of 1240 repositories listed.)
 
 ## Table of contents
 
@@ -104,6 +93,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more. 
  * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
+ * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - Custom GPT Store - A collection of major GPTS available in public
 
 
 ## Prompts
@@ -358,6 +348,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [magic](https://github.com/polterguy/magic) - Create a custom ChatGPT-based website chatbot
  * [rags](https://github.com/run-llama/rags) - Build ChatGPT over your data, all with natural language
  * [LLamaSharp](https://github.com/scisharp/llamasharp) - Run LLaMA/GPT model easily and fast in C#!🤗 It's also easy to integrate LLamaSharp with semantic-kernel, unity, WPF and WebApp.
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - Create Custom GPT and add/embed on your site using Assistants api
 
 
 ## Browser-extensions
@@ -504,6 +495,8 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - Bob plugin for text translation, text polishing, and grammar correction based on ChatGPT API, let's welcome a new era without the need for the Tower of Babel! Licensed under CC BY-NC-SA 4.0.
  * [Openaibot](https://github.com/llmkira/openaibot) - ⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 sh & docker-compose 
  * [LibreChat](https://github.com/danny-avila/librechat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+ * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector database plugin for Postgres, written in Rust, specifically designed for LLM
+ * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - Curate a custom library of AI Prompts
 
 
 ## CLIs
@@ -898,6 +891,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - Real-time Fallacy Detection using OpenAI whisper and ChatGPT/LLaMA/Mistral
  * [evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
  * [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
+ * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
 
 
 ## Unity
@@ -1357,5 +1351,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
  * [worktool](https://github.com/gallonyin/worktool) - [Enterprise WeChat] Enterprise WeChat Robot Chatbot, automatic friend adding, automatic group creation, automatic group messaging robot, no need for Root, zero account suspension, integrated with ChatGPT.
  * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
+ * [HydraLab](https://github.com/microsoft/hydralab) - Intelligent cloud testing made easy.
+ * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/
 
 

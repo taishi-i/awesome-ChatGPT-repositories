@@ -16,39 +16,28 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 編輯了大型語言模型,人工智能繪畫等類型的教程與資源. 
- * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 收集社群所建立的所有GPT
- * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 掌握了像ChatGPT,GPT-3和FlanT5這樣的法學士,
-
-
-**Prompts**
- * [magentic](https://github.com/jackmpcollins/magentic) - 通整合LLM作為Python函數
- * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 所有代理的系統提示儲存
+ * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 定制GPT商店 - 公開的主要GPTS的集合
 
 
 **Chatbots**
- * [magic](https://github.com/polterguy/magic) - 建立一個基于ChatGPT的網站聊天機
- * [rags](https://github.com/run-llama/rags) - 建立ChatGPT在您的數據上,
- * [LLamaSharp](https://github.com/scisharp/llamasharp) - 很容易將LlamaSharp與語義內核,unity,WPF和WebApp相整合.
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - 建立自訂的GPT,並使用助理API在網站上添加/嵌入
 
 
-**NLP**
- * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 數據科學路線圖
+**Browser-extensions**
+ * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - 寫在Rust的 Postgres 可擴展向量資料庫插件, 特別為LLM設計
+ * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - 編輯一個自訂的AI提示庫
 
 
 **Langchain**
- * [langchain4j](https://github.com/langchain4j/langchain4j) - 語言系統的Java版本
-
-
-**Unity**
- * [open-ai](https://github.com/orhanerday/open-ai) - 公開AI PHP SDK:最常下載,分叉,貢獻,廣大社群支持,使用的 PHP (Laravel,Symfony,Yii, Cake PHP或任何 PHP 框架) 軟體SDK,適用於 OpenAI GPT-3 和 DALL-E.
+ * [llm-chain](https://github.com/sobelio/llm-chain) - ゙llm-chain`是一個強大的化箱,
 
 
 **Others**
- * [next-enterprise](https://github.com/blazity/next-enterprise) - 為高性能,可維護應用程式提供企業級的Next.js熱水器. 裝滿 Tailwind CSS,TypeScript,ESLint,Prettier,測試工具等功能,
+ * [HydraLab](https://github.com/microsoft/hydralab) - 智能雲端測試變得容易.
+ * [vectordb](https://github.com/epsilla-cloud/vectordb) - 試用在https://cloud.epsilla.com/網站上托管Epsilla.
 
 
-_Updated on November 26, 2023_ (A total of 1233 repositories listed.)
+_Updated on November 30, 2023_ (A total of 1240 repositories listed.)
 
 ## Table of contents
 
@@ -103,6 +92,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 精心挑選的大型語言模型、人工智慧繪畫等教學和資源。
  * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 由社群創建的所有GPT的收藏
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 出色的資源，用於上下文學習和提示工程：掌握像ChatGPT、GPT-3和FlanT5這樣的LLM的最新和尖端更新。
+ * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 自訂GPT商店 - 一個收集了公開可用的主要GPT的集合
 
 
 ## Prompts
@@ -357,6 +347,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [magic](https://github.com/polterguy/magic) - 建立一個基於ChatGPT的自定義網站聊天機器人。
  * [rags](https://github.com/run-llama/rags) - 使用您的數據建立自然語言的ChatGPT。
  * [LLamaSharp](https://github.com/scisharp/llamasharp) - 在C#中輕鬆快速地運行LLaMA/GPT模型！🤗 使用LLamaSharp與語義核心、Unity、WPF和WebApp進行集成也很容易。
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - 使用助手 API 創建自定義 GPT 並將其添加/嵌入到您的網站上
 
 
 ## Browser-extensions
@@ -503,6 +494,8 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基於 ChatGPT API 的文本翻譯、文本潤色、語法糾錯 Bob 插件，讓我們一起迎接不需要巴別塔的新時代！根據 CC BY-NC-SA 4.0 授權。
  * [Openaibot](https://github.com/llmkira/openaibot) - ⚡️ 建立您自己的助理机器人 | 🧀 Discord/Slack/Kook/Telegram | 🍓 複製 ChatGpt 架構 | ⛓ 工具呼叫/函數呼叫 | 🔖 插件支援 | 🌻 sh 和 docker-compose
  * [LibreChat](https://github.com/danny-avila/librechat) - 增強版ChatGPT克隆：功能包括OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AI模型切換、訊息搜尋、語言鏈、DALL-E-3、ChatGPT插件、OpenAI功能、安全多用戶系統、預設值，完全開源以供自行託管。更多功能正在開發中。
+ * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - 可擴展的矢量數據庫插件，用Rust編寫，專為LLM設計。
+ * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - 精心策劃一個自定義的AI提示圖書館
 
 
 ## CLIs
@@ -897,6 +890,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - 即時辨識謬誤使用OpenAI whisper和ChatGPT/LLaMA/Mistral
  * [evadb](https://github.com/georgia-tech-db/evadb) - AI 引擎應用的資料庫系統
  * [langchain4j](https://github.com/langchain4j/langchain4j) - Java 版本的 LangChain
+ * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` 是一個強大的 Rust 庫，用於在大型語言模型中構建鏈條，讓您能夠對文本進行摘要和完成複雜任務。
 
 
 ## Unity
@@ -1356,5 +1350,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | 一個針對中文基礎模型的基準測試
  * [worktool](https://github.com/gallonyin/worktool) - 【企業微信】企業微信機器人 聊天機器人、自動加好友、自動拉群、自動群發機器人 免Root零封號 集成ChatGPT
  * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 一個適用於高效能、易於維護的企業級 Next.js 樣板，內含豐富功能，如 Tailwind CSS、TypeScript、ESLint、Prettier、測試工具等，可加速您的開發流程。
+ * [HydraLab](https://github.com/microsoft/hydralab) - 智能雲端測試變得輕鬆。
+ * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla 是一個高效能的向量資料庫管理系統。請在 https://cloud.epsilla.com/ 嘗試使用托管的 Epsilla。
 
 

@@ -16,39 +16,28 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 编辑了大型语言模型,人工智能绘画等相关教程和资源. 
- * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 社区创建的所有GPT的集合
- * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 对于在上下文学习和快速工程的绝佳资源:掌握了像ChatGPT,GPT-3和FlanT5这样的LLM,并提供最新的更新.
-
-
-**Prompts**
- * [magentic](https://github.com/jackmpcollins/magentic) - 无地将LLM作为Python函数集成
- * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 所有代理的系统提示库
+ * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 定制GPT商店 - 一个主要的GPTS集合,可供公众使用
 
 
 **Chatbots**
- * [magic](https://github.com/polterguy/magic) - 创建基于ChatGPT的自定义网站聊天机器人
- * [rags](https://github.com/run-llama/rags) - 在您的数据上构建ChatGPT,所有这些都是用自然语言
- * [LLamaSharp](https://github.com/scisharp/llamasharp) - 运行LLaMA/GPT模型在C#中快速,轻松!🤗还可以轻松地将LLamaSharp与语义内核,unity,WPF和WebApp集成.
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - 使用助理API创建自定义GPT并在您的网站上添加/嵌入
 
 
-**NLP**
- * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 数据科学路线图从A到Z
+**Browser-extensions**
+ * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - 可扩展的向量数据库插件,用Rust编写,专门为LLM设计
+ * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - 管理一个自定义的AI提示库
 
 
 **Langchain**
- * [langchain4j](https://github.com/langchain4j/langchain4j) - 语言版本
-
-
-**Unity**
- * [open-ai](https://github.com/orhanerday/open-ai) - 开放AI PHP SDK:最多下载,分叉,贡献,大社区支持,使用的 PHP (Laravel,Symfony,Yii, Cake PHP或任何 PHP框架) 开放AI GPT-3 和 DALL-E 的 SDK.它还支持像chatGPT一样的流媒体. (ChatGPT AI支持)
+ * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain`是一个强大的箱,用于大语言模型中建立链,允许您总结文本并完成复杂任务
 
 
 **Others**
- * [next-enterprise](https://github.com/blazity/next-enterprise) -  企业级的Next.js软件平台,可供高性能,可维护的应用程序使用. 充满了 Tailwind CSS,TypeScript,ESLint,Prettier,测试工具等功能,以加速您的开发.
+ * [HydraLab](https://github.com/microsoft/hydralab) - 智能云测试让我们变得很容易.
+ * [vectordb](https://github.com/epsilla-cloud/vectordb) - 埃普西拉是一个高性能向量数据库管理系统. 试试在https://cloud.epsilla.com/
 
 
-_Updated on November 26, 2023_ (A total of 1233 repositories listed.)
+_Updated on November 30, 2023_ (A total of 1240 repositories listed.)
 
 ## Table of contents
 
@@ -103,6 +92,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 精选的大型语言模型、AI绘画等教程和资源。
  * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 社区创建的所有GPT的集合
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 用于上下文学习和提示工程的绝佳资源：掌握ChatGPT、GPT-3和FlanT5等LLM的最新和尖端更新。
+ * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 自定义GPT商店 - 一个收集了公开可用的主要GPT的集合
 
 
 ## Prompts
@@ -357,6 +347,8 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [magic](https://github.com/polterguy/magic) - 创建一个基于ChatGPT的定制网站聊天机器人
  * [rags](https://github.com/run-llama/rags) - 使用您的数据构建ChatGPT，全部使用自然语言。
  * [LLamaSharp](https://github.com/scisharp/llamasharp) - 在C#中轻松快速地运行LLaMA/GPT模型！🤗 同时，将LLamaSharp与语义内核、Unity、WPF和WebApp集成也很容易。
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - 使用助手API创建自定义GPT并将其添加/嵌入到您的网站上
+创建自定义GPT并使用助手API将其添加/嵌入到您的网站上。
 
 
 ## Browser-extensions
@@ -503,6 +495,8 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可证授权。
  * [Openaibot](https://github.com/llmkira/openaibot) - ⚡️ 构建您自己的助手机器人 | 🧀 Discord/Slack/Kook/Telegram | 🍓 复刻 ChatGpt 架构 | ⛓ 工具调用/函数调用 | 🔖 插件支持 | 🌻 sh 和 docker-compose
  * [LibreChat](https://github.com/danny-avila/librechat) - 增强版ChatGPT克隆：功能包括OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AI模型切换、消息搜索、langchain、DALL-E-3、ChatGPT插件、OpenAI函数、安全多用户系统、预设，完全开源以供自主托管。更多功能正在开发中。
+ * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - 可扩展的矢量数据库插件，使用Rust编写，专为LLM设计。
+ * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - 策划一个定制的人工智能提示库
 
 
 ## CLIs
@@ -897,6 +891,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - 实时谬误检测使用OpenAI Whisper和ChatGPT/LLaMA/Mistral
  * [evadb](https://github.com/georgia-tech-db/evadb) - 用于AI应用的数据库系统
  * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChain的Java版本
+ * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` 是一个强大的 Rust 包，用于构建大型语言模型中的链条，可以帮助您对文本进行概括和完成复杂任务。
 
 
 ## Unity
@@ -1356,5 +1351,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中文通用大模型综合性基准 | 一个用于中文基础模型的基准测试
  * [worktool](https://github.com/gallonyin/worktool) - 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
  * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 一个面向企业级的 Next.js 脚手架，用于构建高性能、易维护的应用程序。内置了诸如 Tailwind CSS、TypeScript、ESLint、Prettier、测试工具等功能，以加速您的开发过程。
+ * [HydraLab](https://github.com/microsoft/hydralab) - 智能云测试变得简单。
+ * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla是一款高性能的向量数据库管理系统。请在https://cloud.epsilla.com/上尝试使用托管的Epsilla。
 
 
