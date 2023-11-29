@@ -864,6 +864,42 @@
                     "zh-hans": "用于上下文学习和提示工程的绝佳资源：掌握ChatGPT、GPT-3和FlanT5等LLM的最新和尖端更新。",
                     "zh-hant": "出色的資源，用於上下文學習和提示工程：掌握像ChatGPT、GPT-3和FlanT5這樣的LLM的最新和尖端更新。"
                 }
+            },
+            "https://github.com/anil-matcha/awesome-gpt-store": {
+                "repository_name": "Awesome-GPT-Store",
+                "user_name": "Anil-matcha",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Custom GPT Store - A collection of major GPTS available in public",
+                "topics": [
+                    "agentgpt",
+                    "ai-agents",
+                    "awesome-gpt-store",
+                    "awesome-gpts",
+                    "awesome-list",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-plugins",
+                    "customgpt",
+                    "gpt-4",
+                    "gpt-store",
+                    "gpts",
+                    "gptshowcas",
+                    "gptslist",
+                    "gptstore"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Custom GPT Store - A collection of major GPTS available in public",
+                    "ja": "カスタムGPTストア - 公開されている主要なGPTのコレクション",
+                    "zh-hans": "自定义GPT商店 - 一个收集了公开可用的主要GPT的集合",
+                    "zh-hant": "自訂GPT商店 - 一個收集了公開可用的主要GPT的集合"
+                }
             }
         },
         "Prompts": {
@@ -6358,6 +6394,46 @@
                     "zh-hans": "在C#中轻松快速地运行LLaMA/GPT模型！🤗 同时，将LLamaSharp与语义内核、Unity、WPF和WebApp集成也很容易。",
                     "zh-hant": "在C#中輕鬆快速地運行LLaMA/GPT模型！🤗 使用LLamaSharp與語義核心、Unity、WPF和WebApp進行集成也很容易。"
                 }
+            },
+            "https://github.com/samuraigpt/open-custom-gpt": {
+                "repository_name": "Open-Custom-GPT",
+                "user_name": "SamurAIGPT",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Create Custom GPT and add/embed on your site using Assistants api",
+                "topics": [
+                    "aichatbot",
+                    "assistant-api",
+                    "chatbot",
+                    "chatbots",
+                    "chatgpt",
+                    "chatgpt-plugins",
+                    "custom-gpt",
+                    "customgpt",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt3",
+                    "gpt4",
+                    "gpts",
+                    "langchain",
+                    "no-code",
+                    "openai",
+                    "openai-chatbot",
+                    "openai-chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create Custom GPT and add/embed on your site using Assistants api",
+                    "ja": "Assistants APIを使用して、カスタムGPTを作成し、サイトに追加/埋め込む。 \nカスタムGPTを作成し、Assistants APIを使用してサイトに追加/埋め込む。",
+                    "zh-hans": "使用助手API创建自定义GPT并将其添加/嵌入到您的网站上\n创建自定义GPT并使用助手API将其添加/嵌入到您的网站上。",
+                    "zh-hant": "使用助手 API 創建自定義 GPT 並將其添加/嵌入到您的網站上"
+                }
             }
         },
         "Browser-extensions": {
@@ -9482,6 +9558,56 @@
                     "ja": "強化されたChatGPTクローン：OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AIモデルの切り替え、メッセージ検索、langchain、DALL-E-3、ChatGPTプラグイン、OpenAI関数、セキュアなマルチユーザーシステム、プリセット、自己ホスティング用の完全なオープンソースなどの機能があります。開発中のさらなる機能もあります。",
                     "zh-hans": "增强版ChatGPT克隆：功能包括OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AI模型切换、消息搜索、langchain、DALL-E-3、ChatGPT插件、OpenAI函数、安全多用户系统、预设，完全开源以供自主托管。更多功能正在开发中。",
                     "zh-hant": "增強版ChatGPT克隆：功能包括OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AI模型切換、訊息搜尋、語言鏈、DALL-E-3、ChatGPT插件、OpenAI功能、安全多用戶系統、預設值，完全開源以供自行託管。更多功能正在開發中。"
+                }
+            },
+            "https://github.com/tensorchord/pgvecto.rs": {
+                "repository_name": "pgvecto.rs",
+                "user_name": "tensorchord",
+                "language": "Rust",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Scalable Vector database plugin for Postgres, written in Rust, specifically designed for LLM",
+                "topics": [
+                    "chatgpt",
+                    "faiss",
+                    "gpt",
+                    "hacktoberfest",
+                    "llm",
+                    "nearest-neighbor-search",
+                    "postgress",
+                    "rust",
+                    "vector",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Scalable Vector database plugin for Postgres, written in Rust, specifically designed for LLM",
+                    "ja": "Rustで書かれたPostgres用のスケーラブルなベクターデータベースプラグイン、特にLLM向けに設計されています。",
+                    "zh-hans": "可扩展的矢量数据库插件，使用Rust编写，专为LLM设计。",
+                    "zh-hant": "可擴展的矢量數據庫插件，用Rust編寫，專為LLM設計。"
+                }
+            },
+            "https://github.com/benf2004/ai-prompt-genius": {
+                "repository_name": "AI-Prompt-Genius",
+                "user_name": "benf2004",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Curate a custom library of AI Prompts",
+                "topics": [
+                    "ai",
+                    "browser-extension",
+                    "chatgpt",
+                    "chrome-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Curate a custom library of AI Prompts",
+                    "ja": "AIプロンプトのカスタムライブラリを作成してください。",
+                    "zh-hans": "策划一个定制的人工智能提示库",
+                    "zh-hant": "精心策劃一個自定義的AI提示圖書館"
                 }
             }
         },
@@ -17509,6 +17635,34 @@
                     "ja": "LangChainのJavaバージョン",
                     "zh-hans": "LangChain的Java版本",
                     "zh-hant": "Java 版本的 LangChain"
+                }
+            },
+            "https://github.com/sobelio/llm-chain": {
+                "repository_name": "llm-chain",
+                "user_name": "sobelio",
+                "language": "Rust",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks",
+                "topics": [
+                    "chatgpt",
+                    "langchain",
+                    "llama",
+                    "llm",
+                    "openai",
+                    "rust",
+                    "text-summary"
+                ],
+                "multilingual_descriptions": {
+                    "en": "`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks",
+                    "ja": "「llm-chain」は、大規模な言語モデルでチェーンを構築するための強力なRustのクレートであり、テキストの要約や複雑なタスクの完了が可能です。",
+                    "zh-hans": "`llm-chain` 是一个强大的 Rust 包，用于构建大型语言模型中的链条，可以帮助您对文本进行概括和完成复杂任务。",
+                    "zh-hant": "`llm-chain` 是一個強大的 Rust 庫，用於在大型語言模型中構建鏈條，讓您能夠對文本進行摘要和完成複雜任務。"
                 }
             }
         },
@@ -26243,6 +26397,81 @@
                     "ja": "💼 高性能で保守性の高いアプリケーションのためのエンタープライズグレードのNext.jsボイラープレート。Tailwind CSS、TypeScript、ESLint、Prettier、テストツールなどの機能が搭載されており、開発を加速させます。",
                     "zh-hans": "💼 一个面向企业级的 Next.js 脚手架，用于构建高性能、易维护的应用程序。内置了诸如 Tailwind CSS、TypeScript、ESLint、Prettier、测试工具等功能，以加速您的开发过程。",
                     "zh-hant": "💼 一個適用於高效能、易於維護的企業級 Next.js 樣板，內含豐富功能，如 Tailwind CSS、TypeScript、ESLint、Prettier、測試工具等，可加速您的開發流程。"
+                }
+            },
+            "https://github.com/microsoft/hydralab": {
+                "repository_name": "HydraLab",
+                "user_name": "microsoft",
+                "language": "Java",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Intelligent cloud testing made easy.",
+                "topics": [
+                    "azure",
+                    "chatgpt",
+                    "cloud-testing",
+                    "cross-platform",
+                    "developer-tools",
+                    "device-farm",
+                    "e2e-testing",
+                    "mobile-development",
+                    "performance-testing",
+                    "platform-engineering",
+                    "spring-boot",
+                    "test-automation",
+                    "testgpt",
+                    "testing",
+                    "testing-framework",
+                    "ui-testing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Intelligent cloud testing made easy.",
+                    "ja": "インテリジェントなクラウドテストが簡単になりました。",
+                    "zh-hans": "智能云测试变得简单。",
+                    "zh-hant": "智能雲端測試變得輕鬆。"
+                }
+            },
+            "https://github.com/epsilla-cloud/vectordb": {
+                "repository_name": "vectordb",
+                "user_name": "epsilla-cloud",
+                "language": "C++",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "data",
+                    "data-science",
+                    "database",
+                    "embeddings",
+                    "embeddings-similarity",
+                    "infrastructure",
+                    "llms",
+                    "machine-learning",
+                    "neural-network",
+                    "neural-search",
+                    "rag",
+                    "retrieval",
+                    "search-engine",
+                    "vector-database",
+                    "vector-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/",
+                    "ja": "Epsillaは高性能なベクトルデータベース管理システムです。ホストされたEpsillaをhttps://cloud.epsilla.com/で試してみてください。",
+                    "zh-hans": "Epsilla是一款高性能的向量数据库管理系统。请在https://cloud.epsilla.com/上尝试使用托管的Epsilla。",
+                    "zh-hant": "Epsilla 是一個高效能的向量資料庫管理系統。請在 https://cloud.epsilla.com/ 嘗試使用托管的 Epsilla。"
                 }
             }
         }

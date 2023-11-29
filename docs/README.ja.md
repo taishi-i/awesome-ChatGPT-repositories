@@ -16,41 +16,29 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 大規模言語モデル、AI絵画などのための厳選されたチュートリアルとリソース。
- * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - コミュニティによって作成されたすべてのGPTのコレクション
- * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
-
-コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
-
-
-**Prompts**
- * [magentic](https://github.com/jackmpcollins/magentic) - Python関数としてLLMsをシームレスに統合する
- * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - すべてのエージェントのシステムプロンプトを保存します。
+ * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - カスタムGPTストア - 公開されている主要なGPTのコレクション
 
 
 **Chatbots**
- * [magic](https://github.com/polterguy/magic) - カスタムのChatGPTベースのウェブサイトチャットボットを作成してください。
- * [rags](https://github.com/run-llama/rags) - データを使用してChatGPTを構築し、すべて自然言語で行います。
- * [LLamaSharp](https://github.com/scisharp/llamasharp) - C#で簡単かつ高速にLLaMA/GPTモデルを実行できます！🤗 さらに、LLamaSharpをsemantic-kernel、unity、WPF、およびWebAppと簡単に統合することもできます。
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - Assistants APIを使用して、カスタムGPTを作成し、サイトに追加/埋め込む。 
+カスタムGPTを作成し、Assistants APIを使用してサイトに追加/埋め込む。
 
 
-**NLP**
- * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - データサイエンスのロードマップ A から Z まで
+**Browser-extensions**
+ * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Rustで書かれたPostgres用のスケーラブルなベクターデータベースプラグイン、特にLLM向けに設計されています。
+ * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - AIプロンプトのカスタムライブラリを作成してください。
 
 
 **Langchain**
- * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChainのJavaバージョン
-
-
-**Unity**
- * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最もダウンロードされ、フォークされ、貢献され、大規模なコミュニティによってサポートされ、PHP（Laravel、Symfony、Yii、Cake PHPまたは任意のPHPフレームワーク）SDKとして使用されるOpenAI GPT-3およびDALL-EのSDKです。また、chatGPTのようなストリーミングもサポートしています。（ChatGPT AIがサポートされています）
+ * [llm-chain](https://github.com/sobelio/llm-chain) - 「llm-chain」は、大規模な言語モデルでチェーンを構築するための強力なRustのクレートであり、テキストの要約や複雑なタスクの完了が可能です。
 
 
 **Others**
- * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 高性能で保守性の高いアプリケーションのためのエンタープライズグレードのNext.jsボイラープレート。Tailwind CSS、TypeScript、ESLint、Prettier、テストツールなどの機能が搭載されており、開発を加速させます。
+ * [HydraLab](https://github.com/microsoft/hydralab) - インテリジェントなクラウドテストが簡単になりました。
+ * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsillaは高性能なベクトルデータベース管理システムです。ホストされたEpsillaをhttps://cloud.epsilla.com/で試してみてください。
 
 
-_Updated on November 26, 2023_ (A total of 1233 repositories listed.)
+_Updated on November 30, 2023_ (A total of 1240 repositories listed.)
 
 ## Table of contents
 
@@ -104,9 +92,8 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - セグメントアニシングに関連する論文、プロジェクト、その他の情報を追跡して収集します。
  * [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - 大規模言語モデル、AI絵画などのための厳選されたチュートリアルとリソース。
  * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - コミュニティによって作成されたすべてのGPTのコレクション
- * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
-
-コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
+ * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
+ * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - カスタムGPTストア - 公開されている主要なGPTのコレクション
 
 
 ## Prompts
@@ -361,6 +348,8 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [magic](https://github.com/polterguy/magic) - カスタムのChatGPTベースのウェブサイトチャットボットを作成してください。
  * [rags](https://github.com/run-llama/rags) - データを使用してChatGPTを構築し、すべて自然言語で行います。
  * [LLamaSharp](https://github.com/scisharp/llamasharp) - C#で簡単かつ高速にLLaMA/GPTモデルを実行できます！🤗 さらに、LLamaSharpをsemantic-kernel、unity、WPF、およびWebAppと簡単に統合することもできます。
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - Assistants APIを使用して、カスタムGPTを作成し、サイトに追加/埋め込む。 
+カスタムGPTを作成し、Assistants APIを使用してサイトに追加/埋め込む。
 
 
 ## Browser-extensions
@@ -507,6 +496,8 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - ChatGPT APIに基づくテキスト翻訳、テキストの改善、文法修正のBobプラグインで、バベルの塔を必要としない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0のライセンスに基づいています。
  * [Openaibot](https://github.com/llmkira/openaibot) - ⚡️ 自分自身のアシスタントボットを構築する|🧀 Discord/Slack/Kook/Telegram |🍓 ChatGptアーキテクチャの複製 |⛓ ToolCall/FunctionCall|🔖 プラグインサポート | 🌻 sh & docker-compose
  * [LibreChat](https://github.com/danny-avila/librechat) - 強化されたChatGPTクローン：OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AIモデルの切り替え、メッセージ検索、langchain、DALL-E-3、ChatGPTプラグイン、OpenAI関数、セキュアなマルチユーザーシステム、プリセット、自己ホスティング用の完全なオープンソースなどの機能があります。開発中のさらなる機能もあります。
+ * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Rustで書かれたPostgres用のスケーラブルなベクターデータベースプラグイン、特にLLM向けに設計されています。
+ * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - AIプロンプトのカスタムライブラリを作成してください。
 
 
 ## CLIs
@@ -901,6 +892,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [Real_time_fallacy_detection](https://github.com/latent-variable/real_time_fallacy_detection) - リアルタイムの誤謬検出は、OpenAI WhisperとChatGPT/LLaMA/Mistralを使用して行われます。
  * [evadb](https://github.com/georgia-tech-db/evadb) - AIパワードアプリのためのデータベースシステム
  * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChainのJavaバージョン
+ * [llm-chain](https://github.com/sobelio/llm-chain) - 「llm-chain」は、大規模な言語モデルでチェーンを構築するための強力なRustのクレートであり、テキストの要約や複雑なタスクの完了が可能です。
 
 
 ## Unity
@@ -1360,5 +1352,7 @@ _Updated on November 26, 2023_ (A total of 1233 repositories listed.)
  * [SuperCLUE](https://github.com/cluebenchmark/superclue) - SuperCLUE: 中国語の基礎モデルのためのベンチマーク
  * [worktool](https://github.com/gallonyin/worktool) - 【企業微信】企業微信のロボット チャットボット、自動的に友達を追加、自動的にグループに招待、自動的にメッセージを送信するロボット ルート不要でアカウントが封鎖されない ChatGPTを統合
  * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 高性能で保守性の高いアプリケーションのためのエンタープライズグレードのNext.jsボイラープレート。Tailwind CSS、TypeScript、ESLint、Prettier、テストツールなどの機能が搭載されており、開発を加速させます。
+ * [HydraLab](https://github.com/microsoft/hydralab) - インテリジェントなクラウドテストが簡単になりました。
+ * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsillaは高性能なベクトルデータベース管理システムです。ホストされたEpsillaをhttps://cloud.epsilla.com/で試してみてください。
 
 
