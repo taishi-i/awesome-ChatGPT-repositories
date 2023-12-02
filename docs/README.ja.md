@@ -16,29 +16,32 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - カスタムGPTストア - 公開されている主要なGPTのコレクション
+ * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 ChatGPTの最高のリソース、ツール、アプリケーション、使用法の素晴らしいリスト
+
+
+**Prompts**
+ * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT: すべての人がプロンプトのエキスパートになれるようにする！🚀  構造化されたプロンプト、GPTの言語、結構化されたプロンプト
 
 
 **Chatbots**
- * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - Assistants APIを使用して、カスタムGPTを作成し、サイトに追加/埋め込む。 
-カスタムGPTを作成し、Assistants APIを使用してサイトに追加/埋め込む。
+ * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群チャットの要約アシスタント JS バージョン
+ * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhizは、あなたの製品についてすべてを知っており、お客様の問い合わせに即座に応答できるAIチャットボットを作成することができます。
+ * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - ウェブサイト用の完全にカスタマイズ可能なAIチャットボットコンポーネント
 
 
-**Browser-extensions**
- * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Rustで書かれたPostgres用のスケーラブルなベクターデータベースプラグイン、特にLLM向けに設計されています。
- * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - AIプロンプトのカスタムライブラリを作成してください。
+**NLP**
+ * [deepeval](https://github.com/confident-ai/deepeval) - LLMの評価フレームワーク
 
 
 **Langchain**
- * [llm-chain](https://github.com/sobelio/llm-chain) - 「llm-chain」は、大規模な言語モデルでチェーンを構築するための強力なRustのクレートであり、テキストの要約や複雑なタスクの完了が可能です。
+ * [langroid](https://github.com/langroid/langroid) - マルチエージェントプログラミングでLLMsを活用する
 
 
 **Others**
- * [HydraLab](https://github.com/microsoft/hydralab) - インテリジェントなクラウドテストが簡単になりました。
- * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsillaは高性能なベクトルデータベース管理システムです。ホストされたEpsillaをhttps://cloud.epsilla.com/で試してみてください。
+ * [WeChatMsg](https://github.com/lc044/wechatmsg) - WeChatのチャット履歴を抽出し、HTML、Word、CSV形式のドキュメントにエクスポートして永久保存し、チャット履歴を分析して年次チャットレポートを生成します。
 
 
-_Updated on November 30, 2023_ (A total of 1240 repositories listed.)
+_Updated on December 02, 2023_ (A total of 1248 repositories listed.)
 
 ## Table of contents
 
@@ -94,6 +97,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - コミュニティによって作成されたすべてのGPTのコレクション
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - カスタムGPTストア - 公開されている主要なGPTのコレクション
+ * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 ChatGPTの最高のリソース、ツール、アプリケーション、使用法の素晴らしいリスト
 
 
 ## Prompts
@@ -188,6 +192,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - Prompt＆LLM論文のまとめ、オープンソースのデータ＆モデル、AIGCの応用
  * [magentic](https://github.com/jackmpcollins/magentic) - Python関数としてLLMsをシームレスに統合する
  * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - すべてのエージェントのシステムプロンプトを保存します。
+ * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT: すべての人がプロンプトのエキスパートになれるようにする！🚀  構造化されたプロンプト、GPTの言語、結構化されたプロンプト
 
 
 ## Chatbots
@@ -348,8 +353,10 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [magic](https://github.com/polterguy/magic) - カスタムのChatGPTベースのウェブサイトチャットボットを作成してください。
  * [rags](https://github.com/run-llama/rags) - データを使用してChatGPTを構築し、すべて自然言語で行います。
  * [LLamaSharp](https://github.com/scisharp/llamasharp) - C#で簡単かつ高速にLLaMA/GPTモデルを実行できます！🤗 さらに、LLamaSharpをsemantic-kernel、unity、WPF、およびWebAppと簡単に統合することもできます。
- * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - Assistants APIを使用して、カスタムGPTを作成し、サイトに追加/埋め込む。 
-カスタムGPTを作成し、Assistants APIを使用してサイトに追加/埋め込む。
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - Assistants APIを使用して、カスタムGPTを作成し、サイトに追加/埋め込む。 カスタムGPTを作成し、Assistants APIを使用してサイトに追加/埋め込む。
+ * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群チャットの要約アシスタント JS バージョン
+ * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhizは、あなたの製品についてすべてを知っており、お客様の問い合わせに即座に応答できるAIチャットボットを作成することができます。
+ * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - ウェブサイト用の完全にカスタマイズ可能なAIチャットボットコンポーネント
 
 
 ## Browser-extensions
@@ -823,6 +830,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [lmql](https://github.com/eth-sri/lmql) - 制約に基づいた効率的なLLMプログラミングのための言語。
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（またはChat Arena）は、LLMs向けのマルチエージェント言語ゲーム環境です。目標は、AIのコミュニケーションと協力能力を開発することです。
  * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - データサイエンスのロードマップ A から Z まで
+ * [deepeval](https://github.com/confident-ai/deepeval) - LLMの評価フレームワーク
 
 
 ## Langchain
@@ -893,6 +901,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [evadb](https://github.com/georgia-tech-db/evadb) - AIパワードアプリのためのデータベースシステム
  * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChainのJavaバージョン
  * [llm-chain](https://github.com/sobelio/llm-chain) - 「llm-chain」は、大規模な言語モデルでチェーンを構築するための強力なRustのクレートであり、テキストの要約や複雑なタスクの完了が可能です。
+ * [langroid](https://github.com/langroid/langroid) - マルチエージェントプログラミングでLLMsを活用する
 
 
 ## Unity
@@ -1354,5 +1363,6 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 高性能で保守性の高いアプリケーションのためのエンタープライズグレードのNext.jsボイラープレート。Tailwind CSS、TypeScript、ESLint、Prettier、テストツールなどの機能が搭載されており、開発を加速させます。
  * [HydraLab](https://github.com/microsoft/hydralab) - インテリジェントなクラウドテストが簡単になりました。
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsillaは高性能なベクトルデータベース管理システムです。ホストされたEpsillaをhttps://cloud.epsilla.com/で試してみてください。
+ * [WeChatMsg](https://github.com/lc044/wechatmsg) - WeChatのチャット履歴を抽出し、HTML、Word、CSV形式のドキュメントにエクスポートして永久保存し、チャット履歴を分析して年次チャットレポートを生成します。
 
 

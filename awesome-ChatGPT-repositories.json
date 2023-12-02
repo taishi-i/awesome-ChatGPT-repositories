@@ -900,6 +900,38 @@
                     "zh-hans": "自定义GPT商店 - 一个收集了公开可用的主要GPT的集合",
                     "zh-hant": "自訂GPT商店 - 一個收集了公開可用的主要GPT的集合"
                 }
+            },
+            "https://github.com/awesome-chatgpt/awesome-chatgpt": {
+                "repository_name": "awesome-chatgpt",
+                "user_name": "awesome-chatgpt",
+                "language": null,
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "🏆 An awesome list of best resources, tools, applications, usages of ChatGPT",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "chat-gpt-tool",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-chrome-extension",
+                    "chatgpt4",
+                    "chatgptapi",
+                    "openai",
+                    "tipschatgpt",
+                    "usingchatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🏆 An awesome list of best resources, tools, applications, usages of ChatGPT",
+                    "ja": "🏆 ChatGPTの最高のリソース、ツール、アプリケーション、使用法の素晴らしいリスト",
+                    "zh-hans": "🏆 一个关于ChatGPT最佳资源、工具、应用和用法的精选清单",
+                    "zh-hant": "🏆 一份關於ChatGPT最佳資源、工具、應用和用法的精彩清單"
+                }
             }
         },
         "Prompts": {
@@ -2815,6 +2847,34 @@
                     "ja": "すべてのエージェントのシステムプロンプトを保存します。",
                     "zh-hans": "存储所有代理人的系统提示",
                     "zh-hant": "儲存所有代理人的系統提示"
+                }
+            },
+            "https://github.com/embraceagi/langgpt": {
+                "repository_name": "LangGPT",
+                "user_name": "EmbraceAGI",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt",
+                "topics": [
+                    "chatgpt",
+                    "deeplearning",
+                    "framework",
+                    "gpt-4",
+                    "gpt3-prompts",
+                    "langgpt",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt",
+                    "ja": "LangGPT: すべての人がプロンプトのエキスパートになれるようにする！🚀  構造化されたプロンプト、GPTの言語、結構化されたプロンプト",
+                    "zh-hans": "LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT的语言，结构化提示",
+                    "zh-hant": "LangGPT：讓每個人都能成為提示專家！🚀  結構化提示，GPT的語言，結構化提示詞，結構化Prompt"
                 }
             }
         },
@@ -6433,6 +6493,92 @@
                     "ja": "Assistants APIを使用して、カスタムGPTを作成し、サイトに追加/埋め込む。 \nカスタムGPTを作成し、Assistants APIを使用してサイトに追加/埋め込む。",
                     "zh-hans": "使用助手API创建自定义GPT并将其添加/嵌入到您的网站上\n创建自定义GPT并使用助手API将其添加/嵌入到您的网站上。",
                     "zh-hant": "使用助手 API 創建自定義 GPT 並將其添加/嵌入到您的網站上"
+                }
+            },
+            "https://github.com/aoao-eth/wechat-ai-summarize-bot": {
+                "repository_name": "wechat-ai-summarize-bot",
+                "user_name": "aoao-eth",
+                "language": "TypeScript",
+                "license": null,
+                "description": "微信群聊总结助手 JS 版",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "wechat",
+                    "wechaty"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WeChat Group Chat Summary Assistant JS Version",
+                    "ja": "微信群チャットの要約アシスタント JS バージョン",
+                    "zh-hans": "微信群聊总结助手 JS 版",
+                    "zh-hant": "微信群聊總結助手 JS 版"
+                }
+            },
+            "https://github.com/webwhiz-ai/webwhiz": {
+                "repository_name": "webwhiz",
+                "user_name": "webwhiz-ai",
+                "language": "TypeScript",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "openai",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.",
+                    "ja": "WebWhizは、あなたの製品についてすべてを知っており、お客様の問い合わせに即座に応答できるAIチャットボットを作成することができます。",
+                    "zh-hans": "WebWhiz允许您创建一个人工智能聊天机器人，它了解您产品的一切，并能即时回答客户的问题。",
+                    "zh-hant": "WebWhiz 允許您創建一個 AI 聊天機器人，該機器人對您的產品了如指掌，能夠即時回答客戶的問題。"
+                }
+            },
+            "https://github.com/ovidijusparsiunas/deep-chat": {
+                "repository_name": "deep-chat",
+                "user_name": "OvidijusParsiunas",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Fully customizable AI chatbot component for your website",
+                "topics": [
+                    "ai",
+                    "ai-chatbot",
+                    "angular",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "cohere",
+                    "component",
+                    "files",
+                    "huggingface",
+                    "image",
+                    "nextjs",
+                    "openai",
+                    "react",
+                    "react-chatbot",
+                    "solid",
+                    "speech",
+                    "svelte",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fully customizable AI chatbot component for your website",
+                    "ja": "ウェブサイト用の完全にカスタマイズ可能なAIチャットボットコンポーネント",
+                    "zh-hans": "全面可定制的AI聊天机器人组件，适用于您的网站",
+                    "zh-hant": "完全可定制的網站AI聊天機器人組件"
                 }
             }
         },
@@ -16183,6 +16329,36 @@
                     "zh-hans": "从A到Z的数据科学路线图",
                     "zh-hant": "從A到Z的數據科學路線圖"
                 }
+            },
+            "https://github.com/confident-ai/deepeval": {
+                "repository_name": "deepeval",
+                "user_name": "confident-ai",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "The Evaluation Framework for LLMs",
+                "topics": [
+                    "chatgpt",
+                    "evaluate-models",
+                    "evaluate-news-article-with-nlp",
+                    "evaluation",
+                    "evaluation-framework",
+                    "evaluation-metrics",
+                    "large",
+                    "llm",
+                    "llmops"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Evaluation Framework for LLMs",
+                    "ja": "LLMの評価フレームワーク",
+                    "zh-hans": "LLM评估框架",
+                    "zh-hant": "LLM（碩士學位法學）評估框架"
+                }
             }
         },
         "Langchain": {
@@ -17663,6 +17839,46 @@
                     "ja": "「llm-chain」は、大規模な言語モデルでチェーンを構築するための強力なRustのクレートであり、テキストの要約や複雑なタスクの完了が可能です。",
                     "zh-hans": "`llm-chain` 是一个强大的 Rust 包，用于构建大型语言模型中的链条，可以帮助您对文本进行概括和完成复杂任务。",
                     "zh-hant": "`llm-chain` 是一個強大的 Rust 庫，用於在大型語言模型中構建鏈條，讓您能夠對文本進行摘要和完成複雜任務。"
+                }
+            },
+            "https://github.com/langroid/langroid": {
+                "repository_name": "langroid",
+                "user_name": "langroid",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Harness LLMs with Multi-Agent Programming",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "chatgpt",
+                    "function-calling",
+                    "gpt",
+                    "gpt-4",
+                    "gpt4",
+                    "information-retrieval",
+                    "language-model",
+                    "llama",
+                    "llm",
+                    "llm-agent",
+                    "llm-framework",
+                    "local-llm",
+                    "multi-agent-systems",
+                    "openai-api",
+                    "question-answering",
+                    "rag",
+                    "retrieval-augmented-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Harness LLMs with Multi-Agent Programming",
+                    "ja": "マルチエージェントプログラミングでLLMsを活用する",
+                    "zh-hans": "使用多智能体编程来驾驭LLMs",
+                    "zh-hant": "利用多智能體編程來應用LLMs"
                 }
             }
         },
@@ -26472,6 +26688,31 @@
                     "ja": "Epsillaは高性能なベクトルデータベース管理システムです。ホストされたEpsillaをhttps://cloud.epsilla.com/で試してみてください。",
                     "zh-hans": "Epsilla是一款高性能的向量数据库管理系统。请在https://cloud.epsilla.com/上尝试使用托管的Epsilla。",
                     "zh-hant": "Epsilla 是一個高效能的向量資料庫管理系統。請在 https://cloud.epsilla.com/ 嘗試使用托管的 Epsilla。"
+                }
+            },
+            "https://github.com/lc044/wechatmsg": {
+                "repository_name": "WeChatMsg",
+                "user_name": "LC044",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告",
+                "topics": [
+                    "chatgpt",
+                    "llms",
+                    "pyqt",
+                    "wechat"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Extract WeChat chat records, export them as HTML, Word, and CSV documents for permanent storage, analyze the chat records, and generate annual chat reports.",
+                    "ja": "WeChatのチャット履歴を抽出し、HTML、Word、CSV形式のドキュメントにエクスポートして永久保存し、チャット履歴を分析して年次チャットレポートを生成します。",
+                    "zh-hans": "提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告",
+                    "zh-hant": "提取微信聊天記錄，將其導出成HTML、Word、CSV文件永久保存，對聊天記錄進行分析生成年度聊天報告"
                 }
             }
         }

@@ -16,28 +16,32 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 定制GPT商店 - 一个主要的GPTS集合,可供公众使用
+ * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) -  提供了最好的资源,工具,应用程序和ChatGPT的使用方式
+
+
+**Prompts**
+ * [LangGPT](https://github.com/embraceagi/langgpt) - 让每个人都成为一个快速专家!结构化快速,GPT的语言, 结构化提示词,结构化快速
 
 
 **Chatbots**
- * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - 使用助理API创建自定义GPT并在您的网站上添加/嵌入
+ * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群聊总结助手JS版
+ * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - 让你创建一个人工智能聊天机器人,
+ * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - 完全可自定义的AI聊天机器人组件
 
 
-**Browser-extensions**
- * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - 可扩展的向量数据库插件,用Rust编写,专门为LLM设计
- * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - 管理一个自定义的AI提示库
+**NLP**
+ * [deepeval](https://github.com/confident-ai/deepeval) - 法律管理师的评估框架
 
 
 **Langchain**
- * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain`是一个强大的箱,用于大语言模型中建立链,允许您总结文本并完成复杂任务
+ * [langroid](https://github.com/langroid/langroid) - 通过多代理编程利用LLM
 
 
 **Others**
- * [HydraLab](https://github.com/microsoft/hydralab) - 智能云测试让我们变得很容易.
- * [vectordb](https://github.com/epsilla-cloud/vectordb) - 埃普西拉是一个高性能向量数据库管理系统. 试试在https://cloud.epsilla.com/
+ * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天记录,将其导出为HTML、Word、CSV文件永久保存,对聊天记录进行分析生成年度聊天报告
 
 
-_Updated on November 30, 2023_ (A total of 1240 repositories listed.)
+_Updated on December 02, 2023_ (A total of 1248 repositories listed.)
 
 ## Table of contents
 
@@ -93,6 +97,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 社区创建的所有GPT的集合
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 用于上下文学习和提示工程的绝佳资源：掌握ChatGPT、GPT-3和FlanT5等LLM的最新和尖端更新。
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 自定义GPT商店 - 一个收集了公开可用的主要GPT的集合
+ * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 一个关于ChatGPT最佳资源、工具、应用和用法的精选清单
 
 
 ## Prompts
@@ -187,6 +192,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - 总结Prompt&LLM论文，开源数据&模型，AIGC应用
  * [magentic](https://github.com/jackmpcollins/magentic) - 无缝地将LLMs集成为Python函数
  * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 存储所有代理人的系统提示
+ * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT的语言，结构化提示
 
 
 ## Chatbots
@@ -347,8 +353,10 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [magic](https://github.com/polterguy/magic) - 创建一个基于ChatGPT的定制网站聊天机器人
  * [rags](https://github.com/run-llama/rags) - 使用您的数据构建ChatGPT，全部使用自然语言。
  * [LLamaSharp](https://github.com/scisharp/llamasharp) - 在C#中轻松快速地运行LLaMA/GPT模型！🤗 同时，将LLamaSharp与语义内核、Unity、WPF和WebApp集成也很容易。
- * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - 使用助手API创建自定义GPT并将其添加/嵌入到您的网站上
-创建自定义GPT并使用助手API将其添加/嵌入到您的网站上。
+ * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - 使用助手API创建自定义GPT并将其添加/嵌入到您的网站上创建自定义GPT并使用助手API将其添加/嵌入到您的网站上。
+ * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群聊总结助手 JS 版
+ * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz允许您创建一个人工智能聊天机器人，它了解您产品的一切，并能即时回答客户的问题。
+ * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - 全面可定制的AI聊天机器人组件，适用于您的网站
 
 
 ## Browser-extensions
@@ -822,6 +830,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [lmql](https://github.com/eth-sri/lmql) - 一种用于约束引导和高效LLM编程的语言。
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（或Chat Arena）是一个为LLMs设计的多智能体语言游戏环境。其目标是开发AI的沟通和协作能力。
  * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 从A到Z的数据科学路线图
+ * [deepeval](https://github.com/confident-ai/deepeval) - LLM评估框架
 
 
 ## Langchain
@@ -892,6 +901,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [evadb](https://github.com/georgia-tech-db/evadb) - 用于AI应用的数据库系统
  * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChain的Java版本
  * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` 是一个强大的 Rust 包，用于构建大型语言模型中的链条，可以帮助您对文本进行概括和完成复杂任务。
+ * [langroid](https://github.com/langroid/langroid) - 使用多智能体编程来驾驭LLMs
 
 
 ## Unity
@@ -1353,5 +1363,6 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 一个面向企业级的 Next.js 脚手架，用于构建高性能、易维护的应用程序。内置了诸如 Tailwind CSS、TypeScript、ESLint、Prettier、测试工具等功能，以加速您的开发过程。
  * [HydraLab](https://github.com/microsoft/hydralab) - 智能云测试变得简单。
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla是一款高性能的向量数据库管理系统。请在https://cloud.epsilla.com/上尝试使用托管的Epsilla。
+ * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 
 

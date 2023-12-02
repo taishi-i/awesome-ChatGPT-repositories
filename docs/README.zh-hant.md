@@ -16,28 +16,32 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 定制GPT商店 - 公開的主要GPTS的集合
+ * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) -  提供了最好的資源,工具,應用程式,ChatGPT使用方式
+
+
+**Prompts**
+ * [LangGPT](https://github.com/embraceagi/langgpt) - 能讓每個人成為快速專家! 結構化快速,GPT的語言, 結構化提示詞,結構化快速
 
 
 **Chatbots**
- * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - 建立自訂的GPT,並使用助理API在網站上添加/嵌入
+ * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群聊總結助手 JS版
+ * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - 網站提供了一個可靠的工具,
+ * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - 完全可自訂的AI聊天機組件
 
 
-**Browser-extensions**
- * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - 寫在Rust的 Postgres 可擴展向量資料庫插件, 特別為LLM設計
- * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - 編輯一個自訂的AI提示庫
+**NLP**
+ * [deepeval](https://github.com/confident-ai/deepeval) - 法律管理師的評估框架
 
 
 **Langchain**
- * [llm-chain](https://github.com/sobelio/llm-chain) - ゙llm-chain`是一個強大的化箱,
+ * [langroid](https://github.com/langroid/langroid) - 運用多代理程式進行LLM
 
 
 **Others**
- * [HydraLab](https://github.com/microsoft/hydralab) - 智能雲端測試變得容易.
- * [vectordb](https://github.com/epsilla-cloud/vectordb) - 試用在https://cloud.epsilla.com/網站上托管Epsilla.
+ * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天記錄,將其輸出成HTML、Word、CSV文件永久保存,對聊天記錄進行分析生成年度聊天報告
 
 
-_Updated on November 30, 2023_ (A total of 1240 repositories listed.)
+_Updated on December 02, 2023_ (A total of 1248 repositories listed.)
 
 ## Table of contents
 
@@ -93,6 +97,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - 由社群創建的所有GPT的收藏
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 出色的資源，用於上下文學習和提示工程：掌握像ChatGPT、GPT-3和FlanT5這樣的LLM的最新和尖端更新。
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 自訂GPT商店 - 一個收集了公開可用的主要GPT的集合
+ * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 一份關於ChatGPT最佳資源、工具、應用和用法的精彩清單
 
 
 ## Prompts
@@ -187,6 +192,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - 總結Prompt&LLM論文，開源數據&模型，AIGC應用
  * [magentic](https://github.com/jackmpcollins/magentic) - 無縫地將LLMs整合為Python函數
  * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 儲存所有代理人的系統提示
+ * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT：讓每個人都能成為提示專家！🚀  結構化提示，GPT的語言，結構化提示詞，結構化Prompt
 
 
 ## Chatbots
@@ -348,6 +354,9 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [rags](https://github.com/run-llama/rags) - 使用您的數據建立自然語言的ChatGPT。
  * [LLamaSharp](https://github.com/scisharp/llamasharp) - 在C#中輕鬆快速地運行LLaMA/GPT模型！🤗 使用LLamaSharp與語義核心、Unity、WPF和WebApp進行集成也很容易。
  * [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - 使用助手 API 創建自定義 GPT 並將其添加/嵌入到您的網站上
+ * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群聊總結助手 JS 版
+ * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz 允許您創建一個 AI 聊天機器人，該機器人對您的產品了如指掌，能夠即時回答客戶的問題。
+ * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - 完全可定制的網站AI聊天機器人組件
 
 
 ## Browser-extensions
@@ -821,6 +830,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [lmql](https://github.com/eth-sri/lmql) - 一種用於受限制引導和高效LLM編程的語言。
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（或Chat Arena）是一個為LLMs設計的多智能體語言遊戲環境。其目標是發展AI的溝通和協作能力。
  * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 從A到Z的數據科學路線圖
+ * [deepeval](https://github.com/confident-ai/deepeval) - LLM（碩士學位法學）評估框架
 
 
 ## Langchain
@@ -891,6 +901,7 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [evadb](https://github.com/georgia-tech-db/evadb) - AI 引擎應用的資料庫系統
  * [langchain4j](https://github.com/langchain4j/langchain4j) - Java 版本的 LangChain
  * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` 是一個強大的 Rust 庫，用於在大型語言模型中構建鏈條，讓您能夠對文本進行摘要和完成複雜任務。
+ * [langroid](https://github.com/langroid/langroid) - 利用多智能體編程來應用LLMs
 
 
 ## Unity
@@ -1352,5 +1363,6 @@ _Updated on November 30, 2023_ (A total of 1240 repositories listed.)
  * [next-enterprise](https://github.com/blazity/next-enterprise) - 💼 一個適用於高效能、易於維護的企業級 Next.js 樣板，內含豐富功能，如 Tailwind CSS、TypeScript、ESLint、Prettier、測試工具等，可加速您的開發流程。
  * [HydraLab](https://github.com/microsoft/hydralab) - 智能雲端測試變得輕鬆。
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla 是一個高效能的向量資料庫管理系統。請在 https://cloud.epsilla.com/ 嘗試使用托管的 Epsilla。
+ * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天記錄，將其導出成HTML、Word、CSV文件永久保存，對聊天記錄進行分析生成年度聊天報告
 
 
