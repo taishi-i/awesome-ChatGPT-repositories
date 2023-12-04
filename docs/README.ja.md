@@ -15,33 +15,22 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 ChatGPTの最高のリソース、ツール、アプリケーション、使用法の素晴らしいリスト
-
-
-**Prompts**
- * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT: すべての人がプロンプトのエキスパートになれるようにする！🚀  構造化されたプロンプト、GPTの言語、結構化されたプロンプト
-
-
 **Chatbots**
- * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群チャットの要約アシスタント JS バージョン
- * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhizは、あなたの製品についてすべてを知っており、お客様の問い合わせに即座に応答できるAIチャットボットを作成することができます。
- * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - ウェブサイト用の完全にカスタマイズ可能なAIチャットボットコンポーネント
+ * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信のリバースエンジニアリング、微信ボット、ChatGPT、ChatGLM、讯飞星火、Tigerbotなどの大規模モデルに接続可能。WeChatをフックします。
 
 
-**NLP**
- * [deepeval](https://github.com/confident-ai/deepeval) - LLMの評価フレームワーク
+**Browser-extensions**
+ * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 指定された言語に電子書籍を翻訳するためのCalibreプラグイン。
+ * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - IDAのプラグインは、バイナリファイルの解析を支援するものであり、OpenAIによって訓練されたgpt-3.5-turboモデルに基づいています。ChatGPTと同じモデルです。
+ * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
+云崽qqボットのchatgptプラグイン
 
 
-**Langchain**
- * [langroid](https://github.com/langroid/langroid) - マルチエージェントプログラミングでLLMsを活用する
+**Openai**
+ * [chatgpt-web](https://github.com/niek/chatgpt-web) - OpenAI APIを使用したChatGPTウェブインターフェース
 
 
-**Others**
- * [WeChatMsg](https://github.com/lc044/wechatmsg) - WeChatのチャット履歴を抽出し、HTML、Word、CSV形式のドキュメントにエクスポートして永久保存し、チャット履歴を分析して年次チャットレポートを生成します。
-
-
-_Updated on December 02, 2023_ (A total of 1248 repositories listed.)
+_Updated on December 04, 2023_ (A total of 1253 repositories listed.)
 
 ## Table of contents
 
@@ -357,6 +346,7 @@ _Updated on December 02, 2023_ (A total of 1248 repositories listed.)
  * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群チャットの要約アシスタント JS バージョン
  * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhizは、あなたの製品についてすべてを知っており、お客様の問い合わせに即座に応答できるAIチャットボットを作成することができます。
  * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - ウェブサイト用の完全にカスタマイズ可能なAIチャットボットコンポーネント
+ * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信のリバースエンジニアリング、微信ボット、ChatGPT、ChatGLM、讯飞星火、Tigerbotなどの大規模モデルに接続可能。WeChatをフックします。
 
 
 ## Browser-extensions
@@ -505,6 +495,10 @@ _Updated on December 02, 2023_ (A total of 1248 repositories listed.)
  * [LibreChat](https://github.com/danny-avila/librechat) - 強化されたChatGPTクローン：OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AIモデルの切り替え、メッセージ検索、langchain、DALL-E-3、ChatGPTプラグイン、OpenAI関数、セキュアなマルチユーザーシステム、プリセット、自己ホスティング用の完全なオープンソースなどの機能があります。開発中のさらなる機能もあります。
  * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Rustで書かれたPostgres用のスケーラブルなベクターデータベースプラグイン、特にLLM向けに設計されています。
  * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - AIプロンプトのカスタムライブラリを作成してください。
+ * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 指定された言語に電子書籍を翻訳するためのCalibreプラグイン。
+ * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - IDAのプラグインは、バイナリファイルの解析を支援するものであり、OpenAIによって訓練されたgpt-3.5-turboモデルに基づいています。ChatGPTと同じモデルです。
+ * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
+云崽qqボットのchatgptプラグイン
 
 
 ## CLIs
@@ -1046,6 +1040,7 @@ _Updated on December 02, 2023_ (A total of 1248 repositories listed.)
  * [openai](https://github.com/betalgo/openai) - OpenAI .NET SDK - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI、およびDALL-E
  * [chatgpt](https://github.com/dirk1983/chatgpt) - 全ウェブ最も簡単に展開でき、最も高速な応答速度を持つChatGPT環境。PHP版はOpenAI APIを呼び出して質問と図の生成を行い、Streamストリームモード通信を採用し、生成と出力を同時に行います。フロントエンドはEventSourceを使用し、Markdown形式の解析と数式の表示をサポートし、コードには色付け処理があり、図の表示もサポートしています。ページのUIはシンプルで、コンテキストの連続した会話をサポートしています。ソースコードはわずかなファイルのみで、フレームワークは使用しておらず、すべてのPHPバージョンをサポートし、完全にオープンソースで、非常に簡単にカスタマイズできます。チュートリアルや関連リソースも完備しており、グループへの参加と交流を歓迎します。すべて無料です。
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉 & 🤖 GPT-3.5 は、あなたの仕事の効率を直接的に向上させます 🚀 プライベートチャットやグループチャットの方法、一対一のチャットや連続チャットのモード、役割プレイ、画像作成などが可能です 🚀
+ * [chatgpt-web](https://github.com/niek/chatgpt-web) - OpenAI APIを使用したChatGPTウェブインターフェース
 
 
 ## Others

@@ -15,33 +15,21 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) -  提供了最好的資源,工具,應用程式,ChatGPT使用方式
-
-
-**Prompts**
- * [LangGPT](https://github.com/embraceagi/langgpt) - 能讓每個人成為快速專家! 結構化快速,GPT的語言, 結構化提示詞,結構化快速
-
-
 **Chatbots**
- * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群聊總結助手 JS版
- * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - 網站提供了一個可靠的工具,
- * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - 完全可自訂的AI聊天機組件
+ * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向,微信機器人,可接入聊天GPT、ChatGLM、讯飞星火、Tigerbot等大模型、微信.
 
 
-**NLP**
- * [deepeval](https://github.com/confident-ai/deepeval) - 法律管理師的評估框架
+**Browser-extensions**
+ * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 翻譯電子書到特定語言的加密程式.
+ * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - 這款插件是基于OpenAI訓練的gpt-3.5-turbo模型,
+ * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云qq機器人的聊天插件
 
 
-**Langchain**
- * [langroid](https://github.com/langroid/langroid) - 運用多代理程式進行LLM
+**Openai**
+ * [chatgpt-web](https://github.com/niek/chatgpt-web) - 使用OpenAI API的ChatGPT網路接口
 
 
-**Others**
- * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天記錄,將其輸出成HTML、Word、CSV文件永久保存,對聊天記錄進行分析生成年度聊天報告
-
-
-_Updated on December 02, 2023_ (A total of 1248 repositories listed.)
+_Updated on December 04, 2023_ (A total of 1253 repositories listed.)
 
 ## Table of contents
 
@@ -357,6 +345,7 @@ _Updated on December 02, 2023_ (A total of 1248 repositories listed.)
  * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - 微信群聊總結助手 JS 版
  * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz 允許您創建一個 AI 聊天機器人，該機器人對您的產品了如指掌，能夠即時回答客戶的問題。
  * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - 完全可定制的網站AI聊天機器人組件
+ * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信機器人，可接入 ChatGPT、ChatGLM、訊飛星火、Tigerbot等大模型。Hook WeChat.
 
 
 ## Browser-extensions
@@ -505,6 +494,9 @@ _Updated on December 02, 2023_ (A total of 1248 repositories listed.)
  * [LibreChat](https://github.com/danny-avila/librechat) - 增強版ChatGPT克隆：功能包括OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AI模型切換、訊息搜尋、語言鏈、DALL-E-3、ChatGPT插件、OpenAI功能、安全多用戶系統、預設值，完全開源以供自行託管。更多功能正在開發中。
  * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - 可擴展的矢量數據庫插件，用Rust編寫，專為LLM設計。
  * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - 精心策劃一個自定義的AI提示圖書館
+ * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 一個Calibre插件，可以將電子書翻譯成指定的語言。
+ * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - 一個用於IDA的插件，可以幫助分析二進制文件，它基於OpenAI訓練的gpt-3.5-turbo模型，與ChatGPT相同。
+ * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 雲崽qq機器人的chatgpt插件
 
 
 ## CLIs
@@ -1046,6 +1038,7 @@ _Updated on December 02, 2023_ (A total of 1248 repositories listed.)
  * [openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT、Whisper、GPT-3、GPT-4、Azure OpenAI 和 DALL-E
  * [chatgpt](https://github.com/dirk1983/chatgpt) - 全網最易部署，響應速度最快的ChatGPT環境。PHP版調用OpenAI接口進行問答和畫圖，採用Stream流模式通信，一邊生成一邊輸出。前端採用EventSource，支持Markdown格式解析，支持公式顯示，代碼有著色處理，支持畫圖。頁面UI簡潔，支持上下文連續會話。源碼只有幾個文件，沒有使用任何框架，支持所有PHP版本，全部開源，極易二次開發。保姆級教程，全部周邊資源，歡迎進群交流，一切全免費。
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 釘釘 & 🤖 GPT-3.5 讓你的工作效率直接起飛 🚀 私聊群聊方式、單聊串聊模式、角色扮演、圖片創作 🚀
+ * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT 網頁介面使用 OpenAI API
 
 
 ## Others
