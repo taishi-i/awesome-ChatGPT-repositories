@@ -6580,6 +6580,31 @@
                     "zh-hans": "全面可定制的AI聊天机器人组件，适用于您的网站",
                     "zh-hant": "完全可定制的網站AI聊天機器人組件"
                 }
+            },
+            "https://github.com/lich0821/wechatferry": {
+                "repository_name": "WeChatFerry",
+                "user_name": "lich0821",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.",
+                "topics": [
+                    "chatgpt",
+                    "hook",
+                    "robot",
+                    "wechat"
+                ],
+                "multilingual_descriptions": {
+                    "en": "微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.",
+                    "ja": "微信のリバースエンジニアリング、微信ボット、ChatGPT、ChatGLM、讯飞星火、Tigerbotなどの大規模モデルに接続可能。WeChatをフックします。",
+                    "zh-hans": "微信逆向，微信机器人，可接入ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook微信。",
+                    "zh-hant": "微信逆向，微信機器人，可接入 ChatGPT、ChatGLM、訊飛星火、Tigerbot等大模型。Hook WeChat."
+                }
             }
         },
         "Browser-extensions": {
@@ -9754,6 +9779,84 @@
                     "ja": "AIプロンプトのカスタムライブラリを作成してください。",
                     "zh-hans": "策划一个定制的人工智能提示库",
                     "zh-hant": "精心策劃一個自定義的AI提示圖書館"
+                }
+            },
+            "https://github.com/bookfere/ebook-translator-calibre-plugin": {
+                "repository_name": "Ebook-Translator-Calibre-Plugin",
+                "user_name": "bookfere",
+                "language": "Python",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "A Calibre plugin to translate ebook into a specified language.",
+                "topics": [
+                    "bilingual",
+                    "calibre",
+                    "chatgpt",
+                    "deepl",
+                    "ebook",
+                    "epub",
+                    "google",
+                    "kindle",
+                    "translate",
+                    "translator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Calibre plugin to translate ebook into a specified language.",
+                    "ja": "指定された言語に電子書籍を翻訳するためのCalibreプラグイン。",
+                    "zh-hans": "一个用于将电子书翻译成指定语言的Calibre插件。",
+                    "zh-hant": "一個Calibre插件，可以將電子書翻譯成指定的語言。"
+                }
+            },
+            "https://github.com/wpeace-hch/wpechatgpt": {
+                "repository_name": "WPeChatGPT",
+                "user_name": "WPeace-HcH",
+                "language": "Python",
+                "license": null,
+                "description": "A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.",
+                "topics": [
+                    "binary-analysis",
+                    "chatgpt",
+                    "ida",
+                    "ida-plugin",
+                    "openai",
+                    "reverse-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.",
+                    "ja": "IDAのプラグインは、バイナリファイルの解析を支援するものであり、OpenAIによって訓練されたgpt-3.5-turboモデルに基づいています。ChatGPTと同じモデルです。",
+                    "zh-hans": "一个用于IDA的插件，可以帮助分析二进制文件，它基于OpenAI训练的gpt-3.5-turbo模型，与ChatGPT相同。",
+                    "zh-hant": "一個用於IDA的插件，可以幫助分析二進制文件，它基於OpenAI訓練的gpt-3.5-turbo模型，與ChatGPT相同。"
+                }
+            },
+            "https://github.com/ikechan8370/chatgpt-plugin": {
+                "repository_name": "chatgpt-plugin",
+                "user_name": "ikechan8370",
+                "language": "JavaScript",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "云崽qq机器人的chatgpt插件",
+                "topics": [
+                    "bot",
+                    "chatgpt",
+                    "qq",
+                    "yunzai",
+                    "yunzai-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT plugin for Yunzai QQ robot",
+                    "ja": "云崽qq机器人的chatgpt插件\n云崽qqボットのchatgptプラグイン",
+                    "zh-hans": "云崽qq机器人的chatgpt插件",
+                    "zh-hant": "雲崽qq機器人的chatgpt插件"
                 }
             }
         },
@@ -20771,6 +20874,26 @@
                     "ja": "🎒 钉钉 & 🤖 GPT-3.5 は、あなたの仕事の効率を直接的に向上させます 🚀 プライベートチャットやグループチャットの方法、一対一のチャットや連続チャットのモード、役割プレイ、画像作成などが可能です 🚀",
                     "zh-hans": "🎒 钉钉和🤖 GPT-3.5可以让你的工作效率直接提升🚀。它支持私聊和群聊方式，还有单聊和串聊模式。此外，它还可以进行角色扮演和图片创作🚀。",
                     "zh-hant": "🎒 釘釘 & 🤖 GPT-3.5 讓你的工作效率直接起飛 🚀 私聊群聊方式、單聊串聊模式、角色扮演、圖片創作 🚀"
+                }
+            },
+            "https://github.com/niek/chatgpt-web": {
+                "repository_name": "chatgpt-web",
+                "user_name": "Niek",
+                "language": "Svelte",
+                "license": {
+                    "key": "gpl-3.0",
+                    "name": "GNU General Public License v3.0",
+                    "spdx_id": "GPL-3.0",
+                    "url": "https://api.github.com/licenses/gpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTk="
+                },
+                "description": "ChatGPT web interface using the OpenAI API",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT web interface using the OpenAI API",
+                    "ja": "OpenAI APIを使用したChatGPTウェブインターフェース",
+                    "zh-hans": "ChatGPT 网页界面使用 OpenAI API",
+                    "zh-hant": "ChatGPT 網頁介面使用 OpenAI API"
                 }
             }
         },

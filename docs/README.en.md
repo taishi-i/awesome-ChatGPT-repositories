@@ -16,33 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awesome list of best resources, tools, applications, usages of ChatGPT
-
-
-**Prompts**
- * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
-
-
 **Chatbots**
- * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - WeChat Group Chat Summary Assistant JS Version
- * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
- * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - Fully customizable AI chatbot component for your website
+ * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.
 
 
-**NLP**
- * [deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
+**Browser-extensions**
+ * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - A Calibre plugin to translate ebook into a specified language.
+ * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.
+ * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - ChatGPT plugin for Yunzai QQ robot
 
 
-**Langchain**
- * [langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
+**Openai**
+ * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 
 
-**Others**
- * [WeChatMsg](https://github.com/lc044/wechatmsg) - Extract WeChat chat records, export them as HTML, Word, and CSV documents for permanent storage, analyze the chat records, and generate annual chat reports.
-
-
-_Updated on December 02, 2023_ (A total of 1248 repositories listed.)
+_Updated on December 04, 2023_ (A total of 1253 repositories listed.)
 
 ## Table of contents
 
@@ -358,6 +346,7 @@ _Updated on December 02, 2023_ (A total of 1248 repositories listed.)
  * [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - WeChat Group Chat Summary Assistant JS Version
  * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
  * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - Fully customizable AI chatbot component for your website
+ * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.
 
 
 ## Browser-extensions
@@ -506,6 +495,9 @@ _Updated on December 02, 2023_ (A total of 1248 repositories listed.)
  * [LibreChat](https://github.com/danny-avila/librechat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
  * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector database plugin for Postgres, written in Rust, specifically designed for LLM
  * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - Curate a custom library of AI Prompts
+ * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - A Calibre plugin to translate ebook into a specified language.
+ * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.
+ * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - ChatGPT plugin for Yunzai QQ robot
 
 
 ## CLIs
@@ -1047,6 +1039,7 @@ _Updated on December 02, 2023_ (A total of 1248 repositories listed.)
  * [openai](https://github.com/betalgo/openai) - OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E 
  * [chatgpt](https://github.com/dirk1983/chatgpt) - Input: The easiest to deploy and fastest responding ChatGPT environment on the entire web. The PHP version calls the OpenAI interface for question answering and drawing, using Stream flow mode communication to generate and output simultaneously. The front-end uses EventSource, supports Markdown format parsing, formula display, code highlighting, and drawing. The page UI is simple, supports continuous contextual conversation. The source code consists of only a few files, without any frameworks, supports all PHP versions, is completely open source, and extremely easy to customize. There is a comprehensive tutorial and all related resources available. Welcome to join the group for communication, everything is completely free.
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - Input: 🎒 DingTalk & 🤖 GPT-3.5 boost your work efficiency directly 🚀 Private chat, group chat, one-on-one conversation, role-playing, image creation 🚀
+ * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
 
 
 ## Others
