@@ -15,21 +15,25 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 這份寫作提示清單涵蓋了各種主題和任務, 包括腦力衝浪研究想法,改善語言和風格,進行文學評論,並制定研究計劃.
+ * [self-refine](https://github.com/madaan/self-refine) - 才能在工作上產生反,利用它來改善產量,
+
+
 **Chatbots**
- * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向,微信機器人,可接入聊天GPT、ChatGLM、讯飞星火、Tigerbot等大模型、微信.
+ * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - 該網站的使用者必須記錄在網站上,
+ * [AstrBot](https://github.com/soulter/astrbot) - ⭐QQ和QQ頻道都可用聊天GPT,Bing,Claude,擁抱聊天 機器人,支持插件.
 
 
-**Browser-extensions**
- * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 翻譯電子書到特定語言的加密程式.
- * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - 這款插件是基于OpenAI訓練的gpt-3.5-turbo模型,
- * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云qq機器人的聊天插件
+**Langchain**
+ * [EasyEdit](https://github.com/zjunlp/easyedit) - 這是一款易於使用的法學士知識編輯框架.
 
 
-**Openai**
- * [chatgpt-web](https://github.com/niek/chatgpt-web) - 使用OpenAI API的ChatGPT網路接口
+**Others**
+ * [gpts-works](https://github.com/all-in-aigc/gpts-works) - 其他國家的 GPT 商店
 
 
-_Updated on December 04, 2023_ (A total of 1253 repositories listed.)
+_Updated on December 09, 2023_ (A total of 1259 repositories listed.)
 
 ## Table of contents
 
@@ -181,6 +185,8 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [magentic](https://github.com/jackmpcollins/magentic) - 無縫地將LLMs整合為Python函數
  * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 儲存所有代理人的系統提示
  * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT：讓每個人都能成為提示專家！🚀  結構化提示，GPT的語言，結構化提示詞，結構化Prompt
+ * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 這個寫作提示清單涵蓋了各種主題和任務，包括頭腦風暴研究想法、改進語言和風格、進行文獻回顧以及制定研究計劃。
+ * [self-refine](https://github.com/madaan/self-refine) - LLMs 可以對他們的工作產生反饋，利用它來改善輸出，並重複這個過程。
 
 
 ## Chatbots
@@ -346,6 +352,8 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz 允許您創建一個 AI 聊天機器人，該機器人對您的產品了如指掌，能夠即時回答客戶的問題。
  * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - 完全可定制的網站AI聊天機器人組件
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信機器人，可接入 ChatGPT、ChatGLM、訊飛星火、Tigerbot等大模型。Hook WeChat.
+ * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - 【官方實施】mPLUG-Owl和mPLUG-Owl2：阿里巴巴MLLM家族。
+ * [AstrBot](https://github.com/soulter/astrbot) - ⭐ 支援插件的 ChatGPT、Bing、Claude、HuggingChat 機器人，可在 QQ 和 QQ 頻道上使用 | 原 QQChannelChatGPT
 
 
 ## Browser-extensions
@@ -894,6 +902,7 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [langchain4j](https://github.com/langchain4j/langchain4j) - Java 版本的 LangChain
  * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` 是一個強大的 Rust 庫，用於在大型語言模型中構建鏈條，讓您能夠對文本進行摘要和完成複雜任務。
  * [langroid](https://github.com/langroid/langroid) - 利用多智能體編程來應用LLMs
+ * [EasyEdit](https://github.com/zjunlp/easyedit) - 一個易於使用的知識編輯框架，適用於LLMs。
 
 
 ## Unity
@@ -1357,5 +1366,6 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [HydraLab](https://github.com/microsoft/hydralab) - 智能雲端測試變得輕鬆。
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla 是一個高效能的向量資料庫管理系統。請在 https://cloud.epsilla.com/ 嘗試使用托管的 Epsilla。
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天記錄，將其導出成HTML、Word、CSV文件永久保存，對聊天記錄進行分析生成年度聊天報告
+ * [gpts-works](https://github.com/all-in-aigc/gpts-works) - 第三方GPT存儲
 
 

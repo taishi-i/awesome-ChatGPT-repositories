@@ -15,22 +15,25 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - このライティングプロンプトのリストは、様々なトピックやタスクをカバーしており、研究アイデアのブレインストーミング、言語やスタイルの改善、文献レビューの実施、研究計画の立案などが含まれています。
+ * [self-refine](https://github.com/madaan/self-refine) - LLMは自分の仕事にフィードバックを生成し、それを使ってアウトプットを改善し、このプロセスを反復して繰り返すことができます。
+
+
 **Chatbots**
- * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信のリバースエンジニアリング、微信ボット、ChatGPT、ChatGLM、讯飞星火、Tigerbotなどの大規模モデルに接続可能。WeChatをフックします。
+ * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [公式実装] mPLUG-Owl＆mPLUG-Owl2：アリババMLLMファミリー。
+ * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT
 
 
-**Browser-extensions**
- * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 指定された言語に電子書籍を翻訳するためのCalibreプラグイン。
- * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - IDAのプラグインは、バイナリファイルの解析を支援するものであり、OpenAIによって訓練されたgpt-3.5-turboモデルに基づいています。ChatGPTと同じモデルです。
- * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
-云崽qqボットのchatgptプラグイン
+**Langchain**
+ * [EasyEdit](https://github.com/zjunlp/easyedit) - LLM向けの使いやすい知識編集フレームワーク。
 
 
-**Openai**
- * [chatgpt-web](https://github.com/niek/chatgpt-web) - OpenAI APIを使用したChatGPTウェブインターフェース
+**Others**
+ * [gpts-works](https://github.com/all-in-aigc/gpts-works) - サードパーティのGPTストア
 
 
-_Updated on December 04, 2023_ (A total of 1253 repositories listed.)
+_Updated on December 09, 2023_ (A total of 1259 repositories listed.)
 
 ## Table of contents
 
@@ -182,6 +185,8 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [magentic](https://github.com/jackmpcollins/magentic) - Python関数としてLLMsをシームレスに統合する
  * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - すべてのエージェントのシステムプロンプトを保存します。
  * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT: すべての人がプロンプトのエキスパートになれるようにする！🚀  構造化されたプロンプト、GPTの言語、結構化されたプロンプト
+ * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - このライティングプロンプトのリストは、様々なトピックやタスクをカバーしており、研究アイデアのブレインストーミング、言語やスタイルの改善、文献レビューの実施、研究計画の立案などが含まれています。
+ * [self-refine](https://github.com/madaan/self-refine) - LLMは自分の仕事にフィードバックを生成し、それを使ってアウトプットを改善し、このプロセスを反復して繰り返すことができます。
 
 
 ## Chatbots
@@ -347,6 +352,8 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhizは、あなたの製品についてすべてを知っており、お客様の問い合わせに即座に応答できるAIチャットボットを作成することができます。
  * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - ウェブサイト用の完全にカスタマイズ可能なAIチャットボットコンポーネント
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信のリバースエンジニアリング、微信ボット、ChatGPT、ChatGLM、讯飞星火、Tigerbotなどの大規模モデルに接続可能。WeChatをフックします。
+ * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [公式実装] mPLUG-Owl＆mPLUG-Owl2：アリババMLLMファミリー。
+ * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT
 
 
 ## Browser-extensions
@@ -497,8 +504,7 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - AIプロンプトのカスタムライブラリを作成してください。
  * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 指定された言語に電子書籍を翻訳するためのCalibreプラグイン。
  * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - IDAのプラグインは、バイナリファイルの解析を支援するものであり、OpenAIによって訓練されたgpt-3.5-turboモデルに基づいています。ChatGPTと同じモデルです。
- * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
-云崽qqボットのchatgptプラグイン
+ * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件云崽qqボットのchatgptプラグイン
 
 
 ## CLIs
@@ -896,6 +902,7 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChainのJavaバージョン
  * [llm-chain](https://github.com/sobelio/llm-chain) - 「llm-chain」は、大規模な言語モデルでチェーンを構築するための強力なRustのクレートであり、テキストの要約や複雑なタスクの完了が可能です。
  * [langroid](https://github.com/langroid/langroid) - マルチエージェントプログラミングでLLMsを活用する
+ * [EasyEdit](https://github.com/zjunlp/easyedit) - LLM向けの使いやすい知識編集フレームワーク。
 
 
 ## Unity
@@ -1359,5 +1366,6 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [HydraLab](https://github.com/microsoft/hydralab) - インテリジェントなクラウドテストが簡単になりました。
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsillaは高性能なベクトルデータベース管理システムです。ホストされたEpsillaをhttps://cloud.epsilla.com/で試してみてください。
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - WeChatのチャット履歴を抽出し、HTML、Word、CSV形式のドキュメントにエクスポートして永久保存し、チャット履歴を分析して年次チャットレポートを生成します。
+ * [gpts-works](https://github.com/all-in-aigc/gpts-works) - サードパーティのGPTストア
 
 
