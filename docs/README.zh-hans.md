@@ -15,21 +15,25 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 这份写作提示列表涵盖了各种主题和任务,包括头脑风暴研究想法,改进语言和风格,进行文献评论和制定研究计划.
+ * [self-refine](https://github.com/madaan/self-refine) - 法律管理师可以对他们的工作产生反,利用它来改善产出,并反复重复这一过程.
+
+
 **Chatbots**
- * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向,微信机器人,可接入ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型、Hook微信.
+ * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [官方实施]mPLUG-Owl&mPLUG-Owl2:阿里巴巴公司的公司.
+ * [AstrBot](https://github.com/soulter/astrbot) - ⭐QQ和QQ频道都可用 聊天GPT,Bing,Claude,拥抱聊天 机器人,支持插件
 
 
-**Browser-extensions**
- * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 一个Calibre插件,可以将电子书翻译成特定语言.
- * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - 它是基于OpenAI训练的gpt-3.5-turbo模型,与ChatGPT相同.
- * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云qq机器人的聊天插件
+**Langchain**
+ * [EasyEdit](https://github.com/zjunlp/easyedit) - 一个易于使用的知识编辑框架.
 
 
-**Openai**
- * [chatgpt-web](https://github.com/niek/chatgpt-web) - 使用OpenAI API的ChatGPT网络接口
+**Others**
+ * [gpts-works](https://github.com/all-in-aigc/gpts-works) - 一个第三方 GPT 商店
 
 
-_Updated on December 04, 2023_ (A total of 1253 repositories listed.)
+_Updated on December 09, 2023_ (A total of 1259 repositories listed.)
 
 ## Table of contents
 
@@ -181,6 +185,8 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [magentic](https://github.com/jackmpcollins/magentic) - 无缝地将LLMs集成为Python函数
  * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - 存储所有代理人的系统提示
  * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT的语言，结构化提示
+ * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 这个写作提示列表涵盖了各种主题和任务，包括头脑风暴研究想法，改善语言和风格，进行文献综述，以及制定研究计划。
+ * [self-refine](https://github.com/madaan/self-refine) - LLMs可以对他们的工作产生反馈，利用它来改进输出，并反复进行这个过程。
 
 
 ## Chatbots
@@ -346,6 +352,8 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz允许您创建一个人工智能聊天机器人，它了解您产品的一切，并能即时回答客户的问题。
  * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - 全面可定制的AI聊天机器人组件，适用于您的网站
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信机器人，可接入ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook微信。
+ * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - 【官方实施】mPLUG-Owl和mPLUG-Owl2：阿里巴巴MLLM家族。
+ * [AstrBot](https://github.com/soulter/astrbot) - ⭐ 可用于 QQ 和 QQ 频道的 ChatGPT、Bing、Claude、HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
 
 
 ## Browser-extensions
@@ -894,6 +902,7 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [langchain4j](https://github.com/langchain4j/langchain4j) - LangChain的Java版本
  * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` 是一个强大的 Rust 包，用于构建大型语言模型中的链条，可以帮助您对文本进行概括和完成复杂任务。
  * [langroid](https://github.com/langroid/langroid) - 使用多智能体编程来驾驭LLMs
+ * [EasyEdit](https://github.com/zjunlp/easyedit) - 一个易于使用的知识编辑框架，适用于LLMs。
 
 
 ## Unity
@@ -1357,5 +1366,6 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [HydraLab](https://github.com/microsoft/hydralab) - 智能云测试变得简单。
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla是一款高性能的向量数据库管理系统。请在https://cloud.epsilla.com/上尝试使用托管的Epsilla。
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+ * [gpts-works](https://github.com/all-in-aigc/gpts-works) - 一个第三方GPT存储库
 
 

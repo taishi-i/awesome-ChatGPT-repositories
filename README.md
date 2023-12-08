@@ -16,21 +16,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
+ * [self-refine](https://github.com/madaan/self-refine) - LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.
+
+
 **Chatbots**
- * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.
+ * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.
+ * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQ和QQ频道都可用的 ChatGPT, Bing, Claude, HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
 
 
-**Browser-extensions**
- * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - A Calibre plugin to translate ebook into a specified language.
- * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.
- * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
+**Langchain**
+ * [EasyEdit](https://github.com/zjunlp/easyedit) - An Easy-to-use Knowledge Editing Framework for LLMs.
 
 
-**Openai**
- * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
+**Others**
+ * [gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
 
 
-_Updated on December 04, 2023_ (A total of 1253 repositories listed.)
+_Updated on December 09, 2023_ (A total of 1259 repositories listed.)
 
 ## Table of contents
 
@@ -182,6 +186,8 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [magentic](https://github.com/jackmpcollins/magentic) - Seamlessly integrate LLMs as Python functions
  * [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - store all agent's system prompt
  * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+ * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
+ * [self-refine](https://github.com/madaan/self-refine) - LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.
 
 
 ## Chatbots
@@ -347,6 +353,8 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [webwhiz](https://github.com/webwhiz-ai/webwhiz) - WebWhiz allows you to create an AI chatbot that knows everything about your product and can instantly respond to your customer's queries.
  * [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - Fully customizable AI chatbot component for your website
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.
+ * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.
+ * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQ和QQ频道都可用的 ChatGPT, Bing, Claude, HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
 
 
 ## Browser-extensions
@@ -895,6 +903,7 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
  * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
  * [langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
+ * [EasyEdit](https://github.com/zjunlp/easyedit) - An Easy-to-use Knowledge Editing Framework for LLMs.
 
 
 ## Unity
@@ -1358,5 +1367,6 @@ _Updated on December 04, 2023_ (A total of 1253 repositories listed.)
  * [HydraLab](https://github.com/microsoft/hydralab) - Intelligent cloud testing made easy.
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+ * [gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
 
 

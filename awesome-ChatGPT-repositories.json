@@ -2876,6 +2876,61 @@
                     "zh-hans": "LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT的语言，结构化提示",
                     "zh-hant": "LangGPT：讓每個人都能成為提示專家！🚀  結構化提示，GPT的語言，結構化提示詞，結構化Prompt"
                 }
+            },
+            "https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing": {
+                "repository_name": "chatgpt-prompts-for-academic-writing",
+                "user_name": "ahmetbersoz",
+                "language": null,
+                "license": null,
+                "description": "This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.",
+                "topics": [
+                    "academic-writing",
+                    "ai-writing",
+                    "chatgpt",
+                    "chatgpt-prompts",
+                    "gpt3",
+                    "gpt35",
+                    "gpt4",
+                    "prompt",
+                    "writing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.",
+                    "ja": "このライティングプロンプトのリストは、様々なトピックやタスクをカバーしており、研究アイデアのブレインストーミング、言語やスタイルの改善、文献レビューの実施、研究計画の立案などが含まれています。",
+                    "zh-hans": "这个写作提示列表涵盖了各种主题和任务，包括头脑风暴研究想法，改善语言和风格，进行文献综述，以及制定研究计划。",
+                    "zh-hant": "這個寫作提示清單涵蓋了各種主題和任務，包括頭腦風暴研究想法、改進語言和風格、進行文獻回顧以及制定研究計劃。"
+                }
+            },
+            "https://github.com/madaan/self-refine": {
+                "repository_name": "self-refine",
+                "user_name": "madaan",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.",
+                "topics": [
+                    "chatgpt",
+                    "few-shot-learning",
+                    "gpt-35",
+                    "gpt-4",
+                    "language-generation",
+                    "large-language-models",
+                    "llms",
+                    "prompting",
+                    "prompts",
+                    "reasoning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.",
+                    "ja": "LLMは自分の仕事にフィードバックを生成し、それを使ってアウトプットを改善し、このプロセスを反復して繰り返すことができます。",
+                    "zh-hans": "LLMs可以对他们的工作产生反馈，利用它来改进输出，并反复进行这个过程。",
+                    "zh-hant": "LLMs 可以對他們的工作產生反饋，利用它來改善輸出，並重複這個過程。"
+                }
             }
         },
         "Chatbots": {
@@ -6604,6 +6659,78 @@
                     "ja": "微信のリバースエンジニアリング、微信ボット、ChatGPT、ChatGLM、讯飞星火、Tigerbotなどの大規模モデルに接続可能。WeChatをフックします。",
                     "zh-hans": "微信逆向，微信机器人，可接入ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook微信。",
                     "zh-hant": "微信逆向，微信機器人，可接入 ChatGPT、ChatGLM、訊飛星火、Tigerbot等大模型。Hook WeChat."
+                }
+            },
+            "https://github.com/x-plug/mplug-owl": {
+                "repository_name": "mPLUG-Owl",
+                "user_name": "X-PLUG",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "[Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.",
+                "topics": [
+                    "alpaca",
+                    "chatbot",
+                    "chatgpt",
+                    "damo",
+                    "dialogue",
+                    "gpt",
+                    "gpt4",
+                    "gpt4-api",
+                    "huggingface",
+                    "instruction-tuning",
+                    "large-language-models",
+                    "llama",
+                    "mplug",
+                    "mplug-owl",
+                    "multimodal",
+                    "pretraining",
+                    "pytorch",
+                    "transformer",
+                    "video",
+                    "visual-recognition"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.",
+                    "ja": "[公式実装] mPLUG-Owl＆mPLUG-Owl2：アリババMLLMファミリー。",
+                    "zh-hans": "【官方实施】mPLUG-Owl和mPLUG-Owl2：阿里巴巴MLLM家族。",
+                    "zh-hant": "【官方實施】mPLUG-Owl和mPLUG-Owl2：阿里巴巴MLLM家族。"
+                }
+            },
+            "https://github.com/soulter/astrbot": {
+                "repository_name": "AstrBot",
+                "user_name": "Soulter",
+                "language": "Python",
+                "license": {
+                    "key": "agpl-3.0",
+                    "name": "GNU Affero General Public License v3.0",
+                    "spdx_id": "AGPL-3.0",
+                    "url": "https://api.github.com/licenses/agpl-3.0",
+                    "node_id": "MDc6TGljZW5zZTE="
+                },
+                "description": "⭐ QQ和QQ频道都可用的 ChatGPT, Bing, Claude, HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT",
+                "topics": [
+                    "ai",
+                    "bing",
+                    "chatbot",
+                    "chatgpt",
+                    "gocq",
+                    "gpt",
+                    "openai",
+                    "qq",
+                    "qqbot",
+                    "qqchannel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⭐ ChatGPT, Bing, Claude, and HuggingChat are all available robots that can be used on QQ and QQ Channel. They support plugins. | Formerly known as QQChannelChatGPT.",
+                    "ja": "⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT",
+                    "zh-hans": "⭐ 可用于 QQ 和 QQ 频道的 ChatGPT、Bing、Claude、HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT",
+                    "zh-hant": "⭐ 支援插件的 ChatGPT、Bing、Claude、HuggingChat 機器人，可在 QQ 和 QQ 頻道上使用 | 原 QQChannelChatGPT"
                 }
             }
         },
@@ -17983,6 +18110,43 @@
                     "zh-hans": "使用多智能体编程来驾驭LLMs",
                     "zh-hant": "利用多智能體編程來應用LLMs"
                 }
+            },
+            "https://github.com/zjunlp/easyedit": {
+                "repository_name": "EasyEdit",
+                "user_name": "zjunlp",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "An Easy-to-use Knowledge Editing Framework for LLMs.",
+                "topics": [
+                    "artificial-intelligence",
+                    "baichuan",
+                    "chatgpt",
+                    "easyedit",
+                    "efficient",
+                    "gpt",
+                    "knowledge-editing",
+                    "knowlm",
+                    "large-language-models",
+                    "llama",
+                    "llama2",
+                    "llm",
+                    "model-editing",
+                    "natural-language-processing",
+                    "open-source-project",
+                    "tool"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An Easy-to-use Knowledge Editing Framework for LLMs.",
+                    "ja": "LLM向けの使いやすい知識編集フレームワーク。",
+                    "zh-hans": "一个易于使用的知识编辑框架，适用于LLMs。",
+                    "zh-hant": "一個易於使用的知識編輯框架，適用於LLMs。"
+                }
             }
         },
         "Unity": {
@@ -26836,6 +27000,30 @@
                     "ja": "WeChatのチャット履歴を抽出し、HTML、Word、CSV形式のドキュメントにエクスポートして永久保存し、チャット履歴を分析して年次チャットレポートを生成します。",
                     "zh-hans": "提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告",
                     "zh-hant": "提取微信聊天記錄，將其導出成HTML、Word、CSV文件永久保存，對聊天記錄進行分析生成年度聊天報告"
+                }
+            },
+            "https://github.com/all-in-aigc/gpts-works": {
+                "repository_name": "gpts-works",
+                "user_name": "all-in-aigc",
+                "language": "TypeScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "A Third-party GPTs store",
+                "topics": [
+                    "chatgpt",
+                    "gpts",
+                    "gptstore"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Third-party GPTs store",
+                    "ja": "サードパーティのGPTストア",
+                    "zh-hans": "一个第三方GPT存储库",
+                    "zh-hant": "第三方GPT存儲"
                 }
             }
         }
