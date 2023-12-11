@@ -932,6 +932,31 @@
                     "zh-hans": "🏆 一个关于ChatGPT最佳资源、工具、应用和用法的精选清单",
                     "zh-hant": "🏆 一份關於ChatGPT最佳資源、工具、應用和用法的精彩清單"
                 }
+            },
+            "https://github.com/friuns2/blackfriday-gpts-prompts": {
+                "repository_name": "BlackFriday-GPTs-Prompts",
+                "user_name": "friuns2",
+                "language": "JavaScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "List of free GPTs that doesn't require plus subscription ",
+                "topics": [
+                    "ai",
+                    "awesome",
+                    "awesome-list",
+                    "gpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "List of free GPTs that doesn't require plus subscription ",
+                    "ja": "無料のGPT（Generative Pre-trained Transformer）のリスト（プラスのサブスクリプションが必要ないもの）",
+                    "zh-hans": "免费的GPT列表，不需要Plus订阅",
+                    "zh-hant": "免費的GPT列表，不需要Plus訂閱"
+                }
             }
         },
         "Prompts": {
@@ -2930,6 +2955,20 @@
                     "ja": "LLMは自分の仕事にフィードバックを生成し、それを使ってアウトプットを改善し、このプロセスを反復して繰り返すことができます。",
                     "zh-hans": "LLMs可以对他们的工作产生反馈，利用它来改进输出，并反复进行这个过程。",
                     "zh-hant": "LLMs 可以對他們的工作產生反饋，利用它來改善輸出，並重複這個過程。"
+                }
+            },
+            "https://github.com/linexjlin/gpts": {
+                "repository_name": "GPTs",
+                "user_name": "linexjlin",
+                "language": null,
+                "license": null,
+                "description": "leaked prompts of GPTs",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "leaked prompts of GPTs",
+                    "ja": "GPTの漏洩したプロンプト",
+                    "zh-hans": "泄露的GPT提示",
+                    "zh-hant": "洩漏的GPT提示"
                 }
             }
         },
@@ -6731,6 +6770,45 @@
                     "ja": "⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT",
                     "zh-hans": "⭐ 可用于 QQ 和 QQ 频道的 ChatGPT、Bing、Claude、HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT",
                     "zh-hant": "⭐ 支援插件的 ChatGPT、Bing、Claude、HuggingChat 機器人，可在 QQ 和 QQ 頻道上使用 | 原 QQChannelChatGPT"
+                }
+            },
+            "https://github.com/casibase/casibase": {
+                "repository_name": "casibase",
+                "user_name": "casibase",
+                "language": "JavaScript",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com",
+                "topics": [
+                    "ai",
+                    "aigc",
+                    "casibase",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "database",
+                    "gpt",
+                    "huggingface",
+                    "knowledge",
+                    "knowledge-base",
+                    "knowledgebase",
+                    "langchain",
+                    "llm",
+                    "openai",
+                    "vector",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com",
+                    "ja": "⚡️ウェブUIとエンタープライズSSOを備えたオープンソースのLangChainのようなAI知識データベースです⚡️。OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM、およびローカルモデルをサポートしています。チャットデモ：https://ai.casbin.com、管理ポータルデモ：https://ai.casibase.com",
+                    "zh-hans": "⚡️开源的类LangChain AI知识数据库，具有Web界面和企业SSO⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理员门户演示：https://ai.casibase.com",
+                    "zh-hant": "⚡️具有Web UI和企業SSO的開源LangChain類似的AI知識數據庫⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理員門戶演示：https://ai.casibase.com"
                 }
             }
         },
@@ -16589,6 +16667,41 @@
                     "zh-hans": "LLM评估框架",
                     "zh-hant": "LLM（碩士學位法學）評估框架"
                 }
+            },
+            "https://github.com/xorbitsai/inference": {
+                "repository_name": "inference",
+                "user_name": "xorbitsai",
+                "language": "Python",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatglm",
+                    "chatglm2",
+                    "deployment",
+                    "flan-t5",
+                    "ggml",
+                    "inference",
+                    "llama2",
+                    "llm",
+                    "machine-learning",
+                    "openai-api",
+                    "pytorch",
+                    "whisper",
+                    "wizardlm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.",
+                    "ja": "1行のコードを変更することで、OpenAI GPTを別のLLMに置き換えてください。Xinferenceを使用すると、必要なLLMを自由に使用できます。Xinferenceを使用すると、クラウド上、オンプレミス上、さらには自分のラップトップ上でも、オープンソースの言語モデル、音声認識モデル、マルチモーダルモデルを使用して推論を実行することができます。",
+                    "zh-hans": "通过改变一行代码，将OpenAI GPT替换为另一个LLM。Xinference让您可以自由使用任何您需要的LLM。使用Xinference，您可以在云端、本地甚至笔记本电脑上运行推理，无论是开源语言模型、语音识别模型还是多模态模型。",
+                    "zh-hant": "只需更改一行程式碼，將OpenAI GPT替換為另一個LLM。Xinference讓您可以自由使用任何您需要的LLM。憑藉Xinference，您可以在雲端、本地甚至筆記型電腦上運行推論，使用任何開源語言模型、語音識別模型和多模態模型。"
+                }
             }
         },
         "Langchain": {
@@ -18146,6 +18259,36 @@
                     "ja": "LLM向けの使いやすい知識編集フレームワーク。",
                     "zh-hans": "一个易于使用的知识编辑框架，适用于LLMs。",
                     "zh-hant": "一個易於使用的知識編輯框架，適用於LLMs。"
+                }
+            },
+            "https://github.com/run-llama/llama_index": {
+                "repository_name": "llama_index",
+                "user_name": "run-llama",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "LlamaIndex (formerly GPT Index) is a data framework for your LLM applications",
+                "topics": [
+                    "agents",
+                    "application",
+                    "data",
+                    "fine-tuning",
+                    "framework",
+                    "llamaindex",
+                    "llm",
+                    "rag",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LlamaIndex (formerly GPT Index) is a data framework for your LLM applications",
+                    "ja": "LlamaIndex（旧GPT Index）は、LLMアプリケーションのためのデータフレームワークです。",
+                    "zh-hans": "LlamaIndex（原名GPT Index）是一个为您的LLM应用程序设计的数据框架。",
+                    "zh-hant": "LlamaIndex（前身為GPT Index）是一個針對您的LLM應用程序的數據框架。"
                 }
             }
         },
@@ -27024,6 +27167,26 @@
                     "ja": "サードパーティのGPTストア",
                     "zh-hans": "一个第三方GPT存储库",
                     "zh-hant": "第三方GPT存儲"
+                }
+            },
+            "https://github.com/assafelovic/gpt-researcher": {
+                "repository_name": "gpt-researcher",
+                "user_name": "assafelovic",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "GPT based autonomous agent that does online comprehensive research on any given topic",
+                    "ja": "与えられた任意のトピックについてオンラインで包括的なリサーチを行うGPTベースの自律エージェント",
+                    "zh-hans": "基于GPT的自主代理，可以对任何给定的主题进行在线综合研究。",
+                    "zh-hant": "基於GPT的自主代理人，可以對任何給定的主題進行在線綜合研究。"
                 }
             }
         }

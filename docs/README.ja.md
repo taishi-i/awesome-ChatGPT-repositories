@@ -15,25 +15,31 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 無料のGPT（Generative Pre-trained Transformer）のリスト（プラスのサブスクリプションが必要ないもの）
+
+
 **Prompts**
- * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - このライティングプロンプトのリストは、様々なトピックやタスクをカバーしており、研究アイデアのブレインストーミング、言語やスタイルの改善、文献レビューの実施、研究計画の立案などが含まれています。
- * [self-refine](https://github.com/madaan/self-refine) - LLMは自分の仕事にフィードバックを生成し、それを使ってアウトプットを改善し、このプロセスを反復して繰り返すことができます。
+ * [GPTs](https://github.com/linexjlin/gpts) - GPTの漏洩したプロンプト
 
 
 **Chatbots**
- * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [公式実装] mPLUG-Owl＆mPLUG-Owl2：アリババMLLMファミリー。
- * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT
+ * [casibase](https://github.com/casibase/casibase) - ⚡️ウェブUIとエンタープライズSSOを備えたオープンソースのLangChainのようなAI知識データベースです⚡️。OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM、およびローカルモデルをサポートしています。チャットデモ：https://ai.casbin.com、管理ポータルデモ：https://ai.casibase.com
+
+
+**NLP**
+ * [inference](https://github.com/xorbitsai/inference) - 1行のコードを変更することで、OpenAI GPTを別のLLMに置き換えてください。Xinferenceを使用すると、必要なLLMを自由に使用できます。Xinferenceを使用すると、クラウド上、オンプレミス上、さらには自分のラップトップ上でも、オープンソースの言語モデル、音声認識モデル、マルチモーダルモデルを使用して推論を実行することができます。
 
 
 **Langchain**
- * [EasyEdit](https://github.com/zjunlp/easyedit) - LLM向けの使いやすい知識編集フレームワーク。
+ * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex（旧GPT Index）は、LLMアプリケーションのためのデータフレームワークです。
 
 
 **Others**
- * [gpts-works](https://github.com/all-in-aigc/gpts-works) - サードパーティのGPTストア
+ * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 与えられた任意のトピックについてオンラインで包括的なリサーチを行うGPTベースの自律エージェント
 
 
-_Updated on December 09, 2023_ (A total of 1259 repositories listed.)
+_Updated on December 12, 2023_ (A total of 1265 repositories listed.)
 
 ## Table of contents
 
@@ -90,6 +96,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - カスタムGPTストア - 公開されている主要なGPTのコレクション
  * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 ChatGPTの最高のリソース、ツール、アプリケーション、使用法の素晴らしいリスト
+ * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 無料のGPT（Generative Pre-trained Transformer）のリスト（プラスのサブスクリプションが必要ないもの）
 
 
 ## Prompts
@@ -187,6 +194,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT: すべての人がプロンプトのエキスパートになれるようにする！🚀  構造化されたプロンプト、GPTの言語、結構化されたプロンプト
  * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - このライティングプロンプトのリストは、様々なトピックやタスクをカバーしており、研究アイデアのブレインストーミング、言語やスタイルの改善、文献レビューの実施、研究計画の立案などが含まれています。
  * [self-refine](https://github.com/madaan/self-refine) - LLMは自分の仕事にフィードバックを生成し、それを使ってアウトプットを改善し、このプロセスを反復して繰り返すことができます。
+ * [GPTs](https://github.com/linexjlin/gpts) - GPTの漏洩したプロンプト
 
 
 ## Chatbots
@@ -354,6 +362,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信のリバースエンジニアリング、微信ボット、ChatGPT、ChatGLM、讯飞星火、Tigerbotなどの大規模モデルに接続可能。WeChatをフックします。
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [公式実装] mPLUG-Owl＆mPLUG-Owl2：アリババMLLMファミリー。
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT
+ * [casibase](https://github.com/casibase/casibase) - ⚡️ウェブUIとエンタープライズSSOを備えたオープンソースのLangChainのようなAI知識データベースです⚡️。OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM、およびローカルモデルをサポートしています。チャットデモ：https://ai.casbin.com、管理ポータルデモ：https://ai.casibase.com
 
 
 ## Browser-extensions
@@ -831,6 +840,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（またはChat Arena）は、LLMs向けのマルチエージェント言語ゲーム環境です。目標は、AIのコミュニケーションと協力能力を開発することです。
  * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - データサイエンスのロードマップ A から Z まで
  * [deepeval](https://github.com/confident-ai/deepeval) - LLMの評価フレームワーク
+ * [inference](https://github.com/xorbitsai/inference) - 1行のコードを変更することで、OpenAI GPTを別のLLMに置き換えてください。Xinferenceを使用すると、必要なLLMを自由に使用できます。Xinferenceを使用すると、クラウド上、オンプレミス上、さらには自分のラップトップ上でも、オープンソースの言語モデル、音声認識モデル、マルチモーダルモデルを使用して推論を実行することができます。
 
 
 ## Langchain
@@ -903,6 +913,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [llm-chain](https://github.com/sobelio/llm-chain) - 「llm-chain」は、大規模な言語モデルでチェーンを構築するための強力なRustのクレートであり、テキストの要約や複雑なタスクの完了が可能です。
  * [langroid](https://github.com/langroid/langroid) - マルチエージェントプログラミングでLLMsを活用する
  * [EasyEdit](https://github.com/zjunlp/easyedit) - LLM向けの使いやすい知識編集フレームワーク。
+ * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex（旧GPT Index）は、LLMアプリケーションのためのデータフレームワークです。
 
 
 ## Unity
@@ -1367,5 +1378,6 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsillaは高性能なベクトルデータベース管理システムです。ホストされたEpsillaをhttps://cloud.epsilla.com/で試してみてください。
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - WeChatのチャット履歴を抽出し、HTML、Word、CSV形式のドキュメントにエクスポートして永久保存し、チャット履歴を分析して年次チャットレポートを生成します。
  * [gpts-works](https://github.com/all-in-aigc/gpts-works) - サードパーティのGPTストア
+ * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 与えられた任意のトピックについてオンラインで包括的なリサーチを行うGPTベースの自律エージェント
 
 
