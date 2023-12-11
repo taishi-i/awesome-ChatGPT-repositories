@@ -15,25 +15,31 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 免费的GPT列表, 不需要加上订阅.
+
+
 **Prompts**
- * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 这份写作提示列表涵盖了各种主题和任务,包括头脑风暴研究想法,改进语言和风格,进行文献评论和制定研究计划.
- * [self-refine](https://github.com/madaan/self-refine) - 法律管理师可以对他们的工作产生反,利用它来改善产出,并反复重复这一过程.
+ * [GPTs](https://github.com/linexjlin/gpts) - 泄漏的GPT提示
 
 
 **Chatbots**
- * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [官方实施]mPLUG-Owl&mPLUG-Owl2:阿里巴巴公司的公司.
- * [AstrBot](https://github.com/soulter/astrbot) - ⭐QQ和QQ频道都可用 聊天GPT,Bing,Claude,拥抱聊天 机器人,支持插件
+ * [casibase](https://github.com/casibase/casibase) - ️开源的LangChain类人工智能知识数据库,具有WebUI,以及企业SSO️,支持OpenAI,Azure,HuggingFace,OpenRouter,ChatGLM和本地模型,聊天演示:https://ai.casbin.com,管理者门户网站演示:https://ai.casibase.com
+
+
+**NLP**
+ * [inference](https://github.com/xorbitsai/inference) - 通过更改一个代码行,将 OpenAI GPT 替换为您的应用程序中的另一个 LLM. Xinference 让您可以自由使用您需要的任何 LLM. 通过 Xinference,您可以使用任何开源语言模型,语音识别模型和多模模式运行推理,无论是在云中,本地还是笔记本电脑上.
 
 
 **Langchain**
- * [EasyEdit](https://github.com/zjunlp/easyedit) - 一个易于使用的知识编辑框架.
+ * [llama_index](https://github.com/run-llama/llama_index) - 拉马指数 (前面是GPT指数) 是您的LLM申请的数据框架
 
 
 **Others**
- * [gpts-works](https://github.com/all-in-aigc/gpts-works) - 一个第三方 GPT 商店
+ * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 基于GPT的自主代理,在任何特定主题上进行在线全面的研究
 
 
-_Updated on December 09, 2023_ (A total of 1259 repositories listed.)
+_Updated on December 12, 2023_ (A total of 1265 repositories listed.)
 
 ## Table of contents
 
@@ -90,6 +96,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - 用于上下文学习和提示工程的绝佳资源：掌握ChatGPT、GPT-3和FlanT5等LLM的最新和尖端更新。
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 自定义GPT商店 - 一个收集了公开可用的主要GPT的集合
  * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 一个关于ChatGPT最佳资源、工具、应用和用法的精选清单
+ * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 免费的GPT列表，不需要Plus订阅
 
 
 ## Prompts
@@ -187,6 +194,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT的语言，结构化提示
  * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 这个写作提示列表涵盖了各种主题和任务，包括头脑风暴研究想法，改善语言和风格，进行文献综述，以及制定研究计划。
  * [self-refine](https://github.com/madaan/self-refine) - LLMs可以对他们的工作产生反馈，利用它来改进输出，并反复进行这个过程。
+ * [GPTs](https://github.com/linexjlin/gpts) - 泄露的GPT提示
 
 
 ## Chatbots
@@ -354,6 +362,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信机器人，可接入ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook微信。
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - 【官方实施】mPLUG-Owl和mPLUG-Owl2：阿里巴巴MLLM家族。
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ 可用于 QQ 和 QQ 频道的 ChatGPT、Bing、Claude、HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
+ * [casibase](https://github.com/casibase/casibase) - ⚡️开源的类LangChain AI知识数据库，具有Web界面和企业SSO⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理员门户演示：https://ai.casibase.com
 
 
 ## Browser-extensions
@@ -831,6 +840,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena（或Chat Arena）是一个为LLMs设计的多智能体语言游戏环境。其目标是开发AI的沟通和协作能力。
  * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 从A到Z的数据科学路线图
  * [deepeval](https://github.com/confident-ai/deepeval) - LLM评估框架
+ * [inference](https://github.com/xorbitsai/inference) - 通过改变一行代码，将OpenAI GPT替换为另一个LLM。Xinference让您可以自由使用任何您需要的LLM。使用Xinference，您可以在云端、本地甚至笔记本电脑上运行推理，无论是开源语言模型、语音识别模型还是多模态模型。
 
 
 ## Langchain
@@ -903,6 +913,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` 是一个强大的 Rust 包，用于构建大型语言模型中的链条，可以帮助您对文本进行概括和完成复杂任务。
  * [langroid](https://github.com/langroid/langroid) - 使用多智能体编程来驾驭LLMs
  * [EasyEdit](https://github.com/zjunlp/easyedit) - 一个易于使用的知识编辑框架，适用于LLMs。
+ * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex（原名GPT Index）是一个为您的LLM应用程序设计的数据框架。
 
 
 ## Unity
@@ -1367,5 +1378,6 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla是一款高性能的向量数据库管理系统。请在https://cloud.epsilla.com/上尝试使用托管的Epsilla。
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
  * [gpts-works](https://github.com/all-in-aigc/gpts-works) - 一个第三方GPT存储库
+ * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 基于GPT的自主代理，可以对任何给定的主题进行在线综合研究。
 
 

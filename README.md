@@ -16,25 +16,31 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - List of free GPTs that doesn't require plus subscription 
+
+
 **Prompts**
- * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
- * [self-refine](https://github.com/madaan/self-refine) - LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.
+ * [GPTs](https://github.com/linexjlin/gpts) - leaked prompts of GPTs
 
 
 **Chatbots**
- * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.
- * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQ和QQ频道都可用的 ChatGPT, Bing, Claude, HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
+ * [casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
+
+
+**NLP**
+ * [inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 
 
 **Langchain**
- * [EasyEdit](https://github.com/zjunlp/easyedit) - An Easy-to-use Knowledge Editing Framework for LLMs.
+ * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 
 
 **Others**
- * [gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
+ * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 
 
-_Updated on December 09, 2023_ (A total of 1259 repositories listed.)
+_Updated on December 12, 2023_ (A total of 1265 repositories listed.)
 
 ## Table of contents
 
@@ -91,6 +97,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - Custom GPT Store - A collection of major GPTS available in public
  * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awesome list of best resources, tools, applications, usages of ChatGPT
+ * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - List of free GPTs that doesn't require plus subscription 
 
 
 ## Prompts
@@ -188,6 +195,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [LangGPT](https://github.com/embraceagi/langgpt) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
  * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
  * [self-refine](https://github.com/madaan/self-refine) - LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.
+ * [GPTs](https://github.com/linexjlin/gpts) - leaked prompts of GPTs
 
 
 ## Chatbots
@@ -355,6 +363,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQ和QQ频道都可用的 ChatGPT, Bing, Claude, HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
+ * [casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
 
 
 ## Browser-extensions
@@ -832,6 +841,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [chatarena](https://github.com/farama-foundation/chatarena) - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
  * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - Data Science Roadmap from A to Z
  * [deepeval](https://github.com/confident-ai/deepeval) - The Evaluation Framework for LLMs
+ * [inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
 
 
 ## Langchain
@@ -904,6 +914,7 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [llm-chain](https://github.com/sobelio/llm-chain) - `llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks
  * [langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
  * [EasyEdit](https://github.com/zjunlp/easyedit) - An Easy-to-use Knowledge Editing Framework for LLMs.
+ * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 
 
 ## Unity
@@ -1368,5 +1379,6 @@ _Updated on December 09, 2023_ (A total of 1259 repositories listed.)
  * [vectordb](https://github.com/epsilla-cloud/vectordb) - Epsilla is a high performance Vector Database Management System. Try out hosted Epsilla at https://cloud.epsilla.com/
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
  * [gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
+ * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 
 
