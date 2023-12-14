@@ -16,31 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - List of free GPTs that doesn't require plus subscription 
-
-
-**Prompts**
- * [GPTs](https://github.com/linexjlin/gpts) - leaked prompts of GPTs
-
-
 **Chatbots**
- * [casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
-
-
-**NLP**
- * [inference](https://github.com/xorbitsai/inference) - Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
+ * [ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
 
 **Langchain**
- * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+ * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！
+
+
+**Openai**
+ * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
 
 
 **Others**
- * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+ * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等
 
 
-_Updated on December 12, 2023_ (A total of 1265 repositories listed.)
+_Updated on December 15, 2023_ (A total of 1270 repositories listed.)
 
 ## Table of contents
 
@@ -97,7 +90,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates.
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - Custom GPT Store - A collection of major GPTS available in public
  * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awesome list of best resources, tools, applications, usages of ChatGPT
- * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - List of free GPTs that doesn't require plus subscription 
+ * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - List of free GPTs that doesn't require plus subscription
 
 
 ## Prompts
@@ -364,6 +357,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQ和QQ频道都可用的 ChatGPT, Bing, Claude, HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
  * [casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
+ * [ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 
 
 ## Browser-extensions
@@ -915,6 +909,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
  * [EasyEdit](https://github.com/zjunlp/easyedit) - An Easy-to-use Knowledge Editing Framework for LLMs.
  * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+ * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！
 
 
 ## Unity
@@ -1060,6 +1055,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [chatgpt](https://github.com/dirk1983/chatgpt) - 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
+ * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
 
 
 ## Others
@@ -1380,5 +1376,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
  * [gpts-works](https://github.com/all-in-aigc/gpts-works) - A Third-party GPTs store
  * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+ * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等
 
 

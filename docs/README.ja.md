@@ -15,31 +15,24 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 無料のGPT（Generative Pre-trained Transformer）のリスト（プラスのサブスクリプションが必要ないもの）
-
-
-**Prompts**
- * [GPTs](https://github.com/linexjlin/gpts) - GPTの漏洩したプロンプト
-
-
 **Chatbots**
- * [casibase](https://github.com/casibase/casibase) - ⚡️ウェブUIとエンタープライズSSOを備えたオープンソースのLangChainのようなAI知識データベースです⚡️。OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM、およびローカルモデルをサポートしています。チャットデモ：https://ai.casbin.com、管理ポータルデモ：https://ai.casibase.com
-
-
-**NLP**
- * [inference](https://github.com/xorbitsai/inference) - 1行のコードを変更することで、OpenAI GPTを別のLLMに置き換えてください。Xinferenceを使用すると、必要なLLMを自由に使用できます。Xinferenceを使用すると、クラウド上、オンプレミス上、さらには自分のラップトップ上でも、オープンソースの言語モデル、音声認識モデル、マルチモーダルモデルを使用して推論を実行することができます。
+ * [ai-chatbot](https://github.com/vercel/ai-chatbot) - Vercelによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
 
 
 **Langchain**
- * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex（旧GPT Index）は、LLMアプリケーションのためのデータフレームワークです。
+ * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 私たちは、指示調整データ（例：CoTデータ）、複数のLLM、およびパラメータ効率の良い手法（例：lora、p-tuning）のインターフェースを統一し、簡単に使用できるようにしました。私たちはオープンソースの愛好家に、このリポジトリで意義のあるPRを開始し、できるだけ多くのLLM関連技術を統合することを歓迎します。
+
+
+**Openai**
+ * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - OpenAI GPT-3 APIにアクセスするための非公式なC#/.NET SDK
 
 
 **Others**
- * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 与えられた任意のトピックについてオンラインで包括的なリサーチを行うGPTベースの自律エージェント
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。
+ * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6Bモデルを使用して、ダウンストリームの具体的なタスクのファインチューニングを行います。Freeze、Lora、P-tuning、全参微調などが関係しています。
 
 
-_Updated on December 12, 2023_ (A total of 1265 repositories listed.)
+_Updated on December 15, 2023_ (A total of 1270 repositories listed.)
 
 ## Table of contents
 
@@ -363,6 +356,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [公式実装] mPLUG-Owl＆mPLUG-Owl2：アリババMLLMファミリー。
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT
  * [casibase](https://github.com/casibase/casibase) - ⚡️ウェブUIとエンタープライズSSOを備えたオープンソースのLangChainのようなAI知識データベースです⚡️。OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM、およびローカルモデルをサポートしています。チャットデモ：https://ai.casbin.com、管理ポータルデモ：https://ai.casibase.com
+ * [ai-chatbot](https://github.com/vercel/ai-chatbot) - Vercelによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
 
 
 ## Browser-extensions
@@ -914,6 +908,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [langroid](https://github.com/langroid/langroid) - マルチエージェントプログラミングでLLMsを活用する
  * [EasyEdit](https://github.com/zjunlp/easyedit) - LLM向けの使いやすい知識編集フレームワーク。
  * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex（旧GPT Index）は、LLMアプリケーションのためのデータフレームワークです。
+ * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 私たちは、指示調整データ（例：CoTデータ）、複数のLLM、およびパラメータ効率の良い手法（例：lora、p-tuning）のインターフェースを統一し、簡単に使用できるようにしました。私たちはオープンソースの愛好家に、このリポジトリで意義のあるPRを開始し、できるだけ多くのLLM関連技術を統合することを歓迎します。
 
 
 ## Unity
@@ -1059,6 +1054,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [chatgpt](https://github.com/dirk1983/chatgpt) - 全ウェブ最も簡単に展開でき、最も高速な応答速度を持つChatGPT環境。PHP版はOpenAI APIを呼び出して質問と図の生成を行い、Streamストリームモード通信を採用し、生成と出力を同時に行います。フロントエンドはEventSourceを使用し、Markdown形式の解析と数式の表示をサポートし、コードには色付け処理があり、図の表示もサポートしています。ページのUIはシンプルで、コンテキストの連続した会話をサポートしています。ソースコードはわずかなファイルのみで、フレームワークは使用しておらず、すべてのPHPバージョンをサポートし、完全にオープンソースで、非常に簡単にカスタマイズできます。チュートリアルや関連リソースも完備しており、グループへの参加と交流を歓迎します。すべて無料です。
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉 & 🤖 GPT-3.5 は、あなたの仕事の効率を直接的に向上させます 🚀 プライベートチャットやグループチャットの方法、一対一のチャットや連続チャットのモード、役割プレイ、画像作成などが可能です 🚀
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - OpenAI APIを使用したChatGPTウェブインターフェース
+ * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - OpenAI GPT-3 APIにアクセスするための非公式なC#/.NET SDK
 
 
 ## Others
@@ -1379,5 +1375,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - WeChatのチャット履歴を抽出し、HTML、Word、CSV形式のドキュメントにエクスポートして永久保存し、チャット履歴を分析して年次チャットレポートを生成します。
  * [gpts-works](https://github.com/all-in-aigc/gpts-works) - サードパーティのGPTストア
  * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 与えられた任意のトピックについてオンラインで包括的なリサーチを行うGPTベースの自律エージェント
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。
+ * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6Bモデルを使用して、ダウンストリームの具体的なタスクのファインチューニングを行います。Freeze、Lora、P-tuning、全参微調などが関係しています。
 
 

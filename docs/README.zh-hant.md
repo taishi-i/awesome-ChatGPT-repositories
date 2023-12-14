@@ -15,31 +15,24 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 沒有需要加上訂閱的免費GPT列表.
-
-
-**Prompts**
- * [GPTs](https://github.com/linexjlin/gpts) - 漏洩的 GPT 提示
-
-
 **Chatbots**
- * [casibase](https://github.com/casibase/casibase) - ️開放源 LangChain 類型的人工智能知識資料庫,具有網際網路界面,以及企業SSO️,支持OpenAI,Azure,HuggingFace,OpenRouter,ChatGLM及本地模型,聊天演示: https://ai.casbin.com,管理者門戶演示: https://ai.casibase.com
-
-
-**NLP**
- * [inference](https://github.com/xorbitsai/inference) - 透過更改一行代碼, 在應用程式中用另一種LLM取代OpenAI GPT. Xinference讓你自由使用任何你需要的LLM.
+ * [ai-chatbot](https://github.com/vercel/ai-chatbot) - 維爾塞爾 (Vercel) 建立的全功能,可入的Next.js人工智能聊天機
 
 
 **Langchain**
- * [llama_index](https://github.com/run-llama/llama_index) - 該網站提供您的法律學位申請資料框架,
+ * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 我們將指令調節數據 (如CoT數據),多個LLM和參數效率高的方法 (如Lora,p調節) 的接口統一在一起,以便于使用. 我們歡迎開源熱愛者在此備份上開始任何有意義的PR,並將盡可能多的LLM相關技術整合在一起. 我們建立了方便的研究人員上手和使用大模型等微调平台,我們歡迎開源愛好者發明任何有意義的pr!
+
+
+**Openai**
+ * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - 沒有官方的 C#/.NET SDK,
 
 
 **Others**
- * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 基于GPT的獨立代理人,
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 一键拥有你自己的跨平台ChatGPT应用.
+ * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型,進行下游具体任務微调,涉及Freeze、Lora、P-tuning、全参微调等
 
 
-_Updated on December 12, 2023_ (A total of 1265 repositories listed.)
+_Updated on December 15, 2023_ (A total of 1270 repositories listed.)
 
 ## Table of contents
 
@@ -363,6 +356,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - 【官方實施】mPLUG-Owl和mPLUG-Owl2：阿里巴巴MLLM家族。
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ 支援插件的 ChatGPT、Bing、Claude、HuggingChat 機器人，可在 QQ 和 QQ 頻道上使用 | 原 QQChannelChatGPT
  * [casibase](https://github.com/casibase/casibase) - ⚡️具有Web UI和企業SSO的開源LangChain類似的AI知識數據庫⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理員門戶演示：https://ai.casibase.com
+ * [ai-chatbot](https://github.com/vercel/ai-chatbot) - 一個由Vercel建立的功能齊全、可修改的Next.js AI聊天機器人。
 
 
 ## Browser-extensions
@@ -914,6 +908,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [langroid](https://github.com/langroid/langroid) - 利用多智能體編程來應用LLMs
  * [EasyEdit](https://github.com/zjunlp/easyedit) - 一個易於使用的知識編輯框架，適用於LLMs。
  * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex（前身為GPT Index）是一個針對您的LLM應用程序的數據框架。
+ * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 我們統一了指令調整數據（例如CoT數據）、多個LLM和參數高效方法（例如lora、p-tuning）的接口，以便易於使用。我們歡迎開源愛好者在這個存儲庫上發起任何有意義的PR，並集成盡可能多的LLM相關技術。
 
 
 ## Unity
@@ -1059,6 +1054,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [chatgpt](https://github.com/dirk1983/chatgpt) - 全網最易部署，響應速度最快的ChatGPT環境。PHP版調用OpenAI接口進行問答和畫圖，採用Stream流模式通信，一邊生成一邊輸出。前端採用EventSource，支持Markdown格式解析，支持公式顯示，代碼有著色處理，支持畫圖。頁面UI簡潔，支持上下文連續會話。源碼只有幾個文件，沒有使用任何框架，支持所有PHP版本，全部開源，極易二次開發。保姆級教程，全部周邊資源，歡迎進群交流，一切全免費。
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 釘釘 & 🤖 GPT-3.5 讓你的工作效率直接起飛 🚀 私聊群聊方式、單聊串聊模式、角色扮演、圖片創作 🚀
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT 網頁介面使用 OpenAI API
+ * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - 一個非官方的C#/.NET SDK，用於訪問OpenAI GPT-3 API
 
 
 ## Others
@@ -1379,5 +1375,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天記錄，將其導出成HTML、Word、CSV文件永久保存，對聊天記錄進行分析生成年度聊天報告
  * [gpts-works](https://github.com/all-in-aigc/gpts-works) - 第三方GPT存儲
  * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 基於GPT的自主代理人，可以對任何給定的主題進行在線綜合研究。
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 一個設計精良的跨平台 ChatGPT 用戶界面（Web / PWA / Linux / Win / MacOS）。
+ * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基於ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，進行下游具體任務微調，涉及Freeze、Lora、P-tuning、全參微調等。
 
 
