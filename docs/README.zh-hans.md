@@ -15,31 +15,24 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 免费的GPT列表, 不需要加上订阅.
-
-
-**Prompts**
- * [GPTs](https://github.com/linexjlin/gpts) - 泄漏的GPT提示
-
-
 **Chatbots**
- * [casibase](https://github.com/casibase/casibase) - ️开源的LangChain类人工智能知识数据库,具有WebUI,以及企业SSO️,支持OpenAI,Azure,HuggingFace,OpenRouter,ChatGLM和本地模型,聊天演示:https://ai.casbin.com,管理者门户网站演示:https://ai.casibase.com
-
-
-**NLP**
- * [inference](https://github.com/xorbitsai/inference) - 通过更改一个代码行,将 OpenAI GPT 替换为您的应用程序中的另一个 LLM. Xinference 让您可以自由使用您需要的任何 LLM. 通过 Xinference,您可以使用任何开源语言模型,语音识别模型和多模模式运行推理,无论是在云中,本地还是笔记本电脑上.
+ * [ai-chatbot](https://github.com/vercel/ai-chatbot) - 由Vercel开发的全功能,可被黑客攻击的Next.js AI聊天机器人
 
 
 **Langchain**
- * [llama_index](https://github.com/run-llama/llama_index) - 拉马指数 (前面是GPT指数) 是您的LLM申请的数据框架
+ * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 我们统一了指令调节数据 (例如,CoT数据),多个LLM和参数效率方法 (例如,lora,p调节) 的接口,以便轻松使用.我们欢迎开源爱好者在此备份上启动任何有意义的PR,并尽可能多地集成LLM相关技术. 我们已经创建了方便的研究人员上手和使用大模型等微调平台,我们欢迎开源爱好者开发任何有意义的pr!
+
+
+**Openai**
+ * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - 一个非官方的C#/.NET SDK,用于访问OpenAI GPT-3 API
 
 
 **Others**
- * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 基于GPT的自主代理,在任何特定主题上进行在线全面的研究
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 一键拥有你自己的跨平台ChatGPT应用.
+ * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型,进行下游具体任务微调,涉及Freeze、Lora、P调、全参微调等
 
 
-_Updated on December 12, 2023_ (A total of 1265 repositories listed.)
+_Updated on December 15, 2023_ (A total of 1270 repositories listed.)
 
 ## Table of contents
 
@@ -363,6 +356,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - 【官方实施】mPLUG-Owl和mPLUG-Owl2：阿里巴巴MLLM家族。
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ 可用于 QQ 和 QQ 频道的 ChatGPT、Bing、Claude、HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
  * [casibase](https://github.com/casibase/casibase) - ⚡️开源的类LangChain AI知识数据库，具有Web界面和企业SSO⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理员门户演示：https://ai.casibase.com
+ * [ai-chatbot](https://github.com/vercel/ai-chatbot) - 一个由Vercel构建的功能齐全、可修改的Next.js AI聊天机器人。
 
 
 ## Browser-extensions
@@ -914,6 +908,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [langroid](https://github.com/langroid/langroid) - 使用多智能体编程来驾驭LLMs
  * [EasyEdit](https://github.com/zjunlp/easyedit) - 一个易于使用的知识编辑框架，适用于LLMs。
  * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex（原名GPT Index）是一个为您的LLM应用程序设计的数据框架。
+ * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 我们统一了指令调优数据（例如CoT数据），多个LLM和参数高效方法（例如lora，p-tuning）的接口，以便于使用。我们欢迎开源爱好者在这个仓库上发起任何有意义的PR，并尽可能集成更多与LLM相关的技术。
 
 
 ## Unity
@@ -1059,6 +1054,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [chatgpt](https://github.com/dirk1983/chatgpt) - 全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆级教程，全部周边资源，欢迎进群交流，一切全免费。
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉和🤖 GPT-3.5可以让你的工作效率直接提升🚀。它支持私聊和群聊方式，还有单聊和串聊模式。此外，它还可以进行角色扮演和图片创作🚀。
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT 网页界面使用 OpenAI API
+ * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - 一个非官方的C#/.NET SDK，用于访问OpenAI GPT-3 API。
 
 
 ## Others
@@ -1379,5 +1375,7 @@ _Updated on December 12, 2023_ (A total of 1265 repositories listed.)
  * [WeChatMsg](https://github.com/lc044/wechatmsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
  * [gpts-works](https://github.com/all-in-aigc/gpts-works) - 一个第三方GPT存储库
  * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 基于GPT的自主代理，可以对任何给定的主题进行在线综合研究。
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 一个设计精良的跨平台 ChatGPT 用户界面（Web / PWA / Linux / Win / MacOS）。
+ * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等。
 
 

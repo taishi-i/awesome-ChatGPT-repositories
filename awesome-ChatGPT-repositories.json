@@ -6810,6 +6810,36 @@
                     "zh-hans": "⚡️开源的类LangChain AI知识数据库，具有Web界面和企业SSO⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理员门户演示：https://ai.casibase.com",
                     "zh-hant": "⚡️具有Web UI和企業SSO的開源LangChain類似的AI知識數據庫⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理員門戶演示：https://ai.casibase.com"
                 }
+            },
+            "https://github.com/vercel/ai-chatbot": {
+                "repository_name": "ai-chatbot",
+                "user_name": "vercel",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "nextjs",
+                    "react",
+                    "redis",
+                    "shadcn-ui",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+                    "ja": "Vercelによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。",
+                    "zh-hans": "一个由Vercel构建的功能齐全、可修改的Next.js AI聊天机器人。",
+                    "zh-hant": "一個由Vercel建立的功能齊全、可修改的Next.js AI聊天機器人。"
+                }
             }
         },
         "Browser-extensions": {
@@ -18290,6 +18320,42 @@
                     "zh-hans": "LlamaIndex（原名GPT Index）是一个为您的LLM应用程序设计的数据框架。",
                     "zh-hant": "LlamaIndex（前身為GPT Index）是一個針對您的LLM應用程序的數據框架。"
                 }
+            },
+            "https://github.com/phoebussi/alpaca-cot": {
+                "repository_name": "Alpaca-CoT",
+                "user_name": "PhoebusSi",
+                "language": "Jupyter Notebook",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！",
+                "topics": [
+                    "alpaca",
+                    "chatglm",
+                    "chatgpt",
+                    "cot",
+                    "instruction-tuning",
+                    "llama",
+                    "llm",
+                    "lora",
+                    "moss",
+                    "p-tuning",
+                    "parameter-efficient",
+                    "pytorch",
+                    "tabul",
+                    "tabular-data",
+                    "tabular-model"
+                ],
+                "multilingual_descriptions": {
+                    "en": "We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！",
+                    "ja": "私たちは、指示調整データ（例：CoTデータ）、複数のLLM、およびパラメータ効率の良い手法（例：lora、p-tuning）のインターフェースを統一し、簡単に使用できるようにしました。私たちはオープンソースの愛好家に、このリポジトリで意義のあるPRを開始し、できるだけ多くのLLM関連技術を統合することを歓迎します。",
+                    "zh-hans": "我们统一了指令调优数据（例如CoT数据），多个LLM和参数高效方法（例如lora，p-tuning）的接口，以便于使用。我们欢迎开源爱好者在这个仓库上发起任何有意义的PR，并尽可能集成更多与LLM相关的技术。",
+                    "zh-hant": "我們統一了指令調整數據（例如CoT數據）、多個LLM和參數高效方法（例如lora、p-tuning）的接口，以便易於使用。我們歡迎開源愛好者在這個存儲庫上發起任何有意義的PR，並集成盡可能多的LLM相關技術。"
+                }
             }
         },
         "Unity": {
@@ -21201,6 +21267,44 @@
                     "ja": "OpenAI APIを使用したChatGPTウェブインターフェース",
                     "zh-hans": "ChatGPT 网页界面使用 OpenAI API",
                     "zh-hant": "ChatGPT 網頁介面使用 OpenAI API"
+                }
+            },
+            "https://github.com/okgodoit/openai-api-dotnet": {
+                "repository_name": "OpenAI-API-dotnet",
+                "user_name": "OkGoDoIt",
+                "language": "C#",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API",
+                "topics": [
+                    "c-sharp",
+                    "chatgpt",
+                    "csharp",
+                    "dall-e",
+                    "dalle2",
+                    "dotnet",
+                    "dotnet-core",
+                    "dotnet-standard",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt3",
+                    "gpt35",
+                    "gpt4",
+                    "machine-learning",
+                    "ml",
+                    "openai",
+                    "sdk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API",
+                    "ja": "OpenAI GPT-3 APIにアクセスするための非公式なC#/.NET SDK",
+                    "zh-hans": "一个非官方的C#/.NET SDK，用于访问OpenAI GPT-3 API。",
+                    "zh-hant": "一個非官方的C#/.NET SDK，用於訪問OpenAI GPT-3 API"
                 }
             }
         },
@@ -27187,6 +27291,58 @@
                     "ja": "与えられた任意のトピックについてオンラインで包括的なリサーチを行うGPTベースの自律エージェント",
                     "zh-hans": "基于GPT的自主代理，可以对任何给定的主题进行在线综合研究。",
                     "zh-hant": "基於GPT的自主代理人，可以對任何給定的主題進行在線綜合研究。"
+                }
+            },
+            "https://github.com/chatgptnextwebteam/chatgpt-next-web": {
+                "repository_name": "ChatGPT-Next-Web",
+                "user_name": "ChatGPTNextWebTeam",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。",
+                "topics": [
+                    "chatgpt",
+                    "cross-platform",
+                    "desktop",
+                    "nextjs",
+                    "react",
+                    "tauri",
+                    "tauri-app",
+                    "vercel",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。",
+                    "ja": "使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。",
+                    "zh-hans": "一个设计精良的跨平台 ChatGPT 用户界面（Web / PWA / Linux / Win / MacOS）。",
+                    "zh-hant": "一個設計精良的跨平台 ChatGPT 用戶界面（Web / PWA / Linux / Win / MacOS）。"
+                }
+            },
+            "https://github.com/liucongg/chatglm-finetuning": {
+                "repository_name": "ChatGLM-Finetuning",
+                "user_name": "liucongg",
+                "language": "Python",
+                "license": null,
+                "description": "基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等",
+                "topics": [
+                    "chatglm",
+                    "chatglm2",
+                    "chatglm3",
+                    "chatgpt",
+                    "freeze",
+                    "lora",
+                    "p-tuning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等",
+                    "ja": "ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6Bモデルを使用して、ダウンストリームの具体的なタスクのファインチューニングを行います。Freeze、Lora、P-tuning、全参微調などが関係しています。",
+                    "zh-hans": "基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等。",
+                    "zh-hant": "基於ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，進行下游具體任務微調，涉及Freeze、Lora、P-tuning、全參微調等。"
                 }
             }
         }
