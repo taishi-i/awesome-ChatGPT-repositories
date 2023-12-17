@@ -15,24 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-chatbot](https://github.com/vercel/ai-chatbot) - 維爾塞爾 (Vercel) 建立的全功能,可入的Next.js人工智能聊天機
+**Awesome-lists**
+ * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 排名出色的機器學習Python圖書館,
 
 
-**Langchain**
- * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 我們將指令調節數據 (如CoT數據),多個LLM和參數效率高的方法 (如Lora,p調節) 的接口統一在一起,以便于使用. 我們歡迎開源熱愛者在此備份上開始任何有意義的PR,並將盡可能多的LLM相關技術整合在一起. 我們建立了方便的研究人員上手和使用大模型等微调平台,我們歡迎開源愛好者發明任何有意義的pr!
-
-
-**Openai**
- * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - 沒有官方的 C#/.NET SDK,
+**CLIs**
+ * [sqlchat](https://github.com/sqlchat/sqlchat) - 聊天型SQL客戶端和編輯器
+ * [ShellGPT](https://github.com/akl7777777/shellgpt) - **ShellGPT是免費的chatgpt客戶端,現在支持網路搜尋.不需要鍵,不需要登入.多節點自動速度測量開關,沒有字限的長文字翻譯,AI圖形.免費的chatgpt客戶端,已支持聯網搜索,無需密钥,無需登錄,多節點自動測速切換,長文翻譯不限數字,AI出圖**
 
 
 **Others**
- * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 一键拥有你自己的跨平台ChatGPT应用.
- * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型,進行下游具体任務微调,涉及Freeze、Lora、P-tuning、全参微调等
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - 一键拥有你自己的跨平台ChatGPT应用.
 
 
-_Updated on December 15, 2023_ (A total of 1270 repositories listed.)
+_Updated on December 17, 2023_ (A total of 1274 repositories listed.)
 
 ## Table of contents
 
@@ -90,6 +86,7 @@ _Updated on December 15, 2023_ (A total of 1270 repositories listed.)
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - 自訂GPT商店 - 一個收集了公開可用的主要GPT的集合
  * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 一份關於ChatGPT最佳資源、工具、應用和用法的精彩清單
  * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 免費的GPT列表，不需要Plus訂閱
+ * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 一個排名的優秀機器學習Python函式庫清單。每週更新。
 
 
 ## Prompts
@@ -612,6 +609,8 @@ _Updated on December 15, 2023_ (A total of 1270 repositories listed.)
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式輸出、Gpt插件、聯網。支持OpenAI官方所有接口。ChatGPT的Java客戶端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
  * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - LLMs的Power CLI和工作流程管理器（核心套件）
  * [openai-kotlin](https://github.com/aallam/openai-kotlin) - 具有多平台和協程功能的 Kotlin OpenAI API 客戶端。
+ * [sqlchat](https://github.com/sqlchat/sqlchat) - 基於聊天的SQL客戶端和編輯器，為未來十年打造的工具
+ * [ShellGPT](https://github.com/akl7777777/shellgpt) - **ShellGPT是一個免費的chatgpt客戶端，現在支援在線搜索，無需密鑰，無需登錄。多節點自動速度測量切換，無字數限制的長文翻譯，AI圖形。**
 
 
 ## Reimplementations
@@ -1377,5 +1376,6 @@ _Updated on December 15, 2023_ (A total of 1270 repositories listed.)
  * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 基於GPT的自主代理人，可以對任何給定的主題進行在線綜合研究。
  * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 一個設計精良的跨平台 ChatGPT 用戶界面（Web / PWA / Linux / Win / MacOS）。
  * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基於ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，進行下游具體任務微調，涉及Freeze、Lora、P-tuning、全參微調等。
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - 一個設計精良的跨平台 ChatGPT 用戶界面（Web / PWA / Linux / Win / MacOS）。
 
 
