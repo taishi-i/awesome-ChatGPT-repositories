@@ -957,6 +957,46 @@
                     "zh-hans": "免费的GPT列表，不需要Plus订阅",
                     "zh-hant": "免費的GPT列表，不需要Plus訂閱"
                 }
+            },
+            "https://github.com/ml-tooling/best-of-ml-python": {
+                "repository_name": "best-of-ml-python",
+                "user_name": "ml-tooling",
+                "language": null,
+                "license": {
+                    "key": "cc-by-sa-4.0",
+                    "name": "Creative Commons Attribution Share Alike 4.0 International",
+                    "spdx_id": "CC-BY-SA-4.0",
+                    "url": "https://api.github.com/licenses/cc-by-sa-4.0",
+                    "node_id": "MDc6TGljZW5zZTI2"
+                },
+                "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+                "topics": [
+                    "automl",
+                    "chatgpt",
+                    "data-analysis",
+                    "data-science",
+                    "data-visualization",
+                    "data-visualizations",
+                    "deep-learning",
+                    "gpt",
+                    "gpt-3",
+                    "jax",
+                    "keras",
+                    "machine-learning",
+                    "ml",
+                    "nlp",
+                    "python",
+                    "pytorch",
+                    "scikit-learn",
+                    "tensorflow",
+                    "transformer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+                    "ja": "🏆 週ごとに更新される、素晴らしい機械学習Pythonライブラリのランク付けリスト。",
+                    "zh-hans": "🏆 一份排名靠前的令人惊叹的机器学习Python库列表。每周更新。",
+                    "zh-hant": "🏆 一個排名的優秀機器學習Python函式庫清單。每週更新。"
+                }
             }
         },
         "Prompts": {
@@ -12329,6 +12369,67 @@
                     "ja": "マルチプラットフォームとコルーチンの機能を備えたKotlin用のOpenAI APIクライアント。",
                     "zh-hans": "具有多平台和协程功能的Kotlin的OpenAI API客户端。",
                     "zh-hant": "具有多平台和協程功能的 Kotlin OpenAI API 客戶端。"
+                }
+            },
+            "https://github.com/sqlchat/sqlchat": {
+                "repository_name": "sqlchat",
+                "user_name": "sqlchat",
+                "language": "TypeScript",
+                "license": {
+                    "key": "other",
+                    "name": "Other",
+                    "spdx_id": "NOASSERTION",
+                    "url": null,
+                    "node_id": "MDc6TGljZW5zZTA="
+                },
+                "description": "Chat-based SQL Client and Editor for the next decade",
+                "topics": [
+                    "chatgpt",
+                    "clickhouse",
+                    "cockroachdb",
+                    "mongodb",
+                    "mssql",
+                    "mysql",
+                    "openai",
+                    "oracle",
+                    "postgres",
+                    "redis",
+                    "snowflake",
+                    "sql",
+                    "sqlclient",
+                    "sqleditor",
+                    "sqlite",
+                    "sqlserver",
+                    "text2sql",
+                    "tidb"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat-based SQL Client and Editor for the next decade",
+                    "ja": "次の10年のためのチャットベースのSQLクライアントとエディタ",
+                    "zh-hans": "聊天式SQL客户端和编辑器，面向未来十年。",
+                    "zh-hant": "基於聊天的SQL客戶端和編輯器，為未來十年打造的工具"
+                }
+            },
+            "https://github.com/akl7777777/shellgpt": {
+                "repository_name": "ShellGPT",
+                "user_name": "akl7777777",
+                "language": "JavaScript",
+                "license": null,
+                "description": "**ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**",
+                "topics": [
+                    "bobplugin",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "chatgpt3",
+                    "chatgptdesktop",
+                    "gpt4",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "**ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**",
+                    "ja": "シェルGPTは無料のチャットGPTクライアントで、オンライン検索がサポートされています。キーは必要ありませんし、ログインも必要ありません。マルチノードの自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスも利用できます。",
+                    "zh-hans": "**ShellGPT是一个免费的chatgpt客户端，现在支持在线搜索，无需密钥，无需登录。多节点自动测速切换，长文翻译没有字数限制，AI出图。**",
+                    "zh-hant": "**ShellGPT是一個免費的chatgpt客戶端，現在支援在線搜索，無需密鑰，無需登錄。多節點自動速度測量切換，無字數限制的長文翻譯，AI圖形。**"
                 }
             }
         },
@@ -27343,6 +27444,36 @@
                     "ja": "ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6Bモデルを使用して、ダウンストリームの具体的なタスクのファインチューニングを行います。Freeze、Lora、P-tuning、全参微調などが関係しています。",
                     "zh-hans": "基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等。",
                     "zh-hant": "基於ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，進行下游具體任務微調，涉及Freeze、Lora、P-tuning、全參微調等。"
+                }
+            },
+            "https://github.com/chatgptnextweb/chatgpt-next-web": {
+                "repository_name": "ChatGPT-Next-Web",
+                "user_name": "ChatGPTNextWeb",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。",
+                "topics": [
+                    "chatgpt",
+                    "cross-platform",
+                    "desktop",
+                    "nextjs",
+                    "react",
+                    "tauri",
+                    "tauri-app",
+                    "vercel",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。",
+                    "ja": "使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。",
+                    "zh-hans": "一个设计精良的跨平台 ChatGPT 用户界面（Web / PWA / Linux / Win / MacOS）。",
+                    "zh-hant": "一個設計精良的跨平台 ChatGPT 用戶界面（Web / PWA / Linux / Win / MacOS）。"
                 }
             }
         }

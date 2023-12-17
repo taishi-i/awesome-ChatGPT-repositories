@@ -15,24 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-chatbot](https://github.com/vercel/ai-chatbot) - Vercelによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
+**Awesome-lists**
+ * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 週ごとに更新される、素晴らしい機械学習Pythonライブラリのランク付けリスト。
 
 
-**Langchain**
- * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 私たちは、指示調整データ（例：CoTデータ）、複数のLLM、およびパラメータ効率の良い手法（例：lora、p-tuning）のインターフェースを統一し、簡単に使用できるようにしました。私たちはオープンソースの愛好家に、このリポジトリで意義のあるPRを開始し、できるだけ多くのLLM関連技術を統合することを歓迎します。
-
-
-**Openai**
- * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - OpenAI GPT-3 APIにアクセスするための非公式なC#/.NET SDK
+**CLIs**
+ * [sqlchat](https://github.com/sqlchat/sqlchat) - 次の10年のためのチャットベースのSQLクライアントとエディタ
+ * [ShellGPT](https://github.com/akl7777777/shellgpt) - シェルGPTは無料のチャットGPTクライアントで、オンライン検索がサポートされています。キーは必要ありませんし、ログインも必要ありません。マルチノードの自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスも利用できます。
 
 
 **Others**
- * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。
- * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6Bモデルを使用して、ダウンストリームの具体的なタスクのファインチューニングを行います。Freeze、Lora、P-tuning、全参微調などが関係しています。
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - 使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。
 
 
-_Updated on December 15, 2023_ (A total of 1270 repositories listed.)
+_Updated on December 17, 2023_ (A total of 1274 repositories listed.)
 
 ## Table of contents
 
@@ -90,6 +86,7 @@ _Updated on December 15, 2023_ (A total of 1270 repositories listed.)
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - カスタムGPTストア - 公開されている主要なGPTのコレクション
  * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 ChatGPTの最高のリソース、ツール、アプリケーション、使用法の素晴らしいリスト
  * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 無料のGPT（Generative Pre-trained Transformer）のリスト（プラスのサブスクリプションが必要ないもの）
+ * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 週ごとに更新される、素晴らしい機械学習Pythonライブラリのランク付けリスト。
 
 
 ## Prompts
@@ -612,6 +609,8 @@ _Updated on December 15, 2023_ (A total of 1270 repositories listed.)
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDKは、ストリーミング出力、Gptプラグイン、ネットワーキングをサポートしています。OpenAI公式のすべてのインターフェースをサポートしています。ChatGPTのJavaクライアントです。OpenAI GPT-3.5-Turbo GPT-4のJava用APIクライアントです。
  * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - LLMsのPower CLIとワークフローマネージャー（コアパッケージ）
  * [openai-kotlin](https://github.com/aallam/openai-kotlin) - マルチプラットフォームとコルーチンの機能を備えたKotlin用のOpenAI APIクライアント。
+ * [sqlchat](https://github.com/sqlchat/sqlchat) - 次の10年のためのチャットベースのSQLクライアントとエディタ
+ * [ShellGPT](https://github.com/akl7777777/shellgpt) - シェルGPTは無料のチャットGPTクライアントで、オンライン検索がサポートされています。キーは必要ありませんし、ログインも必要ありません。マルチノードの自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスも利用できます。
 
 
 ## Reimplementations
@@ -1377,5 +1376,6 @@ _Updated on December 15, 2023_ (A total of 1270 repositories listed.)
  * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - 与えられた任意のトピックについてオンラインで包括的なリサーチを行うGPTベースの自律エージェント
  * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。
  * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6Bモデルを使用して、ダウンストリームの具体的なタスクのファインチューニングを行います。Freeze、Lora、P-tuning、全参微調などが関係しています。
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - 使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。
 
 

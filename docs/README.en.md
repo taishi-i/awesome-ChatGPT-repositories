@@ -16,24 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+**Awesome-lists**
+ * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
 
-**Langchain**
- * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to initiate any meaningful PR on this repo and integrate as many LLM related technologies as possible. 我们打造了方便研究人员上手和使用大模型等微调平台，我们欢迎开源爱好者发起任何有意义的pr！
-
-
-**Openai**
- * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
+**CLIs**
+ * [sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
+ * [ShellGPT](https://github.com/akl7777777/shellgpt) - **ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
 
 
 **Others**
- * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
- * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 
 
-_Updated on December 15, 2023_ (A total of 1270 repositories listed.)
+_Updated on December 17, 2023_ (A total of 1274 repositories listed.)
 
 ## Table of contents
 
@@ -91,6 +87,7 @@ _Updated on December 15, 2023_ (A total of 1270 repositories listed.)
  * [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - Custom GPT Store - A collection of major GPTS available in public
  * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awesome list of best resources, tools, applications, usages of ChatGPT
  * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - List of free GPTs that doesn't require plus subscription 
+ * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
 
 ## Prompts
@@ -613,6 +610,8 @@ _Updated on December 15, 2023_ (A total of 1270 repositories listed.)
  * [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java
  * [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
  * [openai-kotlin](https://github.com/aallam/openai-kotlin) - OpenAI API client for Kotlin with multiplatform and coroutines capabilities.
+ * [sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
+ * [ShellGPT](https://github.com/akl7777777/shellgpt) - **ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
 
 
 ## Reimplementations
@@ -1378,5 +1377,6 @@ _Updated on December 15, 2023_ (A total of 1270 repositories listed.)
  * [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
  * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
  * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等
+ * [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 
 
