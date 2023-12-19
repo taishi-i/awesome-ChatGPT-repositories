@@ -16,19 +16,20 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 週ごとに更新される、素晴らしい機械学習Pythonライブラリのランク付けリスト。
+ * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - OpenAIビジョンAPIを試してみたり、構築したりしたい人にとって必須のリソースです🔥
+ * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - LLMとKGを統合する素晴らしい論文
 
 
-**CLIs**
- * [sqlchat](https://github.com/sqlchat/sqlchat) - 次の10年のためのチャットベースのSQLクライアントとエディタ
- * [ShellGPT](https://github.com/akl7777777/shellgpt) - シェルGPTは無料のチャットGPTクライアントで、オンライン検索がサポートされています。キーは必要ありませんし、ログインも必要ありません。マルチノードの自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスも利用できます。
+**Chatbots**
+ * [ChatPDF](https://github.com/anil-matcha/chatpdf) - どんなPDFでもチャットできます。簡単にアップロードしてください。即座に回答します。質問をする、情報を抽出する、AIで文書を要約することができます。ソースも含まれています。
 
 
-**Others**
- * [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - 使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。
+**Langchain**
+ * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAIサービスプロキシ。OpenAI公式APIリクエストをAzure OpenAI APIリクエストに変換します。GPT-4、Embeddings、Langchainをサポートします。OpenAIからAzure OpenAIへのアダプター。
+ * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - LLMs（OpenAI GPT-3.5/4、Llama2、Azure AI）と埋め込みを活用した個人用コードレビューアー ⚡️ コードの品質を向上させ、本番環境でのバグを発生させる前にキャッチする 🚀
 
 
-_Updated on December 17, 2023_ (A total of 1274 repositories listed.)
+_Updated on December 20, 2023_ (A total of 1279 repositories listed.)
 
 ## Table of contents
 
@@ -87,6 +88,8 @@ _Updated on December 17, 2023_ (A total of 1274 repositories listed.)
  * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 ChatGPTの最高のリソース、ツール、アプリケーション、使用法の素晴らしいリスト
  * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 無料のGPT（Generative Pre-trained Transformer）のリスト（プラスのサブスクリプションが必要ないもの）
  * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 週ごとに更新される、素晴らしい機械学習Pythonライブラリのランク付けリスト。
+ * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - OpenAIビジョンAPIを試してみたり、構築したりしたい人にとって必須のリソースです🔥
+ * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - LLMとKGを統合する素晴らしい論文
 
 
 ## Prompts
@@ -354,6 +357,7 @@ _Updated on December 17, 2023_ (A total of 1274 repositories listed.)
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT
  * [casibase](https://github.com/casibase/casibase) - ⚡️ウェブUIとエンタープライズSSOを備えたオープンソースのLangChainのようなAI知識データベースです⚡️。OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM、およびローカルモデルをサポートしています。チャットデモ：https://ai.casbin.com、管理ポータルデモ：https://ai.casibase.com
  * [ai-chatbot](https://github.com/vercel/ai-chatbot) - Vercelによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
+ * [ChatPDF](https://github.com/anil-matcha/chatpdf) - どんなPDFでもチャットできます。簡単にアップロードしてください。即座に回答します。質問をする、情報を抽出する、AIで文書を要約することができます。ソースも含まれています。
 
 
 ## Browser-extensions
@@ -908,6 +912,8 @@ _Updated on December 17, 2023_ (A total of 1274 repositories listed.)
  * [EasyEdit](https://github.com/zjunlp/easyedit) - LLM向けの使いやすい知識編集フレームワーク。
  * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex（旧GPT Index）は、LLMアプリケーションのためのデータフレームワークです。
  * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 私たちは、指示調整データ（例：CoTデータ）、複数のLLM、およびパラメータ効率の良い手法（例：lora、p-tuning）のインターフェースを統一し、簡単に使用できるようにしました。私たちはオープンソースの愛好家に、このリポジトリで意義のあるPRを開始し、できるだけ多くのLLM関連技術を統合することを歓迎します。
+ * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAIサービスプロキシ。OpenAI公式APIリクエストをAzure OpenAI APIリクエストに変換します。GPT-4、Embeddings、Langchainをサポートします。OpenAIからAzure OpenAIへのアダプター。
+ * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - LLMs（OpenAI GPT-3.5/4、Llama2、Azure AI）と埋め込みを活用した個人用コードレビューアー ⚡️ コードの品質を向上させ、本番環境でのバグを発生させる前にキャッチする 🚀
 
 
 ## Unity

@@ -16,19 +16,20 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 排名出色的機器學習Python圖書館,
+ * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - 必須有資源, 任何想要嘗試和建立 OpenAI 視野 API 的人都必須有
+ * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - 關於統一LLM和KG的好文獻
 
 
-**CLIs**
- * [sqlchat](https://github.com/sqlchat/sqlchat) - 聊天型SQL客戶端和編輯器
- * [ShellGPT](https://github.com/akl7777777/shellgpt) - **ShellGPT是免費的chatgpt客戶端,現在支持網路搜尋.不需要鍵,不需要登入.多節點自動速度測量開關,沒有字限的長文字翻譯,AI圖形.免費的chatgpt客戶端,已支持聯網搜索,無需密钥,無需登錄,多節點自動測速切換,長文翻譯不限數字,AI出圖**
+**Chatbots**
+ * [ChatPDF](https://github.com/anil-matcha/chatpdf) - 聊天與任何PDF. 輕鬆上傳您想要聊天的PDF文檔. 即時解答. 詢問問題,提取資訊,並用AI總結文檔. 資料源包含.
 
 
-**Others**
- * [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - 一键拥有你自己的跨平台ChatGPT应用.
+**Langchain**
+ * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - 支持GPT-4,嵌入,長鎖. 適應器從OpenAI轉換為Azure OpenAI.
+ * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - 您的個人代碼審核器由LLM (OpenAI GPT-3.5/4,Llama2,Azure AI) 和嵌入式功能支持️在停止生產之前,
 
 
-_Updated on December 17, 2023_ (A total of 1274 repositories listed.)
+_Updated on December 20, 2023_ (A total of 1279 repositories listed.)
 
 ## Table of contents
 
@@ -87,6 +88,8 @@ _Updated on December 17, 2023_ (A total of 1274 repositories listed.)
  * [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 一份關於ChatGPT最佳資源、工具、應用和用法的精彩清單
  * [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - 免費的GPT列表，不需要Plus訂閱
  * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 一個排名的優秀機器學習Python函式庫清單。每週更新。
+ * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - 必備資源，適合任何想要嘗試和建立OpenAI視覺API的人使用🔥
+ * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - 關於統一LLMs和KGs的精彩論文
 
 
 ## Prompts
@@ -354,6 +357,7 @@ _Updated on December 17, 2023_ (A total of 1274 repositories listed.)
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ 支援插件的 ChatGPT、Bing、Claude、HuggingChat 機器人，可在 QQ 和 QQ 頻道上使用 | 原 QQChannelChatGPT
  * [casibase](https://github.com/casibase/casibase) - ⚡️具有Web UI和企業SSO的開源LangChain類似的AI知識數據庫⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理員門戶演示：https://ai.casibase.com
  * [ai-chatbot](https://github.com/vercel/ai-chatbot) - 一個由Vercel建立的功能齊全、可修改的Next.js AI聊天機器人。
+ * [ChatPDF](https://github.com/anil-matcha/chatpdf) - 與任何PDF進行對話。輕鬆上傳您想要對話的PDF文件。即時回答。使用人工智能提問、提取信息並總結文件。包含來源。
 
 
 ## Browser-extensions
@@ -908,6 +912,8 @@ _Updated on December 17, 2023_ (A total of 1274 repositories listed.)
  * [EasyEdit](https://github.com/zjunlp/easyedit) - 一個易於使用的知識編輯框架，適用於LLMs。
  * [llama_index](https://github.com/run-llama/llama_index) - LlamaIndex（前身為GPT Index）是一個針對您的LLM應用程序的數據框架。
  * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 我們統一了指令調整數據（例如CoT數據）、多個LLM和參數高效方法（例如lora、p-tuning）的接口，以便易於使用。我們歡迎開源愛好者在這個存儲庫上發起任何有意義的PR，並集成盡可能多的LLM相關技術。
+ * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI 服務代理。將 OpenAI 官方 API 請求轉換為 Azure OpenAI API 請求。支援 GPT-4、嵌入式、Langchain。從 OpenAI 轉換為 Azure OpenAI 的適配器。
+ * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - 您的個人代碼審查員，由LLMs（OpenAI GPT-3.5/4，Llama2，Azure AI）和嵌入式技術提供支持⚡️ 提升代碼質量，在破壞生產之前捕捉錯誤🚀
 
 
 ## Unity
