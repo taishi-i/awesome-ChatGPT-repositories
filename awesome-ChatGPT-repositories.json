@@ -997,6 +997,55 @@
                     "zh-hans": "🏆 一份排名靠前的令人惊叹的机器学习Python库列表。每周更新。",
                     "zh-hant": "🏆 一個排名的優秀機器學習Python函式庫清單。每週更新。"
                 }
+            },
+            "https://github.com/roboflow/awesome-openai-vision-api-experiments": {
+                "repository_name": "awesome-openai-vision-api-experiments",
+                "user_name": "roboflow",
+                "language": "Python",
+                "license": null,
+                "description": "Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥",
+                "topics": [
+                    "chatgpt",
+                    "classification",
+                    "clip",
+                    "computer-vision",
+                    "grounding-dino",
+                    "open-vocabulary-detection",
+                    "open-vocabulary-segmentation",
+                    "openai",
+                    "segment-anything",
+                    "zero-shot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥",
+                    "ja": "OpenAIビジョンAPIを試してみたり、構築したりしたい人にとって必須のリソースです🔥",
+                    "zh-hans": "必备资源，适合任何想要尝试和构建OpenAI视觉API的人🔥",
+                    "zh-hant": "必備資源，適合任何想要嘗試和建立OpenAI視覺API的人使用🔥"
+                }
+            },
+            "https://github.com/rmanluo/awesome-llm-kg": {
+                "repository_name": "Awesome-LLM-KG",
+                "user_name": "RManLuo",
+                "language": null,
+                "license": null,
+                "description": "Awesome papers about unifying LLMs and KGs",
+                "topics": [
+                    "awsome",
+                    "chatgpt",
+                    "gpt-4",
+                    "kg",
+                    "knowledge-graph",
+                    "language-model",
+                    "large-language-model",
+                    "llm",
+                    "survey"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Awesome papers about unifying LLMs and KGs",
+                    "ja": "LLMとKGを統合する素晴らしい論文",
+                    "zh-hans": "关于统一LLMs和KGs的精彩论文",
+                    "zh-hant": "關於統一LLMs和KGs的精彩論文"
+                }
             }
         },
         "Prompts": {
@@ -6879,6 +6928,39 @@
                     "ja": "Vercelによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。",
                     "zh-hans": "一个由Vercel构建的功能齐全、可修改的Next.js AI聊天机器人。",
                     "zh-hant": "一個由Vercel建立的功能齊全、可修改的Next.js AI聊天機器人。"
+                }
+            },
+            "https://github.com/anil-matcha/chatpdf": {
+                "repository_name": "ChatPDF",
+                "user_name": "Anil-matcha",
+                "language": "Python",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "chatpdf",
+                    "chatwithpdf",
+                    "gpt",
+                    "gpt4",
+                    "langchain",
+                    "openai",
+                    "pdf",
+                    "pdf-chat-bot",
+                    "pdfgpt",
+                    "pdftochatbot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.",
+                    "ja": "どんなPDFでもチャットできます。簡単にアップロードしてください。即座に回答します。質問をする、情報を抽出する、AIで文書を要約することができます。ソースも含まれています。",
+                    "zh-hans": "与任何PDF进行聊天。轻松上传您想要与之聊天的PDF文档。即时回答。使用人工智能提问、提取信息和总结文档。包含来源。",
+                    "zh-hant": "與任何PDF進行對話。輕鬆上傳您想要對話的PDF文件。即時回答。使用人工智能提問、提取信息並總結文件。包含來源。"
                 }
             }
         },
@@ -18456,6 +18538,67 @@
                     "ja": "私たちは、指示調整データ（例：CoTデータ）、複数のLLM、およびパラメータ効率の良い手法（例：lora、p-tuning）のインターフェースを統一し、簡単に使用できるようにしました。私たちはオープンソースの愛好家に、このリポジトリで意義のあるPRを開始し、できるだけ多くのLLM関連技術を統合することを歓迎します。",
                     "zh-hans": "我们统一了指令调优数据（例如CoT数据），多个LLM和参数高效方法（例如lora，p-tuning）的接口，以便于使用。我们欢迎开源爱好者在这个仓库上发起任何有意义的PR，并尽可能集成更多与LLM相关的技术。",
                     "zh-hant": "我們統一了指令調整數據（例如CoT數據）、多個LLM和參數高效方法（例如lora、p-tuning）的接口，以便易於使用。我們歡迎開源愛好者在這個存儲庫上發起任何有意義的PR，並集成盡可能多的LLM相關技術。"
+                }
+            },
+            "https://github.com/stulzq/azure-openai-proxy": {
+                "repository_name": "azure-openai-proxy",
+                "user_name": "stulzq",
+                "language": "Go",
+                "license": {
+                    "key": "apache-2.0",
+                    "name": "Apache License 2.0",
+                    "spdx_id": "Apache-2.0",
+                    "url": "https://api.github.com/licenses/apache-2.0",
+                    "node_id": "MDc6TGljZW5zZTI="
+                },
+                "description": "Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.",
+                "topics": [
+                    "azure",
+                    "azure-openai",
+                    "chatgpt",
+                    "gpt-4",
+                    "langchain",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.",
+                    "ja": "Azure OpenAIサービスプロキシ。OpenAI公式APIリクエストをAzure OpenAI APIリクエストに変換します。GPT-4、Embeddings、Langchainをサポートします。OpenAIからAzure OpenAIへのアダプター。",
+                    "zh-hans": "Azure OpenAI 服务代理。将 OpenAI 官方 API 请求转换为 Azure OpenAI API 请求。支持 GPT-4、嵌入、Langchain。从 OpenAI 适配到 Azure OpenAI。",
+                    "zh-hant": "Azure OpenAI 服務代理。將 OpenAI 官方 API 請求轉換為 Azure OpenAI API 請求。支援 GPT-4、嵌入式、Langchain。從 OpenAI 轉換為 Azure OpenAI 的適配器。"
+                }
+            },
+            "https://github.com/mattzcarey/code-review-gpt": {
+                "repository_name": "code-review-gpt",
+                "user_name": "mattzcarey",
+                "language": "TypeScript",
+                "license": {
+                    "key": "mit",
+                    "name": "MIT License",
+                    "spdx_id": "MIT",
+                    "url": "https://api.github.com/licenses/mit",
+                    "node_id": "MDc6TGljZW5zZTEz"
+                },
+                "description": "Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4, Llama2, Azure AI) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀",
+                "topics": [
+                    "chatgpt",
+                    "code-analysis",
+                    "code-quality",
+                    "code-review",
+                    "gpt-3",
+                    "gpt4",
+                    "huggingface",
+                    "langchain",
+                    "langchain-typescript",
+                    "llm",
+                    "llms",
+                    "openai",
+                    "opensource"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4, Llama2, Azure AI) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀",
+                    "ja": "LLMs（OpenAI GPT-3.5/4、Llama2、Azure AI）と埋め込みを活用した個人用コードレビューアー ⚡️ コードの品質を向上させ、本番環境でのバグを発生させる前にキャッチする 🚀",
+                    "zh-hans": "您的个人代码审查员由LLMs（OpenAI GPT-3.5/4，Llama2，Azure AI）和嵌入式技术提供支持⚡️ 提高代码质量，在您破坏生产之前捕捉错误🚀",
+                    "zh-hant": "您的個人代碼審查員，由LLMs（OpenAI GPT-3.5/4，Llama2，Azure AI）和嵌入式技術提供支持⚡️ 提升代碼質量，在破壞生產之前捕捉錯誤🚀"
                 }
             }
         },
