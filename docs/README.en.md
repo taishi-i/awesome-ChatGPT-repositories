@@ -23,7 +23,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 **Chatbots**
  * [ChatPDF](https://github.com/anil-matcha/chatpdf) - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
-
+ * [OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An open source platform for building chatbot using the OpenAI API Assistant. 🚀
 
 **Langchain**
  * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
@@ -359,7 +359,7 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
  * [ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
  * [ChatPDF](https://github.com/anil-matcha/chatpdf) - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
-
+ * [OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT) - An open source platform for building chatbot using the OpenAI API Assistant. 🚀
 
 ## Browser-extensions
 
