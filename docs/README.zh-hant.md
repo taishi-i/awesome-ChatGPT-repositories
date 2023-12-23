@@ -5,7 +5,6 @@
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 關於 [ChatGPT](https://openai.com/blog/chatgpt) 的公開 GitHub 資料庫的資源.
-此清單是建立在 5000+ 抽取資料庫的基礎上,在進行六個月的 Twitter 趨勢分析後. 此外,清單的內容每週都自動更新.
 搜尋這些資料庫的[工具](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md)可在 Hugging Face Spaces 上找到.
 
 歡迎您的貢獻！請在貢獻之前閱讀[指南](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
@@ -16,20 +15,44 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - 必須有資源, 任何想要嘗試和建立 OpenAI 視野 API 的人都必須有
- * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - 關於統一LLM和KG的好文獻
+ * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 輸入：令人驚嘆的AI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、提示、插件、提示洩漏
+
+
+**Prompts**
+ * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 輸入：針對大型多模態模型（如GPT-4 Vision、LLaVA或CogVLM）的有效提示。🔥
+輸出：
 
 
 **Chatbots**
- * [ChatPDF](https://github.com/anil-matcha/chatpdf) - 聊天與任何PDF. 輕鬆上傳您想要聊天的PDF文檔. 即時解答. 詢問問題,提取資訊,並用AI總結文檔. 資料源包含.
+ * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - 一個使用OpenAI API助手建立聊天機器人的開源平台。
+ * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria 是由 GPT 大型語言模型提供支援的 AI 研究助手
+
+
+**CLIs**
+ * [gptel](https://github.com/karthink/gptel) - 一個簡單的Emacs LLM客戶端
+ * [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - 一個非官方的DotNet OpenAI RESTful API客戶端
+
+
+**NLP**
+ * [chameleon-llm](https://github.com/lupantech/chameleon-llm) - 請將以下內容翻譯成繁體中文。
+輸入：《Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models》的代碼。
+輸出：
+ * [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - 華陀GPT，朝著培養語言模型成為醫生的方向前進。（一個開放的醫學GPT）
+ * [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) - 一個包含DB-GPT模型、數據集和微調技術的存儲庫，旨在提高文本到SQL的模型性能。
 
 
 **Langchain**
- * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - 支持GPT-4,嵌入,長鎖. 適應器從OpenAI轉換為Azure OpenAI.
- * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - 您的個人代碼審核器由LLM (OpenAI GPT-3.5/4,Llama2,Azure AI) 和嵌入式功能支持️在停止生產之前,
+ * [GPTRouter](https://github.com/writesonic/gptrouter) - 順利管理多個LLM（OpenAI，Anthropic，Azure）和圖像模型（Dall-E，SDXL），加快回應速度，確保不間斷的可靠性。
 
 
-_Updated on December 20, 2023_ (A total of 1279 repositories listed.)
+**Others**
+ * [gpt-crawler](https://github.com/builderio/gpt-crawler) - 輸入：爬取網站以生成知識文件，從URL創建自己的定制GPT
+輸出：
+ * [vimGPT](https://github.com/ishan0102/vimgpt) - 使用GPT-4V和Vimium瀏覽網頁
+ * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent（開源版GPTs）：一個連接ModelScope中的模型與世界的代理框架。
+
+
+_Updated on December 24, 2023_ (A total of 1293 repositories listed.)
 
 ## Table of contents
 
@@ -90,6 +113,7 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 一個排名的優秀機器學習Python函式庫清單。每週更新。
  * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - 必備資源，適合任何想要嘗試和建立OpenAI視覺API的人使用🔥
  * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - 關於統一LLMs和KGs的精彩論文
+ * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 輸入：令人驚嘆的AI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、提示、插件、提示洩漏
 
 
 ## Prompts
@@ -188,6 +212,8 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 這個寫作提示清單涵蓋了各種主題和任務，包括頭腦風暴研究想法、改進語言和風格、進行文獻回顧以及制定研究計劃。
  * [self-refine](https://github.com/madaan/self-refine) - LLMs 可以對他們的工作產生反饋，利用它來改善輸出，並重複這個過程。
  * [GPTs](https://github.com/linexjlin/gpts) - 洩漏的GPT提示
+ * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 輸入：針對大型多模態模型（如GPT-4 Vision、LLaVA或CogVLM）的有效提示。🔥
+輸出：
 
 
 ## Chatbots
@@ -358,6 +384,8 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [casibase](https://github.com/casibase/casibase) - ⚡️具有Web UI和企業SSO的開源LangChain類似的AI知識數據庫⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理員門戶演示：https://ai.casibase.com
  * [ai-chatbot](https://github.com/vercel/ai-chatbot) - 一個由Vercel建立的功能齊全、可修改的Next.js AI聊天機器人。
  * [ChatPDF](https://github.com/anil-matcha/chatpdf) - 與任何PDF進行對話。輕鬆上傳您想要對話的PDF文件。即時回答。使用人工智能提問、提取信息並總結文件。包含來源。
+ * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - 一個使用OpenAI API助手建立聊天機器人的開源平台。
+ * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria 是由 GPT 大型語言模型提供支援的 AI 研究助手
 
 
 ## Browser-extensions
@@ -582,7 +610,6 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - 🎨 一鍵擁有你自己的 ChatGPT+Midjourney 網頁服務
  * [termGPT](https://github.com/tcapelle/termgpt) - 一個簡單的Python封裝程式，可在終端上調用openAI的chatGPT。
  * [Chat2DB](https://github.com/alibaba/chat2db) - 🔥 🔥 🔥 一個智能且多功能的通用SQL客戶端和報表工具，可整合ChatGPT功能。
- * [chatgpt.js](https://github.com/kudoai/chatgpt.js) - 🤖 ChatGPT 的強大客戶端 JavaScript 函式庫
  * [llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox 是一個多功能的命令行界面（CLI）工具集，利用人工智能執行各種任務，包括校對、識別適當的 shell 命令、生成自動提交訊息等等。
  * [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - 🤖 ChatGPT 的強大客戶端 JavaScript 函式庫。
  * [Clippy](https://github.com/firecubestudios/clippy) - Clippy由FireCube提供。
@@ -615,6 +642,8 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [openai-kotlin](https://github.com/aallam/openai-kotlin) - 具有多平台和協程功能的 Kotlin OpenAI API 客戶端。
  * [sqlchat](https://github.com/sqlchat/sqlchat) - 基於聊天的SQL客戶端和編輯器，為未來十年打造的工具
  * [ShellGPT](https://github.com/akl7777777/shellgpt) - **ShellGPT是一個免費的chatgpt客戶端，現在支援在線搜索，無需密鑰，無需登錄。多節點自動速度測量切換，無字數限制的長文翻譯，AI圖形。**
+ * [gptel](https://github.com/karthink/gptel) - 一個簡單的Emacs LLM客戶端
+ * [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - 一個非官方的DotNet OpenAI RESTful API客戶端
 
 
 ## Reimplementations
@@ -838,6 +867,11 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - 從A到Z的數據科學路線圖
  * [deepeval](https://github.com/confident-ai/deepeval) - LLM（碩士學位法學）評估框架
  * [inference](https://github.com/xorbitsai/inference) - 只需更改一行程式碼，將OpenAI GPT替換為另一個LLM。Xinference讓您可以自由使用任何您需要的LLM。憑藉Xinference，您可以在雲端、本地甚至筆記型電腦上運行推論，使用任何開源語言模型、語音識別模型和多模態模型。
+ * [chameleon-llm](https://github.com/lupantech/chameleon-llm) - 請將以下內容翻譯成繁體中文。
+輸入：《Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models》的代碼。
+輸出：
+ * [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - 華陀GPT，朝著培養語言模型成為醫生的方向前進。（一個開放的醫學GPT）
+ * [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) - 一個包含DB-GPT模型、數據集和微調技術的存儲庫，旨在提高文本到SQL的模型性能。
 
 
 ## Langchain
@@ -914,6 +948,7 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - 我們統一了指令調整數據（例如CoT數據）、多個LLM和參數高效方法（例如lora、p-tuning）的接口，以便易於使用。我們歡迎開源愛好者在這個存儲庫上發起任何有意義的PR，並集成盡可能多的LLM相關技術。
  * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI 服務代理。將 OpenAI 官方 API 請求轉換為 Azure OpenAI API 請求。支援 GPT-4、嵌入式、Langchain。從 OpenAI 轉換為 Azure OpenAI 的適配器。
  * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - 您的個人代碼審查員，由LLMs（OpenAI GPT-3.5/4，Llama2，Azure AI）和嵌入式技術提供支持⚡️ 提升代碼質量，在破壞生產之前捕捉錯誤🚀
+ * [GPTRouter](https://github.com/writesonic/gptrouter) - 順利管理多個LLM（OpenAI，Anthropic，Azure）和圖像模型（Dall-E，SDXL），加快回應速度，確保不間斷的可靠性。
 
 
 ## Unity
@@ -932,7 +967,7 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
 
 ## Openai
 
- * [Auto-GPT](https://github.com/torantulino/auto-gpt) - 一個實驗性的開源嘗試，旨在使GPT-4完全自主。
+ * [Auto-GPT](https://github.com/torantulino/auto-gpt) - 高級遊戲工程項目 - 立方體像素遊戲製作器
  * [BlenderGPT](https://github.com/gd3kr/blendergpt) - 使用英文命令，利用OpenAI的GPT-4控制Blender。
  * [evals](https://github.com/openai/evals) - Evals 是一個評估 OpenAI 模型的框架，也是一個開源的基準測試庫。
  * [VulChatGPT](https://github.com/ke0z/vulchatgpt) - 使用IDA PRO HexRays反編譯器與OpenAI(ChatGPT)來尋找二進制文件中可能存在的漏洞。
@@ -1075,7 +1110,7 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [EdgeGPT](https://github.com/acheong08/edgegpt) - 微軟必應聊天機器人API的反向工程
  * [chatGPT-python-elm](https://github.com/vrescobar/chatgpt-python-elm) - 一個由ChatGPT完全生成的存儲庫，使人們相信它已經檢查出了我在README的第一行所描述的這個存儲庫。
  * [Sekiryu](https://github.com/20urc3/sekiryu) - 使用您喜愛的反編譯器和 ChatGPT 自動反編譯和分析二進制文件。
- * [xiaogpt](https://github.com/yihong0618/xiaogpt) - 使用小米AI音箱玩ChatGPT
+ * [xiaogpt](https://github.com/yihong0618/xiaogpt) - bilibili後台源碼
  * [gpt-wpre](https://github.com/moyix/gpt-wpre) - 使用GPT-3進行整個程式的逆向工程
  * [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作專用ChatGPT拓展，特別優化學術Paper潤色體驗，支持自定義快捷按鈕，支持markdown表格顯示，Tex公式雙顯示，代碼顯示功能完善，新增本地Python工程剖析功能/自我剖析功能。
  * [chatgpt-api](https://github.com/taranjeet/chatgpt-api) - 這個存儲庫包含解析各種網站的代碼。
@@ -1383,5 +1418,9 @@ _Updated on December 20, 2023_ (A total of 1279 repositories listed.)
  * [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - 一個設計精良的跨平台 ChatGPT 用戶界面（Web / PWA / Linux / Win / MacOS）。
  * [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - 基於ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，進行下游具體任務微調，涉及Freeze、Lora、P-tuning、全參微調等。
  * [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - 一個設計精良的跨平台 ChatGPT 用戶界面（Web / PWA / Linux / Win / MacOS）。
+ * [gpt-crawler](https://github.com/builderio/gpt-crawler) - 輸入：爬取網站以生成知識文件，從URL創建自己的定制GPT
+輸出：
+ * [vimGPT](https://github.com/ishan0102/vimgpt) - 使用GPT-4V和Vimium瀏覽網頁
+ * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent（開源版GPTs）：一個連接ModelScope中的模型與世界的代理框架。
 
 

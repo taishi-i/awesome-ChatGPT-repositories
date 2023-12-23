@@ -1046,6 +1046,29 @@
                     "zh-hans": "关于统一LLMs和KGs的精彩论文",
                     "zh-hant": "關於統一LLMs和KGs的精彩論文"
                 }
+            },
+            "https://github.com/embraceagi/awesome-ai-gpts": {
+                "repository_name": "Awesome-AI-GPTs",
+                "user_name": "EmbraceAGI",
+                "language": null,
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking",
+                "topics": [
+                    "aigpts",
+                    "bots",
+                    "chatbot",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpts",
+                    "openai",
+                    "prompts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking",
+                    "ja": "入力：素晴らしいAI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、プロンプト、プラグイン、プロンプトの漏洩",
+                    "zh-hans": "输入：令人惊叹的AI GPT，OpenAI GPT，GPT-4，ChatGPT，GPT，提示，插件，提示泄漏",
+                    "zh-hant": "輸入：令人驚嘆的AI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、提示、插件、提示洩漏"
+                }
             }
         },
         "Prompts": {
@@ -3058,6 +3081,33 @@
                     "ja": "GPTの漏洩したプロンプト",
                     "zh-hans": "泄露的GPT提示",
                     "zh-hant": "洩漏的GPT提示"
+                }
+            },
+            "https://github.com/roboflow/multimodal-maestro": {
+                "repository_name": "multimodal-maestro",
+                "user_name": "roboflow",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Effective prompting for Large Multimodal Models like GPT-4 Vision, LLaVA or CogVLM. 🔥",
+                "topics": [
+                    "cross-modal",
+                    "gpt-4",
+                    "gpt-4-vision",
+                    "instance-segmentation",
+                    "llava",
+                    "lmm",
+                    "multimodality",
+                    "object-detection",
+                    "prompt-engineering",
+                    "segment-anything",
+                    "vision-language-model",
+                    "visual-prompting"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Effective prompting for Large Multimodal Models like GPT-4 Vision, LLaVA or CogVLM. 🔥",
+                    "ja": "大規模なマルチモーダルモデル（GPT-4 Vision、LLaVA、CogVLMなど）に対する効果的なプロンプティング。🔥",
+                    "zh-hans": "输入：对于大型多模型模型（如GPT-4 Vision，LLaVA或CogVLM）的有效提示。🔥\n输出：有效提示适用于大型多模型模型，如GPT-4 Vision，LLaVA或CogVLM。🔥",
+                    "zh-hant": "輸入：針對大型多模態模型（如GPT-4 Vision、LLaVA或CogVLM）的有效提示。🔥\n輸出："
                 }
             }
         },
@@ -6961,6 +7011,57 @@
                     "ja": "どんなPDFでもチャットできます。簡単にアップロードしてください。即座に回答します。質問をする、情報を抽出する、AIで文書を要約することができます。ソースも含まれています。",
                     "zh-hans": "与任何PDF进行聊天。轻松上传您想要与之聊天的PDF文档。即时回答。使用人工智能提问、提取信息和总结文档。包含来源。",
                     "zh-hant": "與任何PDF進行對話。輕鬆上傳您想要對話的PDF文件。即時回答。使用人工智能提問、提取信息並總結文件。包含來源。"
+                }
+            },
+            "https://github.com/marcolivierbouch/openassistantgpt": {
+                "repository_name": "OpenAssistantGPT",
+                "user_name": "marcolivierbouch",
+                "language": "TypeScript",
+                "license": "GNU General Public License v2.0",
+                "description": "An open source platform for building chatbot using the OpenAI API Assistant.",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "artificial-neural-networks",
+                    "assistant",
+                    "assistant-app",
+                    "assistant-chat-bots",
+                    "chat-application",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "customgpt",
+                    "js",
+                    "openaai",
+                    "openai-api",
+                    "support",
+                    "web"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open source platform for building chatbot using the OpenAI API Assistant.",
+                    "ja": "OpenAI APIアシスタントを使用してチャットボットを構築するためのオープンソースプラットフォーム。",
+                    "zh-hans": "一个使用OpenAI API助手构建聊天机器人的开源平台。",
+                    "zh-hant": "一個使用OpenAI API助手建立聊天機器人的開源平台。"
+                }
+            },
+            "https://github.com/lifan0127/ai-research-assistant": {
+                "repository_name": "ai-research-assistant",
+                "user_name": "lifan0127",
+                "language": "JavaScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Aria is Your AI Research Assistant Powered by GPT Large Language Models",
+                "topics": [
+                    "ai-assistant",
+                    "gpt",
+                    "large-language-models",
+                    "research-paper",
+                    "zotero"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Aria is Your AI Research Assistant Powered by GPT Large Language Models",
+                    "ja": "アリアは、GPT大規模言語モデルによってパワードされたあなたのAI研究アシスタントです。",
+                    "zh-hans": "Aria是由GPT大型语言模型驱动的AI研究助手。",
+                    "zh-hant": "Aria 是由 GPT 大型語言模型提供支援的 AI 研究助手"
                 }
             }
         },
@@ -12513,6 +12614,59 @@
                     "zh-hans": "**ShellGPT是一个免费的chatgpt客户端，现在支持在线搜索，无需密钥，无需登录。多节点自动测速切换，长文翻译没有字数限制，AI出图。**",
                     "zh-hant": "**ShellGPT是一個免費的chatgpt客戶端，現在支援在線搜索，無需密鑰，無需登錄。多節點自動速度測量切換，無字數限制的長文翻譯，AI圖形。**"
                 }
+            },
+            "https://github.com/karthink/gptel": {
+                "repository_name": "gptel",
+                "user_name": "karthink",
+                "language": "Emacs Lisp",
+                "license": "GNU General Public License v3.0",
+                "description": "A simple LLM client for Emacs",
+                "topics": [
+                    "chatgpt",
+                    "emacs",
+                    "llms",
+                    "org-mode"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Un client LLM simple pour Emacs",
+                    "ja": "シンプルなEmacs用のLLMクライアント",
+                    "zh-hans": "一个简单的Emacs LLM客户端",
+                    "zh-hant": "一個簡單的Emacs LLM客戶端"
+                }
+            },
+            "https://github.com/rageagainstthepixel/openai-dotnet": {
+                "repository_name": "OpenAI-DotNet",
+                "user_name": "RageAgainstThePixel",
+                "language": "C#",
+                "license": "Other",
+                "description": "A Non-Official OpenAI RESTful API Client for DotNet",
+                "topics": [
+                    "ai",
+                    "api-proxy",
+                    "chat-gpt",
+                    "chatgpt",
+                    "csharp",
+                    "dall-e",
+                    "dall-e-3",
+                    "dotnet",
+                    "dotnet-core",
+                    "dotnet-standard",
+                    "dotnetcore",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "gpt-turbo",
+                    "machine-learning",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Non-Official OpenAI RESTful API Client for DotNet",
+                    "ja": "非公式のOpenAI RESTful APIクライアント（DotNet用）",
+                    "zh-hans": "一个非官方的DotNet OpenAI RESTful API客户端",
+                    "zh-hant": "一個非官方的DotNet OpenAI RESTful API客戶端"
+                }
             }
         },
         "Reimplementations": {
@@ -16915,6 +17069,66 @@
                     "zh-hans": "通过改变一行代码，将OpenAI GPT替换为另一个LLM。Xinference让您可以自由使用任何您需要的LLM。使用Xinference，您可以在云端、本地甚至笔记本电脑上运行推理，无论是开源语言模型、语音识别模型还是多模态模型。",
                     "zh-hant": "只需更改一行程式碼，將OpenAI GPT替換為另一個LLM。Xinference讓您可以自由使用任何您需要的LLM。憑藉Xinference，您可以在雲端、本地甚至筆記型電腦上運行推論，使用任何開源語言模型、語音識別模型和多模態模型。"
                 }
+            },
+            "https://github.com/lupantech/chameleon-llm": {
+                "repository_name": "chameleon-llm",
+                "user_name": "lupantech",
+                "language": "Jupyter Notebook",
+                "license": "Apache License 2.0",
+                "description": "Codes for \"Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models\".",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt-4",
+                    "llm",
+                    "openai",
+                    "python",
+                    "tool"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Codes for \"Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models\".",
+                    "ja": "「カメレオン：大規模言語モデルを用いたプラグアンドプレイの構成的推論のためのコード」",
+                    "zh-hans": "《变色龙：与大型语言模型进行即插即用的组合推理的代码》",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。\n輸入：《Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models》的代碼。\n輸出："
+                }
+            },
+            "https://github.com/freedomintelligence/huatuogpt": {
+                "repository_name": "HuatuoGPT",
+                "user_name": "FreedomIntelligence",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)",
+                    "ja": "入力：華陀GPT、医者になるための言語モデルの飼いならしに向けて。（オープンな医療GPT）\n出力：華陀GPT、医者になるための言語モデルの飼いならしに向けて。（オープンな医療GPT）",
+                    "zh-hans": "华佗GPT，朝着驯服语言模型成为医生迈进。（一个开放的医学GPT）",
+                    "zh-hant": "華陀GPT，朝著培養語言模型成為醫生的方向前進。（一個開放的醫學GPT）"
+                }
+            },
+            "https://github.com/eosphoros-ai/db-gpt-hub": {
+                "repository_name": "DB-GPT-Hub",
+                "user_name": "eosphoros-ai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL",
+                "topics": [
+                    "database",
+                    "datasets",
+                    "fine-tuning",
+                    "gpt",
+                    "llm",
+                    "nl2sql",
+                    "sql",
+                    "text-to-sql",
+                    "text2sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL",
+                    "ja": "目的は、Text-to-SQLにおけるモデルのパフォーマンスを向上させるためのDB-GPTのモデル、データセット、ファインチューニング技術を含むリポジトリです。",
+                    "zh-hans": "一个包含DB-GPT模型、数据集和微调技术的存储库，旨在提高文本到SQL的模型性能。",
+                    "zh-hant": "一個包含DB-GPT模型、數據集和微調技術的存儲庫，旨在提高文本到SQL的模型性能。"
+                }
             }
         },
         "Langchain": {
@@ -18599,6 +18813,33 @@
                     "ja": "LLMs（OpenAI GPT-3.5/4、Llama2、Azure AI）と埋め込みを活用した個人用コードレビューアー ⚡️ コードの品質を向上させ、本番環境でのバグを発生させる前にキャッチする 🚀",
                     "zh-hans": "您的个人代码审查员由LLMs（OpenAI GPT-3.5/4，Llama2，Azure AI）和嵌入式技术提供支持⚡️ 提高代码质量，在您破坏生产之前捕捉错误🚀",
                     "zh-hant": "您的個人代碼審查員，由LLMs（OpenAI GPT-3.5/4，Llama2，Azure AI）和嵌入式技術提供支持⚡️ 提升代碼質量，在破壞生產之前捕捉錯誤🚀"
+                }
+            },
+            "https://github.com/writesonic/gptrouter": {
+                "repository_name": "GPTRouter",
+                "user_name": "Writesonic",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability.",
+                "topics": [
+                    "anthropic",
+                    "azure-openai",
+                    "cohere",
+                    "google-gemini",
+                    "langchain",
+                    "llama-index",
+                    "llm",
+                    "llmops",
+                    "llms",
+                    "mlops",
+                    "openai",
+                    "palm-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability.",
+                    "ja": "複数のLLM（OpenAI、Anthropic、Azure）と画像モデル（Dall-E、SDXL）をスムーズに管理し、応答速度を向上させ、中断のない信頼性を確保します。",
+                    "zh-hans": "流畅管理多个LLM（OpenAI，Anthropic，Azure）和图像模型（Dall-E，SDXL），加快响应速度，并确保持续可靠性。",
+                    "zh-hant": "順利管理多個LLM（OpenAI，Anthropic，Azure）和圖像模型（Dall-E，SDXL），加快回應速度，確保不間斷的可靠性。"
                 }
             }
         },
@@ -27617,6 +27858,51 @@
                     "ja": "使いやすく設計されたクロスプラットフォームのChatGPT UI（Web / PWA / Linux / Win / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。",
                     "zh-hans": "一个设计精良的跨平台 ChatGPT 用户界面（Web / PWA / Linux / Win / MacOS）。",
                     "zh-hant": "一個設計精良的跨平台 ChatGPT 用戶界面（Web / PWA / Linux / Win / MacOS）。"
+                }
+            },
+            "https://github.com/builderio/gpt-crawler": {
+                "repository_name": "gpt-crawler",
+                "user_name": "BuilderIO",
+                "language": "TypeScript",
+                "license": "ISC License",
+                "description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+                    "ja": "URLから独自のカスタムGPTを作成するための知識ファイルを生成するために、サイトをクロールします。",
+                    "zh-hans": "从一个URL中爬取网站以生成知识文件，从而创建自己定制的GPT。",
+                    "zh-hant": "輸入：爬取網站以生成知識文件，從URL創建自己的定制GPT\n輸出："
+                }
+            },
+            "https://github.com/ishan0102/vimgpt": {
+                "repository_name": "vimGPT",
+                "user_name": "ishan0102",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Browse the web with GPT-4V and Vimium",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Browse the web with GPT-4V and Vimium",
+                    "ja": "GPT-4VとVimiumを使用してウェブを閲覧してください。",
+                    "zh-hans": "使用GPT-4V和Vimium浏览网页",
+                    "zh-hant": "使用GPT-4V和Vimium瀏覽網頁"
+                }
+            },
+            "https://github.com/modelscope/modelscope-agent": {
+                "repository_name": "modelscope-agent",
+                "user_name": "modelscope",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "ModelScope-Agent(开源版GPTs): An agent framework connecting models in ModelScope with the world",
+                "topics": [
+                    "agent",
+                    "gpts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ModelScope-Agent(开源版GPTs): An agent framework connecting models in ModelScope with the world",
+                    "ja": "ModelScope-Agent（オープンソース版GPTs）：ModelScope内のモデルと世界をつなぐエージェントフレームワーク",
+                    "zh-hans": "ModelScope-Agent（开源版GPTs）：一个将ModelScope中的模型与世界连接起来的代理框架。",
+                    "zh-hant": "ModelScope-Agent（開源版GPTs）：一個連接ModelScope中的模型與世界的代理框架。"
                 }
             }
         }
