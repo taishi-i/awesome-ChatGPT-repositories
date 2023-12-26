@@ -7063,6 +7063,29 @@
                     "zh-hans": "Aria是由GPT大型语言模型驱动的AI研究助手。",
                     "zh-hant": "Aria 是由 GPT 大型語言模型提供支援的 AI 研究助手"
                 }
+            },
+            "https://github.com/mylxsw/aidea": {
+                "repository_name": "aidea",
+                "user_name": "mylxsw",
+                "language": "Dart",
+                "license": "MIT License",
+                "description": "AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "flutter",
+                    "gpt",
+                    "gpt-4",
+                    "stable-diffusion",
+                    "tongyiqianwen",
+                    "wenxinyiyan"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AIdea is a versatile app that supports GPT and domestic large language models such as Tongyi Qianwen and Wenxin Yiyuan. It also supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and image coloring.",
+                    "ja": "AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。",
+                    "zh-hans": "AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。",
+                    "zh-hant": "AIdea 是一款支持 GPT 以及國產大語言模型通義千問、文心一言等，支持 Stable Diffusion 文生圖、圖生圖、 SDXL1.0、超分辨率、圖片上色的全能型 APP。"
+                }
             }
         },
         "Browser-extensions": {
@@ -17129,6 +17152,80 @@
                     "zh-hans": "一个包含DB-GPT模型、数据集和微调技术的存储库，旨在提高文本到SQL的模型性能。",
                     "zh-hant": "一個包含DB-GPT模型、數據集和微調技術的存儲庫，旨在提高文本到SQL的模型性能。"
                 }
+            },
+            "https://github.com/mylxsw/aidea-server": {
+                "repository_name": "aidea-server",
+                "user_name": "mylxsw",
+                "language": "Go",
+                "license": null,
+                "description": "AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt",
+                    "llm",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AIdea is a versatile app that supports GPT and domestic large language models such as Tongyi Qianwen and Wenxin Yiyuan. It also supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and image coloring.",
+                    "ja": "AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。",
+                    "zh-hans": "AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。",
+                    "zh-hant": "AIdea 是一款支持 GPT 以及國產大語言模型通義千問、文心一言等，支持 Stable Diffusion 文生圖、圖生圖、 SDXL1.0、超分辨率、圖片上色的全能型 APP。"
+                }
+            },
+            "https://github.com/bbycroft/llm-viz": {
+                "repository_name": "llm-viz",
+                "user_name": "bbycroft",
+                "language": "TypeScript",
+                "license": null,
+                "description": "3D Visualization of an GPT-style LLM",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "3D Visualization of an GPT-style LLM",
+                    "ja": "GPTスタイルのLLMの3Dビジュアライゼーション",
+                    "zh-hans": "3D可视化的GPT风格LLM",
+                    "zh-hant": "3D 可視化的 GPT 風格 LLM"
+                }
+            },
+            "https://github.com/mnotgod96/appagent": {
+                "repository_name": "AppAgent",
+                "user_name": "mnotgod96",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
+                "topics": [
+                    "agent",
+                    "chatgpt",
+                    "generative-ai",
+                    "gpt4",
+                    "gpt4v",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
+                    "ja": "アプリエージェント：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。",
+                    "zh-hans": "AppAgent：多模态代理作为智能手机用户，是一个基于LLM的多模态代理框架，旨在操作智能手机应用程序。",
+                    "zh-hant": "AppAgent：多模態代理作為智能手機用戶，一個基於LLM的多模態代理框架，旨在操作智能手機應用程序。"
+                }
+            },
+            "https://github.com/thudm/agentbench": {
+                "repository_name": "AgentBench",
+                "user_name": "THUDM",
+                "language": "Python",
+                "license": null,
+                "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents",
+                "topics": [
+                    "chatgpt",
+                    "gpt-4",
+                    "llm",
+                    "llm-agent"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Comprehensive Benchmark to Evaluate LLMs as Agents",
+                    "ja": "エージェントとしてのLLMを評価するための包括的なベンチマーク",
+                    "zh-hans": "一个全面的基准来评估LLMs作为代理人",
+                    "zh-hant": "一個全面的基準來評估LLMs作為代理人"
+                }
             }
         },
         "Langchain": {
@@ -21790,6 +21887,62 @@
                     "ja": "OpenAI GPT-3 APIにアクセスするための非公式なC#/.NET SDK",
                     "zh-hans": "一个非官方的C#/.NET SDK，用于访问OpenAI GPT-3 API。",
                     "zh-hant": "一個非官方的C#/.NET SDK，用於訪問OpenAI GPT-3 API"
+                }
+            },
+            "https://github.com/chatpire/chatgpt-web-share": {
+                "repository_name": "chatgpt-web-share",
+                "user_name": "chatpire",
+                "language": "Vue",
+                "license": "GNU General Public License v3.0",
+                "description": "ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-app",
+                    "fastapi",
+                    "gpt-4",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.",
+                    "ja": "入力：ChatGPT Plus 共有プラン。ChatGPT Plus / OpenAI API 共有ソリューション。\n出力：",
+                    "zh-hans": "ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API 共享解决方案。",
+                    "zh-hant": "ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API 共享解決方案。"
+                }
+            },
+            "https://github.com/202252197/chatgpt_jcm": {
+                "repository_name": "ChatGPT_JCM",
+                "user_name": "202252197",
+                "language": "Vue",
+                "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "description": "OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI management interface, aggregates all OpenAI interfaces for interface operations (all models, images, audio, fine-tuning, files, etc.), supports Markdown format (formulas, charts, tables, etc.), and will gradually integrate OpenAI interfaces for everyone's support. Please click the Star in the upper right corner, and I will keep updating it. Let's learn, work hard, and grow together.",
+                    "ja": "入力：OpenAI管理インターフェースは、OpenAIのすべてのインターフェース（モデル、画像、音声、ファインチューニング、ファイルなど）を集約し、操作することができます。Markdown形式（数式、グラフ、表など）もサポートしており、今後はOpenAIのインターフェースを少しずつ追加していきますので、皆さんのサポートをお願いします。右上のスターをクリックしていただけると嬉しいです。私はずっと更新し続けますので、一緒に学び、一緒に頑張り、一緒に成長しましょう。",
+                    "zh-hans": "OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点地将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。",
+                    "zh-hant": "OpenAI管理界面，聚合了OpenAI的所有接口進行界面操作(所有模型、圖片、音頻、微調、文件)等，支持Markdown格式(公式、圖表，表格)等，後期會一點一點的將OpenAI接口進行接入大家支持一下，右上角點個Star，我會一直更新下去，大家一起學習，一起加油，一起努力，一起成長。"
+                }
+            },
+            "https://github.com/gofireflyio/aiac": {
+                "repository_name": "aiac",
+                "user_name": "gofireflyio",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "Artificial Intelligence Infrastructure-as-Code Generator.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "iac",
+                    "openai",
+                    "pulumi",
+                    "terraform"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Artificial Intelligence Infrastructure-as-Code Generator.",
+                    "ja": "入力：人工知能インフラストラクチャのコード生成ツール。\n出力：",
+                    "zh-hans": "人工智能基础设施即代码生成器。",
+                    "zh-hant": "人工智慧基礎設施即代碼生成器。"
                 }
             }
         },

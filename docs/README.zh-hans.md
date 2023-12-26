@@ -14,42 +14,24 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 输入：令人惊叹的AI GPT，OpenAI GPT，GPT-4，ChatGPT，GPT，提示，插件，提示泄漏
-
-
-**Prompts**
- * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 输入：对于大型多模型模型（如GPT-4 Vision，LLaVA或CogVLM）的有效提示。🔥
-输出：有效提示适用于大型多模型模型，如GPT-4 Vision，LLaVA或CogVLM。🔥
-
-
 **Chatbots**
- * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - 一个使用OpenAI API助手构建聊天机器人的开源平台。
- * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria是由GPT大型语言模型驱动的AI研究助手。
-
-
-**CLIs**
- * [gptel](https://github.com/karthink/gptel) - 一个简单的Emacs LLM客户端
- * [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - 一个非官方的DotNet OpenAI RESTful API客户端
+ * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 
 
 **NLP**
- * [chameleon-llm](https://github.com/lupantech/chameleon-llm) - 《变色龙：与大型语言模型进行即插即用的组合推理的代码》
- * [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - 华佗GPT，朝着驯服语言模型成为医生迈进。（一个开放的医学GPT）
- * [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) - 一个包含DB-GPT模型、数据集和微调技术的存储库，旨在提高文本到SQL的模型性能。
+ * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+ * [llm-viz](https://github.com/bbycroft/llm-viz) - 3D可视化的GPT风格LLM
+ * [AppAgent](https://github.com/mnotgod96/appagent) - AppAgent：多模态代理作为智能手机用户，是一个基于LLM的多模态代理框架，旨在操作智能手机应用程序。
+ * [AgentBench](https://github.com/thudm/agentbench) - 一个全面的基准来评估LLMs作为代理人
 
 
-**Langchain**
- * [GPTRouter](https://github.com/writesonic/gptrouter) - 流畅管理多个LLM（OpenAI，Anthropic，Azure）和图像模型（Dall-E，SDXL），加快响应速度，并确保持续可靠性。
+**Openai**
+ * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API 共享解决方案。
+ * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点地将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+ * [aiac](https://github.com/gofireflyio/aiac) - 人工智能基础设施即代码生成器。
 
 
-**Others**
- * [gpt-crawler](https://github.com/builderio/gpt-crawler) - 从一个URL中爬取网站以生成知识文件，从而创建自己定制的GPT。
- * [vimGPT](https://github.com/ishan0102/vimgpt) - 使用GPT-4V和Vimium浏览网页
- * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent（开源版GPTs）：一个将ModelScope中的模型与世界连接起来的代理框架。
-
-
-_Updated on December 24, 2023_ (A total of 1293 repositories listed.)
+_Updated on December 27, 2023_ (A total of 1299 repositories listed.)
 
 ## Table of contents
 
@@ -209,8 +191,7 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 这个写作提示列表涵盖了各种主题和任务，包括头脑风暴研究想法，改善语言和风格，进行文献综述，以及制定研究计划。
  * [self-refine](https://github.com/madaan/self-refine) - LLMs可以对他们的工作产生反馈，利用它来改进输出，并反复进行这个过程。
  * [GPTs](https://github.com/linexjlin/gpts) - 泄露的GPT提示
- * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 输入：对于大型多模型模型（如GPT-4 Vision，LLaVA或CogVLM）的有效提示。🔥
-输出：有效提示适用于大型多模型模型，如GPT-4 Vision，LLaVA或CogVLM。🔥
+ * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 输入：对于大型多模型模型（如GPT-4 Vision，LLaVA或CogVLM）的有效提示。🔥输出：有效提示适用于大型多模型模型，如GPT-4 Vision，LLaVA或CogVLM。🔥
 
 
 ## Chatbots
@@ -383,6 +364,7 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [ChatPDF](https://github.com/anil-matcha/chatpdf) - 与任何PDF进行聊天。轻松上传您想要与之聊天的PDF文档。即时回答。使用人工智能提问、提取信息和总结文档。包含来源。
  * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - 一个使用OpenAI API助手构建聊天机器人的开源平台。
  * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria是由GPT大型语言模型驱动的AI研究助手。
+ * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 
 
 ## Browser-extensions
@@ -867,6 +849,10 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [chameleon-llm](https://github.com/lupantech/chameleon-llm) - 《变色龙：与大型语言模型进行即插即用的组合推理的代码》
  * [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - 华佗GPT，朝着驯服语言模型成为医生迈进。（一个开放的医学GPT）
  * [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) - 一个包含DB-GPT模型、数据集和微调技术的存储库，旨在提高文本到SQL的模型性能。
+ * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+ * [llm-viz](https://github.com/bbycroft/llm-viz) - 3D可视化的GPT风格LLM
+ * [AppAgent](https://github.com/mnotgod96/appagent) - AppAgent：多模态代理作为智能手机用户，是一个基于LLM的多模态代理框架，旨在操作智能手机应用程序。
+ * [AgentBench](https://github.com/thudm/agentbench) - 一个全面的基准来评估LLMs作为代理人
 
 
 ## Langchain
@@ -1090,6 +1076,9 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉和🤖 GPT-3.5可以让你的工作效率直接提升🚀。它支持私聊和群聊方式，还有单聊和串聊模式。此外，它还可以进行角色扮演和图片创作🚀。
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT 网页界面使用 OpenAI API
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - 一个非官方的C#/.NET SDK，用于访问OpenAI GPT-3 API。
+ * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API 共享解决方案。
+ * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点地将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+ * [aiac](https://github.com/gofireflyio/aiac) - 人工智能基础设施即代码生成器。
 
 
 ## Others

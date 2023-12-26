@@ -14,42 +14,26 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 入力：素晴らしいAI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、プロンプト、プラグイン、プロンプトの漏洩
-
-
-**Prompts**
- * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 大規模なマルチモーダルモデル（GPT-4 Vision、LLaVA、CogVLMなど）に対する効果的なプロンプティング。🔥
-
-
 **Chatbots**
- * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - OpenAI APIアシスタントを使用してチャットボットを構築するためのオープンソースプラットフォーム。
- * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - アリアは、GPT大規模言語モデルによってパワードされたあなたのAI研究アシスタントです。
-
-
-**CLIs**
- * [gptel](https://github.com/karthink/gptel) - シンプルなEmacs用のLLMクライアント
- * [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - 非公式のOpenAI RESTful APIクライアント（DotNet用）
+ * [aidea](https://github.com/mylxsw/aidea) - AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。
 
 
 **NLP**
- * [chameleon-llm](https://github.com/lupantech/chameleon-llm) - 「カメレオン：大規模言語モデルを用いたプラグアンドプレイの構成的推論のためのコード」
- * [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - 入力：華陀GPT、医者になるための言語モデルの飼いならしに向けて。（オープンな医療GPT）
-出力：華陀GPT、医者になるための言語モデルの飼いならしに向けて。（オープンな医療GPT）
- * [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) - 目的は、Text-to-SQLにおけるモデルのパフォーマンスを向上させるためのDB-GPTのモデル、データセット、ファインチューニング技術を含むリポジトリです。
+ * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。
+ * [llm-viz](https://github.com/bbycroft/llm-viz) - GPTスタイルのLLMの3Dビジュアライゼーション
+ * [AppAgent](https://github.com/mnotgod96/appagent) - アプリエージェント：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
+ * [AgentBench](https://github.com/thudm/agentbench) - エージェントとしてのLLMを評価するための包括的なベンチマーク
 
 
-**Langchain**
- * [GPTRouter](https://github.com/writesonic/gptrouter) - 複数のLLM（OpenAI、Anthropic、Azure）と画像モデル（Dall-E、SDXL）をスムーズに管理し、応答速度を向上させ、中断のない信頼性を確保します。
+**Openai**
+ * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - 入力：ChatGPT Plus 共有プラン。ChatGPT Plus / OpenAI API 共有ソリューション。
+出力：
+ * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - 入力：OpenAI管理インターフェースは、OpenAIのすべてのインターフェース（モデル、画像、音声、ファインチューニング、ファイルなど）を集約し、操作することができます。Markdown形式（数式、グラフ、表など）もサポートしており、今後はOpenAIのインターフェースを少しずつ追加していきますので、皆さんのサポートをお願いします。右上のスターをクリックしていただけると嬉しいです。私はずっと更新し続けますので、一緒に学び、一緒に頑張り、一緒に成長しましょう。
+ * [aiac](https://github.com/gofireflyio/aiac) - 入力：人工知能インフラストラクチャのコード生成ツール。
+出力：
 
 
-**Others**
- * [gpt-crawler](https://github.com/builderio/gpt-crawler) - URLから独自のカスタムGPTを作成するための知識ファイルを生成するために、サイトをクロールします。
- * [vimGPT](https://github.com/ishan0102/vimgpt) - GPT-4VとVimiumを使用してウェブを閲覧してください。
- * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent（オープンソース版GPTs）：ModelScope内のモデルと世界をつなぐエージェントフレームワーク
-
-
-_Updated on December 24, 2023_ (A total of 1293 repositories listed.)
+_Updated on December 27, 2023_ (A total of 1299 repositories listed.)
 
 ## Table of contents
 
@@ -110,7 +94,7 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 週ごとに更新される、素晴らしい機械学習Pythonライブラリのランク付けリスト。
  * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - OpenAIビジョンAPIを試してみたり、構築したりしたい人にとって必須のリソースです🔥
  * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - LLMとKGを統合する素晴らしい論文
- * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 入力：素晴らしいAI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、プロンプト、プラグイン、プロンプトの漏洩
+ * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 素晴らしいAI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、プロンプト、プラグイン、プロンプトの漏洩
 
 
 ## Prompts
@@ -382,6 +366,7 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [ChatPDF](https://github.com/anil-matcha/chatpdf) - どんなPDFでもチャットできます。簡単にアップロードしてください。即座に回答します。質問をする、情報を抽出する、AIで文書を要約することができます。ソースも含まれています。
  * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - OpenAI APIアシスタントを使用してチャットボットを構築するためのオープンソースプラットフォーム。
  * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - アリアは、GPT大規模言語モデルによってパワードされたあなたのAI研究アシスタントです。
+ * [aidea](https://github.com/mylxsw/aidea) - AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。
 
 
 ## Browser-extensions
@@ -864,9 +849,12 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [deepeval](https://github.com/confident-ai/deepeval) - LLMの評価フレームワーク
  * [inference](https://github.com/xorbitsai/inference) - 1行のコードを変更することで、OpenAI GPTを別のLLMに置き換えてください。Xinferenceを使用すると、必要なLLMを自由に使用できます。Xinferenceを使用すると、クラウド上、オンプレミス上、さらには自分のラップトップ上でも、オープンソースの言語モデル、音声認識モデル、マルチモーダルモデルを使用して推論を実行することができます。
  * [chameleon-llm](https://github.com/lupantech/chameleon-llm) - 「カメレオン：大規模言語モデルを用いたプラグアンドプレイの構成的推論のためのコード」
- * [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - 入力：華陀GPT、医者になるための言語モデルの飼いならしに向けて。（オープンな医療GPT）
-出力：華陀GPT、医者になるための言語モデルの飼いならしに向けて。（オープンな医療GPT）
+ * [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - 華陀GPT、医者になるための言語モデルの飼いならしに向けて。（オープンな医療GPT）華陀GPT、医者になるための言語モデルの飼いならしに向けて。（オープンな医療GPT）
  * [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) - 目的は、Text-to-SQLにおけるモデルのパフォーマンスを向上させるためのDB-GPTのモデル、データセット、ファインチューニング技術を含むリポジトリです。
+ * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。
+ * [llm-viz](https://github.com/bbycroft/llm-viz) - GPTスタイルのLLMの3Dビジュアライゼーション
+ * [AppAgent](https://github.com/mnotgod96/appagent) - アプリエージェント：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
+ * [AgentBench](https://github.com/thudm/agentbench) - エージェントとしてのLLMを評価するための包括的なベンチマーク
 
 
 ## Langchain
@@ -1090,6 +1078,11 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉 & 🤖 GPT-3.5 は、あなたの仕事の効率を直接的に向上させます 🚀 プライベートチャットやグループチャットの方法、一対一のチャットや連続チャットのモード、役割プレイ、画像作成などが可能です 🚀
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - OpenAI APIを使用したChatGPTウェブインターフェース
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - OpenAI GPT-3 APIにアクセスするための非公式なC#/.NET SDK
+ * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - 入力：ChatGPT Plus 共有プラン。ChatGPT Plus / OpenAI API 共有ソリューション。
+出力：
+ * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - 入力：OpenAI管理インターフェースは、OpenAIのすべてのインターフェース（モデル、画像、音声、ファインチューニング、ファイルなど）を集約し、操作することができます。Markdown形式（数式、グラフ、表など）もサポートしており、今後はOpenAIのインターフェースを少しずつ追加していきますので、皆さんのサポートをお願いします。右上のスターをクリックしていただけると嬉しいです。私はずっと更新し続けますので、一緒に学び、一緒に頑張り、一緒に成長しましょう。
+ * [aiac](https://github.com/gofireflyio/aiac) - 入力：人工知能インフラストラクチャのコード生成ツール。
+出力：
 
 
 ## Others
