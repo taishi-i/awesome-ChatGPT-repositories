@@ -14,41 +14,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
-
-
-**Prompts**
- * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision, LLaVA or CogVLM. 🔥
-
-
 **Chatbots**
- * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - An open source platform for building chatbot using the OpenAI API Assistant.
- * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
-
-
-**CLIs**
- * [gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
- * [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - A Non-Official OpenAI RESTful API Client for DotNet
+ * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 
 
 **NLP**
- * [chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
- * [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)
- * [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL
+ * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+ * [llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
+ * [AppAgent](https://github.com/mnotgod96/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
+ * [AgentBench](https://github.com/thudm/agentbench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
 
 
-**Langchain**
- * [GPTRouter](https://github.com/writesonic/gptrouter) - Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability.
+**Openai**
+ * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
+ * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+ * [aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 
 
-**Others**
- * [gpt-crawler](https://github.com/builderio/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
- * [vimGPT](https://github.com/ishan0102/vimgpt) - Browse the web with GPT-4V and Vimium
- * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent(开源版GPTs): An agent framework connecting models in ModelScope with the world
-
-
-_Updated on December 24, 2023_ (A total of 1293 repositories listed.)
+_Updated on December 27, 2023_ (A total of 1299 repositories listed.)
 
 ## Table of contents
 
@@ -381,6 +364,7 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [ChatPDF](https://github.com/anil-matcha/chatpdf) - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
  * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - An open source platform for building chatbot using the OpenAI API Assistant.
  * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
+ * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 
 
 ## Browser-extensions
@@ -865,6 +849,10 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [chameleon-llm](https://github.com/lupantech/chameleon-llm) - Codes for "Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models".
  * [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - HuatuoGPT, Towards Taming Language Models To Be a Doctor. (An Open Medical GPT)
  * [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) - A repository that contains models, datasets, and fine-tuning techniques for DB-GPT, with the purpose of enhancing model performance  in Text-to-SQL
+ * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+ * [llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
+ * [AppAgent](https://github.com/mnotgod96/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
+ * [AgentBench](https://github.com/thudm/agentbench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
 
 
 ## Langchain
@@ -1088,6 +1076,9 @@ _Updated on December 24, 2023_ (A total of 1293 repositories listed.)
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
+ * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
+ * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+ * [aiac](https://github.com/gofireflyio/aiac) - Artificial Intelligence Infrastructure-as-Code Generator.
 
 
 ## Others
