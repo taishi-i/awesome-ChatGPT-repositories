@@ -1069,6 +1069,25 @@
                     "zh-hans": "输入：令人惊叹的AI GPT，OpenAI GPT，GPT-4，ChatGPT，GPT，提示，插件，提示泄漏",
                     "zh-hant": "輸入：令人驚嘆的AI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、提示、插件、提示洩漏"
                 }
+            },
+            "https://github.com/fr0gger/awesome-gpt-agents": {
+                "repository_name": "Awesome-GPT-Agents",
+                "user_name": "fr0gger",
+                "language": null,
+                "license": "Apache License 2.0",
+                "description": "A curated list of GPT agents for cybersecurity",
+                "topics": [
+                    "agents",
+                    "cybersecurity",
+                    "infosec",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of GPT agents for cybersecurity",
+                    "ja": "サイバーセキュリティのための厳選されたGPTエージェントのリスト",
+                    "zh-hans": "一个精选的用于网络安全的GPT代理列表",
+                    "zh-hant": "一個經過精心挑選的用於網絡安全的GPT代理人清單"
+                }
             }
         },
         "Prompts": {
@@ -3108,6 +3127,29 @@
                     "ja": "大規模なマルチモーダルモデル（GPT-4 Vision、LLaVA、CogVLMなど）に対する効果的なプロンプティング。🔥",
                     "zh-hans": "输入：对于大型多模型模型（如GPT-4 Vision，LLaVA或CogVLM）的有效提示。🔥\n输出：有效提示适用于大型多模型模型，如GPT-4 Vision，LLaVA或CogVLM。🔥",
                     "zh-hant": "輸入：針對大型多模態模型（如GPT-4 Vision、LLaVA或CogVLM）的有效提示。🔥\n輸出："
+                }
+            },
+            "https://github.com/microsoft/promptbench": {
+                "repository_name": "promptbench",
+                "user_name": "microsoft",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A unified evaluation framework for large language models",
+                "topics": [
+                    "adversarial-attacks",
+                    "benchmark",
+                    "chatgpt",
+                    "evaluation",
+                    "large-language-models",
+                    "prompt",
+                    "prompt-engineering",
+                    "robustness"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A unified evaluation framework for large language models",
+                    "ja": "大規模言語モデルの統一評価フレームワーク",
+                    "zh-hans": "大型语言模型的统一评估框架",
+                    "zh-hant": "大型語言模型的統一評估框架"
                 }
             }
         },
@@ -10339,6 +10381,28 @@
                     "zh-hans": "云崽qq机器人的chatgpt插件",
                     "zh-hant": "雲崽qq機器人的chatgpt插件"
                 }
+            },
+            "https://github.com/sparticleinc/chatgpt-google-summary-extension": {
+                "repository_name": "chatgpt-google-summary-extension",
+                "user_name": "sparticleinc",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.",
+                "topics": [
+                    "browser-extension",
+                    "chatgpt",
+                    "chrome-extension",
+                    "firefox-extension",
+                    "google",
+                    "google-chatgpt",
+                    "youtube"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.",
+                    "ja": "Googleの検索結果やYouTubeの動画と一緒にChatGPTの要約を表示するためのChrome拡張機能です。また、Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、日経、Bing、Google特許など、どんなページの要約にも対応しています。",
+                    "zh-hans": "Chrome扩展程序，可在Google搜索结果和YouTube视频旁边查看ChatGPT摘要，还支持Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google专利以及任何页面的摘要。",
+                    "zh-hant": "輸入：Chrome 擴充功能，可在 Google 搜尋結果和 YouTube 影片旁邊查看 ChatGPT 摘要，同時也支援 Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google 專利，以及任何頁面的摘要。"
+                }
             }
         },
         "CLIs": {
@@ -13324,6 +13388,41 @@
                     "ja": "AlexaでChatGPTを使用する方法のチュートリアル",
                     "zh-hans": "如何在Alexa中使用ChatGPT的教程",
                     "zh-hant": "一個關於如何在Alexa上使用ChatGPT的教程"
+                }
+            },
+            "https://github.com/qxresearch/qxresearch-event-1": {
+                "repository_name": "qxresearch-event-1",
+                "user_name": "qxresearch",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2",
+                "topics": [
+                    "ai-project",
+                    "artificial-intelligence-projects",
+                    "audio-visualizer",
+                    "chatbot-python",
+                    "chatgpt",
+                    "chatgpt-python",
+                    "hactoberfest",
+                    "machine-learning",
+                    "machine-learning-project",
+                    "machine-learning-projects",
+                    "ml-project",
+                    "python",
+                    "python-application",
+                    "python-chatbot",
+                    "python-mini-projects",
+                    "python-project",
+                    "python-projects",
+                    "python-tutorial",
+                    "trending-repositories",
+                    "voice-recorder"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2",
+                    "ja": "Pythonの実践的なチュートリアルで、50以上のPythonアプリケーション（10行のコード）@xiaowuc2",
+                    "zh-hans": "Python实践教程，包含50多个Python应用程序（10行代码）@xiaowuc2",
+                    "zh-hant": "Python 實戰教程，包含50+個Python應用程式（10行代碼）@xiaowuc2"
                 }
             }
         },
@@ -28056,6 +28155,25 @@
                     "ja": "ModelScope-Agent（オープンソース版GPTs）：ModelScope内のモデルと世界をつなぐエージェントフレームワーク",
                     "zh-hans": "ModelScope-Agent（开源版GPTs）：一个将ModelScope中的模型与世界连接起来的代理框架。",
                     "zh-hant": "ModelScope-Agent（開源版GPTs）：一個連接ModelScope中的模型與世界的代理框架。"
+                }
+            },
+            "https://github.com/whyiyhw/chatgpt-wechat": {
+                "repository_name": "chatgpt-wechat",
+                "user_name": "whyiyhw",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "企业微信/微信 安全使用的 ChatGPT 个人助手应用",
+                "topics": [
+                    "gpt-3",
+                    "gpt-4",
+                    "wechat",
+                    "wecom"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Enterprise WeChat/WeChat secure use ChatGPT personal assistant application",
+                    "ja": "企業微信/微信の安全な使用に適したChatGPTの個人アシスタントアプリ",
+                    "zh-hans": "企业微信/微信 安全使用的 ChatGPT 个人助手应用",
+                    "zh-hant": "企業微信/微信 安全使用的 ChatGPT 個人助手應用"
                 }
             }
         }
