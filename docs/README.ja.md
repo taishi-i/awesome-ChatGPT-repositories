@@ -14,26 +14,27 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aidea](https://github.com/mylxsw/aidea) - AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。
+**Awesome-lists**
+ * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - サイバーセキュリティのための厳選されたGPTエージェントのリスト
 
 
-**NLP**
- * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。
- * [llm-viz](https://github.com/bbycroft/llm-viz) - GPTスタイルのLLMの3Dビジュアライゼーション
- * [AppAgent](https://github.com/mnotgod96/appagent) - アプリエージェント：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
- * [AgentBench](https://github.com/thudm/agentbench) - エージェントとしてのLLMを評価するための包括的なベンチマーク
+**Prompts**
+ * [promptbench](https://github.com/microsoft/promptbench) - 大規模言語モデルの統一評価フレームワーク
 
 
-**Openai**
- * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - 入力：ChatGPT Plus 共有プラン。ChatGPT Plus / OpenAI API 共有ソリューション。
-出力：
- * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - 入力：OpenAI管理インターフェースは、OpenAIのすべてのインターフェース（モデル、画像、音声、ファインチューニング、ファイルなど）を集約し、操作することができます。Markdown形式（数式、グラフ、表など）もサポートしており、今後はOpenAIのインターフェースを少しずつ追加していきますので、皆さんのサポートをお願いします。右上のスターをクリックしていただけると嬉しいです。私はずっと更新し続けますので、一緒に学び、一緒に頑張り、一緒に成長しましょう。
- * [aiac](https://github.com/gofireflyio/aiac) - 入力：人工知能インフラストラクチャのコード生成ツール。
-出力：
+**Browser-extensions**
+ * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Googleの検索結果やYouTubeの動画と一緒にChatGPTの要約を表示するためのChrome拡張機能です。また、Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、日経、Bing、Google特許など、どんなページの要約にも対応しています。
 
 
-_Updated on December 27, 2023_ (A total of 1299 repositories listed.)
+**Tutorials**
+ * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Pythonの実践的なチュートリアルで、50以上のPythonアプリケーション（10行のコード）@xiaowuc2
+
+
+**Others**
+ * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企業微信/微信の安全な使用に適したChatGPTの個人アシスタントアプリ
+
+
+_Updated on December 29, 2023_ (A total of 1303 repositories listed.)
 
 ## Table of contents
 
@@ -95,6 +96,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - OpenAIビジョンAPIを試してみたり、構築したりしたい人にとって必須のリソースです🔥
  * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - LLMとKGを統合する素晴らしい論文
  * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 素晴らしいAI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、プロンプト、プラグイン、プロンプトの漏洩
+ * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - サイバーセキュリティのための厳選されたGPTエージェントのリスト
 
 
 ## Prompts
@@ -194,6 +196,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [self-refine](https://github.com/madaan/self-refine) - LLMは自分の仕事にフィードバックを生成し、それを使ってアウトプットを改善し、このプロセスを反復して繰り返すことができます。
  * [GPTs](https://github.com/linexjlin/gpts) - GPTの漏洩したプロンプト
  * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 大規模なマルチモーダルモデル（GPT-4 Vision、LLaVA、CogVLMなど）に対する効果的なプロンプティング。🔥
+ * [promptbench](https://github.com/microsoft/promptbench) - 大規模言語モデルの統一評価フレームワーク
 
 
 ## Chatbots
@@ -518,6 +521,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 指定された言語に電子書籍を翻訳するためのCalibreプラグイン。
  * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - IDAのプラグインは、バイナリファイルの解析を支援するものであり、OpenAIによって訓練されたgpt-3.5-turboモデルに基づいています。ChatGPTと同じモデルです。
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件云崽qqボットのchatgptプラグイン
+ * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Googleの検索結果やYouTubeの動画と一緒にChatGPTの要約を表示するためのChrome拡張機能です。また、Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、日経、Bing、Google特許など、どんなページの要約にも対応しています。
 
 
 ## CLIs
@@ -664,6 +668,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - キャラクターアニメーションとスライドを使用したAI生成ビデオチュートリアルを作成しましょう！
  * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - チャットGPT + エンタープライズデータのチュートリアル、セマンティックカーネル、OpenAI、およびAzure Cognitive Searchについて
  * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - AlexaでChatGPTを使用する方法のチュートリアル
+ * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Pythonの実践的なチュートリアルで、50以上のPythonアプリケーション（10行のコード）@xiaowuc2
 
 
 ## NLP
@@ -1078,11 +1083,8 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉 & 🤖 GPT-3.5 は、あなたの仕事の効率を直接的に向上させます 🚀 プライベートチャットやグループチャットの方法、一対一のチャットや連続チャットのモード、役割プレイ、画像作成などが可能です 🚀
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - OpenAI APIを使用したChatGPTウェブインターフェース
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - OpenAI GPT-3 APIにアクセスするための非公式なC#/.NET SDK
- * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - 入力：ChatGPT Plus 共有プラン。ChatGPT Plus / OpenAI API 共有ソリューション。
-出力：
- * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - 入力：OpenAI管理インターフェースは、OpenAIのすべてのインターフェース（モデル、画像、音声、ファインチューニング、ファイルなど）を集約し、操作することができます。Markdown形式（数式、グラフ、表など）もサポートしており、今後はOpenAIのインターフェースを少しずつ追加していきますので、皆さんのサポートをお願いします。右上のスターをクリックしていただけると嬉しいです。私はずっと更新し続けますので、一緒に学び、一緒に頑張り、一緒に成長しましょう。
- * [aiac](https://github.com/gofireflyio/aiac) - 入力：人工知能インフラストラクチャのコード生成ツール。
-出力：
+ * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理インターフェースは、OpenAIのすべてのインターフェース（モデル、画像、音声、ファインチューニング、ファイルなど）を集約し、操作することができます。Markdown形式（数式、グラフ、表など）もサポートしており、今後はOpenAIのインターフェースを少しずつ追加していきますので、皆さんのサポートをお願いします。右上のスターをクリックしていただけると嬉しいです。私はずっと更新し続けますので、一緒に学び、一緒に頑張り、一緒に成長しましょう。
+ * [aiac](https://github.com/gofireflyio/aiac) - 人工知能インフラストラクチャのコード生成ツール。
 
 
 ## Others
@@ -1409,5 +1411,6 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [gpt-crawler](https://github.com/builderio/gpt-crawler) - URLから独自のカスタムGPTを作成するための知識ファイルを生成するために、サイトをクロールします。
  * [vimGPT](https://github.com/ishan0102/vimgpt) - GPT-4VとVimiumを使用してウェブを閲覧してください。
  * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent（オープンソース版GPTs）：ModelScope内のモデルと世界をつなぐエージェントフレームワーク
+ * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企業微信/微信の安全な使用に適したChatGPTの個人アシスタントアプリ
 
 

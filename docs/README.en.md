@@ -14,24 +14,27 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aidea](https://github.com/mylxsw/aidea) - AIdea is a versatile app that supports GPT and domestic large language models such as Tongyi Qianwen and Wenxin Yiyuan. It also supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and image coloring.
+**Awesome-lists**
+ * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - A curated list of GPT agents for cybersecurity
 
 
-**NLP**
- * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdea is a versatile app that supports GPT and domestic large language models such as Tongyi Qianwen and Wenxin Yiyuan. It also supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and image coloring.
- * [llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
- * [AppAgent](https://github.com/mnotgod96/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
- * [AgentBench](https://github.com/thudm/agentbench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
+**Prompts**
+ * [promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 
 
-**Openai**
- * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
- * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI management interface, aggregates all OpenAI interfaces for interface operations (all models, images, audio, fine-tuning, files, etc.), supports Markdown format (formulas, charts, tables, etc.), and will gradually integrate OpenAI interfaces for everyone's support. Please click the Star in the upper right corner, and I will keep updating it. Let's learn, work hard, and grow together.
- * [aiac](https://github.com/gofireflyio/aiac) - The Artificial Intelligence Infrastructure-as-Code Generator.
+**Browser-extensions**
+ * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 
 
-_Updated on December 27, 2023_ (A total of 1299 repositories listed.)
+**Tutorials**
+ * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2
+
+
+**Others**
+ * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - Enterprise WeChat/WeChat secure use ChatGPT personal assistant application
+
+
+_Updated on December 29, 2023_ (A total of 1303 repositories listed.)
 
 ## Table of contents
 
@@ -93,6 +96,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥
  * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - Awesome papers about unifying LLMs and KGs
  * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
+ * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - A curated list of GPT agents for cybersecurity
 
 
 ## Prompts
@@ -192,6 +196,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [self-refine](https://github.com/madaan/self-refine) - LLMs can generate feedback on their work, use it to improve the output, and repeat this process iteratively.
  * [GPTs](https://github.com/linexjlin/gpts) - leaked prompts of GPTs
  * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision, LLaVA or CogVLM. 🔥
+ * [promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
 
 
 ## Chatbots
@@ -516,6 +521,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - A Calibre plugin to translate ebook into a specified language.
  * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - ChatGPT plugin for Yunzai QQ robot
+ * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
 
 
 ## CLIs
@@ -662,6 +668,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - Create AI-Generated Video Tutorials with Character Animation and Slides!
  * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search
  * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - A tutorial on how to use ChatGPT in Alexa
+ * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2
 
 
 ## NLP
@@ -1076,7 +1083,6 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - Input: 🎒 DingTalk & 🤖 GPT-3.5 boost your work efficiency directly 🚀 Private chat, group chat, one-on-one conversation, role-playing, image creation 🚀
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT web interface using the OpenAI API
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
- * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
  * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI management interface, aggregates all OpenAI interfaces for interface operations (all models, images, audio, fine-tuning, files, etc.), supports Markdown format (formulas, charts, tables, etc.), and will gradually integrate OpenAI interfaces for everyone's support. Please click the Star in the upper right corner, and I will keep updating it. Let's learn, work hard, and grow together.
  * [aiac](https://github.com/gofireflyio/aiac) - The Artificial Intelligence Infrastructure-as-Code Generator.
 
@@ -1405,5 +1411,6 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [gpt-crawler](https://github.com/builderio/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
  * [vimGPT](https://github.com/ishan0102/vimgpt) - Browse the web with GPT-4V and Vimium
  * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent(开源版GPTs): An agent framework connecting models in ModelScope with the world
+ * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - Enterprise WeChat/WeChat secure use ChatGPT personal assistant application
 
 

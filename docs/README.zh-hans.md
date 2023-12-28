@@ -14,24 +14,27 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+**Awesome-lists**
+ * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - 一个精选的用于网络安全的GPT代理列表
 
 
-**NLP**
- * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
- * [llm-viz](https://github.com/bbycroft/llm-viz) - 3D可视化的GPT风格LLM
- * [AppAgent](https://github.com/mnotgod96/appagent) - AppAgent：多模态代理作为智能手机用户，是一个基于LLM的多模态代理框架，旨在操作智能手机应用程序。
- * [AgentBench](https://github.com/thudm/agentbench) - 一个全面的基准来评估LLMs作为代理人
+**Prompts**
+ * [promptbench](https://github.com/microsoft/promptbench) - 大型语言模型的统一评估框架
 
 
-**Openai**
- * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API 共享解决方案。
- * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点地将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
- * [aiac](https://github.com/gofireflyio/aiac) - 人工智能基础设施即代码生成器。
+**Browser-extensions**
+ * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome扩展程序，可在Google搜索结果和YouTube视频旁边查看ChatGPT摘要，还支持Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google专利以及任何页面的摘要。
 
 
-_Updated on December 27, 2023_ (A total of 1299 repositories listed.)
+**Tutorials**
+ * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python实践教程，包含50多个Python应用程序（10行代码）@xiaowuc2
+
+
+**Others**
+ * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 ChatGPT 个人助手应用
+
+
+_Updated on December 29, 2023_ (A total of 1303 repositories listed.)
 
 ## Table of contents
 
@@ -92,7 +95,8 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 一份排名靠前的令人惊叹的机器学习Python库列表。每周更新。
  * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - 必备资源，适合任何想要尝试和构建OpenAI视觉API的人🔥
  * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - 关于统一LLMs和KGs的精彩论文
- * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 输入：令人惊叹的AI GPT，OpenAI GPT，GPT-4，ChatGPT，GPT，提示，插件，提示泄漏
+ * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 令人惊叹的AI GPT，OpenAI GPT，GPT-4，ChatGPT，GPT，提示，插件，提示泄漏
+ * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - 一个精选的用于网络安全的GPT代理列表
 
 
 ## Prompts
@@ -191,7 +195,8 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 这个写作提示列表涵盖了各种主题和任务，包括头脑风暴研究想法，改善语言和风格，进行文献综述，以及制定研究计划。
  * [self-refine](https://github.com/madaan/self-refine) - LLMs可以对他们的工作产生反馈，利用它来改进输出，并反复进行这个过程。
  * [GPTs](https://github.com/linexjlin/gpts) - 泄露的GPT提示
- * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 输入：对于大型多模型模型（如GPT-4 Vision，LLaVA或CogVLM）的有效提示。🔥输出：有效提示适用于大型多模型模型，如GPT-4 Vision，LLaVA或CogVLM。🔥
+ * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 对于大型多模型模型（如GPT-4 Vision，LLaVA或CogVLM）的有效提示。🔥有效提示适用于大型多模型模型，如GPT-4 Vision，LLaVA或CogVLM。🔥
+ * [promptbench](https://github.com/microsoft/promptbench) - 大型语言模型的统一评估框架
 
 
 ## Chatbots
@@ -516,6 +521,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 一个用于将电子书翻译成指定语言的Calibre插件。
  * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - 一个用于IDA的插件，可以帮助分析二进制文件，它基于OpenAI训练的gpt-3.5-turbo模型，与ChatGPT相同。
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
+ * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome扩展程序，可在Google搜索结果和YouTube视频旁边查看ChatGPT摘要，还支持Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google专利以及任何页面的摘要。
 
 
 ## CLIs
@@ -662,6 +668,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - 使用角色动画和幻灯片创建AI生成的视频教程！
  * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - ChatGPT + 企业数据与语义内核的教程，OpenAI 和 Azure Cognitive Search
  * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - 如何在Alexa中使用ChatGPT的教程
+ * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python实践教程，包含50多个Python应用程序（10行代码）@xiaowuc2
 
 
 ## NLP
@@ -1076,7 +1083,6 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 钉钉和🤖 GPT-3.5可以让你的工作效率直接提升🚀。它支持私聊和群聊方式，还有单聊和串聊模式。此外，它还可以进行角色扮演和图片创作🚀。
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT 网页界面使用 OpenAI API
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - 一个非官方的C#/.NET SDK，用于访问OpenAI GPT-3 API。
- * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API 共享解决方案。
  * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点地将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
  * [aiac](https://github.com/gofireflyio/aiac) - 人工智能基础设施即代码生成器。
 
@@ -1405,5 +1411,6 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [gpt-crawler](https://github.com/builderio/gpt-crawler) - 从一个URL中爬取网站以生成知识文件，从而创建自己定制的GPT。
  * [vimGPT](https://github.com/ishan0102/vimgpt) - 使用GPT-4V和Vimium浏览网页
  * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent（开源版GPTs）：一个将ModelScope中的模型与世界连接起来的代理框架。
+ * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 ChatGPT 个人助手应用
 
 

@@ -14,24 +14,27 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 以及國產大語言模型通義千問、文心一言等，支持 Stable Diffusion 文生圖、圖生圖、 SDXL1.0、超分辨率、圖片上色的全能型 APP。
+**Awesome-lists**
+ * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - 一個經過精心挑選的用於網絡安全的GPT代理人清單
 
 
-**NLP**
- * [aidea-server](https://github.com/mylxsw/aidea-server) - AIdea 是一款支持 GPT 以及國產大語言模型通義千問、文心一言等，支持 Stable Diffusion 文生圖、圖生圖、 SDXL1.0、超分辨率、圖片上色的全能型 APP。
- * [llm-viz](https://github.com/bbycroft/llm-viz) - 3D 可視化的 GPT 風格 LLM
- * [AppAgent](https://github.com/mnotgod96/appagent) - AppAgent：多模態代理作為智能手機用戶，一個基於LLM的多模態代理框架，旨在操作智能手機應用程序。
- * [AgentBench](https://github.com/thudm/agentbench) - 一個全面的基準來評估LLMs作為代理人
+**Prompts**
+ * [promptbench](https://github.com/microsoft/promptbench) - 大型語言模型的統一評估框架
 
 
-**Openai**
- * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API 共享解決方案。
- * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口進行界面操作(所有模型、圖片、音頻、微調、文件)等，支持Markdown格式(公式、圖表，表格)等，後期會一點一點的將OpenAI接口進行接入大家支持一下，右上角點個Star，我會一直更新下去，大家一起學習，一起加油，一起努力，一起成長。
- * [aiac](https://github.com/gofireflyio/aiac) - 人工智慧基礎設施即代碼生成器。
+**Browser-extensions**
+ * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 輸入：Chrome 擴充功能，可在 Google 搜尋結果和 YouTube 影片旁邊查看 ChatGPT 摘要，同時也支援 Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google 專利，以及任何頁面的摘要。
 
 
-_Updated on December 27, 2023_ (A total of 1299 repositories listed.)
+**Tutorials**
+ * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python 實戰教程，包含50+個Python應用程式（10行代碼）@xiaowuc2
+
+
+**Others**
+ * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企業微信/微信 安全使用的 ChatGPT 個人助手應用
+
+
+_Updated on December 29, 2023_ (A total of 1303 repositories listed.)
 
 ## Table of contents
 
@@ -93,6 +96,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - 必備資源，適合任何想要嘗試和建立OpenAI視覺API的人使用🔥
  * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - 關於統一LLMs和KGs的精彩論文
  * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 令人驚嘆的AI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、提示、插件、提示洩漏
+ * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - 一個經過精心挑選的用於網絡安全的GPT代理人清單
 
 
 ## Prompts
@@ -192,6 +196,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [self-refine](https://github.com/madaan/self-refine) - LLMs 可以對他們的工作產生反饋，利用它來改善輸出，並重複這個過程。
  * [GPTs](https://github.com/linexjlin/gpts) - 洩漏的GPT提示
  * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 針對大型多模態模型（如GPT-4 Vision、LLaVA或CogVLM）的有效提示。🔥
+ * [promptbench](https://github.com/microsoft/promptbench) - 大型語言模型的統一評估框架
 
 
 ## Chatbots
@@ -516,6 +521,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 一個Calibre插件，可以將電子書翻譯成指定的語言。
  * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - 一個用於IDA的插件，可以幫助分析二進制文件，它基於OpenAI訓練的gpt-3.5-turbo模型，與ChatGPT相同。
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 雲崽qq機器人的chatgpt插件
+ * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - 輸入：Chrome 擴充功能，可在 Google 搜尋結果和 YouTube 影片旁邊查看 ChatGPT 摘要，同時也支援 Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google 專利，以及任何頁面的摘要。
 
 
 ## CLIs
@@ -662,6 +668,7 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - 創建具有角色動畫和幻燈片的AI生成視頻教程！
  * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - 使用語義核心的ChatGPT + 企業數據的教程，OpenAI和Azure認知搜索
  * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - 一個關於如何在Alexa上使用ChatGPT的教程
+ * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python 實戰教程，包含50+個Python應用程式（10行代碼）@xiaowuc2
 
 
 ## NLP
@@ -1076,7 +1083,6 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [Dingtalk-OpenAI](https://github.com/connectai-e/dingtalk-openai) - 🎒 釘釘 & 🤖 GPT-3.5 讓你的工作效率直接起飛 🚀 私聊群聊方式、單聊串聊模式、角色扮演、圖片創作 🚀
  * [chatgpt-web](https://github.com/niek/chatgpt-web) - ChatGPT 網頁介面使用 OpenAI API
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - 一個非官方的C#/.NET SDK，用於訪問OpenAI GPT-3 API
- * [chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API 共享解決方案。
  * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口進行界面操作(所有模型、圖片、音頻、微調、文件)等，支持Markdown格式(公式、圖表，表格)等，後期會一點一點的將OpenAI接口進行接入大家支持一下，右上角點個Star，我會一直更新下去，大家一起學習，一起加油，一起努力，一起成長。
  * [aiac](https://github.com/gofireflyio/aiac) - 人工智慧基礎設施即代碼生成器。
 
@@ -1405,5 +1411,6 @@ _Updated on December 27, 2023_ (A total of 1299 repositories listed.)
  * [gpt-crawler](https://github.com/builderio/gpt-crawler) - 爬取網站以生成知識文件，從URL創建自己的定制GPT
  * [vimGPT](https://github.com/ishan0102/vimgpt) - 使用GPT-4V和Vimium瀏覽網頁
  * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent（開源版GPTs）：一個連接ModelScope中的模型與世界的代理框架。
+ * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企業微信/微信 安全使用的 ChatGPT 個人助手應用
 
 
