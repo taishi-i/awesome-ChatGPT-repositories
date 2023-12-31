@@ -15,26 +15,40 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - A curated list of GPT agents for cybersecurity
+ * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+ * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others. 
 
 
 **Prompts**
- * [promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
+ * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more 
 
 
-**Browser-extensions**
- * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
+**Chatbots**
+ * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based
 
 
-**Tutorials**
- * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2
+**NLP**
+ * [NeumAI](https://github.com/neumtry/neumai) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
+ * [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+ * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - A library for mechanistic interpretability of GPT-style language models
+
+
+**Unity**
+ * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
+
+
+**Openai**
+ * [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
+ * [chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude or custom model
+ * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife is a virtual digital human project that is still in the incubation stage. There are many areas that need to be optimized. The author wants to create a virtual digital human with its own "soul". You can get to know her like a friend. The author hopes that the virtual digital human can integrate into human life, serving as a love mentor, a psychological counselor, and meeting human emotional needs.
 
 
 **Others**
- * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - Enterprise WeChat/WeChat secure use ChatGPT personal assistant application
+ * [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+ * [gerev](https://github.com/gerevai/gerev) - 🧠 AI-powered enterprise search engine 🔎
 
 
-_Updated on December 29, 2023_ (A total of 1303 repositories listed.)
+_Updated on January 01, 2024_ (A total of 1316 repositories listed.)
 
 ## Table of contents
 
@@ -97,6 +111,8 @@ _Updated on December 29, 2023_ (A total of 1303 repositories listed.)
  * [Awesome-LLM-KG](https://github.com/rmanluo/awesome-llm-kg) - Awesome papers about unifying LLMs and KGs
  * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
  * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - A curated list of GPT agents for cybersecurity
+ * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+ * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others. 
 
 
 ## Prompts
@@ -197,6 +213,7 @@ _Updated on December 29, 2023_ (A total of 1303 repositories listed.)
  * [GPTs](https://github.com/linexjlin/gpts) - leaked prompts of GPTs
  * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision, LLaVA or CogVLM. 🔥
  * [promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
+ * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more 
 
 
 ## Chatbots
@@ -370,6 +387,7 @@ _Updated on December 29, 2023_ (A total of 1303 repositories listed.)
  * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - An open source platform for building chatbot using the OpenAI API Assistant.
  * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
  * [aidea](https://github.com/mylxsw/aidea) - AIdea is a versatile app that supports GPT and domestic large language models such as Tongyi Qianwen and Wenxin Yiyuan. It also supports Stable Diffusion Wenshengtu, Tushengtu, SDXL1.0, super-resolution, and image coloring.
+ * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based
 
 
 ## Browser-extensions
@@ -860,6 +878,9 @@ _Updated on December 29, 2023_ (A total of 1303 repositories listed.)
  * [llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
  * [AppAgent](https://github.com/mnotgod96/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
  * [AgentBench](https://github.com/thudm/agentbench) - A Comprehensive Benchmark to Evaluate LLMs as Agents
+ * [NeumAI](https://github.com/neumtry/neumai) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
+ * [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
+ * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - A library for mechanistic interpretability of GPT-style language models
 
 
 ## Langchain
@@ -951,6 +972,7 @@ _Updated on December 29, 2023_ (A total of 1303 repositories listed.)
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio we'd love to get a ferretdb backend for gptcache. we'll add it to the todo list.and on behalf of milvus developers and the broader community, thanks for the shout-out!
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - Use Unity to implement AI chat-related functions. Currently, this library includes code implementation for API calls to large language models such as chatgpt and chatglm, as well as the implementation of Microsoft Azure and Baidu AI voice services. The voice services are implemented using web APIs and support platforms such as Windows, WebGL, and Android.
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
+ * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 
 
 ## Openai
@@ -1085,6 +1107,9 @@ _Updated on December 29, 2023_ (A total of 1303 repositories listed.)
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - An unofficial C#/.NET SDK for accessing the OpenAI GPT-3 API
  * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI management interface, aggregates all OpenAI interfaces for interface operations (all models, images, audio, fine-tuning, files, etc.), supports Markdown format (formulas, charts, tables, etc.), and will gradually integrate OpenAI interfaces for everyone's support. Please click the Star in the upper right corner, and I will keep updating it. Let's learn, work hard, and grow together.
  * [aiac](https://github.com/gofireflyio/aiac) - The Artificial Intelligence Infrastructure-as-Code Generator.
+ * [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
+ * [chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude or custom model
+ * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife is a virtual digital human project that is still in the incubation stage. There are many areas that need to be optimized. The author wants to create a virtual digital human with its own "soul". You can get to know her like a friend. The author hopes that the virtual digital human can integrate into human life, serving as a love mentor, a psychological counselor, and meeting human emotional needs.
 
 
 ## Others
@@ -1412,5 +1437,7 @@ _Updated on December 29, 2023_ (A total of 1303 repositories listed.)
  * [vimGPT](https://github.com/ishan0102/vimgpt) - Browse the web with GPT-4V and Vimium
  * [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent(开源版GPTs): An agent framework connecting models in ModelScope with the world
  * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - Enterprise WeChat/WeChat secure use ChatGPT personal assistant application
+ * [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+ * [gerev](https://github.com/gerevai/gerev) - 🧠 AI-powered enterprise search engine 🔎
 
 

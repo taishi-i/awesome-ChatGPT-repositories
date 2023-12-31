@@ -1088,6 +1088,57 @@
                     "zh-hans": "一个精选的用于网络安全的GPT代理列表",
                     "zh-hant": "一個經過精心挑選的用於網絡安全的GPT代理人清單"
                 }
+            },
+            "https://github.com/connectai-e/awesome-one-click-deployment": {
+                "repository_name": "Awesome-One-Click-Deployment",
+                "user_name": "ConnectAI-E",
+                "language": null,
+                "license": null,
+                "description": "🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目",
+                "topics": [
+                    "chatgpt",
+                    "connect-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目",
+                    "ja": "🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します。",
+                    "zh-hans": "🪄 一键部署许多Github开源项目，以便快速体验",
+                    "zh-hant": "🪄 一鍵部署許多 GitHub 開源項目，以促進快速體驗"
+                }
+            },
+            "https://github.com/atfortes/llm-reasoning-papers": {
+                "repository_name": "LLM-Reasoning-Papers",
+                "user_name": "atfortes",
+                "language": null,
+                "license": "MIT License",
+                "description": "Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others. ",
+                "topics": [
+                    "arithmetic-reasoning",
+                    "awesome",
+                    "chain-of-thought",
+                    "chatgpt",
+                    "commonsense-reasoning",
+                    "cot",
+                    "datasets",
+                    "gpt3",
+                    "in-context-learning",
+                    "instruction-tuning",
+                    "language-models",
+                    "lm",
+                    "logical-reasoning",
+                    "prompt",
+                    "prompt-engineering",
+                    "prompt-learning",
+                    "question-answering",
+                    "reasoning",
+                    "symbolic-reasoning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others. ",
+                    "ja": "入力：チェーンオブソート（CoT）、インストラクションチューニングなど、大規模言語モデル（LLM）に関する論文やリソースのコレクション。\n出力：大規模言語モデル（LLM）に関する論文やリソース、チェーンオブソート（CoT）、インストラクションチューニングなどのコレクション。",
+                    "zh-hans": "输入：关于大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。\n输出：大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。",
+                    "zh-hant": "輸入：關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。\n輸出：關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。"
+                }
             }
         },
         "Prompts": {
@@ -3150,6 +3201,40 @@
                     "ja": "大規模言語モデルの統一評価フレームワーク",
                     "zh-hans": "大型语言模型的统一评估框架",
                     "zh-hant": "大型語言模型的統一評估框架"
+                }
+            },
+            "https://github.com/denis2054/transformers-for-nlp-2nd-edition": {
+                "repository_name": "Transformers-for-NLP-2nd-Edition",
+                "user_name": "Denis2054",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more ",
+                "topics": [
+                    "bert",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "dall-e",
+                    "dall-e-api",
+                    "deep-learning",
+                    "gpt-3-5-turbo",
+                    "gpt-4",
+                    "gpt-4-api",
+                    "huggingface-transformers",
+                    "machine-learning",
+                    "natural-language-processing",
+                    "nlp",
+                    "openai",
+                    "python",
+                    "pytorch",
+                    "roberta-model",
+                    "transformers",
+                    "trax"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more ",
+                    "ja": "入力：BERTからGPT-4へのTransformerモデル、Hugging FaceからOpenAIへの環境。ファインチューニング、トレーニング、プロンプトエンジニアリングの例。ChatGPT、GPT-3.5-turbo、GPT-4、およびDALL-Eを含むボーナスセクション。GPT-4のジャンプスタート、音声からテキストへの変換、テキストから音声への変換、DALL-Eによるテキストから画像生成、Google Cloud AI、HuggingGPTなども含まれます。",
+                    "zh-hans": "输入：从BERT到GPT-4的Transformer模型，从Hugging Face到OpenAI的环境。微调、训练和提示工程示例。附加部分包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E，包括启动GPT-4、语音转文本、文本转语音、使用DALL-E生成图像的文本等。Google Cloud AI、HuggingGPT等等。",
+                    "zh-hant": "輸入：從BERT到GPT-4的Transformer模型，從Hugging Face到OpenAI的環境。微調、訓練和提示工程的示例。包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E的額外部分，其中包括啟動GPT-4、語音轉文字、文字轉語音、使用DALL-E生成圖像的文字等。Google Cloud AI、HuggingGPT等等。"
                 }
             }
         },
@@ -7127,6 +7212,27 @@
                     "ja": "AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。",
                     "zh-hans": "AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。",
                     "zh-hant": "AIdea 是一款支持 GPT 以及國產大語言模型通義千問、文心一言等，支持 Stable Diffusion 文生圖、圖生圖、 SDXL1.0、超分辨率、圖片上色的全能型 APP。"
+                }
+            },
+            "https://github.com/snapdragonlee/chatgpt-webot": {
+                "repository_name": "ChatGPT-weBot",
+                "user_name": "SnapdragonLee",
+                "language": "Python",
+                "license": null,
+                "description": "Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based",
+                "topics": [
+                    "bot",
+                    "chatgpt",
+                    "stable-diffusion",
+                    "updates-api",
+                    "wechat",
+                    "wechatbot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based",
+                    "ja": "入力：ChatGPT（gpt-3.5以降）とのチャット、WeChatフックインターフェースを使用\n\n出力：",
+                    "zh-hans": "使用ChatGPT（gpt-3.5或更新版本）进行聊天，基于微信钩子接口。",
+                    "zh-hant": "使用ChatGPT（gpt-3.5或更新版本）進行聊天，基於微信鉤子接口。"
                 }
             }
         },
@@ -17325,6 +17431,73 @@
                     "zh-hans": "一个全面的基准来评估LLMs作为代理人",
                     "zh-hant": "一個全面的基準來評估LLMs作為代理人"
                 }
+            },
+            "https://github.com/neumtry/neumai": {
+                "repository_name": "NeumAI",
+                "user_name": "NeumTry",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "data",
+                    "data-engineering",
+                    "database",
+                    "embeddings",
+                    "etl",
+                    "llm",
+                    "llmops",
+                    "mlops",
+                    "ops",
+                    "pipeline",
+                    "python",
+                    "rag",
+                    "retrieval",
+                    "vector-database",
+                    "vectors"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.",
+                    "ja": "Neum AIは、大規模なベクトル埋め込みの作成と同期を管理するための最高のフレームワークです。",
+                    "zh-hans": "Neum AI是一个一流的框架，用于大规模管理矢量嵌入的创建和同步。",
+                    "zh-hant": "Neum AI 是一個一流的框架，用於大規模管理向量嵌入的創建和同步。"
+                }
+            },
+            "https://github.com/rasbt/llms-from-scratch": {
+                "repository_name": "LLMs-from-scratch",
+                "user_name": "rasbt",
+                "language": "Jupyter Notebook",
+                "license": "Other",
+                "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "large-language-models",
+                    "llm",
+                    "python",
+                    "pytorch"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Implementing a ChatGPT-like LLM from scratch, step by step",
+                    "ja": "スクラッチからChatGPTのようなLLMを段階的に実装する",
+                    "zh-hans": "从零开始逐步实现类似ChatGPT的LLM",
+                    "zh-hant": "從頭開始逐步實現類似ChatGPT的LLM"
+                }
+            },
+            "https://github.com/neelnanda-io/transformerlens": {
+                "repository_name": "TransformerLens",
+                "user_name": "neelnanda-io",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A library for mechanistic interpretability of GPT-style language models",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A library for mechanistic interpretability of GPT-style language models",
+                    "ja": "GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ",
+                    "zh-hans": "一个用于解释GPT风格语言模型机制的图书馆",
+                    "zh-hant": "一個用於解釋GPT風格語言模型的機械解釋性圖書館"
+                }
             }
         },
         "Langchain": {
@@ -19207,6 +19380,41 @@
                     "ja": "OpenAI PHP SDK：最もダウンロードされ、フォークされ、貢献され、大規模なコミュニティによってサポートされ、PHP（Laravel、Symfony、Yii、Cake PHPまたは任意のPHPフレームワーク）SDKとして使用されるOpenAI GPT-3およびDALL-EのSDKです。また、chatGPTのようなストリーミングもサポートしています。（ChatGPT AIがサポートされています）",
                     "zh-hans": "OpenAI PHP SDK：最受欢迎、被Fork最多、贡献最多、拥有庞大社区支持的PHP（Laravel、Symfony、Yii、Cake PHP或任何PHP框架）SDK，用于OpenAI GPT-3和DALL-E。它还支持类似ChatGPT的流式聊天。（支持ChatGPT AI）",
                     "zh-hant": "OpenAI PHP SDK：最多下載、派生、貢獻、龐大社群支持且被使用的 PHP（Laravel、Symfony、Yii、Cake PHP 或任何 PHP 框架）SDK，用於 OpenAI GPT-3 和 DALL-E。它還支持類似 ChatGPT 的串流功能。（支援 ChatGPT AI）"
+                }
+            },
+            "https://github.com/marcinguy/betterscan-ce": {
+                "repository_name": "betterscan-ce",
+                "user_name": "marcinguy",
+                "language": "Python",
+                "license": "Other",
+                "description": "Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)",
+                "topics": [
+                    "code-quality",
+                    "code-quality-analyzer",
+                    "compliance",
+                    "devops",
+                    "devops-tools",
+                    "devsecops",
+                    "gdpr",
+                    "owasp",
+                    "sast",
+                    "security-audit",
+                    "security-automation",
+                    "security-orchestration",
+                    "security-scanner",
+                    "security-tools",
+                    "sonarqube",
+                    "static-analysis",
+                    "static-analyzers",
+                    "static-code-analysis",
+                    "vulnerability",
+                    "vulnerability-scanner"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)",
+                    "ja": "入力：多くのツール/スキャナーを使用したコードスキャン/ SAST/静的解析/リンティング+ One Report（コード、IaC）を使用したOpenAI GPT - Betterscan Community Edition（CE）",
+                    "zh-hans": "输入：使用多种工具/扫描器进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码，IaC）- Betterscan 社区版（CE）\n输出：",
+                    "zh-hant": "輸入：使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）"
                 }
             }
         },
@@ -22042,6 +22250,76 @@
                     "ja": "入力：人工知能インフラストラクチャのコード生成ツール。\n出力：",
                     "zh-hans": "人工智能基础设施即代码生成器。",
                     "zh-hant": "人工智慧基礎設施即代碼生成器。"
+                }
+            },
+            "https://github.com/anasfik/openai": {
+                "repository_name": "openai",
+                "user_name": "anasfik",
+                "language": "Dart",
+                "license": "MIT License",
+                "description": "Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)",
+                "topics": [
+                    "ai",
+                    "dall-e",
+                    "dall-e-api",
+                    "dart",
+                    "dart-library",
+                    "dart-package",
+                    "dartlang",
+                    "flutter",
+                    "gpt-3",
+                    "gpt3",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)",
+                    "ja": "入力：ChatGPTおよびすべてのOpenAI API（GPT、Dall-eなど）のためのDart/Flutter SDK",
+                    "zh-hans": "输入：ChatGPT和所有OpenAI API（GPT、Dall-e等）的Dart/Flutter SDK",
+                    "zh-hant": "輸入：ChatGPT和所有OpenAI API（GPT、Dall-e..）的Dart/Flutter SDK"
+                }
+            },
+            "https://github.com/swuecho/chat": {
+                "repository_name": "chat",
+                "user_name": "swuecho",
+                "language": "Go",
+                "license": null,
+                "description": "chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude or custom model",
+                "topics": [
+                    "chatgpt",
+                    "claude-ai",
+                    "sass",
+                    "teams"
+                ],
+                "multilingual_descriptions": {
+                    "en": "chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude or custom model",
+                    "ja": "入力：チーム向けのチャットWebアプリ、ユーザー管理とレート制限を備えたSaaS、ChatGPT（OpenAI＆Azure）のサポート、Claudeまたはカスタムモデル\n出力：チーム向けのチャットWebアプリで、ユーザー管理とレート制限を備えたSaaSです。ChatGPT（OpenAI＆Azure）をサポートし、Claudeまたはカスタムモデルを使用します。",
+                    "zh-hans": "输入：用于团队的聊天网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。\n输出：团队聊天的网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。",
+                    "zh-hant": "輸入：團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型\n輸出：團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型"
+                }
+            },
+            "https://github.com/yakami129/virtualwife": {
+                "repository_name": "VirtualWife",
+                "user_name": "yakami129",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。",
+                "topics": [
+                    "chatgpt",
+                    "docker",
+                    "gpt",
+                    "nodejs",
+                    "openai",
+                    "reatctjs",
+                    "virtual",
+                    "virtualwife",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "VirtualWife is a virtual digital human project that is still in the incubation stage. There are many areas that need to be optimized. The author wants to create a virtual digital human with its own \"soul\". You can get to know her like a friend. The author hopes that the virtual digital human can integrate into human life, serving as a love mentor, a psychological counselor, and meeting human emotional needs.",
+                    "ja": "VirtualWifeは、仮想的なデジタル人間のプロジェクトであり、まだ孵化段階にあり、改善が必要な点が多くあります。作者は、自分自身の「魂」を持つ仮想的なデジタル人間を作りたいと考えており、彼女と友達のように知り合うことができます。作者は、仮想的なデジタル人間が人間の生活に溶け込み、恋愛のアドバイザーや心理カウンセラーとして、人間の感情的なニーズを解決することを望んでいます。",
+                    "zh-hans": "VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。",
+                    "zh-hant": "VirtualWife是一個虛擬數字人項目，項目還處於孵化階段，有很多需要優化的地方，作者想打造一個擁有自己“靈魂”的虛擬數字人，你可以像朋友一樣和她相識，作者希望虛擬數字人融入人類生活，作為戀愛導師，心理咨詢師，解決人類的情感需求。"
                 }
             }
         },
@@ -28174,6 +28452,58 @@
                     "ja": "企業微信/微信の安全な使用に適したChatGPTの個人アシスタントアプリ",
                     "zh-hans": "企业微信/微信 安全使用的 ChatGPT 个人助手应用",
                     "zh-hant": "企業微信/微信 安全使用的 ChatGPT 個人助手應用"
+                }
+            },
+            "https://github.com/janhq/jan": {
+                "repository_name": "jan",
+                "user_name": "janhq",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+                "topics": [
+                    "electron",
+                    "gpt",
+                    "llama2",
+                    "llamacpp",
+                    "localai",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+                    "ja": "Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替品です。",
+                    "zh-hans": "Jan是ChatGPT的开源替代品，可以完全离线在您的计算机上运行。",
+                    "zh-hant": "Jan是一個開源的替代方案，可以在您的電腦上完全離線運行，用於替代ChatGPT。"
+                }
+            },
+            "https://github.com/gerevai/gerev": {
+                "repository_name": "gerev",
+                "user_name": "GerevAI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🧠 AI-powered enterprise search engine 🔎",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "confluence",
+                    "enterprise-search",
+                    "helpdesk",
+                    "helpdesk-tools",
+                    "llama-index",
+                    "machine-learning",
+                    "search-engine",
+                    "semantic-search-engine",
+                    "similarity-search",
+                    "sysadmin",
+                    "tech-support",
+                    "technical-support",
+                    "vector-search",
+                    "workplace-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🧠 AI-powered enterprise search engine 🔎",
+                    "ja": "🧠 AIを搭載した企業向け検索エンジン 🔎",
+                    "zh-hans": "🧠 人工智能驱动的企业搜索引擎 🔎",
+                    "zh-hant": "🧠 AI 強化的企業搜尋引擎 🔎"
                 }
             }
         }
