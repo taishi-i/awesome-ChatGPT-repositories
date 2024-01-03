@@ -14,45 +14,39 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します。
- * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 入力：チェーンオブソート（CoT）、インストラクションチューニングなど、大規模言語モデル（LLM）に関する論文やリソースのコレクション。
-出力：大規模言語モデル（LLM）に関する論文やリソース、チェーンオブソート（CoT）、インストラクションチューニングなどのコレクション。
-
-
 **Prompts**
- * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - 入力：BERTからGPT-4へのTransformerモデル、Hugging FaceからOpenAIへの環境。ファインチューニング、トレーニング、プロンプトエンジニアリングの例。ChatGPT、GPT-3.5-turbo、GPT-4、およびDALL-Eを含むボーナスセクション。GPT-4のジャンプスタート、音声からテキストへの変換、テキストから音声への変換、DALL-Eによるテキストから画像生成、Google Cloud AI、HuggingGPTなども含まれます。
+ * [llm-guard](https://github.com/laiyer-ai/llm-guard) - LLMインタラクションのためのセキュリティツールキット
+ * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - 入力：ACL2023論文「言語モデルプロンプティングによる推論：サーベイ」のリポジトリ。
+出力：「言語モデルプロンプティングによる推論：サーベイ」というACL2023論文のリポジトリ。
 
 
 **Chatbots**
- * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - 入力：ChatGPT（gpt-3.5以降）とのチャット、WeChatフックインターフェースを使用
+ * [vbot](https://github.com/hanson/vbot) - 入力：微信、企微、ロボット、企業微信、企微ロボット、微信ロボット、集約チャット、RPA、プロトコル、フック、リバース、ワークツール、ネットワーク、グループ送信、自動返信、ChatGPT、API接続、安定した防止全言語対応、企業カスタマイズ/SCRM/SAAS専用
+ * [org-ai](https://github.com/rksm/org-ai) - 入力：Emacsはあなたの個人的なAIアシスタントです。ChatGPTやLLaMAなどのLLMを使用してテキスト生成、DALL-EやStable Diffusionを使用して画像生成を行います。また、音声入力/出力もサポートしています。
+ * [Linly](https://github.com/cvi-szu/linly) - 入力：Chinese-LLaMA 1＆2、Chinese-Falcon 基礎モデル；ChatFlow中文対話モデル；中文OpenLLaMAモデル；NLPプレトレーニング/指示微調データセット
 
-出力：
+
+**Reimplementations**
+ * [textgen](https://github.com/shibing624/textgen) - テキスト生成モデルの実装で、LLaMA、BLOOM、GPT2、BART、T5、SongNetなどを含みます。これらのモデルのトレーニングと予測を実現し、すぐに使用できます。
 
 
 **NLP**
- * [NeumAI](https://github.com/neumtry/neumai) - Neum AIは、大規模なベクトル埋め込みの作成と同期を管理するための最高のフレームワークです。
- * [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - スクラッチからChatGPTのようなLLMを段階的に実装する
- * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
+ * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 大規模言語モデル（LLM）を使用した一般的な情報検索エージェントシステム。
+ * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 入力：[NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」
+出力：[NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」
 
 
-**Unity**
- * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 入力：多くのツール/スキャナーを使用したコードスキャン/ SAST/静的解析/リンティング+ One Report（コード、IaC）を使用したOpenAI GPT - Betterscan Community Edition（CE）
-
-
-**Openai**
- * [openai](https://github.com/anasfik/openai) - 入力：ChatGPTおよびすべてのOpenAI API（GPT、Dall-eなど）のためのDart/Flutter SDK
- * [chat](https://github.com/swuecho/chat) - 入力：チーム向けのチャットWebアプリ、ユーザー管理とレート制限を備えたSaaS、ChatGPT（OpenAI＆Azure）のサポート、Claudeまたはカスタムモデル
-出力：チーム向けのチャットWebアプリで、ユーザー管理とレート制限を備えたSaaSです。ChatGPT（OpenAI＆Azure）をサポートし、Claudeまたはカスタムモデルを使用します。
- * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWifeは、仮想的なデジタル人間のプロジェクトであり、まだ孵化段階にあり、改善が必要な点が多くあります。作者は、自分自身の「魂」を持つ仮想的なデジタル人間を作りたいと考えており、彼女と友達のように知り合うことができます。作者は、仮想的なデジタル人間が人間の生活に溶け込み、恋愛のアドバイザーや心理カウンセラーとして、人間の感情的なニーズを解決することを望んでいます。
+**Langchain**
+ * [dr-doc-search](https://github.com/namuan/dr-doc-search) - 入力：本と対話する - GPT-3で作成された
+出力：本と対話する - GPT-3で作成された
 
 
 **Others**
- * [jan](https://github.com/janhq/jan) - Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替品です。
- * [gerev](https://github.com/gerevai/gerev) - 🧠 AIを搭載した企業向け検索エンジン 🔎
+ * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - 入力：Replitコンテナのデプロイxrayプロキシ、カスタムマスクウェブページのサポート、ワンクリックで5つのプロトコルを同時にサポート、vless、vmess、trojan、shadowsocks、socksの構築をサポート、ローカルアップロードとreplitプラットフォームのforkの2つのモードでのデプロイをサポートします。
+ * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 未来を形作る安全領域のスマート革命
 
 
-_Updated on January 01, 2024_ (A total of 1316 repositories listed.)
+_Updated on January 04, 2024_ (A total of 1327 repositories listed.)
 
 ## Table of contents
 
@@ -116,8 +110,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 素晴らしいAI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、プロンプト、プラグイン、プロンプトの漏洩
  * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - サイバーセキュリティのための厳選されたGPTエージェントのリスト
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します。
- * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 入力：チェーンオブソート（CoT）、インストラクションチューニングなど、大規模言語モデル（LLM）に関する論文やリソースのコレクション。
-出力：大規模言語モデル（LLM）に関する論文やリソース、チェーンオブソート（CoT）、インストラクションチューニングなどのコレクション。
+ * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - チェーンオブソート（CoT）、インストラクションチューニングなど、大規模言語モデル（LLM）に関する論文やリソースのコレクション。大規模言語モデル（LLM）に関する論文やリソース、チェーンオブソート（CoT）、インストラクションチューニングなどのコレクション。
 
 
 ## Prompts
@@ -218,7 +211,10 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [GPTs](https://github.com/linexjlin/gpts) - GPTの漏洩したプロンプト
  * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 大規模なマルチモーダルモデル（GPT-4 Vision、LLaVA、CogVLMなど）に対する効果的なプロンプティング。🔥
  * [promptbench](https://github.com/microsoft/promptbench) - 大規模言語モデルの統一評価フレームワーク
- * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - 入力：BERTからGPT-4へのTransformerモデル、Hugging FaceからOpenAIへの環境。ファインチューニング、トレーニング、プロンプトエンジニアリングの例。ChatGPT、GPT-3.5-turbo、GPT-4、およびDALL-Eを含むボーナスセクション。GPT-4のジャンプスタート、音声からテキストへの変換、テキストから音声への変換、DALL-Eによるテキストから画像生成、Google Cloud AI、HuggingGPTなども含まれます。
+ * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - BERTからGPT-4へのTransformerモデル、Hugging FaceからOpenAIへの環境。ファインチューニング、トレーニング、プロンプトエンジニアリングの例。ChatGPT、GPT-3.5-turbo、GPT-4、およびDALL-Eを含むボーナスセクション。GPT-4のジャンプスタート、音声からテキストへの変換、テキストから音声への変換、DALL-Eによるテキストから画像生成、Google Cloud AI、HuggingGPTなども含まれます。
+ * [llm-guard](https://github.com/laiyer-ai/llm-guard) - LLMインタラクションのためのセキュリティツールキット
+ * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - 入力：ACL2023論文「言語モデルプロンプティングによる推論：サーベイ」のリポジトリ。
+出力：「言語モデルプロンプティングによる推論：サーベイ」というACL2023論文のリポジトリ。
 
 
 ## Chatbots
@@ -392,9 +388,10 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - OpenAI APIアシスタントを使用してチャットボットを構築するためのオープンソースプラットフォーム。
  * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - アリアは、GPT大規模言語モデルによってパワードされたあなたのAI研究アシスタントです。
  * [aidea](https://github.com/mylxsw/aidea) - AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。
- * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - 入力：ChatGPT（gpt-3.5以降）とのチャット、WeChatフックインターフェースを使用
-
-出力：
+ * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - ChatGPT（gpt-3.5以降）とのチャット、WeChatフックインターフェースを使用
+ * [vbot](https://github.com/hanson/vbot) - 入力：微信、企微、ロボット、企業微信、企微ロボット、微信ロボット、集約チャット、RPA、プロトコル、フック、リバース、ワークツール、ネットワーク、グループ送信、自動返信、ChatGPT、API接続、安定した防止全言語対応、企業カスタマイズ/SCRM/SAAS専用
+ * [org-ai](https://github.com/rksm/org-ai) - 入力：Emacsはあなたの個人的なAIアシスタントです。ChatGPTやLLaMAなどのLLMを使用してテキスト生成、DALL-EやStable Diffusionを使用して画像生成を行います。また、音声入力/出力もサポートしています。
+ * [Linly](https://github.com/cvi-szu/linly) - 入力：Chinese-LLaMA 1＆2、Chinese-Falcon 基礎モデル；ChatFlow中文対話モデル；中文OpenLLaMAモデル；NLPプレトレーニング/指示微調データセット
 
 
 ## Browser-extensions
@@ -682,6 +679,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - OpenAIのChatGPTコードインタプリタのローカル実装。
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。
  * [vall-e](https://github.com/lifeiteng/vall-e) - VALL-E（ゼロショットテキストから音声へ）のPyTorch実装、再現されたデモ https://lifeiteng.github.io/valle/index.html
+ * [textgen](https://github.com/shibing624/textgen) - テキスト生成モデルの実装で、LLaMA、BLOOM、GPT2、BART、T5、SongNetなどを含みます。これらのモデルのトレーニングと予測を実現し、すぐに使用できます。
 
 
 ## Tutorials
@@ -888,6 +886,9 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [NeumAI](https://github.com/neumtry/neumai) - Neum AIは、大規模なベクトル埋め込みの作成と同期を管理するための最高のフレームワークです。
  * [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - スクラッチからChatGPTのようなLLMを段階的に実装する
  * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
+ * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 大規模言語モデル（LLM）を使用した一般的な情報検索エージェントシステム。
+ * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 入力：[NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」
+出力：[NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」
 
 
 ## Langchain
@@ -965,6 +966,8 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAIサービスプロキシ。OpenAI公式APIリクエストをAzure OpenAI APIリクエストに変換します。GPT-4、Embeddings、Langchainをサポートします。OpenAIからAzure OpenAIへのアダプター。
  * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - LLMs（OpenAI GPT-3.5/4、Llama2、Azure AI）と埋め込みを活用した個人用コードレビューアー ⚡️ コードの品質を向上させ、本番環境でのバグを発生させる前にキャッチする 🚀
  * [GPTRouter](https://github.com/writesonic/gptrouter) - 複数のLLM（OpenAI、Anthropic、Azure）と画像モデル（Dall-E、SDXL）をスムーズに管理し、応答速度を向上させ、中断のない信頼性を確保します。
+ * [dr-doc-search](https://github.com/namuan/dr-doc-search) - 入力：本と対話する - GPT-3で作成された
+出力：本と対話する - GPT-3で作成された
 
 
 ## Unity
@@ -979,7 +982,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio GPTキャッシュのバックエンドにferretdbを追加したいと思っています。ToDoリストに追加します。Milvusの開発者とコミュニティ全体を代表して、シャウトアウトありがとうございます！
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - Unityを使用してAIチャット関連の機能を実現します。現在、このライブラリにはchatgpt、chatglmなどの大規模言語モデルのAPI呼び出しのコード実装が含まれており、また、Microsoft AzureおよびBaidu AIの音声サービス機能も実装されています。音声サービスはすべてWeb APIを使用しており、Windows/WebGL/Androidなどのプラットフォームをサポートしています。
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最もダウンロードされ、フォークされ、貢献され、大規模なコミュニティによってサポートされ、PHP（Laravel、Symfony、Yii、Cake PHPまたは任意のPHPフレームワーク）SDKとして使用されるOpenAI GPT-3およびDALL-EのSDKです。また、chatGPTのようなストリーミングもサポートしています。（ChatGPT AIがサポートされています）
- * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 入力：多くのツール/スキャナーを使用したコードスキャン/ SAST/静的解析/リンティング+ One Report（コード、IaC）を使用したOpenAI GPT - Betterscan Community Edition（CE）
+ * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/静的解析/リンティング+ One Report（コード、IaC）を使用したOpenAI GPT - Betterscan Community Edition（CE）
 
 
 ## Openai
@@ -1114,9 +1117,8 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - OpenAI GPT-3 APIにアクセスするための非公式なC#/.NET SDK
  * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理インターフェースは、OpenAIのすべてのインターフェース（モデル、画像、音声、ファインチューニング、ファイルなど）を集約し、操作することができます。Markdown形式（数式、グラフ、表など）もサポートしており、今後はOpenAIのインターフェースを少しずつ追加していきますので、皆さんのサポートをお願いします。右上のスターをクリックしていただけると嬉しいです。私はずっと更新し続けますので、一緒に学び、一緒に頑張り、一緒に成長しましょう。
  * [aiac](https://github.com/gofireflyio/aiac) - 人工知能インフラストラクチャのコード生成ツール。
- * [openai](https://github.com/anasfik/openai) - 入力：ChatGPTおよびすべてのOpenAI API（GPT、Dall-eなど）のためのDart/Flutter SDK
- * [chat](https://github.com/swuecho/chat) - 入力：チーム向けのチャットWebアプリ、ユーザー管理とレート制限を備えたSaaS、ChatGPT（OpenAI＆Azure）のサポート、Claudeまたはカスタムモデル
-出力：チーム向けのチャットWebアプリで、ユーザー管理とレート制限を備えたSaaSです。ChatGPT（OpenAI＆Azure）をサポートし、Claudeまたはカスタムモデルを使用します。
+ * [openai](https://github.com/anasfik/openai) - ChatGPTおよびすべてのOpenAI API（GPT、Dall-eなど）のためのDart/Flutter SDK
+ * [chat](https://github.com/swuecho/chat) - チーム向けのチャットWebアプリ、ユーザー管理とレート制限を備えたSaaS、ChatGPT（OpenAI＆Azure）のサポート、Claudeまたはカスタムモデルチーム向けのチャットWebアプリで、ユーザー管理とレート制限を備えたSaaSです。ChatGPT（OpenAI＆Azure）をサポートし、Claudeまたはカスタムモデルを使用します。
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWifeは、仮想的なデジタル人間のプロジェクトであり、まだ孵化段階にあり、改善が必要な点が多くあります。作者は、自分自身の「魂」を持つ仮想的なデジタル人間を作りたいと考えており、彼女と友達のように知り合うことができます。作者は、仮想的なデジタル人間が人間の生活に溶け込み、恋愛のアドバイザーや心理カウンセラーとして、人間の感情的なニーズを解決することを望んでいます。
 
 
@@ -1447,5 +1449,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企業微信/微信の安全な使用に適したChatGPTの個人アシスタントアプリ
  * [jan](https://github.com/janhq/jan) - Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替品です。
  * [gerev](https://github.com/gerevai/gerev) - 🧠 AIを搭載した企業向け検索エンジン 🔎
+ * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - 入力：Replitコンテナのデプロイxrayプロキシ、カスタムマスクウェブページのサポート、ワンクリックで5つのプロトコルを同時にサポート、vless、vmess、trojan、shadowsocks、socksの構築をサポート、ローカルアップロードとreplitプラットフォームのforkの2つのモードでのデプロイをサポートします。
+ * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 未来を形作る安全領域のスマート革命
 
 
