@@ -14,41 +14,36 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
- * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others. 
-
-
 **Prompts**
- * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more 
+ * [llm-guard](https://github.com/laiyer-ai/llm-guard) - The Security Toolkit for LLM Interactions
+ * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - Repository for the ACL2023 paper "Reasoning with Language Model Prompting: A Survey".
 
 
 **Chatbots**
- * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based
+ * [vbot](https://github.com/hanson/vbot) - 微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用
+ * [org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
+ * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
+
+
+**Reimplementations**
+ * [textgen](https://github.com/shibing624/textgen) - TextGen: Implementation of Text Generation models, include LLaMA, BLOOM, GPT2, BART, T5, SongNet and so on. 文本生成模型，实现了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的训练和预测，开箱即用。
 
 
 **NLP**
- * [NeumAI](https://github.com/neumtry/neumai) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
- * [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
- * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - A library for mechanistic interpretability of GPT-style language models
+ * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - A generalized information-seeking agent system with Large Language Models (LLMs).
+ * [MotionGPT](https://github.com/openmotionlab/motiongpt) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
 
 
-**Unity**
- * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
-
-
-**Openai**
- * [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
- * [chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude or custom model
- * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。
+**Langchain**
+ * [dr-doc-search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3
 
 
 **Others**
- * [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
- * [gerev](https://github.com/gerevai/gerev) - 🧠 AI-powered enterprise search engine 🔎
+ * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
+ * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未来的安全领域智能革命
 
 
-_Updated on January 01, 2024_ (A total of 1316 repositories listed.)
+_Updated on January 04, 2024_ (A total of 1327 repositories listed.)
 
 ## Table of contents
 
@@ -112,7 +107,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
  * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - A curated list of GPT agents for cybersecurity
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
- * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others. 
+ * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others.
 
 
 ## Prompts
@@ -213,7 +208,9 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [GPTs](https://github.com/linexjlin/gpts) - leaked prompts of GPTs
  * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision, LLaVA or CogVLM. 🔥
  * [promptbench](https://github.com/microsoft/promptbench) - A unified evaluation framework for large language models
- * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more 
+ * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more
+ * [llm-guard](https://github.com/laiyer-ai/llm-guard) - The Security Toolkit for LLM Interactions
+ * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - Repository for the ACL2023 paper "Reasoning with Language Model Prompting: A Survey".
 
 
 ## Chatbots
@@ -388,6 +385,9 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria is Your AI Research Assistant Powered by GPT Large Language Models
  * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
  * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - Chat with ChatGPT (gpt-3.5 or newer)，WeChat hook interface based
+ * [vbot](https://github.com/hanson/vbot) - 微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用
+ * [org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
+ * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
 
 
 ## Browser-extensions
@@ -675,6 +675,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - A local implementation of OpenAI's ChatGPT Code Interpreter.
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu: Docs of OpenLLMAI. Survey, reproduction and domain/task adaptation of open source chatgpt alternatives/implementations. PiXiu-貔貅 means fortune.
  * [vall-e](https://github.com/lifeiteng/vall-e) - PyTorch implementation of VALL-E(Zero-Shot Text-To-Speech), Reproduced Demo https://lifeiteng.github.io/valle/index.html
+ * [textgen](https://github.com/shibing624/textgen) - TextGen: Implementation of Text Generation models, include LLaMA, BLOOM, GPT2, BART, T5, SongNet and so on. 文本生成模型，实现了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的训练和预测，开箱即用。
 
 
 ## Tutorials
@@ -881,6 +882,8 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [NeumAI](https://github.com/neumtry/neumai) - Neum AI is a best-in-class framework to manage the creation and synchronization of vector embeddings at large scale.
  * [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
  * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - A library for mechanistic interpretability of GPT-style language models
+ * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - A generalized information-seeking agent system with Large Language Models (LLMs).
+ * [MotionGPT](https://github.com/openmotionlab/motiongpt) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
 
 
 ## Langchain
@@ -958,6 +961,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
  * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4, Llama2, Azure AI) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀
  * [GPTRouter](https://github.com/writesonic/gptrouter) - Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability.
+ * [dr-doc-search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3
 
 
 ## Unity
@@ -1439,5 +1443,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 ChatGPT 个人助手应用
  * [jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
  * [gerev](https://github.com/gerevai/gerev) - 🧠 AI-powered enterprise search engine 🔎
+ * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
+ * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未来的安全领域智能革命
 
 

@@ -3236,6 +3236,66 @@
                     "zh-hans": "输入：从BERT到GPT-4的Transformer模型，从Hugging Face到OpenAI的环境。微调、训练和提示工程示例。附加部分包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E，包括启动GPT-4、语音转文本、文本转语音、使用DALL-E生成图像的文本等。Google Cloud AI、HuggingGPT等等。",
                     "zh-hant": "輸入：從BERT到GPT-4的Transformer模型，從Hugging Face到OpenAI的環境。微調、訓練和提示工程的示例。包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E的額外部分，其中包括啟動GPT-4、語音轉文字、文字轉語音、使用DALL-E生成圖像的文字等。Google Cloud AI、HuggingGPT等等。"
                 }
+            },
+            "https://github.com/laiyer-ai/llm-guard": {
+                "repository_name": "llm-guard",
+                "user_name": "laiyer-ai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "The Security Toolkit for LLM Interactions",
+                "topics": [
+                    "adversarial-machine-learning",
+                    "chatgpt",
+                    "large-language-models",
+                    "llm",
+                    "llm-security",
+                    "llmops",
+                    "prompt-engineering",
+                    "prompt-injection",
+                    "security-tools",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Security Toolkit for LLM Interactions",
+                    "ja": "LLMインタラクションのためのセキュリティツールキット",
+                    "zh-hans": "LLM互动安全工具包",
+                    "zh-hant": "LLM互動的安全工具包"
+                }
+            },
+            "https://github.com/zjunlp/prompt4reasoningpapers": {
+                "repository_name": "Prompt4ReasoningPapers",
+                "user_name": "zjunlp",
+                "language": null,
+                "license": "MIT License",
+                "description": "Repository for the ACL2023 paper \"Reasoning with Language Model Prompting: A Survey\".",
+                "topics": [
+                    "arithmetic-reasoning",
+                    "artificial-intelligence",
+                    "awsome-list",
+                    "chain-of-thought",
+                    "chatgpt",
+                    "commonsense-reasoning",
+                    "datasets",
+                    "gpt-3",
+                    "language-models",
+                    "large-language-models",
+                    "llm",
+                    "logical-reasoning",
+                    "natural-language-processing",
+                    "nlp",
+                    "paper-list",
+                    "prompt",
+                    "prompt-engineering",
+                    "reasoning",
+                    "survey",
+                    "symbolic-reasoning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Repository for the ACL2023 paper \"Reasoning with Language Model Prompting: A Survey\".",
+                    "ja": "入力：ACL2023論文「言語モデルプロンプティングによる推論：サーベイ」のリポジトリ。\n出力：「言語モデルプロンプティングによる推論：サーベイ」というACL2023論文のリポジトリ。",
+                    "zh-hans": "ACL2023论文《使用语言模型提示进行推理：一项调查》的存储库。",
+                    "zh-hant": "輸入：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。\n輸出：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。"
+                }
             }
         },
         "Chatbots": {
@@ -7233,6 +7293,71 @@
                     "ja": "入力：ChatGPT（gpt-3.5以降）とのチャット、WeChatフックインターフェースを使用\n\n出力：",
                     "zh-hans": "使用ChatGPT（gpt-3.5或更新版本）进行聊天，基于微信钩子接口。",
                     "zh-hant": "使用ChatGPT（gpt-3.5或更新版本）進行聊天，基於微信鉤子接口。"
+                }
+            },
+            "https://github.com/hanson/vbot": {
+                "repository_name": "vbot",
+                "user_name": "Hanson",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用",
+                "topics": [
+                    "php",
+                    "robot",
+                    "wechat",
+                    "weixin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WeChat, Enterprise WeChat, robot, Enterprise WeChat robot, WeChat robot, aggregated chat, RPA, protocol, hook, reverse, worktool, ntwork, mass sending, automatic reply, chatgpt, API docking, stable anti-blocking, universal in all languages, enterprise customization/SCRM/SAAS dedicated.",
+                    "ja": "入力：微信、企微、ロボット、企業微信、企微ロボット、微信ロボット、集約チャット、RPA、プロトコル、フック、リバース、ワークツール、ネットワーク、グループ送信、自動返信、ChatGPT、API接続、安定した防止全言語対応、企業カスタマイズ/SCRM/SAAS専用",
+                    "zh-hans": "微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用",
+                    "zh-hant": "輸入：微信，企微，機器人，企業微信，企微機器人，微信機器人，聚合聊天，RPA，協議，hook，逆向，worktool，ntwork，群發，自動回復，chatgpt，API對接，穩定防封全語言通用，企業定制/SCRM/SAAS專用"
+                }
+            },
+            "https://github.com/rksm/org-ai": {
+                "repository_name": "org-ai",
+                "user_name": "rksm",
+                "language": "Emacs Lisp",
+                "license": "GNU General Public License v3.0",
+                "description": "Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "emacs",
+                    "generative-models",
+                    "gpt",
+                    "llms"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.",
+                    "ja": "入力：Emacsはあなたの個人的なAIアシスタントです。ChatGPTやLLaMAなどのLLMを使用してテキスト生成、DALL-EやStable Diffusionを使用して画像生成を行います。また、音声入力/出力もサポートしています。",
+                    "zh-hans": "输入：Emacs作为您的个人AI助手。使用像ChatGPT或LLaMA这样的LLM进行文本生成，或使用DALL-E和Stable Diffusion进行图像生成。还支持语音输入/输出。",
+                    "zh-hant": "輸入：Emacs作為您的個人AI助手。使用像ChatGPT或LLaMA這樣的LLM進行文本生成，或使用DALL-E和Stable Diffusion進行圖像生成。還支持語音輸入/輸出。"
+                }
+            },
+            "https://github.com/cvi-szu/linly": {
+                "repository_name": "Linly",
+                "user_name": "CVI-SZU",
+                "language": "Python",
+                "license": null,
+                "description": "Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集",
+                "topics": [
+                    "bert",
+                    "chatbot",
+                    "chatgpt",
+                    "chinese",
+                    "chinese-nlp",
+                    "gpt-3",
+                    "language-model",
+                    "llama",
+                    "nlp",
+                    "zero-shot-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集",
+                    "ja": "入力：Chinese-LLaMA 1＆2、Chinese-Falcon 基礎モデル；ChatFlow中文対話モデル；中文OpenLLaMAモデル；NLPプレトレーニング/指示微調データセット",
+                    "zh-hans": "输入：Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集",
+                    "zh-hant": "輸入：Chinese-LLaMA 1&2、Chinese-Falcon 基礎模型；ChatFlow中文對話模型；中文OpenLLaMA模型；NLP預訓練/指令微調資料集"
                 }
             }
         },
@@ -13336,6 +13461,32 @@
                     "zh-hans": "VALL-E（零样本文本到语音）的PyTorch实现，复现演示https://lifeiteng.github.io/valle/index.html",
                     "zh-hant": "請將以下內容翻譯成繁體中文。\nVALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://lifeiteng.github.io/valle/index.html"
                 }
+            },
+            "https://github.com/shibing624/textgen": {
+                "repository_name": "textgen",
+                "user_name": "shibing624",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "TextGen: Implementation of Text Generation models, include LLaMA, BLOOM, GPT2, BART, T5, SongNet and so on. 文本生成模型，实现了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的训练和预测，开箱即用。",
+                "topics": [
+                    "bart",
+                    "bert",
+                    "chatglm",
+                    "chatgpt",
+                    "gpt2",
+                    "llama",
+                    "seq2seq",
+                    "t5",
+                    "text-generation",
+                    "textgen",
+                    "xlnet"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TextGen: Implementation of Text Generation models, include LLaMA, BLOOM, GPT2, BART, T5, SongNet and so on. 文本生成模型，实现了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的训练和预测，开箱即用。",
+                    "ja": "テキスト生成モデルの実装で、LLaMA、BLOOM、GPT2、BART、T5、SongNetなどを含みます。これらのモデルのトレーニングと予測を実現し、すぐに使用できます。",
+                    "zh-hans": "文本生成模型，包括LLaMA、BLOOM、GPT2、BART、T5、SongNet等的实现。可以进行训练和预测，方便使用。",
+                    "zh-hant": "輸入：TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。"
+                }
             }
         },
         "Tutorials": {
@@ -17498,6 +17649,53 @@
                     "zh-hans": "一个用于解释GPT风格语言模型机制的图书馆",
                     "zh-hant": "一個用於解釋GPT風格語言模型的機械解釋性圖書館"
                 }
+            },
+            "https://github.com/kwaikeg/kwaiagents": {
+                "repository_name": "KwaiAgents",
+                "user_name": "KwaiKEG",
+                "language": "Python",
+                "license": "Other",
+                "description": "A generalized information-seeking agent system with Large Language Models (LLMs).",
+                "topics": [
+                    "agi",
+                    "autogpt",
+                    "autonomous-agents",
+                    "chatgpt",
+                    "gpt",
+                    "large-language-models",
+                    "localllm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A generalized information-seeking agent system with Large Language Models (LLMs).",
+                    "ja": "大規模言語モデル（LLM）を使用した一般的な情報検索エージェントシステム。",
+                    "zh-hans": "一个具有大型语言模型（LLMs）的广义信息搜索代理系统。",
+                    "zh-hant": "一個具有大型語言模型（LLMs）的廣義信息尋求代理系統。"
+                }
+            },
+            "https://github.com/openmotionlab/motiongpt": {
+                "repository_name": "MotionGPT",
+                "user_name": "OpenMotionLab",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "[NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs",
+                "topics": [
+                    "3d-generation",
+                    "chatgpt",
+                    "gpt",
+                    "language-model",
+                    "motion",
+                    "motion-generation",
+                    "motiongpt",
+                    "multi-modal",
+                    "text-driven",
+                    "text-to-motion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs",
+                    "ja": "入力：[NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」\n出力：[NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」",
+                    "zh-hans": "【NeurIPS 2023】MotionGPT：将人类动作视为一门外语的统一动作语言生成模型，使用LLMs",
+                    "zh-hant": "【NeurIPS 2023】MotionGPT：以語言模型為基礎的統一運動-語言生成模型，將人類運動視為一種外語"
+                }
             }
         },
         "Langchain": {
@@ -19209,6 +19407,26 @@
                     "ja": "複数のLLM（OpenAI、Anthropic、Azure）と画像モデル（Dall-E、SDXL）をスムーズに管理し、応答速度を向上させ、中断のない信頼性を確保します。",
                     "zh-hans": "流畅管理多个LLM（OpenAI，Anthropic，Azure）和图像模型（Dall-E，SDXL），加快响应速度，并确保持续可靠性。",
                     "zh-hant": "順利管理多個LLM（OpenAI，Anthropic，Azure）和圖像模型（Dall-E，SDXL），加快回應速度，確保不間斷的可靠性。"
+                }
+            },
+            "https://github.com/namuan/dr-doc-search": {
+                "repository_name": "dr-doc-search",
+                "user_name": "namuan",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Converse with book - Built with GPT-3",
+                "topics": [
+                    "gpt3",
+                    "langchain",
+                    "nlp-machine-learning",
+                    "python",
+                    "summarization"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Converse with book - Built with GPT-3",
+                    "ja": "入力：本と対話する - GPT-3で作成された\n出力：本と対話する - GPT-3で作成された",
+                    "zh-hans": "与书对话 - 由GPT-3构建",
+                    "zh-hant": "與書對話 - 搭載GPT-3"
                 }
             }
         },
@@ -28504,6 +28722,51 @@
                     "ja": "🧠 AIを搭載した企業向け検索エンジン 🔎",
                     "zh-hans": "🧠 人工智能驱动的企业搜索引擎 🔎",
                     "zh-hant": "🧠 AI 強化的企業搜尋引擎 🔎"
+                }
+            },
+            "https://github.com/yonggekkk/replit-xray": {
+                "repository_name": "Replit-Xray",
+                "user_name": "yonggekkk",
+                "language": null,
+                "license": null,
+                "description": "Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署",
+                "topics": [
+                    "chatgpt",
+                    "nginx",
+                    "oneclick",
+                    "replit",
+                    "shadowsocks",
+                    "socks",
+                    "trojan",
+                    "vless",
+                    "vmess",
+                    "xray-core",
+                    "ygkkk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: Replit container deployment of xray proxy, supports custom disguised web pages, one-click support for five protocols coexistence, supports building vless, vmess, trojan, shadowsocks, socks, supports local upload and deployment in two modes: forking on the replit platform.",
+                    "ja": "入力：Replitコンテナのデプロイxrayプロキシ、カスタムマスクウェブページのサポート、ワンクリックで5つのプロトコルを同時にサポート、vless、vmess、trojan、shadowsocks、socksの構築をサポート、ローカルアップロードとreplitプラットフォームのforkの2つのモードでのデプロイをサポートします。",
+                    "zh-hans": "输入：Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署\n输出：Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署",
+                    "zh-hant": "輸入：Replit容器部署xray代理，支持自定義偽裝網頁，一鍵五協議共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上傳與replit平台fork兩種模式部署"
+                }
+            },
+            "https://github.com/mo-xiaoxi/gptsecurity": {
+                "repository_name": "GPTSecurity",
+                "user_name": "mo-xiaoxi",
+                "language": null,
+                "license": "Other",
+                "description": "塑造未来的安全领域智能革命",
+                "topics": [
+                    "aigc",
+                    "gpt-4",
+                    "security",
+                    "wiki"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Shaping the Intelligent Revolution in the Field of Future Security",
+                    "ja": "未来を形作る安全領域のスマート革命",
+                    "zh-hans": "塑造未来的安全领域智能革命",
+                    "zh-hant": "塑造未來的安全領域智能革命"
                 }
             }
         }

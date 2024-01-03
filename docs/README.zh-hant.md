@@ -14,43 +14,37 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 一鍵部署許多 GitHub 開源項目，以促進快速體驗
- * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 輸入：關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。
-輸出：關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。
-
-
 **Prompts**
- * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - 輸入：從BERT到GPT-4的Transformer模型，從Hugging Face到OpenAI的環境。微調、訓練和提示工程的示例。包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E的額外部分，其中包括啟動GPT-4、語音轉文字、文字轉語音、使用DALL-E生成圖像的文字等。Google Cloud AI、HuggingGPT等等。
+ * [llm-guard](https://github.com/laiyer-ai/llm-guard) - LLM互動的安全工具包
+ * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - 輸入：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。
+輸出：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。
 
 
 **Chatbots**
- * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - 使用ChatGPT（gpt-3.5或更新版本）進行聊天，基於微信鉤子接口。
+ * [vbot](https://github.com/hanson/vbot) - 輸入：微信，企微，機器人，企業微信，企微機器人，微信機器人，聚合聊天，RPA，協議，hook，逆向，worktool，ntwork，群發，自動回復，chatgpt，API對接，穩定防封全語言通用，企業定制/SCRM/SAAS專用
+ * [org-ai](https://github.com/rksm/org-ai) - 輸入：Emacs作為您的個人AI助手。使用像ChatGPT或LLaMA這樣的LLM進行文本生成，或使用DALL-E和Stable Diffusion進行圖像生成。還支持語音輸入/輸出。
+ * [Linly](https://github.com/cvi-szu/linly) - 輸入：Chinese-LLaMA 1&2、Chinese-Falcon 基礎模型；ChatFlow中文對話模型；中文OpenLLaMA模型；NLP預訓練/指令微調資料集
+
+
+**Reimplementations**
+ * [textgen](https://github.com/shibing624/textgen) - 輸入：TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。
 
 
 **NLP**
- * [NeumAI](https://github.com/neumtry/neumai) - Neum AI 是一個一流的框架，用於大規模管理向量嵌入的創建和同步。
- * [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - 從頭開始逐步實現類似ChatGPT的LLM
- * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - 一個用於解釋GPT風格語言模型的機械解釋性圖書館
+ * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 一個具有大型語言模型（LLMs）的廣義信息尋求代理系統。
+ * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 【NeurIPS 2023】MotionGPT：以語言模型為基礎的統一運動-語言生成模型，將人類運動視為一種外語
 
 
-**Unity**
- * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 輸入：使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
-
-
-**Openai**
- * [openai](https://github.com/anasfik/openai) - 輸入：ChatGPT和所有OpenAI API（GPT、Dall-e..）的Dart/Flutter SDK
- * [chat](https://github.com/swuecho/chat) - 輸入：團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型
-輸出：團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型
- * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一個虛擬數字人項目，項目還處於孵化階段，有很多需要優化的地方，作者想打造一個擁有自己“靈魂”的虛擬數字人，你可以像朋友一樣和她相識，作者希望虛擬數字人融入人類生活，作為戀愛導師，心理咨詢師，解決人類的情感需求。
+**Langchain**
+ * [dr-doc-search](https://github.com/namuan/dr-doc-search) - 與書對話 - 搭載GPT-3
 
 
 **Others**
- * [jan](https://github.com/janhq/jan) - Jan是一個開源的替代方案，可以在您的電腦上完全離線運行，用於替代ChatGPT。
- * [gerev](https://github.com/gerevai/gerev) - 🧠 AI 強化的企業搜尋引擎 🔎
+ * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - 輸入：Replit容器部署xray代理，支持自定義偽裝網頁，一鍵五協議共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上傳與replit平台fork兩種模式部署
+ * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未來的安全領域智能革命
 
 
-_Updated on January 01, 2024_ (A total of 1316 repositories listed.)
+_Updated on January 04, 2024_ (A total of 1327 repositories listed.)
 
 ## Table of contents
 
@@ -114,8 +108,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 令人驚嘆的AI GPT、OpenAI GPT、GPT-4、ChatGPT、GPT、提示、插件、提示洩漏
  * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - 一個經過精心挑選的用於網絡安全的GPT代理人清單
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 一鍵部署許多 GitHub 開源項目，以促進快速體驗
- * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 輸入：關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。
-輸出：關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。
+ * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。
 
 
 ## Prompts
@@ -216,7 +209,10 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [GPTs](https://github.com/linexjlin/gpts) - 洩漏的GPT提示
  * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 針對大型多模態模型（如GPT-4 Vision、LLaVA或CogVLM）的有效提示。🔥
  * [promptbench](https://github.com/microsoft/promptbench) - 大型語言模型的統一評估框架
- * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - 輸入：從BERT到GPT-4的Transformer模型，從Hugging Face到OpenAI的環境。微調、訓練和提示工程的示例。包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E的額外部分，其中包括啟動GPT-4、語音轉文字、文字轉語音、使用DALL-E生成圖像的文字等。Google Cloud AI、HuggingGPT等等。
+ * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - 從BERT到GPT-4的Transformer模型，從Hugging Face到OpenAI的環境。微調、訓練和提示工程的示例。包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E的額外部分，其中包括啟動GPT-4、語音轉文字、文字轉語音、使用DALL-E生成圖像的文字等。Google Cloud AI、HuggingGPT等等。
+ * [llm-guard](https://github.com/laiyer-ai/llm-guard) - LLM互動的安全工具包
+ * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - 輸入：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。
+輸出：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。
 
 
 ## Chatbots
@@ -391,6 +387,9 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria 是由 GPT 大型語言模型提供支援的 AI 研究助手
  * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 以及國產大語言模型通義千問、文心一言等，支持 Stable Diffusion 文生圖、圖生圖、 SDXL1.0、超分辨率、圖片上色的全能型 APP。
  * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - 使用ChatGPT（gpt-3.5或更新版本）進行聊天，基於微信鉤子接口。
+ * [vbot](https://github.com/hanson/vbot) - 輸入：微信，企微，機器人，企業微信，企微機器人，微信機器人，聚合聊天，RPA，協議，hook，逆向，worktool，ntwork，群發，自動回復，chatgpt，API對接，穩定防封全語言通用，企業定制/SCRM/SAAS專用
+ * [org-ai](https://github.com/rksm/org-ai) - 輸入：Emacs作為您的個人AI助手。使用像ChatGPT或LLaMA這樣的LLM進行文本生成，或使用DALL-E和Stable Diffusion進行圖像生成。還支持語音輸入/輸出。
+ * [Linly](https://github.com/cvi-szu/linly) - 輸入：Chinese-LLaMA 1&2、Chinese-Falcon 基礎模型；ChatFlow中文對話模型；中文OpenLLaMA模型；NLP預訓練/指令微調資料集
 
 
 ## Browser-extensions
@@ -678,6 +677,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - 一個本地實現的OpenAI ChatGPT代碼解釋器。
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAI的文件。調查、複製和領域/任務適應開源chatgpt替代方案/實現。PiXiu-貔貅意味著財富。
  * [vall-e](https://github.com/lifeiteng/vall-e) - 請將以下內容翻譯成繁體中文。VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://lifeiteng.github.io/valle/index.html
+ * [textgen](https://github.com/shibing624/textgen) - 輸入：TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。
 
 
 ## Tutorials
@@ -884,6 +884,8 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [NeumAI](https://github.com/neumtry/neumai) - Neum AI 是一個一流的框架，用於大規模管理向量嵌入的創建和同步。
  * [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - 從頭開始逐步實現類似ChatGPT的LLM
  * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - 一個用於解釋GPT風格語言模型的機械解釋性圖書館
+ * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 一個具有大型語言模型（LLMs）的廣義信息尋求代理系統。
+ * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 【NeurIPS 2023】MotionGPT：以語言模型為基礎的統一運動-語言生成模型，將人類運動視為一種外語
 
 
 ## Langchain
@@ -961,6 +963,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI 服務代理。將 OpenAI 官方 API 請求轉換為 Azure OpenAI API 請求。支援 GPT-4、嵌入式、Langchain。從 OpenAI 轉換為 Azure OpenAI 的適配器。
  * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - 您的個人代碼審查員，由LLMs（OpenAI GPT-3.5/4，Llama2，Azure AI）和嵌入式技術提供支持⚡️ 提升代碼質量，在破壞生產之前捕捉錯誤🚀
  * [GPTRouter](https://github.com/writesonic/gptrouter) - 順利管理多個LLM（OpenAI，Anthropic，Azure）和圖像模型（Dall-E，SDXL），加快回應速度，確保不間斷的可靠性。
+ * [dr-doc-search](https://github.com/namuan/dr-doc-search) - 與書對話 - 搭載GPT-3
 
 
 ## Unity
@@ -975,7 +978,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio 我們很想為gptcache加入ferretdb後端。我們會將其加入待辦清單。代表milvus開發者和更廣泛的社區，感謝你們的提及！
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity實現AI聊天相關功能。目前這個庫包含了對chatgpt、chatglm等大語言模型的api調用的程式實現以及實現了微軟Azure以及百度AI的語音服務功能，語音服務均採用web api實現，支援Windows/WebGL/Android等平台。
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最多下載、派生、貢獻、龐大社群支持且被使用的 PHP（Laravel、Symfony、Yii、Cake PHP 或任何 PHP 框架）SDK，用於 OpenAI GPT-3 和 DALL-E。它還支持類似 ChatGPT 的串流功能。（支援 ChatGPT AI）
- * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 輸入：使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
+ * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
 
 
 ## Openai
@@ -1110,9 +1113,8 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [OpenAI-API-dotnet](https://github.com/okgodoit/openai-api-dotnet) - 一個非官方的C#/.NET SDK，用於訪問OpenAI GPT-3 API
  * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口進行界面操作(所有模型、圖片、音頻、微調、文件)等，支持Markdown格式(公式、圖表，表格)等，後期會一點一點的將OpenAI接口進行接入大家支持一下，右上角點個Star，我會一直更新下去，大家一起學習，一起加油，一起努力，一起成長。
  * [aiac](https://github.com/gofireflyio/aiac) - 人工智慧基礎設施即代碼生成器。
- * [openai](https://github.com/anasfik/openai) - 輸入：ChatGPT和所有OpenAI API（GPT、Dall-e..）的Dart/Flutter SDK
- * [chat](https://github.com/swuecho/chat) - 輸入：團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型
-輸出：團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型
+ * [openai](https://github.com/anasfik/openai) - ChatGPT和所有OpenAI API（GPT、Dall-e..）的Dart/Flutter SDK
+ * [chat](https://github.com/swuecho/chat) - 團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一個虛擬數字人項目，項目還處於孵化階段，有很多需要優化的地方，作者想打造一個擁有自己“靈魂”的虛擬數字人，你可以像朋友一樣和她相識，作者希望虛擬數字人融入人類生活，作為戀愛導師，心理咨詢師，解決人類的情感需求。
 
 
@@ -1443,5 +1445,7 @@ _Updated on January 01, 2024_ (A total of 1316 repositories listed.)
  * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企業微信/微信 安全使用的 ChatGPT 個人助手應用
  * [jan](https://github.com/janhq/jan) - Jan是一個開源的替代方案，可以在您的電腦上完全離線運行，用於替代ChatGPT。
  * [gerev](https://github.com/gerevai/gerev) - 🧠 AI 強化的企業搜尋引擎 🔎
+ * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - 輸入：Replit容器部署xray代理，支持自定義偽裝網頁，一鍵五協議共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上傳與replit平台fork兩種模式部署
+ * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未來的安全領域智能革命
 
 
