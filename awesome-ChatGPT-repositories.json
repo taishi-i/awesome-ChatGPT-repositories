@@ -7359,6 +7359,20 @@
                     "zh-hans": "输入：Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集",
                     "zh-hant": "輸入：Chinese-LLaMA 1&2、Chinese-Falcon 基礎模型；ChatFlow中文對話模型；中文OpenLLaMA模型；NLP預訓練/指令微調資料集"
                 }
+            },
+            "https://github.com/memochou1993/gpt-ai-assistant": {
+                "repository_name": "gpt-ai-assistant",
+                "user_name": "memochou1993",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "OpenAI + LINE + Vercel = GPT AI Assistant",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI, LINE, and Vercel together create the GPT AI Assistant.",
+                    "ja": "オープンエーアイ + LINE + Vercel = GPT AIアシスタント",
+                    "zh-hans": "OpenAI + LINE + Vercel = GPT AI助手",
+                    "zh-hant": "OpenAI + LINE + Vercel = GPT AI 助手"
+                }
             }
         },
         "Browser-extensions": {
@@ -10633,6 +10647,29 @@
                     "ja": "Googleの検索結果やYouTubeの動画と一緒にChatGPTの要約を表示するためのChrome拡張機能です。また、Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、日経、Bing、Google特許など、どんなページの要約にも対応しています。",
                     "zh-hans": "Chrome扩展程序，可在Google搜索结果和YouTube视频旁边查看ChatGPT摘要，还支持Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google专利以及任何页面的摘要。",
                     "zh-hant": "輸入：Chrome 擴充功能，可在 Google 搜尋結果和 YouTube 影片旁邊查看 ChatGPT 摘要，同時也支援 Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google 專利，以及任何頁面的摘要。"
+                }
+            },
+            "https://github.com/carlrobertoh/codegpt": {
+                "repository_name": "CodeGPT",
+                "user_name": "carlrobertoh",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free",
+                "topics": [
+                    "codellama",
+                    "gpt-4",
+                    "intellij",
+                    "intellij-plugin",
+                    "jetbrains",
+                    "llama",
+                    "pycharm",
+                    "pycharm-plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free",
+                    "ja": "入力：JetBrainsの拡張機能は、GPT-4、Code Llamaなどの最新のLLMに無料でアクセスできます。",
+                    "zh-hans": "输入：JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。\n输出：JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。",
+                    "zh-hant": "輸入：JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。\n輸出：JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。"
                 }
             }
         },
@@ -22539,6 +22576,25 @@
                     "zh-hans": "VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。",
                     "zh-hant": "VirtualWife是一個虛擬數字人項目，項目還處於孵化階段，有很多需要優化的地方，作者想打造一個擁有自己“靈魂”的虛擬數字人，你可以像朋友一樣和她相識，作者希望虛擬數字人融入人類生活，作為戀愛導師，心理咨詢師，解決人類的情感需求。"
                 }
+            },
+            "https://github.com/aaamoon/copilot-gpt4-service": {
+                "repository_name": "copilot-gpt4-service",
+                "user_name": "aaamoon",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. ",
+                "topics": [
+                    "chatgpt",
+                    "copilot",
+                    "gpt4",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. ",
+                    "ja": "入力：Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。\n出力：Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。",
+                    "zh-hans": "将Github Copilot的请求转换为ChatGPT的请求，可以免费使用GPT-4模型。",
+                    "zh-hant": "將Github Copilot的請求轉換為ChatGPT的請求，可以自由使用GPT-4模型。"
+                }
             }
         },
         "Others": {
@@ -28767,6 +28823,41 @@
                     "ja": "未来を形作る安全領域のスマート革命",
                     "zh-hans": "塑造未来的安全领域智能革命",
                     "zh-hant": "塑造未來的安全領域智能革命"
+                }
+            },
+            "https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa": {
+                "repository_name": "auto_job__find__chatgpt__rpa",
+                "user_name": "Frrrrrrrrank",
+                "language": "Python",
+                "license": null,
+                "description": "This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.",
+                    "ja": "これは、あなたの履歴書と求人内容に基づいてChatGPTを使用して自動的にカバーレターを生成し、中国の上司にメッセージを送信するためのツールです。",
+                    "zh-hans": "这是一个工具，可以根据您的简历和职位描述，使用ChatGPT自动生成求职信，并发送给中国的老板。",
+                    "zh-hant": "這是一個工具，使用 chatgpt 根據您的簡歷和職位描述自動生成求職信，並發送給中國的老闆。"
+                }
+            },
+            "https://github.com/hoochanlon/hamulete": {
+                "repository_name": "hamulete",
+                "user_name": "hoochanlon",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。",
+                "topics": [
+                    "chatgpt",
+                    "cnki",
+                    "it",
+                    "mirrors",
+                    "social",
+                    "university"
+                ],
+                "multilingual_descriptions": {
+                    "en": "National Taiwan University, National University of Singapore, Waseda University, University of Tokyo, Academia Sinica (Taiwan), as well as key universities and research institutions in China, social sciences, economics, mathematics, game theory, philosophy, and academic papers in the field of systems engineering, etc.",
+                    "ja": "🏔️国立台湾大学、新加坡国立大学、早稻田大学、東京大学、中央研究院（台湾）および中国の重要な大学や研究機関による、社会科学、経済学、数学、ゲーム理論、哲学、システム工学などの学術論文の知識データベース。",
+                    "zh-hans": "🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。",
+                    "zh-hant": "🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。"
                 }
             }
         }

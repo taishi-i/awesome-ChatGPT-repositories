@@ -14,36 +14,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [llm-guard](https://github.com/laiyer-ai/llm-guard) - The Security Toolkit for LLM Interactions
- * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - Repository for the ACL2023 paper "Reasoning with Language Model Prompting: A Survey".
-
-
 **Chatbots**
- * [vbot](https://github.com/hanson/vbot) - 微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用
- * [org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
- * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
+ * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 
 
-**Reimplementations**
- * [textgen](https://github.com/shibing624/textgen) - TextGen: Implementation of Text Generation models, include LLaMA, BLOOM, GPT2, BART, T5, SongNet and so on. 文本生成模型，实现了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的训练和预测，开箱即用。
+**Browser-extensions**
+ * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free
 
 
-**NLP**
- * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - A generalized information-seeking agent system with Large Language Models (LLMs).
- * [MotionGPT](https://github.com/openmotionlab/motiongpt) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
-
-
-**Langchain**
- * [dr-doc-search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3
+**Openai**
+ * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. 
 
 
 **Others**
- * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
- * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未来的安全领域智能革命
+ * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
+ * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
 
-_Updated on January 04, 2024_ (A total of 1327 repositories listed.)
+_Updated on January 08, 2024_ (A total of 1332 repositories listed.)
 
 ## Table of contents
 
@@ -388,6 +376,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [vbot](https://github.com/hanson/vbot) - 微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用
  * [org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
  * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
+ * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
 
 
 ## Browser-extensions
@@ -540,6 +529,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - A plugin for IDA that can help to analyze binary file, it is based on the gpt-3.5-turbo model trained by OpenAI, the same as ChatGPT.
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
  * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
+ * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free
 
 
 ## CLIs
@@ -1114,6 +1104,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
  * [chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude or custom model
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。
+ * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. 
 
 
 ## Others
@@ -1445,5 +1436,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [gerev](https://github.com/gerevai/gerev) - 🧠 AI-powered enterprise search engine 🔎
  * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
  * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未来的安全领域智能革命
+ * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
+ * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
 

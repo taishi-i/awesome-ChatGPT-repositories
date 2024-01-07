@@ -14,37 +14,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [llm-guard](https://github.com/laiyer-ai/llm-guard) - LLM互動的安全工具包
- * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - 輸入：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。
-輸出：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。
-
-
 **Chatbots**
- * [vbot](https://github.com/hanson/vbot) - 輸入：微信，企微，機器人，企業微信，企微機器人，微信機器人，聚合聊天，RPA，協議，hook，逆向，worktool，ntwork，群發，自動回復，chatgpt，API對接，穩定防封全語言通用，企業定制/SCRM/SAAS專用
- * [org-ai](https://github.com/rksm/org-ai) - 輸入：Emacs作為您的個人AI助手。使用像ChatGPT或LLaMA這樣的LLM進行文本生成，或使用DALL-E和Stable Diffusion進行圖像生成。還支持語音輸入/輸出。
- * [Linly](https://github.com/cvi-szu/linly) - 輸入：Chinese-LLaMA 1&2、Chinese-Falcon 基礎模型；ChatFlow中文對話模型；中文OpenLLaMA模型；NLP預訓練/指令微調資料集
+ * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI 助手
 
 
-**Reimplementations**
- * [textgen](https://github.com/shibing624/textgen) - 輸入：TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。
+**Browser-extensions**
+ * [CodeGPT](https://github.com/carlrobertoh/codegpt) - 輸入：JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。
+輸出：JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。
 
 
-**NLP**
- * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 一個具有大型語言模型（LLMs）的廣義信息尋求代理系統。
- * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 【NeurIPS 2023】MotionGPT：以語言模型為基礎的統一運動-語言生成模型，將人類運動視為一種外語
-
-
-**Langchain**
- * [dr-doc-search](https://github.com/namuan/dr-doc-search) - 與書對話 - 搭載GPT-3
+**Openai**
+ * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 將Github Copilot的請求轉換為ChatGPT的請求，可以自由使用GPT-4模型。
 
 
 **Others**
- * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - 輸入：Replit容器部署xray代理，支持自定義偽裝網頁，一鍵五協議共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上傳與replit平台fork兩種模式部署
- * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未來的安全領域智能革命
+ * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - 這是一個工具，使用 chatgpt 根據您的簡歷和職位描述自動生成求職信，並發送給中國的老闆。
+ * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。
 
 
-_Updated on January 04, 2024_ (A total of 1327 repositories listed.)
+_Updated on January 08, 2024_ (A total of 1332 repositories listed.)
 
 ## Table of contents
 
@@ -211,8 +199,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [promptbench](https://github.com/microsoft/promptbench) - 大型語言模型的統一評估框架
  * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - 從BERT到GPT-4的Transformer模型，從Hugging Face到OpenAI的環境。微調、訓練和提示工程的示例。包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E的額外部分，其中包括啟動GPT-4、語音轉文字、文字轉語音、使用DALL-E生成圖像的文字等。Google Cloud AI、HuggingGPT等等。
  * [llm-guard](https://github.com/laiyer-ai/llm-guard) - LLM互動的安全工具包
- * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - 輸入：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。
-輸出：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。
+ * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。
 
 
 ## Chatbots
@@ -387,9 +374,10 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - Aria 是由 GPT 大型語言模型提供支援的 AI 研究助手
  * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 以及國產大語言模型通義千問、文心一言等，支持 Stable Diffusion 文生圖、圖生圖、 SDXL1.0、超分辨率、圖片上色的全能型 APP。
  * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - 使用ChatGPT（gpt-3.5或更新版本）進行聊天，基於微信鉤子接口。
- * [vbot](https://github.com/hanson/vbot) - 輸入：微信，企微，機器人，企業微信，企微機器人，微信機器人，聚合聊天，RPA，協議，hook，逆向，worktool，ntwork，群發，自動回復，chatgpt，API對接，穩定防封全語言通用，企業定制/SCRM/SAAS專用
- * [org-ai](https://github.com/rksm/org-ai) - 輸入：Emacs作為您的個人AI助手。使用像ChatGPT或LLaMA這樣的LLM進行文本生成，或使用DALL-E和Stable Diffusion進行圖像生成。還支持語音輸入/輸出。
- * [Linly](https://github.com/cvi-szu/linly) - 輸入：Chinese-LLaMA 1&2、Chinese-Falcon 基礎模型；ChatFlow中文對話模型；中文OpenLLaMA模型；NLP預訓練/指令微調資料集
+ * [vbot](https://github.com/hanson/vbot) - 微信，企微，機器人，企業微信，企微機器人，微信機器人，聚合聊天，RPA，協議，hook，逆向，worktool，ntwork，群發，自動回復，chatgpt，API對接，穩定防封全語言通用，企業定制/SCRM/SAAS專用
+ * [org-ai](https://github.com/rksm/org-ai) - Emacs作為您的個人AI助手。使用像ChatGPT或LLaMA這樣的LLM進行文本生成，或使用DALL-E和Stable Diffusion進行圖像生成。還支持語音輸入/輸出。
+ * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基礎模型；ChatFlow中文對話模型；中文OpenLLaMA模型；NLP預訓練/指令微調資料集
+ * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI 助手
 
 
 ## Browser-extensions
@@ -542,6 +530,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - 一個用於IDA的插件，可以幫助分析二進制文件，它基於OpenAI訓練的gpt-3.5-turbo模型，與ChatGPT相同。
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 雲崽qq機器人的chatgpt插件
  * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome 擴充功能，可在 Google 搜尋結果和 YouTube 影片旁邊查看 ChatGPT 摘要，同時也支援 Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google 專利，以及任何頁面的摘要。
+ * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。
 
 
 ## CLIs
@@ -677,7 +666,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - 一個本地實現的OpenAI ChatGPT代碼解釋器。
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAI的文件。調查、複製和領域/任務適應開源chatgpt替代方案/實現。PiXiu-貔貅意味著財富。
  * [vall-e](https://github.com/lifeiteng/vall-e) - 請將以下內容翻譯成繁體中文。VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://lifeiteng.github.io/valle/index.html
- * [textgen](https://github.com/shibing624/textgen) - 輸入：TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。
+ * [textgen](https://github.com/shibing624/textgen) - TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。
 
 
 ## Tutorials
@@ -1116,6 +1105,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [openai](https://github.com/anasfik/openai) - ChatGPT和所有OpenAI API（GPT、Dall-e..）的Dart/Flutter SDK
  * [chat](https://github.com/swuecho/chat) - 團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一個虛擬數字人項目，項目還處於孵化階段，有很多需要優化的地方，作者想打造一個擁有自己“靈魂”的虛擬數字人，你可以像朋友一樣和她相識，作者希望虛擬數字人融入人類生活，作為戀愛導師，心理咨詢師，解決人類的情感需求。
+ * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 將Github Copilot的請求轉換為ChatGPT的請求，可以自由使用GPT-4模型。
 
 
 ## Others
@@ -1445,7 +1435,9 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企業微信/微信 安全使用的 ChatGPT 個人助手應用
  * [jan](https://github.com/janhq/jan) - Jan是一個開源的替代方案，可以在您的電腦上完全離線運行，用於替代ChatGPT。
  * [gerev](https://github.com/gerevai/gerev) - 🧠 AI 強化的企業搜尋引擎 🔎
- * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - 輸入：Replit容器部署xray代理，支持自定義偽裝網頁，一鍵五協議共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上傳與replit平台fork兩種模式部署
+ * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray代理，支持自定義偽裝網頁，一鍵五協議共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上傳與replit平台fork兩種模式部署
  * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未來的安全領域智能革命
+ * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - 這是一個工具，使用 chatgpt 根據您的簡歷和職位描述自動生成求職信，並發送給中國的老闆。
+ * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。
 
 
