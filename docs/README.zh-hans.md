@@ -14,37 +14,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [llm-guard](https://github.com/laiyer-ai/llm-guard) - LLM互动安全工具包
- * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - ACL2023论文《使用语言模型提示进行推理：一项调查》的存储库。
-
-
 **Chatbots**
- * [vbot](https://github.com/hanson/vbot) - 微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用
- * [org-ai](https://github.com/rksm/org-ai) - 输入：Emacs作为您的个人AI助手。使用像ChatGPT或LLaMA这样的LLM进行文本生成，或使用DALL-E和Stable Diffusion进行图像生成。还支持语音输入/输出。
- * [Linly](https://github.com/cvi-szu/linly) - 输入：Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
+ * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI助手
 
 
-**Reimplementations**
- * [textgen](https://github.com/shibing624/textgen) - 文本生成模型，包括LLaMA、BLOOM、GPT2、BART、T5、SongNet等的实现。可以进行训练和预测，方便使用。
+**Browser-extensions**
+ * [CodeGPT](https://github.com/carlrobertoh/codegpt) - 输入：JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。
+输出：JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。
 
 
-**NLP**
- * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 一个具有大型语言模型（LLMs）的广义信息搜索代理系统。
- * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 【NeurIPS 2023】MotionGPT：将人类动作视为一门外语的统一动作语言生成模型，使用LLMs
-
-
-**Langchain**
- * [dr-doc-search](https://github.com/namuan/dr-doc-search) - 与书对话 - 由GPT-3构建
+**Openai**
+ * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 将Github Copilot的请求转换为ChatGPT的请求，可以免费使用GPT-4模型。
 
 
 **Others**
- * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - 输入：Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
-输出：Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
- * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未来的安全领域智能革命
+ * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - 这是一个工具，可以根据您的简历和职位描述，使用ChatGPT自动生成求职信，并发送给中国的老板。
+ * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
 
-_Updated on January 04, 2024_ (A total of 1327 repositories listed.)
+_Updated on January 08, 2024_ (A total of 1332 repositories listed.)
 
 ## Table of contents
 
@@ -387,8 +375,9 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT 和国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
  * [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - 使用ChatGPT（gpt-3.5或更新版本）进行聊天，基于微信钩子接口。
  * [vbot](https://github.com/hanson/vbot) - 微信，企微，机器人，企业微信，企微机器人，微信机器人，聚合聊天，RPA，协议，hook，逆向，worktool，ntwork，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用
- * [org-ai](https://github.com/rksm/org-ai) - 输入：Emacs作为您的个人AI助手。使用像ChatGPT或LLaMA这样的LLM进行文本生成，或使用DALL-E和Stable Diffusion进行图像生成。还支持语音输入/输出。
- * [Linly](https://github.com/cvi-szu/linly) - 输入：Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
+ * [org-ai](https://github.com/rksm/org-ai) - Emacs作为您的个人AI助手。使用像ChatGPT或LLaMA这样的LLM进行文本生成，或使用DALL-E和Stable Diffusion进行图像生成。还支持语音输入/输出。
+ * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
+ * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI助手
 
 
 ## Browser-extensions
@@ -541,6 +530,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - 一个用于IDA的插件，可以帮助分析二进制文件，它基于OpenAI训练的gpt-3.5-turbo模型，与ChatGPT相同。
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
  * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome扩展程序，可在Google搜索结果和YouTube视频旁边查看ChatGPT摘要，还支持Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google专利以及任何页面的摘要。
+ * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。
 
 
 ## CLIs
@@ -1115,6 +1105,7 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [openai](https://github.com/anasfik/openai) - ChatGPT和所有OpenAI API（GPT、Dall-e等）的Dart/Flutter SDK
  * [chat](https://github.com/swuecho/chat) - 用于团队的聊天网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。团队聊天的网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。
+ * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 将Github Copilot的请求转换为ChatGPT的请求，可以免费使用GPT-4模型。
 
 
 ## Others
@@ -1444,8 +1435,9 @@ _Updated on January 04, 2024_ (A total of 1327 repositories listed.)
  * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 ChatGPT 个人助手应用
  * [jan](https://github.com/janhq/jan) - Jan是ChatGPT的开源替代品，可以完全离线在您的计算机上运行。
  * [gerev](https://github.com/gerevai/gerev) - 🧠 人工智能驱动的企业搜索引擎 🔎
- * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - 输入：Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
-输出：Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
+ * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
  * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未来的安全领域智能革命
+ * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - 这是一个工具，可以根据您的简历和职位描述，使用ChatGPT自动生成求职信，并发送给中国的老板。
+ * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
 
