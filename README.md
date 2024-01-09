@@ -14,24 +14,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
+**Awesome-lists**
+ * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
 
 
-**Browser-extensions**
- * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free
+**NLP**
+ * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 
 
 **Openai**
- * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. 
+ * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
 
 
 **Others**
- * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
- * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+ * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
+ * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
 
 
-_Updated on January 08, 2024_ (A total of 1332 repositories listed.)
+_Updated on January 10, 2024_ (A total of 1337 repositories listed.)
 
 ## Table of contents
 
@@ -96,6 +96,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - A curated list of GPT agents for cybersecurity
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
  * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others.
+ * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
 
 
 ## Prompts
@@ -320,7 +321,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
  * [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - A wechat robot based on ChatGPT with no risk, very stable! 🚀
  * [FeishuBot](https://github.com/rawchen/feishubot) - 飞书群聊/私聊ChatGPT机器人
- * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) -  A tool that can automatically convert 🤗 Huggingface Spaces,魔搭创空间 and Gradio ChatBot into free APIs. Supports GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问 and many other chatbot like spaces.
+ * [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - A tool that can automatically convert 🤗 Huggingface Spaces,魔搭创空间 and Gradio ChatBot into free APIs. Supports GPT4Free,ChatGPT,Llama2,MPT,Falcon Chat,ChatGLM,通义千问 and many other chatbot like spaces.
  * [ChatGpt-Web](https://github.com/79e/chatgpt-web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
  * [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
  * [chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc) - Chat with your docs in PDF/PPTX/DOCX format, using LangChain and GPT4/ChatGPT from both Azure OpenAI Service and OpenAI
@@ -843,7 +844,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [chatnio](https://github.com/zmh-program/chatnio) - 📚 document of Zh-Website project (using vitepress)
  * [Selective_Context](https://github.com/liyucheng09/selective_context) - Compress your input to ChatGPT or other LLMs, to let them process 2x more content and save 40% memory and GPU time.
  * [GPT-RAG](https://github.com/azure/gpt-rag) - Sharing the learning along the way we been gathering to enable Azure OpenAI at scale in a secure manner. GPT-RAG core is a Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.
- * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) -  Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
+ * [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - Generate dialog data from documents using LLM like ChatGLM2 or ChatGPT;利用ChatGLM2,ChatGPT等大模型根据文档生成对话数据集
  * [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - 使用 ChatGPT 自动将 Markdown 文件批量翻译为多语言 | Auto translate Markdown files to multi languages using ChatGPT
  * [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - A Solution Accelerator for the RAG pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.
  * [RSS-GPT](https://github.com/yinan-c/rss-gpt) - Using ChatGPT to summarize your personalized RSS feeds
@@ -874,6 +875,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - A library for mechanistic interpretability of GPT-style language models
  * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - A generalized information-seeking agent system with Large Language Models (LLMs).
  * [MotionGPT](https://github.com/openmotionlab/motiongpt) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
+ * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
 
 
 ## Langchain
@@ -914,7 +916,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - Multimodal-GPT
  * [snowChat](https://github.com/kaarthik108/snowchat) - Chat on you're snowflake database - Text to SQL
  * [DB-GPT](https://github.com/csunny/db-gpt) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
- * [LaWGPT](https://github.com/pengxiao-song/lawgpt) -  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
+ * [LaWGPT](https://github.com/pengxiao-song/lawgpt) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
  * [InternGPT](https://github.com/opengvlab/interngpt) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com
  * [chainlit](https://github.com/chainlit/chainlit) - Build Python LLM apps in minutes ⚡️
  * [Flowise](https://github.com/flowiseai/flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
@@ -933,7 +935,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - openai style api for open large language models, using LLMs just as chatgpt! 开源大模型的统一后端接口
  * [AtomGPT](https://github.com/atomecho/atomgpt) - 中英文预训练大模型，目标与ChatGPT的水平一致
  * [litellm](https://github.com/berriai/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
- * [BayLing](https://github.com/ictnlp/bayling) -  “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
+ * [BayLing](https://github.com/ictnlp/bayling) - “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing is an English/Chinese LLM equipped with advanced language alignment, showing superior capability in English/Chinese generation, instruction following and multi-turn interaction.
  * [auto-news](https://github.com/finaldie/auto-news) - A personal news aggregator to pull information from multi-sources + LLM (ChatGPT via LangChain) to help us reading efficiently with less noises, the sources including: Tweets, RSS, YouTube, Web Articles, Reddit, and personal Journal notes.
  * [Zhongjing](https://github.com/suprityoung/zhongjing) - A Chinese medical ChatGPT based on LLaMa, training from large-scale pretrain corpus and multi-turn dialogue dataset.
  * [opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
@@ -1084,7 +1086,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
  * [chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt) - 基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。
  * [chat](https://github.com/libli/chat) - 有用户管理功能的ChatGPT API透明代理后台
- * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) -  chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型
+ * [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - chatgpt nodejs服务，集成了ChatGLM、GPT3.5、GPT4、GPT联网、必应、Claude、百度文心一言等模型
  * [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - ChatGPT UI with auth, targeted towards business-ey usecases, written in Elixir + LiveView
  * [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - 🧠 Horizon AI Template - Trendiest Open-source ChatGPT UI AI Template & Starter Kit for React, NextJS & Chakra UI
  * [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
@@ -1104,7 +1106,8 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [openai](https://github.com/anasfik/openai) - Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)
  * [chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude or custom model
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。
- * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. 
+ * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model.
+ * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
 
 
 ## Others
@@ -1287,7 +1290,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
  * [pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
  * [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - 移动版二次元 AI 老婆聊天器
- * [ChatALL](https://github.com/sunner/chatall) -  Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
+ * [ChatALL](https://github.com/sunner/chatall) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
  * [fastGPT](https://github.com/certik/fastgpt) - Fast GPT-2 inference written in Fortran
  * [menubar](https://github.com/smol-ai/menubar) - a menubar with Zero latency access to ChatGPT/Bard/Claude! A/B test them, or use them in the background. I use this 20 times a day.
  * [quivr](https://github.com/stangirard/quivr) - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
@@ -1438,5 +1441,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未来的安全领域智能革命
  * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
  * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+ * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
+ * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
 
 

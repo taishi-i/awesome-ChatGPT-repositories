@@ -14,25 +14,24 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI 助手
+**Awesome-lists**
+ * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 一個精心挑選的令人驚嘆的自定義GPT清單
 
 
-**Browser-extensions**
- * [CodeGPT](https://github.com/carlrobertoh/codegpt) - 輸入：JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。
-輸出：JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。
+**NLP**
+ * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - 一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。
 
 
 **Openai**
- * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 將Github Copilot的請求轉換為ChatGPT的請求，可以自由使用GPT-4模型。
+ * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - 靜態網頁，允許您使用OpenAI API金鑰，獲得與ChatGPT相同的體驗！
 
 
 **Others**
- * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - 這是一個工具，使用 chatgpt 根據您的簡歷和職位描述自動生成求職信，並發送給中國的老闆。
- * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。
+ * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - AI代理使用GPT-4V（視覺）能夠使用滑鼠/鍵盤與網頁使用者介面進行互動
+ * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - 《O'Reilly書籍生成式深度學習第二版：教機器繪畫、寫作、作曲和遊戲的官方程式庫》。
 
 
-_Updated on January 08, 2024_ (A total of 1332 repositories listed.)
+_Updated on January 10, 2024_ (A total of 1337 repositories listed.)
 
 ## Table of contents
 
@@ -97,6 +96,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - 一個經過精心挑選的用於網絡安全的GPT代理人清單
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 一鍵部署許多 GitHub 開源項目，以促進快速體驗
  * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。
+ * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 一個精心挑選的令人驚嘆的自定義GPT清單
 
 
 ## Prompts
@@ -875,6 +875,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - 一個用於解釋GPT風格語言模型的機械解釋性圖書館
  * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 一個具有大型語言模型（LLMs）的廣義信息尋求代理系統。
  * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 【NeurIPS 2023】MotionGPT：以語言模型為基礎的統一運動-語言生成模型，將人類運動視為一種外語
+ * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - 一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。
 
 
 ## Langchain
@@ -1106,6 +1107,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [chat](https://github.com/swuecho/chat) - 團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型團隊聊天網絡應用程式，具有用戶管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定義模型
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一個虛擬數字人項目，項目還處於孵化階段，有很多需要優化的地方，作者想打造一個擁有自己“靈魂”的虛擬數字人，你可以像朋友一樣和她相識，作者希望虛擬數字人融入人類生活，作為戀愛導師，心理咨詢師，解決人類的情感需求。
  * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 將Github Copilot的請求轉換為ChatGPT的請求，可以自由使用GPT-4模型。
+ * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - 靜態網頁，允許您使用OpenAI API金鑰，獲得與ChatGPT相同的體驗！
 
 
 ## Others
@@ -1439,5 +1441,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未來的安全領域智能革命
  * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - 這是一個工具，使用 chatgpt 根據您的簡歷和職位描述自動生成求職信，並發送給中國的老闆。
  * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。
+ * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - AI代理使用GPT-4V（視覺）能夠使用滑鼠/鍵盤與網頁使用者介面進行互動
+ * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - 《O'Reilly書籍生成式深度學習第二版：教機器繪畫、寫作、作曲和遊戲的官方程式庫》。
 
 

@@ -14,25 +14,24 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - オープンエーアイ + LINE + Vercel = GPT AIアシスタント
+**Awesome-lists**
+ * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 素晴らしいカスタムGPTの厳選リスト
 
 
-**Browser-extensions**
- * [CodeGPT](https://github.com/carlrobertoh/codegpt) - 入力：JetBrainsの拡張機能は、GPT-4、Code Llamaなどの最新のLLMに無料でアクセスできます。
+**NLP**
+ * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - オープンソースのChatGPTツールエコシステムで、ツールを組み合わせてChatGPTを使用し、自然言語で何でも行うことができます。
 
 
 **Openai**
- * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 入力：Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。
-出力：Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。
+ * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - OpenAI APIキーを使用して、ChatGPTと同じ体験ができる静的ウェブページです！
 
 
 **Others**
- * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - これは、あなたの履歴書と求人内容に基づいてChatGPTを使用して自動的にカバーレターを生成し、中国の上司にメッセージを送信するためのツールです。
- * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、東京大学、中央研究院（台湾）および中国の重要な大学や研究機関による、社会科学、経済学、数学、ゲーム理論、哲学、システム工学などの学術論文の知識データベース。
+ * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - マウス/キーボードを使用してWeb UIと対話することができるGPT-4V(ision)を使用したAIエージェント
+ * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリ。O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリです。
 
 
-_Updated on January 08, 2024_ (A total of 1332 repositories listed.)
+_Updated on January 10, 2024_ (A total of 1337 repositories listed.)
 
 ## Table of contents
 
@@ -97,6 +96,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - サイバーセキュリティのための厳選されたGPTエージェントのリスト
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します。
  * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - チェーンオブソート（CoT）、インストラクションチューニングなど、大規模言語モデル（LLM）に関する論文やリソースのコレクション。大規模言語モデル（LLM）に関する論文やリソース、チェーンオブソート（CoT）、インストラクションチューニングなどのコレクション。
+ * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 素晴らしいカスタムGPTの厳選リスト
 
 
 ## Prompts
@@ -875,6 +875,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
  * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 大規模言語モデル（LLM）を使用した一般的な情報検索エージェントシステム。
  * [MotionGPT](https://github.com/openmotionlab/motiongpt) - [NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」[NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」
+ * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - オープンソースのChatGPTツールエコシステムで、ツールを組み合わせてChatGPTを使用し、自然言語で何でも行うことができます。
 
 
 ## Langchain
@@ -1106,6 +1107,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [chat](https://github.com/swuecho/chat) - チーム向けのチャットWebアプリ、ユーザー管理とレート制限を備えたSaaS、ChatGPT（OpenAI＆Azure）のサポート、Claudeまたはカスタムモデルチーム向けのチャットWebアプリで、ユーザー管理とレート制限を備えたSaaSです。ChatGPT（OpenAI＆Azure）をサポートし、Claudeまたはカスタムモデルを使用します。
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWifeは、仮想的なデジタル人間のプロジェクトであり、まだ孵化段階にあり、改善が必要な点が多くあります。作者は、自分自身の「魂」を持つ仮想的なデジタル人間を作りたいと考えており、彼女と友達のように知り合うことができます。作者は、仮想的なデジタル人間が人間の生活に溶け込み、恋愛のアドバイザーや心理カウンセラーとして、人間の感情的なニーズを解決することを望んでいます。
  * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。
+ * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - OpenAI APIキーを使用して、ChatGPTと同じ体験ができる静的ウェブページです！
 
 
 ## Others
@@ -1439,5 +1441,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 未来を形作る安全領域のスマート革命
  * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - これは、あなたの履歴書と求人内容に基づいてChatGPTを使用して自動的にカバーレターを生成し、中国の上司にメッセージを送信するためのツールです。
  * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、東京大学、中央研究院（台湾）および中国の重要な大学や研究機関による、社会科学、経済学、数学、ゲーム理論、哲学、システム工学などの学術論文の知識データベース。
+ * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - マウス/キーボードを使用してWeb UIと対話することができるGPT-4V(ision)を使用したAIエージェント
+ * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリ。O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリです。
 
 
