@@ -1139,6 +1139,32 @@
                     "zh-hans": "输入：关于大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。\n输出：大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。",
                     "zh-hant": "輸入：關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。\n輸出：關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。"
                 }
+            },
+            "https://github.com/devisasari/awesome-chatgpt-store": {
+                "repository_name": "awesome-chatgpt-store",
+                "user_name": "devisasari",
+                "language": null,
+                "license": "Apache License 2.0",
+                "description": "A curated list of awesome custom GPTs ",
+                "topics": [
+                    "ai",
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "gpt",
+                    "gpt-4",
+                    "gpt-store",
+                    "gpts",
+                    "gpts-list",
+                    "gptstore",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of awesome custom GPTs",
+                    "ja": "素晴らしいカスタムGPTの厳選リスト",
+                    "zh-hans": "一个精选的令人惊叹的自定义GPT清单",
+                    "zh-hant": "一個精心挑選的令人驚嘆的自定義GPT清單"
+                }
             }
         },
         "Prompts": {
@@ -17733,6 +17759,20 @@
                     "zh-hans": "【NeurIPS 2023】MotionGPT：将人类动作视为一门外语的统一动作语言生成模型，使用LLMs",
                     "zh-hant": "【NeurIPS 2023】MotionGPT：以語言模型為基礎的統一運動-語言生成模型，將人類運動視為一種外語"
                 }
+            },
+            "https://github.com/goldfishh/chatgpt-tool-hub": {
+                "repository_name": "chatgpt-tool-hub",
+                "user_name": "goldfishh",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.",
+                    "ja": "オープンソースのChatGPTツールエコシステムで、ツールを組み合わせてChatGPTを使用し、自然言語で何でも行うことができます。",
+                    "zh-hans": "一个开源的ChatGPT工具生态系统，您可以将工具与ChatGPT结合使用，并使用自然语言来完成任何任务。",
+                    "zh-hant": "一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。"
+                }
             }
         },
         "Langchain": {
@@ -22594,6 +22634,20 @@
                     "ja": "入力：Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。\n出力：Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。",
                     "zh-hans": "将Github Copilot的请求转换为ChatGPT的请求，可以免费使用GPT-4模型。",
                     "zh-hant": "將Github Copilot的請求轉換為ChatGPT的請求，可以自由使用GPT-4模型。"
+                }
+            },
+            "https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui": {
+                "repository_name": "PatrikZeros-ChatGPT-API-UI",
+                "user_name": "patrikzudel",
+                "language": "Svelte",
+                "license": "GNU General Public License v3.0",
+                "description": "Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!",
+                    "ja": "OpenAI APIキーを使用して、ChatGPTと同じ体験ができる静的ウェブページです！",
+                    "zh-hans": "静态网页，允许您使用OpenAI API密钥，获得与ChatGPT相同的体验！",
+                    "zh-hant": "靜態網頁，允許您使用OpenAI API金鑰，獲得與ChatGPT相同的體驗！"
                 }
             }
         },
@@ -28858,6 +28912,46 @@
                     "ja": "🏔️国立台湾大学、新加坡国立大学、早稻田大学、東京大学、中央研究院（台湾）および中国の重要な大学や研究機関による、社会科学、経済学、数学、ゲーム理論、哲学、システム工学などの学術論文の知識データベース。",
                     "zh-hans": "🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。",
                     "zh-hant": "🏔️國立臺灣大學、新加坡國立大學、早稻田大學、東京大學，中央研究院（臺灣）以及中國重點高校及科研機構，社科、經濟、數學、博弈論、哲學、系統工程類學術論文等知識庫。"
+                }
+            },
+            "https://github.com/ddupont808/gpt-4v-act": {
+                "repository_name": "GPT-4V-Act",
+                "user_name": "ddupont808",
+                "language": "JavaScript",
+                "license": null,
+                "description": "AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI",
+                    "ja": "マウス/キーボードを使用してWeb UIと対話することができるGPT-4V(ision)を使用したAIエージェント",
+                    "zh-hans": "使用GPT-4V（视觉）的AI代理能够使用鼠标/键盘与Web用户界面进行交互输出：",
+                    "zh-hant": "AI代理使用GPT-4V（視覺）能夠使用滑鼠/鍵盤與網頁使用者介面進行互動"
+                }
+            },
+            "https://github.com/davidadsp/generative_deep_learning_2nd_edition": {
+                "repository_name": "Generative_Deep_Learning_2nd_Edition",
+                "user_name": "davidADSP",
+                "language": "Jupyter Notebook",
+                "license": "Apache License 2.0",
+                "description": "The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.",
+                "topics": [
+                    "chatgpt",
+                    "dalle2",
+                    "data-science",
+                    "deep-learning",
+                    "diffusion-models",
+                    "generative-adversarial-network",
+                    "gpt-3",
+                    "machine-learning",
+                    "python",
+                    "stable-diffusion",
+                    "tensorflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.",
+                    "ja": "O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリ。O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリです。",
+                    "zh-hans": "《O'Reilly书籍生成式深度学习第二版：教机器绘画、写作、作曲和演奏》的官方代码存储库。输出：",
+                    "zh-hant": "《O'Reilly書籍生成式深度學習第二版：教機器繪畫、寫作、作曲和遊戲的官方程式庫》。"
                 }
             }
         }

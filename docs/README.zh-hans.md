@@ -14,25 +14,24 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI助手
+**Awesome-lists**
+ * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 一个精选的令人惊叹的自定义GPT清单
 
 
-**Browser-extensions**
- * [CodeGPT](https://github.com/carlrobertoh/codegpt) - 输入：JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。
-输出：JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。
+**NLP**
+ * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - 一个开源的ChatGPT工具生态系统，您可以将工具与ChatGPT结合使用，并使用自然语言来完成任何任务。
 
 
 **Openai**
- * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 将Github Copilot的请求转换为ChatGPT的请求，可以免费使用GPT-4模型。
+ * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - 静态网页，允许您使用OpenAI API密钥，获得与ChatGPT相同的体验！
 
 
 **Others**
- * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - 这是一个工具，可以根据您的简历和职位描述，使用ChatGPT自动生成求职信，并发送给中国的老板。
- * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+ * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - 使用GPT-4V（视觉）的AI代理能够使用鼠标/键盘与Web用户界面进行交互输出：
+ * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - 《O'Reilly书籍生成式深度学习第二版：教机器绘画、写作、作曲和演奏》的官方代码存储库。输出：
 
 
-_Updated on January 08, 2024_ (A total of 1332 repositories listed.)
+_Updated on January 10, 2024_ (A total of 1337 repositories listed.)
 
 ## Table of contents
 
@@ -96,7 +95,8 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [Awesome-AI-GPTs](https://github.com/embraceagi/awesome-ai-gpts) - 令人惊叹的AI GPT，OpenAI GPT，GPT-4，ChatGPT，GPT，提示，插件，提示泄漏
  * [Awesome-GPT-Agents](https://github.com/fr0gger/awesome-gpt-agents) - 一个精选的用于网络安全的GPT代理列表
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 一键部署许多Github开源项目，以便快速体验
- * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 关于大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。
+ * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 关于大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。输出：大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。
+ * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 一个精选的令人惊叹的自定义GPT清单
 
 
 ## Prompts
@@ -195,7 +195,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - 这个写作提示列表涵盖了各种主题和任务，包括头脑风暴研究想法，改善语言和风格，进行文献综述，以及制定研究计划。
  * [self-refine](https://github.com/madaan/self-refine) - LLMs可以对他们的工作产生反馈，利用它来改进输出，并反复进行这个过程。
  * [GPTs](https://github.com/linexjlin/gpts) - 泄露的GPT提示
- * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 对于大型多模型模型（如GPT-4 Vision，LLaVA或CogVLM）的有效提示。🔥有效提示适用于大型多模型模型，如GPT-4 Vision，LLaVA或CogVLM。🔥
+ * [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - 对于大型多模型模型（如GPT-4 Vision，LLaVA或CogVLM）的有效提示。🔥输出：有效提示适用于大型多模型模型，如GPT-4 Vision，LLaVA或CogVLM。🔥
  * [promptbench](https://github.com/microsoft/promptbench) - 大型语言模型的统一评估框架
  * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - 从BERT到GPT-4的Transformer模型，从Hugging Face到OpenAI的环境。微调、训练和提示工程示例。附加部分包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E，包括启动GPT-4、语音转文本、文本转语音、使用DALL-E生成图像的文本等。Google Cloud AI、HuggingGPT等等。
  * [llm-guard](https://github.com/laiyer-ai/llm-guard) - LLM互动安全工具包
@@ -530,7 +530,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - 一个用于IDA的插件，可以帮助分析二进制文件，它基于OpenAI训练的gpt-3.5-turbo模型，与ChatGPT相同。
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 云崽qq机器人的chatgpt插件
  * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome扩展程序，可在Google搜索结果和YouTube视频旁边查看ChatGPT摘要，还支持Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google专利以及任何页面的摘要。
- * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。
+ * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。输出：JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。
 
 
 ## CLIs
@@ -875,6 +875,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [TransformerLens](https://github.com/neelnanda-io/transformerlens) - 一个用于解释GPT风格语言模型机制的图书馆
  * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 一个具有大型语言模型（LLMs）的广义信息搜索代理系统。
  * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 【NeurIPS 2023】MotionGPT：将人类动作视为一门外语的统一动作语言生成模型，使用LLMs
+ * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - 一个开源的ChatGPT工具生态系统，您可以将工具与ChatGPT结合使用，并使用自然语言来完成任何任务。
 
 
 ## Langchain
@@ -967,7 +968,7 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [gptcache](https://github.com/zilliztech/gptcache) - @ferret_db @ossinsight @milvusio 我们很想为gptcache获取一个ferretdb后端。我们会将其添加到待办列表中。代表milvus开发者和更广泛的社区，感谢你们的支持！
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用Unity实现AI聊天相关功能。目前这个库包含了对ChatGPT、ChatGLM等大语言模型的API调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用Web API实现，支持Windows/WebGL/Android等平台。
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最受欢迎、被Fork最多、贡献最多、拥有庞大社区支持的PHP（Laravel、Symfony、Yii、Cake PHP或任何PHP框架）SDK，用于OpenAI GPT-3和DALL-E。它还支持类似ChatGPT的流式聊天。（支持ChatGPT AI）
- * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 使用多种工具/扫描器进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码，IaC）- Betterscan 社区版（CE）
+ * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 使用多种工具/扫描器进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码，IaC）- Betterscan 社区版（CE）输出：
 
 
 ## Openai
@@ -1103,9 +1104,10 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点地将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
  * [aiac](https://github.com/gofireflyio/aiac) - 人工智能基础设施即代码生成器。
  * [openai](https://github.com/anasfik/openai) - ChatGPT和所有OpenAI API（GPT、Dall-e等）的Dart/Flutter SDK
- * [chat](https://github.com/swuecho/chat) - 用于团队的聊天网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。团队聊天的网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。
+ * [chat](https://github.com/swuecho/chat) - 用于团队的聊天网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。输出：团队聊天的网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。
  * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 将Github Copilot的请求转换为ChatGPT的请求，可以免费使用GPT-4模型。
+ * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - 静态网页，允许您使用OpenAI API密钥，获得与ChatGPT相同的体验！
 
 
 ## Others
@@ -1435,9 +1437,11 @@ _Updated on January 08, 2024_ (A total of 1332 repositories listed.)
  * [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - 企业微信/微信 安全使用的 ChatGPT 个人助手应用
  * [jan](https://github.com/janhq/jan) - Jan是ChatGPT的开源替代品，可以完全离线在您的计算机上运行。
  * [gerev](https://github.com/gerevai/gerev) - 🧠 人工智能驱动的企业搜索引擎 🔎
- * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
+ * [Replit-Xray](https://github.com/yonggekkk/replit-xray) - Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署输出：Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
  * [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - 塑造未来的安全领域智能革命
  * [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - 这是一个工具，可以根据您的简历和职位描述，使用ChatGPT自动生成求职信，并发送给中国的老板。
  * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+ * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - 使用GPT-4V（视觉）的AI代理能够使用鼠标/键盘与Web用户界面进行交互输出：
+ * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - 《O'Reilly书籍生成式深度学习第二版：教机器绘画、写作、作曲和演奏》的官方代码存储库。输出：
 
 
