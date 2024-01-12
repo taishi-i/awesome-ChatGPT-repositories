@@ -3322,6 +3322,65 @@
                     "zh-hans": "ACL2023论文《使用语言模型提示进行推理：一项调查》的存储库。",
                     "zh-hant": "輸入：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。\n輸出：ACL2023論文「使用語言模型提示進行推理：一項調查」的存儲庫。"
                 }
+            },
+            "https://github.com/knowledgecanvas/knowledge": {
+                "repository_name": "knowledge",
+                "user_name": "KnowledgeCanvas",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.",
+                "topics": [
+                    "angular",
+                    "chatgpt",
+                    "electron",
+                    "knowledge-discovery",
+                    "knowledge-distillation",
+                    "knowledge-graph",
+                    "knowledge-management",
+                    "langchain",
+                    "large-language-models",
+                    "learning",
+                    "openai",
+                    "prompt-engineering",
+                    "research",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.",
+                    "ja": "知識は、お気に入りのウェブサイト、ドキュメント、ファイルを保存、検索、アクセス、探索、チャットするためのツールです。",
+                    "zh-hans": "知识是一个用于保存、搜索、访问、探索和与您所有喜爱的网站、文档和文件聊天的工具。",
+                    "zh-hant": "知識是一個工具，可以保存、搜索、訪問、探索和與您所有喜愛的網站、文件和文件進行聊天。"
+                }
+            },
+            "https://github.com/promptfoo/promptfoo": {
+                "repository_name": "promptfoo",
+                "user_name": "promptfoo",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & private models like Mistral/Mixtral/Llama with CI/CD",
+                "topics": [
+                    "ci",
+                    "ci-cd",
+                    "cicd",
+                    "evaluation",
+                    "evaluation-framework",
+                    "llm",
+                    "llm-eval",
+                    "llm-evaluation",
+                    "llm-evaluation-framework",
+                    "llmops",
+                    "prompt-engineering",
+                    "prompt-testing",
+                    "prompts",
+                    "rag",
+                    "testing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & private models like Mistral/Mixtral/Llama with CI/CD",
+                    "ja": "プロンプト、モデル、RAGをテストしてください。LLMの出力を評価し比較し、回帰を検出し、プロンプトの品質を向上させてください。OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama、Mistral/Mixtral/Llamaなどのローカルおよびプライベートモデルに対するLLMの評価（CI/CDを使用）",
+                    "zh-hans": "测试您的提示、模型和RAGs。评估和比较LLM的输出，捕捉回归，并提高提示质量。LLM评估适用于OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama，以及像Mistral/Mixtral/Llama这样的本地和私有模型，配备CI/CD。",
+                    "zh-hant": "測試您的提示、模型和RAGs。評估並比較LLM的輸出，捕捉回歸並改善提示的質量。對於OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama以及Mistral/Mixtral/Llama等本地和私有模型進行LLM評估，並使用CI/CD進行比較。"
+                }
             }
         },
         "Chatbots": {
@@ -7398,6 +7457,32 @@
                     "ja": "オープンエーアイ + LINE + Vercel = GPT AIアシスタント",
                     "zh-hans": "OpenAI + LINE + Vercel = GPT AI助手",
                     "zh-hant": "OpenAI + LINE + Vercel = GPT AI 助手"
+                }
+            },
+            "https://github.com/dulaiduwang003/ts-gpt": {
+                "repository_name": "TS-GPT",
+                "user_name": "dulaiduwang003",
+                "language": "Vue",
+                "license": "Apache License 2.0",
+                "description": "Dual-ended GPT application developed based on SpringCloudAlibaba, including voice dialogue, drawing, image recognition, and text dialogue",
+                "topics": [
+                    "chat-gpt",
+                    "gpt-4",
+                    "gpt-4-vision-preview",
+                    "java",
+                    "jdk17",
+                    "spring-boot",
+                    "spring-cloud",
+                    "stable-diffusion",
+                    "uniapp",
+                    "vue",
+                    "wechat-app"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Dual-ended GPT application developed based on SpringCloudAlibaba, including voice dialogue, drawing, image recognition, and text dialogue",
+                    "ja": "SpringCloudAlibabaをベースに開発されたデュアルエンドのGPTアプリケーション。音声対話、描画、画像認識、テキスト対話を含んでいます。デュアルエンドのGPTアプリケーションは、音声対話、描画、画像認識、テキスト対話を含んでいます。",
+                    "zh-hans": "基于SpringCloudAlibaba开发的双端GPT应用，包括语音对话、绘画、图像识别和文本对话。",
+                    "zh-hant": "基於SpringCloudAlibaba開發的雙向GPT應用程式，包括語音對話、繪圖、圖像識別和文字對話"
                 }
             }
         },
@@ -13048,6 +13133,25 @@
                     "zh-hans": "一个非官方的DotNet OpenAI RESTful API客户端",
                     "zh-hant": "一個非官方的DotNet OpenAI RESTful API客戶端"
                 }
+            },
+            "https://github.com/billmei/every-chatgpt-gui": {
+                "repository_name": "every-chatgpt-gui",
+                "user_name": "billmei",
+                "language": null,
+                "license": "MIT License",
+                "description": "Every front-end GUI client for ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "large-language-models"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Every front-end GUI client for ChatGPT",
+                    "ja": "すべてのChatGPTのフロントエンドGUIクライアント",
+                    "zh-hans": "每个ChatGPT的前端GUI客户端",
+                    "zh-hant": "每個ChatGPT的前端GUI客戶端"
+                }
             }
         },
         "Reimplementations": {
@@ -13743,6 +13847,37 @@
                     "ja": "Pythonの実践的なチュートリアルで、50以上のPythonアプリケーション（10行のコード）@xiaowuc2",
                     "zh-hans": "Python实践教程，包含50多个Python应用程序（10行代码）@xiaowuc2",
                     "zh-hant": "Python 實戰教程，包含50+個Python應用程式（10行代碼）@xiaowuc2"
+                }
+            },
+            "https://github.com/datawhalechina/leedl-tutorial": {
+                "repository_name": "leedl-tutorial",
+                "user_name": "datawhalechina",
+                "language": "Jupyter Notebook",
+                "license": "Other",
+                "description": "《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+                "topics": [
+                    "bert",
+                    "chatgpt",
+                    "cnn",
+                    "deep-learning",
+                    "diffusion",
+                    "gan",
+                    "leedl-tutorial",
+                    "machine-learning",
+                    "network-compression",
+                    "pruning",
+                    "reinforcement-learning",
+                    "rnn",
+                    "self-attention",
+                    "transfer-learning",
+                    "transformer",
+                    "tutorial"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: \"《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases\"Output: \"《Li Hongyi Deep Learning Tutorial》，PDF download link: https://github.com/datawhalechina/leedl-tutorial/releases\"",
+                    "ja": "《李宏毅深度学習教程》，PDFダウンロードアドレス：https://github.com/datawhalechina/leedl-tutorial/releases",
+                    "zh-hans": "《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+                    "zh-hant": "《李宏毅深度學習教程》，PDF下載地址：https://github.com/datawhalechina/leedl-tutorial/releases"
                 }
             }
         },
@@ -17772,6 +17907,32 @@
                     "ja": "オープンソースのChatGPTツールエコシステムで、ツールを組み合わせてChatGPTを使用し、自然言語で何でも行うことができます。",
                     "zh-hans": "一个开源的ChatGPT工具生态系统，您可以将工具与ChatGPT结合使用，并使用自然语言来完成任何任务。",
                     "zh-hant": "一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。"
+                }
+            },
+            "https://github.com/rucaibox/llmsurvey": {
+                "repository_name": "LLMSurvey",
+                "user_name": "RUCAIBox",
+                "language": "Python",
+                "license": null,
+                "description": "The official GitHub page for the survey paper \"A Survey of Large Language Models\".",
+                "topics": [
+                    "chain-of-thought",
+                    "chatgpt",
+                    "in-context-learning",
+                    "instruction-tuning",
+                    "large-language-models",
+                    "llm",
+                    "llms",
+                    "natural-language-processing",
+                    "pre-trained-language-models",
+                    "pre-training",
+                    "rlhf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The official GitHub page for the survey paper \"A Survey of Large Language Models\".",
+                    "ja": "「大規模言語モデルの調査」という論文の公式GitHubページ。「大規模言語モデルの調査」という論文の公式GitHubページ。",
+                    "zh-hans": "调查论文《大型语言模型综述》的官方GitHub页面。",
+                    "zh-hant": "調查論文《大型語言模型的綜述》的官方GitHub頁面。《大型語言模型的綜述》調查論文的官方GitHub頁面。"
                 }
             }
         },
@@ -28952,6 +29113,20 @@
                     "ja": "O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリ。O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリです。",
                     "zh-hans": "《O'Reilly书籍生成式深度学习第二版：教机器绘画、写作、作曲和演奏》的官方代码存储库。输出：",
                     "zh-hant": "《O'Reilly書籍生成式深度學習第二版：教機器繪畫、寫作、作曲和遊戲的官方程式庫》。"
+                }
+            },
+            "https://github.com/airuikun/smart-ide": {
+                "repository_name": "smart-ide",
+                "user_name": "airuikun",
+                "language": "JavaScript",
+                "license": null,
+                "description": "在vscode插件中结合chatgpt能力，实现智能研发提效",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Integrating chatbot GPT capability into vscode plugins to enhance R&D efficiency.",
+                    "ja": "VSCodeのプラグインとChatGPTの機能を組み合わせて、スマートな研究開発の効率化を実現する。",
+                    "zh-hans": "通过在vscode插件中结合chatgpt能力，实现智能研发提效。",
+                    "zh-hant": "在vscode插件中結合chatgpt能力，實現智能研發提效"
                 }
             }
         }

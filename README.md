@@ -14,24 +14,32 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
+**Prompts**
+ * [knowledge](https://github.com/knowledgecanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
+ * [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & private models like Mistral/Mixtral/Llama with CI/CD
+
+
+**Chatbots**
+ * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - Dual-ended GPT application developed based on SpringCloudAlibaba, including voice dialogue, drawing, image recognition, and text dialogue
+
+
+**CLIs**
+ * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
+
+
+**Tutorials**
+ * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 
 
 **NLP**
- * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
-
-
-**Openai**
- * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
+ * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 
 
 **Others**
- * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
- * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
+ * [smart-ide](https://github.com/airuikun/smart-ide) - 在vscode插件中结合chatgpt能力，实现智能研发提效
 
 
-_Updated on January 10, 2024_ (A total of 1337 repositories listed.)
+_Updated on January 13, 2024_ (A total of 1344 repositories listed.)
 
 ## Table of contents
 
@@ -200,6 +208,8 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - Transformer models from BERT to GPT-4, environments from Hugging Face to OpenAI. Fine-tuning, training, and prompt engineering examples. A bonus section with ChatGPT, GPT-3.5-turbo, GPT-4, and DALL-E including jump starting GPT-4, speech-to-text, text-to-speech, text to image generation with DALL-E, Google Cloud AI,HuggingGPT, and more
  * [llm-guard](https://github.com/laiyer-ai/llm-guard) - The Security Toolkit for LLM Interactions
  * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - Repository for the ACL2023 paper "Reasoning with Language Model Prompting: A Survey".
+ * [knowledge](https://github.com/knowledgecanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
+ * [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & private models like Mistral/Mixtral/Llama with CI/CD
 
 
 ## Chatbots
@@ -378,6 +388,7 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
  * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
  * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
+ * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - Dual-ended GPT application developed based on SpringCloudAlibaba, including voice dialogue, drawing, image recognition, and text dialogue
 
 
 ## Browser-extensions
@@ -638,6 +649,7 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [ShellGPT](https://github.com/akl7777777/shellgpt) - **ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphics.免费的chatgpt客户端，已支持联网搜索,无需密钥，无需登录,多节点自动测速切换,长文翻译不限字数,AI出图**
  * [gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
  * [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - A Non-Official OpenAI RESTful API Client for DotNet
+ * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
 
 
 ## Reimplementations
@@ -679,6 +691,7 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - Tutorial for ChatGPT + Enterprise Data with Semantic Kernel, OpenAI, and Azure Cognitive Search
  * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - A tutorial on how to use ChatGPT in Alexa
  * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2
+ * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 
 
 ## NLP
@@ -876,6 +889,7 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - A generalized information-seeking agent system with Large Language Models (LLMs).
  * [MotionGPT](https://github.com/openmotionlab/motiongpt) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
  * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
+ * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 
 
 ## Langchain
@@ -1443,5 +1457,6 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
  * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
  * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
+ * [smart-ide](https://github.com/airuikun/smart-ide) - 在vscode插件中结合chatgpt能力，实现智能研发提效
 
 
