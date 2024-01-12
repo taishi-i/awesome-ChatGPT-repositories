@@ -14,24 +14,32 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 一个精选的令人惊叹的自定义GPT清单
+**Prompts**
+ * [knowledge](https://github.com/knowledgecanvas/knowledge) - 知识是一个用于保存、搜索、访问、探索和与您所有喜爱的网站、文档和文件聊天的工具。
+ * [promptfoo](https://github.com/promptfoo/promptfoo) - 测试您的提示、模型和RAGs。评估和比较LLM的输出，捕捉回归，并提高提示质量。LLM评估适用于OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama，以及像Mistral/Mixtral/Llama这样的本地和私有模型，配备CI/CD。
+
+
+**Chatbots**
+ * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - 基于SpringCloudAlibaba开发的双端GPT应用，包括语音对话、绘画、图像识别和文本对话。
+
+
+**CLIs**
+ * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - 每个ChatGPT的前端GUI客户端
+
+
+**Tutorials**
+ * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 
 
 **NLP**
- * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - 一个开源的ChatGPT工具生态系统，您可以将工具与ChatGPT结合使用，并使用自然语言来完成任何任务。
-
-
-**Openai**
- * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - 静态网页，允许您使用OpenAI API密钥，获得与ChatGPT相同的体验！
+ * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - 调查论文《大型语言模型综述》的官方GitHub页面。
 
 
 **Others**
- * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - 使用GPT-4V（视觉）的AI代理能够使用鼠标/键盘与Web用户界面进行交互输出：
- * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - 《O'Reilly书籍生成式深度学习第二版：教机器绘画、写作、作曲和演奏》的官方代码存储库。输出：
+ * [smart-ide](https://github.com/airuikun/smart-ide) - 通过在vscode插件中结合chatgpt能力，实现智能研发提效。
 
 
-_Updated on January 10, 2024_ (A total of 1337 repositories listed.)
+_Updated on January 13, 2024_ (A total of 1344 repositories listed.)
 
 ## Table of contents
 
@@ -200,6 +208,8 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - 从BERT到GPT-4的Transformer模型，从Hugging Face到OpenAI的环境。微调、训练和提示工程示例。附加部分包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E，包括启动GPT-4、语音转文本、文本转语音、使用DALL-E生成图像的文本等。Google Cloud AI、HuggingGPT等等。
  * [llm-guard](https://github.com/laiyer-ai/llm-guard) - LLM互动安全工具包
  * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - ACL2023论文《使用语言模型提示进行推理：一项调查》的存储库。
+ * [knowledge](https://github.com/knowledgecanvas/knowledge) - 知识是一个用于保存、搜索、访问、探索和与您所有喜爱的网站、文档和文件聊天的工具。
+ * [promptfoo](https://github.com/promptfoo/promptfoo) - 测试您的提示、模型和RAGs。评估和比较LLM的输出，捕捉回归，并提高提示质量。LLM评估适用于OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama，以及像Mistral/Mixtral/Llama这样的本地和私有模型，配备CI/CD。
 
 
 ## Chatbots
@@ -378,6 +388,7 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [org-ai](https://github.com/rksm/org-ai) - Emacs作为您的个人AI助手。使用像ChatGPT或LLaMA这样的LLM进行文本生成，或使用DALL-E和Stable Diffusion进行图像生成。还支持语音输入/输出。
  * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
  * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI助手
+ * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - 基于SpringCloudAlibaba开发的双端GPT应用，包括语音对话、绘画、图像识别和文本对话。
 
 
 ## Browser-extensions
@@ -638,6 +649,7 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [ShellGPT](https://github.com/akl7777777/shellgpt) - **ShellGPT是一个免费的chatgpt客户端，现在支持在线搜索，无需密钥，无需登录。多节点自动测速切换，长文翻译没有字数限制，AI出图。**
  * [gptel](https://github.com/karthink/gptel) - 一个简单的Emacs LLM客户端
  * [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - 一个非官方的DotNet OpenAI RESTful API客户端
+ * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - 每个ChatGPT的前端GUI客户端
 
 
 ## Reimplementations
@@ -679,6 +691,7 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - ChatGPT + 企业数据与语义内核的教程，OpenAI 和 Azure Cognitive Search
  * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - 如何在Alexa中使用ChatGPT的教程
  * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python实践教程，包含50多个Python应用程序（10行代码）@xiaowuc2
+ * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 
 
 ## NLP
@@ -876,6 +889,7 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - 一个具有大型语言模型（LLMs）的广义信息搜索代理系统。
  * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 【NeurIPS 2023】MotionGPT：将人类动作视为一门外语的统一动作语言生成模型，使用LLMs
  * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - 一个开源的ChatGPT工具生态系统，您可以将工具与ChatGPT结合使用，并使用自然语言来完成任何任务。
+ * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - 调查论文《大型语言模型综述》的官方GitHub页面。
 
 
 ## Langchain
@@ -1443,5 +1457,6 @@ _Updated on January 10, 2024_ (A total of 1337 repositories listed.)
  * [hamulete](https://github.com/hoochanlon/hamulete) - 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
  * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - 使用GPT-4V（视觉）的AI代理能够使用鼠标/键盘与Web用户界面进行交互输出：
  * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - 《O'Reilly书籍生成式深度学习第二版：教机器绘画、写作、作曲和演奏》的官方代码存储库。输出：
+ * [smart-ide](https://github.com/airuikun/smart-ide) - 通过在vscode插件中结合chatgpt能力，实现智能研发提效。
 
 
