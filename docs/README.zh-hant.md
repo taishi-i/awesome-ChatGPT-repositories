@@ -14,32 +14,37 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [knowledge](https://github.com/knowledgecanvas/knowledge) - 知識是一個工具，可以保存、搜索、訪問、探索和與您所有喜愛的網站、文件和文件進行聊天。
- * [promptfoo](https://github.com/promptfoo/promptfoo) - 測試您的提示、模型和RAGs。評估並比較LLM的輸出，捕捉回歸並改善提示的質量。對於OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama以及Mistral/Mixtral/Llama等本地和私有模型進行LLM評估，並使用CI/CD進行比較。
+**Awesome-lists**
+ * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - 洩漏的GPTs促使繞過25條信息限制或嘗試GPTs而無需Plus訂閱。
 
 
 **Chatbots**
- * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - 基於SpringCloudAlibaba開發的雙向GPT應用程式，包括語音對話、繪圖、圖像識別和文字對話
-
-
-**CLIs**
- * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - 每個ChatGPT的前端GUI客戶端
+ * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤開箱即用❤一個非官方的ChatGPT腾訊qq/微信(非公眾號)實現版，快來把你的qq或微信變成chatgpt吧
 
 
 **Tutorials**
- * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度學習教程》，PDF下載地址：https://github.com/datawhalechina/leedl-tutorial/releases
+ * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 通過例子學習 eBPF | eBPF 開發者教程與知識庫：通過小工具和示例一步步學習 eBPF，包含性能、網絡、安全等多種應用場景
 
 
 **NLP**
- * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - 調查論文《大型語言模型的綜述》的官方GitHub頁面。《大型語言模型的綜述》調查論文的官方GitHub頁面。
+ * [talk2arxiv](https://github.com/evanhu1/talk2arxiv) - 使用ChatGPT與任何ArXiv論文進行對話
+ * [autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot，一個使用GPT來讀取程式庫、建立上下文並解決任務的工具。
+ * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀 大型語言模型高效轉發服務 · 專為LLM設計的高效轉發服務 · OpenAI API反向代理
+
+
+**Langchain**
+ * [talk-codebase](https://github.com/rsaryev/talk-codebase) - 使用OpenAI、LlamaCpp和GPT-4-All的工具，可以与您的代码库和文档进行聊天。
+
+
+**Openai**
+ * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - 免費的ChatGPT 3.5 / ChatGPT 4 | 免費的OpenAI / ChatGPT API
 
 
 **Others**
- * [smart-ide](https://github.com/airuikun/smart-ide) - 在vscode插件中結合chatgpt能力，實現智能研發提效
+ * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成
 
 
-_Updated on January 13, 2024_ (A total of 1344 repositories listed.)
+_Updated on January 16, 2024_ (A total of 1353 repositories listed.)
 
 ## Table of contents
 
@@ -105,6 +110,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 一鍵部署許多 GitHub 開源項目，以促進快速體驗
  * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。關於大型語言模型（LLMs）中推理的論文和資源的收集，包括思維鏈（CoT）、指令調整等。
  * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 一個精心挑選的令人驚嘆的自定義GPT清單
+ * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - 洩漏的GPTs促使繞過25條信息限制或嘗試GPTs而無需Plus訂閱。
 
 
 ## Prompts
@@ -389,6 +395,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基礎模型；ChatFlow中文對話模型；中文OpenLLaMA模型；NLP預訓練/指令微調資料集
  * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI 助手
  * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - 基於SpringCloudAlibaba開發的雙向GPT應用程式，包括語音對話、繪圖、圖像識別和文字對話
+ * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤開箱即用❤一個非官方的ChatGPT腾訊qq/微信(非公眾號)實現版，快來把你的qq或微信變成chatgpt吧
 
 
 ## Browser-extensions
@@ -692,6 +699,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - 一個關於如何在Alexa上使用ChatGPT的教程
  * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python 實戰教程，包含50+個Python應用程式（10行代碼）@xiaowuc2
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度學習教程》，PDF下載地址：https://github.com/datawhalechina/leedl-tutorial/releases
+ * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 通過例子學習 eBPF | eBPF 開發者教程與知識庫：通過小工具和示例一步步學習 eBPF，包含性能、網絡、安全等多種應用場景
 
 
 ## NLP
@@ -890,6 +898,9 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 【NeurIPS 2023】MotionGPT：以語言模型為基礎的統一運動-語言生成模型，將人類運動視為一種外語
  * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - 一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。一個開源的ChatGPT工具生態系統，您可以將工具與ChatGPT結合，使用自然語言來進行任何操作。
  * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - 調查論文《大型語言模型的綜述》的官方GitHub頁面。《大型語言模型的綜述》調查論文的官方GitHub頁面。
+ * [talk2arxiv](https://github.com/evanhu1/talk2arxiv) - 使用ChatGPT與任何ArXiv論文進行對話
+ * [autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot，一個使用GPT來讀取程式庫、建立上下文並解決任務的工具。
+ * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀 大型語言模型高效轉發服務 · 專為LLM設計的高效轉發服務 · OpenAI API反向代理
 
 
 ## Langchain
@@ -968,6 +979,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - 您的個人代碼審查員，由LLMs（OpenAI GPT-3.5/4，Llama2，Azure AI）和嵌入式技術提供支持⚡️ 提升代碼質量，在破壞生產之前捕捉錯誤🚀
  * [GPTRouter](https://github.com/writesonic/gptrouter) - 順利管理多個LLM（OpenAI，Anthropic，Azure）和圖像模型（Dall-E，SDXL），加快回應速度，確保不間斷的可靠性。
  * [dr-doc-search](https://github.com/namuan/dr-doc-search) - 與書對話 - 搭載GPT-3
+ * [talk-codebase](https://github.com/rsaryev/talk-codebase) - 使用OpenAI、LlamaCpp和GPT-4-All的工具，可以与您的代码库和文档进行聊天。
 
 
 ## Unity
@@ -1122,6 +1134,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一個虛擬數字人項目，項目還處於孵化階段，有很多需要優化的地方，作者想打造一個擁有自己“靈魂”的虛擬數字人，你可以像朋友一樣和她相識，作者希望虛擬數字人融入人類生活，作為戀愛導師，心理咨詢師，解決人類的情感需求。
  * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 將Github Copilot的請求轉換為ChatGPT的請求，可以自由使用GPT-4模型。
  * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - 靜態網頁，允許您使用OpenAI API金鑰，獲得與ChatGPT相同的體驗！
+ * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - 免費的ChatGPT 3.5 / ChatGPT 4 | 免費的OpenAI / ChatGPT API
 
 
 ## Others
@@ -1458,5 +1471,6 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - AI代理使用GPT-4V（視覺）能夠使用滑鼠/鍵盤與網頁使用者介面進行互動
  * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - 《O'Reilly書籍生成式深度學習第二版：教機器繪畫、寫作、作曲和遊戲的官方程式庫》。
  * [smart-ide](https://github.com/airuikun/smart-ide) - 在vscode插件中結合chatgpt能力，實現智能研發提效
+ * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成
 
 

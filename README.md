@@ -14,32 +14,37 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [knowledge](https://github.com/knowledgecanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
- * [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & private models like Mistral/Mixtral/Llama with CI/CD
+**Awesome-lists**
+ * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 
 
 **Chatbots**
- * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - Dual-ended GPT application developed based on SpringCloudAlibaba, including voice dialogue, drawing, image recognition, and text dialogue
-
-
-**CLIs**
- * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
+ * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧
 
 
 **Tutorials**
- * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+ * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 
 
 **NLP**
- * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
+ * [talk2arxiv](https://github.com/evanhu1/talk2arxiv) - Talk to any ArXiv paper using ChatGPT
+ * [autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
+ * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀  大语言模型高效转发服务  · An efficient forwarding service designed for LLMs. ·  OpenAI API Reverse Proxy
+
+
+**Langchain**
+ * [talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
+
+
+**Openai**
+ * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 
 
 **Others**
- * [smart-ide](https://github.com/airuikun/smart-ide) - 在vscode插件中结合chatgpt能力，实现智能研发提效
+ * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
 
-_Updated on January 13, 2024_ (A total of 1344 repositories listed.)
+_Updated on January 16, 2024_ (A total of 1353 repositories listed.)
 
 ## Table of contents
 
@@ -105,6 +110,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
  * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - Collection of papers and resources on Reasoning in Large Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and others.
  * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
+ * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
 
 
 ## Prompts
@@ -389,6 +395,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
  * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI Assistant
  * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - Dual-ended GPT application developed based on SpringCloudAlibaba, including voice dialogue, drawing, image recognition, and text dialogue
+ * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧
 
 
 ## Browser-extensions
@@ -692,6 +699,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - A tutorial on how to use ChatGPT in Alexa
  * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+ * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 
 
 ## NLP
@@ -890,6 +898,9 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [MotionGPT](https://github.com/openmotionlab/motiongpt) - [NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
  * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
  * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
+ * [talk2arxiv](https://github.com/evanhu1/talk2arxiv) - Talk to any ArXiv paper using ChatGPT
+ * [autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
+ * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀  大语言模型高效转发服务  · An efficient forwarding service designed for LLMs. ·  OpenAI API Reverse Proxy
 
 
 ## Langchain
@@ -968,6 +979,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Your personal code reviewer powered by LLMs (OpenAI GPT-3.5/4, Llama2, Azure AI) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀
  * [GPTRouter](https://github.com/writesonic/gptrouter) - Smoothly Manage Multiple LLMs (OpenAI, Anthropic, Azure) and Image Models (Dall-E, SDXL), Speed Up Responses, and Ensure Non-Stop Reliability.
  * [dr-doc-search](https://github.com/namuan/dr-doc-search) - Converse with book - Built with GPT-3
+ * [talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
 
 
 ## Unity
@@ -1122,6 +1134,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。
  * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model.
  * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
+ * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
 
 
 ## Others
@@ -1458,5 +1471,6 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
  * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - The official code repository for the second edition of the O'Reilly book Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play.
  * [smart-ide](https://github.com/airuikun/smart-ide) - 在vscode插件中结合chatgpt能力，实现智能研发提效
+ * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
 

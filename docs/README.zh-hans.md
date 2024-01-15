@@ -14,32 +14,37 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [knowledge](https://github.com/knowledgecanvas/knowledge) - 知识是一个用于保存、搜索、访问、探索和与您所有喜爱的网站、文档和文件聊天的工具。
- * [promptfoo](https://github.com/promptfoo/promptfoo) - 测试您的提示、模型和RAGs。评估和比较LLM的输出，捕捉回归，并提高提示质量。LLM评估适用于OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama，以及像Mistral/Mixtral/Llama这样的本地和私有模型，配备CI/CD。
+**Awesome-lists**
+ * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - 泄露的GPTs促使绕过25条信息限制或尝试GPTs而无需Plus订阅。
 
 
 **Chatbots**
- * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - 基于SpringCloudAlibaba开发的双端GPT应用，包括语音对话、绘画、图像识别和文本对话。
-
-
-**CLIs**
- * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - 每个ChatGPT的前端GUI客户端
+ * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤开箱即用❤一个非官方的ChatGPT在QQ/微信中的实现。快来将你的QQ或微信变成ChatGPT吧！
 
 
 **Tutorials**
- * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+ * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 通过示例学习 eBPF | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 
 
 **NLP**
- * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - 调查论文《大型语言模型综述》的官方GitHub页面。
+ * [talk2arxiv](https://github.com/evanhu1/talk2arxiv) - 使用ChatGPT与任何ArXiv论文进行对话
+ * [autopilot](https://github.com/fjrdomingues/autopilot) - 代码自动驾驶，一种利用GPT读取代码库、创建上下文并解决任务的工具。
+ * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀 大语言模型高效转发服务 · 专为LLMs设计的高效转发服务 · OpenAI API反向代理
+
+
+**Langchain**
+ * [talk-codebase](https://github.com/rsaryev/talk-codebase) - 使用OpenAI、LlamaCpp和GPT-4-All的工具，可以与您的代码库和文档进行聊天。
+
+
+**Openai**
+ * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - 免费聊天GPT 3.5 / 聊天GPT 4 | 免费OpenAI / 聊天GPT API
 
 
 **Others**
- * [smart-ide](https://github.com/airuikun/smart-ide) - 通过在vscode插件中结合chatgpt能力，实现智能研发提效。
+ * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 工作流到APP、屏幕共享和悬浮视频、GPT和3D、语音识别和文本转语音
 
 
-_Updated on January 13, 2024_ (A total of 1344 repositories listed.)
+_Updated on January 16, 2024_ (A total of 1353 repositories listed.)
 
 ## Table of contents
 
@@ -105,6 +110,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [Awesome-One-Click-Deployment](https://github.com/connectai-e/awesome-one-click-deployment) - 🪄 一键部署许多Github开源项目，以便快速体验
  * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - 关于大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。输出：大型语言模型（LLMs）推理的论文和资源集合，包括思维链（CoT）、指导调整等。
  * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 一个精选的令人惊叹的自定义GPT清单
+ * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - 泄露的GPTs促使绕过25条信息限制或尝试GPTs而无需Plus订阅。
 
 
 ## Prompts
@@ -389,6 +395,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [Linly](https://github.com/cvi-szu/linly) - Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
  * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - OpenAI + LINE + Vercel = GPT AI助手
  * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - 基于SpringCloudAlibaba开发的双端GPT应用，包括语音对话、绘画、图像识别和文本对话。
+ * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤开箱即用❤一个非官方的ChatGPT在QQ/微信中的实现。快来将你的QQ或微信变成ChatGPT吧！
 
 
 ## Browser-extensions
@@ -692,6 +699,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - 如何在Alexa中使用ChatGPT的教程
  * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python实践教程，包含50多个Python应用程序（10行代码）@xiaowuc2
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
+ * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 通过示例学习 eBPF | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
 
 
 ## NLP
@@ -890,6 +898,9 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [MotionGPT](https://github.com/openmotionlab/motiongpt) - 【NeurIPS 2023】MotionGPT：将人类动作视为一门外语的统一动作语言生成模型，使用LLMs
  * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) - 一个开源的ChatGPT工具生态系统，您可以将工具与ChatGPT结合使用，并使用自然语言来完成任何任务。
  * [LLMSurvey](https://github.com/rucaibox/llmsurvey) - 调查论文《大型语言模型综述》的官方GitHub页面。
+ * [talk2arxiv](https://github.com/evanhu1/talk2arxiv) - 使用ChatGPT与任何ArXiv论文进行对话
+ * [autopilot](https://github.com/fjrdomingues/autopilot) - 代码自动驾驶，一种利用GPT读取代码库、创建上下文并解决任务的工具。
+ * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀 大语言模型高效转发服务 · 专为LLMs设计的高效转发服务 · OpenAI API反向代理
 
 
 ## Langchain
@@ -968,6 +979,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - 您的个人代码审查员由LLMs（OpenAI GPT-3.5/4，Llama2，Azure AI）和嵌入式技术提供支持⚡️ 提高代码质量，在您破坏生产之前捕捉错误🚀
  * [GPTRouter](https://github.com/writesonic/gptrouter) - 流畅管理多个LLM（OpenAI，Anthropic，Azure）和图像模型（Dall-E，SDXL），加快响应速度，并确保持续可靠性。
  * [dr-doc-search](https://github.com/namuan/dr-doc-search) - 与书对话 - 由GPT-3构建
+ * [talk-codebase](https://github.com/rsaryev/talk-codebase) - 使用OpenAI、LlamaCpp和GPT-4-All的工具，可以与您的代码库和文档进行聊天。
 
 
 ## Unity
@@ -1122,6 +1134,7 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [VirtualWife](https://github.com/yakami129/virtualwife) - VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。
  * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - 将Github Copilot的请求转换为ChatGPT的请求，可以免费使用GPT-4模型。
  * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - 静态网页，允许您使用OpenAI API密钥，获得与ChatGPT相同的体验！
+ * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - 免费聊天GPT 3.5 / 聊天GPT 4 | 免费OpenAI / 聊天GPT API
 
 
 ## Others
@@ -1458,5 +1471,6 @@ _Updated on January 13, 2024_ (A total of 1344 repositories listed.)
  * [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - 使用GPT-4V（视觉）的AI代理能够使用鼠标/键盘与Web用户界面进行交互输出：
  * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - 《O'Reilly书籍生成式深度学习第二版：教机器绘画、写作、作曲和演奏》的官方代码存储库。输出：
  * [smart-ide](https://github.com/airuikun/smart-ide) - 通过在vscode插件中结合chatgpt能力，实现智能研发提效。
+ * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 工作流到APP、屏幕共享和悬浮视频、GPT和3D、语音识别和文本转语音
 
 
