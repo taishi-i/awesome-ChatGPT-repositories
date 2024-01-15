@@ -1165,6 +1165,25 @@
                     "zh-hans": "一个精选的令人惊叹的自定义GPT清单",
                     "zh-hant": "一個精心挑選的令人驚嘆的自定義GPT清單"
                 }
+            },
+            "https://github.com/friuns2/leaked-gpts": {
+                "repository_name": "Leaked-GPTs",
+                "user_name": "friuns2",
+                "language": null,
+                "license": null,
+                "description": "Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription. ",
+                "topics": [
+                    "ai",
+                    "awesome",
+                    "awesome-list",
+                    "gpts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.",
+                    "ja": "リークされたGPTsによって、25メッセージ制限を回避したり、PlusサブスクリプションなしでGPTsを試すことができます。",
+                    "zh-hans": "泄露的GPTs促使绕过25条信息限制或尝试GPTs而无需Plus订阅。",
+                    "zh-hant": "洩漏的GPTs促使繞過25條信息限制或嘗試GPTs而無需Plus訂閱。"
+                }
             }
         },
         "Prompts": {
@@ -7483,6 +7502,32 @@
                     "ja": "SpringCloudAlibabaをベースに開発されたデュアルエンドのGPTアプリケーション。音声対話、描画、画像認識、テキスト対話を含んでいます。デュアルエンドのGPTアプリケーションは、音声対話、描画、画像認識、テキスト対話を含んでいます。",
                     "zh-hans": "基于SpringCloudAlibaba开发的双端GPT应用，包括语音对话、绘画、图像识别和文本对话。",
                     "zh-hant": "基於SpringCloudAlibaba開發的雙向GPT應用程式，包括語音對話、繪圖、圖像識別和文字對話"
+                }
+            },
+            "https://github.com/ashinnotfound/chatgpt-yourchatrobot": {
+                "repository_name": "ChatGPT-YourChatRobot",
+                "user_name": "ashinnotfound",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-bot",
+                    "dalle2",
+                    "gpt-3",
+                    "gpt4",
+                    "image-generation",
+                    "java",
+                    "openai",
+                    "qq-bot",
+                    "wechat-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧",
+                    "ja": "❤開封即使❤QQ/Wechatでの非公式ChatGPTの実装です。あなたのQQまたはWechatをChatGPTに変えてみましょう。",
+                    "zh-hans": "❤开箱即用❤一个非官方的ChatGPT在QQ/微信中的实现。快来将你的QQ或微信变成ChatGPT吧！",
+                    "zh-hant": "❤開箱即用❤一個非官方的ChatGPT腾訊qq/微信(非公眾號)實現版，快來把你的qq或微信變成chatgpt吧"
                 }
             }
         },
@@ -13879,6 +13924,32 @@
                     "zh-hans": "《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
                     "zh-hant": "《李宏毅深度學習教程》，PDF下載地址：https://github.com/datawhalechina/leedl-tutorial/releases"
                 }
+            },
+            "https://github.com/eunomia-bpf/bpf-developer-tutorial": {
+                "repository_name": "bpf-developer-tutorial",
+                "user_name": "eunomia-bpf",
+                "language": "C",
+                "license": "MIT License",
+                "description": "Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景",
+                "topics": [
+                    "bpf",
+                    "chatgpt",
+                    "co-re",
+                    "ebpf",
+                    "gpt",
+                    "libbpf",
+                    "libbpf-go",
+                    "libbpf-tools",
+                    "linux",
+                    "tutorial",
+                    "webassemby"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Learn eBPF by examples | eBPF Developer Tutorial and Knowledge Base: Learn eBPF step by step through tools and examples, including various application scenarios such as performance, networking, and security.",
+                    "ja": "学习 eBPF 的例子 | eBPF 開発者チュートリアルとナレッジベース：パフォーマンス、ネットワーク、セキュリティなど、さまざまなアプリケーションシナリオを小道具と例を使って一歩ずつ学ぶ",
+                    "zh-hans": "通过示例学习 eBPF | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景",
+                    "zh-hant": "通過例子學習 eBPF | eBPF 開發者教程與知識庫：通過小工具和示例一步步學習 eBPF，包含性能、網絡、安全等多種應用場景"
+                }
             }
         },
         "NLP": {
@@ -17934,6 +18005,68 @@
                     "zh-hans": "调查论文《大型语言模型综述》的官方GitHub页面。",
                     "zh-hant": "調查論文《大型語言模型的綜述》的官方GitHub頁面。《大型語言模型的綜述》調查論文的官方GitHub頁面。"
                 }
+            },
+            "https://github.com/evanhu1/talk2arxiv": {
+                "repository_name": "talk2arxiv",
+                "user_name": "evanhu1",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Talk to any ArXiv paper using ChatGPT",
+                "topics": [
+                    "arxiv",
+                    "gpt",
+                    "llm",
+                    "open-source",
+                    "rag",
+                    "research"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Talk to any ArXiv paper using ChatGPT",
+                    "ja": "ChatGPTを使用して、どんなArXiv論文でも話すことができます。",
+                    "zh-hans": "使用ChatGPT与任何ArXiv论文进行对话",
+                    "zh-hant": "使用ChatGPT與任何ArXiv論文進行對話"
+                }
+            },
+            "https://github.com/fjrdomingues/autopilot": {
+                "repository_name": "autopilot",
+                "user_name": "fjrdomingues",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.",
+                "topics": [
+                    "ai",
+                    "code-assistant",
+                    "gpt",
+                    "gpt-4"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.",
+                    "ja": "コードオートパイロットは、GPTを使用してコードベースを読み取り、コンテキストを作成し、タスクを解決するツールです。",
+                    "zh-hans": "代码自动驾驶，一种利用GPT读取代码库、创建上下文并解决任务的工具。",
+                    "zh-hant": "Code Autopilot，一個使用GPT來讀取程式庫、建立上下文並解決任務的工具。"
+                }
+            },
+            "https://github.com/kenyony/openai-forward": {
+                "repository_name": "openai-forward",
+                "user_name": "KenyonY",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🚀  大语言模型高效转发服务  · An efficient forwarding service designed for LLMs. ·  OpenAI API Reverse Proxy",
+                "topics": [
+                    "llm",
+                    "openai",
+                    "openai-api",
+                    "openai-proxy",
+                    "proxy",
+                    "python",
+                    "rate-limit"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀  大语言模型高效转发服务  · An efficient forwarding service designed for LLMs. ·  OpenAI API Reverse Proxy",
+                    "ja": "🚀 大規模言語モデルの効率的な転送サービス · LLM向けの効率的な転送サービスです。 · OpenAI APIリバースプロキシ",
+                    "zh-hans": "🚀 大语言模型高效转发服务 · 专为LLMs设计的高效转发服务 · OpenAI API反向代理",
+                    "zh-hant": "🚀 大型語言模型高效轉發服務 · 專為LLM設計的高效轉發服務 · OpenAI API反向代理"
+                }
             }
         },
         "Langchain": {
@@ -19665,6 +19798,20 @@
                     "ja": "入力：本と対話する - GPT-3で作成された\n出力：本と対話する - GPT-3で作成された",
                     "zh-hans": "与书对话 - 由GPT-3构建",
                     "zh-hant": "與書對話 - 搭載GPT-3"
+                }
+            },
+            "https://github.com/rsaryev/talk-codebase": {
+                "repository_name": "talk-codebase",
+                "user_name": "rsaryev",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All",
+                    "ja": "OpenAI、LlamaCpp、およびGPT-4-Allを使用して、コードベースとドキュメントとチャットするためのツール",
+                    "zh-hans": "使用OpenAI、LlamaCpp和GPT-4-All的工具，可以与您的代码库和文档进行聊天。",
+                    "zh-hant": "使用OpenAI、LlamaCpp和GPT-4-All的工具，可以与您的代码库和文档进行聊天。"
                 }
             }
         },
@@ -22809,6 +22956,29 @@
                     "ja": "OpenAI APIキーを使用して、ChatGPTと同じ体験ができる静的ウェブページです！",
                     "zh-hans": "静态网页，允许您使用OpenAI API密钥，获得与ChatGPT相同的体验！",
                     "zh-hant": "靜態網頁，允許您使用OpenAI API金鑰，獲得與ChatGPT相同的體驗！"
+                }
+            },
+            "https://github.com/neurogen-dev/neurogpt": {
+                "repository_name": "NeuroGPT",
+                "user_name": "neurogen-dev",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "free-chatgpt",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "openai-api",
+                    "reverse-api",
+                    "reverse-proxy"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API",
+                    "ja": "フリーチャットGPT 3.5 / チャットGPT 4 | フリーOpenAI / チャットGPT API",
+                    "zh-hans": "免费聊天GPT 3.5 / 聊天GPT 4 | 免费OpenAI / 聊天GPT API",
+                    "zh-hant": "免費的ChatGPT 3.5 / ChatGPT 4 | 免費的OpenAI / ChatGPT API"
                 }
             }
         },
@@ -29127,6 +29297,28 @@
                     "ja": "VSCodeのプラグインとChatGPTの機能を組み合わせて、スマートな研究開発の効率化を実現する。",
                     "zh-hans": "通过在vscode插件中结合chatgpt能力，实现智能研发提效。",
                     "zh-hant": "在vscode插件中結合chatgpt能力，實現智能研發提效"
+                }
+            },
+            "https://github.com/shadowcz007/comfyui-mixlab-nodes": {
+                "repository_name": "comfyui-mixlab-nodes",
+                "user_name": "shadowcz007",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS",
+                "topics": [
+                    "3d",
+                    "chatgpt",
+                    "comfyui",
+                    "lcm-lora",
+                    "real-time",
+                    "screenshare",
+                    "tts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS",
+                    "ja": "ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆テキスト読み上げ",
+                    "zh-hans": "工作流到APP、屏幕共享和悬浮视频、GPT和3D、语音识别和文本转语音",
+                    "zh-hant": "工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成"
                 }
             }
         }
