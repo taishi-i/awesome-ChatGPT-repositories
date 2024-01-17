@@ -1184,6 +1184,26 @@
                     "zh-hans": "泄露的GPTs促使绕过25条信息限制或尝试GPTs而无需Plus订阅。",
                     "zh-hant": "洩漏的GPTs促使繞過25條信息限制或嘗試GPTs而無需Plus訂閱。"
                 }
+            },
+            "https://github.com/xianyu110/awesome-chatgpt-project": {
+                "repository_name": "awesome-chatgpt-project",
+                "user_name": "xianyu110",
+                "language": null,
+                "license": null,
+                "description": "1.chatGPT注册  2.chatGPT成品项目整理  3.高效使用chatGPT的小技巧  4.调教指南 ↓演示网站",
+                "topics": [
+                    "chatbots",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "wechat",
+                    "weixin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "1. chatGPT registration2. chatGPT finished project organization3. Tips for efficient use of chatGPT4. Training guide ↓ Demo website",
+                    "ja": "1.chatGPTの登録 2.chatGPTの完成プロジェクトの整理 3.chatGPTを効果的に使用するための小技 4.調整ガイド ↓デモサイト",
+                    "zh-hans": "1. chatGPT注册2. chatGPT成品项目整理3. 高效使用chatGPT的小技巧4. 调教指南 ↓演示网站",
+                    "zh-hant": "1. chatGPT註冊 2. chatGPT成品項目整理 3. 高效使用chatGPT的小技巧 4. 調教指南 ↓演示網站"
+                }
             }
         },
         "Prompts": {
@@ -3399,6 +3419,41 @@
                     "ja": "プロンプト、モデル、RAGをテストしてください。LLMの出力を評価し比較し、回帰を検出し、プロンプトの品質を向上させてください。OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama、Mistral/Mixtral/Llamaなどのローカルおよびプライベートモデルに対するLLMの評価（CI/CDを使用）",
                     "zh-hans": "测试您的提示、模型和RAGs。评估和比较LLM的输出，捕捉回归，并提高提示质量。LLM评估适用于OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama，以及像Mistral/Mixtral/Llama这样的本地和私有模型，配备CI/CD。",
                     "zh-hant": "測試您的提示、模型和RAGs。評估並比較LLM的輸出，捕捉回歸並改善提示的質量。對於OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama以及Mistral/Mixtral/Llama等本地和私有模型進行LLM評估，並使用CI/CD進行比較。"
+                }
+            },
+            "https://github.com/kyegomez/swarms": {
+                "repository_name": "swarms",
+                "user_name": "kyegomez",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation. Join our Community: https://discord.gg/DbjBMJTSWD",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "artificial-intelligence",
+                    "attention-mechanism",
+                    "chatgpt",
+                    "gpt4",
+                    "gpt4all",
+                    "huggingface",
+                    "langchain",
+                    "langchain-python",
+                    "machine-learning",
+                    "multi-modal-imaging",
+                    "multi-modality",
+                    "multimodal",
+                    "prompt-engineering",
+                    "prompt-toolkit",
+                    "prompting",
+                    "swarms",
+                    "transformer-models",
+                    "tree-of-thoughts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation. Join our Community: https://discord.gg/DbjBMJTSWD",
+                    "ja": "信頼性のある自律エージェントのスワームを構築、展開、スケーリングしてワークフローの自動化を行います。コミュニティに参加してください：https://discord.gg/DbjBMJTSWD",
+                    "zh-hans": "构建、部署和扩展可靠的自主代理群，用于工作流自动化。加入我们的社区：https://discord.gg/DbjBMJTSWD",
+                    "zh-hant": "建立、部署和擴展可靠的自主代理群，用於工作流自動化。加入我們的社群：https://discord.gg/DbjBMJTSWD"
                 }
             }
         },
@@ -7528,6 +7583,52 @@
                     "ja": "❤開封即使❤QQ/Wechatでの非公式ChatGPTの実装です。あなたのQQまたはWechatをChatGPTに変えてみましょう。",
                     "zh-hans": "❤开箱即用❤一个非官方的ChatGPT在QQ/微信中的实现。快来将你的QQ或微信变成ChatGPT吧！",
                     "zh-hant": "❤開箱即用❤一個非官方的ChatGPT腾訊qq/微信(非公眾號)實現版，快來把你的qq或微信變成chatgpt吧"
+                }
+            },
+            "https://github.com/wangrongding/wechat-bot": {
+                "repository_name": "wechat-bot",
+                "user_name": "wangrongding",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+                "topics": [
+                    "chatgpt",
+                    "openai",
+                    "wechat",
+                    "wechatbot",
+                    "wechaty"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖A WeChat robot based on OpenAI ChatGPT and WeChaty, which can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc.",
+                    "ja": "🤖OpenAi ChatGPT + WeChatyをベースにしたWeChatのロボットです。WeChatのメッセージに自動的に返信したり、WeChatのグループ/友達を管理したり、ゾンビフォロワーを検出したりするのに使用できます...",
+                    "zh-hans": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+                    "zh-hant": "🤖一個基於OpenAi ChatGPT + WeChaty 實現的微信機器人，可以用來幫助你自動回覆微信訊息，或者管理微信群/好友，檢測僵屍粉等..."
+                }
+            },
+            "https://github.com/chrislemke/chatfred": {
+                "repository_name": "ChatFred",
+                "user_name": "chrislemke",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.",
+                "topics": [
+                    "alfred-workflow",
+                    "alfredapp",
+                    "chatbot",
+                    "chatgpt",
+                    "dall-e2",
+                    "gpt-3",
+                    "gpt-4",
+                    "image-generation",
+                    "openai",
+                    "stable-diffusion",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.",
+                    "ja": "チャットGPT、DALL·E 2などを使用したAlfredワークフローによるチャット、画像生成などAlfredワークフローを使用して、チャット、画像生成などを行うためのチャットGPT、DALL·E 2などのモデルを使用します。",
+                    "zh-hans": "使用ChatGPT、DALL·E 2和其他模型的Alfred工作流，用于聊天、图像生成等功能。输出：使用ChatGPT、DALL·E 2和其他模型的Alfred工作流，可用于聊天、图像生成等功能。",
+                    "zh-hant": "使用ChatGPT、DALL·E 2和其他模型的Alfred工作流程，用於聊天、圖像生成等功能。"
                 }
             }
         },
@@ -18067,6 +18168,25 @@
                     "zh-hans": "🚀 大语言模型高效转发服务 · 专为LLMs设计的高效转发服务 · OpenAI API反向代理",
                     "zh-hant": "🚀 大型語言模型高效轉發服務 · 專為LLM設計的高效轉發服務 · OpenAI API反向代理"
                 }
+            },
+            "https://github.com/nvidia/fastertransformer": {
+                "repository_name": "FasterTransformer",
+                "user_name": "NVIDIA",
+                "language": "C++",
+                "license": "Apache License 2.0",
+                "description": "Transformer related optimization, including BERT, GPT",
+                "topics": [
+                    "bert",
+                    "gpt",
+                    "pytorch",
+                    "transformer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Transformer related optimization, including BERT, GPT",
+                    "ja": "トランスフォーマーに関連する最適化、BERT、GPTを含む。",
+                    "zh-hans": "与Transformer相关的优化，包括BERT，GPT输出：Transformer相关的优化，包括BERT，GPT",
+                    "zh-hant": "與Transformer相關的優化，包括BERT、GPT"
+                }
             }
         },
         "Langchain": {
@@ -19812,6 +19932,44 @@
                     "ja": "OpenAI、LlamaCpp、およびGPT-4-Allを使用して、コードベースとドキュメントとチャットするためのツール",
                     "zh-hans": "使用OpenAI、LlamaCpp和GPT-4-All的工具，可以与您的代码库和文档进行聊天。",
                     "zh-hant": "使用OpenAI、LlamaCpp和GPT-4-All的工具，可以与您的代码库和文档进行聊天。"
+                }
+            },
+            "https://github.com/theodo-group/llphant": {
+                "repository_name": "LLPhant",
+                "user_name": "theodo-group",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex",
+                "topics": [
+                    "autophp",
+                    "genai",
+                    "gpt4",
+                    "langchain",
+                    "laravel",
+                    "llamaindex",
+                    "openai",
+                    "php",
+                    "symfony"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex",
+                    "ja": "LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。LangchainとLLamaIndexに触発されました。",
+                    "zh-hans": "LLPhant - 一个使用OpenAI GPT 4的综合PHP生成AI框架。受Langchain和LLamaIndex启发。",
+                    "zh-hant": "LLPhant - 一個使用OpenAI GPT 4的全面PHP生成AI框架。受到Langchain和LLamaIndex的啟發。"
+                }
+            },
+            "https://github.com/rhohndorf/auto-llama-cpp": {
+                "repository_name": "Auto-Llama-cpp",
+                "user_name": "rhohndorf",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Uses Auto-GPT with Llama.cpp",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Uses Auto-GPT with Llama.cpp",
+                    "ja": "Llama.cppを使用したAuto-GPT",
+                    "zh-hans": "使用Llama.cpp的Auto-GPT",
+                    "zh-hant": "使用Llama.cpp和Auto-GPT"
                 }
             }
         },
@@ -22979,6 +23137,27 @@
                     "ja": "フリーチャットGPT 3.5 / チャットGPT 4 | フリーOpenAI / チャットGPT API",
                     "zh-hans": "免费聊天GPT 3.5 / 聊天GPT 4 | 免费OpenAI / 聊天GPT API",
                     "zh-hant": "免費的ChatGPT 3.5 / ChatGPT 4 | 免費的OpenAI / ChatGPT API"
+                }
+            },
+            "https://github.com/sparrow-js/ant-codeai": {
+                "repository_name": "ant-codeAI",
+                "user_name": "sparrow-js",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "AI generate code",
+                "topics": [
+                    "chatgpt",
+                    "code",
+                    "node",
+                    "openai",
+                    "react",
+                    "web"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI generates code.",
+                    "ja": "AIがコードを生成します。",
+                    "zh-hans": "AI生成代码",
+                    "zh-hant": "AI 生成程式碼"
                 }
             }
         },
@@ -29319,6 +29498,38 @@
                     "ja": "ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆テキスト読み上げ",
                     "zh-hans": "工作流到APP、屏幕共享和悬浮视频、GPT和3D、语音识别和文本转语音",
                     "zh-hant": "工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成"
+                }
+            },
+            "https://github.com/weijunext/smart-excel-ai": {
+                "repository_name": "smart-excel-ai",
+                "user_name": "weijunext",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Generate the Excel formulas you need in seconds using ChatGPT.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Generate the Excel formulas you need in seconds using ChatGPT.",
+                    "ja": "ChatGPTを使用して、必要なExcelの数式を数秒で生成します。",
+                    "zh-hans": "使用ChatGPT，在几秒钟内生成您所需的Excel公式。",
+                    "zh-hant": "使用ChatGPT，在幾秒內生成您所需的Excel公式。"
+                }
+            },
+            "https://github.com/muisedestiny/zotero-gpt": {
+                "repository_name": "zotero-gpt",
+                "user_name": "MuiseDestiny",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "GPT Meet Zotero.",
+                "topics": [
+                    "gpt",
+                    "zotero",
+                    "zotero-plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GPT meets Zotero.",
+                    "ja": "GPTとZoteroの出会い。",
+                    "zh-hans": "GPT 遇见 Zotero。",
+                    "zh-hant": "GPT 遇見 Zotero。"
                 }
             }
         }

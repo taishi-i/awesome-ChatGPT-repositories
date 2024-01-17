@@ -15,36 +15,37 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - リークされたGPTsによって、25メッセージ制限を回避したり、PlusサブスクリプションなしでGPTsを試すことができます。
+ * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPTの登録 2.chatGPTの完成プロジェクトの整理 3.chatGPTを効果的に使用するための小技 4.調整ガイド ↓デモサイト
+
+
+**Prompts**
+ * [swarms](https://github.com/kyegomez/swarms) - 信頼性のある自律エージェントのスワームを構築、展開、スケーリングしてワークフローの自動化を行います。コミュニティに参加してください：https://discord.gg/DbjBMJTSWD
 
 
 **Chatbots**
- * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤開封即使❤QQ/Wechatでの非公式ChatGPTの実装です。あなたのQQまたはWechatをChatGPTに変えてみましょう。
-
-
-**Tutorials**
- * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 学习 eBPF 的例子 | eBPF 開発者チュートリアルとナレッジベース：パフォーマンス、ネットワーク、セキュリティなど、さまざまなアプリケーションシナリオを小道具と例を使って一歩ずつ学ぶ
+ * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖OpenAi ChatGPT + WeChatyをベースにしたWeChatのロボットです。WeChatのメッセージに自動的に返信したり、WeChatのグループ/友達を管理したり、ゾンビフォロワーを検出したりするのに使用できます...
+ * [ChatFred](https://github.com/chrislemke/chatfred) - チャットGPT、DALL·E 2などを使用したAlfredワークフローによるチャット、画像生成などAlfredワークフローを使用して、チャット、画像生成などを行うためのチャットGPT、DALL·E 2などのモデルを使用します。
 
 
 **NLP**
- * [talk2arxiv](https://github.com/evanhu1/talk2arxiv) - ChatGPTを使用して、どんなArXiv論文でも話すことができます。
- * [autopilot](https://github.com/fjrdomingues/autopilot) - コードオートパイロットは、GPTを使用してコードベースを読み取り、コンテキストを作成し、タスクを解決するツールです。
- * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀 大規模言語モデルの効率的な転送サービス · LLM向けの効率的な転送サービスです。 · OpenAI APIリバースプロキシ
+ * [FasterTransformer](https://github.com/nvidia/fastertransformer) - トランスフォーマーに関連する最適化、BERT、GPTを含む。
 
 
 **Langchain**
- * [talk-codebase](https://github.com/rsaryev/talk-codebase) - OpenAI、LlamaCpp、およびGPT-4-Allを使用して、コードベースとドキュメントとチャットするためのツール
+ * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。LangchainとLLamaIndexに触発されました。
+ * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - Llama.cppを使用したAuto-GPT
 
 
 **Openai**
- * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - フリーチャットGPT 3.5 / チャットGPT 4 | フリーOpenAI / チャットGPT API
+ * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AIがコードを生成します。
 
 
 **Others**
- * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆テキスト読み上げ
+ * [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - ChatGPTを使用して、必要なExcelの数式を数秒で生成します。
+ * [zotero-gpt](https://github.com/muisedestiny/zotero-gpt) - GPTとZoteroの出会い。
 
 
-_Updated on January 16, 2024_ (A total of 1353 repositories listed.)
+_Updated on January 18, 2024_ (A total of 1363 repositories listed.)
 
 ## Table of contents
 
@@ -111,6 +112,7 @@ _Updated on January 16, 2024_ (A total of 1353 repositories listed.)
  * [LLM-Reasoning-Papers](https://github.com/atfortes/llm-reasoning-papers) - チェーンオブソート（CoT）、インストラクションチューニングなど、大規模言語モデル（LLM）に関する論文やリソースのコレクション。大規模言語モデル（LLM）に関する論文やリソース、チェーンオブソート（CoT）、インストラクションチューニングなどのコレクション。
  * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 素晴らしいカスタムGPTの厳選リスト
  * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - リークされたGPTsによって、25メッセージ制限を回避したり、PlusサブスクリプションなしでGPTsを試すことができます。
+ * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPTの登録 2.chatGPTの完成プロジェクトの整理 3.chatGPTを効果的に使用するための小技 4.調整ガイド ↓デモサイト
 
 
 ## Prompts
@@ -216,6 +218,7 @@ _Updated on January 16, 2024_ (A total of 1353 repositories listed.)
  * [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - ACL2023論文「言語モデルプロンプティングによる推論：サーベイ」のリポジトリ。「言語モデルプロンプティングによる推論：サーベイ」というACL2023論文のリポジトリ。
  * [knowledge](https://github.com/knowledgecanvas/knowledge) - 知識は、お気に入りのウェブサイト、ドキュメント、ファイルを保存、検索、アクセス、探索、チャットするためのツールです。
  * [promptfoo](https://github.com/promptfoo/promptfoo) - プロンプト、モデル、RAGをテストしてください。LLMの出力を評価し比較し、回帰を検出し、プロンプトの品質を向上させてください。OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama、Mistral/Mixtral/Llamaなどのローカルおよびプライベートモデルに対するLLMの評価（CI/CDを使用）
+ * [swarms](https://github.com/kyegomez/swarms) - 信頼性のある自律エージェントのスワームを構築、展開、スケーリングしてワークフローの自動化を行います。コミュニティに参加してください：https://discord.gg/DbjBMJTSWD
 
 
 ## Chatbots
@@ -396,6 +399,8 @@ _Updated on January 16, 2024_ (A total of 1353 repositories listed.)
  * [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - オープンエーアイ + LINE + Vercel = GPT AIアシスタント
  * [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - SpringCloudAlibabaをベースに開発されたデュアルエンドのGPTアプリケーション。音声対話、描画、画像認識、テキスト対話を含んでいます。デュアルエンドのGPTアプリケーションは、音声対話、描画、画像認識、テキスト対話を含んでいます。
  * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤開封即使❤QQ/Wechatでの非公式ChatGPTの実装です。あなたのQQまたはWechatをChatGPTに変えてみましょう。
+ * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖OpenAi ChatGPT + WeChatyをベースにしたWeChatのロボットです。WeChatのメッセージに自動的に返信したり、WeChatのグループ/友達を管理したり、ゾンビフォロワーを検出したりするのに使用できます...
+ * [ChatFred](https://github.com/chrislemke/chatfred) - チャットGPT、DALL·E 2などを使用したAlfredワークフローによるチャット、画像生成などAlfredワークフローを使用して、チャット、画像生成などを行うためのチャットGPT、DALL·E 2などのモデルを使用します。
 
 
 ## Browser-extensions
@@ -901,6 +906,7 @@ _Updated on January 16, 2024_ (A total of 1353 repositories listed.)
  * [talk2arxiv](https://github.com/evanhu1/talk2arxiv) - ChatGPTを使用して、どんなArXiv論文でも話すことができます。
  * [autopilot](https://github.com/fjrdomingues/autopilot) - コードオートパイロットは、GPTを使用してコードベースを読み取り、コンテキストを作成し、タスクを解決するツールです。
  * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀 大規模言語モデルの効率的な転送サービス · LLM向けの効率的な転送サービスです。 · OpenAI APIリバースプロキシ
+ * [FasterTransformer](https://github.com/nvidia/fastertransformer) - トランスフォーマーに関連する最適化、BERT、GPTを含む。
 
 
 ## Langchain
@@ -980,6 +986,8 @@ _Updated on January 16, 2024_ (A total of 1353 repositories listed.)
  * [GPTRouter](https://github.com/writesonic/gptrouter) - 複数のLLM（OpenAI、Anthropic、Azure）と画像モデル（Dall-E、SDXL）をスムーズに管理し、応答速度を向上させ、中断のない信頼性を確保します。
  * [dr-doc-search](https://github.com/namuan/dr-doc-search) - 本と対話する - GPT-3で作成された本と対話する - GPT-3で作成された
  * [talk-codebase](https://github.com/rsaryev/talk-codebase) - OpenAI、LlamaCpp、およびGPT-4-Allを使用して、コードベースとドキュメントとチャットするためのツール
+ * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。LangchainとLLamaIndexに触発されました。
+ * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - Llama.cppを使用したAuto-GPT
 
 
 ## Unity
@@ -1135,6 +1143,7 @@ _Updated on January 16, 2024_ (A total of 1353 repositories listed.)
  * [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。
  * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - OpenAI APIキーを使用して、ChatGPTと同じ体験ができる静的ウェブページです！
  * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - フリーチャットGPT 3.5 / チャットGPT 4 | フリーOpenAI / チャットGPT API
+ * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AIがコードを生成します。
 
 
 ## Others
@@ -1472,5 +1481,7 @@ _Updated on January 16, 2024_ (A total of 1353 repositories listed.)
  * [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリ。O'Reilly書籍「Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play」第2版の公式コードリポジトリです。
  * [smart-ide](https://github.com/airuikun/smart-ide) - VSCodeのプラグインとChatGPTの機能を組み合わせて、スマートな研究開発の効率化を実現する。
  * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆テキスト読み上げ
+ * [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - ChatGPTを使用して、必要なExcelの数式を数秒で生成します。
+ * [zotero-gpt](https://github.com/muisedestiny/zotero-gpt) - GPTとZoteroの出会い。
 
 
