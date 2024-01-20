@@ -15,37 +15,29 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1. chatGPT注册2. chatGPT成品项目整理3. 高效使用chatGPT的小技巧4. 调教指南 ↓演示网站
-
-
-**Prompts**
- * [swarms](https://github.com/kyegomez/swarms) - 构建、部署和扩展可靠的自主代理群，用于工作流自动化。加入我们的社区：https://discord.gg/DbjBMJTSWD
+ * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - 关于LLM动力代理的精彩事物。论文/代码库/博客/...
+ * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - 一个精选的GPT商店中的精彩GPT清单
 
 
 **Chatbots**
- * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
- * [ChatFred](https://github.com/chrislemke/chatfred) - 使用ChatGPT、DALL·E 2和其他模型的Alfred工作流，用于聊天、图像生成等功能。输出：使用ChatGPT、DALL·E 2和其他模型的Alfred工作流，可用于聊天、图像生成等功能。
-
-
-**NLP**
- * [FasterTransformer](https://github.com/nvidia/fastertransformer) - 与Transformer相关的优化，包括BERT，GPT输出：Transformer相关的优化，包括BERT，GPT
+ * [catai](https://github.com/withcatai/catai) - 🦙模型的用户界面。本地运行AI助手✨
 
 
 **Langchain**
- * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - 一个使用OpenAI GPT 4的综合PHP生成AI框架。受Langchain和LLamaIndex启发。
- * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - 使用Llama.cpp的Auto-GPT
+ * [entaoai](https://github.com/akshata29/entaoai) - 使用自己的数据进行聊天和提问。加速器可以快速上传您自己的企业数据，并使用OpenAI服务与上传的数据进行聊天和提问。
 
 
 **Openai**
- * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI生成代码
+ * [BestGPTs](https://github.com/agentops-ai/bestgpts) - 排名靠前的OpenAI GPTs
 
 
 **Others**
- * [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - 使用ChatGPT，在几秒钟内生成您所需的Excel公式。
- * [zotero-gpt](https://github.com/muisedestiny/zotero-gpt) - GPT 遇见 Zotero。
+ * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - 使用GPT-4 Vision API和Puppeteer进行网络爬虫
+ * [inke](https://github.com/yesmore/inke) - 📖 一个具备AI辅助写作和实时协作功能的所见即所得笔记本。支持自主托管，使用IndexedDB存储笔记。
+ * [twitterbio](https://github.com/nutlope/twitterbio) - 使用Mixtral和GPT-3.5生成您的Twitter简介。
 
 
-_Updated on January 18, 2024_ (A total of 1363 repositories listed.)
+_Updated on January 21, 2024_ (A total of 1371 repositories listed.)
 
 ## Table of contents
 
@@ -113,6 +105,8 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 一个精选的令人惊叹的自定义GPT清单
  * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - 泄露的GPTs促使绕过25条信息限制或尝试GPTs而无需Plus订阅。
  * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1. chatGPT注册2. chatGPT成品项目整理3. 高效使用chatGPT的小技巧4. 调教指南 ↓演示网站
+ * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - 关于LLM动力代理的精彩事物。论文/代码库/博客/...
+ * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - 一个精选的GPT商店中的精彩GPT清单
 
 
 ## Prompts
@@ -401,6 +395,7 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤开箱即用❤一个非官方的ChatGPT在QQ/微信中的实现。快来将你的QQ或微信变成ChatGPT吧！
  * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
  * [ChatFred](https://github.com/chrislemke/chatfred) - 使用ChatGPT、DALL·E 2和其他模型的Alfred工作流，用于聊天、图像生成等功能。输出：使用ChatGPT、DALL·E 2和其他模型的Alfred工作流，可用于聊天、图像生成等功能。
+ * [catai](https://github.com/withcatai/catai) - 🦙模型的用户界面。本地运行AI助手✨
 
 
 ## Browser-extensions
@@ -988,6 +983,7 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [talk-codebase](https://github.com/rsaryev/talk-codebase) - 使用OpenAI、LlamaCpp和GPT-4-All的工具，可以与您的代码库和文档进行聊天。
  * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - 一个使用OpenAI GPT 4的综合PHP生成AI框架。受Langchain和LLamaIndex启发。
  * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - 使用Llama.cpp的Auto-GPT
+ * [entaoai](https://github.com/akshata29/entaoai) - 使用自己的数据进行聊天和提问。加速器可以快速上传您自己的企业数据，并使用OpenAI服务与上传的数据进行聊天和提问。
 
 
 ## Unity
@@ -1144,6 +1140,7 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - 静态网页，允许您使用OpenAI API密钥，获得与ChatGPT相同的体验！
  * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - 免费聊天GPT 3.5 / 聊天GPT 4 | 免费OpenAI / 聊天GPT API
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI生成代码
+ * [BestGPTs](https://github.com/agentops-ai/bestgpts) - 排名靠前的OpenAI GPTs
 
 
 ## Others
@@ -1483,5 +1480,8 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 工作流到APP、屏幕共享和悬浮视频、GPT和3D、语音识别和文本转语音
  * [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - 使用ChatGPT，在几秒钟内生成您所需的Excel公式。
  * [zotero-gpt](https://github.com/muisedestiny/zotero-gpt) - GPT 遇见 Zotero。
+ * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - 使用GPT-4 Vision API和Puppeteer进行网络爬虫
+ * [inke](https://github.com/yesmore/inke) - 📖 一个具备AI辅助写作和实时协作功能的所见即所得笔记本。支持自主托管，使用IndexedDB存储笔记。
+ * [twitterbio](https://github.com/nutlope/twitterbio) - 使用Mixtral和GPT-3.5生成您的Twitter简介。
 
 

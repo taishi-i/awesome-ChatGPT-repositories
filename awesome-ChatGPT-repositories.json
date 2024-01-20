@@ -1204,6 +1204,63 @@
                     "zh-hans": "1. chatGPT注册2. chatGPT成品项目整理3. 高效使用chatGPT的小技巧4. 调教指南 ↓演示网站",
                     "zh-hant": "1. chatGPT註冊 2. chatGPT成品項目整理 3. 高效使用chatGPT的小技巧 4. 調教指南 ↓演示網站"
                 }
+            },
+            "https://github.com/hyp1231/awesome-llm-powered-agent": {
+                "repository_name": "awesome-llm-powered-agent",
+                "user_name": "hyp1231",
+                "language": null,
+                "license": "MIT License",
+                "description": "Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...",
+                "topics": [
+                    "awesome-list",
+                    "chatgpt",
+                    "embodied-agent",
+                    "embodied-ai",
+                    "foundation-model",
+                    "foundation-models",
+                    "generative-agents",
+                    "generative-ai",
+                    "generative-model",
+                    "generative-models",
+                    "gpt-4",
+                    "large-language-model",
+                    "large-language-models",
+                    "llm",
+                    "llm-powered-agents",
+                    "llms"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...",
+                    "ja": "LLMパワードエージェントの素晴らしい点。論文/リポジトリ/ブログ/...",
+                    "zh-hans": "关于LLM动力代理的精彩事物。论文/代码库/博客/...",
+                    "zh-hant": "LLM 引擎代理的精彩之处。论文/代码库/博客/..."
+                }
+            },
+            "https://github.com/devisasari/awesome-gpt-store": {
+                "repository_name": "awesome-gpt-store",
+                "user_name": "devisasari",
+                "language": null,
+                "license": "Apache License 2.0",
+                "description": "A curated list of awesome GPTs in the GPT Store",
+                "topics": [
+                    "ai",
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "gpt",
+                    "gpt-4",
+                    "gpt-store",
+                    "gpts",
+                    "gpts-list",
+                    "gptstore",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of awesome GPTs in the GPT Store",
+                    "ja": "GPTストアの素晴らしいGPTの厳選リスト",
+                    "zh-hans": "一个精选的GPT商店中的精彩GPT清单",
+                    "zh-hant": "一個精心挑選的GPT商店中的精彩GPT清單"
+                }
             }
         },
         "Prompts": {
@@ -7629,6 +7686,39 @@
                     "ja": "チャットGPT、DALL·E 2などを使用したAlfredワークフローによるチャット、画像生成などAlfredワークフローを使用して、チャット、画像生成などを行うためのチャットGPT、DALL·E 2などのモデルを使用します。",
                     "zh-hans": "使用ChatGPT、DALL·E 2和其他模型的Alfred工作流，用于聊天、图像生成等功能。输出：使用ChatGPT、DALL·E 2和其他模型的Alfred工作流，可用于聊天、图像生成等功能。",
                     "zh-hant": "使用ChatGPT、DALL·E 2和其他模型的Alfred工作流程，用於聊天、圖像生成等功能。"
+                }
+            },
+            "https://github.com/withcatai/catai": {
+                "repository_name": "catai",
+                "user_name": "withcatai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "UI for 🦙model . Run AI assistant locally ✨",
+                "topics": [
+                    "ai",
+                    "ai-assistant",
+                    "catai",
+                    "chatbot",
+                    "chatgpt",
+                    "chatui",
+                    "dalai",
+                    "ggmlv3",
+                    "gguf",
+                    "llama-cpp",
+                    "llm",
+                    "local-llm",
+                    "localai",
+                    "node-llama-cpp",
+                    "openai",
+                    "vicuna",
+                    "vicuna-installation-guide",
+                    "wizardlm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "UI for 🦙model . Run AI assistant locally ✨",
+                    "ja": "🦙モデルのためのUI。AIアシスタントをローカルで実行する✨",
+                    "zh-hans": "🦙模型的用户界面。本地运行AI助手✨",
+                    "zh-hant": "使用者介面 (UI) 供🦙模型使用。在本地運行 AI 助手 ✨"
                 }
             }
         },
@@ -19971,6 +20061,35 @@
                     "zh-hans": "使用Llama.cpp的Auto-GPT",
                     "zh-hant": "使用Llama.cpp和Auto-GPT"
                 }
+            },
+            "https://github.com/akshata29/entaoai": {
+                "repository_name": "entaoai",
+                "user_name": "akshata29",
+                "language": "HTML",
+                "license": "MIT License",
+                "description": "Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions",
+                "topics": [
+                    "azure",
+                    "azure-functions",
+                    "azure-openai",
+                    "azure-webapp",
+                    "azureopenai",
+                    "chatgpt",
+                    "cognitive-search",
+                    "gpt-3",
+                    "gpt-35-turbo",
+                    "langchain",
+                    "openai",
+                    "pinecone",
+                    "redis-search",
+                    "vector-store"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions",
+                    "ja": "自分のデータでチャットや質問を行う。自社のデータを迅速にアップロードし、OpenAIのサービスを使用してそのアップロードされたデータとチャットし、質問をするためのアクセラレータ。",
+                    "zh-hans": "使用自己的数据进行聊天和提问。加速器可以快速上传您自己的企业数据，并使用OpenAI服务与上传的数据进行聊天和提问。",
+                    "zh-hant": "使用您自己的數據進行聊天和提問。加速器可快速上傳您自己的企業數據並使用OpenAI服務與上傳的數據進行聊天和提問。"
+                }
             }
         },
         "Unity": {
@@ -23158,6 +23277,20 @@
                     "ja": "AIがコードを生成します。",
                     "zh-hans": "AI生成代码",
                     "zh-hant": "AI 生成程式碼"
+                }
+            },
+            "https://github.com/agentops-ai/bestgpts": {
+                "repository_name": "BestGPTs",
+                "user_name": "AgentOps-AI",
+                "language": null,
+                "license": "MIT License",
+                "description": "Top ranked OpenAI GPTs",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Top ranked OpenAI GPTs",
+                    "ja": "トップランクのOpenAI GPTs",
+                    "zh-hans": "排名靠前的OpenAI GPTs",
+                    "zh-hant": "頂尖的OpenAI GPTs"
                 }
             }
         },
@@ -29530,6 +29663,60 @@
                     "ja": "GPTとZoteroの出会い。",
                     "zh-hans": "GPT 遇见 Zotero。",
                     "zh-hant": "GPT 遇見 Zotero。"
+                }
+            },
+            "https://github.com/unconv/gpt4v-browsing": {
+                "repository_name": "gpt4v-browsing",
+                "user_name": "unconv",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Web Scraping with GPT-4 Vision API and Puppeteer",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Web Scraping with GPT-4 Vision API and Puppeteer",
+                    "ja": "GPT-4 Vision APIとPuppeteerを使用したウェブスクレイピング",
+                    "zh-hans": "使用GPT-4 Vision API和Puppeteer进行网络爬虫",
+                    "zh-hant": "使用GPT-4 Vision API和Puppeteer进行网络爬虫"
+                }
+            },
+            "https://github.com/yesmore/inke": {
+                "repository_name": "inke",
+                "user_name": "yesmore",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。",
+                "topics": [
+                    "chatgpt",
+                    "editor",
+                    "gpt",
+                    "markdown",
+                    "nextjs",
+                    "notion",
+                    "openai-api",
+                    "react",
+                    "tailwindcss",
+                    "turborepo",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。",
+                    "ja": "📖 AI支援のあるリアルタイム共同作業が可能なWYSIWYGノートブック。セルフホスティングに対応しています。IndexedDBを使用してノートを保存します。",
+                    "zh-hans": "📖 一个具备AI辅助写作和实时协作功能的所见即所得笔记本。支持自主托管，使用IndexedDB存储笔记。",
+                    "zh-hant": "📖 一個具有AI輔助寫作和即時協作功能的所見即所得筆記本。支援自主託管。一個所見即所得的Markdown筆記本，支援AI輔助寫作和多人協作，支援自部署，使用IndexedDB存儲筆記。"
+                }
+            },
+            "https://github.com/nutlope/twitterbio": {
+                "repository_name": "twitterbio",
+                "user_name": "Nutlope",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Generate your Twitter bio with Mixtral and GPT-3.5.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Generate your Twitter bio with Mixtral and GPT-3.5.",
+                    "ja": "ミクストラルとGPT-3.5を使って、あなたのTwitterの自己紹介を生成しましょう。",
+                    "zh-hans": "使用Mixtral和GPT-3.5生成您的Twitter简介。",
+                    "zh-hant": "使用Mixtral和GPT-3.5生成您的Twitter簡介。"
                 }
             }
         }
