@@ -15,37 +15,29 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPTの登録 2.chatGPTの完成プロジェクトの整理 3.chatGPTを効果的に使用するための小技 4.調整ガイド ↓デモサイト
-
-
-**Prompts**
- * [swarms](https://github.com/kyegomez/swarms) - 信頼性のある自律エージェントのスワームを構築、展開、スケーリングしてワークフローの自動化を行います。コミュニティに参加してください：https://discord.gg/DbjBMJTSWD
+ * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - LLMパワードエージェントの素晴らしい点。論文/リポジトリ/ブログ/...
+ * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - GPTストアの素晴らしいGPTの厳選リスト
 
 
 **Chatbots**
- * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖OpenAi ChatGPT + WeChatyをベースにしたWeChatのロボットです。WeChatのメッセージに自動的に返信したり、WeChatのグループ/友達を管理したり、ゾンビフォロワーを検出したりするのに使用できます...
- * [ChatFred](https://github.com/chrislemke/chatfred) - チャットGPT、DALL·E 2などを使用したAlfredワークフローによるチャット、画像生成などAlfredワークフローを使用して、チャット、画像生成などを行うためのチャットGPT、DALL·E 2などのモデルを使用します。
-
-
-**NLP**
- * [FasterTransformer](https://github.com/nvidia/fastertransformer) - トランスフォーマーに関連する最適化、BERT、GPTを含む。
+ * [catai](https://github.com/withcatai/catai) - 🦙モデルのためのUI。AIアシスタントをローカルで実行する✨
 
 
 **Langchain**
- * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。LangchainとLLamaIndexに触発されました。
- * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - Llama.cppを使用したAuto-GPT
+ * [entaoai](https://github.com/akshata29/entaoai) - 自分のデータでチャットや質問を行う。自社のデータを迅速にアップロードし、OpenAIのサービスを使用してそのアップロードされたデータとチャットし、質問をするためのアクセラレータ。
 
 
 **Openai**
- * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AIがコードを生成します。
+ * [BestGPTs](https://github.com/agentops-ai/bestgpts) - トップランクのOpenAI GPTs
 
 
 **Others**
- * [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - ChatGPTを使用して、必要なExcelの数式を数秒で生成します。
- * [zotero-gpt](https://github.com/muisedestiny/zotero-gpt) - GPTとZoteroの出会い。
+ * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - GPT-4 Vision APIとPuppeteerを使用したウェブスクレイピング
+ * [inke](https://github.com/yesmore/inke) - 📖 AI支援のあるリアルタイム共同作業が可能なWYSIWYGノートブック。セルフホスティングに対応しています。IndexedDBを使用してノートを保存します。
+ * [twitterbio](https://github.com/nutlope/twitterbio) - ミクストラルとGPT-3.5を使って、あなたのTwitterの自己紹介を生成しましょう。
 
 
-_Updated on January 18, 2024_ (A total of 1363 repositories listed.)
+_Updated on January 21, 2024_ (A total of 1371 repositories listed.)
 
 ## Table of contents
 
@@ -113,6 +105,8 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - 素晴らしいカスタムGPTの厳選リスト
  * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - リークされたGPTsによって、25メッセージ制限を回避したり、PlusサブスクリプションなしでGPTsを試すことができます。
  * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPTの登録 2.chatGPTの完成プロジェクトの整理 3.chatGPTを効果的に使用するための小技 4.調整ガイド ↓デモサイト
+ * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - LLMパワードエージェントの素晴らしい点。論文/リポジトリ/ブログ/...
+ * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - GPTストアの素晴らしいGPTの厳選リスト
 
 
 ## Prompts
@@ -401,6 +395,7 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤開封即使❤QQ/Wechatでの非公式ChatGPTの実装です。あなたのQQまたはWechatをChatGPTに変えてみましょう。
  * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖OpenAi ChatGPT + WeChatyをベースにしたWeChatのロボットです。WeChatのメッセージに自動的に返信したり、WeChatのグループ/友達を管理したり、ゾンビフォロワーを検出したりするのに使用できます...
  * [ChatFred](https://github.com/chrislemke/chatfred) - チャットGPT、DALL·E 2などを使用したAlfredワークフローによるチャット、画像生成などAlfredワークフローを使用して、チャット、画像生成などを行うためのチャットGPT、DALL·E 2などのモデルを使用します。
+ * [catai](https://github.com/withcatai/catai) - 🦙モデルのためのUI。AIアシスタントをローカルで実行する✨
 
 
 ## Browser-extensions
@@ -988,6 +983,7 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [talk-codebase](https://github.com/rsaryev/talk-codebase) - OpenAI、LlamaCpp、およびGPT-4-Allを使用して、コードベースとドキュメントとチャットするためのツール
  * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。LangchainとLLamaIndexに触発されました。
  * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - Llama.cppを使用したAuto-GPT
+ * [entaoai](https://github.com/akshata29/entaoai) - 自分のデータでチャットや質問を行う。自社のデータを迅速にアップロードし、OpenAIのサービスを使用してそのアップロードされたデータとチャットし、質問をするためのアクセラレータ。
 
 
 ## Unity
@@ -1144,6 +1140,7 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - OpenAI APIキーを使用して、ChatGPTと同じ体験ができる静的ウェブページです！
  * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - フリーチャットGPT 3.5 / チャットGPT 4 | フリーOpenAI / チャットGPT API
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AIがコードを生成します。
+ * [BestGPTs](https://github.com/agentops-ai/bestgpts) - トップランクのOpenAI GPTs
 
 
 ## Others
@@ -1483,5 +1480,8 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆テキスト読み上げ
  * [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - ChatGPTを使用して、必要なExcelの数式を数秒で生成します。
  * [zotero-gpt](https://github.com/muisedestiny/zotero-gpt) - GPTとZoteroの出会い。
+ * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - GPT-4 Vision APIとPuppeteerを使用したウェブスクレイピング
+ * [inke](https://github.com/yesmore/inke) - 📖 AI支援のあるリアルタイム共同作業が可能なWYSIWYGノートブック。セルフホスティングに対応しています。IndexedDBを使用してノートを保存します。
+ * [twitterbio](https://github.com/nutlope/twitterbio) - ミクストラルとGPT-3.5を使って、あなたのTwitterの自己紹介を生成しましょう。
 
 

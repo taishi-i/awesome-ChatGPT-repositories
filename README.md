@@ -15,37 +15,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPT注册  2.chatGPT成品项目整理  3.高效使用chatGPT的小技巧  4.调教指南 ↓演示网站
-
-
-**Prompts**
- * [swarms](https://github.com/kyegomez/swarms) - Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation. Join our Community: https://discord.gg/DbjBMJTSWD
+ * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
+ * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 
 
 **Chatbots**
- * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
- * [ChatFred](https://github.com/chrislemke/chatfred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
-
-
-**NLP**
- * [FasterTransformer](https://github.com/nvidia/fastertransformer) - Transformer related optimization, including BERT, GPT
+ * [catai](https://github.com/withcatai/catai) - UI for 🦙model . Run AI assistant locally ✨
 
 
 **Langchain**
- * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex
- * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - Uses Auto-GPT with Llama.cpp
+ * [entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 
 
 **Openai**
- * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI generate code
+ * [BestGPTs](https://github.com/agentops-ai/bestgpts) - Top ranked OpenAI GPTs
 
 
 **Others**
- * [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - Generate the Excel formulas you need in seconds using ChatGPT.
- * [zotero-gpt](https://github.com/muisedestiny/zotero-gpt) - GPT Meet Zotero.
+ * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
+ * [inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
+ * [twitterbio](https://github.com/nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
 
 
-_Updated on January 18, 2024_ (A total of 1363 repositories listed.)
+_Updated on January 21, 2024_ (A total of 1371 repositories listed.)
 
 ## Table of contents
 
@@ -113,6 +105,8 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [awesome-chatgpt-store](https://github.com/devisasari/awesome-chatgpt-store) - A curated list of awesome custom GPTs
  * [Leaked-GPTs](https://github.com/friuns2/leaked-gpts) - Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.
  * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPT注册  2.chatGPT成品项目整理  3.高效使用chatGPT的小技巧  4.调教指南 ↓演示网站
+ * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
+ * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
 
 
 ## Prompts
@@ -401,6 +395,7 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ❤开箱即用❤an unofficial implement of ChatGPT in QQ/Wechat. 一个非官方的ChatGPT腾讯qq/微信(非公众号)实现版，快来把你的qq或微信变成chatgpt吧
  * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...
  * [ChatFred](https://github.com/chrislemke/chatfred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
+ * [catai](https://github.com/withcatai/catai) - UI for 🦙model . Run AI assistant locally ✨
 
 
 ## Browser-extensions
@@ -988,6 +983,7 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [talk-codebase](https://github.com/rsaryev/talk-codebase) - Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All
  * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex
  * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - Uses Auto-GPT with Llama.cpp
+ * [entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
 
 
 ## Unity
@@ -1144,6 +1140,7 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
  * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI generate code
+ * [BestGPTs](https://github.com/agentops-ai/bestgpts) - Top ranked OpenAI GPTs
 
 
 ## Others
@@ -1483,5 +1480,8 @@ _Updated on January 18, 2024_ (A total of 1363 repositories listed.)
  * [comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
  * [smart-excel-ai](https://github.com/weijunext/smart-excel-ai) - Generate the Excel formulas you need in seconds using ChatGPT.
  * [zotero-gpt](https://github.com/muisedestiny/zotero-gpt) - GPT Meet Zotero.
+ * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
+ * [inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
+ * [twitterbio](https://github.com/nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
 
 
