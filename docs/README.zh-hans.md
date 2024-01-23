@@ -15,29 +15,24 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - 关于LLM动力代理的精彩事物。论文/代码库/博客/...
- * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - 一个精选的GPT商店中的精彩GPT清单
+ * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 收集实用的AI仓库、工具、网站、论文和教程。实用的AI百宝箱 💎
 
 
-**Chatbots**
- * [catai](https://github.com/withcatai/catai) - 🦙模型的用户界面。本地运行AI助手✨
+**Prompts**
+ * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 这里是GPTStore上的前100个提示，我们可以用来学习和改进提示工程。
 
 
-**Langchain**
- * [entaoai](https://github.com/akshata29/entaoai) - 使用自己的数据进行聊天和提问。加速器可以快速上传您自己的企业数据，并使用OpenAI服务与上传的数据进行聊天和提问。
-
-
-**Openai**
- * [BestGPTs](https://github.com/agentops-ai/bestgpts) - 排名靠前的OpenAI GPTs
+**NLP**
+ * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - : newspaper: 让ChatGPT为您总结黑客新闻
+ * [openai-translator](https://github.com/lancemoe/openai-translator) - 一个使用OpenAI的翻译器。
+ * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新的LLM论文。欢迎订阅👏如果你喜欢，请动动你的小手🌟一个。
 
 
 **Others**
- * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - 使用GPT-4 Vision API和Puppeteer进行网络爬虫
- * [inke](https://github.com/yesmore/inke) - 📖 一个具备AI辅助写作和实时协作功能的所见即所得笔记本。支持自主托管，使用IndexedDB存储笔记。
- * [twitterbio](https://github.com/nutlope/twitterbio) - 使用Mixtral和GPT-3.5生成您的Twitter简介。
+ * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct是一个用于通用网络代理的系统，可以在任何给定的网站上自主执行任务，重点是大型多模态模型（LMMs），如GPT-4V(ision)。
 
 
-_Updated on January 21, 2024_ (A total of 1371 repositories listed.)
+_Updated on January 24, 2024_ (A total of 1377 repositories listed.)
 
 ## Table of contents
 
@@ -107,6 +102,7 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1. chatGPT注册2. chatGPT成品项目整理3. 高效使用chatGPT的小技巧4. 调教指南 ↓演示网站
  * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - 关于LLM动力代理的精彩事物。论文/代码库/博客/...
  * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - 一个精选的GPT商店中的精彩GPT清单
+ * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 收集实用的AI仓库、工具、网站、论文和教程。实用的AI百宝箱 💎
 
 
 ## Prompts
@@ -213,6 +209,7 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [knowledge](https://github.com/knowledgecanvas/knowledge) - 知识是一个用于保存、搜索、访问、探索和与您所有喜爱的网站、文档和文件聊天的工具。
  * [promptfoo](https://github.com/promptfoo/promptfoo) - 测试您的提示、模型和RAGs。评估和比较LLM的输出，捕捉回归，并提高提示质量。LLM评估适用于OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama，以及像Mistral/Mixtral/Llama这样的本地和私有模型，配备CI/CD。
  * [swarms](https://github.com/kyegomez/swarms) - 构建、部署和扩展可靠的自主代理群，用于工作流自动化。加入我们的社区：https://discord.gg/DbjBMJTSWD
+ * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 这里是GPTStore上的前100个提示，我们可以用来学习和改进提示工程。
 
 
 ## Chatbots
@@ -902,6 +899,9 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [autopilot](https://github.com/fjrdomingues/autopilot) - 代码自动驾驶，一种利用GPT读取代码库、创建上下文并解决任务的工具。
  * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀 大语言模型高效转发服务 · 专为LLMs设计的高效转发服务 · OpenAI API反向代理
  * [FasterTransformer](https://github.com/nvidia/fastertransformer) - 与Transformer相关的优化，包括BERT，GPT输出：Transformer相关的优化，包括BERT，GPT
+ * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - : newspaper: 让ChatGPT为您总结黑客新闻
+ * [openai-translator](https://github.com/lancemoe/openai-translator) - 一个使用OpenAI的翻译器。
+ * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新的LLM论文。欢迎订阅👏如果你喜欢，请动动你的小手🌟一个。
 
 
 ## Langchain
@@ -1483,5 +1483,6 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - 使用GPT-4 Vision API和Puppeteer进行网络爬虫
  * [inke](https://github.com/yesmore/inke) - 📖 一个具备AI辅助写作和实时协作功能的所见即所得笔记本。支持自主托管，使用IndexedDB存储笔记。
  * [twitterbio](https://github.com/nutlope/twitterbio) - 使用Mixtral和GPT-3.5生成您的Twitter简介。
+ * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct是一个用于通用网络代理的系统，可以在任何给定的网站上自主执行任务，重点是大型多模态模型（LMMs），如GPT-4V(ision)。
 
 

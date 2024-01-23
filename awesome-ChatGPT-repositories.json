@@ -1261,6 +1261,36 @@
                     "zh-hans": "一个精选的GPT商店中的精彩GPT清单",
                     "zh-hant": "一個精心挑選的GPT商店中的精彩GPT清單"
                 }
+            },
+            "https://github.com/superiorlu/aitreasurebox": {
+                "repository_name": "AiTreasureBox",
+                "user_name": "superiorlu",
+                "language": "Ruby",
+                "license": "GNU General Public License v3.0",
+                "description": "🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎 ",
+                "topics": [
+                    "agi",
+                    "ai",
+                    "aigc",
+                    "alpaca",
+                    "awesome-list",
+                    "chatgpt",
+                    "deep-learning",
+                    "gpt",
+                    "gpt-4",
+                    "llama",
+                    "llama2",
+                    "llms",
+                    "machine-learning",
+                    "openai",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎",
+                    "ja": "🤖 AIに関する実用的なリポジトリ、ツール、ウェブサイト、論文、チュートリアルを収集します。実用的なAIの宝箱 💎",
+                    "zh-hans": "🤖 收集实用的AI仓库、工具、网站、论文和教程。实用的AI百宝箱 💎",
+                    "zh-hant": "🤖 收集實用的AI存儲庫、工具、網站、論文和教程。實用的AI百寶箱 💎"
+                }
             }
         },
         "Prompts": {
@@ -3511,6 +3541,20 @@
                     "ja": "信頼性のある自律エージェントのスワームを構築、展開、スケーリングしてワークフローの自動化を行います。コミュニティに参加してください：https://discord.gg/DbjBMJTSWD",
                     "zh-hans": "构建、部署和扩展可靠的自主代理群，用于工作流自动化。加入我们的社区：https://discord.gg/DbjBMJTSWD",
                     "zh-hant": "建立、部署和擴展可靠的自主代理群，用於工作流自動化。加入我們的社群：https://discord.gg/DbjBMJTSWD"
+                }
+            },
+            "https://github.com/1003715231/gptstore-prompts": {
+                "repository_name": "gptstore-prompts",
+                "user_name": "1003715231",
+                "language": null,
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.",
+                    "ja": "以下はGPTStoreのトップ100のプロンプトです。これらを使用して、プロンプトエンジニアリングを学び、向上させることができます。",
+                    "zh-hans": "这里是GPTStore上的前100个提示，我们可以用来学习和改进提示工程。",
+                    "zh-hant": "這裡是 GPTStore 的前100個提示，我們可以用來學習和改進提示工程。"
                 }
             }
         },
@@ -18277,6 +18321,80 @@
                     "zh-hans": "与Transformer相关的优化，包括BERT，GPT输出：Transformer相关的优化，包括BERT，GPT",
                     "zh-hant": "與Transformer相關的優化，包括BERT、GPT"
                 }
+            },
+            "https://github.com/polyrabbit/hacker-news-digest": {
+                "repository_name": "hacker-news-digest",
+                "user_name": "polyrabbit",
+                "language": "Python",
+                "license": "GNU Lesser General Public License v3.0",
+                "description": ":newspaper: Let ChatGPT Summarize Hacker News for You",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "crawler",
+                    "data-extraction",
+                    "extract-summaries",
+                    "hacker-news",
+                    "hacker-news-digest",
+                    "hacker-news-reader",
+                    "machine-learning",
+                    "news-aggregator",
+                    "openai",
+                    "openai-api",
+                    "python",
+                    "rss",
+                    "spider"
+                ],
+                "multilingual_descriptions": {
+                    "en": ":newspaper: Let ChatGPT Summarize Hacker News for You",
+                    "ja": ":newspaper: ChatGPTがハッカーニュースを要約します",
+                    "zh-hans": ": newspaper: 让ChatGPT为您总结黑客新闻",
+                    "zh-hant": ":newspaper: 讓ChatGPT為您總結Hacker News"
+                }
+            },
+            "https://github.com/lancemoe/openai-translator": {
+                "repository_name": "openai-translator",
+                "user_name": "LanceMoe",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "A translator that uses OpanAI.",
+                "topics": [
+                    "chatgpt",
+                    "daisyui",
+                    "openai",
+                    "pwa",
+                    "react",
+                    "tailwindcss",
+                    "translator",
+                    "translator-app",
+                    "vite"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A translator that uses OpanAI.",
+                    "ja": "OpanAIを使用する翻訳者。",
+                    "zh-hans": "一个使用OpenAI的翻译器。",
+                    "zh-hant": "一個使用 OpanAI 的翻譯器。"
+                }
+            },
+            "https://github.com/xianshang33/llm-paper-daily": {
+                "repository_name": "llm-paper-daily",
+                "user_name": "xianshang33",
+                "language": null,
+                "license": null,
+                "description": "Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个",
+                "topics": [
+                    "agent",
+                    "chatgpt",
+                    "large-language-models",
+                    "llm",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个",
+                    "ja": "毎日更新されるLLM関連の論文。購読を歓迎します👏 お気に入りの場合は、ぜひ購読してください🌟 一つ",
+                    "zh-hans": "每日更新的LLM论文。欢迎订阅👏如果你喜欢，请动动你的小手🌟一个。",
+                    "zh-hant": "每日更新 LLM 相關的論文，歡迎訂閱 👏 喜歡的話動動你的小手 🌟 一個"
+                }
             }
         },
         "Langchain": {
@@ -29717,6 +29835,22 @@
                     "ja": "ミクストラルとGPT-3.5を使って、あなたのTwitterの自己紹介を生成しましょう。",
                     "zh-hans": "使用Mixtral和GPT-3.5生成您的Twitter简介。",
                     "zh-hant": "使用Mixtral和GPT-3.5生成您的Twitter簡介。"
+                }
+            },
+            "https://github.com/osu-nlp-group/seeact": {
+                "repository_name": "SeeAct",
+                "user_name": "OSU-NLP-Group",
+                "language": "Python",
+                "license": "Other",
+                "description": "SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).",
+                "topics": [
+                    "agent"
+                ],
+                "multilingual_descriptions": {
+                    "en": "SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).",
+                    "ja": "SeeActは、大規模なマルチモーダルモデル（LMM）であるGPT-4V(ision)を中心に、任意のウェブサイトで自律的にタスクを実行する一般的なウェブエージェントのためのシステムです。",
+                    "zh-hans": "SeeAct是一个用于通用网络代理的系统，可以在任何给定的网站上自主执行任务，重点是大型多模态模型（LMMs），如GPT-4V(ision)。",
+                    "zh-hant": "SeeAct是一個針對一般網頁代理人的系統，能夠自主地在任何給定的網站上執行任務，尤其關注於大型多模態模型（LMMs），如GPT-4V(ision)。"
                 }
             }
         }

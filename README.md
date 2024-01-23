@@ -15,29 +15,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
- * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
+ * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 
 
-**Chatbots**
- * [catai](https://github.com/withcatai/catai) - UI for 🦙model . Run AI assistant locally ✨
+**Prompts**
+ * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
 
 
-**Langchain**
- * [entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
-
-
-**Openai**
- * [BestGPTs](https://github.com/agentops-ai/bestgpts) - Top ranked OpenAI GPTs
+**NLP**
+ * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: Let ChatGPT Summarize Hacker News for You
+ * [openai-translator](https://github.com/lancemoe/openai-translator) - A translator that uses OpanAI.
+ * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个
 
 
 **Others**
- * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
- * [inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
- * [twitterbio](https://github.com/nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
+ * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).
 
 
-_Updated on January 21, 2024_ (A total of 1371 repositories listed.)
+_Updated on January 24, 2024_ (A total of 1377 repositories listed.)
 
 ## Table of contents
 
@@ -107,6 +102,7 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPT注册  2.chatGPT成品项目整理  3.高效使用chatGPT的小技巧  4.调教指南 ↓演示网站
  * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
  * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
+ * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
 
 
 ## Prompts
@@ -213,6 +209,7 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [knowledge](https://github.com/knowledgecanvas/knowledge) - Knowledge is a tool for saving, searching, accessing, exploring and chatting with all of your favorite websites, documents and files.
  * [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & private models like Mistral/Mixtral/Llama with CI/CD
  * [swarms](https://github.com/kyegomez/swarms) - Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation. Join our Community: https://discord.gg/DbjBMJTSWD
+ * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
 
 
 ## Chatbots
@@ -902,6 +899,9 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
  * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀  大语言模型高效转发服务  · An efficient forwarding service designed for LLMs. ·  OpenAI API Reverse Proxy
  * [FasterTransformer](https://github.com/nvidia/fastertransformer) - Transformer related optimization, including BERT, GPT
+ * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: Let ChatGPT Summarize Hacker News for You
+ * [openai-translator](https://github.com/lancemoe/openai-translator) - A translator that uses OpanAI.
+ * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个
 
 
 ## Langchain
@@ -1483,5 +1483,6 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
  * [inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
  * [twitterbio](https://github.com/nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
+ * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).
 
 
