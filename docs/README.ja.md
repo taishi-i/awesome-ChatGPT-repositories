@@ -15,29 +15,24 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - LLMパワードエージェントの素晴らしい点。論文/リポジトリ/ブログ/...
- * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - GPTストアの素晴らしいGPTの厳選リスト
+ * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 AIに関する実用的なリポジトリ、ツール、ウェブサイト、論文、チュートリアルを収集します。実用的なAIの宝箱 💎
 
 
-**Chatbots**
- * [catai](https://github.com/withcatai/catai) - 🦙モデルのためのUI。AIアシスタントをローカルで実行する✨
+**Prompts**
+ * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 以下はGPTStoreのトップ100のプロンプトです。これらを使用して、プロンプトエンジニアリングを学び、向上させることができます。
 
 
-**Langchain**
- * [entaoai](https://github.com/akshata29/entaoai) - 自分のデータでチャットや質問を行う。自社のデータを迅速にアップロードし、OpenAIのサービスを使用してそのアップロードされたデータとチャットし、質問をするためのアクセラレータ。
-
-
-**Openai**
- * [BestGPTs](https://github.com/agentops-ai/bestgpts) - トップランクのOpenAI GPTs
+**NLP**
+ * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: ChatGPTがハッカーニュースを要約します
+ * [openai-translator](https://github.com/lancemoe/openai-translator) - OpanAIを使用する翻訳者。
+ * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 毎日更新されるLLM関連の論文。購読を歓迎します👏 お気に入りの場合は、ぜひ購読してください🌟 一つ
 
 
 **Others**
- * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - GPT-4 Vision APIとPuppeteerを使用したウェブスクレイピング
- * [inke](https://github.com/yesmore/inke) - 📖 AI支援のあるリアルタイム共同作業が可能なWYSIWYGノートブック。セルフホスティングに対応しています。IndexedDBを使用してノートを保存します。
- * [twitterbio](https://github.com/nutlope/twitterbio) - ミクストラルとGPT-3.5を使って、あなたのTwitterの自己紹介を生成しましょう。
+ * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeActは、大規模なマルチモーダルモデル（LMM）であるGPT-4V(ision)を中心に、任意のウェブサイトで自律的にタスクを実行する一般的なウェブエージェントのためのシステムです。
 
 
-_Updated on January 21, 2024_ (A total of 1371 repositories listed.)
+_Updated on January 24, 2024_ (A total of 1377 repositories listed.)
 
 ## Table of contents
 
@@ -107,6 +102,7 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1.chatGPTの登録 2.chatGPTの完成プロジェクトの整理 3.chatGPTを効果的に使用するための小技 4.調整ガイド ↓デモサイト
  * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - LLMパワードエージェントの素晴らしい点。論文/リポジトリ/ブログ/...
  * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - GPTストアの素晴らしいGPTの厳選リスト
+ * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 AIに関する実用的なリポジトリ、ツール、ウェブサイト、論文、チュートリアルを収集します。実用的なAIの宝箱 💎
 
 
 ## Prompts
@@ -213,6 +209,7 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [knowledge](https://github.com/knowledgecanvas/knowledge) - 知識は、お気に入りのウェブサイト、ドキュメント、ファイルを保存、検索、アクセス、探索、チャットするためのツールです。
  * [promptfoo](https://github.com/promptfoo/promptfoo) - プロンプト、モデル、RAGをテストしてください。LLMの出力を評価し比較し、回帰を検出し、プロンプトの品質を向上させてください。OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama、Mistral/Mixtral/Llamaなどのローカルおよびプライベートモデルに対するLLMの評価（CI/CDを使用）
  * [swarms](https://github.com/kyegomez/swarms) - 信頼性のある自律エージェントのスワームを構築、展開、スケーリングしてワークフローの自動化を行います。コミュニティに参加してください：https://discord.gg/DbjBMJTSWD
+ * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 以下はGPTStoreのトップ100のプロンプトです。これらを使用して、プロンプトエンジニアリングを学び、向上させることができます。
 
 
 ## Chatbots
@@ -902,6 +899,9 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [autopilot](https://github.com/fjrdomingues/autopilot) - コードオートパイロットは、GPTを使用してコードベースを読み取り、コンテキストを作成し、タスクを解決するツールです。
  * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀 大規模言語モデルの効率的な転送サービス · LLM向けの効率的な転送サービスです。 · OpenAI APIリバースプロキシ
  * [FasterTransformer](https://github.com/nvidia/fastertransformer) - トランスフォーマーに関連する最適化、BERT、GPTを含む。
+ * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: ChatGPTがハッカーニュースを要約します
+ * [openai-translator](https://github.com/lancemoe/openai-translator) - OpanAIを使用する翻訳者。
+ * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 毎日更新されるLLM関連の論文。購読を歓迎します👏 お気に入りの場合は、ぜひ購読してください🌟 一つ
 
 
 ## Langchain
@@ -1483,5 +1483,6 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - GPT-4 Vision APIとPuppeteerを使用したウェブスクレイピング
  * [inke](https://github.com/yesmore/inke) - 📖 AI支援のあるリアルタイム共同作業が可能なWYSIWYGノートブック。セルフホスティングに対応しています。IndexedDBを使用してノートを保存します。
  * [twitterbio](https://github.com/nutlope/twitterbio) - ミクストラルとGPT-3.5を使って、あなたのTwitterの自己紹介を生成しましょう。
+ * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeActは、大規模なマルチモーダルモデル（LMM）であるGPT-4V(ision)を中心に、任意のウェブサイトで自律的にタスクを実行する一般的なウェブエージェントのためのシステムです。
 
 

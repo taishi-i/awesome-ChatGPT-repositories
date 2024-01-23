@@ -15,29 +15,24 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - LLM 引擎代理的精彩之处。论文/代码库/博客/...
- * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - 一個精心挑選的GPT商店中的精彩GPT清單
+ * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 收集實用的AI存儲庫、工具、網站、論文和教程。實用的AI百寶箱 💎
 
 
-**Chatbots**
- * [catai](https://github.com/withcatai/catai) - 使用者介面 (UI) 供🦙模型使用。在本地運行 AI 助手 ✨
+**Prompts**
+ * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 這裡是 GPTStore 的前100個提示，我們可以用來學習和改進提示工程。
 
 
-**Langchain**
- * [entaoai](https://github.com/akshata29/entaoai) - 使用您自己的數據進行聊天和提問。加速器可快速上傳您自己的企業數據並使用OpenAI服務與上傳的數據進行聊天和提問。
-
-
-**Openai**
- * [BestGPTs](https://github.com/agentops-ai/bestgpts) - 頂尖的OpenAI GPTs
+**NLP**
+ * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: 讓ChatGPT為您總結Hacker News
+ * [openai-translator](https://github.com/lancemoe/openai-translator) - 一個使用 OpanAI 的翻譯器。
+ * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新 LLM 相關的論文，歡迎訂閱 👏 喜歡的話動動你的小手 🌟 一個
 
 
 **Others**
- * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - 使用GPT-4 Vision API和Puppeteer进行网络爬虫
- * [inke](https://github.com/yesmore/inke) - 📖 一個具有AI輔助寫作和即時協作功能的所見即所得筆記本。支援自主託管。一個所見即所得的Markdown筆記本，支援AI輔助寫作和多人協作，支援自部署，使用IndexedDB存儲筆記。
- * [twitterbio](https://github.com/nutlope/twitterbio) - 使用Mixtral和GPT-3.5生成您的Twitter簡介。
+ * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct是一個針對一般網頁代理人的系統，能夠自主地在任何給定的網站上執行任務，尤其關注於大型多模態模型（LMMs），如GPT-4V(ision)。
 
 
-_Updated on January 21, 2024_ (A total of 1371 repositories listed.)
+_Updated on January 24, 2024_ (A total of 1377 repositories listed.)
 
 ## Table of contents
 
@@ -107,6 +102,7 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - 1. chatGPT註冊 2. chatGPT成品項目整理 3. 高效使用chatGPT的小技巧 4. 調教指南 ↓演示網站
  * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - LLM 引擎代理的精彩之处。论文/代码库/博客/...
  * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - 一個精心挑選的GPT商店中的精彩GPT清單
+ * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 收集實用的AI存儲庫、工具、網站、論文和教程。實用的AI百寶箱 💎
 
 
 ## Prompts
@@ -213,6 +209,7 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [knowledge](https://github.com/knowledgecanvas/knowledge) - 知識是一個工具，可以保存、搜索、訪問、探索和與您所有喜愛的網站、文件和文件進行聊天。
  * [promptfoo](https://github.com/promptfoo/promptfoo) - 測試您的提示、模型和RAGs。評估並比較LLM的輸出，捕捉回歸並改善提示的質量。對於OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama以及Mistral/Mixtral/Llama等本地和私有模型進行LLM評估，並使用CI/CD進行比較。
  * [swarms](https://github.com/kyegomez/swarms) - 建立、部署和擴展可靠的自主代理群，用於工作流自動化。加入我們的社群：https://discord.gg/DbjBMJTSWD
+ * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 這裡是 GPTStore 的前100個提示，我們可以用來學習和改進提示工程。
 
 
 ## Chatbots
@@ -902,6 +899,9 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [autopilot](https://github.com/fjrdomingues/autopilot) - Code Autopilot，一個使用GPT來讀取程式庫、建立上下文並解決任務的工具。
  * [openai-forward](https://github.com/kenyony/openai-forward) - 🚀 大型語言模型高效轉發服務 · 專為LLM設計的高效轉發服務 · OpenAI API反向代理
  * [FasterTransformer](https://github.com/nvidia/fastertransformer) - 與Transformer相關的優化，包括BERT、GPT
+ * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: 讓ChatGPT為您總結Hacker News
+ * [openai-translator](https://github.com/lancemoe/openai-translator) - 一個使用 OpanAI 的翻譯器。
+ * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新 LLM 相關的論文，歡迎訂閱 👏 喜歡的話動動你的小手 🌟 一個
 
 
 ## Langchain
@@ -1483,5 +1483,6 @@ _Updated on January 21, 2024_ (A total of 1371 repositories listed.)
  * [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - 使用GPT-4 Vision API和Puppeteer进行网络爬虫
  * [inke](https://github.com/yesmore/inke) - 📖 一個具有AI輔助寫作和即時協作功能的所見即所得筆記本。支援自主託管。一個所見即所得的Markdown筆記本，支援AI輔助寫作和多人協作，支援自部署，使用IndexedDB存儲筆記。
  * [twitterbio](https://github.com/nutlope/twitterbio) - 使用Mixtral和GPT-3.5生成您的Twitter簡介。
+ * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct是一個針對一般網頁代理人的系統，能夠自主地在任何給定的網站上執行任務，尤其關注於大型多模態模型（LMMs），如GPT-4V(ision)。
 
 
