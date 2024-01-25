@@ -15,24 +15,34 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
+ * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - Collection of papers and resources on Reasoning in Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and Multimodality.
 
 
 **Prompts**
- * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
+ * [aigc](https://github.com/phodal/aigc) - "Building Applications with Large Language Models: Application Development and Architecture Design" is an open-source e-book about the real-world applications of Large Language Models (LLM). It introduces the fundamental knowledge and applications of large language models, as well as how to build your own model. This includes writing, developing, and managing prompts, exploring the benefits of the best large language models, and the patterns and architecture design for LLM application development.
+ * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose it's a Go framework for developing LLMs-based application using pipelines
+
+
+**Chatbots**
+ * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT and Claude2.1 using Python on Zeabur, fly.io and Replit.
+ * [bidara](https://github.com/nasa-petal/bidara) - BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies using the Biomimicry Institute's step-by-step design process.
+
+
+**Browser-extensions**
+ * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 An open-source Chrome extension that can convert web pages into a reading mode, and also includes built-in AI summarization, translation, Markdown conversion, and other functions.
+ * [writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 
 
 **NLP**
- * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: Let ChatGPT Summarize Hacker News for You
- * [openai-translator](https://github.com/lancemoe/openai-translator) - A translator that uses OpanAI.
- * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个
+ * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI (demos, documentation, accelerators).
 
 
 **Others**
- * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).
+ * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
+ * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT Proxy
 
 
-_Updated on January 24, 2024_ (A total of 1377 repositories listed.)
+_Updated on January 26, 2024_ (A total of 1387 repositories listed.)
 
 ## Table of contents
 
@@ -103,6 +113,7 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - Awesome things about LLM-powered agents. Papers / Repos / Blogs / ...
  * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
  * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
+ * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - Collection of papers and resources on Reasoning in Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and Multimodality.
 
 
 ## Prompts
@@ -210,6 +221,8 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. LLM evals for OpenAI/Azure GPT, Anthropic Claude, VertexAI Gemini, Ollama, Local & private models like Mistral/Mixtral/Llama with CI/CD
  * [swarms](https://github.com/kyegomez/swarms) - Build, Deploy, and Scale Reliable Swarms of Autonomous Agents for Workflow Automation. Join our Community: https://discord.gg/DbjBMJTSWD
  * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.
+ * [aigc](https://github.com/phodal/aigc) - "Building Applications with Large Language Models: Application Development and Architecture Design" is an open-source e-book about the real-world applications of Large Language Models (LLM). It introduces the fundamental knowledge and applications of large language models, as well as how to build your own model. This includes writing, developing, and managing prompts, exploring the benefits of the best large language models, and the patterns and architecture design for LLM application development.
+ * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose it's a Go framework for developing LLMs-based application using pipelines
 
 
 ## Chatbots
@@ -393,6 +406,8 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖A WeChat robot based on OpenAI ChatGPT and WeChaty, which can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc.
  * [ChatFred](https://github.com/chrislemke/chatfred) - Alfred workflow using ChatGPT, DALL·E 2 and other models for chatting, image generation and more.
  * [catai](https://github.com/withcatai/catai) - UI for 🦙model . Run AI assistant locally ✨
+ * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT and Claude2.1 using Python on Zeabur, fly.io and Replit.
+ * [bidara](https://github.com/nasa-petal/bidara) - BIDARA is a GPT-4 chatbot that was instructed to help scientists and engineers understand, learn from, and emulate the strategies used by living things to create sustainable designs and technologies using the Biomimicry Institute's step-by-step design process.
 
 
 ## Browser-extensions
@@ -546,6 +561,8 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - ChatGPT plugin for Yunzai QQ robot
  * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
  * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free
+ * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 An open-source Chrome extension that can convert web pages into a reading mode, and also includes built-in AI summarization, translation, Markdown conversion, and other functions.
+ * [writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
 
 
 ## CLIs
@@ -902,6 +919,7 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: Let ChatGPT Summarize Hacker News for You
  * [openai-translator](https://github.com/lancemoe/openai-translator) - A translator that uses OpanAI.
  * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个
+ * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI (demos, documentation, accelerators).
 
 
 ## Langchain
@@ -1484,5 +1502,7 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [inke](https://github.com/yesmore/inke) - 📖 A WYSIWYG notebook with AI assisted writing and real-time collaboration. Support self hosting.  一个所见即所得的Markdown笔记本，支持AI辅助写作和多人协作，支持自部署，使用IndexedDB存储笔记。
  * [twitterbio](https://github.com/nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
  * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).
+ * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - A set of AI tools that will help you explore the infinite possibilities of AI.
+ * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT Proxy
 
 
