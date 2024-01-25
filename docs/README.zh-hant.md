@@ -15,24 +15,34 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 收集實用的AI存儲庫、工具、網站、論文和教程。實用的AI百寶箱 💎
+ * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - 關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。
 
 
 **Prompts**
- * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 這裡是 GPTStore 的前100個提示，我們可以用來學習和改進提示工程。
+ * [aigc](https://github.com/phodal/aigc) - 《構築大語言模型應用：應用開發與架構設計》一本關於 LLM 在真實世界應用的開源電子書，介紹了大語言模型的基礎知識和應用，以及如何構建自己的模型。其中包括Prompt的編寫、開發和管理，探索最好的大語言模型能帶來什麼，以及LLM應用開發的模式和架構設計。
+ * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose 是一個使用管道開發基於 LLMs 的應用程式的 Go 框架。
+
+
+**Chatbots**
+ * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ 一個AI聊天Telegram機器人可以使用Python在Zeabur、fly.io和Replit上由GPT和Claude2.1提供動力進行網絡搜索。
+ * [bidara](https://github.com/nasa-petal/bidara) - BIDARA是一個GPT-4聊天機器人，被指示幫助科學家和工程師理解、學習並模仿生物利用生物模仿學研究所的逐步設計過程來創造可持續的設計和技術所使用的策略。
+
+
+**Browser-extensions**
+ * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 一個開源的 Chrome 插件，可以將網頁轉成閱讀模式，並且內置了 AI 總結、翻譯、Markdown 轉換等功能。
+ * [writely](https://github.com/anc95/writely) - ❤️‍🔥 一個超越 Notion AI 的替代品的 Chrome 擴充功能。
 
 
 **NLP**
- * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: 讓ChatGPT為您總結Hacker News
- * [openai-translator](https://github.com/lancemoe/openai-translator) - 一個使用 OpanAI 的翻譯器。
- * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新 LLM 相關的論文，歡迎訂閱 👏 喜歡的話動動你的小手 🌟 一個
+ * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI（演示、文件、加速器）。Azure 開放式人工智慧（演示、文件、加速器）。
 
 
 **Others**
- * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct是一個針對一般網頁代理人的系統，能夠自主地在任何給定的網站上執行任務，尤其關注於大型多模態模型（LMMs），如GPT-4V(ision)。
+ * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - 一套AI工具，將幫助您探索人工智慧的無限可能性。
+ * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT 代理
 
 
-_Updated on January 24, 2024_ (A total of 1377 repositories listed.)
+_Updated on January 26, 2024_ (A total of 1387 repositories listed.)
 
 ## Table of contents
 
@@ -103,6 +113,7 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - LLM 引擎代理的精彩之处。论文/代码库/博客/...
  * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - 一個精心挑選的GPT商店中的精彩GPT清單
  * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 收集實用的AI存儲庫、工具、網站、論文和教程。實用的AI百寶箱 💎
+ * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - 關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。
 
 
 ## Prompts
@@ -210,6 +221,8 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [promptfoo](https://github.com/promptfoo/promptfoo) - 測試您的提示、模型和RAGs。評估並比較LLM的輸出，捕捉回歸並改善提示的質量。對於OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama以及Mistral/Mixtral/Llama等本地和私有模型進行LLM評估，並使用CI/CD進行比較。
  * [swarms](https://github.com/kyegomez/swarms) - 建立、部署和擴展可靠的自主代理群，用於工作流自動化。加入我們的社群：https://discord.gg/DbjBMJTSWD
  * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 這裡是 GPTStore 的前100個提示，我們可以用來學習和改進提示工程。
+ * [aigc](https://github.com/phodal/aigc) - 《構築大語言模型應用：應用開發與架構設計》一本關於 LLM 在真實世界應用的開源電子書，介紹了大語言模型的基礎知識和應用，以及如何構建自己的模型。其中包括Prompt的編寫、開發和管理，探索最好的大語言模型能帶來什麼，以及LLM應用開發的模式和架構設計。
+ * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose 是一個使用管道開發基於 LLMs 的應用程式的 Go 框架。
 
 
 ## Chatbots
@@ -393,6 +406,8 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [wechat-bot](https://github.com/wangrongding/wechat-bot) - 🤖一個基於OpenAi ChatGPT + WeChaty 實現的微信機器人，可以用來幫助你自動回覆微信訊息，或者管理微信群/好友，檢測僵屍粉等...
  * [ChatFred](https://github.com/chrislemke/chatfred) - 使用ChatGPT、DALL·E 2和其他模型的Alfred工作流程，用於聊天、圖像生成等功能。
  * [catai](https://github.com/withcatai/catai) - 使用者介面 (UI) 供🦙模型使用。在本地運行 AI 助手 ✨
+ * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ 一個AI聊天Telegram機器人可以使用Python在Zeabur、fly.io和Replit上由GPT和Claude2.1提供動力進行網絡搜索。
+ * [bidara](https://github.com/nasa-petal/bidara) - BIDARA是一個GPT-4聊天機器人，被指示幫助科學家和工程師理解、學習並模仿生物利用生物模仿學研究所的逐步設計過程來創造可持續的設計和技術所使用的策略。
 
 
 ## Browser-extensions
@@ -546,6 +561,8 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - 雲崽qq機器人的chatgpt插件
  * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome 擴充功能，可在 Google 搜尋結果和 YouTube 影片旁邊查看 ChatGPT 摘要，同時也支援 Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、Bing、Google 專利，以及任何頁面的摘要。
  * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。
+ * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 一個開源的 Chrome 插件，可以將網頁轉成閱讀模式，並且內置了 AI 總結、翻譯、Markdown 轉換等功能。
+ * [writely](https://github.com/anc95/writely) - ❤️‍🔥 一個超越 Notion AI 的替代品的 Chrome 擴充功能。
 
 
 ## CLIs
@@ -902,6 +919,7 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - :newspaper: 讓ChatGPT為您總結Hacker News
  * [openai-translator](https://github.com/lancemoe/openai-translator) - 一個使用 OpanAI 的翻譯器。
  * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新 LLM 相關的論文，歡迎訂閱 👏 喜歡的話動動你的小手 🌟 一個
+ * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI（演示、文件、加速器）。Azure 開放式人工智慧（演示、文件、加速器）。
 
 
 ## Langchain
@@ -1484,5 +1502,7 @@ _Updated on January 24, 2024_ (A total of 1377 repositories listed.)
  * [inke](https://github.com/yesmore/inke) - 📖 一個具有AI輔助寫作和即時協作功能的所見即所得筆記本。支援自主託管。一個所見即所得的Markdown筆記本，支援AI輔助寫作和多人協作，支援自部署，使用IndexedDB存儲筆記。
  * [twitterbio](https://github.com/nutlope/twitterbio) - 使用Mixtral和GPT-3.5生成您的Twitter簡介。
  * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct是一個針對一般網頁代理人的系統，能夠自主地在任何給定的網站上執行任務，尤其關注於大型多模態模型（LMMs），如GPT-4V(ision)。
+ * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - 一套AI工具，將幫助您探索人工智慧的無限可能性。
+ * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT 代理
 
 
