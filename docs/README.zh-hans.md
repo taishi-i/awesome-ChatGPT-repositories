@@ -15,34 +15,30 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - 论文和资源的收集，关于语言模型（LLMs）中的推理，包括思维链（CoT），指导调整和多模态。
-
-
-**Prompts**
- * [aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》是一本关于LLM在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
- * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose 是一个使用管道开发基于LLMs的应用程序的Go框架
+ * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀一些关于大型语言模型、视觉基础模型和人工智能生成内容的精彩公共项目的集合。
 
 
 **Chatbots**
- * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ 一个AI聊天Telegram机器人可以使用Python在Zeabur、fly.io和Replit上通过GPT和Claude2.1进行网络搜索。
- * [bidara](https://github.com/nasa-petal/bidara) - BIDARA是一个GPT-4聊天机器人，被指示帮助科学家和工程师理解、学习并模仿生物利用仿生学研究所的逐步设计过程来创造可持续设计和技术的策略。
+ * [sagittarius](https://github.com/gregsadetsky/sagittarius) - 一个GPT-4/Gemini语音/视频探索工具
+ * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - 这个仓库包含两个Python脚本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake创建一个聊天机器人。
+ * [pandas-ai](https://github.com/gventuri/pandas-ai) - 使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
 
 
 **Browser-extensions**
- * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
- * [writely](https://github.com/anc95/writely) - ❤️‍🔥 一个超越 Notion AI 的替代品的 Chrome 浏览器插件。
+ * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 合作开发者GPT引擎：为开发者创建ChatGPT插件，允许读取/搜索/写入文件，执行（构建）操作。
+ * [neoai.nvim](https://github.com/bryley/neoai.nvim) - 与OpenAI的GPT模型交互的Neovim插件输出：Neovim插件，用于与OpenAI的GPT模型交互
 
 
 **NLP**
- * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure 开放 AI（演示、文档、加速器）。
+ * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb可以爬取网页、阅读PDF、DOCX、TXT，并提取主要内容，然后根据内容回答您的问题，或总结关键要点。
 
 
 **Others**
- * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - 一套人工智能工具，将帮助您探索人工智能的无限可能性。
- * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT代理
+ * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
+ * [composum-AI](https://github.com/ist-dresden/composum-ai) - 为Composum Pages CMS和Adobe AEM提供人工智能服务
 
 
-_Updated on January 26, 2024_ (A total of 1387 repositories listed.)
+_Updated on January 31, 2024_ (A total of 1396 repositories listed.)
 
 ## Table of contents
 
@@ -114,6 +110,7 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - 一个精选的GPT商店中的精彩GPT清单
  * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 收集实用的AI仓库、工具、网站、论文和教程。实用的AI百宝箱 💎
  * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - 论文和资源的收集，关于语言模型（LLMs）中的推理，包括思维链（CoT），指导调整和多模态。
+ * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀一些关于大型语言模型、视觉基础模型和人工智能生成内容的精彩公共项目的集合。
 
 
 ## Prompts
@@ -408,6 +405,9 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [catai](https://github.com/withcatai/catai) - 🦙模型的用户界面。本地运行AI助手✨
  * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ 一个AI聊天Telegram机器人可以使用Python在Zeabur、fly.io和Replit上通过GPT和Claude2.1进行网络搜索。
  * [bidara](https://github.com/nasa-petal/bidara) - BIDARA是一个GPT-4聊天机器人，被指示帮助科学家和工程师理解、学习并模仿生物利用仿生学研究所的逐步设计过程来创造可持续设计和技术的策略。
+ * [sagittarius](https://github.com/gregsadetsky/sagittarius) - 一个GPT-4/Gemini语音/视频探索工具
+ * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - 这个仓库包含两个Python脚本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake创建一个聊天机器人。
+ * [pandas-ai](https://github.com/gventuri/pandas-ai) - 使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
 
 
 ## Browser-extensions
@@ -563,6 +563,8 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。输出：JetBrains扩展程序提供免费访问最先进的LLM，如GPT-4、Code Llama等等。
  * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
  * [writely](https://github.com/anc95/writely) - ❤️‍🔥 一个超越 Notion AI 的替代品的 Chrome 浏览器插件。
+ * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 合作开发者GPT引擎：为开发者创建ChatGPT插件，允许读取/搜索/写入文件，执行（构建）操作。
+ * [neoai.nvim](https://github.com/bryley/neoai.nvim) - 与OpenAI的GPT模型交互的Neovim插件输出：Neovim插件，用于与OpenAI的GPT模型交互
 
 
 ## CLIs
@@ -920,6 +922,7 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [openai-translator](https://github.com/lancemoe/openai-translator) - 一个使用OpenAI的翻译器。
  * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新的LLM论文。欢迎订阅👏如果你喜欢，请动动你的小手🌟一个。
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure 开放 AI（演示、文档、加速器）。
+ * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb可以爬取网页、阅读PDF、DOCX、TXT，并提取主要内容，然后根据内容回答您的问题，或总结关键要点。
 
 
 ## Langchain
@@ -1504,5 +1507,7 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct是一个用于通用网络代理的系统，可以在任何给定的网站上自主执行任务，重点是大型多模态模型（LMMs），如GPT-4V(ision)。
  * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - 一套人工智能工具，将帮助您探索人工智能的无限可能性。
  * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT代理
+ * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
+ * [composum-AI](https://github.com/ist-dresden/composum-ai) - 为Composum Pages CMS和Adobe AEM提供人工智能服务
 
 
