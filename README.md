@@ -563,7 +563,6 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free
  * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 一个开源的 Chrome 插件，可以将网页转成阅读模式，并且内置了 AI 总结、翻译、Markdown 转换等功能。
  * [writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
- * [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - provides local r/w file access from ChatGPT chat as GPT actions or ChatGPT plugin, incl. execution of configured actions on your own machine.
 
 
 ## CLIs
@@ -1160,6 +1159,8 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI generate code
  * [BestGPTs](https://github.com/agentops-ai/bestgpts) - Top ranked OpenAI GPTs
+ * [Co-Developer GPT engine](https://github.com/stoerr/CoDeveloperGPTengine) - provides local r/w file access from ChatGPT chat as GPT actions or ChatGPT plugin, incl. execution of configured actions on your own machine.
+ * [Composum AI](https://github.com/ist-dresden/composum-AI) OpenAI based GenAI extension for the CMS Adobe Experience Manager (AEM) or the free Composum Pages CMS to analyze, discuss, suggest, translate, transform texts, incl. free prompting
 
 
 ## Others
