@@ -1322,6 +1322,41 @@
                     "zh-hans": "论文和资源的收集，关于语言模型（LLMs）中的推理，包括思维链（CoT），指导调整和多模态。",
                     "zh-hant": "關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。"
                 }
+            },
+            "https://github.com/codingonion/awesome-llm-and-aigc": {
+                "repository_name": "awesome-llm-and-aigc",
+                "user_name": "codingonion",
+                "language": null,
+                "license": null,
+                "description": "🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.",
+                "topics": [
+                    "ai-avatar",
+                    "aigc",
+                    "awesome-list",
+                    "chatglm",
+                    "chatgpt",
+                    "computer-vision",
+                    "gpt",
+                    "gpt4",
+                    "hugging-face",
+                    "langchain",
+                    "large-language-models",
+                    "llama",
+                    "llama2",
+                    "llm",
+                    "machine-learning",
+                    "midjourney",
+                    "moss",
+                    "nlp",
+                    "segment-anything",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.",
+                    "ja": "🚀🚀🚀大規模言語モデル、ビジョン基盤モデル、AI生成コンテンツに関する素晴らしいパブリックプロジェクトのコレクションです。",
+                    "zh-hans": "🚀🚀🚀一些关于大型语言模型、视觉基础模型和人工智能生成内容的精彩公共项目的集合。",
+                    "zh-hant": "🚀🚀🚀一系列關於大型語言模型、視覺基礎模型和人工智能生成內容的精彩公共項目的集合。"
+                }
             }
         },
         "Prompts": {
@@ -7884,6 +7919,59 @@
                     "zh-hans": "BIDARA是一个GPT-4聊天机器人，被指示帮助科学家和工程师理解、学习并模仿生物利用仿生学研究所的逐步设计过程来创造可持续设计和技术的策略。",
                     "zh-hant": "BIDARA是一個GPT-4聊天機器人，被指示幫助科學家和工程師理解、學習並模仿生物利用生物模仿學研究所的逐步設計過程來創造可持續的設計和技術所使用的策略。"
                 }
+            },
+            "https://github.com/gregsadetsky/sagittarius": {
+                "repository_name": "sagittarius",
+                "user_name": "gregsadetsky",
+                "language": "TypeScript",
+                "license": null,
+                "description": "A GPT-4/Gemini Voice/Video Exploration Tool",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Un outil d'exploration vocale/vidéo GPT-4/Gemini.",
+                    "ja": "GPT-4/Geminiの音声/ビデオ探索ツール",
+                    "zh-hans": "一个GPT-4/Gemini语音/视频探索工具",
+                    "zh-hant": "一個GPT-4/Gemini語音/視頻探索工具"
+                }
+            },
+            "https://github.com/peterw/chat-with-github-repo": {
+                "repository_name": "Chat-with-Github-Repo",
+                "user_name": "peterw",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.",
+                    "ja": "このリポジトリには、Streamlit、OpenAI GPT-3.5-turbo、およびActiveloopのDeep Lakeを使用してチャットボットを作成する方法を示す2つのPythonスクリプトが含まれています。",
+                    "zh-hans": "这个仓库包含两个Python脚本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake创建一个聊天机器人。",
+                    "zh-hant": "這個存儲庫包含兩個Python腳本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake創建一個聊天機器人。"
+                }
+            },
+            "https://github.com/gventuri/pandas-ai": {
+                "repository_name": "pandas-ai",
+                "user_name": "gventuri",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",
+                "topics": [
+                    "ai",
+                    "csv",
+                    "data",
+                    "data-analysis",
+                    "data-science",
+                    "gpt-3",
+                    "gpt-4",
+                    "llm",
+                    "pandas",
+                    "sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",
+                    "ja": "データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。",
+                    "zh-hans": "使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。",
+                    "zh-hant": "與您的數據進行對話（SQL、CSV、pandas、polars、noSQL等）。PandasAI使用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。"
+                }
             }
         },
         "Browser-extensions": {
@@ -11221,6 +11309,51 @@
                     "ja": "❤️‍🔥 Notion AI を超える選択肢としての Chrome 拡張機能。 | Notion AI に限らず、さらに進化した浏览器拡張機能。",
                     "zh-hans": "❤️‍🔥 一个超越 Notion AI 的替代品的 Chrome 浏览器插件。",
                     "zh-hant": "❤️‍🔥 一個超越 Notion AI 的替代品的 Chrome 擴充功能。"
+                }
+            },
+            "https://github.com/stoerr/codevelopergptengine": {
+                "repository_name": "CoDeveloperGPTengine",
+                "user_name": "stoerr",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "Co-Developer GPT Engine: creating ChatGPT plugins for developers that allow reading / searching / writing files, executing (build) actions",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "chatgpt-plugin",
+                    "development",
+                    "gpt",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Co-Developer GPT Engine: creating ChatGPT plugins for developers that allow reading / searching / writing files, executing (build) actions",
+                    "ja": "共同開発者GPTエンジン：開発者向けのChatGPTプラグインを作成し、ファイルの読み取り/検索/書き込み、実行（ビルド）アクションを可能にします。",
+                    "zh-hans": "合作开发者GPT引擎：为开发者创建ChatGPT插件，允许读取/搜索/写入文件，执行（构建）操作。",
+                    "zh-hant": "共同開發者GPT引擎：為開發者創建ChatGPT插件，允許讀取/搜索/寫入文件，執行（構建）操作"
+                }
+            },
+            "https://github.com/bryley/neoai.nvim": {
+                "repository_name": "neoai.nvim",
+                "user_name": "Bryley",
+                "language": "Lua",
+                "license": "MIT License",
+                "description": "Neovim plugin for intracting with GPT models from OpenAI",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "gpt-4",
+                    "gpt3-turbo",
+                    "neovim",
+                    "neovim-plugin",
+                    "nvim",
+                    "nvim-plugin",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Neovim plugin for intracting with GPT models from OpenAI",
+                    "ja": "OpenAIのGPTモデルとのやり取りを行うためのNeovimプラグイン",
+                    "zh-hans": "与OpenAI的GPT模型交互的Neovim插件输出：Neovim插件，用于与OpenAI的GPT模型交互",
+                    "zh-hant": "Neovim 插件，用於與 OpenAI 的 GPT 模型進行互動。"
                 }
             }
         },
@@ -18578,6 +18711,36 @@
                     "ja": "Azure Open AI（デモ、ドキュメンテーション、アクセラレータ）。",
                     "zh-hans": "Azure 开放 AI（演示、文档、加速器）。",
                     "zh-hant": "Azure Open AI（演示、文件、加速器）。Azure 開放式人工智慧（演示、文件、加速器）。"
+                }
+            },
+            "https://github.com/skywalkerdarren/chatweb": {
+                "repository_name": "chatWeb",
+                "user_name": "SkywalkerDarren",
+                "language": "Python",
+                "license": null,
+                "description": "ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "crawler",
+                    "docx",
+                    "embedding",
+                    "faiss",
+                    "gpt",
+                    "gpt-35-turbo",
+                    "news-extractor",
+                    "newspaper",
+                    "openai",
+                    "pdf",
+                    "pgvector",
+                    "postgresql",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.",
+                    "ja": "ChatWebはウェブページをクロールし、PDF、DOCX、TXTを読み取り、主要なコンテンツを抽出し、その内容に基づいて質問に答えたり、キーポイントを要約したりすることができます。",
+                    "zh-hans": "ChatWeb可以爬取网页、阅读PDF、DOCX、TXT，并提取主要内容，然后根据内容回答您的问题，或总结关键要点。",
+                    "zh-hant": "ChatWeb可以爬取網頁、讀取PDF、DOCX、TXT文件，並提取主要內容，然後根據內容回答您的問題，或者總結關鍵要點。"
                 }
             }
         },
@@ -30072,6 +30235,45 @@
                     "ja": "ChatGPTプロキシ",
                     "zh-hans": "ChatGPT代理",
                     "zh-hant": "ChatGPT 代理"
+                }
+            },
+            "https://github.com/bravekingzhang/flutter_chat_box": {
+                "repository_name": "flutter_chat_box",
+                "user_name": "bravekingzhang",
+                "language": "Dart",
+                "license": "Other",
+                "description": "Flutter开发的和ChatGPT聊天的App，全平台支持",
+                "topics": [
+                    "chatgpt",
+                    "flutter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "App developed with Flutter for chatting with ChatGPT, supports all platforms.",
+                    "ja": "Flutterで開発されたChatGPTとのチャットアプリ、全プラットフォーム対応",
+                    "zh-hans": "Flutter开发的和ChatGPT聊天的App，全平台支持",
+                    "zh-hant": "Flutter開發的和ChatGPT聊天的App，全平台支援"
+                }
+            },
+            "https://github.com/ist-dresden/composum-ai": {
+                "repository_name": "composum-AI",
+                "user_name": "ist-dresden",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "Artificial intelligence services for the Composum Pages CMS and Adobe AEM",
+                "topics": [
+                    "ai",
+                    "apache-sling-cms",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "cms",
+                    "cms-framework",
+                    "composum"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Artificial intelligence services for the Composum Pages CMS and Adobe AEM",
+                    "ja": "コンポジウムページCMSとAdobe AEMのための人工知能サービス",
+                    "zh-hans": "为Composum Pages CMS和Adobe AEM提供人工智能服务",
+                    "zh-hant": "為Composum Pages CMS和Adobe AEM提供的人工智能服務"
                 }
             }
         }

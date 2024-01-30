@@ -15,34 +15,30 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - 關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。
-
-
-**Prompts**
- * [aigc](https://github.com/phodal/aigc) - 《構築大語言模型應用：應用開發與架構設計》一本關於 LLM 在真實世界應用的開源電子書，介紹了大語言模型的基礎知識和應用，以及如何構建自己的模型。其中包括Prompt的編寫、開發和管理，探索最好的大語言模型能帶來什麼，以及LLM應用開發的模式和架構設計。
- * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose 是一個使用管道開發基於 LLMs 的應用程式的 Go 框架。
+ * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀一系列關於大型語言模型、視覺基礎模型和人工智能生成內容的精彩公共項目的集合。
 
 
 **Chatbots**
- * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ 一個AI聊天Telegram機器人可以使用Python在Zeabur、fly.io和Replit上由GPT和Claude2.1提供動力進行網絡搜索。
- * [bidara](https://github.com/nasa-petal/bidara) - BIDARA是一個GPT-4聊天機器人，被指示幫助科學家和工程師理解、學習並模仿生物利用生物模仿學研究所的逐步設計過程來創造可持續的設計和技術所使用的策略。
+ * [sagittarius](https://github.com/gregsadetsky/sagittarius) - 一個GPT-4/Gemini語音/視頻探索工具
+ * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - 這個存儲庫包含兩個Python腳本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake創建一個聊天機器人。
+ * [pandas-ai](https://github.com/gventuri/pandas-ai) - 與您的數據進行對話（SQL、CSV、pandas、polars、noSQL等）。PandasAI使用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。
 
 
 **Browser-extensions**
- * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 一個開源的 Chrome 插件，可以將網頁轉成閱讀模式，並且內置了 AI 總結、翻譯、Markdown 轉換等功能。
- * [writely](https://github.com/anc95/writely) - ❤️‍🔥 一個超越 Notion AI 的替代品的 Chrome 擴充功能。
+ * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 共同開發者GPT引擎：為開發者創建ChatGPT插件，允許讀取/搜索/寫入文件，執行（構建）操作
+ * [neoai.nvim](https://github.com/bryley/neoai.nvim) - Neovim 插件，用於與 OpenAI 的 GPT 模型進行互動。
 
 
 **NLP**
- * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI（演示、文件、加速器）。Azure 開放式人工智慧（演示、文件、加速器）。
+ * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb可以爬取網頁、讀取PDF、DOCX、TXT文件，並提取主要內容，然後根據內容回答您的問題，或者總結關鍵要點。
 
 
 **Others**
- * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - 一套AI工具，將幫助您探索人工智慧的無限可能性。
- * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT 代理
+ * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter開發的和ChatGPT聊天的App，全平台支援
+ * [composum-AI](https://github.com/ist-dresden/composum-ai) - 為Composum Pages CMS和Adobe AEM提供的人工智能服務
 
 
-_Updated on January 26, 2024_ (A total of 1387 repositories listed.)
+_Updated on January 31, 2024_ (A total of 1396 repositories listed.)
 
 ## Table of contents
 
@@ -114,6 +110,7 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - 一個精心挑選的GPT商店中的精彩GPT清單
  * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 收集實用的AI存儲庫、工具、網站、論文和教程。實用的AI百寶箱 💎
  * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - 關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。
+ * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀一系列關於大型語言模型、視覺基礎模型和人工智能生成內容的精彩公共項目的集合。
 
 
 ## Prompts
@@ -408,6 +405,9 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [catai](https://github.com/withcatai/catai) - 使用者介面 (UI) 供🦙模型使用。在本地運行 AI 助手 ✨
  * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ 一個AI聊天Telegram機器人可以使用Python在Zeabur、fly.io和Replit上由GPT和Claude2.1提供動力進行網絡搜索。
  * [bidara](https://github.com/nasa-petal/bidara) - BIDARA是一個GPT-4聊天機器人，被指示幫助科學家和工程師理解、學習並模仿生物利用生物模仿學研究所的逐步設計過程來創造可持續的設計和技術所使用的策略。
+ * [sagittarius](https://github.com/gregsadetsky/sagittarius) - 一個GPT-4/Gemini語音/視頻探索工具
+ * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - 這個存儲庫包含兩個Python腳本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake創建一個聊天機器人。
+ * [pandas-ai](https://github.com/gventuri/pandas-ai) - 與您的數據進行對話（SQL、CSV、pandas、polars、noSQL等）。PandasAI使用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。
 
 
 ## Browser-extensions
@@ -563,6 +563,8 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。JetBrains擴展提供免費使用最先進的LLM，如GPT-4、Code Llama等等。
  * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 一個開源的 Chrome 插件，可以將網頁轉成閱讀模式，並且內置了 AI 總結、翻譯、Markdown 轉換等功能。
  * [writely](https://github.com/anc95/writely) - ❤️‍🔥 一個超越 Notion AI 的替代品的 Chrome 擴充功能。
+ * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 共同開發者GPT引擎：為開發者創建ChatGPT插件，允許讀取/搜索/寫入文件，執行（構建）操作
+ * [neoai.nvim](https://github.com/bryley/neoai.nvim) - Neovim 插件，用於與 OpenAI 的 GPT 模型進行互動。
 
 
 ## CLIs
@@ -920,6 +922,7 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [openai-translator](https://github.com/lancemoe/openai-translator) - 一個使用 OpanAI 的翻譯器。
  * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新 LLM 相關的論文，歡迎訂閱 👏 喜歡的話動動你的小手 🌟 一個
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI（演示、文件、加速器）。Azure 開放式人工智慧（演示、文件、加速器）。
+ * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb可以爬取網頁、讀取PDF、DOCX、TXT文件，並提取主要內容，然後根據內容回答您的問題，或者總結關鍵要點。
 
 
 ## Langchain
@@ -1504,5 +1507,7 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeAct是一個針對一般網頁代理人的系統，能夠自主地在任何給定的網站上執行任務，尤其關注於大型多模態模型（LMMs），如GPT-4V(ision)。
  * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - 一套AI工具，將幫助您探索人工智慧的無限可能性。
  * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT 代理
+ * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter開發的和ChatGPT聊天的App，全平台支援
+ * [composum-AI](https://github.com/ist-dresden/composum-ai) - 為Composum Pages CMS和Adobe AEM提供的人工智能服務
 
 

@@ -15,34 +15,30 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - チェーンオブソート（CoT）、インストラクションチューニング、およびマルチモダリティを含む、言語モデル（LLM）に関する論文とリソースのコレクション。チェーンオブソート（CoT）、インストラクションチューニング、およびマルチモダリティに関する論文とリソースのコレクション。
-
-
-**Prompts**
- * [aigc](https://github.com/phodal/aigc) - 「《構築大言語モデルの応用：アプリケーション開発とアーキテクチャ設計》は、LLMの実世界での応用について紹介したオープンソースの電子書籍であり、大言語モデルの基礎知識や応用、そして自分自身のモデルを構築する方法について説明しています。その中には、Promptの作成、開発、管理、最高の大言語モデルがもたらす可能性の探求、そしてLLMアプリケーション開発のパターンとアーキテクチャ設計が含まれています。」
- * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGooseは、パイプラインを使用してLLMsベースのアプリケーションを開発するためのGoフレームワークです。
+ * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル、ビジョン基盤モデル、AI生成コンテンツに関する素晴らしいパブリックプロジェクトのコレクションです。
 
 
 **Chatbots**
- * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ AIチャットTelegramボットは、Zeabur、fly.io、およびReplitでPythonを使用してGPTとClaude2.1によるWeb検索を行うことができます。
- * [bidara](https://github.com/nasa-petal/bidara) - BIDARAは、生物模倣学研究所の段階的な設計プロセスを使用して、持続可能なデザインと技術を作成するために生物が使用する戦略を科学者やエンジニアが理解し、学び、模倣するのを支援するように指示されたGPT-4チャットボットです。
+ * [sagittarius](https://github.com/gregsadetsky/sagittarius) - GPT-4/Geminiの音声/ビデオ探索ツール
+ * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - このリポジトリには、Streamlit、OpenAI GPT-3.5-turbo、およびActiveloopのDeep Lakeを使用してチャットボットを作成する方法を示す2つのPythonスクリプトが含まれています。
+ * [pandas-ai](https://github.com/gventuri/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
 
 
 **Browser-extensions**
- * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 オープンソースのChrome拡張機能で、ウェブページを読みやすいモードに変換し、AIによる要約、翻訳、Markdown変換などの機能が組み込まれています。
- * [writely](https://github.com/anc95/writely) - ❤️‍🔥 Notion AI を超える選択肢としての Chrome 拡張機能。 | Notion AI に限らず、さらに進化した浏览器拡張機能。
+ * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 共同開発者GPTエンジン：開発者向けのChatGPTプラグインを作成し、ファイルの読み取り/検索/書き込み、実行（ビルド）アクションを可能にします。
+ * [neoai.nvim](https://github.com/bryley/neoai.nvim) - OpenAIのGPTモデルとのやり取りを行うためのNeovimプラグイン
 
 
 **NLP**
- * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI（デモ、ドキュメンテーション、アクセラレータ）。
+ * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWebはウェブページをクロールし、PDF、DOCX、TXTを読み取り、主要なコンテンツを抽出し、その内容に基づいて質問に答えたり、キーポイントを要約したりすることができます。
 
 
 **Others**
- * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - AIの無限の可能性を探求するのに役立つAIツールのセット。
- * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPTプロキシ
+ * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutterで開発されたChatGPTとのチャットアプリ、全プラットフォーム対応
+ * [composum-AI](https://github.com/ist-dresden/composum-ai) - コンポジウムページCMSとAdobe AEMのための人工知能サービス
 
 
-_Updated on January 26, 2024_ (A total of 1387 repositories listed.)
+_Updated on January 31, 2024_ (A total of 1396 repositories listed.)
 
 ## Table of contents
 
@@ -114,6 +110,7 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - GPTストアの素晴らしいGPTの厳選リスト
  * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 AIに関する実用的なリポジトリ、ツール、ウェブサイト、論文、チュートリアルを収集します。実用的なAIの宝箱 💎
  * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - チェーンオブソート（CoT）、インストラクションチューニング、およびマルチモダリティを含む、言語モデル（LLM）に関する論文とリソースのコレクション。チェーンオブソート（CoT）、インストラクションチューニング、およびマルチモダリティに関する論文とリソースのコレクション。
+ * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル、ビジョン基盤モデル、AI生成コンテンツに関する素晴らしいパブリックプロジェクトのコレクションです。
 
 
 ## Prompts
@@ -408,6 +405,9 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [catai](https://github.com/withcatai/catai) - 🦙モデルのためのUI。AIアシスタントをローカルで実行する✨
  * [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - 🤖️ AIチャットTelegramボットは、Zeabur、fly.io、およびReplitでPythonを使用してGPTとClaude2.1によるWeb検索を行うことができます。
  * [bidara](https://github.com/nasa-petal/bidara) - BIDARAは、生物模倣学研究所の段階的な設計プロセスを使用して、持続可能なデザインと技術を作成するために生物が使用する戦略を科学者やエンジニアが理解し、学び、模倣するのを支援するように指示されたGPT-4チャットボットです。
+ * [sagittarius](https://github.com/gregsadetsky/sagittarius) - GPT-4/Geminiの音声/ビデオ探索ツール
+ * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - このリポジトリには、Streamlit、OpenAI GPT-3.5-turbo、およびActiveloopのDeep Lakeを使用してチャットボットを作成する方法を示す2つのPythonスクリプトが含まれています。
+ * [pandas-ai](https://github.com/gventuri/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
 
 
 ## Browser-extensions
@@ -563,6 +563,8 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [CodeGPT](https://github.com/carlrobertoh/codegpt) - JetBrainsの拡張機能は、GPT-4、Code Llamaなどの最新のLLMに無料でアクセスできます。
  * [ReadSomething](https://github.com/readsomething/readsomething) - 📖 オープンソースのChrome拡張機能で、ウェブページを読みやすいモードに変換し、AIによる要約、翻訳、Markdown変換などの機能が組み込まれています。
  * [writely](https://github.com/anc95/writely) - ❤️‍🔥 Notion AI を超える選択肢としての Chrome 拡張機能。 | Notion AI に限らず、さらに進化した浏览器拡張機能。
+ * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 共同開発者GPTエンジン：開発者向けのChatGPTプラグインを作成し、ファイルの読み取り/検索/書き込み、実行（ビルド）アクションを可能にします。
+ * [neoai.nvim](https://github.com/bryley/neoai.nvim) - OpenAIのGPTモデルとのやり取りを行うためのNeovimプラグイン
 
 
 ## CLIs
@@ -920,6 +922,7 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [openai-translator](https://github.com/lancemoe/openai-translator) - OpanAIを使用する翻訳者。
  * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 毎日更新されるLLM関連の論文。購読を歓迎します👏 お気に入りの場合は、ぜひ購読してください🌟 一つ
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI（デモ、ドキュメンテーション、アクセラレータ）。
+ * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWebはウェブページをクロールし、PDF、DOCX、TXTを読み取り、主要なコンテンツを抽出し、その内容に基づいて質問に答えたり、キーポイントを要約したりすることができます。
 
 
 ## Langchain
@@ -1504,5 +1507,7 @@ _Updated on January 26, 2024_ (A total of 1387 repositories listed.)
  * [SeeAct](https://github.com/osu-nlp-group/seeact) - SeeActは、大規模なマルチモーダルモデル（LMM）であるGPT-4V(ision)を中心に、任意のウェブサイトで自律的にタスクを実行する一般的なウェブエージェントのためのシステムです。
  * [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - AIの無限の可能性を探求するのに役立つAIツールのセット。
  * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPTプロキシ
+ * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutterで開発されたChatGPTとのチャットアプリ、全プラットフォーム対応
+ * [composum-AI](https://github.com/ist-dresden/composum-ai) - コンポジウムページCMSとAdobe AEMのための人工知能サービス
 
 
