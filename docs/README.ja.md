@@ -14,31 +14,19 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル、ビジョン基盤モデル、AI生成コンテンツに関する素晴らしいパブリックプロジェクトのコレクションです。
-
-
-**Chatbots**
- * [sagittarius](https://github.com/gregsadetsky/sagittarius) - GPT-4/Geminiの音声/ビデオ探索ツール
- * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - このリポジトリには、Streamlit、OpenAI GPT-3.5-turbo、およびActiveloopのDeep Lakeを使用してチャットボットを作成する方法を示す2つのPythonスクリプトが含まれています。
- * [pandas-ai](https://github.com/gventuri/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
-
-
-**Browser-extensions**
- * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 共同開発者GPTエンジン：開発者向けのChatGPTプラグインを作成し、ファイルの読み取り/検索/書き込み、実行（ビルド）アクションを可能にします。
- * [neoai.nvim](https://github.com/bryley/neoai.nvim) - OpenAIのGPTモデルとのやり取りを行うためのNeovimプラグイン
-
-
 **NLP**
- * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWebはウェブページをクロールし、PDF、DOCX、TXTを読み取り、主要なコンテンツを抽出し、その内容に基づいて質問に答えたり、キーポイントを要約したりすることができます。
+ * [StreamRAG](https://github.com/video-db/streamrag) - ビデオ検索とストリーミングエージェント 🕵️‍♂️
+
+
+**Openai**
+ * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - フラッターチャットGPT
 
 
 **Others**
- * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutterで開発されたChatGPTとのチャットアプリ、全プラットフォーム対応
- * [composum-AI](https://github.com/ist-dresden/composum-ai) - コンポジウムページCMSとAdobe AEMのための人工知能サービス
+ * [council](https://github.com/chain-ml/council) - Councilは、カスタマイズされた生成AIアプリケーションの迅速な開発と堅牢な展開のためのオープンソースプラットフォームです。
 
 
-_Updated on January 31, 2024_ (A total of 1396 repositories listed.)
+_Updated on February 03, 2024_ (A total of 1399 repositories listed.)
 
 ## Table of contents
 
@@ -923,6 +911,7 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 毎日更新されるLLM関連の論文。購読を歓迎します👏 お気に入りの場合は、ぜひ購読してください🌟 一つ
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI（デモ、ドキュメンテーション、アクセラレータ）。
  * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWebはウェブページをクロールし、PDF、DOCX、TXTを読み取り、主要なコンテンツを抽出し、その内容に基づいて質問に答えたり、キーポイントを要約したりすることができます。
+ * [StreamRAG](https://github.com/video-db/streamrag) - ビデオ検索とストリーミングエージェント 🕵️‍♂️
 
 
 ## Langchain
@@ -1162,6 +1151,7 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - フリーチャットGPT 3.5 / チャットGPT 4 | フリーOpenAI / チャットGPT API
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AIがコードを生成します。
  * [BestGPTs](https://github.com/agentops-ai/bestgpts) - トップランクのOpenAI GPTs
+ * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - フラッターチャットGPT
 
 
 ## Others
@@ -1509,5 +1499,6 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPTプロキシ
  * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutterで開発されたChatGPTとのチャットアプリ、全プラットフォーム対応
  * [composum-AI](https://github.com/ist-dresden/composum-ai) - コンポジウムページCMSとAdobe AEMのための人工知能サービス
+ * [council](https://github.com/chain-ml/council) - Councilは、カスタマイズされた生成AIアプリケーションの迅速な開発と堅牢な展開のためのオープンソースプラットフォームです。
 
 

@@ -14,31 +14,19 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀一些关于大型语言模型、视觉基础模型和人工智能生成内容的精彩公共项目的集合。
-
-
-**Chatbots**
- * [sagittarius](https://github.com/gregsadetsky/sagittarius) - 一个GPT-4/Gemini语音/视频探索工具
- * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - 这个仓库包含两个Python脚本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake创建一个聊天机器人。
- * [pandas-ai](https://github.com/gventuri/pandas-ai) - 使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
-
-
-**Browser-extensions**
- * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 合作开发者GPT引擎：为开发者创建ChatGPT插件，允许读取/搜索/写入文件，执行（构建）操作。
- * [neoai.nvim](https://github.com/bryley/neoai.nvim) - 与OpenAI的GPT模型交互的Neovim插件输出：Neovim插件，用于与OpenAI的GPT模型交互
-
-
 **NLP**
- * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb可以爬取网页、阅读PDF、DOCX、TXT，并提取主要内容，然后根据内容回答您的问题，或总结关键要点。
+ * [StreamRAG](https://github.com/video-db/streamrag) - 视频搜索和流媒体代理 🕵️‍♂️
+
+
+**Openai**
+ * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT是一个基于Flutter框架开发的聊天机器人应用。它使用了OpenAI的ChatGPT模型，可以与用户进行自然语言交互。用户可以通过输入文本与ChatGPT进行对话，ChatGPT会根据用户的输入生成相应的回复。这个应用可以用于开发各种类型的聊天机器人，如客服机器人、智能助手等。Flutter ChatGPT具有良好的用户界面和交互体验，可以在移动设备上运行。
 
 
 **Others**
- * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
- * [composum-AI](https://github.com/ist-dresden/composum-ai) - 为Composum Pages CMS和Adobe AEM提供人工智能服务
+ * [council](https://github.com/chain-ml/council) - Council是一个开源平台，用于快速开发和强大部署定制的生成式人工智能应用程序。
 
 
-_Updated on January 31, 2024_ (A total of 1396 repositories listed.)
+_Updated on February 03, 2024_ (A total of 1399 repositories listed.)
 
 ## Table of contents
 
@@ -923,6 +911,7 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新的LLM论文。欢迎订阅👏如果你喜欢，请动动你的小手🌟一个。
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure 开放 AI（演示、文档、加速器）。
  * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb可以爬取网页、阅读PDF、DOCX、TXT，并提取主要内容，然后根据内容回答您的问题，或总结关键要点。
+ * [StreamRAG](https://github.com/video-db/streamrag) - 视频搜索和流媒体代理 🕵️‍♂️
 
 
 ## Langchain
@@ -1162,6 +1151,7 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - 免费聊天GPT 3.5 / 聊天GPT 4 | 免费OpenAI / 聊天GPT API
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI生成代码
  * [BestGPTs](https://github.com/agentops-ai/bestgpts) - 排名靠前的OpenAI GPTs
+ * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT是一个基于Flutter框架开发的聊天机器人应用。它使用了OpenAI的ChatGPT模型，可以与用户进行自然语言交互。用户可以通过输入文本与ChatGPT进行对话，ChatGPT会根据用户的输入生成相应的回复。这个应用可以用于开发各种类型的聊天机器人，如客服机器人、智能助手等。Flutter ChatGPT具有良好的用户界面和交互体验，可以在移动设备上运行。
 
 
 ## Others
@@ -1509,5 +1499,6 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT代理
  * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
  * [composum-AI](https://github.com/ist-dresden/composum-ai) - 为Composum Pages CMS和Adobe AEM提供人工智能服务
+ * [council](https://github.com/chain-ml/council) - Council是一个开源平台，用于快速开发和强大部署定制的生成式人工智能应用程序。
 
 

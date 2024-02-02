@@ -14,31 +14,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
-
-
-**Chatbots**
- * [sagittarius](https://github.com/gregsadetsky/sagittarius) - A GPT-4/Gemini Voice/Video Exploration Tool
- * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
- * [pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
-
-
-**Browser-extensions**
- * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - Co-Developer GPT Engine: creating ChatGPT plugins for developers that allow reading / searching / writing files, executing (build) actions
- * [neoai.nvim](https://github.com/bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
-
-
 **NLP**
- * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
+ * [StreamRAG](https://github.com/video-db/streamrag) - Video Search and Streaming Agent 🕵️‍♂️
+
+
+**Openai**
+ * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT
 
 
 **Others**
- * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
- * [composum-AI](https://github.com/ist-dresden/composum-ai) - Artificial intelligence services for the Composum Pages CMS and Adobe AEM
+ * [council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications
 
 
-_Updated on January 31, 2024_ (A total of 1396 repositories listed.)
+_Updated on February 03, 2024_ (A total of 1399 repositories listed.)
 
 ## Table of contents
 
@@ -923,6 +911,7 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - Daily updated LLM papers.        每日更新 LLM 相关的论文，欢迎订阅 👏   喜欢的话动动你的小手 🌟 一个
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI (demos, documentation, accelerators).
  * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
+ * [StreamRAG](https://github.com/video-db/streamrag) - Video Search and Streaming Agent 🕵️‍♂️
 
 
 ## Langchain
@@ -1162,6 +1151,7 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - Free ChatGPT 3.5 / ChatGPT 4 | Free OpenAI / ChatGPT API
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI generate code
  * [BestGPTs](https://github.com/agentops-ai/bestgpts) - Top ranked OpenAI GPTs
+ * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT
 
 
 ## Others
@@ -1509,5 +1499,6 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT Proxy
  * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
  * [composum-AI](https://github.com/ist-dresden/composum-ai) - Artificial intelligence services for the Composum Pages CMS and Adobe AEM
+ * [council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications
 
 
