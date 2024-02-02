@@ -14,31 +14,19 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀一系列關於大型語言模型、視覺基礎模型和人工智能生成內容的精彩公共項目的集合。
-
-
-**Chatbots**
- * [sagittarius](https://github.com/gregsadetsky/sagittarius) - 一個GPT-4/Gemini語音/視頻探索工具
- * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - 這個存儲庫包含兩個Python腳本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake創建一個聊天機器人。
- * [pandas-ai](https://github.com/gventuri/pandas-ai) - 與您的數據進行對話（SQL、CSV、pandas、polars、noSQL等）。PandasAI使用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。
-
-
-**Browser-extensions**
- * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 共同開發者GPT引擎：為開發者創建ChatGPT插件，允許讀取/搜索/寫入文件，執行（構建）操作
- * [neoai.nvim](https://github.com/bryley/neoai.nvim) - Neovim 插件，用於與 OpenAI 的 GPT 模型進行互動。
-
-
 **NLP**
- * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb可以爬取網頁、讀取PDF、DOCX、TXT文件，並提取主要內容，然後根據內容回答您的問題，或者總結關鍵要點。
+ * [StreamRAG](https://github.com/video-db/streamrag) - 視頻搜索和串流代理 🕵️‍♂️
+
+
+**Openai**
+ * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter 聊天GPT
 
 
 **Others**
- * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter開發的和ChatGPT聊天的App，全平台支援
- * [composum-AI](https://github.com/ist-dresden/composum-ai) - 為Composum Pages CMS和Adobe AEM提供的人工智能服務
+ * [council](https://github.com/chain-ml/council) - Council是一個開源平台，用於快速開發和強大部署定制的生成式人工智能應用。
 
 
-_Updated on January 31, 2024_ (A total of 1396 repositories listed.)
+_Updated on February 03, 2024_ (A total of 1399 repositories listed.)
 
 ## Table of contents
 
@@ -923,6 +911,7 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - 每日更新 LLM 相關的論文，歡迎訂閱 👏 喜歡的話動動你的小手 🌟 一個
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI（演示、文件、加速器）。Azure 開放式人工智慧（演示、文件、加速器）。
  * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb可以爬取網頁、讀取PDF、DOCX、TXT文件，並提取主要內容，然後根據內容回答您的問題，或者總結關鍵要點。
+ * [StreamRAG](https://github.com/video-db/streamrag) - 視頻搜索和串流代理 🕵️‍♂️
 
 
 ## Langchain
@@ -1162,6 +1151,7 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - 免費的ChatGPT 3.5 / ChatGPT 4 | 免費的OpenAI / ChatGPT API
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI 生成程式碼
  * [BestGPTs](https://github.com/agentops-ai/bestgpts) - 頂尖的OpenAI GPTs
+ * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter 聊天GPT
 
 
 ## Others
@@ -1509,5 +1499,6 @@ _Updated on January 31, 2024_ (A total of 1396 repositories listed.)
  * [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ChatGPT 代理
  * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter開發的和ChatGPT聊天的App，全平台支援
  * [composum-AI](https://github.com/ist-dresden/composum-ai) - 為Composum Pages CMS和Adobe AEM提供的人工智能服務
+ * [council](https://github.com/chain-ml/council) - Council是一個開源平台，用於快速開發和強大部署定制的生成式人工智能應用。
 
 

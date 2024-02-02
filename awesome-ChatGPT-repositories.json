@@ -18742,6 +18742,30 @@
                     "zh-hans": "ChatWeb可以爬取网页、阅读PDF、DOCX、TXT，并提取主要内容，然后根据内容回答您的问题，或总结关键要点。",
                     "zh-hant": "ChatWeb可以爬取網頁、讀取PDF、DOCX、TXT文件，並提取主要內容，然後根據內容回答您的問題，或者總結關鍵要點。"
                 }
+            },
+            "https://github.com/video-db/streamrag": {
+                "repository_name": "StreamRAG",
+                "user_name": "video-db",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Video Search and Streaming Agent 🕵️‍♂️",
+                "topics": [
+                    "agent",
+                    "chatgpt",
+                    "llm",
+                    "rag",
+                    "search",
+                    "search-engine",
+                    "video",
+                    "video-processing",
+                    "video-streaming"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Video Search and Streaming Agent 🕵️‍♂️",
+                    "ja": "ビデオ検索とストリーミングエージェント 🕵️‍♂️",
+                    "zh-hans": "视频搜索和流媒体代理 🕵️‍♂️",
+                    "zh-hant": "視頻搜索和串流代理 🕵️‍♂️"
+                }
             }
         },
         "Langchain": {
@@ -23756,6 +23780,28 @@
                     "ja": "トップランクのOpenAI GPTs",
                     "zh-hans": "排名靠前的OpenAI GPTs",
                     "zh-hant": "頂尖的OpenAI GPTs"
+                }
+            },
+            "https://github.com/redevrx/chat_gpt_sdk": {
+                "repository_name": "chat_gpt_sdk",
+                "user_name": "redevrx",
+                "language": "Dart",
+                "license": "MIT License",
+                "description": "Flutter ChatGPT",
+                "topics": [
+                    "android",
+                    "dart",
+                    "flutter",
+                    "gpt-3",
+                    "gpt-4",
+                    "ios",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Flutter ChatGPT",
+                    "ja": "フラッターチャットGPT",
+                    "zh-hans": "Flutter ChatGPT是一个基于Flutter框架开发的聊天机器人应用。它使用了OpenAI的ChatGPT模型，可以与用户进行自然语言交互。用户可以通过输入文本与ChatGPT进行对话，ChatGPT会根据用户的输入生成相应的回复。这个应用可以用于开发各种类型的聊天机器人，如客服机器人、智能助手等。Flutter ChatGPT具有良好的用户界面和交互体验，可以在移动设备上运行。",
+                    "zh-hant": "Flutter 聊天GPT"
                 }
             }
         },
@@ -30274,6 +30320,31 @@
                     "ja": "コンポジウムページCMSとAdobe AEMのための人工知能サービス",
                     "zh-hans": "为Composum Pages CMS和Adobe AEM提供人工智能服务",
                     "zh-hant": "為Composum Pages CMS和Adobe AEM提供的人工智能服務"
+                }
+            },
+            "https://github.com/chain-ml/council": {
+                "repository_name": "council",
+                "user_name": "chain-ml",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "generative-ai",
+                    "gpt",
+                    "gpt3",
+                    "gpt4",
+                    "machine-learning",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications",
+                    "ja": "Councilは、カスタマイズされた生成AIアプリケーションの迅速な開発と堅牢な展開のためのオープンソースプラットフォームです。",
+                    "zh-hans": "Council是一个开源平台，用于快速开发和强大部署定制的生成式人工智能应用程序。",
+                    "zh-hant": "Council是一個開源平台，用於快速開發和強大部署定制的生成式人工智能應用。"
                 }
             }
         }
