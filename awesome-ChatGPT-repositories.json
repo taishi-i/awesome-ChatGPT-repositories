@@ -7972,6 +7972,39 @@
                     "zh-hans": "使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。",
                     "zh-hant": "與您的數據進行對話（SQL、CSV、pandas、polars、noSQL等）。PandasAI使用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。"
                 }
+            },
+            "https://github.com/lss233/chatgpt-mirai-qq-bot": {
+                "repository_name": "chatgpt-mirai-qq-bot",
+                "user_name": "lss233",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台",
+                "topics": [
+                    "bard",
+                    "bot",
+                    "chatglm-6b",
+                    "chatgpt",
+                    "discord",
+                    "ernie",
+                    "go-cqhttp",
+                    "mirai",
+                    "mirai-qq",
+                    "new-bing",
+                    "openai",
+                    "poe",
+                    "qq",
+                    "qqbot",
+                    "sydney",
+                    "telegram",
+                    "wechat",
+                    "xinghuo"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 One-click deployment! Real AI chatbot! Supports ChatGPT, Wenxin Yiyuan, Xunfei Xinghuo, Bing, Bard, ChatGLM, POE, multiple accounts, character training, virtual maids, image rendering, voice sending | Supports platforms such as QQ, Telegram, Discord, WeChat, etc.",
+                    "ja": "🚀 ワンクリックで展開！本物のAIチャットボット！ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POEをサポートしています。複数のアカウント、キャラクターの調整、バーチャルメイド、画像レンダリング、音声送信に対応しています。QQ、Telegram、Discord、WeChatなどのプラットフォームをサポートしています。",
+                    "zh-hans": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台",
+                    "zh-hant": "🚀 一鍵部署！真正的 AI 聊天機器人！支援ChatGPT、文心一言、訊飛星火、Bing、Bard、ChatGLM、POE，多帳號，人設調教，虛擬女僕、圖片渲染、語音發送 | 支援 QQ、Telegram、Discord、微信 等平台"
+                }
             }
         },
         "Browser-extensions": {
@@ -13724,6 +13757,62 @@
                     "ja": "すべてのChatGPTのフロントエンドGUIクライアント",
                     "zh-hans": "每个ChatGPT的前端GUI客户端",
                     "zh-hant": "每個ChatGPT的前端GUI客戶端"
+                }
+            },
+            "https://github.com/ekkinox/yai": {
+                "repository_name": "yai",
+                "user_name": "ekkinox",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Your AI powered terminal assistant.",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "cli",
+                    "command-line-tool",
+                    "golang",
+                    "gpt-3",
+                    "gpt-4",
+                    "openai",
+                    "terminal",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Your AI powered terminal assistant.",
+                    "ja": "あなたのAIパワードターミナルアシスタント。",
+                    "zh-hans": "您的AI 动力终端助手。",
+                    "zh-hant": "您的AI動力終端助手。"
+                }
+            },
+            "https://github.com/kharvd/gpt-cli": {
+                "repository_name": "gpt-cli",
+                "user_name": "kharvd",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Command-line interface for ChatGPT, Claude and Bard",
+                "topics": [
+                    "anthropic",
+                    "anthropic-claude",
+                    "assistant",
+                    "bard",
+                    "chatgpt",
+                    "claude",
+                    "cli",
+                    "command-line",
+                    "google-bard",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt-cli",
+                    "gpt-client",
+                    "llm",
+                    "openai",
+                    "palm2"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Command-line interface for ChatGPT, Claude and Bard",
+                    "ja": "ChatGPTのためのコマンドラインインターフェース、ClaudeとBard",
+                    "zh-hans": "ChatGPT的命令行界面，Claude和Bard",
+                    "zh-hant": "ChatGPT的命令行界面，Claude和Bard"
                 }
             }
         },
@@ -20579,6 +20668,34 @@
                     "zh-hans": "使用自己的数据进行聊天和提问。加速器可以快速上传您自己的企业数据，并使用OpenAI服务与上传的数据进行聊天和提问。",
                     "zh-hant": "使用您自己的數據進行聊天和提問。加速器可快速上傳您自己的企業數據並使用OpenAI服務與上傳的數據進行聊天和提問。"
                 }
+            },
+            "https://github.com/zhudotexe/kani": {
+                "repository_name": "kani",
+                "user_name": "zhudotexe",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "kani (カニ) is a highly hackable microframework for chat-based language models with tool use/function calling. (NLP-OSS @ EMNLP 2023)",
+                "topics": [
+                    "chatgpt",
+                    "claude-2",
+                    "framework",
+                    "function-calling",
+                    "gpt-3",
+                    "gpt-4",
+                    "large-language-models",
+                    "llama",
+                    "llama-2",
+                    "llms",
+                    "microframework",
+                    "openai",
+                    "tool-use"
+                ],
+                "multilingual_descriptions": {
+                    "en": "kani (カニ) is a highly hackable microframework for chat-based language models with tool use/function calling. (NLP-OSS @ EMNLP 2023)",
+                    "ja": "kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）",
+                    "zh-hans": "kani（カニ）是一个高度可定制的微框架，用于基于聊天的语言模型和工具使用/函数调用。（NLP-OSS @ EMNLP 2023）",
+                    "zh-hant": "kani（カニ）是一個高度可修改的微框架，用於基於聊天的語言模型，具有工具使用/函數調用功能。（NLP-OSS @ EMNLP 2023）"
+                }
             }
         },
         "Unity": {
@@ -23802,6 +23919,51 @@
                     "ja": "フラッターチャットGPT",
                     "zh-hans": "Flutter ChatGPT是一个基于Flutter框架开发的聊天机器人应用。它使用了OpenAI的ChatGPT模型，可以与用户进行自然语言交互。用户可以通过输入文本与ChatGPT进行对话，ChatGPT会根据用户的输入生成相应的回复。这个应用可以用于开发各种类型的聊天机器人，如客服机器人、智能助手等。Flutter ChatGPT具有良好的用户界面和交互体验，可以在移动设备上运行。",
                     "zh-hant": "Flutter 聊天GPT"
+                }
+            },
+            "https://github.com/chatgpt-web-dev/chatgpt-web": {
+                "repository_name": "chatgpt-web",
+                "user_name": "chatgpt-web-dev",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "用 Express 和  Vue3 搭建的 ChatGPT  此项目 Fork 自  Chanzhaoyu/chatgpt-web 新增了多租户管理以及云端消息同步功能  基于 MIT 协议，免费且作为开源学习使用",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "chatgpt-web",
+                    "cloud-sync",
+                    "expressjs",
+                    "naive-ui",
+                    "openai",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Built with Express and Vue3, ChatGPT is a project that is forked from Chanzhaoyu/chatgpt-web. It has added multi-tenant management and cloud message synchronization functionality. It is based on the MIT license, free to use, and open-source for learning purposes.",
+                    "ja": "ExpressとVue3を使用して構築されたChatGPT。このプロジェクトはChanzhaoyu/chatgpt-webからフォークされ、テナント管理とクラウドメッセージ同期機能が追加されています。MITライセンスに基づき、無料でオープンソースの学習に使用できます。",
+                    "zh-hans": "使用 Express 和 Vue3 构建的 ChatGPT。该项目是从 Chanzhaoyu/chatgpt-web 分支出来的，新增了多租户管理和云端消息同步功能。基于 MIT 协议，免费且可用于开源学习。",
+                    "zh-hant": "使用 Express 和 Vue3 搭建的 ChatGPT 此專案 Fork 自 Chanzhaoyu/chatgpt-web 新增了多租戶管理以及雲端訊息同步功能 基於 MIT 協議，免費且作為開源學習使用"
+                }
+            },
+            "https://github.com/pkoukk/tiktoken-go": {
+                "repository_name": "tiktoken-go",
+                "user_name": "pkoukk",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "go version of tiktoken",
+                "topics": [
+                    "chatgpt",
+                    "go",
+                    "golang",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "openai",
+                    "tiktoken"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The go version of tiktoken.",
+                    "ja": "tiktokenのGoバージョン",
+                    "zh-hans": "tiktoken的Go版本",
+                    "zh-hant": "tiktoken 的 Go 版本"
                 }
             }
         },
@@ -30345,6 +30507,42 @@
                     "ja": "Councilは、カスタマイズされた生成AIアプリケーションの迅速な開発と堅牢な展開のためのオープンソースプラットフォームです。",
                     "zh-hans": "Council是一个开源平台，用于快速开发和强大部署定制的生成式人工智能应用程序。",
                     "zh-hant": "Council是一個開源平台，用於快速開發和強大部署定制的生成式人工智能應用。"
+                }
+            },
+            "https://github.com/linweiyuan/go-chatgpt-api": {
+                "repository_name": "go-chatgpt-api",
+                "user_name": "linweiyuan",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序",
+                    "ja": "Cloudflare を迂回して ChatGPT インターフェースを使用しようとするプログラム",
+                    "zh-hans": "一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序",
+                    "zh-hant": "一個嘗試繞過 Cloudflare 來使用 ChatGPT 接口的程式"
+                }
+            },
+            "https://github.com/bclswl0827/chatgemini": {
+                "repository_name": "ChatGemini",
+                "user_name": "bclswl0827",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt3",
+                    "gemini",
+                    "gemini-api",
+                    "reactjs",
+                    "tailwindcss",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。",
+                    "ja": "✨ ChatGeminiは、Google Geminiをベースにしたウェブクライアントです。ChatGPT 3.5と同等の操作ロジックを持ち、同時にチャット中に画像をアップロードすることもサポートしています。アプリは自動的にGemini-Pro-Visionモデルを呼び出して画像認識を行います。",
+                    "zh-hans": "✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。",
+                    "zh-hant": "✨ ChatGemini 是一個基於 Google Gemini 的網頁客戶端，對標 ChatGPT 3.5，操作邏輯同 ChatGPT 3.5 一致，同時支持在聊天中上傳圖片，應用會自動調用 Gemini-Pro-Vision 模型進行識圖。"
                 }
             }
         }

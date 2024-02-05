@@ -14,19 +14,30 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**NLP**
- * [StreamRAG](https://github.com/video-db/streamrag) - Video Search and Streaming Agent 🕵️‍♂️
+**Chatbots**
+ * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+
+
+**CLIs**
+ * [yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
+ * [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
+
+
+**Langchain**
+ * [kani](https://github.com/zhudotexe/kani) - kani (カニ) is a highly hackable microframework for chat-based language models with tool use/function calling. (NLP-OSS @ EMNLP 2023)
 
 
 **Openai**
- * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT
+ * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT  此项目 Fork 自  Chanzhaoyu/chatgpt-web 新增了多租户管理以及云端消息同步功能  基于 MIT 协议，免费且作为开源学习使用
+ * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
 
 
 **Others**
- * [council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications
+ * [go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
+ * [ChatGemini](https://github.com/bclswl0827/chatgemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 
 
-_Updated on February 03, 2024_ (A total of 1399 repositories listed.)
+_Updated on February 06, 2024_ (A total of 1407 repositories listed.)
 
 ## Table of contents
 
@@ -396,6 +407,7 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [sagittarius](https://github.com/gregsadetsky/sagittarius) - A GPT-4/Gemini Voice/Video Exploration Tool
  * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - This repository contains two Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.
  * [pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+ * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 
 
 ## Browser-extensions
@@ -661,6 +673,8 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
  * [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - A Non-Official OpenAI RESTful API Client for DotNet
  * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
+ * [yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
+ * [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 
 
 ## Reimplementations
@@ -994,6 +1008,7 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain and LLamaIndex
  * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - Uses Auto-GPT with Llama.cpp
  * [entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
+ * [kani](https://github.com/zhudotexe/kani) - kani (カニ) is a highly hackable microframework for chat-based language models with tool use/function calling. (NLP-OSS @ EMNLP 2023)
 
 
 ## Unity
@@ -1152,6 +1167,8 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI generate code
  * [BestGPTs](https://github.com/agentops-ai/bestgpts) - Top ranked OpenAI GPTs
  * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT
+ * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT  此项目 Fork 自  Chanzhaoyu/chatgpt-web 新增了多租户管理以及云端消息同步功能  基于 MIT 协议，免费且作为开源学习使用
+ * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
 
 
 ## Others
@@ -1500,5 +1517,7 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
  * [composum-AI](https://github.com/ist-dresden/composum-ai) - Artificial intelligence services for the Composum Pages CMS and Adobe AEM
  * [council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications
+ * [go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
+ * [ChatGemini](https://github.com/bclswl0827/chatgemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 
 

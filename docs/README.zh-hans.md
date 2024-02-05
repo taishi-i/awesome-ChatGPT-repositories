@@ -14,19 +14,30 @@
 
 ## The latest additions 🎉
 
-**NLP**
- * [StreamRAG](https://github.com/video-db/streamrag) - 视频搜索和流媒体代理 🕵️‍♂️
+**Chatbots**
+ * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+
+
+**CLIs**
+ * [yai](https://github.com/ekkinox/yai) - 您的AI 动力终端助手。
+ * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPT的命令行界面，Claude和Bard
+
+
+**Langchain**
+ * [kani](https://github.com/zhudotexe/kani) - kani（カニ）是一个高度可定制的微框架，用于基于聊天的语言模型和工具使用/函数调用。（NLP-OSS @ EMNLP 2023）
 
 
 **Openai**
- * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT是一个基于Flutter框架开发的聊天机器人应用。它使用了OpenAI的ChatGPT模型，可以与用户进行自然语言交互。用户可以通过输入文本与ChatGPT进行对话，ChatGPT会根据用户的输入生成相应的回复。这个应用可以用于开发各种类型的聊天机器人，如客服机器人、智能助手等。Flutter ChatGPT具有良好的用户界面和交互体验，可以在移动设备上运行。
+ * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 使用 Express 和 Vue3 构建的 ChatGPT。该项目是从 Chanzhaoyu/chatgpt-web 分支出来的，新增了多租户管理和云端消息同步功能。基于 MIT 协议，免费且可用于开源学习。
+ * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - tiktoken的Go版本
 
 
 **Others**
- * [council](https://github.com/chain-ml/council) - Council是一个开源平台，用于快速开发和强大部署定制的生成式人工智能应用程序。
+ * [go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
+ * [ChatGemini](https://github.com/bclswl0827/chatgemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 
 
-_Updated on February 03, 2024_ (A total of 1399 repositories listed.)
+_Updated on February 06, 2024_ (A total of 1407 repositories listed.)
 
 ## Table of contents
 
@@ -396,6 +407,7 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [sagittarius](https://github.com/gregsadetsky/sagittarius) - 一个GPT-4/Gemini语音/视频探索工具
  * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - 这个仓库包含两个Python脚本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake创建一个聊天机器人。
  * [pandas-ai](https://github.com/gventuri/pandas-ai) - 使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
+ * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
 
 
 ## Browser-extensions
@@ -661,6 +673,8 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [gptel](https://github.com/karthink/gptel) - 一个简单的Emacs LLM客户端
  * [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - 一个非官方的DotNet OpenAI RESTful API客户端
  * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - 每个ChatGPT的前端GUI客户端
+ * [yai](https://github.com/ekkinox/yai) - 您的AI 动力终端助手。
+ * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPT的命令行界面，Claude和Bard
 
 
 ## Reimplementations
@@ -994,6 +1008,7 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [LLPhant](https://github.com/theodo-group/llphant) - LLPhant - 一个使用OpenAI GPT 4的综合PHP生成AI框架。受Langchain和LLamaIndex启发。
  * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - 使用Llama.cpp的Auto-GPT
  * [entaoai](https://github.com/akshata29/entaoai) - 使用自己的数据进行聊天和提问。加速器可以快速上传您自己的企业数据，并使用OpenAI服务与上传的数据进行聊天和提问。
+ * [kani](https://github.com/zhudotexe/kani) - kani（カニ）是一个高度可定制的微框架，用于基于聊天的语言模型和工具使用/函数调用。（NLP-OSS @ EMNLP 2023）
 
 
 ## Unity
@@ -1152,6 +1167,8 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - AI生成代码
  * [BestGPTs](https://github.com/agentops-ai/bestgpts) - 排名靠前的OpenAI GPTs
  * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT是一个基于Flutter框架开发的聊天机器人应用。它使用了OpenAI的ChatGPT模型，可以与用户进行自然语言交互。用户可以通过输入文本与ChatGPT进行对话，ChatGPT会根据用户的输入生成相应的回复。这个应用可以用于开发各种类型的聊天机器人，如客服机器人、智能助手等。Flutter ChatGPT具有良好的用户界面和交互体验，可以在移动设备上运行。
+ * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 使用 Express 和 Vue3 构建的 ChatGPT。该项目是从 Chanzhaoyu/chatgpt-web 分支出来的，新增了多租户管理和云端消息同步功能。基于 MIT 协议，免费且可用于开源学习。
+ * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - tiktoken的Go版本
 
 
 ## Others
@@ -1500,5 +1517,7 @@ _Updated on February 03, 2024_ (A total of 1399 repositories listed.)
  * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
  * [composum-AI](https://github.com/ist-dresden/composum-ai) - 为Composum Pages CMS和Adobe AEM提供人工智能服务
  * [council](https://github.com/chain-ml/council) - Council是一个开源平台，用于快速开发和强大部署定制的生成式人工智能应用程序。
+ * [go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
+ * [ChatGemini](https://github.com/bclswl0827/chatgemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
 
 
