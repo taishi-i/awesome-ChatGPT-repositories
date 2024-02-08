@@ -3669,6 +3669,62 @@
                     "zh-hans": "🪿 LinGoose 是一个使用管道开发基于LLMs的应用程序的Go框架",
                     "zh-hant": "🪿 LinGoose 是一個使用管道開發基於 LLMs 的應用程式的 Go 框架。"
                 }
+            },
+            "https://github.com/protectai/llm-guard": {
+                "repository_name": "llm-guard",
+                "user_name": "protectai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "The Security Toolkit for LLM Interactions",
+                "topics": [
+                    "adversarial-machine-learning",
+                    "chatgpt",
+                    "large-language-models",
+                    "llm",
+                    "llm-security",
+                    "llmops",
+                    "prompt-engineering",
+                    "prompt-injection",
+                    "security-tools",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Security Toolkit for LLM Interactions",
+                    "ja": "LLMインタラクションのためのセキュリティツールキット",
+                    "zh-hans": "LLM互动安全工具包",
+                    "zh-hant": "LLM互動的安全工具包"
+                }
+            },
+            "https://github.com/yokoffing/chatgpt-prompts": {
+                "repository_name": "ChatGPT-Prompts",
+                "user_name": "yokoffing",
+                "language": null,
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "ChatGPT and Bing AI prompt curation",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "bing",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "collections",
+                    "generative-ai",
+                    "gpt-3",
+                    "gpt3-library",
+                    "gpt3-prompts",
+                    "gpt3-resources",
+                    "language",
+                    "language-model",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT and Bing AI prompt curation",
+                    "ja": "ChatGPTとBing AIのプロンプトキュレーション",
+                    "zh-hans": "ChatGPT和Bing AI提示策划输出：",
+                    "zh-hant": "ChatGPT和Bing AI提示整理"
+                }
             }
         },
         "Chatbots": {
@@ -8004,6 +8060,41 @@
                     "ja": "🚀 ワンクリックで展開！本物のAIチャットボット！ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POEをサポートしています。複数のアカウント、キャラクターの調整、バーチャルメイド、画像レンダリング、音声送信に対応しています。QQ、Telegram、Discord、WeChatなどのプラットフォームをサポートしています。",
                     "zh-hans": "🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台",
                     "zh-hant": "🚀 一鍵部署！真正的 AI 聊天機器人！支援ChatGPT、文心一言、訊飛星火、Bing、Bard、ChatGLM、POE，多帳號，人設調教，虛擬女僕、圖片渲染、語音發送 | 支援 QQ、Telegram、Discord、微信 等平台"
+                }
+            },
+            "https://github.com/quivrhq/quivr": {
+                "repository_name": "quivr",
+                "user_name": "QuivrHQ",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+                "topics": [
+                    "ai",
+                    "api",
+                    "chatbot",
+                    "chatgpt",
+                    "database",
+                    "docker",
+                    "frontend",
+                    "html",
+                    "javascript",
+                    "llm",
+                    "openai",
+                    "postgresql",
+                    "privacy",
+                    "rag",
+                    "react",
+                    "rest-api",
+                    "security",
+                    "typescript",
+                    "vector",
+                    "ycombinator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+                    "ja": "あなたのGenAIセカンドブレイン🧠個人の生産性アシスタント（RAG）⚡️🤖Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMsを使用して、ドキュメント（PDF、CSVなど）やアプリとチャットできます。ユーザーと共有できる！ OpenAI GPTやChatGPTに対するローカルでプライベートな代替です。検索増強生成によってパワードされています。",
+                    "zh-hans": "您的GenAI第二大脑🧠 个人生产力助手（RAG）⚡️🤖 通过Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMs与您的文档（PDF、CSV等）和应用进行交流，您可以与用户共享！这是OpenAI GPTs和ChatGPT的本地和私密替代方案，由检索增强生成技术驱动。",
+                    "zh-hant": "您的GenAI第二大腦🧠個人生產力助手（RAG）⚡️🤖使用Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMs與您的文檔（PDF、CSV等）和應用程序進行對話，您可以與用戶共享！這是一個本地和私人的替代方案，可替代OpenAI GPT和ChatGPT，由檢索增強生成技術驅動。"
                 }
             }
         },
@@ -23965,6 +24056,25 @@
                     "zh-hans": "tiktoken的Go版本",
                     "zh-hant": "tiktoken 的 Go 版本"
                 }
+            },
+            "https://github.com/unickcheng/openai-proxy": {
+                "repository_name": "openai-proxy",
+                "user_name": "UNICKCHENG",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.",
+                "topics": [
+                    "chatgpt",
+                    "claude",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.",
+                    "ja": "openai-proxyは、OpenAI APIへのリクエストができないという問題を解決するために、中国のユーザー向けに提供されるソリューションです。",
+                    "zh-hans": "openai-proxy是为中国用户提供的解决方案，用于解决无法向OpenAI API发出请求的问题。",
+                    "zh-hant": "openai-proxy 是為中國用戶提供的解決方案，用於解決無法向 OpenAI API 發送請求的問題。"
+                }
             }
         },
         "Others": {
@@ -30543,6 +30653,53 @@
                     "ja": "✨ ChatGeminiは、Google Geminiをベースにしたウェブクライアントです。ChatGPT 3.5と同等の操作ロジックを持ち、同時にチャット中に画像をアップロードすることもサポートしています。アプリは自動的にGemini-Pro-Visionモデルを呼び出して画像認識を行います。",
                     "zh-hans": "✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。",
                     "zh-hant": "✨ ChatGemini 是一個基於 Google Gemini 的網頁客戶端，對標 ChatGPT 3.5，操作邏輯同 ChatGPT 3.5 一致，同時支持在聊天中上傳圖片，應用會自動調用 Gemini-Pro-Vision 模型進行識圖。"
+                }
+            },
+            "https://github.com/yakgpt/yakgpt": {
+                "repository_name": "yakGPT",
+                "user_name": "yakGPT",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Locally running, hands-free ChatGPT UI",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Locally running, hands-free ChatGPT UI",
+                    "ja": "ローカルで実行される、ハンズフリーのChatGPT UI",
+                    "zh-hans": "本地运行的无需手动操作的ChatGPT用户界面",
+                    "zh-hant": "本地運行，無需手動操作的ChatGPT使用者界面"
+                }
+            },
+            "https://github.com/cx2333-gt/galtransl": {
+                "repository_name": "GalTransl",
+                "user_name": "cx2333-gt",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Support for Galgame automated translation solutions using large language models such as GPT-3.5/GPT-4/Newbing/Sakura.",
+                    "ja": "GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするGalgame自動翻訳の解決策",
+                    "zh-hans": "支持GPT-3.5/GPT-4/Newbing/Sakura等大型语言模型的Galgame自动化翻译解决方案。",
+                    "zh-hant": "支持GPT-3.5/GPT-4/Newbing/Sakura等大型語言模型的Galgame自動化翻譯解決方案"
+                }
+            },
+            "https://github.com/fujiwarachoki/moneyprinter": {
+                "repository_name": "MoneyPrinter",
+                "user_name": "FujiwaraChoki",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Automate Creation of YouTube Shorts using MoviePy.",
+                "topics": [
+                    "automation",
+                    "chatgpt",
+                    "moviepy",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Automate Creation of YouTube Shorts using MoviePy.",
+                    "ja": "MoviePyを使用してYouTube Shortsの作成を自動化します。",
+                    "zh-hans": "使用MoviePy自动创建YouTube Shorts。",
+                    "zh-hant": "使用MoviePy自動創建YouTube Shorts。"
                 }
             }
         }

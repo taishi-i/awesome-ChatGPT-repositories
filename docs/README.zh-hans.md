@@ -14,30 +14,26 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [llm-guard](https://github.com/protectai/llm-guard) - LLM互动安全工具包
+ * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT和Bing AI提示策划输出：
+
+
 **Chatbots**
- * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
-
-
-**CLIs**
- * [yai](https://github.com/ekkinox/yai) - 您的AI 动力终端助手。
- * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPT的命令行界面，Claude和Bard
-
-
-**Langchain**
- * [kani](https://github.com/zhudotexe/kani) - kani（カニ）是一个高度可定制的微框架，用于基于聊天的语言模型和工具使用/函数调用。（NLP-OSS @ EMNLP 2023）
+ * [quivr](https://github.com/quivrhq/quivr) - 您的GenAI第二大脑🧠 个人生产力助手（RAG）⚡️🤖 通过Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMs与您的文档（PDF、CSV等）和应用进行交流，您可以与用户共享！这是OpenAI GPTs和ChatGPT的本地和私密替代方案，由检索增强生成技术驱动。
 
 
 **Openai**
- * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 使用 Express 和 Vue3 构建的 ChatGPT。该项目是从 Chanzhaoyu/chatgpt-web 分支出来的，新增了多租户管理和云端消息同步功能。基于 MIT 协议，免费且可用于开源学习。
- * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - tiktoken的Go版本
+ * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy是为中国用户提供的解决方案，用于解决无法向OpenAI API发出请求的问题。
 
 
 **Others**
- * [go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
- * [ChatGemini](https://github.com/bclswl0827/chatgemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
+ * [yakGPT](https://github.com/yakgpt/yakgpt) - 本地运行的无需手动操作的ChatGPT用户界面
+ * [GalTransl](https://github.com/cx2333-gt/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大型语言模型的Galgame自动化翻译解决方案。
+ * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - 使用MoviePy自动创建YouTube Shorts。
 
 
-_Updated on February 06, 2024_ (A total of 1407 repositories listed.)
+_Updated on February 09, 2024_ (A total of 1413 repositories listed.)
 
 ## Table of contents
 
@@ -219,6 +215,8 @@ _Updated on February 06, 2024_ (A total of 1407 repositories listed.)
  * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 这里是GPTStore上的前100个提示，我们可以用来学习和改进提示工程。
  * [aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》是一本关于LLM在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
  * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose 是一个使用管道开发基于LLMs的应用程序的Go框架
+ * [llm-guard](https://github.com/protectai/llm-guard) - LLM互动安全工具包
+ * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT和Bing AI提示策划输出：
 
 
 ## Chatbots
@@ -408,6 +406,7 @@ _Updated on February 06, 2024_ (A total of 1407 repositories listed.)
  * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - 这个仓库包含两个Python脚本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake创建一个聊天机器人。
  * [pandas-ai](https://github.com/gventuri/pandas-ai) - 使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
  * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
+ * [quivr](https://github.com/quivrhq/quivr) - 您的GenAI第二大脑🧠 个人生产力助手（RAG）⚡️🤖 通过Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMs与您的文档（PDF、CSV等）和应用进行交流，您可以与用户共享！这是OpenAI GPTs和ChatGPT的本地和私密替代方案，由检索增强生成技术驱动。
 
 
 ## Browser-extensions
@@ -1169,6 +1168,7 @@ _Updated on February 06, 2024_ (A total of 1407 repositories listed.)
  * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - Flutter ChatGPT是一个基于Flutter框架开发的聊天机器人应用。它使用了OpenAI的ChatGPT模型，可以与用户进行自然语言交互。用户可以通过输入文本与ChatGPT进行对话，ChatGPT会根据用户的输入生成相应的回复。这个应用可以用于开发各种类型的聊天机器人，如客服机器人、智能助手等。Flutter ChatGPT具有良好的用户界面和交互体验，可以在移动设备上运行。
  * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 使用 Express 和 Vue3 构建的 ChatGPT。该项目是从 Chanzhaoyu/chatgpt-web 分支出来的，新增了多租户管理和云端消息同步功能。基于 MIT 协议，免费且可用于开源学习。
  * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - tiktoken的Go版本
+ * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy是为中国用户提供的解决方案，用于解决无法向OpenAI API发出请求的问题。
 
 
 ## Others
@@ -1517,7 +1517,9 @@ _Updated on February 06, 2024_ (A total of 1407 repositories listed.)
  * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
  * [composum-AI](https://github.com/ist-dresden/composum-ai) - 为Composum Pages CMS和Adobe AEM提供人工智能服务
  * [council](https://github.com/chain-ml/council) - Council是一个开源平台，用于快速开发和强大部署定制的生成式人工智能应用程序。
- * [go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
  * [ChatGemini](https://github.com/bclswl0827/chatgemini) - ✨ ChatGemini 是一个基于 Google Gemini 的网页客户端，对标 ChatGPT 3.5，操作逻辑同 ChatGPT 3.5 一致，同时支持在聊天中上传图片，应用会自动调用 Gemini-Pro-Vision 模型进行识图。
+ * [yakGPT](https://github.com/yakgpt/yakgpt) - 本地运行的无需手动操作的ChatGPT用户界面
+ * [GalTransl](https://github.com/cx2333-gt/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大型语言模型的Galgame自动化翻译解决方案。
+ * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - 使用MoviePy自动创建YouTube Shorts。
 
 
