@@ -14,30 +14,26 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [llm-guard](https://github.com/protectai/llm-guard) - LLMインタラクションのためのセキュリティツールキット
+ * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPTとBing AIのプロンプトキュレーション
+
+
 **Chatbots**
- * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 ワンクリックで展開！本物のAIチャットボット！ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POEをサポートしています。複数のアカウント、キャラクターの調整、バーチャルメイド、画像レンダリング、音声送信に対応しています。QQ、Telegram、Discord、WeChatなどのプラットフォームをサポートしています。
-
-
-**CLIs**
- * [yai](https://github.com/ekkinox/yai) - あなたのAIパワードターミナルアシスタント。
- * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPTのためのコマンドラインインターフェース、ClaudeとBard
-
-
-**Langchain**
- * [kani](https://github.com/zhudotexe/kani) - kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）
+ * [quivr](https://github.com/quivrhq/quivr) - あなたのGenAIセカンドブレイン🧠個人の生産性アシスタント（RAG）⚡️🤖Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMsを使用して、ドキュメント（PDF、CSVなど）やアプリとチャットできます。ユーザーと共有できる！ OpenAI GPTやChatGPTに対するローカルでプライベートな代替です。検索増強生成によってパワードされています。
 
 
 **Openai**
- * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - ExpressとVue3を使用して構築されたChatGPT。このプロジェクトはChanzhaoyu/chatgpt-webからフォークされ、テナント管理とクラウドメッセージ同期機能が追加されています。MITライセンスに基づき、無料でオープンソースの学習に使用できます。
- * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - tiktokenのGoバージョン
+ * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxyは、OpenAI APIへのリクエストができないという問題を解決するために、中国のユーザー向けに提供されるソリューションです。
 
 
 **Others**
- * [go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - Cloudflare を迂回して ChatGPT インターフェースを使用しようとするプログラム
- * [ChatGemini](https://github.com/bclswl0827/chatgemini) - ✨ ChatGeminiは、Google Geminiをベースにしたウェブクライアントです。ChatGPT 3.5と同等の操作ロジックを持ち、同時にチャット中に画像をアップロードすることもサポートしています。アプリは自動的にGemini-Pro-Visionモデルを呼び出して画像認識を行います。
+ * [yakGPT](https://github.com/yakgpt/yakgpt) - ローカルで実行される、ハンズフリーのChatGPT UI
+ * [GalTransl](https://github.com/cx2333-gt/galtransl) - GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするGalgame自動翻訳の解決策
+ * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - MoviePyを使用してYouTube Shortsの作成を自動化します。
 
 
-_Updated on February 06, 2024_ (A total of 1407 repositories listed.)
+_Updated on February 09, 2024_ (A total of 1413 repositories listed.)
 
 ## Table of contents
 
@@ -219,6 +215,8 @@ _Updated on February 06, 2024_ (A total of 1407 repositories listed.)
  * [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - 以下はGPTStoreのトップ100のプロンプトです。これらを使用して、プロンプトエンジニアリングを学び、向上させることができます。
  * [aigc](https://github.com/phodal/aigc) - 「《構築大言語モデルの応用：アプリケーション開発とアーキテクチャ設計》は、LLMの実世界での応用について紹介したオープンソースの電子書籍であり、大言語モデルの基礎知識や応用、そして自分自身のモデルを構築する方法について説明しています。その中には、Promptの作成、開発、管理、最高の大言語モデルがもたらす可能性の探求、そしてLLMアプリケーション開発のパターンとアーキテクチャ設計が含まれています。」
  * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGooseは、パイプラインを使用してLLMsベースのアプリケーションを開発するためのGoフレームワークです。
+ * [llm-guard](https://github.com/protectai/llm-guard) - LLMインタラクションのためのセキュリティツールキット
+ * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPTとBing AIのプロンプトキュレーション
 
 
 ## Chatbots
@@ -408,6 +406,7 @@ _Updated on February 06, 2024_ (A total of 1407 repositories listed.)
  * [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - このリポジトリには、Streamlit、OpenAI GPT-3.5-turbo、およびActiveloopのDeep Lakeを使用してチャットボットを作成する方法を示す2つのPythonスクリプトが含まれています。
  * [pandas-ai](https://github.com/gventuri/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
  * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 ワンクリックで展開！本物のAIチャットボット！ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POEをサポートしています。複数のアカウント、キャラクターの調整、バーチャルメイド、画像レンダリング、音声送信に対応しています。QQ、Telegram、Discord、WeChatなどのプラットフォームをサポートしています。
+ * [quivr](https://github.com/quivrhq/quivr) - あなたのGenAIセカンドブレイン🧠個人の生産性アシスタント（RAG）⚡️🤖Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMsを使用して、ドキュメント（PDF、CSVなど）やアプリとチャットできます。ユーザーと共有できる！ OpenAI GPTやChatGPTに対するローカルでプライベートな代替です。検索増強生成によってパワードされています。
 
 
 ## Browser-extensions
@@ -1169,6 +1168,7 @@ _Updated on February 06, 2024_ (A total of 1407 repositories listed.)
  * [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - フラッターチャットGPT
  * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - ExpressとVue3を使用して構築されたChatGPT。このプロジェクトはChanzhaoyu/chatgpt-webからフォークされ、テナント管理とクラウドメッセージ同期機能が追加されています。MITライセンスに基づき、無料でオープンソースの学習に使用できます。
  * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - tiktokenのGoバージョン
+ * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxyは、OpenAI APIへのリクエストができないという問題を解決するために、中国のユーザー向けに提供されるソリューションです。
 
 
 ## Others
@@ -1517,7 +1517,9 @@ _Updated on February 06, 2024_ (A total of 1407 repositories listed.)
  * [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutterで開発されたChatGPTとのチャットアプリ、全プラットフォーム対応
  * [composum-AI](https://github.com/ist-dresden/composum-ai) - コンポジウムページCMSとAdobe AEMのための人工知能サービス
  * [council](https://github.com/chain-ml/council) - Councilは、カスタマイズされた生成AIアプリケーションの迅速な開発と堅牢な展開のためのオープンソースプラットフォームです。
- * [go-chatgpt-api](https://github.com/linweiyuan/go-chatgpt-api) - Cloudflare を迂回して ChatGPT インターフェースを使用しようとするプログラム
  * [ChatGemini](https://github.com/bclswl0827/chatgemini) - ✨ ChatGeminiは、Google Geminiをベースにしたウェブクライアントです。ChatGPT 3.5と同等の操作ロジックを持ち、同時にチャット中に画像をアップロードすることもサポートしています。アプリは自動的にGemini-Pro-Visionモデルを呼び出して画像認識を行います。
+ * [yakGPT](https://github.com/yakgpt/yakgpt) - ローカルで実行される、ハンズフリーのChatGPT UI
+ * [GalTransl](https://github.com/cx2333-gt/galtransl) - GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするGalgame自動翻訳の解決策
+ * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - MoviePyを使用してYouTube Shortsの作成を自動化します。
 
 
