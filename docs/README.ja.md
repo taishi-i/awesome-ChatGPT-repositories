@@ -14,26 +14,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [llm-guard](https://github.com/protectai/llm-guard) - LLMインタラクションのためのセキュリティツールキット
- * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPTとBing AIのプロンプトキュレーション
+**Awesome-lists**
+ * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - GPTストアのトップ評価GPTからのチャットGPTプロンプトの厳選リスト。
 
 
 **Chatbots**
- * [quivr](https://github.com/quivrhq/quivr) - あなたのGenAIセカンドブレイン🧠個人の生産性アシスタント（RAG）⚡️🤖Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMsを使用して、ドキュメント（PDF、CSVなど）やアプリとチャットできます。ユーザーと共有できる！ OpenAI GPTやChatGPTに対するローカルでプライベートな代替です。検索増強生成によってパワードされています。
+ * [smalltalk](https://github.com/tinystruct/smalltalk) - @tinystruct と統合された、@OpenAI GPT-3 / 3.5-turbo / ChatGPT ベースのチャットモジュールです。
+ * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maidは、GGUF / llama.cppモデルとローカルでインターフェースするためのクロスプラットフォームのFlutterアプリであり、また、OllamaとOpenAIモデルとリモートでインターフェースするためのものです。
 
 
-**Openai**
- * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxyは、OpenAI APIへのリクエストができないという問題を解決するために、中国のユーザー向けに提供されるソリューションです。
+**Langchain**
+ * [PIXIU](https://github.com/chancefocus/pixiu) - このリポジトリでは、初の金融向け大規模言語モデル（LLM）、調整データ、評価基準を紹介するオープンソースのリソース「PIXIU」を紹介しています。私たちの目標は、金融LLMを包括的に評価するために、常に前進し続けることです。
 
 
 **Others**
- * [yakGPT](https://github.com/yakgpt/yakgpt) - ローカルで実行される、ハンズフリーのChatGPT UI
- * [GalTransl](https://github.com/cx2333-gt/galtransl) - GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするGalgame自動翻訳の解決策
- * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - MoviePyを使用してYouTube Shortsの作成を自動化します。
+ * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - ChatGPTとの通信時にモデレーション結果を非表示にするTampermonkey/Greasemonkeyスクリプト。
 
 
-_Updated on February 09, 2024_ (A total of 1413 repositories listed.)
+_Updated on February 13, 2024_ (A total of 1418 repositories listed.)
 
 ## Table of contents
 
@@ -106,6 +104,7 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 AIに関する実用的なリポジトリ、ツール、ウェブサイト、論文、チュートリアルを収集します。実用的なAIの宝箱 💎
  * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - チェーンオブソート（CoT）、インストラクションチューニング、およびマルチモダリティを含む、言語モデル（LLM）に関する論文とリソースのコレクション。チェーンオブソート（CoT）、インストラクションチューニング、およびマルチモダリティに関する論文とリソースのコレクション。
  * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル、ビジョン基盤モデル、AI生成コンテンツに関する素晴らしいパブリックプロジェクトのコレクションです。
+ * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - GPTストアのトップ評価GPTからのチャットGPTプロンプトの厳選リスト。
 
 
 ## Prompts
@@ -407,6 +406,8 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [pandas-ai](https://github.com/gventuri/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
  * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 ワンクリックで展開！本物のAIチャットボット！ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POEをサポートしています。複数のアカウント、キャラクターの調整、バーチャルメイド、画像レンダリング、音声送信に対応しています。QQ、Telegram、Discord、WeChatなどのプラットフォームをサポートしています。
  * [quivr](https://github.com/quivrhq/quivr) - あなたのGenAIセカンドブレイン🧠個人の生産性アシスタント（RAG）⚡️🤖Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMsを使用して、ドキュメント（PDF、CSVなど）やアプリとチャットできます。ユーザーと共有できる！ OpenAI GPTやChatGPTに対するローカルでプライベートな代替です。検索増強生成によってパワードされています。
+ * [smalltalk](https://github.com/tinystruct/smalltalk) - @tinystruct と統合された、@OpenAI GPT-3 / 3.5-turbo / ChatGPT ベースのチャットモジュールです。
+ * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maidは、GGUF / llama.cppモデルとローカルでインターフェースするためのクロスプラットフォームのFlutterアプリであり、また、OllamaとOpenAIモデルとリモートでインターフェースするためのものです。
 
 
 ## Browser-extensions
@@ -1008,6 +1009,7 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - Llama.cppを使用したAuto-GPT
  * [entaoai](https://github.com/akshata29/entaoai) - 自分のデータでチャットや質問を行う。自社のデータを迅速にアップロードし、OpenAIのサービスを使用してそのアップロードされたデータとチャットし、質問をするためのアクセラレータ。
  * [kani](https://github.com/zhudotexe/kani) - kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）
+ * [PIXIU](https://github.com/chancefocus/pixiu) - このリポジトリでは、初の金融向け大規模言語モデル（LLM）、調整データ、評価基準を紹介するオープンソースのリソース「PIXIU」を紹介しています。私たちの目標は、金融LLMを包括的に評価するために、常に前進し続けることです。
 
 
 ## Unity
@@ -1521,5 +1523,6 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [yakGPT](https://github.com/yakgpt/yakgpt) - ローカルで実行される、ハンズフリーのChatGPT UI
  * [GalTransl](https://github.com/cx2333-gt/galtransl) - GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするGalgame自動翻訳の解決策
  * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - MoviePyを使用してYouTube Shortsの作成を自動化します。
+ * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - ChatGPTとの通信時にモデレーション結果を非表示にするTampermonkey/Greasemonkeyスクリプト。
 
 
