@@ -14,26 +14,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
- * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT and Bing AI prompt curation
+**Awesome-lists**
+ * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
 
 
 **Chatbots**
- * [quivr](https://github.com/quivrhq/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+ * [smalltalk](https://github.com/tinystruct/smalltalk) - A tinystruct-based chat module which integrated with @OpenAI GPT-3 / 3.5-turbo / ChatGPT. @tinystruct
+ * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 
 
-**Openai**
- * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.
+**Langchain**
+ * [PIXIU](https://github.com/chancefocus/pixiu) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open
 
 
 **Others**
- * [yakGPT](https://github.com/yakgpt/yakgpt) - Locally running, hands-free ChatGPT UI
- * [GalTransl](https://github.com/cx2333-gt/galtransl) - Support for Galgame automated translation solutions using large language models such as GPT-3.5/GPT-4/Newbing/Sakura.
- * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - Automate Creation of YouTube Shorts using MoviePy.
+ * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with ChatGPT.
 
 
-_Updated on February 09, 2024_ (A total of 1413 repositories listed.)
+_Updated on February 13, 2024_ (A total of 1418 repositories listed.)
 
 ## Table of contents
 
@@ -106,6 +104,7 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 Collect practical AI repos, tools, websites, papers and tutorials on AI. 实用的AI百宝箱 💎
  * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - Collection of papers and resources on Reasoning in Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and Multimodality.
  * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
+ * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
 
 
 ## Prompts
@@ -407,6 +406,8 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
  * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 One-click deployment! Real AI chatbot! Supports ChatGPT, Wenxin Yiyuan, Xunfei Xinghuo, Bing, Bard, ChatGLM, POE, multiple accounts, character training, virtual maids, image rendering, voice sending | Supports platforms such as QQ, Telegram, Discord, WeChat, etc.
  * [quivr](https://github.com/quivrhq/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+ * [smalltalk](https://github.com/tinystruct/smalltalk) - A tinystruct-based chat module which integrated with @OpenAI GPT-3 / 3.5-turbo / ChatGPT. @tinystruct
+ * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 
 
 ## Browser-extensions
@@ -1008,6 +1009,7 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - Uses Auto-GPT with Llama.cpp
  * [entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
  * [kani](https://github.com/zhudotexe/kani) - kani (カニ) is a highly hackable microframework for chat-based language models with tool use/function calling. (NLP-OSS @ EMNLP 2023)
+ * [PIXIU](https://github.com/chancefocus/pixiu) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open
 
 
 ## Unity
@@ -1521,5 +1523,6 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [yakGPT](https://github.com/yakgpt/yakgpt) - Locally running, hands-free ChatGPT UI
  * [GalTransl](https://github.com/cx2333-gt/galtransl) - Support for Galgame automated translation solutions using large language models such as GPT-3.5/GPT-4/Newbing/Sakura.
  * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - Automate Creation of YouTube Shorts using MoviePy.
+ * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with ChatGPT.
 
 

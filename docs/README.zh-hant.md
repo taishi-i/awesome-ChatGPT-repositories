@@ -14,26 +14,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [llm-guard](https://github.com/protectai/llm-guard) - LLM互動的安全工具包
- * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT和Bing AI提示整理
+**Awesome-lists**
+ * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - 從GPTs Store中排名靠前的GPTs中精心挑選的聊天GPT提示列表。
 
 
 **Chatbots**
- * [quivr](https://github.com/quivrhq/quivr) - 您的GenAI第二大腦🧠個人生產力助手（RAG）⚡️🤖使用Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMs與您的文檔（PDF、CSV等）和應用程序進行對話，您可以與用戶共享！這是一個本地和私人的替代方案，可替代OpenAI GPT和ChatGPT，由檢索增強生成技術驅動。
+ * [smalltalk](https://github.com/tinystruct/smalltalk) - 一個基於tinystruct的聊天模組，與@OpenAI GPT-3 / 3.5-turbo / ChatGPT整合。@tinystruct
+ * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid 是一個跨平台的 Flutter 應用程式，用於本地與 GGUF / llama.cpp 模型進行接口，並與 Ollama 和 OpenAI 模型進行遠程接口。
 
 
-**Openai**
- * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy 是為中國用戶提供的解決方案，用於解決無法向 OpenAI API 發送請求的問題。
+**Langchain**
+ * [PIXIU](https://github.com/chancefocus/pixiu) - 這個儲存庫介紹了PIXIU，一個開源資源，其中包含了第一個金融大型語言模型（LLMs），指令調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
 
 
 **Others**
- * [yakGPT](https://github.com/yakgpt/yakgpt) - 本地運行，無需手動操作的ChatGPT使用者界面
- * [GalTransl](https://github.com/cx2333-gt/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大型語言模型的Galgame自動化翻譯解決方案
- * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - 使用MoviePy自動創建YouTube Shorts。
+ * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - 請將以下內容翻譯成繁體中文：Tampermonkey/Greasemonkey腳本，用於在與ChatGPT通信時隱藏審核結果。
 
 
-_Updated on February 09, 2024_ (A total of 1413 repositories listed.)
+_Updated on February 13, 2024_ (A total of 1418 repositories listed.)
 
 ## Table of contents
 
@@ -106,6 +104,7 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - 🤖 收集實用的AI存儲庫、工具、網站、論文和教程。實用的AI百寶箱 💎
  * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - 關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。
  * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀一系列關於大型語言模型、視覺基礎模型和人工智能生成內容的精彩公共項目的集合。
+ * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - 從GPTs Store中排名靠前的GPTs中精心挑選的聊天GPT提示列表。
 
 
 ## Prompts
@@ -407,6 +406,8 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [pandas-ai](https://github.com/gventuri/pandas-ai) - 與您的數據進行對話（SQL、CSV、pandas、polars、noSQL等）。PandasAI使用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。
  * [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - 🚀 一鍵部署！真正的 AI 聊天機器人！支援ChatGPT、文心一言、訊飛星火、Bing、Bard、ChatGLM、POE，多帳號，人設調教，虛擬女僕、圖片渲染、語音發送 | 支援 QQ、Telegram、Discord、微信 等平台
  * [quivr](https://github.com/quivrhq/quivr) - 您的GenAI第二大腦🧠個人生產力助手（RAG）⚡️🤖使用Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMs與您的文檔（PDF、CSV等）和應用程序進行對話，您可以與用戶共享！這是一個本地和私人的替代方案，可替代OpenAI GPT和ChatGPT，由檢索增強生成技術驅動。
+ * [smalltalk](https://github.com/tinystruct/smalltalk) - 一個基於tinystruct的聊天模組，與@OpenAI GPT-3 / 3.5-turbo / ChatGPT整合。@tinystruct
+ * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid 是一個跨平台的 Flutter 應用程式，用於本地與 GGUF / llama.cpp 模型進行接口，並與 Ollama 和 OpenAI 模型進行遠程接口。
 
 
 ## Browser-extensions
@@ -1008,6 +1009,7 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - 使用Llama.cpp和Auto-GPT
  * [entaoai](https://github.com/akshata29/entaoai) - 使用您自己的數據進行聊天和提問。加速器可快速上傳您自己的企業數據並使用OpenAI服務與上傳的數據進行聊天和提問。
  * [kani](https://github.com/zhudotexe/kani) - kani（カニ）是一個高度可修改的微框架，用於基於聊天的語言模型，具有工具使用/函數調用功能。（NLP-OSS @ EMNLP 2023）
+ * [PIXIU](https://github.com/chancefocus/pixiu) - 這個儲存庫介紹了PIXIU，一個開源資源，其中包含了第一個金融大型語言模型（LLMs），指令調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
 
 
 ## Unity
@@ -1521,5 +1523,6 @@ _Updated on February 09, 2024_ (A total of 1413 repositories listed.)
  * [yakGPT](https://github.com/yakgpt/yakgpt) - 本地運行，無需手動操作的ChatGPT使用者界面
  * [GalTransl](https://github.com/cx2333-gt/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大型語言模型的Galgame自動化翻譯解決方案
  * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - 使用MoviePy自動創建YouTube Shorts。
+ * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - 請將以下內容翻譯成繁體中文：Tampermonkey/Greasemonkey腳本，用於在與ChatGPT通信時隱藏審核結果。
 
 
