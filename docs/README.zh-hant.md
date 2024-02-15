@@ -14,24 +14,23 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - 從GPTs Store中排名靠前的GPTs中精心挑選的聊天GPT提示列表。
-
-
 **Chatbots**
- * [smalltalk](https://github.com/tinystruct/smalltalk) - 一個基於tinystruct的聊天模組，與@OpenAI GPT-3 / 3.5-turbo / ChatGPT整合。@tinystruct
- * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid 是一個跨平台的 Flutter 應用程式，用於本地與 GGUF / llama.cpp 模型進行接口，並與 Ollama 和 OpenAI 模型進行遠程接口。
+ * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - 使用您的數據進行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。
 
 
-**Langchain**
- * [PIXIU](https://github.com/chancefocus/pixiu) - 這個儲存庫介紹了PIXIU，一個開源資源，其中包含了第一個金融大型語言模型（LLMs），指令調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
+**Browser-extensions**
+ * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - 一個基於NoneBot框架的Ai聊天插件，對接OpenAi文本生成接口，實現了機器人的人格自定義/切換，聊天記憶等功能。
 
 
-**Others**
- * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - 請將以下內容翻譯成繁體中文：Tampermonkey/Greasemonkey腳本，用於在與ChatGPT通信時隱藏審核結果。
+**Unity**
+ * [open-saas](https://github.com/wasp-lang/open-saas) - 一個免費、開源的React和Node.js SaaS應用程式起始器，具有超強功能。適用於生產環境，由社群驅動。
 
 
-_Updated on February 13, 2024_ (A total of 1418 repositories listed.)
+**Openai**
+ * [hello-ai](https://github.com/xxxily/hello-ai) - 搶走你工作的不是AI，而是掌握使用AI工具的人。降維打擊最為致命：毀滅你，與你何干《三體》
+
+
+_Updated on February 16, 2024_ (A total of 1422 repositories listed.)
 
 ## Table of contents
 
@@ -408,6 +407,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [quivr](https://github.com/quivrhq/quivr) - 您的GenAI第二大腦🧠個人生產力助手（RAG）⚡️🤖使用Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMs與您的文檔（PDF、CSV等）和應用程序進行對話，您可以與用戶共享！這是一個本地和私人的替代方案，可替代OpenAI GPT和ChatGPT，由檢索增強生成技術驅動。
  * [smalltalk](https://github.com/tinystruct/smalltalk) - 一個基於tinystruct的聊天模組，與@OpenAI GPT-3 / 3.5-turbo / ChatGPT整合。@tinystruct
  * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid 是一個跨平台的 Flutter 應用程式，用於本地與 GGUF / llama.cpp 模型進行接口，並與 Ollama 和 OpenAI 模型進行遠程接口。
+ * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - 使用您的數據進行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。
 
 
 ## Browser-extensions
@@ -565,6 +565,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [writely](https://github.com/anc95/writely) - ❤️‍🔥 一個超越 Notion AI 的替代品的 Chrome 擴充功能。
  * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 共同開發者GPT引擎：為開發者創建ChatGPT插件，允許讀取/搜索/寫入文件，執行（構建）操作
  * [neoai.nvim](https://github.com/bryley/neoai.nvim) - Neovim 插件，用於與 OpenAI 的 GPT 模型進行互動。
+ * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - 一個基於NoneBot框架的Ai聊天插件，對接OpenAi文本生成接口，實現了機器人的人格自定義/切換，聊天記憶等功能。
 
 
 ## CLIs
@@ -1025,6 +1026,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity實現AI聊天相關功能。目前這個庫包含了對chatgpt、chatglm等大語言模型的api調用的程式實現以及實現了微軟Azure以及百度AI的語音服務功能，語音服務均採用web api實現，支援Windows/WebGL/Android等平台。
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最多下載、派生、貢獻、龐大社群支持且被使用的 PHP（Laravel、Symfony、Yii、Cake PHP 或任何 PHP 框架）SDK，用於 OpenAI GPT-3 和 DALL-E。它還支持類似 ChatGPT 的串流功能。（支援 ChatGPT AI）
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
+ * [open-saas](https://github.com/wasp-lang/open-saas) - 一個免費、開源的React和Node.js SaaS應用程式起始器，具有超強功能。適用於生產環境，由社群驅動。
 
 
 ## Openai
@@ -1171,6 +1173,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 使用 Express 和 Vue3 搭建的 ChatGPT 此專案 Fork 自 Chanzhaoyu/chatgpt-web 新增了多租戶管理以及雲端訊息同步功能 基於 MIT 協議，免費且作為開源學習使用
  * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - tiktoken 的 Go 版本
  * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy 是為中國用戶提供的解決方案，用於解決無法向 OpenAI API 發送請求的問題。
+ * [hello-ai](https://github.com/xxxily/hello-ai) - 搶走你工作的不是AI，而是掌握使用AI工具的人。降維打擊最為致命：毀滅你，與你何干《三體》
 
 
 ## Others

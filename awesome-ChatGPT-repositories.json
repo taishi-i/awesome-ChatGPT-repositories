@@ -8178,6 +8178,31 @@
                     "zh-hans": "Maid是一个跨平台的Flutter应用程序，用于本地与GGUF / llama.cpp模型进行交互，并与Ollama和OpenAI模型进行远程交互。",
                     "zh-hant": "Maid 是一個跨平台的 Flutter 應用程式，用於本地與 GGUF / llama.cpp 模型進行接口，並與 Ollama 和 OpenAI 模型進行遠程接口。"
                 }
+            },
+            "https://github.com/sinaptik-ai/pandas-ai": {
+                "repository_name": "pandas-ai",
+                "user_name": "Sinaptik-AI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",
+                "topics": [
+                    "ai",
+                    "csv",
+                    "data",
+                    "data-analysis",
+                    "data-science",
+                    "gpt-3",
+                    "gpt-4",
+                    "llm",
+                    "pandas",
+                    "sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",
+                    "ja": "データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。",
+                    "zh-hans": "使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。",
+                    "zh-hant": "使用您的數據進行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。"
+                }
             }
         },
         "Browser-extensions": {
@@ -11560,6 +11585,24 @@
                     "ja": "OpenAIのGPTモデルとのやり取りを行うためのNeovimプラグイン",
                     "zh-hans": "与OpenAI的GPT模型交互的Neovim插件输出：Neovim插件，用于与OpenAI的GPT模型交互",
                     "zh-hant": "Neovim 插件，用於與 OpenAI 的 GPT 模型進行互動。"
+                }
+            },
+            "https://github.com/kromiose/nonebot_plugin_naturel_gpt": {
+                "repository_name": "nonebot_plugin_naturel_gpt",
+                "user_name": "KroMiose",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格 自定义/切换，聊天记忆等功能",
+                "topics": [
+                    "chatgpt",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An AI chat plugin based on the NoneBot framework, integrating with the OpenAI text generation API, implementing features such as custom/switchable robot personality, chat memory, etc.",
+                    "ja": "NoneBotフレームワークをベースにしたAIチャットプラグインで、OpenAiテキスト生成APIと連携して、ロボットのパーソナリティのカスタマイズ/切り替え、チャットの記憶などの機能を実現しています。",
+                    "zh-hans": "一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格自定义/切换，聊天记忆等功能。",
+                    "zh-hant": "一個基於NoneBot框架的Ai聊天插件，對接OpenAi文本生成接口，實現了機器人的人格自定義/切換，聊天記憶等功能。"
                 }
             }
         },
@@ -21105,6 +21148,34 @@
                     "zh-hans": "输入：使用多种工具/扫描器进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码，IaC）- Betterscan 社区版（CE）\n输出：",
                     "zh-hant": "輸入：使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）"
                 }
+            },
+            "https://github.com/wasp-lang/open-saas": {
+                "repository_name": "open-saas",
+                "user_name": "wasp-lang",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.",
+                "topics": [
+                    "ai",
+                    "boilerplate",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "full-stack",
+                    "nodejs",
+                    "open-source",
+                    "postgresql",
+                    "prisma",
+                    "react",
+                    "saas",
+                    "saas-boilerplate",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.",
+                    "ja": "スーパーパワーを持つReact＆Node.js用の無料のオープンソースSaaSアプリのスターター。本番環境に対応。コミュニティ主導。",
+                    "zh-hans": "一个免费、开源的React和Node.js SaaS应用程序启动器，具有超强功能。可用于生产环境。由社区驱动。",
+                    "zh-hant": "一個免費、開源的React和Node.js SaaS應用程式起始器，具有超強功能。適用於生產環境，由社群驅動。"
+                }
             }
         },
         "Openai": {
@@ -24186,6 +24257,28 @@
                     "ja": "openai-proxyは、OpenAI APIへのリクエストができないという問題を解決するために、中国のユーザー向けに提供されるソリューションです。",
                     "zh-hans": "openai-proxy是为中国用户提供的解决方案，用于解决无法向OpenAI API发出请求的问题。",
                     "zh-hant": "openai-proxy 是為中國用戶提供的解決方案，用於解決無法向 OpenAI API 發送請求的問題。"
+                }
+            },
+            "https://github.com/xxxily/hello-ai": {
+                "repository_name": "hello-ai",
+                "user_name": "xxxily",
+                "language": "JavaScript",
+                "license": null,
+                "description": "抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》",
+                "topics": [
+                    "agi",
+                    "ai",
+                    "aigc",
+                    "chatgpt",
+                    "hello-ai",
+                    "openai",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "It is not AI that takes away your job, but the people who master the use of AI tools. The most deadly blow is to destroy you, what does it have to do with you \"The Three-Body Problem\".",
+                    "ja": "仕事を奪うのはAIではなく、AIツールの使用をマスターする人です。次元の低下は最も致命的です：あなたを破壊し、あなたに何の関係もありません。《三体》",
+                    "zh-hans": "抢走你工作的不是AI，而是掌握使用AI工具的人。降维打击最为致命：毁灭你，与你何干《三体》",
+                    "zh-hant": "搶走你工作的不是AI，而是掌握使用AI工具的人。降維打擊最為致命：毀滅你，與你何干《三體》"
                 }
             }
         },
