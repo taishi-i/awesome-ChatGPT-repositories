@@ -14,24 +14,23 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - GPTストアのトップ評価GPTからのチャットGPTプロンプトの厳選リスト。
-
-
 **Chatbots**
- * [smalltalk](https://github.com/tinystruct/smalltalk) - @tinystruct と統合された、@OpenAI GPT-3 / 3.5-turbo / ChatGPT ベースのチャットモジュールです。
- * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maidは、GGUF / llama.cppモデルとローカルでインターフェースするためのクロスプラットフォームのFlutterアプリであり、また、OllamaとOpenAIモデルとリモートでインターフェースするためのものです。
+ * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
 
 
-**Langchain**
- * [PIXIU](https://github.com/chancefocus/pixiu) - このリポジトリでは、初の金融向け大規模言語モデル（LLM）、調整データ、評価基準を紹介するオープンソースのリソース「PIXIU」を紹介しています。私たちの目標は、金融LLMを包括的に評価するために、常に前進し続けることです。
+**Browser-extensions**
+ * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - NoneBotフレームワークをベースにしたAIチャットプラグインで、OpenAiテキスト生成APIと連携して、ロボットのパーソナリティのカスタマイズ/切り替え、チャットの記憶などの機能を実現しています。
 
 
-**Others**
- * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - ChatGPTとの通信時にモデレーション結果を非表示にするTampermonkey/Greasemonkeyスクリプト。
+**Unity**
+ * [open-saas](https://github.com/wasp-lang/open-saas) - スーパーパワーを持つReact＆Node.js用の無料のオープンソースSaaSアプリのスターター。本番環境に対応。コミュニティ主導。
 
 
-_Updated on February 13, 2024_ (A total of 1418 repositories listed.)
+**Openai**
+ * [hello-ai](https://github.com/xxxily/hello-ai) - 仕事を奪うのはAIではなく、AIツールの使用をマスターする人です。次元の低下は最も致命的です：あなたを破壊し、あなたに何の関係もありません。《三体》
+
+
+_Updated on February 16, 2024_ (A total of 1422 repositories listed.)
 
 ## Table of contents
 
@@ -408,6 +407,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [quivr](https://github.com/quivrhq/quivr) - あなたのGenAIセカンドブレイン🧠個人の生産性アシスタント（RAG）⚡️🤖Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMsを使用して、ドキュメント（PDF、CSVなど）やアプリとチャットできます。ユーザーと共有できる！ OpenAI GPTやChatGPTに対するローカルでプライベートな代替です。検索増強生成によってパワードされています。
  * [smalltalk](https://github.com/tinystruct/smalltalk) - @tinystruct と統合された、@OpenAI GPT-3 / 3.5-turbo / ChatGPT ベースのチャットモジュールです。
  * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maidは、GGUF / llama.cppモデルとローカルでインターフェースするためのクロスプラットフォームのFlutterアプリであり、また、OllamaとOpenAIモデルとリモートでインターフェースするためのものです。
+ * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
 
 
 ## Browser-extensions
@@ -565,6 +565,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [writely](https://github.com/anc95/writely) - ❤️‍🔥 Notion AI を超える選択肢としての Chrome 拡張機能。 | Notion AI に限らず、さらに進化した浏览器拡張機能。
  * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 共同開発者GPTエンジン：開発者向けのChatGPTプラグインを作成し、ファイルの読み取り/検索/書き込み、実行（ビルド）アクションを可能にします。
  * [neoai.nvim](https://github.com/bryley/neoai.nvim) - OpenAIのGPTモデルとのやり取りを行うためのNeovimプラグイン
+ * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - NoneBotフレームワークをベースにしたAIチャットプラグインで、OpenAiテキスト生成APIと連携して、ロボットのパーソナリティのカスタマイズ/切り替え、チャットの記憶などの機能を実現しています。
 
 
 ## CLIs
@@ -1025,6 +1026,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - Unityを使用してAIチャット関連の機能を実現します。現在、このライブラリにはchatgpt、chatglmなどの大規模言語モデルのAPI呼び出しのコード実装が含まれており、また、Microsoft AzureおよびBaidu AIの音声サービス機能も実装されています。音声サービスはすべてWeb APIを使用しており、Windows/WebGL/Androidなどのプラットフォームをサポートしています。
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最もダウンロードされ、フォークされ、貢献され、大規模なコミュニティによってサポートされ、PHP（Laravel、Symfony、Yii、Cake PHPまたは任意のPHPフレームワーク）SDKとして使用されるOpenAI GPT-3およびDALL-EのSDKです。また、chatGPTのようなストリーミングもサポートしています。（ChatGPT AIがサポートされています）
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/静的解析/リンティング+ One Report（コード、IaC）を使用したOpenAI GPT - Betterscan Community Edition（CE）
+ * [open-saas](https://github.com/wasp-lang/open-saas) - スーパーパワーを持つReact＆Node.js用の無料のオープンソースSaaSアプリのスターター。本番環境に対応。コミュニティ主導。
 
 
 ## Openai
@@ -1171,6 +1173,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - ExpressとVue3を使用して構築されたChatGPT。このプロジェクトはChanzhaoyu/chatgpt-webからフォークされ、テナント管理とクラウドメッセージ同期機能が追加されています。MITライセンスに基づき、無料でオープンソースの学習に使用できます。
  * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - tiktokenのGoバージョン
  * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxyは、OpenAI APIへのリクエストができないという問題を解決するために、中国のユーザー向けに提供されるソリューションです。
+ * [hello-ai](https://github.com/xxxily/hello-ai) - 仕事を奪うのはAIではなく、AIツールの使用をマスターする人です。次元の低下は最も致命的です：あなたを破壊し、あなたに何の関係もありません。《三体》
 
 
 ## Others

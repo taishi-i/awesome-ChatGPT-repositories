@@ -14,24 +14,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
-
-
 **Chatbots**
- * [smalltalk](https://github.com/tinystruct/smalltalk) - A tinystruct-based chat module which integrated with @OpenAI GPT-3 / 3.5-turbo / ChatGPT. @tinystruct
- * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
+ * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 
 
-**Langchain**
- * [PIXIU](https://github.com/chancefocus/pixiu) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).
+**Browser-extensions**
+ * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - 一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格 自定义/切换，聊天记忆等功能
 
 
-**Others**
- * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with ChatGPT.
+**Unity**
+ * [open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 
 
-_Updated on February 13, 2024_ (A total of 1418 repositories listed.)
+**Openai**
+ * [hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
+
+
+_Updated on February 16, 2024_ (A total of 1422 repositories listed.)
 
 ## Table of contents
 
@@ -408,6 +407,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [quivr](https://github.com/quivrhq/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
  * [smalltalk](https://github.com/tinystruct/smalltalk) - A tinystruct-based chat module which integrated with @OpenAI GPT-3 / 3.5-turbo / ChatGPT. @tinystruct
  * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
+ * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 
 
 ## Browser-extensions
@@ -565,6 +565,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [writely](https://github.com/anc95/writely) - ❤️‍🔥 A chrome extension as an alternative to Notion AI that goes beyond Notion AI. | 一个替代 Notion AI 的浏览器插件，不止于 Notion AI
  * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - Co-Developer GPT Engine: creating ChatGPT plugins for developers that allow reading / searching / writing files, executing (build) actions
  * [neoai.nvim](https://github.com/bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
+ * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - 一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格 自定义/切换，聊天记忆等功能
 
 
 ## CLIs
@@ -1025,6 +1026,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - 使用unity实现AI聊天相关功能。目前这个库包含了对chatgpt、chatglm等大语言模型的api调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用web api实现，支持Windows/WebGL/Android等平台
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
+ * [open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 
 
 ## Openai
@@ -1171,6 +1173,7 @@ _Updated on February 13, 2024_ (A total of 1418 repositories listed.)
  * [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT  此项目 Fork 自  Chanzhaoyu/chatgpt-web 新增了多租户管理以及云端消息同步功能  基于 MIT 协议，免费且作为开源学习使用
  * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
  * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.
+ * [hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 
 
 ## Others
