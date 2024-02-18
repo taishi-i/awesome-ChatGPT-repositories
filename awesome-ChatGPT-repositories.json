@@ -8203,6 +8203,24 @@
                     "zh-hans": "使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。",
                     "zh-hant": "使用您的數據進行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。"
                 }
+            },
+            "https://github.com/lich0821/wechatrobot": {
+                "repository_name": "WeChatRobot",
+                "user_name": "lich0821",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。",
+                "topics": [
+                    "chatgpt",
+                    "python",
+                    "wechat"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WeChat robot, access Google Bard, ChatGPT, ChatGLM, iFlytek Xinghuo, Tigerbot; idiom solitaire, weather forecast, news summary.",
+                    "ja": "WeChatボット、Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbotに接続します。四字熟語ゲーム、天気予報、ニュースの要約。",
+                    "zh-hans": "微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。",
+                    "zh-hant": "微信機器人，接入Google Bard、ChatGPT、ChatGLM、訊飛星火、Tigerbot；成語接龍、天氣預報、新聞摘要。"
+                }
             }
         },
         "Browser-extensions": {
@@ -11603,6 +11621,29 @@
                     "ja": "NoneBotフレームワークをベースにしたAIチャットプラグインで、OpenAiテキスト生成APIと連携して、ロボットのパーソナリティのカスタマイズ/切り替え、チャットの記憶などの機能を実現しています。",
                     "zh-hans": "一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格自定义/切换，聊天记忆等功能。",
                     "zh-hant": "一個基於NoneBot框架的Ai聊天插件，對接OpenAi文本生成接口，實現了機器人的人格自定義/切換，聊天記憶等功能。"
+                }
+            },
+            "https://github.com/madox2/vim-ai": {
+                "repository_name": "vim-ai",
+                "user_name": "madox2",
+                "language": "Vim Script",
+                "license": "MIT License",
+                "description": "AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.",
+                "topics": [
+                    "chatgpt",
+                    "code-generation",
+                    "gpt-3",
+                    "gpt-4",
+                    "llm",
+                    "neovim",
+                    "openai",
+                    "vim"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.",
+                    "ja": "Vim用のAIパワードコードアシスタント。VimとNeovim用のOpenAIとChatGPTプラグイン。",
+                    "zh-hans": "基于人工智能的Vim代码助手。Vim和Neovim的OpenAI和ChatGPT插件。",
+                    "zh-hant": "AI 助手為 Vim 提供代碼支援。OpenAI 和 ChatGPT 插件適用於 Vim 和 Neovim。"
                 }
             }
         },
@@ -19071,6 +19112,45 @@
                     "zh-hans": "视频搜索和流媒体代理 🕵️‍♂️",
                     "zh-hant": "視頻搜索和串流代理 🕵️‍♂️"
                 }
+            },
+            "https://github.com/gptscript-ai/gptscript": {
+                "repository_name": "gptscript",
+                "user_name": "gptscript-ai",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "Natural Language Programming ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Natural Language Programming",
+                    "ja": "自然言語プログラミング",
+                    "zh-hans": "自然语言编程",
+                    "zh-hant": "自然語言編程"
+                }
+            },
+            "https://github.com/muennighoff/sgpt": {
+                "repository_name": "sgpt",
+                "user_name": "Muennighoff",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "SGPT: GPT Sentence Embeddings for Semantic Search",
+                "topics": [
+                    "gpt",
+                    "information-retrieval",
+                    "language-model",
+                    "large-language-models",
+                    "neural-search",
+                    "retrieval",
+                    "semantic-search",
+                    "sentence-embeddings",
+                    "sgpt",
+                    "text-embedding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "SGPT: GPT Sentence Embeddings for Semantic Search",
+                    "ja": "SGPT：GPT文埋め込みによる意味検索SGPT：GPT文埋め込みによる意味検索",
+                    "zh-hans": "SGPT：GPT句子嵌入用于语义搜索",
+                    "zh-hant": "SGPT：GPT句子嵌入用於語義搜索"
+                }
             }
         },
         "Langchain": {
@@ -20941,6 +21021,37 @@
                     "ja": "このリポジトリでは、初の金融向け大規模言語モデル（LLM）、調整データ、評価基準を紹介するオープンソースのリソース「PIXIU」を紹介しています。私たちの目標は、金融LLMを包括的に評価するために、常に前進し続けることです。",
                     "zh-hans": "这个仓库介绍了PIXIU，一个开源资源，提供了第一个金融大型语言模型（LLMs），指令调整数据和评估基准，以全面评估金融LLMs。我们的目标是不断推动开放。",
                     "zh-hant": "這個儲存庫介紹了PIXIU，一個開源資源，其中包含了第一個金融大型語言模型（LLMs），指令調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。"
+                }
+            },
+            "https://github.com/open-webui/open-webui": {
+                "repository_name": "open-webui",
+                "user_name": "open-webui",
+                "language": "Svelte",
+                "license": "MIT License",
+                "description": "ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)",
+                "topics": [
+                    "chromadb",
+                    "llm",
+                    "llm-ui",
+                    "llm-webui",
+                    "llms",
+                    "ollama",
+                    "ollama-app",
+                    "ollama-client",
+                    "ollama-gui",
+                    "ollama-interface",
+                    "ollama-ui",
+                    "ollama-web",
+                    "ollama-webui",
+                    "rag",
+                    "self-hosted",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)",
+                    "ja": "Ollama用のChatGPTスタイルWebUI（以前のOllama WebUI）Ollama用ChatGPTスタイルWebUI（以前のOllama WebUI）",
+                    "zh-hans": "ChatGPT风格的Ollama WebUI（原Ollama WebUI）",
+                    "zh-hant": "ChatGPT風格的Ollama網頁用戶界面（原名Ollama WebUI）"
                 }
             }
         },

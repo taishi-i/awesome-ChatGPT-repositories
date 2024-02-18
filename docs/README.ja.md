@@ -15,22 +15,23 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
+ * [WeChatRobot](https://github.com/lich0821/wechatrobot) - WeChatボット、Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbotに接続します。四字熟語ゲーム、天気予報、ニュースの要約。
 
 
 **Browser-extensions**
- * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - NoneBotフレームワークをベースにしたAIチャットプラグインで、OpenAiテキスト生成APIと連携して、ロボットのパーソナリティのカスタマイズ/切り替え、チャットの記憶などの機能を実現しています。
+ * [vim-ai](https://github.com/madox2/vim-ai) - Vim用のAIパワードコードアシスタント。VimとNeovim用のOpenAIとChatGPTプラグイン。
 
 
-**Unity**
- * [open-saas](https://github.com/wasp-lang/open-saas) - スーパーパワーを持つReact＆Node.js用の無料のオープンソースSaaSアプリのスターター。本番環境に対応。コミュニティ主導。
+**NLP**
+ * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然言語プログラミング
+ * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT文埋め込みによる意味検索SGPT：GPT文埋め込みによる意味検索
 
 
-**Openai**
- * [hello-ai](https://github.com/xxxily/hello-ai) - 仕事を奪うのはAIではなく、AIツールの使用をマスターする人です。次元の低下は最も致命的です：あなたを破壊し、あなたに何の関係もありません。《三体》
+**Langchain**
+ * [open-webui](https://github.com/open-webui/open-webui) - Ollama用のChatGPTスタイルWebUI（以前のOllama WebUI）Ollama用ChatGPTスタイルWebUI（以前のOllama WebUI）
 
 
-_Updated on February 16, 2024_ (A total of 1422 repositories listed.)
+_Updated on February 19, 2024_ (A total of 1427 repositories listed.)
 
 ## Table of contents
 
@@ -408,6 +409,7 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [smalltalk](https://github.com/tinystruct/smalltalk) - @tinystruct と統合された、@OpenAI GPT-3 / 3.5-turbo / ChatGPT ベースのチャットモジュールです。
  * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maidは、GGUF / llama.cppモデルとローカルでインターフェースするためのクロスプラットフォームのFlutterアプリであり、また、OllamaとOpenAIモデルとリモートでインターフェースするためのものです。
  * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
+ * [WeChatRobot](https://github.com/lich0821/wechatrobot) - WeChatボット、Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbotに接続します。四字熟語ゲーム、天気予報、ニュースの要約。
 
 
 ## Browser-extensions
@@ -566,6 +568,7 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 共同開発者GPTエンジン：開発者向けのChatGPTプラグインを作成し、ファイルの読み取り/検索/書き込み、実行（ビルド）アクションを可能にします。
  * [neoai.nvim](https://github.com/bryley/neoai.nvim) - OpenAIのGPTモデルとのやり取りを行うためのNeovimプラグイン
  * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - NoneBotフレームワークをベースにしたAIチャットプラグインで、OpenAiテキスト生成APIと連携して、ロボットのパーソナリティのカスタマイズ/切り替え、チャットの記憶などの機能を実現しています。
+ * [vim-ai](https://github.com/madox2/vim-ai) - Vim用のAIパワードコードアシスタント。VimとNeovim用のOpenAIとChatGPTプラグイン。
 
 
 ## CLIs
@@ -927,6 +930,8 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI（デモ、ドキュメンテーション、アクセラレータ）。
  * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWebはウェブページをクロールし、PDF、DOCX、TXTを読み取り、主要なコンテンツを抽出し、その内容に基づいて質問に答えたり、キーポイントを要約したりすることができます。
  * [StreamRAG](https://github.com/video-db/streamrag) - ビデオ検索とストリーミングエージェント 🕵️‍♂️
+ * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然言語プログラミング
+ * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT文埋め込みによる意味検索SGPT：GPT文埋め込みによる意味検索
 
 
 ## Langchain
@@ -1011,6 +1016,7 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [entaoai](https://github.com/akshata29/entaoai) - 自分のデータでチャットや質問を行う。自社のデータを迅速にアップロードし、OpenAIのサービスを使用してそのアップロードされたデータとチャットし、質問をするためのアクセラレータ。
  * [kani](https://github.com/zhudotexe/kani) - kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）
  * [PIXIU](https://github.com/chancefocus/pixiu) - このリポジトリでは、初の金融向け大規模言語モデル（LLM）、調整データ、評価基準を紹介するオープンソースのリソース「PIXIU」を紹介しています。私たちの目標は、金融LLMを包括的に評価するために、常に前進し続けることです。
+ * [open-webui](https://github.com/open-webui/open-webui) - Ollama用のChatGPTスタイルWebUI（以前のOllama WebUI）Ollama用ChatGPTスタイルWebUI（以前のOllama WebUI）
 
 
 ## Unity
