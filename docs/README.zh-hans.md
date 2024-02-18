@@ -15,22 +15,23 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - 使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
+ * [WeChatRobot](https://github.com/lich0821/wechatrobot) - 微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。
 
 
 **Browser-extensions**
- * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - 一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格自定义/切换，聊天记忆等功能。
+ * [vim-ai](https://github.com/madox2/vim-ai) - 基于人工智能的Vim代码助手。Vim和Neovim的OpenAI和ChatGPT插件。
 
 
-**Unity**
- * [open-saas](https://github.com/wasp-lang/open-saas) - 一个免费、开源的React和Node.js SaaS应用程序启动器，具有超强功能。可用于生产环境。由社区驱动。
+**NLP**
+ * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然语言编程
+ * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT句子嵌入用于语义搜索
 
 
-**Openai**
- * [hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。降维打击最为致命：毁灭你，与你何干《三体》
+**Langchain**
+ * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT风格的Ollama WebUI（原Ollama WebUI）
 
 
-_Updated on February 16, 2024_ (A total of 1422 repositories listed.)
+_Updated on February 19, 2024_ (A total of 1427 repositories listed.)
 
 ## Table of contents
 
@@ -408,6 +409,7 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [smalltalk](https://github.com/tinystruct/smalltalk) - 一个基于tinystruct的聊天模块，与@OpenAI GPT-3 / 3.5-turbo / ChatGPT集成。@tinystruct
  * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid是一个跨平台的Flutter应用程序，用于本地与GGUF / llama.cpp模型进行交互，并与Ollama和OpenAI模型进行远程交互。
  * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - 使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
+ * [WeChatRobot](https://github.com/lich0821/wechatrobot) - 微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。
 
 
 ## Browser-extensions
@@ -566,6 +568,7 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - 合作开发者GPT引擎：为开发者创建ChatGPT插件，允许读取/搜索/写入文件，执行（构建）操作。
  * [neoai.nvim](https://github.com/bryley/neoai.nvim) - 与OpenAI的GPT模型交互的Neovim插件输出：Neovim插件，用于与OpenAI的GPT模型交互
  * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - 一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格自定义/切换，聊天记忆等功能。
+ * [vim-ai](https://github.com/madox2/vim-ai) - 基于人工智能的Vim代码助手。Vim和Neovim的OpenAI和ChatGPT插件。
 
 
 ## CLIs
@@ -927,6 +930,8 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure 开放 AI（演示、文档、加速器）。
  * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb可以爬取网页、阅读PDF、DOCX、TXT，并提取主要内容，然后根据内容回答您的问题，或总结关键要点。
  * [StreamRAG](https://github.com/video-db/streamrag) - 视频搜索和流媒体代理 🕵️‍♂️
+ * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然语言编程
+ * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT句子嵌入用于语义搜索
 
 
 ## Langchain
@@ -1011,6 +1016,7 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [entaoai](https://github.com/akshata29/entaoai) - 使用自己的数据进行聊天和提问。加速器可以快速上传您自己的企业数据，并使用OpenAI服务与上传的数据进行聊天和提问。
  * [kani](https://github.com/zhudotexe/kani) - kani（カニ）是一个高度可定制的微框架，用于基于聊天的语言模型和工具使用/函数调用。（NLP-OSS @ EMNLP 2023）
  * [PIXIU](https://github.com/chancefocus/pixiu) - 这个仓库介绍了PIXIU，一个开源资源，提供了第一个金融大型语言模型（LLMs），指令调整数据和评估基准，以全面评估金融LLMs。我们的目标是不断推动开放。
+ * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT风格的Ollama WebUI（原Ollama WebUI）
 
 
 ## Unity

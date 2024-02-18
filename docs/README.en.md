@@ -15,22 +15,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+ * [WeChatRobot](https://github.com/lich0821/wechatrobot) - WeChat robot, access Google Bard, ChatGPT, ChatGLM, iFlytek Xinghuo, Tigerbot; idiom solitaire, weather forecast, news summary.
 
 
 **Browser-extensions**
- * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - An AI chat plugin based on the NoneBot framework, integrating with the OpenAI text generation API, implementing features such as custom/switchable robot personality, chat memory, etc.
+ * [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 
 
-**Unity**
- * [open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
+**NLP**
+ * [gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+ * [sgpt](https://github.com/muennighoff/sgpt) - SGPT: GPT Sentence Embeddings for Semantic Search
 
 
-**Openai**
- * [hello-ai](https://github.com/xxxily/hello-ai) - It is not AI that takes away your job, but the people who master the use of AI tools. The most deadly blow is to destroy you, what does it have to do with you "The Three-Body Problem".
+**Langchain**
+ * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
 
 
-_Updated on February 16, 2024_ (A total of 1422 repositories listed.)
+_Updated on February 19, 2024_ (A total of 1427 repositories listed.)
 
 ## Table of contents
 
@@ -408,6 +409,7 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [smalltalk](https://github.com/tinystruct/smalltalk) - A tinystruct-based chat module which integrated with @OpenAI GPT-3 / 3.5-turbo / ChatGPT. @tinystruct
  * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
  * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+ * [WeChatRobot](https://github.com/lich0821/wechatrobot) - WeChat robot, access Google Bard, ChatGPT, ChatGLM, iFlytek Xinghuo, Tigerbot; idiom solitaire, weather forecast, news summary.
 
 
 ## Browser-extensions
@@ -566,6 +568,7 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - Co-Developer GPT Engine: creating ChatGPT plugins for developers that allow reading / searching / writing files, executing (build) actions
  * [neoai.nvim](https://github.com/bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
  * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - An AI chat plugin based on the NoneBot framework, integrating with the OpenAI text generation API, implementing features such as custom/switchable robot personality, chat memory, etc.
+ * [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 
 
 ## CLIs
@@ -927,6 +930,8 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - Azure Open AI (demos, documentation, accelerators).
  * [chatWeb](https://github.com/skywalkerdarren/chatweb) - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
  * [StreamRAG](https://github.com/video-db/streamrag) - Video Search and Streaming Agent 🕵️‍♂️
+ * [gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
+ * [sgpt](https://github.com/muennighoff/sgpt) - SGPT: GPT Sentence Embeddings for Semantic Search
 
 
 ## Langchain
@@ -1011,6 +1016,7 @@ _Updated on February 16, 2024_ (A total of 1422 repositories listed.)
  * [entaoai](https://github.com/akshata29/entaoai) - Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
  * [kani](https://github.com/zhudotexe/kani) - kani (カニ) is a highly hackable microframework for chat-based language models with tool use/function calling. (NLP-OSS @ EMNLP 2023)
  * [PIXIU](https://github.com/chancefocus/pixiu) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open
+ * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
 
 
 ## Unity
