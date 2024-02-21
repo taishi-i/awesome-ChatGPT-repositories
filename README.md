@@ -14,24 +14,31 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models
+
+
 **Chatbots**
- * [WeChatRobot](https://github.com/lich0821/wechatrobot) - 微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。
+ * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
 
 
 **Browser-extensions**
- * [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
+ * [AI-Employe](https://github.com/vignshwarar/ai-employe) - Create browser automation as if you were teaching a human using GPT-4 Vision.
 
 
-**NLP**
- * [gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
- * [sgpt](https://github.com/muennighoff/sgpt) - SGPT: GPT Sentence Embeddings for Semantic Search
+**Tutorials**
+ * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - tensorflow를 사용하여 텍스트 전처리부터, Topic Models, BERT, GPT, LLM과 같은 최신 모델의 다운스트림 태스크들을 정리한 Deep Learning NLP 저장소입니다.
 
 
-**Langchain**
- * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
+**Openai**
+ * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - This repo offers a simple interface that helps you to read&summerize research papers in pdf format. You can ask some questions after reading. This interface is developed based on openai API and using GPT-3.5-turbo model.
 
 
-_Updated on February 19, 2024_ (A total of 1427 repositories listed.)
+**Others**
+ * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - GPT based autonomous agent designed to create personalized newspapers tailored to user preferences.
+
+
+_Updated on February 21, 2024_ (A total of 1433 repositories listed.)
 
 ## Table of contents
 
@@ -105,6 +112,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - Collection of papers and resources on Reasoning in Language Models (LLMs), including Chain-of-Thought (CoT), Instruction-Tuning, and Multimodality.
  * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
  * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
+ * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models
 
 
 ## Prompts
@@ -410,6 +418,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
  * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
  * [WeChatRobot](https://github.com/lich0821/wechatrobot) - 微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。
+ * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
 
 
 ## Browser-extensions
@@ -569,6 +578,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [neoai.nvim](https://github.com/bryley/neoai.nvim) - Neovim plugin for intracting with GPT models from OpenAI
  * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - 一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格 自定义/切换，聊天记忆等功能
  * [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
+ * [AI-Employe](https://github.com/vignshwarar/ai-employe) - Create browser automation as if you were teaching a human using GPT-4 Vision.
 
 
 ## CLIs
@@ -722,6 +732,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
+ * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - tensorflow를 사용하여 텍스트 전처리부터, Topic Models, BERT, GPT, LLM과 같은 최신 모델의 다운스트림 태스크들을 정리한 Deep Learning NLP 저장소입니다.
 
 
 ## NLP
@@ -1180,6 +1191,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - go version of tiktoken
  * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.
  * [hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
+ * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - This repo offers a simple interface that helps you to read&summerize research papers in pdf format. You can ask some questions after reading. This interface is developed based on openai API and using GPT-3.5-turbo model.
 
 
 ## Others
@@ -1533,5 +1545,6 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [GalTransl](https://github.com/cx2333-gt/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
  * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - Automate Creation of YouTube Shorts using MoviePy.
  * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with ChatGPT.
+ * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - GPT based autonomous agent designed to create personalized newspapers tailored to user preferences.
 
 

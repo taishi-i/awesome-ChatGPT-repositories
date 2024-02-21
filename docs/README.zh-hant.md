@@ -14,24 +14,31 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 強大的LLM-穩定性：大型語言模型中不確定性、可靠性和穩健性的精選列表
+
+
 **Chatbots**
- * [WeChatRobot](https://github.com/lich0821/wechatrobot) - 微信機器人，接入Google Bard、ChatGPT、ChatGLM、訊飛星火、Tigerbot；成語接龍、天氣預報、新聞摘要。
+ * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - 這個自動部落客使用GPT助手的API在電子商務網站上自動部落格。
 
 
 **Browser-extensions**
- * [vim-ai](https://github.com/madox2/vim-ai) - AI 助手為 Vim 提供代碼支援。OpenAI 和 ChatGPT 插件適用於 Vim 和 Neovim。
+ * [AI-Employe](https://github.com/vignshwarar/ai-employe) - 創建瀏覽器自動化，就像您在使用GPT-4 Vision教導人類一樣。
 
 
-**NLP**
- * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然語言編程
- * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT句子嵌入用於語義搜索
+**Tutorials**
+ * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - 使用tensorflow進行文本預處理，整理最新模型的下游任務，如主題模型、BERT、GPT、LLM等的Deep Learning NLP存儲庫。
 
 
-**Langchain**
- * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT風格的Ollama網頁用戶界面（原名Ollama WebUI）
+**Openai**
+ * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - 這個存儲庫提供了一個簡單的界面，幫助您閱讀和總結 PDF 格式的研究論文。閱讀後，您可以提出一些問題。該界面是基於 openai API 開發的，並使用 GPT-3.5-turbo 模型。
 
 
-_Updated on February 19, 2024_ (A total of 1427 repositories listed.)
+**Others**
+ * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - 基於GPT的自主代理設計，旨在創建根據用戶偏好定制的個性化報紙。
+
+
+_Updated on February 21, 2024_ (A total of 1433 repositories listed.)
 
 ## Table of contents
 
@@ -105,6 +112,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - 關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。關於語言模型（LLMs）推理的論文和資源集合，包括思維鏈（CoT）、指令調整和多模態。
  * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀一系列關於大型語言模型、視覺基礎模型和人工智能生成內容的精彩公共項目的集合。
  * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - 從GPTs Store中排名靠前的GPTs中精心挑選的聊天GPT提示列表。
+ * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 強大的LLM-穩定性：大型語言模型中不確定性、可靠性和穩健性的精選列表
 
 
 ## Prompts
@@ -410,6 +418,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [maid](https://github.com/mobile-artificial-intelligence/maid) - Maid 是一個跨平台的 Flutter 應用程式，用於本地與 GGUF / llama.cpp 模型進行接口，並與 Ollama 和 OpenAI 模型進行遠程接口。
  * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - 使用您的數據進行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。
  * [WeChatRobot](https://github.com/lich0821/wechatrobot) - 微信機器人，接入Google Bard、ChatGPT、ChatGLM、訊飛星火、Tigerbot；成語接龍、天氣預報、新聞摘要。
+ * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - 這個自動部落客使用GPT助手的API在電子商務網站上自動部落格。
 
 
 ## Browser-extensions
@@ -569,6 +578,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [neoai.nvim](https://github.com/bryley/neoai.nvim) - Neovim 插件，用於與 OpenAI 的 GPT 模型進行互動。
  * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - 一個基於NoneBot框架的Ai聊天插件，對接OpenAi文本生成接口，實現了機器人的人格自定義/切換，聊天記憶等功能。
  * [vim-ai](https://github.com/madox2/vim-ai) - AI 助手為 Vim 提供代碼支援。OpenAI 和 ChatGPT 插件適用於 Vim 和 Neovim。
+ * [AI-Employe](https://github.com/vignshwarar/ai-employe) - 創建瀏覽器自動化，就像您在使用GPT-4 Vision教導人類一樣。
 
 
 ## CLIs
@@ -722,6 +732,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python 實戰教程，包含50+個Python應用程式（10行代碼）@xiaowuc2
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度學習教程》，PDF下載地址：https://github.com/datawhalechina/leedl-tutorial/releases
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 通過例子學習 eBPF | eBPF 開發者教程與知識庫：通過小工具和示例一步步學習 eBPF，包含性能、網絡、安全等多種應用場景
+ * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - 使用tensorflow進行文本預處理，整理最新模型的下游任務，如主題模型、BERT、GPT、LLM等的Deep Learning NLP存儲庫。
 
 
 ## NLP
@@ -1180,6 +1191,7 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - tiktoken 的 Go 版本
  * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy 是為中國用戶提供的解決方案，用於解決無法向 OpenAI API 發送請求的問題。
  * [hello-ai](https://github.com/xxxily/hello-ai) - 搶走你工作的不是AI，而是掌握使用AI工具的人。降維打擊最為致命：毀滅你，與你何干《三體》
+ * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - 這個存儲庫提供了一個簡單的界面，幫助您閱讀和總結 PDF 格式的研究論文。閱讀後，您可以提出一些問題。該界面是基於 openai API 開發的，並使用 GPT-3.5-turbo 模型。
 
 
 ## Others
@@ -1533,5 +1545,6 @@ _Updated on February 19, 2024_ (A total of 1427 repositories listed.)
  * [GalTransl](https://github.com/cx2333-gt/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大型語言模型的Galgame自動化翻譯解決方案
  * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - 使用MoviePy自動創建YouTube Shorts。
  * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - 請將以下內容翻譯成繁體中文：Tampermonkey/Greasemonkey腳本，用於在與ChatGPT通信時隱藏審核結果。
+ * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - 基於GPT的自主代理設計，旨在創建根據用戶偏好定制的個性化報紙。
 
 
