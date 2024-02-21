@@ -1380,6 +1380,38 @@
                     "zh-hans": "GPTs商店中排名靠前的GPTs的精选聊天GPT提示列表。输出：",
                     "zh-hant": "從GPTs Store中排名靠前的GPTs中精心挑選的聊天GPT提示列表。"
                 }
+            },
+            "https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness": {
+                "repository_name": "Awesome-LLM-Uncertainty-Reliability-Robustness",
+                "user_name": "jxzhangjhu",
+                "language": null,
+                "license": "MIT License",
+                "description": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
+                "topics": [
+                    "awesome-list",
+                    "calibration",
+                    "chain-of-thought",
+                    "chatgpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "hallucination",
+                    "in-context-learning",
+                    "large-language-models",
+                    "llms",
+                    "prompt-engineering",
+                    "prompting",
+                    "reliability",
+                    "robustness",
+                    "safety",
+                    "uncertainty-estimation",
+                    "uncertainty-quantification"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models",
+                    "ja": "素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト",
+                    "zh-hans": "强大的LLM鲁棒性：大型语言模型中不确定性、可靠性和鲁棒性的精选列表",
+                    "zh-hant": "強大的LLM-穩定性：大型語言模型中不確定性、可靠性和穩健性的精選列表"
+                }
             }
         },
         "Prompts": {
@@ -8221,6 +8253,20 @@
                     "zh-hans": "微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。",
                     "zh-hant": "微信機器人，接入Google Bard、ChatGPT、ChatGLM、訊飛星火、Tigerbot；成語接龍、天氣預報、新聞摘要。"
                 }
+            },
+            "https://github.com/incomestreamsurfer/chatgptassistantautoblogger": {
+                "repository_name": "chatgptassistantautoblogger",
+                "user_name": "IncomeStreamSurfer",
+                "language": "Python",
+                "license": null,
+                "description": "This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites",
+                    "ja": "このオートブロガーは、GPTアシスタントのAPIを使用して、ECサイトでのオートブログを行います。",
+                    "zh-hans": "这个自动博客使用GPT助手的API在电子商务网站上自动博客",
+                    "zh-hant": "這個自動部落客使用GPT助手的API在電子商務網站上自動部落格。"
+                }
             }
         },
         "Browser-extensions": {
@@ -11645,6 +11691,27 @@
                     "zh-hans": "基于人工智能的Vim代码助手。Vim和Neovim的OpenAI和ChatGPT插件。",
                     "zh-hant": "AI 助手為 Vim 提供代碼支援。OpenAI 和 ChatGPT 插件適用於 Vim 和 Neovim。"
                 }
+            },
+            "https://github.com/vignshwarar/ai-employe": {
+                "repository_name": "AI-Employe",
+                "user_name": "vignshwarar",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Create browser automation as if you were teaching a human using GPT-4 Vision.",
+                "topics": [
+                    "automation",
+                    "automation-testing",
+                    "gpt-4",
+                    "multimodal",
+                    "productivity",
+                    "rpa"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create browser automation as if you were teaching a human using GPT-4 Vision.",
+                    "ja": "GPT-4 Visionを使用して人間に教えているかのようにブラウザ自動化を作成します。",
+                    "zh-hans": "使用GPT-4 Vision 创建浏览器自动化，就像教导人类一样。",
+                    "zh-hant": "創建瀏覽器自動化，就像您在使用GPT-4 Vision教導人類一樣。"
+                }
             }
         },
         "CLIs": {
@@ -14823,6 +14890,38 @@
                     "ja": "学习 eBPF 的例子 | eBPF 開発者チュートリアルとナレッジベース：パフォーマンス、ネットワーク、セキュリティなど、さまざまなアプリケーションシナリオを小道具と例を使って一歩ずつ学ぶ",
                     "zh-hans": "通过示例学习 eBPF | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景",
                     "zh-hant": "通過例子學習 eBPF | eBPF 開發者教程與知識庫：通過小工具和示例一步步學習 eBPF，包含性能、網絡、安全等多種應用場景"
+                }
+            },
+            "https://github.com/ukairia777/tensorflow-nlp-tutorial": {
+                "repository_name": "tensorflow-nlp-tutorial",
+                "user_name": "ukairia777",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "tensorflow를 사용하여 텍스트 전처리부터, Topic Models, BERT, GPT, LLM과 같은 최신 모델의 다운스트림 태스크들을 정리한 Deep Learning NLP 저장소입니다.",
+                "topics": [
+                    "bert",
+                    "bert-ner",
+                    "dpo",
+                    "huggingface",
+                    "keras-tutorial",
+                    "llama",
+                    "llm",
+                    "lora",
+                    "named-entity-recognition",
+                    "natural-language-processing",
+                    "nlp",
+                    "nlp-tutorial",
+                    "question-answering",
+                    "sft",
+                    "tensorflow",
+                    "trainer",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This is a Deep Learning NLP repository that summarizes tasks such as text preprocessing, Topic Models, BERT, GPT, and LLM using tensorflow and other latest models.",
+                    "ja": "TensorFlowを使用してテキストの前処理から、Topic Models、BERT、GPT、LLMなどの最新モデルのダウンストリームタスクをまとめたDeep Learning NLPリポジトリです。",
+                    "zh-hans": "使用tensorflow进行文本预处理，整理了最新模型的下游任务，如主题模型、BERT、GPT、LLM等的Deep Learning NLP存储库。",
+                    "zh-hant": "使用tensorflow進行文本預處理，整理最新模型的下游任務，如主題模型、BERT、GPT、LLM等的Deep Learning NLP存儲庫。"
                 }
             }
         },
@@ -24391,6 +24490,20 @@
                     "zh-hans": "抢走你工作的不是AI，而是掌握使用AI工具的人。降维打击最为致命：毁灭你，与你何干《三体》",
                     "zh-hant": "搶走你工作的不是AI，而是掌握使用AI工具的人。降維打擊最為致命：毀滅你，與你何干《三體》"
                 }
+            },
+            "https://github.com/talkingwallace/chatgpt-paper-reader": {
+                "repository_name": "ChatGPT-Paper-Reader",
+                "user_name": "talkingwallace",
+                "language": "Python",
+                "license": null,
+                "description": "This repo offers a simple interface that helps you to read&summerize research papers in pdf format. You can ask some questions after reading. This interface is developed based on openai API and using GPT-3.5-turbo model. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This repo offers a simple interface that helps you to read&summerize research papers in pdf format. You can ask some questions after reading. This interface is developed based on openai API and using GPT-3.5-turbo model.",
+                    "ja": "このリポジトリは、PDF形式の研究論文を読んだり要約したりするのを手助けするシンプルなインターフェースを提供しています。読んだ後にいくつかの質問をすることができます。このインターフェースは、openai APIをベースに開発され、GPT-3.5-turboモデルを使用しています。",
+                    "zh-hans": "这个仓库提供了一个简单的界面，帮助您阅读和总结PDF格式的研究论文。阅读后您可以提出一些问题。这个界面是基于openai API开发的，使用了GPT-3.5-turbo模型。",
+                    "zh-hant": "這個存儲庫提供了一個簡單的界面，幫助您閱讀和總結 PDF 格式的研究論文。閱讀後，您可以提出一些問題。該界面是基於 openai API 開發的，並使用 GPT-3.5-turbo 模型。"
+                }
             }
         },
         "Others": {
@@ -31035,6 +31148,20 @@
                     "ja": "ChatGPTとの通信時にモデレーション結果を非表示にするTampermonkey/Greasemonkeyスクリプト。",
                     "zh-hans": "Tampermonkey/Greasemonkey脚本，用于在与ChatGPT通信时隐藏审查结果。输出：",
                     "zh-hant": "請將以下內容翻譯成繁體中文：Tampermonkey/Greasemonkey腳本，用於在與ChatGPT通信時隱藏審核結果。"
+                }
+            },
+            "https://github.com/rotemweiss57/gpt-newspaper": {
+                "repository_name": "gpt-newspaper",
+                "user_name": "rotemweiss57",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "GPT based autonomous agent designed to create personalized newspapers tailored to user preferences. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "GPT based autonomous agent designed to create personalized newspapers tailored to user preferences.",
+                    "ja": "ユーザーの好みに合わせてカスタマイズされた個人新聞を作成するために設計されたGPTベースの自律エージェント。",
+                    "zh-hans": "基于GPT的自主代理，旨在根据用户偏好创建个性化报纸。",
+                    "zh-hant": "基於GPT的自主代理設計，旨在創建根據用戶偏好定制的個性化報紙。"
                 }
             }
         }
