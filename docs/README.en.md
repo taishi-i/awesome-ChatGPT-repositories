@@ -15,30 +15,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models
+ * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 
 
 **Chatbots**
- * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
+ * [chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
+ * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - Intelligent WeChat Secretary, an all-in-one WeChat robot management platform, the easiest way to access ChatGPT, FastGPT, Dify knowledge base, support drawing, online query, voice recognition, various scheduled tasks, support enterprise WeChat, personal WeChat, public account, 5G messages, WhatsApp.
 
 
-**Browser-extensions**
- * [AI-Employe](https://github.com/vignshwarar/ai-employe) - Create browser automation as if you were teaching a human using GPT-4 Vision.
-
-
-**Tutorials**
- * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - This is a Deep Learning NLP repository that summarizes tasks such as text preprocessing, Topic Models, BERT, GPT, and LLM using tensorflow and other latest models.
+**NLP**
+ * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - something like visual-chatgpt, the open-source version of Wenxin Yiyuan
 
 
 **Openai**
- * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - This repo offers a simple interface that helps you to read&summerize research papers in pdf format. You can ask some questions after reading. This interface is developed based on openai API and using GPT-3.5-turbo model.
+ * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Create the best admin based on Vue3.2, Vite4.1, TypeScript, Vuetify3, Chat GPT,Firebase etc.
 
 
-**Others**
- * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - GPT based autonomous agent designed to create personalized newspapers tailored to user preferences.
-
-
-_Updated on February 21, 2024_ (A total of 1433 repositories listed.)
+_Updated on February 24, 2024_ (A total of 1438 repositories listed.)
 
 ## Table of contents
 
@@ -113,6 +106,7 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some awesome public projects about Large Language Model, Vision Foundation Model and AI Generated Content.
  * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
  * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models
+ * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 
 
 ## Prompts
@@ -419,6 +413,8 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
  * [WeChatRobot](https://github.com/lich0821/wechatrobot) - WeChat robot, access Google Bard, ChatGPT, ChatGLM, iFlytek Xinghuo, Tigerbot; idiom solitaire, weather forecast, news summary.
  * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites
+ * [chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
+ * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - Intelligent WeChat Secretary, an all-in-one WeChat robot management platform, the easiest way to access ChatGPT, FastGPT, Dify knowledge base, support drawing, online query, voice recognition, various scheduled tasks, support enterprise WeChat, personal WeChat, public account, 5G messages, WhatsApp.
 
 
 ## Browser-extensions
@@ -943,6 +939,7 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [StreamRAG](https://github.com/video-db/streamrag) - Video Search and Streaming Agent 🕵️‍♂️
  * [gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
  * [sgpt](https://github.com/muennighoff/sgpt) - SGPT: GPT Sentence Embeddings for Semantic Search
+ * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - something like visual-chatgpt, the open-source version of Wenxin Yiyuan
 
 
 ## Langchain
@@ -1192,6 +1189,7 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy is a solution provided for Chinese users to address the issue of being unable to make requests to the OpenAI API.
  * [hello-ai](https://github.com/xxxily/hello-ai) - It is not AI that takes away your job, but the people who master the use of AI tools. The most deadly blow is to destroy you, what does it have to do with you "The Three-Body Problem".
  * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - This repo offers a simple interface that helps you to read&summerize research papers in pdf format. You can ask some questions after reading. This interface is developed based on openai API and using GPT-3.5-turbo model.
+ * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Create the best admin based on Vue3.2, Vite4.1, TypeScript, Vuetify3, Chat GPT,Firebase etc.
 
 
 ## Others

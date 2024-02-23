@@ -15,30 +15,23 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 強大的LLM-穩定性：大型語言模型中不確定性、可靠性和穩健性的精選列表
+ * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - 從GPTs Store中排名前列的GPTs中精心挑選的聊天GPT提示列表。提示工程，提示攻擊和提示保護。高級提示工程論文。
 
 
 **Chatbots**
- * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - 這個自動部落客使用GPT助手的API在電子商務網站上自動部落格。
+ * [chaty](https://github.com/cosin2077/chaty) - 一行代碼，滿足您所有ChatGPT的想像✨✨✨
+ * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘書，一個全能的微信機器人管理平台，最簡單的方式接入 ChatGPT，FastGPT，Dify知識庫，支持繪圖，聯網查詢，語音識別，各種定時任務，支持企微、個微、公眾號、5G 消息、WhatsApp
 
 
-**Browser-extensions**
- * [AI-Employe](https://github.com/vignshwarar/ai-employe) - 創建瀏覽器自動化，就像您在使用GPT-4 Vision教導人類一樣。
-
-
-**Tutorials**
- * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - 使用tensorflow進行文本預處理，整理最新模型的下游任務，如主題模型、BERT、GPT、LLM等的Deep Learning NLP存儲庫。
+**NLP**
+ * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 類似視覺聊天GPT的東西，文心一言的開源版
 
 
 **Openai**
- * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - 這個存儲庫提供了一個簡單的界面，幫助您閱讀和總結 PDF 格式的研究論文。閱讀後，您可以提出一些問題。該界面是基於 openai API 開發的，並使用 GPT-3.5-turbo 模型。
+ * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - 根據Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等創建最佳管理員。
 
 
-**Others**
- * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - 基於GPT的自主代理設計，旨在創建根據用戶偏好定制的個性化報紙。
-
-
-_Updated on February 21, 2024_ (A total of 1433 repositories listed.)
+_Updated on February 24, 2024_ (A total of 1438 repositories listed.)
 
 ## Table of contents
 
@@ -113,6 +106,7 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀一系列關於大型語言模型、視覺基礎模型和人工智能生成內容的精彩公共項目的集合。
  * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - 從GPTs Store中排名靠前的GPTs中精心挑選的聊天GPT提示列表。
  * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 強大的LLM-穩定性：大型語言模型中不確定性、可靠性和穩健性的精選列表
+ * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - 從GPTs Store中排名前列的GPTs中精心挑選的聊天GPT提示列表。提示工程，提示攻擊和提示保護。高級提示工程論文。
 
 
 ## Prompts
@@ -419,6 +413,8 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - 使用您的數據進行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使數據分析變得對話式。
  * [WeChatRobot](https://github.com/lich0821/wechatrobot) - 微信機器人，接入Google Bard、ChatGPT、ChatGLM、訊飛星火、Tigerbot；成語接龍、天氣預報、新聞摘要。
  * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - 這個自動部落客使用GPT助手的API在電子商務網站上自動部落格。
+ * [chaty](https://github.com/cosin2077/chaty) - 一行代碼，滿足您所有ChatGPT的想像✨✨✨
+ * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘書，一個全能的微信機器人管理平台，最簡單的方式接入 ChatGPT，FastGPT，Dify知識庫，支持繪圖，聯網查詢，語音識別，各種定時任務，支持企微、個微、公眾號、5G 消息、WhatsApp
 
 
 ## Browser-extensions
@@ -943,6 +939,7 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [StreamRAG](https://github.com/video-db/streamrag) - 視頻搜索和串流代理 🕵️‍♂️
  * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然語言編程
  * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT句子嵌入用於語義搜索
+ * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 類似視覺聊天GPT的東西，文心一言的開源版
 
 
 ## Langchain
@@ -1192,6 +1189,7 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxy 是為中國用戶提供的解決方案，用於解決無法向 OpenAI API 發送請求的問題。
  * [hello-ai](https://github.com/xxxily/hello-ai) - 搶走你工作的不是AI，而是掌握使用AI工具的人。降維打擊最為致命：毀滅你，與你何干《三體》
  * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - 這個存儲庫提供了一個簡單的界面，幫助您閱讀和總結 PDF 格式的研究論文。閱讀後，您可以提出一些問題。該界面是基於 openai API 開發的，並使用 GPT-3.5-turbo 模型。
+ * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - 根據Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等創建最佳管理員。
 
 
 ## Others
