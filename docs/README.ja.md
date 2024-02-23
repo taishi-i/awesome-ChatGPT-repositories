@@ -15,30 +15,23 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト
+ * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - GPTストアのトップ評価を受けたGPTからのチャットGPTプロンプトのキュレーションリスト。プロンプトエンジニアリング、プロンプト攻撃＆プロンプト保護。高度なプロンプトエンジニアリング論文。
 
 
 **Chatbots**
- * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - このオートブロガーは、GPTアシスタントのAPIを使用して、ECサイトでのオートブログを行います。
+ * [chaty](https://github.com/cosin2077/chaty) - 1行のコード、すべてのChatGPTの想像力に満足✨✨✨
+ * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 知能ウェイシュ，オールインワンのWeChatボット管理プラットフォーム、ChatGPT、FastGPT、Difyナレッジベースに最も簡単な方法でアクセスできます。図形描画、オンライン検索、音声認識、さまざまなタイマータスクをサポートし、企業WeChat、個人WeChat、公式アカウント、5Gメッセージ、WhatsAppをサポートします。
 
 
-**Browser-extensions**
- * [AI-Employe](https://github.com/vignshwarar/ai-employe) - GPT-4 Visionを使用して人間に教えているかのようにブラウザ自動化を作成します。
-
-
-**Tutorials**
- * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - TensorFlowを使用してテキストの前処理から、Topic Models、BERT、GPT、LLMなどの最新モデルのダウンストリームタスクをまとめたDeep Learning NLPリポジトリです。
+**NLP**
+ * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 何かビジュアルチャットGPTのようなもの、文心一言のオープンソース版
 
 
 **Openai**
- * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - このリポジトリは、PDF形式の研究論文を読んだり要約したりするのを手助けするシンプルなインターフェースを提供しています。読んだ後にいくつかの質問をすることができます。このインターフェースは、openai APIをベースに開発され、GPT-3.5-turboモデルを使用しています。
+ * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebaseなどを基に最高の管理者を作成してください。
 
 
-**Others**
- * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - ユーザーの好みに合わせてカスタマイズされた個人新聞を作成するために設計されたGPTベースの自律エージェント。
-
-
-_Updated on February 21, 2024_ (A total of 1433 repositories listed.)
+_Updated on February 24, 2024_ (A total of 1438 repositories listed.)
 
 ## Table of contents
 
@@ -113,6 +106,7 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル、ビジョン基盤モデル、AI生成コンテンツに関する素晴らしいパブリックプロジェクトのコレクションです。
  * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - GPTストアのトップ評価GPTからのチャットGPTプロンプトの厳選リスト。
  * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト
+ * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - GPTストアのトップ評価を受けたGPTからのチャットGPTプロンプトのキュレーションリスト。プロンプトエンジニアリング、プロンプト攻撃＆プロンプト保護。高度なプロンプトエンジニアリング論文。
 
 
 ## Prompts
@@ -419,6 +413,8 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - データとのチャット（SQL、CSV、pandas、polars、noSQLなど）。PandasAIは、LLMs（GPT 3.5 / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
  * [WeChatRobot](https://github.com/lich0821/wechatrobot) - WeChatボット、Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbotに接続します。四字熟語ゲーム、天気予報、ニュースの要約。
  * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - このオートブロガーは、GPTアシスタントのAPIを使用して、ECサイトでのオートブログを行います。
+ * [chaty](https://github.com/cosin2077/chaty) - 1行のコード、すべてのChatGPTの想像力に満足✨✨✨
+ * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 知能ウェイシュ，オールインワンのWeChatボット管理プラットフォーム、ChatGPT、FastGPT、Difyナレッジベースに最も簡単な方法でアクセスできます。図形描画、オンライン検索、音声認識、さまざまなタイマータスクをサポートし、企業WeChat、個人WeChat、公式アカウント、5Gメッセージ、WhatsAppをサポートします。
 
 
 ## Browser-extensions
@@ -943,6 +939,7 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [StreamRAG](https://github.com/video-db/streamrag) - ビデオ検索とストリーミングエージェント 🕵️‍♂️
  * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然言語プログラミング
  * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT文埋め込みによる意味検索SGPT：GPT文埋め込みによる意味検索
+ * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 何かビジュアルチャットGPTのようなもの、文心一言のオープンソース版
 
 
 ## Langchain
@@ -1192,6 +1189,7 @@ _Updated on February 21, 2024_ (A total of 1433 repositories listed.)
  * [openai-proxy](https://github.com/unickcheng/openai-proxy) - openai-proxyは、OpenAI APIへのリクエストができないという問題を解決するために、中国のユーザー向けに提供されるソリューションです。
  * [hello-ai](https://github.com/xxxily/hello-ai) - 仕事を奪うのはAIではなく、AIツールの使用をマスターする人です。次元の低下は最も致命的です：あなたを破壊し、あなたに何の関係もありません。《三体》
  * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - このリポジトリは、PDF形式の研究論文を読んだり要約したりするのを手助けするシンプルなインターフェースを提供しています。読んだ後にいくつかの質問をすることができます。このインターフェースは、openai APIをベースに開発され、GPT-3.5-turboモデルを使用しています。
+ * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebaseなどを基に最高の管理者を作成してください。
 
 
 ## Others

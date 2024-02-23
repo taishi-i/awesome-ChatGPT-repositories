@@ -1412,6 +1412,30 @@
                     "zh-hans": "强大的LLM鲁棒性：大型语言模型中不确定性、可靠性和鲁棒性的精选列表",
                     "zh-hant": "強大的LLM-穩定性：大型語言模型中不確定性、可靠性和穩健性的精選列表"
                 }
+            },
+            "https://github.com/ai-boost/awesome-prompts": {
+                "repository_name": "awesome-prompts",
+                "user_name": "ai-boost",
+                "language": null,
+                "license": "GNU General Public License v3.0",
+                "description": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "gpt4",
+                    "gpts",
+                    "gptstore",
+                    "papers",
+                    "prompt",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.",
+                    "ja": "GPTストアのトップ評価を受けたGPTからのチャットGPTプロンプトのキュレーションリスト。プロンプトエンジニアリング、プロンプト攻撃＆プロンプト保護。高度なプロンプトエンジニアリング論文。",
+                    "zh-hans": "精心策划的聊天GPT提示列表，来自GPT商店中排名靠前的GPT。提示工程，提示攻击和提示保护。高级提示工程论文。",
+                    "zh-hant": "從GPTs Store中排名前列的GPTs中精心挑選的聊天GPT提示列表。提示工程，提示攻擊和提示保護。高級提示工程論文。"
+                }
             }
         },
         "Prompts": {
@@ -8266,6 +8290,47 @@
                     "ja": "このオートブロガーは、GPTアシスタントのAPIを使用して、ECサイトでのオートブログを行います。",
                     "zh-hans": "这个自动博客使用GPT助手的API在电子商务网站上自动博客",
                     "zh-hant": "這個自動部落客使用GPT助手的API在電子商務網站上自動部落格。"
+                }
+            },
+            "https://github.com/cosin2077/chaty": {
+                "repository_name": "chaty",
+                "user_name": "cosin2077",
+                "language": "TypeScript",
+                "license": null,
+                "description": "one line code, satisfied all your ChatGPT imagination✨✨✨",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt3",
+                    "nodejs",
+                    "typescript",
+                    "wechat"
+                ],
+                "multilingual_descriptions": {
+                    "en": "one line code, satisfied all your ChatGPT imagination✨✨✨",
+                    "ja": "1行のコード、すべてのChatGPTの想像力に満足✨✨✨",
+                    "zh-hans": "一行代码，满足你所有的ChatGPT想象✨✨✨",
+                    "zh-hant": "一行代碼，滿足您所有ChatGPT的想像✨✨✨"
+                }
+            },
+            "https://github.com/leochen-g/wechat-assistant-pro": {
+                "repository_name": "wechat-assistant-pro",
+                "user_name": "leochen-g",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp",
+                "topics": [
+                    "chatrobot",
+                    "wechat",
+                    "wechatbot",
+                    "wechaty",
+                    "whatsapp-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Intelligent WeChat Secretary, an all-in-one WeChat robot management platform, the easiest way to access ChatGPT, FastGPT, Dify knowledge base, support drawing, online query, voice recognition, various scheduled tasks, support enterprise WeChat, personal WeChat, public account, 5G messages, WhatsApp.",
+                    "ja": "知能ウェイシュ，オールインワンのWeChatボット管理プラットフォーム、ChatGPT、FastGPT、Difyナレッジベースに最も簡単な方法でアクセスできます。図形描画、オンライン検索、音声認識、さまざまなタイマータスクをサポートし、企業WeChat、個人WeChat、公式アカウント、5Gメッセージ、WhatsAppをサポートします。",
+                    "zh-hans": "智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp。",
+                    "zh-hant": "智能微秘書，一個全能的微信機器人管理平台，最簡單的方式接入 ChatGPT，FastGPT，Dify知識庫，支持繪圖，聯網查詢，語音識別，各種定時任務，支持企微、個微、公眾號、5G 消息、WhatsApp"
                 }
             }
         },
@@ -19250,6 +19315,20 @@
                     "zh-hans": "SGPT：GPT句子嵌入用于语义搜索",
                     "zh-hant": "SGPT：GPT句子嵌入用於語義搜索"
                 }
+            },
+            "https://github.com/visual-openllm/visual-openllm": {
+                "repository_name": "visual-openllm",
+                "user_name": "visual-openllm",
+                "language": "Python",
+                "license": null,
+                "description": "something like visual-chatgpt, 文心一言的开源版",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "something like visual-chatgpt, the open-source version of Wenxin Yiyuan",
+                    "ja": "何かビジュアルチャットGPTのようなもの、文心一言のオープンソース版",
+                    "zh-hans": "类似视觉聊天GPT的开源版本，文心一言",
+                    "zh-hant": "類似視覺聊天GPT的東西，文心一言的開源版"
+                }
             }
         },
         "Langchain": {
@@ -24503,6 +24582,33 @@
                     "ja": "このリポジトリは、PDF形式の研究論文を読んだり要約したりするのを手助けするシンプルなインターフェースを提供しています。読んだ後にいくつかの質問をすることができます。このインターフェースは、openai APIをベースに開発され、GPT-3.5-turboモデルを使用しています。",
                     "zh-hans": "这个仓库提供了一个简单的界面，帮助您阅读和总结PDF格式的研究论文。阅读后您可以提出一些问题。这个界面是基于openai API开发的，使用了GPT-3.5-turbo模型。",
                     "zh-hant": "這個存儲庫提供了一個簡單的界面，幫助您閱讀和總結 PDF 格式的研究論文。閱讀後，您可以提出一些問題。該界面是基於 openai API 開發的，並使用 GPT-3.5-turbo 模型。"
+                }
+            },
+            "https://github.com/yangjiakai/lux-admin-vuetify3": {
+                "repository_name": "lux-admin-vuetify3",
+                "user_name": "yangjiakai",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "Create the best admin based on Vue3.2, Vite4.1, TypeScript, Vuetify3, Chat GPT,Firebase etc.",
+                "topics": [
+                    "chatgpt",
+                    "firebase",
+                    "firebase-auth",
+                    "markdown",
+                    "mockjs",
+                    "openai",
+                    "pinia",
+                    "typscript",
+                    "vite",
+                    "vue3",
+                    "vuetify",
+                    "vuetify3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create the best admin based on Vue3.2, Vite4.1, TypeScript, Vuetify3, Chat GPT,Firebase etc.",
+                    "ja": "Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebaseなどを基に最高の管理者を作成してください。",
+                    "zh-hans": "基于Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等创建最佳管理员。",
+                    "zh-hant": "根據Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等創建最佳管理員。"
                 }
             }
         },
