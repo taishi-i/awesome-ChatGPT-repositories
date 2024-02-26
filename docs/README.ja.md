@@ -14,24 +14,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - GPTストアのトップ評価を受けたGPTからのチャットGPTプロンプトのキュレーションリスト。プロンプトエンジニアリング、プロンプト攻撃＆プロンプト保護。高度なプロンプトエンジニアリング論文。
-
-
-**Chatbots**
- * [chaty](https://github.com/cosin2077/chaty) - 1行のコード、すべてのChatGPTの想像力に満足✨✨✨
- * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 知能ウェイシュ，オールインワンのWeChatボット管理プラットフォーム、ChatGPT、FastGPT、Difyナレッジベースに最も簡単な方法でアクセスできます。図形描画、オンライン検索、音声認識、さまざまなタイマータスクをサポートし、企業WeChat、個人WeChat、公式アカウント、5Gメッセージ、WhatsAppをサポートします。
+**Reimplementations**
+ * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。
 
 
 **NLP**
- * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 何かビジュアルチャットGPTのようなもの、文心一言のオープンソース版
+ * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathomは、オープンソースで再現可能なLLM評価スイートであり、10以上の主要なオープンソースおよびクローズドソースのLLM、さらにはOpenAIの以前のモデルを20以上の厳選されたベンチマークで比較評価するためのものです。
+
+
+**Langchain**
+ * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT（关怀GPT）は、医療向けの大規模言語モデルであり、数十の公開データセットとオープンソースの医療大規模言語モデルを組み合わせています。LLMのトレーニング、評価、展開などを含む医療LLMの迅速な発展を促進するために使用されています。Medical LLM、健康な未来のためのオープンソース。
 
 
 **Openai**
- * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebaseなどを基に最高の管理者を作成してください。
+ * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAIのGPT-2 / GPT-3 / GPT-4。OpenAIのtiktokenのポートに追加機能を備えています。
 
 
-_Updated on February 24, 2024_ (A total of 1438 repositories listed.)
+**Others**
+ * [CoGPT](https://github.com/geniucker/cogpt) - ん〜CopilotかGPTか？誰にもわからない。Copilotを介してgpt-4にアクセスしてみて。
+
+
+_Updated on February 27, 2024_ (A total of 1443 repositories listed.)
 
 ## Table of contents
 
@@ -714,6 +717,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。
  * [vall-e](https://github.com/lifeiteng/vall-e) - VALL-E（ゼロショットテキストから音声へ）のPyTorch実装、再現されたデモ https://lifeiteng.github.io/valle/index.html
  * [textgen](https://github.com/shibing624/textgen) - テキスト生成モデルの実装で、LLaMA、BLOOM、GPT2、BART、T5、SongNetなどを含みます。これらのモデルのトレーニングと予測を実現し、すぐに使用できます。
+ * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。
 
 
 ## Tutorials
@@ -940,6 +944,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然言語プログラミング
  * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT文埋め込みによる意味検索SGPT：GPT文埋め込みによる意味検索
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 何かビジュアルチャットGPTのようなもの、文心一言のオープンソース版
+ * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathomは、オープンソースで再現可能なLLM評価スイートであり、10以上の主要なオープンソースおよびクローズドソースのLLM、さらにはOpenAIの以前のモデルを20以上の厳選されたベンチマークで比較評価するためのものです。
 
 
 ## Langchain
@@ -1025,6 +1030,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [kani](https://github.com/zhudotexe/kani) - kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）
  * [PIXIU](https://github.com/chancefocus/pixiu) - このリポジトリでは、初の金融向け大規模言語モデル（LLM）、調整データ、評価基準を紹介するオープンソースのリソース「PIXIU」を紹介しています。私たちの目標は、金融LLMを包括的に評価するために、常に前進し続けることです。
  * [open-webui](https://github.com/open-webui/open-webui) - Ollama用のChatGPTスタイルWebUI（以前のOllama WebUI）Ollama用ChatGPTスタイルWebUI（以前のOllama WebUI）
+ * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT（关怀GPT）は、医療向けの大規模言語モデルであり、数十の公開データセットとオープンソースの医療大規模言語モデルを組み合わせています。LLMのトレーニング、評価、展開などを含む医療LLMの迅速な発展を促進するために使用されています。Medical LLM、健康な未来のためのオープンソース。
 
 
 ## Unity
@@ -1190,6 +1196,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [hello-ai](https://github.com/xxxily/hello-ai) - 仕事を奪うのはAIではなく、AIツールの使用をマスターする人です。次元の低下は最も致命的です：あなたを破壊し、あなたに何の関係もありません。《三体》
  * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - このリポジトリは、PDF形式の研究論文を読んだり要約したりするのを手助けするシンプルなインターフェースを提供しています。読んだ後にいくつかの質問をすることができます。このインターフェースは、openai APIをベースに開発され、GPT-3.5-turboモデルを使用しています。
  * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebaseなどを基に最高の管理者を作成してください。
+ * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAIのGPT-2 / GPT-3 / GPT-4。OpenAIのtiktokenのポートに追加機能を備えています。
 
 
 ## Others
@@ -1544,5 +1551,6 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - MoviePyを使用してYouTube Shortsの作成を自動化します。
  * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - ChatGPTとの通信時にモデレーション結果を非表示にするTampermonkey/Greasemonkeyスクリプト。
  * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - ユーザーの好みに合わせてカスタマイズされた個人新聞を作成するために設計されたGPTベースの自律エージェント。
+ * [CoGPT](https://github.com/geniucker/cogpt) - ん〜CopilotかGPTか？誰にもわからない。Copilotを介してgpt-4にアクセスしてみて。
 
 

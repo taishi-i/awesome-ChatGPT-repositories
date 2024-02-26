@@ -14,24 +14,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - 精心策划的聊天GPT提示列表，来自GPT商店中排名靠前的GPT。提示工程，提示攻击和提示保护。高级提示工程论文。
-
-
-**Chatbots**
- * [chaty](https://github.com/cosin2077/chaty) - 一行代码，满足你所有的ChatGPT想象✨✨✨
- * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp。
+**Reimplementations**
+ * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - 使用PyTorch实现Google LaMDA的开源预训练模型。添加类似于ChatGPT的RLHF。
 
 
 **NLP**
- * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 类似视觉聊天GPT的开源版本，文心一言
+ * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom是一个开源且可重现的LLM评估套件，对10多个领先的开源和闭源LLM以及OpenAI早期模型在20多个精心策划的基准测试下进行基准测试。
+
+
+**Langchain**
+ * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。医疗LLM，开源驱动，助力健康未来。
 
 
 **Openai**
- * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - 基于Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等创建最佳管理员。
+ * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer编码器解码器适用于OpenAI的GPT-2 / GPT-3 / GPT-4。具有额外功能的OpenAI的tiktoken端口。
 
 
-_Updated on February 24, 2024_ (A total of 1438 repositories listed.)
+**Others**
+ * [CoGPT](https://github.com/geniucker/cogpt) - 嗯，副驾驶员还是GPT？谁知道呢。通过副驾驶员访问gpt-4。
+
+
+_Updated on February 27, 2024_ (A total of 1443 repositories listed.)
 
 ## Table of contents
 
@@ -714,6 +717,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAI的文档。调查、复制和领域/任务适应开源chatgpt替代品/实现。PiXiu-貔貅意味着财富。
  * [vall-e](https://github.com/lifeiteng/vall-e) - VALL-E（零样本文本到语音）的PyTorch实现，复现演示https://lifeiteng.github.io/valle/index.html
  * [textgen](https://github.com/shibing624/textgen) - 文本生成模型，包括LLaMA、BLOOM、GPT2、BART、T5、SongNet等的实现。可以进行训练和预测，方便使用。
+ * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - 使用PyTorch实现Google LaMDA的开源预训练模型。添加类似于ChatGPT的RLHF。
 
 
 ## Tutorials
@@ -940,6 +944,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然语言编程
  * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT句子嵌入用于语义搜索
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 类似视觉聊天GPT的开源版本，文心一言
+ * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom是一个开源且可重现的LLM评估套件，对10多个领先的开源和闭源LLM以及OpenAI早期模型在20多个精心策划的基准测试下进行基准测试。
 
 
 ## Langchain
@@ -1025,6 +1030,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [kani](https://github.com/zhudotexe/kani) - kani（カニ）是一个高度可定制的微框架，用于基于聊天的语言模型和工具使用/函数调用。（NLP-OSS @ EMNLP 2023）
  * [PIXIU](https://github.com/chancefocus/pixiu) - 这个仓库介绍了PIXIU，一个开源资源，提供了第一个金融大型语言模型（LLMs），指令调整数据和评估基准，以全面评估金融LLMs。我们的目标是不断推动开放。
  * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT风格的Ollama WebUI（原Ollama WebUI）
+ * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。医疗LLM，开源驱动，助力健康未来。
 
 
 ## Unity
@@ -1190,6 +1196,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。降维打击最为致命：毁灭你，与你何干《三体》
  * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - 这个仓库提供了一个简单的界面，帮助您阅读和总结PDF格式的研究论文。阅读后您可以提出一些问题。这个界面是基于openai API开发的，使用了GPT-3.5-turbo模型。
  * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - 基于Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等创建最佳管理员。
+ * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer编码器解码器适用于OpenAI的GPT-2 / GPT-3 / GPT-4。具有额外功能的OpenAI的tiktoken端口。
 
 
 ## Others
@@ -1544,5 +1551,6 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - 使用MoviePy自动创建YouTube Shorts。
  * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - Tampermonkey/Greasemonkey脚本，用于在与ChatGPT通信时隐藏审查结果。输出：
  * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - 基于GPT的自主代理，旨在根据用户偏好创建个性化报纸。
+ * [CoGPT](https://github.com/geniucker/cogpt) - 嗯，副驾驶员还是GPT？谁知道呢。通过副驾驶员访问gpt-4。
 
 

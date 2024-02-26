@@ -14,24 +14,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - 從GPTs Store中排名前列的GPTs中精心挑選的聊天GPT提示列表。提示工程，提示攻擊和提示保護。高級提示工程論文。
-
-
-**Chatbots**
- * [chaty](https://github.com/cosin2077/chaty) - 一行代碼，滿足您所有ChatGPT的想像✨✨✨
- * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘書，一個全能的微信機器人管理平台，最簡單的方式接入 ChatGPT，FastGPT，Dify知識庫，支持繪圖，聯網查詢，語音識別，各種定時任務，支持企微、個微、公眾號、5G 消息、WhatsApp
+**Reimplementations**
+ * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。
 
 
 **NLP**
- * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 類似視覺聊天GPT的東西，文心一言的開源版
+ * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom 是一個開源且可重現的LLM評估套件，對10多個領先的開源和封閉源LLM以及OpenAI早期模型在20多個經過整理的基準測試下進行基準測試。
+
+
+**Langchain**
+ * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (關懷GPT)是一個醫療大語言模型，同時它集合了數十個公開可用的醫療微調數據集和開放可用的醫療大語言模型，包含LLM的訓練、測評、部署等以促進醫療LLM快速發展。醫療LLM，開源驅動，為健康未來。
 
 
 **Openai**
- * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - 根據Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等創建最佳管理員。
+ * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer 編碼器解碼器，用於 OpenAI 的 GPT-2 / GPT-3 / GPT-4。具有額外功能的 OpenAI tiktoken 的移植版本。
 
 
-_Updated on February 24, 2024_ (A total of 1438 repositories listed.)
+**Others**
+ * [CoGPT](https://github.com/geniucker/cogpt) - 嗯，Copilot還是GPT？誰知道呢。通過Copilot獲取對gpt-4的訪問。
+
+
+_Updated on February 27, 2024_ (A total of 1443 repositories listed.)
 
 ## Table of contents
 
@@ -714,6 +717,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ChatPiXiu：OpenLLMAI的文件。調查、複製和領域/任務適應開源chatgpt替代方案/實現。PiXiu-貔貅意味著財富。
  * [vall-e](https://github.com/lifeiteng/vall-e) - 請將以下內容翻譯成繁體中文。VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://lifeiteng.github.io/valle/index.html
  * [textgen](https://github.com/shibing624/textgen) - TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。
+ * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。
 
 
 ## Tutorials
@@ -940,6 +944,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [gptscript](https://github.com/gptscript-ai/gptscript) - 自然語言編程
  * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT句子嵌入用於語義搜索
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 類似視覺聊天GPT的東西，文心一言的開源版
+ * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom 是一個開源且可重現的LLM評估套件，對10多個領先的開源和封閉源LLM以及OpenAI早期模型在20多個經過整理的基準測試下進行基準測試。
 
 
 ## Langchain
@@ -1025,6 +1030,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [kani](https://github.com/zhudotexe/kani) - kani（カニ）是一個高度可修改的微框架，用於基於聊天的語言模型，具有工具使用/函數調用功能。（NLP-OSS @ EMNLP 2023）
  * [PIXIU](https://github.com/chancefocus/pixiu) - 這個儲存庫介紹了PIXIU，一個開源資源，其中包含了第一個金融大型語言模型（LLMs），指令調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
  * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT風格的Ollama網頁用戶界面（原名Ollama WebUI）
+ * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (關懷GPT)是一個醫療大語言模型，同時它集合了數十個公開可用的醫療微調數據集和開放可用的醫療大語言模型，包含LLM的訓練、測評、部署等以促進醫療LLM快速發展。醫療LLM，開源驅動，為健康未來。
 
 
 ## Unity
@@ -1190,6 +1196,7 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [hello-ai](https://github.com/xxxily/hello-ai) - 搶走你工作的不是AI，而是掌握使用AI工具的人。降維打擊最為致命：毀滅你，與你何干《三體》
  * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - 這個存儲庫提供了一個簡單的界面，幫助您閱讀和總結 PDF 格式的研究論文。閱讀後，您可以提出一些問題。該界面是基於 openai API 開發的，並使用 GPT-3.5-turbo 模型。
  * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - 根據Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等創建最佳管理員。
+ * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer 編碼器解碼器，用於 OpenAI 的 GPT-2 / GPT-3 / GPT-4。具有額外功能的 OpenAI tiktoken 的移植版本。
 
 
 ## Others
@@ -1544,5 +1551,6 @@ _Updated on February 24, 2024_ (A total of 1438 repositories listed.)
  * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - 使用MoviePy自動創建YouTube Shorts。
  * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - 請將以下內容翻譯成繁體中文：Tampermonkey/Greasemonkey腳本，用於在與ChatGPT通信時隱藏審核結果。
  * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - 基於GPT的自主代理設計，旨在創建根據用戶偏好定制的個性化報紙。
+ * [CoGPT](https://github.com/geniucker/cogpt) - 嗯，Copilot還是GPT？誰知道呢。通過Copilot獲取對gpt-4的訪問。
 
 

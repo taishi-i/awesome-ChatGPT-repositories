@@ -14705,6 +14705,28 @@
                     "zh-hans": "文本生成模型，包括LLaMA、BLOOM、GPT2、BART、T5、SongNet等的实现。可以进行训练和预测，方便使用。",
                     "zh-hant": "輸入：TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。"
                 }
+            },
+            "https://github.com/conceptofmind/lamda-rlhf-pytorch": {
+                "repository_name": "LaMDA-rlhf-pytorch",
+                "user_name": "conceptofmind",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT.",
+                "topics": [
+                    "artificial-intelligence",
+                    "attention-mechanism",
+                    "deep-learning",
+                    "human-feedback",
+                    "machine-learning",
+                    "reinforcement-learning",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT.",
+                    "ja": "GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。",
+                    "zh-hans": "使用PyTorch实现Google LaMDA的开源预训练模型。添加类似于ChatGPT的RLHF。",
+                    "zh-hant": "Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。"
+                }
             }
         },
         "Tutorials": {
@@ -19329,6 +19351,20 @@
                     "zh-hans": "类似视觉聊天GPT的开源版本，文心一言",
                     "zh-hant": "類似視覺聊天GPT的東西，文心一言的開源版"
                 }
+            },
+            "https://github.com/gpt-fathom/gpt-fathom": {
+                "repository_name": "GPT-Fathom",
+                "user_name": "GPT-Fathom",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings.",
+                    "ja": "GPT-Fathomは、オープンソースで再現可能なLLM評価スイートであり、10以上の主要なオープンソースおよびクローズドソースのLLM、さらにはOpenAIの以前のモデルを20以上の厳選されたベンチマークで比較評価するためのものです。",
+                    "zh-hans": "GPT-Fathom是一个开源且可重现的LLM评估套件，对10多个领先的开源和闭源LLM以及OpenAI早期模型在20多个精心策划的基准测试下进行基准测试。",
+                    "zh-hant": "GPT-Fathom 是一個開源且可重現的LLM評估套件，對10多個領先的開源和封閉源LLM以及OpenAI早期模型在20多個經過整理的基準測試下進行基準測試。"
+                }
             }
         },
         "Langchain": {
@@ -21230,6 +21266,27 @@
                     "ja": "Ollama用のChatGPTスタイルWebUI（以前のOllama WebUI）Ollama用ChatGPTスタイルWebUI（以前のOllama WebUI）",
                     "zh-hans": "ChatGPT风格的Ollama WebUI（原Ollama WebUI）",
                     "zh-hant": "ChatGPT風格的Ollama網頁用戶界面（原名Ollama WebUI）"
+                }
+            },
+            "https://github.com/wangrongsheng/caregpt": {
+                "repository_name": "CareGPT",
+                "user_name": "WangRongsheng",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。Medical LLM, Open Source Driven for a Healthy Future.",
+                "topics": [
+                    "baichuan",
+                    "gpt",
+                    "large-language-models",
+                    "llama",
+                    "llama2",
+                    "medical-llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。Medical LLM, Open Source Driven for a Healthy Future.",
+                    "ja": "🌞 CareGPT（关怀GPT）は、医療向けの大規模言語モデルであり、数十の公開データセットとオープンソースの医療大規模言語モデルを組み合わせています。LLMのトレーニング、評価、展開などを含む医療LLMの迅速な発展を促進するために使用されています。Medical LLM、健康な未来のためのオープンソース。",
+                    "zh-hans": "🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。医疗LLM，开源驱动，助力健康未来。",
+                    "zh-hant": "🌞 CareGPT (關懷GPT)是一個醫療大語言模型，同時它集合了數十個公開可用的醫療微調數據集和開放可用的醫療大語言模型，包含LLM的訓練、測評、部署等以促進醫療LLM快速發展。醫療LLM，開源驅動，為健康未來。"
                 }
             }
         },
@@ -24609,6 +24666,30 @@
                     "ja": "Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebaseなどを基に最高の管理者を作成してください。",
                     "zh-hans": "基于Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等创建最佳管理员。",
                     "zh-hant": "根據Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等創建最佳管理員。"
+                }
+            },
+            "https://github.com/niieani/gpt-tokenizer": {
+                "repository_name": "gpt-tokenizer",
+                "user_name": "niieani",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.",
+                "topics": [
+                    "bpe",
+                    "decoder",
+                    "encoder",
+                    "gpt-2",
+                    "gpt-3",
+                    "gpt-4",
+                    "machine-learning",
+                    "openai",
+                    "tokenizer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.",
+                    "ja": "JavaScript BPE Tokenizer Encoder Decoder for OpenAIのGPT-2 / GPT-3 / GPT-4。OpenAIのtiktokenのポートに追加機能を備えています。",
+                    "zh-hans": "JavaScript BPE Tokenizer编码器解码器适用于OpenAI的GPT-2 / GPT-3 / GPT-4。具有额外功能的OpenAI的tiktoken端口。",
+                    "zh-hant": "JavaScript BPE Tokenizer 編碼器解碼器，用於 OpenAI 的 GPT-2 / GPT-3 / GPT-4。具有額外功能的 OpenAI tiktoken 的移植版本。"
                 }
             }
         },
@@ -31268,6 +31349,20 @@
                     "ja": "ユーザーの好みに合わせてカスタマイズされた個人新聞を作成するために設計されたGPTベースの自律エージェント。",
                     "zh-hans": "基于GPT的自主代理，旨在根据用户偏好创建个性化报纸。",
                     "zh-hant": "基於GPT的自主代理設計，旨在創建根據用戶偏好定制的個性化報紙。"
+                }
+            },
+            "https://github.com/geniucker/cogpt": {
+                "repository_name": "CoGPT",
+                "user_name": "Geniucker",
+                "language": "Go",
+                "license": "Mozilla Public License 2.0",
+                "description": "Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.",
+                    "ja": "ん〜CopilotかGPTか？誰にもわからない。Copilotを介してgpt-4にアクセスしてみて。",
+                    "zh-hans": "嗯，副驾驶员还是GPT？谁知道呢。通过副驾驶员访问gpt-4。",
+                    "zh-hant": "嗯，Copilot還是GPT？誰知道呢。通過Copilot獲取對gpt-4的訪問。"
                 }
             }
         }
