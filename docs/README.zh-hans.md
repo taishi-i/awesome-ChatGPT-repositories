@@ -14,27 +14,27 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - 用于评估和提升LLM安全性的中文安全提示。
+
+
+**Chatbots**
+ * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - 一个具有流畅人工智能体验的Telegram机器人。
+
+
 **Reimplementations**
- * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - 使用PyTorch实现Google LaMDA的开源预训练模型。添加类似于ChatGPT的RLHF。
-
-
-**NLP**
- * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom是一个开源且可重现的LLM评估套件，对10多个领先的开源和闭源LLM以及OpenAI早期模型在20多个精心策划的基准测试下进行基准测试。
+ * [langchain](https://github.com/brainlid/langchain) - Elixir实现LangChain风格框架。
 
 
 **Langchain**
- * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。医疗LLM，开源驱动，助力健康未来。
-
-
-**Openai**
- * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer编码器解码器适用于OpenAI的GPT-2 / GPT-3 / GPT-4。具有额外功能的OpenAI的tiktoken端口。
+ * [PIXIU](https://github.com/the-finai/pixiu) - 这个仓库介绍了PIXIU，一个开源资源，包括第一个金融大型语言模型（LLMs）、指导调整数据和评估基准，以全面评估金融LLMs。我们的目标是不断推动开放。
 
 
 **Others**
- * [CoGPT](https://github.com/geniucker/cogpt) - 嗯，副驾驶员还是GPT？谁知道呢。通过副驾驶员访问gpt-4。
+ * [rome](https://github.com/kmeng01/rome) - 在GPT（NeurIPS 2022）中定位和编辑事实关联。
 
 
-_Updated on February 27, 2024_ (A total of 1443 repositories listed.)
+_Updated on February 29, 2024_ (A total of 1448 repositories listed.)
 
 ## Table of contents
 
@@ -221,6 +221,7 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose 是一个使用管道开发基于LLMs的应用程序的Go框架
  * [llm-guard](https://github.com/protectai/llm-guard) - LLM互动安全工具包
  * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT和Bing AI提示策划输出：
+ * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - 用于评估和提升LLM安全性的中文安全提示。
 
 
 ## Chatbots
@@ -418,6 +419,7 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - 这个自动博客使用GPT助手的API在电子商务网站上自动博客
  * [chaty](https://github.com/cosin2077/chaty) - 一行代码，满足你所有的ChatGPT想象✨✨✨
  * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp。
+ * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - 一个具有流畅人工智能体验的Telegram机器人。
 
 
 ## Browser-extensions
@@ -718,6 +720,7 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [vall-e](https://github.com/lifeiteng/vall-e) - VALL-E（零样本文本到语音）的PyTorch实现，复现演示https://lifeiteng.github.io/valle/index.html
  * [textgen](https://github.com/shibing624/textgen) - 文本生成模型，包括LLaMA、BLOOM、GPT2、BART、T5、SongNet等的实现。可以进行训练和预测，方便使用。
  * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - 使用PyTorch实现Google LaMDA的开源预训练模型。添加类似于ChatGPT的RLHF。
+ * [langchain](https://github.com/brainlid/langchain) - Elixir实现LangChain风格框架。
 
 
 ## Tutorials
@@ -1031,6 +1034,7 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [PIXIU](https://github.com/chancefocus/pixiu) - 这个仓库介绍了PIXIU，一个开源资源，提供了第一个金融大型语言模型（LLMs），指令调整数据和评估基准，以全面评估金融LLMs。我们的目标是不断推动开放。
  * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT风格的Ollama WebUI（原Ollama WebUI）
  * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。医疗LLM，开源驱动，助力健康未来。
+ * [PIXIU](https://github.com/the-finai/pixiu) - 这个仓库介绍了PIXIU，一个开源资源，包括第一个金融大型语言模型（LLMs）、指导调整数据和评估基准，以全面评估金融LLMs。我们的目标是不断推动开放。
 
 
 ## Unity
@@ -1552,5 +1556,6 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - Tampermonkey/Greasemonkey脚本，用于在与ChatGPT通信时隐藏审查结果。输出：
  * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - 基于GPT的自主代理，旨在根据用户偏好创建个性化报纸。
  * [CoGPT](https://github.com/geniucker/cogpt) - 嗯，副驾驶员还是GPT？谁知道呢。通过副驾驶员访问gpt-4。
+ * [rome](https://github.com/kmeng01/rome) - 在GPT（NeurIPS 2022）中定位和编辑事实关联。
 
 
