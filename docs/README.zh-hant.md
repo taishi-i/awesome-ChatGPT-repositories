@@ -14,27 +14,27 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - 用於評估和提升LLM安全性的中文安全提示。
+
+
+**Chatbots**
+ * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - 一個具有流暢人工智慧體驗的Telegram機器人。
+
+
 **Reimplementations**
- * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。
-
-
-**NLP**
- * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom 是一個開源且可重現的LLM評估套件，對10多個領先的開源和封閉源LLM以及OpenAI早期模型在20多個經過整理的基準測試下進行基準測試。
+ * [langchain](https://github.com/brainlid/langchain) - LangChain風格框架的Elixir實現。
 
 
 **Langchain**
- * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (關懷GPT)是一個醫療大語言模型，同時它集合了數十個公開可用的醫療微調數據集和開放可用的醫療大語言模型，包含LLM的訓練、測評、部署等以促進醫療LLM快速發展。醫療LLM，開源驅動，為健康未來。
-
-
-**Openai**
- * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer 編碼器解碼器，用於 OpenAI 的 GPT-2 / GPT-3 / GPT-4。具有額外功能的 OpenAI tiktoken 的移植版本。
+ * [PIXIU](https://github.com/the-finai/pixiu) - 這個存儲庫介紹了PIXIU，這是一個開源資源，提供了第一個金融大型語言模型（LLMs）、指導調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
 
 
 **Others**
- * [CoGPT](https://github.com/geniucker/cogpt) - 嗯，Copilot還是GPT？誰知道呢。通過Copilot獲取對gpt-4的訪問。
+ * [rome](https://github.com/kmeng01/rome) - 定位和編輯GPT（NeurIPS 2022）中的事實關聯
 
 
-_Updated on February 27, 2024_ (A total of 1443 repositories listed.)
+_Updated on February 29, 2024_ (A total of 1448 repositories listed.)
 
 ## Table of contents
 
@@ -221,6 +221,7 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [lingoose](https://github.com/henomis/lingoose) - 🪿 LinGoose 是一個使用管道開發基於 LLMs 的應用程式的 Go 框架。
  * [llm-guard](https://github.com/protectai/llm-guard) - LLM互動的安全工具包
  * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT和Bing AI提示整理
+ * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - 用於評估和提升LLM安全性的中文安全提示。
 
 
 ## Chatbots
@@ -418,6 +419,7 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - 這個自動部落客使用GPT助手的API在電子商務網站上自動部落格。
  * [chaty](https://github.com/cosin2077/chaty) - 一行代碼，滿足您所有ChatGPT的想像✨✨✨
  * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘書，一個全能的微信機器人管理平台，最簡單的方式接入 ChatGPT，FastGPT，Dify知識庫，支持繪圖，聯網查詢，語音識別，各種定時任務，支持企微、個微、公眾號、5G 消息、WhatsApp
+ * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - 一個具有流暢人工智慧體驗的Telegram機器人。
 
 
 ## Browser-extensions
@@ -718,6 +720,7 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [vall-e](https://github.com/lifeiteng/vall-e) - 請將以下內容翻譯成繁體中文。VALL-E（零樣本文本轉語音）的PyTorch實現，重現的演示 https://lifeiteng.github.io/valle/index.html
  * [textgen](https://github.com/shibing624/textgen) - TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。
  * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。
+ * [langchain](https://github.com/brainlid/langchain) - LangChain風格框架的Elixir實現。
 
 
 ## Tutorials
@@ -1031,6 +1034,7 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [PIXIU](https://github.com/chancefocus/pixiu) - 這個儲存庫介紹了PIXIU，一個開源資源，其中包含了第一個金融大型語言模型（LLMs），指令調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
  * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT風格的Ollama網頁用戶界面（原名Ollama WebUI）
  * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (關懷GPT)是一個醫療大語言模型，同時它集合了數十個公開可用的醫療微調數據集和開放可用的醫療大語言模型，包含LLM的訓練、測評、部署等以促進醫療LLM快速發展。醫療LLM，開源驅動，為健康未來。
+ * [PIXIU](https://github.com/the-finai/pixiu) - 這個存儲庫介紹了PIXIU，這是一個開源資源，提供了第一個金融大型語言模型（LLMs）、指導調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
 
 
 ## Unity
@@ -1552,5 +1556,6 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - 請將以下內容翻譯成繁體中文：Tampermonkey/Greasemonkey腳本，用於在與ChatGPT通信時隱藏審核結果。
  * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - 基於GPT的自主代理設計，旨在創建根據用戶偏好定制的個性化報紙。
  * [CoGPT](https://github.com/geniucker/cogpt) - 嗯，Copilot還是GPT？誰知道呢。通過Copilot獲取對gpt-4的訪問。
+ * [rome](https://github.com/kmeng01/rome) - 定位和編輯GPT（NeurIPS 2022）中的事實關聯
 
 

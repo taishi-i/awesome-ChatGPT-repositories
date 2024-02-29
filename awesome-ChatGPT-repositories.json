@@ -3804,6 +3804,29 @@
                     "zh-hans": "ChatGPT和Bing AI提示策划输出：",
                     "zh-hant": "ChatGPT和Bing AI提示整理"
                 }
+            },
+            "https://github.com/thu-coai/safety-prompts": {
+                "repository_name": "Safety-Prompts",
+                "user_name": "thu-coai",
+                "language": null,
+                "license": "Apache License 2.0",
+                "description": "Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。",
+                "topics": [
+                    "attack-defense",
+                    "chatgpt",
+                    "chinese-language",
+                    "instruction",
+                    "llm",
+                    "prompt",
+                    "prompt-engineering",
+                    "safety"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。",
+                    "ja": "LLMの安全性を評価および向上させるための中国語の安全プロンプト。",
+                    "zh-hans": "用于评估和提升LLM安全性的中文安全提示。",
+                    "zh-hant": "用於評估和提升LLM安全性的中文安全提示。"
+                }
             }
         },
         "Chatbots": {
@@ -8331,6 +8354,24 @@
                     "ja": "知能ウェイシュ，オールインワンのWeChatボット管理プラットフォーム、ChatGPT、FastGPT、Difyナレッジベースに最も簡単な方法でアクセスできます。図形描画、オンライン検索、音声認識、さまざまなタイマータスクをサポートし、企業WeChat、個人WeChat、公式アカウント、5Gメッセージ、WhatsAppをサポートします。",
                     "zh-hans": "智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp。",
                     "zh-hant": "智能微秘書，一個全能的微信機器人管理平台，最簡單的方式接入 ChatGPT，FastGPT，Dify知識庫，支持繪圖，聯網查詢，語音識別，各種定時任務，支持企微、個微、公眾號、5G 消息、WhatsApp"
+                }
+            },
+            "https://github.com/v-know/chatgpt-telegram-bot": {
+                "repository_name": "ChatGPT-Telegram-Bot",
+                "user_name": "V-know",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A Telegram bot with a smooth AI experience.",
+                "topics": [
+                    "chatgpt",
+                    "python",
+                    "telegram"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Telegram bot with a smooth AI experience.",
+                    "ja": "スムーズなAI体験を提供するTelegramボット。",
+                    "zh-hans": "一个具有流畅人工智能体验的Telegram机器人。",
+                    "zh-hant": "一個具有流暢人工智慧體驗的Telegram機器人。"
                 }
             }
         },
@@ -14726,6 +14767,25 @@
                     "ja": "GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。",
                     "zh-hans": "使用PyTorch实现Google LaMDA的开源预训练模型。添加类似于ChatGPT的RLHF。",
                     "zh-hant": "Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。"
+                }
+            },
+            "https://github.com/brainlid/langchain": {
+                "repository_name": "langchain",
+                "user_name": "brainlid",
+                "language": "Elixir",
+                "license": "Other",
+                "description": "Elixir implementation of a LangChain style framework.",
+                "topics": [
+                    "chatgpt",
+                    "elixir",
+                    "langchain",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Elixir implementation of a LangChain style framework.",
+                    "ja": "LangChainスタイルのフレームワークのElixir実装。",
+                    "zh-hans": "Elixir实现LangChain风格框架。",
+                    "zh-hant": "LangChain風格框架的Elixir實現。"
                 }
             }
         },
@@ -21287,6 +21347,36 @@
                     "ja": "🌞 CareGPT（关怀GPT）は、医療向けの大規模言語モデルであり、数十の公開データセットとオープンソースの医療大規模言語モデルを組み合わせています。LLMのトレーニング、評価、展開などを含む医療LLMの迅速な発展を促進するために使用されています。Medical LLM、健康な未来のためのオープンソース。",
                     "zh-hans": "🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。医疗LLM，开源驱动，助力健康未来。",
                     "zh-hant": "🌞 CareGPT (關懷GPT)是一個醫療大語言模型，同時它集合了數十個公開可用的醫療微調數據集和開放可用的醫療大語言模型，包含LLM的訓練、測評、部署等以促進醫療LLM快速發展。醫療LLM，開源驅動，為健康未來。"
+                }
+            },
+            "https://github.com/the-finai/pixiu": {
+                "repository_name": "PIXIU",
+                "user_name": "The-FinAI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).",
+                "topics": [
+                    "aifinance",
+                    "chatgpt",
+                    "fintech",
+                    "gpt-4",
+                    "large-language-models",
+                    "llama",
+                    "machine-learning",
+                    "named-entity-recognition",
+                    "natural-language-processing",
+                    "nlp",
+                    "pixiu",
+                    "question-answering",
+                    "sentiment-analysis",
+                    "stock-price-prediction",
+                    "text-classification"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open",
+                    "ja": "このリポジトリは、初の金融向け大規模言語モデル（LLM）、インストラクションチューニングデータ、評価ベンチマークを特徴とするオープンソースリソースであるPIXIUを紹介しています。私たちの目標は、オープンを常に前進させることです。",
+                    "zh-hans": "这个仓库介绍了PIXIU，一个开源资源，包括第一个金融大型语言模型（LLMs）、指导调整数据和评估基准，以全面评估金融LLMs。我们的目标是不断推动开放。",
+                    "zh-hant": "這個存儲庫介紹了PIXIU，這是一個開源資源，提供了第一個金融大型語言模型（LLMs）、指導調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。"
                 }
             }
         },
@@ -31363,6 +31453,25 @@
                     "ja": "ん〜CopilotかGPTか？誰にもわからない。Copilotを介してgpt-4にアクセスしてみて。",
                     "zh-hans": "嗯，副驾驶员还是GPT？谁知道呢。通过副驾驶员访问gpt-4。",
                     "zh-hant": "嗯，Copilot還是GPT？誰知道呢。通過Copilot獲取對gpt-4的訪問。"
+                }
+            },
+            "https://github.com/kmeng01/rome": {
+                "repository_name": "rome",
+                "user_name": "kmeng01",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Locating and editing factual associations in GPT (NeurIPS 2022)",
+                "topics": [
+                    "gpt",
+                    "interpretability",
+                    "pytorch",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Locating and editing factual associations in GPT (NeurIPS 2022)",
+                    "ja": "GPT（NeurIPS 2022）内の事実関連の特定と編集",
+                    "zh-hans": "在GPT（NeurIPS 2022）中定位和编辑事实关联。",
+                    "zh-hant": "定位和編輯GPT（NeurIPS 2022）中的事實關聯"
                 }
             }
         }
