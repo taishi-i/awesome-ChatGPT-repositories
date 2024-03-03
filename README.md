@@ -14,27 +14,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
-
-
 **Chatbots**
- * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - A Telegram bot with a smooth AI experience.
+ * [nlux](https://github.com/nluxai/nlux) - The Open-Source React / Javascript Library To Build Conversational AI Interfaces
 
 
-**Reimplementations**
- * [langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework.
+**NLP**
+ * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter is a suite of open-source code generation systems aimed at bridging the gap between large language models and sophisticated proprietary systems like the GPT-4 Code Interpreter. It significantly enhances code generation capabilities by integrating execution and iterative refinement functionalities.
 
 
 **Langchain**
- * [PIXIU](https://github.com/the-finai/pixiu) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).
+ * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.
 
 
 **Others**
- * [rome](https://github.com/kmeng01/rome) - Locating and editing factual associations in GPT (NeurIPS 2022)
+ * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信风格的 ChatGPT，使用 Next.js 构建，私有化部署的最佳选择！
+ * [wechatSDK](https://github.com/kawika-git/wechatsdk) - 微信机器人是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
+ * [Bunny](https://github.com/baai-dcai/bunny) - A family of lightweight multimodal models.
 
 
-_Updated on February 29, 2024_ (A total of 1448 repositories listed.)
+_Updated on March 03, 2024_ (A total of 1454 repositories listed.)
 
 ## Table of contents
 
@@ -420,6 +418,7 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [chaty](https://github.com/cosin2077/chaty) - one line code, satisfied all your ChatGPT imagination✨✨✨
  * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp
  * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - A Telegram bot with a smooth AI experience.
+ * [nlux](https://github.com/nluxai/nlux) - The Open-Source React / Javascript Library To Build Conversational AI Interfaces
 
 
 ## Browser-extensions
@@ -948,6 +947,7 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [sgpt](https://github.com/muennighoff/sgpt) - SGPT: GPT Sentence Embeddings for Semantic Search
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - something like visual-chatgpt, 文心一言的开源版
  * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings.
+ * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter is a suite of open-source code generation systems aimed at bridging the gap between large language models and sophisticated proprietary systems like the GPT-4 Code Interpreter. It significantly enhances code generation capabilities by integrating execution and iterative refinement functionalities.
 
 
 ## Langchain
@@ -1035,6 +1035,7 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
  * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。Medical LLM, Open Source Driven for a Healthy Future.
  * [PIXIU](https://github.com/the-finai/pixiu) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).
+ * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.
 
 
 ## Unity
@@ -1557,5 +1558,8 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - GPT based autonomous agent designed to create personalized newspapers tailored to user preferences.
  * [CoGPT](https://github.com/geniucker/cogpt) - Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.
  * [rome](https://github.com/kmeng01/rome) - Locating and editing factual associations in GPT (NeurIPS 2022)
+ * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信风格的 ChatGPT，使用 Next.js 构建，私有化部署的最佳选择！
+ * [wechatSDK](https://github.com/kawika-git/wechatsdk) - 微信机器人是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
+ * [Bunny](https://github.com/baai-dcai/bunny) - A family of lightweight multimodal models.
 
 

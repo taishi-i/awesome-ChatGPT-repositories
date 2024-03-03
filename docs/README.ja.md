@@ -14,27 +14,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - LLMの安全性を評価および向上させるための中国語の安全プロンプト。
-
-
 **Chatbots**
- * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - スムーズなAI体験を提供するTelegramボット。
+ * [nlux](https://github.com/nluxai/nlux) - 対話型AIインターフェースを構築するためのオープンソースReact / Javascriptライブラリ
 
 
-**Reimplementations**
- * [langchain](https://github.com/brainlid/langchain) - LangChainスタイルのフレームワークのElixir実装。
+**NLP**
+ * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreterは、大規模な言語モデルとGPT-4コードインタープリターのような高度なプロプライエタリシステムとの間のギャップを埋めることを目的としたオープンソースのコード生成システムのスイートです。これにより、コード生成能力が大幅に向上します。
 
 
 **Langchain**
- * [PIXIU](https://github.com/the-finai/pixiu) - このリポジトリは、初の金融向け大規模言語モデル（LLM）、インストラクションチューニングデータ、評価ベンチマークを特徴とするオープンソースリソースであるPIXIUを紹介しています。私たちの目標は、オープンを常に前進させることです。
+ * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Python、ChatGPT、およびその他のモデルを使用して大規模言語モデル（LLM）アプリを構築します。これはLangChainの生成AIに関する書籍のためのコンパニオンリポジトリです。
 
 
 **Others**
- * [rome](https://github.com/kmeng01/rome) - GPT（NeurIPS 2022）内の事実関連の特定と編集
+ * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信風のChatGPT、Next.jsで構築され、プライベートデプロイメントに最適な選択肢！
+ * [wechatSDK](https://github.com/kawika-git/wechatsdk) - WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動描画、自動的に友達に投稿、自動的に動画を投稿するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
+ * [Bunny](https://github.com/baai-dcai/bunny) - 軽量なマルチモーダルモデルのファミリー。
 
 
-_Updated on February 29, 2024_ (A total of 1448 repositories listed.)
+_Updated on March 03, 2024_ (A total of 1454 repositories listed.)
 
 ## Table of contents
 
@@ -420,6 +418,7 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [chaty](https://github.com/cosin2077/chaty) - 1行のコード、すべてのChatGPTの想像力に満足✨✨✨
  * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 知能ウェイシュ，オールインワンのWeChatボット管理プラットフォーム、ChatGPT、FastGPT、Difyナレッジベースに最も簡単な方法でアクセスできます。図形描画、オンライン検索、音声認識、さまざまなタイマータスクをサポートし、企業WeChat、個人WeChat、公式アカウント、5Gメッセージ、WhatsAppをサポートします。
  * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - スムーズなAI体験を提供するTelegramボット。
+ * [nlux](https://github.com/nluxai/nlux) - 対話型AIインターフェースを構築するためのオープンソースReact / Javascriptライブラリ
 
 
 ## Browser-extensions
@@ -948,6 +947,7 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT文埋め込みによる意味検索SGPT：GPT文埋め込みによる意味検索
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 何かビジュアルチャットGPTのようなもの、文心一言のオープンソース版
  * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathomは、オープンソースで再現可能なLLM評価スイートであり、10以上の主要なオープンソースおよびクローズドソースのLLM、さらにはOpenAIの以前のモデルを20以上の厳選されたベンチマークで比較評価するためのものです。
+ * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreterは、大規模な言語モデルとGPT-4コードインタープリターのような高度なプロプライエタリシステムとの間のギャップを埋めることを目的としたオープンソースのコード生成システムのスイートです。これにより、コード生成能力が大幅に向上します。
 
 
 ## Langchain
@@ -1035,6 +1035,7 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [open-webui](https://github.com/open-webui/open-webui) - Ollama用のChatGPTスタイルWebUI（以前のOllama WebUI）Ollama用ChatGPTスタイルWebUI（以前のOllama WebUI）
  * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT（关怀GPT）は、医療向けの大規模言語モデルであり、数十の公開データセットとオープンソースの医療大規模言語モデルを組み合わせています。LLMのトレーニング、評価、展開などを含む医療LLMの迅速な発展を促進するために使用されています。Medical LLM、健康な未来のためのオープンソース。
  * [PIXIU](https://github.com/the-finai/pixiu) - このリポジトリは、初の金融向け大規模言語モデル（LLM）、インストラクションチューニングデータ、評価ベンチマークを特徴とするオープンソースリソースであるPIXIUを紹介しています。私たちの目標は、オープンを常に前進させることです。
+ * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Python、ChatGPT、およびその他のモデルを使用して大規模言語モデル（LLM）アプリを構築します。これはLangChainの生成AIに関する書籍のためのコンパニオンリポジトリです。
 
 
 ## Unity
@@ -1557,5 +1558,8 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - ユーザーの好みに合わせてカスタマイズされた個人新聞を作成するために設計されたGPTベースの自律エージェント。
  * [CoGPT](https://github.com/geniucker/cogpt) - ん〜CopilotかGPTか？誰にもわからない。Copilotを介してgpt-4にアクセスしてみて。
  * [rome](https://github.com/kmeng01/rome) - GPT（NeurIPS 2022）内の事実関連の特定と編集
+ * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信風のChatGPT、Next.jsで構築され、プライベートデプロイメントに最適な選択肢！
+ * [wechatSDK](https://github.com/kawika-git/wechatsdk) - WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動描画、自動的に友達に投稿、自動的に動画を投稿するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
+ * [Bunny](https://github.com/baai-dcai/bunny) - 軽量なマルチモーダルモデルのファミリー。
 
 
