@@ -14,27 +14,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - 用於評估和提升LLM安全性的中文安全提示。
-
-
 **Chatbots**
- * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - 一個具有流暢人工智慧體驗的Telegram機器人。
+ * [nlux](https://github.com/nluxai/nlux) - 用於構建對話式人工智能界面的開源React / Javascript庫
 
 
-**Reimplementations**
- * [langchain](https://github.com/brainlid/langchain) - LangChain風格框架的Elixir實現。
+**NLP**
+ * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter 是一套開源代碼生成系統，旨在彌合大型語言模型與諸如 GPT-4 代碼解釋器等專有系統之間的差距。它通過增強代碼生成能力，显著提高了代碼生成的能力。
 
 
 **Langchain**
- * [PIXIU](https://github.com/the-finai/pixiu) - 這個存儲庫介紹了PIXIU，這是一個開源資源，提供了第一個金融大型語言模型（LLMs）、指導調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
+ * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - 請使用Python、ChatGPT和其他模型來建立大型語言模型（LLM）應用程式。這是與LangChain上生成式人工智能書籍相關的存儲庫。
 
 
 **Others**
- * [rome](https://github.com/kmeng01/rome) - 定位和編輯GPT（NeurIPS 2022）中的事實關聯
+ * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信風格的 ChatGPT，使用 Next.js 構建，私有化部署的最佳選擇！
+ * [wechatSDK](https://github.com/kawika-git/wechatsdk) - 微信機器人是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。
+ * [Bunny](https://github.com/baai-dcai/bunny) - 一個輕量級多模型家族。
 
 
-_Updated on February 29, 2024_ (A total of 1448 repositories listed.)
+_Updated on March 03, 2024_ (A total of 1454 repositories listed.)
 
 ## Table of contents
 
@@ -420,6 +418,7 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [chaty](https://github.com/cosin2077/chaty) - 一行代碼，滿足您所有ChatGPT的想像✨✨✨
  * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘書，一個全能的微信機器人管理平台，最簡單的方式接入 ChatGPT，FastGPT，Dify知識庫，支持繪圖，聯網查詢，語音識別，各種定時任務，支持企微、個微、公眾號、5G 消息、WhatsApp
  * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - 一個具有流暢人工智慧體驗的Telegram機器人。
+ * [nlux](https://github.com/nluxai/nlux) - 用於構建對話式人工智能界面的開源React / Javascript庫
 
 
 ## Browser-extensions
@@ -948,6 +947,7 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [sgpt](https://github.com/muennighoff/sgpt) - SGPT：GPT句子嵌入用於語義搜索
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 類似視覺聊天GPT的東西，文心一言的開源版
  * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom 是一個開源且可重現的LLM評估套件，對10多個領先的開源和封閉源LLM以及OpenAI早期模型在20多個經過整理的基準測試下進行基準測試。
+ * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter 是一套開源代碼生成系統，旨在彌合大型語言模型與諸如 GPT-4 代碼解釋器等專有系統之間的差距。它通過增強代碼生成能力，显著提高了代碼生成的能力。
 
 
 ## Langchain
@@ -1035,6 +1035,7 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [open-webui](https://github.com/open-webui/open-webui) - ChatGPT風格的Ollama網頁用戶界面（原名Ollama WebUI）
  * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (關懷GPT)是一個醫療大語言模型，同時它集合了數十個公開可用的醫療微調數據集和開放可用的醫療大語言模型，包含LLM的訓練、測評、部署等以促進醫療LLM快速發展。醫療LLM，開源驅動，為健康未來。
  * [PIXIU](https://github.com/the-finai/pixiu) - 這個存儲庫介紹了PIXIU，這是一個開源資源，提供了第一個金融大型語言模型（LLMs）、指導調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
+ * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - 請使用Python、ChatGPT和其他模型來建立大型語言模型（LLM）應用程式。這是與LangChain上生成式人工智能書籍相關的存儲庫。
 
 
 ## Unity
@@ -1557,5 +1558,8 @@ _Updated on February 29, 2024_ (A total of 1448 repositories listed.)
  * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - 基於GPT的自主代理設計，旨在創建根據用戶偏好定制的個性化報紙。
  * [CoGPT](https://github.com/geniucker/cogpt) - 嗯，Copilot還是GPT？誰知道呢。通過Copilot獲取對gpt-4的訪問。
  * [rome](https://github.com/kmeng01/rome) - 定位和編輯GPT（NeurIPS 2022）中的事實關聯
+ * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信風格的 ChatGPT，使用 Next.js 構建，私有化部署的最佳選擇！
+ * [wechatSDK](https://github.com/kawika-git/wechatsdk) - 微信機器人是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。
+ * [Bunny](https://github.com/baai-dcai/bunny) - 一個輕量級多模型家族。
 
 
