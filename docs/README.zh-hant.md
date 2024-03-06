@@ -14,25 +14,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [nlux](https://github.com/nluxai/nlux) - 用於構建對話式人工智能界面的開源React / Javascript庫
+**CLIs**
+ * [Gemini](https://github.com/kyegomez/gemini) - Google將“超越ChatGPT”的Gemini模型的開源實現Google將“超越ChatGPT”的Gemini模型的開源實現
 
 
 **NLP**
- * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter 是一套開源代碼生成系統，旨在彌合大型語言模型與諸如 GPT-4 代碼解釋器等專有系統之間的差距。它通過增強代碼生成能力，显著提高了代碼生成的能力。
+ * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT應用程式。Flutter實現的chatgpt聊天應用程式支持自定義模式和上下文連續對話。此外，它支持admob廣告配置，訪問開屏廣告、插頁廣告、橫幅廣告。
 
 
-**Langchain**
- * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - 請使用Python、ChatGPT和其他模型來建立大型語言模型（LLM）應用程式。這是與LangChain上生成式人工智能書籍相關的存儲庫。
-
-
-**Others**
- * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信風格的 ChatGPT，使用 Next.js 構建，私有化部署的最佳選擇！
- * [wechatSDK](https://github.com/kawika-git/wechatsdk) - 微信機器人是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。
- * [Bunny](https://github.com/baai-dcai/bunny) - 一個輕量級多模型家族。
-
-
-_Updated on March 03, 2024_ (A total of 1454 repositories listed.)
+_Updated on March 07, 2024_ (A total of 1456 repositories listed.)
 
 ## Table of contents
 
@@ -689,6 +679,7 @@ _Updated on March 03, 2024_ (A total of 1454 repositories listed.)
  * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - 每個ChatGPT的前端GUI客戶端
  * [yai](https://github.com/ekkinox/yai) - 您的AI動力終端助手。
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPT的命令行界面，Claude和Bard
+ * [Gemini](https://github.com/kyegomez/gemini) - Google將“超越ChatGPT”的Gemini模型的開源實現Google將“超越ChatGPT”的Gemini模型的開源實現
 
 
 ## Reimplementations
@@ -948,6 +939,7 @@ _Updated on March 03, 2024_ (A total of 1454 repositories listed.)
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 類似視覺聊天GPT的東西，文心一言的開源版
  * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom 是一個開源且可重現的LLM評估套件，對10多個領先的開源和封閉源LLM以及OpenAI早期模型在20多個經過整理的基準測試下進行基準測試。
  * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter 是一套開源代碼生成系統，旨在彌合大型語言模型與諸如 GPT-4 代碼解釋器等專有系統之間的差距。它通過增強代碼生成能力，显著提高了代碼生成的能力。
+ * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT應用程式。Flutter實現的chatgpt聊天應用程式支持自定義模式和上下文連續對話。此外，它支持admob廣告配置，訪問開屏廣告、插頁廣告、橫幅廣告。
 
 
 ## Langchain

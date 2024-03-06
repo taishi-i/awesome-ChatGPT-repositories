@@ -14,25 +14,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [nlux](https://github.com/nluxai/nlux) - 用于构建对话人工智能界面的开源React / Javascript库
+**CLIs**
+ * [Gemini](https://github.com/kyegomez/gemini) - 谷歌将“超越ChatGPT”的Gemini模型的开源实现
 
 
 **NLP**
- * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter是一套开源代码生成系统，旨在弥合大型语言模型和复杂专有系统（如GPT-4代码解释器）之间的差距。它通过显著增强代码生成能力，帮助用户更好地生成代码。
+ * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT 应用程序。由flutter实现的chatgpt聊天应用程序支持自定义模式和上下文连续对话。此外，它支持admob广告配置，访问开屏广告、插页广告、横幅。
 
 
-**Langchain**
- * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - 使用Python、ChatGPT和其他模型构建大型语言模型（LLM）应用程序。这是与LangChain上生成式AI书籍配套的存储库。
-
-
-**Others**
- * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信风格的 ChatGPT，使用 Next.js 构建，私有化部署的最佳选择！
- * [wechatSDK](https://github.com/kawika-git/wechatsdk) - 微信机器人是一个基于Python 3.11开发的创新项目，结合了ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
- * [Bunny](https://github.com/baai-dcai/bunny) - 一家轻量级多模型。
-
-
-_Updated on March 03, 2024_ (A total of 1454 repositories listed.)
+_Updated on March 07, 2024_ (A total of 1456 repositories listed.)
 
 ## Table of contents
 
@@ -689,6 +679,7 @@ _Updated on March 03, 2024_ (A total of 1454 repositories listed.)
  * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - 每个ChatGPT的前端GUI客户端
  * [yai](https://github.com/ekkinox/yai) - 您的AI 动力终端助手。
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPT的命令行界面，Claude和Bard
+ * [Gemini](https://github.com/kyegomez/gemini) - 谷歌将“超越ChatGPT”的Gemini模型的开源实现
 
 
 ## Reimplementations
@@ -948,6 +939,7 @@ _Updated on March 03, 2024_ (A total of 1454 repositories listed.)
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 类似视觉聊天GPT的开源版本，文心一言
  * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom是一个开源且可重现的LLM评估套件，对10多个领先的开源和闭源LLM以及OpenAI早期模型在20多个精心策划的基准测试下进行基准测试。
  * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter是一套开源代码生成系统，旨在弥合大型语言模型和复杂专有系统（如GPT-4代码解释器）之间的差距。它通过显著增强代码生成能力，帮助用户更好地生成代码。
+ * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT 应用程序。由flutter实现的chatgpt聊天应用程序支持自定义模式和上下文连续对话。此外，它支持admob广告配置，访问开屏广告、插页广告、横幅。
 
 
 ## Langchain

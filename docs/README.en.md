@@ -14,25 +14,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [nlux](https://github.com/nluxai/nlux) - The Open-Source React / Javascript Library To Build Conversational AI Interfaces
+**CLIs**
+ * [Gemini](https://github.com/kyegomez/gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 
 
 **NLP**
- * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter is a suite of open-source code generation systems aimed at bridging the gap between large language models and sophisticated proprietary systems like the GPT-4 Code Interpreter. It significantly enhances code generation capabilities by i
+ * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner
 
 
-**Langchain**
- * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.
-
-
-**Others**
- * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - WeChat-style ChatGPT, built using Next.js, is the best choice for private deployment!
- * [wechatSDK](https://github.com/kawika-git/wechatsdk) - WeChat robot is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.
- * [Bunny](https://github.com/baai-dcai/bunny) - A family of lightweight multimodal models.
-
-
-_Updated on March 03, 2024_ (A total of 1454 repositories listed.)
+_Updated on March 07, 2024_ (A total of 1456 repositories listed.)
 
 ## Table of contents
 
@@ -689,6 +679,7 @@ _Updated on March 03, 2024_ (A total of 1454 repositories listed.)
  * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
  * [yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
+ * [Gemini](https://github.com/kyegomez/gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 
 
 ## Reimplementations
@@ -948,6 +939,7 @@ _Updated on March 03, 2024_ (A total of 1454 repositories listed.)
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - something like visual-chatgpt, the open-source version of Wenxin Yiyuan
  * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom is an open-source and reproducible LLM evaluation suite, benchmarking 10+ leading open-source and closed-source LLMs as well as OpenAI's earlier models on 20+ curated benchmarks under aligned settings.
  * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter is a suite of open-source code generation systems aimed at bridging the gap between large language models and sophisticated proprietary systems like the GPT-4 Code Interpreter. It significantly enhances code generation capabilities by i
+ * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner
 
 
 ## Langchain

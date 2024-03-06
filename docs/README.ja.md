@@ -14,25 +14,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [nlux](https://github.com/nluxai/nlux) - 対話型AIインターフェースを構築するためのオープンソースReact / Javascriptライブラリ
+**CLIs**
+ * [Gemini](https://github.com/kyegomez/gemini) - Googleによって「ChatGPTを凌駕する」モデルとして開発されたGeminiのオープンソース実装
 
 
 **NLP**
- * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreterは、大規模な言語モデルとGPT-4コードインタープリターのような高度なプロプライエタリシステムとの間のギャップを埋めることを目的としたオープンソースのコード生成システムのスイートです。これにより、コード生成能力が大幅に向上します。
+ * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPTアプリ。 Flutterによって実装されたchatgptチャットアプリは、カスタムモードとコンテキスト継続対話をサポートしています。 さらに、admob広告の構成、オープンスクリーン広告へのアクセス、インタースティシャル広告、バナー広告をサポートしています。
 
 
-**Langchain**
- * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Python、ChatGPT、およびその他のモデルを使用して大規模言語モデル（LLM）アプリを構築します。これはLangChainの生成AIに関する書籍のためのコンパニオンリポジトリです。
-
-
-**Others**
- * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信風のChatGPT、Next.jsで構築され、プライベートデプロイメントに最適な選択肢！
- * [wechatSDK](https://github.com/kawika-git/wechatsdk) - WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動描画、自動的に友達に投稿、自動的に動画を投稿するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
- * [Bunny](https://github.com/baai-dcai/bunny) - 軽量なマルチモーダルモデルのファミリー。
-
-
-_Updated on March 03, 2024_ (A total of 1454 repositories listed.)
+_Updated on March 07, 2024_ (A total of 1456 repositories listed.)
 
 ## Table of contents
 
@@ -689,6 +679,7 @@ _Updated on March 03, 2024_ (A total of 1454 repositories listed.)
  * [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - すべてのChatGPTのフロントエンドGUIクライアント
  * [yai](https://github.com/ekkinox/yai) - あなたのAIパワードターミナルアシスタント。
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPTのためのコマンドラインインターフェース、ClaudeとBard
+ * [Gemini](https://github.com/kyegomez/gemini) - Googleによって「ChatGPTを凌駕する」モデルとして開発されたGeminiのオープンソース実装
 
 
 ## Reimplementations
@@ -948,6 +939,7 @@ _Updated on March 03, 2024_ (A total of 1454 repositories listed.)
  * [visual-openllm](https://github.com/visual-openllm/visual-openllm) - 何かビジュアルチャットGPTのようなもの、文心一言のオープンソース版
  * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathomは、オープンソースで再現可能なLLM評価スイートであり、10以上の主要なオープンソースおよびクローズドソースのLLM、さらにはOpenAIの以前のモデルを20以上の厳選されたベンチマークで比較評価するためのものです。
  * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreterは、大規模な言語モデルとGPT-4コードインタープリターのような高度なプロプライエタリシステムとの間のギャップを埋めることを目的としたオープンソースのコード生成システムのスイートです。これにより、コード生成能力が大幅に向上します。
+ * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPTアプリ。 Flutterによって実装されたchatgptチャットアプリは、カスタムモードとコンテキスト継続対話をサポートしています。 さらに、admob広告の構成、オープンスクリーン広告へのアクセス、インタースティシャル広告、バナー広告をサポートしています。
 
 
 ## Langchain
