@@ -14268,6 +14268,29 @@
                     "zh-hans": "ChatGPT的命令行界面，Claude和Bard",
                     "zh-hant": "ChatGPT的命令行界面，Claude和Bard"
                 }
+            },
+            "https://github.com/kyegomez/gemini": {
+                "repository_name": "Gemini",
+                "user_name": "kyegomez",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "The open source implementation of Gemini, the model that will \"eclipse ChatGPT\" by Google",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "gemini",
+                    "gpt4",
+                    "machine-learning",
+                    "ml",
+                    "multi-modality",
+                    "multimodla"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The open source implementation of Gemini, the model that will \"eclipse ChatGPT\" by Google",
+                    "ja": "Googleによって「ChatGPTを凌駕する」モデルとして開発されたGeminiのオープンソース実装",
+                    "zh-hans": "谷歌将“超越ChatGPT”的Gemini模型的开源实现",
+                    "zh-hant": "Google將“超越ChatGPT”的Gemini模型的開源實現Google將“超越ChatGPT”的Gemini模型的開源實現"
+                }
             }
         },
         "Reimplementations": {
@@ -19462,6 +19485,26 @@
                     "ja": "OpenCodeInterpreterは、大規模な言語モデルとGPT-4コードインタープリターのような高度なプロプライエタリシステムとの間のギャップを埋めることを目的としたオープンソースのコード生成システムのスイートです。これにより、コード生成能力が大幅に向上します。",
                     "zh-hans": "OpenCodeInterpreter是一套开源代码生成系统，旨在弥合大型语言模型和复杂专有系统（如GPT-4代码解释器）之间的差距。它通过显著增强代码生成能力，帮助用户更好地生成代码。",
                     "zh-hant": "OpenCodeInterpreter 是一套開源代碼生成系統，旨在彌合大型語言模型與諸如 GPT-4 代碼解釋器等專有系統之間的差距。它通過增強代碼生成能力，显著提高了代碼生成的能力。"
+                }
+            },
+            "https://github.com/wewehao/flutter_chatgpt": {
+                "repository_name": "flutter_chatgpt",
+                "user_name": "wewehao",
+                "language": "Dart",
+                "license": "MIT License",
+                "description": "Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner advertisements, etc.",
+                "topics": [
+                    "android",
+                    "chatgpt",
+                    "firebase",
+                    "flutter",
+                    "ios"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner",
+                    "ja": "Flutter ChatGPTアプリ。 Flutterによって実装されたchatgptチャットアプリは、カスタムモードとコンテキスト継続対話をサポートしています。 さらに、admob広告の構成、オープンスクリーン広告へのアクセス、インタースティシャル広告、バナー広告をサポートしています。",
+                    "zh-hans": "Flutter ChatGPT 应用程序。由flutter实现的chatgpt聊天应用程序支持自定义模式和上下文连续对话。此外，它支持admob广告配置，访问开屏广告、插页广告、横幅。",
+                    "zh-hant": "Flutter ChatGPT應用程式。Flutter實現的chatgpt聊天應用程式支持自定義模式和上下文連續對話。此外，它支持admob廣告配置，訪問開屏廣告、插頁廣告、橫幅廣告。"
                 }
             }
         },
