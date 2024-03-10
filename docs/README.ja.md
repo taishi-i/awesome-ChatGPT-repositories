@@ -14,15 +14,29 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [Gemini](https://github.com/kyegomez/gemini) - Googleによって「ChatGPTを凌駕する」モデルとして開発されたGeminiのオープンソース実装
+**Awesome-lists**
+ * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 所有可能なLLMリソースのコレクション。これらを使用して、所有できる製品を作成したり、再現可能な研究を行ったりすることができます。
+
+
+**Chatbots**
+ * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - これは、ChatGPTをLineに統合することができるリポジトリです。
+
+
+**Browser-extensions**
+ * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - ChatGPT APIに基づいたRaycast翻訳プラグイン - ChatGPT APIに基づいたRaycast翻訳拡張機能。
 
 
 **NLP**
- * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPTアプリ。 Flutterによって実装されたchatgptチャットアプリは、カスタムモードとコンテキスト継続対話をサポートしています。 さらに、admob広告の構成、オープンスクリーン広告へのアクセス、インタースティシャル広告、バナー広告をサポートしています。
+ * [ai00_server](https://github.com/ai00-x/ai00_server) - ChatGPTよりも優れたローカライズされたオープンソースAIサーバー。
+ * [CipherChat](https://github.com/robustnlp/cipherchat) - LLMの安全性整合性の汎化能力を評価するためのフレームワーク
 
 
-_Updated on March 07, 2024_ (A total of 1456 repositories listed.)
+**Others**
+ * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AIサークルの蛇口ウェブサイト、24時間ごとに1つのトークンを受け取り、AI製品の開発テストに使用できます。
+ * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - WE Learnの同行クラスの問題の答えを表示します。クラスのテストをサポートします。自動回答、学習時間を記録し、ChatGPTに基づいた回答生成を行います。
+
+
+_Updated on March 11, 2024_ (A total of 1463 repositories listed.)
 
 ## Table of contents
 
@@ -98,6 +112,7 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - GPTストアのトップ評価GPTからのチャットGPTプロンプトの厳選リスト。
  * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト
  * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - GPTストアのトップ評価を受けたGPTからのチャットGPTプロンプトのキュレーションリスト。プロンプトエンジニアリング、プロンプト攻撃＆プロンプト保護。高度なプロンプトエンジニアリング論文。
+ * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 所有可能なLLMリソースのコレクション。これらを使用して、所有できる製品を作成したり、再現可能な研究を行ったりすることができます。
 
 
 ## Prompts
@@ -409,6 +424,7 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 知能ウェイシュ，オールインワンのWeChatボット管理プラットフォーム、ChatGPT、FastGPT、Difyナレッジベースに最も簡単な方法でアクセスできます。図形描画、オンライン検索、音声認識、さまざまなタイマータスクをサポートし、企業WeChat、個人WeChat、公式アカウント、5Gメッセージ、WhatsAppをサポートします。
  * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - スムーズなAI体験を提供するTelegramボット。
  * [nlux](https://github.com/nluxai/nlux) - 対話型AIインターフェースを構築するためのオープンソースReact / Javascriptライブラリ
+ * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - これは、ChatGPTをLineに統合することができるリポジトリです。
 
 
 ## Browser-extensions
@@ -569,6 +585,7 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - NoneBotフレームワークをベースにしたAIチャットプラグインで、OpenAiテキスト生成APIと連携して、ロボットのパーソナリティのカスタマイズ/切り替え、チャットの記憶などの機能を実現しています。
  * [vim-ai](https://github.com/madox2/vim-ai) - Vim用のAIパワードコードアシスタント。VimとNeovim用のOpenAIとChatGPTプラグイン。
  * [AI-Employe](https://github.com/vignshwarar/ai-employe) - GPT-4 Visionを使用して人間に教えているかのようにブラウザ自動化を作成します。
+ * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - ChatGPT APIに基づいたRaycast翻訳プラグイン - ChatGPT APIに基づいたRaycast翻訳拡張機能。
 
 
 ## CLIs
@@ -940,6 +957,8 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathomは、オープンソースで再現可能なLLM評価スイートであり、10以上の主要なオープンソースおよびクローズドソースのLLM、さらにはOpenAIの以前のモデルを20以上の厳選されたベンチマークで比較評価するためのものです。
  * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreterは、大規模な言語モデルとGPT-4コードインタープリターのような高度なプロプライエタリシステムとの間のギャップを埋めることを目的としたオープンソースのコード生成システムのスイートです。これにより、コード生成能力が大幅に向上します。
  * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPTアプリ。 Flutterによって実装されたchatgptチャットアプリは、カスタムモードとコンテキスト継続対話をサポートしています。 さらに、admob広告の構成、オープンスクリーン広告へのアクセス、インタースティシャル広告、バナー広告をサポートしています。
+ * [ai00_server](https://github.com/ai00-x/ai00_server) - ChatGPTよりも優れたローカライズされたオープンソースAIサーバー。
+ * [CipherChat](https://github.com/robustnlp/cipherchat) - LLMの安全性整合性の汎化能力を評価するためのフレームワーク
 
 
 ## Langchain
@@ -1553,5 +1572,7 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信風のChatGPT、Next.jsで構築され、プライベートデプロイメントに最適な選択肢！
  * [wechatSDK](https://github.com/kawika-git/wechatsdk) - WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動描画、自動的に友達に投稿、自動的に動画を投稿するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
  * [Bunny](https://github.com/baai-dcai/bunny) - 軽量なマルチモーダルモデルのファミリー。
+ * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AIサークルの蛇口ウェブサイト、24時間ごとに1つのトークンを受け取り、AI製品の開発テストに使用できます。
+ * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - WE Learnの同行クラスの問題の答えを表示します。クラスのテストをサポートします。自動回答、学習時間を記録し、ChatGPTに基づいた回答生成を行います。
 
 

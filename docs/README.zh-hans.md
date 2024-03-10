@@ -14,15 +14,29 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [Gemini](https://github.com/kyegomez/gemini) - 谷歌将“超越ChatGPT”的Gemini模型的开源实现
+**Awesome-lists**
+ * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 收集LLM资源，可用于构建您可以“拥有”的产品，或进行可重复研究。
+
+
+**Chatbots**
+ * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - 这是一个允许您将ChatGPT集成到Line中的存储库。
+
+
+**Browser-extensions**
+ * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - 基于 ChatGPT API 的 Raycast 翻译扩展。
 
 
 **NLP**
- * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT 应用程序。由flutter实现的chatgpt聊天应用程序支持自定义模式和上下文连续对话。此外，它支持admob广告配置，访问开屏广告、插页广告、横幅。
+ * [ai00_server](https://github.com/ai00-x/ai00_server) - 一个比ChatGPT更好的本地化开源AI服务器。
+ * [CipherChat](https://github.com/robustnlp/cipherchat) - 一个评估LLMs安全对齐泛化能力的框架
 
 
-_Updated on March 07, 2024_ (A total of 1456 repositories listed.)
+**Others**
+ * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AI圈的水龙头网站，每24小时可领取一个令牌用于开发测试AI产品。
+ * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - 显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成
+
+
+_Updated on March 11, 2024_ (A total of 1463 repositories listed.)
 
 ## Table of contents
 
@@ -98,6 +112,7 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - GPTs商店中排名靠前的GPTs的精选聊天GPT提示列表。输出：
  * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 强大的LLM鲁棒性：大型语言模型中不确定性、可靠性和鲁棒性的精选列表
  * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - 精心策划的聊天GPT提示列表，来自GPT商店中排名靠前的GPT。提示工程，提示攻击和提示保护。高级提示工程论文。
+ * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 收集LLM资源，可用于构建您可以“拥有”的产品，或进行可重复研究。
 
 
 ## Prompts
@@ -409,6 +424,7 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp。
  * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - 一个具有流畅人工智能体验的Telegram机器人。
  * [nlux](https://github.com/nluxai/nlux) - 用于构建对话人工智能界面的开源React / Javascript库
+ * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - 这是一个允许您将ChatGPT集成到Line中的存储库。
 
 
 ## Browser-extensions
@@ -569,6 +585,7 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - 一个基于NoneBot框架的Ai聊天插件，对接OpenAi文本生成接口，实现了机器人的人格自定义/切换，聊天记忆等功能。
  * [vim-ai](https://github.com/madox2/vim-ai) - 基于人工智能的Vim代码助手。Vim和Neovim的OpenAI和ChatGPT插件。
  * [AI-Employe](https://github.com/vignshwarar/ai-employe) - 使用GPT-4 Vision 创建浏览器自动化，就像教导人类一样。
+ * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - 基于 ChatGPT API 的 Raycast 翻译扩展。
 
 
 ## CLIs
@@ -940,6 +957,8 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - GPT-Fathom是一个开源且可重现的LLM评估套件，对10多个领先的开源和闭源LLM以及OpenAI早期模型在20多个精心策划的基准测试下进行基准测试。
  * [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - OpenCodeInterpreter是一套开源代码生成系统，旨在弥合大型语言模型和复杂专有系统（如GPT-4代码解释器）之间的差距。它通过显著增强代码生成能力，帮助用户更好地生成代码。
  * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT 应用程序。由flutter实现的chatgpt聊天应用程序支持自定义模式和上下文连续对话。此外，它支持admob广告配置，访问开屏广告、插页广告、横幅。
+ * [ai00_server](https://github.com/ai00-x/ai00_server) - 一个比ChatGPT更好的本地化开源AI服务器。
+ * [CipherChat](https://github.com/robustnlp/cipherchat) - 一个评估LLMs安全对齐泛化能力的框架
 
 
 ## Langchain
@@ -1553,5 +1572,7 @@ _Updated on March 07, 2024_ (A total of 1456 repositories listed.)
  * [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信风格的 ChatGPT，使用 Next.js 构建，私有化部署的最佳选择！
  * [wechatSDK](https://github.com/kawika-git/wechatsdk) - 微信机器人是一个基于Python 3.11开发的创新项目，结合了ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
  * [Bunny](https://github.com/baai-dcai/bunny) - 一家轻量级多模型。
+ * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AI圈的水龙头网站，每24小时可领取一个令牌用于开发测试AI产品。
+ * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - 显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成
 
 
