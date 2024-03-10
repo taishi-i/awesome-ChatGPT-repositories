@@ -1436,6 +1436,30 @@
                     "zh-hans": "精心策划的聊天GPT提示列表，来自GPT商店中排名靠前的GPT。提示工程，提示攻击和提示保护。高级提示工程论文。",
                     "zh-hant": "從GPTs Store中排名前列的GPTs中精心挑選的聊天GPT提示列表。提示工程，提示攻擊和提示保護。高級提示工程論文。"
                 }
+            },
+            "https://github.com/imaurer/awesome-decentralized-llm": {
+                "repository_name": "awesome-decentralized-llm",
+                "user_name": "imaurer",
+                "language": null,
+                "license": "MIT License",
+                "description": "Collection of LLM resources that can be used to build products you can \"own\" or to perform reproducible research.",
+                "topics": [
+                    "agents",
+                    "agi",
+                    "awesome-list",
+                    "chatgpt",
+                    "chatgpt-plugins",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "rwkv"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Collection of LLM resources that can be used to build products you can \"own\" or to perform reproducible research.",
+                    "ja": "所有可能なLLMリソースのコレクション。これらを使用して、所有できる製品を作成したり、再現可能な研究を行ったりすることができます。",
+                    "zh-hans": "收集LLM资源，可用于构建您可以“拥有”的产品，或进行可重复研究。",
+                    "zh-hant": "可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。"
+                }
             }
         },
         "Prompts": {
@@ -8397,6 +8421,20 @@
                     "zh-hans": "用于构建对话人工智能界面的开源React / Javascript库",
                     "zh-hant": "用於構建對話式人工智能界面的開源React / Javascript庫"
                 }
+            },
+            "https://github.com/theexplainthis/chatgpt-line-bot": {
+                "repository_name": "ChatGPT-Line-Bot",
+                "user_name": "TheExplainthis",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "This is a repository that allows you to integrate ChatGPT into Line.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This is a repository that allows you to integrate ChatGPT into Line.",
+                    "ja": "これは、ChatGPTをLineに統合することができるリポジトリです。",
+                    "zh-hans": "这是一个允许您将ChatGPT集成到Line中的存储库。",
+                    "zh-hant": "這是一個允許您將ChatGPT整合到Line中的存儲庫。"
+                }
             }
         },
         "Browser-extensions": {
@@ -11841,6 +11879,20 @@
                     "ja": "GPT-4 Visionを使用して人間に教えているかのようにブラウザ自動化を作成します。",
                     "zh-hans": "使用GPT-4 Vision 创建浏览器自动化，就像教导人类一样。",
                     "zh-hant": "創建瀏覽器自動化，就像您在使用GPT-4 Vision教導人類一樣。"
+                }
+            },
+            "https://github.com/openai-translator/raycast-openai-translator": {
+                "repository_name": "raycast-openai-translator",
+                "user_name": "openai-translator",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.",
+                    "ja": "ChatGPT APIに基づいたRaycast翻訳プラグイン - ChatGPT APIに基づいたRaycast翻訳拡張機能。",
+                    "zh-hans": "基于 ChatGPT API 的 Raycast 翻译插件 - 基于 ChatGPT API 的 Raycast 翻译扩展。",
+                    "zh-hant": "基於 ChatGPT API 的 Raycast 翻譯插件 - 基於 ChatGPT API 的 Raycast 翻譯插件。"
                 }
             }
         },
@@ -19505,6 +19557,52 @@
                     "ja": "Flutter ChatGPTアプリ。 Flutterによって実装されたchatgptチャットアプリは、カスタムモードとコンテキスト継続対話をサポートしています。 さらに、admob広告の構成、オープンスクリーン広告へのアクセス、インタースティシャル広告、バナー広告をサポートしています。",
                     "zh-hans": "Flutter ChatGPT 应用程序。由flutter实现的chatgpt聊天应用程序支持自定义模式和上下文连续对话。此外，它支持admob广告配置，访问开屏广告、插页广告、横幅。",
                     "zh-hant": "Flutter ChatGPT應用程式。Flutter實現的chatgpt聊天應用程式支持自定義模式和上下文連續對話。此外，它支持admob廣告配置，訪問開屏廣告、插頁廣告、橫幅廣告。"
+                }
+            },
+            "https://github.com/ai00-x/ai00_server": {
+                "repository_name": "ai00_server",
+                "user_name": "Ai00-X",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "A localized open-source AI server that is better than ChatGPT.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt4",
+                    "chatgpt4free",
+                    "llm",
+                    "openai",
+                    "openai-api",
+                    "rwkv"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A localized open-source AI server that is better than ChatGPT.",
+                    "ja": "ChatGPTよりも優れたローカライズされたオープンソースAIサーバー。",
+                    "zh-hans": "一个比ChatGPT更好的本地化开源AI服务器。",
+                    "zh-hant": "一個比ChatGPT更好的本地化開源人工智慧伺服器。"
+                }
+            },
+            "https://github.com/robustnlp/cipherchat": {
+                "repository_name": "CipherChat",
+                "user_name": "RobustNLP",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A framework to evaluate the generalization capability of safety alignment for LLMs",
+                "topics": [
+                    "alignment",
+                    "chatgpt",
+                    "gpt-4-0613",
+                    "jailbreak",
+                    "large-language-models",
+                    "llm",
+                    "security"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A framework to evaluate the generalization capability of safety alignment for LLMs",
+                    "ja": "LLMの安全性整合性の汎化能力を評価するためのフレームワーク",
+                    "zh-hans": "一个评估LLMs安全对齐泛化能力的框架",
+                    "zh-hant": "一個評估LLM安全對齊泛化能力的框架"
                 }
             }
         },
@@ -31633,6 +31731,41 @@
                     "ja": "軽量なマルチモーダルモデルのファミリー。",
                     "zh-hans": "一家轻量级多模型。",
                     "zh-hant": "一個輕量級多模型家族。"
+                }
+            },
+            "https://github.com/terobox/chatgpt-api-faucet": {
+                "repository_name": "ChatGPT-API-Faucet",
+                "user_name": "terobox",
+                "language": "TypeScript",
+                "license": null,
+                "description": "AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "AI Circle's faucet website, where you can receive one token every 24 hours for developing and testing AI products.",
+                    "ja": "AIサークルの蛇口ウェブサイト、24時間ごとに1つのトークンを受け取り、AI製品の開発テストに使用できます。",
+                    "zh-hans": "AI圈的水龙头网站，每24小时可领取一个令牌用于开发测试AI产品。",
+                    "zh-hant": "AI 圈的水龍頭網站，每24小時可領取一個令牌用於開發測試 AI 產品。"
+                }
+            },
+            "https://github.com/ssmjae/welearnhelper": {
+                "repository_name": "WELearnHelper",
+                "user_name": "SSmJaE",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成",
+                "topics": [
+                    "english-learning",
+                    "online-course",
+                    "scriptcat",
+                    "tampermonkey",
+                    "userscript",
+                    "welearn"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Display WE Learn accompanying classroom question answers; support class tests; automatic answering; time brushing; answer generation based on generative AI (ChatGPT)",
+                    "ja": "WE Learnの同行クラスの問題の答えを表示します。クラスのテストをサポートします。自動回答、学習時間を記録し、ChatGPTに基づいた回答生成を行います。",
+                    "zh-hans": "显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成",
+                    "zh-hant": "顯示WE Learn隨行課堂題目答案；支持班級測驗；自動答題；刷時長；基於生成式AI(ChatGPT)的答案生成"
                 }
             }
         }
