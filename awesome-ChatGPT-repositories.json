@@ -8435,6 +8435,62 @@
                     "zh-hans": "这是一个允许您将ChatGPT集成到Line中的存储库。",
                     "zh-hant": "這是一個允許您將ChatGPT整合到Line中的存儲庫。"
                 }
+            },
+            "https://github.com/jiran214/langup-ai": {
+                "repository_name": "langup-ai",
+                "user_name": "jiran214",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "AGI 社交网络 Bot.  BiliBili |  直播聊天数字人 | 视频@自动回复 | 私信bot | 终端聊天  |  语音交互",
+                "topics": [
+                    "bilibili",
+                    "bot",
+                    "chatgpt",
+                    "gpt",
+                    "langchain",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AGI Social Network Bot. BiliBili | Live Chat Digital Person | Video @ Auto Reply | Private Message Bot | Terminal Chat | Voice Interaction",
+                    "ja": "AGI ソーシャルネットワークボット。BiliBili | ライブチャット数字人 | 動画@自動返信 | ダイレクトメッセージボット | 端末チャット | 音声インタラクション",
+                    "zh-hans": "AGI社交网络机器人。BiliBili | 直播聊天数字人 | 视频@自动回复 | 私信机器人 | 终端聊天 | 语音交互",
+                    "zh-hant": "AGI 社交網絡 Bot。BiliBili | 直播聊天數字人 | 視頻@自動回覆 | 私信bot | 終端聊天 | 語音交互"
+                }
+            },
+            "https://github.com/shamspias/customizable-gpt-chatbot": {
+                "repository_name": "customizable-gpt-chatbot",
+                "user_name": "shamspias",
+                "language": "Python",
+                "license": null,
+                "description": "A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, websites, and YouTube videos. Leveraging OpenAI's GPT-3.5, Pinecone, FAISS, and Celery for seamless integration and performance.",
+                "topics": [
+                    "artificial-intelligence",
+                    "autogpt",
+                    "chatbot",
+                    "conversational-ai",
+                    "data-preprocessing",
+                    "django",
+                    "django-rest-framework",
+                    "gpt-3",
+                    "gpt-voice",
+                    "langchain",
+                    "langchain-python",
+                    "longchain",
+                    "machine-learning",
+                    "natural-language-processing",
+                    "nlp",
+                    "python",
+                    "voice-chat",
+                    "voice-recognition",
+                    "voice-to-text",
+                    "voice-transcription"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, websites, and YouTube videos. Leveraging OpenAI's GPT-3.5, Pinecone, FAISS, and Celery for seamless integration and performance.",
+                    "ja": "Django RESTフレームワークで構築されたダイナミックでスケーラブルなAIチャットボットは、PDF、ドキュメント、ウェブサイト、YouTubeビデオからのカスタムトレーニングをサポートしています。 OpenAIのGPT-3.5、Pinecone、FAISS、およびCeleryを活用して、シームレスな統合とパフォーマンスを実現しています。",
+                    "zh-hans": "使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。",
+                    "zh-hant": "使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。"
+                }
             }
         },
         "Browser-extensions": {
@@ -19604,6 +19660,28 @@
                     "zh-hans": "一个评估LLMs安全对齐泛化能力的框架",
                     "zh-hant": "一個評估LLM安全對齊泛化能力的框架"
                 }
+            },
+            "https://github.com/batsresearch/bonito": {
+                "repository_name": "bonito",
+                "user_name": "BatsResearch",
+                "language": "Python",
+                "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "description": "A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.",
+                "topics": [
+                    "domain-adaptation",
+                    "gpt",
+                    "llm",
+                    "synthetic-data",
+                    "synthetic-dataset-generation",
+                    "task-adaptation",
+                    "zero-shot-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.",
+                    "ja": "GPTなしでデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。GPTを使用せずにデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。",
+                    "zh-hans": "一个轻量级的库，用于生成合成指令调整数据集，无需使用GPT。",
+                    "zh-hant": "一個輕量級的庫，用於生成合成指令調整數據集，無需使用GPT。"
+                }
             }
         },
         "Langchain": {
@@ -24980,6 +25058,27 @@
                     "ja": "JavaScript BPE Tokenizer Encoder Decoder for OpenAIのGPT-2 / GPT-3 / GPT-4。OpenAIのtiktokenのポートに追加機能を備えています。",
                     "zh-hans": "JavaScript BPE Tokenizer编码器解码器适用于OpenAI的GPT-2 / GPT-3 / GPT-4。具有额外功能的OpenAI的tiktoken端口。",
                     "zh-hant": "JavaScript BPE Tokenizer 編碼器解碼器，用於 OpenAI 的 GPT-2 / GPT-3 / GPT-4。具有額外功能的 OpenAI tiktoken 的移植版本。"
+                }
+            },
+            "https://github.com/dqbd/tiktokenizer": {
+                "repository_name": "tiktokenizer",
+                "user_name": "dqbd",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Online playground for OpenAPI tokenizers",
+                "topics": [
+                    "chatgpt",
+                    "nextjs",
+                    "openai",
+                    "t3-stack",
+                    "tiktoken",
+                    "tokenizer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Online playground for OpenAPI tokenizers",
+                    "ja": "OpenAPIトークナイザーのためのオンラインプレイグラウンド",
+                    "zh-hans": "在线游乐场，用于OpenAPI令牌化器",
+                    "zh-hant": "線上遊樂場，用於OpenAPI tokenizers"
                 }
             }
         },

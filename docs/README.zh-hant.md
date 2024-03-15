@@ -14,29 +14,20 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。
-
-
 **Chatbots**
- * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - 這是一個允許您將ChatGPT整合到Line中的存儲庫。
-
-
-**Browser-extensions**
- * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基於 ChatGPT API 的 Raycast 翻譯插件 - 基於 ChatGPT API 的 Raycast 翻譯插件。
+ * [langup-ai](https://github.com/jiran214/langup-ai) - AGI 社交網絡 Bot。BiliBili | 直播聊天數字人 | 視頻@自動回覆 | 私信bot | 終端聊天 | 語音交互
+ * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - 使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。
 
 
 **NLP**
- * [ai00_server](https://github.com/ai00-x/ai00_server) - 一個比ChatGPT更好的本地化開源人工智慧伺服器。
- * [CipherChat](https://github.com/robustnlp/cipherchat) - 一個評估LLM安全對齊泛化能力的框架
+ * [bonito](https://github.com/batsresearch/bonito) - 一個輕量級的庫，用於生成合成指令調整數據集，無需使用GPT。
 
 
-**Others**
- * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AI 圈的水龍頭網站，每24小時可領取一個令牌用於開發測試 AI 產品。
- * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - 顯示WE Learn隨行課堂題目答案；支持班級測驗；自動答題；刷時長；基於生成式AI(ChatGPT)的答案生成
+**Openai**
+ * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - 線上遊樂場，用於OpenAPI tokenizers
 
 
-_Updated on March 11, 2024_ (A total of 1463 repositories listed.)
+_Updated on March 16, 2024_ (A total of 1467 repositories listed.)
 
 ## Table of contents
 
@@ -425,6 +416,8 @@ _Updated on March 11, 2024_ (A total of 1463 repositories listed.)
  * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - 一個具有流暢人工智慧體驗的Telegram機器人。
  * [nlux](https://github.com/nluxai/nlux) - 用於構建對話式人工智能界面的開源React / Javascript庫
  * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - 這是一個允許您將ChatGPT整合到Line中的存儲庫。
+ * [langup-ai](https://github.com/jiran214/langup-ai) - AGI 社交網絡 Bot。BiliBili | 直播聊天數字人 | 視頻@自動回覆 | 私信bot | 終端聊天 | 語音交互
+ * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - 使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。
 
 
 ## Browser-extensions
@@ -959,6 +952,7 @@ _Updated on March 11, 2024_ (A total of 1463 repositories listed.)
  * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT應用程式。Flutter實現的chatgpt聊天應用程式支持自定義模式和上下文連續對話。此外，它支持admob廣告配置，訪問開屏廣告、插頁廣告、橫幅廣告。
  * [ai00_server](https://github.com/ai00-x/ai00_server) - 一個比ChatGPT更好的本地化開源人工智慧伺服器。
  * [CipherChat](https://github.com/robustnlp/cipherchat) - 一個評估LLM安全對齊泛化能力的框架
+ * [bonito](https://github.com/batsresearch/bonito) - 一個輕量級的庫，用於生成合成指令調整數據集，無需使用GPT。
 
 
 ## Langchain
@@ -1213,6 +1207,7 @@ _Updated on March 11, 2024_ (A total of 1463 repositories listed.)
  * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - 這個存儲庫提供了一個簡單的界面，幫助您閱讀和總結 PDF 格式的研究論文。閱讀後，您可以提出一些問題。該界面是基於 openai API 開發的，並使用 GPT-3.5-turbo 模型。
  * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - 根據Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等創建最佳管理員。
  * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer 編碼器解碼器，用於 OpenAI 的 GPT-2 / GPT-3 / GPT-4。具有額外功能的 OpenAI tiktoken 的移植版本。
+ * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - 線上遊樂場，用於OpenAPI tokenizers
 
 
 ## Others

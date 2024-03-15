@@ -14,29 +14,20 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 所有可能なLLMリソースのコレクション。これらを使用して、所有できる製品を作成したり、再現可能な研究を行ったりすることができます。
-
-
 **Chatbots**
- * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - これは、ChatGPTをLineに統合することができるリポジトリです。
-
-
-**Browser-extensions**
- * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - ChatGPT APIに基づいたRaycast翻訳プラグイン - ChatGPT APIに基づいたRaycast翻訳拡張機能。
+ * [langup-ai](https://github.com/jiran214/langup-ai) - AGI ソーシャルネットワークボット。BiliBili | ライブチャット数字人 | 動画@自動返信 | ダイレクトメッセージボット | 端末チャット | 音声インタラクション
+ * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - Django RESTフレームワークで構築されたダイナミックでスケーラブルなAIチャットボットは、PDF、ドキュメント、ウェブサイト、YouTubeビデオからのカスタムトレーニングをサポートしています。 OpenAIのGPT-3.5、Pinecone、FAISS、およびCeleryを活用して、シームレスな統合とパフォーマンスを実現しています。
 
 
 **NLP**
- * [ai00_server](https://github.com/ai00-x/ai00_server) - ChatGPTよりも優れたローカライズされたオープンソースAIサーバー。
- * [CipherChat](https://github.com/robustnlp/cipherchat) - LLMの安全性整合性の汎化能力を評価するためのフレームワーク
+ * [bonito](https://github.com/batsresearch/bonito) - GPTなしでデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。GPTを使用せずにデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。
 
 
-**Others**
- * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AIサークルの蛇口ウェブサイト、24時間ごとに1つのトークンを受け取り、AI製品の開発テストに使用できます。
- * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - WE Learnの同行クラスの問題の答えを表示します。クラスのテストをサポートします。自動回答、学習時間を記録し、ChatGPTに基づいた回答生成を行います。
+**Openai**
+ * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - OpenAPIトークナイザーのためのオンラインプレイグラウンド
 
 
-_Updated on March 11, 2024_ (A total of 1463 repositories listed.)
+_Updated on March 16, 2024_ (A total of 1467 repositories listed.)
 
 ## Table of contents
 
@@ -425,6 +416,8 @@ _Updated on March 11, 2024_ (A total of 1463 repositories listed.)
  * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - スムーズなAI体験を提供するTelegramボット。
  * [nlux](https://github.com/nluxai/nlux) - 対話型AIインターフェースを構築するためのオープンソースReact / Javascriptライブラリ
  * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - これは、ChatGPTをLineに統合することができるリポジトリです。
+ * [langup-ai](https://github.com/jiran214/langup-ai) - AGI ソーシャルネットワークボット。BiliBili | ライブチャット数字人 | 動画@自動返信 | ダイレクトメッセージボット | 端末チャット | 音声インタラクション
+ * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - Django RESTフレームワークで構築されたダイナミックでスケーラブルなAIチャットボットは、PDF、ドキュメント、ウェブサイト、YouTubeビデオからのカスタムトレーニングをサポートしています。 OpenAIのGPT-3.5、Pinecone、FAISS、およびCeleryを活用して、シームレスな統合とパフォーマンスを実現しています。
 
 
 ## Browser-extensions
@@ -959,6 +952,7 @@ _Updated on March 11, 2024_ (A total of 1463 repositories listed.)
  * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPTアプリ。 Flutterによって実装されたchatgptチャットアプリは、カスタムモードとコンテキスト継続対話をサポートしています。 さらに、admob広告の構成、オープンスクリーン広告へのアクセス、インタースティシャル広告、バナー広告をサポートしています。
  * [ai00_server](https://github.com/ai00-x/ai00_server) - ChatGPTよりも優れたローカライズされたオープンソースAIサーバー。
  * [CipherChat](https://github.com/robustnlp/cipherchat) - LLMの安全性整合性の汎化能力を評価するためのフレームワーク
+ * [bonito](https://github.com/batsresearch/bonito) - GPTなしでデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。GPTを使用せずにデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。
 
 
 ## Langchain
@@ -1213,6 +1207,7 @@ _Updated on March 11, 2024_ (A total of 1463 repositories listed.)
  * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - このリポジトリは、PDF形式の研究論文を読んだり要約したりするのを手助けするシンプルなインターフェースを提供しています。読んだ後にいくつかの質問をすることができます。このインターフェースは、openai APIをベースに開発され、GPT-3.5-turboモデルを使用しています。
  * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebaseなどを基に最高の管理者を作成してください。
  * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAIのGPT-2 / GPT-3 / GPT-4。OpenAIのtiktokenのポートに追加機能を備えています。
+ * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - OpenAPIトークナイザーのためのオンラインプレイグラウンド
 
 
 ## Others
