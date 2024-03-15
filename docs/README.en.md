@@ -14,29 +14,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
-
-
 **Chatbots**
- * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - This is a repository that allows you to integrate ChatGPT into Line.
-
-
-**Browser-extensions**
- * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.
+ * [langup-ai](https://github.com/jiran214/langup-ai) - AGI Social Network Bot. BiliBili | Live Chat Digital Person | Video @ Auto Reply | Private Message Bot | Terminal Chat | Voice Interaction
+ * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, websites, and YouTube videos. Leveraging OpenAI's GPT-3.5, Pinecone, FAISS, and Celery for seamless integration and performance.
 
 
 **NLP**
- * [ai00_server](https://github.com/ai00-x/ai00_server) - A localized open-source AI server that is better than ChatGPT.
- * [CipherChat](https://github.com/robustnlp/cipherchat) - A framework to evaluate the generalization capability of safety alignment for LLMs
+ * [bonito](https://github.com/batsresearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
 
 
-**Others**
- * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AI Circle's faucet website, where you can receive one token every 24 hours for developing and testing AI products.
- * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - Display WE Learn accompanying classroom question answers; support class tests; automatic answering; time brushing; answer generation based on generative AI (ChatGPT)
+**Openai**
+ * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
 
 
-_Updated on March 11, 2024_ (A total of 1463 repositories listed.)
+_Updated on March 16, 2024_ (A total of 1467 repositories listed.)
 
 ## Table of contents
 
@@ -425,6 +416,8 @@ _Updated on March 11, 2024_ (A total of 1463 repositories listed.)
  * [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - A Telegram bot with a smooth AI experience.
  * [nlux](https://github.com/nluxai/nlux) - The Open-Source React / Javascript Library To Build Conversational AI Interfaces
  * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - This is a repository that allows you to integrate ChatGPT into Line.
+ * [langup-ai](https://github.com/jiran214/langup-ai) - AGI Social Network Bot. BiliBili | Live Chat Digital Person | Video @ Auto Reply | Private Message Bot | Terminal Chat | Voice Interaction
+ * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, websites, and YouTube videos. Leveraging OpenAI's GPT-3.5, Pinecone, FAISS, and Celery for seamless integration and performance.
 
 
 ## Browser-extensions
@@ -959,6 +952,7 @@ _Updated on March 11, 2024_ (A total of 1463 repositories listed.)
  * [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open screen advertisements, interstitial advertisements, Banner
  * [ai00_server](https://github.com/ai00-x/ai00_server) - A localized open-source AI server that is better than ChatGPT.
  * [CipherChat](https://github.com/robustnlp/cipherchat) - A framework to evaluate the generalization capability of safety alignment for LLMs
+ * [bonito](https://github.com/batsresearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
 
 
 ## Langchain
@@ -1213,6 +1207,7 @@ _Updated on March 11, 2024_ (A total of 1463 repositories listed.)
  * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - This repo offers a simple interface that helps you to read&summerize research papers in pdf format. You can ask some questions after reading. This interface is developed based on openai API and using GPT-3.5-turbo model.
  * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Create the best admin based on Vue3.2, Vite4.1, TypeScript, Vuetify3, Chat GPT,Firebase etc.
  * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
+ * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
 
 
 ## Others
