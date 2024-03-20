@@ -14,20 +14,27 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - 一个关于GPT-4语言模型的策划列表，工具和资源。
+
+
+**Prompts**
+ * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 使用ChatGPT进行学术写作
+
+
 **Chatbots**
- * [langup-ai](https://github.com/jiran214/langup-ai) - AGI社交网络机器人。BiliBili | 直播聊天数字人 | 视频@自动回复 | 私信机器人 | 终端聊天 | 语音交互
- * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - 使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。
+ * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT是一个基于GPT-4-200K（推荐使用）的OSINT助手，旨在对泄露的数据库进行查询，从而提供一个人工智能助手，可以在您传统的OSINT流程中发挥作用。
 
 
 **NLP**
- * [bonito](https://github.com/batsresearch/bonito) - 一个轻量级的库，用于生成合成指令调整数据集，无需使用GPT。
+ * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - 一个简单的网络应用程序，用于OpenAI启用的文档搜索。该存储库使用Azure OpenAI服务从文档中创建嵌入向量。为了回答用户的问题，它检索最相关的文档，然后使用GPT-3、GPT-3.5或其他技术。
 
 
-**Openai**
- * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - 在线游乐场，用于OpenAPI令牌化器
+**Langchain**
+ * [llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
 
 
-_Updated on March 16, 2024_ (A total of 1467 repositories listed.)
+_Updated on March 21, 2024_ (A total of 1472 repositories listed.)
 
 ## Table of contents
 
@@ -104,6 +111,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 强大的LLM鲁棒性：大型语言模型中不确定性、可靠性和鲁棒性的精选列表
  * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - 精心策划的聊天GPT提示列表，来自GPT商店中排名靠前的GPT。提示工程，提示攻击和提示保护。高级提示工程论文。
  * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 收集LLM资源，可用于构建您可以“拥有”的产品，或进行可重复研究。
+ * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - 一个关于GPT-4语言模型的策划列表，工具和资源。
 
 
 ## Prompts
@@ -216,6 +224,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [llm-guard](https://github.com/protectai/llm-guard) - LLM互动安全工具包
  * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT和Bing AI提示策划输出：
  * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - 用于评估和提升LLM安全性的中文安全提示。
+ * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 使用ChatGPT进行学术写作
 
 
 ## Chatbots
@@ -418,6 +427,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - 这是一个允许您将ChatGPT集成到Line中的存储库。
  * [langup-ai](https://github.com/jiran214/langup-ai) - AGI社交网络机器人。BiliBili | 直播聊天数字人 | 视频@自动回复 | 私信机器人 | 终端聊天 | 语音交互
  * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - 使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。
+ * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT是一个基于GPT-4-200K（推荐使用）的OSINT助手，旨在对泄露的数据库进行查询，从而提供一个人工智能助手，可以在您传统的OSINT流程中发挥作用。
 
 
 ## Browser-extensions
@@ -953,6 +963,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [ai00_server](https://github.com/ai00-x/ai00_server) - 一个比ChatGPT更好的本地化开源AI服务器。
  * [CipherChat](https://github.com/robustnlp/cipherchat) - 一个评估LLMs安全对齐泛化能力的框架
  * [bonito](https://github.com/batsresearch/bonito) - 一个轻量级的库，用于生成合成指令调整数据集，无需使用GPT。
+ * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - 一个简单的网络应用程序，用于OpenAI启用的文档搜索。该存储库使用Azure OpenAI服务从文档中创建嵌入向量。为了回答用户的问题，它检索最相关的文档，然后使用GPT-3、GPT-3.5或其他技术。
 
 
 ## Langchain
@@ -1041,6 +1052,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。医疗LLM，开源驱动，助力健康未来。
  * [PIXIU](https://github.com/the-finai/pixiu) - 这个仓库介绍了PIXIU，一个开源资源，包括第一个金融大型语言模型（LLMs）、指导调整数据和评估基准，以全面评估金融LLMs。我们的目标是不断推动开放。
  * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - 使用Python、ChatGPT和其他模型构建大型语言模型（LLM）应用程序。这是与LangChain上生成式AI书籍配套的存储库。
+ * [llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
 
 
 ## Unity

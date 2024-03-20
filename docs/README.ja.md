@@ -14,20 +14,27 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - GPT-4言語モデルに関する厳選されたプロンプト、ツール、リソースのリスト。
+
+
+**Prompts**
+ * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 学術論文の執筆にChatGPTを使用してください。
+
+
 **Chatbots**
- * [langup-ai](https://github.com/jiran214/langup-ai) - AGI ソーシャルネットワークボット。BiliBili | ライブチャット数字人 | 動画@自動返信 | ダイレクトメッセージボット | 端末チャット | 音声インタラクション
- * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - Django RESTフレームワークで構築されたダイナミックでスケーラブルなAIチャットボットは、PDF、ドキュメント、ウェブサイト、YouTubeビデオからのカスタムトレーニングをサポートしています。 OpenAIのGPT-3.5、Pinecone、FAISS、およびCeleryを活用して、シームレスな統合とパフォーマンスを実現しています。
+ * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPTは、リークされたデータベースにクエリを実行するために設計されたGPT-4-200K（推奨使用）に基づくOSINTアシスタントであり、従来のOSINTプロセスで役立つ人工知能アシスタントを提供します。
 
 
 **NLP**
- * [bonito](https://github.com/batsresearch/bonito) - GPTなしでデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。GPTを使用せずにデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。
+ * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - OpenAIを利用したドキュメント検索のためのシンプルなWebアプリケーション。このリポジトリは、ドキュメントから埋め込みベクトルを作成するためにAzure OpenAIサービスを使用しています。ユーザーの質問に回答するために、最も関連性の高いドキュメントを取得し、その後GPT-3、GPT-3.5を使用します。
 
 
-**Openai**
- * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - OpenAPIトークナイザーのためのオンラインプレイグラウンド
+**Langchain**
+ * [llm-books](https://github.com/morsoli/llm-books) - LLMを使用してアプリケーションを構築する実践ノート
 
 
-_Updated on March 16, 2024_ (A total of 1467 repositories listed.)
+_Updated on March 21, 2024_ (A total of 1472 repositories listed.)
 
 ## Table of contents
 
@@ -104,6 +111,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - 素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト素晴らしい-LLM-頑健性：大規模言語モデルにおける不確実性、信頼性、および頑健性の厳選されたリスト
  * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - GPTストアのトップ評価を受けたGPTからのチャットGPTプロンプトのキュレーションリスト。プロンプトエンジニアリング、プロンプト攻撃＆プロンプト保護。高度なプロンプトエンジニアリング論文。
  * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 所有可能なLLMリソースのコレクション。これらを使用して、所有できる製品を作成したり、再現可能な研究を行ったりすることができます。
+ * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - GPT-4言語モデルに関する厳選されたプロンプト、ツール、リソースのリスト。
 
 
 ## Prompts
@@ -216,6 +224,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [llm-guard](https://github.com/protectai/llm-guard) - LLMインタラクションのためのセキュリティツールキット
  * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPTとBing AIのプロンプトキュレーション
  * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - LLMの安全性を評価および向上させるための中国語の安全プロンプト。
+ * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 学術論文の執筆にChatGPTを使用してください。
 
 
 ## Chatbots
@@ -418,6 +427,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - これは、ChatGPTをLineに統合することができるリポジトリです。
  * [langup-ai](https://github.com/jiran214/langup-ai) - AGI ソーシャルネットワークボット。BiliBili | ライブチャット数字人 | 動画@自動返信 | ダイレクトメッセージボット | 端末チャット | 音声インタラクション
  * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - Django RESTフレームワークで構築されたダイナミックでスケーラブルなAIチャットボットは、PDF、ドキュメント、ウェブサイト、YouTubeビデオからのカスタムトレーニングをサポートしています。 OpenAIのGPT-3.5、Pinecone、FAISS、およびCeleryを活用して、シームレスな統合とパフォーマンスを実現しています。
+ * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPTは、リークされたデータベースにクエリを実行するために設計されたGPT-4-200K（推奨使用）に基づくOSINTアシスタントであり、従来のOSINTプロセスで役立つ人工知能アシスタントを提供します。
 
 
 ## Browser-extensions
@@ -953,6 +963,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [ai00_server](https://github.com/ai00-x/ai00_server) - ChatGPTよりも優れたローカライズされたオープンソースAIサーバー。
  * [CipherChat](https://github.com/robustnlp/cipherchat) - LLMの安全性整合性の汎化能力を評価するためのフレームワーク
  * [bonito](https://github.com/batsresearch/bonito) - GPTなしでデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。GPTを使用せずにデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。
+ * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - OpenAIを利用したドキュメント検索のためのシンプルなWebアプリケーション。このリポジトリは、ドキュメントから埋め込みベクトルを作成するためにAzure OpenAIサービスを使用しています。ユーザーの質問に回答するために、最も関連性の高いドキュメントを取得し、その後GPT-3、GPT-3.5を使用します。
 
 
 ## Langchain
@@ -1041,6 +1052,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT（关怀GPT）は、医療向けの大規模言語モデルであり、数十の公開データセットとオープンソースの医療大規模言語モデルを組み合わせています。LLMのトレーニング、評価、展開などを含む医療LLMの迅速な発展を促進するために使用されています。Medical LLM、健康な未来のためのオープンソース。
  * [PIXIU](https://github.com/the-finai/pixiu) - このリポジトリは、初の金融向け大規模言語モデル（LLM）、インストラクションチューニングデータ、評価ベンチマークを特徴とするオープンソースリソースであるPIXIUを紹介しています。私たちの目標は、オープンを常に前進させることです。
  * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Python、ChatGPT、およびその他のモデルを使用して大規模言語モデル（LLM）アプリを構築します。これはLangChainの生成AIに関する書籍のためのコンパニオンリポジトリです。
+ * [llm-books](https://github.com/morsoli/llm-books) - LLMを使用してアプリケーションを構築する実践ノート
 
 
 ## Unity

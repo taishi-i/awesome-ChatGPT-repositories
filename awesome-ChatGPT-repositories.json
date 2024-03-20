@@ -1460,6 +1460,24 @@
                     "zh-hans": "收集LLM资源，可用于构建您可以“拥有”的产品，或进行可重复研究。",
                     "zh-hant": "可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。"
                 }
+            },
+            "https://github.com/radi-cho/awesome-gpt4": {
+                "repository_name": "awesome-gpt4",
+                "user_name": "radi-cho",
+                "language": null,
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "gpt-4"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
+                    "ja": "GPT-4言語モデルに関する厳選されたプロンプト、ツール、リソースのリスト。",
+                    "zh-hans": "一个关于GPT-4语言模型的策划列表，工具和资源。",
+                    "zh-hant": "一個關於GPT-4語言模型的精選提示、工具和資源清單。"
+                }
             }
         },
         "Prompts": {
@@ -3850,6 +3868,20 @@
                     "ja": "LLMの安全性を評価および向上させるための中国語の安全プロンプト。",
                     "zh-hans": "用于评估和提升LLM安全性的中文安全提示。",
                     "zh-hant": "用於評估和提升LLM安全性的中文安全提示。"
+                }
+            },
+            "https://github.com/xuhangc/chatgpt-academic-prompt": {
+                "repository_name": "ChatGPT-Academic-Prompt",
+                "user_name": "xuhangc",
+                "language": null,
+                "license": "MIT License",
+                "description": "Use ChatGPT for academic writing",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Use ChatGPT for academic writing",
+                    "ja": "学術論文の執筆にChatGPTを使用してください。",
+                    "zh-hans": "使用ChatGPT进行学术写作",
+                    "zh-hant": "使用ChatGPT進行學術寫作"
                 }
             }
         },
@@ -8490,6 +8522,20 @@
                     "ja": "Django RESTフレームワークで構築されたダイナミックでスケーラブルなAIチャットボットは、PDF、ドキュメント、ウェブサイト、YouTubeビデオからのカスタムトレーニングをサポートしています。 OpenAIのGPT-3.5、Pinecone、FAISS、およびCeleryを活用して、シームレスな統合とパフォーマンスを実現しています。",
                     "zh-hans": "使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。",
                     "zh-hant": "使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。"
+                }
+            },
+            "https://github.com/luijait/darkgpt": {
+                "repository_name": "DarkGPT",
+                "user_name": "luijait",
+                "language": "Python",
+                "license": null,
+                "description": "DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.",
+                    "ja": "DarkGPTは、リークされたデータベースにクエリを実行するために設計されたGPT-4-200K（推奨使用）に基づくOSINTアシスタントであり、従来のOSINTプロセスで役立つ人工知能アシスタントを提供します。",
+                    "zh-hans": "DarkGPT是一个基于GPT-4-200K（推荐使用）的OSINT助手，旨在对泄露的数据库进行查询，从而提供一个人工智能助手，可以在您传统的OSINT流程中发挥作用。",
+                    "zh-hant": "DarkGPT是一個基於GPT-4-200K（建議使用）的OSINT助手，旨在對泄露的數據庫進行查詢，從而提供一個人工智能助手，可以在您的傳統OSINT流程中發揮作用。"
                 }
             }
         },
@@ -19682,6 +19728,22 @@
                     "zh-hans": "一个轻量级的库，用于生成合成指令调整数据集，无需使用GPT。",
                     "zh-hant": "一個輕量級的庫，用於生成合成指令調整數據集，無需使用GPT。"
                 }
+            },
+            "https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna": {
+                "repository_name": "azure-open-ai-embeddings-qna",
+                "user_name": "ruoccofabrizio",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3, GPT-3.5 or GPT-4 to extract the matching answer for the question.",
+                "topics": [
+                    "azureopenai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3, GPT-3.5 or",
+                    "ja": "OpenAIを利用したドキュメント検索のためのシンプルなWebアプリケーション。このリポジトリは、ドキュメントから埋め込みベクトルを作成するためにAzure OpenAIサービスを使用しています。ユーザーの質問に回答するために、最も関連性の高いドキュメントを取得し、その後GPT-3、GPT-3.5を使用します。",
+                    "zh-hans": "一个简单的网络应用程序，用于OpenAI启用的文档搜索。该存储库使用Azure OpenAI服务从文档中创建嵌入向量。为了回答用户的问题，它检索最相关的文档，然后使用GPT-3、GPT-3.5或其他技术。",
+                    "zh-hant": "一個簡單的網絡應用程序，用於OpenAI啟用的文檔搜索。該存儲庫使用Azure OpenAI服務從文檔中創建嵌入向量。為了回答用戶的問題，它檢索最相關的文檔，然後使用GPT-3、GPT-3.5或其他技術。"
+                }
             }
         },
         "Langchain": {
@@ -21655,6 +21717,27 @@
                     "ja": "Python、ChatGPT、およびその他のモデルを使用して大規模言語モデル（LLM）アプリを構築します。これはLangChainの生成AIに関する書籍のためのコンパニオンリポジトリです。",
                     "zh-hans": "使用Python、ChatGPT和其他模型构建大型语言模型（LLM）应用程序。这是与LangChain上生成式AI书籍配套的存储库。",
                     "zh-hant": "請使用Python、ChatGPT和其他模型來建立大型語言模型（LLM）應用程式。這是與LangChain上生成式人工智能書籍相關的存儲庫。"
+                }
+            },
+            "https://github.com/morsoli/llm-books": {
+                "repository_name": "llm-books",
+                "user_name": "morsoli",
+                "language": "Python",
+                "license": null,
+                "description": "利用LLM构建应用实践笔记",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "langchain",
+                    "llm",
+                    "llmops",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Using LLM to build application practice notes",
+                    "ja": "LLMを使用してアプリケーションを構築する実践ノート",
+                    "zh-hans": "利用LLM构建应用实践笔记",
+                    "zh-hant": "利用LLM構建應用實踐筆記"
                 }
             }
         },
