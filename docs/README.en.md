@@ -14,20 +14,27 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
+
+
+**Prompts**
+ * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - Use ChatGPT for academic writing
+
+
 **Chatbots**
- * [langup-ai](https://github.com/jiran214/langup-ai) - AGI Social Network Bot. BiliBili | Live Chat Digital Person | Video @ Auto Reply | Private Message Bot | Terminal Chat | Voice Interaction
- * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, websites, and YouTube videos. Leveraging OpenAI's GPT-3.5, Pinecone, FAISS, and Celery for seamless integration and performance.
+ * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
 
 
 **NLP**
- * [bonito](https://github.com/batsresearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
+ * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3, GPT-3.5 or
 
 
-**Openai**
- * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
+**Langchain**
+ * [llm-books](https://github.com/morsoli/llm-books) - Using LLM to build application practice notes
 
 
-_Updated on March 16, 2024_ (A total of 1467 repositories listed.)
+_Updated on March 21, 2024_ (A total of 1472 repositories listed.)
 
 ## Table of contents
 
@@ -104,6 +111,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/awesome-llm-uncertainty-reliability-robustness) - Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models
  * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
  * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
+ * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 
 
 ## Prompts
@@ -216,6 +224,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [llm-guard](https://github.com/protectai/llm-guard) - The Security Toolkit for LLM Interactions
  * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT and Bing AI prompt curation
  * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
+ * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - Use ChatGPT for academic writing
 
 
 ## Chatbots
@@ -418,6 +427,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - This is a repository that allows you to integrate ChatGPT into Line.
  * [langup-ai](https://github.com/jiran214/langup-ai) - AGI Social Network Bot. BiliBili | Live Chat Digital Person | Video @ Auto Reply | Private Message Bot | Terminal Chat | Voice Interaction
  * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, websites, and YouTube videos. Leveraging OpenAI's GPT-3.5, Pinecone, FAISS, and Celery for seamless integration and performance.
+ * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
 
 
 ## Browser-extensions
@@ -953,6 +963,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [ai00_server](https://github.com/ai00-x/ai00_server) - A localized open-source AI server that is better than ChatGPT.
  * [CipherChat](https://github.com/robustnlp/cipherchat) - A framework to evaluate the generalization capability of safety alignment for LLMs
  * [bonito](https://github.com/batsresearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
+ * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3, GPT-3.5 or
 
 
 ## Langchain
@@ -1041,6 +1052,7 @@ _Updated on March 16, 2024_ (A total of 1467 repositories listed.)
  * [CareGPT](https://github.com/wangrongsheng/caregpt) - 🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。Medical LLM, Open Source Driven for a Healthy Future.
  * [PIXIU](https://github.com/the-finai/pixiu) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open
  * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.
+ * [llm-books](https://github.com/morsoli/llm-books) - Using LLM to build application practice notes
 
 
 ## Unity
