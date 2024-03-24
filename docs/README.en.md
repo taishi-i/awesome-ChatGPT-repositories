@@ -14,27 +14,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
-
-
 **Prompts**
- * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - Use ChatGPT for academic writing
-
-
-**Chatbots**
- * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
+ * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 
 
 **NLP**
- * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3, GPT-3.5 or
+ * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+ * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - Resource, Evaluation and Detection Papers for ChatGPT
+ * [private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 
 
-**Langchain**
- * [llm-books](https://github.com/morsoli/llm-books) - Using LLM to build application practice notes
-
-
-_Updated on March 21, 2024_ (A total of 1472 repositories listed.)
+_Updated on March 25, 2024_ (A total of 1476 repositories listed.)
 
 ## Table of contents
 
@@ -225,6 +215,7 @@ _Updated on March 21, 2024_ (A total of 1472 repositories listed.)
  * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT and Bing AI prompt curation
  * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
  * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - Use ChatGPT for academic writing
+ * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
 
 
 ## Chatbots
@@ -964,6 +955,9 @@ _Updated on March 21, 2024_ (A total of 1472 repositories listed.)
  * [CipherChat](https://github.com/robustnlp/cipherchat) - A framework to evaluate the generalization capability of safety alignment for LLMs
  * [bonito](https://github.com/batsresearch/bonito) - A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
  * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - A simple web application for a OpenAI-enabled document search. This repo uses Azure OpenAI Service for creating embeddings vectors from documents. For answering the question of a user, it retrieves the most relevant document and then uses GPT-3, GPT-3.5 or
+ * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+ * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - Resource, Evaluation and Detection Papers for ChatGPT
+ * [private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 
 
 ## Langchain
