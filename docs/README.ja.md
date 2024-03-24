@@ -14,27 +14,17 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - GPT-4言語モデルに関する厳選されたプロンプト、ツール、リソースのリスト。
-
-
 **Prompts**
- * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 学術論文の執筆にChatGPTを使用してください。
-
-
-**Chatbots**
- * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPTは、リークされたデータベースにクエリを実行するために設計されたGPT-4-200K（推奨使用）に基づくOSINTアシスタントであり、従来のOSINTプロセスで役立つ人工知能アシスタントを提供します。
+ * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - テキストを生成および分類するためのChatGPTとGPT-3.5の指示ベースのプロンプトのコレクション。
 
 
 **NLP**
- * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - OpenAIを利用したドキュメント検索のためのシンプルなWebアプリケーション。このリポジトリは、ドキュメントから埋め込みベクトルを作成するためにAzure OpenAIサービスを使用しています。ユーザーの質問に回答するために、最も関連性の高いドキュメントを取得し、その後GPT-3、GPT-3.5を使用します。
+ * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - コンピューターのための自然言語インターフェース
+ * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - ChatGPTのためのリソース、評価、検出論文
+ * [private-gpt](https://github.com/zylon-ai/private-gpt) - GPTの力を使って、100％プライベートでデータ漏洩なしに文書とやり取りします。
 
 
-**Langchain**
- * [llm-books](https://github.com/morsoli/llm-books) - LLMを使用してアプリケーションを構築する実践ノート
-
-
-_Updated on March 21, 2024_ (A total of 1472 repositories listed.)
+_Updated on March 25, 2024_ (A total of 1476 repositories listed.)
 
 ## Table of contents
 
@@ -225,6 +215,7 @@ _Updated on March 21, 2024_ (A total of 1472 repositories listed.)
  * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPTとBing AIのプロンプトキュレーション
  * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - LLMの安全性を評価および向上させるための中国語の安全プロンプト。
  * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 学術論文の執筆にChatGPTを使用してください。
+ * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - テキストを生成および分類するためのChatGPTとGPT-3.5の指示ベースのプロンプトのコレクション。
 
 
 ## Chatbots
@@ -964,6 +955,9 @@ _Updated on March 21, 2024_ (A total of 1472 repositories listed.)
  * [CipherChat](https://github.com/robustnlp/cipherchat) - LLMの安全性整合性の汎化能力を評価するためのフレームワーク
  * [bonito](https://github.com/batsresearch/bonito) - GPTなしでデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。GPTを使用せずにデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。
  * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - OpenAIを利用したドキュメント検索のためのシンプルなWebアプリケーション。このリポジトリは、ドキュメントから埋め込みベクトルを作成するためにAzure OpenAIサービスを使用しています。ユーザーの質問に回答するために、最も関連性の高いドキュメントを取得し、その後GPT-3、GPT-3.5を使用します。
+ * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - コンピューターのための自然言語インターフェース
+ * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - ChatGPTのためのリソース、評価、検出論文
+ * [private-gpt](https://github.com/zylon-ai/private-gpt) - GPTの力を使って、100％プライベートでデータ漏洩なしに文書とやり取りします。
 
 
 ## Langchain

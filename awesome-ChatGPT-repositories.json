@@ -3883,6 +3883,39 @@
                     "zh-hans": "使用ChatGPT进行学术写作",
                     "zh-hant": "使用ChatGPT進行學術寫作"
                 }
+            },
+            "https://github.com/kevinamiri/instructgpt-prompts": {
+                "repository_name": "Instructgpt-prompts",
+                "user_name": "kevinamiri",
+                "language": null,
+                "license": null,
+                "description": "A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-prompts",
+                    "gpt-3",
+                    "gpt-3-prompt",
+                    "gpt-3-prompts",
+                    "gpt-35",
+                    "gpt-35-prompts",
+                    "gpt-4",
+                    "gpt3",
+                    "gpt3-instruct",
+                    "gpt35",
+                    "gpt4",
+                    "instruct-gpt",
+                    "instructgpt",
+                    "instruction-following",
+                    "prompt-engineering",
+                    "prompting",
+                    "zero-shot-prompts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.",
+                    "ja": "テキストを生成および分類するためのChatGPTとGPT-3.5の指示ベースのプロンプトのコレクション。",
+                    "zh-hans": "一系列用于生成和分类文本的ChatGPT和GPT-3.5基于指令的提示集合。",
+                    "zh-hant": "一系列用於生成和分類文本的ChatGPT和GPT-3.5指令型提示集合。"
+                }
             }
         },
         "Chatbots": {
@@ -19743,6 +19776,61 @@
                     "ja": "OpenAIを利用したドキュメント検索のためのシンプルなWebアプリケーション。このリポジトリは、ドキュメントから埋め込みベクトルを作成するためにAzure OpenAIサービスを使用しています。ユーザーの質問に回答するために、最も関連性の高いドキュメントを取得し、その後GPT-3、GPT-3.5を使用します。",
                     "zh-hans": "一个简单的网络应用程序，用于OpenAI启用的文档搜索。该存储库使用Azure OpenAI服务从文档中创建嵌入向量。为了回答用户的问题，它检索最相关的文档，然后使用GPT-3、GPT-3.5或其他技术。",
                     "zh-hant": "一個簡單的網絡應用程序，用於OpenAI啟用的文檔搜索。該存儲庫使用Azure OpenAI服務從文檔中創建嵌入向量。為了回答用戶的問題，它檢索最相關的文檔，然後使用GPT-3、GPT-3.5或其他技術。"
+                }
+            },
+            "https://github.com/openinterpreter/open-interpreter": {
+                "repository_name": "open-interpreter",
+                "user_name": "OpenInterpreter",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "A natural language interface for computers",
+                "topics": [
+                    "chatgpt",
+                    "gpt-4",
+                    "interpreter",
+                    "javascript",
+                    "nodejs",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A natural language interface for computers",
+                    "ja": "コンピューターのための自然言語インターフェース",
+                    "zh-hans": "计算机的自然语言界面",
+                    "zh-hant": "一個針對電腦的自然語言界面"
+                }
+            },
+            "https://github.com/thu-keg/evaluationpapers4chatgpt": {
+                "repository_name": "EvaluationPapers4ChatGPT",
+                "user_name": "THU-KEG",
+                "language": null,
+                "license": "MIT License",
+                "description": "Resource, Evaluation and Detection Papers for ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "detection",
+                    "evaluation",
+                    "large-language-models",
+                    "resource"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Resource, Evaluation and Detection Papers for ChatGPT",
+                    "ja": "ChatGPTのためのリソース、評価、検出論文",
+                    "zh-hans": "ChatGPT的资源、评估和检测论文",
+                    "zh-hant": "ChatGPT 的資源、評估和檢測文件"
+                }
+            },
+            "https://github.com/zylon-ai/private-gpt": {
+                "repository_name": "private-gpt",
+                "user_name": "zylon-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+                    "ja": "GPTの力を使って、100％プライベートでデータ漏洩なしに文書とやり取りします。",
+                    "zh-hans": "使用GPT的强大功能与您的文档互动，100%私密，无数据泄露。",
+                    "zh-hant": "使用GPT的強大功能與您的文件互動，100％私密，無數據洩漏。"
                 }
             }
         },

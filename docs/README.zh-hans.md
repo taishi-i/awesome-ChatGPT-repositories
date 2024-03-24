@@ -14,27 +14,17 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - 一个关于GPT-4语言模型的策划列表，工具和资源。
-
-
 **Prompts**
- * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 使用ChatGPT进行学术写作
-
-
-**Chatbots**
- * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT是一个基于GPT-4-200K（推荐使用）的OSINT助手，旨在对泄露的数据库进行查询，从而提供一个人工智能助手，可以在您传统的OSINT流程中发挥作用。
+ * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - 一系列用于生成和分类文本的ChatGPT和GPT-3.5基于指令的提示集合。
 
 
 **NLP**
- * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - 一个简单的网络应用程序，用于OpenAI启用的文档搜索。该存储库使用Azure OpenAI服务从文档中创建嵌入向量。为了回答用户的问题，它检索最相关的文档，然后使用GPT-3、GPT-3.5或其他技术。
+ * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - 计算机的自然语言界面
+ * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - ChatGPT的资源、评估和检测论文
+ * [private-gpt](https://github.com/zylon-ai/private-gpt) - 使用GPT的强大功能与您的文档互动，100%私密，无数据泄露。
 
 
-**Langchain**
- * [llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
-
-
-_Updated on March 21, 2024_ (A total of 1472 repositories listed.)
+_Updated on March 25, 2024_ (A total of 1476 repositories listed.)
 
 ## Table of contents
 
@@ -225,6 +215,7 @@ _Updated on March 21, 2024_ (A total of 1472 repositories listed.)
  * [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ChatGPT和Bing AI提示策划输出：
  * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - 用于评估和提升LLM安全性的中文安全提示。
  * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 使用ChatGPT进行学术写作
+ * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - 一系列用于生成和分类文本的ChatGPT和GPT-3.5基于指令的提示集合。
 
 
 ## Chatbots
@@ -964,6 +955,9 @@ _Updated on March 21, 2024_ (A total of 1472 repositories listed.)
  * [CipherChat](https://github.com/robustnlp/cipherchat) - 一个评估LLMs安全对齐泛化能力的框架
  * [bonito](https://github.com/batsresearch/bonito) - 一个轻量级的库，用于生成合成指令调整数据集，无需使用GPT。
  * [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - 一个简单的网络应用程序，用于OpenAI启用的文档搜索。该存储库使用Azure OpenAI服务从文档中创建嵌入向量。为了回答用户的问题，它检索最相关的文档，然后使用GPT-3、GPT-3.5或其他技术。
+ * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - 计算机的自然语言界面
+ * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - ChatGPT的资源、评估和检测论文
+ * [private-gpt](https://github.com/zylon-ai/private-gpt) - 使用GPT的强大功能与您的文档互动，100%私密，无数据泄露。
 
 
 ## Langchain
