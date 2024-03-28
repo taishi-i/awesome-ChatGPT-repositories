@@ -15,16 +15,30 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - 一系列用于生成和分类文本的ChatGPT和GPT-3.5基于指令的提示集合。
+ * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js 是一种基于 Typescript/Javascript 的生产友好的生成式人工智能。基于 Jsonnet 开发。可以在支持 Webassembly 的任何地方运行。支持声明式实时提示和“配置中的外部代码”。兼容 Kubernetes 和边缘环境。与 OpenAI GPT、Gemini、Llama2 等兼容。
+
+
+**Chatbots**
+ * [Kuebiko](https://github.com/adi-panda/kuebiko) - 一个使用GPT-3和Google Cloud TTS的AI Twitch TTS聊天机器人
+ * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 庞大的人工智能模型目录。一个精心筛选的人工智能工具、平台和资源列表，涵盖各个领域。
 
 
 **NLP**
- * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - 计算机的自然语言界面
- * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - ChatGPT的资源、评估和检测论文
- * [private-gpt](https://github.com/zylon-ai/private-gpt) - 使用GPT的强大功能与您的文档互动，100%私密，无数据泄露。
+ * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - 开源评估工具包，支持大型视觉语言模型（LVLMs），支持GPT-4v，Gemini，QwenVLPlus，30多个HF模型，15个基准测试。
+ * [LLMPapers](https://github.com/kseseu/llmpapers) - 大型语言模型（ChatGPT，GPT-3，Codex等）的论文和作品。
 
 
-_Updated on March 25, 2024_ (A total of 1476 repositories listed.)
+**Openai**
+ * [cognee](https://github.com/topoteretes/cognee) - AI应用程序和AI代理的内存管理
+ * [finance](https://github.com/saleem-hadad/finance) - 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
+
+
+**Others**
+ * [devchat](https://github.com/devchat-ai/devchat) - 使用AI动力脚本自动化您的开发任务，从您的IDE聊天面板开始。
+ * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - 一个ChatGPT原生的iOS、macOS、watchOS、tvOS SwiftUI应用程序
+
+
+_Updated on March 29, 2024_ (A total of 1485 repositories listed.)
 
 ## Table of contents
 
@@ -216,6 +230,7 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - 用于评估和提升LLM安全性的中文安全提示。
  * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 使用ChatGPT进行学术写作
  * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - 一系列用于生成和分类文本的ChatGPT和GPT-3.5基于指令的提示集合。
+ * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js 是一种基于 Typescript/Javascript 的生产友好的生成式人工智能。基于 Jsonnet 开发。可以在支持 Webassembly 的任何地方运行。支持声明式实时提示和“配置中的外部代码”。兼容 Kubernetes 和边缘环境。与 OpenAI GPT、Gemini、Llama2 等兼容。
 
 
 ## Chatbots
@@ -419,6 +434,8 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [langup-ai](https://github.com/jiran214/langup-ai) - AGI社交网络机器人。BiliBili | 直播聊天数字人 | 视频@自动回复 | 私信机器人 | 终端聊天 | 语音交互
  * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - 使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。
  * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT是一个基于GPT-4-200K（推荐使用）的OSINT助手，旨在对泄露的数据库进行查询，从而提供一个人工智能助手，可以在您传统的OSINT流程中发挥作用。
+ * [Kuebiko](https://github.com/adi-panda/kuebiko) - 一个使用GPT-3和Google Cloud TTS的AI Twitch TTS聊天机器人
+ * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 庞大的人工智能模型目录。一个精心筛选的人工智能工具、平台和资源列表，涵盖各个领域。
 
 
 ## Browser-extensions
@@ -958,6 +975,8 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - 计算机的自然语言界面
  * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - ChatGPT的资源、评估和检测论文
  * [private-gpt](https://github.com/zylon-ai/private-gpt) - 使用GPT的强大功能与您的文档互动，100%私密，无数据泄露。
+ * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - 开源评估工具包，支持大型视觉语言模型（LVLMs），支持GPT-4v，Gemini，QwenVLPlus，30多个HF模型，15个基准测试。
+ * [LLMPapers](https://github.com/kseseu/llmpapers) - 大型语言模型（ChatGPT，GPT-3，Codex等）的论文和作品。
 
 
 ## Langchain
@@ -1214,6 +1233,8 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - 基于Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等创建最佳管理员。
  * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer编码器解码器适用于OpenAI的GPT-2 / GPT-3 / GPT-4。具有额外功能的OpenAI的tiktoken端口。
  * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - 在线游乐场，用于OpenAPI令牌化器
+ * [cognee](https://github.com/topoteretes/cognee) - AI应用程序和AI代理的内存管理
+ * [finance](https://github.com/saleem-hadad/finance) - 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
 
 
 ## Others
@@ -1575,5 +1596,7 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [Bunny](https://github.com/baai-dcai/bunny) - 一家轻量级多模型。
  * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AI圈的水龙头网站，每24小时可领取一个令牌用于开发测试AI产品。
  * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - 显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成
+ * [devchat](https://github.com/devchat-ai/devchat) - 使用AI动力脚本自动化您的开发任务，从您的IDE聊天面板开始。
+ * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - 一个ChatGPT原生的iOS、macOS、watchOS、tvOS SwiftUI应用程序
 
 

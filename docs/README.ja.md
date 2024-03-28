@@ -15,16 +15,30 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - テキストを生成および分類するためのChatGPTとGPT-3.5の指示ベースのプロンプトのコレクション。
+ * [EdgeChains](https://github.com/arakoodev/edgechains) - Input: EdgeChains.jsは、Typescript/Javascriptで作成されたプロダクション向けのGenerative AIです。Jsonnetに基づいています。Webassemblyが動作する場所ならどこでも動作します。プロンプトは宣言的にライブであり、「設定内の外部コード」です。Kubernetesおよびエッジに対応しています。OpenAI GPT、Gemini、Llama2、Aと互換性があります。
+
+
+**Chatbots**
+ * [Kuebiko](https://github.com/adi-panda/kuebiko) - GPT-3とGoogle Cloud TTSを使用したAI Twitch TTSチャットボットAI Twitch TTSチャットボット
+ * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 巨大なAIモデルカタログ。さまざまなドメインにわたるAIツール、プラットフォーム、リソースの厳選リスト。
 
 
 **NLP**
- * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - コンピューターのための自然言語インターフェース
- * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - ChatGPTのためのリソース、評価、検出論文
- * [private-gpt](https://github.com/zylon-ai/private-gpt) - GPTの力を使って、100％プライベートでデータ漏洩なしに文書とやり取りします。
+ * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - 大規模なビジョン言語モデル（LVLMs）のオープンソース評価ツールキット、GPT-4v、Gemini、QwenVLPlus、30以上のHFモデル、15以上のベンチマークをサポート
+ * [LLMPapers](https://github.com/kseseu/llmpapers) - 大規模言語モデル（ChatGPT、GPT-3、Codexなど）の論文や作品。
 
 
-_Updated on March 25, 2024_ (A total of 1476 repositories listed.)
+**Openai**
+ * [cognee](https://github.com/topoteretes/cognee) - AIアプリケーションとAIエージェントのためのメモリ管理
+ * [finance](https://github.com/saleem-hadad/finance) - 💰 ChatGPTによって提供される無料のオープンソースの個人向けファイナンス追跡Webアプリ。
+
+
+**Others**
+ * [devchat](https://github.com/devchat-ai/devchat) - AIパワードスクリプトを使用して、IDEのチャットパネルから開発タスクを自動化します。
+ * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - ChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーションChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーション
+
+
+_Updated on March 29, 2024_ (A total of 1485 repositories listed.)
 
 ## Table of contents
 
@@ -216,6 +230,7 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - LLMの安全性を評価および向上させるための中国語の安全プロンプト。
  * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 学術論文の執筆にChatGPTを使用してください。
  * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - テキストを生成および分類するためのChatGPTとGPT-3.5の指示ベースのプロンプトのコレクション。
+ * [EdgeChains](https://github.com/arakoodev/edgechains) - Input: EdgeChains.jsは、Typescript/Javascriptで作成されたプロダクション向けのGenerative AIです。Jsonnetに基づいています。Webassemblyが動作する場所ならどこでも動作します。プロンプトは宣言的にライブであり、「設定内の外部コード」です。Kubernetesおよびエッジに対応しています。OpenAI GPT、Gemini、Llama2、Aと互換性があります。
 
 
 ## Chatbots
@@ -419,6 +434,8 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [langup-ai](https://github.com/jiran214/langup-ai) - AGI ソーシャルネットワークボット。BiliBili | ライブチャット数字人 | 動画@自動返信 | ダイレクトメッセージボット | 端末チャット | 音声インタラクション
  * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - Django RESTフレームワークで構築されたダイナミックでスケーラブルなAIチャットボットは、PDF、ドキュメント、ウェブサイト、YouTubeビデオからのカスタムトレーニングをサポートしています。 OpenAIのGPT-3.5、Pinecone、FAISS、およびCeleryを活用して、シームレスな統合とパフォーマンスを実現しています。
  * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPTは、リークされたデータベースにクエリを実行するために設計されたGPT-4-200K（推奨使用）に基づくOSINTアシスタントであり、従来のOSINTプロセスで役立つ人工知能アシスタントを提供します。
+ * [Kuebiko](https://github.com/adi-panda/kuebiko) - GPT-3とGoogle Cloud TTSを使用したAI Twitch TTSチャットボットAI Twitch TTSチャットボット
+ * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 巨大なAIモデルカタログ。さまざまなドメインにわたるAIツール、プラットフォーム、リソースの厳選リスト。
 
 
 ## Browser-extensions
@@ -958,6 +975,8 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - コンピューターのための自然言語インターフェース
  * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - ChatGPTのためのリソース、評価、検出論文
  * [private-gpt](https://github.com/zylon-ai/private-gpt) - GPTの力を使って、100％プライベートでデータ漏洩なしに文書とやり取りします。
+ * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - 大規模なビジョン言語モデル（LVLMs）のオープンソース評価ツールキット、GPT-4v、Gemini、QwenVLPlus、30以上のHFモデル、15以上のベンチマークをサポート
+ * [LLMPapers](https://github.com/kseseu/llmpapers) - 大規模言語モデル（ChatGPT、GPT-3、Codexなど）の論文や作品。
 
 
 ## Langchain
@@ -1214,6 +1233,8 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebaseなどを基に最高の管理者を作成してください。
  * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAIのGPT-2 / GPT-3 / GPT-4。OpenAIのtiktokenのポートに追加機能を備えています。
  * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - OpenAPIトークナイザーのためのオンラインプレイグラウンド
+ * [cognee](https://github.com/topoteretes/cognee) - AIアプリケーションとAIエージェントのためのメモリ管理
+ * [finance](https://github.com/saleem-hadad/finance) - 💰 ChatGPTによって提供される無料のオープンソースの個人向けファイナンス追跡Webアプリ。
 
 
 ## Others
@@ -1575,5 +1596,7 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [Bunny](https://github.com/baai-dcai/bunny) - 軽量なマルチモーダルモデルのファミリー。
  * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AIサークルの蛇口ウェブサイト、24時間ごとに1つのトークンを受け取り、AI製品の開発テストに使用できます。
  * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - WE Learnの同行クラスの問題の答えを表示します。クラスのテストをサポートします。自動回答、学習時間を記録し、ChatGPTに基づいた回答生成を行います。
+ * [devchat](https://github.com/devchat-ai/devchat) - AIパワードスクリプトを使用して、IDEのチャットパネルから開発タスクを自動化します。
+ * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - ChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーションChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーション
 
 

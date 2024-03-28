@@ -15,16 +15,30 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
+ * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & "outside code in config". Kubernetes & edge friendly. Compatible with OpenAI GPT, Gemini, Llama2, Anthropic, Mistral and others
+
+
+**Chatbots**
+ * [Kuebiko](https://github.com/adi-panda/kuebiko) - An AI Twitch TTS Chat Bot using GPT-3 and Google Cloud TTS
+ * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.
 
 
 **NLP**
- * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
- * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - Resource, Evaluation and Detection Papers for ChatGPT
- * [private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+ * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support GPT-4v, Gemini, QwenVLPlus, 30+ HF models, 15+ benchmarks
+ * [LLMPapers](https://github.com/kseseu/llmpapers) - Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).
 
 
-_Updated on March 25, 2024_ (A total of 1476 repositories listed.)
+**Openai**
+ * [cognee](https://github.com/topoteretes/cognee) - Memory management for the AI Applications and AI Agents
+ * [finance](https://github.com/saleem-hadad/finance) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
+
+
+**Others**
+ * [devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
+ * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
+
+
+_Updated on March 29, 2024_ (A total of 1485 repositories listed.)
 
 ## Table of contents
 
@@ -216,6 +230,7 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - Chinese safety prompts for evaluating and improving the safety of LLMs. 中文安全prompts，用于评估和提升大模型的安全性。
  * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - Use ChatGPT for academic writing
  * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
+ * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & "outside code in config". Kubernetes & edge friendly. Compatible with OpenAI GPT, Gemini, Llama2, Anthropic, Mistral and others
 
 
 ## Chatbots
@@ -419,6 +434,8 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [langup-ai](https://github.com/jiran214/langup-ai) - AGI 社交网络 Bot.  BiliBili |  直播聊天数字人 | 视频@自动回复 | 私信bot | 终端聊天  |  语音交互
  * [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - A dynamic, scalable AI chatbot built with Django REST framework, supporting custom training from PDFs, documents, websites, and YouTube videos. Leveraging OpenAI's GPT-3.5, Pinecone, FAISS, and Celery for seamless integration and performance.
  * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
+ * [Kuebiko](https://github.com/adi-panda/kuebiko) - An AI Twitch TTS Chat Bot using GPT-3 and Google Cloud TTS
+ * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.
 
 
 ## Browser-extensions
@@ -958,6 +975,8 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
  * [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - Resource, Evaluation and Detection Papers for ChatGPT
  * [private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+ * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support GPT-4v, Gemini, QwenVLPlus, 30+ HF models, 15+ benchmarks
+ * [LLMPapers](https://github.com/kseseu/llmpapers) - Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).
 
 
 ## Langchain
@@ -1214,6 +1233,8 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - Create the best admin based on Vue3.2, Vite4.1, TypeScript, Vuetify3, Chat GPT,Firebase etc.
  * [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - JavaScript BPE Tokenizer Encoder Decoder for OpenAI's GPT-2 / GPT-3 / GPT-4. Port of OpenAI's tiktoken with additional features.
  * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
+ * [cognee](https://github.com/topoteretes/cognee) - Memory management for the AI Applications and AI Agents
+ * [finance](https://github.com/saleem-hadad/finance) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
 
 
 ## Others
@@ -1575,5 +1596,7 @@ _Updated on March 25, 2024_ (A total of 1476 repositories listed.)
  * [Bunny](https://github.com/baai-dcai/bunny) - A family of lightweight multimodal models.
  * [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - AI 圈的水龙头网站，每24小时可领取一个令牌用于开发测试 AI 产品
  * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - 显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成
+ * [devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
+ * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
 
 
