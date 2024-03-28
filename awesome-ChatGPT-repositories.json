@@ -3916,6 +3916,39 @@
                     "zh-hans": "一系列用于生成和分类文本的ChatGPT和GPT-3.5基于指令的提示集合。",
                     "zh-hant": "一系列用於生成和分類文本的ChatGPT和GPT-3.5指令型提示集合。"
                 }
+            },
+            "https://github.com/arakoodev/edgechains": {
+                "repository_name": "EdgeChains",
+                "user_name": "arakoodev",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & \"outside code in config\". Kubernetes & edge friendly. Compatible with OpenAI GPT, Gemini, Llama2, Anthropic, Mistral and others",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-agents",
+                    "autogpt",
+                    "chatbot",
+                    "generative-ai",
+                    "gpt",
+                    "html",
+                    "javascript",
+                    "llm",
+                    "openai",
+                    "rest-api",
+                    "typescript",
+                    "vector",
+                    "web-development",
+                    "webassembly",
+                    "webdev",
+                    "ycombinator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & \"outside code in config\". Kubernetes & edge friendly. Compatible with OpenAI GPT, Gemini, Llama2, A",
+                    "ja": "Input: EdgeChains.jsは、Typescript/Javascriptで作成されたプロダクション向けのGenerative AIです。Jsonnetに基づいています。Webassemblyが動作する場所ならどこでも動作します。プロンプトは宣言的にライブであり、「設定内の外部コード」です。Kubernetesおよびエッジに対応しています。OpenAI GPT、Gemini、Llama2、Aと互換性があります。",
+                    "zh-hans": "EdgeChains.js 是一种基于 Typescript/Javascript 的生产友好的生成式人工智能。基于 Jsonnet 开发。可以在支持 Webassembly 的任何地方运行。支持声明式实时提示和“配置中的外部代码”。兼容 Kubernetes 和边缘环境。与 OpenAI GPT、Gemini、Llama2 等兼容。",
+                    "zh-hant": "EdgeChains.js 是一個基於 Jsonnet 的 Typescript/Javascript 產品友好的生成式人工智能。它可以在任何支持 Webassembly 的地方運行。支持即時聲明式提示和“配置中的外部代碼”。支持 Kubernetes 和邊緣環境。與 OpenAI GPT、Gemini、Llama2 等兼容。"
+                }
             }
         },
         "Chatbots": {
@@ -8569,6 +8602,55 @@
                     "ja": "DarkGPTは、リークされたデータベースにクエリを実行するために設計されたGPT-4-200K（推奨使用）に基づくOSINTアシスタントであり、従来のOSINTプロセスで役立つ人工知能アシスタントを提供します。",
                     "zh-hans": "DarkGPT是一个基于GPT-4-200K（推荐使用）的OSINT助手，旨在对泄露的数据库进行查询，从而提供一个人工智能助手，可以在您传统的OSINT流程中发挥作用。",
                     "zh-hant": "DarkGPT是一個基於GPT-4-200K（建議使用）的OSINT助手，旨在對泄露的數據庫進行查詢，從而提供一個人工智能助手，可以在您的傳統OSINT流程中發揮作用。"
+                }
+            },
+            "https://github.com/adi-panda/kuebiko": {
+                "repository_name": "Kuebiko",
+                "user_name": "adi-panda",
+                "language": "Python",
+                "license": null,
+                "description": "An AI Twitch TTS Chat Bot using GPT-3 and Google Cloud TTS",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An AI Twitch TTS Chat Bot using GPT-3 and Google Cloud TTS",
+                    "ja": "GPT-3とGoogle Cloud TTSを使用したAI Twitch TTSチャットボットAI Twitch TTSチャットボット",
+                    "zh-hans": "一个使用GPT-3和Google Cloud TTS的AI Twitch TTS聊天机器人",
+                    "zh-hant": "一個使用GPT-3和Google Cloud TTS的AI Twitch TTS聊天機器人"
+                }
+            },
+            "https://github.com/mehmetkahya0/ai-catalog": {
+                "repository_name": "AI-Catalog",
+                "user_name": "mehmetkahya0",
+                "language": null,
+                "license": "GNU General Public License v3.0",
+                "description": "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
+                "topics": [
+                    "3d",
+                    "ai",
+                    "ai-art",
+                    "art",
+                    "artificial-intelligence",
+                    "chatbot",
+                    "chatgpt",
+                    "code",
+                    "dalle2",
+                    "data-science",
+                    "education",
+                    "image",
+                    "image-processing",
+                    "midjourney",
+                    "openai",
+                    "search",
+                    "search-engine",
+                    "stable-diffusion",
+                    "summarizer",
+                    "text-to"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
+                    "ja": "巨大なAIモデルカタログ。さまざまなドメインにわたるAIツール、プラットフォーム、リソースの厳選リスト。",
+                    "zh-hans": "庞大的人工智能模型目录。一个精心筛选的人工智能工具、平台和资源列表，涵盖各个领域。",
+                    "zh-hant": "龐大的人工智慧模型目錄。涵蓋各個領域的人工智慧工具、平台和資源的精心挑選清單。"
                 }
             }
         },
@@ -19832,6 +19914,60 @@
                     "zh-hans": "使用GPT的强大功能与您的文档互动，100%私密，无数据泄露。",
                     "zh-hant": "使用GPT的強大功能與您的文件互動，100％私密，無數據洩漏。"
                 }
+            },
+            "https://github.com/open-compass/vlmevalkit": {
+                "repository_name": "VLMEvalKit",
+                "user_name": "open-compass",
+                "language": "Python",
+                "license": null,
+                "description": "Open-source evaluation toolkit of large vision-language models (LVLMs), support GPT-4v, Gemini, QwenVLPlus, 30+ HF models, 15+ benchmarks",
+                "topics": [
+                    "benchmark",
+                    "chatgpt",
+                    "clip",
+                    "computer-vision",
+                    "evaluation",
+                    "gpt",
+                    "gpt-4v",
+                    "gpt4",
+                    "large-language-models",
+                    "llava",
+                    "llm",
+                    "minigpt4",
+                    "mplug-owl",
+                    "multi-modal",
+                    "openai",
+                    "openai-api",
+                    "pytorch",
+                    "qwen",
+                    "vit",
+                    "vqa"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source evaluation toolkit of large vision-language models (LVLMs), support GPT-4v, Gemini, QwenVLPlus, 30+ HF models, 15+ benchmarks",
+                    "ja": "大規模なビジョン言語モデル（LVLMs）のオープンソース評価ツールキット、GPT-4v、Gemini、QwenVLPlus、30以上のHFモデル、15以上のベンチマークをサポート",
+                    "zh-hans": "开源评估工具包，支持大型视觉语言模型（LVLMs），支持GPT-4v，Gemini，QwenVLPlus，30多个HF模型，15个基准测试。",
+                    "zh-hant": "大視覺語言模型（LVLMs）的開源評估工具包，支持GPT-4v、Gemini、QwenVLPlus、30多個HF模型、15多個基準測試。"
+                }
+            },
+            "https://github.com/kseseu/llmpapers": {
+                "repository_name": "LLMPapers",
+                "user_name": "KSESEU",
+                "language": "TeX",
+                "license": null,
+                "description": "Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).",
+                "topics": [
+                    "chatgpt",
+                    "codex",
+                    "gpt-3",
+                    "large-language-models"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).",
+                    "ja": "大規模言語モデル（ChatGPT、GPT-3、Codexなど）の論文や作品。",
+                    "zh-hans": "大型语言模型（ChatGPT，GPT-3，Codex等）的论文和作品。",
+                    "zh-hant": "論文和作品，適用於大型語言模型（ChatGPT、GPT-3、Codex等）。"
+                }
             }
         },
         "Langchain": {
@@ -25250,6 +25386,63 @@
                     "ja": "OpenAPIトークナイザーのためのオンラインプレイグラウンド",
                     "zh-hans": "在线游乐场，用于OpenAPI令牌化器",
                     "zh-hant": "線上遊樂場，用於OpenAPI tokenizers"
+                }
+            },
+            "https://github.com/topoteretes/cognee": {
+                "repository_name": "cognee",
+                "user_name": "topoteretes",
+                "language": "Jupyter Notebook",
+                "license": "Apache License 2.0",
+                "description": "Memory management for the AI Applications and AI Agents",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "ai-agents",
+                    "ai-memory",
+                    "chatgpt",
+                    "cognitive",
+                    "cognitive-architecture",
+                    "cognitive-memory",
+                    "cognitive-modeling",
+                    "graph-database",
+                    "graphql",
+                    "neo4j",
+                    "openai",
+                    "rag",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Memory management for the AI Applications and AI Agents",
+                    "ja": "AIアプリケーションとAIエージェントのためのメモリ管理",
+                    "zh-hans": "AI应用程序和AI代理的内存管理",
+                    "zh-hant": "AI應用程式和AI代理的記憶體管理"
+                }
+            },
+            "https://github.com/saleem-hadad/finance": {
+                "repository_name": "finance",
+                "user_name": "saleem-hadad",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "💰 Free open-source personal finance tracking web application powered by ChatGPT. ",
+                "topics": [
+                    "finance-management",
+                    "finance-tracker",
+                    "gpt",
+                    "graphql",
+                    "laravel",
+                    "laravel-framework",
+                    "mysql",
+                    "open-source",
+                    "openai",
+                    "personal-finance",
+                    "php",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "💰 Free open-source personal finance tracking web application powered by ChatGPT.",
+                    "ja": "💰 ChatGPTによって提供される無料のオープンソースの個人向けファイナンス追跡Webアプリ。",
+                    "zh-hans": "💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。",
+                    "zh-hant": "💰由ChatGPT驅動的免費開源個人財務追蹤網絡應用程式。"
                 }
             }
         },
@@ -32036,6 +32229,57 @@
                     "ja": "WE Learnの同行クラスの問題の答えを表示します。クラスのテストをサポートします。自動回答、学習時間を記録し、ChatGPTに基づいた回答生成を行います。",
                     "zh-hans": "显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；基于生成式AI(ChatGPT)的答案生成",
                     "zh-hant": "顯示WE Learn隨行課堂題目答案；支持班級測驗；自動答題；刷時長；基於生成式AI(ChatGPT)的答案生成"
+                }
+            },
+            "https://github.com/devchat-ai/devchat": {
+                "repository_name": "devchat",
+                "user_name": "devchat-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt-4",
+                    "programming",
+                    "python",
+                    "software-development",
+                    "software-engineering",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.",
+                    "ja": "AIパワードスクリプトを使用して、IDEのチャットパネルから開発タスクを自動化します。",
+                    "zh-hans": "使用AI动力脚本自动化您的开发任务，从您的IDE聊天面板开始。",
+                    "zh-hant": "使用AI驅動的腳本自動化您的開發任務，從您的IDE的聊天面板開始。"
+                }
+            },
+            "https://github.com/alfianlosari/chatgptswiftui": {
+                "repository_name": "ChatGPTSwiftUI",
+                "user_name": "alfianlosari",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application",
+                "topics": [
+                    "appletv",
+                    "applewatch",
+                    "chatgpt",
+                    "ios",
+                    "macos",
+                    "macos-app",
+                    "palm2",
+                    "palmapi",
+                    "swift",
+                    "swiftui",
+                    "tvos",
+                    "tvos-app",
+                    "watchos"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application",
+                    "ja": "ChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーションChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーション",
+                    "zh-hans": "一个ChatGPT原生的iOS、macOS、watchOS、tvOS SwiftUI应用程序",
+                    "zh-hant": "一個 ChatGPT 原生的 iOS、macOS、watchOS、tvOS SwiftUI 應用程式"
                 }
             }
         }
