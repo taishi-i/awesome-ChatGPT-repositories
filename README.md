@@ -708,6 +708,7 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
  * [Gemini](https://github.com/kyegomez/gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
+ * [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline: command line tool and framework for systematic code generation using AI in a build process.
 
 
 ## Reimplementations
