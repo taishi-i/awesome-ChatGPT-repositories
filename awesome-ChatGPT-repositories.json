@@ -8652,6 +8652,54 @@
                     "zh-hans": "庞大的人工智能模型目录。一个精心筛选的人工智能工具、平台和资源列表，涵盖各个领域。",
                     "zh-hant": "龐大的人工智慧模型目錄。涵蓋各個領域的人工智慧工具、平台和資源的精心挑選清單。"
                 }
+            },
+            "https://github.com/opengvlab/multi-modality-arena": {
+                "repository_name": "Multi-Modality-Arena",
+                "user_name": "OpenGVLab",
+                "language": "Python",
+                "license": null,
+                "description": "Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!",
+                "topics": [
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "gradio",
+                    "large-language-models",
+                    "llms",
+                    "multi-modality",
+                    "vision-language-model",
+                    "vqa"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!",
+                    "ja": "チャットボットアリーナがマルチモダリティに対応しました！マルチモダリティアリーナでは、画像を入力として提供しながら、ビジョン言語モデルを並べてベンチマークを行うことができます。MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2などをサポートしています！",
+                    "zh-hans": "聊天机器人竞技场迎来多模态！多模态竞技场允许您将视觉语言模型并排进行基准测试，同时提供图像作为输入。支持MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2等多种模型！",
+                    "zh-hant": "聊天機器人競技場遇上多模態！多模態競技場讓您可以一邊比較視覺語言模型，一邊提供圖像作為輸入。支持MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2等等！"
+                }
+            },
+            "https://github.com/zhaoyingjun/chatbot": {
+                "repository_name": "chatbot",
+                "user_name": "zhaoyingjun",
+                "language": "Python",
+                "license": null,
+                "description": "ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "nlp-machine-learning",
+                    "python",
+                    "pytorch",
+                    "seq2seq-chatbot",
+                    "seqgan",
+                    "seqgan-tensorflow",
+                    "tensorflow2"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT has popularized chatbots, and the mainstream trend has shifted to GPT-style models. This project is also keeping up with the times and will soon update to a GPT-style version. Based on this project and your own corpus, you can train your own desired chatbot for use in intelligent customer service, online Q&A, casual chat, and other scenarios.",
+                    "ja": "ChatGPTがチャットボットを人気にしました。主流のトレンドはすべてGPTタイプのモデルに調整されており、このプロジェクトも最新のGPTタイプのバージョンを近日中に更新する予定です。このプロジェクトと独自のコーパスを使用して、自分が望むチャットボットをトレーニングすることができ、インテリジェントカスタマーサービス、オンライン質問回答、雑談などのシーンに活用できます。",
+                    "zh-hans": "ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。",
+                    "zh-hant": "ChatGPT帶火了聊天機器人，主流的趨勢都調整到了GPT類模式，本項目也與時俱進，會在近期更新GPT類版本。基於本項目和自己的語料可以訓練出自己想要的聊天機器人，用於智能客服、在線問答、閒聊等場景。"
+                }
             }
         },
         "Browser-extensions": {
@@ -14560,6 +14608,27 @@
                     "zh-hans": "谷歌将“超越ChatGPT”的Gemini模型的开源实现",
                     "zh-hant": "Google將“超越ChatGPT”的Gemini模型的開源實現Google將“超越ChatGPT”的Gemini模型的開源實現"
                 }
+            },
+            "https://github.com/harry0703/moneyprinterturbo": {
+                "repository_name": "MoneyPrinterTurbo",
+                "user_name": "harry0703",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+                "topics": [
+                    "automation",
+                    "chatgpt",
+                    "moviepy",
+                    "python",
+                    "shortvideo",
+                    "tiktok"
+                ],
+                "multilingual_descriptions": {
+                    "en": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+                    "ja": "AI LLMを使用して、ワンクリックで高品質なショートビデオを生成します。",
+                    "zh-hans": "利用AI大模型，一键生成高清短视频。",
+                    "zh-hant": "使用AI大模型，一鍵生成高清短視頻。"
+                }
             }
         },
         "Reimplementations": {
@@ -19967,6 +20036,63 @@
                     "ja": "大規模言語モデル（ChatGPT、GPT-3、Codexなど）の論文や作品。",
                     "zh-hans": "大型语言模型（ChatGPT，GPT-3，Codex等）的论文和作品。",
                     "zh-hant": "論文和作品，適用於大型語言模型（ChatGPT、GPT-3、Codex等）。"
+                }
+            },
+            "https://github.com/stoerr/aigenpipeline": {
+                "repository_name": "AIGenPipeline",
+                "user_name": "stoerr",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "AI based code generation pipeline: command line tool and framework for systematic code generation using AI in a build process",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "code-generation",
+                    "code-generator",
+                    "llm",
+                    "openai",
+                    "software-development"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI based code generation pipeline: command line tool and framework for systematic code generation using AI in a build process",
+                    "ja": "AIベースのコード生成パイプライン：AIを使用した体系的なコード生成のためのコマンドラインツールおよびフレームワーク、ビルドプロセスでの使用",
+                    "zh-hans": "基于人工智能的代码生成流水线：命令行工具和框架，用于在构建过程中使用人工智能进行系统化代码生成。",
+                    "zh-hant": "基於人工智慧的程式碼生成流程：命令列工具和框架，用於在構建過程中系統性地使用人工智慧生成程式碼。"
+                }
+            },
+            "https://github.com/neurocult/agency": {
+                "repository_name": "agency",
+                "user_name": "neurocult",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "artificial-general-intelligence",
+                    "artificial-intelligence",
+                    "artificial-neural-networks",
+                    "autonomous-agents",
+                    "chatgpt",
+                    "generative-ai",
+                    "go",
+                    "golang",
+                    "gpt",
+                    "language-models",
+                    "llm",
+                    "llmops",
+                    "machine-learning",
+                    "neural-network",
+                    "nlp",
+                    "openai",
+                    "rag",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.",
+                    "ja": "🕵️‍♂️ 大規模言語モデル（LLM）や他の生成AIの潜在能力を探求したい開発者向けに設計されたライブラリ。クリーンで効果的、かつGo-idiomaticなアプローチを通じて。",
+                    "zh-hans": "🕵️‍♂️ 专为开发人员设计的图书馆，旨在通过清晰、有效和符合Go语言习惯的方法，探索大型语言模型（LLMs）和其他生成式人工智能的潜力。",
+                    "zh-hant": "🕵️‍♂️ 專為渴望通過乾淨、有效和 Go-idiomatic 方法探索大型語言模型（LLMs）和其他生成式人工智能潛力的開發人員設計的圖書館。"
                 }
             }
         },
@@ -32280,6 +32406,24 @@
                     "ja": "ChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーションChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーション",
                     "zh-hans": "一个ChatGPT原生的iOS、macOS、watchOS、tvOS SwiftUI应用程序",
                     "zh-hant": "一個 ChatGPT 原生的 iOS、macOS、watchOS、tvOS SwiftUI 應用程式"
+                }
+            },
+            "https://github.com/rockchinq/qcg-installer": {
+                "repository_name": "qcg-installer",
+                "user_name": "RockChinQ",
+                "language": "Go",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: https://github.com/RockChinQ/QChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "installer",
+                    "qq"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT QQ robot automatic installer, automated deployment, suitable for QChatGPT project: https://github.com/RockChinQ/QChatGPT",
+                    "ja": "ChatGPT QQ ロボットの自動インストーラー、自動デプロイ、QChatGPTプロジェクト用に適用される：https://github.com/RockChinQ/QChatGPT",
+                    "zh-hans": "ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: https://github.com/RockChinQ/QChatGPT",
+                    "zh-hant": "ChatGPT QQ 機器人的自動安裝器，自動化部署，適用於QChatGPT項目: https://github.com/RockChinQ/QChatGPT"
                 }
             }
         }
