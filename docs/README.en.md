@@ -14,31 +14,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & "outside code in config". Kubernetes & edge friendly. Compatible with OpenAI GPT, Gemini, Llama2, A
-
-
 **Chatbots**
- * [Kuebiko](https://github.com/adi-panda/kuebiko) - An AI Twitch TTS Chat Bot using GPT-3 and Google Cloud TTS
- * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.
+ * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!
+ * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT has popularized chatbots, and the mainstream trend has shifted to GPT-style models. This project is also keeping up with the times and will soon update to a GPT-style version. Based on this project and your own corpus, you can train your own desired chatbot for use in intelligent customer service, online Q&A, casual chat, and other scenarios.
+
+
+**CLIs**
+ * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
 
 **NLP**
- * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support GPT-4v, Gemini, QwenVLPlus, 30+ HF models, 15+ benchmarks
- * [LLMPapers](https://github.com/kseseu/llmpapers) - Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).
-
-
-**Openai**
- * [cognee](https://github.com/topoteretes/cognee) - Memory management for the AI Applications and AI Agents
- * [finance](https://github.com/saleem-hadad/finance) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
+ * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AI based code generation pipeline: command line tool and framework for systematic code generation using AI in a build process
+ * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 
 
 **Others**
- * [devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
- * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
+ * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ robot automatic installer, automated deployment, suitable for QChatGPT project: https://github.com/RockChinQ/QChatGPT
 
 
-_Updated on March 29, 2024_ (A total of 1485 repositories listed.)
+_Updated on April 02, 2024_ (A total of 1491 repositories listed.)
 
 ## Table of contents
 
@@ -436,6 +430,8 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
  * [Kuebiko](https://github.com/adi-panda/kuebiko) - An AI Twitch TTS Chat Bot using GPT-3 and Google Cloud TTS
  * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.
+ * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!
+ * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT has popularized chatbots, and the mainstream trend has shifted to GPT-style models. This project is also keeping up with the times and will soon update to a GPT-style version. Based on this project and your own corpus, you can train your own desired chatbot for use in intelligent customer service, online Q&A, casual chat, and other scenarios.
 
 
 ## Browser-extensions
@@ -708,6 +704,7 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant.
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
  * [Gemini](https://github.com/kyegomez/gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
+ * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
 
 ## Reimplementations
@@ -977,6 +974,8 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
  * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support GPT-4v, Gemini, QwenVLPlus, 30+ HF models, 15+ benchmarks
  * [LLMPapers](https://github.com/kseseu/llmpapers) - Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).
+ * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AI based code generation pipeline: command line tool and framework for systematic code generation using AI in a build process
+ * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
 
 
 ## Langchain
@@ -1598,5 +1597,6 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - Display WE Learn accompanying classroom question answers; support class tests; automatic answering; time brushing; answer generation based on generative AI (ChatGPT)
  * [devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
  * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
+ * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ robot automatic installer, automated deployment, suitable for QChatGPT project: https://github.com/RockChinQ/QChatGPT
 
 

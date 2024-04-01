@@ -14,31 +14,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js 是一個基於 Jsonnet 的 Typescript/Javascript 產品友好的生成式人工智能。它可以在任何支持 Webassembly 的地方運行。支持即時聲明式提示和“配置中的外部代碼”。支持 Kubernetes 和邊緣環境。與 OpenAI GPT、Gemini、Llama2 等兼容。
-
-
 **Chatbots**
- * [Kuebiko](https://github.com/adi-panda/kuebiko) - 一個使用GPT-3和Google Cloud TTS的AI Twitch TTS聊天機器人
- * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 龐大的人工智慧模型目錄。涵蓋各個領域的人工智慧工具、平台和資源的精心挑選清單。
+ * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - 聊天機器人競技場遇上多模態！多模態競技場讓您可以一邊比較視覺語言模型，一邊提供圖像作為輸入。支持MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2等等！
+ * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT帶火了聊天機器人，主流的趨勢都調整到了GPT類模式，本項目也與時俱進，會在近期更新GPT類版本。基於本項目和自己的語料可以訓練出自己想要的聊天機器人，用於智能客服、在線問答、閒聊等場景。
+
+
+**CLIs**
+ * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 使用AI大模型，一鍵生成高清短視頻。
 
 
 **NLP**
- * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - 大視覺語言模型（LVLMs）的開源評估工具包，支持GPT-4v、Gemini、QwenVLPlus、30多個HF模型、15多個基準測試。
- * [LLMPapers](https://github.com/kseseu/llmpapers) - 論文和作品，適用於大型語言模型（ChatGPT、GPT-3、Codex等）。
-
-
-**Openai**
- * [cognee](https://github.com/topoteretes/cognee) - AI應用程式和AI代理的記憶體管理
- * [finance](https://github.com/saleem-hadad/finance) - 💰由ChatGPT驅動的免費開源個人財務追蹤網絡應用程式。
+ * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - 基於人工智慧的程式碼生成流程：命令列工具和框架，用於在構建過程中系統性地使用人工智慧生成程式碼。
+ * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 專為渴望通過乾淨、有效和 Go-idiomatic 方法探索大型語言模型（LLMs）和其他生成式人工智能潛力的開發人員設計的圖書館。
 
 
 **Others**
- * [devchat](https://github.com/devchat-ai/devchat) - 使用AI驅動的腳本自動化您的開發任務，從您的IDE的聊天面板開始。
- * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - 一個 ChatGPT 原生的 iOS、macOS、watchOS、tvOS SwiftUI 應用程式
+ * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ 機器人的自動安裝器，自動化部署，適用於QChatGPT項目: https://github.com/RockChinQ/QChatGPT
 
 
-_Updated on March 29, 2024_ (A total of 1485 repositories listed.)
+_Updated on April 02, 2024_ (A total of 1491 repositories listed.)
 
 ## Table of contents
 
@@ -436,6 +430,8 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPT是一個基於GPT-4-200K（建議使用）的OSINT助手，旨在對泄露的數據庫進行查詢，從而提供一個人工智能助手，可以在您的傳統OSINT流程中發揮作用。
  * [Kuebiko](https://github.com/adi-panda/kuebiko) - 一個使用GPT-3和Google Cloud TTS的AI Twitch TTS聊天機器人
  * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 龐大的人工智慧模型目錄。涵蓋各個領域的人工智慧工具、平台和資源的精心挑選清單。
+ * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - 聊天機器人競技場遇上多模態！多模態競技場讓您可以一邊比較視覺語言模型，一邊提供圖像作為輸入。支持MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2等等！
+ * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT帶火了聊天機器人，主流的趨勢都調整到了GPT類模式，本項目也與時俱進，會在近期更新GPT類版本。基於本項目和自己的語料可以訓練出自己想要的聊天機器人，用於智能客服、在線問答、閒聊等場景。
 
 
 ## Browser-extensions
@@ -708,6 +704,7 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [yai](https://github.com/ekkinox/yai) - 您的AI動力終端助手。
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPT的命令行界面，Claude和Bard
  * [Gemini](https://github.com/kyegomez/gemini) - Google將“超越ChatGPT”的Gemini模型的開源實現Google將“超越ChatGPT”的Gemini模型的開源實現
+ * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 使用AI大模型，一鍵生成高清短視頻。
 
 
 ## Reimplementations
@@ -977,6 +974,8 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [private-gpt](https://github.com/zylon-ai/private-gpt) - 使用GPT的強大功能與您的文件互動，100％私密，無數據洩漏。
  * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - 大視覺語言模型（LVLMs）的開源評估工具包，支持GPT-4v、Gemini、QwenVLPlus、30多個HF模型、15多個基準測試。
  * [LLMPapers](https://github.com/kseseu/llmpapers) - 論文和作品，適用於大型語言模型（ChatGPT、GPT-3、Codex等）。
+ * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - 基於人工智慧的程式碼生成流程：命令列工具和框架，用於在構建過程中系統性地使用人工智慧生成程式碼。
+ * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 專為渴望通過乾淨、有效和 Go-idiomatic 方法探索大型語言模型（LLMs）和其他生成式人工智能潛力的開發人員設計的圖書館。
 
 
 ## Langchain
@@ -1598,5 +1597,6 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - 顯示WE Learn隨行課堂題目答案；支持班級測驗；自動答題；刷時長；基於生成式AI(ChatGPT)的答案生成
  * [devchat](https://github.com/devchat-ai/devchat) - 使用AI驅動的腳本自動化您的開發任務，從您的IDE的聊天面板開始。
  * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - 一個 ChatGPT 原生的 iOS、macOS、watchOS、tvOS SwiftUI 應用程式
+ * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ 機器人的自動安裝器，自動化部署，適用於QChatGPT項目: https://github.com/RockChinQ/QChatGPT
 
 

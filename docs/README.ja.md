@@ -14,31 +14,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [EdgeChains](https://github.com/arakoodev/edgechains) - Input: EdgeChains.jsは、Typescript/Javascriptで作成されたプロダクション向けのGenerative AIです。Jsonnetに基づいています。Webassemblyが動作する場所ならどこでも動作します。プロンプトは宣言的にライブであり、「設定内の外部コード」です。Kubernetesおよびエッジに対応しています。OpenAI GPT、Gemini、Llama2、Aと互換性があります。
-
-
 **Chatbots**
- * [Kuebiko](https://github.com/adi-panda/kuebiko) - GPT-3とGoogle Cloud TTSを使用したAI Twitch TTSチャットボットAI Twitch TTSチャットボット
- * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 巨大なAIモデルカタログ。さまざまなドメインにわたるAIツール、プラットフォーム、リソースの厳選リスト。
+ * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - チャットボットアリーナがマルチモダリティに対応しました！マルチモダリティアリーナでは、画像を入力として提供しながら、ビジョン言語モデルを並べてベンチマークを行うことができます。MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2などをサポートしています！
+ * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPTがチャットボットを人気にしました。主流のトレンドはすべてGPTタイプのモデルに調整されており、このプロジェクトも最新のGPTタイプのバージョンを近日中に更新する予定です。このプロジェクトと独自のコーパスを使用して、自分が望むチャットボットをトレーニングすることができ、インテリジェントカスタマーサービス、オンライン質問回答、雑談などのシーンに活用できます。
+
+
+**CLIs**
+ * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - AI LLMを使用して、ワンクリックで高品質なショートビデオを生成します。
 
 
 **NLP**
- * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - 大規模なビジョン言語モデル（LVLMs）のオープンソース評価ツールキット、GPT-4v、Gemini、QwenVLPlus、30以上のHFモデル、15以上のベンチマークをサポート
- * [LLMPapers](https://github.com/kseseu/llmpapers) - 大規模言語モデル（ChatGPT、GPT-3、Codexなど）の論文や作品。
-
-
-**Openai**
- * [cognee](https://github.com/topoteretes/cognee) - AIアプリケーションとAIエージェントのためのメモリ管理
- * [finance](https://github.com/saleem-hadad/finance) - 💰 ChatGPTによって提供される無料のオープンソースの個人向けファイナンス追跡Webアプリ。
+ * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AIベースのコード生成パイプライン：AIを使用した体系的なコード生成のためのコマンドラインツールおよびフレームワーク、ビルドプロセスでの使用
+ * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 大規模言語モデル（LLM）や他の生成AIの潜在能力を探求したい開発者向けに設計されたライブラリ。クリーンで効果的、かつGo-idiomaticなアプローチを通じて。
 
 
 **Others**
- * [devchat](https://github.com/devchat-ai/devchat) - AIパワードスクリプトを使用して、IDEのチャットパネルから開発タスクを自動化します。
- * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - ChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーションChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーション
+ * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ ロボットの自動インストーラー、自動デプロイ、QChatGPTプロジェクト用に適用される：https://github.com/RockChinQ/QChatGPT
 
 
-_Updated on March 29, 2024_ (A total of 1485 repositories listed.)
+_Updated on April 02, 2024_ (A total of 1491 repositories listed.)
 
 ## Table of contents
 
@@ -436,6 +430,8 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [DarkGPT](https://github.com/luijait/darkgpt) - DarkGPTは、リークされたデータベースにクエリを実行するために設計されたGPT-4-200K（推奨使用）に基づくOSINTアシスタントであり、従来のOSINTプロセスで役立つ人工知能アシスタントを提供します。
  * [Kuebiko](https://github.com/adi-panda/kuebiko) - GPT-3とGoogle Cloud TTSを使用したAI Twitch TTSチャットボットAI Twitch TTSチャットボット
  * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 巨大なAIモデルカタログ。さまざまなドメインにわたるAIツール、プラットフォーム、リソースの厳選リスト。
+ * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - チャットボットアリーナがマルチモダリティに対応しました！マルチモダリティアリーナでは、画像を入力として提供しながら、ビジョン言語モデルを並べてベンチマークを行うことができます。MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2などをサポートしています！
+ * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPTがチャットボットを人気にしました。主流のトレンドはすべてGPTタイプのモデルに調整されており、このプロジェクトも最新のGPTタイプのバージョンを近日中に更新する予定です。このプロジェクトと独自のコーパスを使用して、自分が望むチャットボットをトレーニングすることができ、インテリジェントカスタマーサービス、オンライン質問回答、雑談などのシーンに活用できます。
 
 
 ## Browser-extensions
@@ -708,6 +704,7 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [yai](https://github.com/ekkinox/yai) - あなたのAIパワードターミナルアシスタント。
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPTのためのコマンドラインインターフェース、ClaudeとBard
  * [Gemini](https://github.com/kyegomez/gemini) - Googleによって「ChatGPTを凌駕する」モデルとして開発されたGeminiのオープンソース実装
+ * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - AI LLMを使用して、ワンクリックで高品質なショートビデオを生成します。
 
 
 ## Reimplementations
@@ -977,6 +974,8 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [private-gpt](https://github.com/zylon-ai/private-gpt) - GPTの力を使って、100％プライベートでデータ漏洩なしに文書とやり取りします。
  * [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - 大規模なビジョン言語モデル（LVLMs）のオープンソース評価ツールキット、GPT-4v、Gemini、QwenVLPlus、30以上のHFモデル、15以上のベンチマークをサポート
  * [LLMPapers](https://github.com/kseseu/llmpapers) - 大規模言語モデル（ChatGPT、GPT-3、Codexなど）の論文や作品。
+ * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AIベースのコード生成パイプライン：AIを使用した体系的なコード生成のためのコマンドラインツールおよびフレームワーク、ビルドプロセスでの使用
+ * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 大規模言語モデル（LLM）や他の生成AIの潜在能力を探求したい開発者向けに設計されたライブラリ。クリーンで効果的、かつGo-idiomaticなアプローチを通じて。
 
 
 ## Langchain
@@ -1598,5 +1597,6 @@ _Updated on March 29, 2024_ (A total of 1485 repositories listed.)
  * [WELearnHelper](https://github.com/ssmjae/welearnhelper) - WE Learnの同行クラスの問題の答えを表示します。クラスのテストをサポートします。自動回答、学習時間を記録し、ChatGPTに基づいた回答生成を行います。
  * [devchat](https://github.com/devchat-ai/devchat) - AIパワードスクリプトを使用して、IDEのチャットパネルから開発タスクを自動化します。
  * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - ChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーションChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーション
+ * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ ロボットの自動インストーラー、自動デプロイ、QChatGPTプロジェクト用に適用される：https://github.com/RockChinQ/QChatGPT
 
 
