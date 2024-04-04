@@ -14,25 +14,16 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - チャットボットアリーナがマルチモダリティに対応しました！マルチモダリティアリーナでは、画像を入力として提供しながら、ビジョン言語モデルを並べてベンチマークを行うことができます。MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2などをサポートしています！
- * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPTがチャットボットを人気にしました。主流のトレンドはすべてGPTタイプのモデルに調整されており、このプロジェクトも最新のGPTタイプのバージョンを近日中に更新する予定です。このプロジェクトと独自のコーパスを使用して、自分が望むチャットボットをトレーニングすることができ、インテリジェントカスタマーサービス、オンライン質問回答、雑談などのシーンに活用できます。
-
-
-**CLIs**
- * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - AI LLMを使用して、ワンクリックで高品質なショートビデオを生成します。
-
-
-**NLP**
- * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AIベースのコード生成パイプライン：AIを使用した体系的なコード生成のためのコマンドラインツールおよびフレームワーク、ビルドプロセスでの使用
- * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 大規模言語モデル（LLM）や他の生成AIの潜在能力を探求したい開発者向けに設計されたライブラリ。クリーンで効果的、かつGo-idiomaticなアプローチを通じて。
+**Prompts**
+ * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、プロンプト、LLM
 
 
 **Others**
- * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ ロボットの自動インストーラー、自動デプロイ、QChatGPTプロジェクト用に適用される：https://github.com/RockChinQ/QChatGPT
+ * [wechatSDK](https://github.com/wechatapis/wechatsdk) - WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動絵画、自動フレンドサークルの投稿、自動ビデオ投稿など多様なAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
+ * [FreeGPT35](https://github.com/missuo/freegpt35) - ログイン不要のChatGPT Webが提供する無制限の無料GPT-3.5-Turbo APIサービスを活用してください。
 
 
-_Updated on April 02, 2024_ (A total of 1491 repositories listed.)
+_Updated on April 05, 2024_ (A total of 1494 repositories listed.)
 
 ## Table of contents
 
@@ -225,6 +216,7 @@ _Updated on April 02, 2024_ (A total of 1491 repositories listed.)
  * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 学術論文の執筆にChatGPTを使用してください。
  * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - テキストを生成および分類するためのChatGPTとGPT-3.5の指示ベースのプロンプトのコレクション。
  * [EdgeChains](https://github.com/arakoodev/edgechains) - Input: EdgeChains.jsは、Typescript/Javascriptで作成されたプロダクション向けのGenerative AIです。Jsonnetに基づいています。Webassemblyが動作する場所ならどこでも動作します。プロンプトは宣言的にライブであり、「設定内の外部コード」です。Kubernetesおよびエッジに対応しています。OpenAI GPT、Gemini、Llama2、Aと互換性があります。
+ * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、プロンプト、LLM
 
 
 ## Chatbots
@@ -1598,5 +1590,7 @@ _Updated on April 02, 2024_ (A total of 1491 repositories listed.)
  * [devchat](https://github.com/devchat-ai/devchat) - AIパワードスクリプトを使用して、IDEのチャットパネルから開発タスクを自動化します。
  * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - ChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーションChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーション
  * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ ロボットの自動インストーラー、自動デプロイ、QChatGPTプロジェクト用に適用される：https://github.com/RockChinQ/QChatGPT
+ * [wechatSDK](https://github.com/wechatapis/wechatsdk) - WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動絵画、自動フレンドサークルの投稿、自動ビデオ投稿など多様なAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
+ * [FreeGPT35](https://github.com/missuo/freegpt35) - ログイン不要のChatGPT Webが提供する無制限の無料GPT-3.5-Turbo APIサービスを活用してください。
 
 
