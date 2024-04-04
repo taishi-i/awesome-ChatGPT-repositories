@@ -3949,6 +3949,20 @@
                     "zh-hans": "EdgeChains.js 是一种基于 Typescript/Javascript 的生产友好的生成式人工智能。基于 Jsonnet 开发。可以在支持 Webassembly 的任何地方运行。支持声明式实时提示和“配置中的外部代码”。兼容 Kubernetes 和边缘环境。与 OpenAI GPT、Gemini、Llama2 等兼容。",
                     "zh-hant": "EdgeChains.js 是一個基於 Jsonnet 的 Typescript/Javascript 產品友好的生成式人工智能。它可以在任何支持 Webassembly 的地方運行。支持即時聲明式提示和“配置中的外部代碼”。支持 Kubernetes 和邊緣環境。與 OpenAI GPT、Gemini、Llama2 等兼容。"
                 }
+            },
+            "https://github.com/pandabearlab/prompt-tutorial": {
+                "repository_name": "prompt-tutorial",
+                "user_name": "PandaBearLab",
+                "language": null,
+                "license": null,
+                "description": "chatGPT、prompt、LLM",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "chatGPT、prompt、LLM",
+                    "ja": "chatGPT、プロンプト、LLM",
+                    "zh-hans": "聊天GPT、提示、LLM",
+                    "zh-hant": "chatGPT、提示、LLMchatGPT、提示、LLM"
+                }
             }
         },
         "Chatbots": {
@@ -32424,6 +32438,41 @@
                     "ja": "ChatGPT QQ ロボットの自動インストーラー、自動デプロイ、QChatGPTプロジェクト用に適用される：https://github.com/RockChinQ/QChatGPT",
                     "zh-hans": "ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: https://github.com/RockChinQ/QChatGPT",
                     "zh-hant": "ChatGPT QQ 機器人的自動安裝器，自動化部署，適用於QChatGPT項目: https://github.com/RockChinQ/QChatGPT"
+                }
+            },
+            "https://github.com/wechatapis/wechatsdk": {
+                "repository_name": "wechatSDK",
+                "user_name": "WeChatAPIs",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "微信机器人是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。",
+                "topics": [
+                    "ai",
+                    "wechat",
+                    "wechatsdk",
+                    "weixin",
+                    "weixin-sdk",
+                    "wxsdk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WeChat bot is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.",
+                    "ja": "WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動絵画、自動フレンドサークルの投稿、自動ビデオ投稿など多様なAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。",
+                    "zh-hans": "微信机器人是一个基于Python 3.11开发的创新项目，结合了ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。",
+                    "zh-hant": "微信機器人是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。"
+                }
+            },
+            "https://github.com/missuo/freegpt35": {
+                "repository_name": "FreeGPT35",
+                "user_name": "missuo",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.",
+                    "ja": "ログイン不要のChatGPT Webが提供する無制限の無料GPT-3.5-Turbo APIサービスを活用してください。",
+                    "zh-hans": "使用ChatGPT Web提供的无需登录的GPT-3.5-Turbo API服务，免费无限制。",
+                    "zh-hant": "使用由ChatGPT Web提供的無限免費GPT-3.5-Turbo API服務。"
                 }
             }
         }

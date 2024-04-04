@@ -14,25 +14,16 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - 聊天机器人竞技场迎来多模态！多模态竞技场允许您将视觉语言模型并排进行基准测试，同时提供图像作为输入。支持MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2等多种模型！
- * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。
-
-
-**CLIs**
- * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频。
-
-
-**NLP**
- * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - 基于人工智能的代码生成流水线：命令行工具和框架，用于在构建过程中使用人工智能进行系统化代码生成。
- * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 专为开发人员设计的图书馆，旨在通过清晰、有效和符合Go语言习惯的方法，探索大型语言模型（LLMs）和其他生成式人工智能的潜力。
+**Prompts**
+ * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - 聊天GPT、提示、LLM
 
 
 **Others**
- * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: https://github.com/RockChinQ/QChatGPT
+ * [wechatSDK](https://github.com/wechatapis/wechatsdk) - 微信机器人是一个基于Python 3.11开发的创新项目，结合了ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
+ * [FreeGPT35](https://github.com/missuo/freegpt35) - 使用ChatGPT Web提供的无需登录的GPT-3.5-Turbo API服务，免费无限制。
 
 
-_Updated on April 02, 2024_ (A total of 1491 repositories listed.)
+_Updated on April 05, 2024_ (A total of 1494 repositories listed.)
 
 ## Table of contents
 
@@ -225,6 +216,7 @@ _Updated on April 02, 2024_ (A total of 1491 repositories listed.)
  * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - 使用ChatGPT进行学术写作
  * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - 一系列用于生成和分类文本的ChatGPT和GPT-3.5基于指令的提示集合。
  * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js 是一种基于 Typescript/Javascript 的生产友好的生成式人工智能。基于 Jsonnet 开发。可以在支持 Webassembly 的任何地方运行。支持声明式实时提示和“配置中的外部代码”。兼容 Kubernetes 和边缘环境。与 OpenAI GPT、Gemini、Llama2 等兼容。
+ * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - 聊天GPT、提示、LLM
 
 
 ## Chatbots
@@ -1598,5 +1590,7 @@ _Updated on April 02, 2024_ (A total of 1491 repositories listed.)
  * [devchat](https://github.com/devchat-ai/devchat) - 使用AI动力脚本自动化您的开发任务，从您的IDE聊天面板开始。
  * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - 一个ChatGPT原生的iOS、macOS、watchOS、tvOS SwiftUI应用程序
  * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: https://github.com/RockChinQ/QChatGPT
+ * [wechatSDK](https://github.com/wechatapis/wechatsdk) - 微信机器人是一个基于Python 3.11开发的创新项目，结合了ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
+ * [FreeGPT35](https://github.com/missuo/freegpt35) - 使用ChatGPT Web提供的无需登录的GPT-3.5-Turbo API服务，免费无限制。
 
 

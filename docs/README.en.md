@@ -14,25 +14,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!
- * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT has popularized chatbots, and the mainstream trend has shifted to GPT-style models. This project is also keeping up with the times and will soon update to a GPT-style version. Based on this project and your own corpus, you can train your own desired chatbot for use in intelligent customer service, online Q&A, casual chat, and other scenarios.
-
-
-**CLIs**
- * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-
-
-**NLP**
- * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AI based code generation pipeline: command line tool and framework for systematic code generation using AI in a build process
- * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
+**Prompts**
+ * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、prompt、LLM
 
 
 **Others**
- * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ robot automatic installer, automated deployment, suitable for QChatGPT project: https://github.com/RockChinQ/QChatGPT
+ * [wechatSDK](https://github.com/wechatapis/wechatsdk) - WeChat bot is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.
+ * [FreeGPT35](https://github.com/missuo/freegpt35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 
 
-_Updated on April 02, 2024_ (A total of 1491 repositories listed.)
+_Updated on April 05, 2024_ (A total of 1494 repositories listed.)
 
 ## Table of contents
 
@@ -225,6 +216,7 @@ _Updated on April 02, 2024_ (A total of 1491 repositories listed.)
  * [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - Use ChatGPT for academic writing
  * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
  * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & "outside code in config". Kubernetes & edge friendly. Compatible with OpenAI GPT, Gemini, Llama2, A
+ * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、prompt、LLM
 
 
 ## Chatbots
@@ -1598,5 +1590,7 @@ _Updated on April 02, 2024_ (A total of 1491 repositories listed.)
  * [devchat](https://github.com/devchat-ai/devchat) - Automate your dev tasks with AI-powered scripts, from your IDE's chat panel.
  * [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
  * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ robot automatic installer, automated deployment, suitable for QChatGPT project: https://github.com/RockChinQ/QChatGPT
+ * [wechatSDK](https://github.com/wechatapis/wechatsdk) - WeChat bot is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.
+ * [FreeGPT35](https://github.com/missuo/freegpt35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
 
 
