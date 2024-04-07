@@ -14,16 +14,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、プロンプト、LLM
+**CLIs**
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、会話に人間味を持たせる仮想アシスタントに変えることができる能力を持つようにします。
+
+
+**Tutorials**
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 公式ドキュメント、Cookbook、その他の実用例を基に作成した韓国語チュートリアルです。このチュートリアルを通じてLangChainをより簡単かつ効果的に使用する方法を学ぶことができます。
+
+
+**Openai**
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - OpenAI APIをベースにした純粋なJavascript ChatGPTデモOpenAI APIをベースにした純粋なJavascript ChatGPTデモ
 
 
 **Others**
- * [wechatSDK](https://github.com/wechatapis/wechatsdk) - WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動絵画、自動フレンドサークルの投稿、自動ビデオ投稿など多様なAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
- * [FreeGPT35](https://github.com/missuo/freegpt35) - ログイン不要のChatGPT Webが提供する無制限の無料GPT-3.5-Turbo APIサービスを活用してください。
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWEエージェントは、GitHubの問題を取得し、GPT-4またはお好みのLMを使用して自動的に修正しようとします。 SWEベンチ評価セットのバグの12.29％を解決し、実行にわずか1.5分かかります。
+ * [GalTransl](https://github.com/xd2333/galtransl) - GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするビジュアルノベルの自動翻訳ソリューション
+ * [VAR](https://github.com/foundationvision/var) - [GPTが拡散を打ち負かす🔥] [視覚生成におけるスケーリング法則📈] 「Visual Autoregressive Modeling: Next-Scale Predictionを介したスケーラブルな画像生成」の公式実装
 
 
-_Updated on April 05, 2024_ (A total of 1494 repositories listed.)
+_Updated on April 08, 2024_ (A total of 1500 repositories listed.)
 
 ## Table of contents
 
@@ -697,6 +706,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPTのためのコマンドラインインターフェース、ClaudeとBard
  * [Gemini](https://github.com/kyegomez/gemini) - Googleによって「ChatGPTを凌駕する」モデルとして開発されたGeminiのオープンソース実装
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - AI LLMを使用して、ワンクリックで高品質なショートビデオを生成します。
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、会話に人間味を持たせる仮想アシスタントに変えることができる能力を持つようにします。
 
 
 ## Reimplementations
@@ -743,6 +753,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学習教程》，PDFダウンロードアドレス：https://github.com/datawhalechina/leedl-tutorial/releases
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 学习 eBPF 的例子 | eBPF 開発者チュートリアルとナレッジベース：パフォーマンス、ネットワーク、セキュリティなど、さまざまなアプリケーションシナリオを小道具と例を使って一歩ずつ学ぶ
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - TensorFlowを使用してテキストの前処理から、Topic Models、BERT、GPT、LLMなどの最新モデルのダウンストリームタスクをまとめたDeep Learning NLPリポジトリです。
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 公式ドキュメント、Cookbook、その他の実用例を基に作成した韓国語チュートリアルです。このチュートリアルを通じてLangChainをより簡単かつ効果的に使用する方法を学ぶことができます。
 
 
 ## NLP
@@ -1226,6 +1237,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - OpenAPIトークナイザーのためのオンラインプレイグラウンド
  * [cognee](https://github.com/topoteretes/cognee) - AIアプリケーションとAIエージェントのためのメモリ管理
  * [finance](https://github.com/saleem-hadad/finance) - 💰 ChatGPTによって提供される無料のオープンソースの個人向けファイナンス追跡Webアプリ。
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - OpenAI APIをベースにした純粋なJavascript ChatGPTデモOpenAI APIをベースにした純粋なJavascript ChatGPTデモ
 
 
 ## Others
@@ -1592,5 +1604,8 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ ロボットの自動インストーラー、自動デプロイ、QChatGPTプロジェクト用に適用される：https://github.com/RockChinQ/QChatGPT
  * [wechatSDK](https://github.com/wechatapis/wechatsdk) - WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動絵画、自動フレンドサークルの投稿、自動ビデオ投稿など多様なAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
  * [FreeGPT35](https://github.com/missuo/freegpt35) - ログイン不要のChatGPT Webが提供する無制限の無料GPT-3.5-Turbo APIサービスを活用してください。
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWEエージェントは、GitHubの問題を取得し、GPT-4またはお好みのLMを使用して自動的に修正しようとします。 SWEベンチ評価セットのバグの12.29％を解決し、実行にわずか1.5分かかります。
+ * [GalTransl](https://github.com/xd2333/galtransl) - GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするビジュアルノベルの自動翻訳ソリューション
+ * [VAR](https://github.com/foundationvision/var) - [GPTが拡散を打ち負かす🔥] [視覚生成におけるスケーリング法則📈] 「Visual Autoregressive Modeling: Next-Scale Predictionを介したスケーラブルな画像生成」の公式実装
 
 

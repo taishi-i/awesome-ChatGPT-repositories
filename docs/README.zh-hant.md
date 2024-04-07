@@ -14,16 +14,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、提示、LLMchatGPT、提示、LLM
+**CLIs**
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - 這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。
+
+
+**Tutorials**
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - 請將以下內容翻譯成繁體中文。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。
+
+
+**Openai**
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - 純JavaScript ChatGPT演示，基於OpenAI API
 
 
 **Others**
- * [wechatSDK](https://github.com/wechatapis/wechatsdk) - 微信機器人是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。
- * [FreeGPT35](https://github.com/missuo/freegpt35) - 使用由ChatGPT Web提供的無限免費GPT-3.5-Turbo API服務。
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE代理接收GitHub问题，并尝试使用GPT-4或您选择的LM自动修复它。它在SWE-bench评估集中解决了12.29%的错误，并仅需1.5分钟运行。
+ * [GalTransl](https://github.com/xd2333/galtransl) - 支援GPT-3.5/GPT-4/Newbing/Sakura等大型語言模型的視覺小說自動翻譯解決方案
+ * [VAR](https://github.com/foundationvision/var) - [GPT擊敗擴散🔥] [視覺生成中的比例定律📈] 官方實現"視覺自回歸建模：通過下一尺度預測實現可擴展圖像生成"
 
 
-_Updated on April 05, 2024_ (A total of 1494 repositories listed.)
+_Updated on April 08, 2024_ (A total of 1500 repositories listed.)
 
 ## Table of contents
 
@@ -697,6 +706,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPT的命令行界面，Claude和Bard
  * [Gemini](https://github.com/kyegomez/gemini) - Google將“超越ChatGPT”的Gemini模型的開源實現Google將“超越ChatGPT”的Gemini模型的開源實現
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 使用AI大模型，一鍵生成高清短視頻。
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - 這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。
 
 
 ## Reimplementations
@@ -743,6 +753,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度學習教程》，PDF下載地址：https://github.com/datawhalechina/leedl-tutorial/releases
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 通過例子學習 eBPF | eBPF 開發者教程與知識庫：通過小工具和示例一步步學習 eBPF，包含性能、網絡、安全等多種應用場景
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - 使用tensorflow進行文本預處理，整理最新模型的下游任務，如主題模型、BERT、GPT、LLM等的Deep Learning NLP存儲庫。
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - 請將以下內容翻譯成繁體中文。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。
 
 
 ## NLP
@@ -1226,6 +1237,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - 線上遊樂場，用於OpenAPI tokenizers
  * [cognee](https://github.com/topoteretes/cognee) - AI應用程式和AI代理的記憶體管理
  * [finance](https://github.com/saleem-hadad/finance) - 💰由ChatGPT驅動的免費開源個人財務追蹤網絡應用程式。
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - 純JavaScript ChatGPT演示，基於OpenAI API
 
 
 ## Others
@@ -1592,5 +1604,8 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ 機器人的自動安裝器，自動化部署，適用於QChatGPT項目: https://github.com/RockChinQ/QChatGPT
  * [wechatSDK](https://github.com/wechatapis/wechatsdk) - 微信機器人是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。
  * [FreeGPT35](https://github.com/missuo/freegpt35) - 使用由ChatGPT Web提供的無限免費GPT-3.5-Turbo API服務。
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE代理接收GitHub问题，并尝试使用GPT-4或您选择的LM自动修复它。它在SWE-bench评估集中解决了12.29%的错误，并仅需1.5分钟运行。
+ * [GalTransl](https://github.com/xd2333/galtransl) - 支援GPT-3.5/GPT-4/Newbing/Sakura等大型語言模型的視覺小說自動翻譯解決方案
+ * [VAR](https://github.com/foundationvision/var) - [GPT擊敗擴散🔥] [視覺生成中的比例定律📈] 官方實現"視覺自回歸建模：通過下一尺度預測實現可擴展圖像生成"
 
 

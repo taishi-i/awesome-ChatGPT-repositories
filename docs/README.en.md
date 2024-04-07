@@ -14,16 +14,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、prompt、LLM
+**CLIs**
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
+
+
+**Tutorials**
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - This is a Korean tutorial written based on the official LangChain document, Cookbook, and other practical examples. Through this tutorial, you can learn how to use LangChain more easily and effectively.
+
+
+**Openai**
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 
 
 **Others**
- * [wechatSDK](https://github.com/wechatapis/wechatsdk) - WeChat bot is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.
- * [FreeGPT35](https://github.com/missuo/freegpt35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+ * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura
+ * [VAR](https://github.com/foundationvision/var) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
 
 
-_Updated on April 05, 2024_ (A total of 1494 repositories listed.)
+_Updated on April 08, 2024_ (A total of 1500 repositories listed.)
 
 ## Table of contents
 
@@ -697,6 +706,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
  * [Gemini](https://github.com/kyegomez/gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
 
 
 ## Reimplementations
@@ -743,6 +753,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - Input: "《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases"Output: "《Li Hongyi Deep Learning Tutorial》，PDF download link: https://github.com/datawhalechina/leedl-tutorial/releases"
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF Developer Tutorial and Knowledge Base: Learn eBPF step by step through tools and examples, including various application scenarios such as performance, networking, and security.
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - This is a Deep Learning NLP repository that summarizes tasks such as text preprocessing, Topic Models, BERT, GPT, and LLM using tensorflow and other latest models.
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - This is a Korean tutorial written based on the official LangChain document, Cookbook, and other practical examples. Through this tutorial, you can learn how to use LangChain more easily and effectively.
 
 
 ## NLP
@@ -1226,6 +1237,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
  * [cognee](https://github.com/topoteretes/cognee) - Memory management for the AI Applications and AI Agents
  * [finance](https://github.com/saleem-hadad/finance) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 
 
 ## Others
@@ -1592,5 +1604,8 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ robot automatic installer, automated deployment, suitable for QChatGPT project: https://github.com/RockChinQ/QChatGPT
  * [wechatSDK](https://github.com/wechatapis/wechatsdk) - WeChat bot is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.
  * [FreeGPT35](https://github.com/missuo/freegpt35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+ * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura
+ * [VAR](https://github.com/foundationvision/var) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
 
 

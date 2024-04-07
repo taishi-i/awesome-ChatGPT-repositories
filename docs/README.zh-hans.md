@@ -14,16 +14,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - 聊天GPT、提示、LLM
+**CLIs**
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - 这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。
+
+
+**Tutorials**
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - 通过LangChain官方文档、Cookbook以及其他实用示例编写的韩语教程。通过本教程，您可以学习如何更轻松、更有效地使用LangChain。
+
+
+**Openai**
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - 基于OpenAI API的纯JavaScript ChatGPT演示
 
 
 **Others**
- * [wechatSDK](https://github.com/wechatapis/wechatsdk) - 微信机器人是一个基于Python 3.11开发的创新项目，结合了ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
- * [FreeGPT35](https://github.com/missuo/freegpt35) - 使用ChatGPT Web提供的无需登录的GPT-3.5-Turbo API服务，免费无限制。
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE代理接收一个GitHub问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE基准评估集中12.29%的错误，并且只需要1.5分钟来运行。
+ * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大型语言模型的Galgame自动化翻译解决方案
+ * [VAR](https://github.com/foundationvision/var) - [GPT击败扩散🔥] [视觉生成中的缩放定律📈] “视觉自回归建模：通过下一尺度预测实现可扩展图像生成”的官方实现。
 
 
-_Updated on April 05, 2024_ (A total of 1494 repositories listed.)
+_Updated on April 08, 2024_ (A total of 1500 repositories listed.)
 
 ## Table of contents
 
@@ -697,6 +706,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - ChatGPT的命令行界面，Claude和Bard
  * [Gemini](https://github.com/kyegomez/gemini) - 谷歌将“超越ChatGPT”的Gemini模型的开源实现
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频。
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - 这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。
 
 
 ## Reimplementations
@@ -743,6 +753,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 通过示例学习 eBPF | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - 使用tensorflow进行文本预处理，整理了最新模型的下游任务，如主题模型、BERT、GPT、LLM等的Deep Learning NLP存储库。
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - 通过LangChain官方文档、Cookbook以及其他实用示例编写的韩语教程。通过本教程，您可以学习如何更轻松、更有效地使用LangChain。
 
 
 ## NLP
@@ -1226,6 +1237,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - 在线游乐场，用于OpenAPI令牌化器
  * [cognee](https://github.com/topoteretes/cognee) - AI应用程序和AI代理的内存管理
  * [finance](https://github.com/saleem-hadad/finance) - 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - 基于OpenAI API的纯JavaScript ChatGPT演示
 
 
 ## Others
@@ -1592,5 +1604,8 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: https://github.com/RockChinQ/QChatGPT
  * [wechatSDK](https://github.com/wechatapis/wechatsdk) - 微信机器人是一个基于Python 3.11开发的创新项目，结合了ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
  * [FreeGPT35](https://github.com/missuo/freegpt35) - 使用ChatGPT Web提供的无需登录的GPT-3.5-Turbo API服务，免费无限制。
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE代理接收一个GitHub问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE基准评估集中12.29%的错误，并且只需要1.5分钟来运行。
+ * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大型语言模型的Galgame自动化翻译解决方案
+ * [VAR](https://github.com/foundationvision/var) - [GPT击败扩散🔥] [视觉生成中的缩放定律📈] “视觉自回归建模：通过下一尺度预测实现可扩展图像生成”的官方实现。
 
 
