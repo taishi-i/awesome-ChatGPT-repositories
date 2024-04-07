@@ -14,16 +14,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、prompt、LLM
+**CLIs**
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
+
+
+**Tutorials**
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.
+
+
+**Openai**
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 
 
 **Others**
- * [wechatSDK](https://github.com/wechatapis/wechatsdk) - 微信机器人是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
- * [FreeGPT35](https://github.com/missuo/freegpt35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+ * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura
+ * [VAR](https://github.com/foundationvision/var) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
 
 
-_Updated on April 05, 2024_ (A total of 1494 repositories listed.)
+_Updated on April 08, 2024_ (A total of 1500 repositories listed.)
 
 ## Table of contents
 
@@ -697,6 +706,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
  * [Gemini](https://github.com/kyegomez/gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+ * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
 
 
 ## Reimplementations
@@ -743,6 +753,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - tensorflow를 사용하여 텍스트 전처리부터, Topic Models, BERT, GPT, LLM과 같은 최신 모델의 다운스트림 태스크들을 정리한 Deep Learning NLP 저장소입니다.
+ * [langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.
 
 
 ## NLP
@@ -1226,6 +1237,7 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
  * [cognee](https://github.com/topoteretes/cognee) - Memory management for the AI Applications and AI Agents
  * [finance](https://github.com/saleem-hadad/finance) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
+ * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
 
 
 ## Others
@@ -1592,5 +1604,8 @@ _Updated on April 05, 2024_ (A total of 1494 repositories listed.)
  * [qcg-installer](https://github.com/rockchinq/qcg-installer) - ChatGPT QQ 机器人的自动安装器，自动化部署，适用于QChatGPT项目: https://github.com/RockChinQ/QChatGPT
  * [wechatSDK](https://github.com/wechatapis/wechatsdk) - 微信机器人是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
  * [FreeGPT35](https://github.com/missuo/freegpt35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+ * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
+ * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura
+ * [VAR](https://github.com/foundationvision/var) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
 
 

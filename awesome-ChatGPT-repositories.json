@@ -14643,6 +14643,20 @@
                     "zh-hans": "利用AI大模型，一键生成高清短视频。",
                     "zh-hant": "使用AI大模型，一鍵生成高清短視頻。"
                 }
+            },
+            "https://github.com/marcusgoncalvess/zap-gpt": {
+                "repository_name": "zap-gpt",
+                "user_name": "marcusGoncalvess",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.",
+                    "ja": "このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、会話に人間味を持たせる仮想アシスタントに変えることができる能力を持つようにします。",
+                    "zh-hans": "这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。",
+                    "zh-hant": "這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。"
+                }
             }
         },
         "Reimplementations": {
@@ -15468,6 +15482,33 @@
                     "ja": "TensorFlowを使用してテキストの前処理から、Topic Models、BERT、GPT、LLMなどの最新モデルのダウンストリームタスクをまとめたDeep Learning NLPリポジトリです。",
                     "zh-hans": "使用tensorflow进行文本预处理，整理了最新模型的下游任务，如主题模型、BERT、GPT、LLM等的Deep Learning NLP存储库。",
                     "zh-hant": "使用tensorflow進行文本預處理，整理最新模型的下游任務，如主題模型、BERT、GPT、LLM等的Deep Learning NLP存儲庫。"
+                }
+            },
+            "https://github.com/teddylee777/langchain-kr": {
+                "repository_name": "langchain-kr",
+                "user_name": "teddylee777",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "cookbook",
+                    "generative-ai",
+                    "gpt-3",
+                    "gpt-4",
+                    "huggingface",
+                    "langchain",
+                    "langchain-python",
+                    "openai",
+                    "openai-api",
+                    "tutorial"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This is a Korean tutorial written based on the official LangChain document, Cookbook, and other practical examples. Through this tutorial, you can learn how to use LangChain more easily and effectively.",
+                    "ja": "LangChain 公式ドキュメント、Cookbook、その他の実用例を基に作成した韓国語チュートリアルです。このチュートリアルを通じてLangChainをより簡単かつ効果的に使用する方法を学ぶことができます。",
+                    "zh-hans": "通过LangChain官方文档、Cookbook以及其他实用示例编写的韩语教程。通过本教程，您可以学习如何更轻松、更有效地使用LangChain。",
+                    "zh-hant": "請將以下內容翻譯成繁體中文。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。"
                 }
             }
         },
@@ -25584,6 +25625,28 @@
                     "zh-hans": "💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。",
                     "zh-hant": "💰由ChatGPT驅動的免費開源個人財務追蹤網絡應用程式。"
                 }
+            },
+            "https://github.com/xqdoo00o/chatgpt-web": {
+                "repository_name": "chatgpt-web",
+                "user_name": "xqdoo00o",
+                "language": "HTML",
+                "license": "MIT License",
+                "description": "Pure Javascript ChatGPT demo based on OpenAI API",
+                "topics": [
+                    "caddy",
+                    "chatgpt",
+                    "html5",
+                    "javascript",
+                    "markdown",
+                    "nginx",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Pure Javascript ChatGPT demo based on OpenAI API",
+                    "ja": "OpenAI APIをベースにした純粋なJavascript ChatGPTデモOpenAI APIをベースにした純粋なJavascript ChatGPTデモ",
+                    "zh-hans": "基于OpenAI API的纯JavaScript ChatGPT演示",
+                    "zh-hant": "純JavaScript ChatGPT演示，基於OpenAI API"
+                }
             }
         },
         "Others": {
@@ -32473,6 +32536,53 @@
                     "ja": "ログイン不要のChatGPT Webが提供する無制限の無料GPT-3.5-Turbo APIサービスを活用してください。",
                     "zh-hans": "使用ChatGPT Web提供的无需登录的GPT-3.5-Turbo API服务，免费无限制。",
                     "zh-hant": "使用由ChatGPT Web提供的無限免費GPT-3.5-Turbo API服務。"
+                }
+            },
+            "https://github.com/princeton-nlp/swe-agent": {
+                "repository_name": "SWE-agent",
+                "user_name": "princeton-nlp",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.",
+                    "ja": "SWEエージェントは、GitHubの問題を取得し、GPT-4またはお好みのLMを使用して自動的に修正しようとします。 SWEベンチ評価セットのバグの12.29％を解決し、実行にわずか1.5分かかります。",
+                    "zh-hans": "SWE代理接收一个GitHub问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE基准评估集中12.29%的错误，并且只需要1.5分钟来运行。",
+                    "zh-hant": "SWE代理接收GitHub问题，并尝试使用GPT-4或您选择的LM自动修复它。它在SWE-bench评估集中解决了12.29%的错误，并仅需1.5分钟运行。"
+                }
+            },
+            "https://github.com/xd2333/galtransl": {
+                "repository_name": "GalTransl",
+                "user_name": "xd2333",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura",
+                    "ja": "GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするビジュアルノベルの自動翻訳ソリューション",
+                    "zh-hans": "支持GPT-3.5/GPT-4/Newbing/Sakura等大型语言模型的Galgame自动化翻译解决方案",
+                    "zh-hant": "支援GPT-3.5/GPT-4/Newbing/Sakura等大型語言模型的視覺小說自動翻譯解決方案"
+                }
+            },
+            "https://github.com/foundationvision/var": {
+                "repository_name": "VAR",
+                "user_name": "FoundationVision",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\"",
+                "topics": [
+                    "auto-regressive-model",
+                    "diffusion-models",
+                    "image-generation",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\"",
+                    "ja": "[GPTが拡散を打ち負かす🔥] [視覚生成におけるスケーリング法則📈] 「Visual Autoregressive Modeling: Next-Scale Predictionを介したスケーラブルな画像生成」の公式実装",
+                    "zh-hans": "[GPT击败扩散🔥] [视觉生成中的缩放定律📈] “视觉自回归建模：通过下一尺度预测实现可扩展图像生成”的官方实现。",
+                    "zh-hant": "[GPT擊敗擴散🔥] [視覺生成中的比例定律📈] 官方實現\"視覺自回歸建模：通過下一尺度預測實現可擴展圖像生成\""
                 }
             }
         }
