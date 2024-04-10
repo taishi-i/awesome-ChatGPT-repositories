@@ -14,25 +14,23 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、会話に人間味を持たせる仮想アシスタントに変えることができる能力を持つようにします。
+**Awesome-lists**
+ * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - Transformerネットワーク、注意機構、GPT、BERT、ChatGPT、LLMs、および転移学習に焦点を当てたNLPリソースの厳選リスト。
 
 
-**Tutorials**
- * [langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 公式ドキュメント、Cookbook、その他の実用例を基に作成した韓国語チュートリアルです。このチュートリアルを通じてLangChainをより簡単かつ効果的に使用する方法を学ぶことができます。
+**Browser-extensions**
+ * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - AIプロンプトのカスタムライブラリをキュレーションする
 
 
-**Openai**
- * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - OpenAI APIをベースにした純粋なJavascript ChatGPTデモOpenAI APIをベースにした純粋なJavascript ChatGPTデモ
+**Langchain**
+ * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflowは、各ノードが実行可能なユニットであるダイナミックグラフです。そのモジュラーでインタラクティブなデザインは、迅速な実験やプロトタイピングを促進し、創造性の限界に挑戦します。
 
 
 **Others**
- * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWEエージェントは、GitHubの問題を取得し、GPT-4またはお好みのLMを使用して自動的に修正しようとします。 SWEベンチ評価セットのバグの12.29％を解決し、実行にわずか1.5分かかります。
- * [GalTransl](https://github.com/xd2333/galtransl) - GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするビジュアルノベルの自動翻訳ソリューション
- * [VAR](https://github.com/foundationvision/var) - [GPTが拡散を打ち負かす🔥] [視覚生成におけるスケーリング法則📈] 「Visual Autoregressive Modeling: Next-Scale Predictionを介したスケーラブルな画像生成」の公式実装
+ * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - ChatGPTとMoegoe TTSを組み合わせて、チャットするワイフを作成します。
 
 
-_Updated on April 08, 2024_ (A total of 1500 repositories listed.)
+_Updated on April 11, 2024_ (A total of 1504 repositories listed.)
 
 ## Table of contents
 
@@ -110,6 +108,7 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - GPTストアのトップ評価を受けたGPTからのチャットGPTプロンプトのキュレーションリスト。プロンプトエンジニアリング、プロンプト攻撃＆プロンプト保護。高度なプロンプトエンジニアリング論文。
  * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 所有可能なLLMリソースのコレクション。これらを使用して、所有できる製品を作成したり、再現可能な研究を行ったりすることができます。
  * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - GPT-4言語モデルに関する厳選されたプロンプト、ツール、リソースのリスト。
+ * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - Transformerネットワーク、注意機構、GPT、BERT、ChatGPT、LLMs、および転移学習に焦点を当てたNLPリソースの厳選リスト。
 
 
 ## Prompts
@@ -594,6 +593,7 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [vim-ai](https://github.com/madox2/vim-ai) - Vim用のAIパワードコードアシスタント。VimとNeovim用のOpenAIとChatGPTプラグイン。
  * [AI-Employe](https://github.com/vignshwarar/ai-employe) - GPT-4 Visionを使用して人間に教えているかのようにブラウザ自動化を作成します。
  * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - ChatGPT APIに基づいたRaycast翻訳プラグイン - ChatGPT APIに基づいたRaycast翻訳拡張機能。
+ * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - AIプロンプトのカスタムライブラリをキュレーションする
 
 
 ## CLIs
@@ -1068,6 +1068,7 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [PIXIU](https://github.com/the-finai/pixiu) - このリポジトリは、初の金融向け大規模言語モデル（LLM）、インストラクションチューニングデータ、評価ベンチマークを特徴とするオープンソースリソースであるPIXIUを紹介しています。私たちの目標は、オープンを常に前進させることです。
  * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Python、ChatGPT、およびその他のモデルを使用して大規模言語モデル（LLM）アプリを構築します。これはLangChainの生成AIに関する書籍のためのコンパニオンリポジトリです。
  * [llm-books](https://github.com/morsoli/llm-books) - LLMを使用してアプリケーションを構築する実践ノート
+ * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflowは、各ノードが実行可能なユニットであるダイナミックグラフです。そのモジュラーでインタラクティブなデザインは、迅速な実験やプロトタイピングを促進し、創造性の限界に挑戦します。
 
 
 ## Unity
@@ -1607,5 +1608,6 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWEエージェントは、GitHubの問題を取得し、GPT-4またはお好みのLMを使用して自動的に修正しようとします。 SWEベンチ評価セットのバグの12.29％を解決し、実行にわずか1.5分かかります。
  * [GalTransl](https://github.com/xd2333/galtransl) - GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするビジュアルノベルの自動翻訳ソリューション
  * [VAR](https://github.com/foundationvision/var) - [GPTが拡散を打ち負かす🔥] [視覚生成におけるスケーリング法則📈] 「Visual Autoregressive Modeling: Next-Scale Predictionを介したスケーラブルな画像生成」の公式実装
+ * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - ChatGPTとMoegoe TTSを組み合わせて、チャットするワイフを作成します。
 
 

@@ -14,25 +14,23 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - 這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。
+**Awesome-lists**
+ * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - 一個精心挑選的自然語言處理資源列表，專注於Transformer網絡、注意機制、GPT、BERT、ChatGPT、LLMs和遷移學習。
 
 
-**Tutorials**
- * [langchain-kr](https://github.com/teddylee777/langchain-kr) - 請將以下內容翻譯成繁體中文。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。
+**Browser-extensions**
+ * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - 精心策劃一個定制的AI提示圖書館
 
 
-**Openai**
- * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - 純JavaScript ChatGPT演示，基於OpenAI API
+**Langchain**
+ * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow 是一個動態圖，其中每個節點都是可執行的單元。其模塊化和互動設計促進了快速實驗和原型設計，大大挑戰了創造力的極限。
 
 
 **Others**
- * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE代理接收GitHub问题，并尝试使用GPT-4或您选择的LM自动修复它。它在SWE-bench评估集中解决了12.29%的错误，并仅需1.5分钟运行。
- * [GalTransl](https://github.com/xd2333/galtransl) - 支援GPT-3.5/GPT-4/Newbing/Sakura等大型語言模型的視覺小說自動翻譯解決方案
- * [VAR](https://github.com/foundationvision/var) - [GPT擊敗擴散🔥] [視覺生成中的比例定律📈] 官方實現"視覺自回歸建模：通過下一尺度預測實現可擴展圖像生成"
+ * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - 將ChatGPT與Moegoe TTS結合，創建一個聊天妻子。
 
 
-_Updated on April 08, 2024_ (A total of 1500 repositories listed.)
+_Updated on April 11, 2024_ (A total of 1504 repositories listed.)
 
 ## Table of contents
 
@@ -110,6 +108,7 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - 從GPTs Store中排名前列的GPTs中精心挑選的聊天GPT提示列表。提示工程，提示攻擊和提示保護。高級提示工程論文。
  * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。
  * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - 一個關於GPT-4語言模型的精選提示、工具和資源清單。
+ * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - 一個精心挑選的自然語言處理資源列表，專注於Transformer網絡、注意機制、GPT、BERT、ChatGPT、LLMs和遷移學習。
 
 
 ## Prompts
@@ -594,6 +593,7 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [vim-ai](https://github.com/madox2/vim-ai) - AI 助手為 Vim 提供代碼支援。OpenAI 和 ChatGPT 插件適用於 Vim 和 Neovim。
  * [AI-Employe](https://github.com/vignshwarar/ai-employe) - 創建瀏覽器自動化，就像您在使用GPT-4 Vision教導人類一樣。
  * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基於 ChatGPT API 的 Raycast 翻譯插件 - 基於 ChatGPT API 的 Raycast 翻譯插件。
+ * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - 精心策劃一個定制的AI提示圖書館
 
 
 ## CLIs
@@ -1068,6 +1068,7 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [PIXIU](https://github.com/the-finai/pixiu) - 這個存儲庫介紹了PIXIU，這是一個開源資源，提供了第一個金融大型語言模型（LLMs）、指導調整數據和評估基準，以全面評估金融LLMs。我們的目標是不斷推動開放。
  * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - 請使用Python、ChatGPT和其他模型來建立大型語言模型（LLM）應用程式。這是與LangChain上生成式人工智能書籍相關的存儲庫。
  * [llm-books](https://github.com/morsoli/llm-books) - 利用LLM構建應用實踐筆記
+ * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow 是一個動態圖，其中每個節點都是可執行的單元。其模塊化和互動設計促進了快速實驗和原型設計，大大挑戰了創造力的極限。
 
 
 ## Unity
@@ -1607,5 +1608,6 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE代理接收GitHub问题，并尝试使用GPT-4或您选择的LM自动修复它。它在SWE-bench评估集中解决了12.29%的错误，并仅需1.5分钟运行。
  * [GalTransl](https://github.com/xd2333/galtransl) - 支援GPT-3.5/GPT-4/Newbing/Sakura等大型語言模型的視覺小說自動翻譯解決方案
  * [VAR](https://github.com/foundationvision/var) - [GPT擊敗擴散🔥] [視覺生成中的比例定律📈] 官方實現"視覺自回歸建模：通過下一尺度預測實現可擴展圖像生成"
+ * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - 將ChatGPT與Moegoe TTS結合，創建一個聊天妻子。
 
 
