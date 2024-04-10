@@ -14,25 +14,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
+**Awesome-lists**
+ * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
 
 
-**Tutorials**
- * [langchain-kr](https://github.com/teddylee777/langchain-kr) - This is a Korean tutorial written based on the official LangChain document, Cookbook, and other practical examples. Through this tutorial, you can learn how to use LangChain more easily and effectively.
+**Browser-extensions**
+ * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - Curate a custom library of AI Prompts
 
 
-**Openai**
- * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
+**Langchain**
+ * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 
 
 **Others**
- * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
- * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura
- * [VAR](https://github.com/foundationvision/var) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
+ * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - Combined ChatGPT with Moegoe TTS to create a Chatting Waifu
 
 
-_Updated on April 08, 2024_ (A total of 1500 repositories listed.)
+_Updated on April 11, 2024_ (A total of 1504 repositories listed.)
 
 ## Table of contents
 
@@ -110,6 +108,7 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
  * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
  * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
+ * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
 
 
 ## Prompts
@@ -594,6 +593,7 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
  * [AI-Employe](https://github.com/vignshwarar/ai-employe) - Create browser automation as if you were teaching a human using GPT-4 Vision.
  * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.
+ * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - Curate a custom library of AI Prompts
 
 
 ## CLIs
@@ -1068,6 +1068,7 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [PIXIU](https://github.com/the-finai/pixiu) - This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open
  * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.
  * [llm-books](https://github.com/morsoli/llm-books) - Using LLM to build application practice notes
+ * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 
 
 ## Unity
@@ -1607,5 +1608,6 @@ _Updated on April 08, 2024_ (A total of 1500 repositories listed.)
  * [SWE-agent](https://github.com/princeton-nlp/swe-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.
  * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura
  * [VAR](https://github.com/foundationvision/var) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
+ * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - Combined ChatGPT with Moegoe TTS to create a Chatting Waifu
 
 

@@ -1478,6 +1478,38 @@
                     "zh-hans": "一个关于GPT-4语言模型的策划列表，工具和资源。",
                     "zh-hant": "一個關於GPT-4語言模型的精選提示、工具和資源清單。"
                 }
+            },
+            "https://github.com/cedrickchee/awesome-transformer-nlp": {
+                "repository_name": "awesome-transformer-nlp",
+                "user_name": "cedrickchee",
+                "language": null,
+                "license": "MIT License",
+                "description": "A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.",
+                "topics": [
+                    "attention-mechanism",
+                    "awesome",
+                    "awesome-list",
+                    "bert",
+                    "chatgpt",
+                    "gpt-2",
+                    "gpt-3",
+                    "gpt-4",
+                    "language-model",
+                    "llama",
+                    "natural-language-processing",
+                    "neural-networks",
+                    "nlp",
+                    "pre-trained-language-models",
+                    "transfer-learning",
+                    "transformer",
+                    "xlnet"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.",
+                    "ja": "Transformerネットワーク、注意機構、GPT、BERT、ChatGPT、LLMs、および転移学習に焦点を当てたNLPリソースの厳選リスト。",
+                    "zh-hans": "一个精心筛选的自然语言处理资源列表，重点关注Transformer网络、注意力机制、GPT、BERT、ChatGPT、LLMs和迁移学习。",
+                    "zh-hant": "一個精心挑選的自然語言處理資源列表，專注於Transformer網絡、注意機制、GPT、BERT、ChatGPT、LLMs和遷移學習。"
+                }
             }
         },
         "Prompts": {
@@ -12173,6 +12205,25 @@
                     "zh-hans": "基于 ChatGPT API 的 Raycast 翻译插件 - 基于 ChatGPT API 的 Raycast 翻译扩展。",
                     "zh-hant": "基於 ChatGPT API 的 Raycast 翻譯插件 - 基於 ChatGPT API 的 Raycast 翻譯插件。"
                 }
+            },
+            "https://github.com/ai-prompt-genius/ai-prompt-genius": {
+                "repository_name": "AI-Prompt-Genius",
+                "user_name": "AI-Prompt-Genius",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Curate a custom library of AI Prompts",
+                "topics": [
+                    "ai",
+                    "browser-extension",
+                    "chatgpt",
+                    "chrome-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Curate a custom library of AI Prompts",
+                    "ja": "AIプロンプトのカスタムライブラリをキュレーションする",
+                    "zh-hans": "策划一个定制的人工智能提示库",
+                    "zh-hant": "精心策劃一個定制的AI提示圖書館"
+                }
             }
         },
         "CLIs": {
@@ -22143,6 +22194,25 @@
                     "ja": "LLMを使用してアプリケーションを構築する実践ノート",
                     "zh-hans": "利用LLM构建应用实践笔记",
                     "zh-hant": "利用LLM構建應用實踐筆記"
+                }
+            },
+            "https://github.com/langflow-ai/langflow": {
+                "repository_name": "langflow",
+                "user_name": "langflow-ai",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+                "topics": [
+                    "chatgpt",
+                    "langchain",
+                    "large-language-models",
+                    "react-flow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+                    "ja": "⛓️ Langflowは、各ノードが実行可能なユニットであるダイナミックグラフです。そのモジュラーでインタラクティブなデザインは、迅速な実験やプロトタイピングを促進し、創造性の限界に挑戦します。",
+                    "zh-hans": "⛓️ Langflow是一个动态图，其中每个节点都是可执行单元。其模块化和交互式设计促进了快速实验和原型设计，大力挑战创造力的极限。",
+                    "zh-hant": "⛓️ Langflow 是一個動態圖，其中每個節點都是可執行的單元。其模塊化和互動設計促進了快速實驗和原型設計，大大挑戰了創造力的極限。"
                 }
             }
         },
@@ -32583,6 +32653,20 @@
                     "ja": "[GPTが拡散を打ち負かす🔥] [視覚生成におけるスケーリング法則📈] 「Visual Autoregressive Modeling: Next-Scale Predictionを介したスケーラブルな画像生成」の公式実装",
                     "zh-hans": "[GPT击败扩散🔥] [视觉生成中的缩放定律📈] “视觉自回归建模：通过下一尺度预测实现可扩展图像生成”的官方实现。",
                     "zh-hant": "[GPT擊敗擴散🔥] [視覺生成中的比例定律📈] 官方實現\"視覺自回歸建模：通過下一尺度預測實現可擴展圖像生成\""
+                }
+            },
+            "https://github.com/cjyaddone/chatwaifu": {
+                "repository_name": "ChatWaifu",
+                "user_name": "cjyaddone",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Combined ChatGPT with Moegoe TTS to create a Chatting Waifu",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Combined ChatGPT with Moegoe TTS to create a Chatting Waifu",
+                    "ja": "ChatGPTとMoegoe TTSを組み合わせて、チャットするワイフを作成します。",
+                    "zh-hans": "将ChatGPT与Moegoe TTS结合，创建一个聊天娇娃",
+                    "zh-hant": "將ChatGPT與Moegoe TTS結合，創建一個聊天妻子。"
                 }
             }
         }
