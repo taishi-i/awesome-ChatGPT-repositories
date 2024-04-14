@@ -14,23 +14,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - 一個精心挑選的自然語言處理資源列表，專注於Transformer網絡、注意機制、GPT、BERT、ChatGPT、LLMs和遷移學習。
+**NLP**
+ * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - 請使用 ChatGPT 翻譯字幕
 
 
-**Browser-extensions**
- * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - 精心策劃一個定制的AI提示圖書館
+**Openai**
+ * [one-api](https://github.com/martialbe/one-api) - OpenAI 介面管理 & 分發系統，改自songquanpeng/one-api。支援更多模型，加入統計頁面，完善非openai模型的函數呼叫。
+ * [lux-ui](https://github.com/yangjiakai/lux-ui) - 根據Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT創建最佳管理員
 
 
-**Langchain**
- * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow 是一個動態圖，其中每個節點都是可執行的單元。其模塊化和互動設計促進了快速實驗和原型設計，大大挑戰了創造力的極限。
-
-
-**Others**
- * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - 將ChatGPT與Moegoe TTS結合，創建一個聊天妻子。
-
-
-_Updated on April 11, 2024_ (A total of 1504 repositories listed.)
+_Updated on April 15, 2024_ (A total of 1507 repositories listed.)
 
 ## Table of contents
 
@@ -979,6 +972,7 @@ _Updated on April 11, 2024_ (A total of 1504 repositories listed.)
  * [LLMPapers](https://github.com/kseseu/llmpapers) - 論文和作品，適用於大型語言模型（ChatGPT、GPT-3、Codex等）。
  * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - 基於人工智慧的程式碼生成流程：命令列工具和框架，用於在構建過程中系統性地使用人工智慧生成程式碼。
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 專為渴望通過乾淨、有效和 Go-idiomatic 方法探索大型語言模型（LLMs）和其他生成式人工智能潛力的開發人員設計的圖書館。
+ * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - 請使用 ChatGPT 翻譯字幕
 
 
 ## Langchain
@@ -1239,6 +1233,8 @@ _Updated on April 11, 2024_ (A total of 1504 repositories listed.)
  * [cognee](https://github.com/topoteretes/cognee) - AI應用程式和AI代理的記憶體管理
  * [finance](https://github.com/saleem-hadad/finance) - 💰由ChatGPT驅動的免費開源個人財務追蹤網絡應用程式。
  * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - 純JavaScript ChatGPT演示，基於OpenAI API
+ * [one-api](https://github.com/martialbe/one-api) - OpenAI 介面管理 & 分發系統，改自songquanpeng/one-api。支援更多模型，加入統計頁面，完善非openai模型的函數呼叫。
+ * [lux-ui](https://github.com/yangjiakai/lux-ui) - 根據Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT創建最佳管理員
 
 
 ## Others
