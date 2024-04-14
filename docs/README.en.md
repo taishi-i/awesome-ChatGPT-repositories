@@ -14,23 +14,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
+**NLP**
+ * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using ChatGPT
 
 
-**Browser-extensions**
- * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - Curate a custom library of AI Prompts
+**Openai**
+ * [one-api](https://github.com/martialbe/one-api) - OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.
+ * [lux-ui](https://github.com/yangjiakai/lux-ui) - Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT
 
 
-**Langchain**
- * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
-
-
-**Others**
- * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - Combined ChatGPT with Moegoe TTS to create a Chatting Waifu
-
-
-_Updated on April 11, 2024_ (A total of 1504 repositories listed.)
+_Updated on April 15, 2024_ (A total of 1507 repositories listed.)
 
 ## Table of contents
 
@@ -979,6 +972,7 @@ _Updated on April 11, 2024_ (A total of 1504 repositories listed.)
  * [LLMPapers](https://github.com/kseseu/llmpapers) - Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).
  * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AI based code generation pipeline: command line tool and framework for systematic code generation using AI in a build process
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
+ * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using ChatGPT
 
 
 ## Langchain
@@ -1239,6 +1233,8 @@ _Updated on April 11, 2024_ (A total of 1504 repositories listed.)
  * [cognee](https://github.com/topoteretes/cognee) - Memory management for the AI Applications and AI Agents
  * [finance](https://github.com/saleem-hadad/finance) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
  * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
+ * [one-api](https://github.com/martialbe/one-api) - OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.
+ * [lux-ui](https://github.com/yangjiakai/lux-ui) - Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT
 
 
 ## Others

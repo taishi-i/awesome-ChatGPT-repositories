@@ -14,23 +14,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - Transformerネットワーク、注意機構、GPT、BERT、ChatGPT、LLMs、および転移学習に焦点を当てたNLPリソースの厳選リスト。
+**NLP**
+ * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ ChatGPTを使用して字幕を翻訳します
 
 
-**Browser-extensions**
- * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - AIプロンプトのカスタムライブラリをキュレーションする
+**Openai**
+ * [one-api](https://github.com/martialbe/one-api) - Input: OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.Output: OpenAI インターフェース管理＆配布システム、songquanpeng/one-apiを改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善します。
+ * [lux-ui](https://github.com/yangjiakai/lux-ui) - Vue3.x、Vite5.x、TypeScript、Vuetify3.x、Chat GPTに基づいて最高の管理者を作成します。
 
 
-**Langchain**
- * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflowは、各ノードが実行可能なユニットであるダイナミックグラフです。そのモジュラーでインタラクティブなデザインは、迅速な実験やプロトタイピングを促進し、創造性の限界に挑戦します。
-
-
-**Others**
- * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - ChatGPTとMoegoe TTSを組み合わせて、チャットするワイフを作成します。
-
-
-_Updated on April 11, 2024_ (A total of 1504 repositories listed.)
+_Updated on April 15, 2024_ (A total of 1507 repositories listed.)
 
 ## Table of contents
 
@@ -979,6 +972,7 @@ _Updated on April 11, 2024_ (A total of 1504 repositories listed.)
  * [LLMPapers](https://github.com/kseseu/llmpapers) - 大規模言語モデル（ChatGPT、GPT-3、Codexなど）の論文や作品。
  * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AIベースのコード生成パイプライン：AIを使用した体系的なコード生成のためのコマンドラインツールおよびフレームワーク、ビルドプロセスでの使用
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 大規模言語モデル（LLM）や他の生成AIの潜在能力を探求したい開発者向けに設計されたライブラリ。クリーンで効果的、かつGo-idiomaticなアプローチを通じて。
+ * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ ChatGPTを使用して字幕を翻訳します
 
 
 ## Langchain
@@ -1239,6 +1233,8 @@ _Updated on April 11, 2024_ (A total of 1504 repositories listed.)
  * [cognee](https://github.com/topoteretes/cognee) - AIアプリケーションとAIエージェントのためのメモリ管理
  * [finance](https://github.com/saleem-hadad/finance) - 💰 ChatGPTによって提供される無料のオープンソースの個人向けファイナンス追跡Webアプリ。
  * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - OpenAI APIをベースにした純粋なJavascript ChatGPTデモOpenAI APIをベースにした純粋なJavascript ChatGPTデモ
+ * [one-api](https://github.com/martialbe/one-api) - Input: OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.Output: OpenAI インターフェース管理＆配布システム、songquanpeng/one-apiを改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善します。
+ * [lux-ui](https://github.com/yangjiakai/lux-ui) - Vue3.x、Vite5.x、TypeScript、Vuetify3.x、Chat GPTに基づいて最高の管理者を作成します。
 
 
 ## Others

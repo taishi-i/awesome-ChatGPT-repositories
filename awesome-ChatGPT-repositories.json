@@ -20200,6 +20200,28 @@
                     "zh-hans": "🕵️‍♂️ 专为开发人员设计的图书馆，旨在通过清晰、有效和符合Go语言习惯的方法，探索大型语言模型（LLMs）和其他生成式人工智能的潜力。",
                     "zh-hant": "🕵️‍♂️ 專為渴望通過乾淨、有效和 Go-idiomatic 方法探索大型語言模型（LLMs）和其他生成式人工智能潛力的開發人員設計的圖書館。"
                 }
+            },
+            "https://github.com/gnehs/subtitle-translator-electron": {
+                "repository_name": "subtitle-translator-electron",
+                "user_name": "gnehs",
+                "language": null,
+                "license": null,
+                "description": "↔️ Translate subtitle using ChatGPT",
+                "topics": [
+                    "chatgpt",
+                    "electron",
+                    "gpt-3",
+                    "gpt-4",
+                    "open-ai",
+                    "subtitle",
+                    "translation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "↔️ Translate subtitle using ChatGPT",
+                    "ja": "↔️ ChatGPTを使用して字幕を翻訳します",
+                    "zh-hans": "使用ChatGPT翻译字幕",
+                    "zh-hant": "請使用 ChatGPT 翻譯字幕"
+                }
             }
         },
         "Langchain": {
@@ -25716,6 +25738,51 @@
                     "ja": "OpenAI APIをベースにした純粋なJavascript ChatGPTデモOpenAI APIをベースにした純粋なJavascript ChatGPTデモ",
                     "zh-hans": "基于OpenAI API的纯JavaScript ChatGPT演示",
                     "zh-hant": "純JavaScript ChatGPT演示，基於OpenAI API"
+                }
+            },
+            "https://github.com/martialbe/one-api": {
+                "repository_name": "one-api",
+                "user_name": "MartialBE",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。",
+                "topics": [
+                    "chatgpt",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.",
+                    "ja": "Input: OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.Output: OpenAI インターフェース管理＆配布システム、songquanpeng/one-apiを改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善します。",
+                    "zh-hans": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。",
+                    "zh-hant": "OpenAI 介面管理 & 分發系統，改自songquanpeng/one-api。支援更多模型，加入統計頁面，完善非openai模型的函數呼叫。"
+                }
+            },
+            "https://github.com/yangjiakai/lux-ui": {
+                "repository_name": "lux-ui",
+                "user_name": "yangjiakai",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT",
+                "topics": [
+                    "chatgpt",
+                    "firebase",
+                    "firebase-auth",
+                    "markdown",
+                    "mockjs",
+                    "openai",
+                    "pinia",
+                    "typscript",
+                    "vite",
+                    "vue3",
+                    "vuetify",
+                    "vuetify3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT",
+                    "ja": "Vue3.x、Vite5.x、TypeScript、Vuetify3.x、Chat GPTに基づいて最高の管理者を作成します。",
+                    "zh-hans": "基于Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT创建最佳管理员",
+                    "zh-hant": "根據Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT創建最佳管理員"
                 }
             }
         },

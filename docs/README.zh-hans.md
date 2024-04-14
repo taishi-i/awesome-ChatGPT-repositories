@@ -14,23 +14,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - 一个精心筛选的自然语言处理资源列表，重点关注Transformer网络、注意力机制、GPT、BERT、ChatGPT、LLMs和迁移学习。
+**NLP**
+ * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - 使用ChatGPT翻译字幕
 
 
-**Browser-extensions**
- * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - 策划一个定制的人工智能提示库
+**Openai**
+ * [one-api](https://github.com/martialbe/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
+ * [lux-ui](https://github.com/yangjiakai/lux-ui) - 基于Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT创建最佳管理员
 
 
-**Langchain**
- * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow是一个动态图，其中每个节点都是可执行单元。其模块化和交互式设计促进了快速实验和原型设计，大力挑战创造力的极限。
-
-
-**Others**
- * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - 将ChatGPT与Moegoe TTS结合，创建一个聊天娇娃
-
-
-_Updated on April 11, 2024_ (A total of 1504 repositories listed.)
+_Updated on April 15, 2024_ (A total of 1507 repositories listed.)
 
 ## Table of contents
 
@@ -979,6 +972,7 @@ _Updated on April 11, 2024_ (A total of 1504 repositories listed.)
  * [LLMPapers](https://github.com/kseseu/llmpapers) - 大型语言模型（ChatGPT，GPT-3，Codex等）的论文和作品。
  * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - 基于人工智能的代码生成流水线：命令行工具和框架，用于在构建过程中使用人工智能进行系统化代码生成。
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 专为开发人员设计的图书馆，旨在通过清晰、有效和符合Go语言习惯的方法，探索大型语言模型（LLMs）和其他生成式人工智能的潜力。
+ * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - 使用ChatGPT翻译字幕
 
 
 ## Langchain
@@ -1239,6 +1233,8 @@ _Updated on April 11, 2024_ (A total of 1504 repositories listed.)
  * [cognee](https://github.com/topoteretes/cognee) - AI应用程序和AI代理的内存管理
  * [finance](https://github.com/saleem-hadad/finance) - 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
  * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - 基于OpenAI API的纯JavaScript ChatGPT演示
+ * [one-api](https://github.com/martialbe/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
+ * [lux-ui](https://github.com/yangjiakai/lux-ui) - 基于Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT创建最佳管理员
 
 
 ## Others
