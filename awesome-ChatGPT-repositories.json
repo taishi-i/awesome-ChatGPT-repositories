@@ -8746,6 +8746,28 @@
                     "zh-hans": "ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。",
                     "zh-hant": "ChatGPT帶火了聊天機器人，主流的趨勢都調整到了GPT類模式，本項目也與時俱進，會在近期更新GPT類版本。基於本項目和自己的語料可以訓練出自己想要的聊天機器人，用於智能客服、在線問答、閒聊等場景。"
                 }
+            },
+            "https://github.com/wechatapis/wechatbotcmd": {
+                "repository_name": "WechatBotCMD",
+                "user_name": "WeChatAPIs",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。",
+                "topics": [
+                    "wechat",
+                    "wechat-api",
+                    "wechat-com",
+                    "wechat-hook",
+                    "wechatbot",
+                    "wechatbot-ai",
+                    "wechatsdk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WechatBotCMD is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.",
+                    "ja": "WechatBotCMDは、Python 3.11をベースにした革新的なプロジェクトであり、ChatGPTモデルとWechatのネイティブAPIを組み合わせることで、ユーザーにスマートなチャット、自動描画、自動的に友達に共有する、自動的に動画を共有するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。",
+                    "zh-hans": "微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。",
+                    "zh-hant": "微信機器人WechatBotCMD是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。"
+                }
             }
         },
         "Browser-extensions": {
@@ -12224,6 +12246,34 @@
                     "zh-hans": "策划一个定制的人工智能提示库",
                     "zh-hant": "精心策劃一個定制的AI提示圖書館"
                 }
+            },
+            "https://github.com/dhravya/supermemory": {
+                "repository_name": "supermemory",
+                "user_name": "Dhravya",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.",
+                "topics": [
+                    "cloudflare-ai",
+                    "cloudflare-browser-rendering",
+                    "cloudflare-d1",
+                    "cloudflare-kv",
+                    "cloudflare-pages",
+                    "cloudflare-queues",
+                    "cloudflare-vectorize",
+                    "cloudflare-workers",
+                    "drizzle-orm",
+                    "nextjs",
+                    "nextjs14",
+                    "tailwindcss",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.",
+                    "ja": "スーパーメモリを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存できます。",
+                    "zh-hans": "用超级记忆力建立自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。",
+                    "zh-hant": "用超级记忆力建立您自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。"
+                }
             }
         },
         "CLIs": {
@@ -15560,6 +15610,31 @@
                     "ja": "LangChain 公式ドキュメント、Cookbook、その他の実用例を基に作成した韓国語チュートリアルです。このチュートリアルを通じてLangChainをより簡単かつ効果的に使用する方法を学ぶことができます。",
                     "zh-hans": "通过LangChain官方文档、Cookbook以及其他实用示例编写的韩语教程。通过本教程，您可以学习如何更轻松、更有效地使用LangChain。",
                     "zh-hant": "請將以下內容翻譯成繁體中文。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。"
+                }
+            },
+            "https://github.com/onlyphantom/llm-python": {
+                "repository_name": "llm-python",
+                "user_name": "onlyphantom",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb & pinecone",
+                "topics": [
+                    "chromadb",
+                    "gpt-3",
+                    "langchain",
+                    "langchain-python",
+                    "llamaindex",
+                    "llm",
+                    "llmops",
+                    "openai-api",
+                    "pinecone",
+                    "tutorial"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Large Language Models (LLMs) tutorials & sample scripts featuring langchain, OpenAI, LLAMaindex, GPT, ChromaDB, and Pinecone.",
+                    "ja": "大規模言語モデル（LLMs）のチュートリアル＆サンプルスクリプト、ft. langchain、openai、llamaindex、gpt、chromadb＆pinecone",
+                    "zh-hans": "大型语言模型（LLMs）教程和示例脚本，ft. langchain，openai，llamaindex，gpt，chromadb和pinecone",
+                    "zh-hant": "大型語言模型（LLMs）教程和示例腳本，包括langchain、openai、llamaindex、gpt、chromadb和pinecone"
                 }
             }
         },
@@ -32734,6 +32809,20 @@
                     "ja": "ChatGPTとMoegoe TTSを組み合わせて、チャットするワイフを作成します。",
                     "zh-hans": "将ChatGPT与Moegoe TTS结合，创建一个聊天娇娃",
                     "zh-hant": "將ChatGPT與Moegoe TTS結合，創建一個聊天妻子。"
+                }
+            },
+            "https://github.com/link-agi/autoagents": {
+                "repository_name": "AutoAgents",
+                "user_name": "Link-AGI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "[IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "[IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.",
+                    "ja": "[IJCAI 2024] GPTの異なる役割を生成し、複雑なタスクのための協力エンティティを形成します。",
+                    "zh-hans": "[IJCAI 2024] 为GPT生成不同角色，形成协作实体，完成复杂任务。",
+                    "zh-hant": "[IJCAI 2024] 生成不同角色的GPT，形成協作實體，以應對複雜任務。"
                 }
             }
         }

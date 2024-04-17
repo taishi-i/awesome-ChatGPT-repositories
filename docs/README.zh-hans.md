@@ -14,16 +14,23 @@
 
 ## The latest additions 🎉
 
-**NLP**
- * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - 使用ChatGPT翻译字幕
+**Chatbots**
+ * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
 
 
-**Openai**
- * [one-api](https://github.com/martialbe/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
- * [lux-ui](https://github.com/yangjiakai/lux-ui) - 基于Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT创建最佳管理员
+**Browser-extensions**
+ * [supermemory](https://github.com/dhravya/supermemory) - 用超级记忆力建立自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。
 
 
-_Updated on April 15, 2024_ (A total of 1507 repositories listed.)
+**Tutorials**
+ * [llm-python](https://github.com/onlyphantom/llm-python) - 大型语言模型（LLMs）教程和示例脚本，ft. langchain，openai，llamaindex，gpt，chromadb和pinecone
+
+
+**Others**
+ * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] 为GPT生成不同角色，形成协作实体，完成复杂任务。
+
+
+_Updated on April 18, 2024_ (A total of 1511 repositories listed.)
 
 ## Table of contents
 
@@ -425,6 +432,7 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 庞大的人工智能模型目录。一个精心筛选的人工智能工具、平台和资源列表，涵盖各个领域。
  * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - 聊天机器人竞技场迎来多模态！多模态竞技场允许您将视觉语言模型并排进行基准测试，同时提供图像作为输入。支持MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2等多种模型！
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。
+ * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
 
 
 ## Browser-extensions
@@ -587,6 +595,7 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [AI-Employe](https://github.com/vignshwarar/ai-employe) - 使用GPT-4 Vision 创建浏览器自动化，就像教导人类一样。
  * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - 基于 ChatGPT API 的 Raycast 翻译扩展。
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - 策划一个定制的人工智能提示库
+ * [supermemory](https://github.com/dhravya/supermemory) - 用超级记忆力建立自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。
 
 
 ## CLIs
@@ -747,6 +756,7 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 通过示例学习 eBPF | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - 使用tensorflow进行文本预处理，整理了最新模型的下游任务，如主题模型、BERT、GPT、LLM等的Deep Learning NLP存储库。
  * [langchain-kr](https://github.com/teddylee777/langchain-kr) - 通过LangChain官方文档、Cookbook以及其他实用示例编写的韩语教程。通过本教程，您可以学习如何更轻松、更有效地使用LangChain。
+ * [llm-python](https://github.com/onlyphantom/llm-python) - 大型语言模型（LLMs）教程和示例脚本，ft. langchain，openai，llamaindex，gpt，chromadb和pinecone
 
 
 ## NLP
@@ -1605,5 +1615,6 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大型语言模型的Galgame自动化翻译解决方案
  * [VAR](https://github.com/foundationvision/var) - [GPT击败扩散🔥] [视觉生成中的缩放定律📈] “视觉自回归建模：通过下一尺度预测实现可扩展图像生成”的官方实现。
  * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - 将ChatGPT与Moegoe TTS结合，创建一个聊天娇娃
+ * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] 为GPT生成不同角色，形成协作实体，完成复杂任务。
 
 
