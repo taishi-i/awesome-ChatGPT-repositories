@@ -14,16 +14,23 @@
 
 ## The latest additions 🎉
 
-**NLP**
- * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ ChatGPTを使用して字幕を翻訳します
+**Chatbots**
+ * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMDは、Python 3.11をベースにした革新的なプロジェクトであり、ChatGPTモデルとWechatのネイティブAPIを組み合わせることで、ユーザーにスマートなチャット、自動描画、自動的に友達に共有する、自動的に動画を共有するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
 
 
-**Openai**
- * [one-api](https://github.com/martialbe/one-api) - Input: OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.Output: OpenAI インターフェース管理＆配布システム、songquanpeng/one-apiを改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善します。
- * [lux-ui](https://github.com/yangjiakai/lux-ui) - Vue3.x、Vite5.x、TypeScript、Vuetify3.x、Chat GPTに基づいて最高の管理者を作成します。
+**Browser-extensions**
+ * [supermemory](https://github.com/dhravya/supermemory) - スーパーメモリを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存できます。
 
 
-_Updated on April 15, 2024_ (A total of 1507 repositories listed.)
+**Tutorials**
+ * [llm-python](https://github.com/onlyphantom/llm-python) - 大規模言語モデル（LLMs）のチュートリアル＆サンプルスクリプト、ft. langchain、openai、llamaindex、gpt、chromadb＆pinecone
+
+
+**Others**
+ * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] GPTの異なる役割を生成し、複雑なタスクのための協力エンティティを形成します。
+
+
+_Updated on April 18, 2024_ (A total of 1511 repositories listed.)
 
 ## Table of contents
 
@@ -425,6 +432,7 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - 巨大なAIモデルカタログ。さまざまなドメインにわたるAIツール、プラットフォーム、リソースの厳選リスト。
  * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - チャットボットアリーナがマルチモダリティに対応しました！マルチモダリティアリーナでは、画像を入力として提供しながら、ビジョン言語モデルを並べてベンチマークを行うことができます。MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2などをサポートしています！
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPTがチャットボットを人気にしました。主流のトレンドはすべてGPTタイプのモデルに調整されており、このプロジェクトも最新のGPTタイプのバージョンを近日中に更新する予定です。このプロジェクトと独自のコーパスを使用して、自分が望むチャットボットをトレーニングすることができ、インテリジェントカスタマーサービス、オンライン質問回答、雑談などのシーンに活用できます。
+ * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMDは、Python 3.11をベースにした革新的なプロジェクトであり、ChatGPTモデルとWechatのネイティブAPIを組み合わせることで、ユーザーにスマートなチャット、自動描画、自動的に友達に共有する、自動的に動画を共有するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
 
 
 ## Browser-extensions
@@ -587,6 +595,7 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [AI-Employe](https://github.com/vignshwarar/ai-employe) - GPT-4 Visionを使用して人間に教えているかのようにブラウザ自動化を作成します。
  * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - ChatGPT APIに基づいたRaycast翻訳プラグイン - ChatGPT APIに基づいたRaycast翻訳拡張機能。
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - AIプロンプトのカスタムライブラリをキュレーションする
+ * [supermemory](https://github.com/dhravya/supermemory) - スーパーメモリを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存できます。
 
 
 ## CLIs
@@ -747,6 +756,7 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - 学习 eBPF 的例子 | eBPF 開発者チュートリアルとナレッジベース：パフォーマンス、ネットワーク、セキュリティなど、さまざまなアプリケーションシナリオを小道具と例を使って一歩ずつ学ぶ
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - TensorFlowを使用してテキストの前処理から、Topic Models、BERT、GPT、LLMなどの最新モデルのダウンストリームタスクをまとめたDeep Learning NLPリポジトリです。
  * [langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 公式ドキュメント、Cookbook、その他の実用例を基に作成した韓国語チュートリアルです。このチュートリアルを通じてLangChainをより簡単かつ効果的に使用する方法を学ぶことができます。
+ * [llm-python](https://github.com/onlyphantom/llm-python) - 大規模言語モデル（LLMs）のチュートリアル＆サンプルスクリプト、ft. langchain、openai、llamaindex、gpt、chromadb＆pinecone
 
 
 ## NLP
@@ -1605,5 +1615,6 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [GalTransl](https://github.com/xd2333/galtransl) - GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするビジュアルノベルの自動翻訳ソリューション
  * [VAR](https://github.com/foundationvision/var) - [GPTが拡散を打ち負かす🔥] [視覚生成におけるスケーリング法則📈] 「Visual Autoregressive Modeling: Next-Scale Predictionを介したスケーラブルな画像生成」の公式実装
  * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - ChatGPTとMoegoe TTSを組み合わせて、チャットするワイフを作成します。
+ * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] GPTの異なる役割を生成し、複雑なタスクのための協力エンティティを形成します。
 
 

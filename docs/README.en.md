@@ -14,16 +14,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**NLP**
- * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using ChatGPT
+**Chatbots**
+ * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMD is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.
 
 
-**Openai**
- * [one-api](https://github.com/martialbe/one-api) - OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.
- * [lux-ui](https://github.com/yangjiakai/lux-ui) - Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT
+**Browser-extensions**
+ * [supermemory](https://github.com/dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
 
-_Updated on April 15, 2024_ (A total of 1507 repositories listed.)
+**Tutorials**
+ * [llm-python](https://github.com/onlyphantom/llm-python) - Large Language Models (LLMs) tutorials & sample scripts featuring langchain, OpenAI, LLAMaindex, GPT, ChromaDB, and Pinecone.
+
+
+**Others**
+ * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.
+
+
+_Updated on April 18, 2024_ (A total of 1511 repositories listed.)
 
 ## Table of contents
 
@@ -425,6 +432,7 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.
  * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT has popularized chatbots, and the mainstream trend has shifted to GPT-style models. This project is also keeping up with the times and will soon update to a GPT-style version. Based on this project and your own corpus, you can train your own desired chatbot for use in intelligent customer service, online Q&A, casual chat, and other scenarios.
+ * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMD is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.
 
 
 ## Browser-extensions
@@ -587,6 +595,7 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [AI-Employe](https://github.com/vignshwarar/ai-employe) - Create browser automation as if you were teaching a human using GPT-4 Vision.
  * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - Curate a custom library of AI Prompts
+ * [supermemory](https://github.com/dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
 
 ## CLIs
@@ -747,6 +756,7 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - Learn eBPF by examples | eBPF Developer Tutorial and Knowledge Base: Learn eBPF step by step through tools and examples, including various application scenarios such as performance, networking, and security.
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - This is a Deep Learning NLP repository that summarizes tasks such as text preprocessing, Topic Models, BERT, GPT, and LLM using tensorflow and other latest models.
  * [langchain-kr](https://github.com/teddylee777/langchain-kr) - This is a Korean tutorial written based on the official LangChain document, Cookbook, and other practical examples. Through this tutorial, you can learn how to use LangChain more easily and effectively.
+ * [llm-python](https://github.com/onlyphantom/llm-python) - Large Language Models (LLMs) tutorials & sample scripts featuring langchain, OpenAI, LLAMaindex, GPT, ChromaDB, and Pinecone.
 
 
 ## NLP
@@ -1605,5 +1615,6 @@ _Updated on April 15, 2024_ (A total of 1507 repositories listed.)
  * [GalTransl](https://github.com/xd2333/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura
  * [VAR](https://github.com/foundationvision/var) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
  * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - Combined ChatGPT with Moegoe TTS to create a Chatting Waifu
+ * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.
 
 
