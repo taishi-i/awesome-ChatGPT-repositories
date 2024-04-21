@@ -14,23 +14,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - 微信機器人WechatBotCMD是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。
+**Awesome-lists**
+ * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - 這個存儲庫包括了克勞德提示的整理，以更好地使用克勞德。
+ * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 一個用於創建、監控、調試和部署自主人工智能代理的SDK、框架、庫和工具的數據庫
 
 
-**Browser-extensions**
- * [supermemory](https://github.com/dhravya/supermemory) - 用超级记忆力建立您自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。
-
-
-**Tutorials**
- * [llm-python](https://github.com/onlyphantom/llm-python) - 大型語言模型（LLMs）教程和示例腳本，包括langchain、openai、llamaindex、gpt、chromadb和pinecone
+**NLP**
+ * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - 使用Obsidian中的ChatGPT快速格式化您的筆記
 
 
 **Others**
- * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] 生成不同角色的GPT，形成協作實體，以應對複雜任務。
+ * [suno-api](https://github.com/gcui-art/suno-api) - 使用API調用suno.ai的音樂生成AI，並輕鬆集成到像GPTs這樣的代理程序中。
 
 
-_Updated on April 18, 2024_ (A total of 1511 repositories listed.)
+_Updated on April 22, 2024_ (A total of 1515 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +106,8 @@ _Updated on April 18, 2024_ (A total of 1511 repositories listed.)
  * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。可用於建立您可以「擁有」的產品或進行可重複研究的LLM資源集合。
  * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - 一個關於GPT-4語言模型的精選提示、工具和資源清單。
  * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - 一個精心挑選的自然語言處理資源列表，專注於Transformer網絡、注意機制、GPT、BERT、ChatGPT、LLMs和遷移學習。
+ * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - 這個存儲庫包括了克勞德提示的整理，以更好地使用克勞德。
+ * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 一個用於創建、監控、調試和部署自主人工智能代理的SDK、框架、庫和工具的數據庫
 
 
 ## Prompts
@@ -983,6 +982,7 @@ _Updated on April 18, 2024_ (A total of 1511 repositories listed.)
  * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - 基於人工智慧的程式碼生成流程：命令列工具和框架，用於在構建過程中系統性地使用人工智慧生成程式碼。
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 專為渴望通過乾淨、有效和 Go-idiomatic 方法探索大型語言模型（LLMs）和其他生成式人工智能潛力的開發人員設計的圖書館。
  * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - 請使用 ChatGPT 翻譯字幕
+ * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - 使用Obsidian中的ChatGPT快速格式化您的筆記
 
 
 ## Langchain
@@ -1616,5 +1616,6 @@ _Updated on April 18, 2024_ (A total of 1511 repositories listed.)
  * [VAR](https://github.com/foundationvision/var) - [GPT擊敗擴散🔥] [視覺生成中的比例定律📈] 官方實現"視覺自回歸建模：通過下一尺度預測實現可擴展圖像生成"
  * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - 將ChatGPT與Moegoe TTS結合，創建一個聊天妻子。
  * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] 生成不同角色的GPT，形成協作實體，以應對複雜任務。
+ * [suno-api](https://github.com/gcui-art/suno-api) - 使用API調用suno.ai的音樂生成AI，並輕鬆集成到像GPTs這樣的代理程序中。
 
 

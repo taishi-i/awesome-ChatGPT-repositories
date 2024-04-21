@@ -14,23 +14,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
+**Awesome-lists**
+ * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
+ * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
 
 
-**Browser-extensions**
- * [supermemory](https://github.com/dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-
-
-**Tutorials**
- * [llm-python](https://github.com/onlyphantom/llm-python) - Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb & pinecone
+**NLP**
+ * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 
 
 **Others**
- * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.
+ * [suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 
 
-_Updated on April 18, 2024_ (A total of 1511 repositories listed.)
+_Updated on April 22, 2024_ (A total of 1515 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +106,8 @@ _Updated on April 18, 2024_ (A total of 1511 repositories listed.)
  * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - Collection of LLM resources that can be used to build products you can "own" or to perform reproducible research.
  * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
  * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
+ * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
+ * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
 
 
 ## Prompts
@@ -983,6 +982,7 @@ _Updated on April 18, 2024_ (A total of 1511 repositories listed.)
  * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AI based code generation pipeline: command line tool and framework for systematic code generation using AI in a build process
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
  * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using ChatGPT
+ * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
 
 
 ## Langchain
@@ -1616,5 +1616,6 @@ _Updated on April 18, 2024_ (A total of 1511 repositories listed.)
  * [VAR](https://github.com/foundationvision/var) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
  * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - Combined ChatGPT with Moegoe TTS to create a Chatting Waifu
  * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] Generate different roles for GPTs to form a collaborative entity for complex tasks.
+ * [suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
 
 
