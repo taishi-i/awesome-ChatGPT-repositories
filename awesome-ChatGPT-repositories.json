@@ -1510,6 +1510,70 @@
                     "zh-hans": "一个精心筛选的自然语言处理资源列表，重点关注Transformer网络、注意力机制、GPT、BERT、ChatGPT、LLMs和迁移学习。",
                     "zh-hant": "一個精心挑選的自然語言處理資源列表，專注於Transformer網絡、注意機制、GPT、BERT、ChatGPT、LLMs和遷移學習。"
                 }
+            },
+            "https://github.com/langgptai/awesome-claude-prompts": {
+                "repository_name": "awesome-claude-prompts",
+                "user_name": "langgptai",
+                "language": null,
+                "license": null,
+                "description": "This repo includes Claude prompt curation to use Claude better.",
+                "topics": [
+                    "anthropic",
+                    "anthropic-claude",
+                    "awesome-claude",
+                    "awesome-claude-prompts",
+                    "awesome-prompts",
+                    "chatgpt",
+                    "chatgpt-4",
+                    "chatgpt3",
+                    "claude",
+                    "claude-ai",
+                    "openai",
+                    "openai-chatgpt",
+                    "prompt",
+                    "prompt-learning",
+                    "prompt-toolkit",
+                    "prompts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This repo includes Claude prompt curation to use Claude better.",
+                    "ja": "このリポジトリには、クロードをより効果的に使用するためのクロードプロンプトのキュレーションが含まれています。",
+                    "zh-hans": "这个存储库包括了克劳德提示的整理，以更好地使用克劳德。",
+                    "zh-hant": "這個存儲庫包括了克勞德提示的整理，以更好地使用克勞德。"
+                }
+            },
+            "https://github.com/e2b-dev/awesome-ai-sdks": {
+                "repository_name": "awesome-ai-sdks",
+                "user_name": "e2b-dev",
+                "language": null,
+                "license": null,
+                "description": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents",
+                "topics": [
+                    "agent",
+                    "agentops",
+                    "agents",
+                    "ai",
+                    "ai-agents",
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "e2b",
+                    "framework",
+                    "langchain",
+                    "llama-index",
+                    "llm",
+                    "llmops",
+                    "openai",
+                    "sdk",
+                    "tools",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents",
+                    "ja": "自律型AIエージェントを作成、監視、デバッグ、展開するためのSDK、フレームワーク、ライブラリ、ツールのデータベース",
+                    "zh-hans": "一个用于创建、监控、调试和部署自主人工智能代理的SDK、框架、库和工具数据库",
+                    "zh-hant": "一個用於創建、監控、調試和部署自主人工智能代理的SDK、框架、庫和工具的數據庫"
+                }
             }
         },
         "Prompts": {
@@ -20297,6 +20361,31 @@
                     "zh-hans": "使用ChatGPT翻译字幕",
                     "zh-hant": "請使用 ChatGPT 翻譯字幕"
                 }
+            },
+            "https://github.com/different-ai/obsidian-ava": {
+                "repository_name": "obsidian-ava",
+                "user_name": "different-ai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Quickly format your notes with ChatGPT in Obsidian",
+                "topics": [
+                    "ai",
+                    "computer-vision",
+                    "deep-learning",
+                    "knowledge-management",
+                    "language-model",
+                    "machine-learning",
+                    "natural-language-processing",
+                    "nlp",
+                    "personal-knowledge-management",
+                    "second-brain"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Quickly format your notes with ChatGPT in Obsidian",
+                    "ja": "ObsidianでChatGPTを使用してノートを素早くフォーマットします。",
+                    "zh-hans": "使用Obsidian中的ChatGPT快速格式化您的笔记",
+                    "zh-hant": "使用Obsidian中的ChatGPT快速格式化您的筆記"
+                }
             }
         },
         "Langchain": {
@@ -32823,6 +32912,27 @@
                     "ja": "[IJCAI 2024] GPTの異なる役割を生成し、複雑なタスクのための協力エンティティを形成します。",
                     "zh-hans": "[IJCAI 2024] 为GPT生成不同角色，形成协作实体，完成复杂任务。",
                     "zh-hant": "[IJCAI 2024] 生成不同角色的GPT，形成協作實體，以應對複雜任務。"
+                }
+            },
+            "https://github.com/gcui-art/suno-api": {
+                "repository_name": "suno-api",
+                "user_name": "gcui-art",
+                "language": "TypeScript",
+                "license": "GNU Lesser General Public License v3.0",
+                "description": "Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.",
+                "topics": [
+                    "ai",
+                    "music",
+                    "suno",
+                    "suno-ai",
+                    "suno-ai-api",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.",
+                    "ja": "APIを使用してsuno.aiの音楽生成AIを呼び出し、GPTなどのエージェントに簡単に統合します。",
+                    "zh-hans": "使用API调用suno.ai的音乐生成AI，并轻松集成到像GPTs这样的代理中。",
+                    "zh-hant": "使用API調用suno.ai的音樂生成AI，並輕鬆集成到像GPTs這樣的代理程序中。"
                 }
             }
         }

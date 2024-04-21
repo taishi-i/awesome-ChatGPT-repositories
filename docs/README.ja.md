@@ -14,23 +14,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMDは、Python 3.11をベースにした革新的なプロジェクトであり、ChatGPTモデルとWechatのネイティブAPIを組み合わせることで、ユーザーにスマートなチャット、自動描画、自動的に友達に共有する、自動的に動画を共有するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
+**Awesome-lists**
+ * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - このリポジトリには、クロードをより効果的に使用するためのクロードプロンプトのキュレーションが含まれています。
+ * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 自律型AIエージェントを作成、監視、デバッグ、展開するためのSDK、フレームワーク、ライブラリ、ツールのデータベース
 
 
-**Browser-extensions**
- * [supermemory](https://github.com/dhravya/supermemory) - スーパーメモリを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存できます。
-
-
-**Tutorials**
- * [llm-python](https://github.com/onlyphantom/llm-python) - 大規模言語モデル（LLMs）のチュートリアル＆サンプルスクリプト、ft. langchain、openai、llamaindex、gpt、chromadb＆pinecone
+**NLP**
+ * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - ObsidianでChatGPTを使用してノートを素早くフォーマットします。
 
 
 **Others**
- * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] GPTの異なる役割を生成し、複雑なタスクのための協力エンティティを形成します。
+ * [suno-api](https://github.com/gcui-art/suno-api) - APIを使用してsuno.aiの音楽生成AIを呼び出し、GPTなどのエージェントに簡単に統合します。
 
 
-_Updated on April 18, 2024_ (A total of 1511 repositories listed.)
+_Updated on April 22, 2024_ (A total of 1515 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +106,8 @@ _Updated on April 18, 2024_ (A total of 1511 repositories listed.)
  * [awesome-decentralized-llm](https://github.com/imaurer/awesome-decentralized-llm) - 所有可能なLLMリソースのコレクション。これらを使用して、所有できる製品を作成したり、再現可能な研究を行ったりすることができます。
  * [awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - GPT-4言語モデルに関する厳選されたプロンプト、ツール、リソースのリスト。
  * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - Transformerネットワーク、注意機構、GPT、BERT、ChatGPT、LLMs、および転移学習に焦点を当てたNLPリソースの厳選リスト。
+ * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - このリポジトリには、クロードをより効果的に使用するためのクロードプロンプトのキュレーションが含まれています。
+ * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 自律型AIエージェントを作成、監視、デバッグ、展開するためのSDK、フレームワーク、ライブラリ、ツールのデータベース
 
 
 ## Prompts
@@ -983,6 +982,7 @@ _Updated on April 18, 2024_ (A total of 1511 repositories listed.)
  * [AIGenPipeline](https://github.com/stoerr/aigenpipeline) - AIベースのコード生成パイプライン：AIを使用した体系的なコード生成のためのコマンドラインツールおよびフレームワーク、ビルドプロセスでの使用
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 大規模言語モデル（LLM）や他の生成AIの潜在能力を探求したい開発者向けに設計されたライブラリ。クリーンで効果的、かつGo-idiomaticなアプローチを通じて。
  * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ ChatGPTを使用して字幕を翻訳します
+ * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - ObsidianでChatGPTを使用してノートを素早くフォーマットします。
 
 
 ## Langchain
@@ -1616,5 +1616,6 @@ _Updated on April 18, 2024_ (A total of 1511 repositories listed.)
  * [VAR](https://github.com/foundationvision/var) - [GPTが拡散を打ち負かす🔥] [視覚生成におけるスケーリング法則📈] 「Visual Autoregressive Modeling: Next-Scale Predictionを介したスケーラブルな画像生成」の公式実装
  * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - ChatGPTとMoegoe TTSを組み合わせて、チャットするワイフを作成します。
  * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] GPTの異なる役割を生成し、複雑なタスクのための協力エンティティを形成します。
+ * [suno-api](https://github.com/gcui-art/suno-api) - APIを使用してsuno.aiの音楽生成AIを呼び出し、GPTなどのエージェントに簡単に統合します。
 
 
