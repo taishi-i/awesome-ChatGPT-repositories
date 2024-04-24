@@ -14,20 +14,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
- * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
+**Tutorials**
+ * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - Tutorial on training, evaluating LLM, as well as utilizing RAG, Agent, Chain to build entertaining applications with LLMs.分享如何训练、评估LLMs，如何基于RAG、Agent、Chain构建有趣的LLMs应用。
 
 
 **NLP**
- * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+ * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet, and GPT-2 in spaCy
+ * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 
 
-**Others**
- * [suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
-
-
-_Updated on April 22, 2024_ (A total of 1515 repositories listed.)
+_Updated on April 24, 2024_ (A total of 1518 repositories listed.)
 
 ## Table of contents
 
@@ -756,6 +752,7 @@ _Updated on April 22, 2024_ (A total of 1515 repositories listed.)
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - This is a Deep Learning NLP repository that summarizes tasks such as text preprocessing, Topic Models, BERT, GPT, and LLM using tensorflow and other latest models.
  * [langchain-kr](https://github.com/teddylee777/langchain-kr) - This is a Korean tutorial written based on the official LangChain document, Cookbook, and other practical examples. Through this tutorial, you can learn how to use LangChain more easily and effectively.
  * [llm-python](https://github.com/onlyphantom/llm-python) - Large Language Models (LLMs) tutorials & sample scripts featuring langchain, OpenAI, LLAMaindex, GPT, ChromaDB, and Pinecone.
+ * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - Tutorial on training, evaluating LLM, as well as utilizing RAG, Agent, Chain to build entertaining applications with LLMs.分享如何训练、评估LLMs，如何基于RAG、Agent、Chain构建有趣的LLMs应用。
 
 
 ## NLP
@@ -983,6 +980,8 @@ _Updated on April 22, 2024_ (A total of 1515 repositories listed.)
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ Library designed for developers eager to explore the potential of Large Language Models (LLMs) and other generative AI through a clean, effective, and Go-idiomatic approach.
  * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using ChatGPT
  * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
+ * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet, and GPT-2 in spaCy
+ * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
 
 
 ## Langchain

@@ -14,20 +14,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - 这个存储库包括了克劳德提示的整理，以更好地使用克劳德。
- * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 一个用于创建、监控、调试和部署自主人工智能代理的SDK、框架、库和工具数据库
+**Tutorials**
+ * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - 关于如何训练、评估LLMs，并利用RAG、Agent、Chain构建有趣的应用程序的教程。
 
 
 **NLP**
- * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - 使用Obsidian中的ChatGPT快速格式化您的笔记
+ * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 在spaCy中使用预训练的转换器，如BERT、XLNet和GPT-2
+ * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe 是关于 ChatGPT、GPT 和大型语言模型（LLMs）的短暂笔记。
 
 
-**Others**
- * [suno-api](https://github.com/gcui-art/suno-api) - 使用API调用suno.ai的音乐生成AI，并轻松集成到像GPTs这样的代理中。
-
-
-_Updated on April 22, 2024_ (A total of 1515 repositories listed.)
+_Updated on April 24, 2024_ (A total of 1518 repositories listed.)
 
 ## Table of contents
 
@@ -756,6 +752,7 @@ _Updated on April 22, 2024_ (A total of 1515 repositories listed.)
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - 使用tensorflow进行文本预处理，整理了最新模型的下游任务，如主题模型、BERT、GPT、LLM等的Deep Learning NLP存储库。
  * [langchain-kr](https://github.com/teddylee777/langchain-kr) - 通过LangChain官方文档、Cookbook以及其他实用示例编写的韩语教程。通过本教程，您可以学习如何更轻松、更有效地使用LangChain。
  * [llm-python](https://github.com/onlyphantom/llm-python) - 大型语言模型（LLMs）教程和示例脚本，ft. langchain，openai，llamaindex，gpt，chromadb和pinecone
+ * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - 关于如何训练、评估LLMs，并利用RAG、Agent、Chain构建有趣的应用程序的教程。
 
 
 ## NLP
@@ -983,6 +980,8 @@ _Updated on April 22, 2024_ (A total of 1515 repositories listed.)
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 专为开发人员设计的图书馆，旨在通过清晰、有效和符合Go语言习惯的方法，探索大型语言模型（LLMs）和其他生成式人工智能的潜力。
  * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - 使用ChatGPT翻译字幕
  * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - 使用Obsidian中的ChatGPT快速格式化您的笔记
+ * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 在spaCy中使用预训练的转换器，如BERT、XLNet和GPT-2
+ * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe 是关于 ChatGPT、GPT 和大型语言模型（LLMs）的短暂笔记。
 
 
 ## Langchain
