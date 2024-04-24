@@ -15700,6 +15700,31 @@
                     "zh-hans": "大型语言模型（LLMs）教程和示例脚本，ft. langchain，openai，llamaindex，gpt，chromadb和pinecone",
                     "zh-hant": "大型語言模型（LLMs）教程和示例腳本，包括langchain、openai、llamaindex、gpt、chromadb和pinecone"
                 }
+            },
+            "https://github.com/evilpsycho/play-with-llms": {
+                "repository_name": "Play-with-LLMs",
+                "user_name": "EvilPsyCHo",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "Tutorial on training, evaluating LLM, as well as utilizing RAG, Agent, Chain to build entertaining applications with LLMs.分享如何训练、评估LLMs，如何基于RAG、Agent、Chain构建有趣的LLMs应用。",
+                "topics": [
+                    "agent",
+                    "baichuan2",
+                    "chatgpt",
+                    "gpt",
+                    "large-language-models",
+                    "llama2",
+                    "llms",
+                    "mistral",
+                    "rag",
+                    "retrieval-augmented-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Tutorial on training, evaluating LLM, as well as utilizing RAG, Agent, Chain to build entertaining applications with LLMs.分享如何训练、评估LLMs，如何基于RAG、Agent、Chain构建有趣的LLMs应用。",
+                    "ja": "LLMを訓練し、評価するチュートリアル、およびRAG、Agent、Chainを活用してエンターテイニングなLLMアプリケーションを構築する方法について共有します。",
+                    "zh-hans": "关于如何训练、评估LLMs，并利用RAG、Agent、Chain构建有趣的应用程序的教程。",
+                    "zh-hant": "教程：如何訓練、評估LLMs，以及利用RAG、Agent、Chain來構建具娛樂性的LLMs應用程式。"
+                }
             }
         },
         "NLP": {
@@ -20385,6 +20410,58 @@
                     "ja": "ObsidianでChatGPTを使用してノートを素早くフォーマットします。",
                     "zh-hans": "使用Obsidian中的ChatGPT快速格式化您的笔记",
                     "zh-hant": "使用Obsidian中的ChatGPT快速格式化您的筆記"
+                }
+            },
+            "https://github.com/explosion/spacy-transformers": {
+                "repository_name": "spacy-transformers",
+                "user_name": "explosion",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🛸 Use pretrained transformers like BERT, XLNet and GPT-2 in spaCy",
+                "topics": [
+                    "bert",
+                    "google",
+                    "gpt-2",
+                    "huggingface",
+                    "language-model",
+                    "machine-learning",
+                    "natural-language-processing",
+                    "natural-language-understanding",
+                    "nlp",
+                    "openai",
+                    "pytorch",
+                    "pytorch-model",
+                    "spacy",
+                    "spacy-extension",
+                    "spacy-pipeline",
+                    "transfer-learning",
+                    "xlnet"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🛸 Use pretrained transformers like BERT, XLNet, and GPT-2 in spaCy",
+                    "ja": "🛸 spaCyでBERT、XLNet、GPT-2などの事前学習済みトランスフォーマーを使用します。",
+                    "zh-hans": "🛸 在spaCy中使用预训练的转换器，如BERT、XLNet和GPT-2",
+                    "zh-hant": "🛸 在spaCy中使用预训练的转换器，如BERT、XLNet和GPT-2"
+                }
+            },
+            "https://github.com/cedrickchee/chatgpt-universe": {
+                "repository_name": "chatgpt-universe",
+                "user_name": "cedrickchee",
+                "language": null,
+                "license": "MIT License",
+                "description": "ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)",
+                "topics": [
+                    "chatgpt",
+                    "generative-model",
+                    "gpt",
+                    "language-models",
+                    "resource-list"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)",
+                    "ja": "ChatGPT Universeは、ChatGPT、GPT、および大規模言語モデル（LLMs）に関する一時的なメモです。",
+                    "zh-hans": "ChatGPT Universe 是关于 ChatGPT、GPT 和大型语言模型（LLMs）的短暂笔记。",
+                    "zh-hant": "ChatGPT Universe 是關於 ChatGPT、GPT 和大型語言模型（LLMs）的短暫筆記。"
                 }
             }
         },

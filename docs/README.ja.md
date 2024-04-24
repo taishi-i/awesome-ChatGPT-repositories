@@ -14,20 +14,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - このリポジトリには、クロードをより効果的に使用するためのクロードプロンプトのキュレーションが含まれています。
- * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 自律型AIエージェントを作成、監視、デバッグ、展開するためのSDK、フレームワーク、ライブラリ、ツールのデータベース
+**Tutorials**
+ * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - LLMを訓練し、評価するチュートリアル、およびRAG、Agent、Chainを活用してエンターテイニングなLLMアプリケーションを構築する方法について共有します。
 
 
 **NLP**
- * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - ObsidianでChatGPTを使用してノートを素早くフォーマットします。
+ * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 spaCyでBERT、XLNet、GPT-2などの事前学習済みトランスフォーマーを使用します。
+ * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universeは、ChatGPT、GPT、および大規模言語モデル（LLMs）に関する一時的なメモです。
 
 
-**Others**
- * [suno-api](https://github.com/gcui-art/suno-api) - APIを使用してsuno.aiの音楽生成AIを呼び出し、GPTなどのエージェントに簡単に統合します。
-
-
-_Updated on April 22, 2024_ (A total of 1515 repositories listed.)
+_Updated on April 24, 2024_ (A total of 1518 repositories listed.)
 
 ## Table of contents
 
@@ -756,6 +752,7 @@ _Updated on April 22, 2024_ (A total of 1515 repositories listed.)
  * [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - TensorFlowを使用してテキストの前処理から、Topic Models、BERT、GPT、LLMなどの最新モデルのダウンストリームタスクをまとめたDeep Learning NLPリポジトリです。
  * [langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 公式ドキュメント、Cookbook、その他の実用例を基に作成した韓国語チュートリアルです。このチュートリアルを通じてLangChainをより簡単かつ効果的に使用する方法を学ぶことができます。
  * [llm-python](https://github.com/onlyphantom/llm-python) - 大規模言語モデル（LLMs）のチュートリアル＆サンプルスクリプト、ft. langchain、openai、llamaindex、gpt、chromadb＆pinecone
+ * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - LLMを訓練し、評価するチュートリアル、およびRAG、Agent、Chainを活用してエンターテイニングなLLMアプリケーションを構築する方法について共有します。
 
 
 ## NLP
@@ -983,6 +980,8 @@ _Updated on April 22, 2024_ (A total of 1515 repositories listed.)
  * [agency](https://github.com/neurocult/agency) - 🕵️‍♂️ 大規模言語モデル（LLM）や他の生成AIの潜在能力を探求したい開発者向けに設計されたライブラリ。クリーンで効果的、かつGo-idiomaticなアプローチを通じて。
  * [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ ChatGPTを使用して字幕を翻訳します
  * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - ObsidianでChatGPTを使用してノートを素早くフォーマットします。
+ * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 spaCyでBERT、XLNet、GPT-2などの事前学習済みトランスフォーマーを使用します。
+ * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universeは、ChatGPT、GPT、および大規模言語モデル（LLMs）に関する一時的なメモです。
 
 
 ## Langchain
