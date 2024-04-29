@@ -14,16 +14,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Tutorials**
- * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - Tutorial on training, evaluating LLM, as well as utilizing RAG, Agent, Chain to build entertaining applications with LLMs.分享如何训练、评估LLMs，如何基于RAG、Agent、Chain构建有趣的LLMs应用。
+**Prompts**
+ * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE is an tools for building your ai agent, Whether it's NPCs in games or powerful agent tools, you can design what you want for this platform.
+
+
+**Chatbots**
+ * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - Intelligent chat customer service tool based on large models, supporting access to platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), able to handle text, voice, and images, access operating systems and external resources through plugins, and support customization of enterprise AI applications based on proprietary knowledge base.
+
+
+**Browser-extensions**
+ * [OpenCharacters](https://github.com/josephrocca/opencharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using Indexed
 
 
 **NLP**
- * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet, and GPT-2 in spaCy
- * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
+ * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V.  接近GPT-4V表现的可商用开源模型
 
 
-_Updated on April 24, 2024_ (A total of 1518 repositories listed.)
+_Updated on April 30, 2024_ (A total of 1522 repositories listed.)
 
 ## Table of contents
 
@@ -220,6 +227,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - A collection of ChatGPT and GPT-3.5 instruction-based prompts for generating and classifying text.
  * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js Typescript/Javascript production-friendly Generative AI.  Based on Jsonnet. Works anywhere that Webassembly does. Prompts live declaratively & "outside code in config". Kubernetes & edge friendly. Compatible with OpenAI GPT, Gemini, Llama2, A
  * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、prompt、LLM
+ * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE is an tools for building your ai agent, Whether it's NPCs in games or powerful agent tools, you can design what you want for this platform.
 
 
 ## Chatbots
@@ -428,6 +436,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT has popularized chatbots, and the mainstream trend has shifted to GPT-style models. This project is also keeping up with the times and will soon update to a GPT-style version. Based on this project and your own corpus, you can train your own desired chatbot for use in intelligent customer service, online Q&A, casual chat, and other scenarios.
  * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMD is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.
+ * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - Intelligent chat customer service tool based on large models, supporting access to platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), able to handle text, voice, and images, access operating systems and external resources through plugins, and support customization of enterprise AI applications based on proprietary knowledge base.
 
 
 ## Browser-extensions
@@ -591,6 +600,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基于 ChatGPT API 的 Raycast 翻译插件 - Raycast extension for translation based on ChatGPT API.
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - Curate a custom library of AI Prompts
  * [supermemory](https://github.com/dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+ * [OpenCharacters](https://github.com/josephrocca/opencharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using Indexed
 
 
 ## CLIs
@@ -982,6 +992,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian
  * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet, and GPT-2 in spaCy
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
+ * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V.  接近GPT-4V表现的可商用开源模型
 
 
 ## Langchain
@@ -1171,7 +1182,6 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - An OpenAI API proxy running with Cloudflare worker.
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - This is a ChatGPT chat and enhancement plugin. It is open source and free. It not only solves all error refreshing problems, but also has many advanced features such as staying active, canceling audits, cloning conversations, purifying the homepage, displaying on a large screen, displaying in full screen, expressing oneself fully, intercepting tracking, and constantly improving. It makes our AI experience incredibly smooth, efficient, and concise.
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
- * [UnlimitedGPT](https://github.com/theAbdoSabbagh/unlimitedgpt) - An unofficial Python wrapper for OpenAI's ChatGPT API
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ Desktop AI language practice application
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.

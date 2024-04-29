@@ -14,16 +14,23 @@
 
 ## The latest additions 🎉
 
-**Tutorials**
- * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - LLMを訓練し、評価するチュートリアル、およびRAG、Agent、Chainを活用してエンターテイニングなLLMアプリケーションを構築する方法について共有します。
+**Prompts**
+ * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDEは、あなたのAIエージェントを構築するためのツールです。ゲーム内のNPCや強力なエージェントツールなど、このプラットフォームで自分が望むものをデザインすることができます。
+
+
+**Chatbots**
+ * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理し、プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスできます。独自のナレッジベースに基づいた企業向けAIアプリケーションをカスタマイズすることができます。
+
+
+**Browser-extensions**
+ * [OpenCharacters](https://github.com/josephrocca/opencharacters) - シンプルなウェブインターフェースでキャラクターを作成し、それらとチャットするためのものです。基本的には単一のHTMLファイルで、サーバーは必要ありません。キャラクターはリンクを使用して共有します（キャラクターデータはURL自体に保存されます）。すべてのチャットデータはIndexedを使用してブラウザに保存されます。
 
 
 **NLP**
- * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 spaCyでBERT、XLNet、GPT-2などの事前学習済みトランスフォーマーを使用します。
- * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universeは、ChatGPT、GPT、および大規模言語モデル（LLMs）に関する一時的なメモです。
+ * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口頭発表] InternVL Family: GPT-4Vに対する先駆的なオープンソースの代替手段。GPT-4Vに匹敵するパフォーマンスを発揮する商用利用可能なオープンソースモデル。
 
 
-_Updated on April 24, 2024_ (A total of 1518 repositories listed.)
+_Updated on April 30, 2024_ (A total of 1522 repositories listed.)
 
 ## Table of contents
 
@@ -220,6 +227,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - テキストを生成および分類するためのChatGPTとGPT-3.5の指示ベースのプロンプトのコレクション。
  * [EdgeChains](https://github.com/arakoodev/edgechains) - Input: EdgeChains.jsは、Typescript/Javascriptで作成されたプロダクション向けのGenerative AIです。Jsonnetに基づいています。Webassemblyが動作する場所ならどこでも動作します。プロンプトは宣言的にライブであり、「設定内の外部コード」です。Kubernetesおよびエッジに対応しています。OpenAI GPT、Gemini、Llama2、Aと互換性があります。
  * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、プロンプト、LLM
+ * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDEは、あなたのAIエージェントを構築するためのツールです。ゲーム内のNPCや強力なエージェントツールなど、このプラットフォームで自分が望むものをデザインすることができます。
 
 
 ## Chatbots
@@ -428,6 +436,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - チャットボットアリーナがマルチモダリティに対応しました！マルチモダリティアリーナでは、画像を入力として提供しながら、ビジョン言語モデルを並べてベンチマークを行うことができます。MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2などをサポートしています！
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPTがチャットボットを人気にしました。主流のトレンドはすべてGPTタイプのモデルに調整されており、このプロジェクトも最新のGPTタイプのバージョンを近日中に更新する予定です。このプロジェクトと独自のコーパスを使用して、自分が望むチャットボットをトレーニングすることができ、インテリジェントカスタマーサービス、オンライン質問回答、雑談などのシーンに活用できます。
  * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMDは、Python 3.11をベースにした革新的なプロジェクトであり、ChatGPTモデルとWechatのネイティブAPIを組み合わせることで、ユーザーにスマートなチャット、自動描画、自動的に友達に共有する、自動的に動画を共有するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
+ * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理し、プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスできます。独自のナレッジベースに基づいた企業向けAIアプリケーションをカスタマイズすることができます。
 
 
 ## Browser-extensions
@@ -591,6 +600,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - ChatGPT APIに基づいたRaycast翻訳プラグイン - ChatGPT APIに基づいたRaycast翻訳拡張機能。
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - AIプロンプトのカスタムライブラリをキュレーションする
  * [supermemory](https://github.com/dhravya/supermemory) - スーパーメモリを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存できます。
+ * [OpenCharacters](https://github.com/josephrocca/opencharacters) - シンプルなウェブインターフェースでキャラクターを作成し、それらとチャットするためのものです。基本的には単一のHTMLファイルで、サーバーは必要ありません。キャラクターはリンクを使用して共有します（キャラクターデータはURL自体に保存されます）。すべてのチャットデータはIndexedを使用してブラウザに保存されます。
 
 
 ## CLIs
@@ -982,6 +992,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - ObsidianでChatGPTを使用してノートを素早くフォーマットします。
  * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 spaCyでBERT、XLNet、GPT-2などの事前学習済みトランスフォーマーを使用します。
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universeは、ChatGPT、GPT、および大規模言語モデル（LLMs）に関する一時的なメモです。
+ * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口頭発表] InternVL Family: GPT-4Vに対する先駆的なオープンソースの代替手段。GPT-4Vに匹敵するパフォーマンスを発揮する商用利用可能なオープンソースモデル。
 
 
 ## Langchain
@@ -1171,7 +1182,6 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - Cloudflareワーカーで実行されているOpenAI APIプロキシ。
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - これはChatGPTのスムーズなチャットと強化プラグインです。オープンソースで無料です。すべてのエラーをリフレッシュする必要がなくなるだけでなく、アクティブを維持し、監査をキャンセルし、会話をクローンし、ホームページを浄化し、大画面を表示し、フルスクリーンを表示し、言葉を尽くし、トラッキングをブロックし、日々進化するなど、多数の高度な機能があります。私たちのAI体験を非常にスムーズでシームレス、効率的、簡潔にします。
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - Azure OpenAIサービスへのOpenAIのリクエストをプロキシするためのCloudflareワーカースクリプト
- * [UnlimitedGPT](https://github.com/theAbdoSabbagh/unlimitedgpt) - OpenAIのChatGPT APIの非公式Pythonラッパー
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ デスクトップAI言語練習アプリ
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Kubernetesクラスター内の自動SREスーパーパワー
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。
