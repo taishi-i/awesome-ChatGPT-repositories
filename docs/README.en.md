@@ -1171,7 +1171,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - An OpenAI API proxy running with Cloudflare worker.
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - This is a ChatGPT chat and enhancement plugin. It is open source and free. It not only solves all error refreshing problems, but also has many advanced features such as staying active, canceling audits, cloning conversations, purifying the homepage, displaying on a large screen, displaying in full screen, expressing oneself fully, intercepting tracking, and constantly improving. It makes our AI experience incredibly smooth, efficient, and concise.
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
- * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - An unofficial Python wrapper for OpenAI's ChatGPT API
+ * [UnlimitedGPT](https://github.com/theAbdoSabbagh/unlimitedgpt) - An unofficial Python wrapper for OpenAI's ChatGPT API
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ Desktop AI language practice application
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Automatic SRE Superpowers within your Kubernetes cluster
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes in Obsidian! Plus, see what's most relevant in real-time! Interact and stay organized. Powered by OpenAI ChatGPT, GPT-4 & Embeddings.

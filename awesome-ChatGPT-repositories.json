@@ -24247,7 +24247,7 @@
                     "zh-hant": "一個 Cloudflare worker 腳本，用於代理 OpenAI 對 Azure OpenAI 服務的請求。"
                 }
             },
-            "https://github.com/sxvxgee/unlimitedgpt": {
+            "https://github.com/theAbdoSabbagh/unlimitedgpt": {
                 "repository_name": "UnlimitedGPT",
                 "user_name": "Sxvxgee",
                 "language": "Python",
