@@ -14,16 +14,23 @@
 
 ## The latest additions 🎉
 
-**Tutorials**
- * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - 教程：如何訓練、評估LLMs，以及利用RAG、Agent、Chain來構建具娛樂性的LLMs應用程式。
+**Prompts**
+ * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE 是一個用於建立您的 AI 代理的工具，無論是遊戲中的 NPC 還是強大的代理工具，您都可以在這個平台上設計您想要的內容。
+
+
+**Chatbots**
+ * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
+
+
+**Browser-extensions**
+ * [OpenCharacters](https://github.com/josephrocca/opencharacters) - 一個簡單的小型網頁界面，用於創建角色並與他們聊天。基本上是一個單獨的HTML文件 - 沒有伺服器。使用連結分享角色（角色數據存儲在URL本身中）。所有聊天數據都存儲在您的瀏覽器中，使用Indexed。
 
 
 **NLP**
- * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 在spaCy中使用预训练的转换器，如BERT、XLNet和GPT-2
- * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe 是關於 ChatGPT、GPT 和大型語言模型（LLMs）的短暫筆記。
+ * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口头报告] InternVL Family：一种开创性的开源替代方案，接近GPT-4V的表现。
 
 
-_Updated on April 24, 2024_ (A total of 1518 repositories listed.)
+_Updated on April 30, 2024_ (A total of 1522 repositories listed.)
 
 ## Table of contents
 
@@ -220,6 +227,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - 一系列用於生成和分類文本的ChatGPT和GPT-3.5指令型提示集合。
  * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js 是一個基於 Jsonnet 的 Typescript/Javascript 產品友好的生成式人工智能。它可以在任何支持 Webassembly 的地方運行。支持即時聲明式提示和“配置中的外部代碼”。支持 Kubernetes 和邊緣環境。與 OpenAI GPT、Gemini、Llama2 等兼容。
  * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、提示、LLMchatGPT、提示、LLM
+ * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE 是一個用於建立您的 AI 代理的工具，無論是遊戲中的 NPC 還是強大的代理工具，您都可以在這個平台上設計您想要的內容。
 
 
 ## Chatbots
@@ -428,6 +436,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - 聊天機器人競技場遇上多模態！多模態競技場讓您可以一邊比較視覺語言模型，一邊提供圖像作為輸入。支持MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2等等！
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT帶火了聊天機器人，主流的趨勢都調整到了GPT類模式，本項目也與時俱進，會在近期更新GPT類版本。基於本項目和自己的語料可以訓練出自己想要的聊天機器人，用於智能客服、在線問答、閒聊等場景。
  * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - 微信機器人WechatBotCMD是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。
+ * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
 
 
 ## Browser-extensions
@@ -591,6 +600,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - 基於 ChatGPT API 的 Raycast 翻譯插件 - 基於 ChatGPT API 的 Raycast 翻譯插件。
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - 精心策劃一個定制的AI提示圖書館
  * [supermemory](https://github.com/dhravya/supermemory) - 用超级记忆力建立您自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。
+ * [OpenCharacters](https://github.com/josephrocca/opencharacters) - 一個簡單的小型網頁界面，用於創建角色並與他們聊天。基本上是一個單獨的HTML文件 - 沒有伺服器。使用連結分享角色（角色數據存儲在URL本身中）。所有聊天數據都存儲在您的瀏覽器中，使用Indexed。
 
 
 ## CLIs
@@ -982,6 +992,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [obsidian-ava](https://github.com/different-ai/obsidian-ava) - 使用Obsidian中的ChatGPT快速格式化您的筆記
  * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 在spaCy中使用预训练的转换器，如BERT、XLNet和GPT-2
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe 是關於 ChatGPT、GPT 和大型語言模型（LLMs）的短暫筆記。
+ * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口头报告] InternVL Family：一种开创性的开源替代方案，接近GPT-4V的表现。
 
 
 ## Langchain
@@ -1171,7 +1182,6 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - 一個運行在 Cloudflare worker 上的 OpenAI API 代理。
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 這是一個ChatGPT的暢聊與增強插件。開源免費。不僅能解決所有報錯不再刷新，還有保持活躍、取消審計、克隆對話、淨化首頁、展示大屏、展示全屏、言無不盡、攔截跟蹤、日新月異等多個高級功能。讓我們的AI體驗無比順暢、絲滑、高效、簡潔。
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - 一個 Cloudflare worker 腳本，用於代理 OpenAI 對 Azure OpenAI 服務的請求。
- * [UnlimitedGPT](https://github.com/theAbdoSabbagh/unlimitedgpt) - 一個非官方的Python封裝器，用於OpenAI的ChatGPT API。
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端人工智慧語言練習應用程式
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - 在您的 Kubernetes 集群中自動啟用 SRE 超能力
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - 在Obsidian中使用筆記進行聊天！此外，即時查看最相關的內容！互動並保持組織。由OpenAI ChatGPT、GPT-4和嵌入式技術提供支持。
