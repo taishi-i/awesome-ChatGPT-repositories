@@ -1171,7 +1171,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - 一個運行在 Cloudflare worker 上的 OpenAI API 代理。
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - 這是一個ChatGPT的暢聊與增強插件。開源免費。不僅能解決所有報錯不再刷新，還有保持活躍、取消審計、克隆對話、淨化首頁、展示大屏、展示全屏、言無不盡、攔截跟蹤、日新月異等多個高級功能。讓我們的AI體驗無比順暢、絲滑、高效、簡潔。
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - 一個 Cloudflare worker 腳本，用於代理 OpenAI 對 Azure OpenAI 服務的請求。
- * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - 一個非官方的Python封裝器，用於OpenAI的ChatGPT API。
+ * [UnlimitedGPT](https://github.com/theAbdoSabbagh/unlimitedgpt) - 一個非官方的Python封裝器，用於OpenAI的ChatGPT API。
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ 桌面端人工智慧語言練習應用程式
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - 在您的 Kubernetes 集群中自動啟用 SRE 超能力
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - 在Obsidian中使用筆記進行聊天！此外，即時查看最相關的內容！互動並保持組織。由OpenAI ChatGPT、GPT-4和嵌入式技術提供支持。

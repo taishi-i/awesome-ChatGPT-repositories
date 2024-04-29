@@ -1171,7 +1171,7 @@ _Updated on April 24, 2024_ (A total of 1518 repositories listed.)
  * [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - Cloudflareワーカーで実行されているOpenAI APIプロキシ。
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - これはChatGPTのスムーズなチャットと強化プラグインです。オープンソースで無料です。すべてのエラーをリフレッシュする必要がなくなるだけでなく、アクティブを維持し、監査をキャンセルし、会話をクローンし、ホームページを浄化し、大画面を表示し、フルスクリーンを表示し、言葉を尽くし、トラッキングをブロックし、日々進化するなど、多数の高度な機能があります。私たちのAI体験を非常にスムーズでシームレス、効率的、簡潔にします。
  * [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - Azure OpenAIサービスへのOpenAIのリクエストをプロキシするためのCloudflareワーカースクリプト
- * [UnlimitedGPT](https://github.com/sxvxgee/unlimitedgpt) - OpenAIのChatGPT APIの非公式Pythonラッパー
+ * [UnlimitedGPT](https://github.com/theAbdoSabbagh/unlimitedgpt) - OpenAIのChatGPT APIの非公式Pythonラッパー
  * [polyglot](https://github.com/liou666/polyglot) - 🤖️ デスクトップAI言語練習アプリ
  * [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - Kubernetesクラスター内の自動SREスーパーパワー
  * [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。
