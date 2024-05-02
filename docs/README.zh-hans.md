@@ -14,23 +14,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE 是一个用于构建您的 AI 代理的工具，无论是游戏中的 NPC 还是强大的代理工具，您都可以在这个平台上设计您想要的内容。
-
-
 **Chatbots**
- * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 基于大型模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+ * [agentcloud](https://github.com/rnadigital/agentcloud) - 云代理就像拥有自己的GPT构建器，还有许多额外好处。GUI功能包括1）RAG管道，可以本地嵌入260多个数据源 2）创建对话应用程序（如GPT）3）创建多代理流程自动化应用程序（crewai）4）工具。
 
 
 **Browser-extensions**
- * [OpenCharacters](https://github.com/josephrocca/opencharacters) - 一个简单的小型网络界面，用于创建角色并与他们聊天。基本上是一个单独的HTML文件 - 没有服务器。使用链接分享角色（角色数据存储在URL本身中）。所有聊天数据都存储在您的浏览器中，使用Indexed。
+ * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - 由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index等技术驱动的桌面AI助手，具有聊天、视觉、图像生成和分析、自主代理、代码和命令执行、文件上传和下载、语音合成和识别、网络访问等功能。
 
 
 **NLP**
- * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口头报告] InternVL Family: 一种开创性的开源替代方案，接近GPT-4V的性能。
+ * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLM代理作为（可优化）图形
 
 
-_Updated on April 30, 2024_ (A total of 1522 repositories listed.)
+**Openai**
+ * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro是一个先进的应用程序，结合了ChatGPT和DALL.E的强大功能。
+
+
+_Updated on May 03, 2024_ (A total of 1525 repositories listed.)
 
 ## Table of contents
 
@@ -437,6 +437,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT带火了聊天机器人，主流的趋势都调整到了GPT类模式，本项目也与时俱进，会在近期更新GPT类版本。基于本项目和自己的语料可以训练出自己想要的聊天机器人，用于智能客服、在线问答、闲聊等场景。
  * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - 微信机器人WechatBotCMD是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
  * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 基于大型模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+ * [agentcloud](https://github.com/rnadigital/agentcloud) - 云代理就像拥有自己的GPT构建器，还有许多额外好处。GUI功能包括1）RAG管道，可以本地嵌入260多个数据源 2）创建对话应用程序（如GPT）3）创建多代理流程自动化应用程序（crewai）4）工具。
 
 
 ## Browser-extensions
@@ -601,6 +602,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - 策划一个定制的人工智能提示库
  * [supermemory](https://github.com/dhravya/supermemory) - 用超级记忆力建立自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。
  * [OpenCharacters](https://github.com/josephrocca/opencharacters) - 一个简单的小型网络界面，用于创建角色并与他们聊天。基本上是一个单独的HTML文件 - 没有服务器。使用链接分享角色（角色数据存储在URL本身中）。所有聊天数据都存储在您的浏览器中，使用Indexed。
+ * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - 由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index等技术驱动的桌面AI助手，具有聊天、视觉、图像生成和分析、自主代理、代码和命令执行、文件上传和下载、语音合成和识别、网络访问等功能。
 
 
 ## CLIs
@@ -993,6 +995,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 在spaCy中使用预训练的转换器，如BERT、XLNet和GPT-2
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe 是关于 ChatGPT、GPT 和大型语言模型（LLMs）的短暂笔记。
  * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口头报告] InternVL Family: 一种开创性的开源替代方案，接近GPT-4V的性能。
+ * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLM代理作为（可优化）图形
 
 
 ## Langchain
@@ -1254,6 +1257,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - 基于OpenAI API的纯JavaScript ChatGPT演示
  * [one-api](https://github.com/martialbe/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
  * [lux-ui](https://github.com/yangjiakai/lux-ui) - 基于Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT创建最佳管理员
+ * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro是一个先进的应用程序，结合了ChatGPT和DALL.E的强大功能。
 
 
 ## Others
