@@ -8887,6 +8887,32 @@
                     "zh-hans": "基于大型模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。",
                     "zh-hant": "基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。"
                 }
+            },
+            "https://github.com/rnadigital/agentcloud": {
+                "repository_name": "agentcloud",
+                "user_name": "rnadigital",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools 5) Teams+user permissions. Get started fast with Docker and our install.sh",
+                "topics": [
+                    "ai",
+                    "autogen",
+                    "chatgpt",
+                    "crewai",
+                    "dockerized-application",
+                    "genai",
+                    "llm",
+                    "model",
+                    "nextjs",
+                    "python",
+                    "ui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools",
+                    "ja": "エージェントクラウドは、自分自身のGPTビルダーを持っているような感覚で、さらにたくさんの特典が付いてきます。GUIには、1) 260以上のデータソースをネイティブに埋め込むことができるRAGパイプライン、2) 会話型アプリ（GPTのようなもの）の作成、3) マルチエージェントプロセス自動化アプリ（crewai）の作成、4) ツールがあります。",
+                    "zh-hans": "云代理就像拥有自己的GPT构建器，还有许多额外好处。GUI功能包括1）RAG管道，可以本地嵌入260多个数据源 2）创建对话应用程序（如GPT）3）创建多代理流程自动化应用程序（crewai）4）工具。",
+                    "zh-hant": "Agent Cloud就像擁有自己的GPT建構者，還有許多額外好處。GUI功能包括1）RAG管線，可以原生嵌入260多個數據源2）創建對話應用程序（如GPT）3）創建多代理人流程自動化應用程序（crewai）4）工具。"
+                }
             }
         },
         "Browser-extensions": {
@@ -12410,6 +12436,41 @@
                     "ja": "シンプルなウェブインターフェースでキャラクターを作成し、それらとチャットするためのものです。基本的には単一のHTMLファイルで、サーバーは必要ありません。キャラクターはリンクを使用して共有します（キャラクターデータはURL自体に保存されます）。すべてのチャットデータはIndexedを使用してブラウザに保存されます。",
                     "zh-hans": "一个简单的小型网络界面，用于创建角色并与他们聊天。基本上是一个单独的HTML文件 - 没有服务器。使用链接分享角色（角色数据存储在URL本身中）。所有聊天数据都存储在您的浏览器中，使用Indexed。",
                     "zh-hant": "一個簡單的小型網頁界面，用於創建角色並與他們聊天。基本上是一個單獨的HTML文件 - 沒有伺服器。使用連結分享角色（角色數據存儲在URL本身中）。所有聊天數據都存儲在您的瀏覽器中，使用Indexed。"
+                }
+            },
+            "https://github.com/szczyglis-dev/py-gpt": {
+                "repository_name": "py-gpt",
+                "user_name": "szczyglis-dev",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, image generation and analysis, autonomous agents, code and command execution, file upload and download, speech synthesis and recognition, web access, memory, context storage, prompt presets, plugins, assistants & more. Linux, Windows, Mac.",
+                "topics": [
+                    "ai",
+                    "ai-assistant",
+                    "api",
+                    "artificial-intelligence",
+                    "autonomous-agent",
+                    "chatbot",
+                    "completion",
+                    "dalle-3",
+                    "desktop-app",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "gpt-4-vision",
+                    "gpt3-turbo",
+                    "gpt4",
+                    "gpt4-api",
+                    "image-generation",
+                    "langchain",
+                    "llama-index",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, image generation and analysis, autonomous agents, code and command execution, file upload and download, speech synthesis and recognition, web acce",
+                    "ja": "GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-indexなどを搭載したデスクトップAIアシスタント。チャット、ビジョン、画像生成と解析、自律エージェント、コードとコマンドの実行、ファイルのアップロードとダウンロード、音声合成と認識、Webアクセスを提供します。",
+                    "zh-hans": "由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index等技术驱动的桌面AI助手，具有聊天、视觉、图像生成和分析、自主代理、代码和命令执行、文件上传和下载、语音合成和识别、网络访问等功能。",
+                    "zh-hant": "由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index驅動的桌面AI助手，具備聊天、視覺、圖像生成和分析、自主代理、代碼和命令執行、文件上傳和下載、語音合成和識別、網頁訪問功能。"
                 }
             }
         },
@@ -20563,6 +20624,30 @@
                     "zh-hans": "[CVPR 2024 口头报告] InternVL Family: 一种开创性的开源替代方案，接近GPT-4V的性能。",
                     "zh-hant": "[CVPR 2024 口头报告] InternVL Family：一种开创性的开源替代方案，接近GPT-4V的表现。"
                 }
+            },
+            "https://github.com/metauto-ai/gptswarm": {
+                "repository_name": "GPTSwarm",
+                "user_name": "metauto-ai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🐝 GPTSwarm: LLM agents as (Optimizable) Graphs",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "gpt",
+                    "multi-agent",
+                    "python",
+                    "reinforcement-learning",
+                    "self-improvement",
+                    "society-of-mind",
+                    "swarm-intelligence"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🐝 GPTSwarm: LLM agents as (Optimizable) Graphs",
+                    "ja": "🐝 GPTSwarm: LLMエージェントを（最適化可能な）グラフとして",
+                    "zh-hans": "🐝 GPTSwarm: LLM代理作为（可优化）图形",
+                    "zh-hant": "🐝 GPTSwarm：LLM代理作為（可優化）圖形"
+                }
             }
         },
         "Langchain": {
@@ -26124,6 +26209,41 @@
                     "ja": "Vue3.x、Vite5.x、TypeScript、Vuetify3.x、Chat GPTに基づいて最高の管理者を作成します。",
                     "zh-hans": "基于Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT创建最佳管理员",
                     "zh-hant": "根據Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT創建最佳管理員"
+                }
+            },
+            "https://github.com/eyucoder/chatgpt-pro": {
+                "repository_name": "chatgpt-pro",
+                "user_name": "EyuCoder",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": "ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.",
+                "topics": [
+                    "ai-bot",
+                    "chatgpt",
+                    "chatgpt-clone",
+                    "conversational-ai",
+                    "daisyui",
+                    "dall-e",
+                    "dalle2",
+                    "dallegenerator",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "image-generation",
+                    "machine-learning",
+                    "ml",
+                    "openai",
+                    "react",
+                    "tailwind",
+                    "tailwindcss",
+                    "text-davinci-003",
+                    "transformer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.",
+                    "ja": "ChatGPT-Proは、ChatGPTとDALL.Eのパワーを組み合わせた高度なアプリケーションです。",
+                    "zh-hans": "ChatGPT-Pro是一个先进的应用程序，结合了ChatGPT和DALL.E的强大功能。",
+                    "zh-hant": "ChatGPT-Pro是一個先進的應用程序，結合了ChatGPT和DALL.E的功能。"
                 }
             }
         },

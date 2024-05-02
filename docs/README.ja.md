@@ -14,23 +14,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDEは、あなたのAIエージェントを構築するためのツールです。ゲーム内のNPCや強力なエージェントツールなど、このプラットフォームで自分が望むものをデザインすることができます。
-
-
 **Chatbots**
- * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理し、プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスできます。独自のナレッジベースに基づいた企業向けAIアプリケーションをカスタマイズすることができます。
+ * [agentcloud](https://github.com/rnadigital/agentcloud) - エージェントクラウドは、自分自身のGPTビルダーを持っているような感覚で、さらにたくさんの特典が付いてきます。GUIには、1) 260以上のデータソースをネイティブに埋め込むことができるRAGパイプライン、2) 会話型アプリ（GPTのようなもの）の作成、3) マルチエージェントプロセス自動化アプリ（crewai）の作成、4) ツールがあります。
 
 
 **Browser-extensions**
- * [OpenCharacters](https://github.com/josephrocca/opencharacters) - シンプルなウェブインターフェースでキャラクターを作成し、それらとチャットするためのものです。基本的には単一のHTMLファイルで、サーバーは必要ありません。キャラクターはリンクを使用して共有します（キャラクターデータはURL自体に保存されます）。すべてのチャットデータはIndexedを使用してブラウザに保存されます。
+ * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-indexなどを搭載したデスクトップAIアシスタント。チャット、ビジョン、画像生成と解析、自律エージェント、コードとコマンドの実行、ファイルのアップロードとダウンロード、音声合成と認識、Webアクセスを提供します。
 
 
 **NLP**
- * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口頭発表] InternVL Family: GPT-4Vに対する先駆的なオープンソースの代替手段。GPT-4Vに匹敵するパフォーマンスを発揮する商用利用可能なオープンソースモデル。
+ * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLMエージェントを（最適化可能な）グラフとして
 
 
-_Updated on April 30, 2024_ (A total of 1522 repositories listed.)
+**Openai**
+ * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Proは、ChatGPTとDALL.Eのパワーを組み合わせた高度なアプリケーションです。
+
+
+_Updated on May 03, 2024_ (A total of 1525 repositories listed.)
 
 ## Table of contents
 
@@ -437,6 +437,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPTがチャットボットを人気にしました。主流のトレンドはすべてGPTタイプのモデルに調整されており、このプロジェクトも最新のGPTタイプのバージョンを近日中に更新する予定です。このプロジェクトと独自のコーパスを使用して、自分が望むチャットボットをトレーニングすることができ、インテリジェントカスタマーサービス、オンライン質問回答、雑談などのシーンに活用できます。
  * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMDは、Python 3.11をベースにした革新的なプロジェクトであり、ChatGPTモデルとWechatのネイティブAPIを組み合わせることで、ユーザーにスマートなチャット、自動描画、自動的に友達に共有する、自動的に動画を共有するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
  * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理し、プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスできます。独自のナレッジベースに基づいた企業向けAIアプリケーションをカスタマイズすることができます。
+ * [agentcloud](https://github.com/rnadigital/agentcloud) - エージェントクラウドは、自分自身のGPTビルダーを持っているような感覚で、さらにたくさんの特典が付いてきます。GUIには、1) 260以上のデータソースをネイティブに埋め込むことができるRAGパイプライン、2) 会話型アプリ（GPTのようなもの）の作成、3) マルチエージェントプロセス自動化アプリ（crewai）の作成、4) ツールがあります。
 
 
 ## Browser-extensions
@@ -601,6 +602,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - AIプロンプトのカスタムライブラリをキュレーションする
  * [supermemory](https://github.com/dhravya/supermemory) - スーパーメモリを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存できます。
  * [OpenCharacters](https://github.com/josephrocca/opencharacters) - シンプルなウェブインターフェースでキャラクターを作成し、それらとチャットするためのものです。基本的には単一のHTMLファイルで、サーバーは必要ありません。キャラクターはリンクを使用して共有します（キャラクターデータはURL自体に保存されます）。すべてのチャットデータはIndexedを使用してブラウザに保存されます。
+ * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-indexなどを搭載したデスクトップAIアシスタント。チャット、ビジョン、画像生成と解析、自律エージェント、コードとコマンドの実行、ファイルのアップロードとダウンロード、音声合成と認識、Webアクセスを提供します。
 
 
 ## CLIs
@@ -993,6 +995,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 spaCyでBERT、XLNet、GPT-2などの事前学習済みトランスフォーマーを使用します。
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universeは、ChatGPT、GPT、および大規模言語モデル（LLMs）に関する一時的なメモです。
  * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口頭発表] InternVL Family: GPT-4Vに対する先駆的なオープンソースの代替手段。GPT-4Vに匹敵するパフォーマンスを発揮する商用利用可能なオープンソースモデル。
+ * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLMエージェントを（最適化可能な）グラフとして
 
 
 ## Langchain
@@ -1254,6 +1257,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - OpenAI APIをベースにした純粋なJavascript ChatGPTデモOpenAI APIをベースにした純粋なJavascript ChatGPTデモ
  * [one-api](https://github.com/martialbe/one-api) - Input: OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.Output: OpenAI インターフェース管理＆配布システム、songquanpeng/one-apiを改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善します。
  * [lux-ui](https://github.com/yangjiakai/lux-ui) - Vue3.x、Vite5.x、TypeScript、Vuetify3.x、Chat GPTに基づいて最高の管理者を作成します。
+ * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Proは、ChatGPTとDALL.Eのパワーを組み合わせた高度なアプリケーションです。
 
 
 ## Others

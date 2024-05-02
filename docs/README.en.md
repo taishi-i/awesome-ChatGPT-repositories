@@ -14,23 +14,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE is an tools for building your ai agent, Whether it's NPCs in games or powerful agent tools, you can design what you want for this platform.
-
-
 **Chatbots**
- * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - Intelligent chat customer service tool based on large models, supporting access to platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), able to handle text, voice, and images, access operating systems and external resources through plugins, and support customization of enterprise AI applications based on proprietary knowledge base.
+ * [agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools
 
 
 **Browser-extensions**
- * [OpenCharacters](https://github.com/josephrocca/opencharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using Indexed
+ * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, image generation and analysis, autonomous agents, code and command execution, file upload and download, speech synthesis and recognition, web acce
 
 
 **NLP**
- * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V.  接近GPT-4V表现的可商用开源模型
+ * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLM agents as (Optimizable) Graphs
 
 
-_Updated on April 30, 2024_ (A total of 1522 repositories listed.)
+**Openai**
+ * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
+
+
+_Updated on May 03, 2024_ (A total of 1525 repositories listed.)
 
 ## Table of contents
 
@@ -437,6 +437,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT has popularized chatbots, and the mainstream trend has shifted to GPT-style models. This project is also keeping up with the times and will soon update to a GPT-style version. Based on this project and your own corpus, you can train your own desired chatbot for use in intelligent customer service, online Q&A, casual chat, and other scenarios.
  * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMD is an innovative project developed based on Python 3.11. By combining the ChatGPT model and the native WeChat API, it provides users with intelligent chatting, automatic drawing, automatic posting on Moments, automatic posting on Video Accounts, and other diverse API integration services, aiming to enhance daily communication efficiency and fun.
  * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - Intelligent chat customer service tool based on large models, supporting access to platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), able to handle text, voice, and images, access operating systems and external resources through plugins, and support customization of enterprise AI applications based on proprietary knowledge base.
+ * [agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud is like having your own GPT builder with a bunch extra goodies. The GUI features 1) RAG pipeline which can natively embed 260+ datasources 2) Create Conversational apps (like GPTs) 3) Create Multi Agent process automation apps (crewai) 4) Tools
 
 
 ## Browser-extensions
@@ -601,6 +602,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - Curate a custom library of AI Prompts
  * [supermemory](https://github.com/dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
  * [OpenCharacters](https://github.com/josephrocca/opencharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using Indexed
+ * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, image generation and analysis, autonomous agents, code and command execution, file upload and download, speech synthesis and recognition, web acce
 
 
 ## CLIs
@@ -993,6 +995,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 Use pretrained transformers like BERT, XLNet, and GPT-2 in spaCy
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
  * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V.  接近GPT-4V表现的可商用开源模型
+ * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLM agents as (Optimizable) Graphs
 
 
 ## Langchain
@@ -1254,6 +1257,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
  * [one-api](https://github.com/martialbe/one-api) - OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.
  * [lux-ui](https://github.com/yangjiakai/lux-ui) - Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT
+ * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
 
 
 ## Others

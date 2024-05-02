@@ -14,23 +14,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE 是一個用於建立您的 AI 代理的工具，無論是遊戲中的 NPC 還是強大的代理工具，您都可以在這個平台上設計您想要的內容。
-
-
 **Chatbots**
- * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
+ * [agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud就像擁有自己的GPT建構者，還有許多額外好處。GUI功能包括1）RAG管線，可以原生嵌入260多個數據源2）創建對話應用程序（如GPT）3）創建多代理人流程自動化應用程序（crewai）4）工具。
 
 
 **Browser-extensions**
- * [OpenCharacters](https://github.com/josephrocca/opencharacters) - 一個簡單的小型網頁界面，用於創建角色並與他們聊天。基本上是一個單獨的HTML文件 - 沒有伺服器。使用連結分享角色（角色數據存儲在URL本身中）。所有聊天數據都存儲在您的瀏覽器中，使用Indexed。
+ * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - 由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index驅動的桌面AI助手，具備聊天、視覺、圖像生成和分析、自主代理、代碼和命令執行、文件上傳和下載、語音合成和識別、網頁訪問功能。
 
 
 **NLP**
- * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口头报告] InternVL Family：一种开创性的开源替代方案，接近GPT-4V的表现。
+ * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm：LLM代理作為（可優化）圖形
 
 
-_Updated on April 30, 2024_ (A total of 1522 repositories listed.)
+**Openai**
+ * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro是一個先進的應用程序，結合了ChatGPT和DALL.E的功能。
+
+
+_Updated on May 03, 2024_ (A total of 1525 repositories listed.)
 
 ## Table of contents
 
@@ -437,6 +437,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [chatbot](https://github.com/zhaoyingjun/chatbot) - ChatGPT帶火了聊天機器人，主流的趨勢都調整到了GPT類模式，本項目也與時俱進，會在近期更新GPT類版本。基於本項目和自己的語料可以訓練出自己想要的聊天機器人，用於智能客服、在線問答、閒聊等場景。
  * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - 微信機器人WechatBotCMD是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。
  * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
+ * [agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud就像擁有自己的GPT建構者，還有許多額外好處。GUI功能包括1）RAG管線，可以原生嵌入260多個數據源2）創建對話應用程序（如GPT）3）創建多代理人流程自動化應用程序（crewai）4）工具。
 
 
 ## Browser-extensions
@@ -601,6 +602,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - 精心策劃一個定制的AI提示圖書館
  * [supermemory](https://github.com/dhravya/supermemory) - 用超级记忆力建立您自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。
  * [OpenCharacters](https://github.com/josephrocca/opencharacters) - 一個簡單的小型網頁界面，用於創建角色並與他們聊天。基本上是一個單獨的HTML文件 - 沒有伺服器。使用連結分享角色（角色數據存儲在URL本身中）。所有聊天數據都存儲在您的瀏覽器中，使用Indexed。
+ * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - 由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index驅動的桌面AI助手，具備聊天、視覺、圖像生成和分析、自主代理、代碼和命令執行、文件上傳和下載、語音合成和識別、網頁訪問功能。
 
 
 ## CLIs
@@ -993,6 +995,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [spacy-transformers](https://github.com/explosion/spacy-transformers) - 🛸 在spaCy中使用预训练的转换器，如BERT、XLNet和GPT-2
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe 是關於 ChatGPT、GPT 和大型語言模型（LLMs）的短暫筆記。
  * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口头报告] InternVL Family：一种开创性的开源替代方案，接近GPT-4V的表现。
+ * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm：LLM代理作為（可優化）圖形
 
 
 ## Langchain
@@ -1254,6 +1257,7 @@ _Updated on April 30, 2024_ (A total of 1522 repositories listed.)
  * [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - 純JavaScript ChatGPT演示，基於OpenAI API
  * [one-api](https://github.com/martialbe/one-api) - OpenAI 介面管理 & 分發系統，改自songquanpeng/one-api。支援更多模型，加入統計頁面，完善非openai模型的函數呼叫。
  * [lux-ui](https://github.com/yangjiakai/lux-ui) - 根據Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT創建最佳管理員
+ * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro是一個先進的應用程序，結合了ChatGPT和DALL.E的功能。
 
 
 ## Others
