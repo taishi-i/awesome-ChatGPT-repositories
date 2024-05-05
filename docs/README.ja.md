@@ -14,23 +14,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [agentcloud](https://github.com/rnadigital/agentcloud) - エージェントクラウドは、自分自身のGPTビルダーを持っているような感覚で、さらにたくさんの特典が付いてきます。GUIには、1) 260以上のデータソースをネイティブに埋め込むことができるRAGパイプライン、2) 会話型アプリ（GPTのようなもの）の作成、3) マルチエージェントプロセス自動化アプリ（crewai）の作成、4) ツールがあります。
+**Prompts**
+ * [contoso-chat](https://github.com/azure-samples/contoso-chat) - このサンプルには、Prompt FlowとAI Studioを使用してRAGアプリケーションを作成するEnd2Endプロセスが含まれています。GPT 3.5 Turbo LLMアプリケーションコード、評価、AZD CLIによる展開自動化、評価と展開のためのGitHubアクション、意図マのすべてが含まれています。
+ * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT: すべての人が迅速な専門家になるための力を与える！🚀 構造化されたプロンプト、GPTの言語、構造化されたプロンプト
 
 
 **Browser-extensions**
- * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-indexなどを搭載したデスクトップAIアシスタント。チャット、ビジョン、画像生成と解析、自律エージェント、コードとコマンドの実行、ファイルのアップロードとダウンロード、音声合成と認識、Webアクセスを提供します。
-
-
-**NLP**
- * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLMエージェントを（最適化可能な）グラフとして
+ * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notionは、ChatGPTの賢さをあなたのNotionワークスペースに直接もたらします！
 
 
 **Openai**
- * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Proは、ChatGPTとDALL.Eのパワーを組み合わせた高度なアプリケーションです。
+ * [AI-Functions](https://github.com/torantulino/ai-functions) - AIパワード機能マジック：GPTモデルを使用して再びコードを書く必要はありません！
+ * [chat2api](https://github.com/lanqian528/chat2api) - Web上のChatGPTをOpenAI API形式に変換できるサービス。
 
 
-_Updated on May 03, 2024_ (A total of 1525 repositories listed.)
+**Others**
+ * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小プログラム 出力:
+
+
+_Updated on May 06, 2024_ (A total of 1531 repositories listed.)
 
 ## Table of contents
 
@@ -228,6 +230,8 @@ _Updated on May 03, 2024_ (A total of 1525 repositories listed.)
  * [EdgeChains](https://github.com/arakoodev/edgechains) - Input: EdgeChains.jsは、Typescript/Javascriptで作成されたプロダクション向けのGenerative AIです。Jsonnetに基づいています。Webassemblyが動作する場所ならどこでも動作します。プロンプトは宣言的にライブであり、「設定内の外部コード」です。Kubernetesおよびエッジに対応しています。OpenAI GPT、Gemini、Llama2、Aと互換性があります。
  * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - chatGPT、プロンプト、LLM
  * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDEは、あなたのAIエージェントを構築するためのツールです。ゲーム内のNPCや強力なエージェントツールなど、このプラットフォームで自分が望むものをデザインすることができます。
+ * [contoso-chat](https://github.com/azure-samples/contoso-chat) - このサンプルには、Prompt FlowとAI Studioを使用してRAGアプリケーションを作成するEnd2Endプロセスが含まれています。GPT 3.5 Turbo LLMアプリケーションコード、評価、AZD CLIによる展開自動化、評価と展開のためのGitHubアクション、意図マのすべてが含まれています。
+ * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT: すべての人が迅速な専門家になるための力を与える！🚀 構造化されたプロンプト、GPTの言語、構造化されたプロンプト
 
 
 ## Chatbots
@@ -603,6 +607,7 @@ _Updated on May 03, 2024_ (A total of 1525 repositories listed.)
  * [supermemory](https://github.com/dhravya/supermemory) - スーパーメモリを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存できます。
  * [OpenCharacters](https://github.com/josephrocca/opencharacters) - シンプルなウェブインターフェースでキャラクターを作成し、それらとチャットするためのものです。基本的には単一のHTMLファイルで、サーバーは必要ありません。キャラクターはリンクを使用して共有します（キャラクターデータはURL自体に保存されます）。すべてのチャットデータはIndexedを使用してブラウザに保存されます。
  * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-indexなどを搭載したデスクトップAIアシスタント。チャット、ビジョン、画像生成と解析、自律エージェント、コードとコマンドの実行、ファイルのアップロードとダウンロード、音声合成と認識、Webアクセスを提供します。
+ * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notionは、ChatGPTの賢さをあなたのNotionワークスペースに直接もたらします！
 
 
 ## CLIs
@@ -1258,6 +1263,8 @@ _Updated on May 03, 2024_ (A total of 1525 repositories listed.)
  * [one-api](https://github.com/martialbe/one-api) - Input: OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.Output: OpenAI インターフェース管理＆配布システム、songquanpeng/one-apiを改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善します。
  * [lux-ui](https://github.com/yangjiakai/lux-ui) - Vue3.x、Vite5.x、TypeScript、Vuetify3.x、Chat GPTに基づいて最高の管理者を作成します。
  * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Proは、ChatGPTとDALL.Eのパワーを組み合わせた高度なアプリケーションです。
+ * [AI-Functions](https://github.com/torantulino/ai-functions) - AIパワード機能マジック：GPTモデルを使用して再びコードを書く必要はありません！
+ * [chat2api](https://github.com/lanqian528/chat2api) - Web上のChatGPTをOpenAI API形式に変換できるサービス。
 
 
 ## Others
@@ -1630,5 +1637,6 @@ _Updated on May 03, 2024_ (A total of 1525 repositories listed.)
  * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - ChatGPTとMoegoe TTSを組み合わせて、チャットするワイフを作成します。
  * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] GPTの異なる役割を生成し、複雑なタスクのための協力エンティティを形成します。
  * [suno-api](https://github.com/gcui-art/suno-api) - APIを使用してsuno.aiの音楽生成AIを呼び出し、GPTなどのエージェントに簡単に統合します。
+ * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小プログラム 出力:
 
 
