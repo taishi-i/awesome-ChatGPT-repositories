@@ -14,23 +14,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [agentcloud](https://github.com/rnadigital/agentcloud) - 云代理就像拥有自己的GPT构建器，还有许多额外好处。GUI功能包括1）RAG管道，可以本地嵌入260多个数据源 2）创建对话应用程序（如GPT）3）创建多代理流程自动化应用程序（crewai）4）工具。
+**Prompts**
+ * [contoso-chat](https://github.com/azure-samples/contoso-chat) - 这个样本包含了使用Prompt Flow和AI Studio创建RAG应用程序的完整End2End流程。它包括GPT 3.5 Turbo LLM应用程序代码、评估、使用AZD CLI进行部署自动化、GitHub操作进行评估和部署以及意图管理。
+ * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT语言，结构化Prompt
 
 
 **Browser-extensions**
- * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - 由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index等技术驱动的桌面AI助手，具有聊天、视觉、图像生成和分析、自主代理、代码和命令执行、文件上传和下载、语音合成和识别、网络访问等功能。
-
-
-**NLP**
- * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLM代理作为（可优化）图形
+ * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notion 将 ChatGPT 的智能直接带入您的 Notion 工作空间！
 
 
 **Openai**
- * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro是一个先进的应用程序，结合了ChatGPT和DALL.E的强大功能。
+ * [AI-Functions](https://github.com/torantulino/ai-functions) - AI 功能魔法：使用 GPT 模型再也不需要编码了！
+ * [chat2api](https://github.com/lanqian528/chat2api) - 一个可以将网络上的ChatGPT转换为OpenAI API格式的服务。
 
 
-_Updated on May 03, 2024_ (A total of 1525 repositories listed.)
+**Others**
+ * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小程序
+
+
+_Updated on May 06, 2024_ (A total of 1531 repositories listed.)
 
 ## Table of contents
 
@@ -228,6 +230,8 @@ _Updated on May 03, 2024_ (A total of 1525 repositories listed.)
  * [EdgeChains](https://github.com/arakoodev/edgechains) - EdgeChains.js 是一种基于 Typescript/Javascript 的生产友好的生成式人工智能。基于 Jsonnet 开发。可以在支持 Webassembly 的任何地方运行。支持声明式实时提示和“配置中的外部代码”。兼容 Kubernetes 和边缘环境。与 OpenAI GPT、Gemini、Llama2 等兼容。
  * [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - 聊天GPT、提示、LLM
  * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE 是一个用于构建您的 AI 代理的工具，无论是游戏中的 NPC 还是强大的代理工具，您都可以在这个平台上设计您想要的内容。
+ * [contoso-chat](https://github.com/azure-samples/contoso-chat) - 这个样本包含了使用Prompt Flow和AI Studio创建RAG应用程序的完整End2End流程。它包括GPT 3.5 Turbo LLM应用程序代码、评估、使用AZD CLI进行部署自动化、GitHub操作进行评估和部署以及意图管理。
+ * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT语言，结构化Prompt
 
 
 ## Chatbots
@@ -603,6 +607,7 @@ _Updated on May 03, 2024_ (A total of 1525 repositories listed.)
  * [supermemory](https://github.com/dhravya/supermemory) - 用超级记忆力建立自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。
  * [OpenCharacters](https://github.com/josephrocca/opencharacters) - 一个简单的小型网络界面，用于创建角色并与他们聊天。基本上是一个单独的HTML文件 - 没有服务器。使用链接分享角色（角色数据存储在URL本身中）。所有聊天数据都存储在您的浏览器中，使用Indexed。
  * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - 由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index等技术驱动的桌面AI助手，具有聊天、视觉、图像生成和分析、自主代理、代码和命令执行、文件上传和下载、语音合成和识别、网络访问等功能。
+ * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notion 将 ChatGPT 的智能直接带入您的 Notion 工作空间！
 
 
 ## CLIs
@@ -1258,6 +1263,8 @@ _Updated on May 03, 2024_ (A total of 1525 repositories listed.)
  * [one-api](https://github.com/martialbe/one-api) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
  * [lux-ui](https://github.com/yangjiakai/lux-ui) - 基于Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT创建最佳管理员
  * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro是一个先进的应用程序，结合了ChatGPT和DALL.E的强大功能。
+ * [AI-Functions](https://github.com/torantulino/ai-functions) - AI 功能魔法：使用 GPT 模型再也不需要编码了！
+ * [chat2api](https://github.com/lanqian528/chat2api) - 一个可以将网络上的ChatGPT转换为OpenAI API格式的服务。
 
 
 ## Others
@@ -1630,5 +1637,6 @@ _Updated on May 03, 2024_ (A total of 1525 repositories listed.)
  * [ChatWaifu](https://github.com/cjyaddone/chatwaifu) - 将ChatGPT与Moegoe TTS结合，创建一个聊天娇娃
  * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] 为GPT生成不同角色，形成协作实体，完成复杂任务。
  * [suno-api](https://github.com/gcui-art/suno-api) - 使用API调用suno.ai的音乐生成AI，并轻松集成到像GPTs这样的代理中。
+ * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小程序
 
 

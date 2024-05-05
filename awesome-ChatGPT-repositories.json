@@ -4080,6 +4080,42 @@
                     "zh-hans": "ChatDev IDE 是一个用于构建您的 AI 代理的工具，无论是游戏中的 NPC 还是强大的代理工具，您都可以在这个平台上设计您想要的内容。",
                     "zh-hant": "ChatDev IDE 是一個用於建立您的 AI 代理的工具，無論是遊戲中的 NPC 還是強大的代理工具，您都可以在這個平台上設計您想要的內容。"
                 }
+            },
+            "https://github.com/azure-samples/contoso-chat": {
+                "repository_name": "contoso-chat",
+                "user_name": "Azure-Samples",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent ma",
+                    "ja": "このサンプルには、Prompt FlowとAI Studioを使用してRAGアプリケーションを作成するEnd2Endプロセスが含まれています。GPT 3.5 Turbo LLMアプリケーションコード、評価、AZD CLIによる展開自動化、評価と展開のためのGitHubアクション、意図マのすべてが含まれています。",
+                    "zh-hans": "这个样本包含了使用Prompt Flow和AI Studio创建RAG应用程序的完整End2End流程。它包括GPT 3.5 Turbo LLM应用程序代码、评估、使用AZD CLI进行部署自动化、GitHub操作进行评估和部署以及意图管理。",
+                    "zh-hant": "這個範例包含了使用Prompt Flow和AI Studio創建RAG應用程序的完整End2End過程。它包括了GPT 3.5 Turbo LLM應用程序代碼、評估、使用AZD CLI進行部署自動化、GitHub操作進行評估和部署，以及意圖管理。"
+                }
+            },
+            "https://github.com/langgptai/langgpt": {
+                "repository_name": "LangGPT",
+                "user_name": "langgptai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt",
+                "topics": [
+                    "chatgpt",
+                    "deeplearning",
+                    "framework",
+                    "gpt-4",
+                    "gpt3-prompts",
+                    "langgpt",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt",
+                    "ja": "LangGPT: すべての人が迅速な専門家になるための力を与える！🚀 構造化されたプロンプト、GPTの言語、構造化されたプロンプト",
+                    "zh-hans": "LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT语言，结构化Prompt",
+                    "zh-hant": "LangGPT：讓每個人都成為提示專家！🚀 結構化提示，GPT的語言，結構化提示詞，結構化Prompt"
+                }
             }
         },
         "Chatbots": {
@@ -12471,6 +12507,26 @@
                     "ja": "GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-indexなどを搭載したデスクトップAIアシスタント。チャット、ビジョン、画像生成と解析、自律エージェント、コードとコマンドの実行、ファイルのアップロードとダウンロード、音声合成と認識、Webアクセスを提供します。",
                     "zh-hans": "由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index等技术驱动的桌面AI助手，具有聊天、视觉、图像生成和分析、自主代理、代码和命令执行、文件上传和下载、语音合成和识别、网络访问等功能。",
                     "zh-hant": "由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index驅動的桌面AI助手，具備聊天、視覺、圖像生成和分析、自主代理、代碼和命令執行、文件上傳和下載、語音合成和識別、網頁訪問功能。"
+                }
+            },
+            "https://github.com/l-a-r-t/chatgpt-to-notion": {
+                "repository_name": "chatgpt-to-notion",
+                "user_name": "L-a-r-t",
+                "language": "TypeScript",
+                "license": null,
+                "description": "ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!",
+                "topics": [
+                    "chatgpt",
+                    "chrome-extension",
+                    "notion",
+                    "plasmo",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!",
+                    "ja": "ChatGPT to Notionは、ChatGPTの賢さをあなたのNotionワークスペースに直接もたらします！",
+                    "zh-hans": "ChatGPT to Notion 将 ChatGPT 的智能直接带入您的 Notion 工作空间！",
+                    "zh-hant": "ChatGPT to Notion 將 ChatGPT 的智慧帶入您的 Notion 工作區！"
                 }
             }
         },
@@ -26245,6 +26301,41 @@
                     "zh-hans": "ChatGPT-Pro是一个先进的应用程序，结合了ChatGPT和DALL.E的强大功能。",
                     "zh-hant": "ChatGPT-Pro是一個先進的應用程序，結合了ChatGPT和DALL.E的功能。"
                 }
+            },
+            "https://github.com/torantulino/ai-functions": {
+                "repository_name": "AI-Functions",
+                "user_name": "Torantulino",
+                "language": "Python",
+                "license": null,
+                "description": "AI-Powered Function Magic: Never code again with GPT models!",
+                "topics": [
+                    "chatgpt",
+                    "gpt-3",
+                    "gpt4",
+                    "openai",
+                    "openai-api",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-Powered Function Magic: Never code again with GPT models!",
+                    "ja": "AIパワード機能マジック：GPTモデルを使用して再びコードを書く必要はありません！",
+                    "zh-hans": "AI 功能魔法：使用 GPT 模型再也不需要编码了！",
+                    "zh-hant": "AI 強化功能魔法：使用 GPT 模型，再也不需要編碼了！"
+                }
+            },
+            "https://github.com/lanqian528/chat2api": {
+                "repository_name": "chat2api",
+                "user_name": "LanQian528",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A service that can convert ChatGPT on the web to OpenAI API format.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A service that can convert ChatGPT on the web to OpenAI API format.",
+                    "ja": "Web上のChatGPTをOpenAI API形式に変換できるサービス。",
+                    "zh-hans": "一个可以将网络上的ChatGPT转换为OpenAI API格式的服务。",
+                    "zh-hant": "一項可以將網絡上的ChatGPT轉換為OpenAI API格式的服務。"
+                }
             }
         },
         "Others": {
@@ -33230,6 +33321,24 @@
                     "ja": "APIを使用してsuno.aiの音楽生成AIを呼び出し、GPTなどのエージェントに簡単に統合します。",
                     "zh-hans": "使用API调用suno.ai的音乐生成AI，并轻松集成到像GPTs这样的代理中。",
                     "zh-hant": "使用API調用suno.ai的音樂生成AI，並輕鬆集成到像GPTs這樣的代理程序中。"
+                }
+            },
+            "https://github.com/leon-fong/chatgpt-miniprogram": {
+                "repository_name": "ChatGPT-miniprogram",
+                "user_name": "leon-fong",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "🤖 ChatGPT 小程序 ",
+                "topics": [
+                    "chatgpt",
+                    "miniprogram",
+                    "weixin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 ChatGPT Mini Program",
+                    "ja": "🤖 ChatGPT 小プログラム 出力:",
+                    "zh-hans": "🤖 ChatGPT 小程序",
+                    "zh-hant": "🤖 ChatGPT 小程式"
                 }
             }
         }
