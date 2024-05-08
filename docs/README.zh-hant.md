@@ -14,25 +14,17 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [contoso-chat](https://github.com/azure-samples/contoso-chat) - 這個範例包含了使用Prompt Flow和AI Studio創建RAG應用程序的完整End2End過程。它包括了GPT 3.5 Turbo LLM應用程序代碼、評估、使用AZD CLI進行部署自動化、GitHub操作進行評估和部署，以及意圖管理。
- * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT：讓每個人都成為提示專家！🚀 結構化提示，GPT的語言，結構化提示詞，結構化Prompt
-
-
-**Browser-extensions**
- * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notion 將 ChatGPT 的智慧帶入您的 Notion 工作區！
-
-
-**Openai**
- * [AI-Functions](https://github.com/torantulino/ai-functions) - AI 強化功能魔法：使用 GPT 模型，再也不需要編碼了！
- * [chat2api](https://github.com/lanqian528/chat2api) - 一項可以將網絡上的ChatGPT轉換為OpenAI API格式的服務。
+**Chatbots**
+ * [openlrc](https://github.com/zh-plus/openlrc) - 使用Whisper和LLM（GPT，Claude等）來轉錄、翻譯你的音頻為字幕文件。
+ * [wrest-chat](https://github.com/opentdp/wrest-chat) - 微信機器人，PC Wechat Api/Bot/Sdk，內置 WEB 管理界面，可接入GPT、Gemini 、星火、文心、混元 、通義千問等大語言模型
+ * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - 擁有自己的移動端 ChatGPT/Gemini 應用程式，支援 GPT3、GPT4 和 Gemini Pro 模型。
 
 
 **Others**
- * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小程式
+ * [99AI](https://github.com/vastxie/99ai) - 99AI 穩定版：基於 NineAI 二開的可商業化 AI Web 應用（免授權，無後門，支持快速部署）。目標 ALL-IN-CHAT
 
 
-_Updated on May 06, 2024_ (A total of 1531 repositories listed.)
+_Updated on May 09, 2024_ (A total of 1535 repositories listed.)
 
 ## Table of contents
 
@@ -442,6 +434,9 @@ _Updated on May 06, 2024_ (A total of 1531 repositories listed.)
  * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - 微信機器人WechatBotCMD是一個創新的基於Python 3.11開發的項目，通過結合ChatGPT模型和微信原生API，為用戶提供智能聊天、自動繪畫、自動發朋友圈、自動發視頻號等多樣的API集成服務，旨在提升日常溝通效率和趣味性。
  * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
  * [agentcloud](https://github.com/rnadigital/agentcloud) - Agent Cloud就像擁有自己的GPT建構者，還有許多額外好處。GUI功能包括1）RAG管線，可以原生嵌入260多個數據源2）創建對話應用程序（如GPT）3）創建多代理人流程自動化應用程序（crewai）4）工具。
+ * [openlrc](https://github.com/zh-plus/openlrc) - 使用Whisper和LLM（GPT，Claude等）來轉錄、翻譯你的音頻為字幕文件。
+ * [wrest-chat](https://github.com/opentdp/wrest-chat) - 微信機器人，PC Wechat Api/Bot/Sdk，內置 WEB 管理界面，可接入GPT、Gemini 、星火、文心、混元 、通義千問等大語言模型
+ * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - 擁有自己的移動端 ChatGPT/Gemini 應用程式，支援 GPT3、GPT4 和 Gemini Pro 模型。
 
 
 ## Browser-extensions
@@ -1638,5 +1633,6 @@ _Updated on May 06, 2024_ (A total of 1531 repositories listed.)
  * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] 生成不同角色的GPT，形成協作實體，以應對複雜任務。
  * [suno-api](https://github.com/gcui-art/suno-api) - 使用API調用suno.ai的音樂生成AI，並輕鬆集成到像GPTs這樣的代理程序中。
  * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小程式
+ * [99AI](https://github.com/vastxie/99ai) - 99AI 穩定版：基於 NineAI 二開的可商業化 AI Web 應用（免授權，無後門，支持快速部署）。目標 ALL-IN-CHAT
 
 
