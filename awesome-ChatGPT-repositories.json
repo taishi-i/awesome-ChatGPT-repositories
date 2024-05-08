@@ -8949,6 +8949,66 @@
                     "zh-hans": "云代理就像拥有自己的GPT构建器，还有许多额外好处。GUI功能包括1）RAG管道，可以本地嵌入260多个数据源 2）创建对话应用程序（如GPT）3）创建多代理流程自动化应用程序（crewai）4）工具。",
                     "zh-hant": "Agent Cloud就像擁有自己的GPT建構者，還有許多額外好處。GUI功能包括1）RAG管線，可以原生嵌入260多個數據源2）創建對話應用程序（如GPT）3）創建多代理人流程自動化應用程序（crewai）4）工具。"
                 }
+            },
+            "https://github.com/zh-plus/openlrc": {
+                "repository_name": "openlrc",
+                "user_name": "zh-plus",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Transcribe and translate voice into LRC file using Whisper and LLMs (GPT, Claude, et,al). 使用whisper和LLM(GPT，Claude等)来转录、翻译你的音频为字幕文件。",
+                "topics": [
+                    "auto-subtitle",
+                    "faster-whisper",
+                    "lyrics",
+                    "lyrics-generator",
+                    "openai-api",
+                    "openlrc",
+                    "python",
+                    "speech-to-text",
+                    "subtitle-translation",
+                    "transcribe",
+                    "voice-to-text",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Transcribe and translate voice into LRC file using Whisper and LLMs (GPT, Claude, et,al). 使用whisper和LLM(GPT，Claude等)来转录、翻译你的音频为字幕文件。",
+                    "ja": "WhisperとLLM（GPT、Claudeなど）を使用して、音声をLRCファイルに転写し、翻訳します。",
+                    "zh-hans": "使用whisper和LLM(GPT，Claude等)来将声音转录和翻译为LRC文件。",
+                    "zh-hant": "使用Whisper和LLM（GPT，Claude等）來轉錄、翻譯你的音頻為字幕文件。"
+                }
+            },
+            "https://github.com/opentdp/wrest-chat": {
+                "repository_name": "wrest-chat",
+                "user_name": "opentdp",
+                "language": "Go",
+                "license": "GNU General Public License v3.0",
+                "description": "微信机器人，PC Wechat Api/Bot/Sdk，内置 WEB 管理界面，可接入GPT、Gemini 、星火、文心、混元 、通义千问等大语言模型",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "WeChat robot, PC WeChat Api/Bot/Sdk, built-in WEB management interface, can access large language models such as GPT, Gemini, Xinghuo, Wenxin, Hunyuan, Tongyi Qianwen, etc.",
+                    "ja": "WeChatボット、PC WeChat API/Bot/SDK、組み込みのWEB管理インターフェース、GPT、Gemini、星火、文心、混元、通義千問などの大規模言語モデルに接続可能",
+                    "zh-hans": "微信机器人，PC微信Api/Bot/Sdk，内置WEB管理界面，可接入GPT、Gemini、星火、文心、混元、通义千问等大语言模型",
+                    "zh-hant": "微信機器人，PC Wechat Api/Bot/Sdk，內置 WEB 管理界面，可接入GPT、Gemini 、星火、文心、混元 、通義千問等大語言模型"
+                }
+            },
+            "https://github.com/chatbot-all/chatbot-app": {
+                "repository_name": "chatbot-app",
+                "user_name": "ChatBot-All",
+                "language": "Dart",
+                "license": "GNU General Public License v3.0",
+                "description": "mobile private ChatGPT application, supporting GPT3, GPT4 & Gemini Pro models.  拥有自己的移动端 ChatGPT/Gemini 应用。",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "gemini",
+                    "gemini-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Own mobile ChatGPT/Gemini application.",
+                    "ja": "モバイルプライベートChatGPTアプリケーション、GPT3、GPT4＆Gemini Proモデルをサポート。独自のモバイルChatGPT/Geminiアプリを持っています。",
+                    "zh-hans": "移动私人 ChatGPT 应用，支持 GPT3、GPT4 和 Gemini Pro 模型。",
+                    "zh-hant": "擁有自己的移動端 ChatGPT/Gemini 應用程式，支援 GPT3、GPT4 和 Gemini Pro 模型。"
+                }
             }
         },
         "Browser-extensions": {
@@ -33339,6 +33399,26 @@
                     "ja": "🤖 ChatGPT 小プログラム 出力:",
                     "zh-hans": "🤖 ChatGPT 小程序",
                     "zh-hant": "🤖 ChatGPT 小程式"
+                }
+            },
+            "https://github.com/vastxie/99ai": {
+                "repository_name": "99AI",
+                "user_name": "vastxie",
+                "language": "JavaScript",
+                "license": null,
+                "description": "99AI 稳定版：基于 NineAI 二开的可商业化 AI Web 应用（免授权，无后门，支持快速部署）。目标 ALL-IN-CHAT",
+                "topics": [
+                    "ai",
+                    "all-in-chat",
+                    "chatgpt",
+                    "dalle",
+                    "midjourney"
+                ],
+                "multilingual_descriptions": {
+                    "en": "99AI Stable Version: A commercially available AI Web application based on NineAI's secondary development (no authorization required, no backdoors, supports rapid deployment). Goal: ALL-IN-CHAT",
+                    "ja": "99AI 安定版：NineAIをベースにした商用利用可能なAI Webアプリケーション（ライセンス不要、バックドアなし、迅速な展開をサポート）。目標はALL-IN-CHATです。",
+                    "zh-hans": "99AI 稳定版：基于 NineAI 二开的可商业化 AI Web 应用（免授权，无后门，支持快速部署）。目标 ALL-IN-CHAT99AI 稳定版：基于 NineAI 二开的可商业化 AI 网页应用（无需授权，无后门，支持快速部署）。目标 ALL-IN-CHAT",
+                    "zh-hant": "99AI 穩定版：基於 NineAI 二開的可商業化 AI Web 應用（免授權，無後門，支持快速部署）。目標 ALL-IN-CHAT"
                 }
             }
         }

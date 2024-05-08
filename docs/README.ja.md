@@ -14,25 +14,17 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [contoso-chat](https://github.com/azure-samples/contoso-chat) - このサンプルには、Prompt FlowとAI Studioを使用してRAGアプリケーションを作成するEnd2Endプロセスが含まれています。GPT 3.5 Turbo LLMアプリケーションコード、評価、AZD CLIによる展開自動化、評価と展開のためのGitHubアクション、意図マのすべてが含まれています。
- * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT: すべての人が迅速な専門家になるための力を与える！🚀 構造化されたプロンプト、GPTの言語、構造化されたプロンプト
-
-
-**Browser-extensions**
- * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notionは、ChatGPTの賢さをあなたのNotionワークスペースに直接もたらします！
-
-
-**Openai**
- * [AI-Functions](https://github.com/torantulino/ai-functions) - AIパワード機能マジック：GPTモデルを使用して再びコードを書く必要はありません！
- * [chat2api](https://github.com/lanqian528/chat2api) - Web上のChatGPTをOpenAI API形式に変換できるサービス。
+**Chatbots**
+ * [openlrc](https://github.com/zh-plus/openlrc) - WhisperとLLM（GPT、Claudeなど）を使用して、音声をLRCファイルに転写し、翻訳します。
+ * [wrest-chat](https://github.com/opentdp/wrest-chat) - WeChatボット、PC WeChat API/Bot/SDK、組み込みのWEB管理インターフェース、GPT、Gemini、星火、文心、混元、通義千問などの大規模言語モデルに接続可能
+ * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - モバイルプライベートChatGPTアプリケーション、GPT3、GPT4＆Gemini Proモデルをサポート。独自のモバイルChatGPT/Geminiアプリを持っています。
 
 
 **Others**
- * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小プログラム 出力:
+ * [99AI](https://github.com/vastxie/99ai) - 99AI 安定版：NineAIをベースにした商用利用可能なAI Webアプリケーション（ライセンス不要、バックドアなし、迅速な展開をサポート）。目標はALL-IN-CHATです。
 
 
-_Updated on May 06, 2024_ (A total of 1531 repositories listed.)
+_Updated on May 09, 2024_ (A total of 1535 repositories listed.)
 
 ## Table of contents
 
@@ -442,6 +434,9 @@ _Updated on May 06, 2024_ (A total of 1531 repositories listed.)
  * [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - WechatBotCMDは、Python 3.11をベースにした革新的なプロジェクトであり、ChatGPTモデルとWechatのネイティブAPIを組み合わせることで、ユーザーにスマートなチャット、自動描画、自動的に友達に共有する、自動的に動画を共有するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
  * [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理し、プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスできます。独自のナレッジベースに基づいた企業向けAIアプリケーションをカスタマイズすることができます。
  * [agentcloud](https://github.com/rnadigital/agentcloud) - エージェントクラウドは、自分自身のGPTビルダーを持っているような感覚で、さらにたくさんの特典が付いてきます。GUIには、1) 260以上のデータソースをネイティブに埋め込むことができるRAGパイプライン、2) 会話型アプリ（GPTのようなもの）の作成、3) マルチエージェントプロセス自動化アプリ（crewai）の作成、4) ツールがあります。
+ * [openlrc](https://github.com/zh-plus/openlrc) - WhisperとLLM（GPT、Claudeなど）を使用して、音声をLRCファイルに転写し、翻訳します。
+ * [wrest-chat](https://github.com/opentdp/wrest-chat) - WeChatボット、PC WeChat API/Bot/SDK、組み込みのWEB管理インターフェース、GPT、Gemini、星火、文心、混元、通義千問などの大規模言語モデルに接続可能
+ * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - モバイルプライベートChatGPTアプリケーション、GPT3、GPT4＆Gemini Proモデルをサポート。独自のモバイルChatGPT/Geminiアプリを持っています。
 
 
 ## Browser-extensions
@@ -1638,5 +1633,6 @@ _Updated on May 06, 2024_ (A total of 1531 repositories listed.)
  * [AutoAgents](https://github.com/link-agi/autoagents) - [IJCAI 2024] GPTの異なる役割を生成し、複雑なタスクのための協力エンティティを形成します。
  * [suno-api](https://github.com/gcui-art/suno-api) - APIを使用してsuno.aiの音楽生成AIを呼び出し、GPTなどのエージェントに簡単に統合します。
  * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小プログラム 出力:
+ * [99AI](https://github.com/vastxie/99ai) - 99AI 安定版：NineAIをベースにした商用利用可能なAI Webアプリケーション（ライセンス不要、バックドアなし、迅速な展開をサポート）。目標はALL-IN-CHATです。
 
 
