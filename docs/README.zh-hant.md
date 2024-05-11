@@ -14,17 +14,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [openlrc](https://github.com/zh-plus/openlrc) - 使用Whisper和LLM（GPT，Claude等）來轉錄、翻譯你的音頻為字幕文件。
- * [wrest-chat](https://github.com/opentdp/wrest-chat) - 微信機器人，PC Wechat Api/Bot/Sdk，內置 WEB 管理界面，可接入GPT、Gemini 、星火、文心、混元 、通義千問等大語言模型
- * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - 擁有自己的移動端 ChatGPT/Gemini 應用程式，支援 GPT3、GPT4 和 Gemini Pro 模型。
+**Reimplementations**
+ * [kan-gpt](https://github.com/adityang/kan-gpt) - 使用 Kolmogorov-Arnold 網絡 (KANs) 實現的 PyTorch 生成式預訓練變換器 (GPTs) 用於語言建模
+ * [TextRL](https://github.com/voidful/textrl) - 在huggingface的transformer上實現ChatGPT RLHF（Reinforcement Learning with Human Feedback）在任何生成模型上的應用（blommz-176B/bloom/gpt/bart/T5/MetaICL）
 
 
-**Others**
- * [99AI](https://github.com/vastxie/99ai) - 99AI 穩定版：基於 NineAI 二開的可商業化 AI Web 應用（免授權，無後門，支持快速部署）。目標 ALL-IN-CHAT
+**NLP**
+ * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1：生產就緒的預先訓練時間序列基礎模型，用於預測和異常檢測。在超過100B數據點上訓練的時間序列生成預訓練變壓器。它能夠準確預測各種領域，如r
+ * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - 一個用於解釋GPT風格語言模型機制的圖書館
 
 
-_Updated on May 09, 2024_ (A total of 1535 repositories listed.)
+**Langchain**
+ * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 輕鬆玩轉LLM兼容openai&langchain，支持文心一言、訊飛星火、騰訊混元、智譜ChatGLM等。
+
+
+_Updated on May 12, 2024_ (A total of 1540 repositories listed.)
 
 ## Table of contents
 
@@ -747,6 +751,8 @@ _Updated on May 09, 2024_ (A total of 1535 repositories listed.)
  * [textgen](https://github.com/shibing624/textgen) - TextGen：文本生成模型的實現，包括LLaMA，BLOOM，GPT2，BART，T5，SongNet等等。文本生成模型，實現了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的訓練和預測，開箱即用。
  * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。Google LaMDA在PyTorch中的開源預訓練實現。添加類似ChatGPT的RLHF。
  * [langchain](https://github.com/brainlid/langchain) - LangChain風格框架的Elixir實現。
+ * [kan-gpt](https://github.com/adityang/kan-gpt) - 使用 Kolmogorov-Arnold 網絡 (KANs) 實現的 PyTorch 生成式預訓練變換器 (GPTs) 用於語言建模
+ * [TextRL](https://github.com/voidful/textrl) - 在huggingface的transformer上實現ChatGPT RLHF（Reinforcement Learning with Human Feedback）在任何生成模型上的應用（blommz-176B/bloom/gpt/bart/T5/MetaICL）
 
 
 ## Tutorials
@@ -996,6 +1002,8 @@ _Updated on May 09, 2024_ (A total of 1535 repositories listed.)
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe 是關於 ChatGPT、GPT 和大型語言模型（LLMs）的短暫筆記。
  * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口头报告] InternVL Family：一种开创性的开源替代方案，接近GPT-4V的表现。
  * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm：LLM代理作為（可優化）圖形
+ * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1：生產就緒的預先訓練時間序列基礎模型，用於預測和異常檢測。在超過100B數據點上訓練的時間序列生成預訓練變壓器。它能夠準確預測各種領域，如r
+ * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - 一個用於解釋GPT風格語言模型機制的圖書館
 
 
 ## Langchain
@@ -1086,6 +1094,7 @@ _Updated on May 09, 2024_ (A total of 1535 repositories listed.)
  * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - 請使用Python、ChatGPT和其他模型來建立大型語言模型（LLM）應用程式。這是與LangChain上生成式人工智能書籍相關的存儲庫。
  * [llm-books](https://github.com/morsoli/llm-books) - 利用LLM構建應用實踐筆記
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow 是一個動態圖，其中每個節點都是可執行的單元。其模塊化和互動設計促進了快速實驗和原型設計，大大挑戰了創造力的極限。
+ * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 輕鬆玩轉LLM兼容openai&langchain，支持文心一言、訊飛星火、騰訊混元、智譜ChatGLM等。
 
 
 ## Unity

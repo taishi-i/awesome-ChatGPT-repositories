@@ -15615,6 +15615,53 @@
                     "zh-hans": "Elixir实现LangChain风格框架。",
                     "zh-hant": "LangChain風格框架的Elixir實現。"
                 }
+            },
+            "https://github.com/adityang/kan-gpt": {
+                "repository_name": "kan-gpt",
+                "user_name": "AdityaNG",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling",
+                "topics": [
+                    "gpt",
+                    "kanformers",
+                    "kolmogorov-arnold-networks",
+                    "kolmogorov-arnold-representation",
+                    "llm",
+                    "text-generation",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling",
+                    "ja": "言語モデリングのためのKolmogorov-Arnold Networks（KANs）を使用したGenerative Pre-trained Transformers（GPTs）のPyTorch実装PyTorchによるGenerative Pre-trained Transformers（GPTs）のKolmogorov-Arnold Networks（KANs）を使用した言語モデリングの実装",
+                    "zh-hans": "使用 Kolmogorov-Arnold 网络 (KANs) 对生成式预训练变压器 (GPTs) 进行 PyTorch 实现，用于语言建模。",
+                    "zh-hant": "使用 Kolmogorov-Arnold 網絡 (KANs) 實現的 PyTorch 生成式預訓練變換器 (GPTs) 用於語言建模"
+                }
+            },
+            "https://github.com/voidful/textrl": {
+                "repository_name": "TextRL",
+                "user_name": "voidful",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)",
+                "topics": [
+                    "chatgpt",
+                    "controlled-nlg",
+                    "gpt-2",
+                    "gpt-3",
+                    "language-model",
+                    "nlg",
+                    "nlp",
+                    "pytorch",
+                    "reinforcement-learning",
+                    "rlhf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)",
+                    "ja": "huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装",
+                    "zh-hans": "在huggingface的transformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）上实现ChatGPT RLHF（强化学习与人类反馈）。",
+                    "zh-hant": "在huggingface的transformer上實現ChatGPT RLHF（Reinforcement Learning with Human Feedback）在任何生成模型上的應用（blommz-176B/bloom/gpt/bart/T5/MetaICL）"
+                }
             }
         },
         "Tutorials": {
@@ -20764,6 +20811,47 @@
                     "zh-hans": "🐝 GPTSwarm: LLM代理作为（可优化）图形",
                     "zh-hant": "🐝 GPTSwarm：LLM代理作為（可優化）圖形"
                 }
+            },
+            "https://github.com/nixtla/nixtla": {
+                "repository_name": "nixtla",
+                "user_name": "Nixtla",
+                "language": "Jupyter Notebook",
+                "license": "Other",
+                "description": "TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.",
+                "topics": [
+                    "anomaly-detection",
+                    "artificial-intelligence",
+                    "deep-learning",
+                    "forecasting",
+                    "generative-ai-time-series",
+                    "gpt",
+                    "gpts",
+                    "llm",
+                    "machine-learning",
+                    "time-series",
+                    "time-series-forecasting",
+                    "timegpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as r",
+                    "ja": "Input: TimeGPT-1: 予測と異常検知のための本番向けの事前トレーニング済みの時系列基礎モデル。 100億以上のデータポイントでトレーニングされた時系列のための生成事前トレーニングトランスフォーマー。様々なドメインを正確に予測する能力を持っています。",
+                    "zh-hans": "TimeGPT-1：生产就绪的预训练时间序列基础模型，用于预测和异常检测。在超过100B数据点上训练的时间序列生成预训练变压器。它能够准确预测各种领域，如...",
+                    "zh-hant": "TimeGPT-1：生產就緒的預先訓練時間序列基礎模型，用於預測和異常檢測。在超過100B數據點上訓練的時間序列生成預訓練變壓器。它能夠準確預測各種領域，如r"
+                }
+            },
+            "https://github.com/transformerlensorg/transformerlens": {
+                "repository_name": "TransformerLens",
+                "user_name": "TransformerLensOrg",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A library for mechanistic interpretability of GPT-style language models",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A library for mechanistic interpretability of GPT-style language models",
+                    "ja": "GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ",
+                    "zh-hans": "一种用于解释GPT风格语言模型机制的图书馆",
+                    "zh-hant": "一個用於解釋GPT風格語言模型機制的圖書館"
+                }
             }
         },
         "Langchain": {
@@ -22777,6 +22865,37 @@
                     "ja": "⛓️ Langflowは、各ノードが実行可能なユニットであるダイナミックグラフです。そのモジュラーでインタラクティブなデザインは、迅速な実験やプロトタイピングを促進し、創造性の限界に挑戦します。",
                     "zh-hans": "⛓️ Langflow是一个动态图，其中每个节点都是可执行单元。其模块化和交互式设计促进了快速实验和原型设计，大力挑战创造力的极限。",
                     "zh-hant": "⛓️ Langflow 是一個動態圖，其中每個節點都是可執行的單元。其模塊化和互動設計促進了快速實驗和原型設計，大大挑戰了創造力的極限。"
+                }
+            },
+            "https://github.com/yuanjie-ai/chatllm": {
+                "repository_name": "ChatLLM",
+                "user_name": "yuanjie-ai",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等",
+                "topics": [
+                    "chatbase",
+                    "chatdb",
+                    "chatdoc",
+                    "chatgpt",
+                    "chatkb",
+                    "chatkg",
+                    "chatllm",
+                    "chatpdf",
+                    "chatsearch",
+                    "chatsql",
+                    "chatweb",
+                    "gpt4",
+                    "langchain",
+                    "llm",
+                    "lora",
+                    "p-tuning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Easily play with LLM compatible openai & langchain, supporting Wenxin Yiyuan, Xunfei Xinghuo, Tencent Hunyuan, Zhipu ChatGLM, etc.",
+                    "ja": "LLMとopenai＆langchainを楽しく使いこなす、文心一言、讯飞星火、腾讯混元、智谱ChatGLMなどをサポートします。",
+                    "zh-hans": "轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等。",
+                    "zh-hant": "輕鬆玩轉LLM兼容openai&langchain，支持文心一言、訊飛星火、騰訊混元、智譜ChatGLM等。"
                 }
             }
         },

@@ -14,17 +14,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [openlrc](https://github.com/zh-plus/openlrc) - WhisperとLLM（GPT、Claudeなど）を使用して、音声をLRCファイルに転写し、翻訳します。
- * [wrest-chat](https://github.com/opentdp/wrest-chat) - WeChatボット、PC WeChat API/Bot/SDK、組み込みのWEB管理インターフェース、GPT、Gemini、星火、文心、混元、通義千問などの大規模言語モデルに接続可能
- * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - モバイルプライベートChatGPTアプリケーション、GPT3、GPT4＆Gemini Proモデルをサポート。独自のモバイルChatGPT/Geminiアプリを持っています。
+**Reimplementations**
+ * [kan-gpt](https://github.com/adityang/kan-gpt) - 言語モデリングのためのKolmogorov-Arnold Networks（KANs）を使用したGenerative Pre-trained Transformers（GPTs）のPyTorch実装PyTorchによるGenerative Pre-trained Transformers（GPTs）のKolmogorov-Arnold Networks（KANs）を使用した言語モデリングの実装
+ * [TextRL](https://github.com/voidful/textrl) - huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装
 
 
-**Others**
- * [99AI](https://github.com/vastxie/99ai) - 99AI 安定版：NineAIをベースにした商用利用可能なAI Webアプリケーション（ライセンス不要、バックドアなし、迅速な展開をサポート）。目標はALL-IN-CHATです。
+**NLP**
+ * [nixtla](https://github.com/nixtla/nixtla) - Input: TimeGPT-1: 予測と異常検知のための本番向けの事前トレーニング済みの時系列基礎モデル。 100億以上のデータポイントでトレーニングされた時系列のための生成事前トレーニングトランスフォーマー。様々なドメインを正確に予測する能力を持っています。
+ * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
 
 
-_Updated on May 09, 2024_ (A total of 1535 repositories listed.)
+**Langchain**
+ * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - LLMとopenai＆langchainを楽しく使いこなす、文心一言、讯飞星火、腾讯混元、智谱ChatGLMなどをサポートします。
+
+
+_Updated on May 12, 2024_ (A total of 1540 repositories listed.)
 
 ## Table of contents
 
@@ -747,6 +751,8 @@ _Updated on May 09, 2024_ (A total of 1535 repositories listed.)
  * [textgen](https://github.com/shibing624/textgen) - テキスト生成モデルの実装で、LLaMA、BLOOM、GPT2、BART、T5、SongNetなどを含みます。これらのモデルのトレーニングと予測を実現し、すぐに使用できます。
  * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。
  * [langchain](https://github.com/brainlid/langchain) - LangChainスタイルのフレームワークのElixir実装。
+ * [kan-gpt](https://github.com/adityang/kan-gpt) - 言語モデリングのためのKolmogorov-Arnold Networks（KANs）を使用したGenerative Pre-trained Transformers（GPTs）のPyTorch実装PyTorchによるGenerative Pre-trained Transformers（GPTs）のKolmogorov-Arnold Networks（KANs）を使用した言語モデリングの実装
+ * [TextRL](https://github.com/voidful/textrl) - huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装
 
 
 ## Tutorials
@@ -996,6 +1002,8 @@ _Updated on May 09, 2024_ (A total of 1535 repositories listed.)
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universeは、ChatGPT、GPT、および大規模言語モデル（LLMs）に関する一時的なメモです。
  * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 口頭発表] InternVL Family: GPT-4Vに対する先駆的なオープンソースの代替手段。GPT-4Vに匹敵するパフォーマンスを発揮する商用利用可能なオープンソースモデル。
  * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLMエージェントを（最適化可能な）グラフとして
+ * [nixtla](https://github.com/nixtla/nixtla) - Input: TimeGPT-1: 予測と異常検知のための本番向けの事前トレーニング済みの時系列基礎モデル。 100億以上のデータポイントでトレーニングされた時系列のための生成事前トレーニングトランスフォーマー。様々なドメインを正確に予測する能力を持っています。
+ * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
 
 
 ## Langchain
@@ -1086,6 +1094,7 @@ _Updated on May 09, 2024_ (A total of 1535 repositories listed.)
  * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Python、ChatGPT、およびその他のモデルを使用して大規模言語モデル（LLM）アプリを構築します。これはLangChainの生成AIに関する書籍のためのコンパニオンリポジトリです。
  * [llm-books](https://github.com/morsoli/llm-books) - LLMを使用してアプリケーションを構築する実践ノート
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflowは、各ノードが実行可能なユニットであるダイナミックグラフです。そのモジュラーでインタラクティブなデザインは、迅速な実験やプロトタイピングを促進し、創造性の限界に挑戦します。
+ * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - LLMとopenai＆langchainを楽しく使いこなす、文心一言、讯飞星火、腾讯混元、智谱ChatGLMなどをサポートします。
 
 
 ## Unity

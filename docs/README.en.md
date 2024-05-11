@@ -14,17 +14,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [openlrc](https://github.com/zh-plus/openlrc) - Transcribe and translate voice into LRC file using Whisper and LLMs (GPT, Claude, et,al). 使用whisper和LLM(GPT，Claude等)来转录、翻译你的音频为字幕文件。
- * [wrest-chat](https://github.com/opentdp/wrest-chat) - WeChat robot, PC WeChat Api/Bot/Sdk, built-in WEB management interface, can access large language models such as GPT, Gemini, Xinghuo, Wenxin, Hunyuan, Tongyi Qianwen, etc.
- * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - Own mobile ChatGPT/Gemini application.
+**Reimplementations**
+ * [kan-gpt](https://github.com/adityang/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
+ * [TextRL](https://github.com/voidful/textrl) - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)
 
 
-**Others**
- * [99AI](https://github.com/vastxie/99ai) - 99AI Stable Version: A commercially available AI Web application based on NineAI's secondary development (no authorization required, no backdoors, supports rapid deployment). Goal: ALL-IN-CHAT
+**NLP**
+ * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as r
+ * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - A library for mechanistic interpretability of GPT-style language models
 
 
-_Updated on May 09, 2024_ (A total of 1535 repositories listed.)
+**Langchain**
+ * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - Easily play with LLM compatible openai & langchain, supporting Wenxin Yiyuan, Xunfei Xinghuo, Tencent Hunyuan, Zhipu ChatGLM, etc.
+
+
+_Updated on May 12, 2024_ (A total of 1540 repositories listed.)
 
 ## Table of contents
 
@@ -747,6 +751,8 @@ _Updated on May 09, 2024_ (A total of 1535 repositories listed.)
  * [textgen](https://github.com/shibing624/textgen) - TextGen: Implementation of Text Generation models, include LLaMA, BLOOM, GPT2, BART, T5, SongNet and so on. 文本生成模型，实现了包括LLaMA，ChatGLM，BLOOM，GPT2，Seq2Seq，BART，T5，UDA等模型的训练和预测，开箱即用。
  * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT.
  * [langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework.
+ * [kan-gpt](https://github.com/adityang/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
+ * [TextRL](https://github.com/voidful/textrl) - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)
 
 
 ## Tutorials
@@ -996,6 +1002,8 @@ _Updated on May 09, 2024_ (A total of 1535 repositories listed.)
  * [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ChatGPT Universe is fleeting notes on ChatGPT, GPT, and large language models (LLMs)
  * [InternVL](https://github.com/opengvlab/internvl) - [CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V.  接近GPT-4V表现的可商用开源模型
  * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLM agents as (Optimizable) Graphs
+ * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as r
+ * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - A library for mechanistic interpretability of GPT-style language models
 
 
 ## Langchain
@@ -1086,6 +1094,7 @@ _Updated on May 09, 2024_ (A total of 1535 repositories listed.)
  * [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.
  * [llm-books](https://github.com/morsoli/llm-books) - Using LLM to build application practice notes
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+ * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - Easily play with LLM compatible openai & langchain, supporting Wenxin Yiyuan, Xunfei Xinghuo, Tencent Hunyuan, Zhipu ChatGLM, etc.
 
 
 ## Unity
