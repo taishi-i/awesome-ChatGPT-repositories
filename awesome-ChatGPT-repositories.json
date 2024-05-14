@@ -1574,6 +1574,20 @@
                     "zh-hans": "一个用于创建、监控、调试和部署自主人工智能代理的SDK、框架、库和工具数据库",
                     "zh-hant": "一個用於創建、監控、調試和部署自主人工智能代理的SDK、框架、庫和工具的數據庫"
                 }
+            },
+            "https://github.com/yzfly/awesome-claude-prompts": {
+                "repository_name": "awesome-claude-prompts",
+                "user_name": "yzfly",
+                "language": null,
+                "license": null,
+                "description": "Gitalk Comments",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Gitalk Comments",
+                    "ja": "Gitalk コメント",
+                    "zh-hans": "Gitalk 评论",
+                    "zh-hant": "Gitalk 評論"
+                }
             }
         },
         "Prompts": {
@@ -9008,6 +9022,40 @@
                     "ja": "モバイルプライベートChatGPTアプリケーション、GPT3、GPT4＆Gemini Proモデルをサポート。独自のモバイルChatGPT/Geminiアプリを持っています。",
                     "zh-hans": "移动私人 ChatGPT 应用，支持 GPT3、GPT4 和 Gemini Pro 模型。",
                     "zh-hant": "擁有自己的移動端 ChatGPT/Gemini 應用程式，支援 GPT3、GPT4 和 Gemini Pro 模型。"
+                }
+            },
+            "https://github.com/cs-lazy-tools/chatgpt-on-cs": {
+                "repository_name": "ChatGPT-On-CS",
+                "user_name": "cs-lazy-tools",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。",
+                "topics": [
+                    "ai",
+                    "autohotkey",
+                    "automation",
+                    "bilibili",
+                    "bot",
+                    "chatgpt",
+                    "chatgpt4",
+                    "customer",
+                    "dify",
+                    "douyin",
+                    "fastai",
+                    "lazaytools",
+                    "llm",
+                    "wechat",
+                    "wechat-bot",
+                    "wecom",
+                    "weibo",
+                    "xiaohongshu",
+                    "zhihu"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Intelligent chatbot tool based on large models, supports integration with platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), capable of processing text, voice, and images. Accesses operating systems and external resources through plugins, supports customization of enterprise AI applications based on proprietary knowledge base.",
+                    "ja": "大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理できます。プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスし、独自のナレッジベースに基づいて企業向けAIアプリケーションをカスタマイズできます。",
+                    "zh-hans": "基于大型模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱（后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。",
+                    "zh-hant": "基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。"
                 }
             }
         },
@@ -20851,6 +20899,31 @@
                     "ja": "GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ",
                     "zh-hans": "一种用于解释GPT风格语言模型机制的图书馆",
                     "zh-hant": "一個用於解釋GPT風格語言模型機制的圖書館"
+                }
+            },
+            "https://github.com/junhoyeo/betterocr": {
+                "repository_name": "BetterOCR",
+                "user_name": "junhoyeo",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "easyocr",
+                    "llm",
+                    "ocr",
+                    "openai",
+                    "openai-api",
+                    "tesseract",
+                    "tesseract-ocr"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.",
+                    "ja": "🔍 EasyOCR、Tesseract、およびPororoを🧠 LLMと組み合わせることで、より優れたテキスト検出が可能になります。",
+                    "zh-hans": "通过将多个OCR引擎（EasyOCR、Tesseract和Pororo）与🧠 LLM 结合，可以实现更好的文本检测。",
+                    "zh-hant": "通過將多個OCR引擎（EasyOCR、Tesseract和Pororo）與🧠 LLM結合，可以更好地檢測文本。"
                 }
             }
         },

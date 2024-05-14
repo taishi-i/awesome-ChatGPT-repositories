@@ -14,21 +14,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [kan-gpt](https://github.com/adityang/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
- * [TextRL](https://github.com/voidful/textrl) - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)
+**Awesome-lists**
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
+
+
+**Chatbots**
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 
 
 **NLP**
- * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.
- * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - A library for mechanistic interpretability of GPT-style language models
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
 
 
-**Langchain**
- * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等
-
-
-_Updated on May 12, 2024_ (A total of 1540 repositories listed.)
+_Updated on May 14, 2024_ (A total of 1543 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +107,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
  * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
 
 
 ## Prompts
@@ -441,6 +440,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [openlrc](https://github.com/zh-plus/openlrc) - Transcribe and translate voice into LRC file using Whisper and LLMs (GPT, Claude, et,al). 使用whisper和LLM(GPT，Claude等)来转录、翻译你的音频为字幕文件。
  * [wrest-chat](https://github.com/opentdp/wrest-chat) - 微信机器人，PC Wechat Api/Bot/Sdk，内置 WEB 管理界面，可接入GPT、Gemini 、星火、文心、混元 、通义千问等大语言模型
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - mobile private ChatGPT application, supporting GPT3, GPT4 & Gemini Pro models.  拥有自己的移动端 ChatGPT/Gemini 应用。
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 
 
 ## Browser-extensions
@@ -1004,6 +1004,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLM agents as (Optimizable) Graphs
  * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - A library for mechanistic interpretability of GPT-style language models
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
 
 
 ## Langchain
