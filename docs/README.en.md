@@ -14,21 +14,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [kan-gpt](https://github.com/adityang/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
- * [TextRL](https://github.com/voidful/textrl) - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)
+**Awesome-lists**
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
+
+
+**Chatbots**
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - Intelligent chatbot tool based on large models, supports integration with platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), capable of processing text, voice, and images. Accesses operating systems and external resources through plugins, supports customization of enterprise AI applications based on proprietary knowledge base.
 
 
 **NLP**
- * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as r
- * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - A library for mechanistic interpretability of GPT-style language models
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
 
 
-**Langchain**
- * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - Easily play with LLM compatible openai & langchain, supporting Wenxin Yiyuan, Xunfei Xinghuo, Tencent Hunyuan, Zhipu ChatGLM, etc.
-
-
-_Updated on May 12, 2024_ (A total of 1540 repositories listed.)
+_Updated on May 14, 2024_ (A total of 1543 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +107,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - A curated list of NLP resources focused on Transformer networks, attention mechanism, GPT, BERT, ChatGPT, LLMs, and transfer learning.
  * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
 
 
 ## Prompts
@@ -441,6 +440,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [openlrc](https://github.com/zh-plus/openlrc) - Transcribe and translate voice into LRC file using Whisper and LLMs (GPT, Claude, et,al). 使用whisper和LLM(GPT，Claude等)来转录、翻译你的音频为字幕文件。
  * [wrest-chat](https://github.com/opentdp/wrest-chat) - WeChat robot, PC WeChat Api/Bot/Sdk, built-in WEB management interface, can access large language models such as GPT, Gemini, Xinghuo, Wenxin, Hunyuan, Tongyi Qianwen, etc.
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - Own mobile ChatGPT/Gemini application.
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - Intelligent chatbot tool based on large models, supports integration with platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), capable of processing text, voice, and images. Accesses operating systems and external resources through plugins, supports customization of enterprise AI applications based on proprietary knowledge base.
 
 
 ## Browser-extensions
@@ -1004,6 +1004,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLM agents as (Optimizable) Graphs
  * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as r
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - A library for mechanistic interpretability of GPT-style language models
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
 
 
 ## Langchain

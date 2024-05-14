@@ -14,21 +14,19 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [kan-gpt](https://github.com/adityang/kan-gpt) - 使用 Kolmogorov-Arnold 网络 (KANs) 对生成式预训练变压器 (GPTs) 进行 PyTorch 实现，用于语言建模。
- * [TextRL](https://github.com/voidful/textrl) - 在huggingface的transformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）上实现ChatGPT RLHF（强化学习与人类反馈）。
+**Awesome-lists**
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk 评论
+
+
+**Chatbots**
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基于大型模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱（后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 
 
 **NLP**
- * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1：生产就绪的预训练时间序列基础模型，用于预测和异常检测。在超过100B数据点上训练的时间序列生成预训练变压器。它能够准确预测各种领域，如...
- * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - 一种用于解释GPT风格语言模型机制的图书馆
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通过将多个OCR引擎（EasyOCR、Tesseract和Pororo）与🧠 LLM 结合，可以实现更好的文本检测。
 
 
-**Langchain**
- * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等。
-
-
-_Updated on May 12, 2024_ (A total of 1540 repositories listed.)
+_Updated on May 14, 2024_ (A total of 1543 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +107,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - 一个精心筛选的自然语言处理资源列表，重点关注Transformer网络、注意力机制、GPT、BERT、ChatGPT、LLMs和迁移学习。
  * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - 这个存储库包括了克劳德提示的整理，以更好地使用克劳德。
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 一个用于创建、监控、调试和部署自主人工智能代理的SDK、框架、库和工具数据库
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk 评论
 
 
 ## Prompts
@@ -441,6 +440,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [openlrc](https://github.com/zh-plus/openlrc) - 使用whisper和LLM(GPT，Claude等)来将声音转录和翻译为LRC文件。
  * [wrest-chat](https://github.com/opentdp/wrest-chat) - 微信机器人，PC微信Api/Bot/Sdk，内置WEB管理界面，可接入GPT、Gemini、星火、文心、混元、通义千问等大语言模型
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - 移动私人 ChatGPT 应用，支持 GPT3、GPT4 和 Gemini Pro 模型。
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基于大型模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱（后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
 
 
 ## Browser-extensions
@@ -1004,6 +1004,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLM代理作为（可优化）图形
  * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1：生产就绪的预训练时间序列基础模型，用于预测和异常检测。在超过100B数据点上训练的时间序列生成预训练变压器。它能够准确预测各种领域，如...
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - 一种用于解释GPT风格语言模型机制的图书馆
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通过将多个OCR引擎（EasyOCR、Tesseract和Pororo）与🧠 LLM 结合，可以实现更好的文本检测。
 
 
 ## Langchain

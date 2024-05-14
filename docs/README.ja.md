@@ -14,21 +14,19 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [kan-gpt](https://github.com/adityang/kan-gpt) - 言語モデリングのためのKolmogorov-Arnold Networks（KANs）を使用したGenerative Pre-trained Transformers（GPTs）のPyTorch実装PyTorchによるGenerative Pre-trained Transformers（GPTs）のKolmogorov-Arnold Networks（KANs）を使用した言語モデリングの実装
- * [TextRL](https://github.com/voidful/textrl) - huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装
+**Awesome-lists**
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk コメント
+
+
+**Chatbots**
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理できます。プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスし、独自のナレッジベースに基づいて企業向けAIアプリケーションをカスタマイズできます。
 
 
 **NLP**
- * [nixtla](https://github.com/nixtla/nixtla) - Input: TimeGPT-1: 予測と異常検知のための本番向けの事前トレーニング済みの時系列基礎モデル。 100億以上のデータポイントでトレーニングされた時系列のための生成事前トレーニングトランスフォーマー。様々なドメインを正確に予測する能力を持っています。
- * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 EasyOCR、Tesseract、およびPororoを🧠 LLMと組み合わせることで、より優れたテキスト検出が可能になります。
 
 
-**Langchain**
- * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - LLMとopenai＆langchainを楽しく使いこなす、文心一言、讯飞星火、腾讯混元、智谱ChatGLMなどをサポートします。
-
-
-_Updated on May 12, 2024_ (A total of 1540 repositories listed.)
+_Updated on May 14, 2024_ (A total of 1543 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +107,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - Transformerネットワーク、注意機構、GPT、BERT、ChatGPT、LLMs、および転移学習に焦点を当てたNLPリソースの厳選リスト。
  * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - このリポジトリには、クロードをより効果的に使用するためのクロードプロンプトのキュレーションが含まれています。
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 自律型AIエージェントを作成、監視、デバッグ、展開するためのSDK、フレームワーク、ライブラリ、ツールのデータベース
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk コメント
 
 
 ## Prompts
@@ -441,6 +440,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [openlrc](https://github.com/zh-plus/openlrc) - WhisperとLLM（GPT、Claudeなど）を使用して、音声をLRCファイルに転写し、翻訳します。
  * [wrest-chat](https://github.com/opentdp/wrest-chat) - WeChatボット、PC WeChat API/Bot/SDK、組み込みのWEB管理インターフェース、GPT、Gemini、星火、文心、混元、通義千問などの大規模言語モデルに接続可能
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - モバイルプライベートChatGPTアプリケーション、GPT3、GPT4＆Gemini Proモデルをサポート。独自のモバイルChatGPT/Geminiアプリを持っています。
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理できます。プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスし、独自のナレッジベースに基づいて企業向けAIアプリケーションをカスタマイズできます。
 
 
 ## Browser-extensions
@@ -1004,6 +1004,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm: LLMエージェントを（最適化可能な）グラフとして
  * [nixtla](https://github.com/nixtla/nixtla) - Input: TimeGPT-1: 予測と異常検知のための本番向けの事前トレーニング済みの時系列基礎モデル。 100億以上のデータポイントでトレーニングされた時系列のための生成事前トレーニングトランスフォーマー。様々なドメインを正確に予測する能力を持っています。
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 EasyOCR、Tesseract、およびPororoを🧠 LLMと組み合わせることで、より優れたテキスト検出が可能になります。
 
 
 ## Langchain

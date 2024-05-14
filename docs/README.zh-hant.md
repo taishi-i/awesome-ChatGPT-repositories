@@ -14,21 +14,19 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [kan-gpt](https://github.com/adityang/kan-gpt) - 使用 Kolmogorov-Arnold 網絡 (KANs) 實現的 PyTorch 生成式預訓練變換器 (GPTs) 用於語言建模
- * [TextRL](https://github.com/voidful/textrl) - 在huggingface的transformer上實現ChatGPT RLHF（Reinforcement Learning with Human Feedback）在任何生成模型上的應用（blommz-176B/bloom/gpt/bart/T5/MetaICL）
+**Awesome-lists**
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk 評論
+
+
+**Chatbots**
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
 
 
 **NLP**
- * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1：生產就緒的預先訓練時間序列基礎模型，用於預測和異常檢測。在超過100B數據點上訓練的時間序列生成預訓練變壓器。它能夠準確預測各種領域，如r
- * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - 一個用於解釋GPT風格語言模型機制的圖書館
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通過將多個OCR引擎（EasyOCR、Tesseract和Pororo）與🧠 LLM結合，可以更好地檢測文本。
 
 
-**Langchain**
- * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 輕鬆玩轉LLM兼容openai&langchain，支持文心一言、訊飛星火、騰訊混元、智譜ChatGLM等。
-
-
-_Updated on May 12, 2024_ (A total of 1540 repositories listed.)
+_Updated on May 14, 2024_ (A total of 1543 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +107,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [awesome-transformer-nlp](https://github.com/cedrickchee/awesome-transformer-nlp) - 一個精心挑選的自然語言處理資源列表，專注於Transformer網絡、注意機制、GPT、BERT、ChatGPT、LLMs和遷移學習。
  * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - 這個存儲庫包括了克勞德提示的整理，以更好地使用克勞德。
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 一個用於創建、監控、調試和部署自主人工智能代理的SDK、框架、庫和工具的數據庫
+ * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk 評論
 
 
 ## Prompts
@@ -441,6 +440,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [openlrc](https://github.com/zh-plus/openlrc) - 使用Whisper和LLM（GPT，Claude等）來轉錄、翻譯你的音頻為字幕文件。
  * [wrest-chat](https://github.com/opentdp/wrest-chat) - 微信機器人，PC Wechat Api/Bot/Sdk，內置 WEB 管理界面，可接入GPT、Gemini 、星火、文心、混元 、通義千問等大語言模型
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - 擁有自己的移動端 ChatGPT/Gemini 應用程式，支援 GPT3、GPT4 和 Gemini Pro 模型。
+ * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
 
 
 ## Browser-extensions
@@ -1004,6 +1004,7 @@ _Updated on May 12, 2024_ (A total of 1540 repositories listed.)
  * [GPTSwarm](https://github.com/metauto-ai/gptswarm) - 🐝 GPTSwarm：LLM代理作為（可優化）圖形
  * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1：生產就緒的預先訓練時間序列基礎模型，用於預測和異常檢測。在超過100B數據點上訓練的時間序列生成預訓練變壓器。它能夠準確預測各種領域，如r
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - 一個用於解釋GPT風格語言模型機制的圖書館
+ * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通過將多個OCR引擎（EasyOCR、Tesseract和Pororo）與🧠 LLM結合，可以更好地檢測文本。
 
 
 ## Langchain
