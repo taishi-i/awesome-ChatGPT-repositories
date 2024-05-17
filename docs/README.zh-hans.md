@@ -15,18 +15,19 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk 评论
+ * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文语料库 包括对话、小说和客服语料，用于训练大型模型。
 
 
-**Chatbots**
- * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基于大型模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱（后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+**CLIs**
+ * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - 这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。
 
 
-**NLP**
- * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通过将多个OCR引擎（EasyOCR、Tesseract和Pororo）与🧠 LLM 结合，可以实现更好的文本检测。
+**Openai**
+ * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI 代码审查员：通过使用 AI 强化您的 GitHub 工作流程！使用 OpenAI 的 GPT-4 API 在拉取请求上获得智能反馈和建议，提高代码质量，节省开发人员的时间。
+ * [yomo](https://github.com/yomorun/yomo) - 🦖 用于构建地理分布式边缘人工智能基础设施的有状态无服务器框架
 
 
-_Updated on May 14, 2024_ (A total of 1543 repositories listed.)
+_Updated on May 17, 2024_ (A total of 1547 repositories listed.)
 
 ## Table of contents
 
@@ -108,6 +109,7 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - 这个存储库包括了克劳德提示的整理，以更好地使用克劳德。
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 一个用于创建、监控、调试和部署自主人工智能代理的SDK、框架、库和工具数据库
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk 评论
+ * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文语料库 包括对话、小说和客服语料，用于训练大型模型。
 
 
 ## Prompts
@@ -720,6 +722,7 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [Gemini](https://github.com/kyegomez/gemini) - 谷歌将“超越ChatGPT”的Gemini模型的开源实现
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频。
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - 这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。
+ * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - 这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。
 
 
 ## Reimplementations
@@ -1270,6 +1273,8 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro是一个先进的应用程序，结合了ChatGPT和DALL.E的强大功能。
  * [AI-Functions](https://github.com/torantulino/ai-functions) - AI 功能魔法：使用 GPT 模型再也不需要编码了！
  * [chat2api](https://github.com/lanqian528/chat2api) - 一个可以将网络上的ChatGPT转换为OpenAI API格式的服务。
+ * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI 代码审查员：通过使用 AI 强化您的 GitHub 工作流程！使用 OpenAI 的 GPT-4 API 在拉取请求上获得智能反馈和建议，提高代码质量，节省开发人员的时间。
+ * [yomo](https://github.com/yomorun/yomo) - 🦖 用于构建地理分布式边缘人工智能基础设施的有状态无服务器框架
 
 
 ## Others
