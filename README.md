@@ -15,18 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
+ * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文语料库 对话语料 小说语料 客服语料 用于训练大模型
 
 
-**Chatbots**
- * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+**CLIs**
+ * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
 
 
-**NLP**
- * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
+**Openai**
+ * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.
+ * [yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
 
 
-_Updated on May 14, 2024_ (A total of 1543 repositories listed.)
+_Updated on May 17, 2024_ (A total of 1547 repositories listed.)
 
 ## Table of contents
 
@@ -108,6 +109,7 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
+ * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文语料库 对话语料 小说语料 客服语料 用于训练大模型
 
 
 ## Prompts
@@ -720,6 +722,7 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [Gemini](https://github.com/kyegomez/gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
+ * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
 
 
 ## Reimplementations
@@ -1270,6 +1273,8 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
  * [AI-Functions](https://github.com/torantulino/ai-functions) - AI-Powered Function Magic: Never code again with GPT models!
  * [chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+ * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.
+ * [yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
 
 
 ## Others

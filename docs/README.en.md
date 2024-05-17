@@ -15,18 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
+ * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - Input: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large modelsOutput: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large models
 
 
-**Chatbots**
- * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - Intelligent chatbot tool based on large models, supports integration with platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), capable of processing text, voice, and images. Accesses operating systems and external resources through plugins, supports customization of enterprise AI applications based on proprietary knowledge base.
+**CLIs**
+ * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
 
 
-**NLP**
- * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
+**Openai**
+ * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.
+ * [yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
 
 
-_Updated on May 14, 2024_ (A total of 1543 repositories listed.)
+_Updated on May 17, 2024_ (A total of 1547 repositories listed.)
 
 ## Table of contents
 
@@ -108,6 +109,7 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
+ * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - Input: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large modelsOutput: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large models
 
 
 ## Prompts
@@ -720,6 +722,7 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [Gemini](https://github.com/kyegomez/gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
+ * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
 
 
 ## Reimplementations
@@ -1270,6 +1273,8 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DALL.E.
  * [AI-Functions](https://github.com/torantulino/ai-functions) - AI-Powered Function Magic: Never code again with GPT models!
  * [chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
+ * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.
+ * [yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
 
 
 ## Others

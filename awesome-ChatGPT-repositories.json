@@ -1588,6 +1588,25 @@
                     "zh-hans": "Gitalk 评论",
                     "zh-hant": "Gitalk 評論"
                 }
+            },
+            "https://github.com/plexpt/chatgpt-corpus": {
+                "repository_name": "chatgpt-corpus",
+                "user_name": "PlexPt",
+                "language": null,
+                "license": "GNU General Public License v3.0",
+                "description": "ChatGPT 中文语料库 对话语料 小说语料 客服语料 用于训练大模型",
+                "topics": [
+                    "awesome",
+                    "corpus",
+                    "corpus-data",
+                    "question-answering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large modelsOutput: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large models",
+                    "ja": "ChatGPT 中文コーパス ダイアログコーパス 小説コーパス カスタマーサポートコーパス 大規模モデルのトレーニングに使用",
+                    "zh-hans": "ChatGPT 中文语料库 包括对话、小说和客服语料，用于训练大型模型。",
+                    "zh-hant": "ChatGPT 中文語料庫 對話語料 小說語料 客服語料 用於訓練大模型"
+                }
             }
         },
         "Prompts": {
@@ -15120,6 +15139,20 @@
                     "zh-hans": "这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。",
                     "zh-hant": "這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。"
                 }
+            },
+            "https://github.com/marcusgoncalvess/zap-gpt-free": {
+                "repository_name": "zap-gpt-free",
+                "user_name": "marcusGoncalvess",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.",
+                    "ja": "このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、さまざまなタスクを実行できる仮想アシスタントに変えることを目指しています。会話に人間味を持たせる要素も取り入れています。",
+                    "zh-hans": "这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。",
+                    "zh-hant": "這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。"
+                }
             }
         },
         "Reimplementations": {
@@ -26587,6 +26620,55 @@
                     "ja": "Web上のChatGPTをOpenAI API形式に変換できるサービス。",
                     "zh-hans": "一个可以将网络上的ChatGPT转换为OpenAI API格式的服务。",
                     "zh-hant": "一項可以將網絡上的ChatGPT轉換為OpenAI API格式的服務。"
+                }
+            },
+            "https://github.com/freeedcom/ai-codereviewer": {
+                "repository_name": "ai-codereviewer",
+                "user_name": "freeedcom",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.",
+                "topics": [
+                    "ai",
+                    "code-review",
+                    "github-actions",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.",
+                    "ja": "AIコードレビュアー：AIパワードのコードレビューでGitHubのワークフローを強化しましょう！OpenAIのGPT-4 APIを使用してプルリクエストに対して知的なフィードバックや提案を受け取り、コードの品質を向上させ開発者の時間を節約します。",
+                    "zh-hans": "AI 代码审查员：通过使用 AI 强化您的 GitHub 工作流程！使用 OpenAI 的 GPT-4 API 在拉取请求上获得智能反馈和建议，提高代码质量，节省开发人员的时间。",
+                    "zh-hant": "AI 代碼審查員：通過 AI 強化您的 GitHub 工作流程，透過 OpenAI 的 GPT-4 API 在拉取請求上獲得智能反饋和建議，提高代碼質量，節省開發人員的時間。"
+                }
+            },
+            "https://github.com/yomorun/yomo": {
+                "repository_name": "yomo",
+                "user_name": "yomorun",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra",
+                "topics": [
+                    "chatgpt",
+                    "distributed-cloud",
+                    "edge-computing",
+                    "function-calling",
+                    "gemini",
+                    "geodistributedsystems",
+                    "gpt-4o",
+                    "low-latency",
+                    "openai",
+                    "quic",
+                    "realtime",
+                    "serverless",
+                    "stream-processing",
+                    "webassembly",
+                    "yomo"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra",
+                    "ja": "🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク",
+                    "zh-hans": "🦖 用于构建地理分布式边缘人工智能基础设施的有状态无服务器框架",
+                    "zh-hant": "🦖 用於構建地理分佈式邊緣人工智能基礎設施的有狀態無服務器框架"
                 }
             }
         },

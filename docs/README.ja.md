@@ -15,18 +15,19 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk コメント
+ * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文コーパス ダイアログコーパス 小説コーパス カスタマーサポートコーパス 大規模モデルのトレーニングに使用
 
 
-**Chatbots**
- * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理できます。プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスし、独自のナレッジベースに基づいて企業向けAIアプリケーションをカスタマイズできます。
+**CLIs**
+ * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、さまざまなタスクを実行できる仮想アシスタントに変えることを目指しています。会話に人間味を持たせる要素も取り入れています。
 
 
-**NLP**
- * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 EasyOCR、Tesseract、およびPororoを🧠 LLMと組み合わせることで、より優れたテキスト検出が可能になります。
+**Openai**
+ * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AIコードレビュアー：AIパワードのコードレビューでGitHubのワークフローを強化しましょう！OpenAIのGPT-4 APIを使用してプルリクエストに対して知的なフィードバックや提案を受け取り、コードの品質を向上させ開発者の時間を節約します。
+ * [yomo](https://github.com/yomorun/yomo) - 🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク
 
 
-_Updated on May 14, 2024_ (A total of 1543 repositories listed.)
+_Updated on May 17, 2024_ (A total of 1547 repositories listed.)
 
 ## Table of contents
 
@@ -108,6 +109,7 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - このリポジトリには、クロードをより効果的に使用するためのクロードプロンプトのキュレーションが含まれています。
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 自律型AIエージェントを作成、監視、デバッグ、展開するためのSDK、フレームワーク、ライブラリ、ツールのデータベース
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk コメント
+ * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文コーパス ダイアログコーパス 小説コーパス カスタマーサポートコーパス 大規模モデルのトレーニングに使用
 
 
 ## Prompts
@@ -720,6 +722,7 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [Gemini](https://github.com/kyegomez/gemini) - Googleによって「ChatGPTを凌駕する」モデルとして開発されたGeminiのオープンソース実装
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - AI LLMを使用して、ワンクリックで高品質なショートビデオを生成します。
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、会話に人間味を持たせる仮想アシスタントに変えることができる能力を持つようにします。
+ * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、さまざまなタスクを実行できる仮想アシスタントに変えることを目指しています。会話に人間味を持たせる要素も取り入れています。
 
 
 ## Reimplementations
@@ -1270,6 +1273,8 @@ _Updated on May 14, 2024_ (A total of 1543 repositories listed.)
  * [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ChatGPT-Proは、ChatGPTとDALL.Eのパワーを組み合わせた高度なアプリケーションです。
  * [AI-Functions](https://github.com/torantulino/ai-functions) - AIパワード機能マジック：GPTモデルを使用して再びコードを書く必要はありません！
  * [chat2api](https://github.com/lanqian528/chat2api) - Web上のChatGPTをOpenAI API形式に変換できるサービス。
+ * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AIコードレビュアー：AIパワードのコードレビューでGitHubのワークフローを強化しましょう！OpenAIのGPT-4 APIを使用してプルリクエストに対して知的なフィードバックや提案を受け取り、コードの品質を向上させ開発者の時間を節約します。
+ * [yomo](https://github.com/yomorun/yomo) - 🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク
 
 
 ## Others
