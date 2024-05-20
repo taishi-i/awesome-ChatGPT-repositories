@@ -14,20 +14,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文语料库 包括对话、小说和客服语料，用于训练大型模型。
+**Prompts**
+ * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): 适用于Windows、macOS和Android的首选AI集成工具。只需询问一次，即可从ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多个AI中获取答案。具有可定制的AI和提示功能。
 
 
-**CLIs**
- * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - 这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。
+**Chatbots**
+ * [MOSS](https://github.com/openmoss/moss) - 一个来自复旦大学的开源工具增强对话语言模型
+
+
+**NLP**
+ * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 使用表格数据制作具有聊天界面的上下文数据可视化。人工智能数据可视化。
+
+
+**Langchain**
+ * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：您手机上的GPT-4V级MLLM
 
 
 **Openai**
- * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI 代码审查员：通过使用 AI 强化您的 GitHub 工作流程！使用 OpenAI 的 GPT-4 API 在拉取请求上获得智能反馈和建议，提高代码质量，节省开发人员的时间。
- * [yomo](https://github.com/yomorun/yomo) - 🦖 用于构建地理分布式边缘人工智能基础设施的有状态无服务器框架
+ * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - 这个项目是一个Python脚本，从Gumroad网站上爬取数据，使用OpenAI的GPT-4模型生成一个色彩丰富、设计精美的HTML页面，并部署生成的页面到Vercel。
 
 
-_Updated on May 17, 2024_ (A total of 1547 repositories listed.)
+_Updated on May 21, 2024_ (A total of 1552 repositories listed.)
 
 ## Table of contents
 
@@ -229,6 +236,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE 是一个用于构建您的 AI 代理的工具，无论是游戏中的 NPC 还是强大的代理工具，您都可以在这个平台上设计您想要的内容。
  * [contoso-chat](https://github.com/azure-samples/contoso-chat) - 这个样本包含了使用Prompt Flow和AI Studio创建RAG应用程序的完整End2End流程。它包括GPT 3.5 Turbo LLM应用程序代码、评估、使用AZD CLI进行部署自动化、GitHub操作进行评估和部署以及意图管理。
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT语言，结构化Prompt
+ * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): 适用于Windows、macOS和Android的首选AI集成工具。只需询问一次，即可从ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多个AI中获取答案。具有可定制的AI和提示功能。
 
 
 ## Chatbots
@@ -443,6 +451,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [wrest-chat](https://github.com/opentdp/wrest-chat) - 微信机器人，PC微信Api/Bot/Sdk，内置WEB管理界面，可接入GPT、Gemini、星火、文心、混元、通义千问等大语言模型
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - 移动私人 ChatGPT 应用，支持 GPT3、GPT4 和 Gemini Pro 模型。
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基于大型模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱（后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。
+ * [MOSS](https://github.com/openmoss/moss) - 一个来自复旦大学的开源工具增强对话语言模型
 
 
 ## Browser-extensions
@@ -1008,6 +1017,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1：生产就绪的预训练时间序列基础模型，用于预测和异常检测。在超过100B数据点上训练的时间序列生成预训练变压器。它能够准确预测各种领域，如...
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - 一种用于解释GPT风格语言模型机制的图书馆
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通过将多个OCR引擎（EasyOCR、Tesseract和Pororo）与🧠 LLM 结合，可以实现更好的文本检测。
+ * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 使用表格数据制作具有聊天界面的上下文数据可视化。人工智能数据可视化。
 
 
 ## Langchain
@@ -1099,6 +1109,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [llm-books](https://github.com/morsoli/llm-books) - 利用LLM构建应用实践笔记
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow是一个动态图，其中每个节点都是可执行单元。其模块化和交互式设计促进了快速实验和原型设计，大力挑战创造力的极限。
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等。
+ * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：您手机上的GPT-4V级MLLM
 
 
 ## Unity
@@ -1275,6 +1286,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [chat2api](https://github.com/lanqian528/chat2api) - 一个可以将网络上的ChatGPT转换为OpenAI API格式的服务。
  * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI 代码审查员：通过使用 AI 强化您的 GitHub 工作流程！使用 OpenAI 的 GPT-4 API 在拉取请求上获得智能反馈和建议，提高代码质量，节省开发人员的时间。
  * [yomo](https://github.com/yomorun/yomo) - 🦖 用于构建地理分布式边缘人工智能基础设施的有状态无服务器框架
+ * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - 这个项目是一个Python脚本，从Gumroad网站上爬取数据，使用OpenAI的GPT-4模型生成一个色彩丰富、设计精美的HTML页面，并部署生成的页面到Vercel。
 
 
 ## Others

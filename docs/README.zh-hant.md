@@ -14,20 +14,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文語料庫 對話語料 小說語料 客服語料 用於訓練大模型
+**Prompts**
+ * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): 專為Windows、macOS和Android設計的頂級AI整合工具。只需問一次，即可從ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多個AI獲得答案。具有可定制的AI和提示功能。
 
 
-**CLIs**
- * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - 這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。
+**Chatbots**
+ * [MOSS](https://github.com/openmoss/moss) - 一個來自復旦大學的開源工具增強對話式語言模型
+
+
+**NLP**
+ * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 使用表格數據製作具有聊天界面的上下文數據可視化。人工智能數據可視化。
+
+
+**Langchain**
+ * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：在您的手机上使用的GPT-4V级MLLM
 
 
 **Openai**
- * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI 代碼審查員：通過 AI 強化您的 GitHub 工作流程，透過 OpenAI 的 GPT-4 API 在拉取請求上獲得智能反饋和建議，提高代碼質量，節省開發人員的時間。
- * [yomo](https://github.com/yomorun/yomo) - 🦖 用於構建地理分佈式邊緣人工智能基礎設施的有狀態無服務器框架
+ * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - 這個項目是一個使用Python腳本從Gumroad網站爬取數據，並使用OpenAI的GPT-4模型生成一個色彩豐富且設計精美的HTML頁面，然後部署生成的頁面到Vercel。
 
 
-_Updated on May 17, 2024_ (A total of 1547 repositories listed.)
+_Updated on May 21, 2024_ (A total of 1552 repositories listed.)
 
 ## Table of contents
 
@@ -229,6 +236,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE 是一個用於建立您的 AI 代理的工具，無論是遊戲中的 NPC 還是強大的代理工具，您都可以在這個平台上設計您想要的內容。
  * [contoso-chat](https://github.com/azure-samples/contoso-chat) - 這個範例包含了使用Prompt Flow和AI Studio創建RAG應用程序的完整End2End過程。它包括了GPT 3.5 Turbo LLM應用程序代碼、評估、使用AZD CLI進行部署自動化、GitHub操作進行評估和部署，以及意圖管理。
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT：讓每個人都成為提示專家！🚀 結構化提示，GPT的語言，結構化提示詞，結構化Prompt
+ * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): 專為Windows、macOS和Android設計的頂級AI整合工具。只需問一次，即可從ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多個AI獲得答案。具有可定制的AI和提示功能。
 
 
 ## Chatbots
@@ -443,6 +451,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [wrest-chat](https://github.com/opentdp/wrest-chat) - 微信機器人，PC Wechat Api/Bot/Sdk，內置 WEB 管理界面，可接入GPT、Gemini 、星火、文心、混元 、通義千問等大語言模型
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - 擁有自己的移動端 ChatGPT/Gemini 應用程式，支援 GPT3、GPT4 和 Gemini Pro 模型。
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
+ * [MOSS](https://github.com/openmoss/moss) - 一個來自復旦大學的開源工具增強對話式語言模型
 
 
 ## Browser-extensions
@@ -1008,6 +1017,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1：生產就緒的預先訓練時間序列基礎模型，用於預測和異常檢測。在超過100B數據點上訓練的時間序列生成預訓練變壓器。它能夠準確預測各種領域，如r
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - 一個用於解釋GPT風格語言模型機制的圖書館
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通過將多個OCR引擎（EasyOCR、Tesseract和Pororo）與🧠 LLM結合，可以更好地檢測文本。
+ * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 使用表格數據製作具有聊天界面的上下文數據可視化。人工智能數據可視化。
 
 
 ## Langchain
@@ -1099,6 +1109,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [llm-books](https://github.com/morsoli/llm-books) - 利用LLM構建應用實踐筆記
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow 是一個動態圖，其中每個節點都是可執行的單元。其模塊化和互動設計促進了快速實驗和原型設計，大大挑戰了創造力的極限。
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 輕鬆玩轉LLM兼容openai&langchain，支持文心一言、訊飛星火、騰訊混元、智譜ChatGLM等。
+ * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：在您的手机上使用的GPT-4V级MLLM
 
 
 ## Unity
@@ -1275,6 +1286,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [chat2api](https://github.com/lanqian528/chat2api) - 一項可以將網絡上的ChatGPT轉換為OpenAI API格式的服務。
  * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI 代碼審查員：通過 AI 強化您的 GitHub 工作流程，透過 OpenAI 的 GPT-4 API 在拉取請求上獲得智能反饋和建議，提高代碼質量，節省開發人員的時間。
  * [yomo](https://github.com/yomorun/yomo) - 🦖 用於構建地理分佈式邊緣人工智能基礎設施的有狀態無服務器框架
+ * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - 這個項目是一個使用Python腳本從Gumroad網站爬取數據，並使用OpenAI的GPT-4模型生成一個色彩豐富且設計精美的HTML頁面，然後部署生成的頁面到Vercel。
 
 
 ## Others

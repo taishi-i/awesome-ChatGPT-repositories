@@ -4149,6 +4149,40 @@
                     "zh-hans": "LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT语言，结构化Prompt",
                     "zh-hant": "LangGPT：讓每個人都成為提示專家！🚀 結構化提示，GPT的語言，結構化提示詞，結構化Prompt"
                 }
+            },
+            "https://github.com/win4r/aisuperdomain": {
+                "repository_name": "AISuperDomain",
+                "user_name": "win4r",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.",
+                "topics": [
+                    "autogpt",
+                    "autogpt-no-paid-api",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "chatgpt-bot",
+                    "chatgpt-plugins",
+                    "chatgpt4",
+                    "claude",
+                    "claude3",
+                    "freegpt",
+                    "gemini",
+                    "gpt-5",
+                    "gpt5",
+                    "llama2",
+                    "openai",
+                    "openai-api",
+                    "stable",
+                    "stable-diffusion",
+                    "stable-diffusion-webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.",
+                    "ja": "Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。",
+                    "zh-hans": "Aila(AI超元域): 适用于Windows、macOS和Android的首选AI集成工具。只需询问一次，即可从ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多个AI中获取答案。具有可定制的AI和提示功能。",
+                    "zh-hant": "Aila(AI超元域): 專為Windows、macOS和Android設計的頂級AI整合工具。只需問一次，即可從ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多個AI獲得答案。具有可定制的AI和提示功能。"
+                }
             }
         },
         "Chatbots": {
@@ -9075,6 +9109,27 @@
                     "ja": "大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理できます。プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスし、独自のナレッジベースに基づいて企業向けAIアプリケーションをカスタマイズできます。",
                     "zh-hans": "基于大型模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱（后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。",
                     "zh-hant": "基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。"
+                }
+            },
+            "https://github.com/openmoss/moss": {
+                "repository_name": "MOSS",
+                "user_name": "OpenMOSS",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "An open-source tool-augmented conversational language model from Fudan University",
+                "topics": [
+                    "chatgpt",
+                    "deep-learning",
+                    "dialogue-systems",
+                    "large-language-models",
+                    "natural-language-processing",
+                    "text-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open-source tool-augmented conversational language model from Fudan University",
+                    "ja": "復旦大学からのオープンソースツールによる会話言語モデル復旦大学からのオープンソースツールによる会話言語モデル",
+                    "zh-hans": "一个来自复旦大学的开源工具增强对话语言模型",
+                    "zh-hant": "一個來自復旦大學的開源工具增強對話式語言模型"
                 }
             }
         },
@@ -20958,6 +21013,32 @@
                     "zh-hans": "通过将多个OCR引擎（EasyOCR、Tesseract和Pororo）与🧠 LLM 结合，可以实现更好的文本检测。",
                     "zh-hant": "通過將多個OCR引擎（EasyOCR、Tesseract和Pororo）與🧠 LLM結合，可以更好地檢測文本。"
                 }
+            },
+            "https://github.com/observedobserver/viz-gpt": {
+                "repository_name": "viz-gpt",
+                "user_name": "ObservedObserver",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization.",
+                "topics": [
+                    "ai-data-visualisation",
+                    "chart",
+                    "chart-gpt",
+                    "chartgpt",
+                    "chat2vis",
+                    "chatgpt",
+                    "gpt",
+                    "text2vis",
+                    "vega-lite",
+                    "visualization",
+                    "visualization-gpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization.",
+                    "ja": "表形式のデータセットからコンテキストデータの視覚化をチャットインターフェースで行う。AIデータの視覚化。",
+                    "zh-hans": "使用表格数据制作具有聊天界面的上下文数据可视化。人工智能数据可视化。",
+                    "zh-hant": "使用表格數據製作具有聊天界面的上下文數據可視化。人工智能數據可視化。"
+                }
             }
         },
         "Langchain": {
@@ -23002,6 +23083,20 @@
                     "ja": "LLMとopenai＆langchainを楽しく使いこなす、文心一言、讯飞星火、腾讯混元、智谱ChatGLMなどをサポートします。",
                     "zh-hans": "轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等。",
                     "zh-hant": "輕鬆玩轉LLM兼容openai&langchain，支持文心一言、訊飛星火、騰訊混元、智譜ChatGLM等。"
+                }
+            },
+            "https://github.com/openbmb/minicpm-v": {
+                "repository_name": "MiniCPM-V",
+                "user_name": "OpenBMB",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone",
+                    "ja": "MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM",
+                    "zh-hans": "MiniCPM-Llama3-V 2.5：您手机上的GPT-4V级MLLM",
+                    "zh-hant": "MiniCPM-Llama3-V 2.5：在您的手机上使用的GPT-4V级MLLM"
                 }
             }
         },
@@ -26669,6 +26764,20 @@
                     "ja": "🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク",
                     "zh-hans": "🦖 用于构建地理分布式边缘人工智能基础设施的有状态无服务器框架",
                     "zh-hant": "🦖 用於構建地理分佈式邊緣人工智能基礎設施的有狀態無服務器框架"
+                }
+            },
+            "https://github.com/peterw/gumroad-landing-page-generator": {
+                "repository_name": "Gumroad-Landing-Page-Generator",
+                "user_name": "peterw",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.",
+                    "ja": "このプロジェクトは、Pythonスクリプトを使用してGumroadサイトからデータをスクレイピングし、OpenAIのGPT-4モデルを使用してカラフルでデザインされたHTMLページを生成し、生成されたページをVercelにデプロイします。",
+                    "zh-hans": "这个项目是一个Python脚本，从Gumroad网站上爬取数据，使用OpenAI的GPT-4模型生成一个色彩丰富、设计精美的HTML页面，并部署生成的页面到Vercel。",
+                    "zh-hant": "這個項目是一個使用Python腳本從Gumroad網站爬取數據，並使用OpenAI的GPT-4模型生成一個色彩豐富且設計精美的HTML頁面，然後部署生成的頁面到Vercel。"
                 }
             }
         },
