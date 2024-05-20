@@ -14,20 +14,27 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - Input: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large modelsOutput: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large models
+**Prompts**
+ * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.
 
 
-**CLIs**
- * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
+**Chatbots**
+ * [MOSS](https://github.com/openmoss/moss) - An open-source tool-augmented conversational language model from Fudan University
+
+
+**NLP**
+ * [viz-gpt](https://github.com/observedobserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization.
+
+
+**Langchain**
+ * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone
 
 
 **Openai**
- * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.
- * [yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
+ * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
 
 
-_Updated on May 17, 2024_ (A total of 1547 repositories listed.)
+_Updated on May 21, 2024_ (A total of 1552 repositories listed.)
 
 ## Table of contents
 
@@ -229,6 +236,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDE is an tools for building your ai agent, Whether it's NPCs in games or powerful agent tools, you can design what you want for this platform.
  * [contoso-chat](https://github.com/azure-samples/contoso-chat) - This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent ma
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+ * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.
 
 
 ## Chatbots
@@ -443,6 +451,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [wrest-chat](https://github.com/opentdp/wrest-chat) - WeChat robot, PC WeChat Api/Bot/Sdk, built-in WEB management interface, can access large language models such as GPT, Gemini, Xinghuo, Wenxin, Hunyuan, Tongyi Qianwen, etc.
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - Own mobile ChatGPT/Gemini application.
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - Intelligent chatbot tool based on large models, supports integration with platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), capable of processing text, voice, and images. Accesses operating systems and external resources through plugins, supports customization of enterprise AI applications based on proprietary knowledge base.
+ * [MOSS](https://github.com/openmoss/moss) - An open-source tool-augmented conversational language model from Fudan University
 
 
 ## Browser-extensions
@@ -1008,6 +1017,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [nixtla](https://github.com/nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model  for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as r
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - A library for mechanistic interpretability of GPT-style language models
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
+ * [viz-gpt](https://github.com/observedobserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization.
 
 
 ## Langchain
@@ -1099,6 +1109,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [llm-books](https://github.com/morsoli/llm-books) - Using LLM to build application practice notes
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - Easily play with LLM compatible openai & langchain, supporting Wenxin Yiyuan, Xunfei Xinghuo, Tencent Hunyuan, Zhipu ChatGLM, etc.
+ * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone
 
 
 ## Unity
@@ -1275,6 +1286,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [chat2api](https://github.com/lanqian528/chat2api) - A service that can convert ChatGPT on the web to OpenAI API format.
  * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.
  * [yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
+ * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
 
 
 ## Others

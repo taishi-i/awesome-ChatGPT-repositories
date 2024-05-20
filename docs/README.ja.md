@@ -14,20 +14,27 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文コーパス ダイアログコーパス 小説コーパス カスタマーサポートコーパス 大規模モデルのトレーニングに使用
+**Prompts**
+ * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。
 
 
-**CLIs**
- * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、さまざまなタスクを実行できる仮想アシスタントに変えることを目指しています。会話に人間味を持たせる要素も取り入れています。
+**Chatbots**
+ * [MOSS](https://github.com/openmoss/moss) - 復旦大学からのオープンソースツールによる会話言語モデル復旦大学からのオープンソースツールによる会話言語モデル
+
+
+**NLP**
+ * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 表形式のデータセットからコンテキストデータの視覚化をチャットインターフェースで行う。AIデータの視覚化。
+
+
+**Langchain**
+ * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM
 
 
 **Openai**
- * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AIコードレビュアー：AIパワードのコードレビューでGitHubのワークフローを強化しましょう！OpenAIのGPT-4 APIを使用してプルリクエストに対して知的なフィードバックや提案を受け取り、コードの品質を向上させ開発者の時間を節約します。
- * [yomo](https://github.com/yomorun/yomo) - 🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク
+ * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - このプロジェクトは、Pythonスクリプトを使用してGumroadサイトからデータをスクレイピングし、OpenAIのGPT-4モデルを使用してカラフルでデザインされたHTMLページを生成し、生成されたページをVercelにデプロイします。
 
 
-_Updated on May 17, 2024_ (A total of 1547 repositories listed.)
+_Updated on May 21, 2024_ (A total of 1552 repositories listed.)
 
 ## Table of contents
 
@@ -229,6 +236,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [chatdev](https://github.com/10cl/chatdev) - ChatDev IDEは、あなたのAIエージェントを構築するためのツールです。ゲーム内のNPCや強力なエージェントツールなど、このプラットフォームで自分が望むものをデザインすることができます。
  * [contoso-chat](https://github.com/azure-samples/contoso-chat) - このサンプルには、Prompt FlowとAI Studioを使用してRAGアプリケーションを作成するEnd2Endプロセスが含まれています。GPT 3.5 Turbo LLMアプリケーションコード、評価、AZD CLIによる展開自動化、評価と展開のためのGitHubアクション、意図マのすべてが含まれています。
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT: すべての人が迅速な専門家になるための力を与える！🚀 構造化されたプロンプト、GPTの言語、構造化されたプロンプト
+ * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。
 
 
 ## Chatbots
@@ -443,6 +451,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [wrest-chat](https://github.com/opentdp/wrest-chat) - WeChatボット、PC WeChat API/Bot/SDK、組み込みのWEB管理インターフェース、GPT、Gemini、星火、文心、混元、通義千問などの大規模言語モデルに接続可能
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - モバイルプライベートChatGPTアプリケーション、GPT3、GPT4＆Gemini Proモデルをサポート。独自のモバイルChatGPT/Geminiアプリを持っています。
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理できます。プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスし、独自のナレッジベースに基づいて企業向けAIアプリケーションをカスタマイズできます。
+ * [MOSS](https://github.com/openmoss/moss) - 復旦大学からのオープンソースツールによる会話言語モデル復旦大学からのオープンソースツールによる会話言語モデル
 
 
 ## Browser-extensions
@@ -1008,6 +1017,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [nixtla](https://github.com/nixtla/nixtla) - Input: TimeGPT-1: 予測と異常検知のための本番向けの事前トレーニング済みの時系列基礎モデル。 100億以上のデータポイントでトレーニングされた時系列のための生成事前トレーニングトランスフォーマー。様々なドメインを正確に予測する能力を持っています。
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 EasyOCR、Tesseract、およびPororoを🧠 LLMと組み合わせることで、より優れたテキスト検出が可能になります。
+ * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 表形式のデータセットからコンテキストデータの視覚化をチャットインターフェースで行う。AIデータの視覚化。
 
 
 ## Langchain
@@ -1099,6 +1109,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [llm-books](https://github.com/morsoli/llm-books) - LLMを使用してアプリケーションを構築する実践ノート
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflowは、各ノードが実行可能なユニットであるダイナミックグラフです。そのモジュラーでインタラクティブなデザインは、迅速な実験やプロトタイピングを促進し、創造性の限界に挑戦します。
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - LLMとopenai＆langchainを楽しく使いこなす、文心一言、讯飞星火、腾讯混元、智谱ChatGLMなどをサポートします。
+ * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM
 
 
 ## Unity
@@ -1275,6 +1286,7 @@ _Updated on May 17, 2024_ (A total of 1547 repositories listed.)
  * [chat2api](https://github.com/lanqian528/chat2api) - Web上のChatGPTをOpenAI API形式に変換できるサービス。
  * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AIコードレビュアー：AIパワードのコードレビューでGitHubのワークフローを強化しましょう！OpenAIのGPT-4 APIを使用してプルリクエストに対して知的なフィードバックや提案を受け取り、コードの品質を向上させ開発者の時間を節約します。
  * [yomo](https://github.com/yomorun/yomo) - 🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク
+ * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - このプロジェクトは、Pythonスクリプトを使用してGumroadサイトからデータをスクレイピングし、OpenAIのGPT-4モデルを使用してカラフルでデザインされたHTMLページを生成し、生成されたページをVercelにデプロイします。
 
 
 ## Others
