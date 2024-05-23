@@ -14,27 +14,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。
-
-
 **Chatbots**
- * [MOSS](https://github.com/openmoss/moss) - 復旦大学からのオープンソースツールによる会話言語モデル復旦大学からのオープンソースツールによる会話言語モデル
-
-
-**NLP**
- * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 表形式のデータセットからコンテキストデータの視覚化をチャットインターフェースで行う。AIデータの視覚化。
-
-
-**Langchain**
- * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM
+ * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileysWhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileys
 
 
 **Openai**
- * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - このプロジェクトは、Pythonスクリプトを使用してGumroadサイトからデータをスクレイピングし、OpenAIのGPT-4モデルを使用してカラフルでデザインされたHTMLページを生成し、生成されたページをVercelにデプロイします。
+ * [ninja](https://github.com/0x676e67/ninja) - 逆転させたChatGPTプロキシ
 
 
-_Updated on May 21, 2024_ (A total of 1552 repositories listed.)
+**Others**
+ * [geekai](https://github.com/yangjian102621/geekai) - AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。
+
+
+_Updated on May 24, 2024_ (A total of 1555 repositories listed.)
 
 ## Table of contents
 
@@ -452,6 +444,7 @@ _Updated on May 21, 2024_ (A total of 1552 repositories listed.)
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - モバイルプライベートChatGPTアプリケーション、GPT3、GPT4＆Gemini Proモデルをサポート。独自のモバイルChatGPT/Geminiアプリを持っています。
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理できます。プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスし、独自のナレッジベースに基づいて企業向けAIアプリケーションをカスタマイズできます。
  * [MOSS](https://github.com/openmoss/moss) - 復旦大学からのオープンソースツールによる会話言語モデル復旦大学からのオープンソースツールによる会話言語モデル
+ * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileysWhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileys
 
 
 ## Browser-extensions
@@ -1287,6 +1280,7 @@ _Updated on May 21, 2024_ (A total of 1552 repositories listed.)
  * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AIコードレビュアー：AIパワードのコードレビューでGitHubのワークフローを強化しましょう！OpenAIのGPT-4 APIを使用してプルリクエストに対して知的なフィードバックや提案を受け取り、コードの品質を向上させ開発者の時間を節約します。
  * [yomo](https://github.com/yomorun/yomo) - 🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - このプロジェクトは、Pythonスクリプトを使用してGumroadサイトからデータをスクレイピングし、OpenAIのGPT-4モデルを使用してカラフルでデザインされたHTMLページを生成し、生成されたページをVercelにデプロイします。
+ * [ninja](https://github.com/0x676e67/ninja) - 逆転させたChatGPTプロキシ
 
 
 ## Others
@@ -1661,5 +1655,6 @@ _Updated on May 21, 2024_ (A total of 1552 repositories listed.)
  * [suno-api](https://github.com/gcui-art/suno-api) - APIを使用してsuno.aiの音楽生成AIを呼び出し、GPTなどのエージェントに簡単に統合します。
  * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小プログラム 出力:
  * [99AI](https://github.com/vastxie/99ai) - 99AI 安定版：NineAIをベースにした商用利用可能なAI Webアプリケーション（ライセンス不要、バックドアなし、迅速な展開をサポート）。目標はALL-IN-CHATです。
+ * [geekai](https://github.com/yangjian102621/geekai) - AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。
 
 

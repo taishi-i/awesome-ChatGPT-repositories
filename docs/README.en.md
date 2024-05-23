@@ -14,27 +14,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.
-
-
 **Chatbots**
- * [MOSS](https://github.com/openmoss/moss) - An open-source tool-augmented conversational language model from Fudan University
-
-
-**NLP**
- * [viz-gpt](https://github.com/observedobserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization.
-
-
-**Langchain**
- * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone
+ * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys
 
 
 **Openai**
- * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
+ * [ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 
 
-_Updated on May 21, 2024_ (A total of 1552 repositories listed.)
+**Others**
+ * [geekai](https://github.com/yangjian102621/geekai) - AI assistant full set of open source solutions, with built-in operation management background, ready to use out of the box. Integrated with large language models from multiple platforms such as ChatGPT, Azure, ChatGLM, Xunfei Xinghuo, Wenxin Yiyuan, etc. Supports MJ AI drawing, Stable Diffusion AI drawing, Weibo hot search and other plugin tools. Implemented using Go + Vue3 + element-plus.
+
+
+_Updated on May 24, 2024_ (A total of 1555 repositories listed.)
 
 ## Table of contents
 
@@ -452,6 +444,7 @@ _Updated on May 21, 2024_ (A total of 1552 repositories listed.)
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - Own mobile ChatGPT/Gemini application.
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - Intelligent chatbot tool based on large models, supports integration with platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), capable of processing text, voice, and images. Accesses operating systems and external resources through plugins, supports customization of enterprise AI applications based on proprietary knowledge base.
  * [MOSS](https://github.com/openmoss/moss) - An open-source tool-augmented conversational language model from Fudan University
+ * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys
 
 
 ## Browser-extensions
@@ -1287,6 +1280,7 @@ _Updated on May 21, 2024_ (A total of 1552 repositories listed.)
  * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI Code Reviewer: Enhance your GitHub workflow with AI-powered code review! Get intelligent feedback and suggestions on pull requests using OpenAI's GPT-4 API, improving code quality and saving developers time.
  * [yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
+ * [ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
 
 
 ## Others
@@ -1661,5 +1655,6 @@ _Updated on May 21, 2024_ (A total of 1552 repositories listed.)
  * [suno-api](https://github.com/gcui-art/suno-api) - Use API to call the music generation AI of suno.ai, and easily integrate it into agents like GPTs.
  * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT Mini Program
  * [99AI](https://github.com/vastxie/99ai) - 99AI Stable Version: A commercially available AI Web application based on NineAI's secondary development (no authorization required, no backdoors, supports rapid deployment). Goal: ALL-IN-CHAT
+ * [geekai](https://github.com/yangjian102621/geekai) - AI assistant full set of open source solutions, with built-in operation management background, ready to use out of the box. Integrated with large language models from multiple platforms such as ChatGPT, Azure, ChatGLM, Xunfei Xinghuo, Wenxin Yiyuan, etc. Supports MJ AI drawing, Stable Diffusion AI drawing, Weibo hot search and other plugin tools. Implemented using Go + Vue3 + element-plus.
 
 

@@ -9131,6 +9131,27 @@
                     "zh-hans": "一个来自复旦大学的开源工具增强对话语言模型",
                     "zh-hant": "一個來自復旦大學的開源工具增強對話式語言模型"
                 }
+            },
+            "https://github.com/sansekai/wa-openai": {
+                "repository_name": "Wa-OpenAI",
+                "user_name": "Sansekai",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys",
+                "topics": [
+                    "baileys",
+                    "baileys-bot",
+                    "baileys-md",
+                    "javascript",
+                    "nodejs",
+                    "whatsapp-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys",
+                    "ja": "WhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileysWhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileys",
+                    "zh-hans": "WhatsApp 机器人 OpenAI ChatGPT NodeJS 使用库 Baileys",
+                    "zh-hant": "WhatsApp 機器人 OpenAI ChatGPT NodeJS 使用 Library Baileys"
+                }
             }
         },
         "Browser-extensions": {
@@ -26779,6 +26800,29 @@
                     "zh-hans": "这个项目是一个Python脚本，从Gumroad网站上爬取数据，使用OpenAI的GPT-4模型生成一个色彩丰富、设计精美的HTML页面，并部署生成的页面到Vercel。",
                     "zh-hant": "這個項目是一個使用Python腳本從Gumroad網站爬取數據，並使用OpenAI的GPT-4模型生成一個色彩豐富且設計精美的HTML頁面，然後部署生成的頁面到Vercel。"
                 }
+            },
+            "https://github.com/0x676e67/ninja": {
+                "repository_name": "ninja",
+                "user_name": "0x676e67",
+                "language": "Rust",
+                "license": "GNU General Public License v3.0",
+                "description": "Reverse engineered ChatGPT proxy",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "chatgpt",
+                    "docker",
+                    "openai",
+                    "proxy",
+                    "rust",
+                    "server"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Reverse engineered ChatGPT proxy",
+                    "ja": "逆転させたChatGPTプロキシ",
+                    "zh-hans": "逆向工程ChatGPT代理",
+                    "zh-hant": "反向工程 ChatGPT 代理"
+                }
             }
         },
         "Others": {
@@ -33802,6 +33846,28 @@
                     "ja": "99AI 安定版：NineAIをベースにした商用利用可能なAI Webアプリケーション（ライセンス不要、バックドアなし、迅速な展開をサポート）。目標はALL-IN-CHATです。",
                     "zh-hans": "99AI 稳定版：基于 NineAI 二开的可商业化 AI Web 应用（免授权，无后门，支持快速部署）。目标 ALL-IN-CHAT99AI 稳定版：基于 NineAI 二开的可商业化 AI 网页应用（无需授权，无后门，支持快速部署）。目标 ALL-IN-CHAT",
                     "zh-hant": "99AI 穩定版：基於 NineAI 二開的可商業化 AI Web 應用（免授權，無後門，支持快速部署）。目標 ALL-IN-CHAT"
+                }
+            },
+            "https://github.com/yangjian102621/geekai": {
+                "repository_name": "geekai",
+                "user_name": "yangjian102621",
+                "language": "Vue",
+                "license": "Apache License 2.0",
+                "description": "AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
+                "topics": [
+                    "azure",
+                    "chatgpt",
+                    "dalle3",
+                    "element-plus",
+                    "go",
+                    "midjourney",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI assistant full set of open source solutions, with built-in operation management background, ready to use out of the box. Integrated with large language models from multiple platforms such as ChatGPT, Azure, ChatGLM, Xunfei Xinghuo, Wenxin Yiyuan, etc. Supports MJ AI drawing, Stable Diffusion AI drawing, Weibo hot search and other plugin tools. Implemented using Go + Vue3 + element-plus.",
+                    "ja": "AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。",
+                    "zh-hans": "AI助手全套开源解决方案，自带运营管理后台，开箱即用。集成了ChatGPT，Azure，ChatGLM，讯飞星火，文心一言等多个平台的大语言模型。支持MJ AI绘画，Stable Diffusion AI绘画，微博热搜等插件工具。采用Go + Vue3 + element-plus实现。",
+                    "zh-hant": "AI 助手全套開源解決方案，自帶運營管理後台，開箱即用。集成了 ChatGPT, Azure, ChatGLM,訊飛星火，文心一言等多個平台的大語言模型。支持 MJ AI 繪畫，Stable Diffusion AI 繪畫，微博熱搜等插件工具。採用 Go + Vue3 + element-plus 實現。"
                 }
             }
         }
