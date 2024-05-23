@@ -14,27 +14,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): 專為Windows、macOS和Android設計的頂級AI整合工具。只需問一次，即可從ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多個AI獲得答案。具有可定制的AI和提示功能。
-
-
 **Chatbots**
- * [MOSS](https://github.com/openmoss/moss) - 一個來自復旦大學的開源工具增強對話式語言模型
-
-
-**NLP**
- * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 使用表格數據製作具有聊天界面的上下文數據可視化。人工智能數據可視化。
-
-
-**Langchain**
- * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：在您的手机上使用的GPT-4V级MLLM
+ * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp 機器人 OpenAI ChatGPT NodeJS 使用 Library Baileys
 
 
 **Openai**
- * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - 這個項目是一個使用Python腳本從Gumroad網站爬取數據，並使用OpenAI的GPT-4模型生成一個色彩豐富且設計精美的HTML頁面，然後部署生成的頁面到Vercel。
+ * [ninja](https://github.com/0x676e67/ninja) - 反向工程 ChatGPT 代理
 
 
-_Updated on May 21, 2024_ (A total of 1552 repositories listed.)
+**Others**
+ * [geekai](https://github.com/yangjian102621/geekai) - AI 助手全套開源解決方案，自帶運營管理後台，開箱即用。集成了 ChatGPT, Azure, ChatGLM,訊飛星火，文心一言等多個平台的大語言模型。支持 MJ AI 繪畫，Stable Diffusion AI 繪畫，微博熱搜等插件工具。採用 Go + Vue3 + element-plus 實現。
+
+
+_Updated on May 24, 2024_ (A total of 1555 repositories listed.)
 
 ## Table of contents
 
@@ -452,6 +444,7 @@ _Updated on May 21, 2024_ (A total of 1552 repositories listed.)
  * [chatbot-app](https://github.com/chatbot-all/chatbot-app) - 擁有自己的移動端 ChatGPT/Gemini 應用程式，支援 GPT3、GPT4 和 Gemini Pro 模型。
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
  * [MOSS](https://github.com/openmoss/moss) - 一個來自復旦大學的開源工具增強對話式語言模型
+ * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp 機器人 OpenAI ChatGPT NodeJS 使用 Library Baileys
 
 
 ## Browser-extensions
@@ -1287,6 +1280,7 @@ _Updated on May 21, 2024_ (A total of 1552 repositories listed.)
  * [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - AI 代碼審查員：通過 AI 強化您的 GitHub 工作流程，透過 OpenAI 的 GPT-4 API 在拉取請求上獲得智能反饋和建議，提高代碼質量，節省開發人員的時間。
  * [yomo](https://github.com/yomorun/yomo) - 🦖 用於構建地理分佈式邊緣人工智能基礎設施的有狀態無服務器框架
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - 這個項目是一個使用Python腳本從Gumroad網站爬取數據，並使用OpenAI的GPT-4模型生成一個色彩豐富且設計精美的HTML頁面，然後部署生成的頁面到Vercel。
+ * [ninja](https://github.com/0x676e67/ninja) - 反向工程 ChatGPT 代理
 
 
 ## Others
@@ -1661,5 +1655,6 @@ _Updated on May 21, 2024_ (A total of 1552 repositories listed.)
  * [suno-api](https://github.com/gcui-art/suno-api) - 使用API調用suno.ai的音樂生成AI，並輕鬆集成到像GPTs這樣的代理程序中。
  * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小程式
  * [99AI](https://github.com/vastxie/99ai) - 99AI 穩定版：基於 NineAI 二開的可商業化 AI Web 應用（免授權，無後門，支持快速部署）。目標 ALL-IN-CHAT
+ * [geekai](https://github.com/yangjian102621/geekai) - AI 助手全套開源解決方案，自帶運營管理後台，開箱即用。集成了 ChatGPT, Azure, ChatGLM,訊飛星火，文心一言等多個平台的大語言模型。支持 MJ AI 繪畫，Stable Diffusion AI 繪畫，微博熱搜等插件工具。採用 Go + Vue3 + element-plus 實現。
 
 
