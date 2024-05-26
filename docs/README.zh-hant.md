@@ -14,19 +14,19 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 一個令人敬畏的資源收藏，包括與ChatGPT相關的各種工具、文件、資源、應用程式和使用案例。
+
+
+**Prompts**
+ * [code2prompt](https://github.com/mufeedvh/code2prompt) - 一個CLI工具，將您的代碼庫轉換為單個LLM提示符，具有源代碼樹、提示符模板和令牌計數。
+
+
 **Chatbots**
- * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp 機器人 OpenAI ChatGPT NodeJS 使用 Library Baileys
+ * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免費的ChatGPT API的安卓語音助手，可用音量鍵喚醒並進行語音交流，支持網絡連接、Vision拍照識圖、提問模板等功能。
 
 
-**Openai**
- * [ninja](https://github.com/0x676e67/ninja) - 反向工程 ChatGPT 代理
-
-
-**Others**
- * [geekai](https://github.com/yangjian102621/geekai) - AI 助手全套開源解決方案，自帶運營管理後台，開箱即用。集成了 ChatGPT, Azure, ChatGLM,訊飛星火，文心一言等多個平台的大語言模型。支持 MJ AI 繪畫，Stable Diffusion AI 繪畫，微博熱搜等插件工具。採用 Go + Vue3 + element-plus 實現。
-
-
-_Updated on May 24, 2024_ (A total of 1555 repositories listed.)
+_Updated on May 27, 2024_ (A total of 1558 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +109,7 @@ _Updated on May 24, 2024_ (A total of 1555 repositories listed.)
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 一個用於創建、監控、調試和部署自主人工智能代理的SDK、框架、庫和工具的數據庫
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk 評論
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文語料庫 對話語料 小說語料 客服語料 用於訓練大模型
+ * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 一個令人敬畏的資源收藏，包括與ChatGPT相關的各種工具、文件、資源、應用程式和使用案例。
 
 
 ## Prompts
@@ -229,6 +230,7 @@ _Updated on May 24, 2024_ (A total of 1555 repositories listed.)
  * [contoso-chat](https://github.com/azure-samples/contoso-chat) - 這個範例包含了使用Prompt Flow和AI Studio創建RAG應用程序的完整End2End過程。它包括了GPT 3.5 Turbo LLM應用程序代碼、評估、使用AZD CLI進行部署自動化、GitHub操作進行評估和部署，以及意圖管理。
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT：讓每個人都成為提示專家！🚀 結構化提示，GPT的語言，結構化提示詞，結構化Prompt
  * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): 專為Windows、macOS和Android設計的頂級AI整合工具。只需問一次，即可從ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多個AI獲得答案。具有可定制的AI和提示功能。
+ * [code2prompt](https://github.com/mufeedvh/code2prompt) - 一個CLI工具，將您的代碼庫轉換為單個LLM提示符，具有源代碼樹、提示符模板和令牌計數。
 
 
 ## Chatbots
@@ -445,6 +447,7 @@ _Updated on May 24, 2024_ (A total of 1555 repositories listed.)
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 基於大型模型的智能對話客服工具，支援微信、千牛、哔哩哔哩、抖音企業號、抖音、抖店、微博聊天、小紅書專業號運營、小紅書、知乎等平台接入，可選擇 GPT3.5/GPT4.0/ 懶人百寶箱 （後續會支持更多平台），能處理文本、語音和圖片，通過插件訪問操作系統和互聯網等外部資源，支持基於自有知識庫定制企業 AI 應用。
  * [MOSS](https://github.com/openmoss/moss) - 一個來自復旦大學的開源工具增強對話式語言模型
  * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp 機器人 OpenAI ChatGPT NodeJS 使用 Library Baileys
+ * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免費的ChatGPT API的安卓語音助手，可用音量鍵喚醒並進行語音交流，支持網絡連接、Vision拍照識圖、提問模板等功能。
 
 
 ## Browser-extensions
