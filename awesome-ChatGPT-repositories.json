@@ -1607,6 +1607,32 @@
                     "zh-hans": "ChatGPT 中文语料库 包括对话、小说和客服语料，用于训练大型模型。",
                     "zh-hant": "ChatGPT 中文語料庫 對話語料 小說語料 客服語料 用於訓練大模型"
                 }
+            },
+            "https://github.com/awesome-gptx/awesome-gpt": {
+                "repository_name": "awesome-gpt",
+                "user_name": "awesome-gptX",
+                "language": null,
+                "license": "MIT License",
+                "description": "🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "chat-gpt-tool",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-chrome-extension",
+                    "chatgpt4",
+                    "chatgptapi",
+                    "openai",
+                    "tipschatgpt",
+                    "usingchatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.",
+                    "ja": "🏆 ChatGPTに関連する幅広いツール、文書、リソース、アプリケーション、使用例を網羅した感動的なコレクション。",
+                    "zh-hans": "🏆 一个令人敬畏的资源收藏，涵盖了与ChatGPT相关的各种工具、文件、资源、应用程序和用例。",
+                    "zh-hant": "🏆 一個令人敬畏的資源收藏，包括與ChatGPT相關的各種工具、文件、資源、應用程式和使用案例。"
+                }
             }
         },
         "Prompts": {
@@ -4182,6 +4208,34 @@
                     "ja": "Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。",
                     "zh-hans": "Aila(AI超元域): 适用于Windows、macOS和Android的首选AI集成工具。只需询问一次，即可从ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多个AI中获取答案。具有可定制的AI和提示功能。",
                     "zh-hant": "Aila(AI超元域): 專為Windows、macOS和Android設計的頂級AI整合工具。只需問一次，即可從ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多個AI獲得答案。具有可定制的AI和提示功能。"
+                }
+            },
+            "https://github.com/mufeedvh/code2prompt": {
+                "repository_name": "code2prompt",
+                "user_name": "mufeedvh",
+                "language": "Handlebars",
+                "license": "MIT License",
+                "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "claude",
+                    "cli",
+                    "command-line",
+                    "command-line-tool",
+                    "gpt",
+                    "llm",
+                    "prompt",
+                    "prompt-engineering",
+                    "prompt-generator",
+                    "prompt-toolkit",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+                    "ja": "コードベースを単一のLLMプロンプトに変換するためのCLIツール。ソースツリー、プロンプトテンプレート、トークン数のカウントが含まれています。",
+                    "zh-hans": "一个CLI工具，可以将您的代码库转换为一个带有源树、提示模板和令牌计数的单个LLM提示。",
+                    "zh-hant": "一個CLI工具，將您的代碼庫轉換為單個LLM提示符，具有源代碼樹、提示符模板和令牌計數。"
                 }
             }
         },
@@ -9151,6 +9205,27 @@
                     "ja": "WhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileysWhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileys",
                     "zh-hans": "WhatsApp 机器人 OpenAI ChatGPT NodeJS 使用库 Baileys",
                     "zh-hant": "WhatsApp 機器人 OpenAI ChatGPT NodeJS 使用 Library Baileys"
+                }
+            },
+            "https://github.com/skythinker616/gpt-assistant-android": {
+                "repository_name": "gpt-assistant-android",
+                "user_name": "Skythinker616",
+                "language": "Java",
+                "license": "GNU General Public License v3.0",
+                "description": "免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network connectivity, Vision photo recognition, and question templates.",
+                "topics": [
+                    "android",
+                    "assistant",
+                    "chatgpt",
+                    "free-gpt",
+                    "gpt-4-vision",
+                    "markdown"
+                ],
+                "multilingual_descriptions": {
+                    "en": "免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network connectivity, Vision photo recognition, and question templat",
+                    "ja": "無料のChatGPT APIボイスアシスタントは、音声インタラクションのために音量キーで起動され、ネットワーク接続、Vision写真認識、質問テンプレートなどの機能をサポートしています。",
+                    "zh-hans": "免费的ChatGPT API安卓语音助手，可通过音量键激活进行语音交流，支持联网、Vision拍照识图、提问模板等功能。",
+                    "zh-hant": "免費的ChatGPT API的安卓語音助手，可用音量鍵喚醒並進行語音交流，支持網絡連接、Vision拍照識圖、提問模板等功能。"
                 }
             }
         },

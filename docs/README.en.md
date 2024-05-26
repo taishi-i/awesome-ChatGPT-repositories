@@ -14,19 +14,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
+
+
+**Prompts**
+ * [code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+
+
 **Chatbots**
- * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys
+ * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network connectivity, Vision photo recognition, and question templat
 
 
-**Openai**
- * [ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
-
-
-**Others**
- * [geekai](https://github.com/yangjian102621/geekai) - AI assistant full set of open source solutions, with built-in operation management background, ready to use out of the box. Integrated with large language models from multiple platforms such as ChatGPT, Azure, ChatGLM, Xunfei Xinghuo, Wenxin Yiyuan, etc. Supports MJ AI drawing, Stable Diffusion AI drawing, Weibo hot search and other plugin tools. Implemented using Go + Vue3 + element-plus.
-
-
-_Updated on May 24, 2024_ (A total of 1555 repositories listed.)
+_Updated on May 27, 2024_ (A total of 1558 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +109,7 @@ _Updated on May 24, 2024_ (A total of 1555 repositories listed.)
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - A database of SDKs, frameworks, libraries, and tools for creating, monitoring, debugging and deploying autonomous AI agents
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - Input: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large modelsOutput: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large models
+ * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
 
 
 ## Prompts
@@ -229,6 +230,7 @@ _Updated on May 24, 2024_ (A total of 1555 repositories listed.)
  * [contoso-chat](https://github.com/azure-samples/contoso-chat) - This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent ma
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
  * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.
+ * [code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 
 
 ## Chatbots
@@ -445,6 +447,7 @@ _Updated on May 24, 2024_ (A total of 1555 repositories listed.)
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - Intelligent chatbot tool based on large models, supports integration with platforms such as WeChat, Taobao, Bilibili, Douyin Enterprise Account, Douyin, Douyin Store, Weibo Chat, Xiaohongshu Professional Account Operation, Xiaohongshu, Zhihu, etc. Can choose GPT3.5/GPT4.0/Lazy Man's Treasure Chest (more platforms will be supported in the future), capable of processing text, voice, and images. Accesses operating systems and external resources through plugins, supports customization of enterprise AI applications based on proprietary knowledge base.
  * [MOSS](https://github.com/openmoss/moss) - An open-source tool-augmented conversational language model from Fudan University
  * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys
+ * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network connectivity, Vision photo recognition, and question templat
 
 
 ## Browser-extensions

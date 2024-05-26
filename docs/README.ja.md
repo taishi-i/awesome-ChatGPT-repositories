@@ -14,19 +14,19 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 ChatGPTに関連する幅広いツール、文書、リソース、アプリケーション、使用例を網羅した感動的なコレクション。
+
+
+**Prompts**
+ * [code2prompt](https://github.com/mufeedvh/code2prompt) - コードベースを単一のLLMプロンプトに変換するためのCLIツール。ソースツリー、プロンプトテンプレート、トークン数のカウントが含まれています。
+
+
 **Chatbots**
- * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileysWhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileys
+ * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 無料のChatGPT APIボイスアシスタントは、音声インタラクションのために音量キーで起動され、ネットワーク接続、Vision写真認識、質問テンプレートなどの機能をサポートしています。
 
 
-**Openai**
- * [ninja](https://github.com/0x676e67/ninja) - 逆転させたChatGPTプロキシ
-
-
-**Others**
- * [geekai](https://github.com/yangjian102621/geekai) - AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。
-
-
-_Updated on May 24, 2024_ (A total of 1555 repositories listed.)
+_Updated on May 27, 2024_ (A total of 1558 repositories listed.)
 
 ## Table of contents
 
@@ -109,6 +109,7 @@ _Updated on May 24, 2024_ (A total of 1555 repositories listed.)
  * [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - 自律型AIエージェントを作成、監視、デバッグ、展開するためのSDK、フレームワーク、ライブラリ、ツールのデータベース
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk コメント
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文コーパス ダイアログコーパス 小説コーパス カスタマーサポートコーパス 大規模モデルのトレーニングに使用
+ * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 ChatGPTに関連する幅広いツール、文書、リソース、アプリケーション、使用例を網羅した感動的なコレクション。
 
 
 ## Prompts
@@ -229,6 +230,7 @@ _Updated on May 24, 2024_ (A total of 1555 repositories listed.)
  * [contoso-chat](https://github.com/azure-samples/contoso-chat) - このサンプルには、Prompt FlowとAI Studioを使用してRAGアプリケーションを作成するEnd2Endプロセスが含まれています。GPT 3.5 Turbo LLMアプリケーションコード、評価、AZD CLIによる展開自動化、評価と展開のためのGitHubアクション、意図マのすべてが含まれています。
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT: すべての人が迅速な専門家になるための力を与える！🚀 構造化されたプロンプト、GPTの言語、構造化されたプロンプト
  * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。
+ * [code2prompt](https://github.com/mufeedvh/code2prompt) - コードベースを単一のLLMプロンプトに変換するためのCLIツール。ソースツリー、プロンプトテンプレート、トークン数のカウントが含まれています。
 
 
 ## Chatbots
@@ -445,6 +447,7 @@ _Updated on May 24, 2024_ (A total of 1555 repositories listed.)
  * [ChatGPT-On-CS](https://github.com/cs-lazy-tools/chatgpt-on-cs) - 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理できます。プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスし、独自のナレッジベースに基づいて企業向けAIアプリケーションをカスタマイズできます。
  * [MOSS](https://github.com/openmoss/moss) - 復旦大学からのオープンソースツールによる会話言語モデル復旦大学からのオープンソースツールによる会話言語モデル
  * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileysWhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileys
+ * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 無料のChatGPT APIボイスアシスタントは、音声インタラクションのために音量キーで起動され、ネットワーク接続、Vision写真認識、質問テンプレートなどの機能をサポートしています。
 
 
 ## Browser-extensions
