@@ -14,19 +14,31 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 一个令人敬畏的资源收藏，涵盖了与ChatGPT相关的各种工具、文件、资源、应用程序和用例。
-
-
 **Prompts**
- * [code2prompt](https://github.com/mufeedvh/code2prompt) - 一个CLI工具，可以将您的代码库转换为一个带有源树、提示模板和令牌计数的单个LLM提示。
+ * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - 适用于GPT-4、Claude、Llama3、Gemini等高性能开源LLM的高级代码和文本操作提示。
 
 
 **Chatbots**
- * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免费的ChatGPT API安卓语音助手，可通过音量键激活进行语音交流，支持联网、Vision拍照识图、提问模板等功能。
+ * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT在家！基本上是一个更好的Google Nest Hub或亚马逊Alexa家庭助手。使用OpenAI API在树莓派上构建。
 
 
-_Updated on May 27, 2024_ (A total of 1558 repositories listed.)
+**CLIs**
+ * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAI 和 Gemini 的原生安卓客户端 ☁️
+
+
+**NLP**
+ * [ChatIE](https://github.com/cocacola-lab/chatie) - 在线版本暂时不可用，因为我们无法承担密钥费用。您可以克隆并在本地运行。注意：我们设置了默认的OpenAI密钥。如果密钥超出计划或无效，请告诉我们。响应速度取决于OpenAI。（有时候，）
+
+
+**Langchain**
+ * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 简单高效的微调LLM模型。支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon。大模型高效量化训练+部署。
+
+
+**Openai**
+ * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
+
+
+_Updated on May 29, 2024_ (A total of 1564 repositories listed.)
 
 ## Table of contents
 
@@ -231,6 +243,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT语言，结构化Prompt
  * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): 适用于Windows、macOS和Android的首选AI集成工具。只需询问一次，即可从ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多个AI中获取答案。具有可定制的AI和提示功能。
  * [code2prompt](https://github.com/mufeedvh/code2prompt) - 一个CLI工具，可以将您的代码库转换为一个带有源树、提示模板和令牌计数的单个LLM提示。
+ * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - 适用于GPT-4、Claude、Llama3、Gemini等高性能开源LLM的高级代码和文本操作提示。
 
 
 ## Chatbots
@@ -448,6 +461,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [MOSS](https://github.com/openmoss/moss) - 一个来自复旦大学的开源工具增强对话语言模型
  * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp 机器人 OpenAI ChatGPT NodeJS 使用库 Baileys
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免费的ChatGPT API安卓语音助手，可通过音量键激活进行语音交流，支持联网、Vision拍照识图、提问模板等功能。
+ * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT在家！基本上是一个更好的Google Nest Hub或亚马逊Alexa家庭助手。使用OpenAI API在树莓派上构建。
 
 
 ## Browser-extensions
@@ -728,6 +742,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频。
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - 这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。
  * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - 这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。
+ * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAI 和 Gemini 的原生安卓客户端 ☁️
 
 
 ## Reimplementations
@@ -1014,6 +1029,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - 一种用于解释GPT风格语言模型机制的图书馆
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通过将多个OCR引擎（EasyOCR、Tesseract和Pororo）与🧠 LLM 结合，可以实现更好的文本检测。
  * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 使用表格数据制作具有聊天界面的上下文数据可视化。人工智能数据可视化。
+ * [ChatIE](https://github.com/cocacola-lab/chatie) - 在线版本暂时不可用，因为我们无法承担密钥费用。您可以克隆并在本地运行。注意：我们设置了默认的OpenAI密钥。如果密钥超出计划或无效，请告诉我们。响应速度取决于OpenAI。（有时候，）
 
 
 ## Langchain
@@ -1106,6 +1122,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow是一个动态图，其中每个节点都是可执行单元。其模块化和交互式设计促进了快速实验和原型设计，大力挑战创造力的极限。
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等。
  * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：您手机上的GPT-4V级MLLM
+ * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 简单高效的微调LLM模型。支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon。大模型高效量化训练+部署。
 
 
 ## Unity
@@ -1284,6 +1301,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [yomo](https://github.com/yomorun/yomo) - 🦖 用于构建地理分布式边缘人工智能基础设施的有状态无服务器框架
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - 这个项目是一个Python脚本，从Gumroad网站上爬取数据，使用OpenAI的GPT-4模型生成一个色彩丰富、设计精美的HTML页面，并部署生成的页面到Vercel。
  * [ninja](https://github.com/0x676e67/ninja) - 逆向工程ChatGPT代理
+ * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
 
 
 ## Others

@@ -14,19 +14,31 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 ChatGPTに関連する幅広いツール、文書、リソース、アプリケーション、使用例を網羅した感動的なコレクション。
-
-
 **Prompts**
- * [code2prompt](https://github.com/mufeedvh/code2prompt) - コードベースを単一のLLMプロンプトに変換するためのCLIツール。ソースツリー、プロンプトテンプレート、トークン数のカウントが含まれています。
+ * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - さまざまなLLM向けの高度なコードおよびテキスト操作プロンプト。GPT-4、Claude、Llama3、Gemini、およびその他の高性能オープンソースLLMに適しています。
 
 
 **Chatbots**
- * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 無料のChatGPT APIボイスアシスタントは、音声インタラクションのために音量キーで起動され、ネットワーク接続、Vision写真認識、質問テンプレートなどの機能をサポートしています。
+ * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPTを家で使おう！基本的には、Google Nest HubやAmazon Alexaのホームアシスタントよりも優れています。Raspberry Piを使用して、OpenAI APIに基づいて構築されています。
 
 
-_Updated on May 27, 2024_ (A total of 1558 repositories listed.)
+**CLIs**
+ * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAIとGeminiのためのネイティブAndroidクライアント☁️
+
+
+**NLP**
+ * [ChatIE](https://github.com/cocacola-lab/chatie) - オンライン版は一時的に利用できません。キーを購入する余裕がないためです。ローカルでクローンを作成して実行することができます。注意：私たちはデフォルトのOpenAIキーを設定しています。キーがプランを超えて無効になった場合はお知らせください。応答速度はOpenAIに依存します。（時々、のように）
+
+
+**Langchain**
+ * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 簡単で効率的なファインチューニングLLMs。（サポートされているLLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大規模モデルの効率的な量子化トレーニング+展開。
+
+
+**Openai**
+ * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - OpenAI API標準インターフェースサーバーに、openai-api、bing、gemini、coze、および絵画など複数のAIを統合したチャットインターフェースを適応させました。
+
+
+_Updated on May 29, 2024_ (A total of 1564 repositories listed.)
 
 ## Table of contents
 
@@ -231,6 +243,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT: すべての人が迅速な専門家になるための力を与える！🚀 構造化されたプロンプト、GPTの言語、構造化されたプロンプト
  * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。
  * [code2prompt](https://github.com/mufeedvh/code2prompt) - コードベースを単一のLLMプロンプトに変換するためのCLIツール。ソースツリー、プロンプトテンプレート、トークン数のカウントが含まれています。
+ * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - さまざまなLLM向けの高度なコードおよびテキスト操作プロンプト。GPT-4、Claude、Llama3、Gemini、およびその他の高性能オープンソースLLMに適しています。
 
 
 ## Chatbots
@@ -448,6 +461,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [MOSS](https://github.com/openmoss/moss) - 復旦大学からのオープンソースツールによる会話言語モデル復旦大学からのオープンソースツールによる会話言語モデル
  * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileysWhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileys
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 無料のChatGPT APIボイスアシスタントは、音声インタラクションのために音量キーで起動され、ネットワーク接続、Vision写真認識、質問テンプレートなどの機能をサポートしています。
+ * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPTを家で使おう！基本的には、Google Nest HubやAmazon Alexaのホームアシスタントよりも優れています。Raspberry Piを使用して、OpenAI APIに基づいて構築されています。
 
 
 ## Browser-extensions
@@ -728,6 +742,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - AI LLMを使用して、ワンクリックで高品質なショートビデオを生成します。
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、会話に人間味を持たせる仮想アシスタントに変えることができる能力を持つようにします。
  * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、さまざまなタスクを実行できる仮想アシスタントに変えることを目指しています。会話に人間味を持たせる要素も取り入れています。
+ * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAIとGeminiのためのネイティブAndroidクライアント☁️
 
 
 ## Reimplementations
@@ -1014,6 +1029,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 EasyOCR、Tesseract、およびPororoを🧠 LLMと組み合わせることで、より優れたテキスト検出が可能になります。
  * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 表形式のデータセットからコンテキストデータの視覚化をチャットインターフェースで行う。AIデータの視覚化。
+ * [ChatIE](https://github.com/cocacola-lab/chatie) - オンライン版は一時的に利用できません。キーを購入する余裕がないためです。ローカルでクローンを作成して実行することができます。注意：私たちはデフォルトのOpenAIキーを設定しています。キーがプランを超えて無効になった場合はお知らせください。応答速度はOpenAIに依存します。（時々、のように）
 
 
 ## Langchain
@@ -1106,6 +1122,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflowは、各ノードが実行可能なユニットであるダイナミックグラフです。そのモジュラーでインタラクティブなデザインは、迅速な実験やプロトタイピングを促進し、創造性の限界に挑戦します。
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - LLMとopenai＆langchainを楽しく使いこなす、文心一言、讯飞星火、腾讯混元、智谱ChatGLMなどをサポートします。
  * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM
+ * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 簡単で効率的なファインチューニングLLMs。（サポートされているLLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大規模モデルの効率的な量子化トレーニング+展開。
 
 
 ## Unity
@@ -1284,6 +1301,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [yomo](https://github.com/yomorun/yomo) - 🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - このプロジェクトは、Pythonスクリプトを使用してGumroadサイトからデータをスクレイピングし、OpenAIのGPT-4モデルを使用してカラフルでデザインされたHTMLページを生成し、生成されたページをVercelにデプロイします。
  * [ninja](https://github.com/0x676e67/ninja) - 逆転させたChatGPTプロキシ
+ * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - OpenAI API標準インターフェースサーバーに、openai-api、bing、gemini、coze、および絵画など複数のAIを統合したチャットインターフェースを適応させました。
 
 
 ## Others
