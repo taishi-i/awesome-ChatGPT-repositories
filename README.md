@@ -14,19 +14,31 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
-
-
 **Prompts**
- * [code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+ * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 
 
 **Chatbots**
- * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network connectivity, Vision photo recognition, and question templates.
+ * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.
 
 
-_Updated on May 27, 2024_ (A total of 1558 repositories listed.)
+**CLIs**
+ * [chatAir](https://github.com/flyun/chatair) - ☁️A native Android client for OpenAI and Gemini ☁️OpenAI 和 Gemini 的原生安卓客户端
+
+
+**NLP**
+ * [ChatIE](https://github.com/cocacola-lab/chatie) - The online version is temporarily unavailable because we cannot afford the key. You can clone and run it locally. Note: we set defaul openai key. If keys exceed plan and are invalid, please tell us. The response speed depends on openai. ( sometimes, the official is too crowded and slow)
+
+
+**Langchain**
+ * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - Easy and Efficient Finetuning  LLMs. (Supported LLama, LLama2, LLama3, Qwen,  Baichuan, GLM , Falcon) 大模型高效量化训练+部署.
+
+
+**Openai**
+ * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
+
+
+_Updated on May 29, 2024_ (A total of 1564 repositories listed.)
 
 ## Table of contents
 
@@ -231,6 +243,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [LangGPT](https://github.com/langgptai/langgpt) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
  * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): The premier AI integration tool for Windows, macOS, and Android. Ask once, get answers from 10+ AIs like ChatGPT, Gemini, Claude3, Copilot, Poe, perplexity and more. Features customizable AI and prompts.
  * [code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+ * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
 
 
 ## Chatbots
@@ -448,6 +461,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [MOSS](https://github.com/openmoss/moss) - An open-source tool-augmented conversational language model from Fudan University
  * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network connectivity, Vision photo recognition, and question templates.
+ * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.
 
 
 ## Browser-extensions
@@ -728,6 +742,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
  * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
+ * [chatAir](https://github.com/flyun/chatair) - ☁️A native Android client for OpenAI and Gemini ☁️OpenAI 和 Gemini 的原生安卓客户端
 
 
 ## Reimplementations
@@ -1014,6 +1029,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [TransformerLens](https://github.com/transformerlensorg/transformerlens) - A library for mechanistic interpretability of GPT-style language models
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 Better text detection by combining multiple OCR engines (EasyOCR, Tesseract, and Pororo) with 🧠 LLM.
  * [viz-gpt](https://github.com/observedobserver/viz-gpt) - Make contextual data visualization with Chat Interface from tabular datasets. AI data visualization.
+ * [ChatIE](https://github.com/cocacola-lab/chatie) - The online version is temporarily unavailable because we cannot afford the key. You can clone and run it locally. Note: we set defaul openai key. If keys exceed plan and are invalid, please tell us. The response speed depends on openai. ( sometimes, the official is too crowded and slow)
 
 
 ## Langchain
@@ -1106,6 +1122,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等
  * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone
+ * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - Easy and Efficient Finetuning  LLMs. (Supported LLama, LLama2, LLama3, Qwen,  Baichuan, GLM , Falcon) 大模型高效量化训练+部署.
 
 
 ## Unity
@@ -1284,6 +1301,7 @@ _Updated on May 27, 2024_ (A total of 1558 repositories listed.)
  * [yomo](https://github.com/yomorun/yomo) - 🦖 Stateful Serverless Framework for building Geo-distributed Edge AI Infra
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
  * [ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
+ * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
 
 
 ## Others

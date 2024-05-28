@@ -4237,6 +4237,41 @@
                     "zh-hans": "一个CLI工具，可以将您的代码库转换为一个带有源树、提示模板和令牌计数的单个LLM提示。",
                     "zh-hant": "一個CLI工具，將您的代碼庫轉換為單個LLM提示符，具有源代碼樹、提示符模板和令牌計數。"
                 }
+            },
+            "https://github.com/abilzerian/llm-prompt-library": {
+                "repository_name": "LLM-Prompt-Library",
+                "user_name": "abilzerian",
+                "language": null,
+                "license": null,
+                "description": "Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.",
+                "topics": [
+                    "ai",
+                    "ai-chatbot",
+                    "artificial-intelligence",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "machine-learning",
+                    "openai",
+                    "prompt",
+                    "prompt-engineering",
+                    "prompt-injection",
+                    "prompt-toolkit",
+                    "prompting",
+                    "prompts",
+                    "python",
+                    "text-analysis"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.",
+                    "ja": "さまざまなLLM向けの高度なコードおよびテキスト操作プロンプト。GPT-4、Claude、Llama3、Gemini、およびその他の高性能オープンソースLLMに適しています。",
+                    "zh-hans": "适用于GPT-4、Claude、Llama3、Gemini等高性能开源LLM的高级代码和文本操作提示。",
+                    "zh-hant": "高级代码和文本操作提示，适用于各种LLM。适用于GPT-4、Claude、Llama3、Gemini和其他高性能开源LLM。"
+                }
             }
         },
         "Chatbots": {
@@ -9226,6 +9261,41 @@
                     "ja": "無料のChatGPT APIボイスアシスタントは、音声インタラクションのために音量キーで起動され、ネットワーク接続、Vision写真認識、質問テンプレートなどの機能をサポートしています。",
                     "zh-hans": "免费的ChatGPT API安卓语音助手，可通过音量键激活进行语音交流，支持联网、Vision拍照识图、提问模板等功能。",
                     "zh-hant": "免費的ChatGPT API的安卓語音助手，可用音量鍵喚醒並進行語音交流，支持網絡連接、Vision拍照識圖、提問模板等功能。"
+                }
+            },
+            "https://github.com/judahpaul16/gpt-home": {
+                "repository_name": "gpt-home",
+                "user_name": "judahpaul16",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.",
+                "topics": [
+                    "ai",
+                    "async",
+                    "automation",
+                    "chatgpt",
+                    "docker",
+                    "fastapi",
+                    "home-assistant",
+                    "home-automation",
+                    "iot",
+                    "llm",
+                    "nginx",
+                    "nlp",
+                    "nodejs",
+                    "openai",
+                    "python",
+                    "raspberry-pi",
+                    "react",
+                    "speech-recognition",
+                    "spotify",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.",
+                    "ja": "ChatGPTを家で使おう！基本的には、Google Nest HubやAmazon Alexaのホームアシスタントよりも優れています。Raspberry Piを使用して、OpenAI APIに基づいて構築されています。",
+                    "zh-hans": "ChatGPT在家！基本上是一个更好的Google Nest Hub或亚马逊Alexa家庭助手。使用OpenAI API在树莓派上构建。",
+                    "zh-hant": "ChatGPT在家中！基本上是一個更好的Google Nest Hub或Amazon Alexa家庭助理。使用Raspberry Pi構建，並使用OpenAI API。"
                 }
             }
         },
@@ -15304,6 +15374,27 @@
                     "zh-hans": "这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。",
                     "zh-hant": "這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。"
                 }
+            },
+            "https://github.com/flyun/chatair": {
+                "repository_name": "chatAir",
+                "user_name": "flyun",
+                "language": "Java",
+                "license": "GNU General Public License v3.0",
+                "description": "☁️A native Android client for OpenAI and Gemini ☁️OpenAI 和 Gemini 的原生安卓客户端",
+                "topics": [
+                    "ai",
+                    "android",
+                    "chatgpt",
+                    "gemini",
+                    "openai",
+                    "openrouter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "☁️A native Android client for OpenAI and Gemini ☁️OpenAI and Gemini's native Android client",
+                    "ja": "☁️OpenAIとGeminiのためのネイティブAndroidクライアント☁️",
+                    "zh-hans": "☁️OpenAI 和 Gemini 的原生安卓客户端 ☁️",
+                    "zh-hant": "☁️OpenAI 和 Gemini 的原生安卓客戶端 ☁️"
+                }
             }
         },
         "Reimplementations": {
@@ -21135,6 +21226,36 @@
                     "zh-hans": "使用表格数据制作具有聊天界面的上下文数据可视化。人工智能数据可视化。",
                     "zh-hant": "使用表格數據製作具有聊天界面的上下文數據可視化。人工智能數據可視化。"
                 }
+            },
+            "https://github.com/cocacola-lab/chatie": {
+                "repository_name": "ChatIE",
+                "user_name": "cocacola-lab",
+                "language": "Python",
+                "license": "Other",
+                "description": "The online version is temporarily unavailable because we cannot afford the key. You can clone and run it locally. Note: we set defaul openai key. If keys exceed plan and are invalid, please tell us. The response speed depends on openai. ( sometimes, the official is too crowded and slow)",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "event-extraciton",
+                    "event-extraction",
+                    "eventexecutor",
+                    "information-extraction",
+                    "knowledge-graph",
+                    "llm",
+                    "ner",
+                    "nlp",
+                    "openai",
+                    "relation-extraction",
+                    "tool",
+                    "zero-shot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The online version is temporarily unavailable because we cannot afford the key. You can clone and run it locally. Note: we set defaul openai key. If keys exceed plan and are invalid, please tell us. The response speed depends on openai. ( sometimes, the of",
+                    "ja": "オンライン版は一時的に利用できません。キーを購入する余裕がないためです。ローカルでクローンを作成して実行することができます。注意：私たちはデフォルトのOpenAIキーを設定しています。キーがプランを超えて無効になった場合はお知らせください。応答速度はOpenAIに依存します。（時々、のように）",
+                    "zh-hans": "在线版本暂时不可用，因为我们无法承担密钥费用。您可以克隆并在本地运行。注意：我们设置了默认的OpenAI密钥。如果密钥超出计划或无效，请告诉我们。响应速度取决于OpenAI。（有时候，）",
+                    "zh-hant": "網上版本暫時無法使用，因為我們無法負擔密鑰。您可以複製並在本地運行。注意：我們設置了預設的openai密鑰。如果密鑰超出計劃並且無效，請告訴我們。響應速度取決於openai。（有時候，的"
+                }
             }
         },
         "Langchain": {
@@ -23193,6 +23314,30 @@
                     "ja": "MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM",
                     "zh-hans": "MiniCPM-Llama3-V 2.5：您手机上的GPT-4V级MLLM",
                     "zh-hant": "MiniCPM-Llama3-V 2.5：在您的手机上使用的GPT-4V级MLLM"
+                }
+            },
+            "https://github.com/jianzhnie/llamatuner": {
+                "repository_name": "LLamaTuner",
+                "user_name": "jianzhnie",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Easy and Efficient Finetuning  LLMs. (Supported LLama, LLama2, LLama3, Qwen,  Baichuan, GLM , Falcon) 大模型高效量化训练+部署. ",
+                "topics": [
+                    "chatgpt",
+                    "dpo",
+                    "llama",
+                    "llama3",
+                    "mixtral",
+                    "ppo",
+                    "qlora",
+                    "qwen",
+                    "rlhf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Easy and Efficient Finetuning  LLMs. (Supported LLama, LLama2, LLama3, Qwen,  Baichuan, GLM , Falcon) 大模型高效量化训练+部署.",
+                    "ja": "簡単で効率的なファインチューニングLLMs。（サポートされているLLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大規模モデルの効率的な量子化トレーニング+展開。",
+                    "zh-hans": "简单高效的微调LLM模型。支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon。大模型高效量化训练+部署。",
+                    "zh-hant": "簡單高效的微調LLM（支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大模型高效量化訓練+部署。"
                 }
             }
         },
@@ -26897,6 +27042,26 @@
                     "ja": "逆転させたChatGPTプロキシ",
                     "zh-hans": "逆向工程ChatGPT代理",
                     "zh-hant": "反向工程 ChatGPT 代理"
+                }
+            },
+            "https://github.com/bincooo/chatgpt-adapter": {
+                "repository_name": "chatgpt-adapter",
+                "user_name": "bincooo",
+                "language": "Go",
+                "license": "GNU General Public License v3.0",
+                "description": "集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。",
+                "topics": [
+                    "ai",
+                    "claude",
+                    "coze",
+                    "gpt",
+                    "newbing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Integrated chat interfaces with multiple AI such as openai-api, bing, gemini, coze, and drawing, adapted to the OpenAI API standard interface server.",
+                    "ja": "OpenAI API標準インターフェースサーバーに、openai-api、bing、gemini、coze、および絵画など複数のAIを統合したチャットインターフェースを適応させました。",
+                    "zh-hans": "集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。",
+                    "zh-hant": "集成了openai-api、bing、gemini、coze、繪畫 多款AI的聊天接口適配到 OpenAI API 標準接口服務端。"
                 }
             }
         },
