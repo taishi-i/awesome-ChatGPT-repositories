@@ -15,30 +15,24 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - 适用于GPT-4、Claude、Llama3、Gemini等高性能开源LLM的高级代码和文本操作提示。
+ * [zzz-api](https://github.com/xing61/zzz-api) - 优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api代理，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要购买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
 
 
-**Chatbots**
- * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT在家！基本上是一个更好的Google Nest Hub或亚马逊Alexa家庭助手。使用OpenAI API在树莓派上构建。
-
-
-**CLIs**
- * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAI 和 Gemini 的原生安卓客户端 ☁️
+**Tutorials**
+ * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 从零开始学习深度学习，实现GPT。
 
 
 **NLP**
- * [ChatIE](https://github.com/cocacola-lab/chatie) - 在线版本暂时不可用，因为我们无法承担密钥费用。您可以克隆并在本地运行。注意：我们设置了默认的OpenAI密钥。如果密钥超出计划或无效，请告诉我们。响应速度取决于OpenAI。（有时候，）
+ * [RepoToText](https://github.com/jeremiahpetersen/repototext) - 将整个GitHub存储库转换为一个组织良好的单个.txt文件，以便与LLM（GPT-4、Claude Opus、Gemini等）一起使用
+ * [ocular](https://github.com/ocularengineering/ocular) - AI 动力搜索和聊天服务 - 想象一下 ChatGpt 遇见谷歌搜索，但是由您的数据驱动。
+ * [AutoCoder](https://github.com/bin123apple/autocoder) - 我们推出了一个专为代码生成任务设计的新模型。它在HumanEval基础数据集上的测试准确率超过了GPT-4 Turbo（2024年4月）和GPT-4o。
 
 
-**Langchain**
- * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 简单高效的微调LLM模型。支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon。大模型高效量化训练+部署。
+**Others**
+ * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 在您的微信上部署ChatGPT只需两步！两步在云端部署您的微信ChatGPT聊天机器人！🤖️
 
 
-**Openai**
- * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
-
-
-_Updated on May 29, 2024_ (A total of 1564 repositories listed.)
+_Updated on June 02, 2024_ (A total of 1570 repositories listed.)
 
 ## Table of contents
 
@@ -244,6 +238,7 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): 适用于Windows、macOS和Android的首选AI集成工具。只需询问一次，即可从ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多个AI中获取答案。具有可定制的AI和提示功能。
  * [code2prompt](https://github.com/mufeedvh/code2prompt) - 一个CLI工具，可以将您的代码库转换为一个带有源树、提示模板和令牌计数的单个LLM提示。
  * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - 适用于GPT-4、Claude、Llama3、Gemini等高性能开源LLM的高级代码和文本操作提示。
+ * [zzz-api](https://github.com/xing61/zzz-api) - 优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api代理，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要购买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
 
 
 ## Chatbots
@@ -794,6 +789,7 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [langchain-kr](https://github.com/teddylee777/langchain-kr) - 通过LangChain官方文档、Cookbook以及其他实用示例编写的韩语教程。通过本教程，您可以学习如何更轻松、更有效地使用LangChain。
  * [llm-python](https://github.com/onlyphantom/llm-python) - 大型语言模型（LLMs）教程和示例脚本，ft. langchain，openai，llamaindex，gpt，chromadb和pinecone
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - 关于如何训练、评估LLMs，并利用RAG、Agent、Chain构建有趣的应用程序的教程。
+ * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 从零开始学习深度学习，实现GPT。
 
 
 ## NLP
@@ -1030,6 +1026,9 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通过将多个OCR引擎（EasyOCR、Tesseract和Pororo）与🧠 LLM 结合，可以实现更好的文本检测。
  * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 使用表格数据制作具有聊天界面的上下文数据可视化。人工智能数据可视化。
  * [ChatIE](https://github.com/cocacola-lab/chatie) - 在线版本暂时不可用，因为我们无法承担密钥费用。您可以克隆并在本地运行。注意：我们设置了默认的OpenAI密钥。如果密钥超出计划或无效，请告诉我们。响应速度取决于OpenAI。（有时候，）
+ * [RepoToText](https://github.com/jeremiahpetersen/repototext) - 将整个GitHub存储库转换为一个组织良好的单个.txt文件，以便与LLM（GPT-4、Claude Opus、Gemini等）一起使用
+ * [ocular](https://github.com/ocularengineering/ocular) - AI 动力搜索和聊天服务 - 想象一下 ChatGpt 遇见谷歌搜索，但是由您的数据驱动。
+ * [AutoCoder](https://github.com/bin123apple/autocoder) - 我们推出了一个专为代码生成任务设计的新模型。它在HumanEval基础数据集上的测试准确率超过了GPT-4 Turbo（2024年4月）和GPT-4o。
 
 
 ## Langchain
@@ -1677,5 +1676,6 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小程序
  * [99AI](https://github.com/vastxie/99ai) - 99AI 稳定版：基于 NineAI 二开的可商业化 AI Web 应用（免授权，无后门，支持快速部署）。目标 ALL-IN-CHAT99AI 稳定版：基于 NineAI 二开的可商业化 AI 网页应用（无需授权，无后门，支持快速部署）。目标 ALL-IN-CHAT
  * [geekai](https://github.com/yangjian102621/geekai) - AI助手全套开源解决方案，自带运营管理后台，开箱即用。集成了ChatGPT，Azure，ChatGLM，讯飞星火，文心一言等多个平台的大语言模型。支持MJ AI绘画，Stable Diffusion AI绘画，微博热搜等插件工具。采用Go + Vue3 + element-plus实现。
+ * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 在您的微信上部署ChatGPT只需两步！两步在云端部署您的微信ChatGPT聊天机器人！🤖️
 
 
