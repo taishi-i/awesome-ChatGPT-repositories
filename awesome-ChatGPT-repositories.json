@@ -4272,6 +4272,34 @@
                     "zh-hans": "适用于GPT-4、Claude、Llama3、Gemini等高性能开源LLM的高级代码和文本操作提示。",
                     "zh-hant": "高级代码和文本操作提示，适用于各种LLM。适用于GPT-4、Claude、Llama3、Gemini和其他高性能开源LLM。"
                 }
+            },
+            "https://github.com/xing61/zzz-api": {
+                "repository_name": "zzz-api",
+                "user_name": "xing61",
+                "language": "PHP",
+                "license": null,
+                "description": "优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增",
+                "topics": [
+                    "chatgpt",
+                    "china",
+                    "embedding",
+                    "finetune",
+                    "finetuning",
+                    "gpt",
+                    "gpt-35-turbo",
+                    "gpt4",
+                    "openai",
+                    "openai-api",
+                    "openai-proxy",
+                    "prompt",
+                    "proxy"
+                ],
+                "multilingual_descriptions": {
+                    "en": "High-quality and stable OpenAI API interface - For enterprises and developers. OpenAI's API proxy, supporting ChatGPT API calls, supporting OpenAI API interface, supporting: GPT-4, GPT-3.5. No need for an OpenAI Key, no need to purchase an OpenAI account, no need for a US dollar bank card, all unnecessary, just call directly, stable and easy to use!! Smart increase.",
+                    "ja": "優質で安定したOpenAIのAPIインターフェース-企業や開発者向け。OpenAIのAPIプロキシ、ChatGPTのAPI呼び出しをサポートし、openaiのAPIインターフェースをサポートします：gpt-4、gpt-3.5。OpenAIのキーは必要ありません、OpenAIのアカウントを購入する必要もありません、米ドルの銀行カードも必要ありません、すべて不要です、直接呼び出すだけで安定して使いやすいです！！智增增",
+                    "zh-hans": "优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api代理，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要购买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增",
+                    "zh-hant": "優質穩定的OpenAI的API接口-For企業和開發者。OpenAI的api proxy，支持ChatGPT的API調用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要買openai的帳號，不需要美元的銀行卡，通通不用的，直接調用就行，穩定好用！！智增增"
+                }
             }
         },
         "Chatbots": {
@@ -16345,6 +16373,25 @@
                     "zh-hans": "关于如何训练、评估LLMs，并利用RAG、Agent、Chain构建有趣的应用程序的教程。",
                     "zh-hant": "教程：如何訓練、評估LLMs，以及利用RAG、Agent、Chain來構建具娛樂性的LLMs應用程式。"
                 }
+            },
+            "https://github.com/vikparuchuri/zero_to_gpt": {
+                "repository_name": "zero_to_gpt",
+                "user_name": "VikParuchuri",
+                "language": "Jupyter Notebook",
+                "license": "Other",
+                "description": "Go from no deep learning knowledge to implementing GPT.",
+                "topics": [
+                    "deep-learning",
+                    "python",
+                    "pytorch",
+                    "tutorial"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Go from no deep learning knowledge to implementing GPT.",
+                    "ja": "深層学習の知識がない状態からGPTの実装まで進んでください。",
+                    "zh-hans": "从零开始学习深度学习，实现GPT。",
+                    "zh-hant": "從零基礎的深度學習知識到實現GPT。"
+                }
             }
         },
         "NLP": {
@@ -21255,6 +21302,62 @@
                     "ja": "オンライン版は一時的に利用できません。キーを購入する余裕がないためです。ローカルでクローンを作成して実行することができます。注意：私たちはデフォルトのOpenAIキーを設定しています。キーがプランを超えて無効になった場合はお知らせください。応答速度はOpenAIに依存します。（時々、のように）",
                     "zh-hans": "在线版本暂时不可用，因为我们无法承担密钥费用。您可以克隆并在本地运行。注意：我们设置了默认的OpenAI密钥。如果密钥超出计划或无效，请告诉我们。响应速度取决于OpenAI。（有时候，）",
                     "zh-hant": "網上版本暫時無法使用，因為我們無法負擔密鑰。您可以複製並在本地運行。注意：我們設置了預設的openai密鑰。如果密鑰超出計劃並且無效，請告訴我們。響應速度取決於openai。（有時候，的"
+                }
+            },
+            "https://github.com/jeremiahpetersen/repototext": {
+                "repository_name": "RepoToText",
+                "user_name": "JeremiahPetersen",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (GPT-4, Claude Opus, Gemini, etc)",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (GPT-4, Claude Opus, Gemini, etc)",
+                    "ja": "GitHubリポジトリ全体を1つの整理された.txtファイルに変換して、LLM（GPT-4、Claude Opus、Geminiなど）で使用します。",
+                    "zh-hans": "将整个GitHub存储库转换为一个组织良好的单个.txt文件，以便与LLM（GPT-4、Claude Opus、Gemini等）一起使用",
+                    "zh-hant": "將整個 GitHub 存儲庫轉換為一個組織良好的 .txt 文件，以便與 LLM's（GPT-4、Claude Opus、Gemini 等）一起使用。"
+                }
+            },
+            "https://github.com/ocularengineering/ocular": {
+                "repository_name": "ocular",
+                "user_name": "OcularEngineering",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "AI Powered Search and Chat for Orgs - Think ChatGpt meets Google Search but powered by your data.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "enterprise-search",
+                    "llm",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Powered Search and Chat for Orgs - Think ChatGpt meets Google Search but powered by your data.",
+                    "ja": "AIパワードサーチとチャット for Orgs - ChatGptがGoogle検索と出会うと思ってくださいが、あなたのデータでパワードされています。",
+                    "zh-hans": "AI 动力搜索和聊天服务 - 想象一下 ChatGpt 遇见谷歌搜索，但是由您的数据驱动。",
+                    "zh-hant": "AI 強化的組織搜索和聊天 - 想像 ChatGpt 遇見 Google 搜索，但由您的數據提供動力。"
+                }
+            },
+            "https://github.com/bin123apple/autocoder": {
+                "repository_name": "AutoCoder",
+                "user_name": "bin123apple",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o. ",
+                "topics": [
+                    "code-generation",
+                    "code-interpreter",
+                    "humaneval",
+                    "llm",
+                    "nlp",
+                    "nlp-machine-learning",
+                    "text-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.",
+                    "ja": "コード生成タスク向けに設計された新しいモデルを導入しました。そのヒューマンエバルベースデータセットでのテスト精度は、GPT-4 Turbo（2024年4月）およびGPT-4oを上回っています。",
+                    "zh-hans": "我们推出了一个专为代码生成任务设计的新模型。它在HumanEval基础数据集上的测试准确率超过了GPT-4 Turbo（2024年4月）和GPT-4o。",
+                    "zh-hant": "我們推出了一個針對代碼生成任務設計的新模型。它在HumanEval基礎數據集上的測試準確度超過了GPT-4 Turbo（2024年4月）和GPT-4o。"
                 }
             }
         },
@@ -34108,6 +34211,25 @@
                     "ja": "AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。",
                     "zh-hans": "AI助手全套开源解决方案，自带运营管理后台，开箱即用。集成了ChatGPT，Azure，ChatGLM，讯飞星火，文心一言等多个平台的大语言模型。支持MJ AI绘画，Stable Diffusion AI绘画，微博热搜等插件工具。采用Go + Vue3 + element-plus实现。",
                     "zh-hant": "AI 助手全套開源解決方案，自帶運營管理後台，開箱即用。集成了 ChatGPT, Azure, ChatGLM,訊飛星火，文心一言等多個平台的大語言模型。支持 MJ AI 繪畫，Stable Diffusion AI 繪畫，微博熱搜等插件工具。採用 Go + Vue3 + element-plus 實現。"
+                }
+            },
+            "https://github.com/kx-huang/chatgpt-on-wechat": {
+                "repository_name": "ChatGPT-on-WeChat",
+                "user_name": "kx-Huang",
+                "language": "TypeScript",
+                "license": "ISC License",
+                "description": "🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️",
+                "topics": [
+                    "chatgpt",
+                    "gpt-4",
+                    "railway-app",
+                    "wechat-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️",
+                    "ja": "🤖️ 2つのステップでWeChatにChatGPTを展開する方法！ 两步在云端部署你的微信ChatGPT聊天机器人！🤖️",
+                    "zh-hans": "🤖️ 在您的微信上部署ChatGPT只需两步！两步在云端部署您的微信ChatGPT聊天机器人！🤖️",
+                    "zh-hant": "🤖️ 在您的微信上部署ChatGPT只需2个步骤！兩步在雲端部署您的微信ChatGPT聊天機器人！🤖️"
                 }
             }
         }

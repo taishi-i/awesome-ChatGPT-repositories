@@ -15,30 +15,24 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - さまざまなLLM向けの高度なコードおよびテキスト操作プロンプト。GPT-4、Claude、Llama3、Gemini、およびその他の高性能オープンソースLLMに適しています。
+ * [zzz-api](https://github.com/xing61/zzz-api) - 優質で安定したOpenAIのAPIインターフェース-企業や開発者向け。OpenAIのAPIプロキシ、ChatGPTのAPI呼び出しをサポートし、openaiのAPIインターフェースをサポートします：gpt-4、gpt-3.5。OpenAIのキーは必要ありません、OpenAIのアカウントを購入する必要もありません、米ドルの銀行カードも必要ありません、すべて不要です、直接呼び出すだけで安定して使いやすいです！！智增增
 
 
-**Chatbots**
- * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPTを家で使おう！基本的には、Google Nest HubやAmazon Alexaのホームアシスタントよりも優れています。Raspberry Piを使用して、OpenAI APIに基づいて構築されています。
-
-
-**CLIs**
- * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAIとGeminiのためのネイティブAndroidクライアント☁️
+**Tutorials**
+ * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 深層学習の知識がない状態からGPTの実装まで進んでください。
 
 
 **NLP**
- * [ChatIE](https://github.com/cocacola-lab/chatie) - オンライン版は一時的に利用できません。キーを購入する余裕がないためです。ローカルでクローンを作成して実行することができます。注意：私たちはデフォルトのOpenAIキーを設定しています。キーがプランを超えて無効になった場合はお知らせください。応答速度はOpenAIに依存します。（時々、のように）
+ * [RepoToText](https://github.com/jeremiahpetersen/repototext) - GitHubリポジトリ全体を1つの整理された.txtファイルに変換して、LLM（GPT-4、Claude Opus、Geminiなど）で使用します。
+ * [ocular](https://github.com/ocularengineering/ocular) - AIパワードサーチとチャット for Orgs - ChatGptがGoogle検索と出会うと思ってくださいが、あなたのデータでパワードされています。
+ * [AutoCoder](https://github.com/bin123apple/autocoder) - コード生成タスク向けに設計された新しいモデルを導入しました。そのヒューマンエバルベースデータセットでのテスト精度は、GPT-4 Turbo（2024年4月）およびGPT-4oを上回っています。
 
 
-**Langchain**
- * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 簡単で効率的なファインチューニングLLMs。（サポートされているLLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大規模モデルの効率的な量子化トレーニング+展開。
+**Others**
+ * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 2つのステップでWeChatにChatGPTを展開する方法！ 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 
 
-**Openai**
- * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - OpenAI API標準インターフェースサーバーに、openai-api、bing、gemini、coze、および絵画など複数のAIを統合したチャットインターフェースを適応させました。
-
-
-_Updated on May 29, 2024_ (A total of 1564 repositories listed.)
+_Updated on June 02, 2024_ (A total of 1570 repositories listed.)
 
 ## Table of contents
 
@@ -244,6 +238,7 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。
  * [code2prompt](https://github.com/mufeedvh/code2prompt) - コードベースを単一のLLMプロンプトに変換するためのCLIツール。ソースツリー、プロンプトテンプレート、トークン数のカウントが含まれています。
  * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - さまざまなLLM向けの高度なコードおよびテキスト操作プロンプト。GPT-4、Claude、Llama3、Gemini、およびその他の高性能オープンソースLLMに適しています。
+ * [zzz-api](https://github.com/xing61/zzz-api) - 優質で安定したOpenAIのAPIインターフェース-企業や開発者向け。OpenAIのAPIプロキシ、ChatGPTのAPI呼び出しをサポートし、openaiのAPIインターフェースをサポートします：gpt-4、gpt-3.5。OpenAIのキーは必要ありません、OpenAIのアカウントを購入する必要もありません、米ドルの銀行カードも必要ありません、すべて不要です、直接呼び出すだけで安定して使いやすいです！！智增增
 
 
 ## Chatbots
@@ -794,6 +789,7 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [langchain-kr](https://github.com/teddylee777/langchain-kr) - LangChain 公式ドキュメント、Cookbook、その他の実用例を基に作成した韓国語チュートリアルです。このチュートリアルを通じてLangChainをより簡単かつ効果的に使用する方法を学ぶことができます。
  * [llm-python](https://github.com/onlyphantom/llm-python) - 大規模言語モデル（LLMs）のチュートリアル＆サンプルスクリプト、ft. langchain、openai、llamaindex、gpt、chromadb＆pinecone
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - LLMを訓練し、評価するチュートリアル、およびRAG、Agent、Chainを活用してエンターテイニングなLLMアプリケーションを構築する方法について共有します。
+ * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 深層学習の知識がない状態からGPTの実装まで進んでください。
 
 
 ## NLP
@@ -1030,6 +1026,9 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 🔍 EasyOCR、Tesseract、およびPororoを🧠 LLMと組み合わせることで、より優れたテキスト検出が可能になります。
  * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 表形式のデータセットからコンテキストデータの視覚化をチャットインターフェースで行う。AIデータの視覚化。
  * [ChatIE](https://github.com/cocacola-lab/chatie) - オンライン版は一時的に利用できません。キーを購入する余裕がないためです。ローカルでクローンを作成して実行することができます。注意：私たちはデフォルトのOpenAIキーを設定しています。キーがプランを超えて無効になった場合はお知らせください。応答速度はOpenAIに依存します。（時々、のように）
+ * [RepoToText](https://github.com/jeremiahpetersen/repototext) - GitHubリポジトリ全体を1つの整理された.txtファイルに変換して、LLM（GPT-4、Claude Opus、Geminiなど）で使用します。
+ * [ocular](https://github.com/ocularengineering/ocular) - AIパワードサーチとチャット for Orgs - ChatGptがGoogle検索と出会うと思ってくださいが、あなたのデータでパワードされています。
+ * [AutoCoder](https://github.com/bin123apple/autocoder) - コード生成タスク向けに設計された新しいモデルを導入しました。そのヒューマンエバルベースデータセットでのテスト精度は、GPT-4 Turbo（2024年4月）およびGPT-4oを上回っています。
 
 
 ## Langchain
@@ -1677,5 +1676,6 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小プログラム 出力:
  * [99AI](https://github.com/vastxie/99ai) - 99AI 安定版：NineAIをベースにした商用利用可能なAI Webアプリケーション（ライセンス不要、バックドアなし、迅速な展開をサポート）。目標はALL-IN-CHATです。
  * [geekai](https://github.com/yangjian102621/geekai) - AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。
+ * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 2つのステップでWeChatにChatGPTを展開する方法！ 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
 
 

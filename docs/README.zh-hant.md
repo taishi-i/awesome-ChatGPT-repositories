@@ -15,30 +15,24 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - 高级代码和文本操作提示，适用于各种LLM。适用于GPT-4、Claude、Llama3、Gemini和其他高性能开源LLM。
+ * [zzz-api](https://github.com/xing61/zzz-api) - 優質穩定的OpenAI的API接口-For企業和開發者。OpenAI的api proxy，支持ChatGPT的API調用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要買openai的帳號，不需要美元的銀行卡，通通不用的，直接調用就行，穩定好用！！智增增
 
 
-**Chatbots**
- * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT在家中！基本上是一個更好的Google Nest Hub或Amazon Alexa家庭助理。使用Raspberry Pi構建，並使用OpenAI API。
-
-
-**CLIs**
- * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAI 和 Gemini 的原生安卓客戶端 ☁️
+**Tutorials**
+ * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 從零基礎的深度學習知識到實現GPT。
 
 
 **NLP**
- * [ChatIE](https://github.com/cocacola-lab/chatie) - 網上版本暫時無法使用，因為我們無法負擔密鑰。您可以複製並在本地運行。注意：我們設置了預設的openai密鑰。如果密鑰超出計劃並且無效，請告訴我們。響應速度取決於openai。（有時候，的
+ * [RepoToText](https://github.com/jeremiahpetersen/repototext) - 將整個 GitHub 存儲庫轉換為一個組織良好的 .txt 文件，以便與 LLM's（GPT-4、Claude Opus、Gemini 等）一起使用。
+ * [ocular](https://github.com/ocularengineering/ocular) - AI 強化的組織搜索和聊天 - 想像 ChatGpt 遇見 Google 搜索，但由您的數據提供動力。
+ * [AutoCoder](https://github.com/bin123apple/autocoder) - 我們推出了一個針對代碼生成任務設計的新模型。它在HumanEval基礎數據集上的測試準確度超過了GPT-4 Turbo（2024年4月）和GPT-4o。
 
 
-**Langchain**
- * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 簡單高效的微調LLM（支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大模型高效量化訓練+部署。
+**Others**
+ * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 在您的微信上部署ChatGPT只需2个步骤！兩步在雲端部署您的微信ChatGPT聊天機器人！🤖️
 
 
-**Openai**
- * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、繪畫 多款AI的聊天接口適配到 OpenAI API 標準接口服務端。
-
-
-_Updated on May 29, 2024_ (A total of 1564 repositories listed.)
+_Updated on June 02, 2024_ (A total of 1570 repositories listed.)
 
 ## Table of contents
 
@@ -244,6 +238,7 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [AISuperDomain](https://github.com/win4r/aisuperdomain) - Aila(AI超元域): 專為Windows、macOS和Android設計的頂級AI整合工具。只需問一次，即可從ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多個AI獲得答案。具有可定制的AI和提示功能。
  * [code2prompt](https://github.com/mufeedvh/code2prompt) - 一個CLI工具，將您的代碼庫轉換為單個LLM提示符，具有源代碼樹、提示符模板和令牌計數。
  * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - 高级代码和文本操作提示，适用于各种LLM。适用于GPT-4、Claude、Llama3、Gemini和其他高性能开源LLM。
+ * [zzz-api](https://github.com/xing61/zzz-api) - 優質穩定的OpenAI的API接口-For企業和開發者。OpenAI的api proxy，支持ChatGPT的API調用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要買openai的帳號，不需要美元的銀行卡，通通不用的，直接調用就行，穩定好用！！智增增
 
 
 ## Chatbots
@@ -794,6 +789,7 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [langchain-kr](https://github.com/teddylee777/langchain-kr) - 請將以下內容翻譯成繁體中文。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。LangChain官方文件、Cookbook、以及其他實用範例為基礎撰寫的韓文教程。透過本教程，您可以學習如何更輕鬆有效地使用LangChain。
  * [llm-python](https://github.com/onlyphantom/llm-python) - 大型語言模型（LLMs）教程和示例腳本，包括langchain、openai、llamaindex、gpt、chromadb和pinecone
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - 教程：如何訓練、評估LLMs，以及利用RAG、Agent、Chain來構建具娛樂性的LLMs應用程式。
+ * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 從零基礎的深度學習知識到實現GPT。
 
 
 ## NLP
@@ -1030,6 +1026,9 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [BetterOCR](https://github.com/junhoyeo/betterocr) - 通過將多個OCR引擎（EasyOCR、Tesseract和Pororo）與🧠 LLM結合，可以更好地檢測文本。
  * [viz-gpt](https://github.com/observedobserver/viz-gpt) - 使用表格數據製作具有聊天界面的上下文數據可視化。人工智能數據可視化。
  * [ChatIE](https://github.com/cocacola-lab/chatie) - 網上版本暫時無法使用，因為我們無法負擔密鑰。您可以複製並在本地運行。注意：我們設置了預設的openai密鑰。如果密鑰超出計劃並且無效，請告訴我們。響應速度取決於openai。（有時候，的
+ * [RepoToText](https://github.com/jeremiahpetersen/repototext) - 將整個 GitHub 存儲庫轉換為一個組織良好的 .txt 文件，以便與 LLM's（GPT-4、Claude Opus、Gemini 等）一起使用。
+ * [ocular](https://github.com/ocularengineering/ocular) - AI 強化的組織搜索和聊天 - 想像 ChatGpt 遇見 Google 搜索，但由您的數據提供動力。
+ * [AutoCoder](https://github.com/bin123apple/autocoder) - 我們推出了一個針對代碼生成任務設計的新模型。它在HumanEval基礎數據集上的測試準確度超過了GPT-4 Turbo（2024年4月）和GPT-4o。
 
 
 ## Langchain
@@ -1677,5 +1676,6 @@ _Updated on May 29, 2024_ (A total of 1564 repositories listed.)
  * [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - 🤖 ChatGPT 小程式
  * [99AI](https://github.com/vastxie/99ai) - 99AI 穩定版：基於 NineAI 二開的可商業化 AI Web 應用（免授權，無後門，支持快速部署）。目標 ALL-IN-CHAT
  * [geekai](https://github.com/yangjian102621/geekai) - AI 助手全套開源解決方案，自帶運營管理後台，開箱即用。集成了 ChatGPT, Azure, ChatGLM,訊飛星火，文心一言等多個平台的大語言模型。支持 MJ AI 繪畫，Stable Diffusion AI 繪畫，微博熱搜等插件工具。採用 Go + Vue3 + element-plus 實現。
+ * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 在您的微信上部署ChatGPT只需2个步骤！兩步在雲端部署您的微信ChatGPT聊天機器人！🤖️
 
 
