@@ -4300,6 +4300,62 @@
                     "zh-hans": "优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api代理，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要购买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增",
                     "zh-hant": "優質穩定的OpenAI的API接口-For企業和開發者。OpenAI的api proxy，支持ChatGPT的API調用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要買openai的帳號，不需要美元的銀行卡，通通不用的，直接調用就行，穩定好用！！智增增"
                 }
+            },
+            "https://github.com/zjunlp/easyinstruct": {
+                "repository_name": "EasyInstruct",
+                "user_name": "zjunlp",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "[ACL 2024] An Easy-to-use Instruction Processing Framework for LLMs.",
+                "topics": [
+                    "api",
+                    "chain-of-thought",
+                    "chatgpt",
+                    "easyinstruct",
+                    "gpt",
+                    "gpt-3",
+                    "in-context-learning",
+                    "instructions",
+                    "knowlm",
+                    "large-language-models",
+                    "llama",
+                    "multimodal",
+                    "prompt",
+                    "prompting",
+                    "pypy-library",
+                    "python",
+                    "reasoning",
+                    "tool"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[ACL 2024] An Easy-to-use Instruction Processing Framework for LLMs.",
+                    "ja": "[ACL 2024] LLM向けの使いやすい命令処理フレームワーク。",
+                    "zh-hans": "[ACL 2024] 一种用于LLMs的易于使用的指令处理框架。",
+                    "zh-hant": "[ACL 2024] 一個適用於LLMs的易於使用的指令處理框架。"
+                }
+            },
+            "https://github.com/ai4finance-foundation/finrobot": {
+                "repository_name": "FinRobot",
+                "user_name": "AI4Finance-Foundation",
+                "language": "Jupyter Notebook",
+                "license": "Apache License 2.0",
+                "description": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀 ",
+                "topics": [
+                    "aiagent",
+                    "chatgpt",
+                    "finance",
+                    "fingpt",
+                    "large-language-models",
+                    "multimodal-deep-learning",
+                    "prompt-engineering",
+                    "robo-advisor"
+                ],
+                "multilingual_descriptions": {
+                    "en": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀",
+                    "ja": "FinRobot: LLMsを使用した金融アプリケーションのためのオープンソースAIエージェントプラットフォーム 🚀 🚀 🚀",
+                    "zh-hans": "FinRobot：一个使用LLMs的金融应用程序的开源AI代理平台 🚀 🚀 🚀",
+                    "zh-hant": "FinRobot：一個使用LLMs的金融應用開源AI代理平台 🚀 🚀 🚀"
+                }
             }
         },
         "Chatbots": {
@@ -9325,6 +9381,29 @@
                     "zh-hans": "ChatGPT在家！基本上是一个更好的Google Nest Hub或亚马逊Alexa家庭助手。使用OpenAI API在树莓派上构建。",
                     "zh-hant": "ChatGPT在家中！基本上是一個更好的Google Nest Hub或Amazon Alexa家庭助理。使用Raspberry Pi構建，並使用OpenAI API。"
                 }
+            },
+            "https://github.com/onuratakan/gpt-computer-assistant": {
+                "repository_name": "gpt-computer-assistant",
+                "user_name": "onuratakan",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "gpt-4o for windows, macos and ubuntu",
+                "topics": [
+                    "assistant",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "gpt",
+                    "gpt-4o",
+                    "openai",
+                    "ubuntu",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "gpt-4o for windows, macos and ubuntu",
+                    "ja": "Windows、macOS、およびUbuntu用のgpt-4o",
+                    "zh-hans": "gpt-4o适用于Windows、macOS和Ubuntu",
+                    "zh-hant": "gpt-4o 適用於 Windows、macOS 和 Ubuntu"
+                }
             }
         },
         "Browser-extensions": {
@@ -12903,6 +12982,54 @@
                     "ja": "ChatGPT to Notionは、ChatGPTの賢さをあなたのNotionワークスペースに直接もたらします！",
                     "zh-hans": "ChatGPT to Notion 将 ChatGPT 的智能直接带入您的 Notion 工作空间！",
                     "zh-hant": "ChatGPT to Notion 將 ChatGPT 的智慧帶入您的 Notion 工作區！"
+                }
+            },
+            "https://github.com/dense-analysis/neural": {
+                "repository_name": "neural",
+                "user_name": "dense-analysis",
+                "language": "Vim Script",
+                "license": "MIT License",
+                "description": "AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "code-generation",
+                    "gpt-3",
+                    "linux",
+                    "llm",
+                    "machine-learning",
+                    "macos",
+                    "neovim",
+                    "openai",
+                    "vim",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)",
+                    "ja": "AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPTなど）AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPT、その他）",
+                    "zh-hans": "AI Vim/Neovim 代码生成插件（OpenAI，ChatGPT 等）",
+                    "zh-hant": "AI Vim/Neovim 代碼生成插件（OpenAI、ChatGPT 等）"
+                }
+            },
+            "https://github.com/kyegomez/sophia": {
+                "repository_name": "Sophia",
+                "user_name": "kyegomez",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": " Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "deep-learning",
+                    "multi-modality",
+                    "neural-network",
+                    "optimizer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.",
+                    "ja": "モデルトレーニングコストを50％削減するための簡単なプラグインとプレイ最適化ツール。LLMsにおいてAdamより2倍高速な新しい最適化ツール。",
+                    "zh-hans": "轻松插件和播放优化器，可将模型训练成本降低50%。新的优化器在LLMs上比Adam快2倍。",
+                    "zh-hant": "輕鬆插件和播放優化器，可將模型訓練成本降低50%。新的優化器比Adam在LLMs上快2倍。"
                 }
             }
         },
@@ -21358,6 +21485,30 @@
                     "ja": "コード生成タスク向けに設計された新しいモデルを導入しました。そのヒューマンエバルベースデータセットでのテスト精度は、GPT-4 Turbo（2024年4月）およびGPT-4oを上回っています。",
                     "zh-hans": "我们推出了一个专为代码生成任务设计的新模型。它在HumanEval基础数据集上的测试准确率超过了GPT-4 Turbo（2024年4月）和GPT-4o。",
                     "zh-hant": "我們推出了一個針對代碼生成任務設計的新模型。它在HumanEval基礎數據集上的測試準確度超過了GPT-4 Turbo（2024年4月）和GPT-4o。"
+                }
+            },
+            "https://github.com/langbaseinc/langui": {
+                "repository_name": "langui",
+                "user_name": "LangbaseInc",
+                "language": "HTML",
+                "license": "MIT License",
+                "description": "UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.",
+                "topics": [
+                    "chat-ui",
+                    "chatgpt",
+                    "chatgpt-ui",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt-ui",
+                    "lang-chain",
+                    "lang-ui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.",
+                    "ja": "あなたのAIのためのUI。あなたのGPT、生成AI、およびLLMプロジェクトに合わせたオープンソースのTailwindコンポーネント。",
+                    "zh-hans": "为您的人工智能设计的用户界面。为您的GPT、生成式人工智能和LLM项目量身定制的开源Tailwind组件。",
+                    "zh-hant": "為您的人工智慧設計的使用者界面。針對您的GPT、生成式人工智慧和LLM項目量身定制的開源Tailwind組件。"
                 }
             }
         },
@@ -34230,6 +34381,30 @@
                     "ja": "🤖️ 2つのステップでWeChatにChatGPTを展開する方法！ 两步在云端部署你的微信ChatGPT聊天机器人！🤖️",
                     "zh-hans": "🤖️ 在您的微信上部署ChatGPT只需两步！两步在云端部署您的微信ChatGPT聊天机器人！🤖️",
                     "zh-hant": "🤖️ 在您的微信上部署ChatGPT只需2个步骤！兩步在雲端部署您的微信ChatGPT聊天機器人！🤖️"
+                }
+            },
+            "https://github.com/chatbookai/ai-to-pptx": {
+                "repository_name": "ai-to-pptx",
+                "user_name": "chatbookai",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Ai-to-pptx是一个使用AI技术(ChatGpt和Gemini)制作PPTX的助手，支持在线修改和导出PPTX。 主要功能: 1 使用ChatGPT等大语言模型来生成大纲 2 生成的内容允许用户再次修改 3 生成PPTX的时候可以选择不同的模板 4 支持在线修改PPTX的文字内容，样式，图片等 5 支持导出PPTX，PDF，PNG等多种格式",
+                "topics": [
+                    "ai-to-pptx",
+                    "aippt",
+                    "chatgpt",
+                    "chatgpt-pptx",
+                    "chatgpt-to-",
+                    "chatgpt-to-pptx",
+                    "pptx",
+                    "slides",
+                    "vueppt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Ai-to-pptx is an assistant that uses AI technology (ChatGpt and Gemini) to create PPTX files, supporting online editing and exporting of PPTX files. Main features include: 1. Using large language models like ChatGPT to generate outlines. 2. Generated content can be further edited by users. 3. Different templates can be selected when generating PPTX files. 4. Supports online editing of text content, styles, images, etc. in PPTX files. 5. Supports exporting PPTX files in various formats such as PDF, PNG, etc.",
+                    "ja": "Ai-to-pptxは、AI技術（ChatGptとGemini）を使用してPPTXを作成するアシスタントです。オンラインでの編集とPPTXのエクスポートをサポートしています。主な機能：1. ChatGPTなどの大規模言語モデルを使用してアウトラインを生成する。2.生成されたコンテンツをユーザーが再度編集できる。3. PPTXを生成する際に異なるテンプレートを選択できる。4.オンラインでPPTXのテキストコンテンツ、スタイル、画像などを編集できる。5. PPTX、PDF、PNGなど、さまざまな形式でエクスポートをサポートしています。",
+                    "zh-hans": "Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持在線修改和導出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持在線修改PPTX的文字內容，樣式，圖片等 5 支持導出PPTX，PDF，PNG等多種格式",
+                    "zh-hant": "Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持線上修改和匯出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持線上修改PPTX的文字內容，樣式，圖片等 5 支持匯出PPTX，PDF，PNG等多種格式"
                 }
             }
         }

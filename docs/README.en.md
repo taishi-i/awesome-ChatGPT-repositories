@@ -15,24 +15,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [zzz-api](https://github.com/xing61/zzz-api) - High-quality and stable OpenAI API interface - For enterprises and developers. OpenAI's API proxy, supporting ChatGPT API calls, supporting OpenAI API interface, supporting: GPT-4, GPT-3.5. No need for an OpenAI Key, no need to purchase an OpenAI account, no need for a US dollar bank card, all unnecessary, just call directly, stable and easy to use!! Smart increase.
+ * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] An Easy-to-use Instruction Processing Framework for LLMs.
+ * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
 
 
-**Tutorials**
- * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - Go from no deep learning knowledge to implementing GPT.
+**Chatbots**
+ * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
+
+
+**Browser-extensions**
+ * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
+ * [Sophia](https://github.com/kyegomez/sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
 
 
 **NLP**
- * [RepoToText](https://github.com/jeremiahpetersen/repototext) - Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (GPT-4, Claude Opus, Gemini, etc)
- * [ocular](https://github.com/ocularengineering/ocular) - AI Powered Search and Chat for Orgs - Think ChatGpt meets Google Search but powered by your data.
- * [AutoCoder](https://github.com/bin123apple/autocoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
+ * [langui](https://github.com/langbaseinc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 
 
 **Others**
- * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
+ * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx is an assistant that uses AI technology (ChatGpt and Gemini) to create PPTX files, supporting online editing and exporting of PPTX files. Main features include: 1. Using large language models like ChatGPT to generate outlines. 2. Generated content can be further edited by users. 3. Different templates can be selected when generating PPTX files. 4. Supports online editing of text content, styles, images, etc. in PPTX files. 5. Supports exporting PPTX files in various formats such as PDF, PNG, etc.
 
 
-_Updated on June 02, 2024_ (A total of 1570 repositories listed.)
+_Updated on June 05, 2024_ (A total of 1577 repositories listed.)
 
 ## Table of contents
 
@@ -239,6 +243,8 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
  * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - Advanced Code and Text Manipulation Prompts for Various LLMs. Suitable for GPT-4, Claude, Llama3, Gemini, and other high-performance open-source LLMs.
  * [zzz-api](https://github.com/xing61/zzz-api) - High-quality and stable OpenAI API interface - For enterprises and developers. OpenAI's API proxy, supporting ChatGPT API calls, supporting OpenAI API interface, supporting: GPT-4, GPT-3.5. No need for an OpenAI Key, no need to purchase an OpenAI account, no need for a US dollar bank card, all unnecessary, just call directly, stable and easy to use!! Smart increase.
+ * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] An Easy-to-use Instruction Processing Framework for LLMs.
+ * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
 
 
 ## Chatbots
@@ -457,6 +463,7 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp Bot OpenAI ChatGPT NodeJS Using Library Baileys
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network connectivity, Vision photo recognition, and question templat
  * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.
+ * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
 
 
 ## Browser-extensions
@@ -623,6 +630,8 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [OpenCharacters](https://github.com/josephrocca/opencharacters) - Simple little web interface for creating characters and chatting with them. It's basically a single HTML file - no server. Share characters using a link (character data is stored within the URL itself). All chat data is stored in your browser using Indexed
  * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - Desktop AI Assistant powered by GPT-4, GPT-4 Vision, GPT-3.5, DALL-E 3, Langchain, Llama-index, chat, vision, image generation and analysis, autonomous agents, code and command execution, file upload and download, speech synthesis and recognition, web acce
  * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notion brings the cleverness of ChatGPT right into your Notion workspace!
+ * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
+ * [Sophia](https://github.com/kyegomez/sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
 
 
 ## CLIs
@@ -1029,6 +1038,7 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [RepoToText](https://github.com/jeremiahpetersen/repototext) - Turn an entire GitHub Repo into a single organized .txt file to use with LLM's (GPT-4, Claude Opus, Gemini, etc)
  * [ocular](https://github.com/ocularengineering/ocular) - AI Powered Search and Chat for Orgs - Think ChatGpt meets Google Search but powered by your data.
  * [AutoCoder](https://github.com/bin123apple/autocoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
+ * [langui](https://github.com/langbaseinc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 
 
 ## Langchain
@@ -1677,5 +1687,6 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [99AI](https://github.com/vastxie/99ai) - 99AI Stable Version: A commercially available AI Web application based on NineAI's secondary development (no authorization required, no backdoors, supports rapid deployment). Goal: ALL-IN-CHAT
  * [geekai](https://github.com/yangjian102621/geekai) - AI assistant full set of open source solutions, with built-in operation management background, ready to use out of the box. Integrated with large language models from multiple platforms such as ChatGPT, Azure, ChatGLM, Xunfei Xinghuo, Wenxin Yiyuan, etc. Supports MJ AI drawing, Stable Diffusion AI drawing, Weibo hot search and other plugin tools. Implemented using Go + Vue3 + element-plus.
  * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
+ * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx is an assistant that uses AI technology (ChatGpt and Gemini) to create PPTX files, supporting online editing and exporting of PPTX files. Main features include: 1. Using large language models like ChatGPT to generate outlines. 2. Generated content can be further edited by users. 3. Different templates can be selected when generating PPTX files. 4. Supports online editing of text content, styles, images, etc. in PPTX files. 5. Supports exporting PPTX files in various formats such as PDF, PNG, etc.
 
 

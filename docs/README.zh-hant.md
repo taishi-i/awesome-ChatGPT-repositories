@@ -15,24 +15,28 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [zzz-api](https://github.com/xing61/zzz-api) - 優質穩定的OpenAI的API接口-For企業和開發者。OpenAI的api proxy，支持ChatGPT的API調用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要買openai的帳號，不需要美元的銀行卡，通通不用的，直接調用就行，穩定好用！！智增增
+ * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] 一個適用於LLMs的易於使用的指令處理框架。
+ * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot：一個使用LLMs的金融應用開源AI代理平台 🚀 🚀 🚀
 
 
-**Tutorials**
- * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 從零基礎的深度學習知識到實現GPT。
+**Chatbots**
+ * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o 適用於 Windows、macOS 和 Ubuntu
+
+
+**Browser-extensions**
+ * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim 代碼生成插件（OpenAI、ChatGPT 等）
+ * [Sophia](https://github.com/kyegomez/sophia) - 輕鬆插件和播放優化器，可將模型訓練成本降低50%。新的優化器比Adam在LLMs上快2倍。
 
 
 **NLP**
- * [RepoToText](https://github.com/jeremiahpetersen/repototext) - 將整個 GitHub 存儲庫轉換為一個組織良好的 .txt 文件，以便與 LLM's（GPT-4、Claude Opus、Gemini 等）一起使用。
- * [ocular](https://github.com/ocularengineering/ocular) - AI 強化的組織搜索和聊天 - 想像 ChatGpt 遇見 Google 搜索，但由您的數據提供動力。
- * [AutoCoder](https://github.com/bin123apple/autocoder) - 我們推出了一個針對代碼生成任務設計的新模型。它在HumanEval基礎數據集上的測試準確度超過了GPT-4 Turbo（2024年4月）和GPT-4o。
+ * [langui](https://github.com/langbaseinc/langui) - 為您的人工智慧設計的使用者界面。針對您的GPT、生成式人工智慧和LLM項目量身定制的開源Tailwind組件。
 
 
 **Others**
- * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 在您的微信上部署ChatGPT只需2个步骤！兩步在雲端部署您的微信ChatGPT聊天機器人！🤖️
+ * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持線上修改和匯出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持線上修改PPTX的文字內容，樣式，圖片等 5 支持匯出PPTX，PDF，PNG等多種格式
 
 
-_Updated on June 02, 2024_ (A total of 1570 repositories listed.)
+_Updated on June 05, 2024_ (A total of 1577 repositories listed.)
 
 ## Table of contents
 
@@ -239,6 +243,8 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [code2prompt](https://github.com/mufeedvh/code2prompt) - 一個CLI工具，將您的代碼庫轉換為單個LLM提示符，具有源代碼樹、提示符模板和令牌計數。
  * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - 高级代码和文本操作提示，适用于各种LLM。适用于GPT-4、Claude、Llama3、Gemini和其他高性能开源LLM。
  * [zzz-api](https://github.com/xing61/zzz-api) - 優質穩定的OpenAI的API接口-For企業和開發者。OpenAI的api proxy，支持ChatGPT的API調用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要買openai的帳號，不需要美元的銀行卡，通通不用的，直接調用就行，穩定好用！！智增增
+ * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] 一個適用於LLMs的易於使用的指令處理框架。
+ * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot：一個使用LLMs的金融應用開源AI代理平台 🚀 🚀 🚀
 
 
 ## Chatbots
@@ -457,6 +463,7 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsApp 機器人 OpenAI ChatGPT NodeJS 使用 Library Baileys
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免費的ChatGPT API的安卓語音助手，可用音量鍵喚醒並進行語音交流，支持網絡連接、Vision拍照識圖、提問模板等功能。
  * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT在家中！基本上是一個更好的Google Nest Hub或Amazon Alexa家庭助理。使用Raspberry Pi構建，並使用OpenAI API。
+ * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o 適用於 Windows、macOS 和 Ubuntu
 
 
 ## Browser-extensions
@@ -623,6 +630,8 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [OpenCharacters](https://github.com/josephrocca/opencharacters) - 一個簡單的小型網頁界面，用於創建角色並與他們聊天。基本上是一個單獨的HTML文件 - 沒有伺服器。使用連結分享角色（角色數據存儲在URL本身中）。所有聊天數據都存儲在您的瀏覽器中，使用Indexed。
  * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - 由GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-index驅動的桌面AI助手，具備聊天、視覺、圖像生成和分析、自主代理、代碼和命令執行、文件上傳和下載、語音合成和識別、網頁訪問功能。
  * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notion 將 ChatGPT 的智慧帶入您的 Notion 工作區！
+ * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim 代碼生成插件（OpenAI、ChatGPT 等）
+ * [Sophia](https://github.com/kyegomez/sophia) - 輕鬆插件和播放優化器，可將模型訓練成本降低50%。新的優化器比Adam在LLMs上快2倍。
 
 
 ## CLIs
@@ -1029,6 +1038,7 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [RepoToText](https://github.com/jeremiahpetersen/repototext) - 將整個 GitHub 存儲庫轉換為一個組織良好的 .txt 文件，以便與 LLM's（GPT-4、Claude Opus、Gemini 等）一起使用。
  * [ocular](https://github.com/ocularengineering/ocular) - AI 強化的組織搜索和聊天 - 想像 ChatGpt 遇見 Google 搜索，但由您的數據提供動力。
  * [AutoCoder](https://github.com/bin123apple/autocoder) - 我們推出了一個針對代碼生成任務設計的新模型。它在HumanEval基礎數據集上的測試準確度超過了GPT-4 Turbo（2024年4月）和GPT-4o。
+ * [langui](https://github.com/langbaseinc/langui) - 為您的人工智慧設計的使用者界面。針對您的GPT、生成式人工智慧和LLM項目量身定制的開源Tailwind組件。
 
 
 ## Langchain
@@ -1677,5 +1687,6 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [99AI](https://github.com/vastxie/99ai) - 99AI 穩定版：基於 NineAI 二開的可商業化 AI Web 應用（免授權，無後門，支持快速部署）。目標 ALL-IN-CHAT
  * [geekai](https://github.com/yangjian102621/geekai) - AI 助手全套開源解決方案，自帶運營管理後台，開箱即用。集成了 ChatGPT, Azure, ChatGLM,訊飛星火，文心一言等多個平台的大語言模型。支持 MJ AI 繪畫，Stable Diffusion AI 繪畫，微博熱搜等插件工具。採用 Go + Vue3 + element-plus 實現。
  * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 在您的微信上部署ChatGPT只需2个步骤！兩步在雲端部署您的微信ChatGPT聊天機器人！🤖️
+ * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持線上修改和匯出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持線上修改PPTX的文字內容，樣式，圖片等 5 支持匯出PPTX，PDF，PNG等多種格式
 
 

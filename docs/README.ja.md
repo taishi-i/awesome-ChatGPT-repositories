@@ -15,24 +15,28 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [zzz-api](https://github.com/xing61/zzz-api) - 優質で安定したOpenAIのAPIインターフェース-企業や開発者向け。OpenAIのAPIプロキシ、ChatGPTのAPI呼び出しをサポートし、openaiのAPIインターフェースをサポートします：gpt-4、gpt-3.5。OpenAIのキーは必要ありません、OpenAIのアカウントを購入する必要もありません、米ドルの銀行カードも必要ありません、すべて不要です、直接呼び出すだけで安定して使いやすいです！！智增增
+ * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] LLM向けの使いやすい命令処理フレームワーク。
+ * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot: LLMsを使用した金融アプリケーションのためのオープンソースAIエージェントプラットフォーム 🚀 🚀 🚀
 
 
-**Tutorials**
- * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 深層学習の知識がない状態からGPTの実装まで進んでください。
+**Chatbots**
+ * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - Windows、macOS、およびUbuntu用のgpt-4o
+
+
+**Browser-extensions**
+ * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPTなど）AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPT、その他）
+ * [Sophia](https://github.com/kyegomez/sophia) - モデルトレーニングコストを50％削減するための簡単なプラグインとプレイ最適化ツール。LLMsにおいてAdamより2倍高速な新しい最適化ツール。
 
 
 **NLP**
- * [RepoToText](https://github.com/jeremiahpetersen/repototext) - GitHubリポジトリ全体を1つの整理された.txtファイルに変換して、LLM（GPT-4、Claude Opus、Geminiなど）で使用します。
- * [ocular](https://github.com/ocularengineering/ocular) - AIパワードサーチとチャット for Orgs - ChatGptがGoogle検索と出会うと思ってくださいが、あなたのデータでパワードされています。
- * [AutoCoder](https://github.com/bin123apple/autocoder) - コード生成タスク向けに設計された新しいモデルを導入しました。そのヒューマンエバルベースデータセットでのテスト精度は、GPT-4 Turbo（2024年4月）およびGPT-4oを上回っています。
+ * [langui](https://github.com/langbaseinc/langui) - あなたのAIのためのUI。あなたのGPT、生成AI、およびLLMプロジェクトに合わせたオープンソースのTailwindコンポーネント。
 
 
 **Others**
- * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 2つのステップでWeChatにChatGPTを展開する方法！ 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
+ * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptxは、AI技術（ChatGptとGemini）を使用してPPTXを作成するアシスタントです。オンラインでの編集とPPTXのエクスポートをサポートしています。主な機能：1. ChatGPTなどの大規模言語モデルを使用してアウトラインを生成する。2.生成されたコンテンツをユーザーが再度編集できる。3. PPTXを生成する際に異なるテンプレートを選択できる。4.オンラインでPPTXのテキストコンテンツ、スタイル、画像などを編集できる。5. PPTX、PDF、PNGなど、さまざまな形式でエクスポートをサポートしています。
 
 
-_Updated on June 02, 2024_ (A total of 1570 repositories listed.)
+_Updated on June 05, 2024_ (A total of 1577 repositories listed.)
 
 ## Table of contents
 
@@ -239,6 +243,8 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [code2prompt](https://github.com/mufeedvh/code2prompt) - コードベースを単一のLLMプロンプトに変換するためのCLIツール。ソースツリー、プロンプトテンプレート、トークン数のカウントが含まれています。
  * [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - さまざまなLLM向けの高度なコードおよびテキスト操作プロンプト。GPT-4、Claude、Llama3、Gemini、およびその他の高性能オープンソースLLMに適しています。
  * [zzz-api](https://github.com/xing61/zzz-api) - 優質で安定したOpenAIのAPIインターフェース-企業や開発者向け。OpenAIのAPIプロキシ、ChatGPTのAPI呼び出しをサポートし、openaiのAPIインターフェースをサポートします：gpt-4、gpt-3.5。OpenAIのキーは必要ありません、OpenAIのアカウントを購入する必要もありません、米ドルの銀行カードも必要ありません、すべて不要です、直接呼び出すだけで安定して使いやすいです！！智增增
+ * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] LLM向けの使いやすい命令処理フレームワーク。
+ * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot: LLMsを使用した金融アプリケーションのためのオープンソースAIエージェントプラットフォーム 🚀 🚀 🚀
 
 
 ## Chatbots
@@ -457,6 +463,7 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [Wa-OpenAI](https://github.com/sansekai/wa-openai) - WhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileysWhatsAppボットOpenAI ChatGPT NodeJSを使用したライブラリBaileys
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 無料のChatGPT APIボイスアシスタントは、音声インタラクションのために音量キーで起動され、ネットワーク接続、Vision写真認識、質問テンプレートなどの機能をサポートしています。
  * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPTを家で使おう！基本的には、Google Nest HubやAmazon Alexaのホームアシスタントよりも優れています。Raspberry Piを使用して、OpenAI APIに基づいて構築されています。
+ * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - Windows、macOS、およびUbuntu用のgpt-4o
 
 
 ## Browser-extensions
@@ -623,6 +630,8 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [OpenCharacters](https://github.com/josephrocca/opencharacters) - シンプルなウェブインターフェースでキャラクターを作成し、それらとチャットするためのものです。基本的には単一のHTMLファイルで、サーバーは必要ありません。キャラクターはリンクを使用して共有します（キャラクターデータはURL自体に保存されます）。すべてのチャットデータはIndexedを使用してブラウザに保存されます。
  * [py-gpt](https://github.com/szczyglis-dev/py-gpt) - GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-indexなどを搭載したデスクトップAIアシスタント。チャット、ビジョン、画像生成と解析、自律エージェント、コードとコマンドの実行、ファイルのアップロードとダウンロード、音声合成と認識、Webアクセスを提供します。
  * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notionは、ChatGPTの賢さをあなたのNotionワークスペースに直接もたらします！
+ * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPTなど）AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPT、その他）
+ * [Sophia](https://github.com/kyegomez/sophia) - モデルトレーニングコストを50％削減するための簡単なプラグインとプレイ最適化ツール。LLMsにおいてAdamより2倍高速な新しい最適化ツール。
 
 
 ## CLIs
@@ -1029,6 +1038,7 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [RepoToText](https://github.com/jeremiahpetersen/repototext) - GitHubリポジトリ全体を1つの整理された.txtファイルに変換して、LLM（GPT-4、Claude Opus、Geminiなど）で使用します。
  * [ocular](https://github.com/ocularengineering/ocular) - AIパワードサーチとチャット for Orgs - ChatGptがGoogle検索と出会うと思ってくださいが、あなたのデータでパワードされています。
  * [AutoCoder](https://github.com/bin123apple/autocoder) - コード生成タスク向けに設計された新しいモデルを導入しました。そのヒューマンエバルベースデータセットでのテスト精度は、GPT-4 Turbo（2024年4月）およびGPT-4oを上回っています。
+ * [langui](https://github.com/langbaseinc/langui) - あなたのAIのためのUI。あなたのGPT、生成AI、およびLLMプロジェクトに合わせたオープンソースのTailwindコンポーネント。
 
 
 ## Langchain
@@ -1677,5 +1687,6 @@ _Updated on June 02, 2024_ (A total of 1570 repositories listed.)
  * [99AI](https://github.com/vastxie/99ai) - 99AI 安定版：NineAIをベースにした商用利用可能なAI Webアプリケーション（ライセンス不要、バックドアなし、迅速な展開をサポート）。目標はALL-IN-CHATです。
  * [geekai](https://github.com/yangjian102621/geekai) - AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。
  * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 2つのステップでWeChatにChatGPTを展開する方法！ 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
+ * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptxは、AI技術（ChatGptとGemini）を使用してPPTXを作成するアシスタントです。オンラインでの編集とPPTXのエクスポートをサポートしています。主な機能：1. ChatGPTなどの大規模言語モデルを使用してアウトラインを生成する。2.生成されたコンテンツをユーザーが再度編集できる。3. PPTXを生成する際に異なるテンプレートを選択できる。4.オンラインでPPTXのテキストコンテンツ、スタイル、画像などを編集できる。5. PPTX、PDF、PNGなど、さまざまな形式でエクスポートをサポートしています。
 
 
