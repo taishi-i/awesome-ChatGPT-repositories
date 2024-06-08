@@ -14,29 +14,33 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] 一种用于LLMs的易于使用的指令处理框架。
- * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot：一个使用LLMs的金融应用程序的开源AI代理平台 🚀 🚀 🚀
+**Awesome-lists**
+ * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 代理商索引 - 这是LobeChat的代理商索引。它从这个存储库中访问index.json，以显示LobeChat在代理市场上可用的代理商列表。
 
 
 **Chatbots**
- * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o适用于Windows、macOS和Ubuntu
+ * [nlux](https://github.com/nlkitai/nlux) - 强大的对话人工智能JavaScript库
 
 
-**Browser-extensions**
- * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim 代码生成插件（OpenAI，ChatGPT 等）
- * [Sophia](https://github.com/kyegomez/sophia) - 轻松插件和播放优化器，可将模型训练成本降低50%。新的优化器在LLMs上比Adam快2倍。
+**Langchain**
+ * [langtorch](https://github.com/li2109/langtorch) - 🔥 使用Java构建可组合的LLM应用程序和工作流。
 
 
-**NLP**
- * [langui](https://github.com/langbaseinc/langui) - 为您的人工智能设计的用户界面。为您的GPT、生成式人工智能和LLM项目量身定制的开源Tailwind组件。
+**Unity**
+ * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan 社区版（CE）输出：Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan 社区版 (CE)
+
+
+**Openai**
+ * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - 使用官方OpenAI API的ChatGPT的C#库
 
 
 **Others**
- * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持在線修改和導出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持在線修改PPTX的文字內容，樣式，圖片等 5 支持導出PPTX，PDF，PNG等多種格式
+ * [DAIL-SQL](https://github.com/beachwang/dail-sql) - 一个高效且有效的少样本NL2SQL方法在GPT-4上。
+ * [auto-playwright](https://github.com/lucgagan/auto-playwright) - 使用ChatGPT自动化Playwright步骤。
+ * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 
 
-_Updated on June 05, 2024_ (A total of 1577 repositories listed.)
+_Updated on June 09, 2024_ (A total of 1585 repositories listed.)
 
 ## Table of contents
 
@@ -120,6 +124,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk 评论
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文语料库 包括对话、小说和客服语料，用于训练大型模型。
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 一个令人敬畏的资源收藏，涵盖了与ChatGPT相关的各种工具、文件、资源、应用程序和用例。
+ * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 代理商索引 - 这是LobeChat的代理商索引。它从这个存储库中访问index.json，以显示LobeChat在代理市场上可用的代理商列表。
 
 
 ## Prompts
@@ -464,6 +469,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免费的ChatGPT API安卓语音助手，可通过音量键激活进行语音交流，支持联网、Vision拍照识图、提问模板等功能。
  * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT在家！基本上是一个更好的Google Nest Hub或亚马逊Alexa家庭助手。使用OpenAI API在树莓派上构建。
  * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o适用于Windows、macOS和Ubuntu
+ * [nlux](https://github.com/nlkitai/nlux) - 强大的对话人工智能JavaScript库
 
 
 ## Browser-extensions
@@ -1132,6 +1138,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等。
  * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：您手机上的GPT-4V级MLLM
  * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 简单高效的微调LLM模型。支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon。大模型高效量化训练+部署。
+ * [langtorch](https://github.com/li2109/langtorch) - 🔥 使用Java构建可组合的LLM应用程序和工作流。
 
 
 ## Unity
@@ -1148,6 +1155,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最受欢迎、被Fork最多、贡献最多、拥有庞大社区支持的PHP（Laravel、Symfony、Yii、Cake PHP或任何PHP框架）SDK，用于OpenAI GPT-3和DALL-E。它还支持类似ChatGPT的流式聊天。（支持ChatGPT AI）
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 使用多种工具/扫描器进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码，IaC）- Betterscan 社区版（CE）输出：
  * [open-saas](https://github.com/wasp-lang/open-saas) - 一个免费、开源的React和Node.js SaaS应用程序启动器，具有超强功能。可用于生产环境。由社区驱动。
+ * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan 社区版（CE）输出：Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan 社区版 (CE)
 
 
 ## Openai
@@ -1311,6 +1319,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - 这个项目是一个Python脚本，从Gumroad网站上爬取数据，使用OpenAI的GPT-4模型生成一个色彩丰富、设计精美的HTML页面，并部署生成的页面到Vercel。
  * [ninja](https://github.com/0x676e67/ninja) - 逆向工程ChatGPT代理
  * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
+ * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - OpenAI API 免费反向代理
 
 
 ## Others
@@ -1688,5 +1697,8 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [geekai](https://github.com/yangjian102621/geekai) - AI助手全套开源解决方案，自带运营管理后台，开箱即用。集成了ChatGPT，Azure，ChatGLM，讯飞星火，文心一言等多个平台的大语言模型。支持MJ AI绘画，Stable Diffusion AI绘画，微博热搜等插件工具。采用Go + Vue3 + element-plus实现。
  * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 在您的微信上部署ChatGPT只需两步！两步在云端部署您的微信ChatGPT聊天机器人！🤖️
  * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持在線修改和導出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持在線修改PPTX的文字內容，樣式，圖片等 5 支持導出PPTX，PDF，PNG等多種格式
+ * [DAIL-SQL](https://github.com/beachwang/dail-sql) - 一个高效且有效的少样本NL2SQL方法在GPT-4上。
+ * [auto-playwright](https://github.com/lucgagan/auto-playwright) - 使用ChatGPT自动化Playwright步骤。
+ * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
 
 

@@ -14,29 +14,33 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] 一個適用於LLMs的易於使用的指令處理框架。
- * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot：一個使用LLMs的金融應用開源AI代理平台 🚀 🚀 🚀
+**Awesome-lists**
+ * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 代理商索引 - 這是LobeChat的代理商索引。它從這個存儲庫中訪問index.json，以顯示LobeChat市場上可用代理商的列表。
 
 
 **Chatbots**
- * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o 適用於 Windows、macOS 和 Ubuntu
+ * [nlux](https://github.com/nlkitai/nlux) - 強大的對話式人工智慧JavaScript程式庫
 
 
-**Browser-extensions**
- * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim 代碼生成插件（OpenAI、ChatGPT 等）
- * [Sophia](https://github.com/kyegomez/sophia) - 輕鬆插件和播放優化器，可將模型訓練成本降低50%。新的優化器比Adam在LLMs上快2倍。
+**Langchain**
+ * [langtorch](https://github.com/li2109/langtorch) - 🔥 使用Java構建可組合的LLM應用程序和工作流程。
 
 
-**NLP**
- * [langui](https://github.com/langbaseinc/langui) - 為您的人工智慧設計的使用者界面。針對您的GPT、生成式人工智慧和LLM項目量身定制的開源Tailwind組件。
+**Unity**
+ * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
+
+
+**Openai**
+ * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - 使用官方OpenAI API的C# ChatGPT庫
 
 
 **Others**
- * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持線上修改和匯出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持線上修改PPTX的文字內容，樣式，圖片等 5 支持匯出PPTX，PDF，PNG等多種格式
+ * [DAIL-SQL](https://github.com/beachwang/dail-sql) - 一種高效且有效的少樣本NL2SQL方法在GPT-4上。
+ * [auto-playwright](https://github.com/lucgagan/auto-playwright) - 使用ChatGPT自動化Playwright步驟。
+ * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 將小愛音箱接入 ChatGPT 和豆包，改造成你的專屬語音助手。
 
 
-_Updated on June 05, 2024_ (A total of 1577 repositories listed.)
+_Updated on June 09, 2024_ (A total of 1585 repositories listed.)
 
 ## Table of contents
 
@@ -120,6 +124,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk 評論
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文語料庫 對話語料 小說語料 客服語料 用於訓練大模型
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 一個令人敬畏的資源收藏，包括與ChatGPT相關的各種工具、文件、資源、應用程式和使用案例。
+ * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 代理商索引 - 這是LobeChat的代理商索引。它從這個存儲庫中訪問index.json，以顯示LobeChat市場上可用代理商的列表。
 
 
 ## Prompts
@@ -464,6 +469,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免費的ChatGPT API的安卓語音助手，可用音量鍵喚醒並進行語音交流，支持網絡連接、Vision拍照識圖、提問模板等功能。
  * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT在家中！基本上是一個更好的Google Nest Hub或Amazon Alexa家庭助理。使用Raspberry Pi構建，並使用OpenAI API。
  * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o 適用於 Windows、macOS 和 Ubuntu
+ * [nlux](https://github.com/nlkitai/nlux) - 強大的對話式人工智慧JavaScript程式庫
 
 
 ## Browser-extensions
@@ -1132,6 +1138,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - 輕鬆玩轉LLM兼容openai&langchain，支持文心一言、訊飛星火、騰訊混元、智譜ChatGLM等。
  * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：在您的手机上使用的GPT-4V级MLLM
  * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 簡單高效的微調LLM（支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大模型高效量化訓練+部署。
+ * [langtorch](https://github.com/li2109/langtorch) - 🔥 使用Java構建可組合的LLM應用程序和工作流程。
 
 
 ## Unity
@@ -1148,6 +1155,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最多下載、派生、貢獻、龐大社群支持且被使用的 PHP（Laravel、Symfony、Yii、Cake PHP 或任何 PHP 框架）SDK，用於 OpenAI GPT-3 和 DALL-E。它還支持類似 ChatGPT 的串流功能。（支援 ChatGPT AI）
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
  * [open-saas](https://github.com/wasp-lang/open-saas) - 一個免費、開源的React和Node.js SaaS應用程式起始器，具有超強功能。適用於生產環境，由社群驅動。
+ * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
 
 
 ## Openai
@@ -1311,6 +1319,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - 這個項目是一個使用Python腳本從Gumroad網站爬取數據，並使用OpenAI的GPT-4模型生成一個色彩豐富且設計精美的HTML頁面，然後部署生成的頁面到Vercel。
  * [ninja](https://github.com/0x676e67/ninja) - 反向工程 ChatGPT 代理
  * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、繪畫 多款AI的聊天接口適配到 OpenAI API 標準接口服務端。
+ * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - OpenAI API 免費反向代理
 
 
 ## Others
@@ -1688,5 +1697,8 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [geekai](https://github.com/yangjian102621/geekai) - AI 助手全套開源解決方案，自帶運營管理後台，開箱即用。集成了 ChatGPT, Azure, ChatGLM,訊飛星火，文心一言等多個平台的大語言模型。支持 MJ AI 繪畫，Stable Diffusion AI 繪畫，微博熱搜等插件工具。採用 Go + Vue3 + element-plus 實現。
  * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 在您的微信上部署ChatGPT只需2个步骤！兩步在雲端部署您的微信ChatGPT聊天機器人！🤖️
  * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持線上修改和匯出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持線上修改PPTX的文字內容，樣式，圖片等 5 支持匯出PPTX，PDF，PNG等多種格式
+ * [DAIL-SQL](https://github.com/beachwang/dail-sql) - 一種高效且有效的少樣本NL2SQL方法在GPT-4上。
+ * [auto-playwright](https://github.com/lucgagan/auto-playwright) - 使用ChatGPT自動化Playwright步驟。
+ * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 將小愛音箱接入 ChatGPT 和豆包，改造成你的專屬語音助手。
 
 

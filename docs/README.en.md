@@ -14,29 +14,33 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] An Easy-to-use Instruction Processing Framework for LLMs.
- * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
+**Awesome-lists**
+ * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
 
 
 **Chatbots**
- * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
+ * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library
 
 
-**Browser-extensions**
- * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
- * [Sophia](https://github.com/kyegomez/sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
+**Langchain**
+ * [langtorch](https://github.com/li2109/langtorch) - 🔥 Building composable LLM applications & workflow with Java.
 
 
-**NLP**
- * [langui](https://github.com/langbaseinc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+**Unity**
+ * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
+
+
+**Openai**
+ * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - C# library for ChatGPT using official OpenAI API
 
 
 **Others**
- * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx is an assistant that uses AI technology (ChatGpt and Gemini) to create PPTX files, supporting online editing and exporting of PPTX files. Main features include: 1. Using large language models like ChatGPT to generate outlines. 2. Generated content can be further edited by users. 3. Different templates can be selected when generating PPTX files. 4. Supports online editing of text content, styles, images, etc. in PPTX files. 5. Supports exporting PPTX files in various formats such as PDF, PNG, etc.
+ * [DAIL-SQL](https://github.com/beachwang/dail-sql) - A efficient and effective few-shot NL2SQL method on GPT-4.
+ * [auto-playwright](https://github.com/lucgagan/auto-playwright) - Automating Playwright steps using ChatGPT.
+ * [mi-gpt](https://github.com/idootop/mi-gpt) - Connect the Xiaoai speaker to ChatGPT and Douyin, and transform it into your exclusive voice assistant.
 
 
-_Updated on June 05, 2024_ (A total of 1577 repositories listed.)
+_Updated on June 09, 2024_ (A total of 1585 repositories listed.)
 
 ## Table of contents
 
@@ -120,6 +124,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk Comments
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - Input: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large modelsOutput: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large models
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
+ * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
 
 
 ## Prompts
@@ -464,6 +469,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network connectivity, Vision photo recognition, and question templat
  * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.
  * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
+ * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library
 
 
 ## Browser-extensions
@@ -1132,6 +1138,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - Easily play with LLM compatible openai & langchain, supporting Wenxin Yiyuan, Xunfei Xinghuo, Tencent Hunyuan, Zhipu ChatGLM, etc.
  * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone
  * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - Easy and Efficient Finetuning  LLMs. (Supported LLama, LLama2, LLama3, Qwen,  Baichuan, GLM , Falcon) 大模型高效量化训练+部署.
+ * [langtorch](https://github.com/li2109/langtorch) - 🔥 Building composable LLM applications & workflow with Java.
 
 
 ## Unity
@@ -1148,6 +1155,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
  * [open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
+ * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 
 
 ## Openai
@@ -1311,6 +1319,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - This project is a Python script that scrapes data from a Gumroad site, generates a colorful and well-designed HTML page using OpenAI's GPT-4 model, and deploys the generated page to Vercel.
  * [ninja](https://github.com/0x676e67/ninja) - Reverse engineered ChatGPT proxy
  * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - Integrated chat interfaces with multiple AI such as openai-api, bing, gemini, coze, and drawing, adapted to the OpenAI API standard interface server.
+ * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - OpenAI API Free Reverse Proxy
 
 
 ## Others
@@ -1688,5 +1697,8 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [geekai](https://github.com/yangjian102621/geekai) - AI assistant full set of open source solutions, with built-in operation management background, ready to use out of the box. Integrated with large language models from multiple platforms such as ChatGPT, Azure, ChatGLM, Xunfei Xinghuo, Wenxin Yiyuan, etc. Supports MJ AI drawing, Stable Diffusion AI drawing, Weibo hot search and other plugin tools. Implemented using Go + Vue3 + element-plus.
  * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ Deploy ChatGPT on your WeChat within 2 steps! 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
  * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptx is an assistant that uses AI technology (ChatGpt and Gemini) to create PPTX files, supporting online editing and exporting of PPTX files. Main features include: 1. Using large language models like ChatGPT to generate outlines. 2. Generated content can be further edited by users. 3. Different templates can be selected when generating PPTX files. 4. Supports online editing of text content, styles, images, etc. in PPTX files. 5. Supports exporting PPTX files in various formats such as PDF, PNG, etc.
+ * [DAIL-SQL](https://github.com/beachwang/dail-sql) - A efficient and effective few-shot NL2SQL method on GPT-4.
+ * [auto-playwright](https://github.com/lucgagan/auto-playwright) - Automating Playwright steps using ChatGPT.
+ * [mi-gpt](https://github.com/idootop/mi-gpt) - Connect the Xiaoai speaker to ChatGPT and Douyin, and transform it into your exclusive voice assistant.
 
 
