@@ -1633,6 +1633,29 @@
                     "zh-hans": "🏆 一个令人敬畏的资源收藏，涵盖了与ChatGPT相关的各种工具、文件、资源、应用程序和用例。",
                     "zh-hant": "🏆 一個令人敬畏的資源收藏，包括與ChatGPT相關的各種工具、文件、資源、應用程式和使用案例。"
                 }
+            },
+            "https://github.com/lobehub/lobe-chat-agents": {
+                "repository_name": "lobe-chat-agents",
+                "user_name": "lobehub",
+                "language": "TypeScript",
+                "license": null,
+                "description": "🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "awesome",
+                    "chatgpt",
+                    "lobe-chat-agent",
+                    "lobehub",
+                    "openai",
+                    "prompt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.",
+                    "ja": "🤖 / 🏪 エージェントインデックス - これはLobeChatのエージェントインデックスです。 これはこのリポジトリからindex.jsonにアクセスして、LobeChatのエージェントマーケットに利用可能なエージェントのリストを表示します。",
+                    "zh-hans": "🤖 / 🏪 代理商索引 - 这是LobeChat的代理商索引。它从这个存储库中访问index.json，以显示LobeChat在代理市场上可用的代理商列表。",
+                    "zh-hant": "🤖 / 🏪 代理商索引 - 這是LobeChat的代理商索引。它從這個存儲庫中訪問index.json，以顯示LobeChat市場上可用代理商的列表。"
+                }
             }
         },
         "Prompts": {
@@ -9403,6 +9426,30 @@
                     "ja": "Windows、macOS、およびUbuntu用のgpt-4o",
                     "zh-hans": "gpt-4o适用于Windows、macOS和Ubuntu",
                     "zh-hant": "gpt-4o 適用於 Windows、macOS 和 Ubuntu"
+                }
+            },
+            "https://github.com/nlkitai/nlux": {
+                "repository_name": "nlux",
+                "user_name": "nlkitai",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatbot",
+                    "chatgpt",
+                    "huggingface",
+                    "javascript",
+                    "large-language-models",
+                    "llm",
+                    "openai",
+                    "reactjs"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library",
+                    "ja": "The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Libraryパワフルな会話型AI JavaScriptライブラリ",
+                    "zh-hans": "强大的对话人工智能JavaScript库",
+                    "zh-hant": "強大的對話式人工智慧JavaScript程式庫"
                 }
             }
         },
@@ -23593,6 +23640,32 @@
                     "zh-hans": "简单高效的微调LLM模型。支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon。大模型高效量化训练+部署。",
                     "zh-hant": "簡單高效的微調LLM（支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大模型高效量化訓練+部署。"
                 }
+            },
+            "https://github.com/li2109/langtorch": {
+                "repository_name": "langtorch",
+                "user_name": "li2109",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "🔥 Building composable LLM applications & workflow with Java.",
+                "topics": [
+                    "ai",
+                    "chain-of-thought",
+                    "chatgpt",
+                    "chatgpt-plugins",
+                    "java",
+                    "langchain",
+                    "langtorch",
+                    "large-language-models",
+                    "llm",
+                    "openai",
+                    "semantic-kernel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥 Building composable LLM applications & workflow with Java.",
+                    "ja": "🔥 Javaを使用して、組み立て可能なLLMアプリケーションとワークフローを構築します。",
+                    "zh-hans": "🔥 使用Java构建可组合的LLM应用程序和工作流。",
+                    "zh-hant": "🔥 使用Java構建可組合的LLM應用程序和工作流程。"
+                }
             }
         },
         "Unity": {
@@ -23826,6 +23899,41 @@
                     "ja": "スーパーパワーを持つReact＆Node.js用の無料のオープンソースSaaSアプリのスターター。本番環境に対応。コミュニティ主導。",
                     "zh-hans": "一个免费、开源的React和Node.js SaaS应用程序启动器，具有超强功能。可用于生产环境。由社区驱动。",
                     "zh-hant": "一個免費、開源的React和Node.js SaaS應用程式起始器，具有超強功能。適用於生產環境，由社群驅動。"
+                }
+            },
+            "https://github.com/topcodersonline-solutions/betterscan-ce": {
+                "repository_name": "betterscan-ce",
+                "user_name": "topcodersonline-solutions",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)",
+                "topics": [
+                    "code-quality",
+                    "code-quality-analyzer",
+                    "compliance",
+                    "devops",
+                    "devops-tools",
+                    "devsecops",
+                    "gdpr",
+                    "owasp",
+                    "sast",
+                    "security-audit",
+                    "security-automation",
+                    "security-orchestration",
+                    "security-scanner",
+                    "security-tools",
+                    "sonarqube",
+                    "static-analysis",
+                    "static-analyzers",
+                    "static-code-analysis",
+                    "vulnerability",
+                    "vulnerability-scanner"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)",
+                    "ja": "多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）",
+                    "zh-hans": "使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan 社区版（CE）输出：Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan 社区版 (CE)",
+                    "zh-hant": "使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）"
                 }
             }
         },
@@ -27316,6 +27424,30 @@
                     "ja": "OpenAI API標準インターフェースサーバーに、openai-api、bing、gemini、coze、および絵画など複数のAIを統合したチャットインターフェースを適応させました。",
                     "zh-hans": "集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。",
                     "zh-hant": "集成了openai-api、bing、gemini、coze、繪畫 多款AI的聊天接口適配到 OpenAI API 標準接口服務端。"
+                }
+            },
+            "https://github.com/pawanosman/chatgpt.net": {
+                "repository_name": "ChatGPT.Net",
+                "user_name": "PawanOsman",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "C# library for ChatGPT using official OpenAI API",
+                "topics": [
+                    "ai",
+                    "api",
+                    "chatgpt",
+                    "csharp",
+                    "dotnet",
+                    "free",
+                    "openai",
+                    "openai-api",
+                    "reverse-proxy"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI API Free Reverse Proxy",
+                    "ja": "OpenAI API無料リバースプロキシ",
+                    "zh-hans": "OpenAI API 免费反向代理",
+                    "zh-hant": "OpenAI API 免費反向代理"
                 }
             }
         },
@@ -34405,6 +34537,51 @@
                     "ja": "Ai-to-pptxは、AI技術（ChatGptとGemini）を使用してPPTXを作成するアシスタントです。オンラインでの編集とPPTXのエクスポートをサポートしています。主な機能：1. ChatGPTなどの大規模言語モデルを使用してアウトラインを生成する。2.生成されたコンテンツをユーザーが再度編集できる。3. PPTXを生成する際に異なるテンプレートを選択できる。4.オンラインでPPTXのテキストコンテンツ、スタイル、画像などを編集できる。5. PPTX、PDF、PNGなど、さまざまな形式でエクスポートをサポートしています。",
                     "zh-hans": "Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持在線修改和導出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持在線修改PPTX的文字內容，樣式，圖片等 5 支持導出PPTX，PDF，PNG等多種格式",
                     "zh-hant": "Ai-to-pptx是一個使用AI技術(ChatGpt和Gemini)製作PPTX的助手，支持線上修改和匯出PPTX。 主要功能: 1 使用ChatGPT等大語言模型來生成大綱 2 生成的內容允許用戶再次修改 3 生成PPTX的時候可以選擇不同的模板 4 支持線上修改PPTX的文字內容，樣式，圖片等 5 支持匯出PPTX，PDF，PNG等多種格式"
+                }
+            },
+            "https://github.com/beachwang/dail-sql": {
+                "repository_name": "DAIL-SQL",
+                "user_name": "BeachWang",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "A efficient and effective few-shot NL2SQL method on GPT-4.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A efficient and effective few-shot NL2SQL method on GPT-4.",
+                    "ja": "GPT-4上で効率的かつ効果的なフューショットNL2SQLメソッド。",
+                    "zh-hans": "一个高效且有效的少样本NL2SQL方法在GPT-4上。",
+                    "zh-hant": "一種高效且有效的少樣本NL2SQL方法在GPT-4上。"
+                }
+            },
+            "https://github.com/lucgagan/auto-playwright": {
+                "repository_name": "auto-playwright",
+                "user_name": "lucgagan",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Automating Playwright steps using ChatGPT.",
+                "topics": [
+                    "ai",
+                    "playwright"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Automating Playwright steps using ChatGPT.",
+                    "ja": "ChatGPTを使用してPlaywrightのステップを自動化する。",
+                    "zh-hans": "使用ChatGPT自动化Playwright步骤。",
+                    "zh-hant": "使用ChatGPT自動化Playwright步驟。"
+                }
+            },
+            "https://github.com/idootop/mi-gpt": {
+                "repository_name": "mi-gpt",
+                "user_name": "idootop",
+                "language": "TypeScript",
+                "license": null,
+                "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Connect the Xiaoai speaker to ChatGPT and Douyin, and transform it into your exclusive voice assistant.",
+                    "ja": "🏠 小愛音箱をChatGPTと豆包に接続し、あなた専用の音声アシスタントに改造します。",
+                    "zh-hans": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+                    "zh-hant": "🏠 將小愛音箱接入 ChatGPT 和豆包，改造成你的專屬語音助手。"
                 }
             }
         }

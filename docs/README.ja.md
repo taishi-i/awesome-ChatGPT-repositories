@@ -14,29 +14,33 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] LLM向けの使いやすい命令処理フレームワーク。
- * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot: LLMsを使用した金融アプリケーションのためのオープンソースAIエージェントプラットフォーム 🚀 🚀 🚀
+**Awesome-lists**
+ * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 エージェントインデックス - これはLobeChatのエージェントインデックスです。 これはこのリポジトリからindex.jsonにアクセスして、LobeChatのエージェントマーケットに利用可能なエージェントのリストを表示します。
 
 
 **Chatbots**
- * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - Windows、macOS、およびUbuntu用のgpt-4o
+ * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Libraryパワフルな会話型AI JavaScriptライブラリ
 
 
-**Browser-extensions**
- * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPTなど）AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPT、その他）
- * [Sophia](https://github.com/kyegomez/sophia) - モデルトレーニングコストを50％削減するための簡単なプラグインとプレイ最適化ツール。LLMsにおいてAdamより2倍高速な新しい最適化ツール。
+**Langchain**
+ * [langtorch](https://github.com/li2109/langtorch) - 🔥 Javaを使用して、組み立て可能なLLMアプリケーションとワークフローを構築します。
 
 
-**NLP**
- * [langui](https://github.com/langbaseinc/langui) - あなたのAIのためのUI。あなたのGPT、生成AI、およびLLMプロジェクトに合わせたオープンソースのTailwindコンポーネント。
+**Unity**
+ * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
+
+
+**Openai**
+ * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - 公式OpenAI APIを使用したChatGPTのためのC#ライブラリ
 
 
 **Others**
- * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptxは、AI技術（ChatGptとGemini）を使用してPPTXを作成するアシスタントです。オンラインでの編集とPPTXのエクスポートをサポートしています。主な機能：1. ChatGPTなどの大規模言語モデルを使用してアウトラインを生成する。2.生成されたコンテンツをユーザーが再度編集できる。3. PPTXを生成する際に異なるテンプレートを選択できる。4.オンラインでPPTXのテキストコンテンツ、スタイル、画像などを編集できる。5. PPTX、PDF、PNGなど、さまざまな形式でエクスポートをサポートしています。
+ * [DAIL-SQL](https://github.com/beachwang/dail-sql) - GPT-4上で効率的かつ効果的なフューショットNL2SQLメソッド。
+ * [auto-playwright](https://github.com/lucgagan/auto-playwright) - ChatGPTを使用してPlaywrightのステップを自動化する。
+ * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 小愛音箱をChatGPTと豆包に接続し、あなた専用の音声アシスタントに改造します。
 
 
-_Updated on June 05, 2024_ (A total of 1577 repositories listed.)
+_Updated on June 09, 2024_ (A total of 1585 repositories listed.)
 
 ## Table of contents
 
@@ -120,6 +124,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - Gitalk コメント
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文コーパス ダイアログコーパス 小説コーパス カスタマーサポートコーパス 大規模モデルのトレーニングに使用
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 ChatGPTに関連する幅広いツール、文書、リソース、アプリケーション、使用例を網羅した感動的なコレクション。
+ * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 エージェントインデックス - これはLobeChatのエージェントインデックスです。 これはこのリポジトリからindex.jsonにアクセスして、LobeChatのエージェントマーケットに利用可能なエージェントのリストを表示します。
 
 
 ## Prompts
@@ -464,6 +469,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [gpt-assistant-android](https://github.com/skythinker616/gpt-assistant-android) - 無料のChatGPT APIボイスアシスタントは、音声インタラクションのために音量キーで起動され、ネットワーク接続、Vision写真認識、質問テンプレートなどの機能をサポートしています。
  * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPTを家で使おう！基本的には、Google Nest HubやAmazon Alexaのホームアシスタントよりも優れています。Raspberry Piを使用して、OpenAI APIに基づいて構築されています。
  * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - Windows、macOS、およびUbuntu用のgpt-4o
+ * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Libraryパワフルな会話型AI JavaScriptライブラリ
 
 
 ## Browser-extensions
@@ -1132,6 +1138,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [ChatLLM](https://github.com/yuanjie-ai/chatllm) - LLMとopenai＆langchainを楽しく使いこなす、文心一言、讯飞星火、腾讯混元、智谱ChatGLMなどをサポートします。
  * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM
  * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 簡単で効率的なファインチューニングLLMs。（サポートされているLLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大規模モデルの効率的な量子化トレーニング+展開。
+ * [langtorch](https://github.com/li2109/langtorch) - 🔥 Javaを使用して、組み立て可能なLLMアプリケーションとワークフローを構築します。
 
 
 ## Unity
@@ -1148,6 +1155,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK：最もダウンロードされ、フォークされ、貢献され、大規模なコミュニティによってサポートされ、PHP（Laravel、Symfony、Yii、Cake PHPまたは任意のPHPフレームワーク）SDKとして使用されるOpenAI GPT-3およびDALL-EのSDKです。また、chatGPTのようなストリーミングもサポートしています。（ChatGPT AIがサポートされています）
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/静的解析/リンティング+ One Report（コード、IaC）を使用したOpenAI GPT - Betterscan Community Edition（CE）
  * [open-saas](https://github.com/wasp-lang/open-saas) - スーパーパワーを持つReact＆Node.js用の無料のオープンソースSaaSアプリのスターター。本番環境に対応。コミュニティ主導。
+ * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
 
 
 ## Openai
@@ -1311,6 +1319,7 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - このプロジェクトは、Pythonスクリプトを使用してGumroadサイトからデータをスクレイピングし、OpenAIのGPT-4モデルを使用してカラフルでデザインされたHTMLページを生成し、生成されたページをVercelにデプロイします。
  * [ninja](https://github.com/0x676e67/ninja) - 逆転させたChatGPTプロキシ
  * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - OpenAI API標準インターフェースサーバーに、openai-api、bing、gemini、coze、および絵画など複数のAIを統合したチャットインターフェースを適応させました。
+ * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - OpenAI API無料リバースプロキシ
 
 
 ## Others
@@ -1688,5 +1697,8 @@ _Updated on June 05, 2024_ (A total of 1577 repositories listed.)
  * [geekai](https://github.com/yangjian102621/geekai) - AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。
  * [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - 🤖️ 2つのステップでWeChatにChatGPTを展開する方法！ 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
  * [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - Ai-to-pptxは、AI技術（ChatGptとGemini）を使用してPPTXを作成するアシスタントです。オンラインでの編集とPPTXのエクスポートをサポートしています。主な機能：1. ChatGPTなどの大規模言語モデルを使用してアウトラインを生成する。2.生成されたコンテンツをユーザーが再度編集できる。3. PPTXを生成する際に異なるテンプレートを選択できる。4.オンラインでPPTXのテキストコンテンツ、スタイル、画像などを編集できる。5. PPTX、PDF、PNGなど、さまざまな形式でエクスポートをサポートしています。
+ * [DAIL-SQL](https://github.com/beachwang/dail-sql) - GPT-4上で効率的かつ効果的なフューショットNL2SQLメソッド。
+ * [auto-playwright](https://github.com/lucgagan/auto-playwright) - ChatGPTを使用してPlaywrightのステップを自動化する。
+ * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 小愛音箱をChatGPTと豆包に接続し、あなた専用の音声アシスタントに改造します。
 
 
