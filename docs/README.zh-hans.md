@@ -14,33 +14,31 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 代理商索引 - 这是LobeChat的代理商索引。它从这个存储库中访问index.json，以显示LobeChat在代理市场上可用的代理商列表。
+ * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
+
+**Prompts**
+ * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥精选中文提示🔥，ChatGPT 使用指南，提升 ChatGPT 的趣味性和易用性！🚀
+ * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] 一个数据集包含来自Reddit、Discord、网站和开源数据集的15,140个ChatGPT提示（包括1,405个越狱提示）。
 
 
 **Chatbots**
- * [nlux](https://github.com/nlkitai/nlux) - 强大的对话人工智能JavaScript库
+ * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊
+
+
+**Browser-extensions**
+ * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT Gnome桌面扩展 | 从您的菜单栏与ChatGPT交谈！
 
 
 **Langchain**
- * [langtorch](https://github.com/li2109/langtorch) - 🔥 使用Java构建可组合的LLM应用程序和工作流。
-
-
-**Unity**
- * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan 社区版（CE）输出：Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan 社区版 (CE)
+ * [dialog](https://github.com/talkdai/dialog) - RAG LLM运营应用程序，用于简单部署和测试
 
 
 **Openai**
- * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - 使用官方OpenAI API的ChatGPT的C#库
+ * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
+ * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 一种利用OpenAI的GPT模型生成给定应用程序的威胁模型的AI动力威胁建模工具，基于STRIDE方法论。
 
 
-**Others**
- * [DAIL-SQL](https://github.com/beachwang/dail-sql) - 一个高效且有效的少样本NL2SQL方法在GPT-4上。
- * [auto-playwright](https://github.com/lucgagan/auto-playwright) - 使用ChatGPT自动化Playwright步骤。
- * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-
-
-_Updated on June 09, 2024_ (A total of 1585 repositories listed.)
+_Updated on June 12, 2024_ (A total of 1592 repositories listed.)
 
 ## Table of contents
 
@@ -250,6 +248,8 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [zzz-api](https://github.com/xing61/zzz-api) - 优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api代理，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要购买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
  * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] 一种用于LLMs的易于使用的指令处理框架。
  * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot：一个使用LLMs的金融应用程序的开源AI代理平台 🚀 🚀 🚀
+ * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥精选中文提示🔥，ChatGPT 使用指南，提升 ChatGPT 的趣味性和易用性！🚀
+ * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] 一个数据集包含来自Reddit、Discord、网站和开源数据集的15,140个ChatGPT提示（包括1,405个越狱提示）。
 
 
 ## Chatbots
@@ -470,6 +470,7 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPT在家！基本上是一个更好的Google Nest Hub或亚马逊Alexa家庭助手。使用OpenAI API在树莓派上构建。
  * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o适用于Windows、macOS和Ubuntu
  * [nlux](https://github.com/nlkitai/nlux) - 强大的对话人工智能JavaScript库
+ * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊
 
 
 ## Browser-extensions
@@ -638,6 +639,7 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notion 将 ChatGPT 的智能直接带入您的 Notion 工作空间！
  * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim 代码生成插件（OpenAI，ChatGPT 等）
  * [Sophia](https://github.com/kyegomez/sophia) - 轻松插件和播放优化器，可将模型训练成本降低50%。新的优化器在LLMs上比Adam快2倍。
+ * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT Gnome桌面扩展 | 从您的菜单栏与ChatGPT交谈！
 
 
 ## CLIs
@@ -1139,6 +1141,7 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：您手机上的GPT-4V级MLLM
  * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 简单高效的微调LLM模型。支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon。大模型高效量化训练+部署。
  * [langtorch](https://github.com/li2109/langtorch) - 🔥 使用Java构建可组合的LLM应用程序和工作流。
+ * [dialog](https://github.com/talkdai/dialog) - RAG LLM运营应用程序，用于简单部署和测试
 
 
 ## Unity
@@ -1320,6 +1323,8 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [ninja](https://github.com/0x676e67/ninja) - 逆向工程ChatGPT代理
  * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
  * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - OpenAI API 免费反向代理
+ * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
+ * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 一种利用OpenAI的GPT模型生成给定应用程序的威胁模型的AI动力威胁建模工具，基于STRIDE方法论。
 
 
 ## Others

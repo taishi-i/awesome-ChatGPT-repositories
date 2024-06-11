@@ -4379,6 +4379,51 @@
                     "zh-hans": "FinRobot：一个使用LLMs的金融应用程序的开源AI代理平台 🚀 🚀 🚀",
                     "zh-hant": "FinRobot：一個使用LLMs的金融應用開源AI代理平台 🚀 🚀 🚀"
                 }
+            },
+            "https://github.com/langgptai/wonderful-prompts": {
+                "repository_name": "wonderful-prompts",
+                "user_name": "langgptai",
+                "language": null,
+                "license": "MIT License",
+                "description": "🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt3",
+                    "gpt3-prompts",
+                    "gpt3-turbo",
+                    "gpt35",
+                    "gpt4",
+                    "openai",
+                    "prompt-engineering",
+                    "prompts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥Selected Chinese prompt🔥, ChatGPT user guide, enhancing the playability and usability of ChatGPT!🚀",
+                    "ja": "🔥中国語プロンプトの選択🔥、ChatGPTの使用ガイド、ChatGPTのプレイ性と利便性を向上させる方法！🚀",
+                    "zh-hans": "🔥精选中文提示🔥，ChatGPT 使用指南，提升 ChatGPT 的趣味性和易用性！🚀",
+                    "zh-hant": "🔥中文提示精選🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀"
+                }
+            },
+            "https://github.com/verazuo/jailbreak_llms": {
+                "repository_name": "jailbreak_llms",
+                "user_name": "verazuo",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).",
+                "topics": [
+                    "chatgpt",
+                    "jailbreak",
+                    "large-language-model",
+                    "llm",
+                    "llm-security",
+                    "prompt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).",
+                    "ja": "[CCS'24] Reddit、Discord、ウェブサイト、オープンソースのデータセット（1,405のジェイルブレイクプロンプトを含む）からなる15,140のChatGPTプロンプトからなるデータセット。",
+                    "zh-hans": "[CCS'24] 一个数据集包含来自Reddit、Discord、网站和开源数据集的15,140个ChatGPT提示（包括1,405个越狱提示）。",
+                    "zh-hant": "[CCS'24] 一個數據集包含來自Reddit、Discord、網站和開源數據集的15,140個ChatGPT提示（包括1,405個越獄提示）。"
+                }
             }
         },
         "Chatbots": {
@@ -9451,6 +9496,32 @@
                     "zh-hans": "强大的对话人工智能JavaScript库",
                     "zh-hant": "強大的對話式人工智慧JavaScript程式庫"
                 }
+            },
+            "https://github.com/peterh0323/streamer-sales": {
+                "repository_name": "Streamer-Sales",
+                "user_name": "PeterH0323",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊",
+                "topics": [
+                    "chat",
+                    "chat-application",
+                    "chatbot",
+                    "chatgpt",
+                    "gpt",
+                    "internlm-chat-7b",
+                    "internlm2",
+                    "llm",
+                    "rag",
+                    "text-generation",
+                    "tts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁, a sales anchor model that can describe products based on their characteristics and inspire users to make purchases. 🚀⭐ It includes a detailed data generation process. ❗ 📦 It also integrates LMDeploy for accelerated reasoning 🚀, RAG retrieval enhanced generation 📚, and TTS text-to-speech conversion 🔊.",
+                    "ja": "Input: Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊Output: ストリーマーセールス 销冠 —— 販売主播 LLM 大モデル🛒🎁、商品の特徴に基づいて商品を説明し、ユーザーの購買意欲を刺激する販売主播モデル。🚀⭐詳細なデータ生成プロセスが含まれています❗ 📦さらに、LMDeployの高速推論🚀、RAG検索強化生成 📚、TTSテキスト読み上げ🔊",
+                    "zh-hans": "Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊",
+                    "zh-hant": "Streamer-Sales 銷冠 —— 賣貨主播 LLM 大模型🛒🎁，一個能夠根據給定的商品特點對商品進行解說並激發用戶的購買意願的賣貨主播模型。🚀⭐內含詳細的數據生成流程❗ 📦另外還集成了 LMDeploy 加速推理🚀、RAG檢索增強生成 📚、TTS文字轉語音🔊"
+                }
             }
         },
         "Browser-extensions": {
@@ -13077,6 +13148,20 @@
                     "ja": "モデルトレーニングコストを50％削減するための簡単なプラグインとプレイ最適化ツール。LLMsにおいてAdamより2倍高速な新しい最適化ツール。",
                     "zh-hans": "轻松插件和播放优化器，可将模型训练成本降低50%。新的优化器在LLMs上比Adam快2倍。",
                     "zh-hant": "輕鬆插件和播放優化器，可將模型訓練成本降低50%。新的優化器比Adam在LLMs上快2倍。"
+                }
+            },
+            "https://github.com/horrorpills/chatgpt-gnome-desktop-extension": {
+                "repository_name": "ChatGPT-Gnome-Desktop-Extension",
+                "user_name": "HorrorPills",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!",
+                    "ja": "ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！",
+                    "zh-hans": "ChatGPT Gnome桌面扩展 | 从您的菜单栏与ChatGPT交谈！",
+                    "zh-hant": "ChatGPT 圖形桌面擴展 | 從您的選單欄與 ChatGPT 對話！"
                 }
             }
         },
@@ -23666,6 +23751,26 @@
                     "zh-hans": "🔥 使用Java构建可组合的LLM应用程序和工作流。",
                     "zh-hant": "🔥 使用Java構建可組合的LLM應用程序和工作流程。"
                 }
+            },
+            "https://github.com/talkdai/dialog": {
+                "repository_name": "dialog",
+                "user_name": "talkdai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "RAG LLM Ops App for easy deployment and testing",
+                "topics": [
+                    "chatgpt",
+                    "langchain",
+                    "llm",
+                    "nlp",
+                    "nltk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "RAG LLM Ops App for easy deployment and testing",
+                    "ja": "簡単な展開とテストのためのRAG LLM Opsアプリ",
+                    "zh-hans": "RAG LLM运营应用程序，用于简单部署和测试",
+                    "zh-hant": "RAG LLM Ops應用程式，用於輕鬆部署和測試"
+                }
             }
         },
         "Unity": {
@@ -27448,6 +27553,47 @@
                     "ja": "OpenAI API無料リバースプロキシ",
                     "zh-hans": "OpenAI API 免费反向代理",
                     "zh-hant": "OpenAI API 免費反向代理"
+                }
+            },
+            "https://github.com/hisabi-app/hisabi": {
+                "repository_name": "hisabi",
+                "user_name": "hisabi-app",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "💰 Free open-source personal finance tracking web application powered by ChatGPT. ",
+                "topics": [
+                    "finance-management",
+                    "finance-tracker",
+                    "gpt",
+                    "graphql",
+                    "laravel",
+                    "laravel-framework",
+                    "mysql",
+                    "open-source",
+                    "openai",
+                    "personal-finance",
+                    "php",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "💰 Free open-source personal finance tracking web application powered by ChatGPT.",
+                    "ja": "💰 ChatGPTによって提供される無料のオープンソースの個人向け財務追跡Webアプリケーション。",
+                    "zh-hans": "💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。",
+                    "zh-hant": "💰由ChatGPT驅動的免費開源個人財務追蹤網絡應用程式。"
+                }
+            },
+            "https://github.com/mrwadams/stride-gpt": {
+                "repository_name": "stride-gpt",
+                "user_name": "mrwadams",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.",
+                    "ja": "与えられたアプリケーションに基づいて脅威モデルを生成するためにOpenAIのGPTモデルを活用するAIパワードの脅威モデリングツール。STRIDE方法論に基づいています。",
+                    "zh-hans": "一种利用OpenAI的GPT模型生成给定应用程序的威胁模型的AI动力威胁建模工具，基于STRIDE方法论。",
+                    "zh-hant": "一個由人工智慧驅動的威脅建模工具，利用OpenAI的GPT模型根據STRIDE方法為特定應用程序生成威脅模型。"
                 }
             }
         },

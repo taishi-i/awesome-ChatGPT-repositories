@@ -14,33 +14,31 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 エージェントインデックス - これはLobeChatのエージェントインデックスです。 これはこのリポジトリからindex.jsonにアクセスして、LobeChatのエージェントマーケットに利用可能なエージェントのリストを表示します。
+ * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
+
+**Prompts**
+ * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中国語プロンプトの選択🔥、ChatGPTの使用ガイド、ChatGPTのプレイ性と利便性を向上させる方法！🚀
+ * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] Reddit、Discord、ウェブサイト、オープンソースのデータセット（1,405のジェイルブレイクプロンプトを含む）からなる15,140のChatGPTプロンプトからなるデータセット。
 
 
 **Chatbots**
- * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Libraryパワフルな会話型AI JavaScriptライブラリ
+ * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Input: Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊Output: ストリーマーセールス 销冠 —— 販売主播 LLM 大モデル🛒🎁、商品の特徴に基づいて商品を説明し、ユーザーの購買意欲を刺激する販売主播モデル。🚀⭐詳細なデータ生成プロセスが含まれています❗ 📦さらに、LMDeployの高速推論🚀、RAG検索強化生成 📚、TTSテキスト読み上げ🔊
+
+
+**Browser-extensions**
+ * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！
 
 
 **Langchain**
- * [langtorch](https://github.com/li2109/langtorch) - 🔥 Javaを使用して、組み立て可能なLLMアプリケーションとワークフローを構築します。
-
-
-**Unity**
- * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
+ * [dialog](https://github.com/talkdai/dialog) - 簡単な展開とテストのためのRAG LLM Opsアプリ
 
 
 **Openai**
- * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - 公式OpenAI APIを使用したChatGPTのためのC#ライブラリ
+ * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 ChatGPTによって提供される無料のオープンソースの個人向け財務追跡Webアプリケーション。
+ * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 与えられたアプリケーションに基づいて脅威モデルを生成するためにOpenAIのGPTモデルを活用するAIパワードの脅威モデリングツール。STRIDE方法論に基づいています。
 
 
-**Others**
- * [DAIL-SQL](https://github.com/beachwang/dail-sql) - GPT-4上で効率的かつ効果的なフューショットNL2SQLメソッド。
- * [auto-playwright](https://github.com/lucgagan/auto-playwright) - ChatGPTを使用してPlaywrightのステップを自動化する。
- * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 小愛音箱をChatGPTと豆包に接続し、あなた専用の音声アシスタントに改造します。
-
-
-_Updated on June 09, 2024_ (A total of 1585 repositories listed.)
+_Updated on June 12, 2024_ (A total of 1592 repositories listed.)
 
 ## Table of contents
 
@@ -250,6 +248,8 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [zzz-api](https://github.com/xing61/zzz-api) - 優質で安定したOpenAIのAPIインターフェース-企業や開発者向け。OpenAIのAPIプロキシ、ChatGPTのAPI呼び出しをサポートし、openaiのAPIインターフェースをサポートします：gpt-4、gpt-3.5。OpenAIのキーは必要ありません、OpenAIのアカウントを購入する必要もありません、米ドルの銀行カードも必要ありません、すべて不要です、直接呼び出すだけで安定して使いやすいです！！智增增
  * [EasyInstruct](https://github.com/zjunlp/easyinstruct) - [ACL 2024] LLM向けの使いやすい命令処理フレームワーク。
  * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot: LLMsを使用した金融アプリケーションのためのオープンソースAIエージェントプラットフォーム 🚀 🚀 🚀
+ * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中国語プロンプトの選択🔥、ChatGPTの使用ガイド、ChatGPTのプレイ性と利便性を向上させる方法！🚀
+ * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] Reddit、Discord、ウェブサイト、オープンソースのデータセット（1,405のジェイルブレイクプロンプトを含む）からなる15,140のChatGPTプロンプトからなるデータセット。
 
 
 ## Chatbots
@@ -470,6 +470,7 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [gpt-home](https://github.com/judahpaul16/gpt-home) - ChatGPTを家で使おう！基本的には、Google Nest HubやAmazon Alexaのホームアシスタントよりも優れています。Raspberry Piを使用して、OpenAI APIに基づいて構築されています。
  * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - Windows、macOS、およびUbuntu用のgpt-4o
  * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Libraryパワフルな会話型AI JavaScriptライブラリ
+ * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Input: Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊Output: ストリーマーセールス 销冠 —— 販売主播 LLM 大モデル🛒🎁、商品の特徴に基づいて商品を説明し、ユーザーの購買意欲を刺激する販売主播モデル。🚀⭐詳細なデータ生成プロセスが含まれています❗ 📦さらに、LMDeployの高速推論🚀、RAG検索強化生成 📚、TTSテキスト読み上げ🔊
 
 
 ## Browser-extensions
@@ -638,6 +639,7 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ChatGPT to Notionは、ChatGPTの賢さをあなたのNotionワークスペースに直接もたらします！
  * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPTなど）AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPT、その他）
  * [Sophia](https://github.com/kyegomez/sophia) - モデルトレーニングコストを50％削減するための簡単なプラグインとプレイ最適化ツール。LLMsにおいてAdamより2倍高速な新しい最適化ツール。
+ * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！
 
 
 ## CLIs
@@ -1139,6 +1141,7 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [MiniCPM-V](https://github.com/openbmb/minicpm-v) - MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM
  * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 簡単で効率的なファインチューニングLLMs。（サポートされているLLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大規模モデルの効率的な量子化トレーニング+展開。
  * [langtorch](https://github.com/li2109/langtorch) - 🔥 Javaを使用して、組み立て可能なLLMアプリケーションとワークフローを構築します。
+ * [dialog](https://github.com/talkdai/dialog) - 簡単な展開とテストのためのRAG LLM Opsアプリ
 
 
 ## Unity
@@ -1320,6 +1323,8 @@ _Updated on June 09, 2024_ (A total of 1585 repositories listed.)
  * [ninja](https://github.com/0x676e67/ninja) - 逆転させたChatGPTプロキシ
  * [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - OpenAI API標準インターフェースサーバーに、openai-api、bing、gemini、coze、および絵画など複数のAIを統合したチャットインターフェースを適応させました。
  * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - OpenAI API無料リバースプロキシ
+ * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 ChatGPTによって提供される無料のオープンソースの個人向け財務追跡Webアプリケーション。
+ * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 与えられたアプリケーションに基づいて脅威モデルを生成するためにOpenAIのGPTモデルを活用するAIパワードの脅威モデリングツール。STRIDE方法論に基づいています。
 
 
 ## Others
