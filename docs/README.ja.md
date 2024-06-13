@@ -16,29 +16,24 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
+**Awesome-lists**
+ * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 カテゴリ別に整理された、厳選された素晴らしいPythonライブラリとフレームワーク
+
+
 **Prompts**
- * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中国語プロンプトの選択🔥、ChatGPTの使用ガイド、ChatGPTのプレイ性と利便性を向上させる方法！🚀
- * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] Reddit、Discord、ウェブサイト、オープンソースのデータセット（1,405のジェイルブレイクプロンプトを含む）からなる15,140のChatGPTプロンプトからなるデータセット。
+ * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSporeオンラインコース：LLMに入る
+ * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大規模言語モデルの自動化と自律言語エージェントの開発フレームワーク。Pythonの方法でLLMエージェントアプリケーションを構築してください！
 
 
 **Chatbots**
- * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Input: Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊Output: ストリーマーセールス 销冠 —— 販売主播 LLM 大モデル🛒🎁、商品の特徴に基づいて商品を説明し、ユーザーの購買意欲を刺激する販売主播モデル。🚀⭐詳細なデータ生成プロセスが含まれています❗ 📦さらに、LMDeployの高速推論🚀、RAG検索強化生成 📚、TTSテキスト読み上げ🔊
-
-
-**Browser-extensions**
- * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！
+ * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - 各ウェブサイト用のChatGPT。ウェブサイトコンテンツでトレーニングされたパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案。
 
 
 **Langchain**
- * [dialog](https://github.com/talkdai/dialog) - 簡単な展開とテストのためのRAG LLM Opsアプリ
+ * [aikit](https://github.com/sozercan/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開できます！
 
 
-**Openai**
- * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 ChatGPTによって提供される無料のオープンソースの個人向け財務追跡Webアプリケーション。
- * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 与えられたアプリケーションに基づいて脅威モデルを生成するためにOpenAIのGPTモデルを活用するAIパワードの脅威モデリングツール。STRIDE方法論に基づいています。
-
-
-_Updated on June 12, 2024_ (A total of 1592 repositories listed.)
+_Updated on June 14, 2024_ (A total of 1597 repositories listed.)
 
 ## Table of contents
 
@@ -123,6 +118,7 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文コーパス ダイアログコーパス 小説コーパス カスタマーサポートコーパス 大規模モデルのトレーニングに使用
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 ChatGPTに関連する幅広いツール、文書、リソース、アプリケーション、使用例を網羅した感動的なコレクション。
  * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 エージェントインデックス - これはLobeChatのエージェントインデックスです。 これはこのリポジトリからindex.jsonにアクセスして、LobeChatのエージェントマーケットに利用可能なエージェントのリストを表示します。
+ * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 カテゴリ別に整理された、厳選された素晴らしいPythonライブラリとフレームワーク
 
 
 ## Prompts
@@ -250,6 +246,8 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot: LLMsを使用した金融アプリケーションのためのオープンソースAIエージェントプラットフォーム 🚀 🚀 🚀
  * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥中国語プロンプトの選択🔥、ChatGPTの使用ガイド、ChatGPTのプレイ性と利便性を向上させる方法！🚀
  * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] Reddit、Discord、ウェブサイト、オープンソースのデータセット（1,405のジェイルブレイクプロンプトを含む）からなる15,140のChatGPTプロンプトからなるデータセット。
+ * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSporeオンラインコース：LLMに入る
+ * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大規模言語モデルの自動化と自律言語エージェントの開発フレームワーク。Pythonの方法でLLMエージェントアプリケーションを構築してください！
 
 
 ## Chatbots
@@ -471,6 +469,7 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - Windows、macOS、およびUbuntu用のgpt-4o
  * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Libraryパワフルな会話型AI JavaScriptライブラリ
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Input: Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊Output: ストリーマーセールス 销冠 —— 販売主播 LLM 大モデル🛒🎁、商品の特徴に基づいて商品を説明し、ユーザーの購買意欲を刺激する販売主播モデル。🚀⭐詳細なデータ生成プロセスが含まれています❗ 📦さらに、LMDeployの高速推論🚀、RAG検索強化生成 📚、TTSテキスト読み上げ🔊
+ * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - 各ウェブサイト用のChatGPT。ウェブサイトコンテンツでトレーニングされたパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案。
 
 
 ## Browser-extensions
@@ -1142,6 +1141,7 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 簡単で効率的なファインチューニングLLMs。（サポートされているLLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大規模モデルの効率的な量子化トレーニング+展開。
  * [langtorch](https://github.com/li2109/langtorch) - 🔥 Javaを使用して、組み立て可能なLLMアプリケーションとワークフローを構築します。
  * [dialog](https://github.com/talkdai/dialog) - 簡単な展開とテストのためのRAG LLM Opsアプリ
+ * [aikit](https://github.com/sozercan/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開できます！
 
 
 ## Unity
