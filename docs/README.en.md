@@ -16,29 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
+**Awesome-lists**
+ * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
+
+
 **Prompts**
- * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥Selected Chinese prompt🔥, ChatGPT user guide, enhancing the playability and usability of ChatGPT!🚀
- * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
+ * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore online courses: Step into LLM
+ * [promptulate](https://github.com/undertone0809/promptulate) - 🚀Large language model automation and Autonomous Language Agents development framework. Build your LLM Agent Application in a pythonic way!
 
 
 **Chatbots**
- * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁, a sales anchor model that can describe products based on their characteristics and inspire users to make purchases. 🚀⭐ It includes a detailed data generation process. ❗ 📦 It also integrates LMDeploy for accelerated reasoning 🚀, RAG retrieval enhanced generation 📚, and TTS text-to-speech conversion 🔊.
-
-
-**Browser-extensions**
- * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
+ * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
 
 
 **Langchain**
- * [dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
+ * [aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
 
-**Openai**
- * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
- * [stride-gpt](https://github.com/mrwadams/stride-gpt) - An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
-
-
-_Updated on June 12, 2024_ (A total of 1592 repositories listed.)
+_Updated on June 14, 2024_ (A total of 1597 repositories listed.)
 
 ## Table of contents
 
@@ -123,6 +118,7 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - Input: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large modelsOutput: ChatGPT Chinese corpus, dialogue corpus, novel corpus, customer service corpus used for training large models
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
  * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
+ * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
 
 
 ## Prompts
@@ -250,6 +246,8 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀
  * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥Selected Chinese prompt🔥, ChatGPT user guide, enhancing the playability and usability of ChatGPT!🚀
  * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
+ * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore online courses: Step into LLM
+ * [promptulate](https://github.com/undertone0809/promptulate) - 🚀Large language model automation and Autonomous Language Agents development framework. Build your LLM Agent Application in a pythonic way!
 
 
 ## Chatbots
@@ -471,6 +469,7 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
  * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁, a sales anchor model that can describe products based on their characteristics and inspire users to make purchases. 🚀⭐ It includes a detailed data generation process. ❗ 📦 It also integrates LMDeploy for accelerated reasoning 🚀, RAG retrieval enhanced generation 📚, and TTS text-to-speech conversion 🔊.
+ * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
 
 
 ## Browser-extensions
@@ -1142,6 +1141,7 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - Easy and Efficient Finetuning  LLMs. (Supported LLama, LLama2, LLama3, Qwen,  Baichuan, GLM , Falcon) 大模型高效量化训练+部署.
  * [langtorch](https://github.com/li2109/langtorch) - 🔥 Building composable LLM applications & workflow with Java.
  * [dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
+ * [aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
 
 ## Unity

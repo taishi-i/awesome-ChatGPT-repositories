@@ -16,29 +16,24 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
+**Awesome-lists**
+ * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 精选的优秀Python库和框架，按类别组织
+
+
 **Prompts**
- * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥精选中文提示🔥，ChatGPT 使用指南，提升 ChatGPT 的趣味性和易用性！🚀
- * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] 一个数据集包含来自Reddit、Discord、网站和开源数据集的15,140个ChatGPT提示（包括1,405个越狱提示）。
+ * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore在线课程：踏入LLM
+ * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大型语言模型自动化和自主语言代理开发框架。以Python方式构建您的LLM代理应用程序！
 
 
 **Chatbots**
- * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊
-
-
-**Browser-extensions**
- * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT Gnome桌面扩展 | 从您的菜单栏与ChatGPT交谈！
+ * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT适用于每个网站。通过在您的网站内容上训练的个性化聊天机器人，即时回答访客的问题。是Chatbase、SiteGPT、Dante AI的替代方案。
 
 
 **Langchain**
- * [dialog](https://github.com/talkdai/dialog) - RAG LLM运营应用程序，用于简单部署和测试
+ * [aikit](https://github.com/sozercan/aikit) - 🏗️ 轻松微调、构建和部署开源LLMs！
 
 
-**Openai**
- * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
- * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 一种利用OpenAI的GPT模型生成给定应用程序的威胁模型的AI动力威胁建模工具，基于STRIDE方法论。
-
-
-_Updated on June 12, 2024_ (A total of 1592 repositories listed.)
+_Updated on June 14, 2024_ (A total of 1597 repositories listed.)
 
 ## Table of contents
 
@@ -123,6 +118,7 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ChatGPT 中文语料库 包括对话、小说和客服语料，用于训练大型模型。
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 一个令人敬畏的资源收藏，涵盖了与ChatGPT相关的各种工具、文件、资源、应用程序和用例。
  * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 代理商索引 - 这是LobeChat的代理商索引。它从这个存储库中访问index.json，以显示LobeChat在代理市场上可用的代理商列表。
+ * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 精选的优秀Python库和框架，按类别组织
 
 
 ## Prompts
@@ -250,6 +246,8 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [FinRobot](https://github.com/ai4finance-foundation/finrobot) - FinRobot：一个使用LLMs的金融应用程序的开源AI代理平台 🚀 🚀 🚀
  * [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - 🔥精选中文提示🔥，ChatGPT 使用指南，提升 ChatGPT 的趣味性和易用性！🚀
  * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] 一个数据集包含来自Reddit、Discord、网站和开源数据集的15,140个ChatGPT提示（包括1,405个越狱提示）。
+ * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore在线课程：踏入LLM
+ * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大型语言模型自动化和自主语言代理开发框架。以Python方式构建您的LLM代理应用程序！
 
 
 ## Chatbots
@@ -471,6 +469,7 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o适用于Windows、macOS和Ubuntu
  * [nlux](https://github.com/nlkitai/nlux) - 强大的对话人工智能JavaScript库
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊
+ * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT适用于每个网站。通过在您的网站内容上训练的个性化聊天机器人，即时回答访客的问题。是Chatbase、SiteGPT、Dante AI的替代方案。
 
 
 ## Browser-extensions
@@ -1142,6 +1141,7 @@ _Updated on June 12, 2024_ (A total of 1592 repositories listed.)
  * [LLamaTuner](https://github.com/jianzhnie/llamatuner) - 简单高效的微调LLM模型。支持LLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon。大模型高效量化训练+部署。
  * [langtorch](https://github.com/li2109/langtorch) - 🔥 使用Java构建可组合的LLM应用程序和工作流。
  * [dialog](https://github.com/talkdai/dialog) - RAG LLM运营应用程序，用于简单部署和测试
+ * [aikit](https://github.com/sozercan/aikit) - 🏗️ 轻松微调、构建和部署开源LLMs！
 
 
 ## Unity

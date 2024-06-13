@@ -1656,6 +1656,36 @@
                     "zh-hans": "🤖 / 🏪 代理商索引 - 这是LobeChat的代理商索引。它从这个存储库中访问index.json，以显示LobeChat在代理市场上可用的代理商列表。",
                     "zh-hant": "🤖 / 🏪 代理商索引 - 這是LobeChat的代理商索引。它從這個存儲庫中訪問index.json，以顯示LobeChat市場上可用代理商的列表。"
                 }
+            },
+            "https://github.com/dylanhogg/awesome-python": {
+                "repository_name": "awesome-python",
+                "user_name": "dylanhogg",
+                "language": null,
+                "license": "MIT License",
+                "description": "🐍 Hand-picked awesome Python libraries and frameworks, organised by category",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "awesome-python",
+                    "chatgpt",
+                    "data",
+                    "data-science",
+                    "deep-learning",
+                    "jupyter",
+                    "machine-learning",
+                    "natural-language-processing",
+                    "nlp",
+                    "open-source",
+                    "pandas",
+                    "python",
+                    "python-library"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🐍 Hand-picked awesome Python libraries and frameworks, organised by category",
+                    "ja": "🐍 カテゴリ別に整理された、厳選された素晴らしいPythonライブラリとフレームワーク",
+                    "zh-hans": "🐍 精选的优秀Python库和框架，按类别组织",
+                    "zh-hant": "🐍 精選優秀的Python庫和框架，按類別整理"
+                }
             }
         },
         "Prompts": {
@@ -4423,6 +4453,68 @@
                     "ja": "[CCS'24] Reddit、Discord、ウェブサイト、オープンソースのデータセット（1,405のジェイルブレイクプロンプトを含む）からなる15,140のChatGPTプロンプトからなるデータセット。",
                     "zh-hans": "[CCS'24] 一个数据集包含来自Reddit、Discord、网站和开源数据集的15,140个ChatGPT提示（包括1,405个越狱提示）。",
                     "zh-hant": "[CCS'24] 一個數據集包含來自Reddit、Discord、網站和開源數據集的15,140個ChatGPT提示（包括1,405個越獄提示）。"
+                }
+            },
+            "https://github.com/mindspore-courses/step_into_llm": {
+                "repository_name": "step_into_llm",
+                "user_name": "mindspore-courses",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "MindSpore online courses: Step into LLM",
+                "topics": [
+                    "bert",
+                    "chatglm",
+                    "chatglm2",
+                    "chatgpt",
+                    "codegeex",
+                    "gpt",
+                    "gpt2",
+                    "instruction-tuning",
+                    "large-language-models",
+                    "llama",
+                    "llama2",
+                    "llm",
+                    "mindspore",
+                    "moe",
+                    "natural-language-processing",
+                    "nlp",
+                    "parallel-computing",
+                    "peft",
+                    "prompt-tuning",
+                    "rlhf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MindSpore online courses: Step into LLM",
+                    "ja": "MindSporeオンラインコース：LLMに入る",
+                    "zh-hans": "MindSpore在线课程：踏入LLM",
+                    "zh-hant": "MindSpore 在线课程：踏入 LLM"
+                }
+            },
+            "https://github.com/undertone0809/promptulate": {
+                "repository_name": "promptulate",
+                "user_name": "Undertone0809",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🚀Large language model automation and Autonomous Language Agents development framework. Build your LLM Agent Application in a pythonic way!",
+                "topics": [
+                    "agent",
+                    "autogen",
+                    "chatgpt",
+                    "gpt-4",
+                    "langchain",
+                    "language-agent",
+                    "llm",
+                    "pne",
+                    "prompt",
+                    "prompt-engineering",
+                    "promptulate",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀Large language model automation and Autonomous Language Agents development framework. Build your LLM Agent Application in a pythonic way!",
+                    "ja": "🚀大規模言語モデルの自動化と自律言語エージェントの開発フレームワーク。Pythonの方法でLLMエージェントアプリケーションを構築してください！",
+                    "zh-hans": "🚀大型语言模型自动化和自主语言代理开发框架。以Python方式构建您的LLM代理应用程序！",
+                    "zh-hant": "🚀大型語言模型自動化和自主語言代理開發框架。以Python方式構建您的LLM代理應用程式！"
                 }
             }
         },
@@ -9521,6 +9613,41 @@
                     "ja": "Input: Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊Output: ストリーマーセールス 销冠 —— 販売主播 LLM 大モデル🛒🎁、商品の特徴に基づいて商品を説明し、ユーザーの購買意欲を刺激する販売主播モデル。🚀⭐詳細なデータ生成プロセスが含まれています❗ 📦さらに、LMDeployの高速推論🚀、RAG検索強化生成 📚、TTSテキスト読み上げ🔊",
                     "zh-hans": "Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊",
                     "zh-hant": "Streamer-Sales 銷冠 —— 賣貨主播 LLM 大模型🛒🎁，一個能夠根據給定的商品特點對商品進行解說並激發用戶的購買意願的賣貨主播模型。🚀⭐內含詳細的數據生成流程❗ 📦另外還集成了 LMDeploy 加速推理🚀、RAG檢索增強生成 📚、TTS文字轉語音🔊"
+                }
+            },
+            "https://github.com/anil-matcha/chatbase-alternative": {
+                "repository_name": "Chatbase-Alternative",
+                "user_name": "Anil-matcha",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI",
+                "topics": [
+                    "botpress",
+                    "botpress-alternative",
+                    "botsonic",
+                    "botsonic-alternative",
+                    "chatbase",
+                    "chatbase-alternative",
+                    "chatbot",
+                    "chatgpt",
+                    "customgpt",
+                    "customgpt-alternative",
+                    "dante-ai",
+                    "dante-ai-alternative",
+                    "gpt",
+                    "gpt4",
+                    "langchain",
+                    "openai",
+                    "sitegpt",
+                    "sitegpt-alternative",
+                    "web-chatbot",
+                    "website-chatbot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI",
+                    "ja": "各ウェブサイト用のChatGPT。ウェブサイトコンテンツでトレーニングされたパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案。",
+                    "zh-hans": "ChatGPT适用于每个网站。通过在您的网站内容上训练的个性化聊天机器人，即时回答访客的问题。是Chatbase、SiteGPT、Dante AI的替代方案。",
+                    "zh-hant": "ChatGPT 適用於每個網站。使用根據您的網站內容訓練的個性化聊天機器人立即回答訪客的問題。Chatbase、SiteGPT、Dante AI 的替代方案。"
                 }
             }
         },
@@ -23770,6 +23897,41 @@
                     "ja": "簡単な展開とテストのためのRAG LLM Opsアプリ",
                     "zh-hans": "RAG LLM运营应用程序，用于简单部署和测试",
                     "zh-hant": "RAG LLM Ops應用程式，用於輕鬆部署和測試"
+                }
+            },
+            "https://github.com/sozercan/aikit": {
+                "repository_name": "aikit",
+                "user_name": "sozercan",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "🏗️ Fine-tune, build, and deploy open-source LLMs easily!",
+                "topics": [
+                    "ai",
+                    "buildkit",
+                    "chatgpt",
+                    "docker",
+                    "fine-tuning",
+                    "finetuning",
+                    "gemma",
+                    "gpt",
+                    "inference",
+                    "kubernetes",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "localllama",
+                    "mistral",
+                    "mixtral",
+                    "nvidia",
+                    "open-llm",
+                    "open-source-llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🏗️ Fine-tune, build, and deploy open-source LLMs easily!",
+                    "ja": "🏗️オープンソースのLLMを簡単に微調整、構築、展開できます！",
+                    "zh-hans": "🏗️ 轻松微调、构建和部署开源LLMs！",
+                    "zh-hant": "🏗️ 輕鬆微調、構建和部署開源LLMs！"
                 }
             }
         },
