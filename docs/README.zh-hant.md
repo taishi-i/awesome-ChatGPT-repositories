@@ -16,24 +16,32 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Awesome-lists**
- * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 精選優秀的Python庫和框架，按類別整理
-
-
 **Prompts**
- * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore 在线课程：踏入 LLM
- * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大型語言模型自動化和自主語言代理開發框架。以Python方式構建您的LLM代理應用程式！
+ * [EDDI](https://github.com/labsai/eddi) - 用於對話式AI API的提示和對話管理中間件，例如OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini和Ollama。輕巧、休息、可擴展且雲原生。使用Java開發，由Quarkus提供支持。
 
 
 **Chatbots**
- * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT 適用於每個網站。使用根據您的網站內容訓練的個性化聊天機器人立即回答訪客的問題。Chatbase、SiteGPT、Dante AI 的替代方案。
+ * [speak-gpt](https://github.com/andraxdev/speak-gpt) - 基於OpenAI ChatGPT的個人語音助手。
+
+
+**Browser-extensions**
+ * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 大多數主要軟件和服務的隱私設置指南。
+
+
+**NLP**
+ * [go-translate](https://github.com/lorniu/go-translate) - Emacs上的翻譯器。支援多個引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。
 
 
 **Langchain**
- * [aikit](https://github.com/sozercan/aikit) - 🏗️ 輕鬆微調、構建和部署開源LLMs！
+ * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - 用於LLMs的React庫
 
 
-_Updated on June 14, 2024_ (A total of 1597 repositories listed.)
+**Openai**
+ * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 影片生成的 GPT ⚡️
+ * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web 是一個使用 Vue 3、Vite 和 TypeScript 構建的高性能和可定制的前端開發模板。它具有最新的語法、組件和 API 自動導入、狀態管理、中文字體預設、國際化等功能。
+
+
+_Updated on June 17, 2024_ (A total of 1604 repositories listed.)
 
 ## Table of contents
 
@@ -248,6 +256,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] 一個數據集包含來自Reddit、Discord、網站和開源數據集的15,140個ChatGPT提示（包括1,405個越獄提示）。
  * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore 在线课程：踏入 LLM
  * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大型語言模型自動化和自主語言代理開發框架。以Python方式構建您的LLM代理應用程式！
+ * [EDDI](https://github.com/labsai/eddi) - 用於對話式AI API的提示和對話管理中間件，例如OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini和Ollama。輕巧、休息、可擴展且雲原生。使用Java開發，由Quarkus提供支持。
 
 
 ## Chatbots
@@ -470,6 +479,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [nlux](https://github.com/nlkitai/nlux) - 強大的對話式人工智慧JavaScript程式庫
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 銷冠 —— 賣貨主播 LLM 大模型🛒🎁，一個能夠根據給定的商品特點對商品進行解說並激發用戶的購買意願的賣貨主播模型。🚀⭐內含詳細的數據生成流程❗ 📦另外還集成了 LMDeploy 加速推理🚀、RAG檢索增強生成 📚、TTS文字轉語音🔊
  * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT 適用於每個網站。使用根據您的網站內容訓練的個性化聊天機器人立即回答訪客的問題。Chatbase、SiteGPT、Dante AI 的替代方案。
+ * [speak-gpt](https://github.com/andraxdev/speak-gpt) - 基於OpenAI ChatGPT的個人語音助手。
 
 
 ## Browser-extensions
@@ -639,6 +649,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim 代碼生成插件（OpenAI、ChatGPT 等）
  * [Sophia](https://github.com/kyegomez/sophia) - 輕鬆插件和播放優化器，可將模型訓練成本降低50%。新的優化器比Adam在LLMs上快2倍。
  * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT 圖形桌面擴展 | 從您的選單欄與 ChatGPT 對話！
+ * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 大多數主要軟件和服務的隱私設置指南。
 
 
 ## CLIs
@@ -1046,6 +1057,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [ocular](https://github.com/ocularengineering/ocular) - AI 強化的組織搜索和聊天 - 想像 ChatGpt 遇見 Google 搜索，但由您的數據提供動力。
  * [AutoCoder](https://github.com/bin123apple/autocoder) - 我們推出了一個針對代碼生成任務設計的新模型。它在HumanEval基礎數據集上的測試準確度超過了GPT-4 Turbo（2024年4月）和GPT-4o。
  * [langui](https://github.com/langbaseinc/langui) - 為您的人工智慧設計的使用者界面。針對您的GPT、生成式人工智慧和LLM項目量身定制的開源Tailwind組件。
+ * [go-translate](https://github.com/lorniu/go-translate) - Emacs上的翻譯器。支援多個引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。
 
 
 ## Langchain
@@ -1142,6 +1154,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [langtorch](https://github.com/li2109/langtorch) - 🔥 使用Java構建可組合的LLM應用程序和工作流程。
  * [dialog](https://github.com/talkdai/dialog) - RAG LLM Ops應用程式，用於輕鬆部署和測試
  * [aikit](https://github.com/sozercan/aikit) - 🏗️ 輕鬆微調、構建和部署開源LLMs！
+ * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - 用於LLMs的React庫
 
 
 ## Unity
@@ -1325,6 +1338,8 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - OpenAI API 免費反向代理
  * [hisabi](https://github.com/hisabi-app/hisabi) - 💰由ChatGPT驅動的免費開源個人財務追蹤網絡應用程式。
  * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 一個由人工智慧驅動的威脅建模工具，利用OpenAI的GPT模型根據STRIDE方法為特定應用程序生成威脅模型。
+ * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 影片生成的 GPT ⚡️
+ * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web 是一個使用 Vue 3、Vite 和 TypeScript 構建的高性能和可定制的前端開發模板。它具有最新的語法、組件和 API 自動導入、狀態管理、中文字體預設、國際化等功能。
 
 
 ## Others
