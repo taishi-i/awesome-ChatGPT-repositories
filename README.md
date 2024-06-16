@@ -16,24 +16,32 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Awesome-lists**
- * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
-
-
 **Prompts**
- * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore online courses: Step into LLM
- * [promptulate](https://github.com/undertone0809/promptulate) - 🚀Large language model automation and Autonomous Language Agents development framework. Build your LLM Agent Application in a pythonic way!
+ * [EDDI](https://github.com/labsai/eddi) - Prompt & Conversation Management Middleware for Conversational AI APIs such as OpenAI ChatGPT, Facebook Hugging Face, Anthropic Claude, Google Gemini and Ollama. Lean, restful, scalable, and cloud-native. Developed in Java, powered by Quarkus, provided with Docker, and orchestrated with Kubernetes or Openshift.
 
 
 **Chatbots**
- * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
+ * [speak-gpt](https://github.com/andraxdev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
+
+
+**Browser-extensions**
+ * [privacy-settings](https://github.com/stellarsand/privacy-settings) - Guide to privacy settings for most major softwares and services.
+
+
+**NLP**
+ * [go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.
 
 
 **Langchain**
- * [aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+ * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - The React library for LLMs
 
 
-_Updated on June 14, 2024_ (A total of 1597 repositories listed.)
+**Openai**
+ * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 GPT for video generation ⚡️
+ * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and integration with OpenAI's ChatGPT API.
+
+
+_Updated on June 17, 2024_ (A total of 1604 repositories listed.)
 
 ## Table of contents
 
@@ -248,6 +256,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
  * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore online courses: Step into LLM
  * [promptulate](https://github.com/undertone0809/promptulate) - 🚀Large language model automation and Autonomous Language Agents development framework. Build your LLM Agent Application in a pythonic way!
+ * [EDDI](https://github.com/labsai/eddi) - Prompt & Conversation Management Middleware for Conversational AI APIs such as OpenAI ChatGPT, Facebook Hugging Face, Anthropic Claude, Google Gemini and Ollama. Lean, restful, scalable, and cloud-native. Developed in Java, powered by Quarkus, provided with Docker, and orchestrated with Kubernetes or Openshift.
 
 
 ## Chatbots
@@ -470,6 +479,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊
  * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
+ * [speak-gpt](https://github.com/andraxdev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
 
 
 ## Browser-extensions
@@ -639,6 +649,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim code generation plugin (OpenAI, ChatGPT, and more)
  * [Sophia](https://github.com/kyegomez/sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
  * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
+ * [privacy-settings](https://github.com/stellarsand/privacy-settings) - Guide to privacy settings for most major softwares and services.
 
 
 ## CLIs
@@ -1046,6 +1057,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [ocular](https://github.com/ocularengineering/ocular) - AI Powered Search and Chat for Orgs - Think ChatGpt meets Google Search but powered by your data.
  * [AutoCoder](https://github.com/bin123apple/autocoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
  * [langui](https://github.com/langbaseinc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
+ * [go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.
 
 
 ## Langchain
@@ -1142,6 +1154,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [langtorch](https://github.com/li2109/langtorch) - 🔥 Building composable LLM applications & workflow with Java.
  * [dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
  * [aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+ * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - The React library for LLMs
 
 
 ## Unity
@@ -1325,6 +1338,8 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - C# library for ChatGPT using official OpenAI API
  * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 Free open-source personal finance tracking web application powered by ChatGPT.
  * [stride-gpt](https://github.com/mrwadams/stride-gpt) - An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
+ * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 GPT for video generation ⚡️
+ * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and integration with OpenAI's ChatGPT API.
 
 
 ## Others

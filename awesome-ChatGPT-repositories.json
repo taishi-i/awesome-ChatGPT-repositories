@@ -4516,6 +4516,41 @@
                     "zh-hans": "🚀大型语言模型自动化和自主语言代理开发框架。以Python方式构建您的LLM代理应用程序！",
                     "zh-hant": "🚀大型語言模型自動化和自主語言代理開發框架。以Python方式構建您的LLM代理應用程式！"
                 }
+            },
+            "https://github.com/labsai/eddi": {
+                "repository_name": "EDDI",
+                "user_name": "labsai",
+                "language": "Java",
+                "license": null,
+                "description": "Prompt & Conversation Management Middleware for Conversational AI APIs such as OpenAI ChatGPT, Facebook Hugging Face, Anthropic Claude, Google Gemini and Ollama. Lean, restful, scalable, and cloud-native. Developed in Java, powered by Quarkus, provided with Docker, and orchestrated with Kubernetes or Openshift.",
+                "topics": [
+                    "ai",
+                    "bot",
+                    "bot-api",
+                    "bot-framework",
+                    "bots",
+                    "chatbot",
+                    "conversation-memory",
+                    "conversational-ai",
+                    "conversational-bots",
+                    "conversational-interface",
+                    "conversational-ui",
+                    "dialog",
+                    "java",
+                    "mongodb",
+                    "prompt-management",
+                    "prompts",
+                    "quarkus",
+                    "restful",
+                    "restful-api",
+                    "restful-webservices"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Prompt & Conversation Management Middleware for Conversational AI APIs such as OpenAI ChatGPT, Facebook Hugging Face, Anthropic Claude, Google Gemini and Ollama. Lean, restful, scalable, and cloud-native. Developed in Java, powered by Quarkus, provided wit",
+                    "ja": "Conversational AI API（OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini、Ollamaなど）向けのプロンプト＆会話管理ミドルウェア。Javaで開発され、Quarkusで動作し、Lean、restful、スケーラブル、クラウドネイティブです。提供されるwit。",
+                    "zh-hans": "用于对话AI API的提示和对话管理中间件，例如OpenAI ChatGPT，Facebook Hugging Face，Anthropic Claude，Google Gemini和Ollama。 精简，轻量级，可扩展，云原生。 使用Java开发，由Quarkus提供支持。",
+                    "zh-hant": "用於對話式AI API的提示和對話管理中間件，例如OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini和Ollama。輕巧、休息、可擴展且雲原生。使用Java開發，由Quarkus提供支持。"
+                }
             }
         },
         "Chatbots": {
@@ -9649,6 +9684,41 @@
                     "zh-hans": "ChatGPT适用于每个网站。通过在您的网站内容上训练的个性化聊天机器人，即时回答访客的问题。是Chatbase、SiteGPT、Dante AI的替代方案。",
                     "zh-hant": "ChatGPT 適用於每個網站。使用根據您的網站內容訓練的個性化聊天機器人立即回答訪客的問題。Chatbase、SiteGPT、Dante AI 的替代方案。"
                 }
+            },
+            "https://github.com/andraxdev/speak-gpt": {
+                "repository_name": "speak-gpt",
+                "user_name": "AndraxDev",
+                "language": "Kotlin",
+                "license": "Apache License 2.0",
+                "description": "Your personal voice assistant based on OpenAI ChatGPT.",
+                "topics": [
+                    "android",
+                    "assistant",
+                    "assistant-chat-bots",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-client",
+                    "dall-e",
+                    "gemini",
+                    "google-assistant",
+                    "gpt",
+                    "gpt-4o",
+                    "gpt-vision",
+                    "kotlin",
+                    "kotlin-android",
+                    "llama",
+                    "mobile",
+                    "openai",
+                    "openai-api",
+                    "voice-assistant",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Your personal voice assistant based on OpenAI ChatGPT.",
+                    "ja": "OpenAI ChatGPTに基づいたあなたの個人用音声アシスタント。",
+                    "zh-hans": "基于OpenAI ChatGPT的个人语音助手。",
+                    "zh-hant": "基於OpenAI ChatGPT的個人語音助手。"
+                }
             }
         },
         "Browser-extensions": {
@@ -13289,6 +13359,41 @@
                     "ja": "ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！",
                     "zh-hans": "ChatGPT Gnome桌面扩展 | 从您的菜单栏与ChatGPT交谈！",
                     "zh-hant": "ChatGPT 圖形桌面擴展 | 從您的選單欄與 ChatGPT 對話！"
+                }
+            },
+            "https://github.com/stellarsand/privacy-settings": {
+                "repository_name": "privacy-settings",
+                "user_name": "StellarSand",
+                "language": null,
+                "license": "MIT License",
+                "description": "Guide to privacy settings for most major softwares and services.",
+                "topics": [
+                    "amazon",
+                    "android",
+                    "brave",
+                    "chatgpt",
+                    "digital-privacy",
+                    "edge",
+                    "facebook",
+                    "firefox",
+                    "google",
+                    "instagram",
+                    "privacy",
+                    "privacy-online",
+                    "privacy-tools",
+                    "security",
+                    "signal",
+                    "twitter",
+                    "vivaldi",
+                    "windows",
+                    "windows-10",
+                    "windows-11"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Guide to privacy settings for most major softwares and services.",
+                    "ja": "主要なソフトウェアやサービスのプライバシー設定ガイド",
+                    "zh-hans": "大多数主要软件和服务的隐私设置指南。",
+                    "zh-hant": "大多數主要軟件和服務的隱私設置指南。"
                 }
             }
         },
@@ -21769,6 +21874,24 @@
                     "zh-hans": "为您的人工智能设计的用户界面。为您的GPT、生成式人工智能和LLM项目量身定制的开源Tailwind组件。",
                     "zh-hant": "為您的人工智慧設計的使用者界面。針對您的GPT、生成式人工智慧和LLM項目量身定制的開源Tailwind組件。"
                 }
+            },
+            "https://github.com/lorniu/go-translate": {
+                "repository_name": "go-translate",
+                "user_name": "lorniu",
+                "language": "Emacs Lisp",
+                "license": "GNU General Public License v3.0",
+                "description": "Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.",
+                "topics": [
+                    "chatgpt",
+                    "text-utility",
+                    "translation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.",
+                    "ja": "Emacs上の翻訳機能。Google、Bing、deepL、ChatGPT、StarDict、Youdaoなど複数のエンジンをサポートしています。",
+                    "zh-hans": "Emacs上的翻译器。支持多个引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。",
+                    "zh-hant": "Emacs上的翻譯器。支援多個引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。"
+                }
             }
         },
         "Langchain": {
@@ -23932,6 +24055,30 @@
                     "ja": "🏗️オープンソースのLLMを簡単に微調整、構築、展開できます！",
                     "zh-hans": "🏗️ 轻松微调、构建和部署开源LLMs！",
                     "zh-hant": "🏗️ 輕鬆微調、構建和部署開源LLMs！"
+                }
+            },
+            "https://github.com/llm-ui-kit/llm-ui": {
+                "repository_name": "llm-ui",
+                "user_name": "llm-ui-kit",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The React library for LLMs",
+                "topics": [
+                    "chatgpt",
+                    "claude",
+                    "component-library",
+                    "generative-ai",
+                    "llama",
+                    "llm",
+                    "markdown",
+                    "openai",
+                    "react"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The React library for LLMs",
+                    "ja": "LLMsのReactライブラリ",
+                    "zh-hans": "用于LLMs的React库",
+                    "zh-hant": "用於LLMs的React庫"
                 }
             }
         },
@@ -27756,6 +27903,58 @@
                     "ja": "与えられたアプリケーションに基づいて脅威モデルを生成するためにOpenAIのGPTモデルを活用するAIパワードの脅威モデリングツール。STRIDE方法論に基づいています。",
                     "zh-hans": "一种利用OpenAI的GPT模型生成给定应用程序的威胁模型的AI动力威胁建模工具，基于STRIDE方法论。",
                     "zh-hant": "一個由人工智慧驅動的威脅建模工具，利用OpenAI的GPT模型根據STRIDE方法為特定應用程序生成威脅模型。"
+                }
+            },
+            "https://github.com/360macky/generative-manim": {
+                "repository_name": "generative-manim",
+                "user_name": "360macky",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🎨 GPT for video generation ⚡️",
+                "topics": [
+                    "2d",
+                    "animation",
+                    "gpt",
+                    "gpt-4",
+                    "gpt3",
+                    "gpt3-turbo",
+                    "manim",
+                    "openai",
+                    "prompt2manim",
+                    "python-3",
+                    "rendering",
+                    "streamlit",
+                    "text2manim",
+                    "video"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🎨 GPT for video generation ⚡️Translated Output:🎨 GPT for video generation ⚡️",
+                    "ja": "🎨 ビデオ生成のためのGPT ⚡️",
+                    "zh-hans": "🎨 视频生成的GPT ⚡️",
+                    "zh-hant": "🎨 影片生成的 GPT ⚡️"
+                }
+            },
+            "https://github.com/kirklin/celeris-web": {
+                "repository_name": "celeris-web",
+                "user_name": "kirklin",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and integration with OpenAI's ChatGPT API.",
+                "topics": [
+                    "admin",
+                    "admin-dashboard",
+                    "chatgpt",
+                    "i18n",
+                    "naive-ui",
+                    "typescript",
+                    "vite",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and",
+                    "ja": "Input: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。 Output: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。",
+                    "zh-hans": "Celeris Web 是一个高性能且可定制的前端开发模板，使用了Vue 3、Vite 和 TypeScript 构建。它具有最新的语法、组件和 API 自动导入、状态管理、中文字体预设、国际化等功能。",
+                    "zh-hant": "Celeris Web 是一個使用 Vue 3、Vite 和 TypeScript 構建的高性能和可定制的前端開發模板。它具有最新的語法、組件和 API 自動導入、狀態管理、中文字體預設、國際化等功能。"
                 }
             }
         },

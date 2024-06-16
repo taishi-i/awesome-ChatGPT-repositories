@@ -16,24 +16,32 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Awesome-lists**
- * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 精选的优秀Python库和框架，按类别组织
-
-
 **Prompts**
- * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore在线课程：踏入LLM
- * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大型语言模型自动化和自主语言代理开发框架。以Python方式构建您的LLM代理应用程序！
+ * [EDDI](https://github.com/labsai/eddi) - 用于对话AI API的提示和对话管理中间件，例如OpenAI ChatGPT，Facebook Hugging Face，Anthropic Claude，Google Gemini和Ollama。 精简，轻量级，可扩展，云原生。 使用Java开发，由Quarkus提供支持。
 
 
 **Chatbots**
- * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT适用于每个网站。通过在您的网站内容上训练的个性化聊天机器人，即时回答访客的问题。是Chatbase、SiteGPT、Dante AI的替代方案。
+ * [speak-gpt](https://github.com/andraxdev/speak-gpt) - 基于OpenAI ChatGPT的个人语音助手。
+
+
+**Browser-extensions**
+ * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 大多数主要软件和服务的隐私设置指南。
+
+
+**NLP**
+ * [go-translate](https://github.com/lorniu/go-translate) - Emacs上的翻译器。支持多个引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。
 
 
 **Langchain**
- * [aikit](https://github.com/sozercan/aikit) - 🏗️ 轻松微调、构建和部署开源LLMs！
+ * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - 用于LLMs的React库
 
 
-_Updated on June 14, 2024_ (A total of 1597 repositories listed.)
+**Openai**
+ * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 视频生成的GPT ⚡️
+ * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web 是一个高性能且可定制的前端开发模板，使用了Vue 3、Vite 和 TypeScript 构建。它具有最新的语法、组件和 API 自动导入、状态管理、中文字体预设、国际化等功能。
+
+
+_Updated on June 17, 2024_ (A total of 1604 repositories listed.)
 
 ## Table of contents
 
@@ -248,6 +256,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] 一个数据集包含来自Reddit、Discord、网站和开源数据集的15,140个ChatGPT提示（包括1,405个越狱提示）。
  * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore在线课程：踏入LLM
  * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大型语言模型自动化和自主语言代理开发框架。以Python方式构建您的LLM代理应用程序！
+ * [EDDI](https://github.com/labsai/eddi) - 用于对话AI API的提示和对话管理中间件，例如OpenAI ChatGPT，Facebook Hugging Face，Anthropic Claude，Google Gemini和Ollama。 精简，轻量级，可扩展，云原生。 使用Java开发，由Quarkus提供支持。
 
 
 ## Chatbots
@@ -470,6 +479,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [nlux](https://github.com/nlkitai/nlux) - 强大的对话人工智能JavaScript库
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊
  * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT适用于每个网站。通过在您的网站内容上训练的个性化聊天机器人，即时回答访客的问题。是Chatbase、SiteGPT、Dante AI的替代方案。
+ * [speak-gpt](https://github.com/andraxdev/speak-gpt) - 基于OpenAI ChatGPT的个人语音助手。
 
 
 ## Browser-extensions
@@ -639,6 +649,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovim 代码生成插件（OpenAI，ChatGPT 等）
  * [Sophia](https://github.com/kyegomez/sophia) - 轻松插件和播放优化器，可将模型训练成本降低50%。新的优化器在LLMs上比Adam快2倍。
  * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT Gnome桌面扩展 | 从您的菜单栏与ChatGPT交谈！
+ * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 大多数主要软件和服务的隐私设置指南。
 
 
 ## CLIs
@@ -1046,6 +1057,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [ocular](https://github.com/ocularengineering/ocular) - AI 动力搜索和聊天服务 - 想象一下 ChatGpt 遇见谷歌搜索，但是由您的数据驱动。
  * [AutoCoder](https://github.com/bin123apple/autocoder) - 我们推出了一个专为代码生成任务设计的新模型。它在HumanEval基础数据集上的测试准确率超过了GPT-4 Turbo（2024年4月）和GPT-4o。
  * [langui](https://github.com/langbaseinc/langui) - 为您的人工智能设计的用户界面。为您的GPT、生成式人工智能和LLM项目量身定制的开源Tailwind组件。
+ * [go-translate](https://github.com/lorniu/go-translate) - Emacs上的翻译器。支持多个引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。
 
 
 ## Langchain
@@ -1142,6 +1154,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [langtorch](https://github.com/li2109/langtorch) - 🔥 使用Java构建可组合的LLM应用程序和工作流。
  * [dialog](https://github.com/talkdai/dialog) - RAG LLM运营应用程序，用于简单部署和测试
  * [aikit](https://github.com/sozercan/aikit) - 🏗️ 轻松微调、构建和部署开源LLMs！
+ * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - 用于LLMs的React库
 
 
 ## Unity
@@ -1325,6 +1338,8 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - OpenAI API 免费反向代理
  * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
  * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 一种利用OpenAI的GPT模型生成给定应用程序的威胁模型的AI动力威胁建模工具，基于STRIDE方法论。
+ * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 视频生成的GPT ⚡️
+ * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web 是一个高性能且可定制的前端开发模板，使用了Vue 3、Vite 和 TypeScript 构建。它具有最新的语法、组件和 API 自动导入、状态管理、中文字体预设、国际化等功能。
 
 
 ## Others

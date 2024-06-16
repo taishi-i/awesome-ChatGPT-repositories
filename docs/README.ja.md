@@ -16,24 +16,32 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Awesome-lists**
- * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 カテゴリ別に整理された、厳選された素晴らしいPythonライブラリとフレームワーク
-
-
 **Prompts**
- * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSporeオンラインコース：LLMに入る
- * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大規模言語モデルの自動化と自律言語エージェントの開発フレームワーク。Pythonの方法でLLMエージェントアプリケーションを構築してください！
+ * [EDDI](https://github.com/labsai/eddi) - Conversational AI API（OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini、Ollamaなど）向けのプロンプト＆会話管理ミドルウェア。Javaで開発され、Quarkusで動作し、Lean、restful、スケーラブル、クラウドネイティブです。提供されるwit。
 
 
 **Chatbots**
- * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - 各ウェブサイト用のChatGPT。ウェブサイトコンテンツでトレーニングされたパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案。
+ * [speak-gpt](https://github.com/andraxdev/speak-gpt) - OpenAI ChatGPTに基づいたあなたの個人用音声アシスタント。
+
+
+**Browser-extensions**
+ * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 主要なソフトウェアやサービスのプライバシー設定ガイド
+
+
+**NLP**
+ * [go-translate](https://github.com/lorniu/go-translate) - Emacs上の翻訳機能。Google、Bing、deepL、ChatGPT、StarDict、Youdaoなど複数のエンジンをサポートしています。
 
 
 **Langchain**
- * [aikit](https://github.com/sozercan/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開できます！
+ * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - LLMsのReactライブラリ
 
 
-_Updated on June 14, 2024_ (A total of 1597 repositories listed.)
+**Openai**
+ * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 ビデオ生成のためのGPT ⚡️
+ * [celeris-web](https://github.com/kirklin/celeris-web) - Input: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。 Output: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。
+
+
+_Updated on June 17, 2024_ (A total of 1604 repositories listed.)
 
 ## Table of contents
 
@@ -248,6 +256,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] Reddit、Discord、ウェブサイト、オープンソースのデータセット（1,405のジェイルブレイクプロンプトを含む）からなる15,140のChatGPTプロンプトからなるデータセット。
  * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSporeオンラインコース：LLMに入る
  * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大規模言語モデルの自動化と自律言語エージェントの開発フレームワーク。Pythonの方法でLLMエージェントアプリケーションを構築してください！
+ * [EDDI](https://github.com/labsai/eddi) - Conversational AI API（OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini、Ollamaなど）向けのプロンプト＆会話管理ミドルウェア。Javaで開発され、Quarkusで動作し、Lean、restful、スケーラブル、クラウドネイティブです。提供されるwit。
 
 
 ## Chatbots
@@ -470,6 +479,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [nlux](https://github.com/nlkitai/nlux) - The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Libraryパワフルな会話型AI JavaScriptライブラリ
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Input: Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊Output: ストリーマーセールス 销冠 —— 販売主播 LLM 大モデル🛒🎁、商品の特徴に基づいて商品を説明し、ユーザーの購買意欲を刺激する販売主播モデル。🚀⭐詳細なデータ生成プロセスが含まれています❗ 📦さらに、LMDeployの高速推論🚀、RAG検索強化生成 📚、TTSテキスト読み上げ🔊
  * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - 各ウェブサイト用のChatGPT。ウェブサイトコンテンツでトレーニングされたパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案。
+ * [speak-gpt](https://github.com/andraxdev/speak-gpt) - OpenAI ChatGPTに基づいたあなたの個人用音声アシスタント。
 
 
 ## Browser-extensions
@@ -639,6 +649,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [neural](https://github.com/dense-analysis/neural) - AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPTなど）AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPT、その他）
  * [Sophia](https://github.com/kyegomez/sophia) - モデルトレーニングコストを50％削減するための簡単なプラグインとプレイ最適化ツール。LLMsにおいてAdamより2倍高速な新しい最適化ツール。
  * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！
+ * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 主要なソフトウェアやサービスのプライバシー設定ガイド
 
 
 ## CLIs
@@ -1046,6 +1057,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [ocular](https://github.com/ocularengineering/ocular) - AIパワードサーチとチャット for Orgs - ChatGptがGoogle検索と出会うと思ってくださいが、あなたのデータでパワードされています。
  * [AutoCoder](https://github.com/bin123apple/autocoder) - コード生成タスク向けに設計された新しいモデルを導入しました。そのヒューマンエバルベースデータセットでのテスト精度は、GPT-4 Turbo（2024年4月）およびGPT-4oを上回っています。
  * [langui](https://github.com/langbaseinc/langui) - あなたのAIのためのUI。あなたのGPT、生成AI、およびLLMプロジェクトに合わせたオープンソースのTailwindコンポーネント。
+ * [go-translate](https://github.com/lorniu/go-translate) - Emacs上の翻訳機能。Google、Bing、deepL、ChatGPT、StarDict、Youdaoなど複数のエンジンをサポートしています。
 
 
 ## Langchain
@@ -1142,6 +1154,7 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [langtorch](https://github.com/li2109/langtorch) - 🔥 Javaを使用して、組み立て可能なLLMアプリケーションとワークフローを構築します。
  * [dialog](https://github.com/talkdai/dialog) - 簡単な展開とテストのためのRAG LLM Opsアプリ
  * [aikit](https://github.com/sozercan/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開できます！
+ * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - LLMsのReactライブラリ
 
 
 ## Unity
@@ -1325,6 +1338,8 @@ _Updated on June 14, 2024_ (A total of 1597 repositories listed.)
  * [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - OpenAI API無料リバースプロキシ
  * [hisabi](https://github.com/hisabi-app/hisabi) - 💰 ChatGPTによって提供される無料のオープンソースの個人向け財務追跡Webアプリケーション。
  * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 与えられたアプリケーションに基づいて脅威モデルを生成するためにOpenAIのGPTモデルを活用するAIパワードの脅威モデリングツール。STRIDE方法論に基づいています。
+ * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 ビデオ生成のためのGPT ⚡️
+ * [celeris-web](https://github.com/kirklin/celeris-web) - Input: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。 Output: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。
 
 
 ## Others
