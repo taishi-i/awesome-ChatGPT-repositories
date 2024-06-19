@@ -16,32 +16,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Prompts**
- * [EDDI](https://github.com/labsai/eddi) - Prompt & Conversation Management Middleware for Conversational AI APIs such as OpenAI ChatGPT, Facebook Hugging Face, Anthropic Claude, Google Gemini and Ollama. Lean, restful, scalable, and cloud-native. Developed in Java, powered by Quarkus, provided wit
+**Awesome-lists**
+ * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas
 
 
 **Chatbots**
- * [speak-gpt](https://github.com/andraxdev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
-
-
-**Browser-extensions**
- * [privacy-settings](https://github.com/stellarsand/privacy-settings) - Guide to privacy settings for most major softwares and services.
+ * [IncarnaMind](https://github.com/junruxiong/incarnamind) - Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs
+ * [unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
 
 
 **NLP**
- * [go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.
+ * [ChatTTS](https://github.com/2noise/chattts) - A generative speech model for daily dialogue.
 
 
 **Langchain**
- * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - The React library for LLMs
+ * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
+ * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth provides a user-friendly solution to quickly setup oauth for your custom GPT and self-host it.
 
 
-**Openai**
- * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 GPT for video generation ⚡️Translated Output:🎨 GPT for video generation ⚡️
- * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and
+**Unity**
+ * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 
 
-_Updated on June 17, 2024_ (A total of 1604 repositories listed.)
+_Updated on June 19, 2024_ (A total of 1611 repositories listed.)
 
 ## Table of contents
 
@@ -127,6 +124,7 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
  * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
  * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
+ * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas
 
 
 ## Prompts
@@ -480,6 +478,8 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁, a sales anchor model that can describe products based on their characteristics and inspire users to make purchases. 🚀⭐ It includes a detailed data generation process. ❗ 📦 It also integrates LMDeploy for accelerated reasoning 🚀, RAG retrieval enhanced generation 📚, and TTS text-to-speech conversion 🔊.
  * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT for every website.Instantly answer your visitors' questions with a personalized chatbot trained on your website content. Alternative to Chatbase, SiteGPT, Dante AI
  * [speak-gpt](https://github.com/andraxdev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
+ * [IncarnaMind](https://github.com/junruxiong/incarnamind) - Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs
+ * [unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
 
 
 ## Browser-extensions
@@ -1058,6 +1058,7 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [AutoCoder](https://github.com/bin123apple/autocoder) - We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
  * [langui](https://github.com/langbaseinc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
  * [go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.
+ * [ChatTTS](https://github.com/2noise/chattts) - A generative speech model for daily dialogue.
 
 
 ## Langchain
@@ -1155,6 +1156,8 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
  * [aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
  * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - The React library for LLMs
+ * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
+ * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth provides a user-friendly solution to quickly setup oauth for your custom GPT and self-host it.
 
 
 ## Unity
@@ -1172,6 +1175,7 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
  * [open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
+ * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
 
 
 ## Openai

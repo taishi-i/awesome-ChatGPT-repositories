@@ -1686,6 +1686,38 @@
                     "zh-hans": "🐍 精选的优秀Python库和框架，按类别组织",
                     "zh-hant": "🐍 精選優秀的Python庫和框架，按類別整理"
                 }
+            },
+            "https://github.com/neph0s/awesome-llm-role-playing-with-persona": {
+                "repository_name": "awesome-llm-role-playing-with-persona",
+                "user_name": "Neph0s",
+                "language": null,
+                "license": null,
+                "description": "Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "aigc",
+                    "awesome",
+                    "awesome-list",
+                    "character",
+                    "chatgpt",
+                    "conversational-ai",
+                    "deep-learning",
+                    "large-language-models",
+                    "llm",
+                    "natural-language-processing",
+                    "nlp",
+                    "paper-list",
+                    "persona",
+                    "role-playing",
+                    "survey"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas",
+                    "ja": "素晴らしいLLM（Large Language Models）を使用した役割演技とペルソナに関する厳選されたリソースのリスト: 割り当てられたペルソナと一緒に役割演技をするためのリソースのリスト",
+                    "zh-hans": "厉害-llm-角色扮演与角色: 一个为大型语言模型提供资源的策划列表，用于与指定的角色扮演。",
+                    "zh-hant": "厲害-llm-角色扮演與角色: 一個精心挑選的資源列表，適用於大型語言模型，用於與指定的角色進行角色扮演"
+                }
             }
         },
         "Prompts": {
@@ -9718,6 +9750,64 @@
                     "ja": "OpenAI ChatGPTに基づいたあなたの個人用音声アシスタント。",
                     "zh-hans": "基于OpenAI ChatGPT的个人语音助手。",
                     "zh-hant": "基於OpenAI ChatGPT的個人語音助手。"
+                }
+            },
+            "https://github.com/junruxiong/incarnamind": {
+                "repository_name": "IncarnaMind",
+                "user_name": "junruxiong",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "generative-ai",
+                    "gpt",
+                    "langchain",
+                    "llm",
+                    "nlp",
+                    "openai",
+                    "pdf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs",
+                    "ja": "GPT 3.5、GPT-4 Turbo、Claude、およびローカルオープンソースLLMsを介して複数のドキュメント（pdfおよびtxt）を接続してチャットします。",
+                    "zh-hans": "通过GPT 3.5、GPT-4 Turbo、Claude和本地开源LLMs连接并与您的多个文档（pdf和txt）进行聊天。",
+                    "zh-hant": "通過GPT 3.5、GPT-4 Turbo、Claude和本地開源LLMs連接並與您的多個文檔（pdf和txt）進行聊天。"
+                }
+            },
+            "https://github.com/jorge-menjivar/unsaged": {
+                "repository_name": "unsaged",
+                "user_name": "jorge-menjivar",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Open source chat kit engineered for seamless interaction with AI models.",
+                "topics": [
+                    "anthropic",
+                    "anthropic-claude",
+                    "bard",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "claude-ai",
+                    "claude2",
+                    "codellama",
+                    "gpt-3",
+                    "gpt-3-5-turbo",
+                    "gpt-4",
+                    "gpt-4-turbo",
+                    "llama2",
+                    "mistral",
+                    "ollama",
+                    "openai",
+                    "palm",
+                    "palm2"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open source chat kit engineered for seamless interaction with AI models.",
+                    "ja": "AIモデルとのシームレスなインタラクションを可能にするオープンソースチャットキット。",
+                    "zh-hans": "专为与AI模型无缝交互而设计的开源聊天工具包。",
+                    "zh-hant": "針對與人工智慧模型無縫互動而設計的開源聊天套件。"
                 }
             }
         },
@@ -21892,6 +21982,38 @@
                     "zh-hans": "Emacs上的翻译器。支持多个引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。",
                     "zh-hant": "Emacs上的翻譯器。支援多個引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。"
                 }
+            },
+            "https://github.com/2noise/chattts": {
+                "repository_name": "ChatTTS",
+                "user_name": "2noise",
+                "language": "Python",
+                "license": "Other",
+                "description": "A generative speech model for daily dialogue.",
+                "topics": [
+                    "agent",
+                    "chat",
+                    "chatgpt",
+                    "chattts",
+                    "chinese",
+                    "chinese-language",
+                    "english",
+                    "english-language",
+                    "gpt",
+                    "llm",
+                    "llm-agent",
+                    "natural-language-inference",
+                    "python",
+                    "text-to-speech",
+                    "torch",
+                    "torchaudio",
+                    "tts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A generative speech model for daily dialogue.",
+                    "ja": "日常会話のための生成型スピーチモデル。",
+                    "zh-hans": "每日对话生成模型。",
+                    "zh-hant": "一個用於日常對話的生成式演講模型。"
+                }
             }
         },
         "Langchain": {
@@ -24080,6 +24202,62 @@
                     "zh-hans": "用于LLMs的React库",
                     "zh-hant": "用於LLMs的React庫"
                 }
+            },
+            "https://github.com/yokingma/search_with_ai": {
+                "repository_name": "search_with_ai",
+                "user_name": "yokingma",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "free",
+                    "llm",
+                    "ollama",
+                    "perplexity",
+                    "rag",
+                    "search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。",
+                    "ja": "🤖 AIによる無料検索、💡 オープンソースのPerplexity、📍 Ollama/SearXNGのサポート、Dockerデプロイメントのサポート。AIモデルと検索エンジンがあなたの質問に答えることを可能にし、ローカルな大規模モデル(Ollama)や集約検索エンジンSearXNGをサポートし、Dockerデプロイメントをサポートします。",
+                    "zh-hans": "🤖 免费AI搜索，💡 开源困惑度，📍 支持Ollama/SearXNG，支持Docker部署。",
+                    "zh-hant": "🤖 免費AI搜索，💡 開源困惑度，📍 支持Ollama/SearXNG，支持Docker部署。 讓AI大模型和搜索引擎回答你的問題，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一鍵部署。"
+                }
+            },
+            "https://github.com/anil-matcha/gpt-actions": {
+                "repository_name": "GPT-Actions",
+                "user_name": "Anil-matcha",
+                "language": "JavaScript",
+                "license": null,
+                "description": "GPT Auth provides a user-friendly solution to quickly setup oauth for your custom GPT and self-host it.",
+                "topics": [
+                    "authentication",
+                    "customgpt",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-action",
+                    "gpt-actions",
+                    "gpt-analytics",
+                    "gpt-auth",
+                    "gpt-monetize",
+                    "gpt-oauth",
+                    "gpt4",
+                    "gpts",
+                    "langchain",
+                    "langchain-python",
+                    "llms",
+                    "monetize-gpt",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GPT Auth provides a user-friendly solution to quickly setup oauth for your custom GPT and self-host it.",
+                    "ja": "GPT Authは、カスタムGPT用のoauthを迅速にセットアップするためのユーザーフレンドリーなソリューションを提供します。",
+                    "zh-hans": "GPT Auth提供了一个用户友好的解决方案，可以快速设置oauth，用于您定制的GPT并自行托管。",
+                    "zh-hant": "GPT Auth 提供了一個用戶友好的解決方案，可以快速設置您自定義的 GPT 和自行託管的 oauth。"
+                }
             }
         },
         "Unity": {
@@ -24347,6 +24525,41 @@
                     "en": "Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)",
                     "ja": "多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）",
                     "zh-hans": "使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan 社区版（CE）输出：Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan 社区版 (CE)",
+                    "zh-hant": "使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）"
+                }
+            },
+            "https://github.com/tcosolutions/betterscan-ce": {
+                "repository_name": "betterscan-ce",
+                "user_name": "tcosolutions",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)",
+                "topics": [
+                    "code-quality",
+                    "code-quality-analyzer",
+                    "compliance",
+                    "devops",
+                    "devops-tools",
+                    "devsecops",
+                    "gdpr",
+                    "owasp",
+                    "sast",
+                    "security-audit",
+                    "security-automation",
+                    "security-orchestration",
+                    "security-scanner",
+                    "security-tools",
+                    "sonarqube",
+                    "static-analysis",
+                    "static-analyzers",
+                    "static-code-analysis",
+                    "vulnerability",
+                    "vulnerability-scanner"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)",
+                    "ja": "多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）",
+                    "zh-hans": "使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan社区版（CE）输出：使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan社区版（CE）",
                     "zh-hant": "使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）"
                 }
             }

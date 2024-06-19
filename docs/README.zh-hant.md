@@ -16,32 +16,29 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Prompts**
- * [EDDI](https://github.com/labsai/eddi) - 用於對話式AI API的提示和對話管理中間件，例如OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini和Ollama。輕巧、休息、可擴展且雲原生。使用Java開發，由Quarkus提供支持。
+**Awesome-lists**
+ * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 厲害-llm-角色扮演與角色: 一個精心挑選的資源列表，適用於大型語言模型，用於與指定的角色進行角色扮演
 
 
 **Chatbots**
- * [speak-gpt](https://github.com/andraxdev/speak-gpt) - 基於OpenAI ChatGPT的個人語音助手。
-
-
-**Browser-extensions**
- * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 大多數主要軟件和服務的隱私設置指南。
+ * [IncarnaMind](https://github.com/junruxiong/incarnamind) - 通過GPT 3.5、GPT-4 Turbo、Claude和本地開源LLMs連接並與您的多個文檔（pdf和txt）進行聊天。
+ * [unsaged](https://github.com/jorge-menjivar/unsaged) - 針對與人工智慧模型無縫互動而設計的開源聊天套件。
 
 
 **NLP**
- * [go-translate](https://github.com/lorniu/go-translate) - Emacs上的翻譯器。支援多個引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。
+ * [ChatTTS](https://github.com/2noise/chattts) - 一個用於日常對話的生成式演講模型。
 
 
 **Langchain**
- * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - 用於LLMs的React庫
+ * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 免費AI搜索，💡 開源困惑度，📍 支持Ollama/SearXNG，支持Docker部署。 讓AI大模型和搜索引擎回答你的問題，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一鍵部署。
+ * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth 提供了一個用戶友好的解決方案，可以快速設置您自定義的 GPT 和自行託管的 oauth。
 
 
-**Openai**
- * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 影片生成的 GPT ⚡️
- * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web 是一個使用 Vue 3、Vite 和 TypeScript 構建的高性能和可定制的前端開發模板。它具有最新的語法、組件和 API 自動導入、狀態管理、中文字體預設、國際化等功能。
+**Unity**
+ * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
 
 
-_Updated on June 17, 2024_ (A total of 1604 repositories listed.)
+_Updated on June 19, 2024_ (A total of 1611 repositories listed.)
 
 ## Table of contents
 
@@ -127,6 +124,7 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 一個令人敬畏的資源收藏，包括與ChatGPT相關的各種工具、文件、資源、應用程式和使用案例。
  * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 代理商索引 - 這是LobeChat的代理商索引。它從這個存儲庫中訪問index.json，以顯示LobeChat市場上可用代理商的列表。
  * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 精選優秀的Python庫和框架，按類別整理
+ * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 厲害-llm-角色扮演與角色: 一個精心挑選的資源列表，適用於大型語言模型，用於與指定的角色進行角色扮演
 
 
 ## Prompts
@@ -480,6 +478,8 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Streamer-Sales 銷冠 —— 賣貨主播 LLM 大模型🛒🎁，一個能夠根據給定的商品特點對商品進行解說並激發用戶的購買意願的賣貨主播模型。🚀⭐內含詳細的數據生成流程❗ 📦另外還集成了 LMDeploy 加速推理🚀、RAG檢索增強生成 📚、TTS文字轉語音🔊
  * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ChatGPT 適用於每個網站。使用根據您的網站內容訓練的個性化聊天機器人立即回答訪客的問題。Chatbase、SiteGPT、Dante AI 的替代方案。
  * [speak-gpt](https://github.com/andraxdev/speak-gpt) - 基於OpenAI ChatGPT的個人語音助手。
+ * [IncarnaMind](https://github.com/junruxiong/incarnamind) - 通過GPT 3.5、GPT-4 Turbo、Claude和本地開源LLMs連接並與您的多個文檔（pdf和txt）進行聊天。
+ * [unsaged](https://github.com/jorge-menjivar/unsaged) - 針對與人工智慧模型無縫互動而設計的開源聊天套件。
 
 
 ## Browser-extensions
@@ -1058,6 +1058,7 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [AutoCoder](https://github.com/bin123apple/autocoder) - 我們推出了一個針對代碼生成任務設計的新模型。它在HumanEval基礎數據集上的測試準確度超過了GPT-4 Turbo（2024年4月）和GPT-4o。
  * [langui](https://github.com/langbaseinc/langui) - 為您的人工智慧設計的使用者界面。針對您的GPT、生成式人工智慧和LLM項目量身定制的開源Tailwind組件。
  * [go-translate](https://github.com/lorniu/go-translate) - Emacs上的翻譯器。支援多個引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。
+ * [ChatTTS](https://github.com/2noise/chattts) - 一個用於日常對話的生成式演講模型。
 
 
 ## Langchain
@@ -1155,6 +1156,8 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [dialog](https://github.com/talkdai/dialog) - RAG LLM Ops應用程式，用於輕鬆部署和測試
  * [aikit](https://github.com/sozercan/aikit) - 🏗️ 輕鬆微調、構建和部署開源LLMs！
  * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - 用於LLMs的React庫
+ * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 免費AI搜索，💡 開源困惑度，📍 支持Ollama/SearXNG，支持Docker部署。 讓AI大模型和搜索引擎回答你的問題，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一鍵部署。
+ * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth 提供了一個用戶友好的解決方案，可以快速設置您自定義的 GPT 和自行託管的 oauth。
 
 
 ## Unity
@@ -1172,6 +1175,7 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
  * [open-saas](https://github.com/wasp-lang/open-saas) - 一個免費、開源的React和Node.js SaaS應用程式起始器，具有超強功能。適用於生產環境，由社群驅動。
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
+ * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
 
 
 ## Openai
