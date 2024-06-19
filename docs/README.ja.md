@@ -16,32 +16,29 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Prompts**
- * [EDDI](https://github.com/labsai/eddi) - Conversational AI API（OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini、Ollamaなど）向けのプロンプト＆会話管理ミドルウェア。Javaで開発され、Quarkusで動作し、Lean、restful、スケーラブル、クラウドネイティブです。提供されるwit。
+**Awesome-lists**
+ * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 素晴らしいLLM（Large Language Models）を使用した役割演技とペルソナに関する厳選されたリソースのリスト: 割り当てられたペルソナと一緒に役割演技をするためのリソースのリスト
 
 
 **Chatbots**
- * [speak-gpt](https://github.com/andraxdev/speak-gpt) - OpenAI ChatGPTに基づいたあなたの個人用音声アシスタント。
-
-
-**Browser-extensions**
- * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 主要なソフトウェアやサービスのプライバシー設定ガイド
+ * [IncarnaMind](https://github.com/junruxiong/incarnamind) - GPT 3.5、GPT-4 Turbo、Claude、およびローカルオープンソースLLMsを介して複数のドキュメント（pdfおよびtxt）を接続してチャットします。
+ * [unsaged](https://github.com/jorge-menjivar/unsaged) - AIモデルとのシームレスなインタラクションを可能にするオープンソースチャットキット。
 
 
 **NLP**
- * [go-translate](https://github.com/lorniu/go-translate) - Emacs上の翻訳機能。Google、Bing、deepL、ChatGPT、StarDict、Youdaoなど複数のエンジンをサポートしています。
+ * [ChatTTS](https://github.com/2noise/chattts) - 日常会話のための生成型スピーチモデル。
 
 
 **Langchain**
- * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - LLMsのReactライブラリ
+ * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 AIによる無料検索、💡 オープンソースのPerplexity、📍 Ollama/SearXNGのサポート、Dockerデプロイメントのサポート。AIモデルと検索エンジンがあなたの質問に答えることを可能にし、ローカルな大規模モデル(Ollama)や集約検索エンジンSearXNGをサポートし、Dockerデプロイメントをサポートします。
+ * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Authは、カスタムGPT用のoauthを迅速にセットアップするためのユーザーフレンドリーなソリューションを提供します。
 
 
-**Openai**
- * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 ビデオ生成のためのGPT ⚡️
- * [celeris-web](https://github.com/kirklin/celeris-web) - Input: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。 Output: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。
+**Unity**
+ * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
 
 
-_Updated on June 17, 2024_ (A total of 1604 repositories listed.)
+_Updated on June 19, 2024_ (A total of 1611 repositories listed.)
 
 ## Table of contents
 
@@ -127,6 +124,7 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - 🏆 ChatGPTに関連する幅広いツール、文書、リソース、アプリケーション、使用例を網羅した感動的なコレクション。
  * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 エージェントインデックス - これはLobeChatのエージェントインデックスです。 これはこのリポジトリからindex.jsonにアクセスして、LobeChatのエージェントマーケットに利用可能なエージェントのリストを表示します。
  * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 カテゴリ別に整理された、厳選された素晴らしいPythonライブラリとフレームワーク
+ * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 素晴らしいLLM（Large Language Models）を使用した役割演技とペルソナに関する厳選されたリソースのリスト: 割り当てられたペルソナと一緒に役割演技をするためのリソースのリスト
 
 
 ## Prompts
@@ -480,6 +478,8 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - Input: Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊Output: ストリーマーセールス 销冠 —— 販売主播 LLM 大モデル🛒🎁、商品の特徴に基づいて商品を説明し、ユーザーの購買意欲を刺激する販売主播モデル。🚀⭐詳細なデータ生成プロセスが含まれています❗ 📦さらに、LMDeployの高速推論🚀、RAG検索強化生成 📚、TTSテキスト読み上げ🔊
  * [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - 各ウェブサイト用のChatGPT。ウェブサイトコンテンツでトレーニングされたパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案。
  * [speak-gpt](https://github.com/andraxdev/speak-gpt) - OpenAI ChatGPTに基づいたあなたの個人用音声アシスタント。
+ * [IncarnaMind](https://github.com/junruxiong/incarnamind) - GPT 3.5、GPT-4 Turbo、Claude、およびローカルオープンソースLLMsを介して複数のドキュメント（pdfおよびtxt）を接続してチャットします。
+ * [unsaged](https://github.com/jorge-menjivar/unsaged) - AIモデルとのシームレスなインタラクションを可能にするオープンソースチャットキット。
 
 
 ## Browser-extensions
@@ -1058,6 +1058,7 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [AutoCoder](https://github.com/bin123apple/autocoder) - コード生成タスク向けに設計された新しいモデルを導入しました。そのヒューマンエバルベースデータセットでのテスト精度は、GPT-4 Turbo（2024年4月）およびGPT-4oを上回っています。
  * [langui](https://github.com/langbaseinc/langui) - あなたのAIのためのUI。あなたのGPT、生成AI、およびLLMプロジェクトに合わせたオープンソースのTailwindコンポーネント。
  * [go-translate](https://github.com/lorniu/go-translate) - Emacs上の翻訳機能。Google、Bing、deepL、ChatGPT、StarDict、Youdaoなど複数のエンジンをサポートしています。
+ * [ChatTTS](https://github.com/2noise/chattts) - 日常会話のための生成型スピーチモデル。
 
 
 ## Langchain
@@ -1155,6 +1156,8 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [dialog](https://github.com/talkdai/dialog) - 簡単な展開とテストのためのRAG LLM Opsアプリ
  * [aikit](https://github.com/sozercan/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開できます！
  * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - LLMsのReactライブラリ
+ * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 AIによる無料検索、💡 オープンソースのPerplexity、📍 Ollama/SearXNGのサポート、Dockerデプロイメントのサポート。AIモデルと検索エンジンがあなたの質問に答えることを可能にし、ローカルな大規模モデル(Ollama)や集約検索エンジンSearXNGをサポートし、Dockerデプロイメントをサポートします。
+ * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Authは、カスタムGPT用のoauthを迅速にセットアップするためのユーザーフレンドリーなソリューションを提供します。
 
 
 ## Unity
@@ -1172,6 +1175,7 @@ _Updated on June 17, 2024_ (A total of 1604 repositories listed.)
  * [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/静的解析/リンティング+ One Report（コード、IaC）を使用したOpenAI GPT - Betterscan Community Edition（CE）
  * [open-saas](https://github.com/wasp-lang/open-saas) - スーパーパワーを持つReact＆Node.js用の無料のオープンソースSaaSアプリのスターター。本番環境に対応。コミュニティ主導。
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
+ * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
 
 
 ## Openai
