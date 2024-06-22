@@ -17,28 +17,32 @@
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Awesome-lists**
- * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 素晴らしいLLM（Large Language Models）を使用した役割演技とペルソナに関する厳選されたリソースのリスト: 割り当てられたペルソナと一緒に役割演技をするためのリソースのリスト
+ * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPTの中国語ガイド🔥、ChatGPTの中国語調教ガイド、指示ガイド、アプリ開発ガイド、厳選されたリソースリスト、ChatGPTをより効果的に活用して生産性を向上させましょう！🚀
 
 
 **Chatbots**
- * [IncarnaMind](https://github.com/junruxiong/incarnamind) - GPT 3.5、GPT-4 Turbo、Claude、およびローカルオープンソースLLMsを介して複数のドキュメント（pdfおよびtxt）を接続してチャットします。
- * [unsaged](https://github.com/jorge-menjivar/unsaged) - AIモデルとのシームレスなインタラクションを可能にするオープンソースチャットキット。
+ * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 友達とLLMと話す!
+
+
+**CLIs**
+ * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - どのMatrixクライアントを使用してもChatGPTと話すことができます！
+
+
+**Reimplementations**
+ * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Videoの公式実装：より良いキャプションでビデオ理解と生成を向上させる
 
 
 **NLP**
- * [ChatTTS](https://github.com/2noise/chattts) - 日常会話のための生成型スピーチモデル。
+ * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - pgvectorを使用して、ドキュメントを安全にチャットするための製品向けMVP
+ * [auto-novel](https://github.com/fishhawk/auto-novel) - 軽小説機械翻訳サイト、ネット小説/ライトノベル/ローカル小説をサポート
 
 
-**Langchain**
- * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 AIによる無料検索、💡 オープンソースのPerplexity、📍 Ollama/SearXNGのサポート、Dockerデプロイメントのサポート。AIモデルと検索エンジンがあなたの質問に答えることを可能にし、ローカルな大規模モデル(Ollama)や集約検索エンジンSearXNGをサポートし、Dockerデプロイメントをサポートします。
- * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Authは、カスタムGPT用のoauthを迅速にセットアップするためのユーザーフレンドリーなソリューションを提供します。
+**Others**
+ * [hostedgpt](https://github.com/allyourbot/hostedgpt) - どこでもホストできる、またはローカルで実行できるChatGPTのオープンバージョン。
+ * [typingmind](https://github.com/typingmind/typingmind) - AIチャットのための最も先進的なWeb UI
 
 
-**Unity**
- * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
-
-
-_Updated on June 19, 2024_ (A total of 1611 repositories listed.)
+_Updated on June 22, 2024_ (A total of 1619 repositories listed.)
 
 ## Table of contents
 
@@ -125,6 +129,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 エージェントインデックス - これはLobeChatのエージェントインデックスです。 これはこのリポジトリからindex.jsonにアクセスして、LobeChatのエージェントマーケットに利用可能なエージェントのリストを表示します。
  * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 カテゴリ別に整理された、厳選された素晴らしいPythonライブラリとフレームワーク
  * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 素晴らしいLLM（Large Language Models）を使用した役割演技とペルソナに関する厳選されたリソースのリスト: 割り当てられたペルソナと一緒に役割演技をするためのリソースのリスト
+ * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPTの中国語ガイド🔥、ChatGPTの中国語調教ガイド、指示ガイド、アプリ開発ガイド、厳選されたリソースリスト、ChatGPTをより効果的に活用して生産性を向上させましょう！🚀
 
 
 ## Prompts
@@ -480,6 +485,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [speak-gpt](https://github.com/andraxdev/speak-gpt) - OpenAI ChatGPTに基づいたあなたの個人用音声アシスタント。
  * [IncarnaMind](https://github.com/junruxiong/incarnamind) - GPT 3.5、GPT-4 Turbo、Claude、およびローカルオープンソースLLMsを介して複数のドキュメント（pdfおよびtxt）を接続してチャットします。
  * [unsaged](https://github.com/jorge-menjivar/unsaged) - AIモデルとのシームレスなインタラクションを可能にするオープンソースチャットキット。
+ * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 友達とLLMと話す!
 
 
 ## Browser-extensions
@@ -765,6 +771,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、会話に人間味を持たせる仮想アシスタントに変えることができる能力を持つようにします。
  * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、さまざまなタスクを実行できる仮想アシスタントに変えることを目指しています。会話に人間味を持たせる要素も取り入れています。
  * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAIとGeminiのためのネイティブAndroidクライアント☁️
+ * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - どのMatrixクライアントを使用してもChatGPTと話すことができます！
 
 
 ## Reimplementations
@@ -798,6 +805,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [langchain](https://github.com/brainlid/langchain) - LangChainスタイルのフレームワークのElixir実装。
  * [kan-gpt](https://github.com/adityang/kan-gpt) - 言語モデリングのためのKolmogorov-Arnold Networks（KANs）を使用したGenerative Pre-trained Transformers（GPTs）のPyTorch実装PyTorchによるGenerative Pre-trained Transformers（GPTs）のKolmogorov-Arnold Networks（KANs）を使用した言語モデリングの実装
  * [TextRL](https://github.com/voidful/textrl) - huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装
+ * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Videoの公式実装：より良いキャプションでビデオ理解と生成を向上させる
 
 
 ## Tutorials
@@ -1059,6 +1067,8 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [langui](https://github.com/langbaseinc/langui) - あなたのAIのためのUI。あなたのGPT、生成AI、およびLLMプロジェクトに合わせたオープンソースのTailwindコンポーネント。
  * [go-translate](https://github.com/lorniu/go-translate) - Emacs上の翻訳機能。Google、Bing、deepL、ChatGPT、StarDict、Youdaoなど複数のエンジンをサポートしています。
  * [ChatTTS](https://github.com/2noise/chattts) - 日常会話のための生成型スピーチモデル。
+ * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - pgvectorを使用して、ドキュメントを安全にチャットするための製品向けMVP
+ * [auto-novel](https://github.com/fishhawk/auto-novel) - 軽小説機械翻訳サイト、ネット小説/ライトノベル/ローカル小説をサポート
 
 
 ## Langchain
@@ -1724,5 +1734,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [DAIL-SQL](https://github.com/beachwang/dail-sql) - GPT-4上で効率的かつ効果的なフューショットNL2SQLメソッド。
  * [auto-playwright](https://github.com/lucgagan/auto-playwright) - ChatGPTを使用してPlaywrightのステップを自動化する。
  * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 小愛音箱をChatGPTと豆包に接続し、あなた専用の音声アシスタントに改造します。
+ * [hostedgpt](https://github.com/allyourbot/hostedgpt) - どこでもホストできる、またはローカルで実行できるChatGPTのオープンバージョン。
+ * [typingmind](https://github.com/typingmind/typingmind) - AIチャットのための最も先進的なWeb UI
 
 

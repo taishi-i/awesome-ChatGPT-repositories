@@ -17,28 +17,32 @@
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Awesome-lists**
- * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 厲害-llm-角色扮演與角色: 一個精心挑選的資源列表，適用於大型語言模型，用於與指定的角色進行角色扮演
+ * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文調教指南，指令指南，應用開發指南，精選資源清單，更好的使用 chatGPT 讓你的生產力 up up up! 🚀
 
 
 **Chatbots**
- * [IncarnaMind](https://github.com/junruxiong/incarnamind) - 通過GPT 3.5、GPT-4 Turbo、Claude和本地開源LLMs連接並與您的多個文檔（pdf和txt）進行聊天。
- * [unsaged](https://github.com/jorge-menjivar/unsaged) - 針對與人工智慧模型無縫互動而設計的開源聊天套件。
+ * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 與朋友們交談LLM！
+
+
+**CLIs**
+ * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - 通過任何Matrix客戶端與ChatGPT交談！
+
+
+**Reimplementations**
+ * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Video的官方實施：通過更好的字幕改進視頻理解和生成
 
 
 **NLP**
- * [ChatTTS](https://github.com/2noise/chattts) - 一個用於日常對話的生成式演講模型。
+ * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - 使用pgvector製作的可用於安全聊天的MVP，可與您的文件進行聊天。
+ * [auto-novel](https://github.com/fishhawk/auto-novel) - 輕小說機翻網站，支持網絡小說/文庫小說/本地小說
 
 
-**Langchain**
- * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 免費AI搜索，💡 開源困惑度，📍 支持Ollama/SearXNG，支持Docker部署。 讓AI大模型和搜索引擎回答你的問題，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一鍵部署。
- * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth 提供了一個用戶友好的解決方案，可以快速設置您自定義的 GPT 和自行託管的 oauth。
+**Others**
+ * [hostedgpt](https://github.com/allyourbot/hostedgpt) - 一個開放版本的ChatGPT，您可以在任何地方主持或在本地運行。
+ * [typingmind](https://github.com/typingmind/typingmind) - AI聊天的最先進Web UI
 
 
-**Unity**
- * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
-
-
-_Updated on June 19, 2024_ (A total of 1611 repositories listed.)
+_Updated on June 22, 2024_ (A total of 1619 repositories listed.)
 
 ## Table of contents
 
@@ -125,6 +129,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 代理商索引 - 這是LobeChat的代理商索引。它從這個存儲庫中訪問index.json，以顯示LobeChat市場上可用代理商的列表。
  * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 精選優秀的Python庫和框架，按類別整理
  * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 厲害-llm-角色扮演與角色: 一個精心挑選的資源列表，適用於大型語言模型，用於與指定的角色進行角色扮演
+ * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文調教指南，指令指南，應用開發指南，精選資源清單，更好的使用 chatGPT 讓你的生產力 up up up! 🚀
 
 
 ## Prompts
@@ -480,6 +485,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [speak-gpt](https://github.com/andraxdev/speak-gpt) - 基於OpenAI ChatGPT的個人語音助手。
  * [IncarnaMind](https://github.com/junruxiong/incarnamind) - 通過GPT 3.5、GPT-4 Turbo、Claude和本地開源LLMs連接並與您的多個文檔（pdf和txt）進行聊天。
  * [unsaged](https://github.com/jorge-menjivar/unsaged) - 針對與人工智慧模型無縫互動而設計的開源聊天套件。
+ * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 與朋友們交談LLM！
 
 
 ## Browser-extensions
@@ -765,6 +771,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - 這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。
  * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - 這個項目探索了將ChatGPT與WhatsApp集成，將聊天機器人轉變為一個能夠執行與朋友交談、回答客戶問題等任務的虛擬助手，並在對話中加入人性化的元素。
  * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAI 和 Gemini 的原生安卓客戶端 ☁️
+ * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - 通過任何Matrix客戶端與ChatGPT交談！
 
 
 ## Reimplementations
@@ -798,6 +805,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [langchain](https://github.com/brainlid/langchain) - LangChain風格框架的Elixir實現。
  * [kan-gpt](https://github.com/adityang/kan-gpt) - 使用 Kolmogorov-Arnold 網絡 (KANs) 實現的 PyTorch 生成式預訓練變換器 (GPTs) 用於語言建模
  * [TextRL](https://github.com/voidful/textrl) - 在huggingface的transformer上實現ChatGPT RLHF（Reinforcement Learning with Human Feedback）在任何生成模型上的應用（blommz-176B/bloom/gpt/bart/T5/MetaICL）
+ * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Video的官方實施：通過更好的字幕改進視頻理解和生成
 
 
 ## Tutorials
@@ -1059,6 +1067,8 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [langui](https://github.com/langbaseinc/langui) - 為您的人工智慧設計的使用者界面。針對您的GPT、生成式人工智慧和LLM項目量身定制的開源Tailwind組件。
  * [go-translate](https://github.com/lorniu/go-translate) - Emacs上的翻譯器。支援多個引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。
  * [ChatTTS](https://github.com/2noise/chattts) - 一個用於日常對話的生成式演講模型。
+ * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - 使用pgvector製作的可用於安全聊天的MVP，可與您的文件進行聊天。
+ * [auto-novel](https://github.com/fishhawk/auto-novel) - 輕小說機翻網站，支持網絡小說/文庫小說/本地小說
 
 
 ## Langchain
@@ -1724,5 +1734,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [DAIL-SQL](https://github.com/beachwang/dail-sql) - 一種高效且有效的少樣本NL2SQL方法在GPT-4上。
  * [auto-playwright](https://github.com/lucgagan/auto-playwright) - 使用ChatGPT自動化Playwright步驟。
  * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 將小愛音箱接入 ChatGPT 和豆包，改造成你的專屬語音助手。
+ * [hostedgpt](https://github.com/allyourbot/hostedgpt) - 一個開放版本的ChatGPT，您可以在任何地方主持或在本地運行。
+ * [typingmind](https://github.com/typingmind/typingmind) - AI聊天的最先進Web UI
 
 
