@@ -1718,6 +1718,40 @@
                     "zh-hans": "厉害-llm-角色扮演与角色: 一个为大型语言模型提供资源的策划列表，用于与指定的角色扮演。",
                     "zh-hant": "厲害-llm-角色扮演與角色: 一個精心挑選的資源列表，適用於大型語言模型，用於與指定的角色進行角色扮演"
                 }
+            },
+            "https://github.com/embraceagi/awesome-chatgpt-zh": {
+                "repository_name": "awesome-chatgpt-zh",
+                "user_name": "EmbraceAGI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
+                "topics": [
+                    "agi",
+                    "ai",
+                    "awesome",
+                    "awesome-list",
+                    "chat-gpt",
+                    "chatglm",
+                    "chatgpt",
+                    "chatgpt3",
+                    "chatgpt35-turbo",
+                    "claude",
+                    "deeplearning",
+                    "gpt",
+                    "gpt-4",
+                    "langchain",
+                    "openai",
+                    "openai-chatgpt",
+                    "prompt",
+                    "prompt-engineering",
+                    "tools"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Chinese Guide🔥, ChatGPT Chinese Training Guide, Instruction Guide, Application Development Guide, curated resource list, use ChatGPT better to boost your productivity up up up! 🚀",
+                    "ja": "ChatGPTの中国語ガイド🔥、ChatGPTの中国語調教ガイド、指示ガイド、アプリ開発ガイド、厳選されたリソースリスト、ChatGPTをより効果的に活用して生産性を向上させましょう！🚀",
+                    "zh-hans": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
+                    "zh-hant": "ChatGPT 中文指南🔥，ChatGPT 中文調教指南，指令指南，應用開發指南，精選資源清單，更好的使用 chatGPT 讓你的生產力 up up up! 🚀"
+                }
             }
         },
         "Prompts": {
@@ -9809,6 +9843,41 @@
                     "zh-hans": "专为与AI模型无缝交互而设计的开源聊天工具包。",
                     "zh-hant": "針對與人工智慧模型無縫互動而設計的開源聊天套件。"
                 }
+            },
+            "https://github.com/jakobdylanc/discord-llm-chatbot": {
+                "repository_name": "discord-llm-chatbot",
+                "user_name": "jakobdylanc",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "llmcord.py • Talk to LLMs with your friends!",
+                "topics": [
+                    "ai",
+                    "bot",
+                    "chatbot",
+                    "chatgpt",
+                    "clyde",
+                    "discord",
+                    "gpt",
+                    "gpt-4",
+                    "gpt-4o",
+                    "litellm",
+                    "llama",
+                    "llama3",
+                    "llamacpp",
+                    "llava",
+                    "llm",
+                    "llmcord",
+                    "ollama",
+                    "oobabooga",
+                    "openai",
+                    "streamed"
+                ],
+                "multilingual_descriptions": {
+                    "en": "llmcord.py • Talk to LLMs with your friends!",
+                    "ja": "llmcord.py • 友達とLLMと話す!",
+                    "zh-hans": "llmcord.py • 与朋友们交流LLM！",
+                    "zh-hant": "llmcord.py • 與朋友們交談LLM！"
+                }
             }
         },
         "Browser-extensions": {
@@ -16004,6 +16073,26 @@
                     "zh-hans": "☁️OpenAI 和 Gemini 的原生安卓客户端 ☁️",
                     "zh-hant": "☁️OpenAI 和 Gemini 的原生安卓客戶端 ☁️"
                 }
+            },
+            "https://github.com/matrixgpt/matrix-chatgpt-bot": {
+                "repository_name": "matrix-chatgpt-bot",
+                "user_name": "matrixgpt",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Talk to ChatGPT via any Matrix client!",
+                "topics": [
+                    "bot",
+                    "bridge",
+                    "chatgpt",
+                    "element",
+                    "matrix"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Talk to ChatGPT via any Matrix client!",
+                    "ja": "どのMatrixクライアントを使用してもChatGPTと話すことができます！",
+                    "zh-hans": "通过任何Matrix客户端与ChatGPT交谈！",
+                    "zh-hant": "通過任何Matrix客戶端與ChatGPT交談！"
+                }
             }
         },
         "Reimplementations": {
@@ -16593,6 +16682,30 @@
                     "ja": "huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装",
                     "zh-hans": "在huggingface的transformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）上实现ChatGPT RLHF（强化学习与人类反馈）。",
                     "zh-hant": "在huggingface的transformer上實現ChatGPT RLHF（Reinforcement Learning with Human Feedback）在任何生成模型上的應用（blommz-176B/bloom/gpt/bart/T5/MetaICL）"
+                }
+            },
+            "https://github.com/sharegpt4omni/sharegpt4video": {
+                "repository_name": "ShareGPT4Video",
+                "user_name": "ShareGPT4Omni",
+                "language": "Python",
+                "license": null,
+                "description": "An official implementation of ShareGPT4Video: Improving Video Understanding and Generation with Better Captions",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "gpt-4v",
+                    "large-language-models",
+                    "large-multimodal-models",
+                    "large-video-language-models",
+                    "large-vision-language-models",
+                    "sora",
+                    "text-to-video"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An official implementation of ShareGPT4Video: Improving Video Understanding and Generation with Better Captions",
+                    "ja": "ShareGPT4Videoの公式実装：より良いキャプションでビデオ理解と生成を向上させる",
+                    "zh-hans": "ShareGPT4Video的官方实现：通过更好的字幕改进视频理解和生成",
+                    "zh-hant": "ShareGPT4Video的官方實施：通過更好的字幕改進視頻理解和生成"
                 }
             }
         },
@@ -22013,6 +22126,49 @@
                     "ja": "日常会話のための生成型スピーチモデル。",
                     "zh-hans": "每日对话生成模型。",
                     "zh-hant": "一個用於日常對話的生成式演講模型。"
+                }
+            },
+            "https://github.com/supabase-community/chatgpt-your-files": {
+                "repository_name": "chatgpt-your-files",
+                "user_name": "supabase-community",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Production-ready MVP for securely chatting with your documents using pgvector",
+                "topics": [
+                    "ai",
+                    "db",
+                    "embeddings",
+                    "ml",
+                    "rag",
+                    "supabase",
+                    "vector"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Production-ready MVP for securely chatting with your documents using pgvector",
+                    "ja": "pgvectorを使用して、ドキュメントを安全にチャットするための製品向けMVP",
+                    "zh-hans": "使用pgvector安全地与您的文档进行聊天的生产就绪MVP",
+                    "zh-hant": "使用pgvector製作的可用於安全聊天的MVP，可與您的文件進行聊天。"
+                }
+            },
+            "https://github.com/fishhawk/auto-novel": {
+                "repository_name": "auto-novel",
+                "user_name": "FishHawk",
+                "language": "Kotlin",
+                "license": "GNU General Public License v3.0",
+                "description": "轻小说机翻网站，支持网络小说/文库小说/本地小说",
+                "topics": [
+                    "chatgpt",
+                    "kotlin",
+                    "light-novel",
+                    "openai",
+                    "translator",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Light novel machine translation website, supporting online novels/library novels/local novels.",
+                    "ja": "軽小説機械翻訳サイト、ネット小説/ライトノベル/ローカル小説をサポート",
+                    "zh-hans": "轻小说机翻网站，支持网络小说/文库小说/本地小说。",
+                    "zh-hant": "輕小說機翻網站，支持網絡小說/文庫小說/本地小說"
                 }
             }
         },
@@ -35302,6 +35458,46 @@
                     "ja": "🏠 小愛音箱をChatGPTと豆包に接続し、あなた専用の音声アシスタントに改造します。",
                     "zh-hans": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
                     "zh-hant": "🏠 將小愛音箱接入 ChatGPT 和豆包，改造成你的專屬語音助手。"
+                }
+            },
+            "https://github.com/allyourbot/hostedgpt": {
+                "repository_name": "hostedgpt",
+                "user_name": "AllYourBot",
+                "language": "Ruby",
+                "license": "MIT License",
+                "description": "An open version of ChatGPT you can host anywhere or run locally.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An open version of ChatGPT you can host anywhere or run locally.",
+                    "ja": "どこでもホストできる、またはローカルで実行できるChatGPTのオープンバージョン。",
+                    "zh-hans": "一个开放版本的ChatGPT，您可以在任何地方托管或本地运行。",
+                    "zh-hant": "一個開放版本的ChatGPT，您可以在任何地方主持或在本地運行。"
+                }
+            },
+            "https://github.com/typingmind/typingmind": {
+                "repository_name": "typingmind",
+                "user_name": "TypingMind",
+                "language": "JavaScript",
+                "license": "Other",
+                "description": "The most advanced Web UI for AI chat",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-ui",
+                    "claude",
+                    "claude2",
+                    "gemini",
+                    "gemini-pro",
+                    "gpt-4",
+                    "gpt-4-turbo",
+                    "gpt-4-vision",
+                    "typingmind",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The most advanced Web UI for AI chat",
+                    "ja": "AIチャットのための最も先進的なWeb UI",
+                    "zh-hans": "AI聊天的最先进的Web用户界面",
+                    "zh-hant": "AI聊天的最先進Web UI"
                 }
             }
         }

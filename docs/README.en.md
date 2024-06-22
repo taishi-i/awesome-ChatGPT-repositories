@@ -17,28 +17,32 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Awesome-lists**
- * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas
+ * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT Chinese Guide🔥, ChatGPT Chinese Training Guide, Instruction Guide, Application Development Guide, curated resource list, use ChatGPT better to boost your productivity up up up! 🚀
 
 
 **Chatbots**
- * [IncarnaMind](https://github.com/junruxiong/incarnamind) - Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs
- * [unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
+ * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • Talk to LLMs with your friends!
+
+
+**CLIs**
+ * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
+
+
+**Reimplementations**
+ * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - An official implementation of ShareGPT4Video: Improving Video Understanding and Generation with Better Captions
 
 
 **NLP**
- * [ChatTTS](https://github.com/2noise/chattts) - A generative speech model for daily dialogue.
+ * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - Production-ready MVP for securely chatting with your documents using pgvector
+ * [auto-novel](https://github.com/fishhawk/auto-novel) - Light novel machine translation website, supporting online novels/library novels/local novels.
 
 
-**Langchain**
- * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
- * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth provides a user-friendly solution to quickly setup oauth for your custom GPT and self-host it.
+**Others**
+ * [hostedgpt](https://github.com/allyourbot/hostedgpt) - An open version of ChatGPT you can host anywhere or run locally.
+ * [typingmind](https://github.com/typingmind/typingmind) - The most advanced Web UI for AI chat
 
 
-**Unity**
- * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
-
-
-_Updated on June 19, 2024_ (A total of 1611 repositories listed.)
+_Updated on June 22, 2024_ (A total of 1619 repositories listed.)
 
 ## Table of contents
 
@@ -125,6 +129,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - 🤖 / 🏪 Agent Index - This is the agent index for LobeChat. It accesses index.json from this repository to display a list of available agents for LobeChat to the agent market.
  * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 Hand-picked awesome Python libraries and frameworks, organised by category
  * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas
+ * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT Chinese Guide🔥, ChatGPT Chinese Training Guide, Instruction Guide, Application Development Guide, curated resource list, use ChatGPT better to boost your productivity up up up! 🚀
 
 
 ## Prompts
@@ -480,6 +485,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [speak-gpt](https://github.com/andraxdev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
  * [IncarnaMind](https://github.com/junruxiong/incarnamind) - Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs
  * [unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
+ * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • Talk to LLMs with your friends!
 
 
 ## Browser-extensions
@@ -765,6 +771,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
  * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
  * [chatAir](https://github.com/flyun/chatair) - ☁️A native Android client for OpenAI and Gemini ☁️OpenAI and Gemini's native Android client
+ * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
 
 
 ## Reimplementations
@@ -798,6 +805,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [langchain](https://github.com/brainlid/langchain) - Elixir implementation of a LangChain style framework.
  * [kan-gpt](https://github.com/adityang/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
  * [TextRL](https://github.com/voidful/textrl) - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)
+ * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - An official implementation of ShareGPT4Video: Improving Video Understanding and Generation with Better Captions
 
 
 ## Tutorials
@@ -1059,6 +1067,8 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [langui](https://github.com/langbaseinc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
  * [go-translate](https://github.com/lorniu/go-translate) - Translator on Emacs.  Supports multiple engines such as Google, Bing, deepL, ChatGPT, StarDict, Youdao and so on.
  * [ChatTTS](https://github.com/2noise/chattts) - A generative speech model for daily dialogue.
+ * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - Production-ready MVP for securely chatting with your documents using pgvector
+ * [auto-novel](https://github.com/fishhawk/auto-novel) - Light novel machine translation website, supporting online novels/library novels/local novels.
 
 
 ## Langchain
@@ -1724,5 +1734,7 @@ _Updated on June 19, 2024_ (A total of 1611 repositories listed.)
  * [DAIL-SQL](https://github.com/beachwang/dail-sql) - A efficient and effective few-shot NL2SQL method on GPT-4.
  * [auto-playwright](https://github.com/lucgagan/auto-playwright) - Automating Playwright steps using ChatGPT.
  * [mi-gpt](https://github.com/idootop/mi-gpt) - Connect the Xiaoai speaker to ChatGPT and Douyin, and transform it into your exclusive voice assistant.
+ * [hostedgpt](https://github.com/allyourbot/hostedgpt) - An open version of ChatGPT you can host anywhere or run locally.
+ * [typingmind](https://github.com/typingmind/typingmind) - The most advanced Web UI for AI chat
 
 
