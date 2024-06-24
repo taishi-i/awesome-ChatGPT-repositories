@@ -16,33 +16,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Awesome-lists**
- * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT Chinese Guide🔥, ChatGPT Chinese Training Guide, Instruction Guide, Application Development Guide, curated resource list, use ChatGPT better to boost your productivity up up up! 🚀
-
-
 **Chatbots**
- * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • Talk to LLMs with your friends!
+ * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model
+
+
+**Browser-extensions**
+ * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - A multi-functional B station analysis plugin that summarizes B station videos through OpenAI.
 
 
 **CLIs**
- * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
-
-
-**Reimplementations**
- * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - An official implementation of ShareGPT4Video: Improving Video Understanding and Generation with Better Captions
+ * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 
 
 **NLP**
- * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - Production-ready MVP for securely chatting with your documents using pgvector
- * [auto-novel](https://github.com/fishhawk/auto-novel) - Light novel machine translation website, supporting online novels/library novels/local novels.
+ * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment.
+ * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - lowcode tool, support ChatGPT and other LLM
 
 
 **Others**
- * [hostedgpt](https://github.com/allyourbot/hostedgpt) - An open version of ChatGPT you can host anywhere or run locally.
- * [typingmind](https://github.com/typingmind/typingmind) - The most advanced Web UI for AI chat
+ * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
 
 
-_Updated on June 22, 2024_ (A total of 1619 repositories listed.)
+_Updated on June 25, 2024_ (A total of 1625 repositories listed.)
 
 ## Table of contents
 
@@ -486,6 +481,7 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [IncarnaMind](https://github.com/junruxiong/incarnamind) - Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs
  * [unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
  * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • Talk to LLMs with your friends!
+ * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model
 
 
 ## Browser-extensions
@@ -656,6 +652,7 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [Sophia](https://github.com/kyegomez/sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%.  New optimizer that is 2x faster than Adam on LLMs.
  * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
  * [privacy-settings](https://github.com/stellarsand/privacy-settings) - Guide to privacy settings for most major softwares and services.
+ * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - A multi-functional B station analysis plugin that summarizes B station videos through OpenAI.
 
 
 ## CLIs
@@ -772,6 +769,7 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - This project explores the integration of ChatGPT with WhatsApp, turning the chatbot into a virtual assistant capable of tasks such as talking to friends, answering customer questions, and much more, with a touch of humanization in the conversations.
  * [chatAir](https://github.com/flyun/chatair) - ☁️A native Android client for OpenAI and Gemini ☁️OpenAI and Gemini's native Android client
  * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
+ * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 
 
 ## Reimplementations
@@ -1069,6 +1067,8 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [ChatTTS](https://github.com/2noise/chattts) - A generative speech model for daily dialogue.
  * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - Production-ready MVP for securely chatting with your documents using pgvector
  * [auto-novel](https://github.com/fishhawk/auto-novel) - Light novel machine translation website, supporting online novels/library novels/local novels.
+ * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment.
+ * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - lowcode tool, support ChatGPT and other LLM
 
 
 ## Langchain
@@ -1736,5 +1736,6 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [mi-gpt](https://github.com/idootop/mi-gpt) - Connect the Xiaoai speaker to ChatGPT and Douyin, and transform it into your exclusive voice assistant.
  * [hostedgpt](https://github.com/allyourbot/hostedgpt) - An open version of ChatGPT you can host anywhere or run locally.
  * [typingmind](https://github.com/typingmind/typingmind) - The most advanced Web UI for AI chat
+ * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
 
 
