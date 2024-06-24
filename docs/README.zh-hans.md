@@ -16,33 +16,28 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Awesome-lists**
- * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-
-
 **Chatbots**
- * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 与朋友们交流LLM！
+ * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act: 使用大型语言模型将多模态指令映射到机器人动作
+
+
+**Browser-extensions**
+ * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - 一个通过 OpenAI 来对b站视频进行总结的多功能 B站解析插件一个能够通过 OpenAI 对b站视频进行总结的多功能 B站解析插件
 
 
 **CLIs**
- * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - 通过任何Matrix客户端与ChatGPT交谈！
-
-
-**Reimplementations**
- * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Video的官方实现：通过更好的字幕改进视频理解和生成
+ * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI工具箱 - AI CLI工具箱，提高git提交和i18n工作流效率
 
 
 **NLP**
- * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - 使用pgvector安全地与您的文档进行聊天的生产就绪MVP
- * [auto-novel](https://github.com/fishhawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说。
+ * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024焦点]（GPT-4V / Gemini-Pro / Qwen-VL-Plus + 16 OS MLLMs）低级视觉和视觉质量评估的多模态LLMs（MLLMs）基准。
+ * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - 低代码工具，支持ChatGPT和其他LLM
 
 
 **Others**
- * [hostedgpt](https://github.com/allyourbot/hostedgpt) - 一个开放版本的ChatGPT，您可以在任何地方托管或本地运行。
- * [typingmind](https://github.com/typingmind/typingmind) - AI聊天的最先进的Web用户界面
+ * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - 一个在Reflex中构建的ChatGPT克隆
 
 
-_Updated on June 22, 2024_ (A total of 1619 repositories listed.)
+_Updated on June 25, 2024_ (A total of 1625 repositories listed.)
 
 ## Table of contents
 
@@ -486,6 +481,7 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [IncarnaMind](https://github.com/junruxiong/incarnamind) - 通过GPT 3.5、GPT-4 Turbo、Claude和本地开源LLMs连接并与您的多个文档（pdf和txt）进行聊天。
  * [unsaged](https://github.com/jorge-menjivar/unsaged) - 专为与AI模型无缝交互而设计的开源聊天工具包。
  * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 与朋友们交流LLM！
+ * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act: 使用大型语言模型将多模态指令映射到机器人动作
 
 
 ## Browser-extensions
@@ -656,6 +652,7 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [Sophia](https://github.com/kyegomez/sophia) - 轻松插件和播放优化器，可将模型训练成本降低50%。新的优化器在LLMs上比Adam快2倍。
  * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT Gnome桌面扩展 | 从您的菜单栏与ChatGPT交谈！
  * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 大多数主要软件和服务的隐私设置指南。
+ * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - 一个通过 OpenAI 来对b站视频进行总结的多功能 B站解析插件一个能够通过 OpenAI 对b站视频进行总结的多功能 B站解析插件
 
 
 ## CLIs
@@ -772,6 +769,7 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - 这个项目探索了将ChatGPT与WhatsApp集成，将聊天机器人转变为一个能够与朋友交谈、回答客户问题等任务的虚拟助手，让对话更具人性化。
  * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAI 和 Gemini 的原生安卓客户端 ☁️
  * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - 通过任何Matrix客户端与ChatGPT交谈！
+ * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI工具箱 - AI CLI工具箱，提高git提交和i18n工作流效率
 
 
 ## Reimplementations
@@ -1069,6 +1067,8 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [ChatTTS](https://github.com/2noise/chattts) - 每日对话生成模型。
  * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - 使用pgvector安全地与您的文档进行聊天的生产就绪MVP
  * [auto-novel](https://github.com/fishhawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说。
+ * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024焦点]（GPT-4V / Gemini-Pro / Qwen-VL-Plus + 16 OS MLLMs）低级视觉和视觉质量评估的多模态LLMs（MLLMs）基准。
+ * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - 低代码工具，支持ChatGPT和其他LLM
 
 
 ## Langchain
@@ -1736,5 +1736,6 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
  * [hostedgpt](https://github.com/allyourbot/hostedgpt) - 一个开放版本的ChatGPT，您可以在任何地方托管或本地运行。
  * [typingmind](https://github.com/typingmind/typingmind) - AI聊天的最先进的Web用户界面
+ * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - 一个在Reflex中构建的ChatGPT克隆
 
 

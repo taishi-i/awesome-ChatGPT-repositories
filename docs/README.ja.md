@@ -16,33 +16,28 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Awesome-lists**
- * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPTの中国語ガイド🔥、ChatGPTの中国語調教ガイド、指示ガイド、アプリ開発ガイド、厳選されたリソースリスト、ChatGPTをより効果的に活用して生産性を向上させましょう！🚀
-
-
 **Chatbots**
- * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 友達とLLMと話す!
+ * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act：大規模言語モデルを使用した多様なモダリティ指示のロボットアクションへのマッピング
+
+
+**Browser-extensions**
+ * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - OpenAIを使用してBilibili動画を要約する多機能なBilibili解析プラグイン
 
 
 **CLIs**
- * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - どのMatrixクライアントを使用してもChatGPTと話すことができます！
-
-
-**Reimplementations**
- * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Videoの公式実装：より良いキャプションでビデオ理解と生成を向上させる
+ * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 ローブCLIツールボックス - AI CLIツールボックス、gitコミットとi18nワークフローの効率を向上
 
 
 **NLP**
- * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - pgvectorを使用して、ドキュメントを安全にチャットするための製品向けMVP
- * [auto-novel](https://github.com/fishhawk/auto-novel) - 軽小説機械翻訳サイト、ネット小説/ライトノベル/ローカル小説をサポート
+ * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 スポットライト]（GPT-4V / Gemini-Pro / Qwen-VL-Plus + 16 OS MLLMs）低レベルビジョンと視覚品質評価におけるマルチモダリティLLM（MLLM）のベンチマーク。
+ * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - ローコードツール、ChatGPTおよびその他のLLMをサポート
 
 
 **Others**
- * [hostedgpt](https://github.com/allyourbot/hostedgpt) - どこでもホストできる、またはローカルで実行できるChatGPTのオープンバージョン。
- * [typingmind](https://github.com/typingmind/typingmind) - AIチャットのための最も先進的なWeb UI
+ * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - Reflexで構築されたChatGPTのクローン
 
 
-_Updated on June 22, 2024_ (A total of 1619 repositories listed.)
+_Updated on June 25, 2024_ (A total of 1625 repositories listed.)
 
 ## Table of contents
 
@@ -486,6 +481,7 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [IncarnaMind](https://github.com/junruxiong/incarnamind) - GPT 3.5、GPT-4 Turbo、Claude、およびローカルオープンソースLLMsを介して複数のドキュメント（pdfおよびtxt）を接続してチャットします。
  * [unsaged](https://github.com/jorge-menjivar/unsaged) - AIモデルとのシームレスなインタラクションを可能にするオープンソースチャットキット。
  * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 友達とLLMと話す!
+ * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act：大規模言語モデルを使用した多様なモダリティ指示のロボットアクションへのマッピング
 
 
 ## Browser-extensions
@@ -656,6 +652,7 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [Sophia](https://github.com/kyegomez/sophia) - モデルトレーニングコストを50％削減するための簡単なプラグインとプレイ最適化ツール。LLMsにおいてAdamより2倍高速な新しい最適化ツール。
  * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！
  * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 主要なソフトウェアやサービスのプライバシー設定ガイド
+ * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - OpenAIを使用してBilibili動画を要約する多機能なBilibili解析プラグイン
 
 
 ## CLIs
@@ -772,6 +769,7 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、さまざまなタスクを実行できる仮想アシスタントに変えることを目指しています。会話に人間味を持たせる要素も取り入れています。
  * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAIとGeminiのためのネイティブAndroidクライアント☁️
  * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - どのMatrixクライアントを使用してもChatGPTと話すことができます！
+ * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 ローブCLIツールボックス - AI CLIツールボックス、gitコミットとi18nワークフローの効率を向上
 
 
 ## Reimplementations
@@ -1069,6 +1067,8 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [ChatTTS](https://github.com/2noise/chattts) - 日常会話のための生成型スピーチモデル。
  * [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - pgvectorを使用して、ドキュメントを安全にチャットするための製品向けMVP
  * [auto-novel](https://github.com/fishhawk/auto-novel) - 軽小説機械翻訳サイト、ネット小説/ライトノベル/ローカル小説をサポート
+ * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 スポットライト]（GPT-4V / Gemini-Pro / Qwen-VL-Plus + 16 OS MLLMs）低レベルビジョンと視覚品質評価におけるマルチモダリティLLM（MLLM）のベンチマーク。
+ * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - ローコードツール、ChatGPTおよびその他のLLMをサポート
 
 
 ## Langchain
@@ -1736,5 +1736,6 @@ _Updated on June 22, 2024_ (A total of 1619 repositories listed.)
  * [mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 小愛音箱をChatGPTと豆包に接続し、あなた専用の音声アシスタントに改造します。
  * [hostedgpt](https://github.com/allyourbot/hostedgpt) - どこでもホストできる、またはローカルで実行できるChatGPTのオープンバージョン。
  * [typingmind](https://github.com/typingmind/typingmind) - AIチャットのための最も先進的なWeb UI
+ * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - Reflexで構築されたChatGPTのクローン
 
 
