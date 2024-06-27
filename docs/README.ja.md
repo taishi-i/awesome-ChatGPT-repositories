@@ -16,28 +16,16 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Chatbots**
- * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act：大規模言語モデルを使用した多様なモダリティ指示のロボットアクションへのマッピング
+**Prompts**
+ * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGCの求職面接、必須の基礎知識、ヒントワードエンジニアリング、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintuneなど、AIGCの求職に必要なすべてを知っておく必要があります。
 
 
 **Browser-extensions**
- * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - OpenAIを使用してBilibili動画を要約する多機能なBilibili解析プラグイン
+ * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 簡単な方法で単語を検索したりテキストを翻訳するためのRaycast拡張機能。48以上の言語をサポートし、LingueeやYoudao辞書をサポートし、OpenAI、DeepL、Google、Bing、Apple、Baidu、Tencent、Volcano、Youdao、Caiyunの翻訳をサポートしています。
+ * [model.nvim](https://github.com/gsuuon/model.nvim) - LLMとエディター統合プロンプトとのやり取りを行うためのNeovimプラグイン
 
 
-**CLIs**
- * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 ローブCLIツールボックス - AI CLIツールボックス、gitコミットとi18nワークフローの効率を向上
-
-
-**NLP**
- * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 スポットライト]（GPT-4V / Gemini-Pro / Qwen-VL-Plus + 16 OS MLLMs）低レベルビジョンと視覚品質評価におけるマルチモダリティLLM（MLLM）のベンチマーク。
- * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - ローコードツール、ChatGPTおよびその他のLLMをサポート
-
-
-**Others**
- * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - Reflexで構築されたChatGPTのクローン
-
-
-_Updated on June 25, 2024_ (A total of 1625 repositories listed.)
+_Updated on June 28, 2024_ (A total of 1628 repositories listed.)
 
 ## Table of contents
 
@@ -255,6 +243,7 @@ _Updated on June 25, 2024_ (A total of 1625 repositories listed.)
  * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSporeオンラインコース：LLMに入る
  * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大規模言語モデルの自動化と自律言語エージェントの開発フレームワーク。Pythonの方法でLLMエージェントアプリケーションを構築してください！
  * [EDDI](https://github.com/labsai/eddi) - Conversational AI API（OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini、Ollamaなど）向けのプロンプト＆会話管理ミドルウェア。Javaで開発され、Quarkusで動作し、Lean、restful、スケーラブル、クラウドネイティブです。提供されるwit。
+ * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGCの求職面接、必須の基礎知識、ヒントワードエンジニアリング、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintuneなど、AIGCの求職に必要なすべてを知っておく必要があります。
 
 
 ## Chatbots
@@ -653,6 +642,8 @@ _Updated on June 25, 2024_ (A total of 1625 repositories listed.)
  * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！
  * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 主要なソフトウェアやサービスのプライバシー設定ガイド
  * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - OpenAIを使用してBilibili動画を要約する多機能なBilibili解析プラグイン
+ * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 簡単な方法で単語を検索したりテキストを翻訳するためのRaycast拡張機能。48以上の言語をサポートし、LingueeやYoudao辞書をサポートし、OpenAI、DeepL、Google、Bing、Apple、Baidu、Tencent、Volcano、Youdao、Caiyunの翻訳をサポートしています。
+ * [model.nvim](https://github.com/gsuuon/model.nvim) - LLMとエディター統合プロンプトとのやり取りを行うためのNeovimプラグイン
 
 
 ## CLIs

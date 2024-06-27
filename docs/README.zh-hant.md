@@ -16,28 +16,16 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Chatbots**
- * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act：將多模式指令映射到具有大型語言模型的機器人動作
+**Prompts**
+ * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGC 求職面經、必備基礎知識、提示詞工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求職你所需要知道的一切~
 
 
 **Browser-extensions**
- * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - 一個透過 OpenAI 來對b站視頻進行總結的多功能 B站解析插件
+ * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 一個用於輕鬆查詞或翻譯文本的Raycast擴展。支持48種以上語言，支持Linguee和Youdao詞典，支持OpenAI、DeepL、Google、Bing、蘋果、百度、騰訊、火山、有道和彩雲翻譯。
+ * [model.nvim](https://github.com/gsuuon/model.nvim) - Neovim插件，用於與LLM互動並構建編輯器集成提示。
 
 
-**CLIs**
- * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI 工具箱 - AI CLI 工具箱，提升 git 提交和 i18n 工作流效率
-
-
-**NLP**
- * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 焦點] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) 低層次視覺和視覺質量評估的多模式LLMs（MLLMs）基準。
- * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - 低代碼工具，支持ChatGPT和其他LLM
-
-
-**Others**
- * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - 在 Reflex 中构建的 ChatGPT 克隆
-
-
-_Updated on June 25, 2024_ (A total of 1625 repositories listed.)
+_Updated on June 28, 2024_ (A total of 1628 repositories listed.)
 
 ## Table of contents
 
@@ -255,6 +243,7 @@ _Updated on June 25, 2024_ (A total of 1625 repositories listed.)
  * [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - MindSpore 在线课程：踏入 LLM
  * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大型語言模型自動化和自主語言代理開發框架。以Python方式構建您的LLM代理應用程式！
  * [EDDI](https://github.com/labsai/eddi) - 用於對話式AI API的提示和對話管理中間件，例如OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini和Ollama。輕巧、休息、可擴展且雲原生。使用Java開發，由Quarkus提供支持。
+ * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGC 求職面經、必備基礎知識、提示詞工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求職你所需要知道的一切~
 
 
 ## Chatbots
@@ -653,6 +642,8 @@ _Updated on June 25, 2024_ (A total of 1625 repositories listed.)
  * [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ChatGPT 圖形桌面擴展 | 從您的選單欄與 ChatGPT 對話！
  * [privacy-settings](https://github.com/stellarsand/privacy-settings) - 大多數主要軟件和服務的隱私設置指南。
  * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - 一個透過 OpenAI 來對b站視頻進行總結的多功能 B站解析插件
+ * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 一個用於輕鬆查詞或翻譯文本的Raycast擴展。支持48種以上語言，支持Linguee和Youdao詞典，支持OpenAI、DeepL、Google、Bing、蘋果、百度、騰訊、火山、有道和彩雲翻譯。
+ * [model.nvim](https://github.com/gsuuon/model.nvim) - Neovim插件，用於與LLM互動並構建編輯器集成提示。
 
 
 ## CLIs
