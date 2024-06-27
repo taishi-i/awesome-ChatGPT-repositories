@@ -4617,6 +4617,28 @@
                     "zh-hans": "用于对话AI API的提示和对话管理中间件，例如OpenAI ChatGPT，Facebook Hugging Face，Anthropic Claude，Google Gemini和Ollama。 精简，轻量级，可扩展，云原生。 使用Java开发，由Quarkus提供支持。",
                     "zh-hant": "用於對話式AI API的提示和對話管理中間件，例如OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini和Ollama。輕巧、休息、可擴展且雲原生。使用Java開發，由Quarkus提供支持。"
                 }
+            },
+            "https://github.com/embraceagi/aigc_interview": {
+                "repository_name": "AIGC_Interview",
+                "user_name": "EmbraceAGI",
+                "language": null,
+                "license": null,
+                "description": "📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~",
+                "topics": [
+                    "aigc",
+                    "chatgpt",
+                    "gpt4",
+                    "interviews",
+                    "prompt",
+                    "promptengineering",
+                    "stablediffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~",
+                    "ja": "📚 AIGCの求職面接、必須の基礎知識、ヒントワードエンジニアリング、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintuneなど、AIGCの求職に必要なすべてを知っておく必要があります。",
+                    "zh-hans": "📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~",
+                    "zh-hant": "📚 AIGC 求職面經、必備基礎知識、提示詞工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求職你所需要知道的一切~"
+                }
             }
         },
         "Chatbots": {
@@ -13596,6 +13618,65 @@
                     "ja": "OpenAIを使用してBilibili動画を要約する多機能なBilibili解析プラグイン",
                     "zh-hans": "一个通过 OpenAI 来对b站视频进行总结的多功能 B站解析插件一个能够通过 OpenAI 对b站视频进行总结的多功能 B站解析插件",
                     "zh-hant": "一個透過 OpenAI 來對b站視頻進行總結的多功能 B站解析插件"
+                }
+            },
+            "https://github.com/tisfeng/raycast-easydict": {
+                "repository_name": "Raycast-Easydict",
+                "user_name": "tisfeng",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A Raycast Extension for looking up words or translating text in an easy way. Support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation.",
+                "topics": [
+                    "apple",
+                    "baidu",
+                    "bing",
+                    "caiyun",
+                    "chatgpt",
+                    "deepl",
+                    "dictionary",
+                    "eudic",
+                    "google",
+                    "linguee",
+                    "openai",
+                    "raycast",
+                    "shortcuts",
+                    "tencent",
+                    "translate",
+                    "translator",
+                    "volcano",
+                    "youdao"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Raycast Extension for looking up words or translating text in an easy way. Support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation.",
+                    "ja": "簡単な方法で単語を検索したりテキストを翻訳するためのRaycast拡張機能。48以上の言語をサポートし、LingueeやYoudao辞書をサポートし、OpenAI、DeepL、Google、Bing、Apple、Baidu、Tencent、Volcano、Youdao、Caiyunの翻訳をサポートしています。",
+                    "zh-hans": "一个用于查找单词或翻译文本的射线投射扩展。支持48种以上语言，支持Linguee和Youdao词典，支持OpenAI、DeepL、Google、Bing、Apple、百度、腾讯、火山、有道和彩云翻译。",
+                    "zh-hant": "一個用於輕鬆查詞或翻譯文本的Raycast擴展。支持48種以上語言，支持Linguee和Youdao詞典，支持OpenAI、DeepL、Google、Bing、蘋果、百度、騰訊、火山、有道和彩雲翻譯。"
+                }
+            },
+            "https://github.com/gsuuon/model.nvim": {
+                "repository_name": "model.nvim",
+                "user_name": "gsuuon",
+                "language": "Lua",
+                "license": "MIT License",
+                "description": "Neovim plugin for interacting with LLM's and building editor integrated prompts.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "llm",
+                    "neovim",
+                    "neovim-plugin",
+                    "nvim",
+                    "nvim-plugin",
+                    "openai",
+                    "palm",
+                    "prompt-engineering",
+                    "prompts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Neovim plugin for interacting with LLM's and building editor integrated prompts.",
+                    "ja": "LLMとエディター統合プロンプトとのやり取りを行うためのNeovimプラグイン",
+                    "zh-hans": "Neovim插件，用于与LLM进行交互并构建集成在编辑器中的提示。",
+                    "zh-hant": "Neovim插件，用於與LLM互動並構建編輯器集成提示。"
                 }
             }
         },
