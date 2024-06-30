@@ -16,16 +16,23 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Prompts**
- * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGCの求職面接、必須の基礎知識、ヒントワードエンジニアリング、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintuneなど、AIGCの求職に必要なすべてを知っておく必要があります。
+**Chatbots**
+ * [GURU-Ai](https://github.com/guru322/guru-ai) - 機能満載のシンプルで複雑なAIチャットロボット🚩
 
 
-**Browser-extensions**
- * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 簡単な方法で単語を検索したりテキストを翻訳するためのRaycast拡張機能。48以上の言語をサポートし、LingueeやYoudao辞書をサポートし、OpenAI、DeepL、Google、Bing、Apple、Baidu、Tencent、Volcano、Youdao、Caiyunの翻訳をサポートしています。
- * [model.nvim](https://github.com/gsuuon/model.nvim) - LLMとエディター統合プロンプトとのやり取りを行うためのNeovimプラグイン
+**NLP**
+ * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - 華陀GPT2、LLMsの医療適応のためのワンステージトレーニング（オープン医療GPT）
 
 
-_Updated on June 28, 2024_ (A total of 1628 repositories listed.)
+**Openai**
+ * [liboai](https://github.com/d7ead/liboai) - OpenAI API全体にアクセスするためのC++17ライブラリ。
+
+
+**Others**
+ * [gptpdf](https://github.com/cosmosshadow/gptpdf) - PDFを解析するためにGPTを使用します。
+
+
+_Updated on July 01, 2024_ (A total of 1632 repositories listed.)
 
 ## Table of contents
 
@@ -471,6 +478,7 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [unsaged](https://github.com/jorge-menjivar/unsaged) - AIモデルとのシームレスなインタラクションを可能にするオープンソースチャットキット。
  * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 友達とLLMと話す!
  * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act：大規模言語モデルを使用した多様なモダリティ指示のロボットアクションへのマッピング
+ * [GURU-Ai](https://github.com/guru322/guru-ai) - 機能満載のシンプルで複雑なAIチャットロボット🚩
 
 
 ## Browser-extensions
@@ -1060,6 +1068,7 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [auto-novel](https://github.com/fishhawk/auto-novel) - 軽小説機械翻訳サイト、ネット小説/ライトノベル/ローカル小説をサポート
  * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 スポットライト]（GPT-4V / Gemini-Pro / Qwen-VL-Plus + 16 OS MLLMs）低レベルビジョンと視覚品質評価におけるマルチモダリティLLM（MLLM）のベンチマーク。
  * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - ローコードツール、ChatGPTおよびその他のLLMをサポート
+ * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - 華陀GPT2、LLMsの医療適応のためのワンステージトレーニング（オープン医療GPT）
 
 
 ## Langchain
@@ -1345,6 +1354,7 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 与えられたアプリケーションに基づいて脅威モデルを生成するためにOpenAIのGPTモデルを活用するAIパワードの脅威モデリングツール。STRIDE方法論に基づいています。
  * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 ビデオ生成のためのGPT ⚡️
  * [celeris-web](https://github.com/kirklin/celeris-web) - Input: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。 Output: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。
+ * [liboai](https://github.com/d7ead/liboai) - OpenAI API全体にアクセスするためのC++17ライブラリ。
 
 
 ## Others
@@ -1728,5 +1738,6 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [hostedgpt](https://github.com/allyourbot/hostedgpt) - どこでもホストできる、またはローカルで実行できるChatGPTのオープンバージョン。
  * [typingmind](https://github.com/typingmind/typingmind) - AIチャットのための最も先進的なWeb UI
  * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - Reflexで構築されたChatGPTのクローン
+ * [gptpdf](https://github.com/cosmosshadow/gptpdf) - PDFを解析するためにGPTを使用します。
 
 
