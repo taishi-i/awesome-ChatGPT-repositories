@@ -16,16 +16,23 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Prompts**
- * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGC 求職面經、必備基礎知識、提示詞工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求職你所需要知道的一切~
+**Chatbots**
+ * [GURU-Ai](https://github.com/guru322/guru-ai) - 一個簡單但複雜的AI聊天機器人，擁有豐富的功能🚩
 
 
-**Browser-extensions**
- * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 一個用於輕鬆查詞或翻譯文本的Raycast擴展。支持48種以上語言，支持Linguee和Youdao詞典，支持OpenAI、DeepL、Google、Bing、蘋果、百度、騰訊、火山、有道和彩雲翻譯。
- * [model.nvim](https://github.com/gsuuon/model.nvim) - Neovim插件，用於與LLM互動並構建編輯器集成提示。
+**NLP**
+ * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - 華陀GPT2，醫學LLM的一階段訓練。 （一個開放的醫學GPT）
 
 
-_Updated on June 28, 2024_ (A total of 1628 repositories listed.)
+**Openai**
+ * [liboai](https://github.com/d7ead/liboai) - 一個用於訪問整個OpenAI API的C++17庫。
+
+
+**Others**
+ * [gptpdf](https://github.com/cosmosshadow/gptpdf) - 使用GPT解析PDF
+
+
+_Updated on July 01, 2024_ (A total of 1632 repositories listed.)
 
 ## Table of contents
 
@@ -471,6 +478,7 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [unsaged](https://github.com/jorge-menjivar/unsaged) - 針對與人工智慧模型無縫互動而設計的開源聊天套件。
  * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 與朋友們交談LLM！
  * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act：將多模式指令映射到具有大型語言模型的機器人動作
+ * [GURU-Ai](https://github.com/guru322/guru-ai) - 一個簡單但複雜的AI聊天機器人，擁有豐富的功能🚩
 
 
 ## Browser-extensions
@@ -1060,6 +1068,7 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [auto-novel](https://github.com/fishhawk/auto-novel) - 輕小說機翻網站，支持網絡小說/文庫小說/本地小說
  * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 焦點] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) 低層次視覺和視覺質量評估的多模式LLMs（MLLMs）基準。
  * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - 低代碼工具，支持ChatGPT和其他LLM
+ * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - 華陀GPT2，醫學LLM的一階段訓練。 （一個開放的醫學GPT）
 
 
 ## Langchain
@@ -1345,6 +1354,7 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [stride-gpt](https://github.com/mrwadams/stride-gpt) - 一個由人工智慧驅動的威脅建模工具，利用OpenAI的GPT模型根據STRIDE方法為特定應用程序生成威脅模型。
  * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 影片生成的 GPT ⚡️
  * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web 是一個使用 Vue 3、Vite 和 TypeScript 構建的高性能和可定制的前端開發模板。它具有最新的語法、組件和 API 自動導入、狀態管理、中文字體預設、國際化等功能。
+ * [liboai](https://github.com/d7ead/liboai) - 一個用於訪問整個OpenAI API的C++17庫。
 
 
 ## Others
@@ -1728,5 +1738,6 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [hostedgpt](https://github.com/allyourbot/hostedgpt) - 一個開放版本的ChatGPT，您可以在任何地方主持或在本地運行。
  * [typingmind](https://github.com/typingmind/typingmind) - AI聊天的最先進Web UI
  * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - 在 Reflex 中构建的 ChatGPT 克隆
+ * [gptpdf](https://github.com/cosmosshadow/gptpdf) - 使用GPT解析PDF
 
 

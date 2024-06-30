@@ -9920,6 +9920,40 @@
                     "zh-hans": "Instruct2Act: 使用大型语言模型将多模态指令映射到机器人动作",
                     "zh-hant": "Instruct2Act：將多模式指令映射到具有大型語言模型的機器人動作"
                 }
+            },
+            "https://github.com/guru322/guru-ai": {
+                "repository_name": "GURU-Ai",
+                "user_name": "Guru322",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": "A SIMPLE YET COMPLICATED AI Chat Robot LOADED WITH FEATURES🚩",
+                "topics": [
+                    "ai",
+                    "automation",
+                    "baileys",
+                    "baileys-bot",
+                    "baileys-md",
+                    "bot",
+                    "chatgpt",
+                    "chatgpt-bot",
+                    "guru",
+                    "guru-multidevice",
+                    "openai",
+                    "openai-whatsapp-bot",
+                    "qrcode",
+                    "termux",
+                    "whatsapp",
+                    "whatsapp-bot",
+                    "whatsapp-bot-md",
+                    "whatsapp-web",
+                    "whatsappbot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A SIMPLE YET COMPLICATED AI Chat Robot LOADED WITH FEATURES🚩",
+                    "ja": "機能満載のシンプルで複雑なAIチャットロボット🚩",
+                    "zh-hans": "一个简单但复杂的AI聊天机器人，功能齐全🚩",
+                    "zh-hant": "一個簡單但複雜的AI聊天機器人，擁有豐富的功能🚩"
+                }
             }
         },
         "Browser-extensions": {
@@ -22360,6 +22394,20 @@
                     "zh-hans": "低代码工具，支持ChatGPT和其他LLM",
                     "zh-hant": "低代碼工具，支持ChatGPT和其他LLM"
                 }
+            },
+            "https://github.com/freedomintelligence/huatuogpt-ii": {
+                "repository_name": "HuatuoGPT-II",
+                "user_name": "FreedomIntelligence",
+                "language": "Python",
+                "license": null,
+                "description": "HuatuoGPT2, One-stage Training for Medical Adaption of LLMs. (An Open Medical GPT)",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "HuatuoGPT2, One-stage Training for Medical Adaption of LLMs. (An Open Medical GPT)",
+                    "ja": "華陀GPT2、LLMsの医療適応のためのワンステージトレーニング（オープン医療GPT）",
+                    "zh-hans": "华陀GPT2，医学适应LLMs的一阶段训练。（一个开放的医学GPT）",
+                    "zh-hant": "華陀GPT2，醫學LLM的一階段訓練。 （一個開放的醫學GPT）"
+                }
             }
         },
         "Langchain": {
@@ -28514,6 +28562,37 @@
                     "ja": "Input: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。 Output: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。",
                     "zh-hans": "Celeris Web 是一个高性能且可定制的前端开发模板，使用了Vue 3、Vite 和 TypeScript 构建。它具有最新的语法、组件和 API 自动导入、状态管理、中文字体预设、国际化等功能。",
                     "zh-hant": "Celeris Web 是一個使用 Vue 3、Vite 和 TypeScript 構建的高性能和可定制的前端開發模板。它具有最新的語法、組件和 API 自動導入、狀態管理、中文字體預設、國際化等功能。"
+                }
+            },
+            "https://github.com/d7ead/liboai": {
+                "repository_name": "liboai",
+                "user_name": "D7EAD",
+                "language": "C++",
+                "license": "MIT License",
+                "description": "A C++17 library to access the entire OpenAI API.  ",
+                "topics": [
+                    "ai",
+                    "api",
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt3",
+                    "dall-e",
+                    "generator",
+                    "gpt",
+                    "interface",
+                    "library",
+                    "machine-learning",
+                    "ml",
+                    "neural-network",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A C++17 library to access the entire OpenAI API.",
+                    "ja": "OpenAI API全体にアクセスするためのC++17ライブラリ。",
+                    "zh-hans": "一个用于访问整个OpenAI API的C++17库。",
+                    "zh-hant": "一個用於訪問整個OpenAI API的C++17庫。"
                 }
             }
         },
@@ -35707,6 +35786,20 @@
                     "ja": "Reflexで構築されたChatGPTのクローン",
                     "zh-hans": "一个在Reflex中构建的ChatGPT克隆",
                     "zh-hant": "在 Reflex 中构建的 ChatGPT 克隆"
+                }
+            },
+            "https://github.com/cosmosshadow/gptpdf": {
+                "repository_name": "gptpdf",
+                "user_name": "CosmosShadow",
+                "language": "Python",
+                "license": null,
+                "description": "Using GPT to parse PDF",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Using GPT to parse PDF",
+                    "ja": "PDFを解析するためにGPTを使用します。",
+                    "zh-hans": "使用GPT解析PDF",
+                    "zh-hant": "使用GPT解析PDF"
                 }
             }
         }

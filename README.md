@@ -16,16 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Prompts**
- * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~
+**Chatbots**
+ * [GURU-Ai](https://github.com/guru322/guru-ai) - A SIMPLE YET COMPLICATED AI Chat Robot LOADED WITH FEATURES🚩
 
 
-**Browser-extensions**
- * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - A Raycast Extension for looking up words or translating text in an easy way. Support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation.
- * [model.nvim](https://github.com/gsuuon/model.nvim) - Neovim plugin for interacting with LLM's and building editor integrated prompts.
+**NLP**
+ * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - HuatuoGPT2, One-stage Training for Medical Adaption of LLMs. (An Open Medical GPT)
 
 
-_Updated on June 28, 2024_ (A total of 1628 repositories listed.)
+**Openai**
+ * [liboai](https://github.com/d7ead/liboai) - A C++17 library to access the entire OpenAI API.
+
+
+**Others**
+ * [gptpdf](https://github.com/cosmosshadow/gptpdf) - Using GPT to parse PDF
+
+
+_Updated on July 01, 2024_ (A total of 1632 repositories listed.)
 
 ## Table of contents
 
@@ -471,6 +478,7 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models.
  * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • Talk to LLMs with your friends!
  * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model
+ * [GURU-Ai](https://github.com/guru322/guru-ai) - A SIMPLE YET COMPLICATED AI Chat Robot LOADED WITH FEATURES🚩
 
 
 ## Browser-extensions
@@ -1060,6 +1068,7 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [auto-novel](https://github.com/fishhawk/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
  * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment.
  * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - lowcode tool, support ChatGPT and other LLM
+ * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - HuatuoGPT2, One-stage Training for Medical Adaption of LLMs. (An Open Medical GPT)
 
 
 ## Langchain
@@ -1345,6 +1354,7 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [stride-gpt](https://github.com/mrwadams/stride-gpt) - An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
  * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 GPT for video generation ⚡️
  * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and integration with OpenAI's ChatGPT API.
+ * [liboai](https://github.com/d7ead/liboai) - A C++17 library to access the entire OpenAI API.
 
 
 ## Others
@@ -1728,5 +1738,6 @@ _Updated on June 28, 2024_ (A total of 1628 repositories listed.)
  * [hostedgpt](https://github.com/allyourbot/hostedgpt) - An open version of ChatGPT you can host anywhere or run locally.
  * [typingmind](https://github.com/typingmind/typingmind) - The most advanced Web UI for AI chat
  * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
+ * [gptpdf](https://github.com/cosmosshadow/gptpdf) - Using GPT to parse PDF
 
 
