@@ -17,22 +17,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Chatbots**
- * [GURU-Ai](https://github.com/guru322/guru-ai) - A SIMPLE YET COMPLICATED AI Chat Robot LOADED WITH FEATURES🚩
+ * [voxelgpt](https://github.com/voxel51/voxelgpt) - AI assistant that can query visual datasets, search the FiftyOne docs, and answer general computer vision questions
+ * [XYBot](https://github.com/henryxiaoyang/xybot) - WeChat robot based on docker and pywxdll hook injection! ✅ Highly customizable! ✅ Supports self-written plugins! Many functions: weather 🌤️, get news 📰, ChatGPT chat 🗣️, Hypixel player query 🎮, random pictures 📷, random links 🔗, random group members 👥, Gomoku ♟️, check-in ✅, check points 📊, points leaderboard 🏆, points transfer 💰, points lottery 🎁, points red envelope 🧧, etc.
 
 
-**NLP**
- * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - HuatuoGPT2, One-stage Training for Medical Adaption of LLMs. (An Open Medical GPT)
+**Browser-extensions**
+ * [BrowserGPT](https://github.com/mayt/browsergpt) - Command your browser with GPT
 
 
 **Openai**
- * [liboai](https://github.com/d7ead/liboai) - A C++17 library to access the entire OpenAI API.
+ * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - Ready-made tokenizer library for working with GPT and tiktoken
 
 
 **Others**
- * [gptpdf](https://github.com/cosmosshadow/gptpdf) - Using GPT to parse PDF
+ * [vectorhub](https://github.com/guangzhengli/vectorhub) - Quickly and easily build AI website or application by using embeddings!
+ * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
 
 
-_Updated on July 01, 2024_ (A total of 1632 repositories listed.)
+_Updated on July 04, 2024_ (A total of 1638 repositories listed.)
 
 ## Table of contents
 
@@ -479,6 +481,8 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • Talk to LLMs with your friends!
  * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model
  * [GURU-Ai](https://github.com/guru322/guru-ai) - A SIMPLE YET COMPLICATED AI Chat Robot LOADED WITH FEATURES🚩
+ * [voxelgpt](https://github.com/voxel51/voxelgpt) - AI assistant that can query visual datasets, search the FiftyOne docs, and answer general computer vision questions
+ * [XYBot](https://github.com/henryxiaoyang/xybot) - WeChat robot based on docker and pywxdll hook injection! ✅ Highly customizable! ✅ Supports self-written plugins! Many functions: weather 🌤️, get news 📰, ChatGPT chat 🗣️, Hypixel player query 🎮, random pictures 📷, random links 🔗, random group members 👥, Gomoku ♟️, check-in ✅, check points 📊, points leaderboard 🏆, points transfer 💰, points lottery 🎁, points red envelope 🧧, etc.
 
 
 ## Browser-extensions
@@ -652,6 +656,7 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - A multi-functional B station analysis plugin that summarizes B station videos through OpenAI.
  * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - A Raycast Extension for looking up words or translating text in an easy way. Support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation.
  * [model.nvim](https://github.com/gsuuon/model.nvim) - Neovim plugin for interacting with LLM's and building editor integrated prompts.
+ * [BrowserGPT](https://github.com/mayt/browsergpt) - Command your browser with GPT
 
 
 ## CLIs
@@ -1355,6 +1360,7 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 GPT for video generation ⚡️Translated Output:🎨 GPT for video generation ⚡️
  * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and
  * [liboai](https://github.com/d7ead/liboai) - A C++17 library to access the entire OpenAI API.
+ * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - Ready-made tokenizer library for working with GPT and tiktoken
 
 
 ## Others
@@ -1739,5 +1745,7 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [typingmind](https://github.com/typingmind/typingmind) - The most advanced Web UI for AI chat
  * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - A ChatGPT clone built in Reflex
  * [gptpdf](https://github.com/cosmosshadow/gptpdf) - Using GPT to parse PDF
+ * [vectorhub](https://github.com/guangzhengli/vectorhub) - Quickly and easily build AI website or application by using embeddings!
+ * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
 
 

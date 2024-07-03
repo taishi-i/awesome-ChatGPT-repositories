@@ -17,22 +17,24 @@
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Chatbots**
- * [GURU-Ai](https://github.com/guru322/guru-ai) - 機能満載のシンプルで複雑なAIチャットロボット🚩
+ * [voxelgpt](https://github.com/voxel51/voxelgpt) - 視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える
+ * [XYBot](https://github.com/henryxiaoyang/xybot) - Dockerとpywxdllフックインジェクションを使用したWeChatボット🤖️！✅高度にカスタマイズ可能！ ✅自作プラグインのサポート！機能がたくさんあります：天気🌤️、ニュース取得📰、ChatGPTチャット🗣️、Hypixelプレイヤー検索🎮、ランダム画像📷、ランダムリンク🔗、ランダムグループメンバー👥、五目並べ♟️、サインイン✅、ポイント検索📊、ポイントランキング🏆、ポイント送信💰、ポイント抽選🎁、ポイントお年玉🧧など
 
 
-**NLP**
- * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - 華陀GPT2、LLMsの医療適応のためのワンステージトレーニング（オープン医療GPT）
+**Browser-extensions**
+ * [BrowserGPT](https://github.com/mayt/browsergpt) - GPTを使用してブラウザを操作します。
 
 
 **Openai**
- * [liboai](https://github.com/d7ead/liboai) - OpenAI API全体にアクセスするためのC++17ライブラリ。
+ * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - GPTとtiktokenと一緒に使うための既製のトークナイザーライブラリ
 
 
 **Others**
- * [gptpdf](https://github.com/cosmosshadow/gptpdf) - PDFを解析するためにGPTを使用します。
+ * [vectorhub](https://github.com/guangzhengli/vectorhub) - 埋め込みを使用して、簡単かつ迅速にAIウェブサイトやアプリケーションを構築できます！
+ * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - ChatGPTにクロードの遺物機能を持ってきてください。
 
 
-_Updated on July 01, 2024_ (A total of 1632 repositories listed.)
+_Updated on July 04, 2024_ (A total of 1638 repositories listed.)
 
 ## Table of contents
 
@@ -479,6 +481,8 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 友達とLLMと話す!
  * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act：大規模言語モデルを使用した多様なモダリティ指示のロボットアクションへのマッピング
  * [GURU-Ai](https://github.com/guru322/guru-ai) - 機能満載のシンプルで複雑なAIチャットロボット🚩
+ * [voxelgpt](https://github.com/voxel51/voxelgpt) - 視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える
+ * [XYBot](https://github.com/henryxiaoyang/xybot) - Dockerとpywxdllフックインジェクションを使用したWeChatボット🤖️！✅高度にカスタマイズ可能！ ✅自作プラグインのサポート！機能がたくさんあります：天気🌤️、ニュース取得📰、ChatGPTチャット🗣️、Hypixelプレイヤー検索🎮、ランダム画像📷、ランダムリンク🔗、ランダムグループメンバー👥、五目並べ♟️、サインイン✅、ポイント検索📊、ポイントランキング🏆、ポイント送信💰、ポイント抽選🎁、ポイントお年玉🧧など
 
 
 ## Browser-extensions
@@ -652,6 +656,7 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - OpenAIを使用してBilibili動画を要約する多機能なBilibili解析プラグイン
  * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 簡単な方法で単語を検索したりテキストを翻訳するためのRaycast拡張機能。48以上の言語をサポートし、LingueeやYoudao辞書をサポートし、OpenAI、DeepL、Google、Bing、Apple、Baidu、Tencent、Volcano、Youdao、Caiyunの翻訳をサポートしています。
  * [model.nvim](https://github.com/gsuuon/model.nvim) - LLMとエディター統合プロンプトとのやり取りを行うためのNeovimプラグイン
+ * [BrowserGPT](https://github.com/mayt/browsergpt) - GPTを使用してブラウザを操作します。
 
 
 ## CLIs
@@ -1355,6 +1360,7 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 ビデオ生成のためのGPT ⚡️
  * [celeris-web](https://github.com/kirklin/celeris-web) - Input: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。 Output: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。
  * [liboai](https://github.com/d7ead/liboai) - OpenAI API全体にアクセスするためのC++17ライブラリ。
+ * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - GPTとtiktokenと一緒に使うための既製のトークナイザーライブラリ
 
 
 ## Others
@@ -1739,5 +1745,7 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [typingmind](https://github.com/typingmind/typingmind) - AIチャットのための最も先進的なWeb UI
  * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - Reflexで構築されたChatGPTのクローン
  * [gptpdf](https://github.com/cosmosshadow/gptpdf) - PDFを解析するためにGPTを使用します。
+ * [vectorhub](https://github.com/guangzhengli/vectorhub) - 埋め込みを使用して、簡単かつ迅速にAIウェブサイトやアプリケーションを構築できます！
+ * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - ChatGPTにクロードの遺物機能を持ってきてください。
 
 
