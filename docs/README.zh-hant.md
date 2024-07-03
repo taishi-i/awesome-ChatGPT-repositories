@@ -17,22 +17,24 @@
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Chatbots**
- * [GURU-Ai](https://github.com/guru322/guru-ai) - 一個簡單但複雜的AI聊天機器人，擁有豐富的功能🚩
+ * [voxelgpt](https://github.com/voxel51/voxelgpt) - 能夠查詢視覺數據集、搜索FiftyOne文檔並回答一般計算機視覺問題的AI助手
+ * [XYBot](https://github.com/henryxiaoyang/xybot) - 基於docker和pywxdll hook注入的微信機器人🤖️！✅高度可自定義！ ✅支持自我編寫插件！非常多的功能：天氣🌤️、獲取新聞📰、ChatGPT聊天🗣️、Hypixel玩家查詢🎮、隨機圖片📷、隨機鏈接🔗、隨機群成員👥、五子棋♟️、簽到✅、查詢積分📊、積分榜🏆、積分轉送💰、積分抽獎🎁、積分紅包🧧等
 
 
-**NLP**
- * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - 華陀GPT2，醫學LLM的一階段訓練。 （一個開放的醫學GPT）
+**Browser-extensions**
+ * [BrowserGPT](https://github.com/mayt/browsergpt) - 使用GPT指令控制您的瀏覽器
 
 
 **Openai**
- * [liboai](https://github.com/d7ead/liboai) - 一個用於訪問整個OpenAI API的C++17庫。
+ * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - 使用GPT和tiktoken的现成分词库
 
 
 **Others**
- * [gptpdf](https://github.com/cosmosshadow/gptpdf) - 使用GPT解析PDF
+ * [vectorhub](https://github.com/guangzhengli/vectorhub) - 快速且輕鬆地使用嵌入式技術來建立人工智慧網站或應用程式！
+ * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - 將克勞德的文物功能帶到ChatGPT
 
 
-_Updated on July 01, 2024_ (A total of 1632 repositories listed.)
+_Updated on July 04, 2024_ (A total of 1638 repositories listed.)
 
 ## Table of contents
 
@@ -479,6 +481,8 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - llmcord.py • 與朋友們交談LLM！
  * [Instruct2Act](https://github.com/opengvlab/instruct2act) - Instruct2Act：將多模式指令映射到具有大型語言模型的機器人動作
  * [GURU-Ai](https://github.com/guru322/guru-ai) - 一個簡單但複雜的AI聊天機器人，擁有豐富的功能🚩
+ * [voxelgpt](https://github.com/voxel51/voxelgpt) - 能夠查詢視覺數據集、搜索FiftyOne文檔並回答一般計算機視覺問題的AI助手
+ * [XYBot](https://github.com/henryxiaoyang/xybot) - 基於docker和pywxdll hook注入的微信機器人🤖️！✅高度可自定義！ ✅支持自我編寫插件！非常多的功能：天氣🌤️、獲取新聞📰、ChatGPT聊天🗣️、Hypixel玩家查詢🎮、隨機圖片📷、隨機鏈接🔗、隨機群成員👥、五子棋♟️、簽到✅、查詢積分📊、積分榜🏆、積分轉送💰、積分抽獎🎁、積分紅包🧧等
 
 
 ## Browser-extensions
@@ -652,6 +656,7 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - 一個透過 OpenAI 來對b站視頻進行總結的多功能 B站解析插件
  * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 一個用於輕鬆查詞或翻譯文本的Raycast擴展。支持48種以上語言，支持Linguee和Youdao詞典，支持OpenAI、DeepL、Google、Bing、蘋果、百度、騰訊、火山、有道和彩雲翻譯。
  * [model.nvim](https://github.com/gsuuon/model.nvim) - Neovim插件，用於與LLM互動並構建編輯器集成提示。
+ * [BrowserGPT](https://github.com/mayt/browsergpt) - 使用GPT指令控制您的瀏覽器
 
 
 ## CLIs
@@ -1355,6 +1360,7 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [generative-manim](https://github.com/360macky/generative-manim) - 🎨 影片生成的 GPT ⚡️
  * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web 是一個使用 Vue 3、Vite 和 TypeScript 構建的高性能和可定制的前端開發模板。它具有最新的語法、組件和 API 自動導入、狀態管理、中文字體預設、國際化等功能。
  * [liboai](https://github.com/d7ead/liboai) - 一個用於訪問整個OpenAI API的C++17庫。
+ * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - 使用GPT和tiktoken的现成分词库
 
 
 ## Others
@@ -1739,5 +1745,7 @@ _Updated on July 01, 2024_ (A total of 1632 repositories listed.)
  * [typingmind](https://github.com/typingmind/typingmind) - AI聊天的最先進Web UI
  * [reflex-chat](https://github.com/reflex-dev/reflex-chat) - 在 Reflex 中构建的 ChatGPT 克隆
  * [gptpdf](https://github.com/cosmosshadow/gptpdf) - 使用GPT解析PDF
+ * [vectorhub](https://github.com/guangzhengli/vectorhub) - 快速且輕鬆地使用嵌入式技術來建立人工智慧網站或應用程式！
+ * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - 將克勞德的文物功能帶到ChatGPT
 
 
