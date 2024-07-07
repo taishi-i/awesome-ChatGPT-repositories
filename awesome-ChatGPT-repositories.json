@@ -10002,6 +10002,61 @@
                     "zh-hans": "基于docker和pywxdll hook注入的微信机器人🤖️！✅高度可自定义！ ✅支持自我编写插件！非常多的功能：天气🌤️、获取新闻📰、ChatGPT聊天🗣️、Hypixel玩家查询🎮、随机图片📷、随机链接🔗、随机群成员👥、五子棋♟️、签到✅、查询积分📊、积分榜🏆、积分转送💰、积分抽奖🎁、积分红包🧧等",
                     "zh-hant": "基於docker和pywxdll hook注入的微信機器人🤖️！✅高度可自定義！ ✅支持自我編寫插件！非常多的功能：天氣🌤️、獲取新聞📰、ChatGPT聊天🗣️、Hypixel玩家查詢🎮、隨機圖片📷、隨機鏈接🔗、隨機群成員👥、五子棋♟️、簽到✅、查詢積分📊、積分榜🏆、積分轉送💰、積分抽獎🎁、積分紅包🧧等"
                 }
+            },
+            "https://github.com/zaki-1052/gptportal": {
+                "repository_name": "GPTPortal",
+                "user_name": "Zaki-1052",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.",
+                "topics": [
+                    "ai",
+                    "api",
+                    "assistants-api",
+                    "chatbot",
+                    "chatgpt",
+                    "claude-api",
+                    "gemini-api",
+                    "generative-ai",
+                    "gpt",
+                    "gpt-4",
+                    "gpt-4-api",
+                    "javascript",
+                    "mistral-api",
+                    "node-js",
+                    "openai",
+                    "self-hosted",
+                    "tts-api",
+                    "whisper-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.",
+                    "ja": "機能豊富なポータルを介して、軽量なNode.jsウェブアプリを使用してGPT-4、Claude、Gemini、Mistral、およびOpenAIアシスタントAPIとチャットするためのポータルを提供します。音声、画像、ファイルに対応したカスタマイズ可能なマルチモダリティをサポートしています。",
+                    "zh-hans": "一个功能丰富的门户，可以通过轻量级的Node.js网络应用程序与GPT-4、Claude、Gemini、Mistral和OpenAI助手API进行聊天；支持语音、图片和文件的可定制多模态。",
+                    "zh-hant": "一個功能豐富的入口，可以通過輕量級的Node.js Web應用程序與GPT-4、Claude、Gemini、Mistral和OpenAI助手API進行聊天；支持可定制的多模式，包括語音、圖片和文件。"
+                }
+            },
+            "https://github.com/ypwhs/creativechatglm": {
+                "repository_name": "CreativeChatGLM",
+                "user_name": "ypwhs",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "👋 欢迎来到 ChatGLM 创意世界！你可以使用修订和续写的功能来生成创意内容！",
+                "topics": [
+                    "chat",
+                    "chat-application",
+                    "chatbot",
+                    "chatglm",
+                    "chatglm2",
+                    "chatglm3",
+                    "chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "👋 Welcome to ChatGLM Creative World! You can use the revision and continuation functions to generate creative content!",
+                    "ja": "👋 ChatGLMの創造的な世界へようこそ！修正や継続書き機能を使って創造的なコンテンツを生成することができます！",
+                    "zh-hans": "👋 欢迎来到 ChatGLM 创意世界！你可以使用修订和续写的功能来生成创意内容！",
+                    "zh-hant": "👋 歡迎來到 ChatGLM 創意世界！你可以使用修訂和續寫的功能來生成創意內容！"
+                }
             }
         },
         "Browser-extensions": {
@@ -16955,6 +17010,28 @@
                     "ja": "ShareGPT4Videoの公式実装：より良いキャプションでビデオ理解と生成を向上させる",
                     "zh-hans": "ShareGPT4Video的官方实现：通过更好的字幕改进视频理解和生成",
                     "zh-hant": "ShareGPT4Video的官方實施：通過更好的字幕改進視頻理解和生成"
+                }
+            },
+            "https://github.com/affjljoo3581/gpt2": {
+                "repository_name": "GPT2",
+                "user_name": "affjljoo3581",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "PyTorch Implementation of OpenAI GPT-2",
+                "topics": [
+                    "gpt2",
+                    "language-model",
+                    "natural-language-generation",
+                    "natural-language-processing",
+                    "nlp",
+                    "pytorch",
+                    "transformer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "PyTorch Implementation of OpenAI GPT-2",
+                    "ja": "OpenAI GPT-2のPyTorch実装",
+                    "zh-hans": "PyTorch实现OpenAI GPT-2",
+                    "zh-hant": "PyTorch 實現 OpenAI GPT-2"
                 }
             }
         },
@@ -24714,6 +24791,30 @@
                     "zh-hans": "GPT Auth提供了一个用户友好的解决方案，可以快速设置oauth，用于您定制的GPT并自行托管。",
                     "zh-hant": "GPT Auth 提供了一個用戶友好的解決方案，可以快速設置您自定義的 GPT 和自行託管的 oauth。"
                 }
+            },
+            "https://github.com/buhe/langchain-swift": {
+                "repository_name": "langchain-swift",
+                "user_name": "buhe",
+                "language": "Swift",
+                "license": "Apache License 2.0",
+                "description": "🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "ios",
+                    "langchain",
+                    "llm",
+                    "macos",
+                    "swift",
+                    "visionos",
+                    "watchos"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)",
+                    "ja": "🚀 Swift用LangChain。iOS、macOS、watchOS（一部）およびvisionOS向けに最適化されています。（ベータ版）",
+                    "zh-hans": "🚀 为Swift优化的LangChain。针对iOS、macOS、watchOS（部分）和visionOS进行了优化。（测试版）",
+                    "zh-hant": "🚀 LangChain for Swift。針對iOS、macOS、watchOS（部分）和visionOS進行了優化。（beta）"
+                }
             }
         },
         "Unity": {
@@ -28674,6 +28775,39 @@
                     "ja": "GPTとtiktokenと一緒に使うための既製のトークナイザーライブラリ",
                     "zh-hans": "使用GPT和tiktoken的现成分词库",
                     "zh-hant": "使用GPT和tiktoken的现成分词库"
+                }
+            },
+            "https://github.com/guanguans/ai-commit": {
+                "repository_name": "ai-commit",
+                "user_name": "guanguans",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。",
+                "topics": [
+                    "ai",
+                    "bito",
+                    "changelog",
+                    "chat",
+                    "chatgpt",
+                    "commit",
+                    "commit-message",
+                    "commitizen",
+                    "commitlint",
+                    "conventional",
+                    "conventional-commit",
+                    "ernie",
+                    "ernie-bot",
+                    "git",
+                    "git-diff",
+                    "gpt",
+                    "keepachangelog",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。",
+                    "ja": "AIを使用して、従来のgitコミットメッセージを自動生成します。 - 使用 AI 自动生成约定式 git 提交信息。",
+                    "zh-hans": "使用 AI 自动化生成传统的 git 提 commit 信息。",
+                    "zh-hant": "使用 AI 自動生成傳統的 git 提交訊息。"
                 }
             }
         },
@@ -35924,6 +36058,41 @@
                     "ja": "ChatGPTにクロードの遺物機能を持ってきてください。",
                     "zh-hans": "将克劳德的文物功能带到ChatGPT",
                     "zh-hant": "將克勞德的文物功能帶到ChatGPT"
+                }
+            },
+            "https://github.com/protofy-xyz/protofy": {
+                "repository_name": "Protofy",
+                "user_name": "Protofy-xyz",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AI Supercharged LowCode Platform CMS and Framework 🚀🚀",
+                "topics": [
+                    "api",
+                    "backend",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "cms",
+                    "esphome",
+                    "express",
+                    "frontend",
+                    "full-stack",
+                    "fullstack",
+                    "iot",
+                    "leveldb",
+                    "low-code",
+                    "monorepo",
+                    "nextjs",
+                    "react",
+                    "reactjs",
+                    "redbird",
+                    "tamagui",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Supercharged LowCode Platform CMS and Framework 🚀🚀",
+                    "ja": "AI スーパーチャージド ローコードプラットフォーム CMS およびフレームワーク 🚀🚀",
+                    "zh-hans": "AI 强化的低代码平台 CMS 和框架 🚀🚀",
+                    "zh-hant": "AI 強化的 LowCode 平台 CMS 和框架 🚀🚀"
                 }
             }
         }

@@ -17,24 +17,27 @@
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Chatbots**
- * [voxelgpt](https://github.com/voxel51/voxelgpt) - 視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える
- * [XYBot](https://github.com/henryxiaoyang/xybot) - Dockerとpywxdllフックインジェクションを使用したWeChatボット🤖️！✅高度にカスタマイズ可能！ ✅自作プラグインのサポート！機能がたくさんあります：天気🌤️、ニュース取得📰、ChatGPTチャット🗣️、Hypixelプレイヤー検索🎮、ランダム画像📷、ランダムリンク🔗、ランダムグループメンバー👥、五目並べ♟️、サインイン✅、ポイント検索📊、ポイントランキング🏆、ポイント送信💰、ポイント抽選🎁、ポイントお年玉🧧など
+ * [GPTPortal](https://github.com/zaki-1052/gptportal) - 機能豊富なポータルを介して、軽量なNode.jsウェブアプリを使用してGPT-4、Claude、Gemini、Mistral、およびOpenAIアシスタントAPIとチャットするためのポータルを提供します。音声、画像、ファイルに対応したカスタマイズ可能なマルチモダリティをサポートしています。
+ * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 ChatGLMの創造的な世界へようこそ！修正や継続書き機能を使って創造的なコンテンツを生成することができます！
 
 
-**Browser-extensions**
- * [BrowserGPT](https://github.com/mayt/browsergpt) - GPTを使用してブラウザを操作します。
+**Reimplementations**
+ * [GPT2](https://github.com/affjljoo3581/gpt2) - OpenAI GPT-2のPyTorch実装
+
+
+**Langchain**
+ * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 Swift用LangChain。iOS、macOS、watchOS（一部）およびvisionOS向けに最適化されています。（ベータ版）
 
 
 **Openai**
- * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - GPTとtiktokenと一緒に使うための既製のトークナイザーライブラリ
+ * [ai-commit](https://github.com/guanguans/ai-commit) - AIを使用して、従来のgitコミットメッセージを自動生成します。 - 使用 AI 自动生成约定式 git 提交信息。
 
 
 **Others**
- * [vectorhub](https://github.com/guangzhengli/vectorhub) - 埋め込みを使用して、簡単かつ迅速にAIウェブサイトやアプリケーションを構築できます！
- * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - ChatGPTにクロードの遺物機能を持ってきてください。
+ * [Protofy](https://github.com/protofy-xyz/protofy) - AI スーパーチャージド ローコードプラットフォーム CMS およびフレームワーク 🚀🚀
 
 
-_Updated on July 04, 2024_ (A total of 1638 repositories listed.)
+_Updated on July 08, 2024_ (A total of 1644 repositories listed.)
 
 ## Table of contents
 
@@ -483,6 +486,8 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [GURU-Ai](https://github.com/guru322/guru-ai) - 機能満載のシンプルで複雑なAIチャットロボット🚩
  * [voxelgpt](https://github.com/voxel51/voxelgpt) - 視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える
  * [XYBot](https://github.com/henryxiaoyang/xybot) - Dockerとpywxdllフックインジェクションを使用したWeChatボット🤖️！✅高度にカスタマイズ可能！ ✅自作プラグインのサポート！機能がたくさんあります：天気🌤️、ニュース取得📰、ChatGPTチャット🗣️、Hypixelプレイヤー検索🎮、ランダム画像📷、ランダムリンク🔗、ランダムグループメンバー👥、五目並べ♟️、サインイン✅、ポイント検索📊、ポイントランキング🏆、ポイント送信💰、ポイント抽選🎁、ポイントお年玉🧧など
+ * [GPTPortal](https://github.com/zaki-1052/gptportal) - 機能豊富なポータルを介して、軽量なNode.jsウェブアプリを使用してGPT-4、Claude、Gemini、Mistral、およびOpenAIアシスタントAPIとチャットするためのポータルを提供します。音声、画像、ファイルに対応したカスタマイズ可能なマルチモダリティをサポートしています。
+ * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 ChatGLMの創造的な世界へようこそ！修正や継続書き機能を使って創造的なコンテンツを生成することができます！
 
 
 ## Browser-extensions
@@ -808,6 +813,7 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [kan-gpt](https://github.com/adityang/kan-gpt) - 言語モデリングのためのKolmogorov-Arnold Networks（KANs）を使用したGenerative Pre-trained Transformers（GPTs）のPyTorch実装PyTorchによるGenerative Pre-trained Transformers（GPTs）のKolmogorov-Arnold Networks（KANs）を使用した言語モデリングの実装
  * [TextRL](https://github.com/voidful/textrl) - huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Videoの公式実装：より良いキャプションでビデオ理解と生成を向上させる
+ * [GPT2](https://github.com/affjljoo3581/gpt2) - OpenAI GPT-2のPyTorch実装
 
 
 ## Tutorials
@@ -1173,6 +1179,7 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - LLMsのReactライブラリ
  * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 AIによる無料検索、💡 オープンソースのPerplexity、📍 Ollama/SearXNGのサポート、Dockerデプロイメントのサポート。AIモデルと検索エンジンがあなたの質問に答えることを可能にし、ローカルな大規模モデル(Ollama)や集約検索エンジンSearXNGをサポートし、Dockerデプロイメントをサポートします。
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Authは、カスタムGPT用のoauthを迅速にセットアップするためのユーザーフレンドリーなソリューションを提供します。
+ * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 Swift用LangChain。iOS、macOS、watchOS（一部）およびvisionOS向けに最適化されています。（ベータ版）
 
 
 ## Unity
@@ -1361,6 +1368,7 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [celeris-web](https://github.com/kirklin/celeris-web) - Input: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。 Output: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。
  * [liboai](https://github.com/d7ead/liboai) - OpenAI API全体にアクセスするためのC++17ライブラリ。
  * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - GPTとtiktokenと一緒に使うための既製のトークナイザーライブラリ
+ * [ai-commit](https://github.com/guanguans/ai-commit) - AIを使用して、従来のgitコミットメッセージを自動生成します。 - 使用 AI 自动生成约定式 git 提交信息。
 
 
 ## Others
@@ -1747,5 +1755,6 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [gptpdf](https://github.com/cosmosshadow/gptpdf) - PDFを解析するためにGPTを使用します。
  * [vectorhub](https://github.com/guangzhengli/vectorhub) - 埋め込みを使用して、簡単かつ迅速にAIウェブサイトやアプリケーションを構築できます！
  * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - ChatGPTにクロードの遺物機能を持ってきてください。
+ * [Protofy](https://github.com/protofy-xyz/protofy) - AI スーパーチャージド ローコードプラットフォーム CMS およびフレームワーク 🚀🚀
 
 
