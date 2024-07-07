@@ -17,24 +17,27 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Chatbots**
- * [voxelgpt](https://github.com/voxel51/voxelgpt) - AI assistant that can query visual datasets, search the FiftyOne docs, and answer general computer vision questions
- * [XYBot](https://github.com/henryxiaoyang/xybot) - 基于docker和pywxdll hook注入的微信机器人🤖️！✅高度可自定义！ ✅支持自我编写插件！非常多的功能：天气🌤️、获取新闻📰、ChatGPT聊天🗣️、Hypixel玩家查询🎮、随机图片📷、随机链接🔗、随机群成员👥、五子棋♟️、签到✅、查询积分📊、积分榜🏆、积分转送💰、积分抽奖🎁、积分红包🧧等
+ * [GPTPortal](https://github.com/zaki-1052/gptportal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
+ * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 欢迎来到 ChatGLM 创意世界！你可以使用修订和续写的功能来生成创意内容！
 
 
-**Browser-extensions**
- * [BrowserGPT](https://github.com/mayt/browsergpt) - Command your browser with GPT
+**Reimplementations**
+ * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch Implementation of OpenAI GPT-2
+
+
+**Langchain**
+ * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)
 
 
 **Openai**
- * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - Ready-made tokenizer library for working with GPT and tiktoken
+ * [ai-commit](https://github.com/guanguans/ai-commit) - Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
 
 
 **Others**
- * [vectorhub](https://github.com/guangzhengli/vectorhub) - Quickly and easily build AI website or application by using embeddings!
- * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
+ * [Protofy](https://github.com/protofy-xyz/protofy) - AI Supercharged LowCode Platform CMS and Framework 🚀🚀
 
 
-_Updated on July 04, 2024_ (A total of 1638 repositories listed.)
+_Updated on July 08, 2024_ (A total of 1644 repositories listed.)
 
 ## Table of contents
 
@@ -483,6 +486,8 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [GURU-Ai](https://github.com/guru322/guru-ai) - A SIMPLE YET COMPLICATED AI Chat Robot LOADED WITH FEATURES🚩
  * [voxelgpt](https://github.com/voxel51/voxelgpt) - AI assistant that can query visual datasets, search the FiftyOne docs, and answer general computer vision questions
  * [XYBot](https://github.com/henryxiaoyang/xybot) - 基于docker和pywxdll hook注入的微信机器人🤖️！✅高度可自定义！ ✅支持自我编写插件！非常多的功能：天气🌤️、获取新闻📰、ChatGPT聊天🗣️、Hypixel玩家查询🎮、随机图片📷、随机链接🔗、随机群成员👥、五子棋♟️、签到✅、查询积分📊、积分榜🏆、积分转送💰、积分抽奖🎁、积分红包🧧等
+ * [GPTPortal](https://github.com/zaki-1052/gptportal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
+ * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 欢迎来到 ChatGLM 创意世界！你可以使用修订和续写的功能来生成创意内容！
 
 
 ## Browser-extensions
@@ -808,6 +813,7 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [kan-gpt](https://github.com/adityang/kan-gpt) - The PyTorch implementation of Generative Pre-trained Transformers (GPTs) using Kolmogorov-Arnold Networks (KANs) for language modeling
  * [TextRL](https://github.com/voidful/textrl) - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - An official implementation of ShareGPT4Video: Improving Video Understanding and Generation with Better Captions
+ * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch Implementation of OpenAI GPT-2
 
 
 ## Tutorials
@@ -1173,6 +1179,7 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - The React library for LLMs
  * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth provides a user-friendly solution to quickly setup oauth for your custom GPT and self-host it.
+ * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)
 
 
 ## Unity
@@ -1361,6 +1368,7 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web is a highly performant and customizable front-end development template built with Vue 3, Vite, and TypeScript. It features the latest syntax, components and APIs auto importing, state management, Chinese font presets, internationalization, and integration with OpenAI's ChatGPT API.
  * [liboai](https://github.com/d7ead/liboai) - A C++17 library to access the entire OpenAI API.
  * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - Ready-made tokenizer library for working with GPT and tiktoken
+ * [ai-commit](https://github.com/guanguans/ai-commit) - Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
 
 
 ## Others
@@ -1747,5 +1755,6 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [gptpdf](https://github.com/cosmosshadow/gptpdf) - Using GPT to parse PDF
  * [vectorhub](https://github.com/guangzhengli/vectorhub) - Quickly and easily build AI website or application by using embeddings!
  * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
+ * [Protofy](https://github.com/protofy-xyz/protofy) - AI Supercharged LowCode Platform CMS and Framework 🚀🚀
 
 

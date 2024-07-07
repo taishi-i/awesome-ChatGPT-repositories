@@ -17,24 +17,27 @@
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Chatbots**
- * [voxelgpt](https://github.com/voxel51/voxelgpt) - 能夠查詢視覺數據集、搜索FiftyOne文檔並回答一般計算機視覺問題的AI助手
- * [XYBot](https://github.com/henryxiaoyang/xybot) - 基於docker和pywxdll hook注入的微信機器人🤖️！✅高度可自定義！ ✅支持自我編寫插件！非常多的功能：天氣🌤️、獲取新聞📰、ChatGPT聊天🗣️、Hypixel玩家查詢🎮、隨機圖片📷、隨機鏈接🔗、隨機群成員👥、五子棋♟️、簽到✅、查詢積分📊、積分榜🏆、積分轉送💰、積分抽獎🎁、積分紅包🧧等
+ * [GPTPortal](https://github.com/zaki-1052/gptportal) - 一個功能豐富的入口，可以通過輕量級的Node.js Web應用程序與GPT-4、Claude、Gemini、Mistral和OpenAI助手API進行聊天；支持可定制的多模式，包括語音、圖片和文件。
+ * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 歡迎來到 ChatGLM 創意世界！你可以使用修訂和續寫的功能來生成創意內容！
 
 
-**Browser-extensions**
- * [BrowserGPT](https://github.com/mayt/browsergpt) - 使用GPT指令控制您的瀏覽器
+**Reimplementations**
+ * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch 實現 OpenAI GPT-2
+
+
+**Langchain**
+ * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift。針對iOS、macOS、watchOS（部分）和visionOS進行了優化。（beta）
 
 
 **Openai**
- * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - 使用GPT和tiktoken的现成分词库
+ * [ai-commit](https://github.com/guanguans/ai-commit) - 使用 AI 自動生成傳統的 git 提交訊息。
 
 
 **Others**
- * [vectorhub](https://github.com/guangzhengli/vectorhub) - 快速且輕鬆地使用嵌入式技術來建立人工智慧網站或應用程式！
- * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - 將克勞德的文物功能帶到ChatGPT
+ * [Protofy](https://github.com/protofy-xyz/protofy) - AI 強化的 LowCode 平台 CMS 和框架 🚀🚀
 
 
-_Updated on July 04, 2024_ (A total of 1638 repositories listed.)
+_Updated on July 08, 2024_ (A total of 1644 repositories listed.)
 
 ## Table of contents
 
@@ -483,6 +486,8 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [GURU-Ai](https://github.com/guru322/guru-ai) - 一個簡單但複雜的AI聊天機器人，擁有豐富的功能🚩
  * [voxelgpt](https://github.com/voxel51/voxelgpt) - 能夠查詢視覺數據集、搜索FiftyOne文檔並回答一般計算機視覺問題的AI助手
  * [XYBot](https://github.com/henryxiaoyang/xybot) - 基於docker和pywxdll hook注入的微信機器人🤖️！✅高度可自定義！ ✅支持自我編寫插件！非常多的功能：天氣🌤️、獲取新聞📰、ChatGPT聊天🗣️、Hypixel玩家查詢🎮、隨機圖片📷、隨機鏈接🔗、隨機群成員👥、五子棋♟️、簽到✅、查詢積分📊、積分榜🏆、積分轉送💰、積分抽獎🎁、積分紅包🧧等
+ * [GPTPortal](https://github.com/zaki-1052/gptportal) - 一個功能豐富的入口，可以通過輕量級的Node.js Web應用程序與GPT-4、Claude、Gemini、Mistral和OpenAI助手API進行聊天；支持可定制的多模式，包括語音、圖片和文件。
+ * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 歡迎來到 ChatGLM 創意世界！你可以使用修訂和續寫的功能來生成創意內容！
 
 
 ## Browser-extensions
@@ -808,6 +813,7 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [kan-gpt](https://github.com/adityang/kan-gpt) - 使用 Kolmogorov-Arnold 網絡 (KANs) 實現的 PyTorch 生成式預訓練變換器 (GPTs) 用於語言建模
  * [TextRL](https://github.com/voidful/textrl) - 在huggingface的transformer上實現ChatGPT RLHF（Reinforcement Learning with Human Feedback）在任何生成模型上的應用（blommz-176B/bloom/gpt/bart/T5/MetaICL）
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Video的官方實施：通過更好的字幕改進視頻理解和生成
+ * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch 實現 OpenAI GPT-2
 
 
 ## Tutorials
@@ -1173,6 +1179,7 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [llm-ui](https://github.com/llm-ui-kit/llm-ui) - 用於LLMs的React庫
  * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 免費AI搜索，💡 開源困惑度，📍 支持Ollama/SearXNG，支持Docker部署。 讓AI大模型和搜索引擎回答你的問題，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一鍵部署。
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth 提供了一個用戶友好的解決方案，可以快速設置您自定義的 GPT 和自行託管的 oauth。
+ * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift。針對iOS、macOS、watchOS（部分）和visionOS進行了優化。（beta）
 
 
 ## Unity
@@ -1361,6 +1368,7 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [celeris-web](https://github.com/kirklin/celeris-web) - Celeris Web 是一個使用 Vue 3、Vite 和 TypeScript 構建的高性能和可定制的前端開發模板。它具有最新的語法、組件和 API 自動導入、狀態管理、中文字體預設、國際化等功能。
  * [liboai](https://github.com/d7ead/liboai) - 一個用於訪問整個OpenAI API的C++17庫。
  * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - 使用GPT和tiktoken的现成分词库
+ * [ai-commit](https://github.com/guanguans/ai-commit) - 使用 AI 自動生成傳統的 git 提交訊息。
 
 
 ## Others
@@ -1747,5 +1755,6 @@ _Updated on July 04, 2024_ (A total of 1638 repositories listed.)
  * [gptpdf](https://github.com/cosmosshadow/gptpdf) - 使用GPT解析PDF
  * [vectorhub](https://github.com/guangzhengli/vectorhub) - 快速且輕鬆地使用嵌入式技術來建立人工智慧網站或應用程式！
  * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - 將克勞德的文物功能帶到ChatGPT
+ * [Protofy](https://github.com/protofy-xyz/protofy) - AI 強化的 LowCode 平台 CMS 和框架 🚀🚀
 
 
