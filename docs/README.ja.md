@@ -17,27 +17,25 @@
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Chatbots**
- * [GPTPortal](https://github.com/zaki-1052/gptportal) - 機能豊富なポータルを介して、軽量なNode.jsウェブアプリを使用してGPT-4、Claude、Gemini、Mistral、およびOpenAIアシスタントAPIとチャットするためのポータルを提供します。音声、画像、ファイルに対応したカスタマイズ可能なマルチモダリティをサポートしています。
- * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 ChatGLMの創造的な世界へようこそ！修正や継続書き機能を使って創造的なコンテンツを生成することができます！
+ * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: AgentChatの会話を実現し、Google検索、ファイルURL会話（RAG）、コード解釈機能をサポートし、Kimi Chat（ファイル、ドラッグアンドドロップ；URL、送信）を再現しました。
 
 
-**Reimplementations**
- * [GPT2](https://github.com/affjljoo3581/gpt2) - OpenAI GPT-2のPyTorch実装
+**Browser-extensions**
+ * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - Visual Studioに直接chatGPT機能を追加します。
+ * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—Python向けの信頼性の高いクローラーを構築するためのWebスクレイピングおよびブラウザ自動化ライブラリ。AI、LLMs、RAG、またはGPTs向けのデータを抽出します。ウェブサイトからHTML、PDF、JPG、PNGなどのファイルをダウンロードします。BeautifulSoup、Playwright、および生のHTTPと連携します。両方のヘッドで動作します。
 
 
-**Langchain**
- * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 Swift用LangChain。iOS、macOS、watchOS（一部）およびvisionOS向けに最適化されています。（ベータ版）
-
-
-**Openai**
- * [ai-commit](https://github.com/guanguans/ai-commit) - AIを使用して、従来のgitコミットメッセージを自動生成します。 - 使用 AI 自动生成约定式 git 提交信息。
+**NLP**
+ * [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - エンドツーエンドのAIアンカーモジュール、現在はbilibiliライブルームとの接続をサポートし、ローカルchatglm3とZhipu API言語モデルをサポートし、so-vits-svc、gpt-sovits、およびbert-vits2音声モデルをサポートしています。
+ * [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - 事前にトレーニングされた基礎推薦モデルの紙リスト
 
 
 **Others**
- * [Protofy](https://github.com/protofy-xyz/protofy) - AI スーパーチャージド ローコードプラットフォーム CMS およびフレームワーク 🚀🚀
+ * [go2coding.github.io](https://github.com/go2coding/go2coding.github.io) - AIツールナビゲーション、無料のchatgpt、chatgpt4、midjourney、notion ai、tome.app
+ * [chatgpt](https://github.com/putyy/chatgpt) - uniapp、hyperf MineAdmin で実装された chatgptアプリ、小プログラム、h5、アプリをサポートしています！
 
 
-_Updated on July 08, 2024_ (A total of 1644 repositories listed.)
+_Updated on July 12, 2024_ (A total of 1651 repositories listed.)
 
 ## Table of contents
 
@@ -488,6 +486,7 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [XYBot](https://github.com/henryxiaoyang/xybot) - Dockerとpywxdllフックインジェクションを使用したWeChatボット🤖️！✅高度にカスタマイズ可能！ ✅自作プラグインのサポート！機能がたくさんあります：天気🌤️、ニュース取得📰、ChatGPTチャット🗣️、Hypixelプレイヤー検索🎮、ランダム画像📷、ランダムリンク🔗、ランダムグループメンバー👥、五目並べ♟️、サインイン✅、ポイント検索📊、ポイントランキング🏆、ポイント送信💰、ポイント抽選🎁、ポイントお年玉🧧など
  * [GPTPortal](https://github.com/zaki-1052/gptportal) - 機能豊富なポータルを介して、軽量なNode.jsウェブアプリを使用してGPT-4、Claude、Gemini、Mistral、およびOpenAIアシスタントAPIとチャットするためのポータルを提供します。音声、画像、ファイルに対応したカスタマイズ可能なマルチモダリティをサポートしています。
  * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 ChatGLMの創造的な世界へようこそ！修正や継続書き機能を使って創造的なコンテンツを生成することができます！
+ * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: AgentChatの会話を実現し、Google検索、ファイルURL会話（RAG）、コード解釈機能をサポートし、Kimi Chat（ファイル、ドラッグアンドドロップ；URL、送信）を再現しました。
 
 
 ## Browser-extensions
@@ -662,6 +661,8 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 簡単な方法で単語を検索したりテキストを翻訳するためのRaycast拡張機能。48以上の言語をサポートし、LingueeやYoudao辞書をサポートし、OpenAI、DeepL、Google、Bing、Apple、Baidu、Tencent、Volcano、Youdao、Caiyunの翻訳をサポートしています。
  * [model.nvim](https://github.com/gsuuon/model.nvim) - LLMとエディター統合プロンプトとのやり取りを行うためのNeovimプラグイン
  * [BrowserGPT](https://github.com/mayt/browsergpt) - GPTを使用してブラウザを操作します。
+ * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - Visual Studioに直接chatGPT機能を追加します。
+ * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—Python向けの信頼性の高いクローラーを構築するためのWebスクレイピングおよびブラウザ自動化ライブラリ。AI、LLMs、RAG、またはGPTs向けのデータを抽出します。ウェブサイトからHTML、PDF、JPG、PNGなどのファイルをダウンロードします。BeautifulSoup、Playwright、および生のHTTPと連携します。両方のヘッドで動作します。
 
 
 ## CLIs
@@ -1080,6 +1081,8 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 スポットライト]（GPT-4V / Gemini-Pro / Qwen-VL-Plus + 16 OS MLLMs）低レベルビジョンと視覚品質評価におけるマルチモダリティLLM（MLLM）のベンチマーク。
  * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - ローコードツール、ChatGPTおよびその他のLLMをサポート
  * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - 華陀GPT2、LLMsの医療適応のためのワンステージトレーニング（オープン医療GPT）
+ * [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - エンドツーエンドのAIアンカーモジュール、現在はbilibiliライブルームとの接続をサポートし、ローカルchatglm3とZhipu API言語モデルをサポートし、so-vits-svc、gpt-sovits、およびbert-vits2音声モデルをサポートしています。
+ * [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - 事前にトレーニングされた基礎推薦モデルの紙リスト
 
 
 ## Langchain
@@ -1756,5 +1759,7 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [vectorhub](https://github.com/guangzhengli/vectorhub) - 埋め込みを使用して、簡単かつ迅速にAIウェブサイトやアプリケーションを構築できます！
  * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - ChatGPTにクロードの遺物機能を持ってきてください。
  * [Protofy](https://github.com/protofy-xyz/protofy) - AI スーパーチャージド ローコードプラットフォーム CMS およびフレームワーク 🚀🚀
+ * [go2coding.github.io](https://github.com/go2coding/go2coding.github.io) - AIツールナビゲーション、無料のchatgpt、chatgpt4、midjourney、notion ai、tome.app
+ * [chatgpt](https://github.com/putyy/chatgpt) - uniapp、hyperf MineAdmin で実装された chatgptアプリ、小プログラム、h5、アプリをサポートしています！
 
 

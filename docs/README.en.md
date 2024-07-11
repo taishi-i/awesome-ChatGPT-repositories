@@ -17,27 +17,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Chatbots**
- * [GPTPortal](https://github.com/zaki-1052/gptportal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
- * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 Welcome to ChatGLM Creative World! You can use the revision and continuation functions to generate creative content!
+ * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: Implement AgentChat conversation, support Google search, file URL conversation (RAG), code interpreter function, and reproduce Kimi Chat (file, drag in; URL, send out).
 
 
-**Reimplementations**
- * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch Implementation of OpenAI GPT-2
+**Browser-extensions**
+ * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - Add chatGPT functionalities directly on Visual Studio
+ * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both head
 
 
-**Langchain**
- * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)
-
-
-**Openai**
- * [ai-commit](https://github.com/guanguans/ai-commit) - Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
+**NLP**
+ * [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - An end-to-end AI anchor customization module, currently supporting integration with Bilibili live rooms, supporting local chatglm3 and Zhifu API language models, and supporting so-vits-svc, gpt-sovits, and bert-vits2 voice models.
+ * [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - Paper List of Pre-trained Foundation Recommender Models
 
 
 **Others**
- * [Protofy](https://github.com/protofy-xyz/protofy) - AI Supercharged LowCode Platform CMS and Framework 🚀🚀
+ * [go2coding.github.io](https://github.com/go2coding/go2coding.github.io) - AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app
+ * [chatgpt](https://github.com/putyy/chatgpt) - uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！
 
 
-_Updated on July 08, 2024_ (A total of 1644 repositories listed.)
+_Updated on July 12, 2024_ (A total of 1651 repositories listed.)
 
 ## Table of contents
 
@@ -488,6 +486,7 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [XYBot](https://github.com/henryxiaoyang/xybot) - WeChat robot based on docker and pywxdll hook injection! ✅ Highly customizable! ✅ Supports self-written plugins! Many functions: weather 🌤️, get news 📰, ChatGPT chat 🗣️, Hypixel player query 🎮, random pictures 📷, random links 🔗, random group members 👥, Gomoku ♟️, check-in ✅, check points 📊, points leaderboard 🏆, points transfer 💰, points lottery 🎁, points red envelope 🧧, etc.
  * [GPTPortal](https://github.com/zaki-1052/gptportal) - A feature-rich portal to chat with GPT-4, Claude, Gemini, Mistral, & OpenAI Assistant APIs via a lightweight Node.js web app; supports customizable multimodality for voice, images, & files.
  * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 Welcome to ChatGLM Creative World! You can use the revision and continuation functions to generate creative content!
+ * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: Implement AgentChat conversation, support Google search, file URL conversation (RAG), code interpreter function, and reproduce Kimi Chat (file, drag in; URL, send out).
 
 
 ## Browser-extensions
@@ -662,6 +661,8 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - A Raycast Extension for looking up words or translating text in an easy way. Support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation.
  * [model.nvim](https://github.com/gsuuon/model.nvim) - Neovim plugin for interacting with LLM's and building editor integrated prompts.
  * [BrowserGPT](https://github.com/mayt/browsergpt) - Command your browser with GPT
+ * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - Add chatGPT functionalities directly on Visual Studio
+ * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both head
 
 
 ## CLIs
@@ -1080,6 +1081,8 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment.
  * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - lowcode tool, support ChatGPT and other LLM
  * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - HuatuoGPT2, One-stage Training for Medical Adaption of LLMs. (An Open Medical GPT)
+ * [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - An end-to-end AI anchor customization module, currently supporting integration with Bilibili live rooms, supporting local chatglm3 and Zhifu API language models, and supporting so-vits-svc, gpt-sovits, and bert-vits2 voice models.
+ * [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - Paper List of Pre-trained Foundation Recommender Models
 
 
 ## Langchain
@@ -1756,5 +1759,7 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [vectorhub](https://github.com/guangzhengli/vectorhub) - Quickly and easily build AI website or application by using embeddings!
  * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - Bring Claude's Artifacts feature to ChatGPT
  * [Protofy](https://github.com/protofy-xyz/protofy) - AI Supercharged LowCode Platform CMS and Framework 🚀🚀
+ * [go2coding.github.io](https://github.com/go2coding/go2coding.github.io) - AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app
+ * [chatgpt](https://github.com/putyy/chatgpt) - uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！
 
 
