@@ -17,27 +17,25 @@
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
 **Chatbots**
- * [GPTPortal](https://github.com/zaki-1052/gptportal) - 一個功能豐富的入口，可以通過輕量級的Node.js Web應用程序與GPT-4、Claude、Gemini、Mistral和OpenAI助手API進行聊天；支持可定制的多模式，包括語音、圖片和文件。
- * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 歡迎來到 ChatGLM 創意世界！你可以使用修訂和續寫的功能來生成創意內容！
+ * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: 實現AgentChat對話，支持Google搜索、文件網址對話（RAG）、代碼解釋器功能，復現了Kimi Chat(文件，拖進來；網址，發出來)。
 
 
-**Reimplementations**
- * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch 實現 OpenAI GPT-2
+**Browser-extensions**
+ * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - 將chatGPT功能直接添加到Visual Studio
+ * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee-一個用於Python的網頁爬蟲和瀏覽器自動化庫，用於構建可靠的爬蟲。從網站提取數據，用於AI、LLMs、RAG或GPTs。從網站下載HTML、PDF、JPG、PNG和其他文件。與BeautifulSoup、Playwright和原始HTTP一起使用。支持headless模式。
 
 
-**Langchain**
- * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift。針對iOS、macOS、watchOS（部分）和visionOS進行了優化。（beta）
-
-
-**Openai**
- * [ai-commit](https://github.com/guanguans/ai-commit) - 使用 AI 自動生成傳統的 git 提交訊息。
+**NLP**
+ * [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - 一個端到端的AI主播定制模塊，當前支持對接b站直播間，支持本地chatglm3和智譜api語言模型，支持so-vits-svc、gpt-sovits和bert-vits2語音模型。
+ * [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - 預先訓練的基礎推薦模型紙張清單
 
 
 **Others**
- * [Protofy](https://github.com/protofy-xyz/protofy) - AI 強化的 LowCode 平台 CMS 和框架 🚀🚀
+ * [go2coding.github.io](https://github.com/go2coding/go2coding.github.io) - AI工具導航，免費chatgpt，chatgpt4，midjourney，notion ai，tome.app
+ * [chatgpt](https://github.com/putyy/chatgpt) - Input: uniapp、hyperf MineAdmin 實現的 chatgpt應用，支持小程序、h5、app！Output: uniapp、hyperf MineAdmin 實現的 chatgpt應用，支持小程序、h5、app！
 
 
-_Updated on July 08, 2024_ (A total of 1644 repositories listed.)
+_Updated on July 12, 2024_ (A total of 1651 repositories listed.)
 
 ## Table of contents
 
@@ -488,6 +486,7 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [XYBot](https://github.com/henryxiaoyang/xybot) - 基於docker和pywxdll hook注入的微信機器人🤖️！✅高度可自定義！ ✅支持自我編寫插件！非常多的功能：天氣🌤️、獲取新聞📰、ChatGPT聊天🗣️、Hypixel玩家查詢🎮、隨機圖片📷、隨機鏈接🔗、隨機群成員👥、五子棋♟️、簽到✅、查詢積分📊、積分榜🏆、積分轉送💰、積分抽獎🎁、積分紅包🧧等
  * [GPTPortal](https://github.com/zaki-1052/gptportal) - 一個功能豐富的入口，可以通過輕量級的Node.js Web應用程序與GPT-4、Claude、Gemini、Mistral和OpenAI助手API進行聊天；支持可定制的多模式，包括語音、圖片和文件。
  * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 歡迎來到 ChatGLM 創意世界！你可以使用修訂和續寫的功能來生成創意內容！
+ * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: 實現AgentChat對話，支持Google搜索、文件網址對話（RAG）、代碼解釋器功能，復現了Kimi Chat(文件，拖進來；網址，發出來)。
 
 
 ## Browser-extensions
@@ -662,6 +661,8 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - 一個用於輕鬆查詞或翻譯文本的Raycast擴展。支持48種以上語言，支持Linguee和Youdao詞典，支持OpenAI、DeepL、Google、Bing、蘋果、百度、騰訊、火山、有道和彩雲翻譯。
  * [model.nvim](https://github.com/gsuuon/model.nvim) - Neovim插件，用於與LLM互動並構建編輯器集成提示。
  * [BrowserGPT](https://github.com/mayt/browsergpt) - 使用GPT指令控制您的瀏覽器
+ * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - 將chatGPT功能直接添加到Visual Studio
+ * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee-一個用於Python的網頁爬蟲和瀏覽器自動化庫，用於構建可靠的爬蟲。從網站提取數據，用於AI、LLMs、RAG或GPTs。從網站下載HTML、PDF、JPG、PNG和其他文件。與BeautifulSoup、Playwright和原始HTTP一起使用。支持headless模式。
 
 
 ## CLIs
@@ -1080,6 +1081,8 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [Q-Bench](https://github.com/q-future/q-bench) - ①[ICLR2024 焦點] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) 低層次視覺和視覺質量評估的多模式LLMs（MLLMs）基準。
  * [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - 低代碼工具，支持ChatGPT和其他LLM
  * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - 華陀GPT2，醫學LLM的一階段訓練。 （一個開放的醫學GPT）
+ * [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - 一個端到端的AI主播定制模塊，當前支持對接b站直播間，支持本地chatglm3和智譜api語言模型，支持so-vits-svc、gpt-sovits和bert-vits2語音模型。
+ * [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - 預先訓練的基礎推薦模型紙張清單
 
 
 ## Langchain
@@ -1756,5 +1759,7 @@ _Updated on July 08, 2024_ (A total of 1644 repositories listed.)
  * [vectorhub](https://github.com/guangzhengli/vectorhub) - 快速且輕鬆地使用嵌入式技術來建立人工智慧網站或應用程式！
  * [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - 將克勞德的文物功能帶到ChatGPT
  * [Protofy](https://github.com/protofy-xyz/protofy) - AI 強化的 LowCode 平台 CMS 和框架 🚀🚀
+ * [go2coding.github.io](https://github.com/go2coding/go2coding.github.io) - AI工具導航，免費chatgpt，chatgpt4，midjourney，notion ai，tome.app
+ * [chatgpt](https://github.com/putyy/chatgpt) - Input: uniapp、hyperf MineAdmin 實現的 chatgpt應用，支持小程序、h5、app！Output: uniapp、hyperf MineAdmin 實現的 chatgpt應用，支持小程序、h5、app！
 
 

@@ -10057,6 +10057,30 @@
                     "zh-hans": "👋 欢迎来到 ChatGLM 创意世界！你可以使用修订和续写的功能来生成创意内容！",
                     "zh-hant": "👋 歡迎來到 ChatGLM 創意世界！你可以使用修訂和續寫的功能來生成創意內容！"
                 }
+            },
+            "https://github.com/shibing624/chatpilot": {
+                "repository_name": "ChatPilot",
+                "user_name": "shibing624",
+                "language": "Svelte",
+                "license": "Apache License 2.0",
+                "description": "ChatPilot: 实现AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。",
+                "topics": [
+                    "agent",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "chatpdf",
+                    "chatpilot",
+                    "kimi",
+                    "langchain",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatPilot: Implement AgentChat conversation, support Google search, file URL conversation (RAG), code interpreter function, and reproduce Kimi Chat (file, drag in; URL, send out).",
+                    "ja": "ChatPilot: AgentChatの会話を実現し、Google検索、ファイルURL会話（RAG）、コード解釈機能をサポートし、Kimi Chat（ファイル、ドラッグアンドドロップ；URL、送信）を再現しました。",
+                    "zh-hans": "ChatPilot: 实现AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。",
+                    "zh-hant": "ChatPilot: 實現AgentChat對話，支持Google搜索、文件網址對話（RAG）、代碼解釋器功能，復現了Kimi Chat(文件，拖進來；網址，發出來)。"
+                }
             }
         },
         "Browser-extensions": {
@@ -13828,6 +13852,55 @@
                     "ja": "GPTを使用してブラウザを操作します。",
                     "zh-hans": "用GPT指挥您的浏览器",
                     "zh-hant": "使用GPT指令控制您的瀏覽器"
+                }
+            },
+            "https://github.com/jeffdapaz/visualchatgptstudio": {
+                "repository_name": "VisualChatGPTStudio",
+                "user_name": "jeffdapaz",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "Add chatGPT functionalities directly on Visual Studio",
+                "topics": [
+                    "chatgpt",
+                    "extension",
+                    "openai",
+                    "visual-studio"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Add chatGPT functionalities directly on Visual Studio",
+                    "ja": "Visual Studioに直接chatGPT機能を追加します。",
+                    "zh-hans": "在Visual Studio上直接添加chatGPT功能",
+                    "zh-hant": "將chatGPT功能直接添加到Visual Studio"
+                }
+            },
+            "https://github.com/apify/crawlee-python": {
+                "repository_name": "crawlee-python",
+                "user_name": "apify",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+                "topics": [
+                    "apify",
+                    "automation",
+                    "beautifulsoup",
+                    "crawler",
+                    "crawling",
+                    "headless",
+                    "headless-chrome",
+                    "pip",
+                    "playwright",
+                    "python",
+                    "scraper",
+                    "scraping",
+                    "web-crawler",
+                    "web-crawling",
+                    "web-scraping"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both head",
+                    "ja": "Crawlee—Python向けの信頼性の高いクローラーを構築するためのWebスクレイピングおよびブラウザ自動化ライブラリ。AI、LLMs、RAG、またはGPTs向けのデータを抽出します。ウェブサイトからHTML、PDF、JPG、PNGなどのファイルをダウンロードします。BeautifulSoup、Playwright、および生のHTTPと連携します。両方のヘッドで動作します。",
+                    "zh-hans": "Crawlee - 一个用于Python的网络爬虫和浏览器自动化库，用于构建可靠的爬虫。提取数据用于AI、LLMs、RAG或GPTs。从网站下载HTML、PDF、JPG、PNG和其他文件。与BeautifulSoup、Playwright和原始HTTP一起使用。支持头部。",
+                    "zh-hant": "Crawlee-一個用於Python的網頁爬蟲和瀏覽器自動化庫，用於構建可靠的爬蟲。從網站提取數據，用於AI、LLMs、RAG或GPTs。從網站下載HTML、PDF、JPG、PNG和其他文件。與BeautifulSoup、Playwright和原始HTTP一起使用。支持headless模式。"
                 }
             }
         },
@@ -22546,6 +22619,55 @@
                     "ja": "華陀GPT2、LLMsの医療適応のためのワンステージトレーニング（オープン医療GPT）",
                     "zh-hans": "华陀GPT2，医学适应LLMs的一阶段训练。（一个开放的医学GPT）",
                     "zh-hant": "華陀GPT2，醫學LLM的一階段訓練。 （一個開放的醫學GPT）"
+                }
+            },
+            "https://github.com/whoiswennie/ai-vtuber": {
+                "repository_name": "AI-Vtuber",
+                "user_name": "whoiswennie",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "一个端到端的AI主播定制模块，当前支持对接b站直播间，支持本地chatglm3和智谱api语言模型，支持so-vits-svc、gpt-sovits和bert-vits2语音模型。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An end-to-end AI anchor customization module, currently supporting integration with Bilibili live rooms, supporting local chatglm3 and Zhifu API language models, and supporting so-vits-svc, gpt-sovits, and bert-vits2 voice models.",
+                    "ja": "エンドツーエンドのAIアンカーモジュール、現在はbilibiliライブルームとの接続をサポートし、ローカルchatglm3とZhipu API言語モデルをサポートし、so-vits-svc、gpt-sovits、およびbert-vits2音声モデルをサポートしています。",
+                    "zh-hans": "一个端到端的AI主播定制模块，当前支持对接b站直播间，支持本地chatglm3和智谱api语言模型，支持so-vits-svc、gpt-sovits和bert-vits2语音模型。",
+                    "zh-hant": "一個端到端的AI主播定制模塊，當前支持對接b站直播間，支持本地chatglm3和智譜api語言模型，支持so-vits-svc、gpt-sovits和bert-vits2語音模型。"
+                }
+            },
+            "https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review": {
+                "repository_name": "Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review",
+                "user_name": "westlake-repl",
+                "language": null,
+                "license": null,
+                "description": "Paper List of Pre-trained Foundation Recommender Models",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt3",
+                    "chatgpt4rec",
+                    "cross-domain-recommendation",
+                    "cross-domainrecommendation",
+                    "foundation-model",
+                    "gpt4rec",
+                    "language-model",
+                    "large-language-model",
+                    "llm",
+                    "llm-recommendation",
+                    "llm4rec",
+                    "multimodal",
+                    "multimodal-deep-learning",
+                    "multimodalrecommendation",
+                    "pre-training",
+                    "recommendation-system",
+                    "recommender-system",
+                    "transfer-learning",
+                    "transferable"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Paper List of Pre-trained Foundation Recommender Models",
+                    "ja": "事前にトレーニングされた基礎推薦モデルの紙リスト",
+                    "zh-hans": "预训练基础推荐模型纸质清单",
+                    "zh-hant": "預先訓練的基礎推薦模型紙張清單"
                 }
             }
         },
@@ -36093,6 +36215,36 @@
                     "ja": "AI スーパーチャージド ローコードプラットフォーム CMS およびフレームワーク 🚀🚀",
                     "zh-hans": "AI 强化的低代码平台 CMS 和框架 🚀🚀",
                     "zh-hant": "AI 強化的 LowCode 平台 CMS 和框架 🚀🚀"
+                }
+            },
+            "https://github.com/go2coding/go2coding.github.io": {
+                "repository_name": "go2coding.github.io",
+                "user_name": "go2coding",
+                "language": "HTML",
+                "license": null,
+                "description": "AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+                "topics": [
+                    "chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+                    "ja": "AIツールナビゲーション、無料のchatgpt、chatgpt4、midjourney、notion ai、tome.app",
+                    "zh-hans": "AI工具导航，免费chatgpt，chatgpt4，midjourney，notion ai，tome.app",
+                    "zh-hant": "AI工具導航，免費chatgpt，chatgpt4，midjourney，notion ai，tome.app"
+                }
+            },
+            "https://github.com/putyy/chatgpt": {
+                "repository_name": "chatgpt",
+                "user_name": "putyy",
+                "language": "PHP",
+                "license": "Apache License 2.0",
+                "description": "uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！",
+                    "ja": "uniapp、hyperf MineAdmin で実装された chatgptアプリ、小プログラム、h5、アプリをサポートしています！",
+                    "zh-hans": "使用uniapp和hyperf MineAdmin实现的chatgpt应用，支持小程序、h5、app！",
+                    "zh-hant": "Input: uniapp、hyperf MineAdmin 實現的 chatgpt應用，支持小程序、h5、app！Output: uniapp、hyperf MineAdmin 實現的 chatgpt應用，支持小程序、h5、app！"
                 }
             }
         }
