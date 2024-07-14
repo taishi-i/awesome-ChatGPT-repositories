@@ -1752,6 +1752,29 @@
                     "zh-hans": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
                     "zh-hant": "ChatGPT 中文指南🔥，ChatGPT 中文調教指南，指令指南，應用開發指南，精選資源清單，更好的使用 chatGPT 讓你的生產力 up up up! 🚀"
                 }
+            },
+            "https://github.com/ictmcg/awesome-machine-generated-text": {
+                "repository_name": "Awesome-Machine-Generated-Text",
+                "user_name": "ICTMCG",
+                "language": null,
+                "license": null,
+                "description": "Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.",
+                "topics": [
+                    "ai-generated",
+                    "awesome",
+                    "chatgpt",
+                    "detection",
+                    "large-language-models",
+                    "llm",
+                    "machine-generated-text",
+                    "paper-list"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.",
+                    "ja": "GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。",
+                    "zh-hans": "持续更新的与生成式LLM（如GPT）及其分析和检测相关资源列表。",
+                    "zh-hant": "持續更新的相關資源列表，用於生成式LLM（如GPT）及其分析和檢測。"
+                }
             }
         },
         "Prompts": {
@@ -4638,6 +4661,34 @@
                     "ja": "📚 AIGCの求職面接、必須の基礎知識、ヒントワードエンジニアリング、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintuneなど、AIGCの求職に必要なすべてを知っておく必要があります。",
                     "zh-hans": "📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~",
                     "zh-hant": "📚 AIGC 求職面經、必備基礎知識、提示詞工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求職你所需要知道的一切~"
+                }
+            },
+            "https://github.com/npi-ai/npi": {
+                "repository_name": "npi",
+                "user_name": "npi-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Tool use APIs platform for AI Agent",
+                "topics": [
+                    "agent",
+                    "artificial-intelligence",
+                    "autogpt",
+                    "autonomous-agent",
+                    "browser-automation",
+                    "chatgpt",
+                    "gpt-4",
+                    "intergration",
+                    "large-language-models",
+                    "llm",
+                    "openai",
+                    "prompt-engineering",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Tool use APIs platform for AI Agent",
+                    "ja": "AIエージェント向けのツール使用APIプラットフォーム",
+                    "zh-hans": "AI代理工具使用API平台",
+                    "zh-hant": "工具使用API平台為AI代理程式"
                 }
             }
         },
@@ -10080,6 +10131,33 @@
                     "ja": "ChatPilot: AgentChatの会話を実現し、Google検索、ファイルURL会話（RAG）、コード解釈機能をサポートし、Kimi Chat（ファイル、ドラッグアンドドロップ；URL、送信）を再現しました。",
                     "zh-hans": "ChatPilot: 实现AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。",
                     "zh-hant": "ChatPilot: 實現AgentChat對話，支持Google搜索、文件網址對話（RAG）、代碼解釋器功能，復現了Kimi Chat(文件，拖進來；網址，發出來)。"
+                }
+            },
+            "https://github.com/yesbhautik/whatsapp-ai-bot": {
+                "repository_name": "Whatsapp-Ai-BOT",
+                "user_name": "yesbhautik",
+                "language": "JavaScript",
+                "license": "Other",
+                "description": "Introducing the AI Chatbot for WhatsApp - a cutting-edge solution powered by OpenAI's ChatGPT, Playground & DALL·E. This innovative chatbot has been developed using NodeJS technology and leverages the latest advancements in AI to provide an unmatched user experience for WhatsApp today!",
+                "topics": [
+                    "chatgpt",
+                    "collaborate",
+                    "communityexchange",
+                    "dall-e",
+                    "github",
+                    "github-campus-experts",
+                    "hacktoberfest",
+                    "hacktoberfest-accepted",
+                    "nodejs",
+                    "openai-api",
+                    "whatsapp-api",
+                    "whatsapp-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Introducing the AI Chatbot for WhatsApp - a cutting-edge solution powered by OpenAI's ChatGPT, Playground & DALL·E. This innovative chatbot has been developed using NodeJS technology and leverages the latest advancements in AI to provide an unmatched user",
+                    "ja": "WhatsApp用のAIチャットボットをご紹介します - OpenAIのChatGPT、Playground＆DALL·Eによってパワードされた最先端のソリューションです。この革新的なチャットボットは、NodeJS技術を使用して開発され、AIの最新の進歩を活用して、類を見ないユーザーエクスペリエンスを提供しています。",
+                    "zh-hans": "介绍WhatsApp的AI聊天机器人-这是一种由OpenAI的ChatGPT、Playground和DALL·E驱动的尖端解决方案。这款创新的聊天机器人是使用NodeJS技术开发的，并利用人工智能的最新进展，为用户提供无与伦比的体验。",
+                    "zh-hant": "介紹 WhatsApp 的 AI 聊天機器人 - 這是一個由 OpenAI 的 ChatGPT、Playground 和 DALL·E 驅動的尖端解決方案。這款創新的聊天機器人是使用 NodeJS 技術開發的，並利用 AI 領域的最新進展，為用戶提供無與倫比的體驗。"
                 }
             }
         },
@@ -16470,6 +16548,32 @@
                     "zh-hans": "🪀 Lobe CLI工具箱 - AI CLI工具箱，提高git提交和i18n工作流效率",
                     "zh-hant": "🪀 Lobe CLI 工具箱 - AI CLI 工具箱，提升 git 提交和 i18n 工作流效率"
                 }
+            },
+            "https://github.com/cequence-io/openai-scala-client": {
+                "repository_name": "openai-scala-client",
+                "user_name": "cequence-io",
+                "language": "Scala",
+                "license": "MIT License",
+                "description": "Scala client for OpenAI API",
+                "topics": [
+                    "anthropic",
+                    "chatgpt",
+                    "dall-e",
+                    "gpt-3",
+                    "gpt-4",
+                    "machine-learning",
+                    "ml",
+                    "nlp",
+                    "openai",
+                    "openai-api",
+                    "scala"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Scala client for OpenAI API",
+                    "ja": "OpenAI APIのためのScalaクライアント",
+                    "zh-hans": "Scala客户端用于OpenAI API",
+                    "zh-hant": "Scala客戶端用於OpenAI API"
+                }
             }
         },
         "Reimplementations": {
@@ -22668,6 +22772,80 @@
                     "ja": "事前にトレーニングされた基礎推薦モデルの紙リスト",
                     "zh-hans": "预训练基础推荐模型纸质清单",
                     "zh-hant": "預先訓練的基礎推薦模型紙張清單"
+                }
+            },
+            "https://github.com/mem0ai/mem0": {
+                "repository_name": "mem0",
+                "user_name": "mem0ai",
+                "language": "Python",
+                "license": null,
+                "description": "Long-term memory for LLMs",
+                "topics": [
+                    "ai",
+                    "application",
+                    "chatbots",
+                    "chatgpt",
+                    "embeddings",
+                    "llm",
+                    "python",
+                    "rag",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Long-term memory for LLMs",
+                    "ja": "LLMsの長期記憶",
+                    "zh-hans": "LLMs的长期记忆",
+                    "zh-hant": "LLM的長期記憶"
+                }
+            },
+            "https://github.com/yuxiaopeng/github-ranking-ai": {
+                "repository_name": "Github-Ranking-AI",
+                "user_name": "yuxiaopeng",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "github-stars",
+                    "llm",
+                    "python",
+                    "ranking",
+                    "stars"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。",
+                    "ja": "GitHubで最も人気のあるAIトピックのリポジトリのリストを、受け取ったスターの数に基づいてランク付けします。| AI関連トピックのGitHubリポジトリの人気ランキング、毎日自動更新。",
+                    "zh-hans": "基于它们收到的星星数量，这是GitHub上最受欢迎的人工智能主题仓库列表。| AI相关主题Github仓库排名，每日自动更新。",
+                    "zh-hant": "根据它们收到的星星数量，列出GitHub上最受欢迎的人工智能主题仓库清单。| 每日自动更新。"
+                }
+            },
+            "https://github.com/michaelthwan/searchgpt": {
+                "repository_name": "searchGPT",
+                "user_name": "michaelthwan",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "grounded-api",
+                    "grounded-bot",
+                    "language-model",
+                    "llm",
+                    "machine-learning",
+                    "nlp",
+                    "nlp-machine-learning",
+                    "openai",
+                    "python",
+                    "retrieval",
+                    "retrieval-model"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.",
+                    "ja": "LLM / ChatGPT / OpenAI APIに基づいたソース参照付きのグラウンデッド検索エンジン。Web検索、ファイル内容検索などをサポートしています。",
+                    "zh-hans": "基于LLM / ChatGPT / OpenAI API的有来源引用的搜索引擎。支持网页搜索、文件内容搜索等。",
+                    "zh-hant": "基於LLM / ChatGPT / OpenAI API的有依據的搜索引擎（即具有來源參考）。它支持網絡搜索、文件內容搜索等。"
                 }
             }
         },
@@ -28930,6 +29108,27 @@
                     "ja": "AIを使用して、従来のgitコミットメッセージを自動生成します。 - 使用 AI 自动生成约定式 git 提交信息。",
                     "zh-hans": "使用 AI 自动化生成传统的 git 提 commit 信息。",
                     "zh-hant": "使用 AI 自動生成傳統的 git 提交訊息。"
+                }
+            },
+            "https://github.com/toshiakit/matgpt": {
+                "repository_name": "MatGPT",
+                "user_name": "toshiakit",
+                "language": "MATLAB",
+                "license": "MIT License",
+                "description": "MATLAB app to access ChatGPT API from OpenAI",
+                "topics": [
+                    "chat-gpt",
+                    "chat-gpt-app",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "matlab",
+                    "matlab-gui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MATLAB app to access ChatGPT API from OpenAI",
+                    "ja": "OpenAIのChatGPT APIにアクセスするためのMATLABアプリ",
+                    "zh-hans": "MATLAB 应用程序可访问 OpenAI 的 ChatGPT API",
+                    "zh-hant": "MATLAB應用程式，可從OpenAI訪問ChatGPT API"
                 }
             }
         },
@@ -36245,6 +36444,44 @@
                     "ja": "uniapp、hyperf MineAdmin で実装された chatgptアプリ、小プログラム、h5、アプリをサポートしています！",
                     "zh-hans": "使用uniapp和hyperf MineAdmin实现的chatgpt应用，支持小程序、h5、app！",
                     "zh-hant": "Input: uniapp、hyperf MineAdmin 實現的 chatgpt應用，支持小程序、h5、app！Output: uniapp、hyperf MineAdmin 實現的 chatgpt應用，支持小程序、h5、app！"
+                }
+            },
+            "https://github.com/christopher-hayes/vscode-chatgpt-reborn": {
+                "repository_name": "vscode-chatgpt-reborn",
+                "user_name": "Christopher-Hayes",
+                "language": "TypeScript",
+                "license": "ISC License",
+                "description": "Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "gpt-3",
+                    "gpt-4",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.",
+                    "ja": "VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。",
+                    "zh-hans": "使用GPT-3和GPT-4在VSCode中重构、改进和调试您的代码。",
+                    "zh-hant": "在VSCode中使用GPT-3和GPT-4重構、改進和除錯您的代碼。"
+                }
+            },
+            "https://github.com/xiaoming2028/chatgpt-makes-money": {
+                "repository_name": "Chatgpt-Makes-Money",
+                "user_name": "xiaoming2028",
+                "language": null,
+                "license": null,
+                "description": "ChatGPT副业赚钱技巧必看, ChatGPT副业赚钱秘籍, ChatGPT从入门到精通",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: Must-see tips for making money with ChatGPT as a side job, ChatGPT money-making secrets, ChatGPT from beginner to expertOutput: Must-see tips for making money with ChatGPT as a side job, ChatGPT money-making secrets, ChatGPT from beginner to expert",
+                    "ja": "Input: ChatGPT side hustle money-making tips must-see, ChatGPT side hustle money-making cheats, ChatGPT from beginner to expertOutput: ChatGPT副業でお金を稼ぐための必見のヒント、ChatGPT副業でお金を稼ぐための秘訣、ChatGPTの初心者からエキスパートまで",
+                    "zh-hans": "ChatGPT副业赚钱技巧必看，ChatGPT副业赚钱秘籍，ChatGPT从入门到精通",
+                    "zh-hant": "ChatGPT副業賺錢技巧必看, ChatGPT副業賺錢秘笈, ChatGPT從入門到精通"
                 }
             }
         }
