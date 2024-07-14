@@ -16,26 +16,38 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
+**Awesome-lists**
+ * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。
+
+
+**Prompts**
+ * [npi](https://github.com/npi-ai/npi) - AIエージェント向けのツール使用APIプラットフォーム
+
+
 **Chatbots**
- * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: AgentChatの会話を実現し、Google検索、ファイルURL会話（RAG）、コード解釈機能をサポートし、Kimi Chat（ファイル、ドラッグアンドドロップ；URL、送信）を再現しました。
+ * [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - WhatsApp用のAIチャットボットをご紹介します - OpenAIのChatGPT、Playground＆DALL·Eによってパワードされた最先端のソリューションです。この革新的なチャットボットは、NodeJS技術を使用して開発され、AIの最新の進歩を活用して、類を見ないユーザーエクスペリエンスを提供しています。
 
 
-**Browser-extensions**
- * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - Visual Studioに直接chatGPT機能を追加します。
- * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—Python向けの信頼性の高いクローラーを構築するためのWebスクレイピングおよびブラウザ自動化ライブラリ。AI、LLMs、RAG、またはGPTs向けのデータを抽出します。ウェブサイトからHTML、PDF、JPG、PNGなどのファイルをダウンロードします。BeautifulSoup、Playwright、および生のHTTPと連携します。両方のヘッドで動作します。
+**CLIs**
+ * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - OpenAI APIのためのScalaクライアント
 
 
 **NLP**
- * [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - エンドツーエンドのAIアンカーモジュール、現在はbilibiliライブルームとの接続をサポートし、ローカルchatglm3とZhipu API言語モデルをサポートし、so-vits-svc、gpt-sovits、およびbert-vits2音声モデルをサポートしています。
- * [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - 事前にトレーニングされた基礎推薦モデルの紙リスト
+ * [mem0](https://github.com/mem0ai/mem0) - LLMsの長期記憶
+ * [Github-Ranking-AI](https://github.com/yuxiaopeng/github-ranking-ai) - GitHubで最も人気のあるAIトピックのリポジトリのリストを、受け取ったスターの数に基づいてランク付けします。| AI関連トピックのGitHubリポジトリの人気ランキング、毎日自動更新。
+ * [searchGPT](https://github.com/michaelthwan/searchgpt) - LLM / ChatGPT / OpenAI APIに基づいたソース参照付きのグラウンデッド検索エンジン。Web検索、ファイル内容検索などをサポートしています。
+
+
+**Openai**
+ * [MatGPT](https://github.com/toshiakit/matgpt) - OpenAIのChatGPT APIにアクセスするためのMATLABアプリ
 
 
 **Others**
- * [go2coding.github.io](https://github.com/go2coding/go2coding.github.io) - AIツールナビゲーション、無料のchatgpt、chatgpt4、midjourney、notion ai、tome.app
- * [chatgpt](https://github.com/putyy/chatgpt) - uniapp、hyperf MineAdmin で実装された chatgptアプリ、小プログラム、h5、アプリをサポートしています！
+ * [vscode-chatgpt-reborn](https://github.com/christopher-hayes/vscode-chatgpt-reborn) - VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。
+ * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - Input: ChatGPT side hustle money-making tips must-see, ChatGPT side hustle money-making cheats, ChatGPT from beginner to expertOutput: ChatGPT副業でお金を稼ぐための必見のヒント、ChatGPT副業でお金を稼ぐための秘訣、ChatGPTの初心者からエキスパートまで
 
 
-_Updated on July 12, 2024_ (A total of 1651 repositories listed.)
+_Updated on July 15, 2024_ (A total of 1661 repositories listed.)
 
 ## Table of contents
 
@@ -123,6 +135,7 @@ _Updated on July 12, 2024_ (A total of 1651 repositories listed.)
  * [awesome-python](https://github.com/dylanhogg/awesome-python) - 🐍 カテゴリ別に整理された、厳選された素晴らしいPythonライブラリとフレームワーク
  * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 素晴らしいLLM（Large Language Models）を使用した役割演技とペルソナに関する厳選されたリソースのリスト: 割り当てられたペルソナと一緒に役割演技をするためのリソースのリスト
  * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPTの中国語ガイド🔥、ChatGPTの中国語調教ガイド、指示ガイド、アプリ開発ガイド、厳選されたリソースリスト、ChatGPTをより効果的に活用して生産性を向上させましょう！🚀
+ * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。
 
 
 ## Prompts
@@ -254,6 +267,7 @@ _Updated on July 12, 2024_ (A total of 1651 repositories listed.)
  * [promptulate](https://github.com/undertone0809/promptulate) - 🚀大規模言語モデルの自動化と自律言語エージェントの開発フレームワーク。Pythonの方法でLLMエージェントアプリケーションを構築してください！
  * [EDDI](https://github.com/labsai/eddi) - Conversational AI API（OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini、Ollamaなど）向けのプロンプト＆会話管理ミドルウェア。Javaで開発され、Quarkusで動作し、Lean、restful、スケーラブル、クラウドネイティブです。提供されるwit。
  * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGCの求職面接、必須の基礎知識、ヒントワードエンジニアリング、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintuneなど、AIGCの求職に必要なすべてを知っておく必要があります。
+ * [npi](https://github.com/npi-ai/npi) - AIエージェント向けのツール使用APIプラットフォーム
 
 
 ## Chatbots
@@ -487,6 +501,7 @@ _Updated on July 12, 2024_ (A total of 1651 repositories listed.)
  * [GPTPortal](https://github.com/zaki-1052/gptportal) - 機能豊富なポータルを介して、軽量なNode.jsウェブアプリを使用してGPT-4、Claude、Gemini、Mistral、およびOpenAIアシスタントAPIとチャットするためのポータルを提供します。音声、画像、ファイルに対応したカスタマイズ可能なマルチモダリティをサポートしています。
  * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 ChatGLMの創造的な世界へようこそ！修正や継続書き機能を使って創造的なコンテンツを生成することができます！
  * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: AgentChatの会話を実現し、Google検索、ファイルURL会話（RAG）、コード解釈機能をサポートし、Kimi Chat（ファイル、ドラッグアンドドロップ；URL、送信）を再現しました。
+ * [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - WhatsApp用のAIチャットボットをご紹介します - OpenAIのChatGPT、Playground＆DALL·Eによってパワードされた最先端のソリューションです。この革新的なチャットボットは、NodeJS技術を使用して開発され、AIの最新の進歩を活用して、類を見ないユーザーエクスペリエンスを提供しています。
 
 
 ## Browser-extensions
@@ -780,6 +795,7 @@ _Updated on July 12, 2024_ (A total of 1651 repositories listed.)
  * [chatAir](https://github.com/flyun/chatair) - ☁️OpenAIとGeminiのためのネイティブAndroidクライアント☁️
  * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - どのMatrixクライアントを使用してもChatGPTと話すことができます！
  * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 ローブCLIツールボックス - AI CLIツールボックス、gitコミットとi18nワークフローの効率を向上
+ * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - OpenAI APIのためのScalaクライアント
 
 
 ## Reimplementations
@@ -1083,6 +1099,9 @@ _Updated on July 12, 2024_ (A total of 1651 repositories listed.)
  * [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - 華陀GPT2、LLMsの医療適応のためのワンステージトレーニング（オープン医療GPT）
  * [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - エンドツーエンドのAIアンカーモジュール、現在はbilibiliライブルームとの接続をサポートし、ローカルchatglm3とZhipu API言語モデルをサポートし、so-vits-svc、gpt-sovits、およびbert-vits2音声モデルをサポートしています。
  * [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - 事前にトレーニングされた基礎推薦モデルの紙リスト
+ * [mem0](https://github.com/mem0ai/mem0) - LLMsの長期記憶
+ * [Github-Ranking-AI](https://github.com/yuxiaopeng/github-ranking-ai) - GitHubで最も人気のあるAIトピックのリポジトリのリストを、受け取ったスターの数に基づいてランク付けします。| AI関連トピックのGitHubリポジトリの人気ランキング、毎日自動更新。
+ * [searchGPT](https://github.com/michaelthwan/searchgpt) - LLM / ChatGPT / OpenAI APIに基づいたソース参照付きのグラウンデッド検索エンジン。Web検索、ファイル内容検索などをサポートしています。
 
 
 ## Langchain
@@ -1372,6 +1391,7 @@ _Updated on July 12, 2024_ (A total of 1651 repositories listed.)
  * [liboai](https://github.com/d7ead/liboai) - OpenAI API全体にアクセスするためのC++17ライブラリ。
  * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - GPTとtiktokenと一緒に使うための既製のトークナイザーライブラリ
  * [ai-commit](https://github.com/guanguans/ai-commit) - AIを使用して、従来のgitコミットメッセージを自動生成します。 - 使用 AI 自动生成约定式 git 提交信息。
+ * [MatGPT](https://github.com/toshiakit/matgpt) - OpenAIのChatGPT APIにアクセスするためのMATLABアプリ
 
 
 ## Others
@@ -1761,5 +1781,7 @@ _Updated on July 12, 2024_ (A total of 1651 repositories listed.)
  * [Protofy](https://github.com/protofy-xyz/protofy) - AI スーパーチャージド ローコードプラットフォーム CMS およびフレームワーク 🚀🚀
  * [go2coding.github.io](https://github.com/go2coding/go2coding.github.io) - AIツールナビゲーション、無料のchatgpt、chatgpt4、midjourney、notion ai、tome.app
  * [chatgpt](https://github.com/putyy/chatgpt) - uniapp、hyperf MineAdmin で実装された chatgptアプリ、小プログラム、h5、アプリをサポートしています！
+ * [vscode-chatgpt-reborn](https://github.com/christopher-hayes/vscode-chatgpt-reborn) - VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。
+ * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - Input: ChatGPT side hustle money-making tips must-see, ChatGPT side hustle money-making cheats, ChatGPT from beginner to expertOutput: ChatGPT副業でお金を稼ぐための必見のヒント、ChatGPT副業でお金を稼ぐための秘訣、ChatGPTの初心者からエキスパートまで
 
 
