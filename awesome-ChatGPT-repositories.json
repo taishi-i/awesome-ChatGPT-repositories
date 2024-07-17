@@ -4690,6 +4690,37 @@
                     "zh-hans": "AI代理工具使用API平台",
                     "zh-hant": "工具使用API平台為AI代理程式"
                 }
+            },
+            "https://github.com/smalltong02/keras-llm-robot": {
+                "repository_name": "keras-llm-robot",
+                "user_name": "smalltong02",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality.",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "code-interpreter",
+                    "faiss",
+                    "fastchat",
+                    "gemini",
+                    "knowledgebase",
+                    "llm",
+                    "milvus",
+                    "multimodal",
+                    "pgvector",
+                    "rag",
+                    "speech-to-text",
+                    "streamlit",
+                    "text-to-speech",
+                    "vectorization"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality.",
+                    "ja": "大規模言語モデルを学ぶためのWeb UIプロジェクト。このプロジェクトには、チャット、量子化、ファインチューニング、プロンプトエンジニアリングテンプレート、マルチモダリティなどの機能が含まれています。",
+                    "zh-hans": "一个网络UI项目，旨在学习大型语言模型。该项目包括聊天、量化、微调、提示工程模板和多模态等功能。",
+                    "zh-hant": "一個網頁UI項目，旨在學習大型語言模型。該項目包括聊天、量化、微調、提示工程模板和多模式等功能。"
+                }
             }
         },
         "Chatbots": {
@@ -10159,6 +10190,27 @@
                     "zh-hans": "介绍WhatsApp的AI聊天机器人-这是一种由OpenAI的ChatGPT、Playground和DALL·E驱动的尖端解决方案。这款创新的聊天机器人是使用NodeJS技术开发的，并利用人工智能的最新进展，为用户提供无与伦比的体验。",
                     "zh-hant": "介紹 WhatsApp 的 AI 聊天機器人 - 這是一個由 OpenAI 的 ChatGPT、Playground 和 DALL·E 驅動的尖端解決方案。這款創新的聊天機器人是使用 NodeJS 技術開發的，並利用 AI 領域的最新進展，為用戶提供無與倫比的體驗。"
                 }
+            },
+            "https://github.com/shroominic/fastui-chat": {
+                "repository_name": "fastui-chat",
+                "user_name": "shroominic",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "💬 minimalistic ChatBot Interface in pure python",
+                "topics": [
+                    "chatgpt",
+                    "fast-api",
+                    "fast-ui",
+                    "langchain",
+                    "minimalistic-chat-app",
+                    "pydantic"
+                ],
+                "multilingual_descriptions": {
+                    "en": "💬 minimalistic ChatBot Interface in pure python",
+                    "ja": "💬 純粋なPythonで作られたミニマリストなChatBotインターフェース",
+                    "zh-hans": "💬纯Python的极简ChatBot界面",
+                    "zh-hant": "💬 純Python極簡ChatBot界面"
+                }
             }
         },
         "Browser-extensions": {
@@ -13979,6 +14031,34 @@
                     "ja": "Crawlee—Python向けの信頼性の高いクローラーを構築するためのWebスクレイピングおよびブラウザ自動化ライブラリ。AI、LLMs、RAG、またはGPTs向けのデータを抽出します。ウェブサイトからHTML、PDF、JPG、PNGなどのファイルをダウンロードします。BeautifulSoup、Playwright、および生のHTTPと連携します。両方のヘッドで動作します。",
                     "zh-hans": "Crawlee - 一个用于Python的网络爬虫和浏览器自动化库，用于构建可靠的爬虫。提取数据用于AI、LLMs、RAG或GPTs。从网站下载HTML、PDF、JPG、PNG和其他文件。与BeautifulSoup、Playwright和原始HTTP一起使用。支持头部。",
                     "zh-hant": "Crawlee-一個用於Python的網頁爬蟲和瀏覽器自動化庫，用於構建可靠的爬蟲。從網站提取數據，用於AI、LLMs、RAG或GPTs。從網站下載HTML、PDF、JPG、PNG和其他文件。與BeautifulSoup、Playwright和原始HTTP一起使用。支持headless模式。"
+                }
+            },
+            "https://github.com/supermemoryai/supermemory": {
+                "repository_name": "supermemory",
+                "user_name": "supermemoryai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.",
+                "topics": [
+                    "cloudflare-ai",
+                    "cloudflare-browser-rendering",
+                    "cloudflare-d1",
+                    "cloudflare-kv",
+                    "cloudflare-pages",
+                    "cloudflare-queues",
+                    "cloudflare-vectorize",
+                    "cloudflare-workers",
+                    "drizzle-orm",
+                    "nextjs",
+                    "nextjs14",
+                    "tailwindcss",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.",
+                    "ja": "スーパーメモリーを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存したりできます。",
+                    "zh-hans": "用超级记忆力建立自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。",
+                    "zh-hant": "用超級記憶力建立您自己的第二大腦。這是您書籤的ChatGPT。使用Chrome擴展程序導入推文或保存網站和內容。"
                 }
             }
         },
@@ -22847,6 +22927,88 @@
                     "zh-hans": "基于LLM / ChatGPT / OpenAI API的有来源引用的搜索引擎。支持网页搜索、文件内容搜索等。",
                     "zh-hant": "基於LLM / ChatGPT / OpenAI API的有依據的搜索引擎（即具有來源參考）。它支持網絡搜索、文件內容搜索等。"
                 }
+            },
+            "https://github.com/gpt-open/rag-gpt": {
+                "repository_name": "rag-gpt",
+                "user_name": "gpt-open",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information retrieval.",
+                "topics": [
+                    "deepseek",
+                    "gpt",
+                    "gpt-4o",
+                    "llamaparse",
+                    "llm",
+                    "moonshot",
+                    "nextjs",
+                    "ollama",
+                    "openai",
+                    "python",
+                    "rag",
+                    "zhipuai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information retrieval.",
+                    "ja": "RAG-GPTは、LLMとRAG技術を活用して、ユーザーのカスタマイズされた知識ベースから学習し、幅広いクエリに対して文脈に即した回答を提供し、迅速かつ正確な情報検索を保証します。",
+                    "zh-hans": "RAG-GPT，利用LLM和RAG技术，从用户定制的知识库中学习，为各种查询提供相关背景答案，确保快速准确的信息检索。",
+                    "zh-hant": "RAG-GPT通過利用LLM和RAG技術，從用戶定製的知識庫中學習，為各種查詢提供相應的答案，確保快速準確的信息檢索。"
+                }
+            },
+            "https://github.com/llm-tools/embedjs": {
+                "repository_name": "embedJs",
+                "user_name": "llm-tools",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "A NodeJS RAG framework to easily work with LLMs and embeddings",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "claude",
+                    "cohere",
+                    "embedding",
+                    "embeddings",
+                    "gpt",
+                    "gpt-4",
+                    "gpt-4o",
+                    "huggingface",
+                    "large-language-models",
+                    "llm",
+                    "mistral",
+                    "ollama",
+                    "openai",
+                    "pinecone",
+                    "rag",
+                    "vector-database",
+                    "vertex-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A NodeJS RAG framework to easily work with LLMs and embeddings",
+                    "ja": "LLMsと埋め込みを簡単に扱うためのNodeJS RAGフレームワーク",
+                    "zh-hans": "一个NodeJS RAG框架，可以轻松地处理LLMs和嵌入。",
+                    "zh-hant": "一個 NodeJS RAG 框架，可以輕鬆地處理LLMs和嵌入。"
+                }
+            },
+            "https://github.com/adaptivemotorcontrollab/amadeusgpt": {
+                "repository_name": "AmadeusGPT",
+                "user_name": "AdaptiveMotorControlLab",
+                "language": "Jupyter Notebook",
+                "license": "Apache License 2.0",
+                "description": "[NeurIPS 2023] We turn natural language descriptions of behaviors into machine-executable code",
+                "topics": [
+                    "amadeusgpt",
+                    "cebra",
+                    "chatgpt",
+                    "deeplabcut",
+                    "llms",
+                    "segment-anything"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[NeurIPS 2023] We turn natural language descriptions of behaviors into machine-executable code",
+                    "ja": "[NeurIPS 2023] 私たちは行動の自然言語の説明を機械実行可能なコードに変換します[NeurIPS 2023]私たちは行動の自然言語の説明を機械実行可能なコードに変換します",
+                    "zh-hans": "[NeurIPS 2023] 我们将行为的自然语言描述转化为可执行代码。",
+                    "zh-hant": "[NeurIPS 2023] 我們將行為的自然語言描述轉換為機器可執行的代碼"
+                }
             }
         },
         "Langchain": {
@@ -29129,6 +29291,24 @@
                     "ja": "OpenAIのChatGPT APIにアクセスするためのMATLABアプリ",
                     "zh-hans": "MATLAB 应用程序可访问 OpenAI 的 ChatGPT API",
                     "zh-hant": "MATLAB應用程式，可從OpenAI訪問ChatGPT API"
+                }
+            },
+            "https://github.com/martialbe/one-hub": {
+                "repository_name": "one-hub",
+                "user_name": "MartialBE",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。",
+                "topics": [
+                    "chatgpt",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.",
+                    "ja": "OpenAI インターフェース管理＆配布システム、songquanpeng/one-api を改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善しました。",
+                    "zh-hans": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。",
+                    "zh-hant": "OpenAI 接口管理 & 分发系統，改自songquanpeng/one-api。支援更多模型，加入統計頁面，完善非openai模型的函數調用。"
                 }
             }
         },
@@ -36482,6 +36662,55 @@
                     "ja": "Input: ChatGPT side hustle money-making tips must-see, ChatGPT side hustle money-making cheats, ChatGPT from beginner to expertOutput: ChatGPT副業でお金を稼ぐための必見のヒント、ChatGPT副業でお金を稼ぐための秘訣、ChatGPTの初心者からエキスパートまで",
                     "zh-hans": "ChatGPT副业赚钱技巧必看，ChatGPT副业赚钱秘籍，ChatGPT从入门到精通",
                     "zh-hant": "ChatGPT副業賺錢技巧必看, ChatGPT副業賺錢秘笈, ChatGPT從入門到精通"
+                }
+            },
+            "https://github.com/sendbird/sendbird-uikit-react": {
+                "repository_name": "sendbird-uikit-react",
+                "user_name": "sendbird",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Build chat in minutes with Sendbird UIKit open source code.",
+                "topics": [
+                    "api-for-chat",
+                    "bard",
+                    "chat-api",
+                    "chat-api-platform",
+                    "chat-platform",
+                    "chat-sdk",
+                    "chat-ui",
+                    "chatbot-api",
+                    "chatbot-sdk",
+                    "chatbot-ui",
+                    "chatgpt",
+                    "communications-platform",
+                    "genai-chatbot",
+                    "genai-chatbot-api",
+                    "gpt-powered-chatbot",
+                    "llama2",
+                    "messaging-api",
+                    "messaging-platform",
+                    "messaging-sdk",
+                    "palm2"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build chat in minutes with Sendbird UIKit open source code.",
+                    "ja": "Sendbird UIKitのオープンソースコードを使用して、数分でチャットを構築できます。",
+                    "zh-hans": "使用Sendbird UIKit开源代码，可以在几分钟内构建聊天功能。",
+                    "zh-hant": "使用Sendbird UIKit開源代碼，幾分鐘內建立聊天功能。"
+                }
+            },
+            "https://github.com/blixt/sol-mate-eink": {
+                "repository_name": "sol-mate-eink",
+                "user_name": "blixt",
+                "language": "Python",
+                "license": null,
+                "description": "The Sol Mate GPT but on your e-Paper display!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The Sol Mate GPT but on your e-Paper display!",
+                    "ja": "Sol Mate GPTをあなたの電子ペーパーディスプレイで使用できます！",
+                    "zh-hans": "Sol Mate GPT但在您的电子纸显示屏上！",
+                    "zh-hant": "在您的電子紙顯示器上使用Sol Mate GPT！"
                 }
             }
         }

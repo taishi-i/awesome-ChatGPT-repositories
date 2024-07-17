@@ -16,38 +16,34 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Awesome-lists**
- * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.
-
-
 **Prompts**
- * [npi](https://github.com/npi-ai/npi) - Tool use APIs platform for AI Agent
+ * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality.
 
 
 **Chatbots**
- * [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - Introducing the AI Chatbot for WhatsApp - a cutting-edge solution powered by OpenAI's ChatGPT, Playground & DALL·E. This innovative chatbot has been developed using NodeJS technology and leverages the latest advancements in AI to provide an unmatched user experience for WhatsApp today!
+ * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 minimalistic ChatBot Interface in pure python
 
 
-**CLIs**
- * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala client for OpenAI API
+**Browser-extensions**
+ * [supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
 
 **NLP**
- * [mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
- * [Github-Ranking-AI](https://github.com/yuxiaopeng/github-ranking-ai) - A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。
- * [searchGPT](https://github.com/michaelthwan/searchgpt) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
+ * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information retrieval.
+ * [embedJs](https://github.com/llm-tools/embedjs) - A NodeJS RAG framework to easily work with LLMs and embeddings
+ * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] We turn natural language descriptions of behaviors into machine-executable code
 
 
 **Openai**
- * [MatGPT](https://github.com/toshiakit/matgpt) - MATLAB app to access ChatGPT API from OpenAI
+ * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 
 
 **Others**
- * [vscode-chatgpt-reborn](https://github.com/christopher-hayes/vscode-chatgpt-reborn) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
- * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - ChatGPT副业赚钱技巧必看, ChatGPT副业赚钱秘籍, ChatGPT从入门到精通
+ * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - Build chat in minutes with Sendbird UIKit open source code.
+ * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - The Sol Mate GPT but on your e-Paper display!
 
 
-_Updated on July 15, 2024_ (A total of 1661 repositories listed.)
+_Updated on July 18, 2024_ (A total of 1670 repositories listed.)
 
 ## Table of contents
 
@@ -268,6 +264,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [EDDI](https://github.com/labsai/eddi) - Prompt & Conversation Management Middleware for Conversational AI APIs such as OpenAI ChatGPT, Facebook Hugging Face, Anthropic Claude, Google Gemini and Ollama. Lean, restful, scalable, and cloud-native. Developed in Java, powered by Quarkus, provided with Docker, and orchestrated with Kubernetes or Openshift.
  * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~
  * [npi](https://github.com/npi-ai/npi) - Tool use APIs platform for AI Agent
+ * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality.
 
 
 ## Chatbots
@@ -502,6 +499,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 欢迎来到 ChatGLM 创意世界！你可以使用修订和续写的功能来生成创意内容！
  * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: 实现AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。
  * [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - Introducing the AI Chatbot for WhatsApp - a cutting-edge solution powered by OpenAI's ChatGPT, Playground & DALL·E. This innovative chatbot has been developed using NodeJS technology and leverages the latest advancements in AI to provide an unmatched user experience for WhatsApp today!
+ * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 minimalistic ChatBot Interface in pure python
 
 
 ## Browser-extensions
@@ -678,6 +676,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [BrowserGPT](https://github.com/mayt/browsergpt) - Command your browser with GPT
  * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - Add chatGPT functionalities directly on Visual Studio
  * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+ * [supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 
 
 ## CLIs
@@ -1102,6 +1101,9 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
  * [Github-Ranking-AI](https://github.com/yuxiaopeng/github-ranking-ai) - A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。
  * [searchGPT](https://github.com/michaelthwan/searchgpt) - Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
+ * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information retrieval.
+ * [embedJs](https://github.com/llm-tools/embedjs) - A NodeJS RAG framework to easily work with LLMs and embeddings
+ * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] We turn natural language descriptions of behaviors into machine-executable code
 
 
 ## Langchain
@@ -1392,6 +1394,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - Ready-made tokenizer library for working with GPT and tiktoken
  * [ai-commit](https://github.com/guanguans/ai-commit) - Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
  * [MatGPT](https://github.com/toshiakit/matgpt) - MATLAB app to access ChatGPT API from OpenAI
+ * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 
 
 ## Others
@@ -1783,5 +1786,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [chatgpt](https://github.com/putyy/chatgpt) - uniapp、hyperf MineAdmin 实现的 chatgpt应用，支持小程序、h5、app！
  * [vscode-chatgpt-reborn](https://github.com/christopher-hayes/vscode-chatgpt-reborn) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
  * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - ChatGPT副业赚钱技巧必看, ChatGPT副业赚钱秘籍, ChatGPT从入门到精通
+ * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - Build chat in minutes with Sendbird UIKit open source code.
+ * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - The Sol Mate GPT but on your e-Paper display!
 
 

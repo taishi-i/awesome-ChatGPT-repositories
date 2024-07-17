@@ -16,38 +16,34 @@
 
  * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
 
-**Awesome-lists**
- * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - 持续更新的与生成式LLM（如GPT）及其分析和检测相关资源列表。
-
-
 **Prompts**
- * [npi](https://github.com/npi-ai/npi) - AI代理工具使用API平台
+ * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 一个网络UI项目，旨在学习大型语言模型。该项目包括聊天、量化、微调、提示工程模板和多模态等功能。
 
 
 **Chatbots**
- * [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - 介绍WhatsApp的AI聊天机器人-这是一种由OpenAI的ChatGPT、Playground和DALL·E驱动的尖端解决方案。这款创新的聊天机器人是使用NodeJS技术开发的，并利用人工智能的最新进展，为用户提供无与伦比的体验。
+ * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬纯Python的极简ChatBot界面
 
 
-**CLIs**
- * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala客户端用于OpenAI API
+**Browser-extensions**
+ * [supermemory](https://github.com/supermemoryai/supermemory) - 用超级记忆力建立自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。
 
 
 **NLP**
- * [mem0](https://github.com/mem0ai/mem0) - LLMs的长期记忆
- * [Github-Ranking-AI](https://github.com/yuxiaopeng/github-ranking-ai) - 基于它们收到的星星数量，这是GitHub上最受欢迎的人工智能主题仓库列表。| AI相关主题Github仓库排名，每日自动更新。
- * [searchGPT](https://github.com/michaelthwan/searchgpt) - 基于LLM / ChatGPT / OpenAI API的有来源引用的搜索引擎。支持网页搜索、文件内容搜索等。
+ * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT，利用LLM和RAG技术，从用户定制的知识库中学习，为各种查询提供相关背景答案，确保快速准确的信息检索。
+ * [embedJs](https://github.com/llm-tools/embedjs) - 一个NodeJS RAG框架，可以轻松地处理LLMs和嵌入。
+ * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 我们将行为的自然语言描述转化为可执行代码。
 
 
 **Openai**
- * [MatGPT](https://github.com/toshiakit/matgpt) - MATLAB 应用程序可访问 OpenAI 的 ChatGPT API
+ * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
 
 
 **Others**
- * [vscode-chatgpt-reborn](https://github.com/christopher-hayes/vscode-chatgpt-reborn) - 使用GPT-3和GPT-4在VSCode中重构、改进和调试您的代码。
- * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - ChatGPT副业赚钱技巧必看，ChatGPT副业赚钱秘籍，ChatGPT从入门到精通
+ * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - 使用Sendbird UIKit开源代码，可以在几分钟内构建聊天功能。
+ * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - Sol Mate GPT但在您的电子纸显示屏上！
 
 
-_Updated on July 15, 2024_ (A total of 1661 repositories listed.)
+_Updated on July 18, 2024_ (A total of 1670 repositories listed.)
 
 ## Table of contents
 
@@ -268,6 +264,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [EDDI](https://github.com/labsai/eddi) - 用于对话AI API的提示和对话管理中间件，例如OpenAI ChatGPT，Facebook Hugging Face，Anthropic Claude，Google Gemini和Ollama。 精简，轻量级，可扩展，云原生。 使用Java开发，由Quarkus提供支持。
  * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~
  * [npi](https://github.com/npi-ai/npi) - AI代理工具使用API平台
+ * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 一个网络UI项目，旨在学习大型语言模型。该项目包括聊天、量化、微调、提示工程模板和多模态等功能。
 
 
 ## Chatbots
@@ -502,6 +499,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - 👋 欢迎来到 ChatGLM 创意世界！你可以使用修订和续写的功能来生成创意内容！
  * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: 实现AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。
  * [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - 介绍WhatsApp的AI聊天机器人-这是一种由OpenAI的ChatGPT、Playground和DALL·E驱动的尖端解决方案。这款创新的聊天机器人是使用NodeJS技术开发的，并利用人工智能的最新进展，为用户提供无与伦比的体验。
+ * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬纯Python的极简ChatBot界面
 
 
 ## Browser-extensions
@@ -678,6 +676,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [BrowserGPT](https://github.com/mayt/browsergpt) - 用GPT指挥您的浏览器
  * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - 在Visual Studio上直接添加chatGPT功能
  * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee - 一个用于Python的网络爬虫和浏览器自动化库，用于构建可靠的爬虫。提取数据用于AI、LLMs、RAG或GPTs。从网站下载HTML、PDF、JPG、PNG和其他文件。与BeautifulSoup、Playwright和原始HTTP一起使用。支持头部。
+ * [supermemory](https://github.com/supermemoryai/supermemory) - 用超级记忆力建立自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。
 
 
 ## CLIs
@@ -1102,6 +1101,9 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [mem0](https://github.com/mem0ai/mem0) - LLMs的长期记忆
  * [Github-Ranking-AI](https://github.com/yuxiaopeng/github-ranking-ai) - 基于它们收到的星星数量，这是GitHub上最受欢迎的人工智能主题仓库列表。| AI相关主题Github仓库排名，每日自动更新。
  * [searchGPT](https://github.com/michaelthwan/searchgpt) - 基于LLM / ChatGPT / OpenAI API的有来源引用的搜索引擎。支持网页搜索、文件内容搜索等。
+ * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT，利用LLM和RAG技术，从用户定制的知识库中学习，为各种查询提供相关背景答案，确保快速准确的信息检索。
+ * [embedJs](https://github.com/llm-tools/embedjs) - 一个NodeJS RAG框架，可以轻松地处理LLMs和嵌入。
+ * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 我们将行为的自然语言描述转化为可执行代码。
 
 
 ## Langchain
@@ -1392,6 +1394,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - 使用GPT和tiktoken的现成分词库
  * [ai-commit](https://github.com/guanguans/ai-commit) - 使用 AI 自动化生成传统的 git 提 commit 信息。
  * [MatGPT](https://github.com/toshiakit/matgpt) - MATLAB 应用程序可访问 OpenAI 的 ChatGPT API
+ * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
 
 
 ## Others
@@ -1783,5 +1786,7 @@ _Updated on July 15, 2024_ (A total of 1661 repositories listed.)
  * [chatgpt](https://github.com/putyy/chatgpt) - 使用uniapp和hyperf MineAdmin实现的chatgpt应用，支持小程序、h5、app！
  * [vscode-chatgpt-reborn](https://github.com/christopher-hayes/vscode-chatgpt-reborn) - 使用GPT-3和GPT-4在VSCode中重构、改进和调试您的代码。
  * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - ChatGPT副业赚钱技巧必看，ChatGPT副业赚钱秘籍，ChatGPT从入门到精通
+ * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - 使用Sendbird UIKit开源代码，可以在几分钟内构建聊天功能。
+ * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - Sol Mate GPT但在您的电子纸显示屏上！
 
 
