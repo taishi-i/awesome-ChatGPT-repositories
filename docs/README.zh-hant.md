@@ -14,36 +14,23 @@
 
 ## The latest additions 🎉
 
- * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
-
-**Prompts**
- * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 一個網頁UI項目，旨在學習大型語言模型。該項目包括聊天、量化、微調、提示工程模板和多模式等功能。
-
-
 **Chatbots**
- * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 純Python極簡ChatBot界面
+ * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虛的 GPT Telegram 機器人
+ * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 一個Alfred 5工作流程，用於使用OpenAI Chat API與GPT-3.5/GPT-4進行互動 🤖💬 它還允許圖像生成 🖼️，圖像理解 👀，語音轉文字轉換 🎤，以及文本轉語音合成 🔈
 
 
 **Browser-extensions**
- * [supermemory](https://github.com/supermemoryai/supermemory) - 用超級記憶力建立您自己的第二大腦。這是您書籤的ChatGPT。使用Chrome擴展程序導入推文或保存網站和內容。
-
-
-**NLP**
- * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT通過利用LLM和RAG技術，從用戶定製的知識庫中學習，為各種查詢提供相應的答案，確保快速準確的信息檢索。
- * [embedJs](https://github.com/llm-tools/embedjs) - 一個 NodeJS RAG 框架，可以輕鬆地處理LLMs和嵌入。
- * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 我們將行為的自然語言描述轉換為機器可執行的代碼
-
-
-**Openai**
- * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系統，改自songquanpeng/one-api。支援更多模型，加入統計頁面，完善非openai模型的函數調用。
+ * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - 開發自己的Auto-GPT插件的起點
 
 
 **Others**
- * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - 使用Sendbird UIKit開源代碼，幾分鐘內建立聊天功能。
- * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - 在您的電子紙顯示器上使用Sol Mate GPT！
+ * [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - GPT Store每日熱門數據存檔
+ * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科學上網梯子機場推薦，GPT4升級教程，Claude-3免費使用教程
+ * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - 在VSCode中使用GPT-3和GPT-4重構、改進和除錯您的代碼。
+ * [gpts](https://github.com/ruvnet/gpts) - rUv創建的GPT集合
 
 
-_Updated on July 18, 2024_ (A total of 1670 repositories listed.)
+_Updated on July 22, 2024_ (A total of 1677 repositories listed.)
 
 ## Table of contents
 
@@ -500,6 +487,8 @@ _Updated on July 18, 2024_ (A total of 1670 repositories listed.)
  * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: 實現AgentChat對話，支持Google搜索、文件網址對話（RAG）、代碼解釋器功能，復現了Kimi Chat(文件，拖進來；網址，發出來)。
  * [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - 介紹 WhatsApp 的 AI 聊天機器人 - 這是一個由 OpenAI 的 ChatGPT、Playground 和 DALL·E 驅動的尖端解決方案。這款創新的聊天機器人是使用 NodeJS 技術開發的，並利用 AI 領域的最新進展，為用戶提供無與倫比的體驗。
  * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 純Python極簡ChatBot界面
+ * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虛的 GPT Telegram 機器人
+ * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 一個Alfred 5工作流程，用於使用OpenAI Chat API與GPT-3.5/GPT-4進行互動 🤖💬 它還允許圖像生成 🖼️，圖像理解 👀，語音轉文字轉換 🎤，以及文本轉語音合成 🔈
 
 
 ## Browser-extensions
@@ -677,6 +666,7 @@ _Updated on July 18, 2024_ (A total of 1670 repositories listed.)
  * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - 將chatGPT功能直接添加到Visual Studio
  * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee-一個用於Python的網頁爬蟲和瀏覽器自動化庫，用於構建可靠的爬蟲。從網站提取數據，用於AI、LLMs、RAG或GPTs。從網站下載HTML、PDF、JPG、PNG和其他文件。與BeautifulSoup、Playwright和原始HTTP一起使用。支持headless模式。
  * [supermemory](https://github.com/supermemoryai/supermemory) - 用超級記憶力建立您自己的第二大腦。這是您書籤的ChatGPT。使用Chrome擴展程序導入推文或保存網站和內容。
+ * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - 開發自己的Auto-GPT插件的起點
 
 
 ## CLIs
@@ -1788,5 +1778,9 @@ _Updated on July 18, 2024_ (A total of 1670 repositories listed.)
  * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - ChatGPT副業賺錢技巧必看, ChatGPT副業賺錢秘笈, ChatGPT從入門到精通
  * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - 使用Sendbird UIKit開源代碼，幾分鐘內建立聊天功能。
  * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - 在您的電子紙顯示器上使用Sol Mate GPT！
+ * [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - GPT Store每日熱門數據存檔
+ * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科學上網梯子機場推薦，GPT4升級教程，Claude-3免費使用教程
+ * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - 在VSCode中使用GPT-3和GPT-4重構、改進和除錯您的代碼。
+ * [gpts](https://github.com/ruvnet/gpts) - rUv創建的GPT集合
 
 

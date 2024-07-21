@@ -14,36 +14,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
- * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
-
-**Prompts**
- * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality.
-
-
 **Chatbots**
- * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 minimalistic ChatBot Interface in pure python
+ * [pokitoki](https://github.com/nalgeon/pokitoki) - Humble GPT Telegram Bot
+ * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, image understanding 👀, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
 
 
 **Browser-extensions**
- * [supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
-
-
-**NLP**
- * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information retrieval.
- * [embedJs](https://github.com/llm-tools/embedjs) - A NodeJS RAG framework to easily work with LLMs and embeddings
- * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] We turn natural language descriptions of behaviors into machine-executable code
-
-
-**Openai**
- * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+ * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - A starting point for developing your own plug-in for Auto-GPT
 
 
 **Others**
- * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - Build chat in minutes with Sendbird UIKit open source code.
- * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - The Sol Mate GPT but on your e-Paper display!
+ * [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - The daily archive of GPT Store's trending data
+ * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科学上网梯子机场推荐，GPT4升级教程，Claude-3免费使用教程
+ * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
+ * [gpts](https://github.com/ruvnet/gpts) - A collection of the GPTs created by rUv
 
 
-_Updated on July 18, 2024_ (A total of 1670 repositories listed.)
+_Updated on July 22, 2024_ (A total of 1677 repositories listed.)
 
 ## Table of contents
 
@@ -500,6 +487,8 @@ _Updated on July 18, 2024_ (A total of 1670 repositories listed.)
  * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: 实现AgentChat对话，支持Google搜索、文件网址对话（RAG）、代码解释器功能，复现了Kimi Chat(文件，拖进来；网址，发出来)。
  * [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - Introducing the AI Chatbot for WhatsApp - a cutting-edge solution powered by OpenAI's ChatGPT, Playground & DALL·E. This innovative chatbot has been developed using NodeJS technology and leverages the latest advancements in AI to provide an unmatched user experience for WhatsApp today!
  * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 minimalistic ChatBot Interface in pure python
+ * [pokitoki](https://github.com/nalgeon/pokitoki) - Humble GPT Telegram Bot
+ * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, image understanding 👀, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
 
 
 ## Browser-extensions
@@ -677,6 +666,7 @@ _Updated on July 18, 2024_ (A total of 1670 repositories listed.)
  * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - Add chatGPT functionalities directly on Visual Studio
  * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
  * [supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+ * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - A starting point for developing your own plug-in for Auto-GPT
 
 
 ## CLIs
@@ -1788,5 +1778,9 @@ _Updated on July 18, 2024_ (A total of 1670 repositories listed.)
  * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - ChatGPT副业赚钱技巧必看, ChatGPT副业赚钱秘籍, ChatGPT从入门到精通
  * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - Build chat in minutes with Sendbird UIKit open source code.
  * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - The Sol Mate GPT but on your e-Paper display!
+ * [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - The daily archive of GPT Store's trending data
+ * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科学上网梯子机场推荐，GPT4升级教程，Claude-3免费使用教程
+ * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
+ * [gpts](https://github.com/ruvnet/gpts) - A collection of the GPTs created by rUv
 
 

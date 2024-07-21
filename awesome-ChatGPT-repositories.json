@@ -10211,6 +10211,56 @@
                     "zh-hans": "💬纯Python的极简ChatBot界面",
                     "zh-hant": "💬 純Python極簡ChatBot界面"
                 }
+            },
+            "https://github.com/nalgeon/pokitoki": {
+                "repository_name": "pokitoki",
+                "user_name": "nalgeon",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Humble GPT Telegram Bot",
+                "topics": [
+                    "bot",
+                    "chat-gpt",
+                    "chatbot",
+                    "dall-e",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "gpt-4o",
+                    "telegram"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Humble GPT Telegram Bot",
+                    "ja": "謙虚なGPTテレグラムボット",
+                    "zh-hans": "谦逊的GPT Telegram机器人",
+                    "zh-hant": "謙虛的 GPT Telegram 機器人"
+                }
+            },
+            "https://github.com/yohasebe/openai-chat-api-workflow": {
+                "repository_name": "openai-chat-api-workflow",
+                "user_name": "yohasebe",
+                "language": null,
+                "license": "MIT License",
+                "description": "🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, image understanding 👀, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈",
+                "topics": [
+                    "ai",
+                    "alfred",
+                    "chatbot",
+                    "dall-e",
+                    "gpt",
+                    "image-generation",
+                    "image-understanding",
+                    "openai",
+                    "speech-to-text",
+                    "text-to-speech",
+                    "whisper",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, image understanding 👀, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈",
+                    "ja": "🎩 OpenAI Chat APIを使用してGPT-3.5/GPT-4とやり取りするためのAlfred 5ワークフロー 🤖💬 画像生成も可能 🖼️、画像理解 👀、音声からテキストへの変換 🎤、テキストから音声への合成 🔈",
+                    "zh-hans": "🎩 一个用于使用OpenAI Chat API与GPT-3.5/GPT-4进行交互的Alfred 5工作流程 🤖💬 它还允许图像生成 🖼️，图像理解 👀，语音转文字转换 🎤，以及文本转语音合成 🔈",
+                    "zh-hant": "🎩 一個Alfred 5工作流程，用於使用OpenAI Chat API與GPT-3.5/GPT-4進行互動 🤖💬 它還允許圖像生成 🖼️，圖像理解 👀，語音轉文字轉換 🎤，以及文本轉語音合成 🔈"
+                }
             }
         },
         "Browser-extensions": {
@@ -14059,6 +14109,20 @@
                     "ja": "スーパーメモリーを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存したりできます。",
                     "zh-hans": "用超级记忆力建立自己的第二大脑。这是您书签的ChatGPT。使用Chrome扩展程序导入推文或保存网站和内容。",
                     "zh-hant": "用超級記憶力建立您自己的第二大腦。這是您書籤的ChatGPT。使用Chrome擴展程序導入推文或保存網站和內容。"
+                }
+            },
+            "https://github.com/significant-gravitas/auto-gpt-plugin-template": {
+                "repository_name": "Auto-GPT-Plugin-Template",
+                "user_name": "Significant-Gravitas",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A starting point for developing your own plug-in for Auto-GPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A starting point for developing your own plug-in for Auto-GPT",
+                    "ja": "Auto-GPTのための独自のプラグインを開発するための出発点",
+                    "zh-hans": "为开发您自己的Auto-GPT插件提供一个起点",
+                    "zh-hant": "開發自己的Auto-GPT插件的起點"
                 }
             }
         },
@@ -36711,6 +36775,74 @@
                     "ja": "Sol Mate GPTをあなたの電子ペーパーディスプレイで使用できます！",
                     "zh-hans": "Sol Mate GPT但在您的电子纸显示屏上！",
                     "zh-hant": "在您的電子紙顯示器上使用Sol Mate GPT！"
+                }
+            },
+            "https://github.com/ainativelab/gptstore-data-backup": {
+                "repository_name": "gptstore-data-backup",
+                "user_name": "AINativeLab",
+                "language": null,
+                "license": null,
+                "description": "The daily archive of GPT Store's trending data",
+                "topics": [
+                    "gpt",
+                    "gpt-store",
+                    "gpts",
+                    "gptsstore",
+                    "gptstore"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The daily archive of GPT Store's trending data",
+                    "ja": "GPTストアのトレンドデータの日次アーカイブ",
+                    "zh-hans": "GPT Store每日热门数据存档",
+                    "zh-hant": "GPT Store每日熱門數據存檔"
+                }
+            },
+            "https://github.com/axiba053/chatgpt-airport-tizi-fanqiang": {
+                "repository_name": "ChatGPT-airport-tizi-fanqiang",
+                "user_name": "axiba053",
+                "language": null,
+                "license": null,
+                "description": "ChatGPT科学上网梯子机场推荐，GPT4升级教程，Claude-3免费使用教程",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGPT scientific internet access ladder recommended, GPT4 upgrade tutorial, Claude-3 free usage tutorialOutput: ChatGPT scientific internet access ladder recommended, GPT4 upgrade tutorial, Claude-3 free usage tutorial",
+                    "ja": "ChatGPT科学上网梯子サービスのおすすめ、GPT4のアップグレード方法、Claude-3の無料利用方法",
+                    "zh-hans": "ChatGPT科学上网梯子机场推荐，GPT4升级教程，Claude-3免费使用教程ChatGPT科学上网梯子机场推荐，GPT4升级教程，Claude-3免费使用教程",
+                    "zh-hant": "ChatGPT科學上網梯子機場推薦，GPT4升級教程，Claude-3免費使用教程"
+                }
+            },
+            "https://github.com/vscode-reborn-ai/vscode-reborn-ai": {
+                "repository_name": "vscode-reborn-ai",
+                "user_name": "vscode-reborn-ai",
+                "language": "TypeScript",
+                "license": "ISC License",
+                "description": "Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "gpt-3",
+                    "gpt-4",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.",
+                    "ja": "VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。",
+                    "zh-hans": "使用GPT-3和GPT-4在VSCode中重构、改进和调试您的代码。",
+                    "zh-hant": "在VSCode中使用GPT-3和GPT-4重構、改進和除錯您的代碼。"
+                }
+            },
+            "https://github.com/ruvnet/gpts": {
+                "repository_name": "gpts",
+                "user_name": "ruvnet",
+                "language": null,
+                "license": "MIT License",
+                "description": "A collection of the GPTs created by rUv",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A collection of the GPTs created by rUv",
+                    "ja": "rUvによって作成されたGPTのコレクション",
+                    "zh-hans": "rUv创建的GPT集合",
+                    "zh-hant": "rUv創建的GPT集合"
                 }
             }
         }
