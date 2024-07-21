@@ -14,36 +14,23 @@
 
 ## The latest additions 🎉
 
- * Updated [a search tool in Hugging Face Space 🤗](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) to v2. You can search 1500+ projects from GitHub
-
-**Prompts**
- * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 大規模言語モデルを学ぶためのWeb UIプロジェクト。このプロジェクトには、チャット、量子化、ファインチューニング、プロンプトエンジニアリングテンプレート、マルチモダリティなどの機能が含まれています。
-
-
 **Chatbots**
- * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 純粋なPythonで作られたミニマリストなChatBotインターフェース
+ * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虚なGPTテレグラムボット
+ * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 OpenAI Chat APIを使用してGPT-3.5/GPT-4とやり取りするためのAlfred 5ワークフロー 🤖💬 画像生成も可能 🖼️、画像理解 👀、音声からテキストへの変換 🎤、テキストから音声への合成 🔈
 
 
 **Browser-extensions**
- * [supermemory](https://github.com/supermemoryai/supermemory) - スーパーメモリーを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存したりできます。
-
-
-**NLP**
- * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPTは、LLMとRAG技術を活用して、ユーザーのカスタマイズされた知識ベースから学習し、幅広いクエリに対して文脈に即した回答を提供し、迅速かつ正確な情報検索を保証します。
- * [embedJs](https://github.com/llm-tools/embedjs) - LLMsと埋め込みを簡単に扱うためのNodeJS RAGフレームワーク
- * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 私たちは行動の自然言語の説明を機械実行可能なコードに変換します[NeurIPS 2023]私たちは行動の自然言語の説明を機械実行可能なコードに変換します
-
-
-**Openai**
- * [one-hub](https://github.com/martialbe/one-hub) - OpenAI インターフェース管理＆配布システム、songquanpeng/one-api を改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善しました。
+ * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - Auto-GPTのための独自のプラグインを開発するための出発点
 
 
 **Others**
- * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - Sendbird UIKitのオープンソースコードを使用して、数分でチャットを構築できます。
- * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - Sol Mate GPTをあなたの電子ペーパーディスプレイで使用できます！
+ * [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - GPTストアのトレンドデータの日次アーカイブ
+ * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科学上网梯子サービスのおすすめ、GPT4のアップグレード方法、Claude-3の無料利用方法
+ * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。
+ * [gpts](https://github.com/ruvnet/gpts) - rUvによって作成されたGPTのコレクション
 
 
-_Updated on July 18, 2024_ (A total of 1670 repositories listed.)
+_Updated on July 22, 2024_ (A total of 1677 repositories listed.)
 
 ## Table of contents
 
@@ -500,6 +487,8 @@ _Updated on July 18, 2024_ (A total of 1670 repositories listed.)
  * [ChatPilot](https://github.com/shibing624/chatpilot) - ChatPilot: AgentChatの会話を実現し、Google検索、ファイルURL会話（RAG）、コード解釈機能をサポートし、Kimi Chat（ファイル、ドラッグアンドドロップ；URL、送信）を再現しました。
  * [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - WhatsApp用のAIチャットボットをご紹介します - OpenAIのChatGPT、Playground＆DALL·Eによってパワードされた最先端のソリューションです。この革新的なチャットボットは、NodeJS技術を使用して開発され、AIの最新の進歩を活用して、類を見ないユーザーエクスペリエンスを提供しています。
  * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 純粋なPythonで作られたミニマリストなChatBotインターフェース
+ * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虚なGPTテレグラムボット
+ * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 OpenAI Chat APIを使用してGPT-3.5/GPT-4とやり取りするためのAlfred 5ワークフロー 🤖💬 画像生成も可能 🖼️、画像理解 👀、音声からテキストへの変換 🎤、テキストから音声への合成 🔈
 
 
 ## Browser-extensions
@@ -677,6 +666,7 @@ _Updated on July 18, 2024_ (A total of 1670 repositories listed.)
  * [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - Visual Studioに直接chatGPT機能を追加します。
  * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—Python向けの信頼性の高いクローラーを構築するためのWebスクレイピングおよびブラウザ自動化ライブラリ。AI、LLMs、RAG、またはGPTs向けのデータを抽出します。ウェブサイトからHTML、PDF、JPG、PNGなどのファイルをダウンロードします。BeautifulSoup、Playwright、および生のHTTPと連携します。両方のヘッドで動作します。
  * [supermemory](https://github.com/supermemoryai/supermemory) - スーパーメモリーを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存したりできます。
+ * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - Auto-GPTのための独自のプラグインを開発するための出発点
 
 
 ## CLIs
@@ -1788,5 +1778,9 @@ _Updated on July 18, 2024_ (A total of 1670 repositories listed.)
  * [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - Input: ChatGPT side hustle money-making tips must-see, ChatGPT side hustle money-making cheats, ChatGPT from beginner to expertOutput: ChatGPT副業でお金を稼ぐための必見のヒント、ChatGPT副業でお金を稼ぐための秘訣、ChatGPTの初心者からエキスパートまで
  * [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - Sendbird UIKitのオープンソースコードを使用して、数分でチャットを構築できます。
  * [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - Sol Mate GPTをあなたの電子ペーパーディスプレイで使用できます！
+ * [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - GPTストアのトレンドデータの日次アーカイブ
+ * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科学上网梯子サービスのおすすめ、GPT4のアップグレード方法、Claude-3の無料利用方法
+ * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。
+ * [gpts](https://github.com/ruvnet/gpts) - rUvによって作成されたGPTのコレクション
 
 
