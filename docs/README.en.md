@@ -15,22 +15,18 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [pokitoki](https://github.com/nalgeon/pokitoki) - Humble GPT Telegram Bot
- * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, image understanding 👀, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
+ * [AIUI](https://github.com/lspahija/aiui) - AIUI is a platform enabling seamless two-way verbal communication with AI.
 
 
-**Browser-extensions**
- * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - A starting point for developing your own plug-in for Auto-GPT
+**CLIs**
+ * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ChatGPT Bot in CLI with long term memory support using Embeddings.
 
 
 **Others**
- * [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - The daily archive of GPT Store's trending data
- * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - Input: ChatGPT scientific internet access ladder recommended, GPT4 upgrade tutorial, Claude-3 free usage tutorialOutput: ChatGPT scientific internet access ladder recommended, GPT4 upgrade tutorial, Claude-3 free usage tutorial
- * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
- * [gpts](https://github.com/ruvnet/gpts) - A collection of the GPTs created by rUv
+ * [zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 
 
-_Updated on July 22, 2024_ (A total of 1677 repositories listed.)
+_Updated on July 25, 2024_ (A total of 1680 repositories listed.)
 
 ## Table of contents
 
@@ -489,6 +485,7 @@ _Updated on July 22, 2024_ (A total of 1677 repositories listed.)
  * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 minimalistic ChatBot Interface in pure python
  * [pokitoki](https://github.com/nalgeon/pokitoki) - Humble GPT Telegram Bot
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, image understanding 👀, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
+ * [AIUI](https://github.com/lspahija/aiui) - AIUI is a platform enabling seamless two-way verbal communication with AI.
 
 
 ## Browser-extensions
@@ -785,6 +782,7 @@ _Updated on July 22, 2024_ (A total of 1677 repositories listed.)
  * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - Talk to ChatGPT via any Matrix client!
  * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala client for OpenAI API
+ * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ChatGPT Bot in CLI with long term memory support using Embeddings.
 
 
 ## Reimplementations
@@ -1782,5 +1780,6 @@ _Updated on July 22, 2024_ (A total of 1677 repositories listed.)
  * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - Input: ChatGPT scientific internet access ladder recommended, GPT4 upgrade tutorial, Claude-3 free usage tutorialOutput: ChatGPT scientific internet access ladder recommended, GPT4 upgrade tutorial, Claude-3 free usage tutorial
  * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
  * [gpts](https://github.com/ruvnet/gpts) - A collection of the GPTs created by rUv
+ * [zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
 
 

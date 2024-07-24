@@ -15,22 +15,18 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虛的 GPT Telegram 機器人
- * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 一個Alfred 5工作流程，用於使用OpenAI Chat API與GPT-3.5/GPT-4進行互動 🤖💬 它還允許圖像生成 🖼️，圖像理解 👀，語音轉文字轉換 🎤，以及文本轉語音合成 🔈
+ * [AIUI](https://github.com/lspahija/aiui) - AIUI是一個平台，可以實現與人工智能之間無縫的雙向口語交流。
 
 
-**Browser-extensions**
- * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - 開發自己的Auto-GPT插件的起點
+**CLIs**
+ * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 在CLI中使用Embeddings支持長期記憶的ChatGPT機器人。ChatGPT機器人在CLI中具有長期記憶支持，並使用Embeddings。
 
 
 **Others**
- * [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - GPT Store每日熱門數據存檔
- * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科學上網梯子機場推薦，GPT4升級教程，Claude-3免費使用教程
- * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - 在VSCode中使用GPT-3和GPT-4重構、改進和除錯您的代碼。
- * [gpts](https://github.com/ruvnet/gpts) - rUv創建的GPT集合
+ * [zerox](https://github.com/getomni-ai/zerox) - 使用gpt-4o-mini进行零射击pdf OCR
 
 
-_Updated on July 22, 2024_ (A total of 1677 repositories listed.)
+_Updated on July 25, 2024_ (A total of 1680 repositories listed.)
 
 ## Table of contents
 
@@ -489,6 +485,7 @@ _Updated on July 22, 2024_ (A total of 1677 repositories listed.)
  * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 純Python極簡ChatBot界面
  * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虛的 GPT Telegram 機器人
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 一個Alfred 5工作流程，用於使用OpenAI Chat API與GPT-3.5/GPT-4進行互動 🤖💬 它還允許圖像生成 🖼️，圖像理解 👀，語音轉文字轉換 🎤，以及文本轉語音合成 🔈
+ * [AIUI](https://github.com/lspahija/aiui) - AIUI是一個平台，可以實現與人工智能之間無縫的雙向口語交流。
 
 
 ## Browser-extensions
@@ -785,6 +782,7 @@ _Updated on July 22, 2024_ (A total of 1677 repositories listed.)
  * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - 通過任何Matrix客戶端與ChatGPT交談！
  * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI 工具箱 - AI CLI 工具箱，提升 git 提交和 i18n 工作流效率
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala客戶端用於OpenAI API
+ * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 在CLI中使用Embeddings支持長期記憶的ChatGPT機器人。ChatGPT機器人在CLI中具有長期記憶支持，並使用Embeddings。
 
 
 ## Reimplementations
@@ -1782,5 +1780,6 @@ _Updated on July 22, 2024_ (A total of 1677 repositories listed.)
  * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科學上網梯子機場推薦，GPT4升級教程，Claude-3免費使用教程
  * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - 在VSCode中使用GPT-3和GPT-4重構、改進和除錯您的代碼。
  * [gpts](https://github.com/ruvnet/gpts) - rUv創建的GPT集合
+ * [zerox](https://github.com/getomni-ai/zerox) - 使用gpt-4o-mini进行零射击pdf OCR
 
 
