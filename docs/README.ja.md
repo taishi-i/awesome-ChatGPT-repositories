@@ -15,22 +15,18 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虚なGPTテレグラムボット
- * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 OpenAI Chat APIを使用してGPT-3.5/GPT-4とやり取りするためのAlfred 5ワークフロー 🤖💬 画像生成も可能 🖼️、画像理解 👀、音声からテキストへの変換 🎤、テキストから音声への合成 🔈
+ * [AIUI](https://github.com/lspahija/aiui) - AIUIはAIとのシームレスな双方向の音声コミュニケーションを可能にするプラットフォームです。
 
 
-**Browser-extensions**
- * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - Auto-GPTのための独自のプラグインを開発するための出発点
+**CLIs**
+ * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。
 
 
 **Others**
- * [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - GPTストアのトレンドデータの日次アーカイブ
- * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科学上网梯子サービスのおすすめ、GPT4のアップグレード方法、Claude-3の無料利用方法
- * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。
- * [gpts](https://github.com/ruvnet/gpts) - rUvによって作成されたGPTのコレクション
+ * [zerox](https://github.com/getomni-ai/zerox) - ゼロショットpdf OCR with gpt-4o-mini
 
 
-_Updated on July 22, 2024_ (A total of 1677 repositories listed.)
+_Updated on July 25, 2024_ (A total of 1680 repositories listed.)
 
 ## Table of contents
 
@@ -489,6 +485,7 @@ _Updated on July 22, 2024_ (A total of 1677 repositories listed.)
  * [fastui-chat](https://github.com/shroominic/fastui-chat) - 💬 純粋なPythonで作られたミニマリストなChatBotインターフェース
  * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虚なGPTテレグラムボット
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 OpenAI Chat APIを使用してGPT-3.5/GPT-4とやり取りするためのAlfred 5ワークフロー 🤖💬 画像生成も可能 🖼️、画像理解 👀、音声からテキストへの変換 🎤、テキストから音声への合成 🔈
+ * [AIUI](https://github.com/lspahija/aiui) - AIUIはAIとのシームレスな双方向の音声コミュニケーションを可能にするプラットフォームです。
 
 
 ## Browser-extensions
@@ -785,6 +782,7 @@ _Updated on July 22, 2024_ (A total of 1677 repositories listed.)
  * [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - どのMatrixクライアントを使用してもChatGPTと話すことができます！
  * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 ローブCLIツールボックス - AI CLIツールボックス、gitコミットとi18nワークフローの効率を向上
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - OpenAI APIのためのScalaクライアント
+ * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。
 
 
 ## Reimplementations
@@ -1782,5 +1780,6 @@ _Updated on July 22, 2024_ (A total of 1677 repositories listed.)
  * [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ChatGPT科学上网梯子サービスのおすすめ、GPT4のアップグレード方法、Claude-3の無料利用方法
  * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。
  * [gpts](https://github.com/ruvnet/gpts) - rUvによって作成されたGPTのコレクション
+ * [zerox](https://github.com/getomni-ai/zerox) - ゼロショットpdf OCR with gpt-4o-mini
 
 

@@ -10261,6 +10261,34 @@
                     "zh-hans": "🎩 一个用于使用OpenAI Chat API与GPT-3.5/GPT-4进行交互的Alfred 5工作流程 🤖💬 它还允许图像生成 🖼️，图像理解 👀，语音转文字转换 🎤，以及文本转语音合成 🔈",
                     "zh-hant": "🎩 一個Alfred 5工作流程，用於使用OpenAI Chat API與GPT-3.5/GPT-4進行互動 🤖💬 它還允許圖像生成 🖼️，圖像理解 👀，語音轉文字轉換 🎤，以及文本轉語音合成 🔈"
                 }
+            },
+            "https://github.com/lspahija/aiui": {
+                "repository_name": "AIUI",
+                "user_name": "lspahija",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "AIUI is a platform enabling seamless two-way verbal communication with AI.",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "conversation",
+                    "conversational-ai",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "machine-learning",
+                    "speech",
+                    "whisper",
+                    "whisper-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AIUI is a platform enabling seamless two-way verbal communication with AI.",
+                    "ja": "AIUIはAIとのシームレスな双方向の音声コミュニケーションを可能にするプラットフォームです。",
+                    "zh-hans": "AIUI是一个平台，可以实现与人工智能之间无缝的双向口头交流。",
+                    "zh-hant": "AIUI是一個平台，可以實現與人工智能之間無縫的雙向口語交流。"
+                }
             }
         },
         "Browser-extensions": {
@@ -16717,6 +16745,27 @@
                     "ja": "OpenAI APIのためのScalaクライアント",
                     "zh-hans": "Scala客户端用于OpenAI API",
                     "zh-hant": "Scala客戶端用於OpenAI API"
+                }
+            },
+            "https://github.com/lagpixellol/chatgptclibot": {
+                "repository_name": "ChatGPTCLIBot",
+                "user_name": "LagPixelLOL",
+                "language": "C++",
+                "license": "MIT License",
+                "description": "ChatGPT Bot in CLI with long term memory support using Embeddings.",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "gpt-3",
+                    "gpt-4",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Bot in CLI with long term memory support using Embeddings.",
+                    "ja": "埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。",
+                    "zh-hans": "使用嵌入技术支持的长期记忆功能，在CLI中与ChatGPT Bot交流。",
+                    "zh-hant": "在CLI中使用Embeddings支持長期記憶的ChatGPT機器人。ChatGPT機器人在CLI中具有長期記憶支持，並使用Embeddings。"
                 }
             }
         },
@@ -36843,6 +36892,20 @@
                     "ja": "rUvによって作成されたGPTのコレクション",
                     "zh-hans": "rUv创建的GPT集合",
                     "zh-hant": "rUv創建的GPT集合"
+                }
+            },
+            "https://github.com/getomni-ai/zerox": {
+                "repository_name": "zerox",
+                "user_name": "getomni-ai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Zero shot pdf OCR with gpt-4o-mini",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Zero shot pdf OCR with gpt-4o-mini",
+                    "ja": "ゼロショットpdf OCR with gpt-4o-mini",
+                    "zh-hans": "零射击pdf OCR与gpt-4o-mini",
+                    "zh-hant": "使用gpt-4o-mini进行零射击pdf OCR"
                 }
             }
         }
