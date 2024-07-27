@@ -1781,7 +1781,7 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
  * [gpts](https://github.com/ruvnet/gpts) - A collection of the GPTs created by rUv
  * [zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
- * [ChatGPT Queue](https://chromewebstore.google.com/detail/chatgpt-queue/iabnajjakkfbclflgaghociafnjclbem) - Allows you to queue up messages for ChatGPT
+ * [Prompt Chains](https://github.com/MIATECHPARTNERS/PromptChains)- Queue up prompts for ChatGPT and Claude for better performance
 
 
 
