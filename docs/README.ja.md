@@ -14,19 +14,29 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - ConfyUI用のカスタムノードのスイートには、GPTテキストプロンプト生成、LoadVideo、SaveVideo、LoadFramesFromFolder、FrameInterpolatorが含まれています。
+ * [PromptChains](https://github.com/miatechpartners/promptchains) - ChatGPTとClaudeのパフォーマンスを向上させるために、プロンプトをキューに並べてください。
+
+
 **Chatbots**
- * [AIUI](https://github.com/lspahija/aiui) - AIUIはAIとのシームレスな双方向の音声コミュニケーションを可能にするプラットフォームです。
+ * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 ハイライト] OPERA: 過信ペナルティと振り返り割り当てを用いたマルチモーダル大規模言語モデルにおける幻覚の緩和
 
 
-**CLIs**
- * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。
+**Browser-extensions**
+ * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（ノートテイキング）アシスタントが非常にインテリジェントなシステム（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoderなど）を実行しています。
+ * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ WebGPUを使用して、安全かつプライベートに、サーバーなしでVicunaのようなLLMと完全にブラウザでチャットします。Web llmによって提供されます。
+
+
+**NLP**
+ * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API は、さまざまなLLM APIを統一された形式、統一された規格、統一された管理で管理する、オールインワンのAPI管理システムです。これにより、機能、パフォーマンス、ユーザーエクスペリエンスの面で最高のレベルに達することができます。
 
 
 **Others**
- * [zerox](https://github.com/getomni-ai/zerox) - ゼロショットpdf OCR with gpt-4o-mini
+ * [gpt-games](https://github.com/jimliu/gpt-games) - GPTを使用してゲームを作成します。
 
 
-_Updated on July 25, 2024_ (A total of 1680 repositories listed.)
+_Updated on July 29, 2024_ (A total of 1687 repositories listed.)
 
 ## Table of contents
 
@@ -248,6 +258,8 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGCの求職面接、必須の基礎知識、ヒントワードエンジニアリング、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintuneなど、AIGCの求職に必要なすべてを知っておく必要があります。
  * [npi](https://github.com/npi-ai/npi) - AIエージェント向けのツール使用APIプラットフォーム
  * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 大規模言語モデルを学ぶためのWeb UIプロジェクト。このプロジェクトには、チャット、量子化、ファインチューニング、プロンプトエンジニアリングテンプレート、マルチモダリティなどの機能が含まれています。
+ * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - ConfyUI用のカスタムノードのスイートには、GPTテキストプロンプト生成、LoadVideo、SaveVideo、LoadFramesFromFolder、FrameInterpolatorが含まれています。
+ * [PromptChains](https://github.com/miatechpartners/promptchains) - ChatGPTとClaudeのパフォーマンスを向上させるために、プロンプトをキューに並べてください。
 
 
 ## Chatbots
@@ -486,6 +498,7 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虚なGPTテレグラムボット
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 OpenAI Chat APIを使用してGPT-3.5/GPT-4とやり取りするためのAlfred 5ワークフロー 🤖💬 画像生成も可能 🖼️、画像理解 👀、音声からテキストへの変換 🎤、テキストから音声への合成 🔈
  * [AIUI](https://github.com/lspahija/aiui) - AIUIはAIとのシームレスな双方向の音声コミュニケーションを可能にするプラットフォームです。
+ * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 ハイライト] OPERA: 過信ペナルティと振り返り割り当てを用いたマルチモーダル大規模言語モデルにおける幻覚の緩和
 
 
 ## Browser-extensions
@@ -664,6 +677,8 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—Python向けの信頼性の高いクローラーを構築するためのWebスクレイピングおよびブラウザ自動化ライブラリ。AI、LLMs、RAG、またはGPTs向けのデータを抽出します。ウェブサイトからHTML、PDF、JPG、PNGなどのファイルをダウンロードします。BeautifulSoup、Playwright、および生のHTTPと連携します。両方のヘッドで動作します。
  * [supermemory](https://github.com/supermemoryai/supermemory) - スーパーメモリーを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存したりできます。
  * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - Auto-GPTのための独自のプラグインを開発するための出発点
+ * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（ノートテイキング）アシスタントが非常にインテリジェントなシステム（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoderなど）を実行しています。
+ * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ WebGPUを使用して、安全かつプライベートに、サーバーなしでVicunaのようなLLMと完全にブラウザでチャットします。Web llmによって提供されます。
 
 
 ## CLIs
@@ -1092,6 +1107,7 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPTは、LLMとRAG技術を活用して、ユーザーのカスタマイズされた知識ベースから学習し、幅広いクエリに対して文脈に即した回答を提供し、迅速かつ正確な情報検索を保証します。
  * [embedJs](https://github.com/llm-tools/embedjs) - LLMsと埋め込みを簡単に扱うためのNodeJS RAGフレームワーク
  * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 私たちは行動の自然言語の説明を機械実行可能なコードに変換します[NeurIPS 2023]私たちは行動の自然言語の説明を機械実行可能なコードに変換します
+ * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API は、さまざまなLLM APIを統一された形式、統一された規格、統一された管理で管理する、オールインワンのAPI管理システムです。これにより、機能、パフォーマンス、ユーザーエクスペリエンスの面で最高のレベルに達することができます。
 
 
 ## Langchain
@@ -1781,5 +1797,6 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。
  * [gpts](https://github.com/ruvnet/gpts) - rUvによって作成されたGPTのコレクション
  * [zerox](https://github.com/getomni-ai/zerox) - ゼロショットpdf OCR with gpt-4o-mini
+ * [gpt-games](https://github.com/jimliu/gpt-games) - GPTを使用してゲームを作成します。
 
 

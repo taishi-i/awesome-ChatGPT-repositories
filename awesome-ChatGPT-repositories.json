@@ -4721,6 +4721,43 @@
                     "zh-hans": "一个网络UI项目，旨在学习大型语言模型。该项目包括聊天、量化、微调、提示工程模板和多模态等功能。",
                     "zh-hant": "一個網頁UI項目，旨在學習大型語言模型。該項目包括聊天、量化、微調、提示工程模板和多模式等功能。"
                 }
+            },
+            "https://github.com/nuked88/comfyui-n-nodes": {
+                "repository_name": "ComfyUI-N-Nodes",
+                "user_name": "Nuked88",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A suite of custom nodes for ConfyUI that includes GPT text-prompt generation, LoadVideo, SaveVideo, LoadFramesFromFolder and FrameInterpolator",
+                "topics": [
+                    "comfyui",
+                    "gpt",
+                    "llama",
+                    "llamacpp",
+                    "loadvideo",
+                    "savevideo",
+                    "stablediffusion",
+                    "videonode"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A suite of custom nodes for ConfyUI that includes GPT text-prompt generation, LoadVideo, SaveVideo, LoadFramesFromFolder and FrameInterpolator",
+                    "ja": "ConfyUI用のカスタムノードのスイートには、GPTテキストプロンプト生成、LoadVideo、SaveVideo、LoadFramesFromFolder、FrameInterpolatorが含まれています。",
+                    "zh-hans": "一个适用于ConfyUI的自定义节点套件，包括GPT文本提示生成、LoadVideo、SaveVideo、LoadFramesFromFolder和FrameInterpolator。",
+                    "zh-hant": "一套為ConfyUI定製的節點套件，包括GPT文本提示生成、LoadVideo、SaveVideo、LoadFramesFromFolder和FrameInterpolator"
+                }
+            },
+            "https://github.com/miatechpartners/promptchains": {
+                "repository_name": "PromptChains",
+                "user_name": "MIATECHPARTNERS",
+                "language": null,
+                "license": null,
+                "description": "Queue up prompts for ChatGPT and Claude for better performance",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Queue up prompts for ChatGPT and Claude for better performance",
+                    "ja": "ChatGPTとClaudeのパフォーマンスを向上させるために、プロンプトをキューに並べてください。",
+                    "zh-hans": "为了更好的表现，为ChatGPT和Claude排队提示。",
+                    "zh-hant": "排隊提示ChatGPT和Claude以獲得更好的表現"
+                }
             }
         },
         "Chatbots": {
@@ -10289,6 +10326,29 @@
                     "zh-hans": "AIUI是一个平台，可以实现与人工智能之间无缝的双向口头交流。",
                     "zh-hant": "AIUI是一個平台，可以實現與人工智能之間無縫的雙向口語交流。"
                 }
+            },
+            "https://github.com/shikiw/opera": {
+                "repository_name": "OPERA",
+                "user_name": "shikiw",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "[CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "gpt-4",
+                    "large-multimodal-models",
+                    "llama",
+                    "multimodal",
+                    "vision-language-learning",
+                    "vision-language-model"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation",
+                    "ja": "[CVPR 2024 ハイライト] OPERA: 過信ペナルティと振り返り割り当てを用いたマルチモーダル大規模言語モデルにおける幻覚の緩和",
+                    "zh-hans": "[CVPR 2024 亮点] OPERA：通过过度信任惩罚和回顾分配减轻多模态大型语言模型中的幻觉",
+                    "zh-hant": "[CVPR 2024 重點] OPERA：通過過度信任處罰和回顧分配減輕多模式大型語言模型中的幻覺"
+                }
             }
         },
         "Browser-extensions": {
@@ -14151,6 +14211,56 @@
                     "ja": "Auto-GPTのための独自のプラグインを開発するための出発点",
                     "zh-hans": "为开发您自己的Auto-GPT插件提供一个起点",
                     "zh-hant": "開發自己的Auto-GPT插件的起點"
+                }
+            },
+            "https://github.com/alondmnt/joplin-plugin-jarvis": {
+                "repository_name": "joplin-plugin-jarvis",
+                "user_name": "alondmnt",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)",
+                "topics": [
+                    "assistant",
+                    "chatgpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt4all",
+                    "huggingface",
+                    "llm",
+                    "note-taking",
+                    "palm",
+                    "semantic-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)",
+                    "ja": "Joplin（ノートテイキング）アシスタントが非常にインテリジェントなシステム（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoderなど）を実行しています。",
+                    "zh-hans": "Joplin（笔记）助手运行一个非常智能的系统（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoder等）。",
+                    "zh-hant": "Joplin（筆記）助手運行一個非常智能的系統（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoder等）。"
+                }
+            },
+            "https://github.com/ryan-yang125/chatllm-web": {
+                "repository_name": "ChatLLM-Web",
+                "user_name": "Ryan-yang125",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.",
+                "topics": [
+                    "chatgpt",
+                    "deep-learning",
+                    "llm",
+                    "nextjs",
+                    "pwa",
+                    "react",
+                    "tvm",
+                    "vicuna",
+                    "webgpu",
+                    "webml"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.",
+                    "ja": "🗣️ WebGPUを使用して、安全かつプライベートに、サーバーなしでVicunaのようなLLMと完全にブラウザでチャットします。Web llmによって提供されます。",
+                    "zh-hans": "使用WebGPU在浏览器中与像维库纳一样的LLM进行安全、私密且无服务器的聊天。由web llm 提供支持。",
+                    "zh-hant": "🗣️ 在您的浏览器中完全与Vicuna一样与LLM聊天，使用WebGPU安全、私密且无需服务器。由web llm 提供支持。"
                 }
             }
         },
@@ -23121,6 +23231,32 @@
                     "ja": "[NeurIPS 2023] 私たちは行動の自然言語の説明を機械実行可能なコードに変換します[NeurIPS 2023]私たちは行動の自然言語の説明を機械実行可能なコードに変換します",
                     "zh-hans": "[NeurIPS 2023] 我们将行为的自然语言描述转化为可执行代码。",
                     "zh-hant": "[NeurIPS 2023] 我們將行為的自然語言描述轉換為機器可執行的代碼"
+                }
+            },
+            "https://github.com/iimeta/fastapi": {
+                "repository_name": "fastapi",
+                "user_name": "iimeta",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。",
+                "topics": [
+                    "api",
+                    "chatgpt",
+                    "ernie-bot",
+                    "fast",
+                    "fastapi",
+                    "glm",
+                    "gpt",
+                    "gpt-4",
+                    "openai",
+                    "qwen",
+                    "spark"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Zhiyuan Fast API is a one-stop API management system that standardizes, unifies, and manages various LLM APIs to achieve the ultimate in functionality, performance, and user experience.",
+                    "ja": "智元 Fast API は、さまざまなLLM APIを統一された形式、統一された規格、統一された管理で管理する、オールインワンのAPI管理システムです。これにより、機能、パフォーマンス、ユーザーエクスペリエンスの面で最高のレベルに達することができます。",
+                    "zh-hans": "智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。",
+                    "zh-hant": "智元 Fast API 是一站式API管理系統，將各類LLM API進行統一格式、統一規範、統一管理，使其在功能、性能和用戶體驗上達到極致。"
                 }
             }
         },
@@ -36906,6 +37042,20 @@
                     "ja": "ゼロショットpdf OCR with gpt-4o-mini",
                     "zh-hans": "零射击pdf OCR与gpt-4o-mini",
                     "zh-hant": "使用gpt-4o-mini进行零射击pdf OCR"
+                }
+            },
+            "https://github.com/jimliu/gpt-games": {
+                "repository_name": "gpt-games",
+                "user_name": "JimLiu",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Build games with GPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Build games with GPT",
+                    "ja": "GPTを使用してゲームを作成します。",
+                    "zh-hans": "使用GPT构建游戏",
+                    "zh-hant": "使用GPT建立遊戲"
                 }
             }
         }

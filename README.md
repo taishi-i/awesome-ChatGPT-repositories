@@ -14,19 +14,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - A suite of custom nodes for ConfyUI that includes GPT text-prompt generation, LoadVideo, SaveVideo, LoadFramesFromFolder and FrameInterpolator
+ * [PromptChains](https://github.com/miatechpartners/promptchains) - Queue up prompts for ChatGPT and Claude for better performance
+
+
 **Chatbots**
- * [AIUI](https://github.com/lspahija/aiui) - AIUI is a platform enabling seamless two-way verbal communication with AI.
+ * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 
 
-**CLIs**
- * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ChatGPT Bot in CLI with long term memory support using Embeddings.
+**Browser-extensions**
+ * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)
+ * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
+
+
+**NLP**
+ * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
 
 
 **Others**
- * [zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
+ * [gpt-games](https://github.com/jimliu/gpt-games) - Build games with GPT
 
 
-_Updated on July 25, 2024_ (A total of 1680 repositories listed.)
+_Updated on July 29, 2024_ (A total of 1687 repositories listed.)
 
 ## Table of contents
 
@@ -248,6 +258,8 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGC 求职面经、必备基础知识、提示词工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求职你所需要知道的一切~
  * [npi](https://github.com/npi-ai/npi) - Tool use APIs platform for AI Agent
  * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality.
+ * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - A suite of custom nodes for ConfyUI that includes GPT text-prompt generation, LoadVideo, SaveVideo, LoadFramesFromFolder and FrameInterpolator
+ * [PromptChains](https://github.com/miatechpartners/promptchains) - Queue up prompts for ChatGPT and Claude for better performance
 
 
 ## Chatbots
@@ -486,6 +498,7 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [pokitoki](https://github.com/nalgeon/pokitoki) - Humble GPT Telegram Bot
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, image understanding 👀, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
  * [AIUI](https://github.com/lspahija/aiui) - AIUI is a platform enabling seamless two-way verbal communication with AI.
+ * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
 
 
 ## Browser-extensions
@@ -664,6 +677,8 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
  * [supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
  * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - A starting point for developing your own plug-in for Auto-GPT
+ * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)
+ * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
 
 
 ## CLIs
@@ -1092,6 +1107,7 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT, leveraging LLM and RAG technology, learns from user-customized knowledge bases to provide contextually relevant answers for a wide range of queries, ensuring rapid and accurate information retrieval.
  * [embedJs](https://github.com/llm-tools/embedjs) - A NodeJS RAG framework to easily work with LLMs and embeddings
  * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] We turn natural language descriptions of behaviors into machine-executable code
+ * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
 
 
 ## Langchain
@@ -1781,7 +1797,6 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - Refactor, improve, and debug your code in VSCode with GPT-3 and GPT-4.
  * [gpts](https://github.com/ruvnet/gpts) - A collection of the GPTs created by rUv
  * [zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
- * [Prompt Chains](https://github.com/MIATECHPARTNERS/PromptChains)- Queue up prompts for ChatGPT and Claude for better performance
-
+ * [gpt-games](https://github.com/jimliu/gpt-games) - Build games with GPT
 
 
