@@ -14,19 +14,29 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - 一套為ConfyUI定製的節點套件，包括GPT文本提示生成、LoadVideo、SaveVideo、LoadFramesFromFolder和FrameInterpolator
+ * [PromptChains](https://github.com/miatechpartners/promptchains) - 排隊提示ChatGPT和Claude以獲得更好的表現
+
+
 **Chatbots**
- * [AIUI](https://github.com/lspahija/aiui) - AIUI是一個平台，可以實現與人工智能之間無縫的雙向口語交流。
+ * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 重點] OPERA：通過過度信任處罰和回顧分配減輕多模式大型語言模型中的幻覺
 
 
-**CLIs**
- * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 在CLI中使用Embeddings支持長期記憶的ChatGPT機器人。ChatGPT機器人在CLI中具有長期記憶支持，並使用Embeddings。
+**Browser-extensions**
+ * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（筆記）助手運行一個非常智能的系統（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoder等）。
+ * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ 在您的浏览器中完全与Vicuna一样与LLM聊天，使用WebGPU安全、私密且无需服务器。由web llm 提供支持。
+
+
+**NLP**
+ * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系統，將各類LLM API進行統一格式、統一規範、統一管理，使其在功能、性能和用戶體驗上達到極致。
 
 
 **Others**
- * [zerox](https://github.com/getomni-ai/zerox) - 使用gpt-4o-mini进行零射击pdf OCR
+ * [gpt-games](https://github.com/jimliu/gpt-games) - 使用GPT建立遊戲
 
 
-_Updated on July 25, 2024_ (A total of 1680 repositories listed.)
+_Updated on July 29, 2024_ (A total of 1687 repositories listed.)
 
 ## Table of contents
 
@@ -248,6 +258,8 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - 📚 AIGC 求職面經、必備基礎知識、提示詞工程、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintune 等 AIGC 求職你所需要知道的一切~
  * [npi](https://github.com/npi-ai/npi) - 工具使用API平台為AI代理程式
  * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 一個網頁UI項目，旨在學習大型語言模型。該項目包括聊天、量化、微調、提示工程模板和多模式等功能。
+ * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - 一套為ConfyUI定製的節點套件，包括GPT文本提示生成、LoadVideo、SaveVideo、LoadFramesFromFolder和FrameInterpolator
+ * [PromptChains](https://github.com/miatechpartners/promptchains) - 排隊提示ChatGPT和Claude以獲得更好的表現
 
 
 ## Chatbots
@@ -486,6 +498,7 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [pokitoki](https://github.com/nalgeon/pokitoki) - 謙虛的 GPT Telegram 機器人
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 一個Alfred 5工作流程，用於使用OpenAI Chat API與GPT-3.5/GPT-4進行互動 🤖💬 它還允許圖像生成 🖼️，圖像理解 👀，語音轉文字轉換 🎤，以及文本轉語音合成 🔈
  * [AIUI](https://github.com/lspahija/aiui) - AIUI是一個平台，可以實現與人工智能之間無縫的雙向口語交流。
+ * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 重點] OPERA：通過過度信任處罰和回顧分配減輕多模式大型語言模型中的幻覺
 
 
 ## Browser-extensions
@@ -664,6 +677,8 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [crawlee-python](https://github.com/apify/crawlee-python) - Crawlee-一個用於Python的網頁爬蟲和瀏覽器自動化庫，用於構建可靠的爬蟲。從網站提取數據，用於AI、LLMs、RAG或GPTs。從網站下載HTML、PDF、JPG、PNG和其他文件。與BeautifulSoup、Playwright和原始HTTP一起使用。支持headless模式。
  * [supermemory](https://github.com/supermemoryai/supermemory) - 用超級記憶力建立您自己的第二大腦。這是您書籤的ChatGPT。使用Chrome擴展程序導入推文或保存網站和內容。
  * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - 開發自己的Auto-GPT插件的起點
+ * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（筆記）助手運行一個非常智能的系統（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoder等）。
+ * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ 在您的浏览器中完全与Vicuna一样与LLM聊天，使用WebGPU安全、私密且无需服务器。由web llm 提供支持。
 
 
 ## CLIs
@@ -1092,6 +1107,7 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [rag-gpt](https://github.com/gpt-open/rag-gpt) - RAG-GPT通過利用LLM和RAG技術，從用戶定製的知識庫中學習，為各種查詢提供相應的答案，確保快速準確的信息檢索。
  * [embedJs](https://github.com/llm-tools/embedjs) - 一個 NodeJS RAG 框架，可以輕鬆地處理LLMs和嵌入。
  * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 我們將行為的自然語言描述轉換為機器可執行的代碼
+ * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系統，將各類LLM API進行統一格式、統一規範、統一管理，使其在功能、性能和用戶體驗上達到極致。
 
 
 ## Langchain
@@ -1781,5 +1797,6 @@ _Updated on July 25, 2024_ (A total of 1680 repositories listed.)
  * [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - 在VSCode中使用GPT-3和GPT-4重構、改進和除錯您的代碼。
  * [gpts](https://github.com/ruvnet/gpts) - rUv創建的GPT集合
  * [zerox](https://github.com/getomni-ai/zerox) - 使用gpt-4o-mini进行零射击pdf OCR
+ * [gpt-games](https://github.com/jimliu/gpt-games) - 使用GPT建立遊戲
 
 
