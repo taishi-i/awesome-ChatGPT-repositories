@@ -14,29 +14,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - A suite of custom nodes for ConfyUI that includes GPT text-prompt generation, LoadVideo, SaveVideo, LoadFramesFromFolder and FrameInterpolator
- * [PromptChains](https://github.com/miatechpartners/promptchains) - Queue up prompts for ChatGPT and Claude for better performance
-
-
 **Chatbots**
- * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
+ * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
+ * [psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 
 
-**Browser-extensions**
- * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)
- * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
+**CLIs**
+ * [openai4j](https://github.com/lambdua/openai4j) - Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning.
 
 
-**NLP**
- * [fastapi](https://github.com/iimeta/fastapi) - Zhiyuan Fast API is a one-stop API management system that standardizes, unifies, and manages various LLM APIs to achieve the ultimate in functionality, performance, and user experience.
+**Langchain**
+ * [RepoAgent](https://github.com/openbmb/repoagent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
 
 
 **Others**
- * [gpt-games](https://github.com/jimliu/gpt-games) - Build games with GPT
+ * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - Connet to CloudFlare WARP, exposing `socks5` proxy all together.
 
 
-_Updated on July 29, 2024_ (A total of 1687 repositories listed.)
+_Updated on August 01, 2024_ (A total of 1692 repositories listed.)
 
 ## Table of contents
 
@@ -499,6 +494,8 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 An Alfred 5 Workflow for using OpenAI Chat API to interact with GPT-3.5/GPT-4 🤖💬 It also allows image generation 🖼️, image understanding 👀, speech-to-text conversion 🎤, and text-to-speech synthesis 🔈
  * [AIUI](https://github.com/lspahija/aiui) - AIUI is a platform enabling seamless two-way verbal communication with AI.
  * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
+ * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
+ * [psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 
 
 ## Browser-extensions
@@ -798,6 +795,7 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala client for OpenAI API
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ChatGPT Bot in CLI with long term memory support using Embeddings.
+ * [openai4j](https://github.com/lambdua/openai4j) - Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning.
 
 
 ## Reimplementations
@@ -1208,6 +1206,7 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth provides a user-friendly solution to quickly setup oauth for your custom GPT and self-host it.
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)
+ * [RepoAgent](https://github.com/openbmb/repoagent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
 
 
 ## Unity
@@ -1798,5 +1797,6 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [gpts](https://github.com/ruvnet/gpts) - A collection of the GPTs created by rUv
  * [zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
  * [gpt-games](https://github.com/jimliu/gpt-games) - Build games with GPT
+ * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - Connet to CloudFlare WARP, exposing `socks5` proxy all together.
 
 
