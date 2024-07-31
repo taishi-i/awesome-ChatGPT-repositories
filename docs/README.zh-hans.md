@@ -14,29 +14,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - 一个适用于ConfyUI的自定义节点套件，包括GPT文本提示生成、LoadVideo、SaveVideo、LoadFramesFromFolder和FrameInterpolator。
- * [PromptChains](https://github.com/miatechpartners/promptchains) - 为了更好的表现，为ChatGPT和Claude排队提示。
-
-
 **Chatbots**
- * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 亮点] OPERA：通过过度信任惩罚和回顾分配减轻多模态大型语言模型中的幻觉
+ * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - 将AI模型（如ChatGPT-3.5/4.0、百度一言、新必应、Bard）连接到应用程序（如微信、公众号、钉钉、Telegram、QQ）。
+ * [psychic](https://github.com/psychic-api/psychic) - 为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。
 
 
-**Browser-extensions**
- * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（笔记）助手运行一个非常智能的系统（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoder等）。
- * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 使用WebGPU在浏览器中与像维库纳一样的LLM进行安全、私密且无服务器的聊天。由web llm 提供支持。
+**CLIs**
+ * [openai4j](https://github.com/lambdua/openai4j) - Java客户端库用于OpenAI API。完全支持所有OpenAI API模型，包括Completions，Chat，Edits，Embeddings，Audio，Files，Assistants-v2，Images，Moderations，Batch和Fine-tuning。
 
 
-**NLP**
- * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
+**Langchain**
+ * [RepoAgent](https://github.com/openbmb/repoagent) - 一个由LLM驱动的存储库代理，旨在帮助开发人员和团队快速生成文档并理解存储库。
 
 
 **Others**
- * [gpt-games](https://github.com/jimliu/gpt-games) - 使用GPT构建游戏
+ * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - 连接到CloudFlare WARP，同时暴露`soks5`代理。
 
 
-_Updated on July 29, 2024_ (A total of 1687 repositories listed.)
+_Updated on August 01, 2024_ (A total of 1692 repositories listed.)
 
 ## Table of contents
 
@@ -499,6 +494,8 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 一个用于使用OpenAI Chat API与GPT-3.5/GPT-4进行交互的Alfred 5工作流程 🤖💬 它还允许图像生成 🖼️，图像理解 👀，语音转文字转换 🎤，以及文本转语音合成 🔈
  * [AIUI](https://github.com/lspahija/aiui) - AIUI是一个平台，可以实现与人工智能之间无缝的双向口头交流。
  * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 亮点] OPERA：通过过度信任惩罚和回顾分配减轻多模态大型语言模型中的幻觉
+ * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - 将AI模型（如ChatGPT-3.5/4.0、百度一言、新必应、Bard）连接到应用程序（如微信、公众号、钉钉、Telegram、QQ）。
+ * [psychic](https://github.com/psychic-api/psychic) - 为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。
 
 
 ## Browser-extensions
@@ -798,6 +795,7 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI工具箱 - AI CLI工具箱，提高git提交和i18n工作流效率
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala客户端用于OpenAI API
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 使用嵌入技术支持的长期记忆功能，在CLI中与ChatGPT Bot交流。
+ * [openai4j](https://github.com/lambdua/openai4j) - Java客户端库用于OpenAI API。完全支持所有OpenAI API模型，包括Completions，Chat，Edits，Embeddings，Audio，Files，Assistants-v2，Images，Moderations，Batch和Fine-tuning。
 
 
 ## Reimplementations
@@ -1208,6 +1206,7 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 免费AI搜索，💡 开源困惑度，📍 支持Ollama/SearXNG，支持Docker部署。
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth提供了一个用户友好的解决方案，可以快速设置oauth，用于您定制的GPT并自行托管。
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 为Swift优化的LangChain。针对iOS、macOS、watchOS（部分）和visionOS进行了优化。（测试版）
+ * [RepoAgent](https://github.com/openbmb/repoagent) - 一个由LLM驱动的存储库代理，旨在帮助开发人员和团队快速生成文档并理解存储库。
 
 
 ## Unity
@@ -1798,5 +1797,6 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [gpts](https://github.com/ruvnet/gpts) - rUv创建的GPT集合
  * [zerox](https://github.com/getomni-ai/zerox) - 零射击pdf OCR与gpt-4o-mini
  * [gpt-games](https://github.com/jimliu/gpt-games) - 使用GPT构建游戏
+ * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - 连接到CloudFlare WARP，同时暴露`soks5`代理。
 
 

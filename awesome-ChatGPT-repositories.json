@@ -10349,6 +10349,51 @@
                     "zh-hans": "[CVPR 2024 亮点] OPERA：通过过度信任惩罚和回顾分配减轻多模态大型语言模型中的幻觉",
                     "zh-hant": "[CVPR 2024 重點] OPERA：通過過度信任處罰和回顧分配減輕多模式大型語言模型中的幻覺"
                 }
+            },
+            "https://github.com/zhayujie/bot-on-anything": {
+                "repository_name": "bot-on-anything",
+                "user_name": "zhayujie",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。",
+                "topics": [
+                    "chatgpt",
+                    "gmail",
+                    "qq",
+                    "slack",
+                    "telegram",
+                    "web",
+                    "wechat",
+                    "wechat-official-account"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。",
+                    "ja": "AIモデル（ChatGPT-3.5/4.0、Baidu Yiyan、New Bing、Bardなど）をアプリ（Wechat、公式アカウント、DingTalk、Telegram、QQなど）に接続します。ChatGPT、必应、文心一言、谷歌Bardなどの対話モデルをWechat、公式アカウント、QQ、Telegram、Gmail、Slack、Web、企業Wechat、飛書、DingTalkなどのさまざまなアプリに接続します。",
+                    "zh-hans": "将AI模型（如ChatGPT-3.5/4.0、百度一言、新必应、Bard）连接到应用程序（如微信、公众号、钉钉、Telegram、QQ）。",
+                    "zh-hant": "將 ChatGPT、必應、文心一言、谷歌Bard 等對話模型連接各類應用，如微信、公眾號、QQ、Telegram、Gmail、Slack、Web、企業微信、飛書、釘釘等。"
+                }
+            },
+            "https://github.com/psychic-api/psychic": {
+                "repository_name": "psychic",
+                "user_name": "psychic-api",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "conversational-ai",
+                    "etl-pipelines",
+                    "langchain",
+                    "openai",
+                    "weaviate"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration",
+                    "ja": "LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。",
+                    "zh-hans": "为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。",
+                    "zh-hant": "數據整合平台適用於LLM。通過即插即用的授權連接到SaaS工具，並從N個數據來源同步文件，只需一個集成。"
+                }
             }
         },
         "Browser-extensions": {
@@ -16876,6 +16921,34 @@
                     "ja": "埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。",
                     "zh-hans": "使用嵌入技术支持的长期记忆功能，在CLI中与ChatGPT Bot交流。",
                     "zh-hant": "在CLI中使用Embeddings支持長期記憶的ChatGPT機器人。ChatGPT機器人在CLI中具有長期記憶支持，並使用Embeddings。"
+                }
+            },
+            "https://github.com/lambdua/openai4j": {
+                "repository_name": "openai4j",
+                "user_name": "Lambdua",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning.",
+                "topics": [
+                    "assistants-api",
+                    "chatgpt",
+                    "chatgpt4",
+                    "gpt-4o",
+                    "gpt-4o-api",
+                    "gpt-vision",
+                    "gpt4",
+                    "openai",
+                    "openai-api",
+                    "openai-api-chatbot",
+                    "openai-assistant-api",
+                    "openai-images",
+                    "openai-whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning.",
+                    "ja": "OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。",
+                    "zh-hans": "Java客户端库用于OpenAI API。完全支持所有OpenAI API模型，包括Completions，Chat，Edits，Embeddings，Audio，Files，Assistants-v2，Images，Moderations，Batch和Fine-tuning。",
+                    "zh-hant": "Java客戶端庫用於OpenAI API。對所有OpenAI API模型提供全面支持，包括Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch和Fine-tuning。"
                 }
             }
         },
@@ -25525,6 +25598,34 @@
                     "ja": "🚀 Swift用LangChain。iOS、macOS、watchOS（一部）およびvisionOS向けに最適化されています。（ベータ版）",
                     "zh-hans": "🚀 为Swift优化的LangChain。针对iOS、macOS、watchOS（部分）和visionOS进行了优化。（测试版）",
                     "zh-hant": "🚀 LangChain for Swift。針對iOS、macOS、watchOS（部分）和visionOS進行了優化。（beta）"
+                }
+            },
+            "https://github.com/openbmb/repoagent": {
+                "repository_name": "RepoAgent",
+                "user_name": "OpenBMB",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.",
+                "topics": [
+                    "agent",
+                    "chatglm",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "gpt",
+                    "gpt-4",
+                    "langchain",
+                    "llama",
+                    "llama-index",
+                    "llms",
+                    "qwen",
+                    "rag",
+                    "repo-level-debugging"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.",
+                    "ja": "開発者やチームが素早くドキュメントを生成し、リポジトリを理解するのを支援するLLMパワードのリポジトリエージェント。",
+                    "zh-hans": "一个由LLM驱动的存储库代理，旨在帮助开发人员和团队快速生成文档并理解存储库。",
+                    "zh-hant": "一個由LLM驅動的存儲庫代理，旨在幫助開發人員和團隊快速生成文檔並理解存儲庫。"
                 }
             }
         },
@@ -37056,6 +37157,26 @@
                     "ja": "GPTを使用してゲームを作成します。",
                     "zh-hans": "使用GPT构建游戏",
                     "zh-hant": "使用GPT建立遊戲"
+                }
+            },
+            "https://github.com/mon-ius/docker-warp-socks": {
+                "repository_name": "Docker-Warp-Socks",
+                "user_name": "Mon-ius",
+                "language": "Shell",
+                "license": "GNU General Public License v3.0",
+                "description": "Connet to CloudFlare WARP, exposing `socks5` proxy all together.",
+                "topics": [
+                    "chatgpt",
+                    "cloudflare",
+                    "docker",
+                    "warp-plus",
+                    "wireguard"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Connet to CloudFlare WARP, exposing `socks5` proxy all together.",
+                    "ja": "CloudFlare WARPに接続し、一緒に`socks5`プロキシを公開します。",
+                    "zh-hans": "连接到CloudFlare WARP，同时暴露`soks5`代理。",
+                    "zh-hant": "連接到CloudFlare WARP，一起暴露`socls5`代理。"
                 }
             }
         }

@@ -14,29 +14,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - ConfyUI用のカスタムノードのスイートには、GPTテキストプロンプト生成、LoadVideo、SaveVideo、LoadFramesFromFolder、FrameInterpolatorが含まれています。
- * [PromptChains](https://github.com/miatechpartners/promptchains) - ChatGPTとClaudeのパフォーマンスを向上させるために、プロンプトをキューに並べてください。
-
-
 **Chatbots**
- * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 ハイライト] OPERA: 過信ペナルティと振り返り割り当てを用いたマルチモーダル大規模言語モデルにおける幻覚の緩和
+ * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - AIモデル（ChatGPT-3.5/4.0、Baidu Yiyan、New Bing、Bardなど）をアプリ（Wechat、公式アカウント、DingTalk、Telegram、QQなど）に接続します。ChatGPT、必应、文心一言、谷歌Bardなどの対話モデルをWechat、公式アカウント、QQ、Telegram、Gmail、Slack、Web、企業Wechat、飛書、DingTalkなどのさまざまなアプリに接続します。
+ * [psychic](https://github.com/psychic-api/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
 
 
-**Browser-extensions**
- * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（ノートテイキング）アシスタントが非常にインテリジェントなシステム（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoderなど）を実行しています。
- * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ WebGPUを使用して、安全かつプライベートに、サーバーなしでVicunaのようなLLMと完全にブラウザでチャットします。Web llmによって提供されます。
+**CLIs**
+ * [openai4j](https://github.com/lambdua/openai4j) - OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。
 
 
-**NLP**
- * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API は、さまざまなLLM APIを統一された形式、統一された規格、統一された管理で管理する、オールインワンのAPI管理システムです。これにより、機能、パフォーマンス、ユーザーエクスペリエンスの面で最高のレベルに達することができます。
+**Langchain**
+ * [RepoAgent](https://github.com/openbmb/repoagent) - 開発者やチームが素早くドキュメントを生成し、リポジトリを理解するのを支援するLLMパワードのリポジトリエージェント。
 
 
 **Others**
- * [gpt-games](https://github.com/jimliu/gpt-games) - GPTを使用してゲームを作成します。
+ * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - CloudFlare WARPに接続し、一緒に`socks5`プロキシを公開します。
 
 
-_Updated on July 29, 2024_ (A total of 1687 repositories listed.)
+_Updated on August 01, 2024_ (A total of 1692 repositories listed.)
 
 ## Table of contents
 
@@ -499,6 +494,8 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 OpenAI Chat APIを使用してGPT-3.5/GPT-4とやり取りするためのAlfred 5ワークフロー 🤖💬 画像生成も可能 🖼️、画像理解 👀、音声からテキストへの変換 🎤、テキストから音声への合成 🔈
  * [AIUI](https://github.com/lspahija/aiui) - AIUIはAIとのシームレスな双方向の音声コミュニケーションを可能にするプラットフォームです。
  * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 ハイライト] OPERA: 過信ペナルティと振り返り割り当てを用いたマルチモーダル大規模言語モデルにおける幻覚の緩和
+ * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - AIモデル（ChatGPT-3.5/4.0、Baidu Yiyan、New Bing、Bardなど）をアプリ（Wechat、公式アカウント、DingTalk、Telegram、QQなど）に接続します。ChatGPT、必应、文心一言、谷歌Bardなどの対話モデルをWechat、公式アカウント、QQ、Telegram、Gmail、Slack、Web、企業Wechat、飛書、DingTalkなどのさまざまなアプリに接続します。
+ * [psychic](https://github.com/psychic-api/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
 
 
 ## Browser-extensions
@@ -798,6 +795,7 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 ローブCLIツールボックス - AI CLIツールボックス、gitコミットとi18nワークフローの効率を向上
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - OpenAI APIのためのScalaクライアント
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。
+ * [openai4j](https://github.com/lambdua/openai4j) - OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。
 
 
 ## Reimplementations
@@ -1208,6 +1206,7 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 AIによる無料検索、💡 オープンソースのPerplexity、📍 Ollama/SearXNGのサポート、Dockerデプロイメントのサポート。AIモデルと検索エンジンがあなたの質問に答えることを可能にし、ローカルな大規模モデル(Ollama)や集約検索エンジンSearXNGをサポートし、Dockerデプロイメントをサポートします。
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Authは、カスタムGPT用のoauthを迅速にセットアップするためのユーザーフレンドリーなソリューションを提供します。
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 Swift用LangChain。iOS、macOS、watchOS（一部）およびvisionOS向けに最適化されています。（ベータ版）
+ * [RepoAgent](https://github.com/openbmb/repoagent) - 開発者やチームが素早くドキュメントを生成し、リポジトリを理解するのを支援するLLMパワードのリポジトリエージェント。
 
 
 ## Unity
@@ -1798,5 +1797,6 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [gpts](https://github.com/ruvnet/gpts) - rUvによって作成されたGPTのコレクション
  * [zerox](https://github.com/getomni-ai/zerox) - ゼロショットpdf OCR with gpt-4o-mini
  * [gpt-games](https://github.com/jimliu/gpt-games) - GPTを使用してゲームを作成します。
+ * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - CloudFlare WARPに接続し、一緒に`socks5`プロキシを公開します。
 
 

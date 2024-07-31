@@ -14,29 +14,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - 一套為ConfyUI定製的節點套件，包括GPT文本提示生成、LoadVideo、SaveVideo、LoadFramesFromFolder和FrameInterpolator
- * [PromptChains](https://github.com/miatechpartners/promptchains) - 排隊提示ChatGPT和Claude以獲得更好的表現
-
-
 **Chatbots**
- * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 重點] OPERA：通過過度信任處罰和回顧分配減輕多模式大型語言模型中的幻覺
+ * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - 將 ChatGPT、必應、文心一言、谷歌Bard 等對話模型連接各類應用，如微信、公眾號、QQ、Telegram、Gmail、Slack、Web、企業微信、飛書、釘釘等。
+ * [psychic](https://github.com/psychic-api/psychic) - 數據整合平台適用於LLM。通過即插即用的授權連接到SaaS工具，並從N個數據來源同步文件，只需一個集成。
 
 
-**Browser-extensions**
- * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（筆記）助手運行一個非常智能的系統（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoder等）。
- * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ 在您的浏览器中完全与Vicuna一样与LLM聊天，使用WebGPU安全、私密且无需服务器。由web llm 提供支持。
+**CLIs**
+ * [openai4j](https://github.com/lambdua/openai4j) - Java客戶端庫用於OpenAI API。對所有OpenAI API模型提供全面支持，包括Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch和Fine-tuning。
 
 
-**NLP**
- * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系統，將各類LLM API進行統一格式、統一規範、統一管理，使其在功能、性能和用戶體驗上達到極致。
+**Langchain**
+ * [RepoAgent](https://github.com/openbmb/repoagent) - 一個由LLM驅動的存儲庫代理，旨在幫助開發人員和團隊快速生成文檔並理解存儲庫。
 
 
 **Others**
- * [gpt-games](https://github.com/jimliu/gpt-games) - 使用GPT建立遊戲
+ * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - 連接到CloudFlare WARP，一起暴露`socls5`代理。
 
 
-_Updated on July 29, 2024_ (A total of 1687 repositories listed.)
+_Updated on August 01, 2024_ (A total of 1692 repositories listed.)
 
 ## Table of contents
 
@@ -499,6 +494,8 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - 🎩 一個Alfred 5工作流程，用於使用OpenAI Chat API與GPT-3.5/GPT-4進行互動 🤖💬 它還允許圖像生成 🖼️，圖像理解 👀，語音轉文字轉換 🎤，以及文本轉語音合成 🔈
  * [AIUI](https://github.com/lspahija/aiui) - AIUI是一個平台，可以實現與人工智能之間無縫的雙向口語交流。
  * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 重點] OPERA：通過過度信任處罰和回顧分配減輕多模式大型語言模型中的幻覺
+ * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - 將 ChatGPT、必應、文心一言、谷歌Bard 等對話模型連接各類應用，如微信、公眾號、QQ、Telegram、Gmail、Slack、Web、企業微信、飛書、釘釘等。
+ * [psychic](https://github.com/psychic-api/psychic) - 數據整合平台適用於LLM。通過即插即用的授權連接到SaaS工具，並從N個數據來源同步文件，只需一個集成。
 
 
 ## Browser-extensions
@@ -798,6 +795,7 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI 工具箱 - AI CLI 工具箱，提升 git 提交和 i18n 工作流效率
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala客戶端用於OpenAI API
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 在CLI中使用Embeddings支持長期記憶的ChatGPT機器人。ChatGPT機器人在CLI中具有長期記憶支持，並使用Embeddings。
+ * [openai4j](https://github.com/lambdua/openai4j) - Java客戶端庫用於OpenAI API。對所有OpenAI API模型提供全面支持，包括Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch和Fine-tuning。
 
 
 ## Reimplementations
@@ -1208,6 +1206,7 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [search_with_ai](https://github.com/yokingma/search_with_ai) - 🤖 免費AI搜索，💡 開源困惑度，📍 支持Ollama/SearXNG，支持Docker部署。 讓AI大模型和搜索引擎回答你的問題，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一鍵部署。
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth 提供了一個用戶友好的解決方案，可以快速設置您自定義的 GPT 和自行託管的 oauth。
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift。針對iOS、macOS、watchOS（部分）和visionOS進行了優化。（beta）
+ * [RepoAgent](https://github.com/openbmb/repoagent) - 一個由LLM驅動的存儲庫代理，旨在幫助開發人員和團隊快速生成文檔並理解存儲庫。
 
 
 ## Unity
@@ -1798,5 +1797,6 @@ _Updated on July 29, 2024_ (A total of 1687 repositories listed.)
  * [gpts](https://github.com/ruvnet/gpts) - rUv創建的GPT集合
  * [zerox](https://github.com/getomni-ai/zerox) - 使用gpt-4o-mini进行零射击pdf OCR
  * [gpt-games](https://github.com/jimliu/gpt-games) - 使用GPT建立遊戲
+ * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - 連接到CloudFlare WARP，一起暴露`socls5`代理。
 
 
