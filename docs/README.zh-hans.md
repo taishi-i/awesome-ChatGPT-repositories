@@ -14,24 +14,31 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - 将AI模型（如ChatGPT-3.5/4.0、百度一言、新必应、Bard）连接到应用程序（如微信、公众号、钉钉、Telegram、QQ）。
- * [psychic](https://github.com/psychic-api/psychic) - 为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。
+**Awesome-lists**
+ * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT越狱，GPT助手提示泄漏，GPT提示注入，LLM提示安全，超级提示，提示黑客，提示安全，Ai提示工程，对抗性机器学习。
+
+
+**Prompts**
+ * [aide](https://github.com/nicepkg/aide) - 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
+
+
+**Browser-extensions**
+ * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - 射线投射扩展程序，可免费使用GPT-4、Llama-3等等...无需API密钥！
 
 
 **CLIs**
- * [openai4j](https://github.com/lambdua/openai4j) - Java客户端库用于OpenAI API。完全支持所有OpenAI API模型，包括Completions，Chat，Edits，Embeddings，Audio，Files，Assistants-v2，Images，Moderations，Batch和Fine-tuning。
+ * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON翻译器，配备GPT +其他免费翻译模块，可将您的json/yaml文件翻译成其他语言 ✅ 查看自述文件 ✌ 支持GPT / DeepL / Google / Bing / Libre / Argos
 
 
 **Langchain**
- * [RepoAgent](https://github.com/openbmb/repoagent) - 一个由LLM驱动的存储库代理，旨在帮助开发人员和团队快速生成文档并理解存储库。
+ * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 本地 Ollama 和类似 OpenAI 的 GPT 的协助，以实现最大隐私和离线访问。
 
 
 **Others**
- * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - 连接到CloudFlare WARP，同时暴露`soks5`代理。
+ * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPT模型信誉度的综合评估
 
 
-_Updated on August 01, 2024_ (A total of 1692 repositories listed.)
+_Updated on August 05, 2024_ (A total of 1697 repositories listed.)
 
 ## Table of contents
 
@@ -120,6 +127,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 厉害-llm-角色扮演与角色: 一个为大型语言模型提供资源的策划列表，用于与指定的角色扮演。
  * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
  * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - 持续更新的与生成式LLM（如GPT）及其分析和检测相关资源列表。
+ * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT越狱，GPT助手提示泄漏，GPT提示注入，LLM提示安全，超级提示，提示黑客，提示安全，Ai提示工程，对抗性机器学习。
 
 
 ## Prompts
@@ -255,6 +263,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 一个网络UI项目，旨在学习大型语言模型。该项目包括聊天、量化、微调、提示工程模板和多模态等功能。
  * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - 一个适用于ConfyUI的自定义节点套件，包括GPT文本提示生成、LoadVideo、SaveVideo、LoadFramesFromFolder和FrameInterpolator。
  * [PromptChains](https://github.com/miatechpartners/promptchains) - 为了更好的表现，为ChatGPT和Claude排队提示。
+ * [aide](https://github.com/nicepkg/aide) - 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
 
 
 ## Chatbots
@@ -676,6 +685,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - 为开发您自己的Auto-GPT插件提供一个起点
  * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（笔记）助手运行一个非常智能的系统（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoder等）。
  * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 使用WebGPU在浏览器中与像维库纳一样的LLM进行安全、私密且无服务器的聊天。由web llm 提供支持。
+ * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - 射线投射扩展程序，可免费使用GPT-4、Llama-3等等...无需API密钥！
 
 
 ## CLIs
@@ -796,6 +806,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala客户端用于OpenAI API
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 使用嵌入技术支持的长期记忆功能，在CLI中与ChatGPT Bot交流。
  * [openai4j](https://github.com/lambdua/openai4j) - Java客户端库用于OpenAI API。完全支持所有OpenAI API模型，包括Completions，Chat，Edits，Embeddings，Audio，Files，Assistants-v2，Images，Moderations，Batch和Fine-tuning。
+ * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON翻译器，配备GPT +其他免费翻译模块，可将您的json/yaml文件翻译成其他语言 ✅ 查看自述文件 ✌ 支持GPT / DeepL / Google / Bing / Libre / Argos
 
 
 ## Reimplementations
@@ -1207,6 +1218,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth提供了一个用户友好的解决方案，可以快速设置oauth，用于您定制的GPT并自行托管。
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 为Swift优化的LangChain。针对iOS、macOS、watchOS（部分）和visionOS进行了优化。（测试版）
  * [RepoAgent](https://github.com/openbmb/repoagent) - 一个由LLM驱动的存储库代理，旨在帮助开发人员和团队快速生成文档并理解存储库。
+ * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 本地 Ollama 和类似 OpenAI 的 GPT 的协助，以实现最大隐私和离线访问。
 
 
 ## Unity
@@ -1797,6 +1809,6 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [gpts](https://github.com/ruvnet/gpts) - rUv创建的GPT集合
  * [zerox](https://github.com/getomni-ai/zerox) - 零射击pdf OCR与gpt-4o-mini
  * [gpt-games](https://github.com/jimliu/gpt-games) - 使用GPT构建游戏
- * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - 连接到CloudFlare WARP，同时暴露`soks5`代理。
+ * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPT模型信誉度的综合评估
 
 

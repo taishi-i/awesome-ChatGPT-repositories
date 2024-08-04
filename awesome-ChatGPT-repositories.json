@@ -1775,6 +1775,38 @@
                     "zh-hans": "持续更新的与生成式LLM（如GPT）及其分析和检测相关资源列表。",
                     "zh-hant": "持續更新的相關資源列表，用於生成式LLM（如GPT）及其分析和檢測。"
                 }
+            },
+            "https://github.com/cyberalbsecop/awesome_gpt_super_prompting": {
+                "repository_name": "Awesome_GPT_Super_Prompting",
+                "user_name": "CyberAlbSecOP",
+                "language": null,
+                "license": "GNU General Public License v3.0",
+                "description": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
+                "topics": [
+                    "adversarial-machine-learning",
+                    "agent",
+                    "ai",
+                    "assistant",
+                    "chatgpt",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "hacking",
+                    "jailbreak",
+                    "leaks",
+                    "llm",
+                    "prompt-engineering",
+                    "prompt-injection",
+                    "prompt-security",
+                    "prompts",
+                    "system-prompt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.",
+                    "ja": "ChatGPTジェイルブレイク、GPTアシスタントプロンプトリーク、GPTプロンプトインジェクション、LLMプロンプトセキュリティ、スーパープロンプト、プロンプトハック、プロンプトセキュリティ、AIプロンプトエンジニアリング、敵対的機械学習。",
+                    "zh-hans": "ChatGPT越狱，GPT助手提示泄漏，GPT提示注入，LLM提示安全，超级提示，提示黑客，提示安全，Ai提示工程，对抗性机器学习。",
+                    "zh-hant": "ChatGPT越獄，GPT助手提示洩漏，GPT提示注入，LLM提示安全，超級提示，提示黑客，提示安全，Ai提示工程，對抗機器學習。"
+                }
             }
         },
         "Prompts": {
@@ -4757,6 +4789,41 @@
                     "ja": "ChatGPTとClaudeのパフォーマンスを向上させるために、プロンプトをキューに並べてください。",
                     "zh-hans": "为了更好的表现，为ChatGPT和Claude排队提示。",
                     "zh-hant": "排隊提示ChatGPT和Claude以獲得更好的表現"
+                }
+            },
+            "https://github.com/nicepkg/aide": {
+                "repository_name": "aide",
+                "user_name": "nicepkg",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "aide",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "copilot",
+                    "developer-tools",
+                    "extensions",
+                    "gpt",
+                    "gpt-4",
+                    "gpt4",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "prompt",
+                    "prompt-engineering",
+                    "software-development",
+                    "vscode",
+                    "vscode-extensions"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪",
+                    "ja": "VSCodeでどんなコードでも制覇：ワンクリックコメント、変換、UIからコードへ、ファイルのAIバッチ処理！💪",
+                    "zh-hans": "在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪",
+                    "zh-hant": "在 VSCode 中征服任何代碼：一鍵註釋、轉換、UI 圖生成代碼、AI 批量處理文件！💪"
                 }
             }
         },
@@ -14307,6 +14374,30 @@
                     "zh-hans": "使用WebGPU在浏览器中与像维库纳一样的LLM进行安全、私密且无服务器的聊天。由web llm 提供支持。",
                     "zh-hant": "🗣️ 在您的浏览器中完全与Vicuna一样与LLM聊天，使用WebGPU安全、私密且无需服务器。由web llm 提供支持。"
                 }
+            },
+            "https://github.com/xinthedark/raycast-g4f": {
+                "repository_name": "raycast-g4f",
+                "user_name": "XInTheDark",
+                "language": "JavaScript",
+                "license": "GNU General Public License v3.0",
+                "description": "Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "free-gpt",
+                    "gemini",
+                    "gpt",
+                    "gpt-4",
+                    "gpt4free",
+                    "llama3",
+                    "raycast-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!",
+                    "ja": "GPT-4、Llama-3などを無料で使用するRaycast拡張機能。APIキーは不要です！",
+                    "zh-hans": "射线投射扩展程序，可免费使用GPT-4、Llama-3等等...无需API密钥！",
+                    "zh-hant": "將Raycast擴展使用GPT-4、Llama-3等等...全部免費。無需API密鑰！"
+                }
             }
         },
         "CLIs": {
@@ -16949,6 +17040,37 @@
                     "ja": "OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。",
                     "zh-hans": "Java客户端库用于OpenAI API。完全支持所有OpenAI API模型，包括Completions，Chat，Edits，Embeddings，Audio，Files，Assistants-v2，Images，Moderations，Batch和Fine-tuning。",
                     "zh-hant": "Java客戶端庫用於OpenAI API。對所有OpenAI API模型提供全面支持，包括Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch和Fine-tuning。"
+                }
+            },
+            "https://github.com/mololab/json-translator": {
+                "repository_name": "json-translator",
+                "user_name": "mololab",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "jsontt 💡 - AI JSON Translator with GPT + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / DeepL / Google / Bing / Libre / Argos",
+                "topics": [
+                    "ai",
+                    "bing-translate",
+                    "cli",
+                    "free-json-translate",
+                    "google-translate-api",
+                    "gpt",
+                    "i18n",
+                    "javascript",
+                    "json",
+                    "json-translate",
+                    "language",
+                    "nodejs",
+                    "translate",
+                    "translate-api",
+                    "translation",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "jsontt 💡 - AI JSON Translator with GPT + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / DeepL / Google / Bing / Libre / Argos",
+                    "ja": "jsontt 💡 - GPT + その他の無料翻訳モジュールを使用したAI JSON翻訳者、json/yamlファイルを他の言語に翻訳します ✅ Readmeをチェックしてください ✌ GPT / DeepL / Google / Bing / Libre / Argosに対応",
+                    "zh-hans": "jsontt 💡 - AI JSON翻译器，配备GPT +其他免费翻译模块，可将您的json/yaml文件翻译成其他语言 ✅ 查看自述文件 ✌ 支持GPT / DeepL / Google / Bing / Libre / Argos",
+                    "zh-hant": "jsontt 💡 - AI JSON翻譯器，搭載GPT和其他免費翻譯模組，可將您的json/yaml文件翻譯成其他語言 ✅ 查看Readme ✌ 支援GPT / DeepL / Google / Bing / Libre / Argos"
                 }
             }
         },
@@ -25626,6 +25748,20 @@
                     "ja": "開発者やチームが素早くドキュメントを生成し、リポジトリを理解するのを支援するLLMパワードのリポジトリエージェント。",
                     "zh-hans": "一个由LLM驱动的存储库代理，旨在帮助开发人员和团队快速生成文档并理解存储库。",
                     "zh-hant": "一個由LLM驅動的存儲庫代理，旨在幫助開發人員和團隊快速生成文檔並理解存儲庫。"
+                }
+            },
+            "https://github.com/pfrankov/obsidian-local-gpt": {
+                "repository_name": "obsidian-local-gpt",
+                "user_name": "pfrankov",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access",
+                    "ja": "最大限のプライバシーとオフラインアクセスのためのローカルオーラマとOpenAIのようなGPTの支援",
+                    "zh-hans": "本地 Ollama 和类似 OpenAI 的 GPT 的协助，以实现最大隐私和离线访问。",
+                    "zh-hant": "本地 Ollama 和類似 OpenAI 的 GPT 協助，以確保最大隱私和離線訪問。"
                 }
             }
         },
@@ -37177,6 +37313,20 @@
                     "ja": "CloudFlare WARPに接続し、一緒に`socks5`プロキシを公開します。",
                     "zh-hans": "连接到CloudFlare WARP，同时暴露`soks5`代理。",
                     "zh-hant": "連接到CloudFlare WARP，一起暴露`socls5`代理。"
+                }
+            },
+            "https://github.com/ai-secure/decodingtrust": {
+                "repository_name": "DecodingTrust",
+                "user_name": "AI-secure",
+                "language": "Python",
+                "license": "Creative Commons Attribution Share Alike 4.0 International",
+                "description": "A Comprehensive Assessment of Trustworthiness in GPT Models",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A Comprehensive Assessment of Trustworthiness in GPT Models",
+                    "ja": "GPTモデルの信頼性に関する包括的評価",
+                    "zh-hans": "GPT模型信誉度的综合评估",
+                    "zh-hant": "GPT模型信任度的全面評估"
                 }
             }
         }
