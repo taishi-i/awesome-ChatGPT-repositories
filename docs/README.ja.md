@@ -14,24 +14,31 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - AIモデル（ChatGPT-3.5/4.0、Baidu Yiyan、New Bing、Bardなど）をアプリ（Wechat、公式アカウント、DingTalk、Telegram、QQなど）に接続します。ChatGPT、必应、文心一言、谷歌Bardなどの対話モデルをWechat、公式アカウント、QQ、Telegram、Gmail、Slack、Web、企業Wechat、飛書、DingTalkなどのさまざまなアプリに接続します。
- * [psychic](https://github.com/psychic-api/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
+**Awesome-lists**
+ * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPTジェイルブレイク、GPTアシスタントプロンプトリーク、GPTプロンプトインジェクション、LLMプロンプトセキュリティ、スーパープロンプト、プロンプトハック、プロンプトセキュリティ、AIプロンプトエンジニアリング、敵対的機械学習。
+
+
+**Prompts**
+ * [aide](https://github.com/nicepkg/aide) - VSCodeでどんなコードでも制覇：ワンクリックコメント、変換、UIからコードへ、ファイルのAIバッチ処理！💪
+
+
+**Browser-extensions**
+ * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - GPT-4、Llama-3などを無料で使用するRaycast拡張機能。APIキーは不要です！
 
 
 **CLIs**
- * [openai4j](https://github.com/lambdua/openai4j) - OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。
+ * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - GPT + その他の無料翻訳モジュールを使用したAI JSON翻訳者、json/yamlファイルを他の言語に翻訳します ✅ Readmeをチェックしてください ✌ GPT / DeepL / Google / Bing / Libre / Argosに対応
 
 
 **Langchain**
- * [RepoAgent](https://github.com/openbmb/repoagent) - 開発者やチームが素早くドキュメントを生成し、リポジトリを理解するのを支援するLLMパワードのリポジトリエージェント。
+ * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 最大限のプライバシーとオフラインアクセスのためのローカルオーラマとOpenAIのようなGPTの支援
 
 
 **Others**
- * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - CloudFlare WARPに接続し、一緒に`socks5`プロキシを公開します。
+ * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPTモデルの信頼性に関する包括的評価
 
 
-_Updated on August 01, 2024_ (A total of 1692 repositories listed.)
+_Updated on August 05, 2024_ (A total of 1697 repositories listed.)
 
 ## Table of contents
 
@@ -120,6 +127,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - 素晴らしいLLM（Large Language Models）を使用した役割演技とペルソナに関する厳選されたリソースのリスト: 割り当てられたペルソナと一緒に役割演技をするためのリソースのリスト
  * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPTの中国語ガイド🔥、ChatGPTの中国語調教ガイド、指示ガイド、アプリ開発ガイド、厳選されたリソースリスト、ChatGPTをより効果的に活用して生産性を向上させましょう！🚀
  * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。
+ * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPTジェイルブレイク、GPTアシスタントプロンプトリーク、GPTプロンプトインジェクション、LLMプロンプトセキュリティ、スーパープロンプト、プロンプトハック、プロンプトセキュリティ、AIプロンプトエンジニアリング、敵対的機械学習。
 
 
 ## Prompts
@@ -255,6 +263,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - 大規模言語モデルを学ぶためのWeb UIプロジェクト。このプロジェクトには、チャット、量子化、ファインチューニング、プロンプトエンジニアリングテンプレート、マルチモダリティなどの機能が含まれています。
  * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - ConfyUI用のカスタムノードのスイートには、GPTテキストプロンプト生成、LoadVideo、SaveVideo、LoadFramesFromFolder、FrameInterpolatorが含まれています。
  * [PromptChains](https://github.com/miatechpartners/promptchains) - ChatGPTとClaudeのパフォーマンスを向上させるために、プロンプトをキューに並べてください。
+ * [aide](https://github.com/nicepkg/aide) - VSCodeでどんなコードでも制覇：ワンクリックコメント、変換、UIからコードへ、ファイルのAIバッチ処理！💪
 
 
 ## Chatbots
@@ -676,6 +685,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - Auto-GPTのための独自のプラグインを開発するための出発点
  * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（ノートテイキング）アシスタントが非常にインテリジェントなシステム（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoderなど）を実行しています。
  * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ WebGPUを使用して、安全かつプライベートに、サーバーなしでVicunaのようなLLMと完全にブラウザでチャットします。Web llmによって提供されます。
+ * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - GPT-4、Llama-3などを無料で使用するRaycast拡張機能。APIキーは不要です！
 
 
 ## CLIs
@@ -796,6 +806,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - OpenAI APIのためのScalaクライアント
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。
  * [openai4j](https://github.com/lambdua/openai4j) - OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。
+ * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - GPT + その他の無料翻訳モジュールを使用したAI JSON翻訳者、json/yamlファイルを他の言語に翻訳します ✅ Readmeをチェックしてください ✌ GPT / DeepL / Google / Bing / Libre / Argosに対応
 
 
 ## Reimplementations
@@ -1207,6 +1218,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Authは、カスタムGPT用のoauthを迅速にセットアップするためのユーザーフレンドリーなソリューションを提供します。
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 Swift用LangChain。iOS、macOS、watchOS（一部）およびvisionOS向けに最適化されています。（ベータ版）
  * [RepoAgent](https://github.com/openbmb/repoagent) - 開発者やチームが素早くドキュメントを生成し、リポジトリを理解するのを支援するLLMパワードのリポジトリエージェント。
+ * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 最大限のプライバシーとオフラインアクセスのためのローカルオーラマとOpenAIのようなGPTの支援
 
 
 ## Unity
@@ -1797,6 +1809,6 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [gpts](https://github.com/ruvnet/gpts) - rUvによって作成されたGPTのコレクション
  * [zerox](https://github.com/getomni-ai/zerox) - ゼロショットpdf OCR with gpt-4o-mini
  * [gpt-games](https://github.com/jimliu/gpt-games) - GPTを使用してゲームを作成します。
- * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - CloudFlare WARPに接続し、一緒に`socks5`プロキシを公開します。
+ * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPTモデルの信頼性に関する包括的評価
 
 

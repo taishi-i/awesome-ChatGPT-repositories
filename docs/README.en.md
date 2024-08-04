@@ -14,24 +14,31 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
- * [psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+**Awesome-lists**
+ * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
+
+
+**Prompts**
+ * [aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
+
+
+**Browser-extensions**
+ * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
 
 
 **CLIs**
- * [openai4j](https://github.com/lambdua/openai4j) - Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning.
+ * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON Translator with GPT + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / DeepL / Google / Bing / Libre / Argos
 
 
 **Langchain**
- * [RepoAgent](https://github.com/openbmb/repoagent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
+ * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access
 
 
 **Others**
- * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - Connet to CloudFlare WARP, exposing `socks5` proxy all together.
+ * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - A Comprehensive Assessment of Trustworthiness in GPT Models
 
 
-_Updated on August 01, 2024_ (A total of 1692 repositories listed.)
+_Updated on August 05, 2024_ (A total of 1697 repositories listed.)
 
 ## Table of contents
 
@@ -120,6 +127,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - Awesome-llm-role-playing-with-persona: a curated list of resources for large language models for role-playing with assigned personas
  * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT Chinese Guide🔥, ChatGPT Chinese Training Guide, Instruction Guide, Application Development Guide, curated resource list, use ChatGPT better to boost your productivity up up up! 🚀
  * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.
+ * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 
 
 ## Prompts
@@ -255,6 +263,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - A web UI Project In order to learn the large language model. This project includes features such as chat, quantization, fine-tuning, prompt engineering templates, and multimodality.
  * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - A suite of custom nodes for ConfyUI that includes GPT text-prompt generation, LoadVideo, SaveVideo, LoadFramesFromFolder and FrameInterpolator
  * [PromptChains](https://github.com/miatechpartners/promptchains) - Queue up prompts for ChatGPT and Claude for better performance
+ * [aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
 
 
 ## Chatbots
@@ -676,6 +685,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - A starting point for developing your own plug-in for Auto-GPT
  * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)
  * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
+ * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
 
 
 ## CLIs
@@ -796,6 +806,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - Scala client for OpenAI API
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ChatGPT Bot in CLI with long term memory support using Embeddings.
  * [openai4j](https://github.com/lambdua/openai4j) - Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning.
+ * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON Translator with GPT + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / DeepL / Google / Bing / Libre / Argos
 
 
 ## Reimplementations
@@ -1207,6 +1218,7 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - GPT Auth provides a user-friendly solution to quickly setup oauth for your custom GPT and self-host it.
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)
  * [RepoAgent](https://github.com/openbmb/repoagent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
+ * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access
 
 
 ## Unity
@@ -1797,6 +1809,6 @@ _Updated on August 01, 2024_ (A total of 1692 repositories listed.)
  * [gpts](https://github.com/ruvnet/gpts) - A collection of the GPTs created by rUv
  * [zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
  * [gpt-games](https://github.com/jimliu/gpt-games) - Build games with GPT
- * [Docker-Warp-Socks](https://github.com/mon-ius/docker-warp-socks) - Connet to CloudFlare WARP, exposing `socks5` proxy all together.
+ * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - A Comprehensive Assessment of Trustworthiness in GPT Models
 
 
