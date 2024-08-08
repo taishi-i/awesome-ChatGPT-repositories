@@ -14,31 +14,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT越獄，GPT助手提示洩漏，GPT提示注入，LLM提示安全，超級提示，提示黑客，提示安全，Ai提示工程，對抗機器學習。
-
-
-**Prompts**
- * [aide](https://github.com/nicepkg/aide) - 在 VSCode 中征服任何代碼：一鍵註釋、轉換、UI 圖生成代碼、AI 批量處理文件！💪
+**Chatbots**
+ * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - gpt-4o 適用於 Windows、macOS 和 Linux
+ * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - 一個社區開源的Saas平台，可用於製作/構建/創建聊天機器人，並使用OpenAI的助手API，您可以將其添加到您的網站上。
+ * [ChatGPT](https://github.com/nisabmohd/chatgpt) - 我使用Next.js 14、Shadcn-UI、Prisma ORM開發了一個ChatGPT克隆版本，並將其與OpenAI API集成。它提供了一個用戶友好的對話式人工智能體驗。
 
 
 **Browser-extensions**
- * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - 將Raycast擴展使用GPT-4、Llama-3等等...全部免費。無需API密鑰！
+ * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - 使用 OpenAI API 給文本進行潤色和語法校正的 Bob 插件！完美代替 Grammarly！根據 CC BY-NC-SA 4.0 授權。
 
 
 **CLIs**
- * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON翻譯器，搭載GPT和其他免費翻譯模組，可將您的json/yaml文件翻譯成其他語言 ✅ 查看Readme ✌ 支援GPT / DeepL / Google / Bing / Libre / Argos
+ * [gptme](https://github.com/erikbjare/gptme) - 與配備本地工具的LLMs聊天：執行Python和Bash，編輯本地文件，瀏覽網頁。
 
 
-**Langchain**
- * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 本地 Ollama 和類似 OpenAI 的 GPT 協助，以確保最大隱私和離線訪問。
+**NLP**
+ * [gtt](https://github.com/eeexun/gtt) - Google 翻譯 TUI（原始）。現在支持 Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reverso。
 
 
-**Others**
- * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPT模型信任度的全面評估
-
-
-_Updated on August 05, 2024_ (A total of 1697 repositories listed.)
+_Updated on August 09, 2024_ (A total of 1703 repositories listed.)
 
 ## Table of contents
 
@@ -505,6 +499,9 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 重點] OPERA：通過過度信任處罰和回顧分配減輕多模式大型語言模型中的幻覺
  * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - 將 ChatGPT、必應、文心一言、谷歌Bard 等對話模型連接各類應用，如微信、公眾號、QQ、Telegram、Gmail、Slack、Web、企業微信、飛書、釘釘等。
  * [psychic](https://github.com/psychic-api/psychic) - 數據整合平台適用於LLM。通過即插即用的授權連接到SaaS工具，並從N個數據來源同步文件，只需一個集成。
+ * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - gpt-4o 適用於 Windows、macOS 和 Linux
+ * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - 一個社區開源的Saas平台，可用於製作/構建/創建聊天機器人，並使用OpenAI的助手API，您可以將其添加到您的網站上。
+ * [ChatGPT](https://github.com/nisabmohd/chatgpt) - 我使用Next.js 14、Shadcn-UI、Prisma ORM開發了一個ChatGPT克隆版本，並將其與OpenAI API集成。它提供了一個用戶友好的對話式人工智能體驗。
 
 
 ## Browser-extensions
@@ -686,6 +683,7 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（筆記）助手運行一個非常智能的系統（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoder等）。
  * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ 在您的浏览器中完全与Vicuna一样与LLM聊天，使用WebGPU安全、私密且无需服务器。由web llm 提供支持。
  * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - 將Raycast擴展使用GPT-4、Llama-3等等...全部免費。無需API密鑰！
+ * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - 使用 OpenAI API 給文本進行潤色和語法校正的 Bob 插件！完美代替 Grammarly！根據 CC BY-NC-SA 4.0 授權。
 
 
 ## CLIs
@@ -807,6 +805,7 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 在CLI中使用Embeddings支持長期記憶的ChatGPT機器人。ChatGPT機器人在CLI中具有長期記憶支持，並使用Embeddings。
  * [openai4j](https://github.com/lambdua/openai4j) - Java客戶端庫用於OpenAI API。對所有OpenAI API模型提供全面支持，包括Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch和Fine-tuning。
  * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON翻譯器，搭載GPT和其他免費翻譯模組，可將您的json/yaml文件翻譯成其他語言 ✅ 查看Readme ✌ 支援GPT / DeepL / Google / Bing / Libre / Argos
+ * [gptme](https://github.com/erikbjare/gptme) - 與配備本地工具的LLMs聊天：執行Python和Bash，編輯本地文件，瀏覽網頁。
 
 
 ## Reimplementations
@@ -1117,6 +1116,7 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [embedJs](https://github.com/llm-tools/embedjs) - 一個 NodeJS RAG 框架，可以輕鬆地處理LLMs和嵌入。
  * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 我們將行為的自然語言描述轉換為機器可執行的代碼
  * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系統，將各類LLM API進行統一格式、統一規範、統一管理，使其在功能、性能和用戶體驗上達到極致。
+ * [gtt](https://github.com/eeexun/gtt) - Google 翻譯 TUI（原始）。現在支持 Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reverso。
 
 
 ## Langchain

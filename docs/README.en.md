@@ -14,31 +14,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
-
-
-**Prompts**
- * [aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
+**Chatbots**
+ * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - gpt-4o for windows, macos and linux
+ * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+ * [ChatGPT](https://github.com/nisabmohd/chatgpt) - I've developed a ChatGPT clone using Next.js 14, Shadcn-UI, Prisma ORM, and integrated it with the OpenAI API. It offers a user-friendly conversational AI experience.
 
 
 **Browser-extensions**
- * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
+ * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - Use the Bob plugin to polish and correct the grammar of the text using the OpenAI API! A perfect alternative to Grammarly! Licensed under CC BY-NC-SA 4.0
 
 
 **CLIs**
- * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON Translator with GPT + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / DeepL / Google / Bing / Libre / Argos
+ * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
 
 
-**Langchain**
- * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access
+**NLP**
+ * [gtt](https://github.com/eeexun/gtt) - Google Translate TUI (Originally). Now support Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso.
 
 
-**Others**
- * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - A Comprehensive Assessment of Trustworthiness in GPT Models
-
-
-_Updated on August 05, 2024_ (A total of 1697 repositories listed.)
+_Updated on August 09, 2024_ (A total of 1703 repositories listed.)
 
 ## Table of contents
 
@@ -505,6 +499,9 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 Highlight] OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation
  * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram,  QQ).  将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
  * [psychic](https://github.com/psychic-api/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+ * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - gpt-4o for windows, macos and linux
+ * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
+ * [ChatGPT](https://github.com/nisabmohd/chatgpt) - I've developed a ChatGPT clone using Next.js 14, Shadcn-UI, Prisma ORM, and integrated it with the OpenAI API. It offers a user-friendly conversational AI experience.
 
 
 ## Browser-extensions
@@ -686,6 +683,7 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin (note-taking) assistant running a very intelligent system (OpenAI/GPT, Hugging Face, Gemini, Llama, Universal Sentence Encoder, etc.)
  * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
  * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
+ * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - Use the Bob plugin to polish and correct the grammar of the text using the OpenAI API! A perfect alternative to Grammarly! Licensed under CC BY-NC-SA 4.0
 
 
 ## CLIs
@@ -807,6 +805,7 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ChatGPT Bot in CLI with long term memory support using Embeddings.
  * [openai4j](https://github.com/lambdua/openai4j) - Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning.
  * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON Translator with GPT + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / DeepL / Google / Bing / Libre / Argos
+ * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
 
 
 ## Reimplementations
@@ -1117,6 +1116,7 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [embedJs](https://github.com/llm-tools/embedjs) - A NodeJS RAG framework to easily work with LLMs and embeddings
  * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] We turn natural language descriptions of behaviors into machine-executable code
  * [fastapi](https://github.com/iimeta/fastapi) - Zhiyuan Fast API is a one-stop API management system that standardizes, unifies, and manages various LLM APIs to achieve the ultimate in functionality, performance, and user experience.
+ * [gtt](https://github.com/eeexun/gtt) - Google Translate TUI (Originally). Now support Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso.
 
 
 ## Langchain
