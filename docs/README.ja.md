@@ -14,31 +14,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPTジェイルブレイク、GPTアシスタントプロンプトリーク、GPTプロンプトインジェクション、LLMプロンプトセキュリティ、スーパープロンプト、プロンプトハック、プロンプトセキュリティ、AIプロンプトエンジニアリング、敵対的機械学習。
-
-
-**Prompts**
- * [aide](https://github.com/nicepkg/aide) - VSCodeでどんなコードでも制覇：ワンクリックコメント、変換、UIからコードへ、ファイルのAIバッチ処理！💪
+**Chatbots**
+ * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - Windows、macOS、およびLinux用のgpt-4oWindows、macOS、およびLinux用のgpt-4o
+ * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - OpenAIのAssistant APIを使用して、ウェブサイトに追加できる、Crafting/Building/Creating Chatbots向けのコミュニティオープンソースSaaS。
+ * [ChatGPT](https://github.com/nisabmohd/chatgpt) - Next.js 14、Shadcn-UI、Prisma ORMを使用してChatGPTのクローンを開発し、OpenAI APIと統合しました。ユーザーフレンドリーな会話型AI体験を提供しています。
 
 
 **Browser-extensions**
- * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - GPT-4、Llama-3などを無料で使用するRaycast拡張機能。APIキーは不要です！
+ * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - OpenAI APIを使用してテキストを磨き、文法を修正するBobプラグイン！Grammarlyの完璧な代替品！CC BY-NC-SA 4.0のライセンスに基づいています。
 
 
 **CLIs**
- * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - GPT + その他の無料翻訳モジュールを使用したAI JSON翻訳者、json/yamlファイルを他の言語に翻訳します ✅ Readmeをチェックしてください ✌ GPT / DeepL / Google / Bing / Libre / Argosに対応
+ * [gptme](https://github.com/erikbjare/gptme) - ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
 
 
-**Langchain**
- * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 最大限のプライバシーとオフラインアクセスのためのローカルオーラマとOpenAIのようなGPTの支援
+**NLP**
+ * [gtt](https://github.com/eeexun/gtt) - Google翻訳TUI（元々）。現在、Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reversoをサポートしています。
 
 
-**Others**
- * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPTモデルの信頼性に関する包括的評価
-
-
-_Updated on August 05, 2024_ (A total of 1697 repositories listed.)
+_Updated on August 09, 2024_ (A total of 1703 repositories listed.)
 
 ## Table of contents
 
@@ -505,6 +499,9 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [OPERA](https://github.com/shikiw/opera) - [CVPR 2024 ハイライト] OPERA: 過信ペナルティと振り返り割り当てを用いたマルチモーダル大規模言語モデルにおける幻覚の緩和
  * [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - AIモデル（ChatGPT-3.5/4.0、Baidu Yiyan、New Bing、Bardなど）をアプリ（Wechat、公式アカウント、DingTalk、Telegram、QQなど）に接続します。ChatGPT、必应、文心一言、谷歌Bardなどの対話モデルをWechat、公式アカウント、QQ、Telegram、Gmail、Slack、Web、企業Wechat、飛書、DingTalkなどのさまざまなアプリに接続します。
  * [psychic](https://github.com/psychic-api/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
+ * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - Windows、macOS、およびLinux用のgpt-4oWindows、macOS、およびLinux用のgpt-4o
+ * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - OpenAIのAssistant APIを使用して、ウェブサイトに追加できる、Crafting/Building/Creating Chatbots向けのコミュニティオープンソースSaaS。
+ * [ChatGPT](https://github.com/nisabmohd/chatgpt) - Next.js 14、Shadcn-UI、Prisma ORMを使用してChatGPTのクローンを開発し、OpenAI APIと統合しました。ユーザーフレンドリーな会話型AI体験を提供しています。
 
 
 ## Browser-extensions
@@ -686,6 +683,7 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - Joplin（ノートテイキング）アシスタントが非常にインテリジェントなシステム（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoderなど）を実行しています。
  * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ WebGPUを使用して、安全かつプライベートに、サーバーなしでVicunaのようなLLMと完全にブラウザでチャットします。Web llmによって提供されます。
  * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - GPT-4、Llama-3などを無料で使用するRaycast拡張機能。APIキーは不要です！
+ * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - OpenAI APIを使用してテキストを磨き、文法を修正するBobプラグイン！Grammarlyの完璧な代替品！CC BY-NC-SA 4.0のライセンスに基づいています。
 
 
 ## CLIs
@@ -807,6 +805,7 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - 埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。
  * [openai4j](https://github.com/lambdua/openai4j) - OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。
  * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - GPT + その他の無料翻訳モジュールを使用したAI JSON翻訳者、json/yamlファイルを他の言語に翻訳します ✅ Readmeをチェックしてください ✌ GPT / DeepL / Google / Bing / Libre / Argosに対応
+ * [gptme](https://github.com/erikbjare/gptme) - ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
 
 
 ## Reimplementations
@@ -1117,6 +1116,7 @@ _Updated on August 05, 2024_ (A total of 1697 repositories listed.)
  * [embedJs](https://github.com/llm-tools/embedjs) - LLMsと埋め込みを簡単に扱うためのNodeJS RAGフレームワーク
  * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 私たちは行動の自然言語の説明を機械実行可能なコードに変換します[NeurIPS 2023]私たちは行動の自然言語の説明を機械実行可能なコードに変換します
  * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API は、さまざまなLLM APIを統一された形式、統一された規格、統一された管理で管理する、オールインワンのAPI管理システムです。これにより、機能、パフォーマンス、ユーザーエクスペリエンスの面で最高のレベルに達することができます。
+ * [gtt](https://github.com/eeexun/gtt) - Google翻訳TUI（元々）。現在、Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reversoをサポートしています。
 
 
 ## Langchain
