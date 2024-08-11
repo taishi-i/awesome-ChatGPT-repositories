@@ -15,24 +15,30 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - gpt-4o for windows, macos and linux
- * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
- * [ChatGPT](https://github.com/nisabmohd/chatgpt) - I've developed a ChatGPT clone using Next.js 14, Shadcn-UI, Prisma ORM, and integrated it with the OpenAI API. It offers a user-friendly conversational AI experience.
+ * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - GPT-Linebot using python flask for vercel
 
 
 **Browser-extensions**
- * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - Use the Bob plugin to polish and correct the grammar of the text using the OpenAI API! A perfect alternative to Grammarly! Licensed under CC BY-NC-SA 4.0
+ * [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
+ * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
+ * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+ * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
 
 
 **CLIs**
- * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
+ * [Apt](https://github.com/rnchg/apt) - AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent proc
 
 
-**NLP**
- * [gtt](https://github.com/eeexun/gtt) - Google Translate TUI (Originally). Now support Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso.
+**Langchain**
+ * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain's Chinese beginner tutorial
+ * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型
 
 
-_Updated on August 09, 2024_ (A total of 1703 repositories listed.)
+**Others**
+ * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
+
+
+_Updated on August 12, 2024_ (A total of 1712 repositories listed.)
 
 ## Table of contents
 
@@ -502,6 +508,7 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - gpt-4o for windows, macos and linux
  * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
  * [ChatGPT](https://github.com/nisabmohd/chatgpt) - I've developed a ChatGPT clone using Next.js 14, Shadcn-UI, Prisma ORM, and integrated it with the OpenAI API. It offers a user-friendly conversational AI experience.
+ * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - GPT-Linebot using python flask for vercel
 
 
 ## Browser-extensions
@@ -684,6 +691,10 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
  * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - Raycast extension to use GPT-4, Llama-3, and more... all for FREE. No API Key required!
  * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - Use the Bob plugin to polish and correct the grammar of the text using the OpenAI API! A perfect alternative to Grammarly! Licensed under CC BY-NC-SA 4.0
+ * [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
+ * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
+ * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+ * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
 
 
 ## CLIs
@@ -806,6 +817,7 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [openai4j](https://github.com/lambdua/openai4j) - Java client library for OpenAI API.Full support for all OpenAI API models including Completions, Chat, Edits, Embeddings, Audio, Files, Assistants-v2, Images, Moderations, Batch, and Fine-tuning.
  * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON Translator with GPT + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / DeepL / Google / Bing / Libre / Argos
  * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
+ * [Apt](https://github.com/rnchg/apt) - AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent proc
 
 
 ## Reimplementations
@@ -1219,6 +1231,8 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift. Optimized for iOS, macOS, watchOS (part) and visionOS.(beta)
  * [RepoAgent](https://github.com/openbmb/repoagent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
  * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access
+ * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain's Chinese beginner tutorial
+ * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型
 
 
 ## Unity
@@ -1810,5 +1824,6 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini
  * [gpt-games](https://github.com/jimliu/gpt-games) - Build games with GPT
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - A Comprehensive Assessment of Trustworthiness in GPT Models
+ * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
 
 

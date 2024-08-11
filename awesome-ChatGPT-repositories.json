@@ -10554,6 +10554,28 @@
                     "zh-hans": "我使用Next.js 14、Shadcn-UI、Prisma ORM开发了一个ChatGPT克隆版本，并将其与OpenAI API集成。它提供了一个用户友好的对话人工智能体验。",
                     "zh-hant": "我使用Next.js 14、Shadcn-UI、Prisma ORM開發了一個ChatGPT克隆版本，並將其與OpenAI API集成。它提供了一個用戶友好的對話式人工智能體驗。"
                 }
+            },
+            "https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel": {
+                "repository_name": "ChatGPT-Linebot-using-python-flask-on-vercel",
+                "user_name": "howarder3",
+                "language": "Python",
+                "license": null,
+                "description": "GPT-Linebot using python flask for vercel",
+                "topics": [
+                    "bot",
+                    "chatgpt",
+                    "flask",
+                    "gpt",
+                    "gpt-3",
+                    "linebot",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GPT-Linebot using python flask for vercel",
+                    "ja": "Vercel用のPython Flaskを使用したGPT-LinebotGPT-LinebotをVercelで使用するPython Flask",
+                    "zh-hans": "使用Python Flask为Vercel创建GPT-Linebot",
+                    "zh-hant": "使用Python Flask和Vercel搭建的GPT-Linebot"
+                }
             }
         },
         "Browser-extensions": {
@@ -14511,6 +14533,118 @@
                     "zh-hans": "使用 OpenAI API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！根据 CC BY-NC-SA 4.0 许可证授权。",
                     "zh-hant": "使用 OpenAI API 給文本進行潤色和語法校正的 Bob 插件！完美代替 Grammarly！根據 CC BY-NC-SA 4.0 授權。"
                 }
+            },
+            "https://github.com/giosilvi/gpt-prompter": {
+                "repository_name": "GPT-Prompter",
+                "user_name": "giosilvi",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons",
+                "topics": [
+                    "chat",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chrome-extension",
+                    "firefox-addon",
+                    "gpt3",
+                    "gpt4"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons",
+                    "ja": "選択したテキストの高速プロンプトを取得するためのブラウザ拡張機能、OpenAIのGPT-3、GPT-4、ChatGPT API用。ChromeウェブストアとFirefoxブラウザアドオンで利用可能。",
+                    "zh-hans": "浏览器扩展，可快速获取OpenAI的GPT-3、GPT-4和ChatGPT API的提示（所选文本）。在Chrome网络商店和Firefox浏览器插件中可用。",
+                    "zh-hant": "瀏覽器擴展，可快速獲取OpenAI的GPT-3、GPT-4和ChatGPT API的提示（所選文本）。在Chrome網上商店和Firefox瀏覽器附加元件中提供。"
+                }
+            },
+            "https://github.com/mlc-ai/web-llm-chat": {
+                "repository_name": "web-llm-chat",
+                "user_name": "mlc-ai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "chat-application",
+                    "chatbot",
+                    "chatgpt",
+                    "gemma",
+                    "generative-ai",
+                    "hermes",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "mistral",
+                    "nextjs",
+                    "phi2",
+                    "privacy",
+                    "qwen",
+                    "redpajama",
+                    "tinyllama",
+                    "webgpu"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.",
+                    "ja": "ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。Output: ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。",
+                    "zh-hans": "与在您的浏览器中本地运行的AI大型语言模型聊天。享受私密、无服务器、无缝的AI对话。",
+                    "zh-hant": "與在您的瀏覽器原生運行的AI大型語言模型聊天。享受私密、無服務器、無縫的AI對話。"
+                }
+            },
+            "https://github.com/interstellard/chatgpt-advanced": {
+                "repository_name": "chatgpt-advanced",
+                "user_name": "interstellard",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.",
+                "topics": [
+                    "ai",
+                    "browser-extension",
+                    "chatgpt",
+                    "chrome-extension",
+                    "firefox-addon",
+                    "firefox-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.",
+                    "ja": "WebChatGPT：ChatGPTのプロンプトをWebの結果で補完するブラウザ拡張機能。",
+                    "zh-hans": "WebChatGPT：一款浏览器扩展，可以通过网络结果增强您的ChatGPT提示。",
+                    "zh-hant": "WebChatGPT：一款瀏覽器擴展，可通過網絡搜索結果增強您的ChatGPT提示。"
+                }
+            },
+            "https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai": {
+                "repository_name": "linkedIn_auto_jobs_applier_with_AI",
+                "user_name": "feder-cr",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.",
+                "topics": [
+                    "application-resume",
+                    "automate",
+                    "automation",
+                    "bot",
+                    "challenge",
+                    "chatgpt",
+                    "chrome",
+                    "gpt",
+                    "job",
+                    "jobsearch",
+                    "jobseeker",
+                    "linkedin-api",
+                    "linkedin-scraper",
+                    "opeai",
+                    "python",
+                    "python3",
+                    "resume",
+                    "scraper",
+                    "scraping",
+                    "selenium"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.",
+                    "ja": "LinkedIn_AIHawkは、LinkedIn上の求人応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の求人に自動化された個人的な方法で応募できるようにします。",
+                    "zh-hans": "LinkedIn_AIHawk是一个工具，可以自动化LinkedIn上的求职申请流程。利用人工智能技术，它使用户能够以自动化和个性化的方式申请多个工作机会。",
+                    "zh-hant": "LinkedIn_AIHawk 是一個工具，可以自動化在 LinkedIn 上的工作申請流程。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。"
+                }
             }
         },
         "CLIs": {
@@ -17207,6 +17341,20 @@
                     "ja": "ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。",
                     "zh-hans": "与配备本地工具的LLMs聊天：执行Python和Bash，编辑本地文件，浏览网页。",
                     "zh-hant": "與配備本地工具的LLMs聊天：執行Python和Bash，編輯本地文件，瀏覽網頁。"
+                }
+            },
+            "https://github.com/rnchg/apt": {
+                "repository_name": "Apt",
+                "user_name": "rnchg",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent processing of images and videos, and more.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent proc",
+                    "ja": "AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。",
+                    "zh-hans": "AI生产力工具-免费开源，提高用户生产力同时确保隐私和数据安全。它提供高效便捷的AI解决方案，包括但不限于：内置独家ChatGPT，一键批量智能处理。",
+                    "zh-hant": "AI 生產力工具-免費且開源，提高用戶生產力同時確保隱私和數據安全。它提供高效便捷的人工智能解決方案，包括但不限於：內置獨家 ChatGPT、一鍵批量智能處理。"
                 }
             }
         },
@@ -25923,6 +26071,49 @@
                     "ja": "最大限のプライバシーとオフラインアクセスのためのローカルオーラマとOpenAIのようなGPTの支援",
                     "zh-hans": "本地 Ollama 和类似 OpenAI 的 GPT 的协助，以实现最大隐私和离线访问。",
                     "zh-hant": "本地 Ollama 和類似 OpenAI 的 GPT 協助，以確保最大隱私和離線訪問。"
+                }
+            },
+            "https://github.com/liaokongvfx/langchain-chinese-getting-started-guide": {
+                "repository_name": "LangChain-Chinese-Getting-Started-Guide",
+                "user_name": "liaokongVFX",
+                "language": null,
+                "license": null,
+                "description": "LangChain 的中文入门教程",
+                "topics": [
+                    "aigc",
+                    "chatgpt",
+                    "langchain",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LangChain's Chinese beginner tutorial",
+                    "ja": "LangChainの中国語入門ガイド",
+                    "zh-hans": "LangChain的中文入门教程",
+                    "zh-hant": "LangChain 的中文入門教程"
+                }
+            },
+            "https://github.com/cmkrg/qizhengpt": {
+                "repository_name": "QiZhenGPT",
+                "user_name": "CMKRG",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型",
+                "topics": [
+                    "alpaca",
+                    "chatgpt",
+                    "chinese-medical",
+                    "disease",
+                    "gpt",
+                    "llama",
+                    "llm",
+                    "medicine"
+                ],
+                "multilingual_descriptions": {
+                    "en": "QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型",
+                    "ja": "QiZhenGPT：オープンソースの中国医療大規模言語モデル｜一个开源的中文医疗大语言模型",
+                    "zh-hans": "启真GPT：一个开源的中文医疗大语言模型",
+                    "zh-hant": "啟真GPT：一個開源的中文醫療大語言模型"
                 }
             }
         },
@@ -37488,6 +37679,33 @@
                     "ja": "GPTモデルの信頼性に関する包括的評価",
                     "zh-hans": "GPT模型信誉度的综合评估",
                     "zh-hant": "GPT模型信任度的全面評估"
+                }
+            },
+            "https://github.com/ugorsahin/talkingheads": {
+                "repository_name": "TalkingHeads",
+                "user_name": "ugorsahin",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi",
+                "topics": [
+                    "browser-automation",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "claude",
+                    "copilot",
+                    "free",
+                    "gemini",
+                    "huggingchat",
+                    "llm-inference",
+                    "python",
+                    "selenium",
+                    "undetected-chromedriver"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi",
+                    "ja": "ChatGPT、Claude、Copilot、Gemini、HuggingChat、およびPiと通信するためのライブラリ",
+                    "zh-hans": "一个用于与ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi进行通信的库",
+                    "zh-hant": "一個與ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi通信的圖書館"
                 }
             }
         }
