@@ -15,24 +15,30 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - gpt-4o 適用於 Windows、macOS 和 Linux
- * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - 一個社區開源的Saas平台，可用於製作/構建/創建聊天機器人，並使用OpenAI的助手API，您可以將其添加到您的網站上。
- * [ChatGPT](https://github.com/nisabmohd/chatgpt) - 我使用Next.js 14、Shadcn-UI、Prisma ORM開發了一個ChatGPT克隆版本，並將其與OpenAI API集成。它提供了一個用戶友好的對話式人工智能體驗。
+ * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - 使用Python Flask和Vercel搭建的GPT-Linebot
 
 
 **Browser-extensions**
- * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - 使用 OpenAI API 給文本進行潤色和語法校正的 Bob 插件！完美代替 Grammarly！根據 CC BY-NC-SA 4.0 授權。
+ * [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - 瀏覽器擴展，可快速獲取OpenAI的GPT-3、GPT-4和ChatGPT API的提示（所選文本）。在Chrome網上商店和Firefox瀏覽器附加元件中提供。
+ * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - 與在您的瀏覽器原生運行的AI大型語言模型聊天。享受私密、無服務器、無縫的AI對話。
+ * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：一款瀏覽器擴展，可通過網絡搜索結果增強您的ChatGPT提示。
+ * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk 是一個工具，可以自動化在 LinkedIn 上的工作申請流程。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。
 
 
 **CLIs**
- * [gptme](https://github.com/erikbjare/gptme) - 與配備本地工具的LLMs聊天：執行Python和Bash，編輯本地文件，瀏覽網頁。
+ * [Apt](https://github.com/rnchg/apt) - AI 生產力工具-免費且開源，提高用戶生產力同時確保隱私和數據安全。它提供高效便捷的人工智能解決方案，包括但不限於：內置獨家 ChatGPT、一鍵批量智能處理。
 
 
-**NLP**
- * [gtt](https://github.com/eeexun/gtt) - Google 翻譯 TUI（原始）。現在支持 Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reverso。
+**Langchain**
+ * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain 的中文入門教程
+ * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - 啟真GPT：一個開源的中文醫療大語言模型
 
 
-_Updated on August 09, 2024_ (A total of 1703 repositories listed.)
+**Others**
+ * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - 一個與ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi通信的圖書館
+
+
+_Updated on August 12, 2024_ (A total of 1712 repositories listed.)
 
 ## Table of contents
 
@@ -502,6 +508,7 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - gpt-4o 適用於 Windows、macOS 和 Linux
  * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - 一個社區開源的Saas平台，可用於製作/構建/創建聊天機器人，並使用OpenAI的助手API，您可以將其添加到您的網站上。
  * [ChatGPT](https://github.com/nisabmohd/chatgpt) - 我使用Next.js 14、Shadcn-UI、Prisma ORM開發了一個ChatGPT克隆版本，並將其與OpenAI API集成。它提供了一個用戶友好的對話式人工智能體驗。
+ * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - 使用Python Flask和Vercel搭建的GPT-Linebot
 
 
 ## Browser-extensions
@@ -684,6 +691,10 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ 在您的浏览器中完全与Vicuna一样与LLM聊天，使用WebGPU安全、私密且无需服务器。由web llm 提供支持。
  * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - 將Raycast擴展使用GPT-4、Llama-3等等...全部免費。無需API密鑰！
  * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - 使用 OpenAI API 給文本進行潤色和語法校正的 Bob 插件！完美代替 Grammarly！根據 CC BY-NC-SA 4.0 授權。
+ * [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - 瀏覽器擴展，可快速獲取OpenAI的GPT-3、GPT-4和ChatGPT API的提示（所選文本）。在Chrome網上商店和Firefox瀏覽器附加元件中提供。
+ * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - 與在您的瀏覽器原生運行的AI大型語言模型聊天。享受私密、無服務器、無縫的AI對話。
+ * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：一款瀏覽器擴展，可通過網絡搜索結果增強您的ChatGPT提示。
+ * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk 是一個工具，可以自動化在 LinkedIn 上的工作申請流程。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。
 
 
 ## CLIs
@@ -806,6 +817,7 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [openai4j](https://github.com/lambdua/openai4j) - Java客戶端庫用於OpenAI API。對所有OpenAI API模型提供全面支持，包括Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch和Fine-tuning。
  * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON翻譯器，搭載GPT和其他免費翻譯模組，可將您的json/yaml文件翻譯成其他語言 ✅ 查看Readme ✌ 支援GPT / DeepL / Google / Bing / Libre / Argos
  * [gptme](https://github.com/erikbjare/gptme) - 與配備本地工具的LLMs聊天：執行Python和Bash，編輯本地文件，瀏覽網頁。
+ * [Apt](https://github.com/rnchg/apt) - AI 生產力工具-免費且開源，提高用戶生產力同時確保隱私和數據安全。它提供高效便捷的人工智能解決方案，包括但不限於：內置獨家 ChatGPT、一鍵批量智能處理。
 
 
 ## Reimplementations
@@ -1219,6 +1231,8 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 LangChain for Swift。針對iOS、macOS、watchOS（部分）和visionOS進行了優化。（beta）
  * [RepoAgent](https://github.com/openbmb/repoagent) - 一個由LLM驅動的存儲庫代理，旨在幫助開發人員和團隊快速生成文檔並理解存儲庫。
  * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 本地 Ollama 和類似 OpenAI 的 GPT 協助，以確保最大隱私和離線訪問。
+ * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain 的中文入門教程
+ * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - 啟真GPT：一個開源的中文醫療大語言模型
 
 
 ## Unity
@@ -1810,5 +1824,6 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [zerox](https://github.com/getomni-ai/zerox) - 使用gpt-4o-mini进行零射击pdf OCR
  * [gpt-games](https://github.com/jimliu/gpt-games) - 使用GPT建立遊戲
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPT模型信任度的全面評估
+ * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - 一個與ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi通信的圖書館
 
 

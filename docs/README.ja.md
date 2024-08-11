@@ -15,24 +15,30 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - Windows、macOS、およびLinux用のgpt-4oWindows、macOS、およびLinux用のgpt-4o
- * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - OpenAIのAssistant APIを使用して、ウェブサイトに追加できる、Crafting/Building/Creating Chatbots向けのコミュニティオープンソースSaaS。
- * [ChatGPT](https://github.com/nisabmohd/chatgpt) - Next.js 14、Shadcn-UI、Prisma ORMを使用してChatGPTのクローンを開発し、OpenAI APIと統合しました。ユーザーフレンドリーな会話型AI体験を提供しています。
+ * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - Vercel用のPython Flaskを使用したGPT-LinebotGPT-LinebotをVercelで使用するPython Flask
 
 
 **Browser-extensions**
- * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - OpenAI APIを使用してテキストを磨き、文法を修正するBobプラグイン！Grammarlyの完璧な代替品！CC BY-NC-SA 4.0のライセンスに基づいています。
+ * [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - 選択したテキストの高速プロンプトを取得するためのブラウザ拡張機能、OpenAIのGPT-3、GPT-4、ChatGPT API用。ChromeウェブストアとFirefoxブラウザアドオンで利用可能。
+ * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。Output: ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。
+ * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：ChatGPTのプロンプトをWebの結果で補完するブラウザ拡張機能。
+ * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawkは、LinkedIn上の求人応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の求人に自動化された個人的な方法で応募できるようにします。
 
 
 **CLIs**
- * [gptme](https://github.com/erikbjare/gptme) - ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
+ * [Apt](https://github.com/rnchg/apt) - AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。
 
 
-**NLP**
- * [gtt](https://github.com/eeexun/gtt) - Google翻訳TUI（元々）。現在、Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reversoをサポートしています。
+**Langchain**
+ * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChainの中国語入門ガイド
+ * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT：オープンソースの中国医療大規模言語モデル｜一个开源的中文医疗大语言模型
 
 
-_Updated on August 09, 2024_ (A total of 1703 repositories listed.)
+**Others**
+ * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - ChatGPT、Claude、Copilot、Gemini、HuggingChat、およびPiと通信するためのライブラリ
+
+
+_Updated on August 12, 2024_ (A total of 1712 repositories listed.)
 
 ## Table of contents
 
@@ -502,6 +508,7 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - Windows、macOS、およびLinux用のgpt-4oWindows、macOS、およびLinux用のgpt-4o
  * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - OpenAIのAssistant APIを使用して、ウェブサイトに追加できる、Crafting/Building/Creating Chatbots向けのコミュニティオープンソースSaaS。
  * [ChatGPT](https://github.com/nisabmohd/chatgpt) - Next.js 14、Shadcn-UI、Prisma ORMを使用してChatGPTのクローンを開発し、OpenAI APIと統合しました。ユーザーフレンドリーな会話型AI体験を提供しています。
+ * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - Vercel用のPython Flaskを使用したGPT-LinebotGPT-LinebotをVercelで使用するPython Flask
 
 
 ## Browser-extensions
@@ -684,6 +691,10 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - 🗣️ WebGPUを使用して、安全かつプライベートに、サーバーなしでVicunaのようなLLMと完全にブラウザでチャットします。Web llmによって提供されます。
  * [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - GPT-4、Llama-3などを無料で使用するRaycast拡張機能。APIキーは不要です！
  * [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - OpenAI APIを使用してテキストを磨き、文法を修正するBobプラグイン！Grammarlyの完璧な代替品！CC BY-NC-SA 4.0のライセンスに基づいています。
+ * [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - 選択したテキストの高速プロンプトを取得するためのブラウザ拡張機能、OpenAIのGPT-3、GPT-4、ChatGPT API用。ChromeウェブストアとFirefoxブラウザアドオンで利用可能。
+ * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。Output: ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。
+ * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：ChatGPTのプロンプトをWebの結果で補完するブラウザ拡張機能。
+ * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawkは、LinkedIn上の求人応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の求人に自動化された個人的な方法で応募できるようにします。
 
 
 ## CLIs
@@ -806,6 +817,7 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [openai4j](https://github.com/lambdua/openai4j) - OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。
  * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - GPT + その他の無料翻訳モジュールを使用したAI JSON翻訳者、json/yamlファイルを他の言語に翻訳します ✅ Readmeをチェックしてください ✌ GPT / DeepL / Google / Bing / Libre / Argosに対応
  * [gptme](https://github.com/erikbjare/gptme) - ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
+ * [Apt](https://github.com/rnchg/apt) - AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。
 
 
 ## Reimplementations
@@ -1219,6 +1231,8 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [langchain-swift](https://github.com/buhe/langchain-swift) - 🚀 Swift用LangChain。iOS、macOS、watchOS（一部）およびvisionOS向けに最適化されています。（ベータ版）
  * [RepoAgent](https://github.com/openbmb/repoagent) - 開発者やチームが素早くドキュメントを生成し、リポジトリを理解するのを支援するLLMパワードのリポジトリエージェント。
  * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 最大限のプライバシーとオフラインアクセスのためのローカルオーラマとOpenAIのようなGPTの支援
+ * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChainの中国語入門ガイド
+ * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT：オープンソースの中国医療大規模言語モデル｜一个开源的中文医疗大语言模型
 
 
 ## Unity
@@ -1810,5 +1824,6 @@ _Updated on August 09, 2024_ (A total of 1703 repositories listed.)
  * [zerox](https://github.com/getomni-ai/zerox) - ゼロショットpdf OCR with gpt-4o-mini
  * [gpt-games](https://github.com/jimliu/gpt-games) - GPTを使用してゲームを作成します。
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPTモデルの信頼性に関する包括的評価
+ * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - ChatGPT、Claude、Copilot、Gemini、HuggingChat、およびPiと通信するためのライブラリ
 
 
