@@ -15,30 +15,17 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - Vercel用のPython Flaskを使用したGPT-LinebotGPT-LinebotをVercelで使用するPython Flask
+ * [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - GPT-SoVITS用のカスタムノード「comfyui」！今、comfyuiでボイスクローンとTTSができます。
+ * [slack-bot](https://github.com/innogames/slack-bot) - 怠惰な開発者向けのSlackボットを使用準備完了：Jenkinsジョブを開始し、Jiraチケットを監視し、AIサポート付きでプルリクエストを監視...
+ * [psychic](https://github.com/finic-ai/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
+ * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopackは、あなたのリポジトリ全体を1つの、AIにとっても使いやすいファイルにパックする強力なツールです。大規模言語モデル（LLM）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを提供する必要があるときに最適です。
 
 
 **Browser-extensions**
- * [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - 選択したテキストの高速プロンプトを取得するためのブラウザ拡張機能、OpenAIのGPT-3、GPT-4、ChatGPT API用。ChromeウェブストアとFirefoxブラウザアドオンで利用可能。
- * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。Output: ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。
- * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：ChatGPTのプロンプトをWebの結果で補完するブラウザ拡張機能。
- * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawkは、LinkedIn上の求人応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の求人に自動化された個人的な方法で応募できるようにします。
+ * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Googleアシスタントの代わりにChatGPTを使用してください。
 
 
-**CLIs**
- * [Apt](https://github.com/rnchg/apt) - AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。
-
-
-**Langchain**
- * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChainの中国語入門ガイド
- * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT：オープンソースの中国医療大規模言語モデル｜一个开源的中文医疗大语言模型
-
-
-**Others**
- * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - ChatGPT、Claude、Copilot、Gemini、HuggingChat、およびPiと通信するためのライブラリ
-
-
-_Updated on August 12, 2024_ (A total of 1712 repositories listed.)
+_Updated on August 15, 2024_ (A total of 1717 repositories listed.)
 
 ## Table of contents
 
@@ -509,6 +496,10 @@ _Updated on August 12, 2024_ (A total of 1712 repositories listed.)
  * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - OpenAIのAssistant APIを使用して、ウェブサイトに追加できる、Crafting/Building/Creating Chatbots向けのコミュニティオープンソースSaaS。
  * [ChatGPT](https://github.com/nisabmohd/chatgpt) - Next.js 14、Shadcn-UI、Prisma ORMを使用してChatGPTのクローンを開発し、OpenAI APIと統合しました。ユーザーフレンドリーな会話型AI体験を提供しています。
  * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - Vercel用のPython Flaskを使用したGPT-LinebotGPT-LinebotをVercelで使用するPython Flask
+ * [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - GPT-SoVITS用のカスタムノード「comfyui」！今、comfyuiでボイスクローンとTTSができます。
+ * [slack-bot](https://github.com/innogames/slack-bot) - 怠惰な開発者向けのSlackボットを使用準備完了：Jenkinsジョブを開始し、Jiraチケットを監視し、AIサポート付きでプルリクエストを監視...
+ * [psychic](https://github.com/finic-ai/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
+ * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopackは、あなたのリポジトリ全体を1つの、AIにとっても使いやすいファイルにパックする強力なツールです。大規模言語モデル（LLM）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを提供する必要があるときに最適です。
 
 
 ## Browser-extensions
@@ -695,6 +686,7 @@ _Updated on August 12, 2024_ (A total of 1712 repositories listed.)
  * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。Output: ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。
  * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：ChatGPTのプロンプトをWebの結果で補完するブラウザ拡張機能。
  * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawkは、LinkedIn上の求人応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の求人に自動化された個人的な方法で応募できるようにします。
+ * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Googleアシスタントの代わりにChatGPTを使用してください。
 
 
 ## CLIs

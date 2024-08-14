@@ -15,30 +15,17 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - 使用Python Flask为Vercel创建GPT-Linebot
+ * [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - 一个适用于GPT-SoVITS的comfyui自定义节点！现在你可以在comfyui中进行语音克隆和文字转语音。
+ * [slack-bot](https://github.com/innogames/slack-bot) - 准备好使用的Slack机器人，为懒惰的开发人员：启动Jenkins作业，监视Jira工单，监视拉取请求并支持人工智能...
+ * [psychic](https://github.com/finic-ai/psychic) - 为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。
+ * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack 是一个强大的工具，可以将您的整个代码库打包成一个单一的、友好于人工智能的文件。非常适合当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时使用。
 
 
 **Browser-extensions**
- * [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - 浏览器扩展，可快速获取OpenAI的GPT-3、GPT-4和ChatGPT API的提示（所选文本）。在Chrome网络商店和Firefox浏览器插件中可用。
- * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - 与在您的浏览器中本地运行的AI大型语言模型聊天。享受私密、无服务器、无缝的AI对话。
- * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：一款浏览器扩展，可以通过网络结果增强您的ChatGPT提示。
- * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk是一个工具，可以自动化LinkedIn上的求职申请流程。利用人工智能技术，它使用户能够以自动化和个性化的方式申请多个工作机会。
+ * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - 使用ChatGPT代替谷歌助手
 
 
-**CLIs**
- * [Apt](https://github.com/rnchg/apt) - AI生产力工具-免费开源，提高用户生产力同时确保隐私和数据安全。它提供高效便捷的AI解决方案，包括但不限于：内置独家ChatGPT，一键批量智能处理。
-
-
-**Langchain**
- * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain的中文入门教程
- * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - 启真GPT：一个开源的中文医疗大语言模型
-
-
-**Others**
- * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - 一个用于与ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi进行通信的库
-
-
-_Updated on August 12, 2024_ (A total of 1712 repositories listed.)
+_Updated on August 15, 2024_ (A total of 1717 repositories listed.)
 
 ## Table of contents
 
@@ -509,6 +496,10 @@ _Updated on August 12, 2024_ (A total of 1712 repositories listed.)
  * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - 一个社区开源的SaaS平台，可以利用OpenAI的助手API来制作/构建/创建聊天机器人，并将其添加到您的网站上。
  * [ChatGPT](https://github.com/nisabmohd/chatgpt) - 我使用Next.js 14、Shadcn-UI、Prisma ORM开发了一个ChatGPT克隆版本，并将其与OpenAI API集成。它提供了一个用户友好的对话人工智能体验。
  * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - 使用Python Flask为Vercel创建GPT-Linebot
+ * [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - 一个适用于GPT-SoVITS的comfyui自定义节点！现在你可以在comfyui中进行语音克隆和文字转语音。
+ * [slack-bot](https://github.com/innogames/slack-bot) - 准备好使用的Slack机器人，为懒惰的开发人员：启动Jenkins作业，监视Jira工单，监视拉取请求并支持人工智能...
+ * [psychic](https://github.com/finic-ai/psychic) - 为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。
+ * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack 是一个强大的工具，可以将您的整个代码库打包成一个单一的、友好于人工智能的文件。非常适合当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时使用。
 
 
 ## Browser-extensions
@@ -695,6 +686,7 @@ _Updated on August 12, 2024_ (A total of 1712 repositories listed.)
  * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - 与在您的浏览器中本地运行的AI大型语言模型聊天。享受私密、无服务器、无缝的AI对话。
  * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：一款浏览器扩展，可以通过网络结果增强您的ChatGPT提示。
  * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk是一个工具，可以自动化LinkedIn上的求职申请流程。利用人工智能技术，它使用户能够以自动化和个性化的方式申请多个工作机会。
+ * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - 使用ChatGPT代替谷歌助手
 
 
 ## CLIs
