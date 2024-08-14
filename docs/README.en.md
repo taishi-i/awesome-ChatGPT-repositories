@@ -15,30 +15,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - GPT-Linebot using python flask for vercel
+ * [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - a comfyui custom node for GPT-SoVITS! you can voice cloning and tts in comfyui now
+ * [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...
+ * [psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+ * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
 
 
 **Browser-extensions**
- * [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - Browser extension to get a fast prompt (of the selected text) for OpenAI`s GPT-3, GPT-4 & ChatGPT API . Available in the Chrome web store and Firefox browser add-ons
- * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
- * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
- * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
+ * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Use ChatGPT instead of Google Assistant
 
 
-**CLIs**
- * [Apt](https://github.com/rnchg/apt) - AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent proc
-
-
-**Langchain**
- * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain's Chinese beginner tutorial
- * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型
-
-
-**Others**
- * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
-
-
-_Updated on August 12, 2024_ (A total of 1712 repositories listed.)
+_Updated on August 15, 2024_ (A total of 1717 repositories listed.)
 
 ## Table of contents
 
@@ -509,6 +496,10 @@ _Updated on August 12, 2024_ (A total of 1712 repositories listed.)
  * [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - A Community Open-Source Saas for Crafting/Building/Creating Chatbots with OpenAI's Assistant API that you can add to your website.
  * [ChatGPT](https://github.com/nisabmohd/chatgpt) - I've developed a ChatGPT clone using Next.js 14, Shadcn-UI, Prisma ORM, and integrated it with the OpenAI API. It offers a user-friendly conversational AI experience.
  * [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - GPT-Linebot using python flask for vercel
+ * [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - a comfyui custom node for GPT-SoVITS! you can voice cloning and tts in comfyui now
+ * [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...
+ * [psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+ * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
 
 
 ## Browser-extensions
@@ -695,6 +686,7 @@ _Updated on August 12, 2024_ (A total of 1712 repositories listed.)
  * [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - Chat with AI large language models running natively in your browser. Enjoy private, server-free, seamless AI conversations.
  * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
  * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
+ * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Use ChatGPT instead of Google Assistant
 
 
 ## CLIs

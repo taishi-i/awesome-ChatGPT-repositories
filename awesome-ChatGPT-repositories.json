@@ -10576,6 +10576,110 @@
                     "zh-hans": "使用Python Flask为Vercel创建GPT-Linebot",
                     "zh-hant": "使用Python Flask和Vercel搭建的GPT-Linebot"
                 }
+            },
+            "https://github.com/aifsh/comfyui-gpt_sovits": {
+                "repository_name": "ComfyUI-GPT_SoVITS",
+                "user_name": "AIFSH",
+                "language": "Python",
+                "license": "Other",
+                "description": "a comfyui custom node for GPT-SoVITS! you can voice cloning and tts in comfyui now",
+                "topics": [
+                    "gpt-sovits",
+                    "tts",
+                    "voice-cloning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "a comfyui custom node for GPT-SoVITS! you can voice cloning and tts in comfyui now",
+                    "ja": "GPT-SoVITS用のカスタムノード「comfyui」！今、comfyuiでボイスクローンとTTSができます。",
+                    "zh-hans": "一个适用于GPT-SoVITS的comfyui自定义节点！现在你可以在comfyui中进行语音克隆和文字转语音。",
+                    "zh-hant": "一個適用於GPT-SoVITS的comfyui自定義節點！現在您可以在comfyui中進行語音克隆和TTS。"
+                }
+            },
+            "https://github.com/innogames/slack-bot": {
+                "repository_name": "slack-bot",
+                "user_name": "innogames",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...",
+                "topics": [
+                    "bitbucket",
+                    "bot",
+                    "chatgpt",
+                    "dall-e",
+                    "github",
+                    "gitlab",
+                    "go",
+                    "golang",
+                    "jenkins",
+                    "jira",
+                    "openai",
+                    "pull-request",
+                    "slack",
+                    "slack-bot",
+                    "slackbot",
+                    "slackbots"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...",
+                    "ja": "怠惰な開発者向けのSlackボットを使用準備完了：Jenkinsジョブを開始し、Jiraチケットを監視し、AIサポート付きでプルリクエストを監視...",
+                    "zh-hans": "准备好使用的Slack机器人，为懒惰的开发人员：启动Jenkins作业，监视Jira工单，监视拉取请求并支持人工智能...",
+                    "zh-hant": "準備好使用的 Slack 機器人，專為懶惰的開發人員設計：啟動 Jenkins 任務，監控 Jira 工單，監控拉取請求，並具有人工智慧支援..."
+                }
+            },
+            "https://github.com/finic-ai/psychic": {
+                "repository_name": "psychic",
+                "user_name": "finic-ai",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "conversational-ai",
+                    "etl-pipelines",
+                    "langchain",
+                    "openai",
+                    "weaviate"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration",
+                    "ja": "LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。",
+                    "zh-hans": "为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。",
+                    "zh-hant": "為LLMs設計的數據集成平台。通過即插即用的身份驗證連接到SaaS工具，並從N個數據源同步文檔，只需一次集成。"
+                }
+            },
+            "https://github.com/yamadashy/repopack": {
+                "repository_name": "repopack",
+                "user_name": "yamadashy",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+                "topics": [
+                    "ai",
+                    "ai-assistant",
+                    "anthropic",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "developer-tools",
+                    "development-tools",
+                    "devtools",
+                    "gemini",
+                    "generative-ai",
+                    "gpt",
+                    "javascript",
+                    "js",
+                    "llm",
+                    "nodejs",
+                    "openai",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+                    "ja": "📦 Repopackは、あなたのリポジトリ全体を1つの、AIにとっても使いやすいファイルにパックする強力なツールです。大規模言語モデル（LLM）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを提供する必要があるときに最適です。",
+                    "zh-hans": "📦 Repopack 是一个强大的工具，可以将您的整个代码库打包成一个单一的、友好于人工智能的文件。非常适合当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时使用。",
+                    "zh-hant": "📦 Repopack 是一個強大的工具，可以將您的整個存儲庫打包成一個單一的、適合人工智能的文件。當您需要將代碼庫提供給大型語言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini時，這是完美的選擇。"
+                }
             }
         },
         "Browser-extensions": {
@@ -14644,6 +14748,20 @@
                     "ja": "LinkedIn_AIHawkは、LinkedIn上の求人応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の求人に自動化された個人的な方法で応募できるようにします。",
                     "zh-hans": "LinkedIn_AIHawk是一个工具，可以自动化LinkedIn上的求职申请流程。利用人工智能技术，它使用户能够以自动化和个性化的方式申请多个工作机会。",
                     "zh-hant": "LinkedIn_AIHawk 是一個工具，可以自動化在 LinkedIn 上的工作申請流程。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。"
+                }
+            },
+            "https://github.com/wstxda/plugin-voicegpt": {
+                "repository_name": "Plugin-VoiceGPT",
+                "user_name": "WSTxda",
+                "language": "Kotlin",
+                "license": "GNU General Public License v3.0",
+                "description": "Use ChatGPT instead of Google Assistant",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Use ChatGPT instead of Google Assistant",
+                    "ja": "Googleアシスタントの代わりにChatGPTを使用してください。",
+                    "zh-hans": "使用ChatGPT代替谷歌助手",
+                    "zh-hant": "使用ChatGPT代替Google助手"
                 }
             }
         },
