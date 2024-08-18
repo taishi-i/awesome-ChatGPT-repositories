@@ -2,6 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 [ChatGPT](https://openai.com/blog/chatgpt)に関連するオープンソースのGitHubリポジトリを厳選したリストです。
@@ -15,17 +16,18 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - GPT-SoVITS用のカスタムノード「comfyui」！今、comfyuiでボイスクローンとTTSができます。
- * [slack-bot](https://github.com/innogames/slack-bot) - 怠惰な開発者向けのSlackボットを使用準備完了：Jenkinsジョブを開始し、Jiraチケットを監視し、AIサポート付きでプルリクエストを監視...
- * [psychic](https://github.com/finic-ai/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
- * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopackは、あなたのリポジトリ全体を1つの、AIにとっても使いやすいファイルにパックする強力なツールです。大規模言語モデル（LLM）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを提供する必要があるときに最適です。
+ * [finic](https://github.com/finic-ai/finic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
 
 
-**Browser-extensions**
- * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Googleアシスタントの代わりにChatGPTを使用してください。
+**NLP**
+ * [AlignBench](https://github.com/thudm/alignbench) - 大規模な多次元の中国語アライメント評価基準（ACL 2024）
 
 
-_Updated on August 15, 2024_ (A total of 1717 repositories listed.)
+**Others**
+ * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 自分のChatGPTイメージサイトをワンクリックでデプロイ
+
+
+_Updated on August 18, 2024_ (A total of 1720 repositories listed.)
 
 ## Table of contents
 
@@ -500,6 +502,7 @@ _Updated on August 15, 2024_ (A total of 1717 repositories listed.)
  * [slack-bot](https://github.com/innogames/slack-bot) - 怠惰な開発者向けのSlackボットを使用準備完了：Jenkinsジョブを開始し、Jiraチケットを監視し、AIサポート付きでプルリクエストを監視...
  * [psychic](https://github.com/finic-ai/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopackは、あなたのリポジトリ全体を1つの、AIにとっても使いやすいファイルにパックする強力なツールです。大規模言語モデル（LLM）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを提供する必要があるときに最適です。
+ * [finic](https://github.com/finic-ai/finic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
 
 
 ## Browser-extensions
@@ -1121,6 +1124,7 @@ _Updated on August 15, 2024_ (A total of 1717 repositories listed.)
  * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 私たちは行動の自然言語の説明を機械実行可能なコードに変換します[NeurIPS 2023]私たちは行動の自然言語の説明を機械実行可能なコードに変換します
  * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API は、さまざまなLLM APIを統一された形式、統一された規格、統一された管理で管理する、オールインワンのAPI管理システムです。これにより、機能、パフォーマンス、ユーザーエクスペリエンスの面で最高のレベルに達することができます。
  * [gtt](https://github.com/eeexun/gtt) - Google翻訳TUI（元々）。現在、Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reversoをサポートしています。
+ * [AlignBench](https://github.com/thudm/alignbench) - 大規模な多次元の中国語アライメント評価基準（ACL 2024）
 
 
 ## Langchain
@@ -1817,5 +1821,6 @@ _Updated on August 15, 2024_ (A total of 1717 repositories listed.)
  * [gpt-games](https://github.com/jimliu/gpt-games) - GPTを使用してゲームを作成します。
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPTモデルの信頼性に関する包括的評価
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - ChatGPT、Claude、Copilot、Gemini、HuggingChat、およびPiと通信するためのライブラリ
+ * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 自分のChatGPTイメージサイトをワンクリックでデプロイ
 
 

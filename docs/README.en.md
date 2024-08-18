@@ -2,6 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 A curated list of resources dedicated to open source GitHub repositories related to [ChatGPT](https://openai.com/blog/chatgpt).
@@ -15,17 +16,18 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - a comfyui custom node for GPT-SoVITS! you can voice cloning and tts in comfyui now
- * [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...
- * [psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
- * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
+ * [finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 
 
-**Browser-extensions**
- * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Use ChatGPT instead of Google Assistant
+**NLP**
+ * [AlignBench](https://github.com/thudm/alignbench) - Large-scale Multidimensional Chinese Alignment Evaluation Benchmark (ACL 2024)
 
 
-_Updated on August 15, 2024_ (A total of 1717 repositories listed.)
+**Others**
+ * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 One-click deployment of your own ChatGPT mirror site
+
+
+_Updated on August 18, 2024_ (A total of 1720 repositories listed.)
 
 ## Table of contents
 
@@ -500,6 +502,7 @@ _Updated on August 15, 2024_ (A total of 1717 repositories listed.)
  * [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack bot for lazy developers: start Jenkins jobs, watch Jira tickets, watch pull requests with AI support...
  * [psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
+ * [finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
 
 
 ## Browser-extensions
@@ -1121,6 +1124,7 @@ _Updated on August 15, 2024_ (A total of 1717 repositories listed.)
  * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] We turn natural language descriptions of behaviors into machine-executable code
  * [fastapi](https://github.com/iimeta/fastapi) - Zhiyuan Fast API is a one-stop API management system that standardizes, unifies, and manages various LLM APIs to achieve the ultimate in functionality, performance, and user experience.
  * [gtt](https://github.com/eeexun/gtt) - Google Translate TUI (Originally). Now support Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso.
+ * [AlignBench](https://github.com/thudm/alignbench) - Large-scale Multidimensional Chinese Alignment Evaluation Benchmark (ACL 2024)
 
 
 ## Langchain
@@ -1817,5 +1821,6 @@ _Updated on August 15, 2024_ (A total of 1717 repositories listed.)
  * [gpt-games](https://github.com/jimliu/gpt-games) - Build games with GPT
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - A Comprehensive Assessment of Trustworthiness in GPT Models
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
+ * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 One-click deployment of your own ChatGPT mirror site
 
 

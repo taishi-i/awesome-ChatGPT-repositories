@@ -10680,6 +10680,28 @@
                     "zh-hans": "📦 Repopack 是一个强大的工具，可以将您的整个代码库打包成一个单一的、友好于人工智能的文件。非常适合当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时使用。",
                     "zh-hant": "📦 Repopack 是一個強大的工具，可以將您的整個存儲庫打包成一個單一的、適合人工智能的文件。當您需要將代碼庫提供給大型語言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini時，這是完美的選擇。"
                 }
+            },
+            "https://github.com/finic-ai/finic": {
+                "repository_name": "finic",
+                "user_name": "finic-ai",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "conversational-ai",
+                    "etl-pipelines",
+                    "langchain",
+                    "openai",
+                    "weaviate"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration",
+                    "ja": "LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。",
+                    "zh-hans": "为LLMs提供的数据集成平台。使用一键式授权连接到SaaS工具，并从N个数据源同步文档，只需进行一次集成。",
+                    "zh-hant": "為LLMs設計的數據集成平台。通過即插即用的身份驗證連接到SaaS工具，並從N個數據源同步文檔，只需一次集成。"
+                }
             }
         },
         "Browser-extensions": {
@@ -23879,6 +23901,25 @@
                     "ja": "Google翻訳TUI（元々）。現在、Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reversoをサポートしています。",
                     "zh-hans": "Google翻译TUI（原始）。现在支持Apertium，Argos，Bing，ChatGPT，DeepL，DeepLX，Google，Reverso。",
                     "zh-hant": "Google 翻譯 TUI（原始）。現在支持 Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reverso。"
+                }
+            },
+            "https://github.com/thudm/alignbench": {
+                "repository_name": "AlignBench",
+                "user_name": "THUDM",
+                "language": "Python",
+                "license": null,
+                "description": "大模型多维度中文对齐评测基准 (ACL 2024)",
+                "topics": [
+                    "chatglm",
+                    "chatgpt",
+                    "large-language-models",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Large-scale Multidimensional Chinese Alignment Evaluation Benchmark (ACL 2024)",
+                    "ja": "大規模な多次元の中国語アライメント評価基準（ACL 2024）",
+                    "zh-hans": "大型多维度中文对齐评测基准 (ACL 2024)",
+                    "zh-hant": "大型多維度中文對齊評測基準（ACL 2024）"
                 }
             }
         },
@@ -37824,6 +37865,26 @@
                     "ja": "ChatGPT、Claude、Copilot、Gemini、HuggingChat、およびPiと通信するためのライブラリ",
                     "zh-hans": "一个用于与ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi进行通信的库",
                     "zh-hant": "一個與ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi通信的圖書館"
+                }
+            },
+            "https://github.com/dairoot/chatgpt-mirror": {
+                "repository_name": "ChatGPT-Mirror",
+                "user_name": "dairoot",
+                "language": "Dockerfile",
+                "license": "GNU General Public License v3.0",
+                "description": "🚀 一键部署自己的 ChatGPT 镜像站",
+                "topics": [
+                    "chatapi",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-plus",
+                    "chatgpt-share"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 One-click deployment of your own ChatGPT mirror site",
+                    "ja": "🚀 自分のChatGPTイメージサイトをワンクリックでデプロイ",
+                    "zh-hans": "🚀 一键部署您自己的 ChatGPT 镜像站",
+                    "zh-hant": "🚀 一鍵部署自己的 ChatGPT 鏡像站"
                 }
             }
         }

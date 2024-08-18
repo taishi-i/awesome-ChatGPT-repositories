@@ -2,6 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 一个专门用于与[ChatGPT](https://openai.com/blog/chatgpt)相关的开源GitHub存储库的资源列表.
@@ -15,17 +16,18 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - 一个适用于GPT-SoVITS的comfyui自定义节点！现在你可以在comfyui中进行语音克隆和文字转语音。
- * [slack-bot](https://github.com/innogames/slack-bot) - 准备好使用的Slack机器人，为懒惰的开发人员：启动Jenkins作业，监视Jira工单，监视拉取请求并支持人工智能...
- * [psychic](https://github.com/finic-ai/psychic) - 为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。
- * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack 是一个强大的工具，可以将您的整个代码库打包成一个单一的、友好于人工智能的文件。非常适合当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时使用。
+ * [finic](https://github.com/finic-ai/finic) - 为LLMs提供的数据集成平台。使用一键式授权连接到SaaS工具，并从N个数据源同步文档，只需进行一次集成。
 
 
-**Browser-extensions**
- * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - 使用ChatGPT代替谷歌助手
+**NLP**
+ * [AlignBench](https://github.com/thudm/alignbench) - 大型多维度中文对齐评测基准 (ACL 2024)
 
 
-_Updated on August 15, 2024_ (A total of 1717 repositories listed.)
+**Others**
+ * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一键部署您自己的 ChatGPT 镜像站
+
+
+_Updated on August 18, 2024_ (A total of 1720 repositories listed.)
 
 ## Table of contents
 
@@ -500,6 +502,7 @@ _Updated on August 15, 2024_ (A total of 1717 repositories listed.)
  * [slack-bot](https://github.com/innogames/slack-bot) - 准备好使用的Slack机器人，为懒惰的开发人员：启动Jenkins作业，监视Jira工单，监视拉取请求并支持人工智能...
  * [psychic](https://github.com/finic-ai/psychic) - 为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack 是一个强大的工具，可以将您的整个代码库打包成一个单一的、友好于人工智能的文件。非常适合当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时使用。
+ * [finic](https://github.com/finic-ai/finic) - 为LLMs提供的数据集成平台。使用一键式授权连接到SaaS工具，并从N个数据源同步文档，只需进行一次集成。
 
 
 ## Browser-extensions
@@ -1121,6 +1124,7 @@ _Updated on August 15, 2024_ (A total of 1717 repositories listed.)
  * [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - [NeurIPS 2023] 我们将行为的自然语言描述转化为可执行代码。
  * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
  * [gtt](https://github.com/eeexun/gtt) - Google翻译TUI（原始）。现在支持Apertium，Argos，Bing，ChatGPT，DeepL，DeepLX，Google，Reverso。
+ * [AlignBench](https://github.com/thudm/alignbench) - 大型多维度中文对齐评测基准 (ACL 2024)
 
 
 ## Langchain
@@ -1817,5 +1821,6 @@ _Updated on August 15, 2024_ (A total of 1717 repositories listed.)
  * [gpt-games](https://github.com/jimliu/gpt-games) - 使用GPT构建游戏
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPT模型信誉度的综合评估
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - 一个用于与ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi进行通信的库
+ * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一键部署您自己的 ChatGPT 镜像站
 
 
