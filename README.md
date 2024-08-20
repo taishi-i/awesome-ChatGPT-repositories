@@ -15,19 +15,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
-
-
 **NLP**
- * [AlignBench](https://github.com/thudm/alignbench) - 大模型多维度中文对齐评测基准 (ACL 2024)
+ * [factool](https://github.com/gair-nlp/factool) - FacTool: Factuality Detection in Generative AI
 
 
 **Others**
- * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一键部署自己的 ChatGPT 镜像站
+ * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
 
 
-_Updated on August 18, 2024_ (A total of 1720 repositories listed.)
+_Updated on August 21, 2024_ (A total of 1722 repositories listed.)
 
 ## Table of contents
 
@@ -1125,6 +1121,7 @@ _Updated on August 18, 2024_ (A total of 1720 repositories listed.)
  * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系统，将各类LLM API进行统一格式、统一规范、统一管理，使其在功能、性能和用户体验上达到极致。
  * [gtt](https://github.com/eeexun/gtt) - Google Translate TUI (Originally). Now support Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso.
  * [AlignBench](https://github.com/thudm/alignbench) - 大模型多维度中文对齐评测基准 (ACL 2024)
+ * [factool](https://github.com/gair-nlp/factool) - FacTool: Factuality Detection in Generative AI
 
 
 ## Langchain
@@ -1822,5 +1819,6 @@ _Updated on August 18, 2024_ (A total of 1720 repositories listed.)
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - A Comprehensive Assessment of Trustworthiness in GPT Models
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一键部署自己的 ChatGPT 镜像站
+ * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
 
 

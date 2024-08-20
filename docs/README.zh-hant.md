@@ -15,19 +15,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [finic](https://github.com/finic-ai/finic) - 為LLMs設計的數據集成平台。通過即插即用的身份驗證連接到SaaS工具，並從N個數據源同步文檔，只需一次集成。
-
-
 **NLP**
- * [AlignBench](https://github.com/thudm/alignbench) - 大型多維度中文對齊評測基準（ACL 2024）
+ * [factool](https://github.com/gair-nlp/factool) - FacTool：生成式AI中的事實性檢測
 
 
 **Others**
- * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一鍵部署自己的 ChatGPT 鏡像站
+ * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一個基於GPT的醫療垂直領域大模型，旨在將專業的醫學知識、醫療信息、數據融會貫通，為醫療行業提供智能化的醫療問答、診斷支持和醫學知識等信息服務，提高診療效率和醫療服務質量。
 
 
-_Updated on August 18, 2024_ (A total of 1720 repositories listed.)
+_Updated on August 21, 2024_ (A total of 1722 repositories listed.)
 
 ## Table of contents
 
@@ -1125,6 +1121,7 @@ _Updated on August 18, 2024_ (A total of 1720 repositories listed.)
  * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API 是一站式API管理系統，將各類LLM API進行統一格式、統一規範、統一管理，使其在功能、性能和用戶體驗上達到極致。
  * [gtt](https://github.com/eeexun/gtt) - Google 翻譯 TUI（原始）。現在支持 Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reverso。
  * [AlignBench](https://github.com/thudm/alignbench) - 大型多維度中文對齊評測基準（ACL 2024）
+ * [factool](https://github.com/gair-nlp/factool) - FacTool：生成式AI中的事實性檢測
 
 
 ## Langchain
@@ -1822,5 +1819,6 @@ _Updated on August 18, 2024_ (A total of 1720 repositories listed.)
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPT模型信任度的全面評估
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - 一個與ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi通信的圖書館
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一鍵部署自己的 ChatGPT 鏡像站
+ * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一個基於GPT的醫療垂直領域大模型，旨在將專業的醫學知識、醫療信息、數據融會貫通，為醫療行業提供智能化的醫療問答、診斷支持和醫學知識等信息服務，提高診療效率和醫療服務質量。
 
 

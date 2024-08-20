@@ -23921,6 +23921,27 @@
                     "zh-hans": "大型多维度中文对齐评测基准 (ACL 2024)",
                     "zh-hant": "大型多維度中文對齊評測基準（ACL 2024）"
                 }
+            },
+            "https://github.com/gair-nlp/factool": {
+                "repository_name": "factool",
+                "user_name": "GAIR-NLP",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "FacTool: Factuality Detection in Generative AI",
+                "topics": [
+                    "chatgpt",
+                    "fact-checking",
+                    "generative-ai",
+                    "large-language-models",
+                    "natural-language-processing",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "FacTool: Factuality Detection in Generative AI",
+                    "ja": "FacTool: 生成AIにおける事実性検出",
+                    "zh-hans": "FacTool：生成式AI中的事实性检测",
+                    "zh-hant": "FacTool：生成式AI中的事實性檢測"
+                }
             }
         },
         "Langchain": {
@@ -37885,6 +37906,20 @@
                     "ja": "🚀 自分のChatGPTイメージサイトをワンクリックでデプロイ",
                     "zh-hans": "🚀 一键部署您自己的 ChatGPT 镜像站",
                     "zh-hant": "🚀 一鍵部署自己的 ChatGPT 鏡像站"
+                }
+            },
+            "https://github.com/winninghealth/wingpt2": {
+                "repository_name": "WiNGPT2",
+                "user_name": "winninghealth",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "WiNGPT is a large model in the medical vertical field based on GPT, aiming to integrate professional medical knowledge, medical information, and data to provide intelligent medical question and answer, diagnostic support, and medical knowledge services for the medical industry, improving diagnostic efficiency and the quality of medical services.",
+                    "ja": "WiNGPTは、GPTを基にした医療分野の大規模モデルであり、専門の医学知識、医療情報、データを統合し、医療業界に知識を提供するためのインテリジェントな医療質問、診断支援、医学知識などの情報サービスを提供し、診療効率と医療サービスの質を向上させることを目的としています。",
+                    "zh-hans": "WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。",
+                    "zh-hant": "WiNGPT是一個基於GPT的醫療垂直領域大模型，旨在將專業的醫學知識、醫療信息、數據融會貫通，為醫療行業提供智能化的醫療問答、診斷支持和醫學知識等信息服務，提高診療效率和醫療服務質量。"
                 }
             }
         }

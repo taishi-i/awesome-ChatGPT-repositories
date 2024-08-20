@@ -15,19 +15,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
-
-
 **NLP**
- * [AlignBench](https://github.com/thudm/alignbench) - Large-scale Multidimensional Chinese Alignment Evaluation Benchmark (ACL 2024)
+ * [factool](https://github.com/gair-nlp/factool) - FacTool: Factuality Detection in Generative AI
 
 
 **Others**
- * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 One-click deployment of your own ChatGPT mirror site
+ * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT is a large model in the medical vertical field based on GPT, aiming to integrate professional medical knowledge, medical information, and data to provide intelligent medical question and answer, diagnostic support, and medical knowledge services for the medical industry, improving diagnostic efficiency and the quality of medical services.
 
 
-_Updated on August 18, 2024_ (A total of 1720 repositories listed.)
+_Updated on August 21, 2024_ (A total of 1722 repositories listed.)
 
 ## Table of contents
 
@@ -1125,6 +1121,7 @@ _Updated on August 18, 2024_ (A total of 1720 repositories listed.)
  * [fastapi](https://github.com/iimeta/fastapi) - Zhiyuan Fast API is a one-stop API management system that standardizes, unifies, and manages various LLM APIs to achieve the ultimate in functionality, performance, and user experience.
  * [gtt](https://github.com/eeexun/gtt) - Google Translate TUI (Originally). Now support Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso.
  * [AlignBench](https://github.com/thudm/alignbench) - Large-scale Multidimensional Chinese Alignment Evaluation Benchmark (ACL 2024)
+ * [factool](https://github.com/gair-nlp/factool) - FacTool: Factuality Detection in Generative AI
 
 
 ## Langchain
@@ -1822,5 +1819,6 @@ _Updated on August 18, 2024_ (A total of 1720 repositories listed.)
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - A Comprehensive Assessment of Trustworthiness in GPT Models
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 One-click deployment of your own ChatGPT mirror site
+ * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT is a large model in the medical vertical field based on GPT, aiming to integrate professional medical knowledge, medical information, and data to provide intelligent medical question and answer, diagnostic support, and medical knowledge services for the medical industry, improving diagnostic efficiency and the quality of medical services.
 
 
