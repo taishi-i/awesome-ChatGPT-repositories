@@ -15,19 +15,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [finic](https://github.com/finic-ai/finic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
-
-
 **NLP**
- * [AlignBench](https://github.com/thudm/alignbench) - 大規模な多次元の中国語アライメント評価基準（ACL 2024）
+ * [factool](https://github.com/gair-nlp/factool) - FacTool: 生成AIにおける事実性検出
 
 
 **Others**
- * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 自分のChatGPTイメージサイトをワンクリックでデプロイ
+ * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPTは、GPTを基にした医療分野の大規模モデルであり、専門の医学知識、医療情報、データを統合し、医療業界に知識を提供するためのインテリジェントな医療質問、診断支援、医学知識などの情報サービスを提供し、診療効率と医療サービスの質を向上させることを目的としています。
 
 
-_Updated on August 18, 2024_ (A total of 1720 repositories listed.)
+_Updated on August 21, 2024_ (A total of 1722 repositories listed.)
 
 ## Table of contents
 
@@ -1125,6 +1121,7 @@ _Updated on August 18, 2024_ (A total of 1720 repositories listed.)
  * [fastapi](https://github.com/iimeta/fastapi) - 智元 Fast API は、さまざまなLLM APIを統一された形式、統一された規格、統一された管理で管理する、オールインワンのAPI管理システムです。これにより、機能、パフォーマンス、ユーザーエクスペリエンスの面で最高のレベルに達することができます。
  * [gtt](https://github.com/eeexun/gtt) - Google翻訳TUI（元々）。現在、Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reversoをサポートしています。
  * [AlignBench](https://github.com/thudm/alignbench) - 大規模な多次元の中国語アライメント評価基準（ACL 2024）
+ * [factool](https://github.com/gair-nlp/factool) - FacTool: 生成AIにおける事実性検出
 
 
 ## Langchain
@@ -1822,5 +1819,6 @@ _Updated on August 18, 2024_ (A total of 1720 repositories listed.)
  * [DecodingTrust](https://github.com/ai-secure/decodingtrust) - GPTモデルの信頼性に関する包括的評価
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - ChatGPT、Claude、Copilot、Gemini、HuggingChat、およびPiと通信するためのライブラリ
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 自分のChatGPTイメージサイトをワンクリックでデプロイ
+ * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPTは、GPTを基にした医療分野の大規模モデルであり、専門の医学知識、医療情報、データを統合し、医療業界に知識を提供するためのインテリジェントな医療質問、診断支援、医学知識などの情報サービスを提供し、診療効率と医療サービスの質を向上させることを目的としています。
 
 
