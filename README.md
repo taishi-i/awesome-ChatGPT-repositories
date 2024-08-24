@@ -1,8 +1,8 @@
 # awesome-ChatGPT-repositories
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 A curated list of resources dedicated to open source GitHub repositories related to [ChatGPT](https://openai.com/blog/chatgpt).
@@ -15,15 +15,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)
+
+
+**Browser-extensions**
+ * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs
+ * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/langchain sdk.
+
+
 **NLP**
- * [factool](https://github.com/gair-nlp/factool) - FacTool: Factuality Detection in Generative AI
+ * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs
 
 
-**Others**
- * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
+**Langchain**
+ * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences.
 
 
-_Updated on August 21, 2024_ (A total of 1722 repositories listed.)
+_Updated on August 25, 2024_ (A total of 1727 repositories listed.)
 
 ## Table of contents
 
@@ -499,6 +508,7 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
  * [finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
+ * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)
 
 
 ## Browser-extensions
@@ -686,6 +696,8 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
  * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk is a tool that automates  the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
  * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Use ChatGPT instead of Google Assistant
+ * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs
+ * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/langchain sdk.
 
 
 ## CLIs
@@ -1122,6 +1134,7 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [gtt](https://github.com/eeexun/gtt) - Google Translate TUI (Originally). Now support Apertium, Argos, Bing, ChatGPT, DeepL, DeepLX, Google, Reverso.
  * [AlignBench](https://github.com/thudm/alignbench) - 大模型多维度中文对齐评测基准 (ACL 2024)
  * [factool](https://github.com/gair-nlp/factool) - FacTool: Factuality Detection in Generative AI
+ * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs
 
 
 ## Langchain
@@ -1226,6 +1239,7 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - Local Ollama and OpenAI-like GPT's assistance for maximum privacy and offline access
  * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain 的中文入门教程
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型
+ * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences.
 
 
 ## Unity

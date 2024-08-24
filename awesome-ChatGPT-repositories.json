@@ -10702,6 +10702,41 @@
                     "zh-hans": "为LLMs提供的数据集成平台。使用一键式授权连接到SaaS工具，并从N个数据源同步文档，只需进行一次集成。",
                     "zh-hant": "為LLMs設計的數據集成平台。通過即插即用的身份驗證連接到SaaS工具，並從N個數據源同步文檔，只需一次集成。"
                 }
+            },
+            "https://github.com/jakobdylanc/llmcord.py": {
+                "repository_name": "llmcord.py",
+                "user_name": "jakobdylanc",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)",
+                "topics": [
+                    "ai",
+                    "bot",
+                    "chatbot",
+                    "chatgpt",
+                    "discord",
+                    "gpt",
+                    "gpt-4",
+                    "gpt-4o",
+                    "groq",
+                    "litellm",
+                    "llama",
+                    "llama3",
+                    "llava",
+                    "llm",
+                    "llmcord",
+                    "lmstudio",
+                    "mistral",
+                    "ollama",
+                    "oobabooga",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)",
+                    "ja": "OpenAI互換API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット",
+                    "zh-hans": "一个支持任何OpenAI兼容API的Discord LLM聊天机器人（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）。",
+                    "zh-hant": "一個支持任何OpenAI兼容API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）的Discord LLM聊天機器人。"
+                }
             }
         },
         "Browser-extensions": {
@@ -14784,6 +14819,71 @@
                     "ja": "Googleアシスタントの代わりにChatGPTを使用してください。",
                     "zh-hans": "使用ChatGPT代替谷歌助手",
                     "zh-hant": "使用ChatGPT代替Google助手"
+                }
+            },
+            "https://github.com/olimorris/codecompanion.nvim": {
+                "repository_name": "codecompanion.nvim",
+                "user_name": "olimorris",
+                "language": "Lua",
+                "license": "MIT License",
+                "description": "✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
+                "topics": [
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "claude-3-5-sonnet",
+                    "copilot",
+                    "copilot-chat",
+                    "gemini",
+                    "google-gemini",
+                    "gpt",
+                    "gpt-4o",
+                    "gpt4o",
+                    "llm",
+                    "neovim",
+                    "nvim",
+                    "nvim-plugin",
+                    "ollama",
+                    "openai",
+                    "plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs",
+                    "ja": "✨ NeovimでのCopilot Chat体験、インラインアシスタント付き。Anthropic、Gemini、Ollama、OpenAI LLMsをサポートします。",
+                    "zh-hans": "✨ 在Neovim中的Copilot聊天体验，配有内联助手。支持Anthropic、Gemini、Ollama和OpenAI LLMs",
+                    "zh-hant": "✨ 在Neovim中的Copilot Chat體驗，配有內置助手。支持Anthropic、Gemini、Ollama和OpenAI LLMs。"
+                }
+            },
+            "https://github.com/mlt-oss/open-assistant-api": {
+                "repository_name": "open-assistant-api",
+                "user_name": "MLT-OSS",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/langchain sdk.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "assistants",
+                    "assistants-api",
+                    "chatgpt",
+                    "gpt",
+                    "gpt-4",
+                    "gpts",
+                    "langchain",
+                    "llm",
+                    "openai",
+                    "openai-api",
+                    "openai-assistants",
+                    "openai-assistants-api",
+                    "python",
+                    "rag",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/lang",
+                    "ja": "Open Assistant APIは、使用準備が整っており、オープンソースで自己ホスト型のエージェント/gptsオーケストレーション作成フレームワークであり、LLM、RAG、関数呼び出し、およびツールの機能にカスタマイズされた拡張をサポートしています。また、openai/langとのシームレスな統合もサポートしています。",
+                    "zh-hans": "Open Assistant API是一个即插即用的开源自托管代理/ GPTS编排创建框架，支持LLM、RAG、函数调用和工具功能的定制扩展。它还支持与openai/lang的无缝集成。",
+                    "zh-hant": "Open Assistant API 是一個即用即棄、開源、自主託管的代理/ gpts 編排創建框架，支持 LLM、RAG、函數調用和工具功能的定制擴展。它還支持與 openai/lang 的無縫集成。"
                 }
             }
         },
@@ -23942,6 +24042,29 @@
                     "zh-hans": "FacTool：生成式AI中的事实性检测",
                     "zh-hant": "FacTool：生成式AI中的事實性檢測"
                 }
+            },
+            "https://github.com/jieyilong/tree-of-thought-puzzle-solver": {
+                "repository_name": "tree-of-thought-puzzle-solver",
+                "user_name": "jieyilong",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs",
+                "topics": [
+                    "artificial-intelligence",
+                    "autogpt",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "llm",
+                    "machine-learning",
+                    "tree-of-thought",
+                    "tree-of-thoughts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs",
+                    "ja": "複雑な推論タスクを解決するための「思考の木（ToT）」フレームワークを使用したLLMs",
+                    "zh-hans": "思维树（ToT）框架用于使用LLMs解决复杂推理任务",
+                    "zh-hant": "思維樹（ToT）框架用於使用LLMs解決複雜推理任務"
+                }
             }
         },
         "Langchain": {
@@ -26294,6 +26417,32 @@
                     "ja": "QiZhenGPT：オープンソースの中国医療大規模言語モデル｜一个开源的中文医疗大语言模型",
                     "zh-hans": "启真GPT：一个开源的中文医疗大语言模型",
                     "zh-hant": "啟真GPT：一個開源的中文醫療大語言模型"
+                }
+            },
+            "https://github.com/azure-samples/azure-search-openai-javascript": {
+                "repository_name": "azure-search-openai-javascript",
+                "user_name": "Azure-Samples",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences.",
+                "topics": [
+                    "ai-azd-templates",
+                    "azd-templates",
+                    "azure",
+                    "azure-ai-search",
+                    "azureopenai",
+                    "javascript",
+                    "langchain-js",
+                    "langchain-typescript",
+                    "openai",
+                    "typechat",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences.",
+                    "ja": "Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。",
+                    "zh-hans": "一个在Azure上运行的检索增强生成模式的TypeScript示例应用程序，使用Azure AI Search进行检索，使用Azure OpenAI和LangChain大型语言模型（LLMs）来支持ChatGPT风格和问答体验。",
+                    "zh-hant": "一個在Azure上運行的檢索增強生成模式的TypeScript示例應用程序，使用Azure AI Search進行檢索，並使用Azure OpenAI和LangChain大型語言模型（LLMs）來支持ChatGPT風格和問答體驗。"
                 }
             }
         },
