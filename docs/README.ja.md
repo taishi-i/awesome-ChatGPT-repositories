@@ -1,8 +1,8 @@
 # awesome-ChatGPT-repositories
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 [ChatGPT](https://openai.com/blog/chatgpt)に関連するオープンソースのGitHubリポジトリを厳選したリストです。
@@ -15,15 +15,24 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - OpenAI互換API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット
+
+
+**Browser-extensions**
+ * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ NeovimでのCopilot Chat体験、インラインアシスタント付き。Anthropic、Gemini、Ollama、OpenAI LLMsをサポートします。
+ * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant APIは、使用準備が整っており、オープンソースで自己ホスト型のエージェント/gptsオーケストレーション作成フレームワークであり、LLM、RAG、関数呼び出し、およびツールの機能にカスタマイズされた拡張をサポートしています。また、openai/langとのシームレスな統合もサポートしています。
+
+
 **NLP**
- * [factool](https://github.com/gair-nlp/factool) - FacTool: 生成AIにおける事実性検出
+ * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 複雑な推論タスクを解決するための「思考の木（ToT）」フレームワークを使用したLLMs
 
 
-**Others**
- * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPTは、GPTを基にした医療分野の大規模モデルであり、専門の医学知識、医療情報、データを統合し、医療業界に知識を提供するためのインテリジェントな医療質問、診断支援、医学知識などの情報サービスを提供し、診療効率と医療サービスの質を向上させることを目的としています。
+**Langchain**
+ * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。
 
 
-_Updated on August 21, 2024_ (A total of 1722 repositories listed.)
+_Updated on August 25, 2024_ (A total of 1727 repositories listed.)
 
 ## Table of contents
 
@@ -499,6 +508,7 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [psychic](https://github.com/finic-ai/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopackは、あなたのリポジトリ全体を1つの、AIにとっても使いやすいファイルにパックする強力なツールです。大規模言語モデル（LLM）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを提供する必要があるときに最適です。
  * [finic](https://github.com/finic-ai/finic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
+ * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - OpenAI互換API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット
 
 
 ## Browser-extensions
@@ -686,6 +696,8 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：ChatGPTのプロンプトをWebの結果で補完するブラウザ拡張機能。
  * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawkは、LinkedIn上の求人応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の求人に自動化された個人的な方法で応募できるようにします。
  * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Googleアシスタントの代わりにChatGPTを使用してください。
+ * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ NeovimでのCopilot Chat体験、インラインアシスタント付き。Anthropic、Gemini、Ollama、OpenAI LLMsをサポートします。
+ * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant APIは、使用準備が整っており、オープンソースで自己ホスト型のエージェント/gptsオーケストレーション作成フレームワークであり、LLM、RAG、関数呼び出し、およびツールの機能にカスタマイズされた拡張をサポートしています。また、openai/langとのシームレスな統合もサポートしています。
 
 
 ## CLIs
@@ -1122,6 +1134,7 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [gtt](https://github.com/eeexun/gtt) - Google翻訳TUI（元々）。現在、Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reversoをサポートしています。
  * [AlignBench](https://github.com/thudm/alignbench) - 大規模な多次元の中国語アライメント評価基準（ACL 2024）
  * [factool](https://github.com/gair-nlp/factool) - FacTool: 生成AIにおける事実性検出
+ * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 複雑な推論タスクを解決するための「思考の木（ToT）」フレームワークを使用したLLMs
 
 
 ## Langchain
@@ -1226,6 +1239,7 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 最大限のプライバシーとオフラインアクセスのためのローカルオーラマとOpenAIのようなGPTの支援
  * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChainの中国語入門ガイド
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT：オープンソースの中国医療大規模言語モデル｜一个开源的中文医疗大语言模型
+ * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。
 
 
 ## Unity

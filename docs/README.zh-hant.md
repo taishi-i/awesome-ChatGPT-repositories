@@ -1,8 +1,8 @@
 # awesome-ChatGPT-repositories
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 關於 [ChatGPT](https://openai.com/blog/chatgpt) 的公開 GitHub 資料庫的資源.
@@ -15,15 +15,24 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - 一個支持任何OpenAI兼容API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）的Discord LLM聊天機器人。
+
+
+**Browser-extensions**
+ * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ 在Neovim中的Copilot Chat體驗，配有內置助手。支持Anthropic、Gemini、Ollama和OpenAI LLMs。
+ * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant API 是一個即用即棄、開源、自主託管的代理/ gpts 編排創建框架，支持 LLM、RAG、函數調用和工具功能的定制擴展。它還支持與 openai/lang 的無縫集成。
+
+
 **NLP**
- * [factool](https://github.com/gair-nlp/factool) - FacTool：生成式AI中的事實性檢測
+ * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 思維樹（ToT）框架用於使用LLMs解決複雜推理任務
 
 
-**Others**
- * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一個基於GPT的醫療垂直領域大模型，旨在將專業的醫學知識、醫療信息、數據融會貫通，為醫療行業提供智能化的醫療問答、診斷支持和醫學知識等信息服務，提高診療效率和醫療服務質量。
+**Langchain**
+ * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - 一個在Azure上運行的檢索增強生成模式的TypeScript示例應用程序，使用Azure AI Search進行檢索，並使用Azure OpenAI和LangChain大型語言模型（LLMs）來支持ChatGPT風格和問答體驗。
 
 
-_Updated on August 21, 2024_ (A total of 1722 repositories listed.)
+_Updated on August 25, 2024_ (A total of 1727 repositories listed.)
 
 ## Table of contents
 
@@ -499,6 +508,7 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [psychic](https://github.com/finic-ai/psychic) - 為LLMs設計的數據集成平台。通過即插即用的身份驗證連接到SaaS工具，並從N個數據源同步文檔，只需一次集成。
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack 是一個強大的工具，可以將您的整個存儲庫打包成一個單一的、適合人工智能的文件。當您需要將代碼庫提供給大型語言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini時，這是完美的選擇。
  * [finic](https://github.com/finic-ai/finic) - 為LLMs設計的數據集成平台。通過即插即用的身份驗證連接到SaaS工具，並從N個數據源同步文檔，只需一次集成。
+ * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - 一個支持任何OpenAI兼容API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）的Discord LLM聊天機器人。
 
 
 ## Browser-extensions
@@ -686,6 +696,8 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT：一款瀏覽器擴展，可通過網絡搜索結果增強您的ChatGPT提示。
  * [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - LinkedIn_AIHawk 是一個工具，可以自動化在 LinkedIn 上的工作申請流程。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。
  * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - 使用ChatGPT代替Google助手
+ * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ 在Neovim中的Copilot Chat體驗，配有內置助手。支持Anthropic、Gemini、Ollama和OpenAI LLMs。
+ * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant API 是一個即用即棄、開源、自主託管的代理/ gpts 編排創建框架，支持 LLM、RAG、函數調用和工具功能的定制擴展。它還支持與 openai/lang 的無縫集成。
 
 
 ## CLIs
@@ -1122,6 +1134,7 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [gtt](https://github.com/eeexun/gtt) - Google 翻譯 TUI（原始）。現在支持 Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reverso。
  * [AlignBench](https://github.com/thudm/alignbench) - 大型多維度中文對齊評測基準（ACL 2024）
  * [factool](https://github.com/gair-nlp/factool) - FacTool：生成式AI中的事實性檢測
+ * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 思維樹（ToT）框架用於使用LLMs解決複雜推理任務
 
 
 ## Langchain
@@ -1226,6 +1239,7 @@ _Updated on August 21, 2024_ (A total of 1722 repositories listed.)
  * [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - 本地 Ollama 和類似 OpenAI 的 GPT 協助，以確保最大隱私和離線訪問。
  * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain 的中文入門教程
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - 啟真GPT：一個開源的中文醫療大語言模型
+ * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - 一個在Azure上運行的檢索增強生成模式的TypeScript示例應用程序，使用Azure AI Search進行檢索，並使用Azure OpenAI和LangChain大型語言模型（LLMs）來支持ChatGPT風格和問答體驗。
 
 
 ## Unity
