@@ -15,24 +15,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
+
+
 **Chatbots**
- * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)
+ * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - Integrate AI Assistants with Django to build intelligent applications
+ * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for c
 
 
 **Browser-extensions**
- * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs
- * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/lang
+ * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
 
 
-**NLP**
- * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs
+**CLIs**
+ * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
 
 
-**Langchain**
- * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences.
+**Unity**
+ * [openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
 
 
-_Updated on August 25, 2024_ (A total of 1727 repositories listed.)
+_Updated on August 29, 2024_ (A total of 1733 repositories listed.)
 
 ## Table of contents
 
@@ -122,6 +126,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT Chinese Guide🔥, ChatGPT Chinese Training Guide, Instruction Guide, Application Development Guide, curated resource list, use ChatGPT better to boost your productivity up up up! 🚀
  * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.
  * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
+ * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
 
 
 ## Prompts
@@ -509,6 +514,8 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
  * [finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
  * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)
+ * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - Integrate AI Assistants with Django to build intelligent applications
+ * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for c
 
 
 ## Browser-extensions
@@ -698,6 +705,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Use ChatGPT instead of Google Assistant
  * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs
  * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/lang
+ * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
 
 
 ## CLIs
@@ -821,6 +829,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON Translator with GPT + other FREE translation modules to translate your json/yaml files into other languages ✅ Check Readme ✌ Supports GPT / DeepL / Google / Bing / Libre / Argos
  * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
  * [Apt](https://github.com/rnchg/apt) - AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent proc
+ * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
 
 
 ## Reimplementations
@@ -1258,6 +1267,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
  * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
+ * [openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
 
 
 ## Openai

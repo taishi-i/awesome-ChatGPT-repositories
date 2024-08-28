@@ -1807,6 +1807,29 @@
                     "zh-hans": "ChatGPT越狱，GPT助手提示泄漏，GPT提示注入，LLM提示安全，超级提示，提示黑客，提示安全，Ai提示工程，对抗性机器学习。",
                     "zh-hant": "ChatGPT越獄，GPT助手提示洩漏，GPT提示注入，LLM提示安全，超級提示，提示黑客，提示安全，Ai提示工程，對抗機器學習。"
                 }
+            },
+            "https://github.com/lobehub/lobe-chat-plugins": {
+                "repository_name": "lobe-chat-plugins",
+                "user_name": "lobehub",
+                "language": "TypeScript",
+                "license": null,
+                "description": "🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.",
+                "topics": [
+                    "ai",
+                    "awesome",
+                    "chatgpt",
+                    "function-calling",
+                    "lobe-chat",
+                    "lobe-chat-plugin",
+                    "lobehub",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.",
+                    "ja": "🧩 / 🏪 プラグインインデックス - これはLobeChatのプラグインインデックスです。 これは、このリポジトリからindex.jsonにアクセスして、LobeChatの利用可能なプラグインのリストをユーザーに表示します。",
+                    "zh-hans": "🧩 / 🏪 插件索引 - 这是LobeChat的插件索引。它从这个存储库访问index.json，向用户显示可用插件的列表。",
+                    "zh-hant": "🧩 / 🏪  插件索引 - 這是 LobeChat 的插件索引。它從這個存儲庫中訪問 index.json，向用戶顯示 LobeChat 可用插件的列表。"
+                }
             }
         },
         "Prompts": {
@@ -10737,6 +10760,50 @@
                     "zh-hans": "一个支持任何OpenAI兼容API的Discord LLM聊天机器人（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）。",
                     "zh-hant": "一個支持任何OpenAI兼容API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）的Discord LLM聊天機器人。"
                 }
+            },
+            "https://github.com/vintasoftware/django-ai-assistant": {
+                "repository_name": "django-ai-assistant",
+                "user_name": "vintasoftware",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Integrate AI Assistants with Django to build intelligent applications",
+                "topics": [
+                    "ai",
+                    "ai-agent",
+                    "ai-assistant",
+                    "chatgpt",
+                    "django",
+                    "gpt",
+                    "langchain",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Integrate AI Assistants with Django to build intelligent applications",
+                    "ja": "DjangoとAIアシスタントを統合して、知的なアプリケーションを構築します。",
+                    "zh-hans": "将AI助手与Django集成，构建智能应用程序",
+                    "zh-hant": "將AI助手與Django整合，打造智能應用程式。"
+                }
+            },
+            "https://github.com/mindinventory/mindsql": {
+                "repository_name": "MindSQL",
+                "user_name": "Mindinventory",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for context-aware responses.",
+                "topics": [
+                    "chatbot",
+                    "gemini",
+                    "langchain",
+                    "rag",
+                    "retrival-augmented",
+                    "text-to-sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for c",
+                    "ja": "MindSQL：データベースの相互作用を簡素化するPython Text-to-SQL RAGライブラリ。PostgreSQL、MySQL、SQLite、Snowflake、およびBigQueryとシームレスに統合されています。GPT-4とLlama 2によって動作し、自然言語クエリを可能にします。ChromaDBとFaissをサポートしています。",
+                    "zh-hans": "MindSQL：一个简化数据库交互的Python文本到SQL RAG库。与PostgreSQL、MySQL、SQLite、Snowflake和BigQuery无缝集成。由GPT-4和Llama 2驱动，支持自然语言查询。支持ChromaDB和Faiss。",
+                    "zh-hant": "MindSQL：一個簡化數據庫交互的Python文本到SQL RAG庫。與PostgreSQL、MySQL、SQLite、Snowflake和BigQuery無縫集成。由GPT-4和Llama 2驅動，可以實現自然語言查詢。支持ChromaDB和Faiss。"
+                }
             }
         },
         "Browser-extensions": {
@@ -14885,6 +14952,41 @@
                     "zh-hans": "Open Assistant API是一个即插即用的开源自托管代理/ GPTS编排创建框架，支持LLM、RAG、函数调用和工具功能的定制扩展。它还支持与openai/lang的无缝集成。",
                     "zh-hant": "Open Assistant API 是一個即用即棄、開源、自主託管的代理/ gpts 編排創建框架，支持 LLM、RAG、函數調用和工具功能的定制擴展。它還支持與 openai/lang 的無縫集成。"
                 }
+            },
+            "https://github.com/frankroeder/parrot.nvim": {
+                "repository_name": "parrot.nvim",
+                "user_name": "frankroeder",
+                "language": "Lua",
+                "license": "Other",
+                "description": "parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.",
+                "topics": [
+                    "anthropic",
+                    "chatgpt",
+                    "claude-3-5-sonnet",
+                    "gemini",
+                    "gpt",
+                    "gpt-4o",
+                    "gpts",
+                    "groq-api",
+                    "large-language-models",
+                    "llm",
+                    "mistral",
+                    "neovim",
+                    "nvim",
+                    "ollama",
+                    "openai",
+                    "openai-api",
+                    "perplexity",
+                    "plugin",
+                    "prompting",
+                    "stochastic-parrot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.",
+                    "ja": "Input: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.Output: parrot.nvim 🦜 - ネオビムに確率的なオウムをもたらすプラグイン。これはシンプリシティに焦点を当てたgp.nvimのフォークです。",
+                    "zh-hans": "鹦鹉.nvim 🦜 - 将随机鹦鹉带入Neovim的插件。这是一个专注于简单性的gp.nvim分支。",
+                    "zh-hant": "鸚鵡.nvim 🦜 - 將隨機鸚鵡帶入 Neovim 的插件。這是一個專注於簡潔的 gp.nvim 分支。"
+                }
             }
         },
         "CLIs": {
@@ -17595,6 +17697,31 @@
                     "ja": "AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。",
                     "zh-hans": "AI生产力工具-免费开源，提高用户生产力同时确保隐私和数据安全。它提供高效便捷的AI解决方案，包括但不限于：内置独家ChatGPT，一键批量智能处理。",
                     "zh-hant": "AI 生產力工具-免費且開源，提高用戶生產力同時確保隱私和數據安全。它提供高效便捷的人工智能解決方案，包括但不限於：內置獨家 ChatGPT、一鍵批量智能處理。"
+                }
+            },
+            "https://github.com/cerlancism/chatgpt-subtitle-translator": {
+                "repository_name": "chatgpt-subtitle-translator",
+                "user_name": "Cerlancism",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Efficient translation tool based on ChatGPT API",
+                "topics": [
+                    "chatgpt",
+                    "cli",
+                    "gui",
+                    "llm",
+                    "openai",
+                    "srt",
+                    "srt-subtitles",
+                    "subtitle",
+                    "translator",
+                    "web"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Efficient translation tool based on ChatGPT API",
+                    "ja": "ChatGPT APIをベースにした効率的な翻訳ツール",
+                    "zh-hans": "基于ChatGPT API的高效翻译工具",
+                    "zh-hant": "基於ChatGPT API的高效翻譯工具"
                 }
             }
         },
@@ -26747,6 +26874,27 @@
                     "ja": "多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）",
                     "zh-hans": "使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan社区版（CE）输出：使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan社区版（CE）",
                     "zh-hant": "使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）"
+                }
+            },
+            "https://github.com/dylanshine/openai-kit": {
+                "repository_name": "openai-kit",
+                "user_name": "dylanshine",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "A community Swift package used to interact with the OpenAI API",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "dall-e",
+                    "gpt-3",
+                    "openai",
+                    "swift"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A community Swift package used to interact with the OpenAI API",
+                    "ja": "OpenAI APIとやり取りするために使用されるコミュニティSwiftパッケージ",
+                    "zh-hans": "一个用于与OpenAI API交互的社区Swift软件包",
+                    "zh-hant": "一個用於與OpenAI API 互動的社區Swift套件"
                 }
             }
         },

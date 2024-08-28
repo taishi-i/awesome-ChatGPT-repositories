@@ -15,24 +15,28 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪 プラグインインデックス - これはLobeChatのプラグインインデックスです。 これは、このリポジトリからindex.jsonにアクセスして、LobeChatの利用可能なプラグインのリストをユーザーに表示します。
+
+
 **Chatbots**
- * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - OpenAI互換API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット
+ * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - DjangoとAIアシスタントを統合して、知的なアプリケーションを構築します。
+ * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：データベースの相互作用を簡素化するPython Text-to-SQL RAGライブラリ。PostgreSQL、MySQL、SQLite、Snowflake、およびBigQueryとシームレスに統合されています。GPT-4とLlama 2によって動作し、自然言語クエリを可能にします。ChromaDBとFaissをサポートしています。
 
 
 **Browser-extensions**
- * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ NeovimでのCopilot Chat体験、インラインアシスタント付き。Anthropic、Gemini、Ollama、OpenAI LLMsをサポートします。
- * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant APIは、使用準備が整っており、オープンソースで自己ホスト型のエージェント/gptsオーケストレーション作成フレームワークであり、LLM、RAG、関数呼び出し、およびツールの機能にカスタマイズされた拡張をサポートしています。また、openai/langとのシームレスな統合もサポートしています。
+ * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - Input: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.Output: parrot.nvim 🦜 - ネオビムに確率的なオウムをもたらすプラグイン。これはシンプリシティに焦点を当てたgp.nvimのフォークです。
 
 
-**NLP**
- * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 複雑な推論タスクを解決するための「思考の木（ToT）」フレームワークを使用したLLMs
+**CLIs**
+ * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ChatGPT APIをベースにした効率的な翻訳ツール
 
 
-**Langchain**
- * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。
+**Unity**
+ * [openai-kit](https://github.com/dylanshine/openai-kit) - OpenAI APIとやり取りするために使用されるコミュニティSwiftパッケージ
 
 
-_Updated on August 25, 2024_ (A total of 1727 repositories listed.)
+_Updated on August 29, 2024_ (A total of 1733 repositories listed.)
 
 ## Table of contents
 
@@ -122,6 +126,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPTの中国語ガイド🔥、ChatGPTの中国語調教ガイド、指示ガイド、アプリ開発ガイド、厳選されたリソースリスト、ChatGPTをより効果的に活用して生産性を向上させましょう！🚀
  * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。
  * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPTジェイルブレイク、GPTアシスタントプロンプトリーク、GPTプロンプトインジェクション、LLMプロンプトセキュリティ、スーパープロンプト、プロンプトハック、プロンプトセキュリティ、AIプロンプトエンジニアリング、敵対的機械学習。
+ * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪 プラグインインデックス - これはLobeChatのプラグインインデックスです。 これは、このリポジトリからindex.jsonにアクセスして、LobeChatの利用可能なプラグインのリストをユーザーに表示します。
 
 
 ## Prompts
@@ -509,6 +514,8 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopackは、あなたのリポジトリ全体を1つの、AIにとっても使いやすいファイルにパックする強力なツールです。大規模言語モデル（LLM）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを提供する必要があるときに最適です。
  * [finic](https://github.com/finic-ai/finic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
  * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - OpenAI互換API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット
+ * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - DjangoとAIアシスタントを統合して、知的なアプリケーションを構築します。
+ * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：データベースの相互作用を簡素化するPython Text-to-SQL RAGライブラリ。PostgreSQL、MySQL、SQLite、Snowflake、およびBigQueryとシームレスに統合されています。GPT-4とLlama 2によって動作し、自然言語クエリを可能にします。ChromaDBとFaissをサポートしています。
 
 
 ## Browser-extensions
@@ -698,6 +705,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - Googleアシスタントの代わりにChatGPTを使用してください。
  * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ NeovimでのCopilot Chat体験、インラインアシスタント付き。Anthropic、Gemini、Ollama、OpenAI LLMsをサポートします。
  * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant APIは、使用準備が整っており、オープンソースで自己ホスト型のエージェント/gptsオーケストレーション作成フレームワークであり、LLM、RAG、関数呼び出し、およびツールの機能にカスタマイズされた拡張をサポートしています。また、openai/langとのシームレスな統合もサポートしています。
+ * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - Input: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.Output: parrot.nvim 🦜 - ネオビムに確率的なオウムをもたらすプラグイン。これはシンプリシティに焦点を当てたgp.nvimのフォークです。
 
 
 ## CLIs
@@ -821,6 +829,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - GPT + その他の無料翻訳モジュールを使用したAI JSON翻訳者、json/yamlファイルを他の言語に翻訳します ✅ Readmeをチェックしてください ✌ GPT / DeepL / Google / Bing / Libre / Argosに対応
  * [gptme](https://github.com/erikbjare/gptme) - ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
  * [Apt](https://github.com/rnchg/apt) - AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。
+ * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ChatGPT APIをベースにした効率的な翻訳ツール
 
 
 ## Reimplementations
@@ -1258,6 +1267,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [open-saas](https://github.com/wasp-lang/open-saas) - スーパーパワーを持つReact＆Node.js用の無料のオープンソースSaaSアプリのスターター。本番環境に対応。コミュニティ主導。
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
  * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
+ * [openai-kit](https://github.com/dylanshine/openai-kit) - OpenAI APIとやり取りするために使用されるコミュニティSwiftパッケージ
 
 
 ## Openai
