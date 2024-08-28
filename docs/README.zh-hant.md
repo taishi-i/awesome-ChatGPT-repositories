@@ -15,24 +15,28 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  插件索引 - 這是 LobeChat 的插件索引。它從這個存儲庫中訪問 index.json，向用戶顯示 LobeChat 可用插件的列表。
+
+
 **Chatbots**
- * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - 一個支持任何OpenAI兼容API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）的Discord LLM聊天機器人。
+ * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - 將AI助手與Django整合，打造智能應用程式。
+ * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：一個簡化數據庫交互的Python文本到SQL RAG庫。與PostgreSQL、MySQL、SQLite、Snowflake和BigQuery無縫集成。由GPT-4和Llama 2驅動，可以實現自然語言查詢。支持ChromaDB和Faiss。
 
 
 **Browser-extensions**
- * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ 在Neovim中的Copilot Chat體驗，配有內置助手。支持Anthropic、Gemini、Ollama和OpenAI LLMs。
- * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant API 是一個即用即棄、開源、自主託管的代理/ gpts 編排創建框架，支持 LLM、RAG、函數調用和工具功能的定制擴展。它還支持與 openai/lang 的無縫集成。
+ * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - 鸚鵡.nvim 🦜 - 將隨機鸚鵡帶入 Neovim 的插件。這是一個專注於簡潔的 gp.nvim 分支。
 
 
-**NLP**
- * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 思維樹（ToT）框架用於使用LLMs解決複雜推理任務
+**CLIs**
+ * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - 基於ChatGPT API的高效翻譯工具
 
 
-**Langchain**
- * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - 一個在Azure上運行的檢索增強生成模式的TypeScript示例應用程序，使用Azure AI Search進行檢索，並使用Azure OpenAI和LangChain大型語言模型（LLMs）來支持ChatGPT風格和問答體驗。
+**Unity**
+ * [openai-kit](https://github.com/dylanshine/openai-kit) - 一個用於與OpenAI API 互動的社區Swift套件
 
 
-_Updated on August 25, 2024_ (A total of 1727 repositories listed.)
+_Updated on August 29, 2024_ (A total of 1733 repositories listed.)
 
 ## Table of contents
 
@@ -122,6 +126,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ChatGPT 中文指南🔥，ChatGPT 中文調教指南，指令指南，應用開發指南，精選資源清單，更好的使用 chatGPT 讓你的生產力 up up up! 🚀
  * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - 持續更新的相關資源列表，用於生成式LLM（如GPT）及其分析和檢測。
  * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT越獄，GPT助手提示洩漏，GPT提示注入，LLM提示安全，超級提示，提示黑客，提示安全，Ai提示工程，對抗機器學習。
+ * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  插件索引 - 這是 LobeChat 的插件索引。它從這個存儲庫中訪問 index.json，向用戶顯示 LobeChat 可用插件的列表。
 
 
 ## Prompts
@@ -509,6 +514,8 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack 是一個強大的工具，可以將您的整個存儲庫打包成一個單一的、適合人工智能的文件。當您需要將代碼庫提供給大型語言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini時，這是完美的選擇。
  * [finic](https://github.com/finic-ai/finic) - 為LLMs設計的數據集成平台。通過即插即用的身份驗證連接到SaaS工具，並從N個數據源同步文檔，只需一次集成。
  * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - 一個支持任何OpenAI兼容API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）的Discord LLM聊天機器人。
+ * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - 將AI助手與Django整合，打造智能應用程式。
+ * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：一個簡化數據庫交互的Python文本到SQL RAG庫。與PostgreSQL、MySQL、SQLite、Snowflake和BigQuery無縫集成。由GPT-4和Llama 2驅動，可以實現自然語言查詢。支持ChromaDB和Faiss。
 
 
 ## Browser-extensions
@@ -698,6 +705,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - 使用ChatGPT代替Google助手
  * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ 在Neovim中的Copilot Chat體驗，配有內置助手。支持Anthropic、Gemini、Ollama和OpenAI LLMs。
  * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant API 是一個即用即棄、開源、自主託管的代理/ gpts 編排創建框架，支持 LLM、RAG、函數調用和工具功能的定制擴展。它還支持與 openai/lang 的無縫集成。
+ * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - 鸚鵡.nvim 🦜 - 將隨機鸚鵡帶入 Neovim 的插件。這是一個專注於簡潔的 gp.nvim 分支。
 
 
 ## CLIs
@@ -821,6 +829,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [json-translator](https://github.com/mololab/json-translator) - jsontt 💡 - AI JSON翻譯器，搭載GPT和其他免費翻譯模組，可將您的json/yaml文件翻譯成其他語言 ✅ 查看Readme ✌ 支援GPT / DeepL / Google / Bing / Libre / Argos
  * [gptme](https://github.com/erikbjare/gptme) - 與配備本地工具的LLMs聊天：執行Python和Bash，編輯本地文件，瀏覽網頁。
  * [Apt](https://github.com/rnchg/apt) - AI 生產力工具-免費且開源，提高用戶生產力同時確保隱私和數據安全。它提供高效便捷的人工智能解決方案，包括但不限於：內置獨家 ChatGPT、一鍵批量智能處理。
+ * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - 基於ChatGPT API的高效翻譯工具
 
 
 ## Reimplementations
@@ -1258,6 +1267,7 @@ _Updated on August 25, 2024_ (A total of 1727 repositories listed.)
  * [open-saas](https://github.com/wasp-lang/open-saas) - 一個免費、開源的React和Node.js SaaS應用程式起始器，具有超強功能。適用於生產環境，由社群驅動。
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
  * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
+ * [openai-kit](https://github.com/dylanshine/openai-kit) - 一個用於與OpenAI API 互動的社區Swift套件
 
 
 ## Openai
