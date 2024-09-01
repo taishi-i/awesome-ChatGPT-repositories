@@ -15,28 +15,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪 插件索引 - 这是LobeChat的插件索引。它从这个存储库访问index.json，向用户显示可用插件的列表。
-
-
 **Chatbots**
- * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - 将AI助手与Django集成，构建智能应用程序
- * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：一个简化数据库交互的Python文本到SQL RAG库。与PostgreSQL、MySQL、SQLite、Snowflake和BigQuery无缝集成。由GPT-4和Llama 2驱动，支持自然语言查询。支持ChromaDB和Faiss。
-
-
-**Browser-extensions**
- * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - 鹦鹉.nvim 🦜 - 将随机鹦鹉带入Neovim的插件。这是一个专注于简单性的gp.nvim分支。
+ * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一个机器人与OpenAI GPT模型合作，为您的信息流提供见解。
 
 
 **CLIs**
- * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - 基于ChatGPT API的高效翻译工具
+ * [tenere](https://github.com/pythops/tenere) - 🔥 用Rust编写的LLMs的TUI界面
+ * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥基于人工智能的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
 
 
-**Unity**
- * [openai-kit](https://github.com/dylanshine/openai-kit) - 一个用于与OpenAI API交互的社区Swift软件包
+**NLP**
+ * [llmgraph](https://github.com/dylanhogg/llmgraph) - 使用LLMs创建知识图谱
 
 
-_Updated on August 29, 2024_ (A total of 1733 repositories listed.)
+**Openai**
+ * [whodb](https://github.com/clidey/whodb) - 一个轻量级的下一代数据浏览器 - Postgres，MySQL，SQLite，MongoDB，Redis，MariaDB和Elastic Search，带有聊天界面
+ * [sum4all](https://github.com/fatwang2/sum4all) - 网页、视频、图片大模型总结
+
+
+_Updated on September 02, 2024_ (A total of 1739 repositories listed.)
 
 ## Table of contents
 
@@ -516,6 +513,7 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - 一个支持任何OpenAI兼容API的Discord LLM聊天机器人（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）。
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - 将AI助手与Django集成，构建智能应用程序
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：一个简化数据库交互的Python文本到SQL RAG库。与PostgreSQL、MySQL、SQLite、Snowflake和BigQuery无缝集成。由GPT-4和Llama 2驱动，支持自然语言查询。支持ChromaDB和Faiss。
+ * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一个机器人与OpenAI GPT模型合作，为您的信息流提供见解。
 
 
 ## Browser-extensions
@@ -830,6 +828,8 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [gptme](https://github.com/erikbjare/gptme) - 与配备本地工具的LLMs聊天：执行Python和Bash，编辑本地文件，浏览网页。
  * [Apt](https://github.com/rnchg/apt) - AI生产力工具-免费开源，提高用户生产力同时确保隐私和数据安全。它提供高效便捷的AI解决方案，包括但不限于：内置独家ChatGPT，一键批量智能处理。
  * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - 基于ChatGPT API的高效翻译工具
+ * [tenere](https://github.com/pythops/tenere) - 🔥 用Rust编写的LLMs的TUI界面
+ * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥基于人工智能的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
 
 
 ## Reimplementations
@@ -1144,6 +1144,7 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [AlignBench](https://github.com/thudm/alignbench) - 大型多维度中文对齐评测基准 (ACL 2024)
  * [factool](https://github.com/gair-nlp/factool) - FacTool：生成式AI中的事实性检测
  * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 思维树（ToT）框架用于使用LLMs解决复杂推理任务
+ * [llmgraph](https://github.com/dylanhogg/llmgraph) - 使用LLMs创建知识图谱
 
 
 ## Langchain
@@ -1441,6 +1442,8 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [ai-commit](https://github.com/guanguans/ai-commit) - 使用 AI 自动化生成传统的 git 提 commit 信息。
  * [MatGPT](https://github.com/toshiakit/matgpt) - MATLAB 应用程序可访问 OpenAI 的 ChatGPT API
  * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
+ * [whodb](https://github.com/clidey/whodb) - 一个轻量级的下一代数据浏览器 - Postgres，MySQL，SQLite，MongoDB，Redis，MariaDB和Elastic Search，带有聊天界面
+ * [sum4all](https://github.com/fatwang2/sum4all) - 网页、视频、图片大模型总结
 
 
 ## Others

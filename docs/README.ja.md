@@ -15,28 +15,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪 プラグインインデックス - これはLobeChatのプラグインインデックスです。 これは、このリポジトリからindex.jsonにアクセスして、LobeChatの利用可能なプラグインのリストをユーザーに表示します。
-
-
 **Chatbots**
- * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - DjangoとAIアシスタントを統合して、知的なアプリケーションを構築します。
- * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：データベースの相互作用を簡素化するPython Text-to-SQL RAGライブラリ。PostgreSQL、MySQL、SQLite、Snowflake、およびBigQueryとシームレスに統合されています。GPT-4とLlama 2によって動作し、自然言語クエリを可能にします。ChromaDBとFaissをサポートしています。
-
-
-**Browser-extensions**
- * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - Input: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.Output: parrot.nvim 🦜 - ネオビムに確率的なオウムをもたらすプラグイン。これはシンプリシティに焦点を当てたgp.nvimのフォークです。
+ * [insights-bot](https://github.com/nekomeowww/insights-bot) - ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。
 
 
 **CLIs**
- * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ChatGPT APIをベースにした効率的な翻訳ツール
+ * [tenere](https://github.com/pythops/tenere) - Rustで書かれたLLMsのためのTUIインターフェースRustで書かれたLLMsのためのTUIインターフェース
+ * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI駆動型データベースツールおよびSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポート。
 
 
-**Unity**
- * [openai-kit](https://github.com/dylanshine/openai-kit) - OpenAI APIとやり取りするために使用されるコミュニティSwiftパッケージ
+**NLP**
+ * [llmgraph](https://github.com/dylanhogg/llmgraph) - LLMを使用して知識グラフを作成します。
 
 
-_Updated on August 29, 2024_ (A total of 1733 repositories listed.)
+**Openai**
+ * [whodb](https://github.com/clidey/whodb) - 軽量な次世代データエクスプローラー - Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB＆Elastic Searchとチャットインターフェース
+ * [sum4all](https://github.com/fatwang2/sum4all) - ウェブページ、ビデオ、画像の大規模モデルの要約
+
+
+_Updated on September 02, 2024_ (A total of 1739 repositories listed.)
 
 ## Table of contents
 
@@ -516,6 +513,7 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - OpenAI互換API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - DjangoとAIアシスタントを統合して、知的なアプリケーションを構築します。
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：データベースの相互作用を簡素化するPython Text-to-SQL RAGライブラリ。PostgreSQL、MySQL、SQLite、Snowflake、およびBigQueryとシームレスに統合されています。GPT-4とLlama 2によって動作し、自然言語クエリを可能にします。ChromaDBとFaissをサポートしています。
+ * [insights-bot](https://github.com/nekomeowww/insights-bot) - ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。
 
 
 ## Browser-extensions
@@ -830,6 +828,8 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [gptme](https://github.com/erikbjare/gptme) - ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
  * [Apt](https://github.com/rnchg/apt) - AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。
  * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ChatGPT APIをベースにした効率的な翻訳ツール
+ * [tenere](https://github.com/pythops/tenere) - Rustで書かれたLLMsのためのTUIインターフェースRustで書かれたLLMsのためのTUIインターフェース
+ * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI駆動型データベースツールおよびSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポート。
 
 
 ## Reimplementations
@@ -1144,6 +1144,7 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [AlignBench](https://github.com/thudm/alignbench) - 大規模な多次元の中国語アライメント評価基準（ACL 2024）
  * [factool](https://github.com/gair-nlp/factool) - FacTool: 生成AIにおける事実性検出
  * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 複雑な推論タスクを解決するための「思考の木（ToT）」フレームワークを使用したLLMs
+ * [llmgraph](https://github.com/dylanhogg/llmgraph) - LLMを使用して知識グラフを作成します。
 
 
 ## Langchain
@@ -1441,6 +1442,8 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [ai-commit](https://github.com/guanguans/ai-commit) - AIを使用して、従来のgitコミットメッセージを自動生成します。 - 使用 AI 自动生成约定式 git 提交信息。
  * [MatGPT](https://github.com/toshiakit/matgpt) - OpenAIのChatGPT APIにアクセスするためのMATLABアプリ
  * [one-hub](https://github.com/martialbe/one-hub) - OpenAI インターフェース管理＆配布システム、songquanpeng/one-api を改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善しました。
+ * [whodb](https://github.com/clidey/whodb) - 軽量な次世代データエクスプローラー - Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB＆Elastic Searchとチャットインターフェース
+ * [sum4all](https://github.com/fatwang2/sum4all) - ウェブページ、ビデオ、画像の大規模モデルの要約
 
 
 ## Others

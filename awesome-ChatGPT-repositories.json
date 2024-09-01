@@ -10804,6 +10804,28 @@
                     "zh-hans": "MindSQL：一个简化数据库交互的Python文本到SQL RAG库。与PostgreSQL、MySQL、SQLite、Snowflake和BigQuery无缝集成。由GPT-4和Llama 2驱动，支持自然语言查询。支持ChromaDB和Faiss。",
                     "zh-hant": "MindSQL：一個簡化數據庫交互的Python文本到SQL RAG庫。與PostgreSQL、MySQL、SQLite、Snowflake和BigQuery無縫集成。由GPT-4和Llama 2驅動，可以實現自然語言查詢。支持ChromaDB和Faiss。"
                 }
+            },
+            "https://github.com/nekomeowww/insights-bot": {
+                "repository_name": "insights-bot",
+                "user_name": "nekomeowww",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "A bot works with OpenAI GPT models to provide insights for your info flows.",
+                "topics": [
+                    "bot",
+                    "discord-bot",
+                    "golang",
+                    "gpt-bot",
+                    "llm-agent",
+                    "slack-bot",
+                    "telegram-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A bot works with OpenAI GPT models to provide insights for your info flows.",
+                    "ja": "ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。",
+                    "zh-hans": "一个机器人与OpenAI GPT模型合作，为您的信息流提供见解。",
+                    "zh-hant": "一個機器人與OpenAI GPT模型合作，為您的信息流提供洞察。"
+                }
             }
         },
         "Browser-extensions": {
@@ -17723,6 +17745,63 @@
                     "zh-hans": "基于ChatGPT API的高效翻译工具",
                     "zh-hant": "基於ChatGPT API的高效翻譯工具"
                 }
+            },
+            "https://github.com/pythops/tenere": {
+                "repository_name": "tenere",
+                "user_name": "pythops",
+                "language": "Rust",
+                "license": "GNU General Public License v3.0",
+                "description": "🔥 TUI interface for LLMs written in Rust",
+                "topics": [
+                    "chatgpt",
+                    "cli",
+                    "llamacpp",
+                    "llm",
+                    "ollama",
+                    "ratatui",
+                    "rust",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥 TUI interface for LLMs written in Rust",
+                    "ja": "Rustで書かれたLLMsのためのTUIインターフェースRustで書かれたLLMsのためのTUIインターフェース",
+                    "zh-hans": "🔥 用Rust编写的LLMs的TUI界面",
+                    "zh-hant": "🔥 用Rust编写的LLMs的TUI界面"
+                }
+            },
+            "https://github.com/codephiliax/chat2db": {
+                "repository_name": "Chat2DB",
+                "user_name": "CodePhiliaX",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+                "topics": [
+                    "ai",
+                    "bi",
+                    "chatgpt",
+                    "clickhouse",
+                    "clickhouse-client",
+                    "database",
+                    "datagrip",
+                    "db2",
+                    "dbeaver",
+                    "gpt",
+                    "hive",
+                    "mysql",
+                    "navicat",
+                    "oracle",
+                    "postgresql",
+                    "redis",
+                    "redis-client",
+                    "sqlserver",
+                    "text2sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+                    "ja": "🔥🔥🔥AI駆動型データベースツールおよびSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポート。",
+                    "zh-hans": "🔥🔥🔥基于人工智能的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。",
+                    "zh-hant": "🔥🔥🔥由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。"
+                }
             }
         },
         "Reimplementations": {
@@ -24192,6 +24271,30 @@
                     "zh-hans": "思维树（ToT）框架用于使用LLMs解决复杂推理任务",
                     "zh-hant": "思維樹（ToT）框架用於使用LLMs解決複雜推理任務"
                 }
+            },
+            "https://github.com/dylanhogg/llmgraph": {
+                "repository_name": "llmgraph",
+                "user_name": "dylanhogg",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "Create knowledge graphs with LLMs",
+                "topics": [
+                    "chatgpt",
+                    "gephi",
+                    "gexf",
+                    "graph",
+                    "graphml",
+                    "knowledge-graph",
+                    "large-language-model",
+                    "llama2",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create knowledge graphs with LLMs",
+                    "ja": "LLMを使用して知識グラフを作成します。",
+                    "zh-hans": "使用LLMs创建知识图谱",
+                    "zh-hant": "使用LLMs創建知識圖譜"
+                }
             }
         },
         "Langchain": {
@@ -30624,6 +30727,55 @@
                     "ja": "OpenAI インターフェース管理＆配布システム、songquanpeng/one-api を改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善しました。",
                     "zh-hans": "OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。",
                     "zh-hant": "OpenAI 接口管理 & 分发系統，改自songquanpeng/one-api。支援更多模型，加入統計頁面，完善非openai模型的函數調用。"
+                }
+            },
+            "https://github.com/clidey/whodb": {
+                "repository_name": "whodb",
+                "user_name": "clidey",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface",
+                "topics": [
+                    "anthropic",
+                    "chatgpt",
+                    "database",
+                    "elasticsearch",
+                    "explorer",
+                    "lightweight",
+                    "mariadb",
+                    "mongodb",
+                    "mysql",
+                    "ollama",
+                    "openai",
+                    "postgresql",
+                    "redis",
+                    "sqlite3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface",
+                    "ja": "軽量な次世代データエクスプローラー - Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB＆Elastic Searchとチャットインターフェース",
+                    "zh-hans": "一个轻量级的下一代数据浏览器 - Postgres，MySQL，SQLite，MongoDB，Redis，MariaDB和Elastic Search，带有聊天界面",
+                    "zh-hant": "一款輕量級的下一代數據探索器 - 支持Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB和Elastic Search，並帶有聊天界面。"
+                }
+            },
+            "https://github.com/fatwang2/sum4all": {
+                "repository_name": "sum4all",
+                "user_name": "fatwang2",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "网页、视频、图片大模型总结",
+                "topics": [
+                    "chatgpt",
+                    "chatgptonwechat",
+                    "gemini",
+                    "openai",
+                    "shortcuts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Summary of large models for web pages, videos, and images.",
+                    "ja": "ウェブページ、ビデオ、画像の大規模モデルの要約",
+                    "zh-hans": "网页、视频、图片大模型总结",
+                    "zh-hant": "網頁、視頻、圖片大模型總結"
                 }
             }
         },
