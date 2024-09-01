@@ -15,28 +15,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
-
-
 **Chatbots**
- * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - Integrate AI Assistants with Django to build intelligent applications
- * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for context-aware responses.
-
-
-**Browser-extensions**
- * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
+ * [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
 
 
 **CLIs**
- * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
+ * [tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
+ * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
 
-**Unity**
- * [openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
+**NLP**
+ * [llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
 
 
-_Updated on August 29, 2024_ (A total of 1733 repositories listed.)
+**Openai**
+ * [whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
+ * [sum4all](https://github.com/fatwang2/sum4all) - 网页、视频、图片大模型总结
+
+
+_Updated on September 02, 2024_ (A total of 1739 repositories listed.)
 
 ## Table of contents
 
@@ -516,6 +513,7 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - Integrate AI Assistants with Django to build intelligent applications
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for context-aware responses.
+ * [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
 
 
 ## Browser-extensions
@@ -830,6 +828,8 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [gptme](https://github.com/erikbjare/gptme) - Chat with LLMs equipped with local tools: executes python and bash, edits local files, browses the web.
  * [Apt](https://github.com/rnchg/apt) - AI Productivity Tool - Free and open-source, enhancing user productivity while ensuring privacy and data security. It provides efficient and convenient AI solutions, including but not limited to: built-in exclusive ChatGPT, one-click batch intelligent processing of images and videos, and more.
  * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
+ * [tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
+ * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 
 
 ## Reimplementations
@@ -1144,6 +1144,7 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [AlignBench](https://github.com/thudm/alignbench) - 大模型多维度中文对齐评测基准 (ACL 2024)
  * [factool](https://github.com/gair-nlp/factool) - FacTool: Factuality Detection in Generative AI
  * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs
+ * [llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
 
 
 ## Langchain
@@ -1441,6 +1442,8 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [ai-commit](https://github.com/guanguans/ai-commit) - Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。
  * [MatGPT](https://github.com/toshiakit/matgpt) - MATLAB app to access ChatGPT API from OpenAI
  * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+ * [whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
+ * [sum4all](https://github.com/fatwang2/sum4all) - 网页、视频、图片大模型总结
 
 
 ## Others

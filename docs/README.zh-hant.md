@@ -15,28 +15,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  插件索引 - 這是 LobeChat 的插件索引。它從這個存儲庫中訪問 index.json，向用戶顯示 LobeChat 可用插件的列表。
-
-
 **Chatbots**
- * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - 將AI助手與Django整合，打造智能應用程式。
- * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：一個簡化數據庫交互的Python文本到SQL RAG庫。與PostgreSQL、MySQL、SQLite、Snowflake和BigQuery無縫集成。由GPT-4和Llama 2驅動，可以實現自然語言查詢。支持ChromaDB和Faiss。
-
-
-**Browser-extensions**
- * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - 鸚鵡.nvim 🦜 - 將隨機鸚鵡帶入 Neovim 的插件。這是一個專注於簡潔的 gp.nvim 分支。
+ * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一個機器人與OpenAI GPT模型合作，為您的信息流提供洞察。
 
 
 **CLIs**
- * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - 基於ChatGPT API的高效翻譯工具
+ * [tenere](https://github.com/pythops/tenere) - 🔥 用Rust编写的LLMs的TUI界面
+ * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
 
 
-**Unity**
- * [openai-kit](https://github.com/dylanshine/openai-kit) - 一個用於與OpenAI API 互動的社區Swift套件
+**NLP**
+ * [llmgraph](https://github.com/dylanhogg/llmgraph) - 使用LLMs創建知識圖譜
 
 
-_Updated on August 29, 2024_ (A total of 1733 repositories listed.)
+**Openai**
+ * [whodb](https://github.com/clidey/whodb) - 一款輕量級的下一代數據探索器 - 支持Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB和Elastic Search，並帶有聊天界面。
+ * [sum4all](https://github.com/fatwang2/sum4all) - 網頁、視頻、圖片大模型總結
+
+
+_Updated on September 02, 2024_ (A total of 1739 repositories listed.)
 
 ## Table of contents
 
@@ -516,6 +513,7 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - 一個支持任何OpenAI兼容API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）的Discord LLM聊天機器人。
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - 將AI助手與Django整合，打造智能應用程式。
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：一個簡化數據庫交互的Python文本到SQL RAG庫。與PostgreSQL、MySQL、SQLite、Snowflake和BigQuery無縫集成。由GPT-4和Llama 2驅動，可以實現自然語言查詢。支持ChromaDB和Faiss。
+ * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一個機器人與OpenAI GPT模型合作，為您的信息流提供洞察。
 
 
 ## Browser-extensions
@@ -830,6 +828,8 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [gptme](https://github.com/erikbjare/gptme) - 與配備本地工具的LLMs聊天：執行Python和Bash，編輯本地文件，瀏覽網頁。
  * [Apt](https://github.com/rnchg/apt) - AI 生產力工具-免費且開源，提高用戶生產力同時確保隱私和數據安全。它提供高效便捷的人工智能解決方案，包括但不限於：內置獨家 ChatGPT、一鍵批量智能處理。
  * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - 基於ChatGPT API的高效翻譯工具
+ * [tenere](https://github.com/pythops/tenere) - 🔥 用Rust编写的LLMs的TUI界面
+ * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
 
 
 ## Reimplementations
@@ -1144,6 +1144,7 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [AlignBench](https://github.com/thudm/alignbench) - 大型多維度中文對齊評測基準（ACL 2024）
  * [factool](https://github.com/gair-nlp/factool) - FacTool：生成式AI中的事實性檢測
  * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 思維樹（ToT）框架用於使用LLMs解決複雜推理任務
+ * [llmgraph](https://github.com/dylanhogg/llmgraph) - 使用LLMs創建知識圖譜
 
 
 ## Langchain
@@ -1441,6 +1442,8 @@ _Updated on August 29, 2024_ (A total of 1733 repositories listed.)
  * [ai-commit](https://github.com/guanguans/ai-commit) - 使用 AI 自動生成傳統的 git 提交訊息。
  * [MatGPT](https://github.com/toshiakit/matgpt) - MATLAB應用程式，可從OpenAI訪問ChatGPT API
  * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系統，改自songquanpeng/one-api。支援更多模型，加入統計頁面，完善非openai模型的函數調用。
+ * [whodb](https://github.com/clidey/whodb) - 一款輕量級的下一代數據探索器 - 支持Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB和Elastic Search，並帶有聊天界面。
+ * [sum4all](https://github.com/fatwang2/sum4all) - 網頁、視頻、圖片大模型總結
 
 
 ## Others
