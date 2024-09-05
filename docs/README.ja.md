@@ -16,24 +16,20 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [insights-bot](https://github.com/nekomeowww/insights-bot) - ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。
+ * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - OpenAiのGPT 4との口頭会話ができるアプリ
 
 
 **CLIs**
- * [tenere](https://github.com/pythops/tenere) - Rustで書かれたLLMsのためのTUIインターフェースRustで書かれたLLMsのためのTUIインターフェース
- * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI駆動型データベースツールおよびSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポート。
+ * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: コードを少なくして、もっと多くを作成します
 
 
 **NLP**
- * [llmgraph](https://github.com/dylanhogg/llmgraph) - LLMを使用して知識グラフを作成します。
+ * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孫思邈中文医療大模型(Sunsimiao)：安全で信頼性があり、誰もが利用できる中文医療大模型を提供します。
+ * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：GPT-3.5-Turboを凌駕するエッジサイドのLLM。
+ * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Cloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリCloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリ
 
 
-**Openai**
- * [whodb](https://github.com/clidey/whodb) - 軽量な次世代データエクスプローラー - Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB＆Elastic Searchとチャットインターフェース
- * [sum4all](https://github.com/fatwang2/sum4all) - ウェブページ、ビデオ、画像の大規模モデルの要約
-
-
-_Updated on September 02, 2024_ (A total of 1739 repositories listed.)
+_Updated on September 06, 2024_ (A total of 1744 repositories listed.)
 
 ## Table of contents
 
@@ -514,6 +510,7 @@ _Updated on September 02, 2024_ (A total of 1739 repositories listed.)
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - DjangoとAIアシスタントを統合して、知的なアプリケーションを構築します。
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：データベースの相互作用を簡素化するPython Text-to-SQL RAGライブラリ。PostgreSQL、MySQL、SQLite、Snowflake、およびBigQueryとシームレスに統合されています。GPT-4とLlama 2によって動作し、自然言語クエリを可能にします。ChromaDBとFaissをサポートしています。
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。
+ * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - OpenAiのGPT 4との口頭会話ができるアプリ
 
 
 ## Browser-extensions
@@ -830,6 +827,7 @@ _Updated on September 02, 2024_ (A total of 1739 repositories listed.)
  * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ChatGPT APIをベースにした効率的な翻訳ツール
  * [tenere](https://github.com/pythops/tenere) - Rustで書かれたLLMsのためのTUIインターフェースRustで書かれたLLMsのためのTUIインターフェース
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI駆動型データベースツールおよびSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポート。
+ * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: コードを少なくして、もっと多くを作成します
 
 
 ## Reimplementations
@@ -1145,6 +1143,9 @@ _Updated on September 02, 2024_ (A total of 1739 repositories listed.)
  * [factool](https://github.com/gair-nlp/factool) - FacTool: 生成AIにおける事実性検出
  * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 複雑な推論タスクを解決するための「思考の木（ToT）」フレームワークを使用したLLMs
  * [llmgraph](https://github.com/dylanhogg/llmgraph) - LLMを使用して知識グラフを作成します。
+ * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孫思邈中文医療大模型(Sunsimiao)：安全で信頼性があり、誰もが利用できる中文医療大模型を提供します。
+ * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：GPT-3.5-Turboを凌駕するエッジサイドのLLM。
+ * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Cloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリCloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリ
 
 
 ## Langchain
