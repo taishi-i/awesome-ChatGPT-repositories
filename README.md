@@ -16,24 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
+ * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
 
 
 **CLIs**
- * [tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
- * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+ * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: Code Less, Make More
 
 
 **NLP**
- * [llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
+ * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型
+ * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
+ * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Fullstack "Chat with your PDFs" RAG (Retrieval Augmented Generation) app built fully on Cloudflare
 
 
-**Openai**
- * [whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
- * [sum4all](https://github.com/fatwang2/sum4all) - 网页、视频、图片大模型总结
-
-
-_Updated on September 02, 2024_ (A total of 1739 repositories listed.)
+_Updated on September 06, 2024_ (A total of 1744 repositories listed.)
 
 ## Table of contents
 
@@ -514,6 +510,7 @@ _Updated on September 02, 2024_ (A total of 1739 repositories listed.)
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - Integrate AI Assistants with Django to build intelligent applications
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for context-aware responses.
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
+ * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
 
 
 ## Browser-extensions
@@ -830,6 +827,7 @@ _Updated on September 02, 2024_ (A total of 1739 repositories listed.)
  * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - Efficient translation tool based on ChatGPT API
  * [tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+ * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: Code Less, Make More
 
 
 ## Reimplementations
@@ -1145,6 +1143,9 @@ _Updated on September 02, 2024_ (A total of 1739 repositories listed.)
  * [factool](https://github.com/gair-nlp/factool) - FacTool: Factuality Detection in Generative AI
  * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs
  * [llmgraph](https://github.com/dylanhogg/llmgraph) - Create knowledge graphs with LLMs
+ * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型
+ * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
+ * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Fullstack "Chat with your PDFs" RAG (Retrieval Augmented Generation) app built fully on Cloudflare
 
 
 ## Langchain

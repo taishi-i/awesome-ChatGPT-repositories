@@ -10826,6 +10826,20 @@
                     "zh-hans": "一个机器人与OpenAI GPT模型合作，为您的信息流提供见解。",
                     "zh-hant": "一個機器人與OpenAI GPT模型合作，為您的信息流提供洞察。"
                 }
+            },
+            "https://github.com/dougdouggithub/babagaboosh": {
+                "repository_name": "Babagaboosh",
+                "user_name": "DougDougGithub",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "App that lets you have a verbal conversation with OpenAi's GPT 4",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "App that lets you have a verbal conversation with OpenAi's GPT 4",
+                    "ja": "OpenAiのGPT 4との口頭会話ができるアプリ",
+                    "zh-hans": "与OpenAi的GPT 4进行口头对话的应用程序",
+                    "zh-hant": "與OpenAi的GPT 4進行口語對話的應用程式"
+                }
             }
         },
         "Browser-extensions": {
@@ -17802,6 +17816,30 @@
                     "zh-hans": "🔥🔥🔥基于人工智能的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。",
                     "zh-hant": "🔥🔥🔥由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。"
                 }
+            },
+            "https://github.com/all-hands-ai/openhands": {
+                "repository_name": "OpenHands",
+                "user_name": "All-Hands-AI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🙌 OpenHands: Code Less, Make More",
+                "topics": [
+                    "agent",
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "claude-ai",
+                    "cli",
+                    "developer-tools",
+                    "gpt",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🙌 OpenHands: Code Less, Make More",
+                    "ja": "🙌 OpenHands: コードを少なくして、もっと多くを作成します",
+                    "zh-hans": "🙌 OpenHands: 编码更少，创造更多",
+                    "zh-hant": "🙌 開放雙手：少寫代碼，多創造"
+                }
             }
         },
         "Reimplementations": {
@@ -24294,6 +24332,63 @@
                     "ja": "LLMを使用して知識グラフを作成します。",
                     "zh-hans": "使用LLMs创建知识图谱",
                     "zh-hant": "使用LLMs創建知識圖譜"
+                }
+            },
+            "https://github.com/x-d-lab/sunsimiao": {
+                "repository_name": "Sunsimiao",
+                "user_name": "X-D-Lab",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型",
+                "topics": [
+                    "baichuan",
+                    "baichuan-7b",
+                    "chatgpt",
+                    "huggingface",
+                    "large-language-models",
+                    "llm",
+                    "medical",
+                    "modelscope",
+                    "qlora"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🌿Sunsimiao Chinese Medical Large Model: Providing safe, reliable, and inclusive Chinese medical large model.",
+                    "ja": "🌿孫思邈中文医療大模型(Sunsimiao)：安全で信頼性があり、誰もが利用できる中文医療大模型を提供します。",
+                    "zh-hans": "🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型",
+                    "zh-hant": "🌿孫思邈中文醫療大模型(Sunsimiao)：提供安全、可靠、普惠的中文醫療大模型"
+                }
+            },
+            "https://github.com/openbmb/minicpm": {
+                "repository_name": "MiniCPM",
+                "user_name": "OpenBMB",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.",
+                    "ja": "MiniCPM3-4B：GPT-3.5-Turboを凌駕するエッジサイドのLLM。",
+                    "zh-hans": "MiniCPM3-4B：一款超越GPT-3.5-Turbo的边缘LLM。",
+                    "zh-hant": "MiniCPM3-4B：一個超越GPT-3.5-Turbo的邊緣LLM。"
+                }
+            },
+            "https://github.com/rafalwilinski/cloudflare-rag": {
+                "repository_name": "cloudflare-rag",
+                "user_name": "RafalWilinski",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Fullstack \"Chat with your PDFs\" RAG (Retrieval Augmented Generation) app built fully on Cloudflare",
+                "topics": [
+                    "chatgpt",
+                    "cloudflare",
+                    "llm",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fullstack \"Chat with your PDFs\" RAG (Retrieval Augmented Generation) app built fully on Cloudflare",
+                    "ja": "Cloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリCloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリ",
+                    "zh-hans": "全栈“与您的PDF文件聊天”的RAG（检索增强生成）应用程序完全构建在Cloudflare上",
+                    "zh-hant": "全棧“與您的PDF進行聊天”的RAG（檢索增強生成）應用程序完全構建在Cloudflare上"
                 }
             }
         },

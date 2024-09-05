@@ -16,24 +16,20 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一个机器人与OpenAI GPT模型合作，为您的信息流提供见解。
+ * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - 与OpenAi的GPT 4进行口头对话的应用程序
 
 
 **CLIs**
- * [tenere](https://github.com/pythops/tenere) - 🔥 用Rust编写的LLMs的TUI界面
- * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥基于人工智能的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
+ * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: 编码更少，创造更多
 
 
 **NLP**
- * [llmgraph](https://github.com/dylanhogg/llmgraph) - 使用LLMs创建知识图谱
+ * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型
+ * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：一款超越GPT-3.5-Turbo的边缘LLM。
+ * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - 全栈“与您的PDF文件聊天”的RAG（检索增强生成）应用程序完全构建在Cloudflare上
 
 
-**Openai**
- * [whodb](https://github.com/clidey/whodb) - 一个轻量级的下一代数据浏览器 - Postgres，MySQL，SQLite，MongoDB，Redis，MariaDB和Elastic Search，带有聊天界面
- * [sum4all](https://github.com/fatwang2/sum4all) - 网页、视频、图片大模型总结
-
-
-_Updated on September 02, 2024_ (A total of 1739 repositories listed.)
+_Updated on September 06, 2024_ (A total of 1744 repositories listed.)
 
 ## Table of contents
 
@@ -514,6 +510,7 @@ _Updated on September 02, 2024_ (A total of 1739 repositories listed.)
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - 将AI助手与Django集成，构建智能应用程序
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：一个简化数据库交互的Python文本到SQL RAG库。与PostgreSQL、MySQL、SQLite、Snowflake和BigQuery无缝集成。由GPT-4和Llama 2驱动，支持自然语言查询。支持ChromaDB和Faiss。
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一个机器人与OpenAI GPT模型合作，为您的信息流提供见解。
+ * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - 与OpenAi的GPT 4进行口头对话的应用程序
 
 
 ## Browser-extensions
@@ -830,6 +827,7 @@ _Updated on September 02, 2024_ (A total of 1739 repositories listed.)
  * [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - 基于ChatGPT API的高效翻译工具
  * [tenere](https://github.com/pythops/tenere) - 🔥 用Rust编写的LLMs的TUI界面
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥基于人工智能的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
+ * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: 编码更少，创造更多
 
 
 ## Reimplementations
@@ -1145,6 +1143,9 @@ _Updated on September 02, 2024_ (A total of 1739 repositories listed.)
  * [factool](https://github.com/gair-nlp/factool) - FacTool：生成式AI中的事实性检测
  * [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - 思维树（ToT）框架用于使用LLMs解决复杂推理任务
  * [llmgraph](https://github.com/dylanhogg/llmgraph) - 使用LLMs创建知识图谱
+ * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型
+ * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：一款超越GPT-3.5-Turbo的边缘LLM。
+ * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - 全栈“与您的PDF文件聊天”的RAG（检索增强生成）应用程序完全构建在Cloudflare上
 
 
 ## Langchain
