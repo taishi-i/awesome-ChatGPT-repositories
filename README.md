@@ -16,20 +16,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
+ * [wandbot](https://github.com/wandb/wandbot) - wandbot is a technical support bot for Weights & Biases' AI developer tools that can run in Discord, Slack, ChatGPT and Zendesk
 
 
 **CLIs**
- * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: Code Less, Make More
+ * [ai-digest](https://github.com/khromov/ai-digest) - A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.
 
 
-**NLP**
- * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孙思邈中文医疗大模型(Sunsimiao)：提供安全、可靠、普惠的中文医疗大模型
- * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
- * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Fullstack "Chat with your PDFs" RAG (Retrieval Augmented Generation) app built fully on Cloudflare
+**Openai**
+ * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！
 
 
-_Updated on September 06, 2024_ (A total of 1744 repositories listed.)
+**Others**
+ * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2 (124M) quality in 5B tokens
+
+
+_Updated on September 09, 2024_ (A total of 1748 repositories listed.)
 
 ## Table of contents
 
@@ -511,6 +513,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for context-aware responses.
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
  * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
+ * [wandbot](https://github.com/wandb/wandbot) - wandbot is a technical support bot for Weights & Biases' AI developer tools that can run in Discord, Slack, ChatGPT and Zendesk
 
 
 ## Browser-extensions
@@ -828,6 +831,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: Code Less, Make More
+ * [ai-digest](https://github.com/khromov/ai-digest) - A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.
 
 
 ## Reimplementations
@@ -1445,6 +1449,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
  * [whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
  * [sum4all](https://github.com/fatwang2/sum4all) - 网页、视频、图片大模型总结
+ * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！
 
 
 ## Others
@@ -1848,5 +1853,6 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一键部署自己的 ChatGPT 镜像站
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
+ * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2 (124M) quality in 5B tokens
 
 
