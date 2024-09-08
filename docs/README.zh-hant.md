@@ -16,20 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - 與OpenAi的GPT 4進行口語對話的應用程式
+ * [wandbot](https://github.com/wandb/wandbot) - wandbot 是一個技術支援機器人，用於 Weights & Biases 的 AI 開發工具，可以在 Discord、Slack、ChatGPT 和 Zendesk 上運行。
 
 
 **CLIs**
- * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 開放雙手：少寫代碼，多創造
+ * [ai-digest](https://github.com/khromov/ai-digest) - 一個CLI工具，將您的代碼庫聚合到一個單獨的Markdown文件中，以供Claude Projects或自定義ChatGPT使用。
 
 
-**NLP**
- * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孫思邈中文醫療大模型(Sunsimiao)：提供安全、可靠、普惠的中文醫療大模型
- * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：一個超越GPT-3.5-Turbo的邊緣LLM。
- * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - 全棧“與您的PDF進行聊天”的RAG（檢索增強生成）應用程序完全構建在Cloudflare上
+**Openai**
+ * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一個使用 PyQt 編寫的桌面寵物程序，支持調用 OpenAI 的 GPT 進行上下文對話，然後主動找你聊天！
 
 
-_Updated on September 06, 2024_ (A total of 1744 repositories listed.)
+**Others**
+ * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2（124M）在5B令牌中的質量GPT-2（124M）在5B令牌中的質量
+
+
+_Updated on September 09, 2024_ (A total of 1748 repositories listed.)
 
 ## Table of contents
 
@@ -511,6 +513,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：一個簡化數據庫交互的Python文本到SQL RAG庫。與PostgreSQL、MySQL、SQLite、Snowflake和BigQuery無縫集成。由GPT-4和Llama 2驅動，可以實現自然語言查詢。支持ChromaDB和Faiss。
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一個機器人與OpenAI GPT模型合作，為您的信息流提供洞察。
  * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - 與OpenAi的GPT 4進行口語對話的應用程式
+ * [wandbot](https://github.com/wandb/wandbot) - wandbot 是一個技術支援機器人，用於 Weights & Biases 的 AI 開發工具，可以在 Discord、Slack、ChatGPT 和 Zendesk 上運行。
 
 
 ## Browser-extensions
@@ -828,6 +831,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [tenere](https://github.com/pythops/tenere) - 🔥 用Rust编写的LLMs的TUI界面
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 開放雙手：少寫代碼，多創造
+ * [ai-digest](https://github.com/khromov/ai-digest) - 一個CLI工具，將您的代碼庫聚合到一個單獨的Markdown文件中，以供Claude Projects或自定義ChatGPT使用。
 
 
 ## Reimplementations
@@ -1445,6 +1449,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [one-hub](https://github.com/martialbe/one-hub) - OpenAI 接口管理 & 分发系統，改自songquanpeng/one-api。支援更多模型，加入統計頁面，完善非openai模型的函數調用。
  * [whodb](https://github.com/clidey/whodb) - 一款輕量級的下一代數據探索器 - 支持Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB和Elastic Search，並帶有聊天界面。
  * [sum4all](https://github.com/fatwang2/sum4all) - 網頁、視頻、圖片大模型總結
+ * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一個使用 PyQt 編寫的桌面寵物程序，支持調用 OpenAI 的 GPT 進行上下文對話，然後主動找你聊天！
 
 
 ## Others
@@ -1848,5 +1853,6 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - 一個與ChatGPT、Claude、Copilot、Gemini、HuggingChat和Pi通信的圖書館
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一鍵部署自己的 ChatGPT 鏡像站
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一個基於GPT的醫療垂直領域大模型，旨在將專業的醫學知識、醫療信息、數據融會貫通，為醫療行業提供智能化的醫療問答、診斷支持和醫學知識等信息服務，提高診療效率和醫療服務質量。
+ * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2（124M）在5B令牌中的質量GPT-2（124M）在5B令牌中的質量
 
 

@@ -16,20 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - OpenAiのGPT 4との口頭会話ができるアプリ
+ * [wandbot](https://github.com/wandb/wandbot) - wandbotは、Discord、Slack、ChatGPT、Zendeskで動作するWeights & BiasesのAI開発者ツールのためのテクニカルサポートボットです。
 
 
 **CLIs**
- * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: コードを少なくして、もっと多くを作成します
+ * [ai-digest](https://github.com/khromov/ai-digest) - Claude ProjectsやカスタムChatGPTと一緒に使用するためのコードベースを1つのMarkdownファイルに集約するためのCLIツール。
 
 
-**NLP**
- * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孫思邈中文医療大模型(Sunsimiao)：安全で信頼性があり、誰もが利用できる中文医療大模型を提供します。
- * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：GPT-3.5-Turboを凌駕するエッジサイドのLLM。
- * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Cloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリCloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリ
+**Openai**
+ * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPTは、PyQtで書かれたデスクトップペットプログラムで、OpenAIのGPTを呼び出してコンテキスト対話を行い、その後自分からチャットを始めます！
 
 
-_Updated on September 06, 2024_ (A total of 1744 repositories listed.)
+**Others**
+ * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - 5BトークンでのGPT-2（124M）品質
+
+
+_Updated on September 09, 2024_ (A total of 1748 repositories listed.)
 
 ## Table of contents
 
@@ -511,6 +513,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：データベースの相互作用を簡素化するPython Text-to-SQL RAGライブラリ。PostgreSQL、MySQL、SQLite、Snowflake、およびBigQueryとシームレスに統合されています。GPT-4とLlama 2によって動作し、自然言語クエリを可能にします。ChromaDBとFaissをサポートしています。
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。
  * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - OpenAiのGPT 4との口頭会話ができるアプリ
+ * [wandbot](https://github.com/wandb/wandbot) - wandbotは、Discord、Slack、ChatGPT、Zendeskで動作するWeights & BiasesのAI開発者ツールのためのテクニカルサポートボットです。
 
 
 ## Browser-extensions
@@ -828,6 +831,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [tenere](https://github.com/pythops/tenere) - Rustで書かれたLLMsのためのTUIインターフェースRustで書かれたLLMsのためのTUIインターフェース
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI駆動型データベースツールおよびSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポート。
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: コードを少なくして、もっと多くを作成します
+ * [ai-digest](https://github.com/khromov/ai-digest) - Claude ProjectsやカスタムChatGPTと一緒に使用するためのコードベースを1つのMarkdownファイルに集約するためのCLIツール。
 
 
 ## Reimplementations
@@ -1445,6 +1449,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [one-hub](https://github.com/martialbe/one-hub) - OpenAI インターフェース管理＆配布システム、songquanpeng/one-api を改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善しました。
  * [whodb](https://github.com/clidey/whodb) - 軽量な次世代データエクスプローラー - Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB＆Elastic Searchとチャットインターフェース
  * [sum4all](https://github.com/fatwang2/sum4all) - ウェブページ、ビデオ、画像の大規模モデルの要約
+ * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPTは、PyQtで書かれたデスクトップペットプログラムで、OpenAIのGPTを呼び出してコンテキスト対話を行い、その後自分からチャットを始めます！
 
 
 ## Others
@@ -1848,5 +1853,6 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - ChatGPT、Claude、Copilot、Gemini、HuggingChat、およびPiと通信するためのライブラリ
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 自分のChatGPTイメージサイトをワンクリックでデプロイ
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPTは、GPTを基にした医療分野の大規模モデルであり、専門の医学知識、医療情報、データを統合し、医療業界に知識を提供するためのインテリジェントな医療質問、診断支援、医学知識などの情報サービスを提供し、診療効率と医療サービスの質を向上させることを目的としています。
+ * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - 5BトークンでのGPT-2（124M）品質
 
 

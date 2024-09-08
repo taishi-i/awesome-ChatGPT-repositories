@@ -16,20 +16,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
+ * [wandbot](https://github.com/wandb/wandbot) - wandbot is a technical support bot for Weights & Biases' AI developer tools that can run in Discord, Slack, ChatGPT and Zendesk
 
 
 **CLIs**
- * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: Code Less, Make More
+ * [ai-digest](https://github.com/khromov/ai-digest) - A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.
 
 
-**NLP**
- * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿Sunsimiao Chinese Medical Large Model: Providing safe, reliable, and inclusive Chinese medical large model.
- * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
- * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Fullstack "Chat with your PDFs" RAG (Retrieval Augmented Generation) app built fully on Cloudflare
+**Openai**
+ * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT is a desktop pet program written in PyQt, which supports calling OpenAI's GPT for context-based conversations, and then actively chats with you!
 
 
-_Updated on September 06, 2024_ (A total of 1744 repositories listed.)
+**Others**
+ * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2 (124M) quality in 5B tokens
+
+
+_Updated on September 09, 2024_ (A total of 1748 repositories listed.)
 
 ## Table of contents
 
@@ -511,6 +513,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for c
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
  * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
+ * [wandbot](https://github.com/wandb/wandbot) - wandbot is a technical support bot for Weights & Biases' AI developer tools that can run in Discord, Slack, ChatGPT and Zendesk
 
 
 ## Browser-extensions
@@ -828,6 +831,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [tenere](https://github.com/pythops/tenere) - 🔥 TUI interface for LLMs written in Rust
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: Code Less, Make More
+ * [ai-digest](https://github.com/khromov/ai-digest) - A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.
 
 
 ## Reimplementations
@@ -1445,6 +1449,7 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [one-hub](https://github.com/martialbe/one-hub) - OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.
  * [whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
  * [sum4all](https://github.com/fatwang2/sum4all) - Summary of large models for web pages, videos, and images.
+ * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT is a desktop pet program written in PyQt, which supports calling OpenAI's GPT for context-based conversations, and then actively chats with you!
 
 
 ## Others
@@ -1848,5 +1853,6 @@ _Updated on September 06, 2024_ (A total of 1744 repositories listed.)
  * [TalkingHeads](https://github.com/ugorsahin/talkingheads) - A library to communicate with ChatGPT, Claude, Copilot, Gemini, HuggingChat, and Pi
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 One-click deployment of your own ChatGPT mirror site
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT is a large model in the medical vertical field based on GPT, aiming to integrate professional medical knowledge, medical information, and data to provide intelligent medical question and answer, diagnostic support, and medical knowledge services for the medical industry, improving diagnostic efficiency and the quality of medical services.
+ * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2 (124M) quality in 5B tokens
 
 

@@ -10840,6 +10840,31 @@
                     "zh-hans": "与OpenAi的GPT 4进行口头对话的应用程序",
                     "zh-hant": "與OpenAi的GPT 4進行口語對話的應用程式"
                 }
+            },
+            "https://github.com/wandb/wandbot": {
+                "repository_name": "wandbot",
+                "user_name": "wandb",
+                "language": "Jupyter Notebook",
+                "license": "Apache License 2.0",
+                "description": "wandbot is a technical support bot for Weights & Biases' AI developer tools that can run in Discord, Slack, ChatGPT and Zendesk",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "discord",
+                    "gpt",
+                    "gpt-4",
+                    "openai",
+                    "slack",
+                    "support-bot",
+                    "wandb",
+                    "zendesk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "wandbot is a technical support bot for Weights & Biases' AI developer tools that can run in Discord, Slack, ChatGPT and Zendesk",
+                    "ja": "wandbotは、Discord、Slack、ChatGPT、Zendeskで動作するWeights & BiasesのAI開発者ツールのためのテクニカルサポートボットです。",
+                    "zh-hans": "wandbot是Weights & Biases的AI开发工具的技术支持机器人，可以在Discord、Slack、ChatGPT和Zendesk上运行。",
+                    "zh-hant": "wandbot 是一個技術支援機器人，用於 Weights & Biases 的 AI 開發工具，可以在 Discord、Slack、ChatGPT 和 Zendesk 上運行。"
+                }
             }
         },
         "Browser-extensions": {
@@ -17839,6 +17864,20 @@
                     "ja": "🙌 OpenHands: コードを少なくして、もっと多くを作成します",
                     "zh-hans": "🙌 OpenHands: 编码更少，创造更多",
                     "zh-hant": "🙌 開放雙手：少寫代碼，多創造"
+                }
+            },
+            "https://github.com/khromov/ai-digest": {
+                "repository_name": "ai-digest",
+                "user_name": "khromov",
+                "language": "TypeScript",
+                "license": null,
+                "description": "A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.",
+                    "ja": "Claude ProjectsやカスタムChatGPTと一緒に使用するためのコードベースを1つのMarkdownファイルに集約するためのCLIツール。",
+                    "zh-hans": "一个CLI工具，可以将您的代码库聚合到一个单独的Markdown文件中，以供Claude项目或自定义ChatGPT使用。",
+                    "zh-hant": "一個CLI工具，將您的代碼庫聚合到一個單獨的Markdown文件中，以供Claude Projects或自定義ChatGPT使用。"
                 }
             }
         },
@@ -30872,6 +30911,24 @@
                     "zh-hans": "网页、视频、图片大模型总结",
                     "zh-hant": "網頁、視頻、圖片大模型總結"
                 }
+            },
+            "https://github.com/hanzoe/pet-gpt": {
+                "repository_name": "Pet-GPT",
+                "user_name": "Hanzoe",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！",
+                "topics": [
+                    "chaptgpt",
+                    "desktop",
+                    "pet"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Pet-GPT is a desktop pet program written in PyQt, which supports calling OpenAI's GPT for context-based conversations, and then actively chats with you!",
+                    "ja": "Pet-GPTは、PyQtで書かれたデスクトップペットプログラムで、OpenAIのGPTを呼び出してコンテキスト対話を行い、その後自分からチャットを始めます！",
+                    "zh-hans": "Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！",
+                    "zh-hant": "Pet-GPT 是一個使用 PyQt 編寫的桌面寵物程序，支持調用 OpenAI 的 GPT 進行上下文對話，然後主動找你聊天！"
+                }
             }
         },
         "Others": {
@@ -38464,6 +38521,20 @@
                     "ja": "WiNGPTは、GPTを基にした医療分野の大規模モデルであり、専門の医学知識、医療情報、データを統合し、医療業界に知識を提供するためのインテリジェントな医療質問、診断支援、医学知識などの情報サービスを提供し、診療効率と医療サービスの質を向上させることを目的としています。",
                     "zh-hans": "WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。",
                     "zh-hant": "WiNGPT是一個基於GPT的醫療垂直領域大模型，旨在將專業的醫學知識、醫療信息、數據融會貫通，為醫療行業提供智能化的醫療問答、診斷支持和醫學知識等信息服務，提高診療效率和醫療服務質量。"
+                }
+            },
+            "https://github.com/kellerjordan/modded-nanogpt": {
+                "repository_name": "modded-nanogpt",
+                "user_name": "KellerJordan",
+                "language": "Python",
+                "license": null,
+                "description": "GPT-2 (124M) quality in 5B tokens",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "GPT-2 (124M) quality in 5B tokens",
+                    "ja": "5BトークンでのGPT-2（124M）品質",
+                    "zh-hans": "5B个标记中的GPT-2（124M）质量输出：",
+                    "zh-hant": "GPT-2（124M）在5B令牌中的質量GPT-2（124M）在5B令牌中的質量"
                 }
             }
         }
