@@ -16,22 +16,24 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [wandbot](https://github.com/wandb/wandbot) - wandbot是Weights & Biases的AI开发工具的技术支持机器人，可以在Discord、Slack、ChatGPT和Zendesk上运行。
+ * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI驱动的研究助手：一种先进的多智能体系统，用于自动化复杂的研究过程。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美。
+ * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 洛贝维多尔 - 让虚拟偶像为每个人所能接触
+ * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：通过开源AI反馈对齐MLLMs，提高Super GPT-4V的可信度
 
 
 **CLIs**
- * [ai-digest](https://github.com/khromov/ai-digest) - 一个CLI工具，可以将您的代码库聚合到一个单独的Markdown文件中，以供Claude项目或自定义ChatGPT使用。
+ * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQ Bot 机器人的 Web UI 一键配置，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。🍉
 
 
-**Openai**
- * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！
+**Langchain**
+ * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni是一个基于Llama-3.1-8B-Instruct构建的低延迟和高质量的端到端语音交互模型，旨在实现类似于GPT-4o水平的语音能力。
 
 
 **Others**
- * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - 5B个标记中的GPT-2（124M）质量输出：
+ * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
 
 
-_Updated on September 09, 2024_ (A total of 1748 repositories listed.)
+_Updated on September 13, 2024_ (A total of 1754 repositories listed.)
 
 ## Table of contents
 
@@ -514,6 +516,9 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一个机器人与OpenAI GPT模型合作，为您的信息流提供见解。
  * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - 与OpenAi的GPT 4进行口头对话的应用程序
  * [wandbot](https://github.com/wandb/wandbot) - wandbot是Weights & Biases的AI开发工具的技术支持机器人，可以在Discord、Slack、ChatGPT和Zendesk上运行。
+ * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI驱动的研究助手：一种先进的多智能体系统，用于自动化复杂的研究过程。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美。
+ * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 洛贝维多尔 - 让虚拟偶像为每个人所能接触
+ * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：通过开源AI反馈对齐MLLMs，提高Super GPT-4V的可信度
 
 
 ## Browser-extensions
@@ -832,6 +837,7 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥基于人工智能的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: 编码更少，创造更多
  * [ai-digest](https://github.com/khromov/ai-digest) - 一个CLI工具，可以将您的代码库聚合到一个单独的Markdown文件中，以供Claude项目或自定义ChatGPT使用。
+ * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQ Bot 机器人的 Web UI 一键配置，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。🍉
 
 
 ## Reimplementations
@@ -1255,6 +1261,7 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain的中文入门教程
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - 启真GPT：一个开源的中文医疗大语言模型
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - 一个在Azure上运行的检索增强生成模式的TypeScript示例应用程序，使用Azure AI Search进行检索，使用Azure OpenAI和LangChain大型语言模型（LLMs）来支持ChatGPT风格和问答体验。
+ * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni是一个基于Llama-3.1-8B-Instruct构建的低延迟和高质量的端到端语音交互模型，旨在实现类似于GPT-4o水平的语音能力。
 
 
 ## Unity
@@ -1854,5 +1861,6 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一键部署您自己的 ChatGPT 镜像站
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - 5B个标记中的GPT-2（124M）质量输出：
+ * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
 
 

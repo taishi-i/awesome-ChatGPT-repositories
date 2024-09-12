@@ -16,22 +16,24 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [wandbot](https://github.com/wandb/wandbot) - wandbotは、Discord、Slack、ChatGPT、Zendeskで動作するWeights & BiasesのAI開発者ツールのためのテクニカルサポートボットです。
+ * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、LangGraphを活用し、このツールは仮説の生成、データ分析、可視化、レポート作成を効率化します。完璧
+ * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 ロベ・ヴィドル - 仮想アイドルを誰もが利用できるようにする
+ * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：オープンソースAIフィードバックを介したMLLMの整列によるSuper GPT-4Vの信頼性
 
 
 **CLIs**
- * [ai-digest](https://github.com/khromov/ai-digest) - Claude ProjectsやカスタムChatGPTと一緒に使用するためのコードベースを1つのMarkdownファイルに集約するためのCLIツール。
+ * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉
 
 
-**Openai**
- * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPTは、PyQtで書かれたデスクトップペットプログラムで、OpenAIのGPTを呼び出してコンテキスト対話を行い、その後自分からチャットを始めます！
+**Langchain**
+ * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omniは、Llama-3.1-8B-Instructをベースに構築された低遅延で高品質なエンドツーエンドの音声インタラクションモデルであり、GPT-4oレベルの音声機能を実現することを目指しています。
 
 
 **Others**
- * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - 5BトークンでのGPT-2（124M）品質
+ * [minimind](https://github.com/jingyaogong/minimind) - 【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！
 
 
-_Updated on September 09, 2024_ (A total of 1748 repositories listed.)
+_Updated on September 13, 2024_ (A total of 1754 repositories listed.)
 
 ## Table of contents
 
@@ -514,6 +516,9 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。
  * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - OpenAiのGPT 4との口頭会話ができるアプリ
  * [wandbot](https://github.com/wandb/wandbot) - wandbotは、Discord、Slack、ChatGPT、Zendeskで動作するWeights & BiasesのAI開発者ツールのためのテクニカルサポートボットです。
+ * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、LangGraphを活用し、このツールは仮説の生成、データ分析、可視化、レポート作成を効率化します。完璧
+ * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 ロベ・ヴィドル - 仮想アイドルを誰もが利用できるようにする
+ * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：オープンソースAIフィードバックを介したMLLMの整列によるSuper GPT-4Vの信頼性
 
 
 ## Browser-extensions
@@ -832,6 +837,7 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI駆動型データベースツールおよびSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポート。
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: コードを少なくして、もっと多くを作成します
  * [ai-digest](https://github.com/khromov/ai-digest) - Claude ProjectsやカスタムChatGPTと一緒に使用するためのコードベースを1つのMarkdownファイルに集約するためのCLIツール。
+ * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉
 
 
 ## Reimplementations
@@ -1255,6 +1261,7 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChainの中国語入門ガイド
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT：オープンソースの中国医療大規模言語モデル｜一个开源的中文医疗大语言模型
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。
+ * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omniは、Llama-3.1-8B-Instructをベースに構築された低遅延で高品質なエンドツーエンドの音声インタラクションモデルであり、GPT-4oレベルの音声機能を実現することを目指しています。
 
 
 ## Unity
@@ -1854,5 +1861,6 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 自分のChatGPTイメージサイトをワンクリックでデプロイ
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPTは、GPTを基にした医療分野の大規模モデルであり、専門の医学知識、医療情報、データを統合し、医療業界に知識を提供するためのインテリジェントな医療質問、診断支援、医学知識などの情報サービスを提供し、診療効率と医療サービスの質を向上させることを目的としています。
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - 5BトークンでのGPT-2（124M）品質
+ * [minimind](https://github.com/jingyaogong/minimind) - 【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！
 
 

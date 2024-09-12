@@ -10865,6 +10865,85 @@
                     "zh-hans": "wandbot是Weights & Biases的AI开发工具的技术支持机器人，可以在Discord、Slack、ChatGPT和Zendesk上运行。",
                     "zh-hant": "wandbot 是一個技術支援機器人，用於 Weights & Biases 的 AI 開發工具，可以在 Discord、Slack、ChatGPT 和 Zendesk 上運行。"
                 }
+            },
+            "https://github.com/starpig1129/ai-data-analysis-mulitagent": {
+                "repository_name": "ai-data-analysis-MulitAgent",
+                "user_name": "starpig1129",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect for researchers and data scientists seeking to enhance their workflow and productivity.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-data-analysis",
+                    "artificial-intelligence",
+                    "code-generation",
+                    "data-analysis",
+                    "data-analytics",
+                    "data-science",
+                    "langchain",
+                    "langgraph",
+                    "large-language-model",
+                    "large-language-models",
+                    "llm",
+                    "multiagent-systems",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect",
+                    "ja": "AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、LangGraphを活用し、このツールは仮説の生成、データ分析、可視化、レポート作成を効率化します。完璧",
+                    "zh-hans": "AI驱动的研究助手：一种先进的多智能体系统，用于自动化复杂的研究过程。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美。",
+                    "zh-hant": "AI驅動的研究助手：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。"
+                }
+            },
+            "https://github.com/lobehub/lobe-vidol": {
+                "repository_name": "lobe-vidol",
+                "user_name": "lobehub",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "🧸 Lobe Vidol - Making Virtual Idols Accessible for EveryOne",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "framework",
+                    "mmd",
+                    "nextjs",
+                    "openai",
+                    "tts",
+                    "vercel-ai",
+                    "virtual-idols",
+                    "vroid",
+                    "vtuber"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🧸 Lobe Vidol - Making Virtual Idols Accessible for EveryOne",
+                    "ja": "🧸 ロベ・ヴィドル - 仮想アイドルを誰もが利用できるようにする",
+                    "zh-hans": "🧸 洛贝维多尔 - 让虚拟偶像为每个人所能接触",
+                    "zh-hant": "🧸 樂比狄爾 - 讓虛擬偶像為每個人所能接觸"
+                }
+            },
+            "https://github.com/rlhf-v/rlaif-v": {
+                "repository_name": "RLAIF-V",
+                "user_name": "RLHF-V",
+                "language": "Python",
+                "license": null,
+                "description": "RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness",
+                "topics": [
+                    "chatbot",
+                    "gpt-4v",
+                    "llava",
+                    "llava-next",
+                    "minicpm-v",
+                    "multimodal",
+                    "rlaif-v",
+                    "vision-language-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness",
+                    "ja": "RLAIF-V：オープンソースAIフィードバックを介したMLLMの整列によるSuper GPT-4Vの信頼性",
+                    "zh-hans": "RLAIF-V：通过开源AI反馈对齐MLLMs，提高Super GPT-4V的可信度",
+                    "zh-hant": "RLAIF-V：通過開源AI反饋對齊MLLMs，提高Super GPT-4V的可信度"
+                }
             }
         },
         "Browser-extensions": {
@@ -17878,6 +17957,26 @@
                     "ja": "Claude ProjectsやカスタムChatGPTと一緒に使用するためのコードベースを1つのMarkdownファイルに集約するためのCLIツール。",
                     "zh-hans": "一个CLI工具，可以将您的代码库聚合到一个单独的Markdown文件中，以供Claude项目或自定义ChatGPT使用。",
                     "zh-hant": "一個CLI工具，將您的代碼庫聚合到一個單獨的Markdown文件中，以供Claude Projects或自定義ChatGPT使用。"
+                }
+            },
+            "https://github.com/zmh-program/web-mirai-panel": {
+                "repository_name": "web-mirai-panel",
+                "user_name": "zmh-program",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "🍉 Web UI 一键配置 ChatGPT Mirai QQ Bot 机器人，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。 🍉 Web UI of ChatGPT Mirai QQ Bot robot, support for multi-instance management, configuration editing, file submission, health check, terminal execution, support for password access.",
+                "topics": [
+                    "chatgpt",
+                    "cqhttp",
+                    "mirai",
+                    "qq-bot",
+                    "web-configurator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🍉 Web UI 一键配置 ChatGPT Mirai QQ Bot 机器人，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。 🍉 Web UI of ChatGPT Mirai QQ Bot robot, support for multi-instance management, configuration editing, file submission, health check, terminal execution, support for password access.",
+                    "ja": "🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉",
+                    "zh-hans": "🍉 ChatGPT Mirai QQ Bot 机器人的 Web UI 一键配置，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。🍉",
+                    "zh-hant": "🍉 Web UI 一鍵配置 ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。🍉 Web UI of ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。"
                 }
             }
         },
@@ -26807,6 +26906,27 @@
                     "ja": "Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。",
                     "zh-hans": "一个在Azure上运行的检索增强生成模式的TypeScript示例应用程序，使用Azure AI Search进行检索，使用Azure OpenAI和LangChain大型语言模型（LLMs）来支持ChatGPT风格和问答体验。",
                     "zh-hant": "一個在Azure上運行的檢索增強生成模式的TypeScript示例應用程序，使用Azure AI Search進行檢索，並使用Azure OpenAI和LangChain大型語言模型（LLMs）來支持ChatGPT風格和問答體驗。"
+                }
+            },
+            "https://github.com/ictnlp/llama-omni": {
+                "repository_name": "LLaMA-Omni",
+                "user_name": "ictnlp",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.",
+                "topics": [
+                    "large-language-models",
+                    "multimodal-large-language-models",
+                    "speech-interaction",
+                    "speech-language-model",
+                    "speech-to-speech",
+                    "speech-to-text"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.",
+                    "ja": "LLaMA-Omniは、Llama-3.1-8B-Instructをベースに構築された低遅延で高品質なエンドツーエンドの音声インタラクションモデルであり、GPT-4oレベルの音声機能を実現することを目指しています。",
+                    "zh-hans": "LLaMA-Omni是一个基于Llama-3.1-8B-Instruct构建的低延迟和高质量的端到端语音交互模型，旨在实现类似于GPT-4o水平的语音能力。",
+                    "zh-hant": "LLaMA-Omni是一個建立在Llama-3.1-8B-Instruct基礎上的低延遲和高質量的端到端語音交互模型，旨在實現GPT-4o級別的語音能力。"
                 }
             }
         },
@@ -38535,6 +38655,20 @@
                     "ja": "5BトークンでのGPT-2（124M）品質",
                     "zh-hans": "5B个标记中的GPT-2（124M）质量输出：",
                     "zh-hant": "GPT-2（124M）在5B令牌中的質量GPT-2（124M）在5B令牌中的質量"
+                }
+            },
+            "https://github.com/jingyaogong/minimind": {
+                "repository_name": "minimind",
+                "user_name": "jingyaogong",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "[Large model] Train a small parameter GPT from scratch in just 3 hours, with only 2GB GPU required for inference training!",
+                    "ja": "【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！",
+                    "zh-hans": "【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！",
+                    "zh-hant": "【大模型】3小時完全從0訓練一個僅有26M的小參數GPT，最低僅需2G顯卡即可推理訓練！"
                 }
             }
         }

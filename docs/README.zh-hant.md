@@ -16,22 +16,24 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [wandbot](https://github.com/wandb/wandbot) - wandbot 是一個技術支援機器人，用於 Weights & Biases 的 AI 開發工具，可以在 Discord、Slack、ChatGPT 和 Zendesk 上運行。
+ * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI驅動的研究助手：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。
+ * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 樂比狄爾 - 讓虛擬偶像為每個人所能接觸
+ * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：通過開源AI反饋對齊MLLMs，提高Super GPT-4V的可信度
 
 
 **CLIs**
- * [ai-digest](https://github.com/khromov/ai-digest) - 一個CLI工具，將您的代碼庫聚合到一個單獨的Markdown文件中，以供Claude Projects或自定義ChatGPT使用。
+ * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一鍵配置 ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。🍉 Web UI of ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。
 
 
-**Openai**
- * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一個使用 PyQt 編寫的桌面寵物程序，支持調用 OpenAI 的 GPT 進行上下文對話，然後主動找你聊天！
+**Langchain**
+ * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni是一個建立在Llama-3.1-8B-Instruct基礎上的低延遲和高質量的端到端語音交互模型，旨在實現GPT-4o級別的語音能力。
 
 
 **Others**
- * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2（124M）在5B令牌中的質量GPT-2（124M）在5B令牌中的質量
+ * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小時完全從0訓練一個僅有26M的小參數GPT，最低僅需2G顯卡即可推理訓練！
 
 
-_Updated on September 09, 2024_ (A total of 1748 repositories listed.)
+_Updated on September 13, 2024_ (A total of 1754 repositories listed.)
 
 ## Table of contents
 
@@ -514,6 +516,9 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一個機器人與OpenAI GPT模型合作，為您的信息流提供洞察。
  * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - 與OpenAi的GPT 4進行口語對話的應用程式
  * [wandbot](https://github.com/wandb/wandbot) - wandbot 是一個技術支援機器人，用於 Weights & Biases 的 AI 開發工具，可以在 Discord、Slack、ChatGPT 和 Zendesk 上運行。
+ * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI驅動的研究助手：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。
+ * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 樂比狄爾 - 讓虛擬偶像為每個人所能接觸
+ * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：通過開源AI反饋對齊MLLMs，提高Super GPT-4V的可信度
 
 
 ## Browser-extensions
@@ -832,6 +837,7 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥由人工智慧驅動的數據庫工具和SQL客戶端，最熱門的GUI客戶端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 開放雙手：少寫代碼，多創造
  * [ai-digest](https://github.com/khromov/ai-digest) - 一個CLI工具，將您的代碼庫聚合到一個單獨的Markdown文件中，以供Claude Projects或自定義ChatGPT使用。
+ * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一鍵配置 ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。🍉 Web UI of ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。
 
 
 ## Reimplementations
@@ -1255,6 +1261,7 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain 的中文入門教程
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - 啟真GPT：一個開源的中文醫療大語言模型
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - 一個在Azure上運行的檢索增強生成模式的TypeScript示例應用程序，使用Azure AI Search進行檢索，並使用Azure OpenAI和LangChain大型語言模型（LLMs）來支持ChatGPT風格和問答體驗。
+ * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni是一個建立在Llama-3.1-8B-Instruct基礎上的低延遲和高質量的端到端語音交互模型，旨在實現GPT-4o級別的語音能力。
 
 
 ## Unity
@@ -1854,5 +1861,6 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一鍵部署自己的 ChatGPT 鏡像站
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一個基於GPT的醫療垂直領域大模型，旨在將專業的醫學知識、醫療信息、數據融會貫通，為醫療行業提供智能化的醫療問答、診斷支持和醫學知識等信息服務，提高診療效率和醫療服務質量。
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2（124M）在5B令牌中的質量GPT-2（124M）在5B令牌中的質量
+ * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小時完全從0訓練一個僅有26M的小參數GPT，最低僅需2G顯卡即可推理訓練！
 
 
