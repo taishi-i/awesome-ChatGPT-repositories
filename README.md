@@ -16,22 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [wandbot](https://github.com/wandb/wandbot) - wandbot is a technical support bot for Weights & Biases' AI developer tools that can run in Discord, Slack, ChatGPT and Zendesk
+ * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect for researchers and data scientists seeking to enhance their workflow and productivity.
+ * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 Lobe Vidol - Making Virtual Idols Accessible for EveryOne
+ * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness
 
 
 **CLIs**
- * [ai-digest](https://github.com/khromov/ai-digest) - A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.
+ * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一键配置 ChatGPT Mirai QQ Bot 机器人，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。 🍉 Web UI of ChatGPT Mirai QQ Bot robot, support for multi-instance management, configuration editing, file submission, health check, terminal execution, support for password access.
 
 
-**Openai**
- * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！
+**Langchain**
+ * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
 
 
 **Others**
- * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2 (124M) quality in 5B tokens
+ * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
 
 
-_Updated on September 09, 2024_ (A total of 1748 repositories listed.)
+_Updated on September 13, 2024_ (A total of 1754 repositories listed.)
 
 ## Table of contents
 
@@ -514,6 +516,9 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
  * [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
  * [wandbot](https://github.com/wandb/wandbot) - wandbot is a technical support bot for Weights & Biases' AI developer tools that can run in Discord, Slack, ChatGPT and Zendesk
+ * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect for researchers and data scientists seeking to enhance their workflow and productivity.
+ * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 Lobe Vidol - Making Virtual Idols Accessible for EveryOne
+ * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness
 
 
 ## Browser-extensions
@@ -832,6 +837,7 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [Chat2DB](https://github.com/codephiliax/chat2db) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: Code Less, Make More
  * [ai-digest](https://github.com/khromov/ai-digest) - A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.
+ * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一键配置 ChatGPT Mirai QQ Bot 机器人，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。 🍉 Web UI of ChatGPT Mirai QQ Bot robot, support for multi-instance management, configuration editing, file submission, health check, terminal execution, support for password access.
 
 
 ## Reimplementations
@@ -1255,6 +1261,7 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - LangChain 的中文入门教程
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences.
+ * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
 
 
 ## Unity
@@ -1854,5 +1861,6 @@ _Updated on September 09, 2024_ (A total of 1748 repositories listed.)
  * [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - 🚀 一键部署自己的 ChatGPT 镜像站
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2 (124M) quality in 5B tokens
+ * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
 
 
