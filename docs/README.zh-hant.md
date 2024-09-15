@@ -15,25 +15,27 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI驅動的研究助手：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。
- * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 樂比狄爾 - 讓虛擬偶像為每個人所能接觸
- * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：通過開源AI反饋對齊MLLMs，提高Super GPT-4V的可信度
+**Prompts**
+ * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。
+
+
+**Browser-extensions**
+ * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama（離線）插件。https://getitnow.embarcadero.com/chatgptwizard
 
 
 **CLIs**
- * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一鍵配置 ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。🍉 Web UI of ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。
+ * [Nexior](https://github.com/acedatacloud/nexior) - 一鍵部署您自己的AI應用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，輕鬆賺取利潤。
 
 
-**Langchain**
- * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni是一個建立在Llama-3.1-8B-Instruct基礎上的低延遲和高質量的端到端語音交互模型，旨在實現GPT-4o級別的語音能力。
+**NLP**
+ * [empower-functions](https://github.com/empower-ai/empower-functions) - 應用於真實世界工具使用案例的GPT-4級別功能調用模型
 
 
 **Others**
- * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小時完全從0訓練一個僅有26M的小參數GPT，最低僅需2G顯卡即可推理訓練！
+ * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - 一個使用GPT-4、FFmpeg和OpenCV的Python工具，可以自動分析視頻，提取最有趣的部分並對其進行裁剪，以提供更好的觀看體驗。
 
 
-_Updated on September 13, 2024_ (A total of 1754 repositories listed.)
+_Updated on September 16, 2024_ (A total of 1759 repositories listed.)
 
 ## Table of contents
 
@@ -260,6 +262,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - 一套為ConfyUI定製的節點套件，包括GPT文本提示生成、LoadVideo、SaveVideo、LoadFramesFromFolder和FrameInterpolator
  * [PromptChains](https://github.com/miatechpartners/promptchains) - 排隊提示ChatGPT和Claude以獲得更好的表現
  * [aide](https://github.com/nicepkg/aide) - 在 VSCode 中征服任何代碼：一鍵註釋、轉換、UI 圖生成代碼、AI 批量處理文件！💪
+ * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。
 
 
 ## Chatbots
@@ -709,6 +712,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ 在Neovim中的Copilot Chat體驗，配有內置助手。支持Anthropic、Gemini、Ollama和OpenAI LLMs。
  * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant API 是一個即用即棄、開源、自主託管的代理/ gpts 編排創建框架，支持 LLM、RAG、函數調用和工具功能的定制擴展。它還支持與 openai/lang 的無縫集成。
  * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - 鸚鵡.nvim 🦜 - 將隨機鸚鵡帶入 Neovim 的插件。這是一個專注於簡潔的 gp.nvim 分支。
+ * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama（離線）插件。https://getitnow.embarcadero.com/chatgptwizard
 
 
 ## CLIs
@@ -838,6 +842,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 開放雙手：少寫代碼，多創造
  * [ai-digest](https://github.com/khromov/ai-digest) - 一個CLI工具，將您的代碼庫聚合到一個單獨的Markdown文件中，以供Claude Projects或自定義ChatGPT使用。
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一鍵配置 ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。🍉 Web UI of ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。
+ * [Nexior](https://github.com/acedatacloud/nexior) - 一鍵部署您自己的AI應用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，輕鬆賺取利潤。
 
 
 ## Reimplementations
@@ -1156,6 +1161,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孫思邈中文醫療大模型(Sunsimiao)：提供安全、可靠、普惠的中文醫療大模型
  * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：一個超越GPT-3.5-Turbo的邊緣LLM。
  * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - 全棧“與您的PDF進行聊天”的RAG（檢索增強生成）應用程序完全構建在Cloudflare上
+ * [empower-functions](https://github.com/empower-ai/empower-functions) - 應用於真實世界工具使用案例的GPT-4級別功能調用模型
 
 
 ## Langchain
@@ -1862,5 +1868,6 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT是一個基於GPT的醫療垂直領域大模型，旨在將專業的醫學知識、醫療信息、數據融會貫通，為醫療行業提供智能化的醫療問答、診斷支持和醫學知識等信息服務，提高診療效率和醫療服務質量。
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2（124M）在5B令牌中的質量GPT-2（124M）在5B令牌中的質量
  * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小時完全從0訓練一個僅有26M的小參數GPT，最低僅需2G顯卡即可推理訓練！
+ * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - 一個使用GPT-4、FFmpeg和OpenCV的Python工具，可以自動分析視頻，提取最有趣的部分並對其進行裁剪，以提供更好的觀看體驗。
 
 

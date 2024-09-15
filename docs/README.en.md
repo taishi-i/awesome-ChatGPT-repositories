@@ -15,25 +15,27 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect
- * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 Lobe Vidol - Making Virtual Idols Accessible for EveryOne
- * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness
+**Prompts**
+ * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUI includes Omost,GPT-sovits, ChatTTS, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai/gemini interfaces, such as o1,ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms such as llama/ P
+
+
+**Browser-extensions**
+ * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard
 
 
 **CLIs**
- * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一键配置 ChatGPT Mirai QQ Bot 机器人，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。 🍉 Web UI of ChatGPT Mirai QQ Bot robot, support for multi-instance management, configuration editing, file submission, health check, terminal execution, support for password access.
+ * [Nexior](https://github.com/acedatacloud/nexior) - One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.
 
 
-**Langchain**
- * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
+**NLP**
+ * [empower-functions](https://github.com/empower-ai/empower-functions) - GPT-4 level function calling models for real-world tool using use cases
 
 
 **Others**
- * [minimind](https://github.com/jingyaogong/minimind) - [Large model] Train a small parameter GPT from scratch in just 3 hours, with only 2GB GPU required for inference training!
+ * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
 
 
-_Updated on September 13, 2024_ (A total of 1754 repositories listed.)
+_Updated on September 16, 2024_ (A total of 1759 repositories listed.)
 
 ## Table of contents
 
@@ -260,6 +262,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - A suite of custom nodes for ConfyUI that includes GPT text-prompt generation, LoadVideo, SaveVideo, LoadFramesFromFolder and FrameInterpolator
  * [PromptChains](https://github.com/miatechpartners/promptchains) - Queue up prompts for ChatGPT and Claude for better performance
  * [aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
+ * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUI includes Omost,GPT-sovits, ChatTTS, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai/gemini interfaces, such as o1,ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms such as llama/ P
 
 
 ## Chatbots
@@ -709,6 +712,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ A Copilot Chat experience in Neovim, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI LLMs
  * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/lang
  * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
+ * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard
 
 
 ## CLIs
@@ -838,6 +842,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: Code Less, Make More
  * [ai-digest](https://github.com/khromov/ai-digest) - A CLI tool to aggregate your codebase into a single Markdown file for use with Claude Projects or custom ChatGPTs.
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一键配置 ChatGPT Mirai QQ Bot 机器人，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。 🍉 Web UI of ChatGPT Mirai QQ Bot robot, support for multi-instance management, configuration editing, file submission, health check, terminal execution, support for password access.
+ * [Nexior](https://github.com/acedatacloud/nexior) - One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.
 
 
 ## Reimplementations
@@ -1156,6 +1161,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿Sunsimiao Chinese Medical Large Model: Providing safe, reliable, and inclusive Chinese medical large model.
  * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
  * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Fullstack "Chat with your PDFs" RAG (Retrieval Augmented Generation) app built fully on Cloudflare
+ * [empower-functions](https://github.com/empower-ai/empower-functions) - GPT-4 level function calling models for real-world tool using use cases
 
 
 ## Langchain
@@ -1862,5 +1868,6 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPT is a large model in the medical vertical field based on GPT, aiming to integrate professional medical knowledge, medical information, and data to provide intelligent medical question and answer, diagnostic support, and medical knowledge services for the medical industry, improving diagnostic efficiency and the quality of medical services.
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2 (124M) quality in 5B tokens
  * [minimind](https://github.com/jingyaogong/minimind) - [Large model] Train a small parameter GPT from scratch in just 3 hours, with only 2GB GPU required for inference training!
+ * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
 
 
