@@ -4848,6 +4848,39 @@
                     "zh-hans": "在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪",
                     "zh-hant": "在 VSCode 中征服任何代碼：一鍵註釋、轉換、UI 圖生成代碼、AI 批量處理文件！💪"
                 }
+            },
+            "https://github.com/heshengtao/comfyui_llm_party": {
+                "repository_name": "comfyui_LLM_party",
+                "user_name": "heshengtao",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Dify in ComfyUI includes Omost,GPT-sovits, ChatTTS, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai/gemini interfaces, such as o1,ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms such as llama/ Peach-9B/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG / RAG.",
+                "topics": [
+                    "agent",
+                    "comfyui",
+                    "comfyui-nodes",
+                    "dify",
+                    "flowise",
+                    "gemini",
+                    "gpt-sovits",
+                    "graphrag",
+                    "llama",
+                    "llm",
+                    "macos",
+                    "o1",
+                    "ollama",
+                    "omost",
+                    "openai",
+                    "stable-diffusion",
+                    "window",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Dify in ComfyUI includes Omost,GPT-sovits, ChatTTS, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai/gemini interfaces, such as o1,ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms such as llama/ P",
+                    "ja": "Dify in ComfyUIには、Omost、GPT-sovits、ChatTTS、FLUXプロンプトノードが含まれており、Feishu、discordへのアクセスが可能であり、o1、ollama、qwen、GLM、deepseek、moonshot、doubaoなどの類似したopenai/geminiインターフェースを持つすべてのllmsに適応し、llama/Pなどのローカルllmsにも適応しています。",
+                    "zh-hans": "Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可以访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。",
+                    "zh-hant": "Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。"
+                }
             }
         },
         "Chatbots": {
@@ -15127,6 +15160,31 @@
                     "zh-hans": "鹦鹉.nvim 🦜 - 将随机鹦鹉带入Neovim的插件。这是一个专注于简单性的gp.nvim分支。",
                     "zh-hant": "鸚鵡.nvim 🦜 - 將隨機鸚鵡帶入 Neovim 的插件。這是一個專注於簡潔的 gp.nvim 分支。"
                 }
+            },
+            "https://github.com/alidehbansiahkarbon/chatgptwizard": {
+                "repository_name": "ChatGPTWizard",
+                "user_name": "AliDehbansiahkarbon",
+                "language": "Pascal",
+                "license": "MIT License",
+                "description": "A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "delphi",
+                    "delphinuspackage",
+                    "embarcadero",
+                    "expert",
+                    "openai",
+                    "openai-api",
+                    "plugin",
+                    "radstudio"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard",
+                    "ja": "Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard",
+                    "zh-hans": "Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama(离线)插件。https://getitnow.embarcadero.com/chatgptwizard",
+                    "zh-hant": "Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama（離線）插件。https://getitnow.embarcadero.com/chatgptwizard"
+                }
             }
         },
         "CLIs": {
@@ -17977,6 +18035,30 @@
                     "ja": "🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉",
                     "zh-hans": "🍉 ChatGPT Mirai QQ Bot 机器人的 Web UI 一键配置，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。🍉",
                     "zh-hant": "🍉 Web UI 一鍵配置 ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。🍉 Web UI of ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。"
+                }
+            },
+            "https://github.com/acedatacloud/nexior": {
+                "repository_name": "Nexior",
+                "user_name": "AceDataCloud",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
+                "topics": [
+                    "ai",
+                    "chatdoc",
+                    "gpt",
+                    "luma",
+                    "midjourney",
+                    "platform",
+                    "qrart",
+                    "suno",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.",
+                    "ja": "自分自身のAIアプリケーションWeb UIを展開するためには、1クリックで、GPT、Midjourney、ChatDoc、QrArtを含めて、簡単に利益を得ることができます。",
+                    "zh-hans": "一键部署您自己的AI应用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，轻松赚取利润。",
+                    "zh-hant": "一鍵部署您自己的AI應用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，輕鬆賺取利潤。"
                 }
             }
         },
@@ -24527,6 +24609,26 @@
                     "ja": "Cloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリCloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリ",
                     "zh-hans": "全栈“与您的PDF文件聊天”的RAG（检索增强生成）应用程序完全构建在Cloudflare上",
                     "zh-hant": "全棧“與您的PDF進行聊天”的RAG（檢索增強生成）應用程序完全構建在Cloudflare上"
+                }
+            },
+            "https://github.com/empower-ai/empower-functions": {
+                "repository_name": "empower-functions",
+                "user_name": "empower-ai",
+                "language": "Python",
+                "license": null,
+                "description": "GPT-4 level function calling models for real-world tool using use cases",
+                "topics": [
+                    "ai",
+                    "function-calling",
+                    "llama3",
+                    "llm",
+                    "mixtral"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GPT-4 level function calling models for real-world tool using use cases",
+                    "ja": "実世界のツールを使用するためのGPT-4レベルの関数呼び出しモデル",
+                    "zh-hans": "用于真实世界工具使用案例的GPT-4级功能调用模型",
+                    "zh-hant": "應用於真實世界工具使用案例的GPT-4級別功能調用模型"
                 }
             }
         },
@@ -38669,6 +38771,38 @@
                     "ja": "【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！",
                     "zh-hans": "【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！",
                     "zh-hant": "【大模型】3小時完全從0訓練一個僅有26M的小參數GPT，最低僅需2G顯卡即可推理訓練！"
+                }
+            },
+            "https://github.com/samuraigpt/ai-youtube-shorts-generator": {
+                "repository_name": "AI-Youtube-Shorts-Generator",
+                "user_name": "SamurAIGPT",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.",
+                "topics": [
+                    "ai-video-generator",
+                    "artificial-intelligence",
+                    "image-to-video",
+                    "image-to-video-generation",
+                    "shorts",
+                    "shorts-maker",
+                    "sora-video",
+                    "sora-video-ai",
+                    "stable-diffusion",
+                    "text-to-image",
+                    "text-to-video",
+                    "text-to-video-generation",
+                    "video-diffusion",
+                    "video-editing",
+                    "video-generation",
+                    "video-generator",
+                    "youtube-shorts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.",
+                    "ja": "GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。",
+                    "zh-hans": "一个使用GPT-4、FFmpeg和OpenCV的Python工具，可以自动分析视频，提取最有趣的部分，并裁剪它们以获得更好的观看体验。",
+                    "zh-hant": "一個使用GPT-4、FFmpeg和OpenCV的Python工具，可以自動分析視頻，提取最有趣的部分並對其進行裁剪，以提供更好的觀看體驗。"
                 }
             }
         }

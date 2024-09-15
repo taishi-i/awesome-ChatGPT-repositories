@@ -15,25 +15,27 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、LangGraphを活用し、このツールは仮説の生成、データ分析、可視化、レポート作成を効率化します。完璧
- * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 ロベ・ヴィドル - 仮想アイドルを誰もが利用できるようにする
- * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：オープンソースAIフィードバックを介したMLLMの整列によるSuper GPT-4Vの信頼性
+**Prompts**
+ * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUIには、Omost、GPT-sovits、ChatTTS、FLUXプロンプトノードが含まれており、Feishu、discordへのアクセスが可能であり、o1、ollama、qwen、GLM、deepseek、moonshot、doubaoなどの類似したopenai/geminiインターフェースを持つすべてのllmsに適応し、llama/Pなどのローカルllmsにも適応しています。
+
+
+**Browser-extensions**
+ * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard
 
 
 **CLIs**
- * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉
+ * [Nexior](https://github.com/acedatacloud/nexior) - 自分自身のAIアプリケーションWeb UIを展開するためには、1クリックで、GPT、Midjourney、ChatDoc、QrArtを含めて、簡単に利益を得ることができます。
 
 
-**Langchain**
- * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omniは、Llama-3.1-8B-Instructをベースに構築された低遅延で高品質なエンドツーエンドの音声インタラクションモデルであり、GPT-4oレベルの音声機能を実現することを目指しています。
+**NLP**
+ * [empower-functions](https://github.com/empower-ai/empower-functions) - 実世界のツールを使用するためのGPT-4レベルの関数呼び出しモデル
 
 
 **Others**
- * [minimind](https://github.com/jingyaogong/minimind) - 【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！
+ * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。
 
 
-_Updated on September 13, 2024_ (A total of 1754 repositories listed.)
+_Updated on September 16, 2024_ (A total of 1759 repositories listed.)
 
 ## Table of contents
 
@@ -260,6 +262,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - ConfyUI用のカスタムノードのスイートには、GPTテキストプロンプト生成、LoadVideo、SaveVideo、LoadFramesFromFolder、FrameInterpolatorが含まれています。
  * [PromptChains](https://github.com/miatechpartners/promptchains) - ChatGPTとClaudeのパフォーマンスを向上させるために、プロンプトをキューに並べてください。
  * [aide](https://github.com/nicepkg/aide) - VSCodeでどんなコードでも制覇：ワンクリックコメント、変換、UIからコードへ、ファイルのAIバッチ処理！💪
+ * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUIには、Omost、GPT-sovits、ChatTTS、FLUXプロンプトノードが含まれており、Feishu、discordへのアクセスが可能であり、o1、ollama、qwen、GLM、deepseek、moonshot、doubaoなどの類似したopenai/geminiインターフェースを持つすべてのllmsに適応し、llama/Pなどのローカルllmsにも適応しています。
 
 
 ## Chatbots
@@ -709,6 +712,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ NeovimでのCopilot Chat体験、インラインアシスタント付き。Anthropic、Gemini、Ollama、OpenAI LLMsをサポートします。
  * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant APIは、使用準備が整っており、オープンソースで自己ホスト型のエージェント/gptsオーケストレーション作成フレームワークであり、LLM、RAG、関数呼び出し、およびツールの機能にカスタマイズされた拡張をサポートしています。また、openai/langとのシームレスな統合もサポートしています。
  * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - Input: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.Output: parrot.nvim 🦜 - ネオビムに確率的なオウムをもたらすプラグイン。これはシンプリシティに焦点を当てたgp.nvimのフォークです。
+ * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard
 
 
 ## CLIs
@@ -838,6 +842,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [OpenHands](https://github.com/all-hands-ai/openhands) - 🙌 OpenHands: コードを少なくして、もっと多くを作成します
  * [ai-digest](https://github.com/khromov/ai-digest) - Claude ProjectsやカスタムChatGPTと一緒に使用するためのコードベースを1つのMarkdownファイルに集約するためのCLIツール。
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉
+ * [Nexior](https://github.com/acedatacloud/nexior) - 自分自身のAIアプリケーションWeb UIを展開するためには、1クリックで、GPT、Midjourney、ChatDoc、QrArtを含めて、簡単に利益を得ることができます。
 
 
 ## Reimplementations
@@ -1156,6 +1161,7 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - 🌿孫思邈中文医療大模型(Sunsimiao)：安全で信頼性があり、誰もが利用できる中文医療大模型を提供します。
  * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：GPT-3.5-Turboを凌駕するエッジサイドのLLM。
  * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Cloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリCloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリ
+ * [empower-functions](https://github.com/empower-ai/empower-functions) - 実世界のツールを使用するためのGPT-4レベルの関数呼び出しモデル
 
 
 ## Langchain
@@ -1862,5 +1868,6 @@ _Updated on September 13, 2024_ (A total of 1754 repositories listed.)
  * [WiNGPT2](https://github.com/winninghealth/wingpt2) - WiNGPTは、GPTを基にした医療分野の大規模モデルであり、専門の医学知識、医療情報、データを統合し、医療業界に知識を提供するためのインテリジェントな医療質問、診断支援、医学知識などの情報サービスを提供し、診療効率と医療サービスの質を向上させることを目的としています。
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - 5BトークンでのGPT-2（124M）品質
  * [minimind](https://github.com/jingyaogong/minimind) - 【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！
+ * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。
 
 
