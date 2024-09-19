@@ -15,27 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。
+**Chatbots**
+ * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 在幾分鐘內創建WhatsApp聊天機器人。加入這個開源項目
+ * [hey](https://github.com/lnxpy/hey) - 💬 AI動力對程式設計友！
 
 
-**Browser-extensions**
- * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama（離線）插件。https://getitnow.embarcadero.com/chatgptwizard
+**Reimplementations**
+ * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）Pytorch實現“T2M-GPT：使用離散表示從文本描述生成人類動作”
 
 
-**CLIs**
- * [Nexior](https://github.com/acedatacloud/nexior) - 一鍵部署您自己的AI應用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，輕鬆賺取利潤。
-
-
-**NLP**
- * [empower-functions](https://github.com/empower-ai/empower-functions) - 應用於真實世界工具使用案例的GPT-4級別功能調用模型
+**Langchain**
+ * [text2text](https://github.com/artitw/text2text) - 文本2文本：跨語言自然語言處理/生成工具包
 
 
 **Others**
- * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - 一個使用GPT-4、FFmpeg和OpenCV的Python工具，可以自動分析視頻，提取最有趣的部分並對其進行裁剪，以提供更好的觀看體驗。
+ * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - 一個極簡主義的AI動力搜索引擎，幫助您在互聯網上找到信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini這樣的模型進行搜索！
 
 
-_Updated on September 16, 2024_ (A total of 1759 repositories listed.)
+_Updated on September 20, 2024_ (A total of 1764 repositories listed.)
 
 ## Table of contents
 
@@ -522,6 +519,8 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI驅動的研究助手：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。
  * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 樂比狄爾 - 讓虛擬偶像為每個人所能接觸
  * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：通過開源AI反饋對齊MLLMs，提高Super GPT-4V的可信度
+ * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 在幾分鐘內創建WhatsApp聊天機器人。加入這個開源項目
+ * [hey](https://github.com/lnxpy/hey) - 💬 AI動力對程式設計友！
 
 
 ## Browser-extensions
@@ -878,6 +877,7 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [TextRL](https://github.com/voidful/textrl) - 在huggingface的transformer上實現ChatGPT RLHF（Reinforcement Learning with Human Feedback）在任何生成模型上的應用（blommz-176B/bloom/gpt/bart/T5/MetaICL）
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Video的官方實施：通過更好的字幕改進視頻理解和生成
  * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch 實現 OpenAI GPT-2
+ * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）Pytorch實現“T2M-GPT：使用離散表示從文本描述生成人類動作”
 
 
 ## Tutorials
@@ -1268,6 +1268,7 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - 啟真GPT：一個開源的中文醫療大語言模型
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - 一個在Azure上運行的檢索增強生成模式的TypeScript示例應用程序，使用Azure AI Search進行檢索，並使用Azure OpenAI和LangChain大型語言模型（LLMs）來支持ChatGPT風格和問答體驗。
  * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni是一個建立在Llama-3.1-8B-Instruct基礎上的低延遲和高質量的端到端語音交互模型，旨在實現GPT-4o級別的語音能力。
+ * [text2text](https://github.com/artitw/text2text) - 文本2文本：跨語言自然語言處理/生成工具包
 
 
 ## Unity
@@ -1869,5 +1870,6 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2（124M）在5B令牌中的質量GPT-2（124M）在5B令牌中的質量
  * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小時完全從0訓練一個僅有26M的小參數GPT，最低僅需2G顯卡即可推理訓練！
  * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - 一個使用GPT-4、FFmpeg和OpenCV的Python工具，可以自動分析視頻，提取最有趣的部分並對其進行裁剪，以提供更好的觀看體驗。
+ * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - 一個極簡主義的AI動力搜索引擎，幫助您在互聯網上找到信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini這樣的模型進行搜索！
 
 

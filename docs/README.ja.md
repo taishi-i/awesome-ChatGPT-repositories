@@ -15,27 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUIには、Omost、GPT-sovits、ChatTTS、FLUXプロンプトノードが含まれており、Feishu、discordへのアクセスが可能であり、o1、ollama、qwen、GLM、deepseek、moonshot、doubaoなどの類似したopenai/geminiインターフェースを持つすべてのllmsに適応し、llama/Pなどのローカルllmsにも適応しています。
+**Chatbots**
+ * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖数分でWhatsAppチャットボットを作成します。このオープンソースプロジェクトに参加してください。
+ * [hey](https://github.com/lnxpy/hey) - 💬 AIパワードのペアプログラミングフレンド！
 
 
-**Browser-extensions**
- * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard
+**Reimplementations**
+ * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）テキスト記述からの人間の動きの生成に関する「T2M-GPT」のPytorch実装
 
 
-**CLIs**
- * [Nexior](https://github.com/acedatacloud/nexior) - 自分自身のAIアプリケーションWeb UIを展開するためには、1クリックで、GPT、Midjourney、ChatDoc、QrArtを含めて、簡単に利益を得ることができます。
-
-
-**NLP**
- * [empower-functions](https://github.com/empower-ai/empower-functions) - 実世界のツールを使用するためのGPT-4レベルの関数呼び出しモデル
+**Langchain**
+ * [text2text](https://github.com/artitw/text2text) - テキスト2テキスト：クロスリンガルNLP/Gツールキット
 
 
 **Others**
- * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。
+ * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！
 
 
-_Updated on September 16, 2024_ (A total of 1759 repositories listed.)
+_Updated on September 20, 2024_ (A total of 1764 repositories listed.)
 
 ## Table of contents
 
@@ -522,6 +519,8 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、LangGraphを活用し、このツールは仮説の生成、データ分析、可視化、レポート作成を効率化します。完璧
  * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 ロベ・ヴィドル - 仮想アイドルを誰もが利用できるようにする
  * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：オープンソースAIフィードバックを介したMLLMの整列によるSuper GPT-4Vの信頼性
+ * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖数分でWhatsAppチャットボットを作成します。このオープンソースプロジェクトに参加してください。
+ * [hey](https://github.com/lnxpy/hey) - 💬 AIパワードのペアプログラミングフレンド！
 
 
 ## Browser-extensions
@@ -878,6 +877,7 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [TextRL](https://github.com/voidful/textrl) - huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Videoの公式実装：より良いキャプションでビデオ理解と生成を向上させる
  * [GPT2](https://github.com/affjljoo3581/gpt2) - OpenAI GPT-2のPyTorch実装
+ * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）テキスト記述からの人間の動きの生成に関する「T2M-GPT」のPytorch実装
 
 
 ## Tutorials
@@ -1268,6 +1268,7 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT：オープンソースの中国医療大規模言語モデル｜一个开源的中文医疗大语言模型
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。
  * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omniは、Llama-3.1-8B-Instructをベースに構築された低遅延で高品質なエンドツーエンドの音声インタラクションモデルであり、GPT-4oレベルの音声機能を実現することを目指しています。
+ * [text2text](https://github.com/artitw/text2text) - テキスト2テキスト：クロスリンガルNLP/Gツールキット
 
 
 ## Unity
@@ -1869,5 +1870,6 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - 5BトークンでのGPT-2（124M）品質
  * [minimind](https://github.com/jingyaogong/minimind) - 【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！
  * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。
+ * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！
 
 
