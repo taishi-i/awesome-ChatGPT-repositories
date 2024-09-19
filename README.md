@@ -15,27 +15,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUI includes Omost,GPT-sovits, ChatTTS, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai/gemini interfaces, such as o1,ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms such as llama/ Peach-9B/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG / RAG.
+**Chatbots**
+ * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
+ * [hey](https://github.com/lnxpy/hey) - 💬 AI-Powered Pair Programming Friend!
 
 
-**Browser-extensions**
- * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard
+**Reimplementations**
+ * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - (CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”
 
 
-**CLIs**
- * [Nexior](https://github.com/acedatacloud/nexior) - One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.
-
-
-**NLP**
- * [empower-functions](https://github.com/empower-ai/empower-functions) - GPT-4 level function calling models for real-world tool using use cases
+**Langchain**
+ * [text2text](https://github.com/artitw/text2text) - Text2Text: Crosslingual NLP/G toolkit
 
 
 **Others**
- * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
+ * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!
 
 
-_Updated on September 16, 2024_ (A total of 1759 repositories listed.)
+_Updated on September 20, 2024_ (A total of 1764 repositories listed.)
 
 ## Table of contents
 
@@ -522,6 +519,8 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect for researchers and data scientists seeking to enhance their workflow and productivity.
  * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 Lobe Vidol - Making Virtual Idols Accessible for EveryOne
  * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness
+ * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
+ * [hey](https://github.com/lnxpy/hey) - 💬 AI-Powered Pair Programming Friend!
 
 
 ## Browser-extensions
@@ -878,6 +877,7 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [TextRL](https://github.com/voidful/textrl) - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - An official implementation of ShareGPT4Video: Improving Video Understanding and Generation with Better Captions
  * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch Implementation of OpenAI GPT-2
+ * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - (CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”
 
 
 ## Tutorials
@@ -1268,6 +1268,7 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - QiZhenGPT: An Open Source Chinese Medical Large Language Model｜一个开源的中文医疗大语言模型
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - A TypeScript sample app for the Retrieval Augmented Generation pattern running on Azure, using Azure AI Search for retrieval and Azure OpenAI and LangChain large language models (LLMs) to power ChatGPT-style and Q&A experiences.
  * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
+ * [text2text](https://github.com/artitw/text2text) - Text2Text: Crosslingual NLP/G toolkit
 
 
 ## Unity
@@ -1869,5 +1870,6 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - GPT-2 (124M) quality in 5B tokens
  * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
  * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
+ * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!
 
 

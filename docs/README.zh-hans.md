@@ -15,27 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可以访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。
+**Chatbots**
+ * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 在几分钟内创建WhatsApp聊天机器人。加入这个开源项目
+ * [hey](https://github.com/lnxpy/hey) - 💬 人工智能驱动的编程伙伴！
 
 
-**Browser-extensions**
- * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama(离线)插件。https://getitnow.embarcadero.com/chatgptwizard
+**Reimplementations**
+ * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）Pytorch实现“T2M-GPT：使用离散表示从文本描述生成人体动作”
 
 
-**CLIs**
- * [Nexior](https://github.com/acedatacloud/nexior) - 一键部署您自己的AI应用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，轻松赚取利润。
-
-
-**NLP**
- * [empower-functions](https://github.com/empower-ai/empower-functions) - 用于真实世界工具使用案例的GPT-4级功能调用模型
+**Langchain**
+ * [text2text](https://github.com/artitw/text2text) - 文本2文本：跨语言自然语言处理/生成工具包
 
 
 **Others**
- * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - 一个使用GPT-4、FFmpeg和OpenCV的Python工具，可以自动分析视频，提取最有趣的部分，并裁剪它们以获得更好的观看体验。
+ * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - 一款极简主义的人工智能搜索引擎，帮助您在互联网上查找信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini这样的模型进行搜索！
 
 
-_Updated on September 16, 2024_ (A total of 1759 repositories listed.)
+_Updated on September 20, 2024_ (A total of 1764 repositories listed.)
 
 ## Table of contents
 
@@ -522,6 +519,8 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - AI驱动的研究助手：一种先进的多智能体系统，用于自动化复杂的研究过程。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美。
  * [lobe-vidol](https://github.com/lobehub/lobe-vidol) - 🧸 洛贝维多尔 - 让虚拟偶像为每个人所能接触
  * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：通过开源AI反馈对齐MLLMs，提高Super GPT-4V的可信度
+ * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 在几分钟内创建WhatsApp聊天机器人。加入这个开源项目
+ * [hey](https://github.com/lnxpy/hey) - 💬 人工智能驱动的编程伙伴！
 
 
 ## Browser-extensions
@@ -878,6 +877,7 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [TextRL](https://github.com/voidful/textrl) - 在huggingface的transformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）上实现ChatGPT RLHF（强化学习与人类反馈）。
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Video的官方实现：通过更好的字幕改进视频理解和生成
  * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch实现OpenAI GPT-2
+ * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）Pytorch实现“T2M-GPT：使用离散表示从文本描述生成人体动作”
 
 
 ## Tutorials
@@ -1268,6 +1268,7 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - 启真GPT：一个开源的中文医疗大语言模型
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - 一个在Azure上运行的检索增强生成模式的TypeScript示例应用程序，使用Azure AI Search进行检索，使用Azure OpenAI和LangChain大型语言模型（LLMs）来支持ChatGPT风格和问答体验。
  * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni是一个基于Llama-3.1-8B-Instruct构建的低延迟和高质量的端到端语音交互模型，旨在实现类似于GPT-4o水平的语音能力。
+ * [text2text](https://github.com/artitw/text2text) - 文本2文本：跨语言自然语言处理/生成工具包
 
 
 ## Unity
@@ -1869,5 +1870,6 @@ _Updated on September 16, 2024_ (A total of 1759 repositories listed.)
  * [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - 5B个标记中的GPT-2（124M）质量输出：
  * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
  * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - 一个使用GPT-4、FFmpeg和OpenCV的Python工具，可以自动分析视频，提取最有趣的部分，并裁剪它们以获得更好的观看体验。
+ * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - 一款极简主义的人工智能搜索引擎，帮助您在互联网上查找信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini这样的模型进行搜索！
 
 

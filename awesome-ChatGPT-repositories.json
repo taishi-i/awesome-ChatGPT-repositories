@@ -10977,6 +10977,59 @@
                     "zh-hans": "RLAIF-V：通过开源AI反馈对齐MLLMs，提高Super GPT-4V的可信度",
                     "zh-hant": "RLAIF-V：通過開源AI反饋對齊MLLMs，提高Super GPT-4V的可信度"
                 }
+            },
+            "https://github.com/codigoencasa/builderbot": {
+                "repository_name": "builderbot",
+                "user_name": "codigoencasa",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource",
+                "topics": [
+                    "bot",
+                    "builderboy",
+                    "chatbot",
+                    "chatgpt",
+                    "dialogflow",
+                    "docker",
+                    "hacktoberfest",
+                    "mongodb",
+                    "mysql",
+                    "nodejs",
+                    "openai",
+                    "whatsapp-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource",
+                    "ja": "🤖数分でWhatsAppチャットボットを作成します。このオープンソースプロジェクトに参加してください。",
+                    "zh-hans": "🤖 在几分钟内创建WhatsApp聊天机器人。加入这个开源项目",
+                    "zh-hant": "🤖 在幾分鐘內創建WhatsApp聊天機器人。加入這個開源項目"
+                }
+            },
+            "https://github.com/lnxpy/hey": {
+                "repository_name": "hey",
+                "user_name": "lnxpy",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "💬 AI-Powered Pair Programming Friend!",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "hackathon",
+                    "hashnode",
+                    "hey",
+                    "mindsdb",
+                    "package",
+                    "pypi",
+                    "python",
+                    "python-package"
+                ],
+                "multilingual_descriptions": {
+                    "en": "💬 AI-Powered Pair Programming Friend!",
+                    "ja": "💬 AIパワードのペアプログラミングフレンド！",
+                    "zh-hans": "💬 人工智能驱动的编程伙伴！",
+                    "zh-hant": "💬 AI動力對程式設計友！"
+                }
             }
         },
         "Browser-extensions": {
@@ -18695,6 +18748,24 @@
                     "ja": "OpenAI GPT-2のPyTorch実装",
                     "zh-hans": "PyTorch实现OpenAI GPT-2",
                     "zh-hant": "PyTorch 實現 OpenAI GPT-2"
+                }
+            },
+            "https://github.com/mael-zys/t2m-gpt": {
+                "repository_name": "T2M-GPT",
+                "user_name": "Mael-zys",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "(CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”",
+                "topics": [
+                    "gpt",
+                    "motion-generation",
+                    "vq-vae"
+                ],
+                "multilingual_descriptions": {
+                    "en": "(CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”",
+                    "ja": "（CVPR 2023）テキスト記述からの人間の動きの生成に関する「T2M-GPT」のPytorch実装",
+                    "zh-hans": "（CVPR 2023）Pytorch实现“T2M-GPT：使用离散表示从文本描述生成人体动作”",
+                    "zh-hant": "（CVPR 2023）Pytorch實現“T2M-GPT：使用離散表示從文本描述生成人類動作”"
                 }
             }
         },
@@ -27029,6 +27100,41 @@
                     "ja": "LLaMA-Omniは、Llama-3.1-8B-Instructをベースに構築された低遅延で高品質なエンドツーエンドの音声インタラクションモデルであり、GPT-4oレベルの音声機能を実現することを目指しています。",
                     "zh-hans": "LLaMA-Omni是一个基于Llama-3.1-8B-Instruct构建的低延迟和高质量的端到端语音交互模型，旨在实现类似于GPT-4o水平的语音能力。",
                     "zh-hant": "LLaMA-Omni是一個建立在Llama-3.1-8B-Instruct基礎上的低延遲和高質量的端到端語音交互模型，旨在實現GPT-4o級別的語音能力。"
+                }
+            },
+            "https://github.com/artitw/text2text": {
+                "repository_name": "text2text",
+                "user_name": "artitw",
+                "language": "Python",
+                "license": "Other",
+                "description": "Text2Text: Crosslingual NLP/G toolkit",
+                "topics": [
+                    "backtranslation",
+                    "chatgpt",
+                    "cross-lingual",
+                    "embeddings",
+                    "information-retrieval",
+                    "levenshtein-distance",
+                    "llama",
+                    "llm",
+                    "multi-lingual",
+                    "natural-language-generation",
+                    "natural-language-processing",
+                    "nlp",
+                    "question-answering",
+                    "question-generation",
+                    "search",
+                    "summarization",
+                    "tf-idf",
+                    "tokenizer",
+                    "transformers",
+                    "translator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Text2Text: Crosslingual NLP/G toolkit",
+                    "ja": "テキスト2テキスト：クロスリンガルNLP/Gツールキット",
+                    "zh-hans": "文本2文本：跨语言自然语言处理/生成工具包",
+                    "zh-hant": "文本2文本：跨語言自然語言處理/生成工具包"
                 }
             }
         },
@@ -38803,6 +38909,20 @@
                     "ja": "GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。",
                     "zh-hans": "一个使用GPT-4、FFmpeg和OpenCV的Python工具，可以自动分析视频，提取最有趣的部分，并裁剪它们以获得更好的观看体验。",
                     "zh-hant": "一個使用GPT-4、FFmpeg和OpenCV的Python工具，可以自動分析視頻，提取最有趣的部分並對其進行裁剪，以提供更好的觀看體驗。"
+                }
+            },
+            "https://github.com/zaidmukaddam/miniperplx": {
+                "repository_name": "miniperplx",
+                "user_name": "zaidmukaddam",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A minimalistic AI-powered search engine that helps you find information on the internet. Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A minimalistic AI-powered search engine that helps you find information on the internet. Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!",
+                    "ja": "インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！",
+                    "zh-hans": "一款极简主义的人工智能搜索引擎，帮助您在互联网上查找信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini这样的模型进行搜索！",
+                    "zh-hant": "一個極簡主義的AI動力搜索引擎，幫助您在互聯網上找到信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini這樣的模型進行搜索！"
                 }
             }
         }
