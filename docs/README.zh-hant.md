@@ -16,23 +16,18 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 在幾分鐘內創建WhatsApp聊天機器人。加入這個開源項目
- * [hey](https://github.com/lnxpy/hey) - 💬 AI動力對程式設計友！
-
-
-**Reimplementations**
- * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）Pytorch實現“T2M-GPT：使用離散表示從文本描述生成人類動作”
+ * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - 開源批量自動Gmail創建機器人，使用Selenium和Seleniumwire（Python）。歡迎與我聯繫，涉及Django/Flask、機器學習、人工智慧、GPT、自動化、網絡爬蟲等領域。
 
 
 **Langchain**
- * [text2text](https://github.com/artitw/text2text) - 文本2文本：跨語言自然語言處理/生成工具包
+ * [llama.go](https://github.com/gotzmann/llama.go) - llama.go 就像純粹的 Golang 中的 llama.cpp 一樣！
 
 
 **Others**
- * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - 一個極簡主義的AI動力搜索引擎，幫助您在互聯網上找到信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini這樣的模型進行搜索！
+ * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ 使用ChatGPT、Gitmoji和傳統提交，使提交更加容易 🚀
 
 
-_Updated on September 20, 2024_ (A total of 1764 repositories listed.)
+_Updated on September 23, 2024_ (A total of 1767 repositories listed.)
 
 ## Table of contents
 
@@ -521,6 +516,7 @@ _Updated on September 20, 2024_ (A total of 1764 repositories listed.)
  * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：通過開源AI反饋對齊MLLMs，提高Super GPT-4V的可信度
  * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 在幾分鐘內創建WhatsApp聊天機器人。加入這個開源項目
  * [hey](https://github.com/lnxpy/hey) - 💬 AI動力對程式設計友！
+ * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - 開源批量自動Gmail創建機器人，使用Selenium和Seleniumwire（Python）。歡迎與我聯繫，涉及Django/Flask、機器學習、人工智慧、GPT、自動化、網絡爬蟲等領域。
 
 
 ## Browser-extensions
@@ -1269,6 +1265,7 @@ _Updated on September 20, 2024_ (A total of 1764 repositories listed.)
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - 一個在Azure上運行的檢索增強生成模式的TypeScript示例應用程序，使用Azure AI Search進行檢索，並使用Azure OpenAI和LangChain大型語言模型（LLMs）來支持ChatGPT風格和問答體驗。
  * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni是一個建立在Llama-3.1-8B-Instruct基礎上的低延遲和高質量的端到端語音交互模型，旨在實現GPT-4o級別的語音能力。
  * [text2text](https://github.com/artitw/text2text) - 文本2文本：跨語言自然語言處理/生成工具包
+ * [llama.go](https://github.com/gotzmann/llama.go) - llama.go 就像純粹的 Golang 中的 llama.cpp 一樣！
 
 
 ## Unity
@@ -1871,5 +1868,6 @@ _Updated on September 20, 2024_ (A total of 1764 repositories listed.)
  * [minimind](https://github.com/jingyaogong/minimind) - 【大模型】3小時完全從0訓練一個僅有26M的小參數GPT，最低僅需2G顯卡即可推理訓練！
  * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - 一個使用GPT-4、FFmpeg和OpenCV的Python工具，可以自動分析視頻，提取最有趣的部分並對其進行裁剪，以提供更好的觀看體驗。
  * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - 一個極簡主義的AI動力搜索引擎，幫助您在互聯網上找到信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini這樣的模型進行搜索！
+ * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ 使用ChatGPT、Gitmoji和傳統提交，使提交更加容易 🚀
 
 
