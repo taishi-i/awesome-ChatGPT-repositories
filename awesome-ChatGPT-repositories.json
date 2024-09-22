@@ -11030,6 +11030,40 @@
                     "zh-hans": "💬 人工智能驱动的编程伙伴！",
                     "zh-hant": "💬 AI動力對程式設計友！"
                 }
+            },
+            "https://github.com/ai-to-ai/auto-gmail-creator": {
+                "repository_name": "Auto-Gmail-Creator",
+                "user_name": "ai-to-ai",
+                "language": "Python",
+                "license": null,
+                "description": "Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.",
+                "topics": [
+                    "account",
+                    "auto-create-gmail",
+                    "automation",
+                    "csv",
+                    "gmail",
+                    "gmail-bot",
+                    "google",
+                    "mail",
+                    "pip",
+                    "python",
+                    "python3",
+                    "registeration",
+                    "requests",
+                    "scraping",
+                    "selenium",
+                    "selenium-webdriver",
+                    "seleniumwire",
+                    "sms",
+                    "webdrivermanager"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.",
+                    "ja": "Selenium＆Seleniumwire（Python）を使用したオープンソースの大量自動Gmail作成ボット。Django / Flask、ML、AI、GPT、自動化、スクレイピングに関してはお気軽にお問い合わせください。",
+                    "zh-hans": "使用Selenium和Seleniumwire（Python）的开源批量自动Gmail创建机器人。欢迎与我联系，涉及Django/Flask，机器学习，人工智能，GPT，自动化，网页抓取。",
+                    "zh-hant": "開源批量自動Gmail創建機器人，使用Selenium和Seleniumwire（Python）。歡迎與我聯繫，涉及Django/Flask、機器學習、人工智慧、GPT、自動化、網絡爬蟲等領域。"
+                }
             }
         },
         "Browser-extensions": {
@@ -27136,6 +27170,32 @@
                     "zh-hans": "文本2文本：跨语言自然语言处理/生成工具包",
                     "zh-hant": "文本2文本：跨語言自然語言處理/生成工具包"
                 }
+            },
+            "https://github.com/gotzmann/llama.go": {
+                "repository_name": "llama.go",
+                "user_name": "gotzmann",
+                "language": "Go",
+                "license": "Other",
+                "description": "llama.go is like llama.cpp in pure Golang!",
+                "topics": [
+                    "alpaca",
+                    "chatgpt",
+                    "dalai",
+                    "gpt",
+                    "gpt3",
+                    "gpt4",
+                    "gpt4all",
+                    "llama",
+                    "llama-cpp",
+                    "llm",
+                    "vicuna"
+                ],
+                "multilingual_descriptions": {
+                    "en": "llama.go is similar to llama.cpp but written in pure Golang!",
+                    "ja": "Input: llama.goは純粋なGolangでのllama.cppのようです！Output: llama.goは純粋なGolangでのllama.cppのようです！",
+                    "zh-hans": "llama.go就像纯Go语言中的llama.cpp一样！",
+                    "zh-hant": "llama.go 就像純粹的 Golang 中的 llama.cpp 一樣！"
+                }
             }
         },
         "Unity": {
@@ -38923,6 +38983,20 @@
                     "ja": "インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！",
                     "zh-hans": "一款极简主义的人工智能搜索引擎，帮助您在互联网上查找信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini这样的模型进行搜索！",
                     "zh-hant": "一個極簡主義的AI動力搜索引擎，幫助您在互聯網上找到信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini這樣的模型進行搜索！"
+                }
+            },
+            "https://github.com/insulineru/ai-commit": {
+                "repository_name": "ai-commit",
+                "user_name": "insulineru",
+                "language": "JavaScript",
+                "license": null,
+                "description": "✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀",
+                    "ja": "✨ ChatGPT、Gitmoji、およびConventional Commitsを使用してコミットを簡単に作成しましょう 🚀",
+                    "zh-hans": "✨ 使用ChatGPT，Gitmoji和Conventional Commits使提交更容易 🚀",
+                    "zh-hant": "✨ 使用ChatGPT、Gitmoji和傳統提交，使提交更加容易 🚀"
                 }
             }
         }

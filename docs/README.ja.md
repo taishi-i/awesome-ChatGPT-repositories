@@ -16,23 +16,18 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖数分でWhatsAppチャットボットを作成します。このオープンソースプロジェクトに参加してください。
- * [hey](https://github.com/lnxpy/hey) - 💬 AIパワードのペアプログラミングフレンド！
-
-
-**Reimplementations**
- * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）テキスト記述からの人間の動きの生成に関する「T2M-GPT」のPytorch実装
+ * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - Selenium＆Seleniumwire（Python）を使用したオープンソースの大量自動Gmail作成ボット。Django / Flask、ML、AI、GPT、自動化、スクレイピングに関してはお気軽にお問い合わせください。
 
 
 **Langchain**
- * [text2text](https://github.com/artitw/text2text) - テキスト2テキスト：クロスリンガルNLP/Gツールキット
+ * [llama.go](https://github.com/gotzmann/llama.go) - Input: llama.goは純粋なGolangでのllama.cppのようです！Output: llama.goは純粋なGolangでのllama.cppのようです！
 
 
 **Others**
- * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！
+ * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ ChatGPT、Gitmoji、およびConventional Commitsを使用してコミットを簡単に作成しましょう 🚀
 
 
-_Updated on September 20, 2024_ (A total of 1764 repositories listed.)
+_Updated on September 23, 2024_ (A total of 1767 repositories listed.)
 
 ## Table of contents
 
@@ -521,6 +516,7 @@ _Updated on September 20, 2024_ (A total of 1764 repositories listed.)
  * [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - RLAIF-V：オープンソースAIフィードバックを介したMLLMの整列によるSuper GPT-4Vの信頼性
  * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖数分でWhatsAppチャットボットを作成します。このオープンソースプロジェクトに参加してください。
  * [hey](https://github.com/lnxpy/hey) - 💬 AIパワードのペアプログラミングフレンド！
+ * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - Selenium＆Seleniumwire（Python）を使用したオープンソースの大量自動Gmail作成ボット。Django / Flask、ML、AI、GPT、自動化、スクレイピングに関してはお気軽にお問い合わせください。
 
 
 ## Browser-extensions
@@ -1269,6 +1265,7 @@ _Updated on September 20, 2024_ (A total of 1764 repositories listed.)
  * [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。
  * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omniは、Llama-3.1-8B-Instructをベースに構築された低遅延で高品質なエンドツーエンドの音声インタラクションモデルであり、GPT-4oレベルの音声機能を実現することを目指しています。
  * [text2text](https://github.com/artitw/text2text) - テキスト2テキスト：クロスリンガルNLP/Gツールキット
+ * [llama.go](https://github.com/gotzmann/llama.go) - Input: llama.goは純粋なGolangでのllama.cppのようです！Output: llama.goは純粋なGolangでのllama.cppのようです！
 
 
 ## Unity
@@ -1871,5 +1868,6 @@ _Updated on September 20, 2024_ (A total of 1764 repositories listed.)
  * [minimind](https://github.com/jingyaogong/minimind) - 【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！
  * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。
  * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！
+ * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ ChatGPT、Gitmoji、およびConventional Commitsを使用してコミットを簡単に作成しましょう 🚀
 
 
