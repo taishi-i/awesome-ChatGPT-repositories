@@ -15,19 +15,19 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - Selenium＆Seleniumwire（Python）を使用したオープンソースの大量自動Gmail作成ボット。Django / Flask、ML、AI、GPT、自動化、スクレイピングに関してはお気軽にお問い合わせください。
+**Prompts**
+ * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - このAIスマートスピーカーは音声認識とテキスト読み上げを使用して、OpenAIとエージェントとの音声対話とビジョン機能を可能にします。ユーザーはマイクにプロンプトを話し、プログラムはそのプロンプトをOpenAIに送信して応答を生成します。
 
 
-**Langchain**
- * [llama.go](https://github.com/gotzmann/llama.go) - Input: llama.goは純粋なGolangでのllama.cppのようです！Output: llama.goは純粋なGolangでのllama.cppのようです！
+**Browser-extensions**
+ * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
 
 
 **Others**
- * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ ChatGPT、Gitmoji、およびConventional Commitsを使用してコミットを簡単に作成しましょう 🚀
+ * [show-me](https://github.com/marlaman/show-me) - オープンソースのChatGPT O1に対するビジュアルで透明な代替案
 
 
-_Updated on September 23, 2024_ (A total of 1767 repositories listed.)
+_Updated on September 26, 2024_ (A total of 1770 repositories listed.)
 
 ## Table of contents
 
@@ -255,6 +255,7 @@ _Updated on September 23, 2024_ (A total of 1767 repositories listed.)
  * [PromptChains](https://github.com/miatechpartners/promptchains) - ChatGPTとClaudeのパフォーマンスを向上させるために、プロンプトをキューに並べてください。
  * [aide](https://github.com/nicepkg/aide) - VSCodeでどんなコードでも制覇：ワンクリックコメント、変換、UIからコードへ、ファイルのAIバッチ処理！💪
  * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUIには、Omost、GPT-sovits、ChatTTS、FLUXプロンプトノードが含まれており、Feishu、discordへのアクセスが可能であり、o1、ollama、qwen、GLM、deepseek、moonshot、doubaoなどの類似したopenai/geminiインターフェースを持つすべてのllmsに適応し、llama/Pなどのローカルllmsにも適応しています。
+ * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - このAIスマートスピーカーは音声認識とテキスト読み上げを使用して、OpenAIとエージェントとの音声対話とビジョン機能を可能にします。ユーザーはマイクにプロンプトを話し、プログラムはそのプロンプトをOpenAIに送信して応答を生成します。
 
 
 ## Chatbots
@@ -708,6 +709,7 @@ _Updated on September 23, 2024_ (A total of 1767 repositories listed.)
  * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant APIは、使用準備が整っており、オープンソースで自己ホスト型のエージェント/gptsオーケストレーション作成フレームワークであり、LLM、RAG、関数呼び出し、およびツールの機能にカスタマイズされた拡張をサポートしています。また、openai/langとのシームレスな統合もサポートしています。
  * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - Input: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.Output: parrot.nvim 🦜 - ネオビムに確率的なオウムをもたらすプラグイン。これはシンプリシティに焦点を当てたgp.nvimのフォークです。
  * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard
+ * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
 
 
 ## CLIs
@@ -1869,5 +1871,6 @@ _Updated on September 23, 2024_ (A total of 1767 repositories listed.)
  * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。
  * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！
  * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ ChatGPT、Gitmoji、およびConventional Commitsを使用してコミットを簡単に作成しましょう 🚀
+ * [show-me](https://github.com/marlaman/show-me) - オープンソースのChatGPT O1に対するビジュアルで透明な代替案
 
 

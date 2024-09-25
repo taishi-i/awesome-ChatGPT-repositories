@@ -4881,6 +4881,35 @@
                     "zh-hans": "Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可以访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。",
                     "zh-hant": "Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。"
                 }
+            },
+            "https://github.com/olney1/chatgpt-openai-smart-speaker": {
+                "repository_name": "ChatGPT-OpenAI-Smart-Speaker",
+                "user_name": "Olney1",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "This AI Smart Speaker uses speech recognition and text-to-speech to enable voice-driven conversations and vision capabilities with OpenAI and Agents. The user speaks a prompt into the microphone, and the program sends the prompt to OpenAI to generate a response. The response is then converted to an audio file and played back to the user. ",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "gpt-4",
+                    "langchain",
+                    "langsmith",
+                    "openai",
+                    "smarthome",
+                    "smartspeaker",
+                    "speech-recognition",
+                    "speech-to-text",
+                    "text-to-speech",
+                    "vision"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This AI Smart Speaker uses speech recognition and text-to-speech to enable voice-driven conversations and vision capabilities with OpenAI and Agents. The user speaks a prompt into the microphone, and the program sends the prompt to OpenAI to generate a res",
+                    "ja": "このAIスマートスピーカーは音声認識とテキスト読み上げを使用して、OpenAIとエージェントとの音声対話とビジョン機能を可能にします。ユーザーはマイクにプロンプトを話し、プログラムはそのプロンプトをOpenAIに送信して応答を生成します。",
+                    "zh-hans": "这款AI智能音箱使用语音识别和文本转语音技术，可以实现与OpenAI和代理人的语音驱动对话和视觉功能。用户将提示说入麦克风，程序将提示发送给OpenAI生成一个回答。",
+                    "zh-hant": "這款AI智能音箱使用語音識別和文本轉語音技術，可以進行基於語音的對話和與OpenAI和代理人的視覺功能。用戶將提示說入麥克風，程序將提示發送到OpenAI以生成一個回應。"
+                }
             }
         },
         "Chatbots": {
@@ -15271,6 +15300,41 @@
                     "ja": "Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard",
                     "zh-hans": "Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama(离线)插件。https://getitnow.embarcadero.com/chatgptwizard",
                     "zh-hant": "Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama（離線）插件。https://getitnow.embarcadero.com/chatgptwizard"
+                }
+            },
+            "https://github.com/feder-cr/auto_jobs_applier_aihawk": {
+                "repository_name": "Auto_Jobs_Applier_AIHawk",
+                "user_name": "feder-cr",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.",
+                "topics": [
+                    "application-resume",
+                    "automate",
+                    "automation",
+                    "bot",
+                    "challenge",
+                    "chatgpt",
+                    "chrome",
+                    "gpt",
+                    "job",
+                    "jobsearch",
+                    "jobseeker",
+                    "linkedin-api",
+                    "linkedin-scraper",
+                    "opeai",
+                    "python",
+                    "python3",
+                    "resume",
+                    "scraper",
+                    "scraping",
+                    "selenium"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.",
+                    "ja": "Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。",
+                    "zh-hans": "Auto_Jobs_Applier_AIHawk是一个自动化工作申请流程的工具。利用人工智能，它使用户能够以自动化和个性化的方式申请多个工作机会。",
+                    "zh-hant": "Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。"
                 }
             }
         },
@@ -38997,6 +39061,20 @@
                     "ja": "✨ ChatGPT、Gitmoji、およびConventional Commitsを使用してコミットを簡単に作成しましょう 🚀",
                     "zh-hans": "✨ 使用ChatGPT，Gitmoji和Conventional Commits使提交更容易 🚀",
                     "zh-hant": "✨ 使用ChatGPT、Gitmoji和傳統提交，使提交更加容易 🚀"
+                }
+            },
+            "https://github.com/marlaman/show-me": {
+                "repository_name": "show-me",
+                "user_name": "marlaman",
+                "language": "Python",
+                "license": null,
+                "description": "A visual and transparent alternative to open-source ChatGPT O1",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A visual and transparent alternative to open-source ChatGPT O1",
+                    "ja": "オープンソースのChatGPT O1に対するビジュアルで透明な代替案",
+                    "zh-hans": "一个视觉透明的替代品，用于开源ChatGPT O1",
+                    "zh-hant": "一個視覺透明的替代方案，比開源ChatGPT O1更好。"
                 }
             }
         }

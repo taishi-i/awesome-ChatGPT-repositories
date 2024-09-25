@@ -15,19 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.
+**Prompts**
+ * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - This AI Smart Speaker uses speech recognition and text-to-speech to enable voice-driven conversations and vision capabilities with OpenAI and Agents. The user speaks a prompt into the microphone, and the program sends the prompt to OpenAI to generate a res
 
 
-**Langchain**
- * [llama.go](https://github.com/gotzmann/llama.go) - llama.go is similar to llama.cpp but written in pure Golang!
+**Browser-extensions**
+ * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
 
 
 **Others**
- * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀
+ * [show-me](https://github.com/marlaman/show-me) - A visual and transparent alternative to open-source ChatGPT O1
 
 
-_Updated on September 23, 2024_ (A total of 1767 repositories listed.)
+_Updated on September 26, 2024_ (A total of 1770 repositories listed.)
 
 ## Table of contents
 
@@ -255,6 +255,7 @@ _Updated on September 23, 2024_ (A total of 1767 repositories listed.)
  * [PromptChains](https://github.com/miatechpartners/promptchains) - Queue up prompts for ChatGPT and Claude for better performance
  * [aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
  * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUI includes Omost,GPT-sovits, ChatTTS, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai/gemini interfaces, such as o1,ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms such as llama/ P
+ * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - This AI Smart Speaker uses speech recognition and text-to-speech to enable voice-driven conversations and vision capabilities with OpenAI and Agents. The user speaks a prompt into the microphone, and the program sends the prompt to OpenAI to generate a res
 
 
 ## Chatbots
@@ -708,6 +709,7 @@ _Updated on September 23, 2024_ (A total of 1767 repositories listed.)
  * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - The Open Assistant API is a ready-to-use, open-source, self-hosted agent/gpts orchestration creation framework, supporting customized extensions for LLM, RAG, function call, and tools capabilities. It also supports seamless integration with the openai/lang
  * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
  * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard
+ * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
 
 
 ## CLIs
@@ -1869,5 +1871,6 @@ _Updated on September 23, 2024_ (A total of 1767 repositories listed.)
  * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - A python tool that uses GPT-4, FFmpeg, and OpenCV to automatically analyze videos, extract the most interesting sections, and crop them for an improved viewing experience.
  * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!
  * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀
+ * [show-me](https://github.com/marlaman/show-me) - A visual and transparent alternative to open-source ChatGPT O1
 
 
