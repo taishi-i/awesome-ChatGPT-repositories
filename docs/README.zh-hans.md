@@ -15,19 +15,19 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - 使用Selenium和Seleniumwire（Python）的开源批量自动Gmail创建机器人。欢迎与我联系，涉及Django/Flask，机器学习，人工智能，GPT，自动化，网页抓取。
+**Prompts**
+ * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - 这款AI智能音箱使用语音识别和文本转语音技术，可以实现与OpenAI和代理人的语音驱动对话和视觉功能。用户将提示说入麦克风，程序将提示发送给OpenAI生成一个回答。
 
 
-**Langchain**
- * [llama.go](https://github.com/gotzmann/llama.go) - llama.go就像纯Go语言中的llama.cpp一样！
+**Browser-extensions**
+ * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk是一个自动化工作申请流程的工具。利用人工智能，它使用户能够以自动化和个性化的方式申请多个工作机会。
 
 
 **Others**
- * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ 使用ChatGPT，Gitmoji和Conventional Commits使提交更容易 🚀
+ * [show-me](https://github.com/marlaman/show-me) - 一个视觉透明的替代品，用于开源ChatGPT O1
 
 
-_Updated on September 23, 2024_ (A total of 1767 repositories listed.)
+_Updated on September 26, 2024_ (A total of 1770 repositories listed.)
 
 ## Table of contents
 
@@ -255,6 +255,7 @@ _Updated on September 23, 2024_ (A total of 1767 repositories listed.)
  * [PromptChains](https://github.com/miatechpartners/promptchains) - 为了更好的表现，为ChatGPT和Claude排队提示。
  * [aide](https://github.com/nicepkg/aide) - 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
  * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可以访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。
+ * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - 这款AI智能音箱使用语音识别和文本转语音技术，可以实现与OpenAI和代理人的语音驱动对话和视觉功能。用户将提示说入麦克风，程序将提示发送给OpenAI生成一个回答。
 
 
 ## Chatbots
@@ -708,6 +709,7 @@ _Updated on September 23, 2024_ (A total of 1767 repositories listed.)
  * [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - Open Assistant API是一个即插即用的开源自托管代理/ GPTS编排创建框架，支持LLM、RAG、函数调用和工具功能的定制扩展。它还支持与openai/lang的无缝集成。
  * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - 鹦鹉.nvim 🦜 - 将随机鹦鹉带入Neovim的插件。这是一个专注于简单性的gp.nvim分支。
  * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama(离线)插件。https://getitnow.embarcadero.com/chatgptwizard
+ * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk是一个自动化工作申请流程的工具。利用人工智能，它使用户能够以自动化和个性化的方式申请多个工作机会。
 
 
 ## CLIs
@@ -1869,5 +1871,6 @@ _Updated on September 23, 2024_ (A total of 1767 repositories listed.)
  * [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - 一个使用GPT-4、FFmpeg和OpenCV的Python工具，可以自动分析视频，提取最有趣的部分，并裁剪它们以获得更好的观看体验。
  * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - 一款极简主义的人工智能搜索引擎，帮助您在互联网上查找信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini这样的模型进行搜索！
  * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ 使用ChatGPT，Gitmoji和Conventional Commits使提交更容易 🚀
+ * [show-me](https://github.com/marlaman/show-me) - 一个视觉透明的替代品，用于开源ChatGPT O1
 
 
