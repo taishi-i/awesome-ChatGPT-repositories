@@ -4910,6 +4910,31 @@
                     "zh-hans": "这款AI智能音箱使用语音识别和文本转语音技术，可以实现与OpenAI和代理人的语音驱动对话和视觉功能。用户将提示说入麦克风，程序将提示发送给OpenAI生成一个回答。",
                     "zh-hant": "這款AI智能音箱使用語音識別和文本轉語音技術，可以進行基於語音的對話和與OpenAI和代理人的視覺功能。用戶將提示說入麥克風，程序將提示發送到OpenAI以生成一個回應。"
                 }
+            },
+            "https://github.com/curiousily/ai-bootcamp": {
+                "repository_name": "AI-Bootcamp",
+                "user_name": "curiousily",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "crewai",
+                    "langchain",
+                    "langgraph",
+                    "large-language-models",
+                    "llama",
+                    "machine-learning",
+                    "prompt-engineering",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)",
+                    "ja": "自己ペースのジェネレーティブAIブートキャンプ。MLの基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3＆AIエージェント（CrewAI）に関するチュートリアル。",
+                    "zh-hans": "自主学习的生成式人工智能训练营。关于机器学习基础知识、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。",
+                    "zh-hant": "自主學習的生成式人工智能訓練營。機器學習基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。"
+                }
             }
         },
         "Chatbots": {
@@ -11093,6 +11118,164 @@
                     "zh-hans": "使用Selenium和Seleniumwire（Python）的开源批量自动Gmail创建机器人。欢迎与我联系，涉及Django/Flask，机器学习，人工智能，GPT，自动化，网页抓取。",
                     "zh-hant": "開源批量自動Gmail創建機器人，使用Selenium和Seleniumwire（Python）。歡迎與我聯繫，涉及Django/Flask、機器學習、人工智慧、GPT、自動化、網絡爬蟲等領域。"
                 }
+            },
+            "https://github.com/tiledesk/design-studio": {
+                "repository_name": "design-studio",
+                "user_name": "Tiledesk",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Tiledesk's open-source visual, no-code designer where LLM/GPT AI meets a flexible 'graph' approach. Create conversations and automations effortlessly – a Voiceflow and Botpress alternative.",
+                "topics": [
+                    "automation-tool",
+                    "bot-builder",
+                    "botpress-alternative",
+                    "chatbot-development",
+                    "conversation-designer",
+                    "conversational-ui",
+                    "design-studio",
+                    "github-project",
+                    "github-repository",
+                    "gpt-ai",
+                    "graph-visualization",
+                    "llm",
+                    "multichannel",
+                    "no-code",
+                    "open-source",
+                    "visual-designer",
+                    "voiceflow-alternative"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Tiledesk's open-source visual, no-code designer where LLM/GPT AI meets a flexible 'graph' approach. Create conversations and automations effortlessly – a Voiceflow and Botpress alternative.",
+                    "ja": "Tiledeskのオープンソースのビジュアルで、コード不要のデザイナー。LLM/GPT AIが柔軟な「グラフ」アプローチと出会う場所。会話や自動化を簡単に作成できます - VoiceflowやBotpressの代替手段。",
+                    "zh-hans": "Tiledesk的开源可视化、无代码设计师，LLM/GPT AI与灵活的“图形”方法相结合。轻松创建对话和自动化 - 一种Voiceflow和Botpress的替代方案。",
+                    "zh-hant": "Tiledesk的開源視覺化、無代碼設計工具，LLM/GPT AI與靈活的“圖形”方法相結合。輕鬆創建對話和自動化 - 是Voiceflow和Botpress的替代方案。"
+                }
+            },
+            "https://github.com/sonngdev/chatgpt-voice": {
+                "repository_name": "chatgpt-voice",
+                "user_name": "sonngdev",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Have a conversation with ChatGPT. Casually 🔈 🤖 ⚡️",
+                "topics": [
+                    "chatgpt",
+                    "react",
+                    "speech-to-text",
+                    "text-to-speech",
+                    "typescript",
+                    "vite"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Have a conversation with ChatGPT. Casually 🔈 🤖 ⚡️",
+                    "ja": "ChatGPTと会話をしてください。カジュアルに 🔈 🤖 ⚡️",
+                    "zh-hans": "与ChatGPT进行一次对话。随意🔈 🤖 ⚡️",
+                    "zh-hant": "與ChatGPT隨意地進行對話。 🔈 🤖 ⚡️"
+                }
+            },
+            "https://github.com/xiaoachen98/open-llava-next": {
+                "repository_name": "Open-LLaVA-NeXT",
+                "user_name": "xiaoachen98",
+                "language": "Python",
+                "license": null,
+                "description": "An open-source implementation for training LLaVA-NeXT.",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "gpt-4",
+                    "gpt4o",
+                    "large-multimodal-models",
+                    "llama",
+                    "llama3",
+                    "llava",
+                    "llava-next",
+                    "multi-modality",
+                    "multimodal",
+                    "vision-language-model",
+                    "visual-language-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open-source implementation for training LLaVA-NeXT.",
+                    "ja": "LLaVA-NeXTのトレーニングのためのオープンソース実装。",
+                    "zh-hans": "一个用于训练LLaVA-NeXT的开源实现。",
+                    "zh-hant": "一個用於訓練LLaVA-NeXT的開源實現。"
+                }
+            },
+            "https://github.com/shashankdeshpande/langchain-chatbot": {
+                "repository_name": "langchain-chatbot",
+                "user_name": "shashankdeshpande",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Examples of chatbot implementations with Langchain and Streamlit",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "gpt4o-mini",
+                    "langchain",
+                    "llama3",
+                    "openai-api",
+                    "rag",
+                    "streamlit"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Examples of chatbot implementations with Langchain and Streamlit",
+                    "ja": "LangchainとStreamlitを使用したチャットボットの実装例",
+                    "zh-hans": "使用Langchain和Streamlit实现聊天机器人的示例",
+                    "zh-hant": "使用Langchain和Streamlit實現聊天機器人的示例"
+                }
+            },
+            "https://github.com/weops-lab/opspilot": {
+                "repository_name": "OpsPilot",
+                "user_name": "WeOps-Lab",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "OpsPilot is an open source intelligent operation and maintenance assistant based on deep learning and LLM technology developed by the WeOps team. OpsPilot是WeOps团队开源的一个基于深度学习与LLM技术的智能运维助理",
+                "topics": [
+                    "aiops",
+                    "chatgpt",
+                    "llm",
+                    "rasa"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpsPilot is an open source intelligent operation and maintenance assistant based on deep learning and LLM technology developed by the WeOps team. OpsPilot是WeOps团队开源的一个基于深度学习与LLM技术的智能运维助理",
+                    "ja": "OpsPilotは、WeOpsチームによって開発された深層学習とLLM技術に基づくオープンソースのインテリジェントな運用および保守アシスタントです。OpsPilotはWeOpsチームによって開発されたオープンソースの深層学習とLLM技術に基づく運用および保守アシスタントです。",
+                    "zh-hans": "OpsPilot是WeOps团队开源的一个基于深度学习与LLM技术的智能运维助理。",
+                    "zh-hant": "OpsPilot是WeOps團隊開源的一個基於深度學習與LLM技術的智能運維助理。"
+                }
+            },
+            "https://github.com/zain-ul-din/whatsapp-ai-bot": {
+                "repository_name": "whatsapp-ai-bot",
+                "user_name": "Zain-ul-din",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "This is a WhatsApp AI bot that uses various AI models, including Gemini, GPT, DALL-E, Flux and StabilityAI, to generate responses to user input.",
+                "topics": [
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "chatgpt-4",
+                    "chatgpt-api",
+                    "chatgpt-bot",
+                    "collaborate",
+                    "dalle",
+                    "dreamstudio",
+                    "flux",
+                    "gemini",
+                    "open-source",
+                    "puppeteer",
+                    "stability-ai",
+                    "stable-diffusion",
+                    "whatsapp",
+                    "whatsapp-api",
+                    "whatsapp-bot",
+                    "whatsapp-web",
+                    "whatsapp-web-js"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This is a WhatsApp AI bot that uses various AI models, including Gemini, GPT, DALL-E, Flux and StabilityAI, to generate responses to user input.",
+                    "ja": "これは、Gemini、GPT、DALL-E、Flux、StabilityAIなどさまざまなAIモデルを使用して、ユーザーの入力に応じた応答を生成するWhatsApp AIボットです。",
+                    "zh-hans": "这是一个WhatsApp AI机器人，它使用各种AI模型，包括Gemini、GPT、DALL-E、Flux和StabilityAI，来生成对用户输入的响应。",
+                    "zh-hant": "這是一個 WhatsApp AI 機器人，使用各種 AI 模型，包括 Gemini、GPT、DALL-E、Flux 和 StabilityAI，來生成對用戶輸入的回應。"
+                }
             }
         },
         "Browser-extensions": {
@@ -15335,6 +15518,36 @@
                     "ja": "Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。",
                     "zh-hans": "Auto_Jobs_Applier_AIHawk是一个自动化工作申请流程的工具。利用人工智能，它使用户能够以自动化和个性化的方式申请多个工作机会。",
                     "zh-hant": "Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。"
+                }
+            },
+            "https://github.com/blarc/ai-commits-intellij-plugin": {
+                "repository_name": "ai-commits-intellij-plugin",
+                "user_name": "Blarc",
+                "language": "Kotlin",
+                "license": "MIT License",
+                "description": "AI Commits for IntelliJ based IDEs/Android Studio.",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "commit",
+                    "commit-message",
+                    "gemini",
+                    "generation",
+                    "intellij",
+                    "intellij-plugin",
+                    "jetbrains",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "qianfan"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Commits for IntelliJ based IDEs/Android Studio.",
+                    "ja": "IntelliJベースのIDE / Android Studio向けのAIコミット。IntelliJベースのIDE / Android Studio向けのAIコミット。",
+                    "zh-hans": "基于IntelliJ的IDEs/Android Studio的AI Commits。",
+                    "zh-hant": "AI Commits for IntelliJ based IDEs/Android Studio.人工智慧提交，適用於IntelliJ基於的IDEs/Android Studio。"
                 }
             }
         },
@@ -24798,6 +25011,32 @@
                     "ja": "実世界のツールを使用するためのGPT-4レベルの関数呼び出しモデル",
                     "zh-hans": "用于真实世界工具使用案例的GPT-4级功能调用模型",
                     "zh-hant": "應用於真實世界工具使用案例的GPT-4級別功能調用模型"
+                }
+            },
+            "https://github.com/tianyi-lab/hallusionbench": {
+                "repository_name": "HallusionBench",
+                "user_name": "tianyi-lab",
+                "language": "Python",
+                "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "description": "[CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models",
+                "topics": [
+                    "benchmark",
+                    "benchmarks",
+                    "gpt-4",
+                    "gpt-4v",
+                    "hallucination",
+                    "large-language-models",
+                    "large-vision-language-models",
+                    "llava",
+                    "llm",
+                    "lmm",
+                    "vlms"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models",
+                    "ja": "[CVPR'24] HallusionBench: あなたは何を考えているか見ていますか？それともあなたは何を見ているか考えていますか？GPT-4V(ision)、LLaVA-1.5、および他の多様性モデルに挑戦する画像コンテキスト推論ベンチマーク",
+                    "zh-hans": "[CVPR'24] HallusionBench：你看到的是你想到的吗？还是你想到的是你看到的？一个挑战GPT-4V(ision)、LLaVA-1.5和其他多模态模型的图像-上下文推理基准测试",
+                    "zh-hant": "[CVPR'24] HallusionBench：你看到的是你想到的嗎？還是你想到的是你看到的？一個挑戰GPT-4V(ision)、LLaVA-1.5和其他多模型的圖像-上下文推理基準測試。"
                 }
             }
         },
@@ -39075,6 +39314,45 @@
                     "ja": "オープンソースのChatGPT O1に対するビジュアルで透明な代替案",
                     "zh-hans": "一个视觉透明的替代品，用于开源ChatGPT O1",
                     "zh-hant": "一個視覺透明的替代方案，比開源ChatGPT O1更好。"
+                }
+            },
+            "https://github.com/xyhelper/chatgpt-api-server": {
+                "repository_name": "chatgpt-api-server",
+                "user_name": "xyhelper",
+                "language": "HTML",
+                "license": null,
+                "description": "基于chatgpt官网账号转接对外实现API服务",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Based on the official website account transfer of chatgpt, external API services are implemented.",
+                    "ja": "chatgpt公式ウェブサイトアカウントを使用して外部APIサービスを実現します。",
+                    "zh-hans": "基于chatgpt官网账号转接对外实现API服务",
+                    "zh-hant": "基於chatgpt官網帳號轉接對外實現API服務"
+                }
+            },
+            "https://github.com/ai-shifu/chatall": {
+                "repository_name": "ChatALL",
+                "user_name": "ai-shifu",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": " Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers",
+                "topics": [
+                    "bingchat",
+                    "chatgpt",
+                    "desktop-app",
+                    "electron",
+                    "electron-app",
+                    "linux",
+                    "macos",
+                    "vuejs3",
+                    "vuetify3",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers",
+                    "ja": "ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言などと同時にチャットし、最適な回答を見つける",
+                    "zh-hans": "与ChatGPT、必应聊天、巴德、羊驼、维库纳、克劳德、ChatGLM、MOSS、讯飞星火、文心一言等同时聊天，发现最佳答案。",
+                    "zh-hant": "同時與ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、訊飛星火、文心一言等進行聊天，發現最佳答案。"
                 }
             }
         }

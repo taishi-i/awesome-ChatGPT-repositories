@@ -16,18 +16,32 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - このAIスマートスピーカーは音声認識とテキスト読み上げを使用して、OpenAIとエージェントとの音声対話とビジョン機能を可能にします。ユーザーはマイクにプロンプトを話し、プログラムはそのプロンプトをOpenAIに送信して応答を生成します。
+ * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自己ペースのジェネレーティブAIブートキャンプ。MLの基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3＆AIエージェント（CrewAI）に関するチュートリアル。
+
+
+**Chatbots**
+ * [design-studio](https://github.com/tiledesk/design-studio) - Tiledeskのオープンソースのビジュアルで、コード不要のデザイナー。LLM/GPT AIが柔軟な「グラフ」アプローチと出会う場所。会話や自動化を簡単に作成できます - VoiceflowやBotpressの代替手段。
+ * [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - ChatGPTと会話をしてください。カジュアルに 🔈 🤖 ⚡️
+ * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - LLaVA-NeXTのトレーニングのためのオープンソース実装。
+ * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - LangchainとStreamlitを使用したチャットボットの実装例
+ * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilotは、WeOpsチームによって開発された深層学習とLLM技術に基づくオープンソースのインテリジェントな運用および保守アシスタントです。OpsPilotはWeOpsチームによって開発されたオープンソースの深層学習とLLM技術に基づく運用および保守アシスタントです。
+ * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - これは、Gemini、GPT、DALL-E、Flux、StabilityAIなどさまざまなAIモデルを使用して、ユーザーの入力に応じた応答を生成するWhatsApp AIボットです。
 
 
 **Browser-extensions**
- * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
+ * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - IntelliJベースのIDE / Android Studio向けのAIコミット。IntelliJベースのIDE / Android Studio向けのAIコミット。
+
+
+**NLP**
+ * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: あなたは何を考えているか見ていますか？それともあなたは何を見ているか考えていますか？GPT-4V(ision)、LLaVA-1.5、および他の多様性モデルに挑戦する画像コンテキスト推論ベンチマーク
 
 
 **Others**
- * [show-me](https://github.com/marlaman/show-me) - オープンソースのChatGPT O1に対するビジュアルで透明な代替案
+ * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - chatgpt公式ウェブサイトアカウントを使用して外部APIサービスを実現します。
+ * [ChatALL](https://github.com/ai-shifu/chatall) - ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言などと同時にチャットし、最適な回答を見つける
 
 
-_Updated on September 26, 2024_ (A total of 1770 repositories listed.)
+_Updated on September 30, 2024_ (A total of 1781 repositories listed.)
 
 ## Table of contents
 
@@ -256,6 +270,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [aide](https://github.com/nicepkg/aide) - VSCodeでどんなコードでも制覇：ワンクリックコメント、変換、UIからコードへ、ファイルのAIバッチ処理！💪
  * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUIには、Omost、GPT-sovits、ChatTTS、FLUXプロンプトノードが含まれており、Feishu、discordへのアクセスが可能であり、o1、ollama、qwen、GLM、deepseek、moonshot、doubaoなどの類似したopenai/geminiインターフェースを持つすべてのllmsに適応し、llama/Pなどのローカルllmsにも適応しています。
  * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - このAIスマートスピーカーは音声認識とテキスト読み上げを使用して、OpenAIとエージェントとの音声対話とビジョン機能を可能にします。ユーザーはマイクにプロンプトを話し、プログラムはそのプロンプトをOpenAIに送信して応答を生成します。
+ * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自己ペースのジェネレーティブAIブートキャンプ。MLの基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3＆AIエージェント（CrewAI）に関するチュートリアル。
 
 
 ## Chatbots
@@ -518,6 +533,12 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖数分でWhatsAppチャットボットを作成します。このオープンソースプロジェクトに参加してください。
  * [hey](https://github.com/lnxpy/hey) - 💬 AIパワードのペアプログラミングフレンド！
  * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - Selenium＆Seleniumwire（Python）を使用したオープンソースの大量自動Gmail作成ボット。Django / Flask、ML、AI、GPT、自動化、スクレイピングに関してはお気軽にお問い合わせください。
+ * [design-studio](https://github.com/tiledesk/design-studio) - Tiledeskのオープンソースのビジュアルで、コード不要のデザイナー。LLM/GPT AIが柔軟な「グラフ」アプローチと出会う場所。会話や自動化を簡単に作成できます - VoiceflowやBotpressの代替手段。
+ * [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - ChatGPTと会話をしてください。カジュアルに 🔈 🤖 ⚡️
+ * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - LLaVA-NeXTのトレーニングのためのオープンソース実装。
+ * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - LangchainとStreamlitを使用したチャットボットの実装例
+ * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilotは、WeOpsチームによって開発された深層学習とLLM技術に基づくオープンソースのインテリジェントな運用および保守アシスタントです。OpsPilotはWeOpsチームによって開発されたオープンソースの深層学習とLLM技術に基づく運用および保守アシスタントです。
+ * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - これは、Gemini、GPT、DALL-E、Flux、StabilityAIなどさまざまなAIモデルを使用して、ユーザーの入力に応じた応答を生成するWhatsApp AIボットです。
 
 
 ## Browser-extensions
@@ -710,6 +731,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - Input: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.Output: parrot.nvim 🦜 - ネオビムに確率的なオウムをもたらすプラグイン。これはシンプリシティに焦点を当てたgp.nvimのフォークです。
  * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard
  * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
+ * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - IntelliJベースのIDE / Android Studio向けのAIコミット。IntelliJベースのIDE / Android Studio向けのAIコミット。
 
 
 ## CLIs
@@ -1160,6 +1182,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：GPT-3.5-Turboを凌駕するエッジサイドのLLM。
  * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Cloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリCloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリ
  * [empower-functions](https://github.com/empower-ai/empower-functions) - 実世界のツールを使用するためのGPT-4レベルの関数呼び出しモデル
+ * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: あなたは何を考えているか見ていますか？それともあなたは何を見ているか考えていますか？GPT-4V(ision)、LLaVA-1.5、および他の多様性モデルに挑戦する画像コンテキスト推論ベンチマーク
 
 
 ## Langchain
@@ -1872,5 +1895,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！
  * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ ChatGPT、Gitmoji、およびConventional Commitsを使用してコミットを簡単に作成しましょう 🚀
  * [show-me](https://github.com/marlaman/show-me) - オープンソースのChatGPT O1に対するビジュアルで透明な代替案
+ * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - chatgpt公式ウェブサイトアカウントを使用して外部APIサービスを実現します。
+ * [ChatALL](https://github.com/ai-shifu/chatall) - ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言などと同時にチャットし、最適な回答を見つける
 
 

@@ -16,18 +16,32 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - 這款AI智能音箱使用語音識別和文本轉語音技術，可以進行基於語音的對話和與OpenAI和代理人的視覺功能。用戶將提示說入麥克風，程序將提示發送到OpenAI以生成一個回應。
+ * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自主學習的生成式人工智能訓練營。機器學習基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。
+
+
+**Chatbots**
+ * [design-studio](https://github.com/tiledesk/design-studio) - Tiledesk的開源視覺化、無代碼設計工具，LLM/GPT AI與靈活的“圖形”方法相結合。輕鬆創建對話和自動化 - 是Voiceflow和Botpress的替代方案。
+ * [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - 與ChatGPT隨意地進行對話。 🔈 🤖 ⚡️
+ * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - 一個用於訓練LLaVA-NeXT的開源實現。
+ * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - 使用Langchain和Streamlit實現聊天機器人的示例
+ * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilot是WeOps團隊開源的一個基於深度學習與LLM技術的智能運維助理。
+ * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - 這是一個 WhatsApp AI 機器人，使用各種 AI 模型，包括 Gemini、GPT、DALL-E、Flux 和 StabilityAI，來生成對用戶輸入的回應。
 
 
 **Browser-extensions**
- * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。
+ * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio.人工智慧提交，適用於IntelliJ基於的IDEs/Android Studio。
+
+
+**NLP**
+ * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench：你看到的是你想到的嗎？還是你想到的是你看到的？一個挑戰GPT-4V(ision)、LLaVA-1.5和其他多模型的圖像-上下文推理基準測試。
 
 
 **Others**
- * [show-me](https://github.com/marlaman/show-me) - 一個視覺透明的替代方案，比開源ChatGPT O1更好。
+ * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - 基於chatgpt官網帳號轉接對外實現API服務
+ * [ChatALL](https://github.com/ai-shifu/chatall) - 同時與ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、訊飛星火、文心一言等進行聊天，發現最佳答案。
 
 
-_Updated on September 26, 2024_ (A total of 1770 repositories listed.)
+_Updated on September 30, 2024_ (A total of 1781 repositories listed.)
 
 ## Table of contents
 
@@ -256,6 +270,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [aide](https://github.com/nicepkg/aide) - 在 VSCode 中征服任何代碼：一鍵註釋、轉換、UI 圖生成代碼、AI 批量處理文件！💪
  * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。
  * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - 這款AI智能音箱使用語音識別和文本轉語音技術，可以進行基於語音的對話和與OpenAI和代理人的視覺功能。用戶將提示說入麥克風，程序將提示發送到OpenAI以生成一個回應。
+ * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自主學習的生成式人工智能訓練營。機器學習基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。
 
 
 ## Chatbots
@@ -518,6 +533,12 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 在幾分鐘內創建WhatsApp聊天機器人。加入這個開源項目
  * [hey](https://github.com/lnxpy/hey) - 💬 AI動力對程式設計友！
  * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - 開源批量自動Gmail創建機器人，使用Selenium和Seleniumwire（Python）。歡迎與我聯繫，涉及Django/Flask、機器學習、人工智慧、GPT、自動化、網絡爬蟲等領域。
+ * [design-studio](https://github.com/tiledesk/design-studio) - Tiledesk的開源視覺化、無代碼設計工具，LLM/GPT AI與靈活的“圖形”方法相結合。輕鬆創建對話和自動化 - 是Voiceflow和Botpress的替代方案。
+ * [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - 與ChatGPT隨意地進行對話。 🔈 🤖 ⚡️
+ * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - 一個用於訓練LLaVA-NeXT的開源實現。
+ * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - 使用Langchain和Streamlit實現聊天機器人的示例
+ * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilot是WeOps團隊開源的一個基於深度學習與LLM技術的智能運維助理。
+ * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - 這是一個 WhatsApp AI 機器人，使用各種 AI 模型，包括 Gemini、GPT、DALL-E、Flux 和 StabilityAI，來生成對用戶輸入的回應。
 
 
 ## Browser-extensions
@@ -710,6 +731,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - 鸚鵡.nvim 🦜 - 將隨機鸚鵡帶入 Neovim 的插件。這是一個專注於簡潔的 gp.nvim 分支。
  * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama（離線）插件。https://getitnow.embarcadero.com/chatgptwizard
  * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。
+ * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio.人工智慧提交，適用於IntelliJ基於的IDEs/Android Studio。
 
 
 ## CLIs
@@ -1160,6 +1182,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：一個超越GPT-3.5-Turbo的邊緣LLM。
  * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - 全棧“與您的PDF進行聊天”的RAG（檢索增強生成）應用程序完全構建在Cloudflare上
  * [empower-functions](https://github.com/empower-ai/empower-functions) - 應用於真實世界工具使用案例的GPT-4級別功能調用模型
+ * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench：你看到的是你想到的嗎？還是你想到的是你看到的？一個挑戰GPT-4V(ision)、LLaVA-1.5和其他多模型的圖像-上下文推理基準測試。
 
 
 ## Langchain
@@ -1872,5 +1895,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - 一個極簡主義的AI動力搜索引擎，幫助您在互聯網上找到信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini這樣的模型進行搜索！
  * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ 使用ChatGPT、Gitmoji和傳統提交，使提交更加容易 🚀
  * [show-me](https://github.com/marlaman/show-me) - 一個視覺透明的替代方案，比開源ChatGPT O1更好。
+ * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - 基於chatgpt官網帳號轉接對外實現API服務
+ * [ChatALL](https://github.com/ai-shifu/chatall) - 同時與ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、訊飛星火、文心一言等進行聊天，發現最佳答案。
 
 
