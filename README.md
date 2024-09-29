@@ -16,18 +16,32 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - This AI Smart Speaker uses speech recognition and text-to-speech to enable voice-driven conversations and vision capabilities with OpenAI and Agents. The user speaks a prompt into the microphone, and the program sends the prompt to OpenAI to generate a response. The response is then converted to an audio file and played back to the user.
+ * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)
+
+
+**Chatbots**
+ * [design-studio](https://github.com/tiledesk/design-studio) - Tiledesk's open-source visual, no-code designer where LLM/GPT AI meets a flexible 'graph' approach. Create conversations and automations effortlessly – a Voiceflow and Botpress alternative.
+ * [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - Have a conversation with ChatGPT. Casually 🔈 🤖 ⚡️
+ * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - An open-source implementation for training LLaVA-NeXT.
+ * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - Examples of chatbot implementations with Langchain and Streamlit
+ * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilot is an open source intelligent operation and maintenance assistant based on deep learning and LLM technology developed by the WeOps team. OpsPilot是WeOps团队开源的一个基于深度学习与LLM技术的智能运维助理
+ * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - This is a WhatsApp AI bot that uses various AI models, including Gemini, GPT, DALL-E, Flux and StabilityAI, to generate responses to user input.
 
 
 **Browser-extensions**
- * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
+ * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio.
+
+
+**NLP**
+ * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models
 
 
 **Others**
- * [show-me](https://github.com/marlaman/show-me) - A visual and transparent alternative to open-source ChatGPT O1
+ * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - 基于chatgpt官网账号转接对外实现API服务
+ * [ChatALL](https://github.com/ai-shifu/chatall) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 
 
-_Updated on September 26, 2024_ (A total of 1770 repositories listed.)
+_Updated on September 30, 2024_ (A total of 1781 repositories listed.)
 
 ## Table of contents
 
@@ -256,6 +270,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
  * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUI includes Omost,GPT-sovits, ChatTTS, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai/gemini interfaces, such as o1,ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local llms such as llama/ Peach-9B/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG / RAG.
  * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - This AI Smart Speaker uses speech recognition and text-to-speech to enable voice-driven conversations and vision capabilities with OpenAI and Agents. The user speaks a prompt into the microphone, and the program sends the prompt to OpenAI to generate a response. The response is then converted to an audio file and played back to the user.
+ * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)
 
 
 ## Chatbots
@@ -518,6 +533,12 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [builderbot](https://github.com/codigoencasa/builderbot) - 🤖 Crear Chatbot WhatsApp en minutos. Únete a este proyecto OpenSource
  * [hey](https://github.com/lnxpy/hey) - 💬 AI-Powered Pair Programming Friend!
  * [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - Open Source Bulk Auto Gmail Creator Bot with Selenium & Seleniumwire ( Python ). Feel free to contact me with Django/Flask, ML, AI, GPT, Automation, Scraping.
+ * [design-studio](https://github.com/tiledesk/design-studio) - Tiledesk's open-source visual, no-code designer where LLM/GPT AI meets a flexible 'graph' approach. Create conversations and automations effortlessly – a Voiceflow and Botpress alternative.
+ * [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - Have a conversation with ChatGPT. Casually 🔈 🤖 ⚡️
+ * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - An open-source implementation for training LLaVA-NeXT.
+ * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - Examples of chatbot implementations with Langchain and Streamlit
+ * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilot is an open source intelligent operation and maintenance assistant based on deep learning and LLM technology developed by the WeOps team. OpsPilot是WeOps团队开源的一个基于深度学习与LLM技术的智能运维助理
+ * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - This is a WhatsApp AI bot that uses various AI models, including Gemini, GPT, DALL-E, Flux and StabilityAI, to generate responses to user input.
 
 
 ## Browser-extensions
@@ -710,6 +731,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.
  * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard
  * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
+ * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio.
 
 
 ## CLIs
@@ -1160,6 +1182,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [MiniCPM](https://github.com/openbmb/minicpm) - MiniCPM3-4B：An edge-side LLM that surpasses GPT-3.5-Turbo.
  * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Fullstack "Chat with your PDFs" RAG (Retrieval Augmented Generation) app built fully on Cloudflare
  * [empower-functions](https://github.com/empower-ai/empower-functions) - GPT-4 level function calling models for real-world tool using use cases
+ * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models
 
 
 ## Langchain
@@ -1872,5 +1895,7 @@ _Updated on September 26, 2024_ (A total of 1770 repositories listed.)
  * [miniperplx](https://github.com/zaidmukaddam/miniperplx) - A minimalistic AI-powered search engine that helps you find information on the internet. Search with models like GPT-4o mini, Claude 3.5 Sonnet and o1-mini!
  * [ai-commit](https://github.com/insulineru/ai-commit) - ✨ Make commits easier with ChatGPT, Gitmoji and Conventional Commits 🚀
  * [show-me](https://github.com/marlaman/show-me) - A visual and transparent alternative to open-source ChatGPT O1
+ * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - 基于chatgpt官网账号转接对外实现API服务
+ * [ChatALL](https://github.com/ai-shifu/chatall) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 
 
