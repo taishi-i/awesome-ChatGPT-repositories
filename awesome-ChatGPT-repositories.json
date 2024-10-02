@@ -15549,6 +15549,108 @@
                     "zh-hans": "基于IntelliJ的IDEs/Android Studio的AI Commits。",
                     "zh-hant": "AI Commits for IntelliJ based IDEs/Android Studio.人工智慧提交，適用於IntelliJ基於的IDEs/Android Studio。"
                 }
+            },
+            "https://github.com/huynle/ogpt.nvim": {
+                "repository_name": "ogpt.nvim",
+                "user_name": "huynle",
+                "language": "Lua",
+                "license": "Apache License 2.0",
+                "description": "Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API ",
+                "topics": [
+                    "anthropic",
+                    "assistant",
+                    "chatbot",
+                    "claude",
+                    "gemini",
+                    "huggingface",
+                    "llm",
+                    "lua",
+                    "neovim",
+                    "nvim",
+                    "ollama",
+                    "openai",
+                    "plugin",
+                    "textgenui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API",
+                    "ja": "Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Pluginとチャット：LLM APIを使用した自然な言語生成の手間いらずOllama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovimプラグインとのチャット：LLM APIを使用した自然な言語生成の手間いらず",
+                    "zh-hans": "与Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim插件聊天：使用LLM API轻松生成自然语言",
+                    "zh-hant": "與Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim插件聊天：輕鬆使用LLM API進行自然語言生成"
+                }
+            },
+            "https://github.com/doggy8088/chatgpttoolkitextension": {
+                "repository_name": "ChatGPTToolkitExtension",
+                "user_name": "doggy8088",
+                "language": "JavaScript",
+                "license": null,
+                "description": "提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。",
+                "topics": [
+                    "chrome-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Improve the user experience of ChatGPT, Gemini, Claude, phind, Groq websites by providing some useful features. Such as automatically filling in prompts from URLs and displaying automatic suggestion buttons in the response area.",
+                    "ja": "ChatGPT、Gemini、Claude、phind、Groqのウェブサイトの利用体験を向上させ、便利な機能を提供します。たとえば、URLから自動的に入力するヒントを提供したり、返信する際に自動的にヒントボタンが表示されるようにします。",
+                    "zh-hans": "提升ChatGPT、Gemini、Claude、phind、Groq网站的使用体验，提供一些好用功能。比如自动从URL填入提示，在回应的地方出现自动提示按钮。",
+                    "zh-hant": "提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。"
+                }
+            },
+            "https://github.com/mamei16/llm_web_search": {
+                "repository_name": "LLM_Web_search",
+                "user_name": "mamei16",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "An extension for  oobabooga/text-generation-webui that enables the LLM to search the web using DuckDuckGo",
+                "topics": [
+                    "chatgpt",
+                    "duckduckgo",
+                    "faiss",
+                    "gpt",
+                    "langchain",
+                    "llm",
+                    "llms",
+                    "oobabooga",
+                    "rag",
+                    "text-generation-webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An extension for  oobabooga/text-generation-webui that enables the LLM to search the web using DuckDuckGo",
+                    "ja": "DuckDuckGoを使用してLLMがウェブを検索できるようにするoobabooga/text-generation-webuiの拡張機能",
+                    "zh-hans": "一个为oobabooga/text-generation-webui提供的扩展，使LLM能够使用DuckDuckGo搜索网络。",
+                    "zh-hant": "一個為oobabooga/text-generation-webui擴展的功能，使LLM能夠使用DuckDuckGo搜索網絡。"
+                }
+            },
+            "https://github.com/devoxx/devoxxgenieideaplugin": {
+                "repository_name": "DevoxxGenieIDEAPlugin",
+                "user_name": "devoxx",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Llama.cpp and Exo) and Cloud based LLMs to help review, test, explain your project code.",
+                "topics": [
+                    "anthropic",
+                    "assistant",
+                    "chatgpt",
+                    "claude-3",
+                    "claude-ai",
+                    "copilot",
+                    "gemini",
+                    "genai",
+                    "gpt4all",
+                    "groq",
+                    "intellij-plugin",
+                    "java",
+                    "llm",
+                    "lmstudio",
+                    "mistral",
+                    "ollama",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Llama.cpp and Exo) and Cloud based LLMs to help review, test, explain your project code.",
+                    "ja": "DevoxxGenieは、IntelliJ IDEA用のプラグインで、ローカルLLM（Ollama、LMStudio、GPT4All、Llama.cpp、Exo）とクラウドベースのLLMを使用して、プロジェクトコードのレビュー、テスト、説明を支援します。",
+                    "zh-hans": "DevoxxGenie是IntelliJ IDEA的插件，使用本地LLM（Ollama、LMStudio、GPT4All、Llama.cpp和Exo）和基于云的LLM来帮助审查、测试、解释您的项目代码。",
+                    "zh-hant": "DevoxxGenie 是一個用於 IntelliJ IDEA 的插件，使用本地的 LLM（Ollama、LMStudio、GPT4All、Llama.cpp 和 Exo）和基於雲端的 LLM 來幫助審查、測試、解釋您的項目代碼。"
+                }
             }
         },
         "CLIs": {
@@ -25038,6 +25140,57 @@
                     "zh-hans": "[CVPR'24] HallusionBench：你看到的是你想到的吗？还是你想到的是你看到的？一个挑战GPT-4V(ision)、LLaVA-1.5和其他多模态模型的图像-上下文推理基准测试",
                     "zh-hant": "[CVPR'24] HallusionBench：你看到的是你想到的嗎？還是你想到的是你看到的？一個挑戰GPT-4V(ision)、LLaVA-1.5和其他多模型的圖像-上下文推理基準測試。"
                 }
+            },
+            "https://github.com/abinthomasonline/repo2txt": {
+                "repository_name": "repo2txt",
+                "user_name": "abinthomasonline",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Web-based tool converts GitHub repository contents into a single formatted text file",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "chatgpt",
+                    "developer-tools",
+                    "devtools",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Web-based tool converts GitHub repository contents into a single formatted text file",
+                    "ja": "Webベースのツールは、GitHubリポジトリの内容を1つのフォーマットされたテキストファイルに変換します。",
+                    "zh-hans": "基于网络的工具将GitHub存储库内容转换为单个格式化文本文件。",
+                    "zh-hant": "基於網頁的工具將GitHub存儲庫內容轉換為單個格式化文本文件"
+                }
+            },
+            "https://github.com/bigcode-project/bigcodebench": {
+                "repository_name": "bigcodebench",
+                "user_name": "bigcode-project",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "BigCodeBench: Benchmarking Code Generation Towards AGI",
+                "topics": [
+                    "agent",
+                    "agents",
+                    "benchmark",
+                    "chatgpt",
+                    "claude-3",
+                    "code-generation",
+                    "deepseek",
+                    "function-calling",
+                    "gemini",
+                    "gpt-4",
+                    "instruction-following",
+                    "large-language-models",
+                    "llm",
+                    "program-synthesis",
+                    "tool-use"
+                ],
+                "multilingual_descriptions": {
+                    "en": "BigCodeBench: Benchmarking Code Generation Towards AGI",
+                    "ja": "BigCodeBench：AGIに向けたコード生成のベンチマーク化",
+                    "zh-hans": "BigCodeBench：基准测试代码生成朝向AGI",
+                    "zh-hant": "BigCodeBench：基於AGI的代碼生成基準测试"
+                }
             }
         },
         "Langchain": {
@@ -31619,6 +31772,51 @@
                     "ja": "Pet-GPTは、PyQtで書かれたデスクトップペットプログラムで、OpenAIのGPTを呼び出してコンテキスト対話を行い、その後自分からチャットを始めます！",
                     "zh-hans": "Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！",
                     "zh-hant": "Pet-GPT 是一個使用 PyQt 編寫的桌面寵物程序，支持調用 OpenAI 的 GPT 進行上下文對話，然後主動找你聊天！"
+                }
+            },
+            "https://github.com/hyk260/purechat": {
+                "repository_name": "PureChat",
+                "user_name": "Hyk260",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3 ，Vite5，Electron开发",
+                "topics": [
+                    "chatgpt",
+                    "electron",
+                    "element-plus",
+                    "javascript",
+                    "openai",
+                    "tailwindcss",
+                    "vercel",
+                    "vite",
+                    "vue3",
+                    "wangeditor5"
+                ],
+                "multilingual_descriptions": {
+                    "en": "PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3 ，Vite5，Electron开发",
+                    "ja": "PureChatは、ChatGPTを統合したチャットアプリであり、Vue3、Vite5、Electronで開発されています。",
+                    "zh-hans": "PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3，Vite5，Electron 开发。",
+                    "zh-hant": "PureChat 是一個整合 ChatGPT 的聊天應用程式，基於 Vue3，Vite5，Electron 開發。"
+                }
+            },
+            "https://github.com/kingnish24/opengpt-4o": {
+                "repository_name": "OpenGPT-4o",
+                "user_name": "KingNish24",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "OpenGPT 4o is a free alternative to OpenAI GPT 4o",
+                "topics": [
+                    "ai",
+                    "gpt4all",
+                    "gpt4free",
+                    "gpt4o",
+                    "open-source"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenGPT 4o is a free alternative to OpenAI GPT 4o",
+                    "ja": "Input: OpenGPT 4oはOpenAI GPT 4oの無料の代替品です。",
+                    "zh-hans": "OpenGPT 4o是OpenAI GPT 4o的免费替代品。",
+                    "zh-hant": "OpenGPT 4o 是 OpenAI GPT 4o 的免費替代方案。"
                 }
             }
         },

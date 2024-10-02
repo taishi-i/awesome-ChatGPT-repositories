@@ -15,33 +15,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)
-
-
-**Chatbots**
- * [design-studio](https://github.com/tiledesk/design-studio) - Tiledesk's open-source visual, no-code designer where LLM/GPT AI meets a flexible 'graph' approach. Create conversations and automations effortlessly – a Voiceflow and Botpress alternative.
- * [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - Have a conversation with ChatGPT. Casually 🔈 🤖 ⚡️
- * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - An open-source implementation for training LLaVA-NeXT.
- * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - Examples of chatbot implementations with Langchain and Streamlit
- * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilot is an open source intelligent operation and maintenance assistant based on deep learning and LLM technology developed by the WeOps team. OpsPilot是WeOps团队开源的一个基于深度学习与LLM技术的智能运维助理
- * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - This is a WhatsApp AI bot that uses various AI models, including Gemini, GPT, DALL-E, Flux and StabilityAI, to generate responses to user input.
-
-
 **Browser-extensions**
- * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio.
+ * [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API
+ * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - Improve the user experience of ChatGPT, Gemini, Claude, phind, Groq websites by providing some useful features. Such as automatically filling in prompts from URLs and displaying automatic suggestion buttons in the response area.
+ * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - An extension for  oobabooga/text-generation-webui that enables the LLM to search the web using DuckDuckGo
+ * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Llama.cpp and Exo) and Cloud based LLMs to help review, test, explain your project code.
 
 
 **NLP**
- * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models
+ * [repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
+ * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench: Benchmarking Code Generation Towards AGI
 
 
-**Others**
- * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - Based on the official website account transfer of chatgpt, external API services are implemented.
- * [ChatALL](https://github.com/ai-shifu/chatall) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+**Openai**
+ * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3 ，Vite5，Electron开发
+ * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o is a free alternative to OpenAI GPT 4o
 
 
-_Updated on September 30, 2024_ (A total of 1781 repositories listed.)
+_Updated on October 03, 2024_ (A total of 1789 repositories listed.)
 
 ## Table of contents
 
@@ -732,6 +723,10 @@ _Updated on September 30, 2024_ (A total of 1781 repositories listed.)
  * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard
  * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized way.
  * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio.
+ * [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - Chat with Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Plugin: Effortless Natural Language Generation with LLM API
+ * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - Improve the user experience of ChatGPT, Gemini, Claude, phind, Groq websites by providing some useful features. Such as automatically filling in prompts from URLs and displaying automatic suggestion buttons in the response area.
+ * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - An extension for  oobabooga/text-generation-webui that enables the LLM to search the web using DuckDuckGo
+ * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Llama.cpp and Exo) and Cloud based LLMs to help review, test, explain your project code.
 
 
 ## CLIs
@@ -1183,6 +1178,8 @@ _Updated on September 30, 2024_ (A total of 1781 repositories listed.)
  * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Fullstack "Chat with your PDFs" RAG (Retrieval Augmented Generation) app built fully on Cloudflare
  * [empower-functions](https://github.com/empower-ai/empower-functions) - GPT-4 level function calling models for real-world tool using use cases
  * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models
+ * [repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
+ * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench: Benchmarking Code Generation Towards AGI
 
 
 ## Langchain
@@ -1486,6 +1483,8 @@ _Updated on September 30, 2024_ (A total of 1781 repositories listed.)
  * [whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface
  * [sum4all](https://github.com/fatwang2/sum4all) - Summary of large models for web pages, videos, and images.
  * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT is a desktop pet program written in PyQt, which supports calling OpenAI's GPT for context-based conversations, and then actively chats with you!
+ * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3 ，Vite5，Electron开发
+ * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o is a free alternative to OpenAI GPT 4o
 
 
 ## Others
