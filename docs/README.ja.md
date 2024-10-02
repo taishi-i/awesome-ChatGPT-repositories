@@ -15,33 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自己ペースのジェネレーティブAIブートキャンプ。MLの基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3＆AIエージェント（CrewAI）に関するチュートリアル。
-
-
-**Chatbots**
- * [design-studio](https://github.com/tiledesk/design-studio) - Tiledeskのオープンソースのビジュアルで、コード不要のデザイナー。LLM/GPT AIが柔軟な「グラフ」アプローチと出会う場所。会話や自動化を簡単に作成できます - VoiceflowやBotpressの代替手段。
- * [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - ChatGPTと会話をしてください。カジュアルに 🔈 🤖 ⚡️
- * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - LLaVA-NeXTのトレーニングのためのオープンソース実装。
- * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - LangchainとStreamlitを使用したチャットボットの実装例
- * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilotは、WeOpsチームによって開発された深層学習とLLM技術に基づくオープンソースのインテリジェントな運用および保守アシスタントです。OpsPilotはWeOpsチームによって開発されたオープンソースの深層学習とLLM技術に基づく運用および保守アシスタントです。
- * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - これは、Gemini、GPT、DALL-E、Flux、StabilityAIなどさまざまなAIモデルを使用して、ユーザーの入力に応じた応答を生成するWhatsApp AIボットです。
-
-
 **Browser-extensions**
- * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - IntelliJベースのIDE / Android Studio向けのAIコミット。IntelliJベースのIDE / Android Studio向けのAIコミット。
+ * [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Pluginとチャット：LLM APIを使用した自然な言語生成の手間いらずOllama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovimプラグインとのチャット：LLM APIを使用した自然な言語生成の手間いらず
+ * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - ChatGPT、Gemini、Claude、phind、Groqのウェブサイトの利用体験を向上させ、便利な機能を提供します。たとえば、URLから自動的に入力するヒントを提供したり、返信する際に自動的にヒントボタンが表示されるようにします。
+ * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - DuckDuckGoを使用してLLMがウェブを検索できるようにするoobabooga/text-generation-webuiの拡張機能
+ * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenieは、IntelliJ IDEA用のプラグインで、ローカルLLM（Ollama、LMStudio、GPT4All、Llama.cpp、Exo）とクラウドベースのLLMを使用して、プロジェクトコードのレビュー、テスト、説明を支援します。
 
 
 **NLP**
- * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: あなたは何を考えているか見ていますか？それともあなたは何を見ているか考えていますか？GPT-4V(ision)、LLaVA-1.5、および他の多様性モデルに挑戦する画像コンテキスト推論ベンチマーク
+ * [repo2txt](https://github.com/abinthomasonline/repo2txt) - Webベースのツールは、GitHubリポジトリの内容を1つのフォーマットされたテキストファイルに変換します。
+ * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench：AGIに向けたコード生成のベンチマーク化
 
 
-**Others**
- * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - chatgpt公式ウェブサイトアカウントを使用して外部APIサービスを実現します。
- * [ChatALL](https://github.com/ai-shifu/chatall) - ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言などと同時にチャットし、最適な回答を見つける
+**Openai**
+ * [PureChat](https://github.com/hyk260/purechat) - PureChatは、ChatGPTを統合したチャットアプリであり、Vue3、Vite5、Electronで開発されています。
+ * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - Input: OpenGPT 4oはOpenAI GPT 4oの無料の代替品です。
 
 
-_Updated on September 30, 2024_ (A total of 1781 repositories listed.)
+_Updated on October 03, 2024_ (A total of 1789 repositories listed.)
 
 ## Table of contents
 
@@ -732,6 +723,10 @@ _Updated on September 30, 2024_ (A total of 1781 repositories listed.)
  * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard
  * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
  * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - IntelliJベースのIDE / Android Studio向けのAIコミット。IntelliJベースのIDE / Android Studio向けのAIコミット。
+ * [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Pluginとチャット：LLM APIを使用した自然な言語生成の手間いらずOllama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovimプラグインとのチャット：LLM APIを使用した自然な言語生成の手間いらず
+ * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - ChatGPT、Gemini、Claude、phind、Groqのウェブサイトの利用体験を向上させ、便利な機能を提供します。たとえば、URLから自動的に入力するヒントを提供したり、返信する際に自動的にヒントボタンが表示されるようにします。
+ * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - DuckDuckGoを使用してLLMがウェブを検索できるようにするoobabooga/text-generation-webuiの拡張機能
+ * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenieは、IntelliJ IDEA用のプラグインで、ローカルLLM（Ollama、LMStudio、GPT4All、Llama.cpp、Exo）とクラウドベースのLLMを使用して、プロジェクトコードのレビュー、テスト、説明を支援します。
 
 
 ## CLIs
@@ -1183,6 +1178,8 @@ _Updated on September 30, 2024_ (A total of 1781 repositories listed.)
  * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - Cloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリCloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリ
  * [empower-functions](https://github.com/empower-ai/empower-functions) - 実世界のツールを使用するためのGPT-4レベルの関数呼び出しモデル
  * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: あなたは何を考えているか見ていますか？それともあなたは何を見ているか考えていますか？GPT-4V(ision)、LLaVA-1.5、および他の多様性モデルに挑戦する画像コンテキスト推論ベンチマーク
+ * [repo2txt](https://github.com/abinthomasonline/repo2txt) - Webベースのツールは、GitHubリポジトリの内容を1つのフォーマットされたテキストファイルに変換します。
+ * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench：AGIに向けたコード生成のベンチマーク化
 
 
 ## Langchain
@@ -1486,6 +1483,8 @@ _Updated on September 30, 2024_ (A total of 1781 repositories listed.)
  * [whodb](https://github.com/clidey/whodb) - 軽量な次世代データエクスプローラー - Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB＆Elastic Searchとチャットインターフェース
  * [sum4all](https://github.com/fatwang2/sum4all) - ウェブページ、ビデオ、画像の大規模モデルの要約
  * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPTは、PyQtで書かれたデスクトップペットプログラムで、OpenAIのGPTを呼び出してコンテキスト対話を行い、その後自分からチャットを始めます！
+ * [PureChat](https://github.com/hyk260/purechat) - PureChatは、ChatGPTを統合したチャットアプリであり、Vue3、Vite5、Electronで開発されています。
+ * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - Input: OpenGPT 4oはOpenAI GPT 4oの無料の代替品です。
 
 
 ## Others

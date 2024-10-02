@@ -15,33 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自主學習的生成式人工智能訓練營。機器學習基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。
-
-
-**Chatbots**
- * [design-studio](https://github.com/tiledesk/design-studio) - Tiledesk的開源視覺化、無代碼設計工具，LLM/GPT AI與靈活的“圖形”方法相結合。輕鬆創建對話和自動化 - 是Voiceflow和Botpress的替代方案。
- * [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - 與ChatGPT隨意地進行對話。 🔈 🤖 ⚡️
- * [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - 一個用於訓練LLaVA-NeXT的開源實現。
- * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - 使用Langchain和Streamlit實現聊天機器人的示例
- * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilot是WeOps團隊開源的一個基於深度學習與LLM技術的智能運維助理。
- * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - 這是一個 WhatsApp AI 機器人，使用各種 AI 模型，包括 Gemini、GPT、DALL-E、Flux 和 StabilityAI，來生成對用戶輸入的回應。
-
-
 **Browser-extensions**
- * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio.人工智慧提交，適用於IntelliJ基於的IDEs/Android Studio。
+ * [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - 與Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim插件聊天：輕鬆使用LLM API進行自然語言生成
+ * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - 提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
+ * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - 一個為oobabooga/text-generation-webui擴展的功能，使LLM能夠使用DuckDuckGo搜索網絡。
+ * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie 是一個用於 IntelliJ IDEA 的插件，使用本地的 LLM（Ollama、LMStudio、GPT4All、Llama.cpp 和 Exo）和基於雲端的 LLM 來幫助審查、測試、解釋您的項目代碼。
 
 
 **NLP**
- * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench：你看到的是你想到的嗎？還是你想到的是你看到的？一個挑戰GPT-4V(ision)、LLaVA-1.5和其他多模型的圖像-上下文推理基準測試。
+ * [repo2txt](https://github.com/abinthomasonline/repo2txt) - 基於網頁的工具將GitHub存儲庫內容轉換為單個格式化文本文件
+ * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench：基於AGI的代碼生成基準测试
 
 
-**Others**
- * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - 基於chatgpt官網帳號轉接對外實現API服務
- * [ChatALL](https://github.com/ai-shifu/chatall) - 同時與ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、訊飛星火、文心一言等進行聊天，發現最佳答案。
+**Openai**
+ * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一個整合 ChatGPT 的聊天應用程式，基於 Vue3，Vite5，Electron 開發。
+ * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o 是 OpenAI GPT 4o 的免費替代方案。
 
 
-_Updated on September 30, 2024_ (A total of 1781 repositories listed.)
+_Updated on October 03, 2024_ (A total of 1789 repositories listed.)
 
 ## Table of contents
 
@@ -732,6 +723,10 @@ _Updated on September 30, 2024_ (A total of 1781 repositories listed.)
  * [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - Embarcadero RAD Studio IDE XE5至12.1的ChatGPT、WriteSonic、YouChat和Ollama（離線）插件。https://getitnow.embarcadero.com/chatgptwizard
  * [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作機會。
  * [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - AI Commits for IntelliJ based IDEs/Android Studio.人工智慧提交，適用於IntelliJ基於的IDEs/Android Studio。
+ * [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - 與Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim插件聊天：輕鬆使用LLM API進行自然語言生成
+ * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - 提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
+ * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - 一個為oobabooga/text-generation-webui擴展的功能，使LLM能夠使用DuckDuckGo搜索網絡。
+ * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie 是一個用於 IntelliJ IDEA 的插件，使用本地的 LLM（Ollama、LMStudio、GPT4All、Llama.cpp 和 Exo）和基於雲端的 LLM 來幫助審查、測試、解釋您的項目代碼。
 
 
 ## CLIs
@@ -1183,6 +1178,8 @@ _Updated on September 30, 2024_ (A total of 1781 repositories listed.)
  * [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - 全棧“與您的PDF進行聊天”的RAG（檢索增強生成）應用程序完全構建在Cloudflare上
  * [empower-functions](https://github.com/empower-ai/empower-functions) - 應用於真實世界工具使用案例的GPT-4級別功能調用模型
  * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench：你看到的是你想到的嗎？還是你想到的是你看到的？一個挑戰GPT-4V(ision)、LLaVA-1.5和其他多模型的圖像-上下文推理基準測試。
+ * [repo2txt](https://github.com/abinthomasonline/repo2txt) - 基於網頁的工具將GitHub存儲庫內容轉換為單個格式化文本文件
+ * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench：基於AGI的代碼生成基準测试
 
 
 ## Langchain
@@ -1486,6 +1483,8 @@ _Updated on September 30, 2024_ (A total of 1781 repositories listed.)
  * [whodb](https://github.com/clidey/whodb) - 一款輕量級的下一代數據探索器 - 支持Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB和Elastic Search，並帶有聊天界面。
  * [sum4all](https://github.com/fatwang2/sum4all) - 網頁、視頻、圖片大模型總結
  * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一個使用 PyQt 編寫的桌面寵物程序，支持調用 OpenAI 的 GPT 進行上下文對話，然後主動找你聊天！
+ * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一個整合 ChatGPT 的聊天應用程式，基於 Vue3，Vite5，Electron 開發。
+ * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o 是 OpenAI GPT 4o 的免費替代方案。
 
 
 ## Others
