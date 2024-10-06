@@ -15,24 +15,29 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - 與Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim插件聊天：輕鬆使用LLM API進行自然語言生成
- * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - 提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
- * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - 一個為oobabooga/text-generation-webui擴展的功能，使LLM能夠使用DuckDuckGo搜索網絡。
- * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie 是一個用於 IntelliJ IDEA 的插件，使用本地的 LLM（Ollama、LMStudio、GPT4All、Llama.cpp 和 Exo）和基於雲端的 LLM 來幫助審查、測試、解釋您的項目代碼。
+**Prompts**
+ * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - 快速的ChatGPT UI，支持OpenAI和Azure OpenAI。
+ * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 該項目包括一個基於 GPT 等大語言模型的長篇小說生成器，同時還有各類小說生成 Prompt 以及教程。我們歡迎社區貢獻，持續更新以提供最佳的小說創作體驗。
 
 
-**NLP**
- * [repo2txt](https://github.com/abinthomasonline/repo2txt) - 基於網頁的工具將GitHub存儲庫內容轉換為單個格式化文本文件
- * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench：基於AGI的代碼生成基準测试
+**Chatbots**
+ * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Box利用微軟在全球的專業知識，為技術社區開發和提供人工智能和機器學習解決方案。我們的目的是提供一系列經過精心挑選的解決方案加速器，幫助工程師建立他們的人工智能/機器學習。
+ * [Starmoon](https://github.com/starmoonai/starmoon) - 一個開源的語音啟用、緊湊、具有共情能力的人工智慧硬體+軟體🤖框架，用於陪伴、娛樂、教育、兒科護理、物聯網機器人應用、AI增強機器人應用服務、研究和DIY機器人套件開發。
+
+
+**CLIs**
+ * [aider](https://github.com/aider-ai/aider) - 輔助者是您終端機中的AI對程式設計。
 
 
 **Openai**
- * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一個整合 ChatGPT 的聊天應用程式，基於 Vue3，Vite5，Electron 開發。
- * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o 是 OpenAI GPT 4o 的免費替代方案。
+ * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - 使用Azure OpenAI代碼資源來使用gpt-4o實時功能。
 
 
-_Updated on October 03, 2024_ (A total of 1789 repositories listed.)
+**Others**
+ * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 樣板 ⚡️ 免費開源 ChatGPT UI 管理員儀表板模板 - Horizon AI 樣板
+
+
+_Updated on October 07, 2024_ (A total of 1796 repositories listed.)
 
 ## Table of contents
 
@@ -262,6 +267,8 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。
  * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - 這款AI智能音箱使用語音識別和文本轉語音技術，可以進行基於語音的對話和與OpenAI和代理人的視覺功能。用戶將提示說入麥克風，程序將提示發送到OpenAI以生成一個回應。
  * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自主學習的生成式人工智能訓練營。機器學習基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。
+ * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - 快速的ChatGPT UI，支持OpenAI和Azure OpenAI。
+ * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 該項目包括一個基於 GPT 等大語言模型的長篇小說生成器，同時還有各類小說生成 Prompt 以及教程。我們歡迎社區貢獻，持續更新以提供最佳的小說創作體驗。
 
 
 ## Chatbots
@@ -530,6 +537,8 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - 使用Langchain和Streamlit實現聊天機器人的示例
  * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilot是WeOps團隊開源的一個基於深度學習與LLM技術的智能運維助理。
  * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - 這是一個 WhatsApp AI 機器人，使用各種 AI 模型，包括 Gemini、GPT、DALL-E、Flux 和 StabilityAI，來生成對用戶輸入的回應。
+ * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Box利用微軟在全球的專業知識，為技術社區開發和提供人工智能和機器學習解決方案。我們的目的是提供一系列經過精心挑選的解決方案加速器，幫助工程師建立他們的人工智能/機器學習。
+ * [Starmoon](https://github.com/starmoonai/starmoon) - 一個開源的語音啟用、緊湊、具有共情能力的人工智慧硬體+軟體🤖框架，用於陪伴、娛樂、教育、兒科護理、物聯網機器人應用、AI增強機器人應用服務、研究和DIY機器人套件開發。
 
 
 ## Browser-extensions
@@ -857,6 +866,7 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [ai-digest](https://github.com/khromov/ai-digest) - 一個CLI工具，將您的代碼庫聚合到一個單獨的Markdown文件中，以供Claude Projects或自定義ChatGPT使用。
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一鍵配置 ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。🍉 Web UI of ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。
  * [Nexior](https://github.com/acedatacloud/nexior) - 一鍵部署您自己的AI應用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，輕鬆賺取利潤。
+ * [aider](https://github.com/aider-ai/aider) - 輔助者是您終端機中的AI對程式設計。
 
 
 ## Reimplementations
@@ -1485,6 +1495,7 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一個使用 PyQt 編寫的桌面寵物程序，支持調用 OpenAI 的 GPT 進行上下文對話，然後主動找你聊天！
  * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一個整合 ChatGPT 的聊天應用程式，基於 Vue3，Vite5，Electron 開發。
  * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o 是 OpenAI GPT 4o 的免費替代方案。
+ * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - 使用Azure OpenAI代碼資源來使用gpt-4o實時功能。
 
 
 ## Others
@@ -1896,5 +1907,6 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [show-me](https://github.com/marlaman/show-me) - 一個視覺透明的替代方案，比開源ChatGPT O1更好。
  * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - 基於chatgpt官網帳號轉接對外實現API服務
  * [ChatALL](https://github.com/ai-shifu/chatall) - 同時與ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、訊飛星火、文心一言等進行聊天，發現最佳答案。
+ * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 樣板 ⚡️ 免費開源 ChatGPT UI 管理員儀表板模板 - Horizon AI 樣板
 
 

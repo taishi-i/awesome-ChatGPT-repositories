@@ -15,24 +15,29 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Pluginとチャット：LLM APIを使用した自然な言語生成の手間いらずOllama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovimプラグインとのチャット：LLM APIを使用した自然な言語生成の手間いらず
- * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - ChatGPT、Gemini、Claude、phind、Groqのウェブサイトの利用体験を向上させ、便利な機能を提供します。たとえば、URLから自動的に入力するヒントを提供したり、返信する際に自動的にヒントボタンが表示されるようにします。
- * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - DuckDuckGoを使用してLLMがウェブを検索できるようにするoobabooga/text-generation-webuiの拡張機能
- * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenieは、IntelliJ IDEA用のプラグインで、ローカルLLM（Ollama、LMStudio、GPT4All、Llama.cpp、Exo）とクラウドベースのLLMを使用して、プロジェクトコードのレビュー、テスト、説明を支援します。
+**Prompts**
+ * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UIは、OpenAIとAzure OpenAIの両方をサポートしています。
+ * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。
 
 
-**NLP**
- * [repo2txt](https://github.com/abinthomasonline/repo2txt) - Webベースのツールは、GitHubリポジトリの内容を1つのフォーマットされたテキストファイルに変換します。
- * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench：AGIに向けたコード生成のベンチマーク化
+**Chatbots**
+ * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Boxは、世界中のマイクロソフトの専門知識を活用して、技術コミュニティにAIおよびMLソリューションを開発・提供します。私たちの目的は、エンジニアがAI/MLを確立するのに役立つソリューションアクセラレータのキュレーションされたコレクションを提供することです。
+ * [Starmoon](https://github.com/starmoonai/starmoon) - オープンソースの音声認識可能でコンパクトで共感的なAIハードウェア＋ソフトウェア🤖フレームワーク。仲間、エンターテイメント、教育、小児医療、IoTロボティクスアプリケーション、AI強化ロボティクスアプリケーションサービス、研究、DIYロボティクスキット開発に使用可能。
+
+
+**CLIs**
+ * [aider](https://github.com/aider-ai/aider) - aiderはあなたのターミナルでのAIペアプログラミングですaiderはあなたのターミナルでのAIペアプログラミングです
 
 
 **Openai**
- * [PureChat](https://github.com/hyk260/purechat) - PureChatは、ChatGPTを統合したチャットアプリであり、Vue3、Vite5、Electronで開発されています。
- * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - Input: OpenGPT 4oはOpenAI GPT 4oの無料の代替品です。
+ * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - gpt-4oリアルタイム機能を使用するためのAzure OpenAIコードリソース
 
 
-_Updated on October 03, 2024_ (A total of 1789 repositories listed.)
+**Others**
+ * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート
+
+
+_Updated on October 07, 2024_ (A total of 1796 repositories listed.)
 
 ## Table of contents
 
@@ -262,6 +267,8 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify in ComfyUIには、Omost、GPT-sovits、ChatTTS、FLUXプロンプトノードが含まれており、Feishu、discordへのアクセスが可能であり、o1、ollama、qwen、GLM、deepseek、moonshot、doubaoなどの類似したopenai/geminiインターフェースを持つすべてのllmsに適応し、llama/Pなどのローカルllmsにも適応しています。
  * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - このAIスマートスピーカーは音声認識とテキスト読み上げを使用して、OpenAIとエージェントとの音声対話とビジョン機能を可能にします。ユーザーはマイクにプロンプトを話し、プログラムはそのプロンプトをOpenAIに送信して応答を生成します。
  * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自己ペースのジェネレーティブAIブートキャンプ。MLの基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3＆AIエージェント（CrewAI）に関するチュートリアル。
+ * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UIは、OpenAIとAzure OpenAIの両方をサポートしています。
+ * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。
 
 
 ## Chatbots
@@ -530,6 +537,8 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - LangchainとStreamlitを使用したチャットボットの実装例
  * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilotは、WeOpsチームによって開発された深層学習とLLM技術に基づくオープンソースのインテリジェントな運用および保守アシスタントです。OpsPilotはWeOpsチームによって開発されたオープンソースの深層学習とLLM技術に基づく運用および保守アシスタントです。
  * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - これは、Gemini、GPT、DALL-E、Flux、StabilityAIなどさまざまなAIモデルを使用して、ユーザーの入力に応じた応答を生成するWhatsApp AIボットです。
+ * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Boxは、世界中のマイクロソフトの専門知識を活用して、技術コミュニティにAIおよびMLソリューションを開発・提供します。私たちの目的は、エンジニアがAI/MLを確立するのに役立つソリューションアクセラレータのキュレーションされたコレクションを提供することです。
+ * [Starmoon](https://github.com/starmoonai/starmoon) - オープンソースの音声認識可能でコンパクトで共感的なAIハードウェア＋ソフトウェア🤖フレームワーク。仲間、エンターテイメント、教育、小児医療、IoTロボティクスアプリケーション、AI強化ロボティクスアプリケーションサービス、研究、DIYロボティクスキット開発に使用可能。
 
 
 ## Browser-extensions
@@ -857,6 +866,7 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [ai-digest](https://github.com/khromov/ai-digest) - Claude ProjectsやカスタムChatGPTと一緒に使用するためのコードベースを1つのMarkdownファイルに集約するためのCLIツール。
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉
  * [Nexior](https://github.com/acedatacloud/nexior) - 自分自身のAIアプリケーションWeb UIを展開するためには、1クリックで、GPT、Midjourney、ChatDoc、QrArtを含めて、簡単に利益を得ることができます。
+ * [aider](https://github.com/aider-ai/aider) - aiderはあなたのターミナルでのAIペアプログラミングですaiderはあなたのターミナルでのAIペアプログラミングです
 
 
 ## Reimplementations
@@ -1485,6 +1495,7 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPTは、PyQtで書かれたデスクトップペットプログラムで、OpenAIのGPTを呼び出してコンテキスト対話を行い、その後自分からチャットを始めます！
  * [PureChat](https://github.com/hyk260/purechat) - PureChatは、ChatGPTを統合したチャットアプリであり、Vue3、Vite5、Electronで開発されています。
  * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - Input: OpenGPT 4oはOpenAI GPT 4oの無料の代替品です。
+ * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - gpt-4oリアルタイム機能を使用するためのAzure OpenAIコードリソース
 
 
 ## Others
@@ -1896,5 +1907,6 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [show-me](https://github.com/marlaman/show-me) - オープンソースのChatGPT O1に対するビジュアルで透明な代替案
  * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - chatgpt公式ウェブサイトアカウントを使用して外部APIサービスを実現します。
  * [ChatALL](https://github.com/ai-shifu/chatall) - ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言などと同時にチャットし、最適な回答を見つける
+ * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート
 
 
