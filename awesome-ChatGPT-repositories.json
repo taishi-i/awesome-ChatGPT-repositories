@@ -4935,6 +4935,59 @@
                     "zh-hans": "自主学习的生成式人工智能训练营。关于机器学习基础知识、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。",
                     "zh-hant": "自主學習的生成式人工智能訓練營。機器學習基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。"
                 }
+            },
+            "https://github.com/blrchen/chatgpt-lite": {
+                "repository_name": "chatgpt-lite",
+                "user_name": "blrchen",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Fast ChatGPT UI with support for both OpenAI and Azure OpenAI. 快速的ChatGPT UI，支持OpenAI和Azure OpenAI。",
+                "topics": [
+                    "azure-openai",
+                    "azureopenai",
+                    "chatbot",
+                    "chatbot-gui",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "chatgpt-bot",
+                    "chatgpt-gui",
+                    "chatgpt-ui",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-35-turbo",
+                    "gpt3",
+                    "llm",
+                    "openai",
+                    "openai-api",
+                    "prompt-engineering",
+                    "prompt-tuning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fast ChatGPT UI with support for both OpenAI and Azure OpenAI. 快速的ChatGPT UI，支持OpenAI和Azure OpenAI。",
+                    "ja": "Fast ChatGPT UIは、OpenAIとAzure OpenAIの両方をサポートしています。",
+                    "zh-hans": "快速的ChatGPT用户界面，支持OpenAI和Azure OpenAI。",
+                    "zh-hant": "快速的ChatGPT UI，支持OpenAI和Azure OpenAI。"
+                }
+            },
+            "https://github.com/maoxiaoyuz/long-novel-gpt": {
+                "repository_name": "Long-Novel-GPT",
+                "user_name": "MaoXiaoYuZ",
+                "language": "Python",
+                "license": null,
+                "description": "该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt",
+                    "llm",
+                    "novel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This project includes a long novel generator based on large language models such as GPT, as well as various novel generation prompts and tutorials. We welcome community contributions and will continue to update to provide the best novel writing experience.",
+                    "ja": "このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。",
+                    "zh-hans": "该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。",
+                    "zh-hant": "該項目包括一個基於 GPT 等大語言模型的長篇小說生成器，同時還有各類小說生成 Prompt 以及教程。我們歡迎社區貢獻，持續更新以提供最佳的小說創作體驗。"
+                }
             }
         },
         "Chatbots": {
@@ -11275,6 +11328,60 @@
                     "ja": "これは、Gemini、GPT、DALL-E、Flux、StabilityAIなどさまざまなAIモデルを使用して、ユーザーの入力に応じた応答を生成するWhatsApp AIボットです。",
                     "zh-hans": "这是一个WhatsApp AI机器人，它使用各种AI模型，包括Gemini、GPT、DALL-E、Flux和StabilityAI，来生成对用户输入的响应。",
                     "zh-hant": "這是一個 WhatsApp AI 機器人，使用各種 AI 模型，包括 Gemini、GPT、DALL-E、Flux 和 StabilityAI，來生成對用戶輸入的回應。"
+                }
+            },
+            "https://github.com/azure/ai-in-a-box": {
+                "repository_name": "AI-in-a-Box",
+                "user_name": "Azure",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution accelerators that can help engineers establish their AI/ML environments and solutions rapidly and with minimal friction.",
+                "topics": [
+                    "ai",
+                    "azd",
+                    "azd-templates",
+                    "azure",
+                    "chat-bot",
+                    "chatbot",
+                    "chatgpt",
+                    "custom-vision",
+                    "document-intelligence",
+                    "edge-ai",
+                    "edge-computing",
+                    "langchain",
+                    "machine-learning",
+                    "openai",
+                    "semantic-kernel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution accelerators that can help engineers establish their AI/ML e",
+                    "ja": "AI-in-a-Boxは、世界中のマイクロソフトの専門知識を活用して、技術コミュニティにAIおよびMLソリューションを開発・提供します。私たちの目的は、エンジニアがAI/MLを確立するのに役立つソリューションアクセラレータのキュレーションされたコレクションを提供することです。",
+                    "zh-hans": "AI-in-a-Box利用微软在全球范围内的专业知识，为技术社区开发和提供人工智能和机器学习解决方案。我们的目的是提供精心策划的解决方案加速器集合，帮助工程师建立他们的人工智能/机器学习。",
+                    "zh-hant": "AI-in-a-Box利用微軟在全球的專業知識，為技術社區開發和提供人工智能和機器學習解決方案。我們的目的是提供一系列經過精心挑選的解決方案加速器，幫助工程師建立他們的人工智能/機器學習。"
+                }
+            },
+            "https://github.com/starmoonai/starmoon": {
+                "repository_name": "Starmoon",
+                "user_name": "StarmoonAI",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development using Python, NextJs, Arduino, ESP32, LLMs (GPT), STT, TTS, Emotion Analysis, AI agent",
+                "topics": [
+                    "esp32",
+                    "gemini",
+                    "gpt",
+                    "iot",
+                    "llm",
+                    "robotics",
+                    "stt",
+                    "tts",
+                    "voice-assistant"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development",
+                    "ja": "オープンソースの音声認識可能でコンパクトで共感的なAIハードウェア＋ソフトウェア🤖フレームワーク。仲間、エンターテイメント、教育、小児医療、IoTロボティクスアプリケーション、AI強化ロボティクスアプリケーションサービス、研究、DIYロボティクスキット開発に使用可能。",
+                    "zh-hans": "一个开源的语音启用、紪恻AI硬件+软件🤖框架，用于陪伴、娱乐、教育、儿科护理、物联网机器人应用、AI增强机器人应用服务、研究和DIY机器人套件开发。",
+                    "zh-hant": "一個開源的語音啟用、緊湊、具有共情能力的人工智慧硬體+軟體🤖框架，用於陪伴、娛樂、教育、兒科護理、物聯網機器人應用、AI增強機器人應用服務、研究和DIY機器人套件開發。"
                 }
             }
         },
@@ -18525,6 +18632,31 @@
                     "ja": "自分自身のAIアプリケーションWeb UIを展開するためには、1クリックで、GPT、Midjourney、ChatDoc、QrArtを含めて、簡単に利益を得ることができます。",
                     "zh-hans": "一键部署您自己的AI应用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，轻松赚取利润。",
                     "zh-hant": "一鍵部署您自己的AI應用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，輕鬆賺取利潤。"
+                }
+            },
+            "https://github.com/aider-ai/aider": {
+                "repository_name": "aider",
+                "user_name": "Aider-AI",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "aider is AI pair programming in your terminal",
+                "topics": [
+                    "chatgpt",
+                    "claude-3",
+                    "cli",
+                    "command-line",
+                    "gpt-3",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "gpt-4o",
+                    "openai",
+                    "opus"
+                ],
+                "multilingual_descriptions": {
+                    "en": "aider is AI pair programming in your terminal",
+                    "ja": "aiderはあなたのターミナルでのAIペアプログラミングですaiderはあなたのターミナルでのAIペアプログラミングです",
+                    "zh-hans": "aider是您终端中的AI对编程",
+                    "zh-hant": "輔助者是您終端機中的AI對程式設計。"
                 }
             }
         },
@@ -31818,6 +31950,20 @@
                     "zh-hans": "OpenGPT 4o是OpenAI GPT 4o的免费替代品。",
                     "zh-hant": "OpenGPT 4o 是 OpenAI GPT 4o 的免費替代方案。"
                 }
+            },
+            "https://github.com/azure-samples/aoai-realtime-audio-sdk": {
+                "repository_name": "aoai-realtime-audio-sdk",
+                "user_name": "Azure-Samples",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Azure OpenAI code resources for using gpt-4o-realtime capabilities.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Azure OpenAI code resources for using GPT-4o-realtime capabilities.",
+                    "ja": "gpt-4oリアルタイム機能を使用するためのAzure OpenAIコードリソース",
+                    "zh-hans": "Azure OpenAI代码资源，用于使用gpt-4o实时功能。",
+                    "zh-hant": "使用Azure OpenAI代碼資源來使用gpt-4o實時功能。"
+                }
             }
         },
         "Others": {
@@ -39551,6 +39697,41 @@
                     "ja": "ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言などと同時にチャットし、最適な回答を見つける",
                     "zh-hans": "与ChatGPT、必应聊天、巴德、羊驼、维库纳、克劳德、ChatGLM、MOSS、讯飞星火、文心一言等同时聊天，发现最佳答案。",
                     "zh-hant": "同時與ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、訊飛星火、文心一言等進行聊天，發現最佳答案。"
+                }
+            },
+            "https://github.com/horizon-ui/shadcn-nextjs-boilerplate": {
+                "repository_name": "shadcn-nextjs-boilerplate",
+                "user_name": "horizon-ui",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate",
+                "topics": [
+                    "admin-dashboard",
+                    "admin-template",
+                    "dashboard",
+                    "free-boilerplate",
+                    "free-nextjs-boilerplate",
+                    "free-nextjs-template",
+                    "free-shadcn-ui",
+                    "nextjs-boilerplate",
+                    "nextjs-boilerplate-2024",
+                    "open-source",
+                    "shadcn",
+                    "shadcn-boilerplate",
+                    "shadcn-nextjs-boilerplate",
+                    "shadcn-nextjs-dashboard",
+                    "shadcn-template",
+                    "shadcn-ui",
+                    "shadcn-ui-starter",
+                    "shadcn-ui-template",
+                    "shadcnui",
+                    "shadcnui-boilerplate"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate",
+                    "ja": "Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート",
+                    "zh-hans": "Shadcn UI NextJS 模板 ⚡️ 免费开源 ChatGPT UI 管理仪表板模板 - Horizon AI 模板",
+                    "zh-hant": "Shadcn UI NextJS 樣板 ⚡️ 免費開源 ChatGPT UI 管理員儀表板模板 - Horizon AI 樣板"
                 }
             }
         }

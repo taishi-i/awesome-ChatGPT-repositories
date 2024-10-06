@@ -15,24 +15,29 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - 与Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim插件聊天：使用LLM API轻松生成自然语言
- * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - 提升ChatGPT、Gemini、Claude、phind、Groq网站的使用体验，提供一些好用功能。比如自动从URL填入提示，在回应的地方出现自动提示按钮。
- * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - 一个为oobabooga/text-generation-webui提供的扩展，使LLM能够使用DuckDuckGo搜索网络。
- * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie是IntelliJ IDEA的插件，使用本地LLM（Ollama、LMStudio、GPT4All、Llama.cpp和Exo）和基于云的LLM来帮助审查、测试、解释您的项目代码。
+**Prompts**
+ * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - 快速的ChatGPT用户界面，支持OpenAI和Azure OpenAI。
+ * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
 
 
-**NLP**
- * [repo2txt](https://github.com/abinthomasonline/repo2txt) - 基于网络的工具将GitHub存储库内容转换为单个格式化文本文件。
- * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench：基准测试代码生成朝向AGI
+**Chatbots**
+ * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Box利用微软在全球范围内的专业知识，为技术社区开发和提供人工智能和机器学习解决方案。我们的目的是提供精心策划的解决方案加速器集合，帮助工程师建立他们的人工智能/机器学习。
+ * [Starmoon](https://github.com/starmoonai/starmoon) - 一个开源的语音启用、紪恻AI硬件+软件🤖框架，用于陪伴、娱乐、教育、儿科护理、物联网机器人应用、AI增强机器人应用服务、研究和DIY机器人套件开发。
+
+
+**CLIs**
+ * [aider](https://github.com/aider-ai/aider) - aider是您终端中的AI对编程
 
 
 **Openai**
- * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3，Vite5，Electron 开发。
- * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o是OpenAI GPT 4o的免费替代品。
+ * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - Azure OpenAI代码资源，用于使用gpt-4o实时功能。
 
 
-_Updated on October 03, 2024_ (A total of 1789 repositories listed.)
+**Others**
+ * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 模板 ⚡️ 免费开源 ChatGPT UI 管理仪表板模板 - Horizon AI 模板
+
+
+_Updated on October 07, 2024_ (A total of 1796 repositories listed.)
 
 ## Table of contents
 
@@ -262,6 +267,8 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - Dify在ComfyUI中包括Omost、GPT-sovits、ChatTTS和FLUX提示节点，可以访问飞书、discord，并适配所有具有类似openai/gemini接口的llms，如o1、ollama、qwen、GLM、deepseek、moonshot、doubao。适配本地llms，如llama/P。
  * [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - 这款AI智能音箱使用语音识别和文本转语音技术，可以实现与OpenAI和代理人的语音驱动对话和视觉功能。用户将提示说入麦克风，程序将提示发送给OpenAI生成一个回答。
  * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自主学习的生成式人工智能训练营。关于机器学习基础知识、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。
+ * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - 快速的ChatGPT用户界面，支持OpenAI和Azure OpenAI。
+ * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
 
 
 ## Chatbots
@@ -530,6 +537,8 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - 使用Langchain和Streamlit实现聊天机器人的示例
  * [OpsPilot](https://github.com/weops-lab/opspilot) - OpsPilot是WeOps团队开源的一个基于深度学习与LLM技术的智能运维助理。
  * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - 这是一个WhatsApp AI机器人，它使用各种AI模型，包括Gemini、GPT、DALL-E、Flux和StabilityAI，来生成对用户输入的响应。
+ * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Box利用微软在全球范围内的专业知识，为技术社区开发和提供人工智能和机器学习解决方案。我们的目的是提供精心策划的解决方案加速器集合，帮助工程师建立他们的人工智能/机器学习。
+ * [Starmoon](https://github.com/starmoonai/starmoon) - 一个开源的语音启用、紪恻AI硬件+软件🤖框架，用于陪伴、娱乐、教育、儿科护理、物联网机器人应用、AI增强机器人应用服务、研究和DIY机器人套件开发。
 
 
 ## Browser-extensions
@@ -857,6 +866,7 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [ai-digest](https://github.com/khromov/ai-digest) - 一个CLI工具，可以将您的代码库聚合到一个单独的Markdown文件中，以供Claude项目或自定义ChatGPT使用。
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQ Bot 机器人的 Web UI 一键配置，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。🍉
  * [Nexior](https://github.com/acedatacloud/nexior) - 一键部署您自己的AI应用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，轻松赚取利润。
+ * [aider](https://github.com/aider-ai/aider) - aider是您终端中的AI对编程
 
 
 ## Reimplementations
@@ -1485,6 +1495,7 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [Pet-GPT](https://github.com/hanzoe/pet-gpt) - Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！
  * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3，Vite5，Electron 开发。
  * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o是OpenAI GPT 4o的免费替代品。
+ * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - Azure OpenAI代码资源，用于使用gpt-4o实时功能。
 
 
 ## Others
@@ -1896,5 +1907,6 @@ _Updated on October 03, 2024_ (A total of 1789 repositories listed.)
  * [show-me](https://github.com/marlaman/show-me) - 一个视觉透明的替代品，用于开源ChatGPT O1
  * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - 基于chatgpt官网账号转接对外实现API服务
  * [ChatALL](https://github.com/ai-shifu/chatall) - 与ChatGPT、必应聊天、巴德、羊驼、维库纳、克劳德、ChatGLM、MOSS、讯飞星火、文心一言等同时聊天，发现最佳答案。
+ * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 模板 ⚡️ 免费开源 ChatGPT UI 管理仪表板模板 - Horizon AI 模板
 
 
