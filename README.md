@@ -15,29 +15,44 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
+
+
 **Prompts**
- * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UI with support for both OpenAI and Azure OpenAI. 快速的ChatGPT UI，支持OpenAI和Azure OpenAI。
- * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
+ * [langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 
 
 **Chatbots**
- * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution accelerators that can help engineers establish their AI/ML environments and solutions rapidly and with minimal friction.
- * [Starmoon](https://github.com/starmoonai/starmoon) - An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development using Python, NextJs, Arduino, ESP32, LLMs (GPT), STT, TTS, Emotion Analysis, AI agent
+ * [LocalAI](https://github.com/mudler/localai) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
+ * [bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
 
 
-**CLIs**
- * [aider](https://github.com/aider-ai/aider) - aider is AI pair programming in your terminal
+**Browser-extensions**
+ * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
+
+
+**NLP**
+ * [FastGPT](https://github.com/labring/fastgpt) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+ * [guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
+ * [E2B](https://github.com/e2b-dev/e2b) - Secure open source cloud runtime for AI apps & AI agents
+ * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
+ * [SillyTavern](https://github.com/sillytavern/sillytavern) - LLM Frontend for Power Users.
+ * [instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 
 
 **Openai**
- * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - Azure OpenAI code resources for using gpt-4o-realtime capabilities.
+ * [inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+ * [ToolJet](https://github.com/tooljet/tooljet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+ * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+ * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 
 
 **Others**
- * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate
+ * [TaskWeaver](https://github.com/microsoft/taskweaver) - CMake integration in Visual Studio Code
 
 
-_Updated on October 07, 2024_ (A total of 1796 repositories listed.)
+_Updated on October 10, 2024_ (A total of 1812 repositories listed.)
 
 ## Table of contents
 
@@ -128,6 +143,7 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - Continuously updated list of related resources for generative LLMs like GPT and their analysis and detection.
  * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
+ * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
 
 
 ## Prompts
@@ -269,6 +285,7 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, LLMs, RAGs, LangChain, LangGraph, Fine-tuning Llama 3 & AI Agents (CrewAI)
  * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UI with support for both OpenAI and Azure OpenAI. 快速的ChatGPT UI，支持OpenAI和Azure OpenAI。
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
+ * [langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 
 
 ## Chatbots
@@ -539,6 +556,8 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - This is a WhatsApp AI bot that uses various AI models, including Gemini, GPT, DALL-E, Flux and StabilityAI, to generate responses to user input.
  * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Box leverages the expertise of Microsoft across the globe to develop and provide AI and ML solutions to the technical community.  Our intent is to present a curated collection of solution accelerators that can help engineers establish their AI/ML environments and solutions rapidly and with minimal friction.
  * [Starmoon](https://github.com/starmoonai/starmoon) - An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development using Python, NextJs, Arduino, ESP32, LLMs (GPT), STT, TTS, Emotion Analysis, AI agent
+ * [LocalAI](https://github.com/mudler/localai) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
+ * [bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
 
 
 ## Browser-extensions
@@ -736,6 +755,7 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - 提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
  * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - An extension for  oobabooga/text-generation-webui that enables the LLM to search the web using DuckDuckGo
  * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Llama.cpp and Exo) and Cloud based LLMs to help review, test, explain your project code.
+ * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
 
 
 ## CLIs
@@ -1190,6 +1210,12 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: You See What You Think? Or You Think What You See? An Image-Context Reasoning Benchmark Challenging for GPT-4V(ision), LLaVA-1.5, and Other Multi-modality Models
  * [repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
  * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench: Benchmarking Code Generation Towards AGI
+ * [FastGPT](https://github.com/labring/fastgpt) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+ * [guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
+ * [E2B](https://github.com/e2b-dev/e2b) - Secure open source cloud runtime for AI apps & AI agents
+ * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
+ * [SillyTavern](https://github.com/sillytavern/sillytavern) - LLM Frontend for Power Users.
+ * [instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 
 
 ## Langchain
@@ -1496,6 +1522,10 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3 ，Vite5，Electron开发
  * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o is a free alternative to OpenAI GPT 4o
  * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - Azure OpenAI code resources for using gpt-4o-realtime capabilities.
+ * [inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+ * [ToolJet](https://github.com/tooljet/tooljet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+ * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+ * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 
 
 ## Others
@@ -1908,5 +1938,6 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - 基于chatgpt官网账号转接对外实现API服务
  * [ChatALL](https://github.com/ai-shifu/chatall) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate
+ * [TaskWeaver](https://github.com/microsoft/taskweaver) - CMake integration in Visual Studio Code
 
 

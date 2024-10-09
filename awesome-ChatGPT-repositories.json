@@ -1830,6 +1830,29 @@
                     "zh-hans": "🧩 / 🏪 插件索引 - 这是LobeChat的插件索引。它从这个存储库访问index.json，向用户显示可用插件的列表。",
                     "zh-hant": "🧩 / 🏪  插件索引 - 這是 LobeChat 的插件索引。它從這個存儲庫中訪問 index.json，向用戶顯示 LobeChat 可用插件的列表。"
                 }
+            },
+            "https://github.com/hijkzzz/awesome-llm-strawberry": {
+                "repository_name": "Awesome-LLM-Strawberry",
+                "user_name": "hijkzzz",
+                "language": null,
+                "license": "Apache License 2.0",
+                "description": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.",
+                "topics": [
+                    "chain-of-thought",
+                    "coding",
+                    "llm",
+                    "mathematics",
+                    "mcts",
+                    "openai-o1",
+                    "reinforcement-learning",
+                    "strawberry"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.",
+                    "ja": "OpenAI o1および推論技術に焦点を当てたLLM論文、ブログ、およびプロジェクトのコレクション。",
+                    "zh-hans": "一个关于LLM论文、博客和项目的收集，重点关注OpenAI o1和推理技术。",
+                    "zh-hant": "一系列LLM論文、部落格和項目，重點放在OpenAI o1和推理技術上。"
+                }
             }
         },
         "Prompts": {
@@ -4987,6 +5010,41 @@
                     "ja": "このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。",
                     "zh-hans": "该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。",
                     "zh-hant": "該項目包括一個基於 GPT 等大語言模型的長篇小說生成器，同時還有各類小說生成 Prompt 以及教程。我們歡迎社區貢獻，持續更新以提供最佳的小說創作體驗。"
+                }
+            },
+            "https://github.com/langfuse/langfuse": {
+                "repository_name": "langfuse",
+                "user_name": "langfuse",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+                "topics": [
+                    "analytics",
+                    "evaluation",
+                    "gpt",
+                    "hacktoberfest",
+                    "langchain",
+                    "large-language-models",
+                    "llama-index",
+                    "llm",
+                    "llm-evaluation",
+                    "llm-observability",
+                    "llmops",
+                    "monitoring",
+                    "observability",
+                    "open-source",
+                    "openai",
+                    "playground",
+                    "prompt-engineering",
+                    "prompt-management",
+                    "self-hosted",
+                    "ycombinator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+                    "ja": "🪢 オープンソースのLLMエンジニアリングプラットフォーム：LLMオブザーバビリティ、メトリクス、評価、プロンプト管理、プレイグラウンド、データセット。LlamaIndex、Langchain、OpenAI SDK、LiteLLMなどと統合されています。🍊YC W23",
+                    "zh-hans": "🪢 开源LLM工程平台：LLM可观测性，指标，评估，提示管理，游乐场，数据集。与LlamaIndex，Langchain，OpenAI SDK，LiteLLM等集成。🍊YC W23",
+                    "zh-hant": "🪢 開源LLM工程平台：LLM可觀察性、指標、評估、提示管理、遊樂場、數據集。與LlamaIndex、Langchain、OpenAI SDK、LiteLLM等集成。🍊YC W23"
                 }
             }
         },
@@ -11383,6 +11441,76 @@
                     "zh-hans": "一个开源的语音启用、紪恻AI硬件+软件🤖框架，用于陪伴、娱乐、教育、儿科护理、物联网机器人应用、AI增强机器人应用服务、研究和DIY机器人套件开发。",
                     "zh-hant": "一個開源的語音啟用、緊湊、具有共情能力的人工智慧硬體+軟體🤖框架，用於陪伴、娛樂、教育、兒科護理、物聯網機器人應用、AI增強機器人應用服務、研究和DIY機器人套件開發。"
                 }
+            },
+            "https://github.com/mudler/localai": {
+                "repository_name": "LocalAI",
+                "user_name": "mudler",
+                "language": "C++",
+                "license": "MIT License",
+                "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference",
+                "topics": [
+                    "ai",
+                    "api",
+                    "audio-generation",
+                    "distributed",
+                    "gemma",
+                    "gpt4all",
+                    "image-generation",
+                    "kubernetes",
+                    "llama",
+                    "llama3",
+                    "llm",
+                    "mamba",
+                    "mistral",
+                    "musicgen",
+                    "p2p",
+                    "rerank",
+                    "rwkv",
+                    "stable-diffusion",
+                    "text-generation",
+                    "tts"
+                ],
+                "multilingual_descriptions": {
+                    "en": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures",
+                    "ja": "入力: :robot: OpenAI、Claudeなどの無料でオープンソースの代替品。セルフホストおよびローカルファースト。消費者向けのハードウェアで実行されるOpenAIの代替品。GPUは必要ありません。gguf、transformers、diffusersなど、多くのモデルアーキテクチャを実行します。",
+                    "zh-hans": "🤖 免费、开源的替代OpenAI、Claude等人工智能的选择。支持自托管和本地优先。可直接替代OpenAI，在消费级硬件上运行。无需GPU。支持gguf、transformers、diffusers等多种模型架构。",
+                    "zh-hant": "🤖 自由、開源的替代方案，可替代OpenAI、Claude和其他人。自主託管和本地優先。可直接替代OpenAI，在消費級硬件上運行。無需GPU。運行gguf、transformers、diffusers和許多其他模型架構。"
+                }
+            },
+            "https://github.com/dataelement/bisheng": {
+                "repository_name": "bisheng",
+                "user_name": "dataelement",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "chatbot",
+                    "enterprise",
+                    "finetune",
+                    "genai",
+                    "gpt",
+                    "langchian",
+                    "llama",
+                    "llm",
+                    "llmdevops",
+                    "llmops",
+                    "ocr",
+                    "openai",
+                    "orchestration",
+                    "python",
+                    "rag",
+                    "react",
+                    "sft",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Managemen",
+                    "ja": "BISHENGは次世代のエンタープライズAIアプリケーション向けのオープンLLM DevOpsプラットフォームです。GenAIワークフロー、RAG、エージェント、統合モデル管理、評価、SFT、データセット管理、エンタープライズレベルのシステム管理など、強力で包括的な機能が含まれています。",
+                    "zh-hans": "BISHENG是一个开放的LLM devops平台，用于下一代企业AI应用程序。强大而全面的功能包括：GenAI工作流程，RAG，Agent，统一模型管理，评估，SFT，数据集管理，企业级系统管理。",
+                    "zh-hant": "BISHENG是一個開放的LLM devops平台，用於下一代企業AI應用。強大而全面的功能包括：GenAI工作流程、RAG、Agent、統一模型管理、評估、SFT、數據集管理、企業級系統管理。"
+                }
             }
         },
         "Browser-extensions": {
@@ -15757,6 +15885,35 @@
                     "ja": "DevoxxGenieは、IntelliJ IDEA用のプラグインで、ローカルLLM（Ollama、LMStudio、GPT4All、Llama.cpp、Exo）とクラウドベースのLLMを使用して、プロジェクトコードのレビュー、テスト、説明を支援します。",
                     "zh-hans": "DevoxxGenie是IntelliJ IDEA的插件，使用本地LLM（Ollama、LMStudio、GPT4All、Llama.cpp和Exo）和基于云的LLM来帮助审查、测试、解释您的项目代码。",
                     "zh-hant": "DevoxxGenie 是一個用於 IntelliJ IDEA 的插件，使用本地的 LLM（Ollama、LMStudio、GPT4All、Llama.cpp 和 Exo）和基於雲端的 LLM 來幫助審查、測試、解釋您的項目代碼。"
+                }
+            },
+            "https://github.com/josh-xt/agixt": {
+                "repository_name": "AGiXT",
+                "user_name": "Josh-XT",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.",
+                "topics": [
+                    "agent-llm",
+                    "agi",
+                    "agixt",
+                    "ai",
+                    "artificial",
+                    "automation",
+                    "chromadb",
+                    "intelligence",
+                    "llama",
+                    "llamacpp",
+                    "llm",
+                    "llmops",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient a",
+                    "ja": "AGiXTは、さまざまなAIプロバイダー間で指示管理と複雑なタスク実行をシームレスにオーケストレーションするダイナミックなAIエージェント自動化プラットフォームです。適応型メモリ、スマート機能、多機能なプラグインシステムを組み合わせることで、効率的なAGiXTを提供します。",
+                    "zh-hans": "AGiXT是一个动态的AI代理自动化平台，可以无缝地协调指令管理和复杂任务执行，涵盖各种AI提供商。结合自适应记忆、智能功能和多功能插件系统，AGiXT提供高效的。",
+                    "zh-hant": "AGiXT是一個動態的AI代理自動化平台，可以無縫地協調指令管理和複雜任務執行，跨越不同的AI提供商。結合適應性記憶、智能功能和多功能插件系統，AGiXT提供高效的。"
                 }
             }
         },
@@ -25323,6 +25480,146 @@
                     "zh-hans": "BigCodeBench：基准测试代码生成朝向AGI",
                     "zh-hant": "BigCodeBench：基於AGI的代碼生成基準测试"
                 }
+            },
+            "https://github.com/labring/fastgpt": {
+                "repository_name": "FastGPT",
+                "user_name": "labring",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+                "topics": [
+                    "gpt",
+                    "gpt-35-turbo",
+                    "gpt-4",
+                    "gpt35",
+                    "llm",
+                    "nextjs",
+                    "openai",
+                    "rag",
+                    "react"
+                ],
+                "multilingual_descriptions": {
+                    "en": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answer",
+                    "ja": "FastGPTは、LLMsをベースに構築された知識ベースのプラットフォームで、データ処理、RAG検索、ビジュアルAIワークフローオーケストレーションなど、包括的な機能を提供しており、複雑な質問回答を簡単に開発および展開できます。",
+                    "zh-hans": "FastGPT是基于LLMs构建的知识平台，提供了一套全面的即插即用功能，如数据处理、RAG检索和视觉AI工作流编排，让您轻松开发和部署复杂的问答系统。",
+                    "zh-hant": "FastGPT是基於LLMs構建的知識平台，提供了一套全面的即插即用功能，如數據處理、RAG檢索和視覺AI工作流程編排，讓您輕鬆開發和部署複雜的問答。"
+                }
+            },
+            "https://github.com/guardrails-ai/guardrails": {
+                "repository_name": "guardrails",
+                "user_name": "guardrails-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Adding guardrails to large language models.",
+                "topics": [
+                    "ai",
+                    "foundation-model",
+                    "gpt-3",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Adding guardrails to large language models.",
+                    "ja": "大規模言語モデルにガードレールを追加する。",
+                    "zh-hans": "为大型语言模型添加护栏。",
+                    "zh-hant": "將護欄添加到大型語言模型。"
+                }
+            },
+            "https://github.com/e2b-dev/e2b": {
+                "repository_name": "E2B",
+                "user_name": "e2b-dev",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Secure open source cloud runtime for AI apps & AI agents",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-agent",
+                    "ai-agents",
+                    "code-interpreter",
+                    "copilot",
+                    "development",
+                    "devtools",
+                    "gpt",
+                    "gpt-4",
+                    "javascript",
+                    "llm",
+                    "nextjs",
+                    "openai",
+                    "python",
+                    "react",
+                    "software",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Secure open source cloud runtime for AI apps & AI agents",
+                    "ja": "AIアプリとAIエージェントのための安全なオープンソースクラウドランタイム",
+                    "zh-hans": "安全的开源云运行时，用于AI应用程序和AI代理",
+                    "zh-hant": "安全的開源雲運行時，適用於AI應用程序和AI代理程序"
+                }
+            },
+            "https://github.com/1panel-dev/maxkb": {
+                "repository_name": "MaxKB",
+                "user_name": "1Panel-dev",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。",
+                "topics": [
+                    "1panel",
+                    "gpt",
+                    "knowledgebase",
+                    "llm",
+                    "maxkb",
+                    "ollama",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 Knowledge base question and answer system based on large language models and RAG. Ready to use, model-neutral, flexible arrangement, supports quick embedding into third-party business systems.",
+                    "ja": "🚀 大規模言語モデルとRAGに基づいたナレッジベースの質問応答システム。即座に使用可能で、モデルに中立的で柔軟な配置が可能で、第三者のビジネスシステムに迅速に組み込むことができます。",
+                    "zh-hans": "🚀 基于大型语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。",
+                    "zh-hant": "🚀 基於大型語言模型和 RAG 的知識庫問答系統。開箱即用、模型中立、靈活編排，支持快速嵌入到第三方業務系統。"
+                }
+            },
+            "https://github.com/sillytavern/sillytavern": {
+                "repository_name": "SillyTavern",
+                "user_name": "SillyTavern",
+                "language": "JavaScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "LLM Frontend for Power Users.",
+                "topics": [
+                    "ai",
+                    "characters",
+                    "chat",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LLM Frontend for Power Users.",
+                    "ja": "パワーユーザー向けのLLMフロントエンド。",
+                    "zh-hans": "LLM高级用户前端。",
+                    "zh-hant": "LLM 高級用戶前端。"
+                }
+            },
+            "https://github.com/jxnl/instructor": {
+                "repository_name": "instructor",
+                "user_name": "jxnl",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "structured outputs for llms ",
+                "topics": [
+                    "openai",
+                    "openai-function-calli",
+                    "openai-functions",
+                    "pydantic-v2",
+                    "python",
+                    "validation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "structured outputs for llms",
+                    "ja": "LLMSのための構造化された出力",
+                    "zh-hans": "为llms设计结构化输出",
+                    "zh-hant": "給LLMS的結構化輸出"
+                }
             }
         },
         "Langchain": {
@@ -31963,6 +32260,117 @@
                     "ja": "gpt-4oリアルタイム機能を使用するためのAzure OpenAIコードリソース",
                     "zh-hans": "Azure OpenAI代码资源，用于使用gpt-4o实时功能。",
                     "zh-hant": "使用Azure OpenAI代碼資源來使用gpt-4o實時功能。"
+                }
+            },
+            "https://github.com/elie222/inbox-zero": {
+                "repository_name": "inbox-zero",
+                "user_name": "elie222",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Open source email app to reach inbox zero fast.",
+                "topics": [
+                    "ai",
+                    "email",
+                    "gmail",
+                    "loops",
+                    "nextjs",
+                    "openai",
+                    "postgresql",
+                    "posthog",
+                    "prisma",
+                    "productivity",
+                    "resend",
+                    "shadcn-ui",
+                    "tailwind",
+                    "tinybird",
+                    "turborepo",
+                    "typescript",
+                    "upstash"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open source email app to reach inbox zero fast.",
+                    "ja": "インボックスゼロに迅速に到達するためのオープンソースのメールアプリ。",
+                    "zh-hans": "开源电子邮件应用程序，快速达到收件箱零。",
+                    "zh-hant": "開源電子郵件應用程式，快速達到收件箱零。"
+                }
+            },
+            "https://github.com/tooljet/tooljet": {
+                "repository_name": "ToolJet",
+                "user_name": "ToolJet",
+                "language": "JavaScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+                "topics": [
+                    "docker",
+                    "hacktoberfest",
+                    "internal-applications",
+                    "internal-project",
+                    "internal-tool",
+                    "internal-tools",
+                    "javascript",
+                    "kubernetes",
+                    "low-code",
+                    "low-code-development-platform",
+                    "low-code-framework",
+                    "nestjs",
+                    "no-code",
+                    "nodejs",
+                    "openai",
+                    "reactjs",
+                    "self-hosted",
+                    "typeorm",
+                    "typescript",
+                    "web-development-tools"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+                    "ja": "ビジネスアプリケーションを構築するための低コードプラットフォーム。データベース、クラウドストレージ、GraphQL、APIエンドポイント、Airtable、Googleシート、OpenAIなどに接続し、ドラッグアンドドロップのアプリケーションビルダーを使用してアプリを構築します。JavaScript/TypeScriptを使用して構築されています。🚀",
+                    "zh-hans": "用于构建业务应用程序的低代码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google表格、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScript构建。🚀",
+                    "zh-hant": "低代碼平台用於構建業務應用程序。連接到數據庫、雲存儲、GraphQL、API端點、Airtable、Google表格、OpenAI等，並使用拖放應用程序構建器構建應用程序。使用JavaScript/TypeScript構建。 🚀"
+                }
+            },
+            "https://github.com/significant-gravitas/autogpt": {
+                "repository_name": "AutoGPT",
+                "user_name": "Significant-Gravitas",
+                "language": "Python",
+                "license": "Other",
+                "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "autonomous-agents",
+                    "gpt-4",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+                    "ja": "AutoGPTは、誰もが利用し、構築することができるアクセス可能なAIのビジョンです。私たちの使命は、あなたが重要なことに集中できるようにツールを提供することです。",
+                    "zh-hans": "AutoGPT是让每个人都能够使用和构建的AI的愿景。我们的使命是提供工具，让您可以专注于重要的事情。",
+                    "zh-hant": "AutoGPT是讓每個人都能夠使用和建立的AI的願景。我們的使命是提供工具，讓您可以專注於重要的事情。"
+                }
+            },
+            "https://github.com/codium-ai/pr-agent": {
+                "repository_name": "pr-agent",
+                "user_name": "Codium-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍",
+                "topics": [
+                    "code-review",
+                    "codereview",
+                    "coding-assistant",
+                    "devtools",
+                    "gpt-4",
+                    "openai",
+                    "pull-request",
+                    "pull-requests"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍",
+                    "ja": "🚀CodiumAI PR-Agent: 自動プルリクエストの分析、フィードバック、提案などを行うAI搭載ツール！ 💻🔍",
+                    "zh-hans": "🚀CodiumAI PR-Agent：一款AI驱动的🤖工具，用于自动化拉取请求分析、反馈、建议等！💻🔍",
+                    "zh-hant": "🚀CodiumAI PR-Agent：一個AI驅動的🤖工具，用於自動化拉取請求分析、反饋、建議等！💻🔍"
                 }
             }
         },
@@ -39732,6 +40140,23 @@
                     "ja": "Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート",
                     "zh-hans": "Shadcn UI NextJS 模板 ⚡️ 免费开源 ChatGPT UI 管理仪表板模板 - Horizon AI 模板",
                     "zh-hant": "Shadcn UI NextJS 樣板 ⚡️ 免費開源 ChatGPT UI 管理員儀表板模板 - Horizon AI 樣板"
+                }
+            },
+            "https://github.com/microsoft/taskweaver": {
+                "repository_name": "TaskWeaver",
+                "user_name": "microsoft",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "CMake integration in Visual Studio Code",
+                "topics": [
+                    "cmake",
+                    "visual-studio-code"
+                ],
+                "multilingual_descriptions": {
+                    "en": "CMake integration in Visual Studio Code",
+                    "ja": "Visual Studio Code での CMake 統合",
+                    "zh-hans": "在Visual Studio Code中集成CMake",
+                    "zh-hant": "在Visual Studio Code中集成CMake"
                 }
             }
         }

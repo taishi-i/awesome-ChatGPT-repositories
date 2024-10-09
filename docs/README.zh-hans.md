@@ -15,29 +15,44 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - 一个关于LLM论文、博客和项目的收集，重点关注OpenAI o1和推理技术。
+
+
 **Prompts**
- * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - 快速的ChatGPT用户界面，支持OpenAI和Azure OpenAI。
- * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
+ * [langfuse](https://github.com/langfuse/langfuse) - 🪢 开源LLM工程平台：LLM可观测性，指标，评估，提示管理，游乐场，数据集。与LlamaIndex，Langchain，OpenAI SDK，LiteLLM等集成。🍊YC W23
 
 
 **Chatbots**
- * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Box利用微软在全球范围内的专业知识，为技术社区开发和提供人工智能和机器学习解决方案。我们的目的是提供精心策划的解决方案加速器集合，帮助工程师建立他们的人工智能/机器学习。
- * [Starmoon](https://github.com/starmoonai/starmoon) - 一个开源的语音启用、紪恻AI硬件+软件🤖框架，用于陪伴、娱乐、教育、儿科护理、物联网机器人应用、AI增强机器人应用服务、研究和DIY机器人套件开发。
+ * [LocalAI](https://github.com/mudler/localai) - 🤖 免费、开源的替代OpenAI、Claude等人工智能的选择。支持自托管和本地优先。可直接替代OpenAI，在消费级硬件上运行。无需GPU。支持gguf、transformers、diffusers等多种模型架构。
+ * [bisheng](https://github.com/dataelement/bisheng) - BISHENG是一个开放的LLM devops平台，用于下一代企业AI应用程序。强大而全面的功能包括：GenAI工作流程，RAG，Agent，统一模型管理，评估，SFT，数据集管理，企业级系统管理。
 
 
-**CLIs**
- * [aider](https://github.com/aider-ai/aider) - aider是您终端中的AI对编程
+**Browser-extensions**
+ * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT是一个动态的AI代理自动化平台，可以无缝地协调指令管理和复杂任务执行，涵盖各种AI提供商。结合自适应记忆、智能功能和多功能插件系统，AGiXT提供高效的。
+
+
+**NLP**
+ * [FastGPT](https://github.com/labring/fastgpt) - FastGPT是基于LLMs构建的知识平台，提供了一套全面的即插即用功能，如数据处理、RAG检索和视觉AI工作流编排，让您轻松开发和部署复杂的问答系统。
+ * [guardrails](https://github.com/guardrails-ai/guardrails) - 为大型语言模型添加护栏。
+ * [E2B](https://github.com/e2b-dev/e2b) - 安全的开源云运行时，用于AI应用程序和AI代理
+ * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 基于大型语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
+ * [SillyTavern](https://github.com/sillytavern/sillytavern) - LLM高级用户前端。
+ * [instructor](https://github.com/jxnl/instructor) - 为llms设计结构化输出
 
 
 **Openai**
- * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - Azure OpenAI代码资源，用于使用gpt-4o实时功能。
+ * [inbox-zero](https://github.com/elie222/inbox-zero) - 开源电子邮件应用程序，快速达到收件箱零。
+ * [ToolJet](https://github.com/tooljet/tooljet) - 用于构建业务应用程序的低代码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google表格、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScript构建。🚀
+ * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPT是让每个人都能够使用和构建的AI的愿景。我们的使命是提供工具，让您可以专注于重要的事情。
+ * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent：一款AI驱动的🤖工具，用于自动化拉取请求分析、反馈、建议等！💻🔍
 
 
 **Others**
- * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 模板 ⚡️ 免费开源 ChatGPT UI 管理仪表板模板 - Horizon AI 模板
+ * [TaskWeaver](https://github.com/microsoft/taskweaver) - 在Visual Studio Code中集成CMake
 
 
-_Updated on October 07, 2024_ (A total of 1796 repositories listed.)
+_Updated on October 10, 2024_ (A total of 1812 repositories listed.)
 
 ## Table of contents
 
@@ -128,6 +143,7 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - 持续更新的与生成式LLM（如GPT）及其分析和检测相关资源列表。
  * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT越狱，GPT助手提示泄漏，GPT提示注入，LLM提示安全，超级提示，提示黑客，提示安全，Ai提示工程，对抗性机器学习。
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪 插件索引 - 这是LobeChat的插件索引。它从这个存储库访问index.json，向用户显示可用插件的列表。
+ * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - 一个关于LLM论文、博客和项目的收集，重点关注OpenAI o1和推理技术。
 
 
 ## Prompts
@@ -269,6 +285,7 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自主学习的生成式人工智能训练营。关于机器学习基础知识、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3和AI代理（CrewAI）的教程。
  * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - 快速的ChatGPT用户界面，支持OpenAI和Azure OpenAI。
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
+ * [langfuse](https://github.com/langfuse/langfuse) - 🪢 开源LLM工程平台：LLM可观测性，指标，评估，提示管理，游乐场，数据集。与LlamaIndex，Langchain，OpenAI SDK，LiteLLM等集成。🍊YC W23
 
 
 ## Chatbots
@@ -539,6 +556,8 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - 这是一个WhatsApp AI机器人，它使用各种AI模型，包括Gemini、GPT、DALL-E、Flux和StabilityAI，来生成对用户输入的响应。
  * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Box利用微软在全球范围内的专业知识，为技术社区开发和提供人工智能和机器学习解决方案。我们的目的是提供精心策划的解决方案加速器集合，帮助工程师建立他们的人工智能/机器学习。
  * [Starmoon](https://github.com/starmoonai/starmoon) - 一个开源的语音启用、紪恻AI硬件+软件🤖框架，用于陪伴、娱乐、教育、儿科护理、物联网机器人应用、AI增强机器人应用服务、研究和DIY机器人套件开发。
+ * [LocalAI](https://github.com/mudler/localai) - 🤖 免费、开源的替代OpenAI、Claude等人工智能的选择。支持自托管和本地优先。可直接替代OpenAI，在消费级硬件上运行。无需GPU。支持gguf、transformers、diffusers等多种模型架构。
+ * [bisheng](https://github.com/dataelement/bisheng) - BISHENG是一个开放的LLM devops平台，用于下一代企业AI应用程序。强大而全面的功能包括：GenAI工作流程，RAG，Agent，统一模型管理，评估，SFT，数据集管理，企业级系统管理。
 
 
 ## Browser-extensions
@@ -736,6 +755,7 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - 提升ChatGPT、Gemini、Claude、phind、Groq网站的使用体验，提供一些好用功能。比如自动从URL填入提示，在回应的地方出现自动提示按钮。
  * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - 一个为oobabooga/text-generation-webui提供的扩展，使LLM能够使用DuckDuckGo搜索网络。
  * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie是IntelliJ IDEA的插件，使用本地LLM（Ollama、LMStudio、GPT4All、Llama.cpp和Exo）和基于云的LLM来帮助审查、测试、解释您的项目代码。
+ * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT是一个动态的AI代理自动化平台，可以无缝地协调指令管理和复杂任务执行，涵盖各种AI提供商。结合自适应记忆、智能功能和多功能插件系统，AGiXT提供高效的。
 
 
 ## CLIs
@@ -1190,6 +1210,12 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench：你看到的是你想到的吗？还是你想到的是你看到的？一个挑战GPT-4V(ision)、LLaVA-1.5和其他多模态模型的图像-上下文推理基准测试
  * [repo2txt](https://github.com/abinthomasonline/repo2txt) - 基于网络的工具将GitHub存储库内容转换为单个格式化文本文件。
  * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench：基准测试代码生成朝向AGI
+ * [FastGPT](https://github.com/labring/fastgpt) - FastGPT是基于LLMs构建的知识平台，提供了一套全面的即插即用功能，如数据处理、RAG检索和视觉AI工作流编排，让您轻松开发和部署复杂的问答系统。
+ * [guardrails](https://github.com/guardrails-ai/guardrails) - 为大型语言模型添加护栏。
+ * [E2B](https://github.com/e2b-dev/e2b) - 安全的开源云运行时，用于AI应用程序和AI代理
+ * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 基于大型语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
+ * [SillyTavern](https://github.com/sillytavern/sillytavern) - LLM高级用户前端。
+ * [instructor](https://github.com/jxnl/instructor) - 为llms设计结构化输出
 
 
 ## Langchain
@@ -1496,6 +1522,10 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [PureChat](https://github.com/hyk260/purechat) - PureChat 是一个集成 ChatGPT 的聊天应用，基于 Vue3，Vite5，Electron 开发。
  * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - OpenGPT 4o是OpenAI GPT 4o的免费替代品。
  * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - Azure OpenAI代码资源，用于使用gpt-4o实时功能。
+ * [inbox-zero](https://github.com/elie222/inbox-zero) - 开源电子邮件应用程序，快速达到收件箱零。
+ * [ToolJet](https://github.com/tooljet/tooljet) - 用于构建业务应用程序的低代码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google表格、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScript构建。🚀
+ * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPT是让每个人都能够使用和构建的AI的愿景。我们的使命是提供工具，让您可以专注于重要的事情。
+ * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent：一款AI驱动的🤖工具，用于自动化拉取请求分析、反馈、建议等！💻🔍
 
 
 ## Others
@@ -1908,5 +1938,6 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - 基于chatgpt官网账号转接对外实现API服务
  * [ChatALL](https://github.com/ai-shifu/chatall) - 与ChatGPT、必应聊天、巴德、羊驼、维库纳、克劳德、ChatGLM、MOSS、讯飞星火、文心一言等同时聊天，发现最佳答案。
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 模板 ⚡️ 免费开源 ChatGPT UI 管理仪表板模板 - Horizon AI 模板
+ * [TaskWeaver](https://github.com/microsoft/taskweaver) - 在Visual Studio Code中集成CMake
 
 
