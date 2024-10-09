@@ -15,29 +15,44 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - OpenAI o1および推論技術に焦点を当てたLLM論文、ブログ、およびプロジェクトのコレクション。
+
+
 **Prompts**
- * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UIは、OpenAIとAzure OpenAIの両方をサポートしています。
- * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。
+ * [langfuse](https://github.com/langfuse/langfuse) - 🪢 オープンソースのLLMエンジニアリングプラットフォーム：LLMオブザーバビリティ、メトリクス、評価、プロンプト管理、プレイグラウンド、データセット。LlamaIndex、Langchain、OpenAI SDK、LiteLLMなどと統合されています。🍊YC W23
 
 
 **Chatbots**
- * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Boxは、世界中のマイクロソフトの専門知識を活用して、技術コミュニティにAIおよびMLソリューションを開発・提供します。私たちの目的は、エンジニアがAI/MLを確立するのに役立つソリューションアクセラレータのキュレーションされたコレクションを提供することです。
- * [Starmoon](https://github.com/starmoonai/starmoon) - オープンソースの音声認識可能でコンパクトで共感的なAIハードウェア＋ソフトウェア🤖フレームワーク。仲間、エンターテイメント、教育、小児医療、IoTロボティクスアプリケーション、AI強化ロボティクスアプリケーションサービス、研究、DIYロボティクスキット開発に使用可能。
+ * [LocalAI](https://github.com/mudler/localai) - 入力: :robot: OpenAI、Claudeなどの無料でオープンソースの代替品。セルフホストおよびローカルファースト。消費者向けのハードウェアで実行されるOpenAIの代替品。GPUは必要ありません。gguf、transformers、diffusersなど、多くのモデルアーキテクチャを実行します。
+ * [bisheng](https://github.com/dataelement/bisheng) - BISHENGは次世代のエンタープライズAIアプリケーション向けのオープンLLM DevOpsプラットフォームです。GenAIワークフロー、RAG、エージェント、統合モデル管理、評価、SFT、データセット管理、エンタープライズレベルのシステム管理など、強力で包括的な機能が含まれています。
 
 
-**CLIs**
- * [aider](https://github.com/aider-ai/aider) - aiderはあなたのターミナルでのAIペアプログラミングですaiderはあなたのターミナルでのAIペアプログラミングです
+**Browser-extensions**
+ * [AGiXT](https://github.com/josh-xt/agixt) - AGiXTは、さまざまなAIプロバイダー間で指示管理と複雑なタスク実行をシームレスにオーケストレーションするダイナミックなAIエージェント自動化プラットフォームです。適応型メモリ、スマート機能、多機能なプラグインシステムを組み合わせることで、効率的なAGiXTを提供します。
+
+
+**NLP**
+ * [FastGPT](https://github.com/labring/fastgpt) - FastGPTは、LLMsをベースに構築された知識ベースのプラットフォームで、データ処理、RAG検索、ビジュアルAIワークフローオーケストレーションなど、包括的な機能を提供しており、複雑な質問回答を簡単に開発および展開できます。
+ * [guardrails](https://github.com/guardrails-ai/guardrails) - 大規模言語モデルにガードレールを追加する。
+ * [E2B](https://github.com/e2b-dev/e2b) - AIアプリとAIエージェントのための安全なオープンソースクラウドランタイム
+ * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 大規模言語モデルとRAGに基づいたナレッジベースの質問応答システム。即座に使用可能で、モデルに中立的で柔軟な配置が可能で、第三者のビジネスシステムに迅速に組み込むことができます。
+ * [SillyTavern](https://github.com/sillytavern/sillytavern) - パワーユーザー向けのLLMフロントエンド。
+ * [instructor](https://github.com/jxnl/instructor) - LLMSのための構造化された出力
 
 
 **Openai**
- * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - gpt-4oリアルタイム機能を使用するためのAzure OpenAIコードリソース
+ * [inbox-zero](https://github.com/elie222/inbox-zero) - インボックスゼロに迅速に到達するためのオープンソースのメールアプリ。
+ * [ToolJet](https://github.com/tooljet/tooljet) - ビジネスアプリケーションを構築するための低コードプラットフォーム。データベース、クラウドストレージ、GraphQL、APIエンドポイント、Airtable、Googleシート、OpenAIなどに接続し、ドラッグアンドドロップのアプリケーションビルダーを使用してアプリを構築します。JavaScript/TypeScriptを使用して構築されています。🚀
+ * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPTは、誰もが利用し、構築することができるアクセス可能なAIのビジョンです。私たちの使命は、あなたが重要なことに集中できるようにツールを提供することです。
+ * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: 自動プルリクエストの分析、フィードバック、提案などを行うAI搭載ツール！ 💻🔍
 
 
 **Others**
- * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート
+ * [TaskWeaver](https://github.com/microsoft/taskweaver) - Visual Studio Code での CMake 統合
 
 
-_Updated on October 07, 2024_ (A total of 1796 repositories listed.)
+_Updated on October 10, 2024_ (A total of 1812 repositories listed.)
 
 ## Table of contents
 
@@ -128,6 +143,7 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。
  * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPTジェイルブレイク、GPTアシスタントプロンプトリーク、GPTプロンプトインジェクション、LLMプロンプトセキュリティ、スーパープロンプト、プロンプトハック、プロンプトセキュリティ、AIプロンプトエンジニアリング、敵対的機械学習。
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪 プラグインインデックス - これはLobeChatのプラグインインデックスです。 これは、このリポジトリからindex.jsonにアクセスして、LobeChatの利用可能なプラグインのリストをユーザーに表示します。
+ * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - OpenAI o1および推論技術に焦点を当てたLLM論文、ブログ、およびプロジェクトのコレクション。
 
 
 ## Prompts
@@ -269,6 +285,7 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - 自己ペースのジェネレーティブAIブートキャンプ。MLの基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3＆AIエージェント（CrewAI）に関するチュートリアル。
  * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UIは、OpenAIとAzure OpenAIの両方をサポートしています。
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。
+ * [langfuse](https://github.com/langfuse/langfuse) - 🪢 オープンソースのLLMエンジニアリングプラットフォーム：LLMオブザーバビリティ、メトリクス、評価、プロンプト管理、プレイグラウンド、データセット。LlamaIndex、Langchain、OpenAI SDK、LiteLLMなどと統合されています。🍊YC W23
 
 
 ## Chatbots
@@ -539,6 +556,8 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [whatsapp-ai-bot](https://github.com/zain-ul-din/whatsapp-ai-bot) - これは、Gemini、GPT、DALL-E、Flux、StabilityAIなどさまざまなAIモデルを使用して、ユーザーの入力に応じた応答を生成するWhatsApp AIボットです。
  * [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - AI-in-a-Boxは、世界中のマイクロソフトの専門知識を活用して、技術コミュニティにAIおよびMLソリューションを開発・提供します。私たちの目的は、エンジニアがAI/MLを確立するのに役立つソリューションアクセラレータのキュレーションされたコレクションを提供することです。
  * [Starmoon](https://github.com/starmoonai/starmoon) - オープンソースの音声認識可能でコンパクトで共感的なAIハードウェア＋ソフトウェア🤖フレームワーク。仲間、エンターテイメント、教育、小児医療、IoTロボティクスアプリケーション、AI強化ロボティクスアプリケーションサービス、研究、DIYロボティクスキット開発に使用可能。
+ * [LocalAI](https://github.com/mudler/localai) - 入力: :robot: OpenAI、Claudeなどの無料でオープンソースの代替品。セルフホストおよびローカルファースト。消費者向けのハードウェアで実行されるOpenAIの代替品。GPUは必要ありません。gguf、transformers、diffusersなど、多くのモデルアーキテクチャを実行します。
+ * [bisheng](https://github.com/dataelement/bisheng) - BISHENGは次世代のエンタープライズAIアプリケーション向けのオープンLLM DevOpsプラットフォームです。GenAIワークフロー、RAG、エージェント、統合モデル管理、評価、SFT、データセット管理、エンタープライズレベルのシステム管理など、強力で包括的な機能が含まれています。
 
 
 ## Browser-extensions
@@ -736,6 +755,7 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - ChatGPT、Gemini、Claude、phind、Groqのウェブサイトの利用体験を向上させ、便利な機能を提供します。たとえば、URLから自動的に入力するヒントを提供したり、返信する際に自動的にヒントボタンが表示されるようにします。
  * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - DuckDuckGoを使用してLLMがウェブを検索できるようにするoobabooga/text-generation-webuiの拡張機能
  * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenieは、IntelliJ IDEA用のプラグインで、ローカルLLM（Ollama、LMStudio、GPT4All、Llama.cpp、Exo）とクラウドベースのLLMを使用して、プロジェクトコードのレビュー、テスト、説明を支援します。
+ * [AGiXT](https://github.com/josh-xt/agixt) - AGiXTは、さまざまなAIプロバイダー間で指示管理と複雑なタスク実行をシームレスにオーケストレーションするダイナミックなAIエージェント自動化プラットフォームです。適応型メモリ、スマート機能、多機能なプラグインシステムを組み合わせることで、効率的なAGiXTを提供します。
 
 
 ## CLIs
@@ -1190,6 +1210,12 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - [CVPR'24] HallusionBench: あなたは何を考えているか見ていますか？それともあなたは何を見ているか考えていますか？GPT-4V(ision)、LLaVA-1.5、および他の多様性モデルに挑戦する画像コンテキスト推論ベンチマーク
  * [repo2txt](https://github.com/abinthomasonline/repo2txt) - Webベースのツールは、GitHubリポジトリの内容を1つのフォーマットされたテキストファイルに変換します。
  * [bigcodebench](https://github.com/bigcode-project/bigcodebench) - BigCodeBench：AGIに向けたコード生成のベンチマーク化
+ * [FastGPT](https://github.com/labring/fastgpt) - FastGPTは、LLMsをベースに構築された知識ベースのプラットフォームで、データ処理、RAG検索、ビジュアルAIワークフローオーケストレーションなど、包括的な機能を提供しており、複雑な質問回答を簡単に開発および展開できます。
+ * [guardrails](https://github.com/guardrails-ai/guardrails) - 大規模言語モデルにガードレールを追加する。
+ * [E2B](https://github.com/e2b-dev/e2b) - AIアプリとAIエージェントのための安全なオープンソースクラウドランタイム
+ * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 大規模言語モデルとRAGに基づいたナレッジベースの質問応答システム。即座に使用可能で、モデルに中立的で柔軟な配置が可能で、第三者のビジネスシステムに迅速に組み込むことができます。
+ * [SillyTavern](https://github.com/sillytavern/sillytavern) - パワーユーザー向けのLLMフロントエンド。
+ * [instructor](https://github.com/jxnl/instructor) - LLMSのための構造化された出力
 
 
 ## Langchain
@@ -1496,6 +1522,10 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [PureChat](https://github.com/hyk260/purechat) - PureChatは、ChatGPTを統合したチャットアプリであり、Vue3、Vite5、Electronで開発されています。
  * [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - Input: OpenGPT 4oはOpenAI GPT 4oの無料の代替品です。
  * [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - gpt-4oリアルタイム機能を使用するためのAzure OpenAIコードリソース
+ * [inbox-zero](https://github.com/elie222/inbox-zero) - インボックスゼロに迅速に到達するためのオープンソースのメールアプリ。
+ * [ToolJet](https://github.com/tooljet/tooljet) - ビジネスアプリケーションを構築するための低コードプラットフォーム。データベース、クラウドストレージ、GraphQL、APIエンドポイント、Airtable、Googleシート、OpenAIなどに接続し、ドラッグアンドドロップのアプリケーションビルダーを使用してアプリを構築します。JavaScript/TypeScriptを使用して構築されています。🚀
+ * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPTは、誰もが利用し、構築することができるアクセス可能なAIのビジョンです。私たちの使命は、あなたが重要なことに集中できるようにツールを提供することです。
+ * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: 自動プルリクエストの分析、フィードバック、提案などを行うAI搭載ツール！ 💻🔍
 
 
 ## Others
@@ -1908,5 +1938,6 @@ _Updated on October 07, 2024_ (A total of 1796 repositories listed.)
  * [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - chatgpt公式ウェブサイトアカウントを使用して外部APIサービスを実現します。
  * [ChatALL](https://github.com/ai-shifu/chatall) - ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言などと同時にチャットし、最適な回答を見つける
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート
+ * [TaskWeaver](https://github.com/microsoft/taskweaver) - Visual Studio Code での CMake 統合
 
 
