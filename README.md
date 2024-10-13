@@ -16,43 +16,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
+ * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 
 
 **Prompts**
- * [langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-
-
-**Chatbots**
- * [LocalAI](https://github.com/mudler/localai) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference
- * [bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more.
-
-
-**Browser-extensions**
- * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
+ * [gateway](https://github.com/portkey-ai/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 
 
 **NLP**
- * [FastGPT](https://github.com/labring/fastgpt) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
- * [guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
- * [E2B](https://github.com/e2b-dev/e2b) - Secure open source cloud runtime for AI apps & AI agents
- * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
- * [SillyTavern](https://github.com/sillytavern/sillytavern) - LLM Frontend for Power Users.
- * [instructor](https://github.com/jxnl/instructor) - structured outputs for llms
+ * [instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+ * [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+ * [ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 
 
 **Openai**
- * [inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
- * [ToolJet](https://github.com/tooljet/tooljet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
- * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
- * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+ * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
+ * [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 
 
-**Others**
- * [TaskWeaver](https://github.com/microsoft/taskweaver) - CMake integration in Visual Studio Code
-
-
-_Updated on October 10, 2024_ (A total of 1812 repositories listed.)
+_Updated on October 13, 2024_ (A total of 1819 repositories listed.)
 
 ## Table of contents
 
@@ -144,6 +126,7 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
  * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
+ * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
 
 
 ## Prompts
@@ -286,6 +269,7 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UI with support for both OpenAI and Azure OpenAI. 快速的ChatGPT UI，支持OpenAI和Azure OpenAI。
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+ * [gateway](https://github.com/portkey-ai/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 
 
 ## Chatbots
@@ -1216,6 +1200,9 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
  * [SillyTavern](https://github.com/sillytavern/sillytavern) - LLM Frontend for Power Users.
  * [instructor](https://github.com/jxnl/instructor) - structured outputs for llms
+ * [instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+ * [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+ * [ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 
 
 ## Langchain
@@ -1526,6 +1513,8 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [ToolJet](https://github.com/tooljet/tooljet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
  * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
  * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+ * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
+ * [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 
 
 ## Others
