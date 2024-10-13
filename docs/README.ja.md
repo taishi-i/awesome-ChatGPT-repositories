@@ -16,43 +16,25 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - OpenAI o1および推論技術に焦点を当てたLLM論文、ブログ、およびプロジェクトのコレクション。
+ * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - OpenAI、Anthropic、Gemini、およびオープンソースモデルを使用した素晴らしいLLMアプリのコレクション。
 
 
 **Prompts**
- * [langfuse](https://github.com/langfuse/langfuse) - 🪢 オープンソースのLLMエンジニアリングプラットフォーム：LLMオブザーバビリティ、メトリクス、評価、プロンプト管理、プレイグラウンド、データセット。LlamaIndex、Langchain、OpenAI SDK、LiteLLMなどと統合されています。🍊YC W23
-
-
-**Chatbots**
- * [LocalAI](https://github.com/mudler/localai) - 入力: :robot: OpenAI、Claudeなどの無料でオープンソースの代替品。セルフホストおよびローカルファースト。消費者向けのハードウェアで実行されるOpenAIの代替品。GPUは必要ありません。gguf、transformers、diffusersなど、多くのモデルアーキテクチャを実行します。
- * [bisheng](https://github.com/dataelement/bisheng) - BISHENGは次世代のエンタープライズAIアプリケーション向けのオープンLLM DevOpsプラットフォームです。GenAIワークフロー、RAG、エージェント、統合モデル管理、評価、SFT、データセット管理、エンタープライズレベルのシステム管理など、強力で包括的な機能が含まれています。
-
-
-**Browser-extensions**
- * [AGiXT](https://github.com/josh-xt/agixt) - AGiXTは、さまざまなAIプロバイダー間で指示管理と複雑なタスク実行をシームレスにオーケストレーションするダイナミックなAIエージェント自動化プラットフォームです。適応型メモリ、スマート機能、多機能なプラグインシステムを組み合わせることで、効率的なAGiXTを提供します。
+ * [gateway](https://github.com/portkey-ai/gateway) - 組み込みガードレールを備えた高速AIゲートウェイ。200以上のLLMへのルート、50以上のAIガードレールを1つの高速で使いやすいAPIで提供します。
 
 
 **NLP**
- * [FastGPT](https://github.com/labring/fastgpt) - FastGPTは、LLMsをベースに構築された知識ベースのプラットフォームで、データ処理、RAG検索、ビジュアルAIワークフローオーケストレーションなど、包括的な機能を提供しており、複雑な質問回答を簡単に開発および展開できます。
- * [guardrails](https://github.com/guardrails-ai/guardrails) - 大規模言語モデルにガードレールを追加する。
- * [E2B](https://github.com/e2b-dev/e2b) - AIアプリとAIエージェントのための安全なオープンソースクラウドランタイム
- * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 大規模言語モデルとRAGに基づいたナレッジベースの質問応答システム。即座に使用可能で、モデルに中立的で柔軟な配置が可能で、第三者のビジネスシステムに迅速に組み込むことができます。
- * [SillyTavern](https://github.com/sillytavern/sillytavern) - パワーユーザー向けのLLMフロントエンド。
- * [instructor](https://github.com/jxnl/instructor) - LLMSのための構造化された出力
+ * [instructor](https://github.com/instructor-ai/instructor) - LLMSのための構造化された出力
+ * [buzz](https://github.com/chidiwilliams/buzz) - Buzzは、個人用コンピューターでオフラインで音声を書き起こし、翻訳します。OpenAIのWhisperによって動作します。
+ * [ai](https://github.com/vercel/ai) - React、Svelte、Vue、およびSolidを使用してAI搭載アプリケーションを構築します。
 
 
 **Openai**
- * [inbox-zero](https://github.com/elie222/inbox-zero) - インボックスゼロに迅速に到達するためのオープンソースのメールアプリ。
- * [ToolJet](https://github.com/tooljet/tooljet) - ビジネスアプリケーションを構築するための低コードプラットフォーム。データベース、クラウドストレージ、GraphQL、APIエンドポイント、Airtable、Googleシート、OpenAIなどに接続し、ドラッグアンドドロップのアプリケーションビルダーを使用してアプリを構築します。JavaScript/TypeScriptを使用して構築されています。🚀
- * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPTは、誰もが利用し、構築することができるアクセス可能なAIのビジョンです。私たちの使命は、あなたが重要なことに集中できるようにツールを提供することです。
- * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: 自動プルリクエストの分析、フィードバック、提案などを行うAI搭載ツール！ 💻🔍
+ * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - OpenAI Whisperに基づいたスピーカーダイアリゼーション付きの自動音声認識
+ * [swarm](https://github.com/openai/swarm) - エルゴノミックで軽量なマルチエージェントのオーケストレーションを探求する教育フレームワーク。OpenAIソリューションチームによって管理されています。
 
 
-**Others**
- * [TaskWeaver](https://github.com/microsoft/taskweaver) - Visual Studio Code での CMake 統合
-
-
-_Updated on October 10, 2024_ (A total of 1812 repositories listed.)
+_Updated on October 13, 2024_ (A total of 1819 repositories listed.)
 
 ## Table of contents
 
@@ -144,6 +126,7 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPTジェイルブレイク、GPTアシスタントプロンプトリーク、GPTプロンプトインジェクション、LLMプロンプトセキュリティ、スーパープロンプト、プロンプトハック、プロンプトセキュリティ、AIプロンプトエンジニアリング、敵対的機械学習。
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪 プラグインインデックス - これはLobeChatのプラグインインデックスです。 これは、このリポジトリからindex.jsonにアクセスして、LobeChatの利用可能なプラグインのリストをユーザーに表示します。
  * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - OpenAI o1および推論技術に焦点を当てたLLM論文、ブログ、およびプロジェクトのコレクション。
+ * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - OpenAI、Anthropic、Gemini、およびオープンソースモデルを使用した素晴らしいLLMアプリのコレクション。
 
 
 ## Prompts
@@ -286,6 +269,7 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - Fast ChatGPT UIは、OpenAIとAzure OpenAIの両方をサポートしています。
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 オープンソースのLLMエンジニアリングプラットフォーム：LLMオブザーバビリティ、メトリクス、評価、プロンプト管理、プレイグラウンド、データセット。LlamaIndex、Langchain、OpenAI SDK、LiteLLMなどと統合されています。🍊YC W23
+ * [gateway](https://github.com/portkey-ai/gateway) - 組み込みガードレールを備えた高速AIゲートウェイ。200以上のLLMへのルート、50以上のAIガードレールを1つの高速で使いやすいAPIで提供します。
 
 
 ## Chatbots
@@ -1216,6 +1200,9 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 大規模言語モデルとRAGに基づいたナレッジベースの質問応答システム。即座に使用可能で、モデルに中立的で柔軟な配置が可能で、第三者のビジネスシステムに迅速に組み込むことができます。
  * [SillyTavern](https://github.com/sillytavern/sillytavern) - パワーユーザー向けのLLMフロントエンド。
  * [instructor](https://github.com/jxnl/instructor) - LLMSのための構造化された出力
+ * [instructor](https://github.com/instructor-ai/instructor) - LLMSのための構造化された出力
+ * [buzz](https://github.com/chidiwilliams/buzz) - Buzzは、個人用コンピューターでオフラインで音声を書き起こし、翻訳します。OpenAIのWhisperによって動作します。
+ * [ai](https://github.com/vercel/ai) - React、Svelte、Vue、およびSolidを使用してAI搭載アプリケーションを構築します。
 
 
 ## Langchain
@@ -1526,6 +1513,8 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [ToolJet](https://github.com/tooljet/tooljet) - ビジネスアプリケーションを構築するための低コードプラットフォーム。データベース、クラウドストレージ、GraphQL、APIエンドポイント、Airtable、Googleシート、OpenAIなどに接続し、ドラッグアンドドロップのアプリケーションビルダーを使用してアプリを構築します。JavaScript/TypeScriptを使用して構築されています。🚀
  * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPTは、誰もが利用し、構築することができるアクセス可能なAIのビジョンです。私たちの使命は、あなたが重要なことに集中できるようにツールを提供することです。
  * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: 自動プルリクエストの分析、フィードバック、提案などを行うAI搭載ツール！ 💻🔍
+ * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - OpenAI Whisperに基づいたスピーカーダイアリゼーション付きの自動音声認識
+ * [swarm](https://github.com/openai/swarm) - エルゴノミックで軽量なマルチエージェントのオーケストレーションを探求する教育フレームワーク。OpenAIソリューションチームによって管理されています。
 
 
 ## Others

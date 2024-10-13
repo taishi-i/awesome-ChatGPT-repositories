@@ -16,43 +16,25 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - 一系列LLM論文、部落格和項目，重點放在OpenAI o1和推理技術上。
+ * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - 使用OpenAI、Anthropic、Gemini和開源模型的優秀LLM應用程式集合。
 
 
 **Prompts**
- * [langfuse](https://github.com/langfuse/langfuse) - 🪢 開源LLM工程平台：LLM可觀察性、指標、評估、提示管理、遊樂場、數據集。與LlamaIndex、Langchain、OpenAI SDK、LiteLLM等集成。🍊YC W23
-
-
-**Chatbots**
- * [LocalAI](https://github.com/mudler/localai) - 🤖 自由、開源的替代方案，可替代OpenAI、Claude和其他人。自主託管和本地優先。可直接替代OpenAI，在消費級硬件上運行。無需GPU。運行gguf、transformers、diffusers和許多其他模型架構。
- * [bisheng](https://github.com/dataelement/bisheng) - BISHENG是一個開放的LLM devops平台，用於下一代企業AI應用。強大而全面的功能包括：GenAI工作流程、RAG、Agent、統一模型管理、評估、SFT、數據集管理、企業級系統管理。
-
-
-**Browser-extensions**
- * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT是一個動態的AI代理自動化平台，可以無縫地協調指令管理和複雜任務執行，跨越不同的AI提供商。結合適應性記憶、智能功能和多功能插件系統，AGiXT提供高效的。
+ * [gateway](https://github.com/portkey-ai/gateway) - 一個具有整合護欄的高速AI閘道。通往200多個LLM，50多個AI護欄，配有1個快速友好的API。
 
 
 **NLP**
- * [FastGPT](https://github.com/labring/fastgpt) - FastGPT是基於LLMs構建的知識平台，提供了一套全面的即插即用功能，如數據處理、RAG檢索和視覺AI工作流程編排，讓您輕鬆開發和部署複雜的問答。
- * [guardrails](https://github.com/guardrails-ai/guardrails) - 將護欄添加到大型語言模型。
- * [E2B](https://github.com/e2b-dev/e2b) - 安全的開源雲運行時，適用於AI應用程序和AI代理程序
- * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 基於大型語言模型和 RAG 的知識庫問答系統。開箱即用、模型中立、靈活編排，支持快速嵌入到第三方業務系統。
- * [SillyTavern](https://github.com/sillytavern/sillytavern) - LLM 高級用戶前端。
- * [instructor](https://github.com/jxnl/instructor) - 給LLMS的結構化輸出
+ * [instructor](https://github.com/instructor-ai/instructor) - 給LLMS的結構化輸出
+ * [buzz](https://github.com/chidiwilliams/buzz) - 巴茲在您的個人電腦上離線轉錄和翻譯音頻。由OpenAI的Whisper提供動力。
+ * [ai](https://github.com/vercel/ai) - 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
 
 
 **Openai**
- * [inbox-zero](https://github.com/elie222/inbox-zero) - 開源電子郵件應用程式，快速達到收件箱零。
- * [ToolJet](https://github.com/tooljet/tooljet) - 低代碼平台用於構建業務應用程序。連接到數據庫、雲存儲、GraphQL、API端點、Airtable、Google表格、OpenAI等，並使用拖放應用程序構建器構建應用程序。使用JavaScript/TypeScript構建。 🚀
- * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPT是讓每個人都能夠使用和建立的AI的願景。我們的使命是提供工具，讓您可以專注於重要的事情。
- * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent：一個AI驅動的🤖工具，用於自動化拉取請求分析、反饋、建議等！💻🔍
+ * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - 基於OpenAI Whisper的自動語音識別與語者辨識
+ * [swarm](https://github.com/openai/swarm) - 教育框架探索符合人體工程學的輕量級多智能體協調。由OpenAI解決方案團隊管理。
 
 
-**Others**
- * [TaskWeaver](https://github.com/microsoft/taskweaver) - 在Visual Studio Code中集成CMake
-
-
-_Updated on October 10, 2024_ (A total of 1812 repositories listed.)
+_Updated on October 13, 2024_ (A total of 1819 repositories listed.)
 
 ## Table of contents
 
@@ -144,6 +126,7 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ChatGPT越獄，GPT助手提示洩漏，GPT提示注入，LLM提示安全，超級提示，提示黑客，提示安全，Ai提示工程，對抗機器學習。
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  插件索引 - 這是 LobeChat 的插件索引。它從這個存儲庫中訪問 index.json，向用戶顯示 LobeChat 可用插件的列表。
  * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - 一系列LLM論文、部落格和項目，重點放在OpenAI o1和推理技術上。
+ * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - 使用OpenAI、Anthropic、Gemini和開源模型的優秀LLM應用程式集合。
 
 
 ## Prompts
@@ -286,6 +269,7 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - 快速的ChatGPT UI，支持OpenAI和Azure OpenAI。
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 該項目包括一個基於 GPT 等大語言模型的長篇小說生成器，同時還有各類小說生成 Prompt 以及教程。我們歡迎社區貢獻，持續更新以提供最佳的小說創作體驗。
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 開源LLM工程平台：LLM可觀察性、指標、評估、提示管理、遊樂場、數據集。與LlamaIndex、Langchain、OpenAI SDK、LiteLLM等集成。🍊YC W23
+ * [gateway](https://github.com/portkey-ai/gateway) - 一個具有整合護欄的高速AI閘道。通往200多個LLM，50多個AI護欄，配有1個快速友好的API。
 
 
 ## Chatbots
@@ -1216,6 +1200,9 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [MaxKB](https://github.com/1panel-dev/maxkb) - 🚀 基於大型語言模型和 RAG 的知識庫問答系統。開箱即用、模型中立、靈活編排，支持快速嵌入到第三方業務系統。
  * [SillyTavern](https://github.com/sillytavern/sillytavern) - LLM 高級用戶前端。
  * [instructor](https://github.com/jxnl/instructor) - 給LLMS的結構化輸出
+ * [instructor](https://github.com/instructor-ai/instructor) - 給LLMS的結構化輸出
+ * [buzz](https://github.com/chidiwilliams/buzz) - 巴茲在您的個人電腦上離線轉錄和翻譯音頻。由OpenAI的Whisper提供動力。
+ * [ai](https://github.com/vercel/ai) - 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
 
 
 ## Langchain
@@ -1526,6 +1513,8 @@ _Updated on October 10, 2024_ (A total of 1812 repositories listed.)
  * [ToolJet](https://github.com/tooljet/tooljet) - 低代碼平台用於構建業務應用程序。連接到數據庫、雲存儲、GraphQL、API端點、Airtable、Google表格、OpenAI等，並使用拖放應用程序構建器構建應用程序。使用JavaScript/TypeScript構建。 🚀
  * [AutoGPT](https://github.com/significant-gravitas/autogpt) - AutoGPT是讓每個人都能夠使用和建立的AI的願景。我們的使命是提供工具，讓您可以專注於重要的事情。
  * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent：一個AI驅動的🤖工具，用於自動化拉取請求分析、反饋、建議等！💻🔍
+ * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - 基於OpenAI Whisper的自動語音識別與語者辨識
+ * [swarm](https://github.com/openai/swarm) - 教育框架探索符合人體工程學的輕量級多智能體協調。由OpenAI解決方案團隊管理。
 
 
 ## Others

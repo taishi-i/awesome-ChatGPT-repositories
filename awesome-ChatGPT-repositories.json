@@ -1853,6 +1853,24 @@
                     "zh-hans": "一个关于LLM论文、博客和项目的收集，重点关注OpenAI o1和推理技术。",
                     "zh-hant": "一系列LLM論文、部落格和項目，重點放在OpenAI o1和推理技術上。"
                 }
+            },
+            "https://github.com/shubhamsaboo/awesome-llm-apps": {
+                "repository_name": "awesome-llm-apps",
+                "user_name": "Shubhamsaboo",
+                "language": "Python",
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+                "topics": [
+                    "llms",
+                    "python",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+                    "ja": "OpenAI、Anthropic、Gemini、およびオープンソースモデルを使用した素晴らしいLLMアプリのコレクション。",
+                    "zh-hans": "使用OpenAI、Anthropic、Gemini和开源模型的一组出色的LLM应用程序集合。",
+                    "zh-hant": "使用OpenAI、Anthropic、Gemini和開源模型的優秀LLM應用程式集合。"
+                }
             }
         },
         "Prompts": {
@@ -5045,6 +5063,32 @@
                     "ja": "🪢 オープンソースのLLMエンジニアリングプラットフォーム：LLMオブザーバビリティ、メトリクス、評価、プロンプト管理、プレイグラウンド、データセット。LlamaIndex、Langchain、OpenAI SDK、LiteLLMなどと統合されています。🍊YC W23",
                     "zh-hans": "🪢 开源LLM工程平台：LLM可观测性，指标，评估，提示管理，游乐场，数据集。与LlamaIndex，Langchain，OpenAI SDK，LiteLLM等集成。🍊YC W23",
                     "zh-hant": "🪢 開源LLM工程平台：LLM可觀察性、指標、評估、提示管理、遊樂場、數據集。與LlamaIndex、Langchain、OpenAI SDK、LiteLLM等集成。🍊YC W23"
+                }
+            },
+            "https://github.com/portkey-ai/gateway": {
+                "repository_name": "gateway",
+                "user_name": "Portkey-AI",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
+                "topics": [
+                    "ai-gateway",
+                    "gateway",
+                    "generative-ai",
+                    "hacktoberfest",
+                    "langchain",
+                    "llama-index",
+                    "llmops",
+                    "llms",
+                    "openai",
+                    "prompt-engineering",
+                    "router"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
+                    "ja": "組み込みガードレールを備えた高速AIゲートウェイ。200以上のLLMへのルート、50以上のAIガードレールを1つの高速で使いやすいAPIで提供します。",
+                    "zh-hans": "一个拥有集成护栏的高速AI网关。通往200多个LLMs，50多个AI护栏，配有1个快速友好的API。",
+                    "zh-hant": "一個具有整合護欄的高速AI閘道。通往200多個LLM，50多個AI護欄，配有1個快速友好的API。"
                 }
             }
         },
@@ -25620,6 +25664,73 @@
                     "zh-hans": "为llms设计结构化输出",
                     "zh-hant": "給LLMS的結構化輸出"
                 }
+            },
+            "https://github.com/instructor-ai/instructor": {
+                "repository_name": "instructor",
+                "user_name": "instructor-ai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "structured outputs for llms ",
+                "topics": [
+                    "openai",
+                    "openai-function-calli",
+                    "openai-functions",
+                    "pydantic-v2",
+                    "python",
+                    "validation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "structured outputs for llms",
+                    "ja": "LLMSのための構造化された出力",
+                    "zh-hans": "为llms设计结构化输出",
+                    "zh-hant": "給LLMS的結構化輸出"
+                }
+            },
+            "https://github.com/chidiwilliams/buzz": {
+                "repository_name": "buzz",
+                "user_name": "chidiwilliams",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+                "topics": [
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+                    "ja": "Buzzは、個人用コンピューターでオフラインで音声を書き起こし、翻訳します。OpenAIのWhisperによって動作します。",
+                    "zh-hans": "Buzz在您的个人电脑上离线转录和翻译音频。由OpenAI的Whisper提供支持。",
+                    "zh-hant": "巴茲在您的個人電腦上離線轉錄和翻譯音頻。由OpenAI的Whisper提供動力。"
+                }
+            },
+            "https://github.com/vercel/ai": {
+                "repository_name": "ai",
+                "user_name": "vercel",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+                "topics": [
+                    "artificial-intelligence",
+                    "generative-ai",
+                    "generative-ui",
+                    "huggingface",
+                    "javascript",
+                    "language-model",
+                    "llm",
+                    "nextjs",
+                    "openai",
+                    "react",
+                    "solidjs",
+                    "svelte",
+                    "typescript",
+                    "vercel",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+                    "ja": "React、Svelte、Vue、およびSolidを使用してAI搭載アプリケーションを構築します。",
+                    "zh-hans": "使用React、Svelte、Vue和Solid构建AI驱动的应用程序",
+                    "zh-hant": "使用React、Svelte、Vue和Solid构建AI驱动的应用程序"
+                }
             }
         },
         "Langchain": {
@@ -32371,6 +32482,41 @@
                     "ja": "🚀CodiumAI PR-Agent: 自動プルリクエストの分析、フィードバック、提案などを行うAI搭載ツール！ 💻🔍",
                     "zh-hans": "🚀CodiumAI PR-Agent：一款AI驱动的🤖工具，用于自动化拉取请求分析、反馈、建议等！💻🔍",
                     "zh-hant": "🚀CodiumAI PR-Agent：一個AI驅動的🤖工具，用於自動化拉取請求分析、反饋、建議等！💻🔍"
+                }
+            },
+            "https://github.com/mahmoudashraf97/whisper-diarization": {
+                "repository_name": "whisper-diarization",
+                "user_name": "MahmoudAshraf97",
+                "language": "Jupyter Notebook",
+                "license": "BSD 2-Clause \"Simplified\" License",
+                "description": "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper",
+                "topics": [
+                    "asr",
+                    "speaker-diarization",
+                    "speech",
+                    "speech-recognition",
+                    "speech-to-text",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper",
+                    "ja": "OpenAI Whisperに基づいたスピーカーダイアリゼーション付きの自動音声認識",
+                    "zh-hans": "基于OpenAI Whisper的自动语音识别和说话者分离",
+                    "zh-hant": "基於OpenAI Whisper的自動語音識別與語者辨識"
+                }
+            },
+            "https://github.com/openai/swarm": {
+                "repository_name": "swarm",
+                "user_name": "openai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+                    "ja": "エルゴノミックで軽量なマルチエージェントのオーケストレーションを探求する教育フレームワーク。OpenAIソリューションチームによって管理されています。",
+                    "zh-hans": "教育框架探索符合人体工程学的轻量级多代理编排。由OpenAI解决方案团队管理。",
+                    "zh-hant": "教育框架探索符合人體工程學的輕量級多智能體協調。由OpenAI解決方案團隊管理。"
                 }
             }
         },
