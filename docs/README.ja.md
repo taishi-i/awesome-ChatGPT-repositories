@@ -15,26 +15,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - OpenAI、Anthropic、Gemini、およびオープンソースモデルを使用した素晴らしいLLMアプリのコレクション。
-
-
 **Prompts**
- * [gateway](https://github.com/portkey-ai/gateway) - 組み込みガードレールを備えた高速AIゲートウェイ。200以上のLLMへのルート、50以上のAIガードレールを1つの高速で使いやすいAPIで提供します。
+ * [ai-notes](https://github.com/swyxio/ai-notes) - 新しいAIの開発に追いつくソフトウェアエンジニア向けのノート。https://latent.spaceの執筆や製品のブレインストーミングのためのデータストアとして機能しますが、/Resourcesフォルダーの下に整理された標準的な参照情報があります。
+
+
+**Chatbots**
+ * [agency-swarm](https://github.com/vrsen/agency-swarm) - 最新のOpenAI Assistants APIをベースに構築された唯一信頼できるエージェントフレームワーク。
 
 
 **NLP**
- * [instructor](https://github.com/instructor-ai/instructor) - LLMSのための構造化された出力
- * [buzz](https://github.com/chidiwilliams/buzz) - Buzzは、個人用コンピューターでオフラインで音声を書き起こし、翻訳します。OpenAIのWhisperによって動作します。
- * [ai](https://github.com/vercel/ai) - React、Svelte、Vue、およびSolidを使用してAI搭載アプリケーションを構築します。
+ * [rivet](https://github.com/ironclad/rivet) - オープンソースのビジュアルAIプログラミング環境とTypeScriptライブラリ
 
 
 **Openai**
- * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - OpenAI Whisperに基づいたスピーカーダイアリゼーション付きの自動音声認識
- * [swarm](https://github.com/openai/swarm) - エルゴノミックで軽量なマルチエージェントのオーケストレーションを探求する教育フレームワーク。OpenAIソリューションチームによって管理されています。
+ * [DashPlayer](https://github.com/solidspoon/dashplayer) - 英語学習者向けにカスタマイズされたビデオプレーヤー、ビデオを視聴し、リアルな文脈に没頭することで、英語力を簡単に向上させるお手伝いをします。#海外ドラマ #プレーヤー #リスニング
+ * [logfire](https://github.com/pydantic/logfire) - Pythonをはじめとするシンプルな観測可能性！ 🪵🔥
+ * [new-api](https://github.com/calcium-ion/new-api) - AIモデルのインターフェース管理および配布システムは、複数の大規模モデルをOpenAI形式で呼び出すことをサポートし、Midjourney Proxy、Suno、Rerankをサポートし、EasyPayプロトコルと互換性があります。個人または企業の内部管理および配布チャネルでのみ使用するために提供されており、商業目的には使用しないでください。このプロジェクトはOne APIをベースに二次開発されています。
 
 
-_Updated on October 13, 2024_ (A total of 1819 repositories listed.)
+_Updated on October 17, 2024_ (A total of 1825 repositories listed.)
 
 ## Table of contents
 
@@ -270,6 +269,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 オープンソースのLLMエンジニアリングプラットフォーム：LLMオブザーバビリティ、メトリクス、評価、プロンプト管理、プレイグラウンド、データセット。LlamaIndex、Langchain、OpenAI SDK、LiteLLMなどと統合されています。🍊YC W23
  * [gateway](https://github.com/portkey-ai/gateway) - 組み込みガードレールを備えた高速AIゲートウェイ。200以上のLLMへのルート、50以上のAIガードレールを1つの高速で使いやすいAPIで提供します。
+ * [ai-notes](https://github.com/swyxio/ai-notes) - 新しいAIの開発に追いつくソフトウェアエンジニア向けのノート。https://latent.spaceの執筆や製品のブレインストーミングのためのデータストアとして機能しますが、/Resourcesフォルダーの下に整理された標準的な参照情報があります。
 
 
 ## Chatbots
@@ -542,6 +542,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [Starmoon](https://github.com/starmoonai/starmoon) - オープンソースの音声認識可能でコンパクトで共感的なAIハードウェア＋ソフトウェア🤖フレームワーク。仲間、エンターテイメント、教育、小児医療、IoTロボティクスアプリケーション、AI強化ロボティクスアプリケーションサービス、研究、DIYロボティクスキット開発に使用可能。
  * [LocalAI](https://github.com/mudler/localai) - 入力: :robot: OpenAI、Claudeなどの無料でオープンソースの代替品。セルフホストおよびローカルファースト。消費者向けのハードウェアで実行されるOpenAIの代替品。GPUは必要ありません。gguf、transformers、diffusersなど、多くのモデルアーキテクチャを実行します。
  * [bisheng](https://github.com/dataelement/bisheng) - BISHENGは次世代のエンタープライズAIアプリケーション向けのオープンLLM DevOpsプラットフォームです。GenAIワークフロー、RAG、エージェント、統合モデル管理、評価、SFT、データセット管理、エンタープライズレベルのシステム管理など、強力で包括的な機能が含まれています。
+ * [agency-swarm](https://github.com/vrsen/agency-swarm) - 最新のOpenAI Assistants APIをベースに構築された唯一信頼できるエージェントフレームワーク。
 
 
 ## Browser-extensions
@@ -1203,6 +1204,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [instructor](https://github.com/instructor-ai/instructor) - LLMSのための構造化された出力
  * [buzz](https://github.com/chidiwilliams/buzz) - Buzzは、個人用コンピューターでオフラインで音声を書き起こし、翻訳します。OpenAIのWhisperによって動作します。
  * [ai](https://github.com/vercel/ai) - React、Svelte、Vue、およびSolidを使用してAI搭載アプリケーションを構築します。
+ * [rivet](https://github.com/ironclad/rivet) - オープンソースのビジュアルAIプログラミング環境とTypeScriptライブラリ
 
 
 ## Langchain
@@ -1515,6 +1517,9 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: 自動プルリクエストの分析、フィードバック、提案などを行うAI搭載ツール！ 💻🔍
  * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - OpenAI Whisperに基づいたスピーカーダイアリゼーション付きの自動音声認識
  * [swarm](https://github.com/openai/swarm) - エルゴノミックで軽量なマルチエージェントのオーケストレーションを探求する教育フレームワーク。OpenAIソリューションチームによって管理されています。
+ * [DashPlayer](https://github.com/solidspoon/dashplayer) - 英語学習者向けにカスタマイズされたビデオプレーヤー、ビデオを視聴し、リアルな文脈に没頭することで、英語力を簡単に向上させるお手伝いをします。#海外ドラマ #プレーヤー #リスニング
+ * [logfire](https://github.com/pydantic/logfire) - Pythonをはじめとするシンプルな観測可能性！ 🪵🔥
+ * [new-api](https://github.com/calcium-ion/new-api) - AIモデルのインターフェース管理および配布システムは、複数の大規模モデルをOpenAI形式で呼び出すことをサポートし、Midjourney Proxy、Suno、Rerankをサポートし、EasyPayプロトコルと互換性があります。個人または企業の内部管理および配布チャネルでのみ使用するために提供されており、商業目的には使用しないでください。このプロジェクトはOne APIをベースに二次開発されています。
 
 
 ## Others
