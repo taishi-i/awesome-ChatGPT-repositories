@@ -15,26 +15,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - 使用OpenAI、Anthropic、Gemini和開源模型的優秀LLM應用程式集合。
-
-
 **Prompts**
- * [gateway](https://github.com/portkey-ai/gateway) - 一個具有整合護欄的高速AI閘道。通往200多個LLM，50多個AI護欄，配有1個快速友好的API。
+ * [ai-notes](https://github.com/swyxio/ai-notes) - 軟體工程師快速掌握新人工智慧發展的筆記。 用於https://latent.space寫作和產品構思的數據存儲，但在/Resources文件夾下有整理過的標準參考資料。
+
+
+**Chatbots**
+ * [agency-swarm](https://github.com/vrsen/agency-swarm) - 建立在最新的OpenAI助手API之上的唯一可靠代理框架。
 
 
 **NLP**
- * [instructor](https://github.com/instructor-ai/instructor) - 給LLMS的結構化輸出
- * [buzz](https://github.com/chidiwilliams/buzz) - 巴茲在您的個人電腦上離線轉錄和翻譯音頻。由OpenAI的Whisper提供動力。
- * [ai](https://github.com/vercel/ai) - 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
+ * [rivet](https://github.com/ironclad/rivet) - 開源視覺人工智慧編程環境和TypeScript庫
 
 
 **Openai**
- * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - 基於OpenAI Whisper的自動語音識別與語者辨識
- * [swarm](https://github.com/openai/swarm) - 教育框架探索符合人體工程學的輕量級多智能體協調。由OpenAI解決方案團隊管理。
+ * [DashPlayer](https://github.com/solidspoon/dashplayer) - 為英語學習者量身打造的視頻播放器，助你通過觀看視頻、沉浸真實語境，輕鬆提升英語水平。#美劇 #播放器 #聽力
+ * [logfire](https://github.com/pydantic/logfire) - 簡單易用的Python及更多語言的可觀察性！🪵🔥
+ * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理與分發系統，支持將多種大模型轉為OpenAI格式調用、支持Midjourney Proxy、Suno、Rerank，兼容易支付協議，僅供個人或者企業內部管理與分發渠道使用，請勿用於商業用途，本項目基於One API二次開發。
 
 
-_Updated on October 13, 2024_ (A total of 1819 repositories listed.)
+_Updated on October 17, 2024_ (A total of 1825 repositories listed.)
 
 ## Table of contents
 
@@ -270,6 +269,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 該項目包括一個基於 GPT 等大語言模型的長篇小說生成器，同時還有各類小說生成 Prompt 以及教程。我們歡迎社區貢獻，持續更新以提供最佳的小說創作體驗。
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 開源LLM工程平台：LLM可觀察性、指標、評估、提示管理、遊樂場、數據集。與LlamaIndex、Langchain、OpenAI SDK、LiteLLM等集成。🍊YC W23
  * [gateway](https://github.com/portkey-ai/gateway) - 一個具有整合護欄的高速AI閘道。通往200多個LLM，50多個AI護欄，配有1個快速友好的API。
+ * [ai-notes](https://github.com/swyxio/ai-notes) - 軟體工程師快速掌握新人工智慧發展的筆記。 用於https://latent.space寫作和產品構思的數據存儲，但在/Resources文件夾下有整理過的標準參考資料。
 
 
 ## Chatbots
@@ -542,6 +542,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [Starmoon](https://github.com/starmoonai/starmoon) - 一個開源的語音啟用、緊湊、具有共情能力的人工智慧硬體+軟體🤖框架，用於陪伴、娛樂、教育、兒科護理、物聯網機器人應用、AI增強機器人應用服務、研究和DIY機器人套件開發。
  * [LocalAI](https://github.com/mudler/localai) - 🤖 自由、開源的替代方案，可替代OpenAI、Claude和其他人。自主託管和本地優先。可直接替代OpenAI，在消費級硬件上運行。無需GPU。運行gguf、transformers、diffusers和許多其他模型架構。
  * [bisheng](https://github.com/dataelement/bisheng) - BISHENG是一個開放的LLM devops平台，用於下一代企業AI應用。強大而全面的功能包括：GenAI工作流程、RAG、Agent、統一模型管理、評估、SFT、數據集管理、企業級系統管理。
+ * [agency-swarm](https://github.com/vrsen/agency-swarm) - 建立在最新的OpenAI助手API之上的唯一可靠代理框架。
 
 
 ## Browser-extensions
@@ -1203,6 +1204,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [instructor](https://github.com/instructor-ai/instructor) - 給LLMS的結構化輸出
  * [buzz](https://github.com/chidiwilliams/buzz) - 巴茲在您的個人電腦上離線轉錄和翻譯音頻。由OpenAI的Whisper提供動力。
  * [ai](https://github.com/vercel/ai) - 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
+ * [rivet](https://github.com/ironclad/rivet) - 開源視覺人工智慧編程環境和TypeScript庫
 
 
 ## Langchain
@@ -1515,6 +1517,9 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent：一個AI驅動的🤖工具，用於自動化拉取請求分析、反饋、建議等！💻🔍
  * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - 基於OpenAI Whisper的自動語音識別與語者辨識
  * [swarm](https://github.com/openai/swarm) - 教育框架探索符合人體工程學的輕量級多智能體協調。由OpenAI解決方案團隊管理。
+ * [DashPlayer](https://github.com/solidspoon/dashplayer) - 為英語學習者量身打造的視頻播放器，助你通過觀看視頻、沉浸真實語境，輕鬆提升英語水平。#美劇 #播放器 #聽力
+ * [logfire](https://github.com/pydantic/logfire) - 簡單易用的Python及更多語言的可觀察性！🪵🔥
+ * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理與分發系統，支持將多種大模型轉為OpenAI格式調用、支持Midjourney Proxy、Suno、Rerank，兼容易支付協議，僅供個人或者企業內部管理與分發渠道使用，請勿用於商業用途，本項目基於One API二次開發。
 
 
 ## Others

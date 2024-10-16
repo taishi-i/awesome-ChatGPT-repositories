@@ -15,26 +15,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - 使用OpenAI、Anthropic、Gemini和开源模型的一组出色的LLM应用程序集合。
-
-
 **Prompts**
- * [gateway](https://github.com/portkey-ai/gateway) - 一个拥有集成护栏的高速AI网关。通往200多个LLMs，50多个AI护栏，配有1个快速友好的API。
+ * [ai-notes](https://github.com/swyxio/ai-notes) - 软件工程师快速了解新人工智能发展的笔记。 用作https://latent.space写作和产品头脑风暴的数据存储，但在/Resources文件夹下清理了规范参考资料。
+
+
+**Chatbots**
+ * [agency-swarm](https://github.com/vrsen/agency-swarm) - 建立在最新的OpenAI助手API之上的唯一可靠的代理框架。
 
 
 **NLP**
- * [instructor](https://github.com/instructor-ai/instructor) - 为llms设计结构化输出
- * [buzz](https://github.com/chidiwilliams/buzz) - Buzz在您的个人电脑上离线转录和翻译音频。由OpenAI的Whisper提供支持。
- * [ai](https://github.com/vercel/ai) - 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
+ * [rivet](https://github.com/ironclad/rivet) - 开源的视觉人工智能编程环境和TypeScript库
 
 
 **Openai**
- * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - 基于OpenAI Whisper的自动语音识别和说话者分离
- * [swarm](https://github.com/openai/swarm) - 教育框架探索符合人体工程学的轻量级多代理编排。由OpenAI解决方案团队管理。
+ * [DashPlayer](https://github.com/solidspoon/dashplayer) - 专为英语学习者量身定制的视频播放器，帮助您通过观看视频、沉浸于真实语境中，轻松提升英语水平。#美剧 #播放器 #听力
+ * [logfire](https://github.com/pydantic/logfire) - Python及更多的简单可观测性！🪵🔥
+ * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
 
 
-_Updated on October 13, 2024_ (A total of 1819 repositories listed.)
+_Updated on October 17, 2024_ (A total of 1825 repositories listed.)
 
 ## Table of contents
 
@@ -270,6 +269,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - 该项目包括一个基于 GPT 等大语言模型的长篇小说生成器，同时还有各类小说生成 Prompt 以及教程。我们欢迎社区贡献，持续更新以提供最佳的小说创作体验。
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 开源LLM工程平台：LLM可观测性，指标，评估，提示管理，游乐场，数据集。与LlamaIndex，Langchain，OpenAI SDK，LiteLLM等集成。🍊YC W23
  * [gateway](https://github.com/portkey-ai/gateway) - 一个拥有集成护栏的高速AI网关。通往200多个LLMs，50多个AI护栏，配有1个快速友好的API。
+ * [ai-notes](https://github.com/swyxio/ai-notes) - 软件工程师快速了解新人工智能发展的笔记。 用作https://latent.space写作和产品头脑风暴的数据存储，但在/Resources文件夹下清理了规范参考资料。
 
 
 ## Chatbots
@@ -542,6 +542,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [Starmoon](https://github.com/starmoonai/starmoon) - 一个开源的语音启用、紪恻AI硬件+软件🤖框架，用于陪伴、娱乐、教育、儿科护理、物联网机器人应用、AI增强机器人应用服务、研究和DIY机器人套件开发。
  * [LocalAI](https://github.com/mudler/localai) - 🤖 免费、开源的替代OpenAI、Claude等人工智能的选择。支持自托管和本地优先。可直接替代OpenAI，在消费级硬件上运行。无需GPU。支持gguf、transformers、diffusers等多种模型架构。
  * [bisheng](https://github.com/dataelement/bisheng) - BISHENG是一个开放的LLM devops平台，用于下一代企业AI应用程序。强大而全面的功能包括：GenAI工作流程，RAG，Agent，统一模型管理，评估，SFT，数据集管理，企业级系统管理。
+ * [agency-swarm](https://github.com/vrsen/agency-swarm) - 建立在最新的OpenAI助手API之上的唯一可靠的代理框架。
 
 
 ## Browser-extensions
@@ -1203,6 +1204,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [instructor](https://github.com/instructor-ai/instructor) - 为llms设计结构化输出
  * [buzz](https://github.com/chidiwilliams/buzz) - Buzz在您的个人电脑上离线转录和翻译音频。由OpenAI的Whisper提供支持。
  * [ai](https://github.com/vercel/ai) - 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
+ * [rivet](https://github.com/ironclad/rivet) - 开源的视觉人工智能编程环境和TypeScript库
 
 
 ## Langchain
@@ -1515,6 +1517,9 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent：一款AI驱动的🤖工具，用于自动化拉取请求分析、反馈、建议等！💻🔍
  * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - 基于OpenAI Whisper的自动语音识别和说话者分离
  * [swarm](https://github.com/openai/swarm) - 教育框架探索符合人体工程学的轻量级多代理编排。由OpenAI解决方案团队管理。
+ * [DashPlayer](https://github.com/solidspoon/dashplayer) - 专为英语学习者量身定制的视频播放器，帮助您通过观看视频、沉浸于真实语境中，轻松提升英语水平。#美剧 #播放器 #听力
+ * [logfire](https://github.com/pydantic/logfire) - Python及更多的简单可观测性！🪵🔥
+ * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
 
 
 ## Others

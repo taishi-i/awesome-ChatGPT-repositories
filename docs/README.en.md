@@ -15,26 +15,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
-
-
 **Prompts**
- * [gateway](https://github.com/portkey-ai/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+ * [ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
+
+
+**Chatbots**
+ * [agency-swarm](https://github.com/vrsen/agency-swarm) - The only reliable agent framework built on top of the latest OpenAI Assistants API.
 
 
 **NLP**
- * [instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
- * [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
- * [ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+ * [rivet](https://github.com/ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 
 
 **Openai**
- * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
- * [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+ * [DashPlayer](https://github.com/solidspoon/dashplayer) - A video player tailored for English learners, helping you improve your English proficiency easily through watching videos and immersing yourself in real language contexts. #TV series #player #listening
+ * [logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
+ * [new-api](https://github.com/calcium-ion/new-api) - AI model interface management and distribution system, supports converting multiple large models into OpenAI format for calling, supports Midjourney Proxy, Suno, Rerank, compatible with easy payment protocol, only for personal or internal management and distribution channel use by enterprises, please do not use for commercial purposes, this project is based on One API secondary development.
 
 
-_Updated on October 13, 2024_ (A total of 1819 repositories listed.)
+_Updated on October 17, 2024_ (A total of 1825 repositories listed.)
 
 ## Table of contents
 
@@ -270,6 +269,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - This project includes a long novel generator based on large language models such as GPT, as well as various novel generation prompts and tutorials. We welcome community contributions and will continue to update to provide the best novel writing experience.
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
  * [gateway](https://github.com/portkey-ai/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+ * [ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
 
 
 ## Chatbots
@@ -542,6 +542,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [Starmoon](https://github.com/starmoonai/starmoon) - An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development
  * [LocalAI](https://github.com/mudler/localai) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures
  * [bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Managemen
+ * [agency-swarm](https://github.com/vrsen/agency-swarm) - The only reliable agent framework built on top of the latest OpenAI Assistants API.
 
 
 ## Browser-extensions
@@ -1203,6 +1204,7 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
  * [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
  * [ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
+ * [rivet](https://github.com/ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 
 
 ## Langchain
@@ -1515,6 +1517,9 @@ _Updated on October 13, 2024_ (A total of 1819 repositories listed.)
  * [pr-agent](https://github.com/codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
  * [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper
  * [swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+ * [DashPlayer](https://github.com/solidspoon/dashplayer) - A video player tailored for English learners, helping you improve your English proficiency easily through watching videos and immersing yourself in real language contexts. #TV series #player #listening
+ * [logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
+ * [new-api](https://github.com/calcium-ion/new-api) - AI model interface management and distribution system, supports converting multiple large models into OpenAI format for calling, supports Midjourney Proxy, Suno, Rerank, compatible with easy payment protocol, only for personal or internal management and distribution channel use by enterprises, please do not use for commercial purposes, this project is based on One API secondary development.
 
 
 ## Others

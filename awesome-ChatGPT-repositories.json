@@ -5090,6 +5090,28 @@
                     "zh-hans": "一个拥有集成护栏的高速AI网关。通往200多个LLMs，50多个AI护栏，配有1个快速友好的API。",
                     "zh-hant": "一個具有整合護欄的高速AI閘道。通往200多個LLM，50多個AI護欄，配有1個快速友好的API。"
                 }
+            },
+            "https://github.com/swyxio/ai-notes": {
+                "repository_name": "ai-notes",
+                "user_name": "swyxio",
+                "language": "HTML",
+                "license": "MIT License",
+                "description": "notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.",
+                "topics": [
+                    "ai",
+                    "gpt",
+                    "gpt-3",
+                    "multimodal",
+                    "openai",
+                    "prompt-engineering",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.",
+                    "ja": "新しいAIの開発に追いつくソフトウェアエンジニア向けのノート。https://latent.spaceの執筆や製品のブレインストーミングのためのデータストアとして機能しますが、/Resourcesフォルダーの下に整理された標準的な参照情報があります。",
+                    "zh-hans": "软件工程师快速了解新人工智能发展的笔记。 用作https://latent.space写作和产品头脑风暴的数据存储，但在/Resources文件夹下清理了规范参考资料。",
+                    "zh-hant": "軟體工程師快速掌握新人工智慧發展的筆記。 用於https://latent.space寫作和產品構思的數據存儲，但在/Resources文件夾下有整理過的標準參考資料。"
+                }
             }
         },
         "Chatbots": {
@@ -11554,6 +11576,20 @@
                     "ja": "BISHENGは次世代のエンタープライズAIアプリケーション向けのオープンLLM DevOpsプラットフォームです。GenAIワークフロー、RAG、エージェント、統合モデル管理、評価、SFT、データセット管理、エンタープライズレベルのシステム管理など、強力で包括的な機能が含まれています。",
                     "zh-hans": "BISHENG是一个开放的LLM devops平台，用于下一代企业AI应用程序。强大而全面的功能包括：GenAI工作流程，RAG，Agent，统一模型管理，评估，SFT，数据集管理，企业级系统管理。",
                     "zh-hant": "BISHENG是一個開放的LLM devops平台，用於下一代企業AI應用。強大而全面的功能包括：GenAI工作流程、RAG、Agent、統一模型管理、評估、SFT、數據集管理、企業級系統管理。"
+                }
+            },
+            "https://github.com/vrsen/agency-swarm": {
+                "repository_name": "agency-swarm",
+                "user_name": "VRSEN",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "The only reliable agent framework built on top of the latest OpenAI Assistants API.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The only reliable agent framework built on top of the latest OpenAI Assistants API.",
+                    "ja": "最新のOpenAI Assistants APIをベースに構築された唯一信頼できるエージェントフレームワーク。",
+                    "zh-hans": "建立在最新的OpenAI助手API之上的唯一可靠的代理框架。",
+                    "zh-hant": "建立在最新的OpenAI助手API之上的唯一可靠代理框架。"
                 }
             }
         },
@@ -25731,6 +25767,25 @@
                     "zh-hans": "使用React、Svelte、Vue和Solid构建AI驱动的应用程序",
                     "zh-hant": "使用React、Svelte、Vue和Solid构建AI驱动的应用程序"
                 }
+            },
+            "https://github.com/ironclad/rivet": {
+                "repository_name": "rivet",
+                "user_name": "Ironclad",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The open-source visual AI programming environment and TypeScript library",
+                "topics": [
+                    "ai",
+                    "llm",
+                    "openai",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The open-source visual AI programming environment and TypeScript library",
+                    "ja": "オープンソースのビジュアルAIプログラミング環境とTypeScriptライブラリ",
+                    "zh-hans": "开源的视觉人工智能编程环境和TypeScript库",
+                    "zh-hant": "開源視覺人工智慧編程環境和TypeScript庫"
+                }
             }
         },
         "Langchain": {
@@ -32517,6 +32572,68 @@
                     "ja": "エルゴノミックで軽量なマルチエージェントのオーケストレーションを探求する教育フレームワーク。OpenAIソリューションチームによって管理されています。",
                     "zh-hans": "教育框架探索符合人体工程学的轻量级多代理编排。由OpenAI解决方案团队管理。",
                     "zh-hant": "教育框架探索符合人體工程學的輕量級多智能體協調。由OpenAI解決方案團隊管理。"
+                }
+            },
+            "https://github.com/solidspoon/dashplayer": {
+                "repository_name": "DashPlayer",
+                "user_name": "solidSpoon",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力",
+                "topics": [
+                    "app",
+                    "bo-fang-qi",
+                    "english",
+                    "gpt",
+                    "learning",
+                    "mei-ju",
+                    "openai",
+                    "player",
+                    "ting-li"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A video player tailored for English learners, helping you improve your English proficiency easily through watching videos and immersing yourself in real language contexts. #TV series #player #listening",
+                    "ja": "英語学習者向けにカスタマイズされたビデオプレーヤー、ビデオを視聴し、リアルな文脈に没頭することで、英語力を簡単に向上させるお手伝いをします。#海外ドラマ #プレーヤー #リスニング",
+                    "zh-hans": "专为英语学习者量身定制的视频播放器，帮助您通过观看视频、沉浸于真实语境中，轻松提升英语水平。#美剧 #播放器 #听力",
+                    "zh-hant": "為英語學習者量身打造的視頻播放器，助你通過觀看視頻、沉浸真實語境，輕鬆提升英語水平。#美劇 #播放器 #聽力"
+                }
+            },
+            "https://github.com/pydantic/logfire": {
+                "repository_name": "logfire",
+                "user_name": "pydantic",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Uncomplicated Observability for Python and beyond! 🪵🔥",
+                "topics": [
+                    "fastapi",
+                    "logging",
+                    "metrics",
+                    "observability",
+                    "openai",
+                    "opentelemetry",
+                    "pydantic",
+                    "python",
+                    "trace"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Uncomplicated Observability for Python and beyond! 🪵🔥",
+                    "ja": "Pythonをはじめとするシンプルな観測可能性！ 🪵🔥",
+                    "zh-hans": "Python及更多的简单可观测性！🪵🔥",
+                    "zh-hant": "簡單易用的Python及更多語言的可觀察性！🪵🔥"
+                }
+            },
+            "https://github.com/calcium-ion/new-api": {
+                "repository_name": "new-api",
+                "user_name": "Calcium-Ion",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "AI model interface management and distribution system, supports converting multiple large models into OpenAI format for calling, supports Midjourney Proxy, Suno, Rerank, compatible with easy payment protocol, only for personal or internal management and distribution channel use by enterprises, please do not use for commercial purposes, this project is based on One API secondary development.",
+                    "ja": "AIモデルのインターフェース管理および配布システムは、複数の大規模モデルをOpenAI形式で呼び出すことをサポートし、Midjourney Proxy、Suno、Rerankをサポートし、EasyPayプロトコルと互換性があります。個人または企業の内部管理および配布チャネルでのみ使用するために提供されており、商業目的には使用しないでください。このプロジェクトはOne APIをベースに二次開発されています。",
+                    "zh-hans": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。",
+                    "zh-hant": "AI模型接口管理與分發系統，支持將多種大模型轉為OpenAI格式調用、支持Midjourney Proxy、Suno、Rerank，兼容易支付協議，僅供個人或者企業內部管理與分發渠道使用，請勿用於商業用途，本項目基於One API二次開發。"
                 }
             }
         },
