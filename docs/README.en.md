@@ -15,25 +15,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
+**Awesome-lists**
+ * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
 
 
 **Chatbots**
- * [agency-swarm](https://github.com/vrsen/agency-swarm) - The only reliable agent framework built on top of the latest OpenAI Assistants API.
+ * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+ * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - Data framework for your LLM applications. Focus on server side solution
+
+
+**CLIs**
+ * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
+ * [WrenAI](https://github.com/canner/wrenai) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀
 
 
 **NLP**
- * [rivet](https://github.com/ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
+ * [griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 
 
 **Openai**
- * [DashPlayer](https://github.com/solidspoon/dashplayer) - A video player tailored for English learners, helping you improve your English proficiency easily through watching videos and immersing yourself in real language contexts. #TV series #player #listening
- * [logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
- * [new-api](https://github.com/calcium-ion/new-api) - AI model interface management and distribution system, supports converting multiple large models into OpenAI format for calling, supports Midjourney Proxy, Suno, Rerank, compatible with easy payment protocol, only for personal or internal management and distribution channel use by enterprises, please do not use for commercial purposes, this project is based on One API secondary development.
+ * [STranslate](https://github.com/zggsong/stranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
 
 
-_Updated on October 17, 2024_ (A total of 1825 repositories listed.)
+_Updated on October 21, 2024_ (A total of 1832 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +130,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  Plugin Index - This is the plugin index for LobeChat. It accesses index.json from this repository to display a list of available plugins for LobeChat to the user.
  * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
  * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
+ * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
 
 
 ## Prompts
@@ -543,6 +548,8 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [LocalAI](https://github.com/mudler/localai) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures
  * [bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Managemen
  * [agency-swarm](https://github.com/vrsen/agency-swarm) - The only reliable agent framework built on top of the latest OpenAI Assistants API.
+ * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+ * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - Data framework for your LLM applications. Focus on server side solution
 
 
 ## Browser-extensions
@@ -872,6 +879,8 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一键配置 ChatGPT Mirai QQ Bot 机器人，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。 🍉 Web UI of ChatGPT Mirai QQ Bot robot, support for multi-instance management, configuration editing, file submission, health check, terminal execution, support for password access.
  * [Nexior](https://github.com/acedatacloud/nexior) - One click to deploy your own AI Application Web UI, including GPT, Midjourney, ChatDoc, QrArt and easily earn profits.
  * [aider](https://github.com/aider-ai/aider) - aider is AI pair programming in your terminal
+ * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
+ * [WrenAI](https://github.com/canner/wrenai) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀
 
 
 ## Reimplementations
@@ -1205,6 +1214,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
  * [ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
  * [rivet](https://github.com/ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
+ * [griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 
 
 ## Langchain
@@ -1520,6 +1530,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [DashPlayer](https://github.com/solidspoon/dashplayer) - A video player tailored for English learners, helping you improve your English proficiency easily through watching videos and immersing yourself in real language contexts. #TV series #player #listening
  * [logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
  * [new-api](https://github.com/calcium-ion/new-api) - AI model interface management and distribution system, supports converting multiple large models into OpenAI format for calling, supports Midjourney Proxy, Suno, Rerank, compatible with easy payment protocol, only for personal or internal management and distribution channel use by enterprises, please do not use for commercial purposes, this project is based on One API secondary development.
+ * [STranslate](https://github.com/zggsong/stranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
 
 
 ## Others
