@@ -1871,6 +1871,33 @@
                     "zh-hans": "使用OpenAI、Anthropic、Gemini和开源模型的一组出色的LLM应用程序集合。",
                     "zh-hant": "使用OpenAI、Anthropic、Gemini和開源模型的優秀LLM應用程式集合。"
                 }
+            },
+            "https://github.com/wangrongsheng/awesome-llm-resourses": {
+                "repository_name": "awesome-LLM-resourses",
+                "user_name": "WangRongsheng",
+                "language": null,
+                "license": "Apache License 2.0",
+                "description": "🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.",
+                "topics": [
+                    "awesome-list",
+                    "book",
+                    "course",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "mistral",
+                    "openai",
+                    "qwen",
+                    "rag",
+                    "retrieval-augmented-generation",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.",
+                    "ja": "🧑‍🚀 世界最高のLLMリソースの要約",
+                    "zh-hans": "🧑‍🚀 全球最好的LLM资源总结",
+                    "zh-hant": "🧑‍🚀 全世界最好的LLM資料總結 | Summary of the world's best LLM resources."
+                }
             }
         },
         "Prompts": {
@@ -11591,6 +11618,76 @@
                     "zh-hans": "建立在最新的OpenAI助手API之上的唯一可靠的代理框架。",
                     "zh-hant": "建立在最新的OpenAI助手API之上的唯一可靠代理框架。"
                 }
+            },
+            "https://github.com/infiniflow/ragflow": {
+                "repository_name": "ragflow",
+                "user_name": "infiniflow",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+                "topics": [
+                    "agent",
+                    "agents",
+                    "ai-search",
+                    "chatbot",
+                    "chatgpt",
+                    "data-pipelines",
+                    "deep-learning",
+                    "document-parser",
+                    "document-understanding",
+                    "genai",
+                    "graph",
+                    "graphrag",
+                    "llm",
+                    "nlp",
+                    "pdf-to-text",
+                    "preprocessing",
+                    "rag",
+                    "retrieval-augmented-generation",
+                    "table-structure-recognition",
+                    "text2sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+                    "ja": "RAGFlowは、深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジンです。",
+                    "zh-hans": "RAGFlow是一个基于深度文档理解的开源RAG（检索增强生成）引擎。",
+                    "zh-hant": "RAGFlow 是一個基於深度文件理解的開源 RAG（檢索增強生成）引擎。"
+                }
+            },
+            "https://github.com/run-llama/llamaindexts": {
+                "repository_name": "LlamaIndexTS",
+                "user_name": "run-llama",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Data framework for your LLM applications. Focus on server side solution",
+                "topics": [
+                    "agent",
+                    "anthr",
+                    "chatbot",
+                    "claude",
+                    "claude-ai",
+                    "create-llama",
+                    "embedding",
+                    "firewo",
+                    "groq-ai",
+                    "javascript",
+                    "llama",
+                    "llama-index",
+                    "llama2",
+                    "llama3",
+                    "llm",
+                    "mistr",
+                    "nodejs",
+                    "openai",
+                    "react",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Data framework for your LLM applications. Focus on server side solution",
+                    "ja": "LLMアプリケーション用のデータフレームワーク。サーバーサイドソリューションに焦点を当てる。",
+                    "zh-hans": "为您的LLM应用程序提供数据框架。专注于服务器端解决方案。",
+                    "zh-hant": "為您的LLM應用程序提供數據框架。專注於服務器端解決方案。"
+                }
             }
         },
         "Browser-extensions": {
@@ -18895,6 +18992,58 @@
                     "zh-hans": "aider是您终端中的AI对编程",
                     "zh-hant": "輔助者是您終端機中的AI對程式設計。"
                 }
+            },
+            "https://github.com/openai-php/laravel": {
+                "repository_name": "laravel",
+                "user_name": "openai-php",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API",
+                "topics": [
+                    "client",
+                    "laravel",
+                    "open-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API",
+                    "ja": "⚡️ OpenAI PHP for Laravelは、OpenAI APIとやり取りすることができる強化されたPHP APIクライアントです。",
+                    "zh-hans": "⚡️ OpenAI PHP for Laravel 是一个强大的 PHP API 客户端，可以让您与 OpenAI API 进行交互。",
+                    "zh-hant": "⚡️ OpenAI PHP for Laravel 是一個強化版的 PHP API 客戶端，讓您可以與 OpenAI API 互動。"
+                }
+            },
+            "https://github.com/canner/wrenai": {
+                "repository_name": "WrenAI",
+                "user_name": "Canner",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "bigquery",
+                    "duckdb",
+                    "fastapi",
+                    "gpt",
+                    "hacktoberfest",
+                    "llm",
+                    "nextjs",
+                    "nlp",
+                    "openai",
+                    "postgresql",
+                    "python",
+                    "rag",
+                    "sql",
+                    "sqlai",
+                    "text-to-sql",
+                    "text2sql",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀",
+                    "ja": "🚀 テキストからSQLへのオープンソースSQL AIエージェント。 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquetデータソースなどをサポートしています！ 🚀",
+                    "zh-hans": "🚀 用于文本到SQL的开源SQL AI代理。支持PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet数据源等等！🚀",
+                    "zh-hant": "🚀 開源 SQL AI 代理程式，用於文本轉 SQL。支援 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet 資料來源等等！🚀"
+                }
             }
         },
         "Reimplementations": {
@@ -25786,6 +25935,29 @@
                     "zh-hans": "开源的视觉人工智能编程环境和TypeScript库",
                     "zh-hant": "開源視覺人工智慧編程環境和TypeScript庫"
                 }
+            },
+            "https://github.com/griptape-ai/griptape": {
+                "repository_name": "griptape",
+                "user_name": "griptape-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. ",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "claude",
+                    "gpt",
+                    "huggingface",
+                    "llm",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.",
+                    "ja": "AIエージェントとワークフローのためのモジュラーPythonフレームワーク。思考の連鎖推論、ツール、メモリを備えています。",
+                    "zh-hans": "用于AI代理和工作流的模块化Python框架，具有思维链推理、工具和记忆。",
+                    "zh-hant": "用於AI代理和工作流程的模塊化Python框架，具有思維鏈推理、工具和記憶功能。"
+                }
             }
         },
         "Langchain": {
@@ -32634,6 +32806,29 @@
                     "ja": "AIモデルのインターフェース管理および配布システムは、複数の大規模モデルをOpenAI形式で呼び出すことをサポートし、Midjourney Proxy、Suno、Rerankをサポートし、EasyPayプロトコルと互換性があります。個人または企業の内部管理および配布チャネルでのみ使用するために提供されており、商業目的には使用しないでください。このプロジェクトはOne APIをベースに二次開発されています。",
                     "zh-hans": "AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。",
                     "zh-hant": "AI模型接口管理與分發系統，支持將多種大模型轉為OpenAI格式調用、支持Midjourney Proxy、Suno、Rerank，兼容易支付協議，僅供個人或者企業內部管理與分發渠道使用，請勿用於商業用途，本項目基於One API二次開發。"
+                }
+            },
+            "https://github.com/zggsong/stranslate": {
+                "repository_name": "STranslate",
+                "user_name": "ZGGSONG",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具",
+                "topics": [
+                    "bing",
+                    "deepl",
+                    "mvvm",
+                    "ocr",
+                    "openai",
+                    "paddleocr",
+                    "stranslate",
+                    "wpf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具",
+                    "ja": "WPF/WPFで開発された即座に使用可能な翻訳OCRツール",
+                    "zh-hans": "一款由WPF开发的即开即用、即用即走的翻译OCR工具",
+                    "zh-hant": "一款由WPF/WPF開發的即開即用、即用即走的翻譯、OCR工具"
                 }
             }
         },

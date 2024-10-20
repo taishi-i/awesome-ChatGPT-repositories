@@ -15,25 +15,29 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ai-notes](https://github.com/swyxio/ai-notes) - 软件工程师快速了解新人工智能发展的笔记。 用作https://latent.space写作和产品头脑风暴的数据存储，但在/Resources文件夹下清理了规范参考资料。
+**Awesome-lists**
+ * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全球最好的LLM资源总结
 
 
 **Chatbots**
- * [agency-swarm](https://github.com/vrsen/agency-swarm) - 建立在最新的OpenAI助手API之上的唯一可靠的代理框架。
+ * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow是一个基于深度文档理解的开源RAG（检索增强生成）引擎。
+ * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - 为您的LLM应用程序提供数据框架。专注于服务器端解决方案。
+
+
+**CLIs**
+ * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel 是一个强大的 PHP API 客户端，可以让您与 OpenAI API 进行交互。
+ * [WrenAI](https://github.com/canner/wrenai) - 🚀 用于文本到SQL的开源SQL AI代理。支持PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet数据源等等！🚀
 
 
 **NLP**
- * [rivet](https://github.com/ironclad/rivet) - 开源的视觉人工智能编程环境和TypeScript库
+ * [griptape](https://github.com/griptape-ai/griptape) - 用于AI代理和工作流的模块化Python框架，具有思维链推理、工具和记忆。
 
 
 **Openai**
- * [DashPlayer](https://github.com/solidspoon/dashplayer) - 专为英语学习者量身定制的视频播放器，帮助您通过观看视频、沉浸于真实语境中，轻松提升英语水平。#美剧 #播放器 #听力
- * [logfire](https://github.com/pydantic/logfire) - Python及更多的简单可观测性！🪵🔥
- * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
+ * [STranslate](https://github.com/zggsong/stranslate) - 一款由WPF开发的即开即用、即用即走的翻译OCR工具
 
 
-_Updated on October 17, 2024_ (A total of 1825 repositories listed.)
+_Updated on October 21, 2024_ (A total of 1832 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +130,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪 插件索引 - 这是LobeChat的插件索引。它从这个存储库访问index.json，向用户显示可用插件的列表。
  * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - 一个关于LLM论文、博客和项目的收集，重点关注OpenAI o1和推理技术。
  * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - 使用OpenAI、Anthropic、Gemini和开源模型的一组出色的LLM应用程序集合。
+ * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全球最好的LLM资源总结
 
 
 ## Prompts
@@ -543,6 +548,8 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [LocalAI](https://github.com/mudler/localai) - 🤖 免费、开源的替代OpenAI、Claude等人工智能的选择。支持自托管和本地优先。可直接替代OpenAI，在消费级硬件上运行。无需GPU。支持gguf、transformers、diffusers等多种模型架构。
  * [bisheng](https://github.com/dataelement/bisheng) - BISHENG是一个开放的LLM devops平台，用于下一代企业AI应用程序。强大而全面的功能包括：GenAI工作流程，RAG，Agent，统一模型管理，评估，SFT，数据集管理，企业级系统管理。
  * [agency-swarm](https://github.com/vrsen/agency-swarm) - 建立在最新的OpenAI助手API之上的唯一可靠的代理框架。
+ * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow是一个基于深度文档理解的开源RAG（检索增强生成）引擎。
+ * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - 为您的LLM应用程序提供数据框架。专注于服务器端解决方案。
 
 
 ## Browser-extensions
@@ -872,6 +879,8 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQ Bot 机器人的 Web UI 一键配置，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。🍉
  * [Nexior](https://github.com/acedatacloud/nexior) - 一键部署您自己的AI应用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，轻松赚取利润。
  * [aider](https://github.com/aider-ai/aider) - aider是您终端中的AI对编程
+ * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel 是一个强大的 PHP API 客户端，可以让您与 OpenAI API 进行交互。
+ * [WrenAI](https://github.com/canner/wrenai) - 🚀 用于文本到SQL的开源SQL AI代理。支持PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet数据源等等！🚀
 
 
 ## Reimplementations
@@ -1205,6 +1214,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [buzz](https://github.com/chidiwilliams/buzz) - Buzz在您的个人电脑上离线转录和翻译音频。由OpenAI的Whisper提供支持。
  * [ai](https://github.com/vercel/ai) - 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
  * [rivet](https://github.com/ironclad/rivet) - 开源的视觉人工智能编程环境和TypeScript库
+ * [griptape](https://github.com/griptape-ai/griptape) - 用于AI代理和工作流的模块化Python框架，具有思维链推理、工具和记忆。
 
 
 ## Langchain
@@ -1520,6 +1530,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [DashPlayer](https://github.com/solidspoon/dashplayer) - 专为英语学习者量身定制的视频播放器，帮助您通过观看视频、沉浸于真实语境中，轻松提升英语水平。#美剧 #播放器 #听力
  * [logfire](https://github.com/pydantic/logfire) - Python及更多的简单可观测性！🪵🔥
  * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
+ * [STranslate](https://github.com/zggsong/stranslate) - 一款由WPF开发的即开即用、即用即走的翻译OCR工具
 
 
 ## Others

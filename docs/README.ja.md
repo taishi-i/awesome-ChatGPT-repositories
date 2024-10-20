@@ -15,25 +15,29 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ai-notes](https://github.com/swyxio/ai-notes) - 新しいAIの開発に追いつくソフトウェアエンジニア向けのノート。https://latent.spaceの執筆や製品のブレインストーミングのためのデータストアとして機能しますが、/Resourcesフォルダーの下に整理された標準的な参照情報があります。
+**Awesome-lists**
+ * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 世界最高のLLMリソースの要約
 
 
 **Chatbots**
- * [agency-swarm](https://github.com/vrsen/agency-swarm) - 最新のOpenAI Assistants APIをベースに構築された唯一信頼できるエージェントフレームワーク。
+ * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlowは、深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジンです。
+ * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - LLMアプリケーション用のデータフレームワーク。サーバーサイドソリューションに焦点を当てる。
+
+
+**CLIs**
+ * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravelは、OpenAI APIとやり取りすることができる強化されたPHP APIクライアントです。
+ * [WrenAI](https://github.com/canner/wrenai) - 🚀 テキストからSQLへのオープンソースSQL AIエージェント。 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquetデータソースなどをサポートしています！ 🚀
 
 
 **NLP**
- * [rivet](https://github.com/ironclad/rivet) - オープンソースのビジュアルAIプログラミング環境とTypeScriptライブラリ
+ * [griptape](https://github.com/griptape-ai/griptape) - AIエージェントとワークフローのためのモジュラーPythonフレームワーク。思考の連鎖推論、ツール、メモリを備えています。
 
 
 **Openai**
- * [DashPlayer](https://github.com/solidspoon/dashplayer) - 英語学習者向けにカスタマイズされたビデオプレーヤー、ビデオを視聴し、リアルな文脈に没頭することで、英語力を簡単に向上させるお手伝いをします。#海外ドラマ #プレーヤー #リスニング
- * [logfire](https://github.com/pydantic/logfire) - Pythonをはじめとするシンプルな観測可能性！ 🪵🔥
- * [new-api](https://github.com/calcium-ion/new-api) - AIモデルのインターフェース管理および配布システムは、複数の大規模モデルをOpenAI形式で呼び出すことをサポートし、Midjourney Proxy、Suno、Rerankをサポートし、EasyPayプロトコルと互換性があります。個人または企業の内部管理および配布チャネルでのみ使用するために提供されており、商業目的には使用しないでください。このプロジェクトはOne APIをベースに二次開発されています。
+ * [STranslate](https://github.com/zggsong/stranslate) - WPF/WPFで開発された即座に使用可能な翻訳OCRツール
 
 
-_Updated on October 17, 2024_ (A total of 1825 repositories listed.)
+_Updated on October 21, 2024_ (A total of 1832 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +130,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪 プラグインインデックス - これはLobeChatのプラグインインデックスです。 これは、このリポジトリからindex.jsonにアクセスして、LobeChatの利用可能なプラグインのリストをユーザーに表示します。
  * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - OpenAI o1および推論技術に焦点を当てたLLM論文、ブログ、およびプロジェクトのコレクション。
  * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - OpenAI、Anthropic、Gemini、およびオープンソースモデルを使用した素晴らしいLLMアプリのコレクション。
+ * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 世界最高のLLMリソースの要約
 
 
 ## Prompts
@@ -543,6 +548,8 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [LocalAI](https://github.com/mudler/localai) - 入力: :robot: OpenAI、Claudeなどの無料でオープンソースの代替品。セルフホストおよびローカルファースト。消費者向けのハードウェアで実行されるOpenAIの代替品。GPUは必要ありません。gguf、transformers、diffusersなど、多くのモデルアーキテクチャを実行します。
  * [bisheng](https://github.com/dataelement/bisheng) - BISHENGは次世代のエンタープライズAIアプリケーション向けのオープンLLM DevOpsプラットフォームです。GenAIワークフロー、RAG、エージェント、統合モデル管理、評価、SFT、データセット管理、エンタープライズレベルのシステム管理など、強力で包括的な機能が含まれています。
  * [agency-swarm](https://github.com/vrsen/agency-swarm) - 最新のOpenAI Assistants APIをベースに構築された唯一信頼できるエージェントフレームワーク。
+ * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlowは、深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジンです。
+ * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - LLMアプリケーション用のデータフレームワーク。サーバーサイドソリューションに焦点を当てる。
 
 
 ## Browser-extensions
@@ -872,6 +879,8 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉
  * [Nexior](https://github.com/acedatacloud/nexior) - 自分自身のAIアプリケーションWeb UIを展開するためには、1クリックで、GPT、Midjourney、ChatDoc、QrArtを含めて、簡単に利益を得ることができます。
  * [aider](https://github.com/aider-ai/aider) - aiderはあなたのターミナルでのAIペアプログラミングですaiderはあなたのターミナルでのAIペアプログラミングです
+ * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravelは、OpenAI APIとやり取りすることができる強化されたPHP APIクライアントです。
+ * [WrenAI](https://github.com/canner/wrenai) - 🚀 テキストからSQLへのオープンソースSQL AIエージェント。 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquetデータソースなどをサポートしています！ 🚀
 
 
 ## Reimplementations
@@ -1205,6 +1214,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [buzz](https://github.com/chidiwilliams/buzz) - Buzzは、個人用コンピューターでオフラインで音声を書き起こし、翻訳します。OpenAIのWhisperによって動作します。
  * [ai](https://github.com/vercel/ai) - React、Svelte、Vue、およびSolidを使用してAI搭載アプリケーションを構築します。
  * [rivet](https://github.com/ironclad/rivet) - オープンソースのビジュアルAIプログラミング環境とTypeScriptライブラリ
+ * [griptape](https://github.com/griptape-ai/griptape) - AIエージェントとワークフローのためのモジュラーPythonフレームワーク。思考の連鎖推論、ツール、メモリを備えています。
 
 
 ## Langchain
@@ -1520,6 +1530,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [DashPlayer](https://github.com/solidspoon/dashplayer) - 英語学習者向けにカスタマイズされたビデオプレーヤー、ビデオを視聴し、リアルな文脈に没頭することで、英語力を簡単に向上させるお手伝いをします。#海外ドラマ #プレーヤー #リスニング
  * [logfire](https://github.com/pydantic/logfire) - Pythonをはじめとするシンプルな観測可能性！ 🪵🔥
  * [new-api](https://github.com/calcium-ion/new-api) - AIモデルのインターフェース管理および配布システムは、複数の大規模モデルをOpenAI形式で呼び出すことをサポートし、Midjourney Proxy、Suno、Rerankをサポートし、EasyPayプロトコルと互換性があります。個人または企業の内部管理および配布チャネルでのみ使用するために提供されており、商業目的には使用しないでください。このプロジェクトはOne APIをベースに二次開発されています。
+ * [STranslate](https://github.com/zggsong/stranslate) - WPF/WPFで開発された即座に使用可能な翻訳OCRツール
 
 
 ## Others

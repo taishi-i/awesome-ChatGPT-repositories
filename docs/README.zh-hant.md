@@ -15,25 +15,29 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ai-notes](https://github.com/swyxio/ai-notes) - 軟體工程師快速掌握新人工智慧發展的筆記。 用於https://latent.space寫作和產品構思的數據存儲，但在/Resources文件夾下有整理過的標準參考資料。
+**Awesome-lists**
+ * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM資料總結 | Summary of the world's best LLM resources.
 
 
 **Chatbots**
- * [agency-swarm](https://github.com/vrsen/agency-swarm) - 建立在最新的OpenAI助手API之上的唯一可靠代理框架。
+ * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow 是一個基於深度文件理解的開源 RAG（檢索增強生成）引擎。
+ * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - 為您的LLM應用程序提供數據框架。專注於服務器端解決方案。
+
+
+**CLIs**
+ * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel 是一個強化版的 PHP API 客戶端，讓您可以與 OpenAI API 互動。
+ * [WrenAI](https://github.com/canner/wrenai) - 🚀 開源 SQL AI 代理程式，用於文本轉 SQL。支援 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet 資料來源等等！🚀
 
 
 **NLP**
- * [rivet](https://github.com/ironclad/rivet) - 開源視覺人工智慧編程環境和TypeScript庫
+ * [griptape](https://github.com/griptape-ai/griptape) - 用於AI代理和工作流程的模塊化Python框架，具有思維鏈推理、工具和記憶功能。
 
 
 **Openai**
- * [DashPlayer](https://github.com/solidspoon/dashplayer) - 為英語學習者量身打造的視頻播放器，助你通過觀看視頻、沉浸真實語境，輕鬆提升英語水平。#美劇 #播放器 #聽力
- * [logfire](https://github.com/pydantic/logfire) - 簡單易用的Python及更多語言的可觀察性！🪵🔥
- * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理與分發系統，支持將多種大模型轉為OpenAI格式調用、支持Midjourney Proxy、Suno、Rerank，兼容易支付協議，僅供個人或者企業內部管理與分發渠道使用，請勿用於商業用途，本項目基於One API二次開發。
+ * [STranslate](https://github.com/zggsong/stranslate) - 一款由WPF/WPF開發的即開即用、即用即走的翻譯、OCR工具
 
 
-_Updated on October 17, 2024_ (A total of 1825 repositories listed.)
+_Updated on October 21, 2024_ (A total of 1832 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +130,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - 🧩 / 🏪  插件索引 - 這是 LobeChat 的插件索引。它從這個存儲庫中訪問 index.json，向用戶顯示 LobeChat 可用插件的列表。
  * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - 一系列LLM論文、部落格和項目，重點放在OpenAI o1和推理技術上。
  * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - 使用OpenAI、Anthropic、Gemini和開源模型的優秀LLM應用程式集合。
+ * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM資料總結 | Summary of the world's best LLM resources.
 
 
 ## Prompts
@@ -543,6 +548,8 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [LocalAI](https://github.com/mudler/localai) - 🤖 自由、開源的替代方案，可替代OpenAI、Claude和其他人。自主託管和本地優先。可直接替代OpenAI，在消費級硬件上運行。無需GPU。運行gguf、transformers、diffusers和許多其他模型架構。
  * [bisheng](https://github.com/dataelement/bisheng) - BISHENG是一個開放的LLM devops平台，用於下一代企業AI應用。強大而全面的功能包括：GenAI工作流程、RAG、Agent、統一模型管理、評估、SFT、數據集管理、企業級系統管理。
  * [agency-swarm](https://github.com/vrsen/agency-swarm) - 建立在最新的OpenAI助手API之上的唯一可靠代理框架。
+ * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow 是一個基於深度文件理解的開源 RAG（檢索增強生成）引擎。
+ * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - 為您的LLM應用程序提供數據框架。專注於服務器端解決方案。
 
 
 ## Browser-extensions
@@ -872,6 +879,8 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - 🍉 Web UI 一鍵配置 ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。🍉 Web UI of ChatGPT Mirai QQ Bot 機器人，支持多實例管理，配置編輯，文件提交，健康檢查，終端執行，支持密碼訪問。
  * [Nexior](https://github.com/acedatacloud/nexior) - 一鍵部署您自己的AI應用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，輕鬆賺取利潤。
  * [aider](https://github.com/aider-ai/aider) - 輔助者是您終端機中的AI對程式設計。
+ * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel 是一個強化版的 PHP API 客戶端，讓您可以與 OpenAI API 互動。
+ * [WrenAI](https://github.com/canner/wrenai) - 🚀 開源 SQL AI 代理程式，用於文本轉 SQL。支援 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet 資料來源等等！🚀
 
 
 ## Reimplementations
@@ -1205,6 +1214,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [buzz](https://github.com/chidiwilliams/buzz) - 巴茲在您的個人電腦上離線轉錄和翻譯音頻。由OpenAI的Whisper提供動力。
  * [ai](https://github.com/vercel/ai) - 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
  * [rivet](https://github.com/ironclad/rivet) - 開源視覺人工智慧編程環境和TypeScript庫
+ * [griptape](https://github.com/griptape-ai/griptape) - 用於AI代理和工作流程的模塊化Python框架，具有思維鏈推理、工具和記憶功能。
 
 
 ## Langchain
@@ -1520,6 +1530,7 @@ _Updated on October 17, 2024_ (A total of 1825 repositories listed.)
  * [DashPlayer](https://github.com/solidspoon/dashplayer) - 為英語學習者量身打造的視頻播放器，助你通過觀看視頻、沉浸真實語境，輕鬆提升英語水平。#美劇 #播放器 #聽力
  * [logfire](https://github.com/pydantic/logfire) - 簡單易用的Python及更多語言的可觀察性！🪵🔥
  * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理與分發系統，支持將多種大模型轉為OpenAI格式調用、支持Midjourney Proxy、Suno、Rerank，兼容易支付協議，僅供個人或者企業內部管理與分發渠道使用，請勿用於商業用途，本項目基於One API二次開發。
+ * [STranslate](https://github.com/zggsong/stranslate) - 一款由WPF/WPF開發的即開即用、即用即走的翻譯、OCR工具
 
 
 ## Others
