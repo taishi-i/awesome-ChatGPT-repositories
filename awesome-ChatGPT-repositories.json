@@ -16092,6 +16092,31 @@
                     "zh-hans": "AGiXT是一个动态的AI代理自动化平台，可以无缝地协调指令管理和复杂任务执行，涵盖各种AI提供商。结合自适应记忆、智能功能和多功能插件系统，AGiXT提供高效的。",
                     "zh-hant": "AGiXT是一個動態的AI代理自動化平台，可以無縫地協調指令管理和複雜任務執行，跨越不同的AI提供商。結合適應性記憶、智能功能和多功能插件系統，AGiXT提供高效的。"
                 }
+            },
+            "https://github.com/connectai-e/autogpt-next-web": {
+                "repository_name": "AutoGPT-Next-Web",
+                "user_name": "ConnectAI-E",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用",
+                "topics": [
+                    "auto-gpt",
+                    "connect-ai",
+                    "docker",
+                    "docker-compose",
+                    "langchangjs",
+                    "llm",
+                    "nextjs",
+                    "openai",
+                    "react",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用",
+                    "ja": "🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。あなたの個人AutoGPTウェブアプリを簡単にデプロイします。",
+                    "zh-hans": "🤖 在浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。",
+                    "zh-hant": "🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。"
+                }
             }
         },
         "CLIs": {
@@ -19044,6 +19069,54 @@
                     "zh-hans": "🚀 用于文本到SQL的开源SQL AI代理。支持PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet数据源等等！🚀",
                     "zh-hant": "🚀 開源 SQL AI 代理程式，用於文本轉 SQL。支援 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet 資料來源等等！🚀"
                 }
+            },
+            "https://github.com/mazzzystar/queryable": {
+                "repository_name": "Queryable",
+                "user_name": "mazzzystar",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.",
+                "topics": [
+                    "clip-model",
+                    "ios",
+                    "mobile",
+                    "mobile-clip",
+                    "mobileclip",
+                    "natural-language-image-search",
+                    "photos",
+                    "search",
+                    "semantic-search",
+                    "swiftui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.",
+                    "ja": "iOSでOpenAIのCLIPとAppleのMobileCLIPモデルを実行して写真を検索します。",
+                    "zh-hans": "在iOS上运行OpenAI的CLIP和Apple的MobileCLIP模型来搜索照片。",
+                    "zh-hant": "在iOS上運行OpenAI的CLIP和蘋果的MobileCLIP模型來搜索照片。"
+                }
+            },
+            "https://github.com/licoy/chatgpts": {
+                "repository_name": "ChatGPTs",
+                "user_name": "Licoy",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-web",
+                    "discord",
+                    "discord-bot",
+                    "midjourney",
+                    "niji",
+                    "openai",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services",
+                    "ja": "🍭 あなた自身のChatGPT+多数のAIウェブサービスにワンクリックでアクセスできます",
+                    "zh-hans": "🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | 一键访问您自己的ChatGPT+多种AI网页服务",
+                    "zh-hant": "🍭 一鍵擁有你自己的ChatGPT+眾多AI網頁服務 | 一鍵擁有你自己的ChatGPT+眾多AI網頁服務"
+                }
             }
         },
         "Reimplementations": {
@@ -19697,6 +19770,35 @@
                     "ja": "（CVPR 2023）テキスト記述からの人間の動きの生成に関する「T2M-GPT」のPytorch実装",
                     "zh-hans": "（CVPR 2023）Pytorch实现“T2M-GPT：使用离散表示从文本描述生成人体动作”",
                     "zh-hant": "（CVPR 2023）Pytorch實現“T2M-GPT：使用離散表示從文本描述生成人類動作”"
+                }
+            },
+            "https://github.com/dlr-rm/stable-baselines3": {
+                "repository_name": "stable-baselines3",
+                "user_name": "DLR-RM",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
+                "topics": [
+                    "baselines",
+                    "gsde",
+                    "gym",
+                    "machine-learning",
+                    "openai",
+                    "python",
+                    "pytorch",
+                    "reinforcement-learning",
+                    "reinforcement-learning-algorithms",
+                    "robotics",
+                    "sb3",
+                    "sde",
+                    "stable-baselines",
+                    "toolbox"
+                ],
+                "multilingual_descriptions": {
+                    "en": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.",
+                    "ja": "PyTorchバージョンのStable Baselines、強化学習アルゴリズムの信頼性のある実装。",
+                    "zh-hans": "PyTorch版本的Stable Baselines，强化学习算法的可靠实现。",
+                    "zh-hant": "穩定基線的PyTorch版本，可靠的強化學習算法實現。"
                 }
             }
         },
@@ -25957,6 +26059,48 @@
                     "ja": "AIエージェントとワークフローのためのモジュラーPythonフレームワーク。思考の連鎖推論、ツール、メモリを備えています。",
                     "zh-hans": "用于AI代理和工作流的模块化Python框架，具有思维链推理、工具和记忆。",
                     "zh-hant": "用於AI代理和工作流程的模塊化Python框架，具有思維鏈推理、工具和記憶功能。"
+                }
+            },
+            "https://github.com/transitive-bullshit/agentic": {
+                "repository_name": "agentic",
+                "user_name": "transitive-bullshit",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AI agent stdlib that works with any LLM and TypeScript AI SDK.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "llms",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI agent stdlib that works with any LLM and TypeScript AI SDK.",
+                    "ja": "どんなLLMとTypeScript AI SDKでも動作するAIエージェントの標準ライブラリ。",
+                    "zh-hans": "与任何LLM和TypeScript AI SDK配合使用的AI代理stdlib。输出：与任何LLM和TypeScript AI SDK配合使用的AI代理库。",
+                    "zh-hant": "與任何LLM和TypeScript AI SDK配合使用的AI代理stdlib。AI代理stdlib，可與任何LLM和TypeScript AI SDK配合使用。"
+                }
+            },
+            "https://github.com/systran/faster-whisper": {
+                "repository_name": "faster-whisper",
+                "user_name": "SYSTRAN",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Faster Whisper transcription with CTranslate2",
+                "topics": [
+                    "deep-learning",
+                    "inference",
+                    "openai",
+                    "quantization",
+                    "speech-recognition",
+                    "speech-to-text",
+                    "transformer",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Faster Whisper transcription with CTranslate2",
+                    "ja": "CTranslate2を使用した高速なウィスパー転写",
+                    "zh-hans": "使用CTranslate2进行更快速的Whisper转录",
+                    "zh-hant": "使用CTranslate2進行更快速的Whisper轉錄"
                 }
             }
         },
