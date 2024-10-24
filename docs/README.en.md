@@ -15,29 +15,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
-
-
-**Chatbots**
- * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
- * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - Data framework for your LLM applications. Focus on server side solution
+**Browser-extensions**
+ * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 
 
 **CLIs**
- * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
- * [WrenAI](https://github.com/canner/wrenai) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀
+ * [Queryable](https://github.com/mazzzystar/queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
+ * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services
+
+
+**Reimplementations**
+ * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 
 
 **NLP**
- * [griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
+ * [agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+ * [faster-whisper](https://github.com/systran/faster-whisper) - Faster Whisper transcription with CTranslate2
 
 
-**Openai**
- * [STranslate](https://github.com/zggsong/stranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
-
-
-_Updated on October 21, 2024_ (A total of 1832 repositories listed.)
+_Updated on October 25, 2024_ (A total of 1838 repositories listed.)
 
 ## Table of contents
 
@@ -748,6 +744,7 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - An extension for  oobabooga/text-generation-webui that enables the LLM to search the web using DuckDuckGo
  * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Llama.cpp and Exo) and Cloud based LLMs to help review, test, explain your project code.
  * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient a
+ * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 
 
 ## CLIs
@@ -881,6 +878,8 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [aider](https://github.com/aider-ai/aider) - aider is AI pair programming in your terminal
  * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
  * [WrenAI](https://github.com/canner/wrenai) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀
+ * [Queryable](https://github.com/mazzzystar/queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
+ * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services
 
 
 ## Reimplementations
@@ -917,6 +916,7 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - An official implementation of ShareGPT4Video: Improving Video Understanding and Generation with Better Captions
  * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch Implementation of OpenAI GPT-2
  * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - (CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”
+ * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
 
 
 ## Tutorials
@@ -1215,6 +1215,8 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
  * [rivet](https://github.com/ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
  * [griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
+ * [agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+ * [faster-whisper](https://github.com/systran/faster-whisper) - Faster Whisper transcription with CTranslate2
 
 
 ## Langchain

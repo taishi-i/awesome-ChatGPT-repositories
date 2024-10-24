@@ -15,29 +15,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 世界最高のLLMリソースの要約
-
-
-**Chatbots**
- * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlowは、深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジンです。
- * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - LLMアプリケーション用のデータフレームワーク。サーバーサイドソリューションに焦点を当てる。
+**Browser-extensions**
+ * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。あなたの個人AutoGPTウェブアプリを簡単にデプロイします。
 
 
 **CLIs**
- * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravelは、OpenAI APIとやり取りすることができる強化されたPHP APIクライアントです。
- * [WrenAI](https://github.com/canner/wrenai) - 🚀 テキストからSQLへのオープンソースSQL AIエージェント。 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquetデータソースなどをサポートしています！ 🚀
+ * [Queryable](https://github.com/mazzzystar/queryable) - iOSでOpenAIのCLIPとAppleのMobileCLIPモデルを実行して写真を検索します。
+ * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 あなた自身のChatGPT+多数のAIウェブサービスにワンクリックでアクセスできます
+
+
+**Reimplementations**
+ * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorchバージョンのStable Baselines、強化学習アルゴリズムの信頼性のある実装。
 
 
 **NLP**
- * [griptape](https://github.com/griptape-ai/griptape) - AIエージェントとワークフローのためのモジュラーPythonフレームワーク。思考の連鎖推論、ツール、メモリを備えています。
+ * [agentic](https://github.com/transitive-bullshit/agentic) - どんなLLMとTypeScript AI SDKでも動作するAIエージェントの標準ライブラリ。
+ * [faster-whisper](https://github.com/systran/faster-whisper) - CTranslate2を使用した高速なウィスパー転写
 
 
-**Openai**
- * [STranslate](https://github.com/zggsong/stranslate) - WPF/WPFで開発された即座に使用可能な翻訳OCRツール
-
-
-_Updated on October 21, 2024_ (A total of 1832 repositories listed.)
+_Updated on October 25, 2024_ (A total of 1838 repositories listed.)
 
 ## Table of contents
 
@@ -748,6 +744,7 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - DuckDuckGoを使用してLLMがウェブを検索できるようにするoobabooga/text-generation-webuiの拡張機能
  * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenieは、IntelliJ IDEA用のプラグインで、ローカルLLM（Ollama、LMStudio、GPT4All、Llama.cpp、Exo）とクラウドベースのLLMを使用して、プロジェクトコードのレビュー、テスト、説明を支援します。
  * [AGiXT](https://github.com/josh-xt/agixt) - AGiXTは、さまざまなAIプロバイダー間で指示管理と複雑なタスク実行をシームレスにオーケストレーションするダイナミックなAIエージェント自動化プラットフォームです。適応型メモリ、スマート機能、多機能なプラグインシステムを組み合わせることで、効率的なAGiXTを提供します。
+ * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。あなたの個人AutoGPTウェブアプリを簡単にデプロイします。
 
 
 ## CLIs
@@ -881,6 +878,8 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [aider](https://github.com/aider-ai/aider) - aiderはあなたのターミナルでのAIペアプログラミングですaiderはあなたのターミナルでのAIペアプログラミングです
  * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravelは、OpenAI APIとやり取りすることができる強化されたPHP APIクライアントです。
  * [WrenAI](https://github.com/canner/wrenai) - 🚀 テキストからSQLへのオープンソースSQL AIエージェント。 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquetデータソースなどをサポートしています！ 🚀
+ * [Queryable](https://github.com/mazzzystar/queryable) - iOSでOpenAIのCLIPとAppleのMobileCLIPモデルを実行して写真を検索します。
+ * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 あなた自身のChatGPT+多数のAIウェブサービスにワンクリックでアクセスできます
 
 
 ## Reimplementations
@@ -917,6 +916,7 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Videoの公式実装：より良いキャプションでビデオ理解と生成を向上させる
  * [GPT2](https://github.com/affjljoo3581/gpt2) - OpenAI GPT-2のPyTorch実装
  * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）テキスト記述からの人間の動きの生成に関する「T2M-GPT」のPytorch実装
+ * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorchバージョンのStable Baselines、強化学習アルゴリズムの信頼性のある実装。
 
 
 ## Tutorials
@@ -1215,6 +1215,8 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [ai](https://github.com/vercel/ai) - React、Svelte、Vue、およびSolidを使用してAI搭載アプリケーションを構築します。
  * [rivet](https://github.com/ironclad/rivet) - オープンソースのビジュアルAIプログラミング環境とTypeScriptライブラリ
  * [griptape](https://github.com/griptape-ai/griptape) - AIエージェントとワークフローのためのモジュラーPythonフレームワーク。思考の連鎖推論、ツール、メモリを備えています。
+ * [agentic](https://github.com/transitive-bullshit/agentic) - どんなLLMとTypeScript AI SDKでも動作するAIエージェントの標準ライブラリ。
+ * [faster-whisper](https://github.com/systran/faster-whisper) - CTranslate2を使用した高速なウィスパー転写
 
 
 ## Langchain

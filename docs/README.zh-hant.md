@@ -15,29 +15,25 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM資料總結 | Summary of the world's best LLM resources.
-
-
-**Chatbots**
- * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow 是一個基於深度文件理解的開源 RAG（檢索增強生成）引擎。
- * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - 為您的LLM應用程序提供數據框架。專注於服務器端解決方案。
+**Browser-extensions**
+ * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
 
 
 **CLIs**
- * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel 是一個強化版的 PHP API 客戶端，讓您可以與 OpenAI API 互動。
- * [WrenAI](https://github.com/canner/wrenai) - 🚀 開源 SQL AI 代理程式，用於文本轉 SQL。支援 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet 資料來源等等！🚀
+ * [Queryable](https://github.com/mazzzystar/queryable) - 在iOS上運行OpenAI的CLIP和蘋果的MobileCLIP模型來搜索照片。
+ * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一鍵擁有你自己的ChatGPT+眾多AI網頁服務 | 一鍵擁有你自己的ChatGPT+眾多AI網頁服務
+
+
+**Reimplementations**
+ * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - 穩定基線的PyTorch版本，可靠的強化學習算法實現。
 
 
 **NLP**
- * [griptape](https://github.com/griptape-ai/griptape) - 用於AI代理和工作流程的模塊化Python框架，具有思維鏈推理、工具和記憶功能。
+ * [agentic](https://github.com/transitive-bullshit/agentic) - 與任何LLM和TypeScript AI SDK配合使用的AI代理stdlib。AI代理stdlib，可與任何LLM和TypeScript AI SDK配合使用。
+ * [faster-whisper](https://github.com/systran/faster-whisper) - 使用CTranslate2進行更快速的Whisper轉錄
 
 
-**Openai**
- * [STranslate](https://github.com/zggsong/stranslate) - 一款由WPF/WPF開發的即開即用、即用即走的翻譯、OCR工具
-
-
-_Updated on October 21, 2024_ (A total of 1832 repositories listed.)
+_Updated on October 25, 2024_ (A total of 1838 repositories listed.)
 
 ## Table of contents
 
@@ -748,6 +744,7 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [LLM_Web_search](https://github.com/mamei16/llm_web_search) - 一個為oobabooga/text-generation-webui擴展的功能，使LLM能夠使用DuckDuckGo搜索網絡。
  * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie 是一個用於 IntelliJ IDEA 的插件，使用本地的 LLM（Ollama、LMStudio、GPT4All、Llama.cpp 和 Exo）和基於雲端的 LLM 來幫助審查、測試、解釋您的項目代碼。
  * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT是一個動態的AI代理自動化平台，可以無縫地協調指令管理和複雜任務執行，跨越不同的AI提供商。結合適應性記憶、智能功能和多功能插件系統，AGiXT提供高效的。
+ * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
 
 
 ## CLIs
@@ -881,6 +878,8 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [aider](https://github.com/aider-ai/aider) - 輔助者是您終端機中的AI對程式設計。
  * [laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel 是一個強化版的 PHP API 客戶端，讓您可以與 OpenAI API 互動。
  * [WrenAI](https://github.com/canner/wrenai) - 🚀 開源 SQL AI 代理程式，用於文本轉 SQL。支援 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet 資料來源等等！🚀
+ * [Queryable](https://github.com/mazzzystar/queryable) - 在iOS上運行OpenAI的CLIP和蘋果的MobileCLIP模型來搜索照片。
+ * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一鍵擁有你自己的ChatGPT+眾多AI網頁服務 | 一鍵擁有你自己的ChatGPT+眾多AI網頁服務
 
 
 ## Reimplementations
@@ -917,6 +916,7 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ShareGPT4Video的官方實施：通過更好的字幕改進視頻理解和生成
  * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch 實現 OpenAI GPT-2
  * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）Pytorch實現“T2M-GPT：使用離散表示從文本描述生成人類動作”
+ * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - 穩定基線的PyTorch版本，可靠的強化學習算法實現。
 
 
 ## Tutorials
@@ -1215,6 +1215,8 @@ _Updated on October 21, 2024_ (A total of 1832 repositories listed.)
  * [ai](https://github.com/vercel/ai) - 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
  * [rivet](https://github.com/ironclad/rivet) - 開源視覺人工智慧編程環境和TypeScript庫
  * [griptape](https://github.com/griptape-ai/griptape) - 用於AI代理和工作流程的模塊化Python框架，具有思維鏈推理、工具和記憶功能。
+ * [agentic](https://github.com/transitive-bullshit/agentic) - 與任何LLM和TypeScript AI SDK配合使用的AI代理stdlib。AI代理stdlib，可與任何LLM和TypeScript AI SDK配合使用。
+ * [faster-whisper](https://github.com/systran/faster-whisper) - 使用CTranslate2進行更快速的Whisper轉錄
 
 
 ## Langchain
