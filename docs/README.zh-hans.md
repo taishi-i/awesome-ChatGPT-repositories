@@ -15,25 +15,19 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 在浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
-
-
-**CLIs**
- * [Queryable](https://github.com/mazzzystar/queryable) - 在iOS上运行OpenAI的CLIP和Apple的MobileCLIP模型来搜索照片。
- * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | 一键访问您自己的ChatGPT+多种AI网页服务
-
-
-**Reimplementations**
- * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorch版本的Stable Baselines，强化学习算法的可靠实现。
+**Prompts**
+ * [helicone](https://github.com/helicone/helicone) - 🧊 面向开发人员的开源LLM-可观测性平台。一键集成监控、指标、评估、代理追踪、提示管理、沙盒等功能。支持OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain等。🍓
 
 
 **NLP**
- * [agentic](https://github.com/transitive-bullshit/agentic) - 与任何LLM和TypeScript AI SDK配合使用的AI代理stdlib。输出：与任何LLM和TypeScript AI SDK配合使用的AI代理库。
- * [faster-whisper](https://github.com/systran/faster-whisper) - 使用CTranslate2进行更快速的Whisper转录
+ * [tokencost](https://github.com/agentops-ai/tokencost) - 400多个LLM的Easy token价格估算。TokenOps。
 
 
-_Updated on October 25, 2024_ (A total of 1838 repositories listed.)
+**Langchain**
+ * [autolabel](https://github.com/refuel-ai/autolabel) - 使用LLMs对文本数据集进行标记、清洗和丰富。
+
+
+_Updated on October 28, 2024_ (A total of 1841 repositories listed.)
 
 ## Table of contents
 
@@ -271,6 +265,7 @@ _Updated on October 25, 2024_ (A total of 1838 repositories listed.)
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 开源LLM工程平台：LLM可观测性，指标，评估，提示管理，游乐场，数据集。与LlamaIndex，Langchain，OpenAI SDK，LiteLLM等集成。🍊YC W23
  * [gateway](https://github.com/portkey-ai/gateway) - 一个拥有集成护栏的高速AI网关。通往200多个LLMs，50多个AI护栏，配有1个快速友好的API。
  * [ai-notes](https://github.com/swyxio/ai-notes) - 软件工程师快速了解新人工智能发展的笔记。 用作https://latent.space写作和产品头脑风暴的数据存储，但在/Resources文件夹下清理了规范参考资料。
+ * [helicone](https://github.com/helicone/helicone) - 🧊 面向开发人员的开源LLM-可观测性平台。一键集成监控、指标、评估、代理追踪、提示管理、沙盒等功能。支持OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain等。🍓
 
 
 ## Chatbots
@@ -1217,6 +1212,7 @@ _Updated on October 25, 2024_ (A total of 1838 repositories listed.)
  * [griptape](https://github.com/griptape-ai/griptape) - 用于AI代理和工作流的模块化Python框架，具有思维链推理、工具和记忆。
  * [agentic](https://github.com/transitive-bullshit/agentic) - 与任何LLM和TypeScript AI SDK配合使用的AI代理stdlib。输出：与任何LLM和TypeScript AI SDK配合使用的AI代理库。
  * [faster-whisper](https://github.com/systran/faster-whisper) - 使用CTranslate2进行更快速的Whisper转录
+ * [tokencost](https://github.com/agentops-ai/tokencost) - 400多个LLM的Easy token价格估算。TokenOps。
 
 
 ## Langchain
@@ -1325,6 +1321,7 @@ _Updated on October 25, 2024_ (A total of 1838 repositories listed.)
  * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni是一个基于Llama-3.1-8B-Instruct构建的低延迟和高质量的端到端语音交互模型，旨在实现类似于GPT-4o水平的语音能力。
  * [text2text](https://github.com/artitw/text2text) - 文本2文本：跨语言自然语言处理/生成工具包
  * [llama.go](https://github.com/gotzmann/llama.go) - llama.go就像纯Go语言中的llama.cpp一样！
+ * [autolabel](https://github.com/refuel-ai/autolabel) - 使用LLMs对文本数据集进行标记、清洗和丰富。
 
 
 ## Unity
