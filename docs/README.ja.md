@@ -15,25 +15,19 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。あなたの個人AutoGPTウェブアプリを簡単にデプロイします。
-
-
-**CLIs**
- * [Queryable](https://github.com/mazzzystar/queryable) - iOSでOpenAIのCLIPとAppleのMobileCLIPモデルを実行して写真を検索します。
- * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 あなた自身のChatGPT+多数のAIウェブサービスにワンクリックでアクセスできます
-
-
-**Reimplementations**
- * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorchバージョンのStable Baselines、強化学習アルゴリズムの信頼性のある実装。
+**Prompts**
+ * [helicone](https://github.com/helicone/helicone) - 🧊 開発者向けのオープンソースLLM-Observabilityプラットフォーム。監視、メトリクス、評価、エージェントトレース、プロンプト管理、プレイグラウンドなどのためのワンライン統合。OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChainなどをサポート。🍓
 
 
 **NLP**
- * [agentic](https://github.com/transitive-bullshit/agentic) - どんなLLMとTypeScript AI SDKでも動作するAIエージェントの標準ライブラリ。
- * [faster-whisper](https://github.com/systran/faster-whisper) - CTranslate2を使用した高速なウィスパー転写
+ * [tokencost](https://github.com/agentops-ai/tokencost) - 400以上のLLMに対する簡単なトークン価格の見積もり。TokenOps。
 
 
-_Updated on October 25, 2024_ (A total of 1838 repositories listed.)
+**Langchain**
+ * [autolabel](https://github.com/refuel-ai/autolabel) - LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。
+
+
+_Updated on October 28, 2024_ (A total of 1841 repositories listed.)
 
 ## Table of contents
 
@@ -271,6 +265,7 @@ _Updated on October 25, 2024_ (A total of 1838 repositories listed.)
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 オープンソースのLLMエンジニアリングプラットフォーム：LLMオブザーバビリティ、メトリクス、評価、プロンプト管理、プレイグラウンド、データセット。LlamaIndex、Langchain、OpenAI SDK、LiteLLMなどと統合されています。🍊YC W23
  * [gateway](https://github.com/portkey-ai/gateway) - 組み込みガードレールを備えた高速AIゲートウェイ。200以上のLLMへのルート、50以上のAIガードレールを1つの高速で使いやすいAPIで提供します。
  * [ai-notes](https://github.com/swyxio/ai-notes) - 新しいAIの開発に追いつくソフトウェアエンジニア向けのノート。https://latent.spaceの執筆や製品のブレインストーミングのためのデータストアとして機能しますが、/Resourcesフォルダーの下に整理された標準的な参照情報があります。
+ * [helicone](https://github.com/helicone/helicone) - 🧊 開発者向けのオープンソースLLM-Observabilityプラットフォーム。監視、メトリクス、評価、エージェントトレース、プロンプト管理、プレイグラウンドなどのためのワンライン統合。OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChainなどをサポート。🍓
 
 
 ## Chatbots
@@ -1217,6 +1212,7 @@ _Updated on October 25, 2024_ (A total of 1838 repositories listed.)
  * [griptape](https://github.com/griptape-ai/griptape) - AIエージェントとワークフローのためのモジュラーPythonフレームワーク。思考の連鎖推論、ツール、メモリを備えています。
  * [agentic](https://github.com/transitive-bullshit/agentic) - どんなLLMとTypeScript AI SDKでも動作するAIエージェントの標準ライブラリ。
  * [faster-whisper](https://github.com/systran/faster-whisper) - CTranslate2を使用した高速なウィスパー転写
+ * [tokencost](https://github.com/agentops-ai/tokencost) - 400以上のLLMに対する簡単なトークン価格の見積もり。TokenOps。
 
 
 ## Langchain
@@ -1325,6 +1321,7 @@ _Updated on October 25, 2024_ (A total of 1838 repositories listed.)
  * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omniは、Llama-3.1-8B-Instructをベースに構築された低遅延で高品質なエンドツーエンドの音声インタラクションモデルであり、GPT-4oレベルの音声機能を実現することを目指しています。
  * [text2text](https://github.com/artitw/text2text) - テキスト2テキスト：クロスリンガルNLP/Gツールキット
  * [llama.go](https://github.com/gotzmann/llama.go) - Input: llama.goは純粋なGolangでのllama.cppのようです！Output: llama.goは純粋なGolangでのllama.cppのようです！
+ * [autolabel](https://github.com/refuel-ai/autolabel) - LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。
 
 
 ## Unity

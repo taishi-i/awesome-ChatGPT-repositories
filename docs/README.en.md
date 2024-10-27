@@ -15,25 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-
-
-**CLIs**
- * [Queryable](https://github.com/mazzzystar/queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
- * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services
-
-
-**Reimplementations**
- * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
+**Prompts**
+ * [helicone](https://github.com/helicone/helicone) - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓
 
 
 **NLP**
- * [agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
- * [faster-whisper](https://github.com/systran/faster-whisper) - Faster Whisper transcription with CTranslate2
+ * [tokencost](https://github.com/agentops-ai/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 
 
-_Updated on October 25, 2024_ (A total of 1838 repositories listed.)
+**Langchain**
+ * [autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
+
+
+_Updated on October 28, 2024_ (A total of 1841 repositories listed.)
 
 ## Table of contents
 
@@ -271,6 +265,7 @@ _Updated on October 25, 2024_ (A total of 1838 repositories listed.)
  * [langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
  * [gateway](https://github.com/portkey-ai/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
  * [ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
+ * [helicone](https://github.com/helicone/helicone) - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓
 
 
 ## Chatbots
@@ -1217,6 +1212,7 @@ _Updated on October 25, 2024_ (A total of 1838 repositories listed.)
  * [griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
  * [agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
  * [faster-whisper](https://github.com/systran/faster-whisper) - Faster Whisper transcription with CTranslate2
+ * [tokencost](https://github.com/agentops-ai/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
 
 
 ## Langchain
@@ -1325,6 +1321,7 @@ _Updated on October 25, 2024_ (A total of 1838 repositories listed.)
  * [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
  * [text2text](https://github.com/artitw/text2text) - Text2Text: Crosslingual NLP/G toolkit
  * [llama.go](https://github.com/gotzmann/llama.go) - llama.go is similar to llama.cpp but written in pure Golang!
+ * [autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
 
 
 ## Unity

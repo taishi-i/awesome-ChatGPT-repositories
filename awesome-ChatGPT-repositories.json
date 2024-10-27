@@ -5139,6 +5139,40 @@
                     "zh-hans": "软件工程师快速了解新人工智能发展的笔记。 用作https://latent.space写作和产品头脑风暴的数据存储，但在/Resources文件夹下清理了规范参考资料。",
                     "zh-hant": "軟體工程師快速掌握新人工智慧發展的筆記。 用於https://latent.space寫作和產品構思的數據存儲，但在/Resources文件夾下有整理過的標準參考資料。"
                 }
+            },
+            "https://github.com/helicone/helicone": {
+                "repository_name": "helicone",
+                "user_name": "Helicone",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓 YC W23",
+                "topics": [
+                    "agent-monitoring",
+                    "analytics",
+                    "evaluation",
+                    "gpt",
+                    "langchain",
+                    "large-language-models",
+                    "llama-index",
+                    "llm",
+                    "llm-cost",
+                    "llm-evaluation",
+                    "llm-observability",
+                    "llmops",
+                    "monitoring",
+                    "open-source",
+                    "openai",
+                    "playground",
+                    "prompt-engineering",
+                    "prompt-management",
+                    "ycombinator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓",
+                    "ja": "🧊 開発者向けのオープンソースLLM-Observabilityプラットフォーム。監視、メトリクス、評価、エージェントトレース、プロンプト管理、プレイグラウンドなどのためのワンライン統合。OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChainなどをサポート。🍓",
+                    "zh-hans": "🧊 面向开发人员的开源LLM-可观测性平台。一键集成监控、指标、评估、代理追踪、提示管理、沙盒等功能。支持OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain等。🍓",
+                    "zh-hant": "🧊 開源 LLM-可觀察性平台，為開發人員提供。一鍵集成監控、指標、評估、代理追踪、提示管理、遊樂場等功能。支持 OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain 等。🍓"
+                }
             }
         },
         "Chatbots": {
@@ -26102,6 +26136,31 @@
                     "zh-hans": "使用CTranslate2进行更快速的Whisper转录",
                     "zh-hant": "使用CTranslate2進行更快速的Whisper轉錄"
                 }
+            },
+            "https://github.com/agentops-ai/tokencost": {
+                "repository_name": "tokencost",
+                "user_name": "AgentOps-AI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Easy token price estimates for 400+ LLMs. TokenOps.",
+                "topics": [
+                    "analytics",
+                    "claude",
+                    "large-language-models",
+                    "llm",
+                    "observability",
+                    "openai",
+                    "price",
+                    "price-tracker",
+                    "token",
+                    "tokenization"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Easy token price estimates for 400+ LLMs. TokenOps.",
+                    "ja": "400以上のLLMに対する簡単なトークン価格の見積もり。TokenOps。",
+                    "zh-hans": "400多个LLM的Easy token价格估算。TokenOps。",
+                    "zh-hant": "400多個LLM的Easy token價格估算。TokenOps。"
+                }
             }
         },
         "Langchain": {
@@ -28562,6 +28621,32 @@
                     "ja": "Input: llama.goは純粋なGolangでのllama.cppのようです！Output: llama.goは純粋なGolangでのllama.cppのようです！",
                     "zh-hans": "llama.go就像纯Go语言中的llama.cpp一样！",
                     "zh-hant": "llama.go 就像純粹的 Golang 中的 llama.cpp 一樣！"
+                }
+            },
+            "https://github.com/refuel-ai/autolabel": {
+                "repository_name": "autolabel",
+                "user_name": "refuel-ai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Label, clean and enrich text datasets with LLMs.",
+                "topics": [
+                    "anthropic-claude",
+                    "data-science",
+                    "gpt-4",
+                    "huggingface-transformers",
+                    "langchain",
+                    "large-language-models",
+                    "llm",
+                    "llms",
+                    "machine-learning",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Label, clean and enrich text datasets with LLMs.",
+                    "ja": "LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。",
+                    "zh-hans": "使用LLMs对文本数据集进行标记、清洗和丰富。",
+                    "zh-hant": "使用LLMs標記、清理和豐富文本數據集。"
                 }
             }
         },
