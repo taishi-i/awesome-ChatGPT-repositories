@@ -16,18 +16,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [helicone](https://github.com/helicone/helicone) - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓
+ * [optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
+
+
+**CLIs**
+ * [ChatAny](https://github.com/licoy/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 
 
 **NLP**
- * [tokencost](https://github.com/agentops-ai/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
+ * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
 
 
 **Langchain**
- * [autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
+ * [agentops](https://github.com/agentops-ai/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 
 
-_Updated on October 28, 2024_ (A total of 1841 repositories listed.)
+**Openai**
+ * [fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
+
+
+_Updated on October 31, 2024_ (A total of 1846 repositories listed.)
 
 ## Table of contents
 
@@ -266,6 +274,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [gateway](https://github.com/portkey-ai/gateway) - A Blazing Fast AI Gateway with integrated Guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
  * [ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
  * [helicone](https://github.com/helicone/helicone) - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓
+ * [optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 
 
 ## Chatbots
@@ -875,6 +884,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [WrenAI](https://github.com/canner/wrenai) - 🚀 Open-source SQL AI Agent for Text-to-SQL. Supporting PostgreSQL, DuckDB, MySQL, MS SQL, ClickHouse, Trino, JSON, CSV, Parquet data sources, and more! 🚀
  * [Queryable](https://github.com/mazzzystar/queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
  * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services
+ * [ChatAny](https://github.com/licoy/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 
 
 ## Reimplementations
@@ -1213,6 +1223,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
  * [faster-whisper](https://github.com/systran/faster-whisper) - Faster Whisper transcription with CTranslate2
  * [tokencost](https://github.com/agentops-ai/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
+ * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
 
 
 ## Langchain
@@ -1322,6 +1333,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [text2text](https://github.com/artitw/text2text) - Text2Text: Crosslingual NLP/G toolkit
  * [llama.go](https://github.com/gotzmann/llama.go) - llama.go is similar to llama.cpp but written in pure Golang!
  * [autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
+ * [agentops](https://github.com/agentops-ai/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
 
 
 ## Unity
@@ -1530,6 +1542,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [logfire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
  * [new-api](https://github.com/calcium-ion/new-api) - AI model interface management and distribution system, supports converting multiple large models into OpenAI format for calling, supports Midjourney Proxy, Suno, Rerank, compatible with easy payment protocol, only for personal or internal management and distribution channel use by enterprises, please do not use for commercial purposes, this project is based on One API secondary development.
  * [STranslate](https://github.com/zggsong/stranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
+ * [fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 
 
 ## Others

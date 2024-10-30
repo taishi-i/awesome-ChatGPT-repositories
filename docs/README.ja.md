@@ -16,18 +16,26 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [helicone](https://github.com/helicone/helicone) - 🧊 開発者向けのオープンソースLLM-Observabilityプラットフォーム。監視、メトリクス、評価、エージェントトレース、プロンプト管理、プレイグラウンドなどのためのワンライン統合。OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChainなどをサポート。🍓
+ * [optillm](https://github.com/codelion/optillm) - LLMsの推論プロキシの最適化
+
+
+**CLIs**
+ * [ChatAny](https://github.com/licoy/chatany) - 🌻 あなた自身のChatGPT+多くのAIウェブサービスにワンクリックでアクセスできます
 
 
 **NLP**
- * [tokencost](https://github.com/agentops-ai/tokencost) - 400以上のLLMに対する簡単なトークン価格の見積もり。TokenOps。
+ * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TENエージェントは、世界初のOpenAI Realtime API、RTCと統合されたリアルタイムマルチモーダルエージェントで、天気チェック、ウェブ検索、ビジョン、RAG機能を備えています。
 
 
 **Langchain**
- * [autolabel](https://github.com/refuel-ai/autolabel) - LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。
+ * [agentops](https://github.com/agentops-ai/agentops) - AIエージェントの監視、LLMコストの追跡、ベンチマーキングなどのためのPython SDK。CrewAI、Langchain、AutogenなどのほとんどのLLMやエージェントフレームワークと統合されています。
 
 
-_Updated on October 28, 2024_ (A total of 1841 repositories listed.)
+**Openai**
+ * [fastembed](https://github.com/qdrant/fastembed) - 高速で正確で軽量なPythonライブラリを使用して、最先端の埋め込みを作成します。
+
+
+_Updated on October 31, 2024_ (A total of 1846 repositories listed.)
 
 ## Table of contents
 
@@ -266,6 +274,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [gateway](https://github.com/portkey-ai/gateway) - 組み込みガードレールを備えた高速AIゲートウェイ。200以上のLLMへのルート、50以上のAIガードレールを1つの高速で使いやすいAPIで提供します。
  * [ai-notes](https://github.com/swyxio/ai-notes) - 新しいAIの開発に追いつくソフトウェアエンジニア向けのノート。https://latent.spaceの執筆や製品のブレインストーミングのためのデータストアとして機能しますが、/Resourcesフォルダーの下に整理された標準的な参照情報があります。
  * [helicone](https://github.com/helicone/helicone) - 🧊 開発者向けのオープンソースLLM-Observabilityプラットフォーム。監視、メトリクス、評価、エージェントトレース、プロンプト管理、プレイグラウンドなどのためのワンライン統合。OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChainなどをサポート。🍓
+ * [optillm](https://github.com/codelion/optillm) - LLMsの推論プロキシの最適化
 
 
 ## Chatbots
@@ -875,6 +884,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [WrenAI](https://github.com/canner/wrenai) - 🚀 テキストからSQLへのオープンソースSQL AIエージェント。 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquetデータソースなどをサポートしています！ 🚀
  * [Queryable](https://github.com/mazzzystar/queryable) - iOSでOpenAIのCLIPとAppleのMobileCLIPモデルを実行して写真を検索します。
  * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 あなた自身のChatGPT+多数のAIウェブサービスにワンクリックでアクセスできます
+ * [ChatAny](https://github.com/licoy/chatany) - 🌻 あなた自身のChatGPT+多くのAIウェブサービスにワンクリックでアクセスできます
 
 
 ## Reimplementations
@@ -1213,6 +1223,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [agentic](https://github.com/transitive-bullshit/agentic) - どんなLLMとTypeScript AI SDKでも動作するAIエージェントの標準ライブラリ。
  * [faster-whisper](https://github.com/systran/faster-whisper) - CTranslate2を使用した高速なウィスパー転写
  * [tokencost](https://github.com/agentops-ai/tokencost) - 400以上のLLMに対する簡単なトークン価格の見積もり。TokenOps。
+ * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TENエージェントは、世界初のOpenAI Realtime API、RTCと統合されたリアルタイムマルチモーダルエージェントで、天気チェック、ウェブ検索、ビジョン、RAG機能を備えています。
 
 
 ## Langchain
@@ -1322,6 +1333,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [text2text](https://github.com/artitw/text2text) - テキスト2テキスト：クロスリンガルNLP/Gツールキット
  * [llama.go](https://github.com/gotzmann/llama.go) - Input: llama.goは純粋なGolangでのllama.cppのようです！Output: llama.goは純粋なGolangでのllama.cppのようです！
  * [autolabel](https://github.com/refuel-ai/autolabel) - LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。
+ * [agentops](https://github.com/agentops-ai/agentops) - AIエージェントの監視、LLMコストの追跡、ベンチマーキングなどのためのPython SDK。CrewAI、Langchain、AutogenなどのほとんどのLLMやエージェントフレームワークと統合されています。
 
 
 ## Unity
@@ -1530,6 +1542,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [logfire](https://github.com/pydantic/logfire) - Pythonをはじめとするシンプルな観測可能性！ 🪵🔥
  * [new-api](https://github.com/calcium-ion/new-api) - AIモデルのインターフェース管理および配布システムは、複数の大規模モデルをOpenAI形式で呼び出すことをサポートし、Midjourney Proxy、Suno、Rerankをサポートし、EasyPayプロトコルと互換性があります。個人または企業の内部管理および配布チャネルでのみ使用するために提供されており、商業目的には使用しないでください。このプロジェクトはOne APIをベースに二次開発されています。
  * [STranslate](https://github.com/zggsong/stranslate) - WPF/WPFで開発された即座に使用可能な翻訳OCRツール
+ * [fastembed](https://github.com/qdrant/fastembed) - 高速で正確で軽量なPythonライブラリを使用して、最先端の埋め込みを作成します。
 
 
 ## Others

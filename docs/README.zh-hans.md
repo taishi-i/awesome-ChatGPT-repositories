@@ -16,18 +16,26 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [helicone](https://github.com/helicone/helicone) - 🧊 面向开发人员的开源LLM-可观测性平台。一键集成监控、指标、评估、代理追踪、提示管理、沙盒等功能。支持OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain等。🍓
+ * [optillm](https://github.com/codelion/optillm) - 为LLMs优化推理代理
+
+
+**CLIs**
+ * [ChatAny](https://github.com/licoy/chatany) - 🌻 一键拥有您自己的ChatGPT+许多AI网页服务
 
 
 **NLP**
- * [tokencost](https://github.com/agentops-ai/tokencost) - 400多个LLM的Easy token价格估算。TokenOps。
+ * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent是全球第一个集成OpenAI实时API、RTC的实时多模态代理，具有天气查询、网络搜索、视觉和RAG功能。
 
 
 **Langchain**
- * [autolabel](https://github.com/refuel-ai/autolabel) - 使用LLMs对文本数据集进行标记、清洗和丰富。
+ * [agentops](https://github.com/agentops-ai/agentops) - Python SDK用于AI代理监控，LLM成本跟踪，基准测试等。与大多数LLM和代理框架集成，如CrewAI，Langchain和Autogen。
 
 
-_Updated on October 28, 2024_ (A total of 1841 repositories listed.)
+**Openai**
+ * [fastembed](https://github.com/qdrant/fastembed) - 快速、准确、轻量级的Python库，用于生成最先进的嵌入。
+
+
+_Updated on October 31, 2024_ (A total of 1846 repositories listed.)
 
 ## Table of contents
 
@@ -266,6 +274,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [gateway](https://github.com/portkey-ai/gateway) - 一个拥有集成护栏的高速AI网关。通往200多个LLMs，50多个AI护栏，配有1个快速友好的API。
  * [ai-notes](https://github.com/swyxio/ai-notes) - 软件工程师快速了解新人工智能发展的笔记。 用作https://latent.space写作和产品头脑风暴的数据存储，但在/Resources文件夹下清理了规范参考资料。
  * [helicone](https://github.com/helicone/helicone) - 🧊 面向开发人员的开源LLM-可观测性平台。一键集成监控、指标、评估、代理追踪、提示管理、沙盒等功能。支持OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain等。🍓
+ * [optillm](https://github.com/codelion/optillm) - 为LLMs优化推理代理
 
 
 ## Chatbots
@@ -875,6 +884,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [WrenAI](https://github.com/canner/wrenai) - 🚀 用于文本到SQL的开源SQL AI代理。支持PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet数据源等等！🚀
  * [Queryable](https://github.com/mazzzystar/queryable) - 在iOS上运行OpenAI的CLIP和Apple的MobileCLIP模型来搜索照片。
  * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | 一键访问您自己的ChatGPT+多种AI网页服务
+ * [ChatAny](https://github.com/licoy/chatany) - 🌻 一键拥有您自己的ChatGPT+许多AI网页服务
 
 
 ## Reimplementations
@@ -1213,6 +1223,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [agentic](https://github.com/transitive-bullshit/agentic) - 与任何LLM和TypeScript AI SDK配合使用的AI代理stdlib。输出：与任何LLM和TypeScript AI SDK配合使用的AI代理库。
  * [faster-whisper](https://github.com/systran/faster-whisper) - 使用CTranslate2进行更快速的Whisper转录
  * [tokencost](https://github.com/agentops-ai/tokencost) - 400多个LLM的Easy token价格估算。TokenOps。
+ * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent是全球第一个集成OpenAI实时API、RTC的实时多模态代理，具有天气查询、网络搜索、视觉和RAG功能。
 
 
 ## Langchain
@@ -1322,6 +1333,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [text2text](https://github.com/artitw/text2text) - 文本2文本：跨语言自然语言处理/生成工具包
  * [llama.go](https://github.com/gotzmann/llama.go) - llama.go就像纯Go语言中的llama.cpp一样！
  * [autolabel](https://github.com/refuel-ai/autolabel) - 使用LLMs对文本数据集进行标记、清洗和丰富。
+ * [agentops](https://github.com/agentops-ai/agentops) - Python SDK用于AI代理监控，LLM成本跟踪，基准测试等。与大多数LLM和代理框架集成，如CrewAI，Langchain和Autogen。
 
 
 ## Unity
@@ -1530,6 +1542,7 @@ _Updated on October 28, 2024_ (A total of 1841 repositories listed.)
  * [logfire](https://github.com/pydantic/logfire) - Python及更多的简单可观测性！🪵🔥
  * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
  * [STranslate](https://github.com/zggsong/stranslate) - 一款由WPF开发的即开即用、即用即走的翻译OCR工具
+ * [fastembed](https://github.com/qdrant/fastembed) - 快速、准确、轻量级的Python库，用于生成最先进的嵌入。
 
 
 ## Others
