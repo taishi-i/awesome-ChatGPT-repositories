@@ -5173,6 +5173,41 @@
                     "zh-hans": "🧊 面向开发人员的开源LLM-可观测性平台。一键集成监控、指标、评估、代理追踪、提示管理、沙盒等功能。支持OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain等。🍓",
                     "zh-hant": "🧊 開源 LLM-可觀察性平台，為開發人員提供。一鍵集成監控、指標、評估、代理追踪、提示管理、遊樂場等功能。支持 OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain 等。🍓"
                 }
+            },
+            "https://github.com/codelion/optillm": {
+                "repository_name": "optillm",
+                "user_name": "codelion",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Optimizing inference proxy for LLMs",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "agentic-framework",
+                    "agentic-workflow",
+                    "agents",
+                    "api-gateway",
+                    "chain-of-thought",
+                    "genai",
+                    "large-language-models",
+                    "llm",
+                    "llm-inference",
+                    "llmapi",
+                    "mixture-of-experts",
+                    "moa",
+                    "monte-carlo-tree-search",
+                    "openai",
+                    "openai-api",
+                    "optimization",
+                    "prompt-engineering",
+                    "proxy-server"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Optimizing inference proxy for LLMs",
+                    "ja": "LLMsの推論プロキシの最適化",
+                    "zh-hans": "为LLMs优化推理代理",
+                    "zh-hant": "為LLMs優化推論代理"
+                }
             }
         },
         "Chatbots": {
@@ -19151,6 +19186,27 @@
                     "zh-hans": "🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | 一键访问您自己的ChatGPT+多种AI网页服务",
                     "zh-hant": "🍭 一鍵擁有你自己的ChatGPT+眾多AI網頁服務 | 一鍵擁有你自己的ChatGPT+眾多AI網頁服務"
                 }
+            },
+            "https://github.com/licoy/chatany": {
+                "repository_name": "ChatAny",
+                "user_name": "Licoy",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-next-web",
+                    "chatgpt-web",
+                    "midjourney",
+                    "openai",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services",
+                    "ja": "🌻 あなた自身のChatGPT+多くのAIウェブサービスにワンクリックでアクセスできます",
+                    "zh-hans": "🌻 一键拥有您自己的ChatGPT+许多AI网页服务",
+                    "zh-hant": "🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務"
+                }
             }
         },
         "Reimplementations": {
@@ -26161,6 +26217,41 @@
                     "zh-hans": "400多个LLM的Easy token价格估算。TokenOps。",
                     "zh-hant": "400多個LLM的Easy token價格估算。TokenOps。"
                 }
+            },
+            "https://github.com/ten-framework/ten-agent": {
+                "repository_name": "TEN-Agent",
+                "user_name": "TEN-framework",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "asr",
+                    "cpp",
+                    "gemini",
+                    "golang",
+                    "gpt-4",
+                    "gpt-4o",
+                    "llm",
+                    "low-latency",
+                    "multimodal",
+                    "nextjs14",
+                    "openai",
+                    "python",
+                    "rag",
+                    "real-time",
+                    "realtime",
+                    "tts",
+                    "vision",
+                    "voice-assistant"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.",
+                    "ja": "TENエージェントは、世界初のOpenAI Realtime API、RTCと統合されたリアルタイムマルチモーダルエージェントで、天気チェック、ウェブ検索、ビジョン、RAG機能を備えています。",
+                    "zh-hans": "TEN Agent是全球第一个集成OpenAI实时API、RTC的实时多模态代理，具有天气查询、网络搜索、视觉和RAG功能。",
+                    "zh-hant": "TEN Agent 是全球第一個與 OpenAI 實時 API、RTC 整合的實時多模式代理，具有天氣查詢、網絡搜索、視覺和 RAG 功能。"
+                }
             }
         },
         "Langchain": {
@@ -28647,6 +28738,36 @@
                     "ja": "LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。",
                     "zh-hans": "使用LLMs对文本数据集进行标记、清洗和丰富。",
                     "zh-hant": "使用LLMs標記、清理和豐富文本數據集。"
+                }
+            },
+            "https://github.com/agentops-ai/agentops": {
+                "repository_name": "agentops",
+                "user_name": "AgentOps-AI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen",
+                "topics": [
+                    "agent",
+                    "agentops",
+                    "ai",
+                    "anthropic",
+                    "autogen",
+                    "cost-estimation",
+                    "crewai",
+                    "evals",
+                    "evaluation-metrics",
+                    "groq",
+                    "langchain",
+                    "llm",
+                    "mistral",
+                    "ollama",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen",
+                    "ja": "AIエージェントの監視、LLMコストの追跡、ベンチマーキングなどのためのPython SDK。CrewAI、Langchain、AutogenなどのほとんどのLLMやエージェントフレームワークと統合されています。",
+                    "zh-hans": "Python SDK用于AI代理监控，LLM成本跟踪，基准测试等。与大多数LLM和代理框架集成，如CrewAI，Langchain和Autogen。",
+                    "zh-hant": "Python SDK用於AI代理監控，LLM成本追踪，基準測試等。與大多數LLM和代理框架集成，如CrewAI，Langchain和Autogen。"
                 }
             }
         },
@@ -33058,6 +33179,27 @@
                     "ja": "WPF/WPFで開発された即座に使用可能な翻訳OCRツール",
                     "zh-hans": "一款由WPF开发的即开即用、即用即走的翻译OCR工具",
                     "zh-hant": "一款由WPF/WPF開發的即開即用、即用即走的翻譯、OCR工具"
+                }
+            },
+            "https://github.com/qdrant/fastembed": {
+                "repository_name": "fastembed",
+                "user_name": "qdrant",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Fast, Accurate, Lightweight Python library to make State of the Art Embedding",
+                "topics": [
+                    "embeddings",
+                    "openai",
+                    "rag",
+                    "retrieval",
+                    "retrieval-augmented-generation",
+                    "vector-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fast, Accurate, Lightweight Python library to make State of the Art Embedding",
+                    "ja": "高速で正確で軽量なPythonライブラリを使用して、最先端の埋め込みを作成します。",
+                    "zh-hans": "快速、准确、轻量级的Python库，用于生成最先进的嵌入。",
+                    "zh-hant": "快速、準確、輕量級的Python庫，用於製作最先進的嵌入。"
                 }
             }
         },
