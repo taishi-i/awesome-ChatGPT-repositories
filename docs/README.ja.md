@@ -15,27 +15,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [optillm](https://github.com/codelion/optillm) - LLMsの推論プロキシの最適化
+**Chatbots**
+ * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（以前はRepopackとして知られていました）は、リポジトリ全体を1つの、AIにとってフレンドリーなファイルにパックする強力なツールです。Large Language Models（LLMs）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを供給する必要があるときに最適です。
 
 
 **CLIs**
- * [ChatAny](https://github.com/licoy/chatany) - 🌻 あなた自身のChatGPT+多くのAIウェブサービスにワンクリックでアクセスできます
+ * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 ChatGPTと多くのAIウェブサービスに簡単アクセス | One click access to your own ChatGPT+Many AI web services
+
+
+**Reimplementations**
+ * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAIのWhisperのほぼライブ実装。
 
 
 **NLP**
- * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TENエージェントは、世界初のOpenAI Realtime API、RTCと統合されたリアルタイムマルチモーダルエージェントで、天気チェック、ウェブ検索、ビジョン、RAG機能を備えています。
+ * [refact](https://github.com/smallcloudai/refact) - コーディング用のオープンソース大規模言語モデルの微調整と自己ホスティングのためのWebUI
 
 
-**Langchain**
- * [agentops](https://github.com/agentops-ai/agentops) - AIエージェントの監視、LLMコストの追跡、ベンチマーキングなどのためのPython SDK。CrewAI、Langchain、AutogenなどのほとんどのLLMやエージェントフレームワークと統合されています。
-
-
-**Openai**
- * [fastembed](https://github.com/qdrant/fastembed) - 高速で正確で軽量なPythonライブラリを使用して、最先端の埋め込みを作成します。
-
-
-_Updated on October 31, 2024_ (A total of 1846 repositories listed.)
+_Updated on November 04, 2024_ (A total of 1850 repositories listed.)
 
 ## Table of contents
 
@@ -550,6 +546,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [agency-swarm](https://github.com/vrsen/agency-swarm) - 最新のOpenAI Assistants APIをベースに構築された唯一信頼できるエージェントフレームワーク。
  * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlowは、深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジンです。
  * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - LLMアプリケーション用のデータフレームワーク。サーバーサイドソリューションに焦点を当てる。
+ * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（以前はRepopackとして知られていました）は、リポジトリ全体を1つの、AIにとってフレンドリーなファイルにパックする強力なツールです。Large Language Models（LLMs）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを供給する必要があるときに最適です。
 
 
 ## Browser-extensions
@@ -885,6 +882,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [Queryable](https://github.com/mazzzystar/queryable) - iOSでOpenAIのCLIPとAppleのMobileCLIPモデルを実行して写真を検索します。
  * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 あなた自身のChatGPT+多数のAIウェブサービスにワンクリックでアクセスできます
  * [ChatAny](https://github.com/licoy/chatany) - 🌻 あなた自身のChatGPT+多くのAIウェブサービスにワンクリックでアクセスできます
+ * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 ChatGPTと多くのAIウェブサービスに簡単アクセス | One click access to your own ChatGPT+Many AI web services
 
 
 ## Reimplementations
@@ -922,6 +920,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [GPT2](https://github.com/affjljoo3581/gpt2) - OpenAI GPT-2のPyTorch実装
  * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）テキスト記述からの人間の動きの生成に関する「T2M-GPT」のPytorch実装
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorchバージョンのStable Baselines、強化学習アルゴリズムの信頼性のある実装。
+ * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAIのWhisperのほぼライブ実装。
 
 
 ## Tutorials
@@ -1224,6 +1223,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [faster-whisper](https://github.com/systran/faster-whisper) - CTranslate2を使用した高速なウィスパー転写
  * [tokencost](https://github.com/agentops-ai/tokencost) - 400以上のLLMに対する簡単なトークン価格の見積もり。TokenOps。
  * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TENエージェントは、世界初のOpenAI Realtime API、RTCと統合されたリアルタイムマルチモーダルエージェントで、天気チェック、ウェブ検索、ビジョン、RAG機能を備えています。
+ * [refact](https://github.com/smallcloudai/refact) - コーディング用のオープンソース大規模言語モデルの微調整と自己ホスティングのためのWebUI
 
 
 ## Langchain

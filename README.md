@@ -15,27 +15,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
+**Chatbots**
+ * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
 
 
 **CLIs**
- * [ChatAny](https://github.com/licoy/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
+ * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
+
+
+**Reimplementations**
+ * [WhisperLive](https://github.com/collabora/whisperlive) - A nearly-live implementation of OpenAI's Whisper.
 
 
 **NLP**
- * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
+ * [refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 
 
-**Langchain**
- * [agentops](https://github.com/agentops-ai/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
-
-
-**Openai**
- * [fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
-
-
-_Updated on October 31, 2024_ (A total of 1846 repositories listed.)
+_Updated on November 04, 2024_ (A total of 1850 repositories listed.)
 
 ## Table of contents
 
@@ -550,6 +546,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [agency-swarm](https://github.com/vrsen/agency-swarm) - The only reliable agent framework built on top of the latest OpenAI Assistants API.
  * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
  * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - Data framework for your LLM applications. Focus on server side solution
+ * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
 
 
 ## Browser-extensions
@@ -885,6 +882,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [Queryable](https://github.com/mazzzystar/queryable) - Run OpenAI's CLIP and Apple's MobileCLIP model on iOS to search photos.
  * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services
  * [ChatAny](https://github.com/licoy/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
+ * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 
 
 ## Reimplementations
@@ -922,6 +920,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch Implementation of OpenAI GPT-2
  * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - (CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
+ * [WhisperLive](https://github.com/collabora/whisperlive) - A nearly-live implementation of OpenAI's Whisper.
 
 
 ## Tutorials
@@ -1224,6 +1223,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [faster-whisper](https://github.com/systran/faster-whisper) - Faster Whisper transcription with CTranslate2
  * [tokencost](https://github.com/agentops-ai/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
  * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
+ * [refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
 
 
 ## Langchain

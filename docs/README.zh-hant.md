@@ -15,27 +15,23 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [optillm](https://github.com/codelion/optillm) - 為LLMs優化推論代理
+**Chatbots**
+ * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（原名Repopack）是一個強大的工具，可以將您的整個存儲庫打包成一個單一的、適合人工智能的文件。當您需要將代碼庫提供給大型語言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini時，這是完美的選擇。
 
 
 **CLIs**
- * [ChatAny](https://github.com/licoy/chatany) - 🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務
+ * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務
+
+
+**Reimplementations**
+ * [WhisperLive](https://github.com/collabora/whisperlive) - 一個幾乎實時實現OpenAI的Whisper。
 
 
 **NLP**
- * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent 是全球第一個與 OpenAI 實時 API、RTC 整合的實時多模式代理，具有天氣查詢、網絡搜索、視覺和 RAG 功能。
+ * [refact](https://github.com/smallcloudai/refact) - 用於微調和自行託管開源大型語言模型進行編碼的WebUI
 
 
-**Langchain**
- * [agentops](https://github.com/agentops-ai/agentops) - Python SDK用於AI代理監控，LLM成本追踪，基準測試等。與大多數LLM和代理框架集成，如CrewAI，Langchain和Autogen。
-
-
-**Openai**
- * [fastembed](https://github.com/qdrant/fastembed) - 快速、準確、輕量級的Python庫，用於製作最先進的嵌入。
-
-
-_Updated on October 31, 2024_ (A total of 1846 repositories listed.)
+_Updated on November 04, 2024_ (A total of 1850 repositories listed.)
 
 ## Table of contents
 
@@ -550,6 +546,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [agency-swarm](https://github.com/vrsen/agency-swarm) - 建立在最新的OpenAI助手API之上的唯一可靠代理框架。
  * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow 是一個基於深度文件理解的開源 RAG（檢索增強生成）引擎。
  * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - 為您的LLM應用程序提供數據框架。專注於服務器端解決方案。
+ * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（原名Repopack）是一個強大的工具，可以將您的整個存儲庫打包成一個單一的、適合人工智能的文件。當您需要將代碼庫提供給大型語言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini時，這是完美的選擇。
 
 
 ## Browser-extensions
@@ -885,6 +882,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [Queryable](https://github.com/mazzzystar/queryable) - 在iOS上運行OpenAI的CLIP和蘋果的MobileCLIP模型來搜索照片。
  * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一鍵擁有你自己的ChatGPT+眾多AI網頁服務 | 一鍵擁有你自己的ChatGPT+眾多AI網頁服務
  * [ChatAny](https://github.com/licoy/chatany) - 🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務
+ * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務
 
 
 ## Reimplementations
@@ -922,6 +920,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [GPT2](https://github.com/affjljoo3581/gpt2) - PyTorch 實現 OpenAI GPT-2
  * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）Pytorch實現“T2M-GPT：使用離散表示從文本描述生成人類動作”
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - 穩定基線的PyTorch版本，可靠的強化學習算法實現。
+ * [WhisperLive](https://github.com/collabora/whisperlive) - 一個幾乎實時實現OpenAI的Whisper。
 
 
 ## Tutorials
@@ -1224,6 +1223,7 @@ _Updated on October 31, 2024_ (A total of 1846 repositories listed.)
  * [faster-whisper](https://github.com/systran/faster-whisper) - 使用CTranslate2進行更快速的Whisper轉錄
  * [tokencost](https://github.com/agentops-ai/tokencost) - 400多個LLM的Easy token價格估算。TokenOps。
  * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent 是全球第一個與 OpenAI 實時 API、RTC 整合的實時多模式代理，具有天氣查詢、網絡搜索、視覺和 RAG 功能。
+ * [refact](https://github.com/smallcloudai/refact) - 用於微調和自行託管開源大型語言模型進行編碼的WebUI
 
 
 ## Langchain
