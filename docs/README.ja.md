@@ -15,23 +15,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（以前はRepopackとして知られていました）は、リポジトリ全体を1つの、AIにとってフレンドリーなファイルにパックする強力なツールです。Large Language Models（LLMs）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを供給する必要があるときに最適です。
+**Browser-extensions**
+ * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
 
 
 **CLIs**
- * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 ChatGPTと多くのAIウェブサービスに簡単アクセス | One click access to your own ChatGPT+Many AI web services
-
-
-**Reimplementations**
- * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAIのWhisperのほぼライブ実装。
+ * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLIcz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLI
+ * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
 
 
 **NLP**
- * [refact](https://github.com/smallcloudai/refact) - コーディング用のオープンソース大規模言語モデルの微調整と自己ホスティングのためのWebUI
+ * [ax](https://github.com/ax-llm/ax) - 非公式のDSPyフレームワーク。Stanford DSP論文に基づいたLLMパワードエージェントと「エージェンティックワークフロー」を構築します。
 
 
-_Updated on November 04, 2024_ (A total of 1850 repositories listed.)
+**Openai**
+ * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI APIのOpenAPI仕様書
+ * [openai-dotnet](https://github.com/openai/openai-dotnet) - OpenAI APIの公式.NETライブラリ
+
+
+_Updated on November 07, 2024_ (A total of 1856 repositories listed.)
 
 ## Table of contents
 
@@ -746,6 +748,7 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenieは、IntelliJ IDEA用のプラグインで、ローカルLLM（Ollama、LMStudio、GPT4All、Llama.cpp、Exo）とクラウドベースのLLMを使用して、プロジェクトコードのレビュー、テスト、説明を支援します。
  * [AGiXT](https://github.com/josh-xt/agixt) - AGiXTは、さまざまなAIプロバイダー間で指示管理と複雑なタスク実行をシームレスにオーケストレーションするダイナミックなAIエージェント自動化プラットフォームです。適応型メモリ、スマート機能、多機能なプラグインシステムを組み合わせることで、効率的なAGiXTを提供します。
  * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。あなたの個人AutoGPTウェブアプリを簡単にデプロイします。
+ * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
 
 
 ## CLIs
@@ -883,6 +886,8 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 あなた自身のChatGPT+多数のAIウェブサービスにワンクリックでアクセスできます
  * [ChatAny](https://github.com/licoy/chatany) - 🌻 あなた自身のChatGPT+多くのAIウェブサービスにワンクリックでアクセスできます
  * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 ChatGPTと多くのAIウェブサービスに簡単アクセス | One click access to your own ChatGPT+Many AI web services
+ * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLIcz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLI
+ * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
 
 
 ## Reimplementations
@@ -1224,6 +1229,7 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [tokencost](https://github.com/agentops-ai/tokencost) - 400以上のLLMに対する簡単なトークン価格の見積もり。TokenOps。
  * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TENエージェントは、世界初のOpenAI Realtime API、RTCと統合されたリアルタイムマルチモーダルエージェントで、天気チェック、ウェブ検索、ビジョン、RAG機能を備えています。
  * [refact](https://github.com/smallcloudai/refact) - コーディング用のオープンソース大規模言語モデルの微調整と自己ホスティングのためのWebUI
+ * [ax](https://github.com/ax-llm/ax) - 非公式のDSPyフレームワーク。Stanford DSP論文に基づいたLLMパワードエージェントと「エージェンティックワークフロー」を構築します。
 
 
 ## Langchain
@@ -1543,6 +1549,8 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [new-api](https://github.com/calcium-ion/new-api) - AIモデルのインターフェース管理および配布システムは、複数の大規模モデルをOpenAI形式で呼び出すことをサポートし、Midjourney Proxy、Suno、Rerankをサポートし、EasyPayプロトコルと互換性があります。個人または企業の内部管理および配布チャネルでのみ使用するために提供されており、商業目的には使用しないでください。このプロジェクトはOne APIをベースに二次開発されています。
  * [STranslate](https://github.com/zggsong/stranslate) - WPF/WPFで開発された即座に使用可能な翻訳OCRツール
  * [fastembed](https://github.com/qdrant/fastembed) - 高速で正確で軽量なPythonライブラリを使用して、最先端の埋め込みを作成します。
+ * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI APIのOpenAPI仕様書
+ * [openai-dotnet](https://github.com/openai/openai-dotnet) - OpenAI APIの公式.NETライブラリ
 
 
 ## Others
