@@ -15,23 +15,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
+**Browser-extensions**
+ * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 
 **CLIs**
- * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
-
-
-**Reimplementations**
- * [WhisperLive](https://github.com/collabora/whisperlive) - A nearly-live implementation of OpenAI's Whisper.
+ * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
+ * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 
 
 **NLP**
- * [refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
+ * [ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 
 
-_Updated on November 04, 2024_ (A total of 1850 repositories listed.)
+**Openai**
+ * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
+ * [openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
+
+
+_Updated on November 07, 2024_ (A total of 1856 repositories listed.)
 
 ## Table of contents
 
@@ -746,6 +748,7 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie is a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All, Llama.cpp and Exo) and Cloud based LLMs to help review, test, explain your project code.
  * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient a
  * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+ * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 
 ## CLIs
@@ -883,6 +886,8 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | One click access to your own ChatGPT+numerous AI web services
  * [ChatAny](https://github.com/licoy/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
  * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
+ * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
+ * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 
 
 ## Reimplementations
@@ -1224,6 +1229,7 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [tokencost](https://github.com/agentops-ai/tokencost) - Easy token price estimates for 400+ LLMs. TokenOps.
  * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
  * [refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
+ * [ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
 
 
 ## Langchain
@@ -1543,6 +1549,8 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [new-api](https://github.com/calcium-ion/new-api) - AI model interface management and distribution system, supports converting multiple large models into OpenAI format for calling, supports Midjourney Proxy, Suno, Rerank, compatible with easy payment protocol, only for personal or internal management and distribution channel use by enterprises, please do not use for commercial purposes, this project is based on One API secondary development.
  * [STranslate](https://github.com/zggsong/stranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
  * [fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
+ * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
+ * [openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
 
 
 ## Others

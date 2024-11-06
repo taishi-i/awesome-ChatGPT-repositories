@@ -16219,6 +16219,41 @@
                     "zh-hans": "🤖 在浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。",
                     "zh-hant": "🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。"
                 }
+            },
+            "https://github.com/aihawk-app/auto_jobs_applier": {
+                "repository_name": "Auto_Jobs_Applier",
+                "user_name": "AIHawk-app",
+                "language": "Python",
+                "license": "Other",
+                "description": "Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+                "topics": [
+                    "application-resume",
+                    "automate",
+                    "automation",
+                    "bot",
+                    "challenge",
+                    "chatgpt",
+                    "chrome",
+                    "gpt",
+                    "human-resources",
+                    "job",
+                    "jobs",
+                    "jobsearch",
+                    "jobseeker",
+                    "opeai",
+                    "python",
+                    "python3",
+                    "resume",
+                    "scraper",
+                    "scraping",
+                    "selenium"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+                    "ja": "Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。",
+                    "zh-hans": "Auto_Jobs_Applier_AIHawk是一个自动化工作申请流程的工具。利用人工智能，它使用户能够以自动化和个性化的方式申请多个工作。",
+                    "zh-hant": "Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。"
+                }
             }
         },
         "CLIs": {
@@ -19260,6 +19295,60 @@
                     "ja": "🌻 ChatGPTと多くのAIウェブサービスに簡単アクセス | One click access to your own ChatGPT+Many AI web services",
                     "zh-hans": "🌻 一键拥有您自己的ChatGPT+许多AI网页服务",
                     "zh-hant": "🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務"
+                }
+            },
+            "https://github.com/zhengqbbb/cz-git": {
+                "repository_name": "cz-git",
+                "user_name": "Zhengqbbb",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI",
+                "topics": [
+                    "cli",
+                    "commit",
+                    "commit-message",
+                    "commitizen",
+                    "commitizen-adapter",
+                    "commitlint",
+                    "cz-git",
+                    "czg",
+                    "emoji",
+                    "emojis",
+                    "node",
+                    "nodejs",
+                    "openai",
+                    "vitepress",
+                    "workflow",
+                    "workflows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI",
+                    "ja": "cz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLIcz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLI",
+                    "zh-hans": "cz-git | czg 🛠️ DX 首选和更工程化，轻量级，可定制，标准输出格式的 Commitizen 适配器和 CLI",
+                    "zh-hant": "cz-git | czg 🛠️ DX 首選和更多工程化、輕量級、可定制、標準輸出格式的 Commitizen 適配器和 CLI"
+                }
+            },
+            "https://github.com/kangfenmao/cherry-studio": {
+                "repository_name": "cherry-studio",
+                "user_name": "kangfenmao",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers",
+                "topics": [
+                    "agent",
+                    "anthropic",
+                    "assistant",
+                    "chatbot",
+                    "chatbotai",
+                    "electron",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers",
+                    "ja": "🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。",
+                    "zh-hans": "🍒 Cherry Studio 是一个桌面客户端，支持多个LLM提供商。",
+                    "zh-hant": "🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。"
                 }
             }
         },
@@ -26366,6 +26455,39 @@
                     "zh-hans": "用于微调和自托管开源大型语言模型进行编码的WebUI",
                     "zh-hant": "用於微調和自行託管開源大型語言模型進行編碼的WebUI"
                 }
+            },
+            "https://github.com/ax-llm/ax": {
+                "repository_name": "ax",
+                "user_name": "ax-llm",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "The unofficial DSPy framework. Build LLM powered Agents and \"Agentic workflows\" based on the Stanford DSP paper.",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "claude",
+                    "cohere",
+                    "gemini",
+                    "google",
+                    "gpt-4",
+                    "javascript",
+                    "large-language-models",
+                    "llm",
+                    "nodejs",
+                    "ollama",
+                    "openai",
+                    "opensource",
+                    "rag",
+                    "together-compute",
+                    "typescript",
+                    "vectordb"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The unofficial DSPy framework. Build LLM powered Agents and \"Agentic workflows\" based on the Stanford DSP paper.",
+                    "ja": "非公式のDSPyフレームワーク。Stanford DSP論文に基づいたLLMパワードエージェントと「エージェンティックワークフロー」を構築します。",
+                    "zh-hans": "非官方DSPy框架。基于斯坦福DSP论文构建由LLM驱动的代理和“代理工作流”。",
+                    "zh-hant": "非官方DSPy框架。基於斯坦福DSP論文構建由LLM驅動的代理和“代理工作流”。"
+                }
             }
         },
         "Langchain": {
@@ -33314,6 +33436,41 @@
                     "ja": "高速で正確で軽量なPythonライブラリを使用して、最先端の埋め込みを作成します。",
                     "zh-hans": "快速、准确、轻量级的Python库，用于生成最先进的嵌入。",
                     "zh-hant": "快速、準確、輕量級的Python庫，用於製作最先進的嵌入。"
+                }
+            },
+            "https://github.com/openai/openai-openapi": {
+                "repository_name": "openai-openapi",
+                "user_name": "openai",
+                "language": null,
+                "license": "MIT License",
+                "description": "OpenAPI specification for the OpenAI API",
+                "topics": [
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAPI specification for the OpenAI API",
+                    "ja": "OpenAI APIのOpenAPI仕様書",
+                    "zh-hans": "OpenAI API的OpenAPI规范",
+                    "zh-hant": "OpenAI API 的 OpenAPI 规范"
+                }
+            },
+            "https://github.com/openai/openai-dotnet": {
+                "repository_name": "openai-dotnet",
+                "user_name": "openai",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "The official .NET library for the OpenAI API",
+                "topics": [
+                    "csharp",
+                    "dotnet",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The official .NET library for the OpenAI API",
+                    "ja": "OpenAI APIの公式.NETライブラリ",
+                    "zh-hans": "OpenAI API的官方.NET库",
+                    "zh-hant": "用於OpenAI API的官方.NET庫"
                 }
             }
         },

@@ -15,23 +15,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（原名Repopack）是一個強大的工具，可以將您的整個存儲庫打包成一個單一的、適合人工智能的文件。當您需要將代碼庫提供給大型語言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini時，這是完美的選擇。
+**Browser-extensions**
+ * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
 
 
 **CLIs**
- * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務
-
-
-**Reimplementations**
- * [WhisperLive](https://github.com/collabora/whisperlive) - 一個幾乎實時實現OpenAI的Whisper。
+ * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DX 首選和更多工程化、輕量級、可定制、標準輸出格式的 Commitizen 適配器和 CLI
+ * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
 
 
 **NLP**
- * [refact](https://github.com/smallcloudai/refact) - 用於微調和自行託管開源大型語言模型進行編碼的WebUI
+ * [ax](https://github.com/ax-llm/ax) - 非官方DSPy框架。基於斯坦福DSP論文構建由LLM驅動的代理和“代理工作流”。
 
 
-_Updated on November 04, 2024_ (A total of 1850 repositories listed.)
+**Openai**
+ * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI API 的 OpenAPI 规范
+ * [openai-dotnet](https://github.com/openai/openai-dotnet) - 用於OpenAI API的官方.NET庫
+
+
+_Updated on November 07, 2024_ (A total of 1856 repositories listed.)
 
 ## Table of contents
 
@@ -746,6 +748,7 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - DevoxxGenie 是一個用於 IntelliJ IDEA 的插件，使用本地的 LLM（Ollama、LMStudio、GPT4All、Llama.cpp 和 Exo）和基於雲端的 LLM 來幫助審查、測試、解釋您的項目代碼。
  * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT是一個動態的AI代理自動化平台，可以無縫地協調指令管理和複雜任務執行，跨越不同的AI提供商。結合適應性記憶、智能功能和多功能插件系統，AGiXT提供高效的。
  * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
+ * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
 
 
 ## CLIs
@@ -883,6 +886,8 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [ChatGPTs](https://github.com/licoy/chatgpts) - 🍭 一鍵擁有你自己的ChatGPT+眾多AI網頁服務 | 一鍵擁有你自己的ChatGPT+眾多AI網頁服務
  * [ChatAny](https://github.com/licoy/chatany) - 🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務
  * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務
+ * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DX 首選和更多工程化、輕量級、可定制、標準輸出格式的 Commitizen 適配器和 CLI
+ * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
 
 
 ## Reimplementations
@@ -1224,6 +1229,7 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [tokencost](https://github.com/agentops-ai/tokencost) - 400多個LLM的Easy token價格估算。TokenOps。
  * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent 是全球第一個與 OpenAI 實時 API、RTC 整合的實時多模式代理，具有天氣查詢、網絡搜索、視覺和 RAG 功能。
  * [refact](https://github.com/smallcloudai/refact) - 用於微調和自行託管開源大型語言模型進行編碼的WebUI
+ * [ax](https://github.com/ax-llm/ax) - 非官方DSPy框架。基於斯坦福DSP論文構建由LLM驅動的代理和“代理工作流”。
 
 
 ## Langchain
@@ -1543,6 +1549,8 @@ _Updated on November 04, 2024_ (A total of 1850 repositories listed.)
  * [new-api](https://github.com/calcium-ion/new-api) - AI模型接口管理與分發系統，支持將多種大模型轉為OpenAI格式調用、支持Midjourney Proxy、Suno、Rerank，兼容易支付協議，僅供個人或者企業內部管理與分發渠道使用，請勿用於商業用途，本項目基於One API二次開發。
  * [STranslate](https://github.com/zggsong/stranslate) - 一款由WPF/WPF開發的即開即用、即用即走的翻譯、OCR工具
  * [fastembed](https://github.com/qdrant/fastembed) - 快速、準確、輕量級的Python庫，用於製作最先進的嵌入。
+ * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI API 的 OpenAPI 规范
+ * [openai-dotnet](https://github.com/openai/openai-dotnet) - 用於OpenAI API的官方.NET庫
 
 
 ## Others
