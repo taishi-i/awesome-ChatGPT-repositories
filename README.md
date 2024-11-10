@@ -15,25 +15,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
+
+
 **Browser-extensions**
- * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+ * [browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM
+ * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 
 **CLIs**
- * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
- * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+ * [plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 
 
-**NLP**
- * [ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
+**Langchain**
+ * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
+ * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. :fireworks: Code RAG
 
 
 **Openai**
- * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
- * [openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
+ * [stable-ts](https://github.com/jianfch/stable-ts) - Transcription, forced alignment, and audio indexing with OpenAI's Whisper
 
 
-_Updated on November 07, 2024_ (A total of 1856 repositories listed.)
+_Updated on November 11, 2024_ (A total of 1863 repositories listed.)
 
 ## Table of contents
 
@@ -273,6 +277,7 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.
  * [helicone](https://github.com/helicone/helicone) - 🧊 Open source LLM-Observability Platform for Developers. One-line integration for monitoring, metrics, evals, agent tracing, prompt management, playground, etc. Supports OpenAI SDK, Vercel AI SDK, Anthropic SDK, LiteLLM, LLamaIndex, LangChain, and more. 🍓 YC W23
  * [optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
+ * [lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
 
 
 ## Chatbots
@@ -749,6 +754,8 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, and a versatile plugin system, AGiXT delivers efficient and comprehensive AI solutions.
  * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
  * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+ * [browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM
+ * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 
 ## CLIs
@@ -888,6 +895,7 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
  * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
  * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+ * [plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 
 
 ## Reimplementations
@@ -1340,6 +1348,8 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [llama.go](https://github.com/gotzmann/llama.go) - llama.go is like llama.cpp in pure Golang!
  * [autolabel](https://github.com/refuel-ai/autolabel) - Label, clean and enrich text datasets with LLMs.
  * [agentops](https://github.com/agentops-ai/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
+ * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
+ * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. :fireworks: Code RAG
 
 
 ## Unity
@@ -1551,6 +1561,7 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
  * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
  * [openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
+ * [stable-ts](https://github.com/jianfch/stable-ts) - Transcription, forced alignment, and audio indexing with OpenAI's Whisper
 
 
 ## Others

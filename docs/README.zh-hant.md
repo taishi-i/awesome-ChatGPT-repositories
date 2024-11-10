@@ -15,25 +15,29 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [lunary](https://github.com/lunary-ai/lunary) - LLM的生產工具包。可觀察性，及時管理和評估。
+
+
 **Browser-extensions**
- * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
+ * [browser-use](https://github.com/gregpr07/browser-use) - 開源網頁自動化庫與任何LLM
+ * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier由AIHawk開發，是一個自動化工作申請流程的代理商。利用人工智能，它使用戶能夠以自動化和個性化的方式申請多個工作。
 
 
 **CLIs**
- * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DX 首選和更多工程化、輕量級、可定制、標準輸出格式的 Commitizen 適配器和 CLI
- * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
+ * [plandex](https://github.com/plandex-ai/plandex) - 在您的終端機中進行AI驅動的開發。設計用於大型、現實世界的任務。
 
 
-**NLP**
- * [ax](https://github.com/ax-llm/ax) - 非官方DSPy框架。基於斯坦福DSP論文構建由LLM驅動的代理和“代理工作流”。
+**Langchain**
+ * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - 由LLM | OpenAI、Gemini和Ollama提供動力的強大網絡爬蟲
+ * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent：您無縫AI工程和研究的智能伴侶。🔍 整合arxiv和paper with code，提供更好的代碼/研究計劃 🧰 支持OpenAI、Anthropic、Ollama等。:fireworks: Code RAG
 
 
 **Openai**
- * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI API 的 OpenAPI 规范
- * [openai-dotnet](https://github.com/openai/openai-dotnet) - 用於OpenAI API的官方.NET庫
+ * [stable-ts](https://github.com/jianfch/stable-ts) - 使用OpenAI的Whisper進行轉錄、強制對齊和音頻索引
 
 
-_Updated on November 07, 2024_ (A total of 1856 repositories listed.)
+_Updated on November 11, 2024_ (A total of 1863 repositories listed.)
 
 ## Table of contents
 
@@ -273,6 +277,7 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [ai-notes](https://github.com/swyxio/ai-notes) - 軟體工程師快速掌握新人工智慧發展的筆記。 用於https://latent.space寫作和產品構思的數據存儲，但在/Resources文件夾下有整理過的標準參考資料。
  * [helicone](https://github.com/helicone/helicone) - 🧊 開源 LLM-可觀察性平台，為開發人員提供。一鍵集成監控、指標、評估、代理追踪、提示管理、遊樂場等功能。支持 OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain 等。🍓
  * [optillm](https://github.com/codelion/optillm) - 為LLMs優化推論代理
+ * [lunary](https://github.com/lunary-ai/lunary) - LLM的生產工具包。可觀察性，及時管理和評估。
 
 
 ## Chatbots
@@ -749,6 +754,8 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [AGiXT](https://github.com/josh-xt/agixt) - AGiXT是一個動態的AI代理自動化平台，可以無縫地協調指令管理和複雜任務執行，跨越不同的AI提供商。結合適應性記憶、智能功能和多功能插件系統，AGiXT提供高效的。
  * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
  * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
+ * [browser-use](https://github.com/gregpr07/browser-use) - 開源網頁自動化庫與任何LLM
+ * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier由AIHawk開發，是一個自動化工作申請流程的代理商。利用人工智能，它使用戶能夠以自動化和個性化的方式申請多個工作。
 
 
 ## CLIs
@@ -888,6 +895,7 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務 | 一鍵擁有你自己的 ChatGPT+眾多AI 網頁服務
  * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DX 首選和更多工程化、輕量級、可定制、標準輸出格式的 Commitizen 適配器和 CLI
  * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
+ * [plandex](https://github.com/plandex-ai/plandex) - 在您的終端機中進行AI驅動的開發。設計用於大型、現實世界的任務。
 
 
 ## Reimplementations
@@ -1340,6 +1348,8 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [llama.go](https://github.com/gotzmann/llama.go) - llama.go 就像純粹的 Golang 中的 llama.cpp 一樣！
  * [autolabel](https://github.com/refuel-ai/autolabel) - 使用LLMs標記、清理和豐富文本數據集。
  * [agentops](https://github.com/agentops-ai/agentops) - Python SDK用於AI代理監控，LLM成本追踪，基準測試等。與大多數LLM和代理框架集成，如CrewAI，Langchain和Autogen。
+ * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - 由LLM | OpenAI、Gemini和Ollama提供動力的強大網絡爬蟲
+ * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent：您無縫AI工程和研究的智能伴侶。🔍 整合arxiv和paper with code，提供更好的代碼/研究計劃 🧰 支持OpenAI、Anthropic、Ollama等。:fireworks: Code RAG
 
 
 ## Unity
@@ -1551,6 +1561,7 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [fastembed](https://github.com/qdrant/fastembed) - 快速、準確、輕量級的Python庫，用於製作最先進的嵌入。
  * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI API 的 OpenAPI 规范
  * [openai-dotnet](https://github.com/openai/openai-dotnet) - 用於OpenAI API的官方.NET庫
+ * [stable-ts](https://github.com/jianfch/stable-ts) - 使用OpenAI的Whisper進行轉錄、強制對齊和音頻索引
 
 
 ## Others

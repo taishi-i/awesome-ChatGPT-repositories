@@ -15,25 +15,29 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [lunary](https://github.com/lunary-ai/lunary) - LLM向けの製作ツールキット。可観測性、プロンプト管理、評価。
+
+
 **Browser-extensions**
- * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
+ * [browser-use](https://github.com/gregpr07/browser-use) - 任意のLLMを使用したオープンソースのWeb自動化ライブラリ任意のLLMを使用したオープンソースのWeb自動化ライブラリ
+ * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawkは、仕事の応募プロセスを自動化するエージェントです。人工知能を活用して、ユーザーが自動化された個人に適した方法で複数の仕事に応募できるようにします。
 
 
 **CLIs**
- * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLIcz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLI
- * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
+ * [plandex](https://github.com/plandex-ai/plandex) - ターミナルでのAI駆動開発。大規模で実世界のタスクに対応するよう設計されています。
 
 
-**NLP**
- * [ax](https://github.com/ax-llm/ax) - 非公式のDSPyフレームワーク。Stanford DSP論文に基づいたLLMパワードエージェントと「エージェンティックワークフロー」を構築します。
+**Langchain**
+ * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - LLM | OpenAI、Gemini＆Ollamaによって強力なウェブスクレイパーを搭載
+ * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: シームレスなAIエンジニアリングと研究のための知的な仲間です。🔍 arxivとpaper with codeと統合して、より良いコード/研究計画を提供します🧰 OpenAI、Anthropic、Ollamaなどがサポートされています。:fireworks: Code RAG
 
 
 **Openai**
- * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI APIのOpenAPI仕様書
- * [openai-dotnet](https://github.com/openai/openai-dotnet) - OpenAI APIの公式.NETライブラリ
+ * [stable-ts](https://github.com/jianfch/stable-ts) - OpenAIのWhisperを使用した転写、強制アラインメント、およびオーディオインデックス化
 
 
-_Updated on November 07, 2024_ (A total of 1856 repositories listed.)
+_Updated on November 11, 2024_ (A total of 1863 repositories listed.)
 
 ## Table of contents
 
@@ -273,6 +277,7 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [ai-notes](https://github.com/swyxio/ai-notes) - 新しいAIの開発に追いつくソフトウェアエンジニア向けのノート。https://latent.spaceの執筆や製品のブレインストーミングのためのデータストアとして機能しますが、/Resourcesフォルダーの下に整理された標準的な参照情報があります。
  * [helicone](https://github.com/helicone/helicone) - 🧊 開発者向けのオープンソースLLM-Observabilityプラットフォーム。監視、メトリクス、評価、エージェントトレース、プロンプト管理、プレイグラウンドなどのためのワンライン統合。OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChainなどをサポート。🍓
  * [optillm](https://github.com/codelion/optillm) - LLMsの推論プロキシの最適化
+ * [lunary](https://github.com/lunary-ai/lunary) - LLM向けの製作ツールキット。可観測性、プロンプト管理、評価。
 
 
 ## Chatbots
@@ -749,6 +754,8 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [AGiXT](https://github.com/josh-xt/agixt) - AGiXTは、さまざまなAIプロバイダー間で指示管理と複雑なタスク実行をシームレスにオーケストレーションするダイナミックなAIエージェント自動化プラットフォームです。適応型メモリ、スマート機能、多機能なプラグインシステムを組み合わせることで、効率的なAGiXTを提供します。
  * [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。あなたの個人AutoGPTウェブアプリを簡単にデプロイします。
  * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
+ * [browser-use](https://github.com/gregpr07/browser-use) - 任意のLLMを使用したオープンソースのWeb自動化ライブラリ任意のLLMを使用したオープンソースのWeb自動化ライブラリ
+ * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawkは、仕事の応募プロセスを自動化するエージェントです。人工知能を活用して、ユーザーが自動化された個人に適した方法で複数の仕事に応募できるようにします。
 
 
 ## CLIs
@@ -888,6 +895,7 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [ChatAny](https://github.com/chatanyteam/chatany) - 🌻 ChatGPTと多くのAIウェブサービスに簡単アクセス | One click access to your own ChatGPT+Many AI web services
  * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLIcz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLI
  * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
+ * [plandex](https://github.com/plandex-ai/plandex) - ターミナルでのAI駆動開発。大規模で実世界のタスクに対応するよう設計されています。
 
 
 ## Reimplementations
@@ -1340,6 +1348,8 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [llama.go](https://github.com/gotzmann/llama.go) - Input: llama.goは純粋なGolangでのllama.cppのようです！Output: llama.goは純粋なGolangでのllama.cppのようです！
  * [autolabel](https://github.com/refuel-ai/autolabel) - LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。
  * [agentops](https://github.com/agentops-ai/agentops) - AIエージェントの監視、LLMコストの追跡、ベンチマーキングなどのためのPython SDK。CrewAI、Langchain、AutogenなどのほとんどのLLMやエージェントフレームワークと統合されています。
+ * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - LLM | OpenAI、Gemini＆Ollamaによって強力なウェブスクレイパーを搭載
+ * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: シームレスなAIエンジニアリングと研究のための知的な仲間です。🔍 arxivとpaper with codeと統合して、より良いコード/研究計画を提供します🧰 OpenAI、Anthropic、Ollamaなどがサポートされています。:fireworks: Code RAG
 
 
 ## Unity
@@ -1551,6 +1561,7 @@ _Updated on November 07, 2024_ (A total of 1856 repositories listed.)
  * [fastembed](https://github.com/qdrant/fastembed) - 高速で正確で軽量なPythonライブラリを使用して、最先端の埋め込みを作成します。
  * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI APIのOpenAPI仕様書
  * [openai-dotnet](https://github.com/openai/openai-dotnet) - OpenAI APIの公式.NETライブラリ
+ * [stable-ts](https://github.com/jianfch/stable-ts) - OpenAIのWhisperを使用した転写、強制アラインメント、およびオーディオインデックス化
 
 
 ## Others

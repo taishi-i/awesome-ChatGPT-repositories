@@ -5208,6 +5208,33 @@
                     "zh-hans": "为LLMs优化推理代理",
                     "zh-hant": "為LLMs優化推論代理"
                 }
+            },
+            "https://github.com/lunary-ai/lunary": {
+                "repository_name": "lunary",
+                "user_name": "lunary-ai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "The production toolkit for LLMs. Observability, prompt management and evaluations. ",
+                "topics": [
+                    "ai",
+                    "evaluation",
+                    "hacktoberfest",
+                    "langchain",
+                    "llm",
+                    "logs",
+                    "monitoring",
+                    "observability",
+                    "openai",
+                    "prompts",
+                    "self-hosted",
+                    "testing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The production toolkit for LLMs. Observability, prompt management and evaluations.",
+                    "ja": "LLM向けの製作ツールキット。可観測性、プロンプト管理、評価。",
+                    "zh-hans": "LLM的生产工具包。可观察性，提示管理和评估。",
+                    "zh-hant": "LLM的生產工具包。可觀察性，及時管理和評估。"
+                }
             }
         },
         "Chatbots": {
@@ -16254,6 +16281,64 @@
                     "zh-hans": "Auto_Jobs_Applier_AIHawk是一个自动化工作申请流程的工具。利用人工智能，它使用户能够以自动化和个性化的方式申请多个工作。",
                     "zh-hant": "Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。"
                 }
+            },
+            "https://github.com/gregpr07/browser-use": {
+                "repository_name": "browser-use",
+                "user_name": "gregpr07",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Open-Source Web Automation library with any LLM",
+                "topics": [
+                    "agent",
+                    "anthropic",
+                    "automation",
+                    "browser",
+                    "llm",
+                    "openai",
+                    "python",
+                    "web"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-Source Web Automation library with any LLM",
+                    "ja": "任意のLLMを使用したオープンソースのWeb自動化ライブラリ任意のLLMを使用したオープンソースのWeb自動化ライブラリ",
+                    "zh-hans": "开源网络自动化库与任何LLM",
+                    "zh-hant": "開源網頁自動化庫與任何LLM"
+                }
+            },
+            "https://github.com/aihawk-co/auto_jobs_applier": {
+                "repository_name": "Auto_Jobs_Applier",
+                "user_name": "AIHawk-co",
+                "language": "Python",
+                "license": "Other",
+                "description": "Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+                "topics": [
+                    "application-resume",
+                    "automate",
+                    "automation",
+                    "bot",
+                    "challenge",
+                    "chatgpt",
+                    "chrome",
+                    "gpt",
+                    "human-resources",
+                    "job",
+                    "jobs",
+                    "jobsearch",
+                    "jobseeker",
+                    "opeai",
+                    "python",
+                    "python3",
+                    "resume",
+                    "scraper",
+                    "scraping",
+                    "selenium"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+                    "ja": "Auto_Jobs_Applier by AIHawkは、仕事の応募プロセスを自動化するエージェントです。人工知能を活用して、ユーザーが自動化された個人に適した方法で複数の仕事に応募できるようにします。",
+                    "zh-hans": "Auto_Jobs_Applier是由AIHawk开发的一种代理工具，可以自动化工作申请流程。利用人工智能技术，它可以让用户以自动化和个性化的方式申请多个工作岗位。",
+                    "zh-hant": "Auto_Jobs_Applier由AIHawk開發，是一個自動化工作申請流程的代理商。利用人工智能，它使用戶能夠以自動化和個性化的方式申請多個工作。"
+                }
             }
         },
         "CLIs": {
@@ -19349,6 +19434,37 @@
                     "ja": "🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。",
                     "zh-hans": "🍒 Cherry Studio 是一个桌面客户端，支持多个LLM提供商。",
                     "zh-hant": "🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。"
+                }
+            },
+            "https://github.com/plandex-ai/plandex": {
+                "repository_name": "plandex",
+                "user_name": "plandex-ai",
+                "language": "Go",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "AI driven development in your terminal. Designed for large, real-world tasks.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ai-developer-tools",
+                    "ai-tools",
+                    "cli",
+                    "command-line",
+                    "developer-tools",
+                    "git",
+                    "golang",
+                    "gpt-4",
+                    "llm",
+                    "openai",
+                    "polyglot-programming",
+                    "terminal",
+                    "terminal-based",
+                    "terminal-ui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI driven development in your terminal. Designed for large, real-world tasks.",
+                    "ja": "ターミナルでのAI駆動開発。大規模で実世界のタスクに対応するよう設計されています。",
+                    "zh-hans": "在您的终端上进行AI驱动的开发。专为大型、真实世界的任务设计。",
+                    "zh-hant": "在您的終端機中進行AI驅動的開發。設計用於大型、現實世界的任務。"
                 }
             }
         },
@@ -29005,6 +29121,50 @@
                     "zh-hans": "Python SDK用于AI代理监控，LLM成本跟踪，基准测试等。与大多数LLM和代理框架集成，如CrewAI，Langchain和Autogen。",
                     "zh-hant": "Python SDK用於AI代理監控，LLM成本追踪，基準測試等。與大多數LLM和代理框架集成，如CrewAI，Langchain和Autogen。"
                 }
+            },
+            "https://github.com/itsowen/cyberscraper-2077": {
+                "repository_name": "CyberScraper-2077",
+                "user_name": "itsOwen",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama",
+                "topics": [
+                    "ai-scraping",
+                    "gemini-api",
+                    "llm",
+                    "llm-scraper",
+                    "openai",
+                    "scraper",
+                    "web-scraper",
+                    "webscraping"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama",
+                    "ja": "LLM | OpenAI、Gemini＆Ollamaによって強力なウェブスクレイパーを搭載",
+                    "zh-hans": "由LLM | OpenAI，Gemini和Ollama提供支持的强大网络爬虫",
+                    "zh-hant": "由LLM | OpenAI、Gemini和Ollama提供動力的強大網絡爬蟲"
+                }
+            },
+            "https://github.com/mlsysops/mle-agent": {
+                "repository_name": "MLE-agent",
+                "user_name": "MLSysOps",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. :fireworks: Code RAG",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "llm",
+                    "ml",
+                    "mle",
+                    "mlops"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. :fireworks: Code RAG",
+                    "ja": "🤖 MLE-Agent: シームレスなAIエンジニアリングと研究のための知的な仲間です。🔍 arxivとpaper with codeと統合して、より良いコード/研究計画を提供します🧰 OpenAI、Anthropic、Ollamaなどがサポートされています。:fireworks: Code RAG",
+                    "zh-hans": "🤖 MLE-Agent：您无缝AI工程和研究的智能伴侣。🔍 与arxiv和paper with code集成，提供更好的代码/研究计划 🧰 支持OpenAI、Anthropic、Ollama等。:fireworks: Code RAG",
+                    "zh-hant": "🤖 MLE-Agent：您無縫AI工程和研究的智能伴侶。🔍 整合arxiv和paper with code，提供更好的代碼/研究計劃 🧰 支持OpenAI、Anthropic、Ollama等。:fireworks: Code RAG"
+                }
             }
         },
         "Unity": {
@@ -33471,6 +33631,20 @@
                     "ja": "OpenAI APIの公式.NETライブラリ",
                     "zh-hans": "OpenAI API的官方.NET库",
                     "zh-hant": "用於OpenAI API的官方.NET庫"
+                }
+            },
+            "https://github.com/jianfch/stable-ts": {
+                "repository_name": "stable-ts",
+                "user_name": "jianfch",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Transcription, forced alignment, and audio indexing with OpenAI's Whisper",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Transcription, forced alignment, and audio indexing with OpenAI's Whisper",
+                    "ja": "OpenAIのWhisperを使用した転写、強制アラインメント、およびオーディオインデックス化",
+                    "zh-hans": "使用OpenAI的Whisper进行转录、强制对齐和音频索引",
+                    "zh-hant": "使用OpenAI的Whisper進行轉錄、強制對齊和音頻索引"
                 }
             }
         },
