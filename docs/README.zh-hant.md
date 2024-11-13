@@ -15,29 +15,21 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [lunary](https://github.com/lunary-ai/lunary) - LLM的生產工具包。可觀察性，及時管理和評估。
-
-
 **Browser-extensions**
- * [browser-use](https://github.com/gregpr07/browser-use) - 開源網頁自動化庫與任何LLM
- * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier由AIHawk開發，是一個自動化工作申請流程的代理商。利用人工智能，它使用戶能夠以自動化和個性化的方式申請多個工作。
-
-
-**CLIs**
- * [plandex](https://github.com/plandex-ai/plandex) - 在您的終端機中進行AI驅動的開發。設計用於大型、現實世界的任務。
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
 
 
 **Langchain**
- * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - 由LLM | OpenAI、Gemini和Ollama提供動力的強大網絡爬蟲
- * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent：您無縫AI工程和研究的智能伴侶。🔍 整合arxiv和paper with code，提供更好的代碼/研究計劃 🧰 支持OpenAI、Anthropic、Ollama等。:fireworks: Code RAG
+ * [sage](https://github.com/storia-ai/sage) - 在不到兩分鐘內與任何程式碼庫進行聊天 | 完全本地或通過第三方API進行
 
 
 **Openai**
- * [stable-ts](https://github.com/jianfch/stable-ts) - 使用OpenAI的Whisper進行轉錄、強制對齊和音頻索引
+ * [async-openai](https://github.com/64bit/async-openai) - OpenAI 的 Rust 库
+ * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer是一個命令行工具，旨在幫助開發人員有效地管理和互動他們的項目。利用OpenAI的API的強大功能，這個工具提供了代碼生成、文件編輯和項目計劃等功能。
+ * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，僅單可執行文件，配置超級簡單，一鍵部署，開箱即用。無縫集成OpenAI和兼容的API，使用單個可執行文件進行快速設置和部署。
 
 
-_Updated on November 11, 2024_ (A total of 1863 repositories listed.)
+_Updated on November 14, 2024_ (A total of 1868 repositories listed.)
 
 ## Table of contents
 
@@ -756,6 +748,7 @@ _Updated on November 11, 2024_ (A total of 1863 repositories listed.)
  * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk 是一個自動化工作申請流程的工具。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
  * [browser-use](https://github.com/gregpr07/browser-use) - 開源網頁自動化庫與任何LLM
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier由AIHawk開發，是一個自動化工作申請流程的代理商。利用人工智能，它使用戶能夠以自動化和個性化的方式申請多個工作。
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
 
 
 ## CLIs
@@ -1350,6 +1343,7 @@ _Updated on November 11, 2024_ (A total of 1863 repositories listed.)
  * [agentops](https://github.com/agentops-ai/agentops) - Python SDK用於AI代理監控，LLM成本追踪，基準測試等。與大多數LLM和代理框架集成，如CrewAI，Langchain和Autogen。
  * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - 由LLM | OpenAI、Gemini和Ollama提供動力的強大網絡爬蟲
  * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent：您無縫AI工程和研究的智能伴侶。🔍 整合arxiv和paper with code，提供更好的代碼/研究計劃 🧰 支持OpenAI、Anthropic、Ollama等。:fireworks: Code RAG
+ * [sage](https://github.com/storia-ai/sage) - 在不到兩分鐘內與任何程式碼庫進行聊天 | 完全本地或通過第三方API進行
 
 
 ## Unity
@@ -1562,6 +1556,9 @@ _Updated on November 11, 2024_ (A total of 1863 repositories listed.)
  * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI API 的 OpenAPI 规范
  * [openai-dotnet](https://github.com/openai/openai-dotnet) - 用於OpenAI API的官方.NET庫
  * [stable-ts](https://github.com/jianfch/stable-ts) - 使用OpenAI的Whisper進行轉錄、強制對齊和音頻索引
+ * [async-openai](https://github.com/64bit/async-openai) - OpenAI 的 Rust 库
+ * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer是一個命令行工具，旨在幫助開發人員有效地管理和互動他們的項目。利用OpenAI的API的強大功能，這個工具提供了代碼生成、文件編輯和項目計劃等功能。
+ * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，僅單可執行文件，配置超級簡單，一鍵部署，開箱即用。無縫集成OpenAI和兼容的API，使用單個可執行文件進行快速設置和部署。
 
 
 ## Others

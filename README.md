@@ -15,29 +15,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
-
-
 **Browser-extensions**
- * [browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM
- * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
-
-
-**CLIs**
- * [plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 
 **Langchain**
- * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
- * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. :fireworks: Code RAG
+ * [sage](https://github.com/storia-ai/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
 
 
 **Openai**
- * [stable-ts](https://github.com/jianfch/stable-ts) - Transcription, forced alignment, and audio indexing with OpenAI's Whisper
+ * [async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
+ * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow.
+ * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
 
 
-_Updated on November 11, 2024_ (A total of 1863 repositories listed.)
+_Updated on November 14, 2024_ (A total of 1868 repositories listed.)
 
 ## Table of contents
 
@@ -756,6 +748,7 @@ _Updated on November 11, 2024_ (A total of 1863 repositories listed.)
  * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
  * [browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 
 ## CLIs
@@ -1350,6 +1343,7 @@ _Updated on November 11, 2024_ (A total of 1863 repositories listed.)
  * [agentops](https://github.com/agentops-ai/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen
  * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
  * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. :fireworks: Code RAG
+ * [sage](https://github.com/storia-ai/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
 
 
 ## Unity
@@ -1562,6 +1556,9 @@ _Updated on November 11, 2024_ (A total of 1863 repositories listed.)
  * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAPI specification for the OpenAI API
  * [openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
  * [stable-ts](https://github.com/jianfch/stable-ts) - Transcription, forced alignment, and audio indexing with OpenAI's Whisper
+ * [async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
+ * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow.
+ * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
 
 
 ## Others

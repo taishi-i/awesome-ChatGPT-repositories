@@ -16339,6 +16339,41 @@
                     "zh-hans": "Auto_Jobs_Applier是由AIHawk开发的一种代理工具，可以自动化工作申请流程。利用人工智能技术，它可以让用户以自动化和个性化的方式申请多个工作岗位。",
                     "zh-hant": "Auto_Jobs_Applier由AIHawk開發，是一個自動化工作申請流程的代理商。利用人工智能，它使用戶能夠以自動化和個性化的方式申請多個工作。"
                 }
+            },
+            "https://github.com/aihawk-co/auto_jobs_applier_ai_agent": {
+                "repository_name": "Auto_Jobs_Applier_AI_Agent",
+                "user_name": "AIHawk-co",
+                "language": "Python",
+                "license": "Other",
+                "description": "Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+                "topics": [
+                    "application-resume",
+                    "automate",
+                    "automation",
+                    "bot",
+                    "challenge",
+                    "chatgpt",
+                    "chrome",
+                    "gpt",
+                    "human-resources",
+                    "job",
+                    "jobs",
+                    "jobsearch",
+                    "jobseeker",
+                    "opeai",
+                    "python",
+                    "python3",
+                    "resume",
+                    "scraper",
+                    "scraping",
+                    "selenium"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+                    "ja": "Auto_Jobs_Applier_AI_Agent by AIHawkは、仕事の応募プロセスを自動化するAIエージェントです。人工知能を活用して、ユーザーが自動化された個人的な方法で複数の仕事に応募できるようにします。",
+                    "zh-hans": "Auto_Jobs_Applier_AI_Agent是由AIHawk开发的一款AI代理程序，可以自动化工作申请流程。利用人工智能技术，它使用户能够以自动化和个性化的方式申请多个工作。",
+                    "zh-hant": "Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。"
+                }
             }
         },
         "CLIs": {
@@ -29165,6 +29200,35 @@
                     "zh-hans": "🤖 MLE-Agent：您无缝AI工程和研究的智能伴侣。🔍 与arxiv和paper with code集成，提供更好的代码/研究计划 🧰 支持OpenAI、Anthropic、Ollama等。:fireworks: Code RAG",
                     "zh-hant": "🤖 MLE-Agent：您無縫AI工程和研究的智能伴侶。🔍 整合arxiv和paper with code，提供更好的代碼/研究計劃 🧰 支持OpenAI、Anthropic、Ollama等。:fireworks: Code RAG"
                 }
+            },
+            "https://github.com/storia-ai/sage": {
+                "repository_name": "sage",
+                "user_name": "Storia-AI",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Chat with any codebase in under two minutes | Fully local or via third-party APIs",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "claude",
+                    "copilot",
+                    "developer-tools",
+                    "hacktoberfest",
+                    "hacktoberfest-2024",
+                    "hacktoberfest2024",
+                    "langchain",
+                    "llm",
+                    "openai",
+                    "pinecone",
+                    "python",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with any codebase in under two minutes | Fully local or via third-party APIs",
+                    "ja": "2分以内で任意のコードベースとチャット | 完全にローカルまたはサードパーティのAPIを介して",
+                    "zh-hans": "在两分钟内与任何代码库进行聊天 | 完全本地或通过第三方API",
+                    "zh-hant": "在不到兩分鐘內與任何程式碼庫進行聊天 | 完全本地或通過第三方API進行"
+                }
             }
         },
         "Unity": {
@@ -33645,6 +33709,51 @@
                     "ja": "OpenAIのWhisperを使用した転写、強制アラインメント、およびオーディオインデックス化",
                     "zh-hans": "使用OpenAI的Whisper进行转录、强制对齐和音频索引",
                     "zh-hant": "使用OpenAI的Whisper進行轉錄、強制對齊和音頻索引"
+                }
+            },
+            "https://github.com/64bit/async-openai": {
+                "repository_name": "async-openai",
+                "user_name": "64bit",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "Rust library for OpenAI ",
+                "topics": [
+                    "openai",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Rust library for OpenAI",
+                    "ja": "OpenAIのためのRustライブラリ",
+                    "zh-hans": "OpenAI的Rust库",
+                    "zh-hant": "OpenAI 的 Rust 库"
+                }
+            },
+            "https://github.com/doriandarko/o1-engineer": {
+                "repository_name": "o1-engineer",
+                "user_name": "Doriandarko",
+                "language": "Python",
+                "license": null,
+                "description": "o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planni",
+                    "ja": "o1-engineerは、開発者がプロジェクトを効率的に管理および操作するために設計されたコマンドラインツールです。OpenAIのAPIの力を活用して、このツールはコード生成、ファイル編集、プロジェクト計画などの機能を提供します。",
+                    "zh-hans": "o1-engineer是一个命令行工具，旨在帮助开发人员高效地管理和与他们的项目进行交互。利用OpenAI的API的强大功能，该工具提供诸如代码生成、文件编辑和项目规划等功能。",
+                    "zh-hant": "o1-engineer是一個命令行工具，旨在幫助開發人員有效地管理和互動他們的項目。利用OpenAI的API的強大功能，這個工具提供了代碼生成、文件編輯和項目計劃等功能。"
+                }
+            },
+            "https://github.com/fruitbars/simple-one-api": {
+                "repository_name": "simple-one-api",
+                "user_name": "fruitbars",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.",
+                    "ja": "OpenAIと互換性のあるAPIをシームレスに統合し、素早くセットアップおよび展開するための単一の実行可能ファイルを使用します。",
+                    "zh-hans": "OpenAI接口无缝集成，使用单个可执行文件快速设置和部署，与OpenAI和兼容的API无缝集成。",
+                    "zh-hant": "OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，僅單可執行文件，配置超級簡單，一鍵部署，開箱即用。無縫集成OpenAI和兼容的API，使用單個可執行文件進行快速設置和部署。"
                 }
             }
         },

@@ -15,29 +15,21 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [lunary](https://github.com/lunary-ai/lunary) - LLM向けの製作ツールキット。可観測性、プロンプト管理、評価。
-
-
 **Browser-extensions**
- * [browser-use](https://github.com/gregpr07/browser-use) - 任意のLLMを使用したオープンソースのWeb自動化ライブラリ任意のLLMを使用したオープンソースのWeb自動化ライブラリ
- * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawkは、仕事の応募プロセスを自動化するエージェントです。人工知能を活用して、ユーザーが自動化された個人に適した方法で複数の仕事に応募できるようにします。
-
-
-**CLIs**
- * [plandex](https://github.com/plandex-ai/plandex) - ターミナルでのAI駆動開発。大規模で実世界のタスクに対応するよう設計されています。
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawkは、仕事の応募プロセスを自動化するAIエージェントです。人工知能を活用して、ユーザーが自動化された個人的な方法で複数の仕事に応募できるようにします。
 
 
 **Langchain**
- * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - LLM | OpenAI、Gemini＆Ollamaによって強力なウェブスクレイパーを搭載
- * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: シームレスなAIエンジニアリングと研究のための知的な仲間です。🔍 arxivとpaper with codeと統合して、より良いコード/研究計画を提供します🧰 OpenAI、Anthropic、Ollamaなどがサポートされています。:fireworks: Code RAG
+ * [sage](https://github.com/storia-ai/sage) - 2分以内で任意のコードベースとチャット | 完全にローカルまたはサードパーティのAPIを介して
 
 
 **Openai**
- * [stable-ts](https://github.com/jianfch/stable-ts) - OpenAIのWhisperを使用した転写、強制アラインメント、およびオーディオインデックス化
+ * [async-openai](https://github.com/64bit/async-openai) - OpenAIのためのRustライブラリ
+ * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineerは、開発者がプロジェクトを効率的に管理および操作するために設計されたコマンドラインツールです。OpenAIのAPIの力を活用して、このツールはコード生成、ファイル編集、プロジェクト計画などの機能を提供します。
+ * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAIと互換性のあるAPIをシームレスに統合し、素早くセットアップおよび展開するための単一の実行可能ファイルを使用します。
 
 
-_Updated on November 11, 2024_ (A total of 1863 repositories listed.)
+_Updated on November 14, 2024_ (A total of 1868 repositories listed.)
 
 ## Table of contents
 
@@ -756,6 +748,7 @@ _Updated on November 11, 2024_ (A total of 1863 repositories listed.)
  * [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
  * [browser-use](https://github.com/gregpr07/browser-use) - 任意のLLMを使用したオープンソースのWeb自動化ライブラリ任意のLLMを使用したオープンソースのWeb自動化ライブラリ
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawkは、仕事の応募プロセスを自動化するエージェントです。人工知能を活用して、ユーザーが自動化された個人に適した方法で複数の仕事に応募できるようにします。
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawkは、仕事の応募プロセスを自動化するAIエージェントです。人工知能を活用して、ユーザーが自動化された個人的な方法で複数の仕事に応募できるようにします。
 
 
 ## CLIs
@@ -1350,6 +1343,7 @@ _Updated on November 11, 2024_ (A total of 1863 repositories listed.)
  * [agentops](https://github.com/agentops-ai/agentops) - AIエージェントの監視、LLMコストの追跡、ベンチマーキングなどのためのPython SDK。CrewAI、Langchain、AutogenなどのほとんどのLLMやエージェントフレームワークと統合されています。
  * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - LLM | OpenAI、Gemini＆Ollamaによって強力なウェブスクレイパーを搭載
  * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: シームレスなAIエンジニアリングと研究のための知的な仲間です。🔍 arxivとpaper with codeと統合して、より良いコード/研究計画を提供します🧰 OpenAI、Anthropic、Ollamaなどがサポートされています。:fireworks: Code RAG
+ * [sage](https://github.com/storia-ai/sage) - 2分以内で任意のコードベースとチャット | 完全にローカルまたはサードパーティのAPIを介して
 
 
 ## Unity
@@ -1562,6 +1556,9 @@ _Updated on November 11, 2024_ (A total of 1863 repositories listed.)
  * [openai-openapi](https://github.com/openai/openai-openapi) - OpenAI APIのOpenAPI仕様書
  * [openai-dotnet](https://github.com/openai/openai-dotnet) - OpenAI APIの公式.NETライブラリ
  * [stable-ts](https://github.com/jianfch/stable-ts) - OpenAIのWhisperを使用した転写、強制アラインメント、およびオーディオインデックス化
+ * [async-openai](https://github.com/64bit/async-openai) - OpenAIのためのRustライブラリ
+ * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineerは、開発者がプロジェクトを効率的に管理および操作するために設計されたコマンドラインツールです。OpenAIのAPIの力を活用して、このツールはコード生成、ファイル編集、プロジェクト計画などの機能を提供します。
+ * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAIと互換性のあるAPIをシームレスに統合し、素早くセットアップおよび展開するための単一の実行可能ファイルを使用します。
 
 
 ## Others
