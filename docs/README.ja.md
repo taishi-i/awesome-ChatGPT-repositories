@@ -15,21 +15,24 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [LangBot](https://github.com/rockchinq/langbot) - 元の名前はQChatGPTです。😎高い安定性、🧩拡張機能のサポート、🦄マルチモーダルなChatGPT QQ / QQチャンネル / One Botロボット🤖 | OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、difyのQQ / QQチャンネル / OneBotロボット / Agentプラットフォームをサポート
+
+
 **Browser-extensions**
- * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawkは、仕事の応募プロセスを自動化するAIエージェントです。人工知能を活用して、ユーザーが自動化された個人的な方法で複数の仕事に応募できるようにします。
+ * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - これは、コマンドラインでOpenAIのCodex AIを使用できるようにするZSHプラグインです。
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agentは、AIHawkによるAIエージェントで、仕事の応募プロセスを自動化します。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
 
 
-**Langchain**
- * [sage](https://github.com/storia-ai/sage) - 2分以内で任意のコードベースとチャット | 完全にローカルまたはサードパーティのAPIを介して
+**Reimplementations**
+ * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - このリポジトリは、基本から高度なまでさまざまな生成AIエージェント技術のチュートリアルと実装を提供しています。知的でインタラクティブなAIシステムを構築するための包括的なガイドとして機能します。
 
 
 **Openai**
- * [async-openai](https://github.com/64bit/async-openai) - OpenAIのためのRustライブラリ
- * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineerは、開発者がプロジェクトを効率的に管理および操作するために設計されたコマンドラインツールです。OpenAIのAPIの力を活用して、このツールはコード生成、ファイル編集、プロジェクト計画などの機能を提供します。
- * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAIと互換性のあるAPIをシームレスに統合し、素早くセットアップおよび展開するための単一の実行可能ファイルを使用します。
+ * [WAAS](https://github.com/schibsted/waas) - Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）
 
 
-_Updated on November 14, 2024_ (A total of 1868 repositories listed.)
+_Updated on November 18, 2024_ (A total of 1873 repositories listed.)
 
 ## Table of contents
 
@@ -546,6 +549,7 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlowは、深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジンです。
  * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - LLMアプリケーション用のデータフレームワーク。サーバーサイドソリューションに焦点を当てる。
  * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（以前はRepopackとして知られていました）は、リポジトリ全体を1つの、AIにとってフレンドリーなファイルにパックする強力なツールです。Large Language Models（LLMs）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを供給する必要があるときに最適です。
+ * [LangBot](https://github.com/rockchinq/langbot) - 元の名前はQChatGPTです。😎高い安定性、🧩拡張機能のサポート、🦄マルチモーダルなChatGPT QQ / QQチャンネル / One Botロボット🤖 | OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、difyのQQ / QQチャンネル / OneBotロボット / Agentプラットフォームをサポート
 
 
 ## Browser-extensions
@@ -749,6 +753,8 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [browser-use](https://github.com/gregpr07/browser-use) - 任意のLLMを使用したオープンソースのWeb自動化ライブラリ任意のLLMを使用したオープンソースのWeb自動化ライブラリ
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawkは、仕事の応募プロセスを自動化するエージェントです。人工知能を活用して、ユーザーが自動化された個人に適した方法で複数の仕事に応募できるようにします。
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawkは、仕事の応募プロセスを自動化するAIエージェントです。人工知能を活用して、ユーザーが自動化された個人的な方法で複数の仕事に応募できるようにします。
+ * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - これは、コマンドラインでOpenAIのCodex AIを使用できるようにするZSHプラグインです。
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agentは、AIHawkによるAIエージェントで、仕事の応募プロセスを自動化します。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
 
 
 ## CLIs
@@ -927,6 +933,7 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）テキスト記述からの人間の動きの生成に関する「T2M-GPT」のPytorch実装
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorchバージョンのStable Baselines、強化学習アルゴリズムの信頼性のある実装。
  * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAIのWhisperのほぼライブ実装。
+ * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - このリポジトリは、基本から高度なまでさまざまな生成AIエージェント技術のチュートリアルと実装を提供しています。知的でインタラクティブなAIシステムを構築するための包括的なガイドとして機能します。
 
 
 ## Tutorials
@@ -1559,6 +1566,7 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [async-openai](https://github.com/64bit/async-openai) - OpenAIのためのRustライブラリ
  * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineerは、開発者がプロジェクトを効率的に管理および操作するために設計されたコマンドラインツールです。OpenAIのAPIの力を活用して、このツールはコード生成、ファイル編集、プロジェクト計画などの機能を提供します。
  * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAIと互換性のあるAPIをシームレスに統合し、素早くセットアップおよび展開するための単一の実行可能ファイルを使用します。
+ * [WAAS](https://github.com/schibsted/waas) - Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）
 
 
 ## Others

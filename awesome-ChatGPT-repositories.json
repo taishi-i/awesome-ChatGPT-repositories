@@ -11817,6 +11817,25 @@
                     "zh-hans": "📦 Repomix（原名Repopack）是一个强大的工具，可以将您的整个代码库打包成一个单一的、适合人工智能的文件。当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时，这个工具非常适用。",
                     "zh-hant": "📦 Repomix（原名Repopack）是一個強大的工具，可以將您的整個存儲庫打包成一個單一的、適合人工智能的文件。當您需要將代碼庫提供給大型語言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini時，這是完美的選擇。"
                 }
+            },
+            "https://github.com/rockchinq/langbot": {
+                "repository_name": "LangBot",
+                "user_name": "RockChinQ",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "原名 QChatGPT ；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台",
+                "topics": [
+                    "chatgpt",
+                    "openai",
+                    "plugins",
+                    "qq"
+                ],
+                "multilingual_descriptions": {
+                    "en": "原名 QChatGPT ；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台",
+                    "ja": "元の名前はQChatGPTです。😎高い安定性、🧩拡張機能のサポート、🦄マルチモーダルなChatGPT QQ / QQチャンネル / One Botロボット🤖 | OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、difyのQQ / QQチャンネル / OneBotロボット / Agentプラットフォームをサポート",
+                    "zh-hans": "原名 QChatGPT；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台",
+                    "zh-hant": "原名 QChatGPT ；😎高穩定性、🧩支持擴展、🦄多模態的 ChatGPT QQ / QQ頻道 / One Bot 機器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ頻道 / OneBot 機器人 / Agent 平台"
+                }
             }
         },
         "Browser-extensions": {
@@ -16374,6 +16393,60 @@
                     "zh-hans": "Auto_Jobs_Applier_AI_Agent是由AIHawk开发的一款AI代理程序，可以自动化工作申请流程。利用人工智能技术，它使用户能够以自动化和个性化的方式申请多个工作。",
                     "zh-hant": "Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。"
                 }
+            },
+            "https://github.com/tom-doerr/zsh_codex": {
+                "repository_name": "zsh_codex",
+                "user_name": "tom-doerr",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.",
+                "topics": [
+                    "ai",
+                    "codex",
+                    "openai",
+                    "zsh"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.",
+                    "ja": "これは、コマンドラインでOpenAIのCodex AIを使用できるようにするZSHプラグインです。",
+                    "zh-hans": "这是一个ZSH插件，可以让你在命令行中使用OpenAI的Codex人工智能。",
+                    "zh-hant": "這是一個 ZSH 插件，可以讓您在命令行中使用 OpenAI 的 Codex AI。"
+                }
+            },
+            "https://github.com/aihawk-foss/auto_jobs_applier_ai_agent": {
+                "repository_name": "Auto_Jobs_Applier_AI_Agent",
+                "user_name": "AIHawk-FOSS",
+                "language": "Python",
+                "license": "Other",
+                "description": "Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+                "topics": [
+                    "application-resume",
+                    "automate",
+                    "automation",
+                    "bot",
+                    "challenge",
+                    "chatgpt",
+                    "chrome",
+                    "gpt",
+                    "human-resources",
+                    "job",
+                    "jobs",
+                    "jobsearch",
+                    "jobseeker",
+                    "opeai",
+                    "python",
+                    "python3",
+                    "resume",
+                    "scraper",
+                    "scraping",
+                    "selenium"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+                    "ja": "Auto_Jobs_Applier_AI_Agentは、AIHawkによるAIエージェントで、仕事の応募プロセスを自動化します。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。",
+                    "zh-hans": "Auto_Jobs_Applier_AI_Agent是由AIHawk开发的一款AI代理程序，可以自动化工作申请流程。利用人工智能技术，它可以让用户以自动化和个性化的方式申请多个工作。",
+                    "zh-hant": "Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。"
+                }
             }
         },
         "CLIs": {
@@ -20208,6 +20281,29 @@
                     "ja": "OpenAIのWhisperのほぼライブ実装。",
                     "zh-hans": "OpenAI的Whisper的近乎实时实现。",
                     "zh-hant": "一個幾乎實時實現OpenAI的Whisper。"
+                }
+            },
+            "https://github.com/nirdiamant/genai_agents": {
+                "repository_name": "GenAI_Agents",
+                "user_name": "NirDiamant",
+                "language": "Jupyter Notebook",
+                "license": "Other",
+                "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "genai",
+                    "langchain",
+                    "langgraph",
+                    "llms",
+                    "openai",
+                    "tutorials"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+                    "ja": "このリポジトリは、基本から高度なまでさまざまな生成AIエージェント技術のチュートリアルと実装を提供しています。知的でインタラクティブなAIシステムを構築するための包括的なガイドとして機能します。",
+                    "zh-hans": "该存储库提供了各种生成式AI代理技术的教程和实现，从基础到高级。它是构建智能、交互式AI系统的全面指南。",
+                    "zh-hant": "這個存儲庫提供了各種生成式人工智能代理技術的教程和實現，從基礎到高級。它作為構建智能、互動式人工智能系統的全面指南。"
                 }
             }
         },
@@ -33754,6 +33850,20 @@
                     "ja": "OpenAIと互換性のあるAPIをシームレスに統合し、素早くセットアップおよび展開するための単一の実行可能ファイルを使用します。",
                     "zh-hans": "OpenAI接口无缝集成，使用单个可执行文件快速设置和部署，与OpenAI和兼容的API无缝集成。",
                     "zh-hant": "OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，僅單可執行文件，配置超級簡單，一鍵部署，開箱即用。無縫集成OpenAI和兼容的API，使用單個可執行文件進行快速設置和部署。"
+                }
+            },
+            "https://github.com/schibsted/waas": {
+                "repository_name": "WAAS",
+                "user_name": "schibsted",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": "Whisper as a Service (GUI and API with queuing for OpenAI Whisper)",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Whisper as a Service (GUI and API with queuing for OpenAI Whisper)",
+                    "ja": "Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）",
+                    "zh-hans": "低语服务（带有排队的GUI和API，适用于OpenAI Whisper）",
+                    "zh-hant": "悄悄話服務（具有OpenAI Whisper排隊的GUI和API）"
                 }
             }
         },

@@ -15,21 +15,24 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [LangBot](https://github.com/rockchinq/langbot) - 原名 QChatGPT；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
+
+
 **Browser-extensions**
- * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent是由AIHawk开发的一款AI代理程序，可以自动化工作申请流程。利用人工智能技术，它使用户能够以自动化和个性化的方式申请多个工作。
+ * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - 这是一个ZSH插件，可以让你在命令行中使用OpenAI的Codex人工智能。
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent是由AIHawk开发的一款AI代理程序，可以自动化工作申请流程。利用人工智能技术，它可以让用户以自动化和个性化的方式申请多个工作。
 
 
-**Langchain**
- * [sage](https://github.com/storia-ai/sage) - 在两分钟内与任何代码库进行聊天 | 完全本地或通过第三方API
+**Reimplementations**
+ * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - 该存储库提供了各种生成式AI代理技术的教程和实现，从基础到高级。它是构建智能、交互式AI系统的全面指南。
 
 
 **Openai**
- * [async-openai](https://github.com/64bit/async-openai) - OpenAI的Rust库
- * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer是一个命令行工具，旨在帮助开发人员高效地管理和与他们的项目进行交互。利用OpenAI的API的强大功能，该工具提供诸如代码生成、文件编辑和项目规划等功能。
- * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI接口无缝集成，使用单个可执行文件快速设置和部署，与OpenAI和兼容的API无缝集成。
+ * [WAAS](https://github.com/schibsted/waas) - 低语服务（带有排队的GUI和API，适用于OpenAI Whisper）
 
 
-_Updated on November 14, 2024_ (A total of 1868 repositories listed.)
+_Updated on November 18, 2024_ (A total of 1873 repositories listed.)
 
 ## Table of contents
 
@@ -546,6 +549,7 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow是一个基于深度文档理解的开源RAG（检索增强生成）引擎。
  * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - 为您的LLM应用程序提供数据框架。专注于服务器端解决方案。
  * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（原名Repopack）是一个强大的工具，可以将您的整个代码库打包成一个单一的、适合人工智能的文件。当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时，这个工具非常适用。
+ * [LangBot](https://github.com/rockchinq/langbot) - 原名 QChatGPT；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
 
 
 ## Browser-extensions
@@ -749,6 +753,8 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [browser-use](https://github.com/gregpr07/browser-use) - 开源网络自动化库与任何LLM
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier是由AIHawk开发的一种代理工具，可以自动化工作申请流程。利用人工智能技术，它可以让用户以自动化和个性化的方式申请多个工作岗位。
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent是由AIHawk开发的一款AI代理程序，可以自动化工作申请流程。利用人工智能技术，它使用户能够以自动化和个性化的方式申请多个工作。
+ * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - 这是一个ZSH插件，可以让你在命令行中使用OpenAI的Codex人工智能。
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent是由AIHawk开发的一款AI代理程序，可以自动化工作申请流程。利用人工智能技术，它可以让用户以自动化和个性化的方式申请多个工作。
 
 
 ## CLIs
@@ -927,6 +933,7 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - （CVPR 2023）Pytorch实现“T2M-GPT：使用离散表示从文本描述生成人体动作”
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorch版本的Stable Baselines，强化学习算法的可靠实现。
  * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAI的Whisper的近乎实时实现。
+ * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - 该存储库提供了各种生成式AI代理技术的教程和实现，从基础到高级。它是构建智能、交互式AI系统的全面指南。
 
 
 ## Tutorials
@@ -1559,6 +1566,7 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [async-openai](https://github.com/64bit/async-openai) - OpenAI的Rust库
  * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer是一个命令行工具，旨在帮助开发人员高效地管理和与他们的项目进行交互。利用OpenAI的API的强大功能，该工具提供诸如代码生成、文件编辑和项目规划等功能。
  * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI接口无缝集成，使用单个可执行文件快速设置和部署，与OpenAI和兼容的API无缝集成。
+ * [WAAS](https://github.com/schibsted/waas) - 低语服务（带有排队的GUI和API，适用于OpenAI Whisper）
 
 
 ## Others

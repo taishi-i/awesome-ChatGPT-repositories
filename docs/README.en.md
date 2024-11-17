@@ -15,21 +15,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [LangBot](https://github.com/rockchinq/langbot) - 原名 QChatGPT ；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
+
+
 **Browser-extensions**
- * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+ * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 
-**Langchain**
- * [sage](https://github.com/storia-ai/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
+**Reimplementations**
+ * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 
 
 **Openai**
- * [async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
- * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planni
- * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
+ * [WAAS](https://github.com/schibsted/waas) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
 
 
-_Updated on November 14, 2024_ (A total of 1868 repositories listed.)
+_Updated on November 18, 2024_ (A total of 1873 repositories listed.)
 
 ## Table of contents
 
@@ -546,6 +549,7 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
  * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - Data framework for your LLM applications. Focus on server side solution
  * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
+ * [LangBot](https://github.com/rockchinq/langbot) - 原名 QChatGPT ；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
 
 
 ## Browser-extensions
@@ -749,6 +753,8 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [browser-use](https://github.com/gregpr07/browser-use) - Open-Source Web Automation library with any LLM
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
+ * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+ * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
 
 
 ## CLIs
@@ -927,6 +933,7 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - (CVPR 2023) Pytorch implementation of “T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations”
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
  * [WhisperLive](https://github.com/collabora/whisperlive) - A nearly-live implementation of OpenAI's Whisper.
+ * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
 
 
 ## Tutorials
@@ -1559,6 +1566,7 @@ _Updated on November 14, 2024_ (A total of 1868 repositories listed.)
  * [async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
  * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planni
  * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
+ * [WAAS](https://github.com/schibsted/waas) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
 
 
 ## Others
