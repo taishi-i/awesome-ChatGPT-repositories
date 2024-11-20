@@ -1898,6 +1898,34 @@
                     "zh-hans": "🧑‍🚀 全球最好的LLM资源总结",
                     "zh-hant": "🧑‍🚀 全世界最好的LLM資料總結 | Summary of the world's best LLM resources."
                 }
+            },
+            "https://github.com/e2b-dev/awesome-ai-agents": {
+                "repository_name": "awesome-ai-agents",
+                "user_name": "e2b-dev",
+                "language": null,
+                "license": "Other",
+                "description": "A list of AI autonomous agents",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "artificial-intelligence",
+                    "autogpt",
+                    "autonomous-agents",
+                    "awesome",
+                    "babyagi",
+                    "copilot",
+                    "gpt",
+                    "gpt-4",
+                    "gpt-engineer",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A list of AI autonomous agents",
+                    "ja": "AI自律エージェントのリスト",
+                    "zh-hans": "AI自主代理的列表",
+                    "zh-hant": "AI 自主代理的清單"
+                }
             }
         },
         "Prompts": {
@@ -5234,6 +5262,41 @@
                     "ja": "LLM向けの製作ツールキット。可観測性、プロンプト管理、評価。",
                     "zh-hans": "LLM的生产工具包。可观察性，提示管理和评估。",
                     "zh-hant": "LLM的生產工具包。可觀察性，及時管理和評估。"
+                }
+            },
+            "https://github.com/pezzolabs/pezzo": {
+                "repository_name": "pezzo",
+                "user_name": "pezzolabs",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.",
+                "topics": [
+                    "ai",
+                    "devtools",
+                    "gpt-3",
+                    "gpt-4",
+                    "hacktoberfest",
+                    "javascript",
+                    "langchain",
+                    "llm",
+                    "llmops",
+                    "monitoring",
+                    "nestjs",
+                    "nodejs",
+                    "observability",
+                    "openai",
+                    "platform",
+                    "prompt",
+                    "prompt-engineering",
+                    "prompt-management",
+                    "python",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.",
+                    "ja": "🕹️ プロンプトデザイン、バージョン管理、インスタント配信、コラボレーション、トラブルシューティング、可観測性などを効率化するために設計された、オープンソースで開発者向けのLLMOpsプラットフォーム。",
+                    "zh-hans": "🕹️ 开源、以开发者为先的LLMOps平台，旨在简化提示设计、版本管理、即时交付、协作、故障排除、可观察性等功能。",
+                    "zh-hant": "🕹️ 開源、以開發者為先的LLMOps平台，旨在簡化提示設計、版本管理、即時交付、協作、故障排除、可觀察性等功能。"
                 }
             }
         },
@@ -11835,6 +11898,35 @@
                     "ja": "元の名前はQChatGPTです。😎高い安定性、🧩拡張機能のサポート、🦄マルチモーダルなChatGPT QQ / QQチャンネル / One Botロボット🤖 | OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、difyのQQ / QQチャンネル / OneBotロボット / Agentプラットフォームをサポート",
                     "zh-hans": "原名 QChatGPT；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台",
                     "zh-hant": "原名 QChatGPT ；😎高穩定性、🧩支持擴展、🦄多模態的 ChatGPT QQ / QQ頻道 / One Bot 機器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ頻道 / OneBot 機器人 / Agent 平台"
+                }
+            },
+            "https://github.com/openimsdk/open-im-server": {
+                "repository_name": "open-im-server",
+                "user_name": "openimsdk",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "IM Chat ChatGPT",
+                "topics": [
+                    "aigc",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "go",
+                    "golang",
+                    "im",
+                    "imserver",
+                    "instant-messaging",
+                    "messaging",
+                    "messenger",
+                    "openim",
+                    "telegram",
+                    "wechat"
+                ],
+                "multilingual_descriptions": {
+                    "en": "IM Chat ChatGPT",
+                    "ja": "IMチャットChatGPTIMチャットChatGPT",
+                    "zh-hans": "IM 聊天 ChatGPT",
+                    "zh-hant": "IM 聊天 ChatGPT"
                 }
             }
         },
@@ -19574,6 +19666,58 @@
                     "zh-hans": "在您的终端上进行AI驱动的开发。专为大型、真实世界的任务设计。",
                     "zh-hant": "在您的終端機中進行AI驅動的開發。設計用於大型、現實世界的任務。"
                 }
+            },
+            "https://github.com/byaidu/pdfmathtranslate": {
+                "repository_name": "PDFMathTranslate",
+                "user_name": "Byaidu",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+                "topics": [
+                    "azure",
+                    "chinese",
+                    "deepl",
+                    "docker",
+                    "english",
+                    "japanese",
+                    "korean",
+                    "latex",
+                    "ollama",
+                    "openai",
+                    "pdf",
+                    "translation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+                    "ja": "PDF科学论文翻译，保留格式 - AIを使用してPDF科学論文を翻訳し、排版を保持した全文のバイリンガル翻訳を提供します。Google/DeepL/Ollama/OpenAIなどのサービスをサポートし、CLI/GUI/Dockerを提供します。",
+                    "zh-hans": "基于 AI 完整保留格式的 PDF 科学论文翻译 - 支持 Google/DeepL/Ollama/OpenAI 等服务的 PDF 文档全文双语翻译，提供 CLI/GUI/Docker",
+                    "zh-hant": "基於 AI 完整保留排版的 PDF 學術論文翻譯，支持 Google/DeepL/Ollama/OpenAI 等服務，提供 CLI/GUI/Docker"
+                }
+            },
+            "https://github.com/gpt-engineer-org/gpt-engineer": {
+                "repository_name": "gpt-engineer",
+                "user_name": "gpt-engineer-org",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app",
+                "topics": [
+                    "ai",
+                    "autonomous-agent",
+                    "code-generation",
+                    "codebase-generation",
+                    "codegen",
+                    "coding-assistant",
+                    "gpt-4",
+                    "gpt-engineer",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app",
+                    "ja": "AIソフトウェアエンジニアと実験するためのプラットフォーム。ターミナルベースです。注意：https://gptengineer.appとは非常に異なります。",
+                    "zh-hans": "用于实验AI软件工程师的平台。基于终端。注意：与https://gptengineer.app非常不同。",
+                    "zh-hant": "用於實驗人工智慧軟體工程師的平台。基於終端機。注意：與https://gptengineer.app非常不同。"
+                }
             }
         },
         "Reimplementations": {
@@ -26734,6 +26878,34 @@
                     "ja": "非公式のDSPyフレームワーク。Stanford DSP論文に基づいたLLMパワードエージェントと「エージェンティックワークフロー」を構築します。",
                     "zh-hans": "非官方DSPy框架。基于斯坦福DSP论文构建由LLM驱动的代理和“代理工作流”。",
                     "zh-hant": "非官方DSPy框架。基於斯坦福DSP論文構建由LLM驅動的代理和“代理工作流”。"
+                }
+            },
+            "https://github.com/e2b-dev/code-interpreter": {
+                "repository_name": "code-interpreter",
+                "user_name": "e2b-dev",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app ",
+                "topics": [
+                    "ai",
+                    "ai-data-analysis",
+                    "anthropic",
+                    "code-interpreter",
+                    "cohere",
+                    "gpt",
+                    "javascript",
+                    "jupyter",
+                    "jupyter-notebook",
+                    "llm",
+                    "openai",
+                    "python",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app",
+                    "ja": "Python＆JS / TS SDKを使用して、AI生成コード/コード解釈を実行するためのAIアプリを作成します。",
+                    "zh-hans": "Python和JS/TS SDK用于在您的AI应用程序中运行AI生成的代码/代码解释。",
+                    "zh-hant": "Python和JS/TS SDK，用於在您的AI應用程序中運行AI生成的代碼/代碼解釋。"
                 }
             }
         },
