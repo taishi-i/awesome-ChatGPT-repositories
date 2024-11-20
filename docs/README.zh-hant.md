@@ -15,24 +15,28 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI 自主代理的清單
+
+
+**Prompts**
+ * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ 開源、以開發者為先的LLMOps平台，旨在簡化提示設計、版本管理、即時交付、協作、故障排除、可觀察性等功能。
+
+
 **Chatbots**
- * [LangBot](https://github.com/rockchinq/langbot) - 原名 QChatGPT ；😎高穩定性、🧩支持擴展、🦄多模態的 ChatGPT QQ / QQ頻道 / One Bot 機器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ頻道 / OneBot 機器人 / Agent 平台
+ * [open-im-server](https://github.com/openimsdk/open-im-server) - IM 聊天 ChatGPT
 
 
-**Browser-extensions**
- * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - 這是一個 ZSH 插件，可以讓您在命令行中使用 OpenAI 的 Codex AI。
- * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
+**CLIs**
+ * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - 基於 AI 完整保留排版的 PDF 學術論文翻譯，支持 Google/DeepL/Ollama/OpenAI 等服務，提供 CLI/GUI/Docker
+ * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 用於實驗人工智慧軟體工程師的平台。基於終端機。注意：與https://gptengineer.app非常不同。
 
 
-**Reimplementations**
- * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - 這個存儲庫提供了各種生成式人工智能代理技術的教程和實現，從基礎到高級。它作為構建智能、互動式人工智能系統的全面指南。
+**NLP**
+ * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python和JS/TS SDK，用於在您的AI應用程序中運行AI生成的代碼/代碼解釋。
 
 
-**Openai**
- * [WAAS](https://github.com/schibsted/waas) - 悄悄話服務（具有OpenAI Whisper排隊的GUI和API）
-
-
-_Updated on November 18, 2024_ (A total of 1873 repositories listed.)
+_Updated on November 21, 2024_ (A total of 1878 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +130,7 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - 一系列LLM論文、部落格和項目，重點放在OpenAI o1和推理技術上。
  * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - 使用OpenAI、Anthropic、Gemini和開源模型的優秀LLM應用程式集合。
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM資料總結 | Summary of the world's best LLM resources.
+ * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI 自主代理的清單
 
 
 ## Prompts
@@ -273,6 +278,7 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [helicone](https://github.com/helicone/helicone) - 🧊 開源 LLM-可觀察性平台，為開發人員提供。一鍵集成監控、指標、評估、代理追踪、提示管理、遊樂場等功能。支持 OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChain 等。🍓
  * [optillm](https://github.com/codelion/optillm) - 為LLMs優化推論代理
  * [lunary](https://github.com/lunary-ai/lunary) - LLM的生產工具包。可觀察性，及時管理和評估。
+ * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ 開源、以開發者為先的LLMOps平台，旨在簡化提示設計、版本管理、即時交付、協作、故障排除、可觀察性等功能。
 
 
 ## Chatbots
@@ -550,6 +556,7 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - 為您的LLM應用程序提供數據框架。專注於服務器端解決方案。
  * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（原名Repopack）是一個強大的工具，可以將您的整個存儲庫打包成一個單一的、適合人工智能的文件。當您需要將代碼庫提供給大型語言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini時，這是完美的選擇。
  * [LangBot](https://github.com/rockchinq/langbot) - 原名 QChatGPT ；😎高穩定性、🧩支持擴展、🦄多模態的 ChatGPT QQ / QQ頻道 / One Bot 機器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ頻道 / OneBot 機器人 / Agent 平台
+ * [open-im-server](https://github.com/openimsdk/open-im-server) - IM 聊天 ChatGPT
 
 
 ## Browser-extensions
@@ -754,7 +761,6 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier由AIHawk開發，是一個自動化工作申請流程的代理商。利用人工智能，它使用戶能夠以自動化和個性化的方式申請多個工作。
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - 這是一個 ZSH 插件，可以讓您在命令行中使用 OpenAI 的 Codex AI。
- * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
 
 
 ## CLIs
@@ -895,6 +901,8 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DX 首選和更多工程化、輕量級、可定制、標準輸出格式的 Commitizen 適配器和 CLI
  * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
  * [plandex](https://github.com/plandex-ai/plandex) - 在您的終端機中進行AI驅動的開發。設計用於大型、現實世界的任務。
+ * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - 基於 AI 完整保留排版的 PDF 學術論文翻譯，支持 Google/DeepL/Ollama/OpenAI 等服務，提供 CLI/GUI/Docker
+ * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 用於實驗人工智慧軟體工程師的平台。基於終端機。注意：與https://gptengineer.app非常不同。
 
 
 ## Reimplementations
@@ -1238,6 +1246,7 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TEN Agent 是全球第一個與 OpenAI 實時 API、RTC 整合的實時多模式代理，具有天氣查詢、網絡搜索、視覺和 RAG 功能。
  * [refact](https://github.com/smallcloudai/refact) - 用於微調和自行託管開源大型語言模型進行編碼的WebUI
  * [ax](https://github.com/ax-llm/ax) - 非官方DSPy框架。基於斯坦福DSP論文構建由LLM驅動的代理和“代理工作流”。
+ * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python和JS/TS SDK，用於在您的AI應用程序中運行AI生成的代碼/代碼解釋。
 
 
 ## Langchain

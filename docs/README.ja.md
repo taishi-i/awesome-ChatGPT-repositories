@@ -15,24 +15,28 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI自律エージェントのリスト
+
+
+**Prompts**
+ * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ プロンプトデザイン、バージョン管理、インスタント配信、コラボレーション、トラブルシューティング、可観測性などを効率化するために設計された、オープンソースで開発者向けのLLMOpsプラットフォーム。
+
+
 **Chatbots**
- * [LangBot](https://github.com/rockchinq/langbot) - 元の名前はQChatGPTです。😎高い安定性、🧩拡張機能のサポート、🦄マルチモーダルなChatGPT QQ / QQチャンネル / One Botロボット🤖 | OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、difyのQQ / QQチャンネル / OneBotロボット / Agentプラットフォームをサポート
+ * [open-im-server](https://github.com/openimsdk/open-im-server) - IMチャットChatGPTIMチャットChatGPT
 
 
-**Browser-extensions**
- * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - これは、コマンドラインでOpenAIのCodex AIを使用できるようにするZSHプラグインです。
- * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agentは、AIHawkによるAIエージェントで、仕事の応募プロセスを自動化します。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
+**CLIs**
+ * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - PDF科学论文翻译，保留格式 - AIを使用してPDF科学論文を翻訳し、排版を保持した全文のバイリンガル翻訳を提供します。Google/DeepL/Ollama/OpenAIなどのサービスをサポートし、CLI/GUI/Dockerを提供します。
+ * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - AIソフトウェアエンジニアと実験するためのプラットフォーム。ターミナルベースです。注意：https://gptengineer.appとは非常に異なります。
 
 
-**Reimplementations**
- * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - このリポジトリは、基本から高度なまでさまざまな生成AIエージェント技術のチュートリアルと実装を提供しています。知的でインタラクティブなAIシステムを構築するための包括的なガイドとして機能します。
+**NLP**
+ * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python＆JS / TS SDKを使用して、AI生成コード/コード解釈を実行するためのAIアプリを作成します。
 
 
-**Openai**
- * [WAAS](https://github.com/schibsted/waas) - Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）
-
-
-_Updated on November 18, 2024_ (A total of 1873 repositories listed.)
+_Updated on November 21, 2024_ (A total of 1878 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +130,7 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - OpenAI o1および推論技術に焦点を当てたLLM論文、ブログ、およびプロジェクトのコレクション。
  * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - OpenAI、Anthropic、Gemini、およびオープンソースモデルを使用した素晴らしいLLMアプリのコレクション。
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 世界最高のLLMリソースの要約
+ * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI自律エージェントのリスト
 
 
 ## Prompts
@@ -273,6 +278,7 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [helicone](https://github.com/helicone/helicone) - 🧊 開発者向けのオープンソースLLM-Observabilityプラットフォーム。監視、メトリクス、評価、エージェントトレース、プロンプト管理、プレイグラウンドなどのためのワンライン統合。OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChainなどをサポート。🍓
  * [optillm](https://github.com/codelion/optillm) - LLMsの推論プロキシの最適化
  * [lunary](https://github.com/lunary-ai/lunary) - LLM向けの製作ツールキット。可観測性、プロンプト管理、評価。
+ * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ プロンプトデザイン、バージョン管理、インスタント配信、コラボレーション、トラブルシューティング、可観測性などを効率化するために設計された、オープンソースで開発者向けのLLMOpsプラットフォーム。
 
 
 ## Chatbots
@@ -550,6 +556,7 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - LLMアプリケーション用のデータフレームワーク。サーバーサイドソリューションに焦点を当てる。
  * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（以前はRepopackとして知られていました）は、リポジトリ全体を1つの、AIにとってフレンドリーなファイルにパックする強力なツールです。Large Language Models（LLMs）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを供給する必要があるときに最適です。
  * [LangBot](https://github.com/rockchinq/langbot) - 元の名前はQChatGPTです。😎高い安定性、🧩拡張機能のサポート、🦄マルチモーダルなChatGPT QQ / QQチャンネル / One Botロボット🤖 | OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、difyのQQ / QQチャンネル / OneBotロボット / Agentプラットフォームをサポート
+ * [open-im-server](https://github.com/openimsdk/open-im-server) - IMチャットChatGPTIMチャットChatGPT
 
 
 ## Browser-extensions
@@ -754,7 +761,6 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawkは、仕事の応募プロセスを自動化するエージェントです。人工知能を活用して、ユーザーが自動化された個人に適した方法で複数の仕事に応募できるようにします。
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawkは、仕事の応募プロセスを自動化するAIエージェントです。人工知能を活用して、ユーザーが自動化された個人的な方法で複数の仕事に応募できるようにします。
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - これは、コマンドラインでOpenAIのCodex AIを使用できるようにするZSHプラグインです。
- * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-foss/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agentは、AIHawkによるAIエージェントで、仕事の応募プロセスを自動化します。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
 
 
 ## CLIs
@@ -895,6 +901,8 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [cz-git](https://github.com/zhengqbbb/cz-git) - cz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLIcz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLI
  * [cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
  * [plandex](https://github.com/plandex-ai/plandex) - ターミナルでのAI駆動開発。大規模で実世界のタスクに対応するよう設計されています。
+ * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - PDF科学论文翻译，保留格式 - AIを使用してPDF科学論文を翻訳し、排版を保持した全文のバイリンガル翻訳を提供します。Google/DeepL/Ollama/OpenAIなどのサービスをサポートし、CLI/GUI/Dockerを提供します。
+ * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - AIソフトウェアエンジニアと実験するためのプラットフォーム。ターミナルベースです。注意：https://gptengineer.appとは非常に異なります。
 
 
 ## Reimplementations
@@ -1238,6 +1246,7 @@ _Updated on November 18, 2024_ (A total of 1873 repositories listed.)
  * [TEN-Agent](https://github.com/ten-framework/ten-agent) - TENエージェントは、世界初のOpenAI Realtime API、RTCと統合されたリアルタイムマルチモーダルエージェントで、天気チェック、ウェブ検索、ビジョン、RAG機能を備えています。
  * [refact](https://github.com/smallcloudai/refact) - コーディング用のオープンソース大規模言語モデルの微調整と自己ホスティングのためのWebUI
  * [ax](https://github.com/ax-llm/ax) - 非公式のDSPyフレームワーク。Stanford DSP論文に基づいたLLMパワードエージェントと「エージェンティックワークフロー」を構築します。
+ * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python＆JS / TS SDKを使用して、AI生成コード/コード解釈を実行するためのAIアプリを作成します。
 
 
 ## Langchain
