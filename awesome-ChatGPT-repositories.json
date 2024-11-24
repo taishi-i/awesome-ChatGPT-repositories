@@ -11928,6 +11928,94 @@
                     "zh-hans": "IM 聊天 ChatGPT",
                     "zh-hant": "IM 聊天 ChatGPT"
                 }
+            },
+            "https://github.com/aws-samples/aws-genai-llm-chatbot": {
+                "repository_name": "aws-genai-llm-chatbot",
+                "user_name": "aws-samples",
+                "language": "TypeScript",
+                "license": "MIT No Attribution",
+                "description": "A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS",
+                "topics": [
+                    "amazon-bedrock",
+                    "aurora",
+                    "aws",
+                    "bedrock",
+                    "cdk",
+                    "chatbot",
+                    "claude",
+                    "genai",
+                    "huggingface",
+                    "idefics",
+                    "kendra",
+                    "langchain",
+                    "llm",
+                    "opensearch",
+                    "opensearch-serverless",
+                    "pgvector",
+                    "sagemaker",
+                    "semantic-search",
+                    "vectordb"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS",
+                    "ja": "AWS CDKを使用して、Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistralを活用したMulti-LLMおよびMulti-RAG搭載のチャットボットを展開するためのモジュラーで包括的なソリューション。",
+                    "zh-hans": "使用AWS CDK在AWS上部署一个由多个LLM和多个RAG驱动的聊天机器人（Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistral）的模块化和全面解决方案。",
+                    "zh-hant": "一個模塊化和全面的解決方案，可部署一個由多個LLM和多個RAG驅動的聊天機器人（Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistral），並使用AWS CDK在AWS上運行。"
+                }
+            },
+            "https://github.com/souzatharsis/podcastfy": {
+                "repository_name": "podcastfy",
+                "user_name": "souzatharsis",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI",
+                "topics": [
+                    "elevenlabs",
+                    "gemini",
+                    "genai",
+                    "notebooklm",
+                    "openai",
+                    "podcast"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI",
+                    "ja": "NotebookLMのポッドキャスト機能のオープンソースPython代替品：GenAIを使用して、多言語オーディオ会話に変換する魅力的なマルチモーダルコンテンツ",
+                    "zh-hans": "一个开源的Python替代方案，用于将多模态内容转化为引人入胜的多语言音频对话，与GenAI一起。",
+                    "zh-hant": "一個開源的Python替代方案，用於NotebookLM的播客功能：將多模式內容轉換為引人入勝的多語音頻對話，與GenAI一起。"
+                }
+            },
+            "https://github.com/awslabs/multi-agent-orchestrator": {
+                "repository_name": "multi-agent-orchestrator",
+                "user_name": "awslabs",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+                "topics": [
+                    "agents",
+                    "ai-agents",
+                    "ai-agents-framework",
+                    "anthropic-claude",
+                    "aws",
+                    "aws-bedrock",
+                    "aws-cdk",
+                    "aws-lambda",
+                    "chatbot",
+                    "framework",
+                    "generative-ai",
+                    "machine-learning",
+                    "openai",
+                    "openaiapi",
+                    "orchestrator",
+                    "python",
+                    "serverless",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+                    "ja": "複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク",
+                    "zh-hans": "灵活而强大的框架，用于管理多个AI代理并处理复杂对话。",
+                    "zh-hant": "靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。"
+                }
             }
         },
         "Browser-extensions": {
@@ -16539,6 +16627,22 @@
                     "zh-hans": "Auto_Jobs_Applier_AI_Agent是由AIHawk开发的一款AI代理程序，可以自动化工作申请流程。利用人工智能技术，它可以让用户以自动化和个性化的方式申请多个工作。",
                     "zh-hant": "Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。"
                 }
+            },
+            "https://github.com/open-webui/pipelines": {
+                "repository_name": "pipelines",
+                "user_name": "open-webui",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework ",
+                "topics": [
+                    "open-webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework",
+                    "ja": "パイプライン：多目的、UIに依存しないOpenAI互換のプラグインフレームワーク",
+                    "zh-hans": "管道：多功能，与UI无关的OpenAI兼容插件框架",
+                    "zh-hant": "管道：多功能、UI不可知的OpenAI兼容插件框架"
+                }
             }
         },
         "CLIs": {
@@ -19717,6 +19821,26 @@
                     "ja": "AIソフトウェアエンジニアと実験するためのプラットフォーム。ターミナルベースです。注意：https://gptengineer.appとは非常に異なります。",
                     "zh-hans": "用于实验AI软件工程师的平台。基于终端。注意：与https://gptengineer.app非常不同。",
                     "zh-hant": "用於實驗人工智慧軟體工程師的平台。基於終端機。注意：與https://gptengineer.app非常不同。"
+                }
+            },
+            "https://github.com/softcatala/whisper-ctranslate2": {
+                "repository_name": "whisper-ctranslate2",
+                "user_name": "Softcatala",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Whisper command line client compatible with original OpenAI client based on CTranslate2.",
+                "topics": [
+                    "openai-",
+                    "openai-whisper",
+                    "speech-recognition",
+                    "speech-to-text",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Whisper command line client compatible with original OpenAI client based on CTranslate2.",
+                    "ja": "CTranslate2に基づいたオリジナルのOpenAIクライアントと互換性のあるWhisperコマンドラインクライアント。Whisperコマンドラインクライアントは、オリジナルのOpenAIクライアントと互換性があります。",
+                    "zh-hans": "基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。输出：基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。",
+                    "zh-hant": "基於CTranslate2的原始OpenAI客戶端兼容的Whisper命令行客戶端。Whisper命令行客戶端與原始OpenAI客戶端兼容，基於CTranslate2。"
                 }
             }
         },
@@ -26907,6 +27031,28 @@
                     "zh-hans": "Python和JS/TS SDK用于在您的AI应用程序中运行AI生成的代码/代码解释。",
                     "zh-hant": "Python和JS/TS SDK，用於在您的AI應用程序中運行AI生成的代碼/代碼解釋。"
                 }
+            },
+            "https://github.com/brainblend-ai/atomic-agents": {
+                "repository_name": "atomic-agents",
+                "user_name": "BrainBlend-AI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Building AI agents, atomically",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "large-language-model",
+                    "large-language-models",
+                    "llms",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Building AI agents, atomically",
+                    "ja": "AIエージェントを原子的に構築します。",
+                    "zh-hans": "构建AI代理，原子化",
+                    "zh-hant": "建立AI代理人，原子化"
+                }
             }
         },
         "Langchain": {
@@ -29496,6 +29642,56 @@
                     "ja": "2分以内で任意のコードベースとチャット | 完全にローカルまたはサードパーティのAPIを介して",
                     "zh-hans": "在两分钟内与任何代码库进行聊天 | 完全本地或通过第三方API",
                     "zh-hant": "在不到兩分鐘內與任何程式碼庫進行聊天 | 完全本地或通過第三方API進行"
+                }
+            },
+            "https://github.com/fynnfluegge/rocketnotes": {
+                "repository_name": "rocketnotes",
+                "user_name": "fynnfluegge",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AI-powered Markdown note taking app - Leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud",
+                "topics": [
+                    "anthropic",
+                    "aws",
+                    "huggingface",
+                    "langchain",
+                    "llm",
+                    "markdown",
+                    "notes-app",
+                    "openai",
+                    "serverless",
+                    "zettelkasten"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-powered Markdown note taking app - Leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud",
+                    "ja": "AIパワードのMarkdownノートアプリ - ベクトル埋め込みとLLMsを活用して個人のノートを作成 - 100％ローカルまたはクラウド上",
+                    "zh-hans": "AI 动力的 Markdown 笔记应用程序-利用矢量嵌入和 LLMs 与您的个人笔记-100% 本地或在云端",
+                    "zh-hant": "AI 助力的 Markdown 筆記應用程式 - 利用向量嵌入和 LLMs 與您的個人筆記 - 100% 本地或在雲端"
+                }
+            },
+            "https://github.com/fatwang2/search2ai": {
+                "repository_name": "search2ai",
+                "user_name": "fatwang2",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Help your LLMs online",
+                "topics": [
+                    "functioncalling",
+                    "gemini",
+                    "groq",
+                    "llama",
+                    "mistral",
+                    "online",
+                    "openai",
+                    "openai-api",
+                    "search",
+                    "toolcall"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Help your LLMs online",
+                    "ja": "オンラインでLLMの手助けをしてください。",
+                    "zh-hans": "在线帮助您的LLMs",
+                    "zh-hant": "在線幫助您的LLM們"
                 }
             }
         },

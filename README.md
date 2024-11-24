@@ -15,28 +15,30 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-
-
-**Prompts**
- * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
-
-
 **Chatbots**
- * [open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
+ * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
+ * [podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
+ * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+
+
+**Browser-extensions**
+ * [pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 
 
 **CLIs**
- * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
- * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+ * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
 
 
 **NLP**
- * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
+ * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - Building AI agents, atomically
 
 
-_Updated on November 21, 2024_ (A total of 1878 repositories listed.)
+**Langchain**
+ * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered Markdown note taking app - Leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud
+ * [search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
+
+
+_Updated on November 25, 2024_ (A total of 1886 repositories listed.)
 
 ## Table of contents
 
@@ -557,6 +559,9 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
  * [LangBot](https://github.com/rockchinq/langbot) - 原名 QChatGPT ；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
  * [open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
+ * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
+ * [podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
+ * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 
 
 ## Browser-extensions
@@ -761,6 +766,7 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawk is an Agen that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
+ * [pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
 
 
 ## CLIs
@@ -903,6 +909,7 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
  * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
  * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+ * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
 
 
 ## Reimplementations
@@ -1247,6 +1254,7 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [refact](https://github.com/smallcloudai/refact) - WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding
  * [ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
  * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
+ * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - Building AI agents, atomically
 
 
 ## Langchain
@@ -1360,6 +1368,8 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini & Ollama
  * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. :fireworks: Code RAG
  * [sage](https://github.com/storia-ai/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
+ * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered Markdown note taking app - Leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud
+ * [search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 
 
 ## Unity

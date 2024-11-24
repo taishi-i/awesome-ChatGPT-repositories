@@ -15,28 +15,30 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI自律エージェントのリスト
-
-
-**Prompts**
- * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ プロンプトデザイン、バージョン管理、インスタント配信、コラボレーション、トラブルシューティング、可観測性などを効率化するために設計された、オープンソースで開発者向けのLLMOpsプラットフォーム。
-
-
 **Chatbots**
- * [open-im-server](https://github.com/openimsdk/open-im-server) - IMチャットChatGPTIMチャットChatGPT
+ * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - AWS CDKを使用して、Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistralを活用したMulti-LLMおよびMulti-RAG搭載のチャットボットを展開するためのモジュラーで包括的なソリューション。
+ * [podcastfy](https://github.com/souzatharsis/podcastfy) - NotebookLMのポッドキャスト機能のオープンソースPython代替品：GenAIを使用して、多言語オーディオ会話に変換する魅力的なマルチモーダルコンテンツ
+ * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
+
+
+**Browser-extensions**
+ * [pipelines](https://github.com/open-webui/pipelines) - パイプライン：多目的、UIに依存しないOpenAI互換のプラグインフレームワーク
 
 
 **CLIs**
- * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - PDF科学论文翻译，保留格式 - AIを使用してPDF科学論文を翻訳し、排版を保持した全文のバイリンガル翻訳を提供します。Google/DeepL/Ollama/OpenAIなどのサービスをサポートし、CLI/GUI/Dockerを提供します。
- * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - AIソフトウェアエンジニアと実験するためのプラットフォーム。ターミナルベースです。注意：https://gptengineer.appとは非常に異なります。
+ * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - CTranslate2に基づいたオリジナルのOpenAIクライアントと互換性のあるWhisperコマンドラインクライアント。Whisperコマンドラインクライアントは、オリジナルのOpenAIクライアントと互換性があります。
 
 
 **NLP**
- * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python＆JS / TS SDKを使用して、AI生成コード/コード解釈を実行するためのAIアプリを作成します。
+ * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - AIエージェントを原子的に構築します。
 
 
-_Updated on November 21, 2024_ (A total of 1878 repositories listed.)
+**Langchain**
+ * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AIパワードのMarkdownノートアプリ - ベクトル埋め込みとLLMsを活用して個人のノートを作成 - 100％ローカルまたはクラウド上
+ * [search2ai](https://github.com/fatwang2/search2ai) - オンラインでLLMの手助けをしてください。
+
+
+_Updated on November 25, 2024_ (A total of 1886 repositories listed.)
 
 ## Table of contents
 
@@ -557,6 +559,9 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [repomix](https://github.com/yamadashy/repomix) - 📦 Repomix（以前はRepopackとして知られていました）は、リポジトリ全体を1つの、AIにとってフレンドリーなファイルにパックする強力なツールです。Large Language Models（LLMs）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを供給する必要があるときに最適です。
  * [LangBot](https://github.com/rockchinq/langbot) - 元の名前はQChatGPTです。😎高い安定性、🧩拡張機能のサポート、🦄マルチモーダルなChatGPT QQ / QQチャンネル / One Botロボット🤖 | OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、difyのQQ / QQチャンネル / OneBotロボット / Agentプラットフォームをサポート
  * [open-im-server](https://github.com/openimsdk/open-im-server) - IMチャットChatGPTIMチャットChatGPT
+ * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - AWS CDKを使用して、Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistralを活用したMulti-LLMおよびMulti-RAG搭載のチャットボットを展開するためのモジュラーで包括的なソリューション。
+ * [podcastfy](https://github.com/souzatharsis/podcastfy) - NotebookLMのポッドキャスト機能のオープンソースPython代替品：GenAIを使用して、多言語オーディオ会話に変換する魅力的なマルチモーダルコンテンツ
+ * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
 
 
 ## Browser-extensions
@@ -761,6 +766,7 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [Auto_Jobs_Applier](https://github.com/aihawk-co/auto_jobs_applier) - Auto_Jobs_Applier by AIHawkは、仕事の応募プロセスを自動化するエージェントです。人工知能を活用して、ユーザーが自動化された個人に適した方法で複数の仕事に応募できるようにします。
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawkは、仕事の応募プロセスを自動化するAIエージェントです。人工知能を活用して、ユーザーが自動化された個人的な方法で複数の仕事に応募できるようにします。
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - これは、コマンドラインでOpenAIのCodex AIを使用できるようにするZSHプラグインです。
+ * [pipelines](https://github.com/open-webui/pipelines) - パイプライン：多目的、UIに依存しないOpenAI互換のプラグインフレームワーク
 
 
 ## CLIs
@@ -903,6 +909,7 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [plandex](https://github.com/plandex-ai/plandex) - ターミナルでのAI駆動開発。大規模で実世界のタスクに対応するよう設計されています。
  * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - PDF科学论文翻译，保留格式 - AIを使用してPDF科学論文を翻訳し、排版を保持した全文のバイリンガル翻訳を提供します。Google/DeepL/Ollama/OpenAIなどのサービスをサポートし、CLI/GUI/Dockerを提供します。
  * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - AIソフトウェアエンジニアと実験するためのプラットフォーム。ターミナルベースです。注意：https://gptengineer.appとは非常に異なります。
+ * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - CTranslate2に基づいたオリジナルのOpenAIクライアントと互換性のあるWhisperコマンドラインクライアント。Whisperコマンドラインクライアントは、オリジナルのOpenAIクライアントと互換性があります。
 
 
 ## Reimplementations
@@ -1247,6 +1254,7 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [refact](https://github.com/smallcloudai/refact) - コーディング用のオープンソース大規模言語モデルの微調整と自己ホスティングのためのWebUI
  * [ax](https://github.com/ax-llm/ax) - 非公式のDSPyフレームワーク。Stanford DSP論文に基づいたLLMパワードエージェントと「エージェンティックワークフロー」を構築します。
  * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python＆JS / TS SDKを使用して、AI生成コード/コード解釈を実行するためのAIアプリを作成します。
+ * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - AIエージェントを原子的に構築します。
 
 
 ## Langchain
@@ -1360,6 +1368,8 @@ _Updated on November 21, 2024_ (A total of 1878 repositories listed.)
  * [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - LLM | OpenAI、Gemini＆Ollamaによって強力なウェブスクレイパーを搭載
  * [MLE-agent](https://github.com/mlsysops/mle-agent) - 🤖 MLE-Agent: シームレスなAIエンジニアリングと研究のための知的な仲間です。🔍 arxivとpaper with codeと統合して、より良いコード/研究計画を提供します🧰 OpenAI、Anthropic、Ollamaなどがサポートされています。:fireworks: Code RAG
  * [sage](https://github.com/storia-ai/sage) - 2分以内で任意のコードベースとチャット | 完全にローカルまたはサードパーティのAPIを介して
+ * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AIパワードのMarkdownノートアプリ - ベクトル埋め込みとLLMsを活用して個人のノートを作成 - 100％ローカルまたはクラウド上
+ * [search2ai](https://github.com/fatwang2/search2ai) - オンラインでLLMの手助けをしてください。
 
 
 ## Unity
