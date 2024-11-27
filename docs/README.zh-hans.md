@@ -15,30 +15,22 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - 使用AWS CDK在AWS上部署一个由多个LLM和多个RAG驱动的聊天机器人（Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistral）的模块化和全面解决方案。
- * [podcastfy](https://github.com/souzatharsis/podcastfy) - 一个开源的Python替代方案，用于将多模态内容转化为引人入胜的多语言音频对话，与GenAI一起。
- * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 灵活而强大的框架，用于管理多个AI代理并处理复杂对话。
+**Prompts**
+ * [archgw](https://github.com/katanemo/archgw) - Arch是代理的智能网关。 使用（快速）LLMs进行工程设计，用于安全处理，丰富的可观察性，并将提示与您的API无缝集成 - 所有这些都在业务逻辑之外。 由Envoy代理的核心贡献者在Envoy上构建。
+ * [openlit](https://github.com/openlit/openlit) - AI工程的开源平台：OpenTelemetry原生LLM可观测性，GPU监控，防护栏，评估，提示管理，保险库，游乐场。🚀💻 与40多个LLM提供商，VectorDBs，代理框架和GPU集成。
 
 
 **Browser-extensions**
- * [pipelines](https://github.com/open-webui/pipelines) - 管道：多功能，与UI无关的OpenAI兼容插件框架
+ * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura就像Siri一样，但是在你的浏览器中。一款专为低延迟响应优化的人工智能语音助手。
 
 
-**CLIs**
- * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - 基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。输出：基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。
+**Openai**
+ * [coai](https://github.com/coaidev/coai) - 🚀 下一代 AI 一站式国际化解决方案。🚀 支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型。
+ * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - 一个框架，使多模型能够操作计算机。
+ * [blinko](https://github.com/blinko-space/blinko) - 一个开源的、自托管的个人笔记工具，注重隐私，使用TypeScript构建。
 
 
-**NLP**
- * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - 构建AI代理，原子化
-
-
-**Langchain**
- * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI 动力的 Markdown 笔记应用程序-利用矢量嵌入和 LLMs 与您的个人笔记-100% 本地或在云端
- * [search2ai](https://github.com/fatwang2/search2ai) - 在线帮助您的LLMs
-
-
-_Updated on November 25, 2024_ (A total of 1886 repositories listed.)
+_Updated on November 28, 2024_ (A total of 1892 repositories listed.)
 
 ## Table of contents
 
@@ -281,6 +273,8 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [optillm](https://github.com/codelion/optillm) - 为LLMs优化推理代理
  * [lunary](https://github.com/lunary-ai/lunary) - LLM的生产工具包。可观察性，提示管理和评估。
  * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ 开源、以开发者为先的LLMOps平台，旨在简化提示设计、版本管理、即时交付、协作、故障排除、可观察性等功能。
+ * [archgw](https://github.com/katanemo/archgw) - Arch是代理的智能网关。 使用（快速）LLMs进行工程设计，用于安全处理，丰富的可观察性，并将提示与您的API无缝集成 - 所有这些都在业务逻辑之外。 由Envoy代理的核心贡献者在Envoy上构建。
+ * [openlit](https://github.com/openlit/openlit) - AI工程的开源平台：OpenTelemetry原生LLM可观测性，GPU监控，防护栏，评估，提示管理，保险库，游乐场。🚀💻 与40多个LLM提供商，VectorDBs，代理框架和GPU集成。
 
 
 ## Chatbots
@@ -767,6 +761,7 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent是由AIHawk开发的一款AI代理程序，可以自动化工作申请流程。利用人工智能技术，它使用户能够以自动化和个性化的方式申请多个工作。
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - 这是一个ZSH插件，可以让你在命令行中使用OpenAI的Codex人工智能。
  * [pipelines](https://github.com/open-webui/pipelines) - 管道：多功能，与UI无关的OpenAI兼容插件框架
+ * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura就像Siri一样，但是在你的浏览器中。一款专为低延迟响应优化的人工智能语音助手。
 
 
 ## CLIs
@@ -1586,6 +1581,9 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer是一个命令行工具，旨在帮助开发人员高效地管理和与他们的项目进行交互。利用OpenAI的API的强大功能，该工具提供诸如代码生成、文件编辑和项目规划等功能。
  * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI接口无缝集成，使用单个可执行文件快速设置和部署，与OpenAI和兼容的API无缝集成。
  * [WAAS](https://github.com/schibsted/waas) - 低语服务（带有排队的GUI和API，适用于OpenAI Whisper）
+ * [coai](https://github.com/coaidev/coai) - 🚀 下一代 AI 一站式国际化解决方案。🚀 支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型。
+ * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - 一个框架，使多模型能够操作计算机。
+ * [blinko](https://github.com/blinko-space/blinko) - 一个开源的、自托管的个人笔记工具，注重隐私，使用TypeScript构建。
 
 
 ## Others
