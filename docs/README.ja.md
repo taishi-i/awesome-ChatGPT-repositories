@@ -15,30 +15,22 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - AWS CDKを使用して、Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistralを活用したMulti-LLMおよびMulti-RAG搭載のチャットボットを展開するためのモジュラーで包括的なソリューション。
- * [podcastfy](https://github.com/souzatharsis/podcastfy) - NotebookLMのポッドキャスト機能のオープンソースPython代替品：GenAIを使用して、多言語オーディオ会話に変換する魅力的なマルチモーダルコンテンツ
- * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
+**Prompts**
+ * [archgw](https://github.com/katanemo/archgw) - Archはエージェント向けのインテリジェントなゲートウェイです。安全な処理、豊富な観測性、およびAPIとのシームレスな統合を実現するために、(高速な)LLMが使用されています - すべてはビジネスロジックの外側で行われます。Envoyプロキシのコアコントリビューターによって構築され、Envoy上で動作します。
+ * [openlit](https://github.com/openlit/openlit) - AIエンジニアリングのためのオープンソースプラットフォーム：OpenTelemetryネイティブLLMオブザーバビリティ、GPUモニタリング、ガードレール、評価、プロンプト管理、ボールト、プレイグラウンド。🚀💻 40以上のLLMプロバイダー、VectorDB、エージェントフレームワーク、GPUと統合されています。
 
 
 **Browser-extensions**
- * [pipelines](https://github.com/open-webui/pipelines) - パイプライン：多目的、UIに依存しないOpenAI互換のプラグインフレームワーク
+ * [aura-voice](https://github.com/ntegrals/aura-voice) - AuraはSiriのようなものですが、ブラウザ内で動作します。低遅延応答に最適化されたAI音声アシスタントです。
 
 
-**CLIs**
- * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - CTranslate2に基づいたオリジナルのOpenAIクライアントと互換性のあるWhisperコマンドラインクライアント。Whisperコマンドラインクライアントは、オリジナルのOpenAIクライアントと互換性があります。
+**Openai**
+ * [coai](https://github.com/coaidev/coai) - 🚀 次世代AIワンストップ国際化ソリューション。🚀 下一代AI一站式B/C端解决方案，支持OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型
+ * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - コンピュータを操作するためのマルチモーダルモデルを可能にするフレームワーク
+ * [blinko](https://github.com/blinko-space/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用ノートツール。TypeScriptを使用して構築されています。
 
 
-**NLP**
- * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - AIエージェントを原子的に構築します。
-
-
-**Langchain**
- * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AIパワードのMarkdownノートアプリ - ベクトル埋め込みとLLMsを活用して個人のノートを作成 - 100％ローカルまたはクラウド上
- * [search2ai](https://github.com/fatwang2/search2ai) - オンラインでLLMの手助けをしてください。
-
-
-_Updated on November 25, 2024_ (A total of 1886 repositories listed.)
+_Updated on November 28, 2024_ (A total of 1892 repositories listed.)
 
 ## Table of contents
 
@@ -281,6 +273,8 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [optillm](https://github.com/codelion/optillm) - LLMsの推論プロキシの最適化
  * [lunary](https://github.com/lunary-ai/lunary) - LLM向けの製作ツールキット。可観測性、プロンプト管理、評価。
  * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ プロンプトデザイン、バージョン管理、インスタント配信、コラボレーション、トラブルシューティング、可観測性などを効率化するために設計された、オープンソースで開発者向けのLLMOpsプラットフォーム。
+ * [archgw](https://github.com/katanemo/archgw) - Archはエージェント向けのインテリジェントなゲートウェイです。安全な処理、豊富な観測性、およびAPIとのシームレスな統合を実現するために、(高速な)LLMが使用されています - すべてはビジネスロジックの外側で行われます。Envoyプロキシのコアコントリビューターによって構築され、Envoy上で動作します。
+ * [openlit](https://github.com/openlit/openlit) - AIエンジニアリングのためのオープンソースプラットフォーム：OpenTelemetryネイティブLLMオブザーバビリティ、GPUモニタリング、ガードレール、評価、プロンプト管理、ボールト、プレイグラウンド。🚀💻 40以上のLLMプロバイダー、VectorDB、エージェントフレームワーク、GPUと統合されています。
 
 
 ## Chatbots
@@ -767,6 +761,7 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawkは、仕事の応募プロセスを自動化するAIエージェントです。人工知能を活用して、ユーザーが自動化された個人的な方法で複数の仕事に応募できるようにします。
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - これは、コマンドラインでOpenAIのCodex AIを使用できるようにするZSHプラグインです。
  * [pipelines](https://github.com/open-webui/pipelines) - パイプライン：多目的、UIに依存しないOpenAI互換のプラグインフレームワーク
+ * [aura-voice](https://github.com/ntegrals/aura-voice) - AuraはSiriのようなものですが、ブラウザ内で動作します。低遅延応答に最適化されたAI音声アシスタントです。
 
 
 ## CLIs
@@ -1586,6 +1581,9 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineerは、開発者がプロジェクトを効率的に管理および操作するために設計されたコマンドラインツールです。OpenAIのAPIの力を活用して、このツールはコード生成、ファイル編集、プロジェクト計画などの機能を提供します。
  * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAIと互換性のあるAPIをシームレスに統合し、素早くセットアップおよび展開するための単一の実行可能ファイルを使用します。
  * [WAAS](https://github.com/schibsted/waas) - Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）
+ * [coai](https://github.com/coaidev/coai) - 🚀 次世代AIワンストップ国際化ソリューション。🚀 下一代AI一站式B/C端解决方案，支持OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型
+ * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - コンピュータを操作するためのマルチモーダルモデルを可能にするフレームワーク
+ * [blinko](https://github.com/blinko-space/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用ノートツール。TypeScriptを使用して構築されています。
 
 
 ## Others

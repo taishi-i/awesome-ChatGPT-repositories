@@ -15,30 +15,22 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - 一個模塊化和全面的解決方案，可部署一個由多個LLM和多個RAG驅動的聊天機器人（Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistral），並使用AWS CDK在AWS上運行。
- * [podcastfy](https://github.com/souzatharsis/podcastfy) - 一個開源的Python替代方案，用於NotebookLM的播客功能：將多模式內容轉換為引人入勝的多語音頻對話，與GenAI一起。
- * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。
+**Prompts**
+ * [archgw](https://github.com/katanemo/archgw) - Arch是代理人的智能閘道。使用（快速）LLM進行工程設計，以安全處理、豐富的可觀察性和無縫集成提示與您的API - 所有這些都在業務邏輯之外。由Envoy代理的核心貢獻者在Envoy上構建。
+ * [openlit](https://github.com/openlit/openlit) - 開源平台為AI工程：OpenTelemetry-native LLM可觀測性，GPU監控，防護欄，評估，提示管理，金庫，遊樂場。🚀💻與40多個LLM提供商，VectorDBs，代理框架和GPU集成。
 
 
 **Browser-extensions**
- * [pipelines](https://github.com/open-webui/pipelines) - 管道：多功能、UI不可知的OpenAI兼容插件框架
+ * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura就像Siri一樣，但在您的瀏覽器中。一個針對低延遲響應進行優化的人工智能語音助手。
 
 
-**CLIs**
- * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - 基於CTranslate2的原始OpenAI客戶端兼容的Whisper命令行客戶端。Whisper命令行客戶端與原始OpenAI客戶端兼容，基於CTranslate2。
+**Openai**
+ * [coai](https://github.com/coaidev/coai) - 🚀 下一代 AI 一站式國際化解決方案。🚀 支持 OpenAI，Midjourney，Claude，訊飛星火，穩定擴散，DALL·E，ChatGLM，通義千問，騰訊混元，360 智腦，百川 AI，火山方舟，新必應，Gemini，Moonshot 等模型，支持對話分享，自定義預設，雲端同步，模型市場，支持彈性計費和訂閱計劃模式，支持圖片解析，支持聯網搜索，支持模型。
+ * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - 一個能夠讓多模型操作電腦的框架。
+ * [blinko](https://github.com/blinko-space/blinko) - 一個開源、自主託管的個人筆記工具，注重隱私，使用TypeScript構建。
 
 
-**NLP**
- * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - 建立AI代理人，原子化
-
-
-**Langchain**
- * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI 助力的 Markdown 筆記應用程式 - 利用向量嵌入和 LLMs 與您的個人筆記 - 100% 本地或在雲端
- * [search2ai](https://github.com/fatwang2/search2ai) - 在線幫助您的LLM們
-
-
-_Updated on November 25, 2024_ (A total of 1886 repositories listed.)
+_Updated on November 28, 2024_ (A total of 1892 repositories listed.)
 
 ## Table of contents
 
@@ -281,6 +273,8 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [optillm](https://github.com/codelion/optillm) - 為LLMs優化推論代理
  * [lunary](https://github.com/lunary-ai/lunary) - LLM的生產工具包。可觀察性，及時管理和評估。
  * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ 開源、以開發者為先的LLMOps平台，旨在簡化提示設計、版本管理、即時交付、協作、故障排除、可觀察性等功能。
+ * [archgw](https://github.com/katanemo/archgw) - Arch是代理人的智能閘道。使用（快速）LLM進行工程設計，以安全處理、豐富的可觀察性和無縫集成提示與您的API - 所有這些都在業務邏輯之外。由Envoy代理的核心貢獻者在Envoy上構建。
+ * [openlit](https://github.com/openlit/openlit) - 開源平台為AI工程：OpenTelemetry-native LLM可觀測性，GPU監控，防護欄，評估，提示管理，金庫，遊樂場。🚀💻與40多個LLM提供商，VectorDBs，代理框架和GPU集成。
 
 
 ## Chatbots
@@ -767,6 +761,7 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent由AIHawk開發，是一個自動化工作申請流程的AI代理人。利用人工智能，它使用者可以以自動化和個性化的方式申請多個工作。
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - 這是一個 ZSH 插件，可以讓您在命令行中使用 OpenAI 的 Codex AI。
  * [pipelines](https://github.com/open-webui/pipelines) - 管道：多功能、UI不可知的OpenAI兼容插件框架
+ * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura就像Siri一樣，但在您的瀏覽器中。一個針對低延遲響應進行優化的人工智能語音助手。
 
 
 ## CLIs
@@ -1586,6 +1581,9 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer是一個命令行工具，旨在幫助開發人員有效地管理和互動他們的項目。利用OpenAI的API的強大功能，這個工具提供了代碼生成、文件編輯和項目計劃等功能。
  * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，僅單可執行文件，配置超級簡單，一鍵部署，開箱即用。無縫集成OpenAI和兼容的API，使用單個可執行文件進行快速設置和部署。
  * [WAAS](https://github.com/schibsted/waas) - 悄悄話服務（具有OpenAI Whisper排隊的GUI和API）
+ * [coai](https://github.com/coaidev/coai) - 🚀 下一代 AI 一站式國際化解決方案。🚀 支持 OpenAI，Midjourney，Claude，訊飛星火，穩定擴散，DALL·E，ChatGLM，通義千問，騰訊混元，360 智腦，百川 AI，火山方舟，新必應，Gemini，Moonshot 等模型，支持對話分享，自定義預設，雲端同步，模型市場，支持彈性計費和訂閱計劃模式，支持圖片解析，支持聯網搜索，支持模型。
+ * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - 一個能夠讓多模型操作電腦的框架。
+ * [blinko](https://github.com/blinko-space/blinko) - 一個開源、自主託管的個人筆記工具，注重隱私，使用TypeScript構建。
 
 
 ## Others

@@ -5298,6 +5298,71 @@
                     "zh-hans": "🕹️ 开源、以开发者为先的LLMOps平台，旨在简化提示设计、版本管理、即时交付、协作、故障排除、可观察性等功能。",
                     "zh-hant": "🕹️ 開源、以開發者為先的LLMOps平台，旨在簡化提示設計、版本管理、即時交付、協作、故障排除、可觀察性等功能。"
                 }
+            },
+            "https://github.com/katanemo/archgw": {
+                "repository_name": "archgw",
+                "user_name": "katanemo",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.",
+                "topics": [
+                    "ai-gateway",
+                    "envoy",
+                    "envoyproxy",
+                    "gateway",
+                    "generative-ai",
+                    "llm-gateway",
+                    "llm-inference",
+                    "llm-routing",
+                    "llmops",
+                    "llms",
+                    "openai",
+                    "prompt",
+                    "proxy",
+                    "proxy-server",
+                    "routing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.",
+                    "ja": "Archはエージェント向けのインテリジェントなゲートウェイです。安全な処理、豊富な観測性、およびAPIとのシームレスな統合を実現するために、(高速な)LLMが使用されています - すべてはビジネスロジックの外側で行われます。Envoyプロキシのコアコントリビューターによって構築され、Envoy上で動作します。",
+                    "zh-hans": "Arch是代理的智能网关。 使用（快速）LLMs进行工程设计，用于安全处理，丰富的可观察性，并将提示与您的API无缝集成 - 所有这些都在业务逻辑之外。 由Envoy代理的核心贡献者在Envoy上构建。",
+                    "zh-hant": "Arch是代理人的智能閘道。使用（快速）LLM進行工程設計，以安全處理、豐富的可觀察性和無縫集成提示與您的API - 所有這些都在業務邏輯之外。由Envoy代理的核心貢獻者在Envoy上構建。"
+                }
+            },
+            "https://github.com/openlit/openlit": {
+                "repository_name": "openlit",
+                "user_name": "openlit",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
+                "topics": [
+                    "ai-observability",
+                    "amd-gpu",
+                    "clickhouse",
+                    "distributed-tracing",
+                    "genai",
+                    "gpu-monitoring",
+                    "grafana",
+                    "langchain",
+                    "llmops",
+                    "llms",
+                    "metrics",
+                    "monitoring-tool",
+                    "nvidia-smi",
+                    "observability",
+                    "open-source",
+                    "openai",
+                    "opentelemetry",
+                    "otlp",
+                    "python",
+                    "tracing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
+                    "ja": "AIエンジニアリングのためのオープンソースプラットフォーム：OpenTelemetryネイティブLLMオブザーバビリティ、GPUモニタリング、ガードレール、評価、プロンプト管理、ボールト、プレイグラウンド。🚀💻 40以上のLLMプロバイダー、VectorDB、エージェントフレームワーク、GPUと統合されています。",
+                    "zh-hans": "AI工程的开源平台：OpenTelemetry原生LLM可观测性，GPU监控，防护栏，评估，提示管理，保险库，游乐场。🚀💻 与40多个LLM提供商，VectorDBs，代理框架和GPU集成。",
+                    "zh-hant": "開源平台為AI工程：OpenTelemetry-native LLM可觀測性，GPU監控，防護欄，評估，提示管理，金庫，遊樂場。🚀💻與40多個LLM提供商，VectorDBs，代理框架和GPU集成。"
+                }
             }
         },
         "Chatbots": {
@@ -16642,6 +16707,31 @@
                     "ja": "パイプライン：多目的、UIに依存しないOpenAI互換のプラグインフレームワーク",
                     "zh-hans": "管道：多功能，与UI无关的OpenAI兼容插件框架",
                     "zh-hant": "管道：多功能、UI不可知的OpenAI兼容插件框架"
+                }
+            },
+            "https://github.com/ntegrals/aura-voice": {
+                "repository_name": "aura-voice",
+                "user_name": "ntegrals",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.",
+                "topics": [
+                    "artificial-intelligence",
+                    "elevenlabs",
+                    "gpt-3",
+                    "gpt-4",
+                    "langchain",
+                    "nextjs",
+                    "openai",
+                    "vercel",
+                    "whisper",
+                    "whisper-cpp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.",
+                    "ja": "AuraはSiriのようなものですが、ブラウザ内で動作します。低遅延応答に最適化されたAI音声アシスタントです。",
+                    "zh-hans": "Aura就像Siri一样，但是在你的浏览器中。一款专为低延迟响应优化的人工智能语音助手。",
+                    "zh-hant": "Aura就像Siri一樣，但在您的瀏覽器中。一個針對低延遲響應進行優化的人工智能語音助手。"
                 }
             }
         },
@@ -34232,6 +34322,71 @@
                     "ja": "Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）",
                     "zh-hans": "低语服务（带有排队的GUI和API，适用于OpenAI Whisper）",
                     "zh-hant": "悄悄話服務（具有OpenAI Whisper排隊的GUI和API）"
+                }
+            },
+            "https://github.com/coaidev/coai": {
+                "repository_name": "coai",
+                "user_name": "coaidev",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+                "topics": [
+                    "ai",
+                    "api",
+                    "api-gateway",
+                    "chat",
+                    "chatgpt",
+                    "cross-platform",
+                    "gemini",
+                    "golang",
+                    "openai",
+                    "proxy",
+                    "react"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型",
+                    "ja": "🚀 次世代AIワンストップ国際化ソリューション。🚀 下一代AI一站式B/C端解决方案，支持OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型",
+                    "zh-hans": "🚀 下一代 AI 一站式国际化解决方案。🚀 支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型。",
+                    "zh-hant": "🚀 下一代 AI 一站式國際化解決方案。🚀 支持 OpenAI，Midjourney，Claude，訊飛星火，穩定擴散，DALL·E，ChatGLM，通義千問，騰訊混元，360 智腦，百川 AI，火山方舟，新必應，Gemini，Moonshot 等模型，支持對話分享，自定義預設，雲端同步，模型市場，支持彈性計費和訂閱計劃模式，支持圖片解析，支持聯網搜索，支持模型。"
+                }
+            },
+            "https://github.com/othersideai/self-operating-computer": {
+                "repository_name": "self-operating-computer",
+                "user_name": "OthersideAI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A framework to enable multimodal models to operate a computer.",
+                "topics": [
+                    "automation",
+                    "openai",
+                    "pyautogui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A framework to enable multimodal models to operate a computer.",
+                    "ja": "コンピュータを操作するためのマルチモーダルモデルを可能にするフレームワーク",
+                    "zh-hans": "一个框架，使多模型能够操作计算机。",
+                    "zh-hant": "一個能夠讓多模型操作電腦的框架。"
+                }
+            },
+            "https://github.com/blinko-space/blinko": {
+                "repository_name": "blinko",
+                "user_name": "blinko-space",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .",
+                "topics": [
+                    "markdown",
+                    "memos",
+                    "nextjs",
+                    "notebook",
+                    "openai",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .",
+                    "ja": "オープンソースで、プライバシーを重視した、自己ホスト型の個人用ノートツール。TypeScriptを使用して構築されています。",
+                    "zh-hans": "一个开源的、自托管的个人笔记工具，注重隐私，使用TypeScript构建。",
+                    "zh-hant": "一個開源、自主託管的個人筆記工具，注重隱私，使用TypeScript構建。"
                 }
             }
         },

@@ -15,30 +15,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
- * [podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
- * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+**Prompts**
+ * [archgw](https://github.com/katanemo/archgw) - Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.
+ * [openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
 
 
 **Browser-extensions**
- * [pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
+ * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
 
 
-**CLIs**
- * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
+**Openai**
+ * [coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型
+ * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - A framework to enable multimodal models to operate a computer.
+ * [blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .
 
 
-**NLP**
- * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - Building AI agents, atomically
-
-
-**Langchain**
- * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered Markdown note taking app - Leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud
- * [search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
-
-
-_Updated on November 25, 2024_ (A total of 1886 repositories listed.)
+_Updated on November 28, 2024_ (A total of 1892 repositories listed.)
 
 ## Table of contents
 
@@ -281,6 +273,8 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
  * [lunary](https://github.com/lunary-ai/lunary) - The production toolkit for LLMs. Observability, prompt management and evaluations.
  * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
+ * [archgw](https://github.com/katanemo/archgw) - Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.
+ * [openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
 
 
 ## Chatbots
@@ -767,6 +761,7 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [Auto_Jobs_Applier_AI_Agent](https://github.com/aihawk-co/auto_jobs_applier_ai_agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
  * [pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
+ * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
 
 
 ## CLIs
@@ -1586,6 +1581,9 @@ _Updated on November 25, 2024_ (A total of 1886 repositories listed.)
  * [o1-engineer](https://github.com/doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planni
  * [simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.  Seamlessly integrate with OpenAI and compatible APIs using a single executable for quick setup and deployment.
  * [WAAS](https://github.com/schibsted/waas) - Whisper as a Service (GUI and API with queuing for OpenAI Whisper)
+ * [coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型
+ * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - A framework to enable multimodal models to operate a computer.
+ * [blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .
 
 
 ## Others
