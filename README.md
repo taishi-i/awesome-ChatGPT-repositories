@@ -15,22 +15,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [archgw](https://github.com/katanemo/archgw) - Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.
- * [openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
-
-
-**Browser-extensions**
- * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
+**Langchain**
+ * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
+ * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 
 
 **Openai**
- * [coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
- * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - A framework to enable multimodal models to operate a computer.
- * [blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .
+ * [vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 
 
-_Updated on November 28, 2024_ (A total of 1892 repositories listed.)
+_Updated on December 02, 2024_ (A total of 1895 repositories listed.)
 
 ## Table of contents
 
@@ -1365,6 +1359,8 @@ _Updated on November 28, 2024_ (A total of 1892 repositories listed.)
  * [sage](https://github.com/storia-ai/sage) - Chat with any codebase in under two minutes | Fully local or via third-party APIs
  * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered Markdown note taking app - Leverage vector embeddings and LLMs with your personal notes - 100% local or in the cloud
  * [search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
+ * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
+ * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 
 
 ## Unity
@@ -1584,6 +1580,7 @@ _Updated on November 28, 2024_ (A total of 1892 repositories listed.)
  * [coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
  * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - A framework to enable multimodal models to operate a computer.
  * [blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .
+ * [vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 
 
 ## Others

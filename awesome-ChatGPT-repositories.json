@@ -29783,6 +29783,62 @@
                     "zh-hans": "在线帮助您的LLMs",
                     "zh-hant": "在線幫助您的LLM們"
                 }
+            },
+            "https://github.com/cheahjs/free-llm-api-resources": {
+                "repository_name": "free-llm-api-resources",
+                "user_name": "cheahjs",
+                "language": "Python",
+                "license": null,
+                "description": "A list of free LLM inference resources accessible via API.",
+                "topics": [
+                    "ai",
+                    "claude",
+                    "gemini",
+                    "llama",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A list of free LLM inference resources accessible via API.",
+                    "ja": "APIを介してアクセス可能な無料のLLM推論リソースのリスト。",
+                    "zh-hans": "一份可通过API访问的免费LLM推理资源列表。",
+                    "zh-hant": "一個可以通過API訪問的免費LLM推理資源列表。"
+                }
+            },
+            "https://github.com/tensorzero/tensorzero": {
+                "repository_name": "tensorzero",
+                "user_name": "tensorzero",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+                "topics": [
+                    "ai",
+                    "ai-engineering",
+                    "anthropic",
+                    "artificial-intelligence",
+                    "deep-learning",
+                    "genai",
+                    "generative-ai",
+                    "gpt",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "llmops",
+                    "llms",
+                    "machine-learning",
+                    "ml",
+                    "ml-engineering",
+                    "mlops",
+                    "openai",
+                    "python",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.",
+                    "ja": "TensorZeroは、LLMアプリケーションを最適化するためのフィードバックループを作成し、生産データをよりスマートで速く、安価なモデルに変換します。",
+                    "zh-hans": "TensorZero为优化LLM应用程序创建了一个反馈循环-将生产数据转化为更智能、更快速、更便宜的模型。",
+                    "zh-hant": "TensorZero為LLM應用程式創建了一個反饋循環，將生產數據轉化為更智能、更快速、更便宜的模型。"
+                }
             }
         },
         "Unity": {
@@ -34387,6 +34443,28 @@
                     "ja": "オープンソースで、プライバシーを重視した、自己ホスト型の個人用ノートツール。TypeScriptを使用して構築されています。",
                     "zh-hans": "一个开源的、自托管的个人笔记工具，注重隐私，使用TypeScript构建。",
                     "zh-hant": "一個開源、自主託管的個人筆記工具，注重隱私，使用TypeScript構建。"
+                }
+            },
+            "https://github.com/thewh1teagle/vibe": {
+                "repository_name": "vibe",
+                "user_name": "thewh1teagle",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Transcribe on your own!",
+                "topics": [
+                    "ai",
+                    "cross-platform",
+                    "desktop",
+                    "openai",
+                    "rust",
+                    "transcribe",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Transcribe on your own!",
+                    "ja": "自分で書き写してください！",
+                    "zh-hans": "自己抄写！",
+                    "zh-hant": "請自行轉錄!"
                 }
             }
         },
