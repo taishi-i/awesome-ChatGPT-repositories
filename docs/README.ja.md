@@ -15,22 +15,16 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [archgw](https://github.com/katanemo/archgw) - Archはエージェント向けのインテリジェントなゲートウェイです。安全な処理、豊富な観測性、およびAPIとのシームレスな統合を実現するために、(高速な)LLMが使用されています - すべてはビジネスロジックの外側で行われます。Envoyプロキシのコアコントリビューターによって構築され、Envoy上で動作します。
- * [openlit](https://github.com/openlit/openlit) - AIエンジニアリングのためのオープンソースプラットフォーム：OpenTelemetryネイティブLLMオブザーバビリティ、GPUモニタリング、ガードレール、評価、プロンプト管理、ボールト、プレイグラウンド。🚀💻 40以上のLLMプロバイダー、VectorDB、エージェントフレームワーク、GPUと統合されています。
-
-
-**Browser-extensions**
- * [aura-voice](https://github.com/ntegrals/aura-voice) - AuraはSiriのようなものですが、ブラウザ内で動作します。低遅延応答に最適化されたAI音声アシスタントです。
+**Langchain**
+ * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - APIを介してアクセス可能な無料のLLM推論リソースのリスト。
+ * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZeroは、LLMアプリケーションを最適化するためのフィードバックループを作成し、生産データをよりスマートで速く、安価なモデルに変換します。
 
 
 **Openai**
- * [coai](https://github.com/coaidev/coai) - 🚀 次世代AIワンストップ国際化ソリューション。🚀 下一代AI一站式B/C端解决方案，支持OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型
- * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - コンピュータを操作するためのマルチモーダルモデルを可能にするフレームワーク
- * [blinko](https://github.com/blinko-space/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用ノートツール。TypeScriptを使用して構築されています。
+ * [vibe](https://github.com/thewh1teagle/vibe) - 自分で書き写してください！
 
 
-_Updated on November 28, 2024_ (A total of 1892 repositories listed.)
+_Updated on December 02, 2024_ (A total of 1895 repositories listed.)
 
 ## Table of contents
 
@@ -1365,6 +1359,8 @@ _Updated on November 28, 2024_ (A total of 1892 repositories listed.)
  * [sage](https://github.com/storia-ai/sage) - 2分以内で任意のコードベースとチャット | 完全にローカルまたはサードパーティのAPIを介して
  * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AIパワードのMarkdownノートアプリ - ベクトル埋め込みとLLMsを活用して個人のノートを作成 - 100％ローカルまたはクラウド上
  * [search2ai](https://github.com/fatwang2/search2ai) - オンラインでLLMの手助けをしてください。
+ * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - APIを介してアクセス可能な無料のLLM推論リソースのリスト。
+ * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZeroは、LLMアプリケーションを最適化するためのフィードバックループを作成し、生産データをよりスマートで速く、安価なモデルに変換します。
 
 
 ## Unity
@@ -1584,6 +1580,7 @@ _Updated on November 28, 2024_ (A total of 1892 repositories listed.)
  * [coai](https://github.com/coaidev/coai) - 🚀 次世代AIワンストップ国際化ソリューション。🚀 下一代AI一站式B/C端解决方案，支持OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型
  * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - コンピュータを操作するためのマルチモーダルモデルを可能にするフレームワーク
  * [blinko](https://github.com/blinko-space/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用ノートツール。TypeScriptを使用して構築されています。
+ * [vibe](https://github.com/thewh1teagle/vibe) - 自分で書き写してください！
 
 
 ## Others

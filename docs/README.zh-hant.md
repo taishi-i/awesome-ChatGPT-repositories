@@ -15,22 +15,16 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [archgw](https://github.com/katanemo/archgw) - Arch是代理人的智能閘道。使用（快速）LLM進行工程設計，以安全處理、豐富的可觀察性和無縫集成提示與您的API - 所有這些都在業務邏輯之外。由Envoy代理的核心貢獻者在Envoy上構建。
- * [openlit](https://github.com/openlit/openlit) - 開源平台為AI工程：OpenTelemetry-native LLM可觀測性，GPU監控，防護欄，評估，提示管理，金庫，遊樂場。🚀💻與40多個LLM提供商，VectorDBs，代理框架和GPU集成。
-
-
-**Browser-extensions**
- * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura就像Siri一樣，但在您的瀏覽器中。一個針對低延遲響應進行優化的人工智能語音助手。
+**Langchain**
+ * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 一個可以通過API訪問的免費LLM推理資源列表。
+ * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero為LLM應用程式創建了一個反饋循環，將生產數據轉化為更智能、更快速、更便宜的模型。
 
 
 **Openai**
- * [coai](https://github.com/coaidev/coai) - 🚀 下一代 AI 一站式國際化解決方案。🚀 支持 OpenAI，Midjourney，Claude，訊飛星火，穩定擴散，DALL·E，ChatGLM，通義千問，騰訊混元，360 智腦，百川 AI，火山方舟，新必應，Gemini，Moonshot 等模型，支持對話分享，自定義預設，雲端同步，模型市場，支持彈性計費和訂閱計劃模式，支持圖片解析，支持聯網搜索，支持模型。
- * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - 一個能夠讓多模型操作電腦的框架。
- * [blinko](https://github.com/blinko-space/blinko) - 一個開源、自主託管的個人筆記工具，注重隱私，使用TypeScript構建。
+ * [vibe](https://github.com/thewh1teagle/vibe) - 請自行轉錄!
 
 
-_Updated on November 28, 2024_ (A total of 1892 repositories listed.)
+_Updated on December 02, 2024_ (A total of 1895 repositories listed.)
 
 ## Table of contents
 
@@ -1365,6 +1359,8 @@ _Updated on November 28, 2024_ (A total of 1892 repositories listed.)
  * [sage](https://github.com/storia-ai/sage) - 在不到兩分鐘內與任何程式碼庫進行聊天 | 完全本地或通過第三方API進行
  * [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI 助力的 Markdown 筆記應用程式 - 利用向量嵌入和 LLMs 與您的個人筆記 - 100% 本地或在雲端
  * [search2ai](https://github.com/fatwang2/search2ai) - 在線幫助您的LLM們
+ * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 一個可以通過API訪問的免費LLM推理資源列表。
+ * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero為LLM應用程式創建了一個反饋循環，將生產數據轉化為更智能、更快速、更便宜的模型。
 
 
 ## Unity
@@ -1584,6 +1580,7 @@ _Updated on November 28, 2024_ (A total of 1892 repositories listed.)
  * [coai](https://github.com/coaidev/coai) - 🚀 下一代 AI 一站式國際化解決方案。🚀 支持 OpenAI，Midjourney，Claude，訊飛星火，穩定擴散，DALL·E，ChatGLM，通義千問，騰訊混元，360 智腦，百川 AI，火山方舟，新必應，Gemini，Moonshot 等模型，支持對話分享，自定義預設，雲端同步，模型市場，支持彈性計費和訂閱計劃模式，支持圖片解析，支持聯網搜索，支持模型。
  * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - 一個能夠讓多模型操作電腦的框架。
  * [blinko](https://github.com/blinko-space/blinko) - 一個開源、自主託管的個人筆記工具，注重隱私，使用TypeScript構建。
+ * [vibe](https://github.com/thewh1teagle/vibe) - 請自行轉錄!
 
 
 ## Others
