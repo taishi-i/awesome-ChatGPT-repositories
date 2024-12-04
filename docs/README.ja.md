@@ -15,16 +15,22 @@
 
 ## The latest additions 🎉
 
-**Langchain**
- * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - APIを介してアクセス可能な無料のLLM推論リソースのリスト。
- * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZeroは、LLMアプリケーションを最適化するためのフィードバックループを作成し、生産データをよりスマートで速く、安価なモデルに変換します。
+**Chatbots**
+ * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistantのカスタムコンポーネントで会話エージェントを使用します。OpenAIを使用してデバイスを制御します。
+ * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、およびLangGraphを活用し、このツールは仮説の生成、データ分析、可視化、およびレポート作成を効率化します。完璧
+
+
+**Browser-extensions**
+ * [claude-coder](https://github.com/kodu-ai/claude-coder) - Koduは、あなたのIDEに住む自律型のコーディングエージェントです。これは、最新の技術を活用して、ステップバイステップであなたの夢のプロジェクトを構築するのに役立つVSCode拡張機能です。
 
 
 **Openai**
- * [vibe](https://github.com/thewh1teagle/vibe) - 自分で書き写してください！
+ * [auto-subs](https://github.com/tmoroney/auto-subs) - AIを使用してDavinci Resolveで字幕を生成し、スピーカーを日記化します。
+ * [BaseAI](https://github.com/langbaseinc/baseai) - Input: BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.Output: BaseAI — ウェブAIフレームワーク。メモリを持つサーバーレスな自律型AIエージェントを構築する最も簡単な方法。ローカルファースト、エージェントパイプ、ツール、メモリを構築し始めましょう。1つのコマンドでサーバーレスに展開します。
+ * [vector-vein](https://github.com/andersonby/vector-vein) - ノーコードAIワークフロー。ワークフローノードをドラッグアンドドロップして、AIエージェントと共にワークフローを使用します。
 
 
-_Updated on December 02, 2024_ (A total of 1895 repositories listed.)
+_Updated on December 05, 2024_ (A total of 1901 repositories listed.)
 
 ## Table of contents
 
@@ -550,6 +556,8 @@ _Updated on December 02, 2024_ (A total of 1895 repositories listed.)
  * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - AWS CDKを使用して、Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistralを活用したMulti-LLMおよびMulti-RAG搭載のチャットボットを展開するためのモジュラーで包括的なソリューション。
  * [podcastfy](https://github.com/souzatharsis/podcastfy) - NotebookLMのポッドキャスト機能のオープンソースPython代替品：GenAIを使用して、多言語オーディオ会話に変換する魅力的なマルチモーダルコンテンツ
  * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
+ * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistantのカスタムコンポーネントで会話エージェントを使用します。OpenAIを使用してデバイスを制御します。
+ * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、およびLangGraphを活用し、このツールは仮説の生成、データ分析、可視化、およびレポート作成を効率化します。完璧
 
 
 ## Browser-extensions
@@ -756,6 +764,7 @@ _Updated on December 02, 2024_ (A total of 1895 repositories listed.)
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - これは、コマンドラインでOpenAIのCodex AIを使用できるようにするZSHプラグインです。
  * [pipelines](https://github.com/open-webui/pipelines) - パイプライン：多目的、UIに依存しないOpenAI互換のプラグインフレームワーク
  * [aura-voice](https://github.com/ntegrals/aura-voice) - AuraはSiriのようなものですが、ブラウザ内で動作します。低遅延応答に最適化されたAI音声アシスタントです。
+ * [claude-coder](https://github.com/kodu-ai/claude-coder) - Koduは、あなたのIDEに住む自律型のコーディングエージェントです。これは、最新の技術を活用して、ステップバイステップであなたの夢のプロジェクトを構築するのに役立つVSCode拡張機能です。
 
 
 ## CLIs
@@ -1581,6 +1590,9 @@ _Updated on December 02, 2024_ (A total of 1895 repositories listed.)
  * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - コンピュータを操作するためのマルチモーダルモデルを可能にするフレームワーク
  * [blinko](https://github.com/blinko-space/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用ノートツール。TypeScriptを使用して構築されています。
  * [vibe](https://github.com/thewh1teagle/vibe) - 自分で書き写してください！
+ * [auto-subs](https://github.com/tmoroney/auto-subs) - AIを使用してDavinci Resolveで字幕を生成し、スピーカーを日記化します。
+ * [BaseAI](https://github.com/langbaseinc/baseai) - Input: BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.Output: BaseAI — ウェブAIフレームワーク。メモリを持つサーバーレスな自律型AIエージェントを構築する最も簡単な方法。ローカルファースト、エージェントパイプ、ツール、メモリを構築し始めましょう。1つのコマンドでサーバーレスに展開します。
+ * [vector-vein](https://github.com/andersonby/vector-vein) - ノーコードAIワークフロー。ワークフローノードをドラッグアンドドロップして、AIエージェントと共にワークフローを使用します。
 
 
 ## Others
