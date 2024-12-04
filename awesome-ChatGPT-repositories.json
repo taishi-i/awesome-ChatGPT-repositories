@@ -12081,6 +12081,54 @@
                     "zh-hans": "灵活而强大的框架，用于管理多个AI代理并处理复杂对话。",
                     "zh-hant": "靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。"
                 }
+            },
+            "https://github.com/jekalmin/extended_openai_conversation": {
+                "repository_name": "extended_openai_conversation",
+                "user_name": "jekalmin",
+                "language": "Python",
+                "license": null,
+                "description": "Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.",
+                "topics": [
+                    "conversation",
+                    "custom-component",
+                    "homeassistant"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.",
+                    "ja": "Home Assistantのカスタムコンポーネントで会話エージェントを使用します。OpenAIを使用してデバイスを制御します。",
+                    "zh-hans": "家庭助手的自定义组件对话代理。它使用OpenAI来控制您的设备。",
+                    "zh-hant": "Home Assistant的自定義組件對話代理。它使用OpenAI來控制您的設備。Home Assistant的自定義組件對話代理。它使用OpenAI來控制您的設備。"
+                }
+            },
+            "https://github.com/starpig1129/ai-data-analysis-multiagent": {
+                "repository_name": "AI-Data-Analysis-MultiAgent",
+                "user_name": "starpig1129",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect for researchers and data scientists seeking to enhance their workflow and productivity.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-data-analysis",
+                    "artificial-intelligence",
+                    "code-generation",
+                    "data-analysis",
+                    "data-analytics",
+                    "data-science",
+                    "langchain",
+                    "langgraph",
+                    "large-language-model",
+                    "large-language-models",
+                    "llm",
+                    "multiagent-systems",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect",
+                    "ja": "AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、およびLangGraphを活用し、このツールは仮説の生成、データ分析、可視化、およびレポート作成を効率化します。完璧",
+                    "zh-hans": "AI驱动的研究助手：一种用于自动化复杂研究过程的先进多代理系统。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美",
+                    "zh-hant": "AI驅動的研究助理：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。"
+                }
             }
         },
         "Browser-extensions": {
@@ -16732,6 +16780,28 @@
                     "ja": "AuraはSiriのようなものですが、ブラウザ内で動作します。低遅延応答に最適化されたAI音声アシスタントです。",
                     "zh-hans": "Aura就像Siri一样，但是在你的浏览器中。一款专为低延迟响应优化的人工智能语音助手。",
                     "zh-hant": "Aura就像Siri一樣，但在您的瀏覽器中。一個針對低延遲響應進行優化的人工智能語音助手。"
+                }
+            },
+            "https://github.com/kodu-ai/claude-coder": {
+                "repository_name": "claude-coder",
+                "user_name": "kodu-ai",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents ",
+                "topics": [
+                    "chatgpt",
+                    "claude",
+                    "coding-agents",
+                    "llm",
+                    "openai",
+                    "vscode",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents",
+                    "ja": "Koduは、あなたのIDEに住む自律型のコーディングエージェントです。これは、最新の技術を活用して、ステップバイステップであなたの夢のプロジェクトを構築するのに役立つVSCode拡張機能です。",
+                    "zh-hans": "Kodu是一个自主编码代理，它生活在您的IDE中。它是一个VSCode扩展，可以帮助您利用最新技术逐步构建您的梦想项目。",
+                    "zh-hant": "Kodu 是一個自主編碼代理，它存在於您的IDE中。這是一個 VSCode 擴展，可以幫助您利用最新技術中的自動編碼代理逐步構建您的夢想項目。"
                 }
             }
         },
@@ -34465,6 +34535,84 @@
                     "ja": "自分で書き写してください！",
                     "zh-hans": "自己抄写！",
                     "zh-hant": "請自行轉錄!"
+                }
+            },
+            "https://github.com/tmoroney/auto-subs": {
+                "repository_name": "auto-subs",
+                "user_name": "tmoroney",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.",
+                "topics": [
+                    "ai",
+                    "davinci",
+                    "davinci-19",
+                    "davinci-resolve",
+                    "diarize",
+                    "openai",
+                    "pyannote",
+                    "resolve",
+                    "speaker",
+                    "speech-to-text",
+                    "subtitles",
+                    "subtitles-generator",
+                    "transcribe",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.",
+                    "ja": "AIを使用してDavinci Resolveで字幕を生成し、スピーカーを日記化します。",
+                    "zh-hans": "使用人工智能在Davinci Resolve生成字幕并记录发言者。",
+                    "zh-hant": "在Davinci Resolve中使用人工智能生成字幕和記錄演講者。"
+                }
+            },
+            "https://github.com/langbaseinc/baseai": {
+                "repository_name": "BaseAI",
+                "user_name": "LangbaseInc",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "artificial-intelligence",
+                    "baseai",
+                    "cohere",
+                    "firewor",
+                    "gemini",
+                    "grok",
+                    "groq",
+                    "langbase",
+                    "mistral",
+                    "openai",
+                    "perplexity",
+                    "togetherai",
+                    "xai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.",
+                    "ja": "Input: BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.Output: BaseAI — ウェブAIフレームワーク。メモリを持つサーバーレスな自律型AIエージェントを構築する最も簡単な方法。ローカルファースト、エージェントパイプ、ツール、メモリを構築し始めましょう。1つのコマンドでサーバーレスに展開します。",
+                    "zh-hans": "BaseAI — 网络AI框架。构建无服务器自主AI代理的最简单方法，具有记忆功能。开始构建本地优先、代理管道、工具和记忆。只需一个命令即可部署无服务器。",
+                    "zh-hant": "BaseAI — 網絡AI框架。建立無伺服器自主AI代理的最簡單方法，具有記憶功能。開始建立本地優先、代理管道、工具和記憶。只需一個命令即可部署無伺服器。"
+                }
+            },
+            "https://github.com/andersonby/vector-vein": {
+                "repository_name": "vector-vein",
+                "user_name": "AndersonBY",
+                "language": "Vue",
+                "license": "Other",
+                "description": "No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.",
+                "topics": [
+                    "ai",
+                    "openai",
+                    "python",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.",
+                    "ja": "ノーコードAIワークフロー。ワークフローノードをドラッグアンドドロップして、AIエージェントと共にワークフローを使用します。",
+                    "zh-hans": "无代码AI工作流。拖放工作流节点并使用您的AI代理与您的工作流一起工作。",
+                    "zh-hant": "無代碼AI工作流程。拖放工作流節點，並與您的AI代理一起使用您的工作流程。"
                 }
             }
         },

@@ -15,16 +15,22 @@
 
 ## The latest additions 🎉
 
-**Langchain**
- * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 一個可以通過API訪問的免費LLM推理資源列表。
- * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero為LLM應用程式創建了一個反饋循環，將生產數據轉化為更智能、更快速、更便宜的模型。
+**Chatbots**
+ * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant的自定義組件對話代理。它使用OpenAI來控制您的設備。Home Assistant的自定義組件對話代理。它使用OpenAI來控制您的設備。
+ * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI驅動的研究助理：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。
+
+
+**Browser-extensions**
+ * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu 是一個自主編碼代理，它存在於您的IDE中。這是一個 VSCode 擴展，可以幫助您利用最新技術中的自動編碼代理逐步構建您的夢想項目。
 
 
 **Openai**
- * [vibe](https://github.com/thewh1teagle/vibe) - 請自行轉錄!
+ * [auto-subs](https://github.com/tmoroney/auto-subs) - 在Davinci Resolve中使用人工智能生成字幕和記錄演講者。
+ * [BaseAI](https://github.com/langbaseinc/baseai) - BaseAI — 網絡AI框架。建立無伺服器自主AI代理的最簡單方法，具有記憶功能。開始建立本地優先、代理管道、工具和記憶。只需一個命令即可部署無伺服器。
+ * [vector-vein](https://github.com/andersonby/vector-vein) - 無代碼AI工作流程。拖放工作流節點，並與您的AI代理一起使用您的工作流程。
 
 
-_Updated on December 02, 2024_ (A total of 1895 repositories listed.)
+_Updated on December 05, 2024_ (A total of 1901 repositories listed.)
 
 ## Table of contents
 
@@ -550,6 +556,8 @@ _Updated on December 02, 2024_ (A total of 1895 repositories listed.)
  * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - 一個模塊化和全面的解決方案，可部署一個由多個LLM和多個RAG驅動的聊天機器人（Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistral），並使用AWS CDK在AWS上運行。
  * [podcastfy](https://github.com/souzatharsis/podcastfy) - 一個開源的Python替代方案，用於NotebookLM的播客功能：將多模式內容轉換為引人入勝的多語音頻對話，與GenAI一起。
  * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。
+ * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant的自定義組件對話代理。它使用OpenAI來控制您的設備。Home Assistant的自定義組件對話代理。它使用OpenAI來控制您的設備。
+ * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI驅動的研究助理：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。
 
 
 ## Browser-extensions
@@ -756,6 +764,7 @@ _Updated on December 02, 2024_ (A total of 1895 repositories listed.)
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - 這是一個 ZSH 插件，可以讓您在命令行中使用 OpenAI 的 Codex AI。
  * [pipelines](https://github.com/open-webui/pipelines) - 管道：多功能、UI不可知的OpenAI兼容插件框架
  * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura就像Siri一樣，但在您的瀏覽器中。一個針對低延遲響應進行優化的人工智能語音助手。
+ * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu 是一個自主編碼代理，它存在於您的IDE中。這是一個 VSCode 擴展，可以幫助您利用最新技術中的自動編碼代理逐步構建您的夢想項目。
 
 
 ## CLIs
@@ -1581,6 +1590,9 @@ _Updated on December 02, 2024_ (A total of 1895 repositories listed.)
  * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - 一個能夠讓多模型操作電腦的框架。
  * [blinko](https://github.com/blinko-space/blinko) - 一個開源、自主託管的個人筆記工具，注重隱私，使用TypeScript構建。
  * [vibe](https://github.com/thewh1teagle/vibe) - 請自行轉錄!
+ * [auto-subs](https://github.com/tmoroney/auto-subs) - 在Davinci Resolve中使用人工智能生成字幕和記錄演講者。
+ * [BaseAI](https://github.com/langbaseinc/baseai) - BaseAI — 網絡AI框架。建立無伺服器自主AI代理的最簡單方法，具有記憶功能。開始建立本地優先、代理管道、工具和記憶。只需一個命令即可部署無伺服器。
+ * [vector-vein](https://github.com/andersonby/vector-vein) - 無代碼AI工作流程。拖放工作流節點，並與您的AI代理一起使用您的工作流程。
 
 
 ## Others

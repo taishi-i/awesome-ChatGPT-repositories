@@ -15,16 +15,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Langchain**
- * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
- * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+**Chatbots**
+ * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
+ * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect for researchers and data scientists seeking to enhance their workflow and productivity.
+
+
+**Browser-extensions**
+ * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents
 
 
 **Openai**
- * [vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
+ * [auto-subs](https://github.com/tmoroney/auto-subs) - Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.
+ * [BaseAI](https://github.com/langbaseinc/baseai) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
+ * [vector-vein](https://github.com/andersonby/vector-vein) - No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.
 
 
-_Updated on December 02, 2024_ (A total of 1895 repositories listed.)
+_Updated on December 05, 2024_ (A total of 1901 repositories listed.)
 
 ## Table of contents
 
@@ -550,6 +556,8 @@ _Updated on December 02, 2024_ (A total of 1895 repositories listed.)
  * [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS
  * [podcastfy](https://github.com/souzatharsis/podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
  * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+ * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
+ * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect for researchers and data scientists seeking to enhance their workflow and productivity.
 
 
 ## Browser-extensions
@@ -756,6 +764,7 @@ _Updated on December 02, 2024_ (A total of 1895 repositories listed.)
  * [zsh_codex](https://github.com/tom-doerr/zsh_codex) - This is a ZSH plugin that enables you to use OpenAI's Codex AI in the command line.
  * [pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
  * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
+ * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents
 
 
 ## CLIs
@@ -1581,6 +1590,9 @@ _Updated on December 02, 2024_ (A total of 1895 repositories listed.)
  * [self-operating-computer](https://github.com/othersideai/self-operating-computer) - A framework to enable multimodal models to operate a computer.
  * [blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .
  * [vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
+ * [auto-subs](https://github.com/tmoroney/auto-subs) - Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.
+ * [BaseAI](https://github.com/langbaseinc/baseai) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
+ * [vector-vein](https://github.com/andersonby/vector-vein) - No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.
 
 
 ## Others
