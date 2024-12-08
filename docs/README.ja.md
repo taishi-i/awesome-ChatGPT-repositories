@@ -15,22 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistantのカスタムコンポーネントで会話エージェントを使用します。OpenAIを使用してデバイスを制御します。
- * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、およびLangGraphを活用し、このツールは仮説の生成、データ分析、可視化、およびレポート作成を効率化します。完璧
+**NLP**
+ * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒エンタープライズグレードのAPIゲートウェイは、APIキーごとにコストやレート制限を監視および課すのに役立ちます。ユーザー、アプリケーション、または環境ごとに細かいアクセス制御と監視を取得します。OpenAI、Azure OpenAI、Anthropic、vLLM、およびオープンソースのLLMをサポートしています。
 
 
-**Browser-extensions**
- * [claude-coder](https://github.com/kodu-ai/claude-coder) - Koduは、あなたのIDEに住む自律型のコーディングエージェントです。これは、最新の技術を活用して、ステップバイステップであなたの夢のプロジェクトを構築するのに役立つVSCode拡張機能です。
+**Langchain**
+ * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法
 
 
 **Openai**
- * [auto-subs](https://github.com/tmoroney/auto-subs) - AIを使用してDavinci Resolveで字幕を生成し、スピーカーを日記化します。
- * [BaseAI](https://github.com/langbaseinc/baseai) - Input: BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.Output: BaseAI — ウェブAIフレームワーク。メモリを持つサーバーレスな自律型AIエージェントを構築する最も簡単な方法。ローカルファースト、エージェントパイプ、ツール、メモリを構築し始めましょう。1つのコマンドでサーバーレスに展開します。
- * [vector-vein](https://github.com/andersonby/vector-vein) - ノーコードAIワークフロー。ワークフローノードをドラッグアンドドロップして、AIエージェントと共にワークフローを使用します。
+ * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - PySide6を使用したfaster_whisper GUI
+ * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIParkは、#1のオープンソースAIゲートウェイおよび開発者ポータルであり、AIやAPIサービスを簡単に管理、統合、展開できるようにします。APIParkはさまざまな大規模なAIモデルとシームレスに接続し、これらのAI機能をAPIにパッケージ化して簡単に呼び出すことができます。
 
 
-_Updated on December 05, 2024_ (A total of 1901 repositories listed.)
+_Updated on December 09, 2024_ (A total of 1905 repositories listed.)
 
 ## Table of contents
 
@@ -1253,6 +1251,7 @@ _Updated on December 05, 2024_ (A total of 1901 repositories listed.)
  * [ax](https://github.com/ax-llm/ax) - 非公式のDSPyフレームワーク。Stanford DSP論文に基づいたLLMパワードエージェントと「エージェンティックワークフロー」を構築します。
  * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python＆JS / TS SDKを使用して、AI生成コード/コード解釈を実行するためのAIアプリを作成します。
  * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - AIエージェントを原子的に構築します。
+ * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒エンタープライズグレードのAPIゲートウェイは、APIキーごとにコストやレート制限を監視および課すのに役立ちます。ユーザー、アプリケーション、または環境ごとに細かいアクセス制御と監視を取得します。OpenAI、Azure OpenAI、Anthropic、vLLM、およびオープンソースのLLMをサポートしています。
 
 
 ## Langchain
@@ -1370,6 +1369,7 @@ _Updated on December 05, 2024_ (A total of 1901 repositories listed.)
  * [search2ai](https://github.com/fatwang2/search2ai) - オンラインでLLMの手助けをしてください。
  * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - APIを介してアクセス可能な無料のLLM推論リソースのリスト。
  * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZeroは、LLMアプリケーションを最適化するためのフィードバックループを作成し、生産データをよりスマートで速く、安価なモデルに変換します。
+ * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法
 
 
 ## Unity
@@ -1593,6 +1593,8 @@ _Updated on December 05, 2024_ (A total of 1901 repositories listed.)
  * [auto-subs](https://github.com/tmoroney/auto-subs) - AIを使用してDavinci Resolveで字幕を生成し、スピーカーを日記化します。
  * [BaseAI](https://github.com/langbaseinc/baseai) - Input: BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.Output: BaseAI — ウェブAIフレームワーク。メモリを持つサーバーレスな自律型AIエージェントを構築する最も簡単な方法。ローカルファースト、エージェントパイプ、ツール、メモリを構築し始めましょう。1つのコマンドでサーバーレスに展開します。
  * [vector-vein](https://github.com/andersonby/vector-vein) - ノーコードAIワークフロー。ワークフローノードをドラッグアンドドロップして、AIエージェントと共にワークフローを使用します。
+ * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - PySide6を使用したfaster_whisper GUI
+ * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIParkは、#1のオープンソースAIゲートウェイおよび開発者ポータルであり、AIやAPIサービスを簡単に管理、統合、展開できるようにします。APIParkはさまざまな大規模なAIモデルとシームレスに接続し、これらのAI機能をAPIにパッケージ化して簡単に呼び出すことができます。
 
 
 ## Others
