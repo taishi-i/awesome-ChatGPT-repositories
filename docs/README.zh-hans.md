@@ -15,22 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - 家庭助手的自定义组件对话代理。它使用OpenAI来控制您的设备。
- * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI驱动的研究助手：一种用于自动化复杂研究过程的先进多代理系统。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美
+**NLP**
+ * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 企业级API网关，可帮助您监控并根据API密钥强制成本或速率限制。获得对每个用户、应用程序或环境的细粒度访问控制和监控。支持OpenAI、Azure OpenAI、Anthropic、vLLM和开源LLMs。
 
 
-**Browser-extensions**
- * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu是一个自主编码代理，它生活在您的IDE中。它是一个VSCode扩展，可以帮助您利用最新技术逐步构建您的梦想项目。
+**Langchain**
+ * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain为Rust提供了最简单的方式来编写基于LLM的程序
 
 
 **Openai**
- * [auto-subs](https://github.com/tmoroney/auto-subs) - 使用人工智能在Davinci Resolve生成字幕并记录发言者。
- * [BaseAI](https://github.com/langbaseinc/baseai) - BaseAI — 网络AI框架。构建无服务器自主AI代理的最简单方法，具有记忆功能。开始构建本地优先、代理管道、工具和记忆。只需一个命令即可部署无服务器。
- * [vector-vein](https://github.com/andersonby/vector-vein) - 无代码AI工作流。拖放工作流节点并使用您的AI代理与您的工作流一起工作。
+ * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - 使用PySide6的faster_whisper GUI
+ * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark是#1开源AI网关和开发者门户，让您轻松管理、集成和部署AI和API服务。APIPark与各种大型AI模型无缝连接，并将这些AI能力打包成API，方便调用。
 
 
-_Updated on December 05, 2024_ (A total of 1901 repositories listed.)
+_Updated on December 09, 2024_ (A total of 1905 repositories listed.)
 
 ## Table of contents
 
@@ -1253,6 +1251,7 @@ _Updated on December 05, 2024_ (A total of 1901 repositories listed.)
  * [ax](https://github.com/ax-llm/ax) - 非官方DSPy框架。基于斯坦福DSP论文构建由LLM驱动的代理和“代理工作流”。
  * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python和JS/TS SDK用于在您的AI应用程序中运行AI生成的代码/代码解释。
  * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - 构建AI代理，原子化
+ * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 企业级API网关，可帮助您监控并根据API密钥强制成本或速率限制。获得对每个用户、应用程序或环境的细粒度访问控制和监控。支持OpenAI、Azure OpenAI、Anthropic、vLLM和开源LLMs。
 
 
 ## Langchain
@@ -1370,6 +1369,7 @@ _Updated on December 05, 2024_ (A total of 1901 repositories listed.)
  * [search2ai](https://github.com/fatwang2/search2ai) - 在线帮助您的LLMs
  * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 一份可通过API访问的免费LLM推理资源列表。
  * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero为优化LLM应用程序创建了一个反馈循环-将生产数据转化为更智能、更快速、更便宜的模型。
+ * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain为Rust提供了最简单的方式来编写基于LLM的程序
 
 
 ## Unity
@@ -1593,6 +1593,8 @@ _Updated on December 05, 2024_ (A total of 1901 repositories listed.)
  * [auto-subs](https://github.com/tmoroney/auto-subs) - 使用人工智能在Davinci Resolve生成字幕并记录发言者。
  * [BaseAI](https://github.com/langbaseinc/baseai) - BaseAI — 网络AI框架。构建无服务器自主AI代理的最简单方法，具有记忆功能。开始构建本地优先、代理管道、工具和记忆。只需一个命令即可部署无服务器。
  * [vector-vein](https://github.com/andersonby/vector-vein) - 无代码AI工作流。拖放工作流节点并使用您的AI代理与您的工作流一起工作。
+ * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - 使用PySide6的faster_whisper GUI
+ * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark是#1开源AI网关和开发者门户，让您轻松管理、集成和部署AI和API服务。APIPark与各种大型AI模型无缝连接，并将这些AI能力打包成API，方便调用。
 
 
 ## Others

@@ -15,22 +15,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
- * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect
+**NLP**
+ * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs.
 
 
-**Browser-extensions**
- * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents
+**Langchain**
+ * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust
 
 
 **Openai**
- * [auto-subs](https://github.com/tmoroney/auto-subs) - Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.
- * [BaseAI](https://github.com/langbaseinc/baseai) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
- * [vector-vein](https://github.com/andersonby/vector-vein) - No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.
+ * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - faster_whisper GUI with PySide6
+ * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and packages these AI capabilities into APIs for easy invocat
 
 
-_Updated on December 05, 2024_ (A total of 1901 repositories listed.)
+_Updated on December 09, 2024_ (A total of 1905 repositories listed.)
 
 ## Table of contents
 
@@ -1253,6 +1251,7 @@ _Updated on December 05, 2024_ (A total of 1901 repositories listed.)
  * [ax](https://github.com/ax-llm/ax) - The unofficial DSPy framework. Build LLM powered Agents and "Agentic workflows" based on the Stanford DSP paper.
  * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
  * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - Building AI agents, atomically
+ * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs.
 
 
 ## Langchain
@@ -1370,6 +1369,7 @@ _Updated on December 05, 2024_ (A total of 1901 repositories listed.)
  * [search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
  * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
  * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+ * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust
 
 
 ## Unity
@@ -1593,6 +1593,8 @@ _Updated on December 05, 2024_ (A total of 1901 repositories listed.)
  * [auto-subs](https://github.com/tmoroney/auto-subs) - Generate Subtitles & Diarize Speakers in Davinci Resolve using AI.
  * [BaseAI](https://github.com/langbaseinc/baseai) - BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.
  * [vector-vein](https://github.com/andersonby/vector-vein) - No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.
+ * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - faster_whisper GUI with PySide6
+ * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and packages these AI capabilities into APIs for easy invocat
 
 
 ## Others
