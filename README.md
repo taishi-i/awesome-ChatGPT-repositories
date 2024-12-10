@@ -2008,5 +2008,4 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [ChatALL](https://github.com/ai-shifu/chatall) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - CMake integration in Visual Studio Code
-
-
+ * [Opik](https://github.com/comet-ml/opik) - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ![GitHub Badge](https://img.shields.io/github/stars/comet-ml/opik.svg?style=flat-square)
