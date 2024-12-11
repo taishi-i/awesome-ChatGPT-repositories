@@ -15,20 +15,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
+
+
 **NLP**
- * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs.
+ * [nerve](https://github.com/evilsocket/nerve) - Create LLM agents without writing code.
+ * [OpenAdapt](https://github.com/openadaptai/openadapt) - Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
+ * [opik](https://github.com/comet-ml/opik/) - Open-source end-to-end LLM Development Platform
 
 
 **Langchain**
- * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust
+ * [llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
+ * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - High quality resources & applications for LLMs, multi-modal models and VectorDBs
 
 
-**Openai**
- * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - faster_whisper GUI with PySide6
- * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and packages these AI capabilities into APIs for easy invocat
+**Others**
+ * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 
 
-_Updated on December 09, 2024_ (A total of 1905 repositories listed.)
+_Updated on December 12, 2024_ (A total of 1913 repositories listed.)
 
 ## Table of contents
 
@@ -556,6 +562,7 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
  * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect
+ * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
 
 
 ## Browser-extensions
@@ -1252,6 +1259,9 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app
  * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - Building AI agents, atomically
  * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained access control and monitoring per user, application, or environment. Supports OpenAI, Azure OpenAI, Anthropic, vLLM, and open-source LLMs.
+ * [nerve](https://github.com/evilsocket/nerve) - Create LLM agents without writing code.
+ * [OpenAdapt](https://github.com/openadaptai/openadapt) - Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
+ * [opik](https://github.com/comet-ml/opik/) - Open-source end-to-end LLM Development Platform
 
 
 ## Langchain
@@ -1370,6 +1380,8 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - A list of free LLM inference resources accessible via API.
  * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
  * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust
+ * [llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
+ * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - High quality resources & applications for LLMs, multi-modal models and VectorDBs
 
 
 ## Unity
@@ -2008,5 +2020,6 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [ChatALL](https://github.com/ai-shifu/chatall) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - CMake integration in Visual Studio Code
+ * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 
 

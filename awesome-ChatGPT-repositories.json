@@ -12129,6 +12129,41 @@
                     "zh-hans": "AI驱动的研究助手：一种用于自动化复杂研究过程的先进多代理系统。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美",
                     "zh-hant": "AI驅動的研究助理：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。"
                 }
+            },
+            "https://github.com/lord-alfred/ipranges": {
+                "repository_name": "ipranges",
+                "user_name": "lord-alfred",
+                "language": "Shell",
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.",
+                "topics": [
+                    "amazon-aws",
+                    "azure",
+                    "bing",
+                    "bingbot",
+                    "bug-bounty",
+                    "bugbounty",
+                    "cidr",
+                    "cidr-ranges",
+                    "digitalocean",
+                    "facebook",
+                    "google-cloud",
+                    "googlebot",
+                    "ip-ranges",
+                    "iplist",
+                    "microsoft",
+                    "network-security",
+                    "oracle",
+                    "osint",
+                    "pentesting",
+                    "twitter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.",
+                    "ja": "🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。",
+                    "zh-hans": "🔨列出以下所有IP范围：Google（云和GoogleBot）、必应（Bingbot）、亚马逊（AWS）、微软、甲骨文（云）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他，并每日更新。",
+                    "zh-hant": "🔨列出來自Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他每日更新的IP範圍。"
+                }
             }
         },
         "Browser-extensions": {
@@ -27247,6 +27282,78 @@
                     "zh-hans": "🔒 企业级API网关，可帮助您监控并根据API密钥强制成本或速率限制。获得对每个用户、应用程序或环境的细粒度访问控制和监控。支持OpenAI、Azure OpenAI、Anthropic、vLLM和开源LLMs。",
                     "zh-hant": "🔒 企業級 API 網關，可幫助您監控並對每個 API 金鑰施加成本或速率限制。獲得對每個用戶、應用程序或環境的細粒度訪問控制和監控。支持 OpenAI、Azure OpenAI、Anthropic、vLLM 和開源 LLMs。"
                 }
+            },
+            "https://github.com/evilsocket/nerve": {
+                "repository_name": "nerve",
+                "user_name": "evilsocket",
+                "language": "Rust",
+                "license": "Other",
+                "description": "Create LLM agents without writing code.",
+                "topics": [
+                    "agent-based-modeling",
+                    "agents",
+                    "ai",
+                    "groq",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "stateful-llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create LLM agents without writing code.",
+                    "ja": "コードを書かずにLLMエージェントを作成します。",
+                    "zh-hans": "创建LLM代理而无需编写代码。",
+                    "zh-hant": "無需編寫代碼即可創建LLM代理。"
+                }
+            },
+            "https://github.com/openadaptai/openadapt": {
+                "repository_name": "OpenAdapt",
+                "user_name": "OpenAdaptAI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models",
+                "topics": [
+                    "agents",
+                    "ai-agents",
+                    "ai-agents-framework",
+                    "anthropic",
+                    "computer-use",
+                    "generative-process-automation",
+                    "google-gemini",
+                    "gpt4o",
+                    "huggingface",
+                    "large-action-model",
+                    "large-language-models",
+                    "large-multimodal-models",
+                    "omniparser",
+                    "openai",
+                    "process-automation",
+                    "process-mining",
+                    "python",
+                    "segment-anything",
+                    "transformers",
+                    "ultralytics"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models",
+                    "ja": "オープンソースの生成プロセス自動化（すなわち、生成RPA）。大規模な（言語（LLMs）/アクション（LAMs）/マルチモーダル（LMMs）/ビジュアル言語（VLMs））モデルを使用したAIファーストプロセス自動化。",
+                    "zh-hans": "开源生成过程自动化（即生成式RPA）。具有大型（[语言（LLMs）/动作（LAMs）/多模态（LMMs）/视觉语言（VLMs）]）模型的AI优先流程自动化。",
+                    "zh-hant": "開源生成式流程自動化（即生成式RPA）。具有大型（語言（LLMs）/操作（LAMs）/多模式（LMMs）/視覺語言（VLMs））模型的AI優先流程自動化。"
+                }
+            },
+            "https://github.com/comet-ml/opik/": {
+                "repository_name": "opik",
+                "user_name": "comet-ml",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "Open-source end-to-end LLM Development Platform",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Open-source end-to-end LLM Development Platform",
+                    "ja": "オープンソースのエンドツーエンドLLM開発プラットフォーム",
+                    "zh-hans": "开源端到端LLM开发平台",
+                    "zh-hant": "開源端到端LLM開發平台"
+                }
             }
         },
         "Langchain": {
@@ -29962,6 +30069,65 @@
                     "ja": "🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法",
                     "zh-hans": "🦜️🔗LangChain为Rust提供了最简单的方式来编写基于LLM的程序",
                     "zh-hant": "🦜️🔗LangChain for Rust，在Rust中撰寫基於LLM的程式的最簡單方式"
+                }
+            },
+            "https://github.com/mukel/llama3.java": {
+                "repository_name": "llama3.java",
+                "user_name": "mukel",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "Practical Llama 3 inference in Java",
+                "topics": [
+                    "chatgpt",
+                    "genai",
+                    "gguf",
+                    "huggingface",
+                    "java",
+                    "llama",
+                    "llama3",
+                    "llamacpp",
+                    "llm",
+                    "llm-inference",
+                    "llms",
+                    "openai",
+                    "simd",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Practical Llama 3 inference in Java",
+                    "ja": "Javaでの実用的なラマ3推論",
+                    "zh-hans": "在Java中进行实用Llama 3推断",
+                    "zh-hant": "實用的Java中的Llama 3推論"
+                }
+            },
+            "https://github.com/lancedb/vectordb-recipes": {
+                "repository_name": "vectordb-recipes",
+                "user_name": "lancedb",
+                "language": "Jupyter Notebook",
+                "license": "Apache License 2.0",
+                "description": "High quality resources & applications for LLMs, multi-modal models and VectorDBs ",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "deep-learning",
+                    "embeddings",
+                    "fine-tuning",
+                    "gpt",
+                    "gpt-4-vision",
+                    "langchain",
+                    "llama-index",
+                    "llms",
+                    "machine-learning",
+                    "multimodal",
+                    "openai",
+                    "rag",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "High quality resources & applications for LLMs, multi-modal models and VectorDBs",
+                    "ja": "LLMs、マルチモーダルモデル、およびVectorDB向けの高品質リソース＆アプリケーション",
+                    "zh-hans": "高质量资源和应用程序供LLMs、多模型和VectorDBs使用",
+                    "zh-hant": "高品質的資源和應用於LLMs，多模型和VectorDBs"
                 }
             }
         },
@@ -42508,6 +42674,29 @@
                     "ja": "Visual Studio Code での CMake 統合",
                     "zh-hans": "在Visual Studio Code中集成CMake",
                     "zh-hant": "在Visual Studio Code中集成CMake"
+                }
+            },
+            "https://github.com/onyx-dot-app/onyx": {
+                "repository_name": "onyx",
+                "user_name": "onyx-dot-app",
+                "language": "Python",
+                "license": "Other",
+                "description": "Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.",
+                "topics": [
+                    "ai-chat",
+                    "chatgpt",
+                    "enterprise-search",
+                    "gen-ai",
+                    "information-retrieval",
+                    "nextjs",
+                    "python",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.",
+                    "ja": "Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。",
+                    "zh-hans": "Gen-AI团队聊天-如果它能访问您团队的独特知识，就像ChatGPT一样。",
+                    "zh-hant": "Gen-AI團隊聊天-如果它可以訪問您團隊的獨特知識，就像ChatGPT一樣。"
                 }
             }
         }
