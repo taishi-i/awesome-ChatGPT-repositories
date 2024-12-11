@@ -15,20 +15,26 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨列出以下所有IP范围：Google（云和GoogleBot）、必应（Bingbot）、亚马逊（AWS）、微软、甲骨文（云）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他，并每日更新。
+
+
 **NLP**
- * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 企业级API网关，可帮助您监控并根据API密钥强制成本或速率限制。获得对每个用户、应用程序或环境的细粒度访问控制和监控。支持OpenAI、Azure OpenAI、Anthropic、vLLM和开源LLMs。
+ * [nerve](https://github.com/evilsocket/nerve) - 创建LLM代理而无需编写代码。
+ * [OpenAdapt](https://github.com/openadaptai/openadapt) - 开源生成过程自动化（即生成式RPA）。具有大型（[语言（LLMs）/动作（LAMs）/多模态（LMMs）/视觉语言（VLMs）]）模型的AI优先流程自动化。
+ * [opik](https://github.com/comet-ml/opik/) - 开源端到端LLM开发平台
 
 
 **Langchain**
- * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain为Rust提供了最简单的方式来编写基于LLM的程序
+ * [llama3.java](https://github.com/mukel/llama3.java) - 在Java中进行实用Llama 3推断
+ * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - 高质量资源和应用程序供LLMs、多模型和VectorDBs使用
 
 
-**Openai**
- * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - 使用PySide6的faster_whisper GUI
- * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark是#1开源AI网关和开发者门户，让您轻松管理、集成和部署AI和API服务。APIPark与各种大型AI模型无缝连接，并将这些AI能力打包成API，方便调用。
+**Others**
+ * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI团队聊天-如果它能访问您团队的独特知识，就像ChatGPT一样。
 
 
-_Updated on December 09, 2024_ (A total of 1905 repositories listed.)
+_Updated on December 12, 2024_ (A total of 1913 repositories listed.)
 
 ## Table of contents
 
@@ -556,6 +562,7 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 灵活而强大的框架，用于管理多个AI代理并处理复杂对话。
  * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - 家庭助手的自定义组件对话代理。它使用OpenAI来控制您的设备。
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI驱动的研究助手：一种用于自动化复杂研究过程的先进多代理系统。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美
+ * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨列出以下所有IP范围：Google（云和GoogleBot）、必应（Bingbot）、亚马逊（AWS）、微软、甲骨文（云）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他，并每日更新。
 
 
 ## Browser-extensions
@@ -1252,6 +1259,9 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python和JS/TS SDK用于在您的AI应用程序中运行AI生成的代码/代码解释。
  * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - 构建AI代理，原子化
  * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 企业级API网关，可帮助您监控并根据API密钥强制成本或速率限制。获得对每个用户、应用程序或环境的细粒度访问控制和监控。支持OpenAI、Azure OpenAI、Anthropic、vLLM和开源LLMs。
+ * [nerve](https://github.com/evilsocket/nerve) - 创建LLM代理而无需编写代码。
+ * [OpenAdapt](https://github.com/openadaptai/openadapt) - 开源生成过程自动化（即生成式RPA）。具有大型（[语言（LLMs）/动作（LAMs）/多模态（LMMs）/视觉语言（VLMs）]）模型的AI优先流程自动化。
+ * [opik](https://github.com/comet-ml/opik/) - 开源端到端LLM开发平台
 
 
 ## Langchain
@@ -1370,6 +1380,8 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 一份可通过API访问的免费LLM推理资源列表。
  * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero为优化LLM应用程序创建了一个反馈循环-将生产数据转化为更智能、更快速、更便宜的模型。
  * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain为Rust提供了最简单的方式来编写基于LLM的程序
+ * [llama3.java](https://github.com/mukel/llama3.java) - 在Java中进行实用Llama 3推断
+ * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - 高质量资源和应用程序供LLMs、多模型和VectorDBs使用
 
 
 ## Unity
@@ -2008,5 +2020,6 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [ChatALL](https://github.com/ai-shifu/chatall) - 与ChatGPT、必应聊天、巴德、羊驼、维库纳、克劳德、ChatGLM、MOSS、讯飞星火、文心一言等同时聊天，发现最佳答案。
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 模板 ⚡️ 免费开源 ChatGPT UI 管理仪表板模板 - Horizon AI 模板
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - 在Visual Studio Code中集成CMake
+ * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI团队聊天-如果它能访问您团队的独特知识，就像ChatGPT一样。
 
 

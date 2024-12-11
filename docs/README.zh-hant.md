@@ -15,20 +15,26 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨列出來自Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他每日更新的IP範圍。
+
+
 **NLP**
- * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 企業級 API 網關，可幫助您監控並對每個 API 金鑰施加成本或速率限制。獲得對每個用戶、應用程序或環境的細粒度訪問控制和監控。支持 OpenAI、Azure OpenAI、Anthropic、vLLM 和開源 LLMs。
+ * [nerve](https://github.com/evilsocket/nerve) - 無需編寫代碼即可創建LLM代理。
+ * [OpenAdapt](https://github.com/openadaptai/openadapt) - 開源生成式流程自動化（即生成式RPA）。具有大型（語言（LLMs）/操作（LAMs）/多模式（LMMs）/視覺語言（VLMs））模型的AI優先流程自動化。
+ * [opik](https://github.com/comet-ml/opik/) - 開源端到端LLM開發平台
 
 
 **Langchain**
- * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust，在Rust中撰寫基於LLM的程式的最簡單方式
+ * [llama3.java](https://github.com/mukel/llama3.java) - 實用的Java中的Llama 3推論
+ * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - 高品質的資源和應用於LLMs，多模型和VectorDBs
 
 
-**Openai**
- * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - 使用PySide6的faster_whisper GUI
- * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark 是第一個開源人工智慧閘道和開發者門戶，讓您可以輕鬆管理、整合和部署人工智慧和 API 服務。APIPark 與各種大型人工智慧模型無縫連接，並將這些人工智慧能力打包成 API，方便調用。
+**Others**
+ * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI團隊聊天-如果它可以訪問您團隊的獨特知識，就像ChatGPT一樣。
 
 
-_Updated on December 09, 2024_ (A total of 1905 repositories listed.)
+_Updated on December 12, 2024_ (A total of 1913 repositories listed.)
 
 ## Table of contents
 
@@ -556,6 +562,7 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。
  * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant的自定義組件對話代理。它使用OpenAI來控制您的設備。Home Assistant的自定義組件對話代理。它使用OpenAI來控制您的設備。
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI驅動的研究助理：一個先進的多智能體系統，用於自動化複雜的研究過程。利用LangChain、OpenAI GPT和LangGraph，這個工具可以簡化假設生成、數據分析、可視化和報告撰寫。完美。
+ * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨列出來自Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他每日更新的IP範圍。
 
 
 ## Browser-extensions
@@ -1252,6 +1259,9 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python和JS/TS SDK，用於在您的AI應用程序中運行AI生成的代碼/代碼解釋。
  * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - 建立AI代理人，原子化
  * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒 企業級 API 網關，可幫助您監控並對每個 API 金鑰施加成本或速率限制。獲得對每個用戶、應用程序或環境的細粒度訪問控制和監控。支持 OpenAI、Azure OpenAI、Anthropic、vLLM 和開源 LLMs。
+ * [nerve](https://github.com/evilsocket/nerve) - 無需編寫代碼即可創建LLM代理。
+ * [OpenAdapt](https://github.com/openadaptai/openadapt) - 開源生成式流程自動化（即生成式RPA）。具有大型（語言（LLMs）/操作（LAMs）/多模式（LMMs）/視覺語言（VLMs））模型的AI優先流程自動化。
+ * [opik](https://github.com/comet-ml/opik/) - 開源端到端LLM開發平台
 
 
 ## Langchain
@@ -1370,6 +1380,8 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - 一個可以通過API訪問的免費LLM推理資源列表。
  * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero為LLM應用程式創建了一個反饋循環，將生產數據轉化為更智能、更快速、更便宜的模型。
  * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust，在Rust中撰寫基於LLM的程式的最簡單方式
+ * [llama3.java](https://github.com/mukel/llama3.java) - 實用的Java中的Llama 3推論
+ * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - 高品質的資源和應用於LLMs，多模型和VectorDBs
 
 
 ## Unity
@@ -2008,5 +2020,6 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [ChatALL](https://github.com/ai-shifu/chatall) - 同時與ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、訊飛星火、文心一言等進行聊天，發現最佳答案。
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 樣板 ⚡️ 免費開源 ChatGPT UI 管理員儀表板模板 - Horizon AI 樣板
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - 在Visual Studio Code中集成CMake
+ * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI團隊聊天-如果它可以訪問您團隊的獨特知識，就像ChatGPT一樣。
 
 

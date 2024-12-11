@@ -15,20 +15,26 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。
+
+
 **NLP**
- * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒エンタープライズグレードのAPIゲートウェイは、APIキーごとにコストやレート制限を監視および課すのに役立ちます。ユーザー、アプリケーション、または環境ごとに細かいアクセス制御と監視を取得します。OpenAI、Azure OpenAI、Anthropic、vLLM、およびオープンソースのLLMをサポートしています。
+ * [nerve](https://github.com/evilsocket/nerve) - コードを書かずにLLMエージェントを作成します。
+ * [OpenAdapt](https://github.com/openadaptai/openadapt) - オープンソースの生成プロセス自動化（すなわち、生成RPA）。大規模な（言語（LLMs）/アクション（LAMs）/マルチモーダル（LMMs）/ビジュアル言語（VLMs））モデルを使用したAIファーストプロセス自動化。
+ * [opik](https://github.com/comet-ml/opik/) - オープンソースのエンドツーエンドLLM開発プラットフォーム
 
 
 **Langchain**
- * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法
+ * [llama3.java](https://github.com/mukel/llama3.java) - Javaでの実用的なラマ3推論
+ * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - LLMs、マルチモーダルモデル、およびVectorDB向けの高品質リソース＆アプリケーション
 
 
-**Openai**
- * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - PySide6を使用したfaster_whisper GUI
- * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIParkは、#1のオープンソースAIゲートウェイおよび開発者ポータルであり、AIやAPIサービスを簡単に管理、統合、展開できるようにします。APIParkはさまざまな大規模なAIモデルとシームレスに接続し、これらのAI機能をAPIにパッケージ化して簡単に呼び出すことができます。
+**Others**
+ * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。
 
 
-_Updated on December 09, 2024_ (A total of 1905 repositories listed.)
+_Updated on December 12, 2024_ (A total of 1913 repositories listed.)
 
 ## Table of contents
 
@@ -556,6 +562,7 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
  * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistantのカスタムコンポーネントで会話エージェントを使用します。OpenAIを使用してデバイスを制御します。
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、およびLangGraphを活用し、このツールは仮説の生成、データ分析、可視化、およびレポート作成を効率化します。完璧
+ * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。
 
 
 ## Browser-extensions
@@ -1252,6 +1259,9 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python＆JS / TS SDKを使用して、AI生成コード/コード解釈を実行するためのAIアプリを作成します。
  * [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - AIエージェントを原子的に構築します。
  * [BricksLLM](https://github.com/bricks-cloud/bricksllm) - 🔒エンタープライズグレードのAPIゲートウェイは、APIキーごとにコストやレート制限を監視および課すのに役立ちます。ユーザー、アプリケーション、または環境ごとに細かいアクセス制御と監視を取得します。OpenAI、Azure OpenAI、Anthropic、vLLM、およびオープンソースのLLMをサポートしています。
+ * [nerve](https://github.com/evilsocket/nerve) - コードを書かずにLLMエージェントを作成します。
+ * [OpenAdapt](https://github.com/openadaptai/openadapt) - オープンソースの生成プロセス自動化（すなわち、生成RPA）。大規模な（言語（LLMs）/アクション（LAMs）/マルチモーダル（LMMs）/ビジュアル言語（VLMs））モデルを使用したAIファーストプロセス自動化。
+ * [opik](https://github.com/comet-ml/opik/) - オープンソースのエンドツーエンドLLM開発プラットフォーム
 
 
 ## Langchain
@@ -1370,6 +1380,8 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - APIを介してアクセス可能な無料のLLM推論リソースのリスト。
  * [tensorzero](https://github.com/tensorzero/tensorzero) - TensorZeroは、LLMアプリケーションを最適化するためのフィードバックループを作成し、生産データをよりスマートで速く、安価なモデルに変換します。
  * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法
+ * [llama3.java](https://github.com/mukel/llama3.java) - Javaでの実用的なラマ3推論
+ * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - LLMs、マルチモーダルモデル、およびVectorDB向けの高品質リソース＆アプリケーション
 
 
 ## Unity
@@ -2008,5 +2020,6 @@ _Updated on December 09, 2024_ (A total of 1905 repositories listed.)
  * [ChatALL](https://github.com/ai-shifu/chatall) - ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言などと同時にチャットし、最適な回答を見つける
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - Visual Studio Code での CMake 統合
+ * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。
 
 
