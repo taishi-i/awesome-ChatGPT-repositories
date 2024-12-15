@@ -15,26 +15,31 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的提示
+
+
 **Chatbots**
- * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨列出以下所有IP范围：Google（云和GoogleBot）、必应（Bingbot）、亚马逊（AWS）、微软、甲骨文（云）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他，并每日更新。
+ * [Open-Interface](https://github.com/ambersahdev/open-interface) - 使用LLMs控制任何计算机
 
 
-**NLP**
- * [nerve](https://github.com/evilsocket/nerve) - 创建LLM代理而无需编写代码。
- * [OpenAdapt](https://github.com/openadaptai/openadapt) - 开源生成过程自动化（即生成式RPA）。具有大型（[语言（LLMs）/动作（LAMs）/多模态（LMMs）/视觉语言（VLMs）]）模型的AI优先流程自动化。
- * [opik](https://github.com/comet-ml/opik/) - 开源端到端LLM开发平台
+**CLIs**
+ * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain 动力外壳命令生成器和运行器CLI
+
+
+**Tutorials**
+ * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - 该存储库包含了用于检索增强生成（RAG）系统的各种高级技术。
 
 
 **Langchain**
- * [llama3.java](https://github.com/mukel/llama3.java) - 在Java中进行实用Llama 3推断
- * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - 高质量资源和应用程序供LLMs、多模型和VectorDBs使用
+ * [markitdown](https://github.com/microsoft/markitdown) - Python工具，用于将文件和办公文档转换为Markdown。
 
 
-**Others**
- * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI团队聊天-如果它能访问您团队的独特知识，就像ChatGPT一样。
+**Openai**
+ * [subgen](https://github.com/mcclouds/subgen) - 使用OpenAI Whisper模型通过Jellyfin、Plex、Emby、Tautulli或Bazarr自动生成字幕
 
 
-_Updated on December 12, 2024_ (A total of 1913 repositories listed.)
+_Updated on December 16, 2024_ (A total of 1918 repositories listed.)
 
 ## Table of contents
 
@@ -279,6 +284,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ 开源、以开发者为先的LLMOps平台，旨在简化提示设计、版本管理、即时交付、协作、故障排除、可观察性等功能。
  * [archgw](https://github.com/katanemo/archgw) - Arch是代理的智能网关。 使用（快速）LLMs进行工程设计，用于安全处理，丰富的可观察性，并将提示与您的API无缝集成 - 所有这些都在业务逻辑之外。 由Envoy代理的核心贡献者在Envoy上构建。
  * [openlit](https://github.com/openlit/openlit) - AI工程的开源平台：OpenTelemetry原生LLM可观测性，GPU监控，防护栏，评估，提示管理，保险库，游乐场。🚀💻 与40多个LLM提供商，VectorDBs，代理框架和GPU集成。
+ * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的提示
 
 
 ## Chatbots
@@ -563,6 +569,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - 家庭助手的自定义组件对话代理。它使用OpenAI来控制您的设备。
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI驱动的研究助手：一种用于自动化复杂研究过程的先进多代理系统。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨列出以下所有IP范围：Google（云和GoogleBot）、必应（Bingbot）、亚马逊（AWS）、微软、甲骨文（云）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他，并每日更新。
+ * [Open-Interface](https://github.com/ambersahdev/open-interface) - 使用LLMs控制任何计算机
 
 
 ## Browser-extensions
@@ -913,6 +920,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - 基于 AI 完整保留格式的 PDF 科学论文翻译 - 支持 Google/DeepL/Ollama/OpenAI 等服务的 PDF 文档全文双语翻译，提供 CLI/GUI/Docker
  * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 用于实验AI软件工程师的平台。基于终端。注意：与https://gptengineer.app非常不同。
  * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - 基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。输出：基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。
+ * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain 动力外壳命令生成器和运行器CLI
 
 
 ## Reimplementations
@@ -971,6 +979,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [llm-python](https://github.com/onlyphantom/llm-python) - 大型语言模型（LLMs）教程和示例脚本，ft. langchain，openai，llamaindex，gpt，chromadb和pinecone
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - 关于如何训练、评估LLMs，并利用RAG、Agent、Chain构建有趣的应用程序的教程。
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 从零开始学习深度学习，实现GPT。
+ * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - 该存储库包含了用于检索增强生成（RAG）系统的各种高级技术。
 
 
 ## NLP
@@ -1382,6 +1391,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain为Rust提供了最简单的方式来编写基于LLM的程序
  * [llama3.java](https://github.com/mukel/llama3.java) - 在Java中进行实用Llama 3推断
  * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - 高质量资源和应用程序供LLMs、多模型和VectorDBs使用
+ * [markitdown](https://github.com/microsoft/markitdown) - Python工具，用于将文件和办公文档转换为Markdown。
 
 
 ## Unity
@@ -1607,6 +1617,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [vector-vein](https://github.com/andersonby/vector-vein) - 无代码AI工作流。拖放工作流节点并使用您的AI代理与您的工作流一起工作。
  * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - 使用PySide6的faster_whisper GUI
  * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark是#1开源AI网关和开发者门户，让您轻松管理、集成和部署AI和API服务。APIPark与各种大型AI模型无缝连接，并将这些AI能力打包成API，方便调用。
+ * [subgen](https://github.com/mcclouds/subgen) - 使用OpenAI Whisper模型通过Jellyfin、Plex、Emby、Tautulli或Bazarr自动生成字幕
 
 
 ## Others

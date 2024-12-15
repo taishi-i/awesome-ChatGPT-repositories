@@ -15,26 +15,31 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
+
+
 **Chatbots**
- * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
+ * [Open-Interface](https://github.com/ambersahdev/open-interface) - Control Any Computer Using LLMs
 
 
-**NLP**
- * [nerve](https://github.com/evilsocket/nerve) - Create LLM agents without writing code.
- * [OpenAdapt](https://github.com/openadaptai/openadapt) - Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
- * [opik](https://github.com/comet-ml/opik/) - Open-source end-to-end LLM Development Platform
+**CLIs**
+ * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
+
+
+**Tutorials**
+ * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 
 
 **Langchain**
- * [llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
- * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - High quality resources & applications for LLMs, multi-modal models and VectorDBs
+ * [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 
-**Others**
- * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+**Openai**
+ * [subgen](https://github.com/mcclouds/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr
 
 
-_Updated on December 12, 2024_ (A total of 1913 repositories listed.)
+_Updated on December 16, 2024_ (A total of 1918 repositories listed.)
 
 ## Table of contents
 
@@ -279,6 +284,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
  * [archgw](https://github.com/katanemo/archgw) - Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.
  * [openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
+ * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
 
 
 ## Chatbots
@@ -563,6 +569,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect for researchers and data scientists seeking to enhance their workflow and productivity.
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
+ * [Open-Interface](https://github.com/ambersahdev/open-interface) - Control Any Computer Using LLMs
 
 
 ## Browser-extensions
@@ -913,6 +920,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
  * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
  * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
+ * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
 
 
 ## Reimplementations
@@ -971,6 +979,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [llm-python](https://github.com/onlyphantom/llm-python) - Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb & pinecone
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - Tutorial on training, evaluating LLM, as well as utilizing RAG, Agent, Chain to build entertaining applications with LLMs.分享如何训练、评估LLMs，如何基于RAG、Agent、Chain构建有趣的LLMs应用。
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - Go from no deep learning knowledge to implementing GPT.
+ * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 
 
 ## NLP
@@ -1382,6 +1391,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust
  * [llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
  * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - High quality resources & applications for LLMs, multi-modal models and VectorDBs
+ * [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 
 ## Unity
@@ -1607,6 +1617,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [vector-vein](https://github.com/andersonby/vector-vein) - No-code AI workflow. Drag and drop workflow nodes and use your workflow with your AI agents.
  * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - faster_whisper GUI with PySide6
  * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and packages these AI capabilities into APIs for easy invocation.
+ * [subgen](https://github.com/mcclouds/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr
 
 
 ## Others
