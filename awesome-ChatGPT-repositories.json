@@ -5363,6 +5363,27 @@
                     "zh-hans": "AI工程的开源平台：OpenTelemetry原生LLM可观测性，GPU监控，防护栏，评估，提示管理，保险库，游乐场。🚀💻 与40多个LLM提供商，VectorDBs，代理框架和GPU集成。",
                     "zh-hant": "開源平台為AI工程：OpenTelemetry-native LLM可觀測性，GPU監控，防護欄，評估，提示管理，金庫，遊樂場。🚀💻與40多個LLM提供商，VectorDBs，代理框架和GPU集成。"
                 }
+            },
+            "https://github.com/b3o/gpts-prompt-collection": {
+                "repository_name": "GPTS-Prompt-Collection",
+                "user_name": "B3o",
+                "language": null,
+                "license": "MIT License",
+                "description": "收集GPTS的prompt  /   Collect the prompt of GPTS",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "gpts",
+                    "gptslist",
+                    "prompt",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "收集GPTS的prompt  /   Collect the prompt of GPTS",
+                    "ja": "GPTSのプロンプトを収集します",
+                    "zh-hans": "收集GPTS的提示",
+                    "zh-hant": "收集GPTS的提示"
+                }
             }
         },
         "Chatbots": {
@@ -12163,6 +12184,39 @@
                     "ja": "🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。",
                     "zh-hans": "🔨列出以下所有IP范围：Google（云和GoogleBot）、必应（Bingbot）、亚马逊（AWS）、微软、甲骨文（云）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他，并每日更新。",
                     "zh-hant": "🔨列出來自Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他每日更新的IP範圍。"
+                }
+            },
+            "https://github.com/ambersahdev/open-interface": {
+                "repository_name": "Open-Interface",
+                "user_name": "AmberSahdev",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "Control Any Computer Using LLMs",
+                "topics": [
+                    "assistant",
+                    "assistant-computer-control",
+                    "automation",
+                    "gpt",
+                    "gpt4",
+                    "gpt4v",
+                    "gpt4vision",
+                    "linux",
+                    "llm",
+                    "machine-learning",
+                    "macos",
+                    "openai",
+                    "pyautogui",
+                    "pyinstaller",
+                    "python",
+                    "self-driving",
+                    "self-driving-software",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Control Any Computer Using LLMs",
+                    "ja": "LLMsを使用して任意のコンピューターを制御します。",
+                    "zh-hans": "使用LLMs控制任何计算机",
+                    "zh-hant": "使用LLMs控制任何電腦"
                 }
             }
         },
@@ -20037,6 +20091,28 @@
                     "zh-hans": "基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。输出：基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。",
                     "zh-hant": "基於CTranslate2的原始OpenAI客戶端兼容的Whisper命令行客戶端。Whisper命令行客戶端與原始OpenAI客戶端兼容，基於CTranslate2。"
                 }
+            },
+            "https://github.com/ricklamers/shell-ai": {
+                "repository_name": "shell-ai",
+                "user_name": "ricklamers",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "LangChain powered shell command generator and runner CLI",
+                "topics": [
+                    "automation",
+                    "cli",
+                    "gpt",
+                    "langchain",
+                    "llm",
+                    "openai",
+                    "shell"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LangChain powered shell command generator and runner CLI",
+                    "ja": "LangChain パワード シェルコマンドジェネレーターおよびランナーCLI",
+                    "zh-hans": "LangChain 动力外壳命令生成器和运行器CLI",
+                    "zh-hant": "LangChain 驅動的 shell 命令生成器和運行器 CLI"
+                }
             }
         },
         "Reimplementations": {
@@ -21146,6 +21222,35 @@
                     "ja": "深層学習の知識がない状態からGPTの実装まで進んでください。",
                     "zh-hans": "从零开始学习深度学习，实现GPT。",
                     "zh-hant": "從零基礎的深度學習知識到實現GPT。"
+                }
+            },
+            "https://github.com/athina-ai/rag-cookbooks": {
+                "repository_name": "rag-cookbooks",
+                "user_name": "athina-ai",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.",
+                "topics": [
+                    "ai",
+                    "chromadb",
+                    "cookbooks",
+                    "faiss",
+                    "langchain",
+                    "llm",
+                    "llms",
+                    "openai",
+                    "pinecone",
+                    "python",
+                    "qdrant",
+                    "rag",
+                    "tutorials",
+                    "weaviate"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.",
+                    "ja": "このリポジトリには、Retrieval-Augmented Generation（RAG）システムのさまざまな高度な技術が含まれています。",
+                    "zh-hans": "该存储库包含了用于检索增强生成（RAG）系统的各种高级技术。",
+                    "zh-hant": "這個存儲庫包含了檢索增強生成（RAG）系統的各種高級技術。"
                 }
             }
         },
@@ -30129,6 +30234,28 @@
                     "zh-hans": "高质量资源和应用程序供LLMs、多模型和VectorDBs使用",
                     "zh-hant": "高品質的資源和應用於LLMs，多模型和VectorDBs"
                 }
+            },
+            "https://github.com/microsoft/markitdown": {
+                "repository_name": "markitdown",
+                "user_name": "microsoft",
+                "language": "HTML",
+                "license": "MIT License",
+                "description": "Python tool for converting files and office documents to Markdown.",
+                "topics": [
+                    "autogen",
+                    "autogen-extension",
+                    "langchain",
+                    "markdown",
+                    "microsoft-office",
+                    "openai",
+                    "pdf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Python tool for converting files and office documents to Markdown.",
+                    "ja": "Markdown へのファイルやオフィス文書を変換するための Python ツール。",
+                    "zh-hans": "Python工具，用于将文件和办公文档转换为Markdown。",
+                    "zh-hant": "將檔案和辦公文件轉換為Markdown的Python工具。"
+                }
             }
         },
         "Unity": {
@@ -34888,6 +35015,20 @@
                     "ja": "🦄APIParkは、#1のオープンソースAIゲートウェイおよび開発者ポータルであり、AIやAPIサービスを簡単に管理、統合、展開できるようにします。APIParkはさまざまな大規模なAIモデルとシームレスに接続し、これらのAI機能をAPIにパッケージ化して簡単に呼び出すことができます。",
                     "zh-hans": "🦄APIPark是#1开源AI网关和开发者门户，让您轻松管理、集成和部署AI和API服务。APIPark与各种大型AI模型无缝连接，并将这些AI能力打包成API，方便调用。",
                     "zh-hant": "🦄APIPark 是第一個開源人工智慧閘道和開發者門戶，讓您可以輕鬆管理、整合和部署人工智慧和 API 服務。APIPark 與各種大型人工智慧模型無縫連接，並將這些人工智慧能力打包成 API，方便調用。"
+                }
+            },
+            "https://github.com/mcclouds/subgen": {
+                "repository_name": "subgen",
+                "user_name": "McCloudS",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr",
+                    "ja": "Jellyfin、Plex、Emby、Tautulli、またはBazarrを使用してOpenAI Whisper Modelを使用して自動生成された字幕",
+                    "zh-hans": "使用OpenAI Whisper模型通过Jellyfin、Plex、Emby、Tautulli或Bazarr自动生成字幕",
+                    "zh-hant": "使用OpenAI Whisper模型通过Jellyfin、Plex、Emby、Tautulli或Bazarr自动生成字幕"
                 }
             }
         },

@@ -15,26 +15,31 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - GPTSのプロンプトを収集します
+
+
 **Chatbots**
- * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。
+ * [Open-Interface](https://github.com/ambersahdev/open-interface) - LLMsを使用して任意のコンピューターを制御します。
 
 
-**NLP**
- * [nerve](https://github.com/evilsocket/nerve) - コードを書かずにLLMエージェントを作成します。
- * [OpenAdapt](https://github.com/openadaptai/openadapt) - オープンソースの生成プロセス自動化（すなわち、生成RPA）。大規模な（言語（LLMs）/アクション（LAMs）/マルチモーダル（LMMs）/ビジュアル言語（VLMs））モデルを使用したAIファーストプロセス自動化。
- * [opik](https://github.com/comet-ml/opik/) - オープンソースのエンドツーエンドLLM開発プラットフォーム
+**CLIs**
+ * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain パワード シェルコマンドジェネレーターおよびランナーCLI
+
+
+**Tutorials**
+ * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - このリポジトリには、Retrieval-Augmented Generation（RAG）システムのさまざまな高度な技術が含まれています。
 
 
 **Langchain**
- * [llama3.java](https://github.com/mukel/llama3.java) - Javaでの実用的なラマ3推論
- * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - LLMs、マルチモーダルモデル、およびVectorDB向けの高品質リソース＆アプリケーション
+ * [markitdown](https://github.com/microsoft/markitdown) - Markdown へのファイルやオフィス文書を変換するための Python ツール。
 
 
-**Others**
- * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。
+**Openai**
+ * [subgen](https://github.com/mcclouds/subgen) - Jellyfin、Plex、Emby、Tautulli、またはBazarrを使用してOpenAI Whisper Modelを使用して自動生成された字幕
 
 
-_Updated on December 12, 2024_ (A total of 1913 repositories listed.)
+_Updated on December 16, 2024_ (A total of 1918 repositories listed.)
 
 ## Table of contents
 
@@ -279,6 +284,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ プロンプトデザイン、バージョン管理、インスタント配信、コラボレーション、トラブルシューティング、可観測性などを効率化するために設計された、オープンソースで開発者向けのLLMOpsプラットフォーム。
  * [archgw](https://github.com/katanemo/archgw) - Archはエージェント向けのインテリジェントなゲートウェイです。安全な処理、豊富な観測性、およびAPIとのシームレスな統合を実現するために、(高速な)LLMが使用されています - すべてはビジネスロジックの外側で行われます。Envoyプロキシのコアコントリビューターによって構築され、Envoy上で動作します。
  * [openlit](https://github.com/openlit/openlit) - AIエンジニアリングのためのオープンソースプラットフォーム：OpenTelemetryネイティブLLMオブザーバビリティ、GPUモニタリング、ガードレール、評価、プロンプト管理、ボールト、プレイグラウンド。🚀💻 40以上のLLMプロバイダー、VectorDB、エージェントフレームワーク、GPUと統合されています。
+ * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - GPTSのプロンプトを収集します
 
 
 ## Chatbots
@@ -563,6 +569,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistantのカスタムコンポーネントで会話エージェントを使用します。OpenAIを使用してデバイスを制御します。
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、およびLangGraphを活用し、このツールは仮説の生成、データ分析、可視化、およびレポート作成を効率化します。完璧
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。
+ * [Open-Interface](https://github.com/ambersahdev/open-interface) - LLMsを使用して任意のコンピューターを制御します。
 
 
 ## Browser-extensions
@@ -913,6 +920,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - PDF科学论文翻译，保留格式 - AIを使用してPDF科学論文を翻訳し、排版を保持した全文のバイリンガル翻訳を提供します。Google/DeepL/Ollama/OpenAIなどのサービスをサポートし、CLI/GUI/Dockerを提供します。
  * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - AIソフトウェアエンジニアと実験するためのプラットフォーム。ターミナルベースです。注意：https://gptengineer.appとは非常に異なります。
  * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - CTranslate2に基づいたオリジナルのOpenAIクライアントと互換性のあるWhisperコマンドラインクライアント。Whisperコマンドラインクライアントは、オリジナルのOpenAIクライアントと互換性があります。
+ * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain パワード シェルコマンドジェネレーターおよびランナーCLI
 
 
 ## Reimplementations
@@ -971,6 +979,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [llm-python](https://github.com/onlyphantom/llm-python) - 大規模言語モデル（LLMs）のチュートリアル＆サンプルスクリプト、ft. langchain、openai、llamaindex、gpt、chromadb＆pinecone
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - LLMを訓練し、評価するチュートリアル、およびRAG、Agent、Chainを活用してエンターテイニングなLLMアプリケーションを構築する方法について共有します。
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 深層学習の知識がない状態からGPTの実装まで進んでください。
+ * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - このリポジトリには、Retrieval-Augmented Generation（RAG）システムのさまざまな高度な技術が含まれています。
 
 
 ## NLP
@@ -1382,6 +1391,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [langchain-rust](https://github.com/abraxas-365/langchain-rust) - 🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法
  * [llama3.java](https://github.com/mukel/llama3.java) - Javaでの実用的なラマ3推論
  * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - LLMs、マルチモーダルモデル、およびVectorDB向けの高品質リソース＆アプリケーション
+ * [markitdown](https://github.com/microsoft/markitdown) - Markdown へのファイルやオフィス文書を変換するための Python ツール。
 
 
 ## Unity
@@ -1607,6 +1617,7 @@ _Updated on December 12, 2024_ (A total of 1913 repositories listed.)
  * [vector-vein](https://github.com/andersonby/vector-vein) - ノーコードAIワークフロー。ワークフローノードをドラッグアンドドロップして、AIエージェントと共にワークフローを使用します。
  * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - PySide6を使用したfaster_whisper GUI
  * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIParkは、#1のオープンソースAIゲートウェイおよび開発者ポータルであり、AIやAPIサービスを簡単に管理、統合、展開できるようにします。APIParkはさまざまな大規模なAIモデルとシームレスに接続し、これらのAI機能をAPIにパッケージ化して簡単に呼び出すことができます。
+ * [subgen](https://github.com/mcclouds/subgen) - Jellyfin、Plex、Emby、Tautulli、またはBazarrを使用してOpenAI Whisper Modelを使用して自動生成された字幕
 
 
 ## Others
