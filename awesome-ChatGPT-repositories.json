@@ -1926,6 +1926,23 @@
                     "zh-hans": "AI自主代理的列表",
                     "zh-hant": "AI 自主代理的清單"
                 }
+            },
+            "https://github.com/elricliu/awesome-one-click-deployment": {
+                "repository_name": "Awesome-One-Click-Deployment",
+                "user_name": "ElricLiu",
+                "language": null,
+                "license": null,
+                "description": "🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目",
+                "topics": [
+                    "chatgpt",
+                    "connect-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目",
+                    "ja": "🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します 一键部署各种Github开源AI项目",
+                    "zh-hans": "🪄 一键部署许多Github开源项目，以便快速体验",
+                    "zh-hant": "🪄 一鍵部署許多github開源項目，以促進快速體驗"
+                }
             }
         },
         "Prompts": {
@@ -16891,6 +16908,31 @@
                     "ja": "Koduは、あなたのIDEに住む自律型のコーディングエージェントです。これは、最新の技術を活用して、ステップバイステップであなたの夢のプロジェクトを構築するのに役立つVSCode拡張機能です。",
                     "zh-hans": "Kodu是一个自主编码代理，它生活在您的IDE中。它是一个VSCode扩展，可以帮助您利用最新技术逐步构建您的梦想项目。",
                     "zh-hant": "Kodu 是一個自主編碼代理，它存在於您的IDE中。這是一個 VSCode 擴展，可以幫助您利用最新技術中的自動編碼代理逐步構建您的夢想項目。"
+                }
+            },
+            "https://github.com/elricliu/autogpt-next-web": {
+                "repository_name": "AutoGPT-Next-Web",
+                "user_name": "ElricLiu",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用",
+                "topics": [
+                    "auto-gpt",
+                    "connect-ai",
+                    "docker",
+                    "docker-compose",
+                    "langchangjs",
+                    "llm",
+                    "nextjs",
+                    "openai",
+                    "react",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用",
+                    "ja": "🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。一括で無料であなたの個人AutoGPTウェブアプリを展開します。",
+                    "zh-hans": "🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。",
+                    "zh-hant": "🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。"
                 }
             }
         },
@@ -35029,6 +35071,48 @@
                     "ja": "Jellyfin、Plex、Emby、Tautulli、またはBazarrを使用してOpenAI Whisper Modelを使用して自動生成された字幕",
                     "zh-hans": "使用OpenAI Whisper模型通过Jellyfin、Plex、Emby、Tautulli或Bazarr自动生成字幕",
                     "zh-hant": "使用OpenAI Whisper模型通过Jellyfin、Plex、Emby、Tautulli或Bazarr自动生成字幕"
+                }
+            },
+            "https://github.com/openai/openai-realtime-console": {
+                "repository_name": "openai-realtime-console",
+                "user_name": "openai",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "React app for inspecting, building and debugging with the Realtime API",
+                "topics": [
+                    "javascript",
+                    "nodejs",
+                    "openai",
+                    "react",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "React app for inspecting, building and debugging with the Realtime API",
+                    "ja": "リアルタイムAPIを使用して検査、構築、デバッグするためのReactアプリ",
+                    "zh-hans": "用于检查、构建和调试实时API的React应用程序",
+                    "zh-hant": "使用實時API進行檢查、構建和調試的React應用程式"
+                }
+            },
+            "https://github.com/ahmetoner/whisper-asr-webservice": {
+                "repository_name": "whisper-asr-webservice",
+                "user_name": "ahmetoner",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "OpenAI Whisper ASR Webservice API",
+                "topics": [
+                    "asr",
+                    "automatic-speech-recognition",
+                    "docker",
+                    "openai-whisper",
+                    "speech",
+                    "speech-recognition",
+                    "speech-to-text"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI Whisper ASR Webservice API",
+                    "ja": "OpenAI Whisper ASRウェブサービスAPI",
+                    "zh-hans": "OpenAI Whisper ASR 语音识别服务 API",
+                    "zh-hant": "OpenAI Whisper ASR 服務API"
                 }
             }
         },
