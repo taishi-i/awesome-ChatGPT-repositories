@@ -15,31 +15,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
+**Awesome-lists**
+ * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
 
 
-**Chatbots**
- * [Open-Interface](https://github.com/ambersahdev/open-interface) - Control Any Computer Using LLMs
-
-
-**CLIs**
- * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
-
-
-**Tutorials**
- * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
-
-
-**Langchain**
- * [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+**Browser-extensions**
+ * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 
 
 **Openai**
- * [subgen](https://github.com/mcclouds/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr
+ * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
+ * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
 
 
-_Updated on December 16, 2024_ (A total of 1918 repositories listed.)
+_Updated on December 19, 2024_ (A total of 1922 repositories listed.)
 
 ## Table of contents
 
@@ -134,6 +123,7 @@ _Updated on December 16, 2024_ (A total of 1918 repositories listed.)
  * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+ * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
 
 
 ## Prompts
@@ -777,6 +767,7 @@ _Updated on December 16, 2024_ (A total of 1918 repositories listed.)
  * [pipelines](https://github.com/open-webui/pipelines) - Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework
  * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
  * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents
+ * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 
 
 ## CLIs
@@ -1618,6 +1609,8 @@ _Updated on December 16, 2024_ (A total of 1918 repositories listed.)
  * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - faster_whisper GUI with PySide6
  * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark is the #1 open-source AI Gateway and Developer Portal, enabling you to easily manage, integrate, and deploy AI and API services. APIPark seamlessly connects with various large AI models and packages these AI capabilities into APIs for easy invocat
  * [subgen](https://github.com/mcclouds/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr
+ * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
+ * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
 
 
 ## Others

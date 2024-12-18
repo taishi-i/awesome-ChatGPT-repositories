@@ -15,31 +15,20 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - GPTSのプロンプトを収集します
+**Awesome-lists**
+ * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します 一键部署各种Github开源AI项目
 
 
-**Chatbots**
- * [Open-Interface](https://github.com/ambersahdev/open-interface) - LLMsを使用して任意のコンピューターを制御します。
-
-
-**CLIs**
- * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain パワード シェルコマンドジェネレーターおよびランナーCLI
-
-
-**Tutorials**
- * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - このリポジトリには、Retrieval-Augmented Generation（RAG）システムのさまざまな高度な技術が含まれています。
-
-
-**Langchain**
- * [markitdown](https://github.com/microsoft/markitdown) - Markdown へのファイルやオフィス文書を変換するための Python ツール。
+**Browser-extensions**
+ * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。一括で無料であなたの個人AutoGPTウェブアプリを展開します。
 
 
 **Openai**
- * [subgen](https://github.com/mcclouds/subgen) - Jellyfin、Plex、Emby、Tautulli、またはBazarrを使用してOpenAI Whisper Modelを使用して自動生成された字幕
+ * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - リアルタイムAPIを使用して検査、構築、デバッグするためのReactアプリ
+ * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASRウェブサービスAPI
 
 
-_Updated on December 16, 2024_ (A total of 1918 repositories listed.)
+_Updated on December 19, 2024_ (A total of 1922 repositories listed.)
 
 ## Table of contents
 
@@ -134,6 +123,7 @@ _Updated on December 16, 2024_ (A total of 1918 repositories listed.)
  * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - OpenAI、Anthropic、Gemini、およびオープンソースモデルを使用した素晴らしいLLMアプリのコレクション。
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 世界最高のLLMリソースの要約
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI自律エージェントのリスト
+ * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します 一键部署各种Github开源AI项目
 
 
 ## Prompts
@@ -777,6 +767,7 @@ _Updated on December 16, 2024_ (A total of 1918 repositories listed.)
  * [pipelines](https://github.com/open-webui/pipelines) - パイプライン：多目的、UIに依存しないOpenAI互換のプラグインフレームワーク
  * [aura-voice](https://github.com/ntegrals/aura-voice) - AuraはSiriのようなものですが、ブラウザ内で動作します。低遅延応答に最適化されたAI音声アシスタントです。
  * [claude-coder](https://github.com/kodu-ai/claude-coder) - Koduは、あなたのIDEに住む自律型のコーディングエージェントです。これは、最新の技術を活用して、ステップバイステップであなたの夢のプロジェクトを構築するのに役立つVSCode拡張機能です。
+ * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。一括で無料であなたの個人AutoGPTウェブアプリを展開します。
 
 
 ## CLIs
@@ -1618,6 +1609,8 @@ _Updated on December 16, 2024_ (A total of 1918 repositories listed.)
  * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - PySide6を使用したfaster_whisper GUI
  * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIParkは、#1のオープンソースAIゲートウェイおよび開発者ポータルであり、AIやAPIサービスを簡単に管理、統合、展開できるようにします。APIParkはさまざまな大規模なAIモデルとシームレスに接続し、これらのAI機能をAPIにパッケージ化して簡単に呼び出すことができます。
  * [subgen](https://github.com/mcclouds/subgen) - Jellyfin、Plex、Emby、Tautulli、またはBazarrを使用してOpenAI Whisper Modelを使用して自動生成された字幕
+ * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - リアルタイムAPIを使用して検査、構築、デバッグするためのReactアプリ
+ * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASRウェブサービスAPI
 
 
 ## Others

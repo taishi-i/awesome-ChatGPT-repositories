@@ -15,31 +15,20 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的提示
+**Awesome-lists**
+ * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 一鍵部署許多github開源項目，以促進快速體驗
 
 
-**Chatbots**
- * [Open-Interface](https://github.com/ambersahdev/open-interface) - 使用LLMs控制任何電腦
-
-
-**CLIs**
- * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain 驅動的 shell 命令生成器和運行器 CLI
-
-
-**Tutorials**
- * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - 這個存儲庫包含了檢索增強生成（RAG）系統的各種高級技術。
-
-
-**Langchain**
- * [markitdown](https://github.com/microsoft/markitdown) - 將檔案和辦公文件轉換為Markdown的Python工具。
+**Browser-extensions**
+ * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
 
 
 **Openai**
- * [subgen](https://github.com/mcclouds/subgen) - 使用OpenAI Whisper模型通过Jellyfin、Plex、Emby、Tautulli或Bazarr自动生成字幕
+ * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - 使用實時API進行檢查、構建和調試的React應用程式
+ * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR 服務API
 
 
-_Updated on December 16, 2024_ (A total of 1918 repositories listed.)
+_Updated on December 19, 2024_ (A total of 1922 repositories listed.)
 
 ## Table of contents
 
@@ -134,6 +123,7 @@ _Updated on December 16, 2024_ (A total of 1918 repositories listed.)
  * [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - 使用OpenAI、Anthropic、Gemini和開源模型的優秀LLM應用程式集合。
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM資料總結 | Summary of the world's best LLM resources.
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI 自主代理的清單
+ * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 一鍵部署許多github開源項目，以促進快速體驗
 
 
 ## Prompts
@@ -777,6 +767,7 @@ _Updated on December 16, 2024_ (A total of 1918 repositories listed.)
  * [pipelines](https://github.com/open-webui/pipelines) - 管道：多功能、UI不可知的OpenAI兼容插件框架
  * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura就像Siri一樣，但在您的瀏覽器中。一個針對低延遲響應進行優化的人工智能語音助手。
  * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu 是一個自主編碼代理，它存在於您的IDE中。這是一個 VSCode 擴展，可以幫助您利用最新技術中的自動編碼代理逐步構建您的夢想項目。
+ * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
 
 
 ## CLIs
@@ -1618,6 +1609,8 @@ _Updated on December 16, 2024_ (A total of 1918 repositories listed.)
  * [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - 使用PySide6的faster_whisper GUI
  * [APIPark](https://github.com/apiparklab/apipark) - 🦄APIPark 是第一個開源人工智慧閘道和開發者門戶，讓您可以輕鬆管理、整合和部署人工智慧和 API 服務。APIPark 與各種大型人工智慧模型無縫連接，並將這些人工智慧能力打包成 API，方便調用。
  * [subgen](https://github.com/mcclouds/subgen) - 使用OpenAI Whisper模型通过Jellyfin、Plex、Emby、Tautulli或Bazarr自动生成字幕
+ * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - 使用實時API進行檢查、構建和調試的React應用程式
+ * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR 服務API
 
 
 ## Others
