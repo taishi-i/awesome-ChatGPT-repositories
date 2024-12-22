@@ -15,20 +15,19 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 一键部署许多Github开源项目，以便快速体验
+**Chatbots**
+ * [OmAgent](https://github.com/om-ai-lab/omagent) - 一个多模语言代理框架，适用于智能设备和更多功能
 
 
-**Browser-extensions**
- * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
+**CLIs**
+ * [uform](https://github.com/unum-cloud/uform) - 袖珍多模态人工智能，可跨多语言文本、图像和视频进行内容理解和生成，速度比OpenAI CLIP和LLaVA快5倍。
 
 
-**Openai**
- * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - 用于检查、构建和调试实时API的React应用程序
- * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR 语音识别服务 API
+**NLP**
+ * [PySpur](https://github.com/pyspur-dev/pyspur) - 基于图形的LLM工作流程编辑器
 
 
-_Updated on December 19, 2024_ (A total of 1922 repositories listed.)
+_Updated on December 23, 2024_ (A total of 1925 repositories listed.)
 
 ## Table of contents
 
@@ -560,6 +559,7 @@ _Updated on December 19, 2024_ (A total of 1922 repositories listed.)
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI驱动的研究助手：一种用于自动化复杂研究过程的先进多代理系统。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨列出以下所有IP范围：Google（云和GoogleBot）、必应（Bingbot）、亚马逊（AWS）、微软、甲骨文（云）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他，并每日更新。
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - 使用LLMs控制任何计算机
+ * [OmAgent](https://github.com/om-ai-lab/omagent) - 一个多模语言代理框架，适用于智能设备和更多功能
 
 
 ## Browser-extensions
@@ -912,6 +912,7 @@ _Updated on December 19, 2024_ (A total of 1922 repositories listed.)
  * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 用于实验AI软件工程师的平台。基于终端。注意：与https://gptengineer.app非常不同。
  * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - 基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。输出：基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain 动力外壳命令生成器和运行器CLI
+ * [uform](https://github.com/unum-cloud/uform) - 袖珍多模态人工智能，可跨多语言文本、图像和视频进行内容理解和生成，速度比OpenAI CLIP和LLaVA快5倍。
 
 
 ## Reimplementations
@@ -1262,6 +1263,7 @@ _Updated on December 19, 2024_ (A total of 1922 repositories listed.)
  * [nerve](https://github.com/evilsocket/nerve) - 创建LLM代理而无需编写代码。
  * [OpenAdapt](https://github.com/openadaptai/openadapt) - 开源生成过程自动化（即生成式RPA）。具有大型（[语言（LLMs）/动作（LAMs）/多模态（LMMs）/视觉语言（VLMs）]）模型的AI优先流程自动化。
  * [opik](https://github.com/comet-ml/opik/) - 开源端到端LLM开发平台
+ * [PySpur](https://github.com/pyspur-dev/pyspur) - 基于图形的LLM工作流程编辑器
 
 
 ## Langchain

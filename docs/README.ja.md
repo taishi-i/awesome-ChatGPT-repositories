@@ -15,20 +15,19 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します 一键部署各种Github开源AI项目
+**Chatbots**
+ * [OmAgent](https://github.com/om-ai-lab/omagent) - スマートデバイスやその他のためのマルチモーダル言語エージェントフレームワーク
 
 
-**Browser-extensions**
- * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。一括で無料であなたの個人AutoGPTウェブアプリを展開します。
+**CLIs**
+ * [uform](https://github.com/unum-cloud/uform) - ポケットサイズのマルチモーダルAIは、多言語テキスト、画像、そして🔜ビデオにわたるコンテンツの理解と生成を行います。OpenAI CLIPやLLaVAよりも最大5倍高速です🖼️ & 🖋️
 
 
-**Openai**
- * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - リアルタイムAPIを使用して検査、構築、デバッグするためのReactアプリ
- * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASRウェブサービスAPI
+**NLP**
+ * [PySpur](https://github.com/pyspur-dev/pyspur) - LLMワークフロー用のグラフベースエディタ
 
 
-_Updated on December 19, 2024_ (A total of 1922 repositories listed.)
+_Updated on December 23, 2024_ (A total of 1925 repositories listed.)
 
 ## Table of contents
 
@@ -560,6 +559,7 @@ _Updated on December 19, 2024_ (A total of 1922 repositories listed.)
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、およびLangGraphを活用し、このツールは仮説の生成、データ分析、可視化、およびレポート作成を効率化します。完璧
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - LLMsを使用して任意のコンピューターを制御します。
+ * [OmAgent](https://github.com/om-ai-lab/omagent) - スマートデバイスやその他のためのマルチモーダル言語エージェントフレームワーク
 
 
 ## Browser-extensions
@@ -912,6 +912,7 @@ _Updated on December 19, 2024_ (A total of 1922 repositories listed.)
  * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - AIソフトウェアエンジニアと実験するためのプラットフォーム。ターミナルベースです。注意：https://gptengineer.appとは非常に異なります。
  * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - CTranslate2に基づいたオリジナルのOpenAIクライアントと互換性のあるWhisperコマンドラインクライアント。Whisperコマンドラインクライアントは、オリジナルのOpenAIクライアントと互換性があります。
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain パワード シェルコマンドジェネレーターおよびランナーCLI
+ * [uform](https://github.com/unum-cloud/uform) - ポケットサイズのマルチモーダルAIは、多言語テキスト、画像、そして🔜ビデオにわたるコンテンツの理解と生成を行います。OpenAI CLIPやLLaVAよりも最大5倍高速です🖼️ & 🖋️
 
 
 ## Reimplementations
@@ -1262,6 +1263,7 @@ _Updated on December 19, 2024_ (A total of 1922 repositories listed.)
  * [nerve](https://github.com/evilsocket/nerve) - コードを書かずにLLMエージェントを作成します。
  * [OpenAdapt](https://github.com/openadaptai/openadapt) - オープンソースの生成プロセス自動化（すなわち、生成RPA）。大規模な（言語（LLMs）/アクション（LAMs）/マルチモーダル（LMMs）/ビジュアル言語（VLMs））モデルを使用したAIファーストプロセス自動化。
  * [opik](https://github.com/comet-ml/opik/) - オープンソースのエンドツーエンドLLM開発プラットフォーム
+ * [PySpur](https://github.com/pyspur-dev/pyspur) - LLMワークフロー用のグラフベースエディタ
 
 
 ## Langchain
