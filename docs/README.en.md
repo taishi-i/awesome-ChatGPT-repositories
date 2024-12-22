@@ -15,20 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+**Chatbots**
+ * [OmAgent](https://github.com/om-ai-lab/omagent) - A Multimodal Language Agent Framework for Smart Devices and More
 
 
-**Browser-extensions**
- * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+**CLIs**
+ * [uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
 
 
-**Openai**
- * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
- * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
+**NLP**
+ * [PySpur](https://github.com/pyspur-dev/pyspur) - Graph-Based Editor for LLM Workflows
 
 
-_Updated on December 19, 2024_ (A total of 1922 repositories listed.)
+_Updated on December 23, 2024_ (A total of 1925 repositories listed.)
 
 ## Table of contents
 
@@ -560,6 +559,7 @@ _Updated on December 19, 2024_ (A total of 1922 repositories listed.)
  * [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - AI-Driven Research Assistant: An advanced multi-agent system for automating complex research processes. Leveraging LangChain, OpenAI GPT, and LangGraph, this tool streamlines hypothesis generation, data analysis, visualization, and report writing. Perfect
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - Control Any Computer Using LLMs
+ * [OmAgent](https://github.com/om-ai-lab/omagent) - A Multimodal Language Agent Framework for Smart Devices and More
 
 
 ## Browser-extensions
@@ -912,6 +912,7 @@ _Updated on December 19, 2024_ (A total of 1922 repositories listed.)
  * [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
  * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
+ * [uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
 
 
 ## Reimplementations
@@ -1262,6 +1263,7 @@ _Updated on December 19, 2024_ (A total of 1922 repositories listed.)
  * [nerve](https://github.com/evilsocket/nerve) - Create LLM agents without writing code.
  * [OpenAdapt](https://github.com/openadaptai/openadapt) - Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
  * [opik](https://github.com/comet-ml/opik/) - Open-source end-to-end LLM Development Platform
+ * [PySpur](https://github.com/pyspur-dev/pyspur) - Graph-Based Editor for LLM Workflows
 
 
 ## Langchain
