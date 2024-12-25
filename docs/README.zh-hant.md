@@ -15,19 +15,17 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [OmAgent](https://github.com/om-ai-lab/omagent) - 一個多模式語言代理框架，適用於智能設備和更多功能
+**Browser-extensions**
+ * [browser-use](https://github.com/browser-use/browser-use) - 使網站對AI代理人可訪問
+ * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - 一個黑曜石插件，可與您注重隱私的AI助手互動，使您的第二大腦更加智能！
 
 
-**CLIs**
- * [uform](https://github.com/unum-cloud/uform) - 口袋尺寸的多模式人工智能，可跨多种语言文本、图像和🔜视频进行内容理解和生成，比OpenAI CLIP和LLaVA快5倍🖼️&🖋️
+**Openai**
+ * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - 一個用於與微控制器（如ESP32）一起使用實時API的SDK
+ * [openai-go](https://github.com/openai/openai-go) - OpenAI API 的官方 Go 库
 
 
-**NLP**
- * [PySpur](https://github.com/pyspur-dev/pyspur) - 基於圖形的編輯器用於LLM工作流程
-
-
-_Updated on December 23, 2024_ (A total of 1925 repositories listed.)
+_Updated on December 26, 2024_ (A total of 1929 repositories listed.)
 
 ## Table of contents
 
@@ -768,6 +766,8 @@ _Updated on December 23, 2024_ (A total of 1925 repositories listed.)
  * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura就像Siri一樣，但在您的瀏覽器中。一個針對低延遲響應進行優化的人工智能語音助手。
  * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu 是一個自主編碼代理，它存在於您的IDE中。這是一個 VSCode 擴展，可以幫助您利用最新技術中的自動編碼代理逐步構建您的夢想項目。
  * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
+ * [browser-use](https://github.com/browser-use/browser-use) - 使網站對AI代理人可訪問
+ * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - 一個黑曜石插件，可與您注重隱私的AI助手互動，使您的第二大腦更加智能！
 
 
 ## CLIs
@@ -1613,6 +1613,8 @@ _Updated on December 23, 2024_ (A total of 1925 repositories listed.)
  * [subgen](https://github.com/mcclouds/subgen) - 使用OpenAI Whisper模型通过Jellyfin、Plex、Emby、Tautulli或Bazarr自动生成字幕
  * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - 使用實時API進行檢查、構建和調試的React應用程式
  * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR 服務API
+ * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - 一個用於與微控制器（如ESP32）一起使用實時API的SDK
+ * [openai-go](https://github.com/openai/openai-go) - OpenAI API 的官方 Go 库
 
 
 ## Others
