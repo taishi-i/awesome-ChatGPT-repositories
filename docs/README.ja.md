@@ -15,19 +15,17 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [OmAgent](https://github.com/om-ai-lab/omagent) - スマートデバイスやその他のためのマルチモーダル言語エージェントフレームワーク
+**Browser-extensions**
+ * [browser-use](https://github.com/browser-use/browser-use) - AIエージェントにウェブサイトをアクセス可能にする
+ * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！
 
 
-**CLIs**
- * [uform](https://github.com/unum-cloud/uform) - ポケットサイズのマルチモーダルAIは、多言語テキスト、画像、そして🔜ビデオにわたるコンテンツの理解と生成を行います。OpenAI CLIPやLLaVAよりも最大5倍高速です🖼️ & 🖋️
+**Openai**
+ * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - ESP32のようなマイクロコントローラーでRealtime APIを使用するためのSDK
+ * [openai-go](https://github.com/openai/openai-go) - OpenAI APIの公式Goライブラリ
 
 
-**NLP**
- * [PySpur](https://github.com/pyspur-dev/pyspur) - LLMワークフロー用のグラフベースエディタ
-
-
-_Updated on December 23, 2024_ (A total of 1925 repositories listed.)
+_Updated on December 26, 2024_ (A total of 1929 repositories listed.)
 
 ## Table of contents
 
@@ -768,6 +766,8 @@ _Updated on December 23, 2024_ (A total of 1925 repositories listed.)
  * [aura-voice](https://github.com/ntegrals/aura-voice) - AuraはSiriのようなものですが、ブラウザ内で動作します。低遅延応答に最適化されたAI音声アシスタントです。
  * [claude-coder](https://github.com/kodu-ai/claude-coder) - Koduは、あなたのIDEに住む自律型のコーディングエージェントです。これは、最新の技術を活用して、ステップバイステップであなたの夢のプロジェクトを構築するのに役立つVSCode拡張機能です。
  * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。一括で無料であなたの個人AutoGPTウェブアプリを展開します。
+ * [browser-use](https://github.com/browser-use/browser-use) - AIエージェントにウェブサイトをアクセス可能にする
+ * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！
 
 
 ## CLIs
@@ -1613,6 +1613,8 @@ _Updated on December 23, 2024_ (A total of 1925 repositories listed.)
  * [subgen](https://github.com/mcclouds/subgen) - Jellyfin、Plex、Emby、Tautulli、またはBazarrを使用してOpenAI Whisper Modelを使用して自動生成された字幕
  * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - リアルタイムAPIを使用して検査、構築、デバッグするためのReactアプリ
  * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASRウェブサービスAPI
+ * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - ESP32のようなマイクロコントローラーでRealtime APIを使用するためのSDK
+ * [openai-go](https://github.com/openai/openai-go) - OpenAI APIの公式Goライブラリ
 
 
 ## Others

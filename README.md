@@ -15,19 +15,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [OmAgent](https://github.com/om-ai-lab/omagent) - A Multimodal Language Agent Framework for Smart Devices and More
+**Browser-extensions**
+ * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+ * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 
 
-**CLIs**
- * [uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
+**Openai**
+ * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - A SDK to using the Realtime API with Microcontrollers like the ESP32
+ * [openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 
 
-**NLP**
- * [PySpur](https://github.com/pyspur-dev/pyspur) - Graph-Based Editor for LLM Workflows
-
-
-_Updated on December 23, 2024_ (A total of 1925 repositories listed.)
+_Updated on December 26, 2024_ (A total of 1929 repositories listed.)
 
 ## Table of contents
 
@@ -768,6 +766,8 @@ _Updated on December 23, 2024_ (A total of 1925 repositories listed.)
  * [aura-voice](https://github.com/ntegrals/aura-voice) - Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.
  * [claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding agents
  * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+ * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+ * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
 
 
 ## CLIs
@@ -1613,6 +1613,8 @@ _Updated on December 23, 2024_ (A total of 1925 repositories listed.)
  * [subgen](https://github.com/mcclouds/subgen) - Autogenerate subtitles using OpenAI Whisper Model via Jellyfin, Plex, Emby, Tautulli, or Bazarr
  * [openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
  * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
+ * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - A SDK to using the Realtime API with Microcontrollers like the ESP32
+ * [openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 
 
 ## Others

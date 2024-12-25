@@ -16968,6 +16968,48 @@
                     "zh-hans": "🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。",
                     "zh-hant": "🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。"
                 }
+            },
+            "https://github.com/browser-use/browser-use": {
+                "repository_name": "browser-use",
+                "user_name": "browser-use",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Make websites accessible for AI agents",
+                "topics": [
+                    "ai-agents",
+                    "ai-tools",
+                    "browser-automation",
+                    "llm",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Make websites accessible for AI agents",
+                    "ja": "AIエージェントにウェブサイトをアクセス可能にする",
+                    "zh-hans": "为AI代理人使网站可访问",
+                    "zh-hant": "使網站對AI代理人可訪問"
+                }
+            },
+            "https://github.com/your-papa/obsidian-smart2brain": {
+                "repository_name": "obsidian-Smart2Brain",
+                "user_name": "your-papa",
+                "language": "Svelte",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "embeddings",
+                    "obsidian-md",
+                    "obsidian-plugin",
+                    "ollama",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!",
+                    "ja": "プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！",
+                    "zh-hans": "一个黑曜石插件，用于与您注重隐私的AI助手互动，使您的第二大脑变得更加智能！",
+                    "zh-hant": "一個黑曜石插件，可與您注重隱私的AI助手互動，使您的第二大腦更加智能！"
+                }
             }
         },
         "CLIs": {
@@ -35207,6 +35249,34 @@
                     "ja": "OpenAI Whisper ASRウェブサービスAPI",
                     "zh-hans": "OpenAI Whisper ASR 语音识别服务 API",
                     "zh-hant": "OpenAI Whisper ASR 服務API"
+                }
+            },
+            "https://github.com/openai/openai-realtime-embedded-sdk": {
+                "repository_name": "openai-realtime-embedded-sdk",
+                "user_name": "openai",
+                "language": "C++",
+                "license": "MIT License",
+                "description": "A SDK to using the Realtime API with Microcontrollers like the ESP32",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A SDK to using the Realtime API with Microcontrollers like the ESP32",
+                    "ja": "ESP32のようなマイクロコントローラーでRealtime APIを使用するためのSDK",
+                    "zh-hans": "一个用于在微控制器（如ESP32）上使用实时API的SDK",
+                    "zh-hant": "一個用於與微控制器（如ESP32）一起使用實時API的SDK"
+                }
+            },
+            "https://github.com/openai/openai-go": {
+                "repository_name": "openai-go",
+                "user_name": "openai",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "The official Go library for the OpenAI API",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The official Go library for the OpenAI API",
+                    "ja": "OpenAI APIの公式Goライブラリ",
+                    "zh-hans": "OpenAI API的官方Go库",
+                    "zh-hant": "OpenAI API 的官方 Go 库"
                 }
             }
         },
