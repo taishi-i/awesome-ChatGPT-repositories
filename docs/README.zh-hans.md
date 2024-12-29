@@ -15,17 +15,24 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [browser-use](https://github.com/browser-use/browser-use) - 为AI代理人使网站可访问
- * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - 一个黑曜石插件，用于与您注重隐私的AI助手互动，使您的第二大脑变得更加智能！
+**Prompts**
+ * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - 我自己的提示用于定制指令ChatGPT
+
+
+**CLIs**
+ * [subsai](https://github.com/absadiki/subsai) - 🎞️由OpenAI的Whisper及其变体提供支持的字幕生成工具（Web-UI + CLI + Python包）🎞️
+
+
+**Langchain**
+ * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - 使用Zotero聊天PDF与GPT，ChatGPT，克劳德，双子座，DeepSeek
+ * [Jlama](https://github.com/tjake/jlama) - Jlama是一个现代的Java LLM推理引擎。
 
 
 **Openai**
- * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - 一个用于在微控制器（如ESP32）上使用实时API的SDK
- * [openai-go](https://github.com/openai/openai-go) - OpenAI API的官方Go库
+ * [interview-coder](https://github.com/ibttf/interview-coder) - 一个开源的隐形桌面应用程序，帮助您通过技术面试。
 
 
-_Updated on December 26, 2024_ (A total of 1929 repositories listed.)
+_Updated on December 30, 2024_ (A total of 1934 repositories listed.)
 
 ## Table of contents
 
@@ -272,6 +279,7 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [archgw](https://github.com/katanemo/archgw) - Arch是代理的智能网关。 使用（快速）LLMs进行工程设计，用于安全处理，丰富的可观察性，并将提示与您的API无缝集成 - 所有这些都在业务逻辑之外。 由Envoy代理的核心贡献者在Envoy上构建。
  * [openlit](https://github.com/openlit/openlit) - AI工程的开源平台：OpenTelemetry原生LLM可观测性，GPU监控，防护栏，评估，提示管理，保险库，游乐场。🚀💻 与40多个LLM提供商，VectorDBs，代理框架和GPU集成。
  * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的提示
+ * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - 我自己的提示用于定制指令ChatGPT
 
 
 ## Chatbots
@@ -913,6 +921,7 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - 基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。输出：基于CTranslate2的原始OpenAI客户端兼容的Whisper命令行客户端。
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain 动力外壳命令生成器和运行器CLI
  * [uform](https://github.com/unum-cloud/uform) - 袖珍多模态人工智能，可跨多语言文本、图像和视频进行内容理解和生成，速度比OpenAI CLIP和LLaVA快5倍。
+ * [subsai](https://github.com/absadiki/subsai) - 🎞️由OpenAI的Whisper及其变体提供支持的字幕生成工具（Web-UI + CLI + Python包）🎞️
 
 
 ## Reimplementations
@@ -1385,6 +1394,8 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [llama3.java](https://github.com/mukel/llama3.java) - 在Java中进行实用Llama 3推断
  * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - 高质量资源和应用程序供LLMs、多模型和VectorDBs使用
  * [markitdown](https://github.com/microsoft/markitdown) - Python工具，用于将文件和办公文档转换为Markdown。
+ * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - 使用Zotero聊天PDF与GPT，ChatGPT，克劳德，双子座，DeepSeek
+ * [Jlama](https://github.com/tjake/jlama) - Jlama是一个现代的Java LLM推理引擎。
 
 
 ## Unity
@@ -1615,6 +1626,7 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR 语音识别服务 API
  * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - 一个用于在微控制器（如ESP32）上使用实时API的SDK
  * [openai-go](https://github.com/openai/openai-go) - OpenAI API的官方Go库
+ * [interview-coder](https://github.com/ibttf/interview-coder) - 一个开源的隐形桌面应用程序，帮助您通过技术面试。
 
 
 ## Others

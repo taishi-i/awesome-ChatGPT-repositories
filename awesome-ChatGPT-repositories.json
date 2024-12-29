@@ -5401,6 +5401,20 @@
                     "zh-hans": "收集GPTS的提示",
                     "zh-hant": "收集GPTS的提示"
                 }
+            },
+            "https://github.com/denissergeevitch/chatgpt-custom-instructions": {
+                "repository_name": "chatgpt-custom-instructions",
+                "user_name": "DenisSergeevitch",
+                "language": null,
+                "license": null,
+                "description": "My own Prompts for Custom instructions ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "My own Prompts for Custom instructions ChatGPT",
+                    "ja": "カスタム指示用の私自身のプロンプトChatGPT",
+                    "zh-hans": "我自己的提示用于定制指令ChatGPT",
+                    "zh-hant": "我自己的提示用於定制指令ChatGPT"
+                }
             }
         },
         "Chatbots": {
@@ -20266,6 +20280,27 @@
                     "zh-hans": "袖珍多模态人工智能，可跨多语言文本、图像和视频进行内容理解和生成，速度比OpenAI CLIP和LLaVA快5倍。",
                     "zh-hant": "口袋尺寸的多模式人工智能，可跨多种语言文本、图像和🔜视频进行内容理解和生成，比OpenAI CLIP和LLaVA快5倍🖼️&🖋️"
                 }
+            },
+            "https://github.com/absadiki/subsai": {
+                "repository_name": "subsai",
+                "user_name": "absadiki",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️",
+                "topics": [
+                    "cli",
+                    "subtitles",
+                    "subtitles-generator",
+                    "webui",
+                    "whisper",
+                    "whisper-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️",
+                    "ja": "🎞️ OpenAIのWhisperおよびそのバリアントを活用した字幕生成ツール（Web-UI + CLI + Pythonパッケージ） 🎞️",
+                    "zh-hans": "🎞️由OpenAI的Whisper及其变体提供支持的字幕生成工具（Web-UI + CLI + Python包）🎞️",
+                    "zh-hant": "🎞️ 由OpenAI的Whisper及其變體提供動態生成工具（Web-UI + CLI + Python套件） 🎞️"
+                }
             }
         },
         "Reimplementations": {
@@ -30434,6 +30469,60 @@
                     "zh-hans": "Python工具，用于将文件和办公文档转换为Markdown。",
                     "zh-hant": "將檔案和辦公文件轉換為Markdown的Python工具。"
                 }
+            },
+            "https://github.com/papersgpt/papersgpt-for-zotero": {
+                "repository_name": "papersgpt-for-zotero",
+                "user_name": "papersgpt",
+                "language": "JavaScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Zotero chat PDF with GPT, ChatGPT, Claude, Gemini, DeepSeek",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "chatgpt",
+                    "claude",
+                    "deepseek",
+                    "gemma",
+                    "gpt",
+                    "llama",
+                    "mistral",
+                    "o1",
+                    "pdf",
+                    "phi-4",
+                    "qwq-32b-preview",
+                    "zotero"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Zotero chat PDF with GPT, ChatGPT, Claude, Gemini, DeepSeek",
+                    "ja": "ZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeekZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeek",
+                    "zh-hans": "使用Zotero聊天PDF与GPT，ChatGPT，克劳德，双子座，DeepSeek",
+                    "zh-hant": "Zotero 聊天 PDF 與 GPT、ChatGPT、Claude、Gemini、DeepSeek"
+                }
+            },
+            "https://github.com/tjake/jlama": {
+                "repository_name": "Jlama",
+                "user_name": "tjake",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "Jlama is a modern LLM inference engine for Java",
+                "topics": [
+                    "ai",
+                    "genai",
+                    "gpt",
+                    "huggingface",
+                    "java",
+                    "llama",
+                    "llm",
+                    "openai",
+                    "simd",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Jlama is a modern LLM inference engine for Java",
+                    "ja": "JlamaはJava向けのモダンなLLM推論エンジンです。",
+                    "zh-hans": "Jlama是一个现代的Java LLM推理引擎。",
+                    "zh-hant": "Jlama是一個現代的Java LLM推理引擎"
+                }
             }
         },
         "Unity": {
@@ -35277,6 +35366,25 @@
                     "ja": "OpenAI APIの公式Goライブラリ",
                     "zh-hans": "OpenAI API的官方Go库",
                     "zh-hant": "OpenAI API 的官方 Go 库"
+                }
+            },
+            "https://github.com/ibttf/interview-coder": {
+                "repository_name": "interview-coder",
+                "user_name": "ibttf",
+                "language": "TypeScript",
+                "license": null,
+                "description": "An open-source invisible desktop application to help you pass your technical interviews.",
+                "topics": [
+                    "electron",
+                    "gpt",
+                    "openai",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open-source invisible desktop application to help you pass your technical interviews.",
+                    "ja": "技術面接に合格するのを手助けするオープンソースの見えないデスクトップアプリケーション。",
+                    "zh-hans": "一个开源的隐形桌面应用程序，帮助您通过技术面试。",
+                    "zh-hant": "一個開源的隱形桌面應用程式，幫助您通過技術面試。"
                 }
             }
         },

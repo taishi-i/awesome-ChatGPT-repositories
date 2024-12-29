@@ -15,17 +15,24 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [browser-use](https://github.com/browser-use/browser-use) - AIエージェントにウェブサイトをアクセス可能にする
- * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！
+**Prompts**
+ * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - カスタム指示用の私自身のプロンプトChatGPT
+
+
+**CLIs**
+ * [subsai](https://github.com/absadiki/subsai) - 🎞️ OpenAIのWhisperおよびそのバリアントを活用した字幕生成ツール（Web-UI + CLI + Pythonパッケージ） 🎞️
+
+
+**Langchain**
+ * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - ZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeekZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeek
+ * [Jlama](https://github.com/tjake/jlama) - JlamaはJava向けのモダンなLLM推論エンジンです。
 
 
 **Openai**
- * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - ESP32のようなマイクロコントローラーでRealtime APIを使用するためのSDK
- * [openai-go](https://github.com/openai/openai-go) - OpenAI APIの公式Goライブラリ
+ * [interview-coder](https://github.com/ibttf/interview-coder) - 技術面接に合格するのを手助けするオープンソースの見えないデスクトップアプリケーション。
 
 
-_Updated on December 26, 2024_ (A total of 1929 repositories listed.)
+_Updated on December 30, 2024_ (A total of 1934 repositories listed.)
 
 ## Table of contents
 
@@ -272,6 +279,7 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [archgw](https://github.com/katanemo/archgw) - Archはエージェント向けのインテリジェントなゲートウェイです。安全な処理、豊富な観測性、およびAPIとのシームレスな統合を実現するために、(高速な)LLMが使用されています - すべてはビジネスロジックの外側で行われます。Envoyプロキシのコアコントリビューターによって構築され、Envoy上で動作します。
  * [openlit](https://github.com/openlit/openlit) - AIエンジニアリングのためのオープンソースプラットフォーム：OpenTelemetryネイティブLLMオブザーバビリティ、GPUモニタリング、ガードレール、評価、プロンプト管理、ボールト、プレイグラウンド。🚀💻 40以上のLLMプロバイダー、VectorDB、エージェントフレームワーク、GPUと統合されています。
  * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - GPTSのプロンプトを収集します
+ * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - カスタム指示用の私自身のプロンプトChatGPT
 
 
 ## Chatbots
@@ -913,6 +921,7 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - CTranslate2に基づいたオリジナルのOpenAIクライアントと互換性のあるWhisperコマンドラインクライアント。Whisperコマンドラインクライアントは、オリジナルのOpenAIクライアントと互換性があります。
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain パワード シェルコマンドジェネレーターおよびランナーCLI
  * [uform](https://github.com/unum-cloud/uform) - ポケットサイズのマルチモーダルAIは、多言語テキスト、画像、そして🔜ビデオにわたるコンテンツの理解と生成を行います。OpenAI CLIPやLLaVAよりも最大5倍高速です🖼️ & 🖋️
+ * [subsai](https://github.com/absadiki/subsai) - 🎞️ OpenAIのWhisperおよびそのバリアントを活用した字幕生成ツール（Web-UI + CLI + Pythonパッケージ） 🎞️
 
 
 ## Reimplementations
@@ -1385,6 +1394,8 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [llama3.java](https://github.com/mukel/llama3.java) - Javaでの実用的なラマ3推論
  * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - LLMs、マルチモーダルモデル、およびVectorDB向けの高品質リソース＆アプリケーション
  * [markitdown](https://github.com/microsoft/markitdown) - Markdown へのファイルやオフィス文書を変換するための Python ツール。
+ * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - ZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeekZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeek
+ * [Jlama](https://github.com/tjake/jlama) - JlamaはJava向けのモダンなLLM推論エンジンです。
 
 
 ## Unity
@@ -1615,6 +1626,7 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASRウェブサービスAPI
  * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - ESP32のようなマイクロコントローラーでRealtime APIを使用するためのSDK
  * [openai-go](https://github.com/openai/openai-go) - OpenAI APIの公式Goライブラリ
+ * [interview-coder](https://github.com/ibttf/interview-coder) - 技術面接に合格するのを手助けするオープンソースの見えないデスクトップアプリケーション。
 
 
 ## Others
