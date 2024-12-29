@@ -15,17 +15,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
- * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+**Prompts**
+ * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - My own Prompts for Custom instructions ChatGPT
+
+
+**CLIs**
+ * [subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
+
+
+**Langchain**
+ * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero chat PDF with GPT, ChatGPT, Claude, Gemini, DeepSeek
+ * [Jlama](https://github.com/tjake/jlama) - Jlama is a modern LLM inference engine for Java
 
 
 **Openai**
- * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - A SDK to using the Realtime API with Microcontrollers like the ESP32
- * [openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
+ * [interview-coder](https://github.com/ibttf/interview-coder) - An open-source invisible desktop application to help you pass your technical interviews.
 
 
-_Updated on December 26, 2024_ (A total of 1929 repositories listed.)
+_Updated on December 30, 2024_ (A total of 1934 repositories listed.)
 
 ## Table of contents
 
@@ -272,6 +279,7 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [archgw](https://github.com/katanemo/archgw) - Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.
  * [openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
  * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
+ * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - My own Prompts for Custom instructions ChatGPT
 
 
 ## Chatbots
@@ -913,6 +921,7 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
  * [uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
+ * [subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 
 
 ## Reimplementations
@@ -1385,6 +1394,8 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [llama3.java](https://github.com/mukel/llama3.java) - Practical Llama 3 inference in Java
  * [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - High quality resources & applications for LLMs, multi-modal models and VectorDBs
  * [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+ * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero chat PDF with GPT, ChatGPT, Claude, Gemini, DeepSeek
+ * [Jlama](https://github.com/tjake/jlama) - Jlama is a modern LLM inference engine for Java
 
 
 ## Unity
@@ -1615,6 +1626,7 @@ _Updated on December 26, 2024_ (A total of 1929 repositories listed.)
  * [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
  * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - A SDK to using the Realtime API with Microcontrollers like the ESP32
  * [openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
+ * [interview-coder](https://github.com/ibttf/interview-coder) - An open-source invisible desktop application to help you pass your technical interviews.
 
 
 ## Others
