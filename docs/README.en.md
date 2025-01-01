@@ -15,24 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - My own Prompts for Custom instructions ChatGPT
+**Chatbots**
+ * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
 
 
 **CLIs**
- * [subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
+ * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 
 
-**Langchain**
- * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero chat PDF with GPT, ChatGPT, Claude, Gemini, DeepSeek
- * [Jlama](https://github.com/tjake/jlama) - Jlama is a modern LLM inference engine for Java
+**NLP**
+ * [ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
 
 
-**Openai**
- * [interview-coder](https://github.com/ibttf/interview-coder) - An open-source invisible desktop application to help you pass your technical interviews.
-
-
-_Updated on December 30, 2024_ (A total of 1934 repositories listed.)
+_Updated on January 02, 2025_ (A total of 1937 repositories listed.)
 
 ## Table of contents
 
@@ -566,6 +561,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 List all IP ranges from: Google (Cloud & GoogleBot), Bing (Bingbot), Amazon (AWS), Microsoft, Oracle (Cloud), GitHub, Facebook (Meta), OpenAI (GPTBot) and other with daily updates.
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - Control Any Computer Using LLMs
  * [OmAgent](https://github.com/om-ai-lab/omagent) - A Multimodal Language Agent Framework for Smart Devices and More
+ * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
 
 
 ## Browser-extensions
@@ -922,6 +918,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain powered shell command generator and runner CLI
  * [uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
  * [subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
+ * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
 
 
 ## Reimplementations
@@ -1273,6 +1270,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [OpenAdapt](https://github.com/openadaptai/openadapt) - Open Source Generative Process Automation (i.e. Generative RPA). AI-First Process Automation with Large ([Language (LLMs) / Action (LAMs) / Multimodal (LMMs)] / Visual Language (VLMs)) Models
  * [opik](https://github.com/comet-ml/opik/) - Open-source end-to-end LLM Development Platform
  * [PySpur](https://github.com/pyspur-dev/pyspur) - Graph-Based Editor for LLM Workflows
+ * [ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
 
 
 ## Langchain
