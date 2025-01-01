@@ -15,24 +15,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - 我自己的提示用於定制指令ChatGPT
+**Chatbots**
+ * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - 對於不想麻煩使用Python的人，Whisper＆Faster-Whisper獨立執行檔。
 
 
 **CLIs**
- * [subsai](https://github.com/absadiki/subsai) - 🎞️ 由OpenAI的Whisper及其變體提供動態生成工具（Web-UI + CLI + Python套件） 🎞️
+ * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
 
 
-**Langchain**
- * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero 聊天 PDF 與 GPT、ChatGPT、Claude、Gemini、DeepSeek
- * [Jlama](https://github.com/tjake/jlama) - Jlama是一個現代的Java LLM推理引擎
+**NLP**
+ * [ossinsight](https://github.com/pingcap/ossinsight) - 分析、比較、趨勢、排名開源軟件，您還可以從超過70億自然語言中獲得見解（由OpenAI提供動力）。在Twitter上關注我們：https://twitter.com/ossinsight
 
 
-**Openai**
- * [interview-coder](https://github.com/ibttf/interview-coder) - 一個開源的隱形桌面應用程式，幫助您通過技術面試。
-
-
-_Updated on December 30, 2024_ (A total of 1934 repositories listed.)
+_Updated on January 02, 2025_ (A total of 1937 repositories listed.)
 
 ## Table of contents
 
@@ -566,6 +561,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨列出來自Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他每日更新的IP範圍。
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - 使用LLMs控制任何電腦
  * [OmAgent](https://github.com/om-ai-lab/omagent) - 一個多模式語言代理框架，適用於智能設備和更多功能
+ * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - 對於不想麻煩使用Python的人，Whisper＆Faster-Whisper獨立執行檔。
 
 
 ## Browser-extensions
@@ -922,6 +918,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain 驅動的 shell 命令生成器和運行器 CLI
  * [uform](https://github.com/unum-cloud/uform) - 口袋尺寸的多模式人工智能，可跨多种语言文本、图像和🔜视频进行内容理解和生成，比OpenAI CLIP和LLaVA快5倍🖼️&🖋️
  * [subsai](https://github.com/absadiki/subsai) - 🎞️ 由OpenAI的Whisper及其變體提供動態生成工具（Web-UI + CLI + Python套件） 🎞️
+ * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
 
 
 ## Reimplementations
@@ -1273,6 +1270,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [OpenAdapt](https://github.com/openadaptai/openadapt) - 開源生成式流程自動化（即生成式RPA）。具有大型（語言（LLMs）/操作（LAMs）/多模式（LMMs）/視覺語言（VLMs））模型的AI優先流程自動化。
  * [opik](https://github.com/comet-ml/opik/) - 開源端到端LLM開發平台
  * [PySpur](https://github.com/pyspur-dev/pyspur) - 基於圖形的編輯器用於LLM工作流程
+ * [ossinsight](https://github.com/pingcap/ossinsight) - 分析、比較、趨勢、排名開源軟件，您還可以從超過70億自然語言中獲得見解（由OpenAI提供動力）。在Twitter上關注我們：https://twitter.com/ossinsight
 
 
 ## Langchain

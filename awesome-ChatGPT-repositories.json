@@ -12283,6 +12283,35 @@
                     "zh-hans": "一个多模语言代理框架，适用于智能设备和更多功能",
                     "zh-hant": "一個多模式語言代理框架，適用於智能設備和更多功能"
                 }
+            },
+            "https://github.com/purfview/whisper-standalone-win": {
+                "repository_name": "whisper-standalone-win",
+                "user_name": "Purfview",
+                "language": null,
+                "license": null,
+                "description": "Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python. ",
+                "topics": [
+                    "asr",
+                    "ctranslate2",
+                    "faster-whisper",
+                    "faster-whisper-xxl",
+                    "openai",
+                    "speech-recognition",
+                    "speech-to-text",
+                    "subtitles",
+                    "transcriber",
+                    "uvr",
+                    "whisper",
+                    "whisper-faster",
+                    "whisper-faster-xxl",
+                    "whisperx"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.",
+                    "ja": "Pythonを気にしない人のためのWhisper＆Faster-Whisperスタンドアロン実行可能ファイル。",
+                    "zh-hans": "Whisper＆Faster-Whisper独立可执行文件，适用于不想麻烦使用Python的人。输出：Whisper＆Faster-Whisper独立可执行文件，适用于不想麻烦使用Python的人。",
+                    "zh-hant": "對於不想麻煩使用Python的人，Whisper＆Faster-Whisper獨立執行檔。"
+                }
             }
         },
         "Browser-extensions": {
@@ -20301,6 +20330,29 @@
                     "zh-hans": "🎞️由OpenAI的Whisper及其变体提供支持的字幕生成工具（Web-UI + CLI + Python包）🎞️",
                     "zh-hant": "🎞️ 由OpenAI的Whisper及其變體提供動態生成工具（Web-UI + CLI + Python套件） 🎞️"
                 }
+            },
+            "https://github.com/cherryhq/cherry-studio": {
+                "repository_name": "cherry-studio",
+                "user_name": "CherryHQ",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers",
+                "topics": [
+                    "agent",
+                    "anthropic",
+                    "assistant",
+                    "chatbot",
+                    "chatbotai",
+                    "electron",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers",
+                    "ja": "🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。",
+                    "zh-hans": "🍒 Cherry Studio 是一个桌面客户端，支持多个LLM提供商。",
+                    "zh-hant": "🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。"
+                }
             }
         },
         "Reimplementations": {
@@ -27671,6 +27723,32 @@
                     "ja": "LLMワークフロー用のグラフベースエディタ",
                     "zh-hans": "基于图形的LLM工作流程编辑器",
                     "zh-hant": "基於圖形的編輯器用於LLM工作流程"
+                }
+            },
+            "https://github.com/pingcap/ossinsight": {
+                "repository_name": "ossinsight",
+                "user_name": "pingcap",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight",
+                "topics": [
+                    "aisql",
+                    "analytics",
+                    "chat2query",
+                    "demo",
+                    "github",
+                    "htap",
+                    "insight",
+                    "openai",
+                    "oss",
+                    "realtime",
+                    "text2sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight",
+                    "ja": "オープンソースソフトウェアの分析、比較、トレンド、ランキングを入手することができます。さらに、OpenAIによる自然言語で70億以上の洞察を得ることもできます。Twitterでフォローしてください：https://twitter.com/ossinsight",
+                    "zh-hans": "分析、比较、趋势、排名开源软件，您还可以从超过70亿的自然语言中获得见解（由OpenAI提供支持）。关注我们的Twitter：https://twitter.com/ossinsight",
+                    "zh-hant": "分析、比較、趨勢、排名開源軟件，您還可以從超過70億自然語言中獲得見解（由OpenAI提供動力）。在Twitter上關注我們：https://twitter.com/ossinsight"
                 }
             }
         },

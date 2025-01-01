@@ -15,24 +15,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - 我自己的提示用于定制指令ChatGPT
+**Chatbots**
+ * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper＆Faster-Whisper独立可执行文件，适用于不想麻烦使用Python的人。输出：Whisper＆Faster-Whisper独立可执行文件，适用于不想麻烦使用Python的人。
 
 
 **CLIs**
- * [subsai](https://github.com/absadiki/subsai) - 🎞️由OpenAI的Whisper及其变体提供支持的字幕生成工具（Web-UI + CLI + Python包）🎞️
+ * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio 是一个桌面客户端，支持多个LLM提供商。
 
 
-**Langchain**
- * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - 使用Zotero聊天PDF与GPT，ChatGPT，克劳德，双子座，DeepSeek
- * [Jlama](https://github.com/tjake/jlama) - Jlama是一个现代的Java LLM推理引擎。
+**NLP**
+ * [ossinsight](https://github.com/pingcap/ossinsight) - 分析、比较、趋势、排名开源软件，您还可以从超过70亿的自然语言中获得见解（由OpenAI提供支持）。关注我们的Twitter：https://twitter.com/ossinsight
 
 
-**Openai**
- * [interview-coder](https://github.com/ibttf/interview-coder) - 一个开源的隐形桌面应用程序，帮助您通过技术面试。
-
-
-_Updated on December 30, 2024_ (A total of 1934 repositories listed.)
+_Updated on January 02, 2025_ (A total of 1937 repositories listed.)
 
 ## Table of contents
 
@@ -566,6 +561,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨列出以下所有IP范围：Google（云和GoogleBot）、必应（Bingbot）、亚马逊（AWS）、微软、甲骨文（云）、GitHub、Facebook（Meta）、OpenAI（GPTBot）和其他，并每日更新。
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - 使用LLMs控制任何计算机
  * [OmAgent](https://github.com/om-ai-lab/omagent) - 一个多模语言代理框架，适用于智能设备和更多功能
+ * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper＆Faster-Whisper独立可执行文件，适用于不想麻烦使用Python的人。输出：Whisper＆Faster-Whisper独立可执行文件，适用于不想麻烦使用Python的人。
 
 
 ## Browser-extensions
@@ -922,6 +918,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain 动力外壳命令生成器和运行器CLI
  * [uform](https://github.com/unum-cloud/uform) - 袖珍多模态人工智能，可跨多语言文本、图像和视频进行内容理解和生成，速度比OpenAI CLIP和LLaVA快5倍。
  * [subsai](https://github.com/absadiki/subsai) - 🎞️由OpenAI的Whisper及其变体提供支持的字幕生成工具（Web-UI + CLI + Python包）🎞️
+ * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio 是一个桌面客户端，支持多个LLM提供商。
 
 
 ## Reimplementations
@@ -1273,6 +1270,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [OpenAdapt](https://github.com/openadaptai/openadapt) - 开源生成过程自动化（即生成式RPA）。具有大型（[语言（LLMs）/动作（LAMs）/多模态（LMMs）/视觉语言（VLMs）]）模型的AI优先流程自动化。
  * [opik](https://github.com/comet-ml/opik/) - 开源端到端LLM开发平台
  * [PySpur](https://github.com/pyspur-dev/pyspur) - 基于图形的LLM工作流程编辑器
+ * [ossinsight](https://github.com/pingcap/ossinsight) - 分析、比较、趋势、排名开源软件，您还可以从超过70亿的自然语言中获得见解（由OpenAI提供支持）。关注我们的Twitter：https://twitter.com/ossinsight
 
 
 ## Langchain

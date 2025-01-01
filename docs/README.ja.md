@@ -15,24 +15,19 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - カスタム指示用の私自身のプロンプトChatGPT
+**Chatbots**
+ * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Pythonを気にしない人のためのWhisper＆Faster-Whisperスタンドアロン実行可能ファイル。
 
 
 **CLIs**
- * [subsai](https://github.com/absadiki/subsai) - 🎞️ OpenAIのWhisperおよびそのバリアントを活用した字幕生成ツール（Web-UI + CLI + Pythonパッケージ） 🎞️
+ * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
 
 
-**Langchain**
- * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - ZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeekZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeek
- * [Jlama](https://github.com/tjake/jlama) - JlamaはJava向けのモダンなLLM推論エンジンです。
+**NLP**
+ * [ossinsight](https://github.com/pingcap/ossinsight) - オープンソースソフトウェアの分析、比較、トレンド、ランキングを入手することができます。さらに、OpenAIによる自然言語で70億以上の洞察を得ることもできます。Twitterでフォローしてください：https://twitter.com/ossinsight
 
 
-**Openai**
- * [interview-coder](https://github.com/ibttf/interview-coder) - 技術面接に合格するのを手助けするオープンソースの見えないデスクトップアプリケーション。
-
-
-_Updated on December 30, 2024_ (A total of 1934 repositories listed.)
+_Updated on January 02, 2025_ (A total of 1937 repositories listed.)
 
 ## Table of contents
 
@@ -566,6 +561,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [ipranges](https://github.com/lord-alfred/ipranges) - 🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - LLMsを使用して任意のコンピューターを制御します。
  * [OmAgent](https://github.com/om-ai-lab/omagent) - スマートデバイスやその他のためのマルチモーダル言語エージェントフレームワーク
+ * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Pythonを気にしない人のためのWhisper＆Faster-Whisperスタンドアロン実行可能ファイル。
 
 
 ## Browser-extensions
@@ -922,6 +918,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [shell-ai](https://github.com/ricklamers/shell-ai) - LangChain パワード シェルコマンドジェネレーターおよびランナーCLI
  * [uform](https://github.com/unum-cloud/uform) - ポケットサイズのマルチモーダルAIは、多言語テキスト、画像、そして🔜ビデオにわたるコンテンツの理解と生成を行います。OpenAI CLIPやLLaVAよりも最大5倍高速です🖼️ & 🖋️
  * [subsai](https://github.com/absadiki/subsai) - 🎞️ OpenAIのWhisperおよびそのバリアントを活用した字幕生成ツール（Web-UI + CLI + Pythonパッケージ） 🎞️
+ * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
 
 
 ## Reimplementations
@@ -1273,6 +1270,7 @@ _Updated on December 30, 2024_ (A total of 1934 repositories listed.)
  * [OpenAdapt](https://github.com/openadaptai/openadapt) - オープンソースの生成プロセス自動化（すなわち、生成RPA）。大規模な（言語（LLMs）/アクション（LAMs）/マルチモーダル（LMMs）/ビジュアル言語（VLMs））モデルを使用したAIファーストプロセス自動化。
  * [opik](https://github.com/comet-ml/opik/) - オープンソースのエンドツーエンドLLM開発プラットフォーム
  * [PySpur](https://github.com/pyspur-dev/pyspur) - LLMワークフロー用のグラフベースエディタ
+ * [ossinsight](https://github.com/pingcap/ossinsight) - オープンソースソフトウェアの分析、比較、トレンド、ランキングを入手することができます。さらに、OpenAIによる自然言語で70億以上の洞察を得ることもできます。Twitterでフォローしてください：https://twitter.com/ossinsight
 
 
 ## Langchain
