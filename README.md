@@ -562,6 +562,7 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - Control Any Computer Using LLMs
  * [OmAgent](https://github.com/om-ai-lab/omagent) - A Multimodal Language Agent Framework for Smart Devices and More
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
+ * [CavalierGPT](https://chatgpt.com/g/g-Rddxw5Vyc-cavaliergpt-cybersecurity-osint-investigations) - Assistant built on the Cavalier API, designed to deliver detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security.
 
 
 ## Browser-extensions
