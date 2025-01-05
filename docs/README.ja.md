@@ -15,19 +15,26 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - プロンプトとOpenAI APIリクエストのログを維持します。古い完了を追跡、デバッグ、再生します。
+ * [langwatch](https://github.com/langwatch/langwatch) - 究極のLLM Opsプラットフォーム - モニタリング、分析、評価、データセット、そして迅速な最適化 ✨
+
+
 **Chatbots**
- * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Pythonを気にしない人のためのWhisper＆Faster-Whisperスタンドアロン実行可能ファイル。
-
-
-**CLIs**
- * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
+ * [Hexabot](https://github.com/hexastack/hexabot) - HexabotはオープンソースのAIチャットボット/エージェントビルダーです。複数のチャンネルや複数言語のチャットボット/エージェントを簡単に作成・管理することができます。
 
 
 **NLP**
- * [ossinsight](https://github.com/pingcap/ossinsight) - オープンソースソフトウェアの分析、比較、トレンド、ランキングを入手することができます。さらに、OpenAIによる自然言語で70億以上の洞察を得ることもできます。Twitterでフォローしてください：https://twitter.com/ossinsight
+ * [cdxgen](https://github.com/cyclonedx/cdxgen) - ソースおよびコンテナイメージからプロジェクトのCycloneDX材料（BOM）を作成します。多言語およびパッケージマネージャーをサポートしています。CI/CDパイプラインに統合し、Dependency Trackサーバーに自動送信します。GPT：https://chatgpt.com/g/g-
+ * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AIを活用したツールを使用して、医学部やそれ以上の学習においてAnkiフラッシュカードを説明、記憶術、イラスト、適応学習で強化します。
 
 
-_Updated on January 02, 2025_ (A total of 1937 repositories listed.)
+**Langchain**
+ * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AIプロジェクト、複数のAIプロバイダーをサポート（Gitee AI/智谱清言/阿里通义/百度千帆/DeepSeek/抖音豆包/零一万物/讯飞星火/OpenAI/Gemini/Ollama/Azure/Claudeなどの大規模モデル）、JavaエコシステムにおけるAI大規模モデル製品のソリューション、企業向けAIナレッジベース、AIロボットアプリケーションの迅速な構築
+ * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinkerは、LLMs向けのドキュメントインテリジェンスライブラリで、柔軟で強力なドキュメントワークフローのためのORMスタイルのインタラクションを提供しています。
+
+
+_Updated on January 06, 2025_ (A total of 1944 repositories listed.)
 
 ## Table of contents
 
@@ -275,6 +282,8 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [openlit](https://github.com/openlit/openlit) - AIエンジニアリングのためのオープンソースプラットフォーム：OpenTelemetryネイティブLLMオブザーバビリティ、GPUモニタリング、ガードレール、評価、プロンプト管理、ボールト、プレイグラウンド。🚀💻 40以上のLLMプロバイダー、VectorDB、エージェントフレームワーク、GPUと統合されています。
  * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - GPTSのプロンプトを収集します
  * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - カスタム指示用の私自身のプロンプトChatGPT
+ * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - プロンプトとOpenAI APIリクエストのログを維持します。古い完了を追跡、デバッグ、再生します。
+ * [langwatch](https://github.com/langwatch/langwatch) - 究極のLLM Opsプラットフォーム - モニタリング、分析、評価、データセット、そして迅速な最適化 ✨
 
 
 ## Chatbots
@@ -562,6 +571,7 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - LLMsを使用して任意のコンピューターを制御します。
  * [OmAgent](https://github.com/om-ai-lab/omagent) - スマートデバイスやその他のためのマルチモーダル言語エージェントフレームワーク
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Pythonを気にしない人のためのWhisper＆Faster-Whisperスタンドアロン実行可能ファイル。
+ * [Hexabot](https://github.com/hexastack/hexabot) - HexabotはオープンソースのAIチャットボット/エージェントビルダーです。複数のチャンネルや複数言語のチャットボット/エージェントを簡単に作成・管理することができます。
 
 
 ## Browser-extensions
@@ -1271,6 +1281,8 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [opik](https://github.com/comet-ml/opik/) - オープンソースのエンドツーエンドLLM開発プラットフォーム
  * [PySpur](https://github.com/pyspur-dev/pyspur) - LLMワークフロー用のグラフベースエディタ
  * [ossinsight](https://github.com/pingcap/ossinsight) - オープンソースソフトウェアの分析、比較、トレンド、ランキングを入手することができます。さらに、OpenAIによる自然言語で70億以上の洞察を得ることもできます。Twitterでフォローしてください：https://twitter.com/ossinsight
+ * [cdxgen](https://github.com/cyclonedx/cdxgen) - ソースおよびコンテナイメージからプロジェクトのCycloneDX材料（BOM）を作成します。多言語およびパッケージマネージャーをサポートしています。CI/CDパイプラインに統合し、Dependency Trackサーバーに自動送信します。GPT：https://chatgpt.com/g/g-
+ * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AIを活用したツールを使用して、医学部やそれ以上の学習においてAnkiフラッシュカードを説明、記憶術、イラスト、適応学習で強化します。
 
 
 ## Langchain
@@ -1394,6 +1406,8 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [markitdown](https://github.com/microsoft/markitdown) - Markdown へのファイルやオフィス文書を変換するための Python ツール。
  * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - ZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeekZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeek
  * [Jlama](https://github.com/tjake/jlama) - JlamaはJava向けのモダンなLLM推論エンジンです。
+ * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AIプロジェクト、複数のAIプロバイダーをサポート（Gitee AI/智谱清言/阿里通义/百度千帆/DeepSeek/抖音豆包/零一万物/讯飞星火/OpenAI/Gemini/Ollama/Azure/Claudeなどの大規模モデル）、JavaエコシステムにおけるAI大規模モデル製品のソリューション、企業向けAIナレッジベース、AIロボットアプリケーションの迅速な構築
+ * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinkerは、LLMs向けのドキュメントインテリジェンスライブラリで、柔軟で強力なドキュメントワークフローのためのORMスタイルのインタラクションを提供しています。
 
 
 ## Unity

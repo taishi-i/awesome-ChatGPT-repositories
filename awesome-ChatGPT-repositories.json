@@ -5415,6 +5415,54 @@
                     "zh-hans": "我自己的提示用于定制指令ChatGPT",
                     "zh-hant": "我自己的提示用於定制指令ChatGPT"
                 }
+            },
+            "https://github.com/magnivorg/prompt-layer-library": {
+                "repository_name": "prompt-layer-library",
+                "user_name": "MagnivOrg",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🍰 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.",
+                "topics": [
+                    "gpt",
+                    "machine-learning",
+                    "openai",
+                    "prompt",
+                    "prompt-engineering",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🍰 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.",
+                    "ja": "🍰 PromptLayer - プロンプトとOpenAI APIリクエストのログを維持します。古い完了を追跡、デバッグ、再生します。",
+                    "zh-hans": "🍰 PromptLayer - 记录您的提示和OpenAI API请求。跟踪、调试和重播旧的完成。",
+                    "zh-hant": "🍰 PromptLayer - 維護您的提示和OpenAI API請求日誌。跟踪、調試和重播舊的完成。"
+                }
+            },
+            "https://github.com/langwatch/langwatch": {
+                "repository_name": "langwatch",
+                "user_name": "langwatch",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨",
+                "topics": [
+                    "ai",
+                    "analytics",
+                    "datasets",
+                    "dspy",
+                    "evaluation",
+                    "gpt",
+                    "llm",
+                    "llmops",
+                    "low-code",
+                    "observability",
+                    "openai",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨",
+                    "ja": "究極のLLM Opsプラットフォーム - モニタリング、分析、評価、データセット、そして迅速な最適化 ✨",
+                    "zh-hans": "终极LLM Ops平台 - 监控，分析，评估，数据集和即时优化 ✨",
+                    "zh-hant": "終極LLM Ops平台 - 監控、分析、評估、數據集和即時優化 ✨"
+                }
             }
         },
         "Chatbots": {
@@ -12311,6 +12359,41 @@
                     "ja": "Pythonを気にしない人のためのWhisper＆Faster-Whisperスタンドアロン実行可能ファイル。",
                     "zh-hans": "Whisper＆Faster-Whisper独立可执行文件，适用于不想麻烦使用Python的人。输出：Whisper＆Faster-Whisper独立可执行文件，适用于不想麻烦使用Python的人。",
                     "zh-hant": "對於不想麻煩使用Python的人，Whisper＆Faster-Whisper獨立執行檔。"
+                }
+            },
+            "https://github.com/hexastack/hexabot": {
+                "repository_name": "Hexabot",
+                "user_name": "Hexastack",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease. ",
+                "topics": [
+                    "agent",
+                    "agents",
+                    "ai",
+                    "artificial-intelligence",
+                    "bot-framework",
+                    "chatbot",
+                    "chatbot-framework",
+                    "chatbots",
+                    "chatgpt",
+                    "claude-ai",
+                    "conversational-ai",
+                    "gemini",
+                    "grok",
+                    "hacktoberfest",
+                    "llama",
+                    "llm",
+                    "mistral",
+                    "nlu",
+                    "ollama",
+                    "openassistant"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease.",
+                    "ja": "HexabotはオープンソースのAIチャットボット/エージェントビルダーです。複数のチャンネルや複数言語のチャットボット/エージェントを簡単に作成・管理することができます。",
+                    "zh-hans": "Hexabot是一个开源的AI聊天机器人/代理构建工具。它可以让您轻松创建和管理多渠道和多语言的聊天机器人/代理。",
+                    "zh-hant": "Hexabot 是一個開源的 AI 聊天機器人/代理構建工具。它讓您可以輕鬆地創建和管理多通道和多語言的聊天機器人/代理。"
                 }
             }
         },
@@ -27750,6 +27833,62 @@
                     "zh-hans": "分析、比较、趋势、排名开源软件，您还可以从超过70亿的自然语言中获得见解（由OpenAI提供支持）。关注我们的Twitter：https://twitter.com/ossinsight",
                     "zh-hant": "分析、比較、趨勢、排名開源軟件，您還可以從超過70億自然語言中獲得見解（由OpenAI提供動力）。在Twitter上關注我們：https://twitter.com/ossinsight"
                 }
+            },
+            "https://github.com/cyclonedx/cdxgen": {
+                "repository_name": "cdxgen",
+                "user_name": "CycloneDX",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": "Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. GPT: https://chatgpt.com/g/g-673bfeb4037481919be8a2cd1bf868d2-cdxgen",
+                "topics": [
+                    "bom",
+                    "cbom",
+                    "containers",
+                    "cyclonedx",
+                    "docker",
+                    "oci",
+                    "owasp",
+                    "package-url",
+                    "purl",
+                    "saasbom",
+                    "sbom",
+                    "sca",
+                    "software-bill-of-materials",
+                    "supply-chain"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. GPT: https://chatgpt.com/g/g-",
+                    "ja": "ソースおよびコンテナイメージからプロジェクトのCycloneDX材料（BOM）を作成します。多言語およびパッケージマネージャーをサポートしています。CI/CDパイプラインに統合し、Dependency Trackサーバーに自動送信します。GPT：https://chatgpt.com/g/g-",
+                    "zh-hans": "从源代码和容器镜像为您的项目创建CycloneDX物料清单（BOM）。支持多种语言和包管理器。与CI/CD管道集成，自动提交到Dependency Track服务器。GPT：https://chatgpt.com/g/g-",
+                    "zh-hant": "從來源和容器映像為您的項目創建CycloneDX物料清單（BOM）。支持多種語言和套件管理器。與自動提交到Dependency Track服務器集成到您的CI/CD管道中。GPT：https://chatgpt.com/g/g-"
+                }
+            },
+            "https://github.com/thiswillbeyourgithub/ankiaiutils": {
+                "repository_name": "AnkiAIUtils",
+                "user_name": "thiswillbeyourgithub",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond",
+                "topics": [
+                    "anki",
+                    "dalle-2",
+                    "dalle-3",
+                    "illustrations",
+                    "learning",
+                    "llm",
+                    "medical",
+                    "mnemonics",
+                    "openai",
+                    "spaced-repetition",
+                    "stable-diffusion",
+                    "summary"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond",
+                    "ja": "AIを活用したツールを使用して、医学部やそれ以上の学習においてAnkiフラッシュカードを説明、記憶術、イラスト、適応学習で強化します。",
+                    "zh-hans": "AI 动力工具，用于增强 Anki 卡片，提供解释、记忆技巧、插图和医学院及更高级别的自适应学习。",
+                    "zh-hant": "AI 強化工具，以解釋、記憶術、插圖和適應性學習來增強 Anki 閃卡，適用於醫學院及更多領域。"
+                }
             }
         },
         "Langchain": {
@@ -30600,6 +30739,49 @@
                     "ja": "JlamaはJava向けのモダンなLLM推論エンジンです。",
                     "zh-hans": "Jlama是一个现代的Java LLM推理引擎。",
                     "zh-hant": "Jlama是一個現代的Java LLM推理引擎"
+                }
+            },
+            "https://github.com/tycoding/langchat": {
+                "repository_name": "langchat",
+                "user_name": "TyCoding",
+                "language": "Java",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "LangChat: Java LLMs/AI Project, Supports Multiple AI Providers (Gitee AI/ Zhipu Qingyan / Alibaba Tongyi / Baidu Qianfan / DeepSeek / Douyin Dou Bao / Zero One Everything / Xunfei Xinghuo / OpenAI / Gemini / Ollama / Azure / Claude, etc.), Java ecosystem AI large model product solution, quickly build enterprise-level AI knowledge base, AI robot applications.",
+                    "ja": "LangChat: Java LLMs/AIプロジェクト、複数のAIプロバイダーをサポート（Gitee AI/智谱清言/阿里通义/百度千帆/DeepSeek/抖音豆包/零一万物/讯飞星火/OpenAI/Gemini/Ollama/Azure/Claudeなどの大規模モデル）、JavaエコシステムにおけるAI大規模モデル製品のソリューション、企業向けAIナレッジベース、AIロボットアプリケーションの迅速な構築",
+                    "zh-hans": "LangChat: Java LLMs/AI 项目，支持多个 AI 供应商（码云 AI / 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型），Java 生态下 AI 大模型产品解决方案，快速构建企业级 AI 知识库、AI 机器人应用",
+                    "zh-hant": "LangChat: Java LLMs/AI 项目，支持多个 AI 供应商（Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型），Java 生態下 AI 大模型產品解決方案，快速構建企業級 AI 知識庫、AI 機器人應用"
+                }
+            },
+            "https://github.com/enoch3712/extractthinker": {
+                "repository_name": "ExtractThinker",
+                "user_name": "enoch3712",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.",
+                "topics": [
+                    "ai",
+                    "document-image-analysis",
+                    "document-intelligence",
+                    "document-parsing",
+                    "document-processing",
+                    "langchain",
+                    "llm",
+                    "machine-learning",
+                    "nlp",
+                    "ocr",
+                    "openai",
+                    "pdf",
+                    "pdf-to-text",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.",
+                    "ja": "ExtractThinkerは、LLMs向けのドキュメントインテリジェンスライブラリで、柔軟で強力なドキュメントワークフローのためのORMスタイルのインタラクションを提供しています。",
+                    "zh-hans": "ExtractThinker是一种面向LLMs的文档智能库，为灵活和强大的文档工作流提供ORM风格的交互。",
+                    "zh-hant": "ExtractThinker是一個針對LLMs的文件智能庫，提供ORM風格的互動，用於靈活且強大的文件工作流程。"
                 }
             }
         },
