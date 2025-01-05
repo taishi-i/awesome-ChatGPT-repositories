@@ -15,19 +15,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
+ * [langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
+
+
 **Chatbots**
- * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
-
-
-**CLIs**
- * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+ * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease.
 
 
 **NLP**
- * [ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
+ * [cdxgen](https://github.com/cyclonedx/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. GPT: https://chatgpt.com/g/g-673bfeb4037481919be8a2cd1bf868d2-cdxgen
+ * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
 
 
-_Updated on January 02, 2025_ (A total of 1937 repositories listed.)
+**Langchain**
+ * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
+ * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
+
+
+_Updated on January 06, 2025_ (A total of 1944 repositories listed.)
 
 ## Table of contents
 
@@ -275,6 +282,8 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 40+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.
  * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
  * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - My own Prompts for Custom instructions ChatGPT
+ * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
+ * [langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 
 
 ## Chatbots
@@ -562,6 +571,7 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - Control Any Computer Using LLMs
  * [OmAgent](https://github.com/om-ai-lab/omagent) - A Multimodal Language Agent Framework for Smart Devices and More
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
+ * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease.
 
 
 ## Browser-extensions
@@ -1271,6 +1281,8 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [opik](https://github.com/comet-ml/opik/) - Open-source end-to-end LLM Development Platform
  * [PySpur](https://github.com/pyspur-dev/pyspur) - Graph-Based Editor for LLM Workflows
  * [ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
+ * [cdxgen](https://github.com/cyclonedx/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. GPT: https://chatgpt.com/g/g-673bfeb4037481919be8a2cd1bf868d2-cdxgen
+ * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
 
 
 ## Langchain
@@ -1394,6 +1406,8 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
  * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero chat PDF with GPT, ChatGPT, Claude, Gemini, DeepSeek
  * [Jlama](https://github.com/tjake/jlama) - Jlama is a modern LLM inference engine for Java
+ * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
+ * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
 
 
 ## Unity

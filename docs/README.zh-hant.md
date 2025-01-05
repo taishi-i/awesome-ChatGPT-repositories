@@ -15,19 +15,26 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - 維護您的提示和OpenAI API請求日誌。跟踪、調試和重播舊的完成。
+ * [langwatch](https://github.com/langwatch/langwatch) - 終極LLM Ops平台 - 監控、分析、評估、數據集和即時優化 ✨
+
+
 **Chatbots**
- * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - 對於不想麻煩使用Python的人，Whisper＆Faster-Whisper獨立執行檔。
-
-
-**CLIs**
- * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
+ * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot 是一個開源的 AI 聊天機器人/代理構建工具。它讓您可以輕鬆地創建和管理多通道和多語言的聊天機器人/代理。
 
 
 **NLP**
- * [ossinsight](https://github.com/pingcap/ossinsight) - 分析、比較、趨勢、排名開源軟件，您還可以從超過70億自然語言中獲得見解（由OpenAI提供動力）。在Twitter上關注我們：https://twitter.com/ossinsight
+ * [cdxgen](https://github.com/cyclonedx/cdxgen) - 從來源和容器映像為您的項目創建CycloneDX物料清單（BOM）。支持多種語言和套件管理器。與自動提交到Dependency Track服務器集成到您的CI/CD管道中。GPT：https://chatgpt.com/g/g-
+ * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI 強化工具，以解釋、記憶術、插圖和適應性學習來增強 Anki 閃卡，適用於醫學院及更多領域。
 
 
-_Updated on January 02, 2025_ (A total of 1937 repositories listed.)
+**Langchain**
+ * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AI 项目，支持多个 AI 供应商（Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型），Java 生態下 AI 大模型產品解決方案，快速構建企業級 AI 知識庫、AI 機器人應用
+ * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinker是一個針對LLMs的文件智能庫，提供ORM風格的互動，用於靈活且強大的文件工作流程。
+
+
+_Updated on January 06, 2025_ (A total of 1944 repositories listed.)
 
 ## Table of contents
 
@@ -275,6 +282,8 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [openlit](https://github.com/openlit/openlit) - 開源平台為AI工程：OpenTelemetry-native LLM可觀測性，GPU監控，防護欄，評估，提示管理，金庫，遊樂場。🚀💻與40多個LLM提供商，VectorDBs，代理框架和GPU集成。
  * [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - 收集GPTS的提示
  * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - 我自己的提示用於定制指令ChatGPT
+ * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - 維護您的提示和OpenAI API請求日誌。跟踪、調試和重播舊的完成。
+ * [langwatch](https://github.com/langwatch/langwatch) - 終極LLM Ops平台 - 監控、分析、評估、數據集和即時優化 ✨
 
 
 ## Chatbots
@@ -562,6 +571,7 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [Open-Interface](https://github.com/ambersahdev/open-interface) - 使用LLMs控制任何電腦
  * [OmAgent](https://github.com/om-ai-lab/omagent) - 一個多模式語言代理框架，適用於智能設備和更多功能
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - 對於不想麻煩使用Python的人，Whisper＆Faster-Whisper獨立執行檔。
+ * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot 是一個開源的 AI 聊天機器人/代理構建工具。它讓您可以輕鬆地創建和管理多通道和多語言的聊天機器人/代理。
 
 
 ## Browser-extensions
@@ -1271,6 +1281,8 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [opik](https://github.com/comet-ml/opik/) - 開源端到端LLM開發平台
  * [PySpur](https://github.com/pyspur-dev/pyspur) - 基於圖形的編輯器用於LLM工作流程
  * [ossinsight](https://github.com/pingcap/ossinsight) - 分析、比較、趨勢、排名開源軟件，您還可以從超過70億自然語言中獲得見解（由OpenAI提供動力）。在Twitter上關注我們：https://twitter.com/ossinsight
+ * [cdxgen](https://github.com/cyclonedx/cdxgen) - 從來源和容器映像為您的項目創建CycloneDX物料清單（BOM）。支持多種語言和套件管理器。與自動提交到Dependency Track服務器集成到您的CI/CD管道中。GPT：https://chatgpt.com/g/g-
+ * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI 強化工具，以解釋、記憶術、插圖和適應性學習來增強 Anki 閃卡，適用於醫學院及更多領域。
 
 
 ## Langchain
@@ -1394,6 +1406,8 @@ _Updated on January 02, 2025_ (A total of 1937 repositories listed.)
  * [markitdown](https://github.com/microsoft/markitdown) - 將檔案和辦公文件轉換為Markdown的Python工具。
  * [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero 聊天 PDF 與 GPT、ChatGPT、Claude、Gemini、DeepSeek
  * [Jlama](https://github.com/tjake/jlama) - Jlama是一個現代的Java LLM推理引擎
+ * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AI 项目，支持多个 AI 供应商（Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型），Java 生態下 AI 大模型產品解決方案，快速構建企業級 AI 知識庫、AI 機器人應用
+ * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinker是一個針對LLMs的文件智能庫，提供ORM風格的互動，用於靈活且強大的文件工作流程。
 
 
 ## Unity
