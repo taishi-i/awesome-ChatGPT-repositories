@@ -15,26 +15,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
- * [langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
-
-
 **Chatbots**
- * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease.
-
-
-**NLP**
- * [cdxgen](https://github.com/cyclonedx/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. GPT: https://chatgpt.com/g/g-673bfeb4037481919be8a2cd1bf868d2-cdxgen
- * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
+ * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
 
 
 **Langchain**
- * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
- * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
+ * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.
+ * [LLPhant](https://github.com/llphant/llphant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
+ * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 
 
-_Updated on January 06, 2025_ (A total of 1944 repositories listed.)
+_Updated on January 09, 2025_ (A total of 1948 repositories listed.)
 
 ## Table of contents
 
@@ -572,6 +563,7 @@ _Updated on January 06, 2025_ (A total of 1944 repositories listed.)
  * [OmAgent](https://github.com/om-ai-lab/omagent) - A Multimodal Language Agent Framework for Smart Devices and More
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
  * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease.
+ * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
 
 
 ## Browser-extensions
@@ -1408,6 +1400,9 @@ _Updated on January 06, 2025_ (A total of 1944 repositories listed.)
  * [Jlama](https://github.com/tjake/jlama) - Jlama is a modern LLM inference engine for Java
  * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
  * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinker is a Document Intelligence library for LLMs, offering ORM-style interaction for flexible and powerful document workflows.
+ * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.
+ * [LLPhant](https://github.com/llphant/llphant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
+ * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 
 
 ## Unity

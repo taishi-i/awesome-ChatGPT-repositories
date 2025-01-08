@@ -15,26 +15,17 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - プロンプトとOpenAI APIリクエストのログを維持します。古い完了を追跡、デバッグ、再生します。
- * [langwatch](https://github.com/langwatch/langwatch) - 究極のLLM Opsプラットフォーム - モニタリング、分析、評価、データセット、そして迅速な最適化 ✨
-
-
 **Chatbots**
- * [Hexabot](https://github.com/hexastack/hexabot) - HexabotはオープンソースのAIチャットボット/エージェントビルダーです。複数のチャンネルや複数言語のチャットボット/エージェントを簡単に作成・管理することができます。
-
-
-**NLP**
- * [cdxgen](https://github.com/cyclonedx/cdxgen) - ソースおよびコンテナイメージからプロジェクトのCycloneDX材料（BOM）を作成します。多言語およびパッケージマネージャーをサポートしています。CI/CDパイプラインに統合し、Dependency Trackサーバーに自動送信します。GPT：https://chatgpt.com/g/g-
- * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AIを活用したツールを使用して、医学部やそれ以上の学習においてAnkiフラッシュカードを説明、記憶術、イラスト、適応学習で強化します。
+ * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMsのための完全機能を備えたWebインターフェース
 
 
 **Langchain**
- * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AIプロジェクト、複数のAIプロバイダーをサポート（Gitee AI/智谱清言/阿里通义/百度千帆/DeepSeek/抖音豆包/零一万物/讯飞星火/OpenAI/Gemini/Ollama/Azure/Claudeなどの大規模モデル）、JavaエコシステムにおけるAI大規模モデル製品のソリューション、企業向けAIナレッジベース、AIロボットアプリケーションの迅速な構築
- * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinkerは、LLMs向けのドキュメントインテリジェンスライブラリで、柔軟で強力なドキュメントワークフローのためのORMスタイルのインタラクションを提供しています。
+ * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - このリポジトリは、複雑な質問応答のための高度な検索増強生成（RAG）ソリューションを提供しています。タスクを処理するために洗練されたグラフベースのアルゴリズムを使用しています。
+ * [LLPhant](https://github.com/llphant/llphant) - Input: LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。Langchainに触発されました。
+ * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AIは、AI機能をバックエンドとして提供するオープンソースの言語サーバーであり、ソフトウェアエンジニアを支援し、強化するために設計されており、彼らを置き換えるものではありません。
 
 
-_Updated on January 06, 2025_ (A total of 1944 repositories listed.)
+_Updated on January 09, 2025_ (A total of 1948 repositories listed.)
 
 ## Table of contents
 
@@ -572,6 +563,7 @@ _Updated on January 06, 2025_ (A total of 1944 repositories listed.)
  * [OmAgent](https://github.com/om-ai-lab/omagent) - スマートデバイスやその他のためのマルチモーダル言語エージェントフレームワーク
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Pythonを気にしない人のためのWhisper＆Faster-Whisperスタンドアロン実行可能ファイル。
  * [Hexabot](https://github.com/hexastack/hexabot) - HexabotはオープンソースのAIチャットボット/エージェントビルダーです。複数のチャンネルや複数言語のチャットボット/エージェントを簡単に作成・管理することができます。
+ * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMsのための完全機能を備えたWebインターフェース
 
 
 ## Browser-extensions
@@ -1408,6 +1400,9 @@ _Updated on January 06, 2025_ (A total of 1944 repositories listed.)
  * [Jlama](https://github.com/tjake/jlama) - JlamaはJava向けのモダンなLLM推論エンジンです。
  * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AIプロジェクト、複数のAIプロバイダーをサポート（Gitee AI/智谱清言/阿里通义/百度千帆/DeepSeek/抖音豆包/零一万物/讯飞星火/OpenAI/Gemini/Ollama/Azure/Claudeなどの大規模モデル）、JavaエコシステムにおけるAI大規模モデル製品のソリューション、企業向けAIナレッジベース、AIロボットアプリケーションの迅速な構築
  * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinkerは、LLMs向けのドキュメントインテリジェンスライブラリで、柔軟で強力なドキュメントワークフローのためのORMスタイルのインタラクションを提供しています。
+ * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - このリポジトリは、複雑な質問応答のための高度な検索増強生成（RAG）ソリューションを提供しています。タスクを処理するために洗練されたグラフベースのアルゴリズムを使用しています。
+ * [LLPhant](https://github.com/llphant/llphant) - Input: LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。Langchainに触発されました。
+ * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AIは、AI機能をバックエンドとして提供するオープンソースの言語サーバーであり、ソフトウェアエンジニアを支援し、強化するために設計されており、彼らを置き換えるものではありません。
 
 
 ## Unity

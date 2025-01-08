@@ -12395,6 +12395,38 @@
                     "zh-hans": "Hexabot是一个开源的AI聊天机器人/代理构建工具。它可以让您轻松创建和管理多渠道和多语言的聊天机器人/代理。",
                     "zh-hant": "Hexabot 是一個開源的 AI 聊天機器人/代理構建工具。它讓您可以輕鬆地創建和管理多通道和多語言的聊天機器人/代理。"
                 }
+            },
+            "https://github.com/jakobhoeg/nextjs-ollama-llm-ui": {
+                "repository_name": "nextjs-ollama-llm-ui",
+                "user_name": "jakobhoeg",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Fully-featured web interface for Ollama LLMs",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "gemma",
+                    "llm",
+                    "local",
+                    "localstorage",
+                    "mistral",
+                    "mistral-7b",
+                    "nextjs",
+                    "nextjs14",
+                    "offline",
+                    "ollama",
+                    "openai",
+                    "react",
+                    "shadcn",
+                    "tailwindcss",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fully-featured web interface for Ollama LLMs",
+                    "ja": "Ollama LLMsのための完全機能を備えたWebインターフェース",
+                    "zh-hans": "Ollama LLMs的全功能网络界面",
+                    "zh-hant": "Ollama LLMs的功能齊全的網頁界面"
+                }
             }
         },
         "Browser-extensions": {
@@ -30782,6 +30814,86 @@
                     "ja": "ExtractThinkerは、LLMs向けのドキュメントインテリジェンスライブラリで、柔軟で強力なドキュメントワークフローのためのORMスタイルのインタラクションを提供しています。",
                     "zh-hans": "ExtractThinker是一种面向LLMs的文档智能库，为灵活和强大的文档工作流提供ORM风格的交互。",
                     "zh-hant": "ExtractThinker是一個針對LLMs的文件智能庫，提供ORM風格的互動，用於靈活且強大的文件工作流程。"
+                }
+            },
+            "https://github.com/nirdiamant/controllable-rag-agent": {
+                "repository_name": "Controllable-RAG-Agent",
+                "user_name": "NirDiamant",
+                "language": "Jupyter Notebook",
+                "license": "Apache License 2.0",
+                "description": "This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.",
+                "topics": [
+                    "advanced-rag",
+                    "agent",
+                    "genai",
+                    "langchain",
+                    "langgraph",
+                    "llm",
+                    "llms",
+                    "openai",
+                    "python",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.",
+                    "ja": "このリポジトリは、複雑な質問応答のための高度な検索増強生成（RAG）ソリューションを提供しています。タスクを処理するために洗練されたグラフベースのアルゴリズムを使用しています。",
+                    "zh-hans": "该存储库提供了一个用于复杂问题回答的先进的检索增强生成（RAG）解决方案。它使用复杂的基于图形的算法来处理任务。",
+                    "zh-hant": "該存儲庫提供了一個用於複雜問題回答的高級檢索增強生成（RAG）解決方案。它使用複雜的基於圖形的算法來處理任務。"
+                }
+            },
+            "https://github.com/llphant/llphant": {
+                "repository_name": "LLPhant",
+                "user_name": "LLPhant",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+                "topics": [
+                    "agent",
+                    "autophp",
+                    "embeddings",
+                    "genai",
+                    "generative-ai",
+                    "gpt4",
+                    "langchain",
+                    "laravel",
+                    "llamaindex",
+                    "openai",
+                    "php",
+                    "symfony",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
+                    "ja": "Input: LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。Langchainに触発されました。",
+                    "zh-hans": "LLPhant - 一个全面的PHP生成AI框架，使用OpenAI GPT 4。受Langchain启发。",
+                    "zh-hant": "LLPhant - 一個全面的PHP生成式AI框架，使用OpenAI GPT 4。受Langchain啟發。"
+                }
+            },
+            "https://github.com/silasmarvin/lsp-ai": {
+                "repository_name": "lsp-ai",
+                "user_name": "SilasMarvin",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.",
+                "topics": [
+                    "ai",
+                    "auto-completion",
+                    "developer-tools",
+                    "ide",
+                    "language-client",
+                    "llama",
+                    "llamacpp",
+                    "llm",
+                    "lsp",
+                    "mistral",
+                    "openai",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.",
+                    "ja": "LSP-AIは、AI機能をバックエンドとして提供するオープンソースの言語サーバーであり、ソフトウェアエンジニアを支援し、強化するために設計されており、彼らを置き換えるものではありません。",
+                    "zh-hans": "LSP-AI是一个开源的语言服务器，作为AI功能的后端，旨在帮助和赋予软件工程师能力，而不是取代他们。",
+                    "zh-hant": "LSP-AI 是一個開源語言伺服器，作為 AI 強化功能的後端，旨在協助和賦予軟體工程師能力，而非取代他們。"
                 }
             }
         },

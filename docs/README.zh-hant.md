@@ -15,26 +15,17 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - 維護您的提示和OpenAI API請求日誌。跟踪、調試和重播舊的完成。
- * [langwatch](https://github.com/langwatch/langwatch) - 終極LLM Ops平台 - 監控、分析、評估、數據集和即時優化 ✨
-
-
 **Chatbots**
- * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot 是一個開源的 AI 聊天機器人/代理構建工具。它讓您可以輕鬆地創建和管理多通道和多語言的聊天機器人/代理。
-
-
-**NLP**
- * [cdxgen](https://github.com/cyclonedx/cdxgen) - 從來源和容器映像為您的項目創建CycloneDX物料清單（BOM）。支持多種語言和套件管理器。與自動提交到Dependency Track服務器集成到您的CI/CD管道中。GPT：https://chatgpt.com/g/g-
- * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI 強化工具，以解釋、記憶術、插圖和適應性學習來增強 Anki 閃卡，適用於醫學院及更多領域。
+ * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMs的功能齊全的網頁界面
 
 
 **Langchain**
- * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AI 项目，支持多个 AI 供应商（Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型），Java 生態下 AI 大模型產品解決方案，快速構建企業級 AI 知識庫、AI 機器人應用
- * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinker是一個針對LLMs的文件智能庫，提供ORM風格的互動，用於靈活且強大的文件工作流程。
+ * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - 該存儲庫提供了一個用於複雜問題回答的高級檢索增強生成（RAG）解決方案。它使用複雜的基於圖形的算法來處理任務。
+ * [LLPhant](https://github.com/llphant/llphant) - LLPhant - 一個全面的PHP生成式AI框架，使用OpenAI GPT 4。受Langchain啟發。
+ * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI 是一個開源語言伺服器，作為 AI 強化功能的後端，旨在協助和賦予軟體工程師能力，而非取代他們。
 
 
-_Updated on January 06, 2025_ (A total of 1944 repositories listed.)
+_Updated on January 09, 2025_ (A total of 1948 repositories listed.)
 
 ## Table of contents
 
@@ -572,6 +563,7 @@ _Updated on January 06, 2025_ (A total of 1944 repositories listed.)
  * [OmAgent](https://github.com/om-ai-lab/omagent) - 一個多模式語言代理框架，適用於智能設備和更多功能
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - 對於不想麻煩使用Python的人，Whisper＆Faster-Whisper獨立執行檔。
  * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot 是一個開源的 AI 聊天機器人/代理構建工具。它讓您可以輕鬆地創建和管理多通道和多語言的聊天機器人/代理。
+ * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMs的功能齊全的網頁界面
 
 
 ## Browser-extensions
@@ -1408,6 +1400,9 @@ _Updated on January 06, 2025_ (A total of 1944 repositories listed.)
  * [Jlama](https://github.com/tjake/jlama) - Jlama是一個現代的Java LLM推理引擎
  * [langchat](https://github.com/tycoding/langchat) - LangChat: Java LLMs/AI 项目，支持多个 AI 供应商（Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型），Java 生態下 AI 大模型產品解決方案，快速構建企業級 AI 知識庫、AI 機器人應用
  * [ExtractThinker](https://github.com/enoch3712/extractthinker) - ExtractThinker是一個針對LLMs的文件智能庫，提供ORM風格的互動，用於靈活且強大的文件工作流程。
+ * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - 該存儲庫提供了一個用於複雜問題回答的高級檢索增強生成（RAG）解決方案。它使用複雜的基於圖形的算法來處理任務。
+ * [LLPhant](https://github.com/llphant/llphant) - LLPhant - 一個全面的PHP生成式AI框架，使用OpenAI GPT 4。受Langchain啟發。
+ * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI 是一個開源語言伺服器，作為 AI 強化功能的後端，旨在協助和賦予軟體工程師能力，而非取代他們。
 
 
 ## Unity
