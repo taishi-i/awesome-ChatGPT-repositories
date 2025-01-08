@@ -564,7 +564,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
  * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease.
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
-
+ * [denser-chat](https://github.com/denser-org/denser-chat) - An open-source tool that enables PDF-based conversation with highlighted sources. A managed solution is available at https://denser.ai
 
 ## Browser-extensions
 
@@ -2048,5 +2048,5 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - CMake integration in Visual Studio Code
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-
+ * [denser-retriever](https://github.com/denser-org/denser-retriever) - An enterprise-grade AI retriever designed to streamline AI integration into your applications, ensuring cutting-edge accuracy. A managed solution is available at https://denser.ai
 
