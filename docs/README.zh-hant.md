@@ -16,16 +16,28 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMs的功能齊全的網頁界面
+ * [denser-chat](https://github.com/denser-org/denser-chat) - 與帶有來源突顯的PDF文件進行聊天
+
+
+**CLIs**
+ * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 支援一次從多個LLM獲取答案的Android聊天應用程式。使用您自己的API金鑰AI客戶端。支援OpenAI、Anthropic、Google和Ollama。設計使用Material3和Compose。
+ * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - 一個非官方的OpenAI Rest客戶端，適用於Unity (UPM)
+
+
+**NLP**
+ * [Director](https://github.com/video-db/director) - 下一代視頻互動和工作流程的AI視頻代理框架。
 
 
 **Langchain**
- * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - 該存儲庫提供了一個用於複雜問題回答的高級檢索增強生成（RAG）解決方案。它使用複雜的基於圖形的算法來處理任務。
- * [LLPhant](https://github.com/llphant/llphant) - LLPhant - 一個全面的PHP生成式AI框架，使用OpenAI GPT 4。受Langchain啟發。
- * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI 是一個開源語言伺服器，作為 AI 強化功能的後端，旨在協助和賦予軟體工程師能力，而非取代他們。
+ * [generative-ai](https://github.com/genieincodebottle/generative-ai) - 包括詳細路線圖、項目、用例、面試準備和編碼準備在內的生成式人工智能的綜合資源。
+ * [paperless-ai](https://github.com/clusterzx/paperless-ai) - 一個自動文件分析器，使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）來自動分析和標記您的文件。
 
 
-_Updated on January 09, 2025_ (A total of 1948 repositories listed.)
+**Openai**
+ * [denser-retriever](https://github.com/denser-org/denser-retriever) - 一款企業級AI檢索器，旨在簡化AI集成到您的應用程序中，確保尖端的準確性。
+
+
+_Updated on January 13, 2025_ (A total of 1955 repositories listed.)
 
 ## Table of contents
 
@@ -564,6 +576,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - 對於不想麻煩使用Python的人，Whisper＆Faster-Whisper獨立執行檔。
  * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot 是一個開源的 AI 聊天機器人/代理構建工具。它讓您可以輕鬆地創建和管理多通道和多語言的聊天機器人/代理。
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMs的功能齊全的網頁界面
+ * [denser-chat](https://github.com/denser-org/denser-chat) - 與帶有來源突顯的PDF文件進行聊天
 
 
 ## Browser-extensions
@@ -921,6 +934,8 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [uform](https://github.com/unum-cloud/uform) - 口袋尺寸的多模式人工智能，可跨多种语言文本、图像和🔜视频进行内容理解和生成，比OpenAI CLIP和LLaVA快5倍🖼️&🖋️
  * [subsai](https://github.com/absadiki/subsai) - 🎞️ 由OpenAI的Whisper及其變體提供動態生成工具（Web-UI + CLI + Python套件） 🎞️
  * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。
+ * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 支援一次從多個LLM獲取答案的Android聊天應用程式。使用您自己的API金鑰AI客戶端。支援OpenAI、Anthropic、Google和Ollama。設計使用Material3和Compose。
+ * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - 一個非官方的OpenAI Rest客戶端，適用於Unity (UPM)
 
 
 ## Reimplementations
@@ -1275,6 +1290,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [ossinsight](https://github.com/pingcap/ossinsight) - 分析、比較、趨勢、排名開源軟件，您還可以從超過70億自然語言中獲得見解（由OpenAI提供動力）。在Twitter上關注我們：https://twitter.com/ossinsight
  * [cdxgen](https://github.com/cyclonedx/cdxgen) - 從來源和容器映像為您的項目創建CycloneDX物料清單（BOM）。支持多種語言和套件管理器。與自動提交到Dependency Track服務器集成到您的CI/CD管道中。GPT：https://chatgpt.com/g/g-
  * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI 強化工具，以解釋、記憶術、插圖和適應性學習來增強 Anki 閃卡，適用於醫學院及更多領域。
+ * [Director](https://github.com/video-db/director) - 下一代視頻互動和工作流程的AI視頻代理框架。
 
 
 ## Langchain
@@ -1403,6 +1419,8 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - 該存儲庫提供了一個用於複雜問題回答的高級檢索增強生成（RAG）解決方案。它使用複雜的基於圖形的算法來處理任務。
  * [LLPhant](https://github.com/llphant/llphant) - LLPhant - 一個全面的PHP生成式AI框架，使用OpenAI GPT 4。受Langchain啟發。
  * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI 是一個開源語言伺服器，作為 AI 強化功能的後端，旨在協助和賦予軟體工程師能力，而非取代他們。
+ * [generative-ai](https://github.com/genieincodebottle/generative-ai) - 包括詳細路線圖、項目、用例、面試準備和編碼準備在內的生成式人工智能的綜合資源。
+ * [paperless-ai](https://github.com/clusterzx/paperless-ai) - 一個自動文件分析器，使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）來自動分析和標記您的文件。
 
 
 ## Unity
@@ -1634,6 +1652,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - 一個用於與微控制器（如ESP32）一起使用實時API的SDK
  * [openai-go](https://github.com/openai/openai-go) - OpenAI API 的官方 Go 库
  * [interview-coder](https://github.com/ibttf/interview-coder) - 一個開源的隱形桌面應用程式，幫助您通過技術面試。
+ * [denser-retriever](https://github.com/denser-org/denser-retriever) - 一款企業級AI檢索器，旨在簡化AI集成到您的應用程序中，確保尖端的準確性。
 
 
 ## Others

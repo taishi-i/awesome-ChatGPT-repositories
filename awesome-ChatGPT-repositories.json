@@ -12427,6 +12427,27 @@
                     "zh-hans": "Ollama LLMs的全功能网络界面",
                     "zh-hant": "Ollama LLMs的功能齊全的網頁界面"
                 }
+            },
+            "https://github.com/denser-org/denser-chat": {
+                "repository_name": "denser-chat",
+                "user_name": "denser-org",
+                "language": "Python",
+                "license": null,
+                "description": "Chat with PDF files with source highlights",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "nlp",
+                    "pdf",
+                    "retrieval",
+                    "retrieval-augmented-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat with PDF files with source highlights",
+                    "ja": "PDFファイルとソースのハイライト付きでチャットする",
+                    "zh-hans": "与带有源高亮的PDF文件聊天",
+                    "zh-hant": "與帶有來源突顯的PDF文件進行聊天"
+                }
             }
         },
         "Browser-extensions": {
@@ -20468,6 +20489,75 @@
                     "zh-hans": "🍒 Cherry Studio 是一个桌面客户端，支持多个LLM提供商。",
                     "zh-hant": "🍒 Cherry Studio 是一個桌面客戶端，支持多個LLM提供商。"
                 }
+            },
+            "https://github.com/taewan-p/gpt_mobile": {
+                "repository_name": "gpt_mobile",
+                "user_name": "Taewan-P",
+                "language": "Kotlin",
+                "license": "GNU General Public License v3.0",
+                "description": "Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.",
+                "topics": [
+                    "android",
+                    "anthropic",
+                    "chatbots",
+                    "chatgpt",
+                    "claude",
+                    "collaborate",
+                    "compose",
+                    "gemini",
+                    "google",
+                    "groq",
+                    "groq-api",
+                    "hacktoberfest",
+                    "jetpack",
+                    "jetpack-compose",
+                    "kotlin",
+                    "ollama",
+                    "ollama-api",
+                    "ollama-app",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.",
+                    "ja": "複数のLLMからの回答を一度にサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポート。Material3＆Composeで設計されています。",
+                    "zh-hans": "支持同时从多个LLM获取答案的Android聊天应用。带上自己的API密钥AI客户端。支持OpenAI、Anthropic、Google和Ollama。采用Material3和Compose设计。",
+                    "zh-hant": "支援一次從多個LLM獲取答案的Android聊天應用程式。使用您自己的API金鑰AI客戶端。支援OpenAI、Anthropic、Google和Ollama。設計使用Material3和Compose。"
+                }
+            },
+            "https://github.com/rageagainstthepixel/com.openai.unity": {
+                "repository_name": "com.openai.unity",
+                "user_name": "RageAgainstThePixel",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "A Non-Official OpenAI Rest Client for Unity (UPM)",
+                "topics": [
+                    "ai",
+                    "chat-gpt",
+                    "dall-e",
+                    "dall-e-3",
+                    "gpt",
+                    "gpt-4",
+                    "gpt-4o",
+                    "gpt-4o-mini",
+                    "gpt-realtime",
+                    "open-ai",
+                    "openai",
+                    "openupm",
+                    "unity",
+                    "unity-ml",
+                    "unity-package",
+                    "unity-plugin",
+                    "unity-scripts",
+                    "unity3d",
+                    "upm",
+                    "upm-package"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Non-Official OpenAI Rest Client for Unity (UPM)",
+                    "ja": "Unity向けの非公式OpenAI Restクライアント（UPM）",
+                    "zh-hans": "一个非官方的OpenAI Rest客户端，适用于Unity (UPM)",
+                    "zh-hant": "一個非官方的OpenAI Rest客戶端，適用於Unity (UPM)"
+                }
             }
         },
         "Reimplementations": {
@@ -27921,6 +28011,33 @@
                     "zh-hans": "AI 动力工具，用于增强 Anki 卡片，提供解释、记忆技巧、插图和医学院及更高级别的自适应学习。",
                     "zh-hant": "AI 強化工具，以解釋、記憶術、插圖和適應性學習來增強 Anki 閃卡，適用於醫學院及更多領域。"
                 }
+            },
+            "https://github.com/video-db/director": {
+                "repository_name": "Director",
+                "user_name": "video-db",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "AI video agents framework for next-gen video interactions and workflows.",
+                "topics": [
+                    "agent",
+                    "agent-framework",
+                    "ai-agents",
+                    "framework",
+                    "llm",
+                    "openai",
+                    "rag",
+                    "search",
+                    "text-to-video",
+                    "video-editing",
+                    "video-processing",
+                    "videodb"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI video agents framework for next-gen video interactions and workflows.",
+                    "ja": "次世代のビデオインタラクションとワークフローのためのAIビデオエージェントフレームワーク。",
+                    "zh-hans": "下一代视频互动和工作流的AI视频代理框架。",
+                    "zh-hant": "下一代視頻互動和工作流程的AI視頻代理框架。"
+                }
             }
         },
         "Langchain": {
@@ -30894,6 +31011,64 @@
                     "ja": "LSP-AIは、AI機能をバックエンドとして提供するオープンソースの言語サーバーであり、ソフトウェアエンジニアを支援し、強化するために設計されており、彼らを置き換えるものではありません。",
                     "zh-hans": "LSP-AI是一个开源的语言服务器，作为AI功能的后端，旨在帮助和赋予软件工程师能力，而不是取代他们。",
                     "zh-hant": "LSP-AI 是一個開源語言伺服器，作為 AI 強化功能的後端，旨在協助和賦予軟體工程師能力，而非取代他們。"
+                }
+            },
+            "https://github.com/genieincodebottle/generative-ai": {
+                "repository_name": "generative-ai",
+                "user_name": "genieincodebottle",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.",
+                "topics": [
+                    "ai",
+                    "gemini-api",
+                    "genai-chatbot",
+                    "genai-roadmap",
+                    "generative-ai",
+                    "generative-ai-architecture",
+                    "generative-ai-projects",
+                    "generative-ai-tools",
+                    "generativeai",
+                    "generativeaichatapp",
+                    "gpt-4",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "llmops",
+                    "openai",
+                    "transformer-architecture"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.",
+                    "ja": "ジェネレーティブAIに関する包括的なリソース、詳細なロードマップ、プロジェクト、ユースケース、インタビュー準備、コーディング準備などを提供しています。",
+                    "zh-hans": "生成式人工智能的综合资源，包括详细的路线图、项目、用例、面试准备和编码准备。",
+                    "zh-hant": "包括詳細路線圖、項目、用例、面試準備和編碼準備在內的生成式人工智能的綜合資源。"
+                }
+            },
+            "https://github.com/clusterzx/paperless-ai": {
+                "repository_name": "paperless-ai",
+                "user_name": "clusterzx",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.",
+                "topics": [
+                    "ai",
+                    "automation",
+                    "gemma",
+                    "gemma2",
+                    "llama",
+                    "mistral",
+                    "ollama",
+                    "paperless",
+                    "paperless-ng",
+                    "paperless-ngx",
+                    "phi"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.",
+                    "ja": "Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。",
+                    "zh-hans": "使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）的自动文档分析器，可自动分析和标记您的文件。",
+                    "zh-hant": "一個自動文件分析器，使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）來自動分析和標記您的文件。"
                 }
             }
         },
@@ -35757,6 +35932,27 @@
                     "ja": "技術面接に合格するのを手助けするオープンソースの見えないデスクトップアプリケーション。",
                     "zh-hans": "一个开源的隐形桌面应用程序，帮助您通过技术面试。",
                     "zh-hant": "一個開源的隱形桌面應用程式，幫助您通過技術面試。"
+                }
+            },
+            "https://github.com/denser-org/denser-retriever": {
+                "repository_name": "denser-retriever",
+                "user_name": "denser-org",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "An enterprise-grade AI retriever designed to streamline AI integration into your applications, ensuring cutting-edge accuracy.",
+                "topics": [
+                    "ai",
+                    "gpt",
+                    "openai",
+                    "rag",
+                    "retrieval-augmented-generation",
+                    "retrival"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An enterprise-grade AI retriever designed to streamline AI integration into your applications, ensuring cutting-edge accuracy.",
+                    "ja": "アプリケーションにAIを統合するために設計されたエンタープライズグレードのAIリトリーバーは、最先端の精度を確保し、効率的にします。",
+                    "zh-hans": "一个企业级的AI检索器，旨在简化AI集成到您的应用程序中，确保尖端的准确性。",
+                    "zh-hant": "一款企業級AI檢索器，旨在簡化AI集成到您的應用程序中，確保尖端的準確性。"
                 }
             }
         },

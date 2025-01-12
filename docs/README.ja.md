@@ -16,16 +16,28 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMsのための完全機能を備えたWebインターフェース
+ * [denser-chat](https://github.com/denser-org/denser-chat) - PDFファイルとソースのハイライト付きでチャットする
+
+
+**CLIs**
+ * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 複数のLLMからの回答を一度にサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポート。Material3＆Composeで設計されています。
+ * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - Unity向けの非公式OpenAI Restクライアント（UPM）
+
+
+**NLP**
+ * [Director](https://github.com/video-db/director) - 次世代のビデオインタラクションとワークフローのためのAIビデオエージェントフレームワーク。
 
 
 **Langchain**
- * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - このリポジトリは、複雑な質問応答のための高度な検索増強生成（RAG）ソリューションを提供しています。タスクを処理するために洗練されたグラフベースのアルゴリズムを使用しています。
- * [LLPhant](https://github.com/llphant/llphant) - Input: LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。Langchainに触発されました。
- * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AIは、AI機能をバックエンドとして提供するオープンソースの言語サーバーであり、ソフトウェアエンジニアを支援し、強化するために設計されており、彼らを置き換えるものではありません。
+ * [generative-ai](https://github.com/genieincodebottle/generative-ai) - ジェネレーティブAIに関する包括的なリソース、詳細なロードマップ、プロジェクト、ユースケース、インタビュー準備、コーディング準備などを提供しています。
+ * [paperless-ai](https://github.com/clusterzx/paperless-ai) - Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。
 
 
-_Updated on January 09, 2025_ (A total of 1948 repositories listed.)
+**Openai**
+ * [denser-retriever](https://github.com/denser-org/denser-retriever) - アプリケーションにAIを統合するために設計されたエンタープライズグレードのAIリトリーバーは、最先端の精度を確保し、効率的にします。
+
+
+_Updated on January 13, 2025_ (A total of 1955 repositories listed.)
 
 ## Table of contents
 
@@ -564,6 +576,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Pythonを気にしない人のためのWhisper＆Faster-Whisperスタンドアロン実行可能ファイル。
  * [Hexabot](https://github.com/hexastack/hexabot) - HexabotはオープンソースのAIチャットボット/エージェントビルダーです。複数のチャンネルや複数言語のチャットボット/エージェントを簡単に作成・管理することができます。
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMsのための完全機能を備えたWebインターフェース
+ * [denser-chat](https://github.com/denser-org/denser-chat) - PDFファイルとソースのハイライト付きでチャットする
 
 
 ## Browser-extensions
@@ -921,6 +934,8 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [uform](https://github.com/unum-cloud/uform) - ポケットサイズのマルチモーダルAIは、多言語テキスト、画像、そして🔜ビデオにわたるコンテンツの理解と生成を行います。OpenAI CLIPやLLaVAよりも最大5倍高速です🖼️ & 🖋️
  * [subsai](https://github.com/absadiki/subsai) - 🎞️ OpenAIのWhisperおよびそのバリアントを活用した字幕生成ツール（Web-UI + CLI + Pythonパッケージ） 🎞️
  * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
+ * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 複数のLLMからの回答を一度にサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポート。Material3＆Composeで設計されています。
+ * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - Unity向けの非公式OpenAI Restクライアント（UPM）
 
 
 ## Reimplementations
@@ -1275,6 +1290,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [ossinsight](https://github.com/pingcap/ossinsight) - オープンソースソフトウェアの分析、比較、トレンド、ランキングを入手することができます。さらに、OpenAIによる自然言語で70億以上の洞察を得ることもできます。Twitterでフォローしてください：https://twitter.com/ossinsight
  * [cdxgen](https://github.com/cyclonedx/cdxgen) - ソースおよびコンテナイメージからプロジェクトのCycloneDX材料（BOM）を作成します。多言語およびパッケージマネージャーをサポートしています。CI/CDパイプラインに統合し、Dependency Trackサーバーに自動送信します。GPT：https://chatgpt.com/g/g-
  * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AIを活用したツールを使用して、医学部やそれ以上の学習においてAnkiフラッシュカードを説明、記憶術、イラスト、適応学習で強化します。
+ * [Director](https://github.com/video-db/director) - 次世代のビデオインタラクションとワークフローのためのAIビデオエージェントフレームワーク。
 
 
 ## Langchain
@@ -1403,6 +1419,8 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - このリポジトリは、複雑な質問応答のための高度な検索増強生成（RAG）ソリューションを提供しています。タスクを処理するために洗練されたグラフベースのアルゴリズムを使用しています。
  * [LLPhant](https://github.com/llphant/llphant) - Input: LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。Langchainに触発されました。
  * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AIは、AI機能をバックエンドとして提供するオープンソースの言語サーバーであり、ソフトウェアエンジニアを支援し、強化するために設計されており、彼らを置き換えるものではありません。
+ * [generative-ai](https://github.com/genieincodebottle/generative-ai) - ジェネレーティブAIに関する包括的なリソース、詳細なロードマップ、プロジェクト、ユースケース、インタビュー準備、コーディング準備などを提供しています。
+ * [paperless-ai](https://github.com/clusterzx/paperless-ai) - Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。
 
 
 ## Unity
@@ -1634,6 +1652,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - ESP32のようなマイクロコントローラーでRealtime APIを使用するためのSDK
  * [openai-go](https://github.com/openai/openai-go) - OpenAI APIの公式Goライブラリ
  * [interview-coder](https://github.com/ibttf/interview-coder) - 技術面接に合格するのを手助けするオープンソースの見えないデスクトップアプリケーション。
+ * [denser-retriever](https://github.com/denser-org/denser-retriever) - アプリケーションにAIを統合するために設計されたエンタープライズグレードのAIリトリーバーは、最先端の精度を確保し、効率的にします。
 
 
 ## Others

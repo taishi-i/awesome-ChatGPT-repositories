@@ -16,16 +16,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
+ * [denser-chat](https://github.com/denser-org/denser-chat) - Chat with PDF files with source highlights
+
+
+**CLIs**
+ * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
+ * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - A Non-Official OpenAI Rest Client for Unity (UPM)
+
+
+**NLP**
+ * [Director](https://github.com/video-db/director) - AI video agents framework for next-gen video interactions and workflows.
 
 
 **Langchain**
- * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.
- * [LLPhant](https://github.com/llphant/llphant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
- * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+ * [generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
+ * [paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.
 
 
-_Updated on January 09, 2025_ (A total of 1948 repositories listed.)
+**Openai**
+ * [denser-retriever](https://github.com/denser-org/denser-retriever) - An enterprise-grade AI retriever designed to streamline AI integration into your applications, ensuring cutting-edge accuracy.
+
+
+_Updated on January 13, 2025_ (A total of 1955 repositories listed.)
 
 ## Table of contents
 
@@ -564,6 +576,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python.
  * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease.
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
+ * [denser-chat](https://github.com/denser-org/denser-chat) - Chat with PDF files with source highlights
 
 
 ## Browser-extensions
@@ -921,6 +934,8 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
  * [subsai](https://github.com/absadiki/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
  * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+ * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
+ * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - A Non-Official OpenAI Rest Client for Unity (UPM)
 
 
 ## Reimplementations
@@ -1275,6 +1290,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
  * [cdxgen](https://github.com/cyclonedx/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. GPT: https://chatgpt.com/g/g-
  * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
+ * [Director](https://github.com/video-db/director) - AI video agents framework for next-gen video interactions and workflows.
 
 
 ## Langchain
@@ -1403,6 +1419,8 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - This repository provides an advanced Retrieval-Augmented Generation (RAG) solution for complex question answering. It uses sophisticated graph based algorithm to handle the tasks.
  * [LLPhant](https://github.com/llphant/llphant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
  * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+ * [generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
+ * [paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.
 
 
 ## Unity
@@ -1634,6 +1652,7 @@ _Updated on January 09, 2025_ (A total of 1948 repositories listed.)
  * [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - A SDK to using the Realtime API with Microcontrollers like the ESP32
  * [openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
  * [interview-coder](https://github.com/ibttf/interview-coder) - An open-source invisible desktop application to help you pass your technical interviews.
+ * [denser-retriever](https://github.com/denser-org/denser-retriever) - An enterprise-grade AI retriever designed to streamline AI integration into your applications, ensuring cutting-edge accuracy.
 
 
 ## Others
