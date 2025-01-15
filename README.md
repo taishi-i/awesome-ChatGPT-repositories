@@ -15,29 +15,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [phoenix](https://github.com/arize-ai/phoenix) - AI Observability & Evaluation
+ * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤
+
+
 **Chatbots**
- * [denser-chat](https://github.com/denser-org/denser-chat) - Chat with PDF files with source highlights
-
-
-**CLIs**
- * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
- * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - A Non-Official OpenAI Rest Client for Unity (UPM)
-
-
-**NLP**
- * [Director](https://github.com/video-db/director) - AI video agents framework for next-gen video interactions and workflows.
-
-
-**Langchain**
- * [generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
- * [paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.
+ * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 
 **Openai**
- * [denser-retriever](https://github.com/denser-org/denser-retriever) - An enterprise-grade AI retriever designed to streamline AI integration into your applications, ensuring cutting-edge accuracy.
+ * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 
 
-_Updated on January 13, 2025_ (A total of 1955 repositories listed.)
+_Updated on January 16, 2025_ (A total of 1959 repositories listed.)
 
 ## Table of contents
 
@@ -287,6 +278,8 @@ _Updated on January 13, 2025_ (A total of 1955 repositories listed.)
  * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - My own Prompts for Custom instructions ChatGPT
  * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - Maintain a log of your prompts and OpenAI API requests. Track, debug, and replay old completions.
  * [langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
+ * [phoenix](https://github.com/arize-ai/phoenix) - AI Observability & Evaluation
+ * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤
 
 
 ## Chatbots
@@ -577,6 +570,7 @@ _Updated on January 13, 2025_ (A total of 1955 repositories listed.)
  * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot is an open-source AI chatbot / agent builder. It allows you to create and manage multi-channel and multilingual chatbots / agents with ease.
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
  * [denser-chat](https://github.com/denser-org/denser-chat) - Chat with PDF files with source highlights
+ * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 
 ## Browser-extensions
@@ -1653,6 +1647,7 @@ _Updated on January 13, 2025_ (A total of 1955 repositories listed.)
  * [openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
  * [interview-coder](https://github.com/ibttf/interview-coder) - An open-source invisible desktop application to help you pass your technical interviews.
  * [denser-retriever](https://github.com/denser-org/denser-retriever) - An enterprise-grade AI retriever designed to streamline AI integration into your applications, ensuring cutting-edge accuracy.
+ * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
 
 
 ## Others

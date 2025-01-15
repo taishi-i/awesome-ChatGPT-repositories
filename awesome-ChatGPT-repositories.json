@@ -5463,6 +5463,69 @@
                     "zh-hans": "终极LLM Ops平台 - 监控，分析，评估，数据集和即时优化 ✨",
                     "zh-hant": "終極LLM Ops平台 - 監控、分析、評估、數據集和即時優化 ✨"
                 }
+            },
+            "https://github.com/arize-ai/phoenix": {
+                "repository_name": "phoenix",
+                "user_name": "Arize-ai",
+                "language": "Jupyter Notebook",
+                "license": "Other",
+                "description": "AI Observability & Evaluation",
+                "topics": [
+                    "agents",
+                    "ai-monitoring",
+                    "ai-observability",
+                    "aiengineering",
+                    "anthropic",
+                    "datasets",
+                    "evals",
+                    "langchain",
+                    "llamaindex",
+                    "llm-eval",
+                    "llm-evaluation",
+                    "llmops",
+                    "llms",
+                    "openai",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Observability & Evaluation",
+                    "ja": "AI監視と評価",
+                    "zh-hans": "人工智能可观测性与评估",
+                    "zh-hant": "人工智慧的觀測和評估"
+                }
+            },
+            "https://github.com/datadreamer-dev/datadreamer": {
+                "repository_name": "DataDreamer",
+                "user_name": "datadreamer-dev",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤",
+                "topics": [
+                    "alignment",
+                    "deep-learning",
+                    "fine-tuning",
+                    "gpt",
+                    "instruction-tuning",
+                    "llm",
+                    "llmops",
+                    "llms",
+                    "machine-learning",
+                    "natural-language-processing",
+                    "nlp",
+                    "nlp-library",
+                    "openai",
+                    "python",
+                    "pytorch",
+                    "synthetic-data",
+                    "synthetic-dataset-generation",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤",
+                    "ja": "Input: DataDreamer: プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤Output: データドリーマー：プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤",
+                    "zh-hans": "DataDreamer：提示。生成合成数据。训练和对齐模型。🤖💤",
+                    "zh-hant": "DataDreamer：提示。生成合成數據。訓練和對齊模型。🤖💤"
+                }
             }
         },
         "Chatbots": {
@@ -12447,6 +12510,40 @@
                     "ja": "PDFファイルとソースのハイライト付きでチャットする",
                     "zh-hans": "与带有源高亮的PDF文件聊天",
                     "zh-hant": "與帶有來源突顯的PDF文件進行聊天"
+                }
+            },
+            "https://github.com/chatgptnextweb/nextchat": {
+                "repository_name": "NextChat",
+                "user_name": "ChatGPTNextWeb",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+                "topics": [
+                    "calclaude",
+                    "chatgpt",
+                    "claude",
+                    "cross-platform",
+                    "desktop",
+                    "fe",
+                    "gemini",
+                    "gemini-pro",
+                    "gemini-server",
+                    "gemini-ultra",
+                    "gpt-4o",
+                    "groq",
+                    "nextjs",
+                    "ollama",
+                    "react",
+                    "tauri",
+                    "tauri-app",
+                    "vercel",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+                    "ja": "✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows",
+                    "zh-hans": "✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows",
+                    "zh-hant": "✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows"
                 }
             }
         },
@@ -35953,6 +36050,31 @@
                     "ja": "アプリケーションにAIを統合するために設計されたエンタープライズグレードのAIリトリーバーは、最先端の精度を確保し、効率的にします。",
                     "zh-hans": "一个企业级的AI检索器，旨在简化AI集成到您的应用程序中，确保尖端的准确性。",
                     "zh-hant": "一款企業級AI檢索器，旨在簡化AI集成到您的應用程序中，確保尖端的準確性。"
+                }
+            },
+            "https://github.com/rayventura/shortgpt": {
+                "repository_name": "ShortGPT",
+                "user_name": "RayVentura",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "automation",
+                    "autonomous-agents",
+                    "content",
+                    "gpt-4",
+                    "openai",
+                    "python",
+                    "video",
+                    "video-editing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation",
+                    "ja": "🚀🎬 ShortGPT - YouTubeショートやTikTokチャンネルの自動化のための実験的なAIフレームワーク",
+                    "zh-hans": "🚀🎬 ShortGPT - 用于YouTube短视频/ TikTok频道自动化的实验性人工智能框架",
+                    "zh-hant": "🚀🎬 ShortGPT - 實驗性AI框架，用於YouTube短片/ TikTok頻道自動化"
                 }
             }
         },
