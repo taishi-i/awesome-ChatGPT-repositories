@@ -15,29 +15,20 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [phoenix](https://github.com/arize-ai/phoenix) - AI監視と評価
+ * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - Input: DataDreamer: プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤Output: データドリーマー：プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤
+
+
 **Chatbots**
- * [denser-chat](https://github.com/denser-org/denser-chat) - PDFファイルとソースのハイライト付きでチャットする
-
-
-**CLIs**
- * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 複数のLLMからの回答を一度にサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポート。Material3＆Composeで設計されています。
- * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - Unity向けの非公式OpenAI Restクライアント（UPM）
-
-
-**NLP**
- * [Director](https://github.com/video-db/director) - 次世代のビデオインタラクションとワークフローのためのAIビデオエージェントフレームワーク。
-
-
-**Langchain**
- * [generative-ai](https://github.com/genieincodebottle/generative-ai) - ジェネレーティブAIに関する包括的なリソース、詳細なロードマップ、プロジェクト、ユースケース、インタビュー準備、コーディング準備などを提供しています。
- * [paperless-ai](https://github.com/clusterzx/paperless-ai) - Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。
+ * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows
 
 
 **Openai**
- * [denser-retriever](https://github.com/denser-org/denser-retriever) - アプリケーションにAIを統合するために設計されたエンタープライズグレードのAIリトリーバーは、最先端の精度を確保し、効率的にします。
+ * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - YouTubeショートやTikTokチャンネルの自動化のための実験的なAIフレームワーク
 
 
-_Updated on January 13, 2025_ (A total of 1955 repositories listed.)
+_Updated on January 16, 2025_ (A total of 1959 repositories listed.)
 
 ## Table of contents
 
@@ -287,6 +278,8 @@ _Updated on January 13, 2025_ (A total of 1955 repositories listed.)
  * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - カスタム指示用の私自身のプロンプトChatGPT
  * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - プロンプトとOpenAI APIリクエストのログを維持します。古い完了を追跡、デバッグ、再生します。
  * [langwatch](https://github.com/langwatch/langwatch) - 究極のLLM Opsプラットフォーム - モニタリング、分析、評価、データセット、そして迅速な最適化 ✨
+ * [phoenix](https://github.com/arize-ai/phoenix) - AI監視と評価
+ * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - Input: DataDreamer: プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤Output: データドリーマー：プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤
 
 
 ## Chatbots
@@ -577,6 +570,7 @@ _Updated on January 13, 2025_ (A total of 1955 repositories listed.)
  * [Hexabot](https://github.com/hexastack/hexabot) - HexabotはオープンソースのAIチャットボット/エージェントビルダーです。複数のチャンネルや複数言語のチャットボット/エージェントを簡単に作成・管理することができます。
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMsのための完全機能を備えたWebインターフェース
  * [denser-chat](https://github.com/denser-org/denser-chat) - PDFファイルとソースのハイライト付きでチャットする
+ * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows
 
 
 ## Browser-extensions
@@ -1653,6 +1647,7 @@ _Updated on January 13, 2025_ (A total of 1955 repositories listed.)
  * [openai-go](https://github.com/openai/openai-go) - OpenAI APIの公式Goライブラリ
  * [interview-coder](https://github.com/ibttf/interview-coder) - 技術面接に合格するのを手助けするオープンソースの見えないデスクトップアプリケーション。
  * [denser-retriever](https://github.com/denser-org/denser-retriever) - アプリケーションにAIを統合するために設計されたエンタープライズグレードのAIリトリーバーは、最先端の精度を確保し、効率的にします。
+ * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - YouTubeショートやTikTokチャンネルの自動化のための実験的なAIフレームワーク
 
 
 ## Others

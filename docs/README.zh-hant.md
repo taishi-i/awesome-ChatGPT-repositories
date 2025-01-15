@@ -15,29 +15,20 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [phoenix](https://github.com/arize-ai/phoenix) - 人工智慧的觀測和評估
+ * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer：提示。生成合成數據。訓練和對齊模型。🤖💤
+
+
 **Chatbots**
- * [denser-chat](https://github.com/denser-org/denser-chat) - 與帶有來源突顯的PDF文件進行聊天
-
-
-**CLIs**
- * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 支援一次從多個LLM獲取答案的Android聊天應用程式。使用您自己的API金鑰AI客戶端。支援OpenAI、Anthropic、Google和Ollama。設計使用Material3和Compose。
- * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - 一個非官方的OpenAI Rest客戶端，適用於Unity (UPM)
-
-
-**NLP**
- * [Director](https://github.com/video-db/director) - 下一代視頻互動和工作流程的AI視頻代理框架。
-
-
-**Langchain**
- * [generative-ai](https://github.com/genieincodebottle/generative-ai) - 包括詳細路線圖、項目、用例、面試準備和編碼準備在內的生成式人工智能的綜合資源。
- * [paperless-ai](https://github.com/clusterzx/paperless-ai) - 一個自動文件分析器，使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）來自動分析和標記您的文件。
+ * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows
 
 
 **Openai**
- * [denser-retriever](https://github.com/denser-org/denser-retriever) - 一款企業級AI檢索器，旨在簡化AI集成到您的應用程序中，確保尖端的準確性。
+ * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - 實驗性AI框架，用於YouTube短片/ TikTok頻道自動化
 
 
-_Updated on January 13, 2025_ (A total of 1955 repositories listed.)
+_Updated on January 16, 2025_ (A total of 1959 repositories listed.)
 
 ## Table of contents
 
@@ -287,6 +278,8 @@ _Updated on January 13, 2025_ (A total of 1955 repositories listed.)
  * [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - 我自己的提示用於定制指令ChatGPT
  * [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - 🍰 PromptLayer - 維護您的提示和OpenAI API請求日誌。跟踪、調試和重播舊的完成。
  * [langwatch](https://github.com/langwatch/langwatch) - 終極LLM Ops平台 - 監控、分析、評估、數據集和即時優化 ✨
+ * [phoenix](https://github.com/arize-ai/phoenix) - 人工智慧的觀測和評估
+ * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer：提示。生成合成數據。訓練和對齊模型。🤖💤
 
 
 ## Chatbots
@@ -577,6 +570,7 @@ _Updated on January 13, 2025_ (A total of 1955 repositories listed.)
  * [Hexabot](https://github.com/hexastack/hexabot) - Hexabot 是一個開源的 AI 聊天機器人/代理構建工具。它讓您可以輕鬆地創建和管理多通道和多語言的聊天機器人/代理。
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMs的功能齊全的網頁界面
  * [denser-chat](https://github.com/denser-org/denser-chat) - 與帶有來源突顯的PDF文件進行聊天
+ * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows
 
 
 ## Browser-extensions
@@ -1653,6 +1647,7 @@ _Updated on January 13, 2025_ (A total of 1955 repositories listed.)
  * [openai-go](https://github.com/openai/openai-go) - OpenAI API 的官方 Go 库
  * [interview-coder](https://github.com/ibttf/interview-coder) - 一個開源的隱形桌面應用程式，幫助您通過技術面試。
  * [denser-retriever](https://github.com/denser-org/denser-retriever) - 一款企業級AI檢索器，旨在簡化AI集成到您的應用程序中，確保尖端的準確性。
+ * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - 實驗性AI框架，用於YouTube短片/ TikTok頻道自動化
 
 
 ## Others
