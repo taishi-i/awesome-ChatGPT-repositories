@@ -15,20 +15,28 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [phoenix](https://github.com/arize-ai/phoenix) - AI監視と評価
- * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - Input: DataDreamer: プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤Output: データドリーマー：プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤
-
-
 **Chatbots**
- * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows
+ * [Upsonic](https://github.com/upsonic/upsonic) - 私たちは一切の暗号プロジェクトを持っておらず、持つ予定もありません。それらは完全な詐欺です。| デジタルワーカーや垂直AIエージェント向けのタスク指向型AIエージェントフレームワーク
 
 
-**Openai**
- * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - YouTubeショートやTikTokチャンネルの自動化のための実験的なAIフレームワーク
+**Reimplementations**
+ * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。
 
 
-_Updated on January 16, 2025_ (A total of 1959 repositories listed.)
+**Tutorials**
+ * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - E2Bの使用例
+
+
+**NLP**
+ * [Bob](https://github.com/ripperhe/bob) - Bobは、macOSプラットフォーム向けの翻訳およびOCRソフトウェアです。
+ * [prism](https://github.com/echolabsdev/prism) - LaravelでLLMを操作するための統一されたインターフェース
+
+
+**Unity**
+ * [OpenAI](https://github.com/macpaw/openai) - OpenAI公開API向けのSwiftコミュニティ駆動パッケージ
+
+
+_Updated on January 20, 2025_ (A total of 1965 repositories listed.)
 
 ## Table of contents
 
@@ -571,6 +579,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMsのための完全機能を備えたWebインターフェース
  * [denser-chat](https://github.com/denser-org/denser-chat) - PDFファイルとソースのハイライト付きでチャットする
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows
+ * [Upsonic](https://github.com/upsonic/upsonic) - 私たちは一切の暗号プロジェクトを持っておらず、持つ予定もありません。それらは完全な詐欺です。| デジタルワーカーや垂直AIエージェント向けのタスク指向型AIエージェントフレームワーク
 
 
 ## Browser-extensions
@@ -969,6 +978,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorchバージョンのStable Baselines、強化学習アルゴリズムの信頼性のある実装。
  * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAIのWhisperのほぼライブ実装。
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - このリポジトリは、基本から高度なまでさまざまな生成AIエージェント技術のチュートリアルと実装を提供しています。知的でインタラクティブなAIシステムを構築するための包括的なガイドとして機能します。
+ * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。
 
 
 ## Tutorials
@@ -989,6 +999,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - LLMを訓練し、評価するチュートリアル、およびRAG、Agent、Chainを活用してエンターテイニングなLLMアプリケーションを構築する方法について共有します。
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 深層学習の知識がない状態からGPTの実装まで進んでください。
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - このリポジトリには、Retrieval-Augmented Generation（RAG）システムのさまざまな高度な技術が含まれています。
+ * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - E2Bの使用例
 
 
 ## NLP
@@ -1285,6 +1296,8 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [cdxgen](https://github.com/cyclonedx/cdxgen) - ソースおよびコンテナイメージからプロジェクトのCycloneDX材料（BOM）を作成します。多言語およびパッケージマネージャーをサポートしています。CI/CDパイプラインに統合し、Dependency Trackサーバーに自動送信します。GPT：https://chatgpt.com/g/g-
  * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AIを活用したツールを使用して、医学部やそれ以上の学習においてAnkiフラッシュカードを説明、記憶術、イラスト、適応学習で強化します。
  * [Director](https://github.com/video-db/director) - 次世代のビデオインタラクションとワークフローのためのAIビデオエージェントフレームワーク。
+ * [Bob](https://github.com/ripperhe/bob) - Bobは、macOSプラットフォーム向けの翻訳およびOCRソフトウェアです。
+ * [prism](https://github.com/echolabsdev/prism) - LaravelでLLMを操作するための統一されたインターフェース
 
 
 ## Langchain
@@ -1434,6 +1447,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
  * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
  * [openai-kit](https://github.com/dylanshine/openai-kit) - OpenAI APIとやり取りするために使用されるコミュニティSwiftパッケージ
+ * [OpenAI](https://github.com/macpaw/openai) - OpenAI公開API向けのSwiftコミュニティ駆動パッケージ
 
 
 ## Openai
