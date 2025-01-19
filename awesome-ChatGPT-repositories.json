@@ -12545,6 +12545,38 @@
                     "zh-hans": "✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows",
                     "zh-hant": "✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows"
                 }
+            },
+            "https://github.com/upsonic/upsonic": {
+                "repository_name": "Upsonic",
+                "user_name": "Upsonic",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents",
+                "topics": [
+                    "agent",
+                    "agent-framework",
+                    "assistant",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "claude",
+                    "computer-use",
+                    "gca",
+                    "gpt",
+                    "gpt-4o",
+                    "langchain",
+                    "llms",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-server",
+                    "model-context-protocol",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents",
+                    "ja": "私たちは一切の暗号プロジェクトを持っておらず、持つ予定もありません。それらは完全な詐欺です。| デジタルワーカーや垂直AIエージェント向けのタスク指向型AIエージェントフレームワーク",
+                    "zh-hans": "我们没有任何加密项目，也不会有任何加密项目，它们都是彻头彻尾的骗局 | 面向任务的AI代理框架，用于数字工作者和垂直AI代理",
+                    "zh-hant": "我們絕對不會有任何加密項目，它們都是完全的騙局 | 面向任務的人工智能代理框架，用於數字工作者和垂直人工智能代理"
+                }
             }
         },
         "Browser-extensions": {
@@ -21386,6 +21418,20 @@
                     "zh-hans": "该存储库提供了各种生成式AI代理技术的教程和实现，从基础到高级。它是构建智能、交互式AI系统的全面指南。",
                     "zh-hant": "這個存儲庫提供了各種生成式人工智能代理技術的教程和實現，從基礎到高級。它作為構建智能、互動式人工智能系統的全面指南。"
                 }
+            },
+            "https://github.com/juncongmoo/chatllama": {
+                "repository_name": "chatllama",
+                "user_name": "juncongmoo",
+                "language": "Python",
+                "license": null,
+                "description": "ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT",
+                    "ja": "ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。",
+                    "zh-hans": "ChatLLaMA 📢 是基于 LLaMA 的 ChatGPT 的开源实现，可在单个 GPU 上运行。训练速度比 ChatGPT 快 15 倍。",
+                    "zh-hant": "ChatLLaMA 📢 是一個基於 LLaMA 的開源實現，可在單個 GPU 上運行的 ChatGPT。訓練過程比 ChatGPT 快 15 倍。"
+                }
             }
         },
         "Tutorials": {
@@ -21793,6 +21839,40 @@
                     "ja": "このリポジトリには、Retrieval-Augmented Generation（RAG）システムのさまざまな高度な技術が含まれています。",
                     "zh-hans": "该存储库包含了用于检索增强生成（RAG）系统的各种高级技术。",
                     "zh-hant": "這個存儲庫包含了檢索增強生成（RAG）系統的各種高級技術。"
+                }
+            },
+            "https://github.com/e2b-dev/e2b-cookbook": {
+                "repository_name": "e2b-cookbook",
+                "user_name": "e2b-dev",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Examples of using E2B",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-agents",
+                    "code-interpreter",
+                    "cookbook",
+                    "devtools",
+                    "e2b",
+                    "example",
+                    "gpt",
+                    "gpt4",
+                    "guides",
+                    "javascript",
+                    "llm",
+                    "openai",
+                    "python",
+                    "python3",
+                    "sdk",
+                    "tutorial",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Examples of using E2B",
+                    "ja": "E2Bの使用例",
+                    "zh-hans": "使用E2B的示例",
+                    "zh-hant": "使用E2B的例子"
                 }
             }
         },
@@ -28135,6 +28215,60 @@
                     "zh-hans": "下一代视频互动和工作流的AI视频代理框架。",
                     "zh-hant": "下一代視頻互動和工作流程的AI視頻代理框架。"
                 }
+            },
+            "https://github.com/ripperhe/bob": {
+                "repository_name": "Bob",
+                "user_name": "ripperhe",
+                "language": null,
+                "license": null,
+                "description": "Bob 是一款 macOS 平台的翻译和 OCR 软件。",
+                "topics": [
+                    "bobapp",
+                    "chatgpt",
+                    "deepseek",
+                    "doubao",
+                    "ernie",
+                    "gemini",
+                    "groq",
+                    "hunyuan",
+                    "kimi",
+                    "macos",
+                    "ocr",
+                    "openai",
+                    "qwen",
+                    "translate",
+                    "translation",
+                    "translator",
+                    "zhipuai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Bob is a translation and OCR software for macOS platform.",
+                    "ja": "Bobは、macOSプラットフォーム向けの翻訳およびOCRソフトウェアです。",
+                    "zh-hans": "Bob 是一款 macOS 平台的翻译和 OCR 软件。",
+                    "zh-hant": "Bob 是一款 macOS 平台的翻譯和 OCR 軟件。"
+                }
+            },
+            "https://github.com/echolabsdev/prism": {
+                "repository_name": "prism",
+                "user_name": "echolabsdev",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "A unified interface for working with LLMs in Laravel",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "claude",
+                    "laravel",
+                    "llm",
+                    "openai",
+                    "php"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A unified interface for working with LLMs in Laravel",
+                    "ja": "LaravelでLLMを操作するための統一されたインターフェース",
+                    "zh-hans": "Laravel中用于处理LLMs的统一接口",
+                    "zh-hant": "在Laravel中使用LLM的統一界面"
+                }
             }
         },
         "Langchain": {
@@ -31491,6 +31625,27 @@
                     "ja": "OpenAI APIとやり取りするために使用されるコミュニティSwiftパッケージ",
                     "zh-hans": "一个用于与OpenAI API交互的社区Swift软件包",
                     "zh-hant": "一個用於與OpenAI API 互動的社區Swift套件"
+                }
+            },
+            "https://github.com/macpaw/openai": {
+                "repository_name": "OpenAI",
+                "user_name": "MacPaw",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "Swift community driven package for OpenAI public API",
+                "topics": [
+                    "ai",
+                    "openai",
+                    "openai-api",
+                    "spm",
+                    "swift",
+                    "swiftpackagemanager"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Swift community driven package for OpenAI public API",
+                    "ja": "OpenAI公開API向けのSwiftコミュニティ駆動パッケージ",
+                    "zh-hans": "Swift社区驱动的OpenAI公共API包",
+                    "zh-hant": "Swift 社區驅動的 OpenAI 公共 API 套件"
                 }
             }
         },

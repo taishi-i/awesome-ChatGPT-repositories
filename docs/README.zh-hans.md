@@ -15,20 +15,28 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [phoenix](https://github.com/arize-ai/phoenix) - 人工智能可观测性与评估
- * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer：提示。生成合成数据。训练和对齐模型。🤖💤
-
-
 **Chatbots**
- * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows
+ * [Upsonic](https://github.com/upsonic/upsonic) - 我们没有任何加密项目，也不会有任何加密项目，它们都是彻头彻尾的骗局 | 面向任务的AI代理框架，用于数字工作者和垂直AI代理
 
 
-**Openai**
- * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - 用于YouTube短视频/ TikTok频道自动化的实验性人工智能框架
+**Reimplementations**
+ * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是基于 LLaMA 的 ChatGPT 的开源实现，可在单个 GPU 上运行。训练速度比 ChatGPT 快 15 倍。
 
 
-_Updated on January 16, 2025_ (A total of 1959 repositories listed.)
+**Tutorials**
+ * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - 使用E2B的示例
+
+
+**NLP**
+ * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
+ * [prism](https://github.com/echolabsdev/prism) - Laravel中用于处理LLMs的统一接口
+
+
+**Unity**
+ * [OpenAI](https://github.com/macpaw/openai) - Swift社区驱动的OpenAI公共API包
+
+
+_Updated on January 20, 2025_ (A total of 1965 repositories listed.)
 
 ## Table of contents
 
@@ -571,6 +579,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMs的全功能网络界面
  * [denser-chat](https://github.com/denser-org/denser-chat) - 与带有源高亮的PDF文件聊天
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows
+ * [Upsonic](https://github.com/upsonic/upsonic) - 我们没有任何加密项目，也不会有任何加密项目，它们都是彻头彻尾的骗局 | 面向任务的AI代理框架，用于数字工作者和垂直AI代理
 
 
 ## Browser-extensions
@@ -969,6 +978,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorch版本的Stable Baselines，强化学习算法的可靠实现。
  * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAI的Whisper的近乎实时实现。
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - 该存储库提供了各种生成式AI代理技术的教程和实现，从基础到高级。它是构建智能、交互式AI系统的全面指南。
+ * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是基于 LLaMA 的 ChatGPT 的开源实现，可在单个 GPU 上运行。训练速度比 ChatGPT 快 15 倍。
 
 
 ## Tutorials
@@ -989,6 +999,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - 关于如何训练、评估LLMs，并利用RAG、Agent、Chain构建有趣的应用程序的教程。
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 从零开始学习深度学习，实现GPT。
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - 该存储库包含了用于检索增强生成（RAG）系统的各种高级技术。
+ * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - 使用E2B的示例
 
 
 ## NLP
@@ -1285,6 +1296,8 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [cdxgen](https://github.com/cyclonedx/cdxgen) - 从源代码和容器镜像为您的项目创建CycloneDX物料清单（BOM）。支持多种语言和包管理器。与CI/CD管道集成，自动提交到Dependency Track服务器。GPT：https://chatgpt.com/g/g-
  * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI 动力工具，用于增强 Anki 卡片，提供解释、记忆技巧、插图和医学院及更高级别的自适应学习。
  * [Director](https://github.com/video-db/director) - 下一代视频互动和工作流的AI视频代理框架。
+ * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
+ * [prism](https://github.com/echolabsdev/prism) - Laravel中用于处理LLMs的统一接口
 
 
 ## Langchain
@@ -1434,6 +1447,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan 社区版（CE）输出：Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan 社区版 (CE)
  * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan社区版（CE）输出：使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan社区版（CE）
  * [openai-kit](https://github.com/dylanshine/openai-kit) - 一个用于与OpenAI API交互的社区Swift软件包
+ * [OpenAI](https://github.com/macpaw/openai) - Swift社区驱动的OpenAI公共API包
 
 
 ## Openai

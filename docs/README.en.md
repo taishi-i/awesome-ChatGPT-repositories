@@ -15,20 +15,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [phoenix](https://github.com/arize-ai/phoenix) - AI Observability & Evaluation
- * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤
-
-
 **Chatbots**
- * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+ * [Upsonic](https://github.com/upsonic/upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
 
 
-**Openai**
- * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
+**Reimplementations**
+ * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
 
 
-_Updated on January 16, 2025_ (A total of 1959 repositories listed.)
+**Tutorials**
+ * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
+
+
+**NLP**
+ * [Bob](https://github.com/ripperhe/bob) - Bob is a translation and OCR software for macOS platform.
+ * [prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
+
+
+**Unity**
+ * [OpenAI](https://github.com/macpaw/openai) - Swift community driven package for OpenAI public API
+
+
+_Updated on January 20, 2025_ (A total of 1965 repositories listed.)
 
 ## Table of contents
 
@@ -571,6 +579,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Fully-featured web interface for Ollama LLMs
  * [denser-chat](https://github.com/denser-org/denser-chat) - Chat with PDF files with source highlights
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+ * [Upsonic](https://github.com/upsonic/upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
 
 
 ## Browser-extensions
@@ -969,6 +978,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
  * [WhisperLive](https://github.com/collabora/whisperlive) - A nearly-live implementation of OpenAI's Whisper.
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+ * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
 
 
 ## Tutorials
@@ -989,6 +999,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - Tutorial on training, evaluating LLM, as well as utilizing RAG, Agent, Chain to build entertaining applications with LLMs.分享如何训练、评估LLMs，如何基于RAG、Agent、Chain构建有趣的LLMs应用。
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - Go from no deep learning knowledge to implementing GPT.
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
+ * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
 
 
 ## NLP
@@ -1285,6 +1296,8 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [cdxgen](https://github.com/cyclonedx/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server. GPT: https://chatgpt.com/g/g-
  * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI-powered tools to enhance Anki flashcards with explanations, mnemonics, illustrations, and adaptive learning for medical school and beyond
  * [Director](https://github.com/video-db/director) - AI video agents framework for next-gen video interactions and workflows.
+ * [Bob](https://github.com/ripperhe/bob) - Bob is a translation and OCR software for macOS platform.
+ * [prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
 
 
 ## Langchain
@@ -1434,6 +1447,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
  * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
  * [openai-kit](https://github.com/dylanshine/openai-kit) - A community Swift package used to interact with the OpenAI API
+ * [OpenAI](https://github.com/macpaw/openai) - Swift community driven package for OpenAI public API
 
 
 ## Openai

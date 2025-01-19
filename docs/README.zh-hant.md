@@ -15,20 +15,28 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [phoenix](https://github.com/arize-ai/phoenix) - 人工智慧的觀測和評估
- * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer：提示。生成合成數據。訓練和對齊模型。🤖💤
-
-
 **Chatbots**
- * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows
+ * [Upsonic](https://github.com/upsonic/upsonic) - 我們絕對不會有任何加密項目，它們都是完全的騙局 | 面向任務的人工智能代理框架，用於數字工作者和垂直人工智能代理
 
 
-**Openai**
- * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - 實驗性AI框架，用於YouTube短片/ TikTok頻道自動化
+**Reimplementations**
+ * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是一個基於 LLaMA 的開源實現，可在單個 GPU 上運行的 ChatGPT。訓練過程比 ChatGPT 快 15 倍。
 
 
-_Updated on January 16, 2025_ (A total of 1959 repositories listed.)
+**Tutorials**
+ * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - 使用E2B的例子
+
+
+**NLP**
+ * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻譯和 OCR 軟件。
+ * [prism](https://github.com/echolabsdev/prism) - 在Laravel中使用LLM的統一界面
+
+
+**Unity**
+ * [OpenAI](https://github.com/macpaw/openai) - Swift 社區驅動的 OpenAI 公共 API 套件
+
+
+_Updated on January 20, 2025_ (A total of 1965 repositories listed.)
 
 ## Table of contents
 
@@ -571,6 +579,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - Ollama LLMs的功能齊全的網頁界面
  * [denser-chat](https://github.com/denser-org/denser-chat) - 與帶有來源突顯的PDF文件進行聊天
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows
+ * [Upsonic](https://github.com/upsonic/upsonic) - 我們絕對不會有任何加密項目，它們都是完全的騙局 | 面向任務的人工智能代理框架，用於數字工作者和垂直人工智能代理
 
 
 ## Browser-extensions
@@ -969,6 +978,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - 穩定基線的PyTorch版本，可靠的強化學習算法實現。
  * [WhisperLive](https://github.com/collabora/whisperlive) - 一個幾乎實時實現OpenAI的Whisper。
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - 這個存儲庫提供了各種生成式人工智能代理技術的教程和實現，從基礎到高級。它作為構建智能、互動式人工智能系統的全面指南。
+ * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是一個基於 LLaMA 的開源實現，可在單個 GPU 上運行的 ChatGPT。訓練過程比 ChatGPT 快 15 倍。
 
 
 ## Tutorials
@@ -989,6 +999,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - 教程：如何訓練、評估LLMs，以及利用RAG、Agent、Chain來構建具娛樂性的LLMs應用程式。
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 從零基礎的深度學習知識到實現GPT。
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - 這個存儲庫包含了檢索增強生成（RAG）系統的各種高級技術。
+ * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - 使用E2B的例子
 
 
 ## NLP
@@ -1285,6 +1296,8 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [cdxgen](https://github.com/cyclonedx/cdxgen) - 從來源和容器映像為您的項目創建CycloneDX物料清單（BOM）。支持多種語言和套件管理器。與自動提交到Dependency Track服務器集成到您的CI/CD管道中。GPT：https://chatgpt.com/g/g-
  * [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - AI 強化工具，以解釋、記憶術、插圖和適應性學習來增強 Anki 閃卡，適用於醫學院及更多領域。
  * [Director](https://github.com/video-db/director) - 下一代視頻互動和工作流程的AI視頻代理框架。
+ * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻譯和 OCR 軟件。
+ * [prism](https://github.com/echolabsdev/prism) - 在Laravel中使用LLM的統一界面
 
 
 ## Langchain
@@ -1434,6 +1447,7 @@ _Updated on January 16, 2025_ (A total of 1959 repositories listed.)
  * [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
  * [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
  * [openai-kit](https://github.com/dylanshine/openai-kit) - 一個用於與OpenAI API 互動的社區Swift套件
+ * [OpenAI](https://github.com/macpaw/openai) - Swift 社區驅動的 OpenAI 公共 API 套件
 
 
 ## Openai
