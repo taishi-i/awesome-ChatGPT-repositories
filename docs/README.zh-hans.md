@@ -15,28 +15,16 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Upsonic](https://github.com/upsonic/upsonic) - 我们没有任何加密项目，也不会有任何加密项目，它们都是彻头彻尾的骗局 | 面向任务的AI代理框架，用于数字工作者和垂直AI代理
+**Prompts**
+ * [LangChain](https://github.com/tryagi/langchain) - LangChain的C#实现。我们尽量保持与原始版本的抽象接近，但也愿意接受新的实体。
+ * [Kiln](https://github.com/kiln-ai/kiln) - 用于微调LLM模型、合成数据生成和数据集协作的最简单工具。
 
 
-**Reimplementations**
- * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是基于 LLaMA 的 ChatGPT 的开源实现，可在单个 GPU 上运行。训练速度比 ChatGPT 快 15 倍。
+**Langchain**
+ * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - 一份全面指南，帮助理解和实施大型语言模型，并使用LangChain进行GenAI应用的实际示例。
 
 
-**Tutorials**
- * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - 使用E2B的示例
-
-
-**NLP**
- * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
- * [prism](https://github.com/echolabsdev/prism) - Laravel中用于处理LLMs的统一接口
-
-
-**Unity**
- * [OpenAI](https://github.com/macpaw/openai) - Swift社区驱动的OpenAI公共API包
-
-
-_Updated on January 20, 2025_ (A total of 1965 repositories listed.)
+_Updated on January 23, 2025_ (A total of 1968 repositories listed.)
 
 ## Table of contents
 
@@ -288,6 +276,8 @@ _Updated on January 20, 2025_ (A total of 1965 repositories listed.)
  * [langwatch](https://github.com/langwatch/langwatch) - 终极LLM Ops平台 - 监控，分析，评估，数据集和即时优化 ✨
  * [phoenix](https://github.com/arize-ai/phoenix) - 人工智能可观测性与评估
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer：提示。生成合成数据。训练和对齐模型。🤖💤
+ * [LangChain](https://github.com/tryagi/langchain) - LangChain的C#实现。我们尽量保持与原始版本的抽象接近，但也愿意接受新的实体。
+ * [Kiln](https://github.com/kiln-ai/kiln) - 用于微调LLM模型、合成数据生成和数据集协作的最简单工具。
 
 
 ## Chatbots
@@ -1428,6 +1418,7 @@ _Updated on January 20, 2025_ (A total of 1965 repositories listed.)
  * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI是一个开源的语言服务器，作为AI功能的后端，旨在帮助和赋予软件工程师能力，而不是取代他们。
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - 生成式人工智能的综合资源，包括详细的路线图、项目、用例、面试准备和编码准备。
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - 使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）的自动文档分析器，可自动分析和标记您的文件。
+ * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - 一份全面指南，帮助理解和实施大型语言模型，并使用LangChain进行GenAI应用的实际示例。
 
 
 ## Unity

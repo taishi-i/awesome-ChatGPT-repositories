@@ -5526,6 +5526,70 @@
                     "zh-hans": "DataDreamer：提示。生成合成数据。训练和对齐模型。🤖💤",
                     "zh-hant": "DataDreamer：提示。生成合成數據。訓練和對齊模型。🤖💤"
                 }
+            },
+            "https://github.com/tryagi/langchain": {
+                "repository_name": "LangChain",
+                "user_name": "tryAGI",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.",
+                "topics": [
+                    "abstractions",
+                    "agents",
+                    "ai",
+                    "artificial-intelligence",
+                    "chain",
+                    "csharp",
+                    "joi",
+                    "langchain",
+                    "langchain-csharp",
+                    "langchain-dotnet",
+                    "llm",
+                    "llms",
+                    "openai",
+                    "prompt",
+                    "sdk",
+                    "semantic",
+                    "semantic-kernel",
+                    "tryagi"
+                ],
+                "multilingual_descriptions": {
+                    "en": "C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.",
+                    "ja": "LangChainのC#実装。抽象化に関して可能な限りオリジナルに近づこうと努めていますが、新しいエンティティにもオープンです。",
+                    "zh-hans": "LangChain的C#实现。我们尽量保持与原始版本的抽象接近，但也愿意接受新的实体。",
+                    "zh-hant": "LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。"
+                }
+            },
+            "https://github.com/kiln-ai/kiln": {
+                "repository_name": "Kiln",
+                "user_name": "Kiln-AI",
+                "language": "Python",
+                "license": null,
+                "description": "The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.",
+                "topics": [
+                    "ai",
+                    "chain-of-thought",
+                    "collaboration",
+                    "dataset-generation",
+                    "fine-tuning",
+                    "machine-learning",
+                    "macos",
+                    "ml",
+                    "ollama",
+                    "openai",
+                    "prompt",
+                    "prompt-engineering",
+                    "python",
+                    "rlhf",
+                    "synthetic-data",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.",
+                    "ja": "LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。",
+                    "zh-hans": "用于微调LLM模型、合成数据生成和数据集协作的最简单工具。",
+                    "zh-hant": "微調LLM模型、合成數據生成和協作數據集的最簡單工具。"
+                }
             }
         },
         "Chatbots": {
@@ -31300,6 +31364,20 @@
                     "ja": "Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。",
                     "zh-hans": "使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）的自动文档分析器，可自动分析和标记您的文件。",
                     "zh-hant": "一個自動文件分析器，使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）來自動分析和標記您的文件。"
+                }
+            },
+            "https://github.com/djangopeng/openai-quickstart": {
+                "repository_name": "openai-quickstart",
+                "user_name": "DjangoPeng",
+                "language": "Jupyter Notebook",
+                "license": "Apache License 2.0",
+                "description": "A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.",
+                    "ja": "LangChainを使用したGenAIアプリケーションのための大規模言語モデルの理解と実装に関する包括的なガイドと、実践的な例を紹介します。",
+                    "zh-hans": "一份全面指南，帮助理解和实施大型语言模型，并使用LangChain进行GenAI应用的实际示例。",
+                    "zh-hant": "一個全面的指南，以實際示例使用LangChain來理解和實施大型語言模型，適用於GenAI應用程式。"
                 }
             }
         },
