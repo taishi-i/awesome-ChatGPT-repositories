@@ -15,28 +15,16 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Upsonic](https://github.com/upsonic/upsonic) - 我們絕對不會有任何加密項目，它們都是完全的騙局 | 面向任務的人工智能代理框架，用於數字工作者和垂直人工智能代理
+**Prompts**
+ * [LangChain](https://github.com/tryagi/langchain) - LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。
+ * [Kiln](https://github.com/kiln-ai/kiln) - 微調LLM模型、合成數據生成和協作數據集的最簡單工具。
 
 
-**Reimplementations**
- * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是一個基於 LLaMA 的開源實現，可在單個 GPU 上運行的 ChatGPT。訓練過程比 ChatGPT 快 15 倍。
+**Langchain**
+ * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - 一個全面的指南，以實際示例使用LangChain來理解和實施大型語言模型，適用於GenAI應用程式。
 
 
-**Tutorials**
- * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - 使用E2B的例子
-
-
-**NLP**
- * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻譯和 OCR 軟件。
- * [prism](https://github.com/echolabsdev/prism) - 在Laravel中使用LLM的統一界面
-
-
-**Unity**
- * [OpenAI](https://github.com/macpaw/openai) - Swift 社區驅動的 OpenAI 公共 API 套件
-
-
-_Updated on January 20, 2025_ (A total of 1965 repositories listed.)
+_Updated on January 23, 2025_ (A total of 1968 repositories listed.)
 
 ## Table of contents
 
@@ -288,6 +276,8 @@ _Updated on January 20, 2025_ (A total of 1965 repositories listed.)
  * [langwatch](https://github.com/langwatch/langwatch) - 終極LLM Ops平台 - 監控、分析、評估、數據集和即時優化 ✨
  * [phoenix](https://github.com/arize-ai/phoenix) - 人工智慧的觀測和評估
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer：提示。生成合成數據。訓練和對齊模型。🤖💤
+ * [LangChain](https://github.com/tryagi/langchain) - LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。
+ * [Kiln](https://github.com/kiln-ai/kiln) - 微調LLM模型、合成數據生成和協作數據集的最簡單工具。
 
 
 ## Chatbots
@@ -1428,6 +1418,7 @@ _Updated on January 20, 2025_ (A total of 1965 repositories listed.)
  * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI 是一個開源語言伺服器，作為 AI 強化功能的後端，旨在協助和賦予軟體工程師能力，而非取代他們。
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - 包括詳細路線圖、項目、用例、面試準備和編碼準備在內的生成式人工智能的綜合資源。
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - 一個自動文件分析器，使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）來自動分析和標記您的文件。
+ * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - 一個全面的指南，以實際示例使用LangChain來理解和實施大型語言模型，適用於GenAI應用程式。
 
 
 ## Unity

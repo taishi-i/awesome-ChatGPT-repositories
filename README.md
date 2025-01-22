@@ -15,28 +15,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Upsonic](https://github.com/upsonic/upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
+**Prompts**
+ * [LangChain](https://github.com/tryagi/langchain) - C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.
+ * [Kiln](https://github.com/kiln-ai/kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
 
 
-**Reimplementations**
- * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
+**Langchain**
+ * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.
 
 
-**Tutorials**
- * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
-
-
-**NLP**
- * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
- * [prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
-
-
-**Unity**
- * [OpenAI](https://github.com/macpaw/openai) - Swift community driven package for OpenAI public API
-
-
-_Updated on January 20, 2025_ (A total of 1965 repositories listed.)
+_Updated on January 23, 2025_ (A total of 1968 repositories listed.)
 
 ## Table of contents
 
@@ -288,6 +276,8 @@ _Updated on January 20, 2025_ (A total of 1965 repositories listed.)
  * [langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
  * [phoenix](https://github.com/arize-ai/phoenix) - AI Observability & Evaluation
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤
+ * [LangChain](https://github.com/tryagi/langchain) - C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.
+ * [Kiln](https://github.com/kiln-ai/kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
 
 
 ## Chatbots
@@ -1428,6 +1418,7 @@ _Updated on January 20, 2025_ (A total of 1965 repositories listed.)
  * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.
+ * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.
 
 
 ## Unity

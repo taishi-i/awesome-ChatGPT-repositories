@@ -15,28 +15,16 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Upsonic](https://github.com/upsonic/upsonic) - 私たちは一切の暗号プロジェクトを持っておらず、持つ予定もありません。それらは完全な詐欺です。| デジタルワーカーや垂直AIエージェント向けのタスク指向型AIエージェントフレームワーク
+**Prompts**
+ * [LangChain](https://github.com/tryagi/langchain) - LangChainのC#実装。抽象化に関して可能な限りオリジナルに近づこうと努めていますが、新しいエンティティにもオープンです。
+ * [Kiln](https://github.com/kiln-ai/kiln) - LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。
 
 
-**Reimplementations**
- * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。
+**Langchain**
+ * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - LangChainを使用したGenAIアプリケーションのための大規模言語モデルの理解と実装に関する包括的なガイドと、実践的な例を紹介します。
 
 
-**Tutorials**
- * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - E2Bの使用例
-
-
-**NLP**
- * [Bob](https://github.com/ripperhe/bob) - Bobは、macOSプラットフォーム向けの翻訳およびOCRソフトウェアです。
- * [prism](https://github.com/echolabsdev/prism) - LaravelでLLMを操作するための統一されたインターフェース
-
-
-**Unity**
- * [OpenAI](https://github.com/macpaw/openai) - OpenAI公開API向けのSwiftコミュニティ駆動パッケージ
-
-
-_Updated on January 20, 2025_ (A total of 1965 repositories listed.)
+_Updated on January 23, 2025_ (A total of 1968 repositories listed.)
 
 ## Table of contents
 
@@ -288,6 +276,8 @@ _Updated on January 20, 2025_ (A total of 1965 repositories listed.)
  * [langwatch](https://github.com/langwatch/langwatch) - 究極のLLM Opsプラットフォーム - モニタリング、分析、評価、データセット、そして迅速な最適化 ✨
  * [phoenix](https://github.com/arize-ai/phoenix) - AI監視と評価
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - Input: DataDreamer: プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤Output: データドリーマー：プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤
+ * [LangChain](https://github.com/tryagi/langchain) - LangChainのC#実装。抽象化に関して可能な限りオリジナルに近づこうと努めていますが、新しいエンティティにもオープンです。
+ * [Kiln](https://github.com/kiln-ai/kiln) - LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。
 
 
 ## Chatbots
@@ -1428,6 +1418,7 @@ _Updated on January 20, 2025_ (A total of 1965 repositories listed.)
  * [lsp-ai](https://github.com/silasmarvin/lsp-ai) - LSP-AIは、AI機能をバックエンドとして提供するオープンソースの言語サーバーであり、ソフトウェアエンジニアを支援し、強化するために設計されており、彼らを置き換えるものではありません。
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - ジェネレーティブAIに関する包括的なリソース、詳細なロードマップ、プロジェクト、ユースケース、インタビュー準備、コーディング準備などを提供しています。
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。
+ * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - LangChainを使用したGenAIアプリケーションのための大規模言語モデルの理解と実装に関する包括的なガイドと、実践的な例を紹介します。
 
 
 ## Unity
