@@ -15,16 +15,16 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [LangChain](https://github.com/tryagi/langchain) - LangChainのC#実装。抽象化に関して可能な限りオリジナルに近づこうと努めていますが、新しいエンティティにもオープンです。
- * [Kiln](https://github.com/kiln-ai/kiln) - LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。
+**Tutorials**
+ * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - OpenAI APIクイックスタートチュートリアルからのNode.jsのサンプルアプリ
 
 
-**Langchain**
- * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - LangChainを使用したGenAIアプリケーションのための大規模言語モデルの理解と実装に関する包括的なガイドと、実践的な例を紹介します。
+**Openai**
+ * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PRエージェント（Qodo Mergeオープンソース）：自動プルリクエスト分析、フィードバック、提案などを行うAIパワード🤖ツール！💻🔍
+ * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat、シンプルで使いやすいインターフェースを備えたAIプラットフォームに統合されたチャットと検索。Chat Chat、あなた自身の統合されたチャットと検索をAIプラットフォームで、シンプルで使いやすいインターフェースで提供します。
 
 
-_Updated on January 23, 2025_ (A total of 1968 repositories listed.)
+_Updated on January 27, 2025_ (A total of 1971 repositories listed.)
 
 ## Table of contents
 
@@ -990,6 +990,7 @@ _Updated on January 23, 2025_ (A total of 1968 repositories listed.)
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 深層学習の知識がない状態からGPTの実装まで進んでください。
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - このリポジトリには、Retrieval-Augmented Generation（RAG）システムのさまざまな高度な技術が含まれています。
  * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - E2Bの使用例
+ * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - OpenAI APIクイックスタートチュートリアルからのNode.jsのサンプルアプリ
 
 
 ## NLP
@@ -1653,6 +1654,8 @@ _Updated on January 23, 2025_ (A total of 1968 repositories listed.)
  * [interview-coder](https://github.com/ibttf/interview-coder) - 技術面接に合格するのを手助けするオープンソースの見えないデスクトップアプリケーション。
  * [denser-retriever](https://github.com/denser-org/denser-retriever) - アプリケーションにAIを統合するために設計されたエンタープライズグレードのAIリトリーバーは、最先端の精度を確保し、効率的にします。
  * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - YouTubeショートやTikTokチャンネルの自動化のための実験的なAIフレームワーク
+ * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PRエージェント（Qodo Mergeオープンソース）：自動プルリクエスト分析、フィードバック、提案などを行うAIパワード🤖ツール！💻🔍
+ * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat、シンプルで使いやすいインターフェースを備えたAIプラットフォームに統合されたチャットと検索。Chat Chat、あなた自身の統合されたチャットと検索をAIプラットフォームで、シンプルで使いやすいインターフェースで提供します。
 
 
 ## Others

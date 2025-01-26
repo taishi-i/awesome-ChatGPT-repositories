@@ -21938,6 +21938,23 @@
                     "zh-hans": "使用E2B的示例",
                     "zh-hant": "使用E2B的例子"
                 }
+            },
+            "https://github.com/openai/openai-quickstart-node": {
+                "repository_name": "openai-quickstart-node",
+                "user_name": "openai",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Node.js example app from the OpenAI API quickstart tutorial",
+                "topics": [
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Node.js example app from the OpenAI API quickstart tutorial",
+                    "ja": "OpenAI APIクイックスタートチュートリアルからのNode.jsのサンプルアプリ",
+                    "zh-hans": "Node.js示例应用程序来自OpenAI API快速入门教程",
+                    "zh-hant": "從OpenAI API快速入門教程中的Node.js示例應用程式"
+                }
             }
         },
         "NLP": {
@@ -36308,6 +36325,54 @@
                     "ja": "🚀🎬 ShortGPT - YouTubeショートやTikTokチャンネルの自動化のための実験的なAIフレームワーク",
                     "zh-hans": "🚀🎬 ShortGPT - 用于YouTube短视频/ TikTok频道自动化的实验性人工智能框架",
                     "zh-hant": "🚀🎬 ShortGPT - 實驗性AI框架，用於YouTube短片/ TikTok頻道自動化"
+                }
+            },
+            "https://github.com/qodo-ai/pr-agent": {
+                "repository_name": "pr-agent",
+                "user_name": "qodo-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍",
+                "topics": [
+                    "code-review",
+                    "codereview",
+                    "coding-assistant",
+                    "devtools",
+                    "gpt-4",
+                    "openai",
+                    "pull-request",
+                    "pull-requests"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍",
+                    "ja": "🚀 PRエージェント（Qodo Mergeオープンソース）：自動プルリクエスト分析、フィードバック、提案などを行うAIパワード🤖ツール！💻🔍",
+                    "zh-hans": "🚀 PR代理（Qodo Merge开源）：一款AI驱动的🤖自动拉取请求分析工具，提供反馈、建议等功能！💻🔍",
+                    "zh-hant": "🚀 PR代理（Qodo Merge開源）：一個AI驅動的🤖工具，用於自動化拉取請求分析、反饋、建議等！💻🔍"
+                }
+            },
+            "https://github.com/okisdev/chatchat": {
+                "repository_name": "ChatChat",
+                "user_name": "okisdev",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface.",
+                "topics": [
+                    "ai",
+                    "api",
+                    "azure",
+                    "chat",
+                    "claude",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "okisdev",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface.",
+                    "ja": "Chat Chat、シンプルで使いやすいインターフェースを備えたAIプラットフォームに統合されたチャットと検索。Chat Chat、あなた自身の統合されたチャットと検索をAIプラットフォームで、シンプルで使いやすいインターフェースで提供します。",
+                    "zh-hans": "Chat Chat，您自己的统一聊天和搜索AI平台，具有简单易用的界面。",
+                    "zh-hant": "聊天聊天，您自己的統一聊天和搜索AI平台，具有簡單易用的界面。"
                 }
             }
         },

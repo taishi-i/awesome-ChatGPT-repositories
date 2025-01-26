@@ -15,16 +15,16 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [LangChain](https://github.com/tryagi/langchain) - LangChain的C#实现。我们尽量保持与原始版本的抽象接近，但也愿意接受新的实体。
- * [Kiln](https://github.com/kiln-ai/kiln) - 用于微调LLM模型、合成数据生成和数据集协作的最简单工具。
+**Tutorials**
+ * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js示例应用程序来自OpenAI API快速入门教程
 
 
-**Langchain**
- * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - 一份全面指南，帮助理解和实施大型语言模型，并使用LangChain进行GenAI应用的实际示例。
+**Openai**
+ * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR代理（Qodo Merge开源）：一款AI驱动的🤖自动拉取请求分析工具，提供反馈、建议等功能！💻🔍
+ * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat，您自己的统一聊天和搜索AI平台，具有简单易用的界面。
 
 
-_Updated on January 23, 2025_ (A total of 1968 repositories listed.)
+_Updated on January 27, 2025_ (A total of 1971 repositories listed.)
 
 ## Table of contents
 
@@ -990,6 +990,7 @@ _Updated on January 23, 2025_ (A total of 1968 repositories listed.)
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - 从零开始学习深度学习，实现GPT。
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - 该存储库包含了用于检索增强生成（RAG）系统的各种高级技术。
  * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - 使用E2B的示例
+ * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js示例应用程序来自OpenAI API快速入门教程
 
 
 ## NLP
@@ -1653,6 +1654,8 @@ _Updated on January 23, 2025_ (A total of 1968 repositories listed.)
  * [interview-coder](https://github.com/ibttf/interview-coder) - 一个开源的隐形桌面应用程序，帮助您通过技术面试。
  * [denser-retriever](https://github.com/denser-org/denser-retriever) - 一个企业级的AI检索器，旨在简化AI集成到您的应用程序中，确保尖端的准确性。
  * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - 用于YouTube短视频/ TikTok频道自动化的实验性人工智能框架
+ * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR代理（Qodo Merge开源）：一款AI驱动的🤖自动拉取请求分析工具，提供反馈、建议等功能！💻🔍
+ * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat，您自己的统一聊天和搜索AI平台，具有简单易用的界面。
 
 
 ## Others
