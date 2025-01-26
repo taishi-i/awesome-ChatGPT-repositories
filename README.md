@@ -15,16 +15,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [LangChain](https://github.com/tryagi/langchain) - C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.
- * [Kiln](https://github.com/kiln-ai/kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+**Tutorials**
+ * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
 
 
-**Langchain**
- * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.
+**Openai**
+ * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+ * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface.
 
 
-_Updated on January 23, 2025_ (A total of 1968 repositories listed.)
+_Updated on January 27, 2025_ (A total of 1971 repositories listed.)
 
 ## Table of contents
 
@@ -990,6 +990,7 @@ _Updated on January 23, 2025_ (A total of 1968 repositories listed.)
  * [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - Go from no deep learning knowledge to implementing GPT.
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
  * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - Examples of using E2B
+ * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
 
 
 ## NLP
@@ -1653,6 +1654,8 @@ _Updated on January 23, 2025_ (A total of 1968 repositories listed.)
  * [interview-coder](https://github.com/ibttf/interview-coder) - An open-source invisible desktop application to help you pass your technical interviews.
  * [denser-retriever](https://github.com/denser-org/denser-retriever) - An enterprise-grade AI retriever designed to streamline AI integration into your applications, ensuring cutting-edge accuracy.
  * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
+ * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+ * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface.
 
 
 ## Others
