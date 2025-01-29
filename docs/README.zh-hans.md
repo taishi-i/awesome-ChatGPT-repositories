@@ -15,16 +15,16 @@
 
 ## The latest additions 🎉
 
-**Tutorials**
- * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js示例应用程序来自OpenAI API快速入门教程
+**NLP**
+ * [CodeGen](https://github.com/salesforce/codegen) - CodeGen是一个用于程序合成的开源模型系列。在TPU-v4上进行训练。与OpenAI Codex具有竞争力。
 
 
 **Openai**
- * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR代理（Qodo Merge开源）：一款AI驱动的🤖自动拉取请求分析工具，提供反馈、建议等功能！💻🔍
- * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat，您自己的统一聊天和搜索AI平台，具有简单易用的界面。
+ * [mindforger](https://github.com/dvorka/mindforger) - 思维笔记本和Markdown编辑器。
+ * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 这是一个简单的演示，展示了在实时API之上构建的更高级的代理模式。
 
 
-_Updated on January 27, 2025_ (A total of 1971 repositories listed.)
+_Updated on January 30, 2025_ (A total of 1974 repositories listed.)
 
 ## Table of contents
 
@@ -1289,6 +1289,7 @@ _Updated on January 27, 2025_ (A total of 1971 repositories listed.)
  * [Director](https://github.com/video-db/director) - 下一代视频互动和工作流的AI视频代理框架。
  * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
  * [prism](https://github.com/echolabsdev/prism) - Laravel中用于处理LLMs的统一接口
+ * [CodeGen](https://github.com/salesforce/codegen) - CodeGen是一个用于程序合成的开源模型系列。在TPU-v4上进行训练。与OpenAI Codex具有竞争力。
 
 
 ## Langchain
@@ -1656,6 +1657,8 @@ _Updated on January 27, 2025_ (A total of 1971 repositories listed.)
  * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - 用于YouTube短视频/ TikTok频道自动化的实验性人工智能框架
  * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR代理（Qodo Merge开源）：一款AI驱动的🤖自动拉取请求分析工具，提供反馈、建议等功能！💻🔍
  * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat，您自己的统一聊天和搜索AI平台，具有简单易用的界面。
+ * [mindforger](https://github.com/dvorka/mindforger) - 思维笔记本和Markdown编辑器。
+ * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 这是一个简单的演示，展示了在实时API之上构建的更高级的代理模式。
 
 
 ## Others

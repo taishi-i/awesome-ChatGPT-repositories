@@ -28350,6 +28350,27 @@
                     "zh-hans": "Laravel中用于处理LLMs的统一接口",
                     "zh-hant": "在Laravel中使用LLM的統一界面"
                 }
+            },
+            "https://github.com/salesforce/codegen": {
+                "repository_name": "CodeGen",
+                "user_name": "salesforce",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+                "topics": [
+                    "codex",
+                    "generativemodel",
+                    "languagemodel",
+                    "llm",
+                    "programsynthesis",
+                    "tpu-acceleration"
+                ],
+                "multilingual_descriptions": {
+                    "en": "CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+                    "ja": "CodeGenはプログラム合成のためのオープンソースモデルファミリーです。TPU-v4でトレーニングされています。OpenAI Codexと競合しています。",
+                    "zh-hans": "CodeGen是一个用于程序合成的开源模型系列。在TPU-v4上进行训练。与OpenAI Codex具有竞争力。",
+                    "zh-hant": "CodeGen 是一個用於程式合成的開源模型系列。在 TPU-v4 上進行訓練。與 OpenAI Codex 競爭。"
+                }
             }
         },
         "Langchain": {
@@ -36373,6 +36394,53 @@
                     "ja": "Chat Chat、シンプルで使いやすいインターフェースを備えたAIプラットフォームに統合されたチャットと検索。Chat Chat、あなた自身の統合されたチャットと検索をAIプラットフォームで、シンプルで使いやすいインターフェースで提供します。",
                     "zh-hans": "Chat Chat，您自己的统一聊天和搜索AI平台，具有简单易用的界面。",
                     "zh-hant": "聊天聊天，您自己的統一聊天和搜索AI平台，具有簡單易用的界面。"
+                }
+            },
+            "https://github.com/dvorka/mindforger": {
+                "repository_name": "mindforger",
+                "user_name": "dvorka",
+                "language": "C++",
+                "license": "GNU General Public License v2.0",
+                "description": "Thinking notebook and Markdown editor.",
+                "topics": [
+                    "debian",
+                    "ide",
+                    "knowledge",
+                    "knowledge-management",
+                    "linux",
+                    "macos",
+                    "markdown",
+                    "markdown-editor",
+                    "markdown-ide",
+                    "notebook",
+                    "openai",
+                    "outliner",
+                    "qt",
+                    "research",
+                    "study",
+                    "tarball",
+                    "ubuntu",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Thinking notebook and Markdown editor.",
+                    "ja": "考えるノートブックとMarkdownエディタ。",
+                    "zh-hans": "思维笔记本和Markdown编辑器。",
+                    "zh-hant": "思考筆記本和Markdown編輯器。"
+                }
+            },
+            "https://github.com/openai/openai-realtime-agents": {
+                "repository_name": "openai-realtime-agents",
+                "user_name": "openai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
+                    "ja": "これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。",
+                    "zh-hans": "这是一个简单的演示，展示了在实时API之上构建的更高级的代理模式。",
+                    "zh-hant": "這是建立在即時API之上的更高級、主動性模式的簡單演示。"
                 }
             }
         },

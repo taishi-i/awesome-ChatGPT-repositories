@@ -15,16 +15,16 @@
 
 ## The latest additions 🎉
 
-**Tutorials**
- * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - OpenAI APIクイックスタートチュートリアルからのNode.jsのサンプルアプリ
+**NLP**
+ * [CodeGen](https://github.com/salesforce/codegen) - CodeGenはプログラム合成のためのオープンソースモデルファミリーです。TPU-v4でトレーニングされています。OpenAI Codexと競合しています。
 
 
 **Openai**
- * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PRエージェント（Qodo Mergeオープンソース）：自動プルリクエスト分析、フィードバック、提案などを行うAIパワード🤖ツール！💻🔍
- * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat、シンプルで使いやすいインターフェースを備えたAIプラットフォームに統合されたチャットと検索。Chat Chat、あなた自身の統合されたチャットと検索をAIプラットフォームで、シンプルで使いやすいインターフェースで提供します。
+ * [mindforger](https://github.com/dvorka/mindforger) - 考えるノートブックとMarkdownエディタ。
+ * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。
 
 
-_Updated on January 27, 2025_ (A total of 1971 repositories listed.)
+_Updated on January 30, 2025_ (A total of 1974 repositories listed.)
 
 ## Table of contents
 
@@ -1289,6 +1289,7 @@ _Updated on January 27, 2025_ (A total of 1971 repositories listed.)
  * [Director](https://github.com/video-db/director) - 次世代のビデオインタラクションとワークフローのためのAIビデオエージェントフレームワーク。
  * [Bob](https://github.com/ripperhe/bob) - Bobは、macOSプラットフォーム向けの翻訳およびOCRソフトウェアです。
  * [prism](https://github.com/echolabsdev/prism) - LaravelでLLMを操作するための統一されたインターフェース
+ * [CodeGen](https://github.com/salesforce/codegen) - CodeGenはプログラム合成のためのオープンソースモデルファミリーです。TPU-v4でトレーニングされています。OpenAI Codexと競合しています。
 
 
 ## Langchain
@@ -1656,6 +1657,8 @@ _Updated on January 27, 2025_ (A total of 1971 repositories listed.)
  * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - YouTubeショートやTikTokチャンネルの自動化のための実験的なAIフレームワーク
  * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PRエージェント（Qodo Mergeオープンソース）：自動プルリクエスト分析、フィードバック、提案などを行うAIパワード🤖ツール！💻🔍
  * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat、シンプルで使いやすいインターフェースを備えたAIプラットフォームに統合されたチャットと検索。Chat Chat、あなた自身の統合されたチャットと検索をAIプラットフォームで、シンプルで使いやすいインターフェースで提供します。
+ * [mindforger](https://github.com/dvorka/mindforger) - 考えるノートブックとMarkdownエディタ。
+ * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。
 
 
 ## Others

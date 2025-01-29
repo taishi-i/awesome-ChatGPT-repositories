@@ -15,16 +15,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Tutorials**
- * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
+**NLP**
+ * [CodeGen](https://github.com/salesforce/codegen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 
 
 **Openai**
- * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
- * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface.
+ * [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+ * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 
 
-_Updated on January 27, 2025_ (A total of 1971 repositories listed.)
+_Updated on January 30, 2025_ (A total of 1974 repositories listed.)
 
 ## Table of contents
 
@@ -1289,6 +1289,7 @@ _Updated on January 27, 2025_ (A total of 1971 repositories listed.)
  * [Director](https://github.com/video-db/director) - AI video agents framework for next-gen video interactions and workflows.
  * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
  * [prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
+ * [CodeGen](https://github.com/salesforce/codegen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 
 
 ## Langchain
@@ -1656,6 +1657,8 @@ _Updated on January 27, 2025_ (A total of 1971 repositories listed.)
  * [ShortGPT](https://github.com/rayventura/shortgpt) - 🚀🎬 ShortGPT - Experimental AI framework for youtube shorts / tiktok channel automation
  * [pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
  * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface.
+ * [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
+ * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 
 
 ## Others
