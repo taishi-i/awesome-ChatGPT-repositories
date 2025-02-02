@@ -15,16 +15,20 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 自然言語理解と人工知能を備えたPythonチャットボットフレームワーク。
+
+
+**Browser-extensions**
+ * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。
+
+
 **NLP**
- * [CodeGen](https://github.com/salesforce/codegen) - CodeGenはプログラム合成のためのオープンソースモデルファミリーです。TPU-v4でトレーニングされています。OpenAI Codexと競合しています。
+ * [parlant](https://github.com/emcie-co/parlant) - 顧客対応LLMエージェント向けの重要なガイダンスフレームワーク
+ * [nerve](https://github.com/dreadnode/nerve) - コードを書かずにLLMエージェントを作成します。
 
 
-**Openai**
- * [mindforger](https://github.com/dvorka/mindforger) - 考えるノートブックとMarkdownエディタ。
- * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。
-
-
-_Updated on January 30, 2025_ (A total of 1974 repositories listed.)
+_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
 
 ## Table of contents
 
@@ -570,6 +574,7 @@ _Updated on January 30, 2025_ (A total of 1974 repositories listed.)
  * [denser-chat](https://github.com/denser-org/denser-chat) - PDFファイルとソースのハイライト付きでチャットする
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - 私たちは一切の暗号プロジェクトを持っておらず、持つ予定もありません。それらは完全な詐欺です。| デジタルワーカーや垂直AIエージェント向けのタスク指向型AIエージェントフレームワーク
+ * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 自然言語理解と人工知能を備えたPythonチャットボットフレームワーク。
 
 
 ## Browser-extensions
@@ -780,6 +785,7 @@ _Updated on January 30, 2025_ (A total of 1974 repositories listed.)
  * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。一括で無料であなたの個人AutoGPTウェブアプリを展開します。
  * [browser-use](https://github.com/browser-use/browser-use) - AIエージェントにウェブサイトをアクセス可能にする
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！
+ * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。
 
 
 ## CLIs
@@ -1290,6 +1296,8 @@ _Updated on January 30, 2025_ (A total of 1974 repositories listed.)
  * [Bob](https://github.com/ripperhe/bob) - Bobは、macOSプラットフォーム向けの翻訳およびOCRソフトウェアです。
  * [prism](https://github.com/echolabsdev/prism) - LaravelでLLMを操作するための統一されたインターフェース
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGenはプログラム合成のためのオープンソースモデルファミリーです。TPU-v4でトレーニングされています。OpenAI Codexと競合しています。
+ * [parlant](https://github.com/emcie-co/parlant) - 顧客対応LLMエージェント向けの重要なガイダンスフレームワーク
+ * [nerve](https://github.com/dreadnode/nerve) - コードを書かずにLLMエージェントを作成します。
 
 
 ## Langchain

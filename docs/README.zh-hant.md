@@ -15,16 +15,20 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 一個具有自然語言理解和人工智慧功能的Python聊天機器人框架。
+
+
+**Browser-extensions**
+ * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk 旨在通過自動化求職流程來簡化求職過程。利用人工智能，它使用戶可以以定制的方式申請多個工作。
+
+
 **NLP**
- * [CodeGen](https://github.com/salesforce/codegen) - CodeGen 是一個用於程式合成的開源模型系列。在 TPU-v4 上進行訓練。與 OpenAI Codex 競爭。
+ * [parlant](https://github.com/emcie-co/parlant) - 面向客戶的LLM代理人的重型指導框架
+ * [nerve](https://github.com/dreadnode/nerve) - 無需編寫代碼即可創建LLM代理。
 
 
-**Openai**
- * [mindforger](https://github.com/dvorka/mindforger) - 思考筆記本和Markdown編輯器。
- * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 這是建立在即時API之上的更高級、主動性模式的簡單演示。
-
-
-_Updated on January 30, 2025_ (A total of 1974 repositories listed.)
+_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
 
 ## Table of contents
 
@@ -570,6 +574,7 @@ _Updated on January 30, 2025_ (A total of 1974 repositories listed.)
  * [denser-chat](https://github.com/denser-org/denser-chat) - 與帶有來源突顯的PDF文件進行聊天
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - 我們絕對不會有任何加密項目，它們都是完全的騙局 | 面向任務的人工智能代理框架，用於數字工作者和垂直人工智能代理
+ * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 一個具有自然語言理解和人工智慧功能的Python聊天機器人框架。
 
 
 ## Browser-extensions
@@ -780,6 +785,7 @@ _Updated on January 30, 2025_ (A total of 1974 repositories listed.)
  * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 在您的浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
  * [browser-use](https://github.com/browser-use/browser-use) - 使網站對AI代理人可訪問
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - 一個黑曜石插件，可與您注重隱私的AI助手互動，使您的第二大腦更加智能！
+ * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk 旨在通過自動化求職流程來簡化求職過程。利用人工智能，它使用戶可以以定制的方式申請多個工作。
 
 
 ## CLIs
@@ -1290,6 +1296,8 @@ _Updated on January 30, 2025_ (A total of 1974 repositories listed.)
  * [Bob](https://github.com/ripperhe/bob) - Bob 是一款 macOS 平台的翻譯和 OCR 軟件。
  * [prism](https://github.com/echolabsdev/prism) - 在Laravel中使用LLM的統一界面
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGen 是一個用於程式合成的開源模型系列。在 TPU-v4 上進行訓練。與 OpenAI Codex 競爭。
+ * [parlant](https://github.com/emcie-co/parlant) - 面向客戶的LLM代理人的重型指導框架
+ * [nerve](https://github.com/dreadnode/nerve) - 無需編寫代碼即可創建LLM代理。
 
 
 ## Langchain
