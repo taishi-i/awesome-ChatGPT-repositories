@@ -15,16 +15,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
+
+
+**Browser-extensions**
+ * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+
+
 **NLP**
- * [CodeGen](https://github.com/salesforce/codegen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+ * [parlant](https://github.com/emcie-co/parlant) - The heavy-duty guidance framework for customer-facing LLM agents
+ * [nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
 
 
-**Openai**
- * [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
- * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
-
-
-_Updated on January 30, 2025_ (A total of 1974 repositories listed.)
+_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
 
 ## Table of contents
 
@@ -570,6 +574,7 @@ _Updated on January 30, 2025_ (A total of 1974 repositories listed.)
  * [denser-chat](https://github.com/denser-org/denser-chat) - Chat with PDF files with source highlights
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
+ * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
 
 
 ## Browser-extensions
@@ -780,6 +785,7 @@ _Updated on January 30, 2025_ (A total of 1974 repositories listed.)
  * [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
  * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
+ * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 
 
 ## CLIs
@@ -1290,6 +1296,8 @@ _Updated on January 30, 2025_ (A total of 1974 repositories listed.)
  * [Bob](https://github.com/ripperhe/bob) - Bob is a translation and OCR software for macOS platform.
  * [prism](https://github.com/echolabsdev/prism) - A unified interface for working with LLMs in Laravel
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+ * [parlant](https://github.com/emcie-co/parlant) - The heavy-duty guidance framework for customer-facing LLM agents
+ * [nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
 
 
 ## Langchain

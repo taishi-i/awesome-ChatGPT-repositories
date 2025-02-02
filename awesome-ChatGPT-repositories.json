@@ -12641,6 +12641,34 @@
                     "zh-hans": "我们没有任何加密项目，也不会有任何加密项目，它们都是彻头彻尾的骗局 | 面向任务的AI代理框架，用于数字工作者和垂直AI代理",
                     "zh-hant": "我們絕對不會有任何加密項目，它們都是完全的騙局 | 面向任務的人工智能代理框架，用於數字工作者和垂直人工智能代理"
                 }
+            },
+            "https://github.com/alfredfrancis/ai-chatbot-framework": {
+                "repository_name": "ai-chatbot-framework",
+                "user_name": "alfredfrancis",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
+                "topics": [
+                    "ai-chatbot",
+                    "ai-chatbot-framework",
+                    "chatbot",
+                    "conversational-ai",
+                    "deepseek",
+                    "hacktoberfest",
+                    "help-wanted",
+                    "langchain",
+                    "llm",
+                    "nextjs",
+                    "openai",
+                    "python",
+                    "tool-calling"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A python chatbot framework with Natural Language Understanding and Artificial Intelligence.",
+                    "ja": "自然言語理解と人工知能を備えたPythonチャットボットフレームワーク。",
+                    "zh-hans": "一个具有自然语言理解和人工智能的Python聊天机器人框架。",
+                    "zh-hant": "一個具有自然語言理解和人工智慧功能的Python聊天機器人框架。"
+                }
             }
         },
         "Browser-extensions": {
@@ -17381,6 +17409,41 @@
                     "ja": "プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！",
                     "zh-hans": "一个黑曜石插件，用于与您注重隐私的AI助手互动，使您的第二大脑变得更加智能！",
                     "zh-hant": "一個黑曜石插件，可與您注重隱私的AI助手互動，使您的第二大腦更加智能！"
+                }
+            },
+            "https://github.com/feder-cr/jobs_applier_ai_agent_aihawk": {
+                "repository_name": "Jobs_Applier_AI_Agent_AIHawk",
+                "user_name": "feder-cr",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.",
+                "topics": [
+                    "agent",
+                    "application-resume",
+                    "artificial-intelligence",
+                    "automate",
+                    "automation",
+                    "bot",
+                    "chatgpt",
+                    "chrome",
+                    "gpt",
+                    "human-resources",
+                    "job",
+                    "jobs",
+                    "jobsearch",
+                    "jobseeker",
+                    "opeai",
+                    "python",
+                    "resume",
+                    "scraper",
+                    "scraping",
+                    "selenium"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.",
+                    "ja": "Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。",
+                    "zh-hans": "Jobs_Applier_AI_Agent_AIHawk旨在通过自动化求职流程来简化求职过程。利用人工智能，它使用户能够以个性化的方式申请多个工作。",
+                    "zh-hant": "Jobs_Applier_AI_Agent_AIHawk 旨在通過自動化求職流程來簡化求職過程。利用人工智能，它使用戶可以以定制的方式申請多個工作。"
                 }
             }
         },
@@ -28370,6 +28433,54 @@
                     "ja": "CodeGenはプログラム合成のためのオープンソースモデルファミリーです。TPU-v4でトレーニングされています。OpenAI Codexと競合しています。",
                     "zh-hans": "CodeGen是一个用于程序合成的开源模型系列。在TPU-v4上进行训练。与OpenAI Codex具有竞争力。",
                     "zh-hant": "CodeGen 是一個用於程式合成的開源模型系列。在 TPU-v4 上進行訓練。與 OpenAI Codex 競爭。"
+                }
+            },
+            "https://github.com/emcie-co/parlant": {
+                "repository_name": "parlant",
+                "user_name": "emcie-co",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "The heavy-duty guidance framework for customer-facing LLM agents ",
+                "topics": [
+                    "ai-agents",
+                    "ai-alignment",
+                    "customer-service",
+                    "customer-success",
+                    "gemini",
+                    "genai",
+                    "llama3",
+                    "llm",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The heavy-duty guidance framework for customer-facing LLM agents",
+                    "ja": "顧客対応LLMエージェント向けの重要なガイダンスフレームワーク",
+                    "zh-hans": "面向客户的LLM代理的重型指导框架",
+                    "zh-hant": "面向客戶的LLM代理人的重型指導框架"
+                }
+            },
+            "https://github.com/dreadnode/nerve": {
+                "repository_name": "nerve",
+                "user_name": "dreadnode",
+                "language": "Rust",
+                "license": "Other",
+                "description": "Create LLM agents without writing code.",
+                "topics": [
+                    "agent-based-modeling",
+                    "agents",
+                    "ai",
+                    "groq",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "stateful-llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Create LLM agents without writing code.",
+                    "ja": "コードを書かずにLLMエージェントを作成します。",
+                    "zh-hans": "无需编写代码即可创建LLM代理。",
+                    "zh-hant": "無需編寫代碼即可創建LLM代理。"
                 }
             }
         },
