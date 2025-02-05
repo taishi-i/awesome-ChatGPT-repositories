@@ -5590,6 +5590,41 @@
                     "zh-hans": "用于微调LLM模型、合成数据生成和数据集协作的最简单工具。",
                     "zh-hant": "微調LLM模型、合成數據生成和協作數據集的最簡單工具。"
                 }
+            },
+            "https://github.com/embeddedllm/jamaibase": {
+                "repository_name": "JamAIBase",
+                "user_name": "EmbeddedLLM",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "ai-agents-framework",
+                    "baas",
+                    "backend-as-a-service",
+                    "chatbot",
+                    "chatgpt",
+                    "intelligent-spreadsheet",
+                    "lancedb",
+                    "llama3-1",
+                    "llm",
+                    "llm-ops",
+                    "orchestration",
+                    "python",
+                    "rag",
+                    "retrieval-augmented-generation",
+                    "serverless",
+                    "spreadsheet",
+                    "svelte",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.",
+                    "ja": "AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。",
+                    "zh-hans": "用于人工智能的协作电子表格。将单元格链接成强大的管道，尝试不同的提示和模型，并实时评估LLM的响应。无缝合作，共同构建和迭代人工智能应用程序。",
+                    "zh-hant": "用於人工智慧的協作試算表。將單元格鏈接成強大的管道，通過提示和模型進行實驗，並即時評估LLM的回應。無縫合作，共同建立和迭代人工智慧應用程序。"
+                }
             }
         },
         "Chatbots": {
@@ -17444,6 +17479,32 @@
                     "ja": "Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。",
                     "zh-hans": "Jobs_Applier_AI_Agent_AIHawk旨在通过自动化求职流程来简化求职过程。利用人工智能，它使用户能够以个性化的方式申请多个工作。",
                     "zh-hant": "Jobs_Applier_AI_Agent_AIHawk 旨在通過自動化求職流程來簡化求職過程。利用人工智能，它使用戶可以以定制的方式申請多個工作。"
+                }
+            },
+            "https://github.com/flexpilot-ai/vscode-extension": {
+                "repository_name": "vscode-extension",
+                "user_name": "flexpilot-ai",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code",
+                "topics": [
+                    "assistant",
+                    "chatgpt",
+                    "copilot",
+                    "copilot-chat",
+                    "cursor",
+                    "developer-tools",
+                    "free",
+                    "llm",
+                    "open-source",
+                    "vscode",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code",
+                    "ja": "Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品",
+                    "zh-hans": "Flexpilot - 开源、本地化和真正的 GitHub Copilot 替代品，适用于 VS Code",
+                    "zh-hant": "Flexpilot - 開源、本地化且真正的 GitHub Copilot 替代方案，適用於 VS Code"
                 }
             }
         },

@@ -15,20 +15,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 一個具有自然語言理解和人工智慧功能的Python聊天機器人框架。
+**Prompts**
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - 用於人工智慧的協作試算表。將單元格鏈接成強大的管道，通過提示和模型進行實驗，並即時評估LLM的回應。無縫合作，共同建立和迭代人工智慧應用程序。
 
 
 **Browser-extensions**
- * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk 旨在通過自動化求職流程來簡化求職過程。利用人工智能，它使用戶可以以定制的方式申請多個工作。
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - 開源、本地化且真正的 GitHub Copilot 替代方案，適用於 VS Code
 
 
-**NLP**
- * [parlant](https://github.com/emcie-co/parlant) - 面向客戶的LLM代理人的重型指導框架
- * [nerve](https://github.com/dreadnode/nerve) - 無需編寫代碼即可創建LLM代理。
-
-
-_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
+_Updated on February 06, 2025_ (A total of 1980 repositories listed.)
 
 ## Table of contents
 
@@ -282,6 +277,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer：提示。生成合成數據。訓練和對齊模型。🤖💤
  * [LangChain](https://github.com/tryagi/langchain) - LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。
  * [Kiln](https://github.com/kiln-ai/kiln) - 微調LLM模型、合成數據生成和協作數據集的最簡單工具。
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - 用於人工智慧的協作試算表。將單元格鏈接成強大的管道，通過提示和模型進行實驗，並即時評估LLM的回應。無縫合作，共同建立和迭代人工智慧應用程序。
 
 
 ## Chatbots
@@ -786,6 +782,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [browser-use](https://github.com/browser-use/browser-use) - 使網站對AI代理人可訪問
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - 一個黑曜石插件，可與您注重隱私的AI助手互動，使您的第二大腦更加智能！
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk 旨在通過自動化求職流程來簡化求職過程。利用人工智能，它使用戶可以以定制的方式申請多個工作。
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - 開源、本地化且真正的 GitHub Copilot 替代方案，適用於 VS Code
 
 
 ## CLIs
