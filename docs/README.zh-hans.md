@@ -15,20 +15,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 一个具有自然语言理解和人工智能的Python聊天机器人框架。
+**Prompts**
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - 用于人工智能的协作电子表格。将单元格链接成强大的管道，尝试不同的提示和模型，并实时评估LLM的响应。无缝合作，共同构建和迭代人工智能应用程序。
 
 
 **Browser-extensions**
- * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk旨在通过自动化求职流程来简化求职过程。利用人工智能，它使用户能够以个性化的方式申请多个工作。
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - 开源、本地化和真正的 GitHub Copilot 替代品，适用于 VS Code
 
 
-**NLP**
- * [parlant](https://github.com/emcie-co/parlant) - 面向客户的LLM代理的重型指导框架
- * [nerve](https://github.com/dreadnode/nerve) - 无需编写代码即可创建LLM代理。
-
-
-_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
+_Updated on February 06, 2025_ (A total of 1980 repositories listed.)
 
 ## Table of contents
 
@@ -282,6 +277,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer：提示。生成合成数据。训练和对齐模型。🤖💤
  * [LangChain](https://github.com/tryagi/langchain) - LangChain的C#实现。我们尽量保持与原始版本的抽象接近，但也愿意接受新的实体。
  * [Kiln](https://github.com/kiln-ai/kiln) - 用于微调LLM模型、合成数据生成和数据集协作的最简单工具。
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - 用于人工智能的协作电子表格。将单元格链接成强大的管道，尝试不同的提示和模型，并实时评估LLM的响应。无缝合作，共同构建和迭代人工智能应用程序。
 
 
 ## Chatbots
@@ -786,6 +782,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [browser-use](https://github.com/browser-use/browser-use) - 为AI代理人使网站可访问
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - 一个黑曜石插件，用于与您注重隐私的AI助手互动，使您的第二大脑变得更加智能！
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk旨在通过自动化求职流程来简化求职过程。利用人工智能，它使用户能够以个性化的方式申请多个工作。
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - 开源、本地化和真正的 GitHub Copilot 替代品，适用于 VS Code
 
 
 ## CLIs

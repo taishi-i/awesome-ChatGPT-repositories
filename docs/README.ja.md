@@ -15,20 +15,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 自然言語理解と人工知能を備えたPythonチャットボットフレームワーク。
+**Prompts**
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。
 
 
 **Browser-extensions**
- * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品
 
 
-**NLP**
- * [parlant](https://github.com/emcie-co/parlant) - 顧客対応LLMエージェント向けの重要なガイダンスフレームワーク
- * [nerve](https://github.com/dreadnode/nerve) - コードを書かずにLLMエージェントを作成します。
-
-
-_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
+_Updated on February 06, 2025_ (A total of 1980 repositories listed.)
 
 ## Table of contents
 
@@ -282,6 +277,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - Input: DataDreamer: プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤Output: データドリーマー：プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤
  * [LangChain](https://github.com/tryagi/langchain) - LangChainのC#実装。抽象化に関して可能な限りオリジナルに近づこうと努めていますが、新しいエンティティにもオープンです。
  * [Kiln](https://github.com/kiln-ai/kiln) - LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。
 
 
 ## Chatbots
@@ -786,6 +782,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [browser-use](https://github.com/browser-use/browser-use) - AIエージェントにウェブサイトをアクセス可能にする
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品
 
 
 ## CLIs

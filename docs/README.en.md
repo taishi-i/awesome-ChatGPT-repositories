@@ -15,20 +15,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
+**Prompts**
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.
 
 
 **Browser-extensions**
- * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 
 
-**NLP**
- * [parlant](https://github.com/emcie-co/parlant) - The heavy-duty guidance framework for customer-facing LLM agents
- * [nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
-
-
-_Updated on February 03, 2025_ (A total of 1978 repositories listed.)
+_Updated on February 06, 2025_ (A total of 1980 repositories listed.)
 
 ## Table of contents
 
@@ -282,6 +277,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - DataDreamer: Prompt. Generate Synthetic Data. Train & Align Models.    🤖💤
  * [LangChain](https://github.com/tryagi/langchain) - C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.
  * [Kiln](https://github.com/kiln-ai/kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
+ * [JamAIBase](https://github.com/embeddedllm/jamaibase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.
 
 
 ## Chatbots
@@ -786,6 +782,7 @@ _Updated on February 03, 2025_ (A total of 1978 repositories listed.)
  * [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
+ * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 
 
 ## CLIs
