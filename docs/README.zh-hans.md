@@ -15,15 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [JamAIBase](https://github.com/embeddedllm/jamaibase) - 用于人工智能的协作电子表格。将单元格链接成强大的管道，尝试不同的提示和模型，并实时评估LLM的响应。无缝合作，共同构建和迭代人工智能应用程序。
+**CLIs**
+ * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - 一个使用Ollama和LM Studio模型（Llava，Gemma，Llama等）的Node.js CLI，可以根据文件内容智能地重命名文件。
 
 
-**Browser-extensions**
- * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - 开源、本地化和真正的 GitHub Copilot 替代品，适用于 VS Code
+**Reimplementations**
+ * [deep-research](https://github.com/dzhng/deep-research) - 我自己开发了一个开源实现OpenAI新的深度研究代理的项目。无需支付200美元，即可获得相同的功能。您甚至可以通过可调节的广度和深度来调整代理的行为。无论是运行5分钟还是5小时，它都会自动调整。
 
 
-_Updated on February 06, 2025_ (A total of 1980 repositories listed.)
+**Langchain**
+ * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或音频生成字幕，并可批量将字幕翻译成其他语言。这是一个客户端工具，跨平台支持mac和windows系统，支持百度、火山、deeplx、openai、deepseek、ollama等多个翻译服务。
+
+
+**Openai**
+ * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 继续搜索，阅读网页，推理直到找到答案（或超出令牌预算）。
+ * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：为FinRL提供动态数据集和市场环境。
+
+
+_Updated on February 10, 2025_ (A total of 1985 repositories listed.)
 
 ## Table of contents
 
@@ -932,6 +941,7 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio 是一个桌面客户端，支持多个LLM提供商。
  * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 支持同时从多个LLM获取答案的Android聊天应用。带上自己的API密钥AI客户端。支持OpenAI、Anthropic、Google和Ollama。采用Material3和Compose设计。
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - 一个非官方的OpenAI Rest客户端，适用于Unity (UPM)
+ * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - 一个使用Ollama和LM Studio模型（Llava，Gemma，Llama等）的Node.js CLI，可以根据文件内容智能地重命名文件。
 
 
 ## Reimplementations
@@ -972,6 +982,7 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAI的Whisper的近乎实时实现。
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - 该存储库提供了各种生成式AI代理技术的教程和实现，从基础到高级。它是构建智能、交互式AI系统的全面指南。
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是基于 LLaMA 的 ChatGPT 的开源实现，可在单个 GPU 上运行。训练速度比 ChatGPT 快 15 倍。
+ * [deep-research](https://github.com/dzhng/deep-research) - 我自己开发了一个开源实现OpenAI新的深度研究代理的项目。无需支付200美元，即可获得相同的功能。您甚至可以通过可调节的广度和深度来调整代理的行为。无论是运行5分钟还是5小时，它都会自动调整。
 
 
 ## Tutorials
@@ -1426,6 +1437,7 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - 生成式人工智能的综合资源，包括详细的路线图、项目、用例、面试准备和编码准备。
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - 使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）的自动文档分析器，可自动分析和标记您的文件。
  * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - 一份全面指南，帮助理解和实施大型语言模型，并使用LangChain进行GenAI应用的实际示例。
+ * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或音频生成字幕，并可批量将字幕翻译成其他语言。这是一个客户端工具，跨平台支持mac和windows系统，支持百度、火山、deeplx、openai、deepseek、ollama等多个翻译服务。
 
 
 ## Unity
@@ -1664,6 +1676,8 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat，您自己的统一聊天和搜索AI平台，具有简单易用的界面。
  * [mindforger](https://github.com/dvorka/mindforger) - 思维笔记本和Markdown编辑器。
  * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 这是一个简单的演示，展示了在实时API之上构建的更高级的代理模式。
+ * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 继续搜索，阅读网页，推理直到找到答案（或超出令牌预算）。
+ * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：为FinRL提供动态数据集和市场环境。
 
 
 ## Others

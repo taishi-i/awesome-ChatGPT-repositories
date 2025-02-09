@@ -15,15 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [JamAIBase](https://github.com/embeddedllm/jamaibase) - AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。
+**CLIs**
+ * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI
 
 
-**Browser-extensions**
- * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品
+**Reimplementations**
+ * [deep-research](https://github.com/dzhng/deep-research) - 私自身のオープンソース実装は、OpenAIの新しいDeep Researchエージェントです。200ドル支払わずに同じ機能を手に入れることができます。さらに、エージェントの振る舞いを調整可能な幅と深さで調整することさえできます。5分間でも5時間でも実行し、自動調整されます。
 
 
-_Updated on February 06, 2025_ (A total of 1980 repositories listed.)
+**Langchain**
+ * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。
+
+
+**Openai**
+ * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）
+ * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。
+
+
+_Updated on February 10, 2025_ (A total of 1985 repositories listed.)
 
 ## Table of contents
 
@@ -932,6 +941,7 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
  * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 複数のLLMからの回答を一度にサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポート。Material3＆Composeで設計されています。
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - Unity向けの非公式OpenAI Restクライアント（UPM）
+ * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI
 
 
 ## Reimplementations
@@ -972,6 +982,7 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [WhisperLive](https://github.com/collabora/whisperlive) - OpenAIのWhisperのほぼライブ実装。
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - このリポジトリは、基本から高度なまでさまざまな生成AIエージェント技術のチュートリアルと実装を提供しています。知的でインタラクティブなAIシステムを構築するための包括的なガイドとして機能します。
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。
+ * [deep-research](https://github.com/dzhng/deep-research) - 私自身のオープンソース実装は、OpenAIの新しいDeep Researchエージェントです。200ドル支払わずに同じ機能を手に入れることができます。さらに、エージェントの振る舞いを調整可能な幅と深さで調整することさえできます。5分間でも5時間でも実行し、自動調整されます。
 
 
 ## Tutorials
@@ -1426,6 +1437,7 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - ジェネレーティブAIに関する包括的なリソース、詳細なロードマップ、プロジェクト、ユースケース、インタビュー準備、コーディング準備などを提供しています。
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。
  * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - LangChainを使用したGenAIアプリケーションのための大規模言語モデルの理解と実装に関する包括的なガイドと、実践的な例を紹介します。
+ * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。
 
 
 ## Unity
@@ -1664,6 +1676,8 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat、シンプルで使いやすいインターフェースを備えたAIプラットフォームに統合されたチャットと検索。Chat Chat、あなた自身の統合されたチャットと検索をAIプラットフォームで、シンプルで使いやすいインターフェースで提供します。
  * [mindforger](https://github.com/dvorka/mindforger) - 考えるノートブックとMarkdownエディタ。
  * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。
+ * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）
+ * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。
 
 
 ## Others

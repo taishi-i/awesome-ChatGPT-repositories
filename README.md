@@ -15,15 +15,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [JamAIBase](https://github.com/embeddedllm/jamaibase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.
+**CLIs**
+ * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 
 
-**Browser-extensions**
- * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
+**Reimplementations**
+ * [deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.
 
 
-_Updated on February 06, 2025_ (A total of 1980 repositories listed.)
+**Langchain**
+ * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
+
+
+**Openai**
+ * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
+ * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL­-Meta: Dynamic datasets and market environments for FinRL.
+
+
+_Updated on February 10, 2025_ (A total of 1985 repositories listed.)
 
 ## Table of contents
 
@@ -932,6 +941,7 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [cherry-studio](https://github.com/cherryhq/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
  * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - A Non-Official OpenAI Rest Client for Unity (UPM)
+ * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 
 
 ## Reimplementations
@@ -972,6 +982,7 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [WhisperLive](https://github.com/collabora/whisperlive) - A nearly-live implementation of OpenAI's Whisper.
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
+ * [deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.
 
 
 ## Tutorials
@@ -1426,6 +1437,7 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [generative-ai](https://github.com/genieincodebottle/generative-ai) - Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and coding preparation.
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.
  * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.
+ * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
 
 
 ## Unity
@@ -1664,6 +1676,8 @@ _Updated on February 06, 2025_ (A total of 1980 repositories listed.)
  * [ChatChat](https://github.com/okisdev/chatchat) - Chat Chat, your own unified chat and search to AI platform, with a simple and easy to use interface.
  * [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
  * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
+ * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
+ * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL­-Meta: Dynamic datasets and market environments for FinRL.
 
 
 ## Others
