@@ -20875,6 +20875,34 @@
                     "zh-hans": "一个非官方的OpenAI Rest客户端，适用于Unity (UPM)",
                     "zh-hant": "一個非官方的OpenAI Rest客戶端，適用於Unity (UPM)"
                 }
+            },
+            "https://github.com/ozgrozer/ai-renamer": {
+                "repository_name": "ai-renamer",
+                "user_name": "ozgrozer",
+                "language": "JavaScript",
+                "license": "GNU General Public License v3.0",
+                "description": "A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents",
+                "topics": [
+                    "ai",
+                    "automation",
+                    "cli-tool",
+                    "file-management",
+                    "file-renamer",
+                    "files",
+                    "image-renamer",
+                    "llama3",
+                    "lm-studio",
+                    "machine-learning",
+                    "ollama",
+                    "openai",
+                    "video-renamer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents",
+                    "ja": "OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI",
+                    "zh-hans": "一个使用Ollama和LM Studio模型（Llava，Gemma，Llama等）的Node.js CLI，可以根据文件内容智能地重命名文件。",
+                    "zh-hant": "一個使用Ollama和LM Studio模型（Llava、Gemma、Llama等）的Node.js CLI，可以根據文件內容智能地重新命名文件。"
+                }
             }
         },
         "Reimplementations": {
@@ -21619,6 +21647,26 @@
                     "ja": "ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。",
                     "zh-hans": "ChatLLaMA 📢 是基于 LLaMA 的 ChatGPT 的开源实现，可在单个 GPU 上运行。训练速度比 ChatGPT 快 15 倍。",
                     "zh-hant": "ChatLLaMA 📢 是一個基於 LLaMA 的開源實現，可在單個 GPU 上運行的 ChatGPT。訓練過程比 ChatGPT 快 15 倍。"
+                }
+            },
+            "https://github.com/dzhng/deep-research": {
+                "repository_name": "deep-research",
+                "user_name": "dzhng",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "gpt",
+                    "o3-mini",
+                    "research"
+                ],
+                "multilingual_descriptions": {
+                    "en": "My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.",
+                    "ja": "私自身のオープンソース実装は、OpenAIの新しいDeep Researchエージェントです。200ドル支払わずに同じ機能を手に入れることができます。さらに、エージェントの振る舞いを調整可能な幅と深さで調整することさえできます。5分間でも5時間でも実行し、自動調整されます。",
+                    "zh-hans": "我自己开发了一个开源实现OpenAI新的深度研究代理的项目。无需支付200美元，即可获得相同的功能。您甚至可以通过可调节的广度和深度来调整代理的行为。无论是运行5分钟还是5小时，它都会自动调整。",
+                    "zh-hant": "我自己的開源實現OpenAI新的Deep Research代理。無需支付200美元即可獲得相同的功能。您甚至可以通過可調節的廣度和深度來調整代理的行為。運行5分鐘或5小時，它將自動調整。"
                 }
             }
         },
@@ -31589,6 +31637,30 @@
                     "zh-hans": "一份全面指南，帮助理解和实施大型语言模型，并使用LangChain进行GenAI应用的实际示例。",
                     "zh-hant": "一個全面的指南，以實際示例使用LangChain來理解和實施大型語言模型，適用於GenAI應用程式。"
                 }
+            },
+            "https://github.com/buxuku/video-subtitle-master": {
+                "repository_name": "video-subtitle-master",
+                "user_name": "buxuku",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务",
+                "topics": [
+                    "deepseek",
+                    "electron",
+                    "nodejs",
+                    "ollama",
+                    "openai",
+                    "subtitle",
+                    "translate",
+                    "whisper",
+                    "whisper-cpp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Batch generate subtitles for videos or audios, and batch translate subtitles into other languages. This is a client tool that supports both Mac and Windows systems, and supports multiple translation services such as Baidu, Huoshan, Deeplx, OpenAI, Deepseek, Ollama, etc.",
+                    "ja": "ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。",
+                    "zh-hans": "批量为视频或音频生成字幕，并可批量将字幕翻译成其他语言。这是一个客户端工具，跨平台支持mac和windows系统，支持百度、火山、deeplx、openai、deepseek、ollama等多个翻译服务。",
+                    "zh-hant": "批量為視頻或者音頻生成字幕，並可批量將字幕翻譯成其他語言。這是一個客戶端工具，跨平台支持 mac 和 windows 系統，支持百度，火山，deeplx, openai, deepseek, ollama 等多個翻譯服務。"
+                }
             }
         },
         "Unity": {
@@ -36613,6 +36685,49 @@
                     "ja": "これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。",
                     "zh-hans": "这是一个简单的演示，展示了在实时API之上构建的更高级的代理模式。",
                     "zh-hant": "這是建立在即時API之上的更高級、主動性模式的簡單演示。"
+                }
+            },
+            "https://github.com/jina-ai/node-deepresearch": {
+                "repository_name": "node-DeepResearch",
+                "user_name": "jina-ai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)",
+                "topics": [
+                    "deepseek-r1",
+                    "gemini",
+                    "lmstudio",
+                    "ollama",
+                    "openai",
+                    "vercel-ai-sdk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)",
+                    "ja": "答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）",
+                    "zh-hans": "继续搜索，阅读网页，推理直到找到答案（或超出令牌预算）。",
+                    "zh-hant": "持續搜索、閱讀網頁、推理直到找到答案（或超出令牌預算）"
+                }
+            },
+            "https://github.com/ai4finance-foundation/finrl-meta": {
+                "repository_name": "FinRL-Meta",
+                "user_name": "AI4Finance-Foundation",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "FinRL­-Meta: Dynamic datasets and market environments for FinRL.",
+                "topics": [
+                    "deep-reinforcement-learning",
+                    "drl-trading-agents",
+                    "finance",
+                    "finrl-library",
+                    "fintech",
+                    "openai",
+                    "openai-gym-environments"
+                ],
+                "multilingual_descriptions": {
+                    "en": "FinRL-Meta: Dynamic datasets and market environments for FinRL.",
+                    "ja": "FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。",
+                    "zh-hans": "FinRL-Meta：为FinRL提供动态数据集和市场环境。",
+                    "zh-hant": "FinRL-Meta：FinRL的動態數據集和市場環境。"
                 }
             }
         },
