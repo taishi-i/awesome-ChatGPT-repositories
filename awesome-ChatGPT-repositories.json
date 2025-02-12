@@ -36729,6 +36729,33 @@
                     "zh-hans": "FinRL-Meta：为FinRL提供动态数据集和市场环境。",
                     "zh-hant": "FinRL-Meta：FinRL的動態數據集和市場環境。"
                 }
+            },
+            "https://github.com/codexu/note-gen": {
+                "repository_name": "note-gen",
+                "user_name": "codexu",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "一款专注于记录和写作的跨端 AI 笔记",
+                "topics": [
+                    "ai",
+                    "app",
+                    "chatgpt",
+                    "markdown",
+                    "nextjs",
+                    "notes",
+                    "ocr",
+                    "openai",
+                    "rust",
+                    "shadcn-ui",
+                    "tailwindcss",
+                    "tauri"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A cross-platform AI note-taking app focused on recording and writing.",
+                    "ja": "記録と執筆に特化したクロスプラットフォームAIノート",
+                    "zh-hans": "一款专注于记录和写作的跨端 AI 笔记",
+                    "zh-hant": "一款專注於記錄和寫作的跨平台 AI 筆記"
+                }
             }
         },
         "Others": {
@@ -44537,6 +44564,24 @@
                     "ja": "Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。",
                     "zh-hans": "Gen-AI团队聊天-如果它能访问您团队的独特知识，就像ChatGPT一样。",
                     "zh-hant": "Gen-AI團隊聊天-如果它可以訪問您團隊的獨特知識，就像ChatGPT一樣。"
+                }
+            },
+            "https://github.com/jingyaogong/minimind-v": {
+                "repository_name": "minimind-v",
+                "user_name": "jingyaogong",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!",
+                "topics": [
+                    "artificial-intelligence",
+                    "chatgpt",
+                    "vision-language-model"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!",
+                    "ja": "🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！",
+                    "zh-hans": "🚀 在短短3小时内从头开始训练一个拥有27M参数的视觉多模态VLM！🌏",
+                    "zh-hant": "🚀 在短短3小时内从零开始训练一个拥有27M参数的视觉多模态VLM！🌏"
                 }
             }
         }

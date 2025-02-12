@@ -15,24 +15,15 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - 一个使用Ollama和LM Studio模型（Llava，Gemma，Llama等）的Node.js CLI，可以根据文件内容智能地重命名文件。
-
-
-**Reimplementations**
- * [deep-research](https://github.com/dzhng/deep-research) - 我自己开发了一个开源实现OpenAI新的深度研究代理的项目。无需支付200美元，即可获得相同的功能。您甚至可以通过可调节的广度和深度来调整代理的行为。无论是运行5分钟还是5小时，它都会自动调整。
-
-
-**Langchain**
- * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或音频生成字幕，并可批量将字幕翻译成其他语言。这是一个客户端工具，跨平台支持mac和windows系统，支持百度、火山、deeplx、openai、deepseek、ollama等多个翻译服务。
-
-
 **Openai**
- * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 继续搜索，阅读网页，推理直到找到答案（或超出令牌预算）。
- * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：为FinRL提供动态数据集和市场环境。
+ * [note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
 
 
-_Updated on February 10, 2025_ (A total of 1985 repositories listed.)
+**Others**
+ * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 在短短3小时内从头开始训练一个拥有27M参数的视觉多模态VLM！🌏
+
+
+_Updated on February 13, 2025_ (A total of 1987 repositories listed.)
 
 ## Table of contents
 
@@ -1678,6 +1669,7 @@ _Updated on February 10, 2025_ (A total of 1985 repositories listed.)
  * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - 这是一个简单的演示，展示了在实时API之上构建的更高级的代理模式。
  * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 继续搜索，阅读网页，推理直到找到答案（或超出令牌预算）。
  * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：为FinRL提供动态数据集和市场环境。
+ * [note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
 
 
 ## Others
@@ -2092,5 +2084,6 @@ _Updated on February 10, 2025_ (A total of 1985 repositories listed.)
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS 模板 ⚡️ 免费开源 ChatGPT UI 管理仪表板模板 - Horizon AI 模板
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - 在Visual Studio Code中集成CMake
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI团队聊天-如果它能访问您团队的独特知识，就像ChatGPT一样。
+ * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 在短短3小时内从头开始训练一个拥有27M参数的视觉多模态VLM！🌏
 
 
