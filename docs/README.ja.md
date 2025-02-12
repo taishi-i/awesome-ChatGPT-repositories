@@ -15,24 +15,15 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI
-
-
-**Reimplementations**
- * [deep-research](https://github.com/dzhng/deep-research) - 私自身のオープンソース実装は、OpenAIの新しいDeep Researchエージェントです。200ドル支払わずに同じ機能を手に入れることができます。さらに、エージェントの振る舞いを調整可能な幅と深さで調整することさえできます。5分間でも5時間でも実行し、自動調整されます。
-
-
-**Langchain**
- * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。
-
-
 **Openai**
- * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）
- * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。
+ * [note-gen](https://github.com/codexu/note-gen) - 記録と執筆に特化したクロスプラットフォームAIノート
 
 
-_Updated on February 10, 2025_ (A total of 1985 repositories listed.)
+**Others**
+ * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！
+
+
+_Updated on February 13, 2025_ (A total of 1987 repositories listed.)
 
 ## Table of contents
 
@@ -1678,6 +1669,7 @@ _Updated on February 10, 2025_ (A total of 1985 repositories listed.)
  * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。
  * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）
  * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。
+ * [note-gen](https://github.com/codexu/note-gen) - 記録と執筆に特化したクロスプラットフォームAIノート
 
 
 ## Others
@@ -2092,5 +2084,6 @@ _Updated on February 10, 2025_ (A total of 1985 repositories listed.)
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - Visual Studio Code での CMake 統合
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。
+ * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！
 
 

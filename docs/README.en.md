@@ -15,24 +15,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
-
-
-**Reimplementations**
- * [deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.
-
-
-**Langchain**
- * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - Batch generate subtitles for videos or audios, and batch translate subtitles into other languages. This is a client tool that supports both Mac and Windows systems, and supports multiple translation services such as Baidu, Huoshan, Deeplx, OpenAI, Deepseek, Ollama, etc.
-
-
 **Openai**
- * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
- * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta: Dynamic datasets and market environments for FinRL.
+ * [note-gen](https://github.com/codexu/note-gen) - A cross-platform AI note-taking app focused on recording and writing.
 
 
-_Updated on February 10, 2025_ (A total of 1985 repositories listed.)
+**Others**
+ * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!
+
+
+_Updated on February 13, 2025_ (A total of 1987 repositories listed.)
 
 ## Table of contents
 
@@ -1678,6 +1669,7 @@ _Updated on February 10, 2025_ (A total of 1985 repositories listed.)
  * [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
  * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
  * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta: Dynamic datasets and market environments for FinRL.
+ * [note-gen](https://github.com/codexu/note-gen) - A cross-platform AI note-taking app focused on recording and writing.
 
 
 ## Others
@@ -2092,5 +2084,6 @@ _Updated on February 10, 2025_ (A total of 1985 repositories listed.)
  * [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - Shadcn UI NextJS Boilerplate ⚡️ Free Open-source ChatGPT UI Admin Dashboard Template - Horizon AI Boilerplate
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - CMake integration in Visual Studio Code
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+ * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!
 
 
