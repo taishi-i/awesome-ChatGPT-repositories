@@ -15,15 +15,19 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀一些关于大型语言模型(LLM)、视觉语言模型(VLM)、视觉语言行动(VLA)、人工智能生成内容(AIGC)以及相关数据集和应用的精彩公共项目收集。
+
+
 **Openai**
- * [note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
+ * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1和Claude 3.5 Sonnet实现了最佳组合，充分释放了最强模型的力量。支持OpenAI流式输出，并可以在您喜欢的ChatBox上运行！
 
 
 **Others**
- * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 在短短3小时内从头开始训练一个拥有27M参数的视觉多模态VLM！🌏
+ * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端后端同时开源。Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
 
 
-_Updated on February 13, 2025_ (A total of 1987 repositories listed.)
+_Updated on February 17, 2025_ (A total of 1990 repositories listed.)
 
 ## Table of contents
 
@@ -119,6 +123,7 @@ _Updated on February 13, 2025_ (A total of 1987 repositories listed.)
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全球最好的LLM资源总结
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI自主代理的列表
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 一键部署许多Github开源项目，以便快速体验
+ * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀一些关于大型语言模型(LLM)、视觉语言模型(VLM)、视觉语言行动(VLA)、人工智能生成内容(AIGC)以及相关数据集和应用的精彩公共项目收集。
 
 
 ## Prompts
@@ -1670,6 +1675,7 @@ _Updated on February 13, 2025_ (A total of 1987 repositories listed.)
  * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 继续搜索，阅读网页，推理直到找到答案（或超出令牌预算）。
  * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：为FinRL提供动态数据集和市场环境。
  * [note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
+ * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1和Claude 3.5 Sonnet实现了最佳组合，充分释放了最强模型的力量。支持OpenAI流式输出，并可以在您喜欢的ChatBox上运行！
 
 
 ## Others
@@ -2085,5 +2091,6 @@ _Updated on February 13, 2025_ (A total of 1987 repositories listed.)
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - 在Visual Studio Code中集成CMake
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI团队聊天-如果它能访问您团队的独特知识，就像ChatGPT一样。
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 在短短3小时内从头开始训练一个拥有27M参数的视觉多模态VLM！🌏
+ * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端后端同时开源。Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
 
 

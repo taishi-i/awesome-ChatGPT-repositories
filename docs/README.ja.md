@@ -15,15 +15,19 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。
+
+
 **Openai**
- * [note-gen](https://github.com/codexu/note-gen) - 記録と執筆に特化したクロスプラットフォームAIノート
+ * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！
 
 
 **Others**
- * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！
+ * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート
 
 
-_Updated on February 13, 2025_ (A total of 1987 repositories listed.)
+_Updated on February 17, 2025_ (A total of 1990 repositories listed.)
 
 ## Table of contents
 
@@ -119,6 +123,7 @@ _Updated on February 13, 2025_ (A total of 1987 repositories listed.)
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 世界最高のLLMリソースの要約
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI自律エージェントのリスト
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します 一键部署各种Github开源AI项目
+ * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。
 
 
 ## Prompts
@@ -1670,6 +1675,7 @@ _Updated on February 13, 2025_ (A total of 1987 repositories listed.)
  * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - 答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）
  * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。
  * [note-gen](https://github.com/codexu/note-gen) - 記録と執筆に特化したクロスプラットフォームAIノート
+ * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！
 
 
 ## Others
@@ -2085,5 +2091,6 @@ _Updated on February 13, 2025_ (A total of 1987 repositories listed.)
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - Visual Studio Code での CMake 統合
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！
+ * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート
 
 

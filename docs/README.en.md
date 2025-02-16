@@ -15,15 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
+
+
 **Openai**
- * [note-gen](https://github.com/codexu/note-gen) - A cross-platform AI note-taking app focused on recording and writing.
+ * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!
 
 
 **Others**
- * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!
+ * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - Frontend and backend are open source at the same time. Ai-to-pptx is an assistant that uses AI technology (DeepSeek) to create PPTX files, supporting online generation and export of PPTX files. Main functions: 1. Use large language models like DeepSeek to generate outlines. 2. When generating PPTX files, different templates can be selected. 3. Support exporting PPTX files.
 
 
-_Updated on February 13, 2025_ (A total of 1987 repositories listed.)
+_Updated on February 17, 2025_ (A total of 1990 repositories listed.)
 
 ## Table of contents
 
@@ -119,6 +123,7 @@ _Updated on February 13, 2025_ (A total of 1987 repositories listed.)
  * [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - 🧑‍🚀 全世界最好的LLM资料总结 | Summary of the world's best LLM resources.
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+ * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
 
 
 ## Prompts
@@ -1670,6 +1675,7 @@ _Updated on February 13, 2025_ (A total of 1987 repositories listed.)
  * [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - Keep searching, reading webpages, reasoning until it finds the answer (or exceeding the token budget)
  * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta: Dynamic datasets and market environments for FinRL.
  * [note-gen](https://github.com/codexu/note-gen) - A cross-platform AI note-taking app focused on recording and writing.
+ * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!
 
 
 ## Others
@@ -2085,5 +2091,6 @@ _Updated on February 13, 2025_ (A total of 1987 repositories listed.)
  * [TaskWeaver](https://github.com/microsoft/taskweaver) - CMake integration in Visual Studio Code
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!
+ * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - Frontend and backend are open source at the same time. Ai-to-pptx is an assistant that uses AI technology (DeepSeek) to create PPTX files, supporting online generation and export of PPTX files. Main functions: 1. Use large language models like DeepSeek to generate outlines. 2. When generating PPTX files, different templates can be selected. 3. Support exporting PPTX files.
 
 
