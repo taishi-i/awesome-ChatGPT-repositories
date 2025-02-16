@@ -1943,6 +1943,41 @@
                     "zh-hans": "🪄 一键部署许多Github开源项目，以便快速体验",
                     "zh-hant": "🪄 一鍵部署許多github開源項目，以促進快速體驗"
                 }
+            },
+            "https://github.com/coderonion/awesome-llm-and-aigc": {
+                "repository_name": "awesome-llm-and-aigc",
+                "user_name": "coderonion",
+                "language": null,
+                "license": null,
+                "description": "🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.",
+                "topics": [
+                    "aigc",
+                    "awesome-list",
+                    "chatgpt",
+                    "computer-vision",
+                    "cuda",
+                    "datasets",
+                    "deepseek",
+                    "gpt",
+                    "hugging-face",
+                    "langchain",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "openai",
+                    "qwen",
+                    "sora",
+                    "triton",
+                    "vla",
+                    "vlm",
+                    "yolo"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.",
+                    "ja": "🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。",
+                    "zh-hans": "🚀🚀🚀一些关于大型语言模型(LLM)、视觉语言模型(VLM)、视觉语言行动(VLA)、人工智能生成内容(AIGC)以及相关数据集和应用的精彩公共项目收集。",
+                    "zh-hant": "🚀🚀🚀一系列關於大型語言模型（LLM）、視覺語言模型（VLM）、視覺語言行動（VLA）、人工智慧生成內容（AIGC）、相關數據集和應用的精彩公共項目收藏。"
+                }
             }
         },
         "Prompts": {
@@ -36756,6 +36791,20 @@
                     "zh-hans": "一款专注于记录和写作的跨端 AI 笔记",
                     "zh-hant": "一款專注於記錄和寫作的跨平台 AI 筆記"
                 }
+            },
+            "https://github.com/erlichliu/deepclaude": {
+                "repository_name": "DeepClaude",
+                "user_name": "ErlichLiu",
+                "language": "Python",
+                "license": null,
+                "description": "DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!",
+                    "ja": "DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！",
+                    "zh-hans": "DeepSeek r1和Claude 3.5 Sonnet实现了最佳组合，充分释放了最强模型的力量。支持OpenAI流式输出，并可以在您喜欢的ChatBox上运行！",
+                    "zh-hant": "DeepSeek r1和Claude 3.5 Sonnet實現了最佳組合，充分發揮了最強模型的力量。支持OpenAI流式輸出，並可在您喜愛的ChatBox上運行！"
+                }
             }
         },
         "Others": {
@@ -44582,6 +44631,30 @@
                     "ja": "🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！",
                     "zh-hans": "🚀 在短短3小时内从头开始训练一个拥有27M参数的视觉多模态VLM！🌏",
                     "zh-hant": "🚀 在短短3小时内从零开始训练一个拥有27M参数的视觉多模态VLM！🌏"
+                }
+            },
+            "https://github.com/smartschoolai/ai-to-pptx": {
+                "repository_name": "ai-to-pptx",
+                "user_name": "SmartSchoolAI",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX",
+                "topics": [
+                    "ai-to-pptx",
+                    "aippt",
+                    "chatgpt",
+                    "chatgpt-pptx",
+                    "chatgpt-to-",
+                    "chatgpt-to-pptx",
+                    "pptx",
+                    "slides",
+                    "vueppt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Frontend and backend are open source at the same time. Ai-to-pptx is an assistant that uses AI technology (DeepSeek) to create PPTX files, supporting online generation and export of PPTX files. Main functions: 1. Use large language models like DeepSeek to generate outlines. 2. When generating PPTX files, different templates can be selected. 3. Support exporting PPTX files.",
+                    "ja": "フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート",
+                    "zh-hans": "前端后端同时开源。Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX",
+                    "zh-hant": "前端後端同時開源。Ai-to-pptx是一個使用AI技術(DeepSeek)製作PPTX的助手，支持線上生成和匯出PPTX。主要功能: 1 使用DeepSeek等大語言模型來生成大綱 2 生成PPTX的時候可以選擇不同的模板 3 支持匯出PPTX。"
                 }
             }
         }
