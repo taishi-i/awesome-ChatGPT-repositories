@@ -12739,6 +12739,63 @@
                     "zh-hans": "一个具有自然语言理解和人工智能的Python聊天机器人框架。",
                     "zh-hant": "一個具有自然語言理解和人工智慧功能的Python聊天機器人框架。"
                 }
+            },
+            "https://github.com/mayooear/ai-pdf-chatbot-langchain": {
+                "repository_name": "ai-pdf-chatbot-langchain",
+                "user_name": "mayooear",
+                "language": "TypeScript",
+                "license": null,
+                "description": "LangChain & LangGraph AI chatbot for large PDF docs",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "langchain",
+                    "langgraph",
+                    "nextjs",
+                    "openai",
+                    "pdf",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LangChain & LangGraph AI chatbot for large PDF docs",
+                    "ja": "大規模なPDFドキュメント用のLangChain＆LangGraph AIチャットボット",
+                    "zh-hans": "LangChain和LangGraph AI聊天机器人适用于大型PDF文档",
+                    "zh-hant": "LangChain和LangGraph AI聊天機器人適用於大型PDF文件"
+                }
+            },
+            "https://github.com/nbonamy/witsy": {
+                "repository_name": "witsy",
+                "user_name": "nbonamy",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Witsy: desktop AI assistant",
+                "topics": [
+                    "anthropic",
+                    "deepseek",
+                    "electron-app",
+                    "electronjs",
+                    "gemini",
+                    "genai",
+                    "genai-chatbot",
+                    "generative-ai",
+                    "googleai",
+                    "groq",
+                    "mistral",
+                    "mistralai",
+                    "ollama",
+                    "ollama-app",
+                    "ollama-gui",
+                    "openai",
+                    "openrouter",
+                    "vuejs",
+                    "vuejs3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Witsy: desktop AI assistant",
+                    "ja": "Witsy: デスクトップAIアシスタント",
+                    "zh-hans": "Witsy：桌面人工智能助手",
+                    "zh-hant": "Witsy: 桌面人工智慧助理"
+                }
             }
         },
         "Browser-extensions": {
@@ -28625,6 +28682,58 @@
                     "ja": "コードを書かずにLLMエージェントを作成します。",
                     "zh-hans": "无需编写代码即可创建LLM代理。",
                     "zh-hant": "無需編寫代碼即可創建LLM代理。"
+                }
+            },
+            "https://github.com/zilliztech/deep-searcher": {
+                "repository_name": "deep-searcher",
+                "user_name": "zilliztech",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Deep Research Alternative to Reason on Private Data in Python",
+                "topics": [
+                    "agent",
+                    "agentic-rag",
+                    "deep-research",
+                    "deepseek",
+                    "deepseek-r1",
+                    "llm",
+                    "milvus",
+                    "openai",
+                    "rag",
+                    "vector-database",
+                    "zilliz"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Deep Research Alternative to Reason on Private Data in Python",
+                    "ja": "Pythonにおけるプライベートデータに対する理由の代替としての深い研究",
+                    "zh-hans": "Python中关于私人数据的深度研究替代理由",
+                    "zh-hant": "在Python中深入研究私人数据的替代理由"
+                }
+            },
+            "https://github.com/wwbin2017/bailing": {
+                "repository_name": "bailing",
+                "user_name": "wwbin2017",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "百聆 是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断",
+                "topics": [
+                    "ai",
+                    "asr",
+                    "chatgpt",
+                    "chattts",
+                    "deepseek",
+                    "funasr",
+                    "gpt-4o",
+                    "llm",
+                    "openai",
+                    "tts",
+                    "voice-assistant"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Bailing is a speech dialogue robot similar to GPT-4o, implemented through ASR+LLM+TTS, integrating excellent large models such as DeepSeek R1, with a latency as low as 800ms. It can run on low configurations and supports interruption.",
+                    "ja": "百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。",
+                    "zh-hans": "百聆是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断。",
+                    "zh-hant": "百聆 是一個類似GPT-4o的語音對話機器人，通過ASR+LLM+TTS實現，集成DeepSeek R1等優秀大模型，時延低至800ms，低配置也可運行，支持打斷。"
                 }
             }
         },

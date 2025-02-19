@@ -15,19 +15,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
+**Chatbots**
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
 
 
-**Openai**
- * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!
+**NLP**
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Deep Research Alternative to Reason on Private Data in Python
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆 是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断
 
 
-**Others**
- * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
-
-
-_Updated on February 17, 2025_ (A total of 1990 repositories listed.)
+_Updated on February 20, 2025_ (A total of 1994 repositories listed.)
 
 ## Table of contents
 
@@ -576,6 +574,8 @@ _Updated on February 17, 2025_ (A total of 1990 repositories listed.)
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
 
 
 ## Browser-extensions
@@ -1302,6 +1302,8 @@ _Updated on February 17, 2025_ (A total of 1990 repositories listed.)
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
  * [parlant](https://github.com/emcie-co/parlant) - The heavy-duty guidance framework for customer-facing LLM agents
  * [nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Deep Research Alternative to Reason on Private Data in Python
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆 是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断
 
 
 ## Langchain

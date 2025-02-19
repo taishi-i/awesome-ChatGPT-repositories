@@ -15,19 +15,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
+**Chatbots**
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
 
 
-**Openai**
- * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!
+**NLP**
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Deep Research Alternative to Reason on Private Data in Python
+ * [bailing](https://github.com/wwbin2017/bailing) - Bailing is a speech dialogue robot similar to GPT-4o, implemented through ASR+LLM+TTS, integrating excellent large models such as DeepSeek R1, with a latency as low as 800ms. It can run on low configurations and supports interruption.
 
 
-**Others**
- * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - Frontend and backend are open source at the same time. Ai-to-pptx is an assistant that uses AI technology (DeepSeek) to create PPTX files, supporting online generation and export of PPTX files. Main functions: 1. Use large language models like DeepSeek to generate outlines. 2. When generating PPTX files, different templates can be selected. 3. Support exporting PPTX files.
-
-
-_Updated on February 17, 2025_ (A total of 1990 repositories listed.)
+_Updated on February 20, 2025_ (A total of 1994 repositories listed.)
 
 ## Table of contents
 
@@ -576,6 +574,8 @@ _Updated on February 17, 2025_ (A total of 1990 repositories listed.)
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - We do NOT and WILL not have any Crypto Projects, they are a complete SCAM | Task oriented AI agent framework for digital workers and vertical AI agents
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
 
 
 ## Browser-extensions
@@ -1302,6 +1302,8 @@ _Updated on February 17, 2025_ (A total of 1990 repositories listed.)
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
  * [parlant](https://github.com/emcie-co/parlant) - The heavy-duty guidance framework for customer-facing LLM agents
  * [nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Deep Research Alternative to Reason on Private Data in Python
+ * [bailing](https://github.com/wwbin2017/bailing) - Bailing is a speech dialogue robot similar to GPT-4o, implemented through ASR+LLM+TTS, integrating excellent large models such as DeepSeek R1, with a latency as low as 800ms. It can run on low configurations and supports interruption.
 
 
 ## Langchain
