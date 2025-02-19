@@ -15,19 +15,17 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀一些关于大型语言模型(LLM)、视觉语言模型(VLM)、视觉语言行动(VLA)、人工智能生成内容(AIGC)以及相关数据集和应用的精彩公共项目收集。
+**Chatbots**
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain和LangGraph AI聊天机器人适用于大型PDF文档
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy：桌面人工智能助手
 
 
-**Openai**
- * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1和Claude 3.5 Sonnet实现了最佳组合，充分释放了最强模型的力量。支持OpenAI流式输出，并可以在您喜欢的ChatBox上运行！
+**NLP**
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Python中关于私人数据的深度研究替代理由
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断。
 
 
-**Others**
- * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端后端同时开源。Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
-
-
-_Updated on February 17, 2025_ (A total of 1990 repositories listed.)
+_Updated on February 20, 2025_ (A total of 1994 repositories listed.)
 
 ## Table of contents
 
@@ -576,6 +574,8 @@ _Updated on February 17, 2025_ (A total of 1990 repositories listed.)
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ 本地和快速的AI助手。支持：Web | iOS | MacOS | Android | Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - 我们没有任何加密项目，也不会有任何加密项目，它们都是彻头彻尾的骗局 | 面向任务的AI代理框架，用于数字工作者和垂直AI代理
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 一个具有自然语言理解和人工智能的Python聊天机器人框架。
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain和LangGraph AI聊天机器人适用于大型PDF文档
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy：桌面人工智能助手
 
 
 ## Browser-extensions
@@ -1302,6 +1302,8 @@ _Updated on February 17, 2025_ (A total of 1990 repositories listed.)
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGen是一个用于程序合成的开源模型系列。在TPU-v4上进行训练。与OpenAI Codex具有竞争力。
  * [parlant](https://github.com/emcie-co/parlant) - 面向客户的LLM代理的重型指导框架
  * [nerve](https://github.com/dreadnode/nerve) - 无需编写代码即可创建LLM代理。
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Python中关于私人数据的深度研究替代理由
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断。
 
 
 ## Langchain

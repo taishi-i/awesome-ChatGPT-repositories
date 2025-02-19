@@ -15,19 +15,17 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。
+**Chatbots**
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - 大規模なPDFドキュメント用のLangChain＆LangGraph AIチャットボット
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: デスクトップAIアシスタント
 
 
-**Openai**
- * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！
+**NLP**
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Pythonにおけるプライベートデータに対する理由の代替としての深い研究
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。
 
 
-**Others**
- * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート
-
-
-_Updated on February 17, 2025_ (A total of 1990 repositories listed.)
+_Updated on February 20, 2025_ (A total of 1994 repositories listed.)
 
 ## Table of contents
 
@@ -576,6 +574,8 @@ _Updated on February 17, 2025_ (A total of 1990 repositories listed.)
  * [NextChat](https://github.com/chatgptnextweb/nextchat) - ✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows
  * [Upsonic](https://github.com/upsonic/upsonic) - 私たちは一切の暗号プロジェクトを持っておらず、持つ予定もありません。それらは完全な詐欺です。| デジタルワーカーや垂直AIエージェント向けのタスク指向型AIエージェントフレームワーク
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 自然言語理解と人工知能を備えたPythonチャットボットフレームワーク。
+ * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - 大規模なPDFドキュメント用のLangChain＆LangGraph AIチャットボット
+ * [witsy](https://github.com/nbonamy/witsy) - Witsy: デスクトップAIアシスタント
 
 
 ## Browser-extensions
@@ -1302,6 +1302,8 @@ _Updated on February 17, 2025_ (A total of 1990 repositories listed.)
  * [CodeGen](https://github.com/salesforce/codegen) - CodeGenはプログラム合成のためのオープンソースモデルファミリーです。TPU-v4でトレーニングされています。OpenAI Codexと競合しています。
  * [parlant](https://github.com/emcie-co/parlant) - 顧客対応LLMエージェント向けの重要なガイダンスフレームワーク
  * [nerve](https://github.com/dreadnode/nerve) - コードを書かずにLLMエージェントを作成します。
+ * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Pythonにおけるプライベートデータに対する理由の代替としての深い研究
+ * [bailing](https://github.com/wwbin2017/bailing) - 百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。
 
 
 ## Langchain
