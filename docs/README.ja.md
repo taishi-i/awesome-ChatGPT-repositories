@@ -16,16 +16,24 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - 大規模なPDFドキュメント用のLangChain＆LangGraph AIチャットボット
- * [witsy](https://github.com/nbonamy/witsy) - Witsy: デスクトップAIアシスタント
+ * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。（DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。
+ * [voice-pro](https://github.com/abus-aikorea/voice-pro) - 音声処理用のGradio WebUI、Whisper（OpenAI-Whisper、Faster-Whisper、Whisper-Timestamped）によって動作します。Voice Changer（RVC）、zero-shot Voice Cloning（E2、F5-TTS、CosyVoice）、YouTube ダウンロード、ボーカル分離（UVR5）、テキスト読み上げ（Edge-TTS）などの機能があります。
 
 
 **NLP**
- * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Pythonにおけるプライベートデータに対する理由の代替としての深い研究
- * [bailing](https://github.com/wwbin2017/bailing) - 百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。
+ * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - 脳内ビデオジェネレーターのテキスト。お気に入りのパーソナリティから任意のトピックについて学ぶ 😼。
 
 
-_Updated on February 20, 2025_ (A total of 1994 repositories listed.)
+**Langchain**
+ * [agentkit](https://github.com/bcg-x-official/agentkit) - Nextjs、FastAPI、Langchainを使用して制約エージェントを構築するためのスターターキット
+ * [reor](https://github.com/reorproject/reor) - 高エントロピーな人々のためのプライベート＆ローカルAIパーソナル知識管理アプリ。
+
+
+**Openai**
+ * [openai](https://github.com/azure-samples/openai) - すべてのAzure OpenAIサンプルのリポジトリは、OpenAIクックブックを補完します。
+
+
+_Updated on February 24, 2025_ (A total of 2000 repositories listed.)
 
 ## Table of contents
 
@@ -576,6 +584,8 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 自然言語理解と人工知能を備えたPythonチャットボットフレームワーク。
  * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - 大規模なPDFドキュメント用のLangChain＆LangGraph AIチャットボット
  * [witsy](https://github.com/nbonamy/witsy) - Witsy: デスクトップAIアシスタント
+ * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。（DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。
+ * [voice-pro](https://github.com/abus-aikorea/voice-pro) - 音声処理用のGradio WebUI、Whisper（OpenAI-Whisper、Faster-Whisper、Whisper-Timestamped）によって動作します。Voice Changer（RVC）、zero-shot Voice Cloning（E2、F5-TTS、CosyVoice）、YouTube ダウンロード、ボーカル分離（UVR5）、テキスト読み上げ（Edge-TTS）などの機能があります。
 
 
 ## Browser-extensions
@@ -1304,6 +1314,7 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [nerve](https://github.com/dreadnode/nerve) - コードを書かずにLLMエージェントを作成します。
  * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Pythonにおけるプライベートデータに対する理由の代替としての深い研究
  * [bailing](https://github.com/wwbin2017/bailing) - 百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。
+ * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - 脳内ビデオジェネレーターのテキスト。お気に入りのパーソナリティから任意のトピックについて学ぶ 😼。
 
 
 ## Langchain
@@ -1436,6 +1447,8 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。
  * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - LangChainを使用したGenAIアプリケーションのための大規模言語モデルの理解と実装に関する包括的なガイドと、実践的な例を紹介します。
  * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。
+ * [agentkit](https://github.com/bcg-x-official/agentkit) - Nextjs、FastAPI、Langchainを使用して制約エージェントを構築するためのスターターキット
+ * [reor](https://github.com/reorproject/reor) - 高エントロピーな人々のためのプライベート＆ローカルAIパーソナル知識管理アプリ。
 
 
 ## Unity
@@ -1678,6 +1691,7 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。
  * [note-gen](https://github.com/codexu/note-gen) - 記録と執筆に特化したクロスプラットフォームAIノート
  * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！
+ * [openai](https://github.com/azure-samples/openai) - すべてのAzure OpenAIサンプルのリポジトリは、OpenAIクックブックを補完します。
 
 
 ## Others

@@ -16,16 +16,24 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain和LangGraph AI聊天机器人适用于大型PDF文档
- * [witsy](https://github.com/nbonamy/witsy) - Witsy：桌面人工智能助手
+ * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （支持DeepSeek R1）一款由人工智能驱动的研究助手，通过结合搜索引擎、网络爬虫和大型语言模型，在任何主题上进行迭代、深入的研究。
+ * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI用于音频处理，由Whisper（OpenAI-Whisper，Faster-Whisper，Whisper-Timestamped）提供支持。功能包括声音变声器（RVC），零样本语音克隆（E2，F5-TTS，CosyVoice），YouTube下载，声音隔离（UVR5），文本转语音（Edge-TTS）。
 
 
 **NLP**
- * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Python中关于私人数据的深度研究替代理由
- * [bailing](https://github.com/wwbin2017/bailing) - 百聆是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断。
+ * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - 大脑形式的文本到视频生成器。从您喜爱的名人那里学习任何主题 😼。
 
 
-_Updated on February 20, 2025_ (A total of 1994 repositories listed.)
+**Langchain**
+ * [agentkit](https://github.com/bcg-x-official/agentkit) - 使用Nextjs、FastAPI和Langchain构建受限代理的入门套件
+ * [reor](https://github.com/reorproject/reor) - 私人和本地的AI个人知识管理应用，适用于高熵人群。
+
+
+**Openai**
+ * [openai](https://github.com/azure-samples/openai) - 所有Azure OpenAI示例的存储库，补充OpenAI食谱。
+
+
+_Updated on February 24, 2025_ (A total of 2000 repositories listed.)
 
 ## Table of contents
 
@@ -576,6 +584,8 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - 一个具有自然语言理解和人工智能的Python聊天机器人框架。
  * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain和LangGraph AI聊天机器人适用于大型PDF文档
  * [witsy](https://github.com/nbonamy/witsy) - Witsy：桌面人工智能助手
+ * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （支持DeepSeek R1）一款由人工智能驱动的研究助手，通过结合搜索引擎、网络爬虫和大型语言模型，在任何主题上进行迭代、深入的研究。
+ * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI用于音频处理，由Whisper（OpenAI-Whisper，Faster-Whisper，Whisper-Timestamped）提供支持。功能包括声音变声器（RVC），零样本语音克隆（E2，F5-TTS，CosyVoice），YouTube下载，声音隔离（UVR5），文本转语音（Edge-TTS）。
 
 
 ## Browser-extensions
@@ -1304,6 +1314,7 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [nerve](https://github.com/dreadnode/nerve) - 无需编写代码即可创建LLM代理。
  * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Python中关于私人数据的深度研究替代理由
  * [bailing](https://github.com/wwbin2017/bailing) - 百聆是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断。
+ * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - 大脑形式的文本到视频生成器。从您喜爱的名人那里学习任何主题 😼。
 
 
 ## Langchain
@@ -1436,6 +1447,8 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - 使用OpenAI API和Ollama（Mistral，llama，phi 3，gemma 2）的自动文档分析器，可自动分析和标记您的文件。
  * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - 一份全面指南，帮助理解和实施大型语言模型，并使用LangChain进行GenAI应用的实际示例。
  * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或音频生成字幕，并可批量将字幕翻译成其他语言。这是一个客户端工具，跨平台支持mac和windows系统，支持百度、火山、deeplx、openai、deepseek、ollama等多个翻译服务。
+ * [agentkit](https://github.com/bcg-x-official/agentkit) - 使用Nextjs、FastAPI和Langchain构建受限代理的入门套件
+ * [reor](https://github.com/reorproject/reor) - 私人和本地的AI个人知识管理应用，适用于高熵人群。
 
 
 ## Unity
@@ -1678,6 +1691,7 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta：为FinRL提供动态数据集和市场环境。
  * [note-gen](https://github.com/codexu/note-gen) - 一款专注于记录和写作的跨端 AI 笔记
  * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1和Claude 3.5 Sonnet实现了最佳组合，充分释放了最强模型的力量。支持OpenAI流式输出，并可以在您喜欢的ChatBox上运行！
+ * [openai](https://github.com/azure-samples/openai) - 所有Azure OpenAI示例的存储库，补充OpenAI食谱。
 
 
 ## Others
