@@ -16,16 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
- * [witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+ * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
+ * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS,
 
 
 **NLP**
- * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Deep Research Alternative to Reason on Private Data in Python
- * [bailing](https://github.com/wwbin2017/bailing) - Bailing is a speech dialogue robot similar to GPT-4o, implemented through ASR+LLM+TTS, integrating excellent large models such as DeepSeek R1, with a latency as low as 800ms. It can run on low configurations and supports interruption.
+ * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
 
 
-_Updated on February 20, 2025_ (A total of 1994 repositories listed.)
+**Langchain**
+ * [agentkit](https://github.com/bcg-x-official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
+ * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+
+
+**Openai**
+ * [openai](https://github.com/azure-samples/openai) - The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.
+
+
+_Updated on February 24, 2025_ (A total of 2000 repositories listed.)
 
 ## Table of contents
 
@@ -576,6 +584,8 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - A python chatbot framework with Natural Language Understanding and Artificial Intelligence.
  * [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
  * [witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
+ * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
+ * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS,
 
 
 ## Browser-extensions
@@ -1304,6 +1314,7 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [nerve](https://github.com/dreadnode/nerve) - Create LLM agents without writing code.
  * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Deep Research Alternative to Reason on Private Data in Python
  * [bailing](https://github.com/wwbin2017/bailing) - Bailing is a speech dialogue robot similar to GPT-4o, implemented through ASR+LLM+TTS, integrating excellent large models such as DeepSeek R1, with a latency as low as 800ms. It can run on low configurations and supports interruption.
+ * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
 
 
 ## Langchain
@@ -1436,6 +1447,8 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API and Ollama (Mistral, llama, phi 3, gemma 2) to automatically analyze and tag your documents.
  * [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.
  * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - Batch generate subtitles for videos or audios, and batch translate subtitles into other languages. This is a client tool that supports both Mac and Windows systems, and supports multiple translation services such as Baidu, Huoshan, Deeplx, OpenAI, Deepseek, Ollama, etc.
+ * [agentkit](https://github.com/bcg-x-official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
+ * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
 
 
 ## Unity
@@ -1678,6 +1691,7 @@ _Updated on February 20, 2025_ (A total of 1994 repositories listed.)
  * [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - FinRL-Meta: Dynamic datasets and market environments for FinRL.
  * [note-gen](https://github.com/codexu/note-gen) - A cross-platform AI note-taking app focused on recording and writing.
  * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!
+ * [openai](https://github.com/azure-samples/openai) - The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.
 
 
 ## Others

@@ -12796,6 +12796,62 @@
                     "zh-hans": "Witsy：桌面人工智能助手",
                     "zh-hant": "Witsy: 桌面人工智慧助理"
                 }
+            },
+            "https://github.com/anotiawang/deep-research-web-ui": {
+                "repository_name": "deep-research-web-ui",
+                "user_name": "AnotiaWang",
+                "language": "Vue",
+                "license": null,
+                "description": "(Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "free",
+                    "gpt",
+                    "nuxt",
+                    "openai",
+                    "research",
+                    "web"
+                ],
+                "multilingual_descriptions": {
+                    "en": "(Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.",
+                    "ja": "（DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。（DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。",
+                    "zh-hans": "（支持DeepSeek R1）一款由人工智能驱动的研究助手，通过结合搜索引擎、网络爬虫和大型语言模型，在任何主题上进行迭代、深入的研究。",
+                    "zh-hant": "（支持DeepSeek R1）一個由人工智慧驅動的研究助手，通過結合搜索引擎、網絡抓取和大型語言模型，在任何主題上進行迭代、深入的研究。"
+                }
+            },
+            "https://github.com/abus-aikorea/voice-pro": {
+                "repository_name": "voice-pro",
+                "user_name": "abus-aikorea",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS, kokoro), and multi-language translation. Perfect for content creators and developers.",
+                "topics": [
+                    "audiobook",
+                    "faster-whisper",
+                    "gradio",
+                    "podcasts",
+                    "rvc",
+                    "speech-recognition",
+                    "speech-synthesis",
+                    "speech-to-text",
+                    "subtitles",
+                    "text-to-speech",
+                    "transcription",
+                    "translator",
+                    "tts",
+                    "voice-cloning",
+                    "voice-conversion",
+                    "webui",
+                    "whisper",
+                    "yt-dlp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS,",
+                    "ja": "音声処理用のGradio WebUI、Whisper（OpenAI-Whisper、Faster-Whisper、Whisper-Timestamped）によって動作します。Voice Changer（RVC）、zero-shot Voice Cloning（E2、F5-TTS、CosyVoice）、YouTube ダウンロード、ボーカル分離（UVR5）、テキスト読み上げ（Edge-TTS）などの機能があります。",
+                    "zh-hans": "Gradio WebUI用于音频处理，由Whisper（OpenAI-Whisper，Faster-Whisper，Whisper-Timestamped）提供支持。功能包括声音变声器（RVC），零样本语音克隆（E2，F5-TTS，CosyVoice），YouTube下载，声音隔离（UVR5），文本转语音（Edge-TTS）。",
+                    "zh-hant": "Gradio WebUI 音頻處理，由 Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped) 驅動。功能包括 Voice Changer(RVC)、零樣本語音克隆 (E2, F5-TTS, CosyVoice)、YouTube 下載、聲音隔離(UVR5)、文本轉語音 (Edge-TTS)。"
+                }
             }
         },
         "Browser-extensions": {
@@ -28735,6 +28791,29 @@
                     "zh-hans": "百聆是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，时延低至800ms，低配置也可运行，支持打断。",
                     "zh-hant": "百聆 是一個類似GPT-4o的語音對話機器人，通過ASR+LLM+TTS實現，集成DeepSeek R1等優秀大模型，時延低至800ms，低配置也可運行，支持打斷。"
                 }
+            },
+            "https://github.com/brainrotjs/brainrot.js": {
+                "repository_name": "brainrot.js",
+                "user_name": "brainrotjs",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.",
+                "topics": [
+                    "automate",
+                    "chatgpt",
+                    "nextjs",
+                    "python",
+                    "remotion",
+                    "text-to-video",
+                    "text-to-video-generation",
+                    "youtubeshorts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.",
+                    "ja": "脳内ビデオジェネレーターのテキスト。お気に入りのパーソナリティから任意のトピックについて学ぶ 😼。",
+                    "zh-hans": "大脑形式的文本到视频生成器。从您喜爱的名人那里学习任何主题 😼。",
+                    "zh-hant": "在腦部形式中生成文本到視頻的工具。從您喜愛的名人那裡學習任何主題 😼。"
+                }
             }
         },
         "Langchain": {
@@ -31804,6 +31883,62 @@
                     "ja": "ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。",
                     "zh-hans": "批量为视频或音频生成字幕，并可批量将字幕翻译成其他语言。这是一个客户端工具，跨平台支持mac和windows系统，支持百度、火山、deeplx、openai、deepseek、ollama等多个翻译服务。",
                     "zh-hant": "批量為視頻或者音頻生成字幕，並可批量將字幕翻譯成其他語言。這是一個客戶端工具，跨平台支持 mac 和 windows 系統，支持百度，火山，deeplx, openai, deepseek, ollama 等多個翻譯服務。"
+                }
+            },
+            "https://github.com/bcg-x-official/agentkit": {
+                "repository_name": "agentkit",
+                "user_name": "BCG-X-Official",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain",
+                "topics": [
+                    "fastapi",
+                    "full-stack",
+                    "genai",
+                    "genai-chatbot",
+                    "genai-poc",
+                    "langchain",
+                    "langchain-python",
+                    "nextjs",
+                    "openai",
+                    "react",
+                    "starter",
+                    "starter-kit",
+                    "template",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain",
+                    "ja": "Nextjs、FastAPI、Langchainを使用して制約エージェントを構築するためのスターターキット",
+                    "zh-hans": "使用Nextjs、FastAPI和Langchain构建受限代理的入门套件",
+                    "zh-hant": "使用Nextjs、FastAPI和Langchain構建受限代理的入門套件"
+                }
+            },
+            "https://github.com/reorproject/reor": {
+                "repository_name": "reor",
+                "user_name": "reorproject",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Private & local AI personal knowledge management app for high entropy people.",
+                "topics": [
+                    "ai",
+                    "lancedb",
+                    "llama",
+                    "llamacpp",
+                    "local-first",
+                    "markdown",
+                    "note-taking",
+                    "ollama",
+                    "pkm",
+                    "rag",
+                    "second-brain",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Private & local AI personal knowledge management app for high entropy people.",
+                    "ja": "高エントロピーな人々のためのプライベート＆ローカルAIパーソナル知識管理アプリ。",
+                    "zh-hans": "私人和本地的AI个人知识管理应用，适用于高熵人群。",
+                    "zh-hant": "私人和本地的AI個人知識管理應用程式，適合高熵人士。"
                 }
             }
         },
@@ -36913,6 +37048,20 @@
                     "ja": "DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！",
                     "zh-hans": "DeepSeek r1和Claude 3.5 Sonnet实现了最佳组合，充分释放了最强模型的力量。支持OpenAI流式输出，并可以在您喜欢的ChatBox上运行！",
                     "zh-hant": "DeepSeek r1和Claude 3.5 Sonnet實現了最佳組合，充分發揮了最強模型的力量。支持OpenAI流式輸出，並可在您喜愛的ChatBox上運行！"
+                }
+            },
+            "https://github.com/azure-samples/openai": {
+                "repository_name": "openai",
+                "user_name": "Azure-Samples",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "The repository for all Azure OpenAI Samples complementing the OpenAI cookbook. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.",
+                    "ja": "すべてのAzure OpenAIサンプルのリポジトリは、OpenAIクックブックを補完します。",
+                    "zh-hans": "所有Azure OpenAI示例的存储库，补充OpenAI食谱。",
+                    "zh-hant": "所有Azure OpenAI樣本的存儲庫，補充OpenAI食譜。"
                 }
             }
         },
