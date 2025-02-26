@@ -16,24 +16,18 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
- * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS,
-
-
-**NLP**
- * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
+ * [hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
 
 
 **Langchain**
- * [agentkit](https://github.com/bcg-x-official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
- * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+ * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI Empowered Stock Analysis: Obtain selected stock market quotes, display cost profit and loss, receive alerts for price changes, analyze overall market/individual stock sentiment, and analyze K-line technical indicators, etc. All data is kept locally. Supports platforms or models such as DeepSeek, OpenAI, Ollama, LMStudio, AnythingLLM, Silicon Mobility, Volcano Ark, Aliyun Bailian, etc.
 
 
-**Openai**
- * [openai](https://github.com/azure-samples/openai) - The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.
+**Others**
+ * [memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications
 
 
-_Updated on February 24, 2025_ (A total of 2000 repositories listed.)
+_Updated on February 27, 2025_ (A total of 2003 repositories listed.)
 
 ## Table of contents
 
@@ -586,6 +580,7 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
  * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS,
+ * [hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
 
 
 ## Browser-extensions
@@ -1449,6 +1444,7 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - Batch generate subtitles for videos or audios, and batch translate subtitles into other languages. This is a client tool that supports both Mac and Windows systems, and supports multiple translation services such as Baidu, Huoshan, Deeplx, OpenAI, Deepseek, Ollama, etc.
  * [agentkit](https://github.com/bcg-x-official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
  * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+ * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI Empowered Stock Analysis: Obtain selected stock market quotes, display cost profit and loss, receive alerts for price changes, analyze overall market/individual stock sentiment, and analyze K-line technical indicators, etc. All data is kept locally. Supports platforms or models such as DeepSeek, OpenAI, Ollama, LMStudio, AnythingLLM, Silicon Mobility, Volcano Ark, Aliyun Bailian, etc.
 
 
 ## Unity
@@ -2108,5 +2104,6 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - Frontend and backend are open source at the same time. Ai-to-pptx is an assistant that uses AI technology (DeepSeek) to create PPTX files, supporting online generation and export of PPTX files. Main functions: 1. Use large language models like DeepSeek to generate outlines. 2. When generating PPTX files, different templates can be selected. 3. Support exporting PPTX files.
+ * [memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications
 
 
