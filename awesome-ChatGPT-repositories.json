@@ -12852,6 +12852,26 @@
                     "zh-hans": "Gradio WebUI用于音频处理，由Whisper（OpenAI-Whisper，Faster-Whisper，Whisper-Timestamped）提供支持。功能包括声音变声器（RVC），零样本语音克隆（E2，F5-TTS，CosyVoice），YouTube下载，声音隔离（UVR5），文本转语音（Edge-TTS）。",
                     "zh-hant": "Gradio WebUI 音頻處理，由 Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped) 驅動。功能包括 Voice Changer(RVC)、零樣本語音克隆 (E2, F5-TTS, CosyVoice)、YouTube 下載、聲音隔離(UVR5)、文本轉語音 (Edge-TTS)。"
                 }
+            },
+            "https://github.com/fmaclen/hollama": {
+                "repository_name": "hollama",
+                "user_name": "fmaclen",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A minimal web-UI for talking to Ollama (and OpenAI) servers",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "llm",
+                    "local-ai",
+                    "ollama"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A minimal web-UI for talking to Ollama (and OpenAI) servers",
+                    "ja": "Ollama（およびOpenAI）サーバーと対話するための最小限のWeb-UI",
+                    "zh-hans": "一个用于与Ollama（和OpenAI）服务器交流的最简化网络用户界面",
+                    "zh-hant": "一個最簡化的網頁UI，用於與Ollama（和OpenAI）伺服器進行對話"
+                }
             }
         },
         "Browser-extensions": {
@@ -31940,6 +31960,30 @@
                     "zh-hans": "私人和本地的AI个人知识管理应用，适用于高熵人群。",
                     "zh-hant": "私人和本地的AI個人知識管理應用程式，適合高熵人士。"
                 }
+            },
+            "https://github.com/arvinlovegood/go-stock": {
+                "repository_name": "go-stock",
+                "user_name": "ArvinLovegood",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+                "topics": [
+                    "anythingllm",
+                    "deepseek",
+                    "golang",
+                    "lmstudio",
+                    "naiveui",
+                    "ollama",
+                    "openai",
+                    "stock",
+                    "wails"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🦄🦄🦄AI Empowered Stock Analysis: Obtain selected stock market quotes, display cost profit and loss, receive alerts for price changes, analyze overall market/individual stock sentiment, and analyze K-line technical indicators, etc. All data is kept locally. Supports platforms or models such as DeepSeek, OpenAI, Ollama, LMStudio, AnythingLLM, Silicon Mobility, Volcano Ark, Aliyun Bailian, etc.",
+                    "ja": "🦄🦄🦄AIが株式分析をサポート：自分で選んだ株の市況情報を取得し、コストと利益を表示し、価格の変動に関する警告をプッシュ通知します。市場全体や個別株の感情分析、ローソク足テクニカル指標分析などをサポートします。データはすべてローカルに保存されます。DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、Silicon Mobility、Volcano Ark、Alibaba Cloud Hundred Refinementsなどのプラットフォームやモデルをサポートしています。",
+                    "zh-hans": "🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI，Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。",
+                    "zh-hant": "🦄🦄🦄AI賦能股票分析：自選股行情獲取，成本盈虧展示，漲跌報警推送，市場整體/個股情緒分析，K線技術指標分析等。數據全部保留在本地。支持DeepSeek，OpenAI，Ollama，LMStudio，AnythingLLM，硅基流動，火山方舟，阿里雲百煉等平台或模型。"
+                }
             }
         },
         "Unity": {
@@ -44913,6 +44957,33 @@
                     "ja": "フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート",
                     "zh-hans": "前端后端同时开源。Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX",
                     "zh-hant": "前端後端同時開源。Ai-to-pptx是一個使用AI技術(DeepSeek)製作PPTX的助手，支持線上生成和匯出PPTX。主要功能: 1 使用DeepSeek等大語言模型來生成大綱 2 生成PPTX的時候可以選擇不同的模板 3 支持匯出PPTX。"
+                }
+            },
+            "https://github.com/memodb-io/memobase": {
+                "repository_name": "memobase",
+                "user_name": "memodb-io",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Profile-Based Long-Term Memory for AI Applications",
+                "topics": [
+                    "ai-companion",
+                    "ai-memory",
+                    "chatgpt",
+                    "data-structures",
+                    "data-structures-and-algorithms",
+                    "llm-application",
+                    "llm-memory",
+                    "long-term-memory",
+                    "memory",
+                    "rag",
+                    "retrieval",
+                    "user-memory"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Profile-Based Long-Term Memory for AI Applications",
+                    "ja": "AIアプリケーション向けのプロファイルベースの長期記憶",
+                    "zh-hans": "基于个人资料的长期记忆，适用于人工智能应用",
+                    "zh-hant": "基於個人檔案的長期記憶，適用於人工智慧應用"
                 }
             }
         }

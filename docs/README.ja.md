@@ -16,24 +16,18 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。（DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。
- * [voice-pro](https://github.com/abus-aikorea/voice-pro) - 音声処理用のGradio WebUI、Whisper（OpenAI-Whisper、Faster-Whisper、Whisper-Timestamped）によって動作します。Voice Changer（RVC）、zero-shot Voice Cloning（E2、F5-TTS、CosyVoice）、YouTube ダウンロード、ボーカル分離（UVR5）、テキスト読み上げ（Edge-TTS）などの機能があります。
-
-
-**NLP**
- * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - 脳内ビデオジェネレーターのテキスト。お気に入りのパーソナリティから任意のトピックについて学ぶ 😼。
+ * [hollama](https://github.com/fmaclen/hollama) - Ollama（およびOpenAI）サーバーと対話するための最小限のWeb-UI
 
 
 **Langchain**
- * [agentkit](https://github.com/bcg-x-official/agentkit) - Nextjs、FastAPI、Langchainを使用して制約エージェントを構築するためのスターターキット
- * [reor](https://github.com/reorproject/reor) - 高エントロピーな人々のためのプライベート＆ローカルAIパーソナル知識管理アプリ。
+ * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AIが株式分析をサポート：自分で選んだ株の市況情報を取得し、コストと利益を表示し、価格の変動に関する警告をプッシュ通知します。市場全体や個別株の感情分析、ローソク足テクニカル指標分析などをサポートします。データはすべてローカルに保存されます。DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、Silicon Mobility、Volcano Ark、Alibaba Cloud Hundred Refinementsなどのプラットフォームやモデルをサポートしています。
 
 
-**Openai**
- * [openai](https://github.com/azure-samples/openai) - すべてのAzure OpenAIサンプルのリポジトリは、OpenAIクックブックを補完します。
+**Others**
+ * [memobase](https://github.com/memodb-io/memobase) - AIアプリケーション向けのプロファイルベースの長期記憶
 
 
-_Updated on February 24, 2025_ (A total of 2000 repositories listed.)
+_Updated on February 27, 2025_ (A total of 2003 repositories listed.)
 
 ## Table of contents
 
@@ -586,6 +580,7 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [witsy](https://github.com/nbonamy/witsy) - Witsy: デスクトップAIアシスタント
  * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。（DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - 音声処理用のGradio WebUI、Whisper（OpenAI-Whisper、Faster-Whisper、Whisper-Timestamped）によって動作します。Voice Changer（RVC）、zero-shot Voice Cloning（E2、F5-TTS、CosyVoice）、YouTube ダウンロード、ボーカル分離（UVR5）、テキスト読み上げ（Edge-TTS）などの機能があります。
+ * [hollama](https://github.com/fmaclen/hollama) - Ollama（およびOpenAI）サーバーと対話するための最小限のWeb-UI
 
 
 ## Browser-extensions
@@ -1449,6 +1444,7 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。
  * [agentkit](https://github.com/bcg-x-official/agentkit) - Nextjs、FastAPI、Langchainを使用して制約エージェントを構築するためのスターターキット
  * [reor](https://github.com/reorproject/reor) - 高エントロピーな人々のためのプライベート＆ローカルAIパーソナル知識管理アプリ。
+ * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AIが株式分析をサポート：自分で選んだ株の市況情報を取得し、コストと利益を表示し、価格の変動に関する警告をプッシュ通知します。市場全体や個別株の感情分析、ローソク足テクニカル指標分析などをサポートします。データはすべてローカルに保存されます。DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、Silicon Mobility、Volcano Ark、Alibaba Cloud Hundred Refinementsなどのプラットフォームやモデルをサポートしています。
 
 
 ## Unity
@@ -2108,5 +2104,6 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート
+ * [memobase](https://github.com/memodb-io/memobase) - AIアプリケーション向けのプロファイルベースの長期記憶
 
 

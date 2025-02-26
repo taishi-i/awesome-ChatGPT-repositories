@@ -16,24 +16,18 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
- * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS, kokoro), and multi-language translation. Perfect for content creators and developers.
-
-
-**NLP**
- * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
+ * [hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
 
 
 **Langchain**
- * [agentkit](https://github.com/bcg-x-official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
- * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+ * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 
 
-**Openai**
- * [openai](https://github.com/azure-samples/openai) - The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.
+**Others**
+ * [memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications
 
 
-_Updated on February 24, 2025_ (A total of 2000 repositories listed.)
+_Updated on February 27, 2025_ (A total of 2003 repositories listed.)
 
 ## Table of contents
 
@@ -586,6 +580,7 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant
  * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS, kokoro), and multi-language translation. Perfect for content creators and developers.
+ * [hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
 
 
 ## Browser-extensions
@@ -1449,6 +1444,7 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量为视频或者音频生成字幕，并可批量将字幕翻译成其它语言。这是一个客户端工具, 跨平台支持 mac 和 windows 系统, 支持百度，火山，deeplx, openai, deepseek, ollama 等多个翻译服务
  * [agentkit](https://github.com/bcg-x-official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
  * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
+ * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
 
 
 ## Unity
@@ -2108,5 +2104,6 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
+ * [memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications
 
 

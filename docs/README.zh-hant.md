@@ -16,24 +16,18 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （支持DeepSeek R1）一個由人工智慧驅動的研究助手，通過結合搜索引擎、網絡抓取和大型語言模型，在任何主題上進行迭代、深入的研究。
- * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI 音頻處理，由 Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped) 驅動。功能包括 Voice Changer(RVC)、零樣本語音克隆 (E2, F5-TTS, CosyVoice)、YouTube 下載、聲音隔離(UVR5)、文本轉語音 (Edge-TTS)。
-
-
-**NLP**
- * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - 在腦部形式中生成文本到視頻的工具。從您喜愛的名人那裡學習任何主題 😼。
+ * [hollama](https://github.com/fmaclen/hollama) - 一個最簡化的網頁UI，用於與Ollama（和OpenAI）伺服器進行對話
 
 
 **Langchain**
- * [agentkit](https://github.com/bcg-x-official/agentkit) - 使用Nextjs、FastAPI和Langchain構建受限代理的入門套件
- * [reor](https://github.com/reorproject/reor) - 私人和本地的AI個人知識管理應用程式，適合高熵人士。
+ * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI賦能股票分析：自選股行情獲取，成本盈虧展示，漲跌報警推送，市場整體/個股情緒分析，K線技術指標分析等。數據全部保留在本地。支持DeepSeek，OpenAI，Ollama，LMStudio，AnythingLLM，硅基流動，火山方舟，阿里雲百煉等平台或模型。
 
 
-**Openai**
- * [openai](https://github.com/azure-samples/openai) - 所有Azure OpenAI樣本的存儲庫，補充OpenAI食譜。
+**Others**
+ * [memobase](https://github.com/memodb-io/memobase) - 基於個人檔案的長期記憶，適用於人工智慧應用
 
 
-_Updated on February 24, 2025_ (A total of 2000 repositories listed.)
+_Updated on February 27, 2025_ (A total of 2003 repositories listed.)
 
 ## Table of contents
 
@@ -586,6 +580,7 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [witsy](https://github.com/nbonamy/witsy) - Witsy: 桌面人工智慧助理
  * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （支持DeepSeek R1）一個由人工智慧驅動的研究助手，通過結合搜索引擎、網絡抓取和大型語言模型，在任何主題上進行迭代、深入的研究。
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI 音頻處理，由 Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped) 驅動。功能包括 Voice Changer(RVC)、零樣本語音克隆 (E2, F5-TTS, CosyVoice)、YouTube 下載、聲音隔離(UVR5)、文本轉語音 (Edge-TTS)。
+ * [hollama](https://github.com/fmaclen/hollama) - 一個最簡化的網頁UI，用於與Ollama（和OpenAI）伺服器進行對話
 
 
 ## Browser-extensions
@@ -1449,6 +1444,7 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - 批量為視頻或者音頻生成字幕，並可批量將字幕翻譯成其他語言。這是一個客戶端工具，跨平台支持 mac 和 windows 系統，支持百度，火山，deeplx, openai, deepseek, ollama 等多個翻譯服務。
  * [agentkit](https://github.com/bcg-x-official/agentkit) - 使用Nextjs、FastAPI和Langchain構建受限代理的入門套件
  * [reor](https://github.com/reorproject/reor) - 私人和本地的AI個人知識管理應用程式，適合高熵人士。
+ * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI賦能股票分析：自選股行情獲取，成本盈虧展示，漲跌報警推送，市場整體/個股情緒分析，K線技術指標分析等。數據全部保留在本地。支持DeepSeek，OpenAI，Ollama，LMStudio，AnythingLLM，硅基流動，火山方舟，阿里雲百煉等平台或模型。
 
 
 ## Unity
@@ -2108,5 +2104,6 @@ _Updated on February 24, 2025_ (A total of 2000 repositories listed.)
  * [onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI團隊聊天-如果它可以訪問您團隊的獨特知識，就像ChatGPT一樣。
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 在短短3小时内从零开始训练一个拥有27M参数的视觉多模态VLM！🌏
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端後端同時開源。Ai-to-pptx是一個使用AI技術(DeepSeek)製作PPTX的助手，支持線上生成和匯出PPTX。主要功能: 1 使用DeepSeek等大語言模型來生成大綱 2 生成PPTX的時候可以選擇不同的模板 3 支持匯出PPTX。
+ * [memobase](https://github.com/memodb-io/memobase) - 基於個人檔案的長期記憶，適用於人工智慧應用
 
 
