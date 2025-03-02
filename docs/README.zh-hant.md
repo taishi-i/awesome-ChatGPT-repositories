@@ -15,19 +15,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [hollama](https://github.com/fmaclen/hollama) - 一個最簡化的網頁UI，用於與Ollama（和OpenAI）伺服器進行對話
+**Prompts**
+ * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 是一個開源的、基於 Open Telemetry 的端到端觀測工具，用於LLM應用程序，為流行的LLM、LLM框架、向量數據庫等提供實時追蹤、評估和指標。使用Typescript、Python進行集成。🚀💻📊
 
 
-**Langchain**
- * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI賦能股票分析：自選股行情獲取，成本盈虧展示，漲跌報警推送，市場整體/個股情緒分析，K線技術指標分析等。數據全部保留在本地。支持DeepSeek，OpenAI，Ollama，LMStudio，AnythingLLM，硅基流動，火山方舟，阿里雲百煉等平台或模型。
+**CLIs**
+ * [lumen](https://github.com/jnsahaj/lumen) - 即時AI Git提交消息，從CLI中的Git更改摘要（無需API密鑰）
 
 
-**Others**
- * [memobase](https://github.com/memodb-io/memobase) - 基於個人檔案的長期記憶，適用於人工智慧應用
+**NLP**
+ * [AIaW](https://github.com/nitrorcr/aiaw) - AI作为工作空间 - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
+ * [uni-api](https://github.com/yym68686/uni-api) - 這是一個統一管理LLM API的專案。它可以通過統一的API接口調用多個後端服務，將它們統一轉換為OpenAI格式，並支持負載平衡。目前支持的後端服務包括：OpenAI。
+ * [paperless-gpt](https://github.com/icereed/paperless-gpt) - 使用LLMs和LLM Vision（OCR）來處理無紙化-ngx-由人工智慧驅動的文件數位化
 
 
-_Updated on February 27, 2025_ (A total of 2003 repositories listed.)
+**Openai**
+ * [openai-java](https://github.com/openai/openai-java) - OpenAI API 的官方 Java 库
+
+
+_Updated on March 03, 2025_ (A total of 2009 repositories listed.)
 
 ## Table of contents
 
@@ -283,6 +289,7 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [LangChain](https://github.com/tryagi/langchain) - LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。LangChain的C#實現。我們試圖在抽象方面盡可能接近原始版本，但也願意接受新實體。
  * [Kiln](https://github.com/kiln-ai/kiln) - 微調LLM模型、合成數據生成和協作數據集的最簡單工具。
  * [JamAIBase](https://github.com/embeddedllm/jamaibase) - 用於人工智慧的協作試算表。將單元格鏈接成強大的管道，通過提示和模型進行實驗，並即時評估LLM的回應。無縫合作，共同建立和迭代人工智慧應用程序。
+ * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 是一個開源的、基於 Open Telemetry 的端到端觀測工具，用於LLM應用程序，為流行的LLM、LLM框架、向量數據庫等提供實時追蹤、評估和指標。使用Typescript、Python進行集成。🚀💻📊
 
 
 ## Chatbots
@@ -943,6 +950,7 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 支援一次從多個LLM獲取答案的Android聊天應用程式。使用您自己的API金鑰AI客戶端。支援OpenAI、Anthropic、Google和Ollama。設計使用Material3和Compose。
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - 一個非官方的OpenAI Rest客戶端，適用於Unity (UPM)
  * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - 一個使用Ollama和LM Studio模型（Llava、Gemma、Llama等）的Node.js CLI，可以根據文件內容智能地重新命名文件。
+ * [lumen](https://github.com/jnsahaj/lumen) - 即時AI Git提交消息，從CLI中的Git更改摘要（無需API密鑰）
 
 
 ## Reimplementations
@@ -1310,6 +1318,9 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [deep-searcher](https://github.com/zilliztech/deep-searcher) - 在Python中深入研究私人数据的替代理由
  * [bailing](https://github.com/wwbin2017/bailing) - 百聆 是一個類似GPT-4o的語音對話機器人，通過ASR+LLM+TTS實現，集成DeepSeek R1等優秀大模型，時延低至800ms，低配置也可運行，支持打斷。
  * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - 在腦部形式中生成文本到視頻的工具。從您喜愛的名人那裡學習任何主題 😼。
+ * [AIaW](https://github.com/nitrorcr/aiaw) - AI作为工作空间 - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
+ * [uni-api](https://github.com/yym68686/uni-api) - 這是一個統一管理LLM API的專案。它可以通過統一的API接口調用多個後端服務，將它們統一轉換為OpenAI格式，並支持負載平衡。目前支持的後端服務包括：OpenAI。
+ * [paperless-gpt](https://github.com/icereed/paperless-gpt) - 使用LLMs和LLM Vision（OCR）來處理無紙化-ngx-由人工智慧驅動的文件數位化
 
 
 ## Langchain
@@ -1688,6 +1699,7 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [note-gen](https://github.com/codexu/note-gen) - 一款專注於記錄和寫作的跨平台 AI 筆記
  * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1和Claude 3.5 Sonnet實現了最佳組合，充分發揮了最強模型的力量。支持OpenAI流式輸出，並可在您喜愛的ChatBox上運行！
  * [openai](https://github.com/azure-samples/openai) - 所有Azure OpenAI樣本的存儲庫，補充OpenAI食譜。
+ * [openai-java](https://github.com/openai/openai-java) - OpenAI API 的官方 Java 库
 
 
 ## Others

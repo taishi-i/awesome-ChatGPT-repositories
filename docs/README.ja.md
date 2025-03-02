@@ -15,19 +15,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [hollama](https://github.com/fmaclen/hollama) - Ollama（およびOpenAI）サーバーと対話するための最小限のWeb-UI
+**Prompts**
+ * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍は、LLMアプリケーション向けのオープンソースのエンドツーエンドの可観測性ツールであり、人気のあるLLM、LLMフレームワーク、ベクターデータベースなどに対してリアルタイムのトレース、評価、メトリクスを提供します。Typescript、Pythonを使用して統合できます。🚀💻📊
 
 
-**Langchain**
- * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AIが株式分析をサポート：自分で選んだ株の市況情報を取得し、コストと利益を表示し、価格の変動に関する警告をプッシュ通知します。市場全体や個別株の感情分析、ローソク足テクニカル指標分析などをサポートします。データはすべてローカルに保存されます。DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、Silicon Mobility、Volcano Ark、Alibaba Cloud Hundred Refinementsなどのプラットフォームやモデルをサポートしています。
+**CLIs**
+ * [lumen](https://github.com/jnsahaj/lumen) - インスタントAI Gitコミットメッセージ、CLIからのGit変更の要約（APIキーは不要）
 
 
-**Others**
- * [memobase](https://github.com/memodb-io/memobase) - AIアプリケーション向けのプロファイルベースの長期記憶
+**NLP**
+ * [AIaW](https://github.com/nitrorcr/aiaw) - AI as Workspace - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
+ * [uni-api](https://github.com/yym68686/uni-api) - これはLLM APIの管理を統一するプロジェクトです。統一されたAPIインターフェースを介して複数のバックエンドサービスを呼び出し、それらを一貫したOpenAI形式に変換し、ロードバランシングをサポートすることができます。現在サポートされているバックエンドサービスには、OpenAIが含まれています。
+ * [paperless-gpt](https://github.com/icereed/paperless-gpt) - LLMとLLM Vision（OCR）を使用して、AIによって強化されたペーパーレス-ngx - 文書デジタル化を処理します。
 
 
-_Updated on February 27, 2025_ (A total of 2003 repositories listed.)
+**Openai**
+ * [openai-java](https://github.com/openai/openai-java) - OpenAI APIの公式Javaライブラリ
+
+
+_Updated on March 03, 2025_ (A total of 2009 repositories listed.)
 
 ## Table of contents
 
@@ -283,6 +289,7 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [LangChain](https://github.com/tryagi/langchain) - LangChainのC#実装。抽象化に関して可能な限りオリジナルに近づこうと努めていますが、新しいエンティティにもオープンです。
  * [Kiln](https://github.com/kiln-ai/kiln) - LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。
  * [JamAIBase](https://github.com/embeddedllm/jamaibase) - AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。
+ * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍は、LLMアプリケーション向けのオープンソースのエンドツーエンドの可観測性ツールであり、人気のあるLLM、LLMフレームワーク、ベクターデータベースなどに対してリアルタイムのトレース、評価、メトリクスを提供します。Typescript、Pythonを使用して統合できます。🚀💻📊
 
 
 ## Chatbots
@@ -943,6 +950,7 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - 複数のLLMからの回答を一度にサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポート。Material3＆Composeで設計されています。
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - Unity向けの非公式OpenAI Restクライアント（UPM）
  * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI
+ * [lumen](https://github.com/jnsahaj/lumen) - インスタントAI Gitコミットメッセージ、CLIからのGit変更の要約（APIキーは不要）
 
 
 ## Reimplementations
@@ -1310,6 +1318,9 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Pythonにおけるプライベートデータに対する理由の代替としての深い研究
  * [bailing](https://github.com/wwbin2017/bailing) - 百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。
  * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - 脳内ビデオジェネレーターのテキスト。お気に入りのパーソナリティから任意のトピックについて学ぶ 😼。
+ * [AIaW](https://github.com/nitrorcr/aiaw) - AI as Workspace - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
+ * [uni-api](https://github.com/yym68686/uni-api) - これはLLM APIの管理を統一するプロジェクトです。統一されたAPIインターフェースを介して複数のバックエンドサービスを呼び出し、それらを一貫したOpenAI形式に変換し、ロードバランシングをサポートすることができます。現在サポートされているバックエンドサービスには、OpenAIが含まれています。
+ * [paperless-gpt](https://github.com/icereed/paperless-gpt) - LLMとLLM Vision（OCR）を使用して、AIによって強化されたペーパーレス-ngx - 文書デジタル化を処理します。
 
 
 ## Langchain
@@ -1688,6 +1699,7 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [note-gen](https://github.com/codexu/note-gen) - 記録と執筆に特化したクロスプラットフォームAIノート
  * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！
  * [openai](https://github.com/azure-samples/openai) - すべてのAzure OpenAIサンプルのリポジトリは、OpenAIクックブックを補完します。
+ * [openai-java](https://github.com/openai/openai-java) - OpenAI APIの公式Javaライブラリ
 
 
 ## Others
