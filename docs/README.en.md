@@ -15,19 +15,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
+**Prompts**
+ * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊
 
 
-**Langchain**
- * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI Empowered Stock Analysis: Obtain selected stock market quotes, display cost profit and loss, receive alerts for price changes, analyze overall market/individual stock sentiment, and analyze K-line technical indicators, etc. All data is kept locally. Supports platforms or models such as DeepSeek, OpenAI, Ollama, LMStudio, AnythingLLM, Silicon Mobility, Volcano Ark, Aliyun Bailian, etc.
+**CLIs**
+ * [lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
 
 
-**Others**
- * [memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications
+**NLP**
+ * [AIaW](https://github.com/nitrorcr/aiaw) - AI as Workspace - A carefully designed AI (LLM) client. Full-featured, lightweight; supports multiple workspaces, plugin system, cross-platform, local-first + real-time cloud synchronization, Artifacts.
+ * [uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI,
+ * [paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
 
-_Updated on February 27, 2025_ (A total of 2003 repositories listed.)
+**Openai**
+ * [openai-java](https://github.com/openai/openai-java) - The official Java library for the OpenAI API
+
+
+_Updated on March 03, 2025_ (A total of 2009 repositories listed.)
 
 ## Table of contents
 
@@ -283,6 +289,7 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [LangChain](https://github.com/tryagi/langchain) - C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.
  * [Kiln](https://github.com/kiln-ai/kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
  * [JamAIBase](https://github.com/embeddedllm/jamaibase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.
+ * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊
 
 
 ## Chatbots
@@ -943,6 +950,7 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - Chat app for Android that supports answers from multiple LLMs at once. Bring your own API key AI client. Supports OpenAI, Anthropic, Google, and Ollama. Designed with Material3 & Compose.
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - A Non-Official OpenAI Rest Client for Unity (UPM)
  * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
+ * [lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
 
 
 ## Reimplementations
@@ -1310,6 +1318,9 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [deep-searcher](https://github.com/zilliztech/deep-searcher) - Deep Research Alternative to Reason on Private Data in Python
  * [bailing](https://github.com/wwbin2017/bailing) - Bailing is a speech dialogue robot similar to GPT-4o, implemented through ASR+LLM+TTS, integrating excellent large models such as DeepSeek R1, with a latency as low as 800ms. It can run on low configurations and supports interruption.
  * [brainrot.js](https://github.com/brainrotjs/brainrot.js) - Text to video generator in the brainrot form. Learn about any topic from your favorite personalities 😼.
+ * [AIaW](https://github.com/nitrorcr/aiaw) - AI as Workspace - A carefully designed AI (LLM) client. Full-featured, lightweight; supports multiple workspaces, plugin system, cross-platform, local-first + real-time cloud synchronization, Artifacts.
+ * [uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI,
+ * [paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 
 
 ## Langchain
@@ -1688,6 +1699,7 @@ _Updated on February 27, 2025_ (A total of 2003 repositories listed.)
  * [note-gen](https://github.com/codexu/note-gen) - A cross-platform AI note-taking app focused on recording and writing.
  * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!
  * [openai](https://github.com/azure-samples/openai) - The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.
+ * [openai-java](https://github.com/openai/openai-java) - The official Java library for the OpenAI API
 
 
 ## Others

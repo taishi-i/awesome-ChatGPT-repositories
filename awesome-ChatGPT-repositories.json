@@ -5660,6 +5660,35 @@
                     "zh-hans": "用于人工智能的协作电子表格。将单元格链接成强大的管道，尝试不同的提示和模型，并实时评估LLM的响应。无缝合作，共同构建和迭代人工智能应用程序。",
                     "zh-hant": "用於人工智慧的協作試算表。將單元格鏈接成強大的管道，通過提示和模型進行實驗，並即時評估LLM的回應。無縫合作，共同建立和迭代人工智慧應用程序。"
                 }
+            },
+            "https://github.com/scale3-labs/langtrace": {
+                "repository_name": "langtrace",
+                "user_name": "Scale3-Labs",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊",
+                "topics": [
+                    "ai",
+                    "datasets",
+                    "evaluations",
+                    "gpt",
+                    "langchain",
+                    "llm",
+                    "llm-framework",
+                    "llmops",
+                    "observability",
+                    "open-source",
+                    "open-telemetry",
+                    "openai",
+                    "prompt-engineering",
+                    "tracing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊",
+                    "ja": "Langtrace 🔍は、LLMアプリケーション向けのオープンソースのエンドツーエンドの可観測性ツールであり、人気のあるLLM、LLMフレームワーク、ベクターデータベースなどに対してリアルタイムのトレース、評価、メトリクスを提供します。Typescript、Pythonを使用して統合できます。🚀💻📊",
+                    "zh-hans": "Langtrace 🔍 是一个基于开放遥测的开源端到端观测工具，用于LLM应用程序，为流行的LLM、LLM框架、向量数据库等提供实时跟踪、评估和指标。使用Typescript、Python进行集成。🚀💻📊",
+                    "zh-hant": "Langtrace 🔍 是一個開源的、基於 Open Telemetry 的端到端觀測工具，用於LLM應用程序，為流行的LLM、LLM框架、向量數據庫等提供實時追蹤、評估和指標。使用Typescript、Python進行集成。🚀💻📊"
+                }
             }
         },
         "Chatbots": {
@@ -21071,6 +21100,27 @@
                     "zh-hans": "一个使用Ollama和LM Studio模型（Llava，Gemma，Llama等）的Node.js CLI，可以根据文件内容智能地重命名文件。",
                     "zh-hant": "一個使用Ollama和LM Studio模型（Llava、Gemma、Llama等）的Node.js CLI，可以根據文件內容智能地重新命名文件。"
                 }
+            },
+            "https://github.com/jnsahaj/lumen": {
+                "repository_name": "lumen",
+                "user_name": "jnsahaj",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "Instant AI Git Commit message, Git changes summary from the CLI (no API key required)",
+                "topics": [
+                    "cli",
+                    "commit",
+                    "git",
+                    "llm",
+                    "openai",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Instant AI Git Commit message, Git changes summary from the CLI (no API key required)",
+                    "ja": "インスタントAI Gitコミットメッセージ、CLIからのGit変更の要約（APIキーは不要）",
+                    "zh-hans": "即时AI Git提交消息，Git更改摘要来自CLI（无需API密钥）",
+                    "zh-hant": "即時AI Git提交消息，從CLI中的Git更改摘要（無需API密鑰）"
+                }
             }
         },
         "Reimplementations": {
@@ -28833,6 +28883,74 @@
                     "ja": "脳内ビデオジェネレーターのテキスト。お気に入りのパーソナリティから任意のトピックについて学ぶ 😼。",
                     "zh-hans": "大脑形式的文本到视频生成器。从您喜爱的名人那里学习任何主题 😼。",
                     "zh-hant": "在腦部形式中生成文本到視頻的工具。從您喜愛的名人那裡學習任何主題 😼。"
+                }
+            },
+            "https://github.com/nitrorcr/aiaw": {
+                "repository_name": "AIaW",
+                "user_name": "NitroRCr",
+                "language": "Vue",
+                "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "description": "AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "claude",
+                    "docker",
+                    "function-calling",
+                    "llm",
+                    "local-first",
+                    "openai",
+                    "pwa",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI as Workspace - A carefully designed AI (LLM) client. Full-featured, lightweight; supports multiple workspaces, plugin system, cross-platform, local-first + real-time cloud synchronization, Artifacts.",
+                    "ja": "AI as Workspace - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts",
+                    "zh-hans": "AI作为工作空间 - 精心设计的AI（LLM）客户端。全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts",
+                    "zh-hant": "AI作为工作空间 - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts"
+                }
+            },
+            "https://github.com/yym68686/uni-api": {
+                "repository_name": "uni-api",
+                "user_name": "yym68686",
+                "language": "Python",
+                "license": null,
+                "description": "This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.",
+                "topics": [
+                    "claude",
+                    "gemini",
+                    "new-api",
+                    "one-api",
+                    "openai",
+                    "uni-api",
+                    "vertex"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI,",
+                    "ja": "これはLLM APIの管理を統一するプロジェクトです。統一されたAPIインターフェースを介して複数のバックエンドサービスを呼び出し、それらを一貫したOpenAI形式に変換し、ロードバランシングをサポートすることができます。現在サポートされているバックエンドサービスには、OpenAIが含まれています。",
+                    "zh-hans": "这是一个统一管理LLM API的项目。它可以通过统一的API接口调用多个后端服务，将它们统一转换为OpenAI格式，并支持负载均衡。目前支持的后端服务包括：OpenAI。",
+                    "zh-hant": "這是一個統一管理LLM API的專案。它可以通過統一的API接口調用多個後端服務，將它們統一轉換為OpenAI格式，並支持負載平衡。目前支持的後端服務包括：OpenAI。"
+                }
+            },
+            "https://github.com/icereed/paperless-gpt": {
+                "repository_name": "paperless-gpt",
+                "user_name": "icereed",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "llm",
+                    "ollama",
+                    "paperless",
+                    "paperless-ngx"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI",
+                    "ja": "LLMとLLM Vision（OCR）を使用して、AIによって強化されたペーパーレス-ngx - 文書デジタル化を処理します。",
+                    "zh-hans": "使用LLMs和LLM Vision（OCR）来处理无纸化-ngx-由人工智能驱动的文档数字化",
+                    "zh-hant": "使用LLMs和LLM Vision（OCR）來處理無紙化-ngx-由人工智慧驅動的文件數位化"
                 }
             }
         },
@@ -37106,6 +37224,20 @@
                     "ja": "すべてのAzure OpenAIサンプルのリポジトリは、OpenAIクックブックを補完します。",
                     "zh-hans": "所有Azure OpenAI示例的存储库，补充OpenAI食谱。",
                     "zh-hant": "所有Azure OpenAI樣本的存儲庫，補充OpenAI食譜。"
+                }
+            },
+            "https://github.com/openai/openai-java": {
+                "repository_name": "openai-java",
+                "user_name": "openai",
+                "language": "Kotlin",
+                "license": "Apache License 2.0",
+                "description": "The official Java library for the OpenAI API",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The official Java library for the OpenAI API",
+                    "ja": "OpenAI APIの公式Javaライブラリ",
+                    "zh-hans": "OpenAI API的官方Java库",
+                    "zh-hant": "OpenAI API 的官方 Java 库"
                 }
             }
         },
