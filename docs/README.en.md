@@ -16,24 +16,27 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊
+ * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - Learn Modern AI Assisted Python with Type Hints
+
+
+**Chatbots**
+ * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 
 
 **CLIs**
- * [lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
+ * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests
 
 
 **NLP**
- * [AIaW](https://github.com/nitrorcr/aiaw) - AI as Workspace - A carefully designed AI (LLM) client. Full-featured, lightweight; supports multiple workspaces, plugin system, cross-platform, local-first + real-time cloud synchronization, Artifacts.
- * [uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI,
- * [paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+ * [anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
 
 
 **Openai**
- * [openai-java](https://github.com/openai/openai-java) - The official Java library for the OpenAI API
+ * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - deepseek java sdk
+ * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code
 
 
-_Updated on March 03, 2025_ (A total of 2009 repositories listed.)
+_Updated on March 06, 2025_ (A total of 2015 repositories listed.)
 
 ## Table of contents
 
@@ -290,6 +293,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [Kiln](https://github.com/kiln-ai/kiln) - The easiest tool for fine-tuning LLM models, synthetic data generation, and collaborating on datasets.
  * [JamAIBase](https://github.com/embeddedllm/jamaibase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊
+ * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - Learn Modern AI Assisted Python with Type Hints
 
 
 ## Chatbots
@@ -588,6 +592,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - (Supports DeepSeek R1) An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS,
  * [hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
+ * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
 
 
 ## Browser-extensions
@@ -951,6 +956,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - A Non-Official OpenAI Rest Client for Unity (UPM)
  * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
  * [lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
+ * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests
 
 
 ## Reimplementations
@@ -1321,6 +1327,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [AIaW](https://github.com/nitrorcr/aiaw) - AI as Workspace - A carefully designed AI (LLM) client. Full-featured, lightweight; supports multiple workspaces, plugin system, cross-platform, local-first + real-time cloud synchronization, Artifacts.
  * [uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI,
  * [paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
+ * [anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
 
 
 ## Langchain
@@ -1700,6 +1707,8 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1 and Claude 3.5 Sonnet achieve the best combination, fully unleashing the power of the strongest models. Supports OpenAI streaming output and can run on your favorite ChatBox!
  * [openai](https://github.com/azure-samples/openai) - The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.
  * [openai-java](https://github.com/openai/openai-java) - The official Java library for the OpenAI API
+ * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - deepseek java sdk
+ * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code
 
 
 ## Others
