@@ -16,24 +16,27 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍は、LLMアプリケーション向けのオープンソースのエンドツーエンドの可観測性ツールであり、人気のあるLLM、LLMフレームワーク、ベクターデータベースなどに対してリアルタイムのトレース、評価、メトリクスを提供します。Typescript、Pythonを使用して統合できます。🚀💻📊
+ * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - タイプヒントを使用した現代のAIアシストPythonの学習
+
+
+**Chatbots**
+ * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants APIのNext.jsクイックスタート。
 
 
 **CLIs**
- * [lumen](https://github.com/jnsahaj/lumen) - インスタントAI Gitコミットメッセージ、CLIからのGit変更の要約（APIキーは不要）
+ * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutterテンプレートを使用したFastAPIプロジェクトの機械学習、uv、Github Actions、およびPytests
 
 
 **NLP**
- * [AIaW](https://github.com/nitrorcr/aiaw) - AI as Workspace - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
- * [uni-api](https://github.com/yym68686/uni-api) - これはLLM APIの管理を統一するプロジェクトです。統一されたAPIインターフェースを介して複数のバックエンドサービスを呼び出し、それらを一貫したOpenAI形式に変換し、ロードバランシングをサポートすることができます。現在サポートされているバックエンドサービスには、OpenAIが含まれています。
- * [paperless-gpt](https://github.com/icereed/paperless-gpt) - LLMとLLM Vision（OCR）を使用して、AIによって強化されたペーパーレス-ngx - 文書デジタル化を処理します。
+ * [anon-kode](https://github.com/dnakov/anon-kode) - 任意のLLMsでコーディング
 
 
 **Openai**
- * [openai-java](https://github.com/openai/openai-java) - OpenAI APIの公式Javaライブラリ
+ * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - ディープシークJava SDK
+ * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Stable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コードStable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コード
 
 
-_Updated on March 03, 2025_ (A total of 2009 repositories listed.)
+_Updated on March 06, 2025_ (A total of 2015 repositories listed.)
 
 ## Table of contents
 
@@ -290,6 +293,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [Kiln](https://github.com/kiln-ai/kiln) - LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。
  * [JamAIBase](https://github.com/embeddedllm/jamaibase) - AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍は、LLMアプリケーション向けのオープンソースのエンドツーエンドの可観測性ツールであり、人気のあるLLM、LLMフレームワーク、ベクターデータベースなどに対してリアルタイムのトレース、評価、メトリクスを提供します。Typescript、Pythonを使用して統合できます。🚀💻📊
+ * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - タイプヒントを使用した現代のAIアシストPythonの学習
 
 
 ## Chatbots
@@ -588,6 +592,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。（DeepSeek R1をサポート）検索エンジン、ウェブスクレイピング、および大規模な言語モデルを組み合わせて、任意のトピックについて反復的で深い研究を行うAIパワードの研究アシスタント。
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - 音声処理用のGradio WebUI、Whisper（OpenAI-Whisper、Faster-Whisper、Whisper-Timestamped）によって動作します。Voice Changer（RVC）、zero-shot Voice Cloning（E2、F5-TTS、CosyVoice）、YouTube ダウンロード、ボーカル分離（UVR5）、テキスト読み上げ（Edge-TTS）などの機能があります。
  * [hollama](https://github.com/fmaclen/hollama) - Ollama（およびOpenAI）サーバーと対話するための最小限のWeb-UI
+ * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants APIのNext.jsクイックスタート。
 
 
 ## Browser-extensions
@@ -951,6 +956,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - Unity向けの非公式OpenAI Restクライアント（UPM）
  * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI
  * [lumen](https://github.com/jnsahaj/lumen) - インスタントAI Gitコミットメッセージ、CLIからのGit変更の要約（APIキーは不要）
+ * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutterテンプレートを使用したFastAPIプロジェクトの機械学習、uv、Github Actions、およびPytests
 
 
 ## Reimplementations
@@ -1321,6 +1327,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [AIaW](https://github.com/nitrorcr/aiaw) - AI as Workspace - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
  * [uni-api](https://github.com/yym68686/uni-api) - これはLLM APIの管理を統一するプロジェクトです。統一されたAPIインターフェースを介して複数のバックエンドサービスを呼び出し、それらを一貫したOpenAI形式に変換し、ロードバランシングをサポートすることができます。現在サポートされているバックエンドサービスには、OpenAIが含まれています。
  * [paperless-gpt](https://github.com/icereed/paperless-gpt) - LLMとLLM Vision（OCR）を使用して、AIによって強化されたペーパーレス-ngx - 文書デジタル化を処理します。
+ * [anon-kode](https://github.com/dnakov/anon-kode) - 任意のLLMsでコーディング
 
 
 ## Langchain
@@ -1700,6 +1707,8 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！
  * [openai](https://github.com/azure-samples/openai) - すべてのAzure OpenAIサンプルのリポジトリは、OpenAIクックブックを補完します。
  * [openai-java](https://github.com/openai/openai-java) - OpenAI APIの公式Javaライブラリ
+ * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - ディープシークJava SDK
+ * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Stable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コードStable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コード
 
 
 ## Others

@@ -16,24 +16,27 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 是一個開源的、基於 Open Telemetry 的端到端觀測工具，用於LLM應用程序，為流行的LLM、LLM框架、向量數據庫等提供實時追蹤、評估和指標。使用Typescript、Python進行集成。🚀💻📊
+ * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - 學習現代AI輔助Python與類型提示
+
+
+**Chatbots**
+ * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - 使用Next.js快速開始OpenAI助手API。
 
 
 **CLIs**
- * [lumen](https://github.com/jnsahaj/lumen) - 即時AI Git提交消息，從CLI中的Git更改摘要（無需API密鑰）
+ * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - 使用Cookiecutter模板快速建立FastAPI项目，包括：机器学习、uv、Github Actions和Pytests。
 
 
 **NLP**
- * [AIaW](https://github.com/nitrorcr/aiaw) - AI作为工作空间 - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
- * [uni-api](https://github.com/yym68686/uni-api) - 這是一個統一管理LLM API的專案。它可以通過統一的API接口調用多個後端服務，將它們統一轉換為OpenAI格式，並支持負載平衡。目前支持的後端服務包括：OpenAI。
- * [paperless-gpt](https://github.com/icereed/paperless-gpt) - 使用LLMs和LLM Vision（OCR）來處理無紙化-ngx-由人工智慧驅動的文件數位化
+ * [anon-kode](https://github.com/dnakov/anon-kode) - 使用任何LLMs進行編碼
 
 
 **Openai**
- * [openai-java](https://github.com/openai/openai-java) - OpenAI API 的官方 Java 库
+ * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - 深度搜索 Java SDK
+ * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Stable-Baselines3的Contrib套件 - 實驗性強化學習（RL）代碼Stable-Baselines3的Contrib套件 - 實驗性強化學習（RL）代碼
 
 
-_Updated on March 03, 2025_ (A total of 2009 repositories listed.)
+_Updated on March 06, 2025_ (A total of 2015 repositories listed.)
 
 ## Table of contents
 
@@ -290,6 +293,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [Kiln](https://github.com/kiln-ai/kiln) - 微調LLM模型、合成數據生成和協作數據集的最簡單工具。
  * [JamAIBase](https://github.com/embeddedllm/jamaibase) - 用於人工智慧的協作試算表。將單元格鏈接成強大的管道，通過提示和模型進行實驗，並即時評估LLM的回應。無縫合作，共同建立和迭代人工智慧應用程序。
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 是一個開源的、基於 Open Telemetry 的端到端觀測工具，用於LLM應用程序，為流行的LLM、LLM框架、向量數據庫等提供實時追蹤、評估和指標。使用Typescript、Python進行集成。🚀💻📊
+ * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - 學習現代AI輔助Python與類型提示
 
 
 ## Chatbots
@@ -588,6 +592,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - （支持DeepSeek R1）一個由人工智慧驅動的研究助手，通過結合搜索引擎、網絡抓取和大型語言模型，在任何主題上進行迭代、深入的研究。
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI 音頻處理，由 Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped) 驅動。功能包括 Voice Changer(RVC)、零樣本語音克隆 (E2, F5-TTS, CosyVoice)、YouTube 下載、聲音隔離(UVR5)、文本轉語音 (Edge-TTS)。
  * [hollama](https://github.com/fmaclen/hollama) - 一個最簡化的網頁UI，用於與Ollama（和OpenAI）伺服器進行對話
+ * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - 使用Next.js快速開始OpenAI助手API。
 
 
 ## Browser-extensions
@@ -951,6 +956,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - 一個非官方的OpenAI Rest客戶端，適用於Unity (UPM)
  * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - 一個使用Ollama和LM Studio模型（Llava、Gemma、Llama等）的Node.js CLI，可以根據文件內容智能地重新命名文件。
  * [lumen](https://github.com/jnsahaj/lumen) - 即時AI Git提交消息，從CLI中的Git更改摘要（無需API密鑰）
+ * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - 使用Cookiecutter模板快速建立FastAPI项目，包括：机器学习、uv、Github Actions和Pytests。
 
 
 ## Reimplementations
@@ -1321,6 +1327,7 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [AIaW](https://github.com/nitrorcr/aiaw) - AI作为工作空间 - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
  * [uni-api](https://github.com/yym68686/uni-api) - 這是一個統一管理LLM API的專案。它可以通過統一的API接口調用多個後端服務，將它們統一轉換為OpenAI格式，並支持負載平衡。目前支持的後端服務包括：OpenAI。
  * [paperless-gpt](https://github.com/icereed/paperless-gpt) - 使用LLMs和LLM Vision（OCR）來處理無紙化-ngx-由人工智慧驅動的文件數位化
+ * [anon-kode](https://github.com/dnakov/anon-kode) - 使用任何LLMs進行編碼
 
 
 ## Langchain
@@ -1700,6 +1707,8 @@ _Updated on March 03, 2025_ (A total of 2009 repositories listed.)
  * [DeepClaude](https://github.com/erlichliu/deepclaude) - DeepSeek r1和Claude 3.5 Sonnet實現了最佳組合，充分發揮了最強模型的力量。支持OpenAI流式輸出，並可在您喜愛的ChatBox上運行！
  * [openai](https://github.com/azure-samples/openai) - 所有Azure OpenAI樣本的存儲庫，補充OpenAI食譜。
  * [openai-java](https://github.com/openai/openai-java) - OpenAI API 的官方 Java 库
+ * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - 深度搜索 Java SDK
+ * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Stable-Baselines3的Contrib套件 - 實驗性強化學習（RL）代碼Stable-Baselines3的Contrib套件 - 實驗性強化學習（RL）代碼
 
 
 ## Others

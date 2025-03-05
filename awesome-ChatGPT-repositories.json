@@ -5689,6 +5689,31 @@
                     "zh-hans": "Langtrace 🔍 是一个基于开放遥测的开源端到端观测工具，用于LLM应用程序，为流行的LLM、LLM框架、向量数据库等提供实时跟踪、评估和指标。使用Typescript、Python进行集成。🚀💻📊",
                     "zh-hant": "Langtrace 🔍 是一個開源的、基於 Open Telemetry 的端到端觀測工具，用於LLM應用程序，為流行的LLM、LLM框架、向量數據庫等提供實時追蹤、評估和指標。使用Typescript、Python進行集成。🚀💻📊"
                 }
+            },
+            "https://github.com/panaversity/learn-modern-ai-python": {
+                "repository_name": "learn-modern-ai-python",
+                "user_name": "panaversity",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Learn Modern AI Assisted Python with Type Hints",
+                "topics": [
+                    "agentic-ai",
+                    "ai-python",
+                    "chatgpt",
+                    "colab",
+                    "devcontainers",
+                    "docker",
+                    "generative-ai",
+                    "linux",
+                    "prompt-engineering",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Learn Modern AI Assisted Python with Type Hints",
+                    "ja": "タイプヒントを使用した現代のAIアシストPythonの学習",
+                    "zh-hans": "学习现代AI辅助Python与类型提示",
+                    "zh-hant": "學習現代AI輔助Python與類型提示"
+                }
             }
         },
         "Chatbots": {
@@ -12900,6 +12925,20 @@
                     "ja": "Ollama（およびOpenAI）サーバーと対話するための最小限のWeb-UI",
                     "zh-hans": "一个用于与Ollama（和OpenAI）服务器交流的最简化网络用户界面",
                     "zh-hant": "一個最簡化的網頁UI，用於與Ollama（和OpenAI）伺服器進行對話"
+                }
+            },
+            "https://github.com/openai/openai-assistants-quickstart": {
+                "repository_name": "openai-assistants-quickstart",
+                "user_name": "openai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "OpenAI Assistants API quickstart with Next.js.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI Assistants API quickstart with Next.js.",
+                    "ja": "OpenAI Assistants APIのNext.jsクイックスタート。",
+                    "zh-hans": "使用Next.js快速开始OpenAI Assistants API。",
+                    "zh-hant": "使用Next.js快速開始OpenAI助手API。"
                 }
             }
         },
@@ -21121,6 +21160,40 @@
                     "zh-hans": "即时AI Git提交消息，Git更改摘要来自CLI（无需API密钥）",
                     "zh-hant": "即時AI Git提交消息，從CLI中的Git更改摘要（無需API密鑰）"
                 }
+            },
+            "https://github.com/arthurhenrique/cookiecutter-fastapi": {
+                "repository_name": "cookiecutter-fastapi",
+                "user_name": "arthurhenrique",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests",
+                "topics": [
+                    "ai",
+                    "black",
+                    "boilerplate",
+                    "cli",
+                    "cookiecutter",
+                    "cookiecutter-fastapi",
+                    "deep-learning",
+                    "docker",
+                    "fastapi",
+                    "fastapi-boilerplate",
+                    "hacktoberfest",
+                    "llm",
+                    "machine-learning",
+                    "ml",
+                    "mlops",
+                    "neural-network",
+                    "openai",
+                    "python",
+                    "uv"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests",
+                    "ja": "Cookiecutterテンプレートを使用したFastAPIプロジェクトの機械学習、uv、Github Actions、およびPytests",
+                    "zh-hans": "使用Cookiecutter模板创建FastAPI项目，包括：机器学习、uv、Github Actions和Pytests。",
+                    "zh-hant": "使用Cookiecutter模板快速建立FastAPI项目，包括：机器学习、uv、Github Actions和Pytests。"
+                }
             }
         },
         "Reimplementations": {
@@ -28951,6 +29024,26 @@
                     "ja": "LLMとLLM Vision（OCR）を使用して、AIによって強化されたペーパーレス-ngx - 文書デジタル化を処理します。",
                     "zh-hans": "使用LLMs和LLM Vision（OCR）来处理无纸化-ngx-由人工智能驱动的文档数字化",
                     "zh-hant": "使用LLMs和LLM Vision（OCR）來處理無紙化-ngx-由人工智慧驅動的文件數位化"
+                }
+            },
+            "https://github.com/dnakov/anon-kode": {
+                "repository_name": "anon-kode",
+                "user_name": "dnakov",
+                "language": "JavaScript",
+                "license": "Other",
+                "description": "koding with any LLMs",
+                "topics": [
+                    "ai",
+                    "code",
+                    "llm",
+                    "ollama",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "koding with any LLMs",
+                    "ja": "任意のLLMsでコーディング",
+                    "zh-hans": "使用任何LLMs进行编码",
+                    "zh-hant": "使用任何LLMs進行編碼"
                 }
             }
         },
@@ -37238,6 +37331,54 @@
                     "ja": "OpenAI APIの公式Javaライブラリ",
                     "zh-hans": "OpenAI API的官方Java库",
                     "zh-hant": "OpenAI API 的官方 Java 库"
+                }
+            },
+            "https://github.com/pig-mesh/deepseek4j": {
+                "repository_name": "deepseek4j",
+                "user_name": "pig-mesh",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "deepseek java sdk ",
+                "topics": [
+                    "deepseek",
+                    "deepseek-r1",
+                    "java",
+                    "openai",
+                    "spring-boot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "deepseek java sdk",
+                    "ja": "ディープシークJava SDK",
+                    "zh-hans": "深度搜索Java SDK",
+                    "zh-hant": "深度搜索 Java SDK"
+                }
+            },
+            "https://github.com/stable-baselines-team/stable-baselines3-contrib": {
+                "repository_name": "stable-baselines3-contrib",
+                "user_name": "Stable-Baselines-Team",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code",
+                "topics": [
+                    "experimental",
+                    "gsde",
+                    "gym",
+                    "machine-learning",
+                    "openai",
+                    "pytorch",
+                    "reinforcement-learning",
+                    "reinforcement-learning-algorithms",
+                    "research",
+                    "rl",
+                    "robotics",
+                    "sde",
+                    "stable-baselines"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code",
+                    "ja": "Stable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コードStable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コード",
+                    "zh-hans": "稳定基线3的Contrib软件包 - 实验性强化学习（RL）代码",
+                    "zh-hant": "Stable-Baselines3的Contrib套件 - 實驗性強化學習（RL）代碼Stable-Baselines3的Contrib套件 - 實驗性強化學習（RL）代碼"
                 }
             }
         },
