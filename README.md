@@ -15,28 +15,12 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - Learn Modern AI Assisted Python with Type Hints
-
-
-**Chatbots**
- * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
-
-
-**CLIs**
- * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests
-
-
 **NLP**
- * [anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
+ * [prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
+ * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 
 
-**Openai**
- * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - deepseek java sdk
- * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code
-
-
-_Updated on March 06, 2025_ (A total of 2015 repositories listed.)
+_Updated on March 10, 2025_ (A total of 2017 repositories listed.)
 
 ## Table of contents
 
@@ -1328,6 +1312,8 @@ _Updated on March 06, 2025_ (A total of 2015 repositories listed.)
  * [uni-api](https://github.com/yym68686/uni-api) - This is a project that unifies the management of LLM APIs. It can call multiple backend services through a unified API interface, convert them to the OpenAI format uniformly, and support load balancing. Currently supported backend services include: OpenAI, Anthropic, DeepBricks, OpenRouter, Gemini, Vertex, etc.
  * [paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
  * [anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
+ * [prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
+ * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
 
 
 ## Langchain
