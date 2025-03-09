@@ -29045,6 +29045,50 @@
                     "zh-hans": "使用任何LLMs进行编码",
                     "zh-hant": "使用任何LLMs進行編碼"
                 }
+            },
+            "https://github.com/prism-php/prism": {
+                "repository_name": "prism",
+                "user_name": "prism-php",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "A unified interface for working with LLMs in Laravel",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "claude",
+                    "laravel",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "php"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A unified interface for working with LLMs in Laravel",
+                    "ja": "LaravelでLLMを操作するための統一されたインターフェース",
+                    "zh-hans": "Laravel中用于处理LLMs的统一接口",
+                    "zh-hant": "在Laravel中使用LLMs的統一界面"
+                }
+            },
+            "https://github.com/tencentqqgylab/appagent": {
+                "repository_name": "AppAgent",
+                "user_name": "TencentQQGYLab",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
+                "topics": [
+                    "agent",
+                    "chatgpt",
+                    "generative-ai",
+                    "gpt4",
+                    "gpt4v",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
+                    "ja": "AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。",
+                    "zh-hans": "AppAgent：多模态代理作为智能手机用户，一种基于LLM的多模态代理框架，旨在操作智能手机应用程序。",
+                    "zh-hant": "AppAgent：多模式代理作為智能手機用戶，一個基於LLM的多模式代理框架，旨在運行智能手機應用程序。"
+                }
             }
         },
         "Langchain": {

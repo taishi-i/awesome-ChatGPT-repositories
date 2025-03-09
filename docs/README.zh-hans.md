@@ -15,28 +15,12 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - 学习现代AI辅助Python与类型提示
-
-
-**Chatbots**
- * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - 使用Next.js快速开始OpenAI Assistants API。
-
-
-**CLIs**
- * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - 使用Cookiecutter模板创建FastAPI项目，包括：机器学习、uv、Github Actions和Pytests。
-
-
 **NLP**
- * [anon-kode](https://github.com/dnakov/anon-kode) - 使用任何LLMs进行编码
+ * [prism](https://github.com/prism-php/prism) - Laravel中用于处理LLMs的统一接口
+ * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：多模态代理作为智能手机用户，一种基于LLM的多模态代理框架，旨在操作智能手机应用程序。
 
 
-**Openai**
- * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - 深度搜索Java SDK
- * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - 稳定基线3的Contrib软件包 - 实验性强化学习（RL）代码
-
-
-_Updated on March 06, 2025_ (A total of 2015 repositories listed.)
+_Updated on March 10, 2025_ (A total of 2017 repositories listed.)
 
 ## Table of contents
 
@@ -1328,6 +1312,8 @@ _Updated on March 06, 2025_ (A total of 2015 repositories listed.)
  * [uni-api](https://github.com/yym68686/uni-api) - 这是一个统一管理LLM API的项目。它可以通过统一的API接口调用多个后端服务，将它们统一转换为OpenAI格式，并支持负载均衡。目前支持的后端服务包括：OpenAI。
  * [paperless-gpt](https://github.com/icereed/paperless-gpt) - 使用LLMs和LLM Vision（OCR）来处理无纸化-ngx-由人工智能驱动的文档数字化
  * [anon-kode](https://github.com/dnakov/anon-kode) - 使用任何LLMs进行编码
+ * [prism](https://github.com/prism-php/prism) - Laravel中用于处理LLMs的统一接口
+ * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：多模态代理作为智能手机用户，一种基于LLM的多模态代理框架，旨在操作智能手机应用程序。
 
 
 ## Langchain

@@ -15,28 +15,12 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - タイプヒントを使用した現代のAIアシストPythonの学習
-
-
-**Chatbots**
- * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants APIのNext.jsクイックスタート。
-
-
-**CLIs**
- * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutterテンプレートを使用したFastAPIプロジェクトの機械学習、uv、Github Actions、およびPytests
-
-
 **NLP**
- * [anon-kode](https://github.com/dnakov/anon-kode) - 任意のLLMsでコーディング
+ * [prism](https://github.com/prism-php/prism) - LaravelでLLMを操作するための統一されたインターフェース
+ * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
 
 
-**Openai**
- * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - ディープシークJava SDK
- * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Stable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コードStable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コード
-
-
-_Updated on March 06, 2025_ (A total of 2015 repositories listed.)
+_Updated on March 10, 2025_ (A total of 2017 repositories listed.)
 
 ## Table of contents
 
@@ -1328,6 +1312,8 @@ _Updated on March 06, 2025_ (A total of 2015 repositories listed.)
  * [uni-api](https://github.com/yym68686/uni-api) - これはLLM APIの管理を統一するプロジェクトです。統一されたAPIインターフェースを介して複数のバックエンドサービスを呼び出し、それらを一貫したOpenAI形式に変換し、ロードバランシングをサポートすることができます。現在サポートされているバックエンドサービスには、OpenAIが含まれています。
  * [paperless-gpt](https://github.com/icereed/paperless-gpt) - LLMとLLM Vision（OCR）を使用して、AIによって強化されたペーパーレス-ngx - 文書デジタル化を処理します。
  * [anon-kode](https://github.com/dnakov/anon-kode) - 任意のLLMsでコーディング
+ * [prism](https://github.com/prism-php/prism) - LaravelでLLMを操作するための統一されたインターフェース
+ * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
 
 
 ## Langchain
