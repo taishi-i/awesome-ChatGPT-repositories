@@ -15,12 +15,30 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [Sidekick](https://github.com/johnbean393/sidekick) - 一个原生的macOS应用程序，允许用户与本地的LLM进行聊天，LLM可以从您的Mac上的文件、文件夹和网站中获取信息，而无需安装任何其他软件。由llama.cpp驱动。
+ * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
+
+
+**Browser-extensions**
+ * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - 开源Chrome扩展程序，用于AI驱动的网络自动化。使用您自己的LLM API密钥运行多代理工作流。是OpenAI Operator的替代方案。
+
+
+**CLIs**
+ * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。
+ * [gptme](https://github.com/gptme/gptme) - 您在终端中的代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。
+
+
 **NLP**
- * [prism](https://github.com/prism-php/prism) - Laravel中用于处理LLMs的统一接口
- * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：多模态代理作为智能手机用户，一种基于LLM的多模态代理框架，旨在操作智能手机应用程序。
+ * [openai-agents-python](https://github.com/openai/openai-agents-python) - 一个轻量级、强大的多代理工作流框架
 
 
-_Updated on March 10, 2025_ (A total of 2017 repositories listed.)
+**Openai**
+ * [hydra](https://github.com/ory/hydra) - 世界上唯一的Web规模、完全可定制的OpenID Certified™ OpenID Connect和OAuth2提供者。一夜之间成为OpenID Connect和OAuth2提供者。使用Go编写，云原生，无头，以API为先。作为Ory Network和f上的服务提供。
+ * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。 fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+
+
+_Updated on March 14, 2025_ (A total of 2025 repositories listed.)
 
 ## Table of contents
 
@@ -577,6 +595,8 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI用于音频处理，由Whisper（OpenAI-Whisper，Faster-Whisper，Whisper-Timestamped）提供支持。功能包括声音变声器（RVC），零样本语音克隆（E2，F5-TTS，CosyVoice），YouTube下载，声音隔离（UVR5），文本转语音（Edge-TTS）。
  * [hollama](https://github.com/fmaclen/hollama) - 一个用于与Ollama（和OpenAI）服务器交流的最简化网络用户界面
  * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - 使用Next.js快速开始OpenAI Assistants API。
+ * [Sidekick](https://github.com/johnbean393/sidekick) - 一个原生的macOS应用程序，允许用户与本地的LLM进行聊天，LLM可以从您的Mac上的文件、文件夹和网站中获取信息，而无需安装任何其他软件。由llama.cpp驱动。
+ * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 
 
 ## Browser-extensions
@@ -789,6 +809,7 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - 一个黑曜石插件，用于与您注重隐私的AI助手互动，使您的第二大脑变得更加智能！
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk旨在通过自动化求职流程来简化求职过程。利用人工智能，它使用户能够以个性化的方式申请多个工作。
  * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - 开源、本地化和真正的 GitHub Copilot 替代品，适用于 VS Code
+ * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - 开源Chrome扩展程序，用于AI驱动的网络自动化。使用您自己的LLM API密钥运行多代理工作流。是OpenAI Operator的替代方案。
 
 
 ## CLIs
@@ -941,6 +962,8 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - 一个使用Ollama和LM Studio模型（Llava，Gemma，Llama等）的Node.js CLI，可以根据文件内容智能地重命名文件。
  * [lumen](https://github.com/jnsahaj/lumen) - 即时AI Git提交消息，Git更改摘要来自CLI（无需API密钥）
  * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - 使用Cookiecutter模板创建FastAPI项目，包括：机器学习、uv、Github Actions和Pytests。
+ * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。
+ * [gptme](https://github.com/gptme/gptme) - 您在终端中的代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。
 
 
 ## Reimplementations
@@ -1314,6 +1337,7 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [anon-kode](https://github.com/dnakov/anon-kode) - 使用任何LLMs进行编码
  * [prism](https://github.com/prism-php/prism) - Laravel中用于处理LLMs的统一接口
  * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：多模态代理作为智能手机用户，一种基于LLM的多模态代理框架，旨在操作智能手机应用程序。
+ * [openai-agents-python](https://github.com/openai/openai-agents-python) - 一个轻量级、强大的多代理工作流框架
 
 
 ## Langchain
@@ -1695,6 +1719,8 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [openai-java](https://github.com/openai/openai-java) - OpenAI API的官方Java库
  * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - 深度搜索Java SDK
  * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - 稳定基线3的Contrib软件包 - 实验性强化学习（RL）代码
+ * [hydra](https://github.com/ory/hydra) - 世界上唯一的Web规模、完全可定制的OpenID Certified™ OpenID Connect和OAuth2提供者。一夜之间成为OpenID Connect和OAuth2提供者。使用Go编写，云原生，无头，以API为先。作为Ory Network和f上的服务提供。
+ * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。 fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 
 
 ## Others
