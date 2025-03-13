@@ -15,12 +15,30 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [Sidekick](https://github.com/johnbean393/sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
+ * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
+
+
+**Browser-extensions**
+ * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
+
+
+**CLIs**
+ * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
+ * [gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+
+
 **NLP**
- * [prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
- * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
+ * [openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 
 
-_Updated on March 10, 2025_ (A total of 2017 repositories listed.)
+**Openai**
+ * [hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
+ * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+
+
+_Updated on March 14, 2025_ (A total of 2025 repositories listed.)
 
 ## Table of contents
 
@@ -577,6 +595,8 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downloading, vocal isolation(UVR5), Text-to-Speech (Edge-TTS, kokoro), and multi-language translation. Perfect for content creators and developers.
  * [hollama](https://github.com/fmaclen/hollama) - A minimal web-UI for talking to Ollama (and OpenAI) servers
  * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
+ * [Sidekick](https://github.com/johnbean393/sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
+ * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
 
 
 ## Browser-extensions
@@ -789,6 +809,7 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
  * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
+ * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 
 
 ## CLIs
@@ -941,6 +962,8 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
  * [lumen](https://github.com/jnsahaj/lumen) - Instant AI Git Commit message, Git changes summary from the CLI (no API key required)
  * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests
+ * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
+ * [gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 
 
 ## Reimplementations
@@ -1314,6 +1337,7 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
  * [prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
  * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
+ * [openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 
 
 ## Langchain
@@ -1695,6 +1719,8 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [openai-java](https://github.com/openai/openai-java) - The official Java library for the OpenAI API
  * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - deepseek java sdk
  * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code
+ * [hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
+ * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
 
 
 ## Others

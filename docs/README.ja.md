@@ -15,12 +15,30 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [Sidekick](https://github.com/johnbean393/sidekick) - ネイティブのmacOSアプリで、ユーザーがローカルのLLMとチャットでき、Macにインストールされている他のソフトウェアをインストールせずにファイル、フォルダ、ウェブサイトから情報を取得できます。llama.cppで動作します。
+ * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 DIY可能なマルチモードAIチャットボット | 🚀 WeChat、QQ、Telegramなどのチャットプラットフォームに迅速に接続 | 🦈DeepSeek、Grok、Claude、Ollama、Gemini、OpenAIをサポート | ワークフローシステム、ウェブ検索、AIドローイング、キャラクター調整、バーチャルメイド、音声対話 |
+
+
+**Browser-extensions**
+ * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - AI パワードのウェブ自動化のためのオープンソースのChrome拡張機能。独自のLLM APIキーを使用してマルチエージェントワークフローを実行します。OpenAI Operatorの代替手段。
+
+
+**CLIs**
+ * [story-flicks](https://github.com/alecm20/story-flicks) - AI大規模モデルを使用して、ワンクリックで高解像度のストーリーショートビデオを生成します。
+ * [gptme](https://github.com/gptme/gptme) - あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。
+
+
 **NLP**
- * [prism](https://github.com/prism-php/prism) - LaravelでLLMを操作するための統一されたインターフェース
- * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
+ * [openai-agents-python](https://github.com/openai/openai-agents-python) - 軽量で強力なマルチエージェントワークフロー用のフレームワーク
 
 
-_Updated on March 10, 2025_ (A total of 2017 repositories listed.)
+**Openai**
+ * [hydra](https://github.com/ory/hydra) - 世界で唯一のウェブスケール、完全にカスタマイズ可能なOpenID Certified™ OpenID ConnectおよびOAuth2プロバイダー。一晩でOpenID ConnectおよびOAuth2プロバイダーになる。Goで書かれ、クラウドネイティブ、ヘッドレス、APIファースト。Ory Networkおよびfでサービスとして利用可能。
+ * [Fay](https://github.com/xszyou/fay) - Input: fayは、デジタル人物（2.5D、3D、モバイル、PC、ウェブ）または大規模言語モデル（OpenAI互換、DeepSeek）がビジネスシステムに接続するのを支援するエージェントフレームワークです。
+
+
+_Updated on March 14, 2025_ (A total of 2025 repositories listed.)
 
 ## Table of contents
 
@@ -577,6 +595,8 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [voice-pro](https://github.com/abus-aikorea/voice-pro) - 音声処理用のGradio WebUI、Whisper（OpenAI-Whisper、Faster-Whisper、Whisper-Timestamped）によって動作します。Voice Changer（RVC）、zero-shot Voice Cloning（E2、F5-TTS、CosyVoice）、YouTube ダウンロード、ボーカル分離（UVR5）、テキスト読み上げ（Edge-TTS）などの機能があります。
  * [hollama](https://github.com/fmaclen/hollama) - Ollama（およびOpenAI）サーバーと対話するための最小限のWeb-UI
  * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants APIのNext.jsクイックスタート。
+ * [Sidekick](https://github.com/johnbean393/sidekick) - ネイティブのmacOSアプリで、ユーザーがローカルのLLMとチャットでき、Macにインストールされている他のソフトウェアをインストールせずにファイル、フォルダ、ウェブサイトから情報を取得できます。llama.cppで動作します。
+ * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 DIY可能なマルチモードAIチャットボット | 🚀 WeChat、QQ、Telegramなどのチャットプラットフォームに迅速に接続 | 🦈DeepSeek、Grok、Claude、Ollama、Gemini、OpenAIをサポート | ワークフローシステム、ウェブ検索、AIドローイング、キャラクター調整、バーチャルメイド、音声対話 |
 
 
 ## Browser-extensions
@@ -789,6 +809,7 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。
  * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品
+ * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - AI パワードのウェブ自動化のためのオープンソースのChrome拡張機能。独自のLLM APIキーを使用してマルチエージェントワークフローを実行します。OpenAI Operatorの代替手段。
 
 
 ## CLIs
@@ -941,6 +962,8 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [ai-renamer](https://github.com/ozgrozer/ai-renamer) - OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI
  * [lumen](https://github.com/jnsahaj/lumen) - インスタントAI Gitコミットメッセージ、CLIからのGit変更の要約（APIキーは不要）
  * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutterテンプレートを使用したFastAPIプロジェクトの機械学習、uv、Github Actions、およびPytests
+ * [story-flicks](https://github.com/alecm20/story-flicks) - AI大規模モデルを使用して、ワンクリックで高解像度のストーリーショートビデオを生成します。
+ * [gptme](https://github.com/gptme/gptme) - あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。
 
 
 ## Reimplementations
@@ -1314,6 +1337,7 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [anon-kode](https://github.com/dnakov/anon-kode) - 任意のLLMsでコーディング
  * [prism](https://github.com/prism-php/prism) - LaravelでLLMを操作するための統一されたインターフェース
  * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
+ * [openai-agents-python](https://github.com/openai/openai-agents-python) - 軽量で強力なマルチエージェントワークフロー用のフレームワーク
 
 
 ## Langchain
@@ -1695,6 +1719,8 @@ _Updated on March 10, 2025_ (A total of 2017 repositories listed.)
  * [openai-java](https://github.com/openai/openai-java) - OpenAI APIの公式Javaライブラリ
  * [deepseek4j](https://github.com/pig-mesh/deepseek4j) - ディープシークJava SDK
  * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Stable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コードStable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コード
+ * [hydra](https://github.com/ory/hydra) - 世界で唯一のウェブスケール、完全にカスタマイズ可能なOpenID Certified™ OpenID ConnectおよびOAuth2プロバイダー。一晩でOpenID ConnectおよびOAuth2プロバイダーになる。Goで書かれ、クラウドネイティブ、ヘッドレス、APIファースト。Ory Networkおよびfでサービスとして利用可能。
+ * [Fay](https://github.com/xszyou/fay) - Input: fayは、デジタル人物（2.5D、3D、モバイル、PC、ウェブ）または大規模言語モデル（OpenAI互換、DeepSeek）がビジネスシステムに接続するのを支援するエージェントフレームワークです。
 
 
 ## Others
