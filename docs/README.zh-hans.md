@@ -16,29 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [Sidekick](https://github.com/johnbean393/sidekick) - 一个原生的macOS应用程序，允许用户与本地的LLM进行聊天，LLM可以从您的Mac上的文件、文件夹和网站中获取信息，而无需安装任何其他软件。由llama.cpp驱动。
- * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
-
-
-**Browser-extensions**
- * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - 开源Chrome扩展程序，用于AI驱动的网络自动化。使用您自己的LLM API密钥运行多代理工作流。是OpenAI Operator的替代方案。
-
-
-**CLIs**
- * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。
- * [gptme](https://github.com/gptme/gptme) - 您在终端中的代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。
+ * [autoMate](https://github.com/yuruotong1/automate) - 像Manus、计算机使用代理(CUA)和Omniparser一样，我们是计算机使用代理。AI驱动的本地自动化助手，使用自然语言使计算机自行工作。
 
 
 **NLP**
- * [openai-agents-python](https://github.com/openai/openai-agents-python) - 一个轻量级、强大的多代理工作流框架
+ * [ruby_llm](https://github.com/crmne/ruby_llm) - 一种令人愉悦的Ruby方式来处理人工智能。没有复杂的配置，没有复杂的回调，没有处理程序地狱 - 只有美丽、富有表现力的Ruby代码。
+
+
+**Langchain**
+ * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基于大型模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大型模型适配 OpenAI、国内主流大型模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
 
 
 **Openai**
- * [hydra](https://github.com/ory/hydra) - 世界上唯一的Web规模、完全可定制的OpenID Certified™ OpenID Connect和OAuth2提供者。一夜之间成为OpenID Connect和OAuth2提供者。使用Go编写，云原生，无头，以API为先。作为Ory Network和f上的服务提供。
- * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。 fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+ * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - 使用OpenAI Agents SDK，Autogen，CrewAI，LangGraph和知识图谱学习主动型人工智能。
 
 
-_Updated on March 14, 2025_ (A total of 2025 repositories listed.)
+_Updated on March 17, 2025_ (A total of 2029 repositories listed.)
 
 ## Table of contents
 
@@ -597,6 +590,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - 使用Next.js快速开始OpenAI Assistants API。
  * [Sidekick](https://github.com/johnbean393/sidekick) - 一个原生的macOS应用程序，允许用户与本地的LLM进行聊天，LLM可以从您的Mac上的文件、文件夹和网站中获取信息，而无需安装任何其他软件。由llama.cpp驱动。
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
+ * [autoMate](https://github.com/yuruotong1/automate) - 像Manus、计算机使用代理(CUA)和Omniparser一样，我们是计算机使用代理。AI驱动的本地自动化助手，使用自然语言使计算机自行工作。
 
 
 ## Browser-extensions
@@ -1338,6 +1332,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [prism](https://github.com/prism-php/prism) - Laravel中用于处理LLMs的统一接口
  * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：多模态代理作为智能手机用户，一种基于LLM的多模态代理框架，旨在操作智能手机应用程序。
  * [openai-agents-python](https://github.com/openai/openai-agents-python) - 一个轻量级、强大的多代理工作流框架
+ * [ruby_llm](https://github.com/crmne/ruby_llm) - 一种令人愉悦的Ruby方式来处理人工智能。没有复杂的配置，没有复杂的回调，没有处理程序地狱 - 只有美丽、富有表现力的Ruby代码。
 
 
 ## Langchain
@@ -1473,6 +1468,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [agentkit](https://github.com/bcg-x-official/agentkit) - 使用Nextjs、FastAPI和Langchain构建受限代理的入门套件
  * [reor](https://github.com/reorproject/reor) - 私人和本地的AI个人知识管理应用，适用于高熵人群。
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI，Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
+ * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基于大型模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大型模型适配 OpenAI、国内主流大型模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
 
 
 ## Unity
@@ -1721,6 +1717,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - 稳定基线3的Contrib软件包 - 实验性强化学习（RL）代码
  * [hydra](https://github.com/ory/hydra) - 世界上唯一的Web规模、完全可定制的OpenID Certified™ OpenID Connect和OAuth2提供者。一夜之间成为OpenID Connect和OAuth2提供者。使用Go编写，云原生，无头，以API为先。作为Ory Network和f上的服务提供。
  * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。 fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+ * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - 使用OpenAI Agents SDK，Autogen，CrewAI，LangGraph和知识图谱学习主动型人工智能。
 
 
 ## Others

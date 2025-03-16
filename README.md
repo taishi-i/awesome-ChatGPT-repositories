@@ -16,29 +16,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [Sidekick](https://github.com/johnbean393/sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
- * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
-
-
-**Browser-extensions**
- * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
-
-
-**CLIs**
- * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
- * [gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+ * [autoMate](https://github.com/yuruotong1/automate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 
 
 **NLP**
- * [openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+ * [ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
+
+
+**Langchain**
+ * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
 
 
 **Openai**
- * [hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
- * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+ * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using OpenAI Agents SDK, Autogen, CrewAI, LangGraph, and Knowledge Graphs.
 
 
-_Updated on March 14, 2025_ (A total of 2025 repositories listed.)
+_Updated on March 17, 2025_ (A total of 2029 repositories listed.)
 
 ## Table of contents
 
@@ -597,6 +590,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants API quickstart with Next.js.
  * [Sidekick](https://github.com/johnbean393/sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
+ * [autoMate](https://github.com/yuruotong1/automate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
 
 
 ## Browser-extensions
@@ -1338,6 +1332,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [prism](https://github.com/prism-php/prism) - A unified interface for working with LLMs in Laravel
  * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
  * [openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+ * [ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
 
 
 ## Langchain
@@ -1473,6 +1468,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [agentkit](https://github.com/bcg-x-official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
  * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
+ * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
 
 
 ## Unity
@@ -1721,6 +1717,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Contrib package for Stable-Baselines3 -  Experimental reinforcement learning (RL) code
  * [hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
  * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
+ * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using OpenAI Agents SDK, Autogen, CrewAI, LangGraph, and Knowledge Graphs.
 
 
 ## Others
