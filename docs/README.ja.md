@@ -16,29 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [Sidekick](https://github.com/johnbean393/sidekick) - ネイティブのmacOSアプリで、ユーザーがローカルのLLMとチャットでき、Macにインストールされている他のソフトウェアをインストールせずにファイル、フォルダ、ウェブサイトから情報を取得できます。llama.cppで動作します。
- * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 DIY可能なマルチモードAIチャットボット | 🚀 WeChat、QQ、Telegramなどのチャットプラットフォームに迅速に接続 | 🦈DeepSeek、Grok、Claude、Ollama、Gemini、OpenAIをサポート | ワークフローシステム、ウェブ検索、AIドローイング、キャラクター調整、バーチャルメイド、音声対話 |
-
-
-**Browser-extensions**
- * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - AI パワードのウェブ自動化のためのオープンソースのChrome拡張機能。独自のLLM APIキーを使用してマルチエージェントワークフローを実行します。OpenAI Operatorの代替手段。
-
-
-**CLIs**
- * [story-flicks](https://github.com/alecm20/story-flicks) - AI大規模モデルを使用して、ワンクリックで高解像度のストーリーショートビデオを生成します。
- * [gptme](https://github.com/gptme/gptme) - あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。
+ * [autoMate](https://github.com/yuruotong1/automate) - ManusやComputer Use Agent(CUA)、Omniparserのように、私たちはコンピュータを使用するエージェントです。自然言語を使用してコンピュータを自動化させるAI駆動のローカル自動化アシスタントです。
 
 
 **NLP**
- * [openai-agents-python](https://github.com/openai/openai-agents-python) - 軽量で強力なマルチエージェントワークフロー用のフレームワーク
+ * [ruby_llm](https://github.com/crmne/ruby_llm) - AIと一緒に作業するための楽しいRubyの方法。設定の混乱も複雑なコールバックもハンドラー地獄もありません - 美しい、表現豊かなRubyコードだけです。
+
+
+**Langchain**
+ * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 大規模モデルRAGの知識ベースを利用した知識グラフ質問応答システム。Llamaindex + VueJS + Flask + Neo4j。大規模モデルはOpenAIや国内の主要なモデルプラットフォームに適合し、ローカルでのvllmデプロイメントをサポートします。推論モデルDeepSeek-R1やネットワーク検索をサポートします。
 
 
 **Openai**
- * [hydra](https://github.com/ory/hydra) - 世界で唯一のウェブスケール、完全にカスタマイズ可能なOpenID Certified™ OpenID ConnectおよびOAuth2プロバイダー。一晩でOpenID ConnectおよびOAuth2プロバイダーになる。Goで書かれ、クラウドネイティブ、ヘッドレス、APIファースト。Ory Networkおよびfでサービスとして利用可能。
- * [Fay](https://github.com/xszyou/fay) - Input: fayは、デジタル人物（2.5D、3D、モバイル、PC、ウェブ）または大規模言語モデル（OpenAI互換、DeepSeek）がビジネスシステムに接続するのを支援するエージェントフレームワークです。
+ * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - OpenAI Agents SDK、Autogen、CrewAI、LangGraph、およびKnowledge Graphsを使用してAgentic AIを学ぶ。
 
 
-_Updated on March 14, 2025_ (A total of 2025 repositories listed.)
+_Updated on March 17, 2025_ (A total of 2029 repositories listed.)
 
 ## Table of contents
 
@@ -597,6 +590,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) - OpenAI Assistants APIのNext.jsクイックスタート。
  * [Sidekick](https://github.com/johnbean393/sidekick) - ネイティブのmacOSアプリで、ユーザーがローカルのLLMとチャットでき、Macにインストールされている他のソフトウェアをインストールせずにファイル、フォルダ、ウェブサイトから情報を取得できます。llama.cppで動作します。
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 DIY可能なマルチモードAIチャットボット | 🚀 WeChat、QQ、Telegramなどのチャットプラットフォームに迅速に接続 | 🦈DeepSeek、Grok、Claude、Ollama、Gemini、OpenAIをサポート | ワークフローシステム、ウェブ検索、AIドローイング、キャラクター調整、バーチャルメイド、音声対話 |
+ * [autoMate](https://github.com/yuruotong1/automate) - ManusやComputer Use Agent(CUA)、Omniparserのように、私たちはコンピュータを使用するエージェントです。自然言語を使用してコンピュータを自動化させるAI駆動のローカル自動化アシスタントです。
 
 
 ## Browser-extensions
@@ -1338,6 +1332,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [prism](https://github.com/prism-php/prism) - LaravelでLLMを操作するための統一されたインターフェース
  * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
  * [openai-agents-python](https://github.com/openai/openai-agents-python) - 軽量で強力なマルチエージェントワークフロー用のフレームワーク
+ * [ruby_llm](https://github.com/crmne/ruby_llm) - AIと一緒に作業するための楽しいRubyの方法。設定の混乱も複雑なコールバックもハンドラー地獄もありません - 美しい、表現豊かなRubyコードだけです。
 
 
 ## Langchain
@@ -1473,6 +1468,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [agentkit](https://github.com/bcg-x-official/agentkit) - Nextjs、FastAPI、Langchainを使用して制約エージェントを構築するためのスターターキット
  * [reor](https://github.com/reorproject/reor) - 高エントロピーな人々のためのプライベート＆ローカルAIパーソナル知識管理アプリ。
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AIが株式分析をサポート：自分で選んだ株の市況情報を取得し、コストと利益を表示し、価格の変動に関する警告をプッシュ通知します。市場全体や個別株の感情分析、ローソク足テクニカル指標分析などをサポートします。データはすべてローカルに保存されます。DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、Silicon Mobility、Volcano Ark、Alibaba Cloud Hundred Refinementsなどのプラットフォームやモデルをサポートしています。
+ * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 大規模モデルRAGの知識ベースを利用した知識グラフ質問応答システム。Llamaindex + VueJS + Flask + Neo4j。大規模モデルはOpenAIや国内の主要なモデルプラットフォームに適合し、ローカルでのvllmデプロイメントをサポートします。推論モデルDeepSeek-R1やネットワーク検索をサポートします。
 
 
 ## Unity
@@ -1721,6 +1717,7 @@ _Updated on March 14, 2025_ (A total of 2025 repositories listed.)
  * [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - Stable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コードStable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コード
  * [hydra](https://github.com/ory/hydra) - 世界で唯一のウェブスケール、完全にカスタマイズ可能なOpenID Certified™ OpenID ConnectおよびOAuth2プロバイダー。一晩でOpenID ConnectおよびOAuth2プロバイダーになる。Goで書かれ、クラウドネイティブ、ヘッドレス、APIファースト。Ory Networkおよびfでサービスとして利用可能。
  * [Fay](https://github.com/xszyou/fay) - Input: fayは、デジタル人物（2.5D、3D、モバイル、PC、ウェブ）または大規模言語モデル（OpenAI互換、DeepSeek）がビジネスシステムに接続するのを支援するエージェントフレームワークです。
+ * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - OpenAI Agents SDK、Autogen、CrewAI、LangGraph、およびKnowledge Graphsを使用してAgentic AIを学ぶ。
 
 
 ## Others
