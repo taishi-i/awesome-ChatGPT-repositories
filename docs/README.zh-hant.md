@@ -15,23 +15,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [autoMate](https://github.com/yuruotong1/automate) - 像Manus、電腦使用代理(CUA)和Omniparser一樣，我們是使用電腦的代理人。AI驅動的本地自動化助手，使用自然語言使電腦自行運作。
+**CLIs**
+ * [chatbox](https://github.com/chatboxai/chatbox) - 用戶友好的桌面客戶端應用程式，適用於AI模型/LLMs（GPT、Claude、Gemini、Ollama...）
 
 
 **NLP**
- * [ruby_llm](https://github.com/crmne/ruby_llm) - 一種令人愉悅的Ruby方式來處理人工智慧。沒有瘋狂的配置，沒有複雜的回調函數，沒有處理程序地獄 - 只有美麗、表達豐富的Ruby代碼。
-
-
-**Langchain**
- * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基於大模型 RAG 知識庫的知識圖譜問答系統。Llamaindex + VueJS + Flask + Neo4j。大模型適配 OpenAI、國內主流大模型平台的模型調用、本地 vllm 部署。支持推理模型DeepSeek-R1、聯網檢索。
+ * [anyquery](https://github.com/julien040/anyquery) - 使用SQL查詢任何內容（CSV、GitHub等），讓LLMs（ChatGPT、Claude）連接到這些應用程式
 
 
 **Openai**
- * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - 學習使用OpenAI Agents SDK、Autogen、CrewAI、LangGraph和知識圖形的主動式AI。
+ * [an-codeAI](https://github.com/sparrow-js/an-codeai) - 人工智慧生成代碼
 
 
-_Updated on March 17, 2025_ (A total of 2029 repositories listed.)
+**Others**
+ * [jan](https://github.com/menloresearch/jan) - Jan 是 ChatGPT 的開源替代方案，可以在您的電腦上完全離線運行。
+
+
+_Updated on March 21, 2025_ (A total of 2033 repositories listed.)
 
 ## Table of contents
 
@@ -958,6 +958,7 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - 使用Cookiecutter模板快速建立FastAPI项目，包括：机器学习、uv、Github Actions和Pytests。
  * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一鍵生成高清故事短視頻。
  * [gptme](https://github.com/gptme/gptme) - 您在终端中的代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。
+ * [chatbox](https://github.com/chatboxai/chatbox) - 用戶友好的桌面客戶端應用程式，適用於AI模型/LLMs（GPT、Claude、Gemini、Ollama...）
 
 
 ## Reimplementations
@@ -1333,6 +1334,7 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：多模式代理作為智能手機用戶，一個基於LLM的多模式代理框架，旨在運行智能手機應用程序。
  * [openai-agents-python](https://github.com/openai/openai-agents-python) - 一個輕量級、強大的多代理工作流框架
  * [ruby_llm](https://github.com/crmne/ruby_llm) - 一種令人愉悅的Ruby方式來處理人工智慧。沒有瘋狂的配置，沒有複雜的回調函數，沒有處理程序地獄 - 只有美麗、表達豐富的Ruby代碼。
+ * [anyquery](https://github.com/julien040/anyquery) - 使用SQL查詢任何內容（CSV、GitHub等），讓LLMs（ChatGPT、Claude）連接到這些應用程式
 
 
 ## Langchain
@@ -1718,6 +1720,7 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [hydra](https://github.com/ory/hydra) - 世界上唯一的網絡規模、完全可定制的OpenID Certified™ OpenID Connect和OAuth2提供者。一夜之間成為OpenID Connect和OAuth2提供者。使用Go編寫，雲原生，無頭，以API為先。作為Ory Network和f上的服務可用。
  * [Fay](https://github.com/xszyou/fay) - fay是一個幫助數字人（2.5d、3d、移動、pc、網頁）或大語言模型（openai兼容、deepseek）連通業務系統的agent框架。
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - 學習使用OpenAI Agents SDK、Autogen、CrewAI、LangGraph和知識圖形的主動式AI。
+ * [an-codeAI](https://github.com/sparrow-js/an-codeai) - 人工智慧生成代碼
 
 
 ## Others
@@ -2135,5 +2138,6 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 在短短3小时内从零开始训练一个拥有27M参数的视觉多模态VLM！🌏
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端後端同時開源。Ai-to-pptx是一個使用AI技術(DeepSeek)製作PPTX的助手，支持線上生成和匯出PPTX。主要功能: 1 使用DeepSeek等大語言模型來生成大綱 2 生成PPTX的時候可以選擇不同的模板 3 支持匯出PPTX。
  * [memobase](https://github.com/memodb-io/memobase) - 基於個人檔案的長期記憶，適用於人工智慧應用
+ * [jan](https://github.com/menloresearch/jan) - Jan 是 ChatGPT 的開源替代方案，可以在您的電腦上完全離線運行。
 
 

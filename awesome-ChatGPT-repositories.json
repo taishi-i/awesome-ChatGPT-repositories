@@ -21373,6 +21373,31 @@
                     "zh-hans": "您在终端中的代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。",
                     "zh-hant": "您在终端中的代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。"
                 }
+            },
+            "https://github.com/chatboxai/chatbox": {
+                "repository_name": "chatbox",
+                "user_name": "chatboxai",
+                "language": "TypeScript",
+                "license": "GNU General Public License v3.0",
+                "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+                "topics": [
+                    "assistant",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "copilot",
+                    "deepseek",
+                    "gpt",
+                    "gpt-4",
+                    "ollama",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+                    "ja": "AIモデル/LLM（GPT、Claude、Gemini、Ollamaなど）向けの使いやすいデスクトップクライアントアプリ",
+                    "zh-hans": "用户友好的桌面客户端应用程序，用于AI模型/LLMs（GPT、克劳德、双子座、奥拉玛...）",
+                    "zh-hant": "用戶友好的桌面客戶端應用程式，適用於AI模型/LLMs（GPT、Claude、Gemini、Ollama...）"
+                }
             }
         },
         "Reimplementations": {
@@ -29316,6 +29341,40 @@
                     "ja": "AIと一緒に作業するための楽しいRubyの方法。設定の混乱も複雑なコールバックもハンドラー地獄もありません - 美しい、表現豊かなRubyコードだけです。",
                     "zh-hans": "一种令人愉悦的Ruby方式来处理人工智能。没有复杂的配置，没有复杂的回调，没有处理程序地狱 - 只有美丽、富有表现力的Ruby代码。",
                     "zh-hant": "一種令人愉悅的Ruby方式來處理人工智慧。沒有瘋狂的配置，沒有複雜的回調函數，沒有處理程序地獄 - 只有美麗、表達豐富的Ruby代碼。"
+                }
+            },
+            "https://github.com/julien040/anyquery": {
+                "repository_name": "anyquery",
+                "user_name": "julien040",
+                "language": "Go",
+                "license": "Other",
+                "description": "Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps",
+                "topics": [
+                    "ai",
+                    "analytics",
+                    "api",
+                    "business-intelligence",
+                    "chatgpt",
+                    "claude",
+                    "csv",
+                    "data-visualization",
+                    "database",
+                    "github",
+                    "go",
+                    "json",
+                    "llm",
+                    "mysql",
+                    "notion",
+                    "parquet",
+                    "salesforce",
+                    "sql",
+                    "sqlite"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps",
+                    "ja": "SQLを使用して任意のクエリ（CSV、GitHubなど）を実行し、LLMs（ChatGPT、Claude）をこれらのアプリに接続させる",
+                    "zh-hans": "使用SQL查询任何内容（CSV、GitHub等），让LLMs（ChatGPT、Claude）连接到这些应用程序。",
+                    "zh-hant": "使用SQL查詢任何內容（CSV、GitHub等），讓LLMs（ChatGPT、Claude）連接到這些應用程式"
                 }
             }
         },
@@ -37751,6 +37810,27 @@
                     "zh-hans": "使用OpenAI Agents SDK，Autogen，CrewAI，LangGraph和知识图谱学习主动型人工智能。",
                     "zh-hant": "學習使用OpenAI Agents SDK、Autogen、CrewAI、LangGraph和知識圖形的主動式AI。"
                 }
+            },
+            "https://github.com/sparrow-js/an-codeai": {
+                "repository_name": "an-codeAI",
+                "user_name": "sparrow-js",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "AI generate code",
+                "topics": [
+                    "edit",
+                    "generate-code",
+                    "nextjs",
+                    "openai",
+                    "react",
+                    "screenshottocode"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI generates code",
+                    "ja": "AIがコードを生成します。",
+                    "zh-hans": "人工智能生成代码",
+                    "zh-hant": "人工智慧生成代碼"
+                }
             }
         },
         "Others": {
@@ -45628,6 +45708,27 @@
                     "ja": "AIアプリケーション向けのプロファイルベースの長期記憶",
                     "zh-hans": "基于个人资料的长期记忆，适用于人工智能应用",
                     "zh-hant": "基於個人檔案的長期記憶，適用於人工智慧應用"
+                }
+            },
+            "https://github.com/menloresearch/jan": {
+                "repository_name": "jan",
+                "user_name": "menloresearch",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+                "topics": [
+                    "electron",
+                    "gpt",
+                    "llama2",
+                    "llamacpp",
+                    "localai",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+                    "ja": "Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。",
+                    "zh-hans": "Jan是ChatGPT的开源替代品，可以完全离线在您的计算机上运行。",
+                    "zh-hant": "Jan 是 ChatGPT 的開源替代方案，可以在您的電腦上完全離線運行。"
                 }
             }
         }
