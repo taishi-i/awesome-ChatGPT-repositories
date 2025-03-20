@@ -15,23 +15,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [autoMate](https://github.com/yuruotong1/automate) - ManusやComputer Use Agent(CUA)、Omniparserのように、私たちはコンピュータを使用するエージェントです。自然言語を使用してコンピュータを自動化させるAI駆動のローカル自動化アシスタントです。
+**CLIs**
+ * [chatbox](https://github.com/chatboxai/chatbox) - AIモデル/LLM（GPT、Claude、Gemini、Ollamaなど）向けの使いやすいデスクトップクライアントアプリ
 
 
 **NLP**
- * [ruby_llm](https://github.com/crmne/ruby_llm) - AIと一緒に作業するための楽しいRubyの方法。設定の混乱も複雑なコールバックもハンドラー地獄もありません - 美しい、表現豊かなRubyコードだけです。
-
-
-**Langchain**
- * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 大規模モデルRAGの知識ベースを利用した知識グラフ質問応答システム。Llamaindex + VueJS + Flask + Neo4j。大規模モデルはOpenAIや国内の主要なモデルプラットフォームに適合し、ローカルでのvllmデプロイメントをサポートします。推論モデルDeepSeek-R1やネットワーク検索をサポートします。
+ * [anyquery](https://github.com/julien040/anyquery) - SQLを使用して任意のクエリ（CSV、GitHubなど）を実行し、LLMs（ChatGPT、Claude）をこれらのアプリに接続させる
 
 
 **Openai**
- * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - OpenAI Agents SDK、Autogen、CrewAI、LangGraph、およびKnowledge Graphsを使用してAgentic AIを学ぶ。
+ * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AIがコードを生成します。
 
 
-_Updated on March 17, 2025_ (A total of 2029 repositories listed.)
+**Others**
+ * [jan](https://github.com/menloresearch/jan) - Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。
+
+
+_Updated on March 21, 2025_ (A total of 2033 repositories listed.)
 
 ## Table of contents
 
@@ -958,6 +958,7 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutterテンプレートを使用したFastAPIプロジェクトの機械学習、uv、Github Actions、およびPytests
  * [story-flicks](https://github.com/alecm20/story-flicks) - AI大規模モデルを使用して、ワンクリックで高解像度のストーリーショートビデオを生成します。
  * [gptme](https://github.com/gptme/gptme) - あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。
+ * [chatbox](https://github.com/chatboxai/chatbox) - AIモデル/LLM（GPT、Claude、Gemini、Ollamaなど）向けの使いやすいデスクトップクライアントアプリ
 
 
 ## Reimplementations
@@ -1333,6 +1334,7 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
  * [openai-agents-python](https://github.com/openai/openai-agents-python) - 軽量で強力なマルチエージェントワークフロー用のフレームワーク
  * [ruby_llm](https://github.com/crmne/ruby_llm) - AIと一緒に作業するための楽しいRubyの方法。設定の混乱も複雑なコールバックもハンドラー地獄もありません - 美しい、表現豊かなRubyコードだけです。
+ * [anyquery](https://github.com/julien040/anyquery) - SQLを使用して任意のクエリ（CSV、GitHubなど）を実行し、LLMs（ChatGPT、Claude）をこれらのアプリに接続させる
 
 
 ## Langchain
@@ -1718,6 +1720,7 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [hydra](https://github.com/ory/hydra) - 世界で唯一のウェブスケール、完全にカスタマイズ可能なOpenID Certified™ OpenID ConnectおよびOAuth2プロバイダー。一晩でOpenID ConnectおよびOAuth2プロバイダーになる。Goで書かれ、クラウドネイティブ、ヘッドレス、APIファースト。Ory Networkおよびfでサービスとして利用可能。
  * [Fay](https://github.com/xszyou/fay) - Input: fayは、デジタル人物（2.5D、3D、モバイル、PC、ウェブ）または大規模言語モデル（OpenAI互換、DeepSeek）がビジネスシステムに接続するのを支援するエージェントフレームワークです。
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - OpenAI Agents SDK、Autogen、CrewAI、LangGraph、およびKnowledge Graphsを使用してAgentic AIを学ぶ。
+ * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AIがコードを生成します。
 
 
 ## Others
@@ -2135,5 +2138,6 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート
  * [memobase](https://github.com/memodb-io/memobase) - AIアプリケーション向けのプロファイルベースの長期記憶
+ * [jan](https://github.com/menloresearch/jan) - Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。
 
 

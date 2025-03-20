@@ -15,23 +15,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [autoMate](https://github.com/yuruotong1/automate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
+**CLIs**
+ * [chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
 
 **NLP**
- * [ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
-
-
-**Langchain**
- * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
+ * [anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
 
 
 **Openai**
- * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using OpenAI Agents SDK, Autogen, CrewAI, LangGraph, and Knowledge Graphs.
+ * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AI generate code
 
 
-_Updated on March 17, 2025_ (A total of 2029 repositories listed.)
+**Others**
+ * [jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+
+
+_Updated on March 21, 2025_ (A total of 2033 repositories listed.)
 
 ## Table of contents
 
@@ -958,6 +958,7 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests
  * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
  * [gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+ * [chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
 
 ## Reimplementations
@@ -1333,6 +1334,7 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [AppAgent](https://github.com/tencentqqgylab/appagent) - AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
  * [openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
  * [ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
+ * [anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
 
 
 ## Langchain
@@ -1718,6 +1720,7 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. Relied upon by OpenAI and others for web-scale security.
  * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using OpenAI Agents SDK, Autogen, CrewAI, LangGraph, and Knowledge Graphs.
+ * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AI generate code
 
 
 ## Others
@@ -2135,5 +2138,6 @@ _Updated on March 17, 2025_ (A total of 2029 repositories listed.)
  * [minimind-v](https://github.com/jingyaogong/minimind-v) - 🚀 「大模型」3小时从0训练27M参数的视觉多模态VLM！🌏 Train a 27M-parameter VLM from scratch in just 3 hours!
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
  * [memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications
+ * [jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
 
