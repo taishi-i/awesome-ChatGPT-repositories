@@ -21398,6 +21398,35 @@
                     "zh-hans": "用户友好的桌面客户端应用程序，用于AI模型/LLMs（GPT、克劳德、双子座、奥拉玛...）",
                     "zh-hant": "用戶友好的桌面客戶端應用程式，適用於AI模型/LLMs（GPT、Claude、Gemini、Ollama...）"
                 }
+            },
+            "https://github.com/azure-samples/contoso-real-estate": {
+                "repository_name": "contoso-real-estate",
+                "user_name": "Azure-Samples",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.",
+                "topics": [
+                    "angular",
+                    "architecture",
+                    "azd-templates",
+                    "azure",
+                    "azureopenai",
+                    "cloud",
+                    "javascript",
+                    "next",
+                    "nodejs",
+                    "playwright",
+                    "rag",
+                    "serverless",
+                    "strapi",
+                    "stripe"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.",
+                    "ja": "JavaScript向けのインテリジェントなエンタープライズグレードのリファレンスアーキテクチャで、OpenAI統合、Azure Developer CLIテンプレート、Playwrightテストを特色としています。",
+                    "zh-hans": "智能企业级JavaScript参考架构，包括OpenAI集成，Azure开发者CLI模板和Playwright测试。",
+                    "zh-hant": "智能企業級JavaScript參考架構，具有OpenAI集成，Azure開發者CLI模板和Playwright測試。"
+                }
             }
         },
         "Reimplementations": {
@@ -29375,6 +29404,40 @@
                     "ja": "SQLを使用して任意のクエリ（CSV、GitHubなど）を実行し、LLMs（ChatGPT、Claude）をこれらのアプリに接続させる",
                     "zh-hans": "使用SQL查询任何内容（CSV、GitHub等），让LLMs（ChatGPT、Claude）连接到这些应用程序。",
                     "zh-hant": "使用SQL查詢任何內容（CSV、GitHub等），讓LLMs（ChatGPT、Claude）連接到這些應用程式"
+                }
+            },
+            "https://github.com/travisvn/openai-edge-tts": {
+                "repository_name": "openai-edge-tts",
+                "user_name": "travisvn",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs",
+                "topics": [
+                    "ai",
+                    "azure",
+                    "chatgpt",
+                    "claude",
+                    "edge-tts",
+                    "elevenlabs",
+                    "gpt",
+                    "llm",
+                    "llm-webui",
+                    "llms",
+                    "local-llm",
+                    "ollama",
+                    "ollama-webui",
+                    "open-webui",
+                    "openai",
+                    "self-hosted",
+                    "speech",
+                    "text-to-speech",
+                    "tts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs",
+                    "ja": "無料で高品質なテキスト読み上げAPIエンドポイント。OpenAI、Azure、またはElevenLabsの代わりに使用できます。",
+                    "zh-hans": "免费、高质量的文本转语音API端点，可替代OpenAI、Azure或ElevenLabs",
+                    "zh-hant": "免費、高質量的文本轉語音API端點，可替代OpenAI、Azure或ElevenLabs"
                 }
             }
         },
