@@ -16,22 +16,14 @@
 ## The latest additions 🎉
 
 **CLIs**
- * [chatbox](https://github.com/chatboxai/chatbox) - AIモデル/LLM（GPT、Claude、Gemini、Ollamaなど）向けの使いやすいデスクトップクライアントアプリ
+ * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - JavaScript向けのインテリジェントなエンタープライズグレードのリファレンスアーキテクチャで、OpenAI統合、Azure Developer CLIテンプレート、Playwrightテストを特色としています。
 
 
 **NLP**
- * [anyquery](https://github.com/julien040/anyquery) - SQLを使用して任意のクエリ（CSV、GitHubなど）を実行し、LLMs（ChatGPT、Claude）をこれらのアプリに接続させる
+ * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 無料で高品質なテキスト読み上げAPIエンドポイント。OpenAI、Azure、またはElevenLabsの代わりに使用できます。
 
 
-**Openai**
- * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AIがコードを生成します。
-
-
-**Others**
- * [jan](https://github.com/menloresearch/jan) - Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。
-
-
-_Updated on March 21, 2025_ (A total of 2033 repositories listed.)
+_Updated on March 24, 2025_ (A total of 2035 repositories listed.)
 
 ## Table of contents
 
@@ -959,6 +951,7 @@ _Updated on March 21, 2025_ (A total of 2033 repositories listed.)
  * [story-flicks](https://github.com/alecm20/story-flicks) - AI大規模モデルを使用して、ワンクリックで高解像度のストーリーショートビデオを生成します。
  * [gptme](https://github.com/gptme/gptme) - あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。
  * [chatbox](https://github.com/chatboxai/chatbox) - AIモデル/LLM（GPT、Claude、Gemini、Ollamaなど）向けの使いやすいデスクトップクライアントアプリ
+ * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - JavaScript向けのインテリジェントなエンタープライズグレードのリファレンスアーキテクチャで、OpenAI統合、Azure Developer CLIテンプレート、Playwrightテストを特色としています。
 
 
 ## Reimplementations
@@ -1335,6 +1328,7 @@ _Updated on March 21, 2025_ (A total of 2033 repositories listed.)
  * [openai-agents-python](https://github.com/openai/openai-agents-python) - 軽量で強力なマルチエージェントワークフロー用のフレームワーク
  * [ruby_llm](https://github.com/crmne/ruby_llm) - AIと一緒に作業するための楽しいRubyの方法。設定の混乱も複雑なコールバックもハンドラー地獄もありません - 美しい、表現豊かなRubyコードだけです。
  * [anyquery](https://github.com/julien040/anyquery) - SQLを使用して任意のクエリ（CSV、GitHubなど）を実行し、LLMs（ChatGPT、Claude）をこれらのアプリに接続させる
+ * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 無料で高品質なテキスト読み上げAPIエンドポイント。OpenAI、Azure、またはElevenLabsの代わりに使用できます。
 
 
 ## Langchain

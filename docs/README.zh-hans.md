@@ -16,22 +16,14 @@
 ## The latest additions 🎉
 
 **CLIs**
- * [chatbox](https://github.com/chatboxai/chatbox) - 用户友好的桌面客户端应用程序，用于AI模型/LLMs（GPT、克劳德、双子座、奥拉玛...）
+ * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - 智能企业级JavaScript参考架构，包括OpenAI集成，Azure开发者CLI模板和Playwright测试。
 
 
 **NLP**
- * [anyquery](https://github.com/julien040/anyquery) - 使用SQL查询任何内容（CSV、GitHub等），让LLMs（ChatGPT、Claude）连接到这些应用程序。
+ * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 免费、高质量的文本转语音API端点，可替代OpenAI、Azure或ElevenLabs
 
 
-**Openai**
- * [an-codeAI](https://github.com/sparrow-js/an-codeai) - 人工智能生成代码
-
-
-**Others**
- * [jan](https://github.com/menloresearch/jan) - Jan是ChatGPT的开源替代品，可以完全离线在您的计算机上运行。
-
-
-_Updated on March 21, 2025_ (A total of 2033 repositories listed.)
+_Updated on March 24, 2025_ (A total of 2035 repositories listed.)
 
 ## Table of contents
 
@@ -959,6 +951,7 @@ _Updated on March 21, 2025_ (A total of 2033 repositories listed.)
  * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。
  * [gptme](https://github.com/gptme/gptme) - 您在终端中的代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。
  * [chatbox](https://github.com/chatboxai/chatbox) - 用户友好的桌面客户端应用程序，用于AI模型/LLMs（GPT、克劳德、双子座、奥拉玛...）
+ * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - 智能企业级JavaScript参考架构，包括OpenAI集成，Azure开发者CLI模板和Playwright测试。
 
 
 ## Reimplementations
@@ -1335,6 +1328,7 @@ _Updated on March 21, 2025_ (A total of 2033 repositories listed.)
  * [openai-agents-python](https://github.com/openai/openai-agents-python) - 一个轻量级、强大的多代理工作流框架
  * [ruby_llm](https://github.com/crmne/ruby_llm) - 一种令人愉悦的Ruby方式来处理人工智能。没有复杂的配置，没有复杂的回调，没有处理程序地狱 - 只有美丽、富有表现力的Ruby代码。
  * [anyquery](https://github.com/julien040/anyquery) - 使用SQL查询任何内容（CSV、GitHub等），让LLMs（ChatGPT、Claude）连接到这些应用程序。
+ * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 免费、高质量的文本转语音API端点，可替代OpenAI、Azure或ElevenLabs
 
 
 ## Langchain

@@ -16,22 +16,14 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **CLIs**
- * [chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+ * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
 
 
 **NLP**
- * [anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
+ * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 
 
-**Openai**
- * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AI generate code
-
-
-**Others**
- * [jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-
-
-_Updated on March 21, 2025_ (A total of 2033 repositories listed.)
+_Updated on March 24, 2025_ (A total of 2035 repositories listed.)
 
 ## Table of contents
 
@@ -959,6 +951,7 @@ _Updated on March 21, 2025_ (A total of 2033 repositories listed.)
  * [story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
  * [gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
  * [chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+ * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
 
 
 ## Reimplementations
@@ -1335,6 +1328,7 @@ _Updated on March 21, 2025_ (A total of 2033 repositories listed.)
  * [openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
  * [ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
  * [anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
+ * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 
 
 ## Langchain
