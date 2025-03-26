@@ -15,15 +15,15 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - 智能企业级JavaScript参考架构，包括OpenAI集成，Azure开发者CLI模板和Playwright测试。
+**Chatbots**
+ * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - 学习使用LLMs、代理、RAG、微调、LLMOps和人工智能系统技术构建您的第二大脑AI助手。
 
 
-**NLP**
- * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 免费、高质量的文本转语音API端点，可替代OpenAI、Azure或ElevenLabs
+**Langchain**
+ * [SmartSub](https://github.com/buxuku/smartsub) - "妙幕"是一款跨平台客户端工具，可以批量为视频或音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek等多家翻译。
 
 
-_Updated on March 24, 2025_ (A total of 2035 repositories listed.)
+_Updated on March 27, 2025_ (A total of 2037 repositories listed.)
 
 ## Table of contents
 
@@ -583,6 +583,7 @@ _Updated on March 24, 2025_ (A total of 2035 repositories listed.)
  * [Sidekick](https://github.com/johnbean393/sidekick) - 一个原生的macOS应用程序，允许用户与本地的LLM进行聊天，LLM可以从您的Mac上的文件、文件夹和网站中获取信息，而无需安装任何其他软件。由llama.cpp驱动。
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
  * [autoMate](https://github.com/yuruotong1/automate) - 像Manus、计算机使用代理(CUA)和Omniparser一样，我们是计算机使用代理。AI驱动的本地自动化助手，使用自然语言使计算机自行工作。
+ * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - 学习使用LLMs、代理、RAG、微调、LLMOps和人工智能系统技术构建您的第二大脑AI助手。
 
 
 ## Browser-extensions
@@ -1465,6 +1466,7 @@ _Updated on March 24, 2025_ (A total of 2035 repositories listed.)
  * [reor](https://github.com/reorproject/reor) - 私人和本地的AI个人知识管理应用，适用于高熵人群。
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI，Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
  * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基于大型模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大型模型适配 OpenAI、国内主流大型模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
+ * [SmartSub](https://github.com/buxuku/smartsub) - "妙幕"是一款跨平台客户端工具，可以批量为视频或音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek等多家翻译。
 
 
 ## Unity

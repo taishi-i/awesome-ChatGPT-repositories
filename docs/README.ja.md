@@ -15,15 +15,15 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - JavaScript向けのインテリジェントなエンタープライズグレードのリファレンスアーキテクチャで、OpenAI統合、Azure Developer CLIテンプレート、Playwrightテストを特色としています。
+**Chatbots**
+ * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - LLMs、エージェント、RAG、ファインチューニング、LLMOps、およびAIシステムのテクニックを使用して、セカンドブレインAIアシスタントを構築する方法を学びます。
 
 
-**NLP**
- * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 無料で高品質なテキスト読み上げAPIエンドポイント。OpenAI、Azure、またはElevenLabsの代わりに使用できます。
+**Langchain**
+ * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」は、動画や音声ファイルに対して一括で字幕ファイルを生成し、字幕の翻訳をサポートするクロスプラットフォームのクライアントツールです。百度、火山、openai、ollama、deepseekなど、複数の翻訳サービスをサポートしています。
 
 
-_Updated on March 24, 2025_ (A total of 2035 repositories listed.)
+_Updated on March 27, 2025_ (A total of 2037 repositories listed.)
 
 ## Table of contents
 
@@ -583,6 +583,7 @@ _Updated on March 24, 2025_ (A total of 2035 repositories listed.)
  * [Sidekick](https://github.com/johnbean393/sidekick) - ネイティブのmacOSアプリで、ユーザーがローカルのLLMとチャットでき、Macにインストールされている他のソフトウェアをインストールせずにファイル、フォルダ、ウェブサイトから情報を取得できます。llama.cppで動作します。
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 DIY可能なマルチモードAIチャットボット | 🚀 WeChat、QQ、Telegramなどのチャットプラットフォームに迅速に接続 | 🦈DeepSeek、Grok、Claude、Ollama、Gemini、OpenAIをサポート | ワークフローシステム、ウェブ検索、AIドローイング、キャラクター調整、バーチャルメイド、音声対話 |
  * [autoMate](https://github.com/yuruotong1/automate) - ManusやComputer Use Agent(CUA)、Omniparserのように、私たちはコンピュータを使用するエージェントです。自然言語を使用してコンピュータを自動化させるAI駆動のローカル自動化アシスタントです。
+ * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - LLMs、エージェント、RAG、ファインチューニング、LLMOps、およびAIシステムのテクニックを使用して、セカンドブレインAIアシスタントを構築する方法を学びます。
 
 
 ## Browser-extensions
@@ -1465,6 +1466,7 @@ _Updated on March 24, 2025_ (A total of 2035 repositories listed.)
  * [reor](https://github.com/reorproject/reor) - 高エントロピーな人々のためのプライベート＆ローカルAIパーソナル知識管理アプリ。
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AIが株式分析をサポート：自分で選んだ株の市況情報を取得し、コストと利益を表示し、価格の変動に関する警告をプッシュ通知します。市場全体や個別株の感情分析、ローソク足テクニカル指標分析などをサポートします。データはすべてローカルに保存されます。DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、Silicon Mobility、Volcano Ark、Alibaba Cloud Hundred Refinementsなどのプラットフォームやモデルをサポートしています。
  * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 大規模モデルRAGの知識ベースを利用した知識グラフ質問応答システム。Llamaindex + VueJS + Flask + Neo4j。大規模モデルはOpenAIや国内の主要なモデルプラットフォームに適合し、ローカルでのvllmデプロイメントをサポートします。推論モデルDeepSeek-R1やネットワーク検索をサポートします。
+ * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」は、動画や音声ファイルに対して一括で字幕ファイルを生成し、字幕の翻訳をサポートするクロスプラットフォームのクライアントツールです。百度、火山、openai、ollama、deepseekなど、複数の翻訳サービスをサポートしています。
 
 
 ## Unity

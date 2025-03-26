@@ -15,15 +15,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
+**Chatbots**
+ * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
 
 
-**NLP**
- * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
+**Langchain**
+ * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
 
 
-_Updated on March 24, 2025_ (A total of 2035 repositories listed.)
+_Updated on March 27, 2025_ (A total of 2037 repositories listed.)
 
 ## Table of contents
 
@@ -583,6 +583,7 @@ _Updated on March 24, 2025_ (A total of 2035 repositories listed.)
  * [Sidekick](https://github.com/johnbean393/sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
  * [autoMate](https://github.com/yuruotong1/automate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
+ * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
 
 
 ## Browser-extensions
@@ -1465,6 +1466,7 @@ _Updated on March 24, 2025_ (A total of 2035 repositories listed.)
  * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
  * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
+ * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
 
 
 ## Unity

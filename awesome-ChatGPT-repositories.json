@@ -13036,6 +13036,32 @@
                     "zh-hans": "像Manus、计算机使用代理(CUA)和Omniparser一样，我们是计算机使用代理。AI驱动的本地自动化助手，使用自然语言使计算机自行工作。",
                     "zh-hant": "像Manus、電腦使用代理(CUA)和Omniparser一樣，我們是使用電腦的代理人。AI驅動的本地自動化助手，使用自然語言使電腦自行運作。"
                 }
+            },
+            "https://github.com/decodingml/second-brain-ai-assistant-course": {
+                "repository_name": "second-brain-ai-assistant-course",
+                "user_name": "decodingml",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+                "topics": [
+                    "agents",
+                    "ai-systems",
+                    "data-engineering",
+                    "fine-tuning",
+                    "huggingface",
+                    "llm",
+                    "llmops",
+                    "mlops",
+                    "openai",
+                    "python",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+                    "ja": "LLMs、エージェント、RAG、ファインチューニング、LLMOps、およびAIシステムのテクニックを使用して、セカンドブレインAIアシスタントを構築する方法を学びます。",
+                    "zh-hans": "学习使用LLMs、代理、RAG、微调、LLMOps和人工智能系统技术构建您的第二大脑AI助手。",
+                    "zh-hant": "學習使用LLMs、代理人、RAG、微調、LLMOps和人工智能系統技術來建立您的第二大腦AI助手。"
+                }
             }
         },
         "Browser-extensions": {
@@ -32611,6 +32637,30 @@
                     "ja": "大規模モデルRAGの知識ベースを利用した知識グラフ質問応答システム。Llamaindex + VueJS + Flask + Neo4j。大規模モデルはOpenAIや国内の主要なモデルプラットフォームに適合し、ローカルでのvllmデプロイメントをサポートします。推論モデルDeepSeek-R1やネットワーク検索をサポートします。",
                     "zh-hans": "基于大型模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大型模型适配 OpenAI、国内主流大型模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。",
                     "zh-hant": "基於大模型 RAG 知識庫的知識圖譜問答系統。Llamaindex + VueJS + Flask + Neo4j。大模型適配 OpenAI、國內主流大模型平台的模型調用、本地 vllm 部署。支持推理模型DeepSeek-R1、聯網檢索。"
+                }
+            },
+            "https://github.com/buxuku/smartsub": {
+                "repository_name": "SmartSub",
+                "user_name": "buxuku",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译",
+                "topics": [
+                    "deepseek",
+                    "electron",
+                    "nodejs",
+                    "ollama",
+                    "openai",
+                    "subtitle",
+                    "translate",
+                    "whisper",
+                    "whisper-cpp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "\"Myomu\" is a cross-platform client tool that can batch generate subtitle files for videos or audios, and support translating subtitles. It supports translation from multiple translation services such as Baidu, Huoshan, OpenAI, Ollama, Deepseek, etc.",
+                    "ja": "「妙幕」は、動画や音声ファイルに対して一括で字幕ファイルを生成し、字幕の翻訳をサポートするクロスプラットフォームのクライアントツールです。百度、火山、openai、ollama、deepseekなど、複数の翻訳サービスをサポートしています。",
+                    "zh-hans": "\"妙幕\"是一款跨平台客户端工具，可以批量为视频或音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek等多家翻译。",
+                    "zh-hant": "「妙幕」是一款跨平台客戶端工具，可以批量為視頻或者音頻生成字幕文件，並支持對字幕進行翻譯，支持百度、火山、openai、ollama、deepseek 等多家翻譯。"
                 }
             }
         },
