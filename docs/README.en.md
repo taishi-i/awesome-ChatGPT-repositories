@@ -15,15 +15,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
+**Chatbots**
+ * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
 
 
-**NLP**
- * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
+**Langchain**
+ * [SmartSub](https://github.com/buxuku/smartsub) - "Myomu" is a cross-platform client tool that can batch generate subtitle files for videos or audios, and support translating subtitles. It supports translation from multiple translation services such as Baidu, Huoshan, OpenAI, Ollama, Deepseek, etc.
 
 
-_Updated on March 24, 2025_ (A total of 2035 repositories listed.)
+_Updated on March 27, 2025_ (A total of 2037 repositories listed.)
 
 ## Table of contents
 
@@ -583,6 +583,7 @@ _Updated on March 24, 2025_ (A total of 2035 repositories listed.)
  * [Sidekick](https://github.com/johnbean393/sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 DIY multimodal AI chatbot | 🚀 Quickly integrate WeChat, QQ, Telegram, and other chat platforms | 🦈 Supports DeepSeek, Grok, Claude, Ollama, Gemini, OpenAI | Workflow system, web search, AI drawing, character training, virtual maid, voice conversation |
  * [autoMate](https://github.com/yuruotong1/automate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
+ * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
 
 
 ## Browser-extensions
@@ -1465,6 +1466,7 @@ _Updated on March 24, 2025_ (A total of 2035 repositories listed.)
  * [reor](https://github.com/reorproject/reor) - Private & local AI personal knowledge management app for high entropy people.
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI Empowered Stock Analysis: Obtain selected stock market quotes, display cost profit and loss, receive alerts for price changes, analyze overall market/individual stock sentiment, and analyze K-line technical indicators, etc. All data is kept locally. Supports platforms or models such as DeepSeek, OpenAI, Ollama, LMStudio, AnythingLLM, Silicon Mobility, Volcano Ark, Aliyun Bailian, etc.
  * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - Knowledge graph question-answering system based on the large model RAG knowledge base. Llamaindex + VueJS + Flask + Neo4j. The large model is compatible with model calls from OpenAI and domestic mainstream large model platforms, and supports local deployment of vllm. It supports inference model DeepSeek-R1 and online retrieval.
+ * [SmartSub](https://github.com/buxuku/smartsub) - "Myomu" is a cross-platform client tool that can batch generate subtitle files for videos or audios, and support translating subtitles. It supports translation from multiple translation services such as Baidu, Huoshan, OpenAI, Ollama, Deepseek, etc.
 
 
 ## Unity
