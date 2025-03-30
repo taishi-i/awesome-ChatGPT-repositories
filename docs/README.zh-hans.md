@@ -16,14 +16,16 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - 学习使用LLMs、代理、RAG、微调、LLMOps和人工智能系统技术构建您的第二大脑AI助手。
+ * [agents](https://github.com/livekit/agents) - 一个强大的框架，用于构建实时语音人工智能代理 🤖🎙️📹
+ * [codegate](https://github.com/stacklok/codegate) - CodeGate：AI应用程序的安全性、工作空间和Muxing，编码助手和代理框架。
+ * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 
 
-**Langchain**
- * [SmartSub](https://github.com/buxuku/smartsub) - "妙幕"是一款跨平台客户端工具，可以批量为视频或音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek等多家翻译。
+**NLP**
+ * [agent](https://github.com/xataio/agent) - 精通PostgreSQL的AI代理专家
 
 
-_Updated on March 27, 2025_ (A total of 2037 repositories listed.)
+_Updated on March 31, 2025_ (A total of 2041 repositories listed.)
 
 ## Table of contents
 
@@ -584,6 +586,9 @@ _Updated on March 27, 2025_ (A total of 2037 repositories listed.)
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 |
  * [autoMate](https://github.com/yuruotong1/automate) - 像Manus、计算机使用代理(CUA)和Omniparser一样，我们是计算机使用代理。AI驱动的本地自动化助手，使用自然语言使计算机自行工作。
  * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - 学习使用LLMs、代理、RAG、微调、LLMOps和人工智能系统技术构建您的第二大脑AI助手。
+ * [agents](https://github.com/livekit/agents) - 一个强大的框架，用于构建实时语音人工智能代理 🤖🎙️📹
+ * [codegate](https://github.com/stacklok/codegate) - CodeGate：AI应用程序的安全性、工作空间和Muxing，编码助手和代理框架。
+ * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
 
 
 ## Browser-extensions
@@ -1330,6 +1335,7 @@ _Updated on March 27, 2025_ (A total of 2037 repositories listed.)
  * [ruby_llm](https://github.com/crmne/ruby_llm) - 一种令人愉悦的Ruby方式来处理人工智能。没有复杂的配置，没有复杂的回调，没有处理程序地狱 - 只有美丽、富有表现力的Ruby代码。
  * [anyquery](https://github.com/julien040/anyquery) - 使用SQL查询任何内容（CSV、GitHub等），让LLMs（ChatGPT、Claude）连接到这些应用程序。
  * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 免费、高质量的文本转语音API端点，可替代OpenAI、Azure或ElevenLabs
+ * [agent](https://github.com/xataio/agent) - 精通PostgreSQL的AI代理专家
 
 
 ## Langchain

@@ -16,14 +16,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
+ * [agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
+ * [codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
+ * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ Easy-to-use multi-platform LLM chatbot and development framework ✨ Platform supports QQ, QQ channel, Telegram, WeChat, Enterprise WeChat, Feishu | MCP server, OpenAI, DeepSeek, Gemini, Silicon Mobility, Dark Side of the Moon, Ollama, OneAPI, Dify, etc. With WebUI attached.
 
 
-**Langchain**
- * [SmartSub](https://github.com/buxuku/smartsub) - "Myomu" is a cross-platform client tool that can batch generate subtitle files for videos or audios, and support translating subtitles. It supports translation from multiple translation services such as Baidu, Huoshan, OpenAI, Ollama, Deepseek, etc.
+**NLP**
+ * [agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
 
-_Updated on March 27, 2025_ (A total of 2037 repositories listed.)
+_Updated on March 31, 2025_ (A total of 2041 repositories listed.)
 
 ## Table of contents
 
@@ -584,6 +586,9 @@ _Updated on March 27, 2025_ (A total of 2037 repositories listed.)
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 DIY multimodal AI chatbot | 🚀 Quickly integrate WeChat, QQ, Telegram, and other chat platforms | 🦈 Supports DeepSeek, Grok, Claude, Ollama, Gemini, OpenAI | Workflow system, web search, AI drawing, character training, virtual maid, voice conversation |
  * [autoMate](https://github.com/yuruotong1/automate) - Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves
  * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.
+ * [agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
+ * [codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
+ * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ Easy-to-use multi-platform LLM chatbot and development framework ✨ Platform supports QQ, QQ channel, Telegram, WeChat, Enterprise WeChat, Feishu | MCP server, OpenAI, DeepSeek, Gemini, Silicon Mobility, Dark Side of the Moon, Ollama, OneAPI, Dify, etc. With WebUI attached.
 
 
 ## Browser-extensions
@@ -1330,6 +1335,7 @@ _Updated on March 27, 2025_ (A total of 2037 repositories listed.)
  * [ruby_llm](https://github.com/crmne/ruby_llm) - A delightful Ruby way to work with AI. No configuration madness, no complex callbacks, no handler hell – just beautiful, expressive Ruby code.
  * [anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
  * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
+ * [agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
 
 
 ## Langchain
