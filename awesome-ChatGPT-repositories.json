@@ -13062,6 +13062,93 @@
                     "zh-hans": "学习使用LLMs、代理、RAG、微调、LLMOps和人工智能系统技术构建您的第二大脑AI助手。",
                     "zh-hant": "學習使用LLMs、代理人、RAG、微調、LLMOps和人工智能系統技術來建立您的第二大腦AI助手。"
                 }
+            },
+            "https://github.com/livekit/agents": {
+                "repository_name": "agents",
+                "user_name": "livekit",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "A powerful framework for building realtime voice AI agents 🤖🎙️📹 ",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "openai",
+                    "real-time",
+                    "video",
+                    "voice"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A powerful framework for building realtime voice AI agents 🤖🎙️📹",
+                    "ja": "リアルタイムの音声AIエージェントを構築するための強力なフレームワーク 🤖🎙️📹",
+                    "zh-hans": "一个强大的框架，用于构建实时语音人工智能代理 🤖🎙️📹",
+                    "zh-hant": "一個強大的框架，用於構建實時語音人工智能代理 🤖🎙️📹"
+                }
+            },
+            "https://github.com/stacklok/codegate": {
+                "repository_name": "codegate",
+                "user_name": "stacklok",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.",
+                "topics": [
+                    "ai",
+                    "ai-gateway",
+                    "aisecurity",
+                    "artificial-intelligence",
+                    "claude",
+                    "cline",
+                    "codegen",
+                    "copilot",
+                    "developer-productivity",
+                    "developer-tools",
+                    "generative-ai",
+                    "ide",
+                    "jetbrains",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "privacy",
+                    "python",
+                    "security",
+                    "vscode"
+                ],
+                "multilingual_descriptions": {
+                    "en": "CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.",
+                    "ja": "CodeGate: AIアプリケーション、コーディングアシスタント、およびエージェンティックフレームワークのためのセキュリティ、ワークスペース、およびマルチプレクシング。",
+                    "zh-hans": "CodeGate：AI应用程序的安全性、工作空间和Muxing，编码助手和代理框架。",
+                    "zh-hant": "CodeGate：用於AI應用程序的安全性、工作空間和Muxing、編碼助手和代理框架。"
+                }
+            },
+            "https://github.com/astrbotdevs/astrbot": {
+                "repository_name": "AstrBot",
+                "user_name": "AstrBotDevs",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "docker",
+                    "gemini",
+                    "gpt",
+                    "llama",
+                    "llm",
+                    "mcp",
+                    "openai",
+                    "python",
+                    "qq",
+                    "qqbot",
+                    "qqchannel",
+                    "telegram"
+                ],
+                "multilingual_descriptions": {
+                    "en": "✨ Easy-to-use multi-platform LLM chatbot and development framework ✨ Platform supports QQ, QQ channel, Telegram, WeChat, Enterprise WeChat, Feishu | MCP server, OpenAI, DeepSeek, Gemini, Silicon Mobility, Dark Side of the Moon, Ollama, OneAPI, Dify, etc. With WebUI attached.",
+                    "ja": "✨ 簡単に使えるマルチプラットフォームLLMチャットボットおよび開発フレームワーク ✨ プラットフォームサポート：QQ、QQチャンネル、Telegram、WeChat、企業WeChat、Feishu | MCPサーバー、OpenAI、DeepSeek、Gemini、Silicon Mobility、Dark Side of the Moon、Ollama、OneAPI、Dify など。WebUIも付属。",
+                    "zh-hans": "✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。",
+                    "zh-hant": "✨ 易上手的多平台 LLM 聊天機器人及開發框架 ✨ 平台支援 QQ、QQ頻道、Telegram、微信、企微、飛書 | MCP 伺服器、OpenAI、DeepSeek、Gemini、矽基流動、月之暗面、Ollama、OneAPI、Dify 等。附帶 WebUI。"
+                }
             }
         },
         "Browser-extensions": {
@@ -29464,6 +29551,28 @@
                     "ja": "無料で高品質なテキスト読み上げAPIエンドポイント。OpenAI、Azure、またはElevenLabsの代わりに使用できます。",
                     "zh-hans": "免费、高质量的文本转语音API端点，可替代OpenAI、Azure或ElevenLabs",
                     "zh-hant": "免費、高質量的文本轉語音API端點，可替代OpenAI、Azure或ElevenLabs"
+                }
+            },
+            "https://github.com/xataio/agent": {
+                "repository_name": "agent",
+                "user_name": "xataio",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "AI agent expert in PostgreSQL",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "anthropic",
+                    "llm",
+                    "openai",
+                    "postgres",
+                    "postgresql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI agent expert in PostgreSQL",
+                    "ja": "PostgreSQLに精通したAIエージェント",
+                    "zh-hans": "精通PostgreSQL的AI代理专家",
+                    "zh-hant": "擅長於PostgreSQL的人工智慧代理專家"
                 }
             }
         },

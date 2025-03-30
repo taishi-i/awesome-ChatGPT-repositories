@@ -16,14 +16,16 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - LLMs、エージェント、RAG、ファインチューニング、LLMOps、およびAIシステムのテクニックを使用して、セカンドブレインAIアシスタントを構築する方法を学びます。
+ * [agents](https://github.com/livekit/agents) - リアルタイムの音声AIエージェントを構築するための強力なフレームワーク 🤖🎙️📹
+ * [codegate](https://github.com/stacklok/codegate) - CodeGate: AIアプリケーション、コーディングアシスタント、およびエージェンティックフレームワークのためのセキュリティ、ワークスペース、およびマルチプレクシング。
+ * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 簡単に使えるマルチプラットフォームLLMチャットボットおよび開発フレームワーク ✨ プラットフォームサポート：QQ、QQチャンネル、Telegram、WeChat、企業WeChat、Feishu | MCPサーバー、OpenAI、DeepSeek、Gemini、Silicon Mobility、Dark Side of the Moon、Ollama、OneAPI、Dify など。WebUIも付属。
 
 
-**Langchain**
- * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」は、動画や音声ファイルに対して一括で字幕ファイルを生成し、字幕の翻訳をサポートするクロスプラットフォームのクライアントツールです。百度、火山、openai、ollama、deepseekなど、複数の翻訳サービスをサポートしています。
+**NLP**
+ * [agent](https://github.com/xataio/agent) - PostgreSQLに精通したAIエージェント
 
 
-_Updated on March 27, 2025_ (A total of 2037 repositories listed.)
+_Updated on March 31, 2025_ (A total of 2041 repositories listed.)
 
 ## Table of contents
 
@@ -584,6 +586,9 @@ _Updated on March 27, 2025_ (A total of 2037 repositories listed.)
  * [kirara-ai](https://github.com/lss233/kirara-ai) - 🤖 DIY可能なマルチモードAIチャットボット | 🚀 WeChat、QQ、Telegramなどのチャットプラットフォームに迅速に接続 | 🦈DeepSeek、Grok、Claude、Ollama、Gemini、OpenAIをサポート | ワークフローシステム、ウェブ検索、AIドローイング、キャラクター調整、バーチャルメイド、音声対話 |
  * [autoMate](https://github.com/yuruotong1/automate) - ManusやComputer Use Agent(CUA)、Omniparserのように、私たちはコンピュータを使用するエージェントです。自然言語を使用してコンピュータを自動化させるAI駆動のローカル自動化アシスタントです。
  * [second-brain-ai-assistant-course](https://github.com/decodingml/second-brain-ai-assistant-course) - LLMs、エージェント、RAG、ファインチューニング、LLMOps、およびAIシステムのテクニックを使用して、セカンドブレインAIアシスタントを構築する方法を学びます。
+ * [agents](https://github.com/livekit/agents) - リアルタイムの音声AIエージェントを構築するための強力なフレームワーク 🤖🎙️📹
+ * [codegate](https://github.com/stacklok/codegate) - CodeGate: AIアプリケーション、コーディングアシスタント、およびエージェンティックフレームワークのためのセキュリティ、ワークスペース、およびマルチプレクシング。
+ * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 簡単に使えるマルチプラットフォームLLMチャットボットおよび開発フレームワーク ✨ プラットフォームサポート：QQ、QQチャンネル、Telegram、WeChat、企業WeChat、Feishu | MCPサーバー、OpenAI、DeepSeek、Gemini、Silicon Mobility、Dark Side of the Moon、Ollama、OneAPI、Dify など。WebUIも付属。
 
 
 ## Browser-extensions
@@ -1330,6 +1335,7 @@ _Updated on March 27, 2025_ (A total of 2037 repositories listed.)
  * [ruby_llm](https://github.com/crmne/ruby_llm) - AIと一緒に作業するための楽しいRubyの方法。設定の混乱も複雑なコールバックもハンドラー地獄もありません - 美しい、表現豊かなRubyコードだけです。
  * [anyquery](https://github.com/julien040/anyquery) - SQLを使用して任意のクエリ（CSV、GitHubなど）を実行し、LLMs（ChatGPT、Claude）をこれらのアプリに接続させる
  * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 無料で高品質なテキスト読み上げAPIエンドポイント。OpenAI、Azure、またはElevenLabsの代わりに使用できます。
+ * [agent](https://github.com/xataio/agent) - PostgreSQLに精通したAIエージェント
 
 
 ## Langchain
