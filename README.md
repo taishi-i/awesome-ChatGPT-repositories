@@ -2141,5 +2141,6 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端后端同时开源。 Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
  * [memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications
  * [jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+ * [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease.
 
 
