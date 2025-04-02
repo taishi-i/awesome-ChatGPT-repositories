@@ -16,16 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [agents](https://github.com/livekit/agents) - 一個強大的框架，用於構建實時語音人工智能代理 🤖🎙️📹
- * [codegate](https://github.com/stacklok/codegate) - CodeGate：用於AI應用程序的安全性、工作空間和Muxing、編碼助手和代理框架。
- * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 易上手的多平台 LLM 聊天機器人及開發框架 ✨ 平台支援 QQ、QQ頻道、Telegram、微信、企微、飛書 | MCP 伺服器、OpenAI、DeepSeek、Gemini、矽基流動、月之暗面、Ollama、OneAPI、Dify 等。附帶 WebUI。
+ * [gurubase](https://github.com/gurubase/gurubase) - Gurubase 讓您可以在技術文件中添加一個“請教 AI”按鈕，將您的內容轉換為可搜索的問答助手。它使用網頁、PDF、YouTube 視頻和 GitHub 存儲庫作為來源，生成帶有參考資料的即時準確答案。通過部署它。
+ * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 您的全自動個人AI助手，是對OpenAI深度研究的開源和成本效益替代方案。
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - 將Discord設置為您的LLM前端 ● 支持任何兼容OpenAI的API（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groq等）
 
 
 **NLP**
- * [agent](https://github.com/xataio/agent) - 擅長於PostgreSQL的人工智慧代理專家
+ * [pearai-master](https://github.com/trypear/pearai-master) - PearAI的主要存儲庫
+ * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - 無縫整合LLMs到scikit-learn。
 
 
-_Updated on March 31, 2025_ (A total of 2041 repositories listed.)
+**Openai**
+ * [design2code](https://github.com/mostafasadeghi97/design2code) - 將任何網頁設計截圖轉換為乾淨的HTML/CSS代碼
+ * [giselle](https://github.com/giselles-ai/giselle) - 吉賽爾：用於主動工作流程的人工智慧。人工智慧協作。開源。
+
+
+_Updated on April 03, 2025_ (A total of 2048 repositories listed.)
 
 ## Table of contents
 
@@ -589,6 +595,9 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [agents](https://github.com/livekit/agents) - 一個強大的框架，用於構建實時語音人工智能代理 🤖🎙️📹
  * [codegate](https://github.com/stacklok/codegate) - CodeGate：用於AI應用程序的安全性、工作空間和Muxing、編碼助手和代理框架。
  * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 易上手的多平台 LLM 聊天機器人及開發框架 ✨ 平台支援 QQ、QQ頻道、Telegram、微信、企微、飛書 | MCP 伺服器、OpenAI、DeepSeek、Gemini、矽基流動、月之暗面、Ollama、OneAPI、Dify 等。附帶 WebUI。
+ * [gurubase](https://github.com/gurubase/gurubase) - Gurubase 讓您可以在技術文件中添加一個“請教 AI”按鈕，將您的內容轉換為可搜索的問答助手。它使用網頁、PDF、YouTube 視頻和 GitHub 存儲庫作為來源，生成帶有參考資料的即時準確答案。通過部署它。
+ * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 您的全自動個人AI助手，是對OpenAI深度研究的開源和成本效益替代方案。
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - 將Discord設置為您的LLM前端 ● 支持任何兼容OpenAI的API（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groq等）
 
 
 ## Browser-extensions
@@ -1336,6 +1345,8 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [anyquery](https://github.com/julien040/anyquery) - 使用SQL查詢任何內容（CSV、GitHub等），讓LLMs（ChatGPT、Claude）連接到這些應用程式
  * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 免費、高質量的文本轉語音API端點，可替代OpenAI、Azure或ElevenLabs
  * [agent](https://github.com/xataio/agent) - 擅長於PostgreSQL的人工智慧代理專家
+ * [pearai-master](https://github.com/trypear/pearai-master) - PearAI的主要存儲庫
+ * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - 無縫整合LLMs到scikit-learn。
 
 
 ## Langchain
@@ -1723,6 +1734,8 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [Fay](https://github.com/xszyou/fay) - fay是一個幫助數字人（2.5d、3d、移動、pc、網頁）或大語言模型（openai兼容、deepseek）連通業務系統的agent框架。
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - 學習使用OpenAI Agents SDK、Autogen、CrewAI、LangGraph和知識圖形的主動式AI。
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - 人工智慧生成代碼
+ * [design2code](https://github.com/mostafasadeghi97/design2code) - 將任何網頁設計截圖轉換為乾淨的HTML/CSS代碼
+ * [giselle](https://github.com/giselles-ai/giselle) - 吉賽爾：用於主動工作流程的人工智慧。人工智慧協作。開源。
 
 
 ## Others

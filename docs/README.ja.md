@@ -16,16 +16,22 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [agents](https://github.com/livekit/agents) - リアルタイムの音声AIエージェントを構築するための強力なフレームワーク 🤖🎙️📹
- * [codegate](https://github.com/stacklok/codegate) - CodeGate: AIアプリケーション、コーディングアシスタント、およびエージェンティックフレームワークのためのセキュリティ、ワークスペース、およびマルチプレクシング。
- * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 簡単に使えるマルチプラットフォームLLMチャットボットおよび開発フレームワーク ✨ プラットフォームサポート：QQ、QQチャンネル、Telegram、WeChat、企業WeChat、Feishu | MCPサーバー、OpenAI、DeepSeek、Gemini、Silicon Mobility、Dark Side of the Moon、Ollama、OneAPI、Dify など。WebUIも付属。
+ * [gurubase](https://github.com/gurubase/gurubase) - Gurubaseは、技術ドキュメントに「Ask AI」ボタンを追加し、コンテンツを検索可能なQ&Aアシスタントに変えることができます。Webページ、PDF、YouTubeビデオ、GitHubリポジトリをソースとして使用し、参照付きで即座に正確な回答を生成します。デプロイは以下の方法で行います。
+ * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 「あなた専用の完全自動化されたAIアシスタント、そしてOpenAIの深い研究に対するオープンソースでコスト効率の良い代替手段」
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）
 
 
 **NLP**
- * [agent](https://github.com/xataio/agent) - PostgreSQLに精通したAIエージェント
+ * [pearai-master](https://github.com/trypear/pearai-master) - PearAIのマスターリポジトリ
+ * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - シームレスにLLMsをscikit-learnに統合します。
 
 
-_Updated on March 31, 2025_ (A total of 2041 repositories listed.)
+**Openai**
+ * [design2code](https://github.com/mostafasadeghi97/design2code) - どんなウェブデザインのスクリーンショットでも、クリーンなHTML/CSSコードに変換します清潔なHTML/CSSコードに変換
+ * [giselle](https://github.com/giselles-ai/giselle) - ジゼル：エージェンティックワークフローのためのAI。人間とAIの協力。オープンソース。
+
+
+_Updated on April 03, 2025_ (A total of 2048 repositories listed.)
 
 ## Table of contents
 
@@ -589,6 +595,9 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [agents](https://github.com/livekit/agents) - リアルタイムの音声AIエージェントを構築するための強力なフレームワーク 🤖🎙️📹
  * [codegate](https://github.com/stacklok/codegate) - CodeGate: AIアプリケーション、コーディングアシスタント、およびエージェンティックフレームワークのためのセキュリティ、ワークスペース、およびマルチプレクシング。
  * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 簡単に使えるマルチプラットフォームLLMチャットボットおよび開発フレームワーク ✨ プラットフォームサポート：QQ、QQチャンネル、Telegram、WeChat、企業WeChat、Feishu | MCPサーバー、OpenAI、DeepSeek、Gemini、Silicon Mobility、Dark Side of the Moon、Ollama、OneAPI、Dify など。WebUIも付属。
+ * [gurubase](https://github.com/gurubase/gurubase) - Gurubaseは、技術ドキュメントに「Ask AI」ボタンを追加し、コンテンツを検索可能なQ&Aアシスタントに変えることができます。Webページ、PDF、YouTubeビデオ、GitHubリポジトリをソースとして使用し、参照付きで即座に正確な回答を生成します。デプロイは以下の方法で行います。
+ * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 「あなた専用の完全自動化されたAIアシスタント、そしてOpenAIの深い研究に対するオープンソースでコスト効率の良い代替手段」
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）
 
 
 ## Browser-extensions
@@ -1336,6 +1345,8 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [anyquery](https://github.com/julien040/anyquery) - SQLを使用して任意のクエリ（CSV、GitHubなど）を実行し、LLMs（ChatGPT、Claude）をこれらのアプリに接続させる
  * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - 無料で高品質なテキスト読み上げAPIエンドポイント。OpenAI、Azure、またはElevenLabsの代わりに使用できます。
  * [agent](https://github.com/xataio/agent) - PostgreSQLに精通したAIエージェント
+ * [pearai-master](https://github.com/trypear/pearai-master) - PearAIのマスターリポジトリ
+ * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - シームレスにLLMsをscikit-learnに統合します。
 
 
 ## Langchain
@@ -1723,6 +1734,8 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [Fay](https://github.com/xszyou/fay) - Input: fayは、デジタル人物（2.5D、3D、モバイル、PC、ウェブ）または大規模言語モデル（OpenAI互換、DeepSeek）がビジネスシステムに接続するのを支援するエージェントフレームワークです。
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - OpenAI Agents SDK、Autogen、CrewAI、LangGraph、およびKnowledge Graphsを使用してAgentic AIを学ぶ。
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AIがコードを生成します。
+ * [design2code](https://github.com/mostafasadeghi97/design2code) - どんなウェブデザインのスクリーンショットでも、クリーンなHTML/CSSコードに変換します清潔なHTML/CSSコードに変換
+ * [giselle](https://github.com/giselles-ai/giselle) - ジゼル：エージェンティックワークフローのためのAI。人間とAIの協力。オープンソース。
 
 
 ## Others
