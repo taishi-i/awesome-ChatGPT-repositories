@@ -16,16 +16,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
- * [codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
- * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ Easy-to-use multi-platform LLM chatbot and development framework ✨ Platform supports QQ, QQ channel, Telegram, WeChat, Enterprise WeChat, Feishu | MCP server, OpenAI, DeepSeek, Gemini, Silicon Mobility, Dark Side of the Moon, Ollama, OneAPI, Dify, etc. With WebUI attached.
+ * [gurubase](https://github.com/gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, accurate answers with references. Deploy it via
+ * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - "Your Fully-Automated Personal AI Assistant, and Open-Source & Cost-Efficient Alternative to OpenAI's Deep Research"
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 
 
 **NLP**
- * [agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
+ * [pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
+ * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 
 
-_Updated on March 31, 2025_ (A total of 2041 repositories listed.)
+**Openai**
+ * [design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code
+ * [giselle](https://github.com/giselles-ai/giselle) - Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.
+
+
+_Updated on April 03, 2025_ (A total of 2048 repositories listed.)
 
 ## Table of contents
 
@@ -589,6 +595,9 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
  * [codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
  * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ Easy-to-use multi-platform LLM chatbot and development framework ✨ Platform supports QQ, QQ channel, Telegram, WeChat, Enterprise WeChat, Feishu | MCP server, OpenAI, DeepSeek, Gemini, Silicon Mobility, Dark Side of the Moon, Ollama, OneAPI, Dify, etc. With WebUI attached.
+ * [gurubase](https://github.com/gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, accurate answers with references. Deploy it via
+ * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - "Your Fully-Automated Personal AI Assistant, and Open-Source & Cost-Efficient Alternative to OpenAI's Deep Research"
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 
 
 ## Browser-extensions
@@ -1336,6 +1345,8 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
  * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
  * [agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
+ * [pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
+ * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 
 
 ## Langchain
@@ -1723,6 +1734,8 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [Fay](https://github.com/xszyou/fay) - fay is an agent framework that helps connect digital humans (2.5D, 3D, mobile, PC, web) or large language models (OpenAI compatible, DeepSeek) to business systems.
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using OpenAI Agents SDK, Autogen, CrewAI, LangGraph, and Knowledge Graphs.
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AI generates code
+ * [design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code
+ * [giselle](https://github.com/giselles-ai/giselle) - Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.
 
 
 ## Others
