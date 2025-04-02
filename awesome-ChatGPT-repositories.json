@@ -13149,6 +13149,87 @@
                     "zh-hans": "✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。",
                     "zh-hant": "✨ 易上手的多平台 LLM 聊天機器人及開發框架 ✨ 平台支援 QQ、QQ頻道、Telegram、微信、企微、飛書 | MCP 伺服器、OpenAI、DeepSeek、Gemini、矽基流動、月之暗面、Ollama、OneAPI、Dify 等。附帶 WebUI。"
                 }
+            },
+            "https://github.com/gurubase/gurubase": {
+                "repository_name": "gurubase",
+                "user_name": "Gurubase",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Gurubase lets you add an \"Ask AI\" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, accurate answers with references. Deploy it via Slack, Discord, or a web widget.",
+                "topics": [
+                    "ai",
+                    "ask-ai",
+                    "chatbot",
+                    "discord-bot",
+                    "docker",
+                    "embedding-vectors",
+                    "genai",
+                    "llm",
+                    "nextjs",
+                    "openai",
+                    "rag",
+                    "self-hosted",
+                    "slack-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Gurubase lets you add an \"Ask AI\" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, accurate answers with references. Deploy it via",
+                    "ja": "Gurubaseは、技術ドキュメントに「Ask AI」ボタンを追加し、コンテンツを検索可能なQ&Aアシスタントに変えることができます。Webページ、PDF、YouTubeビデオ、GitHubリポジトリをソースとして使用し、参照付きで即座に正確な回答を生成します。デプロイは以下の方法で行います。",
+                    "zh-hans": "Gurubase允许您在技术文档中添加一个“询问AI”按钮，将您的内容转变为可搜索的问答助手。它使用网页、PDF、YouTube视频和GitHub仓库作为信息源，生成即时准确的答案并附带参考资料。通过部署它。",
+                    "zh-hant": "Gurubase 讓您可以在技術文件中添加一個“請教 AI”按鈕，將您的內容轉換為可搜索的問答助手。它使用網頁、PDF、YouTube 視頻和 GitHub 存儲庫作為來源，生成帶有參考資料的即時準確答案。通過部署它。"
+                }
+            },
+            "https://github.com/hkuds/auto-deep-research": {
+                "repository_name": "Auto-Deep-Research",
+                "user_name": "HKUDS",
+                "language": "Python",
+                "license": null,
+                "description": "\"Your Fully-Automated Personal AI Assistant, and Open-Source & Cost-Efficient Alternative to OpenAI's Deep Research\"",
+                "topics": [
+                    "agent",
+                    "deep-research",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "\"Your Fully-Automated Personal AI Assistant, and Open-Source & Cost-Efficient Alternative to OpenAI's Deep Research\"",
+                    "ja": "「あなた専用の完全自動化されたAIアシスタント、そしてOpenAIの深い研究に対するオープンソースでコスト効率の良い代替手段」",
+                    "zh-hans": "您的全自动个人AI助手，是OpenAI深度研究的开源和成本效益的替代方案。",
+                    "zh-hant": "您的全自動個人AI助手，是對OpenAI深度研究的開源和成本效益替代方案。"
+                }
+            },
+            "https://github.com/jakobdylanc/llmcord": {
+                "repository_name": "llmcord",
+                "user_name": "jakobdylanc",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)",
+                "topics": [
+                    "bot",
+                    "chat",
+                    "chatbot",
+                    "discord",
+                    "frontend",
+                    "gpt",
+                    "gpt-4",
+                    "gpt-4o",
+                    "grok",
+                    "groq",
+                    "llama",
+                    "llama3",
+                    "llava",
+                    "llm",
+                    "mistral",
+                    "ollama",
+                    "oobabooga",
+                    "openai",
+                    "vllm",
+                    "xai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)",
+                    "ja": "DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）",
+                    "zh-hans": "将Discord设置为您的LLM前端 ● 支持任何兼容OpenAI的API（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groq等）",
+                    "zh-hant": "將Discord設置為您的LLM前端 ● 支持任何兼容OpenAI的API（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groq等）"
+                }
             }
         },
         "Browser-extensions": {
@@ -29574,6 +29655,49 @@
                     "zh-hans": "精通PostgreSQL的AI代理专家",
                     "zh-hant": "擅長於PostgreSQL的人工智慧代理專家"
                 }
+            },
+            "https://github.com/trypear/pearai-master": {
+                "repository_name": "pearai-master",
+                "user_name": "trypear",
+                "language": "Shell",
+                "license": null,
+                "description": "Master Repo For PearAI",
+                "topics": [
+                    "ai",
+                    "ai-code-editor",
+                    "chatgpt",
+                    "claude",
+                    "code-editor",
+                    "llm",
+                    "vscode"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Master Repo For PearAI",
+                    "ja": "PearAIのマスターリポジトリ",
+                    "zh-hans": "梨AI的主仓库",
+                    "zh-hant": "PearAI的主要存儲庫"
+                }
+            },
+            "https://github.com/beastbyteai/scikit-llm": {
+                "repository_name": "scikit-llm",
+                "user_name": "BeastByteAI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Seamlessly integrate LLMs into scikit-learn.",
+                "topics": [
+                    "chatgpt",
+                    "deep-learning",
+                    "llm",
+                    "machine-learning",
+                    "scikit-learn",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Seamlessly integrate LLMs into scikit-learn.",
+                    "ja": "シームレスにLLMsをscikit-learnに統合します。",
+                    "zh-hans": "无缝集成LLMs到scikit-learn中。",
+                    "zh-hant": "無縫整合LLMs到scikit-learn。"
+                }
             }
         },
         "Langchain": {
@@ -38052,6 +38176,56 @@
                     "ja": "AIがコードを生成します。",
                     "zh-hans": "人工智能生成代码",
                     "zh-hant": "人工智慧生成代碼"
+                }
+            },
+            "https://github.com/mostafasadeghi97/design2code": {
+                "repository_name": "design2code",
+                "user_name": "mostafasadeghi97",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Convert any web design screenshot to clean HTML/CSS code",
+                "topics": [
+                    "ai",
+                    "code-generation",
+                    "coding-assistant",
+                    "design-to-code",
+                    "gpt4",
+                    "openai",
+                    "vision"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Convert any web design screenshot to clean HTML/CSS code",
+                    "ja": "どんなウェブデザインのスクリーンショットでも、クリーンなHTML/CSSコードに変換します清潔なHTML/CSSコードに変換",
+                    "zh-hans": "将任何网页设计截图转换为干净的HTML/CSS代码",
+                    "zh-hant": "將任何網頁設計截圖轉換為乾淨的HTML/CSS代碼"
+                }
+            },
+            "https://github.com/giselles-ai/giselle": {
+                "repository_name": "giselle",
+                "user_name": "giselles-ai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-agent",
+                    "genai",
+                    "generative-ai",
+                    "multi-ai-agent",
+                    "nextjs",
+                    "no-code",
+                    "openai",
+                    "pnpm",
+                    "typescript",
+                    "vercel",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.",
+                    "ja": "ジゼル：エージェンティックワークフローのためのAI。人間とAIの協力。オープンソース。",
+                    "zh-hans": "吉赛尔：用于主动工作流程的人工智能。人工智能协作。开源。",
+                    "zh-hant": "吉賽爾：用於主動工作流程的人工智慧。人工智慧協作。開源。"
                 }
             }
         },

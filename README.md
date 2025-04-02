@@ -16,16 +16,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
- * [codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
- * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+ * [gurubase](https://github.com/gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, accurate answers with references. Deploy it via Slack, Discord, or a web widget.
+ * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - "Your Fully-Automated Personal AI Assistant, and Open-Source & Cost-Efficient Alternative to OpenAI's Deep Research"
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 
 
 **NLP**
- * [agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
+ * [pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
+ * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 
 
-_Updated on March 31, 2025_ (A total of 2041 repositories listed.)
+**Openai**
+ * [design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code
+ * [giselle](https://github.com/giselles-ai/giselle) - Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.
+
+
+_Updated on April 03, 2025_ (A total of 2048 repositories listed.)
 
 ## Table of contents
 
@@ -589,6 +595,9 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
  * [codegate](https://github.com/stacklok/codegate) - CodeGate: Security, Workspaces and Muxing for AI Applications, coding assistants, and agentic frameworks.
  * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+ * [gurubase](https://github.com/gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, accurate answers with references. Deploy it via Slack, Discord, or a web widget.
+ * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - "Your Fully-Automated Personal AI Assistant, and Open-Source & Cost-Efficient Alternative to OpenAI's Deep Research"
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
 
 
 ## Browser-extensions
@@ -1336,6 +1345,8 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [anyquery](https://github.com/julien040/anyquery) - Query anything (CSV, GitHub, etc.) with SQL and let LLMs (ChatGPT, Claude) connect to these apps
  * [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
  * [agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
+ * [pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
+ * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
 
 
 ## Langchain
@@ -1723,6 +1734,8 @@ _Updated on March 31, 2025_ (A total of 2041 repositories listed.)
  * [Fay](https://github.com/xszyou/fay) - fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using OpenAI Agents SDK, Autogen, CrewAI, LangGraph, and Knowledge Graphs.
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AI generate code
+ * [design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code
+ * [giselle](https://github.com/giselles-ai/giselle) - Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.
 
 
 ## Others
