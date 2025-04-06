@@ -16,22 +16,19 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [gurubase](https://github.com/gurubase/gurubase) - Gurubaseは、技術ドキュメントに「Ask AI」ボタンを追加し、コンテンツを検索可能なQ&Aアシスタントに変えることができます。Webページ、PDF、YouTubeビデオ、GitHubリポジトリをソースとして使用し、参照付きで即座に正確な回答を生成します。デプロイは以下の方法で行います。
- * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 「あなた専用の完全自動化されたAIアシスタント、そしてOpenAIの深い研究に対するオープンソースでコスト効率の良い代替手段」
- * [llmcord](https://github.com/jakobdylanc/llmcord) - DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）
+ * [flock](https://github.com/onelevenvy/flock) - Flockは、LangGraph、Langchain、FastAPI、およびNextJSによって強化された、チャットボット、RAG、および複数エージェントチームの調整を迅速に構築するためのワークフローをベースとした低コードプラットフォームです。
 
 
 **NLP**
- * [pearai-master](https://github.com/trypear/pearai-master) - PearAIのマスターリポジトリ
- * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - シームレスにLLMsをscikit-learnに統合します。
+ * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 マルチモーダルな大規模言語モデルを使用して、優雅にhCaptchaのチャレンジに立ち向かいます。
 
 
 **Openai**
- * [design2code](https://github.com/mostafasadeghi97/design2code) - どんなウェブデザインのスクリーンショットでも、クリーンなHTML/CSSコードに変換します清潔なHTML/CSSコードに変換
- * [giselle](https://github.com/giselles-ai/giselle) - ジゼル：エージェンティックワークフローのためのAI。人間とAIの協力。オープンソース。
+ * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - AIパワーを持つデータサイエンスチームのエージェントが、一般的なデータサイエンスタスクを10倍速く実行するのを手伝います。
+ * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAIのWhisperモデルのC/C++でのポートWhisperモデルのC/C++におけるポート
 
 
-_Updated on April 03, 2025_ (A total of 2048 repositories listed.)
+_Updated on April 07, 2025_ (A total of 2052 repositories listed.)
 
 ## Table of contents
 
@@ -598,6 +595,7 @@ _Updated on April 03, 2025_ (A total of 2048 repositories listed.)
  * [gurubase](https://github.com/gurubase/gurubase) - Gurubaseは、技術ドキュメントに「Ask AI」ボタンを追加し、コンテンツを検索可能なQ&Aアシスタントに変えることができます。Webページ、PDF、YouTubeビデオ、GitHubリポジトリをソースとして使用し、参照付きで即座に正確な回答を生成します。デプロイは以下の方法で行います。
  * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 「あなた専用の完全自動化されたAIアシスタント、そしてOpenAIの深い研究に対するオープンソースでコスト効率の良い代替手段」
  * [llmcord](https://github.com/jakobdylanc/llmcord) - DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）
+ * [flock](https://github.com/onelevenvy/flock) - Flockは、LangGraph、Langchain、FastAPI、およびNextJSによって強化された、チャットボット、RAG、および複数エージェントチームの調整を迅速に構築するためのワークフローをベースとした低コードプラットフォームです。
 
 
 ## Browser-extensions
@@ -1347,6 +1345,7 @@ _Updated on April 03, 2025_ (A total of 2048 repositories listed.)
  * [agent](https://github.com/xataio/agent) - PostgreSQLに精通したAIエージェント
  * [pearai-master](https://github.com/trypear/pearai-master) - PearAIのマスターリポジトリ
  * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - シームレスにLLMsをscikit-learnに統合します。
+ * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 マルチモーダルな大規模言語モデルを使用して、優雅にhCaptchaのチャレンジに立ち向かいます。
 
 
 ## Langchain
@@ -1735,7 +1734,8 @@ _Updated on April 03, 2025_ (A total of 2048 repositories listed.)
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - OpenAI Agents SDK、Autogen、CrewAI、LangGraph、およびKnowledge Graphsを使用してAgentic AIを学ぶ。
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AIがコードを生成します。
  * [design2code](https://github.com/mostafasadeghi97/design2code) - どんなウェブデザインのスクリーンショットでも、クリーンなHTML/CSSコードに変換します清潔なHTML/CSSコードに変換
- * [giselle](https://github.com/giselles-ai/giselle) - ジゼル：エージェンティックワークフローのためのAI。人間とAIの協力。オープンソース。
+ * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - AIパワーを持つデータサイエンスチームのエージェントが、一般的なデータサイエンスタスクを10倍速く実行するのを手伝います。
+ * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAIのWhisperモデルのC/C++でのポートWhisperモデルのC/C++におけるポート
 
 
 ## Others

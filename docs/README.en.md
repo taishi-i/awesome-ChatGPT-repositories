@@ -16,22 +16,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [gurubase](https://github.com/gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, accurate answers with references. Deploy it via
- * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - "Your Fully-Automated Personal AI Assistant, and Open-Source & Cost-Efficient Alternative to OpenAI's Deep Research"
- * [llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
+ * [flock](https://github.com/onelevenvy/flock) - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain
 
 
 **NLP**
- * [pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
- * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
+ * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 
 
 **Openai**
- * [design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code
- * [giselle](https://github.com/giselles-ai/giselle) - Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.
+ * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+ * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 
 
-_Updated on April 03, 2025_ (A total of 2048 repositories listed.)
+_Updated on April 07, 2025_ (A total of 2052 repositories listed.)
 
 ## Table of contents
 
@@ -598,6 +595,7 @@ _Updated on April 03, 2025_ (A total of 2048 repositories listed.)
  * [gurubase](https://github.com/gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, accurate answers with references. Deploy it via
  * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - "Your Fully-Automated Personal AI Assistant, and Open-Source & Cost-Efficient Alternative to OpenAI's Deep Research"
  * [llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
+ * [flock](https://github.com/onelevenvy/flock) - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain
 
 
 ## Browser-extensions
@@ -1347,6 +1345,7 @@ _Updated on April 03, 2025_ (A total of 2048 repositories listed.)
  * [agent](https://github.com/xataio/agent) - AI agent expert in PostgreSQL
  * [pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
  * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
+ * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 
 
 ## Langchain
@@ -1735,7 +1734,8 @@ _Updated on April 03, 2025_ (A total of 2048 repositories listed.)
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using OpenAI Agents SDK, Autogen, CrewAI, LangGraph, and Knowledge Graphs.
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AI generates code
  * [design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code
- * [giselle](https://github.com/giselles-ai/giselle) - Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.
+ * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+ * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 
 
 ## Others
