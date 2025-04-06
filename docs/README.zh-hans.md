@@ -16,22 +16,19 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [gurubase](https://github.com/gurubase/gurubase) - Gurubase允许您在技术文档中添加一个“询问AI”按钮，将您的内容转变为可搜索的问答助手。它使用网页、PDF、YouTube视频和GitHub仓库作为信息源，生成即时准确的答案并附带参考资料。通过部署它。
- * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 您的全自动个人AI助手，是OpenAI深度研究的开源和成本效益的替代方案。
- * [llmcord](https://github.com/jakobdylanc/llmcord) - 将Discord设置为您的LLM前端 ● 支持任何兼容OpenAI的API（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groq等）
+ * [flock](https://github.com/onelevenvy/flock) - Flock是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG和协调多代理团队，由LangGraph、Langchain、FastAPI和NextJS驱动。
 
 
 **NLP**
- * [pearai-master](https://github.com/trypear/pearai-master) - 梨AI的主仓库
- * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - 无缝集成LLMs到scikit-learn中。
+ * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 优雅地面对hCaptcha挑战，使用多模态大型语言模型。
 
 
 **Openai**
- * [design2code](https://github.com/mostafasadeghi97/design2code) - 将任何网页设计截图转换为干净的HTML/CSS代码
- * [giselle](https://github.com/giselles-ai/giselle) - 吉赛尔：用于主动工作流程的人工智能。人工智能协作。开源。
+ * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - 一个由人工智能驱动的数据科学团队，可以帮助您以10倍的速度完成常见的数据科学任务。
+ * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAI的Whisper模型在C/C++中的端口
 
 
-_Updated on April 03, 2025_ (A total of 2048 repositories listed.)
+_Updated on April 07, 2025_ (A total of 2052 repositories listed.)
 
 ## Table of contents
 
@@ -598,6 +595,7 @@ _Updated on April 03, 2025_ (A total of 2048 repositories listed.)
  * [gurubase](https://github.com/gurubase/gurubase) - Gurubase允许您在技术文档中添加一个“询问AI”按钮，将您的内容转变为可搜索的问答助手。它使用网页、PDF、YouTube视频和GitHub仓库作为信息源，生成即时准确的答案并附带参考资料。通过部署它。
  * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 您的全自动个人AI助手，是OpenAI深度研究的开源和成本效益的替代方案。
  * [llmcord](https://github.com/jakobdylanc/llmcord) - 将Discord设置为您的LLM前端 ● 支持任何兼容OpenAI的API（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groq等）
+ * [flock](https://github.com/onelevenvy/flock) - Flock是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG和协调多代理团队，由LangGraph、Langchain、FastAPI和NextJS驱动。
 
 
 ## Browser-extensions
@@ -1347,6 +1345,7 @@ _Updated on April 03, 2025_ (A total of 2048 repositories listed.)
  * [agent](https://github.com/xataio/agent) - 精通PostgreSQL的AI代理专家
  * [pearai-master](https://github.com/trypear/pearai-master) - 梨AI的主仓库
  * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - 无缝集成LLMs到scikit-learn中。
+ * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 优雅地面对hCaptcha挑战，使用多模态大型语言模型。
 
 
 ## Langchain
@@ -1735,7 +1734,8 @@ _Updated on April 03, 2025_ (A total of 2048 repositories listed.)
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - 使用OpenAI Agents SDK，Autogen，CrewAI，LangGraph和知识图谱学习主动型人工智能。
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - 人工智能生成代码
  * [design2code](https://github.com/mostafasadeghi97/design2code) - 将任何网页设计截图转换为干净的HTML/CSS代码
- * [giselle](https://github.com/giselles-ai/giselle) - 吉赛尔：用于主动工作流程的人工智能。人工智能协作。开源。
+ * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - 一个由人工智能驱动的数据科学团队，可以帮助您以10倍的速度完成常见的数据科学任务。
+ * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAI的Whisper模型在C/C++中的端口
 
 
 ## Others
