@@ -1734,6 +1734,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - Learn Agentic AI using OpenAI Agents SDK, Autogen, CrewAI, LangGraph, and Knowledge Graphs.
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AI generates code
  * [design2code](https://github.com/mostafasadeghi97/design2code) - Convert any web design screenshot to clean HTML/CSS code
+ * [giselle](https://github.com/giselles-ai/giselle) - Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.
  * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 

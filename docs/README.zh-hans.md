@@ -1734,6 +1734,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - 使用OpenAI Agents SDK，Autogen，CrewAI，LangGraph和知识图谱学习主动型人工智能。
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - 人工智能生成代码
  * [design2code](https://github.com/mostafasadeghi97/design2code) - 将任何网页设计截图转换为干净的HTML/CSS代码
+ * [giselle](https://github.com/giselles-ai/giselle) - 吉赛尔：用于主动工作流程的人工智能。人工智能协作。开源。
  * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - 一个由人工智能驱动的数据科学团队，可以帮助您以10倍的速度完成常见的数据科学任务。
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAI的Whisper模型在C/C++中的端口
 

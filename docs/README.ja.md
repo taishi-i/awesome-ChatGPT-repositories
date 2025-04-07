@@ -1734,6 +1734,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - OpenAI Agents SDK、Autogen、CrewAI、LangGraph、およびKnowledge Graphsを使用してAgentic AIを学ぶ。
  * [an-codeAI](https://github.com/sparrow-js/an-codeai) - AIがコードを生成します。
  * [design2code](https://github.com/mostafasadeghi97/design2code) - どんなウェブデザインのスクリーンショットでも、クリーンなHTML/CSSコードに変換します清潔なHTML/CSSコードに変換
+ * [giselle](https://github.com/giselles-ai/giselle) - ジゼル：エージェンティックワークフローのためのAI。人間とAIの協力。オープンソース。
  * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - AIパワーを持つデータサイエンスチームのエージェントが、一般的なデータサイエンスタスクを10倍速く実行するのを手伝います。
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAIのWhisperモデルのC/C++でのポートWhisperモデルのC/C++におけるポート
 
