@@ -15,20 +15,19 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [flock](https://github.com/onelevenvy/flock) - Flock 是一個基於workflow工作流的低代碼平台，用於快速構建聊天機器人、RAG、Agent和Muti-Agent應用，採用 LangGraph、Langchain、FastAPI 和 NextJS。
+**Reimplementations**
+ * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - 以更简单的方式实现所有强化学习算法
 
 
 **NLP**
- * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 優雅地面對hCaptcha挑戰，使用多模式大型語言模型。
+ * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理與分發系統，支持將多種大模型轉為統一格式調用，支持OpenAI、Claude等格式，可供個人或者企業內部管理與分發渠道使用，本項目基於One API二次開發。🍥 下一代LLM閘道和AI資產管理系統支持多種語言。
 
 
 **Openai**
- * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - 一支由人工智慧驅動的數據科學團隊，可幫助您以10倍的速度執行常見的數據科學任務。
- * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAI的Whisper模型在C/C++中的端口
+ * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 通過API在多個計算機環境中學習如何使用CUA（我們的計算機使用代理）。
 
 
-_Updated on April 07, 2025_ (A total of 2052 repositories listed.)
+_Updated on April 10, 2025_ (A total of 2055 repositories listed.)
 
 ## Table of contents
 
@@ -1006,6 +1005,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - 這個存儲庫提供了各種生成式人工智能代理技術的教程和實現，從基礎到高級。它作為構建智能、互動式人工智能系統的全面指南。
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是一個基於 LLaMA 的開源實現，可在單個 GPU 上運行的 ChatGPT。訓練過程比 ChatGPT 快 15 倍。
  * [deep-research](https://github.com/dzhng/deep-research) - 我自己的開源實現OpenAI新的Deep Research代理。無需支付200美元即可獲得相同的功能。您甚至可以通過可調節的廣度和深度來調整代理的行為。運行5分鐘或5小時，它將自動調整。
+ * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - 以更简单的方式实现所有强化学习算法
 
 
 ## Tutorials
@@ -1346,6 +1346,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [pearai-master](https://github.com/trypear/pearai-master) - PearAI的主要存儲庫
  * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - 無縫整合LLMs到scikit-learn。
  * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 優雅地面對hCaptcha挑戰，使用多模式大型語言模型。
+ * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理與分發系統，支持將多種大模型轉為統一格式調用，支持OpenAI、Claude等格式，可供個人或者企業內部管理與分發渠道使用，本項目基於One API二次開發。🍥 下一代LLM閘道和AI資產管理系統支持多種語言。
 
 
 ## Langchain
@@ -1737,6 +1738,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [giselle](https://github.com/giselles-ai/giselle) - 吉賽爾：用於主動工作流程的人工智慧。人工智慧協作。開源。
  * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - 一支由人工智慧驅動的數據科學團隊，可幫助您以10倍的速度執行常見的數據科學任務。
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAI的Whisper模型在C/C++中的端口
+ * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 通過API在多個計算機環境中學習如何使用CUA（我們的計算機使用代理）。
 
 
 ## Others

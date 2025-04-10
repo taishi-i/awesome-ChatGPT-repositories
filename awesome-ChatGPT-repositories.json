@@ -22421,6 +22421,27 @@
                     "zh-hans": "我自己开发了一个开源实现OpenAI新的深度研究代理的项目。无需支付200美元，即可获得相同的功能。您甚至可以通过可调节的广度和深度来调整代理的行为。无论是运行5分钟还是5小时，它都会自动调整。",
                     "zh-hant": "我自己的開源實現OpenAI新的Deep Research代理。無需支付200美元即可獲得相同的功能。您甚至可以通過可調節的廣度和深度來調整代理的行為。運行5分鐘或5小時，它將自動調整。"
                 }
+            },
+            "https://github.com/fareedkhan-dev/all-rl-algorithms": {
+                "repository_name": "all-rl-algorithms",
+                "user_name": "FareedKhan-dev",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "Implementation of all RL algorithms in a simpler way",
+                "topics": [
+                    "agent",
+                    "llm",
+                    "openai",
+                    "python",
+                    "reinforcement-learning",
+                    "rl"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Implementation of all RL algorithms in a simpler way",
+                    "ja": "より簡単な方法ですべてのRLアルゴリズムの実装",
+                    "zh-hans": "以更简单的方式实现所有强化学习算法",
+                    "zh-hant": "以更简单的方式实现所有强化学习算法"
+                }
             }
         },
         "Tutorials": {
@@ -29759,6 +29780,27 @@
                     "ja": "🥂 マルチモーダルな大規模言語モデルを使用して、優雅にhCaptchaのチャレンジに立ち向かいます。",
                     "zh-hans": "🥂 优雅地面对hCaptcha挑战，使用多模态大型语言模型。",
                     "zh-hant": "🥂 優雅地面對hCaptcha挑戰，使用多模式大型語言模型。"
+                }
+            },
+            "https://github.com/quantumnous/new-api": {
+                "repository_name": "new-api",
+                "user_name": "QuantumNous",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+                "topics": [
+                    "ai-gateway",
+                    "claude",
+                    "deepseek",
+                    "gemini",
+                    "openai",
+                    "rerank"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI model interface management and distribution system, supports converting multiple large models into a unified format for calling, supports formats such as OpenAI, Claude, etc., can be used for internal management and distribution channels by individuals or enterprises, this project is based on the secondary development of One API. 🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.",
+                    "ja": "AIモデルインターフェース管理および配布システムは、複数の大規模モデルを統一形式で呼び出すことをサポートし、OpenAI、Claudeなどの形式をサポートしています。個人または企業内での管理および配布チャネルに使用できます。このプロジェクトはOne APIをベースにして二次開発されています。🍥次世代のLLMゲートウェイおよびAIアセット管理システムは、複数の言語をサポートしています。",
+                    "zh-hans": "AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 下一代LLM网关和AI资产管理系统支持多种语言。",
+                    "zh-hant": "AI模型接口管理與分發系統，支持將多種大模型轉為統一格式調用，支持OpenAI、Claude等格式，可供個人或者企業內部管理與分發渠道使用，本項目基於One API二次開發。🍥 下一代LLM閘道和AI資產管理系統支持多種語言。"
                 }
             }
         },
@@ -38337,6 +38379,20 @@
                     "ja": "OpenAIのWhisperモデルのC/C++でのポートWhisperモデルのC/C++におけるポート",
                     "zh-hans": "OpenAI的Whisper模型在C/C++中的端口",
                     "zh-hant": "OpenAI的Whisper模型在C/C++中的端口"
+                }
+            },
+            "https://github.com/openai/openai-cua-sample-app": {
+                "repository_name": "openai-cua-sample-app",
+                "user_name": "openai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.",
+                    "ja": "複数のコンピュータ環境でAPIを使用してCUA（当社のコンピュータ利用エージェント）の使用方法を学びます。",
+                    "zh-hans": "学习如何在多个计算机环境中通过API使用CUA（我们的计算机使用代理）。",
+                    "zh-hant": "通過API在多個計算機環境中學習如何使用CUA（我們的計算機使用代理）。"
                 }
             }
         },

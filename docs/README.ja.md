@@ -15,20 +15,19 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [flock](https://github.com/onelevenvy/flock) - Flockは、LangGraph、Langchain、FastAPI、およびNextJSによって強化された、チャットボット、RAG、および複数エージェントチームの調整を迅速に構築するためのワークフローをベースとした低コードプラットフォームです。
+**Reimplementations**
+ * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - より簡単な方法ですべてのRLアルゴリズムの実装
 
 
 **NLP**
- * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 マルチモーダルな大規模言語モデルを使用して、優雅にhCaptchaのチャレンジに立ち向かいます。
+ * [new-api](https://github.com/quantumnous/new-api) - AIモデルインターフェース管理および配布システムは、複数の大規模モデルを統一形式で呼び出すことをサポートし、OpenAI、Claudeなどの形式をサポートしています。個人または企業内での管理および配布チャネルに使用できます。このプロジェクトはOne APIをベースにして二次開発されています。🍥次世代のLLMゲートウェイおよびAIアセット管理システムは、複数の言語をサポートしています。
 
 
 **Openai**
- * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - AIパワーを持つデータサイエンスチームのエージェントが、一般的なデータサイエンスタスクを10倍速く実行するのを手伝います。
- * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAIのWhisperモデルのC/C++でのポートWhisperモデルのC/C++におけるポート
+ * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 複数のコンピュータ環境でAPIを使用してCUA（当社のコンピュータ利用エージェント）の使用方法を学びます。
 
 
-_Updated on April 07, 2025_ (A total of 2052 repositories listed.)
+_Updated on April 10, 2025_ (A total of 2055 repositories listed.)
 
 ## Table of contents
 
@@ -1006,6 +1005,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - このリポジトリは、基本から高度なまでさまざまな生成AIエージェント技術のチュートリアルと実装を提供しています。知的でインタラクティブなAIシステムを構築するための包括的なガイドとして機能します。
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。
  * [deep-research](https://github.com/dzhng/deep-research) - 私自身のオープンソース実装は、OpenAIの新しいDeep Researchエージェントです。200ドル支払わずに同じ機能を手に入れることができます。さらに、エージェントの振る舞いを調整可能な幅と深さで調整することさえできます。5分間でも5時間でも実行し、自動調整されます。
+ * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - より簡単な方法ですべてのRLアルゴリズムの実装
 
 
 ## Tutorials
@@ -1346,6 +1346,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [pearai-master](https://github.com/trypear/pearai-master) - PearAIのマスターリポジトリ
  * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - シームレスにLLMsをscikit-learnに統合します。
  * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 マルチモーダルな大規模言語モデルを使用して、優雅にhCaptchaのチャレンジに立ち向かいます。
+ * [new-api](https://github.com/quantumnous/new-api) - AIモデルインターフェース管理および配布システムは、複数の大規模モデルを統一形式で呼び出すことをサポートし、OpenAI、Claudeなどの形式をサポートしています。個人または企業内での管理および配布チャネルに使用できます。このプロジェクトはOne APIをベースにして二次開発されています。🍥次世代のLLMゲートウェイおよびAIアセット管理システムは、複数の言語をサポートしています。
 
 
 ## Langchain
@@ -1737,6 +1738,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [giselle](https://github.com/giselles-ai/giselle) - ジゼル：エージェンティックワークフローのためのAI。人間とAIの協力。オープンソース。
  * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - AIパワーを持つデータサイエンスチームのエージェントが、一般的なデータサイエンスタスクを10倍速く実行するのを手伝います。
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAIのWhisperモデルのC/C++でのポートWhisperモデルのC/C++におけるポート
+ * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 複数のコンピュータ環境でAPIを使用してCUA（当社のコンピュータ利用エージェント）の使用方法を学びます。
 
 
 ## Others

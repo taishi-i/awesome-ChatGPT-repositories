@@ -15,20 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [flock](https://github.com/onelevenvy/flock) - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain、FastAPI 和 NextJS 构建。）
+**Reimplementations**
+ * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - Implementation of all RL algorithms in a simpler way
 
 
 **NLP**
- * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
+ * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 
 **Openai**
- * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
- * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+ * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
 
 
-_Updated on April 07, 2025_ (A total of 2052 repositories listed.)
+_Updated on April 10, 2025_ (A total of 2055 repositories listed.)
 
 ## Table of contents
 
@@ -1006,6 +1005,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [GenAI_Agents](https://github.com/nirdiamant/genai_agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
  * [deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.
+ * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - Implementation of all RL algorithms in a simpler way
 
 
 ## Tutorials
@@ -1346,6 +1346,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [pearai-master](https://github.com/trypear/pearai-master) - Master Repo For PearAI
  * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
  * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
+ * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 
 
 ## Langchain
@@ -1737,6 +1738,7 @@ _Updated on April 07, 2025_ (A total of 2052 repositories listed.)
  * [giselle](https://github.com/giselles-ai/giselle) - Giselle: AI for Agentic Workflows. Human-AI Collaboration. Open Source.
  * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+ * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
 
 
 ## Others
