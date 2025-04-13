@@ -15,19 +15,20 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - より簡単な方法ですべてのRLアルゴリズムの実装
+**Awesome-lists**
+ * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。
 
 
-**NLP**
- * [new-api](https://github.com/quantumnous/new-api) - AIモデルインターフェース管理および配布システムは、複数の大規模モデルを統一形式で呼び出すことをサポートし、OpenAI、Claudeなどの形式をサポートしています。個人または企業内での管理および配布チャネルに使用できます。このプロジェクトはOne APIをベースにして二次開発されています。🍥次世代のLLMゲートウェイおよびAIアセット管理システムは、複数の言語をサポートしています。
+**Chatbots**
+ * [mastra](https://github.com/mastra-ai/mastra) - TypeScript AIエージェントフレームワーク。⚡アシスタント、RAG、可観測性。任意のLLMをサポート：GPT-4、Claude、Gemini、Llama。
+ * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡
 
 
-**Openai**
- * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 複数のコンピュータ環境でAPIを使用してCUA（当社のコンピュータ利用エージェント）の使用方法を学びます。
+**Others**
+ * [agentheroes](https://github.com/agentheroes/agentheroes) - AIキャラクターを生成し、アニメーション化してスケジュールを立てる。
 
 
-_Updated on April 10, 2025_ (A total of 2055 repositories listed.)
+_Updated on April 14, 2025_ (A total of 2059 repositories listed.)
 
 ## Table of contents
 
@@ -124,6 +125,7 @@ _Updated on April 10, 2025_ (A total of 2055 repositories listed.)
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI自律エージェントのリスト
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します 一键部署各种Github开源AI项目
  * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。
+ * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。
 
 
 ## Prompts
@@ -595,6 +597,8 @@ _Updated on April 10, 2025_ (A total of 2055 repositories listed.)
  * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 「あなた専用の完全自動化されたAIアシスタント、そしてOpenAIの深い研究に対するオープンソースでコスト効率の良い代替手段」
  * [llmcord](https://github.com/jakobdylanc/llmcord) - DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）
  * [flock](https://github.com/onelevenvy/flock) - Flockは、LangGraph、Langchain、FastAPI、およびNextJSによって強化された、チャットボット、RAG、および複数エージェントチームの調整を迅速に構築するためのワークフローをベースとした低コードプラットフォームです。
+ * [mastra](https://github.com/mastra-ai/mastra) - TypeScript AIエージェントフレームワーク。⚡アシスタント、RAG、可観測性。任意のLLMをサポート：GPT-4、Claude、Gemini、Llama。
+ * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡
 
 
 ## Browser-extensions
@@ -2157,5 +2161,6 @@ _Updated on April 10, 2025_ (A total of 2055 repositories listed.)
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート
  * [memobase](https://github.com/memodb-io/memobase) - AIアプリケーション向けのプロファイルベースの長期記憶
  * [jan](https://github.com/menloresearch/jan) - Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。
+ * [agentheroes](https://github.com/agentheroes/agentheroes) - AIキャラクターを生成し、アニメーション化してスケジュールを立てる。
 
 
