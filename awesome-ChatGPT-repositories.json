@@ -1978,6 +1978,20 @@
                     "zh-hans": "🚀🚀🚀一些关于大型语言模型(LLM)、视觉语言模型(VLM)、视觉语言行动(VLA)、人工智能生成内容(AIGC)以及相关数据集和应用的精彩公共项目收集。",
                     "zh-hant": "🚀🚀🚀一系列關於大型語言模型（LLM）、視覺語言模型（VLM）、視覺語言行動（VLA）、人工智慧生成內容（AIGC）、相關數據集和應用的精彩公共項目收藏。"
                 }
+            },
+            "https://github.com/dontriskit/awesome-ai-system-prompts": {
+                "repository_name": "awesome-ai-system-prompts",
+                "user_name": "dontriskit",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. ",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.",
+                    "ja": "🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。",
+                    "zh-hans": "🧠 精心策划的系统提示集合，适用于顶级AI工具。非常适合AI代理构建者和提示工程师。包括：ChatGPT，Claude，Perplexity，Manus，Claude-Code，Loveable，v0，Grok，same new，windsurf，notion和MetaAI。",
+                    "zh-hant": "🧠 精心挑選的系統提示集合，適用於頂尖AI工具。非常適合AI代理構建者和提示工程師使用。包括：ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion和MetaAI。"
+                }
             }
         },
         "Prompts": {
@@ -13264,6 +13278,56 @@
                     "ja": "Flockは、LangGraph、Langchain、FastAPI、およびNextJSによって強化された、チャットボット、RAG、および複数エージェントチームの調整を迅速に構築するためのワークフローをベースとした低コードプラットフォームです。",
                     "zh-hans": "Flock是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG和协调多代理团队，由LangGraph、Langchain、FastAPI和NextJS驱动。",
                     "zh-hant": "Flock 是一個基於workflow工作流的低代碼平台，用於快速構建聊天機器人、RAG、Agent和Muti-Agent應用，採用 LangGraph、Langchain、FastAPI 和 NextJS。"
+                }
+            },
+            "https://github.com/mastra-ai/mastra": {
+                "repository_name": "mastra",
+                "user_name": "mastra-ai",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "chatbots",
+                    "evals",
+                    "javascript",
+                    "llm",
+                    "mcp",
+                    "nextjs",
+                    "nodejs",
+                    "reactjs",
+                    "tts",
+                    "typescript",
+                    "workflows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.",
+                    "ja": "TypeScript AIエージェントフレームワーク。⚡アシスタント、RAG、可観測性。任意のLLMをサポート：GPT-4、Claude、Gemini、Llama。",
+                    "zh-hans": "TypeScript人工智能代理框架。⚡ 助手，RAG，可观测性。支持任何LLM：GPT-4，Claude，Gemini，Llama。",
+                    "zh-hant": "TypeScript人工智慧代理框架。⚡ 助手，RAG，可觀察性。支援任何LLM：GPT-4，Claude，Gemini，Llama。"
+                }
+            },
+            "https://github.com/yvann-ba/robby-chatbot": {
+                "repository_name": "Robby-chatbot",
+                "user_name": "yvann-ba",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡",
+                "topics": [
+                    "ai",
+                    "chatbot",
+                    "gpt-4",
+                    "langchain",
+                    "nlp",
+                    "openai",
+                    "streamlit"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡",
+                    "ja": "CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡",
+                    "zh-hans": "AI聊天机器人🤖，可与CSV、PDF、TXT文件📄和YTB视频🎥进行交流 | 使用Langchain🦜 | OpenAI | Streamlit ⚡",
+                    "zh-hant": "AI 聊天機器人 🤖 用於與 CSV、PDF、TXT 檔案 📄 和 YTB 影片 🎥 進行聊天 | 使用 Langchain🦜 | OpenAI | Streamlit ⚡"
                 }
             }
         },
@@ -46292,6 +46356,32 @@
                     "ja": "Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。",
                     "zh-hans": "Jan是ChatGPT的开源替代品，可以完全离线在您的计算机上运行。",
                     "zh-hant": "Jan 是 ChatGPT 的開源替代方案，可以在您的電腦上完全離線運行。"
+                }
+            },
+            "https://github.com/agentheroes/agentheroes": {
+                "repository_name": "agentheroes",
+                "user_name": "agentheroes",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Generate, animate and schedule your AI characters 🤖",
+                "topics": [
+                    "agent",
+                    "agents",
+                    "ai",
+                    "chatgpt",
+                    "generate",
+                    "image",
+                    "lora",
+                    "replicate",
+                    "train",
+                    "video",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Generate, animate and schedule your AI characters 🤖",
+                    "ja": "AIキャラクターを生成し、アニメーション化してスケジュールを立てる。",
+                    "zh-hans": "生成，动画和安排您的AI角色 🤖",
+                    "zh-hant": "生成、動畫和安排您的AI角色 🤖"
                 }
             }
         }

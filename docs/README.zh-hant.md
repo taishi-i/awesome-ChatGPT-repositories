@@ -15,19 +15,20 @@
 
 ## The latest additions 🎉
 
-**Reimplementations**
- * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - 以更简单的方式实现所有强化学习算法
+**Awesome-lists**
+ * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 精心挑選的系統提示集合，適用於頂尖AI工具。非常適合AI代理構建者和提示工程師使用。包括：ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion和MetaAI。
 
 
-**NLP**
- * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理與分發系統，支持將多種大模型轉為統一格式調用，支持OpenAI、Claude等格式，可供個人或者企業內部管理與分發渠道使用，本項目基於One API二次開發。🍥 下一代LLM閘道和AI資產管理系統支持多種語言。
+**Chatbots**
+ * [mastra](https://github.com/mastra-ai/mastra) - TypeScript人工智慧代理框架。⚡ 助手，RAG，可觀察性。支援任何LLM：GPT-4，Claude，Gemini，Llama。
+ * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI 聊天機器人 🤖 用於與 CSV、PDF、TXT 檔案 📄 和 YTB 影片 🎥 進行聊天 | 使用 Langchain🦜 | OpenAI | Streamlit ⚡
 
 
-**Openai**
- * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 通過API在多個計算機環境中學習如何使用CUA（我們的計算機使用代理）。
+**Others**
+ * [agentheroes](https://github.com/agentheroes/agentheroes) - 生成、動畫和安排您的AI角色 🤖
 
 
-_Updated on April 10, 2025_ (A total of 2055 repositories listed.)
+_Updated on April 14, 2025_ (A total of 2059 repositories listed.)
 
 ## Table of contents
 
@@ -124,6 +125,7 @@ _Updated on April 10, 2025_ (A total of 2055 repositories listed.)
  * [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - AI 自主代理的清單
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 一鍵部署許多github開源項目，以促進快速體驗
  * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀一系列關於大型語言模型（LLM）、視覺語言模型（VLM）、視覺語言行動（VLA）、人工智慧生成內容（AIGC）、相關數據集和應用的精彩公共項目收藏。
+ * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 精心挑選的系統提示集合，適用於頂尖AI工具。非常適合AI代理構建者和提示工程師使用。包括：ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion和MetaAI。
 
 
 ## Prompts
@@ -595,6 +597,8 @@ _Updated on April 10, 2025_ (A total of 2055 repositories listed.)
  * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 您的全自動個人AI助手，是對OpenAI深度研究的開源和成本效益替代方案。
  * [llmcord](https://github.com/jakobdylanc/llmcord) - 將Discord設置為您的LLM前端 ● 支持任何兼容OpenAI的API（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groq等）
  * [flock](https://github.com/onelevenvy/flock) - Flock 是一個基於workflow工作流的低代碼平台，用於快速構建聊天機器人、RAG、Agent和Muti-Agent應用，採用 LangGraph、Langchain、FastAPI 和 NextJS。
+ * [mastra](https://github.com/mastra-ai/mastra) - TypeScript人工智慧代理框架。⚡ 助手，RAG，可觀察性。支援任何LLM：GPT-4，Claude，Gemini，Llama。
+ * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI 聊天機器人 🤖 用於與 CSV、PDF、TXT 檔案 📄 和 YTB 影片 🎥 進行聊天 | 使用 Langchain🦜 | OpenAI | Streamlit ⚡
 
 
 ## Browser-extensions
@@ -2157,5 +2161,6 @@ _Updated on April 10, 2025_ (A total of 2055 repositories listed.)
  * [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - 前端後端同時開源。Ai-to-pptx是一個使用AI技術(DeepSeek)製作PPTX的助手，支持線上生成和匯出PPTX。主要功能: 1 使用DeepSeek等大語言模型來生成大綱 2 生成PPTX的時候可以選擇不同的模板 3 支持匯出PPTX。
  * [memobase](https://github.com/memodb-io/memobase) - 基於個人檔案的長期記憶，適用於人工智慧應用
  * [jan](https://github.com/menloresearch/jan) - Jan 是 ChatGPT 的開源替代方案，可以在您的電腦上完全離線運行。
+ * [agentheroes](https://github.com/agentheroes/agentheroes) - 生成、動畫和安排您的AI角色 🤖
 
 
