@@ -17,6 +17,7 @@
 
 **Awesome-lists**
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 精心策划的系统提示集合，适用于顶级AI工具。非常适合AI代理构建者和提示工程师。包括：ChatGPT，Claude，Perplexity，Manus，Claude-Code，Loveable，v0，Grok，same new，windsurf，notion和MetaAI。
+ * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - 精选的GPT-4o图像和提示的精彩收藏。探索来自OpenAI最新模型的多样化人工智能生成的艺术风格（吉卜力，3D等）。
 
 
 **Chatbots**
@@ -24,11 +25,19 @@
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI聊天机器人🤖，可与CSV、PDF、TXT文件📄和YTB视频🎥进行交流 | 使用Langchain🦜 | OpenAI | Streamlit ⚡
 
 
+**NLP**
+ * [deep-research](https://github.com/u14app/deep-research) - 使用任何LLMs（大型语言模型）进行深度研究。
+
+
+**Openai**
+ * [whisper_real_time](https://github.com/davabase/whisper_real_time) - 使用OpenAI Whisper进行实时转录。
+
+
 **Others**
  * [agentheroes](https://github.com/agentheroes/agentheroes) - 生成，动画和安排您的AI角色 🤖
 
 
-_Updated on April 14, 2025_ (A total of 2059 repositories listed.)
+_Updated on April 17, 2025_ (A total of 2062 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +135,7 @@ _Updated on April 14, 2025_ (A total of 2059 repositories listed.)
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 一键部署许多Github开源项目，以便快速体验
  * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀一些关于大型语言模型(LLM)、视觉语言模型(VLM)、视觉语言行动(VLA)、人工智能生成内容(AIGC)以及相关数据集和应用的精彩公共项目收集。
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 精心策划的系统提示集合，适用于顶级AI工具。非常适合AI代理构建者和提示工程师。包括：ChatGPT，Claude，Perplexity，Manus，Claude-Code，Loveable，v0，Grok，same new，windsurf，notion和MetaAI。
+ * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - 精选的GPT-4o图像和提示的精彩收藏。探索来自OpenAI最新模型的多样化人工智能生成的艺术风格（吉卜力，3D等）。
 
 
 ## Prompts
@@ -1351,6 +1361,7 @@ _Updated on April 14, 2025_ (A total of 2059 repositories listed.)
  * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - 无缝集成LLMs到scikit-learn中。
  * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 优雅地面对hCaptcha挑战，使用多模态大型语言模型。
  * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 下一代LLM网关和AI资产管理系统支持多种语言。
+ * [deep-research](https://github.com/u14app/deep-research) - 使用任何LLMs（大型语言模型）进行深度研究。
 
 
 ## Langchain
@@ -1743,6 +1754,7 @@ _Updated on April 14, 2025_ (A total of 2059 repositories listed.)
  * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - 一个由人工智能驱动的数据科学团队，可以帮助您以10倍的速度完成常见的数据科学任务。
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAI的Whisper模型在C/C++中的端口
  * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 学习如何在多个计算机环境中通过API使用CUA（我们的计算机使用代理）。
+ * [whisper_real_time](https://github.com/davabase/whisper_real_time) - 使用OpenAI Whisper进行实时转录。
 
 
 ## Others

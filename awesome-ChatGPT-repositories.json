@@ -1992,6 +1992,37 @@
                     "zh-hans": "🧠 精心策划的系统提示集合，适用于顶级AI工具。非常适合AI代理构建者和提示工程师。包括：ChatGPT，Claude，Perplexity，Manus，Claude-Code，Loveable，v0，Grok，same new，windsurf，notion和MetaAI。",
                     "zh-hant": "🧠 精心挑選的系統提示集合，適用於頂尖AI工具。非常適合AI代理構建者和提示工程師使用。包括：ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion和MetaAI。"
                 }
+            },
+            "https://github.com/jamez-bondos/awesome-gpt4o-images": {
+                "repository_name": "awesome-gpt4o-images",
+                "user_name": "jamez-bondos",
+                "language": null,
+                "license": null,
+                "description": "Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model. ",
+                "topics": [
+                    "ai-art",
+                    "ai-image-examples",
+                    "anime-ai-art",
+                    "art-collection",
+                    "awesome-list",
+                    "cartoon-style",
+                    "curated-collection",
+                    "generative-art",
+                    "ghibli-style",
+                    "gpt-4o",
+                    "image-generation",
+                    "manga-style",
+                    "openai",
+                    "prompt-engineering",
+                    "prompts",
+                    "text-to-image"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.",
+                    "ja": "OpenAIの最新モデルから、さまざまなAI生成アートスタイル（ジブリ、3Dなど）を探索できる素晴らしい厳選されたGPT-4o画像とプロンプト。",
+                    "zh-hans": "精选的GPT-4o图像和提示的精彩收藏。探索来自OpenAI最新模型的多样化人工智能生成的艺术风格（吉卜力，3D等）。",
+                    "zh-hant": "精心策劃的GPT-4o圖像和提示的精彩收藏。探索OpenAI最新模型中多樣化的AI生成藝術風格（吉卜力，3D等）。"
+                }
             }
         },
         "Prompts": {
@@ -29866,6 +29897,30 @@
                     "zh-hans": "AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 下一代LLM网关和AI资产管理系统支持多种语言。",
                     "zh-hant": "AI模型接口管理與分發系統，支持將多種大模型轉為統一格式調用，支持OpenAI、Claude等格式，可供個人或者企業內部管理與分發渠道使用，本項目基於One API二次開發。🍥 下一代LLM閘道和AI資產管理系統支持多種語言。"
                 }
+            },
+            "https://github.com/u14app/deep-research": {
+                "repository_name": "deep-research",
+                "user_name": "u14app",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Use any LLMs (Large Language Models) for Deep Research.",
+                "topics": [
+                    "anthropic",
+                    "deep-research",
+                    "deepresearch",
+                    "deepseek",
+                    "gemini",
+                    "gemini-ai",
+                    "grok",
+                    "ollama",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Use any LLMs (Large Language Models) for Deep Research.",
+                    "ja": "深い研究には、どのLLM（大規模言語モデル）を使用しても構いません。",
+                    "zh-hans": "使用任何LLMs（大型语言模型）进行深度研究。",
+                    "zh-hant": "使用任何LLMs（大型語言模型）進行深入研究。"
+                }
             }
         },
         "Langchain": {
@@ -38457,6 +38512,20 @@
                     "ja": "複数のコンピュータ環境でAPIを使用してCUA（当社のコンピュータ利用エージェント）の使用方法を学びます。",
                     "zh-hans": "学习如何在多个计算机环境中通过API使用CUA（我们的计算机使用代理）。",
                     "zh-hant": "通過API在多個計算機環境中學習如何使用CUA（我們的計算機使用代理）。"
+                }
+            },
+            "https://github.com/davabase/whisper_real_time": {
+                "repository_name": "whisper_real_time",
+                "user_name": "davabase",
+                "language": "Python",
+                "license": null,
+                "description": "Real time transcription with OpenAI Whisper.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Real time transcription with OpenAI Whisper.",
+                    "ja": "OpenAI Whisperを使用したリアルタイムの転写。",
+                    "zh-hans": "使用OpenAI Whisper进行实时转录。",
+                    "zh-hant": "使用OpenAI Whisper进行实时转录。"
                 }
             }
         },

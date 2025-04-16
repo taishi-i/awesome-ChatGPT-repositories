@@ -17,6 +17,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 **Awesome-lists**
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.
+ * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.
 
 
 **Chatbots**
@@ -24,11 +25,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
 
 
+**NLP**
+ * [deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
+
+
+**Openai**
+ * [whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
+
+
 **Others**
  * [agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 
 
-_Updated on April 14, 2025_ (A total of 2059 repositories listed.)
+_Updated on April 17, 2025_ (A total of 2062 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +135,7 @@ _Updated on April 14, 2025_ (A total of 2059 repositories listed.)
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
  * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀A collection of some wesome public projects about Large Language Model(LLM), Vision Language Model(VLM), Vision Language Action(VLA), AI Generated Content(AIGC), the related Datasets and Applications.
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.
+ * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.
 
 
 ## Prompts
@@ -1351,6 +1361,7 @@ _Updated on April 14, 2025_ (A total of 2059 repositories listed.)
  * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - Seamlessly integrate LLMs into scikit-learn.
  * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
  * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+ * [deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
 
 
 ## Langchain
@@ -1743,6 +1754,7 @@ _Updated on April 14, 2025_ (A total of 2059 repositories listed.)
  * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
  * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
+ * [whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 
 
 ## Others
