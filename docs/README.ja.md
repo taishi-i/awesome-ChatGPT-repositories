@@ -17,6 +17,7 @@
 
 **Awesome-lists**
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。
+ * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - OpenAIの最新モデルから、さまざまなAI生成アートスタイル（ジブリ、3Dなど）を探索できる素晴らしい厳選されたGPT-4o画像とプロンプト。
 
 
 **Chatbots**
@@ -24,11 +25,19 @@
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡
 
 
+**NLP**
+ * [deep-research](https://github.com/u14app/deep-research) - 深い研究には、どのLLM（大規模言語モデル）を使用しても構いません。
+
+
+**Openai**
+ * [whisper_real_time](https://github.com/davabase/whisper_real_time) - OpenAI Whisperを使用したリアルタイムの転写。
+
+
 **Others**
  * [agentheroes](https://github.com/agentheroes/agentheroes) - AIキャラクターを生成し、アニメーション化してスケジュールを立てる。
 
 
-_Updated on April 14, 2025_ (A total of 2059 repositories listed.)
+_Updated on April 17, 2025_ (A total of 2062 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +135,7 @@ _Updated on April 14, 2025_ (A total of 2059 repositories listed.)
  * [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します 一键部署各种Github开源AI项目
  * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。
+ * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - OpenAIの最新モデルから、さまざまなAI生成アートスタイル（ジブリ、3Dなど）を探索できる素晴らしい厳選されたGPT-4o画像とプロンプト。
 
 
 ## Prompts
@@ -1351,6 +1361,7 @@ _Updated on April 14, 2025_ (A total of 2059 repositories listed.)
  * [scikit-llm](https://github.com/beastbyteai/scikit-llm) - シームレスにLLMsをscikit-learnに統合します。
  * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 マルチモーダルな大規模言語モデルを使用して、優雅にhCaptchaのチャレンジに立ち向かいます。
  * [new-api](https://github.com/quantumnous/new-api) - AIモデルインターフェース管理および配布システムは、複数の大規模モデルを統一形式で呼び出すことをサポートし、OpenAI、Claudeなどの形式をサポートしています。個人または企業内での管理および配布チャネルに使用できます。このプロジェクトはOne APIをベースにして二次開発されています。🍥次世代のLLMゲートウェイおよびAIアセット管理システムは、複数の言語をサポートしています。
+ * [deep-research](https://github.com/u14app/deep-research) - 深い研究には、どのLLM（大規模言語モデル）を使用しても構いません。
 
 
 ## Langchain
@@ -1743,6 +1754,7 @@ _Updated on April 14, 2025_ (A total of 2059 repositories listed.)
  * [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - AIパワーを持つデータサイエンスチームのエージェントが、一般的なデータサイエンスタスクを10倍速く実行するのを手伝います。
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAIのWhisperモデルのC/C++でのポートWhisperモデルのC/C++におけるポート
  * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 複数のコンピュータ環境でAPIを使用してCUA（当社のコンピュータ利用エージェント）の使用方法を学びます。
+ * [whisper_real_time](https://github.com/davabase/whisper_real_time) - OpenAI Whisperを使用したリアルタイムの転写。
 
 
 ## Others
