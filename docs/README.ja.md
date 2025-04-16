@@ -16,13 +16,7 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - OpenAIの最新モデルから、さまざまなAI生成アートスタイル（ジブリ、3Dなど）を探索できる素晴らしい厳選されたGPT-4o画像とプロンプト。
-
-
-**Chatbots**
- * [mastra](https://github.com/mastra-ai/mastra) - TypeScript AIエージェントフレームワーク。⚡アシスタント、RAG、可観測性。任意のLLMをサポート：GPT-4、Claude、Gemini、Llama。
- * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡
 
 
 **NLP**
@@ -31,10 +25,6 @@
 
 **Openai**
  * [whisper_real_time](https://github.com/davabase/whisper_real_time) - OpenAI Whisperを使用したリアルタイムの転写。
-
-
-**Others**
- * [agentheroes](https://github.com/agentheroes/agentheroes) - AIキャラクターを生成し、アニメーション化してスケジュールを立てる。
 
 
 _Updated on April 17, 2025_ (A total of 2062 repositories listed.)
