@@ -16,13 +16,7 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 精心挑選的系統提示集合，適用於頂尖AI工具。非常適合AI代理構建者和提示工程師使用。包括：ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion和MetaAI。
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - 精心策劃的GPT-4o圖像和提示的精彩收藏。探索OpenAI最新模型中多樣化的AI生成藝術風格（吉卜力，3D等）。
-
-
-**Chatbots**
- * [mastra](https://github.com/mastra-ai/mastra) - TypeScript人工智慧代理框架。⚡ 助手，RAG，可觀察性。支援任何LLM：GPT-4，Claude，Gemini，Llama。
- * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI 聊天機器人 🤖 用於與 CSV、PDF、TXT 檔案 📄 和 YTB 影片 🎥 進行聊天 | 使用 Langchain🦜 | OpenAI | Streamlit ⚡
 
 
 **NLP**
@@ -31,10 +25,6 @@
 
 **Openai**
  * [whisper_real_time](https://github.com/davabase/whisper_real_time) - 使用OpenAI Whisper进行实时转录。
-
-
-**Others**
- * [agentheroes](https://github.com/agentheroes/agentheroes) - 生成、動畫和安排您的AI角色 🤖
 
 
 _Updated on April 17, 2025_ (A total of 2062 repositories listed.)
