@@ -16,18 +16,14 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - 精选的GPT-4o图像和提示的精彩收藏。探索来自OpenAI最新模型的多样化人工智能生成的艺术风格（吉卜力，3D等）。
+ * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Whisper的精彩列表 - 一个由OpenAI开发的开源AI驱动的语音识别系统
 
 
-**NLP**
- * [deep-research](https://github.com/u14app/deep-research) - 使用任何LLMs（大型语言模型）进行深度研究。
+**Browser-extensions**
+ * [solon](https://github.com/opensolon/solon) - 🔥 Java企业应用开发框架，适用于全场景：约束、高效、开放、生态友好！并发性能提高700%，内存节省50%，启动速度提高10倍。包大小减小90%，兼容java8 ~ java24。（可替代spr）
 
 
-**Openai**
- * [whisper_real_time](https://github.com/davabase/whisper_real_time) - 使用OpenAI Whisper进行实时转录。
-
-
-_Updated on April 17, 2025_ (A total of 2062 repositories listed.)
+_Updated on April 21, 2025_ (A total of 2064 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +122,7 @@ _Updated on April 17, 2025_ (A total of 2062 repositories listed.)
  * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀一些关于大型语言模型(LLM)、视觉语言模型(VLM)、视觉语言行动(VLA)、人工智能生成内容(AIGC)以及相关数据集和应用的精彩公共项目收集。
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 精心策划的系统提示集合，适用于顶级AI工具。非常适合AI代理构建者和提示工程师。包括：ChatGPT，Claude，Perplexity，Manus，Claude-Code，Loveable，v0，Grok，same new，windsurf，notion和MetaAI。
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - 精选的GPT-4o图像和提示的精彩收藏。探索来自OpenAI最新模型的多样化人工智能生成的艺术风格（吉卜力，3D等）。
+ * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Whisper的精彩列表 - 一个由OpenAI开发的开源AI驱动的语音识别系统
 
 
 ## Prompts
@@ -812,6 +809,7 @@ _Updated on April 17, 2025_ (A total of 2062 repositories listed.)
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawk旨在通过自动化求职流程来简化求职过程。利用人工智能，它使用户能够以个性化的方式申请多个工作。
  * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - 开源、本地化和真正的 GitHub Copilot 替代品，适用于 VS Code
  * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - 开源Chrome扩展程序，用于AI驱动的网络自动化。使用您自己的LLM API密钥运行多代理工作流。是OpenAI Operator的替代方案。
+ * [solon](https://github.com/opensolon/solon) - 🔥 Java企业应用开发框架，适用于全场景：约束、高效、开放、生态友好！并发性能提高700%，内存节省50%，启动速度提高10倍。包大小减小90%，兼容java8 ~ java24。（可替代spr）
 
 
 ## CLIs
