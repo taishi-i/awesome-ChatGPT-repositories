@@ -16,18 +16,14 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - OpenAIの最新モデルから、さまざまなAI生成アートスタイル（ジブリ、3Dなど）を探索できる素晴らしい厳選されたGPT-4o画像とプロンプト。
+ * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 OpenAIによって開発されたオープンソースのAIパワード音声認識システムWhisper用の素晴らしいリストWhisper用の素晴らしいリスト
 
 
-**NLP**
- * [deep-research](https://github.com/u14app/deep-research) - 深い研究には、どのLLM（大規模言語モデル）を使用しても構いません。
+**Browser-extensions**
+ * [solon](https://github.com/opensolon/solon) - 🔥 Javaエンタープライズアプリケーション開発フレームワーク：抑制された、効率的、オープン、エコロジカル!!! 700％高い同時性 50％メモリ節約 スタートアップが10倍速くなりました。パッケージが90％小さくなり、java8〜java24と互換性があります。（置換可能なspr
 
 
-**Openai**
- * [whisper_real_time](https://github.com/davabase/whisper_real_time) - OpenAI Whisperを使用したリアルタイムの転写。
-
-
-_Updated on April 17, 2025_ (A total of 2062 repositories listed.)
+_Updated on April 21, 2025_ (A total of 2064 repositories listed.)
 
 ## Table of contents
 
@@ -126,6 +122,7 @@ _Updated on April 17, 2025_ (A total of 2062 repositories listed.)
  * [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - 🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - OpenAIの最新モデルから、さまざまなAI生成アートスタイル（ジブリ、3Dなど）を探索できる素晴らしい厳選されたGPT-4o画像とプロンプト。
+ * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 OpenAIによって開発されたオープンソースのAIパワード音声認識システムWhisper用の素晴らしいリストWhisper用の素晴らしいリスト
 
 
 ## Prompts
@@ -812,6 +809,7 @@ _Updated on April 17, 2025_ (A total of 2062 repositories listed.)
  * [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。
  * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品
  * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - AI パワードのウェブ自動化のためのオープンソースのChrome拡張機能。独自のLLM APIキーを使用してマルチエージェントワークフローを実行します。OpenAI Operatorの代替手段。
+ * [solon](https://github.com/opensolon/solon) - 🔥 Javaエンタープライズアプリケーション開発フレームワーク：抑制された、効率的、オープン、エコロジカル!!! 700％高い同時性 50％メモリ節約 スタートアップが10倍速くなりました。パッケージが90％小さくなり、java8〜java24と互換性があります。（置換可能なspr
 
 
 ## CLIs
