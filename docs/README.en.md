@@ -15,15 +15,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
+**Prompts**
+ * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - SYSTEM PROMPT TRANSPARENCY FOR ALL
 
 
 **Browser-extensions**
- * [solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java24. (Replaceable spr
+ * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers
 
 
-_Updated on April 21, 2025_ (A total of 2064 repositories listed.)
+_Updated on April 24, 2025_ (A total of 2066 repositories listed.)
 
 ## Table of contents
 
@@ -284,6 +284,7 @@ _Updated on April 21, 2025_ (A total of 2064 repositories listed.)
  * [JamAIBase](https://github.com/embeddedllm/jamaibase) - The collaborative spreadsheet for AI. Chain cells into powerful pipelines, experiment with prompts and models, and evaluate LLM responses in real-time. Work together seamlessly to build and iterate on AI applications.
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - Learn Modern AI Assisted Python with Type Hints
+ * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - SYSTEM PROMPT TRANSPARENCY FOR ALL
 
 
 ## Chatbots
@@ -810,6 +811,7 @@ _Updated on April 21, 2025_ (A total of 2064 repositories listed.)
  * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
  * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
  * [solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java24. (Replaceable spr
+ * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers
 
 
 ## CLIs

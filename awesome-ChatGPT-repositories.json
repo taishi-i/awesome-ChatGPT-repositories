@@ -5782,6 +5782,41 @@
                     "zh-hans": "学习现代AI辅助Python与类型提示",
                     "zh-hant": "學習現代AI輔助Python與類型提示"
                 }
+            },
+            "https://github.com/elder-plinius/cl4r1t4s": {
+                "repository_name": "CL4R1T4S",
+                "user_name": "elder-plinius",
+                "language": null,
+                "license": "GNU Affero General Public License v3.0",
+                "description": "SYSTEM PROMPT TRANSPARENCY FOR ALL",
+                "topics": [
+                    "ai",
+                    "ai-ethics",
+                    "chatgpt",
+                    "cursor",
+                    "devin",
+                    "gemini",
+                    "google",
+                    "grok",
+                    "leak",
+                    "manus",
+                    "openai",
+                    "prompt-engineering",
+                    "red-team",
+                    "red-teaming",
+                    "system-info",
+                    "system-prompts",
+                    "tools",
+                    "transparency",
+                    "windsurf",
+                    "xai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "SYSTEM PROMPT TRANSPARENCY FOR ALL",
+                    "ja": "すべてのためのシステムプロンプト透明化",
+                    "zh-hans": "系统提示：透明度对所有人",
+                    "zh-hant": "系統提示透明度為所有"
+                }
             }
         },
         "Chatbots": {
@@ -18248,6 +18283,37 @@
                     "ja": "🔥 Javaエンタープライズアプリケーション開発フレームワーク：抑制された、効率的、オープン、エコロジカル!!! 700％高い同時性 50％メモリ節約 スタートアップが10倍速くなりました。パッケージが90％小さくなり、java8〜java24と互換性があります。（置換可能なspr",
                     "zh-hans": "🔥 Java企业应用开发框架，适用于全场景：约束、高效、开放、生态友好！并发性能提高700%，内存节省50%，启动速度提高10倍。包大小减小90%，兼容java8 ~ java24。（可替代spr）",
                     "zh-hant": "🔥 Java企業應用程式開發框架，適用於全場景：節制、高效、開放、生態友好！！！並發性提高700％，節省50％內存，啟動速度快10倍。包裝體積縮小90％；兼容java8 〜 java24。（可替換spr"
+                }
+            },
+            "https://github.com/ravitemer/mcphub.nvim": {
+                "repository_name": "mcphub.nvim",
+                "user_name": "ravitemer",
+                "language": "Lua",
+                "license": "MIT License",
+                "description": "A powerful Neovim plugin for managing MCP (Model Context Protocol) servers",
+                "topics": [
+                    "avante",
+                    "chatgpt",
+                    "chatplugin",
+                    "claude-ai",
+                    "codecompanion",
+                    "llm",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-hub",
+                    "mcp-server",
+                    "mcp-servers",
+                    "model-context-protocol",
+                    "neovim",
+                    "neovim-plugin",
+                    "nvim",
+                    "nvim-plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A powerful Neovim plugin for managing MCP (Model Context Protocol) servers",
+                    "ja": "MCP（Model Context Protocol）サーバーを管理するための強力なNeovimプラグイン",
+                    "zh-hans": "一个强大的Neovim插件，用于管理MCP（Model Context Protocol）服务器",
+                    "zh-hant": "一個強大的Neovim插件，用於管理MCP（Model Context Protocol）伺服器"
                 }
             }
         },
