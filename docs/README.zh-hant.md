@@ -15,15 +15,15 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Whisper的精彩清單 - 這是由OpenAI開發的開源AI動力語音識別系統。
+**Prompts**
+ * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - 系統提示透明度為所有
 
 
 **Browser-extensions**
- * [solon](https://github.com/opensolon/solon) - 🔥 Java企業應用程式開發框架，適用於全場景：節制、高效、開放、生態友好！！！並發性提高700％，節省50％內存，啟動速度快10倍。包裝體積縮小90％；兼容java8 〜 java24。（可替換spr
+ * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - 一個強大的Neovim插件，用於管理MCP（Model Context Protocol）伺服器
 
 
-_Updated on April 21, 2025_ (A total of 2064 repositories listed.)
+_Updated on April 24, 2025_ (A total of 2066 repositories listed.)
 
 ## Table of contents
 
@@ -284,6 +284,7 @@ _Updated on April 21, 2025_ (A total of 2064 repositories listed.)
  * [JamAIBase](https://github.com/embeddedllm/jamaibase) - 用於人工智慧的協作試算表。將單元格鏈接成強大的管道，通過提示和模型進行實驗，並即時評估LLM的回應。無縫合作，共同建立和迭代人工智慧應用程序。
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 是一個開源的、基於 Open Telemetry 的端到端觀測工具，用於LLM應用程序，為流行的LLM、LLM框架、向量數據庫等提供實時追蹤、評估和指標。使用Typescript、Python進行集成。🚀💻📊
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - 學習現代AI輔助Python與類型提示
+ * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - 系統提示透明度為所有
 
 
 ## Chatbots
@@ -810,6 +811,7 @@ _Updated on April 21, 2025_ (A total of 2064 repositories listed.)
  * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - 開源、本地化且真正的 GitHub Copilot 替代方案，適用於 VS Code
  * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - 開源Chrome擴展，用於AI驅動的網絡自動化。使用您自己的LLM API密鑰運行多代理工作流程。是OpenAI Operator的替代方案。
  * [solon](https://github.com/opensolon/solon) - 🔥 Java企業應用程式開發框架，適用於全場景：節制、高效、開放、生態友好！！！並發性提高700％，節省50％內存，啟動速度快10倍。包裝體積縮小90％；兼容java8 〜 java24。（可替換spr
+ * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - 一個強大的Neovim插件，用於管理MCP（Model Context Protocol）伺服器
 
 
 ## CLIs

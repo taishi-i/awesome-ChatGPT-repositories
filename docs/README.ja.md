@@ -15,15 +15,15 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 OpenAIによって開発されたオープンソースのAIパワード音声認識システムWhisper用の素晴らしいリストWhisper用の素晴らしいリスト
+**Prompts**
+ * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - すべてのためのシステムプロンプト透明化
 
 
 **Browser-extensions**
- * [solon](https://github.com/opensolon/solon) - 🔥 Javaエンタープライズアプリケーション開発フレームワーク：抑制された、効率的、オープン、エコロジカル!!! 700％高い同時性 50％メモリ節約 スタートアップが10倍速くなりました。パッケージが90％小さくなり、java8〜java24と互換性があります。（置換可能なspr
+ * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - MCP（Model Context Protocol）サーバーを管理するための強力なNeovimプラグイン
 
 
-_Updated on April 21, 2025_ (A total of 2064 repositories listed.)
+_Updated on April 24, 2025_ (A total of 2066 repositories listed.)
 
 ## Table of contents
 
@@ -284,6 +284,7 @@ _Updated on April 21, 2025_ (A total of 2064 repositories listed.)
  * [JamAIBase](https://github.com/embeddedllm/jamaibase) - AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍は、LLMアプリケーション向けのオープンソースのエンドツーエンドの可観測性ツールであり、人気のあるLLM、LLMフレームワーク、ベクターデータベースなどに対してリアルタイムのトレース、評価、メトリクスを提供します。Typescript、Pythonを使用して統合できます。🚀💻📊
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - タイプヒントを使用した現代のAIアシストPythonの学習
+ * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - すべてのためのシステムプロンプト透明化
 
 
 ## Chatbots
@@ -810,6 +811,7 @@ _Updated on April 21, 2025_ (A total of 2064 repositories listed.)
  * [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品
  * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - AI パワードのウェブ自動化のためのオープンソースのChrome拡張機能。独自のLLM APIキーを使用してマルチエージェントワークフローを実行します。OpenAI Operatorの代替手段。
  * [solon](https://github.com/opensolon/solon) - 🔥 Javaエンタープライズアプリケーション開発フレームワーク：抑制された、効率的、オープン、エコロジカル!!! 700％高い同時性 50％メモリ節約 スタートアップが10倍速くなりました。パッケージが90％小さくなり、java8〜java24と互換性があります。（置換可能なspr
+ * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - MCP（Model Context Protocol）サーバーを管理するための強力なNeovimプラグイン
 
 
 ## CLIs
