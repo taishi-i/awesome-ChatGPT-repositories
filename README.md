@@ -16,14 +16,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - SYSTEM PROMPT TRANSPARENCY FOR ALL
+ * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - A free guide for learning to create ChatGPT3 Prompts
 
 
-**Browser-extensions**
- * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers
+**Chatbots**
+ * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
 
 
-_Updated on April 24, 2025_ (A total of 2066 repositories listed.)
+**Langchain**
+ * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
+ * [llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server)
+
+
+**Openai**
+ * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
+ * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
+ * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀
+
+
+_Updated on April 28, 2025_ (A total of 2073 repositories listed.)
 
 ## Table of contents
 
@@ -285,6 +296,7 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDBs and more.. Integrate using Typescript, Python. 🚀💻📊
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - Learn Modern AI Assisted Python with Type Hints
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - SYSTEM PROMPT TRANSPARENCY FOR ALL
+ * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - A free guide for learning to create ChatGPT3 Prompts
 
 
 ## Chatbots
@@ -597,6 +609,7 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [flock](https://github.com/onelevenvy/flock) - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain、FastAPI 和 NextJS 构建。）
  * [mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
+ * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
 
 
 ## Browser-extensions
@@ -1489,6 +1502,8 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
  * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
  * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
+ * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
+ * [llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server)
 
 
 ## Unity
@@ -1745,6 +1760,9 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
  * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
  * [whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
+ * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
+ * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
+ * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀
 
 
 ## Others
