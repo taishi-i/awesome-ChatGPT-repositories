@@ -16,14 +16,25 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - 系統提示透明度為所有
+ * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - 一份免費指南，教你如何創建ChatGPT3提示
 
 
-**Browser-extensions**
- * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - 一個強大的Neovim插件，用於管理MCP（Model Context Protocol）伺服器
+**Chatbots**
+ * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot 是桌面代理的容器。
 
 
-_Updated on April 24, 2025_ (A total of 2066 repositories listed.)
+**Langchain**
+ * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 與代碼智慧共舞。Minuet提供來自流行的LLM（如OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestral等）的即時代碼完成功能。
+ * [llama-swap](https://github.com/mostlygeek/llama-swap) - 請將llama.cpp的模型替換（或任何本地OpenAPI兼容的伺服器）进行翻译
+
+
+**Openai**
+ * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - 一個中介軟體，提供一個與openAI兼容的端點，可以調用MCP工具。
+ * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI 是一個功能強大、可自行託管的 AI 代理平台，旨在提供最大的隱私和靈活性。它是 OpenAI Responses APIs 的完整替代品，具有先進的代理能力。沒有雲端。沒有數據洩漏。只有純粹的本地 AI，可以運行。
+ * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - 這個存儲庫包含了有關Azure API Management的人工智能能力的實驗，與Azure OpenAI，AI Foundry等進行整合，以及更多功能 🚀
+
+
+_Updated on April 28, 2025_ (A total of 2073 repositories listed.)
 
 ## Table of contents
 
@@ -285,6 +296,7 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 是一個開源的、基於 Open Telemetry 的端到端觀測工具，用於LLM應用程序，為流行的LLM、LLM框架、向量數據庫等提供實時追蹤、評估和指標。使用Typescript、Python進行集成。🚀💻📊
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - 學習現代AI輔助Python與類型提示
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - 系統提示透明度為所有
+ * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - 一份免費指南，教你如何創建ChatGPT3提示
 
 
 ## Chatbots
@@ -597,6 +609,7 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [flock](https://github.com/onelevenvy/flock) - Flock 是一個基於workflow工作流的低代碼平台，用於快速構建聊天機器人、RAG、Agent和Muti-Agent應用，採用 LangGraph、Langchain、FastAPI 和 NextJS。
  * [mastra](https://github.com/mastra-ai/mastra) - TypeScript人工智慧代理框架。⚡ 助手，RAG，可觀察性。支援任何LLM：GPT-4，Claude，Gemini，Llama。
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI 聊天機器人 🤖 用於與 CSV、PDF、TXT 檔案 📄 和 YTB 影片 🎥 進行聊天 | 使用 Langchain🦜 | OpenAI | Streamlit ⚡
+ * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot 是桌面代理的容器。
 
 
 ## Browser-extensions
@@ -1489,6 +1502,8 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI賦能股票分析：自選股行情獲取，成本盈虧展示，漲跌報警推送，市場整體/個股情緒分析，K線技術指標分析等。數據全部保留在本地。支持DeepSeek，OpenAI，Ollama，LMStudio，AnythingLLM，硅基流動，火山方舟，阿里雲百煉等平台或模型。
  * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基於大模型 RAG 知識庫的知識圖譜問答系統。Llamaindex + VueJS + Flask + Neo4j。大模型適配 OpenAI、國內主流大模型平台的模型調用、本地 vllm 部署。支持推理模型DeepSeek-R1、聯網檢索。
  * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」是一款跨平台客戶端工具，可以批量為視頻或者音頻生成字幕文件，並支持對字幕進行翻譯，支持百度、火山、openai、ollama、deepseek 等多家翻譯。
+ * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 與代碼智慧共舞。Minuet提供來自流行的LLM（如OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestral等）的即時代碼完成功能。
+ * [llama-swap](https://github.com/mostlygeek/llama-swap) - 請將llama.cpp的模型替換（或任何本地OpenAPI兼容的伺服器）进行翻译
 
 
 ## Unity
@@ -1745,6 +1760,9 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAI的Whisper模型在C/C++中的端口
  * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 通過API在多個計算機環境中學習如何使用CUA（我們的計算機使用代理）。
  * [whisper_real_time](https://github.com/davabase/whisper_real_time) - 使用OpenAI Whisper进行实时转录。
+ * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - 一個中介軟體，提供一個與openAI兼容的端點，可以調用MCP工具。
+ * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI 是一個功能強大、可自行託管的 AI 代理平台，旨在提供最大的隱私和靈活性。它是 OpenAI Responses APIs 的完整替代品，具有先進的代理能力。沒有雲端。沒有數據洩漏。只有純粹的本地 AI，可以運行。
+ * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - 這個存儲庫包含了有關Azure API Management的人工智能能力的實驗，與Azure OpenAI，AI Foundry等進行整合，以及更多功能 🚀
 
 
 ## Others

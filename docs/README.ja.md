@@ -16,14 +16,25 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - すべてのためのシステムプロンプト透明化
+ * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - ChatGPT3プロンプトの作成方法を学ぶための無料ガイド
 
 
-**Browser-extensions**
- * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - MCP（Model Context Protocol）サーバーを管理するための強力なNeovimプラグイン
+**Chatbots**
+ * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebotはデスクトップエージェントのコンテナです。Bytebotはデスクトップエージェントのコンテナです。
 
 
-_Updated on April 24, 2025_ (A total of 2066 repositories listed.)
+**Langchain**
+ * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。
+ * [llama-swap](https://github.com/mostlygeek/llama-swap) - llama.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）ラマ.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）
+
+
+**Openai**
+ * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - MCPツールを呼び出すことができるopenAI互換のエンドポイントを提供するミドルウェア
+ * [LocalAGI](https://github.com/mudler/localagi) - LocalAGIは、最大限のプライバシーと柔軟性を備えた強力な、自己ホスト可能なAIエージェントプラットフォームです。OpenAIのResponses APIの完全なドロップイン置換で、高度なエージェント機能を備えています。クラウドなし。データ漏洩なし。純粋なローカルAIのみが動作します。
+ * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - このリポジトリには、Azure API ManagementのAI機能に関する実験が含まれており、Azure OpenAI、AI Foundryなどと統合されています 🚀
+
+
+_Updated on April 28, 2025_ (A total of 2073 repositories listed.)
 
 ## Table of contents
 
@@ -285,6 +296,7 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍は、LLMアプリケーション向けのオープンソースのエンドツーエンドの可観測性ツールであり、人気のあるLLM、LLMフレームワーク、ベクターデータベースなどに対してリアルタイムのトレース、評価、メトリクスを提供します。Typescript、Pythonを使用して統合できます。🚀💻📊
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - タイプヒントを使用した現代のAIアシストPythonの学習
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - すべてのためのシステムプロンプト透明化
+ * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - ChatGPT3プロンプトの作成方法を学ぶための無料ガイド
 
 
 ## Chatbots
@@ -597,6 +609,7 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [flock](https://github.com/onelevenvy/flock) - Flockは、LangGraph、Langchain、FastAPI、およびNextJSによって強化された、チャットボット、RAG、および複数エージェントチームの調整を迅速に構築するためのワークフローをベースとした低コードプラットフォームです。
  * [mastra](https://github.com/mastra-ai/mastra) - TypeScript AIエージェントフレームワーク。⚡アシスタント、RAG、可観測性。任意のLLMをサポート：GPT-4、Claude、Gemini、Llama。
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡
+ * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebotはデスクトップエージェントのコンテナです。Bytebotはデスクトップエージェントのコンテナです。
 
 
 ## Browser-extensions
@@ -1489,6 +1502,8 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AIが株式分析をサポート：自分で選んだ株の市況情報を取得し、コストと利益を表示し、価格の変動に関する警告をプッシュ通知します。市場全体や個別株の感情分析、ローソク足テクニカル指標分析などをサポートします。データはすべてローカルに保存されます。DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、Silicon Mobility、Volcano Ark、Alibaba Cloud Hundred Refinementsなどのプラットフォームやモデルをサポートしています。
  * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 大規模モデルRAGの知識ベースを利用した知識グラフ質問応答システム。Llamaindex + VueJS + Flask + Neo4j。大規模モデルはOpenAIや国内の主要なモデルプラットフォームに適合し、ローカルでのvllmデプロイメントをサポートします。推論モデルDeepSeek-R1やネットワーク検索をサポートします。
  * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」は、動画や音声ファイルに対して一括で字幕ファイルを生成し、字幕の翻訳をサポートするクロスプラットフォームのクライアントツールです。百度、火山、openai、ollama、deepseekなど、複数の翻訳サービスをサポートしています。
+ * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。
+ * [llama-swap](https://github.com/mostlygeek/llama-swap) - llama.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）ラマ.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）
 
 
 ## Unity
@@ -1745,6 +1760,9 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAIのWhisperモデルのC/C++でのポートWhisperモデルのC/C++におけるポート
  * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 複数のコンピュータ環境でAPIを使用してCUA（当社のコンピュータ利用エージェント）の使用方法を学びます。
  * [whisper_real_time](https://github.com/davabase/whisper_real_time) - OpenAI Whisperを使用したリアルタイムの転写。
+ * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - MCPツールを呼び出すことができるopenAI互換のエンドポイントを提供するミドルウェア
+ * [LocalAGI](https://github.com/mudler/localagi) - LocalAGIは、最大限のプライバシーと柔軟性を備えた強力な、自己ホスト可能なAIエージェントプラットフォームです。OpenAIのResponses APIの完全なドロップイン置換で、高度なエージェント機能を備えています。クラウドなし。データ漏洩なし。純粋なローカルAIのみが動作します。
+ * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - このリポジトリには、Azure API ManagementのAI機能に関する実験が含まれており、Azure OpenAI、AI Foundryなどと統合されています 🚀
 
 
 ## Others

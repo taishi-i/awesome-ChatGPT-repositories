@@ -16,14 +16,25 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - 系统提示：透明度对所有人
+ * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - 一个免费指南，教你如何创建ChatGPT3提示。
 
 
-**Browser-extensions**
- * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - 一个强大的Neovim插件，用于管理MCP（Model Context Protocol）服务器
+**Chatbots**
+ * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot是桌面代理的容器。
 
 
-_Updated on April 24, 2025_ (A total of 2066 repositories listed.)
+**Langchain**
+ * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 在您的代码中智能舞蹈。Minuet提供来自流行的LLMs（如OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestral等）的即时代码补全。
+ * [llama-swap](https://github.com/mostlygeek/llama-swap) - llama.cpp的模型交换（或任何本地OpenAPI兼容服务器）输出：
+
+
+**Openai**
+ * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - 一个中间件，提供一个与openAI兼容的端点，可以调用MCP工具。
+ * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI是一个功能强大、可自托管的AI代理平台，旨在实现最大隐私和灵活性。它是OpenAI响应API的完整替代品，具有先进的代理能力。没有云。没有数据泄漏。只有纯粹的本地AI可以运行。
+ * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - 这个存储库包含了关于Azure API Management的人工智能能力的实验，与Azure OpenAI，AI Foundry等进行集成，以及更多 🚀
+
+
+_Updated on April 28, 2025_ (A total of 2073 repositories listed.)
 
 ## Table of contents
 
@@ -285,6 +296,7 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [langtrace](https://github.com/scale3-labs/langtrace) - Langtrace 🔍 是一个基于开放遥测的开源端到端观测工具，用于LLM应用程序，为流行的LLM、LLM框架、向量数据库等提供实时跟踪、评估和指标。使用Typescript、Python进行集成。🚀💻📊
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - 学习现代AI辅助Python与类型提示
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - 系统提示：透明度对所有人
+ * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - 一个免费指南，教你如何创建ChatGPT3提示。
 
 
 ## Chatbots
@@ -597,6 +609,7 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [flock](https://github.com/onelevenvy/flock) - Flock是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG和协调多代理团队，由LangGraph、Langchain、FastAPI和NextJS驱动。
  * [mastra](https://github.com/mastra-ai/mastra) - TypeScript人工智能代理框架。⚡ 助手，RAG，可观测性。支持任何LLM：GPT-4，Claude，Gemini，Llama。
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI聊天机器人🤖，可与CSV、PDF、TXT文件📄和YTB视频🎥进行交流 | 使用Langchain🦜 | OpenAI | Streamlit ⚡
+ * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot是桌面代理的容器。
 
 
 ## Browser-extensions
@@ -1489,6 +1502,8 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [go-stock](https://github.com/arvinlovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：自选股行情获取，成本盈亏展示，涨跌报警推送，市场整体/个股情绪分析，K线技术指标分析等。数据全部保留在本地。支持DeepSeek，OpenAI，Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。
  * [Yuxi-Know](https://github.com/xerrors/yuxi-know) - 基于大型模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大型模型适配 OpenAI、国内主流大型模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。
  * [SmartSub](https://github.com/buxuku/smartsub) - "妙幕"是一款跨平台客户端工具，可以批量为视频或音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek等多家翻译。
+ * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 在您的代码中智能舞蹈。Minuet提供来自流行的LLMs（如OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestral等）的即时代码补全。
+ * [llama-swap](https://github.com/mostlygeek/llama-swap) - llama.cpp的模型交换（或任何本地OpenAPI兼容服务器）输出：
 
 
 ## Unity
@@ -1745,6 +1760,9 @@ _Updated on April 24, 2025_ (A total of 2066 repositories listed.)
  * [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - OpenAI的Whisper模型在C/C++中的端口
  * [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - 学习如何在多个计算机环境中通过API使用CUA（我们的计算机使用代理）。
  * [whisper_real_time](https://github.com/davabase/whisper_real_time) - 使用OpenAI Whisper进行实时转录。
+ * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - 一个中间件，提供一个与openAI兼容的端点，可以调用MCP工具。
+ * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI是一个功能强大、可自托管的AI代理平台，旨在实现最大隐私和灵活性。它是OpenAI响应API的完整替代品，具有先进的代理能力。没有云。没有数据泄漏。只有纯粹的本地AI可以运行。
+ * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - 这个存储库包含了关于Azure API Management的人工智能能力的实验，与Azure OpenAI，AI Foundry等进行集成，以及更多 🚀
 
 
 ## Others

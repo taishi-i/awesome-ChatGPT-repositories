@@ -5817,6 +5817,25 @@
                     "zh-hans": "系统提示：透明度对所有人",
                     "zh-hant": "系統提示透明度為所有"
                 }
+            },
+            "https://github.com/mattnigh/chatgpt-free-prompt-list": {
+                "repository_name": "ChatGPT-Free-Prompt-List",
+                "user_name": "mattnigh",
+                "language": "TypeScript",
+                "license": null,
+                "description": "A free guide for learning to create ChatGPT3 Prompts",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "chatgpt3",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A free guide for learning to create ChatGPT3 Prompts",
+                    "ja": "ChatGPT3プロンプトの作成方法を学ぶための無料ガイド",
+                    "zh-hans": "一个免费指南，教你如何创建ChatGPT3提示。",
+                    "zh-hant": "一份免費指南，教你如何創建ChatGPT3提示"
+                }
             }
         },
         "Chatbots": {
@@ -13417,6 +13436,35 @@
                     "ja": "CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡",
                     "zh-hans": "AI聊天机器人🤖，可与CSV、PDF、TXT文件📄和YTB视频🎥进行交流 | 使用Langchain🦜 | OpenAI | Streamlit ⚡",
                     "zh-hant": "AI 聊天機器人 🤖 用於與 CSV、PDF、TXT 檔案 📄 和 YTB 影片 🎥 進行聊天 | 使用 Langchain🦜 | OpenAI | Streamlit ⚡"
+                }
+            },
+            "https://github.com/bytebot-ai/bytebot": {
+                "repository_name": "bytebot",
+                "user_name": "bytebot-ai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Bytebot is the container for desktop agents.",
+                "topics": [
+                    "agentic-ai",
+                    "agents",
+                    "ai-agents",
+                    "ai-tools",
+                    "anthropic",
+                    "automation",
+                    "bytebot",
+                    "computer-use",
+                    "cua",
+                    "desktop-automation",
+                    "docker",
+                    "gemini",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Bytebot is the container for desktop agents.",
+                    "ja": "Bytebotはデスクトップエージェントのコンテナです。Bytebotはデスクトップエージェントのコンテナです。",
+                    "zh-hans": "Bytebot是桌面代理的容器。",
+                    "zh-hant": "Bytebot 是桌面代理的容器。"
                 }
             }
         },
@@ -33240,6 +33288,49 @@
                     "zh-hans": "\"妙幕\"是一款跨平台客户端工具，可以批量为视频或音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek等多家翻译。",
                     "zh-hant": "「妙幕」是一款跨平台客戶端工具，可以批量為視頻或者音頻生成字幕文件，並支持對字幕進行翻譯，支持百度、火山、openai、ollama、deepseek 等多家翻譯。"
                 }
+            },
+            "https://github.com/milanglacier/minuet-ai.nvim": {
+                "repository_name": "minuet-ai.nvim",
+                "user_name": "milanglacier",
+                "language": "Lua",
+                "license": "GNU General Public License v3.0",
+                "description": "💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.",
+                "topics": [
+                    "ai",
+                    "code-completion",
+                    "llm",
+                    "neovim",
+                    "neovim-plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.",
+                    "ja": "💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。",
+                    "zh-hans": "💃 在您的代码中智能舞蹈。Minuet提供来自流行的LLMs（如OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestral等）的即时代码补全。",
+                    "zh-hant": "💃 與代碼智慧共舞。Minuet提供來自流行的LLM（如OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestral等）的即時代碼完成功能。"
+                }
+            },
+            "https://github.com/mostlygeek/llama-swap": {
+                "repository_name": "llama-swap",
+                "user_name": "mostlygeek",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Model swapping for llama.cpp (or any local OpenAPI compatible server)",
+                "topics": [
+                    "golang",
+                    "llama",
+                    "llamacpp",
+                    "localllama",
+                    "localllm",
+                    "openai",
+                    "openai-api",
+                    "vllm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Model swapping for llama.cpp (or any local OpenAPI compatible server)",
+                    "ja": "llama.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）ラマ.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）",
+                    "zh-hans": "llama.cpp的模型交换（或任何本地OpenAPI兼容服务器）输出：",
+                    "zh-hant": "請將llama.cpp的模型替換（或任何本地OpenAPI兼容的伺服器）进行翻译"
+                }
             }
         },
         "Unity": {
@@ -38648,6 +38739,68 @@
                     "ja": "OpenAI Whisperを使用したリアルタイムの転写。",
                     "zh-hans": "使用OpenAI Whisper进行实时转录。",
                     "zh-hant": "使用OpenAI Whisper进行实时转录。"
+                }
+            },
+            "https://github.com/secretiveshell/mcp-bridge": {
+                "repository_name": "MCP-Bridge",
+                "user_name": "SecretiveShell",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A middleware to provide an openAI compatible endpoint that can call MCP tools",
+                "topics": [
+                    "ai",
+                    "claude",
+                    "mcp",
+                    "mcp-server",
+                    "mcp-servers",
+                    "model-context-protocol",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A middleware to provide an openAI compatible endpoint that can call MCP tools",
+                    "ja": "MCPツールを呼び出すことができるopenAI互換のエンドポイントを提供するミドルウェア",
+                    "zh-hans": "一个中间件，提供一个与openAI兼容的端点，可以调用MCP工具。",
+                    "zh-hant": "一個中介軟體，提供一個與openAI兼容的端點，可以調用MCP工具。"
+                }
+            },
+            "https://github.com/mudler/localagi": {
+                "repository_name": "LocalAGI",
+                "user_name": "mudler",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on",
+                    "ja": "LocalAGIは、最大限のプライバシーと柔軟性を備えた強力な、自己ホスト可能なAIエージェントプラットフォームです。OpenAIのResponses APIの完全なドロップイン置換で、高度なエージェント機能を備えています。クラウドなし。データ漏洩なし。純粋なローカルAIのみが動作します。",
+                    "zh-hans": "LocalAGI是一个功能强大、可自托管的AI代理平台，旨在实现最大隐私和灵活性。它是OpenAI响应API的完整替代品，具有先进的代理能力。没有云。没有数据泄漏。只有纯粹的本地AI可以运行。",
+                    "zh-hant": "LocalAGI 是一個功能強大、可自行託管的 AI 代理平台，旨在提供最大的隱私和靈活性。它是 OpenAI Responses APIs 的完整替代品，具有先進的代理能力。沒有雲端。沒有數據洩漏。只有純粹的本地 AI，可以運行。"
+                }
+            },
+            "https://github.com/azure-samples/ai-gateway": {
+                "repository_name": "AI-Gateway",
+                "user_name": "Azure-Samples",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀",
+                "topics": [
+                    "agents",
+                    "apimanagement",
+                    "autogen",
+                    "azure",
+                    "foundry",
+                    "genai",
+                    "mcp",
+                    "mcp-server",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀",
+                    "ja": "APIM ❤️ AI - このリポジトリには、Azure API ManagementのAI機能に関する実験が含まれており、Azure OpenAI、AI Foundryなどと統合されています 🚀",
+                    "zh-hans": "APIM ❤️ AI - 这个存储库包含了关于Azure API Management的人工智能能力的实验，与Azure OpenAI，AI Foundry等进行集成，以及更多 🚀",
+                    "zh-hant": "APIM ❤️ AI - 這個存儲庫包含了有關Azure API Management的人工智能能力的實驗，與Azure OpenAI，AI Foundry等進行整合，以及更多功能 🚀"
                 }
             }
         },
