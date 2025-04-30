@@ -15,26 +15,26 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - 一个免费指南，教你如何创建ChatGPT3提示。
-
-
 **Chatbots**
- * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot是桌面代理的容器。
+ * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI框架专门针对AI功能调用进行了编译器技能增强。
+ * [ElatoAI](https://github.com/akdeb/elatoai) - 使用OpenAI Realtime API在Arduino ESP32上实现实时AI语音，配合安全的Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。
 
 
-**Langchain**
- * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 在您的代码中智能舞蹈。Minuet提供来自流行的LLMs（如OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestral等）的即时代码补全。
- * [llama-swap](https://github.com/mostlygeek/llama-swap) - llama.cpp的模型交换（或任何本地OpenAPI兼容服务器）输出：
+**NLP**
+ * [EmbedAnything](https://github.com/starlightsearch/embedanything) - 使用Rust构建的生产就绪推断、摄取和索引 🦀
 
 
 **Openai**
- * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - 一个中间件，提供一个与openAI兼容的端点，可以调用MCP工具。
- * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI是一个功能强大、可自托管的AI代理平台，旨在实现最大隐私和灵活性。它是OpenAI响应API的完整替代品，具有先进的代理能力。没有云。没有数据泄漏。只有纯粹的本地AI可以运行。
- * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - 这个存储库包含了关于Azure API Management的人工智能能力的实验，与Azure OpenAI，AI Foundry等进行集成，以及更多 🚀
+ * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI 接口聚合管理，我们致力于提供优质的API接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。
+ * [attorch](https://github.com/bobmcdear/attorch) - 使用OpenAI的Triton在Python中编写的PyTorch神经网络模块的子集。
+ * [shippie](https://github.com/mattzcarey/shippie) - 一个可扩展的代码审查代理 🚢
 
 
-_Updated on April 28, 2025_ (A total of 2073 repositories listed.)
+**Others**
+ * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
+
+
+_Updated on May 01, 2025_ (A total of 2080 repositories listed.)
 
 ## Table of contents
 
@@ -610,6 +610,8 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [mastra](https://github.com/mastra-ai/mastra) - TypeScript人工智能代理框架。⚡ 助手，RAG，可观测性。支持任何LLM：GPT-4，Claude，Gemini，Llama。
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI聊天机器人🤖，可与CSV、PDF、TXT文件📄和YTB视频🎥进行交流 | 使用Langchain🦜 | OpenAI | Streamlit ⚡
  * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot是桌面代理的容器。
+ * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI框架专门针对AI功能调用进行了编译器技能增强。
+ * [ElatoAI](https://github.com/akdeb/elatoai) - 使用OpenAI Realtime API在Arduino ESP32上实现实时AI语音，配合安全的Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。
 
 
 ## Browser-extensions
@@ -1365,6 +1367,7 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 优雅地面对hCaptcha挑战，使用多模态大型语言模型。
  * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 下一代LLM网关和AI资产管理系统支持多种语言。
  * [deep-research](https://github.com/u14app/deep-research) - 使用任何LLMs（大型语言模型）进行深度研究。
+ * [EmbedAnything](https://github.com/starlightsearch/embedanything) - 使用Rust构建的生产就绪推断、摄取和索引 🦀
 
 
 ## Langchain
@@ -1763,6 +1766,9 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - 一个中间件，提供一个与openAI兼容的端点，可以调用MCP工具。
  * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI是一个功能强大、可自托管的AI代理平台，旨在实现最大隐私和灵活性。它是OpenAI响应API的完整替代品，具有先进的代理能力。没有云。没有数据泄漏。只有纯粹的本地AI可以运行。
  * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - 这个存储库包含了关于Azure API Management的人工智能能力的实验，与Azure OpenAI，AI Foundry等进行集成，以及更多 🚀
+ * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI 接口聚合管理，我们致力于提供优质的API接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。
+ * [attorch](https://github.com/bobmcdear/attorch) - 使用OpenAI的Triton在Python中编写的PyTorch神经网络模块的子集。
+ * [shippie](https://github.com/mattzcarey/shippie) - 一个可扩展的代码审查代理 🚢
 
 
 ## Others
@@ -2182,5 +2188,6 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [memobase](https://github.com/memodb-io/memobase) - 基于个人资料的长期记忆，适用于人工智能应用
  * [jan](https://github.com/menloresearch/jan) - Jan是ChatGPT的开源替代品，可以完全离线在您的计算机上运行。
  * [agentheroes](https://github.com/agentheroes/agentheroes) - 生成，动画和安排您的AI角色 🤖
+ * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
 
 
