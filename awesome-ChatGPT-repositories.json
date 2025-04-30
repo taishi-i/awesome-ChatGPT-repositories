@@ -13466,6 +13466,63 @@
                     "zh-hans": "Bytebot是桌面代理的容器。",
                     "zh-hant": "Bytebot 是桌面代理的容器。"
                 }
+            },
+            "https://github.com/wrtnlabs/agentica": {
+                "repository_name": "agentica",
+                "user_name": "wrtnlabs",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "TypeScript AI Framework specialized AI Function Calling enhanced by compiler skills.",
+                "topics": [
+                    "agent",
+                    "agentic",
+                    "agentic-ai",
+                    "agentic-framework",
+                    "ai",
+                    "chatbot",
+                    "claude",
+                    "function-calling",
+                    "llama",
+                    "llm-function-calling",
+                    "multi-agent-system",
+                    "openai",
+                    "openapi",
+                    "rag",
+                    "retrieval-augmented-generation",
+                    "swagger",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TypeScript AI Framework specialized AI Function Calling enhanced by compiler skills.",
+                    "ja": "TypeScript AIフレームワークは、コンパイラのスキルによって強化されたAI関数呼び出しを特化しています。",
+                    "zh-hans": "TypeScript AI框架专门针对AI功能调用进行了编译器技能增强。",
+                    "zh-hant": "TypeScript AI 框架，由編譯器技能增強的專門的 AI 功能調用。"
+                }
+            },
+            "https://github.com/akdeb/elatoai": {
+                "repository_name": "ElatoAI",
+                "user_name": "akdeb",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Realtime AI speech with OpenAI Realtime API on Arduino ESP32 with Secure Websockets and Deno edge functions with >10min uninterrupted conversations globally for AI toys, AI companions, AI devices and more",
+                "topics": [
+                    "ai",
+                    "arduino",
+                    "deno",
+                    "esp32",
+                    "hardware",
+                    "openai",
+                    "realtime",
+                    "realtime-api",
+                    "speech-to-speech",
+                    "supabase"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Realtime AI speech with OpenAI Realtime API on Arduino ESP32 with Secure Websockets and Deno edge functions with >10min uninterrupted conversations globally for AI toys, AI companions, AI devices and more",
+                    "ja": "OpenAI Realtime APIを使用したArduino ESP32上のリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話Arduino ESP32上でのOpenAI Realtime APIを使用したリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話",
+                    "zh-hans": "使用OpenAI Realtime API在Arduino ESP32上实现实时AI语音，配合安全的Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。",
+                    "zh-hant": "使用OpenAI Realtime API在Arduino ESP32上进行实时AI语音，配合安全Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。"
+                }
             }
         },
         "Browser-extensions": {
@@ -30091,6 +30148,41 @@
                     "zh-hans": "使用任何LLMs（大型语言模型）进行深度研究。",
                     "zh-hant": "使用任何LLMs（大型語言模型）進行深入研究。"
                 }
+            },
+            "https://github.com/starlightsearch/embedanything": {
+                "repository_name": "EmbedAnything",
+                "user_name": "StarlightSearch",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "Production-ready Inference, Ingestion and Indexing built in Rust 🦀",
+                "topics": [
+                    "colpali",
+                    "embedding-models",
+                    "index",
+                    "indexing",
+                    "information-retrieval",
+                    "ingestion",
+                    "jina",
+                    "large-language-models",
+                    "late-interaction",
+                    "machine-learning",
+                    "modernbert",
+                    "onnx",
+                    "onnxruntime",
+                    "openai",
+                    "rag",
+                    "rust",
+                    "rust-lang",
+                    "splade",
+                    "vector-database",
+                    "vision-language-model"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Production-ready Inference, Ingestion and Indexing built in Rust 🦀",
+                    "ja": "Rustで構築された本番向けの推論、取り込み、およびインデックス作成 🦀",
+                    "zh-hans": "使用Rust构建的生产就绪推断、摄取和索引 🦀",
+                    "zh-hant": "具备生产就绪的推理、摄取和索引功能，使用Rust语言构建 🦀"
+                }
             }
         },
         "Langchain": {
@@ -38802,6 +38894,69 @@
                     "zh-hans": "APIM ❤️ AI - 这个存储库包含了关于Azure API Management的人工智能能力的实验，与Azure OpenAI，AI Foundry等进行集成，以及更多 🚀",
                     "zh-hant": "APIM ❤️ AI - 這個存儲庫包含了有關Azure API Management的人工智能能力的實驗，與Azure OpenAI，AI Foundry等進行整合，以及更多功能 🚀"
                 }
+            },
+            "https://github.com/ai365vip/chat-api": {
+                "repository_name": "chat-api",
+                "user_name": "ai365vip",
+                "language": "JavaScript",
+                "license": "Other",
+                "description": "OpenAI 接口聚合管理，我们致力于提供优质的API接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI interface aggregation management, we are committed to providing high-quality API access services, allowing you to easily integrate advanced AI models into your products and services.",
+                    "ja": "OpenAI インターフェースの統合管理、私たちは優れたAPIアクセスサービスを提供することに取り組んでおり、先進的なAIモデルを製品やサービスに簡単に統合できるようにしています。",
+                    "zh-hans": "OpenAI 接口聚合管理，我们致力于提供优质的API接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。",
+                    "zh-hant": "OpenAI 接口聚合管理，我們致力於提供優質的API接入服務，讓您可以輕鬆集成先進的AI模型至您的產品和服務。"
+                }
+            },
+            "https://github.com/bobmcdear/attorch": {
+                "repository_name": "attorch",
+                "user_name": "BobMcDear",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.",
+                "topics": [
+                    "cuda",
+                    "deep-learning",
+                    "machine-learning",
+                    "openai",
+                    "openai-triton",
+                    "pytorch",
+                    "triton"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.",
+                    "ja": "OpenAIのTritonを使用してPythonで書かれたPyTorchのニューラルネットワークモジュールのサブセット。PyTorchのニューラルネットワークモジュールのサブセット、OpenAIのTritonを使用してPythonで書かれています。",
+                    "zh-hans": "使用OpenAI的Triton在Python中编写的PyTorch神经网络模块的子集。",
+                    "zh-hant": "PyTorch的神經網絡模塊的子集，使用OpenAI的Triton用Python編寫。PyTorch的神經網絡模塊的子集，使用OpenAI的Triton用Python編寫。"
+                }
+            },
+            "https://github.com/mattzcarey/shippie": {
+                "repository_name": "shippie",
+                "user_name": "mattzcarey",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "an extensible code review agent 🚢",
+                "topics": [
+                    "agent",
+                    "agents",
+                    "cicd",
+                    "code-quality",
+                    "code-review",
+                    "github",
+                    "gpt-4",
+                    "huggingface",
+                    "mcp",
+                    "modelcontextprotocol",
+                    "openai",
+                    "opensource"
+                ],
+                "multilingual_descriptions": {
+                    "en": "an extensible code review agent 🚢",
+                    "ja": "拡張可能なコードレビューエージェント 🚢",
+                    "zh-hans": "一个可扩展的代码审查代理 🚢",
+                    "zh-hant": "一個可擴展的程式碼審查代理 🚢"
+                }
             }
         },
         "Others": {
@@ -46726,6 +46881,20 @@
                     "ja": "AIキャラクターを生成し、アニメーション化してスケジュールを立てる。",
                     "zh-hans": "生成，动画和安排您的AI角色 🤖",
                     "zh-hant": "生成、動畫和安排您的AI角色 🤖"
+                }
+            },
+            "https://github.com/dreamhunter2333/chatgpt-tarot-divination": {
+                "repository_name": "chatgpt-tarot-divination",
+                "user_name": "dreamhunter2333",
+                "language": "Python",
+                "license": null,
+                "description": "AI 算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "AI fortune-telling, divination, tarot cards, name analysis, dream interpretation, Chinese astrology, plum blossom numerology",
+                    "ja": "AI 占い、占星術、タロットカード、姓名判断、夢占い、八字占い、梅花易数",
+                    "zh-hans": "AI算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数",
+                    "zh-hant": "AI 算命，占卜，塔羅牌，姓名五格，周公解夢，生辰八字，梅花易數"
                 }
             }
         }

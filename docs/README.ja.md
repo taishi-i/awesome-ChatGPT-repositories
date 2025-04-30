@@ -15,26 +15,26 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - ChatGPT3プロンプトの作成方法を学ぶための無料ガイド
-
-
 **Chatbots**
- * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebotはデスクトップエージェントのコンテナです。Bytebotはデスクトップエージェントのコンテナです。
+ * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AIフレームワークは、コンパイラのスキルによって強化されたAI関数呼び出しを特化しています。
+ * [ElatoAI](https://github.com/akdeb/elatoai) - OpenAI Realtime APIを使用したArduino ESP32上のリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話Arduino ESP32上でのOpenAI Realtime APIを使用したリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話
 
 
-**Langchain**
- * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。
- * [llama-swap](https://github.com/mostlygeek/llama-swap) - llama.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）ラマ.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）
+**NLP**
+ * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Rustで構築された本番向けの推論、取り込み、およびインデックス作成 🦀
 
 
 **Openai**
- * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - MCPツールを呼び出すことができるopenAI互換のエンドポイントを提供するミドルウェア
- * [LocalAGI](https://github.com/mudler/localagi) - LocalAGIは、最大限のプライバシーと柔軟性を備えた強力な、自己ホスト可能なAIエージェントプラットフォームです。OpenAIのResponses APIの完全なドロップイン置換で、高度なエージェント機能を備えています。クラウドなし。データ漏洩なし。純粋なローカルAIのみが動作します。
- * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - このリポジトリには、Azure API ManagementのAI機能に関する実験が含まれており、Azure OpenAI、AI Foundryなどと統合されています 🚀
+ * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI インターフェースの統合管理、私たちは優れたAPIアクセスサービスを提供することに取り組んでおり、先進的なAIモデルを製品やサービスに簡単に統合できるようにしています。
+ * [attorch](https://github.com/bobmcdear/attorch) - OpenAIのTritonを使用してPythonで書かれたPyTorchのニューラルネットワークモジュールのサブセット。PyTorchのニューラルネットワークモジュールのサブセット、OpenAIのTritonを使用してPythonで書かれています。
+ * [shippie](https://github.com/mattzcarey/shippie) - 拡張可能なコードレビューエージェント 🚢
 
 
-_Updated on April 28, 2025_ (A total of 2073 repositories listed.)
+**Others**
+ * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 占い、占星術、タロットカード、姓名判断、夢占い、八字占い、梅花易数
+
+
+_Updated on May 01, 2025_ (A total of 2080 repositories listed.)
 
 ## Table of contents
 
@@ -610,6 +610,8 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [mastra](https://github.com/mastra-ai/mastra) - TypeScript AIエージェントフレームワーク。⚡アシスタント、RAG、可観測性。任意のLLMをサポート：GPT-4、Claude、Gemini、Llama。
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡
  * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebotはデスクトップエージェントのコンテナです。Bytebotはデスクトップエージェントのコンテナです。
+ * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AIフレームワークは、コンパイラのスキルによって強化されたAI関数呼び出しを特化しています。
+ * [ElatoAI](https://github.com/akdeb/elatoai) - OpenAI Realtime APIを使用したArduino ESP32上のリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話Arduino ESP32上でのOpenAI Realtime APIを使用したリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話
 
 
 ## Browser-extensions
@@ -1365,6 +1367,7 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 マルチモーダルな大規模言語モデルを使用して、優雅にhCaptchaのチャレンジに立ち向かいます。
  * [new-api](https://github.com/quantumnous/new-api) - AIモデルインターフェース管理および配布システムは、複数の大規模モデルを統一形式で呼び出すことをサポートし、OpenAI、Claudeなどの形式をサポートしています。個人または企業内での管理および配布チャネルに使用できます。このプロジェクトはOne APIをベースにして二次開発されています。🍥次世代のLLMゲートウェイおよびAIアセット管理システムは、複数の言語をサポートしています。
  * [deep-research](https://github.com/u14app/deep-research) - 深い研究には、どのLLM（大規模言語モデル）を使用しても構いません。
+ * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Rustで構築された本番向けの推論、取り込み、およびインデックス作成 🦀
 
 
 ## Langchain
@@ -1763,6 +1766,9 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - MCPツールを呼び出すことができるopenAI互換のエンドポイントを提供するミドルウェア
  * [LocalAGI](https://github.com/mudler/localagi) - LocalAGIは、最大限のプライバシーと柔軟性を備えた強力な、自己ホスト可能なAIエージェントプラットフォームです。OpenAIのResponses APIの完全なドロップイン置換で、高度なエージェント機能を備えています。クラウドなし。データ漏洩なし。純粋なローカルAIのみが動作します。
  * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - このリポジトリには、Azure API ManagementのAI機能に関する実験が含まれており、Azure OpenAI、AI Foundryなどと統合されています 🚀
+ * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI インターフェースの統合管理、私たちは優れたAPIアクセスサービスを提供することに取り組んでおり、先進的なAIモデルを製品やサービスに簡単に統合できるようにしています。
+ * [attorch](https://github.com/bobmcdear/attorch) - OpenAIのTritonを使用してPythonで書かれたPyTorchのニューラルネットワークモジュールのサブセット。PyTorchのニューラルネットワークモジュールのサブセット、OpenAIのTritonを使用してPythonで書かれています。
+ * [shippie](https://github.com/mattzcarey/shippie) - 拡張可能なコードレビューエージェント 🚢
 
 
 ## Others
@@ -2182,5 +2188,6 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [memobase](https://github.com/memodb-io/memobase) - AIアプリケーション向けのプロファイルベースの長期記憶
  * [jan](https://github.com/menloresearch/jan) - Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。
  * [agentheroes](https://github.com/agentheroes/agentheroes) - AIキャラクターを生成し、アニメーション化してスケジュールを立てる。
+ * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 占い、占星術、タロットカード、姓名判断、夢占い、八字占い、梅花易数
 
 

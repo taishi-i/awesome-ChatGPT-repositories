@@ -15,26 +15,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - A free guide for learning to create ChatGPT3 Prompts
-
-
 **Chatbots**
- * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
+ * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI Framework specialized AI Function Calling enhanced by compiler skills.
+ * [ElatoAI](https://github.com/akdeb/elatoai) - Realtime AI speech with OpenAI Realtime API on Arduino ESP32 with Secure Websockets and Deno edge functions with >10min uninterrupted conversations globally for AI toys, AI companions, AI devices and more
 
 
-**Langchain**
- * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
- * [llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server)
+**NLP**
+ * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 
 
 **Openai**
- * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
- * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
- * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀
+ * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI 接口聚合管理，我们致力于提供优质的API接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。
+ * [attorch](https://github.com/bobmcdear/attorch) - A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.
+ * [shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
 
 
-_Updated on April 28, 2025_ (A total of 2073 repositories listed.)
+**Others**
+ * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
+
+
+_Updated on May 01, 2025_ (A total of 2080 repositories listed.)
 
 ## Table of contents
 
@@ -610,6 +610,8 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
  * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
+ * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI Framework specialized AI Function Calling enhanced by compiler skills.
+ * [ElatoAI](https://github.com/akdeb/elatoai) - Realtime AI speech with OpenAI Realtime API on Arduino ESP32 with Secure Websockets and Deno edge functions with >10min uninterrupted conversations globally for AI toys, AI companions, AI devices and more
 
 
 ## Browser-extensions
@@ -1365,6 +1367,7 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
  * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
  * [deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
+ * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Production-ready Inference, Ingestion and Indexing built in Rust 🦀
 
 
 ## Langchain
@@ -1763,6 +1766,9 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
  * [LocalAGI](https://github.com/mudler/localagi) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
  * [AI-Gateway](https://github.com/azure-samples/ai-gateway) - APIM ❤️ AI - This repo contains experiments on Azure API Management's AI capabilities, integrating with Azure OpenAI, AI Foundry, and much more 🚀
+ * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI 接口聚合管理，我们致力于提供优质的API接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。
+ * [attorch](https://github.com/bobmcdear/attorch) - A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.
+ * [shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
 
 
 ## Others
@@ -2182,5 +2188,6 @@ _Updated on April 28, 2025_ (A total of 2073 repositories listed.)
  * [memobase](https://github.com/memodb-io/memobase) - Profile-Based Long-Term Memory for AI Applications
  * [jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
  * [agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
+ * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
 
 
