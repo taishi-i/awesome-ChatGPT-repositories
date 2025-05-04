@@ -15,26 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AIフレームワークは、コンパイラのスキルによって強化されたAI関数呼び出しを特化しています。
- * [ElatoAI](https://github.com/akdeb/elatoai) - OpenAI Realtime APIを使用したArduino ESP32上のリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話Arduino ESP32上でのOpenAI Realtime APIを使用したリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話
-
-
 **NLP**
- * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Rustで構築された本番向けの推論、取り込み、およびインデックス作成 🦀
+ * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。
+
+
+**Langchain**
+ * [ai-gateway](https://github.com/langdb/ai-gateway) - AIトラフィックを管理、保護、最適化します。AIゲートウェイは、パフォーマンスと信頼性に焦点を当てたOpenAI API形式を使用して、すべてのLLMに統一されたインターフェースを提供します。Rustで構築されています。
 
 
 **Openai**
- * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI インターフェースの統合管理、私たちは優れたAPIアクセスサービスを提供することに取り組んでおり、先進的なAIモデルを製品やサービスに簡単に統合できるようにしています。
- * [attorch](https://github.com/bobmcdear/attorch) - OpenAIのTritonを使用してPythonで書かれたPyTorchのニューラルネットワークモジュールのサブセット。PyTorchのニューラルネットワークモジュールのサブセット、OpenAIのTritonを使用してPythonで書かれています。
- * [shippie](https://github.com/mattzcarey/shippie) - 拡張可能なコードレビューエージェント 🚢
+ * [zenfeed](https://github.com/glidea/zenfeed) - AI 🧠✨を使ってRSS 📰を再び素晴らしくしましょう！
+ * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - どんなgitリポジトリも魅力的なポッドキャストに変換します。
 
 
-**Others**
- * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 占い、占星術、タロットカード、姓名判断、夢占い、八字占い、梅花易数
-
-
-_Updated on May 01, 2025_ (A total of 2080 repositories listed.)
+_Updated on May 05, 2025_ (A total of 2084 repositories listed.)
 
 ## Table of contents
 
@@ -1368,6 +1362,7 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [new-api](https://github.com/quantumnous/new-api) - AIモデルインターフェース管理および配布システムは、複数の大規模モデルを統一形式で呼び出すことをサポートし、OpenAI、Claudeなどの形式をサポートしています。個人または企業内での管理および配布チャネルに使用できます。このプロジェクトはOne APIをベースにして二次開発されています。🍥次世代のLLMゲートウェイおよびAIアセット管理システムは、複数の言語をサポートしています。
  * [deep-research](https://github.com/u14app/deep-research) - 深い研究には、どのLLM（大規模言語モデル）を使用しても構いません。
  * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Rustで構築された本番向けの推論、取り込み、およびインデックス作成 🦀
+ * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。
 
 
 ## Langchain
@@ -1507,6 +1502,7 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」は、動画や音声ファイルに対して一括で字幕ファイルを生成し、字幕の翻訳をサポートするクロスプラットフォームのクライアントツールです。百度、火山、openai、ollama、deepseekなど、複数の翻訳サービスをサポートしています。
  * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。
  * [llama-swap](https://github.com/mostlygeek/llama-swap) - llama.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）ラマ.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）
+ * [ai-gateway](https://github.com/langdb/ai-gateway) - AIトラフィックを管理、保護、最適化します。AIゲートウェイは、パフォーマンスと信頼性に焦点を当てたOpenAI API形式を使用して、すべてのLLMに統一されたインターフェースを提供します。Rustで構築されています。
 
 
 ## Unity
@@ -1769,6 +1765,8 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI インターフェースの統合管理、私たちは優れたAPIアクセスサービスを提供することに取り組んでおり、先進的なAIモデルを製品やサービスに簡単に統合できるようにしています。
  * [attorch](https://github.com/bobmcdear/attorch) - OpenAIのTritonを使用してPythonで書かれたPyTorchのニューラルネットワークモジュールのサブセット。PyTorchのニューラルネットワークモジュールのサブセット、OpenAIのTritonを使用してPythonで書かれています。
  * [shippie](https://github.com/mattzcarey/shippie) - 拡張可能なコードレビューエージェント 🚢
+ * [zenfeed](https://github.com/glidea/zenfeed) - AI 🧠✨を使ってRSS 📰を再び素晴らしくしましょう！
+ * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - どんなgitリポジトリも魅力的なポッドキャストに変換します。
 
 
 ## Others

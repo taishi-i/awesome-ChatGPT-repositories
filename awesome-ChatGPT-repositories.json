@@ -30183,6 +30183,26 @@
                     "zh-hans": "使用Rust构建的生产就绪推断、摄取和索引 🦀",
                     "zh-hant": "具备生产就绪的推理、摄取和索引功能，使用Rust语言构建 🦀"
                 }
+            },
+            "https://github.com/jolovicdev/shandu": {
+                "repository_name": "shandu",
+                "user_name": "jolovicdev",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "OpenAI DeepResearch alternative, An AI-driven research system that performs comprehensive, iterative research on any topic using multiple search engines and LLMs.",
+                "topics": [
+                    "ai",
+                    "deepresearch",
+                    "deepsearch",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI DeepResearch alternative, An AI-driven research system that performs comprehensive, iterative research on any topic using multiple search engines and LLMs.",
+                    "ja": "OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。",
+                    "zh-hans": "OpenAI DeepResearch替代方案，一种由人工智能驱动的研究系统，可以利用多个搜索引擎和LLMs对任何主题进行全面、迭代的研究。",
+                    "zh-hant": "OpenAI DeepResearch替代方案，一種由人工智慧驅動的研究系統，可以使用多個搜索引擎和LLMs對任何主題進行全面、迭代的研究。"
+                }
             }
         },
         "Langchain": {
@@ -33422,6 +33442,37 @@
                     "ja": "llama.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）ラマ.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）",
                     "zh-hans": "llama.cpp的模型交换（或任何本地OpenAPI兼容服务器）输出：",
                     "zh-hant": "請將llama.cpp的模型替換（或任何本地OpenAPI兼容的伺服器）进行翻译"
+                }
+            },
+            "https://github.com/langdb/ai-gateway": {
+                "repository_name": "ai-gateway",
+                "user_name": "langdb",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "Govern, Secure, and Optimize your AI Traffic. AI Gateway provides unified interface to all LLMs using OpenAI API format with a focus on performance and reliability. Built in Rust.",
+                "topics": [
+                    "agents",
+                    "ai-gateway",
+                    "anthropic",
+                    "bedrock",
+                    "claude",
+                    "clickhouse",
+                    "deepseek",
+                    "gemini",
+                    "langchain",
+                    "llm",
+                    "llm-gateway",
+                    "model-context-protocol",
+                    "openai",
+                    "rust-lang",
+                    "tracing",
+                    "vercelaisdk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Govern, Secure, and Optimize your AI Traffic. AI Gateway provides unified interface to all LLMs using OpenAI API format with a focus on performance and reliability. Built in Rust.",
+                    "ja": "AIトラフィックを管理、保護、最適化します。AIゲートウェイは、パフォーマンスと信頼性に焦点を当てたOpenAI API形式を使用して、すべてのLLMに統一されたインターフェースを提供します。Rustで構築されています。",
+                    "zh-hans": "管理，保障和优化您的AI流量。AI网关提供统一接口，使用OpenAI API格式连接所有LLMs，专注于性能和可靠性。使用Rust构建。",
+                    "zh-hant": "管理、保護和優化您的AI流量。AI Gateway提供統一的界面，使用OpenAI API格式與所有LLMs進行通信，並專注於性能和可靠性。使用Rust構建。"
                 }
             }
         },
@@ -38956,6 +39007,56 @@
                     "ja": "拡張可能なコードレビューエージェント 🚢",
                     "zh-hans": "一个可扩展的代码审查代理 🚢",
                     "zh-hant": "一個可擴展的程式碼審查代理 🚢"
+                }
+            },
+            "https://github.com/glidea/zenfeed": {
+                "repository_name": "zenfeed",
+                "user_name": "glidea",
+                "language": "Go",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Make RSS 📰 great again with AI 🧠✨!!",
+                "topics": [
+                    "ai",
+                    "deepseek",
+                    "email",
+                    "mcp",
+                    "mcp-server",
+                    "monitoring",
+                    "openai",
+                    "paas",
+                    "prometheus",
+                    "rss",
+                    "rss-reader",
+                    "rsshub"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Make RSS 📰 great again with AI 🧠✨!!",
+                    "ja": "AI 🧠✨を使ってRSS 📰を再び素晴らしくしましょう！",
+                    "zh-hans": "用人工智能让RSS再次伟大起来吧！📰🧠✨",
+                    "zh-hant": "用人工智慧讓RSS再次偉大起來📰🧠✨!!"
+                }
+            },
+            "https://github.com/bandarlabs/gitpodcast": {
+                "repository_name": "gitpodcast",
+                "user_name": "BandarLabs",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Convert any git repository into an engaging podcast",
+                "topics": [
+                    "ai",
+                    "automation",
+                    "azure",
+                    "developer-tools",
+                    "github",
+                    "openai",
+                    "podcast",
+                    "tts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Convert any git repository into an engaging podcast",
+                    "ja": "どんなgitリポジトリも魅力的なポッドキャストに変換します。",
+                    "zh-hans": "将任何git存储库转换为引人入胜的播客",
+                    "zh-hant": "將任何git存儲庫轉換為引人入勝的播客"
                 }
             }
         },
