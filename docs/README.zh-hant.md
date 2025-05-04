@@ -15,26 +15,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI 框架，由編譯器技能增強的專門的 AI 功能調用。
- * [ElatoAI](https://github.com/akdeb/elatoai) - 使用OpenAI Realtime API在Arduino ESP32上进行实时AI语音，配合安全Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。
-
-
 **NLP**
- * [EmbedAnything](https://github.com/starlightsearch/embedanything) - 具备生产就绪的推理、摄取和索引功能，使用Rust语言构建 🦀
+ * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch替代方案，一種由人工智慧驅動的研究系統，可以使用多個搜索引擎和LLMs對任何主題進行全面、迭代的研究。
+
+
+**Langchain**
+ * [ai-gateway](https://github.com/langdb/ai-gateway) - 管理、保護和優化您的AI流量。AI Gateway提供統一的界面，使用OpenAI API格式與所有LLMs進行通信，並專注於性能和可靠性。使用Rust構建。
 
 
 **Openai**
- * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI 接口聚合管理，我們致力於提供優質的API接入服務，讓您可以輕鬆集成先進的AI模型至您的產品和服務。
- * [attorch](https://github.com/bobmcdear/attorch) - PyTorch的神經網絡模塊的子集，使用OpenAI的Triton用Python編寫。PyTorch的神經網絡模塊的子集，使用OpenAI的Triton用Python編寫。
- * [shippie](https://github.com/mattzcarey/shippie) - 一個可擴展的程式碼審查代理 🚢
+ * [zenfeed](https://github.com/glidea/zenfeed) - 用人工智慧讓RSS再次偉大起來📰🧠✨!!
+ * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - 將任何git存儲庫轉換為引人入勝的播客
 
 
-**Others**
- * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 算命，占卜，塔羅牌，姓名五格，周公解夢，生辰八字，梅花易數
-
-
-_Updated on May 01, 2025_ (A total of 2080 repositories listed.)
+_Updated on May 05, 2025_ (A total of 2084 repositories listed.)
 
 ## Table of contents
 
@@ -1368,6 +1362,7 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理與分發系統，支持將多種大模型轉為統一格式調用，支持OpenAI、Claude等格式，可供個人或者企業內部管理與分發渠道使用，本項目基於One API二次開發。🍥 下一代LLM閘道和AI資產管理系統支持多種語言。
  * [deep-research](https://github.com/u14app/deep-research) - 使用任何LLMs（大型語言模型）進行深入研究。
  * [EmbedAnything](https://github.com/starlightsearch/embedanything) - 具备生产就绪的推理、摄取和索引功能，使用Rust语言构建 🦀
+ * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch替代方案，一種由人工智慧驅動的研究系統，可以使用多個搜索引擎和LLMs對任何主題進行全面、迭代的研究。
 
 
 ## Langchain
@@ -1507,6 +1502,7 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」是一款跨平台客戶端工具，可以批量為視頻或者音頻生成字幕文件，並支持對字幕進行翻譯，支持百度、火山、openai、ollama、deepseek 等多家翻譯。
  * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 與代碼智慧共舞。Minuet提供來自流行的LLM（如OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestral等）的即時代碼完成功能。
  * [llama-swap](https://github.com/mostlygeek/llama-swap) - 請將llama.cpp的模型替換（或任何本地OpenAPI兼容的伺服器）进行翻译
+ * [ai-gateway](https://github.com/langdb/ai-gateway) - 管理、保護和優化您的AI流量。AI Gateway提供統一的界面，使用OpenAI API格式與所有LLMs進行通信，並專注於性能和可靠性。使用Rust構建。
 
 
 ## Unity
@@ -1769,6 +1765,8 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI 接口聚合管理，我們致力於提供優質的API接入服務，讓您可以輕鬆集成先進的AI模型至您的產品和服務。
  * [attorch](https://github.com/bobmcdear/attorch) - PyTorch的神經網絡模塊的子集，使用OpenAI的Triton用Python編寫。PyTorch的神經網絡模塊的子集，使用OpenAI的Triton用Python編寫。
  * [shippie](https://github.com/mattzcarey/shippie) - 一個可擴展的程式碼審查代理 🚢
+ * [zenfeed](https://github.com/glidea/zenfeed) - 用人工智慧讓RSS再次偉大起來📰🧠✨!!
+ * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - 將任何git存儲庫轉換為引人入勝的播客
 
 
 ## Others

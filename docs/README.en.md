@@ -15,26 +15,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI Framework specialized AI Function Calling enhanced by compiler skills.
- * [ElatoAI](https://github.com/akdeb/elatoai) - Realtime AI speech with OpenAI Realtime API on Arduino ESP32 with Secure Websockets and Deno edge functions with >10min uninterrupted conversations globally for AI toys, AI companions, AI devices and more
-
-
 **NLP**
- * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Production-ready Inference, Ingestion and Indexing built in Rust 🦀
+ * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch alternative, An AI-driven research system that performs comprehensive, iterative research on any topic using multiple search engines and LLMs.
+
+
+**Langchain**
+ * [ai-gateway](https://github.com/langdb/ai-gateway) - Govern, Secure, and Optimize your AI Traffic. AI Gateway provides unified interface to all LLMs using OpenAI API format with a focus on performance and reliability. Built in Rust.
 
 
 **Openai**
- * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI interface aggregation management, we are committed to providing high-quality API access services, allowing you to easily integrate advanced AI models into your products and services.
- * [attorch](https://github.com/bobmcdear/attorch) - A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.
- * [shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
+ * [zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
+ * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - Convert any git repository into an engaging podcast
 
 
-**Others**
- * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI fortune-telling, divination, tarot cards, name analysis, dream interpretation, Chinese astrology, plum blossom numerology
-
-
-_Updated on May 01, 2025_ (A total of 2080 repositories listed.)
+_Updated on May 05, 2025_ (A total of 2084 repositories listed.)
 
 ## Table of contents
 
@@ -1368,6 +1362,7 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [new-api](https://github.com/quantumnous/new-api) - AI model interface management and distribution system, supports converting multiple large models into a unified format for calling, supports formats such as OpenAI, Claude, etc., can be used for internal management and distribution channels by individuals or enterprises, this project is based on the secondary development of One API. 🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
  * [deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
  * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Production-ready Inference, Ingestion and Indexing built in Rust 🦀
+ * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch alternative, An AI-driven research system that performs comprehensive, iterative research on any topic using multiple search engines and LLMs.
 
 
 ## Langchain
@@ -1507,6 +1502,7 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [SmartSub](https://github.com/buxuku/smartsub) - "Myomu" is a cross-platform client tool that can batch generate subtitle files for videos or audios, and support translating subtitles. It supports translation from multiple translation services such as Baidu, Huoshan, OpenAI, Ollama, Deepseek, etc.
  * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
  * [llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server)
+ * [ai-gateway](https://github.com/langdb/ai-gateway) - Govern, Secure, and Optimize your AI Traffic. AI Gateway provides unified interface to all LLMs using OpenAI API format with a focus on performance and reliability. Built in Rust.
 
 
 ## Unity
@@ -1769,6 +1765,8 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI interface aggregation management, we are committed to providing high-quality API access services, allowing you to easily integrate advanced AI models into your products and services.
  * [attorch](https://github.com/bobmcdear/attorch) - A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.
  * [shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
+ * [zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
+ * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - Convert any git repository into an engaging podcast
 
 
 ## Others

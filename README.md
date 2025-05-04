@@ -15,26 +15,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI Framework specialized AI Function Calling enhanced by compiler skills.
- * [ElatoAI](https://github.com/akdeb/elatoai) - Realtime AI speech with OpenAI Realtime API on Arduino ESP32 with Secure Websockets and Deno edge functions with >10min uninterrupted conversations globally for AI toys, AI companions, AI devices and more
-
-
 **NLP**
- * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Production-ready Inference, Ingestion and Indexing built in Rust 🦀
+ * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch alternative, An AI-driven research system that performs comprehensive, iterative research on any topic using multiple search engines and LLMs.
+
+
+**Langchain**
+ * [ai-gateway](https://github.com/langdb/ai-gateway) - Govern, Secure, and Optimize your AI Traffic. AI Gateway provides unified interface to all LLMs using OpenAI API format with a focus on performance and reliability. Built in Rust.
 
 
 **Openai**
- * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI 接口聚合管理，我们致力于提供优质的API接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。
- * [attorch](https://github.com/bobmcdear/attorch) - A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.
- * [shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
+ * [zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
+ * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - Convert any git repository into an engaging podcast
 
 
-**Others**
- * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
-
-
-_Updated on May 01, 2025_ (A total of 2080 repositories listed.)
+_Updated on May 05, 2025_ (A total of 2084 repositories listed.)
 
 ## Table of contents
 
@@ -1368,6 +1362,7 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [new-api](https://github.com/quantumnous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
  * [deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
  * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Production-ready Inference, Ingestion and Indexing built in Rust 🦀
+ * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch alternative, An AI-driven research system that performs comprehensive, iterative research on any topic using multiple search engines and LLMs.
 
 
 ## Langchain
@@ -1507,6 +1502,7 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [SmartSub](https://github.com/buxuku/smartsub) - 「妙幕」是一款跨平台客户端工具，可以批量为视频或者音频生成字幕文件，并支持对字幕进行翻译，支持百度、火山、openai、ollama、deepseek 等多家翻译
  * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.
  * [llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server)
+ * [ai-gateway](https://github.com/langdb/ai-gateway) - Govern, Secure, and Optimize your AI Traffic. AI Gateway provides unified interface to all LLMs using OpenAI API format with a focus on performance and reliability. Built in Rust.
 
 
 ## Unity
@@ -1769,6 +1765,8 @@ _Updated on May 01, 2025_ (A total of 2080 repositories listed.)
  * [chat-api](https://github.com/ai365vip/chat-api) - OpenAI 接口聚合管理，我们致力于提供优质的API接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。
  * [attorch](https://github.com/bobmcdear/attorch) - A subset of PyTorch's neural network modules, written in Python using OpenAI's Triton.
  * [shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
+ * [zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
+ * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - Convert any git repository into an engaging podcast
 
 
 ## Others
