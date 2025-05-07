@@ -15,20 +15,26 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [agent-squad](https://github.com/awslabs/agent-squad) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
+ * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 機能豊富なWeChatボットフレームワーク | AI対話、Difyとの連携、ポイントシステム、ゲームインタラクション、毎日のニュース、天気予報 | HookやWebを使用しない | Windows✅ Linux✅ MacOS✅ をサポート | 新しいアーキテクチャでXYBotの第一世代の課題を解決！
+
+
+**CLIs**
+ * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI搭載、非侵襲的な端末アシスタント
+
+
 **NLP**
- * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。
-
-
-**Langchain**
- * [ai-gateway](https://github.com/langdb/ai-gateway) - AIトラフィックを管理、保護、最適化します。AIゲートウェイは、パフォーマンスと信頼性に焦点を当てたOpenAI API形式を使用して、すべてのLLMに統一されたインターフェースを提供します。Rustで構築されています。
+ * [instructor](https://github.com/567-labs/instructor) - LLMSのための構造化された出力
+ * [xyne](https://github.com/xynehq/xyne) - 仕事用のAIファースト検索＆回答エンジン。Gleanのオープンソースの代替品。
 
 
 **Openai**
- * [zenfeed](https://github.com/glidea/zenfeed) - AI 🧠✨を使ってRSS 📰を再び素晴らしくしましょう！
- * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - どんなgitリポジトリも魅力的なポッドキャストに変換します。
+ * [blinko](https://github.com/blinkospace/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用AIノートツール。TypeScriptを使用して構築されています。
+ * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - Python + FastAPI + Playwright + Camoufoxをベースとしたプロキシサーバーで、OpenAI APIと互換性があり、リクエストをGoogle AI Studioのウェブ版対話に転送し、同様に標準形式で出力を返すツールです。余暇の時間が限られているため、更新は不定期です。
 
 
-_Updated on May 05, 2025_ (A total of 2084 repositories listed.)
+_Updated on May 08, 2025_ (A total of 2091 repositories listed.)
 
 ## Table of contents
 
@@ -606,6 +612,8 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebotはデスクトップエージェントのコンテナです。Bytebotはデスクトップエージェントのコンテナです。
  * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AIフレームワークは、コンパイラのスキルによって強化されたAI関数呼び出しを特化しています。
  * [ElatoAI](https://github.com/akdeb/elatoai) - OpenAI Realtime APIを使用したArduino ESP32上のリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話Arduino ESP32上でのOpenAI Realtime APIを使用したリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話
+ * [agent-squad](https://github.com/awslabs/agent-squad) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
+ * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 機能豊富なWeChatボットフレームワーク | AI対話、Difyとの連携、ポイントシステム、ゲームインタラクション、毎日のニュース、天気予報 | HookやWebを使用しない | Windows✅ Linux✅ MacOS✅ をサポート | 新しいアーキテクチャでXYBotの第一世代の課題を解決！
 
 
 ## Browser-extensions
@@ -977,6 +985,7 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [gptme](https://github.com/gptme/gptme) - あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。
  * [chatbox](https://github.com/chatboxai/chatbox) - AIモデル/LLM（GPT、Claude、Gemini、Ollamaなど）向けの使いやすいデスクトップクライアントアプリ
  * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - JavaScript向けのインテリジェントなエンタープライズグレードのリファレンスアーキテクチャで、OpenAI統合、Azure Developer CLIテンプレート、Playwrightテストを特色としています。
+ * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI搭載、非侵襲的な端末アシスタント
 
 
 ## Reimplementations
@@ -1363,6 +1372,8 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [deep-research](https://github.com/u14app/deep-research) - 深い研究には、どのLLM（大規模言語モデル）を使用しても構いません。
  * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Rustで構築された本番向けの推論、取り込み、およびインデックス作成 🦀
  * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。
+ * [instructor](https://github.com/567-labs/instructor) - LLMSのための構造化された出力
+ * [xyne](https://github.com/xynehq/xyne) - 仕事用のAIファースト検索＆回答エンジン。Gleanのオープンソースの代替品。
 
 
 ## Langchain
@@ -1767,6 +1778,8 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [shippie](https://github.com/mattzcarey/shippie) - 拡張可能なコードレビューエージェント 🚢
  * [zenfeed](https://github.com/glidea/zenfeed) - AI 🧠✨を使ってRSS 📰を再び素晴らしくしましょう！
  * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - どんなgitリポジトリも魅力的なポッドキャストに変換します。
+ * [blinko](https://github.com/blinkospace/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用AIノートツール。TypeScriptを使用して構築されています。
+ * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - Python + FastAPI + Playwright + Camoufoxをベースとしたプロキシサーバーで、OpenAI APIと互換性があり、リクエストをGoogle AI Studioのウェブ版対話に転送し、同様に標準形式で出力を返すツールです。余暇の時間が限られているため、更新は不定期です。
 
 
 ## Others

@@ -15,20 +15,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+ * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 功能丰富的微信机器人框架 | AI对话、对接Dify、积分系统、游戏互动、每日新闻、天气查询 | 非Hook非Web实现 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架构解决XYBot第一代痛点！
+
+
+**CLIs**
+ * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
+
+
 **NLP**
- * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch alternative, An AI-driven research system that performs comprehensive, iterative research on any topic using multiple search engines and LLMs.
-
-
-**Langchain**
- * [ai-gateway](https://github.com/langdb/ai-gateway) - Govern, Secure, and Optimize your AI Traffic. AI Gateway provides unified interface to all LLMs using OpenAI API format with a focus on performance and reliability. Built in Rust.
+ * [instructor](https://github.com/567-labs/instructor) - structured outputs for llms
+ * [xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 
 
 **Openai**
- * [zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
- * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - Convert any git repository into an engaging podcast
+ * [blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+ * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新。
 
 
-_Updated on May 05, 2025_ (A total of 2084 repositories listed.)
+_Updated on May 08, 2025_ (A total of 2091 repositories listed.)
 
 ## Table of contents
 
@@ -606,6 +612,8 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
  * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI Framework specialized AI Function Calling enhanced by compiler skills.
  * [ElatoAI](https://github.com/akdeb/elatoai) - Realtime AI speech with OpenAI Realtime API on Arduino ESP32 with Secure Websockets and Deno edge functions with >10min uninterrupted conversations globally for AI toys, AI companions, AI devices and more
+ * [agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+ * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 功能丰富的微信机器人框架 | AI对话、对接Dify、积分系统、游戏互动、每日新闻、天气查询 | 非Hook非Web实现 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架构解决XYBot第一代痛点！
 
 
 ## Browser-extensions
@@ -977,6 +985,7 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [gptme](https://github.com/gptme/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
  * [chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
  * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
+ * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 
 
 ## Reimplementations
@@ -1363,6 +1372,8 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
  * [EmbedAnything](https://github.com/starlightsearch/embedanything) - Production-ready Inference, Ingestion and Indexing built in Rust 🦀
  * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch alternative, An AI-driven research system that performs comprehensive, iterative research on any topic using multiple search engines and LLMs.
+ * [instructor](https://github.com/567-labs/instructor) - structured outputs for llms
+ * [xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
 
 
 ## Langchain
@@ -1767,6 +1778,8 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
  * [zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
  * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - Convert any git repository into an engaging podcast
+ * [blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+ * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新。
 
 
 ## Others
