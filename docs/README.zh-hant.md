@@ -15,20 +15,26 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [agent-squad](https://github.com/awslabs/agent-squad) - 靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。
+ * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 功能豐富的微信機器人框架 | AI對話、對接Dify、積分系統、遊戲互動、每日新聞、天氣查詢 | 非Hook非Web實現 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架構解決XYBot第一代痛點！
+
+
+**CLIs**
+ * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI動力，非侵入式終端助手
+
+
 **NLP**
- * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch替代方案，一種由人工智慧驅動的研究系統，可以使用多個搜索引擎和LLMs對任何主題進行全面、迭代的研究。
-
-
-**Langchain**
- * [ai-gateway](https://github.com/langdb/ai-gateway) - 管理、保護和優化您的AI流量。AI Gateway提供統一的界面，使用OpenAI API格式與所有LLMs進行通信，並專注於性能和可靠性。使用Rust構建。
+ * [instructor](https://github.com/567-labs/instructor) - 給LLMS的結構化輸出
+ * [xyne](https://github.com/xynehq/xyne) - AI優先搜索和答案引擎，適用於工作。Glean的開源替代方案。
 
 
 **Openai**
- * [zenfeed](https://github.com/glidea/zenfeed) - 用人工智慧讓RSS再次偉大起來📰🧠✨!!
- * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - 將任何git存儲庫轉換為引人入勝的播客
+ * [blinko](https://github.com/blinkospace/blinko) - 一個開源、自主託管的個人AI筆記工具，注重隱私，使用TypeScript構建。
+ * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - 一個基於 Python + FastAPI + Playwright + Camoufox 的代理伺服器，兼容 OpenAI API ，將請求轉發到 Google AI Studio 網頁版的對話，並同樣按照標準格式返回輸出的工具。課餘時間有限，隨緣更新。
 
 
-_Updated on May 05, 2025_ (A total of 2084 repositories listed.)
+_Updated on May 08, 2025_ (A total of 2091 repositories listed.)
 
 ## Table of contents
 
@@ -606,6 +612,8 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot 是桌面代理的容器。
  * [agentica](https://github.com/wrtnlabs/agentica) - TypeScript AI 框架，由編譯器技能增強的專門的 AI 功能調用。
  * [ElatoAI](https://github.com/akdeb/elatoai) - 使用OpenAI Realtime API在Arduino ESP32上进行实时AI语音，配合安全Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。
+ * [agent-squad](https://github.com/awslabs/agent-squad) - 靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。
+ * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 功能豐富的微信機器人框架 | AI對話、對接Dify、積分系統、遊戲互動、每日新聞、天氣查詢 | 非Hook非Web實現 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架構解決XYBot第一代痛點！
 
 
 ## Browser-extensions
@@ -977,6 +985,7 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [gptme](https://github.com/gptme/gptme) - 您在终端中的代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。
  * [chatbox](https://github.com/chatboxai/chatbox) - 用戶友好的桌面客戶端應用程式，適用於AI模型/LLMs（GPT、Claude、Gemini、Ollama...）
  * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - 智能企業級JavaScript參考架構，具有OpenAI集成，Azure開發者CLI模板和Playwright測試。
+ * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI動力，非侵入式終端助手
 
 
 ## Reimplementations
@@ -1363,6 +1372,8 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [deep-research](https://github.com/u14app/deep-research) - 使用任何LLMs（大型語言模型）進行深入研究。
  * [EmbedAnything](https://github.com/starlightsearch/embedanything) - 具备生产就绪的推理、摄取和索引功能，使用Rust语言构建 🦀
  * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch替代方案，一種由人工智慧驅動的研究系統，可以使用多個搜索引擎和LLMs對任何主題進行全面、迭代的研究。
+ * [instructor](https://github.com/567-labs/instructor) - 給LLMS的結構化輸出
+ * [xyne](https://github.com/xynehq/xyne) - AI優先搜索和答案引擎，適用於工作。Glean的開源替代方案。
 
 
 ## Langchain
@@ -1767,6 +1778,8 @@ _Updated on May 05, 2025_ (A total of 2084 repositories listed.)
  * [shippie](https://github.com/mattzcarey/shippie) - 一個可擴展的程式碼審查代理 🚢
  * [zenfeed](https://github.com/glidea/zenfeed) - 用人工智慧讓RSS再次偉大起來📰🧠✨!!
  * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - 將任何git存儲庫轉換為引人入勝的播客
+ * [blinko](https://github.com/blinkospace/blinko) - 一個開源、自主託管的個人AI筆記工具，注重隱私，使用TypeScript構建。
+ * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - 一個基於 Python + FastAPI + Playwright + Camoufox 的代理伺服器，兼容 OpenAI API ，將請求轉發到 Google AI Studio 網頁版的對話，並同樣按照標準格式返回輸出的工具。課餘時間有限，隨緣更新。
 
 
 ## Others

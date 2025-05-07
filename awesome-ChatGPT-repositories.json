@@ -13523,6 +13523,70 @@
                     "zh-hans": "使用OpenAI Realtime API在Arduino ESP32上实现实时AI语音，配合安全的Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。",
                     "zh-hant": "使用OpenAI Realtime API在Arduino ESP32上进行实时AI语音，配合安全Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。"
                 }
+            },
+            "https://github.com/awslabs/agent-squad": {
+                "repository_name": "agent-squad",
+                "user_name": "awslabs",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+                "topics": [
+                    "agentic-ai",
+                    "agents",
+                    "ai-agents",
+                    "ai-agents-framework",
+                    "anthropic",
+                    "anthropic-claude",
+                    "aws",
+                    "aws-bedrock",
+                    "aws-cdk",
+                    "aws-lambda",
+                    "chatbot",
+                    "framework",
+                    "generative-ai",
+                    "machine-learning",
+                    "openai",
+                    "openaiapi",
+                    "orchestrator",
+                    "python",
+                    "serverless",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+                    "ja": "複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク",
+                    "zh-hans": "灵活而强大的框架，用于管理多个AI代理并处理复杂对话。",
+                    "zh-hant": "靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。"
+                }
+            },
+            "https://github.com/henryxiaoyang/xybotv2": {
+                "repository_name": "XYBotV2",
+                "user_name": "HenryXiaoYang",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "🤖 功能丰富的微信机器人框架 | AI对话、对接Dify、积分系统、游戏互动、每日新闻、天气查询 | 非Hook非Web实现 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架构解决XYBot第一代痛点！",
+                "topics": [
+                    "ai",
+                    "bot",
+                    "chatbot",
+                    "chatgpt",
+                    "deepseek",
+                    "dify",
+                    "python",
+                    "wechat",
+                    "wechat-bot",
+                    "wechat-bot-skeleton",
+                    "wechat-sdk",
+                    "wei-xin",
+                    "weixin",
+                    "xybot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 Feature-rich WeChat robot framework | AI dialogue, integration with Dify, points system, game interaction, daily news, weather query | Non-Hook non-Web implementation | Supports Windows✅ Linux✅ MacOS✅ | New architecture solves the pain points of the first generation XYBot!",
+                    "ja": "🤖 機能豊富なWeChatボットフレームワーク | AI対話、Difyとの連携、ポイントシステム、ゲームインタラクション、毎日のニュース、天気予報 | HookやWebを使用しない | Windows✅ Linux✅ MacOS✅ をサポート | 新しいアーキテクチャでXYBotの第一世代の課題を解決！",
+                    "zh-hans": "🤖功能丰富的微信机器人框架 | AI对话、对接Dify、积分系统、游戏互动、每日新闻、天气查询 | 非Hook非Web实现 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架构解决XYBot第一代痛点！",
+                    "zh-hant": "🤖 功能豐富的微信機器人框架 | AI對話、對接Dify、積分系統、遊戲互動、每日新聞、天氣查詢 | 非Hook非Web實現 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架構解決XYBot第一代痛點！"
+                }
             }
         },
         "Browser-extensions": {
@@ -21978,6 +22042,26 @@
                     "zh-hans": "智能企业级JavaScript参考架构，包括OpenAI集成，Azure开发者CLI模板和Playwright测试。",
                     "zh-hant": "智能企業級JavaScript參考架構，具有OpenAI集成，Azure開發者CLI模板和Playwright測試。"
                 }
+            },
+            "https://github.com/alvinunreal/tmuxai": {
+                "repository_name": "tmuxai",
+                "user_name": "alvinunreal",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "AI-Powered, Non-Intrusive Terminal Assistant",
+                "topics": [
+                    "ai",
+                    "assistant",
+                    "chatgpt",
+                    "tmux",
+                    "warp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-Powered, Non-Intrusive Terminal Assistant",
+                    "ja": "AI搭載、非侵襲的な端末アシスタント",
+                    "zh-hans": "AI 助手，非侵入式终端助手",
+                    "zh-hant": "AI動力，非侵入式終端助手"
+                }
             }
         },
         "Reimplementations": {
@@ -30202,6 +30286,55 @@
                     "ja": "OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。",
                     "zh-hans": "OpenAI DeepResearch替代方案，一种由人工智能驱动的研究系统，可以利用多个搜索引擎和LLMs对任何主题进行全面、迭代的研究。",
                     "zh-hant": "OpenAI DeepResearch替代方案，一種由人工智慧驅動的研究系統，可以使用多個搜索引擎和LLMs對任何主題進行全面、迭代的研究。"
+                }
+            },
+            "https://github.com/567-labs/instructor": {
+                "repository_name": "instructor",
+                "user_name": "567-labs",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "structured outputs for llms ",
+                "topics": [
+                    "openai",
+                    "openai-function-calli",
+                    "openai-functions",
+                    "pydantic-v2",
+                    "python",
+                    "validation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "structured outputs for llms",
+                    "ja": "LLMSのための構造化された出力",
+                    "zh-hans": "为llms设计结构化输出",
+                    "zh-hant": "給LLMS的結構化輸出"
+                }
+            },
+            "https://github.com/xynehq/xyne": {
+                "repository_name": "xyne",
+                "user_name": "xynehq",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "AI-first Search & Answer Engine for work. Open-source alternative to Glean.",
+                "topics": [
+                    "assistants",
+                    "bedrock",
+                    "bun",
+                    "claude",
+                    "enterprise-search",
+                    "gen-ai",
+                    "generative-ai",
+                    "information-retrieval",
+                    "integrations",
+                    "llm",
+                    "openai",
+                    "rag",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-first Search & Answer Engine for work. Open-source alternative to Glean.",
+                    "ja": "仕事用のAIファースト検索＆回答エンジン。Gleanのオープンソースの代替品。",
+                    "zh-hans": "AI优先搜索和答案引擎，用于工作。Glean的开源替代方案。",
+                    "zh-hant": "AI優先搜索和答案引擎，適用於工作。Glean的開源替代方案。"
                 }
             }
         },
@@ -39057,6 +39190,43 @@
                     "ja": "どんなgitリポジトリも魅力的なポッドキャストに変換します。",
                     "zh-hans": "将任何git存储库转换为引人入胜的播客",
                     "zh-hant": "將任何git存儲庫轉換為引人入勝的播客"
+                }
+            },
+            "https://github.com/blinkospace/blinko": {
+                "repository_name": "blinko",
+                "user_name": "blinkospace",
+                "language": "TypeScript",
+                "license": null,
+                "description": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+                "topics": [
+                    "markdown",
+                    "memos",
+                    "nextjs",
+                    "notebook",
+                    "openai",
+                    "postgres",
+                    "react",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .",
+                    "ja": "オープンソースで、プライバシーを重視した、自己ホスト型の個人用AIノートツール。TypeScriptを使用して構築されています。",
+                    "zh-hans": "一个开源的、自托管的个人AI笔记工具，注重隐私，使用TypeScript构建。",
+                    "zh-hant": "一個開源、自主託管的個人AI筆記工具，注重隱私，使用TypeScript構建。"
+                }
+            },
+            "https://github.com/cjackhwang/aistudioproxyapi": {
+                "repository_name": "AIstudioProxyAPI",
+                "user_name": "CJackHwang",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新。",
+                    "ja": "Python + FastAPI + Playwright + Camoufoxをベースとしたプロキシサーバーで、OpenAI APIと互換性があり、リクエストをGoogle AI Studioのウェブ版対話に転送し、同様に標準形式で出力を返すツールです。余暇の時間が限られているため、更新は不定期です。",
+                    "zh-hans": "一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新。",
+                    "zh-hant": "一個基於 Python + FastAPI + Playwright + Camoufox 的代理伺服器，兼容 OpenAI API ，將請求轉發到 Google AI Studio 網頁版的對話，並同樣按照標準格式返回輸出的工具。課餘時間有限，隨緣更新。"
                 }
             }
         },
