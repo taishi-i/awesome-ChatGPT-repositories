@@ -16,25 +16,27 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [agent-squad](https://github.com/awslabs/agent-squad) - 靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。
- * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 功能豐富的微信機器人框架 | AI對話、對接Dify、積分系統、遊戲互動、每日新聞、天氣查詢 | 非Hook非Web實現 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架構解決XYBot第一代痛點！
+ * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - 將MCP帶到ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouter等等...
+ * [sanic-web](https://github.com/apconw/sanic-web) - 一個輕量級、支持全鏈路且易於二次開發的大模型應用項目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基於 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技術構建的一站式大模型應用開發項目，採用 Vue3、TypeScript 和 Vite 5 打造現代UI。它支持通過 ECharts 📈 實現基於大模型的數據圖形化問答，具備處理 CSV 文件 📂 表格問答的能力。同時，能方便對接第三方開源 RAG 系統 檢索系統 🌐等，以
 
 
-**CLIs**
- * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI動力，非侵入式終端助手
+**Browser-extensions**
+ * [notte](https://github.com/nottelabs/notte) - 🔥 使用代理的開源瀏覽器
 
 
-**NLP**
- * [instructor](https://github.com/567-labs/instructor) - 給LLMS的結構化輸出
- * [xyne](https://github.com/xynehq/xyne) - AI優先搜索和答案引擎，適用於工作。Glean的開源替代方案。
+**Tutorials**
+ * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - 提供開發人員建立人工智慧系統的示例和教程
+
+
+**Langchain**
+ * [gpustack](https://github.com/gpustack/gpustack) - 管理 GPU 集群以運行 AI 模型
 
 
 **Openai**
- * [blinko](https://github.com/blinkospace/blinko) - 一個開源、自主託管的個人AI筆記工具，注重隱私，使用TypeScript構建。
- * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - 一個基於 Python + FastAPI + Playwright + Camoufox 的代理伺服器，兼容 OpenAI API ，將請求轉發到 Google AI Studio 網頁版的對話，並同樣按照標準格式返回輸出的工具。課餘時間有限，隨緣更新。
+ * [VoAPI](https://github.com/voapi/voapi) - 全新的高顏值/高性能的AI模型介面管理與分發系統，僅供個人學習使用，請勿用於任何商業用途，本專案基於NewAPI開發。這是一個專為個人或企業內部管理和分發渠道而設的高美學/高性能AI模型介面管理和分發系統。請勿。
 
 
-_Updated on May 08, 2025_ (A total of 2091 repositories listed.)
+_Updated on May 12, 2025_ (A total of 2097 repositories listed.)
 
 ## Table of contents
 
@@ -614,6 +616,8 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [ElatoAI](https://github.com/akdeb/elatoai) - 使用OpenAI Realtime API在Arduino ESP32上进行实时AI语音，配合安全Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。
  * [agent-squad](https://github.com/awslabs/agent-squad) - 靈活且強大的框架，用於管理多個人工智能代理和處理複雜對話。
  * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 功能豐富的微信機器人框架 | AI對話、對接Dify、積分系統、遊戲互動、每日新聞、天氣查詢 | 非Hook非Web實現 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架構解決XYBot第一代痛點！
+ * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - 將MCP帶到ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouter等等...
+ * [sanic-web](https://github.com/apconw/sanic-web) - 一個輕量級、支持全鏈路且易於二次開發的大模型應用項目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基於 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技術構建的一站式大模型應用開發項目，採用 Vue3、TypeScript 和 Vite 5 打造現代UI。它支持通過 ECharts 📈 實現基於大模型的數據圖形化問答，具備處理 CSV 文件 📂 表格問答的能力。同時，能方便對接第三方開源 RAG 系統 檢索系統 🌐等，以
 
 
 ## Browser-extensions
@@ -829,6 +833,7 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - 開源Chrome擴展，用於AI驅動的網絡自動化。使用您自己的LLM API密鑰運行多代理工作流程。是OpenAI Operator的替代方案。
  * [solon](https://github.com/opensolon/solon) - 🔥 Java企業應用程式開發框架，適用於全場景：節制、高效、開放、生態友好！！！並發性提高700％，節省50％內存，啟動速度快10倍。包裝體積縮小90％；兼容java8 〜 java24。（可替換spr
  * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - 一個強大的Neovim插件，用於管理MCP（Model Context Protocol）伺服器
+ * [notte](https://github.com/nottelabs/notte) - 🔥 使用代理的開源瀏覽器
 
 
 ## CLIs
@@ -1050,6 +1055,7 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - 這個存儲庫包含了檢索增強生成（RAG）系統的各種高級技術。
  * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - 使用E2B的例子
  * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - 從OpenAI API快速入門教程中的Node.js示例應用程式
+ * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - 提供開發人員建立人工智慧系統的示例和教程
 
 
 ## NLP
@@ -1514,6 +1520,7 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 與代碼智慧共舞。Minuet提供來自流行的LLM（如OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestral等）的即時代碼完成功能。
  * [llama-swap](https://github.com/mostlygeek/llama-swap) - 請將llama.cpp的模型替換（或任何本地OpenAPI兼容的伺服器）进行翻译
  * [ai-gateway](https://github.com/langdb/ai-gateway) - 管理、保護和優化您的AI流量。AI Gateway提供統一的界面，使用OpenAI API格式與所有LLMs進行通信，並專注於性能和可靠性。使用Rust構建。
+ * [gpustack](https://github.com/gpustack/gpustack) - 管理 GPU 集群以運行 AI 模型
 
 
 ## Unity
@@ -1780,6 +1787,7 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - 將任何git存儲庫轉換為引人入勝的播客
  * [blinko](https://github.com/blinkospace/blinko) - 一個開源、自主託管的個人AI筆記工具，注重隱私，使用TypeScript構建。
  * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - 一個基於 Python + FastAPI + Playwright + Camoufox 的代理伺服器，兼容 OpenAI API ，將請求轉發到 Google AI Studio 網頁版的對話，並同樣按照標準格式返回輸出的工具。課餘時間有限，隨緣更新。
+ * [VoAPI](https://github.com/voapi/voapi) - 全新的高顏值/高性能的AI模型介面管理與分發系統，僅供個人學習使用，請勿用於任何商業用途，本專案基於NewAPI開發。這是一個專為個人或企業內部管理和分發渠道而設的高美學/高性能AI模型介面管理和分發系統。請勿。
 
 
 ## Others

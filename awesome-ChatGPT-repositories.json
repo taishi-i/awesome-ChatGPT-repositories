@@ -13587,6 +13587,63 @@
                     "zh-hans": "🤖功能丰富的微信机器人框架 | AI对话、对接Dify、积分系统、游戏互动、每日新闻、天气查询 | 非Hook非Web实现 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架构解决XYBot第一代痛点！",
                     "zh-hant": "🤖 功能豐富的微信機器人框架 | AI對話、對接Dify、積分系統、遊戲互動、每日新聞、天氣查詢 | 非Hook非Web實現 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架構解決XYBot第一代痛點！"
                 }
+            },
+            "https://github.com/srbhptl39/mcp-superassistant": {
+                "repository_name": "MCP-SuperAssistant",
+                "user_name": "srbhptl39",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Brings MCP to ChatGPT, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter and more...",
+                "topics": [
+                    "aistudio",
+                    "assistant",
+                    "chatgpt",
+                    "gemini",
+                    "google",
+                    "grok",
+                    "mcp",
+                    "openrouter",
+                    "perplexity"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Brings MCP to ChatGPT, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter and more...",
+                    "ja": "ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。",
+                    "zh-hans": "将MCP带到ChatGPT，Perplexity，Grok，Gemini，Google AI Studio，OpenRouter等等...",
+                    "zh-hant": "將MCP帶到ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouter等等..."
+                }
+            },
+            "https://github.com/apconw/sanic-web": {
+                "repository_name": "sanic-web",
+                "user_name": "apconw",
+                "language": "JavaScript",
+                "license": null,
+                "description": "一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基于 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以支持广泛的通用知识问答。",
+                "topics": [
+                    "ai",
+                    "bigdata",
+                    "chat",
+                    "chatgpt",
+                    "deepseek-r1",
+                    "dify",
+                    "echarts",
+                    "large-model-data-assistant",
+                    "llm",
+                    "mcp",
+                    "ollama",
+                    "python",
+                    "qwen",
+                    "rag",
+                    "sanic",
+                    "text2sql",
+                    "vllm",
+                    "vue3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A lightweight, full-stack, and easy-to-develop large model application project (Large Model Data Assistant) that supports DeepSeek/Qwen2.5 and other large models, built on technologies such as Dify, Ollama&Vllm, Sanic, and Text2SQL 📊. It is a one-stop large model application development project that uses Vue3, TypeScript, and Vite 5 to create a modern UI. It supports data visualization and question answering based on large models through ECharts 📈, and has the ability to handle CSV file 📂 table queries. Additionally, it can easily integrate with third-party open source RAG system retrieval systems 🌐.",
+                    "ja": "軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。",
+                    "zh-hans": "一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基于 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以",
+                    "zh-hant": "一個輕量級、支持全鏈路且易於二次開發的大模型應用項目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基於 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技術構建的一站式大模型應用開發項目，採用 Vue3、TypeScript 和 Vite 5 打造現代UI。它支持通過 ECharts 📈 實現基於大模型的數據圖形化問答，具備處理 CSV 文件 📂 表格問答的能力。同時，能方便對接第三方開源 RAG 系統 檢索系統 🌐等，以"
+                }
             }
         },
         "Browser-extensions": {
@@ -18484,6 +18541,29 @@
                     "zh-hans": "一个强大的Neovim插件，用于管理MCP（Model Context Protocol）服务器",
                     "zh-hant": "一個強大的Neovim插件，用於管理MCP（Model Context Protocol）伺服器"
                 }
+            },
+            "https://github.com/nottelabs/notte": {
+                "repository_name": "notte",
+                "user_name": "nottelabs",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🔥 Opensource browser using agent",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "anthropic",
+                    "automation",
+                    "browser",
+                    "llm",
+                    "openai",
+                    "web"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥 Opensource browser using agent",
+                    "ja": "🔥 エージェントを使用したオープンソースブラウザ 🔥 エージェントを使用したオープンソースブラウザ",
+                    "zh-hans": "🔥 使用代理的开源浏览器",
+                    "zh-hant": "🔥 使用代理的開源瀏覽器"
+                }
             }
         },
         "CLIs": {
@@ -23306,6 +23386,27 @@
                     "ja": "OpenAI APIクイックスタートチュートリアルからのNode.jsのサンプルアプリ",
                     "zh-hans": "Node.js示例应用程序来自OpenAI API快速入门教程",
                     "zh-hant": "從OpenAI API快速入門教程中的Node.js示例應用程式"
+                }
+            },
+            "https://github.com/daveebbelaar/ai-cookbook": {
+                "repository_name": "ai-cookbook",
+                "user_name": "daveebbelaar",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Examples and tutorials to help developers build AI systems",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "llm",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Examples and tutorials to help developers build AI systems",
+                    "ja": "開発者がAIシステムを構築するのを支援する例とチュートリアル",
+                    "zh-hans": "为开发人员构建人工智能系统提供示例和教程",
+                    "zh-hant": "提供開發人員建立人工智慧系統的示例和教程"
                 }
             }
         },
@@ -33607,6 +33708,40 @@
                     "zh-hans": "管理，保障和优化您的AI流量。AI网关提供统一接口，使用OpenAI API格式连接所有LLMs，专注于性能和可靠性。使用Rust构建。",
                     "zh-hant": "管理、保護和優化您的AI流量。AI Gateway提供統一的界面，使用OpenAI API格式與所有LLMs進行通信，並專注於性能和可靠性。使用Rust構建。"
                 }
+            },
+            "https://github.com/gpustack/gpustack": {
+                "repository_name": "gpustack",
+                "user_name": "gpustack",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Manage GPU clusters for running AI models",
+                "topics": [
+                    "ascend",
+                    "cuda",
+                    "deepseek",
+                    "distributed",
+                    "distributed-inference",
+                    "genai",
+                    "ggml",
+                    "inference",
+                    "llama",
+                    "llamacpp",
+                    "llm",
+                    "llmops",
+                    "maas",
+                    "metal",
+                    "mindie",
+                    "openai",
+                    "qwen",
+                    "rocm",
+                    "vllm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Manage GPU clusters for running AI models",
+                    "ja": "AIモデルを実行するためのGPUクラスターを管理します。",
+                    "zh-hans": "管理GPU集群以运行AI模型",
+                    "zh-hant": "管理 GPU 集群以運行 AI 模型"
+                }
             }
         },
         "Unity": {
@@ -39227,6 +39362,26 @@
                     "ja": "Python + FastAPI + Playwright + Camoufoxをベースとしたプロキシサーバーで、OpenAI APIと互換性があり、リクエストをGoogle AI Studioのウェブ版対話に転送し、同様に標準形式で出力を返すツールです。余暇の時間が限られているため、更新は不定期です。",
                     "zh-hans": "一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新。",
                     "zh-hant": "一個基於 Python + FastAPI + Playwright + Camoufox 的代理伺服器，兼容 OpenAI API ，將請求轉發到 Google AI Studio 網頁版的對話，並同樣按照標準格式返回輸出的工具。課餘時間有限，隨緣更新。"
+                }
+            },
+            "https://github.com/voapi/voapi": {
+                "repository_name": "VoAPI",
+                "user_name": "VoAPI",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management and distribution channels of enterprises. Please do not use it for commercial purposes. ",
+                "topics": [
+                    "chatgpt",
+                    "new-api",
+                    "one-api",
+                    "openai",
+                    "voapi"
+                ],
+                "multilingual_descriptions": {
+                    "en": "全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management and distribution channels of enterprises. Please do not",
+                    "ja": "全新の高い美的価値/高性能のAIモデルインターフェース管理および配布システムは、個人または企業の内部管理および配布チャネル専用です。商業目的での使用はお控えください。このプロジェクトはNewAPIに基づいて開発されています。",
+                    "zh-hans": "全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。这是一个专为个人或企业内部管理和分发渠道设计的高颜值/高性能的AI模型接口管理和分发系统。请勿将其用于商业用途。",
+                    "zh-hant": "全新的高顏值/高性能的AI模型介面管理與分發系統，僅供個人學習使用，請勿用於任何商業用途，本專案基於NewAPI開發。這是一個專為個人或企業內部管理和分發渠道而設的高美學/高性能AI模型介面管理和分發系統。請勿。"
                 }
             }
         },
