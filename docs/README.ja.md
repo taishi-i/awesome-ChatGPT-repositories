@@ -16,25 +16,27 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [agent-squad](https://github.com/awslabs/agent-squad) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
- * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 機能豊富なWeChatボットフレームワーク | AI対話、Difyとの連携、ポイントシステム、ゲームインタラクション、毎日のニュース、天気予報 | HookやWebを使用しない | Windows✅ Linux✅ MacOS✅ をサポート | 新しいアーキテクチャでXYBotの第一世代の課題を解決！
+ * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。
+ * [sanic-web](https://github.com/apconw/sanic-web) - 軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。
 
 
-**CLIs**
- * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI搭載、非侵襲的な端末アシスタント
+**Browser-extensions**
+ * [notte](https://github.com/nottelabs/notte) - 🔥 エージェントを使用したオープンソースブラウザ 🔥 エージェントを使用したオープンソースブラウザ
 
 
-**NLP**
- * [instructor](https://github.com/567-labs/instructor) - LLMSのための構造化された出力
- * [xyne](https://github.com/xynehq/xyne) - 仕事用のAIファースト検索＆回答エンジン。Gleanのオープンソースの代替品。
+**Tutorials**
+ * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - 開発者がAIシステムを構築するのを支援する例とチュートリアル
+
+
+**Langchain**
+ * [gpustack](https://github.com/gpustack/gpustack) - AIモデルを実行するためのGPUクラスターを管理します。
 
 
 **Openai**
- * [blinko](https://github.com/blinkospace/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用AIノートツール。TypeScriptを使用して構築されています。
- * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - Python + FastAPI + Playwright + Camoufoxをベースとしたプロキシサーバーで、OpenAI APIと互換性があり、リクエストをGoogle AI Studioのウェブ版対話に転送し、同様に標準形式で出力を返すツールです。余暇の時間が限られているため、更新は不定期です。
+ * [VoAPI](https://github.com/voapi/voapi) - 全新の高い美的価値/高性能のAIモデルインターフェース管理および配布システムは、個人または企業の内部管理および配布チャネル専用です。商業目的での使用はお控えください。このプロジェクトはNewAPIに基づいて開発されています。
 
 
-_Updated on May 08, 2025_ (A total of 2091 repositories listed.)
+_Updated on May 12, 2025_ (A total of 2097 repositories listed.)
 
 ## Table of contents
 
@@ -614,6 +616,8 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [ElatoAI](https://github.com/akdeb/elatoai) - OpenAI Realtime APIを使用したArduino ESP32上のリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話Arduino ESP32上でのOpenAI Realtime APIを使用したリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話
  * [agent-squad](https://github.com/awslabs/agent-squad) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
  * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 機能豊富なWeChatボットフレームワーク | AI対話、Difyとの連携、ポイントシステム、ゲームインタラクション、毎日のニュース、天気予報 | HookやWebを使用しない | Windows✅ Linux✅ MacOS✅ をサポート | 新しいアーキテクチャでXYBotの第一世代の課題を解決！
+ * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。
+ * [sanic-web](https://github.com/apconw/sanic-web) - 軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。
 
 
 ## Browser-extensions
@@ -829,6 +833,7 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [nanobrowser](https://github.com/nanobrowser/nanobrowser) - AI パワードのウェブ自動化のためのオープンソースのChrome拡張機能。独自のLLM APIキーを使用してマルチエージェントワークフローを実行します。OpenAI Operatorの代替手段。
  * [solon](https://github.com/opensolon/solon) - 🔥 Javaエンタープライズアプリケーション開発フレームワーク：抑制された、効率的、オープン、エコロジカル!!! 700％高い同時性 50％メモリ節約 スタートアップが10倍速くなりました。パッケージが90％小さくなり、java8〜java24と互換性があります。（置換可能なspr
  * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - MCP（Model Context Protocol）サーバーを管理するための強力なNeovimプラグイン
+ * [notte](https://github.com/nottelabs/notte) - 🔥 エージェントを使用したオープンソースブラウザ 🔥 エージェントを使用したオープンソースブラウザ
 
 
 ## CLIs
@@ -1050,6 +1055,7 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - このリポジトリには、Retrieval-Augmented Generation（RAG）システムのさまざまな高度な技術が含まれています。
  * [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - E2Bの使用例
  * [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - OpenAI APIクイックスタートチュートリアルからのNode.jsのサンプルアプリ
+ * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - 開発者がAIシステムを構築するのを支援する例とチュートリアル
 
 
 ## NLP
@@ -1514,6 +1520,7 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - 💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。
  * [llama-swap](https://github.com/mostlygeek/llama-swap) - llama.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）ラマ.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）
  * [ai-gateway](https://github.com/langdb/ai-gateway) - AIトラフィックを管理、保護、最適化します。AIゲートウェイは、パフォーマンスと信頼性に焦点を当てたOpenAI API形式を使用して、すべてのLLMに統一されたインターフェースを提供します。Rustで構築されています。
+ * [gpustack](https://github.com/gpustack/gpustack) - AIモデルを実行するためのGPUクラスターを管理します。
 
 
 ## Unity
@@ -1780,6 +1787,7 @@ _Updated on May 08, 2025_ (A total of 2091 repositories listed.)
  * [gitpodcast](https://github.com/bandarlabs/gitpodcast) - どんなgitリポジトリも魅力的なポッドキャストに変換します。
  * [blinko](https://github.com/blinkospace/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用AIノートツール。TypeScriptを使用して構築されています。
  * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - Python + FastAPI + Playwright + Camoufoxをベースとしたプロキシサーバーで、OpenAI APIと互換性があり、リクエストをGoogle AI Studioのウェブ版対話に転送し、同様に標準形式で出力を返すツールです。余暇の時間が限られているため、更新は不定期です。
+ * [VoAPI](https://github.com/voapi/voapi) - 全新の高い美的価値/高性能のAIモデルインターフェース管理および配布システムは、個人または企業の内部管理および配布チャネル専用です。商業目的での使用はお控えください。このプロジェクトはNewAPIに基づいて開発されています。
 
 
 ## Others
