@@ -2046,6 +2046,33 @@
                     "zh-hans": "🔊 Whisper的精彩列表 - 一个由OpenAI开发的开源AI驱动的语音识别系统",
                     "zh-hant": "🔊 Whisper的精彩清單 - 這是由OpenAI開發的開源AI動力語音識別系統。"
                 }
+            },
+            "https://github.com/wangrongsheng/awesome-llm-resources": {
+                "repository_name": "awesome-LLM-resources",
+                "user_name": "WangRongsheng",
+                "language": null,
+                "license": "Apache License 2.0",
+                "description": "🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources. ",
+                "topics": [
+                    "awesome-list",
+                    "book",
+                    "course",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "mistral",
+                    "openai",
+                    "qwen",
+                    "rag",
+                    "retrieval-augmented-generation",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.",
+                    "ja": "🧑‍🚀 世界最高のLLMリソースの要約（エージェントフレームワーク、補助プログラミング、データ処理、モデルトレーニング、モデル推論、o1モデル、MCP、小さな言語モデル、ビジュアル言語モデル）",
+                    "zh-hans": "🧑‍🚀 全球最佳LLM资源总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型）| 简述全球最佳LLM资源。",
+                    "zh-hant": "🧑‍🚀 全世界最好的LLM資料總結（Agent框架、輔助編程、數據處理、模型訓練、模型推理、o1 模型、MCP、小語言模型、視覺語言模型）| 全球最佳LLM資源摘要。"
+                }
             }
         },
         "Prompts": {
@@ -13644,6 +13671,34 @@
                     "zh-hans": "一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基于 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以",
                     "zh-hant": "一個輕量級、支持全鏈路且易於二次開發的大模型應用項目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基於 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技術構建的一站式大模型應用開發項目，採用 Vue3、TypeScript 和 Vite 5 打造現代UI。它支持通過 ECharts 📈 實現基於大模型的數據圖形化問答，具備處理 CSV 文件 📂 表格問答的能力。同時，能方便對接第三方開源 RAG 系統 檢索系統 🌐等，以"
                 }
+            },
+            "https://github.com/evolutionapi/evolution-api": {
+                "repository_name": "evolution-api",
+                "user_name": "EvolutionAPI",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Evolution API is an open-source WhatsApp integration API",
+                "topics": [
+                    "chatbot",
+                    "chatwoot",
+                    "cloud-api",
+                    "dify",
+                    "evolution",
+                    "n8n",
+                    "openai",
+                    "pusher",
+                    "rabbitmq",
+                    "typebot",
+                    "whatsapp",
+                    "whatsapp-api",
+                    "whatsapp-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Evolution API is an open-source WhatsApp integration API",
+                    "ja": "Evolution APIはオープンソースのWhatsApp統合APIです。",
+                    "zh-hans": "Evolution API 是一个开源的 WhatsApp 集成 API",
+                    "zh-hant": "Evolution API 是一個開源的 WhatsApp 整合 API"
+                }
             }
         },
         "Browser-extensions": {
@@ -22927,6 +22982,28 @@
                     "ja": "より簡単な方法ですべてのRLアルゴリズムの実装",
                     "zh-hans": "以更简单的方式实现所有强化学习算法",
                     "zh-hant": "以更简单的方式实现所有强化学习算法"
+                }
+            },
+            "https://github.com/fareedkhan-dev/all-rag-techniques": {
+                "repository_name": "all-rag-techniques",
+                "user_name": "FareedKhan-dev",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "Implementation of all RAG techniques in a simpler way",
+                "topics": [
+                    "ai",
+                    "llm",
+                    "llms",
+                    "multi-modal",
+                    "openai",
+                    "python",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Implementation of all RAG techniques in a simpler way",
+                    "ja": "より簡単な方法ですべてのRAG技術の実装",
+                    "zh-hans": "以更简单的方式实现所有的RAG技术",
+                    "zh-hant": "以更简单的方式实施所有RAG技术"
                 }
             }
         },
@@ -33742,6 +33819,35 @@
                     "zh-hans": "管理GPU集群以运行AI模型",
                     "zh-hant": "管理 GPU 集群以運行 AI 模型"
                 }
+            },
+            "https://github.com/pogjester/company-research-agent": {
+                "repository_name": "company-research-agent",
+                "user_name": "pogjester",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "company",
+                    "financial-analysis",
+                    "gemini",
+                    "langchain",
+                    "langgraph-python",
+                    "multi-agent-systems",
+                    "openai",
+                    "python",
+                    "research",
+                    "tavily",
+                    "tavily-api",
+                    "tavily-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.",
+                    "ja": "LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。",
+                    "zh-hans": "由LangGraph和Tavily提供支持的一种主动公司研究工具，利用多代理框架对公司进行深入的尽职调查。它在后端利用谷歌的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。",
+                    "zh-hant": "由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。"
+                }
             }
         },
         "Unity": {
@@ -39382,6 +39488,49 @@
                     "ja": "全新の高い美的価値/高性能のAIモデルインターフェース管理および配布システムは、個人または企業の内部管理および配布チャネル専用です。商業目的での使用はお控えください。このプロジェクトはNewAPIに基づいて開発されています。",
                     "zh-hans": "全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。这是一个专为个人或企业内部管理和分发渠道设计的高颜值/高性能的AI模型接口管理和分发系统。请勿将其用于商业用途。",
                     "zh-hant": "全新的高顏值/高性能的AI模型介面管理與分發系統，僅供個人學習使用，請勿用於任何商業用途，本專案基於NewAPI開發。這是一個專為個人或企業內部管理和分發渠道而設的高美學/高性能AI模型介面管理和分發系統。請勿。"
+                }
+            },
+            "https://github.com/microsoft/openaiworkshop": {
+                "repository_name": "OpenAIWorkshop",
+                "user_name": "microsoft",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "workshop materials to build intelligent solutions on Open AI",
+                "topics": [
+                    "azure",
+                    "cognitive-services",
+                    "machine-learning",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "workshop materials to build intelligent solutions on Open AI",
+                    "ja": "Open AIで知的なソリューションを構築するためのワークショップ資料",
+                    "zh-hans": "构建Open AI智能解决方案的工作坊材料输出：构建Open AI智能解决方案的工作坊材料",
+                    "zh-hant": "建立在Open AI上的智能解決方案的工作坊材料"
+                }
+            },
+            "https://github.com/asyncfuncai/deepwiki-open": {
+                "repository_name": "deepwiki-open",
+                "user_name": "AsyncFuncAI",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
+                "topics": [
+                    "ai",
+                    "gemini",
+                    "github",
+                    "ollama",
+                    "open-source",
+                    "openai",
+                    "openrouter",
+                    "self-hosted",
+                    "wiki"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
+                    "ja": "オープンソースDeepWiki：GitHub/Gitlab/Bitbucketリポジトリ用のAIパワードWikiジェネレーター。Discordに参加する：https://discord.gg/gMwThUMeme",
+                    "zh-hans": "开源DeepWiki：为GitHub/Gitlab/Bitbucket存储库提供AI支持的维基生成器。加入discord：https://discord.gg/gMwThUMeme",
+                    "zh-hant": "開源DeepWiki：為GitHub/Gitlab/Bitbucket存儲庫提供AI動力Wiki生成器。加入Discord：https://discord.gg/gMwThUMeme"
                 }
             }
         },
@@ -47321,6 +47470,48 @@
                     "ja": "AI 占い、占星術、タロットカード、姓名判断、夢占い、八字占い、梅花易数",
                     "zh-hans": "AI算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数",
                     "zh-hant": "AI 算命，占卜，塔羅牌，姓名五格，周公解夢，生辰八字，梅花易數"
+                }
+            },
+            "https://github.com/aidotnet/opendeepwiki": {
+                "repository_name": "OpenDeepWiki",
+                "user_name": "AIDotNet",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.",
+                "topics": [
+                    "chatgpt",
+                    "deepwiki",
+                    "docs"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and cus",
+                    "ja": "OpenDeepWikiは、強力な知識管理とコラボレーションプラットフォームを提供することを目的としたDeepWikiプロジェクトのオープンソースバージョンです。このプロジェクトは主にC#とTypeScriptを使用して開発されており、モジュラーデザインをサポートしており、拡張やカスタマイズが容易です。",
+                    "zh-hans": "OpenDeepWiki是DeepWiki项目的开源版本，旨在提供强大的知识管理和协作平台。该项目主要使用C#和TypeScript进行开发，支持模块化设计，易于扩展和定制。",
+                    "zh-hant": "OpenDeepWiki是DeepWiki項目的開源版本，旨在提供強大的知識管理和協作平台。該項目主要使用C#和TypeScript進行開發，支持模塊化設計，易於擴展和自定義。"
+                }
+            },
+            "https://github.com/ibelick/zola": {
+                "repository_name": "zola",
+                "user_name": "ibelick",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "The open source ChatGPT alternative for developers. Fast, multi-model AI chat. Agents + MCP coming soon.",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "multi-model",
+                    "nextjs",
+                    "open-source",
+                    "prompt-kit",
+                    "shadcn-ui",
+                    "supabase",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The open source ChatGPT alternative for developers. Fast, multi-model AI chat. Agents + MCP coming soon.",
+                    "ja": "開発者向けのオープンソースChatGPTの代替。高速で、マルチモデルのAIチャット。エージェント+MCPが近日公開予定。",
+                    "zh-hans": "开源ChatGPT的替代品，面向开发人员。快速、多模型AI聊天。代理+MCP即将推出。",
+                    "zh-hant": "針對開發人員的開源ChatGPT替代方案。快速、多模型AI聊天。代理人+MCP即將推出。"
                 }
             }
         }

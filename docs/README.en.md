@@ -15,28 +15,33 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
+
+
 **Chatbots**
- * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - Brings MCP to ChatGPT, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter and more...
- * [sanic-web](https://github.com/apconw/sanic-web) - A lightweight, full-stack, and easy-to-develop large model application project (Large Model Data Assistant) that supports DeepSeek/Qwen2.5 and other large models, built on technologies such as Dify, Ollama&Vllm, Sanic, and Text2SQL 📊. It is a one-stop large model application development project that uses Vue3, TypeScript, and Vite 5 to create a modern UI. It supports data visualization and question answering based on large models through ECharts 📈, and has the ability to handle CSV file 📂 table queries. Additionally, it can easily integrate with third-party open source RAG system retrieval systems 🌐.
+ * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API is an open-source WhatsApp integration API
 
 
-**Browser-extensions**
- * [notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agent
-
-
-**Tutorials**
- * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
+**Reimplementations**
+ * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 
 
 **Langchain**
- * [gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
+ * [company-research-agent](https://github.com/pogjester/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
 
 
 **Openai**
- * [VoAPI](https://github.com/voapi/voapi) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management and distribution channels of enterprises. Please do not
+ * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - workshop materials to build intelligent solutions on Open AI
+ * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
 
-_Updated on May 12, 2025_ (A total of 2097 repositories listed.)
+**Others**
+ * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and cus
+ * [zola](https://github.com/ibelick/zola) - The open source ChatGPT alternative for developers. Fast, multi-model AI chat. Agents + MCP coming soon.
+
+
+_Updated on May 15, 2025_ (A total of 2105 repositories listed.)
 
 ## Table of contents
 
@@ -136,6 +141,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
+ * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 
 
 ## Prompts
@@ -618,6 +624,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 Feature-rich WeChat robot framework | AI dialogue, integration with Dify, points system, game interaction, daily news, weather query | Non-Hook non-Web implementation | Supports Windows✅ Linux✅ MacOS✅ | New architecture solves the pain points of the first generation XYBot!
  * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - Brings MCP to ChatGPT, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter and more...
  * [sanic-web](https://github.com/apconw/sanic-web) - A lightweight, full-stack, and easy-to-develop large model application project (Large Model Data Assistant) that supports DeepSeek/Qwen2.5 and other large models, built on technologies such as Dify, Ollama&Vllm, Sanic, and Text2SQL 📊. It is a one-stop large model application development project that uses Vue3, TypeScript, and Vite 5 to create a modern UI. It supports data visualization and question answering based on large models through ECharts 📈, and has the ability to handle CSV file 📂 table queries. Additionally, it can easily integrate with third-party open source RAG system retrieval systems 🌐.
+ * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API is an open-source WhatsApp integration API
 
 
 ## Browser-extensions
@@ -1033,6 +1040,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 Open source implementation for LLaMA-based ChatGPT runnable in a single GPU. 15x faster training process than ChatGPT
  * [deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - Implementation of all RL algorithms in a simpler way
+ * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 
 
 ## Tutorials
@@ -1521,6 +1529,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server)
  * [ai-gateway](https://github.com/langdb/ai-gateway) - Govern, Secure, and Optimize your AI Traffic. AI Gateway provides unified interface to all LLMs using OpenAI API format with a focus on performance and reliability. Built in Rust.
  * [gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
+ * [company-research-agent](https://github.com/pogjester/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
 
 
 ## Unity
@@ -1788,6 +1797,8 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
  * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新。
  * [VoAPI](https://github.com/voapi/voapi) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management and distribution channels of enterprises. Please do not
+ * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - workshop materials to build intelligent solutions on Open AI
+ * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 
 
 ## Others
@@ -2208,5 +2219,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
  * [agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
  * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI fortune-telling, divination, tarot cards, name analysis, dream interpretation, Chinese astrology, plum blossom numerology
+ * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and cus
+ * [zola](https://github.com/ibelick/zola) - The open source ChatGPT alternative for developers. Fast, multi-model AI chat. Agents + MCP coming soon.
 
 

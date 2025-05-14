@@ -15,28 +15,33 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM資料總結（Agent框架、輔助編程、數據處理、模型訓練、模型推理、o1 模型、MCP、小語言模型、視覺語言模型）| 全球最佳LLM資源摘要。
+
+
 **Chatbots**
- * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - 將MCP帶到ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouter等等...
- * [sanic-web](https://github.com/apconw/sanic-web) - 一個輕量級、支持全鏈路且易於二次開發的大模型應用項目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基於 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技術構建的一站式大模型應用開發項目，採用 Vue3、TypeScript 和 Vite 5 打造現代UI。它支持通過 ECharts 📈 實現基於大模型的數據圖形化問答，具備處理 CSV 文件 📂 表格問答的能力。同時，能方便對接第三方開源 RAG 系統 檢索系統 🌐等，以
+ * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API 是一個開源的 WhatsApp 整合 API
 
 
-**Browser-extensions**
- * [notte](https://github.com/nottelabs/notte) - 🔥 使用代理的開源瀏覽器
-
-
-**Tutorials**
- * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - 提供開發人員建立人工智慧系統的示例和教程
+**Reimplementations**
+ * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - 以更简单的方式实施所有RAG技术
 
 
 **Langchain**
- * [gpustack](https://github.com/gpustack/gpustack) - 管理 GPU 集群以運行 AI 模型
+ * [company-research-agent](https://github.com/pogjester/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
 
 
 **Openai**
- * [VoAPI](https://github.com/voapi/voapi) - 全新的高顏值/高性能的AI模型介面管理與分發系統，僅供個人學習使用，請勿用於任何商業用途，本專案基於NewAPI開發。這是一個專為個人或企業內部管理和分發渠道而設的高美學/高性能AI模型介面管理和分發系統。請勿。
+ * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - 建立在Open AI上的智能解決方案的工作坊材料
+ * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - 開源DeepWiki：為GitHub/Gitlab/Bitbucket存儲庫提供AI動力Wiki生成器。加入Discord：https://discord.gg/gMwThUMeme
 
 
-_Updated on May 12, 2025_ (A total of 2097 repositories listed.)
+**Others**
+ * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki是DeepWiki項目的開源版本，旨在提供強大的知識管理和協作平台。該項目主要使用C#和TypeScript進行開發，支持模塊化設計，易於擴展和自定義。
+ * [zola](https://github.com/ibelick/zola) - 針對開發人員的開源ChatGPT替代方案。快速、多模型AI聊天。代理人+MCP即將推出。
+
+
+_Updated on May 15, 2025_ (A total of 2105 repositories listed.)
 
 ## Table of contents
 
@@ -136,6 +141,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 精心挑選的系統提示集合，適用於頂尖AI工具。非常適合AI代理構建者和提示工程師使用。包括：ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion和MetaAI。
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - 精心策劃的GPT-4o圖像和提示的精彩收藏。探索OpenAI最新模型中多樣化的AI生成藝術風格（吉卜力，3D等）。
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Whisper的精彩清單 - 這是由OpenAI開發的開源AI動力語音識別系統。
+ * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM資料總結（Agent框架、輔助編程、數據處理、模型訓練、模型推理、o1 模型、MCP、小語言模型、視覺語言模型）| 全球最佳LLM資源摘要。
 
 
 ## Prompts
@@ -618,6 +624,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 功能豐富的微信機器人框架 | AI對話、對接Dify、積分系統、遊戲互動、每日新聞、天氣查詢 | 非Hook非Web實現 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架構解決XYBot第一代痛點！
  * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - 將MCP帶到ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouter等等...
  * [sanic-web](https://github.com/apconw/sanic-web) - 一個輕量級、支持全鏈路且易於二次開發的大模型應用項目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基於 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技術構建的一站式大模型應用開發項目，採用 Vue3、TypeScript 和 Vite 5 打造現代UI。它支持通過 ECharts 📈 實現基於大模型的數據圖形化問答，具備處理 CSV 文件 📂 表格問答的能力。同時，能方便對接第三方開源 RAG 系統 檢索系統 🌐等，以
+ * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API 是一個開源的 WhatsApp 整合 API
 
 
 ## Browser-extensions
@@ -1033,6 +1040,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 是一個基於 LLaMA 的開源實現，可在單個 GPU 上運行的 ChatGPT。訓練過程比 ChatGPT 快 15 倍。
  * [deep-research](https://github.com/dzhng/deep-research) - 我自己的開源實現OpenAI新的Deep Research代理。無需支付200美元即可獲得相同的功能。您甚至可以通過可調節的廣度和深度來調整代理的行為。運行5分鐘或5小時，它將自動調整。
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - 以更简单的方式实现所有强化学习算法
+ * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - 以更简单的方式实施所有RAG技术
 
 
 ## Tutorials
@@ -1521,6 +1529,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [llama-swap](https://github.com/mostlygeek/llama-swap) - 請將llama.cpp的模型替換（或任何本地OpenAPI兼容的伺服器）进行翻译
  * [ai-gateway](https://github.com/langdb/ai-gateway) - 管理、保護和優化您的AI流量。AI Gateway提供統一的界面，使用OpenAI API格式與所有LLMs進行通信，並專注於性能和可靠性。使用Rust構建。
  * [gpustack](https://github.com/gpustack/gpustack) - 管理 GPU 集群以運行 AI 模型
+ * [company-research-agent](https://github.com/pogjester/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
 
 
 ## Unity
@@ -1788,6 +1797,8 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [blinko](https://github.com/blinkospace/blinko) - 一個開源、自主託管的個人AI筆記工具，注重隱私，使用TypeScript構建。
  * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - 一個基於 Python + FastAPI + Playwright + Camoufox 的代理伺服器，兼容 OpenAI API ，將請求轉發到 Google AI Studio 網頁版的對話，並同樣按照標準格式返回輸出的工具。課餘時間有限，隨緣更新。
  * [VoAPI](https://github.com/voapi/voapi) - 全新的高顏值/高性能的AI模型介面管理與分發系統，僅供個人學習使用，請勿用於任何商業用途，本專案基於NewAPI開發。這是一個專為個人或企業內部管理和分發渠道而設的高美學/高性能AI模型介面管理和分發系統。請勿。
+ * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - 建立在Open AI上的智能解決方案的工作坊材料
+ * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - 開源DeepWiki：為GitHub/Gitlab/Bitbucket存儲庫提供AI動力Wiki生成器。加入Discord：https://discord.gg/gMwThUMeme
 
 
 ## Others
@@ -2208,5 +2219,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [jan](https://github.com/menloresearch/jan) - Jan 是 ChatGPT 的開源替代方案，可以在您的電腦上完全離線運行。
  * [agentheroes](https://github.com/agentheroes/agentheroes) - 生成、動畫和安排您的AI角色 🤖
  * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 算命，占卜，塔羅牌，姓名五格，周公解夢，生辰八字，梅花易數
+ * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki是DeepWiki項目的開源版本，旨在提供強大的知識管理和協作平台。該項目主要使用C#和TypeScript進行開發，支持模塊化設計，易於擴展和自定義。
+ * [zola](https://github.com/ibelick/zola) - 針對開發人員的開源ChatGPT替代方案。快速、多模型AI聊天。代理人+MCP即將推出。
 
 

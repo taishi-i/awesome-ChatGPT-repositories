@@ -15,28 +15,33 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 世界最高のLLMリソースの要約（エージェントフレームワーク、補助プログラミング、データ処理、モデルトレーニング、モデル推論、o1モデル、MCP、小さな言語モデル、ビジュアル言語モデル）
+
+
 **Chatbots**
- * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。
- * [sanic-web](https://github.com/apconw/sanic-web) - 軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。
+ * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
 
 
-**Browser-extensions**
- * [notte](https://github.com/nottelabs/notte) - 🔥 エージェントを使用したオープンソースブラウザ 🔥 エージェントを使用したオープンソースブラウザ
-
-
-**Tutorials**
- * [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - 開発者がAIシステムを構築するのを支援する例とチュートリアル
+**Reimplementations**
+ * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - より簡単な方法ですべてのRAG技術の実装
 
 
 **Langchain**
- * [gpustack](https://github.com/gpustack/gpustack) - AIモデルを実行するためのGPUクラスターを管理します。
+ * [company-research-agent](https://github.com/pogjester/company-research-agent) - LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
 
 
 **Openai**
- * [VoAPI](https://github.com/voapi/voapi) - 全新の高い美的価値/高性能のAIモデルインターフェース管理および配布システムは、個人または企業の内部管理および配布チャネル専用です。商業目的での使用はお控えください。このプロジェクトはNewAPIに基づいて開発されています。
+ * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - Open AIで知的なソリューションを構築するためのワークショップ資料
+ * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - オープンソースDeepWiki：GitHub/Gitlab/Bitbucketリポジトリ用のAIパワードWikiジェネレーター。Discordに参加する：https://discord.gg/gMwThUMeme
 
 
-_Updated on May 12, 2025_ (A total of 2097 repositories listed.)
+**Others**
+ * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWikiは、強力な知識管理とコラボレーションプラットフォームを提供することを目的としたDeepWikiプロジェクトのオープンソースバージョンです。このプロジェクトは主にC#とTypeScriptを使用して開発されており、モジュラーデザインをサポートしており、拡張やカスタマイズが容易です。
+ * [zola](https://github.com/ibelick/zola) - 開発者向けのオープンソースChatGPTの代替。高速で、マルチモデルのAIチャット。エージェント+MCPが近日公開予定。
+
+
+_Updated on May 15, 2025_ (A total of 2105 repositories listed.)
 
 ## Table of contents
 
@@ -136,6 +141,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - OpenAIの最新モデルから、さまざまなAI生成アートスタイル（ジブリ、3Dなど）を探索できる素晴らしい厳選されたGPT-4o画像とプロンプト。
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 OpenAIによって開発されたオープンソースのAIパワード音声認識システムWhisper用の素晴らしいリストWhisper用の素晴らしいリスト
+ * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 世界最高のLLMリソースの要約（エージェントフレームワーク、補助プログラミング、データ処理、モデルトレーニング、モデル推論、o1モデル、MCP、小さな言語モデル、ビジュアル言語モデル）
 
 
 ## Prompts
@@ -618,6 +624,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 機能豊富なWeChatボットフレームワーク | AI対話、Difyとの連携、ポイントシステム、ゲームインタラクション、毎日のニュース、天気予報 | HookやWebを使用しない | Windows✅ Linux✅ MacOS✅ をサポート | 新しいアーキテクチャでXYBotの第一世代の課題を解決！
  * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。
  * [sanic-web](https://github.com/apconw/sanic-web) - 軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。
+ * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
 
 
 ## Browser-extensions
@@ -1033,6 +1040,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [chatllama](https://github.com/juncongmoo/chatllama) - ChatLLaMA 📢 一つのGPUで実行可能なLLaMAベースのChatGPTのオープンソース実装。ChatGPTよりも15倍高速なトレーニングプロセス。
  * [deep-research](https://github.com/dzhng/deep-research) - 私自身のオープンソース実装は、OpenAIの新しいDeep Researchエージェントです。200ドル支払わずに同じ機能を手に入れることができます。さらに、エージェントの振る舞いを調整可能な幅と深さで調整することさえできます。5分間でも5時間でも実行し、自動調整されます。
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - より簡単な方法ですべてのRLアルゴリズムの実装
+ * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - より簡単な方法ですべてのRAG技術の実装
 
 
 ## Tutorials
@@ -1521,6 +1529,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [llama-swap](https://github.com/mostlygeek/llama-swap) - llama.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）ラマ.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）
  * [ai-gateway](https://github.com/langdb/ai-gateway) - AIトラフィックを管理、保護、最適化します。AIゲートウェイは、パフォーマンスと信頼性に焦点を当てたOpenAI API形式を使用して、すべてのLLMに統一されたインターフェースを提供します。Rustで構築されています。
  * [gpustack](https://github.com/gpustack/gpustack) - AIモデルを実行するためのGPUクラスターを管理します。
+ * [company-research-agent](https://github.com/pogjester/company-research-agent) - LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
 
 
 ## Unity
@@ -1788,6 +1797,8 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [blinko](https://github.com/blinkospace/blinko) - オープンソースで、プライバシーを重視した、自己ホスト型の個人用AIノートツール。TypeScriptを使用して構築されています。
  * [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - Python + FastAPI + Playwright + Camoufoxをベースとしたプロキシサーバーで、OpenAI APIと互換性があり、リクエストをGoogle AI Studioのウェブ版対話に転送し、同様に標準形式で出力を返すツールです。余暇の時間が限られているため、更新は不定期です。
  * [VoAPI](https://github.com/voapi/voapi) - 全新の高い美的価値/高性能のAIモデルインターフェース管理および配布システムは、個人または企業の内部管理および配布チャネル専用です。商業目的での使用はお控えください。このプロジェクトはNewAPIに基づいて開発されています。
+ * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - Open AIで知的なソリューションを構築するためのワークショップ資料
+ * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - オープンソースDeepWiki：GitHub/Gitlab/Bitbucketリポジトリ用のAIパワードWikiジェネレーター。Discordに参加する：https://discord.gg/gMwThUMeme
 
 
 ## Others
@@ -2208,5 +2219,7 @@ _Updated on May 12, 2025_ (A total of 2097 repositories listed.)
  * [jan](https://github.com/menloresearch/jan) - Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。
  * [agentheroes](https://github.com/agentheroes/agentheroes) - AIキャラクターを生成し、アニメーション化してスケジュールを立てる。
  * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 占い、占星術、タロットカード、姓名判断、夢占い、八字占い、梅花易数
+ * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWikiは、強力な知識管理とコラボレーションプラットフォームを提供することを目的としたDeepWikiプロジェクトのオープンソースバージョンです。このプロジェクトは主にC#とTypeScriptを使用して開発されており、モジュラーデザインをサポートしており、拡張やカスタマイズが容易です。
+ * [zola](https://github.com/ibelick/zola) - 開発者向けのオープンソースChatGPTの代替。高速で、マルチモデルのAIチャット。エージェント+MCPが近日公開予定。
 
 
