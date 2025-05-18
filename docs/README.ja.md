@@ -15,33 +15,19 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 世界最高のLLMリソースの要約（エージェントフレームワーク、補助プログラミング、データ処理、モデルトレーニング、モデル推論、o1モデル、MCP、小さな言語モデル、ビジュアル言語モデル）
+**Browser-extensions**
+ * [llm-scraper](https://github.com/mishushakov/llm-scraper) - LLMsを使用して、任意のウェブページを構造化データに変換します。
 
 
-**Chatbots**
- * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
-
-
-**Reimplementations**
- * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - より簡単な方法ですべてのRAG技術の実装
-
-
-**Langchain**
- * [company-research-agent](https://github.com/pogjester/company-research-agent) - LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
+**NLP**
+ * [aidermacs](https://github.com/matthewzmd/aidermacs) - Aiderを使用したEmacsでのAIペアプログラミング
 
 
 **Openai**
- * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - Open AIで知的なソリューションを構築するためのワークショップ資料
- * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - オープンソースDeepWiki：GitHub/Gitlab/Bitbucketリポジトリ用のAIパワードWikiジェネレーター。Discordに参加する：https://discord.gg/gMwThUMeme
+ * [scira](https://github.com/zaidmukaddam/scira) - Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。
 
 
-**Others**
- * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWikiは、強力な知識管理とコラボレーションプラットフォームを提供することを目的としたDeepWikiプロジェクトのオープンソースバージョンです。このプロジェクトは主にC#とTypeScriptを使用して開発されており、モジュラーデザインをサポートしており、拡張やカスタマイズが容易です。
- * [zola](https://github.com/ibelick/zola) - 開発者向けのオープンソースChatGPTの代替。高速で、マルチモデルのAIチャット。エージェント+MCPが近日公開予定。
-
-
-_Updated on May 15, 2025_ (A total of 2105 repositories listed.)
+_Updated on May 19, 2025_ (A total of 2108 repositories listed.)
 
 ## Table of contents
 
@@ -841,6 +827,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [solon](https://github.com/opensolon/solon) - 🔥 Javaエンタープライズアプリケーション開発フレームワーク：抑制された、効率的、オープン、エコロジカル!!! 700％高い同時性 50％メモリ節約 スタートアップが10倍速くなりました。パッケージが90％小さくなり、java8〜java24と互換性があります。（置換可能なspr
  * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - MCP（Model Context Protocol）サーバーを管理するための強力なNeovimプラグイン
  * [notte](https://github.com/nottelabs/notte) - 🔥 エージェントを使用したオープンソースブラウザ 🔥 エージェントを使用したオープンソースブラウザ
+ * [llm-scraper](https://github.com/mishushakov/llm-scraper) - LLMsを使用して、任意のウェブページを構造化データに変換します。
 
 
 ## CLIs
@@ -1388,6 +1375,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。
  * [instructor](https://github.com/567-labs/instructor) - LLMSのための構造化された出力
  * [xyne](https://github.com/xynehq/xyne) - 仕事用のAIファースト検索＆回答エンジン。Gleanのオープンソースの代替品。
+ * [aidermacs](https://github.com/matthewzmd/aidermacs) - Aiderを使用したEmacsでのAIペアプログラミング
 
 
 ## Langchain
@@ -1799,6 +1787,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [VoAPI](https://github.com/voapi/voapi) - 全新の高い美的価値/高性能のAIモデルインターフェース管理および配布システムは、個人または企業の内部管理および配布チャネル専用です。商業目的での使用はお控えください。このプロジェクトはNewAPIに基づいて開発されています。
  * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - Open AIで知的なソリューションを構築するためのワークショップ資料
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - オープンソースDeepWiki：GitHub/Gitlab/Bitbucketリポジトリ用のAIパワードWikiジェネレーター。Discordに参加する：https://discord.gg/gMwThUMeme
+ * [scira](https://github.com/zaidmukaddam/scira) - Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。
 
 
 ## Others

@@ -15,33 +15,19 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全球最佳LLM资源总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型）| 简述全球最佳LLM资源。
+**Browser-extensions**
+ * [llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用LLMs将任何网页转换为结构化数据
 
 
-**Chatbots**
- * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API 是一个开源的 WhatsApp 集成 API
-
-
-**Reimplementations**
- * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - 以更简单的方式实现所有的RAG技术
-
-
-**Langchain**
- * [company-research-agent](https://github.com/pogjester/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，利用多代理框架对公司进行深入的尽职调查。它在后端利用谷歌的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
+**NLP**
+ * [aidermacs](https://github.com/matthewzmd/aidermacs) - 在Emacs中使用Aider进行AI对编程进行配对
 
 
 **Openai**
- * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - 构建Open AI智能解决方案的工作坊材料输出：构建Open AI智能解决方案的工作坊材料
- * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - 开源DeepWiki：为GitHub/Gitlab/Bitbucket存储库提供AI支持的维基生成器。加入discord：https://discord.gg/gMwThUMeme
+ * [scira](https://github.com/zaidmukaddam/scira) - Scira（原名MiniPerplx）是一款极简的人工智能搜索引擎，可帮助您在互联网上查找信息并进行引用。由Vercel AI SDK提供支持！使用像xAI的Grok 3这样的模型进行搜索。
 
 
-**Others**
- * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki是DeepWiki项目的开源版本，旨在提供强大的知识管理和协作平台。该项目主要使用C#和TypeScript进行开发，支持模块化设计，易于扩展和定制。
- * [zola](https://github.com/ibelick/zola) - 开源ChatGPT的替代品，面向开发人员。快速、多模型AI聊天。代理+MCP即将推出。
-
-
-_Updated on May 15, 2025_ (A total of 2105 repositories listed.)
+_Updated on May 19, 2025_ (A total of 2108 repositories listed.)
 
 ## Table of contents
 
@@ -841,6 +827,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [solon](https://github.com/opensolon/solon) - 🔥 Java企业应用开发框架，适用于全场景：约束、高效、开放、生态友好！并发性能提高700%，内存节省50%，启动速度提高10倍。包大小减小90%，兼容java8 ~ java24。（可替代spr）
  * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - 一个强大的Neovim插件，用于管理MCP（Model Context Protocol）服务器
  * [notte](https://github.com/nottelabs/notte) - 🔥 使用代理的开源浏览器
+ * [llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用LLMs将任何网页转换为结构化数据
 
 
 ## CLIs
@@ -1388,6 +1375,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch替代方案，一种由人工智能驱动的研究系统，可以利用多个搜索引擎和LLMs对任何主题进行全面、迭代的研究。
  * [instructor](https://github.com/567-labs/instructor) - 为llms设计结构化输出
  * [xyne](https://github.com/xynehq/xyne) - AI优先搜索和答案引擎，用于工作。Glean的开源替代方案。
+ * [aidermacs](https://github.com/matthewzmd/aidermacs) - 在Emacs中使用Aider进行AI对编程进行配对
 
 
 ## Langchain
@@ -1799,6 +1787,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [VoAPI](https://github.com/voapi/voapi) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。这是一个专为个人或企业内部管理和分发渠道设计的高颜值/高性能的AI模型接口管理和分发系统。请勿将其用于商业用途。
  * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - 构建Open AI智能解决方案的工作坊材料输出：构建Open AI智能解决方案的工作坊材料
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - 开源DeepWiki：为GitHub/Gitlab/Bitbucket存储库提供AI支持的维基生成器。加入discord：https://discord.gg/gMwThUMeme
+ * [scira](https://github.com/zaidmukaddam/scira) - Scira（原名MiniPerplx）是一款极简的人工智能搜索引擎，可帮助您在互联网上查找信息并进行引用。由Vercel AI SDK提供支持！使用像xAI的Grok 3这样的模型进行搜索。
 
 
 ## Others
