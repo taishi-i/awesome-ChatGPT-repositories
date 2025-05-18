@@ -15,33 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
+**Browser-extensions**
+ * [llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 
 
-**Chatbots**
- * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API is an open-source WhatsApp integration API
-
-
-**Reimplementations**
- * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
-
-
-**Langchain**
- * [company-research-agent](https://github.com/pogjester/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
+**NLP**
+ * [aidermacs](https://github.com/matthewzmd/aidermacs) - AI Pair Programming in Emacs with Aider
 
 
 **Openai**
- * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - workshop materials to build intelligent solutions on Open AI
- * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+ * [scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 
 
-**Others**
- * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and customize.
- * [zola](https://github.com/ibelick/zola) - The open source ChatGPT alternative for developers. Fast, multi-model AI chat. Agents + MCP coming soon.
-
-
-_Updated on May 15, 2025_ (A total of 2105 repositories listed.)
+_Updated on May 19, 2025_ (A total of 2108 repositories listed.)
 
 ## Table of contents
 
@@ -841,6 +827,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java24. (Replaceable spring)
  * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers
  * [notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agent
+ * [llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 
 
 ## CLIs
@@ -1388,6 +1375,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch alternative, An AI-driven research system that performs comprehensive, iterative research on any topic using multiple search engines and LLMs.
  * [instructor](https://github.com/567-labs/instructor) - structured outputs for llms
  * [xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
+ * [aidermacs](https://github.com/matthewzmd/aidermacs) - AI Pair Programming in Emacs with Aider
 
 
 ## Langchain
@@ -1799,6 +1787,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [VoAPI](https://github.com/voapi/voapi) - 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。A brand new high aesthetic/high-performance AI model interface management and distribution system is only for personal or internal management and distribution channels of enterprises. Please do not use it for commercial purposes.
  * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - workshop materials to build intelligent solutions on Open AI
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+ * [scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 
 
 ## Others

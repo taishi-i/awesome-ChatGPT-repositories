@@ -15,33 +15,19 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM資料總結（Agent框架、輔助編程、數據處理、模型訓練、模型推理、o1 模型、MCP、小語言模型、視覺語言模型）| 全球最佳LLM資源摘要。
+**Browser-extensions**
+ * [llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用LLMs將任何網頁轉換為結構化數據
 
 
-**Chatbots**
- * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API 是一個開源的 WhatsApp 整合 API
-
-
-**Reimplementations**
- * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - 以更简单的方式实施所有RAG技术
-
-
-**Langchain**
- * [company-research-agent](https://github.com/pogjester/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
+**NLP**
+ * [aidermacs](https://github.com/matthewzmd/aidermacs) - 在Emacs中使用Aider進行AI對程式設計的配對
 
 
 **Openai**
- * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - 建立在Open AI上的智能解決方案的工作坊材料
- * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - 開源DeepWiki：為GitHub/Gitlab/Bitbucket存儲庫提供AI動力Wiki生成器。加入Discord：https://discord.gg/gMwThUMeme
+ * [scira](https://github.com/zaidmukaddam/scira) - Scira（原名MiniPerplx）是一個極簡主義的AI動力搜索引擎，可幫助您在互聯網上查找信息並引用它。由Vercel AI SDK提供動力！使用像xAI的Grok 3這樣的模型進行搜索。
 
 
-**Others**
- * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki是DeepWiki項目的開源版本，旨在提供強大的知識管理和協作平台。該項目主要使用C#和TypeScript進行開發，支持模塊化設計，易於擴展和自定義。
- * [zola](https://github.com/ibelick/zola) - 針對開發人員的開源ChatGPT替代方案。快速、多模型AI聊天。代理人+MCP即將推出。
-
-
-_Updated on May 15, 2025_ (A total of 2105 repositories listed.)
+_Updated on May 19, 2025_ (A total of 2108 repositories listed.)
 
 ## Table of contents
 
@@ -841,6 +827,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [solon](https://github.com/opensolon/solon) - 🔥 Java企業應用程式開發框架，適用於全場景：節制、高效、開放、生態友好！！！並發性提高700％，節省50％內存，啟動速度快10倍。包裝體積縮小90％；兼容java8 〜 java24。（可替換spr
  * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - 一個強大的Neovim插件，用於管理MCP（Model Context Protocol）伺服器
  * [notte](https://github.com/nottelabs/notte) - 🔥 使用代理的開源瀏覽器
+ * [llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用LLMs將任何網頁轉換為結構化數據
 
 
 ## CLIs
@@ -1388,6 +1375,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [shandu](https://github.com/jolovicdev/shandu) - OpenAI DeepResearch替代方案，一種由人工智慧驅動的研究系統，可以使用多個搜索引擎和LLMs對任何主題進行全面、迭代的研究。
  * [instructor](https://github.com/567-labs/instructor) - 給LLMS的結構化輸出
  * [xyne](https://github.com/xynehq/xyne) - AI優先搜索和答案引擎，適用於工作。Glean的開源替代方案。
+ * [aidermacs](https://github.com/matthewzmd/aidermacs) - 在Emacs中使用Aider進行AI對程式設計的配對
 
 
 ## Langchain
@@ -1799,6 +1787,7 @@ _Updated on May 15, 2025_ (A total of 2105 repositories listed.)
  * [VoAPI](https://github.com/voapi/voapi) - 全新的高顏值/高性能的AI模型介面管理與分發系統，僅供個人學習使用，請勿用於任何商業用途，本專案基於NewAPI開發。這是一個專為個人或企業內部管理和分發渠道而設的高美學/高性能AI模型介面管理和分發系統。請勿。
  * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - 建立在Open AI上的智能解決方案的工作坊材料
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - 開源DeepWiki：為GitHub/Gitlab/Bitbucket存儲庫提供AI動力Wiki生成器。加入Discord：https://discord.gg/gMwThUMeme
+ * [scira](https://github.com/zaidmukaddam/scira) - Scira（原名MiniPerplx）是一個極簡主義的AI動力搜索引擎，可幫助您在互聯網上查找信息並引用它。由Vercel AI SDK提供動力！使用像xAI的Grok 3這樣的模型進行搜索。
 
 
 ## Others

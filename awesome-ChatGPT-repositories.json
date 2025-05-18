@@ -18619,6 +18619,34 @@
                     "zh-hans": "🔥 使用代理的开源浏览器",
                     "zh-hant": "🔥 使用代理的開源瀏覽器"
                 }
+            },
+            "https://github.com/mishushakov/llm-scraper": {
+                "repository_name": "llm-scraper",
+                "user_name": "mishushakov",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Turn any webpage into structured data using LLMs",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "browser",
+                    "browser-automation",
+                    "gpt",
+                    "gpt-4",
+                    "langchain",
+                    "llama",
+                    "llm",
+                    "openai",
+                    "playwright",
+                    "puppeteer",
+                    "scraper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Turn any webpage into structured data using LLMs",
+                    "ja": "LLMsを使用して、任意のウェブページを構造化データに変換します。",
+                    "zh-hans": "使用LLMs将任何网页转换为结构化数据",
+                    "zh-hant": "使用LLMs將任何網頁轉換為結構化數據"
+                }
             }
         },
         "CLIs": {
@@ -30514,6 +30542,29 @@
                     "zh-hans": "AI优先搜索和答案引擎，用于工作。Glean的开源替代方案。",
                     "zh-hant": "AI優先搜索和答案引擎，適用於工作。Glean的開源替代方案。"
                 }
+            },
+            "https://github.com/matthewzmd/aidermacs": {
+                "repository_name": "aidermacs",
+                "user_name": "MatthewZMD",
+                "language": "Emacs Lisp",
+                "license": "Apache License 2.0",
+                "description": "AI Pair Programming in Emacs with Aider",
+                "topics": [
+                    "ai",
+                    "ai-programming",
+                    "aider",
+                    "chatgpt",
+                    "claude",
+                    "deepseek",
+                    "emacs",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Pair Programming in Emacs with Aider",
+                    "ja": "Aiderを使用したEmacsでのAIペアプログラミング",
+                    "zh-hans": "在Emacs中使用Aider进行AI对编程进行配对",
+                    "zh-hant": "在Emacs中使用Aider進行AI對程式設計的配對"
+                }
             }
         },
         "Langchain": {
@@ -39531,6 +39582,28 @@
                     "ja": "オープンソースDeepWiki：GitHub/Gitlab/Bitbucketリポジトリ用のAIパワードWikiジェネレーター。Discordに参加する：https://discord.gg/gMwThUMeme",
                     "zh-hans": "开源DeepWiki：为GitHub/Gitlab/Bitbucket存储库提供AI支持的维基生成器。加入discord：https://discord.gg/gMwThUMeme",
                     "zh-hant": "開源DeepWiki：為GitHub/Gitlab/Bitbucket存儲庫提供AI動力Wiki生成器。加入Discord：https://discord.gg/gMwThUMeme"
+                }
+            },
+            "https://github.com/zaidmukaddam/scira": {
+                "repository_name": "scira",
+                "user_name": "zaidmukaddam",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.",
+                "topics": [
+                    "ai-search-engine",
+                    "aisearch",
+                    "anthropic",
+                    "grok",
+                    "llama4",
+                    "openai",
+                    "qwen"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.",
+                    "ja": "Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。",
+                    "zh-hans": "Scira（原名MiniPerplx）是一款极简的人工智能搜索引擎，可帮助您在互联网上查找信息并进行引用。由Vercel AI SDK提供支持！使用像xAI的Grok 3这样的模型进行搜索。",
+                    "zh-hant": "Scira（原名MiniPerplx）是一個極簡主義的AI動力搜索引擎，可幫助您在互聯網上查找信息並引用它。由Vercel AI SDK提供動力！使用像xAI的Grok 3這樣的模型進行搜索。"
                 }
             }
         },
