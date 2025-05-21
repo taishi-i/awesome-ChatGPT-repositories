@@ -15,19 +15,15 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [llm-scraper](https://github.com/mishushakov/llm-scraper) - LLMsを使用して、任意のウェブページを構造化データに変換します。
-
-
-**NLP**
- * [aidermacs](https://github.com/matthewzmd/aidermacs) - Aiderを使用したEmacsでのAIペアプログラミング
+**Chatbots**
+ * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 強力なAIをあなたの個人の世界につなぐスマートアシスタント
 
 
 **Openai**
- * [scira](https://github.com/zaidmukaddam/scira) - Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。
+ * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 動画や音声を一括で小紅書/公式アカウント/知識ノート/マインドマップなど、様々なスタイルの文書に変換します。
 
 
-_Updated on May 19, 2025_ (A total of 2108 repositories listed.)
+_Updated on May 22, 2025_ (A total of 2110 repositories listed.)
 
 ## Table of contents
 
@@ -611,6 +607,7 @@ _Updated on May 19, 2025_ (A total of 2108 repositories listed.)
  * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。
  * [sanic-web](https://github.com/apconw/sanic-web) - 軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。
  * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
+ * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 強力なAIをあなたの個人の世界につなぐスマートアシスタント
 
 
 ## Browser-extensions
@@ -1788,6 +1785,7 @@ _Updated on May 19, 2025_ (A total of 2108 repositories listed.)
  * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - Open AIで知的なソリューションを構築するためのワークショップ資料
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - オープンソースDeepWiki：GitHub/Gitlab/Bitbucketリポジトリ用のAIパワードWikiジェネレーター。Discordに参加する：https://discord.gg/gMwThUMeme
  * [scira](https://github.com/zaidmukaddam/scira) - Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。
+ * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 動画や音声を一括で小紅書/公式アカウント/知識ノート/マインドマップなど、様々なスタイルの文書に変換します。
 
 
 ## Others

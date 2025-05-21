@@ -13699,6 +13699,37 @@
                     "zh-hans": "Evolution API 是一个开源的 WhatsApp 集成 API",
                     "zh-hant": "Evolution API 是一個開源的 WhatsApp 整合 API"
                 }
+            },
+            "https://github.com/thinkinaixyz/deepchat": {
+                "repository_name": "deepchat",
+                "user_name": "ThinkInAIXYZ",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-assistant",
+                    "ai-chat",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "cross-platform",
+                    "deepseek",
+                    "gemini",
+                    "llm-client",
+                    "mcp",
+                    "mcp-client",
+                    "openai-client",
+                    "tool-calling"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🐬DeepChat - A smart assistant that connects powerful AI to your personal world",
+                    "ja": "🐬DeepChat - 強力なAIをあなたの個人の世界につなぐスマートアシスタント",
+                    "zh-hans": "🐬DeepChat - 一个智能助手，将强大的人工智能连接到您的个人世界",
+                    "zh-hant": "🐬DeepChat - 一個智能助手，將強大的人工智慧連接到您的個人世界"
+                }
             }
         },
         "Browser-extensions": {
@@ -39604,6 +39635,28 @@
                     "ja": "Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。",
                     "zh-hans": "Scira（原名MiniPerplx）是一款极简的人工智能搜索引擎，可帮助您在互联网上查找信息并进行引用。由Vercel AI SDK提供支持！使用像xAI的Grok 3这样的模型进行搜索。",
                     "zh-hant": "Scira（原名MiniPerplx）是一個極簡主義的AI動力搜索引擎，可幫助您在互聯網上查找信息並引用它。由Vercel AI SDK提供動力！使用像xAI的Grok 3這樣的模型進行搜索。"
+                }
+            },
+            "https://github.com/hanshuaikang/ai-media2doc": {
+                "repository_name": "AI-Media2Doc",
+                "user_name": "hanshuaikang",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。",
+                "topics": [
+                    "ai",
+                    "bilibili",
+                    "chatgpt",
+                    "openai",
+                    "python",
+                    "vue",
+                    "youtube"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Convert videos and audio into various styles of documents such as Xiaohongshu/Public Account/Knowledge Notes/Mind Maps with just one click.",
+                    "ja": "動画や音声を一括で小紅書/公式アカウント/知識ノート/マインドマップなど、様々なスタイルの文書に変換します。",
+                    "zh-hans": "一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。",
+                    "zh-hant": "一鍵將視頻和音頻轉化為小紅書/公眾號/知識筆記/思維導圖等各種風格的文檔。"
                 }
             }
         },

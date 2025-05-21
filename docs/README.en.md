@@ -15,19 +15,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
-
-
-**NLP**
- * [aidermacs](https://github.com/matthewzmd/aidermacs) - AI Pair Programming in Emacs with Aider
+**Chatbots**
+ * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 
 
 **Openai**
- * [scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+ * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - Convert videos and audio into various styles of documents such as Xiaohongshu/Public Account/Knowledge Notes/Mind Maps with just one click.
 
 
-_Updated on May 19, 2025_ (A total of 2108 repositories listed.)
+_Updated on May 22, 2025_ (A total of 2110 repositories listed.)
 
 ## Table of contents
 
@@ -611,6 +607,7 @@ _Updated on May 19, 2025_ (A total of 2108 repositories listed.)
  * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - Brings MCP to ChatGPT, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter and more...
  * [sanic-web](https://github.com/apconw/sanic-web) - A lightweight, full-stack, and easy-to-develop large model application project (Large Model Data Assistant) that supports DeepSeek/Qwen2.5 and other large models, built on technologies such as Dify, Ollama&Vllm, Sanic, and Text2SQL 📊. It is a one-stop large model application development project that uses Vue3, TypeScript, and Vite 5 to create a modern UI. It supports data visualization and question answering based on large models through ECharts 📈, and has the ability to handle CSV file 📂 table queries. Additionally, it can easily integrate with third-party open source RAG system retrieval systems 🌐.
  * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API is an open-source WhatsApp integration API
+ * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 
 
 ## Browser-extensions
@@ -1788,6 +1785,7 @@ _Updated on May 19, 2025_ (A total of 2108 repositories listed.)
  * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - workshop materials to build intelligent solutions on Open AI
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
  * [scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+ * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - Convert videos and audio into various styles of documents such as Xiaohongshu/Public Account/Knowledge Notes/Mind Maps with just one click.
 
 
 ## Others
