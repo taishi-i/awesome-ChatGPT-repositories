@@ -15,19 +15,15 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用LLMs將任何網頁轉換為結構化數據
-
-
-**NLP**
- * [aidermacs](https://github.com/matthewzmd/aidermacs) - 在Emacs中使用Aider進行AI對程式設計的配對
+**Chatbots**
+ * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 一個智能助手，將強大的人工智慧連接到您的個人世界
 
 
 **Openai**
- * [scira](https://github.com/zaidmukaddam/scira) - Scira（原名MiniPerplx）是一個極簡主義的AI動力搜索引擎，可幫助您在互聯網上查找信息並引用它。由Vercel AI SDK提供動力！使用像xAI的Grok 3這樣的模型進行搜索。
+ * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 一鍵將視頻和音頻轉化為小紅書/公眾號/知識筆記/思維導圖等各種風格的文檔。
 
 
-_Updated on May 19, 2025_ (A total of 2108 repositories listed.)
+_Updated on May 22, 2025_ (A total of 2110 repositories listed.)
 
 ## Table of contents
 
@@ -611,6 +607,7 @@ _Updated on May 19, 2025_ (A total of 2108 repositories listed.)
  * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - 將MCP帶到ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouter等等...
  * [sanic-web](https://github.com/apconw/sanic-web) - 一個輕量級、支持全鏈路且易於二次開發的大模型應用項目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基於 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技術構建的一站式大模型應用開發項目，採用 Vue3、TypeScript 和 Vite 5 打造現代UI。它支持通過 ECharts 📈 實現基於大模型的數據圖形化問答，具備處理 CSV 文件 📂 表格問答的能力。同時，能方便對接第三方開源 RAG 系統 檢索系統 🌐等，以
  * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API 是一個開源的 WhatsApp 整合 API
+ * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 一個智能助手，將強大的人工智慧連接到您的個人世界
 
 
 ## Browser-extensions
@@ -1788,6 +1785,7 @@ _Updated on May 19, 2025_ (A total of 2108 repositories listed.)
  * [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - 建立在Open AI上的智能解決方案的工作坊材料
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - 開源DeepWiki：為GitHub/Gitlab/Bitbucket存儲庫提供AI動力Wiki生成器。加入Discord：https://discord.gg/gMwThUMeme
  * [scira](https://github.com/zaidmukaddam/scira) - Scira（原名MiniPerplx）是一個極簡主義的AI動力搜索引擎，可幫助您在互聯網上查找信息並引用它。由Vercel AI SDK提供動力！使用像xAI的Grok 3這樣的模型進行搜索。
+ * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 一鍵將視頻和音頻轉化為小紅書/公眾號/知識筆記/思維導圖等各種風格的文檔。
 
 
 ## Others
