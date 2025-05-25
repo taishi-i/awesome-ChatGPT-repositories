@@ -15,15 +15,20 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - 从流行的聊天机器人（如ChatGPT、Claude和Gemini）中提取的系统提示集合输出：收集自ChatGPT、Claude和Gemini等流行聊天机器人的系统提示
+
+
 **Chatbots**
- * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 一个智能助手，将强大的人工智能连接到您的个人世界
+ * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - 一个开源/自托管/本地优先的人工智能平台，专为企业和团队设计，完美地结合了强大的本地处理能力和无缝的远程同步。
+ * [sim](https://github.com/simstudioai/sim) - Sim Studio是一个开源的AI代理工作流构建器。Sim Studio的界面是一种轻量级、直观的方式，可以快速构建和部署与您喜爱的工具连接的LLMs。
 
 
-**Openai**
- * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
+**NLP**
+ * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - 使用您的代码初始化任何网络聊天
 
 
-_Updated on May 22, 2025_ (A total of 2110 repositories listed.)
+_Updated on May 26, 2025_ (A total of 2114 repositories listed.)
 
 ## Table of contents
 
@@ -287,6 +292,7 @@ _Updated on May 22, 2025_ (A total of 2110 repositories listed.)
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - 学习现代AI辅助Python与类型提示
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - 系统提示：透明度对所有人
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - 一个免费指南，教你如何创建ChatGPT3提示。
+ * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - 从流行的聊天机器人（如ChatGPT、Claude和Gemini）中提取的系统提示集合输出：收集自ChatGPT、Claude和Gemini等流行聊天机器人的系统提示
 
 
 ## Chatbots
@@ -608,6 +614,8 @@ _Updated on May 22, 2025_ (A total of 2110 repositories listed.)
  * [sanic-web](https://github.com/apconw/sanic-web) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基于 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以
  * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API 是一个开源的 WhatsApp 集成 API
  * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 一个智能助手，将强大的人工智能连接到您的个人世界
+ * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - 一个开源/自托管/本地优先的人工智能平台，专为企业和团队设计，完美地结合了强大的本地处理能力和无缝的远程同步。
+ * [sim](https://github.com/simstudioai/sim) - Sim Studio是一个开源的AI代理工作流构建器。Sim Studio的界面是一种轻量级、直观的方式，可以快速构建和部署与您喜爱的工具连接的LLMs。
 
 
 ## Browser-extensions
@@ -1373,6 +1381,7 @@ _Updated on May 22, 2025_ (A total of 2110 repositories listed.)
  * [instructor](https://github.com/567-labs/instructor) - 为llms设计结构化输出
  * [xyne](https://github.com/xynehq/xyne) - AI优先搜索和答案引擎，用于工作。Glean的开源替代方案。
  * [aidermacs](https://github.com/matthewzmd/aidermacs) - 在Emacs中使用Aider进行AI对编程进行配对
+ * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - 使用您的代码初始化任何网络聊天
 
 
 ## Langchain

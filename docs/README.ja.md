@@ -15,15 +15,20 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクションChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクション
+
+
 **Chatbots**
- * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 強力なAIをあなたの個人の世界につなぐスマートアシスタント
+ * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - オープンソース/セルフホスト/ローカルファーストAIプラットフォーム、企業やチーム向けに設計され、強力なローカル処理能力とシームレスなリモート同期を完璧に組み合わせたもの。
+ * [sim](https://github.com/simstudioai/sim) - Sim StudioはオープンソースのAIエージェントワークフロービルダーです。Sim Studioのインターフェースは、お気に入りのツールと連携するLLMを迅速に構築して展開するための軽量で直感的な方法です。
 
 
-**Openai**
- * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 動画や音声を一括で小紅書/公式アカウント/知識ノート/マインドマップなど、様々なスタイルの文書に変換します。
+**NLP**
+ * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - コードを使用して任意のWebチャットを初期化します。
 
 
-_Updated on May 22, 2025_ (A total of 2110 repositories listed.)
+_Updated on May 26, 2025_ (A total of 2114 repositories listed.)
 
 ## Table of contents
 
@@ -287,6 +292,7 @@ _Updated on May 22, 2025_ (A total of 2110 repositories listed.)
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - タイプヒントを使用した現代のAIアシストPythonの学習
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - すべてのためのシステムプロンプト透明化
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - ChatGPT3プロンプトの作成方法を学ぶための無料ガイド
+ * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクションChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクション
 
 
 ## Chatbots
@@ -608,6 +614,8 @@ _Updated on May 22, 2025_ (A total of 2110 repositories listed.)
  * [sanic-web](https://github.com/apconw/sanic-web) - 軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。
  * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
  * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 強力なAIをあなたの個人の世界につなぐスマートアシスタント
+ * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - オープンソース/セルフホスト/ローカルファーストAIプラットフォーム、企業やチーム向けに設計され、強力なローカル処理能力とシームレスなリモート同期を完璧に組み合わせたもの。
+ * [sim](https://github.com/simstudioai/sim) - Sim StudioはオープンソースのAIエージェントワークフロービルダーです。Sim Studioのインターフェースは、お気に入りのツールと連携するLLMを迅速に構築して展開するための軽量で直感的な方法です。
 
 
 ## Browser-extensions
@@ -1373,6 +1381,7 @@ _Updated on May 22, 2025_ (A total of 2110 repositories listed.)
  * [instructor](https://github.com/567-labs/instructor) - LLMSのための構造化された出力
  * [xyne](https://github.com/xynehq/xyne) - 仕事用のAIファースト検索＆回答エンジン。Gleanのオープンソースの代替品。
  * [aidermacs](https://github.com/matthewzmd/aidermacs) - Aiderを使用したEmacsでのAIペアプログラミング
+ * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - コードを使用して任意のWebチャットを初期化します。
 
 
 ## Langchain
