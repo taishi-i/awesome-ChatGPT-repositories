@@ -15,15 +15,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+
+
 **Chatbots**
- * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+ * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
+ * [sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 
 
-**Openai**
- * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
+**NLP**
+ * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - Initialize any web chat with your code
 
 
-_Updated on May 22, 2025_ (A total of 2110 repositories listed.)
+_Updated on May 26, 2025_ (A total of 2114 repositories listed.)
 
 ## Table of contents
 
@@ -287,6 +292,7 @@ _Updated on May 22, 2025_ (A total of 2110 repositories listed.)
  * [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - Learn Modern AI Assisted Python with Type Hints
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - SYSTEM PROMPT TRANSPARENCY FOR ALL
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - A free guide for learning to create ChatGPT3 Prompts
+ * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
 
 ## Chatbots
@@ -608,6 +614,8 @@ _Updated on May 22, 2025_ (A total of 2110 repositories listed.)
  * [sanic-web](https://github.com/apconw/sanic-web) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基于 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以支持广泛的通用知识问答。
  * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API is an open-source WhatsApp integration API
  * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
+ * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
+ * [sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 
 
 ## Browser-extensions
@@ -1373,6 +1381,7 @@ _Updated on May 22, 2025_ (A total of 2110 repositories listed.)
  * [instructor](https://github.com/567-labs/instructor) - structured outputs for llms
  * [xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
  * [aidermacs](https://github.com/matthewzmd/aidermacs) - AI Pair Programming in Emacs with Aider
+ * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - Initialize any web chat with your code
 
 
 ## Langchain
