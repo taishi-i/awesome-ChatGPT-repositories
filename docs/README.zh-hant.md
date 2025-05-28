@@ -15,20 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - 從流行的聊天機器人（如ChatGPT、Claude和Gemini）中提取的系統提示集合收集自ChatGPT、Claude和Gemini等流行聊天機器人的系統提示
+**Browser-extensions**
+ * [SwitchAI](https://github.com/wstxda/switchai) - 輕鬆選擇、啟動和管理您喜歡的AI數字助理
 
 
-**Chatbots**
- * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - 一個開源/自主/本地優先的人工智能平台，專為企業和團隊設計，完美結合強大的本地處理能力和無縫的遠程同步。
- * [sim](https://github.com/simstudioai/sim) - Sim Studio 是一個開源的人工智慧代理工作流程建立工具。Sim Studio 的界面是一種輕量級、直觀的方式，可以快速建立和部署與您喜愛的工具相連接的LLM。
+**CLIs**
+ * [forge](https://github.com/antinomyhq/forge) - AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。
 
 
-**NLP**
- * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - 使用您的代碼初始化任何網絡聊天
+**Langchain**
+ * [sdk-python](https://github.com/strands-agents/sdk-python) - 一種以模型驅動的方法，在僅需幾行代碼中建立AI代理。
+ * [autoview](https://github.com/wrtnlabs/autoview) - AI代理自動視圖組件渲染器
 
 
-_Updated on May 26, 2025_ (A total of 2114 repositories listed.)
+**Openai**
+ * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - Amazon Bedrock 的 OpenAI 兼容的 RESTful APIs
+
+
+_Updated on May 29, 2025_ (A total of 2119 repositories listed.)
 
 ## Table of contents
 
@@ -833,6 +837,7 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - 一個強大的Neovim插件，用於管理MCP（Model Context Protocol）伺服器
  * [notte](https://github.com/nottelabs/notte) - 🔥 使用代理的開源瀏覽器
  * [llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用LLMs將任何網頁轉換為結構化數據
+ * [SwitchAI](https://github.com/wstxda/switchai) - 輕鬆選擇、啟動和管理您喜歡的AI數字助理
 
 
 ## CLIs
@@ -990,6 +995,7 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [chatbox](https://github.com/chatboxai/chatbox) - 用戶友好的桌面客戶端應用程式，適用於AI模型/LLMs（GPT、Claude、Gemini、Ollama...）
  * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - 智能企業級JavaScript參考架構，具有OpenAI集成，Azure開發者CLI模板和Playwright測試。
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI動力，非侵入式終端助手
+ * [forge](https://github.com/antinomyhq/forge) - AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。
 
 
 ## Reimplementations
@@ -1524,6 +1530,8 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [ai-gateway](https://github.com/langdb/ai-gateway) - 管理、保護和優化您的AI流量。AI Gateway提供統一的界面，使用OpenAI API格式與所有LLMs進行通信，並專注於性能和可靠性。使用Rust構建。
  * [gpustack](https://github.com/gpustack/gpustack) - 管理 GPU 集群以運行 AI 模型
  * [company-research-agent](https://github.com/pogjester/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
+ * [sdk-python](https://github.com/strands-agents/sdk-python) - 一種以模型驅動的方法，在僅需幾行代碼中建立AI代理。
+ * [autoview](https://github.com/wrtnlabs/autoview) - AI代理自動視圖組件渲染器
 
 
 ## Unity
@@ -1795,6 +1803,7 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - 開源DeepWiki：為GitHub/Gitlab/Bitbucket存儲庫提供AI動力Wiki生成器。加入Discord：https://discord.gg/gMwThUMeme
  * [scira](https://github.com/zaidmukaddam/scira) - Scira（原名MiniPerplx）是一個極簡主義的AI動力搜索引擎，可幫助您在互聯網上查找信息並引用它。由Vercel AI SDK提供動力！使用像xAI的Grok 3這樣的模型進行搜索。
  * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 一鍵將視頻和音頻轉化為小紅書/公眾號/知識筆記/思維導圖等各種風格的文檔。
+ * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - Amazon Bedrock 的 OpenAI 兼容的 RESTful APIs
 
 
 ## Others
