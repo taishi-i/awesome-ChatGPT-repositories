@@ -15,20 +15,24 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクションChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクション
+**Browser-extensions**
+ * [SwitchAI](https://github.com/wstxda/switchai) - 簡単に選択し、起動し、お好みのAIデジタルアシスタントを管理します。
 
 
-**Chatbots**
- * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - オープンソース/セルフホスト/ローカルファーストAIプラットフォーム、企業やチーム向けに設計され、強力なローカル処理能力とシームレスなリモート同期を完璧に組み合わせたもの。
- * [sim](https://github.com/simstudioai/sim) - Sim StudioはオープンソースのAIエージェントワークフロービルダーです。Sim Studioのインターフェースは、お気に入りのツールと連携するLLMを迅速に構築して展開するための軽量で直感的な方法です。
+**CLIs**
+ * [forge](https://github.com/antinomyhq/forge) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
 
 
-**NLP**
- * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - コードを使用して任意のWebチャットを初期化します。
+**Langchain**
+ * [sdk-python](https://github.com/strands-agents/sdk-python) - わずか数行のコードでAIエージェントを構築するためのモデル駆動アプローチ。
+ * [autoview](https://github.com/wrtnlabs/autoview) - AIエージェントによる自動ビューコンポーネントレンダラー
 
 
-_Updated on May 26, 2025_ (A total of 2114 repositories listed.)
+**Openai**
+ * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - Amazon Bedrock用のOpenAI互換のRESTful API
+
+
+_Updated on May 29, 2025_ (A total of 2119 repositories listed.)
 
 ## Table of contents
 
@@ -833,6 +837,7 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - MCP（Model Context Protocol）サーバーを管理するための強力なNeovimプラグイン
  * [notte](https://github.com/nottelabs/notte) - 🔥 エージェントを使用したオープンソースブラウザ 🔥 エージェントを使用したオープンソースブラウザ
  * [llm-scraper](https://github.com/mishushakov/llm-scraper) - LLMsを使用して、任意のウェブページを構造化データに変換します。
+ * [SwitchAI](https://github.com/wstxda/switchai) - 簡単に選択し、起動し、お好みのAIデジタルアシスタントを管理します。
 
 
 ## CLIs
@@ -990,6 +995,7 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [chatbox](https://github.com/chatboxai/chatbox) - AIモデル/LLM（GPT、Claude、Gemini、Ollamaなど）向けの使いやすいデスクトップクライアントアプリ
  * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - JavaScript向けのインテリジェントなエンタープライズグレードのリファレンスアーキテクチャで、OpenAI統合、Azure Developer CLIテンプレート、Playwrightテストを特色としています。
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI搭載、非侵襲的な端末アシスタント
+ * [forge](https://github.com/antinomyhq/forge) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
 
 
 ## Reimplementations
@@ -1524,6 +1530,8 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [ai-gateway](https://github.com/langdb/ai-gateway) - AIトラフィックを管理、保護、最適化します。AIゲートウェイは、パフォーマンスと信頼性に焦点を当てたOpenAI API形式を使用して、すべてのLLMに統一されたインターフェースを提供します。Rustで構築されています。
  * [gpustack](https://github.com/gpustack/gpustack) - AIモデルを実行するためのGPUクラスターを管理します。
  * [company-research-agent](https://github.com/pogjester/company-research-agent) - LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
+ * [sdk-python](https://github.com/strands-agents/sdk-python) - わずか数行のコードでAIエージェントを構築するためのモデル駆動アプローチ。
+ * [autoview](https://github.com/wrtnlabs/autoview) - AIエージェントによる自動ビューコンポーネントレンダラー
 
 
 ## Unity
@@ -1795,6 +1803,7 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - オープンソースDeepWiki：GitHub/Gitlab/Bitbucketリポジトリ用のAIパワードWikiジェネレーター。Discordに参加する：https://discord.gg/gMwThUMeme
  * [scira](https://github.com/zaidmukaddam/scira) - Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。
  * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 動画や音声を一括で小紅書/公式アカウント/知識ノート/マインドマップなど、様々なスタイルの文書に変換します。
+ * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - Amazon Bedrock用のOpenAI互換のRESTful API
 
 
 ## Others

@@ -18766,6 +18766,33 @@
                     "zh-hans": "使用LLMs将任何网页转换为结构化数据",
                     "zh-hant": "使用LLMs將任何網頁轉換為結構化數據"
                 }
+            },
+            "https://github.com/wstxda/switchai": {
+                "repository_name": "SwitchAI",
+                "user_name": "WSTxda",
+                "language": "Kotlin",
+                "license": "GNU General Public License v3.0",
+                "description": "Easily select, start, and manage your preferred AI digital assistant",
+                "topics": [
+                    "ai",
+                    "android",
+                    "chatgpt",
+                    "launcher",
+                    "material-design",
+                    "openai",
+                    "plugin",
+                    "shortcuts",
+                    "tools",
+                    "voice",
+                    "voice-assistant",
+                    "voice-recognition"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Easily select, start, and manage your preferred AI digital assistant",
+                    "ja": "簡単に選択し、起動し、お好みのAIデジタルアシスタントを管理します。",
+                    "zh-hans": "轻松选择、启动和管理您喜欢的AI数字助手",
+                    "zh-hant": "輕鬆選擇、啟動和管理您喜歡的AI數字助理"
+                }
             }
         },
         "CLIs": {
@@ -22343,6 +22370,33 @@
                     "ja": "AI搭載、非侵襲的な端末アシスタント",
                     "zh-hans": "AI 助手，非侵入式终端助手",
                     "zh-hant": "AI動力，非侵入式終端助手"
+                }
+            },
+            "https://github.com/antinomyhq/forge": {
+                "repository_name": "forge",
+                "user_name": "antinomyhq",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+                "topics": [
+                    "ai-workflows",
+                    "artifical-intelligense",
+                    "claude-3-7-sonnet",
+                    "claude-4",
+                    "claude-4-sonnet",
+                    "command-line",
+                    "grok",
+                    "multi-agent-reinforcement-learning",
+                    "open-router",
+                    "openai",
+                    "qwen",
+                    "shell"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models.",
+                    "ja": "クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー",
+                    "zh-hans": "AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。",
+                    "zh-hant": "AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。"
                 }
             }
         },
@@ -34043,6 +34097,69 @@
                     "zh-hans": "由LangGraph和Tavily提供支持的一种主动公司研究工具，利用多代理框架对公司进行深入的尽职调查。它在后端利用谷歌的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。",
                     "zh-hant": "由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。"
                 }
+            },
+            "https://github.com/strands-agents/sdk-python": {
+                "repository_name": "sdk-python",
+                "user_name": "strands-agents",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "A model-driven approach to building AI agents in just a few lines of code.",
+                "topics": [
+                    "agentic",
+                    "agentic-ai",
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "autonomous-agents",
+                    "bedrock",
+                    "genai",
+                    "litellm",
+                    "llama",
+                    "llm",
+                    "machine-learning",
+                    "mcp",
+                    "multi-agent-systems",
+                    "ollama",
+                    "openai",
+                    "opentelemetry",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A model-driven approach to building AI agents in just a few lines of code.",
+                    "ja": "わずか数行のコードでAIエージェントを構築するためのモデル駆動アプローチ。",
+                    "zh-hans": "一种基于模型驱动的方法，仅需几行代码即可构建AI代理。",
+                    "zh-hant": "一種以模型驅動的方法，在僅需幾行代碼中建立AI代理。"
+                }
+            },
+            "https://github.com/wrtnlabs/autoview": {
+                "repository_name": "autoview",
+                "user_name": "wrtnlabs",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Automatic view component renderer by AI agent",
+                "topics": [
+                    "agent",
+                    "agentic-framework",
+                    "ai",
+                    "automatic",
+                    "claude",
+                    "component",
+                    "design-system",
+                    "frontend",
+                    "function-calling",
+                    "llama",
+                    "llm",
+                    "openai",
+                    "openapi",
+                    "typescript",
+                    "v0-like"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Automatic view component renderer by AI agent",
+                    "ja": "AIエージェントによる自動ビューコンポーネントレンダラー",
+                    "zh-hans": "AI代理自动视图组件渲染器",
+                    "zh-hant": "AI代理自動視圖組件渲染器"
+                }
             }
         },
         "Unity": {
@@ -39770,6 +39887,27 @@
                     "ja": "動画や音声を一括で小紅書/公式アカウント/知識ノート/マインドマップなど、様々なスタイルの文書に変換します。",
                     "zh-hans": "一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。",
                     "zh-hant": "一鍵將視頻和音頻轉化為小紅書/公眾號/知識筆記/思維導圖等各種風格的文檔。"
+                }
+            },
+            "https://github.com/aws-samples/bedrock-access-gateway": {
+                "repository_name": "bedrock-access-gateway",
+                "user_name": "aws-samples",
+                "language": "Python",
+                "license": "MIT No Attribution",
+                "description": "OpenAI-Compatible RESTful APIs for Amazon Bedrock",
+                "topics": [
+                    "bedrock",
+                    "genai",
+                    "openai",
+                    "openai-api",
+                    "openai-proxy",
+                    "proxy"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI-Compatible RESTful APIs for Amazon Bedrock",
+                    "ja": "Amazon Bedrock用のOpenAI互換のRESTful API",
+                    "zh-hans": "亚马逊基岩的OpenAI兼容的RESTful API",
+                    "zh-hant": "Amazon Bedrock 的 OpenAI 兼容的 RESTful APIs"
                 }
             }
         },

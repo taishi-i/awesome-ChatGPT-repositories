@@ -15,20 +15,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+**Browser-extensions**
+ * [SwitchAI](https://github.com/wstxda/switchai) - Easily select, start, and manage your preferred AI digital assistant
 
 
-**Chatbots**
- * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
- * [sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+**CLIs**
+ * [forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models.
 
 
-**NLP**
- * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - Initialize any web chat with your code
+**Langchain**
+ * [sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
+ * [autoview](https://github.com/wrtnlabs/autoview) - Automatic view component renderer by AI agent
 
 
-_Updated on May 26, 2025_ (A total of 2114 repositories listed.)
+**Openai**
+ * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
+
+
+_Updated on May 29, 2025_ (A total of 2119 repositories listed.)
 
 ## Table of contents
 
@@ -833,6 +837,7 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin for managing MCP (Model Context Protocol) servers
  * [notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agent
  * [llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
+ * [SwitchAI](https://github.com/wstxda/switchai) - Easily select, start, and manage your preferred AI digital assistant
 
 
 ## CLIs
@@ -990,6 +995,7 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
  * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
+ * [forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models.
 
 
 ## Reimplementations
@@ -1524,6 +1530,8 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [ai-gateway](https://github.com/langdb/ai-gateway) - Govern, Secure, and Optimize your AI Traffic. AI Gateway provides unified interface to all LLMs using OpenAI API format with a focus on performance and reliability. Built in Rust.
  * [gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
  * [company-research-agent](https://github.com/pogjester/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
+ * [sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
+ * [autoview](https://github.com/wrtnlabs/autoview) - Automatic view component renderer by AI agent
 
 
 ## Unity
@@ -1795,6 +1803,7 @@ _Updated on May 26, 2025_ (A total of 2114 repositories listed.)
  * [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
  * [scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
  * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - Convert videos and audio into various styles of documents such as Xiaohongshu/Public Account/Knowledge Notes/Mind Maps with just one click.
+ * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
 
 
 ## Others
