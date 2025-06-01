@@ -15,24 +15,12 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [SwitchAI](https://github.com/wstxda/switchai) - 簡単に選択し、起動し、お好みのAIデジタルアシスタントを管理します。
-
-
-**CLIs**
- * [forge](https://github.com/antinomyhq/forge) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
-
-
-**Langchain**
- * [sdk-python](https://github.com/strands-agents/sdk-python) - わずか数行のコードでAIエージェントを構築するためのモデル駆動アプローチ。
- * [autoview](https://github.com/wrtnlabs/autoview) - AIエージェントによる自動ビューコンポーネントレンダラー
-
-
 **Openai**
- * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - Amazon Bedrock用のOpenAI互換のRESTful API
+ * [preparedness](https://github.com/openai/preparedness) - OpenAIの準備からのリリース
+ * [SMRY](https://github.com/mrmps/smry) - 要約を取得し、過去のペイウォールを取得するためのツール
 
 
-_Updated on May 29, 2025_ (A total of 2119 repositories listed.)
+_Updated on June 02, 2025_ (A total of 2121 repositories listed.)
 
 ## Table of contents
 
@@ -1804,6 +1792,8 @@ _Updated on May 29, 2025_ (A total of 2119 repositories listed.)
  * [scira](https://github.com/zaidmukaddam/scira) - Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。
  * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 動画や音声を一括で小紅書/公式アカウント/知識ノート/マインドマップなど、様々なスタイルの文書に変換します。
  * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - Amazon Bedrock用のOpenAI互換のRESTful API
+ * [preparedness](https://github.com/openai/preparedness) - OpenAIの準備からのリリース
+ * [SMRY](https://github.com/mrmps/smry) - 要約を取得し、過去のペイウォールを取得するためのツール
 
 
 ## Others
