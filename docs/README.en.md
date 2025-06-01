@@ -15,24 +15,12 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [SwitchAI](https://github.com/wstxda/switchai) - Easily select, start, and manage your preferred AI digital assistant
-
-
-**CLIs**
- * [forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models.
-
-
-**Langchain**
- * [sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
- * [autoview](https://github.com/wrtnlabs/autoview) - Automatic view component renderer by AI agent
-
-
 **Openai**
- * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
+ * [preparedness](https://github.com/openai/preparedness) - Releases from OpenAI Preparedness
+ * [SMRY](https://github.com/mrmps/smry) - A tool to get summaries and get past paywalls
 
 
-_Updated on May 29, 2025_ (A total of 2119 repositories listed.)
+_Updated on June 02, 2025_ (A total of 2121 repositories listed.)
 
 ## Table of contents
 
@@ -1804,6 +1792,8 @@ _Updated on May 29, 2025_ (A total of 2119 repositories listed.)
  * [scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
  * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - Convert videos and audio into various styles of documents such as Xiaohongshu/Public Account/Knowledge Notes/Mind Maps with just one click.
  * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
+ * [preparedness](https://github.com/openai/preparedness) - Releases from OpenAI Preparedness
+ * [SMRY](https://github.com/mrmps/smry) - A tool to get summaries and get past paywalls
 
 
 ## Others

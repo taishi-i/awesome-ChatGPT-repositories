@@ -15,24 +15,12 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [SwitchAI](https://github.com/wstxda/switchai) - 轻松选择、启动和管理您喜欢的AI数字助手
-
-
-**CLIs**
- * [forge](https://github.com/antinomyhq/forge) - AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。
-
-
-**Langchain**
- * [sdk-python](https://github.com/strands-agents/sdk-python) - 一种基于模型驱动的方法，仅需几行代码即可构建AI代理。
- * [autoview](https://github.com/wrtnlabs/autoview) - AI代理自动视图组件渲染器
-
-
 **Openai**
- * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - 亚马逊基岩的OpenAI兼容的RESTful API
+ * [preparedness](https://github.com/openai/preparedness) - OpenAI准备发布
+ * [SMRY](https://github.com/mrmps/smry) - 一个工具，可以获取摘要并绕过付费墙
 
 
-_Updated on May 29, 2025_ (A total of 2119 repositories listed.)
+_Updated on June 02, 2025_ (A total of 2121 repositories listed.)
 
 ## Table of contents
 
@@ -1804,6 +1792,8 @@ _Updated on May 29, 2025_ (A total of 2119 repositories listed.)
  * [scira](https://github.com/zaidmukaddam/scira) - Scira（原名MiniPerplx）是一款极简的人工智能搜索引擎，可帮助您在互联网上查找信息并进行引用。由Vercel AI SDK提供支持！使用像xAI的Grok 3这样的模型进行搜索。
  * [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
  * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - 亚马逊基岩的OpenAI兼容的RESTful API
+ * [preparedness](https://github.com/openai/preparedness) - OpenAI准备发布
+ * [SMRY](https://github.com/mrmps/smry) - 一个工具，可以获取摘要并绕过付费墙
 
 
 ## Others

@@ -39909,6 +39909,38 @@
                     "zh-hans": "亚马逊基岩的OpenAI兼容的RESTful API",
                     "zh-hant": "Amazon Bedrock 的 OpenAI 兼容的 RESTful APIs"
                 }
+            },
+            "https://github.com/openai/preparedness": {
+                "repository_name": "preparedness",
+                "user_name": "openai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Releases from OpenAI Preparedness",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Releases from OpenAI Preparedness",
+                    "ja": "OpenAIの準備からのリリース",
+                    "zh-hans": "OpenAI准备发布",
+                    "zh-hant": "OpenAI準備工作的發布"
+                }
+            },
+            "https://github.com/mrmps/smry": {
+                "repository_name": "SMRY",
+                "user_name": "mrmps",
+                "language": "TypeScript",
+                "license": null,
+                "description": "A tool to get summaries and get past paywalls",
+                "topics": [
+                    "ai",
+                    "next13",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A tool to get summaries and get past paywalls",
+                    "ja": "要約を取得し、過去のペイウォールを取得するためのツール",
+                    "zh-hans": "一个工具，可以获取摘要并绕过付费墙",
+                    "zh-hant": "一個可以獲得摘要並突破付費牆的工具"
+                }
             }
         },
         "Others": {
