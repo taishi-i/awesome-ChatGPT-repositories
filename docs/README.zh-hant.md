@@ -15,12 +15,19 @@
 
 ## The latest additions 🎉
 
-**Openai**
- * [preparedness](https://github.com/openai/preparedness) - OpenAI準備工作的發布
- * [SMRY](https://github.com/mrmps/smry) - 一個可以獲得摘要並突破付費牆的工具
+**Browser-extensions**
+ * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - 將ChatGPT深度整合到您的瀏覽器中，您所需的一切都在這裡。
 
 
-_Updated on June 02, 2025_ (A total of 2121 repositories listed.)
+**CLIs**
+ * [kilocode](https://github.com/kilo-org/kilocode) - 開源人工智慧編碼助手，用於規劃、構建和修復代碼。我們是Roo、Cline和我們自己功能的超集。關注我們：kilocode.ai/social
+
+
+**Others**
+ * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - 一個Claude MCP工具，用於與macOS上的ChatGPT桌面應用程序進行交互。
+
+
+_Updated on June 04, 2025_ (A total of 2124 repositories listed.)
 
 ## Table of contents
 
@@ -826,6 +833,7 @@ _Updated on June 02, 2025_ (A total of 2121 repositories listed.)
  * [notte](https://github.com/nottelabs/notte) - 🔥 使用代理的開源瀏覽器
  * [llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用LLMs將任何網頁轉換為結構化數據
  * [SwitchAI](https://github.com/wstxda/switchai) - 輕鬆選擇、啟動和管理您喜歡的AI數字助理
+ * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - 將ChatGPT深度整合到您的瀏覽器中，您所需的一切都在這裡。
 
 
 ## CLIs
@@ -984,6 +992,7 @@ _Updated on June 02, 2025_ (A total of 2121 repositories listed.)
  * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - 智能企業級JavaScript參考架構，具有OpenAI集成，Azure開發者CLI模板和Playwright測試。
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI動力，非侵入式終端助手
  * [forge](https://github.com/antinomyhq/forge) - AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。
+ * [kilocode](https://github.com/kilo-org/kilocode) - 開源人工智慧編碼助手，用於規劃、構建和修復代碼。我們是Roo、Cline和我們自己功能的超集。關注我們：kilocode.ai/social
 
 
 ## Reimplementations
@@ -2216,5 +2225,6 @@ _Updated on June 02, 2025_ (A total of 2121 repositories listed.)
  * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 算命，占卜，塔羅牌，姓名五格，周公解夢，生辰八字，梅花易數
  * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki是DeepWiki項目的開源版本，旨在提供強大的知識管理和協作平台。該項目主要使用C#和TypeScript進行開發，支持模塊化設計，易於擴展和自定義。
  * [zola](https://github.com/ibelick/zola) - 針對開發人員的開源ChatGPT替代方案。快速、多模型AI聊天。代理人+MCP即將推出。
+ * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - 一個Claude MCP工具，用於與macOS上的ChatGPT桌面應用程序進行交互。
 
 

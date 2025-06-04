@@ -15,12 +15,19 @@
 
 ## The latest additions 🎉
 
-**Openai**
- * [preparedness](https://github.com/openai/preparedness) - OpenAIの準備からのリリース
- * [SMRY](https://github.com/mrmps/smry) - 要約を取得し、過去のペイウォールを取得するためのツール
+**Browser-extensions**
+ * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - ChatGPTをブラウザに深く統合することで、必要なすべてがここにあります。
 
 
-_Updated on June 02, 2025_ (A total of 2121 repositories listed.)
+**CLIs**
+ * [kilocode](https://github.com/kilo-org/kilocode) - 計画、構築、およびコードの修正のためのオープンソースAIコーディングアシスタント。私たちはRoo、Cline、および独自の機能のスーパーセットです。フォローしてください：kilocode.ai/social
+
+
+**Others**
+ * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール
+
+
+_Updated on June 04, 2025_ (A total of 2124 repositories listed.)
 
 ## Table of contents
 
@@ -826,6 +833,7 @@ _Updated on June 02, 2025_ (A total of 2121 repositories listed.)
  * [notte](https://github.com/nottelabs/notte) - 🔥 エージェントを使用したオープンソースブラウザ 🔥 エージェントを使用したオープンソースブラウザ
  * [llm-scraper](https://github.com/mishushakov/llm-scraper) - LLMsを使用して、任意のウェブページを構造化データに変換します。
  * [SwitchAI](https://github.com/wstxda/switchai) - 簡単に選択し、起動し、お好みのAIデジタルアシスタントを管理します。
+ * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - ChatGPTをブラウザに深く統合することで、必要なすべてがここにあります。
 
 
 ## CLIs
@@ -984,6 +992,7 @@ _Updated on June 02, 2025_ (A total of 2121 repositories listed.)
  * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - JavaScript向けのインテリジェントなエンタープライズグレードのリファレンスアーキテクチャで、OpenAI統合、Azure Developer CLIテンプレート、Playwrightテストを特色としています。
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI搭載、非侵襲的な端末アシスタント
  * [forge](https://github.com/antinomyhq/forge) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
+ * [kilocode](https://github.com/kilo-org/kilocode) - 計画、構築、およびコードの修正のためのオープンソースAIコーディングアシスタント。私たちはRoo、Cline、および独自の機能のスーパーセットです。フォローしてください：kilocode.ai/social
 
 
 ## Reimplementations
@@ -2216,5 +2225,6 @@ _Updated on June 02, 2025_ (A total of 2121 repositories listed.)
  * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI 占い、占星術、タロットカード、姓名判断、夢占い、八字占い、梅花易数
  * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWikiは、強力な知識管理とコラボレーションプラットフォームを提供することを目的としたDeepWikiプロジェクトのオープンソースバージョンです。このプロジェクトは主にC#とTypeScriptを使用して開発されており、モジュラーデザインをサポートしており、拡張やカスタマイズが容易です。
  * [zola](https://github.com/ibelick/zola) - 開発者向けのオープンソースChatGPTの代替。高速で、マルチモデルのAIチャット。エージェント+MCPが近日公開予定。
+ * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール
 
 

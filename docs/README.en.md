@@ -15,12 +15,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Openai**
- * [preparedness](https://github.com/openai/preparedness) - Releases from OpenAI Preparedness
- * [SMRY](https://github.com/mrmps/smry) - A tool to get summaries and get past paywalls
+**Browser-extensions**
+ * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - Integrating ChatGPT into your browser deeply, everything you need is here
 
 
-_Updated on June 02, 2025_ (A total of 2121 repositories listed.)
+**CLIs**
+ * [kilocode](https://github.com/kilo-org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+
+
+**Others**
+ * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - A Claude MCP tool to interact with the ChatGPT desktop app on macOS
+
+
+_Updated on June 04, 2025_ (A total of 2124 repositories listed.)
 
 ## Table of contents
 
@@ -826,6 +833,7 @@ _Updated on June 02, 2025_ (A total of 2121 repositories listed.)
  * [notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agent
  * [llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
  * [SwitchAI](https://github.com/wstxda/switchai) - Easily select, start, and manage your preferred AI digital assistant
+ * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - Integrating ChatGPT into your browser deeply, everything you need is here
 
 
 ## CLIs
@@ -984,6 +992,7 @@ _Updated on June 02, 2025_ (A total of 2121 repositories listed.)
  * [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - Intelligent enterprise-grade reference architecture for JavaScript, featuring OpenAI integration, Azure Developer CLI template and Playwright tests.
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
  * [forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models.
+ * [kilocode](https://github.com/kilo-org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
 
 
 ## Reimplementations
@@ -2216,5 +2225,6 @@ _Updated on June 02, 2025_ (A total of 2121 repositories listed.)
  * [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - AI fortune-telling, divination, tarot cards, name analysis, dream interpretation, Chinese astrology, plum blossom numerology
  * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, supporting modular design, and is easy to expand and cus
  * [zola](https://github.com/ibelick/zola) - The open source ChatGPT alternative for developers. Fast, multi-model AI chat. Agents + MCP coming soon.
+ * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - A Claude MCP tool to interact with the ChatGPT desktop app on macOS
 
 
