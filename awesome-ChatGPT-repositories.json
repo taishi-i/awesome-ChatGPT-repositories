@@ -18793,6 +18793,28 @@
                     "zh-hans": "轻松选择、启动和管理您喜欢的AI数字助手",
                     "zh-hant": "輕鬆選擇、啟動和管理您喜歡的AI數字助理"
                 }
+            },
+            "https://github.com/chatgptbox-dev/chatgptbox": {
+                "repository_name": "chatGPTBox",
+                "user_name": "ChatGPTBox-dev",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
+                "topics": [
+                    "browser-extension",
+                    "chatgpt",
+                    "chrome-extension",
+                    "edge-extension",
+                    "firefox-addon",
+                    "firefox-extension",
+                    "safari-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Integrating ChatGPT into your browser deeply, everything you need is here",
+                    "ja": "ChatGPTをブラウザに深く統合することで、必要なすべてがここにあります。",
+                    "zh-hans": "将ChatGPT深度集成到您的浏览器中，您所需的一切都在这里。",
+                    "zh-hant": "將ChatGPT深度整合到您的瀏覽器中，您所需的一切都在這裡。"
+                }
             }
         },
         "CLIs": {
@@ -22397,6 +22419,29 @@
                     "ja": "クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー",
                     "zh-hans": "AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。",
                     "zh-hant": "AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。"
+                }
+            },
+            "https://github.com/kilo-org/kilocode": {
+                "repository_name": "kilocode",
+                "user_name": "Kilo-Org",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
+                "topics": [
+                    "ai-coding",
+                    "ai-developer-tools",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "sonnet",
+                    "vscode",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social",
+                    "ja": "計画、構築、およびコードの修正のためのオープンソースAIコーディングアシスタント。私たちはRoo、Cline、および独自の機能のスーパーセットです。フォローしてください：kilocode.ai/social",
+                    "zh-hans": "开源AI编码助手，用于规划、构建和修复代码。我们是Roo、Cline和我们自己功能的超集。关注我们：kilocode.ai/social",
+                    "zh-hant": "開源人工智慧編碼助手，用於規劃、構建和修復代碼。我們是Roo、Cline和我們自己功能的超集。關注我們：kilocode.ai/social"
                 }
             }
         },
@@ -47921,6 +47966,20 @@
                     "ja": "開発者向けのオープンソースChatGPTの代替。高速で、マルチモデルのAIチャット。エージェント+MCPが近日公開予定。",
                     "zh-hans": "开源ChatGPT的替代品，面向开发人员。快速、多模型AI聊天。代理+MCP即将推出。",
                     "zh-hant": "針對開發人員的開源ChatGPT替代方案。快速、多模型AI聊天。代理人+MCP即將推出。"
+                }
+            },
+            "https://github.com/syedazharmbnr1/claude-chatgpt-mcp": {
+                "repository_name": "claude-chatgpt-mcp",
+                "user_name": "syedazharmbnr1",
+                "language": "JavaScript",
+                "license": null,
+                "description": "A Claude MCP tool to interact with the ChatGPT desktop app on macOS",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A Claude MCP tool to interact with the ChatGPT desktop app on macOS",
+                    "ja": "macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール",
+                    "zh-hans": "一种与macOS上的ChatGPT桌面应用程序交互的Claude MCP工具",
+                    "zh-hant": "一個Claude MCP工具，用於與macOS上的ChatGPT桌面應用程序進行交互。"
                 }
             }
         }
