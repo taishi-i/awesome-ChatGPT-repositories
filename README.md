@@ -993,6 +993,8 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
  * [forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
  * [kilocode](https://github.com/kilo-org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+* [fellow](https://github.com/ManuelZierl/fellow) – Autonomous software engineering agent for the command line. Uses the different APIs to plan coding tasks, execute shell commands, and log its reasoning steps.
+
 
 
 ## Reimplementations
