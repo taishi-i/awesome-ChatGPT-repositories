@@ -4,6 +4,7 @@
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![RRs](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/taishi-i/awesome-ChatGPT-repositories/pulls)
 
 關於 [ChatGPT](https://openai.com/blog/chatgpt) 的公開 GitHub 資料庫的資源.
 搜尋這些資料庫的[工具](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md)可在 Hugging Face Spaces 上找到.
@@ -15,19 +16,29 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [fellow](https://github.com/manuelzierl/fellow) - Fellow 是一個命令行界面（CLI）工具，作為一個自主的軟件工程助手。它使用 OpenAI API 進行各種結構化任務，通過逐步推理、執行命令並記錄活動日誌。
+
+
 **Browser-extensions**
- * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - 將ChatGPT深度整合到您的瀏覽器中，您所需的一切都在這裡。
+ * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI 瀏覽器擴展和用戶腳本，增強您的網頁體驗
+ * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 這個即時字幕翻譯插件將OpenAI的ChatGPT API（或任何具有相同API調用方法的模型）集成到PotPlayer中。它使你在觀看視頻時能夠即時翻譯字幕，從而打破語言障礙，提升你的觀看體驗。
 
 
-**CLIs**
- * [kilocode](https://github.com/kilo-org/kilocode) - 開源人工智慧編碼助手，用於規劃、構建和修復代碼。我們是Roo、Cline和我們自己功能的超集。關注我們：kilocode.ai/social
+**NLP**
+ * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub是一個支援多個LLM提供者的Android應用程式。
 
 
-**Others**
- * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - 一個Claude MCP工具，用於與macOS上的ChatGPT桌面應用程序進行交互。
+**Langchain**
+ * [helix](https://github.com/helixml/helix) - ♾️ Helix 是一個私人的 GenAI 堆疊，用於構建具有聲明管道、知識（RAG）、API 綁定和一流測試的 AI 應用程序。
 
 
-_Updated on June 04, 2025_ (A total of 2124 repositories listed.)
+**Openai**
+ * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 用於建立強悍課程的平台
+ * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - 與OpenAI的公共API互動的最完整的開源Swift套件。
+
+
+_Updated on June 09, 2025_ (A total of 2131 repositories listed.)
 
 ## Table of contents
 
@@ -292,6 +303,7 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - 系統提示透明度為所有
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - 一份免費指南，教你如何創建ChatGPT3提示
  * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - 從流行的聊天機器人（如ChatGPT、Claude和Gemini）中提取的系統提示集合收集自ChatGPT、Claude和Gemini等流行聊天機器人的系統提示
+ * [fellow](https://github.com/manuelzierl/fellow) - Fellow 是一個命令行界面（CLI）工具，作為一個自主的軟件工程助手。它使用 OpenAI API 進行各種結構化任務，通過逐步推理、執行命令並記錄活動日誌。
 
 
 ## Chatbots
@@ -834,6 +846,8 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [llm-scraper](https://github.com/mishushakov/llm-scraper) - 使用LLMs將任何網頁轉換為結構化數據
  * [SwitchAI](https://github.com/wstxda/switchai) - 輕鬆選擇、啟動和管理您喜歡的AI數字助理
  * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - 將ChatGPT深度整合到您的瀏覽器中，您所需的一切都在這裡。
+ * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI 瀏覽器擴展和用戶腳本，增強您的網頁體驗
+ * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 這個即時字幕翻譯插件將OpenAI的ChatGPT API（或任何具有相同API調用方法的模型）集成到PotPlayer中。它使你在觀看視頻時能夠即時翻譯字幕，從而打破語言障礙，提升你的觀看體驗。
 
 
 ## CLIs
@@ -1385,6 +1399,7 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [xyne](https://github.com/xynehq/xyne) - AI優先搜索和答案引擎，適用於工作。Glean的開源替代方案。
  * [aidermacs](https://github.com/matthewzmd/aidermacs) - 在Emacs中使用Aider進行AI對程式設計的配對
  * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - 使用您的代碼初始化任何網絡聊天
+ * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub是一個支援多個LLM提供者的Android應用程式。
 
 
 ## Langchain
@@ -1529,6 +1544,7 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [company-research-agent](https://github.com/pogjester/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
  * [sdk-python](https://github.com/strands-agents/sdk-python) - 一種以模型驅動的方法，在僅需幾行代碼中建立AI代理。
  * [autoview](https://github.com/wrtnlabs/autoview) - AI代理自動視圖組件渲染器
+ * [helix](https://github.com/helixml/helix) - ♾️ Helix 是一個私人的 GenAI 堆疊，用於構建具有聲明管道、知識（RAG）、API 綁定和一流測試的 AI 應用程序。
 
 
 ## Unity
@@ -1803,6 +1819,8 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - Amazon Bedrock 的 OpenAI 兼容的 RESTful APIs
  * [preparedness](https://github.com/openai/preparedness) - OpenAI準備工作的發布
  * [SMRY](https://github.com/mrmps/smry) - 一個可以獲得摘要並突破付費牆的工具
+ * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 用於建立強悍課程的平台
+ * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - 與OpenAI的公共API互動的最完整的開源Swift套件。
 
 
 ## Others

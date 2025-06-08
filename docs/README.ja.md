@@ -4,6 +4,7 @@
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![RRs](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/taishi-i/awesome-ChatGPT-repositories/pulls)
 
 [ChatGPT](https://openai.com/blog/chatgpt)に関連するオープンソースのGitHubリポジトリを厳選したリストです。
 これらのリポジトリを[検索するためのツール](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)はHugging Face Spacesで利用できます。
@@ -15,19 +16,29 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [fellow](https://github.com/manuelzierl/fellow) - Fellowは、自律型ソフトウェアエンジニアリングアシスタントとして機能するコマンドラインインターフェース（CLI）ツールです。Fellowは、ステップバイステップの推論、コマンドの実行、および活動のログの維持によって、さまざまな構造化されたタスクを実行するためにOpenAI APIを使用します。
+
+
 **Browser-extensions**
- * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - ChatGPTをブラウザに深く統合することで、必要なすべてがここにあります。
+ * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AIブラウザ拡張機能＆ユーザースクリプトで、Web体験を向上させます
+ * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - このリアルタイム字幕翻訳プラグインは、OpenAIのChatGPT API（または同じAPI呼び出し方法を持つモデル）をPotPlayerに統合します。これにより、ビデオを視聴しながら字幕をリアルタイムで翻訳することができ、言語の壁を取り除き、視聴体験を向上させることができます。
 
 
-**CLIs**
- * [kilocode](https://github.com/kilo-org/kilocode) - 計画、構築、およびコードの修正のためのオープンソースAIコーディングアシスタント。私たちはRoo、Cline、および独自の機能のスーパーセットです。フォローしてください：kilocode.ai/social
+**NLP**
+ * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHubは複数のLLMプロバイダーをサポートするAndroidアプリです。
 
 
-**Others**
- * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール
+**Langchain**
+ * [helix](https://github.com/helixml/helix) - ♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。
 
 
-_Updated on June 04, 2025_ (A total of 2124 repositories listed.)
+**Openai**
+ * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 バッドアスコースを構築するためのプラットフォーム
+ * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。
+
+
+_Updated on June 09, 2025_ (A total of 2131 repositories listed.)
 
 ## Table of contents
 
@@ -292,6 +303,7 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - すべてのためのシステムプロンプト透明化
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - ChatGPT3プロンプトの作成方法を学ぶための無料ガイド
  * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクションChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクション
+ * [fellow](https://github.com/manuelzierl/fellow) - Fellowは、自律型ソフトウェアエンジニアリングアシスタントとして機能するコマンドラインインターフェース（CLI）ツールです。Fellowは、ステップバイステップの推論、コマンドの実行、および活動のログの維持によって、さまざまな構造化されたタスクを実行するためにOpenAI APIを使用します。
 
 
 ## Chatbots
@@ -834,6 +846,8 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [llm-scraper](https://github.com/mishushakov/llm-scraper) - LLMsを使用して、任意のウェブページを構造化データに変換します。
  * [SwitchAI](https://github.com/wstxda/switchai) - 簡単に選択し、起動し、お好みのAIデジタルアシスタントを管理します。
  * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - ChatGPTをブラウザに深く統合することで、必要なすべてがここにあります。
+ * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AIブラウザ拡張機能＆ユーザースクリプトで、Web体験を向上させます
+ * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - このリアルタイム字幕翻訳プラグインは、OpenAIのChatGPT API（または同じAPI呼び出し方法を持つモデル）をPotPlayerに統合します。これにより、ビデオを視聴しながら字幕をリアルタイムで翻訳することができ、言語の壁を取り除き、視聴体験を向上させることができます。
 
 
 ## CLIs
@@ -1385,6 +1399,7 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [xyne](https://github.com/xynehq/xyne) - 仕事用のAIファースト検索＆回答エンジン。Gleanのオープンソースの代替品。
  * [aidermacs](https://github.com/matthewzmd/aidermacs) - Aiderを使用したEmacsでのAIペアプログラミング
  * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - コードを使用して任意のWebチャットを初期化します。
+ * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHubは複数のLLMプロバイダーをサポートするAndroidアプリです。
 
 
 ## Langchain
@@ -1529,6 +1544,7 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [company-research-agent](https://github.com/pogjester/company-research-agent) - LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
  * [sdk-python](https://github.com/strands-agents/sdk-python) - わずか数行のコードでAIエージェントを構築するためのモデル駆動アプローチ。
  * [autoview](https://github.com/wrtnlabs/autoview) - AIエージェントによる自動ビューコンポーネントレンダラー
+ * [helix](https://github.com/helixml/helix) - ♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。
 
 
 ## Unity
@@ -1803,6 +1819,8 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - Amazon Bedrock用のOpenAI互換のRESTful API
  * [preparedness](https://github.com/openai/preparedness) - OpenAIの準備からのリリース
  * [SMRY](https://github.com/mrmps/smry) - 要約を取得し、過去のペイウォールを取得するためのツール
+ * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 バッドアスコースを構築するためのプラットフォーム
+ * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。
 
 
 ## Others

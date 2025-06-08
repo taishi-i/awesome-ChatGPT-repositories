@@ -4,6 +4,7 @@
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![RRs](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/taishi-i/awesome-ChatGPT-repositories/pulls)
 
 A curated list of resources dedicated to open source GitHub repositories related to [ChatGPT](https://openai.com/blog/chatgpt).
 A tool for searching these repositories is [available](https://huggingface.co/spaces/taishi-i/awesome-ChatGPT-repositories-search) on Hugging Face Spaces.
@@ -15,19 +16,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [fellow](https://github.com/manuelzierl/fellow) - Fellow is a command-line interface (CLI) tool that acts as an autonomous software engineering assistant. It uses the OpenAI API to perform various structured tasks by reasoning step-by-step, executing commands, and maintaining a log of its activities.
+
+
 **Browser-extensions**
- * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - Integrating ChatGPT into your browser deeply, everything you need is here
+ * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
+ * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to translate subtitles on-the-fly while watching videos.
 
 
-**CLIs**
- * [kilocode](https://github.com/kilo-org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+**NLP**
+ * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
 
 
-**Others**
- * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - A Claude MCP tool to interact with the ChatGPT desktop app on macOS
+**Langchain**
+ * [helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
 
 
-_Updated on June 04, 2025_ (A total of 2124 repositories listed.)
+**Openai**
+ * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
+ * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - The most complete open-source Swift package for interacting with OpenAI's public API.
+
+
+_Updated on June 09, 2025_ (A total of 2131 repositories listed.)
 
 ## Table of contents
 
@@ -292,6 +303,7 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - SYSTEM PROMPT TRANSPARENCY FOR ALL
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - A free guide for learning to create ChatGPT3 Prompts
  * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+ * [fellow](https://github.com/manuelzierl/fellow) - Fellow is a command-line interface (CLI) tool that acts as an autonomous software engineering assistant. It uses the OpenAI API to perform various structured tasks by reasoning step-by-step, executing commands, and maintaining a log of its activities.
 
 
 ## Chatbots
@@ -834,6 +846,8 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
  * [SwitchAI](https://github.com/wstxda/switchai) - Easily select, start, and manage your preferred AI digital assistant
  * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - Integrating ChatGPT into your browser deeply, everything you need is here
+ * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
+ * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to translate subtitles on-the-fly while watching videos.
 
 
 ## CLIs
@@ -993,8 +1007,6 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
  * [forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
  * [kilocode](https://github.com/kilo-org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-* [fellow](https://github.com/ManuelZierl/fellow) – Autonomous software engineering agent for the command line. Uses the different APIs to plan coding tasks, execute shell commands, and log its reasoning steps.
-
 
 
 ## Reimplementations
@@ -1387,6 +1399,7 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [xyne](https://github.com/xynehq/xyne) - AI-first Search & Answer Engine for work. Open-source alternative to Glean.
  * [aidermacs](https://github.com/matthewzmd/aidermacs) - AI Pair Programming in Emacs with Aider
  * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - Initialize any web chat with your code
+ * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
 
 
 ## Langchain
@@ -1531,6 +1544,7 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [company-research-agent](https://github.com/pogjester/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
  * [sdk-python](https://github.com/strands-agents/sdk-python) - A model-driven approach to building AI agents in just a few lines of code.
  * [autoview](https://github.com/wrtnlabs/autoview) - Automatic view component renderer by AI agent
+ * [helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
 
 
 ## Unity
@@ -1805,6 +1819,8 @@ _Updated on June 04, 2025_ (A total of 2124 repositories listed.)
  * [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - OpenAI-Compatible RESTful APIs for Amazon Bedrock
  * [preparedness](https://github.com/openai/preparedness) - Releases from OpenAI Preparedness
  * [SMRY](https://github.com/mrmps/smry) - A tool to get summaries and get past paywalls
+ * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
+ * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - The most complete open-source Swift package for interacting with OpenAI's public API.
 
 
 ## Others
