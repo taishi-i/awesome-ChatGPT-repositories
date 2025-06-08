@@ -5892,6 +5892,36 @@
                     "zh-hans": "从流行的聊天机器人（如ChatGPT、Claude和Gemini）中提取的系统提示集合输出：收集自ChatGPT、Claude和Gemini等流行聊天机器人的系统提示",
                     "zh-hant": "從流行的聊天機器人（如ChatGPT、Claude和Gemini）中提取的系統提示集合收集自ChatGPT、Claude和Gemini等流行聊天機器人的系統提示"
                 }
+            },
+            "https://github.com/manuelzierl/fellow": {
+                "repository_name": "fellow",
+                "user_name": "ManuelZierl",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Fellow is a command-line interface (CLI) tool that acts as an autonomous software engineering assistant. It uses the OpenAI API to perform various structured tasks by reasoning step-by-step, executing commands, and maintaining a log of its activities.",
+                "topics": [
+                    "ai-assistant",
+                    "autonomous-agents",
+                    "autonomous-ai",
+                    "cli",
+                    "code-generation",
+                    "command-line-tool",
+                    "developer-tools",
+                    "open-source",
+                    "openai",
+                    "openai-api",
+                    "productivity",
+                    "prompt-engineering",
+                    "python",
+                    "software-engineering",
+                    "task-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fellow is a command-line interface (CLI) tool that acts as an autonomous software engineering assistant. It uses the OpenAI API to perform various structured tasks by reasoning step-by-step, executing commands, and maintaining a log of its activities.",
+                    "ja": "Fellowは、自律型ソフトウェアエンジニアリングアシスタントとして機能するコマンドラインインターフェース（CLI）ツールです。Fellowは、ステップバイステップの推論、コマンドの実行、および活動のログの維持によって、さまざまな構造化されたタスクを実行するためにOpenAI APIを使用します。",
+                    "zh-hans": "Fellow是一个命令行界面（CLI）工具，作为一个自主的软件工程助手。它使用OpenAI API来逐步推理，执行命令，以及记录活动日志来执行各种结构化任务。",
+                    "zh-hant": "Fellow 是一個命令行界面（CLI）工具，作為一個自主的軟件工程助手。它使用 OpenAI API 進行各種結構化任務，通過逐步推理、執行命令並記錄活動日誌。"
+                }
             }
         },
         "Chatbots": {
@@ -18815,6 +18845,76 @@
                     "zh-hans": "将ChatGPT深度集成到您的浏览器中，您所需的一切都在这里。",
                     "zh-hant": "將ChatGPT深度整合到您的瀏覽器中，您所需的一切都在這裡。"
                 }
+            },
+            "https://github.com/adamlui/ai-web-extensions": {
+                "repository_name": "ai-web-extensions",
+                "user_name": "adamlui",
+                "language": "JavaScript",
+                "license": "Other",
+                "description": "🤖 AI browser extensions & userscripts to augment your web experience",
+                "topics": [
+                    "ai",
+                    "amazon",
+                    "artificialintelligence",
+                    "brave",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "chrome-extensions",
+                    "duckduckgo",
+                    "firefox-addons",
+                    "google",
+                    "gpt-4",
+                    "greasemonkey",
+                    "javascript",
+                    "machine-learning",
+                    "ml",
+                    "nlp",
+                    "openai",
+                    "userscripts",
+                    "web-extensions"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 AI browser extensions & userscripts to augment your web experience",
+                    "ja": "🤖 AIブラウザ拡張機能＆ユーザースクリプトで、Web体験を向上させます",
+                    "zh-hans": "🤖 AI 浏览器扩展和用户脚本，增强您的网络体验",
+                    "zh-hant": "🤖 AI 瀏覽器擴展和用戶腳本，增強您的網頁體驗"
+                }
+            },
+            "https://github.com/felix3322/potplayer_chatgpt_translate": {
+                "repository_name": "PotPlayer_ChatGPT_Translate",
+                "user_name": "Felix3322",
+                "language": "AngelScript",
+                "license": "GNU General Public License v3.0",
+                "description": "这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to translate subtitles on-the-fly while watching videos. ",
+                "topics": [
+                    "ai-translator",
+                    "anglescript",
+                    "api",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "language",
+                    "language-model",
+                    "languages",
+                    "llm",
+                    "openai",
+                    "openai-api",
+                    "player-video",
+                    "plugin",
+                    "plugins",
+                    "potplayer",
+                    "potplayer-extension",
+                    "script",
+                    "scripts",
+                    "translate",
+                    "translation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to",
+                    "ja": "このリアルタイム字幕翻訳プラグインは、OpenAIのChatGPT API（または同じAPI呼び出し方法を持つモデル）をPotPlayerに統合します。これにより、ビデオを視聴しながら字幕をリアルタイムで翻訳することができ、言語の壁を取り除き、視聴体験を向上させることができます。",
+                    "zh-hans": "这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。",
+                    "zh-hant": "這個即時字幕翻譯插件將OpenAI的ChatGPT API（或任何具有相同API調用方法的模型）集成到PotPlayer中。它使你在觀看視頻時能夠即時翻譯字幕，從而打破語言障礙，提升你的觀看體驗。"
+                }
             }
         },
         "CLIs": {
@@ -30808,6 +30908,33 @@
                     "zh-hans": "使用您的代码初始化任何网络聊天",
                     "zh-hant": "使用您的代碼初始化任何網絡聊天"
                 }
+            },
+            "https://github.com/rikkahub/rikkahub": {
+                "repository_name": "rikkahub",
+                "user_name": "rikkahub",
+                "language": "Kotlin",
+                "license": "Other",
+                "description": "RikkaHub is a Android APP that supports for multiple LLM providers.",
+                "topics": [
+                    "android",
+                    "app",
+                    "chat-ui",
+                    "chatbox",
+                    "chatgpt",
+                    "deepseek",
+                    "gemini",
+                    "jetpack-compose",
+                    "llm-ui",
+                    "mcp",
+                    "ollama-ui",
+                    "openrouter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "RikkaHub is a Android APP that supports for multiple LLM providers.",
+                    "ja": "RikkaHubは複数のLLMプロバイダーをサポートするAndroidアプリです。",
+                    "zh-hans": "RikkaHub是一个支持多个LLM提供商的Android应用程序。",
+                    "zh-hant": "RikkaHub是一個支援多個LLM提供者的Android應用程式。"
+                }
             }
         },
         "Langchain": {
@@ -34204,6 +34331,41 @@
                     "ja": "AIエージェントによる自動ビューコンポーネントレンダラー",
                     "zh-hans": "AI代理自动视图组件渲染器",
                     "zh-hant": "AI代理自動視圖組件渲染器"
+                }
+            },
+            "https://github.com/helixml/helix": {
+                "repository_name": "helix",
+                "user_name": "helixml",
+                "language": "Go",
+                "license": "Other",
+                "description": "♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.",
+                "topics": [
+                    "api",
+                    "finetuning",
+                    "function-calling",
+                    "golang",
+                    "gptscript",
+                    "helm",
+                    "k8s",
+                    "llama",
+                    "llm",
+                    "llm-agent",
+                    "llm-serving",
+                    "mistral",
+                    "mixtral",
+                    "openai",
+                    "openapi",
+                    "rag",
+                    "sdxl",
+                    "self-hosted",
+                    "stable-diffusion",
+                    "swagger"
+                ],
+                "multilingual_descriptions": {
+                    "en": "♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.",
+                    "ja": "♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。",
+                    "zh-hans": "♾️ Helix是一个私有的GenAI堆栈，用于构建具有声明性流水线、知识（RAG）、API绑定和一流测试的AI应用程序。",
+                    "zh-hant": "♾️ Helix 是一個私人的 GenAI 堆疊，用於構建具有聲明管道、知識（RAG）、API 綁定和一流測試的 AI 應用程序。"
                 }
             }
         },
@@ -39985,6 +40147,49 @@
                     "ja": "要約を取得し、過去のペイウォールを取得するためのツール",
                     "zh-hans": "一个工具，可以获取摘要并绕过付费墙",
                     "zh-hant": "一個可以獲得摘要並突破付費牆的工具"
+                }
+            },
+            "https://github.com/badass-courses/course-builder": {
+                "repository_name": "course-builder",
+                "user_name": "badass-courses",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "🍄 platform for building Badass Courses",
+                "topics": [
+                    "inngest",
+                    "nextjs",
+                    "openai",
+                    "react",
+                    "tailwindcss",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🍄 platform for building Badass Courses",
+                    "ja": "🍄 バッドアスコースを構築するためのプラットフォーム",
+                    "zh-hans": "🍄 用于创建牛逼课程的平台",
+                    "zh-hant": "🍄 用於建立強悍課程的平台"
+                }
+            },
+            "https://github.com/jamesrochabrun/swiftopenai": {
+                "repository_name": "SwiftOpenAI",
+                "user_name": "jamesrochabrun",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "The most complete open-source Swift package for interacting with OpenAI's public API.",
+                "topics": [
+                    "chatgpt-api",
+                    "ios",
+                    "openai",
+                    "openai-api",
+                    "spm",
+                    "swift",
+                    "swiftpackage"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The most complete open-source Swift package for interacting with OpenAI's public API.",
+                    "ja": "OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。",
+                    "zh-hans": "与OpenAI的公共API进行交互的最完整的开源Swift软件包。",
+                    "zh-hant": "與OpenAI的公共API互動的最完整的開源Swift套件。"
                 }
             }
         },
