@@ -13848,6 +13848,31 @@
                     "zh-hans": "Sim Studio是一个开源的AI代理工作流构建器。Sim Studio的界面是一种轻量级、直观的方式，可以快速构建和部署与您喜爱的工具连接的LLMs。",
                     "zh-hant": "Sim Studio 是一個開源的人工智慧代理工作流程建立工具。Sim Studio 的界面是一種輕量級、直觀的方式，可以快速建立和部署與您喜愛的工具相連接的LLM。"
                 }
+            },
+            "https://github.com/agents-flex/agents-flex": {
+                "repository_name": "agents-flex",
+                "user_name": "agents-flex",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "Agents-Flex is an elegant LLM Application Framework like LangChain with Java.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "gpt",
+                    "langchain4j",
+                    "llama3",
+                    "llm",
+                    "ollama",
+                    "spring-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Agents-Flex is an elegant LLM Application Framework like LangChain with Java.",
+                    "ja": "Agents-Flexは、Javaを使用したLangChainのようなエレガントなLLMアプリケーションフレームワークです。",
+                    "zh-hans": "Agents-Flex是一款优雅的LLM应用框架，类似于Java的LangChain。",
+                    "zh-hant": "Agents-Flex 是一個優雅的LLM應用框架，類似於使用Java的LangChain。"
+                }
             }
         },
         "Browser-extensions": {
@@ -18915,6 +18940,26 @@
                     "zh-hans": "这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。",
                     "zh-hant": "這個即時字幕翻譯插件將OpenAI的ChatGPT API（或任何具有相同API調用方法的模型）集成到PotPlayer中。它使你在觀看視頻時能夠即時翻譯字幕，從而打破語言障礙，提升你的觀看體驗。"
                 }
+            },
+            "https://github.com/dcrebbin/meta-vision-api": {
+                "repository_name": "meta-vision-api",
+                "user_name": "dcrebbin",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Mai - Hacky Messenger browser extension & API for the Meta Glasses. \"Hey Meta send a message to ChatGPT\"",
+                "topics": [
+                    "deepseek",
+                    "gpt4",
+                    "meta",
+                    "openai",
+                    "perplexity"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Mai - Hacky Messenger browser extension & API for the Meta Glasses. \"Hey Meta send a message to ChatGPT\"",
+                    "ja": "Mai - Meta Glasses用のHacky Messengerブラウザ拡張機能＆API。\"Hey Meta、ChatGPTにメッセージを送信してください\"",
+                    "zh-hans": "麦 - 适用于Meta眼镜的Hacky Messenger浏览器扩展和API。\"嘿Meta，给ChatGPT发送一条消息\"",
+                    "zh-hant": "買 - Hacky Messenger 瀏覽器擴展和 Meta 眼鏡的 API。\"嘿 Meta，發送消息給 ChatGPT\""
+                }
             }
         },
         "CLIs": {
@@ -22542,6 +22587,29 @@
                     "ja": "計画、構築、およびコードの修正のためのオープンソースAIコーディングアシスタント。私たちはRoo、Cline、および独自の機能のスーパーセットです。フォローしてください：kilocode.ai/social",
                     "zh-hans": "开源AI编码助手，用于规划、构建和修复代码。我们是Roo、Cline和我们自己功能的超集。关注我们：kilocode.ai/social",
                     "zh-hant": "開源人工智慧編碼助手，用於規劃、構建和修復代碼。我們是Roo、Cline和我們自己功能的超集。關注我們：kilocode.ai/social"
+                }
+            },
+            "https://github.com/tom88812/xiaozhi-android-client": {
+                "repository_name": "xiaozhi-android-client",
+                "user_name": "TOM88812",
+                "language": "Dart",
+                "license": "Apache License 2.0",
+                "description": "一个基于小智、xiaozhi-server的Android、IOS语音对话应用,支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "dart",
+                    "dify",
+                    "flutter",
+                    "xiaozhi"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An Android and IOS voice conversation application based on Xiaozhi and xiaozhi-server, supporting real-time voice interaction and text conversation. It is now in the Flutter version, connecting IOS and Android. Comrades, please give it a try and encourage it by giving it a little star.",
+                    "ja": "小智、xiaozhi-serverをベースとしたAndroid、IOSの音声対話アプリケーションで、リアルタイムの音声対話とテキスト対話をサポートしています。現在はflutterバージョンで、IOSとAndroidを統合しています。皆さん、ぜひ手を動かして、星をクリックして、励ましをください。",
+                    "zh-hans": "一个基于小智、xiaozhi-server的Android、IOS语音对话应用，支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。",
+                    "zh-hant": "一個基於小智、xiaozhi-server的Android、IOS語音對話應用，支持實時語音交互和文字對話。現在是flutter版本，打通IOS、Android端。請同志們動動小手，點點小星星，予以鼓勵。"
                 }
             }
         },
@@ -30935,6 +31003,54 @@
                     "zh-hans": "RikkaHub是一个支持多个LLM提供商的Android应用程序。",
                     "zh-hant": "RikkaHub是一個支援多個LLM提供者的Android應用程式。"
                 }
+            },
+            "https://github.com/datascienceuibk/rankify": {
+                "repository_name": "Rankify",
+                "user_name": "DataScienceUIBK",
+                "language": "Python",
+                "license": null,
+                "description": "🔥 Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation 🔥. Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple RAG methods.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "chatgpt",
+                    "information-retrieval",
+                    "llm",
+                    "nlp",
+                    "question-answering",
+                    "rag",
+                    "ranked-retrieval",
+                    "reranking",
+                    "retrieval",
+                    "retrival-augmented-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔥 Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation 🔥. Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple",
+                    "ja": "🔥 Rankify: 検索、再ランキング、および検索増強生成のための包括的なPythonツールキット🔥。当社のツールキットは、40の事前に取得されたベンチマークデータセットを統合し、7つ以上の検索技術、24以上の最新の再ランキングモデル、および複数のサポートを提供しています。",
+                    "zh-hans": "🔥 Rankify：一个全面的Python工具包，用于检索、重新排序和检索增强生成🔥。我们的工具包集成了40个预检索基准数据集，支持7种以上的检索技术，24种以上的最新重新排序模型，以及多种其他功能。",
+                    "zh-hant": "🔥 Rankify：一個全面的Python工具包，用於檢索、重新排序和檢索增強生成🔥。我們的工具包集成了40個預先檢索的基準數據集，支持7種以上的檢索技術，24種以上的最新重新排序模型，以及多種其他功能。"
+                }
+            },
+            "https://github.com/auto-novel/auto-novel": {
+                "repository_name": "auto-novel",
+                "user_name": "auto-novel",
+                "language": "Vue",
+                "license": "GNU General Public License v3.0",
+                "description": "轻小说机翻网站，支持网络小说/文库小说/本地小说",
+                "topics": [
+                    "chatgpt",
+                    "kotlin",
+                    "light-novel",
+                    "openai",
+                    "translator",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Light novel machine translation website, supporting online novels/library novels/local novels.",
+                    "ja": "ライトノベル機械翻訳サイト、ウェブ小説/ラノベ/ローカル小説をサポート",
+                    "zh-hans": "轻小说机翻网站，支持网络小说/文库小说/本地小说。",
+                    "zh-hant": "輕小說機翻網站，支持網絡小說/文庫小說/本地小說"
+                }
             }
         },
         "Langchain": {
@@ -34366,6 +34482,40 @@
                     "ja": "♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。",
                     "zh-hans": "♾️ Helix是一个私有的GenAI堆栈，用于构建具有声明性流水线、知识（RAG）、API绑定和一流测试的AI应用程序。",
                     "zh-hant": "♾️ Helix 是一個私人的 GenAI 堆疊，用於構建具有聲明管道、知識（RAG）、API 綁定和一流測試的 AI 應用程序。"
+                }
+            },
+            "https://github.com/arize-ai/openinference": {
+                "repository_name": "openinference",
+                "user_name": "Arize-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "OpenTelemetry Instrumentation for AI Observability",
+                "topics": [
+                    "aiops",
+                    "gemini",
+                    "hacktoberfest",
+                    "haystack",
+                    "langchain",
+                    "langraph",
+                    "llamaindex",
+                    "llmops",
+                    "llms",
+                    "mcp",
+                    "openai",
+                    "openai-agents",
+                    "opentelemetry",
+                    "pydantic-ai",
+                    "smolagents",
+                    "telemetry",
+                    "tracing",
+                    "vercel",
+                    "vertex"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenTelemetry Instrumentation for AI Observability",
+                    "ja": "AI観測のためのOpenTelemetryインストゥルメンテーション",
+                    "zh-hans": "OpenTelemetry为AI可观测性提供仪器化。",
+                    "zh-hant": "OpenTelemetry 為人工智慧可觀察性提供儀器化"
                 }
             }
         },
@@ -48185,6 +48335,20 @@
                     "ja": "macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール",
                     "zh-hans": "一种与macOS上的ChatGPT桌面应用程序交互的Claude MCP工具",
                     "zh-hant": "一個Claude MCP工具，用於與macOS上的ChatGPT桌面應用程序進行交互。"
+                }
+            },
+            "https://github.com/kylsky/pandora-helper-with-linux-do-oauth": {
+                "repository_name": "pandora-helper-with-linux-do-oauth",
+                "user_name": "Kylsky",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Support for Linux DO's ChatGPT/Claude/Midjourney/API/Grok shared platform - backend project",
+                    "ja": "Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト",
+                    "zh-hans": "支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目",
+                    "zh-hant": "支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-後端專案"
                 }
             }
         }

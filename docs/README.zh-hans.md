@@ -16,29 +16,32 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [fellow](https://github.com/manuelzierl/fellow) - Fellow是一个命令行界面（CLI）工具，作为一个自主的软件工程助手。它使用OpenAI API来逐步推理，执行命令，以及记录活动日志来执行各种结构化任务。
+**Chatbots**
+ * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex是一款优雅的LLM应用框架，类似于Java的LangChain。
 
 
 **Browser-extensions**
- * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI 浏览器扩展和用户脚本，增强您的网络体验
- * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。
+ * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - 麦 - 适用于Meta眼镜的Hacky Messenger浏览器扩展和API。"嘿Meta，给ChatGPT发送一条消息"
+
+
+**CLIs**
+ * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一个基于小智、xiaozhi-server的Android、IOS语音对话应用，支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
 
 
 **NLP**
- * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub是一个支持多个LLM提供商的Android应用程序。
+ * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify：一个全面的Python工具包，用于检索、重新排序和检索增强生成🔥。我们的工具包集成了40个预检索基准数据集，支持7种以上的检索技术，24种以上的最新重新排序模型，以及多种其他功能。
+ * [auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说。
 
 
 **Langchain**
- * [helix](https://github.com/helixml/helix) - ♾️ Helix是一个私有的GenAI堆栈，用于构建具有声明性流水线、知识（RAG）、API绑定和一流测试的AI应用程序。
+ * [openinference](https://github.com/arize-ai/openinference) - OpenTelemetry为AI可观测性提供仪器化。
 
 
-**Openai**
- * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 用于创建牛逼课程的平台
- * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - 与OpenAI的公共API进行交互的最完整的开源Swift软件包。
+**Others**
+ * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
 
 
-_Updated on June 09, 2025_ (A total of 2131 repositories listed.)
+_Updated on June 12, 2025_ (A total of 2138 repositories listed.)
 
 ## Table of contents
 
@@ -627,6 +630,7 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 一个智能助手，将强大的人工智能连接到您的个人世界
  * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - 一个开源/自托管/本地优先的人工智能平台，专为企业和团队设计，完美地结合了强大的本地处理能力和无缝的远程同步。
  * [sim](https://github.com/simstudioai/sim) - Sim Studio是一个开源的AI代理工作流构建器。Sim Studio的界面是一种轻量级、直观的方式，可以快速构建和部署与您喜爱的工具连接的LLMs。
+ * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex是一款优雅的LLM应用框架，类似于Java的LangChain。
 
 
 ## Browser-extensions
@@ -848,6 +852,7 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - 将ChatGPT深度集成到您的浏览器中，您所需的一切都在这里。
  * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI 浏览器扩展和用户脚本，增强您的网络体验
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。
+ * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - 麦 - 适用于Meta眼镜的Hacky Messenger浏览器扩展和API。"嘿Meta，给ChatGPT发送一条消息"
 
 
 ## CLIs
@@ -1007,6 +1012,7 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI 助手，非侵入式终端助手
  * [forge](https://github.com/antinomyhq/forge) - AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。
  * [kilocode](https://github.com/kilo-org/kilocode) - 开源AI编码助手，用于规划、构建和修复代码。我们是Roo、Cline和我们自己功能的超集。关注我们：kilocode.ai/social
+ * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一个基于小智、xiaozhi-server的Android、IOS语音对话应用，支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
 
 
 ## Reimplementations
@@ -1400,6 +1406,8 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [aidermacs](https://github.com/matthewzmd/aidermacs) - 在Emacs中使用Aider进行AI对编程进行配对
  * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - 使用您的代码初始化任何网络聊天
  * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub是一个支持多个LLM提供商的Android应用程序。
+ * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify：一个全面的Python工具包，用于检索、重新排序和检索增强生成🔥。我们的工具包集成了40个预检索基准数据集，支持7种以上的检索技术，24种以上的最新重新排序模型，以及多种其他功能。
+ * [auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说。
 
 
 ## Langchain
@@ -1545,6 +1553,7 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [sdk-python](https://github.com/strands-agents/sdk-python) - 一种基于模型驱动的方法，仅需几行代码即可构建AI代理。
  * [autoview](https://github.com/wrtnlabs/autoview) - AI代理自动视图组件渲染器
  * [helix](https://github.com/helixml/helix) - ♾️ Helix是一个私有的GenAI堆栈，用于构建具有声明性流水线、知识（RAG）、API绑定和一流测试的AI应用程序。
+ * [openinference](https://github.com/arize-ai/openinference) - OpenTelemetry为AI可观测性提供仪器化。
 
 
 ## Unity
@@ -2244,5 +2253,6 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWiki是DeepWiki项目的开源版本，旨在提供强大的知识管理和协作平台。该项目主要使用C#和TypeScript进行开发，支持模块化设计，易于扩展和定制。
  * [zola](https://github.com/ibelick/zola) - 开源ChatGPT的替代品，面向开发人员。快速、多模型AI聊天。代理+MCP即将推出。
  * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - 一种与macOS上的ChatGPT桌面应用程序交互的Claude MCP工具
+ * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
 
 

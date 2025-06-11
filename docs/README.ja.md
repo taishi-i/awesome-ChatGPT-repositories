@@ -16,29 +16,32 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [fellow](https://github.com/manuelzierl/fellow) - Fellowは、自律型ソフトウェアエンジニアリングアシスタントとして機能するコマンドラインインターフェース（CLI）ツールです。Fellowは、ステップバイステップの推論、コマンドの実行、および活動のログの維持によって、さまざまな構造化されたタスクを実行するためにOpenAI APIを使用します。
+**Chatbots**
+ * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flexは、Javaを使用したLangChainのようなエレガントなLLMアプリケーションフレームワークです。
 
 
 **Browser-extensions**
- * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AIブラウザ拡張機能＆ユーザースクリプトで、Web体験を向上させます
- * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - このリアルタイム字幕翻訳プラグインは、OpenAIのChatGPT API（または同じAPI呼び出し方法を持つモデル）をPotPlayerに統合します。これにより、ビデオを視聴しながら字幕をリアルタイムで翻訳することができ、言語の壁を取り除き、視聴体験を向上させることができます。
+ * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Meta Glasses用のHacky Messengerブラウザ拡張機能＆API。"Hey Meta、ChatGPTにメッセージを送信してください"
+
+
+**CLIs**
+ * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 小智、xiaozhi-serverをベースとしたAndroid、IOSの音声対話アプリケーションで、リアルタイムの音声対話とテキスト対話をサポートしています。現在はflutterバージョンで、IOSとAndroidを統合しています。皆さん、ぜひ手を動かして、星をクリックして、励ましをください。
 
 
 **NLP**
- * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHubは複数のLLMプロバイダーをサポートするAndroidアプリです。
+ * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify: 検索、再ランキング、および検索増強生成のための包括的なPythonツールキット🔥。当社のツールキットは、40の事前に取得されたベンチマークデータセットを統合し、7つ以上の検索技術、24以上の最新の再ランキングモデル、および複数のサポートを提供しています。
+ * [auto-novel](https://github.com/auto-novel/auto-novel) - ライトノベル機械翻訳サイト、ウェブ小説/ラノベ/ローカル小説をサポート
 
 
 **Langchain**
- * [helix](https://github.com/helixml/helix) - ♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。
+ * [openinference](https://github.com/arize-ai/openinference) - AI観測のためのOpenTelemetryインストゥルメンテーション
 
 
-**Openai**
- * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 バッドアスコースを構築するためのプラットフォーム
- * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。
+**Others**
+ * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト
 
 
-_Updated on June 09, 2025_ (A total of 2131 repositories listed.)
+_Updated on June 12, 2025_ (A total of 2138 repositories listed.)
 
 ## Table of contents
 
@@ -627,6 +630,7 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 強力なAIをあなたの個人の世界につなぐスマートアシスタント
  * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - オープンソース/セルフホスト/ローカルファーストAIプラットフォーム、企業やチーム向けに設計され、強力なローカル処理能力とシームレスなリモート同期を完璧に組み合わせたもの。
  * [sim](https://github.com/simstudioai/sim) - Sim StudioはオープンソースのAIエージェントワークフロービルダーです。Sim Studioのインターフェースは、お気に入りのツールと連携するLLMを迅速に構築して展開するための軽量で直感的な方法です。
+ * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flexは、Javaを使用したLangChainのようなエレガントなLLMアプリケーションフレームワークです。
 
 
 ## Browser-extensions
@@ -848,6 +852,7 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - ChatGPTをブラウザに深く統合することで、必要なすべてがここにあります。
  * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AIブラウザ拡張機能＆ユーザースクリプトで、Web体験を向上させます
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - このリアルタイム字幕翻訳プラグインは、OpenAIのChatGPT API（または同じAPI呼び出し方法を持つモデル）をPotPlayerに統合します。これにより、ビデオを視聴しながら字幕をリアルタイムで翻訳することができ、言語の壁を取り除き、視聴体験を向上させることができます。
+ * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Meta Glasses用のHacky Messengerブラウザ拡張機能＆API。"Hey Meta、ChatGPTにメッセージを送信してください"
 
 
 ## CLIs
@@ -1007,6 +1012,7 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [tmuxai](https://github.com/alvinunreal/tmuxai) - AI搭載、非侵襲的な端末アシスタント
  * [forge](https://github.com/antinomyhq/forge) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
  * [kilocode](https://github.com/kilo-org/kilocode) - 計画、構築、およびコードの修正のためのオープンソースAIコーディングアシスタント。私たちはRoo、Cline、および独自の機能のスーパーセットです。フォローしてください：kilocode.ai/social
+ * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 小智、xiaozhi-serverをベースとしたAndroid、IOSの音声対話アプリケーションで、リアルタイムの音声対話とテキスト対話をサポートしています。現在はflutterバージョンで、IOSとAndroidを統合しています。皆さん、ぜひ手を動かして、星をクリックして、励ましをください。
 
 
 ## Reimplementations
@@ -1400,6 +1406,8 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [aidermacs](https://github.com/matthewzmd/aidermacs) - Aiderを使用したEmacsでのAIペアプログラミング
  * [CodeWebChat](https://github.com/robertpiosik/codewebchat) - コードを使用して任意のWebチャットを初期化します。
  * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHubは複数のLLMプロバイダーをサポートするAndroidアプリです。
+ * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify: 検索、再ランキング、および検索増強生成のための包括的なPythonツールキット🔥。当社のツールキットは、40の事前に取得されたベンチマークデータセットを統合し、7つ以上の検索技術、24以上の最新の再ランキングモデル、および複数のサポートを提供しています。
+ * [auto-novel](https://github.com/auto-novel/auto-novel) - ライトノベル機械翻訳サイト、ウェブ小説/ラノベ/ローカル小説をサポート
 
 
 ## Langchain
@@ -1545,6 +1553,7 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [sdk-python](https://github.com/strands-agents/sdk-python) - わずか数行のコードでAIエージェントを構築するためのモデル駆動アプローチ。
  * [autoview](https://github.com/wrtnlabs/autoview) - AIエージェントによる自動ビューコンポーネントレンダラー
  * [helix](https://github.com/helixml/helix) - ♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。
+ * [openinference](https://github.com/arize-ai/openinference) - AI観測のためのOpenTelemetryインストゥルメンテーション
 
 
 ## Unity
@@ -2244,5 +2253,6 @@ _Updated on June 09, 2025_ (A total of 2131 repositories listed.)
  * [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - OpenDeepWikiは、強力な知識管理とコラボレーションプラットフォームを提供することを目的としたDeepWikiプロジェクトのオープンソースバージョンです。このプロジェクトは主にC#とTypeScriptを使用して開発されており、モジュラーデザインをサポートしており、拡張やカスタマイズが容易です。
  * [zola](https://github.com/ibelick/zola) - 開発者向けのオープンソースChatGPTの代替。高速で、マルチモデルのAIチャット。エージェント+MCPが近日公開予定。
  * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール
+ * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト
 
 
