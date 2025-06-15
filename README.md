@@ -17,31 +17,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java.
-
-
-**Browser-extensions**
- * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Hacky Messenger browser extension & API for the Meta Glasses. "Hey Meta send a message to ChatGPT"
-
-
-**CLIs**
- * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一个基于小智、xiaozhi-server的Android、IOS语音对话应用,支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
+ * [openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 
 
 **NLP**
- * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation 🔥. Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple RAG methods.
- * [auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
+ * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
+ * [gateway](https://github.com/centralmind/gateway) - Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.
+ * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
 
 
 **Langchain**
- * [openinference](https://github.com/arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
+ * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.
+
+
+**Openai**
+ * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - Check if a number is even with the power of ✨AI✨
 
 
 **Others**
- * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
+ * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 
 
-_Updated on June 12, 2025_ (A total of 2138 repositories listed.)
+_Updated on June 16, 2025_ (A total of 2145 repositories listed.)
 
 ## Table of contents
 
@@ -631,6 +628,7 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - An open-source/self-hosted/local-first AI platform, designed for enterprises and teams, perfectly combining powerful local processing capabilities with seamless remote synchronization.
  * [sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java.
+ * [openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
 
 
 ## Browser-extensions
@@ -1408,6 +1406,9 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
  * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify: A Comprehensive Python Toolkit for Retrieval, Re-Ranking, and Retrieval-Augmented Generation 🔥. Our toolkit integrates 40 pre-retrieved benchmark datasets and supports 7+ retrieval techniques, 24+ state-of-the-art Reranking models, and multiple RAG methods.
  * [auto-novel](https://github.com/auto-novel/auto-novel) - 轻小说机翻网站，支持网络小说/文库小说/本地小说
+ * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
+ * [gateway](https://github.com/centralmind/gateway) - Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.
+ * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
 
 
 ## Langchain
@@ -1554,6 +1555,7 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [autoview](https://github.com/wrtnlabs/autoview) - Automatic view component renderer by AI agent
  * [helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
  * [openinference](https://github.com/arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
+ * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.
 
 
 ## Unity
@@ -1830,6 +1832,7 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [SMRY](https://github.com/mrmps/smry) - A tool to get summaries and get past paywalls
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - The most complete open-source Swift package for interacting with OpenAI's public API.
+ * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - Check if a number is even with the power of ✨AI✨
 
 
 ## Others
@@ -2254,5 +2257,6 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [zola](https://github.com/ibelick/zola) - The open source ChatGPT alternative for developers. Fast, multi-model AI chat. Agents + MCP coming soon.
  * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - A Claude MCP tool to interact with the ChatGPT desktop app on macOS
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
+ * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
 
 
