@@ -17,31 +17,28 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flexは、Javaを使用したLangChainのようなエレガントなLLMアプリケーションフレームワークです。
-
-
-**Browser-extensions**
- * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Meta Glasses用のHacky Messengerブラウザ拡張機能＆API。"Hey Meta、ChatGPTにメッセージを送信してください"
-
-
-**CLIs**
- * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 小智、xiaozhi-serverをベースとしたAndroid、IOSの音声対話アプリケーションで、リアルタイムの音声対話とテキスト対話をサポートしています。現在はflutterバージョンで、IOSとAndroidを統合しています。皆さん、ぜひ手を動かして、星をクリックして、励ましをください。
+ * [openai-agents-js](https://github.com/openai/openai-agents-js) - マルチエージェントワークフローと音声エージェント向けの軽量でパワフルなフレームワーク
 
 
 **NLP**
- * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify: 検索、再ランキング、および検索増強生成のための包括的なPythonツールキット🔥。当社のツールキットは、40の事前に取得されたベンチマークデータセットを統合し、7つ以上の検索技術、24以上の最新の再ランキングモデル、および複数のサポートを提供しています。
- * [auto-novel](https://github.com/auto-novel/auto-novel) - ライトノベル機械翻訳サイト、ウェブ小説/ラノベ/ローカル小説をサポート
+ * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - 推論とローカルLLMsのサービングに効率的なプラットフォーム、OpenAI互換のAPIサーバーを含む。
+ * [gateway](https://github.com/centralmind/gateway) - データベース向けの汎用MCPサーバー、LLMsとAIエージェントに最適化されています。
+ * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 大規模モデル（DeepSeek、OpenAIなど）に基づいたGitLab自動コードレビューツール；DingTalk/企業WeChat/Feishuへのメッセージ送信と日報の生成をサポート；Dockerデプロイをサポート；可視化ダッシュボード。
 
 
 **Langchain**
- * [openinference](https://github.com/arize-ai/openinference) - AI観測のためのOpenTelemetryインストゥルメンテーション
+ * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。
+
+
+**Openai**
+ * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - ✨AI✨の力で数字が偶数かどうかをチェックする
 
 
 **Others**
- * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト
+ * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。
 
 
-_Updated on June 12, 2025_ (A total of 2138 repositories listed.)
+_Updated on June 16, 2025_ (A total of 2145 repositories listed.)
 
 ## Table of contents
 
@@ -631,6 +628,7 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - オープンソース/セルフホスト/ローカルファーストAIプラットフォーム、企業やチーム向けに設計され、強力なローカル処理能力とシームレスなリモート同期を完璧に組み合わせたもの。
  * [sim](https://github.com/simstudioai/sim) - Sim StudioはオープンソースのAIエージェントワークフロービルダーです。Sim Studioのインターフェースは、お気に入りのツールと連携するLLMを迅速に構築して展開するための軽量で直感的な方法です。
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flexは、Javaを使用したLangChainのようなエレガントなLLMアプリケーションフレームワークです。
+ * [openai-agents-js](https://github.com/openai/openai-agents-js) - マルチエージェントワークフローと音声エージェント向けの軽量でパワフルなフレームワーク
 
 
 ## Browser-extensions
@@ -1408,6 +1406,9 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHubは複数のLLMプロバイダーをサポートするAndroidアプリです。
  * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify: 検索、再ランキング、および検索増強生成のための包括的なPythonツールキット🔥。当社のツールキットは、40の事前に取得されたベンチマークデータセットを統合し、7つ以上の検索技術、24以上の最新の再ランキングモデル、および複数のサポートを提供しています。
  * [auto-novel](https://github.com/auto-novel/auto-novel) - ライトノベル機械翻訳サイト、ウェブ小説/ラノベ/ローカル小説をサポート
+ * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - 推論とローカルLLMsのサービングに効率的なプラットフォーム、OpenAI互換のAPIサーバーを含む。
+ * [gateway](https://github.com/centralmind/gateway) - データベース向けの汎用MCPサーバー、LLMsとAIエージェントに最適化されています。
+ * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 大規模モデル（DeepSeek、OpenAIなど）に基づいたGitLab自動コードレビューツール；DingTalk/企業WeChat/Feishuへのメッセージ送信と日報の生成をサポート；Dockerデプロイをサポート；可視化ダッシュボード。
 
 
 ## Langchain
@@ -1554,6 +1555,7 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [autoview](https://github.com/wrtnlabs/autoview) - AIエージェントによる自動ビューコンポーネントレンダラー
  * [helix](https://github.com/helixml/helix) - ♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。
  * [openinference](https://github.com/arize-ai/openinference) - AI観測のためのOpenTelemetryインストゥルメンテーション
+ * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。
 
 
 ## Unity
@@ -1830,6 +1832,7 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [SMRY](https://github.com/mrmps/smry) - 要約を取得し、過去のペイウォールを取得するためのツール
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 バッドアスコースを構築するためのプラットフォーム
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。
+ * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - ✨AI✨の力で数字が偶数かどうかをチェックする
 
 
 ## Others
@@ -2254,5 +2257,6 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [zola](https://github.com/ibelick/zola) - 開発者向けのオープンソースChatGPTの代替。高速で、マルチモデルのAIチャット。エージェント+MCPが近日公開予定。
  * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト
+ * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。
 
 

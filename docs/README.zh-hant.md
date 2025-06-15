@@ -17,31 +17,28 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex 是一個優雅的LLM應用框架，類似於使用Java的LangChain。
-
-
-**Browser-extensions**
- * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - 買 - Hacky Messenger 瀏覽器擴展和 Meta 眼鏡的 API。"嘿 Meta，發送消息給 ChatGPT"
-
-
-**CLIs**
- * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一個基於小智、xiaozhi-server的Android、IOS語音對話應用，支持實時語音交互和文字對話。現在是flutter版本，打通IOS、Android端。請同志們動動小手，點點小星星，予以鼓勵。
+ * [openai-agents-js](https://github.com/openai/openai-agents-js) - 一個輕量級、強大的框架，適用於多代理工作流程和語音代理。
 
 
 **NLP**
- * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify：一個全面的Python工具包，用於檢索、重新排序和檢索增強生成🔥。我們的工具包集成了40個預先檢索的基準數據集，支持7種以上的檢索技術，24種以上的最新重新排序模型，以及多種其他功能。
- * [auto-novel](https://github.com/auto-novel/auto-novel) - 輕小說機翻網站，支持網絡小說/文庫小說/本地小說
+ * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - 高效的平台，用於推理和提供本地LLMs，包括一個兼容OpenAI的API服務器。
+ * [gateway](https://github.com/centralmind/gateway) - 通用MCP-Server，為您的數據庫優化，適用於LLMs和AI-Agents。
+ * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基於大型模型（DeepSeek、OpenAI等）的 GitLab 自動程式碼審查工具；支援釘釘/企業微信/飛書推送訊息和生成日報；支援Docker部署；可視化儀表板。
 
 
 **Langchain**
- * [openinference](https://github.com/arize-ai/openinference) - OpenTelemetry 為人工智慧可觀察性提供儀器化
+ * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI 是一個開源平台，產品和工程團隊可以合作建立和迭代人工智能功能。
+
+
+**Openai**
+ * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - 檢查一個數字是否為偶數，利用✨人工智慧✨的力量
 
 
 **Others**
- * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-後端專案
+ * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求
 
 
-_Updated on June 12, 2025_ (A total of 2138 repositories listed.)
+_Updated on June 16, 2025_ (A total of 2145 repositories listed.)
 
 ## Table of contents
 
@@ -631,6 +628,7 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - 一個開源/自主/本地優先的人工智能平台，專為企業和團隊設計，完美結合強大的本地處理能力和無縫的遠程同步。
  * [sim](https://github.com/simstudioai/sim) - Sim Studio 是一個開源的人工智慧代理工作流程建立工具。Sim Studio 的界面是一種輕量級、直觀的方式，可以快速建立和部署與您喜愛的工具相連接的LLM。
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex 是一個優雅的LLM應用框架，類似於使用Java的LangChain。
+ * [openai-agents-js](https://github.com/openai/openai-agents-js) - 一個輕量級、強大的框架，適用於多代理工作流程和語音代理。
 
 
 ## Browser-extensions
@@ -1408,6 +1406,9 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub是一個支援多個LLM提供者的Android應用程式。
  * [Rankify](https://github.com/datascienceuibk/rankify) - 🔥 Rankify：一個全面的Python工具包，用於檢索、重新排序和檢索增強生成🔥。我們的工具包集成了40個預先檢索的基準數據集，支持7種以上的檢索技術，24種以上的最新重新排序模型，以及多種其他功能。
  * [auto-novel](https://github.com/auto-novel/auto-novel) - 輕小說機翻網站，支持網絡小說/文庫小說/本地小說
+ * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - 高效的平台，用於推理和提供本地LLMs，包括一個兼容OpenAI的API服務器。
+ * [gateway](https://github.com/centralmind/gateway) - 通用MCP-Server，為您的數據庫優化，適用於LLMs和AI-Agents。
+ * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基於大型模型（DeepSeek、OpenAI等）的 GitLab 自動程式碼審查工具；支援釘釘/企業微信/飛書推送訊息和生成日報；支援Docker部署；可視化儀表板。
 
 
 ## Langchain
@@ -1554,6 +1555,7 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [autoview](https://github.com/wrtnlabs/autoview) - AI代理自動視圖組件渲染器
  * [helix](https://github.com/helixml/helix) - ♾️ Helix 是一個私人的 GenAI 堆疊，用於構建具有聲明管道、知識（RAG）、API 綁定和一流測試的 AI 應用程序。
  * [openinference](https://github.com/arize-ai/openinference) - OpenTelemetry 為人工智慧可觀察性提供儀器化
+ * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI 是一個開源平台，產品和工程團隊可以合作建立和迭代人工智能功能。
 
 
 ## Unity
@@ -1830,6 +1832,7 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [SMRY](https://github.com/mrmps/smry) - 一個可以獲得摘要並突破付費牆的工具
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 用於建立強悍課程的平台
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - 與OpenAI的公共API互動的最完整的開源Swift套件。
+ * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - 檢查一個數字是否為偶數，利用✨人工智慧✨的力量
 
 
 ## Others
@@ -2254,5 +2257,6 @@ _Updated on June 12, 2025_ (A total of 2138 repositories listed.)
  * [zola](https://github.com/ibelick/zola) - 針對開發人員的開源ChatGPT替代方案。快速、多模型AI聊天。代理人+MCP即將推出。
  * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - 一個Claude MCP工具，用於與macOS上的ChatGPT桌面應用程序進行交互。
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-後端專案
+ * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求
 
 

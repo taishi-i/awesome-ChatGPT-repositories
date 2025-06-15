@@ -13873,6 +13873,20 @@
                     "zh-hans": "Agents-Flex是一款优雅的LLM应用框架，类似于Java的LangChain。",
                     "zh-hant": "Agents-Flex 是一個優雅的LLM應用框架，類似於使用Java的LangChain。"
                 }
+            },
+            "https://github.com/openai/openai-agents-js": {
+                "repository_name": "openai-agents-js",
+                "user_name": "openai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A lightweight, powerful framework for multi-agent workflows and voice agents",
+                    "ja": "マルチエージェントワークフローと音声エージェント向けの軽量でパワフルなフレームワーク",
+                    "zh-hans": "一个轻量级、强大的框架，用于多代理工作流和语音代理。",
+                    "zh-hant": "一個輕量級、強大的框架，適用於多代理工作流程和語音代理。"
+                }
             }
         },
         "Browser-extensions": {
@@ -31051,6 +31065,74 @@
                     "zh-hans": "轻小说机翻网站，支持网络小说/文库小说/本地小说。",
                     "zh-hant": "輕小說機翻網站，支持網絡小說/文庫小說/本地小說"
                 }
+            },
+            "https://github.com/ericlbuehler/candle-vllm": {
+                "repository_name": "candle-vllm",
+                "user_name": "EricLBuehler",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.",
+                    "ja": "推論とローカルLLMsのサービングに効率的なプラットフォーム、OpenAI互換のAPIサーバーを含む。",
+                    "zh-hans": "高效的平台，用于推理和提供本地LLMs，包括一个兼容OpenAI的API服务器。",
+                    "zh-hant": "高效的平台，用於推理和提供本地LLMs，包括一個兼容OpenAI的API服務器。"
+                }
+            },
+            "https://github.com/centralmind/gateway": {
+                "repository_name": "gateway",
+                "user_name": "centralmind",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.",
+                "topics": [
+                    "amazon-bedrock",
+                    "anthropic-claude",
+                    "api",
+                    "automatic-api",
+                    "clickhouse",
+                    "duckdb",
+                    "elasticsearch",
+                    "golang",
+                    "google-vertex-ai",
+                    "llm",
+                    "mcp",
+                    "mysql-database",
+                    "openai",
+                    "oracle-database",
+                    "postgresql",
+                    "rest-api",
+                    "snowflake",
+                    "supabase"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.",
+                    "ja": "データベース向けの汎用MCPサーバー、LLMsとAIエージェントに最適化されています。",
+                    "zh-hans": "通用MCP服务器，为您的数据库进行了LLMs和AI代理优化。",
+                    "zh-hant": "通用MCP-Server，為您的數據庫優化，適用於LLMs和AI-Agents。"
+                }
+            },
+            "https://github.com/sunmh207/ai-codereview-gitlab": {
+                "repository_name": "AI-Codereview-Gitlab",
+                "user_name": "sunmh207",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。",
+                "topics": [
+                    "ai",
+                    "codereview",
+                    "deepseek",
+                    "gitlab",
+                    "gpt",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "GitLab automatic code review tool based on large models (DeepSeek, OpenAI, etc.); supports DingTalk/WeChat Work/Feishu message push and daily report generation; supports Docker deployment; visual Dashboard.",
+                    "ja": "大規模モデル（DeepSeek、OpenAIなど）に基づいたGitLab自動コードレビューツール；DingTalk/企業WeChat/Feishuへのメッセージ送信と日報の生成をサポート；Dockerデプロイをサポート；可視化ダッシュボード。",
+                    "zh-hans": "基于大型模型（DeepSeek，OpenAI等）的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化仪表盘。",
+                    "zh-hant": "基於大型模型（DeepSeek、OpenAI等）的 GitLab 自動程式碼審查工具；支援釘釘/企業微信/飛書推送訊息和生成日報；支援Docker部署；可視化儀表板。"
+                }
             }
         },
         "Langchain": {
@@ -34516,6 +34598,31 @@
                     "ja": "AI観測のためのOpenTelemetryインストゥルメンテーション",
                     "zh-hans": "OpenTelemetry为AI可观测性提供仪器化。",
                     "zh-hant": "OpenTelemetry 為人工智慧可觀察性提供儀器化"
+                }
+            },
+            "https://github.com/workflowai/workflowai": {
+                "repository_name": "WorkflowAI",
+                "user_name": "WorkflowAI",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "anthropic",
+                    "deepseek",
+                    "grok",
+                    "llama",
+                    "llm",
+                    "mistral",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.",
+                    "ja": "WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。",
+                    "zh-hans": "WorkflowAI是一个开源平台，产品和工程团队可以合作构建和迭代人工智能功能。",
+                    "zh-hant": "WorkflowAI 是一個開源平台，產品和工程團隊可以合作建立和迭代人工智能功能。"
                 }
             }
         },
@@ -40340,6 +40447,26 @@
                     "ja": "OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。",
                     "zh-hans": "与OpenAI的公共API进行交互的最完整的开源Swift软件包。",
                     "zh-hant": "與OpenAI的公共API互動的最完整的開源Swift套件。"
+                }
+            },
+            "https://github.com/calvin-ll/is-even-ai": {
+                "repository_name": "is-even-ai",
+                "user_name": "Calvin-LL",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Check if a number is even with the power of ✨AI✨",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "gpt",
+                    "is-even",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Check if a number is even with the power of ✨AI✨",
+                    "ja": "✨AI✨の力で数字が偶数かどうかをチェックする",
+                    "zh-hans": "检查一个数字是否是偶数，借助✨人工智能✨的力量",
+                    "zh-hant": "檢查一個數字是否為偶數，利用✨人工智慧✨的力量"
                 }
             }
         },
@@ -48349,6 +48476,35 @@
                     "ja": "Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト",
                     "zh-hans": "支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目",
                     "zh-hant": "支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-後端專案"
+                }
+            },
+            "https://github.com/jasonlovesdoggo/caddy-defender": {
+                "repository_name": "caddy-defender",
+                "user_name": "JasonLovesDoggo",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites",
+                "topics": [
+                    "ai",
+                    "ai-blocker",
+                    "blocker",
+                    "blockers",
+                    "caddy",
+                    "caddy-plugin",
+                    "caddyserver",
+                    "chatgpt",
+                    "filter",
+                    "ip-blacklist",
+                    "ip-filtering",
+                    "security",
+                    "waf",
+                    "web-security"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites",
+                    "ja": "AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。",
+                    "zh-hans": "Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求输出：Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求",
+                    "zh-hant": "Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求"
                 }
             }
         }
