@@ -1837,7 +1837,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
 
 ## Others
 
- * [AI/ML API](https://aimlapi.com/app/?utm_source=awesome-ChatGPT-repositories&utm_medium=github&utm_campaign=integration) - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes
+ * [AI/ML API](https://github.com/aimlapi) - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
