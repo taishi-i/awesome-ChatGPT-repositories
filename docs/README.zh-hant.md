@@ -1837,7 +1837,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
 
 ## Others
 
-* [AI/ML API](https://aimlapi.com/app/?utm_source=awesome-ChatGPT-repositories&utm_medium=github&utm_campaign=integration) - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes
+* [AI/ML API](https://github.com/aimlapi) - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - 論文官方存儲庫：Visual ChatGPT：使用視覺基礎模型進行對話、繪圖和編輯
  * [nanoGPT](https://github.com/karpathy/nanogpt) - 最簡單、最快速的中型GPT訓練/微調存儲庫。
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - 使用強大的GPU加速的Python中的張量和動態神經網絡
