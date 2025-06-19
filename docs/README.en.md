@@ -471,7 +471,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信机器人，可接入 ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook WeChat.
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [Official Implementation] mPLUG-Owl & mPLUG-Owl2: Alibaba MLLM Family.
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ ChatGPT, Bing, Claude, and HuggingChat are all available robots that can be used on QQ and QQ Channel. They support plugins. | Formerly known as QQChannelChatGPT.
- * [casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
+ * [casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI,and Enterprise SSO⚡️, supports OpenAI, AI/ML API, Azure, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
  * [ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
  * [ChatPDF](https://github.com/anil-matcha/chatpdf) - Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
  * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - An open source platform for building chatbot using the OpenAI API Assistant.
@@ -554,7 +554,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [psychic](https://github.com/finic-ai/psychic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.
  * [finic](https://github.com/finic-ai/finic) - Data integration platform for LLMs. Connect to SaaS tools with turnkey auth and sync documents from N data sources with only one integration
- * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)
+ * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - A Discord LLM chat bot that supports any OpenAI compatible API (OpenAI, AI/ML API, Mistral, Groq, OpenRouter, ollama, oobabooga, Jan, LM Studio and more)
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - Integrate AI Assistants with Django to build intelligent applications
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL: A Python Text-to-SQL RAG Library simplifying database interactions. Seamlessly integrates with PostgreSQL, MySQL, SQLite, Snowflake, and BigQuery. Powered by GPT-4 and Llama 2, it enables natural language queries. Supports ChromaDB and Faiss for c
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - A bot works with OpenAI GPT models to provide insights for your info flows.
@@ -612,7 +612,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ Easy-to-use multi-platform LLM chatbot and development framework ✨ Platform supports QQ, QQ channel, Telegram, WeChat, Enterprise WeChat, Feishu | MCP server, OpenAI, DeepSeek, Gemini, Silicon Mobility, Dark Side of the Moon, Ollama, OneAPI, Dify, etc. With WebUI attached.
  * [gurubase](https://github.com/gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into a searchable Q&A assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, accurate answers with references. Deploy it via
  * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - "Your Fully-Automated Personal AI Assistant, and Open-Source & Cost-Efficient Alternative to OpenAI's Deep Research"
- * [llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - Make Discord your LLM frontend ● Supports any OpenAI compatible API (Ollama, AI/ML API, LM Studio, vLLM, OpenRouter, xAI, Mistral, Groq and more)
  * [flock](https://github.com/onelevenvy/flock) - Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams, powered by LangGraph, Langchain, FastAPI, and NextJS.（Flock 是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG、Agent和Muti-Agent应用，采用 LangGraph、Langchain
  * [mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡
@@ -621,7 +621,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [ElatoAI](https://github.com/akdeb/elatoai) - Realtime AI speech with OpenAI Realtime API on Arduino ESP32 with Secure Websockets and Deno edge functions with >10min uninterrupted conversations globally for AI toys, AI companions, AI devices and more
  * [agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
  * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 Feature-rich WeChat robot framework | AI dialogue, integration with Dify, points system, game interaction, daily news, weather query | Non-Hook non-Web implementation | Supports Windows✅ Linux✅ MacOS✅ | New architecture solves the pain points of the first generation XYBot!
- * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - Brings MCP to ChatGPT, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter and more...
+ * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - Brings MCP to ChatGPT, AI/ML API, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter and more...
  * [sanic-web](https://github.com/apconw/sanic-web) - A lightweight, full-stack, and easy-to-develop large model application project (Large Model Data Assistant) that supports DeepSeek/Qwen2.5 and other large models, built on technologies such as Dify, Ollama&Vllm, Sanic, and Text2SQL 📊. It is a one-stop large model application development project that uses Vue3, TypeScript, and Vite 5 to create a modern UI. It supports data visualization and question answering based on large models through ECharts 📈, and has the ability to handle CSV file 📂 table queries. Additionally, it can easily integrate with third-party open source RAG system retrieval systems 🌐.
  * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API is an open-source WhatsApp integration API
  * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
@@ -774,7 +774,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// Agents System/自决策 |类 ChatGpt 插件系统| Gpt-3.5/Gpt-4 |Assistant | 📱 Cross-Platform | 🦾 Async | 🔌 Plugin System
  * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - Bob plugin for text translation, text polishing, and grammar correction based on ChatGPT API, let's welcome a new era without the need for the Tower of Babel! Licensed under CC BY-NC-SA 4.0.
  * [Openaibot](https://github.com/llmkira/openaibot) - ⚡️ Build Your Own AssistantBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 sh & docker-compose
- * [LibreChat](https://github.com/danny-avila/librechat) - Enhanced ChatGPT Clone: Features OpenAI, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+ * [LibreChat](https://github.com/danny-avila/librechat) - Enhanced ChatGPT Clone: Features OpenAI, AI/ML API, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
  * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Scalable Vector database plugin for Postgres, written in Rust, specifically designed for LLM
  * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - Curate a custom library of AI Prompts
  * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - A Calibre plugin to translate ebook into a specified language.
@@ -1837,6 +1837,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
 
 ## Others
 
+ * [AI/ML API](https://github.com/aimlapi) - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
