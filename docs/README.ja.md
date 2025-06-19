@@ -17,28 +17,29 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [openai-agents-js](https://github.com/openai/openai-agents-js) - マルチエージェントワークフローと音声エージェント向けの軽量でパワフルなフレームワーク
+ * [atom](https://github.com/rush86999/atom) - アトムエージェント、時間、タスク、メモ、研究のためのあなたの個人アシスタント
+ * [Narratium.ai](https://github.com/narratium/narratium.ai) - AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム
+
+
+**CLIs**
+ * [wcgw](https://github.com/rusiaaman/wcgw) - クロードデスクトップアプリのシェルとコーディングエージェント
 
 
 **NLP**
- * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - 推論とローカルLLMsのサービングに効率的なプラットフォーム、OpenAI互換のAPIサーバーを含む。
- * [gateway](https://github.com/centralmind/gateway) - データベース向けの汎用MCPサーバー、LLMsとAIエージェントに最適化されています。
- * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 大規模モデル（DeepSeek、OpenAIなど）に基づいたGitLab自動コードレビューツール；DingTalk/企業WeChat/Feishuへのメッセージ送信と日報の生成をサポート；Dockerデプロイをサポート；可視化ダッシュボード。
+ * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 単一細胞RNA-seqデータにおける正確な細胞タイプ注釈のための反復的なマルチLLMコンセンサスフレームワーク
+ * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API ドキュメントリポジトリ
 
 
 **Langchain**
- * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。
+ * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
+ * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - クロードコード+ [ジェミニ / オープンAI / グロック / オープンルーター / オラマ / カスタムモデル / 以上すべて] が一つとして機能する力。
 
 
 **Openai**
- * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - ✨AI✨の力で数字が偶数かどうかをチェックする
+ * [k8m](https://github.com/weibaohui/k8m) - 軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。
 
 
-**Others**
- * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。
-
-
-_Updated on June 16, 2025_ (A total of 2145 repositories listed.)
+_Updated on June 20, 2025_ (A total of 2153 repositories listed.)
 
 ## Table of contents
 
@@ -471,7 +472,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信のリバースエンジニアリング、微信ボット、ChatGPT、ChatGLM、讯飞星火、Tigerbotなどの大規模モデルに接続可能。WeChatをフックします。
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - [公式実装] mPLUG-Owl＆mPLUG-Owl2：アリババMLLMファミリー。
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT
- * [casibase](https://github.com/casibase/casibase) - ⚡️ウェブUIとエンタープライズSSOを備えたオープンソースのLangChainのようなAI知識データベースです⚡️。OpenAI、AI/ML API、Azure、HuggingFace、OpenRouter、ChatGLM、およびローカルモデルをサポートしています。チャットデモ：https://ai.casbin.com、管理ポータルデモ：https://ai.casibase.com
+ * [casibase](https://github.com/casibase/casibase) - ⚡️ウェブUIとエンタープライズSSOを備えたオープンソースのLangChainのようなAI知識データベースです⚡️。OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM、およびローカルモデルをサポートしています。チャットデモ：https://ai.casbin.com、管理ポータルデモ：https://ai.casibase.com
  * [ai-chatbot](https://github.com/vercel/ai-chatbot) - Vercelによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
  * [ChatPDF](https://github.com/anil-matcha/chatpdf) - どんなPDFでもチャットできます。簡単にアップロードしてください。即座に回答します。質問をする、情報を抽出する、AIで文書を要約することができます。ソースも含まれています。
  * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - OpenAI APIアシスタントを使用してチャットボットを構築するためのオープンソースプラットフォーム。
@@ -554,7 +555,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [psychic](https://github.com/finic-ai/psychic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopackは、あなたのリポジトリ全体を1つの、AIにとっても使いやすいファイルにパックする強力なツールです。大規模言語モデル（LLM）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを提供する必要があるときに最適です。
  * [finic](https://github.com/finic-ai/finic) - LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
- * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - OpenAI互換API（OpenAI、AI/ML API、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット
+ * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - OpenAI互換API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - DjangoとAIアシスタントを統合して、知的なアプリケーションを構築します。
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：データベースの相互作用を簡素化するPython Text-to-SQL RAGライブラリ。PostgreSQL、MySQL、SQLite、Snowflake、およびBigQueryとシームレスに統合されています。GPT-4とLlama 2によって動作し、自然言語クエリを可能にします。ChromaDBとFaissをサポートしています。
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。
@@ -612,7 +613,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 簡単に使えるマルチプラットフォームLLMチャットボットおよび開発フレームワーク ✨ プラットフォームサポート：QQ、QQチャンネル、Telegram、WeChat、企業WeChat、Feishu | MCPサーバー、OpenAI、DeepSeek、Gemini、Silicon Mobility、Dark Side of the Moon、Ollama、OneAPI、Dify など。WebUIも付属。
  * [gurubase](https://github.com/gurubase/gurubase) - Gurubaseは、技術ドキュメントに「Ask AI」ボタンを追加し、コンテンツを検索可能なQ&Aアシスタントに変えることができます。Webページ、PDF、YouTubeビデオ、GitHubリポジトリをソースとして使用し、参照付きで即座に正確な回答を生成します。デプロイは以下の方法で行います。
  * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 「あなた専用の完全自動化されたAIアシスタント、そしてOpenAIの深い研究に対するオープンソースでコスト効率の良い代替手段」
- * [llmcord](https://github.com/jakobdylanc/llmcord) - DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、AI/ML API、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）
  * [flock](https://github.com/onelevenvy/flock) - Flockは、LangGraph、Langchain、FastAPI、およびNextJSによって強化された、チャットボット、RAG、および複数エージェントチームの調整を迅速に構築するためのワークフローをベースとした低コードプラットフォームです。
  * [mastra](https://github.com/mastra-ai/mastra) - TypeScript AIエージェントフレームワーク。⚡アシスタント、RAG、可観測性。任意のLLMをサポート：GPT-4、Claude、Gemini、Llama。
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡
@@ -621,7 +622,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [ElatoAI](https://github.com/akdeb/elatoai) - OpenAI Realtime APIを使用したArduino ESP32上のリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話Arduino ESP32上でのOpenAI Realtime APIを使用したリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話
  * [agent-squad](https://github.com/awslabs/agent-squad) - 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
  * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖 機能豊富なWeChatボットフレームワーク | AI対話、Difyとの連携、ポイントシステム、ゲームインタラクション、毎日のニュース、天気予報 | HookやWebを使用しない | Windows✅ Linux✅ MacOS✅ をサポート | 新しいアーキテクチャでXYBotの第一世代の課題を解決！
- * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ChatGPT、AI/ML API、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。
+ * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。
  * [sanic-web](https://github.com/apconw/sanic-web) - 軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。
  * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
  * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 強力なAIをあなたの個人の世界につなぐスマートアシスタント
@@ -629,6 +630,8 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [sim](https://github.com/simstudioai/sim) - Sim StudioはオープンソースのAIエージェントワークフロービルダーです。Sim Studioのインターフェースは、お気に入りのツールと連携するLLMを迅速に構築して展開するための軽量で直感的な方法です。
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flexは、Javaを使用したLangChainのようなエレガントなLLMアプリケーションフレームワークです。
  * [openai-agents-js](https://github.com/openai/openai-agents-js) - マルチエージェントワークフローと音声エージェント向けの軽量でパワフルなフレームワーク
+ * [atom](https://github.com/rush86999/atom) - アトムエージェント、時間、タスク、メモ、研究のためのあなたの個人アシスタント
+ * [Narratium.ai](https://github.com/narratium/narratium.ai) - AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム
 
 
 ## Browser-extensions
@@ -774,7 +777,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [LLMBot](https://github.com/llmkira/llmbot) - 插件概念原型机 /// Agents System/自己決定 |クラスChatGptプラグインシステム| Gpt-3.5/Gpt-4 |アシスタント |📱クロスプラットフォーム|🦾非同期|🔌プラグインシステム
  * [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - ChatGPT APIに基づくテキスト翻訳、テキストの改善、文法修正のBobプラグインで、バベルの塔を必要としない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0のライセンスに基づいています。
  * [Openaibot](https://github.com/llmkira/openaibot) - ⚡️ 自分自身のアシスタントボットを構築する|🧀 Discord/Slack/Kook/Telegram |🍓 ChatGptアーキテクチャの複製 |⛓ ToolCall/FunctionCall|🔖 プラグインサポート | 🌻 sh & docker-compose
- * [LibreChat](https://github.com/danny-avila/librechat) - 強化されたChatGPTクローン：OpenAI、AI/ML API、Bing、Anthropic、OpenRouter、PaLM 2、AIモデルの切り替え、メッセージ検索、langchain、DALL-E-3、ChatGPTプラグイン、OpenAI関数、セキュアなマルチユーザーシステム、プリセット、自己ホスティング用の完全なオープンソースなどの機能があります。開発中のさらなる機能もあります。
+ * [LibreChat](https://github.com/danny-avila/librechat) - 強化されたChatGPTクローン：OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AIモデルの切り替え、メッセージ検索、langchain、DALL-E-3、ChatGPTプラグイン、OpenAI関数、セキュアなマルチユーザーシステム、プリセット、自己ホスティング用の完全なオープンソースなどの機能があります。開発中のさらなる機能もあります。
  * [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - Rustで書かれたPostgres用のスケーラブルなベクターデータベースプラグイン、特にLLM向けに設計されています。
  * [AI-Prompt-Genius](https://github.com/benf2004/ai-prompt-genius) - AIプロンプトのカスタムライブラリを作成してください。
  * [Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/ebook-translator-calibre-plugin) - 指定された言語に電子書籍を翻訳するためのCalibreプラグイン。
@@ -1011,6 +1014,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [forge](https://github.com/antinomyhq/forge) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
  * [kilocode](https://github.com/kilo-org/kilocode) - 計画、構築、およびコードの修正のためのオープンソースAIコーディングアシスタント。私たちはRoo、Cline、および独自の機能のスーパーセットです。フォローしてください：kilocode.ai/social
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 小智、xiaozhi-serverをベースとしたAndroid、IOSの音声対話アプリケーションで、リアルタイムの音声対話とテキスト対話をサポートしています。現在はflutterバージョンで、IOSとAndroidを統合しています。皆さん、ぜひ手を動かして、星をクリックして、励ましをください。
+ * [wcgw](https://github.com/rusiaaman/wcgw) - クロードデスクトップアプリのシェルとコーディングエージェント
 
 
 ## Reimplementations
@@ -1409,6 +1413,8 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - 推論とローカルLLMsのサービングに効率的なプラットフォーム、OpenAI互換のAPIサーバーを含む。
  * [gateway](https://github.com/centralmind/gateway) - データベース向けの汎用MCPサーバー、LLMsとAIエージェントに最適化されています。
  * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 大規模モデル（DeepSeek、OpenAIなど）に基づいたGitLab自動コードレビューツール；DingTalk/企業WeChat/Feishuへのメッセージ送信と日報の生成をサポート；Dockerデプロイをサポート；可視化ダッシュボード。
+ * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 単一細胞RNA-seqデータにおける正確な細胞タイプ注釈のための反復的なマルチLLMコンセンサスフレームワーク
+ * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API ドキュメントリポジトリ
 
 
 ## Langchain
@@ -1556,6 +1562,8 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [helix](https://github.com/helixml/helix) - ♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。
  * [openinference](https://github.com/arize-ai/openinference) - AI観測のためのOpenTelemetryインストゥルメンテーション
  * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。
+ * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
+ * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - クロードコード+ [ジェミニ / オープンAI / グロック / オープンルーター / オラマ / カスタムモデル / 以上すべて] が一つとして機能する力。
 
 
 ## Unity
@@ -1833,11 +1841,11 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 バッドアスコースを構築するためのプラットフォーム
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - ✨AI✨の力で数字が偶数かどうかをチェックする
+ * [k8m](https://github.com/weibaohui/k8m) - 軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。
 
 
 ## Others
 
-* [AI/ML API](https://github.com/aimlapi) - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Visual ChatGPT: 視覚的な基盤モデルを用いた話し、描き、編集するための論文の公式リポジトリ。
  * [nanoGPT](https://github.com/karpathy/nanogpt) - 中規模のGPTのトレーニング/ファインチューニングに最もシンプルで最速のリポジトリ。
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - Pythonでのテンソルと動的ニューラルネットワークは、強力なGPUアクセラレーションを備えています。

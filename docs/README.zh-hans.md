@@ -17,28 +17,29 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [openai-agents-js](https://github.com/openai/openai-agents-js) - 一个轻量级、强大的框架，用于多代理工作流和语音代理。
+ * [atom](https://github.com/rush86999/atom) - 原子代理，您的个人助手，用于时间、任务、笔记和研究。
+ * [Narratium.ai](https://github.com/narratium/narratium.ai) - 开源平台，用于基于人工智能的叙事、世界构建和沉浸式角色扮演。
+
+
+**CLIs**
+ * [wcgw](https://github.com/rusiaaman/wcgw) - 克劳德桌面应用程序上的Shell和编码代理
 
 
 **NLP**
- * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - 高效的平台，用于推理和提供本地LLMs，包括一个兼容OpenAI的API服务器。
- * [gateway](https://github.com/centralmind/gateway) - 通用MCP服务器，为您的数据库进行了LLMs和AI代理优化。
- * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基于大型模型（DeepSeek，OpenAI等）的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化仪表盘。
+ * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 一种迭代式多LLM共识框架，用于在单细胞RNA测序数据中准确标注细胞类型
+ * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API文档存储库
 
 
 **Langchain**
- * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI是一个开源平台，产品和工程团队可以合作构建和迭代人工智能功能。
+ * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，利用多代理框架对公司进行深入的尽职调查。它在后端利用谷歌的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
+ * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - 克劳德代码 + [双子座 / OpenAI / Grok / OpenRouter / 奥拉玛 / 定制模型 / 以上所有] 联合运作的力量。
 
 
 **Openai**
- * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - 检查一个数字是否是偶数，借助✨人工智能✨的力量
+ * [k8m](https://github.com/weibaohui/k8m) - 一个轻量级、跨平台的迷你Kubernetes人工智能仪表盘，支持大型模型、智能体、MCP（支持设置操作权限），集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
 
-**Others**
- * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求输出：Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求
-
-
-_Updated on June 16, 2025_ (A total of 2145 repositories listed.)
+_Updated on June 20, 2025_ (A total of 2153 repositories listed.)
 
 ## Table of contents
 
@@ -471,7 +472,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [WeChatFerry](https://github.com/lich0821/wechatferry) - 微信逆向，微信机器人，可接入ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。Hook微信。
  * [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - 【官方实施】mPLUG-Owl和mPLUG-Owl2：阿里巴巴MLLM家族。
  * [AstrBot](https://github.com/soulter/astrbot) - ⭐ 可用于 QQ 和 QQ 频道的 ChatGPT、Bing、Claude、HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
- * [casibase](https://github.com/casibase/casibase) - ⚡️开源的类LangChain AI知识数据库，具有Web界面和企业SSO⚡️，支持OpenAI、AI/ML API、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理员门户演示：https://ai.casibase.com
+ * [casibase](https://github.com/casibase/casibase) - ⚡️开源的类LangChain AI知识数据库，具有Web界面和企业SSO⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理员门户演示：https://ai.casibase.com
  * [ai-chatbot](https://github.com/vercel/ai-chatbot) - 一个由Vercel构建的功能齐全、可修改的Next.js AI聊天机器人。
  * [ChatPDF](https://github.com/anil-matcha/chatpdf) - 与任何PDF进行聊天。轻松上传您想要与之聊天的PDF文档。即时回答。使用人工智能提问、提取信息和总结文档。包含来源。
  * [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - 一个使用OpenAI API助手构建聊天机器人的开源平台。
@@ -554,7 +555,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [psychic](https://github.com/finic-ai/psychic) - 为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。
  * [repopack](https://github.com/yamadashy/repopack) - 📦 Repopack 是一个强大的工具，可以将您的整个代码库打包成一个单一的、友好于人工智能的文件。非常适合当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时使用。
  * [finic](https://github.com/finic-ai/finic) - 为LLMs提供的数据集成平台。使用一键式授权连接到SaaS工具，并从N个数据源同步文档，只需进行一次集成。
- * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - 一个支持任何OpenAI兼容API的Discord LLM聊天机器人（OpenAI、AI/ML API、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）。
+ * [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - 一个支持任何OpenAI兼容API的Discord LLM聊天机器人（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）。
  * [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - 将AI助手与Django集成，构建智能应用程序
  * [MindSQL](https://github.com/mindinventory/mindsql) - MindSQL：一个简化数据库交互的Python文本到SQL RAG库。与PostgreSQL、MySQL、SQLite、Snowflake和BigQuery无缝集成。由GPT-4和Llama 2驱动，支持自然语言查询。支持ChromaDB和Faiss。
  * [insights-bot](https://github.com/nekomeowww/insights-bot) - 一个机器人与OpenAI GPT模型合作，为您的信息流提供见解。
@@ -612,7 +613,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [AstrBot](https://github.com/astrbotdevs/astrbot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
  * [gurubase](https://github.com/gurubase/gurubase) - Gurubase允许您在技术文档中添加一个“询问AI”按钮，将您的内容转变为可搜索的问答助手。它使用网页、PDF、YouTube视频和GitHub仓库作为信息源，生成即时准确的答案并附带参考资料。通过部署它。
  * [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - 您的全自动个人AI助手，是OpenAI深度研究的开源和成本效益的替代方案。
- * [llmcord](https://github.com/jakobdylanc/llmcord) - 将Discord设置为您的LLM前端 ● 支持任何兼容OpenAI的API（Ollama、AI/ML API、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groq等）
+ * [llmcord](https://github.com/jakobdylanc/llmcord) - 将Discord设置为您的LLM前端 ● 支持任何兼容OpenAI的API（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groq等）
  * [flock](https://github.com/onelevenvy/flock) - Flock是一个基于workflow工作流的低代码平台，用于快速构建聊天机器人、RAG和协调多代理团队，由LangGraph、Langchain、FastAPI和NextJS驱动。
  * [mastra](https://github.com/mastra-ai/mastra) - TypeScript人工智能代理框架。⚡ 助手，RAG，可观测性。支持任何LLM：GPT-4，Claude，Gemini，Llama。
  * [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - AI聊天机器人🤖，可与CSV、PDF、TXT文件📄和YTB视频🎥进行交流 | 使用Langchain🦜 | OpenAI | Streamlit ⚡
@@ -621,14 +622,16 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [ElatoAI](https://github.com/akdeb/elatoai) - 使用OpenAI Realtime API在Arduino ESP32上实现实时AI语音，配合安全的Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。
  * [agent-squad](https://github.com/awslabs/agent-squad) - 灵活而强大的框架，用于管理多个AI代理并处理复杂对话。
  * [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - 🤖功能丰富的微信机器人框架 | AI对话、对接Dify、积分系统、游戏互动、每日新闻、天气查询 | 非Hook非Web实现 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架构解决XYBot第一代痛点！
-，Grok，Gemini，AI/ML API，Google AI Studio，OpenRouter等等...
- * [sanic-web](https://github.com/apconw/sanic-web) - 一个轻量级、支持全链路且易于二次开发的大模型应 * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - 将MCP带到ChatGPT，Perplexity用项目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基于 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以
+ * [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - 将MCP带到ChatGPT，Perplexity，Grok，Gemini，Google AI Studio，OpenRouter等等...
+ * [sanic-web](https://github.com/apconw/sanic-web) - 一个轻量级、支持全链路且易于二次开发的大模型应用项目(Large Model Data Assistant) 支持DeepSeek/Qwen2.5等大模型 基于 Dify 、Ollama&Vllm、Sanic 和 Text2SQL 📊 等技术构建的一站式大模型应用开发项目，采用 Vue3、TypeScript 和 Vite 5 打造现代UI。它支持通过 ECharts 📈 实现基于大模型的数据图形化问答，具备处理 CSV 文件 📂 表格问答的能力。同时，能方便对接第三方开源 RAG 系统 检索系统 🌐等，以
  * [evolution-api](https://github.com/evolutionapi/evolution-api) - Evolution API 是一个开源的 WhatsApp 集成 API
  * [deepchat](https://github.com/thinkinaixyz/deepchat) - 🐬DeepChat - 一个智能助手，将强大的人工智能连接到您的个人世界
  * [AChat](https://github.com/aprilnea/achat) - 🌊 AChat - 一个开源/自托管/本地优先的人工智能平台，专为企业和团队设计，完美地结合了强大的本地处理能力和无缝的远程同步。
  * [sim](https://github.com/simstudioai/sim) - Sim Studio是一个开源的AI代理工作流构建器。Sim Studio的界面是一种轻量级、直观的方式，可以快速构建和部署与您喜爱的工具连接的LLMs。
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex是一款优雅的LLM应用框架，类似于Java的LangChain。
  * [openai-agents-js](https://github.com/openai/openai-agents-js) - 一个轻量级、强大的框架，用于多代理工作流和语音代理。
+ * [atom](https://github.com/rush86999/atom) - 原子代理，您的个人助手，用于时间、任务、笔记和研究。
+ * [Narratium.ai](https://github.com/narratium/narratium.ai) - 开源平台，用于基于人工智能的叙事、世界构建和沉浸式角色扮演。
 
 
 ## Browser-extensions
@@ -1011,6 +1014,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [forge](https://github.com/antinomyhq/forge) - AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。
  * [kilocode](https://github.com/kilo-org/kilocode) - 开源AI编码助手，用于规划、构建和修复代码。我们是Roo、Cline和我们自己功能的超集。关注我们：kilocode.ai/social
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一个基于小智、xiaozhi-server的Android、IOS语音对话应用，支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
+ * [wcgw](https://github.com/rusiaaman/wcgw) - 克劳德桌面应用程序上的Shell和编码代理
 
 
 ## Reimplementations
@@ -1409,6 +1413,8 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - 高效的平台，用于推理和提供本地LLMs，包括一个兼容OpenAI的API服务器。
  * [gateway](https://github.com/centralmind/gateway) - 通用MCP服务器，为您的数据库进行了LLMs和AI代理优化。
  * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基于大型模型（DeepSeek，OpenAI等）的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化仪表盘。
+ * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 一种迭代式多LLM共识框架，用于在单细胞RNA测序数据中准确标注细胞类型
+ * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API文档存储库
 
 
 ## Langchain
@@ -1556,6 +1562,8 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [helix](https://github.com/helixml/helix) - ♾️ Helix是一个私有的GenAI堆栈，用于构建具有声明性流水线、知识（RAG）、API绑定和一流测试的AI应用程序。
  * [openinference](https://github.com/arize-ai/openinference) - OpenTelemetry为AI可观测性提供仪器化。
  * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI是一个开源平台，产品和工程团队可以合作构建和迭代人工智能功能。
+ * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，利用多代理框架对公司进行深入的尽职调查。它在后端利用谷歌的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
+ * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - 克劳德代码 + [双子座 / OpenAI / Grok / OpenRouter / 奥拉玛 / 定制模型 / 以上所有] 联合运作的力量。
 
 
 ## Unity
@@ -1833,11 +1841,11 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 用于创建牛逼课程的平台
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - 与OpenAI的公共API进行交互的最完整的开源Swift软件包。
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - 检查一个数字是否是偶数，借助✨人工智能✨的力量
+ * [k8m](https://github.com/weibaohui/k8m) - 一个轻量级、跨平台的迷你Kubernetes人工智能仪表盘，支持大型模型、智能体、MCP（支持设置操作权限），集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
 
 ## Others
 
-* [AI/ML API](https://github.com/aimlapi) - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - 论文的官方存储库：Visual ChatGPT：使用视觉基础模型进行交谈、绘画和编辑。
  * [nanoGPT](https://github.com/karpathy/nanogpt) - 最简单、最快的中等规模GPT训练/微调存储库。
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - 使用强大的GPU加速的Python中的张量和动态神经网络

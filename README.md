@@ -17,28 +17,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
+ * [atom](https://github.com/rush86999/atom) - Atom Agent, your personal assistant for time, tasks, notes and research
+ * [Narratium.ai](https://github.com/narratium/narratium.ai) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
+
+
+**CLIs**
+ * [wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on claude desktop app
 
 
 **NLP**
- * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
- * [gateway](https://github.com/centralmind/gateway) - Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.
- * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
+ * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - An iterative multi-LLM consensus framework for accurate cell type annotation in single-cell RNA-seq data
+ * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API Documentation Repo
 
 
 **Langchain**
- * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.
+ * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
+ * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
 
 
 **Openai**
- * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - Check if a number is even with the power of ✨AI✨
+ * [k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
 
-**Others**
- * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
-
-
-_Updated on June 16, 2025_ (A total of 2145 repositories listed.)
+_Updated on June 20, 2025_ (A total of 2153 repositories listed.)
 
 ## Table of contents
 
@@ -629,6 +630,8 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java.
  * [openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
+ * [atom](https://github.com/rush86999/atom) - Atom Agent, your personal assistant for time, tasks, notes and research
+ * [Narratium.ai](https://github.com/narratium/narratium.ai) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
 
 
 ## Browser-extensions
@@ -1011,6 +1014,7 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
  * [kilocode](https://github.com/kilo-org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一个基于小智、xiaozhi-server的Android、IOS语音对话应用,支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
+ * [wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on claude desktop app
 
 
 ## Reimplementations
@@ -1409,6 +1413,8 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
  * [gateway](https://github.com/centralmind/gateway) - Universal MCP-Server for your Databases optimized for LLMs and AI-Agents.
  * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
+ * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - An iterative multi-LLM consensus framework for accurate cell type annotation in single-cell RNA-seq data
+ * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API Documentation Repo
 
 
 ## Langchain
@@ -1556,6 +1562,8 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [helix](https://github.com/helixml/helix) - ♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
  * [openinference](https://github.com/arize-ai/openinference) - OpenTelemetry Instrumentation for AI Observability
  * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.
+ * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
+ * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
 
 
 ## Unity
@@ -1833,11 +1841,11 @@ _Updated on June 16, 2025_ (A total of 2145 repositories listed.)
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - The most complete open-source Swift package for interacting with OpenAI's public API.
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - Check if a number is even with the power of ✨AI✨
+ * [k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
 
 ## Others
 
- * [AI/ML API](https://github.com/aimlapi) - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration

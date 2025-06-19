@@ -13887,6 +13887,66 @@
                     "zh-hans": "一个轻量级、强大的框架，用于多代理工作流和语音代理。",
                     "zh-hant": "一個輕量級、強大的框架，適用於多代理工作流程和語音代理。"
                 }
+            },
+            "https://github.com/rush86999/atom": {
+                "repository_name": "atom",
+                "user_name": "rush86999",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Atom Agent, your personal assistant for time, tasks, notes and research",
+                "topics": [
+                    "agent",
+                    "agentic",
+                    "agentic-ai",
+                    "agentic-workflow",
+                    "ai",
+                    "ai-scheduling-assistant",
+                    "calendar",
+                    "chatgpt",
+                    "collaboration",
+                    "llm",
+                    "planner",
+                    "productivity",
+                    "schedule",
+                    "scheduler",
+                    "scheduling",
+                    "tasks"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Atom Agent, your personal assistant for time, tasks, notes and research",
+                    "ja": "アトムエージェント、時間、タスク、メモ、研究のためのあなたの個人アシスタント",
+                    "zh-hans": "原子代理，您的个人助手，用于时间、任务、笔记和研究。",
+                    "zh-hant": "原子代理，您的個人助理，負責時間、任務、筆記和研究。"
+                }
+            },
+            "https://github.com/narratium/narratium.ai": {
+                "repository_name": "Narratium.ai",
+                "user_name": "Narratium",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay",
+                "topics": [
+                    "adventure-game",
+                    "ai-npc",
+                    "ai-storytelling",
+                    "chatbot",
+                    "interactive-fiction",
+                    "llm",
+                    "nextjs",
+                    "open-source-ai",
+                    "openai",
+                    "roleplay",
+                    "sillytavern",
+                    "text-adventure",
+                    "typescript",
+                    "visual-novel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay",
+                    "ja": "AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム",
+                    "zh-hans": "开源平台，用于基于人工智能的叙事、世界构建和沉浸式角色扮演。",
+                    "zh-hant": "開源平台，用於AI驅動的故事敘述、世界建構和沉浸式角色扮演。"
+                }
             }
         },
         "Browser-extensions": {
@@ -22625,6 +22685,37 @@
                     "zh-hans": "一个基于小智、xiaozhi-server的Android、IOS语音对话应用，支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。",
                     "zh-hant": "一個基於小智、xiaozhi-server的Android、IOS語音對話應用，支持實時語音交互和文字對話。現在是flutter版本，打通IOS、Android端。請同志們動動小手，點點小星星，予以鼓勵。"
                 }
+            },
+            "https://github.com/rusiaaman/wcgw": {
+                "repository_name": "wcgw",
+                "user_name": "rusiaaman",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Shell and coding agent on claude desktop app",
+                "topics": [
+                    "agent",
+                    "ai-agent",
+                    "ai-coding",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "claude-desktop",
+                    "custom-gpt",
+                    "llm",
+                    "llm-agent",
+                    "llm-code",
+                    "mcp",
+                    "mcp-server",
+                    "openai",
+                    "shell",
+                    "terminal"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Shell and coding agent on claude desktop app",
+                    "ja": "クロードデスクトップアプリのシェルとコーディングエージェント",
+                    "zh-hans": "克劳德桌面应用程序上的Shell和编码代理",
+                    "zh-hant": "在克勞德桌面應用程式上的Shell和編碼代理"
+                }
             }
         },
         "Reimplementations": {
@@ -31133,6 +31224,54 @@
                     "zh-hans": "基于大型模型（DeepSeek，OpenAI等）的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化仪表盘。",
                     "zh-hant": "基於大型模型（DeepSeek、OpenAI等）的 GitLab 自動程式碼審查工具；支援釘釘/企業微信/飛書推送訊息和生成日報；支援Docker部署；可視化儀表板。"
                 }
+            },
+            "https://github.com/cafferychen777/mllmcelltype": {
+                "repository_name": "mLLMCelltype",
+                "user_name": "cafferychen777",
+                "language": "R",
+                "license": "MIT License",
+                "description": "An iterative multi-LLM consensus framework for accurate cell type annotation in single-cell RNA-seq data",
+                "topics": [
+                    "bioinformatics",
+                    "cell-type-annotation",
+                    "claude",
+                    "consensus-algorithm",
+                    "deepseek",
+                    "deepseek-chat",
+                    "deepseek-r1",
+                    "gemini",
+                    "gptcelltype",
+                    "grok",
+                    "large-language-models",
+                    "llm",
+                    "openai",
+                    "openrouter",
+                    "qwen",
+                    "scanpy",
+                    "scrna",
+                    "seurat",
+                    "single-cell"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An iterative multi-LLM consensus framework for accurate cell type annotation in single-cell RNA-seq data",
+                    "ja": "単一細胞RNA-seqデータにおける正確な細胞タイプ注釈のための反復的なマルチLLMコンセンサスフレームワーク",
+                    "zh-hans": "一种迭代式多LLM共识框架，用于在单细胞RNA测序数据中准确标注细胞类型",
+                    "zh-hant": "一個迭代式的多LLM共識框架，用於在單細胞RNA-seq數據中準確標註細胞類型"
+                }
+            },
+            "https://github.com/aimlapi/api-docs": {
+                "repository_name": "api-docs",
+                "user_name": "aimlapi",
+                "language": "JavaScript",
+                "license": null,
+                "description": "AI/ML API Documentation Repo",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "AI/ML API Documentation Repository",
+                    "ja": "AI/ML API ドキュメントリポジトリ",
+                    "zh-hans": "AI/ML API文档存储库",
+                    "zh-hant": "AI/ML API 文件庫"
+                }
             }
         },
         "Langchain": {
@@ -34623,6 +34762,49 @@
                     "ja": "WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。",
                     "zh-hans": "WorkflowAI是一个开源平台，产品和工程团队可以合作构建和迭代人工智能功能。",
                     "zh-hant": "WorkflowAI 是一個開源平台，產品和工程團隊可以合作建立和迭代人工智能功能。"
+                }
+            },
+            "https://github.com/guy-hartstein/company-research-agent": {
+                "repository_name": "company-research-agent",
+                "user_name": "guy-hartstein",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "company",
+                    "financial-analysis",
+                    "gemini",
+                    "langchain",
+                    "langgraph-python",
+                    "multi-agent-systems",
+                    "openai",
+                    "python",
+                    "research",
+                    "tavily",
+                    "tavily-api",
+                    "tavily-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.",
+                    "ja": "LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。",
+                    "zh-hans": "由LangGraph和Tavily提供支持的一种主动公司研究工具，利用多代理框架对公司进行深入的尽职调查。它在后端利用谷歌的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。",
+                    "zh-hant": "由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。"
+                }
+            },
+            "https://github.com/beehiveinnovations/zen-mcp-server": {
+                "repository_name": "zen-mcp-server",
+                "user_name": "BeehiveInnovations",
+                "language": "Python",
+                "license": "Other",
+                "description": "The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.",
+                    "ja": "クロードコード+ [ジェミニ / オープンAI / グロック / オープンルーター / オラマ / カスタムモデル / 以上すべて] が一つとして機能する力。",
+                    "zh-hans": "克劳德代码 + [双子座 / OpenAI / Grok / OpenRouter / 奥拉玛 / 定制模型 / 以上所有] 联合运作的力量。",
+                    "zh-hant": "克勞德代碼 + [雙子座 / OpenAI / Grok / OpenRouter / Ollama / 自定義模型 / 以上所有] 聯合運作的力量。"
                 }
             }
         },
@@ -40467,6 +40649,30 @@
                     "ja": "✨AI✨の力で数字が偶数かどうかをチェックする",
                     "zh-hans": "检查一个数字是否是偶数，借助✨人工智能✨的力量",
                     "zh-hant": "檢查一個數字是否為偶數，利用✨人工智慧✨的力量"
+                }
+            },
+            "https://github.com/weibaohui/k8m": {
+                "repository_name": "k8m",
+                "user_name": "weibaohui",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。",
+                "topics": [
+                    "2fa",
+                    "ai",
+                    "chatgpt",
+                    "dashboard",
+                    "k8s",
+                    "k8s-gpt",
+                    "mcp",
+                    "ollama",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A lightweight, cross-platform Mini Kubernetes AI Dashboard that supports large models, intelligent agents, and MCP (supports setting operation permissions). It integrates multiple cluster management, intelligent analysis, real-time anomaly detection, and other functions. It supports multiple architectures and can be deployed as a single file, helping to improve efficient cluster management and operational optimization.",
+                    "ja": "軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。",
+                    "zh-hans": "一个轻量级、跨平台的迷你Kubernetes人工智能仪表盘，支持大型模型、智能体、MCP（支持设置操作权限），集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。",
+                    "zh-hant": "一款輕量級、跨平台的 Mini Kubernetes AI 儀表板，支持大模型+智能體+MCP(支持設置操作權限)，集成多集群管理、智能分析、實時異常檢測等功能，支持多架構並可單文件部署，助力高效集群管理與運維優化。"
                 }
             }
         },
