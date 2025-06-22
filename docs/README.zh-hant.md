@@ -18,29 +18,18 @@
 
 **Chatbots**
  * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
- * [atom](https://github.com/rush86999/atom) - 原子代理，您的個人助理，負責時間、任務、筆記和研究。
- * [Narratium.ai](https://github.com/narratium/narratium.ai) - 開源平台，用於AI驅動的故事敘述、世界建構和沉浸式角色扮演。
 
 
 **CLIs**
- * [wcgw](https://github.com/rusiaaman/wcgw) - 在克勞德桌面應用程式上的Shell和編碼代理
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - 街機Python SDK、CLI和工具包
 
 
 **NLP**
- * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 一個迭代式的多LLM共識框架，用於在單細胞RNA-seq數據中準確標註細胞類型
- * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API 文件庫
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一個可以比較每個人工智慧模型的網站 ✨
-
-
-**Langchain**
- * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
- * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - 克勞德代碼 + [雙子座 / OpenAI / Grok / OpenRouter / Ollama / 自定義模型 / 以上所有] 聯合運作的力量。
 
 
 **Openai**
  * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理人
- * [k8m](https://github.com/weibaohui/k8m) - 一款輕量級、跨平台的 Mini Kubernetes AI 儀表板，支持大模型+智能體+MCP(支持設置操作權限)，集成多集群管理、智能分析、實時異常檢測等功能，支持多架構並可單文件部署，助力高效集群管理與運維優化。
 
 
 _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
@@ -634,9 +623,9 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [sim](https://github.com/simstudioai/sim) - Sim Studio 是一個開源的人工智慧代理工作流程建立工具。Sim Studio 的界面是一種輕量級、直觀的方式，可以快速建立和部署與您喜愛的工具相連接的LLM。
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex 是一個優雅的LLM應用框架，類似於使用Java的LangChain。
  * [openai-agents-js](https://github.com/openai/openai-agents-js) - 一個輕量級、強大的框架，適用於多代理工作流程和語音代理。
- * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
  * [atom](https://github.com/rush86999/atom) - 原子代理，您的個人助理，負責時間、任務、筆記和研究。
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - 開源平台，用於AI驅動的故事敘述、世界建構和沉浸式角色扮演。
+ * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
 
 
 ## Browser-extensions
@@ -1848,8 +1837,8 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 用於建立強悍課程的平台
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - 與OpenAI的公共API互動的最完整的開源Swift套件。
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - 檢查一個數字是否為偶數，利用✨人工智慧✨的力量
- * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理人
  * [k8m](https://github.com/weibaohui/k8m) - 一款輕量級、跨平台的 Mini Kubernetes AI 儀表板，支持大模型+智能體+MCP(支持設置操作權限)，集成多集群管理、智能分析、實時異常檢測等功能，支持多架構並可單文件部署，助力高效集群管理與運維優化。
+ * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理人
 
 
 ## Others

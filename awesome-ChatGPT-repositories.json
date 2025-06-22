@@ -13888,27 +13888,6 @@
                     "zh-hant": "一個輕量級、強大的框架，適用於多代理工作流程和語音代理。"
                 }
             },
-            "https://github.com/itspecialist111/ai_automation_suggester": {
-                "repository_name": "ai_automation_suggester",
-                "user_name": "ITSpecialist111",
-                "language": "Python",
-                "license": "MIT License",
-                "description": "This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and more! The integration provides automation suggestions via HASS notifications",
-                "topics": [
-                    "ai",
-                    "automatic-suggestions",
-                    "automations",
-                    "builder-design-pattern",
-                    "home-assistant",
-                    "suggester"
-                ],
-                "multilingual_descriptions": {
-                    "en": "This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and",
-                    "ja": "このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。",
-                    "zh-hans": "这个定制的Home Assistant集成会自动扫描您的实体，检测新设备，并使用人工智能（通过云和本地API）来建议定制的自动化。它支持多个人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。",
-                    "zh-hant": "這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。"
-                }
-            },
             "https://github.com/rush86999/atom": {
                 "repository_name": "atom",
                 "user_name": "rush86999",
@@ -13967,6 +13946,27 @@
                     "ja": "AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム",
                     "zh-hans": "开源平台，用于基于人工智能的叙事、世界构建和沉浸式角色扮演。",
                     "zh-hant": "開源平台，用於AI驅動的故事敘述、世界建構和沉浸式角色扮演。"
+                }
+            },
+            "https://github.com/itspecialist111/ai_automation_suggester": {
+                "repository_name": "ai_automation_suggester",
+                "user_name": "ITSpecialist111",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and more! The integration provides automation suggestions via HASS notifications",
+                "topics": [
+                    "ai",
+                    "automatic-suggestions",
+                    "automations",
+                    "builder-design-pattern",
+                    "home-assistant",
+                    "suggester"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and",
+                    "ja": "このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。",
+                    "zh-hans": "这个定制的Home Assistant集成会自动扫描您的实体，检测新设备，并使用人工智能（通过云和本地API）来建议定制的自动化。它支持多个人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。",
+                    "zh-hant": "這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。"
                 }
             }
         },
@@ -40732,20 +40732,6 @@
                     "zh-hant": "檢查一個數字是否為偶數，利用✨人工智慧✨的力量"
                 }
             },
-            "https://github.com/dannymac180/meta-agent": {
-                "repository_name": "meta-agent",
-                "user_name": "DannyMac180",
-                "language": "Python",
-                "license": "MIT License",
-                "description": "An agent that uses OpenAI's Agents SDK to generate new agents",
-                "topics": [],
-                "multilingual_descriptions": {
-                    "en": "An agent that uses OpenAI's Agents SDK to generate new agents",
-                    "ja": "OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント",
-                    "zh-hans": "使用OpenAI的Agents SDK生成新代理的代理",
-                    "zh-hant": "使用OpenAI的Agents SDK生成新代理的代理人"
-                }
-            },
             "https://github.com/weibaohui/k8m": {
                 "repository_name": "k8m",
                 "user_name": "weibaohui",
@@ -40768,6 +40754,20 @@
                     "ja": "軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。",
                     "zh-hans": "一个轻量级、跨平台的迷你Kubernetes人工智能仪表盘，支持大型模型、智能体、MCP（支持设置操作权限），集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。",
                     "zh-hant": "一款輕量級、跨平台的 Mini Kubernetes AI 儀表板，支持大模型+智能體+MCP(支持設置操作權限)，集成多集群管理、智能分析、實時異常檢測等功能，支持多架構並可單文件部署，助力高效集群管理與運維優化。"
+                }
+            },
+            "https://github.com/dannymac180/meta-agent": {
+                "repository_name": "meta-agent",
+                "user_name": "DannyMac180",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "An agent that uses OpenAI's Agents SDK to generate new agents",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An agent that uses OpenAI's Agents SDK to generate new agents",
+                    "ja": "OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント",
+                    "zh-hans": "使用OpenAI的Agents SDK生成新代理的代理",
+                    "zh-hant": "使用OpenAI的Agents SDK生成新代理的代理人"
                 }
             }
         },
