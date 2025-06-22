@@ -17,17 +17,20 @@
 ## The latest additions 🎉
 
 **Chatbots**
+ * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。
  * [atom](https://github.com/rush86999/atom) - アトムエージェント、時間、タスク、メモ、研究のためのあなたの個人アシスタント
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム
 
 
 **CLIs**
  * [wcgw](https://github.com/rusiaaman/wcgw) - クロードデスクトップアプリのシェルとコーディングエージェント
+ * [arcade-ai](https://github.com/arcadeai/arcade-ai) - アーケードPython SDK、CLI、およびツールキット
 
 
 **NLP**
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 単一細胞RNA-seqデータにおける正確な細胞タイプ注釈のための反復的なマルチLLMコンセンサスフレームワーク
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API ドキュメントリポジトリ
+ * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 全てのAIモデルを比較できるウェブサイト ✨
 
 
 **Langchain**
@@ -36,10 +39,11 @@
 
 
 **Openai**
+ * [meta-agent](https://github.com/dannymac180/meta-agent) - OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント
  * [k8m](https://github.com/weibaohui/k8m) - 軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。
 
 
-_Updated on June 20, 2025_ (A total of 2153 repositories listed.)
+_Updated on June 23, 2025_ (A total of 2157 repositories listed.)
 
 ## Table of contents
 
@@ -630,6 +634,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [sim](https://github.com/simstudioai/sim) - Sim StudioはオープンソースのAIエージェントワークフロービルダーです。Sim Studioのインターフェースは、お気に入りのツールと連携するLLMを迅速に構築して展開するための軽量で直感的な方法です。
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flexは、Javaを使用したLangChainのようなエレガントなLLMアプリケーションフレームワークです。
  * [openai-agents-js](https://github.com/openai/openai-agents-js) - マルチエージェントワークフローと音声エージェント向けの軽量でパワフルなフレームワーク
+ * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。
  * [atom](https://github.com/rush86999/atom) - アトムエージェント、時間、タスク、メモ、研究のためのあなたの個人アシスタント
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム
 
@@ -1015,6 +1020,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [kilocode](https://github.com/kilo-org/kilocode) - 計画、構築、およびコードの修正のためのオープンソースAIコーディングアシスタント。私たちはRoo、Cline、および独自の機能のスーパーセットです。フォローしてください：kilocode.ai/social
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 小智、xiaozhi-serverをベースとしたAndroid、IOSの音声対話アプリケーションで、リアルタイムの音声対話とテキスト対話をサポートしています。現在はflutterバージョンで、IOSとAndroidを統合しています。皆さん、ぜひ手を動かして、星をクリックして、励ましをください。
  * [wcgw](https://github.com/rusiaaman/wcgw) - クロードデスクトップアプリのシェルとコーディングエージェント
+ * [arcade-ai](https://github.com/arcadeai/arcade-ai) - アーケードPython SDK、CLI、およびツールキット
 
 
 ## Reimplementations
@@ -1415,6 +1421,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 大規模モデル（DeepSeek、OpenAIなど）に基づいたGitLab自動コードレビューツール；DingTalk/企業WeChat/Feishuへのメッセージ送信と日報の生成をサポート；Dockerデプロイをサポート；可視化ダッシュボード。
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 単一細胞RNA-seqデータにおける正確な細胞タイプ注釈のための反復的なマルチLLMコンセンサスフレームワーク
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API ドキュメントリポジトリ
+ * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 全てのAIモデルを比較できるウェブサイト ✨
 
 
 ## Langchain
@@ -1841,6 +1848,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 バッドアスコースを構築するためのプラットフォーム
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - ✨AI✨の力で数字が偶数かどうかをチェックする
+ * [meta-agent](https://github.com/dannymac180/meta-agent) - OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント
  * [k8m](https://github.com/weibaohui/k8m) - 軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。
 
 

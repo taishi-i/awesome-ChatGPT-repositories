@@ -13888,6 +13888,27 @@
                     "zh-hant": "一個輕量級、強大的框架，適用於多代理工作流程和語音代理。"
                 }
             },
+            "https://github.com/itspecialist111/ai_automation_suggester": {
+                "repository_name": "ai_automation_suggester",
+                "user_name": "ITSpecialist111",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and more! The integration provides automation suggestions via HASS notifications",
+                "topics": [
+                    "ai",
+                    "automatic-suggestions",
+                    "automations",
+                    "builder-design-pattern",
+                    "home-assistant",
+                    "suggester"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and",
+                    "ja": "このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。",
+                    "zh-hans": "这个定制的Home Assistant集成会自动扫描您的实体，检测新设备，并使用人工智能（通过云和本地API）来建议定制的自动化。它支持多个人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。",
+                    "zh-hant": "這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。"
+                }
+            },
             "https://github.com/rush86999/atom": {
                 "repository_name": "atom",
                 "user_name": "rush86999",
@@ -22716,6 +22737,37 @@
                     "zh-hans": "克劳德桌面应用程序上的Shell和编码代理",
                     "zh-hant": "在克勞德桌面應用程式上的Shell和編碼代理"
                 }
+            },
+            "https://github.com/arcadeai/arcade-ai": {
+                "repository_name": "arcade-ai",
+                "user_name": "ArcadeAI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Arcade Python SDK, CLI, and toolkits",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "arcade",
+                    "arcade-ai",
+                    "artificial-intelligence",
+                    "langchain",
+                    "langgraph",
+                    "llm",
+                    "llm-tool-call",
+                    "llm-tools",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-servers",
+                    "mcp-tools",
+                    "openai",
+                    "toolcalling"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Arcade Python SDK, CLI, and toolkits",
+                    "ja": "アーケードPython SDK、CLI、およびツールキット",
+                    "zh-hans": "Arcade Python SDK、CLI和工具包",
+                    "zh-hant": "街機Python SDK、CLI和工具包"
+                }
             }
         },
         "Reimplementations": {
@@ -31271,6 +31323,35 @@
                     "ja": "AI/ML API ドキュメントリポジトリ",
                     "zh-hans": "AI/ML API文档存储库",
                     "zh-hant": "AI/ML API 文件庫"
+                }
+            },
+            "https://github.com/ahmet-dedeler/ai-llm-comparison": {
+                "repository_name": "ai-llm-comparison",
+                "user_name": "Ahmet-Dedeler",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A website where you can compare every AI Model ✨",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "collaborate",
+                    "cursor",
+                    "github",
+                    "learn",
+                    "litellm",
+                    "llm",
+                    "nextjs14",
+                    "shadcn-ui",
+                    "supabase",
+                    "supabase-functions",
+                    "typescript",
+                    "v0"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A website where you can compare every AI Model ✨",
+                    "ja": "全てのAIモデルを比較できるウェブサイト ✨",
+                    "zh-hans": "一个可以比较每个人工智能模型的网站 ✨",
+                    "zh-hant": "一個可以比較每個人工智慧模型的網站 ✨"
                 }
             }
         },
@@ -40649,6 +40730,20 @@
                     "ja": "✨AI✨の力で数字が偶数かどうかをチェックする",
                     "zh-hans": "检查一个数字是否是偶数，借助✨人工智能✨的力量",
                     "zh-hant": "檢查一個數字是否為偶數，利用✨人工智慧✨的力量"
+                }
+            },
+            "https://github.com/dannymac180/meta-agent": {
+                "repository_name": "meta-agent",
+                "user_name": "DannyMac180",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "An agent that uses OpenAI's Agents SDK to generate new agents",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An agent that uses OpenAI's Agents SDK to generate new agents",
+                    "ja": "OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント",
+                    "zh-hans": "使用OpenAI的Agents SDK生成新代理的代理",
+                    "zh-hant": "使用OpenAI的Agents SDK生成新代理的代理人"
                 }
             },
             "https://github.com/weibaohui/k8m": {
