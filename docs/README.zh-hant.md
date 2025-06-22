@@ -17,17 +17,20 @@
 ## The latest additions 🎉
 
 **Chatbots**
+ * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
  * [atom](https://github.com/rush86999/atom) - 原子代理，您的個人助理，負責時間、任務、筆記和研究。
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - 開源平台，用於AI驅動的故事敘述、世界建構和沉浸式角色扮演。
 
 
 **CLIs**
  * [wcgw](https://github.com/rusiaaman/wcgw) - 在克勞德桌面應用程式上的Shell和編碼代理
+ * [arcade-ai](https://github.com/arcadeai/arcade-ai) - 街機Python SDK、CLI和工具包
 
 
 **NLP**
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 一個迭代式的多LLM共識框架，用於在單細胞RNA-seq數據中準確標註細胞類型
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API 文件庫
+ * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一個可以比較每個人工智慧模型的網站 ✨
 
 
 **Langchain**
@@ -36,10 +39,11 @@
 
 
 **Openai**
+ * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理人
  * [k8m](https://github.com/weibaohui/k8m) - 一款輕量級、跨平台的 Mini Kubernetes AI 儀表板，支持大模型+智能體+MCP(支持設置操作權限)，集成多集群管理、智能分析、實時異常檢測等功能，支持多架構並可單文件部署，助力高效集群管理與運維優化。
 
 
-_Updated on June 20, 2025_ (A total of 2153 repositories listed.)
+_Updated on June 23, 2025_ (A total of 2157 repositories listed.)
 
 ## Table of contents
 
@@ -630,6 +634,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [sim](https://github.com/simstudioai/sim) - Sim Studio 是一個開源的人工智慧代理工作流程建立工具。Sim Studio 的界面是一種輕量級、直觀的方式，可以快速建立和部署與您喜愛的工具相連接的LLM。
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex 是一個優雅的LLM應用框架，類似於使用Java的LangChain。
  * [openai-agents-js](https://github.com/openai/openai-agents-js) - 一個輕量級、強大的框架，適用於多代理工作流程和語音代理。
+ * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
  * [atom](https://github.com/rush86999/atom) - 原子代理，您的個人助理，負責時間、任務、筆記和研究。
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - 開源平台，用於AI驅動的故事敘述、世界建構和沉浸式角色扮演。
 
@@ -1015,6 +1020,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [kilocode](https://github.com/kilo-org/kilocode) - 開源人工智慧編碼助手，用於規劃、構建和修復代碼。我們是Roo、Cline和我們自己功能的超集。關注我們：kilocode.ai/social
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一個基於小智、xiaozhi-server的Android、IOS語音對話應用，支持實時語音交互和文字對話。現在是flutter版本，打通IOS、Android端。請同志們動動小手，點點小星星，予以鼓勵。
  * [wcgw](https://github.com/rusiaaman/wcgw) - 在克勞德桌面應用程式上的Shell和編碼代理
+ * [arcade-ai](https://github.com/arcadeai/arcade-ai) - 街機Python SDK、CLI和工具包
 
 
 ## Reimplementations
@@ -1415,6 +1421,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基於大型模型（DeepSeek、OpenAI等）的 GitLab 自動程式碼審查工具；支援釘釘/企業微信/飛書推送訊息和生成日報；支援Docker部署；可視化儀表板。
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 一個迭代式的多LLM共識框架，用於在單細胞RNA-seq數據中準確標註細胞類型
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API 文件庫
+ * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一個可以比較每個人工智慧模型的網站 ✨
 
 
 ## Langchain
@@ -1841,6 +1848,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 用於建立強悍課程的平台
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - 與OpenAI的公共API互動的最完整的開源Swift套件。
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - 檢查一個數字是否為偶數，利用✨人工智慧✨的力量
+ * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理人
  * [k8m](https://github.com/weibaohui/k8m) - 一款輕量級、跨平台的 Mini Kubernetes AI 儀表板，支持大模型+智能體+MCP(支持設置操作權限)，集成多集群管理、智能分析、實時異常檢測等功能，支持多架構並可單文件部署，助力高效集群管理與運維優化。
 
 

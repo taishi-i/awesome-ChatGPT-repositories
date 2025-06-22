@@ -17,17 +17,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
+ * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and more! The integration provides automation suggestions via HASS notifications
  * [atom](https://github.com/rush86999/atom) - Atom Agent, your personal assistant for time, tasks, notes and research
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
 
 
 **CLIs**
  * [wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on claude desktop app
+ * [arcade-ai](https://github.com/arcadeai/arcade-ai) - Arcade Python SDK, CLI, and toolkits
 
 
 **NLP**
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - An iterative multi-LLM consensus framework for accurate cell type annotation in single-cell RNA-seq data
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API Documentation Repo
+ * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
 
 
 **Langchain**
@@ -36,10 +39,11 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 
 **Openai**
+ * [meta-agent](https://github.com/dannymac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
  * [k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
 
-_Updated on June 20, 2025_ (A total of 2153 repositories listed.)
+_Updated on June 23, 2025_ (A total of 2157 repositories listed.)
 
 ## Table of contents
 
@@ -630,6 +634,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
  * [agents-flex](https://github.com/agents-flex/agents-flex) - Agents-Flex is an elegant LLM Application Framework like LangChain with Java.
  * [openai-agents-js](https://github.com/openai/openai-agents-js) - A lightweight, powerful framework for multi-agent workflows and voice agents
+ * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and more! The integration provides automation suggestions via HASS notifications
  * [atom](https://github.com/rush86999/atom) - Atom Agent, your personal assistant for time, tasks, notes and research
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
 
@@ -1015,6 +1020,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [kilocode](https://github.com/kilo-org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一个基于小智、xiaozhi-server的Android、IOS语音对话应用,支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
  * [wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on claude desktop app
+ * [arcade-ai](https://github.com/arcadeai/arcade-ai) - Arcade Python SDK, CLI, and toolkits
 
 
 ## Reimplementations
@@ -1415,6 +1421,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - 基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - An iterative multi-LLM consensus framework for accurate cell type annotation in single-cell RNA-seq data
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API Documentation Repo
+ * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
 
 
 ## Langchain
@@ -1841,6 +1848,7 @@ _Updated on June 20, 2025_ (A total of 2153 repositories listed.)
  * [course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
  * [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - The most complete open-source Swift package for interacting with OpenAI's public API.
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - Check if a number is even with the power of ✨AI✨
+ * [meta-agent](https://github.com/dannymac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
  * [k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 
 
