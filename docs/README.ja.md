@@ -16,23 +16,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。
+**Browser-extensions**
+ * [mcp-unity](https://github.com/codergamester/mcp-unity) - UnityエディターとModel Context Protocol（MCP）を統合するためのUnityプラグイン- AI支援開発とOpenAI、Gemini、Claudeの相互運用性を目的として設計されています。
 
 
 **CLIs**
- * [arcade-ai](https://github.com/arcadeai/arcade-ai) - アーケードPython SDK、CLI、およびツールキット
+ * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AIクライアント（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere、...）
 
 
 **NLP**
- * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 全てのAIモデルを比較できるウェブサイト ✨
+ * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - あなたの思い出はChatGPTにあります... しかし他のどこにもありません。Universal Memory MCPはあなたの思い出をすべてのLLMに利用可能にします。ログインや有料壁はありません。セットアップするための1つのコマンドだけです。
 
 
 **Openai**
- * [meta-agent](https://github.com/dannymac180/meta-agent) - OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント
+ * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-tritonには、JAXとOpenAI Tritonの統合が含まれています。
 
 
-_Updated on June 23, 2025_ (A total of 2157 repositories listed.)
+_Updated on June 26, 2025_ (A total of 2161 repositories listed.)
 
 ## Table of contents
 
@@ -848,6 +848,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AIブラウザ拡張機能＆ユーザースクリプトで、Web体験を向上させます
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - このリアルタイム字幕翻訳プラグインは、OpenAIのChatGPT API（または同じAPI呼び出し方法を持つモデル）をPotPlayerに統合します。これにより、ビデオを視聴しながら字幕をリアルタイムで翻訳することができ、言語の壁を取り除き、視聴体験を向上させることができます。
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Meta Glasses用のHacky Messengerブラウザ拡張機能＆API。"Hey Meta、ChatGPTにメッセージを送信してください"
+ * [mcp-unity](https://github.com/codergamester/mcp-unity) - UnityエディターとModel Context Protocol（MCP）を統合するためのUnityプラグイン- AI支援開発とOpenAI、Gemini、Claudeの相互運用性を目的として設計されています。
 
 
 ## CLIs
@@ -1010,6 +1011,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 小智、xiaozhi-serverをベースとしたAndroid、IOSの音声対話アプリケーションで、リアルタイムの音声対話とテキスト対話をサポートしています。現在はflutterバージョンで、IOSとAndroidを統合しています。皆さん、ぜひ手を動かして、星をクリックして、励ましをください。
  * [wcgw](https://github.com/rusiaaman/wcgw) - クロードデスクトップアプリのシェルとコーディングエージェント
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - アーケードPython SDK、CLI、およびツールキット
+ * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AIクライアント（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere、...）
 
 
 ## Reimplementations
@@ -1411,6 +1413,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 単一細胞RNA-seqデータにおける正確な細胞タイプ注釈のための反復的なマルチLLMコンセンサスフレームワーク
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API ドキュメントリポジトリ
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 全てのAIモデルを比較できるウェブサイト ✨
+ * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - あなたの思い出はChatGPTにあります... しかし他のどこにもありません。Universal Memory MCPはあなたの思い出をすべてのLLMに利用可能にします。ログインや有料壁はありません。セットアップするための1つのコマンドだけです。
 
 
 ## Langchain
@@ -1839,6 +1842,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - ✨AI✨の力で数字が偶数かどうかをチェックする
  * [k8m](https://github.com/weibaohui/k8m) - 軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。
  * [meta-agent](https://github.com/dannymac180/meta-agent) - OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント
+ * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-tritonには、JAXとOpenAI Tritonの統合が含まれています。
 
 
 ## Others
