@@ -19055,6 +19055,36 @@
                     "zh-hans": "麦 - 适用于Meta眼镜的Hacky Messenger浏览器扩展和API。\"嘿Meta，给ChatGPT发送一条消息\"",
                     "zh-hant": "買 - Hacky Messenger 瀏覽器擴展和 Meta 眼鏡的 API。\"嘿 Meta，發送消息給 ChatGPT\""
                 }
+            },
+            "https://github.com/codergamester/mcp-unity": {
+                "repository_name": "mcp-unity",
+                "user_name": "CoderGamester",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability",
+                "topics": [
+                    "ai",
+                    "claude",
+                    "copilot",
+                    "cursor",
+                    "game-development",
+                    "gemini",
+                    "llm",
+                    "mcp",
+                    "model-context-protocol",
+                    "openai",
+                    "typescript",
+                    "unity",
+                    "unity-package",
+                    "unity3d",
+                    "windsurf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability",
+                    "ja": "UnityエディターとModel Context Protocol（MCP）を統合するためのUnityプラグイン- AI支援開発とOpenAI、Gemini、Claudeの相互運用性を目的として設計されています。",
+                    "zh-hans": "用于将模型上下文协议（MCP）与Unity编辑器集成的Unity插件 - 旨在支持AI辅助开发和OpenAI，Gemini和Claude的互操作性",
+                    "zh-hant": "將Model Context Protocol（MCP）與Unity Editor集成的Unity插件-設計用於AI輔助開發和OpenAI、Gemini和Claude的互操作性"
+                }
             }
         },
         "CLIs": {
@@ -22767,6 +22797,20 @@
                     "ja": "アーケードPython SDK、CLI、およびツールキット",
                     "zh-hans": "Arcade Python SDK、CLI和工具包",
                     "zh-hant": "街機Python SDK、CLI和工具包"
+                }
+            },
+            "https://github.com/jeremychone/rust-genai": {
+                "repository_name": "rust-genai",
+                "user_name": "jeremychone",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)",
+                    "ja": "Rust multiprovider generative AIクライアント（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere、...）",
+                    "zh-hans": "Rust多提供者生成式AI客户端（Ollama，OpenAi，Anthropic，Gemini，DeepSeek，xAI/Grok，Groq，Cohere，...）",
+                    "zh-hant": "請將以下內容翻譯為繁體中文。Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）"
                 }
             }
         },
@@ -31352,6 +31396,23 @@
                     "ja": "全てのAIモデルを比較できるウェブサイト ✨",
                     "zh-hans": "一个可以比较每个人工智能模型的网站 ✨",
                     "zh-hant": "一個可以比較每個人工智慧模型的網站 ✨"
+                }
+            },
+            "https://github.com/supermemoryai/supermemory-mcp": {
+                "repository_name": "supermemory-mcp",
+                "user_name": "supermemoryai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.",
+                "topics": [
+                    "cloudflare",
+                    "mcp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.",
+                    "ja": "あなたの思い出はChatGPTにあります... しかし他のどこにもありません。Universal Memory MCPはあなたの思い出をすべてのLLMに利用可能にします。ログインや有料壁はありません。セットアップするための1つのコマンドだけです。",
+                    "zh-hans": "您的记忆存储在ChatGPT中...但其他地方没有。通用记忆MCP使您的记忆可供每个LLM使用。无需登录或付费墙。只需一个命令即可设置。",
+                    "zh-hant": "您的記憶存在於ChatGPT中...但其他地方沒有。通用記憶MCP使您的記憶可供每個LLM訪問。無需登錄或付費。一個命令即可設置。"
                 }
             }
         },
@@ -40768,6 +40829,20 @@
                     "ja": "OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント",
                     "zh-hans": "使用OpenAI的Agents SDK生成新代理的代理",
                     "zh-hant": "使用OpenAI的Agents SDK生成新代理的代理人"
+                }
+            },
+            "https://github.com/jax-ml/jax-triton": {
+                "repository_name": "jax-triton",
+                "user_name": "jax-ml",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "jax-triton contains integrations between JAX and OpenAI Triton",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "jax-triton contains integrations between JAX and OpenAI Triton",
+                    "ja": "jax-tritonには、JAXとOpenAI Tritonの統合が含まれています。",
+                    "zh-hans": "jax-triton包含了JAX和OpenAI Triton之间的集成。",
+                    "zh-hant": "jax-triton 包含了 JAX 和 OpenAI Triton 之間的整合。"
                 }
             }
         },

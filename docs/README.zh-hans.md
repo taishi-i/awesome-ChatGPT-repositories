@@ -16,23 +16,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 这个定制的Home Assistant集成会自动扫描您的实体，检测新设备，并使用人工智能（通过云和本地API）来建议定制的自动化。它支持多个人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
+**Browser-extensions**
+ * [mcp-unity](https://github.com/codergamester/mcp-unity) - 用于将模型上下文协议（MCP）与Unity编辑器集成的Unity插件 - 旨在支持AI辅助开发和OpenAI，Gemini和Claude的互操作性
 
 
 **CLIs**
- * [arcade-ai](https://github.com/arcadeai/arcade-ai) - Arcade Python SDK、CLI和工具包
+ * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust多提供者生成式AI客户端（Ollama，OpenAi，Anthropic，Gemini，DeepSeek，xAI/Grok，Groq，Cohere，...）
 
 
 **NLP**
- * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一个可以比较每个人工智能模型的网站 ✨
+ * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的记忆存储在ChatGPT中...但其他地方没有。通用记忆MCP使您的记忆可供每个LLM使用。无需登录或付费墙。只需一个命令即可设置。
 
 
 **Openai**
- * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理
+ * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton包含了JAX和OpenAI Triton之间的集成。
 
 
-_Updated on June 23, 2025_ (A total of 2157 repositories listed.)
+_Updated on June 26, 2025_ (A total of 2161 repositories listed.)
 
 ## Table of contents
 
@@ -848,6 +848,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI 浏览器扩展和用户脚本，增强您的网络体验
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - 麦 - 适用于Meta眼镜的Hacky Messenger浏览器扩展和API。"嘿Meta，给ChatGPT发送一条消息"
+ * [mcp-unity](https://github.com/codergamester/mcp-unity) - 用于将模型上下文协议（MCP）与Unity编辑器集成的Unity插件 - 旨在支持AI辅助开发和OpenAI，Gemini和Claude的互操作性
 
 
 ## CLIs
@@ -1010,6 +1011,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一个基于小智、xiaozhi-server的Android、IOS语音对话应用，支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
  * [wcgw](https://github.com/rusiaaman/wcgw) - 克劳德桌面应用程序上的Shell和编码代理
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - Arcade Python SDK、CLI和工具包
+ * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust多提供者生成式AI客户端（Ollama，OpenAi，Anthropic，Gemini，DeepSeek，xAI/Grok，Groq，Cohere，...）
 
 
 ## Reimplementations
@@ -1411,6 +1413,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 一种迭代式多LLM共识框架，用于在单细胞RNA测序数据中准确标注细胞类型
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API文档存储库
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一个可以比较每个人工智能模型的网站 ✨
+ * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的记忆存储在ChatGPT中...但其他地方没有。通用记忆MCP使您的记忆可供每个LLM使用。无需登录或付费墙。只需一个命令即可设置。
 
 
 ## Langchain
@@ -1839,6 +1842,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - 检查一个数字是否是偶数，借助✨人工智能✨的力量
  * [k8m](https://github.com/weibaohui/k8m) - 一个轻量级、跨平台的迷你Kubernetes人工智能仪表盘，支持大型模型、智能体、MCP（支持设置操作权限），集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
  * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理
+ * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton包含了JAX和OpenAI Triton之间的集成。
 
 
 ## Others

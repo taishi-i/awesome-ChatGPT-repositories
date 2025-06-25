@@ -16,23 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and
+**Browser-extensions**
+ * [mcp-unity](https://github.com/codergamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
 
 
 **CLIs**
- * [arcade-ai](https://github.com/arcadeai/arcade-ai) - Arcade Python SDK, CLI, and toolkits
+ * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)
 
 
 **NLP**
- * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
+ * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 
 
 **Openai**
- * [meta-agent](https://github.com/dannymac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
+ * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton contains integrations between JAX and OpenAI Triton
 
 
-_Updated on June 23, 2025_ (A total of 2157 repositories listed.)
+_Updated on June 26, 2025_ (A total of 2161 repositories listed.)
 
 ## Table of contents
 
@@ -848,6 +848,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI browser extensions & userscripts to augment your web experience
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Hacky Messenger browser extension & API for the Meta Glasses. "Hey Meta send a message to ChatGPT"
+ * [mcp-unity](https://github.com/codergamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
 
 
 ## CLIs
@@ -1010,6 +1011,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - An Android and IOS voice conversation application based on Xiaozhi and xiaozhi-server, supporting real-time voice interaction and text conversation. It is now in the Flutter version, connecting IOS and Android. Comrades, please give it a try and encourage it by giving it a little star.
  * [wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on claude desktop app
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - Arcade Python SDK, CLI, and toolkits
+ * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)
 
 
 ## Reimplementations
@@ -1411,6 +1413,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - An iterative multi-LLM consensus framework for accurate cell type annotation in single-cell RNA-seq data
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API Documentation Repository
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
+ * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 
 
 ## Langchain
@@ -1839,6 +1842,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - Check if a number is even with the power of ✨AI✨
  * [k8m](https://github.com/weibaohui/k8m) - A lightweight, cross-platform Mini Kubernetes AI Dashboard that supports large models, intelligent agents, and MCP (supports setting operation permissions). It integrates multiple cluster management, intelligent analysis, real-time anomaly detection, and other functions. It supports multiple architectures and can be deployed as a single file, helping to improve efficient cluster management and operational optimization.
  * [meta-agent](https://github.com/dannymac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
+ * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton contains integrations between JAX and OpenAI Triton
 
 
 ## Others

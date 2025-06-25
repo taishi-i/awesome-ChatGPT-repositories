@@ -16,23 +16,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
+**Browser-extensions**
+ * [mcp-unity](https://github.com/codergamester/mcp-unity) - 將Model Context Protocol（MCP）與Unity Editor集成的Unity插件-設計用於AI輔助開發和OpenAI、Gemini和Claude的互操作性
 
 
 **CLIs**
- * [arcade-ai](https://github.com/arcadeai/arcade-ai) - 街機Python SDK、CLI和工具包
+ * [rust-genai](https://github.com/jeremychone/rust-genai) - 請將以下內容翻譯為繁體中文。Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）
 
 
 **NLP**
- * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一個可以比較每個人工智慧模型的網站 ✨
+ * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的記憶存在於ChatGPT中...但其他地方沒有。通用記憶MCP使您的記憶可供每個LLM訪問。無需登錄或付費。一個命令即可設置。
 
 
 **Openai**
- * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理人
+ * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton 包含了 JAX 和 OpenAI Triton 之間的整合。
 
 
-_Updated on June 23, 2025_ (A total of 2157 repositories listed.)
+_Updated on June 26, 2025_ (A total of 2161 repositories listed.)
 
 ## Table of contents
 
@@ -848,6 +848,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - 🤖 AI 瀏覽器擴展和用戶腳本，增強您的網頁體驗
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 這個即時字幕翻譯插件將OpenAI的ChatGPT API（或任何具有相同API調用方法的模型）集成到PotPlayer中。它使你在觀看視頻時能夠即時翻譯字幕，從而打破語言障礙，提升你的觀看體驗。
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - 買 - Hacky Messenger 瀏覽器擴展和 Meta 眼鏡的 API。"嘿 Meta，發送消息給 ChatGPT"
+ * [mcp-unity](https://github.com/codergamester/mcp-unity) - 將Model Context Protocol（MCP）與Unity Editor集成的Unity插件-設計用於AI輔助開發和OpenAI、Gemini和Claude的互操作性
 
 
 ## CLIs
@@ -1010,6 +1011,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - 一個基於小智、xiaozhi-server的Android、IOS語音對話應用，支持實時語音交互和文字對話。現在是flutter版本，打通IOS、Android端。請同志們動動小手，點點小星星，予以鼓勵。
  * [wcgw](https://github.com/rusiaaman/wcgw) - 在克勞德桌面應用程式上的Shell和編碼代理
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - 街機Python SDK、CLI和工具包
+ * [rust-genai](https://github.com/jeremychone/rust-genai) - 請將以下內容翻譯為繁體中文。Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）
 
 
 ## Reimplementations
@@ -1411,6 +1413,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - 一個迭代式的多LLM共識框架，用於在單細胞RNA-seq數據中準確標註細胞類型
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API 文件庫
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一個可以比較每個人工智慧模型的網站 ✨
+ * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的記憶存在於ChatGPT中...但其他地方沒有。通用記憶MCP使您的記憶可供每個LLM訪問。無需登錄或付費。一個命令即可設置。
 
 
 ## Langchain
@@ -1839,6 +1842,7 @@ _Updated on June 23, 2025_ (A total of 2157 repositories listed.)
  * [is-even-ai](https://github.com/calvin-ll/is-even-ai) - 檢查一個數字是否為偶數，利用✨人工智慧✨的力量
  * [k8m](https://github.com/weibaohui/k8m) - 一款輕量級、跨平台的 Mini Kubernetes AI 儀表板，支持大模型+智能體+MCP(支持設置操作權限)，集成多集群管理、智能分析、實時異常檢測等功能，支持多架構並可單文件部署，助力高效集群管理與運維優化。
  * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理人
+ * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton 包含了 JAX 和 OpenAI Triton 之間的整合。
 
 
 ## Others
