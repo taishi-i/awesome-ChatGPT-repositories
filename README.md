@@ -16,23 +16,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [just-prompt](https://github.com/disler/just-prompt) - just-prompt is an MCP server that provides a unified interface to top LLM providers (OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama)
+ * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+
+
+**Chatbots**
+ * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
+
+
 **Browser-extensions**
- * [mcp-unity](https://github.com/codergamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
-
-
-**CLIs**
- * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)
-
-
-**NLP**
- * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
+ * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "Hey Meta send a message to ChatGPT" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses :eyeglasses:
 
 
 **Openai**
- * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton contains integrations between JAX and OpenAI Triton
+ * [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.
+ * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - OpenAI-compatible API server for Apple on-device models
+ * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 
-_Updated on June 26, 2025_ (A total of 2161 repositories listed.)
+_Updated on June 30, 2025_ (A total of 2168 repositories listed.)
 
 ## Table of contents
 
@@ -298,6 +301,8 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - A free guide for learning to create ChatGPT3 Prompts
  * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
  * [fellow](https://github.com/manuelzierl/fellow) - Fellow is a command-line interface (CLI) tool that acts as an autonomous software engineering assistant. It uses the OpenAI API to perform various structured tasks by reasoning step-by-step, executing commands, and maintaining a log of its activities.
+ * [just-prompt](https://github.com/disler/just-prompt) - just-prompt is an MCP server that provides a unified interface to top LLM providers (OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama)
+ * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
 
 
 ## Chatbots
@@ -626,6 +631,7 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [atom](https://github.com/rush86999/atom) - Atom Agent, your personal assistant for time, tasks, notes and research
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
  * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and more! The integration provides automation suggestions via HASS notifications
+ * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
 
 
 ## Browser-extensions
@@ -849,6 +855,7 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。 This real-time subtitle translation plugin integrates OpenAI's ChatGPT API (or any model with the same API calling method) into PotPlayer. It enables you to translate subtitles on-the-fly while watching videos.
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Hacky Messenger browser extension & API for the Meta Glasses. "Hey Meta send a message to ChatGPT"
  * [mcp-unity](https://github.com/codergamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
+ * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "Hey Meta send a message to ChatGPT" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses :eyeglasses:
 
 
 ## CLIs
@@ -1843,6 +1850,9 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
  * [meta-agent](https://github.com/dannymac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
  * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton contains integrations between JAX and OpenAI Triton
+ * [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.
+ * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - OpenAI-compatible API server for Apple on-device models
+ * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 
 ## Others

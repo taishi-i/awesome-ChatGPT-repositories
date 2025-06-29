@@ -16,23 +16,26 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [just-prompt](https://github.com/disler/just-prompt) - just-promptは、トップのLLMプロバイダ（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek、Ollama）に統一されたインターフェースを提供するMCPサーバーです。
+ * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+
+
+**Chatbots**
+ * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFMは、OpenAIのTTSサービスをミラーリングし、複数の音声オプションを備えたテキスト読み上げ変換のための互換性のあるインターフェースを無料で提供しています。
+
+
 **Browser-extensions**
- * [mcp-unity](https://github.com/codergamester/mcp-unity) - UnityエディターとModel Context Protocol（MCP）を統合するためのUnityプラグイン- AI支援開発とOpenAI、Gemini、Claudeの相互運用性を目的として設計されています。
-
-
-**CLIs**
- * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AIクライアント（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere、...）
-
-
-**NLP**
- * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - あなたの思い出はChatGPTにあります... しかし他のどこにもありません。Universal Memory MCPはあなたの思い出をすべてのLLMに利用可能にします。ログインや有料壁はありません。セットアップするための1つのコマンドだけです。
+ * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - 入力: "メタ、ChatGPTにメッセージを送って" Mai: Meta Glasses用のHacky Messengerブラウザ拡張機能＆疑似API :eyeglasses:
 
 
 **Openai**
- * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-tritonには、JAXとOpenAI Tritonの統合が含まれています。
+ * [gpt-load](https://github.com/tbphp/gpt-load) - Go言語で開発された、マルチキーのローテーションと負荷分散をサポートする高性能なOpenAI互換APIプロキシサーバー。
+ * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - Appleのオンデバイスモデルに対応したOpenAI互換のAPIサーバー
+ * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ 複雑な侵入テストタスクを実行できる完全自律型AIエージェントシステム
 
 
-_Updated on June 26, 2025_ (A total of 2161 repositories listed.)
+_Updated on June 30, 2025_ (A total of 2168 repositories listed.)
 
 ## Table of contents
 
@@ -298,6 +301,8 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - ChatGPT3プロンプトの作成方法を学ぶための無料ガイド
  * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクションChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクション
  * [fellow](https://github.com/manuelzierl/fellow) - Fellowは、自律型ソフトウェアエンジニアリングアシスタントとして機能するコマンドラインインターフェース（CLI）ツールです。Fellowは、ステップバイステップの推論、コマンドの実行、および活動のログの維持によって、さまざまな構造化されたタスクを実行するためにOpenAI APIを使用します。
+ * [just-prompt](https://github.com/disler/just-prompt) - just-promptは、トップのLLMプロバイダ（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek、Ollama）に統一されたインターフェースを提供するMCPサーバーです。
+ * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
 
 
 ## Chatbots
@@ -626,6 +631,7 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [atom](https://github.com/rush86999/atom) - アトムエージェント、時間、タスク、メモ、研究のためのあなたの個人アシスタント
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム
  * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。
+ * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFMは、OpenAIのTTSサービスをミラーリングし、複数の音声オプションを備えたテキスト読み上げ変換のための互換性のあるインターフェースを無料で提供しています。
 
 
 ## Browser-extensions
@@ -849,6 +855,7 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - このリアルタイム字幕翻訳プラグインは、OpenAIのChatGPT API（または同じAPI呼び出し方法を持つモデル）をPotPlayerに統合します。これにより、ビデオを視聴しながら字幕をリアルタイムで翻訳することができ、言語の壁を取り除き、視聴体験を向上させることができます。
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Meta Glasses用のHacky Messengerブラウザ拡張機能＆API。"Hey Meta、ChatGPTにメッセージを送信してください"
  * [mcp-unity](https://github.com/codergamester/mcp-unity) - UnityエディターとModel Context Protocol（MCP）を統合するためのUnityプラグイン- AI支援開発とOpenAI、Gemini、Claudeの相互運用性を目的として設計されています。
+ * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - 入力: "メタ、ChatGPTにメッセージを送って" Mai: Meta Glasses用のHacky Messengerブラウザ拡張機能＆疑似API :eyeglasses:
 
 
 ## CLIs
@@ -1843,6 +1850,9 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [k8m](https://github.com/weibaohui/k8m) - 軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。
  * [meta-agent](https://github.com/dannymac180/meta-agent) - OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント
  * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-tritonには、JAXとOpenAI Tritonの統合が含まれています。
+ * [gpt-load](https://github.com/tbphp/gpt-load) - Go言語で開発された、マルチキーのローテーションと負荷分散をサポートする高性能なOpenAI互換APIプロキシサーバー。
+ * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - Appleのオンデバイスモデルに対応したOpenAI互換のAPIサーバー
+ * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ 複雑な侵入テストタスクを実行できる完全自律型AIエージェントシステム
 
 
 ## Others

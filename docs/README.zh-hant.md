@@ -16,23 +16,26 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [just-prompt](https://github.com/disler/just-prompt) - just-prompt 是一個 MCP 伺服器，為頂尖的 LLM 提供者（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek 和 Ollama）提供統一的介面。
+ * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPT和Copilot等各種生成AI用的“日本語”的Prompt的範例ChatGPT和Copilot等各種生成AI用的「日本語」的Prompt的範例
+
+
+**Chatbots**
+ * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM鏡像OpenAI的TTS服務，提供兼容的界面，可免費轉換文本到語音並提供多種聲音選擇。
+
+
 **Browser-extensions**
- * [mcp-unity](https://github.com/codergamester/mcp-unity) - 將Model Context Protocol（MCP）與Unity Editor集成的Unity插件-設計用於AI輔助開發和OpenAI、Gemini和Claude的互操作性
-
-
-**CLIs**
- * [rust-genai](https://github.com/jeremychone/rust-genai) - 請將以下內容翻譯為繁體中文。Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）
-
-
-**NLP**
- * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的記憶存在於ChatGPT中...但其他地方沒有。通用記憶MCP使您的記憶可供每個LLM訪問。無需登錄或付費。一個命令即可設置。
+ * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "嘿Meta，給ChatGPT發送消息" Mai：一個用於Meta眼鏡的Hacky Messenger瀏覽器擴展和虛擬API :eyeglasses:
 
 
 **Openai**
- * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton 包含了 JAX 和 OpenAI Triton 之間的整合。
+ * [gpt-load](https://github.com/tbphp/gpt-load) - 一個高性能的OpenAI格式API多密鑰輪詢代理伺服器，支持負載均衡，使用 Go 語言開發。
+ * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - 適用於蘋果設備模型的OpenAI兼容API伺服器
+ * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ 全自主AI代理系統能夠執行複雜的滲透測試任務
 
 
-_Updated on June 26, 2025_ (A total of 2161 repositories listed.)
+_Updated on June 30, 2025_ (A total of 2168 repositories listed.)
 
 ## Table of contents
 
@@ -298,6 +301,8 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - 一份免費指南，教你如何創建ChatGPT3提示
  * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - 從流行的聊天機器人（如ChatGPT、Claude和Gemini）中提取的系統提示集合收集自ChatGPT、Claude和Gemini等流行聊天機器人的系統提示
  * [fellow](https://github.com/manuelzierl/fellow) - Fellow 是一個命令行界面（CLI）工具，作為一個自主的軟件工程助手。它使用 OpenAI API 進行各種結構化任務，通過逐步推理、執行命令並記錄活動日誌。
+ * [just-prompt](https://github.com/disler/just-prompt) - just-prompt 是一個 MCP 伺服器，為頂尖的 LLM 提供者（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek 和 Ollama）提供統一的介面。
+ * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPT和Copilot等各種生成AI用的“日本語”的Prompt的範例ChatGPT和Copilot等各種生成AI用的「日本語」的Prompt的範例
 
 
 ## Chatbots
@@ -626,6 +631,7 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [atom](https://github.com/rush86999/atom) - 原子代理，您的個人助理，負責時間、任務、筆記和研究。
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - 開源平台，用於AI驅動的故事敘述、世界建構和沉浸式角色扮演。
  * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
+ * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM鏡像OpenAI的TTS服務，提供兼容的界面，可免費轉換文本到語音並提供多種聲音選擇。
 
 
 ## Browser-extensions
@@ -849,6 +855,7 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 這個即時字幕翻譯插件將OpenAI的ChatGPT API（或任何具有相同API調用方法的模型）集成到PotPlayer中。它使你在觀看視頻時能夠即時翻譯字幕，從而打破語言障礙，提升你的觀看體驗。
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - 買 - Hacky Messenger 瀏覽器擴展和 Meta 眼鏡的 API。"嘿 Meta，發送消息給 ChatGPT"
  * [mcp-unity](https://github.com/codergamester/mcp-unity) - 將Model Context Protocol（MCP）與Unity Editor集成的Unity插件-設計用於AI輔助開發和OpenAI、Gemini和Claude的互操作性
+ * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "嘿Meta，給ChatGPT發送消息" Mai：一個用於Meta眼鏡的Hacky Messenger瀏覽器擴展和虛擬API :eyeglasses:
 
 
 ## CLIs
@@ -1843,6 +1850,9 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [k8m](https://github.com/weibaohui/k8m) - 一款輕量級、跨平台的 Mini Kubernetes AI 儀表板，支持大模型+智能體+MCP(支持設置操作權限)，集成多集群管理、智能分析、實時異常檢測等功能，支持多架構並可單文件部署，助力高效集群管理與運維優化。
  * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理人
  * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton 包含了 JAX 和 OpenAI Triton 之間的整合。
+ * [gpt-load](https://github.com/tbphp/gpt-load) - 一個高性能的OpenAI格式API多密鑰輪詢代理伺服器，支持負載均衡，使用 Go 語言開發。
+ * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - 適用於蘋果設備模型的OpenAI兼容API伺服器
+ * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ 全自主AI代理系統能夠執行複雜的滲透測試任務
 
 
 ## Others
