@@ -16,23 +16,26 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [just-prompt](https://github.com/disler/just-prompt) - just-prompt是一个MCP服务器，为顶级LLM提供商（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek和Ollama）提供统一接口。
+ * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPT和Copilot等各种生成AI用的“日本语”提示的样本
+
+
+**Chatbots**
+ * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM镜像OpenAI的TTS服务，为文本转语音提供兼容接口，提供多种免费语音选项。
+
+
 **Browser-extensions**
- * [mcp-unity](https://github.com/codergamester/mcp-unity) - 用于将模型上下文协议（MCP）与Unity编辑器集成的Unity插件 - 旨在支持AI辅助开发和OpenAI，Gemini和Claude的互操作性
-
-
-**CLIs**
- * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust多提供者生成式AI客户端（Ollama，OpenAi，Anthropic，Gemini，DeepSeek，xAI/Grok，Groq，Cohere，...）
-
-
-**NLP**
- * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的记忆存储在ChatGPT中...但其他地方没有。通用记忆MCP使您的记忆可供每个LLM使用。无需登录或付费墙。只需一个命令即可设置。
+ * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "嘿Meta，给ChatGPT发送一条消息" Mai：一个用于Meta眼镜的Hacky Messenger浏览器扩展和伪API :eyeglasses:
 
 
 **Openai**
- * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton包含了JAX和OpenAI Triton之间的集成。
+ * [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能的OpenAI兼容API代理服务器，支持多密钥轮询和负载均衡，使用Go语言开发。
+ * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - 适用于苹果设备模型的OpenAI兼容API服务器
+ * [pentagi](https://github.com/vxcontrol/pentagi) - ✨能够执行复杂渗透测试任务的完全自主的AI代理系统
 
 
-_Updated on June 26, 2025_ (A total of 2161 repositories listed.)
+_Updated on June 30, 2025_ (A total of 2168 repositories listed.)
 
 ## Table of contents
 
@@ -298,6 +301,8 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - 一个免费指南，教你如何创建ChatGPT3提示。
  * [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - 从流行的聊天机器人（如ChatGPT、Claude和Gemini）中提取的系统提示集合输出：收集自ChatGPT、Claude和Gemini等流行聊天机器人的系统提示
  * [fellow](https://github.com/manuelzierl/fellow) - Fellow是一个命令行界面（CLI）工具，作为一个自主的软件工程助手。它使用OpenAI API来逐步推理，执行命令，以及记录活动日志来执行各种结构化任务。
+ * [just-prompt](https://github.com/disler/just-prompt) - just-prompt是一个MCP服务器，为顶级LLM提供商（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek和Ollama）提供统一接口。
+ * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPT和Copilot等各种生成AI用的“日本语”提示的样本
 
 
 ## Chatbots
@@ -626,6 +631,7 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [atom](https://github.com/rush86999/atom) - 原子代理，您的个人助手，用于时间、任务、笔记和研究。
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - 开源平台，用于基于人工智能的叙事、世界构建和沉浸式角色扮演。
  * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 这个定制的Home Assistant集成会自动扫描您的实体，检测新设备，并使用人工智能（通过云和本地API）来建议定制的自动化。它支持多个人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
+ * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM镜像OpenAI的TTS服务，为文本转语音提供兼容接口，提供多种免费语音选项。
 
 
 ## Browser-extensions
@@ -849,6 +855,7 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - 麦 - 适用于Meta眼镜的Hacky Messenger浏览器扩展和API。"嘿Meta，给ChatGPT发送一条消息"
  * [mcp-unity](https://github.com/codergamester/mcp-unity) - 用于将模型上下文协议（MCP）与Unity编辑器集成的Unity插件 - 旨在支持AI辅助开发和OpenAI，Gemini和Claude的互操作性
+ * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "嘿Meta，给ChatGPT发送一条消息" Mai：一个用于Meta眼镜的Hacky Messenger浏览器扩展和伪API :eyeglasses:
 
 
 ## CLIs
@@ -1843,6 +1850,9 @@ _Updated on June 26, 2025_ (A total of 2161 repositories listed.)
  * [k8m](https://github.com/weibaohui/k8m) - 一个轻量级、跨平台的迷你Kubernetes人工智能仪表盘，支持大型模型、智能体、MCP（支持设置操作权限），集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
  * [meta-agent](https://github.com/dannymac180/meta-agent) - 使用OpenAI的Agents SDK生成新代理的代理
  * [jax-triton](https://github.com/jax-ml/jax-triton) - jax-triton包含了JAX和OpenAI Triton之间的集成。
+ * [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能的OpenAI兼容API代理服务器，支持多密钥轮询和负载均衡，使用Go语言开发。
+ * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - 适用于苹果设备模型的OpenAI兼容API服务器
+ * [pentagi](https://github.com/vxcontrol/pentagi) - ✨能够执行复杂渗透测试任务的完全自主的AI代理系统
 
 
 ## Others

@@ -5922,6 +5922,37 @@
                     "zh-hans": "Fellow是一个命令行界面（CLI）工具，作为一个自主的软件工程助手。它使用OpenAI API来逐步推理，执行命令，以及记录活动日志来执行各种结构化任务。",
                     "zh-hant": "Fellow 是一個命令行界面（CLI）工具，作為一個自主的軟件工程助手。它使用 OpenAI API 進行各種結構化任務，通過逐步推理、執行命令並記錄活動日誌。"
                 }
+            },
+            "https://github.com/disler/just-prompt": {
+                "repository_name": "just-prompt",
+                "user_name": "disler",
+                "language": "Python",
+                "license": null,
+                "description": "just-prompt is an MCP server that provides a unified interface to top LLM providers (OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama)",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "just-prompt is an MCP server that provides a unified interface to top LLM providers (OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama)",
+                    "ja": "just-promptは、トップのLLMプロバイダ（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek、Ollama）に統一されたインターフェースを提供するMCPサーバーです。",
+                    "zh-hans": "just-prompt是一个MCP服务器，为顶级LLM提供商（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek和Ollama）提供统一接口。",
+                    "zh-hant": "just-prompt 是一個 MCP 伺服器，為頂尖的 LLM 提供者（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek 和 Ollama）提供統一的介面。"
+                }
+            },
+            "https://github.com/dahatake/generativeai-prompt-sample-japanese": {
+                "repository_name": "GenerativeAI-Prompt-Sample-Japanese",
+                "user_name": "dahatake",
+                "language": "HTML",
+                "license": "MIT License",
+                "description": "ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル",
+                "topics": [
+                    "chatgpt",
+                    "prompt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Sample prompts for various generative AIs such as ChatGPT and Copilot in Japanese.",
+                    "ja": "ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル",
+                    "zh-hans": "ChatGPT和Copilot等各种生成AI用的“日本语”提示的样本",
+                    "zh-hant": "ChatGPT和Copilot等各種生成AI用的“日本語”的Prompt的範例ChatGPT和Copilot等各種生成AI用的「日本語」的Prompt的範例"
+                }
             }
         },
         "Chatbots": {
@@ -13968,6 +13999,28 @@
                     "zh-hans": "这个定制的Home Assistant集成会自动扫描您的实体，检测新设备，并使用人工智能（通过云和本地API）来建议定制的自动化。它支持多个人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。",
                     "zh-hant": "這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。"
                 }
+            },
+            "https://github.com/dbccccccc/ttsfm": {
+                "repository_name": "ttsfm",
+                "user_name": "dbccccccc",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.",
+                "topics": [
+                    "ai",
+                    "api",
+                    "openai",
+                    "openai-api",
+                    "python",
+                    "reverse-proxy",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.",
+                    "ja": "TTSFMは、OpenAIのTTSサービスをミラーリングし、複数の音声オプションを備えたテキスト読み上げ変換のための互換性のあるインターフェースを無料で提供しています。",
+                    "zh-hans": "TTSFM镜像OpenAI的TTS服务，为文本转语音提供兼容接口，提供多种免费语音选项。",
+                    "zh-hant": "TTSFM鏡像OpenAI的TTS服務，提供兼容的界面，可免費轉換文本到語音並提供多種聲音選擇。"
+                }
             }
         },
         "Browser-extensions": {
@@ -19084,6 +19137,26 @@
                     "ja": "UnityエディターとModel Context Protocol（MCP）を統合するためのUnityプラグイン- AI支援開発とOpenAI、Gemini、Claudeの相互運用性を目的として設計されています。",
                     "zh-hans": "用于将模型上下文协议（MCP）与Unity编辑器集成的Unity插件 - 旨在支持AI辅助开发和OpenAI，Gemini和Claude的互操作性",
                     "zh-hant": "將Model Context Protocol（MCP）與Unity Editor集成的Unity插件-設計用於AI輔助開發和OpenAI、Gemini和Claude的互操作性"
+                }
+            },
+            "https://github.com/dcrebbin/meta-glasses-api": {
+                "repository_name": "meta-glasses-api",
+                "user_name": "dcrebbin",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": " \"Hey Meta send a message to ChatGPT\" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses :eyeglasses:",
+                "topics": [
+                    "deepseek",
+                    "gpt4",
+                    "meta",
+                    "openai",
+                    "perplexity"
+                ],
+                "multilingual_descriptions": {
+                    "en": "\"Hey Meta send a message to ChatGPT\" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses :eyeglasses:",
+                    "ja": "入力: \"メタ、ChatGPTにメッセージを送って\" Mai: Meta Glasses用のHacky Messengerブラウザ拡張機能＆疑似API :eyeglasses:",
+                    "zh-hans": "\"嘿Meta，给ChatGPT发送一条消息\" Mai：一个用于Meta眼镜的Hacky Messenger浏览器扩展和伪API :eyeglasses:",
+                    "zh-hant": "\"嘿Meta，給ChatGPT發送消息\" Mai：一個用於Meta眼鏡的Hacky Messenger瀏覽器擴展和虛擬API :eyeglasses:"
                 }
             }
         },
@@ -40843,6 +40916,71 @@
                     "ja": "jax-tritonには、JAXとOpenAI Tritonの統合が含まれています。",
                     "zh-hans": "jax-triton包含了JAX和OpenAI Triton之间的集成。",
                     "zh-hant": "jax-triton 包含了 JAX 和 OpenAI Triton 之間的整合。"
+                }
+            },
+            "https://github.com/tbphp/gpt-load": {
+                "repository_name": "gpt-load",
+                "user_name": "tbphp",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.",
+                "topics": [
+                    "go",
+                    "golang",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.",
+                    "ja": "Go言語で開発された、マルチキーのローテーションと負荷分散をサポートする高性能なOpenAI互換APIプロキシサーバー。",
+                    "zh-hans": "一个高性能的OpenAI兼容API代理服务器，支持多密钥轮询和负载均衡，使用Go语言开发。",
+                    "zh-hant": "一個高性能的OpenAI格式API多密鑰輪詢代理伺服器，支持負載均衡，使用 Go 語言開發。"
+                }
+            },
+            "https://github.com/gety-ai/apple-on-device-openai": {
+                "repository_name": "apple-on-device-openai",
+                "user_name": "gety-ai",
+                "language": "Swift",
+                "license": null,
+                "description": "OpenAI-compatible API server for Apple on-device models",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI-compatible API server for Apple on-device models",
+                    "ja": "Appleのオンデバイスモデルに対応したOpenAI互換のAPIサーバー",
+                    "zh-hans": "适用于苹果设备模型的OpenAI兼容API服务器",
+                    "zh-hant": "適用於蘋果設備模型的OpenAI兼容API伺服器"
+                }
+            },
+            "https://github.com/vxcontrol/pentagi": {
+                "repository_name": "pentagi",
+                "user_name": "vxcontrol",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+                "topics": [
+                    "ai-agents",
+                    "ai-security-tool",
+                    "anthropic",
+                    "autonomous-agents",
+                    "golang",
+                    "gpt",
+                    "graphql",
+                    "multi-agent-system",
+                    "offensive-security",
+                    "open-source",
+                    "openai",
+                    "penetration-testing",
+                    "penetration-testing-tools",
+                    "react",
+                    "security-automation",
+                    "security-testing",
+                    "security-tools",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+                    "ja": "✨ 複雑な侵入テストタスクを実行できる完全自律型AIエージェントシステム",
+                    "zh-hans": "✨能够执行复杂渗透测试任务的完全自主的AI代理系统",
+                    "zh-hant": "✨ 全自主AI代理系統能夠執行複雜的滲透測試任務"
                 }
             }
         },
