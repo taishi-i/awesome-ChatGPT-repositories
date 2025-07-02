@@ -16,26 +16,29 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [just-prompt](https://github.com/disler/just-prompt) - just-prompt is an MCP server that provides a unified interface to top LLM providers (OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama)
- * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+**Awesome-lists**
+ * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 
 
 **Chatbots**
- * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
+ * [macai](https://github.com/renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+ * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.
 
 
 **Browser-extensions**
- * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "Hey Meta send a message to ChatGPT" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses :eyeglasses:
+ * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop is an Open Source eCommerce System based on Laravel 12, supporting multiple languages, multiple currencies, integrated with OpenAI, and featuring plugin mechanisms and theme template development for enhanced user experience and system extensibility.
 
 
-**Openai**
- * [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.
- * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - OpenAI-compatible API server for Apple on-device models
- * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+**NLP**
+ * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
 
 
-_Updated on June 30, 2025_ (A total of 2168 repositories listed.)
+**Langchain**
+ * [llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
+ * [boxcars](https://github.com/boxcarsai/boxcars) - Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
+
+
+_Updated on July 03, 2025_ (A total of 2175 repositories listed.)
 
 ## Table of contents
 
@@ -136,6 +139,7 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
+ * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
 
 
 ## Prompts
@@ -632,6 +636,8 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - Open-source platform for AI-driven storytelling, worldbuilding, and immersive roleplay
  * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - This custom Home Assistant integration automatically scans your entities, detects new devices, and uses AI (via cloud and local APIs) to suggest tailored automations. It supports multiple AI providers, including OpenAI, Anthropic, Google, Groq, Ollama and more! The integration provides automation suggestions via HASS notifications
  * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
+ * [macai](https://github.com/renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
+ * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.
 
 
 ## Browser-extensions
@@ -856,6 +862,7 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Hacky Messenger browser extension & API for the Meta Glasses. "Hey Meta send a message to ChatGPT"
  * [mcp-unity](https://github.com/codergamester/mcp-unity) - Unity plugin for integrating Model Context Protocol (MCP) with the Unity Editor — designed for AI-assisted development and OpenAI, Gemini and Claude interoperability
  * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "Hey Meta send a message to ChatGPT" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses :eyeglasses:
+ * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop is an Open Source eCommerce System based on Laravel 12, supporting multiple languages, multiple currencies, integrated with OpenAI, and featuring plugin mechanisms and theme template development for enhanced user experience and system extensibility.
 
 
 ## CLIs
@@ -1421,6 +1428,7 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API Documentation Repo
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
+ * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
 
 
 ## Langchain
@@ -1570,6 +1578,8 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.
  * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
  * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
+ * [llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
+ * [boxcars](https://github.com/boxcarsai/boxcars) - Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
 
 
 ## Unity

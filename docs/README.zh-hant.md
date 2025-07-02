@@ -16,26 +16,29 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [just-prompt](https://github.com/disler/just-prompt) - just-prompt 是一個 MCP 伺服器，為頂尖的 LLM 提供者（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek 和 Ollama）提供統一的介面。
- * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPT和Copilot等各種生成AI用的“日本語”的Prompt的範例ChatGPT和Copilot等各種生成AI用的「日本語」的Prompt的範例
+**Awesome-lists**
+ * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 精選的超棒使用者腳本清單。
 
 
 **Chatbots**
- * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM鏡像OpenAI的TTS服務，提供兼容的界面，可免費轉換文本到語音並提供多種聲音選擇。
+ * [macai](https://github.com/renset/macai) - 一體化的原生 macOS AI 聊天應用程式：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter，以及所有兼容 Open AI 的 API 服務。
+ * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - 高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。
 
 
 **Browser-extensions**
- * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "嘿Meta，給ChatGPT發送消息" Mai：一個用於Meta眼鏡的Hacky Messenger瀏覽器擴展和虛擬API :eyeglasses:
+ * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop 是一個基於 Laravel 12 的開源電子商務系統，支援多種語言、多種貨幣，集成了 OpenAI，並具有插件機制和主題模板開發，以增強用戶體驗和系統擴展性。
 
 
-**Openai**
- * [gpt-load](https://github.com/tbphp/gpt-load) - 一個高性能的OpenAI格式API多密鑰輪詢代理伺服器，支持負載均衡，使用 Go 語言開發。
- * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - 適用於蘋果設備模型的OpenAI兼容API伺服器
- * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ 全自主AI代理系統能夠執行複雜的滲透測試任務
+**NLP**
+ * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - 基於PaddlePaddle的LLMs和VLMs高性能推理和部署工具包
 
 
-_Updated on June 30, 2025_ (A total of 2168 repositories listed.)
+**Langchain**
+ * [llm-ui](https://github.com/richardgill/llm-ui) - 用於LLMs的React庫
+ * [boxcars](https://github.com/boxcarsai/boxcars) - 使用LLM的Boxcars構建具有可組合性的應用程序。受LangChain啟發。
+
+
+_Updated on July 03, 2025_ (A total of 2175 repositories listed.)
 
 ## Table of contents
 
@@ -136,6 +139,7 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - 精心策劃的GPT-4o圖像和提示的精彩收藏。探索OpenAI最新模型中多樣化的AI生成藝術風格（吉卜力，3D等）。
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Whisper的精彩清單 - 這是由OpenAI開發的開源AI動力語音識別系統。
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM資料總結（Agent框架、輔助編程、數據處理、模型訓練、模型推理、o1 模型、MCP、小語言模型、視覺語言模型）| 全球最佳LLM資源摘要。
+ * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 精選的超棒使用者腳本清單。
 
 
 ## Prompts
@@ -632,6 +636,8 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - 開源平台，用於AI驅動的故事敘述、世界建構和沉浸式角色扮演。
  * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - 這個自定義的Home Assistant整合自動掃描您的實體，檢測新設備，並使用人工智能（通過雲和本地API）來建議定制的自動化。它支持多個人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
  * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM鏡像OpenAI的TTS服務，提供兼容的界面，可免費轉換文本到語音並提供多種聲音選擇。
+ * [macai](https://github.com/renset/macai) - 一體化的原生 macOS AI 聊天應用程式：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter，以及所有兼容 Open AI 的 API 服務。
+ * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - 高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。
 
 
 ## Browser-extensions
@@ -856,6 +862,7 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - 買 - Hacky Messenger 瀏覽器擴展和 Meta 眼鏡的 API。"嘿 Meta，發送消息給 ChatGPT"
  * [mcp-unity](https://github.com/codergamester/mcp-unity) - 將Model Context Protocol（MCP）與Unity Editor集成的Unity插件-設計用於AI輔助開發和OpenAI、Gemini和Claude的互操作性
  * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "嘿Meta，給ChatGPT發送消息" Mai：一個用於Meta眼鏡的Hacky Messenger瀏覽器擴展和虛擬API :eyeglasses:
+ * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop 是一個基於 Laravel 12 的開源電子商務系統，支援多種語言、多種貨幣，集成了 OpenAI，並具有插件機制和主題模板開發，以增強用戶體驗和系統擴展性。
 
 
 ## CLIs
@@ -1421,6 +1428,7 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API 文件庫
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一個可以比較每個人工智慧模型的網站 ✨
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的記憶存在於ChatGPT中...但其他地方沒有。通用記憶MCP使您的記憶可供每個LLM訪問。無需登錄或付費。一個命令即可設置。
+ * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - 基於PaddlePaddle的LLMs和VLMs高性能推理和部署工具包
 
 
 ## Langchain
@@ -1570,6 +1578,8 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAI 是一個開源平台，產品和工程團隊可以合作建立和迭代人工智能功能。
  * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - 由LangGraph和Tavily提供支持的一种主动公司研究工具，使用多代理框架对公司进行深入的尽职调查。它在后端利用Google的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
  * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - 克勞德代碼 + [雙子座 / OpenAI / Grok / OpenRouter / Ollama / 自定義模型 / 以上所有] 聯合運作的力量。
+ * [llm-ui](https://github.com/richardgill/llm-ui) - 用於LLMs的React庫
+ * [boxcars](https://github.com/boxcarsai/boxcars) - 使用LLM的Boxcars構建具有可組合性的應用程序。受LangChain啟發。
 
 
 ## Unity

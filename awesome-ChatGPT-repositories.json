@@ -2073,6 +2073,41 @@
                     "zh-hans": "🧑‍🚀 全球最佳LLM资源总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型）| 简述全球最佳LLM资源。",
                     "zh-hant": "🧑‍🚀 全世界最好的LLM資料總結（Agent框架、輔助編程、數據處理、模型訓練、模型推理、o1 模型、MCP、小語言模型、視覺語言模型）| 全球最佳LLM資源摘要。"
                 }
+            },
+            "https://github.com/awesome-scripts/awesome-userscripts": {
+                "repository_name": "awesome-userscripts",
+                "user_name": "awesome-scripts",
+                "language": "JavaScript",
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "📖  A curated list of Awesome Userscripts.",
+                "topics": [
+                    "ad-blocking",
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "chrome",
+                    "discord",
+                    "duckduckgo",
+                    "firefox",
+                    "github",
+                    "google",
+                    "greasemonkey",
+                    "greasyfork",
+                    "javascript",
+                    "list",
+                    "privacy",
+                    "privacy-tools",
+                    "userscripts",
+                    "violentmonkey",
+                    "webpage",
+                    "youtube"
+                ],
+                "multilingual_descriptions": {
+                    "en": "📖  A curated list of Awesome Userscripts.",
+                    "ja": "📖 素晴らしいユーザースクリプトの厳選リスト。",
+                    "zh-hans": "📖  一个精心策划的用户脚本精选列表。",
+                    "zh-hant": "📖 精選的超棒使用者腳本清單。"
+                }
             }
         },
         "Prompts": {
@@ -14021,6 +14056,58 @@
                     "zh-hans": "TTSFM镜像OpenAI的TTS服务，为文本转语音提供兼容接口，提供多种免费语音选项。",
                     "zh-hant": "TTSFM鏡像OpenAI的TTS服務，提供兼容的界面，可免費轉換文本到語音並提供多種聲音選擇。"
                 }
+            },
+            "https://github.com/renset/macai": {
+                "repository_name": "macai",
+                "user_name": "Renset",
+                "language": "Swift",
+                "license": "Apache License 2.0",
+                "description": "All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services",
+                "topics": [
+                    "ai",
+                    "api-client",
+                    "bot",
+                    "chat",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "claude",
+                    "deepseek",
+                    "gemini",
+                    "google",
+                    "grok",
+                    "llm",
+                    "macos",
+                    "ollama",
+                    "swift",
+                    "swiftui",
+                    "swiftui-app",
+                    "xai",
+                    "xai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services",
+                    "ja": "オールインワンのネイティブmacOS AIチャットアプリケーション：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter、およびすべてのOpen AI互換APIサービス",
+                    "zh-hans": "一体化的原生macOS AI聊天应用程序：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter，以及所有兼容Open AI的API服务。",
+                    "zh-hant": "一體化的原生 macOS AI 聊天應用程式：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter，以及所有兼容 Open AI 的 API 服務。"
+                }
+            },
+            "https://github.com/lex-au/orpheus-fastapi": {
+                "repository_name": "Orpheus-FastAPI",
+                "user_name": "Lex-au",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+                "topics": [
+                    "ai-text-to-speech",
+                    "ai-voice",
+                    "artificial-intelligence"
+                ],
+                "multilingual_descriptions": {
+                    "en": "High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.",
+                    "ja": "OpenAI互換API、8つの声、感情タグ、モダンなWeb UIを備えた高性能テキスト読み上げサーバー。RTX GPUに最適化されています。",
+                    "zh-hans": "高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。",
+                    "zh-hant": "高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。"
+                }
             }
         },
         "Browser-extensions": {
@@ -19157,6 +19244,41 @@
                     "ja": "入力: \"メタ、ChatGPTにメッセージを送って\" Mai: Meta Glasses用のHacky Messengerブラウザ拡張機能＆疑似API :eyeglasses:",
                     "zh-hans": "\"嘿Meta，给ChatGPT发送一条消息\" Mai：一个用于Meta眼镜的Hacky Messenger浏览器扩展和伪API :eyeglasses:",
                     "zh-hant": "\"嘿Meta，給ChatGPT發送消息\" Mai：一個用於Meta眼鏡的Hacky Messenger瀏覽器擴展和虛擬API :eyeglasses:"
+                }
+            },
+            "https://github.com/innocommerce/innoshop": {
+                "repository_name": "innoshop",
+                "user_name": "innocommerce",
+                "language": "PHP",
+                "license": "Other",
+                "description": "Innoshop is an Open Source eCommerce System based on Laravel 12, supporting multiple languages, multiple currencies, integrated with OpenAI, and featuring plugin mechanisms and theme template development for enhanced user experience and system extensibility.",
+                "topics": [
+                    "ai",
+                    "b2c",
+                    "blockchain-ecommerce",
+                    "ecommerce",
+                    "ecommerce-platform",
+                    "innocms",
+                    "innoshop",
+                    "innovation",
+                    "laravel",
+                    "laravel-ecommerce",
+                    "laravelshop",
+                    "magento",
+                    "open-source",
+                    "openai",
+                    "opensource-ecommerce",
+                    "php-ecommerce",
+                    "shop",
+                    "shopping-cart",
+                    "storefront",
+                    "symfony"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Innoshop is an Open Source eCommerce System based on Laravel 12, supporting multiple languages, multiple currencies, integrated with OpenAI, and featuring plugin mechanisms and theme template development for enhanced user experience and system extensibilit",
+                    "ja": "Innoshopは、Laravel 12をベースにしたオープンソースのeコマースシステムで、複数の言語、複数の通貨をサポートし、OpenAIと統合されています。プラグインメカニズムやテーマテンプレートの開発を特徴とし、ユーザーエクスペリエンスとシステムの拡張性を向上させています。",
+                    "zh-hans": "Innoshop是一个基于Laravel 12的开源电子商务系统，支持多种语言、多种货币，集成了OpenAI，并具有插件机制和主题模板开发，以增强用户体验和系统可扩展性。",
+                    "zh-hant": "Innoshop 是一個基於 Laravel 12 的開源電子商務系統，支援多種語言、多種貨幣，集成了 OpenAI，並具有插件機制和主題模板開發，以增強用戶體驗和系統擴展性。"
                 }
             }
         },
@@ -31487,6 +31609,30 @@
                     "zh-hans": "您的记忆存储在ChatGPT中...但其他地方没有。通用记忆MCP使您的记忆可供每个LLM使用。无需登录或付费墙。只需一个命令即可设置。",
                     "zh-hant": "您的記憶存在於ChatGPT中...但其他地方沒有。通用記憶MCP使您的記憶可供每個LLM訪問。無需登錄或付費。一個命令即可設置。"
                 }
+            },
+            "https://github.com/paddlepaddle/fastdeploy": {
+                "repository_name": "FastDeploy",
+                "user_name": "PaddlePaddle",
+                "language": "C++",
+                "license": "Apache License 2.0",
+                "description": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle",
+                "topics": [
+                    "ernie",
+                    "ernie-45",
+                    "ernie-45-vl",
+                    "inference",
+                    "llm",
+                    "llm-serving",
+                    "openai",
+                    "serving",
+                    "vllm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle",
+                    "ja": "PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット",
+                    "zh-hans": "基于PaddlePaddle的LLMs和VLMs的高性能推理和部署工具包",
+                    "zh-hant": "基於PaddlePaddle的LLMs和VLMs高性能推理和部署工具包"
+                }
             }
         },
         "Langchain": {
@@ -35020,6 +35166,50 @@
                     "ja": "クロードコード+ [ジェミニ / オープンAI / グロック / オープンルーター / オラマ / カスタムモデル / 以上すべて] が一つとして機能する力。",
                     "zh-hans": "克劳德代码 + [双子座 / OpenAI / Grok / OpenRouter / 奥拉玛 / 定制模型 / 以上所有] 联合运作的力量。",
                     "zh-hant": "克勞德代碼 + [雙子座 / OpenAI / Grok / OpenRouter / Ollama / 自定義模型 / 以上所有] 聯合運作的力量。"
+                }
+            },
+            "https://github.com/richardgill/llm-ui": {
+                "repository_name": "llm-ui",
+                "user_name": "richardgill",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The React library for LLMs",
+                "topics": [
+                    "chatgpt",
+                    "claude",
+                    "component-library",
+                    "generative-ai",
+                    "llama",
+                    "llm",
+                    "markdown",
+                    "openai",
+                    "react"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The React library for LLMs",
+                    "ja": "LLMsのReactライブラリ",
+                    "zh-hans": "用于LLMs的React库",
+                    "zh-hant": "用於LLMs的React庫"
+                }
+            },
+            "https://github.com/boxcarsai/boxcars": {
+                "repository_name": "boxcars",
+                "user_name": "BoxcarsAI",
+                "language": "Ruby",
+                "license": "MIT License",
+                "description": "Building applications with composability using Boxcars with LLM's. Inspired by LangChain.",
+                "topics": [
+                    "activerecord",
+                    "langchain",
+                    "openai",
+                    "ruby",
+                    "sql"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Building applications with composability using Boxcars with LLM's. Inspired by LangChain.",
+                    "ja": "LLMを使用したボックスカーを使用したコンポーザビリティを持つアプリケーションの構築。LangChainに触発されました。",
+                    "zh-hans": "使用LLM的Boxcars构建具有可组合性的应用程序。受LangChain启发。",
+                    "zh-hant": "使用LLM的Boxcars構建具有可組合性的應用程序。受LangChain啟發。"
                 }
             }
         },

@@ -16,26 +16,29 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [just-prompt](https://github.com/disler/just-prompt) - just-promptは、トップのLLMプロバイダ（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek、Ollama）に統一されたインターフェースを提供するMCPサーバーです。
- * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+**Awesome-lists**
+ * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 素晴らしいユーザースクリプトの厳選リスト。
 
 
 **Chatbots**
- * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFMは、OpenAIのTTSサービスをミラーリングし、複数の音声オプションを備えたテキスト読み上げ変換のための互換性のあるインターフェースを無料で提供しています。
+ * [macai](https://github.com/renset/macai) - オールインワンのネイティブmacOS AIチャットアプリケーション：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter、およびすべてのOpen AI互換APIサービス
+ * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - OpenAI互換API、8つの声、感情タグ、モダンなWeb UIを備えた高性能テキスト読み上げサーバー。RTX GPUに最適化されています。
 
 
 **Browser-extensions**
- * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - 入力: "メタ、ChatGPTにメッセージを送って" Mai: Meta Glasses用のHacky Messengerブラウザ拡張機能＆疑似API :eyeglasses:
+ * [innoshop](https://github.com/innocommerce/innoshop) - Innoshopは、Laravel 12をベースにしたオープンソースのeコマースシステムで、複数の言語、複数の通貨をサポートし、OpenAIと統合されています。プラグインメカニズムやテーマテンプレートの開発を特徴とし、ユーザーエクスペリエンスとシステムの拡張性を向上させています。
 
 
-**Openai**
- * [gpt-load](https://github.com/tbphp/gpt-load) - Go言語で開発された、マルチキーのローテーションと負荷分散をサポートする高性能なOpenAI互換APIプロキシサーバー。
- * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - Appleのオンデバイスモデルに対応したOpenAI互換のAPIサーバー
- * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ 複雑な侵入テストタスクを実行できる完全自律型AIエージェントシステム
+**NLP**
+ * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット
 
 
-_Updated on June 30, 2025_ (A total of 2168 repositories listed.)
+**Langchain**
+ * [llm-ui](https://github.com/richardgill/llm-ui) - LLMsのReactライブラリ
+ * [boxcars](https://github.com/boxcarsai/boxcars) - LLMを使用したボックスカーを使用したコンポーザビリティを持つアプリケーションの構築。LangChainに触発されました。
+
+
+_Updated on July 03, 2025_ (A total of 2175 repositories listed.)
 
 ## Table of contents
 
@@ -136,6 +139,7 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - OpenAIの最新モデルから、さまざまなAI生成アートスタイル（ジブリ、3Dなど）を探索できる素晴らしい厳選されたGPT-4o画像とプロンプト。
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 OpenAIによって開発されたオープンソースのAIパワード音声認識システムWhisper用の素晴らしいリストWhisper用の素晴らしいリスト
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 世界最高のLLMリソースの要約（エージェントフレームワーク、補助プログラミング、データ処理、モデルトレーニング、モデル推論、o1モデル、MCP、小さな言語モデル、ビジュアル言語モデル）
+ * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 素晴らしいユーザースクリプトの厳選リスト。
 
 
 ## Prompts
@@ -632,6 +636,8 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [Narratium.ai](https://github.com/narratium/narratium.ai) - AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム
  * [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。
  * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFMは、OpenAIのTTSサービスをミラーリングし、複数の音声オプションを備えたテキスト読み上げ変換のための互換性のあるインターフェースを無料で提供しています。
+ * [macai](https://github.com/renset/macai) - オールインワンのネイティブmacOS AIチャットアプリケーション：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter、およびすべてのOpen AI互換APIサービス
+ * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - OpenAI互換API、8つの声、感情タグ、モダンなWeb UIを備えた高性能テキスト読み上げサーバー。RTX GPUに最適化されています。
 
 
 ## Browser-extensions
@@ -856,6 +862,7 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - Mai - Meta Glasses用のHacky Messengerブラウザ拡張機能＆API。"Hey Meta、ChatGPTにメッセージを送信してください"
  * [mcp-unity](https://github.com/codergamester/mcp-unity) - UnityエディターとModel Context Protocol（MCP）を統合するためのUnityプラグイン- AI支援開発とOpenAI、Gemini、Claudeの相互運用性を目的として設計されています。
  * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - 入力: "メタ、ChatGPTにメッセージを送って" Mai: Meta Glasses用のHacky Messengerブラウザ拡張機能＆疑似API :eyeglasses:
+ * [innoshop](https://github.com/innocommerce/innoshop) - Innoshopは、Laravel 12をベースにしたオープンソースのeコマースシステムで、複数の言語、複数の通貨をサポートし、OpenAIと統合されています。プラグインメカニズムやテーマテンプレートの開発を特徴とし、ユーザーエクスペリエンスとシステムの拡張性を向上させています。
 
 
 ## CLIs
@@ -1421,6 +1428,7 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [api-docs](https://github.com/aimlapi/api-docs) - AI/ML API ドキュメントリポジトリ
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 全てのAIモデルを比較できるウェブサイト ✨
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - あなたの思い出はChatGPTにあります... しかし他のどこにもありません。Universal Memory MCPはあなたの思い出をすべてのLLMに利用可能にします。ログインや有料壁はありません。セットアップするための1つのコマンドだけです。
+ * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット
 
 
 ## Langchain
@@ -1570,6 +1578,8 @@ _Updated on June 30, 2025_ (A total of 2168 repositories listed.)
  * [WorkflowAI](https://github.com/workflowai/workflowai) - WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。
  * [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
  * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - クロードコード+ [ジェミニ / オープンAI / グロック / オープンルーター / オラマ / カスタムモデル / 以上すべて] が一つとして機能する力。
+ * [llm-ui](https://github.com/richardgill/llm-ui) - LLMsのReactライブラリ
+ * [boxcars](https://github.com/boxcarsai/boxcars) - LLMを使用したボックスカーを使用したコンポーザビリティを持つアプリケーションの構築。LangChainに触発されました。
 
 
 ## Unity
