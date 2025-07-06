@@ -17,28 +17,23 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 精選的超棒使用者腳本清單。
+ * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 一個精心挑選的🌌 Azure OpenAI、🦙 大型語言模型（包括RAG、Agent）以及帶有備忘錄的參考資料清單。
 
 
-**Chatbots**
- * [macai](https://github.com/renset/macai) - 一體化的原生 macOS AI 聊天應用程式：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter，以及所有兼容 Open AI 的 API 服務。
- * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - 高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。
-
-
-**Browser-extensions**
- * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop 是一個基於 Laravel 12 的開源電子商務系統，支援多種語言、多種貨幣，集成了 OpenAI，並具有插件機制和主題模板開發，以增強用戶體驗和系統擴展性。
+**Reimplementations**
+ * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAI的TikToken高性能實現。
 
 
 **NLP**
- * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - 基於PaddlePaddle的LLMs和VLMs高性能推理和部署工具包
+ * [llm.nvim](https://github.com/kurama622/llm.nvim) - 免費的大型語言模型（LLM）支持Neovim，提供與LLM互動的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地llms）。支持Github模型。
 
 
-**Langchain**
- * [llm-ui](https://github.com/richardgill/llm-ui) - 用於LLMs的React庫
- * [boxcars](https://github.com/boxcarsai/boxcars) - 使用LLM的Boxcars構建具有可組合性的應用程序。受LangChain啟發。
+**Openai**
+ * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：一個用作人工智慧應用程序記憶層的Python庫。利用流行的數據庫和存儲解決方案來優化內存使用。提供效率高的數據管理的實用類和方法，包括MongoDB集成和Open。
+ * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 超小型人工智慧軟體開發工具包。
 
 
-_Updated on July 03, 2025_ (A total of 2175 repositories listed.)
+_Updated on July 07, 2025_ (A total of 2180 repositories listed.)
 
 ## Table of contents
 
@@ -140,6 +135,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Whisper的精彩清單 - 這是由OpenAI開發的開源AI動力語音識別系統。
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM資料總結（Agent框架、輔助編程、數據處理、模型訓練、模型推理、o1 模型、MCP、小語言模型、視覺語言模型）| 全球最佳LLM資源摘要。
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 精選的超棒使用者腳本清單。
+ * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 一個精心挑選的🌌 Azure OpenAI、🦙 大型語言模型（包括RAG、Agent）以及帶有備忘錄的參考資料清單。
 
 
 ## Prompts
@@ -1069,6 +1065,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [deep-research](https://github.com/dzhng/deep-research) - 我自己的開源實現OpenAI新的Deep Research代理。無需支付200美元即可獲得相同的功能。您甚至可以通過可調節的廣度和深度來調整代理的行為。運行5分鐘或5小時，它將自動調整。
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - 以更简单的方式实现所有强化学习算法
  * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - 以更简单的方式实施所有RAG技术
+ * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAI的TikToken高性能實現。
 
 
 ## Tutorials
@@ -1429,6 +1426,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一個可以比較每個人工智慧模型的網站 ✨
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的記憶存在於ChatGPT中...但其他地方沒有。通用記憶MCP使您的記憶可供每個LLM訪問。無需登錄或付費。一個命令即可設置。
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - 基於PaddlePaddle的LLMs和VLMs高性能推理和部署工具包
+ * [llm.nvim](https://github.com/kurama622/llm.nvim) - 免費的大型語言模型（LLM）支持Neovim，提供與LLM互動的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地llms）。支持Github模型。
 
 
 ## Langchain
@@ -1863,6 +1861,8 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [gpt-load](https://github.com/tbphp/gpt-load) - 一個高性能的OpenAI格式API多密鑰輪詢代理伺服器，支持負載均衡，使用 Go 語言開發。
  * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - 適用於蘋果設備模型的OpenAI兼容API伺服器
  * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ 全自主AI代理系統能夠執行複雜的滲透測試任務
+ * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：一個用作人工智慧應用程序記憶層的Python庫。利用流行的數據庫和存儲解決方案來優化內存使用。提供效率高的數據管理的實用類和方法，包括MongoDB集成和Open。
+ * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 超小型人工智慧軟體開發工具包。
 
 
 ## Others

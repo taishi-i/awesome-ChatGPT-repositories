@@ -2108,6 +2108,33 @@
                     "zh-hans": "📖  一个精心策划的用户脚本精选列表。",
                     "zh-hant": "📖 精選的超棒使用者腳本清單。"
                 }
+            },
+            "https://github.com/kimtth/awesome-azure-openai-llm": {
+                "repository_name": "awesome-azure-openai-llm",
+                "user_name": "kimtth",
+                "language": "Python",
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.",
+                "topics": [
+                    "agent",
+                    "awesome",
+                    "awesome-list",
+                    "azure-openai",
+                    "chatgpt",
+                    "copilot",
+                    "gpt",
+                    "llm",
+                    "microsoft",
+                    "openai",
+                    "prompt-engineering",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.",
+                    "ja": "🌌 Azure OpenAI、🦙 ラージランゲージモデル（RAG、Agentを含む）、メモ付きの参照リスト",
+                    "zh-hans": "一个精心筛选的🌌 Azure OpenAI，🦙 大型语言模型（包括RAG，Agent），以及带备忘录的参考资料列表。",
+                    "zh-hant": "一個精心挑選的🌌 Azure OpenAI、🦙 大型語言模型（包括RAG、Agent）以及帶有備忘錄的參考資料清單。"
+                }
             }
         },
         "Prompts": {
@@ -23815,6 +23842,20 @@
                     "zh-hans": "以更简单的方式实现所有的RAG技术",
                     "zh-hant": "以更简单的方式实施所有RAG技术"
                 }
+            },
+            "https://github.com/m4thyou/tokendagger": {
+                "repository_name": "TokenDagger",
+                "user_name": "M4THYOU",
+                "language": "C++",
+                "license": "MIT License",
+                "description": "High-Performance Implementation of OpenAI's TikToken.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "High-Performance Implementation of OpenAI's TikToken.",
+                    "ja": "OpenAIのTikTokenの高性能実装。",
+                    "zh-hans": "OpenAI的TikToken的高性能实现。",
+                    "zh-hant": "OpenAI的TikToken高性能實現。"
+                }
             }
         },
         "Tutorials": {
@@ -31632,6 +31673,41 @@
                     "ja": "PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット",
                     "zh-hans": "基于PaddlePaddle的LLMs和VLMs的高性能推理和部署工具包",
                     "zh-hant": "基於PaddlePaddle的LLMs和VLMs高性能推理和部署工具包"
+                }
+            },
+            "https://github.com/kurama622/llm.nvim": {
+                "repository_name": "llm.nvim",
+                "user_name": "Kurama622",
+                "language": "Lua",
+                "license": "GNU General Public License v3.0",
+                "description": "Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.",
+                "topics": [
+                    "ai",
+                    "chatanywhere",
+                    "chatglm",
+                    "chatgpt",
+                    "code-completion",
+                    "deep-thinking",
+                    "deepseek",
+                    "gemini",
+                    "github-models",
+                    "glm",
+                    "gpt-4",
+                    "kimi",
+                    "llm",
+                    "neovim-plugin",
+                    "nvim-plugin",
+                    "ollama",
+                    "ollama-chat",
+                    "openrouter",
+                    "qwen",
+                    "siliconflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.",
+                    "ja": "Neovim向けの無料の大規模言語モデル（LLM）サポートを提供し、LLMとのやり取りを行うコマンドを提供します（ChatGPT、ChatGLM、kimi、deepseek、openrouter、およびローカルLLMなど）。Githubモデルをサポートします。",
+                    "zh-hans": "免费的大型语言模型（LLM）支持Neovim，提供与LLM交互的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地LLM）。支持Github模型。",
+                    "zh-hant": "免費的大型語言模型（LLM）支持Neovim，提供與LLM互動的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地llms）。支持Github模型。"
                 }
             }
         },
@@ -41171,6 +41247,46 @@
                     "ja": "✨ 複雑な侵入テストタスクを実行できる完全自律型AIエージェントシステム",
                     "zh-hans": "✨能够执行复杂渗透测试任务的完全自主的AI代理系统",
                     "zh-hant": "✨ 全自主AI代理系統能夠執行複雜的滲透測試任務"
+                }
+            },
+            "https://github.com/richmondalake/memorizz": {
+                "repository_name": "memorizz",
+                "user_name": "RichmondAlake",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management, including MongoDB integration and OpenAI embeddings for semantic search capabilities.",
+                "topics": [
+                    "artificial-intelligence",
+                    "data-management",
+                    "memory-optimization",
+                    "python",
+                    "semantic-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management, including MongoDB integration and Open",
+                    "ja": "MemoRizz：AIアプリケーションのメモリレイヤーとして機能するPythonライブラリ。人気のあるデータベースやストレージソリューションを活用してメモリ使用量を最適化します。MongoDB統合やOpenなど、効率的なデータ管理のためのユーティリティクラスやメソッドを提供します。",
+                    "zh-hans": "MemoRizz：一个用作AI应用程序内存层的Python库。利用流行的数据库和存储解决方案来优化内存使用。提供实用类和方法，用于高效的数据管理，包括MongoDB集成和Open。",
+                    "zh-hant": "MemoRizz：一個用作人工智慧應用程序記憶層的Python庫。利用流行的數據庫和存儲解決方案來優化內存使用。提供效率高的數據管理的實用類和方法，包括MongoDB集成和Open。"
+                }
+            },
+            "https://github.com/moeru-ai/xsai": {
+                "repository_name": "xsai",
+                "user_name": "moeru-ai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "🤖💬 extra-small AI SDK.",
+                "topics": [
+                    "ai",
+                    "ollama",
+                    "openai",
+                    "typescript",
+                    "xsai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖💬 extra-small AI SDK.",
+                    "ja": "🤖💬エクストラスモールAI SDK。",
+                    "zh-hans": "🤖💬 超小型人工智能软件开发工具包。",
+                    "zh-hant": "🤖💬 超小型人工智慧軟體開發工具包。"
                 }
             }
         },

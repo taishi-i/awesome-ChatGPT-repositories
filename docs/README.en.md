@@ -17,28 +17,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+ * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
 
 
-**Chatbots**
- * [macai](https://github.com/renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
- * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.
-
-
-**Browser-extensions**
- * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop is an Open Source eCommerce System based on Laravel 12, supporting multiple languages, multiple currencies, integrated with OpenAI, and featuring plugin mechanisms and theme template development for enhanced user experience and system extensibilit
+**Reimplementations**
+ * [TokenDagger](https://github.com/m4thyou/tokendagger) - High-Performance Implementation of OpenAI's TikToken.
 
 
 **NLP**
- * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
+ * [llm.nvim](https://github.com/kurama622/llm.nvim) - Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
 
 
-**Langchain**
- * [llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
- * [boxcars](https://github.com/boxcarsai/boxcars) - Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
+**Openai**
+ * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management, including MongoDB integration and Open
+ * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK.
 
 
-_Updated on July 03, 2025_ (A total of 2175 repositories listed.)
+_Updated on July 07, 2025_ (A total of 2180 repositories listed.)
 
 ## Table of contents
 
@@ -140,6 +135,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Awesome list for Whisper — an open-source AI-powered speech recognition system developed by OpenAI
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
+ * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
 
 
 ## Prompts
@@ -1069,6 +1065,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI's new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it'll auto adjust.
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - Implementation of all RL algorithms in a simpler way
  * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
+ * [TokenDagger](https://github.com/m4thyou/tokendagger) - High-Performance Implementation of OpenAI's TikToken.
 
 
 ## Tutorials
@@ -1429,6 +1426,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
+ * [llm.nvim](https://github.com/kurama622/llm.nvim) - Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
 
 
 ## Langchain
@@ -1863,6 +1861,8 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能的OpenAI格式API多密钥轮询代理服务器，支持负载均衡，使用 Go 语言开发。A high-performance OpenAI-compatible API proxy server with multi-key rotation and load balancing, built with Go.
  * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - OpenAI-compatible API server for Apple on-device models
  * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+ * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management, including MongoDB integration and Open
+ * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK.
 
 
 ## Others

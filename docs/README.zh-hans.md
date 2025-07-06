@@ -17,28 +17,23 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  一个精心策划的用户脚本精选列表。
+ * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 一个精心筛选的🌌 Azure OpenAI，🦙 大型语言模型（包括RAG，Agent），以及带备忘录的参考资料列表。
 
 
-**Chatbots**
- * [macai](https://github.com/renset/macai) - 一体化的原生macOS AI聊天应用程序：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter，以及所有兼容Open AI的API服务。
- * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - 高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。
-
-
-**Browser-extensions**
- * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop是一个基于Laravel 12的开源电子商务系统，支持多种语言、多种货币，集成了OpenAI，并具有插件机制和主题模板开发，以增强用户体验和系统可扩展性。
+**Reimplementations**
+ * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAI的TikToken的高性能实现。
 
 
 **NLP**
- * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - 基于PaddlePaddle的LLMs和VLMs的高性能推理和部署工具包
+ * [llm.nvim](https://github.com/kurama622/llm.nvim) - 免费的大型语言模型（LLM）支持Neovim，提供与LLM交互的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地LLM）。支持Github模型。
 
 
-**Langchain**
- * [llm-ui](https://github.com/richardgill/llm-ui) - 用于LLMs的React库
- * [boxcars](https://github.com/boxcarsai/boxcars) - 使用LLM的Boxcars构建具有可组合性的应用程序。受LangChain启发。
+**Openai**
+ * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：一个用作AI应用程序内存层的Python库。利用流行的数据库和存储解决方案来优化内存使用。提供实用类和方法，用于高效的数据管理，包括MongoDB集成和Open。
+ * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 超小型人工智能软件开发工具包。
 
 
-_Updated on July 03, 2025_ (A total of 2175 repositories listed.)
+_Updated on July 07, 2025_ (A total of 2180 repositories listed.)
 
 ## Table of contents
 
@@ -140,6 +135,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 Whisper的精彩列表 - 一个由OpenAI开发的开源AI驱动的语音识别系统
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全球最佳LLM资源总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型）| 简述全球最佳LLM资源。
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  一个精心策划的用户脚本精选列表。
+ * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 一个精心筛选的🌌 Azure OpenAI，🦙 大型语言模型（包括RAG，Agent），以及带备忘录的参考资料列表。
 
 
 ## Prompts
@@ -1069,6 +1065,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [deep-research](https://github.com/dzhng/deep-research) - 我自己开发了一个开源实现OpenAI新的深度研究代理的项目。无需支付200美元，即可获得相同的功能。您甚至可以通过可调节的广度和深度来调整代理的行为。无论是运行5分钟还是5小时，它都会自动调整。
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - 以更简单的方式实现所有强化学习算法
  * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - 以更简单的方式实现所有的RAG技术
+ * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAI的TikToken的高性能实现。
 
 
 ## Tutorials
@@ -1429,6 +1426,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 一个可以比较每个人工智能模型的网站 ✨
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的记忆存储在ChatGPT中...但其他地方没有。通用记忆MCP使您的记忆可供每个LLM使用。无需登录或付费墙。只需一个命令即可设置。
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - 基于PaddlePaddle的LLMs和VLMs的高性能推理和部署工具包
+ * [llm.nvim](https://github.com/kurama622/llm.nvim) - 免费的大型语言模型（LLM）支持Neovim，提供与LLM交互的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地LLM）。支持Github模型。
 
 
 ## Langchain
@@ -1863,6 +1861,8 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [gpt-load](https://github.com/tbphp/gpt-load) - 一个高性能的OpenAI兼容API代理服务器，支持多密钥轮询和负载均衡，使用Go语言开发。
  * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - 适用于苹果设备模型的OpenAI兼容API服务器
  * [pentagi](https://github.com/vxcontrol/pentagi) - ✨能够执行复杂渗透测试任务的完全自主的AI代理系统
+ * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：一个用作AI应用程序内存层的Python库。利用流行的数据库和存储解决方案来优化内存使用。提供实用类和方法，用于高效的数据管理，包括MongoDB集成和Open。
+ * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 超小型人工智能软件开发工具包。
 
 
 ## Others
