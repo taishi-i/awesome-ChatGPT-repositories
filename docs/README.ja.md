@@ -17,28 +17,23 @@
 ## The latest additions 🎉
 
 **Awesome-lists**
- * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 素晴らしいユーザースクリプトの厳選リスト。
+ * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 🌌 Azure OpenAI、🦙 ラージランゲージモデル（RAG、Agentを含む）、メモ付きの参照リスト
 
 
-**Chatbots**
- * [macai](https://github.com/renset/macai) - オールインワンのネイティブmacOS AIチャットアプリケーション：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter、およびすべてのOpen AI互換APIサービス
- * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - OpenAI互換API、8つの声、感情タグ、モダンなWeb UIを備えた高性能テキスト読み上げサーバー。RTX GPUに最適化されています。
-
-
-**Browser-extensions**
- * [innoshop](https://github.com/innocommerce/innoshop) - Innoshopは、Laravel 12をベースにしたオープンソースのeコマースシステムで、複数の言語、複数の通貨をサポートし、OpenAIと統合されています。プラグインメカニズムやテーマテンプレートの開発を特徴とし、ユーザーエクスペリエンスとシステムの拡張性を向上させています。
+**Reimplementations**
+ * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAIのTikTokenの高性能実装。
 
 
 **NLP**
- * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット
+ * [llm.nvim](https://github.com/kurama622/llm.nvim) - Neovim向けの無料の大規模言語モデル（LLM）サポートを提供し、LLMとのやり取りを行うコマンドを提供します（ChatGPT、ChatGLM、kimi、deepseek、openrouter、およびローカルLLMなど）。Githubモデルをサポートします。
 
 
-**Langchain**
- * [llm-ui](https://github.com/richardgill/llm-ui) - LLMsのReactライブラリ
- * [boxcars](https://github.com/boxcarsai/boxcars) - LLMを使用したボックスカーを使用したコンポーザビリティを持つアプリケーションの構築。LangChainに触発されました。
+**Openai**
+ * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：AIアプリケーションのメモリレイヤーとして機能するPythonライブラリ。人気のあるデータベースやストレージソリューションを活用してメモリ使用量を最適化します。MongoDB統合やOpenなど、効率的なデータ管理のためのユーティリティクラスやメソッドを提供します。
+ * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬エクストラスモールAI SDK。
 
 
-_Updated on July 03, 2025_ (A total of 2175 repositories listed.)
+_Updated on July 07, 2025_ (A total of 2180 repositories listed.)
 
 ## Table of contents
 
@@ -140,6 +135,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - 🔊 OpenAIによって開発されたオープンソースのAIパワード音声認識システムWhisper用の素晴らしいリストWhisper用の素晴らしいリスト
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 世界最高のLLMリソースの要約（エージェントフレームワーク、補助プログラミング、データ処理、モデルトレーニング、モデル推論、o1モデル、MCP、小さな言語モデル、ビジュアル言語モデル）
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 素晴らしいユーザースクリプトの厳選リスト。
+ * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 🌌 Azure OpenAI、🦙 ラージランゲージモデル（RAG、Agentを含む）、メモ付きの参照リスト
 
 
 ## Prompts
@@ -1069,6 +1065,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [deep-research](https://github.com/dzhng/deep-research) - 私自身のオープンソース実装は、OpenAIの新しいDeep Researchエージェントです。200ドル支払わずに同じ機能を手に入れることができます。さらに、エージェントの振る舞いを調整可能な幅と深さで調整することさえできます。5分間でも5時間でも実行し、自動調整されます。
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - より簡単な方法ですべてのRLアルゴリズムの実装
  * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - より簡単な方法ですべてのRAG技術の実装
+ * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAIのTikTokenの高性能実装。
 
 
 ## Tutorials
@@ -1429,6 +1426,7 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - 全てのAIモデルを比較できるウェブサイト ✨
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - あなたの思い出はChatGPTにあります... しかし他のどこにもありません。Universal Memory MCPはあなたの思い出をすべてのLLMに利用可能にします。ログインや有料壁はありません。セットアップするための1つのコマンドだけです。
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット
+ * [llm.nvim](https://github.com/kurama622/llm.nvim) - Neovim向けの無料の大規模言語モデル（LLM）サポートを提供し、LLMとのやり取りを行うコマンドを提供します（ChatGPT、ChatGLM、kimi、deepseek、openrouter、およびローカルLLMなど）。Githubモデルをサポートします。
 
 
 ## Langchain
@@ -1863,6 +1861,8 @@ _Updated on July 03, 2025_ (A total of 2175 repositories listed.)
  * [gpt-load](https://github.com/tbphp/gpt-load) - Go言語で開発された、マルチキーのローテーションと負荷分散をサポートする高性能なOpenAI互換APIプロキシサーバー。
  * [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - Appleのオンデバイスモデルに対応したOpenAI互換のAPIサーバー
  * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ 複雑な侵入テストタスクを実行できる完全自律型AIエージェントシステム
+ * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：AIアプリケーションのメモリレイヤーとして機能するPythonライブラリ。人気のあるデータベースやストレージソリューションを活用してメモリ使用量を最適化します。MongoDB統合やOpenなど、効率的なデータ管理のためのユーティリティクラスやメソッドを提供します。
+ * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬エクストラスモールAI SDK。
 
 
 ## Others
