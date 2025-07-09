@@ -16,24 +16,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 一个精心筛选的🌌 Azure OpenAI，🦙 大型语言模型（包括RAG，Agent），以及带备忘录的参考资料列表。
+**Chatbots**
+ * [LangBot](https://github.com/langbot-app/langbot) - 🤩 为LLM时代设计的易于使用的全球即时通信机器人平台 / 简单易用的大模型即时通信机器人开发平台 ⚡️ QQ / QQ频道 / Discord / 企业微信、个人微信 / Telegram / 飞书 / 钉钉 / Slack 🧩 集成了ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic
+ * [open-codex](https://github.com/codingmoh/open-codex) - 完全开源的命令行人工智能助手，灵感来自OpenAI Codex，支持本地语言模型。
 
 
-**Reimplementations**
- * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAI的TikToken的高性能实现。
+**Langchain**
+ * [sglang](https://github.com/sgl-project/sglang) - SGLang是一个快速的服务框架，适用于大型语言模型和视觉语言模型。
 
 
-**NLP**
- * [llm.nvim](https://github.com/kurama622/llm.nvim) - 免费的大型语言模型（LLM）支持Neovim，提供与LLM交互的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地LLM）。支持Github模型。
-
-
-**Openai**
- * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：一个用作AI应用程序内存层的Python库。利用流行的数据库和存储解决方案来优化内存使用。提供实用类和方法，用于高效的数据管理，包括MongoDB集成和Open。
- * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 超小型人工智能软件开发工具包。
-
-
-_Updated on July 07, 2025_ (A total of 2180 repositories listed.)
+_Updated on July 10, 2025_ (A total of 2183 repositories listed.)
 
 ## Table of contents
 
@@ -634,6 +626,8 @@ _Updated on July 07, 2025_ (A total of 2180 repositories listed.)
  * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM镜像OpenAI的TTS服务，为文本转语音提供兼容接口，提供多种免费语音选项。
  * [macai](https://github.com/renset/macai) - 一体化的原生macOS AI聊天应用程序：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter，以及所有兼容Open AI的API服务。
  * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - 高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。
+ * [LangBot](https://github.com/langbot-app/langbot) - 🤩 为LLM时代设计的易于使用的全球即时通信机器人平台 / 简单易用的大模型即时通信机器人开发平台 ⚡️ QQ / QQ频道 / Discord / 企业微信、个人微信 / Telegram / 飞书 / 钉钉 / Slack 🧩 集成了ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic
+ * [open-codex](https://github.com/codingmoh/open-codex) - 完全开源的命令行人工智能助手，灵感来自OpenAI Codex，支持本地语言模型。
 
 
 ## Browser-extensions
@@ -1578,6 +1572,7 @@ _Updated on July 07, 2025_ (A total of 2180 repositories listed.)
  * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - 克劳德代码 + [双子座 / OpenAI / Grok / OpenRouter / 奥拉玛 / 定制模型 / 以上所有] 联合运作的力量。
  * [llm-ui](https://github.com/richardgill/llm-ui) - 用于LLMs的React库
  * [boxcars](https://github.com/boxcarsai/boxcars) - 使用LLM的Boxcars构建具有可组合性的应用程序。受LangChain启发。
+ * [sglang](https://github.com/sgl-project/sglang) - SGLang是一个快速的服务框架，适用于大型语言模型和视觉语言模型。
 
 
 ## Unity

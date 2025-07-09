@@ -16,24 +16,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
+**Chatbots**
+ * [LangBot](https://github.com/langbot-app/langbot) - 🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic
+ * [open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 
 
-**Reimplementations**
- * [TokenDagger](https://github.com/m4thyou/tokendagger) - High-Performance Implementation of OpenAI's TikToken.
+**Langchain**
+ * [sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 
 
-**NLP**
- * [llm.nvim](https://github.com/kurama622/llm.nvim) - Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
-
-
-**Openai**
- * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management, including MongoDB integration and Open
- * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK.
-
-
-_Updated on July 07, 2025_ (A total of 2180 repositories listed.)
+_Updated on July 10, 2025_ (A total of 2183 repositories listed.)
 
 ## Table of contents
 
@@ -634,6 +626,8 @@ _Updated on July 07, 2025_ (A total of 2180 repositories listed.)
  * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFM mirrors OpenAI's TTS service, providing a compatible interface for text-to-speech conversion with multiple voice options for free.
  * [macai](https://github.com/renset/macai) - All-in-one native macOS AI chat application: Deepseek, ChatGPT, Claude, xAI Grok, Google Gemini, Perplexity, OpenRouter, and all Open AI-compatible API services
  * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.
+ * [LangBot](https://github.com/langbot-app/langbot) - 🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic
+ * [open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
 
 
 ## Browser-extensions
@@ -1578,6 +1572,7 @@ _Updated on July 07, 2025_ (A total of 2180 repositories listed.)
  * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
  * [llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
  * [boxcars](https://github.com/boxcarsai/boxcars) - Building applications with composability using Boxcars with LLM's. Inspired by LangChain.
+ * [sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 
 
 ## Unity
