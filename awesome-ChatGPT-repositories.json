@@ -14135,6 +14135,55 @@
                     "zh-hans": "高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。",
                     "zh-hant": "高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。"
                 }
+            },
+            "https://github.com/langbot-app/langbot": {
+                "repository_name": "LangBot",
+                "user_name": "langbot-app",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone etc. LLM & Agent",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "bot",
+                    "chatgpt",
+                    "deepseek",
+                    "dify",
+                    "dingtalk",
+                    "discord",
+                    "feishu",
+                    "langbot",
+                    "lark",
+                    "llm",
+                    "n8n",
+                    "ollama",
+                    "openai",
+                    "plugins",
+                    "qq",
+                    "rag",
+                    "telegram",
+                    "wechat"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic",
+                    "ja": "🤩 LLM時代向けに設計された使いやすいグローバルIMボットプラットフォーム / 簡単に使えるグローバルIMボットプラットフォーム ⚡️ QQ / QQチャンネル / Discord / WeChat（企業WeChat、個人WeChat）/ Telegram / 飛書 / 钉钉 / Slack 🧩 ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silicと統合",
+                    "zh-hans": "🤩 为LLM时代设计的易于使用的全球即时通信机器人平台 / 简单易用的大模型即时通信机器人开发平台 ⚡️ QQ / QQ频道 / Discord / 企业微信、个人微信 / Telegram / 飞书 / 钉钉 / Slack 🧩 集成了ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic",
+                    "zh-hant": "🤩 專為LLM時代設計的易於使用的全球即時通信機器人平台 / 簡單易用的大模型即時通信機器人開發平台 ⚡️ QQ機器人 / QQ頻道 / Discord / 微信（企業微信、個人微信）/ Telegram / 飛書 / 釘釘 / Slack 🧩 集成了ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里雲百煉、Silic"
+                }
+            },
+            "https://github.com/codingmoh/open-codex": {
+                "repository_name": "open-codex",
+                "user_name": "codingmoh",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.",
+                    "ja": "OpenAI Codexに触発された完全なオープンソースのコマンドラインAIアシスタントで、ローカル言語モデルをサポートしています。",
+                    "zh-hans": "完全开源的命令行人工智能助手，灵感来自OpenAI Codex，支持本地语言模型。",
+                    "zh-hant": "完全開源的命令行人工智慧助理，靈感來自OpenAI Codex，支援本地語言模型。"
+                }
             }
         },
         "Browser-extensions": {
@@ -35286,6 +35335,41 @@
                     "ja": "LLMを使用したボックスカーを使用したコンポーザビリティを持つアプリケーションの構築。LangChainに触発されました。",
                     "zh-hans": "使用LLM的Boxcars构建具有可组合性的应用程序。受LangChain启发。",
                     "zh-hant": "使用LLM的Boxcars構建具有可組合性的應用程序。受LangChain啟發。"
+                }
+            },
+            "https://github.com/sgl-project/sglang": {
+                "repository_name": "sglang",
+                "user_name": "sgl-project",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "SGLang is a fast serving framework for large language models and vision language models.",
+                "topics": [
+                    "blackwell",
+                    "cuda",
+                    "deepseek",
+                    "deepseek-llm",
+                    "deepseek-r1",
+                    "deepseek-v3",
+                    "inference",
+                    "llama",
+                    "llama3",
+                    "llama4",
+                    "llama5",
+                    "llava",
+                    "llm",
+                    "llm-serving",
+                    "moe",
+                    "openai",
+                    "pytorch",
+                    "qwen3",
+                    "transformer",
+                    "vlm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "SGLang is a fast serving framework for large language models and vision language models.",
+                    "ja": "SGLangは大規模言語モデルやビジョン言語モデル向けの高速サービングフレームワークです。",
+                    "zh-hans": "SGLang是一个快速的服务框架，适用于大型语言模型和视觉语言模型。",
+                    "zh-hant": "SGLang是一個快速服務框架，適用於大型語言模型和視覺語言模型。"
                 }
             }
         },

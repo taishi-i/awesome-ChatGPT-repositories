@@ -16,24 +16,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 🌌 Azure OpenAI、🦙 ラージランゲージモデル（RAG、Agentを含む）、メモ付きの参照リスト
+**Chatbots**
+ * [LangBot](https://github.com/langbot-app/langbot) - 🤩 LLM時代向けに設計された使いやすいグローバルIMボットプラットフォーム / 簡単に使えるグローバルIMボットプラットフォーム ⚡️ QQ / QQチャンネル / Discord / WeChat（企業WeChat、個人WeChat）/ Telegram / 飛書 / 钉钉 / Slack 🧩 ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silicと統合
+ * [open-codex](https://github.com/codingmoh/open-codex) - OpenAI Codexに触発された完全なオープンソースのコマンドラインAIアシスタントで、ローカル言語モデルをサポートしています。
 
 
-**Reimplementations**
- * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAIのTikTokenの高性能実装。
+**Langchain**
+ * [sglang](https://github.com/sgl-project/sglang) - SGLangは大規模言語モデルやビジョン言語モデル向けの高速サービングフレームワークです。
 
 
-**NLP**
- * [llm.nvim](https://github.com/kurama622/llm.nvim) - Neovim向けの無料の大規模言語モデル（LLM）サポートを提供し、LLMとのやり取りを行うコマンドを提供します（ChatGPT、ChatGLM、kimi、deepseek、openrouter、およびローカルLLMなど）。Githubモデルをサポートします。
-
-
-**Openai**
- * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：AIアプリケーションのメモリレイヤーとして機能するPythonライブラリ。人気のあるデータベースやストレージソリューションを活用してメモリ使用量を最適化します。MongoDB統合やOpenなど、効率的なデータ管理のためのユーティリティクラスやメソッドを提供します。
- * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬エクストラスモールAI SDK。
-
-
-_Updated on July 07, 2025_ (A total of 2180 repositories listed.)
+_Updated on July 10, 2025_ (A total of 2183 repositories listed.)
 
 ## Table of contents
 
@@ -634,6 +626,8 @@ _Updated on July 07, 2025_ (A total of 2180 repositories listed.)
  * [ttsfm](https://github.com/dbccccccc/ttsfm) - TTSFMは、OpenAIのTTSサービスをミラーリングし、複数の音声オプションを備えたテキスト読み上げ変換のための互換性のあるインターフェースを無料で提供しています。
  * [macai](https://github.com/renset/macai) - オールインワンのネイティブmacOS AIチャットアプリケーション：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter、およびすべてのOpen AI互換APIサービス
  * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - OpenAI互換API、8つの声、感情タグ、モダンなWeb UIを備えた高性能テキスト読み上げサーバー。RTX GPUに最適化されています。
+ * [LangBot](https://github.com/langbot-app/langbot) - 🤩 LLM時代向けに設計された使いやすいグローバルIMボットプラットフォーム / 簡単に使えるグローバルIMボットプラットフォーム ⚡️ QQ / QQチャンネル / Discord / WeChat（企業WeChat、個人WeChat）/ Telegram / 飛書 / 钉钉 / Slack 🧩 ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silicと統合
+ * [open-codex](https://github.com/codingmoh/open-codex) - OpenAI Codexに触発された完全なオープンソースのコマンドラインAIアシスタントで、ローカル言語モデルをサポートしています。
 
 
 ## Browser-extensions
@@ -1578,6 +1572,7 @@ _Updated on July 07, 2025_ (A total of 2180 repositories listed.)
  * [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - クロードコード+ [ジェミニ / オープンAI / グロック / オープンルーター / オラマ / カスタムモデル / 以上すべて] が一つとして機能する力。
  * [llm-ui](https://github.com/richardgill/llm-ui) - LLMsのReactライブラリ
  * [boxcars](https://github.com/boxcarsai/boxcars) - LLMを使用したボックスカーを使用したコンポーザビリティを持つアプリケーションの構築。LangChainに触発されました。
+ * [sglang](https://github.com/sgl-project/sglang) - SGLangは大規模言語モデルやビジョン言語モデル向けの高速サービングフレームワークです。
 
 
 ## Unity
