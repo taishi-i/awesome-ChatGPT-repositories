@@ -16,16 +16,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [LangBot](https://github.com/langbot-app/langbot) - 🤩 LLM時代向けに設計された使いやすいグローバルIMボットプラットフォーム / 簡単に使えるグローバルIMボットプラットフォーム ⚡️ QQ / QQチャンネル / Discord / WeChat（企業WeChat、個人WeChat）/ Telegram / 飛書 / 钉钉 / Slack 🧩 ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silicと統合
- * [open-codex](https://github.com/codingmoh/open-codex) - OpenAI Codexに触発された完全なオープンソースのコマンドラインAIアシスタントで、ローカル言語モデルをサポートしています。
+**Browser-extensions**
+ * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 読むカエル - オープンソースの没入型翻訳 | 🐸 陪読蛙 - オープンソースの没入型翻訳
+
+
+**CLIs**
+ * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク
 
 
 **Langchain**
- * [sglang](https://github.com/sgl-project/sglang) - SGLangは大規模言語モデルやビジョン言語モデル向けの高速サービングフレームワークです。
+ * [ai-guide](https://github.com/liyupi/ai-guide) - プログラマーの魚皮のAIナレッジベースは、Deepseekの使用ガイド、ヒントとトリック、知識のエッセンス、アプリケーションシナリオ、AIの収益化、業界ニュース、チュートリアルリソースなど、人気のあるAI大規模モデルやツールをまとめています。これにより、AI技術を迅速に習得し、時代の最先端に立つことができます。ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROKなどの大規模モデル、Spring AI、LangChain、RAG、MCP、A2Aなどの技術、Cursorなどのツールが含まれています。このプロジェクトはオープンソースのドキュメントバージョンであり、ウェブサイトはプログラミングナビゲーションAIセクションにアップグレードされました。
 
 
-_Updated on July 10, 2025_ (A total of 2183 repositories listed.)
+**Openai**
+ * [myosuite](https://github.com/myohub/myosuite) - MyoSuiteは、MuJoCo物理エンジンでシミュレートされた筋骨格モデルによって解決される環境/タスクのコレクションであり、OpenAI gym APIでラップされています。
+
+
+_Updated on July 14, 2025_ (A total of 2187 repositories listed.)
 
 ## Table of contents
 
@@ -853,6 +860,7 @@ _Updated on July 10, 2025_ (A total of 2183 repositories listed.)
  * [mcp-unity](https://github.com/codergamester/mcp-unity) - UnityエディターとModel Context Protocol（MCP）を統合するためのUnityプラグイン- AI支援開発とOpenAI、Gemini、Claudeの相互運用性を目的として設計されています。
  * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - 入力: "メタ、ChatGPTにメッセージを送って" Mai: Meta Glasses用のHacky Messengerブラウザ拡張機能＆疑似API :eyeglasses:
  * [innoshop](https://github.com/innocommerce/innoshop) - Innoshopは、Laravel 12をベースにしたオープンソースのeコマースシステムで、複数の言語、複数の通貨をサポートし、OpenAIと統合されています。プラグインメカニズムやテーマテンプレートの開発を特徴とし、ユーザーエクスペリエンスとシステムの拡張性を向上させています。
+ * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 読むカエル - オープンソースの没入型翻訳 | 🐸 陪読蛙 - オープンソースの没入型翻訳
 
 
 ## CLIs
@@ -1016,6 +1024,7 @@ _Updated on July 10, 2025_ (A total of 2183 repositories listed.)
  * [wcgw](https://github.com/rusiaaman/wcgw) - クロードデスクトップアプリのシェルとコーディングエージェント
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - アーケードPython SDK、CLI、およびツールキット
  * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AIクライアント（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere、...）
+ * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク
 
 
 ## Reimplementations
@@ -1573,6 +1582,7 @@ _Updated on July 10, 2025_ (A total of 2183 repositories listed.)
  * [llm-ui](https://github.com/richardgill/llm-ui) - LLMsのReactライブラリ
  * [boxcars](https://github.com/boxcarsai/boxcars) - LLMを使用したボックスカーを使用したコンポーザビリティを持つアプリケーションの構築。LangChainに触発されました。
  * [sglang](https://github.com/sgl-project/sglang) - SGLangは大規模言語モデルやビジョン言語モデル向けの高速サービングフレームワークです。
+ * [ai-guide](https://github.com/liyupi/ai-guide) - プログラマーの魚皮のAIナレッジベースは、Deepseekの使用ガイド、ヒントとトリック、知識のエッセンス、アプリケーションシナリオ、AIの収益化、業界ニュース、チュートリアルリソースなど、人気のあるAI大規模モデルやツールをまとめています。これにより、AI技術を迅速に習得し、時代の最先端に立つことができます。ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROKなどの大規模モデル、Spring AI、LangChain、RAG、MCP、A2Aなどの技術、Cursorなどのツールが含まれています。このプロジェクトはオープンソースのドキュメントバージョンであり、ウェブサイトはプログラミングナビゲーションAIセクションにアップグレードされました。
 
 
 ## Unity
@@ -1858,6 +1868,7 @@ _Updated on July 10, 2025_ (A total of 2183 repositories listed.)
  * [pentagi](https://github.com/vxcontrol/pentagi) - ✨ 複雑な侵入テストタスクを実行できる完全自律型AIエージェントシステム
  * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：AIアプリケーションのメモリレイヤーとして機能するPythonライブラリ。人気のあるデータベースやストレージソリューションを活用してメモリ使用量を最適化します。MongoDB統合やOpenなど、効率的なデータ管理のためのユーティリティクラスやメソッドを提供します。
  * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬エクストラスモールAI SDK。
+ * [myosuite](https://github.com/myohub/myosuite) - MyoSuiteは、MuJoCo物理エンジンでシミュレートされた筋骨格モデルによって解決される環境/タスクのコレクションであり、OpenAI gym APIでラップされています。
 
 
 ## Others
