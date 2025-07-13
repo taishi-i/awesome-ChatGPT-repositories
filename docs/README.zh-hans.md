@@ -16,16 +16,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [LangBot](https://github.com/langbot-app/langbot) - 🤩 为LLM时代设计的易于使用的全球即时通信机器人平台 / 简单易用的大模型即时通信机器人开发平台 ⚡️ QQ / QQ频道 / Discord / 企业微信、个人微信 / Telegram / 飞书 / 钉钉 / Slack 🧩 集成了ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic
- * [open-codex](https://github.com/codingmoh/open-codex) - 完全开源的命令行人工智能助手，灵感来自OpenAI Codex，支持本地语言模型。
+**Browser-extensions**
+ * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 陪读蛙 - 开源沉浸式翻译
+
+
+**CLIs**
+ * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 一个框架，可以使Android和计算机能够自主使用任何LLM（本地或远程）。
 
 
 **Langchain**
- * [sglang](https://github.com/sgl-project/sglang) - SGLang是一个快速的服务框架，适用于大型语言模型和视觉语言模型。
+ * [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块。
 
 
-_Updated on July 10, 2025_ (A total of 2183 repositories listed.)
+**Openai**
+ * [myosuite](https://github.com/myohub/myosuite) - MyoSuite是一个由肌肉骨骼模型解决的环境/任务集合，使用MuJoCo物理引擎模拟，并包装在OpenAI gym API中。
+
+
+_Updated on July 14, 2025_ (A total of 2187 repositories listed.)
 
 ## Table of contents
 
@@ -853,6 +860,7 @@ _Updated on July 10, 2025_ (A total of 2183 repositories listed.)
  * [mcp-unity](https://github.com/codergamester/mcp-unity) - 用于将模型上下文协议（MCP）与Unity编辑器集成的Unity插件 - 旨在支持AI辅助开发和OpenAI，Gemini和Claude的互操作性
  * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "嘿Meta，给ChatGPT发送一条消息" Mai：一个用于Meta眼镜的Hacky Messenger浏览器扩展和伪API :eyeglasses:
  * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop是一个基于Laravel 12的开源电子商务系统，支持多种语言、多种货币，集成了OpenAI，并具有插件机制和主题模板开发，以增强用户体验和系统可扩展性。
+ * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 陪读蛙 - 开源沉浸式翻译
 
 
 ## CLIs
@@ -1016,6 +1024,7 @@ _Updated on July 10, 2025_ (A total of 2183 repositories listed.)
  * [wcgw](https://github.com/rusiaaman/wcgw) - 克劳德桌面应用程序上的Shell和编码代理
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - Arcade Python SDK、CLI和工具包
  * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust多提供者生成式AI客户端（Ollama，OpenAi，Anthropic，Gemini，DeepSeek，xAI/Grok，Groq，Cohere，...）
+ * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 一个框架，可以使Android和计算机能够自主使用任何LLM（本地或远程）。
 
 
 ## Reimplementations
@@ -1573,6 +1582,7 @@ _Updated on July 10, 2025_ (A total of 2183 repositories listed.)
  * [llm-ui](https://github.com/richardgill/llm-ui) - 用于LLMs的React库
  * [boxcars](https://github.com/boxcarsai/boxcars) - 使用LLM的Boxcars构建具有可组合性的应用程序。受LangChain启发。
  * [sglang](https://github.com/sgl-project/sglang) - SGLang是一个快速的服务框架，适用于大型语言模型和视觉语言模型。
+ * [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块。
 
 
 ## Unity
@@ -1858,6 +1868,7 @@ _Updated on July 10, 2025_ (A total of 2183 repositories listed.)
  * [pentagi](https://github.com/vxcontrol/pentagi) - ✨能够执行复杂渗透测试任务的完全自主的AI代理系统
  * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：一个用作AI应用程序内存层的Python库。利用流行的数据库和存储解决方案来优化内存使用。提供实用类和方法，用于高效的数据管理，包括MongoDB集成和Open。
  * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 超小型人工智能软件开发工具包。
+ * [myosuite](https://github.com/myohub/myosuite) - MyoSuite是一个由肌肉骨骼模型解决的环境/任务集合，使用MuJoCo物理引擎模拟，并包装在OpenAI gym API中。
 
 
 ## Others
