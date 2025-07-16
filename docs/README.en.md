@@ -16,23 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [judgeval](https://github.com/judgmentlabs/judgeval) - The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.
+ * [gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
+
+
 **Browser-extensions**
- * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+ * [koog](https://github.com/jetbrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and pr
 
 
 **CLIs**
- * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - A framework to enable autonomous android and computer use using any LLM (local or remote)
+ * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - A minimalistic MCP client with a good feature set.
 
 
-**Langchain**
- * [ai-guide](https://github.com/liyupi/ai-guide) - Programmer Fish Skin's AI knowledge base, summarizing popular AI large models and tools, such as Deepseek user guide, tips and tricks, knowledge dry goods, application scenarios, AI monetization, industry information, tutorial resources and a series of content to help you quickly master AI technology and stay at the forefront of the times. It involves large models such as ChatGPT, Claude, Gemini, Deepseek, Deepseek-r1, QWEN, GROK, etc.; it involves technologies such as Spring AI, LangChain, RAG, MCP, A2A, etc.; it involves tools such as Cursor. This project is an open source document version, and the website has been upgraded to the programming navigation AI section.
-
-
-**Openai**
- * [myosuite](https://github.com/myohub/myosuite) - MyoSuite is a collection of environments/tasks to be solved by musculoskeletal models simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API.
-
-
-_Updated on July 14, 2025_ (A total of 2187 repositories listed.)
+_Updated on July 17, 2025_ (A total of 2191 repositories listed.)
 
 ## Table of contents
 
@@ -302,6 +299,8 @@ _Updated on July 14, 2025_ (A total of 2187 repositories listed.)
  * [fellow](https://github.com/manuelzierl/fellow) - Fellow is a command-line interface (CLI) tool that acts as an autonomous software engineering assistant. It uses the OpenAI API to perform various structured tasks by reasoning step-by-step, executing commands, and maintaining a log of its activities.
  * [just-prompt](https://github.com/disler/just-prompt) - just-prompt is an MCP server that provides a unified interface to top LLM providers (OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama)
  * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - Sample prompts for various generative AIs such as ChatGPT and Copilot in Japanese.
+ * [judgeval](https://github.com/judgmentlabs/judgeval) - The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.
+ * [gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
 
 
 ## Chatbots
@@ -861,6 +860,7 @@ _Updated on July 14, 2025_ (A total of 2187 repositories listed.)
  * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "Hey Meta send a message to ChatGPT" Mai: A Hacky Messenger browser extension & pseudo API for the Meta Glasses :eyeglasses:
  * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop is an Open Source eCommerce System based on Laravel 12, supporting multiple languages, multiple currencies, integrated with OpenAI, and featuring plugin mechanisms and theme template development for enhanced user experience and system extensibilit
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
+ * [koog](https://github.com/jetbrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and pr
 
 
 ## CLIs
@@ -1025,6 +1025,7 @@ _Updated on July 14, 2025_ (A total of 2187 repositories listed.)
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - Arcade Python SDK, CLI, and toolkits
  * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - A framework to enable autonomous android and computer use using any LLM (local or remote)
+ * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - A minimalistic MCP client with a good feature set.
 
 
 ## Reimplementations

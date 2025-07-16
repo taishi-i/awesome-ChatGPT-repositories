@@ -16,23 +16,20 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [judgeval](https://github.com/judgmentlabs/judgeval) - エージェント向けのオープンソースのポストビルディングレイヤー。当社のトレース+評価は、エージェントのポストトレーニング（RL、SFT）、モニタリング、および回帰テストを強化します。
+ * [gateway](https://github.com/adaline/gateway) - たった一つの完全にローカルな製品グレードのスーパーSDKは、200以上のLLMを呼び出すためのシンプルで統一された強力なインターフェースを提供します。
+
+
 **Browser-extensions**
- * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 読むカエル - オープンソースの没入型翻訳 | 🐸 陪読蛙 - オープンソースの没入型翻訳
+ * [koog](https://github.com/jetbrains/koog) - Koogは、バックエンドサービスからAndroid、JVM、さらにはブラウザ環境まで、あらゆるプラットフォームで頑丈でスケーラブルで本番向けのAIエージェントを構築および実行するための公式のKotlinフレームワークです。Koogは、私たちのAI製品の専門知識に基づいています。
 
 
 **CLIs**
- * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク
+ * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 機能が優れたミニマリストのMCPクライアント。
 
 
-**Langchain**
- * [ai-guide](https://github.com/liyupi/ai-guide) - プログラマーの魚皮のAIナレッジベースは、Deepseekの使用ガイド、ヒントとトリック、知識のエッセンス、アプリケーションシナリオ、AIの収益化、業界ニュース、チュートリアルリソースなど、人気のあるAI大規模モデルやツールをまとめています。これにより、AI技術を迅速に習得し、時代の最先端に立つことができます。ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROKなどの大規模モデル、Spring AI、LangChain、RAG、MCP、A2Aなどの技術、Cursorなどのツールが含まれています。このプロジェクトはオープンソースのドキュメントバージョンであり、ウェブサイトはプログラミングナビゲーションAIセクションにアップグレードされました。
-
-
-**Openai**
- * [myosuite](https://github.com/myohub/myosuite) - MyoSuiteは、MuJoCo物理エンジンでシミュレートされた筋骨格モデルによって解決される環境/タスクのコレクションであり、OpenAI gym APIでラップされています。
-
-
-_Updated on July 14, 2025_ (A total of 2187 repositories listed.)
+_Updated on July 17, 2025_ (A total of 2191 repositories listed.)
 
 ## Table of contents
 
@@ -302,6 +299,8 @@ _Updated on July 14, 2025_ (A total of 2187 repositories listed.)
  * [fellow](https://github.com/manuelzierl/fellow) - Fellowは、自律型ソフトウェアエンジニアリングアシスタントとして機能するコマンドラインインターフェース（CLI）ツールです。Fellowは、ステップバイステップの推論、コマンドの実行、および活動のログの維持によって、さまざまな構造化されたタスクを実行するためにOpenAI APIを使用します。
  * [just-prompt](https://github.com/disler/just-prompt) - just-promptは、トップのLLMプロバイダ（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek、Ollama）に統一されたインターフェースを提供するMCPサーバーです。
  * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+ * [judgeval](https://github.com/judgmentlabs/judgeval) - エージェント向けのオープンソースのポストビルディングレイヤー。当社のトレース+評価は、エージェントのポストトレーニング（RL、SFT）、モニタリング、および回帰テストを強化します。
+ * [gateway](https://github.com/adaline/gateway) - たった一つの完全にローカルな製品グレードのスーパーSDKは、200以上のLLMを呼び出すためのシンプルで統一された強力なインターフェースを提供します。
 
 
 ## Chatbots
@@ -861,6 +860,7 @@ _Updated on July 14, 2025_ (A total of 2187 repositories listed.)
  * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - 入力: "メタ、ChatGPTにメッセージを送って" Mai: Meta Glasses用のHacky Messengerブラウザ拡張機能＆疑似API :eyeglasses:
  * [innoshop](https://github.com/innocommerce/innoshop) - Innoshopは、Laravel 12をベースにしたオープンソースのeコマースシステムで、複数の言語、複数の通貨をサポートし、OpenAIと統合されています。プラグインメカニズムやテーマテンプレートの開発を特徴とし、ユーザーエクスペリエンスとシステムの拡張性を向上させています。
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 読むカエル - オープンソースの没入型翻訳 | 🐸 陪読蛙 - オープンソースの没入型翻訳
+ * [koog](https://github.com/jetbrains/koog) - Koogは、バックエンドサービスからAndroid、JVM、さらにはブラウザ環境まで、あらゆるプラットフォームで頑丈でスケーラブルで本番向けのAIエージェントを構築および実行するための公式のKotlinフレームワークです。Koogは、私たちのAI製品の専門知識に基づいています。
 
 
 ## CLIs
@@ -1025,6 +1025,7 @@ _Updated on July 14, 2025_ (A total of 2187 repositories listed.)
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - アーケードPython SDK、CLI、およびツールキット
  * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AIクライアント（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere、...）
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク
+ * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 機能が優れたミニマリストのMCPクライアント。
 
 
 ## Reimplementations
