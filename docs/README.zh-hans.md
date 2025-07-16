@@ -16,23 +16,20 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [judgeval](https://github.com/judgmentlabs/judgeval) - 为代理商提供的开源后建层。我们的跟踪+评估功能可为代理商提供培训后的支持（RL，SFT），监控和回归测试。
+ * [gateway](https://github.com/adaline/gateway) - 提供简单、统一、强大接口的唯一完全本地生产级Super SDK，可调用200多个LLM。
+
+
 **Browser-extensions**
- * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 陪读蛙 - 开源沉浸式翻译
+ * [koog](https://github.com/jetbrains/koog) - Koog是官方的Kotlin框架，用于构建和运行强大、可扩展和生产就绪的AI代理，适用于各种平台-从后端服务到Android、JVM，甚至浏览器环境。Koog基于我们的AI产品专业知识。
 
 
 **CLIs**
- * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 一个框架，可以使Android和计算机能够自主使用任何LLM（本地或远程）。
+ * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 一个具有良好功能集的极简MCP客户端。
 
 
-**Langchain**
- * [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块。
-
-
-**Openai**
- * [myosuite](https://github.com/myohub/myosuite) - MyoSuite是一个由肌肉骨骼模型解决的环境/任务集合，使用MuJoCo物理引擎模拟，并包装在OpenAI gym API中。
-
-
-_Updated on July 14, 2025_ (A total of 2187 repositories listed.)
+_Updated on July 17, 2025_ (A total of 2191 repositories listed.)
 
 ## Table of contents
 
@@ -302,6 +299,8 @@ _Updated on July 14, 2025_ (A total of 2187 repositories listed.)
  * [fellow](https://github.com/manuelzierl/fellow) - Fellow是一个命令行界面（CLI）工具，作为一个自主的软件工程助手。它使用OpenAI API来逐步推理，执行命令，以及记录活动日志来执行各种结构化任务。
  * [just-prompt](https://github.com/disler/just-prompt) - just-prompt是一个MCP服务器，为顶级LLM提供商（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek和Ollama）提供统一接口。
  * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPT和Copilot等各种生成AI用的“日本语”提示的样本
+ * [judgeval](https://github.com/judgmentlabs/judgeval) - 为代理商提供的开源后建层。我们的跟踪+评估功能可为代理商提供培训后的支持（RL，SFT），监控和回归测试。
+ * [gateway](https://github.com/adaline/gateway) - 提供简单、统一、强大接口的唯一完全本地生产级Super SDK，可调用200多个LLM。
 
 
 ## Chatbots
@@ -861,6 +860,7 @@ _Updated on July 14, 2025_ (A total of 2187 repositories listed.)
  * [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - "嘿Meta，给ChatGPT发送一条消息" Mai：一个用于Meta眼镜的Hacky Messenger浏览器扩展和伪API :eyeglasses:
  * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop是一个基于Laravel 12的开源电子商务系统，支持多种语言、多种货币，集成了OpenAI，并具有插件机制和主题模板开发，以增强用户体验和系统可扩展性。
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 陪读蛙 - 开源沉浸式翻译
+ * [koog](https://github.com/jetbrains/koog) - Koog是官方的Kotlin框架，用于构建和运行强大、可扩展和生产就绪的AI代理，适用于各种平台-从后端服务到Android、JVM，甚至浏览器环境。Koog基于我们的AI产品专业知识。
 
 
 ## CLIs
@@ -1025,6 +1025,7 @@ _Updated on July 14, 2025_ (A total of 2187 repositories listed.)
  * [arcade-ai](https://github.com/arcadeai/arcade-ai) - Arcade Python SDK、CLI和工具包
  * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust多提供者生成式AI客户端（Ollama，OpenAi，Anthropic，Gemini，DeepSeek，xAI/Grok，Groq，Cohere，...）
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 一个框架，可以使Android和计算机能够自主使用任何LLM（本地或远程）。
+ * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 一个具有良好功能集的极简MCP客户端。
 
 
 ## Reimplementations

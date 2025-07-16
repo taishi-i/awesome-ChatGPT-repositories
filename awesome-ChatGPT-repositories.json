@@ -6015,6 +6015,58 @@
                     "zh-hans": "ChatGPT和Copilot等各种生成AI用的“日本语”提示的样本",
                     "zh-hant": "ChatGPT和Copilot等各種生成AI用的“日本語”的Prompt的範例ChatGPT和Copilot等各種生成AI用的「日本語」的Prompt的範例"
                 }
+            },
+            "https://github.com/judgmentlabs/judgeval": {
+                "repository_name": "judgeval",
+                "user_name": "JudgmentLabs",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "agents",
+                    "langchain",
+                    "langgraph",
+                    "llama-index",
+                    "llm",
+                    "llm-evaluation",
+                    "llm-observability",
+                    "open-source",
+                    "openai",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.",
+                    "ja": "エージェント向けのオープンソースのポストビルディングレイヤー。当社のトレース+評価は、エージェントのポストトレーニング（RL、SFT）、モニタリング、および回帰テストを強化します。",
+                    "zh-hans": "为代理商提供的开源后建层。我们的跟踪+评估功能可为代理商提供培训后的支持（RL，SFT），监控和回归测试。",
+                    "zh-hant": "為代理商提供的開源後建層。我們的跟踪+評估功能可為代理商提供培訓後（RL，SFT）的支持，監控和回歸測試。"
+                }
+            },
+            "https://github.com/adaline/gateway": {
+                "repository_name": "gateway",
+                "user_name": "adaline",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "anthropic",
+                    "language-model",
+                    "llm",
+                    "llmops",
+                    "openai",
+                    "prompt-engineering",
+                    "togetherai",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.",
+                    "ja": "たった一つの完全にローカルな製品グレードのスーパーSDKは、200以上のLLMを呼び出すためのシンプルで統一された強力なインターフェースを提供します。",
+                    "zh-hans": "提供简单、统一、强大接口的唯一完全本地生产级Super SDK，可调用200多个LLM。",
+                    "zh-hant": "提供簡單、統一和強大介面，可呼叫200多個以上的LLM的唯一完全本地生產級Super SDK。"
+                }
             }
         },
         "Chatbots": {
@@ -19386,6 +19438,38 @@
                     "zh-hans": "🐸 陪读蛙 - 开源沉浸式翻译",
                     "zh-hant": "🐸 陪讀蛙 - 開源沉浸式翻譯"
                 }
+            },
+            "https://github.com/jetbrains/koog": {
+                "repository_name": "koog",
+                "user_name": "JetBrains",
+                "language": "Kotlin",
+                "license": "Apache License 2.0",
+                "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+                "topics": [
+                    "agentframework",
+                    "agentic-ai",
+                    "agents",
+                    "ai",
+                    "aiagentframework",
+                    "android-ai",
+                    "anthropic",
+                    "generative-ai",
+                    "java",
+                    "jvm",
+                    "kotlin",
+                    "ktor",
+                    "llm",
+                    "mcp",
+                    "ollama",
+                    "openai",
+                    "spring"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and pr",
+                    "ja": "Koogは、バックエンドサービスからAndroid、JVM、さらにはブラウザ環境まで、あらゆるプラットフォームで頑丈でスケーラブルで本番向けのAIエージェントを構築および実行するための公式のKotlinフレームワークです。Koogは、私たちのAI製品の専門知識に基づいています。",
+                    "zh-hans": "Koog是官方的Kotlin框架，用于构建和运行强大、可扩展和生产就绪的AI代理，适用于各种平台-从后端服务到Android、JVM，甚至浏览器环境。Koog基于我们的AI产品专业知识。",
+                    "zh-hant": "Koog 是官方的 Kotlin 框架，用於構建和運行強大、可擴展和生產就緒的 AI 代理，可在所有平台上使用 - 從後端服務到 Android、JVM，甚至在瀏覽器環境中。Koog 基於我們的 AI 產品專業知識。"
+                }
             }
         },
         "CLIs": {
@@ -23140,6 +23224,28 @@
                     "ja": "任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク",
                     "zh-hans": "一个框架，可以使Android和计算机能够自主使用任何LLM（本地或远程）。",
                     "zh-hant": "一個框架，可以讓使用者使用任何本地或遠程的LLM（本地或遠程）來實現自主的安卓和電腦使用。"
+                }
+            },
+            "https://github.com/zaidmukaddam/scira-mcp-chat": {
+                "repository_name": "scira-mcp-chat",
+                "user_name": "zaidmukaddam",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "A minimalistic MCP client with a good feature set.",
+                "topics": [
+                    "anthropic",
+                    "grok3",
+                    "mcp",
+                    "mcp-client",
+                    "model-context-protocol",
+                    "openai",
+                    "xai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A minimalistic MCP client with a good feature set.",
+                    "ja": "機能が優れたミニマリストのMCPクライアント。",
+                    "zh-hans": "一个具有良好功能集的极简MCP客户端。",
+                    "zh-hant": "一個具有良好功能集的極簡MCP客戶端。"
                 }
             }
         },
