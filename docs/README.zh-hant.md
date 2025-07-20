@@ -16,20 +16,15 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [judgeval](https://github.com/judgmentlabs/judgeval) - 為代理商提供的開源後建層。我們的跟踪+評估功能可為代理商提供培訓後（RL，SFT）的支持，監控和回歸測試。
- * [gateway](https://github.com/adaline/gateway) - 提供簡單、統一和強大介面，可呼叫200多個以上的LLM的唯一完全本地生產級Super SDK。
+**Awesome-lists**
+ * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 一個排名優秀的機器學習Python庫列表。每週更新。
 
 
-**Browser-extensions**
- * [koog](https://github.com/jetbrains/koog) - Koog 是官方的 Kotlin 框架，用於構建和運行強大、可擴展和生產就緒的 AI 代理，可在所有平台上使用 - 從後端服務到 Android、JVM，甚至在瀏覽器環境中。Koog 基於我們的 AI 產品專業知識。
+**NLP**
+ * [2txt](https://github.com/ai-ng/2txt) - 圖片轉文字，快速。
 
 
-**CLIs**
- * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 一個具有良好功能集的極簡MCP客戶端。
-
-
-_Updated on July 17, 2025_ (A total of 2191 repositories listed.)
+_Updated on July 21, 2025_ (A total of 2193 repositories listed.)
 
 ## Table of contents
 
@@ -132,6 +127,7 @@ _Updated on July 17, 2025_ (A total of 2191 repositories listed.)
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM資料總結（Agent框架、輔助編程、數據處理、模型訓練、模型推理、o1 模型、MCP、小語言模型、視覺語言模型）| 全球最佳LLM資源摘要。
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 精選的超棒使用者腳本清單。
  * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 一個精心挑選的🌌 Azure OpenAI、🦙 大型語言模型（包括RAG、Agent）以及帶有備忘錄的參考資料清單。
+ * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 一個排名優秀的機器學習Python庫列表。每週更新。
 
 
 ## Prompts
@@ -1431,6 +1427,7 @@ _Updated on July 17, 2025_ (A total of 2191 repositories listed.)
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的記憶存在於ChatGPT中...但其他地方沒有。通用記憶MCP使您的記憶可供每個LLM訪問。無需登錄或付費。一個命令即可設置。
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - 基於PaddlePaddle的LLMs和VLMs高性能推理和部署工具包
  * [llm.nvim](https://github.com/kurama622/llm.nvim) - 免費的大型語言模型（LLM）支持Neovim，提供與LLM互動的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地llms）。支持Github模型。
+ * [2txt](https://github.com/ai-ng/2txt) - 圖片轉文字，快速。
 
 
 ## Langchain
