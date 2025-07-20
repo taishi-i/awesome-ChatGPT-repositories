@@ -16,20 +16,15 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [judgeval](https://github.com/judgmentlabs/judgeval) - エージェント向けのオープンソースのポストビルディングレイヤー。当社のトレース+評価は、エージェントのポストトレーニング（RL、SFT）、モニタリング、および回帰テストを強化します。
- * [gateway](https://github.com/adaline/gateway) - たった一つの完全にローカルな製品グレードのスーパーSDKは、200以上のLLMを呼び出すためのシンプルで統一された強力なインターフェースを提供します。
+**Awesome-lists**
+ * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 素晴らしい機械学習Pythonライブラリのランク付けリスト。毎週更新されます。
 
 
-**Browser-extensions**
- * [koog](https://github.com/jetbrains/koog) - Koogは、バックエンドサービスからAndroid、JVM、さらにはブラウザ環境まで、あらゆるプラットフォームで頑丈でスケーラブルで本番向けのAIエージェントを構築および実行するための公式のKotlinフレームワークです。Koogは、私たちのAI製品の専門知識に基づいています。
+**NLP**
+ * [2txt](https://github.com/ai-ng/2txt) - 画像をテキストに変換、高速に。
 
 
-**CLIs**
- * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 機能が優れたミニマリストのMCPクライアント。
-
-
-_Updated on July 17, 2025_ (A total of 2191 repositories listed.)
+_Updated on July 21, 2025_ (A total of 2193 repositories listed.)
 
 ## Table of contents
 
@@ -132,6 +127,7 @@ _Updated on July 17, 2025_ (A total of 2191 repositories listed.)
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 世界最高のLLMリソースの要約（エージェントフレームワーク、補助プログラミング、データ処理、モデルトレーニング、モデル推論、o1モデル、MCP、小さな言語モデル、ビジュアル言語モデル）
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 素晴らしいユーザースクリプトの厳選リスト。
  * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 🌌 Azure OpenAI、🦙 ラージランゲージモデル（RAG、Agentを含む）、メモ付きの参照リスト
+ * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 素晴らしい機械学習Pythonライブラリのランク付けリスト。毎週更新されます。
 
 
 ## Prompts
@@ -1431,6 +1427,7 @@ _Updated on July 17, 2025_ (A total of 2191 repositories listed.)
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - あなたの思い出はChatGPTにあります... しかし他のどこにもありません。Universal Memory MCPはあなたの思い出をすべてのLLMに利用可能にします。ログインや有料壁はありません。セットアップするための1つのコマンドだけです。
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット
  * [llm.nvim](https://github.com/kurama622/llm.nvim) - Neovim向けの無料の大規模言語モデル（LLM）サポートを提供し、LLMとのやり取りを行うコマンドを提供します（ChatGPT、ChatGLM、kimi、deepseek、openrouter、およびローカルLLMなど）。Githubモデルをサポートします。
+ * [2txt](https://github.com/ai-ng/2txt) - 画像をテキストに変換、高速に。
 
 
 ## Langchain

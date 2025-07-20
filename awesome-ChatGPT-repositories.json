@@ -2135,6 +2135,40 @@
                     "zh-hans": "一个精心筛选的🌌 Azure OpenAI，🦙 大型语言模型（包括RAG，Agent），以及带备忘录的参考资料列表。",
                     "zh-hant": "一個精心挑選的🌌 Azure OpenAI、🦙 大型語言模型（包括RAG、Agent）以及帶有備忘錄的參考資料清單。"
                 }
+            },
+            "https://github.com/lukasmasuch/best-of-ml-python": {
+                "repository_name": "best-of-ml-python",
+                "user_name": "lukasmasuch",
+                "language": null,
+                "license": "Creative Commons Attribution Share Alike 4.0 International",
+                "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+                "topics": [
+                    "automl",
+                    "chatgpt",
+                    "data-analysis",
+                    "data-science",
+                    "data-visualization",
+                    "data-visualizations",
+                    "deep-learning",
+                    "gpt",
+                    "gpt-3",
+                    "jax",
+                    "keras",
+                    "machine-learning",
+                    "ml",
+                    "nlp",
+                    "python",
+                    "pytorch",
+                    "scikit-learn",
+                    "tensorflow",
+                    "transformer"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+                    "ja": "🏆 素晴らしい機械学習Pythonライブラリのランク付けリスト。毎週更新されます。",
+                    "zh-hans": "🏆 一份排名靠前的机器学习Python库列表。每周更新。",
+                    "zh-hant": "🏆 一個排名優秀的機器學習Python庫列表。每週更新。"
+                }
             }
         },
         "Prompts": {
@@ -31921,6 +31955,25 @@
                     "ja": "Neovim向けの無料の大規模言語モデル（LLM）サポートを提供し、LLMとのやり取りを行うコマンドを提供します（ChatGPT、ChatGLM、kimi、deepseek、openrouter、およびローカルLLMなど）。Githubモデルをサポートします。",
                     "zh-hans": "免费的大型语言模型（LLM）支持Neovim，提供与LLM交互的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地LLM）。支持Github模型。",
                     "zh-hant": "免費的大型語言模型（LLM）支持Neovim，提供與LLM互動的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地llms）。支持Github模型。"
+                }
+            },
+            "https://github.com/ai-ng/2txt": {
+                "repository_name": "2txt",
+                "user_name": "ai-ng",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Image to text, fast.",
+                "topics": [
+                    "artificial-intelligence",
+                    "nextjs",
+                    "openai",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Image to text, fast.",
+                    "ja": "画像をテキストに変換、高速に。",
+                    "zh-hans": "图像转文字，快速。",
+                    "zh-hant": "圖片轉文字，快速。"
                 }
             }
         },

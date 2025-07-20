@@ -16,20 +16,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [judgeval](https://github.com/judgmentlabs/judgeval) - The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.
- * [gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
+**Awesome-lists**
+ * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
 
-**Browser-extensions**
- * [koog](https://github.com/jetbrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and pr
+**NLP**
+ * [2txt](https://github.com/ai-ng/2txt) - Image to text, fast.
 
 
-**CLIs**
- * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - A minimalistic MCP client with a good feature set.
-
-
-_Updated on July 17, 2025_ (A total of 2191 repositories listed.)
+_Updated on July 21, 2025_ (A total of 2193 repositories listed.)
 
 ## Table of contents
 
@@ -132,6 +127,7 @@ _Updated on July 17, 2025_ (A total of 2191 repositories listed.)
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
  * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
+ * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 
 
 ## Prompts
@@ -1431,6 +1427,7 @@ _Updated on July 17, 2025_ (A total of 2191 repositories listed.)
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
  * [llm.nvim](https://github.com/kurama622/llm.nvim) - Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
+ * [2txt](https://github.com/ai-ng/2txt) - Image to text, fast.
 
 
 ## Langchain

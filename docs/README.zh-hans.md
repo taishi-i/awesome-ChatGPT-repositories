@@ -16,20 +16,15 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [judgeval](https://github.com/judgmentlabs/judgeval) - 为代理商提供的开源后建层。我们的跟踪+评估功能可为代理商提供培训后的支持（RL，SFT），监控和回归测试。
- * [gateway](https://github.com/adaline/gateway) - 提供简单、统一、强大接口的唯一完全本地生产级Super SDK，可调用200多个LLM。
+**Awesome-lists**
+ * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 一份排名靠前的机器学习Python库列表。每周更新。
 
 
-**Browser-extensions**
- * [koog](https://github.com/jetbrains/koog) - Koog是官方的Kotlin框架，用于构建和运行强大、可扩展和生产就绪的AI代理，适用于各种平台-从后端服务到Android、JVM，甚至浏览器环境。Koog基于我们的AI产品专业知识。
+**NLP**
+ * [2txt](https://github.com/ai-ng/2txt) - 图像转文字，快速。
 
 
-**CLIs**
- * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 一个具有良好功能集的极简MCP客户端。
-
-
-_Updated on July 17, 2025_ (A total of 2191 repositories listed.)
+_Updated on July 21, 2025_ (A total of 2193 repositories listed.)
 
 ## Table of contents
 
@@ -132,6 +127,7 @@ _Updated on July 17, 2025_ (A total of 2191 repositories listed.)
  * [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - 🧑‍🚀 全球最佳LLM资源总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型）| 简述全球最佳LLM资源。
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  一个精心策划的用户脚本精选列表。
  * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 一个精心筛选的🌌 Azure OpenAI，🦙 大型语言模型（包括RAG，Agent），以及带备忘录的参考资料列表。
+ * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 一份排名靠前的机器学习Python库列表。每周更新。
 
 
 ## Prompts
@@ -1431,6 +1427,7 @@ _Updated on July 17, 2025_ (A total of 2191 repositories listed.)
  * [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - 您的记忆存储在ChatGPT中...但其他地方没有。通用记忆MCP使您的记忆可供每个LLM使用。无需登录或付费墙。只需一个命令即可设置。
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - 基于PaddlePaddle的LLMs和VLMs的高性能推理和部署工具包
  * [llm.nvim](https://github.com/kurama622/llm.nvim) - 免费的大型语言模型（LLM）支持Neovim，提供与LLM交互的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地LLM）。支持Github模型。
+ * [2txt](https://github.com/ai-ng/2txt) - 图像转文字，快速。
 
 
 ## Langchain
