@@ -41642,6 +41642,28 @@
                     "zh-hans": "MyoSuite是一个由肌肉骨骼模型解决的环境/任务集合，使用MuJoCo物理引擎模拟，并包装在OpenAI gym API中。",
                     "zh-hant": "MyoSuite 是一系列環境/任務，由使用 MuJoCo 物理引擎模擬的肌肉骨骼模型解決，並包裝在 OpenAI gym API 中。"
                 }
+            },
+            "https://github.com/xxiii8322766509/nagaagent": {
+                "repository_name": "NagaAgent",
+                "user_name": "Xxiii8322766509",
+                "language": "Python",
+                "license": "Other",
+                "description": "娜迦本地智能体，基于多智能体与多MCP兼容架构的通用型 AI 助手",
+                "topics": [
+                    "agentic-ai",
+                    "agents",
+                    "deepseek-v3",
+                    "mcp",
+                    "mcp-client",
+                    "openai",
+                    "toolcall"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Naga local intelligent body, a general AI assistant based on multi-agent and multi-MCP compatible architecture.",
+                    "ja": "娜迦ローカルインテリジェンスエージェント、複数のエージェントと複数のMCP互換アーキテクチャに基づく汎用AIアシスタント",
+                    "zh-hans": "娜迦本地智能体，基于多智能体与多MCP兼容架构的通用型 AI 助手",
+                    "zh-hant": "娜迦本地智能體，基於多智能體與多MCP兼容架構的通用型 AI 助手"
+                }
             }
         },
         "Others": {
@@ -49679,6 +49701,28 @@
                     "ja": "AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。",
                     "zh-hans": "Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求输出：Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求",
                     "zh-hant": "Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求"
+                }
+            },
+            "https://github.com/mixlabpro/comfyui-mixlab-nodes": {
+                "repository_name": "comfyui-mixlab-nodes",
+                "user_name": "MixLabPro",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS",
+                "topics": [
+                    "3d",
+                    "chatgpt",
+                    "comfyui",
+                    "lcm-lora",
+                    "real-time",
+                    "screenshare",
+                    "tts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS",
+                    "ja": "ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆TTS",
+                    "zh-hans": "工作流程至APP、屏幕共享和悬浮视频、GPT和3D、语音识别和TTS",
+                    "zh-hant": "工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成"
                 }
             }
         }

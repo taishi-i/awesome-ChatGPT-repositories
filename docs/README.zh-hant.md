@@ -16,15 +16,15 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 一個排名優秀的機器學習Python庫列表。每週更新。
+**Openai**
+ * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦本地智能體，基於多智能體與多MCP兼容架構的通用型 AI 助手
 
 
-**NLP**
- * [2txt](https://github.com/ai-ng/2txt) - 圖片轉文字，快速。
+**Others**
+ * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - 工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成
 
 
-_Updated on July 21, 2025_ (A total of 2193 repositories listed.)
+_Updated on July 24, 2025_ (A total of 2195 repositories listed.)
 
 ## Table of contents
 
@@ -1867,6 +1867,7 @@ _Updated on July 21, 2025_ (A total of 2193 repositories listed.)
  * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：一個用作人工智慧應用程序記憶層的Python庫。利用流行的數據庫和存儲解決方案來優化內存使用。提供效率高的數據管理的實用類和方法，包括MongoDB集成和Open。
  * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 超小型人工智慧軟體開發工具包。
  * [myosuite](https://github.com/myohub/myosuite) - MyoSuite 是一系列環境/任務，由使用 MuJoCo 物理引擎模擬的肌肉骨骼模型解決，並包裝在 OpenAI gym API 中。
+ * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦本地智能體，基於多智能體與多MCP兼容架構的通用型 AI 助手
 
 
 ## Others
@@ -2292,5 +2293,6 @@ _Updated on July 21, 2025_ (A total of 2193 repositories listed.)
  * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - 一個Claude MCP工具，用於與macOS上的ChatGPT桌面應用程序進行交互。
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-後端專案
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求
+ * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - 工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成
 
 
