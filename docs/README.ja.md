@@ -16,15 +16,15 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 素晴らしい機械学習Pythonライブラリのランク付けリスト。毎週更新されます。
+**Openai**
+ * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦ローカルインテリジェンスエージェント、複数のエージェントと複数のMCP互換アーキテクチャに基づく汎用AIアシスタント
 
 
-**NLP**
- * [2txt](https://github.com/ai-ng/2txt) - 画像をテキストに変換、高速に。
+**Others**
+ * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆TTS
 
 
-_Updated on July 21, 2025_ (A total of 2193 repositories listed.)
+_Updated on July 24, 2025_ (A total of 2195 repositories listed.)
 
 ## Table of contents
 
@@ -1867,6 +1867,7 @@ _Updated on July 21, 2025_ (A total of 2193 repositories listed.)
  * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz：AIアプリケーションのメモリレイヤーとして機能するPythonライブラリ。人気のあるデータベースやストレージソリューションを活用してメモリ使用量を最適化します。MongoDB統合やOpenなど、効率的なデータ管理のためのユーティリティクラスやメソッドを提供します。
  * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬エクストラスモールAI SDK。
  * [myosuite](https://github.com/myohub/myosuite) - MyoSuiteは、MuJoCo物理エンジンでシミュレートされた筋骨格モデルによって解決される環境/タスクのコレクションであり、OpenAI gym APIでラップされています。
+ * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦ローカルインテリジェンスエージェント、複数のエージェントと複数のMCP互換アーキテクチャに基づく汎用AIアシスタント
 
 
 ## Others
@@ -2292,5 +2293,6 @@ _Updated on July 21, 2025_ (A total of 2193 repositories listed.)
  * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。
+ * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆TTS
 
 

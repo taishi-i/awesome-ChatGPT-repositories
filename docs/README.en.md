@@ -16,15 +16,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+**Openai**
+ * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - Naga local intelligent body, a general AI assistant based on multi-agent and multi-MCP compatible architecture.
 
 
-**NLP**
- * [2txt](https://github.com/ai-ng/2txt) - Image to text, fast.
+**Others**
+ * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
 
-_Updated on July 21, 2025_ (A total of 2193 repositories listed.)
+_Updated on July 24, 2025_ (A total of 2195 repositories listed.)
 
 ## Table of contents
 
@@ -1867,6 +1867,7 @@ _Updated on July 21, 2025_ (A total of 2193 repositories listed.)
  * [memorizz](https://github.com/richmondalake/memorizz) - MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management, including MongoDB integration and Open
  * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK.
  * [myosuite](https://github.com/myohub/myosuite) - MyoSuite is a collection of environments/tasks to be solved by musculoskeletal models simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API.
+ * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - Naga local intelligent body, a general AI assistant based on multi-agent and multi-MCP compatible architecture.
 
 
 ## Others
@@ -2292,5 +2293,6 @@ _Updated on July 21, 2025_ (A total of 2193 repositories listed.)
  * [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - A Claude MCP tool to interact with the ChatGPT desktop app on macOS
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - Support for Linux DO's ChatGPT/Claude/Midjourney/API/Grok shared platform - backend project
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
+ * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
 
 
