@@ -16,15 +16,16 @@
 
 ## The latest additions 🎉
 
+**Langchain**
+ * [coze-loop](https://github.com/coze-dev/coze-loop) - 下一代AI代理優化平台：Cozeloop通過提供從開發、調試、評估到監控的全生命周期管理能力，解決了AI代理開發中的挑戰。
+
+
 **Openai**
- * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦本地智能體，基於多智能體與多MCP兼容架構的通用型 AI 助手
+ * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - 繪製一個模型並為其生成html
+ * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自建Claude code鏡像服務，支持多帳戶切換、自定義API密鑰、Claude API、OPENAI兼容格式、能有效規避封號，OAuth集成可快捷添加帳號池。
 
 
-**Others**
- * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - 工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成
-
-
-_Updated on July 24, 2025_ (A total of 2195 repositories listed.)
+_Updated on July 28, 2025_ (A total of 2198 repositories listed.)
 
 ## Table of contents
 
@@ -1581,6 +1582,7 @@ _Updated on July 24, 2025_ (A total of 2195 repositories listed.)
  * [boxcars](https://github.com/boxcarsai/boxcars) - 使用LLM的Boxcars構建具有可組合性的應用程序。受LangChain啟發。
  * [sglang](https://github.com/sgl-project/sglang) - SGLang是一個快速服務框架，適用於大型語言模型和視覺語言模型。
  * [ai-guide](https://github.com/liyupi/ai-guide) - 程式設計師魚皮的 AI 知識庫，匯總熱門的 AI 大模型和工具，比如 Deepseek 使用指南、提示詞技巧、知識幹貨、應用場景、AI 變現、行業資訊、教程資源等一系列內容，幫助你快速掌握 AI 技術，走在時代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技術 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本項目為開源文檔版本，網站已升級為編程導航 AI 板塊。
+ * [coze-loop](https://github.com/coze-dev/coze-loop) - 下一代AI代理優化平台：Cozeloop通過提供從開發、調試、評估到監控的全生命周期管理能力，解決了AI代理開發中的挑戰。
 
 
 ## Unity
@@ -1868,6 +1870,8 @@ _Updated on July 24, 2025_ (A total of 2195 repositories listed.)
  * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬 超小型人工智慧軟體開發工具包。
  * [myosuite](https://github.com/myohub/myosuite) - MyoSuite 是一系列環境/任務，由使用 MuJoCo 物理引擎模擬的肌肉骨骼模型解決，並包裝在 OpenAI gym API 中。
  * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦本地智能體，基於多智能體與多MCP兼容架構的通用型 AI 助手
+ * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - 繪製一個模型並為其生成html
+ * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自建Claude code鏡像服務，支持多帳戶切換、自定義API密鑰、Claude API、OPENAI兼容格式、能有效規避封號，OAuth集成可快捷添加帳號池。
 
 
 ## Others

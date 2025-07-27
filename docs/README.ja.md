@@ -16,15 +16,16 @@
 
 ## The latest additions 🎉
 
+**Langchain**
+ * [coze-loop](https://github.com/coze-dev/coze-loop) - 次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。
+
+
 **Openai**
- * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦ローカルインテリジェンスエージェント、複数のエージェントと複数のMCP互換アーキテクチャに基づく汎用AIアシスタント
+ * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - モックアップを描いて、それに対応するHTMLを生成します。
+ * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。
 
 
-**Others**
- * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆TTS
-
-
-_Updated on July 24, 2025_ (A total of 2195 repositories listed.)
+_Updated on July 28, 2025_ (A total of 2198 repositories listed.)
 
 ## Table of contents
 
@@ -1581,6 +1582,7 @@ _Updated on July 24, 2025_ (A total of 2195 repositories listed.)
  * [boxcars](https://github.com/boxcarsai/boxcars) - LLMを使用したボックスカーを使用したコンポーザビリティを持つアプリケーションの構築。LangChainに触発されました。
  * [sglang](https://github.com/sgl-project/sglang) - SGLangは大規模言語モデルやビジョン言語モデル向けの高速サービングフレームワークです。
  * [ai-guide](https://github.com/liyupi/ai-guide) - プログラマーの魚皮のAIナレッジベースは、Deepseekの使用ガイド、ヒントとトリック、知識のエッセンス、アプリケーションシナリオ、AIの収益化、業界ニュース、チュートリアルリソースなど、人気のあるAI大規模モデルやツールをまとめています。これにより、AI技術を迅速に習得し、時代の最先端に立つことができます。ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROKなどの大規模モデル、Spring AI、LangChain、RAG、MCP、A2Aなどの技術、Cursorなどのツールが含まれています。このプロジェクトはオープンソースのドキュメントバージョンであり、ウェブサイトはプログラミングナビゲーションAIセクションにアップグレードされました。
+ * [coze-loop](https://github.com/coze-dev/coze-loop) - 次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。
 
 
 ## Unity
@@ -1868,6 +1870,8 @@ _Updated on July 24, 2025_ (A total of 2195 repositories listed.)
  * [xsai](https://github.com/moeru-ai/xsai) - 🤖💬エクストラスモールAI SDK。
  * [myosuite](https://github.com/myohub/myosuite) - MyoSuiteは、MuJoCo物理エンジンでシミュレートされた筋骨格モデルによって解決される環境/タスクのコレクションであり、OpenAI gym APIでラップされています。
  * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦ローカルインテリジェンスエージェント、複数のエージェントと複数のMCP互換アーキテクチャに基づく汎用AIアシスタント
+ * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - モックアップを描いて、それに対応するHTMLを生成します。
+ * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。
 
 
 ## Others
