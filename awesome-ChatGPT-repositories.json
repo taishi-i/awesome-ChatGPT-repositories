@@ -35622,6 +35622,38 @@
                     "zh-hans": "程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块。",
                     "zh-hant": "程式設計師魚皮的 AI 知識庫，匯總熱門的 AI 大模型和工具，比如 Deepseek 使用指南、提示詞技巧、知識幹貨、應用場景、AI 變現、行業資訊、教程資源等一系列內容，幫助你快速掌握 AI 技術，走在時代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技術 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本項目為開源文檔版本，網站已升級為編程導航 AI 板塊。"
                 }
+            },
+            "https://github.com/coze-dev/coze-loop": {
+                "repository_name": "coze-loop",
+                "user_name": "coze-dev",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.  ",
+                "topics": [
+                    "agent",
+                    "agent-evaluation",
+                    "agent-observability",
+                    "agentops",
+                    "ai",
+                    "coze",
+                    "eino",
+                    "evaluation",
+                    "langchain",
+                    "llm-observability",
+                    "llmops",
+                    "monitoring",
+                    "observability",
+                    "open-source",
+                    "openai",
+                    "playground",
+                    "prompt-management"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.",
+                    "ja": "次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。",
+                    "zh-hans": "下一代AI代理优化平台：Cozeloop通过提供从开发、调试、评估到监控的全生命周期管理能力，解决了AI代理开发中的挑战。",
+                    "zh-hant": "下一代AI代理優化平台：Cozeloop通過提供從開發、調試、評估到監控的全生命周期管理能力，解決了AI代理開發中的挑戰。"
+                }
             }
         },
         "Unity": {
@@ -41663,6 +41695,40 @@
                     "ja": "娜迦ローカルインテリジェンスエージェント、複数のエージェントと複数のMCP互換アーキテクチャに基づく汎用AIアシスタント",
                     "zh-hans": "娜迦本地智能体，基于多智能体与多MCP兼容架构的通用型 AI 助手",
                     "zh-hant": "娜迦本地智能體，基於多智能體與多MCP兼容架構的通用型 AI 助手"
+                }
+            },
+            "https://github.com/sawyerhood/draw-a-ui": {
+                "repository_name": "draw-a-ui",
+                "user_name": "SawyerHood",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Draw a mockup and generate html for it",
+                "topics": [
+                    "ai",
+                    "gpt",
+                    "openai",
+                    "react",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Draw a mockup and generate html for it",
+                    "ja": "モックアップを描いて、それに対応するHTMLを生成します。",
+                    "zh-hans": "绘制一个模型并为其生成html代码",
+                    "zh-hant": "繪製一個模型並為其生成html"
+                }
+            },
+            "https://github.com/wei-shaw/claude-relay-service": {
+                "repository_name": "claude-relay-service",
+                "user_name": "Wei-Shaw",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "自建Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Build your own Claude code image service, support multiple account switching, custom API keys, Claude API, OPENAI compatible format, effectively avoid being banned, OAuth integration can quickly add account pools.",
+                    "ja": "自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。",
+                    "zh-hans": "建立自己的Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快速添加账号池。",
+                    "zh-hant": "自建Claude code鏡像服務，支持多帳戶切換、自定義API密鑰、Claude API、OPENAI兼容格式、能有效規避封號，OAuth集成可快捷添加帳號池。"
                 }
             }
         },
