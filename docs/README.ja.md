@@ -16,16 +16,19 @@
 
 ## The latest additions 🎉
 
+**CLIs**
+ * [code-context](https://github.com/zilliztech/code-context) - コード検索用のMCP、クロードコードのビルド、Gemini CLI、または任意のコードエージェントに対応します。
+
+
 **Langchain**
- * [coze-loop](https://github.com/coze-dev/coze-loop) - 次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。
+ * [tools](https://github.com/strands-agents/tools) - エージェントに強力な機能を提供するツールセット。
 
 
-**Openai**
- * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - モックアップを描いて、それに対応するHTMLを生成します。
- * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。
+**Others**
+ * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - このリポジトリは、ChatGPTが実際のマイクロキャップ株ポートフォリオを管理するブログ実験を支えています。
 
 
-_Updated on July 28, 2025_ (A total of 2198 repositories listed.)
+_Updated on July 31, 2025_ (A total of 2201 repositories listed.)
 
 ## Table of contents
 
@@ -1023,6 +1026,7 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AIクライアント（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere、...）
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 機能が優れたミニマリストのMCPクライアント。
+ * [code-context](https://github.com/zilliztech/code-context) - コード検索用のMCP、クロードコードのビルド、Gemini CLI、または任意のコードエージェントに対応します。
 
 
 ## Reimplementations
@@ -1583,6 +1587,7 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [sglang](https://github.com/sgl-project/sglang) - SGLangは大規模言語モデルやビジョン言語モデル向けの高速サービングフレームワークです。
  * [ai-guide](https://github.com/liyupi/ai-guide) - プログラマーの魚皮のAIナレッジベースは、Deepseekの使用ガイド、ヒントとトリック、知識のエッセンス、アプリケーションシナリオ、AIの収益化、業界ニュース、チュートリアルリソースなど、人気のあるAI大規模モデルやツールをまとめています。これにより、AI技術を迅速に習得し、時代の最先端に立つことができます。ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROKなどの大規模モデル、Spring AI、LangChain、RAG、MCP、A2Aなどの技術、Cursorなどのツールが含まれています。このプロジェクトはオープンソースのドキュメントバージョンであり、ウェブサイトはプログラミングナビゲーションAIセクションにアップグレードされました。
  * [coze-loop](https://github.com/coze-dev/coze-loop) - 次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。
+ * [tools](https://github.com/strands-agents/tools) - エージェントに強力な機能を提供するツールセット。
 
 
 ## Unity
@@ -2298,5 +2303,6 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆TTS
+ * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - このリポジトリは、ChatGPTが実際のマイクロキャップ株ポートフォリオを管理するブログ実験を支えています。
 
 

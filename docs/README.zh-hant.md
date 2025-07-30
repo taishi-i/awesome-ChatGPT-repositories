@@ -16,16 +16,19 @@
 
 ## The latest additions 🎉
 
+**CLIs**
+ * [code-context](https://github.com/zilliztech/code-context) - 用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。
+
+
 **Langchain**
- * [coze-loop](https://github.com/coze-dev/coze-loop) - 下一代AI代理優化平台：Cozeloop通過提供從開發、調試、評估到監控的全生命周期管理能力，解決了AI代理開發中的挑戰。
+ * [tools](https://github.com/strands-agents/tools) - 一套工具，為代理商提供強大的功能。
 
 
-**Openai**
- * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - 繪製一個模型並為其生成html
- * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自建Claude code鏡像服務，支持多帳戶切換、自定義API密鑰、Claude API、OPENAI兼容格式、能有效規避封號，OAuth集成可快捷添加帳號池。
+**Others**
+ * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - 這個存儲庫支持我的博客實驗，其中ChatGPT管理一個真實貨幣的微型市值股票組合。
 
 
-_Updated on July 28, 2025_ (A total of 2198 repositories listed.)
+_Updated on July 31, 2025_ (A total of 2201 repositories listed.)
 
 ## Table of contents
 
@@ -1023,6 +1026,7 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [rust-genai](https://github.com/jeremychone/rust-genai) - 請將以下內容翻譯為繁體中文。Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）Rust多供應商生成式AI客戶端（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere，...）
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 一個框架，可以讓使用者使用任何本地或遠程的LLM（本地或遠程）來實現自主的安卓和電腦使用。
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 一個具有良好功能集的極簡MCP客戶端。
+ * [code-context](https://github.com/zilliztech/code-context) - 用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。
 
 
 ## Reimplementations
@@ -1583,6 +1587,7 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [sglang](https://github.com/sgl-project/sglang) - SGLang是一個快速服務框架，適用於大型語言模型和視覺語言模型。
  * [ai-guide](https://github.com/liyupi/ai-guide) - 程式設計師魚皮的 AI 知識庫，匯總熱門的 AI 大模型和工具，比如 Deepseek 使用指南、提示詞技巧、知識幹貨、應用場景、AI 變現、行業資訊、教程資源等一系列內容，幫助你快速掌握 AI 技術，走在時代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技術 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本項目為開源文檔版本，網站已升級為編程導航 AI 板塊。
  * [coze-loop](https://github.com/coze-dev/coze-loop) - 下一代AI代理優化平台：Cozeloop通過提供從開發、調試、評估到監控的全生命周期管理能力，解決了AI代理開發中的挑戰。
+ * [tools](https://github.com/strands-agents/tools) - 一套工具，為代理商提供強大的功能。
 
 
 ## Unity
@@ -2298,5 +2303,6 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-後端專案
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求Caddy模塊，用於阻止或操縱來自嘗試在您的網站上進行訓練的人工智能或雲服務的請求
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - 工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成
+ * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - 這個存儲庫支持我的博客實驗，其中ChatGPT管理一個真實貨幣的微型市值股票組合。
 
 
