@@ -16,16 +16,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**CLIs**
+ * [code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+
+
 **Langchain**
- * [coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
+ * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
 
 
-**Openai**
- * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - Draw a mockup and generate html for it
- * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自建Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
+**Others**
+ * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 
 
-_Updated on July 28, 2025_ (A total of 2198 repositories listed.)
+_Updated on July 31, 2025_ (A total of 2201 repositories listed.)
 
 ## Table of contents
 
@@ -1023,6 +1026,7 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - A framework to enable autonomous android and computer use using any LLM (local or remote)
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - A minimalistic MCP client with a good feature set.
+ * [code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
 
 
 ## Reimplementations
@@ -1583,6 +1587,7 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
  * [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块
  * [coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
+ * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
 
 
 ## Unity
@@ -2298,5 +2303,6 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
+ * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 
 

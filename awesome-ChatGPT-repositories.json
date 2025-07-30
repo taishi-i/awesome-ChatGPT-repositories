@@ -23281,6 +23281,41 @@
                     "zh-hans": "一个具有良好功能集的极简MCP客户端。",
                     "zh-hant": "一個具有良好功能集的極簡MCP客戶端。"
                 }
+            },
+            "https://github.com/zilliztech/code-context": {
+                "repository_name": "code-context",
+                "user_name": "zilliztech",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "MCP for code search, build for Claude Code, Gemini CLI or any code agents.",
+                "topics": [
+                    "agent",
+                    "agentic-rag",
+                    "ai-coding",
+                    "claude-code",
+                    "code-generation",
+                    "code-search",
+                    "cursor",
+                    "embedding",
+                    "gemini-cli",
+                    "mcp",
+                    "merkle-tree",
+                    "nodejs",
+                    "openai",
+                    "rag",
+                    "semantic-search",
+                    "typescript",
+                    "vector-database",
+                    "vibe-coding",
+                    "voyage-ai",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MCP for code search, build for Claude Code, Gemini CLI or any code agents.",
+                    "ja": "コード検索用のMCP、クロードコードのビルド、Gemini CLI、または任意のコードエージェントに対応します。",
+                    "zh-hans": "用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。",
+                    "zh-hant": "用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。"
+                }
             }
         },
         "Reimplementations": {
@@ -35653,6 +35688,39 @@
                     "ja": "次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。",
                     "zh-hans": "下一代AI代理优化平台：Cozeloop通过提供从开发、调试、评估到监控的全生命周期管理能力，解决了AI代理开发中的挑战。",
                     "zh-hant": "下一代AI代理優化平台：Cozeloop通過提供從開發、調試、評估到監控的全生命周期管理能力，解決了AI代理開發中的挑戰。"
+                }
+            },
+            "https://github.com/strands-agents/tools": {
+                "repository_name": "tools",
+                "user_name": "strands-agents",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "A set of tools that gives agents powerful capabilities.",
+                "topics": [
+                    "agentic",
+                    "agentic-ai",
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "autonomous-agents",
+                    "bedrock",
+                    "genai",
+                    "litellm",
+                    "llama",
+                    "llm",
+                    "machine-learning",
+                    "mcp",
+                    "multi-agent-systems",
+                    "ollama",
+                    "openai",
+                    "opentelemetry",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A set of tools that gives agents powerful capabilities.",
+                    "ja": "エージェントに強力な機能を提供するツールセット。",
+                    "zh-hans": "一组工具，为代理商提供强大的功能。",
+                    "zh-hant": "一套工具，為代理商提供強大的功能。"
                 }
             }
         },
@@ -49789,6 +49857,20 @@
                     "ja": "ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆TTS",
                     "zh-hans": "工作流程至APP、屏幕共享和悬浮视频、GPT和3D、语音识别和TTS",
                     "zh-hant": "工作流程至應用程式、螢幕分享和浮動視訊、GPT和3D、語音辨識和語音合成"
+                }
+            },
+            "https://github.com/luckyone7777/chatgpt-micro-cap-experiment": {
+                "repository_name": "ChatGPT-Micro-Cap-Experiment",
+                "user_name": "LuckyOne7777",
+                "language": "Python",
+                "license": null,
+                "description": "This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.",
+                    "ja": "このリポジトリは、ChatGPTが実際のマイクロキャップ株ポートフォリオを管理するブログ実験を支えています。",
+                    "zh-hans": "这个存储库支持我的博客实验，ChatGPT管理一个真实货币的微型市值股票投资组合。",
+                    "zh-hant": "這個存儲庫支持我的博客實驗，其中ChatGPT管理一個真實貨幣的微型市值股票組合。"
                 }
             }
         }

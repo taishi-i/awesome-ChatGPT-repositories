@@ -16,16 +16,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**CLIs**
+ * [code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+
+
 **Langchain**
- * [coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
+ * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
 
 
-**Openai**
- * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - Draw a mockup and generate html for it
- * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - Build your own Claude code image service, support multiple account switching, custom API keys, Claude API, OPENAI compatible format, effectively avoid being banned, OAuth integration can quickly add account pools.
+**Others**
+ * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 
 
-_Updated on July 28, 2025_ (A total of 2198 repositories listed.)
+_Updated on July 31, 2025_ (A total of 2201 repositories listed.)
 
 ## Table of contents
 
@@ -1023,6 +1026,7 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [rust-genai](https://github.com/jeremychone/rust-genai) - Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, xAI/Grok, Groq,Cohere, ...)
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - A framework to enable autonomous android and computer use using any LLM (local or remote)
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - A minimalistic MCP client with a good feature set.
+ * [code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
 
 
 ## Reimplementations
@@ -1583,6 +1587,7 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
  * [ai-guide](https://github.com/liyupi/ai-guide) - Programmer Fish Skin's AI knowledge base, summarizing popular AI large models and tools, such as Deepseek user guide, tips and tricks, knowledge dry goods, application scenarios, AI monetization, industry information, tutorial resources and a series of content to help you quickly master AI technology and stay at the forefront of the times. It involves large models such as ChatGPT, Claude, Gemini, Deepseek, Deepseek-r1, QWEN, GROK, etc.; it involves technologies such as Spring AI, LangChain, RAG, MCP, A2A, etc.; it involves tools such as Cursor. This project is an open source document version, and the website has been upgraded to the programming navigation AI section.
  * [coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
+ * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
 
 
 ## Unity
@@ -2298,5 +2303,6 @@ _Updated on July 28, 2025_ (A total of 2198 repositories listed.)
  * [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - Support for Linux DO's ChatGPT/Claude/Midjourney/API/Grok shared platform - backend project
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
+ * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 
 
