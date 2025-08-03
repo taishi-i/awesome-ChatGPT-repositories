@@ -35722,6 +35722,28 @@
                     "zh-hans": "一组工具，为代理商提供强大的功能。",
                     "zh-hant": "一套工具，為代理商提供強大的功能。"
                 }
+            },
+            "https://github.com/langchain-ai/langchain": {
+                "repository_name": "langchain",
+                "user_name": "langchain-ai",
+                "language": "Jupyter Notebook",
+                "license": "MIT License",
+                "description": "🦜🔗 Build context-aware reasoning applications",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "gemini",
+                    "langchain",
+                    "llm",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🦜🔗 Build context-aware reasoning applications",
+                    "ja": "🦜🔗 コンテキストに応じた推論アプリケーションを構築します",
+                    "zh-hans": "🦜🔗 构建具有上下文感知推理功能的应用程序",
+                    "zh-hant": "🦜🔗 建立具有上下文意识的推理应用程序"
+                }
             }
         },
         "Unity": {
@@ -41797,6 +41819,25 @@
                     "ja": "自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。",
                     "zh-hans": "建立自己的Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快速添加账号池。",
                     "zh-hant": "自建Claude code鏡像服務，支持多帳戶切換、自定義API密鑰、Claude API、OPENAI兼容格式、能有效規避封號，OAuth集成可快捷添加帳號池。"
+                }
+            },
+            "https://github.com/ericc-ch/copilot-api": {
+                "repository_name": "copilot-api",
+                "user_name": "ericc-ch",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!",
+                "topics": [
+                    "github-copilot",
+                    "openai-api",
+                    "openai-compatible-api",
+                    "reverse-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!",
+                    "ja": "GitHub CopilotをOpenAI/Anthropic API互換のサーバーに変換します。Claude Codeと一緒に使用できます！",
+                    "zh-hans": "将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code一起使用！",
+                    "zh-hant": "將GitHub Copilot轉換為OpenAI/Anthropic API相容的伺服器。可與Claude Code一起使用！"
                 }
             }
         },

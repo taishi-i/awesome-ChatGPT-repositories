@@ -16,19 +16,15 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [code-context](https://github.com/zilliztech/code-context) - コード検索用のMCP、クロードコードのビルド、Gemini CLI、または任意のコードエージェントに対応します。
-
-
 **Langchain**
- * [tools](https://github.com/strands-agents/tools) - エージェントに強力な機能を提供するツールセット。
+ * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 コンテキストに応じた推論アプリケーションを構築します
 
 
-**Others**
- * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - このリポジトリは、ChatGPTが実際のマイクロキャップ株ポートフォリオを管理するブログ実験を支えています。
+**Openai**
+ * [copilot-api](https://github.com/ericc-ch/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換のサーバーに変換します。Claude Codeと一緒に使用できます！
 
 
-_Updated on July 31, 2025_ (A total of 2201 repositories listed.)
+_Updated on August 04, 2025_ (A total of 2203 repositories listed.)
 
 ## Table of contents
 
@@ -1588,6 +1584,7 @@ _Updated on July 31, 2025_ (A total of 2201 repositories listed.)
  * [ai-guide](https://github.com/liyupi/ai-guide) - プログラマーの魚皮のAIナレッジベースは、Deepseekの使用ガイド、ヒントとトリック、知識のエッセンス、アプリケーションシナリオ、AIの収益化、業界ニュース、チュートリアルリソースなど、人気のあるAI大規模モデルやツールをまとめています。これにより、AI技術を迅速に習得し、時代の最先端に立つことができます。ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROKなどの大規模モデル、Spring AI、LangChain、RAG、MCP、A2Aなどの技術、Cursorなどのツールが含まれています。このプロジェクトはオープンソースのドキュメントバージョンであり、ウェブサイトはプログラミングナビゲーションAIセクションにアップグレードされました。
  * [coze-loop](https://github.com/coze-dev/coze-loop) - 次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。
  * [tools](https://github.com/strands-agents/tools) - エージェントに強力な機能を提供するツールセット。
+ * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 コンテキストに応じた推論アプリケーションを構築します
 
 
 ## Unity
@@ -1877,6 +1874,7 @@ _Updated on July 31, 2025_ (A total of 2201 repositories listed.)
  * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦ローカルインテリジェンスエージェント、複数のエージェントと複数のMCP互換アーキテクチャに基づく汎用AIアシスタント
  * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - モックアップを描いて、それに対応するHTMLを生成します。
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。
+ * [copilot-api](https://github.com/ericc-ch/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換のサーバーに変換します。Claude Codeと一緒に使用できます！
 
 
 ## Others
