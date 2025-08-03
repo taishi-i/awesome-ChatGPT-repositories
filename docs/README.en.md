@@ -16,19 +16,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
-
-
 **Langchain**
- * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
+ * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 
-**Others**
- * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
+**Openai**
+ * [copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 
 
-_Updated on July 31, 2025_ (A total of 2201 repositories listed.)
+_Updated on August 04, 2025_ (A total of 2203 repositories listed.)
 
 ## Table of contents
 
@@ -1588,6 +1584,7 @@ _Updated on July 31, 2025_ (A total of 2201 repositories listed.)
  * [ai-guide](https://github.com/liyupi/ai-guide) - Programmer Fish Skin's AI knowledge base, summarizing popular AI large models and tools, such as Deepseek user guide, tips and tricks, knowledge dry goods, application scenarios, AI monetization, industry information, tutorial resources and a series of content to help you quickly master AI technology and stay at the forefront of the times. It involves large models such as ChatGPT, Claude, Gemini, Deepseek, Deepseek-r1, QWEN, GROK, etc.; it involves technologies such as Spring AI, LangChain, RAG, MCP, A2A, etc.; it involves tools such as Cursor. This project is an open source document version, and the website has been upgraded to the programming navigation AI section.
  * [coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
  * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
+ * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 
 ## Unity
@@ -1877,6 +1874,7 @@ _Updated on July 31, 2025_ (A total of 2201 repositories listed.)
  * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - Naga local intelligent body, a general AI assistant based on multi-agent and multi-MCP compatible architecture.
  * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - Draw a mockup and generate html for it
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - Build your own Claude code image service, support multiple account switching, custom API keys, Claude API, OPENAI compatible format, effectively avoid being banned, OAuth integration can quickly add account pools.
+ * [copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 
 
 ## Others

@@ -16,19 +16,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
-
-
 **Langchain**
- * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
+ * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 
-**Others**
- * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
+**Openai**
+ * [copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 
 
-_Updated on July 31, 2025_ (A total of 2201 repositories listed.)
+_Updated on August 04, 2025_ (A total of 2203 repositories listed.)
 
 ## Table of contents
 
@@ -1588,6 +1584,7 @@ _Updated on July 31, 2025_ (A total of 2201 repositories listed.)
  * [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块
  * [coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
  * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
+ * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 
 ## Unity
@@ -1877,6 +1874,7 @@ _Updated on July 31, 2025_ (A total of 2201 repositories listed.)
  * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦本地智能体，基于多智能体与多MCP兼容架构的通用型 AI 助手
  * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - Draw a mockup and generate html for it
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自建Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
+ * [copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 
 
 ## Others

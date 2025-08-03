@@ -16,19 +16,15 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [code-context](https://github.com/zilliztech/code-context) - 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
-
-
 **Langchain**
- * [tools](https://github.com/strands-agents/tools) - 一组工具，为代理商提供强大的功能。
+ * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 构建具有上下文感知推理功能的应用程序
 
 
-**Others**
- * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - 这个存储库支持我的博客实验，ChatGPT管理一个真实货币的微型市值股票投资组合。
+**Openai**
+ * [copilot-api](https://github.com/ericc-ch/copilot-api) - 将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code一起使用！
 
 
-_Updated on July 31, 2025_ (A total of 2201 repositories listed.)
+_Updated on August 04, 2025_ (A total of 2203 repositories listed.)
 
 ## Table of contents
 
@@ -1588,6 +1584,7 @@ _Updated on July 31, 2025_ (A total of 2201 repositories listed.)
  * [ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块。
  * [coze-loop](https://github.com/coze-dev/coze-loop) - 下一代AI代理优化平台：Cozeloop通过提供从开发、调试、评估到监控的全生命周期管理能力，解决了AI代理开发中的挑战。
  * [tools](https://github.com/strands-agents/tools) - 一组工具，为代理商提供强大的功能。
+ * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 构建具有上下文感知推理功能的应用程序
 
 
 ## Unity
@@ -1877,6 +1874,7 @@ _Updated on July 31, 2025_ (A total of 2201 repositories listed.)
  * [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - 娜迦本地智能体，基于多智能体与多MCP兼容架构的通用型 AI 助手
  * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - 绘制一个模型并为其生成html代码
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 建立自己的Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快速添加账号池。
+ * [copilot-api](https://github.com/ericc-ch/copilot-api) - 将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code一起使用！
 
 
 ## Others
