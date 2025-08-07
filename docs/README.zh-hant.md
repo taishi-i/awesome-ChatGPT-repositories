@@ -16,15 +16,12 @@
 
 ## The latest additions 🎉
 
-**Langchain**
- * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 建立具有上下文意识的推理应用程序
+**NLP**
+ * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b和gpt-oss-20b是OpenAI推出的兩個開放權重語言模型。
+ * [dyad](https://github.com/dyad-sh/dyad) - 免費、本地、開源的AI應用程式建立者 ✨ v0 / 可愛 / Bolt替代品 🌟 如果你喜歡，請給個星星！
 
 
-**Openai**
- * [copilot-api](https://github.com/ericc-ch/copilot-api) - 將GitHub Copilot轉換為OpenAI/Anthropic API相容的伺服器。可與Claude Code一起使用！
-
-
-_Updated on August 04, 2025_ (A total of 2203 repositories listed.)
+_Updated on August 07, 2025_ (A total of 2205 repositories listed.)
 
 ## Table of contents
 
@@ -1429,6 +1426,8 @@ _Updated on August 04, 2025_ (A total of 2203 repositories listed.)
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - 基於PaddlePaddle的LLMs和VLMs高性能推理和部署工具包
  * [llm.nvim](https://github.com/kurama622/llm.nvim) - 免費的大型語言模型（LLM）支持Neovim，提供與LLM互動的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地llms）。支持Github模型。
  * [2txt](https://github.com/ai-ng/2txt) - 圖片轉文字，快速。
+ * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b和gpt-oss-20b是OpenAI推出的兩個開放權重語言模型。
+ * [dyad](https://github.com/dyad-sh/dyad) - 免費、本地、開源的AI應用程式建立者 ✨ v0 / 可愛 / Bolt替代品 🌟 如果你喜歡，請給個星星！
 
 
 ## Langchain
