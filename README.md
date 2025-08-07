@@ -16,15 +16,12 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Langchain**
- * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+**NLP**
+ * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+ * [dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 
 
-**Openai**
- * [copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
-
-
-_Updated on August 04, 2025_ (A total of 2203 repositories listed.)
+_Updated on August 07, 2025_ (A total of 2205 repositories listed.)
 
 ## Table of contents
 
@@ -1429,6 +1426,8 @@ _Updated on August 04, 2025_ (A total of 2203 repositories listed.)
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - High-performance Inference and Deployment Toolkit for LLMs and VLMs based on PaddlePaddle
  * [llm.nvim](https://github.com/kurama622/llm.nvim) - Free large language model (LLM) support for Neovim, provides commands to interact with LLM (like ChatGPT, ChatGLM, kimi, deepseek, openrouter and local llms). Support Github models.
  * [2txt](https://github.com/ai-ng/2txt) - Image to text, fast.
+ * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+ * [dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 
 
 ## Langchain

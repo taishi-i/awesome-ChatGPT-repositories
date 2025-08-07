@@ -32010,6 +32010,54 @@
                     "zh-hans": "图像转文字，快速。",
                     "zh-hant": "圖片轉文字，快速。"
                 }
+            },
+            "https://github.com/openai/gpt-oss": {
+                "repository_name": "gpt-oss",
+                "user_name": "openai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+                    "ja": "gpt-oss-120bとgpt-oss-20bは、OpenAIによる2つのオープンウェイト言語モデルです。",
+                    "zh-hans": "gpt-oss-120b和gpt-oss-20b是OpenAI推出的两个开放权重语言模型。",
+                    "zh-hant": "gpt-oss-120b和gpt-oss-20b是OpenAI推出的兩個開放權重語言模型。"
+                }
+            },
+            "https://github.com/dyad-sh/dyad": {
+                "repository_name": "dyad",
+                "user_name": "dyad-sh",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+                "topics": [
+                    "ai-app-builder",
+                    "anthropic",
+                    "artificial-intelligence",
+                    "bolt",
+                    "deepseek",
+                    "gemini",
+                    "generative-ai",
+                    "github",
+                    "llm",
+                    "llms",
+                    "lovable",
+                    "nextjs",
+                    "ollama",
+                    "openai",
+                    "qwen",
+                    "react",
+                    "typescript",
+                    "v0",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!",
+                    "ja": "無料、ローカル、オープンソースのAIアプリビルダー✨ v0 / 可愛い / Boltの代替🌟 お気に入りの場合はスターを付けてください！",
+                    "zh-hans": "免费、本地、开源的AI应用程序构建工具✨ v0 / 可爱 / Bolt替代品 🌟 如果你喜欢，请点赞！",
+                    "zh-hant": "免費、本地、開源的AI應用程式建立者 ✨ v0 / 可愛 / Bolt替代品 🌟 如果你喜歡，請給個星星！"
+                }
             }
         },
         "Langchain": {

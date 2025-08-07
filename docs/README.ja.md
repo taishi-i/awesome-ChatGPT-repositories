@@ -16,15 +16,12 @@
 
 ## The latest additions 🎉
 
-**Langchain**
- * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 コンテキストに応じた推論アプリケーションを構築します
+**NLP**
+ * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120bとgpt-oss-20bは、OpenAIによる2つのオープンウェイト言語モデルです。
+ * [dyad](https://github.com/dyad-sh/dyad) - 無料、ローカル、オープンソースのAIアプリビルダー✨ v0 / 可愛い / Boltの代替🌟 お気に入りの場合はスターを付けてください！
 
 
-**Openai**
- * [copilot-api](https://github.com/ericc-ch/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換のサーバーに変換します。Claude Codeと一緒に使用できます！
-
-
-_Updated on August 04, 2025_ (A total of 2203 repositories listed.)
+_Updated on August 07, 2025_ (A total of 2205 repositories listed.)
 
 ## Table of contents
 
@@ -1429,6 +1426,8 @@ _Updated on August 04, 2025_ (A total of 2203 repositories listed.)
  * [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット
  * [llm.nvim](https://github.com/kurama622/llm.nvim) - Neovim向けの無料の大規模言語モデル（LLM）サポートを提供し、LLMとのやり取りを行うコマンドを提供します（ChatGPT、ChatGLM、kimi、deepseek、openrouter、およびローカルLLMなど）。Githubモデルをサポートします。
  * [2txt](https://github.com/ai-ng/2txt) - 画像をテキストに変換、高速に。
+ * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120bとgpt-oss-20bは、OpenAIによる2つのオープンウェイト言語モデルです。
+ * [dyad](https://github.com/dyad-sh/dyad) - 無料、ローカル、オープンソースのAIアプリビルダー✨ v0 / 可愛い / Boltの代替🌟 お気に入りの場合はスターを付けてください！
 
 
 ## Langchain
