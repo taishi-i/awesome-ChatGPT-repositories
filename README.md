@@ -16,12 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**CLIs**
+ * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+ * [unity-mcp](https://github.com/coplaydev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
+
+
 **NLP**
- * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
- * [dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+ * [open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 
 
-_Updated on August 07, 2025_ (A total of 2205 repositories listed.)
+**Langchain**
+ * [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+
+
+_Updated on August 11, 2025_ (A total of 2209 repositories listed.)
 
 ## Table of contents
 
@@ -1020,6 +1028,8 @@ _Updated on August 07, 2025_ (A total of 2205 repositories listed.)
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - A framework to enable autonomous android and computer use using any LLM (local or remote)
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - A minimalistic MCP client with a good feature set.
  * [code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+ * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+ * [unity-mcp](https://github.com/coplaydev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 
 
 ## Reimplementations
@@ -1428,6 +1438,7 @@ _Updated on August 07, 2025_ (A total of 2205 repositories listed.)
  * [2txt](https://github.com/ai-ng/2txt) - Image to text, fast.
  * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
  * [dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+ * [open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 
 
 ## Langchain
@@ -1584,6 +1595,7 @@ _Updated on August 07, 2025_ (A total of 2205 repositories listed.)
  * [coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
  * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+ * [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
 
 ## Unity

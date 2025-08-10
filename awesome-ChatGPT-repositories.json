@@ -23316,6 +23316,72 @@
                     "zh-hans": "用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。",
                     "zh-hant": "用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。"
                 }
+            },
+            "https://github.com/zilliztech/claude-context": {
+                "repository_name": "claude-context",
+                "user_name": "zilliztech",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "MCP for code search, build for Claude Code, Gemini CLI or any code agents.",
+                "topics": [
+                    "agent",
+                    "agentic-rag",
+                    "ai-coding",
+                    "claude-code",
+                    "code-generation",
+                    "code-search",
+                    "cursor",
+                    "embedding",
+                    "gemini-cli",
+                    "mcp",
+                    "merkle-tree",
+                    "nodejs",
+                    "openai",
+                    "rag",
+                    "semantic-search",
+                    "typescript",
+                    "vector-database",
+                    "vibe-coding",
+                    "voyage-ai",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MCP for code search, build for Claude Code, Gemini CLI or any code agents.",
+                    "ja": "コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。",
+                    "zh-hans": "用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。",
+                    "zh-hant": "用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。"
+                }
+            },
+            "https://github.com/coplaydev/unity-mcp": {
+                "repository_name": "unity-mcp",
+                "user_name": "CoplayDev",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.",
+                "topics": [
+                    "ai",
+                    "ai-integration",
+                    "anthropic",
+                    "claude",
+                    "claude-co",
+                    "copilot",
+                    "cursor",
+                    "deepseek",
+                    "game-development",
+                    "gemini",
+                    "llm",
+                    "mcp",
+                    "model-context-protocol",
+                    "openai",
+                    "unity",
+                    "unity3d"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.",
+                    "ja": "Unity MCPサーバーは、Claude DesktopやCursorなどのMCPクライアントがUnityエディタのアクションを実行できるようにします。",
+                    "zh-hans": "一个Unity MCP服务器，允许像Claude Desktop或Cursor这样的MCP客户端执行Unity编辑器操作。",
+                    "zh-hant": "一個Unity MCP伺服器，允許像Claude Desktop或Cursor這樣的MCP客戶端執行Unity編輯器操作。"
+                }
             }
         },
         "Reimplementations": {
@@ -32058,6 +32124,29 @@
                     "zh-hans": "免费、本地、开源的AI应用程序构建工具✨ v0 / 可爱 / Bolt替代品 🌟 如果你喜欢，请点赞！",
                     "zh-hant": "免費、本地、開源的AI應用程式建立者 ✨ v0 / 可愛 / Bolt替代品 🌟 如果你喜歡，請給個星星！"
                 }
+            },
+            "https://github.com/langchain-ai/open-swe": {
+                "repository_name": "open-swe",
+                "user_name": "langchain-ai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "An Open-Source Asynchronous Coding Agent",
+                "topics": [
+                    "agent",
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "claudecode",
+                    "llm",
+                    "llms",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An Open-Source Asynchronous Coding Agent",
+                    "ja": "オープンソースの非同期コーディングエージェント",
+                    "zh-hans": "一个开源的异步编码代理",
+                    "zh-hant": "一個開源的異步編碼代理"
+                }
             }
         },
         "Langchain": {
@@ -35791,6 +35880,38 @@
                     "ja": "🦜🔗 コンテキストに応じた推論アプリケーションを構築します",
                     "zh-hans": "🦜🔗 构建具有上下文感知推理功能的应用程序",
                     "zh-hant": "🦜🔗 建立具有上下文意识的推理应用程序"
+                }
+            },
+            "https://github.com/ollama/ollama": {
+                "repository_name": "ollama",
+                "user_name": "ollama",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+                "topics": [
+                    "deepseek",
+                    "gemma",
+                    "gemma3",
+                    "gemma3n",
+                    "go",
+                    "golang",
+                    "gpt-oss",
+                    "llama",
+                    "llama2",
+                    "llama3",
+                    "llava",
+                    "llm",
+                    "llms",
+                    "mistral",
+                    "ollama",
+                    "phi4",
+                    "qwen"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+                    "ja": "OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。",
+                    "zh-hans": "使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。",
+                    "zh-hant": "使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。"
                 }
             }
         },
