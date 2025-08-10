@@ -16,12 +16,20 @@
 
 ## The latest additions 🎉
 
+**CLIs**
+ * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
+ * [unity-mcp](https://github.com/coplaydev/unity-mcp) - Unity MCPサーバーは、Claude DesktopやCursorなどのMCPクライアントがUnityエディタのアクションを実行できるようにします。
+
+
 **NLP**
- * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120bとgpt-oss-20bは、OpenAIによる2つのオープンウェイト言語モデルです。
- * [dyad](https://github.com/dyad-sh/dyad) - 無料、ローカル、オープンソースのAIアプリビルダー✨ v0 / 可愛い / Boltの代替🌟 お気に入りの場合はスターを付けてください！
+ * [open-swe](https://github.com/langchain-ai/open-swe) - オープンソースの非同期コーディングエージェント
 
 
-_Updated on August 07, 2025_ (A total of 2205 repositories listed.)
+**Langchain**
+ * [ollama](https://github.com/ollama/ollama) - OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。
+
+
+_Updated on August 11, 2025_ (A total of 2209 repositories listed.)
 
 ## Table of contents
 
@@ -1020,6 +1028,8 @@ _Updated on August 07, 2025_ (A total of 2205 repositories listed.)
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 機能が優れたミニマリストのMCPクライアント。
  * [code-context](https://github.com/zilliztech/code-context) - コード検索用のMCP、クロードコードのビルド、Gemini CLI、または任意のコードエージェントに対応します。
+ * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
+ * [unity-mcp](https://github.com/coplaydev/unity-mcp) - Unity MCPサーバーは、Claude DesktopやCursorなどのMCPクライアントがUnityエディタのアクションを実行できるようにします。
 
 
 ## Reimplementations
@@ -1428,6 +1438,7 @@ _Updated on August 07, 2025_ (A total of 2205 repositories listed.)
  * [2txt](https://github.com/ai-ng/2txt) - 画像をテキストに変換、高速に。
  * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120bとgpt-oss-20bは、OpenAIによる2つのオープンウェイト言語モデルです。
  * [dyad](https://github.com/dyad-sh/dyad) - 無料、ローカル、オープンソースのAIアプリビルダー✨ v0 / 可愛い / Boltの代替🌟 お気に入りの場合はスターを付けてください！
+ * [open-swe](https://github.com/langchain-ai/open-swe) - オープンソースの非同期コーディングエージェント
 
 
 ## Langchain
@@ -1584,6 +1595,7 @@ _Updated on August 07, 2025_ (A total of 2205 repositories listed.)
  * [coze-loop](https://github.com/coze-dev/coze-loop) - 次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。
  * [tools](https://github.com/strands-agents/tools) - エージェントに強力な機能を提供するツールセット。
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 コンテキストに応じた推論アプリケーションを構築します
+ * [ollama](https://github.com/ollama/ollama) - OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。
 
 
 ## Unity

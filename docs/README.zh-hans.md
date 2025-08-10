@@ -16,12 +16,20 @@
 
 ## The latest additions 🎉
 
+**CLIs**
+ * [claude-context](https://github.com/zilliztech/claude-context) - 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
+ * [unity-mcp](https://github.com/coplaydev/unity-mcp) - 一个Unity MCP服务器，允许像Claude Desktop或Cursor这样的MCP客户端执行Unity编辑器操作。
+
+
 **NLP**
- * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b和gpt-oss-20b是OpenAI推出的两个开放权重语言模型。
- * [dyad](https://github.com/dyad-sh/dyad) - 免费、本地、开源的AI应用程序构建工具✨ v0 / 可爱 / Bolt替代品 🌟 如果你喜欢，请点赞！
+ * [open-swe](https://github.com/langchain-ai/open-swe) - 一个开源的异步编码代理
 
 
-_Updated on August 07, 2025_ (A total of 2205 repositories listed.)
+**Langchain**
+ * [ollama](https://github.com/ollama/ollama) - 使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。
+
+
+_Updated on August 11, 2025_ (A total of 2209 repositories listed.)
 
 ## Table of contents
 
@@ -1020,6 +1028,8 @@ _Updated on August 07, 2025_ (A total of 2205 repositories listed.)
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 一个框架，可以使Android和计算机能够自主使用任何LLM（本地或远程）。
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 一个具有良好功能集的极简MCP客户端。
  * [code-context](https://github.com/zilliztech/code-context) - 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
+ * [claude-context](https://github.com/zilliztech/claude-context) - 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
+ * [unity-mcp](https://github.com/coplaydev/unity-mcp) - 一个Unity MCP服务器，允许像Claude Desktop或Cursor这样的MCP客户端执行Unity编辑器操作。
 
 
 ## Reimplementations
@@ -1428,6 +1438,7 @@ _Updated on August 07, 2025_ (A total of 2205 repositories listed.)
  * [2txt](https://github.com/ai-ng/2txt) - 图像转文字，快速。
  * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b和gpt-oss-20b是OpenAI推出的两个开放权重语言模型。
  * [dyad](https://github.com/dyad-sh/dyad) - 免费、本地、开源的AI应用程序构建工具✨ v0 / 可爱 / Bolt替代品 🌟 如果你喜欢，请点赞！
+ * [open-swe](https://github.com/langchain-ai/open-swe) - 一个开源的异步编码代理
 
 
 ## Langchain
@@ -1584,6 +1595,7 @@ _Updated on August 07, 2025_ (A total of 2205 repositories listed.)
  * [coze-loop](https://github.com/coze-dev/coze-loop) - 下一代AI代理优化平台：Cozeloop通过提供从开发、调试、评估到监控的全生命周期管理能力，解决了AI代理开发中的挑战。
  * [tools](https://github.com/strands-agents/tools) - 一组工具，为代理商提供强大的功能。
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 构建具有上下文感知推理功能的应用程序
+ * [ollama](https://github.com/ollama/ollama) - 使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。
 
 
 ## Unity
