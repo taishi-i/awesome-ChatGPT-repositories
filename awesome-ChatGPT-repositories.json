@@ -14270,6 +14270,53 @@
                     "zh-hans": "完全开源的命令行人工智能助手，灵感来自OpenAI Codex，支持本地语言模型。",
                     "zh-hant": "完全開源的命令行人工智慧助理，靈感來自OpenAI Codex，支援本地語言模型。"
                 }
+            },
+            "https://github.com/yincongcyincong/musebot": {
+                "repository_name": "MuseBot",
+                "user_name": "yincongcyincong",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "AI chatbot that supports both Telegram, Discord, Slack, Lark, Work Wechat, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.",
+                "topics": [
+                    "ai-bot",
+                    "deepseek",
+                    "discord",
+                    "feishu",
+                    "gemini",
+                    "openai",
+                    "openrouter",
+                    "slack",
+                    "telegram",
+                    "wechat"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI chatbot that supports both Telegram, Discord, Slack, Lark, Work Wechat, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamle",
+                    "ja": "Telegram、Discord、Slack、Lark、Work WechatをサポートするAIチャットボット。OpenAI、Gemini、DeepSeek、Doubao、OpenRouterなど、さまざまなLLMと互換性があります。インテリジェントな会話、画像生成、ビデオ作成などを提供します。シームレスに動作します。",
+                    "zh-hans": "支持Telegram、Discord、Slack、Lark、企业微信等多个平台的AI聊天机器人，兼容多种LLM模型，包括OpenAI、Gemini、DeepSeek、Doubao和OpenRouter。提供智能对话、图像生成、视频创作等功能。能够无缝运行。",
+                    "zh-hant": "支援Telegram、Discord、Slack、Lark、企業微信等多個平台的AI聊天機器人，兼容OpenAI、Gemini、DeepSeek、Doubao和OpenRouter等多種LLM。提供智能對話、圖像生成、視頻創建等功能。無縫運行。"
+                }
+            },
+            "https://github.com/kromiose/nekro-agent": {
+                "repository_name": "nekro-agent",
+                "user_name": "KroMiose",
+                "language": "Python",
+                "license": "Other",
+                "description": "集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态; An Extensible Multi-person interactive Agent Framework Powered by LLM Code Generation; Support: QQ, Discord, Minecraft, Bilibili Live, SSE(SDK) ...",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "chatbot",
+                    "multiuserchat",
+                    "openai",
+                    "python",
+                    "sandbox"
+                ],
+                "multilingual_descriptions": {
+                    "en": "集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态; An Extensible Multi-person interactive Agent Framework Powered by LLM Code Generation; Support: QQ, Discord, Minecraft, Bilibili Live, SSE(SDK) ...",
+                    "ja": "LLMコード生成によって駆動される拡張可能なマルチユーザーインタラクティブエージェントフレームワーク：QQ、Discord、Minecraft、Bilibili Live、SSE（SDK）をサポートする、サンドボックス駆動、ビジュアル、高度に拡張可能、マルチモードのチャットボット。",
+                    "zh-hans": "一个由LLM代码生成驱动的可扩展多人互动代理框架：支持QQ、Discord、Minecraft、哔哩哔哩直播、SSE(SDK)等跨平台聊天机器人。具有沙盒驱动、可视化、高扩展、多模态功能。",
+                    "zh-hant": "集代碼執行能力/高度可擴展性為一體的多人跨平台聊天機器人：沙盒驅動｜可視化｜高擴展｜多模態; 由LLM代碼生成驅動的可擴展多人互動代理框架; 支持：QQ、Discord、Minecraft、Bilibili直播、SSE(SDK) ..."
+                }
             }
         },
         "Browser-extensions": {
@@ -32147,6 +32194,41 @@
                     "zh-hans": "一个开源的异步编码代理",
                     "zh-hant": "一個開源的異步編碼代理"
                 }
+            },
+            "https://github.com/sherlockchou86/videopipe": {
+                "repository_name": "VideoPipe",
+                "user_name": "sherlockchou86",
+                "language": "C++",
+                "license": "Apache License 2.0",
+                "description": "A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : ) ",
+                "topics": [
+                    "ai",
+                    "behaviour-analysis",
+                    "cv",
+                    "deep-learning",
+                    "deepstream",
+                    "face-recognition",
+                    "feature-extraction",
+                    "gstreamer",
+                    "image-classification",
+                    "image-segmentation",
+                    "license-plate-recognition",
+                    "llm",
+                    "multimodal-large-language-models",
+                    "object-detection",
+                    "ollama",
+                    "openai",
+                    "opencv",
+                    "reid",
+                    "similarity-search",
+                    "video-analysis"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )",
+                    "ja": "クロスプラットフォームのビデオ構造化（ビデオ分析）フレームワーク。役立つと思ったら、星を付けてください：）跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )",
+                    "zh-hans": "一个跨平台的视频结构化（视频分析）框架。如果您觉得有帮助，请给它一个星星：）",
+                    "zh-hant": "一個跨平台的視頻結構化（視頻分析）框架。如果您覺得有幫助，請給它一顆星：）"
+                }
             }
         },
         "Langchain": {
@@ -35912,6 +35994,41 @@
                     "ja": "OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。",
                     "zh-hans": "使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。",
                     "zh-hant": "使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。"
+                }
+            },
+            "https://github.com/kaito-project/aikit": {
+                "repository_name": "aikit",
+                "user_name": "kaito-project",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "🏗️ Fine-tune, build, and deploy open-source LLMs easily!",
+                "topics": [
+                    "ai",
+                    "buildkit",
+                    "chatgpt",
+                    "docker",
+                    "fine-tuning",
+                    "finetuning",
+                    "gemma",
+                    "gpt",
+                    "inference",
+                    "kubernetes",
+                    "large-language-models",
+                    "llama",
+                    "llm",
+                    "localllama",
+                    "mistral",
+                    "mixtral",
+                    "nvidia",
+                    "open-llm",
+                    "open-source-llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🏗️ Fine-tune, build, and deploy open-source LLMs easily!",
+                    "ja": "🏗️オープンソースのLLMを簡単に微調整、構築、展開！",
+                    "zh-hans": "🏗️ 轻松微调、构建和部署开源LLMs！",
+                    "zh-hant": "🏗️ 輕鬆微調、構建和部署開源LLMs！"
                 }
             }
         },
@@ -42007,6 +42124,20 @@
                     "ja": "GitHub CopilotをOpenAI/Anthropic API互換のサーバーに変換します。Claude Codeと一緒に使用できます！",
                     "zh-hans": "将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code一起使用！",
                     "zh-hant": "將GitHub Copilot轉換為OpenAI/Anthropic API相容的伺服器。可與Claude Code一起使用！"
+                }
+            },
+            "https://github.com/avdpro/ai2apps": {
+                "repository_name": "ai2apps",
+                "user_name": "Avdpro",
+                "language": "JavaScript",
+                "license": "Other",
+                "description": "Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.",
+                    "ja": "ローカルシステムでAI2Appsをセットアップして、独自のOpenAIキーを使用したり、より多くのバックエンド機能を追加したりできるようにします。",
+                    "zh-hans": "在本地系统上设置AI2Apps，这样您就可以使用自己的OpenAI密钥或添加更多后端功能。",
+                    "zh-hant": "在本地系統上設置AI2Apps，這樣您就可以使用自己的OpenAI密鑰或添加更多後端功能。"
                 }
             }
         },
@@ -50081,6 +50212,20 @@
                     "ja": "このリポジトリは、ChatGPTが実際のマイクロキャップ株ポートフォリオを管理するブログ実験を支えています。",
                     "zh-hans": "这个存储库支持我的博客实验，ChatGPT管理一个真实货币的微型市值股票投资组合。",
                     "zh-hant": "這個存儲庫支持我的博客實驗，其中ChatGPT管理一個真實貨幣的微型市值股票組合。"
+                }
+            },
+            "https://github.com/mino260806/keyboardgpt": {
+                "repository_name": "KeyboardGPT",
+                "user_name": "Mino260806",
+                "language": "Java",
+                "license": null,
+                "description": "LSPosed Module to integrate Generative AI like ChatGPT in keyboard.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "LSPosed Module to integrate Generative AI like ChatGPT in keyboard.",
+                    "ja": "キーボードにChatGPTなどの生成AIを統合するためのLSPosedモジュール。",
+                    "zh-hans": "LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。输出：LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。",
+                    "zh-hant": "LSPosed模塊，用於在鍵盤中集成像ChatGPT這樣的生成式AI。LSPosed模塊，用於在鍵盤中集成像ChatGPT這樣的生成式AI。"
                 }
             }
         }

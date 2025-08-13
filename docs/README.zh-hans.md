@@ -16,20 +16,28 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [claude-context](https://github.com/zilliztech/claude-context) - 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
- * [unity-mcp](https://github.com/coplaydev/unity-mcp) - 一个Unity MCP服务器，允许像Claude Desktop或Cursor这样的MCP客户端执行Unity编辑器操作。
+**Chatbots**
+ * [MuseBot](https://github.com/yincongcyincong/musebot) - 支持Telegram、Discord、Slack、Lark、企业微信等多个平台的AI聊天机器人，兼容多种LLM模型，包括OpenAI、Gemini、DeepSeek、Doubao和OpenRouter。提供智能对话、图像生成、视频创作等功能。能够无缝运行。
+ * [nekro-agent](https://github.com/kromiose/nekro-agent) - 一个由LLM代码生成驱动的可扩展多人互动代理框架：支持QQ、Discord、Minecraft、哔哩哔哩直播、SSE(SDK)等跨平台聊天机器人。具有沙盒驱动、可视化、高扩展、多模态功能。
 
 
 **NLP**
- * [open-swe](https://github.com/langchain-ai/open-swe) - 一个开源的异步编码代理
+ * [VideoPipe](https://github.com/sherlockchou86/videopipe) - 一个跨平台的视频结构化（视频分析）框架。如果您觉得有帮助，请给它一个星星：）
 
 
 **Langchain**
- * [ollama](https://github.com/ollama/ollama) - 使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。
+ * [aikit](https://github.com/kaito-project/aikit) - 🏗️ 轻松微调、构建和部署开源LLMs！
 
 
-_Updated on August 11, 2025_ (A total of 2209 repositories listed.)
+**Openai**
+ * [ai2apps](https://github.com/avdpro/ai2apps) - 在本地系统上设置AI2Apps，这样您就可以使用自己的OpenAI密钥或添加更多后端功能。
+
+
+**Others**
+ * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。输出：LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。
+
+
+_Updated on August 14, 2025_ (A total of 2215 repositories listed.)
 
 ## Table of contents
 
@@ -635,6 +643,8 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - 高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。
  * [LangBot](https://github.com/langbot-app/langbot) - 🤩 为LLM时代设计的易于使用的全球即时通信机器人平台 / 简单易用的大模型即时通信机器人开发平台 ⚡️ QQ / QQ频道 / Discord / 企业微信、个人微信 / Telegram / 飞书 / 钉钉 / Slack 🧩 集成了ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic
  * [open-codex](https://github.com/codingmoh/open-codex) - 完全开源的命令行人工智能助手，灵感来自OpenAI Codex，支持本地语言模型。
+ * [MuseBot](https://github.com/yincongcyincong/musebot) - 支持Telegram、Discord、Slack、Lark、企业微信等多个平台的AI聊天机器人，兼容多种LLM模型，包括OpenAI、Gemini、DeepSeek、Doubao和OpenRouter。提供智能对话、图像生成、视频创作等功能。能够无缝运行。
+ * [nekro-agent](https://github.com/kromiose/nekro-agent) - 一个由LLM代码生成驱动的可扩展多人互动代理框架：支持QQ、Discord、Minecraft、哔哩哔哩直播、SSE(SDK)等跨平台聊天机器人。具有沙盒驱动、可视化、高扩展、多模态功能。
 
 
 ## Browser-extensions
@@ -1439,6 +1449,7 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b和gpt-oss-20b是OpenAI推出的两个开放权重语言模型。
  * [dyad](https://github.com/dyad-sh/dyad) - 免费、本地、开源的AI应用程序构建工具✨ v0 / 可爱 / Bolt替代品 🌟 如果你喜欢，请点赞！
  * [open-swe](https://github.com/langchain-ai/open-swe) - 一个开源的异步编码代理
+ * [VideoPipe](https://github.com/sherlockchou86/videopipe) - 一个跨平台的视频结构化（视频分析）框架。如果您觉得有帮助，请给它一个星星：）
 
 
 ## Langchain
@@ -1596,6 +1607,7 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [tools](https://github.com/strands-agents/tools) - 一组工具，为代理商提供强大的功能。
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 构建具有上下文感知推理功能的应用程序
  * [ollama](https://github.com/ollama/ollama) - 使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。
+ * [aikit](https://github.com/kaito-project/aikit) - 🏗️ 轻松微调、构建和部署开源LLMs！
 
 
 ## Unity
@@ -1886,6 +1898,7 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - 绘制一个模型并为其生成html代码
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 建立自己的Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快速添加账号池。
  * [copilot-api](https://github.com/ericc-ch/copilot-api) - 将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code一起使用！
+ * [ai2apps](https://github.com/avdpro/ai2apps) - 在本地系统上设置AI2Apps，这样您就可以使用自己的OpenAI密钥或添加更多后端功能。
 
 
 ## Others
@@ -2313,5 +2326,6 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求输出：Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - 工作流程至APP、屏幕共享和悬浮视频、GPT和3D、语音识别和TTS
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - 这个存储库支持我的博客实验，ChatGPT管理一个真实货币的微型市值股票投资组合。
+ * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。输出：LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。
 
 
