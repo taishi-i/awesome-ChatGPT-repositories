@@ -16,20 +16,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
- * [unity-mcp](https://github.com/coplaydev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
+**Chatbots**
+ * [MuseBot](https://github.com/yincongcyincong/musebot) - AI chatbot that supports both Telegram, Discord, Slack, Lark, Work Wechat, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamle
+ * [nekro-agent](https://github.com/kromiose/nekro-agent) - 集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态; An Extensible Multi-person interactive Agent Framework Powered by LLM Code Generation; Support: QQ, Discord, Minecraft, Bilibili Live, SSE(SDK) ...
 
 
 **NLP**
- * [open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
+ * [VideoPipe](https://github.com/sherlockchou86/videopipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
 
 
 **Langchain**
- * [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+ * [aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
 
-_Updated on August 11, 2025_ (A total of 2209 repositories listed.)
+**Openai**
+ * [ai2apps](https://github.com/avdpro/ai2apps) - Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.
+
+
+**Others**
+ * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed Module to integrate Generative AI like ChatGPT in keyboard.
+
+
+_Updated on August 14, 2025_ (A total of 2215 repositories listed.)
 
 ## Table of contents
 
@@ -635,6 +643,8 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - High-performance Text-to-Speech server with OpenAI-compatible API, 8 voices, emotion tags, and modern web UI. Optimized for RTX GPUs.
  * [LangBot](https://github.com/langbot-app/langbot) - 🤩 Easy-to-use global IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人开发平台 ⚡️ Bots for QQ / QQ频道 / Discord / WeChat（企业微信、个人微信）/ Telegram / 飞书 / 钉钉 / Slack 🧩 Integrated with ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic
  * [open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
+ * [MuseBot](https://github.com/yincongcyincong/musebot) - AI chatbot that supports both Telegram, Discord, Slack, Lark, Work Wechat, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamle
+ * [nekro-agent](https://github.com/kromiose/nekro-agent) - 集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态; An Extensible Multi-person interactive Agent Framework Powered by LLM Code Generation; Support: QQ, Discord, Minecraft, Bilibili Live, SSE(SDK) ...
 
 
 ## Browser-extensions
@@ -1439,6 +1449,7 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
  * [dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
  * [open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
+ * [VideoPipe](https://github.com/sherlockchou86/videopipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
 
 
 ## Langchain
@@ -1596,6 +1607,7 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [tools](https://github.com/strands-agents/tools) - A set of tools that gives agents powerful capabilities.
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
  * [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+ * [aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
 
 
 ## Unity
@@ -1886,6 +1898,7 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - Draw a mockup and generate html for it
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - Build your own Claude code image service, support multiple account switching, custom API keys, Claude API, OPENAI compatible format, effectively avoid being banned, OAuth integration can quickly add account pools.
  * [copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
+ * [ai2apps](https://github.com/avdpro/ai2apps) - Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.
 
 
 ## Others
@@ -2313,5 +2326,6 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
+ * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed Module to integrate Generative AI like ChatGPT in keyboard.
 
 

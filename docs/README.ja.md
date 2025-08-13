@@ -16,20 +16,28 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
- * [unity-mcp](https://github.com/coplaydev/unity-mcp) - Unity MCPサーバーは、Claude DesktopやCursorなどのMCPクライアントがUnityエディタのアクションを実行できるようにします。
+**Chatbots**
+ * [MuseBot](https://github.com/yincongcyincong/musebot) - Telegram、Discord、Slack、Lark、Work WechatをサポートするAIチャットボット。OpenAI、Gemini、DeepSeek、Doubao、OpenRouterなど、さまざまなLLMと互換性があります。インテリジェントな会話、画像生成、ビデオ作成などを提供します。シームレスに動作します。
+ * [nekro-agent](https://github.com/kromiose/nekro-agent) - LLMコード生成によって駆動される拡張可能なマルチユーザーインタラクティブエージェントフレームワーク：QQ、Discord、Minecraft、Bilibili Live、SSE（SDK）をサポートする、サンドボックス駆動、ビジュアル、高度に拡張可能、マルチモードのチャットボット。
 
 
 **NLP**
- * [open-swe](https://github.com/langchain-ai/open-swe) - オープンソースの非同期コーディングエージェント
+ * [VideoPipe](https://github.com/sherlockchou86/videopipe) - クロスプラットフォームのビデオ構造化（ビデオ分析）フレームワーク。役立つと思ったら、星を付けてください：）跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
 
 
 **Langchain**
- * [ollama](https://github.com/ollama/ollama) - OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。
+ * [aikit](https://github.com/kaito-project/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開！
 
 
-_Updated on August 11, 2025_ (A total of 2209 repositories listed.)
+**Openai**
+ * [ai2apps](https://github.com/avdpro/ai2apps) - ローカルシステムでAI2Appsをセットアップして、独自のOpenAIキーを使用したり、より多くのバックエンド機能を追加したりできるようにします。
+
+
+**Others**
+ * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - キーボードにChatGPTなどの生成AIを統合するためのLSPosedモジュール。
+
+
+_Updated on August 14, 2025_ (A total of 2215 repositories listed.)
 
 ## Table of contents
 
@@ -635,6 +643,8 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - OpenAI互換API、8つの声、感情タグ、モダンなWeb UIを備えた高性能テキスト読み上げサーバー。RTX GPUに最適化されています。
  * [LangBot](https://github.com/langbot-app/langbot) - 🤩 LLM時代向けに設計された使いやすいグローバルIMボットプラットフォーム / 簡単に使えるグローバルIMボットプラットフォーム ⚡️ QQ / QQチャンネル / Discord / WeChat（企業WeChat、個人WeChat）/ Telegram / 飛書 / 钉钉 / Slack 🧩 ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silicと統合
  * [open-codex](https://github.com/codingmoh/open-codex) - OpenAI Codexに触発された完全なオープンソースのコマンドラインAIアシスタントで、ローカル言語モデルをサポートしています。
+ * [MuseBot](https://github.com/yincongcyincong/musebot) - Telegram、Discord、Slack、Lark、Work WechatをサポートするAIチャットボット。OpenAI、Gemini、DeepSeek、Doubao、OpenRouterなど、さまざまなLLMと互換性があります。インテリジェントな会話、画像生成、ビデオ作成などを提供します。シームレスに動作します。
+ * [nekro-agent](https://github.com/kromiose/nekro-agent) - LLMコード生成によって駆動される拡張可能なマルチユーザーインタラクティブエージェントフレームワーク：QQ、Discord、Minecraft、Bilibili Live、SSE（SDK）をサポートする、サンドボックス駆動、ビジュアル、高度に拡張可能、マルチモードのチャットボット。
 
 
 ## Browser-extensions
@@ -1439,6 +1449,7 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120bとgpt-oss-20bは、OpenAIによる2つのオープンウェイト言語モデルです。
  * [dyad](https://github.com/dyad-sh/dyad) - 無料、ローカル、オープンソースのAIアプリビルダー✨ v0 / 可愛い / Boltの代替🌟 お気に入りの場合はスターを付けてください！
  * [open-swe](https://github.com/langchain-ai/open-swe) - オープンソースの非同期コーディングエージェント
+ * [VideoPipe](https://github.com/sherlockchou86/videopipe) - クロスプラットフォームのビデオ構造化（ビデオ分析）フレームワーク。役立つと思ったら、星を付けてください：）跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
 
 
 ## Langchain
@@ -1596,6 +1607,7 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [tools](https://github.com/strands-agents/tools) - エージェントに強力な機能を提供するツールセット。
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 コンテキストに応じた推論アプリケーションを構築します
  * [ollama](https://github.com/ollama/ollama) - OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。
+ * [aikit](https://github.com/kaito-project/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開！
 
 
 ## Unity
@@ -1886,6 +1898,7 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - モックアップを描いて、それに対応するHTMLを生成します。
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。
  * [copilot-api](https://github.com/ericc-ch/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換のサーバーに変換します。Claude Codeと一緒に使用できます！
+ * [ai2apps](https://github.com/avdpro/ai2apps) - ローカルシステムでAI2Appsをセットアップして、独自のOpenAIキーを使用したり、より多くのバックエンド機能を追加したりできるようにします。
 
 
 ## Others
@@ -2313,5 +2326,6 @@ _Updated on August 11, 2025_ (A total of 2209 repositories listed.)
  * [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆TTS
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - このリポジトリは、ChatGPTが実際のマイクロキャップ株ポートフォリオを管理するブログ実験を支えています。
+ * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - キーボードにChatGPTなどの生成AIを統合するためのLSPosedモジュール。
 
 
