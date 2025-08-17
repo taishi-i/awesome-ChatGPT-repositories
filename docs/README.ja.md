@@ -16,28 +16,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [MuseBot](https://github.com/yincongcyincong/musebot) - Telegram、Discord、Slack、Lark、Work WechatをサポートするAIチャットボット。OpenAI、Gemini、DeepSeek、Doubao、OpenRouterなど、さまざまなLLMと互換性があります。インテリジェントな会話、画像生成、ビデオ作成などを提供します。シームレスに動作します。
- * [nekro-agent](https://github.com/kromiose/nekro-agent) - LLMコード生成によって駆動される拡張可能なマルチユーザーインタラクティブエージェントフレームワーク：QQ、Discord、Minecraft、Bilibili Live、SSE（SDK）をサポートする、サンドボックス駆動、ビジュアル、高度に拡張可能、マルチモードのチャットボット。
-
-
-**NLP**
- * [VideoPipe](https://github.com/sherlockchou86/videopipe) - クロスプラットフォームのビデオ構造化（ビデオ分析）フレームワーク。役立つと思ったら、星を付けてください：）跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
+**CLIs**
+ * [tome](https://github.com/runebookai/tome) - 誰でもLLMとMCPを簡単に使用できる魔法のLLMデスクトップクライアント
+ * [openai-api-rs](https://github.com/dongri/openai-api-rs) - Rust用のOpenAI APIクライアントライブラリ（非公式）Rust用のOpenAI APIクライアントライブラリ（非公式）
+ * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Serverは、AppleのMLXフレームワークを搭載したローカル推論サーバーであり、特にApple Silicon（Mシリーズ）チップ向けに設計されています。OpenAI互換のAPIエンドポイントを実装し、既存のOpenAI SDKクライアントとのシームレスな統合を可能にします。
+ * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - より優れたチャットボット。MCPクライアントとワークフローによって動作します。
+ * [dbeaver](https://github.com/dbeaver/dbeaver) - 無料の汎用データベースツールとSQLクライアント
 
 
 **Langchain**
- * [aikit](https://github.com/kaito-project/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開！
+ * [restai](https://github.com/apocas/restai) - RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
+ * [kubewall](https://github.com/kubewall/kubewall) - kubewall - オープンソース、シングルバイナリのKubernetesダッシュボードで、マルチクラスター管理とAI統合を提供します。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
 
-**Openai**
- * [ai2apps](https://github.com/avdpro/ai2apps) - ローカルシステムでAI2Appsをセットアップして、独自のOpenAIキーを使用したり、より多くのバックエンド機能を追加したりできるようにします。
-
-
-**Others**
- * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - キーボードにChatGPTなどの生成AIを統合するためのLSPosedモジュール。
-
-
-_Updated on August 14, 2025_ (A total of 2215 repositories listed.)
+_Updated on August 18, 2025_ (A total of 2222 repositories listed.)
 
 ## Table of contents
 
@@ -1040,6 +1032,11 @@ _Updated on August 14, 2025_ (A total of 2215 repositories listed.)
  * [code-context](https://github.com/zilliztech/code-context) - コード検索用のMCP、クロードコードのビルド、Gemini CLI、または任意のコードエージェントに対応します。
  * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
  * [unity-mcp](https://github.com/coplaydev/unity-mcp) - Unity MCPサーバーは、Claude DesktopやCursorなどのMCPクライアントがUnityエディタのアクションを実行できるようにします。
+ * [tome](https://github.com/runebookai/tome) - 誰でもLLMとMCPを簡単に使用できる魔法のLLMデスクトップクライアント
+ * [openai-api-rs](https://github.com/dongri/openai-api-rs) - Rust用のOpenAI APIクライアントライブラリ（非公式）Rust用のOpenAI APIクライアントライブラリ（非公式）
+ * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Serverは、AppleのMLXフレームワークを搭載したローカル推論サーバーであり、特にApple Silicon（Mシリーズ）チップ向けに設計されています。OpenAI互換のAPIエンドポイントを実装し、既存のOpenAI SDKクライアントとのシームレスな統合を可能にします。
+ * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - より優れたチャットボット。MCPクライアントとワークフローによって動作します。
+ * [dbeaver](https://github.com/dbeaver/dbeaver) - 無料の汎用データベースツールとSQLクライアント
 
 
 ## Reimplementations
@@ -1608,6 +1605,8 @@ _Updated on August 14, 2025_ (A total of 2215 repositories listed.)
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 コンテキストに応じた推論アプリケーションを構築します
  * [ollama](https://github.com/ollama/ollama) - OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開！
+ * [restai](https://github.com/apocas/restai) - RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
+ * [kubewall](https://github.com/kubewall/kubewall) - kubewall - オープンソース、シングルバイナリのKubernetesダッシュボードで、マルチクラスター管理とAI統合を提供します。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
 
 ## Unity

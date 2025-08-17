@@ -16,28 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [MuseBot](https://github.com/yincongcyincong/musebot) - AI chatbot that supports both Telegram, Discord, Slack, Lark, Work Wechat, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
- * [nekro-agent](https://github.com/kromiose/nekro-agent) - 集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态; An Extensible Multi-person interactive Agent Framework Powered by LLM Code Generation; Support: QQ, Discord, Minecraft, Bilibili Live, SSE(SDK) ...
-
-
-**NLP**
- * [VideoPipe](https://github.com/sherlockchou86/videopipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
+**CLIs**
+ * [tome](https://github.com/runebookai/tome) - a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP
+ * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI API client library for Rust (unofficial)
+ * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leveraging the power of local ML inference.
+ * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client & Workflows.
+ * [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 
 **Langchain**
- * [aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+ * [restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation (Dall-E, SD, Flux) and dynamic loading generators.
+ * [kubewall](https://github.com/kubewall/kubewall) - kubewall — Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
 
-**Openai**
- * [ai2apps](https://github.com/avdpro/ai2apps) - Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.
-
-
-**Others**
- * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed Module to integrate Generative AI like ChatGPT in keyboard.
-
-
-_Updated on August 14, 2025_ (A total of 2215 repositories listed.)
+_Updated on August 18, 2025_ (A total of 2222 repositories listed.)
 
 ## Table of contents
 
@@ -1040,6 +1032,11 @@ _Updated on August 14, 2025_ (A total of 2215 repositories listed.)
  * [code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
  * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
  * [unity-mcp](https://github.com/coplaydev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
+ * [tome](https://github.com/runebookai/tome) - a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP
+ * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI API client library for Rust (unofficial)
+ * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leveraging the power of local ML inference.
+ * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client & Workflows.
+ * [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 
 ## Reimplementations
@@ -1608,6 +1605,8 @@ _Updated on August 14, 2025_ (A total of 2215 repositories listed.)
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
  * [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
+ * [restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation (Dall-E, SD, Flux) and dynamic loading generators.
+ * [kubewall](https://github.com/kubewall/kubewall) - kubewall — Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
 
 ## Unity
