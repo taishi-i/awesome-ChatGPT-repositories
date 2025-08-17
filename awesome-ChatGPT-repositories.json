@@ -23429,6 +23429,153 @@
                     "zh-hans": "一个Unity MCP服务器，允许像Claude Desktop或Cursor这样的MCP客户端执行Unity编辑器操作。",
                     "zh-hant": "一個Unity MCP伺服器，允許像Claude Desktop或Cursor這樣的MCP客戶端執行Unity編輯器操作。"
                 }
+            },
+            "https://github.com/runebookai/tome": {
+                "repository_name": "tome",
+                "user_name": "runebookai",
+                "language": "Svelte",
+                "license": "Apache License 2.0",
+                "description": "a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP",
+                "topics": [
+                    "gemini",
+                    "llm",
+                    "llm-client",
+                    "llms",
+                    "local-llm",
+                    "localai",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-clients",
+                    "no-code",
+                    "ollama",
+                    "openai",
+                    "qwen3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP",
+                    "ja": "誰でもLLMとMCPを簡単に使用できる魔法のLLMデスクトップクライアント",
+                    "zh-hans": "一个神奇的LLM桌面客户端，使任何人都能轻松使用LLMs和MCP。",
+                    "zh-hant": "一個神奇的LLM桌面客戶端，讓任何人都能輕鬆使用LLMs和MCP"
+                }
+            },
+            "https://github.com/dongri/openai-api-rs": {
+                "repository_name": "openai-api-rs",
+                "user_name": "dongri",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "OpenAI API client library for Rust (unofficial)",
+                "topics": [
+                    "api",
+                    "deepseek",
+                    "gpt-3-5-turbo",
+                    "gpt-4",
+                    "gpt-4-5",
+                    "gpt-4o",
+                    "gpt-4o-mini",
+                    "o1",
+                    "openai",
+                    "openrouter",
+                    "realtime",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI API client library for Rust (unofficial)",
+                    "ja": "Rust用のOpenAI APIクライアントライブラリ（非公式）Rust用のOpenAI APIクライアントライブラリ（非公式）",
+                    "zh-hans": "OpenAI API Rust客户端库（非官方）",
+                    "zh-hant": "OpenAI Rust API 客戶端庫（非官方）"
+                }
+            },
+            "https://github.com/madroidmaq/mlx-omni-server": {
+                "repository_name": "mlx-omni-server",
+                "user_name": "madroidmaq",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leveraging the power of local ML inference.",
+                "topics": [
+                    "function-calling",
+                    "genai",
+                    "mlx",
+                    "openai",
+                    "openai-api",
+                    "structured-output",
+                    "stt",
+                    "tools",
+                    "tts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leve",
+                    "ja": "MLX Omni Serverは、AppleのMLXフレームワークを搭載したローカル推論サーバーであり、特にApple Silicon（Mシリーズ）チップ向けに設計されています。OpenAI互換のAPIエンドポイントを実装し、既存のOpenAI SDKクライアントとのシームレスな統合を可能にします。",
+                    "zh-hans": "MLX Omni Server是由苹果的MLX框架驱动的本地推理服务器，专门为苹果Silicon（M系列）芯片设计。它实现了兼容OpenAI的API端点，可以与现有的OpenAI SDK客户端无缝集成。",
+                    "zh-hant": "MLX Omni Server 是一個由蘋果的 MLX 框架驅動的本地推論伺服器，專門設計用於蘋果矽片（M 系列）。它實現了與現有 OpenAI SDK 客戶端無縫集成的 OpenAI 兼容的 API 端點，同時提供更高水平的性能。"
+                }
+            },
+            "https://github.com/cgoinglove/better-chatbot": {
+                "repository_name": "better-chatbot",
+                "user_name": "cgoinglove",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Just a Better Chatbot. Powered by MCP Client & Workflows.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-chatbot",
+                    "automation",
+                    "chatbot",
+                    "claude",
+                    "gemini",
+                    "low-code",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-server",
+                    "nextjs",
+                    "ollama",
+                    "openai",
+                    "openai-realtime",
+                    "ui",
+                    "vercel",
+                    "voice-ai",
+                    "web-ui",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Just a Better Chatbot. Powered by MCP Client & Workflows.",
+                    "ja": "より優れたチャットボット。MCPクライアントとワークフローによって動作します。",
+                    "zh-hans": "只是一个更好的聊天机器人。由MCP客户端和工作流驱动。",
+                    "zh-hant": "只是一個更好的聊天機器人。由MCP客戶端和工作流程提供動力。"
+                }
+            },
+            "https://github.com/dbeaver/dbeaver": {
+                "repository_name": "dbeaver",
+                "user_name": "dbeaver",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "Free universal database tool and SQL client",
+                "topics": [
+                    "ai",
+                    "copilot",
+                    "database",
+                    "db2",
+                    "dbeaver",
+                    "erd",
+                    "gui",
+                    "java",
+                    "jdbc",
+                    "mysql",
+                    "nosql",
+                    "openai",
+                    "oracle",
+                    "postgresql",
+                    "redshift",
+                    "sql",
+                    "sqlite",
+                    "sqlserver"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Free universal database tool and SQL client",
+                    "ja": "無料の汎用データベースツールとSQLクライアント",
+                    "zh-hans": "免费的通用数据库工具和SQL客户端",
+                    "zh-hant": "免費的通用數據庫工具和SQL客戶端"
+                }
             }
         },
         "Reimplementations": {
@@ -36029,6 +36176,70 @@
                     "ja": "🏗️オープンソースのLLMを簡単に微調整、構築、展開！",
                     "zh-hans": "🏗️ 轻松微调、构建和部署开源LLMs！",
                     "zh-hant": "🏗️ 輕鬆微調、構建和部署開源LLMs！"
+                }
+            },
+            "https://github.com/apocas/restai": {
+                "repository_name": "restai",
+                "user_name": "apocas",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation (Dall-E, SD, Flux) and dynamic loading generators.",
+                "topics": [
+                    "embeddings",
+                    "fastapi",
+                    "langchain",
+                    "llama",
+                    "llamaindex",
+                    "llava",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "openaiapi",
+                    "python",
+                    "rag",
+                    "stable-diffusion",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation",
+                    "ja": "RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。",
+                    "zh-hans": "RESTai是一个AIaaS（AI即服务）开源平台。建立在LlamaIndex和Langchain之上。支持由LlamaIndex支持的任何公共LLM和由Ollama/vLLM等支持的任何本地LLM。精确的嵌入使用和调整。内置图像生成。",
+                    "zh-hant": "RESTai 是一個 AIaaS（AI 作為服務）開源平台。建立在 LlamaIndex 和 Langchain 之上。支持由 LlamaIndex 支持的任何公共 LLM 和由 Ollama/vLLM 等支持的任何本地 LLM。精確的嵌入使用和調整。內置圖像生成。"
+                }
+            },
+            "https://github.com/kubewall/kubewall": {
+                "repository_name": "kubewall",
+                "user_name": "kubewall",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "kubewall — Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "cloud-native",
+                    "dashboard",
+                    "developer-tools",
+                    "devops",
+                    "golang",
+                    "k8s",
+                    "k8s-dashboard",
+                    "kubectl",
+                    "kubernetes",
+                    "kubernetes-dashboard",
+                    "kubernetes-helper",
+                    "kubernetes-monitoring",
+                    "kubernetes-ui",
+                    "lmstudio",
+                    "ollama",
+                    "orchestration",
+                    "productivity",
+                    "qwen3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "kubewall - Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+                    "ja": "kubewall - オープンソース、シングルバイナリのKubernetesダッシュボードで、マルチクラスター管理とAI統合を提供します。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+                    "zh-hans": "kubewall - 开源、单一二进制文件的 Kubernetes 仪表板，具有多集群管理和人工智能集成功能。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
+                    "zh-hant": "kubewall - 開源、單一二進制 Kubernetes 儀表板，具有多集群管理和人工智能集成。 （OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio）"
                 }
             }
         },

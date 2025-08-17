@@ -16,28 +16,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [MuseBot](https://github.com/yincongcyincong/musebot) - 支持Telegram、Discord、Slack、Lark、企业微信等多个平台的AI聊天机器人，兼容多种LLM模型，包括OpenAI、Gemini、DeepSeek、Doubao和OpenRouter。提供智能对话、图像生成、视频创作等功能。能够无缝运行。
- * [nekro-agent](https://github.com/kromiose/nekro-agent) - 一个由LLM代码生成驱动的可扩展多人互动代理框架：支持QQ、Discord、Minecraft、哔哩哔哩直播、SSE(SDK)等跨平台聊天机器人。具有沙盒驱动、可视化、高扩展、多模态功能。
-
-
-**NLP**
- * [VideoPipe](https://github.com/sherlockchou86/videopipe) - 一个跨平台的视频结构化（视频分析）框架。如果您觉得有帮助，请给它一个星星：）
+**CLIs**
+ * [tome](https://github.com/runebookai/tome) - 一个神奇的LLM桌面客户端，使任何人都能轻松使用LLMs和MCP。
+ * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI API Rust客户端库（非官方）
+ * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server是由苹果的MLX框架驱动的本地推理服务器，专门为苹果Silicon（M系列）芯片设计。它实现了兼容OpenAI的API端点，可以与现有的OpenAI SDK客户端无缝集成。
+ * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - 只是一个更好的聊天机器人。由MCP客户端和工作流驱动。
+ * [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用数据库工具和SQL客户端
 
 
 **Langchain**
- * [aikit](https://github.com/kaito-project/aikit) - 🏗️ 轻松微调、构建和部署开源LLMs！
+ * [restai](https://github.com/apocas/restai) - RESTai是一个AIaaS（AI即服务）开源平台。建立在LlamaIndex和Langchain之上。支持由LlamaIndex支持的任何公共LLM和由Ollama/vLLM等支持的任何本地LLM。精确的嵌入使用和调整。内置图像生成。
+ * [kubewall](https://github.com/kubewall/kubewall) - kubewall - 开源、单一二进制文件的 Kubernetes 仪表板，具有多集群管理和人工智能集成功能。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
 
-**Openai**
- * [ai2apps](https://github.com/avdpro/ai2apps) - 在本地系统上设置AI2Apps，这样您就可以使用自己的OpenAI密钥或添加更多后端功能。
-
-
-**Others**
- * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。输出：LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。
-
-
-_Updated on August 14, 2025_ (A total of 2215 repositories listed.)
+_Updated on August 18, 2025_ (A total of 2222 repositories listed.)
 
 ## Table of contents
 
@@ -1040,6 +1032,11 @@ _Updated on August 14, 2025_ (A total of 2215 repositories listed.)
  * [code-context](https://github.com/zilliztech/code-context) - 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
  * [claude-context](https://github.com/zilliztech/claude-context) - 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
  * [unity-mcp](https://github.com/coplaydev/unity-mcp) - 一个Unity MCP服务器，允许像Claude Desktop或Cursor这样的MCP客户端执行Unity编辑器操作。
+ * [tome](https://github.com/runebookai/tome) - 一个神奇的LLM桌面客户端，使任何人都能轻松使用LLMs和MCP。
+ * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI API Rust客户端库（非官方）
+ * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server是由苹果的MLX框架驱动的本地推理服务器，专门为苹果Silicon（M系列）芯片设计。它实现了兼容OpenAI的API端点，可以与现有的OpenAI SDK客户端无缝集成。
+ * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - 只是一个更好的聊天机器人。由MCP客户端和工作流驱动。
+ * [dbeaver](https://github.com/dbeaver/dbeaver) - 免费的通用数据库工具和SQL客户端
 
 
 ## Reimplementations
@@ -1608,6 +1605,8 @@ _Updated on August 14, 2025_ (A total of 2215 repositories listed.)
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 构建具有上下文感知推理功能的应用程序
  * [ollama](https://github.com/ollama/ollama) - 使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️ 轻松微调、构建和部署开源LLMs！
+ * [restai](https://github.com/apocas/restai) - RESTai是一个AIaaS（AI即服务）开源平台。建立在LlamaIndex和Langchain之上。支持由LlamaIndex支持的任何公共LLM和由Ollama/vLLM等支持的任何本地LLM。精确的嵌入使用和调整。内置图像生成。
+ * [kubewall](https://github.com/kubewall/kubewall) - kubewall - 开源、单一二进制文件的 Kubernetes 仪表板，具有多集群管理和人工智能集成功能。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
 
 ## Unity
