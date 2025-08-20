@@ -16,20 +16,12 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [tome](https://github.com/runebookai/tome) - 一個神奇的LLM桌面客戶端，讓任何人都能輕鬆使用LLMs和MCP
- * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI Rust API 客戶端庫（非官方）
- * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server 是一個由蘋果的 MLX 框架驅動的本地推論伺服器，專門設計用於蘋果矽片（M 系列）。它實現了與現有 OpenAI SDK 客戶端無縫集成的 OpenAI 兼容的 API 端點，同時提供更高水平的性能。
- * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - 只是一個更好的聊天機器人。由MCP客戶端和工作流程提供動力。
- * [dbeaver](https://github.com/dbeaver/dbeaver) - 免費的通用數據庫工具和SQL客戶端
+**Openai**
+ * [tersa](https://github.com/haydenbleasel/tersa) - Tersa是一個用於構建人工智能工作流程的開源畫布。
+ * [ChatMock](https://github.com/raybytes/chatmock) - 通過您的ChatGPT訂閱以編程方式訪問OpenAI模型。
 
 
-**Langchain**
- * [restai](https://github.com/apocas/restai) - RESTai 是一個 AIaaS（AI 作為服務）開源平台。建立在 LlamaIndex 和 Langchain 之上。支持由 LlamaIndex 支持的任何公共 LLM 和由 Ollama/vLLM 等支持的任何本地 LLM。精確的嵌入使用和調整。內置圖像生成。
- * [kubewall](https://github.com/kubewall/kubewall) - kubewall - 開源、單一二進制 Kubernetes 儀表板，具有多集群管理和人工智能集成。 （OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio）
-
-
-_Updated on August 18, 2025_ (A total of 2222 repositories listed.)
+_Updated on August 21, 2025_ (A total of 2221 repositories listed.)
 
 ## Table of contents
 
@@ -1030,13 +1022,11 @@ _Updated on August 18, 2025_ (A total of 2222 repositories listed.)
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 一個框架，可以讓使用者使用任何本地或遠程的LLM（本地或遠程）來實現自主的安卓和電腦使用。
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 一個具有良好功能集的極簡MCP客戶端。
  * [code-context](https://github.com/zilliztech/code-context) - 用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。
- * [claude-context](https://github.com/zilliztech/claude-context) - 用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。
  * [unity-mcp](https://github.com/coplaydev/unity-mcp) - 一個Unity MCP伺服器，允許像Claude Desktop或Cursor這樣的MCP客戶端執行Unity編輯器操作。
  * [tome](https://github.com/runebookai/tome) - 一個神奇的LLM桌面客戶端，讓任何人都能輕鬆使用LLMs和MCP
  * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI Rust API 客戶端庫（非官方）
  * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server 是一個由蘋果的 MLX 框架驅動的本地推論伺服器，專門設計用於蘋果矽片（M 系列）。它實現了與現有 OpenAI SDK 客戶端無縫集成的 OpenAI 兼容的 API 端點，同時提供更高水平的性能。
  * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - 只是一個更好的聊天機器人。由MCP客戶端和工作流程提供動力。
- * [dbeaver](https://github.com/dbeaver/dbeaver) - 免費的通用數據庫工具和SQL客戶端
 
 
 ## Reimplementations
@@ -1605,7 +1595,6 @@ _Updated on August 18, 2025_ (A total of 2222 repositories listed.)
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 建立具有上下文意识的推理应用程序
  * [ollama](https://github.com/ollama/ollama) - 使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️ 輕鬆微調、構建和部署開源LLMs！
- * [restai](https://github.com/apocas/restai) - RESTai 是一個 AIaaS（AI 作為服務）開源平台。建立在 LlamaIndex 和 Langchain 之上。支持由 LlamaIndex 支持的任何公共 LLM 和由 Ollama/vLLM 等支持的任何本地 LLM。精確的嵌入使用和調整。內置圖像生成。
  * [kubewall](https://github.com/kubewall/kubewall) - kubewall - 開源、單一二進制 Kubernetes 儀表板，具有多集群管理和人工智能集成。 （OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio）
 
 
@@ -1898,6 +1887,8 @@ _Updated on August 18, 2025_ (A total of 2222 repositories listed.)
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自建Claude code鏡像服務，支持多帳戶切換、自定義API密鑰、Claude API、OPENAI兼容格式、能有效規避封號，OAuth集成可快捷添加帳號池。
  * [copilot-api](https://github.com/ericc-ch/copilot-api) - 將GitHub Copilot轉換為OpenAI/Anthropic API相容的伺服器。可與Claude Code一起使用！
  * [ai2apps](https://github.com/avdpro/ai2apps) - 在本地系統上設置AI2Apps，這樣您就可以使用自己的OpenAI密鑰或添加更多後端功能。
+ * [tersa](https://github.com/haydenbleasel/tersa) - Tersa是一個用於構建人工智能工作流程的開源畫布。
+ * [ChatMock](https://github.com/raybytes/chatmock) - 通過您的ChatGPT訂閱以編程方式訪問OpenAI模型。
 
 
 ## Others

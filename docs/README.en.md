@@ -16,20 +16,12 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [tome](https://github.com/runebookai/tome) - a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP
- * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI API client library for Rust (unofficial)
- * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leve
- * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client & Workflows.
- * [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+**Openai**
+ * [tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
+ * [ChatMock](https://github.com/raybytes/chatmock) - Access OpenAI models programmatically through your ChatGPT subscription.
 
 
-**Langchain**
- * [restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation
- * [kubewall](https://github.com/kubewall/kubewall) - kubewall - Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
-
-
-_Updated on August 18, 2025_ (A total of 2222 repositories listed.)
+_Updated on August 21, 2025_ (A total of 2221 repositories listed.)
 
 ## Table of contents
 
@@ -1030,13 +1022,11 @@ _Updated on August 18, 2025_ (A total of 2222 repositories listed.)
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - A framework to enable autonomous android and computer use using any LLM (local or remote)
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - A minimalistic MCP client with a good feature set.
  * [code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
- * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
  * [unity-mcp](https://github.com/coplaydev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
  * [tome](https://github.com/runebookai/tome) - a magical LLM desktop client that makes it easy for *anyone* to use LLMs and MCP
  * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI API client library for Rust (unofficial)
  * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leve
  * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client & Workflows.
- * [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 
 
 ## Reimplementations
@@ -1605,7 +1595,6 @@ _Updated on August 18, 2025_ (A total of 2222 repositories listed.)
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
  * [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
- * [restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation
  * [kubewall](https://github.com/kubewall/kubewall) - kubewall - Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
 
@@ -1898,6 +1887,8 @@ _Updated on August 18, 2025_ (A total of 2222 repositories listed.)
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - Build your own Claude code image service, support multiple account switching, custom API keys, Claude API, OPENAI compatible format, effectively avoid being banned, OAuth integration can quickly add account pools.
  * [copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
  * [ai2apps](https://github.com/avdpro/ai2apps) - Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.
+ * [tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
+ * [ChatMock](https://github.com/raybytes/chatmock) - Access OpenAI models programmatically through your ChatGPT subscription.
 
 
 ## Others

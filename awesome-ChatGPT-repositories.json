@@ -42350,6 +42350,40 @@
                     "zh-hans": "在本地系统上设置AI2Apps，这样您就可以使用自己的OpenAI密钥或添加更多后端功能。",
                     "zh-hant": "在本地系統上設置AI2Apps，這樣您就可以使用自己的OpenAI密鑰或添加更多後端功能。"
                 }
+            },
+            "https://github.com/haydenbleasel/tersa": {
+                "repository_name": "tersa",
+                "user_name": "haydenbleasel",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Tersa is an open source canvas for building AI workflows.",
+                "topics": [
+                    "ai",
+                    "aisdk",
+                    "anthropic",
+                    "canvas",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Tersa is an open source canvas for building AI workflows.",
+                    "ja": "TersaはAIワークフローを構築するためのオープンソースのキャンバスです。",
+                    "zh-hans": "Tersa是一个用于构建人工智能工作流程的开源画布。",
+                    "zh-hant": "Tersa是一個用於構建人工智能工作流程的開源畫布。"
+                }
+            },
+            "https://github.com/raybytes/chatmock": {
+                "repository_name": "ChatMock",
+                "user_name": "RayBytes",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Access OpenAI models programmatically through your ChatGPT subscription.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Access OpenAI models programmatically through your ChatGPT subscription.",
+                    "ja": "ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。",
+                    "zh-hans": "通过您的ChatGPT订阅，可以通过编程方式访问OpenAI模型。",
+                    "zh-hant": "通過您的ChatGPT訂閱以編程方式訪問OpenAI模型。"
+                }
             }
         },
         "Others": {
