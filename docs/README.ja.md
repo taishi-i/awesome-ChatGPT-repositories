@@ -16,20 +16,12 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [tome](https://github.com/runebookai/tome) - 誰でもLLMとMCPを簡単に使用できる魔法のLLMデスクトップクライアント
- * [openai-api-rs](https://github.com/dongri/openai-api-rs) - Rust用のOpenAI APIクライアントライブラリ（非公式）Rust用のOpenAI APIクライアントライブラリ（非公式）
- * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Serverは、AppleのMLXフレームワークを搭載したローカル推論サーバーであり、特にApple Silicon（Mシリーズ）チップ向けに設計されています。OpenAI互換のAPIエンドポイントを実装し、既存のOpenAI SDKクライアントとのシームレスな統合を可能にします。
- * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - より優れたチャットボット。MCPクライアントとワークフローによって動作します。
- * [dbeaver](https://github.com/dbeaver/dbeaver) - 無料の汎用データベースツールとSQLクライアント
+**Openai**
+ * [tersa](https://github.com/haydenbleasel/tersa) - TersaはAIワークフローを構築するためのオープンソースのキャンバスです。
+ * [ChatMock](https://github.com/raybytes/chatmock) - ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。
 
 
-**Langchain**
- * [restai](https://github.com/apocas/restai) - RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
- * [kubewall](https://github.com/kubewall/kubewall) - kubewall - オープンソース、シングルバイナリのKubernetesダッシュボードで、マルチクラスター管理とAI統合を提供します。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
-
-
-_Updated on August 18, 2025_ (A total of 2222 repositories listed.)
+_Updated on August 21, 2025_ (A total of 2221 repositories listed.)
 
 ## Table of contents
 
@@ -1030,13 +1022,11 @@ _Updated on August 18, 2025_ (A total of 2222 repositories listed.)
  * [clickclickclick](https://github.com/bandarlabs/clickclickclick) - 任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク
  * [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - 機能が優れたミニマリストのMCPクライアント。
  * [code-context](https://github.com/zilliztech/code-context) - コード検索用のMCP、クロードコードのビルド、Gemini CLI、または任意のコードエージェントに対応します。
- * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
  * [unity-mcp](https://github.com/coplaydev/unity-mcp) - Unity MCPサーバーは、Claude DesktopやCursorなどのMCPクライアントがUnityエディタのアクションを実行できるようにします。
  * [tome](https://github.com/runebookai/tome) - 誰でもLLMとMCPを簡単に使用できる魔法のLLMデスクトップクライアント
  * [openai-api-rs](https://github.com/dongri/openai-api-rs) - Rust用のOpenAI APIクライアントライブラリ（非公式）Rust用のOpenAI APIクライアントライブラリ（非公式）
  * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Serverは、AppleのMLXフレームワークを搭載したローカル推論サーバーであり、特にApple Silicon（Mシリーズ）チップ向けに設計されています。OpenAI互換のAPIエンドポイントを実装し、既存のOpenAI SDKクライアントとのシームレスな統合を可能にします。
  * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - より優れたチャットボット。MCPクライアントとワークフローによって動作します。
- * [dbeaver](https://github.com/dbeaver/dbeaver) - 無料の汎用データベースツールとSQLクライアント
 
 
 ## Reimplementations
@@ -1605,7 +1595,6 @@ _Updated on August 18, 2025_ (A total of 2222 repositories listed.)
  * [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 コンテキストに応じた推論アプリケーションを構築します
  * [ollama](https://github.com/ollama/ollama) - OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開！
- * [restai](https://github.com/apocas/restai) - RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
  * [kubewall](https://github.com/kubewall/kubewall) - kubewall - オープンソース、シングルバイナリのKubernetesダッシュボードで、マルチクラスター管理とAI統合を提供します。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 
 
@@ -1898,6 +1887,8 @@ _Updated on August 18, 2025_ (A total of 2222 repositories listed.)
  * [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - 自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。
  * [copilot-api](https://github.com/ericc-ch/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換のサーバーに変換します。Claude Codeと一緒に使用できます！
  * [ai2apps](https://github.com/avdpro/ai2apps) - ローカルシステムでAI2Appsをセットアップして、独自のOpenAIキーを使用したり、より多くのバックエンド機能を追加したりできるようにします。
+ * [tersa](https://github.com/haydenbleasel/tersa) - TersaはAIワークフローを構築するためのオープンソースのキャンバスです。
+ * [ChatMock](https://github.com/raybytes/chatmock) - ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。
 
 
 ## Others
