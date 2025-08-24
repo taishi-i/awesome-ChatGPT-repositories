@@ -16,12 +16,24 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - 首屈一指的Sublime Text AI助手，支持gpt-5、o3和ollama！
+
+
+**Browser-extensions**
+ * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP服务器+Unity编辑器和Unity游戏的插件。该插件允许连接到像Claude Desktop等MCP客户端。
+
+
+**CLIs**
+ * [codai](https://github.com/meysamhadeli/codai) - 您的终端AI编码代理。
+ * [argo](https://github.com/xark-argo/argo) - ARGO是一个开源的AI代理平台，将本地手稿带到您的桌面上。通过一键模型下载、无缝闭合的LLM集成和离线优先的RAG知识库，ARGO成为自主思考、任务的DeepResearch强大工具。
+
+
 **Openai**
- * [tersa](https://github.com/haydenbleasel/tersa) - Tersa是一个用于构建人工智能工作流程的开源画布。
- * [ChatMock](https://github.com/raybytes/chatmock) - 通过您的ChatGPT订阅，可以通过编程方式访问OpenAI模型。
+ * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - 使用OpenAI Responses API构建的入门应用程序
 
 
-_Updated on August 21, 2025_ (A total of 2221 repositories listed.)
+_Updated on August 25, 2025_ (A total of 2226 repositories listed.)
 
 ## Table of contents
 
@@ -629,6 +641,7 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [open-codex](https://github.com/codingmoh/open-codex) - 完全开源的命令行人工智能助手，灵感来自OpenAI Codex，支持本地语言模型。
  * [MuseBot](https://github.com/yincongcyincong/musebot) - 支持Telegram、Discord、Slack、Lark、企业微信等多个平台的AI聊天机器人，兼容多种LLM模型，包括OpenAI、Gemini、DeepSeek、Doubao和OpenRouter。提供智能对话、图像生成、视频创作等功能。能够无缝运行。
  * [nekro-agent](https://github.com/kromiose/nekro-agent) - 一个由LLM代码生成驱动的可扩展多人互动代理框架：支持QQ、Discord、Minecraft、哔哩哔哩直播、SSE(SDK)等跨平台聊天机器人。具有沙盒驱动、可视化、高扩展、多模态功能。
+ * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - 首屈一指的Sublime Text AI助手，支持gpt-5、o3和ollama！
 
 
 ## Browser-extensions
@@ -856,6 +869,7 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop是一个基于Laravel 12的开源电子商务系统，支持多种语言、多种货币，集成了OpenAI，并具有插件机制和主题模板开发，以增强用户体验和系统可扩展性。
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 陪读蛙 - 开源沉浸式翻译
  * [koog](https://github.com/jetbrains/koog) - Koog是官方的Kotlin框架，用于构建和运行强大、可扩展和生产就绪的AI代理，适用于各种平台-从后端服务到Android、JVM，甚至浏览器环境。Koog基于我们的AI产品专业知识。
+ * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP服务器+Unity编辑器和Unity游戏的插件。该插件允许连接到像Claude Desktop等MCP客户端。
 
 
 ## CLIs
@@ -1027,6 +1041,8 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI API Rust客户端库（非官方）
  * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server是由苹果的MLX框架驱动的本地推理服务器，专门为苹果Silicon（M系列）芯片设计。它实现了兼容OpenAI的API端点，可以与现有的OpenAI SDK客户端无缝集成。
  * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - 只是一个更好的聊天机器人。由MCP客户端和工作流驱动。
+ * [codai](https://github.com/meysamhadeli/codai) - 您的终端AI编码代理。
+ * [argo](https://github.com/xark-argo/argo) - ARGO是一个开源的AI代理平台，将本地手稿带到您的桌面上。通过一键模型下载、无缝闭合的LLM集成和离线优先的RAG知识库，ARGO成为自主思考、任务的DeepResearch强大工具。
 
 
 ## Reimplementations
@@ -1889,6 +1905,7 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [ai2apps](https://github.com/avdpro/ai2apps) - 在本地系统上设置AI2Apps，这样您就可以使用自己的OpenAI密钥或添加更多后端功能。
  * [tersa](https://github.com/haydenbleasel/tersa) - Tersa是一个用于构建人工智能工作流程的开源画布。
  * [ChatMock](https://github.com/raybytes/chatmock) - 通过您的ChatGPT订阅，可以通过编程方式访问OpenAI模型。
+ * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - 使用OpenAI Responses API构建的入门应用程序
 
 
 ## Others

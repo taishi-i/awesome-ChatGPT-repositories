@@ -16,12 +16,24 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - 最初のクラスのSublime Text AIアシスタント、gpt-5、o3、およびollamaサポート付き！
+
+
+**Browser-extensions**
+ * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCPサーバー+UnityエディターおよびUnityゲーム用のプラグイン。このプラグインを使用すると、Claude DesktopなどのMCPクライアントに接続できます。
+
+
+**CLIs**
+ * [codai](https://github.com/meysamhadeli/codai) - ターミナル用のAIコーディングエージェント。
+ * [argo](https://github.com/xark-argo/argo) - ARGOは、ローカルマニュスをデスクトップにもたらすオープンソースのAIエージェントプラットフォームです。ワンクリックでモデルをダウンロードし、シームレスなクローズドLLM統合、オフラインファーストのRAG知識ベースを備えることで、ARGOは自律思考、タスク力を持つDeepResearchの強力なプラットフォームとなります。
+
+
 **Openai**
- * [tersa](https://github.com/haydenbleasel/tersa) - TersaはAIワークフローを構築するためのオープンソースのキャンバスです。
- * [ChatMock](https://github.com/raybytes/chatmock) - ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。
+ * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - OpenAI Responses APIを使用して構築するためのスターターアプリ
 
 
-_Updated on August 21, 2025_ (A total of 2221 repositories listed.)
+_Updated on August 25, 2025_ (A total of 2226 repositories listed.)
 
 ## Table of contents
 
@@ -629,6 +641,7 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [open-codex](https://github.com/codingmoh/open-codex) - OpenAI Codexに触発された完全なオープンソースのコマンドラインAIアシスタントで、ローカル言語モデルをサポートしています。
  * [MuseBot](https://github.com/yincongcyincong/musebot) - Telegram、Discord、Slack、Lark、Work WechatをサポートするAIチャットボット。OpenAI、Gemini、DeepSeek、Doubao、OpenRouterなど、さまざまなLLMと互換性があります。インテリジェントな会話、画像生成、ビデオ作成などを提供します。シームレスに動作します。
  * [nekro-agent](https://github.com/kromiose/nekro-agent) - LLMコード生成によって駆動される拡張可能なマルチユーザーインタラクティブエージェントフレームワーク：QQ、Discord、Minecraft、Bilibili Live、SSE（SDK）をサポートする、サンドボックス駆動、ビジュアル、高度に拡張可能、マルチモードのチャットボット。
+ * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - 最初のクラスのSublime Text AIアシスタント、gpt-5、o3、およびollamaサポート付き！
 
 
 ## Browser-extensions
@@ -856,6 +869,7 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [innoshop](https://github.com/innocommerce/innoshop) - Innoshopは、Laravel 12をベースにしたオープンソースのeコマースシステムで、複数の言語、複数の通貨をサポートし、OpenAIと統合されています。プラグインメカニズムやテーマテンプレートの開発を特徴とし、ユーザーエクスペリエンスとシステムの拡張性を向上させています。
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 読むカエル - オープンソースの没入型翻訳 | 🐸 陪読蛙 - オープンソースの没入型翻訳
  * [koog](https://github.com/jetbrains/koog) - Koogは、バックエンドサービスからAndroid、JVM、さらにはブラウザ環境まで、あらゆるプラットフォームで頑丈でスケーラブルで本番向けのAIエージェントを構築および実行するための公式のKotlinフレームワークです。Koogは、私たちのAI製品の専門知識に基づいています。
+ * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCPサーバー+UnityエディターおよびUnityゲーム用のプラグイン。このプラグインを使用すると、Claude DesktopなどのMCPクライアントに接続できます。
 
 
 ## CLIs
@@ -1027,6 +1041,8 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [openai-api-rs](https://github.com/dongri/openai-api-rs) - Rust用のOpenAI APIクライアントライブラリ（非公式）Rust用のOpenAI APIクライアントライブラリ（非公式）
  * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Serverは、AppleのMLXフレームワークを搭載したローカル推論サーバーであり、特にApple Silicon（Mシリーズ）チップ向けに設計されています。OpenAI互換のAPIエンドポイントを実装し、既存のOpenAI SDKクライアントとのシームレスな統合を可能にします。
  * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - より優れたチャットボット。MCPクライアントとワークフローによって動作します。
+ * [codai](https://github.com/meysamhadeli/codai) - ターミナル用のAIコーディングエージェント。
+ * [argo](https://github.com/xark-argo/argo) - ARGOは、ローカルマニュスをデスクトップにもたらすオープンソースのAIエージェントプラットフォームです。ワンクリックでモデルをダウンロードし、シームレスなクローズドLLM統合、オフラインファーストのRAG知識ベースを備えることで、ARGOは自律思考、タスク力を持つDeepResearchの強力なプラットフォームとなります。
 
 
 ## Reimplementations
@@ -1889,6 +1905,7 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [ai2apps](https://github.com/avdpro/ai2apps) - ローカルシステムでAI2Appsをセットアップして、独自のOpenAIキーを使用したり、より多くのバックエンド機能を追加したりできるようにします。
  * [tersa](https://github.com/haydenbleasel/tersa) - TersaはAIワークフローを構築するためのオープンソースのキャンバスです。
  * [ChatMock](https://github.com/raybytes/chatmock) - ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。
+ * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - OpenAI Responses APIを使用して構築するためのスターターアプリ
 
 
 ## Others
