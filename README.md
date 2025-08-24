@@ -16,12 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - First class Sublime Text AI assistant with gpt-5, o3 and ollama support!
+
+
+**Browser-extensions**
+ * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.
+
+
+**CLIs**
+ * [codai](https://github.com/meysamhadeli/codai) - AI coding agent for your terminal.
+ * [argo](https://github.com/xark-argo/argo) - ARGO is an open-source AI Agent platform that brings Local Manus to your desktop. With one-click model downloads, seamless closed LLM integration, and offline-first RAG knowledge bases, ARGO becomes a DeepResearch powerhouse for autonomous thinking, task planning, and 100% of your data stays locally. Support Win/Mac/Docker.
+
+
 **Openai**
- * [tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
- * [ChatMock](https://github.com/raybytes/chatmock) - Access OpenAI models programmatically through your ChatGPT subscription.
+ * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - Starter app to build with the OpenAI Responses API
 
 
-_Updated on August 21, 2025_ (A total of 2221 repositories listed.)
+_Updated on August 25, 2025_ (A total of 2226 repositories listed.)
 
 ## Table of contents
 
@@ -629,6 +641,7 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [open-codex](https://github.com/codingmoh/open-codex) - Fully open-source command-line AI assistant inspired by OpenAI Codex, supporting local language models.
  * [MuseBot](https://github.com/yincongcyincong/musebot) - AI chatbot that supports both Telegram, Discord, Slack, Lark, Work Wechat, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
  * [nekro-agent](https://github.com/kromiose/nekro-agent) - 集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态; An Extensible Multi-person interactive Agent Framework Powered by LLM Code Generation; Support: QQ, Discord, Minecraft, Bilibili Live, SSE(SDK) ...
+ * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - First class Sublime Text AI assistant with gpt-5, o3 and ollama support!
 
 
 ## Browser-extensions
@@ -856,6 +869,7 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [innoshop](https://github.com/innocommerce/innoshop) - Innoshop is an Open Source eCommerce System based on Laravel 12, supporting multiple languages, multiple currencies, integrated with OpenAI, and featuring plugin mechanisms and theme template development for enhanced user experience and system extensibility.
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
  * [koog](https://github.com/jetbrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+ * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.
 
 
 ## CLIs
@@ -1027,6 +1041,8 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [openai-api-rs](https://github.com/dongri/openai-api-rs) - OpenAI API client library for Rust (unofficial)
  * [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - MLX Omni Server is a local inference server powered by Apple's MLX framework, specifically designed for Apple Silicon (M-series) chips. It implements OpenAI-compatible API endpoints, enabling seamless integration with existing OpenAI SDK clients while leveraging the power of local ML inference.
  * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client & Workflows.
+ * [codai](https://github.com/meysamhadeli/codai) - AI coding agent for your terminal.
+ * [argo](https://github.com/xark-argo/argo) - ARGO is an open-source AI Agent platform that brings Local Manus to your desktop. With one-click model downloads, seamless closed LLM integration, and offline-first RAG knowledge bases, ARGO becomes a DeepResearch powerhouse for autonomous thinking, task planning, and 100% of your data stays locally. Support Win/Mac/Docker.
 
 
 ## Reimplementations
@@ -1889,6 +1905,7 @@ _Updated on August 21, 2025_ (A total of 2221 repositories listed.)
  * [ai2apps](https://github.com/avdpro/ai2apps) - Setup AI2Apps at local system so you can use your own OpenAI key or make more back-end features.
  * [tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
  * [ChatMock](https://github.com/raybytes/chatmock) - Access OpenAI models programmatically through your ChatGPT subscription.
+ * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - Starter app to build with the OpenAI Responses API
 
 
 ## Others

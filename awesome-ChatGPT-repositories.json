@@ -14317,6 +14317,29 @@
                     "zh-hans": "一个由LLM代码生成驱动的可扩展多人互动代理框架：支持QQ、Discord、Minecraft、哔哩哔哩直播、SSE(SDK)等跨平台聊天机器人。具有沙盒驱动、可视化、高扩展、多模态功能。",
                     "zh-hant": "集代碼執行能力/高度可擴展性為一體的多人跨平台聊天機器人：沙盒驅動｜可視化｜高擴展｜多模態; 由LLM代碼生成驅動的可擴展多人互動代理框架; 支持：QQ、Discord、Minecraft、Bilibili直播、SSE(SDK) ..."
                 }
+            },
+            "https://github.com/yaroslavyaroslav/openai-sublime-text": {
+                "repository_name": "OpenAI-sublime-text",
+                "user_name": "yaroslavyaroslav",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "First class Sublime Text AI assistant with gpt-5, o3 and ollama support!",
+                "topics": [
+                    "ai-assistant",
+                    "chatgpt",
+                    "gpt-4",
+                    "llm",
+                    "nlp",
+                    "o3-mini",
+                    "openai",
+                    "sublime-text"
+                ],
+                "multilingual_descriptions": {
+                    "en": "First class Sublime Text AI assistant with gpt-5, o3 and ollama support!",
+                    "ja": "最初のクラスのSublime Text AIアシスタント、gpt-5、o3、およびollamaサポート付き！",
+                    "zh-hans": "首屈一指的Sublime Text AI助手，支持gpt-5、o3和ollama！",
+                    "zh-hant": "首屈一指的Sublime Text AI助手，支持gpt-5、o3和ollama！"
+                }
             }
         },
         "Browser-extensions": {
@@ -19551,6 +19574,40 @@
                     "zh-hans": "Koog是官方的Kotlin框架，用于构建和运行强大、可扩展和生产就绪的AI代理，适用于各种平台-从后端服务到Android、JVM，甚至浏览器环境。Koog基于我们的AI产品专业知识。",
                     "zh-hant": "Koog 是官方的 Kotlin 框架，用於構建和運行強大、可擴展和生產就緒的 AI 代理，可在所有平台上使用 - 從後端服務到 Android、JVM，甚至在瀏覽器環境中。Koog 基於我們的 AI 產品專業知識。"
                 }
+            },
+            "https://github.com/ivanmurzak/unity-mcp": {
+                "repository_name": "Unity-MCP",
+                "user_name": "IvanMurzak",
+                "language": "C#",
+                "license": "Apache License 2.0",
+                "description": "MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.",
+                "topics": [
+                    "ai",
+                    "ai-integration",
+                    "claude",
+                    "claude-code",
+                    "claude-desktop",
+                    "copilot",
+                    "cursor",
+                    "deekseek",
+                    "game-development",
+                    "gemini",
+                    "llm",
+                    "mcp",
+                    "mcp-server",
+                    "model-context-protocol",
+                    "model-context-protocol-server",
+                    "model-context-protocol-servers",
+                    "openai",
+                    "unity",
+                    "windsurf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.",
+                    "ja": "MCPサーバー+UnityエディターおよびUnityゲーム用のプラグイン。このプラグインを使用すると、Claude DesktopなどのMCPクライアントに接続できます。",
+                    "zh-hans": "MCP服务器+Unity编辑器和Unity游戏的插件。该插件允许连接到像Claude Desktop等MCP客户端。",
+                    "zh-hant": "MCP伺服器+Unity編輯器和Unity遊戲的插件。該插件允許連接到像Claude Desktop或其他MCP客戶端。"
+                }
             }
         },
         "CLIs": {
@@ -23575,6 +23632,76 @@
                     "ja": "無料の汎用データベースツールとSQLクライアント",
                     "zh-hans": "免费的通用数据库工具和SQL客户端",
                     "zh-hant": "免費的通用數據庫工具和SQL客戶端"
+                }
+            },
+            "https://github.com/meysamhadeli/codai": {
+                "repository_name": "codai",
+                "user_name": "meysamhadeli",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "AI coding agent for your terminal.",
+                "topics": [
+                    "agent",
+                    "ai-agents",
+                    "ai-assistant",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "cli",
+                    "command-line",
+                    "deepseek",
+                    "deepseek-r1",
+                    "deepseek-v3",
+                    "gpt-4",
+                    "gpt-4o",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "openrouter",
+                    "rag",
+                    "sonnet3-5",
+                    "terminal"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI coding agent for your terminal.",
+                    "ja": "ターミナル用のAIコーディングエージェント。",
+                    "zh-hans": "您的终端AI编码代理。",
+                    "zh-hant": "AI 編碼代理人適用於您的終端機。"
+                }
+            },
+            "https://github.com/xark-argo/argo": {
+                "repository_name": "argo",
+                "user_name": "xark-argo",
+                "language": "Python",
+                "license": "Other",
+                "description": "ARGO is an open-source AI Agent platform that brings Local Manus to your desktop. With one-click model downloads, seamless closed LLM integration, and offline-first RAG knowledge bases, ARGO becomes a DeepResearch powerhouse for autonomous thinking, task planning, and 100% of your data stays locally. Support Win/Mac/Docker.",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "ai",
+                    "aigc",
+                    "anthropic",
+                    "artifacts",
+                    "assistant",
+                    "chatbot",
+                    "deepresearch",
+                    "deepseek",
+                    "desktop",
+                    "langgraph",
+                    "llm",
+                    "local",
+                    "manus",
+                    "mcp",
+                    "mermaid",
+                    "ollama",
+                    "openai",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ARGO is an open-source AI Agent platform that brings Local Manus to your desktop. With one-click model downloads, seamless closed LLM integration, and offline-first RAG knowledge bases, ARGO becomes a DeepResearch powerhouse for autonomous thinking, task p",
+                    "ja": "ARGOは、ローカルマニュスをデスクトップにもたらすオープンソースのAIエージェントプラットフォームです。ワンクリックでモデルをダウンロードし、シームレスなクローズドLLM統合、オフラインファーストのRAG知識ベースを備えることで、ARGOは自律思考、タスク力を持つDeepResearchの強力なプラットフォームとなります。",
+                    "zh-hans": "ARGO是一个开源的AI代理平台，将本地手稿带到您的桌面上。通过一键模型下载、无缝闭合的LLM集成和离线优先的RAG知识库，ARGO成为自主思考、任务的DeepResearch强大工具。",
+                    "zh-hant": "ARGO是一個開源的AI代理平台，將本地手稿帶到您的桌面上。通過一鍵模型下載，無縫封閉的LLM集成，以及離線優先的RAG知識庫，ARGO成為自主思考、任務的DeepResearch強大工具。"
                 }
             }
         },
@@ -42383,6 +42510,20 @@
                     "ja": "ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。",
                     "zh-hans": "通过您的ChatGPT订阅，可以通过编程方式访问OpenAI模型。",
                     "zh-hant": "通過您的ChatGPT訂閱以編程方式訪問OpenAI模型。"
+                }
+            },
+            "https://github.com/openai/openai-responses-starter-app": {
+                "repository_name": "openai-responses-starter-app",
+                "user_name": "openai",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Starter app to build with the OpenAI Responses API",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Starter app to build with the OpenAI Responses API",
+                    "ja": "OpenAI Responses APIを使用して構築するためのスターターアプリ",
+                    "zh-hans": "使用OpenAI Responses API构建的入门应用程序",
+                    "zh-hant": "使用OpenAI Responses API构建的入门应用程序"
                 }
             }
         },
