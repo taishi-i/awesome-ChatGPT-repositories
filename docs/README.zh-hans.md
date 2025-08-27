@@ -16,24 +16,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - 首屈一指的Sublime Text AI助手，支持gpt-5、o3和ollama！
-
-
-**Browser-extensions**
- * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP服务器+Unity编辑器和Unity游戏的插件。该插件允许连接到像Claude Desktop等MCP客户端。
-
-
 **CLIs**
- * [codai](https://github.com/meysamhadeli/codai) - 您的终端AI编码代理。
- * [argo](https://github.com/xark-argo/argo) - ARGO是一个开源的AI代理平台，将本地手稿带到您的桌面上。通过一键模型下载、无缝闭合的LLM集成和离线优先的RAG知识库，ARGO成为自主思考、任务的DeepResearch强大工具。
+ * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - 将Gemini CLI端点暴露为OpenAI API，并使用Cloudflare Workers。
+ * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API：模拟Gemini CLI和Kiro客户端请求，兼容OpenAI API。可每日千次Gemini模型请求，免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
+
+
+**NLP**
+ * [superagent](https://github.com/superagent-ai/superagent) - AI的运行时防火墙可以实时阻止LLM漏洞。
 
 
 **Openai**
- * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - 使用OpenAI Responses API构建的入门应用程序
+ * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。
+ * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - 克劳德代码到OpenAI API代理
 
 
-_Updated on August 25, 2025_ (A total of 2226 repositories listed.)
+_Updated on August 28, 2025_ (A total of 2231 repositories listed.)
 
 ## Table of contents
 
@@ -1043,6 +1040,8 @@ _Updated on August 25, 2025_ (A total of 2226 repositories listed.)
  * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - 只是一个更好的聊天机器人。由MCP客户端和工作流驱动。
  * [codai](https://github.com/meysamhadeli/codai) - 您的终端AI编码代理。
  * [argo](https://github.com/xark-argo/argo) - ARGO是一个开源的AI代理平台，将本地手稿带到您的桌面上。通过一键模型下载、无缝闭合的LLM集成和离线优先的RAG知识库，ARGO成为自主思考、任务的DeepResearch强大工具。
+ * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - 将Gemini CLI端点暴露为OpenAI API，并使用Cloudflare Workers。
+ * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API：模拟Gemini CLI和Kiro客户端请求，兼容OpenAI API。可每日千次Gemini模型请求，免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
 
 
 ## Reimplementations
@@ -1453,6 +1452,7 @@ _Updated on August 25, 2025_ (A total of 2226 repositories listed.)
  * [dyad](https://github.com/dyad-sh/dyad) - 免费、本地、开源的AI应用程序构建工具✨ v0 / 可爱 / Bolt替代品 🌟 如果你喜欢，请点赞！
  * [open-swe](https://github.com/langchain-ai/open-swe) - 一个开源的异步编码代理
  * [VideoPipe](https://github.com/sherlockchou86/videopipe) - 一个跨平台的视频结构化（视频分析）框架。如果您觉得有帮助，请给它一个星星：）
+ * [superagent](https://github.com/superagent-ai/superagent) - AI的运行时防火墙可以实时阻止LLM漏洞。
 
 
 ## Langchain
@@ -1906,6 +1906,8 @@ _Updated on August 25, 2025_ (A total of 2226 repositories listed.)
  * [tersa](https://github.com/haydenbleasel/tersa) - Tersa是一个用于构建人工智能工作流程的开源画布。
  * [ChatMock](https://github.com/raybytes/chatmock) - 通过您的ChatGPT订阅，可以通过编程方式访问OpenAI模型。
  * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - 使用OpenAI Responses API构建的入门应用程序
+ * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。
+ * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - 克劳德代码到OpenAI API代理
 
 
 ## Others
