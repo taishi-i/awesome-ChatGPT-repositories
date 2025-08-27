@@ -23703,6 +23703,42 @@
                     "zh-hans": "ARGO是一个开源的AI代理平台，将本地手稿带到您的桌面上。通过一键模型下载、无缝闭合的LLM集成和离线优先的RAG知识库，ARGO成为自主思考、任务的DeepResearch强大工具。",
                     "zh-hant": "ARGO是一個開源的AI代理平台，將本地手稿帶到您的桌面上。通過一鍵模型下載，無縫封閉的LLM集成，以及離線優先的RAG知識庫，ARGO成為自主思考、任務的DeepResearch強大工具。"
                 }
+            },
+            "https://github.com/gewoonjaap/gemini-cli-openai": {
+                "repository_name": "gemini-cli-openai",
+                "user_name": "GewoonJaap",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers",
+                "topics": [
+                    "gemini",
+                    "gemini-cli",
+                    "llm",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers",
+                    "ja": "Cloudflare Workersを使用して、Gemini CLIエンドポイントをOpenAI APIとして公開します。",
+                    "zh-hans": "将Gemini CLI端点暴露为OpenAI API，并使用Cloudflare Workers。",
+                    "zh-hant": "將Gemini CLI端點暴露為OpenAI API，並使用Cloudflare Workers。"
+                }
+            },
+            "https://github.com/justlovemaki/aiclient-2-api": {
+                "repository_name": "AIClient-2-API",
+                "user_name": "justlovemaki",
+                "language": "JavaScript",
+                "license": "GNU General Public License v3.0",
+                "description": "AIClient2API：模拟Gemini CLI和Kiro 客户端请求，兼容OpenAI API。可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！",
+                "topics": [
+                    "aicoding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AIClient2API: Simulate Gemini CLI and Kiro client requests, compatible with OpenAI API. You can make thousands of Gemini model requests daily for free, and use the built-in Claude model in Kiro. Easily integrate with any client through the API to make AI development more efficient!",
+                    "ja": "AIClient2API：Gemini CLIとKiroクライアントのリクエストをシミュレートし、OpenAI APIと互換性があります。毎日1000回Geminiモデルのリクエストが可能で、Kiroに組み込まれたClaudeモデルを無料で使用できます。APIを使用して、どんなクライアントでも簡単に接続し、AI開発をより効率的に行えます！",
+                    "zh-hans": "AIClient2API：模拟Gemini CLI和Kiro客户端请求，兼容OpenAI API。可每日千次Gemini模型请求，免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！",
+                    "zh-hant": "AIClient2API：模擬Gemini CLI和Kiro 客戶端請求，兼容OpenAI API。可每日千次Gemini模型請求，免費使用Kiro內置Claude模型。通過API輕鬆接入任何客戶端，讓AI開發更高效！"
+                }
             }
         },
         "Reimplementations": {
@@ -32502,6 +32538,26 @@
                     "ja": "クロスプラットフォームのビデオ構造化（ビデオ分析）フレームワーク。役立つと思ったら、星を付けてください：）跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )",
                     "zh-hans": "一个跨平台的视频结构化（视频分析）框架。如果您觉得有帮助，请给它一个星星：）",
                     "zh-hant": "一個跨平台的視頻結構化（視頻分析）框架。如果您覺得有幫助，請給它一顆星：）"
+                }
+            },
+            "https://github.com/superagent-ai/superagent": {
+                "repository_name": "superagent",
+                "user_name": "superagent-ai",
+                "language": "Rust",
+                "license": "Other",
+                "description": "The runtime firewall for AI, blocks LLM vulnerabilities in real time.",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "llm",
+                    "openai",
+                    "proxy"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The runtime firewall for AI, blocks LLM vulnerabilities in real time.",
+                    "ja": "AI用のランタイムファイアウォールは、LLMの脆弱性をリアルタイムでブロックします。",
+                    "zh-hans": "AI的运行时防火墙可以实时阻止LLM漏洞。",
+                    "zh-hant": "AI的運行時防火牆，可以即時阻擋LLM漏洞。"
                 }
             }
         },
@@ -42524,6 +42580,34 @@
                     "ja": "OpenAI Responses APIを使用して構築するためのスターターアプリ",
                     "zh-hans": "使用OpenAI Responses API构建的入门应用程序",
                     "zh-hant": "使用OpenAI Responses API构建的入门应用程序"
+                }
+            },
+            "https://github.com/lianues/lmarenabridge": {
+                "repository_name": "LMArenaBridge",
+                "user_name": "Lianues",
+                "language": "Python",
+                "license": null,
+                "description": "LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "LMArenaBridge is a powerful open-source tool that acts as a bridge, allowing you to use the massive advanced test large language models provided on the [LMArena.ai](https://lmarena.ai/) website through any application compatible with the OpenAI API (such as various AI chat clients, programming plugins, etc.).",
+                    "ja": "LMArenaBridgeは、強力なオープンソースツールであり、OpenAI APIと互換性のあるあらゆるアプリケーション（例：さまざまなAIチャットクライアント、プログラミングプラグインなど）を介して、[LMArena.ai](https://lmarena.ai/)ウェブサイトで提供されている大規模な先進的な言語モデルを使用できるようにする橋渡しの役割を果たします。",
+                    "zh-hans": "LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。",
+                    "zh-hant": "LMArenaBridge 是一個強大的開源工具，它充當一座橋樑，讓你能通過任何兼容 OpenAI API 的應用程序（例如各類AI聊天客戶端、編程插件等）來使用 [LMArena.ai](https://lmarena.ai/) 網站上提供的海量先進測試大語言模型。"
+                }
+            },
+            "https://github.com/fuergaosi233/claude-code-proxy": {
+                "repository_name": "claude-code-proxy",
+                "user_name": "fuergaosi233",
+                "language": "Python",
+                "license": null,
+                "description": "Claude Code to OpenAI API Proxy",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Claude Code to OpenAI API Proxy",
+                    "ja": "OpenAI APIプロキシへのクロードコード",
+                    "zh-hans": "克劳德代码到OpenAI API代理",
+                    "zh-hant": "使用克勞德代碼打開OpenAI API代理"
                 }
             }
         },

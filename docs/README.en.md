@@ -16,24 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - First class Sublime Text AI assistant with gpt-5, o3 and ollama support!
-
-
-**Browser-extensions**
- * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.
-
-
 **CLIs**
- * [codai](https://github.com/meysamhadeli/codai) - AI coding agent for your terminal.
- * [argo](https://github.com/xark-argo/argo) - ARGO is an open-source AI Agent platform that brings Local Manus to your desktop. With one-click model downloads, seamless closed LLM integration, and offline-first RAG knowledge bases, ARGO becomes a DeepResearch powerhouse for autonomous thinking, task p
+ * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers
+ * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API: Simulate Gemini CLI and Kiro client requests, compatible with OpenAI API. You can make thousands of Gemini model requests daily for free, and use the built-in Claude model in Kiro. Easily integrate with any client through the API to make AI development more efficient!
+
+
+**NLP**
+ * [superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
 
 
 **Openai**
- * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - Starter app to build with the OpenAI Responses API
+ * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge is a powerful open-source tool that acts as a bridge, allowing you to use the massive advanced test large language models provided on the [LMArena.ai](https://lmarena.ai/) website through any application compatible with the OpenAI API (such as various AI chat clients, programming plugins, etc.).
+ * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 
 
-_Updated on August 25, 2025_ (A total of 2226 repositories listed.)
+_Updated on August 28, 2025_ (A total of 2231 repositories listed.)
 
 ## Table of contents
 
@@ -1043,6 +1040,8 @@ _Updated on August 25, 2025_ (A total of 2226 repositories listed.)
  * [better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by MCP Client & Workflows.
  * [codai](https://github.com/meysamhadeli/codai) - AI coding agent for your terminal.
  * [argo](https://github.com/xark-argo/argo) - ARGO is an open-source AI Agent platform that brings Local Manus to your desktop. With one-click model downloads, seamless closed LLM integration, and offline-first RAG knowledge bases, ARGO becomes a DeepResearch powerhouse for autonomous thinking, task p
+ * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers
+ * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API: Simulate Gemini CLI and Kiro client requests, compatible with OpenAI API. You can make thousands of Gemini model requests daily for free, and use the built-in Claude model in Kiro. Easily integrate with any client through the API to make AI development more efficient!
 
 
 ## Reimplementations
@@ -1453,6 +1452,7 @@ _Updated on August 25, 2025_ (A total of 2226 repositories listed.)
  * [dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
  * [open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
  * [VideoPipe](https://github.com/sherlockchou86/videopipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
+ * [superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
 
 
 ## Langchain
@@ -1906,6 +1906,8 @@ _Updated on August 25, 2025_ (A total of 2226 repositories listed.)
  * [tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
  * [ChatMock](https://github.com/raybytes/chatmock) - Access OpenAI models programmatically through your ChatGPT subscription.
  * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - Starter app to build with the OpenAI Responses API
+ * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge is a powerful open-source tool that acts as a bridge, allowing you to use the massive advanced test large language models provided on the [LMArena.ai](https://lmarena.ai/) website through any application compatible with the OpenAI API (such as various AI chat clients, programming plugins, etc.).
+ * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 
 
 ## Others
