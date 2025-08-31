@@ -17,20 +17,14 @@
 ## The latest additions 🎉
 
 **CLIs**
- * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - 將Gemini CLI端點暴露為OpenAI API，並使用Cloudflare Workers。
- * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API：模擬Gemini CLI和Kiro 客戶端請求，兼容OpenAI API。可每日千次Gemini模型請求，免費使用Kiro內置Claude模型。通過API輕鬆接入任何客戶端，讓AI開發更高效！
+ * [claude-context](https://github.com/zilliztech/claude-context) - 用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。
 
 
 **NLP**
- * [superagent](https://github.com/superagent-ai/superagent) - AI的運行時防火牆，可以即時阻擋LLM漏洞。
+ * [UltraRAG](https://github.com/openbmb/ultrarag) - #更少的代碼，#更低的門檻，#更快的部署！基於MCP的低代碼RAG框架，使研究人員能夠構建複雜的流程，實現創新。
 
 
-**Openai**
- * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge 是一個強大的開源工具，它充當一座橋樑，讓你能通過任何兼容 OpenAI API 的應用程序（例如各類AI聊天客戶端、編程插件等）來使用 [LMArena.ai](https://lmarena.ai/) 網站上提供的海量先進測試大語言模型。
- * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - 使用克勞德代碼打開OpenAI API代理
-
-
-_Updated on August 28, 2025_ (A total of 2231 repositories listed.)
+_Updated on September 01, 2025_ (A total of 2233 repositories listed.)
 
 ## Table of contents
 
@@ -1042,6 +1036,7 @@ _Updated on August 28, 2025_ (A total of 2231 repositories listed.)
  * [argo](https://github.com/xark-argo/argo) - ARGO是一個開源的AI代理平台，將本地手稿帶到您的桌面上。通過一鍵模型下載，無縫封閉的LLM集成，以及離線優先的RAG知識庫，ARGO成為自主思考、任務的DeepResearch強大工具。
  * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - 將Gemini CLI端點暴露為OpenAI API，並使用Cloudflare Workers。
  * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API：模擬Gemini CLI和Kiro 客戶端請求，兼容OpenAI API。可每日千次Gemini模型請求，免費使用Kiro內置Claude模型。通過API輕鬆接入任何客戶端，讓AI開發更高效！
+ * [claude-context](https://github.com/zilliztech/claude-context) - 用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。
 
 
 ## Reimplementations
@@ -1453,6 +1448,7 @@ _Updated on August 28, 2025_ (A total of 2231 repositories listed.)
  * [open-swe](https://github.com/langchain-ai/open-swe) - 一個開源的異步編碼代理
  * [VideoPipe](https://github.com/sherlockchou86/videopipe) - 一個跨平台的視頻結構化（視頻分析）框架。如果您覺得有幫助，請給它一顆星：）
  * [superagent](https://github.com/superagent-ai/superagent) - AI的運行時防火牆，可以即時阻擋LLM漏洞。
+ * [UltraRAG](https://github.com/openbmb/ultrarag) - #更少的代碼，#更低的門檻，#更快的部署！基於MCP的低代碼RAG框架，使研究人員能夠構建複雜的流程，實現創新。
 
 
 ## Langchain

@@ -17,20 +17,14 @@
 ## The latest additions 🎉
 
 **CLIs**
- * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - Cloudflare Workersを使用して、Gemini CLIエンドポイントをOpenAI APIとして公開します。
- * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API：Gemini CLIとKiroクライアントのリクエストをシミュレートし、OpenAI APIと互換性があります。毎日1000回Geminiモデルのリクエストが可能で、Kiroに組み込まれたClaudeモデルを無料で使用できます。APIを使用して、どんなクライアントでも簡単に接続し、AI開発をより効率的に行えます！
+ * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
 
 
 **NLP**
- * [superagent](https://github.com/superagent-ai/superagent) - AI用のランタイムファイアウォールは、LLMの脆弱性をリアルタイムでブロックします。
+ * [UltraRAG](https://github.com/openbmb/ultrarag) - #少ないコード、#低い障壁、#高速デプロイメント！MCPベースのローコードRAGフレームワークを使用し、研究者が複雑なパイプラインを構築して創造的なイノベーションを実現します。
 
 
-**Openai**
- * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridgeは、強力なオープンソースツールであり、OpenAI APIと互換性のあるあらゆるアプリケーション（例：さまざまなAIチャットクライアント、プログラミングプラグインなど）を介して、[LMArena.ai](https://lmarena.ai/)ウェブサイトで提供されている大規模な先進的な言語モデルを使用できるようにする橋渡しの役割を果たします。
- * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - OpenAI APIプロキシへのクロードコード
-
-
-_Updated on August 28, 2025_ (A total of 2231 repositories listed.)
+_Updated on September 01, 2025_ (A total of 2233 repositories listed.)
 
 ## Table of contents
 
@@ -1042,6 +1036,7 @@ _Updated on August 28, 2025_ (A total of 2231 repositories listed.)
  * [argo](https://github.com/xark-argo/argo) - ARGOは、ローカルマニュスをデスクトップにもたらすオープンソースのAIエージェントプラットフォームです。ワンクリックでモデルをダウンロードし、シームレスなクローズドLLM統合、オフラインファーストのRAG知識ベースを備えることで、ARGOは自律思考、タスク力を持つDeepResearchの強力なプラットフォームとなります。
  * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - Cloudflare Workersを使用して、Gemini CLIエンドポイントをOpenAI APIとして公開します。
  * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API：Gemini CLIとKiroクライアントのリクエストをシミュレートし、OpenAI APIと互換性があります。毎日1000回Geminiモデルのリクエストが可能で、Kiroに組み込まれたClaudeモデルを無料で使用できます。APIを使用して、どんなクライアントでも簡単に接続し、AI開発をより効率的に行えます！
+ * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
 
 
 ## Reimplementations
@@ -1453,6 +1448,7 @@ _Updated on August 28, 2025_ (A total of 2231 repositories listed.)
  * [open-swe](https://github.com/langchain-ai/open-swe) - オープンソースの非同期コーディングエージェント
  * [VideoPipe](https://github.com/sherlockchou86/videopipe) - クロスプラットフォームのビデオ構造化（ビデオ分析）フレームワーク。役立つと思ったら、星を付けてください：）跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
  * [superagent](https://github.com/superagent-ai/superagent) - AI用のランタイムファイアウォールは、LLMの脆弱性をリアルタイムでブロックします。
+ * [UltraRAG](https://github.com/openbmb/ultrarag) - #少ないコード、#低い障壁、#高速デプロイメント！MCPベースのローコードRAGフレームワークを使用し、研究者が複雑なパイプラインを構築して創造的なイノベーションを実現します。
 
 
 ## Langchain

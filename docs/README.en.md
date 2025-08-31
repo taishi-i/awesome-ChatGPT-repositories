@@ -17,20 +17,14 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **CLIs**
- * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers
- * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API: Simulate Gemini CLI and Kiro client requests, compatible with OpenAI API. You can make thousands of Gemini model requests daily for free, and use the built-in Claude model in Kiro. Easily integrate with any client through the API to make AI development more efficient!
+ * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
 
 
 **NLP**
- * [superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
+ * [UltraRAG](https://github.com/openbmb/ultrarag) - #Less Code, #Lower Barrier, #Faster Deployment！MCP-based low-code RAG framework, enabling researchers to build complex pipelines to creative innovation.
 
 
-**Openai**
- * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge is a powerful open-source tool that acts as a bridge, allowing you to use the massive advanced test large language models provided on the [LMArena.ai](https://lmarena.ai/) website through any application compatible with the OpenAI API (such as various AI chat clients, programming plugins, etc.).
- * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
-
-
-_Updated on August 28, 2025_ (A total of 2231 repositories listed.)
+_Updated on September 01, 2025_ (A total of 2233 repositories listed.)
 
 ## Table of contents
 
@@ -1042,6 +1036,7 @@ _Updated on August 28, 2025_ (A total of 2231 repositories listed.)
  * [argo](https://github.com/xark-argo/argo) - ARGO is an open-source AI Agent platform that brings Local Manus to your desktop. With one-click model downloads, seamless closed LLM integration, and offline-first RAG knowledge bases, ARGO becomes a DeepResearch powerhouse for autonomous thinking, task p
  * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers
  * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API: Simulate Gemini CLI and Kiro client requests, compatible with OpenAI API. You can make thousands of Gemini model requests daily for free, and use the built-in Claude model in Kiro. Easily integrate with any client through the API to make AI development more efficient!
+ * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
 
 
 ## Reimplementations
@@ -1453,6 +1448,7 @@ _Updated on August 28, 2025_ (A total of 2231 repositories listed.)
  * [open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
  * [VideoPipe](https://github.com/sherlockchou86/videopipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
  * [superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
+ * [UltraRAG](https://github.com/openbmb/ultrarag) - #Less Code, #Lower Barrier, #Faster Deployment！MCP-based low-code RAG framework, enabling researchers to build complex pipelines to creative innovation.
 
 
 ## Langchain
