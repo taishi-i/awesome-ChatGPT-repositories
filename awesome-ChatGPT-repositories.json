@@ -32559,6 +32559,33 @@
                     "zh-hans": "AI的运行时防火墙可以实时阻止LLM漏洞。",
                     "zh-hant": "AI的運行時防火牆，可以即時阻擋LLM漏洞。"
                 }
+            },
+            "https://github.com/openbmb/ultrarag": {
+                "repository_name": "UltraRAG",
+                "user_name": "OpenBMB",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "#Less Code, #Lower Barrier, #Faster Deployment！MCP-based low-code RAG framework, enabling researchers to build complex pipelines to creative innovation.",
+                "topics": [
+                    "bge-m3",
+                    "easy",
+                    "embedding",
+                    "gpt",
+                    "llm",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-server",
+                    "openai",
+                    "qwen",
+                    "rag",
+                    "vllm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "#Less Code, #Lower Barrier, #Faster Deployment！MCP-based low-code RAG framework, enabling researchers to build complex pipelines to creative innovation.",
+                    "ja": "#少ないコード、#低い障壁、#高速デプロイメント！MCPベースのローコードRAGフレームワークを使用し、研究者が複雑なパイプラインを構築して創造的なイノベーションを実現します。",
+                    "zh-hans": "#更少的代码，#更低的门槛，#更快的部署！基于MCP的低代码RAG框架，使研究人员能够构建复杂的流水线，实现创新。",
+                    "zh-hant": "#更少的代碼，#更低的門檻，#更快的部署！基於MCP的低代碼RAG框架，使研究人員能夠構建複雜的流程，實現創新。"
+                }
             }
         },
         "Langchain": {
