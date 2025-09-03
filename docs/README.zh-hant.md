@@ -17,14 +17,14 @@
 ## The latest additions 🎉
 
 **CLIs**
- * [claude-context](https://github.com/zilliztech/claude-context) - 用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。
+ * [gonzo](https://github.com/control-theory/gonzo) - Gonzo！基於Go的TUI日誌分析工具
 
 
-**NLP**
- * [UltraRAG](https://github.com/openbmb/ultrarag) - #更少的代碼，#更低的門檻，#更快的部署！基於MCP的低代碼RAG框架，使研究人員能夠構建複雜的流程，實現創新。
+**Langchain**
+ * [restai](https://github.com/apocas/restai) - RESTai 是一個 AIaaS（AI 作為服務）開源平台。建立在 LlamaIndex 和 Langchain 之上。支持由 LlamaIndex 支持的任何公共 LLM 和由 Ollama/vLLM 等支持的任何本地 LLM。精確的嵌入使用和調整。內置圖像生成。
 
 
-_Updated on September 01, 2025_ (A total of 2233 repositories listed.)
+_Updated on September 04, 2025_ (A total of 2235 repositories listed.)
 
 ## Table of contents
 
@@ -1037,6 +1037,7 @@ _Updated on September 01, 2025_ (A total of 2233 repositories listed.)
  * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - 將Gemini CLI端點暴露為OpenAI API，並使用Cloudflare Workers。
  * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API：模擬Gemini CLI和Kiro 客戶端請求，兼容OpenAI API。可每日千次Gemini模型請求，免費使用Kiro內置Claude模型。通過API輕鬆接入任何客戶端，讓AI開發更高效！
  * [claude-context](https://github.com/zilliztech/claude-context) - 用於代碼搜索的MCP，用於Claude Code，Gemini CLI或任何代碼代理的構建。
+ * [gonzo](https://github.com/control-theory/gonzo) - Gonzo！基於Go的TUI日誌分析工具
 
 
 ## Reimplementations
@@ -1608,6 +1609,7 @@ _Updated on September 01, 2025_ (A total of 2233 repositories listed.)
  * [ollama](https://github.com/ollama/ollama) - 使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️ 輕鬆微調、構建和部署開源LLMs！
  * [kubewall](https://github.com/kubewall/kubewall) - kubewall - 開源、單一二進制 Kubernetes 儀表板，具有多集群管理和人工智能集成。 （OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio）
+ * [restai](https://github.com/apocas/restai) - RESTai 是一個 AIaaS（AI 作為服務）開源平台。建立在 LlamaIndex 和 Langchain 之上。支持由 LlamaIndex 支持的任何公共 LLM 和由 Ollama/vLLM 等支持的任何本地 LLM。精確的嵌入使用和調整。內置圖像生成。
 
 
 ## Unity

@@ -17,14 +17,14 @@
 ## The latest additions 🎉
 
 **CLIs**
- * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
+ * [gonzo](https://github.com/control-theory/gonzo) - ゴンゾ！GoベースのTUIログ解析ツール
 
 
-**NLP**
- * [UltraRAG](https://github.com/openbmb/ultrarag) - #少ないコード、#低い障壁、#高速デプロイメント！MCPベースのローコードRAGフレームワークを使用し、研究者が複雑なパイプラインを構築して創造的なイノベーションを実現します。
+**Langchain**
+ * [restai](https://github.com/apocas/restai) - RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
 
 
-_Updated on September 01, 2025_ (A total of 2233 repositories listed.)
+_Updated on September 04, 2025_ (A total of 2235 repositories listed.)
 
 ## Table of contents
 
@@ -1037,6 +1037,7 @@ _Updated on September 01, 2025_ (A total of 2233 repositories listed.)
  * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - Cloudflare Workersを使用して、Gemini CLIエンドポイントをOpenAI APIとして公開します。
  * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API：Gemini CLIとKiroクライアントのリクエストをシミュレートし、OpenAI APIと互換性があります。毎日1000回Geminiモデルのリクエストが可能で、Kiroに組み込まれたClaudeモデルを無料で使用できます。APIを使用して、どんなクライアントでも簡単に接続し、AI開発をより効率的に行えます！
  * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
+ * [gonzo](https://github.com/control-theory/gonzo) - ゴンゾ！GoベースのTUIログ解析ツール
 
 
 ## Reimplementations
@@ -1608,6 +1609,7 @@ _Updated on September 01, 2025_ (A total of 2233 repositories listed.)
  * [ollama](https://github.com/ollama/ollama) - OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開！
  * [kubewall](https://github.com/kubewall/kubewall) - kubewall - オープンソース、シングルバイナリのKubernetesダッシュボードで、マルチクラスター管理とAI統合を提供します。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
+ * [restai](https://github.com/apocas/restai) - RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
 
 
 ## Unity

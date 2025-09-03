@@ -23739,6 +23739,31 @@
                     "zh-hans": "AIClient2API：模拟Gemini CLI和Kiro客户端请求，兼容OpenAI API。可每日千次Gemini模型请求，免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！",
                     "zh-hant": "AIClient2API：模擬Gemini CLI和Kiro 客戶端請求，兼容OpenAI API。可每日千次Gemini模型請求，免費使用Kiro內置Claude模型。通過API輕鬆接入任何客戶端，讓AI開發更高效！"
                 }
+            },
+            "https://github.com/control-theory/gonzo": {
+                "repository_name": "gonzo",
+                "user_name": "control-theory",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Gonzo! The Go based TUI log analysis tool",
+                "topics": [
+                    "ai",
+                    "golang",
+                    "logs",
+                    "ollama",
+                    "openai",
+                    "opentelemetry",
+                    "otel",
+                    "otlp",
+                    "terminal",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Gonzo! The Go based TUI log analysis tool",
+                    "ja": "ゴンゾ！GoベースのTUIログ解析ツール",
+                    "zh-hans": "Gonzo！基于Go的TUI日志分析工具",
+                    "zh-hant": "Gonzo！基於Go的TUI日誌分析工具"
+                }
             }
         },
         "Reimplementations": {
