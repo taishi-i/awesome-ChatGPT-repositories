@@ -17,14 +17,14 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **CLIs**
- * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+ * [gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 
 
-**NLP**
- * [UltraRAG](https://github.com/openbmb/ultrarag) - #Less Code, #Lower Barrier, #Faster Deployment！MCP-based low-code RAG framework, enabling researchers to build complex pipelines to creative innovation.
+**Langchain**
+ * [restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation
 
 
-_Updated on September 01, 2025_ (A total of 2233 repositories listed.)
+_Updated on September 04, 2025_ (A total of 2235 repositories listed.)
 
 ## Table of contents
 
@@ -1037,6 +1037,7 @@ _Updated on September 01, 2025_ (A total of 2233 repositories listed.)
  * [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers
  * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API: Simulate Gemini CLI and Kiro client requests, compatible with OpenAI API. You can make thousands of Gemini model requests daily for free, and use the built-in Claude model in Kiro. Easily integrate with any client through the API to make AI development more efficient!
  * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
+ * [gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
 
 
 ## Reimplementations
@@ -1608,6 +1609,7 @@ _Updated on September 01, 2025_ (A total of 2233 repositories listed.)
  * [ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
  * [kubewall](https://github.com/kubewall/kubewall) - kubewall - Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
+ * [restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation
 
 
 ## Unity
