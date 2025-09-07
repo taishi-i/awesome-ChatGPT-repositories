@@ -16,15 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
+**Chatbots**
+ * [pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in
+
+
+**NLP**
+ * [memori](https://github.com/gibsonai/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 
 
 **Langchain**
- * [restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation
+ * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local.
+ * [sre](https://github.com/smythos/sre) - The Operating System for Agents
+ * [osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.
 
 
-_Updated on September 04, 2025_ (A total of 2235 repositories listed.)
+_Updated on September 08, 2025_ (A total of 2240 repositories listed.)
 
 ## Table of contents
 
@@ -633,6 +639,7 @@ _Updated on September 04, 2025_ (A total of 2235 repositories listed.)
  * [MuseBot](https://github.com/yincongcyincong/musebot) - AI chatbot that supports both Telegram, Discord, Slack, Lark, Work Wechat, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamle
  * [nekro-agent](https://github.com/kromiose/nekro-agent) - 集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态; An Extensible Multi-person interactive Agent Framework Powered by LLM Code Generation; Support: QQ, Discord, Minecraft, Bilibili Live, SSE(SDK) ...
  * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - First class Sublime Text AI assistant with gpt-5, o3 and ollama support!
+ * [pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in
 
 
 ## Browser-extensions
@@ -1450,6 +1457,7 @@ _Updated on September 04, 2025_ (A total of 2235 repositories listed.)
  * [VideoPipe](https://github.com/sherlockchou86/videopipe) - A cross-platform video structuring (video analysis) framework. If you find it helpful, please give it a star: )  跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
  * [superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
  * [UltraRAG](https://github.com/openbmb/ultrarag) - #Less Code, #Lower Barrier, #Faster Deployment！MCP-based low-code RAG framework, enabling researchers to build complex pipelines to creative innovation.
+ * [memori](https://github.com/gibsonai/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
 
 
 ## Langchain
@@ -1610,6 +1618,9 @@ _Updated on September 04, 2025_ (A total of 2235 repositories listed.)
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily!
  * [kubewall](https://github.com/kubewall/kubewall) - kubewall - Open-Source, Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
  * [restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation
+ * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local.
+ * [sre](https://github.com/smythos/sre) - The Operating System for Agents
+ * [osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.
 
 
 ## Unity

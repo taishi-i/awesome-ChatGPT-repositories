@@ -14340,6 +14340,40 @@
                     "zh-hans": "首屈一指的Sublime Text AI助手，支持gpt-5、o3和ollama！",
                     "zh-hant": "首屈一指的Sublime Text AI助手，支持gpt-5、o3和ollama！"
                 }
+            },
+            "https://github.com/iamsrikanthnani/pluely": {
+                "repository_name": "pluely",
+                "user_name": "iamsrikanthnani",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in video calls, screen shares, and recordings.",
+                "topics": [
+                    "ai-assistant",
+                    "claude",
+                    "cluely-alternative",
+                    "desktop-app",
+                    "gemini",
+                    "grok",
+                    "grok-4",
+                    "llm",
+                    "openai",
+                    "react",
+                    "rust",
+                    "shadcn",
+                    "speech-to-text",
+                    "stealth",
+                    "tailwindcss",
+                    "tauri",
+                    "typescript",
+                    "undetectable",
+                    "voice-activity-detection"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in",
+                    "ja": "クルーリーのオープンソース代替品 - 会議、面接、会話中にシームレスに機能する高速でプライバシー重視のAIアシスタント。ネイティブパフォーマンスのためにTauriで構築され、わずか10MB。 完全に検出不可能。",
+                    "zh-hans": "Cluely的开源替代品 - 一款闪电般快速、以隐私为首要考虑的人工智能助手，在会议、面试和对话中无缝运行，而无人知晓。使用Tauri构建，具有本地性能，仅10MB。完全无法被检测到。",
+                    "zh-hant": "Cluely的開源替代方案 - 一個快速、注重隱私的AI助手，在會議、面試和對話中無縫運作，而無人知曉。使用Tauri進行本地性能建立，僅10MB。完全無法被檢測到。"
+                }
             }
         },
         "Browser-extensions": {
@@ -32611,6 +32645,33 @@
                     "zh-hans": "#更少的代码，#更低的门槛，#更快的部署！基于MCP的低代码RAG框架，使研究人员能够构建复杂的流水线，实现创新。",
                     "zh-hant": "#更少的代碼，#更低的門檻，#更快的部署！基於MCP的低代碼RAG框架，使研究人員能夠構建複雜的流程，實現創新。"
                 }
+            },
+            "https://github.com/gibsonai/memori": {
+                "repository_name": "memori",
+                "user_name": "GibsonAI",
+                "language": "Python",
+                "license": "Other",
+                "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "aiagent",
+                    "chatgpt",
+                    "llm",
+                    "long-short-term-memory",
+                    "memori-ai",
+                    "memory",
+                    "memory-management",
+                    "python",
+                    "rag",
+                    "state-management"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+                    "ja": "LLMs、AIエージェント、マルチエージェントシステム向けのオープンソースメモリエンジン",
+                    "zh-hans": "开源内存引擎，用于LLMs，AI代理和多代理系统",
+                    "zh-hant": "開源記憶引擎，適用於LLMs、AI代理和多代理系統"
+                }
             }
         },
         "Langchain": {
@@ -36475,6 +36536,93 @@
                     "ja": "kubewall - オープンソース、シングルバイナリのKubernetesダッシュボードで、マルチクラスター管理とAI統合を提供します。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
                     "zh-hans": "kubewall - 开源、单一二进制文件的 Kubernetes 仪表板，具有多集群管理和人工智能集成功能。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)",
                     "zh-hant": "kubewall - 開源、單一二進制 Kubernetes 儀表板，具有多集群管理和人工智能集成。 （OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio）"
+                }
+            },
+            "https://github.com/learningcircuit/local-deep-research": {
+                "repository_name": "local-deep-research",
+                "user_name": "LearningCircuit",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local.",
+                "topics": [
+                    "academia",
+                    "anthropic",
+                    "arxiv",
+                    "brave",
+                    "deep-research",
+                    "gemma",
+                    "home-automation",
+                    "homeserver",
+                    "local",
+                    "local-deep-research",
+                    "local-llm",
+                    "mistral",
+                    "ollama",
+                    "openai",
+                    "pubmed",
+                    "research",
+                    "research-tool",
+                    "retrieval-augmented-generation",
+                    "searxng",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local.",
+                    "ja": "ローカルディープリサーチはSimpleQAベンチマークで約95％の精度を達成しました（GPT-4.1-miniでテスト済み）。ローカルおよびクラウドLLMs（Ollama、Google、Anthropicなど）をサポートしています。arXiv、PubMed、ウェブ、およびあなたのプライベートドキュメントなど、10以上のソースを検索します。すべてローカルで行います。",
+                    "zh-hans": "本地深度研究在SimpleQA基准测试中达到了约95%的准确率（使用GPT-4.1-mini进行测试）。支持本地和云端的LLMs（Ollama、Google、Anthropic等）。搜索10多个来源 - arXiv、PubMed、网络和您的私人文档。一切都在本地。",
+                    "zh-hant": "本地深度研究在SimpleQA基准测试中达到了约95%的准确率（使用GPT-4.1-mini进行测试）。支持本地和云端LLMs（Ollama、Google、Anthropic等）。搜索10多个来源 - arXiv、PubMed、网络和您的私人文件。一切都在本地。"
+                }
+            },
+            "https://github.com/smythos/sre": {
+                "repository_name": "sre",
+                "user_name": "SmythOS",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The Operating System for Agents",
+                "topics": [
+                    "agent-framework",
+                    "agents",
+                    "agi",
+                    "ai",
+                    "ai-agents",
+                    "artificial-intelligence",
+                    "autogpt",
+                    "autonomous-agents",
+                    "chatgpt",
+                    "langchain",
+                    "llm",
+                    "llmops",
+                    "mcp",
+                    "multi-agent",
+                    "multi-agent-systems",
+                    "n8n",
+                    "openai",
+                    "orchestration",
+                    "rag",
+                    "retrieval-augmented-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Operating System for Agents",
+                    "ja": "エージェント向けのオペレーティングシステム",
+                    "zh-hans": "代理商操作系统",
+                    "zh-hant": "代理商的操作系统"
+                }
+            },
+            "https://github.com/dinoki-ai/osaurus": {
+                "repository_name": "osaurus",
+                "user_name": "dinoki-ai",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.",
+                "topics": [
+                    "llm",
+                    "swift"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.",
+                    "ja": "ネイティブ、Apple Silicon専用のローカルLLMサーバー。Ollamaに似ていますが、Mシリーズチップで最大のパフォーマンスを発揮するためにAppleのMLXに基づいて構築されています。OpenAI互換のエンドポイントを持つSwiftUIアプリ+SwiftNIOサーバー。",
+                    "zh-hans": "本地，仅适用于苹果硅的LLM服务器。类似于Ollama，但基于苹果的MLX构建，以在M系列芯片上实现最佳性能。SwiftUI应用程序+SwiftNIO服务器，具有与OpenAI兼容的端点。",
+                    "zh-hant": "本地、僅支援蘋果矽片的LLM伺服器。類似Ollama，但建立在蘋果的MLX上，以在M系列芯片上獲得最佳性能。SwiftUI應用程式+ SwiftNIO伺服器，具有與OpenAI兼容的端點。"
                 }
             }
         },
