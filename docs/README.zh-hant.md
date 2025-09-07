@@ -16,15 +16,21 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [gonzo](https://github.com/control-theory/gonzo) - Gonzo！基於Go的TUI日誌分析工具
+**Chatbots**
+ * [pluely](https://github.com/iamsrikanthnani/pluely) - Cluely的開源替代方案 - 一個快速、注重隱私的AI助手，在會議、面試和對話中無縫運作，而無人知曉。使用Tauri進行本地性能建立，僅10MB。完全無法被檢測到。
+
+
+**NLP**
+ * [memori](https://github.com/gibsonai/memori) - 開源記憶引擎，適用於LLMs、AI代理和多代理系統
 
 
 **Langchain**
- * [restai](https://github.com/apocas/restai) - RESTai 是一個 AIaaS（AI 作為服務）開源平台。建立在 LlamaIndex 和 Langchain 之上。支持由 LlamaIndex 支持的任何公共 LLM 和由 Ollama/vLLM 等支持的任何本地 LLM。精確的嵌入使用和調整。內置圖像生成。
+ * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - 本地深度研究在SimpleQA基准测试中达到了约95%的准确率（使用GPT-4.1-mini进行测试）。支持本地和云端LLMs（Ollama、Google、Anthropic等）。搜索10多个来源 - arXiv、PubMed、网络和您的私人文件。一切都在本地。
+ * [sre](https://github.com/smythos/sre) - 代理商的操作系统
+ * [osaurus](https://github.com/dinoki-ai/osaurus) - 本地、僅支援蘋果矽片的LLM伺服器。類似Ollama，但建立在蘋果的MLX上，以在M系列芯片上獲得最佳性能。SwiftUI應用程式+ SwiftNIO伺服器，具有與OpenAI兼容的端點。
 
 
-_Updated on September 04, 2025_ (A total of 2235 repositories listed.)
+_Updated on September 08, 2025_ (A total of 2240 repositories listed.)
 
 ## Table of contents
 
@@ -633,6 +639,7 @@ _Updated on September 04, 2025_ (A total of 2235 repositories listed.)
  * [MuseBot](https://github.com/yincongcyincong/musebot) - 支援Telegram、Discord、Slack、Lark、企業微信等多個平台的AI聊天機器人，兼容OpenAI、Gemini、DeepSeek、Doubao和OpenRouter等多種LLM。提供智能對話、圖像生成、視頻創建等功能。無縫運行。
  * [nekro-agent](https://github.com/kromiose/nekro-agent) - 集代碼執行能力/高度可擴展性為一體的多人跨平台聊天機器人：沙盒驅動｜可視化｜高擴展｜多模態; 由LLM代碼生成驅動的可擴展多人互動代理框架; 支持：QQ、Discord、Minecraft、Bilibili直播、SSE(SDK) ...
  * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - 首屈一指的Sublime Text AI助手，支持gpt-5、o3和ollama！
+ * [pluely](https://github.com/iamsrikanthnani/pluely) - Cluely的開源替代方案 - 一個快速、注重隱私的AI助手，在會議、面試和對話中無縫運作，而無人知曉。使用Tauri進行本地性能建立，僅10MB。完全無法被檢測到。
 
 
 ## Browser-extensions
@@ -1450,6 +1457,7 @@ _Updated on September 04, 2025_ (A total of 2235 repositories listed.)
  * [VideoPipe](https://github.com/sherlockchou86/videopipe) - 一個跨平台的視頻結構化（視頻分析）框架。如果您覺得有幫助，請給它一顆星：）
  * [superagent](https://github.com/superagent-ai/superagent) - AI的運行時防火牆，可以即時阻擋LLM漏洞。
  * [UltraRAG](https://github.com/openbmb/ultrarag) - #更少的代碼，#更低的門檻，#更快的部署！基於MCP的低代碼RAG框架，使研究人員能夠構建複雜的流程，實現創新。
+ * [memori](https://github.com/gibsonai/memori) - 開源記憶引擎，適用於LLMs、AI代理和多代理系統
 
 
 ## Langchain
@@ -1610,6 +1618,9 @@ _Updated on September 04, 2025_ (A total of 2235 repositories listed.)
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️ 輕鬆微調、構建和部署開源LLMs！
  * [kubewall](https://github.com/kubewall/kubewall) - kubewall - 開源、單一二進制 Kubernetes 儀表板，具有多集群管理和人工智能集成。 （OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio）
  * [restai](https://github.com/apocas/restai) - RESTai 是一個 AIaaS（AI 作為服務）開源平台。建立在 LlamaIndex 和 Langchain 之上。支持由 LlamaIndex 支持的任何公共 LLM 和由 Ollama/vLLM 等支持的任何本地 LLM。精確的嵌入使用和調整。內置圖像生成。
+ * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - 本地深度研究在SimpleQA基准测试中达到了约95%的准确率（使用GPT-4.1-mini进行测试）。支持本地和云端LLMs（Ollama、Google、Anthropic等）。搜索10多个来源 - arXiv、PubMed、网络和您的私人文件。一切都在本地。
+ * [sre](https://github.com/smythos/sre) - 代理商的操作系统
+ * [osaurus](https://github.com/dinoki-ai/osaurus) - 本地、僅支援蘋果矽片的LLM伺服器。類似Ollama，但建立在蘋果的MLX上，以在M系列芯片上獲得最佳性能。SwiftUI應用程式+ SwiftNIO伺服器，具有與OpenAI兼容的端點。
 
 
 ## Unity

@@ -16,15 +16,21 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [gonzo](https://github.com/control-theory/gonzo) - ゴンゾ！GoベースのTUIログ解析ツール
+**Chatbots**
+ * [pluely](https://github.com/iamsrikanthnani/pluely) - クルーリーのオープンソース代替品 - 会議、面接、会話中にシームレスに機能する高速でプライバシー重視のAIアシスタント。ネイティブパフォーマンスのためにTauriで構築され、わずか10MB。 完全に検出不可能。
+
+
+**NLP**
+ * [memori](https://github.com/gibsonai/memori) - LLMs、AIエージェント、マルチエージェントシステム向けのオープンソースメモリエンジン
 
 
 **Langchain**
- * [restai](https://github.com/apocas/restai) - RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
+ * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - ローカルディープリサーチはSimpleQAベンチマークで約95％の精度を達成しました（GPT-4.1-miniでテスト済み）。ローカルおよびクラウドLLMs（Ollama、Google、Anthropicなど）をサポートしています。arXiv、PubMed、ウェブ、およびあなたのプライベートドキュメントなど、10以上のソースを検索します。すべてローカルで行います。
+ * [sre](https://github.com/smythos/sre) - エージェント向けのオペレーティングシステム
+ * [osaurus](https://github.com/dinoki-ai/osaurus) - ネイティブ、Apple Silicon専用のローカルLLMサーバー。Ollamaに似ていますが、Mシリーズチップで最大のパフォーマンスを発揮するためにAppleのMLXに基づいて構築されています。OpenAI互換のエンドポイントを持つSwiftUIアプリ+SwiftNIOサーバー。
 
 
-_Updated on September 04, 2025_ (A total of 2235 repositories listed.)
+_Updated on September 08, 2025_ (A total of 2240 repositories listed.)
 
 ## Table of contents
 
@@ -633,6 +639,7 @@ _Updated on September 04, 2025_ (A total of 2235 repositories listed.)
  * [MuseBot](https://github.com/yincongcyincong/musebot) - Telegram、Discord、Slack、Lark、Work WechatをサポートするAIチャットボット。OpenAI、Gemini、DeepSeek、Doubao、OpenRouterなど、さまざまなLLMと互換性があります。インテリジェントな会話、画像生成、ビデオ作成などを提供します。シームレスに動作します。
  * [nekro-agent](https://github.com/kromiose/nekro-agent) - LLMコード生成によって駆動される拡張可能なマルチユーザーインタラクティブエージェントフレームワーク：QQ、Discord、Minecraft、Bilibili Live、SSE（SDK）をサポートする、サンドボックス駆動、ビジュアル、高度に拡張可能、マルチモードのチャットボット。
  * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - 最初のクラスのSublime Text AIアシスタント、gpt-5、o3、およびollamaサポート付き！
+ * [pluely](https://github.com/iamsrikanthnani/pluely) - クルーリーのオープンソース代替品 - 会議、面接、会話中にシームレスに機能する高速でプライバシー重視のAIアシスタント。ネイティブパフォーマンスのためにTauriで構築され、わずか10MB。 完全に検出不可能。
 
 
 ## Browser-extensions
@@ -1450,6 +1457,7 @@ _Updated on September 04, 2025_ (A total of 2235 repositories listed.)
  * [VideoPipe](https://github.com/sherlockchou86/videopipe) - クロスプラットフォームのビデオ構造化（ビデオ分析）フレームワーク。役立つと思ったら、星を付けてください：）跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
  * [superagent](https://github.com/superagent-ai/superagent) - AI用のランタイムファイアウォールは、LLMの脆弱性をリアルタイムでブロックします。
  * [UltraRAG](https://github.com/openbmb/ultrarag) - #少ないコード、#低い障壁、#高速デプロイメント！MCPベースのローコードRAGフレームワークを使用し、研究者が複雑なパイプラインを構築して創造的なイノベーションを実現します。
+ * [memori](https://github.com/gibsonai/memori) - LLMs、AIエージェント、マルチエージェントシステム向けのオープンソースメモリエンジン
 
 
 ## Langchain
@@ -1610,6 +1618,9 @@ _Updated on September 04, 2025_ (A total of 2235 repositories listed.)
  * [aikit](https://github.com/kaito-project/aikit) - 🏗️オープンソースのLLMを簡単に微調整、構築、展開！
  * [kubewall](https://github.com/kubewall/kubewall) - kubewall - オープンソース、シングルバイナリのKubernetesダッシュボードで、マルチクラスター管理とAI統合を提供します。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
  * [restai](https://github.com/apocas/restai) - RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
+ * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - ローカルディープリサーチはSimpleQAベンチマークで約95％の精度を達成しました（GPT-4.1-miniでテスト済み）。ローカルおよびクラウドLLMs（Ollama、Google、Anthropicなど）をサポートしています。arXiv、PubMed、ウェブ、およびあなたのプライベートドキュメントなど、10以上のソースを検索します。すべてローカルで行います。
+ * [sre](https://github.com/smythos/sre) - エージェント向けのオペレーティングシステム
+ * [osaurus](https://github.com/dinoki-ai/osaurus) - ネイティブ、Apple Silicon専用のローカルLLMサーバー。Ollamaに似ていますが、Mシリーズチップで最大のパフォーマンスを発揮するためにAppleのMLXに基づいて構築されています。OpenAI互換のエンドポイントを持つSwiftUIアプリ+SwiftNIOサーバー。
 
 
 ## Unity
