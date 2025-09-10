@@ -17,20 +17,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in
+ * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.
+ * [WeKnora](https://github.com/tencent/weknora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+
+
+**CLIs**
+ * [gcli2api](https://github.com/su-kaka/gcli2api) - Convert GeminiCLI to OpenAI and GEMINI API interfaces.
 
 
 **NLP**
- * [memori](https://github.com/gibsonai/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+ * [dingo](https://github.com/migoxlab/dingo) - Dingo: A Comprehensive AI Data Quality Evaluation Tool
+ * [coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
 
 
-**Langchain**
- * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local.
- * [sre](https://github.com/smythos/sre) - The Operating System for Agents
- * [osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.
-
-
-_Updated on September 08, 2025_ (A total of 2240 repositories listed.)
+_Updated on September 11, 2025_ (A total of 2245 repositories listed.)
 
 ## Table of contents
 
@@ -640,6 +640,8 @@ _Updated on September 08, 2025_ (A total of 2240 repositories listed.)
  * [nekro-agent](https://github.com/kromiose/nekro-agent) - 集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态; An Extensible Multi-person interactive Agent Framework Powered by LLM Code Generation; Support: QQ, Discord, Minecraft, Bilibili Live, SSE(SDK) ...
  * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - First class Sublime Text AI assistant with gpt-5, o3 and ollama support!
  * [pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in
+ * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.
+ * [WeKnora](https://github.com/tencent/weknora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 
 
 ## Browser-extensions
@@ -1045,6 +1047,7 @@ _Updated on September 08, 2025_ (A total of 2240 repositories listed.)
  * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API: Simulate Gemini CLI and Kiro client requests, compatible with OpenAI API. You can make thousands of Gemini model requests daily for free, and use the built-in Claude model in Kiro. Easily integrate with any client through the API to make AI development more efficient!
  * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
  * [gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
+ * [gcli2api](https://github.com/su-kaka/gcli2api) - Convert GeminiCLI to OpenAI and GEMINI API interfaces.
 
 
 ## Reimplementations
@@ -1458,6 +1461,8 @@ _Updated on September 08, 2025_ (A total of 2240 repositories listed.)
  * [superagent](https://github.com/superagent-ai/superagent) - The runtime firewall for AI, blocks LLM vulnerabilities in real time.
  * [UltraRAG](https://github.com/openbmb/ultrarag) - #Less Code, #Lower Barrier, #Faster Deployment！MCP-based low-code RAG framework, enabling researchers to build complex pipelines to creative innovation.
  * [memori](https://github.com/gibsonai/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+ * [dingo](https://github.com/migoxlab/dingo) - Dingo: A Comprehensive AI Data Quality Evaluation Tool
+ * [coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
 
 
 ## Langchain

@@ -17,20 +17,20 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [pluely](https://github.com/iamsrikanthnani/pluely) - Cluely的开源替代品 - 一款闪电般快速、以隐私为首要考虑的人工智能助手，在会议、面试和对话中无缝运行，而无人知晓。使用Tauri构建，具有本地性能，仅10MB。完全无法被检测到。
+ * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20全栈启动器与Node.js（JavaScript和TypeScript），Spring Boot和AI（LLM，语音，播客）。 包括SSR，PWA，REST API，Docker和CI/CD管道。
+ * [WeKnora](https://github.com/tencent/weknora) - LLM 强化的框架，用于深度文档理解、语义检索和上下文感知答案，采用 RAG 范式。
+
+
+**CLIs**
+ * [gcli2api](https://github.com/su-kaka/gcli2api) - 将GeminiCLI转换为OpenAI和GEMINI API接口
 
 
 **NLP**
- * [memori](https://github.com/gibsonai/memori) - 开源内存引擎，用于LLMs，AI代理和多代理系统
+ * [dingo](https://github.com/migoxlab/dingo) - 丁果：一款全面的人工智能数据质量评估工具
+ * [coderunner](https://github.com/instavm/coderunner) - 一个安全的本地沙盒，用于在苹果容器中运行由LLM生成的代码
 
 
-**Langchain**
- * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - 本地深度研究在SimpleQA基准测试中达到了约95%的准确率（使用GPT-4.1-mini进行测试）。支持本地和云端的LLMs（Ollama、Google、Anthropic等）。搜索10多个来源 - arXiv、PubMed、网络和您的私人文档。一切都在本地。
- * [sre](https://github.com/smythos/sre) - 代理商操作系统
- * [osaurus](https://github.com/dinoki-ai/osaurus) - 本地，仅适用于苹果硅的LLM服务器。类似于Ollama，但基于苹果的MLX构建，以在M系列芯片上实现最佳性能。SwiftUI应用程序+SwiftNIO服务器，具有与OpenAI兼容的端点。
-
-
-_Updated on September 08, 2025_ (A total of 2240 repositories listed.)
+_Updated on September 11, 2025_ (A total of 2245 repositories listed.)
 
 ## Table of contents
 
@@ -640,6 +640,8 @@ _Updated on September 08, 2025_ (A total of 2240 repositories listed.)
  * [nekro-agent](https://github.com/kromiose/nekro-agent) - 一个由LLM代码生成驱动的可扩展多人互动代理框架：支持QQ、Discord、Minecraft、哔哩哔哩直播、SSE(SDK)等跨平台聊天机器人。具有沙盒驱动、可视化、高扩展、多模态功能。
  * [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - 首屈一指的Sublime Text AI助手，支持gpt-5、o3和ollama！
  * [pluely](https://github.com/iamsrikanthnani/pluely) - Cluely的开源替代品 - 一款闪电般快速、以隐私为首要考虑的人工智能助手，在会议、面试和对话中无缝运行，而无人知晓。使用Tauri构建，具有本地性能，仅10MB。完全无法被检测到。
+ * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20全栈启动器与Node.js（JavaScript和TypeScript），Spring Boot和AI（LLM，语音，播客）。 包括SSR，PWA，REST API，Docker和CI/CD管道。
+ * [WeKnora](https://github.com/tencent/weknora) - LLM 强化的框架，用于深度文档理解、语义检索和上下文感知答案，采用 RAG 范式。
 
 
 ## Browser-extensions
@@ -1045,6 +1047,7 @@ _Updated on September 08, 2025_ (A total of 2240 repositories listed.)
  * [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - AIClient2API：模拟Gemini CLI和Kiro客户端请求，兼容OpenAI API。可每日千次Gemini模型请求，免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
  * [claude-context](https://github.com/zilliztech/claude-context) - 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
  * [gonzo](https://github.com/control-theory/gonzo) - Gonzo！基于Go的TUI日志分析工具
+ * [gcli2api](https://github.com/su-kaka/gcli2api) - 将GeminiCLI转换为OpenAI和GEMINI API接口
 
 
 ## Reimplementations
@@ -1458,6 +1461,8 @@ _Updated on September 08, 2025_ (A total of 2240 repositories listed.)
  * [superagent](https://github.com/superagent-ai/superagent) - AI的运行时防火墙可以实时阻止LLM漏洞。
  * [UltraRAG](https://github.com/openbmb/ultrarag) - #更少的代码，#更低的门槛，#更快的部署！基于MCP的低代码RAG框架，使研究人员能够构建复杂的流水线，实现创新。
  * [memori](https://github.com/gibsonai/memori) - 开源内存引擎，用于LLMs，AI代理和多代理系统
+ * [dingo](https://github.com/migoxlab/dingo) - 丁果：一款全面的人工智能数据质量评估工具
+ * [coderunner](https://github.com/instavm/coderunner) - 一个安全的本地沙盒，用于在苹果容器中运行由LLM生成的代码
 
 
 ## Langchain

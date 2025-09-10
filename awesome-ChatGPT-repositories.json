@@ -14374,6 +14374,76 @@
                     "zh-hans": "Cluely的开源替代品 - 一款闪电般快速、以隐私为首要考虑的人工智能助手，在会议、面试和对话中无缝运行，而无人知晓。使用Tauri构建，具有本地性能，仅10MB。完全无法被检测到。",
                     "zh-hant": "Cluely的開源替代方案 - 一個快速、注重隱私的AI助手，在會議、面試和對話中無縫運作，而無人知曉。使用Tauri進行本地性能建立，僅10MB。完全無法被檢測到。"
                 }
+            },
+            "https://github.com/ganatan/angular-node-java-ai": {
+                "repository_name": "angular-node-java-ai",
+                "user_name": "ganatan",
+                "language": "HTML",
+                "license": "MIT License",
+                "description": "Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.",
+                "topics": [
+                    "ai",
+                    "angular",
+                    "angular20",
+                    "api-rest",
+                    "backend",
+                    "docker",
+                    "elevenlabs",
+                    "express",
+                    "frontend",
+                    "fullstack",
+                    "java",
+                    "llm",
+                    "nodejs",
+                    "openai",
+                    "podcast",
+                    "pwa",
+                    "spring",
+                    "springboot",
+                    "ssr",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.",
+                    "ja": "Angular 20 フルスタックスターター with Node.js（JavaScript & TypeScript）、Spring Boot、そしてAI（LLM、Voice、Podcast）。SSR、PWA、REST API、Docker、CI/CD パイプラインを含む。",
+                    "zh-hans": "Angular 20全栈启动器与Node.js（JavaScript和TypeScript），Spring Boot和AI（LLM，语音，播客）。 包括SSR，PWA，REST API，Docker和CI/CD管道。",
+                    "zh-hant": "使用Node.js（JavaScript和TypeScript）、Spring Boot和AI（LLM、语音、播客）的Angular 20全栈启动器。包括SSR、PWA、REST API、Docker和CI/CD流水线。"
+                }
+            },
+            "https://github.com/tencent/weknora": {
+                "repository_name": "WeKnora",
+                "user_name": "Tencent",
+                "language": "Go",
+                "license": "Other",
+                "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+                "topics": [
+                    "agent",
+                    "agentic",
+                    "ai",
+                    "chatbot",
+                    "chatbots",
+                    "embeddings",
+                    "evaluation",
+                    "generative-ai",
+                    "golang",
+                    "knowledge-base",
+                    "llm",
+                    "multi-tenant",
+                    "multimodel",
+                    "ollama",
+                    "openai",
+                    "question-answering",
+                    "rag",
+                    "reranking",
+                    "semantic-search",
+                    "vector-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+                    "ja": "RAGパラダイムを使用した深いドキュメント理解、意味的検索、およびコンテキストに応じた回答のためのLLMパワードフレームワーク。",
+                    "zh-hans": "LLM 强化的框架，用于深度文档理解、语义检索和上下文感知答案，采用 RAG 范式。",
+                    "zh-hant": "以LLM為動力的框架，用於深度文件理解、語義檢索和上下文感知答案，採用RAG範式。"
+                }
             }
         },
         "Browser-extensions": {
@@ -23798,6 +23868,25 @@
                     "zh-hans": "Gonzo！基于Go的TUI日志分析工具",
                     "zh-hant": "Gonzo！基於Go的TUI日誌分析工具"
                 }
+            },
+            "https://github.com/su-kaka/gcli2api": {
+                "repository_name": "gcli2api",
+                "user_name": "su-kaka",
+                "language": "Python",
+                "license": "Other",
+                "description": "将 GeminiCLI 转换为 OpenAI 和 GEMINI API 接口",
+                "topics": [
+                    "gemini",
+                    "gemini-ai",
+                    "gemini-api",
+                    "gemini-pro"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Convert GeminiCLI to OpenAI and GEMINI API interfaces.",
+                    "ja": "GeminiCLIをOpenAIとGEMINI APIインターフェースに変換します。",
+                    "zh-hans": "将GeminiCLI转换为OpenAI和GEMINI API接口",
+                    "zh-hant": "將 GeminiCLI 轉換為 OpenAI 和 GEMINI API 介面"
+                }
             }
         },
         "Reimplementations": {
@@ -32671,6 +32760,66 @@
                     "ja": "LLMs、AIエージェント、マルチエージェントシステム向けのオープンソースメモリエンジン",
                     "zh-hans": "开源内存引擎，用于LLMs，AI代理和多代理系统",
                     "zh-hant": "開源記憶引擎，適用於LLMs、AI代理和多代理系統"
+                }
+            },
+            "https://github.com/migoxlab/dingo": {
+                "repository_name": "dingo",
+                "user_name": "MigoXLab",
+                "language": "JavaScript",
+                "license": "Apache License 2.0",
+                "description": "Dingo: A Comprehensive AI Data Quality Evaluation Tool",
+                "topics": [
+                    "common-crawl",
+                    "data-agent",
+                    "data-evaluation",
+                    "data-quality",
+                    "data-quality-assessment",
+                    "data-quality-report",
+                    "data-science",
+                    "data-validation",
+                    "dataquality",
+                    "datascience",
+                    "deepseek",
+                    "gpt",
+                    "hallucination",
+                    "hallucination-detection",
+                    "llm",
+                    "openai",
+                    "opencompass",
+                    "qwen",
+                    "spark",
+                    "vlm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Dingo: A Comprehensive AI Data Quality Evaluation Tool",
+                    "ja": "ディンゴ：包括的なAIデータ品質評価ツール",
+                    "zh-hans": "丁果：一款全面的人工智能数据质量评估工具",
+                    "zh-hant": "Dingo：一個全面的人工智慧數據質量評估工具"
+                }
+            },
+            "https://github.com/instavm/coderunner": {
+                "repository_name": "coderunner",
+                "user_name": "instavm",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "A secure local sandbox to run LLM-generated code using Apple containers",
+                "topics": [
+                    "anthropic",
+                    "apple",
+                    "apple-container",
+                    "claude-code",
+                    "containerization",
+                    "gemini-cli",
+                    "llm",
+                    "llmstudio",
+                    "mcp",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A secure local sandbox to run LLM-generated code using Apple containers",
+                    "ja": "Appleコンテナを使用してLLM生成コードを実行するための安全なローカルサンドボックス",
+                    "zh-hans": "一个安全的本地沙盒，用于在苹果容器中运行由LLM生成的代码",
+                    "zh-hant": "一個安全的本地沙箱，可以在蘋果容器中運行由LLM生成的代碼"
                 }
             }
         },
