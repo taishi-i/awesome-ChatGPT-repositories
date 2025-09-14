@@ -17,20 +17,32 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20 フルスタックスターター with Node.js（JavaScript & TypeScript）、Spring Boot、そしてAI（LLM、Voice、Podcast）。SSR、PWA、REST API、Docker、CI/CD パイプラインを含む。
- * [WeKnora](https://github.com/tencent/weknora) - RAGパラダイムを使用した深いドキュメント理解、意味的検索、およびコンテキストに応じた回答のためのLLMパワードフレームワーク。
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 AIを活用した会話型アバターを超高速で構築 ⚡️💬
+ * [sparka](https://github.com/franciscomoretti/sparka) - AI チャット - クロード、ChatGPT、ジェミニ、およびグロック。高度な機能、オープンソース、製品向け。
 
 
 **CLIs**
- * [gcli2api](https://github.com/su-kaka/gcli2api) - GeminiCLIをOpenAIとGEMINI APIインターフェースに変換します。
+ * [nanocoder](https://github.com/mote-software/nanocoder) - ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
+ * [snapai](https://github.com/betomoedano/snapai) - React NativeおよびExpo開発者向けのAIパワードアイコン生成CLI。OpenAIの最新モデルを使用して、数秒で見事なアプリアイコンを生成します。
 
 
 **NLP**
- * [dingo](https://github.com/migoxlab/dingo) - ディンゴ：包括的なAIデータ品質評価ツール
- * [coderunner](https://github.com/instavm/coderunner) - Appleコンテナを使用してLLM生成コードを実行するための安全なローカルサンドボックス
+ * [whisper-playground](https://github.com/saharmor/whisper-playground) - OpenAIのWhisperを使用してリアルタイムの音声からテキストに変換するWebアプリを構築します。
 
 
-_Updated on September 11, 2025_ (A total of 2245 repositories listed.)
+**Langchain**
+ * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ PythonフリーのRust推論サーバー — OpenAI-API互換。GGUF + SafeTensors、ホットモデルスワップ、自動検出、シングルバイナリ。今すぐ無料、永久に無料。
+
+
+**Openai**
+ * [harvester](https://github.com/wzdnzd/harvester) - GitHubやWebソース向けのインテリジェントデータ取得フレームワーク
+
+
+**Others**
+ * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 空港推薦、2025年最新の科学的なインターネット接続のチュートリアル、空港での実地テスト、無料トライアル空港の提供、VPNとの比較、Clash/V2Ray/Trojanのサポート、ChatGPT/YouTube/Netflixのロック解除、使用方法の説明書を含む。
+
+
+_Updated on September 15, 2025_ (A total of 2253 repositories listed.)
 
 ## Table of contents
 
@@ -642,6 +654,8 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [pluely](https://github.com/iamsrikanthnani/pluely) - クルーリーのオープンソース代替品 - 会議、面接、会話中にシームレスに機能する高速でプライバシー重視のAIアシスタント。ネイティブパフォーマンスのためにTauriで構築され、わずか10MB。 完全に検出不可能。
  * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20 フルスタックスターター with Node.js（JavaScript & TypeScript）、Spring Boot、そしてAI（LLM、Voice、Podcast）。SSR、PWA、REST API、Docker、CI/CD パイプラインを含む。
  * [WeKnora](https://github.com/tencent/weknora) - RAGパラダイムを使用した深いドキュメント理解、意味的検索、およびコンテキストに応じた回答のためのLLMパワードフレームワーク。
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 AIを活用した会話型アバターを超高速で構築 ⚡️💬
+ * [sparka](https://github.com/franciscomoretti/sparka) - AI チャット - クロード、ChatGPT、ジェミニ、およびグロック。高度な機能、オープンソース、製品向け。
 
 
 ## Browser-extensions
@@ -1048,6 +1062,8 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [claude-context](https://github.com/zilliztech/claude-context) - コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
  * [gonzo](https://github.com/control-theory/gonzo) - ゴンゾ！GoベースのTUIログ解析ツール
  * [gcli2api](https://github.com/su-kaka/gcli2api) - GeminiCLIをOpenAIとGEMINI APIインターフェースに変換します。
+ * [nanocoder](https://github.com/mote-software/nanocoder) - ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
+ * [snapai](https://github.com/betomoedano/snapai) - React NativeおよびExpo開発者向けのAIパワードアイコン生成CLI。OpenAIの最新モデルを使用して、数秒で見事なアプリアイコンを生成します。
 
 
 ## Reimplementations
@@ -1463,6 +1479,7 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [memori](https://github.com/gibsonai/memori) - LLMs、AIエージェント、マルチエージェントシステム向けのオープンソースメモリエンジン
  * [dingo](https://github.com/migoxlab/dingo) - ディンゴ：包括的なAIデータ品質評価ツール
  * [coderunner](https://github.com/instavm/coderunner) - Appleコンテナを使用してLLM生成コードを実行するための安全なローカルサンドボックス
+ * [whisper-playground](https://github.com/saharmor/whisper-playground) - OpenAIのWhisperを使用してリアルタイムの音声からテキストに変換するWebアプリを構築します。
 
 
 ## Langchain
@@ -1626,6 +1643,7 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - ローカルディープリサーチはSimpleQAベンチマークで約95％の精度を達成しました（GPT-4.1-miniでテスト済み）。ローカルおよびクラウドLLMs（Ollama、Google、Anthropicなど）をサポートしています。arXiv、PubMed、ウェブ、およびあなたのプライベートドキュメントなど、10以上のソースを検索します。すべてローカルで行います。
  * [sre](https://github.com/smythos/sre) - エージェント向けのオペレーティングシステム
  * [osaurus](https://github.com/dinoki-ai/osaurus) - ネイティブ、Apple Silicon専用のローカルLLMサーバー。Ollamaに似ていますが、Mシリーズチップで最大のパフォーマンスを発揮するためにAppleのMLXに基づいて構築されています。OpenAI互換のエンドポイントを持つSwiftUIアプリ+SwiftNIOサーバー。
+ * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ PythonフリーのRust推論サーバー — OpenAI-API互換。GGUF + SafeTensors、ホットモデルスワップ、自動検出、シングルバイナリ。今すぐ無料、永久に無料。
 
 
 ## Unity
@@ -1922,6 +1940,7 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - OpenAI Responses APIを使用して構築するためのスターターアプリ
  * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridgeは、強力なオープンソースツールであり、OpenAI APIと互換性のあるあらゆるアプリケーション（例：さまざまなAIチャットクライアント、プログラミングプラグインなど）を介して、[LMArena.ai](https://lmarena.ai/)ウェブサイトで提供されている大規模な先進的な言語モデルを使用できるようにする橋渡しの役割を果たします。
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - OpenAI APIプロキシへのクロードコード
+ * [harvester](https://github.com/wzdnzd/harvester) - GitHubやWebソース向けのインテリジェントデータ取得フレームワーク
 
 
 ## Others
@@ -2350,5 +2369,6 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆TTS
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - このリポジトリは、ChatGPTが実際のマイクロキャップ株ポートフォリオを管理するブログ実験を支えています。
  * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - キーボードにChatGPTなどの生成AIを統合するためのLSPosedモジュール。
+ * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 空港推薦、2025年最新の科学的なインターネット接続のチュートリアル、空港での実地テスト、無料トライアル空港の提供、VPNとの比較、Clash/V2Ray/Trojanのサポート、ChatGPT/YouTube/Netflixのロック解除、使用方法の説明書を含む。
 
 

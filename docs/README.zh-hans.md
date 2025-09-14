@@ -17,20 +17,32 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20全栈启动器与Node.js（JavaScript和TypeScript），Spring Boot和AI（LLM，语音，播客）。 包括SSR，PWA，REST API，Docker和CI/CD管道。
- * [WeKnora](https://github.com/tencent/weknora) - LLM 强化的框架，用于深度文档理解、语义检索和上下文感知答案，采用 RAG 范式。
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 构建基于人工智能的对话化头像，速度快如闪电 ⚡️💬
+ * [sparka](https://github.com/franciscomoretti/sparka) - AI聊天 - Claude，ChatGPT，Gemini和Grok。高级功能，开源，可投入生产。
 
 
 **CLIs**
- * [gcli2api](https://github.com/su-kaka/gcli2api) - 将GeminiCLI转换为OpenAI和GEMINI API接口
+ * [nanocoder](https://github.com/mote-software/nanocoder) - 一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒
+ * [snapai](https://github.com/betomoedano/snapai) - 为React Native和Expo开发者提供的AI图标生成CLI。使用OpenAI的最新模型，在几秒钟内生成令人惊叹的应用程序图标。
 
 
 **NLP**
- * [dingo](https://github.com/migoxlab/dingo) - 丁果：一款全面的人工智能数据质量评估工具
- * [coderunner](https://github.com/instavm/coderunner) - 一个安全的本地沙盒，用于在苹果容器中运行由LLM生成的代码
+ * [whisper-playground](https://github.com/saharmor/whisper-playground) - 使用OpenAI的Whisper构建实时语音转文字的网络应用程序。
 
 
-_Updated on September 11, 2025_ (A total of 2245 repositories listed.)
+**Langchain**
+ * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ 无Python的Rust推理服务器 — 兼容OpenAI-API。GGUF + SafeTensors，热模型交换，自动发现，单一二进制文件。现在免费，永久免费。
+
+
+**Openai**
+ * [harvester](https://github.com/wzdnzd/harvester) - 智能数据采集框架，适用于GitHub和网络来源。
+
+
+**Others**
+ * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 机场推荐，2025最新科学上网教程，机场实测，提供免费试用机场，与VPN对比，支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。
+
+
+_Updated on September 15, 2025_ (A total of 2253 repositories listed.)
 
 ## Table of contents
 
@@ -642,6 +654,8 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [pluely](https://github.com/iamsrikanthnani/pluely) - Cluely的开源替代品 - 一款闪电般快速、以隐私为首要考虑的人工智能助手，在会议、面试和对话中无缝运行，而无人知晓。使用Tauri构建，具有本地性能，仅10MB。完全无法被检测到。
  * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20全栈启动器与Node.js（JavaScript和TypeScript），Spring Boot和AI（LLM，语音，播客）。 包括SSR，PWA，REST API，Docker和CI/CD管道。
  * [WeKnora](https://github.com/tencent/weknora) - LLM 强化的框架，用于深度文档理解、语义检索和上下文感知答案，采用 RAG 范式。
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 构建基于人工智能的对话化头像，速度快如闪电 ⚡️💬
+ * [sparka](https://github.com/franciscomoretti/sparka) - AI聊天 - Claude，ChatGPT，Gemini和Grok。高级功能，开源，可投入生产。
 
 
 ## Browser-extensions
@@ -1048,6 +1062,8 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [claude-context](https://github.com/zilliztech/claude-context) - 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
  * [gonzo](https://github.com/control-theory/gonzo) - Gonzo！基于Go的TUI日志分析工具
  * [gcli2api](https://github.com/su-kaka/gcli2api) - 将GeminiCLI转换为OpenAI和GEMINI API接口
+ * [nanocoder](https://github.com/mote-software/nanocoder) - 一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒
+ * [snapai](https://github.com/betomoedano/snapai) - 为React Native和Expo开发者提供的AI图标生成CLI。使用OpenAI的最新模型，在几秒钟内生成令人惊叹的应用程序图标。
 
 
 ## Reimplementations
@@ -1463,6 +1479,7 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [memori](https://github.com/gibsonai/memori) - 开源内存引擎，用于LLMs，AI代理和多代理系统
  * [dingo](https://github.com/migoxlab/dingo) - 丁果：一款全面的人工智能数据质量评估工具
  * [coderunner](https://github.com/instavm/coderunner) - 一个安全的本地沙盒，用于在苹果容器中运行由LLM生成的代码
+ * [whisper-playground](https://github.com/saharmor/whisper-playground) - 使用OpenAI的Whisper构建实时语音转文字的网络应用程序。
 
 
 ## Langchain
@@ -1626,6 +1643,7 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - 本地深度研究在SimpleQA基准测试中达到了约95%的准确率（使用GPT-4.1-mini进行测试）。支持本地和云端的LLMs（Ollama、Google、Anthropic等）。搜索10多个来源 - arXiv、PubMed、网络和您的私人文档。一切都在本地。
  * [sre](https://github.com/smythos/sre) - 代理商操作系统
  * [osaurus](https://github.com/dinoki-ai/osaurus) - 本地，仅适用于苹果硅的LLM服务器。类似于Ollama，但基于苹果的MLX构建，以在M系列芯片上实现最佳性能。SwiftUI应用程序+SwiftNIO服务器，具有与OpenAI兼容的端点。
+ * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ 无Python的Rust推理服务器 — 兼容OpenAI-API。GGUF + SafeTensors，热模型交换，自动发现，单一二进制文件。现在免费，永久免费。
 
 
 ## Unity
@@ -1922,6 +1940,7 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - 使用OpenAI Responses API构建的入门应用程序
  * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - 克劳德代码到OpenAI API代理
+ * [harvester](https://github.com/wzdnzd/harvester) - 智能数据采集框架，适用于GitHub和网络来源。
 
 
 ## Others
@@ -2350,5 +2369,6 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - 工作流程至APP、屏幕共享和悬浮视频、GPT和3D、语音识别和TTS
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - 这个存储库支持我的博客实验，ChatGPT管理一个真实货币的微型市值股票投资组合。
  * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。输出：LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。
+ * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 机场推荐，2025最新科学上网教程，机场实测，提供免费试用机场，与VPN对比，支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。
 
 

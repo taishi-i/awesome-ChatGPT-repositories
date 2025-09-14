@@ -14444,6 +14444,54 @@
                     "zh-hans": "LLM 强化的框架，用于深度文档理解、语义检索和上下文感知答案，采用 RAG 范式。",
                     "zh-hant": "以LLM為動力的框架，用於深度文件理解、語義檢索和上下文感知答案，採用RAG範式。"
                 }
+            },
+            "https://github.com/uezo/aiavatarkit": {
+                "repository_name": "aiavatarkit",
+                "user_name": "uezo",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🥰 Building AI-based conversational avatars lightning fast ⚡️💬",
+                "topics": [
+                    "chatgpt",
+                    "metaverse",
+                    "voicevox",
+                    "vr",
+                    "vrchat"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🥰 Building AI-based conversational avatars lightning fast ⚡️💬",
+                    "ja": "🥰 AIを活用した会話型アバターを超高速で構築 ⚡️💬",
+                    "zh-hans": "🥰 构建基于人工智能的对话化头像，速度快如闪电 ⚡️💬",
+                    "zh-hant": "🥰 建立基於人工智慧的對話化頭像，速度快如閃電 ⚡️💬"
+                }
+            },
+            "https://github.com/franciscomoretti/sparka": {
+                "repository_name": "sparka",
+                "user_name": "FranciscoMoretti",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "AI Chat - Claude, ChatGPT, Gemini, and Grok. Advanced features, open-source, production-ready.",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "gemini-ai",
+                    "grok",
+                    "llm",
+                    "multiprovider",
+                    "openai",
+                    "xai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Chat - Claude, ChatGPT, Gemini, and Grok. Advanced features, open-source, production-ready.",
+                    "ja": "AI チャット - クロード、ChatGPT、ジェミニ、およびグロック。高度な機能、オープンソース、製品向け。",
+                    "zh-hans": "AI聊天 - Claude，ChatGPT，Gemini和Grok。高级功能，开源，可投入生产。",
+                    "zh-hant": "AI 聊天 - Claude、ChatGPT、Gemini 和 Grok。高級功能，開源，可投入生產。"
+                }
             }
         },
         "Browser-extensions": {
@@ -23887,6 +23935,52 @@
                     "zh-hans": "将GeminiCLI转换为OpenAI和GEMINI API接口",
                     "zh-hant": "將 GeminiCLI 轉換為 OpenAI 和 GEMINI API 介面"
                 }
+            },
+            "https://github.com/mote-software/nanocoder": {
+                "repository_name": "nanocoder",
+                "user_name": "Mote-Software",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ai-coding",
+                    "coding-agents",
+                    "llm",
+                    "llm-inference",
+                    "ollama",
+                    "openai",
+                    "openrouter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒",
+                    "ja": "ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒",
+                    "zh-hans": "一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒",
+                    "zh-hant": "一個美麗的本地優先編碼代理在您的終端機上運行-由社區為社區建造 ⚒"
+                }
+            },
+            "https://github.com/betomoedano/snapai": {
+                "repository_name": "snapai",
+                "user_name": "betomoedano",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.",
+                "topics": [
+                    "ai",
+                    "cli",
+                    "developer-tools",
+                    "expo",
+                    "icon-generator",
+                    "openai",
+                    "react-native"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.",
+                    "ja": "React NativeおよびExpo開発者向けのAIパワードアイコン生成CLI。OpenAIの最新モデルを使用して、数秒で見事なアプリアイコンを生成します。",
+                    "zh-hans": "为React Native和Expo开发者提供的AI图标生成CLI。使用OpenAI的最新模型，在几秒钟内生成令人惊叹的应用程序图标。",
+                    "zh-hant": "使用AI技術的圖標生成CLI，適用於React Native和Expo開發人員。使用OpenAI最新模型，在幾秒鐘內生成令人驚嘆的應用程序圖標。"
+                }
             }
         },
         "Reimplementations": {
@@ -32821,6 +32915,26 @@
                     "zh-hans": "一个安全的本地沙盒，用于在苹果容器中运行由LLM生成的代码",
                     "zh-hant": "一個安全的本地沙箱，可以在蘋果容器中運行由LLM生成的代碼"
                 }
+            },
+            "https://github.com/saharmor/whisper-playground": {
+                "repository_name": "whisper-playground",
+                "user_name": "saharmor",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/",
+                "topics": [
+                    "machine-learning",
+                    "openai",
+                    "speech-recognition",
+                    "speech-to-text",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/",
+                    "ja": "OpenAIのWhisperを使用してリアルタイムの音声からテキストに変換するWebアプリを構築します。",
+                    "zh-hans": "使用OpenAI的Whisper构建实时语音转文字的网络应用程序。",
+                    "zh-hant": "使用OpenAI的Whisper构建实时语音转文本网络应用程序。https://openai.com/blog/whisper/"
+                }
             }
         },
         "Langchain": {
@@ -36772,6 +36886,40 @@
                     "ja": "ネイティブ、Apple Silicon専用のローカルLLMサーバー。Ollamaに似ていますが、Mシリーズチップで最大のパフォーマンスを発揮するためにAppleのMLXに基づいて構築されています。OpenAI互換のエンドポイントを持つSwiftUIアプリ+SwiftNIOサーバー。",
                     "zh-hans": "本地，仅适用于苹果硅的LLM服务器。类似于Ollama，但基于苹果的MLX构建，以在M系列芯片上实现最佳性能。SwiftUI应用程序+SwiftNIO服务器，具有与OpenAI兼容的端点。",
                     "zh-hant": "本地、僅支援蘋果矽片的LLM伺服器。類似Ollama，但建立在蘋果的MLX上，以在M系列芯片上獲得最佳性能。SwiftUI應用程式+ SwiftNIO伺服器，具有與OpenAI兼容的端點。"
+                }
+            },
+            "https://github.com/michael-a-kuykendall/shimmy": {
+                "repository_name": "shimmy",
+                "user_name": "Michael-A-Kuykendall",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.",
+                "topics": [
+                    "api-server",
+                    "command-line-tool",
+                    "developer-tools",
+                    "gguf",
+                    "huggingface",
+                    "huggingface-models",
+                    "huggingface-transformers",
+                    "inference-server",
+                    "llama",
+                    "llamacpp",
+                    "llm-inference",
+                    "local-ai",
+                    "lora",
+                    "machine-learning",
+                    "ollama-api",
+                    "openai-compatible",
+                    "rust",
+                    "rust-crate",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.",
+                    "ja": "⚡ PythonフリーのRust推論サーバー — OpenAI-API互換。GGUF + SafeTensors、ホットモデルスワップ、自動検出、シングルバイナリ。今すぐ無料、永久に無料。",
+                    "zh-hans": "⚡ 无Python的Rust推理服务器 — 兼容OpenAI-API。GGUF + SafeTensors，热模型交换，自动发现，单一二进制文件。现在免费，永久免费。",
+                    "zh-hant": "⚡ 無Python的Rust推理伺服器 — 兼容OpenAI-API。GGUF + SafeTensors、熱模型交換、自動發現、單一二進制。現在免費，永久免費。"
                 }
             }
         },
@@ -42957,6 +43105,27 @@
                     "ja": "OpenAI APIプロキシへのクロードコード",
                     "zh-hans": "克劳德代码到OpenAI API代理",
                     "zh-hant": "使用克勞德代碼打開OpenAI API代理"
+                }
+            },
+            "https://github.com/wzdnzd/harvester": {
+                "repository_name": "harvester",
+                "user_name": "wzdnzd",
+                "language": "Python",
+                "license": "Other",
+                "description": "Intelligent data acquisition framework for GitHub and web sources",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "deepseek",
+                    "gemini",
+                    "openai",
+                    "qwen"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Intelligent data acquisition framework for GitHub and web sources",
+                    "ja": "GitHubやWebソース向けのインテリジェントデータ取得フレームワーク",
+                    "zh-hans": "智能数据采集框架，适用于GitHub和网络来源。",
+                    "zh-hant": "智能數據收集框架，適用於GitHub和網絡來源"
                 }
             }
         },
@@ -51045,6 +51214,26 @@
                     "ja": "キーボードにChatGPTなどの生成AIを統合するためのLSPosedモジュール。",
                     "zh-hans": "LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。输出：LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。",
                     "zh-hant": "LSPosed模塊，用於在鍵盤中集成像ChatGPT這樣的生成式AI。LSPosed模塊，用於在鍵盤中集成像ChatGPT這樣的生成式AI。"
+                }
+            },
+            "https://github.com/chatgpt-helper-tech/airport-access": {
+                "repository_name": "airport-access",
+                "user_name": "chatgpt-helper-tech",
+                "language": "Python",
+                "license": null,
+                "description": "机场推荐,2025最新科学上网教程,机场实测,提供免费试用机场,与VPN对比,支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。",
+                "topics": [
+                    "clash",
+                    "shadowsocks",
+                    "ssr",
+                    "v2ray",
+                    "vpn"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Airport recommendation, 2025 latest scientific Internet access tutorial, airport actual test, providing free trial airport, compared with VPN, supporting Clash / V2Ray / Trojan, unlocking ChatGPT / YouTube / Netflix, including usage tutorial.",
+                    "ja": "空港推薦、2025年最新の科学的なインターネット接続のチュートリアル、空港での実地テスト、無料トライアル空港の提供、VPNとの比較、Clash/V2Ray/Trojanのサポート、ChatGPT/YouTube/Netflixのロック解除、使用方法の説明書を含む。",
+                    "zh-hans": "机场推荐，2025最新科学上网教程，机场实测，提供免费试用机场，与VPN对比，支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。",
+                    "zh-hant": "機場推薦，2025最新科學上網教程，機場實測，提供免費試用機場，與VPN對比，支持 Clash / V2Ray / Trojan，解鎖 ChatGPT / YouTube / Netflix，含使用教程。"
                 }
             }
         }
