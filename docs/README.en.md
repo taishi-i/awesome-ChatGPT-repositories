@@ -17,20 +17,32 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.
- * [WeKnora](https://github.com/tencent/weknora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 Building AI-based conversational avatars lightning fast ⚡️💬
+ * [sparka](https://github.com/franciscomoretti/sparka) - AI Chat - Claude, ChatGPT, Gemini, and Grok. Advanced features, open-source, production-ready.
 
 
 **CLIs**
- * [gcli2api](https://github.com/su-kaka/gcli2api) - Convert GeminiCLI to OpenAI and GEMINI API interfaces.
+ * [nanocoder](https://github.com/mote-software/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
+ * [snapai](https://github.com/betomoedano/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
 
 
 **NLP**
- * [dingo](https://github.com/migoxlab/dingo) - Dingo: A Comprehensive AI Data Quality Evaluation Tool
- * [coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
+ * [whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
 
 
-_Updated on September 11, 2025_ (A total of 2245 repositories listed.)
+**Langchain**
+ * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
+
+
+**Openai**
+ * [harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
+
+
+**Others**
+ * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - Airport recommendation, 2025 latest scientific Internet access tutorial, airport actual test, providing free trial airport, compared with VPN, supporting Clash / V2Ray / Trojan, unlocking ChatGPT / YouTube / Netflix, including usage tutorial.
+
+
+_Updated on September 15, 2025_ (A total of 2253 repositories listed.)
 
 ## Table of contents
 
@@ -642,6 +654,8 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [pluely](https://github.com/iamsrikanthnani/pluely) - The Open Source Alternative to Cluely - A lightning-fast, privacy-first AI assistant that works seamlessly during meetings, interviews, and conversations without anyone knowing. Built with Tauri for native performance, just 10MB. Completely undetectable in
  * [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.
  * [WeKnora](https://github.com/tencent/weknora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+ * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 Building AI-based conversational avatars lightning fast ⚡️💬
+ * [sparka](https://github.com/franciscomoretti/sparka) - AI Chat - Claude, ChatGPT, Gemini, and Grok. Advanced features, open-source, production-ready.
 
 
 ## Browser-extensions
@@ -1048,6 +1062,8 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [claude-context](https://github.com/zilliztech/claude-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
  * [gonzo](https://github.com/control-theory/gonzo) - Gonzo! The Go based TUI log analysis tool
  * [gcli2api](https://github.com/su-kaka/gcli2api) - Convert GeminiCLI to OpenAI and GEMINI API interfaces.
+ * [nanocoder](https://github.com/mote-software/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
+ * [snapai](https://github.com/betomoedano/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
 
 
 ## Reimplementations
@@ -1463,6 +1479,7 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [memori](https://github.com/gibsonai/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
  * [dingo](https://github.com/migoxlab/dingo) - Dingo: A Comprehensive AI Data Quality Evaluation Tool
  * [coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
+ * [whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
 
 
 ## Langchain
@@ -1626,6 +1643,7 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [local-deep-research](https://github.com/learningcircuit/local-deep-research) - Local Deep Research achieves ~95% on SimpleQA benchmark (tested with GPT-4.1-mini). Supports local and cloud LLMs (Ollama, Google, Anthropic, ...). Searches 10+ sources - arXiv, PubMed, web, and your private documents. Everything Local.
  * [sre](https://github.com/smythos/sre) - The Operating System for Agents
  * [osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.
+ * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
 
 
 ## Unity
@@ -1922,6 +1940,7 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - Starter app to build with the OpenAI Responses API
  * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge is a powerful open-source tool that acts as a bridge, allowing you to use the massive advanced test large language models provided on the [LMArena.ai](https://lmarena.ai/) website through any application compatible with the OpenAI API (such as various AI chat clients, programming plugins, etc.).
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
+ * [harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
 
 
 ## Others
@@ -2350,5 +2369,6 @@ _Updated on September 11, 2025_ (A total of 2245 repositories listed.)
  * [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
  * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed Module to integrate Generative AI like ChatGPT in keyboard.
+ * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - Airport recommendation, 2025 latest scientific Internet access tutorial, airport actual test, providing free trial airport, compared with VPN, supporting Clash / V2Ray / Trojan, unlocking ChatGPT / YouTube / Netflix, including usage tutorial.
 
 
