@@ -23981,6 +23981,54 @@
                     "zh-hans": "为React Native和Expo开发者提供的AI图标生成CLI。使用OpenAI的最新模型，在几秒钟内生成令人惊叹的应用程序图标。",
                     "zh-hant": "使用AI技術的圖標生成CLI，適用於React Native和Expo開發人員。使用OpenAI最新模型，在幾秒鐘內生成令人驚嘆的應用程序圖標。"
                 }
+            },
+            "https://github.com/tbckr/sgpt": {
+                "repository_name": "sgpt",
+                "user_name": "tbckr",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.",
+                "topics": [
+                    "anthropic",
+                    "anthropic-claude",
+                    "bash",
+                    "cli",
+                    "gemini",
+                    "gemini-api",
+                    "gemini-pro",
+                    "go",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt-4-vision",
+                    "gpt-4-vision-preview",
+                    "gpt-4o",
+                    "o1-mini",
+                    "o1-preview",
+                    "openai",
+                    "openrouter",
+                    "openrouter-api",
+                    "shell"
+                ],
+                "multilingual_descriptions": {
+                    "en": "SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.",
+                    "ja": "SGPTは、OpenAIモデルとやり取りする便利な方法を提供するコマンドラインツールであり、ユーザーがクエリを実行し、シェルコマンドを生成し、ターミナルから直接コードを生成することができます。",
+                    "zh-hans": "SGPT是一个命令行工具，为用户提供了一个方便的方式与OpenAI模型进行交互，使用户能够在终端上运行查询，生成shell命令并直接生成代码。",
+                    "zh-hant": "SGPT 是一個命令行工具，提供了一種方便的方式來與 OpenAI 模型互動，使用戶可以運行查詢，生成 shell 命令並直接從終端產生代碼。"
+                }
+            },
+            "https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator": {
+                "repository_name": "Conversation-Knowledge-Mining-Solution-Accelerator",
+                "user_name": "microsoft",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "⚡ Microsoft Fabric CLI",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "⚡ Microsoft Fabric CLI",
+                    "ja": "⚡ マイクロソフトファブリックCLI",
+                    "zh-hans": "⚡ 微软 Fabric CLI",
+                    "zh-hant": "⚡ 微軟 Fabric CLI"
+                }
             }
         },
         "Reimplementations": {
@@ -32934,6 +32982,26 @@
                     "ja": "OpenAIのWhisperを使用してリアルタイムの音声からテキストに変換するWebアプリを構築します。",
                     "zh-hans": "使用OpenAI的Whisper构建实时语音转文字的网络应用程序。",
                     "zh-hant": "使用OpenAI的Whisper构建实时语音转文本网络应用程序。https://openai.com/blog/whisper/"
+                }
+            },
+            "https://github.com/awwaiid/ghostwriter": {
+                "repository_name": "ghostwriter",
+                "user_name": "awwaiid",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!",
+                "topics": [
+                    "agentic-ai",
+                    "eink",
+                    "llm",
+                    "remarkable-2",
+                    "vlm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!",
+                    "ja": "reMarkable2をビジョン-LLMs（ChatGPT、Claude、Gemini）へのインターフェースとして使用します。機械の中の幽霊！",
+                    "zh-hans": "使用reMarkable2作为与视觉LLMs（ChatGPT、Claude、Gemini）的接口。机器中的幽灵！",
+                    "zh-hant": "使用reMarkable2作為與vision-LLMs（ChatGPT、Claude、Gemini）的接口。機器中的幽靈！"
                 }
             }
         },
@@ -43126,6 +43194,66 @@
                     "ja": "GitHubやWebソース向けのインテリジェントデータ取得フレームワーク",
                     "zh-hans": "智能数据采集框架，适用于GitHub和网络来源。",
                     "zh-hant": "智能數據收集框架，適用於GitHub和網絡來源"
+                }
+            },
+            "https://github.com/multi-modal-ai/multimodal-agents-course": {
+                "repository_name": "multimodal-agents-course",
+                "user_name": "multi-modal-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "An MCP Multimodal AI Agent with eyes and ears!",
+                "topics": [
+                    "agent",
+                    "embeddings",
+                    "groq",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-server",
+                    "multimodal",
+                    "openai",
+                    "opik",
+                    "pixeltable"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An MCP Multimodal AI Agent with eyes and ears!",
+                    "ja": "目と耳を持つMCPマルチモーダルAIエージェント！",
+                    "zh-hans": "一个具有眼睛和耳朵的MCP多模态人工智能代理！",
+                    "zh-hant": "具有眼睛和耳朵的MCP多模式人工智能代理！"
+                }
+            },
+            "https://github.com/anyofai/anyofai.github.io": {
+                "repository_name": "anyofai.github.io",
+                "user_name": "anyofai",
+                "language": "CSS",
+                "license": "Apache License 2.0",
+                "description": "最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。",
+                "topics": [
+                    "chagpt",
+                    "chat-gpt",
+                    "chat-gpt-4",
+                    "chatgpt",
+                    "chatgpt-4",
+                    "chatgpt-app",
+                    "chatgpt-plus",
+                    "chatgpt3",
+                    "chatgpt4",
+                    "chatgptplus",
+                    "free-gpt",
+                    "gpt",
+                    "gpt-3",
+                    "gpt-4",
+                    "gpt-4o",
+                    "gpt-5",
+                    "gpt3",
+                    "gpt4",
+                    "openai",
+                    "openai-chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Latest ChatGPT Plus Opening Guide: How to Recharge ChatGPT Plus Membership in China? How to Purchase ChatGPT Plus Account and ChatGPT Pro Account? This article will focus on introducing five methods to upgrade ChatGPT Plus membership: carpooling to share ChatGPT Plus account, purchasing ChatGPT Plus standalone account, recharging your ChatGPT Plus on behalf, recharging ChatGPT Plus membership with Apple gift card, subscribing to ChatGPT Plus membership using foreign virtual credit card.",
+                    "ja": "最新ChatGPT Plus開通攻略：国内でChatGPT Plus会員にサブスクリプションを購入する方法は？ChatGPT PlusアカウントとChatGPT Proアカウントを購入する方法は？この記事では、ChatGPT Plus会員にアップグレードするための5つの方法を重点的に紹介します：ChatGPT Plusアカウントを共有し、ChatGPT Plus独立アカウントを購入し、あなたのChatGPT Plusに代わってチャージする、Appleギフトカードを使用してChatGPT Plus会員にチャージする、海外の仮想クレジットカードを使用してChatGPT Plus会員にサブスクライブする。",
+                    "zh-hans": "最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。",
+                    "zh-hant": "最新ChatGPT Plus開通攻略：如何在國內充值訂閱ChatGPT Plus會員？如何購買ChatGPT Plus帳號和ChatGPT Pro帳號？本文會為大家重點介紹五種升級ChatGPT Plus會員的方法：拼車合租ChatGPT Plus帳號、購買ChatGPT Plus獨立帳號、為你的ChatGPT Plus代充值、使用蘋果Apple禮品卡充值ChatGPT Plus會員、使用國外的虛擬信用卡訂閱ChatGPT Plus會員。"
                 }
             }
         },

@@ -16,33 +16,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 构建基于人工智能的对话化头像，速度快如闪电 ⚡️💬
- * [sparka](https://github.com/franciscomoretti/sparka) - AI聊天 - Claude，ChatGPT，Gemini和Grok。高级功能，开源，可投入生产。
-
-
 **CLIs**
- * [nanocoder](https://github.com/mote-software/nanocoder) - 一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒
- * [snapai](https://github.com/betomoedano/snapai) - 为React Native和Expo开发者提供的AI图标生成CLI。使用OpenAI的最新模型，在几秒钟内生成令人惊叹的应用程序图标。
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPT是一个命令行工具，为用户提供了一个方便的方式与OpenAI模型进行交互，使用户能够在终端上运行查询，生成shell命令并直接生成代码。
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ 微软 Fabric CLI
 
 
 **NLP**
- * [whisper-playground](https://github.com/saharmor/whisper-playground) - 使用OpenAI的Whisper构建实时语音转文字的网络应用程序。
-
-
-**Langchain**
- * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ 无Python的Rust推理服务器 — 兼容OpenAI-API。GGUF + SafeTensors，热模型交换，自动发现，单一二进制文件。现在免费，永久免费。
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作为与视觉LLMs（ChatGPT、Claude、Gemini）的接口。机器中的幽灵！
 
 
 **Openai**
- * [harvester](https://github.com/wzdnzd/harvester) - 智能数据采集框架，适用于GitHub和网络来源。
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 一个具有眼睛和耳朵的MCP多模态人工智能代理！
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。
 
 
-**Others**
- * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 机场推荐，2025最新科学上网教程，机场实测，提供免费试用机场，与VPN对比，支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。
-
-
-_Updated on September 15, 2025_ (A total of 2253 repositories listed.)
+_Updated on September 18, 2025_ (A total of 2258 repositories listed.)
 
 ## Table of contents
 
@@ -1064,6 +1052,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [gcli2api](https://github.com/su-kaka/gcli2api) - 将GeminiCLI转换为OpenAI和GEMINI API接口
  * [nanocoder](https://github.com/mote-software/nanocoder) - 一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒
  * [snapai](https://github.com/betomoedano/snapai) - 为React Native和Expo开发者提供的AI图标生成CLI。使用OpenAI的最新模型，在几秒钟内生成令人惊叹的应用程序图标。
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPT是一个命令行工具，为用户提供了一个方便的方式与OpenAI模型进行交互，使用户能够在终端上运行查询，生成shell命令并直接生成代码。
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ 微软 Fabric CLI
 
 
 ## Reimplementations
@@ -1480,6 +1470,7 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [dingo](https://github.com/migoxlab/dingo) - 丁果：一款全面的人工智能数据质量评估工具
  * [coderunner](https://github.com/instavm/coderunner) - 一个安全的本地沙盒，用于在苹果容器中运行由LLM生成的代码
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - 使用OpenAI的Whisper构建实时语音转文字的网络应用程序。
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作为与视觉LLMs（ChatGPT、Claude、Gemini）的接口。机器中的幽灵！
 
 
 ## Langchain
@@ -1941,6 +1932,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - 克劳德代码到OpenAI API代理
  * [harvester](https://github.com/wzdnzd/harvester) - 智能数据采集框架，适用于GitHub和网络来源。
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 一个具有眼睛和耳朵的MCP多模态人工智能代理！
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。
 
 
 ## Others

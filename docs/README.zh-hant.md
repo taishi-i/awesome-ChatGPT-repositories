@@ -16,33 +16,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 建立基於人工智慧的對話化頭像，速度快如閃電 ⚡️💬
- * [sparka](https://github.com/franciscomoretti/sparka) - AI 聊天 - Claude、ChatGPT、Gemini 和 Grok。高級功能，開源，可投入生產。
-
-
 **CLIs**
- * [nanocoder](https://github.com/mote-software/nanocoder) - 一個美麗的本地優先編碼代理在您的終端機上運行-由社區為社區建造 ⚒
- * [snapai](https://github.com/betomoedano/snapai) - 使用AI技術的圖標生成CLI，適用於React Native和Expo開發人員。使用OpenAI最新模型，在幾秒鐘內生成令人驚嘆的應用程序圖標。
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPT 是一個命令行工具，提供了一種方便的方式來與 OpenAI 模型互動，使用戶可以運行查詢，生成 shell 命令並直接從終端產生代碼。
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ 微軟 Fabric CLI
 
 
 **NLP**
- * [whisper-playground](https://github.com/saharmor/whisper-playground) - 使用OpenAI的Whisper构建实时语音转文本网络应用程序。https://openai.com/blog/whisper/
-
-
-**Langchain**
- * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ 無Python的Rust推理伺服器 — 兼容OpenAI-API。GGUF + SafeTensors、熱模型交換、自動發現、單一二進制。現在免費，永久免費。
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作為與vision-LLMs（ChatGPT、Claude、Gemini）的接口。機器中的幽靈！
 
 
 **Openai**
- * [harvester](https://github.com/wzdnzd/harvester) - 智能數據收集框架，適用於GitHub和網絡來源
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 具有眼睛和耳朵的MCP多模式人工智能代理！
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus開通攻略：如何在國內充值訂閱ChatGPT Plus會員？如何購買ChatGPT Plus帳號和ChatGPT Pro帳號？本文會為大家重點介紹五種升級ChatGPT Plus會員的方法：拼車合租ChatGPT Plus帳號、購買ChatGPT Plus獨立帳號、為你的ChatGPT Plus代充值、使用蘋果Apple禮品卡充值ChatGPT Plus會員、使用國外的虛擬信用卡訂閱ChatGPT Plus會員。
 
 
-**Others**
- * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 機場推薦，2025最新科學上網教程，機場實測，提供免費試用機場，與VPN對比，支持 Clash / V2Ray / Trojan，解鎖 ChatGPT / YouTube / Netflix，含使用教程。
-
-
-_Updated on September 15, 2025_ (A total of 2253 repositories listed.)
+_Updated on September 18, 2025_ (A total of 2258 repositories listed.)
 
 ## Table of contents
 
@@ -1064,6 +1052,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [gcli2api](https://github.com/su-kaka/gcli2api) - 將 GeminiCLI 轉換為 OpenAI 和 GEMINI API 介面
  * [nanocoder](https://github.com/mote-software/nanocoder) - 一個美麗的本地優先編碼代理在您的終端機上運行-由社區為社區建造 ⚒
  * [snapai](https://github.com/betomoedano/snapai) - 使用AI技術的圖標生成CLI，適用於React Native和Expo開發人員。使用OpenAI最新模型，在幾秒鐘內生成令人驚嘆的應用程序圖標。
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPT 是一個命令行工具，提供了一種方便的方式來與 OpenAI 模型互動，使用戶可以運行查詢，生成 shell 命令並直接從終端產生代碼。
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ 微軟 Fabric CLI
 
 
 ## Reimplementations
@@ -1480,6 +1470,7 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [dingo](https://github.com/migoxlab/dingo) - Dingo：一個全面的人工智慧數據質量評估工具
  * [coderunner](https://github.com/instavm/coderunner) - 一個安全的本地沙箱，可以在蘋果容器中運行由LLM生成的代碼
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - 使用OpenAI的Whisper构建实时语音转文本网络应用程序。https://openai.com/blog/whisper/
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作為與vision-LLMs（ChatGPT、Claude、Gemini）的接口。機器中的幽靈！
 
 
 ## Langchain
@@ -1941,6 +1932,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge 是一個強大的開源工具，它充當一座橋樑，讓你能通過任何兼容 OpenAI API 的應用程序（例如各類AI聊天客戶端、編程插件等）來使用 [LMArena.ai](https://lmarena.ai/) 網站上提供的海量先進測試大語言模型。
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - 使用克勞德代碼打開OpenAI API代理
  * [harvester](https://github.com/wzdnzd/harvester) - 智能數據收集框架，適用於GitHub和網絡來源
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 具有眼睛和耳朵的MCP多模式人工智能代理！
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus開通攻略：如何在國內充值訂閱ChatGPT Plus會員？如何購買ChatGPT Plus帳號和ChatGPT Pro帳號？本文會為大家重點介紹五種升級ChatGPT Plus會員的方法：拼車合租ChatGPT Plus帳號、購買ChatGPT Plus獨立帳號、為你的ChatGPT Plus代充值、使用蘋果Apple禮品卡充值ChatGPT Plus會員、使用國外的虛擬信用卡訂閱ChatGPT Plus會員。
 
 
 ## Others
