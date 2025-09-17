@@ -16,33 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 Building AI-based conversational avatars lightning fast ⚡️💬
- * [sparka](https://github.com/franciscomoretti/sparka) - AI Chat - Claude, ChatGPT, Gemini, and Grok. Advanced features, open-source, production-ready.
-
-
 **CLIs**
- * [nanocoder](https://github.com/mote-software/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
- * [snapai](https://github.com/betomoedano/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ Microsoft Fabric CLI
 
 
 **NLP**
- * [whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
-
-
-**Langchain**
- * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
 
 
 **Openai**
- * [harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - An MCP Multimodal AI Agent with eyes and ears!
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - Latest ChatGPT Plus Opening Guide: How to Recharge ChatGPT Plus Membership in China? How to Purchase ChatGPT Plus Account and ChatGPT Pro Account? This article will focus on introducing five methods to upgrade ChatGPT Plus membership: carpooling to share ChatGPT Plus account, purchasing ChatGPT Plus standalone account, recharging your ChatGPT Plus on behalf, recharging ChatGPT Plus membership with Apple gift card, subscribing to ChatGPT Plus membership using foreign virtual credit card.
 
 
-**Others**
- * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - Airport recommendation, 2025 latest scientific Internet access tutorial, airport actual test, providing free trial airport, compared with VPN, supporting Clash / V2Ray / Trojan, unlocking ChatGPT / YouTube / Netflix, including usage tutorial.
-
-
-_Updated on September 15, 2025_ (A total of 2253 repositories listed.)
+_Updated on September 18, 2025_ (A total of 2258 repositories listed.)
 
 ## Table of contents
 
@@ -1064,6 +1052,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [gcli2api](https://github.com/su-kaka/gcli2api) - Convert GeminiCLI to OpenAI and GEMINI API interfaces.
  * [nanocoder](https://github.com/mote-software/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
  * [snapai](https://github.com/betomoedano/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ Microsoft Fabric CLI
 
 
 ## Reimplementations
@@ -1480,6 +1470,7 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [dingo](https://github.com/migoxlab/dingo) - Dingo: A Comprehensive AI Data Quality Evaluation Tool
  * [coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
 
 
 ## Langchain
@@ -1941,6 +1932,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge is a powerful open-source tool that acts as a bridge, allowing you to use the massive advanced test large language models provided on the [LMArena.ai](https://lmarena.ai/) website through any application compatible with the OpenAI API (such as various AI chat clients, programming plugins, etc.).
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
  * [harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - An MCP Multimodal AI Agent with eyes and ears!
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - Latest ChatGPT Plus Opening Guide: How to Recharge ChatGPT Plus Membership in China? How to Purchase ChatGPT Plus Account and ChatGPT Pro Account? This article will focus on introducing five methods to upgrade ChatGPT Plus membership: carpooling to share ChatGPT Plus account, purchasing ChatGPT Plus standalone account, recharging your ChatGPT Plus on behalf, recharging ChatGPT Plus membership with Apple gift card, subscribing to ChatGPT Plus membership using foreign virtual credit card.
 
 
 ## Others

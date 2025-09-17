@@ -16,33 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 Building AI-based conversational avatars lightning fast ⚡️💬
- * [sparka](https://github.com/franciscomoretti/sparka) - AI Chat - Claude, ChatGPT, Gemini, and Grok. Advanced features, open-source, production-ready.
-
-
 **CLIs**
- * [nanocoder](https://github.com/mote-software/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
- * [snapai](https://github.com/betomoedano/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ Microsoft Fabric CLI
 
 
 **NLP**
- * [whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
-
-
-**Langchain**
- * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
 
 
 **Openai**
- * [harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - An MCP Multimodal AI Agent with eyes and ears!
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。
 
 
-**Others**
- * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 机场推荐,2025最新科学上网教程,机场实测,提供免费试用机场,与VPN对比,支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。
-
-
-_Updated on September 15, 2025_ (A total of 2253 repositories listed.)
+_Updated on September 18, 2025_ (A total of 2258 repositories listed.)
 
 ## Table of contents
 
@@ -1064,6 +1052,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [gcli2api](https://github.com/su-kaka/gcli2api) - 将 GeminiCLI 转换为 OpenAI 和 GEMINI API 接口
  * [nanocoder](https://github.com/mote-software/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
  * [snapai](https://github.com/betomoedano/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ Microsoft Fabric CLI
 
 
 ## Reimplementations
@@ -1480,6 +1470,7 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [dingo](https://github.com/migoxlab/dingo) - Dingo: A Comprehensive AI Data Quality Evaluation Tool
  * [coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
 
 
 ## Langchain
@@ -1941,6 +1932,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
  * [harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - An MCP Multimodal AI Agent with eyes and ears!
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。
 
 
 ## Others

@@ -16,33 +16,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 AIを活用した会話型アバターを超高速で構築 ⚡️💬
- * [sparka](https://github.com/franciscomoretti/sparka) - AI チャット - クロード、ChatGPT、ジェミニ、およびグロック。高度な機能、オープンソース、製品向け。
-
-
 **CLIs**
- * [nanocoder](https://github.com/mote-software/nanocoder) - ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
- * [snapai](https://github.com/betomoedano/snapai) - React NativeおよびExpo開発者向けのAIパワードアイコン生成CLI。OpenAIの最新モデルを使用して、数秒で見事なアプリアイコンを生成します。
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPTは、OpenAIモデルとやり取りする便利な方法を提供するコマンドラインツールであり、ユーザーがクエリを実行し、シェルコマンドを生成し、ターミナルから直接コードを生成することができます。
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ マイクロソフトファブリックCLI
 
 
 **NLP**
- * [whisper-playground](https://github.com/saharmor/whisper-playground) - OpenAIのWhisperを使用してリアルタイムの音声からテキストに変換するWebアプリを構築します。
-
-
-**Langchain**
- * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ PythonフリーのRust推論サーバー — OpenAI-API互換。GGUF + SafeTensors、ホットモデルスワップ、自動検出、シングルバイナリ。今すぐ無料、永久に無料。
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - reMarkable2をビジョン-LLMs（ChatGPT、Claude、Gemini）へのインターフェースとして使用します。機械の中の幽霊！
 
 
 **Openai**
- * [harvester](https://github.com/wzdnzd/harvester) - GitHubやWebソース向けのインテリジェントデータ取得フレームワーク
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 目と耳を持つMCPマルチモーダルAIエージェント！
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus開通攻略：国内でChatGPT Plus会員にサブスクリプションを購入する方法は？ChatGPT PlusアカウントとChatGPT Proアカウントを購入する方法は？この記事では、ChatGPT Plus会員にアップグレードするための5つの方法を重点的に紹介します：ChatGPT Plusアカウントを共有し、ChatGPT Plus独立アカウントを購入し、あなたのChatGPT Plusに代わってチャージする、Appleギフトカードを使用してChatGPT Plus会員にチャージする、海外の仮想クレジットカードを使用してChatGPT Plus会員にサブスクライブする。
 
 
-**Others**
- * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 空港推薦、2025年最新の科学的なインターネット接続のチュートリアル、空港での実地テスト、無料トライアル空港の提供、VPNとの比較、Clash/V2Ray/Trojanのサポート、ChatGPT/YouTube/Netflixのロック解除、使用方法の説明書を含む。
-
-
-_Updated on September 15, 2025_ (A total of 2253 repositories listed.)
+_Updated on September 18, 2025_ (A total of 2258 repositories listed.)
 
 ## Table of contents
 
@@ -1064,6 +1052,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [gcli2api](https://github.com/su-kaka/gcli2api) - GeminiCLIをOpenAIとGEMINI APIインターフェースに変換します。
  * [nanocoder](https://github.com/mote-software/nanocoder) - ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
  * [snapai](https://github.com/betomoedano/snapai) - React NativeおよびExpo開発者向けのAIパワードアイコン生成CLI。OpenAIの最新モデルを使用して、数秒で見事なアプリアイコンを生成します。
+ * [sgpt](https://github.com/tbckr/sgpt) - SGPTは、OpenAIモデルとやり取りする便利な方法を提供するコマンドラインツールであり、ユーザーがクエリを実行し、シェルコマンドを生成し、ターミナルから直接コードを生成することができます。
+ * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ マイクロソフトファブリックCLI
 
 
 ## Reimplementations
@@ -1480,6 +1470,7 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [dingo](https://github.com/migoxlab/dingo) - ディンゴ：包括的なAIデータ品質評価ツール
  * [coderunner](https://github.com/instavm/coderunner) - Appleコンテナを使用してLLM生成コードを実行するための安全なローカルサンドボックス
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - OpenAIのWhisperを使用してリアルタイムの音声からテキストに変換するWebアプリを構築します。
+ * [ghostwriter](https://github.com/awwaiid/ghostwriter) - reMarkable2をビジョン-LLMs（ChatGPT、Claude、Gemini）へのインターフェースとして使用します。機械の中の幽霊！
 
 
 ## Langchain
@@ -1941,6 +1932,8 @@ _Updated on September 15, 2025_ (A total of 2253 repositories listed.)
  * [LMArenaBridge](https://github.com/lianues/lmarenabridge) - LMArenaBridgeは、強力なオープンソースツールであり、OpenAI APIと互換性のあるあらゆるアプリケーション（例：さまざまなAIチャットクライアント、プログラミングプラグインなど）を介して、[LMArena.ai](https://lmarena.ai/)ウェブサイトで提供されている大規模な先進的な言語モデルを使用できるようにする橋渡しの役割を果たします。
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - OpenAI APIプロキシへのクロードコード
  * [harvester](https://github.com/wzdnzd/harvester) - GitHubやWebソース向けのインテリジェントデータ取得フレームワーク
+ * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 目と耳を持つMCPマルチモーダルAIエージェント！
+ * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus開通攻略：国内でChatGPT Plus会員にサブスクリプションを購入する方法は？ChatGPT PlusアカウントとChatGPT Proアカウントを購入する方法は？この記事では、ChatGPT Plus会員にアップグレードするための5つの方法を重点的に紹介します：ChatGPT Plusアカウントを共有し、ChatGPT Plus独立アカウントを購入し、あなたのChatGPT Plusに代わってチャージする、Appleギフトカードを使用してChatGPT Plus会員にチャージする、海外の仮想クレジットカードを使用してChatGPT Plus会員にサブスクライブする。
 
 
 ## Others
