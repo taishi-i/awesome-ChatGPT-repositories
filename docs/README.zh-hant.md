@@ -16,21 +16,34 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [simple-openai](https://github.com/sashirestela/simple-openai) - 一個Java庫，以最簡單的方式使用OpenAI Api。
+
+
+**Chatbots**
+ * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 一個可二次開發 Chat Bot 單輪對話 Web 端 MVP 原型模板，基於 Vue 3、Vite7、TypeScript、Naive UI、Pinia(v3)、UnoCSS 等主流技術構建，🧤簡單集成大模型 API，採用單輪 AI 問答對話模式，每次提問獨立響應，無需上下文，支持 SSE 打字機效果流式輸出，集成 markdown-it Mermaid/KaTex/LaTex 公式高亮預覽，星火、智譜、矽基流動、Deepseek V3/R1 深度思考推理模型預覽。
+ * [TuyaOpen](https://github.com/tuya/tuyaopen) - 下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成
+
+
+**Browser-extensions**
+ * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可擴展，多種輸出格式，提供大語言模型聊天服務的插件 | 一個用於LLM聊天的機器人插件，具有多模型集成、可擴展性和各種輸出格式。
+
+
 **CLIs**
- * [sgpt](https://github.com/tbckr/sgpt) - SGPT 是一個命令行工具，提供了一種方便的方式來與 OpenAI 模型互動，使用戶可以運行查詢，生成 shell 命令並直接從終端產生代碼。
- * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ 微軟 Fabric CLI
+ * [AIProxySwift](https://github.com/lzell/aiproxyswift) - 快速客戶端供應商。可以直接向供應商發送請求，或通過我們的API金鑰保護後端代理。
+ * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - 將Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code包裝為一個OpenAI/Gemini/Claude/Codex相容的API服務，讓您可以通過API享受免費的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
 
 
 **NLP**
- * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作為與vision-LLMs（ChatGPT、Claude、Gemini）的接口。機器中的幽靈！
+ * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - 展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。
 
 
 **Openai**
- * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 具有眼睛和耳朵的MCP多模式人工智能代理！
- * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus開通攻略：如何在國內充值訂閱ChatGPT Plus會員？如何購買ChatGPT Plus帳號和ChatGPT Pro帳號？本文會為大家重點介紹五種升級ChatGPT Plus會員的方法：拼車合租ChatGPT Plus帳號、購買ChatGPT Plus獨立帳號、為你的ChatGPT Plus代充值、使用蘋果Apple禮品卡充值ChatGPT Plus會員、使用國外的虛擬信用卡訂閱ChatGPT Plus會員。
+ * [openai-ruby](https://github.com/openai/openai-ruby) - 在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼
+ * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - 谷歌的NotebookLM但是本地
 
 
-_Updated on September 18, 2025_ (A total of 2258 repositories listed.)
+_Updated on September 22, 2025_ (A total of 2266 repositories listed.)
 
 ## Table of contents
 
@@ -134,6 +147,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 精選的超棒使用者腳本清單。
  * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 一個精心挑選的🌌 Azure OpenAI、🦙 大型語言模型（包括RAG、Agent）以及帶有備忘錄的參考資料清單。
  * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 一個排名優秀的機器學習Python庫列表。每週更新。
+ * [simple-openai](https://github.com/sashirestela/simple-openai) - 一個Java庫，以最簡單的方式使用OpenAI Api。
 
 
 ## Prompts
@@ -644,6 +658,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [WeKnora](https://github.com/tencent/weknora) - 以LLM為動力的框架，用於深度文件理解、語義檢索和上下文感知答案，採用RAG範式。
  * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 建立基於人工智慧的對話化頭像，速度快如閃電 ⚡️💬
  * [sparka](https://github.com/franciscomoretti/sparka) - AI 聊天 - Claude、ChatGPT、Gemini 和 Grok。高級功能，開源，可投入生產。
+ * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 一個可二次開發 Chat Bot 單輪對話 Web 端 MVP 原型模板，基於 Vue 3、Vite7、TypeScript、Naive UI、Pinia(v3)、UnoCSS 等主流技術構建，🧤簡單集成大模型 API，採用單輪 AI 問答對話模式，每次提問獨立響應，無需上下文，支持 SSE 打字機效果流式輸出，集成 markdown-it Mermaid/KaTex/LaTex 公式高亮預覽，星火、智譜、矽基流動、Deepseek V3/R1 深度思考推理模型預覽。
+ * [TuyaOpen](https://github.com/tuya/tuyaopen) - 下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成
 
 
 ## Browser-extensions
@@ -872,6 +888,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 陪讀蛙 - 開源沉浸式翻譯
  * [koog](https://github.com/jetbrains/koog) - Koog 是官方的 Kotlin 框架，用於構建和運行強大、可擴展和生產就緒的 AI 代理，可在所有平台上使用 - 從後端服務到 Android、JVM，甚至在瀏覽器環境中。Koog 基於我們的 AI 產品專業知識。
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP伺服器+Unity編輯器和Unity遊戲的插件。該插件允許連接到像Claude Desktop或其他MCP客戶端。
+ * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可擴展，多種輸出格式，提供大語言模型聊天服務的插件 | 一個用於LLM聊天的機器人插件，具有多模型集成、可擴展性和各種輸出格式。
 
 
 ## CLIs
@@ -1054,6 +1071,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [snapai](https://github.com/betomoedano/snapai) - 使用AI技術的圖標生成CLI，適用於React Native和Expo開發人員。使用OpenAI最新模型，在幾秒鐘內生成令人驚嘆的應用程序圖標。
  * [sgpt](https://github.com/tbckr/sgpt) - SGPT 是一個命令行工具，提供了一種方便的方式來與 OpenAI 模型互動，使用戶可以運行查詢，生成 shell 命令並直接從終端產生代碼。
  * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ 微軟 Fabric CLI
+ * [AIProxySwift](https://github.com/lzell/aiproxyswift) - 快速客戶端供應商。可以直接向供應商發送請求，或通過我們的API金鑰保護後端代理。
+ * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - 將Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code包裝為一個OpenAI/Gemini/Claude/Codex相容的API服務，讓您可以通過API享受免費的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
 
 
 ## Reimplementations
@@ -1471,6 +1490,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [coderunner](https://github.com/instavm/coderunner) - 一個安全的本地沙箱，可以在蘋果容器中運行由LLM生成的代碼
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - 使用OpenAI的Whisper构建实时语音转文本网络应用程序。https://openai.com/blog/whisper/
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作為與vision-LLMs（ChatGPT、Claude、Gemini）的接口。機器中的幽靈！
+ * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - 展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。
 
 
 ## Langchain
@@ -1933,7 +1953,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - 使用克勞德代碼打開OpenAI API代理
  * [harvester](https://github.com/wzdnzd/harvester) - 智能數據收集框架，適用於GitHub和網絡來源
  * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 具有眼睛和耳朵的MCP多模式人工智能代理！
- * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus開通攻略：如何在國內充值訂閱ChatGPT Plus會員？如何購買ChatGPT Plus帳號和ChatGPT Pro帳號？本文會為大家重點介紹五種升級ChatGPT Plus會員的方法：拼車合租ChatGPT Plus帳號、購買ChatGPT Plus獨立帳號、為你的ChatGPT Plus代充值、使用蘋果Apple禮品卡充值ChatGPT Plus會員、使用國外的虛擬信用卡訂閱ChatGPT Plus會員。
+ * [openai-ruby](https://github.com/openai/openai-ruby) - 在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼
+ * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - 谷歌的NotebookLM但是本地
 
 
 ## Others

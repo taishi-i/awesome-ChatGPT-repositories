@@ -16,21 +16,34 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [simple-openai](https://github.com/sashirestela/simple-openai) - 最も簡単な方法でOpenAI Apiを使用するためのJavaライブラリ。
+
+
+**Chatbots**
+ * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 Vue 3、Vite7、TypeScript、Naive UI、Pinia(v3)、UnoCSSなどの主要技術を使用して構築された、二次開発可能なChat Botの単一対話Web MVPプロトタイプテンプレート。🧤簡単に大規模APIを統合し、単一対話AI質問応答モードを採用し、各質問に独立して応答し、コンテキストを必要とせず、SSEタイプライターエフェクトのストリーミング出力をサポートし、markdown-it、Mermaid/KaTex/LaTexの数式ハイライトプレビューを統合し、星火、智谱、硅基流動、Deepseek V3/R1の深い思考推論モデルプレビューを提供します。
+ * [TuyaOpen](https://github.com/tuya/tuyaopen) - 次世代AI+IoTフレームワーク、T2/T3/T5AI/ESP32/およびその他向け - 高速IoTおよびAIエージェントハードウェアの統合
+
+
+**Browser-extensions**
+ * [chatluna](https://github.com/chatlunalab/chatluna) - LLMチャット用のボットプラグイン、マルチモデル統合、拡張性、さまざまな出力形式を備えています。
+
+
 **CLIs**
- * [sgpt](https://github.com/tbckr/sgpt) - SGPTは、OpenAIモデルとやり取りする便利な方法を提供するコマンドラインツールであり、ユーザーがクエリを実行し、シェルコマンドを生成し、ターミナルから直接コードを生成することができます。
- * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ マイクロソフトファブリックCLI
+ * [AIProxySwift](https://github.com/lzell/aiproxyswift) - AIプロバイダー向けのSwiftクライアント。プロバイダーに直接リクエストを送信するか、当社のAPIキー保護バックエンドを介してプロキシされることができます。
+ * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - ジェミニCLI、ChatGPT Codex、Claude Code、Qwen CodeをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPIを通じて利用できるようにします。
 
 
 **NLP**
- * [ghostwriter](https://github.com/awwaiid/ghostwriter) - reMarkable2をビジョン-LLMs（ChatGPT、Claude、Gemini）へのインターフェースとして使用します。機械の中の幽霊！
+ * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Spring AIとSpring Bootを使用して、Generative AIとLLMsによって動作するJavaアプリケーションを構築する方法を示すサンプル。
 
 
 **Openai**
- * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 目と耳を持つMCPマルチモーダルAIエージェント！
- * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus開通攻略：国内でChatGPT Plus会員にサブスクリプションを購入する方法は？ChatGPT PlusアカウントとChatGPT Proアカウントを購入する方法は？この記事では、ChatGPT Plus会員にアップグレードするための5つの方法を重点的に紹介します：ChatGPT Plusアカウントを共有し、ChatGPT Plus独立アカウントを購入し、あなたのChatGPT Plusに代わってチャージする、Appleギフトカードを使用してChatGPT Plus会員にチャージする、海外の仮想クレジットカードを使用してChatGPT Plus会員にサブスクライブする。
+ * [openai-ruby](https://github.com/openai/openai-ruby) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
+ * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - GoogleのNotebookLMですが、ローカルです
 
 
-_Updated on September 18, 2025_ (A total of 2258 repositories listed.)
+_Updated on September 22, 2025_ (A total of 2266 repositories listed.)
 
 ## Table of contents
 
@@ -134,6 +147,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖 素晴らしいユーザースクリプトの厳選リスト。
  * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 🌌 Azure OpenAI、🦙 ラージランゲージモデル（RAG、Agentを含む）、メモ付きの参照リスト
  * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 素晴らしい機械学習Pythonライブラリのランク付けリスト。毎週更新されます。
+ * [simple-openai](https://github.com/sashirestela/simple-openai) - 最も簡単な方法でOpenAI Apiを使用するためのJavaライブラリ。
 
 
 ## Prompts
@@ -644,6 +658,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [WeKnora](https://github.com/tencent/weknora) - RAGパラダイムを使用した深いドキュメント理解、意味的検索、およびコンテキストに応じた回答のためのLLMパワードフレームワーク。
  * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 AIを活用した会話型アバターを超高速で構築 ⚡️💬
  * [sparka](https://github.com/franciscomoretti/sparka) - AI チャット - クロード、ChatGPT、ジェミニ、およびグロック。高度な機能、オープンソース、製品向け。
+ * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 Vue 3、Vite7、TypeScript、Naive UI、Pinia(v3)、UnoCSSなどの主要技術を使用して構築された、二次開発可能なChat Botの単一対話Web MVPプロトタイプテンプレート。🧤簡単に大規模APIを統合し、単一対話AI質問応答モードを採用し、各質問に独立して応答し、コンテキストを必要とせず、SSEタイプライターエフェクトのストリーミング出力をサポートし、markdown-it、Mermaid/KaTex/LaTexの数式ハイライトプレビューを統合し、星火、智谱、硅基流動、Deepseek V3/R1の深い思考推論モデルプレビューを提供します。
+ * [TuyaOpen](https://github.com/tuya/tuyaopen) - 次世代AI+IoTフレームワーク、T2/T3/T5AI/ESP32/およびその他向け - 高速IoTおよびAIエージェントハードウェアの統合
 
 
 ## Browser-extensions
@@ -872,6 +888,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 読むカエル - オープンソースの没入型翻訳 | 🐸 陪読蛙 - オープンソースの没入型翻訳
  * [koog](https://github.com/jetbrains/koog) - Koogは、バックエンドサービスからAndroid、JVM、さらにはブラウザ環境まで、あらゆるプラットフォームで頑丈でスケーラブルで本番向けのAIエージェントを構築および実行するための公式のKotlinフレームワークです。Koogは、私たちのAI製品の専門知識に基づいています。
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCPサーバー+UnityエディターおよびUnityゲーム用のプラグイン。このプラグインを使用すると、Claude DesktopなどのMCPクライアントに接続できます。
+ * [chatluna](https://github.com/chatlunalab/chatluna) - LLMチャット用のボットプラグイン、マルチモデル統合、拡張性、さまざまな出力形式を備えています。
 
 
 ## CLIs
@@ -1054,6 +1071,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [snapai](https://github.com/betomoedano/snapai) - React NativeおよびExpo開発者向けのAIパワードアイコン生成CLI。OpenAIの最新モデルを使用して、数秒で見事なアプリアイコンを生成します。
  * [sgpt](https://github.com/tbckr/sgpt) - SGPTは、OpenAIモデルとやり取りする便利な方法を提供するコマンドラインツールであり、ユーザーがクエリを実行し、シェルコマンドを生成し、ターミナルから直接コードを生成することができます。
  * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ マイクロソフトファブリックCLI
+ * [AIProxySwift](https://github.com/lzell/aiproxyswift) - AIプロバイダー向けのSwiftクライアント。プロバイダーに直接リクエストを送信するか、当社のAPIキー保護バックエンドを介してプロキシされることができます。
+ * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - ジェミニCLI、ChatGPT Codex、Claude Code、Qwen CodeをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPIを通じて利用できるようにします。
 
 
 ## Reimplementations
@@ -1471,6 +1490,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [coderunner](https://github.com/instavm/coderunner) - Appleコンテナを使用してLLM生成コードを実行するための安全なローカルサンドボックス
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - OpenAIのWhisperを使用してリアルタイムの音声からテキストに変換するWebアプリを構築します。
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - reMarkable2をビジョン-LLMs（ChatGPT、Claude、Gemini）へのインターフェースとして使用します。機械の中の幽霊！
+ * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Spring AIとSpring Bootを使用して、Generative AIとLLMsによって動作するJavaアプリケーションを構築する方法を示すサンプル。
 
 
 ## Langchain
@@ -1933,7 +1953,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - OpenAI APIプロキシへのクロードコード
  * [harvester](https://github.com/wzdnzd/harvester) - GitHubやWebソース向けのインテリジェントデータ取得フレームワーク
  * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 目と耳を持つMCPマルチモーダルAIエージェント！
- * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus開通攻略：国内でChatGPT Plus会員にサブスクリプションを購入する方法は？ChatGPT PlusアカウントとChatGPT Proアカウントを購入する方法は？この記事では、ChatGPT Plus会員にアップグレードするための5つの方法を重点的に紹介します：ChatGPT Plusアカウントを共有し、ChatGPT Plus独立アカウントを購入し、あなたのChatGPT Plusに代わってチャージする、Appleギフトカードを使用してChatGPT Plus会員にチャージする、海外の仮想クレジットカードを使用してChatGPT Plus会員にサブスクライブする。
+ * [openai-ruby](https://github.com/openai/openai-ruby) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
+ * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - GoogleのNotebookLMですが、ローカルです
 
 
 ## Others
