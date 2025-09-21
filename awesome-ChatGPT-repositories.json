@@ -2169,6 +2169,41 @@
                     "zh-hans": "🏆 一份排名靠前的机器学习Python库列表。每周更新。",
                     "zh-hant": "🏆 一個排名優秀的機器學習Python庫列表。每週更新。"
                 }
+            },
+            "https://github.com/sashirestela/simple-openai": {
+                "repository_name": "simple-openai",
+                "user_name": "sashirestela",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "A Java library to use the OpenAI Api in the simplest possible way.",
+                "topics": [
+                    "ai",
+                    "api",
+                    "awesome",
+                    "azure-openai",
+                    "chatgpt",
+                    "client",
+                    "deepseek",
+                    "gemini",
+                    "gen-ai",
+                    "generative-ai",
+                    "gpt",
+                    "httpclient",
+                    "java",
+                    "llm",
+                    "mistral",
+                    "okhttp",
+                    "openai",
+                    "realtime",
+                    "simple",
+                    "websocket"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Java library to use the OpenAI Api in the simplest possible way.",
+                    "ja": "最も簡単な方法でOpenAI Apiを使用するためのJavaライブラリ。",
+                    "zh-hans": "一个用于以最简单方式使用OpenAI Api的Java库。",
+                    "zh-hant": "一個Java庫，以最簡單的方式使用OpenAI Api。"
+                }
             }
         },
         "Prompts": {
@@ -14492,6 +14527,71 @@
                     "zh-hans": "AI聊天 - Claude，ChatGPT，Gemini和Grok。高级功能，开源，可投入生产。",
                     "zh-hant": "AI 聊天 - Claude、ChatGPT、Gemini 和 Grok。高級功能，開源，可投入生產。"
                 }
+            },
+            "https://github.com/pdsuwwz/chatgpt-vue3-light-mvp": {
+                "repository_name": "chatgpt-vue3-light-mvp",
+                "user_name": "pdsuwwz",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "💭 一个可二次开发 Chat Bot 单轮对话 Web 端 MVP 原型模板, 基于 Vue 3, Vite7, TypeScript, Naive UI, Pinia(v3), UnoCSS 等主流技术构建, 🧤简单集成大模型 API, 采用单轮 AI 问答对话模式, 每次提问独立响应, 无需上下文, 支持 SSE 打字机效果流式输出, 集成 markdown-it  Mermaid/KaTex/LaTex 公式高亮预览, 星火, 智谱, 硅基流动, Deepseek V3/R1 深度思考推理模型预览, 兼容 <think> 标签, 💼 易于定制和快速搭建 Chat  类大语言模型产品 (附示例截图)",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "chatbot",
+                    "deepseek",
+                    "event",
+                    "glm",
+                    "gpt",
+                    "kimi",
+                    "llm",
+                    "moonshot",
+                    "ollama",
+                    "openai",
+                    "qwen",
+                    "reasoner",
+                    "siliconcloud",
+                    "siliconflow",
+                    "source",
+                    "spark",
+                    "stream",
+                    "ts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "💭 A Chat Bot single-round dialogue web MVP prototype template that can be redeveloped, built based on mainstream technologies such as Vue 3, Vite7, TypeScript, Naive UI, Pinia(v3), UnoCSS, 🧤 simple integration of large model APIs, adopting a single-round AI question and answer dialogue mode, independent response to each question, no need for context, supporting SSE typewriter effect streaming output, integrating markdown-it Mermaid/KaTex/LaTex formula highlighting preview, preview of Starfire, Zhifu, Silicon-based flow, Deepseek V3/R1 deep thinking reasoning model.",
+                    "ja": "💭 Vue 3、Vite7、TypeScript、Naive UI、Pinia(v3)、UnoCSSなどの主要技術を使用して構築された、二次開発可能なChat Botの単一対話Web MVPプロトタイプテンプレート。🧤簡単に大規模APIを統合し、単一対話AI質問応答モードを採用し、各質問に独立して応答し、コンテキストを必要とせず、SSEタイプライターエフェクトのストリーミング出力をサポートし、markdown-it、Mermaid/KaTex/LaTexの数式ハイライトプレビューを統合し、星火、智谱、硅基流動、Deepseek V3/R1の深い思考推論モデルプレビューを提供します。",
+                    "zh-hans": "💭一个可二次开发的Chat Bot单轮对话Web端MVP原型模板，基于Vue 3，Vite7，TypeScript，Naive UI，Pinia(v3)，UnoCSS等主流技术构建，🧤简单集成大模型API，采用单轮AI问答对话模式，每次提问独立响应，无需上下文，支持SSE打字机效果流式输出，集成markdown-it Mermaid/KaTex/LaTex公式高亮预览，星火，智谱，硅基流动，Deepseek V3/R1深度思考推理模型预览。",
+                    "zh-hant": "💭 一個可二次開發 Chat Bot 單輪對話 Web 端 MVP 原型模板，基於 Vue 3、Vite7、TypeScript、Naive UI、Pinia(v3)、UnoCSS 等主流技術構建，🧤簡單集成大模型 API，採用單輪 AI 問答對話模式，每次提問獨立響應，無需上下文，支持 SSE 打字機效果流式輸出，集成 markdown-it Mermaid/KaTex/LaTex 公式高亮預覽，星火、智譜、矽基流動、Deepseek V3/R1 深度思考推理模型預覽。"
+                }
+            },
+            "https://github.com/tuya/tuyaopen": {
+                "repository_name": "TuyaOpen",
+                "user_name": "tuya",
+                "language": "C",
+                "license": "Other",
+                "description": "Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "ai",
+                    "aiot",
+                    "asr",
+                    "chatbot",
+                    "chatgpt",
+                    "deepseek",
+                    "gemini",
+                    "hardware",
+                    "iot",
+                    "llm",
+                    "smart-hardware",
+                    "tuya",
+                    "tuyaopen"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration",
+                    "ja": "次世代AI+IoTフレームワーク、T2/T3/T5AI/ESP32/およびその他向け - 高速IoTおよびAIエージェントハードウェアの統合",
+                    "zh-hans": "下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成",
+                    "zh-hant": "下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成"
+                }
             }
         },
         "Browser-extensions": {
@@ -19760,6 +19860,41 @@
                     "zh-hans": "MCP服务器+Unity编辑器和Unity游戏的插件。该插件允许连接到像Claude Desktop等MCP客户端。",
                     "zh-hant": "MCP伺服器+Unity編輯器和Unity遊戲的插件。該插件允許連接到像Claude Desktop或其他MCP客戶端。"
                 }
+            },
+            "https://github.com/chatlunalab/chatluna": {
+                "repository_name": "chatluna",
+                "user_name": "ChatLunaLab",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats",
+                "topics": [
+                    "ai",
+                    "bot",
+                    "chatbot",
+                    "chatglm",
+                    "chatgpt",
+                    "claude",
+                    "deepseek",
+                    "deepseek-v3",
+                    "gemini",
+                    "gpt",
+                    "gpt-4o",
+                    "koishi",
+                    "langchain",
+                    "llm",
+                    "mcp-client",
+                    "openai",
+                    "plugin",
+                    "qq-bot",
+                    "qwen",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats",
+                    "ja": "LLMチャット用のボットプラグイン、マルチモデル統合、拡張性、さまざまな出力形式を備えています。",
+                    "zh-hans": "一个用于LLM聊天的机器人插件，具有多模型集成、可扩展性和多种输出格式。",
+                    "zh-hant": "多平台模型接入，可擴展，多種輸出格式，提供大語言模型聊天服務的插件 | 一個用於LLM聊天的機器人插件，具有多模型集成、可擴展性和各種輸出格式。"
+                }
             }
         },
         "CLIs": {
@@ -24028,6 +24163,46 @@
                     "ja": "⚡ マイクロソフトファブリックCLI",
                     "zh-hans": "⚡ 微软 Fabric CLI",
                     "zh-hant": "⚡ 微軟 Fabric CLI"
+                }
+            },
+            "https://github.com/lzell/aiproxyswift": {
+                "repository_name": "AIProxySwift",
+                "user_name": "lzell",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend",
+                "topics": [
+                    "client",
+                    "openai",
+                    "replicate",
+                    "swift"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend",
+                    "ja": "AIプロバイダー向けのSwiftクライアント。プロバイダーに直接リクエストを送信するか、当社のAPIキー保護バックエンドを介してプロキシされることができます。",
+                    "zh-hans": "AI供应商的Swift客户端。可以直接向供应商发出请求，也可以通过我们的API密钥保护后端代理。",
+                    "zh-hant": "快速客戶端供應商。可以直接向供應商發送請求，或通過我們的API金鑰保護後端代理。"
+                }
+            },
+            "https://github.com/router-for-me/cliproxyapi": {
+                "repository_name": "CLIProxyAPI",
+                "user_name": "router-for-me",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
+                "topics": [
+                    "claude-code",
+                    "cluade",
+                    "codex",
+                    "gemini",
+                    "openai",
+                    "qwen3-coder"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
+                    "ja": "ジェミニCLI、ChatGPT Codex、Claude Code、Qwen CodeをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPIを通じて利用できるようにします。",
+                    "zh-hans": "将Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您可以通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。",
+                    "zh-hant": "將Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code包裝為一個OpenAI/Gemini/Claude/Codex相容的API服務，讓您可以通過API享受免費的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。"
                 }
             }
         },
@@ -33002,6 +33177,29 @@
                     "ja": "reMarkable2をビジョン-LLMs（ChatGPT、Claude、Gemini）へのインターフェースとして使用します。機械の中の幽霊！",
                     "zh-hans": "使用reMarkable2作为与视觉LLMs（ChatGPT、Claude、Gemini）的接口。机器中的幽灵！",
                     "zh-hant": "使用reMarkable2作為與vision-LLMs（ChatGPT、Claude、Gemini）的接口。機器中的幽靈！"
+                }
+            },
+            "https://github.com/thomasvitale/llm-apps-java-spring-ai": {
+                "repository_name": "llm-apps-java-spring-ai",
+                "user_name": "ThomasVitale",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.",
+                "topics": [
+                    "embeddings",
+                    "generative-ai",
+                    "large-language-models",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "rag",
+                    "spring-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.",
+                    "ja": "Spring AIとSpring Bootを使用して、Generative AIとLLMsによって動作するJavaアプリケーションを構築する方法を示すサンプル。",
+                    "zh-hans": "展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。",
+                    "zh-hant": "展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。"
                 }
             }
         },
@@ -43254,6 +43452,47 @@
                     "ja": "最新ChatGPT Plus開通攻略：国内でChatGPT Plus会員にサブスクリプションを購入する方法は？ChatGPT PlusアカウントとChatGPT Proアカウントを購入する方法は？この記事では、ChatGPT Plus会員にアップグレードするための5つの方法を重点的に紹介します：ChatGPT Plusアカウントを共有し、ChatGPT Plus独立アカウントを購入し、あなたのChatGPT Plusに代わってチャージする、Appleギフトカードを使用してChatGPT Plus会員にチャージする、海外の仮想クレジットカードを使用してChatGPT Plus会員にサブスクライブする。",
                     "zh-hans": "最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。",
                     "zh-hant": "最新ChatGPT Plus開通攻略：如何在國內充值訂閱ChatGPT Plus會員？如何購買ChatGPT Plus帳號和ChatGPT Pro帳號？本文會為大家重點介紹五種升級ChatGPT Plus會員的方法：拼車合租ChatGPT Plus帳號、購買ChatGPT Plus獨立帳號、為你的ChatGPT Plus代充值、使用蘋果Apple禮品卡充值ChatGPT Plus會員、使用國外的虛擬信用卡訂閱ChatGPT Plus會員。"
+                }
+            },
+            "https://github.com/openai/openai-ruby": {
+                "repository_name": "openai-ruby",
+                "user_name": "openai",
+                "language": "Python",
+                "license": null,
+                "description": "code for reproducing some of the diagrams in the paper \"Multimodal Neurons in Artificial Neural Networks\"",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "code for reproducing some of the diagrams in the paper \"Multimodal Neurons in Artificial Neural Networks\"",
+                    "ja": "論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード",
+                    "zh-hans": "在论文《人工神经网络中的多模态神经元》中重现一些图表的代码",
+                    "zh-hant": "在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼"
+                }
+            },
+            "https://github.com/goekdeniz-guelmez/local-notebooklm": {
+                "repository_name": "Local-NotebookLM",
+                "user_name": "Goekdeniz-Guelmez",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Googles NotebookLM but local",
+                "topics": [
+                    "anthropic-api",
+                    "anthropic-claude",
+                    "dl",
+                    "elevenlabs-api",
+                    "gemini-api",
+                    "gen",
+                    "groq-api",
+                    "ml",
+                    "notebook",
+                    "openai",
+                    "openai-api",
+                    "python3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Googles NotebookLM but local",
+                    "ja": "GoogleのNotebookLMですが、ローカルです",
+                    "zh-hans": "谷歌的NotebookLM但是本地",
+                    "zh-hant": "谷歌的NotebookLM但是本地"
                 }
             }
         },

@@ -16,21 +16,34 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [simple-openai](https://github.com/sashirestela/simple-openai) - A Java library to use the OpenAI Api in the simplest possible way.
+
+
+**Chatbots**
+ * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 一个可二次开发 Chat Bot 单轮对话 Web 端 MVP 原型模板, 基于 Vue 3, Vite7, TypeScript, Naive UI, Pinia(v3), UnoCSS 等主流技术构建, 🧤简单集成大模型 API, 采用单轮 AI 问答对话模式, 每次提问独立响应, 无需上下文, 支持 SSE 打字机效果流式输出, 集成 markdown-it  Mermaid/KaTex/LaTex 公式高亮预览, 星火, 智谱, 硅基流动, Deepseek V3/R1 深度思考推理模型预览, 兼容 <think> 标签, 💼 易于定制和快速搭建 Chat  类大语言模型产品 (附示例截图)
+ * [TuyaOpen](https://github.com/tuya/tuyaopen) - Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration
+
+
+**Browser-extensions**
+ * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
+
+
 **CLIs**
- * [sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
- * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ Microsoft Fabric CLI
+ * [AIProxySwift](https://github.com/lzell/aiproxyswift) - Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend
+ * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 
 
 **NLP**
- * [ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
+ * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.
 
 
 **Openai**
- * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - An MCP Multimodal AI Agent with eyes and ears!
- * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。
+ * [openai-ruby](https://github.com/openai/openai-ruby) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
+ * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - Googles NotebookLM but local
 
 
-_Updated on September 18, 2025_ (A total of 2258 repositories listed.)
+_Updated on September 22, 2025_ (A total of 2266 repositories listed.)
 
 ## Table of contents
 
@@ -134,6 +147,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.
  * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
  * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+ * [simple-openai](https://github.com/sashirestela/simple-openai) - A Java library to use the OpenAI Api in the simplest possible way.
 
 
 ## Prompts
@@ -644,6 +658,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [WeKnora](https://github.com/tencent/weknora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
  * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 Building AI-based conversational avatars lightning fast ⚡️💬
  * [sparka](https://github.com/franciscomoretti/sparka) - AI Chat - Claude, ChatGPT, Gemini, and Grok. Advanced features, open-source, production-ready.
+ * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 一个可二次开发 Chat Bot 单轮对话 Web 端 MVP 原型模板, 基于 Vue 3, Vite7, TypeScript, Naive UI, Pinia(v3), UnoCSS 等主流技术构建, 🧤简单集成大模型 API, 采用单轮 AI 问答对话模式, 每次提问独立响应, 无需上下文, 支持 SSE 打字机效果流式输出, 集成 markdown-it  Mermaid/KaTex/LaTex 公式高亮预览, 星火, 智谱, 硅基流动, Deepseek V3/R1 深度思考推理模型预览, 兼容 <think> 标签, 💼 易于定制和快速搭建 Chat  类大语言模型产品 (附示例截图)
+ * [TuyaOpen](https://github.com/tuya/tuyaopen) - Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration
 
 
 ## Browser-extensions
@@ -872,6 +888,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
  * [koog](https://github.com/jetbrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.
+ * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
 
 
 ## CLIs
@@ -1054,6 +1071,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [snapai](https://github.com/betomoedano/snapai) - AI-powered icon generation CLI for React Native & Expo developers. Generate stunning app icons in seconds using OpenAI's latest models.
  * [sgpt](https://github.com/tbckr/sgpt) - SGPT is a command-line tool that provides a convenient way to interact with OpenAI models, enabling users to run queries, generate shell commands and produce code directly from the terminal.
  * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ Microsoft Fabric CLI
+ * [AIProxySwift](https://github.com/lzell/aiproxyswift) - Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend
+ * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
 
 
 ## Reimplementations
@@ -1471,6 +1490,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [coderunner](https://github.com/instavm/coderunner) - A secure local sandbox to run LLM-generated code using Apple containers
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
+ * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.
 
 
 ## Langchain
@@ -1933,7 +1953,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
  * [harvester](https://github.com/wzdnzd/harvester) - Intelligent data acquisition framework for GitHub and web sources
  * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - An MCP Multimodal AI Agent with eyes and ears!
- * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。
+ * [openai-ruby](https://github.com/openai/openai-ruby) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
+ * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - Googles NotebookLM but local
 
 
 ## Others

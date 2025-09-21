@@ -16,21 +16,34 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [simple-openai](https://github.com/sashirestela/simple-openai) - 一个用于以最简单方式使用OpenAI Api的Java库。
+
+
+**Chatbots**
+ * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭一个可二次开发的Chat Bot单轮对话Web端MVP原型模板，基于Vue 3，Vite7，TypeScript，Naive UI，Pinia(v3)，UnoCSS等主流技术构建，🧤简单集成大模型API，采用单轮AI问答对话模式，每次提问独立响应，无需上下文，支持SSE打字机效果流式输出，集成markdown-it Mermaid/KaTex/LaTex公式高亮预览，星火，智谱，硅基流动，Deepseek V3/R1深度思考推理模型预览。
+ * [TuyaOpen](https://github.com/tuya/tuyaopen) - 下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成
+
+
+**Browser-extensions**
+ * [chatluna](https://github.com/chatlunalab/chatluna) - 一个用于LLM聊天的机器人插件，具有多模型集成、可扩展性和多种输出格式。
+
+
 **CLIs**
- * [sgpt](https://github.com/tbckr/sgpt) - SGPT是一个命令行工具，为用户提供了一个方便的方式与OpenAI模型进行交互，使用户能够在终端上运行查询，生成shell命令并直接生成代码。
- * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ 微软 Fabric CLI
+ * [AIProxySwift](https://github.com/lzell/aiproxyswift) - AI供应商的Swift客户端。可以直接向供应商发出请求，也可以通过我们的API密钥保护后端代理。
+ * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - 将Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您可以通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
 
 
 **NLP**
- * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作为与视觉LLMs（ChatGPT、Claude、Gemini）的接口。机器中的幽灵！
+ * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - 展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。
 
 
 **Openai**
- * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 一个具有眼睛和耳朵的MCP多模态人工智能代理！
- * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。
+ * [openai-ruby](https://github.com/openai/openai-ruby) - 在论文《人工神经网络中的多模态神经元》中重现一些图表的代码
+ * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - 谷歌的NotebookLM但是本地
 
 
-_Updated on September 18, 2025_ (A total of 2258 repositories listed.)
+_Updated on September 22, 2025_ (A total of 2266 repositories listed.)
 
 ## Table of contents
 
@@ -134,6 +147,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - 📖  一个精心策划的用户脚本精选列表。
  * [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - 一个精心筛选的🌌 Azure OpenAI，🦙 大型语言模型（包括RAG，Agent），以及带备忘录的参考资料列表。
  * [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 一份排名靠前的机器学习Python库列表。每周更新。
+ * [simple-openai](https://github.com/sashirestela/simple-openai) - 一个用于以最简单方式使用OpenAI Api的Java库。
 
 
 ## Prompts
@@ -644,6 +658,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [WeKnora](https://github.com/tencent/weknora) - LLM 强化的框架，用于深度文档理解、语义检索和上下文感知答案，采用 RAG 范式。
  * [aiavatarkit](https://github.com/uezo/aiavatarkit) - 🥰 构建基于人工智能的对话化头像，速度快如闪电 ⚡️💬
  * [sparka](https://github.com/franciscomoretti/sparka) - AI聊天 - Claude，ChatGPT，Gemini和Grok。高级功能，开源，可投入生产。
+ * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭一个可二次开发的Chat Bot单轮对话Web端MVP原型模板，基于Vue 3，Vite7，TypeScript，Naive UI，Pinia(v3)，UnoCSS等主流技术构建，🧤简单集成大模型API，采用单轮AI问答对话模式，每次提问独立响应，无需上下文，支持SSE打字机效果流式输出，集成markdown-it Mermaid/KaTex/LaTex公式高亮预览，星火，智谱，硅基流动，Deepseek V3/R1深度思考推理模型预览。
+ * [TuyaOpen](https://github.com/tuya/tuyaopen) - 下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成
 
 
 ## Browser-extensions
@@ -872,6 +888,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 陪读蛙 - 开源沉浸式翻译
  * [koog](https://github.com/jetbrains/koog) - Koog是官方的Kotlin框架，用于构建和运行强大、可扩展和生产就绪的AI代理，适用于各种平台-从后端服务到Android、JVM，甚至浏览器环境。Koog基于我们的AI产品专业知识。
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP服务器+Unity编辑器和Unity游戏的插件。该插件允许连接到像Claude Desktop等MCP客户端。
+ * [chatluna](https://github.com/chatlunalab/chatluna) - 一个用于LLM聊天的机器人插件，具有多模型集成、可扩展性和多种输出格式。
 
 
 ## CLIs
@@ -1054,6 +1071,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [snapai](https://github.com/betomoedano/snapai) - 为React Native和Expo开发者提供的AI图标生成CLI。使用OpenAI的最新模型，在几秒钟内生成令人惊叹的应用程序图标。
  * [sgpt](https://github.com/tbckr/sgpt) - SGPT是一个命令行工具，为用户提供了一个方便的方式与OpenAI模型进行交互，使用户能够在终端上运行查询，生成shell命令并直接生成代码。
  * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ 微软 Fabric CLI
+ * [AIProxySwift](https://github.com/lzell/aiproxyswift) - AI供应商的Swift客户端。可以直接向供应商发出请求，也可以通过我们的API密钥保护后端代理。
+ * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - 将Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您可以通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
 
 
 ## Reimplementations
@@ -1471,6 +1490,7 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [coderunner](https://github.com/instavm/coderunner) - 一个安全的本地沙盒，用于在苹果容器中运行由LLM生成的代码
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - 使用OpenAI的Whisper构建实时语音转文字的网络应用程序。
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作为与视觉LLMs（ChatGPT、Claude、Gemini）的接口。机器中的幽灵！
+ * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - 展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。
 
 
 ## Langchain
@@ -1933,7 +1953,8 @@ _Updated on September 18, 2025_ (A total of 2258 repositories listed.)
  * [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - 克劳德代码到OpenAI API代理
  * [harvester](https://github.com/wzdnzd/harvester) - 智能数据采集框架，适用于GitHub和网络来源。
  * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 一个具有眼睛和耳朵的MCP多模态人工智能代理！
- * [anyofai.github.io](https://github.com/anyofai/anyofai.github.io) - 最新ChatGPT Plus开通攻略：如何在国内充值订阅ChatGPT Plus会员？如何购买ChatGPT Plus帐号和ChatGPT Pro帐号？本文会为大家重点介绍五种升级ChatGPT Plus会员的方法：拼车合租ChatGPT Plus账号、购买ChatGPT Plus独立账号、为你的ChatGPT Plus代充值、使用苹果Apple礼品卡充值ChatGPT Plus会员、使用国外的虚拟信用卡订阅ChatGPT Plus会员。
+ * [openai-ruby](https://github.com/openai/openai-ruby) - 在论文《人工神经网络中的多模态神经元》中重现一些图表的代码
+ * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - 谷歌的NotebookLM但是本地
 
 
 ## Others
