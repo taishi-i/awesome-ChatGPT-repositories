@@ -16,34 +16,24 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [simple-openai](https://github.com/sashirestela/simple-openai) - 一个用于以最简单方式使用OpenAI Api的Java库。
-
-
 **Chatbots**
- * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭一个可二次开发的Chat Bot单轮对话Web端MVP原型模板，基于Vue 3，Vite7，TypeScript，Naive UI，Pinia(v3)，UnoCSS等主流技术构建，🧤简单集成大模型API，采用单轮AI问答对话模式，每次提问独立响应，无需上下文，支持SSE打字机效果流式输出，集成markdown-it Mermaid/KaTex/LaTex公式高亮预览，星火，智谱，硅基流动，Deepseek V3/R1深度思考推理模型预览。
- * [TuyaOpen](https://github.com/tuya/tuyaopen) - 下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成
-
-
-**Browser-extensions**
- * [chatluna](https://github.com/chatlunalab/chatluna) - 一个用于LLM聊天的机器人插件，具有多模型集成、可扩展性和多种输出格式。
+ * [bagel](https://github.com/extelligence-ai/bagel) - 使用MCP和LLMs了解机器人技术和无人机数据。ChatGPT用于物理人工智能。
+ * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 一个开源的，AI代理原生的研究画布应用程序，具有HITL（人在环中）功能，由CopilotKit，Tavily和LangGraph提供支持。
 
 
 **CLIs**
- * [AIProxySwift](https://github.com/lzell/aiproxyswift) - AI供应商的Swift客户端。可以直接向供应商发出请求，也可以通过我们的API密钥保护后端代理。
- * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - 将Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您可以通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
+ * [nanocoder](https://github.com/nano-collective/nanocoder) - 一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒
 
 
 **NLP**
- * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - 展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。
+ * [echo](https://github.com/merit-systems/echo) - Echo是一种适用于所有AI API的一站式计费解决方案。
 
 
-**Openai**
- * [openai-ruby](https://github.com/openai/openai-ruby) - 在论文《人工神经网络中的多模态神经元》中重现一些图表的代码
- * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - 谷歌的NotebookLM但是本地
+**Langchain**
+ * [samples](https://github.com/strands-agents/samples) - 使用Strands Agents SDK 构建的代理样本。
 
 
-_Updated on September 22, 2025_ (A total of 2266 repositories listed.)
+_Updated on September 25, 2025_ (A total of 2271 repositories listed.)
 
 ## Table of contents
 
@@ -660,6 +650,8 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [sparka](https://github.com/franciscomoretti/sparka) - AI聊天 - Claude，ChatGPT，Gemini和Grok。高级功能，开源，可投入生产。
  * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭一个可二次开发的Chat Bot单轮对话Web端MVP原型模板，基于Vue 3，Vite7，TypeScript，Naive UI，Pinia(v3)，UnoCSS等主流技术构建，🧤简单集成大模型API，采用单轮AI问答对话模式，每次提问独立响应，无需上下文，支持SSE打字机效果流式输出，集成markdown-it Mermaid/KaTex/LaTex公式高亮预览，星火，智谱，硅基流动，Deepseek V3/R1深度思考推理模型预览。
  * [TuyaOpen](https://github.com/tuya/tuyaopen) - 下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成
+ * [bagel](https://github.com/extelligence-ai/bagel) - 使用MCP和LLMs了解机器人技术和无人机数据。ChatGPT用于物理人工智能。
+ * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 一个开源的，AI代理原生的研究画布应用程序，具有HITL（人在环中）功能，由CopilotKit，Tavily和LangGraph提供支持。
 
 
 ## Browser-extensions
@@ -1073,6 +1065,7 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ 微软 Fabric CLI
  * [AIProxySwift](https://github.com/lzell/aiproxyswift) - AI供应商的Swift客户端。可以直接向供应商发出请求，也可以通过我们的API密钥保护后端代理。
  * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - 将Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您可以通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
+ * [nanocoder](https://github.com/nano-collective/nanocoder) - 一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒
 
 
 ## Reimplementations
@@ -1491,6 +1484,7 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - 使用OpenAI的Whisper构建实时语音转文字的网络应用程序。
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作为与视觉LLMs（ChatGPT、Claude、Gemini）的接口。机器中的幽灵！
  * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - 展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。
+ * [echo](https://github.com/merit-systems/echo) - Echo是一种适用于所有AI API的一站式计费解决方案。
 
 
 ## Langchain
@@ -1655,6 +1649,7 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [sre](https://github.com/smythos/sre) - 代理商操作系统
  * [osaurus](https://github.com/dinoki-ai/osaurus) - 本地，仅适用于苹果硅的LLM服务器。类似于Ollama，但基于苹果的MLX构建，以在M系列芯片上实现最佳性能。SwiftUI应用程序+SwiftNIO服务器，具有与OpenAI兼容的端点。
  * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ 无Python的Rust推理服务器 — 兼容OpenAI-API。GGUF + SafeTensors，热模型交换，自动发现，单一二进制文件。现在免费，永久免费。
+ * [samples](https://github.com/strands-agents/samples) - 使用Strands Agents SDK 构建的代理样本。
 
 
 ## Unity
