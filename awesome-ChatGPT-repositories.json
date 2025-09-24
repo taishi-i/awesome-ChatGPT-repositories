@@ -14592,6 +14592,58 @@
                     "zh-hans": "下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成",
                     "zh-hant": "下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成"
                 }
+            },
+            "https://github.com/extelligence-ai/bagel": {
+                "repository_name": "bagel",
+                "user_name": "Extelligence-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Understand robotics and drone data with MCP and LLMs. ChatGPT for Physical AI.",
+                "topics": [
+                    "ardupilot",
+                    "betaflight",
+                    "drone",
+                    "mcp",
+                    "px4-autopilot",
+                    "robotics",
+                    "ros2"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Understand robotics and drone data with MCP and LLMs. ChatGPT for Physical AI.",
+                    "ja": "MCPとLLMsを使用して、ロボティクスとドローンデータを理解する。物理AIのためのChatGPT。",
+                    "zh-hans": "使用MCP和LLMs了解机器人技术和无人机数据。ChatGPT用于物理人工智能。",
+                    "zh-hant": "通過MCP和LLMs了解機器人和無人機數據。 ChatGPT用於物理人工智能。"
+                }
+            },
+            "https://github.com/copilotkit/open-research-ana": {
+                "repository_name": "open-research-ANA",
+                "user_name": "CopilotKit",
+                "language": "TypeScript",
+                "license": null,
+                "description": "🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph",
+                "topics": [
+                    "agent-native",
+                    "ai",
+                    "anthropic",
+                    "canvas",
+                    "chatbot",
+                    "chatgpt",
+                    "copilotkit",
+                    "hitl",
+                    "human-in-the-loop",
+                    "langchain",
+                    "langgraph",
+                    "openai",
+                    "realtime",
+                    "research",
+                    "tavily"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph",
+                    "ja": "🤖 CopilotKit、Tavily、LangGraphによって強化された、HITL（Human in The Loop）機能を備えたリアルタイム検索を実行するオープンソースのAIエージェントネイティブ研究キャンバスアプリケーション",
+                    "zh-hans": "🤖 一个开源的，AI代理原生的研究画布应用程序，具有HITL（人在环中）功能，由CopilotKit，Tavily和LangGraph提供支持。",
+                    "zh-hant": "🤖 一個開源的、AI代理原生研究畫布應用程式，具有HITL（人在迴圈中）功能，由CopilotKit、Tavily和LangGraph提供動力。"
+                }
             }
         },
         "Browser-extensions": {
@@ -24204,6 +24256,30 @@
                     "zh-hans": "将Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您可以通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。",
                     "zh-hant": "將Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code包裝為一個OpenAI/Gemini/Claude/Codex相容的API服務，讓您可以通過API享受免費的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。"
                 }
+            },
+            "https://github.com/nano-collective/nanocoder": {
+                "repository_name": "nanocoder",
+                "user_name": "Nano-Collective",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ai-coding",
+                    "coding-agents",
+                    "llm",
+                    "llm-inference",
+                    "ollama",
+                    "openai",
+                    "openrouter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒",
+                    "ja": "ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒",
+                    "zh-hans": "一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒",
+                    "zh-hant": "一個美麗的本地優先編碼代理在您的終端機上運行-由社區為社區建造 ⚒"
+                }
             }
         },
         "Reimplementations": {
@@ -33201,6 +33277,29 @@
                     "zh-hans": "展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。",
                     "zh-hant": "展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。"
                 }
+            },
+            "https://github.com/merit-systems/echo": {
+                "repository_name": "echo",
+                "user_name": "Merit-Systems",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Echo is a billing in a box solution for all AI APIs",
+                "topics": [
+                    "anthropic",
+                    "billing",
+                    "gemini",
+                    "llm",
+                    "openai",
+                    "react",
+                    "typescript",
+                    "vercel"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Echo is a billing in a box solution for all AI APIs",
+                    "ja": "EchoはすべてのAI API向けのボックス型の請求ソリューションです。",
+                    "zh-hans": "Echo是一种适用于所有AI API的一站式计费解决方案。",
+                    "zh-hant": "Echo是一個適用於所有AI API的一站式計費解決方案。"
+                }
             }
         },
         "Langchain": {
@@ -37186,6 +37285,39 @@
                     "ja": "⚡ PythonフリーのRust推論サーバー — OpenAI-API互換。GGUF + SafeTensors、ホットモデルスワップ、自動検出、シングルバイナリ。今すぐ無料、永久に無料。",
                     "zh-hans": "⚡ 无Python的Rust推理服务器 — 兼容OpenAI-API。GGUF + SafeTensors，热模型交换，自动发现，单一二进制文件。现在免费，永久免费。",
                     "zh-hant": "⚡ 無Python的Rust推理伺服器 — 兼容OpenAI-API。GGUF + SafeTensors、熱模型交換、自動發現、單一二進制。現在免費，永久免費。"
+                }
+            },
+            "https://github.com/strands-agents/samples": {
+                "repository_name": "samples",
+                "user_name": "strands-agents",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Agent samples built using the Strands Agents SDK.",
+                "topics": [
+                    "agentic",
+                    "agentic-ai",
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "autonomous-agents",
+                    "bedrock",
+                    "genai",
+                    "litellm",
+                    "llama",
+                    "llm",
+                    "machine-learning",
+                    "mcp",
+                    "multi-agent-systems",
+                    "ollama",
+                    "openai",
+                    "opentelemetry",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Agent samples built using the Strands Agents SDK.",
+                    "ja": "Strands Agents SDKを使用して構築されたエージェントサンプル。",
+                    "zh-hans": "使用Strands Agents SDK 构建的代理样本。",
+                    "zh-hant": "使用Strands Agents SDK 构建的代理样本。"
                 }
             }
         },

@@ -16,34 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [simple-openai](https://github.com/sashirestela/simple-openai) - A Java library to use the OpenAI Api in the simplest possible way.
-
-
 **Chatbots**
- * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 一个可二次开发 Chat Bot 单轮对话 Web 端 MVP 原型模板, 基于 Vue 3, Vite7, TypeScript, Naive UI, Pinia(v3), UnoCSS 等主流技术构建, 🧤简单集成大模型 API, 采用单轮 AI 问答对话模式, 每次提问独立响应, 无需上下文, 支持 SSE 打字机效果流式输出, 集成 markdown-it  Mermaid/KaTex/LaTex 公式高亮预览, 星火, 智谱, 硅基流动, Deepseek V3/R1 深度思考推理模型预览, 兼容 <think> 标签, 💼 易于定制和快速搭建 Chat  类大语言模型产品 (附示例截图)
- * [TuyaOpen](https://github.com/tuya/tuyaopen) - Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration
-
-
-**Browser-extensions**
- * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
+ * [bagel](https://github.com/extelligence-ai/bagel) - Understand robotics and drone data with MCP and LLMs. ChatGPT for Physical AI.
+ * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
 
 
 **CLIs**
- * [AIProxySwift](https://github.com/lzell/aiproxyswift) - Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend
- * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+ * [nanocoder](https://github.com/nano-collective/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
 
 
 **NLP**
- * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.
+ * [echo](https://github.com/merit-systems/echo) - Echo is a billing in a box solution for all AI APIs
 
 
-**Openai**
- * [openai-ruby](https://github.com/openai/openai-ruby) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
- * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - Googles NotebookLM but local
+**Langchain**
+ * [samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
 
 
-_Updated on September 22, 2025_ (A total of 2266 repositories listed.)
+_Updated on September 25, 2025_ (A total of 2271 repositories listed.)
 
 ## Table of contents
 
@@ -660,6 +650,8 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [sparka](https://github.com/franciscomoretti/sparka) - AI Chat - Claude, ChatGPT, Gemini, and Grok. Advanced features, open-source, production-ready.
  * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 一个可二次开发 Chat Bot 单轮对话 Web 端 MVP 原型模板, 基于 Vue 3, Vite7, TypeScript, Naive UI, Pinia(v3), UnoCSS 等主流技术构建, 🧤简单集成大模型 API, 采用单轮 AI 问答对话模式, 每次提问独立响应, 无需上下文, 支持 SSE 打字机效果流式输出, 集成 markdown-it  Mermaid/KaTex/LaTex 公式高亮预览, 星火, 智谱, 硅基流动, Deepseek V3/R1 深度思考推理模型预览, 兼容 <think> 标签, 💼 易于定制和快速搭建 Chat  类大语言模型产品 (附示例截图)
  * [TuyaOpen](https://github.com/tuya/tuyaopen) - Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration
+ * [bagel](https://github.com/extelligence-ai/bagel) - Understand robotics and drone data with MCP and LLMs. ChatGPT for Physical AI.
+ * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
 
 
 ## Browser-extensions
@@ -1073,6 +1065,7 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ Microsoft Fabric CLI
  * [AIProxySwift](https://github.com/lzell/aiproxyswift) - Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend
  * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
+ * [nanocoder](https://github.com/nano-collective/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
 
 
 ## Reimplementations
@@ -1491,6 +1484,7 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - Build real time speech2text web apps using OpenAI's Whisper https://openai.com/blog/whisper/
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
  * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.
+ * [echo](https://github.com/merit-systems/echo) - Echo is a billing in a box solution for all AI APIs
 
 
 ## Langchain
@@ -1655,6 +1649,7 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [sre](https://github.com/smythos/sre) - The Operating System for Agents
  * [osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.
  * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
+ * [samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
 
 
 ## Unity

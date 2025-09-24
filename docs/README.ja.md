@@ -16,34 +16,24 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [simple-openai](https://github.com/sashirestela/simple-openai) - 最も簡単な方法でOpenAI Apiを使用するためのJavaライブラリ。
-
-
 **Chatbots**
- * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 Vue 3、Vite7、TypeScript、Naive UI、Pinia(v3)、UnoCSSなどの主要技術を使用して構築された、二次開発可能なChat Botの単一対話Web MVPプロトタイプテンプレート。🧤簡単に大規模APIを統合し、単一対話AI質問応答モードを採用し、各質問に独立して応答し、コンテキストを必要とせず、SSEタイプライターエフェクトのストリーミング出力をサポートし、markdown-it、Mermaid/KaTex/LaTexの数式ハイライトプレビューを統合し、星火、智谱、硅基流動、Deepseek V3/R1の深い思考推論モデルプレビューを提供します。
- * [TuyaOpen](https://github.com/tuya/tuyaopen) - 次世代AI+IoTフレームワーク、T2/T3/T5AI/ESP32/およびその他向け - 高速IoTおよびAIエージェントハードウェアの統合
-
-
-**Browser-extensions**
- * [chatluna](https://github.com/chatlunalab/chatluna) - LLMチャット用のボットプラグイン、マルチモデル統合、拡張性、さまざまな出力形式を備えています。
+ * [bagel](https://github.com/extelligence-ai/bagel) - MCPとLLMsを使用して、ロボティクスとドローンデータを理解する。物理AIのためのChatGPT。
+ * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 CopilotKit、Tavily、LangGraphによって強化された、HITL（Human in The Loop）機能を備えたリアルタイム検索を実行するオープンソースのAIエージェントネイティブ研究キャンバスアプリケーション
 
 
 **CLIs**
- * [AIProxySwift](https://github.com/lzell/aiproxyswift) - AIプロバイダー向けのSwiftクライアント。プロバイダーに直接リクエストを送信するか、当社のAPIキー保護バックエンドを介してプロキシされることができます。
- * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - ジェミニCLI、ChatGPT Codex、Claude Code、Qwen CodeをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPIを通じて利用できるようにします。
+ * [nanocoder](https://github.com/nano-collective/nanocoder) - ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
 
 
 **NLP**
- * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Spring AIとSpring Bootを使用して、Generative AIとLLMsによって動作するJavaアプリケーションを構築する方法を示すサンプル。
+ * [echo](https://github.com/merit-systems/echo) - EchoはすべてのAI API向けのボックス型の請求ソリューションです。
 
 
-**Openai**
- * [openai-ruby](https://github.com/openai/openai-ruby) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
- * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - GoogleのNotebookLMですが、ローカルです
+**Langchain**
+ * [samples](https://github.com/strands-agents/samples) - Strands Agents SDKを使用して構築されたエージェントサンプル。
 
 
-_Updated on September 22, 2025_ (A total of 2266 repositories listed.)
+_Updated on September 25, 2025_ (A total of 2271 repositories listed.)
 
 ## Table of contents
 
@@ -660,6 +650,8 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [sparka](https://github.com/franciscomoretti/sparka) - AI チャット - クロード、ChatGPT、ジェミニ、およびグロック。高度な機能、オープンソース、製品向け。
  * [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - 💭 Vue 3、Vite7、TypeScript、Naive UI、Pinia(v3)、UnoCSSなどの主要技術を使用して構築された、二次開発可能なChat Botの単一対話Web MVPプロトタイプテンプレート。🧤簡単に大規模APIを統合し、単一対話AI質問応答モードを採用し、各質問に独立して応答し、コンテキストを必要とせず、SSEタイプライターエフェクトのストリーミング出力をサポートし、markdown-it、Mermaid/KaTex/LaTexの数式ハイライトプレビューを統合し、星火、智谱、硅基流動、Deepseek V3/R1の深い思考推論モデルプレビューを提供します。
  * [TuyaOpen](https://github.com/tuya/tuyaopen) - 次世代AI+IoTフレームワーク、T2/T3/T5AI/ESP32/およびその他向け - 高速IoTおよびAIエージェントハードウェアの統合
+ * [bagel](https://github.com/extelligence-ai/bagel) - MCPとLLMsを使用して、ロボティクスとドローンデータを理解する。物理AIのためのChatGPT。
+ * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 CopilotKit、Tavily、LangGraphによって強化された、HITL（Human in The Loop）機能を備えたリアルタイム検索を実行するオープンソースのAIエージェントネイティブ研究キャンバスアプリケーション
 
 
 ## Browser-extensions
@@ -1073,6 +1065,7 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⚡ マイクロソフトファブリックCLI
  * [AIProxySwift](https://github.com/lzell/aiproxyswift) - AIプロバイダー向けのSwiftクライアント。プロバイダーに直接リクエストを送信するか、当社のAPIキー保護バックエンドを介してプロキシされることができます。
  * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - ジェミニCLI、ChatGPT Codex、Claude Code、Qwen CodeをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPIを通じて利用できるようにします。
+ * [nanocoder](https://github.com/nano-collective/nanocoder) - ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
 
 
 ## Reimplementations
@@ -1491,6 +1484,7 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [whisper-playground](https://github.com/saharmor/whisper-playground) - OpenAIのWhisperを使用してリアルタイムの音声からテキストに変換するWebアプリを構築します。
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - reMarkable2をビジョン-LLMs（ChatGPT、Claude、Gemini）へのインターフェースとして使用します。機械の中の幽霊！
  * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Spring AIとSpring Bootを使用して、Generative AIとLLMsによって動作するJavaアプリケーションを構築する方法を示すサンプル。
+ * [echo](https://github.com/merit-systems/echo) - EchoはすべてのAI API向けのボックス型の請求ソリューションです。
 
 
 ## Langchain
@@ -1655,6 +1649,7 @@ _Updated on September 22, 2025_ (A total of 2266 repositories listed.)
  * [sre](https://github.com/smythos/sre) - エージェント向けのオペレーティングシステム
  * [osaurus](https://github.com/dinoki-ai/osaurus) - ネイティブ、Apple Silicon専用のローカルLLMサーバー。Ollamaに似ていますが、Mシリーズチップで最大のパフォーマンスを発揮するためにAppleのMLXに基づいて構築されています。OpenAI互換のエンドポイントを持つSwiftUIアプリ+SwiftNIOサーバー。
  * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ PythonフリーのRust推論サーバー — OpenAI-API互換。GGUF + SafeTensors、ホットモデルスワップ、自動検出、シングルバイナリ。今すぐ無料、永久に無料。
+ * [samples](https://github.com/strands-agents/samples) - Strands Agents SDKを使用して構築されたエージェントサンプル。
 
 
 ## Unity
