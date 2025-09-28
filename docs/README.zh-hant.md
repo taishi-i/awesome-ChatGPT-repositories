@@ -16,24 +16,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [bagel](https://github.com/extelligence-ai/bagel) - 通過MCP和LLMs了解機器人和無人機數據。 ChatGPT用於物理人工智能。
- * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 一個開源的、AI代理原生研究畫布應用程式，具有HITL（人在迴圈中）功能，由CopilotKit、Tavily和LangGraph提供動力。
-
-
 **CLIs**
- * [nanocoder](https://github.com/nano-collective/nanocoder) - 一個美麗的本地優先編碼代理在您的終端機上運行-由社區為社區建造 ⚒
+ * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis 向量庫（RedisVL）- Redis 的 AI 原生 Python 客戶端。
 
 
 **NLP**
- * [echo](https://github.com/merit-systems/echo) - Echo是一個適用於所有AI API的一站式計費解決方案。
+ * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith 是一個強大的、基於AIGNE框架的人工智慧驅動文檔生成工具。它可以從您的源代碼直接自動創建詳細、結構化和多語言文檔。
+ * [mcp-hub](https://github.com/ravitemer/mcp-hub) - 一個集中管理Model Context Protocol（MCP）伺服器的管理員，具有動態伺服器管理和監控功能。
 
 
 **Langchain**
- * [samples](https://github.com/strands-agents/samples) - 使用Strands Agents SDK 构建的代理样本。
+ * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 運行最新的LLMs和VLMs跨GPU、NPU和CPU，並使用Python、Android Java和iOS Swift的綁定，快速啟動並運行OpenAI gpt-oss、Gemma 3、Qwen3等。
 
 
-_Updated on September 25, 2025_ (A total of 2271 repositories listed.)
+_Updated on September 29, 2025_ (A total of 2275 repositories listed.)
 
 ## Table of contents
 
@@ -1066,6 +1062,7 @@ _Updated on September 25, 2025_ (A total of 2271 repositories listed.)
  * [AIProxySwift](https://github.com/lzell/aiproxyswift) - 快速客戶端供應商。可以直接向供應商發送請求，或通過我們的API金鑰保護後端代理。
  * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - 將Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code包裝為一個OpenAI/Gemini/Claude/Codex相容的API服務，讓您可以通過API享受免費的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
  * [nanocoder](https://github.com/nano-collective/nanocoder) - 一個美麗的本地優先編碼代理在您的終端機上運行-由社區為社區建造 ⚒
+ * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis 向量庫（RedisVL）- Redis 的 AI 原生 Python 客戶端。
 
 
 ## Reimplementations
@@ -1485,6 +1482,8 @@ _Updated on September 25, 2025_ (A total of 2271 repositories listed.)
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - 使用reMarkable2作為與vision-LLMs（ChatGPT、Claude、Gemini）的接口。機器中的幽靈！
  * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - 展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。
  * [echo](https://github.com/merit-systems/echo) - Echo是一個適用於所有AI API的一站式計費解決方案。
+ * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith 是一個強大的、基於AIGNE框架的人工智慧驅動文檔生成工具。它可以從您的源代碼直接自動創建詳細、結構化和多語言文檔。
+ * [mcp-hub](https://github.com/ravitemer/mcp-hub) - 一個集中管理Model Context Protocol（MCP）伺服器的管理員，具有動態伺服器管理和監控功能。
 
 
 ## Langchain
@@ -1650,6 +1649,7 @@ _Updated on September 25, 2025_ (A total of 2271 repositories listed.)
  * [osaurus](https://github.com/dinoki-ai/osaurus) - 本地、僅支援蘋果矽片的LLM伺服器。類似Ollama，但建立在蘋果的MLX上，以在M系列芯片上獲得最佳性能。SwiftUI應用程式+ SwiftNIO伺服器，具有與OpenAI兼容的端點。
  * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ 無Python的Rust推理伺服器 — 兼容OpenAI-API。GGUF + SafeTensors、熱模型交換、自動發現、單一二進制。現在免費，永久免費。
  * [samples](https://github.com/strands-agents/samples) - 使用Strands Agents SDK 构建的代理样本。
+ * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 運行最新的LLMs和VLMs跨GPU、NPU和CPU，並使用Python、Android Java和iOS Swift的綁定，快速啟動並運行OpenAI gpt-oss、Gemma 3、Qwen3等。
 
 
 ## Unity

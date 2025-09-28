@@ -16,24 +16,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [bagel](https://github.com/extelligence-ai/bagel) - MCPとLLMsを使用して、ロボティクスとドローンデータを理解する。物理AIのためのChatGPT。
- * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 CopilotKit、Tavily、LangGraphによって強化された、HITL（Human in The Loop）機能を備えたリアルタイム検索を実行するオープンソースのAIエージェントネイティブ研究キャンバスアプリケーション
-
-
 **CLIs**
- * [nanocoder](https://github.com/nano-collective/nanocoder) - ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
+ * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。
 
 
 **NLP**
- * [echo](https://github.com/merit-systems/echo) - EchoはすべてのAI API向けのボックス型の請求ソリューションです。
+ * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmithは、AIGNEフレームワーク上に構築された強力なAI駆動のドキュメンテーション生成ツールです。ソースコードから詳細で構造化された多言語ドキュメンテーションを自動生成します。
+ * [mcp-hub](https://github.com/ravitemer/mcp-hub) - モデルコンテキストプロトコル（MCP）サーバーのための集中管理者、動的サーバー管理および監視
 
 
 **Langchain**
- * [samples](https://github.com/strands-agents/samples) - Strands Agents SDKを使用して構築されたエージェントサンプル。
+ * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 最新のLLMsとVLMsをGPU、NPU、CPUで実行し、Python、Android Java、iOS Swift向けのバインディングを使用して、OpenAI gpt-oss、Gemma 3、Qwen3などを素早く起動して実行します。
 
 
-_Updated on September 25, 2025_ (A total of 2271 repositories listed.)
+_Updated on September 29, 2025_ (A total of 2275 repositories listed.)
 
 ## Table of contents
 
@@ -1066,6 +1062,7 @@ _Updated on September 25, 2025_ (A total of 2271 repositories listed.)
  * [AIProxySwift](https://github.com/lzell/aiproxyswift) - AIプロバイダー向けのSwiftクライアント。プロバイダーに直接リクエストを送信するか、当社のAPIキー保護バックエンドを介してプロキシされることができます。
  * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - ジェミニCLI、ChatGPT Codex、Claude Code、Qwen CodeをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPIを通じて利用できるようにします。
  * [nanocoder](https://github.com/nano-collective/nanocoder) - ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
+ * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。
 
 
 ## Reimplementations
@@ -1485,6 +1482,8 @@ _Updated on September 25, 2025_ (A total of 2271 repositories listed.)
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - reMarkable2をビジョン-LLMs（ChatGPT、Claude、Gemini）へのインターフェースとして使用します。機械の中の幽霊！
  * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Spring AIとSpring Bootを使用して、Generative AIとLLMsによって動作するJavaアプリケーションを構築する方法を示すサンプル。
  * [echo](https://github.com/merit-systems/echo) - EchoはすべてのAI API向けのボックス型の請求ソリューションです。
+ * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmithは、AIGNEフレームワーク上に構築された強力なAI駆動のドキュメンテーション生成ツールです。ソースコードから詳細で構造化された多言語ドキュメンテーションを自動生成します。
+ * [mcp-hub](https://github.com/ravitemer/mcp-hub) - モデルコンテキストプロトコル（MCP）サーバーのための集中管理者、動的サーバー管理および監視
 
 
 ## Langchain
@@ -1650,6 +1649,7 @@ _Updated on September 25, 2025_ (A total of 2271 repositories listed.)
  * [osaurus](https://github.com/dinoki-ai/osaurus) - ネイティブ、Apple Silicon専用のローカルLLMサーバー。Ollamaに似ていますが、Mシリーズチップで最大のパフォーマンスを発揮するためにAppleのMLXに基づいて構築されています。OpenAI互換のエンドポイントを持つSwiftUIアプリ+SwiftNIOサーバー。
  * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ PythonフリーのRust推論サーバー — OpenAI-API互換。GGUF + SafeTensors、ホットモデルスワップ、自動検出、シングルバイナリ。今すぐ無料、永久に無料。
  * [samples](https://github.com/strands-agents/samples) - Strands Agents SDKを使用して構築されたエージェントサンプル。
+ * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 最新のLLMsとVLMsをGPU、NPU、CPUで実行し、Python、Android Java、iOS Swift向けのバインディングを使用して、OpenAI gpt-oss、Gemma 3、Qwen3などを素早く起動して実行します。
 
 
 ## Unity
