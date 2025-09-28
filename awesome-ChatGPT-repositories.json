@@ -24280,6 +24280,32 @@
                     "zh-hans": "一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒",
                     "zh-hant": "一個美麗的本地優先編碼代理在您的終端機上運行-由社區為社區建造 ⚒"
                 }
+            },
+            "https://github.com/redis/redis-vl-python": {
+                "repository_name": "redis-vl-python",
+                "user_name": "redis",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+                "topics": [
+                    "embedding",
+                    "large-language-models",
+                    "llm",
+                    "llmcache",
+                    "openai",
+                    "python",
+                    "redis",
+                    "retrieval-augmented-generation",
+                    "semantic-cache",
+                    "vector-database",
+                    "vector-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+                    "ja": "Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。",
+                    "zh-hans": "Redis矢量库（RedisVL）- Redis的AI原生Python客户端。",
+                    "zh-hant": "Redis 向量庫（RedisVL）- Redis 的 AI 原生 Python 客戶端。"
+                }
             }
         },
         "Reimplementations": {
@@ -33300,6 +33326,55 @@
                     "zh-hans": "Echo是一种适用于所有AI API的一站式计费解决方案。",
                     "zh-hant": "Echo是一個適用於所有AI API的一站式計費解決方案。"
                 }
+            },
+            "https://github.com/aigne-io/aigne-doc-smith": {
+                "repository_name": "aigne-doc-smith",
+                "user_name": "AIGNE-io",
+                "language": "JavaScript",
+                "license": "Other",
+                "description": "AIGNE DocSmith is a powerful, AI-driven documentation generation tool built on the AIGNE Framework. It automates the creation of detailed, structured, and multi-language documentation directly from your source code.",
+                "topics": [
+                    "agent",
+                    "ai-document-generator",
+                    "aigne",
+                    "documentation",
+                    "gemini",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AIGNE DocSmith is a powerful, AI-driven documentation generation tool built on the AIGNE Framework. It automates the creation of detailed, structured, and multi-language documentation directly from your source code.",
+                    "ja": "AIGNE DocSmithは、AIGNEフレームワーク上に構築された強力なAI駆動のドキュメンテーション生成ツールです。ソースコードから詳細で構造化された多言語ドキュメンテーションを自動生成します。",
+                    "zh-hans": "AIGNE DocSmith是一个强大的、基于AIGNE框架构建的AI驱动文档生成工具。它可以自动从您的源代码中生成详细、结构化和多语言文档。",
+                    "zh-hant": "AIGNE DocSmith 是一個強大的、基於AIGNE框架的人工智慧驅動文檔生成工具。它可以從您的源代碼直接自動創建詳細、結構化和多語言文檔。"
+                }
+            },
+            "https://github.com/ravitemer/mcp-hub": {
+                "repository_name": "mcp-hub",
+                "user_name": "ravitemer",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "claude-ai",
+                    "llms",
+                    "local-development",
+                    "mcp",
+                    "mcp-hub",
+                    "mcp-servers",
+                    "model-context-protocol",
+                    "nodejs",
+                    "process-management-server",
+                    "server",
+                    "smithery"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring",
+                    "ja": "モデルコンテキストプロトコル（MCP）サーバーのための集中管理者、動的サーバー管理および監視",
+                    "zh-hans": "一个集中管理器，用于Model Context Protocol（MCP）服务器，具有动态服务器管理和监控。",
+                    "zh-hant": "一個集中管理Model Context Protocol（MCP）伺服器的管理員，具有動態伺服器管理和監控功能。"
+                }
             }
         },
         "Langchain": {
@@ -37318,6 +37393,33 @@
                     "ja": "Strands Agents SDKを使用して構築されたエージェントサンプル。",
                     "zh-hans": "使用Strands Agents SDK 构建的代理样本。",
                     "zh-hant": "使用Strands Agents SDK 构建的代理样本。"
+                }
+            },
+            "https://github.com/nexaai/nexa-sdk": {
+                "repository_name": "nexa-sdk",
+                "user_name": "NexaAI",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.",
+                "topics": [
+                    "gemma3",
+                    "go",
+                    "gpt-oss",
+                    "llama",
+                    "llama3",
+                    "llm",
+                    "on-device-ai",
+                    "phi3",
+                    "qwen3",
+                    "sdk",
+                    "stable-diffusion",
+                    "vlm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.",
+                    "ja": "最新のLLMsとVLMsをGPU、NPU、CPUで実行し、Python、Android Java、iOS Swift向けのバインディングを使用して、OpenAI gpt-oss、Gemma 3、Qwen3などを素早く起動して実行します。",
+                    "zh-hans": "在GPU、NPU和CPU上运行最新的LLMs和VLMs，并使用Python、Android Java和iOS Swift的绑定，快速启动OpenAI gpt-oss、Gemma 3、Qwen3等。",
+                    "zh-hant": "運行最新的LLMs和VLMs跨GPU、NPU和CPU，並使用Python、Android Java和iOS Swift的綁定，快速啟動並運行OpenAI gpt-oss、Gemma 3、Qwen3等。"
                 }
             }
         },

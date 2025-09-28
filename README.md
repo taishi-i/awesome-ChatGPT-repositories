@@ -16,24 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [bagel](https://github.com/extelligence-ai/bagel) - Understand robotics and drone data with MCP and LLMs. ChatGPT for Physical AI.
- * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
-
-
 **CLIs**
- * [nanocoder](https://github.com/nano-collective/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
+ * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.
 
 
 **NLP**
- * [echo](https://github.com/merit-systems/echo) - Echo is a billing in a box solution for all AI APIs
+ * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith is a powerful, AI-driven documentation generation tool built on the AIGNE Framework. It automates the creation of detailed, structured, and multi-language documentation directly from your source code.
+ * [mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
 
 
 **Langchain**
- * [samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
+ * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
 
 
-_Updated on September 25, 2025_ (A total of 2271 repositories listed.)
+_Updated on September 29, 2025_ (A total of 2275 repositories listed.)
 
 ## Table of contents
 
@@ -1066,6 +1062,7 @@ _Updated on September 25, 2025_ (A total of 2271 repositories listed.)
  * [AIProxySwift](https://github.com/lzell/aiproxyswift) - Swift client for AI providers. Can make requests straight to the provider or proxied through our API key protection backend
  * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
  * [nanocoder](https://github.com/nano-collective/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
+ * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.
 
 
 ## Reimplementations
@@ -1485,6 +1482,8 @@ _Updated on September 25, 2025_ (A total of 2271 repositories listed.)
  * [ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!
  * [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot.
  * [echo](https://github.com/merit-systems/echo) - Echo is a billing in a box solution for all AI APIs
+ * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith is a powerful, AI-driven documentation generation tool built on the AIGNE Framework. It automates the creation of detailed, structured, and multi-language documentation directly from your source code.
+ * [mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
 
 
 ## Langchain
@@ -1650,6 +1649,7 @@ _Updated on September 25, 2025_ (A total of 2271 repositories listed.)
  * [osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.
  * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
  * [samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
+ * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
 
 
 ## Unity
