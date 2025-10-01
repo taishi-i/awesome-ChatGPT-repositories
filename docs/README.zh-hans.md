@@ -16,20 +16,24 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis矢量库（RedisVL）- Redis的AI原生Python客户端。
+**Prompts**
+ * [zcf](https://github.com/ufomiao/zcf) - 为Claude代码和Codex提供零配置代码流程
 
 
-**NLP**
- * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith是一个强大的、基于AIGNE框架构建的AI驱动文档生成工具。它可以自动从您的源代码中生成详细、结构化和多语言文档。
- * [mcp-hub](https://github.com/ravitemer/mcp-hub) - 一个集中管理器，用于Model Context Protocol（MCP）服务器，具有动态服务器管理和监控。
+**Chatbots**
+ * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT是WormGPT的强大邪恶兄弟。
 
 
 **Langchain**
- * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 在GPU、NPU和CPU上运行最新的LLMs和VLMs，并使用Python、Android Java和iOS Swift的绑定，快速启动OpenAI gpt-oss、Gemma 3、Qwen3等。
+ * [LlmTornado](https://github.com/lofcz/llmtornado) - 使用100多个LLM API构建AI系统的.NET库：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！
 
 
-_Updated on September 29, 2025_ (A total of 2275 repositories listed.)
+**Openai**
+ * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - 一系列使用OpenAI SDK的简短示例
+ * [forge](https://github.com/tensorblock/forge) - Forge是一个自托管的中间件，通过单一API统一访问多个AI模型提供商（如OpenAI、Anthropic）。它支持与OpenAI兼容的接口，加密的API密钥管理，并且可以轻松集成到现有工具和前端中。
+
+
+_Updated on October 02, 2025_ (A total of 2280 repositories listed.)
 
 ## Table of contents
 
@@ -303,6 +307,7 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPT和Copilot等各种生成AI用的“日本语”提示的样本
  * [judgeval](https://github.com/judgmentlabs/judgeval) - 为代理商提供的开源后建层。我们的跟踪+评估功能可为代理商提供培训后的支持（RL，SFT），监控和回归测试。
  * [gateway](https://github.com/adaline/gateway) - 提供简单、统一、强大接口的唯一完全本地生产级Super SDK，可调用200多个LLM。
+ * [zcf](https://github.com/ufomiao/zcf) - 为Claude代码和Codex提供零配置代码流程
 
 
 ## Chatbots
@@ -648,6 +653,7 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [TuyaOpen](https://github.com/tuya/tuyaopen) - 下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成
  * [bagel](https://github.com/extelligence-ai/bagel) - 使用MCP和LLMs了解机器人技术和无人机数据。ChatGPT用于物理人工智能。
  * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 一个开源的，AI代理原生的研究画布应用程序，具有HITL（人在环中）功能，由CopilotKit，Tavily和LangGraph提供支持。
+ * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT是WormGPT的强大邪恶兄弟。
 
 
 ## Browser-extensions
@@ -1650,6 +1656,7 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ 无Python的Rust推理服务器 — 兼容OpenAI-API。GGUF + SafeTensors，热模型交换，自动发现，单一二进制文件。现在免费，永久免费。
  * [samples](https://github.com/strands-agents/samples) - 使用Strands Agents SDK 构建的代理样本。
  * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 在GPU、NPU和CPU上运行最新的LLMs和VLMs，并使用Python、Android Java和iOS Swift的绑定，快速启动OpenAI gpt-oss、Gemma 3、Qwen3等。
+ * [LlmTornado](https://github.com/lofcz/llmtornado) - 使用100多个LLM API构建AI系统的.NET库：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！
 
 
 ## Unity
@@ -1950,6 +1957,8 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 一个具有眼睛和耳朵的MCP多模态人工智能代理！
  * [openai-ruby](https://github.com/openai/openai-ruby) - 在论文《人工神经网络中的多模态神经元》中重现一些图表的代码
  * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - 谷歌的NotebookLM但是本地
+ * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - 一系列使用OpenAI SDK的简短示例
+ * [forge](https://github.com/tensorblock/forge) - Forge是一个自托管的中间件，通过单一API统一访问多个AI模型提供商（如OpenAI、Anthropic）。它支持与OpenAI兼容的接口，加密的API密钥管理，并且可以轻松集成到现有工具和前端中。
 
 
 ## Others

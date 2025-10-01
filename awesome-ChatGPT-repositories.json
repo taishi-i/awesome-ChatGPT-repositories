@@ -6136,6 +6136,41 @@
                     "zh-hans": "提供简单、统一、强大接口的唯一完全本地生产级Super SDK，可调用200多个LLM。",
                     "zh-hant": "提供簡單、統一和強大介面，可呼叫200多個以上的LLM的唯一完全本地生產級Super SDK。"
                 }
+            },
+            "https://github.com/ufomiao/zcf": {
+                "repository_name": "zcf",
+                "user_name": "UfoMiao",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Zero-Config Code Flow for Claude code & Codex",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "ai-agent",
+                    "bmad-method",
+                    "ccr",
+                    "claude",
+                    "claude-4",
+                    "claude-ai",
+                    "claude-code",
+                    "cli",
+                    "gpt",
+                    "gpt-5",
+                    "llm",
+                    "llm-code",
+                    "nodejs",
+                    "openai",
+                    "prompt",
+                    "typescript",
+                    "workflow",
+                    "zcf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Zero-Config Code Flow for Claude code & Codex",
+                    "ja": "クロードコードとコーデックスのためのゼロ構成コードフロー",
+                    "zh-hans": "为Claude代码和Codex提供零配置代码流程",
+                    "zh-hant": "為Claude代碼和Codex提供零配置代碼流程"
+                }
             }
         },
         "Chatbots": {
@@ -14643,6 +14678,35 @@
                     "ja": "🤖 CopilotKit、Tavily、LangGraphによって強化された、HITL（Human in The Loop）機能を備えたリアルタイム検索を実行するオープンソースのAIエージェントネイティブ研究キャンバスアプリケーション",
                     "zh-hans": "🤖 一个开源的，AI代理原生的研究画布应用程序，具有HITL（人在环中）功能，由CopilotKit，Tavily和LangGraph提供支持。",
                     "zh-hant": "🤖 一個開源的、AI代理原生研究畫布應用程式，具有HITL（人在迴圈中）功能，由CopilotKit、Tavily和LangGraph提供動力。"
+                }
+            },
+            "https://github.com/blacktechx011/hacx-gpt": {
+                "repository_name": "Hacx-GPT",
+                "user_name": "BlackTechX011",
+                "language": "Python",
+                "license": "Other",
+                "description": "Hacx GPT a powerful, evil brother of WormGPT.",
+                "topics": [
+                    "ai",
+                    "blacktechx",
+                    "blacktechx011",
+                    "chatbot",
+                    "chatgpt",
+                    "for",
+                    "forhackers",
+                    "gpt",
+                    "hackerai",
+                    "hackers",
+                    "hacking",
+                    "hackingtool",
+                    "unsensordai",
+                    "wormgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Hacx GPT a powerful, evil brother of WormGPT.",
+                    "ja": "Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。",
+                    "zh-hans": "Hacx GPT是WormGPT的强大邪恶兄弟。",
+                    "zh-hant": "Hacx GPT是WormGPT的強大邪惡兄弟。"
                 }
             }
         },
@@ -37421,6 +37485,41 @@
                     "zh-hans": "在GPU、NPU和CPU上运行最新的LLMs和VLMs，并使用Python、Android Java和iOS Swift的绑定，快速启动OpenAI gpt-oss、Gemma 3、Qwen3等。",
                     "zh-hant": "運行最新的LLMs和VLMs跨GPU、NPU和CPU，並使用Python、Android Java和iOS Swift的綁定，快速啟動並運行OpenAI gpt-oss、Gemma 3、Qwen3等。"
                 }
+            },
+            "https://github.com/lofcz/llmtornado": {
+                "repository_name": "LlmTornado",
+                "user_name": "lofcz",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "The .NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, MoonshotAI, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!",
+                "topics": [
+                    "ai",
+                    "anthropic-api",
+                    "azure-api",
+                    "cohere-api",
+                    "deepinfra-api",
+                    "deepseek-api",
+                    "gemini-api",
+                    "google-api",
+                    "groq-api",
+                    "hacktoberfest",
+                    "inference-engine",
+                    "localllm",
+                    "mistral-api",
+                    "moonshot-api",
+                    "ollama-api",
+                    "openai-api",
+                    "openrouter-api",
+                    "perplexity-api",
+                    "voyage-api",
+                    "xai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The .NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, MoonshotAI, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!",
+                    "ja": "100以上のLLM APIを使用してAIシステムを構築するための.NETライブラリ：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAIなど、さらに多くのもの！",
+                    "zh-hans": "使用100多个LLM API构建AI系统的.NET库：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！",
+                    "zh-hant": "使用100多個LLM API構建AI系統的.NET庫：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！"
+                }
             }
         },
         "Unity": {
@@ -43727,6 +43826,34 @@
                     "ja": "GoogleのNotebookLMですが、ローカルです",
                     "zh-hans": "谷歌的NotebookLM但是本地",
                     "zh-hant": "谷歌的NotebookLM但是本地"
+                }
+            },
+            "https://github.com/pamelafox/python-openai-demos": {
+                "repository_name": "python-openai-demos",
+                "user_name": "pamelafox",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A series of short examples using the OpenAI SDK",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A series of short examples using the OpenAI SDK",
+                    "ja": "OpenAI SDKを使用した短い例のシリーズ",
+                    "zh-hans": "一系列使用OpenAI SDK的简短示例",
+                    "zh-hant": "一系列使用OpenAI SDK的短範例"
+                }
+            },
+            "https://github.com/tensorblock/forge": {
+                "repository_name": "forge",
+                "user_name": "TensorBlock",
+                "language": "Python",
+                "license": "Other",
+                "description": "Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, and easy integration into existing tools and frontends. Built for security, scalability, and extensibility.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, and easy integration into existing tools and frontends.",
+                    "ja": "Forgeは、単一のAPIを介して複数のAIモデルプロバイダ（OpenAI、Anthropicなど）へのアクセスを統合するセルフホスト型のミドルウェアです。OpenAI互換のインターフェース、暗号化されたAPIキー管理、既存のツールやフロントエンドへの簡単な統合をサポートしています。",
+                    "zh-hans": "Forge是一个自托管的中间件，通过单一API统一访问多个AI模型提供商（如OpenAI、Anthropic）。它支持与OpenAI兼容的接口，加密的API密钥管理，并且可以轻松集成到现有工具和前端中。",
+                    "zh-hant": "Forge 是一個自託管的中間件，通過單一 API 將多個 AI 模型提供商（如 OpenAI、Anthropic）的訪問統一起來。它支持與 OpenAI 兼容的接口、加密 API 金鑰管理，並且可以輕鬆集成到現有工具和前端中。"
                 }
             }
         },

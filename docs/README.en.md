@@ -16,20 +16,24 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.
+**Prompts**
+ * [zcf](https://github.com/ufomiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 
 
-**NLP**
- * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith is a powerful, AI-driven documentation generation tool built on the AIGNE Framework. It automates the creation of detailed, structured, and multi-language documentation directly from your source code.
- * [mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
+**Chatbots**
+ * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT a powerful, evil brother of WormGPT.
 
 
 **Langchain**
- * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
+ * [LlmTornado](https://github.com/lofcz/llmtornado) - The .NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, MoonshotAI, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!
 
 
-_Updated on September 29, 2025_ (A total of 2275 repositories listed.)
+**Openai**
+ * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - A series of short examples using the OpenAI SDK
+ * [forge](https://github.com/tensorblock/forge) - Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, and easy integration into existing tools and frontends.
+
+
+_Updated on October 02, 2025_ (A total of 2280 repositories listed.)
 
 ## Table of contents
 
@@ -303,6 +307,7 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - Sample prompts for various generative AIs such as ChatGPT and Copilot in Japanese.
  * [judgeval](https://github.com/judgmentlabs/judgeval) - The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.
  * [gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
+ * [zcf](https://github.com/ufomiao/zcf) - Zero-Config Code Flow for Claude code & Codex
 
 
 ## Chatbots
@@ -648,6 +653,7 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [TuyaOpen](https://github.com/tuya/tuyaopen) - Next-gen AI+IoT framework for T2/T3/T5AI/ESP32/and more – Fast IoT and AI Agent hardware integration
  * [bagel](https://github.com/extelligence-ai/bagel) - Understand robotics and drone data with MCP and LLMs. ChatGPT for Physical AI.
  * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
+ * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT a powerful, evil brother of WormGPT.
 
 
 ## Browser-extensions
@@ -1650,6 +1656,7 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ Python-free Rust inference server — OpenAI-API compatible. GGUF + SafeTensors, hot model swap, auto-discovery, single binary. FREE now, FREE forever.
  * [samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
  * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
+ * [LlmTornado](https://github.com/lofcz/llmtornado) - The .NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, MoonshotAI, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!
 
 
 ## Unity
@@ -1950,6 +1957,8 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - An MCP Multimodal AI Agent with eyes and ears!
  * [openai-ruby](https://github.com/openai/openai-ruby) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
  * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - Googles NotebookLM but local
+ * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - A series of short examples using the OpenAI SDK
+ * [forge](https://github.com/tensorblock/forge) - Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, and easy integration into existing tools and frontends.
 
 
 ## Others
