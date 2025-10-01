@@ -16,20 +16,24 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。
+**Prompts**
+ * [zcf](https://github.com/ufomiao/zcf) - クロードコードとコーデックスのためのゼロ構成コードフロー
 
 
-**NLP**
- * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmithは、AIGNEフレームワーク上に構築された強力なAI駆動のドキュメンテーション生成ツールです。ソースコードから詳細で構造化された多言語ドキュメンテーションを自動生成します。
- * [mcp-hub](https://github.com/ravitemer/mcp-hub) - モデルコンテキストプロトコル（MCP）サーバーのための集中管理者、動的サーバー管理および監視
+**Chatbots**
+ * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。
 
 
 **Langchain**
- * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 最新のLLMsとVLMsをGPU、NPU、CPUで実行し、Python、Android Java、iOS Swift向けのバインディングを使用して、OpenAI gpt-oss、Gemma 3、Qwen3などを素早く起動して実行します。
+ * [LlmTornado](https://github.com/lofcz/llmtornado) - 100以上のLLM APIを使用してAIシステムを構築するための.NETライブラリ：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAIなど、さらに多くのもの！
 
 
-_Updated on September 29, 2025_ (A total of 2275 repositories listed.)
+**Openai**
+ * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - OpenAI SDKを使用した短い例のシリーズ
+ * [forge](https://github.com/tensorblock/forge) - Forgeは、単一のAPIを介して複数のAIモデルプロバイダ（OpenAI、Anthropicなど）へのアクセスを統合するセルフホスト型のミドルウェアです。OpenAI互換のインターフェース、暗号化されたAPIキー管理、既存のツールやフロントエンドへの簡単な統合をサポートしています。
+
+
+_Updated on October 02, 2025_ (A total of 2280 repositories listed.)
 
 ## Table of contents
 
@@ -303,6 +307,7 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
  * [judgeval](https://github.com/judgmentlabs/judgeval) - エージェント向けのオープンソースのポストビルディングレイヤー。当社のトレース+評価は、エージェントのポストトレーニング（RL、SFT）、モニタリング、および回帰テストを強化します。
  * [gateway](https://github.com/adaline/gateway) - たった一つの完全にローカルな製品グレードのスーパーSDKは、200以上のLLMを呼び出すためのシンプルで統一された強力なインターフェースを提供します。
+ * [zcf](https://github.com/ufomiao/zcf) - クロードコードとコーデックスのためのゼロ構成コードフロー
 
 
 ## Chatbots
@@ -648,6 +653,7 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [TuyaOpen](https://github.com/tuya/tuyaopen) - 次世代AI+IoTフレームワーク、T2/T3/T5AI/ESP32/およびその他向け - 高速IoTおよびAIエージェントハードウェアの統合
  * [bagel](https://github.com/extelligence-ai/bagel) - MCPとLLMsを使用して、ロボティクスとドローンデータを理解する。物理AIのためのChatGPT。
  * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 CopilotKit、Tavily、LangGraphによって強化された、HITL（Human in The Loop）機能を備えたリアルタイム検索を実行するオープンソースのAIエージェントネイティブ研究キャンバスアプリケーション
+ * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。
 
 
 ## Browser-extensions
@@ -1650,6 +1656,7 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⚡ PythonフリーのRust推論サーバー — OpenAI-API互換。GGUF + SafeTensors、ホットモデルスワップ、自動検出、シングルバイナリ。今すぐ無料、永久に無料。
  * [samples](https://github.com/strands-agents/samples) - Strands Agents SDKを使用して構築されたエージェントサンプル。
  * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 最新のLLMsとVLMsをGPU、NPU、CPUで実行し、Python、Android Java、iOS Swift向けのバインディングを使用して、OpenAI gpt-oss、Gemma 3、Qwen3などを素早く起動して実行します。
+ * [LlmTornado](https://github.com/lofcz/llmtornado) - 100以上のLLM APIを使用してAIシステムを構築するための.NETライブラリ：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAIなど、さらに多くのもの！
 
 
 ## Unity
@@ -1950,6 +1957,8 @@ _Updated on September 29, 2025_ (A total of 2275 repositories listed.)
  * [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - 目と耳を持つMCPマルチモーダルAIエージェント！
  * [openai-ruby](https://github.com/openai/openai-ruby) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
  * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - GoogleのNotebookLMですが、ローカルです
+ * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - OpenAI SDKを使用した短い例のシリーズ
+ * [forge](https://github.com/tensorblock/forge) - Forgeは、単一のAPIを介して複数のAIモデルプロバイダ（OpenAI、Anthropicなど）へのアクセスを統合するセルフホスト型のミドルウェアです。OpenAI互換のインターフェース、暗号化されたAPIキー管理、既存のツールやフロントエンドへの簡単な統合をサポートしています。
 
 
 ## Others
