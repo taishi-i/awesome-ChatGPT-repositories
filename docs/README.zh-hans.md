@@ -17,23 +17,23 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [zcf](https://github.com/ufomiao/zcf) - 为Claude代码和Codex提供零配置代码流程
+ * [generator](https://github.com/context-hub/generator) - CTX：一种工具，用于解决与LLM（如ChatGPT或Claude）一起工作时的上下文管理差距。它帮助开发人员将信息组织起来，并自动从他们的代码库中收集信息，形成结构化文档，可以轻松与AI助手共享。
 
 
 **Chatbots**
- * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT是WormGPT的强大邪恶兄弟。
+ * [bolna](https://github.com/bolna-ai/bolna) - 对话式语音人工智能代理
 
 
-**Langchain**
- * [LlmTornado](https://github.com/lofcz/llmtornado) - 使用100多个LLM API构建AI系统的.NET库：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！
+**CLIs**
+ * [aicommit2](https://github.com/tak-bro/aicommit2) - 一个生成Git和Jujutsu提交消息的反应式CLI，使用Ollama、ChatGPT、Gemini、Claude、Mistral和其他人工智能。
+ * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - 街机工具开发工具包（TDK），工人，评估和CLI
 
 
-**Openai**
- * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - 一系列使用OpenAI SDK的简短示例
- * [forge](https://github.com/tensorblock/forge) - Forge是一个自托管的中间件，通过单一API统一访问多个AI模型提供商（如OpenAI、Anthropic）。它支持与OpenAI兼容的接口，加密的API密钥管理，并且可以轻松集成到现有工具和前端中。
+**NLP**
+ * [MineContext](https://github.com/volcengine/minecontext) - MineContext是您主动的上下文感知人工智能伙伴（上下文工程+ChatGPT Pulse）
 
 
-_Updated on October 02, 2025_ (A total of 2280 repositories listed.)
+_Updated on October 06, 2025_ (A total of 2285 repositories listed.)
 
 ## Table of contents
 
@@ -308,6 +308,7 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [judgeval](https://github.com/judgmentlabs/judgeval) - 为代理商提供的开源后建层。我们的跟踪+评估功能可为代理商提供培训后的支持（RL，SFT），监控和回归测试。
  * [gateway](https://github.com/adaline/gateway) - 提供简单、统一、强大接口的唯一完全本地生产级Super SDK，可调用200多个LLM。
  * [zcf](https://github.com/ufomiao/zcf) - 为Claude代码和Codex提供零配置代码流程
+ * [generator](https://github.com/context-hub/generator) - CTX：一种工具，用于解决与LLM（如ChatGPT或Claude）一起工作时的上下文管理差距。它帮助开发人员将信息组织起来，并自动从他们的代码库中收集信息，形成结构化文档，可以轻松与AI助手共享。
 
 
 ## Chatbots
@@ -654,6 +655,7 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [bagel](https://github.com/extelligence-ai/bagel) - 使用MCP和LLMs了解机器人技术和无人机数据。ChatGPT用于物理人工智能。
  * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 一个开源的，AI代理原生的研究画布应用程序，具有HITL（人在环中）功能，由CopilotKit，Tavily和LangGraph提供支持。
  * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT是WormGPT的强大邪恶兄弟。
+ * [bolna](https://github.com/bolna-ai/bolna) - 对话式语音人工智能代理
 
 
 ## Browser-extensions
@@ -1069,6 +1071,8 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - 将Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您可以通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
  * [nanocoder](https://github.com/nano-collective/nanocoder) - 一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒
  * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis矢量库（RedisVL）- Redis的AI原生Python客户端。
+ * [aicommit2](https://github.com/tak-bro/aicommit2) - 一个生成Git和Jujutsu提交消息的反应式CLI，使用Ollama、ChatGPT、Gemini、Claude、Mistral和其他人工智能。
+ * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - 街机工具开发工具包（TDK），工人，评估和CLI
 
 
 ## Reimplementations
@@ -1490,6 +1494,7 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [echo](https://github.com/merit-systems/echo) - Echo是一种适用于所有AI API的一站式计费解决方案。
  * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith是一个强大的、基于AIGNE框架构建的AI驱动文档生成工具。它可以自动从您的源代码中生成详细、结构化和多语言文档。
  * [mcp-hub](https://github.com/ravitemer/mcp-hub) - 一个集中管理器，用于Model Context Protocol（MCP）服务器，具有动态服务器管理和监控。
+ * [MineContext](https://github.com/volcengine/minecontext) - MineContext是您主动的上下文感知人工智能伙伴（上下文工程+ChatGPT Pulse）
 
 
 ## Langchain
