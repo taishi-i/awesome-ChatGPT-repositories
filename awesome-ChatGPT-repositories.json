@@ -6171,6 +6171,35 @@
                     "zh-hans": "为Claude代码和Codex提供零配置代码流程",
                     "zh-hant": "為Claude代碼和Codex提供零配置代碼流程"
                 }
+            },
+            "https://github.com/context-hub/generator": {
+                "repository_name": "generator",
+                "user_name": "context-hub",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.",
+                "topics": [
+                    "context",
+                    "context-aware-ai",
+                    "context-engineering",
+                    "context-extractor",
+                    "hacktoberfest",
+                    "instructions",
+                    "llm",
+                    "mcp",
+                    "mcp-server",
+                    "mcp-servers",
+                    "mcp-tools",
+                    "php",
+                    "prompt-engineering",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.",
+                    "ja": "CTX：ChatGPTやClaudeのようなLLMを使用する際のコンテキスト管理のギャップを解決するツール。開発者がコードベースから情報を整理し、AIアシスタントと簡単に共有できる構造化されたドキュメントに自動的に収集するのを支援します。",
+                    "zh-hans": "CTX：一种工具，用于解决与LLM（如ChatGPT或Claude）一起工作时的上下文管理差距。它帮助开发人员将信息组织起来，并自动从他们的代码库中收集信息，形成结构化文档，可以轻松与AI助手共享。",
+                    "zh-hant": "CTX：一種工具，用於解決與LLM（如ChatGPT或Claude）一起工作時的上下文管理差距。它幫助開發人員將信息組織起來，並自動從其代碼庫中收集信息，形成結構化文件，可以輕鬆與AI助手共享。"
+                }
             }
         },
         "Chatbots": {
@@ -14707,6 +14736,40 @@
                     "ja": "Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。",
                     "zh-hans": "Hacx GPT是WormGPT的强大邪恶兄弟。",
                     "zh-hant": "Hacx GPT是WormGPT的強大邪惡兄弟。"
+                }
+            },
+            "https://github.com/bolna-ai/bolna": {
+                "repository_name": "bolna",
+                "user_name": "bolna-ai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Conversational voice AI agents",
+                "topics": [
+                    "agentic-ai",
+                    "agents",
+                    "ai-agents",
+                    "cartesia",
+                    "deepgram",
+                    "deepseek",
+                    "deepseek-chat",
+                    "deepseek-r1",
+                    "elevenlabs",
+                    "function-calling",
+                    "gpt-4",
+                    "hacktoberfest",
+                    "llama",
+                    "openai",
+                    "plivo",
+                    "twilio",
+                    "voice-agents",
+                    "voice-assistant",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Conversational voice AI agents",
+                    "ja": "会話型音声AIエージェント",
+                    "zh-hans": "对话式语音人工智能代理",
+                    "zh-hant": "對話式語音人工智慧代理程式"
                 }
             }
         },
@@ -24370,6 +24433,72 @@
                     "zh-hans": "Redis矢量库（RedisVL）- Redis的AI原生Python客户端。",
                     "zh-hant": "Redis 向量庫（RedisVL）- Redis 的 AI 原生 Python 客戶端。"
                 }
+            },
+            "https://github.com/tak-bro/aicommit2": {
+                "repository_name": "aicommit2",
+                "user_name": "tak-bro",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI",
+                "topics": [
+                    "ai-commits",
+                    "aicommit",
+                    "aicommits",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "cli",
+                    "codestral",
+                    "cohere",
+                    "deepseek",
+                    "git-commit",
+                    "groq",
+                    "jj",
+                    "jujutsu",
+                    "llama",
+                    "mistral",
+                    "ollama",
+                    "perplexity",
+                    "pre-commit",
+                    "pre-commit-hook"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI",
+                    "ja": "Ollama、ChatGPT、Gemini、Claude、MistralなどのAIを使用してGitと呪術のためのコミットメッセージを生成するリアクティブCLI",
+                    "zh-hans": "一个生成Git和Jujutsu提交消息的反应式CLI，使用Ollama、ChatGPT、Gemini、Claude、Mistral和其他人工智能。",
+                    "zh-hant": "一個反應式的CLI，可以使用Ollama、ChatGPT、Gemini、Claude、Mistral和其他人工智慧生成Git和Jujutsu的提交消息。"
+                }
+            },
+            "https://github.com/arcadeai/arcade-mcp": {
+                "repository_name": "arcade-mcp",
+                "user_name": "ArcadeAI",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Arcade Tool Development Kit (TDK), Worker, Evals, and CLI",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "arcade",
+                    "arcade-ai",
+                    "artificial-intelligence",
+                    "langchain",
+                    "langgraph",
+                    "llm",
+                    "llm-tool-call",
+                    "llm-tools",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-servers",
+                    "mcp-tools",
+                    "openai",
+                    "toolcalling"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Arcade Tool Development Kit (TDK), Worker, Evals, and CLI",
+                    "ja": "アーケードツール開発キット（TDK）、ワーカー、評価、およびCLI",
+                    "zh-hans": "街机工具开发工具包（TDK），工人，评估和CLI",
+                    "zh-hant": "街機工具開發套件（TDK），工作人員，評估和CLI"
+                }
             }
         },
         "Reimplementations": {
@@ -33438,6 +33567,20 @@
                     "ja": "モデルコンテキストプロトコル（MCP）サーバーのための集中管理者、動的サーバー管理および監視",
                     "zh-hans": "一个集中管理器，用于Model Context Protocol（MCP）服务器，具有动态服务器管理和监控。",
                     "zh-hant": "一個集中管理Model Context Protocol（MCP）伺服器的管理員，具有動態伺服器管理和監控功能。"
+                }
+            },
+            "https://github.com/volcengine/minecontext": {
+                "repository_name": "MineContext",
+                "user_name": "volcengine",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）",
+                    "ja": "MineContextは、あなたの積極的なコンテキスト認識AIパートナーです（コンテキストエンジニアリング+ChatGPT Pulse）",
+                    "zh-hans": "MineContext是您主动的上下文感知人工智能伙伴（上下文工程+ChatGPT Pulse）",
+                    "zh-hant": "MineContext 是您主動的上下文感知人工智慧夥伴（上下文工程+ChatGPT Pulse）"
                 }
             }
         },

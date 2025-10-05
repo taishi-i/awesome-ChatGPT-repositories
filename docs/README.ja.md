@@ -17,23 +17,23 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [zcf](https://github.com/ufomiao/zcf) - クロードコードとコーデックスのためのゼロ構成コードフロー
+ * [generator](https://github.com/context-hub/generator) - CTX：ChatGPTやClaudeのようなLLMを使用する際のコンテキスト管理のギャップを解決するツール。開発者がコードベースから情報を整理し、AIアシスタントと簡単に共有できる構造化されたドキュメントに自動的に収集するのを支援します。
 
 
 **Chatbots**
- * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。
+ * [bolna](https://github.com/bolna-ai/bolna) - 会話型音声AIエージェント
 
 
-**Langchain**
- * [LlmTornado](https://github.com/lofcz/llmtornado) - 100以上のLLM APIを使用してAIシステムを構築するための.NETライブラリ：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAIなど、さらに多くのもの！
+**CLIs**
+ * [aicommit2](https://github.com/tak-bro/aicommit2) - Ollama、ChatGPT、Gemini、Claude、MistralなどのAIを使用してGitと呪術のためのコミットメッセージを生成するリアクティブCLI
+ * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - アーケードツール開発キット（TDK）、ワーカー、評価、およびCLI
 
 
-**Openai**
- * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - OpenAI SDKを使用した短い例のシリーズ
- * [forge](https://github.com/tensorblock/forge) - Forgeは、単一のAPIを介して複数のAIモデルプロバイダ（OpenAI、Anthropicなど）へのアクセスを統合するセルフホスト型のミドルウェアです。OpenAI互換のインターフェース、暗号化されたAPIキー管理、既存のツールやフロントエンドへの簡単な統合をサポートしています。
+**NLP**
+ * [MineContext](https://github.com/volcengine/minecontext) - MineContextは、あなたの積極的なコンテキスト認識AIパートナーです（コンテキストエンジニアリング+ChatGPT Pulse）
 
 
-_Updated on October 02, 2025_ (A total of 2280 repositories listed.)
+_Updated on October 06, 2025_ (A total of 2285 repositories listed.)
 
 ## Table of contents
 
@@ -308,6 +308,7 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [judgeval](https://github.com/judgmentlabs/judgeval) - エージェント向けのオープンソースのポストビルディングレイヤー。当社のトレース+評価は、エージェントのポストトレーニング（RL、SFT）、モニタリング、および回帰テストを強化します。
  * [gateway](https://github.com/adaline/gateway) - たった一つの完全にローカルな製品グレードのスーパーSDKは、200以上のLLMを呼び出すためのシンプルで統一された強力なインターフェースを提供します。
  * [zcf](https://github.com/ufomiao/zcf) - クロードコードとコーデックスのためのゼロ構成コードフロー
+ * [generator](https://github.com/context-hub/generator) - CTX：ChatGPTやClaudeのようなLLMを使用する際のコンテキスト管理のギャップを解決するツール。開発者がコードベースから情報を整理し、AIアシスタントと簡単に共有できる構造化されたドキュメントに自動的に収集するのを支援します。
 
 
 ## Chatbots
@@ -654,6 +655,7 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [bagel](https://github.com/extelligence-ai/bagel) - MCPとLLMsを使用して、ロボティクスとドローンデータを理解する。物理AIのためのChatGPT。
  * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 CopilotKit、Tavily、LangGraphによって強化された、HITL（Human in The Loop）機能を備えたリアルタイム検索を実行するオープンソースのAIエージェントネイティブ研究キャンバスアプリケーション
  * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。
+ * [bolna](https://github.com/bolna-ai/bolna) - 会話型音声AIエージェント
 
 
 ## Browser-extensions
@@ -1069,6 +1071,8 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - ジェミニCLI、ChatGPT Codex、Claude Code、Qwen CodeをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPIを通じて利用できるようにします。
  * [nanocoder](https://github.com/nano-collective/nanocoder) - ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
  * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。
+ * [aicommit2](https://github.com/tak-bro/aicommit2) - Ollama、ChatGPT、Gemini、Claude、MistralなどのAIを使用してGitと呪術のためのコミットメッセージを生成するリアクティブCLI
+ * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - アーケードツール開発キット（TDK）、ワーカー、評価、およびCLI
 
 
 ## Reimplementations
@@ -1490,6 +1494,7 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [echo](https://github.com/merit-systems/echo) - EchoはすべてのAI API向けのボックス型の請求ソリューションです。
  * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmithは、AIGNEフレームワーク上に構築された強力なAI駆動のドキュメンテーション生成ツールです。ソースコードから詳細で構造化された多言語ドキュメンテーションを自動生成します。
  * [mcp-hub](https://github.com/ravitemer/mcp-hub) - モデルコンテキストプロトコル（MCP）サーバーのための集中管理者、動的サーバー管理および監視
+ * [MineContext](https://github.com/volcengine/minecontext) - MineContextは、あなたの積極的なコンテキスト認識AIパートナーです（コンテキストエンジニアリング+ChatGPT Pulse）
 
 
 ## Langchain

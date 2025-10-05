@@ -17,23 +17,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [zcf](https://github.com/ufomiao/zcf) - Zero-Config Code Flow for Claude code & Codex
+ * [generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.
 
 
 **Chatbots**
- * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT a powerful, evil brother of WormGPT.
+ * [bolna](https://github.com/bolna-ai/bolna) - Conversational voice AI agents
 
 
-**Langchain**
- * [LlmTornado](https://github.com/lofcz/llmtornado) - The .NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, MoonshotAI, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!
+**CLIs**
+ * [aicommit2](https://github.com/tak-bro/aicommit2) - A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
+ * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - Arcade Tool Development Kit (TDK), Worker, Evals, and CLI
 
 
-**Openai**
- * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - A series of short examples using the OpenAI SDK
- * [forge](https://github.com/tensorblock/forge) - Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, and easy integration into existing tools and frontends.
+**NLP**
+ * [MineContext](https://github.com/volcengine/minecontext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 
 
-_Updated on October 02, 2025_ (A total of 2280 repositories listed.)
+_Updated on October 06, 2025_ (A total of 2285 repositories listed.)
 
 ## Table of contents
 
@@ -308,6 +308,7 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [judgeval](https://github.com/judgmentlabs/judgeval) - The open source post-building layer for agents. Our traces + evals power agent post-training (RL, SFT), monitoring, and regression testing.
  * [gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
  * [zcf](https://github.com/ufomiao/zcf) - Zero-Config Code Flow for Claude code & Codex
+ * [generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.
 
 
 ## Chatbots
@@ -654,6 +655,7 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [bagel](https://github.com/extelligence-ai/bagel) - Understand robotics and drone data with MCP and LLMs. ChatGPT for Physical AI.
  * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
  * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT a powerful, evil brother of WormGPT.
+ * [bolna](https://github.com/bolna-ai/bolna) - Conversational voice AI agents
 
 
 ## Browser-extensions
@@ -1069,6 +1071,8 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - Wrap Gemini CLI, ChatGPT Codex, Claude Code, Qwen Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API
  * [nanocoder](https://github.com/nano-collective/nanocoder) - A beautiful local-first coding agent running in your terminal - built by the community for the community ⚒
  * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.
+ * [aicommit2](https://github.com/tak-bro/aicommit2) - A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
+ * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - Arcade Tool Development Kit (TDK), Worker, Evals, and CLI
 
 
 ## Reimplementations
@@ -1490,6 +1494,7 @@ _Updated on October 02, 2025_ (A total of 2280 repositories listed.)
  * [echo](https://github.com/merit-systems/echo) - Echo is a billing in a box solution for all AI APIs
  * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith is a powerful, AI-driven documentation generation tool built on the AIGNE Framework. It automates the creation of detailed, structured, and multi-language documentation directly from your source code.
  * [mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
+ * [MineContext](https://github.com/volcengine/minecontext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 
 
 ## Langchain
