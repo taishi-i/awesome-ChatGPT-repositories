@@ -17,23 +17,34 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [generator](https://github.com/context-hub/generator) - CTX：一种工具，用于解决与LLM（如ChatGPT或Claude）一起工作时的上下文管理差距。它帮助开发人员将信息组织起来，并自动从他们的代码库中收集信息，形成结构化文档，可以轻松与AI助手共享。
+ * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - 手术环境工程带有漂亮的用户界面，支持Windows，Mac，Linux，BSD等系统，适用于任何支持Python和Qt的平台。
+ * [codexia](https://github.com/milisp/codexia) - Codex CLI的强大GUI/IDE和工具包。分叉聊天+文件树+提示记事本，Codex社区等
 
 
-**Chatbots**
- * [bolna](https://github.com/bolna-ai/bolna) - 对话式语音人工智能代理
+**Browser-extensions**
+ * [Translate-It](https://github.com/isegaro/translate-it) - Chrome/Firefox浏览器插件，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能。输出：使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能的Chrome/Firefox浏览器插件。
 
 
 **CLIs**
- * [aicommit2](https://github.com/tak-bro/aicommit2) - 一个生成Git和Jujutsu提交消息的反应式CLI，使用Ollama、ChatGPT、Gemini、Claude、Mistral和其他人工智能。
- * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - 街机工具开发工具包（TDK），工人，评估和CLI
+ * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony 是一个强大的 PHP API 客户端，允许您与 OpenAI API 进行交互。
+ * [higlabo](https://github.com/higty/higlabo) - HigLabo库提供1.AI客户端库（OpenAI，Anthoripic，Groq）2.对象映射器（世界上最快的）3.DbSharp（DAL生成器）4.其他（邮件，FTP，实用程序等）
+
+
+**Reimplementations**
+ * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - 适用于Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA和未来实现的命令框架。
 
 
 **NLP**
- * [MineContext](https://github.com/volcengine/minecontext) - MineContext是您主动的上下文感知人工智能伙伴（上下文工程+ChatGPT Pulse）
+ * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - “大型语言模型快速入门指南”官方存储库
+ * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - 用Laravel的方式构建、测试和部署智能AI代理
 
 
-_Updated on October 06, 2025_ (A total of 2285 repositories listed.)
+**Openai**
+ * [PRarena](https://github.com/aavetis/prarena) - 这个仓库跟踪OpenAI、GitHub和其他公司顶级软件工程师编码代理人开放和合并的PR。每3小时更新一次。
+ * [archestra](https://github.com/archestra-ai/archestra) - 安全平台为企业代理人提供MCP、防护栏、本地代理人等功能！
+
+
+_Updated on October 09, 2025_ (A total of 2295 repositories listed.)
 
 ## Table of contents
 
@@ -309,6 +320,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [gateway](https://github.com/adaline/gateway) - 提供简单、统一、强大接口的唯一完全本地生产级Super SDK，可调用200多个LLM。
  * [zcf](https://github.com/ufomiao/zcf) - 为Claude代码和Codex提供零配置代码流程
  * [generator](https://github.com/context-hub/generator) - CTX：一种工具，用于解决与LLM（如ChatGPT或Claude）一起工作时的上下文管理差距。它帮助开发人员将信息组织起来，并自动从他们的代码库中收集信息，形成结构化文档，可以轻松与AI助手共享。
+ * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - 手术环境工程带有漂亮的用户界面，支持Windows，Mac，Linux，BSD等系统，适用于任何支持Python和Qt的平台。
+ * [codexia](https://github.com/milisp/codexia) - Codex CLI的强大GUI/IDE和工具包。分叉聊天+文件树+提示记事本，Codex社区等
 
 
 ## Chatbots
@@ -885,6 +898,7 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [koog](https://github.com/jetbrains/koog) - Koog是官方的Kotlin框架，用于构建和运行强大、可扩展和生产就绪的AI代理，适用于各种平台-从后端服务到Android、JVM，甚至浏览器环境。Koog基于我们的AI产品专业知识。
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP服务器+Unity编辑器和Unity游戏的插件。该插件允许连接到像Claude Desktop等MCP客户端。
  * [chatluna](https://github.com/chatlunalab/chatluna) - 一个用于LLM聊天的机器人插件，具有多模型集成、可扩展性和多种输出格式。
+ * [Translate-It](https://github.com/isegaro/translate-it) - Chrome/Firefox浏览器插件，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能。输出：使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能的Chrome/Firefox浏览器插件。
 
 
 ## CLIs
@@ -1073,6 +1087,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis矢量库（RedisVL）- Redis的AI原生Python客户端。
  * [aicommit2](https://github.com/tak-bro/aicommit2) - 一个生成Git和Jujutsu提交消息的反应式CLI，使用Ollama、ChatGPT、Gemini、Claude、Mistral和其他人工智能。
  * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - 街机工具开发工具包（TDK），工人，评估和CLI
+ * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony 是一个强大的 PHP API 客户端，允许您与 OpenAI API 进行交互。
+ * [higlabo](https://github.com/higty/higlabo) - HigLabo库提供1.AI客户端库（OpenAI，Anthoripic，Groq）2.对象映射器（世界上最快的）3.DbSharp（DAL生成器）4.其他（邮件，FTP，实用程序等）
 
 
 ## Reimplementations
@@ -1117,6 +1133,7 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - 以更简单的方式实现所有强化学习算法
  * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - 以更简单的方式实现所有的RAG技术
  * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAI的TikToken的高性能实现。
+ * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - 适用于Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA和未来实现的命令框架。
 
 
 ## Tutorials
@@ -1495,6 +1512,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith是一个强大的、基于AIGNE框架构建的AI驱动文档生成工具。它可以自动从您的源代码中生成详细、结构化和多语言文档。
  * [mcp-hub](https://github.com/ravitemer/mcp-hub) - 一个集中管理器，用于Model Context Protocol（MCP）服务器，具有动态服务器管理和监控。
  * [MineContext](https://github.com/volcengine/minecontext) - MineContext是您主动的上下文感知人工智能伙伴（上下文工程+ChatGPT Pulse）
+ * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - “大型语言模型快速入门指南”官方存储库
+ * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - 用Laravel的方式构建、测试和部署智能AI代理
 
 
 ## Langchain
@@ -1964,6 +1983,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - 谷歌的NotebookLM但是本地
  * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - 一系列使用OpenAI SDK的简短示例
  * [forge](https://github.com/tensorblock/forge) - Forge是一个自托管的中间件，通过单一API统一访问多个AI模型提供商（如OpenAI、Anthropic）。它支持与OpenAI兼容的接口，加密的API密钥管理，并且可以轻松集成到现有工具和前端中。
+ * [PRarena](https://github.com/aavetis/prarena) - 这个仓库跟踪OpenAI、GitHub和其他公司顶级软件工程师编码代理人开放和合并的PR。每3小时更新一次。
+ * [archestra](https://github.com/archestra-ai/archestra) - 安全平台为企业代理人提供MCP、防护栏、本地代理人等功能！
 
 
 ## Others

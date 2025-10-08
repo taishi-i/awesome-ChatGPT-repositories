@@ -17,23 +17,34 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [generator](https://github.com/context-hub/generator) - CTX：ChatGPTやClaudeのようなLLMを使用する際のコンテキスト管理のギャップを解決するツール。開発者がコードベースから情報を整理し、AIアシスタントと簡単に共有できる構造化されたドキュメントに自動的に収集するのを支援します。
+ * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - 手術の文脈エンジニアリングと素敵なUI、Windows、Mac、Linux、BSD、PythonとQtが動作するどこでも
+ * [codexia](https://github.com/milisp/codexia) - Codex CLI用の強力なGUI/IDEおよびツールキット。Fork chat + FileTree + prompt notepad、Codexコミュニティなど
 
 
-**Chatbots**
- * [bolna](https://github.com/bolna-ai/bolna) - 会話型音声AIエージェント
+**Browser-extensions**
+ * [Translate-It](https://github.com/isegaro/translate-it) - Google Gemini、OpenAi、OpenRouter、WebAiのAPIを使用して、どの言語からどの言語への翻訳（読み取り/書き込み/聞き取り）を行うChrome/Firefox拡張機能。どの言語からどの言語への翻訳を行うChrome/Firefox拡張機能。
 
 
 **CLIs**
- * [aicommit2](https://github.com/tak-bro/aicommit2) - Ollama、ChatGPT、Gemini、Claude、MistralなどのAIを使用してGitと呪術のためのコミットメッセージを生成するリアクティブCLI
- * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - アーケードツール開発キット（TDK）、ワーカー、評価、およびCLI
+ * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfonyは、OpenAI APIとやり取りすることができる強力なPHP APIクライアントです。
+ * [higlabo](https://github.com/higty/higlabo) - HigLaboライブラリは、1.AIクライアントライブラリ（OpenAI、Anthoripic、Groq）2.オブジェクトマッパー（世界最速）3.DbSharp（DALジェネレーター）4.その他（メール、FTP、ユーティリティなど）を提供します。
+
+
+**Reimplementations**
+ * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。
 
 
 **NLP**
- * [MineContext](https://github.com/volcengine/minecontext) - MineContextは、あなたの積極的なコンテキスト認識AIパートナーです（コンテキストエンジニアリング+ChatGPT Pulse）
+ * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - 「大規模言語モデルのクイックスタートガイド」の公式レポ。
+ * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Laravelの方法で知的AIエージェントを構築、テスト、展開します。
 
 
-_Updated on October 06, 2025_ (A total of 2285 repositories listed.)
+**Openai**
+ * [PRarena](https://github.com/aavetis/prarena) - このリポジトリは、OpenAI、GitHub、その他のトップSWEコーディングエージェントによって開かれたおよびマージされたPRを追跡しています。3時間ごとに更新されます。
+ * [archestra](https://github.com/archestra-ai/archestra) - MCP、ガードレール、ローカルエージェントなどを備えた企業エージェント向けの安全なプラットフォーム！
+
+
+_Updated on October 09, 2025_ (A total of 2295 repositories listed.)
 
 ## Table of contents
 
@@ -309,6 +320,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [gateway](https://github.com/adaline/gateway) - たった一つの完全にローカルな製品グレードのスーパーSDKは、200以上のLLMを呼び出すためのシンプルで統一された強力なインターフェースを提供します。
  * [zcf](https://github.com/ufomiao/zcf) - クロードコードとコーデックスのためのゼロ構成コードフロー
  * [generator](https://github.com/context-hub/generator) - CTX：ChatGPTやClaudeのようなLLMを使用する際のコンテキスト管理のギャップを解決するツール。開発者がコードベースから情報を整理し、AIアシスタントと簡単に共有できる構造化されたドキュメントに自動的に収集するのを支援します。
+ * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - 手術の文脈エンジニアリングと素敵なUI、Windows、Mac、Linux、BSD、PythonとQtが動作するどこでも
+ * [codexia](https://github.com/milisp/codexia) - Codex CLI用の強力なGUI/IDEおよびツールキット。Fork chat + FileTree + prompt notepad、Codexコミュニティなど
 
 
 ## Chatbots
@@ -885,6 +898,7 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [koog](https://github.com/jetbrains/koog) - Koogは、バックエンドサービスからAndroid、JVM、さらにはブラウザ環境まで、あらゆるプラットフォームで頑丈でスケーラブルで本番向けのAIエージェントを構築および実行するための公式のKotlinフレームワークです。Koogは、私たちのAI製品の専門知識に基づいています。
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCPサーバー+UnityエディターおよびUnityゲーム用のプラグイン。このプラグインを使用すると、Claude DesktopなどのMCPクライアントに接続できます。
  * [chatluna](https://github.com/chatlunalab/chatluna) - LLMチャット用のボットプラグイン、マルチモデル統合、拡張性、さまざまな出力形式を備えています。
+ * [Translate-It](https://github.com/isegaro/translate-it) - Google Gemini、OpenAi、OpenRouter、WebAiのAPIを使用して、どの言語からどの言語への翻訳（読み取り/書き込み/聞き取り）を行うChrome/Firefox拡張機能。どの言語からどの言語への翻訳を行うChrome/Firefox拡張機能。
 
 
 ## CLIs
@@ -1073,6 +1087,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。
  * [aicommit2](https://github.com/tak-bro/aicommit2) - Ollama、ChatGPT、Gemini、Claude、MistralなどのAIを使用してGitと呪術のためのコミットメッセージを生成するリアクティブCLI
  * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - アーケードツール開発キット（TDK）、ワーカー、評価、およびCLI
+ * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfonyは、OpenAI APIとやり取りすることができる強力なPHP APIクライアントです。
+ * [higlabo](https://github.com/higty/higlabo) - HigLaboライブラリは、1.AIクライアントライブラリ（OpenAI、Anthoripic、Groq）2.オブジェクトマッパー（世界最速）3.DbSharp（DALジェネレーター）4.その他（メール、FTP、ユーティリティなど）を提供します。
 
 
 ## Reimplementations
@@ -1117,6 +1133,7 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - より簡単な方法ですべてのRLアルゴリズムの実装
  * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - より簡単な方法ですべてのRAG技術の実装
  * [TokenDagger](https://github.com/m4thyou/tokendagger) - OpenAIのTikTokenの高性能実装。
+ * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。
 
 
 ## Tutorials
@@ -1495,6 +1512,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmithは、AIGNEフレームワーク上に構築された強力なAI駆動のドキュメンテーション生成ツールです。ソースコードから詳細で構造化された多言語ドキュメンテーションを自動生成します。
  * [mcp-hub](https://github.com/ravitemer/mcp-hub) - モデルコンテキストプロトコル（MCP）サーバーのための集中管理者、動的サーバー管理および監視
  * [MineContext](https://github.com/volcengine/minecontext) - MineContextは、あなたの積極的なコンテキスト認識AIパートナーです（コンテキストエンジニアリング+ChatGPT Pulse）
+ * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - 「大規模言語モデルのクイックスタートガイド」の公式レポ。
+ * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Laravelの方法で知的AIエージェントを構築、テスト、展開します。
 
 
 ## Langchain
@@ -1964,6 +1983,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - GoogleのNotebookLMですが、ローカルです
  * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - OpenAI SDKを使用した短い例のシリーズ
  * [forge](https://github.com/tensorblock/forge) - Forgeは、単一のAPIを介して複数のAIモデルプロバイダ（OpenAI、Anthropicなど）へのアクセスを統合するセルフホスト型のミドルウェアです。OpenAI互換のインターフェース、暗号化されたAPIキー管理、既存のツールやフロントエンドへの簡単な統合をサポートしています。
+ * [PRarena](https://github.com/aavetis/prarena) - このリポジトリは、OpenAI、GitHub、その他のトップSWEコーディングエージェントによって開かれたおよびマージされたPRを追跡しています。3時間ごとに更新されます。
+ * [archestra](https://github.com/archestra-ai/archestra) - MCP、ガードレール、ローカルエージェントなどを備えた企業エージェント向けの安全なプラットフォーム！
 
 
 ## Others

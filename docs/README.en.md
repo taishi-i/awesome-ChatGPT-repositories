@@ -17,23 +17,34 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.
+ * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
+ * [codexia](https://github.com/milisp/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad, Codex community and more
 
 
-**Chatbots**
- * [bolna](https://github.com/bolna-ai/bolna) - Conversational voice AI agents
+**Browser-extensions**
+ * [Translate-It](https://github.com/isegaro/translate-it) - Chrome/Firefox extension for translating(Read/Write/Listen) from Any Languages to Any Languages using API of  Google Gemini , OpenAi , OpenRouter and  WebAi.
 
 
 **CLIs**
- * [aicommit2](https://github.com/tak-bro/aicommit2) - A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
- * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - Arcade Tool Development Kit (TDK), Worker, Evals, and CLI
+ * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
+ * [higlabo](https://github.com/higty/higlabo) - HigLabo library provide 1.AI client library(OpenAI, Anthoripic, Groq) 2.Object Mapper(fastest in the world) 3.DbSharp(DAL generator) 4.Other.(Mail, Ftp, Utility...etc)
+
+
+**Reimplementations**
+ * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.
 
 
 **NLP**
- * [MineContext](https://github.com/volcengine/minecontext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+ * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - The Official Repo for "Quick Start Guide to Large Language Models"
+ * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
 
 
-_Updated on October 06, 2025_ (A total of 2285 repositories listed.)
+**Openai**
+ * [PRarena](https://github.com/aavetis/prarena) - This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates every 3 hours.
+ * [archestra](https://github.com/archestra-ai/archestra) - Secure platform for enterprise agents with MCP, guardrails, local agent, and more!
+
+
+_Updated on October 09, 2025_ (A total of 2295 repositories listed.)
 
 ## Table of contents
 
@@ -309,6 +320,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [gateway](https://github.com/adaline/gateway) - The only fully local production-grade Super SDK that provides a simple, unified, and powerful interface for calling more than 200+ LLMs.
  * [zcf](https://github.com/ufomiao/zcf) - Zero-Config Code Flow for Claude code & Codex
  * [generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.
+ * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
+ * [codexia](https://github.com/milisp/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad, Codex community and more
 
 
 ## Chatbots
@@ -885,6 +898,7 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [koog](https://github.com/jetbrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android, JVM, and even in-browser environments. Koog is based on our AI products expertise and pr
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.
  * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
+ * [Translate-It](https://github.com/isegaro/translate-it) - Chrome/Firefox extension for translating(Read/Write/Listen) from Any Languages to Any Languages using API of  Google Gemini , OpenAi , OpenRouter and  WebAi.
 
 
 ## CLIs
@@ -1073,6 +1087,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [redis-vl-python](https://github.com/redis/redis-vl-python) - Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.
  * [aicommit2](https://github.com/tak-bro/aicommit2) - A Reactive CLI that generates commit messages for Git and Jujutsu with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI
  * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - Arcade Tool Development Kit (TDK), Worker, Evals, and CLI
+ * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
+ * [higlabo](https://github.com/higty/higlabo) - HigLabo library provide 1.AI client library(OpenAI, Anthoripic, Groq) 2.Object Mapper(fastest in the world) 3.DbSharp(DAL generator) 4.Other.(Mail, Ftp, Utility...etc)
 
 
 ## Reimplementations
@@ -1117,6 +1133,7 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - Implementation of all RL algorithms in a simpler way
  * [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
  * [TokenDagger](https://github.com/m4thyou/tokendagger) - High-Performance Implementation of OpenAI's TikToken.
+ * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.
 
 
 ## Tutorials
@@ -1495,6 +1512,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - AIGNE DocSmith is a powerful, AI-driven documentation generation tool built on the AIGNE Framework. It automates the creation of detailed, structured, and multi-language documentation directly from your source code.
  * [mcp-hub](https://github.com/ravitemer/mcp-hub) - A centralized manager for Model Context Protocol (MCP) servers with dynamic server management and monitoring
  * [MineContext](https://github.com/volcengine/minecontext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+ * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - The Official Repo for "Quick Start Guide to Large Language Models"
+ * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
 
 
 ## Langchain
@@ -1964,6 +1983,8 @@ _Updated on October 06, 2025_ (A total of 2285 repositories listed.)
  * [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - Googles NotebookLM but local
  * [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - A series of short examples using the OpenAI SDK
  * [forge](https://github.com/tensorblock/forge) - Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, and easy integration into existing tools and frontends.
+ * [PRarena](https://github.com/aavetis/prarena) - This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates every 3 hours.
+ * [archestra](https://github.com/archestra-ai/archestra) - Secure platform for enterprise agents with MCP, guardrails, local agent, and more!
 
 
 ## Others
