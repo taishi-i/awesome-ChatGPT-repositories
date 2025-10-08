@@ -6200,6 +6200,70 @@
                     "zh-hans": "CTX：一种工具，用于解决与LLM（如ChatGPT或Claude）一起工作时的上下文管理差距。它帮助开发人员将信息组织起来，并自动从他们的代码库中收集信息，形成结构化文档，可以轻松与AI助手共享。",
                     "zh-hant": "CTX：一種工具，用於解決與LLM（如ChatGPT或Claude）一起工作時的上下文管理差距。它幫助開發人員將信息組織起來，並自動從其代碼庫中收集信息，形成結構化文件，可以輕鬆與AI助手共享。"
                 }
+            },
+            "https://github.com/detroittommy879/aicodeprep-gui": {
+                "repository_name": "aicodeprep-gui",
+                "user_name": "detroittommy879",
+                "language": "Python",
+                "license": "Other",
+                "description": "Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "chatgpt",
+                    "code-analysis",
+                    "context",
+                    "context-management",
+                    "developer-experience",
+                    "developer-tools",
+                    "ide",
+                    "llm-tools",
+                    "openai",
+                    "productivity",
+                    "prompt-engineering",
+                    "python",
+                    "qt6"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run",
+                    "ja": "手術の文脈エンジニアリングと素敵なUI、Windows、Mac、Linux、BSD、PythonとQtが動作するどこでも",
+                    "zh-hans": "手术环境工程带有漂亮的用户界面，支持Windows，Mac，Linux，BSD等系统，适用于任何支持Python和Qt的平台。",
+                    "zh-hant": "具有良好UI的手術上下文工程，支持Windows、Mac、Linux、BSD等任何運行Python和Qt的地方。"
+                }
+            },
+            "https://github.com/milisp/codexia": {
+                "repository_name": "codexia",
+                "user_name": "milisp",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad, Codex community and more",
+                "topics": [
+                    "agentic-ai",
+                    "ai",
+                    "ai-agents",
+                    "chatgpt",
+                    "codex",
+                    "codex-cli",
+                    "codex-desktop",
+                    "codex-gui",
+                    "codex-ide",
+                    "codex-ui",
+                    "codexia",
+                    "gpt-5-codex",
+                    "gpt-oss",
+                    "mcp",
+                    "mcp-client",
+                    "ollama",
+                    "openai",
+                    "openai-codex",
+                    "openai-codex-cli"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad, Codex community and more",
+                    "ja": "Codex CLI用の強力なGUI/IDEおよびツールキット。Fork chat + FileTree + prompt notepad、Codexコミュニティなど",
+                    "zh-hans": "Codex CLI的强大GUI/IDE和工具包。分叉聊天+文件树+提示记事本，Codex社区等",
+                    "zh-hant": "一個強大的GUI/IDE和Toolkit，適用於Codex CLI。分叉聊天+文件樹+提示記事本，Codex社區等。"
+                }
             }
         },
         "Chatbots": {
@@ -20074,6 +20138,20 @@
                     "zh-hans": "一个用于LLM聊天的机器人插件，具有多模型集成、可扩展性和多种输出格式。",
                     "zh-hant": "多平台模型接入，可擴展，多種輸出格式，提供大語言模型聊天服務的插件 | 一個用於LLM聊天的機器人插件，具有多模型集成、可擴展性和各種輸出格式。"
                 }
+            },
+            "https://github.com/isegaro/translate-it": {
+                "repository_name": "Translate-It",
+                "user_name": "iSegaro",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Chrome/Firefox extension for translating(Read/Write/Listen) from Any Languages to Any Languages using API of  Google Gemini , OpenAi , OpenRouter and  WebAi.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Chrome/Firefox extension for translating(Read/Write/Listen) from Any Languages to Any Languages using API of  Google Gemini , OpenAi , OpenRouter and  WebAi.",
+                    "ja": "Google Gemini、OpenAi、OpenRouter、WebAiのAPIを使用して、どの言語からどの言語への翻訳（読み取り/書き込み/聞き取り）を行うChrome/Firefox拡張機能。どの言語からどの言語への翻訳を行うChrome/Firefox拡張機能。",
+                    "zh-hans": "Chrome/Firefox浏览器插件，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能。输出：使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能的Chrome/Firefox浏览器插件。",
+                    "zh-hant": "請將以下內容翻譯為繁體中文。Chrome/Firefox擴展功能，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，從任何語言翻譯為任何語言（閱讀/寫作/聆聽）。"
+                }
             }
         },
         "CLIs": {
@@ -24499,6 +24577,38 @@
                     "zh-hans": "街机工具开发工具包（TDK），工人，评估和CLI",
                     "zh-hant": "街機工具開發套件（TDK），工作人員，評估和CLI"
                 }
+            },
+            "https://github.com/openai-php/symfony": {
+                "repository_name": "symfony",
+                "user_name": "openai-php",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API",
+                "topics": [
+                    "client",
+                    "open-ai",
+                    "symfony"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API",
+                    "ja": "⚡️ OpenAI PHP for Symfonyは、OpenAI APIとやり取りすることができる強力なPHP APIクライアントです。",
+                    "zh-hans": "⚡️ OpenAI PHP for Symfony 是一个强大的 PHP API 客户端，允许您与 OpenAI API 进行交互。",
+                    "zh-hant": "⚡️ OpenAI PHP for Symfony 是一個強化版的 PHP API 客戶端，讓您可以與 OpenAI API 進行互動。"
+                }
+            },
+            "https://github.com/higty/higlabo": {
+                "repository_name": "higlabo",
+                "user_name": "higty",
+                "language": "C#",
+                "license": null,
+                "description": "HigLabo library provide 1.AI client library(OpenAI, Anthoripic, Groq) 2.Object Mapper(fastest in the world) 3.DbSharp(DAL generator) 4.Other.(Mail, Ftp, Utility...etc)",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "HigLabo library provide 1.AI client library(OpenAI, Anthoripic, Groq) 2.Object Mapper(fastest in the world) 3.DbSharp(DAL generator) 4.Other.(Mail, Ftp, Utility...etc)",
+                    "ja": "HigLaboライブラリは、1.AIクライアントライブラリ（OpenAI、Anthoripic、Groq）2.オブジェクトマッパー（世界最速）3.DbSharp（DALジェネレーター）4.その他（メール、FTP、ユーティリティなど）を提供します。",
+                    "zh-hans": "HigLabo库提供1.AI客户端库（OpenAI，Anthoripic，Groq）2.对象映射器（世界上最快的）3.DbSharp（DAL生成器）4.其他（邮件，FTP，实用程序等）",
+                    "zh-hant": "HigLabo library 提供 1.AI 客戶端庫(OpenAI, Anthoripic, Groq) 2.物件映射器(世界上最快的) 3.DbSharp(DAL 生成器) 4.其他.(郵件, FTP, 實用程式...等)"
+                }
             }
         },
         "Reimplementations": {
@@ -25320,6 +25430,38 @@
                     "ja": "OpenAIのTikTokenの高性能実装。",
                     "zh-hans": "OpenAI的TikToken的高性能实现。",
                     "zh-hant": "OpenAI的TikToken高性能實現。"
+                }
+            },
+            "https://github.com/rollczi/litecommands": {
+                "repository_name": "LiteCommands",
+                "user_name": "Rollczi",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.",
+                "topics": [
+                    "bukkit",
+                    "chatgpt",
+                    "discord-bot",
+                    "fabric",
+                    "hacktoberfest",
+                    "java",
+                    "jda",
+                    "kyori",
+                    "litecommands",
+                    "minecraft",
+                    "minestom",
+                    "papermc",
+                    "spigot",
+                    "sponge",
+                    "spongepowered",
+                    "velocity",
+                    "velocitypowered"
+                ],
+                "multilingual_descriptions": {
+                    "en": "☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.",
+                    "ja": "☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。",
+                    "zh-hans": "☄️ LiteCommands - 适用于Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA和未来实现的命令框架。",
+                    "zh-hant": "☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA和未來實現的指令框架。"
                 }
             }
         },
@@ -33581,6 +33723,66 @@
                     "ja": "MineContextは、あなたの積極的なコンテキスト認識AIパートナーです（コンテキストエンジニアリング+ChatGPT Pulse）",
                     "zh-hans": "MineContext是您主动的上下文感知人工智能伙伴（上下文工程+ChatGPT Pulse）",
                     "zh-hant": "MineContext 是您主動的上下文感知人工智慧夥伴（上下文工程+ChatGPT Pulse）"
+                }
+            },
+            "https://github.com/sinanuozdemir/quick-start-guide-to-llms": {
+                "repository_name": "quick-start-guide-to-llms",
+                "user_name": "sinanuozdemir",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "The Official Repo for \"Quick Start Guide to Large Language Models\"",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "bert",
+                    "chatgpt",
+                    "claude",
+                    "deepseek",
+                    "distillation",
+                    "generative-ai",
+                    "gpt",
+                    "llama-4",
+                    "llm",
+                    "machine-learning",
+                    "multimodal",
+                    "nlp",
+                    "quantization",
+                    "rag",
+                    "rlhf",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Official Repo for \"Quick Start Guide to Large Language Models\"",
+                    "ja": "「大規模言語モデルのクイックスタートガイド」の公式レポ。",
+                    "zh-hans": "“大型语言模型快速入门指南”官方存储库",
+                    "zh-hant": "\"大型語言模型快速入門指南\"的官方存儲庫"
+                }
+            },
+            "https://github.com/vizra-ai/vizra-adk": {
+                "repository_name": "vizra-adk",
+                "user_name": "vizra-ai",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "Build, test, and deploy intelligent AI agents the Laravel way",
+                "topics": [
+                    "agent-framework",
+                    "ai",
+                    "ai-agents",
+                    "ai-tools",
+                    "anthropic",
+                    "autonomous-agents",
+                    "gemini",
+                    "laravel",
+                    "laravel-package",
+                    "llm",
+                    "openai",
+                    "php"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Build, test, and deploy intelligent AI agents the Laravel way",
+                    "ja": "Laravelの方法で知的AIエージェントを構築、テスト、展開します。",
+                    "zh-hans": "用Laravel的方式构建、测试和部署智能AI代理",
+                    "zh-hant": "以Laravel的方式建立、測試和部署智能AI代理。"
                 }
             }
         },
@@ -43997,6 +44199,57 @@
                     "ja": "Forgeは、単一のAPIを介して複数のAIモデルプロバイダ（OpenAI、Anthropicなど）へのアクセスを統合するセルフホスト型のミドルウェアです。OpenAI互換のインターフェース、暗号化されたAPIキー管理、既存のツールやフロントエンドへの簡単な統合をサポートしています。",
                     "zh-hans": "Forge是一个自托管的中间件，通过单一API统一访问多个AI模型提供商（如OpenAI、Anthropic）。它支持与OpenAI兼容的接口，加密的API密钥管理，并且可以轻松集成到现有工具和前端中。",
                     "zh-hant": "Forge 是一個自託管的中間件，通過單一 API 將多個 AI 模型提供商（如 OpenAI、Anthropic）的訪問統一起來。它支持與 OpenAI 兼容的接口、加密 API 金鑰管理，並且可以輕鬆集成到現有工具和前端中。"
+                }
+            },
+            "https://github.com/aavetis/prarena": {
+                "repository_name": "PRarena",
+                "user_name": "aavetis",
+                "language": "HTML",
+                "license": null,
+                "description": "This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates every 3 hours.",
+                "topics": [
+                    "agents",
+                    "swe-agent"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates every 3 hours.",
+                    "ja": "このリポジトリは、OpenAI、GitHub、その他のトップSWEコーディングエージェントによって開かれたおよびマージされたPRを追跡しています。3時間ごとに更新されます。",
+                    "zh-hans": "这个仓库跟踪OpenAI、GitHub和其他公司顶级软件工程师编码代理人开放和合并的PR。每3小时更新一次。",
+                    "zh-hant": "這個存儲庫跟踪由OpenAI、GitHub和其他公司的頂級軟件工程師編碼代理人打開並合併的PR。每3小時更新一次。"
+                }
+            },
+            "https://github.com/archestra-ai/archestra": {
+                "repository_name": "archestra",
+                "user_name": "archestra-ai",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Secure platform for enterprise agents with MCP, guardrails, local agent, and more!",
+                "topics": [
+                    "a2a",
+                    "a2a-mcp",
+                    "acp",
+                    "agent",
+                    "ai",
+                    "chatgpt",
+                    "chatgpt-api",
+                    "claude",
+                    "deepseek",
+                    "gemini",
+                    "k8s",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-host",
+                    "mcp-server",
+                    "mcp-servers",
+                    "mcp-tools",
+                    "openai",
+                    "runtime"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Secure platform for enterprise agents with MCP, guardrails, local agent, and more!",
+                    "ja": "MCP、ガードレール、ローカルエージェントなどを備えた企業エージェント向けの安全なプラットフォーム！",
+                    "zh-hans": "安全平台为企业代理人提供MCP、防护栏、本地代理人等功能！",
+                    "zh-hant": "提供給企業代理人的安全平台，具有MCP、護欄、本地代理人等功能！"
                 }
             }
         },
