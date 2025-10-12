@@ -16,35 +16,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - 手術の文脈エンジニアリングと素敵なUI、Windows、Mac、Linux、BSD、PythonとQtが動作するどこでも
- * [codexia](https://github.com/milisp/codexia) - Codex CLI用の強力なGUI/IDEおよびツールキット。Fork chat + FileTree + prompt notepad、Codexコミュニティなど
+**Chatbots**
+ * [Everywhere](https://github.com/dearva/everywhere) - デスクトップ用のコンテキストに注意を払ったAIアシスタント。複数のLLMとMCPツールをシームレスに統合し、賢く応答する準備ができています。
 
 
 **Browser-extensions**
- * [Translate-It](https://github.com/isegaro/translate-it) - Google Gemini、OpenAi、OpenRouter、WebAiのAPIを使用して、どの言語からどの言語への翻訳（読み取り/書き込み/聞き取り）を行うChrome/Firefox拡張機能。どの言語からどの言語への翻訳を行うChrome/Firefox拡張機能。
-
-
-**CLIs**
- * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfonyは、OpenAI APIとやり取りすることができる強力なPHP APIクライアントです。
- * [higlabo](https://github.com/higty/higlabo) - HigLaboライブラリは、1.AIクライアントライブラリ（OpenAI、Anthoripic、Groq）2.オブジェクトマッパー（世界最速）3.DbSharp（DALジェネレーター）4.その他（メール、FTP、ユーティリティなど）を提供します。
-
-
-**Reimplementations**
- * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。
+ * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssistはQt Creator用のAI搭載コーディングアシスタントプラグインです。
 
 
 **NLP**
- * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - 「大規模言語モデルのクイックスタートガイド」の公式レポ。
- * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Laravelの方法で知的AIエージェントを構築、テスト、展開します。
+ * [Webscout](https://github.com/pyscout/webscout) - Webscoutは必要なすべての検索とAIツールキットです。Yep.com、DuckDuckGo、Phindで洞察を発見し、最先端のAIモデルにアクセスし、YouTubeビデオを転記し、一時的なメールアドレスや電話番号を生成し、テキストを音声に変換し、
+ * [surf](https://github.com/e2b-dev/surf) - サーフは、OpenAIによって動力を供給されたAIエージェントを使用するコンピュータで、自然言語の指示を介してE2Bの仮想デスクトップ環境とやり取りします。
 
 
 **Openai**
- * [PRarena](https://github.com/aavetis/prarena) - このリポジトリは、OpenAI、GitHub、その他のトップSWEコーディングエージェントによって開かれたおよびマージされたPRを追跡しています。3時間ごとに更新されます。
- * [archestra](https://github.com/archestra-ai/archestra) - MCP、ガードレール、ローカルエージェントなどを備えた企業エージェント向けの安全なプラットフォーム！
+ * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 主流オンラインAIサービスをサポートするアプリ
+ * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - OpenAI ChatKit + Agent Builderを使用して構築するためのスターターアプリ
 
 
-_Updated on October 09, 2025_ (A total of 2295 repositories listed.)
+_Updated on October 13, 2025_ (A total of 2301 repositories listed.)
 
 ## Table of contents
 
@@ -669,6 +659,7 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 CopilotKit、Tavily、LangGraphによって強化された、HITL（Human in The Loop）機能を備えたリアルタイム検索を実行するオープンソースのAIエージェントネイティブ研究キャンバスアプリケーション
  * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。
  * [bolna](https://github.com/bolna-ai/bolna) - 会話型音声AIエージェント
+ * [Everywhere](https://github.com/dearva/everywhere) - デスクトップ用のコンテキストに注意を払ったAIアシスタント。複数のLLMとMCPツールをシームレスに統合し、賢く応答する準備ができています。
 
 
 ## Browser-extensions
@@ -899,6 +890,7 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCPサーバー+UnityエディターおよびUnityゲーム用のプラグイン。このプラグインを使用すると、Claude DesktopなどのMCPクライアントに接続できます。
  * [chatluna](https://github.com/chatlunalab/chatluna) - LLMチャット用のボットプラグイン、マルチモデル統合、拡張性、さまざまな出力形式を備えています。
  * [Translate-It](https://github.com/isegaro/translate-it) - Google Gemini、OpenAi、OpenRouter、WebAiのAPIを使用して、どの言語からどの言語への翻訳（読み取り/書き込み/聞き取り）を行うChrome/Firefox拡張機能。どの言語からどの言語への翻訳を行うChrome/Firefox拡張機能。
+ * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssistはQt Creator用のAI搭載コーディングアシスタントプラグインです。
 
 
 ## CLIs
@@ -1514,6 +1506,8 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [MineContext](https://github.com/volcengine/minecontext) - MineContextは、あなたの積極的なコンテキスト認識AIパートナーです（コンテキストエンジニアリング+ChatGPT Pulse）
  * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - 「大規模言語モデルのクイックスタートガイド」の公式レポ。
  * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Laravelの方法で知的AIエージェントを構築、テスト、展開します。
+ * [Webscout](https://github.com/pyscout/webscout) - Webscoutは必要なすべての検索とAIツールキットです。Yep.com、DuckDuckGo、Phindで洞察を発見し、最先端のAIモデルにアクセスし、YouTubeビデオを転記し、一時的なメールアドレスや電話番号を生成し、テキストを音声に変換し、
+ * [surf](https://github.com/e2b-dev/surf) - サーフは、OpenAIによって動力を供給されたAIエージェントを使用するコンピュータで、自然言語の指示を介してE2Bの仮想デスクトップ環境とやり取りします。
 
 
 ## Langchain
@@ -1985,6 +1979,8 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [forge](https://github.com/tensorblock/forge) - Forgeは、単一のAPIを介して複数のAIモデルプロバイダ（OpenAI、Anthropicなど）へのアクセスを統合するセルフホスト型のミドルウェアです。OpenAI互換のインターフェース、暗号化されたAPIキー管理、既存のツールやフロントエンドへの簡単な統合をサポートしています。
  * [PRarena](https://github.com/aavetis/prarena) - このリポジトリは、OpenAI、GitHub、その他のトップSWEコーディングエージェントによって開かれたおよびマージされたPRを追跡しています。3時間ごとに更新されます。
  * [archestra](https://github.com/archestra-ai/archestra) - MCP、ガードレール、ローカルエージェントなどを備えた企業エージェント向けの安全なプラットフォーム！
+ * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 主流オンラインAIサービスをサポートするアプリ
+ * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - OpenAI ChatKit + Agent Builderを使用して構築するためのスターターアプリ
 
 
 ## Others

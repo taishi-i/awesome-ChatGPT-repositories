@@ -16,35 +16,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
- * [codexia](https://github.com/milisp/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad, Codex community and more
+**Chatbots**
+ * [Everywhere](https://github.com/dearva/everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 
 
 **Browser-extensions**
- * [Translate-It](https://github.com/isegaro/translate-it) - Chrome/Firefox extension for translating(Read/Write/Listen) from Any Languages to Any Languages using API of  Google Gemini , OpenAi , OpenRouter and  WebAi.
-
-
-**CLIs**
- * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
- * [higlabo](https://github.com/higty/higlabo) - HigLabo library provide 1.AI client library(OpenAI, Anthoripic, Groq) 2.Object Mapper(fastest in the world) 3.DbSharp(DAL generator) 4.Other.(Mail, Ftp, Utility...etc)
-
-
-**Reimplementations**
- * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.
+ * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist is an AI-powered coding assistant plugin for Qt Creator
 
 
 **NLP**
- * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - The Official Repo for "Quick Start Guide to Large Language Models"
- * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
+ * [Webscout](https://github.com/pyscout/webscout) - Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and much more!
+ * [surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
 
 
 **Openai**
- * [PRarena](https://github.com/aavetis/prarena) - This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates every 3 hours.
- * [archestra](https://github.com/archestra-ai/archestra) - Secure platform for enterprise agents with MCP, guardrails, local agent, and more!
+ * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流在线 AI 服务的应用
+ * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
 
 
-_Updated on October 09, 2025_ (A total of 2295 repositories listed.)
+_Updated on October 13, 2025_ (A total of 2301 repositories listed.)
 
 ## Table of contents
 
@@ -669,6 +659,7 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 An open-source, AI agent-native research canvas application that performs real-time search with HITL (Human in The Loop) capabilities, powered by CopilotKit, Tavily and LangGraph
  * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT a powerful, evil brother of WormGPT.
  * [bolna](https://github.com/bolna-ai/bolna) - Conversational voice AI agents
+ * [Everywhere](https://github.com/dearva/everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 
 
 ## Browser-extensions
@@ -899,6 +890,7 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.
  * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
  * [Translate-It](https://github.com/isegaro/translate-it) - Chrome/Firefox extension for translating(Read/Write/Listen) from Any Languages to Any Languages using API of  Google Gemini , OpenAi , OpenRouter and  WebAi.
+ * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist is an AI-powered coding assistant plugin for Qt Creator
 
 
 ## CLIs
@@ -1514,6 +1506,8 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [MineContext](https://github.com/volcengine/minecontext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
  * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - The Official Repo for "Quick Start Guide to Large Language Models"
  * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
+ * [Webscout](https://github.com/pyscout/webscout) - Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and much more!
+ * [surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
 
 
 ## Langchain
@@ -1985,6 +1979,8 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [forge](https://github.com/tensorblock/forge) - Forge is a self-hosted middleware that unifies access to multiple AI model providers (like OpenAI, Anthropic) via a single API. It supports OpenAI-compatible interfaces, encrypted API key management, and easy integration into existing tools and frontends. Built for security, scalability, and extensibility.
  * [PRarena](https://github.com/aavetis/prarena) - This repo tracks the opened and merged PRs by the top SWE coding agents by OpenAI, GitHub, and others. Updates every 3 hours.
  * [archestra](https://github.com/archestra-ai/archestra) - Secure platform for enterprise agents with MCP, guardrails, local agent, and more!
+ * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流在线 AI 服务的应用
+ * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
 
 
 ## Others

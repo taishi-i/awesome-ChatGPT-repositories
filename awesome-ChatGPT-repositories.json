@@ -14835,6 +14835,35 @@
                     "zh-hans": "对话式语音人工智能代理",
                     "zh-hant": "對話式語音人工智慧代理程式"
                 }
+            },
+            "https://github.com/dearva/everywhere": {
+                "repository_name": "Everywhere",
+                "user_name": "DearVa",
+                "language": "C#",
+                "license": "Apache License 2.0",
+                "description": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "avalonia",
+                    "chat",
+                    "claude",
+                    "deepseek",
+                    "gpt-oss",
+                    "grok",
+                    "llm",
+                    "mcp",
+                    "ollama",
+                    "openai",
+                    "rag",
+                    "ui-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.",
+                    "ja": "デスクトップ用のコンテキストに注意を払ったAIアシスタント。複数のLLMとMCPツールをシームレスに統合し、賢く応答する準備ができています。",
+                    "zh-hans": "一个针对您桌面的上下文感知人工智能助手。准备智能地回应，无缝集成多个LLM和MCP工具。",
+                    "zh-hant": "一個為您的桌面設計的具有上下文感知能力的人工智慧助手。準備智能地回應，無縫地整合多個LLM和MCP工具。"
+                }
             }
         },
         "Browser-extensions": {
@@ -20151,6 +20180,33 @@
                     "ja": "Google Gemini、OpenAi、OpenRouter、WebAiのAPIを使用して、どの言語からどの言語への翻訳（読み取り/書き込み/聞き取り）を行うChrome/Firefox拡張機能。どの言語からどの言語への翻訳を行うChrome/Firefox拡張機能。",
                     "zh-hans": "Chrome/Firefox浏览器插件，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能。输出：使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能的Chrome/Firefox浏览器插件。",
                     "zh-hant": "請將以下內容翻譯為繁體中文。Chrome/Firefox擴展功能，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，從任何語言翻譯為任何語言（閱讀/寫作/聆聽）。"
+                }
+            },
+            "https://github.com/palm1r/qodeassist": {
+                "repository_name": "QodeAssist",
+                "user_name": "Palm1r",
+                "language": "C++",
+                "license": "GNU General Public License v3.0",
+                "description": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
+                "topics": [
+                    "ai",
+                    "autocomplete",
+                    "claude",
+                    "claude-ai",
+                    "codeassist",
+                    "llm",
+                    "lmstudio",
+                    "local",
+                    "ollama",
+                    "openai",
+                    "private",
+                    "qtcreator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "QodeAssist is an AI-powered coding assistant plugin for Qt Creator",
+                    "ja": "QodeAssistはQt Creator用のAI搭載コーディングアシスタントプラグインです。",
+                    "zh-hans": "QodeAssist是一个为Qt Creator提供AI支持的编码助手插件。",
+                    "zh-hant": "QodeAssist是一個為Qt Creator設計的AI動力編碼助手插件"
                 }
             }
         },
@@ -33784,6 +33840,61 @@
                     "zh-hans": "用Laravel的方式构建、测试和部署智能AI代理",
                     "zh-hant": "以Laravel的方式建立、測試和部署智能AI代理。"
                 }
+            },
+            "https://github.com/pyscout/webscout": {
+                "repository_name": "Webscout",
+                "user_name": "pyscout",
+                "language": "Python",
+                "license": "Other",
+                "description": "Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and much more!",
+                "topics": [
+                    "ai",
+                    "chatgpt-free",
+                    "deepseek-r1",
+                    "free",
+                    "freeai",
+                    "freegpt4",
+                    "gguf",
+                    "llamacpp",
+                    "ml",
+                    "openai",
+                    "openinterpreter",
+                    "python",
+                    "tempnumber",
+                    "text-generation",
+                    "websearch",
+                    "youtube",
+                    "youtube-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and",
+                    "ja": "Webscoutは必要なすべての検索とAIツールキットです。Yep.com、DuckDuckGo、Phindで洞察を発見し、最先端のAIモデルにアクセスし、YouTubeビデオを転記し、一時的なメールアドレスや電話番号を生成し、テキストを音声に変換し、",
+                    "zh-hans": "Webscout是您需要的一体化搜索和人工智能工具包。使用Yep.com、DuckDuckGo和Phind发现见解；访问尖端人工智能模型；转录YouTube视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及",
+                    "zh-hant": "Webscout 是您需要的一站式搜索和人工智能工具包。使用 Yep.com、DuckDuckGo 和 Phind 发现见解；访问尖端人工智能模型；转录 YouTube 视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及"
+                }
+            },
+            "https://github.com/e2b-dev/surf": {
+                "repository_name": "surf",
+                "user_name": "e2b-dev",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions",
+                "topics": [
+                    "ai",
+                    "automation",
+                    "cua",
+                    "desktop",
+                    "e2b",
+                    "openai",
+                    "sandbox",
+                    "virtual-desktop"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions",
+                    "ja": "サーフは、OpenAIによって動力を供給されたAIエージェントを使用するコンピュータで、自然言語の指示を介してE2Bの仮想デスクトップ環境とやり取りします。",
+                    "zh-hans": "Surf是一个由OpenAI提供支持的计算机使用AI代理，通过自然语言指令与E2B的虚拟桌面环境进行交互。",
+                    "zh-hant": "Surf 是一個由 OpenAI 提供動力的電腦使用 AI 代理，通過自然語言指令與 E2B 的虛擬桌面環境進行交互。"
+                }
             }
         },
         "Langchain": {
@@ -44250,6 +44361,43 @@
                     "ja": "MCP、ガードレール、ローカルエージェントなどを備えた企業エージェント向けの安全なプラットフォーム！",
                     "zh-hans": "安全平台为企业代理人提供MCP、防护栏、本地代理人等功能！",
                     "zh-hant": "提供給企業代理人的安全平台，具有MCP、護欄、本地代理人等功能！"
+                }
+            },
+            "https://github.com/richasy/rodel.agent": {
+                "repository_name": "Rodel.Agent",
+                "user_name": "Richasy",
+                "language": "C#",
+                "license": "GNU General Public License v3.0",
+                "description": "支持主流在线 AI 服务的应用",
+                "topics": [
+                    "agent",
+                    "openai",
+                    "windows-app-sdk",
+                    "winui3"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Applications that support mainstream online AI services.",
+                    "ja": "主流オンラインAIサービスをサポートするアプリ",
+                    "zh-hans": "支持主流在线 AI 服务的应用",
+                    "zh-hant": "支持主流線上 AI 服務的應用"
+                }
+            },
+            "https://github.com/openai/openai-chatkit-starter-app": {
+                "repository_name": "openai-chatkit-starter-app",
+                "user_name": "openai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Starter app to build with OpenAI ChatKit + Agent Builder",
+                "topics": [
+                    "chatkit",
+                    "openai",
+                    "openai-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Starter app to build with OpenAI ChatKit + Agent Builder",
+                    "ja": "OpenAI ChatKit + Agent Builderを使用して構築するためのスターターアプリ",
+                    "zh-hans": "使用OpenAI ChatKit + Agent Builder构建的入门应用程序",
+                    "zh-hant": "使用OpenAI ChatKit + Agent Builder構建的入門應用程式"
                 }
             }
         },

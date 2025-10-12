@@ -16,35 +16,25 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - 具有良好UI的手術上下文工程，支持Windows、Mac、Linux、BSD等任何運行Python和Qt的地方。
- * [codexia](https://github.com/milisp/codexia) - 一個強大的GUI/IDE和Toolkit，適用於Codex CLI。分叉聊天+文件樹+提示記事本，Codex社區等。
+**Chatbots**
+ * [Everywhere](https://github.com/dearva/everywhere) - 一個為您的桌面設計的具有上下文感知能力的人工智慧助手。準備智能地回應，無縫地整合多個LLM和MCP工具。
 
 
 **Browser-extensions**
- * [Translate-It](https://github.com/isegaro/translate-it) - 請將以下內容翻譯為繁體中文。Chrome/Firefox擴展功能，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，從任何語言翻譯為任何語言（閱讀/寫作/聆聽）。
-
-
-**CLIs**
- * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony 是一個強化版的 PHP API 客戶端，讓您可以與 OpenAI API 進行互動。
- * [higlabo](https://github.com/higty/higlabo) - HigLabo library 提供 1.AI 客戶端庫(OpenAI, Anthoripic, Groq) 2.物件映射器(世界上最快的) 3.DbSharp(DAL 生成器) 4.其他.(郵件, FTP, 實用程式...等)
-
-
-**Reimplementations**
- * [LiteCommands](https://github.com/rollczi/litecommands) - ☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA和未來實現的指令框架。
+ * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist是一個為Qt Creator設計的AI動力編碼助手插件
 
 
 **NLP**
- * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - "大型語言模型快速入門指南"的官方存儲庫
- * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - 以Laravel的方式建立、測試和部署智能AI代理。
+ * [Webscout](https://github.com/pyscout/webscout) - Webscout 是您需要的一站式搜索和人工智能工具包。使用 Yep.com、DuckDuckGo 和 Phind 发现见解；访问尖端人工智能模型；转录 YouTube 视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及
+ * [surf](https://github.com/e2b-dev/surf) - Surf 是一個由 OpenAI 提供動力的電腦使用 AI 代理，通過自然語言指令與 E2B 的虛擬桌面環境進行交互。
 
 
 **Openai**
- * [PRarena](https://github.com/aavetis/prarena) - 這個存儲庫跟踪由OpenAI、GitHub和其他公司的頂級軟件工程師編碼代理人打開並合併的PR。每3小時更新一次。
- * [archestra](https://github.com/archestra-ai/archestra) - 提供給企業代理人的安全平台，具有MCP、護欄、本地代理人等功能！
+ * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流線上 AI 服務的應用
+ * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - 使用OpenAI ChatKit + Agent Builder構建的入門應用程式
 
 
-_Updated on October 09, 2025_ (A total of 2295 repositories listed.)
+_Updated on October 13, 2025_ (A total of 2301 repositories listed.)
 
 ## Table of contents
 
@@ -669,6 +659,7 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [open-research-ANA](https://github.com/copilotkit/open-research-ana) - 🤖 一個開源的、AI代理原生研究畫布應用程式，具有HITL（人在迴圈中）功能，由CopilotKit、Tavily和LangGraph提供動力。
  * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT是WormGPT的強大邪惡兄弟。
  * [bolna](https://github.com/bolna-ai/bolna) - 對話式語音人工智慧代理程式
+ * [Everywhere](https://github.com/dearva/everywhere) - 一個為您的桌面設計的具有上下文感知能力的人工智慧助手。準備智能地回應，無縫地整合多個LLM和MCP工具。
 
 
 ## Browser-extensions
@@ -899,6 +890,7 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - MCP伺服器+Unity編輯器和Unity遊戲的插件。該插件允許連接到像Claude Desktop或其他MCP客戶端。
  * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可擴展，多種輸出格式，提供大語言模型聊天服務的插件 | 一個用於LLM聊天的機器人插件，具有多模型集成、可擴展性和各種輸出格式。
  * [Translate-It](https://github.com/isegaro/translate-it) - 請將以下內容翻譯為繁體中文。Chrome/Firefox擴展功能，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，從任何語言翻譯為任何語言（閱讀/寫作/聆聽）。
+ * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist是一個為Qt Creator設計的AI動力編碼助手插件
 
 
 ## CLIs
@@ -1514,6 +1506,8 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [MineContext](https://github.com/volcengine/minecontext) - MineContext 是您主動的上下文感知人工智慧夥伴（上下文工程+ChatGPT Pulse）
  * [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - "大型語言模型快速入門指南"的官方存儲庫
  * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - 以Laravel的方式建立、測試和部署智能AI代理。
+ * [Webscout](https://github.com/pyscout/webscout) - Webscout 是您需要的一站式搜索和人工智能工具包。使用 Yep.com、DuckDuckGo 和 Phind 发现见解；访问尖端人工智能模型；转录 YouTube 视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及
+ * [surf](https://github.com/e2b-dev/surf) - Surf 是一個由 OpenAI 提供動力的電腦使用 AI 代理，通過自然語言指令與 E2B 的虛擬桌面環境進行交互。
 
 
 ## Langchain
@@ -1985,6 +1979,8 @@ _Updated on October 09, 2025_ (A total of 2295 repositories listed.)
  * [forge](https://github.com/tensorblock/forge) - Forge 是一個自託管的中間件，通過單一 API 將多個 AI 模型提供商（如 OpenAI、Anthropic）的訪問統一起來。它支持與 OpenAI 兼容的接口、加密 API 金鑰管理，並且可以輕鬆集成到現有工具和前端中。
  * [PRarena](https://github.com/aavetis/prarena) - 這個存儲庫跟踪由OpenAI、GitHub和其他公司的頂級軟件工程師編碼代理人打開並合併的PR。每3小時更新一次。
  * [archestra](https://github.com/archestra-ai/archestra) - 提供給企業代理人的安全平台，具有MCP、護欄、本地代理人等功能！
+ * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流線上 AI 服務的應用
+ * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - 使用OpenAI ChatKit + Agent Builder構建的入門應用程式
 
 
 ## Others
