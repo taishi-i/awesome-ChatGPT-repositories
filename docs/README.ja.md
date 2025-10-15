@@ -16,25 +16,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Everywhere](https://github.com/dearva/everywhere) - デスクトップ用のコンテキストに注意を払ったAIアシスタント。複数のLLMとMCPツールをシームレスに統合し、賢く応答する準備ができています。
-
-
-**Browser-extensions**
- * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssistはQt Creator用のAI搭載コーディングアシスタントプラグインです。
-
-
 **NLP**
- * [Webscout](https://github.com/pyscout/webscout) - Webscoutは必要なすべての検索とAIツールキットです。Yep.com、DuckDuckGo、Phindで洞察を発見し、最先端のAIモデルにアクセスし、YouTubeビデオを転記し、一時的なメールアドレスや電話番号を生成し、テキストを音声に変換し、
- * [surf](https://github.com/e2b-dev/surf) - サーフは、OpenAIによって動力を供給されたAIエージェントを使用するコンピュータで、自然言語の指示を介してE2Bの仮想デスクトップ環境とやり取りします。
+ * [unify](https://github.com/unifyai/unify) - AIオブザーバビリティのためのノーション 📊
 
 
 **Openai**
- * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 主流オンラインAIサービスをサポートするアプリ
- * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - OpenAI ChatKit + Agent Builderを使用して構築するためのスターターアプリ
+ * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - GitHubで利用可能なOpenAI APIキーをスキャンします。
 
 
-_Updated on October 13, 2025_ (A total of 2301 repositories listed.)
+**Others**
+ * [nanochat](https://github.com/karpathy/nanochat) - $100で買える最高のChatGPT。
+ * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - SpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーションSpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーション
+
+
+_Updated on October 16, 2025_ (A total of 2305 repositories listed.)
 
 ## Table of contents
 
@@ -1508,6 +1503,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Laravelの方法で知的AIエージェントを構築、テスト、展開します。
  * [Webscout](https://github.com/pyscout/webscout) - Webscoutは必要なすべての検索とAIツールキットです。Yep.com、DuckDuckGo、Phindで洞察を発見し、最先端のAIモデルにアクセスし、YouTubeビデオを転記し、一時的なメールアドレスや電話番号を生成し、テキストを音声に変換し、
  * [surf](https://github.com/e2b-dev/surf) - サーフは、OpenAIによって動力を供給されたAIエージェントを使用するコンピュータで、自然言語の指示を介してE2Bの仮想デスクトップ環境とやり取りします。
+ * [unify](https://github.com/unifyai/unify) - AIオブザーバビリティのためのノーション 📊
 
 
 ## Langchain
@@ -1981,6 +1977,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [archestra](https://github.com/archestra-ai/archestra) - MCP、ガードレール、ローカルエージェントなどを備えた企業エージェント向けの安全なプラットフォーム！
  * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 主流オンラインAIサービスをサポートするアプリ
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - OpenAI ChatKit + Agent Builderを使用して構築するためのスターターアプリ
+ * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - GitHubで利用可能なOpenAI APIキーをスキャンします。
 
 
 ## Others
@@ -2410,5 +2407,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - このリポジトリは、ChatGPTが実際のマイクロキャップ株ポートフォリオを管理するブログ実験を支えています。
  * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - キーボードにChatGPTなどの生成AIを統合するためのLSPosedモジュール。
  * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 空港推薦、2025年最新の科学的なインターネット接続のチュートリアル、空港での実地テスト、無料トライアル空港の提供、VPNとの比較、Clash/V2Ray/Trojanのサポート、ChatGPT/YouTube/Netflixのロック解除、使用方法の説明書を含む。
+ * [nanochat](https://github.com/karpathy/nanochat) - $100で買える最高のChatGPT。
+ * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - SpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーションSpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーション
 
 

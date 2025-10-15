@@ -16,25 +16,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Everywhere](https://github.com/dearva/everywhere) - 一个针对您桌面的上下文感知人工智能助手。准备智能地回应，无缝集成多个LLM和MCP工具。
-
-
-**Browser-extensions**
- * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist是一个为Qt Creator提供AI支持的编码助手插件。
-
-
 **NLP**
- * [Webscout](https://github.com/pyscout/webscout) - Webscout是您需要的一体化搜索和人工智能工具包。使用Yep.com、DuckDuckGo和Phind发现见解；访问尖端人工智能模型；转录YouTube视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及
- * [surf](https://github.com/e2b-dev/surf) - Surf是一个由OpenAI提供支持的计算机使用AI代理，通过自然语言指令与E2B的虚拟桌面环境进行交互。
+ * [unify](https://github.com/unifyai/unify) - AI可观测性概念 📊
 
 
 **Openai**
- * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流在线 AI 服务的应用
- * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - 使用OpenAI ChatKit + Agent Builder构建的入门应用程序
+ * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - 扫描GitHub以查找可用的OpenAI API密钥
 
 
-_Updated on October 13, 2025_ (A total of 2301 repositories listed.)
+**Others**
+ * [nanochat](https://github.com/karpathy/nanochat) - 100美元能买到的最好的ChatGPT。
+ * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - 基于spring-cloud-alibaba微服务架构（SpringBoot3）开发的应用程序
+
+
+_Updated on October 16, 2025_ (A total of 2305 repositories listed.)
 
 ## Table of contents
 
@@ -1508,6 +1503,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - 用Laravel的方式构建、测试和部署智能AI代理
  * [Webscout](https://github.com/pyscout/webscout) - Webscout是您需要的一体化搜索和人工智能工具包。使用Yep.com、DuckDuckGo和Phind发现见解；访问尖端人工智能模型；转录YouTube视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及
  * [surf](https://github.com/e2b-dev/surf) - Surf是一个由OpenAI提供支持的计算机使用AI代理，通过自然语言指令与E2B的虚拟桌面环境进行交互。
+ * [unify](https://github.com/unifyai/unify) - AI可观测性概念 📊
 
 
 ## Langchain
@@ -1981,6 +1977,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [archestra](https://github.com/archestra-ai/archestra) - 安全平台为企业代理人提供MCP、防护栏、本地代理人等功能！
  * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流在线 AI 服务的应用
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - 使用OpenAI ChatKit + Agent Builder构建的入门应用程序
+ * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - 扫描GitHub以查找可用的OpenAI API密钥
 
 
 ## Others
@@ -2410,5 +2407,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - 这个存储库支持我的博客实验，ChatGPT管理一个真实货币的微型市值股票投资组合。
  * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。输出：LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。
  * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 机场推荐，2025最新科学上网教程，机场实测，提供免费试用机场，与VPN对比，支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。
+ * [nanochat](https://github.com/karpathy/nanochat) - 100美元能买到的最好的ChatGPT。
+ * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - 基于spring-cloud-alibaba微服务架构（SpringBoot3）开发的应用程序
 
 

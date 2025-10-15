@@ -33895,6 +33895,32 @@
                     "zh-hans": "Surf是一个由OpenAI提供支持的计算机使用AI代理，通过自然语言指令与E2B的虚拟桌面环境进行交互。",
                     "zh-hant": "Surf 是一個由 OpenAI 提供動力的電腦使用 AI 代理，通過自然語言指令與 E2B 的虛擬桌面環境進行交互。"
                 }
+            },
+            "https://github.com/unifyai/unify": {
+                "repository_name": "unify",
+                "user_name": "unifyai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Notion for AI Observability 📊",
+                "topics": [
+                    "ai",
+                    "claude",
+                    "gpt",
+                    "gpt-4",
+                    "llama2",
+                    "llm",
+                    "llm-inference",
+                    "llms",
+                    "mixtral",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Notion for AI Observability 📊",
+                    "ja": "AIオブザーバビリティのためのノーション 📊",
+                    "zh-hans": "AI可观测性概念 📊",
+                    "zh-hant": "AI 可觀察性概念 📊"
+                }
             }
         },
         "Langchain": {
@@ -44399,6 +44425,28 @@
                     "zh-hans": "使用OpenAI ChatKit + Agent Builder构建的入门应用程序",
                     "zh-hant": "使用OpenAI ChatKit + Agent Builder構建的入門應用程式"
                 }
+            },
+            "https://github.com/junyi-99/chatgpt-api-scanner": {
+                "repository_name": "ChatGPT-API-Scanner",
+                "user_name": "Junyi-99",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Scan GitHub for available OpenAI API Keys",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "freegpt",
+                    "gpt",
+                    "gpt-3",
+                    "gpt4",
+                    "selenium"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Scan GitHub for available OpenAI API Keys",
+                    "ja": "GitHubで利用可能なOpenAI APIキーをスキャンします。",
+                    "zh-hans": "扫描GitHub以查找可用的OpenAI API密钥",
+                    "zh-hant": "掃描 GitHub 尋找可用的 OpenAI API 金鑰"
+                }
             }
         },
         "Others": {
@@ -52506,6 +52554,34 @@
                     "ja": "空港推薦、2025年最新の科学的なインターネット接続のチュートリアル、空港での実地テスト、無料トライアル空港の提供、VPNとの比較、Clash/V2Ray/Trojanのサポート、ChatGPT/YouTube/Netflixのロック解除、使用方法の説明書を含む。",
                     "zh-hans": "机场推荐，2025最新科学上网教程，机场实测，提供免费试用机场，与VPN对比，支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。",
                     "zh-hant": "機場推薦，2025最新科學上網教程，機場實測，提供免費試用機場，與VPN對比，支持 Clash / V2Ray / Trojan，解鎖 ChatGPT / YouTube / Netflix，含使用教程。"
+                }
+            },
+            "https://github.com/karpathy/nanochat": {
+                "repository_name": "nanochat",
+                "user_name": "karpathy",
+                "language": "Python",
+                "license": null,
+                "description": "The best ChatGPT that $100 can buy.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The best ChatGPT that $100 can buy.",
+                    "ja": "$100で買える最高のChatGPT。",
+                    "zh-hans": "100美元能买到的最好的ChatGPT。",
+                    "zh-hant": "價值100美元的最佳ChatGPT。"
+                }
+            },
+            "https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt": {
+                "repository_name": "cogni-comfyui-openrouter-chatgpt",
+                "user_name": "dulaiduwang003",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "Applications developed based on the spring-cloud-alibaba microservice architecture (SpringBoot3)",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Applications developed based on the spring-cloud-alibaba microservice architecture (SpringBoot3)",
+                    "ja": "SpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーションSpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーション",
+                    "zh-hans": "基于spring-cloud-alibaba微服务架构（SpringBoot3）开发的应用程序",
+                    "zh-hant": "基於spring-cloud-alibaba微服務架構（SpringBoot3）開發的應用程式"
                 }
             }
         }
