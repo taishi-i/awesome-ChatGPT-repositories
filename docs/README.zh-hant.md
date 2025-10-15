@@ -16,25 +16,20 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Everywhere](https://github.com/dearva/everywhere) - 一個為您的桌面設計的具有上下文感知能力的人工智慧助手。準備智能地回應，無縫地整合多個LLM和MCP工具。
-
-
-**Browser-extensions**
- * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist是一個為Qt Creator設計的AI動力編碼助手插件
-
-
 **NLP**
- * [Webscout](https://github.com/pyscout/webscout) - Webscout 是您需要的一站式搜索和人工智能工具包。使用 Yep.com、DuckDuckGo 和 Phind 发现见解；访问尖端人工智能模型；转录 YouTube 视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及
- * [surf](https://github.com/e2b-dev/surf) - Surf 是一個由 OpenAI 提供動力的電腦使用 AI 代理，通過自然語言指令與 E2B 的虛擬桌面環境進行交互。
+ * [unify](https://github.com/unifyai/unify) - AI 可觀察性概念 📊
 
 
 **Openai**
- * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流線上 AI 服務的應用
- * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - 使用OpenAI ChatKit + Agent Builder構建的入門應用程式
+ * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - 掃描 GitHub 尋找可用的 OpenAI API 金鑰
 
 
-_Updated on October 13, 2025_ (A total of 2301 repositories listed.)
+**Others**
+ * [nanochat](https://github.com/karpathy/nanochat) - 價值100美元的最佳ChatGPT。
+ * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - 基於spring-cloud-alibaba微服務架構（SpringBoot3）開發的應用程式
+
+
+_Updated on October 16, 2025_ (A total of 2305 repositories listed.)
 
 ## Table of contents
 
@@ -1508,6 +1503,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - 以Laravel的方式建立、測試和部署智能AI代理。
  * [Webscout](https://github.com/pyscout/webscout) - Webscout 是您需要的一站式搜索和人工智能工具包。使用 Yep.com、DuckDuckGo 和 Phind 发现见解；访问尖端人工智能模型；转录 YouTube 视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及
  * [surf](https://github.com/e2b-dev/surf) - Surf 是一個由 OpenAI 提供動力的電腦使用 AI 代理，通過自然語言指令與 E2B 的虛擬桌面環境進行交互。
+ * [unify](https://github.com/unifyai/unify) - AI 可觀察性概念 📊
 
 
 ## Langchain
@@ -1981,6 +1977,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [archestra](https://github.com/archestra-ai/archestra) - 提供給企業代理人的安全平台，具有MCP、護欄、本地代理人等功能！
  * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流線上 AI 服務的應用
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - 使用OpenAI ChatKit + Agent Builder構建的入門應用程式
+ * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - 掃描 GitHub 尋找可用的 OpenAI API 金鑰
 
 
 ## Others
@@ -2410,5 +2407,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - 這個存儲庫支持我的博客實驗，其中ChatGPT管理一個真實貨幣的微型市值股票組合。
  * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed模塊，用於在鍵盤中集成像ChatGPT這樣的生成式AI。LSPosed模塊，用於在鍵盤中集成像ChatGPT這樣的生成式AI。
  * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 機場推薦，2025最新科學上網教程，機場實測，提供免費試用機場，與VPN對比，支持 Clash / V2Ray / Trojan，解鎖 ChatGPT / YouTube / Netflix，含使用教程。
+ * [nanochat](https://github.com/karpathy/nanochat) - 價值100美元的最佳ChatGPT。
+ * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - 基於spring-cloud-alibaba微服務架構（SpringBoot3）開發的應用程式
 
 

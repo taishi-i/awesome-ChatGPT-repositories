@@ -16,25 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Everywhere](https://github.com/dearva/everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
-
-
-**Browser-extensions**
- * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist is an AI-powered coding assistant plugin for Qt Creator
-
-
 **NLP**
- * [Webscout](https://github.com/pyscout/webscout) - Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and much more!
- * [surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
+ * [unify](https://github.com/unifyai/unify) - Notion for AI Observability 📊
 
 
 **Openai**
- * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流在线 AI 服务的应用
- * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
+ * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - Scan GitHub for available OpenAI API Keys
 
 
-_Updated on October 13, 2025_ (A total of 2301 repositories listed.)
+**Others**
+ * [nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
+ * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - Applications developed based on the spring-cloud-alibaba microservice architecture (SpringBoot3)
+
+
+_Updated on October 16, 2025_ (A total of 2305 repositories listed.)
 
 ## Table of contents
 
@@ -1508,6 +1503,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [vizra-adk](https://github.com/vizra-ai/vizra-adk) - Build, test, and deploy intelligent AI agents the Laravel way
  * [Webscout](https://github.com/pyscout/webscout) - Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and much more!
  * [surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
+ * [unify](https://github.com/unifyai/unify) - Notion for AI Observability 📊
 
 
 ## Langchain
@@ -1981,6 +1977,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [archestra](https://github.com/archestra-ai/archestra) - Secure platform for enterprise agents with MCP, guardrails, local agent, and more!
  * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流在线 AI 服务的应用
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
+ * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - Scan GitHub for available OpenAI API Keys
 
 
 ## Others
@@ -2410,5 +2407,7 @@ _Updated on October 13, 2025_ (A total of 2301 repositories listed.)
  * [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
  * [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - LSPosed Module to integrate Generative AI like ChatGPT in keyboard.
  * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 机场推荐,2025最新科学上网教程,机场实测,提供免费试用机场,与VPN对比,支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。
+ * [nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
+ * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - Applications developed based on the spring-cloud-alibaba microservice architecture (SpringBoot3)
 
 
