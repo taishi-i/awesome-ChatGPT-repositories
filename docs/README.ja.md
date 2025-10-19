@@ -16,20 +16,20 @@
 
 ## The latest additions 🎉
 
-**NLP**
- * [unify](https://github.com/unifyai/unify) - AIオブザーバビリティのためのノーション 📊
+**Chatbots**
+ * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - ローカル、Chatterboxを使用したOpenAI互換のテキスト読み上げ（TTS）APIを入力し、ユーザーがOpenAI APIが使用されている場所（例：Open WebUI、AnythingLLMなど）で声のクローンスピーチを生成できるようにします。
+ * [Silo](https://github.com/kwokkwok/silo) - 多モデル同時チャット、テキストから画像生成、すべて純粋なフロントエンド（APIモード、サーバーサイドは不要）を通じて行われます。
+
+
+**Browser-extensions**
+ * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - ChatGPT APIを基にした翻訳を行うブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
 
 
 **Openai**
- * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - GitHubで利用可能なOpenAI APIキーをスキャンします。
+ * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - OpenAI ChatKit SDKを使用して構築するためのスターターアプリ
 
 
-**Others**
- * [nanochat](https://github.com/karpathy/nanochat) - $100で買える最高のChatGPT。
- * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - SpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーションSpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーション
-
-
-_Updated on October 16, 2025_ (A total of 2305 repositories listed.)
+_Updated on October 20, 2025_ (A total of 2309 repositories listed.)
 
 ## Table of contents
 
@@ -655,6 +655,8 @@ _Updated on October 16, 2025_ (A total of 2305 repositories listed.)
  * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。
  * [bolna](https://github.com/bolna-ai/bolna) - 会話型音声AIエージェント
  * [Everywhere](https://github.com/dearva/everywhere) - デスクトップ用のコンテキストに注意を払ったAIアシスタント。複数のLLMとMCPツールをシームレスに統合し、賢く応答する準備ができています。
+ * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - ローカル、Chatterboxを使用したOpenAI互換のテキスト読み上げ（TTS）APIを入力し、ユーザーがOpenAI APIが使用されている場所（例：Open WebUI、AnythingLLMなど）で声のクローンスピーチを生成できるようにします。
+ * [Silo](https://github.com/kwokkwok/silo) - 多モデル同時チャット、テキストから画像生成、すべて純粋なフロントエンド（APIモード、サーバーサイドは不要）を通じて行われます。
 
 
 ## Browser-extensions
@@ -886,6 +888,7 @@ _Updated on October 16, 2025_ (A total of 2305 repositories listed.)
  * [chatluna](https://github.com/chatlunalab/chatluna) - LLMチャット用のボットプラグイン、マルチモデル統合、拡張性、さまざまな出力形式を備えています。
  * [Translate-It](https://github.com/isegaro/translate-it) - Google Gemini、OpenAi、OpenRouter、WebAiのAPIを使用して、どの言語からどの言語への翻訳（読み取り/書き込み/聞き取り）を行うChrome/Firefox拡張機能。どの言語からどの言語への翻訳を行うChrome/Firefox拡張機能。
  * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssistはQt Creator用のAI搭載コーディングアシスタントプラグインです。
+ * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - ChatGPT APIを基にした翻訳を行うブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
 
 
 ## CLIs
@@ -1978,6 +1981,7 @@ _Updated on October 16, 2025_ (A total of 2305 repositories listed.)
  * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 主流オンラインAIサービスをサポートするアプリ
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - OpenAI ChatKit + Agent Builderを使用して構築するためのスターターアプリ
  * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - GitHubで利用可能なOpenAI APIキーをスキャンします。
+ * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - OpenAI ChatKit SDKを使用して構築するためのスターターアプリ
 
 
 ## Others

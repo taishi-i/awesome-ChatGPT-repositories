@@ -14864,6 +14864,64 @@
                     "zh-hans": "一个针对您桌面的上下文感知人工智能助手。准备智能地回应，无缝集成多个LLM和MCP工具。",
                     "zh-hant": "一個為您的桌面設計的具有上下文感知能力的人工智慧助手。準備智能地回應，無縫地整合多個LLM和MCP工具。"
                 }
+            },
+            "https://github.com/travisvn/chatterbox-tts-api": {
+                "repository_name": "chatterbox-tts-api",
+                "user_name": "travisvn",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "chatterbox",
+                    "cuda",
+                    "docker",
+                    "elevenlabs",
+                    "gpt",
+                    "local-llm",
+                    "ollama",
+                    "open-webui",
+                    "openai",
+                    "openai-api",
+                    "python",
+                    "self-hosted",
+                    "speech",
+                    "text-to-speech",
+                    "tts",
+                    "voice-clone",
+                    "voice-cloning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)",
+                    "ja": "ローカル、Chatterboxを使用したOpenAI互換のテキスト読み上げ（TTS）APIを入力し、ユーザーがOpenAI APIが使用されている場所（例：Open WebUI、AnythingLLMなど）で声のクローンスピーチを生成できるようにします。",
+                    "zh-hans": "本地，兼容OpenAI的文本转语音（TTS）API使用Chatterbox，使用户能够在任何使用OpenAI API的地方生成语音克隆的语音（例如Open WebUI，AnythingLLM等）。",
+                    "zh-hant": "本地，兼容OpenAI的文本转语音（TTS）API使用Chatterbox，使用户能够在任何使用OpenAI API的地方生成语音克隆的语音（例如Open WebUI，AnythingLLM等）。"
+                }
+            },
+            "https://github.com/kwokkwok/silo": {
+                "repository_name": "Silo",
+                "user_name": "KwokKwok",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).",
+                "topics": [
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "frontend",
+                    "multi-model",
+                    "openai",
+                    "self-hosted",
+                    "siliconflow",
+                    "text-to-image"
+                ],
+                "multilingual_descriptions": {
+                    "en": "多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).",
+                    "ja": "多モデル同時チャット、テキストから画像生成、すべて純粋なフロントエンド（APIモード、サーバーサイドは不要）を通じて行われます。",
+                    "zh-hans": "多模型同时对话、文生成图，纯前端。通过纯前端（API模式，无需服务器端）实现多模型同时对话、文生成图。",
+                    "zh-hant": "多模型同時對話、文生成圖，純前端。 (API模式，無需服務器端)。"
+                }
             }
         },
         "Browser-extensions": {
@@ -20207,6 +20265,28 @@
                     "ja": "QodeAssistはQt Creator用のAI搭載コーディングアシスタントプラグインです。",
                     "zh-hans": "QodeAssist是一个为Qt Creator提供AI支持的编码助手插件。",
                     "zh-hant": "QodeAssist是一個為Qt Creator設計的AI動力編碼助手插件"
+                }
+            },
+            "https://github.com/nextai-translator/nextai-translator": {
+                "repository_name": "nextai-translator",
+                "user_name": "nextai-translator",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+                "topics": [
+                    "browser-extension",
+                    "chatgpt",
+                    "chrome-extension",
+                    "openai",
+                    "translation",
+                    "translator",
+                    "translator-app"
+                ],
+                "multilingual_descriptions": {
+                    "en": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+                    "ja": "ChatGPT APIを基にした翻訳を行うブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。",
+                    "zh-hans": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。",
+                    "zh-hant": "基於 ChatGPT API 的劃詞翻譯瀏覽器插件和跨平台桌面端應用 - 基於 ChatGPT API 的翻譯浏覽器插件和跨平台桌面應用。"
                 }
             }
         },
@@ -44446,6 +44526,26 @@
                     "ja": "GitHubで利用可能なOpenAI APIキーをスキャンします。",
                     "zh-hans": "扫描GitHub以查找可用的OpenAI API密钥",
                     "zh-hant": "掃描 GitHub 尋找可用的 OpenAI API 金鑰"
+                }
+            },
+            "https://github.com/openai/openai-chatkit-advanced-samples": {
+                "repository_name": "openai-chatkit-advanced-samples",
+                "user_name": "openai",
+                "language": "Python",
+                "license": "Other",
+                "description": "Starter app to build with OpenAI ChatKit SDK",
+                "topics": [
+                    "chatkit",
+                    "openai",
+                    "openai-api",
+                    "python",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Starter app to build with OpenAI ChatKit SDK",
+                    "ja": "OpenAI ChatKit SDKを使用して構築するためのスターターアプリ",
+                    "zh-hans": "使用OpenAI ChatKit SDK构建的入门应用程序",
+                    "zh-hant": "使用OpenAI ChatKit SDK 构建的入门应用程序"
                 }
             }
         },

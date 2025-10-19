@@ -16,20 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**NLP**
- * [unify](https://github.com/unifyai/unify) - Notion for AI Observability 📊
+**Chatbots**
+ * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)
+ * [Silo](https://github.com/kwokkwok/silo) - 多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).
+
+
+**Browser-extensions**
+ * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 
 
 **Openai**
- * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - Scan GitHub for available OpenAI API Keys
+ * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 
 
-**Others**
- * [nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
- * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - Applications developed based on the spring-cloud-alibaba microservice architecture (SpringBoot3)
-
-
-_Updated on October 16, 2025_ (A total of 2305 repositories listed.)
+_Updated on October 20, 2025_ (A total of 2309 repositories listed.)
 
 ## Table of contents
 
@@ -655,6 +655,8 @@ _Updated on October 16, 2025_ (A total of 2305 repositories listed.)
  * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT a powerful, evil brother of WormGPT.
  * [bolna](https://github.com/bolna-ai/bolna) - Conversational voice AI agents
  * [Everywhere](https://github.com/dearva/everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+ * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)
+ * [Silo](https://github.com/kwokkwok/silo) - 多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).
 
 
 ## Browser-extensions
@@ -886,6 +888,7 @@ _Updated on October 16, 2025_ (A total of 2305 repositories listed.)
  * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可扩展，多种输出格式，提供大语言模型聊天服务的插件 | A bot plugin for LLM chat with multi-model integration, extensibility, and various output formats
  * [Translate-It](https://github.com/isegaro/translate-it) - Chrome/Firefox extension for translating(Read/Write/Listen) from Any Languages to Any Languages using API of  Google Gemini , OpenAi , OpenRouter and  WebAi.
  * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist is an AI-powered coding assistant plugin for Qt Creator
+ * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 
 
 ## CLIs
@@ -1978,6 +1981,7 @@ _Updated on October 16, 2025_ (A total of 2305 repositories listed.)
  * [Rodel.Agent](https://github.com/richasy/rodel.agent) - Applications that support mainstream online AI services.
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
  * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - Scan GitHub for available OpenAI API Keys
+ * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
 
 
 ## Others
