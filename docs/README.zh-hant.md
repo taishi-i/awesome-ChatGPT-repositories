@@ -16,20 +16,20 @@
 
 ## The latest additions 🎉
 
-**NLP**
- * [unify](https://github.com/unifyai/unify) - AI 可觀察性概念 📊
+**Chatbots**
+ * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - 本地，兼容OpenAI的文本转语音（TTS）API使用Chatterbox，使用户能够在任何使用OpenAI API的地方生成语音克隆的语音（例如Open WebUI，AnythingLLM等）。
+ * [Silo](https://github.com/kwokkwok/silo) - 多模型同時對話、文生成圖，純前端。 (API模式，無需服務器端)。
+
+
+**Browser-extensions**
+ * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基於 ChatGPT API 的劃詞翻譯瀏覽器插件和跨平台桌面端應用 - 基於 ChatGPT API 的翻譯浏覽器插件和跨平台桌面應用。
 
 
 **Openai**
- * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - 掃描 GitHub 尋找可用的 OpenAI API 金鑰
+ * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - 使用OpenAI ChatKit SDK 构建的入门应用程序
 
 
-**Others**
- * [nanochat](https://github.com/karpathy/nanochat) - 價值100美元的最佳ChatGPT。
- * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - 基於spring-cloud-alibaba微服務架構（SpringBoot3）開發的應用程式
-
-
-_Updated on October 16, 2025_ (A total of 2305 repositories listed.)
+_Updated on October 20, 2025_ (A total of 2309 repositories listed.)
 
 ## Table of contents
 
@@ -655,6 +655,8 @@ _Updated on October 16, 2025_ (A total of 2305 repositories listed.)
  * [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - Hacx GPT是WormGPT的強大邪惡兄弟。
  * [bolna](https://github.com/bolna-ai/bolna) - 對話式語音人工智慧代理程式
  * [Everywhere](https://github.com/dearva/everywhere) - 一個為您的桌面設計的具有上下文感知能力的人工智慧助手。準備智能地回應，無縫地整合多個LLM和MCP工具。
+ * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - 本地，兼容OpenAI的文本转语音（TTS）API使用Chatterbox，使用户能够在任何使用OpenAI API的地方生成语音克隆的语音（例如Open WebUI，AnythingLLM等）。
+ * [Silo](https://github.com/kwokkwok/silo) - 多模型同時對話、文生成圖，純前端。 (API模式，無需服務器端)。
 
 
 ## Browser-extensions
@@ -886,6 +888,7 @@ _Updated on October 16, 2025_ (A total of 2305 repositories listed.)
  * [chatluna](https://github.com/chatlunalab/chatluna) - 多平台模型接入，可擴展，多種輸出格式，提供大語言模型聊天服務的插件 | 一個用於LLM聊天的機器人插件，具有多模型集成、可擴展性和各種輸出格式。
  * [Translate-It](https://github.com/isegaro/translate-it) - 請將以下內容翻譯為繁體中文。Chrome/Firefox擴展功能，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，從任何語言翻譯為任何語言（閱讀/寫作/聆聽）。
  * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist是一個為Qt Creator設計的AI動力編碼助手插件
+ * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基於 ChatGPT API 的劃詞翻譯瀏覽器插件和跨平台桌面端應用 - 基於 ChatGPT API 的翻譯浏覽器插件和跨平台桌面應用。
 
 
 ## CLIs
@@ -1978,6 +1981,7 @@ _Updated on October 16, 2025_ (A total of 2305 repositories listed.)
  * [Rodel.Agent](https://github.com/richasy/rodel.agent) - 支持主流線上 AI 服務的應用
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - 使用OpenAI ChatKit + Agent Builder構建的入門應用程式
  * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - 掃描 GitHub 尋找可用的 OpenAI API 金鑰
+ * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - 使用OpenAI ChatKit SDK 构建的入门应用程序
 
 
 ## Others
