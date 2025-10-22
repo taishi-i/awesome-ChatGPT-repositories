@@ -16,20 +16,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - ローカル、Chatterboxを使用したOpenAI互換のテキスト読み上げ（TTS）APIを入力し、ユーザーがOpenAI APIが使用されている場所（例：Open WebUI、AnythingLLMなど）で声のクローンスピーチを生成できるようにします。
- * [Silo](https://github.com/kwokkwok/silo) - 多モデル同時チャット、テキストから画像生成、すべて純粋なフロントエンド（APIモード、サーバーサイドは不要）を通じて行われます。
-
-
 **Browser-extensions**
- * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - ChatGPT APIを基にした翻訳を行うブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
+ * [AIPex](https://github.com/aipexstudio/aipex) - AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要
+ * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 オープンソースのAgenticブラウザ；ChatGPT Atlas、Perplexity Comet、Arc/Diaに対するプライバシー重視の代替手段。
+
+
+**NLP**
+ * [llms-tools](https://github.com/petroivaniuk/llms-tools) - LLMsツールとプロジェクトのリスト
+ * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry（デモ、ドキュメント、アクセラレーター）。
 
 
 **Openai**
- * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - OpenAI ChatKit SDKを使用して構築するためのスターターアプリ
+ * [xpert](https://github.com/xpert-ai/xpert) - Xpert AIは、企業がビジネス上の意思決定を行うためのAIエージェントおよびデータ分析プラットフォームです。
 
 
-_Updated on October 20, 2025_ (A total of 2309 repositories listed.)
+**Others**
+ * [frontier-evals](https://github.com/openai/frontier-evals) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
+
+
+_Updated on October 23, 2025_ (A total of 2315 repositories listed.)
 
 ## Table of contents
 
@@ -889,6 +894,8 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [Translate-It](https://github.com/isegaro/translate-it) - Google Gemini、OpenAi、OpenRouter、WebAiのAPIを使用して、どの言語からどの言語への翻訳（読み取り/書き込み/聞き取り）を行うChrome/Firefox拡張機能。どの言語からどの言語への翻訳を行うChrome/Firefox拡張機能。
  * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssistはQt Creator用のAI搭載コーディングアシスタントプラグインです。
  * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - ChatGPT APIを基にした翻訳を行うブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
+ * [AIPex](https://github.com/aipexstudio/aipex) - AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要
+ * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 オープンソースのAgenticブラウザ；ChatGPT Atlas、Perplexity Comet、Arc/Diaに対するプライバシー重視の代替手段。
 
 
 ## CLIs
@@ -1507,6 +1514,8 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [Webscout](https://github.com/pyscout/webscout) - Webscoutは必要なすべての検索とAIツールキットです。Yep.com、DuckDuckGo、Phindで洞察を発見し、最先端のAIモデルにアクセスし、YouTubeビデオを転記し、一時的なメールアドレスや電話番号を生成し、テキストを音声に変換し、
  * [surf](https://github.com/e2b-dev/surf) - サーフは、OpenAIによって動力を供給されたAIエージェントを使用するコンピュータで、自然言語の指示を介してE2Bの仮想デスクトップ環境とやり取りします。
  * [unify](https://github.com/unifyai/unify) - AIオブザーバビリティのためのノーション 📊
+ * [llms-tools](https://github.com/petroivaniuk/llms-tools) - LLMsツールとプロジェクトのリスト
+ * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry（デモ、ドキュメント、アクセラレーター）。
 
 
 ## Langchain
@@ -1982,6 +1991,7 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - OpenAI ChatKit + Agent Builderを使用して構築するためのスターターアプリ
  * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - GitHubで利用可能なOpenAI APIキーをスキャンします。
  * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - OpenAI ChatKit SDKを使用して構築するためのスターターアプリ
+ * [xpert](https://github.com/xpert-ai/xpert) - Xpert AIは、企業がビジネス上の意思決定を行うためのAIエージェントおよびデータ分析プラットフォームです。
 
 
 ## Others
@@ -2413,5 +2423,6 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 空港推薦、2025年最新の科学的なインターネット接続のチュートリアル、空港での実地テスト、無料トライアル空港の提供、VPNとの比較、Clash/V2Ray/Trojanのサポート、ChatGPT/YouTube/Netflixのロック解除、使用方法の説明書を含む。
  * [nanochat](https://github.com/karpathy/nanochat) - $100で買える最高のChatGPT。
  * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - SpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーションSpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーション
+ * [frontier-evals](https://github.com/openai/frontier-evals) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
 
 

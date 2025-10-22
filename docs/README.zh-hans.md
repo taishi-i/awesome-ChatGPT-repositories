@@ -16,20 +16,25 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - 本地，兼容OpenAI的文本转语音（TTS）API使用Chatterbox，使用户能够在任何使用OpenAI API的地方生成语音克隆的语音（例如Open WebUI，AnythingLLM等）。
- * [Silo](https://github.com/kwokkwok/silo) - 多模型同时对话、文生成图，纯前端。通过纯前端（API模式，无需服务器端）实现多模型同时对话、文生成图。
-
-
 **Browser-extensions**
- * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。
+ * [AIPex](https://github.com/aipexstudio/aipex) - AIPex：您浏览器中的代理助手，使用自然语言自动化您的浏览器。ChatGPT Atlas替代方案，无需迁移。
+ * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 开源的Agentic浏览器；ChatGPT Atlas，Perplexity Comet，Arc/Dia的隐私优先替代品。
+
+
+**NLP**
+ * [llms-tools](https://github.com/petroivaniuk/llms-tools) - LLMs工具和项目列表
+ * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry（演示，文档，加速器）。
 
 
 **Openai**
- * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - 使用OpenAI ChatKit SDK构建的入门应用程序
+ * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI是一个为企业提供人工智能代理和数据分析平台，帮助他们做出商业决策的工具。
 
 
-_Updated on October 20, 2025_ (A total of 2309 repositories listed.)
+**Others**
+ * [frontier-evals](https://github.com/openai/frontier-evals) - 在论文《人工神经网络中的多模态神经元》中重现一些图表的代码
+
+
+_Updated on October 23, 2025_ (A total of 2315 repositories listed.)
 
 ## Table of contents
 
@@ -889,6 +894,8 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [Translate-It](https://github.com/isegaro/translate-it) - Chrome/Firefox浏览器插件，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能。输出：使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能的Chrome/Firefox浏览器插件。
  * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist是一个为Qt Creator提供AI支持的编码助手插件。
  * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。
+ * [AIPex](https://github.com/aipexstudio/aipex) - AIPex：您浏览器中的代理助手，使用自然语言自动化您的浏览器。ChatGPT Atlas替代方案，无需迁移。
+ * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 开源的Agentic浏览器；ChatGPT Atlas，Perplexity Comet，Arc/Dia的隐私优先替代品。
 
 
 ## CLIs
@@ -1507,6 +1514,8 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [Webscout](https://github.com/pyscout/webscout) - Webscout是您需要的一体化搜索和人工智能工具包。使用Yep.com、DuckDuckGo和Phind发现见解；访问尖端人工智能模型；转录YouTube视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及
  * [surf](https://github.com/e2b-dev/surf) - Surf是一个由OpenAI提供支持的计算机使用AI代理，通过自然语言指令与E2B的虚拟桌面环境进行交互。
  * [unify](https://github.com/unifyai/unify) - AI可观测性概念 📊
+ * [llms-tools](https://github.com/petroivaniuk/llms-tools) - LLMs工具和项目列表
+ * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry（演示，文档，加速器）。
 
 
 ## Langchain
@@ -1982,6 +1991,7 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - 使用OpenAI ChatKit + Agent Builder构建的入门应用程序
  * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - 扫描GitHub以查找可用的OpenAI API密钥
  * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - 使用OpenAI ChatKit SDK构建的入门应用程序
+ * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI是一个为企业提供人工智能代理和数据分析平台，帮助他们做出商业决策的工具。
 
 
 ## Others
@@ -2413,5 +2423,6 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - 机场推荐，2025最新科学上网教程，机场实测，提供免费试用机场，与VPN对比，支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。
  * [nanochat](https://github.com/karpathy/nanochat) - 100美元能买到的最好的ChatGPT。
  * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - 基于spring-cloud-alibaba微服务架构（SpringBoot3）开发的应用程序
+ * [frontier-evals](https://github.com/openai/frontier-evals) - 在论文《人工神经网络中的多模态神经元》中重现一些图表的代码
 
 

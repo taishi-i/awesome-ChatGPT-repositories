@@ -16,20 +16,25 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)
- * [Silo](https://github.com/kwokkwok/silo) - 多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).
-
-
 **Browser-extensions**
- * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+ * [AIPex](https://github.com/aipexstudio/aipex) - AIPex: agentic assistant in your browser, automate your browser using natural language. ChatGPT Atlas Alternative, no migration need
+ * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
+
+
+**NLP**
+ * [llms-tools](https://github.com/petroivaniuk/llms-tools) - A list of LLMs Tools & Projects
+ * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry (demos, documentation, accelerators).
 
 
 **Openai**
- * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
+ * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.
 
 
-_Updated on October 20, 2025_ (A total of 2309 repositories listed.)
+**Others**
+ * [frontier-evals](https://github.com/openai/frontier-evals) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
+
+
+_Updated on October 23, 2025_ (A total of 2315 repositories listed.)
 
 ## Table of contents
 
@@ -889,6 +894,8 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [Translate-It](https://github.com/isegaro/translate-it) - Chrome/Firefox extension for translating(Read/Write/Listen) from Any Languages to Any Languages using API of  Google Gemini , OpenAi , OpenRouter and  WebAi.
  * [QodeAssist](https://github.com/palm1r/qodeassist) - QodeAssist is an AI-powered coding assistant plugin for Qt Creator
  * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+ * [AIPex](https://github.com/aipexstudio/aipex) - AIPex: agentic assistant in your browser, automate your browser using natural language. ChatGPT Atlas Alternative, no migration need
+ * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
 
 
 ## CLIs
@@ -1507,6 +1514,8 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [Webscout](https://github.com/pyscout/webscout) - Webscout is the all-in-one search and AI toolkit you need. Discover insights with Yep.com, DuckDuckGo, and Phind; access cutting-edge AI models; transcribe YouTube videos; generate temporary emails and phone numbers; perform text-to-speech conversions; and
  * [surf](https://github.com/e2b-dev/surf) - Surf is a computer use AI agent powered by OpenAI that interacts with a E2B's virtual desktop environment through natural language instructions
  * [unify](https://github.com/unifyai/unify) - Notion for AI Observability 📊
+ * [llms-tools](https://github.com/petroivaniuk/llms-tools) - A list of LLMs Tools & Projects
+ * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry (demos, documentation, accelerators).
 
 
 ## Langchain
@@ -1982,6 +1991,7 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - Starter app to build with OpenAI ChatKit + Agent Builder
  * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - Scan GitHub for available OpenAI API Keys
  * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
+ * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.
 
 
 ## Others
@@ -2413,5 +2423,6 @@ _Updated on October 20, 2025_ (A total of 2309 repositories listed.)
  * [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - Airport recommendation, 2025 latest scientific Internet access tutorial, airport actual test, providing free trial airport, compared with VPN, supporting Clash / V2Ray / Trojan, unlocking ChatGPT / YouTube / Netflix, including usage tutorial.
  * [nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
  * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - Applications developed based on the spring-cloud-alibaba microservice architecture (SpringBoot3)
+ * [frontier-evals](https://github.com/openai/frontier-evals) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 
 

@@ -20288,6 +20288,55 @@
                     "zh-hans": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。",
                     "zh-hant": "基於 ChatGPT API 的劃詞翻譯瀏覽器插件和跨平台桌面端應用 - 基於 ChatGPT API 的翻譯浏覽器插件和跨平台桌面應用。"
                 }
+            },
+            "https://github.com/aipexstudio/aipex": {
+                "repository_name": "AIPex",
+                "user_name": "AIPexStudio",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AIPex: agentic assistant in your browser, automate your browser using natural language. ChatGPT Atlas Alternative, no migration need",
+                "topics": [
+                    "agentspeak",
+                    "atlas",
+                    "browser-automation",
+                    "browser-use",
+                    "chatgpt-atlas-alternative",
+                    "chrome-extension",
+                    "claude-for-chrome",
+                    "gemini",
+                    "gemini-chrome",
+                    "mcp",
+                    "sidebar",
+                    "tab-management"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AIPex: agentic assistant in your browser, automate your browser using natural language. ChatGPT Atlas Alternative, no migration need",
+                    "ja": "AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要",
+                    "zh-hans": "AIPex：您浏览器中的代理助手，使用自然语言自动化您的浏览器。ChatGPT Atlas替代方案，无需迁移。",
+                    "zh-hant": "AIPex：在您的瀏覽器中的代理助手，使用自然語言自動化您的瀏覽器。ChatGPT Atlas的替代方案，無需遷移。"
+                }
+            },
+            "https://github.com/browseros-ai/browseros": {
+                "repository_name": "BrowserOS",
+                "user_name": "browseros-ai",
+                "language": "C++",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.",
+                "topics": [
+                    "browser",
+                    "browseros",
+                    "chromium",
+                    "hacktoberfest",
+                    "linux",
+                    "macos",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.",
+                    "ja": "🌐 オープンソースのAgenticブラウザ；ChatGPT Atlas、Perplexity Comet、Arc/Diaに対するプライバシー重視の代替手段。",
+                    "zh-hans": "🌐 开源的Agentic浏览器；ChatGPT Atlas，Perplexity Comet，Arc/Dia的隐私优先替代品。",
+                    "zh-hant": "🌐 開源的Agentic瀏覽器；隱私優先的ChatGPT Atlas、Perplexity Comet、Arc/Dia的替代方案。"
+                }
             }
         },
         "CLIs": {
@@ -34001,6 +34050,62 @@
                     "zh-hans": "AI可观测性概念 📊",
                     "zh-hant": "AI 可觀察性概念 📊"
                 }
+            },
+            "https://github.com/petroivaniuk/llms-tools": {
+                "repository_name": "llms-tools",
+                "user_name": "PetroIvaniuk",
+                "language": null,
+                "license": "Apache License 2.0",
+                "description": "A list of LLMs Tools & Projects",
+                "topics": [
+                    "ai",
+                    "chat-bot",
+                    "chatbots",
+                    "chatgpt",
+                    "data-science",
+                    "llm",
+                    "llm-evaluation",
+                    "machine-learning",
+                    "open-source-llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A list of LLMs Tools & Projects",
+                    "ja": "LLMsツールとプロジェクトのリスト",
+                    "zh-hans": "LLMs工具和项目列表",
+                    "zh-hant": "LLMs 工具和項目清單"
+                }
+            },
+            "https://github.com/retkowsky/azure-aigen-demos": {
+                "repository_name": "Azure-AIGEN-demos",
+                "user_name": "retkowsky",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "Azure AI Foundry (demos, documentation, accelerators). ",
+                "topics": [
+                    "azure",
+                    "azure-cognitive-services",
+                    "azure-openai",
+                    "chatgpt",
+                    "dall-e",
+                    "dalle-3",
+                    "embeddings",
+                    "foundry",
+                    "gpt-4",
+                    "gpt-41",
+                    "gpt-4o",
+                    "imagegen",
+                    "langchain-python",
+                    "llm",
+                    "openai",
+                    "phi-4",
+                    "sora"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Azure AI Foundry (demos, documentation, accelerators).",
+                    "ja": "Azure AI Foundry（デモ、ドキュメント、アクセラレーター）。",
+                    "zh-hans": "Azure AI Foundry（演示，文档，加速器）。",
+                    "zh-hant": "Azure AI Foundry（演示，文档，加速器）。"
+                }
             }
         },
         "Langchain": {
@@ -44547,6 +44652,29 @@
                     "zh-hans": "使用OpenAI ChatKit SDK构建的入门应用程序",
                     "zh-hant": "使用OpenAI ChatKit SDK 构建的入门应用程序"
                 }
+            },
+            "https://github.com/xpert-ai/xpert": {
+                "repository_name": "xpert",
+                "user_name": "xpert-ai",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "bi",
+                    "data",
+                    "dw",
+                    "erp",
+                    "openai",
+                    "xpert"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.",
+                    "ja": "Xpert AIは、企業がビジネス上の意思決定を行うためのAIエージェントおよびデータ分析プラットフォームです。",
+                    "zh-hans": "Xpert AI是一个为企业提供人工智能代理和数据分析平台，帮助他们做出商业决策的工具。",
+                    "zh-hant": "Xpert AI是一個為企業提供人工智能代理和數據分析平台，用於制定業務決策的平台。"
+                }
             }
         },
         "Others": {
@@ -52682,6 +52810,20 @@
                     "ja": "SpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーションSpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーション",
                     "zh-hans": "基于spring-cloud-alibaba微服务架构（SpringBoot3）开发的应用程序",
                     "zh-hant": "基於spring-cloud-alibaba微服務架構（SpringBoot3）開發的應用程式"
+                }
+            },
+            "https://github.com/openai/frontier-evals": {
+                "repository_name": "frontier-evals",
+                "user_name": "openai",
+                "language": "Python",
+                "license": null,
+                "description": "code for reproducing some of the diagrams in the paper \"Multimodal Neurons in Artificial Neural Networks\"",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "code for reproducing some of the diagrams in the paper \"Multimodal Neurons in Artificial Neural Networks\"",
+                    "ja": "論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード",
+                    "zh-hans": "在论文《人工神经网络中的多模态神经元》中重现一些图表的代码",
+                    "zh-hant": "在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼"
                 }
             }
         }
