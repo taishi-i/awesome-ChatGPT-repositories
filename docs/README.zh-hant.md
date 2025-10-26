@@ -16,25 +16,21 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [AIPex](https://github.com/aipexstudio/aipex) - AIPex：在您的瀏覽器中的代理助手，使用自然語言自動化您的瀏覽器。ChatGPT Atlas的替代方案，無需遷移。
- * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 開源的Agentic瀏覽器；隱私優先的ChatGPT Atlas、Perplexity Comet、Arc/Dia的替代方案。
+**CLIs**
+ * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - 使用Rust實現的DeepSeek-OCR，配備OpenAI兼容的伺服器。無需Python環境-只需下載並運行。
 
 
 **NLP**
- * [llms-tools](https://github.com/petroivaniuk/llms-tools) - LLMs 工具和項目清單
- * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry（演示，文档，加速器）。
+ * [OpenMemory](https://github.com/caviraoss/openmemory) - 在幾分鐘內為任何人工智能添加長期記憶。自主託管，開放且無框架。
+ * [surf](https://github.com/deta/surf) - 個人AI筆記本。整理文件和網頁並從中生成筆記。開源，本地和開放數據，開放模型選擇（包括本地）。
 
 
 **Openai**
- * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI是一個為企業提供人工智能代理和數據分析平台，用於制定業務決策的平台。
+ * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - 應用程式 SDK 的範例應用程式
+ * [Shannon](https://github.com/kocoro-lab/shannon) - 開源AI代理器，具有企業級安全性、成本控制和供應商靈活性。是OpenAI AgentKit的替代方案。
 
 
-**Others**
- * [frontier-evals](https://github.com/openai/frontier-evals) - 在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼
-
-
-_Updated on October 23, 2025_ (A total of 2315 repositories listed.)
+_Updated on October 27, 2025_ (A total of 2320 repositories listed.)
 
 ## Table of contents
 
@@ -1086,6 +1082,7 @@ _Updated on October 23, 2025_ (A total of 2315 repositories listed.)
  * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - 街機工具開發套件（TDK），工作人員，評估和CLI
  * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony 是一個強化版的 PHP API 客戶端，讓您可以與 OpenAI API 進行互動。
  * [higlabo](https://github.com/higty/higlabo) - HigLabo library 提供 1.AI 客戶端庫(OpenAI, Anthoripic, Groq) 2.物件映射器(世界上最快的) 3.DbSharp(DAL 生成器) 4.其他.(郵件, FTP, 實用程式...等)
+ * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - 使用Rust實現的DeepSeek-OCR，配備OpenAI兼容的伺服器。無需Python環境-只需下載並運行。
 
 
 ## Reimplementations
@@ -1516,6 +1513,8 @@ _Updated on October 23, 2025_ (A total of 2315 repositories listed.)
  * [unify](https://github.com/unifyai/unify) - AI 可觀察性概念 📊
  * [llms-tools](https://github.com/petroivaniuk/llms-tools) - LLMs 工具和項目清單
  * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry（演示，文档，加速器）。
+ * [OpenMemory](https://github.com/caviraoss/openmemory) - 在幾分鐘內為任何人工智能添加長期記憶。自主託管，開放且無框架。
+ * [surf](https://github.com/deta/surf) - 個人AI筆記本。整理文件和網頁並從中生成筆記。開源，本地和開放數據，開放模型選擇（包括本地）。
 
 
 ## Langchain
@@ -1992,6 +1991,8 @@ _Updated on October 23, 2025_ (A total of 2315 repositories listed.)
  * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - 掃描 GitHub 尋找可用的 OpenAI API 金鑰
  * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - 使用OpenAI ChatKit SDK 构建的入门应用程序
  * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI是一個為企業提供人工智能代理和數據分析平台，用於制定業務決策的平台。
+ * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - 應用程式 SDK 的範例應用程式
+ * [Shannon](https://github.com/kocoro-lab/shannon) - 開源AI代理器，具有企業級安全性、成本控制和供應商靈活性。是OpenAI AgentKit的替代方案。
 
 
 ## Others
