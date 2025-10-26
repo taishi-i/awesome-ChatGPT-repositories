@@ -16,25 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [AIPex](https://github.com/aipexstudio/aipex) - AIPex: agentic assistant in your browser, automate your browser using natural language. ChatGPT Atlas Alternative, no migration need
- * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
+**CLIs**
+ * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.
 
 
 **NLP**
- * [llms-tools](https://github.com/petroivaniuk/llms-tools) - A list of LLMs Tools & Projects
- * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry (demos, documentation, accelerators).
+ * [OpenMemory](https://github.com/caviraoss/openmemory) - Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.
+ * [surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
 
 **Openai**
- * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.
+ * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK
+ * [Shannon](https://github.com/kocoro-lab/shannon) - Open-source AI agent orchestrator with enterprise-grade security, cost controls, and vendor flexibility. An alternative to OpenAI AgentKit
 
 
-**Others**
- * [frontier-evals](https://github.com/openai/frontier-evals) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
-
-
-_Updated on October 23, 2025_ (A total of 2315 repositories listed.)
+_Updated on October 27, 2025_ (A total of 2320 repositories listed.)
 
 ## Table of contents
 
@@ -1086,6 +1082,7 @@ _Updated on October 23, 2025_ (A total of 2315 repositories listed.)
  * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - Arcade Tool Development Kit (TDK), Worker, Evals, and CLI
  * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony is a supercharged PHP API client that allows you to interact with OpenAI API
  * [higlabo](https://github.com/higty/higlabo) - HigLabo library provide 1.AI client library(OpenAI, Anthoripic, Groq) 2.Object Mapper(fastest in the world) 3.DbSharp(DAL generator) 4.Other.(Mail, Ftp, Utility...etc)
+ * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.
 
 
 ## Reimplementations
@@ -1516,6 +1513,8 @@ _Updated on October 23, 2025_ (A total of 2315 repositories listed.)
  * [unify](https://github.com/unifyai/unify) - Notion for AI Observability 📊
  * [llms-tools](https://github.com/petroivaniuk/llms-tools) - A list of LLMs Tools & Projects
  * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry (demos, documentation, accelerators).
+ * [OpenMemory](https://github.com/caviraoss/openmemory) - Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.
+ * [surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
 
 
 ## Langchain
@@ -1992,6 +1991,8 @@ _Updated on October 23, 2025_ (A total of 2315 repositories listed.)
  * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - Scan GitHub for available OpenAI API Keys
  * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - Starter app to build with OpenAI ChatKit SDK
  * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.
+ * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK
+ * [Shannon](https://github.com/kocoro-lab/shannon) - Open-source AI agent orchestrator with enterprise-grade security, cost controls, and vendor flexibility. An alternative to OpenAI AgentKit
 
 
 ## Others

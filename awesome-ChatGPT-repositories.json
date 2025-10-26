@@ -24794,6 +24794,26 @@
                     "zh-hans": "HigLabo库提供1.AI客户端库（OpenAI，Anthoripic，Groq）2.对象映射器（世界上最快的）3.DbSharp（DAL生成器）4.其他（邮件，FTP，实用程序等）",
                     "zh-hant": "HigLabo library 提供 1.AI 客戶端庫(OpenAI, Anthoripic, Groq) 2.物件映射器(世界上最快的) 3.DbSharp(DAL 生成器) 4.其他.(郵件, FTP, 實用程式...等)"
                 }
+            },
+            "https://github.com/timmyovo/deepseek-ocr.rs": {
+                "repository_name": "deepseek-ocr.rs",
+                "user_name": "TimmyOVO",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.",
+                "topics": [
+                    "candle",
+                    "ocr",
+                    "ocr-recognition",
+                    "openai",
+                    "rust"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.",
+                    "ja": "DeepSeek-OCRのRust実装とOpenAI互換サーバー。＆CLI Python環境は必要ありません-ダウンロードして実行するだけです。",
+                    "zh-hans": "使用Rust实现的DeepSeek-OCR，配备OpenAI兼容的服务器。无需Python环境-只需下载并运行。",
+                    "zh-hant": "使用Rust實現的DeepSeek-OCR，配備OpenAI兼容的伺服器。無需Python環境-只需下載並運行。"
+                }
             }
         },
         "Reimplementations": {
@@ -34105,6 +34125,69 @@
                     "ja": "Azure AI Foundry（デモ、ドキュメント、アクセラレーター）。",
                     "zh-hans": "Azure AI Foundry（演示，文档，加速器）。",
                     "zh-hant": "Azure AI Foundry（演示，文档，加速器）。"
+                }
+            },
+            "https://github.com/caviraoss/openmemory": {
+                "repository_name": "OpenMemory",
+                "user_name": "CaviraOSS",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ai-infrastructure",
+                    "ai-memory",
+                    "artificial-intelligence",
+                    "cognitive-architecture",
+                    "embeddings",
+                    "gemini",
+                    "llm",
+                    "long-term-memory",
+                    "memory",
+                    "memory-engine",
+                    "memory-retrieval",
+                    "ollama",
+                    "openai",
+                    "openmemory",
+                    "rag",
+                    "supermemory",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.",
+                    "ja": "AIに長期記憶を数分で追加します。セルフホスト、オープン、フレームワーク不要。",
+                    "zh-hans": "在几分钟内为任何人工智能添加长期记忆。自托管，开放且无框架。",
+                    "zh-hant": "在幾分鐘內為任何人工智能添加長期記憶。自主託管，開放且無框架。"
+                }
+            },
+            "https://github.com/deta/surf": {
+                "repository_name": "surf",
+                "user_name": "deta",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+                "topics": [
+                    "claude",
+                    "deepseek",
+                    "gemma",
+                    "knowledge-base",
+                    "knowledge-management",
+                    "llm",
+                    "local",
+                    "local-llm",
+                    "ollama",
+                    "openai",
+                    "productivity",
+                    "rust",
+                    "svelte",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).",
+                    "ja": "個人用AIノートブック。ファイルやウェブページを整理し、それらからノートを生成します。オープンソースで、ローカル＆オープンデータ、オープンモデルの選択（ローカルを含む）。",
+                    "zh-hans": "个人AI笔记本。整理文件和网页，并从中生成笔记。开源，本地和开放数据，开放模型选择（包括本地）。",
+                    "zh-hant": "個人AI筆記本。整理文件和網頁並從中生成筆記。開源，本地和開放數據，開放模型選擇（包括本地）。"
                 }
             }
         },
@@ -44674,6 +44757,37 @@
                     "ja": "Xpert AIは、企業がビジネス上の意思決定を行うためのAIエージェントおよびデータ分析プラットフォームです。",
                     "zh-hans": "Xpert AI是一个为企业提供人工智能代理和数据分析平台，帮助他们做出商业决策的工具。",
                     "zh-hant": "Xpert AI是一個為企業提供人工智能代理和數據分析平台，用於制定業務決策的平台。"
+                }
+            },
+            "https://github.com/openai/openai-apps-sdk-examples": {
+                "repository_name": "openai-apps-sdk-examples",
+                "user_name": "openai",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Example apps for the Apps SDK",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Example apps for the Apps SDK",
+                    "ja": "アプリSDKの例示アプリ",
+                    "zh-hans": "Apps SDK的示例应用程序",
+                    "zh-hant": "應用程式 SDK 的範例應用程式"
+                }
+            },
+            "https://github.com/kocoro-lab/shannon": {
+                "repository_name": "Shannon",
+                "user_name": "Kocoro-lab",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Open-source AI agent orchestrator with enterprise-grade security, cost controls, and vendor flexibility. An alternative to OpenAI AgentKit",
+                "topics": [
+                    "agent",
+                    "ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source AI agent orchestrator with enterprise-grade security, cost controls, and vendor flexibility. An alternative to OpenAI AgentKit",
+                    "ja": "オープンソースのAIエージェントオーケストレーターで、エンタープライズ向けのセキュリティ、コストコントロール、ベンダーの柔軟性を備えています。OpenAI AgentKitの代替となります。",
+                    "zh-hans": "开源AI代理编排器，具有企业级安全性、成本控制和供应商灵活性。是OpenAI AgentKit的替代方案。",
+                    "zh-hant": "開源AI代理器，具有企業級安全性、成本控制和供應商靈活性。是OpenAI AgentKit的替代方案。"
                 }
             }
         },

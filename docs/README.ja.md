@@ -16,25 +16,21 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [AIPex](https://github.com/aipexstudio/aipex) - AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要
- * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 オープンソースのAgenticブラウザ；ChatGPT Atlas、Perplexity Comet、Arc/Diaに対するプライバシー重視の代替手段。
+**CLIs**
+ * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - DeepSeek-OCRのRust実装とOpenAI互換サーバー。＆CLI Python環境は必要ありません-ダウンロードして実行するだけです。
 
 
 **NLP**
- * [llms-tools](https://github.com/petroivaniuk/llms-tools) - LLMsツールとプロジェクトのリスト
- * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry（デモ、ドキュメント、アクセラレーター）。
+ * [OpenMemory](https://github.com/caviraoss/openmemory) - AIに長期記憶を数分で追加します。セルフホスト、オープン、フレームワーク不要。
+ * [surf](https://github.com/deta/surf) - 個人用AIノートブック。ファイルやウェブページを整理し、それらからノートを生成します。オープンソースで、ローカル＆オープンデータ、オープンモデルの選択（ローカルを含む）。
 
 
 **Openai**
- * [xpert](https://github.com/xpert-ai/xpert) - Xpert AIは、企業がビジネス上の意思決定を行うためのAIエージェントおよびデータ分析プラットフォームです。
+ * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - アプリSDKの例示アプリ
+ * [Shannon](https://github.com/kocoro-lab/shannon) - オープンソースのAIエージェントオーケストレーターで、エンタープライズ向けのセキュリティ、コストコントロール、ベンダーの柔軟性を備えています。OpenAI AgentKitの代替となります。
 
 
-**Others**
- * [frontier-evals](https://github.com/openai/frontier-evals) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
-
-
-_Updated on October 23, 2025_ (A total of 2315 repositories listed.)
+_Updated on October 27, 2025_ (A total of 2320 repositories listed.)
 
 ## Table of contents
 
@@ -1086,6 +1082,7 @@ _Updated on October 23, 2025_ (A total of 2315 repositories listed.)
  * [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - アーケードツール開発キット（TDK）、ワーカー、評価、およびCLI
  * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfonyは、OpenAI APIとやり取りすることができる強力なPHP APIクライアントです。
  * [higlabo](https://github.com/higty/higlabo) - HigLaboライブラリは、1.AIクライアントライブラリ（OpenAI、Anthoripic、Groq）2.オブジェクトマッパー（世界最速）3.DbSharp（DALジェネレーター）4.その他（メール、FTP、ユーティリティなど）を提供します。
+ * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - DeepSeek-OCRのRust実装とOpenAI互換サーバー。＆CLI Python環境は必要ありません-ダウンロードして実行するだけです。
 
 
 ## Reimplementations
@@ -1516,6 +1513,8 @@ _Updated on October 23, 2025_ (A total of 2315 repositories listed.)
  * [unify](https://github.com/unifyai/unify) - AIオブザーバビリティのためのノーション 📊
  * [llms-tools](https://github.com/petroivaniuk/llms-tools) - LLMsツールとプロジェクトのリスト
  * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry（デモ、ドキュメント、アクセラレーター）。
+ * [OpenMemory](https://github.com/caviraoss/openmemory) - AIに長期記憶を数分で追加します。セルフホスト、オープン、フレームワーク不要。
+ * [surf](https://github.com/deta/surf) - 個人用AIノートブック。ファイルやウェブページを整理し、それらからノートを生成します。オープンソースで、ローカル＆オープンデータ、オープンモデルの選択（ローカルを含む）。
 
 
 ## Langchain
@@ -1992,6 +1991,8 @@ _Updated on October 23, 2025_ (A total of 2315 repositories listed.)
  * [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - GitHubで利用可能なOpenAI APIキーをスキャンします。
  * [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - OpenAI ChatKit SDKを使用して構築するためのスターターアプリ
  * [xpert](https://github.com/xpert-ai/xpert) - Xpert AIは、企業がビジネス上の意思決定を行うためのAIエージェントおよびデータ分析プラットフォームです。
+ * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - アプリSDKの例示アプリ
+ * [Shannon](https://github.com/kocoro-lab/shannon) - オープンソースのAIエージェントオーケストレーターで、エンタープライズ向けのセキュリティ、コストコントロール、ベンダーの柔軟性を備えています。OpenAI AgentKitの代替となります。
 
 
 ## Others
