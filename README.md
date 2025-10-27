@@ -658,6 +658,7 @@ _Updated on October 27, 2025_ (A total of 2320 repositories listed.)
  * [Everywhere](https://github.com/dearva/everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
  * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)
  * [Silo](https://github.com/kwokkwok/silo) - 多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).
+ * [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - first agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (open-ended data research and produce analyst-grade research reports). 可直接读入结构化、非结构化数据，生成分析师级别研究报告。
 
 
 ## Browser-extensions
