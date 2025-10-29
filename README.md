@@ -16,21 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.
+**Chatbots**
+ * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyze is the first agentic LLM for autonomous data science.
+
+
+**Browser-extensions**
+ * [GhidrAssist](https://github.com/jtang613/ghidrassist) - An LLM extension for Ghidra to enable AI assistance in RE.
 
 
 **NLP**
- * [OpenMemory](https://github.com/caviraoss/openmemory) - Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.
- * [surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
+ * [voltagent](https://github.com/voltagent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
 
 
-**Openai**
- * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK
- * [Shannon](https://github.com/kocoro-lab/shannon) - Open-source AI agent orchestrator with enterprise-grade security, cost controls, and vendor flexibility. An alternative to OpenAI AgentKit
+**Langchain**
+ * [chats](https://github.com/sdcb/chats) - User-friendly Enterprise Ready AI Interface (Supports Ollama, OpenAI API, DeepSeek...)
 
 
-_Updated on October 27, 2025_ (A total of 2320 repositories listed.)
+_Updated on October 30, 2025_ (A total of 2324 repositories listed.)
 
 ## Table of contents
 
@@ -658,7 +660,7 @@ _Updated on October 27, 2025_ (A total of 2320 repositories listed.)
  * [Everywhere](https://github.com/dearva/everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
  * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)
  * [Silo](https://github.com/kwokkwok/silo) - 多模型同时对话、文生图，纯前端。Multi-model simultaneous chat、text-to-image generation, all done through pure front-end (API mode, no server-side needed).
- * [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - first agentic LLM for autonomous data science, supporting specific data tasks (data preparation, analysis, modeling, visualization, and insight) and data-oriented deep research (open-ended data research and produce analyst-grade research reports). 可直接读入结构化、非结构化数据，生成分析师级别研究报告。
+ * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyze is the first agentic LLM for autonomous data science.
 
 
 ## Browser-extensions
@@ -893,6 +895,7 @@ _Updated on October 27, 2025_ (A total of 2320 repositories listed.)
  * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
  * [AIPex](https://github.com/aipexstudio/aipex) - AIPex: agentic assistant in your browser, automate your browser using natural language. ChatGPT Atlas Alternative, no migration need
  * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
+ * [GhidrAssist](https://github.com/jtang613/ghidrassist) - An LLM extension for Ghidra to enable AI assistance in RE.
 
 
 ## CLIs
@@ -1516,6 +1519,7 @@ _Updated on October 27, 2025_ (A total of 2320 repositories listed.)
  * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry (demos, documentation, accelerators).
  * [OpenMemory](https://github.com/caviraoss/openmemory) - Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.
  * [surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
+ * [voltagent](https://github.com/voltagent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
 
 
 ## Langchain
@@ -1683,6 +1687,7 @@ _Updated on October 27, 2025_ (A total of 2320 repositories listed.)
  * [samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
  * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
  * [LlmTornado](https://github.com/lofcz/llmtornado) - The .NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, MoonshotAI, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!
+ * [chats](https://github.com/sdcb/chats) - User-friendly Enterprise Ready AI Interface (Supports Ollama, OpenAI API, DeepSeek...)
 
 
 ## Unity
