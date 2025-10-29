@@ -16,21 +16,23 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - 使用Rust實現的DeepSeek-OCR，配備OpenAI兼容的伺服器。無需Python環境-只需下載並運行。
+**Chatbots**
+ * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyze是第一個自主數據科學的代理LLM。
+
+
+**Browser-extensions**
+ * [GhidrAssist](https://github.com/jtang613/ghidrassist) - 一個用於Ghidra的LLM擴展，以啟用AI輔助進行逆向工程。
 
 
 **NLP**
- * [OpenMemory](https://github.com/caviraoss/openmemory) - 在幾分鐘內為任何人工智能添加長期記憶。自主託管，開放且無框架。
- * [surf](https://github.com/deta/surf) - 個人AI筆記本。整理文件和網頁並從中生成筆記。開源，本地和開放數據，開放模型選擇（包括本地）。
+ * [voltagent](https://github.com/voltagent/voltagent) - 具備內建LLM可觀察性的開源TypeScript AI代理框架
 
 
-**Openai**
- * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - 應用程式 SDK 的範例應用程式
- * [Shannon](https://github.com/kocoro-lab/shannon) - 開源AI代理器，具有企業級安全性、成本控制和供應商靈活性。是OpenAI AgentKit的替代方案。
+**Langchain**
+ * [chats](https://github.com/sdcb/chats) - 用戶友好的企業級AI界面（支持Ollama、OpenAI API、DeepSeek...）
 
 
-_Updated on October 27, 2025_ (A total of 2320 repositories listed.)
+_Updated on October 30, 2025_ (A total of 2324 repositories listed.)
 
 ## Table of contents
 
@@ -658,6 +660,7 @@ _Updated on October 27, 2025_ (A total of 2320 repositories listed.)
  * [Everywhere](https://github.com/dearva/everywhere) - 一個為您的桌面設計的具有上下文感知能力的人工智慧助手。準備智能地回應，無縫地整合多個LLM和MCP工具。
  * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - 本地，兼容OpenAI的文本转语音（TTS）API使用Chatterbox，使用户能够在任何使用OpenAI API的地方生成语音克隆的语音（例如Open WebUI，AnythingLLM等）。
  * [Silo](https://github.com/kwokkwok/silo) - 多模型同時對話、文生成圖，純前端。 (API模式，無需服務器端)。
+ * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyze是第一個自主數據科學的代理LLM。
 
 
 ## Browser-extensions
@@ -892,6 +895,7 @@ _Updated on October 27, 2025_ (A total of 2320 repositories listed.)
  * [nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基於 ChatGPT API 的劃詞翻譯瀏覽器插件和跨平台桌面端應用 - 基於 ChatGPT API 的翻譯浏覽器插件和跨平台桌面應用。
  * [AIPex](https://github.com/aipexstudio/aipex) - AIPex：在您的瀏覽器中的代理助手，使用自然語言自動化您的瀏覽器。ChatGPT Atlas的替代方案，無需遷移。
  * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 開源的Agentic瀏覽器；隱私優先的ChatGPT Atlas、Perplexity Comet、Arc/Dia的替代方案。
+ * [GhidrAssist](https://github.com/jtang613/ghidrassist) - 一個用於Ghidra的LLM擴展，以啟用AI輔助進行逆向工程。
 
 
 ## CLIs
@@ -1515,6 +1519,7 @@ _Updated on October 27, 2025_ (A total of 2320 repositories listed.)
  * [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - Azure AI Foundry（演示，文档，加速器）。
  * [OpenMemory](https://github.com/caviraoss/openmemory) - 在幾分鐘內為任何人工智能添加長期記憶。自主託管，開放且無框架。
  * [surf](https://github.com/deta/surf) - 個人AI筆記本。整理文件和網頁並從中生成筆記。開源，本地和開放數據，開放模型選擇（包括本地）。
+ * [voltagent](https://github.com/voltagent/voltagent) - 具備內建LLM可觀察性的開源TypeScript AI代理框架
 
 
 ## Langchain
@@ -1682,6 +1687,7 @@ _Updated on October 27, 2025_ (A total of 2320 repositories listed.)
  * [samples](https://github.com/strands-agents/samples) - 使用Strands Agents SDK 构建的代理样本。
  * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 運行最新的LLMs和VLMs跨GPU、NPU和CPU，並使用Python、Android Java和iOS Swift的綁定，快速啟動並運行OpenAI gpt-oss、Gemma 3、Qwen3等。
  * [LlmTornado](https://github.com/lofcz/llmtornado) - 使用100多個LLM API構建AI系統的.NET庫：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！
+ * [chats](https://github.com/sdcb/chats) - 用戶友好的企業級AI界面（支持Ollama、OpenAI API、DeepSeek...）
 
 
 ## Unity

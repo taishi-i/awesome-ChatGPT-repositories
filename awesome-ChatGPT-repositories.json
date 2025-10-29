@@ -14922,6 +14922,41 @@
                     "zh-hans": "多模型同时对话、文生成图，纯前端。通过纯前端（API模式，无需服务器端）实现多模型同时对话、文生成图。",
                     "zh-hant": "多模型同時對話、文生成圖，純前端。 (API模式，無需服務器端)。"
                 }
+            },
+            "https://github.com/ruc-datalab/deepanalyze": {
+                "repository_name": "DeepAnalyze",
+                "user_name": "ruc-datalab",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "DeepAnalyze is the first agentic LLM for autonomous data science.",
+                "topics": [
+                    "agent",
+                    "agentic",
+                    "agentic-ai",
+                    "ai",
+                    "ai-scientist",
+                    "chatbot",
+                    "chatgpt",
+                    "data",
+                    "data-analysis",
+                    "data-engineering",
+                    "data-science",
+                    "data-visualization",
+                    "database",
+                    "gpt",
+                    "llama",
+                    "llm",
+                    "qwen",
+                    "science",
+                    "structured-data",
+                    "vllm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "DeepAnalyze is the first agentic LLM for autonomous data science.",
+                    "ja": "DeepAnalyzeは自律データサイエンスのための最初のエージェントLMMです。",
+                    "zh-hans": "DeepAnalyze是第一个自主数据科学代理LLM。",
+                    "zh-hant": "DeepAnalyze是第一個自主數據科學的代理LLM。"
+                }
             }
         },
         "Browser-extensions": {
@@ -20336,6 +20371,30 @@
                     "ja": "🌐 オープンソースのAgenticブラウザ；ChatGPT Atlas、Perplexity Comet、Arc/Diaに対するプライバシー重視の代替手段。",
                     "zh-hans": "🌐 开源的Agentic浏览器；ChatGPT Atlas，Perplexity Comet，Arc/Dia的隐私优先替代品。",
                     "zh-hant": "🌐 開源的Agentic瀏覽器；隱私優先的ChatGPT Atlas、Perplexity Comet、Arc/Dia的替代方案。"
+                }
+            },
+            "https://github.com/jtang613/ghidrassist": {
+                "repository_name": "GhidrAssist",
+                "user_name": "jtang613",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "An LLM extension for Ghidra to enable AI assistance in RE.",
+                "topics": [
+                    "chatgpt",
+                    "ghidra",
+                    "ghidra-extension",
+                    "ghidra-plugin",
+                    "llm",
+                    "ml",
+                    "openai",
+                    "re",
+                    "reverse-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An LLM extension for Ghidra to enable AI assistance in RE.",
+                    "ja": "GhidraにAI支援を可能にするLLM拡張機能。",
+                    "zh-hans": "一个用于Ghidra的LLM扩展，以实现在逆向工程中启用人工智能辅助。",
+                    "zh-hant": "一個用於Ghidra的LLM擴展，以啟用AI輔助進行逆向工程。"
                 }
             }
         },
@@ -34189,6 +34248,41 @@
                     "zh-hans": "个人AI笔记本。整理文件和网页，并从中生成笔记。开源，本地和开放数据，开放模型选择（包括本地）。",
                     "zh-hant": "個人AI筆記本。整理文件和網頁並從中生成筆記。開源，本地和開放數據，開放模型選擇（包括本地）。"
                 }
+            },
+            "https://github.com/voltagent/voltagent": {
+                "repository_name": "voltagent",
+                "user_name": "VoltAgent",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Open Source TypeScript AI Agent Framework with built-in LLM Observability",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "ai-agents",
+                    "ai-agents-framework",
+                    "aiagentframework",
+                    "chatbots",
+                    "chatgpt",
+                    "framework",
+                    "javascript",
+                    "llm",
+                    "llm-observability",
+                    "mcp",
+                    "multiagent",
+                    "nodejs",
+                    "observability",
+                    "open-source",
+                    "openai",
+                    "rag",
+                    "tts",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open Source TypeScript AI Agent Framework with built-in LLM Observability",
+                    "ja": "組み込みLLM観測機能を備えたオープンソースTypeScript AIエージェントフレームワーク",
+                    "zh-hans": "开源TypeScript AI代理框架，内置LLM可观测性",
+                    "zh-hant": "具備內建LLM可觀察性的開源TypeScript AI代理框架"
+                }
             }
         },
         "Langchain": {
@@ -38269,6 +38363,32 @@
                     "ja": "100以上のLLM APIを使用してAIシステムを構築するための.NETライブラリ：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAIなど、さらに多くのもの！",
                     "zh-hans": "使用100多个LLM API构建AI系统的.NET库：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！",
                     "zh-hant": "使用100多個LLM API構建AI系統的.NET庫：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！"
+                }
+            },
+            "https://github.com/sdcb/chats": {
+                "repository_name": "chats",
+                "user_name": "sdcb",
+                "language": "C#",
+                "license": "Apache License 2.0",
+                "description": "User-friendly Enterprise Ready AI Interface (Supports Ollama, OpenAI API, DeepSeek...)",
+                "topics": [
+                    "ai",
+                    "chatglm",
+                    "chatgpt-api",
+                    "dashscope",
+                    "deepseek",
+                    "deepseek-r1",
+                    "dotnet",
+                    "llm",
+                    "moonshot",
+                    "openai-api",
+                    "react"
+                ],
+                "multilingual_descriptions": {
+                    "en": "User-friendly Enterprise Ready AI Interface (Supports Ollama, OpenAI API, DeepSeek...)",
+                    "ja": "ユーザーフレンドリーでエンタープライズ向けのAIインターフェース（Ollama、OpenAI API、DeepSeekなどをサポート）",
+                    "zh-hans": "用户友好的企业级AI界面（支持Ollama、OpenAI API、DeepSeek等）",
+                    "zh-hant": "用戶友好的企業級AI界面（支持Ollama、OpenAI API、DeepSeek...）"
                 }
             }
         },
