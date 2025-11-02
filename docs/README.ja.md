@@ -16,23 +16,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyzeは自律データサイエンスのための最初のエージェントLMMです。
-
-
 **Browser-extensions**
- * [GhidrAssist](https://github.com/jtang613/ghidrassist) - GhidraにAI支援を可能にするLLM拡張機能。
+ * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - OpenAI APIに基づいたテキスト翻訳、テキストの修正、文法修正のBobプラグイン、バベルの塔が必要ない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0ライセンス下で利用可能。
 
 
 **NLP**
- * [voltagent](https://github.com/voltagent/voltagent) - 組み込みLLM観測機能を備えたオープンソースTypeScript AIエージェントフレームワーク
+ * [pipelex](https://github.com/pipelex/pipelex) - Pipelex: AIエージェントが繰り返し可能なAIワークフローを作成および実行するためのオープンソース言語
+ * [rowboat](https://github.com/rowboatlabs/rowboat) - AIパワードマルチエージェントビルダー
+ * [RAGLight](https://github.com/bessouat40/raglight) - RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。
 
 
 **Langchain**
- * [chats](https://github.com/sdcb/chats) - ユーザーフレンドリーでエンタープライズ向けのAIインターフェース（Ollama、OpenAI API、DeepSeekなどをサポート）
+ * [vllora](https://github.com/vllora/vllora) - AI エージェントのデバッグを行ってください。
 
 
-_Updated on October 30, 2025_ (A total of 2324 repositories listed.)
+_Updated on November 03, 2025_ (A total of 2329 repositories listed.)
 
 ## Table of contents
 
@@ -896,6 +894,7 @@ _Updated on October 30, 2025_ (A total of 2324 repositories listed.)
  * [AIPex](https://github.com/aipexstudio/aipex) - AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要
  * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 オープンソースのAgenticブラウザ；ChatGPT Atlas、Perplexity Comet、Arc/Diaに対するプライバシー重視の代替手段。
  * [GhidrAssist](https://github.com/jtang613/ghidrassist) - GhidraにAI支援を可能にするLLM拡張機能。
+ * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - OpenAI APIに基づいたテキスト翻訳、テキストの修正、文法修正のBobプラグイン、バベルの塔が必要ない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0ライセンス下で利用可能。
 
 
 ## CLIs
@@ -1520,6 +1519,9 @@ _Updated on October 30, 2025_ (A total of 2324 repositories listed.)
  * [OpenMemory](https://github.com/caviraoss/openmemory) - AIに長期記憶を数分で追加します。セルフホスト、オープン、フレームワーク不要。
  * [surf](https://github.com/deta/surf) - 個人用AIノートブック。ファイルやウェブページを整理し、それらからノートを生成します。オープンソースで、ローカル＆オープンデータ、オープンモデルの選択（ローカルを含む）。
  * [voltagent](https://github.com/voltagent/voltagent) - 組み込みLLM観測機能を備えたオープンソースTypeScript AIエージェントフレームワーク
+ * [pipelex](https://github.com/pipelex/pipelex) - Pipelex: AIエージェントが繰り返し可能なAIワークフローを作成および実行するためのオープンソース言語
+ * [rowboat](https://github.com/rowboatlabs/rowboat) - AIパワードマルチエージェントビルダー
+ * [RAGLight](https://github.com/bessouat40/raglight) - RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。
 
 
 ## Langchain
@@ -1688,6 +1690,7 @@ _Updated on October 30, 2025_ (A total of 2324 repositories listed.)
  * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 最新のLLMsとVLMsをGPU、NPU、CPUで実行し、Python、Android Java、iOS Swift向けのバインディングを使用して、OpenAI gpt-oss、Gemma 3、Qwen3などを素早く起動して実行します。
  * [LlmTornado](https://github.com/lofcz/llmtornado) - 100以上のLLM APIを使用してAIシステムを構築するための.NETライブラリ：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAIなど、さらに多くのもの！
  * [chats](https://github.com/sdcb/chats) - ユーザーフレンドリーでエンタープライズ向けのAIインターフェース（Ollama、OpenAI API、DeepSeekなどをサポート）
+ * [vllora](https://github.com/vllora/vllora) - AI エージェントのデバッグを行ってください。
 
 
 ## Unity

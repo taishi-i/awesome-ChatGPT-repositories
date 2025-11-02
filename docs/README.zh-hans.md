@@ -16,23 +16,21 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyze是第一个自主数据科学代理LLM。
-
-
 **Browser-extensions**
- * [GhidrAssist](https://github.com/jtang613/ghidrassist) - 一个用于Ghidra的LLM扩展，以实现在逆向工程中启用人工智能辅助。
+ * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可。
 
 
 **NLP**
- * [voltagent](https://github.com/voltagent/voltagent) - 开源TypeScript AI代理框架，内置LLM可观测性
+ * [pipelex](https://github.com/pipelex/pipelex) - Pipelex：开源语言，用于AI代理创建和运行可重复的AI工作流程
+ * [rowboat](https://github.com/rowboatlabs/rowboat) - AI 动力多代理生成器
+ * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight是一个用于检索增强生成（RAG）的模块化框架。它可以轻松地插入不同的LLMs、嵌入和向量存储，并且现在包括无缝的MCP集成，以连接外部工具和数据源。
 
 
 **Langchain**
- * [chats](https://github.com/sdcb/chats) - 用户友好的企业级AI界面（支持Ollama、OpenAI API、DeepSeek等）
+ * [vllora](https://github.com/vllora/vllora) - 调试您的AI代理
 
 
-_Updated on October 30, 2025_ (A total of 2324 repositories listed.)
+_Updated on November 03, 2025_ (A total of 2329 repositories listed.)
 
 ## Table of contents
 
@@ -896,6 +894,7 @@ _Updated on October 30, 2025_ (A total of 2324 repositories listed.)
  * [AIPex](https://github.com/aipexstudio/aipex) - AIPex：您浏览器中的代理助手，使用自然语言自动化您的浏览器。ChatGPT Atlas替代方案，无需迁移。
  * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 开源的Agentic浏览器；ChatGPT Atlas，Perplexity Comet，Arc/Dia的隐私优先替代品。
  * [GhidrAssist](https://github.com/jtang613/ghidrassist) - 一个用于Ghidra的LLM扩展，以实现在逆向工程中启用人工智能辅助。
+ * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可。
 
 
 ## CLIs
@@ -1520,6 +1519,9 @@ _Updated on October 30, 2025_ (A total of 2324 repositories listed.)
  * [OpenMemory](https://github.com/caviraoss/openmemory) - 在几分钟内为任何人工智能添加长期记忆。自托管，开放且无框架。
  * [surf](https://github.com/deta/surf) - 个人AI笔记本。整理文件和网页，并从中生成笔记。开源，本地和开放数据，开放模型选择（包括本地）。
  * [voltagent](https://github.com/voltagent/voltagent) - 开源TypeScript AI代理框架，内置LLM可观测性
+ * [pipelex](https://github.com/pipelex/pipelex) - Pipelex：开源语言，用于AI代理创建和运行可重复的AI工作流程
+ * [rowboat](https://github.com/rowboatlabs/rowboat) - AI 动力多代理生成器
+ * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight是一个用于检索增强生成（RAG）的模块化框架。它可以轻松地插入不同的LLMs、嵌入和向量存储，并且现在包括无缝的MCP集成，以连接外部工具和数据源。
 
 
 ## Langchain
@@ -1688,6 +1690,7 @@ _Updated on October 30, 2025_ (A total of 2324 repositories listed.)
  * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - 在GPU、NPU和CPU上运行最新的LLMs和VLMs，并使用Python、Android Java和iOS Swift的绑定，快速启动OpenAI gpt-oss、Gemma 3、Qwen3等。
  * [LlmTornado](https://github.com/lofcz/llmtornado) - 使用100多个LLM API构建AI系统的.NET库：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！
  * [chats](https://github.com/sdcb/chats) - 用户友好的企业级AI界面（支持Ollama、OpenAI API、DeepSeek等）
+ * [vllora](https://github.com/vllora/vllora) - 调试您的AI代理
 
 
 ## Unity

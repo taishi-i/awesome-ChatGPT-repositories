@@ -20396,6 +20396,26 @@
                     "zh-hans": "一个用于Ghidra的LLM扩展，以实现在逆向工程中启用人工智能辅助。",
                     "zh-hant": "一個用於Ghidra的LLM擴展，以啟用AI輔助進行逆向工程。"
                 }
+            },
+            "https://github.com/nextai-translator/bob-plugin-openai-translator": {
+                "repository_name": "bob-plugin-openai-translator",
+                "user_name": "nextai-translator",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0",
+                "topics": [
+                    "bobplugin",
+                    "chatgpt",
+                    "gpt",
+                    "openai",
+                    "translator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Text translation, text polishing, and grammar correction Bob plugin based on OpenAI API, let's welcome a new era without the need for the Tower of Babel together! Licensed under CC BY-NC-SA 4.0",
+                    "ja": "OpenAI APIに基づいたテキスト翻訳、テキストの修正、文法修正のBobプラグイン、バベルの塔が必要ない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0ライセンス下で利用可能。",
+                    "zh-hans": "基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可。",
+                    "zh-hant": "基於 OpenAI API 的文本翻譯、文本潤色、語法校正 Bob 插件，讓我們一起迎接不需要巴別塔的新時代！根據 CC BY-NC-SA 4.0 授權。"
+                }
             }
         },
         "CLIs": {
@@ -34283,6 +34303,95 @@
                     "zh-hans": "开源TypeScript AI代理框架，内置LLM可观测性",
                     "zh-hant": "具備內建LLM可觀察性的開源TypeScript AI代理框架"
                 }
+            },
+            "https://github.com/pipelex/pipelex": {
+                "repository_name": "pipelex",
+                "user_name": "Pipelex",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Pipelex: open-source language for AI Agents to create and run repeatable AI workflows",
+                "topics": [
+                    "ai",
+                    "language",
+                    "llm",
+                    "open-source",
+                    "openai",
+                    "orchestration",
+                    "pipelex",
+                    "pipeline",
+                    "workflows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Pipelex: open-source language for AI Agents to create and run repeatable AI workflows",
+                    "ja": "Pipelex: AIエージェントが繰り返し可能なAIワークフローを作成および実行するためのオープンソース言語",
+                    "zh-hans": "Pipelex：开源语言，用于AI代理创建和运行可重复的AI工作流程",
+                    "zh-hant": "Pipelex：開源語言，用於AI代理創建和運行可重複的AI工作流程"
+                }
+            },
+            "https://github.com/rowboatlabs/rowboat": {
+                "repository_name": "rowboat",
+                "user_name": "rowboatlabs",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "AI-powered multi-agent builder",
+                "topics": [
+                    "agents",
+                    "agents-sdk",
+                    "ai",
+                    "ai-agents",
+                    "ai-agents-automation",
+                    "anthropic",
+                    "chatgpt",
+                    "enterprise",
+                    "gemini",
+                    "generative-ai",
+                    "llm",
+                    "multiagent",
+                    "opeani",
+                    "open-source",
+                    "orchestration",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-powered multi-agent builder",
+                    "ja": "AIパワードマルチエージェントビルダー",
+                    "zh-hans": "AI 动力多代理生成器",
+                    "zh-hant": "AI 強化的多代理建造者"
+                }
+            },
+            "https://github.com/bessouat40/raglight": {
+                "repository_name": "RAGLight",
+                "user_name": "Bessouat40",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources.",
+                "topics": [
+                    "agentic-ai",
+                    "agentic-rag",
+                    "agentic-workflow",
+                    "artificial-intelligence",
+                    "data-science",
+                    "framework",
+                    "huggingface",
+                    "lmstudio",
+                    "mcp",
+                    "mcp-tools",
+                    "mistral-api",
+                    "mistralai",
+                    "ollama",
+                    "openai",
+                    "openai-api",
+                    "rag",
+                    "retrieval-augmented",
+                    "retrieval-augmented-generation",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources.",
+                    "ja": "RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。",
+                    "zh-hans": "RAGLight是一个用于检索增强生成（RAG）的模块化框架。它可以轻松地插入不同的LLMs、嵌入和向量存储，并且现在包括无缝的MCP集成，以连接外部工具和数据源。",
+                    "zh-hant": "RAGLight 是一個用於檢索增強生成（RAG）的模塊化框架。它可以輕鬆地插入不同的LLMs、嵌入和向量存儲，現在還包括無縫的MCP集成，以連接外部工具和數據源。"
+                }
             }
         },
         "Langchain": {
@@ -38389,6 +38498,39 @@
                     "ja": "ユーザーフレンドリーでエンタープライズ向けのAIインターフェース（Ollama、OpenAI API、DeepSeekなどをサポート）",
                     "zh-hans": "用户友好的企业级AI界面（支持Ollama、OpenAI API、DeepSeek等）",
                     "zh-hant": "用戶友好的企業級AI界面（支持Ollama、OpenAI API、DeepSeek...）"
+                }
+            },
+            "https://github.com/vllora/vllora": {
+                "repository_name": "vllora",
+                "user_name": "vllora",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "Debug your AI agents",
+                "topics": [
+                    "agents",
+                    "ai-agents",
+                    "ai-gateway",
+                    "anthropic",
+                    "azure",
+                    "claude",
+                    "deepseek",
+                    "gemini",
+                    "google-adk",
+                    "langchain",
+                    "llm",
+                    "llm-gateway",
+                    "model-context-protocol",
+                    "openai",
+                    "router",
+                    "rust-lang",
+                    "tracing",
+                    "vercelaisdk"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Debugging your AI agents",
+                    "ja": "AI エージェントのデバッグを行ってください。",
+                    "zh-hans": "调试您的AI代理",
+                    "zh-hant": "調試您的AI代理"
                 }
             }
         },
