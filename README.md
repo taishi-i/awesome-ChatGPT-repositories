@@ -16,23 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyze is the first agentic LLM for autonomous data science.
-
-
 **Browser-extensions**
- * [GhidrAssist](https://github.com/jtang613/ghidrassist) - An LLM extension for Ghidra to enable AI assistance in RE.
+ * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 
 
 **NLP**
- * [voltagent](https://github.com/voltagent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
+ * [pipelex](https://github.com/pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
+ * [rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
+ * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources.
 
 
 **Langchain**
- * [chats](https://github.com/sdcb/chats) - User-friendly Enterprise Ready AI Interface (Supports Ollama, OpenAI API, DeepSeek...)
+ * [vllora](https://github.com/vllora/vllora) - Debug your AI agents
 
 
-_Updated on October 30, 2025_ (A total of 2324 repositories listed.)
+_Updated on November 03, 2025_ (A total of 2329 repositories listed.)
 
 ## Table of contents
 
@@ -896,6 +894,7 @@ _Updated on October 30, 2025_ (A total of 2324 repositories listed.)
  * [AIPex](https://github.com/aipexstudio/aipex) - AIPex: agentic assistant in your browser, automate your browser using natural language. ChatGPT Atlas Alternative, no migration need
  * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
  * [GhidrAssist](https://github.com/jtang613/ghidrassist) - An LLM extension for Ghidra to enable AI assistance in RE.
+ * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 
 
 ## CLIs
@@ -1520,6 +1519,9 @@ _Updated on October 30, 2025_ (A total of 2324 repositories listed.)
  * [OpenMemory](https://github.com/caviraoss/openmemory) - Add long-term memory to any AI in minutes. Self-hosted, open, and framework-free.
  * [surf](https://github.com/deta/surf) - Personal AI Notebooks. Organize files & webpages and generate notes from them. Open source, local & open data, open model choice (incl. local).
  * [voltagent](https://github.com/voltagent/voltagent) - Open Source TypeScript AI Agent Framework with built-in LLM Observability
+ * [pipelex](https://github.com/pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
+ * [rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
+ * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources.
 
 
 ## Langchain
@@ -1688,6 +1690,7 @@ _Updated on October 30, 2025_ (A total of 2324 repositories listed.)
  * [nexa-sdk](https://github.com/nexaai/nexa-sdk) - Run the latest LLMs and VLMs across GPU, NPU, and CPU with bindings for Python, Android Java, and iOS Swift, getting up and running quickly with OpenAI gpt-oss, Gemma 3, Qwen3, and more.
  * [LlmTornado](https://github.com/lofcz/llmtornado) - The .NET library to build AI systems with 100+ LLM APIs: Anthropic, Azure, Cohere, DeepInfra, DeepSeek, Google, Groq, Mistral, MoonshotAI, Ollama, OpenAI, OpenRouter, Perplexity, vLLM, Voyage, xAI, and many more!
  * [chats](https://github.com/sdcb/chats) - User-friendly Enterprise Ready AI Interface (Supports Ollama, OpenAI API, DeepSeek...)
+ * [vllora](https://github.com/vllora/vllora) - Debug your AI agents
 
 
 ## Unity
