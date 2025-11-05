@@ -14957,6 +14957,55 @@
                     "zh-hans": "DeepAnalyze是第一个自主数据科学代理LLM。",
                     "zh-hant": "DeepAnalyze是第一個自主數據科學的代理LLM。"
                 }
+            },
+            "https://github.com/yalums/lyra-exporter": {
+                "repository_name": "lyra-exporter",
+                "user_name": "Yalums",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Open-source multi-platform AI conversation manager supporting Claude, ChatGPT, Gemini, NotebookLM, Google AI Studio, SillyTavern and more. Actively improving mobile experience and expanding platform support",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Open-source multi-platform AI conversation manager supporting Claude, ChatGPT, Gemini, NotebookLM, Google AI Studio, SillyTavern and more. Actively improving mobile experience and expanding platform support",
+                    "ja": "Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavernなどをサポートするオープンソースのマルチプラットフォームAI会話マネージャー。モバイル体験の向上とプラットフォームサポートの拡大を積極的に推進しています。",
+                    "zh-hans": "开源多平台AI对话管理器，支持Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavern等。积极改进移动体验并扩大平台支持。",
+                    "zh-hant": "開源多平台AI對話管理器，支持Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavern等。積極改善移動體驗並擴大平台支持。"
+                }
+            },
+            "https://github.com/mrdjohnson/llm-x": {
+                "repository_name": "llm-x",
+                "user_name": "mrdjohnson",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "LLMX; Easiest 3rd party Local LLM UI for the web!",
+                "topics": [
+                    "ai-ui",
+                    "automatic1111",
+                    "automatic1111-ui",
+                    "chat-bot",
+                    "chatbot",
+                    "chatgpt",
+                    "langchain-js",
+                    "llm",
+                    "llm-ui",
+                    "llm-x",
+                    "llmx",
+                    "lm-studio",
+                    "mobx",
+                    "ollama",
+                    "ollama-client",
+                    "ollama-ui",
+                    "openai-api",
+                    "react",
+                    "typescript",
+                    "ui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "LLMX; Easiest 3rd party Local LLM UI for the web!",
+                    "ja": "LLMX; ウェブ用の最も簡単な第三者ローカルLLM UI!",
+                    "zh-hans": "LLMX; 网页上最简单的第三方本地LLM用户界面!",
+                    "zh-hant": "LLMX; 網頁上最簡單的第三方本地LLM UI！"
+                }
             }
         },
         "Browser-extensions": {
@@ -24892,6 +24941,61 @@
                     "ja": "DeepSeek-OCRのRust実装とOpenAI互換サーバー。＆CLI Python環境は必要ありません-ダウンロードして実行するだけです。",
                     "zh-hans": "使用Rust实现的DeepSeek-OCR，配备OpenAI兼容的服务器。无需Python环境-只需下载并运行。",
                     "zh-hant": "使用Rust實現的DeepSeek-OCR，配備OpenAI兼容的伺服器。無需Python環境-只需下載並運行。"
+                }
+            },
+            "https://github.com/generalaction/emdash": {
+                "repository_name": "emdash",
+                "user_name": "generalaction",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Emdash is an orchestration layer for running multiple coding agents in parallel in isolated Git worktrees",
+                "topics": [
+                    "agenticcoding",
+                    "ai",
+                    "cli",
+                    "codingagents",
+                    "containerization",
+                    "docker",
+                    "gitworktrees",
+                    "jira",
+                    "linear",
+                    "llm",
+                    "openai",
+                    "opensource",
+                    "orchestration",
+                    "parallelexecution",
+                    "terminal"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Emdash is an orchestration layer for running multiple coding agents in parallel in isolated Git worktrees",
+                    "ja": "Emdashは、独立したGitワークツリーで複数のコーディングエージェントを並行して実行するためのオーケストレーションレイヤーです。",
+                    "zh-hans": "Emdash是一个编排层，用于在独立的Git工作树中并行运行多个编码代理。",
+                    "zh-hant": "Emdash 是一個用於在獨立的 Git 工作樹中並行運行多個編碼代理的編排層。"
+                }
+            },
+            "https://github.com/xenodium/agent-shell": {
+                "repository_name": "agent-shell",
+                "user_name": "xenodium",
+                "language": "Emacs Lisp",
+                "license": "GNU General Public License v3.0",
+                "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+                "topics": [
+                    "ai",
+                    "claude",
+                    "claude-code",
+                    "codex",
+                    "emacs",
+                    "emacs-lisp",
+                    "gemini",
+                    "goose",
+                    "llm",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A native Emacs buffer to interact with LLM agents powered by ACP",
+                    "ja": "ACP によって強化された LLM エージェントと対話するためのネイティブ Emacs バッファ",
+                    "zh-hans": "一个原生的Emacs缓冲区，用于与由ACP驱动的LLM代理进行交互。",
+                    "zh-hant": "一個原生的Emacs緩衝區，用於與由ACP驅動的LLM代理進行交互。"
                 }
             }
         },
@@ -38531,6 +38635,25 @@
                     "ja": "AI エージェントのデバッグを行ってください。",
                     "zh-hans": "调试您的AI代理",
                     "zh-hant": "調試您的AI代理"
+                }
+            },
+            "https://github.com/huangjia2019/ai-agents": {
+                "repository_name": "ai-agents",
+                "user_name": "huangjia2019",
+                "language": "Jupyter Notebook",
+                "license": null,
+                "description": "异步图书：《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "llm",
+                    "nlp"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Asynchronous Book: \"Hands-on AI Agent Development for Large Model Applications\" - These are some very simple introductory examples, focusing on guiding beginners to get started. Currently, the development of LLM is progressing rapidly, and this book is just a brief overview. For more examples and code, you can explore the OpenAI Cookbook and LangChain Example.",
+                    "ja": "非同期ブック：「大規模アプリケーション開発 AIエージェントを手作りする」- これは非常に簡単な入門例ですが、初心者を導くことに重点を置いています。現在、LLM開発領域は急速に発展していますが、この本はあくまで概要に過ぎません。さらに多くの例やコードは、OpenAI CookbookやLangChain Exampleで見つけることができます。",
+                    "zh-hans": "异步图书：《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。",
+                    "zh-hant": "異步圖書：《大模型應用開發 動手做AI Agent》 - 這是一些非常簡單的入門示例，重在引導新手入門，目前LLM開發領域發展很快，本書只是一個提綱挈領。更多的示例和代碼大家可以去OpenAI Cookbook, LangChain Example中去挖掘。"
                 }
             }
         },

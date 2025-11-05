@@ -16,21 +16,21 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 基於 OpenAI API 的文本翻譯、文本潤色、語法校正 Bob 插件，讓我們一起迎接不需要巴別塔的新時代！根據 CC BY-NC-SA 4.0 授權。
+**Chatbots**
+ * [lyra-exporter](https://github.com/yalums/lyra-exporter) - 開源多平台AI對話管理器，支持Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavern等。積極改善移動體驗並擴大平台支持。
+ * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; 網頁上最簡單的第三方本地LLM UI！
 
 
-**NLP**
- * [pipelex](https://github.com/pipelex/pipelex) - Pipelex：開源語言，用於AI代理創建和運行可重複的AI工作流程
- * [rowboat](https://github.com/rowboatlabs/rowboat) - AI 強化的多代理建造者
- * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight 是一個用於檢索增強生成（RAG）的模塊化框架。它可以輕鬆地插入不同的LLMs、嵌入和向量存儲，現在還包括無縫的MCP集成，以連接外部工具和數據源。
+**CLIs**
+ * [emdash](https://github.com/generalaction/emdash) - Emdash 是一個用於在獨立的 Git 工作樹中並行運行多個編碼代理的編排層。
+ * [agent-shell](https://github.com/xenodium/agent-shell) - 一個原生的Emacs緩衝區，用於與由ACP驅動的LLM代理進行交互。
 
 
 **Langchain**
- * [vllora](https://github.com/vllora/vllora) - 調試您的AI代理
+ * [ai-agents](https://github.com/huangjia2019/ai-agents) - 異步圖書：《大模型應用開發 動手做AI Agent》 - 這是一些非常簡單的入門示例，重在引導新手入門，目前LLM開發領域發展很快，本書只是一個提綱挈領。更多的示例和代碼大家可以去OpenAI Cookbook, LangChain Example中去挖掘。
 
 
-_Updated on November 03, 2025_ (A total of 2329 repositories listed.)
+_Updated on November 06, 2025_ (A total of 2334 repositories listed.)
 
 ## Table of contents
 
@@ -659,6 +659,8 @@ _Updated on November 03, 2025_ (A total of 2329 repositories listed.)
  * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - 本地，兼容OpenAI的文本转语音（TTS）API使用Chatterbox，使用户能够在任何使用OpenAI API的地方生成语音克隆的语音（例如Open WebUI，AnythingLLM等）。
  * [Silo](https://github.com/kwokkwok/silo) - 多模型同時對話、文生成圖，純前端。 (API模式，無需服務器端)。
  * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyze是第一個自主數據科學的代理LLM。
+ * [lyra-exporter](https://github.com/yalums/lyra-exporter) - 開源多平台AI對話管理器，支持Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavern等。積極改善移動體驗並擴大平台支持。
+ * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; 網頁上最簡單的第三方本地LLM UI！
 
 
 ## Browser-extensions
@@ -1086,6 +1088,8 @@ _Updated on November 03, 2025_ (A total of 2329 repositories listed.)
  * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfony 是一個強化版的 PHP API 客戶端，讓您可以與 OpenAI API 進行互動。
  * [higlabo](https://github.com/higty/higlabo) - HigLabo library 提供 1.AI 客戶端庫(OpenAI, Anthoripic, Groq) 2.物件映射器(世界上最快的) 3.DbSharp(DAL 生成器) 4.其他.(郵件, FTP, 實用程式...等)
  * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - 使用Rust實現的DeepSeek-OCR，配備OpenAI兼容的伺服器。無需Python環境-只需下載並運行。
+ * [emdash](https://github.com/generalaction/emdash) - Emdash 是一個用於在獨立的 Git 工作樹中並行運行多個編碼代理的編排層。
+ * [agent-shell](https://github.com/xenodium/agent-shell) - 一個原生的Emacs緩衝區，用於與由ACP驅動的LLM代理進行交互。
 
 
 ## Reimplementations
@@ -1691,6 +1695,7 @@ _Updated on November 03, 2025_ (A total of 2329 repositories listed.)
  * [LlmTornado](https://github.com/lofcz/llmtornado) - 使用100多個LLM API構建AI系統的.NET庫：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！
  * [chats](https://github.com/sdcb/chats) - 用戶友好的企業級AI界面（支持Ollama、OpenAI API、DeepSeek...）
  * [vllora](https://github.com/vllora/vllora) - 調試您的AI代理
+ * [ai-agents](https://github.com/huangjia2019/ai-agents) - 異步圖書：《大模型應用開發 動手做AI Agent》 - 這是一些非常簡單的入門示例，重在引導新手入門，目前LLM開發領域發展很快，本書只是一個提綱挈領。更多的示例和代碼大家可以去OpenAI Cookbook, LangChain Example中去挖掘。
 
 
 ## Unity
