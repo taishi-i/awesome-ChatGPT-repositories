@@ -16,21 +16,21 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - OpenAI APIに基づいたテキスト翻訳、テキストの修正、文法修正のBobプラグイン、バベルの塔が必要ない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0ライセンス下で利用可能。
+**Chatbots**
+ * [lyra-exporter](https://github.com/yalums/lyra-exporter) - Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavernなどをサポートするオープンソースのマルチプラットフォームAI会話マネージャー。モバイル体験の向上とプラットフォームサポートの拡大を積極的に推進しています。
+ * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; ウェブ用の最も簡単な第三者ローカルLLM UI!
 
 
-**NLP**
- * [pipelex](https://github.com/pipelex/pipelex) - Pipelex: AIエージェントが繰り返し可能なAIワークフローを作成および実行するためのオープンソース言語
- * [rowboat](https://github.com/rowboatlabs/rowboat) - AIパワードマルチエージェントビルダー
- * [RAGLight](https://github.com/bessouat40/raglight) - RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。
+**CLIs**
+ * [emdash](https://github.com/generalaction/emdash) - Emdashは、独立したGitワークツリーで複数のコーディングエージェントを並行して実行するためのオーケストレーションレイヤーです。
+ * [agent-shell](https://github.com/xenodium/agent-shell) - ACP によって強化された LLM エージェントと対話するためのネイティブ Emacs バッファ
 
 
 **Langchain**
- * [vllora](https://github.com/vllora/vllora) - AI エージェントのデバッグを行ってください。
+ * [ai-agents](https://github.com/huangjia2019/ai-agents) - 非同期ブック：「大規模アプリケーション開発 AIエージェントを手作りする」- これは非常に簡単な入門例ですが、初心者を導くことに重点を置いています。現在、LLM開発領域は急速に発展していますが、この本はあくまで概要に過ぎません。さらに多くの例やコードは、OpenAI CookbookやLangChain Exampleで見つけることができます。
 
 
-_Updated on November 03, 2025_ (A total of 2329 repositories listed.)
+_Updated on November 06, 2025_ (A total of 2334 repositories listed.)
 
 ## Table of contents
 
@@ -659,6 +659,8 @@ _Updated on November 03, 2025_ (A total of 2329 repositories listed.)
  * [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - ローカル、Chatterboxを使用したOpenAI互換のテキスト読み上げ（TTS）APIを入力し、ユーザーがOpenAI APIが使用されている場所（例：Open WebUI、AnythingLLMなど）で声のクローンスピーチを生成できるようにします。
  * [Silo](https://github.com/kwokkwok/silo) - 多モデル同時チャット、テキストから画像生成、すべて純粋なフロントエンド（APIモード、サーバーサイドは不要）を通じて行われます。
  * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyzeは自律データサイエンスのための最初のエージェントLMMです。
+ * [lyra-exporter](https://github.com/yalums/lyra-exporter) - Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavernなどをサポートするオープンソースのマルチプラットフォームAI会話マネージャー。モバイル体験の向上とプラットフォームサポートの拡大を積極的に推進しています。
+ * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; ウェブ用の最も簡単な第三者ローカルLLM UI!
 
 
 ## Browser-extensions
@@ -1086,6 +1088,8 @@ _Updated on November 03, 2025_ (A total of 2329 repositories listed.)
  * [symfony](https://github.com/openai-php/symfony) - ⚡️ OpenAI PHP for Symfonyは、OpenAI APIとやり取りすることができる強力なPHP APIクライアントです。
  * [higlabo](https://github.com/higty/higlabo) - HigLaboライブラリは、1.AIクライアントライブラリ（OpenAI、Anthoripic、Groq）2.オブジェクトマッパー（世界最速）3.DbSharp（DALジェネレーター）4.その他（メール、FTP、ユーティリティなど）を提供します。
  * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - DeepSeek-OCRのRust実装とOpenAI互換サーバー。＆CLI Python環境は必要ありません-ダウンロードして実行するだけです。
+ * [emdash](https://github.com/generalaction/emdash) - Emdashは、独立したGitワークツリーで複数のコーディングエージェントを並行して実行するためのオーケストレーションレイヤーです。
+ * [agent-shell](https://github.com/xenodium/agent-shell) - ACP によって強化された LLM エージェントと対話するためのネイティブ Emacs バッファ
 
 
 ## Reimplementations
@@ -1691,6 +1695,7 @@ _Updated on November 03, 2025_ (A total of 2329 repositories listed.)
  * [LlmTornado](https://github.com/lofcz/llmtornado) - 100以上のLLM APIを使用してAIシステムを構築するための.NETライブラリ：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAIなど、さらに多くのもの！
  * [chats](https://github.com/sdcb/chats) - ユーザーフレンドリーでエンタープライズ向けのAIインターフェース（Ollama、OpenAI API、DeepSeekなどをサポート）
  * [vllora](https://github.com/vllora/vllora) - AI エージェントのデバッグを行ってください。
+ * [ai-agents](https://github.com/huangjia2019/ai-agents) - 非同期ブック：「大規模アプリケーション開発 AIエージェントを手作りする」- これは非常に簡単な入門例ですが、初心者を導くことに重点を置いています。現在、LLM開発領域は急速に発展していますが、この本はあくまで概要に過ぎません。さらに多くの例やコードは、OpenAI CookbookやLangChain Exampleで見つけることができます。
 
 
 ## Unity
