@@ -6264,6 +6264,75 @@
                     "zh-hans": "Codex CLI的强大GUI/IDE和工具包。分叉聊天+文件树+提示记事本，Codex社区等",
                     "zh-hant": "一個強大的GUI/IDE和Toolkit，適用於Codex CLI。分叉聊天+文件樹+提示記事本，Codex社區等。"
                 }
+            },
+            "https://github.com/algorithmicsuperintelligence/optillm": {
+                "repository_name": "optillm",
+                "user_name": "algorithmicsuperintelligence",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Optimizing inference proxy for LLMs",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "agentic-framework",
+                    "agentic-workflow",
+                    "agents",
+                    "api-gateway",
+                    "chain-of-thought",
+                    "genai",
+                    "large-language-models",
+                    "llm",
+                    "llm-inference",
+                    "llmapi",
+                    "mixture-of-experts",
+                    "moa",
+                    "monte-carlo-tree-search",
+                    "openai",
+                    "openai-api",
+                    "optimization",
+                    "prompt-engineering",
+                    "proxy-server"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Optimizing inference proxy for LLMs",
+                    "ja": "LLMsの推論プロキシの最適化",
+                    "zh-hans": "为LLMs优化推理代理",
+                    "zh-hant": "為LLMs優化推理代理"
+                }
+            },
+            "https://github.com/codexia-team/codexia": {
+                "repository_name": "codexia",
+                "user_name": "codexia-team",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad + git worktree and more",
+                "topics": [
+                    "agentic-ai",
+                    "ai",
+                    "ai-agents",
+                    "chatgpt",
+                    "codex",
+                    "codex-cli",
+                    "codex-desktop",
+                    "codex-gui",
+                    "codex-ide",
+                    "codex-ui",
+                    "codexia",
+                    "gpt-5-codex",
+                    "gpt-oss",
+                    "mcp",
+                    "mcp-client",
+                    "ollama",
+                    "openai",
+                    "openai-codex",
+                    "openai-codex-cli"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad + git worktree and more",
+                    "ja": "Codex CLI用の強力なGUI/IDEおよびツールキット。 Fork chat + FileTree + プロンプトメモ帳 + git worktree など",
+                    "zh-hans": "一个强大的GUI/IDE和工具包，用于Codex CLI。分叉聊天+文件树+提示记事本+git工作树等等。",
+                    "zh-hant": "一個強大的GUI/IDE和工具包，適用於Codex CLI。分叉聊天+文件樹+提示記事本+git工作樹等等。"
+                }
             }
         },
         "Chatbots": {
@@ -15005,6 +15074,55 @@
                     "ja": "LLMX; ウェブ用の最も簡単な第三者ローカルLLM UI!",
                     "zh-hans": "LLMX; 网页上最简单的第三方本地LLM用户界面!",
                     "zh-hant": "LLMX; 網頁上最簡單的第三方本地LLM UI！"
+                }
+            },
+            "https://github.com/reborn14/chatgpt-conversation-timeline": {
+                "repository_name": "chatgpt-conversation-timeline",
+                "user_name": "Reborn14",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "本插件为 ChatGPT、DeepSeek 与 Google Gemini 的对话页面添加了时间轴导航功能，让你能轻松地跳转至任意消息，提升浏览效率。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "This plugin adds a timeline navigation feature to the conversation pages of ChatGPT, DeepSeek, and Google Gemini, allowing you to easily jump to any message and improve browsing efficiency.",
+                    "ja": "このプラグインは、ChatGPT、DeepSeek、Google Geminiのチャットページにタイムラインナビゲーション機能を追加し、任意のメッセージに簡単に移動できるようにし、閲覧効率を向上させます。",
+                    "zh-hans": "这个插件为 ChatGPT、DeepSeek 和 Google Gemini 的对话页面添加了时间轴导航功能，让您可以轻松地跳转到任意消息，提高浏览效率。",
+                    "zh-hant": "本插件為 ChatGPT、DeepSeek 與 Google Gemini 的對話頁面添加了時間軸導航功能，讓你能輕鬆地跳轉至任意消息，提升瀏覽效率。"
+                }
+            },
+            "https://github.com/bigsk1/voice-chat-ai": {
+                "repository_name": "voice-chat-ai",
+                "user_name": "bigsk1",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses XTTS, OpenAI, ElevenLabs or Kokoro",
+                "topics": [
+                    "ai-chat",
+                    "ai-speech",
+                    "ai-voice",
+                    "ai-voice-agent",
+                    "anthropic-claude",
+                    "elevenlabs-api",
+                    "fastapi",
+                    "gpt-4o-mini-tts",
+                    "llama3",
+                    "llm",
+                    "mistral",
+                    "ollama",
+                    "openai",
+                    "openai-api",
+                    "python",
+                    "selfhosted",
+                    "tts",
+                    "whisper-ai",
+                    "xai",
+                    "xtts"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses XTTS, OpenAI, ElevenLabs or Kokoro",
+                    "ja": "🎙️ AIと話す - Ollama、OpenAI、Anthropic、またはxAIを使用してローカルで実行 - 音声はXTTS、OpenAI、ElevenLabs、またはKokoroを使用します",
+                    "zh-hans": "🎙️ 与人工智能交谈 - 在本地使用Ollama、OpenAI、Anthropic或xAI运行 - 语音使用XTTS、OpenAI、ElevenLabs或Kokoro",
+                    "zh-hant": "🎙️ 與AI對話-在本地運行使用Ollama、OpenAI、Anthropic或xAI-語音使用XTTS、OpenAI、ElevenLabs或Kokoro"
                 }
             }
         },

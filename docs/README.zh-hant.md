@@ -16,21 +16,17 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - 為LLMs優化推理代理
+ * [codexia](https://github.com/codexia-team/codexia) - 一個強大的GUI/IDE和工具包，適用於Codex CLI。分叉聊天+文件樹+提示記事本+git工作樹等等。
+
+
 **Chatbots**
- * [lyra-exporter](https://github.com/yalums/lyra-exporter) - 開源多平台AI對話管理器，支持Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavern等。積極改善移動體驗並擴大平台支持。
- * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; 網頁上最簡單的第三方本地LLM UI！
+ * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件為 ChatGPT、DeepSeek 與 Google Gemini 的對話頁面添加了時間軸導航功能，讓你能輕鬆地跳轉至任意消息，提升瀏覽效率。
+ * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ 與AI對話-在本地運行使用Ollama、OpenAI、Anthropic或xAI-語音使用XTTS、OpenAI、ElevenLabs或Kokoro
 
 
-**CLIs**
- * [emdash](https://github.com/generalaction/emdash) - Emdash 是一個用於在獨立的 Git 工作樹中並行運行多個編碼代理的編排層。
- * [agent-shell](https://github.com/xenodium/agent-shell) - 一個原生的Emacs緩衝區，用於與由ACP驅動的LLM代理進行交互。
-
-
-**Langchain**
- * [ai-agents](https://github.com/huangjia2019/ai-agents) - 異步圖書：《大模型應用開發 動手做AI Agent》 - 這是一些非常簡單的入門示例，重在引導新手入門，目前LLM開發領域發展很快，本書只是一個提綱挈領。更多的示例和代碼大家可以去OpenAI Cookbook, LangChain Example中去挖掘。
-
-
-_Updated on November 06, 2025_ (A total of 2334 repositories listed.)
+_Updated on November 10, 2025_ (A total of 2338 repositories listed.)
 
 ## Table of contents
 
@@ -308,6 +304,8 @@ _Updated on November 06, 2025_ (A total of 2334 repositories listed.)
  * [generator](https://github.com/context-hub/generator) - CTX：一種工具，用於解決與LLM（如ChatGPT或Claude）一起工作時的上下文管理差距。它幫助開發人員將信息組織起來，並自動從其代碼庫中收集信息，形成結構化文件，可以輕鬆與AI助手共享。
  * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - 具有良好UI的手術上下文工程，支持Windows、Mac、Linux、BSD等任何運行Python和Qt的地方。
  * [codexia](https://github.com/milisp/codexia) - 一個強大的GUI/IDE和Toolkit，適用於Codex CLI。分叉聊天+文件樹+提示記事本，Codex社區等。
+ * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - 為LLMs優化推理代理
+ * [codexia](https://github.com/codexia-team/codexia) - 一個強大的GUI/IDE和工具包，適用於Codex CLI。分叉聊天+文件樹+提示記事本+git工作樹等等。
 
 
 ## Chatbots
@@ -661,6 +659,8 @@ _Updated on November 06, 2025_ (A total of 2334 repositories listed.)
  * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyze是第一個自主數據科學的代理LLM。
  * [lyra-exporter](https://github.com/yalums/lyra-exporter) - 開源多平台AI對話管理器，支持Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavern等。積極改善移動體驗並擴大平台支持。
  * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; 網頁上最簡單的第三方本地LLM UI！
+ * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件為 ChatGPT、DeepSeek 與 Google Gemini 的對話頁面添加了時間軸導航功能，讓你能輕鬆地跳轉至任意消息，提升瀏覽效率。
+ * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ 與AI對話-在本地運行使用Ollama、OpenAI、Anthropic或xAI-語音使用XTTS、OpenAI、ElevenLabs或Kokoro
 
 
 ## Browser-extensions

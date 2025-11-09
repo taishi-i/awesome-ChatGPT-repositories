@@ -16,21 +16,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
+ * [codexia](https://github.com/codexia-team/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad + git worktree and more
+
+
 **Chatbots**
- * [lyra-exporter](https://github.com/yalums/lyra-exporter) - Open-source multi-platform AI conversation manager supporting Claude, ChatGPT, Gemini, NotebookLM, Google AI Studio, SillyTavern and more. Actively improving mobile experience and expanding platform support
- * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
+ * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件为 ChatGPT、DeepSeek 与 Google Gemini 的对话页面添加了时间轴导航功能，让你能轻松地跳转至任意消息，提升浏览效率。
+ * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses XTTS, OpenAI, ElevenLabs or Kokoro
 
 
-**CLIs**
- * [emdash](https://github.com/generalaction/emdash) - Emdash is an orchestration layer for running multiple coding agents in parallel in isolated Git worktrees
- * [agent-shell](https://github.com/xenodium/agent-shell) - A native Emacs buffer to interact with LLM agents powered by ACP
-
-
-**Langchain**
- * [ai-agents](https://github.com/huangjia2019/ai-agents) - 异步图书：《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。
-
-
-_Updated on November 06, 2025_ (A total of 2334 repositories listed.)
+_Updated on November 10, 2025_ (A total of 2338 repositories listed.)
 
 ## Table of contents
 
@@ -308,6 +304,8 @@ _Updated on November 06, 2025_ (A total of 2334 repositories listed.)
  * [generator](https://github.com/context-hub/generator) - CTX: a tool that solves the context management gap when working with LLMs like ChatGPT or Claude. It helps developers organize and automatically collect information from their codebase into structured documents that can be easily shared with AI assistants.
  * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - Surgical context engineering with a nice UI, Windows, Mac, Linux, BSD, anywhere where python & Qt run
  * [codexia](https://github.com/milisp/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad, Codex community and more
+ * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
+ * [codexia](https://github.com/codexia-team/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad + git worktree and more
 
 
 ## Chatbots
@@ -661,6 +659,8 @@ _Updated on November 06, 2025_ (A total of 2334 repositories listed.)
  * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyze is the first agentic LLM for autonomous data science.
  * [lyra-exporter](https://github.com/yalums/lyra-exporter) - Open-source multi-platform AI conversation manager supporting Claude, ChatGPT, Gemini, NotebookLM, Google AI Studio, SillyTavern and more. Actively improving mobile experience and expanding platform support
  * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
+ * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件为 ChatGPT、DeepSeek 与 Google Gemini 的对话页面添加了时间轴导航功能，让你能轻松地跳转至任意消息，提升浏览效率。
+ * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses XTTS, OpenAI, ElevenLabs or Kokoro
 
 
 ## Browser-extensions

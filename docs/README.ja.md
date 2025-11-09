@@ -16,21 +16,17 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - LLMsの推論プロキシの最適化
+ * [codexia](https://github.com/codexia-team/codexia) - Codex CLI用の強力なGUI/IDEおよびツールキット。 Fork chat + FileTree + プロンプトメモ帳 + git worktree など
+
+
 **Chatbots**
- * [lyra-exporter](https://github.com/yalums/lyra-exporter) - Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavernなどをサポートするオープンソースのマルチプラットフォームAI会話マネージャー。モバイル体験の向上とプラットフォームサポートの拡大を積極的に推進しています。
- * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; ウェブ用の最も簡単な第三者ローカルLLM UI!
+ * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - このプラグインは、ChatGPT、DeepSeek、Google Geminiのチャットページにタイムラインナビゲーション機能を追加し、任意のメッセージに簡単に移動できるようにし、閲覧効率を向上させます。
+ * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ AIと話す - Ollama、OpenAI、Anthropic、またはxAIを使用してローカルで実行 - 音声はXTTS、OpenAI、ElevenLabs、またはKokoroを使用します
 
 
-**CLIs**
- * [emdash](https://github.com/generalaction/emdash) - Emdashは、独立したGitワークツリーで複数のコーディングエージェントを並行して実行するためのオーケストレーションレイヤーです。
- * [agent-shell](https://github.com/xenodium/agent-shell) - ACP によって強化された LLM エージェントと対話するためのネイティブ Emacs バッファ
-
-
-**Langchain**
- * [ai-agents](https://github.com/huangjia2019/ai-agents) - 非同期ブック：「大規模アプリケーション開発 AIエージェントを手作りする」- これは非常に簡単な入門例ですが、初心者を導くことに重点を置いています。現在、LLM開発領域は急速に発展していますが、この本はあくまで概要に過ぎません。さらに多くの例やコードは、OpenAI CookbookやLangChain Exampleで見つけることができます。
-
-
-_Updated on November 06, 2025_ (A total of 2334 repositories listed.)
+_Updated on November 10, 2025_ (A total of 2338 repositories listed.)
 
 ## Table of contents
 
@@ -308,6 +304,8 @@ _Updated on November 06, 2025_ (A total of 2334 repositories listed.)
  * [generator](https://github.com/context-hub/generator) - CTX：ChatGPTやClaudeのようなLLMを使用する際のコンテキスト管理のギャップを解決するツール。開発者がコードベースから情報を整理し、AIアシスタントと簡単に共有できる構造化されたドキュメントに自動的に収集するのを支援します。
  * [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - 手術の文脈エンジニアリングと素敵なUI、Windows、Mac、Linux、BSD、PythonとQtが動作するどこでも
  * [codexia](https://github.com/milisp/codexia) - Codex CLI用の強力なGUI/IDEおよびツールキット。Fork chat + FileTree + prompt notepad、Codexコミュニティなど
+ * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - LLMsの推論プロキシの最適化
+ * [codexia](https://github.com/codexia-team/codexia) - Codex CLI用の強力なGUI/IDEおよびツールキット。 Fork chat + FileTree + プロンプトメモ帳 + git worktree など
 
 
 ## Chatbots
@@ -661,6 +659,8 @@ _Updated on November 06, 2025_ (A total of 2334 repositories listed.)
  * [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - DeepAnalyzeは自律データサイエンスのための最初のエージェントLMMです。
  * [lyra-exporter](https://github.com/yalums/lyra-exporter) - Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavernなどをサポートするオープンソースのマルチプラットフォームAI会話マネージャー。モバイル体験の向上とプラットフォームサポートの拡大を積極的に推進しています。
  * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; ウェブ用の最も簡単な第三者ローカルLLM UI!
+ * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - このプラグインは、ChatGPT、DeepSeek、Google Geminiのチャットページにタイムラインナビゲーション機能を追加し、任意のメッセージに簡単に移動できるようにし、閲覧効率を向上させます。
+ * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ AIと話す - Ollama、OpenAI、Anthropic、またはxAIを使用してローカルで実行 - 音声はXTTS、OpenAI、ElevenLabs、またはKokoroを使用します
 
 
 ## Browser-extensions
