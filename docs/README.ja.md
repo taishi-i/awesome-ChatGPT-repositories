@@ -16,17 +16,26 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - LLMsの推論プロキシの最適化
- * [codexia](https://github.com/codexia-team/codexia) - Codex CLI用の強力なGUI/IDEおよびツールキット。 Fork chat + FileTree + プロンプトメモ帳 + git worktree など
-
-
 **Chatbots**
- * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - このプラグインは、ChatGPT、DeepSeek、Google Geminiのチャットページにタイムラインナビゲーション機能を追加し、任意のメッセージに簡単に移動できるようにし、閲覧効率を向上させます。
- * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ AIと話す - Ollama、OpenAI、Anthropic、またはxAIを使用してローカルで実行 - 音声はXTTS、OpenAI、ElevenLabs、またはKokoroを使用します
+ * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - Next.js、LangChain、PostgreSQL + pgvectorで構築されたAIパワードのドキュメント分析プラットフォーム。ドキュメントのアップロード、整理、チャットが可能です。予測的な欠落ドキュメントの検出、役割ベースのワークフロー、ページレベルの洞察抽出を含んでいます。
 
 
-_Updated on November 10, 2025_ (A total of 2338 repositories listed.)
+**CLIs**
+ * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI集約サイトマネージャー：自動検出、複数アカウント、モデル同期、ワンクリックエクスポート、クロスプラットフォームサポート
+ * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。
+ * [ShellOracle](https://github.com/djcopley/shelloracle) - 賢いシェルコマンド生成のための端末ユーティリティ
+
+
+**NLP**
+ * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。
+ * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - OpenRouter APIを統合する例
+
+
+**Openai**
+ * [axonhub](https://github.com/looplj/axonhub) - AxonHubは、統一されたOpenAI、Anthropic、およびAI SDK互換のAPIを提供する現代のAIゲートウェイシステムです。
+
+
+_Updated on November 13, 2025_ (A total of 2345 repositories listed.)
 
 ## Table of contents
 
@@ -661,6 +670,7 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; ウェブ用の最も簡単な第三者ローカルLLM UI!
  * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - このプラグインは、ChatGPT、DeepSeek、Google Geminiのチャットページにタイムラインナビゲーション機能を追加し、任意のメッセージに簡単に移動できるようにし、閲覧効率を向上させます。
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ AIと話す - Ollama、OpenAI、Anthropic、またはxAIを使用してローカルで実行 - 音声はXTTS、OpenAI、ElevenLabs、またはKokoroを使用します
+ * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - Next.js、LangChain、PostgreSQL + pgvectorで構築されたAIパワードのドキュメント分析プラットフォーム。ドキュメントのアップロード、整理、チャットが可能です。予測的な欠落ドキュメントの検出、役割ベースのワークフロー、ページレベルの洞察抽出を含んでいます。
 
 
 ## Browser-extensions
@@ -1090,6 +1100,9 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - DeepSeek-OCRのRust実装とOpenAI互換サーバー。＆CLI Python環境は必要ありません-ダウンロードして実行するだけです。
  * [emdash](https://github.com/generalaction/emdash) - Emdashは、独立したGitワークツリーで複数のコーディングエージェントを並行して実行するためのオーケストレーションレイヤーです。
  * [agent-shell](https://github.com/xenodium/agent-shell) - ACP によって強化された LLM エージェントと対話するためのネイティブ Emacs バッファ
+ * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI集約サイトマネージャー：自動検出、複数アカウント、モデル同期、ワンクリックエクスポート、クロスプラットフォームサポート
+ * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。
+ * [ShellOracle](https://github.com/djcopley/shelloracle) - 賢いシェルコマンド生成のための端末ユーティリティ
 
 
 ## Reimplementations
@@ -1526,6 +1539,8 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [pipelex](https://github.com/pipelex/pipelex) - Pipelex: AIエージェントが繰り返し可能なAIワークフローを作成および実行するためのオープンソース言語
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AIパワードマルチエージェントビルダー
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。
+ * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。
+ * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - OpenRouter APIを統合する例
 
 
 ## Langchain
@@ -2007,6 +2022,7 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [xpert](https://github.com/xpert-ai/xpert) - Xpert AIは、企業がビジネス上の意思決定を行うためのAIエージェントおよびデータ分析プラットフォームです。
  * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - アプリSDKの例示アプリ
  * [Shannon](https://github.com/kocoro-lab/shannon) - オープンソースのAIエージェントオーケストレーターで、エンタープライズ向けのセキュリティ、コストコントロール、ベンダーの柔軟性を備えています。OpenAI AgentKitの代替となります。
+ * [axonhub](https://github.com/looplj/axonhub) - AxonHubは、統一されたOpenAI、Anthropic、およびAI SDK互換のAPIを提供する現代のAIゲートウェイシステムです。
 
 
 ## Others

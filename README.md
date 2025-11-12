@@ -16,17 +16,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
- * [codexia](https://github.com/codexia-team/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad + git worktree and more
-
-
 **Chatbots**
- * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件为 ChatGPT、DeepSeek 与 Google Gemini 的对话页面添加了时间轴导航功能，让你能轻松地跳转至任意消息，提升浏览效率。
- * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses XTTS, OpenAI, ElevenLabs or Kokoro
+ * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - AI-powered document analysis platform built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.
 
 
-_Updated on November 10, 2025_ (A total of 2338 repositories listed.)
+**CLIs**
+ * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合中转站点管理扩展：自动识别、多账号管理、模型同步、一键导出，支持全平台 | AI Aggregation Site Manager: Auto-detection, multi-account, model sync, one-click export, cross-platform support
+ * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
+ * [ShellOracle](https://github.com/djcopley/shelloracle) - A terminal utility for intelligent shell command generation
+
+
+**NLP**
+ * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes
+ * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - Examples of integrating the OpenRouter API
+
+
+**Openai**
+ * [axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API
+
+
+_Updated on November 13, 2025_ (A total of 2345 repositories listed.)
 
 ## Table of contents
 
@@ -661,6 +670,7 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
  * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件为 ChatGPT、DeepSeek 与 Google Gemini 的对话页面添加了时间轴导航功能，让你能轻松地跳转至任意消息，提升浏览效率。
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses XTTS, OpenAI, ElevenLabs or Kokoro
+ * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - AI-powered document analysis platform built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.
 
 
 ## Browser-extensions
@@ -1090,6 +1100,9 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.
  * [emdash](https://github.com/generalaction/emdash) - Emdash is an orchestration layer for running multiple coding agents in parallel in isolated Git worktrees
  * [agent-shell](https://github.com/xenodium/agent-shell) - A native Emacs buffer to interact with LLM agents powered by ACP
+ * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合中转站点管理扩展：自动识别、多账号管理、模型同步、一键导出，支持全平台 | AI Aggregation Site Manager: Auto-detection, multi-account, model sync, one-click export, cross-platform support
+ * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
+ * [ShellOracle](https://github.com/djcopley/shelloracle) - A terminal utility for intelligent shell command generation
 
 
 ## Reimplementations
@@ -1526,6 +1539,8 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [pipelex](https://github.com/pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources.
+ * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes
+ * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - Examples of integrating the OpenRouter API
 
 
 ## Langchain
@@ -2007,6 +2022,7 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI is an AI agents and data analysis platform for enterprises to make business decisions.
  * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK
  * [Shannon](https://github.com/kocoro-lab/shannon) - Open-source AI agent orchestrator with enterprise-grade security, cost controls, and vendor flexibility. An alternative to OpenAI AgentKit
+ * [axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API
 
 
 ## Others

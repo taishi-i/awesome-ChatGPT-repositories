@@ -15124,6 +15124,37 @@
                     "zh-hans": "🎙️ 与人工智能交谈 - 在本地使用Ollama、OpenAI、Anthropic或xAI运行 - 语音使用XTTS、OpenAI、ElevenLabs或Kokoro",
                     "zh-hant": "🎙️ 與AI對話-在本地運行使用Ollama、OpenAI、Anthropic或xAI-語音使用XTTS、OpenAI、ElevenLabs或Kokoro"
                 }
+            },
+            "https://github.com/deodat-lawson/pdr_ai_v2": {
+                "repository_name": "PDR_AI_v2",
+                "user_name": "Deodat-Lawson",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "AI-powered document analysis platform built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.",
+                "topics": [
+                    "ai-chatbot",
+                    "document-ai",
+                    "document-analysis",
+                    "drizzle-orm",
+                    "full-stack",
+                    "langchain",
+                    "llm-app",
+                    "nextjs",
+                    "ocr",
+                    "openai",
+                    "pgvector",
+                    "postgresql",
+                    "rag",
+                    "rag-chatbot",
+                    "typescript",
+                    "vector-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-powered document analysis platform built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.",
+                    "ja": "Next.js、LangChain、PostgreSQL + pgvectorで構築されたAIパワードのドキュメント分析プラットフォーム。ドキュメントのアップロード、整理、チャットが可能です。予測的な欠落ドキュメントの検出、役割ベースのワークフロー、ページレベルの洞察抽出を含んでいます。",
+                    "zh-hans": "使用Next.js、LangChain、PostgreSQL + pgvector构建的AI驱动文档分析平台。上传、整理和与文档交流。包括预测性缺失文档检测、基于角色的工作流程和页面级洞察提取。",
+                    "zh-hant": "使用Next.js、LangChain、PostgreSQL + pgvector 构建的AI 助力文件分析平台。上传、整理文件，并与文件进行聊天。包括预测性缺失文件检测、基于角色的工作流程，以及页面级别的洞察提取。"
+                }
             }
         },
         "Browser-extensions": {
@@ -25115,6 +25146,87 @@
                     "zh-hans": "一个原生的Emacs缓冲区，用于与由ACP驱动的LLM代理进行交互。",
                     "zh-hant": "一個原生的Emacs緩衝區，用於與由ACP驅動的LLM代理進行交互。"
                 }
+            },
+            "https://github.com/qixing-jk/all-api-hub": {
+                "repository_name": "all-api-hub",
+                "user_name": "qixing-jk",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "AI 聚合中转站点管理扩展：自动识别、多账号管理、模型同步、一键导出，支持全平台 | AI Aggregation Site Manager: Auto-detection, multi-account, model sync, one-click export, cross-platform support",
+                "topics": [
+                    "chatgpt",
+                    "new-api",
+                    "one-api",
+                    "openai",
+                    "voapi"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI 聚合中转站点管理扩展：自动识别、多账号管理、模型同步、一键导出，支持全平台 | AI Aggregation Site Manager: Auto-detection, multi-account, model sync, one-click export, cross-platform support",
+                    "ja": "AI集約サイトマネージャー：自動検出、複数アカウント、モデル同期、ワンクリックエクスポート、クロスプラットフォームサポート",
+                    "zh-hans": "AI 聚合站点管理扩展：自动识别、多账号管理、模型同步、一键导出，支持全平台 | AI Aggregation Site Manager: 自动检测、多账号、模型同步、一键导出、跨平台支持",
+                    "zh-hant": "AI 聚合站點管理擴展：自動識別、多帳號管理、模型同步、一鍵導出，支持全平台 | AI 聚合站點管理員：自動檢測、多帳號、模型同步、一鍵導出、跨平台支持"
+                }
+            },
+            "https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents": {
+                "repository_name": "LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents",
+                "user_name": "Haohao-end",
+                "language": "Python",
+                "license": null,
+                "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "aiagent",
+                    "celery",
+                    "deepseek",
+                    "docker",
+                    "faiss-vector-database",
+                    "flask",
+                    "langchain",
+                    "langgraph",
+                    "llmops",
+                    "nginx",
+                    "postgresql",
+                    "tailwindcss",
+                    "vue",
+                    "weaviate"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.",
+                    "ja": "AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。",
+                    "zh-hans": "AI代理开发平台-支持多个模型（OpenAI/DeepSeek/Wenxin/Tongyi），知识库管理，工作流自动化和企业级安全。采用Flask + Vue3 + LangChain构建，具有一键式Docker部署功能。",
+                    "zh-hant": "AI 代理開發平台 - 支援多個模型（OpenAI/DeepSeek/Wenxin/Tongyi），知識庫管理，工作流自動化和企業級安全性。 使用 Flask + Vue3 + LangChain 構建，具有一鍵 Docker 部署功能。"
+                }
+            },
+            "https://github.com/djcopley/shelloracle": {
+                "repository_name": "ShellOracle",
+                "user_name": "djcopley",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "A terminal utility for intelligent shell command generation",
+                "topics": [
+                    "ai",
+                    "bash",
+                    "developer-tools",
+                    "fish",
+                    "gemini",
+                    "linux",
+                    "llm",
+                    "localai",
+                    "macos",
+                    "ollama",
+                    "openai",
+                    "openai-api",
+                    "terminal",
+                    "xai",
+                    "zsh"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A terminal utility for intelligent shell command generation",
+                    "ja": "賢いシェルコマンド生成のための端末ユーティリティ",
+                    "zh-hans": "一个用于智能shell命令生成的终端工具",
+                    "zh-hant": "一個用於智能shell命令生成的終端工具"
+                }
             }
         },
         "Reimplementations": {
@@ -34613,6 +34725,53 @@
                     "ja": "RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。",
                     "zh-hans": "RAGLight是一个用于检索增强生成（RAG）的模块化框架。它可以轻松地插入不同的LLMs、嵌入和向量存储，并且现在包括无缝的MCP集成，以连接外部工具和数据源。",
                     "zh-hant": "RAGLight 是一個用於檢索增強生成（RAG）的模塊化框架。它可以輕鬆地插入不同的LLMs、嵌入和向量存儲，現在還包括無縫的MCP集成，以連接外部工具和數據源。"
+                }
+            },
+            "https://github.com/sopaco/deepwiki-rs": {
+                "repository_name": "deepwiki-rs",
+                "user_name": "sopaco",
+                "language": "Rust",
+                "license": "MIT License",
+                "description": "​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes",
+                "topics": [
+                    "ai",
+                    "claude",
+                    "deepseek",
+                    "deepwiki",
+                    "llm",
+                    "mistral",
+                    "modelscope",
+                    "openai",
+                    "openrouter",
+                    "rust",
+                    "wiki"
+                ],
+                "multilingual_descriptions": {
+                    "en": "​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes",
+                    "ja": "Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。",
+                    "zh-hans": "采用Rust构建的AI驱动的开源深度维基生成器 - 在几分钟内将您的代码库转换为专业架构文档",
+                    "zh-hant": "AI 驅動的開源 deepwiki 生成器，使用 Rust 構建 - 在幾分鐘內將您的代碼庫轉換為專業的架構文檔"
+                }
+            },
+            "https://github.com/openrouterteam/openrouter-examples": {
+                "repository_name": "openrouter-examples",
+                "user_name": "OpenRouterTeam",
+                "language": null,
+                "license": "MIT License",
+                "description": "Examples of integrating the OpenRouter API",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "docs",
+                    "llm",
+                    "openai",
+                    "openrouter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Examples of integrating the OpenRouter API",
+                    "ja": "OpenRouter APIを統合する例",
+                    "zh-hans": "整合OpenRouter API的示例",
+                    "zh-hant": "整合OpenRouter API的示例"
                 }
             }
         },
@@ -45291,6 +45450,31 @@
                     "ja": "オープンソースのAIエージェントオーケストレーターで、エンタープライズ向けのセキュリティ、コストコントロール、ベンダーの柔軟性を備えています。OpenAI AgentKitの代替となります。",
                     "zh-hans": "开源AI代理编排器，具有企业级安全性、成本控制和供应商灵活性。是OpenAI AgentKit的替代方案。",
                     "zh-hant": "開源AI代理器，具有企業級安全性、成本控制和供應商靈活性。是OpenAI AgentKit的替代方案。"
+                }
+            },
+            "https://github.com/looplj/axonhub": {
+                "repository_name": "axonhub",
+                "user_name": "looplj",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "agents",
+                    "ai",
+                    "ai-sdk",
+                    "aisdk",
+                    "anthropic",
+                    "claude-code",
+                    "codex",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API",
+                    "ja": "AxonHubは、統一されたOpenAI、Anthropic、およびAI SDK互換のAPIを提供する現代のAIゲートウェイシステムです。",
+                    "zh-hans": "AxonHub是一个现代化的AI网关系统，提供统一的OpenAI、Anthropic和AI SDK兼容的API。",
+                    "zh-hant": "AxonHub是一個現代化的人工智慧閘道系統，提供統一的OpenAI、Anthropic和AI SDK兼容的API。"
                 }
             }
         },

@@ -16,17 +16,26 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - 為LLMs優化推理代理
- * [codexia](https://github.com/codexia-team/codexia) - 一個強大的GUI/IDE和工具包，適用於Codex CLI。分叉聊天+文件樹+提示記事本+git工作樹等等。
-
-
 **Chatbots**
- * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件為 ChatGPT、DeepSeek 與 Google Gemini 的對話頁面添加了時間軸導航功能，讓你能輕鬆地跳轉至任意消息，提升瀏覽效率。
- * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ 與AI對話-在本地運行使用Ollama、OpenAI、Anthropic或xAI-語音使用XTTS、OpenAI、ElevenLabs或Kokoro
+ * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - 使用Next.js、LangChain、PostgreSQL + pgvector 构建的AI 助力文件分析平台。上传、整理文件，并与文件进行聊天。包括预测性缺失文件检测、基于角色的工作流程，以及页面级别的洞察提取。
 
 
-_Updated on November 10, 2025_ (A total of 2338 repositories listed.)
+**CLIs**
+ * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合站點管理擴展：自動識別、多帳號管理、模型同步、一鍵導出，支持全平台 | AI 聚合站點管理員：自動檢測、多帳號、模型同步、一鍵導出、跨平台支持
+ * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AI 代理開發平台 - 支援多個模型（OpenAI/DeepSeek/Wenxin/Tongyi），知識庫管理，工作流自動化和企業級安全性。 使用 Flask + Vue3 + LangChain 構建，具有一鍵 Docker 部署功能。
+ * [ShellOracle](https://github.com/djcopley/shelloracle) - 一個用於智能shell命令生成的終端工具
+
+
+**NLP**
+ * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - AI 驅動的開源 deepwiki 生成器，使用 Rust 構建 - 在幾分鐘內將您的代碼庫轉換為專業的架構文檔
+ * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - 整合OpenRouter API的示例
+
+
+**Openai**
+ * [axonhub](https://github.com/looplj/axonhub) - AxonHub是一個現代化的人工智慧閘道系統，提供統一的OpenAI、Anthropic和AI SDK兼容的API。
+
+
+_Updated on November 13, 2025_ (A total of 2345 repositories listed.)
 
 ## Table of contents
 
@@ -661,6 +670,7 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; 網頁上最簡單的第三方本地LLM UI！
  * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件為 ChatGPT、DeepSeek 與 Google Gemini 的對話頁面添加了時間軸導航功能，讓你能輕鬆地跳轉至任意消息，提升瀏覽效率。
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ 與AI對話-在本地運行使用Ollama、OpenAI、Anthropic或xAI-語音使用XTTS、OpenAI、ElevenLabs或Kokoro
+ * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - 使用Next.js、LangChain、PostgreSQL + pgvector 构建的AI 助力文件分析平台。上传、整理文件，并与文件进行聊天。包括预测性缺失文件检测、基于角色的工作流程，以及页面级别的洞察提取。
 
 
 ## Browser-extensions
@@ -1090,6 +1100,9 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - 使用Rust實現的DeepSeek-OCR，配備OpenAI兼容的伺服器。無需Python環境-只需下載並運行。
  * [emdash](https://github.com/generalaction/emdash) - Emdash 是一個用於在獨立的 Git 工作樹中並行運行多個編碼代理的編排層。
  * [agent-shell](https://github.com/xenodium/agent-shell) - 一個原生的Emacs緩衝區，用於與由ACP驅動的LLM代理進行交互。
+ * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合站點管理擴展：自動識別、多帳號管理、模型同步、一鍵導出，支持全平台 | AI 聚合站點管理員：自動檢測、多帳號、模型同步、一鍵導出、跨平台支持
+ * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AI 代理開發平台 - 支援多個模型（OpenAI/DeepSeek/Wenxin/Tongyi），知識庫管理，工作流自動化和企業級安全性。 使用 Flask + Vue3 + LangChain 構建，具有一鍵 Docker 部署功能。
+ * [ShellOracle](https://github.com/djcopley/shelloracle) - 一個用於智能shell命令生成的終端工具
 
 
 ## Reimplementations
@@ -1526,6 +1539,8 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [pipelex](https://github.com/pipelex/pipelex) - Pipelex：開源語言，用於AI代理創建和運行可重複的AI工作流程
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AI 強化的多代理建造者
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight 是一個用於檢索增強生成（RAG）的模塊化框架。它可以輕鬆地插入不同的LLMs、嵌入和向量存儲，現在還包括無縫的MCP集成，以連接外部工具和數據源。
+ * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - AI 驅動的開源 deepwiki 生成器，使用 Rust 構建 - 在幾分鐘內將您的代碼庫轉換為專業的架構文檔
+ * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - 整合OpenRouter API的示例
 
 
 ## Langchain
@@ -2007,6 +2022,7 @@ _Updated on November 10, 2025_ (A total of 2338 repositories listed.)
  * [xpert](https://github.com/xpert-ai/xpert) - Xpert AI是一個為企業提供人工智能代理和數據分析平台，用於制定業務決策的平台。
  * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - 應用程式 SDK 的範例應用程式
  * [Shannon](https://github.com/kocoro-lab/shannon) - 開源AI代理器，具有企業級安全性、成本控制和供應商靈活性。是OpenAI AgentKit的替代方案。
+ * [axonhub](https://github.com/looplj/axonhub) - AxonHub是一個現代化的人工智慧閘道系統，提供統一的OpenAI、Anthropic和AI SDK兼容的API。
 
 
 ## Others
