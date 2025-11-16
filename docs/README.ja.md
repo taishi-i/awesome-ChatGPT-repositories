@@ -16,26 +16,27 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - 製品マネージャー向けのジェネレーティブAIプロンプトのリポジトリ。ChatGPT、Claude、Geminiなどのエージェントを使用します。
+
+
 **Chatbots**
- * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - Next.js、LangChain、PostgreSQL + pgvectorで構築されたAIパワードのドキュメント分析プラットフォーム。ドキュメントのアップロード、整理、チャットが可能です。予測的な欠落ドキュメントの検出、役割ベースのワークフロー、ページレベルの洞察抽出を含んでいます。
+ * [open-whispr](https://github.com/herotools/open-whispr) - ローカルのWhisperモデルとOpenAI APIを搭載した音声テキスト変換アプリ。プライバシー第一、クロスプラットフォーム、グローバルホットキーで起動可能。
 
 
-**CLIs**
- * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI集約サイトマネージャー：自動検出、複数アカウント、モデル同期、ワンクリックエクスポート、クロスプラットフォームサポート
- * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。
- * [ShellOracle](https://github.com/djcopley/shelloracle) - 賢いシェルコマンド生成のための端末ユーティリティ
-
-
-**NLP**
- * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。
- * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - OpenRouter APIを統合する例
+**Browser-extensions**
+ * [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - ブラウザオペレーター - マルチエージェントプラットフォームを内蔵したAIブラウザ！ChatGPT Atlas、Perplexity Comet、Dia、Microsoft CoPilot Edge Browserのオープンソース代替品
 
 
 **Openai**
- * [axonhub](https://github.com/looplj/axonhub) - AxonHubは、統一されたOpenAI、Anthropic、およびAI SDK互換のAPIを提供する現代のAIゲートウェイシステムです。
+ * [omniai](https://github.com/ksylvest/omniai) - OmniAIは、OpenAIのChat GPT、MistralのLeChat、ClaudeのAnthropic、GoogleのGemini、DeepSeekのChatなど、複数のAIプロバイダーのAPIを標準化します。
 
 
-_Updated on November 13, 2025_ (A total of 2345 repositories listed.)
+**Others**
+ * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ ChatGPTでアプリを構築する最速の方法ChatGPTでアプリを構築する最速の方法
+
+
+_Updated on November 17, 2025_ (A total of 2347 repositories listed.)
 
 ## Table of contents
 
@@ -315,6 +316,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [codexia](https://github.com/milisp/codexia) - Codex CLI用の強力なGUI/IDEおよびツールキット。Fork chat + FileTree + prompt notepad、Codexコミュニティなど
  * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - LLMsの推論プロキシの最適化
  * [codexia](https://github.com/codexia-team/codexia) - Codex CLI用の強力なGUI/IDEおよびツールキット。 Fork chat + FileTree + プロンプトメモ帳 + git worktree など
+ * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - 製品マネージャー向けのジェネレーティブAIプロンプトのリポジトリ。ChatGPT、Claude、Geminiなどのエージェントを使用します。
 
 
 ## Chatbots
@@ -671,6 +673,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - このプラグインは、ChatGPT、DeepSeek、Google Geminiのチャットページにタイムラインナビゲーション機能を追加し、任意のメッセージに簡単に移動できるようにし、閲覧効率を向上させます。
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ AIと話す - Ollama、OpenAI、Anthropic、またはxAIを使用してローカルで実行 - 音声はXTTS、OpenAI、ElevenLabs、またはKokoroを使用します
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - Next.js、LangChain、PostgreSQL + pgvectorで構築されたAIパワードのドキュメント分析プラットフォーム。ドキュメントのアップロード、整理、チャットが可能です。予測的な欠落ドキュメントの検出、役割ベースのワークフロー、ページレベルの洞察抽出を含んでいます。
+ * [open-whispr](https://github.com/herotools/open-whispr) - ローカルのWhisperモデルとOpenAI APIを搭載した音声テキスト変換アプリ。プライバシー第一、クロスプラットフォーム、グローバルホットキーで起動可能。
 
 
 ## Browser-extensions
@@ -907,6 +910,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 オープンソースのAgenticブラウザ；ChatGPT Atlas、Perplexity Comet、Arc/Diaに対するプライバシー重視の代替手段。
  * [GhidrAssist](https://github.com/jtang613/ghidrassist) - GhidraにAI支援を可能にするLLM拡張機能。
  * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - OpenAI APIに基づいたテキスト翻訳、テキストの修正、文法修正のBobプラグイン、バベルの塔が必要ない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0ライセンス下で利用可能。
+ * [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - ブラウザオペレーター - マルチエージェントプラットフォームを内蔵したAIブラウザ！ChatGPT Atlas、Perplexity Comet、Dia、Microsoft CoPilot Edge Browserのオープンソース代替品
 
 
 ## CLIs
@@ -1100,8 +1104,6 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - DeepSeek-OCRのRust実装とOpenAI互換サーバー。＆CLI Python環境は必要ありません-ダウンロードして実行するだけです。
  * [emdash](https://github.com/generalaction/emdash) - Emdashは、独立したGitワークツリーで複数のコーディングエージェントを並行して実行するためのオーケストレーションレイヤーです。
  * [agent-shell](https://github.com/xenodium/agent-shell) - ACP によって強化された LLM エージェントと対話するためのネイティブ Emacs バッファ
- * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI集約サイトマネージャー：自動検出、複数アカウント、モデル同期、ワンクリックエクスポート、クロスプラットフォームサポート
- * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。
  * [ShellOracle](https://github.com/djcopley/shelloracle) - 賢いシェルコマンド生成のための端末ユーティリティ
 
 
@@ -1540,7 +1542,6 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AIパワードマルチエージェントビルダー
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。
- * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - OpenRouter APIを統合する例
 
 
 ## Langchain
@@ -2023,6 +2024,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - アプリSDKの例示アプリ
  * [Shannon](https://github.com/kocoro-lab/shannon) - オープンソースのAIエージェントオーケストレーターで、エンタープライズ向けのセキュリティ、コストコントロール、ベンダーの柔軟性を備えています。OpenAI AgentKitの代替となります。
  * [axonhub](https://github.com/looplj/axonhub) - AxonHubは、統一されたOpenAI、Anthropic、およびAI SDK互換のAPIを提供する現代のAIゲートウェイシステムです。
+ * [omniai](https://github.com/ksylvest/omniai) - OmniAIは、OpenAIのChat GPT、MistralのLeChat、ClaudeのAnthropic、GoogleのGemini、DeepSeekのChatなど、複数のAIプロバイダーのAPIを標準化します。
 
 
 ## Others
@@ -2455,5 +2457,6 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [nanochat](https://github.com/karpathy/nanochat) - $100で買える最高のChatGPT。
  * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - SpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーションSpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーション
  * [frontier-evals](https://github.com/openai/frontier-evals) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
+ * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ ChatGPTでアプリを構築する最速の方法ChatGPTでアプリを構築する最速の方法
 
 

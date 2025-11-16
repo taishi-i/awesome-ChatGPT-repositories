@@ -6333,6 +6333,27 @@
                     "zh-hans": "一个强大的GUI/IDE和工具包，用于Codex CLI。分叉聊天+文件树+提示记事本+git工作树等等。",
                     "zh-hant": "一個強大的GUI/IDE和工具包，適用於Codex CLI。分叉聊天+文件樹+提示記事本+git工作樹等等。"
                 }
+            },
+            "https://github.com/deanpeters/product-manager-prompts": {
+                "repository_name": "product-manager-prompts",
+                "user_name": "deanpeters",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini",
+                "topics": [
+                    "agile",
+                    "chatgpt",
+                    "documentation-generator",
+                    "generative-ai",
+                    "product-management",
+                    "product-owner"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini",
+                    "ja": "製品マネージャー向けのジェネレーティブAIプロンプトのリポジトリ。ChatGPT、Claude、Geminiなどのエージェントを使用します。",
+                    "zh-hans": "产品经理使用ChatGPT、Claude和Gemini等代理人的生成式AI提示存储库",
+                    "zh-hant": "一個供產品經理使用代理人（如ChatGPT、Claude和Gemini）的生成式AI提示存儲庫"
+                }
             }
         },
         "Chatbots": {
@@ -15155,6 +15176,24 @@
                     "zh-hans": "使用Next.js、LangChain、PostgreSQL + pgvector构建的AI驱动文档分析平台。上传、整理和与文档交流。包括预测性缺失文档检测、基于角色的工作流程和页面级洞察提取。",
                     "zh-hant": "使用Next.js、LangChain、PostgreSQL + pgvector 构建的AI 助力文件分析平台。上传、整理文件，并与文件进行聊天。包括预测性缺失文件检测、基于角色的工作流程，以及页面级别的洞察提取。"
                 }
+            },
+            "https://github.com/herotools/open-whispr": {
+                "repository_name": "open-whispr",
+                "user_name": "HeroTools",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.",
+                "topics": [
+                    "ai",
+                    "open-source",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.",
+                    "ja": "ローカルのWhisperモデルとOpenAI APIを搭載した音声テキスト変換アプリ。プライバシー第一、クロスプラットフォーム、グローバルホットキーで起動可能。",
+                    "zh-hans": "语音转文本的应用程序，具有本地Whisper模型和OpenAI API。隐私优先，跨平台，全球热键激活。",
+                    "zh-hant": "具有本地Whisper模型和OpenAI API的語音轉文本應用程序。隱私優先，跨平台，全球熱鍵啟用。"
+                }
             }
         },
         "Browser-extensions": {
@@ -20613,6 +20652,40 @@
                     "ja": "OpenAI APIに基づいたテキスト翻訳、テキストの修正、文法修正のBobプラグイン、バベルの塔が必要ない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0ライセンス下で利用可能。",
                     "zh-hans": "基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可。",
                     "zh-hant": "基於 OpenAI API 的文本翻譯、文本潤色、語法校正 Bob 插件，讓我們一起迎接不需要巴別塔的新時代！根據 CC BY-NC-SA 4.0 授權。"
+                }
+            },
+            "https://github.com/browseroperator/browser-operator-core": {
+                "repository_name": "browser-operator-core",
+                "user_name": "BrowserOperator",
+                "language": "TypeScript",
+                "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "description": "Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser",
+                "topics": [
+                    "agent-browser",
+                    "agent-workflow",
+                    "agentic-ai",
+                    "agentic-browser",
+                    "agentic-framework",
+                    "agentic-workflow",
+                    "agents",
+                    "ai-browser",
+                    "browser-operator",
+                    "computer-use",
+                    "langgraph",
+                    "llamacpp",
+                    "llm",
+                    "mcp",
+                    "mcp-client",
+                    "ollama",
+                    "open-operator",
+                    "openai",
+                    "operator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser",
+                    "ja": "ブラウザオペレーター - マルチエージェントプラットフォームを内蔵したAIブラウザ！ChatGPT Atlas、Perplexity Comet、Dia、Microsoft CoPilot Edge Browserのオープンソース代替品",
+                    "zh-hans": "浏览器操作员-具有内置多代理平台的AI浏览器！ChatGPT Atlas、Perplexity Comet、Dia和Microsoft CoPilot Edge Browser的开源替代方案",
+                    "zh-hant": "瀏覽器操作者-具備內建多代理平台的AI瀏覽器！ChatGPT Atlas、Perplexity Comet、Dia和Microsoft CoPilot Edge Browser的開源替代方案。"
                 }
             }
         },
@@ -45476,6 +45549,32 @@
                     "zh-hans": "AxonHub是一个现代化的AI网关系统，提供统一的OpenAI、Anthropic和AI SDK兼容的API。",
                     "zh-hant": "AxonHub是一個現代化的人工智慧閘道系統，提供統一的OpenAI、Anthropic和AI SDK兼容的API。"
                 }
+            },
+            "https://github.com/ksylvest/omniai": {
+                "repository_name": "omniai",
+                "user_name": "ksylvest",
+                "language": "Ruby",
+                "license": "MIT License",
+                "description": "OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..",
+                "topics": [
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "deepseek",
+                    "gemini",
+                    "google",
+                    "lechat",
+                    "mistral",
+                    "omniai",
+                    "openai",
+                    "ruby"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..",
+                    "ja": "OmniAIは、OpenAIのChat GPT、MistralのLeChat、ClaudeのAnthropic、GoogleのGemini、DeepSeekのChatなど、複数のAIプロバイダーのAPIを標準化します。",
+                    "zh-hans": "OmniAI标准化了多个AI提供商的API，如OpenAI的Chat GPT，Mistral的LeChat，Claude的Anthropic，Google的Gemini和DeepSeek的Chat。",
+                    "zh-hant": "OmniAI標準化了多個AI供應商的API，如OpenAI的Chat GPT、Mistral的LeChat、Claude的Anthropic、Google的Gemini和DeepSeek的Chat。"
+                }
             }
         },
         "Others": {
@@ -53625,6 +53724,20 @@
                     "ja": "論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード",
                     "zh-hans": "在论文《人工神经网络中的多模态神经元》中重现一些图表的代码",
                     "zh-hant": "在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼"
+                }
+            },
+            "https://github.com/fastappsorg/fastapps": {
+                "repository_name": "FastApps",
+                "user_name": "FastAppsOrg",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "⚡ The fastest way to build Apps in ChatGPT",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "⚡ The fastest way to build Apps in ChatGPT",
+                    "ja": "⚡ ChatGPTでアプリを構築する最速の方法ChatGPTでアプリを構築する最速の方法",
+                    "zh-hans": "⚡ 在ChatGPT中构建应用程序的最快方式",
+                    "zh-hant": "⚡ 在ChatGPT中建立應用程式的最快方式"
                 }
             }
         }
