@@ -16,26 +16,27 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini
+
+
 **Chatbots**
- * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - AI-powered document analysis platform built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.
+ * [open-whispr](https://github.com/herotools/open-whispr) - Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
 
 
-**CLIs**
- * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合中转站点管理扩展：自动识别、多账号管理、模型同步、一键导出，支持全平台 | AI Aggregation Site Manager: Auto-detection, multi-account, model sync, one-click export, cross-platform support
- * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
- * [ShellOracle](https://github.com/djcopley/shelloracle) - A terminal utility for intelligent shell command generation
-
-
-**NLP**
- * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes
- * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - Examples of integrating the OpenRouter API
+**Browser-extensions**
+ * [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser
 
 
 **Openai**
- * [axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API
+ * [omniai](https://github.com/ksylvest/omniai) - OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..
 
 
-_Updated on November 13, 2025_ (A total of 2345 repositories listed.)
+**Others**
+ * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ The fastest way to build Apps in ChatGPT
+
+
+_Updated on November 17, 2025_ (A total of 2347 repositories listed.)
 
 ## Table of contents
 
@@ -315,6 +316,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [codexia](https://github.com/milisp/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad, Codex community and more
  * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - Optimizing inference proxy for LLMs
  * [codexia](https://github.com/codexia-team/codexia) - A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad + git worktree and more
+ * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini
 
 
 ## Chatbots
@@ -671,6 +673,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件为 ChatGPT、DeepSeek 与 Google Gemini 的对话页面添加了时间轴导航功能，让你能轻松地跳转至任意消息，提升浏览效率。
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses XTTS, OpenAI, ElevenLabs or Kokoro
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - AI-powered document analysis platform built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.
+ * [open-whispr](https://github.com/herotools/open-whispr) - Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
 
 
 ## Browser-extensions
@@ -907,6 +910,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Arc/Dia.
  * [GhidrAssist](https://github.com/jtang613/ghidrassist) - An LLM extension for Ghidra to enable AI assistance in RE.
  * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
+ * [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser
 
 
 ## CLIs
@@ -1100,8 +1104,6 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - Rust implementation of DeepSeek-OCR with OpenAI-compatible server. & CLI No Python environment needed - just download and run.
  * [emdash](https://github.com/generalaction/emdash) - Emdash is an orchestration layer for running multiple coding agents in parallel in isolated Git worktrees
  * [agent-shell](https://github.com/xenodium/agent-shell) - A native Emacs buffer to interact with LLM agents powered by ACP
- * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合中转站点管理扩展：自动识别、多账号管理、模型同步、一键导出，支持全平台 | AI Aggregation Site Manager: Auto-detection, multi-account, model sync, one-click export, cross-platform support
- * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
  * [ShellOracle](https://github.com/djcopley/shelloracle) - A terminal utility for intelligent shell command generation
 
 
@@ -1540,7 +1542,6 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources.
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes
- * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - Examples of integrating the OpenRouter API
 
 
 ## Langchain
@@ -2023,6 +2024,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - Example apps for the Apps SDK
  * [Shannon](https://github.com/kocoro-lab/shannon) - Open-source AI agent orchestrator with enterprise-grade security, cost controls, and vendor flexibility. An alternative to OpenAI AgentKit
  * [axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API
+ * [omniai](https://github.com/ksylvest/omniai) - OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..
 
 
 ## Others
@@ -2455,5 +2457,6 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
  * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - Applications developed based on the spring-cloud-alibaba microservice architecture (SpringBoot3)
  * [frontier-evals](https://github.com/openai/frontier-evals) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
+ * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ The fastest way to build Apps in ChatGPT
 
 

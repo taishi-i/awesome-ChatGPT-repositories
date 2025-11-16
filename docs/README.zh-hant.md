@@ -16,26 +16,27 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - 一個供產品經理使用代理人（如ChatGPT、Claude和Gemini）的生成式AI提示存儲庫
+
+
 **Chatbots**
- * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - 使用Next.js、LangChain、PostgreSQL + pgvector 构建的AI 助力文件分析平台。上传、整理文件，并与文件进行聊天。包括预测性缺失文件检测、基于角色的工作流程，以及页面级别的洞察提取。
+ * [open-whispr](https://github.com/herotools/open-whispr) - 具有本地Whisper模型和OpenAI API的語音轉文本應用程序。隱私優先，跨平台，全球熱鍵啟用。
 
 
-**CLIs**
- * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合站點管理擴展：自動識別、多帳號管理、模型同步、一鍵導出，支持全平台 | AI 聚合站點管理員：自動檢測、多帳號、模型同步、一鍵導出、跨平台支持
- * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AI 代理開發平台 - 支援多個模型（OpenAI/DeepSeek/Wenxin/Tongyi），知識庫管理，工作流自動化和企業級安全性。 使用 Flask + Vue3 + LangChain 構建，具有一鍵 Docker 部署功能。
- * [ShellOracle](https://github.com/djcopley/shelloracle) - 一個用於智能shell命令生成的終端工具
-
-
-**NLP**
- * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - AI 驅動的開源 deepwiki 生成器，使用 Rust 構建 - 在幾分鐘內將您的代碼庫轉換為專業的架構文檔
- * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - 整合OpenRouter API的示例
+**Browser-extensions**
+ * [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - 瀏覽器操作者-具備內建多代理平台的AI瀏覽器！ChatGPT Atlas、Perplexity Comet、Dia和Microsoft CoPilot Edge Browser的開源替代方案。
 
 
 **Openai**
- * [axonhub](https://github.com/looplj/axonhub) - AxonHub是一個現代化的人工智慧閘道系統，提供統一的OpenAI、Anthropic和AI SDK兼容的API。
+ * [omniai](https://github.com/ksylvest/omniai) - OmniAI標準化了多個AI供應商的API，如OpenAI的Chat GPT、Mistral的LeChat、Claude的Anthropic、Google的Gemini和DeepSeek的Chat。
 
 
-_Updated on November 13, 2025_ (A total of 2345 repositories listed.)
+**Others**
+ * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ 在ChatGPT中建立應用程式的最快方式
+
+
+_Updated on November 17, 2025_ (A total of 2347 repositories listed.)
 
 ## Table of contents
 
@@ -315,6 +316,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [codexia](https://github.com/milisp/codexia) - 一個強大的GUI/IDE和Toolkit，適用於Codex CLI。分叉聊天+文件樹+提示記事本，Codex社區等。
  * [optillm](https://github.com/algorithmicsuperintelligence/optillm) - 為LLMs優化推理代理
  * [codexia](https://github.com/codexia-team/codexia) - 一個強大的GUI/IDE和工具包，適用於Codex CLI。分叉聊天+文件樹+提示記事本+git工作樹等等。
+ * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - 一個供產品經理使用代理人（如ChatGPT、Claude和Gemini）的生成式AI提示存儲庫
 
 
 ## Chatbots
@@ -671,6 +673,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - 本插件為 ChatGPT、DeepSeek 與 Google Gemini 的對話頁面添加了時間軸導航功能，讓你能輕鬆地跳轉至任意消息，提升瀏覽效率。
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ 與AI對話-在本地運行使用Ollama、OpenAI、Anthropic或xAI-語音使用XTTS、OpenAI、ElevenLabs或Kokoro
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - 使用Next.js、LangChain、PostgreSQL + pgvector 构建的AI 助力文件分析平台。上传、整理文件，并与文件进行聊天。包括预测性缺失文件检测、基于角色的工作流程，以及页面级别的洞察提取。
+ * [open-whispr](https://github.com/herotools/open-whispr) - 具有本地Whisper模型和OpenAI API的語音轉文本應用程序。隱私優先，跨平台，全球熱鍵啟用。
 
 
 ## Browser-extensions
@@ -907,6 +910,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [BrowserOS](https://github.com/browseros-ai/browseros) - 🌐 開源的Agentic瀏覽器；隱私優先的ChatGPT Atlas、Perplexity Comet、Arc/Dia的替代方案。
  * [GhidrAssist](https://github.com/jtang613/ghidrassist) - 一個用於Ghidra的LLM擴展，以啟用AI輔助進行逆向工程。
  * [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 基於 OpenAI API 的文本翻譯、文本潤色、語法校正 Bob 插件，讓我們一起迎接不需要巴別塔的新時代！根據 CC BY-NC-SA 4.0 授權。
+ * [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - 瀏覽器操作者-具備內建多代理平台的AI瀏覽器！ChatGPT Atlas、Perplexity Comet、Dia和Microsoft CoPilot Edge Browser的開源替代方案。
 
 
 ## CLIs
@@ -1100,8 +1104,6 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - 使用Rust實現的DeepSeek-OCR，配備OpenAI兼容的伺服器。無需Python環境-只需下載並運行。
  * [emdash](https://github.com/generalaction/emdash) - Emdash 是一個用於在獨立的 Git 工作樹中並行運行多個編碼代理的編排層。
  * [agent-shell](https://github.com/xenodium/agent-shell) - 一個原生的Emacs緩衝區，用於與由ACP驅動的LLM代理進行交互。
- * [all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合站點管理擴展：自動識別、多帳號管理、模型同步、一鍵導出，支持全平台 | AI 聚合站點管理員：自動檢測、多帳號、模型同步、一鍵導出、跨平台支持
- * [LMForge-End-to-End-LLMOps-Platform-for-Multi-Model-Agents](https://github.com/haohao-end/lmforge-end-to-end-llmops-platform-for-multi-model-agents) - AI 代理開發平台 - 支援多個模型（OpenAI/DeepSeek/Wenxin/Tongyi），知識庫管理，工作流自動化和企業級安全性。 使用 Flask + Vue3 + LangChain 構建，具有一鍵 Docker 部署功能。
  * [ShellOracle](https://github.com/djcopley/shelloracle) - 一個用於智能shell命令生成的終端工具
 
 
@@ -1540,7 +1542,6 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AI 強化的多代理建造者
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight 是一個用於檢索增強生成（RAG）的模塊化框架。它可以輕鬆地插入不同的LLMs、嵌入和向量存儲，現在還包括無縫的MCP集成，以連接外部工具和數據源。
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - AI 驅動的開源 deepwiki 生成器，使用 Rust 構建 - 在幾分鐘內將您的代碼庫轉換為專業的架構文檔
- * [openrouter-examples](https://github.com/openrouterteam/openrouter-examples) - 整合OpenRouter API的示例
 
 
 ## Langchain
@@ -2023,6 +2024,7 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - 應用程式 SDK 的範例應用程式
  * [Shannon](https://github.com/kocoro-lab/shannon) - 開源AI代理器，具有企業級安全性、成本控制和供應商靈活性。是OpenAI AgentKit的替代方案。
  * [axonhub](https://github.com/looplj/axonhub) - AxonHub是一個現代化的人工智慧閘道系統，提供統一的OpenAI、Anthropic和AI SDK兼容的API。
+ * [omniai](https://github.com/ksylvest/omniai) - OmniAI標準化了多個AI供應商的API，如OpenAI的Chat GPT、Mistral的LeChat、Claude的Anthropic、Google的Gemini和DeepSeek的Chat。
 
 
 ## Others
@@ -2455,5 +2457,6 @@ _Updated on November 13, 2025_ (A total of 2345 repositories listed.)
  * [nanochat](https://github.com/karpathy/nanochat) - 價值100美元的最佳ChatGPT。
  * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - 基於spring-cloud-alibaba微服務架構（SpringBoot3）開發的應用程式
  * [frontier-evals](https://github.com/openai/frontier-evals) - 在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼
+ * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ 在ChatGPT中建立應用程式的最快方式
 
 
