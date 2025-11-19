@@ -16,27 +16,15 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - 製品マネージャー向けのジェネレーティブAIプロンプトのリポジトリ。ChatGPT、Claude、Geminiなどのエージェントを使用します。
-
-
-**Chatbots**
- * [open-whispr](https://github.com/herotools/open-whispr) - ローカルのWhisperモデルとOpenAI APIを搭載した音声テキスト変換アプリ。プライバシー第一、クロスプラットフォーム、グローバルホットキーで起動可能。
-
-
-**Browser-extensions**
- * [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - ブラウザオペレーター - マルチエージェントプラットフォームを内蔵したAIブラウザ！ChatGPT Atlas、Perplexity Comet、Dia、Microsoft CoPilot Edge Browserのオープンソース代替品
-
-
 **Openai**
- * [omniai](https://github.com/ksylvest/omniai) - OmniAIは、OpenAIのChat GPT、MistralのLeChat、ClaudeのAnthropic、GoogleのGemini、DeepSeekのChatなど、複数のAIプロバイダーのAPIを標準化します。
+ * [aiproxy](https://github.com/labring/aiproxy) - AI Proxyは、OpenAIとClaudeプロトコルをエントリーポイントとして使用する高性能AIゲートウェイです。インテリジェントなエラーハンドリング、マルチチャンネル管理、包括的なモニタリング機能を備えています。複数のモデル、レート制限、マルチテナントをサポートしています。
 
 
 **Others**
- * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ ChatGPTでアプリを構築する最速の方法ChatGPTでアプリを構築する最速の方法
+ * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPTは、Rust + HTMXで構築されたChatGPT UIです：RustのパワーとHTMXのシンプルさが組み合わさったもの 💚
 
 
-_Updated on November 17, 2025_ (A total of 2347 repositories listed.)
+_Updated on November 20, 2025_ (A total of 2349 repositories listed.)
 
 ## Table of contents
 
@@ -2025,6 +2013,7 @@ _Updated on November 17, 2025_ (A total of 2347 repositories listed.)
  * [Shannon](https://github.com/kocoro-lab/shannon) - オープンソースのAIエージェントオーケストレーターで、エンタープライズ向けのセキュリティ、コストコントロール、ベンダーの柔軟性を備えています。OpenAI AgentKitの代替となります。
  * [axonhub](https://github.com/looplj/axonhub) - AxonHubは、統一されたOpenAI、Anthropic、およびAI SDK互換のAPIを提供する現代のAIゲートウェイシステムです。
  * [omniai](https://github.com/ksylvest/omniai) - OmniAIは、OpenAIのChat GPT、MistralのLeChat、ClaudeのAnthropic、GoogleのGemini、DeepSeekのChatなど、複数のAIプロバイダーのAPIを標準化します。
+ * [aiproxy](https://github.com/labring/aiproxy) - AI Proxyは、OpenAIとClaudeプロトコルをエントリーポイントとして使用する高性能AIゲートウェイです。インテリジェントなエラーハンドリング、マルチチャンネル管理、包括的なモニタリング機能を備えています。複数のモデル、レート制限、マルチテナントをサポートしています。
 
 
 ## Others
@@ -2458,5 +2447,6 @@ _Updated on November 17, 2025_ (A total of 2347 repositories listed.)
  * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - SpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーションSpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーション
  * [frontier-evals](https://github.com/openai/frontier-evals) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
  * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ ChatGPTでアプリを構築する最速の方法ChatGPTでアプリを構築する最速の方法
+ * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPTは、Rust + HTMXで構築されたChatGPT UIです：RustのパワーとHTMXのシンプルさが組み合わさったもの 💚
 
 

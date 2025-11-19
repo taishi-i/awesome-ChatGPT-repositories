@@ -16,27 +16,15 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - 产品经理使用ChatGPT、Claude和Gemini等代理人的生成式AI提示存储库
-
-
-**Chatbots**
- * [open-whispr](https://github.com/herotools/open-whispr) - 语音转文本的应用程序，具有本地Whisper模型和OpenAI API。隐私优先，跨平台，全球热键激活。
-
-
-**Browser-extensions**
- * [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - 浏览器操作员-具有内置多代理平台的AI浏览器！ChatGPT Atlas、Perplexity Comet、Dia和Microsoft CoPilot Edge Browser的开源替代方案
-
-
 **Openai**
- * [omniai](https://github.com/ksylvest/omniai) - OmniAI标准化了多个AI提供商的API，如OpenAI的Chat GPT，Mistral的LeChat，Claude的Anthropic，Google的Gemini和DeepSeek的Chat。
+ * [aiproxy](https://github.com/labring/aiproxy) - AI代理是一个高性能的AI网关，使用OpenAI和Claude协议作为入口点。它具有智能错误处理、多通道管理和全面监控功能。支持多个模型、速率限制和多租户。
 
 
 **Others**
- * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ 在ChatGPT中构建应用程序的最快方式
+ * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPT是一个使用Rust + HTMX构建的ChatGPT UI：Rust的强大功能与HTMX的简单性相结合 💚
 
 
-_Updated on November 17, 2025_ (A total of 2347 repositories listed.)
+_Updated on November 20, 2025_ (A total of 2349 repositories listed.)
 
 ## Table of contents
 
@@ -2025,6 +2013,7 @@ _Updated on November 17, 2025_ (A total of 2347 repositories listed.)
  * [Shannon](https://github.com/kocoro-lab/shannon) - 开源AI代理编排器，具有企业级安全性、成本控制和供应商灵活性。是OpenAI AgentKit的替代方案。
  * [axonhub](https://github.com/looplj/axonhub) - AxonHub是一个现代化的AI网关系统，提供统一的OpenAI、Anthropic和AI SDK兼容的API。
  * [omniai](https://github.com/ksylvest/omniai) - OmniAI标准化了多个AI提供商的API，如OpenAI的Chat GPT，Mistral的LeChat，Claude的Anthropic，Google的Gemini和DeepSeek的Chat。
+ * [aiproxy](https://github.com/labring/aiproxy) - AI代理是一个高性能的AI网关，使用OpenAI和Claude协议作为入口点。它具有智能错误处理、多通道管理和全面监控功能。支持多个模型、速率限制和多租户。
 
 
 ## Others
@@ -2458,5 +2447,6 @@ _Updated on November 17, 2025_ (A total of 2347 repositories listed.)
  * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - 基于spring-cloud-alibaba微服务架构（SpringBoot3）开发的应用程序
  * [frontier-evals](https://github.com/openai/frontier-evals) - 在论文《人工神经网络中的多模态神经元》中重现一些图表的代码
  * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ 在ChatGPT中构建应用程序的最快方式
+ * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPT是一个使用Rust + HTMX构建的ChatGPT UI：Rust的强大功能与HTMX的简单性相结合 💚
 
 

@@ -16,27 +16,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini
-
-
-**Chatbots**
- * [open-whispr](https://github.com/herotools/open-whispr) - Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
-
-
-**Browser-extensions**
- * [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - Browser Operator - The AI browser with built in Multi-Agent platform! Open source alternative to ChatGPT Atlas, Perplexity Comet, Dia and Microsoft CoPilot Edge Browser
-
-
 **Openai**
- * [omniai](https://github.com/ksylvest/omniai) - OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..
+ * [aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high-performance AI gateway using OpenAI's and Claude protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With support for multiple models, rate limiting, and multi-tenant isolation.
 
 
 **Others**
- * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ The fastest way to build Apps in ChatGPT
+ * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
 
 
-_Updated on November 17, 2025_ (A total of 2347 repositories listed.)
+_Updated on November 20, 2025_ (A total of 2349 repositories listed.)
 
 ## Table of contents
 
@@ -2025,6 +2013,7 @@ _Updated on November 17, 2025_ (A total of 2347 repositories listed.)
  * [Shannon](https://github.com/kocoro-lab/shannon) - Open-source AI agent orchestrator with enterprise-grade security, cost controls, and vendor flexibility. An alternative to OpenAI AgentKit
  * [axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, and AI SDK compatible API
  * [omniai](https://github.com/ksylvest/omniai) - OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic, Google's Gemini and DeepSeek's Chat..
+ * [aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high-performance AI gateway using OpenAI's and Claude protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With support for multiple models, rate limiting, and multi-tenant isolation.
 
 
 ## Others
@@ -2458,5 +2447,6 @@ _Updated on November 17, 2025_ (A total of 2347 repositories listed.)
  * [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - Applications developed based on the spring-cloud-alibaba microservice architecture (SpringBoot3)
  * [frontier-evals](https://github.com/openai/frontier-evals) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
  * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ The fastest way to build Apps in ChatGPT
+ * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
 
 

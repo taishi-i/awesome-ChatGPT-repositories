@@ -45575,6 +45575,20 @@
                     "zh-hans": "OmniAI标准化了多个AI提供商的API，如OpenAI的Chat GPT，Mistral的LeChat，Claude的Anthropic，Google的Gemini和DeepSeek的Chat。",
                     "zh-hant": "OmniAI標準化了多個AI供應商的API，如OpenAI的Chat GPT、Mistral的LeChat、Claude的Anthropic、Google的Gemini和DeepSeek的Chat。"
                 }
+            },
+            "https://github.com/labring/aiproxy": {
+                "repository_name": "aiproxy",
+                "user_name": "labring",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "AI Proxy is a high-performance AI gateway using OpenAI's and Claude protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With support for multiple models, rate limiting, and multi-tenant isolation.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "AI Proxy is a high-performance AI gateway using OpenAI's and Claude protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With support for multiple models, rate limiting, and multi-tena",
+                    "ja": "AI Proxyは、OpenAIとClaudeプロトコルをエントリーポイントとして使用する高性能AIゲートウェイです。インテリジェントなエラーハンドリング、マルチチャンネル管理、包括的なモニタリング機能を備えています。複数のモデル、レート制限、マルチテナントをサポートしています。",
+                    "zh-hans": "AI代理是一个高性能的AI网关，使用OpenAI和Claude协议作为入口点。它具有智能错误处理、多通道管理和全面监控功能。支持多个模型、速率限制和多租户。",
+                    "zh-hant": "AI代理是一個高性能的AI網關，使用OpenAI和Claude協議作為入口。它具有智能錯誤處理、多通道管理和全面監控功能。支持多個模型、速率限制和多租戶。"
+                }
             }
         },
         "Others": {
@@ -53738,6 +53752,20 @@
                     "ja": "⚡ ChatGPTでアプリを構築する最速の方法ChatGPTでアプリを構築する最速の方法",
                     "zh-hans": "⚡ 在ChatGPT中构建应用程序的最快方式",
                     "zh-hant": "⚡ 在ChatGPT中建立應用程式的最快方式"
+                }
+            },
+            "https://github.com/bitswired/rustgpt": {
+                "repository_name": "rustgpt",
+                "user_name": "bitswired",
+                "language": "Rust",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚",
+                    "ja": "RustGPTは、Rust + HTMXで構築されたChatGPT UIです：RustのパワーとHTMXのシンプルさが組み合わさったもの 💚",
+                    "zh-hans": "RustGPT是一个使用Rust + HTMX构建的ChatGPT UI：Rust的强大功能与HTMX的简单性相结合 💚",
+                    "zh-hant": "RustGPT 是一個使用 Rust + HTMX 構建的 ChatGPT UI：Rust 的強大功能與 HTMX 的簡單性相結合 💚"
                 }
             }
         }
