@@ -16,15 +16,15 @@
 
 ## The latest additions 🎉
 
-**Openai**
- * [aiproxy](https://github.com/labring/aiproxy) - AI代理是一個高性能的AI網關，使用OpenAI和Claude協議作為入口。它具有智能錯誤處理、多通道管理和全面監控功能。支持多個模型、速率限制和多租戶。
+**Chatbots**
+ * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink是一個跨平台的人工智慧助手應用程式，支援多個主流人工智慧模型（OpenAI、Google Gemini、Anthropic Claude、Grok等）。使用React、TypeScript和Capacitor構建，提供無縫的對話體驗。主要功能包括：
 
 
-**Others**
- * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPT 是一個使用 Rust + HTMX 構建的 ChatGPT UI：Rust 的強大功能與 HTMX 的簡單性相結合 💚
+**NLP**
+ * [oracle](https://github.com/steipete/oracle) - 當你遇到困難時，請諮詢神諭。使用自定義上下文和文件來啟動GPT-5 Pro。
 
 
-_Updated on November 20, 2025_ (A total of 2349 repositories listed.)
+_Updated on November 24, 2025_ (A total of 2351 repositories listed.)
 
 ## Table of contents
 
@@ -662,6 +662,7 @@ _Updated on November 20, 2025_ (A total of 2349 repositories listed.)
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ 與AI對話-在本地運行使用Ollama、OpenAI、Anthropic或xAI-語音使用XTTS、OpenAI、ElevenLabs或Kokoro
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - 使用Next.js、LangChain、PostgreSQL + pgvector 构建的AI 助力文件分析平台。上传、整理文件，并与文件进行聊天。包括预测性缺失文件检测、基于角色的工作流程，以及页面级别的洞察提取。
  * [open-whispr](https://github.com/herotools/open-whispr) - 具有本地Whisper模型和OpenAI API的語音轉文本應用程序。隱私優先，跨平台，全球熱鍵啟用。
+ * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink是一個跨平台的人工智慧助手應用程式，支援多個主流人工智慧模型（OpenAI、Google Gemini、Anthropic Claude、Grok等）。使用React、TypeScript和Capacitor構建，提供無縫的對話體驗。主要功能包括：
 
 
 ## Browser-extensions
@@ -1530,6 +1531,7 @@ _Updated on November 20, 2025_ (A total of 2349 repositories listed.)
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AI 強化的多代理建造者
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight 是一個用於檢索增強生成（RAG）的模塊化框架。它可以輕鬆地插入不同的LLMs、嵌入和向量存儲，現在還包括無縫的MCP集成，以連接外部工具和數據源。
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - AI 驅動的開源 deepwiki 生成器，使用 Rust 構建 - 在幾分鐘內將您的代碼庫轉換為專業的架構文檔
+ * [oracle](https://github.com/steipete/oracle) - 當你遇到困難時，請諮詢神諭。使用自定義上下文和文件來啟動GPT-5 Pro。
 
 
 ## Langchain

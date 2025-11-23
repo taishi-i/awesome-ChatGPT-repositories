@@ -16,15 +16,15 @@
 
 ## The latest additions 🎉
 
-**Openai**
- * [aiproxy](https://github.com/labring/aiproxy) - AI Proxyは、OpenAIとClaudeプロトコルをエントリーポイントとして使用する高性能AIゲートウェイです。インテリジェントなエラーハンドリング、マルチチャンネル管理、包括的なモニタリング機能を備えています。複数のモデル、レート制限、マルチテナントをサポートしています。
+**Chatbots**
+ * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLinkは、複数の主要なAIモデル（OpenAI、Google Gemini、Anthropic Claude、Grokなど）をサポートするクロスプラットフォームのAIアシスタントアプリケーションです。React、TypeScript、Capacitorで構築されており、シームレスな会話体験を提供します。主な特徴は、
 
 
-**Others**
- * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPTは、Rust + HTMXで構築されたChatGPT UIです：RustのパワーとHTMXのシンプルさが組み合わさったもの 💚
+**NLP**
+ * [oracle](https://github.com/steipete/oracle) - 行き詰まったときはオラクルに尋ねてみてください。カスタムコンテキストとファイルを使用してGPT-5 Proを呼び出します。
 
 
-_Updated on November 20, 2025_ (A total of 2349 repositories listed.)
+_Updated on November 24, 2025_ (A total of 2351 repositories listed.)
 
 ## Table of contents
 
@@ -662,6 +662,7 @@ _Updated on November 20, 2025_ (A total of 2349 repositories listed.)
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ AIと話す - Ollama、OpenAI、Anthropic、またはxAIを使用してローカルで実行 - 音声はXTTS、OpenAI、ElevenLabs、またはKokoroを使用します
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - Next.js、LangChain、PostgreSQL + pgvectorで構築されたAIパワードのドキュメント分析プラットフォーム。ドキュメントのアップロード、整理、チャットが可能です。予測的な欠落ドキュメントの検出、役割ベースのワークフロー、ページレベルの洞察抽出を含んでいます。
  * [open-whispr](https://github.com/herotools/open-whispr) - ローカルのWhisperモデルとOpenAI APIを搭載した音声テキスト変換アプリ。プライバシー第一、クロスプラットフォーム、グローバルホットキーで起動可能。
+ * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLinkは、複数の主要なAIモデル（OpenAI、Google Gemini、Anthropic Claude、Grokなど）をサポートするクロスプラットフォームのAIアシスタントアプリケーションです。React、TypeScript、Capacitorで構築されており、シームレスな会話体験を提供します。主な特徴は、
 
 
 ## Browser-extensions
@@ -1530,6 +1531,7 @@ _Updated on November 20, 2025_ (A total of 2349 repositories listed.)
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AIパワードマルチエージェントビルダー
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。
+ * [oracle](https://github.com/steipete/oracle) - 行き詰まったときはオラクルに尋ねてみてください。カスタムコンテキストとファイルを使用してGPT-5 Proを呼び出します。
 
 
 ## Langchain
