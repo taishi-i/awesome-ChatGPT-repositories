@@ -16,15 +16,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Openai**
- * [aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high-performance AI gateway using OpenAI's and Claude protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With support for multiple models, rate limiting, and multi-tena
+**Chatbots**
+ * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink is a cross-platform AI assistant application that supports multiple mainstream AI models (OpenAI, Google Gemini, Anthropic Claude, Grok, etc.). Built with React, TypeScript, and Capacitor, it delivers a seamless conversational experience. Key fe
 
 
-**Others**
- * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
+**NLP**
+ * [oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 
 
-_Updated on November 20, 2025_ (A total of 2349 repositories listed.)
+_Updated on November 24, 2025_ (A total of 2351 repositories listed.)
 
 ## Table of contents
 
@@ -662,6 +662,7 @@ _Updated on November 20, 2025_ (A total of 2349 repositories listed.)
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ Speak with AI - Run locally using Ollama, OpenAI, Anthropic or xAI - Speech uses XTTS, OpenAI, ElevenLabs or Kokoro
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - AI-powered document analysis platform built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.
  * [open-whispr](https://github.com/herotools/open-whispr) - Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
+ * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink is a cross-platform AI assistant application that supports multiple mainstream AI models (OpenAI, Google Gemini, Anthropic Claude, Grok, etc.). Built with React, TypeScript, and Capacitor, it delivers a seamless conversational experience. Key fe
 
 
 ## Browser-extensions
@@ -1530,6 +1531,7 @@ _Updated on November 20, 2025_ (A total of 2349 repositories listed.)
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources.
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes
+ * [oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 
 
 ## Langchain

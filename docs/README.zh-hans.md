@@ -16,15 +16,15 @@
 
 ## The latest additions 🎉
 
-**Openai**
- * [aiproxy](https://github.com/labring/aiproxy) - AI代理是一个高性能的AI网关，使用OpenAI和Claude协议作为入口点。它具有智能错误处理、多通道管理和全面监控功能。支持多个模型、速率限制和多租户。
+**Chatbots**
+ * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink是一个跨平台的AI助手应用程序，支持多个主流AI模型（OpenAI，Google Gemini，Anthropic Claude，Grok等）。 使用React，TypeScript和Capacitor构建，提供无缝的对话体验。 主要功能包括：
 
 
-**Others**
- * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPT是一个使用Rust + HTMX构建的ChatGPT UI：Rust的强大功能与HTMX的简单性相结合 💚
+**NLP**
+ * [oracle](https://github.com/steipete/oracle) - 当你遇到困难时，请向神谕求助。使用自定义上下文和文件调用GPT-5 Pro。
 
 
-_Updated on November 20, 2025_ (A total of 2349 repositories listed.)
+_Updated on November 24, 2025_ (A total of 2351 repositories listed.)
 
 ## Table of contents
 
@@ -662,6 +662,7 @@ _Updated on November 20, 2025_ (A total of 2349 repositories listed.)
  * [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - 🎙️ 与人工智能交谈 - 在本地使用Ollama、OpenAI、Anthropic或xAI运行 - 语音使用XTTS、OpenAI、ElevenLabs或Kokoro
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - 使用Next.js、LangChain、PostgreSQL + pgvector构建的AI驱动文档分析平台。上传、整理和与文档交流。包括预测性缺失文档检测、基于角色的工作流程和页面级洞察提取。
  * [open-whispr](https://github.com/herotools/open-whispr) - 语音转文本的应用程序，具有本地Whisper模型和OpenAI API。隐私优先，跨平台，全球热键激活。
+ * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink是一个跨平台的AI助手应用程序，支持多个主流AI模型（OpenAI，Google Gemini，Anthropic Claude，Grok等）。 使用React，TypeScript和Capacitor构建，提供无缝的对话体验。 主要功能包括：
 
 
 ## Browser-extensions
@@ -1530,6 +1531,7 @@ _Updated on November 20, 2025_ (A total of 2349 repositories listed.)
  * [rowboat](https://github.com/rowboatlabs/rowboat) - AI 动力多代理生成器
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight是一个用于检索增强生成（RAG）的模块化框架。它可以轻松地插入不同的LLMs、嵌入和向量存储，并且现在包括无缝的MCP集成，以连接外部工具和数据源。
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - 采用Rust构建的AI驱动的开源深度维基生成器 - 在几分钟内将您的代码库转换为专业架构文档
+ * [oracle](https://github.com/steipete/oracle) - 当你遇到困难时，请向神谕求助。使用自定义上下文和文件调用GPT-5 Pro。
 
 
 ## Langchain

@@ -15194,6 +15194,29 @@
                     "zh-hans": "语音转文本的应用程序，具有本地Whisper模型和OpenAI API。隐私优先，跨平台，全球热键激活。",
                     "zh-hant": "具有本地Whisper模型和OpenAI API的語音轉文本應用程序。隱私優先，跨平台，全球熱鍵啟用。"
                 }
+            },
+            "https://github.com/1600822305/aetherlink": {
+                "repository_name": "AetherLink",
+                "user_name": "1600822305",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "AetherLink is a cross-platform AI assistant application that supports multiple mainstream AI models (OpenAI, Google Gemini, Anthropic Claude, Grok, etc.). Built with React, TypeScript, and Capacitor, it delivers a seamless conversational experience. Key features include customizable model configurations, multi-topic chat management, AI reasoning vi",
+                "topics": [
+                    "android-app",
+                    "capacitor",
+                    "chatbot",
+                    "ios-app",
+                    "llm",
+                    "mcp-client",
+                    "openai",
+                    "tauri"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AetherLink is a cross-platform AI assistant application that supports multiple mainstream AI models (OpenAI, Google Gemini, Anthropic Claude, Grok, etc.). Built with React, TypeScript, and Capacitor, it delivers a seamless conversational experience. Key fe",
+                    "ja": "AetherLinkは、複数の主要なAIモデル（OpenAI、Google Gemini、Anthropic Claude、Grokなど）をサポートするクロスプラットフォームのAIアシスタントアプリケーションです。React、TypeScript、Capacitorで構築されており、シームレスな会話体験を提供します。主な特徴は、",
+                    "zh-hans": "AetherLink是一个跨平台的AI助手应用程序，支持多个主流AI模型（OpenAI，Google Gemini，Anthropic Claude，Grok等）。 使用React，TypeScript和Capacitor构建，提供无缝的对话体验。 主要功能包括：",
+                    "zh-hant": "AetherLink是一個跨平台的人工智慧助手應用程式，支援多個主流人工智慧模型（OpenAI、Google Gemini、Anthropic Claude、Grok等）。使用React、TypeScript和Capacitor構建，提供無縫的對話體驗。主要功能包括："
+                }
             }
         },
         "Browser-extensions": {
@@ -34845,6 +34868,29 @@
                     "ja": "OpenRouter APIを統合する例",
                     "zh-hans": "整合OpenRouter API的示例",
                     "zh-hant": "整合OpenRouter API的示例"
+                }
+            },
+            "https://github.com/steipete/oracle": {
+                "repository_name": "oracle",
+                "user_name": "steipete",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "gemini-pro",
+                    "gpt-5-pro",
+                    "openai",
+                    "opus",
+                    "sonnet"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.",
+                    "ja": "行き詰まったときはオラクルに尋ねてみてください。カスタムコンテキストとファイルを使用してGPT-5 Proを呼び出します。",
+                    "zh-hans": "当你遇到困难时，请向神谕求助。使用自定义上下文和文件调用GPT-5 Pro。",
+                    "zh-hant": "當你遇到困難時，請諮詢神諭。使用自定義上下文和文件來啟動GPT-5 Pro。"
                 }
             }
         },
