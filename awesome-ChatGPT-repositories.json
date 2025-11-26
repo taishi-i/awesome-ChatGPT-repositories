@@ -25323,6 +25323,28 @@
                     "zh-hans": "一个用于智能shell命令生成的终端工具",
                     "zh-hant": "一個用於智能shell命令生成的終端工具"
                 }
+            },
+            "https://github.com/pluveto/daan": {
+                "repository_name": "daan",
+                "user_name": "pluveto",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "✨Lightweight LLM Client with MCP 🔌 & Characters 👤",
+                "topics": [
+                    "chatgpt",
+                    "client",
+                    "deepseek",
+                    "llm",
+                    "mcp",
+                    "mcp-client",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "✨Lightweight LLM Client with MCP 🔌 & Characters 👤",
+                    "ja": "✨MCPとキャラクター👤を備えた軽量LLMクライアント",
+                    "zh-hans": "✨轻量级LLM客户端，具有MCP🔌和角色👤",
+                    "zh-hant": "✨輕量級LLM客戶端與MCP🔌和角色👤"
+                }
             }
         },
         "Reimplementations": {
@@ -34891,6 +34913,39 @@
                     "ja": "行き詰まったときはオラクルに尋ねてみてください。カスタムコンテキストとファイルを使用してGPT-5 Proを呼び出します。",
                     "zh-hans": "当你遇到困难时，请向神谕求助。使用自定义上下文和文件调用GPT-5 Pro。",
                     "zh-hant": "當你遇到困難時，請諮詢神諭。使用自定義上下文和文件來啟動GPT-5 Pro。"
+                }
+            },
+            "https://github.com/expectedparrot/edsl": {
+                "repository_name": "edsl",
+                "user_name": "expectedparrot",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
+                "topics": [
+                    "anthropic",
+                    "data-labeling",
+                    "deepinfra",
+                    "domain-specific-language",
+                    "experiments",
+                    "llama2",
+                    "llm",
+                    "llm-agent",
+                    "llm-framework",
+                    "llm-inference",
+                    "market-research",
+                    "mixtral",
+                    "open-source",
+                    "openai",
+                    "python",
+                    "social-science",
+                    "surveys",
+                    "synthetic-data"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.",
+                    "ja": "AIを活用した調査や実験の設計、実施、結果の分析を行います。大量のAIエージェントやLLMを用いて社会科学やマーケットリサーチをシミュレートします。",
+                    "zh-hans": "设计、进行和分析AI驱动的调查和实验结果。使用大量的AI代理和LLMs模拟社会科学和市场研究。",
+                    "zh-hant": "設計、執行和分析AI驅動的調查和實驗結果。使用大量的AI代理和LLMs模擬社會科學和市場研究。"
                 }
             }
         },

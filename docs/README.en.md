@@ -16,15 +16,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink is a cross-platform AI assistant application that supports multiple mainstream AI models (OpenAI, Google Gemini, Anthropic Claude, Grok, etc.). Built with React, TypeScript, and Capacitor, it delivers a seamless conversational experience. Key fe
+**CLIs**
+ * [daan](https://github.com/pluveto/daan) - ✨Lightweight LLM Client with MCP 🔌 & Characters 👤
 
 
 **NLP**
- * [oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
+ * [edsl](https://github.com/expectedparrot/edsl) - Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.
 
 
-_Updated on November 24, 2025_ (A total of 2351 repositories listed.)
+_Updated on November 27, 2025_ (A total of 2353 repositories listed.)
 
 ## Table of contents
 
@@ -1094,6 +1094,7 @@ _Updated on November 24, 2025_ (A total of 2351 repositories listed.)
  * [emdash](https://github.com/generalaction/emdash) - Emdash is an orchestration layer for running multiple coding agents in parallel in isolated Git worktrees
  * [agent-shell](https://github.com/xenodium/agent-shell) - A native Emacs buffer to interact with LLM agents powered by ACP
  * [ShellOracle](https://github.com/djcopley/shelloracle) - A terminal utility for intelligent shell command generation
+ * [daan](https://github.com/pluveto/daan) - ✨Lightweight LLM Client with MCP 🔌 & Characters 👤
 
 
 ## Reimplementations
@@ -1532,6 +1533,7 @@ _Updated on November 24, 2025_ (A total of 2351 repositories listed.)
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools and data sources.
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes
  * [oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
+ * [edsl](https://github.com/expectedparrot/edsl) - Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.
 
 
 ## Langchain

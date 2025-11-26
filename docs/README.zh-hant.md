@@ -16,15 +16,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink是一個跨平台的人工智慧助手應用程式，支援多個主流人工智慧模型（OpenAI、Google Gemini、Anthropic Claude、Grok等）。使用React、TypeScript和Capacitor構建，提供無縫的對話體驗。主要功能包括：
+**CLIs**
+ * [daan](https://github.com/pluveto/daan) - ✨輕量級LLM客戶端與MCP🔌和角色👤
 
 
 **NLP**
- * [oracle](https://github.com/steipete/oracle) - 當你遇到困難時，請諮詢神諭。使用自定義上下文和文件來啟動GPT-5 Pro。
+ * [edsl](https://github.com/expectedparrot/edsl) - 設計、執行和分析AI驅動的調查和實驗結果。使用大量的AI代理和LLMs模擬社會科學和市場研究。
 
 
-_Updated on November 24, 2025_ (A total of 2351 repositories listed.)
+_Updated on November 27, 2025_ (A total of 2353 repositories listed.)
 
 ## Table of contents
 
@@ -1094,6 +1094,7 @@ _Updated on November 24, 2025_ (A total of 2351 repositories listed.)
  * [emdash](https://github.com/generalaction/emdash) - Emdash 是一個用於在獨立的 Git 工作樹中並行運行多個編碼代理的編排層。
  * [agent-shell](https://github.com/xenodium/agent-shell) - 一個原生的Emacs緩衝區，用於與由ACP驅動的LLM代理進行交互。
  * [ShellOracle](https://github.com/djcopley/shelloracle) - 一個用於智能shell命令生成的終端工具
+ * [daan](https://github.com/pluveto/daan) - ✨輕量級LLM客戶端與MCP🔌和角色👤
 
 
 ## Reimplementations
@@ -1532,6 +1533,7 @@ _Updated on November 24, 2025_ (A total of 2351 repositories listed.)
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLight 是一個用於檢索增強生成（RAG）的模塊化框架。它可以輕鬆地插入不同的LLMs、嵌入和向量存儲，現在還包括無縫的MCP集成，以連接外部工具和數據源。
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - AI 驅動的開源 deepwiki 生成器，使用 Rust 構建 - 在幾分鐘內將您的代碼庫轉換為專業的架構文檔
  * [oracle](https://github.com/steipete/oracle) - 當你遇到困難時，請諮詢神諭。使用自定義上下文和文件來啟動GPT-5 Pro。
+ * [edsl](https://github.com/expectedparrot/edsl) - 設計、執行和分析AI驅動的調查和實驗結果。使用大量的AI代理和LLMs模擬社會科學和市場研究。
 
 
 ## Langchain

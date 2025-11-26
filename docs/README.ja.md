@@ -16,15 +16,15 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLinkは、複数の主要なAIモデル（OpenAI、Google Gemini、Anthropic Claude、Grokなど）をサポートするクロスプラットフォームのAIアシスタントアプリケーションです。React、TypeScript、Capacitorで構築されており、シームレスな会話体験を提供します。主な特徴は、
+**CLIs**
+ * [daan](https://github.com/pluveto/daan) - ✨MCPとキャラクター👤を備えた軽量LLMクライアント
 
 
 **NLP**
- * [oracle](https://github.com/steipete/oracle) - 行き詰まったときはオラクルに尋ねてみてください。カスタムコンテキストとファイルを使用してGPT-5 Proを呼び出します。
+ * [edsl](https://github.com/expectedparrot/edsl) - AIを活用した調査や実験の設計、実施、結果の分析を行います。大量のAIエージェントやLLMを用いて社会科学やマーケットリサーチをシミュレートします。
 
 
-_Updated on November 24, 2025_ (A total of 2351 repositories listed.)
+_Updated on November 27, 2025_ (A total of 2353 repositories listed.)
 
 ## Table of contents
 
@@ -1094,6 +1094,7 @@ _Updated on November 24, 2025_ (A total of 2351 repositories listed.)
  * [emdash](https://github.com/generalaction/emdash) - Emdashは、独立したGitワークツリーで複数のコーディングエージェントを並行して実行するためのオーケストレーションレイヤーです。
  * [agent-shell](https://github.com/xenodium/agent-shell) - ACP によって強化された LLM エージェントと対話するためのネイティブ Emacs バッファ
  * [ShellOracle](https://github.com/djcopley/shelloracle) - 賢いシェルコマンド生成のための端末ユーティリティ
+ * [daan](https://github.com/pluveto/daan) - ✨MCPとキャラクター👤を備えた軽量LLMクライアント
 
 
 ## Reimplementations
@@ -1532,6 +1533,7 @@ _Updated on November 24, 2025_ (A total of 2351 repositories listed.)
  * [RAGLight](https://github.com/bessouat40/raglight) - RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。
  * [oracle](https://github.com/steipete/oracle) - 行き詰まったときはオラクルに尋ねてみてください。カスタムコンテキストとファイルを使用してGPT-5 Proを呼び出します。
+ * [edsl](https://github.com/expectedparrot/edsl) - AIを活用した調査や実験の設計、実施、結果の分析を行います。大量のAIエージェントやLLMを用いて社会科学やマーケットリサーチをシミュレートします。
 
 
 ## Langchain
