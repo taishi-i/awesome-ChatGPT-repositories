@@ -16,15 +16,21 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [daan](https://github.com/pluveto/daan) - ✨輕量級LLM客戶端與MCP🔌和角色👤
+**Chatbots**
+ * [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - 使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作為VectorDB的對話代理的FastAPI後端
 
 
 **NLP**
- * [edsl](https://github.com/expectedparrot/edsl) - 設計、執行和分析AI驅動的調查和實驗結果。使用大量的AI代理和LLMs模擬社會科學和市場研究。
+ * [Acontext](https://github.com/memodb-io/acontext) - 一個供代理商存儲、觀察和學習的地方。自學習代理商的上下文數據平台，旨在簡化上下文工程並提高代理商的可靠性和任務成功率。
+ * [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - 使用人工智慧和Azure SQL DB的樣本
+ * [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - 一個輕量級、強大的多代理工作流框架在Go語言中
 
 
-_Updated on November 27, 2025_ (A total of 2353 repositories listed.)
+**Others**
+ * [consult-omni](https://github.com/armindarvish/consult-omni) - 在Emacs內部的強大多功能全能搜索
+
+
+_Updated on December 01, 2025_ (A total of 2358 repositories listed.)
 
 ## Table of contents
 
@@ -663,6 +669,7 @@ _Updated on November 27, 2025_ (A total of 2353 repositories listed.)
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - 使用Next.js、LangChain、PostgreSQL + pgvector 构建的AI 助力文件分析平台。上传、整理文件，并与文件进行聊天。包括预测性缺失文件检测、基于角色的工作流程，以及页面级别的洞察提取。
  * [open-whispr](https://github.com/herotools/open-whispr) - 具有本地Whisper模型和OpenAI API的語音轉文本應用程序。隱私優先，跨平台，全球熱鍵啟用。
  * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink是一個跨平台的人工智慧助手應用程式，支援多個主流人工智慧模型（OpenAI、Google Gemini、Anthropic Claude、Grok等）。使用React、TypeScript和Capacitor構建，提供無縫的對話體驗。主要功能包括：
+ * [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - 使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作為VectorDB的對話代理的FastAPI後端
 
 
 ## Browser-extensions
@@ -1534,6 +1541,9 @@ _Updated on November 27, 2025_ (A total of 2353 repositories listed.)
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - AI 驅動的開源 deepwiki 生成器，使用 Rust 構建 - 在幾分鐘內將您的代碼庫轉換為專業的架構文檔
  * [oracle](https://github.com/steipete/oracle) - 當你遇到困難時，請諮詢神諭。使用自定義上下文和文件來啟動GPT-5 Pro。
  * [edsl](https://github.com/expectedparrot/edsl) - 設計、執行和分析AI驅動的調查和實驗結果。使用大量的AI代理和LLMs模擬社會科學和市場研究。
+ * [Acontext](https://github.com/memodb-io/acontext) - 一個供代理商存儲、觀察和學習的地方。自學習代理商的上下文數據平台，旨在簡化上下文工程並提高代理商的可靠性和任務成功率。
+ * [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - 使用人工智慧和Azure SQL DB的樣本
+ * [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - 一個輕量級、強大的多代理工作流框架在Go語言中
 
 
 ## Langchain
@@ -2452,5 +2462,6 @@ _Updated on November 27, 2025_ (A total of 2353 repositories listed.)
  * [frontier-evals](https://github.com/openai/frontier-evals) - 在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼在論文“人工神經網絡中的多模式神經元”中重現一些圖表的代碼
  * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ 在ChatGPT中建立應用程式的最快方式
  * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPT 是一個使用 Rust + HTMX 構建的 ChatGPT UI：Rust 的強大功能與 HTMX 的簡單性相結合 💚
+ * [consult-omni](https://github.com/armindarvish/consult-omni) - 在Emacs內部的強大多功能全能搜索
 
 

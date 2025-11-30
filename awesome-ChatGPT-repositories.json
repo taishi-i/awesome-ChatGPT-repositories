@@ -15217,6 +15217,32 @@
                     "zh-hans": "AetherLink是一个跨平台的AI助手应用程序，支持多个主流AI模型（OpenAI，Google Gemini，Anthropic Claude，Grok等）。 使用React，TypeScript和Capacitor构建，提供无缝的对话体验。 主要功能包括：",
                     "zh-hant": "AetherLink是一個跨平台的人工智慧助手應用程式，支援多個主流人工智慧模型（OpenAI、Google Gemini、Anthropic Claude、Grok等）。使用React、TypeScript和Capacitor構建，提供無縫的對話體驗。主要功能包括："
                 }
+            },
+            "https://github.com/mfmezger/conversational-agent-langchain": {
+                "repository_name": "conversational-agent-langchain",
+                "user_name": "mfmezger",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "FastAPI Backend for a Conversational Agent using Cohere, (Azure) OpenAI, Langchain & Langgraph and Qdrant as VectorDB",
+                "topics": [
+                    "ai",
+                    "cohere",
+                    "fastapi",
+                    "gemini",
+                    "langchain",
+                    "ollama",
+                    "openai",
+                    "qdrant",
+                    "researchassistant",
+                    "streamlit",
+                    "vectordatabase"
+                ],
+                "multilingual_descriptions": {
+                    "en": "FastAPI Backend for a Conversational Agent using Cohere, (Azure) OpenAI, Langchain & Langgraph and Qdrant as VectorDB",
+                    "ja": "Cohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンドCohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンド",
+                    "zh-hans": "使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作为VectorDB的对话代理的FastAPI后端",
+                    "zh-hant": "使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作為VectorDB的對話代理的FastAPI後端"
+                }
             }
         },
         "Browser-extensions": {
@@ -34947,6 +34973,78 @@
                     "zh-hans": "设计、进行和分析AI驱动的调查和实验结果。使用大量的AI代理和LLMs模拟社会科学和市场研究。",
                     "zh-hant": "設計、執行和分析AI驅動的調查和實驗結果。使用大量的AI代理和LLMs模擬社會科學和市場研究。"
                 }
+            },
+            "https://github.com/memodb-io/acontext": {
+                "repository_name": "Acontext",
+                "user_name": "memodb-io",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "One Place for Agents to Store, Observe, and Learn. Context Data Platform for Self-learning Agents, designed to simplify context engineering and improve agent reliability and task success rates.",
+                "topics": [
+                    "agent",
+                    "agent-development-kit",
+                    "agent-experience",
+                    "ai-agent",
+                    "anthropic",
+                    "context-engineering",
+                    "data-platform",
+                    "llm",
+                    "memory",
+                    "openai",
+                    "self-evolving",
+                    "self-learning"
+                ],
+                "multilingual_descriptions": {
+                    "en": "One Place for Agents to Store, Observe, and Learn. Context Data Platform for Self-learning Agents, designed to simplify context engineering and improve agent reliability and task success rates.",
+                    "ja": "エージェントが情報を保存、観察、学習するための1つの場所。自己学習エージェント向けのコンテキストデータプラットフォームで、コンテキストエンジニアリングを簡素化し、エージェントの信頼性とタスク成功率を向上させることを目的として設計されています。",
+                    "zh-hans": "一个地方供代理商存储、观察和学习。自学代理商的上下文数据平台，旨在简化上下文工程并提高代理商的可靠性和任务成功率。",
+                    "zh-hant": "一個供代理商存儲、觀察和學習的地方。自學習代理商的上下文數據平台，旨在簡化上下文工程並提高代理商的可靠性和任務成功率。"
+                }
+            },
+            "https://github.com/azure-samples/sql-ai-samples": {
+                "repository_name": "SQL-AI-samples",
+                "user_name": "Azure-Samples",
+                "language": "HTML",
+                "license": "MIT License",
+                "description": "Samples using AI and Azure SQL DB",
+                "topics": [
+                    "ai",
+                    "azure",
+                    "azure-sql-database",
+                    "azure-sql-db",
+                    "database",
+                    "llm",
+                    "openai",
+                    "vectors"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Samples using AI and Azure SQL DB",
+                    "ja": "AIとAzure SQL DBを使用したサンプル",
+                    "zh-hans": "使用人工智能和Azure SQL数据库的样本",
+                    "zh-hant": "使用人工智慧和Azure SQL DB的樣本"
+                }
+            },
+            "https://github.com/nlpodyssey/openai-agents-go": {
+                "repository_name": "openai-agents-go",
+                "user_name": "nlpodyssey",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "A lightweight, powerful framework for multi-agent workflows in Go",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "artificial-intelligence",
+                    "framework",
+                    "llm",
+                    "multi-agent-framework",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A lightweight, powerful framework for multi-agent workflows in Go",
+                    "ja": "Go言語でのマルチエージェントワークフロー向けの軽量でパワフルなフレームワーク",
+                    "zh-hans": "一个轻量级、强大的多代理工作流框架，适用于Go语言。",
+                    "zh-hant": "一個輕量級、強大的多代理工作流框架在Go語言中"
+                }
             }
         },
         "Langchain": {
@@ -53867,6 +53965,41 @@
                     "ja": "RustGPTは、Rust + HTMXで構築されたChatGPT UIです：RustのパワーとHTMXのシンプルさが組み合わさったもの 💚",
                     "zh-hans": "RustGPT是一个使用Rust + HTMX构建的ChatGPT UI：Rust的强大功能与HTMX的简单性相结合 💚",
                     "zh-hant": "RustGPT 是一個使用 Rust + HTMX 構建的 ChatGPT UI：Rust 的強大功能與 HTMX 的簡單性相結合 💚"
+                }
+            },
+            "https://github.com/armindarvish/consult-omni": {
+                "repository_name": "consult-omni",
+                "user_name": "armindarvish",
+                "language": "Emacs Lisp",
+                "license": null,
+                "description": "A Powerful Versatile Omni Search inside Emacs",
+                "topics": [
+                    "aichatbot",
+                    "bing-search",
+                    "brave-search",
+                    "chatgpt",
+                    "desktop-search",
+                    "duckduckgo-search",
+                    "emacs",
+                    "emacs-lisp",
+                    "feeds",
+                    "google-search",
+                    "grep-search",
+                    "powersearch",
+                    "pubmed-search",
+                    "ripgrep-gui",
+                    "scopus-api",
+                    "search",
+                    "search-engines",
+                    "stackoverflow-search",
+                    "web-search",
+                    "wikipedia-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A Powerful Versatile Omni Search inside Emacs",
+                    "ja": "Emacs内部の強力で多機能なオムニ検索",
+                    "zh-hans": "Emacs内置的强大多功能全能搜索",
+                    "zh-hant": "在Emacs內部的強大多功能全能搜索"
                 }
             }
         }
