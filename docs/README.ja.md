@@ -16,15 +16,21 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [daan](https://github.com/pluveto/daan) - ✨MCPとキャラクター👤を備えた軽量LLMクライアント
+**Chatbots**
+ * [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - Cohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンドCohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンド
 
 
 **NLP**
- * [edsl](https://github.com/expectedparrot/edsl) - AIを活用した調査や実験の設計、実施、結果の分析を行います。大量のAIエージェントやLLMを用いて社会科学やマーケットリサーチをシミュレートします。
+ * [Acontext](https://github.com/memodb-io/acontext) - エージェントが情報を保存、観察、学習するための1つの場所。自己学習エージェント向けのコンテキストデータプラットフォームで、コンテキストエンジニアリングを簡素化し、エージェントの信頼性とタスク成功率を向上させることを目的として設計されています。
+ * [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - AIとAzure SQL DBを使用したサンプル
+ * [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - Go言語でのマルチエージェントワークフロー向けの軽量でパワフルなフレームワーク
 
 
-_Updated on November 27, 2025_ (A total of 2353 repositories listed.)
+**Others**
+ * [consult-omni](https://github.com/armindarvish/consult-omni) - Emacs内部の強力で多機能なオムニ検索
+
+
+_Updated on December 01, 2025_ (A total of 2358 repositories listed.)
 
 ## Table of contents
 
@@ -663,6 +669,7 @@ _Updated on November 27, 2025_ (A total of 2353 repositories listed.)
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - Next.js、LangChain、PostgreSQL + pgvectorで構築されたAIパワードのドキュメント分析プラットフォーム。ドキュメントのアップロード、整理、チャットが可能です。予測的な欠落ドキュメントの検出、役割ベースのワークフロー、ページレベルの洞察抽出を含んでいます。
  * [open-whispr](https://github.com/herotools/open-whispr) - ローカルのWhisperモデルとOpenAI APIを搭載した音声テキスト変換アプリ。プライバシー第一、クロスプラットフォーム、グローバルホットキーで起動可能。
  * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLinkは、複数の主要なAIモデル（OpenAI、Google Gemini、Anthropic Claude、Grokなど）をサポートするクロスプラットフォームのAIアシスタントアプリケーションです。React、TypeScript、Capacitorで構築されており、シームレスな会話体験を提供します。主な特徴は、
+ * [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - Cohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンドCohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンド
 
 
 ## Browser-extensions
@@ -1534,6 +1541,9 @@ _Updated on November 27, 2025_ (A total of 2353 repositories listed.)
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。
  * [oracle](https://github.com/steipete/oracle) - 行き詰まったときはオラクルに尋ねてみてください。カスタムコンテキストとファイルを使用してGPT-5 Proを呼び出します。
  * [edsl](https://github.com/expectedparrot/edsl) - AIを活用した調査や実験の設計、実施、結果の分析を行います。大量のAIエージェントやLLMを用いて社会科学やマーケットリサーチをシミュレートします。
+ * [Acontext](https://github.com/memodb-io/acontext) - エージェントが情報を保存、観察、学習するための1つの場所。自己学習エージェント向けのコンテキストデータプラットフォームで、コンテキストエンジニアリングを簡素化し、エージェントの信頼性とタスク成功率を向上させることを目的として設計されています。
+ * [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - AIとAzure SQL DBを使用したサンプル
+ * [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - Go言語でのマルチエージェントワークフロー向けの軽量でパワフルなフレームワーク
 
 
 ## Langchain
@@ -2452,5 +2462,6 @@ _Updated on November 27, 2025_ (A total of 2353 repositories listed.)
  * [frontier-evals](https://github.com/openai/frontier-evals) - 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
  * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ ChatGPTでアプリを構築する最速の方法ChatGPTでアプリを構築する最速の方法
  * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPTは、Rust + HTMXで構築されたChatGPT UIです：RustのパワーとHTMXのシンプルさが組み合わさったもの 💚
+ * [consult-omni](https://github.com/armindarvish/consult-omni) - Emacs内部の強力で多機能なオムニ検索
 
 

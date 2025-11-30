@@ -16,15 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [daan](https://github.com/pluveto/daan) - ✨Lightweight LLM Client with MCP 🔌 & Characters 👤
+**Chatbots**
+ * [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - FastAPI Backend for a Conversational Agent using Cohere, (Azure) OpenAI, Langchain & Langgraph and Qdrant as VectorDB
 
 
 **NLP**
- * [edsl](https://github.com/expectedparrot/edsl) - Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.
+ * [Acontext](https://github.com/memodb-io/acontext) - One Place for Agents to Store, Observe, and Learn. Context Data Platform for Self-learning Agents, designed to simplify context engineering and improve agent reliability and task success rates.
+ * [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - Samples using AI and Azure SQL DB
+ * [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - A lightweight, powerful framework for multi-agent workflows in Go
 
 
-_Updated on November 27, 2025_ (A total of 2353 repositories listed.)
+**Others**
+ * [consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
+
+
+_Updated on December 01, 2025_ (A total of 2358 repositories listed.)
 
 ## Table of contents
 
@@ -663,6 +669,7 @@ _Updated on November 27, 2025_ (A total of 2353 repositories listed.)
  * [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - AI-powered document analysis platform built with Next.js, LangChain, PostgreSQL + pgvector. Upload, organize, and chat with documents. Includes predictive missing-document detection, role-based workflows, and page-level insight extraction.
  * [open-whispr](https://github.com/herotools/open-whispr) - Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
  * [AetherLink](https://github.com/1600822305/aetherlink) - AetherLink is a cross-platform AI assistant application that supports multiple mainstream AI models (OpenAI, Google Gemini, Anthropic Claude, Grok, etc.). Built with React, TypeScript, and Capacitor, it delivers a seamless conversational experience. Key features include customizable model configurations, multi-topic chat management, AI reasoning vi
+ * [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - FastAPI Backend for a Conversational Agent using Cohere, (Azure) OpenAI, Langchain & Langgraph and Qdrant as VectorDB
 
 
 ## Browser-extensions
@@ -1534,6 +1541,9 @@ _Updated on November 27, 2025_ (A total of 2353 repositories listed.)
  * [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ​AI-Powered open-source deepwiki generator​ built with Rust – Transform your codebase into professional architecture documentation in minutes
  * [oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
  * [edsl](https://github.com/expectedparrot/edsl) - Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research with large numbers of AI agents and LLMs.
+ * [Acontext](https://github.com/memodb-io/acontext) - One Place for Agents to Store, Observe, and Learn. Context Data Platform for Self-learning Agents, designed to simplify context engineering and improve agent reliability and task success rates.
+ * [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - Samples using AI and Azure SQL DB
+ * [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - A lightweight, powerful framework for multi-agent workflows in Go
 
 
 ## Langchain
@@ -2452,5 +2462,6 @@ _Updated on November 27, 2025_ (A total of 2353 repositories listed.)
  * [frontier-evals](https://github.com/openai/frontier-evals) - code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
  * [FastApps](https://github.com/fastappsorg/fastapps) - ⚡ The fastest way to build Apps in ChatGPT
  * [rustgpt](https://github.com/bitswired/rustgpt) - RustGPT is a ChatGPT UI built with Rust + HTMX: the power of Rust coupled with the simplicity of HTMX 💚
+ * [consult-omni](https://github.com/armindarvish/consult-omni) - A Powerful Versatile Omni Search inside Emacs
 
 
