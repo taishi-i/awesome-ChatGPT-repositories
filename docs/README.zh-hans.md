@@ -16,7 +16,20 @@
 
 ## The latest additions 🎉
 
-_Updated on December 04, 2025_ (A total of 2358 repositories listed.)
+**Awesome-lists**
+ * [Memori](https://github.com/memorilabs/memori) - 开源内存引擎，用于LLMs，AI代理和多代理系统
+
+
+**CLIs**
+ * [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - 克劳德代码/ GeminiCLI / CodexCLI + [双子座 / OpenAI / OpenRouter / Azure / Grok / Ollama / 自定义模型 / 以上所有] 一起运行的力量。
+
+
+**Openai**
+ * [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - 一个使用Python AI Agent框架的示例存储库，可以与GitHub模型和Azure OpenAI一起使用。
+ * [paperdebugger](https://github.com/paperdebugger/paperdebugger) - 纸质调试器是最好的overleaf伴侣
+
+
+_Updated on December 08, 2025_ (A total of 2362 repositories listed.)
 
 ## Table of contents
 
@@ -62,7 +75,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - ⭐ 1k / 一个精选的与GPT、ChatGPT、OpenAI、LLM等相关的令人惊叹的项目和资源列表。
  * 🔴 [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - ⭐ 1.1k / 一个用于训练指令跟随LLM（ChatGPT、LLaMA、Alpaca）的开源数据集合。
  * 🟢 [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - ⭐ 704 / 一个精选的令人惊叹的ChatGPT相关项目列表。
- * 🟡 [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - ⭐ 5.1k / 这个仓库包含了一个手动策划的资源，重点关注生成式预训练转换器（GPT）、ChatGPT、PaLM等方面的Prompt工程。
+ * 🟢 [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - ⭐ 5.1k / 这个仓库包含了一个手动策划的资源，重点关注生成式预训练转换器（GPT）、ChatGPT、PaLM等方面的Prompt工程。
  * 🟡 [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - ⭐ 3.2k / 一个精选的生成式人工智能工具、作品、模型和参考资料列表
  * 🟡 [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - ⭐ 6k / GPT相关开源项目合集🚀、精选🔥🔥
  * 🟢 [Awesome-AITools](https://github.com/ikaijua/awesome-aitools) - ⭐ 5.4k / 收集了一系列与人工智能相关的实用工具。欢迎提交问题和拉取请求。
@@ -100,15 +113,15 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - ⭐ 3.9k / Gitalk 评论
  * 🔴 [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ⭐ 930 / ChatGPT 中文语料库 包括对话、小说和客服语料，用于训练大型模型。
  * 🟢 [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - ⭐ 1.1k / 🏆 一个令人敬畏的资源收藏，涵盖了与ChatGPT相关的各种工具、文件、资源、应用程序和用例。
- * 🟡 [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - ⭐ 907 / 🤖 / 🏪 代理商索引 - 这是LobeChat的代理商索引。它从这个存储库中访问index.json，以显示LobeChat在代理市场上可用的代理商列表。
+ * 🟡 [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - ⭐ 907 / 🏪 代理商索引 - 这是LobeChat的代理商索引。它从这个存储库中访问index.json，以显示LobeChat在代理市场上可用的代理商列表。
  * 🟢 [awesome-python](https://github.com/dylanhogg/awesome-python) - ⭐ 419 / 🐍 精选的优秀Python库和框架，按类别组织
  * 🟢 [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - ⭐ 944 / 厉害-llm-角色扮演与角色: 一个为大型语言模型提供资源的策划列表，用于与指定的角色扮演。
  * 🔴 [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ⭐ 11k / ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
  * 🟡 [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - ⭐ 228 / 持续更新的与生成式LLM（如GPT）及其分析和检测相关资源列表。
  * 🟢 [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ⭐ 3.4k / ChatGPT越狱，GPT助手提示泄漏，GPT提示注入，LLM提示安全，超级提示，提示黑客，提示安全，Ai提示工程，对抗性机器学习。
- * 🟢 [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - ⭐ 267 / 🧩 / 🏪 插件索引 - 这是LobeChat的插件索引。它从这个存储库访问index.json，向用户显示可用插件的列表。
+ * 🟢 [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - ⭐ 267 / 🏪 插件索引 - 这是LobeChat的插件索引。它从这个存储库访问index.json，向用户显示可用插件的列表。
  * 🟢 [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - ⭐ 6.9k / 一个关于LLM论文、博客和项目的收集，重点关注OpenAI o1和推理技术。
- * 🟡 [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - ⭐ 81k / 使用OpenAI、Anthropic、Gemini和开源模型的一组出色的LLM应用程序集合。
+ * 🟢 [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - ⭐ 81k / 使用OpenAI、Anthropic、Gemini和开源模型的一组出色的LLM应用程序集合。
  * 🟢 [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - ⭐ 6.9k / 🧑‍🚀 全球最好的LLM资源总结
  * 🟡 [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - ⭐ 24k / AI自主代理的列表
  * 🟡 [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - ⭐ 1.2k / 🪄 一键部署许多Github开源项目，以便快速体验
@@ -121,6 +134,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - ⭐ 386 / 一个精心筛选的🌌 Azure OpenAI，🦙 大型语言模型（包括RAG，Agent），以及带备忘录的参考资料列表。
  * 🟢 [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 23k / 🏆 一份排名靠前的机器学习Python库列表。每周更新。
  * 🟢 [simple-openai](https://github.com/sashirestela/simple-openai) - ⭐ 358 / 一个用于以最简单方式使用OpenAI Api的Java库。
+ * [Memori](https://github.com/memorilabs/memori) - 开源内存引擎，用于LLMs，AI代理和多代理系统
 
 
 ## Prompts
@@ -145,7 +159,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [ChatGPT-Adventure](https://github.com/capnmidnight/chatgpt-adventure) - ⭐ 45 / 一个开始提示，让ChatGPT创建一个文字冒险游戏。
  * 🔴 [chatgpt-text-to-midjourney-image](https://github.com/barretlee/chatgpt-text-to-midjourney-image) - ⭐ 149 / 使用ChatGPT优化提示，然后将其发送给Replicate创建图像。
  * 🔴 [Prompt-hunter](https://github.com/op7418/prompt-hunter) - ⭐ 427 / 将Midjourney详情页面的提示和图片保存到您的Notion页面中。
- * 🟡 [chatbox](https://github.com/bin-huang/chatbox) - ⭐ 38k / 一个支持Windows、Mac和Linux的ChatGPT API（OpenAI API）桌面应用程序。这是一个开源的应用程序，使用prompt开发工具，可以在所有平台上使用，只需下载安装包即可。
+ * 🟢 [chatbox](https://github.com/bin-huang/chatbox) - ⭐ 38k / 一个支持Windows、Mac和Linux的ChatGPT API（OpenAI API）桌面应用程序。这是一个开源的应用程序，使用prompt开发工具，可以在所有平台上使用，只需下载安装包即可。
  * 🟢 [ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut) - ⭐ 6.4k / 最大化你的效率和生产力。ChatGPT快捷指令可以让你的生产力翻倍，按领域和功能分区，可以对提示词进行标签筛选、关键词搜索和一键复制。
  * 🔴 [promptable](https://github.com/cfortuner/promptable) - ⭐ 1.8k / 使用Typescript/Javascript构建LLM应用程序。🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
  * 🟡 [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/chatgpt3-free-prompt-list) - ⭐ 2.3k / 一个免费的指南，教你学习创建ChatGPT3提示。
@@ -162,7 +176,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [soren](https://github.com/jacksonmills/soren) - ⭐ 10 / SorenCAI是一款人工智能软件工程师助手提示。
  * 🔴 [chatbot-injections-exploits](https://github.com/cranot/chatbot-injections-exploits) - ⭐ 381 / 聊天机器人注入和利用示例：一份策划的工程师命令列表 - ChatGPT
  * 🟢 [ai-notes](https://github.com/sw-yx/ai-notes) - ⭐ 6.1k / 软件工程师了解新的人工智能发展的笔记。作为 lspace.swyx.io 写作和产品头脑风暴的数据存储，但在 /资源文件夹下整理了干净的规范参考资料。
- * 🔴 [squidgy-prompts](https://github.com/squidgyai/squidgy-prompts) - ⭐ 27 / 有没有#langtwt的人对#gpt3 / #chatgpt和语言学习感兴趣？我们刚刚发布了一组开源提示，帮助学习者构建卡组、挖掘句子、纠正语法、玩单词游戏等等。可以单独使用或在@squidgiesapp中使用。
+ * 🔴 [squidgy-prompts](https://github.com/squidgyai/squidgy-prompts) - ⭐ 27 / #chatgpt和语言学习感兴趣？我们刚刚发布了一组开源提示，帮助学习者构建卡组、挖掘句子、纠正语法、玩单词游戏等等。可以单独使用或在@squidgiesapp中使用。
  * 🔴 [ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan) - ⭐ 10k / ChatGPT DAN，越狱提示
  * 🔴 [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - ⭐ 247 / ChatGPT的50个用例研究工作
  * 🟢 [FinGPT](https://github.com/ai4finance-foundation/fingpt) - ⭐ 18k / 开源开放金融！革命🔥
@@ -188,7 +202,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - ⭐ 9.6k / 介绍 `gpt-prompt-engineer` ✍️ 一个能够创建最佳 GPT 提示的代理。只需描述任务，一系列 AI 系统将会：- 生成许多可能的提示- 在排名比赛中测试它们- 返回最佳提示。而且它是开源的：
  * 🔴 [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - ⭐ 150 / 来自DeepLearning.ai的ChatGPT Prompt Engineering for Developers的笔记总结ChatGPT Prompt Engineering for Developers的笔记总结
  * 🔴 [gpt-runner](https://github.com/nicepkg/gpt-runner) - ⭐ 371 / 与您的文件对话！管理和运行您的AI预设！
- * 🟡 [promptmap](https://github.com/utkusen/promptmap) - ⭐ 1.1k / 自动测试ChatGPT实例上的提示注入攻击。
+ * 🟢 [promptmap](https://github.com/utkusen/promptmap) - ⭐ 1.1k / 自动测试ChatGPT实例上的提示注入攻击。
  * 🟢 [IntelliNode](https://github.com/barqawiz/intellinode) - ⭐ 271 / 通过统一的提示层和性能评估，访问最新的AI模型，如ChatGPT、LLaMA、Stable Diffusion、WaveNet等等。
  * 🔴 [tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - ⭐ 807 / 使用思维树提示来提升ChatGPT的推理能力
  * 🟡 [chatGPT-prompt-scripts](https://github.com/wincheshe/chatgpt-prompt-scripts) - ⭐ 31 / 油猴 chatgpt Prompt 脚本插件，在chatgpt聊天框导入Prompt 对话框油猴 chatgpt Prompt 脚本插件，将Prompt对话框导入到chatgpt聊天框中。
@@ -208,14 +222,14 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - ⭐ 334 / 分门别类的 ChatGPT 中文引导语大全。
  * 🔴 [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - ⭐ 96 / 来自aiprm社区的两千多个ChatGPT提示，使用GPT3.5的API完成的中文翻译
  * 🟢 [botpress](https://github.com/botpress/botpress) - ⭐ 14k / 构建和部署GPT/LLM代理的开源中心 ⚡️
- * 🟡 [promptflow](https://github.com/microsoft/promptflow) - ⭐ 11k / 构建高质量的LLM应用程序-从原型设计、测试到生产部署和监控。
+ * 🟢 [promptflow](https://github.com/microsoft/promptflow) - ⭐ 11k / 构建高质量的LLM应用程序-从原型设计、测试到生产部署和监控。
  * 🟢 [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 103k / 12个课程，开始使用生成式人工智能构建  🔗 https://microsoft.github.io/generative-ai-for-beginners/
  * 🟡 [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - ⭐ 4.6k / 插入并播放思维树的实现：通过大型语言模型进行有意识的问题解决，将模型推理提升至至少70%。
  * 🟡 [Learn_Prompting](https://github.com/trigaten/learn_prompting) - ⭐ 4.6k / Prompt Engineering，生成式人工智能和LLM指南由Learn Prompting提供 | 加入我们的Discord，成为最大的Prompt Engineering学习社区的一员。
  * 🟢 [DecryptPrompt](https://github.com/dsxiangli/decryptprompt) - ⭐ 3.3k / 总结Prompt&LLM论文，开源数据&模型，AIGC应用
  * 🟢 [magentic](https://github.com/jackmpcollins/magentic) - ⭐ 2.4k / 无缝地将LLMs集成为Python函数
- * 🟡 [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - ⭐ 9.9k / 存储所有代理人的系统提示
- * 🟡 [LangGPT](https://github.com/embraceagi/langgpt) - ⭐ 11k / LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT的语言，结构化提示
+ * 🟢 [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - ⭐ 9.9k / 存储所有代理人的系统提示
+ * 🟢 [LangGPT](https://github.com/embraceagi/langgpt) - ⭐ 11k / LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT的语言，结构化提示
  * 🔴 [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - ⭐ 4.1k / 这个写作提示列表涵盖了各种主题和任务，包括头脑风暴研究想法，改善语言和风格，进行文献综述，以及制定研究计划。
  * 🔴 [self-refine](https://github.com/madaan/self-refine) - ⭐ 757 / LLMs可以对他们的工作产生反馈，利用它来改进输出，并反复进行这个过程。
  * 🔴 [GPTs](https://github.com/linexjlin/gpts) - ⭐ 32k / 泄露的GPT提示
@@ -224,7 +238,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - ⭐ 940 / 从BERT到GPT-4的Transformer模型，从Hugging Face到OpenAI的环境。微调、训练和提示工程示例。附加部分包括ChatGPT、GPT-3.5-turbo、GPT-4和DALL-E，包括启动GPT-4、语音转文本、文本转语音、使用DALL-E生成图像的文本等。Google Cloud AI、HuggingGPT等等。
  * 🟢 [llm-guard](https://github.com/laiyer-ai/llm-guard) - ⭐ 2.3k / LLM互动安全工具包
  * 🟡 [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - ⭐ 989 / ACL2023论文《使用语言模型提示进行推理：一项调查》的存储库。
- * 🟡 [knowledge](https://github.com/knowledgecanvas/knowledge) - ⭐ 1.5k / 知识是一个用于保存、搜索、访问、探索和与您所有喜爱的网站、文档和文件聊天的工具。
+ * 🟢 [knowledge](https://github.com/knowledgecanvas/knowledge) - ⭐ 1.5k / 知识是一个用于保存、搜索、访问、探索和与您所有喜爱的网站、文档和文件聊天的工具。
  * 🟢 [promptfoo](https://github.com/promptfoo/promptfoo) - ⭐ 9.3k / 测试您的提示、模型和RAGs。评估和比较LLM的输出，捕捉回归，并提高提示质量。LLM评估适用于OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama，以及像Mistral/Mixtral/Llama这样的本地和私有模型，配备CI/CD。
  * 🟢 [swarms](https://github.com/kyegomez/swarms) - ⭐ 5.5k / 构建、部署和扩展可靠的自主代理群，用于工作流自动化。加入我们的社区：https://discord.gg/DbjBMJTSWD
  * 🔴 [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - ⭐ 541 / 这里是GPTStore上的前100个提示，我们可以用来学习和改进提示工程。
@@ -239,11 +253,11 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - ⭐ 1.3k / 聊天GPT、提示、LLM
  * 🔴 [chatdev](https://github.com/10cl/chatdev) - ⭐ 577 / ChatDev IDE 是一个用于构建您的 AI 代理的工具，无论是游戏中的 NPC 还是强大的代理工具，您都可以在这个平台上设计您想要的内容。
  * 🟡 [contoso-chat](https://github.com/azure-samples/contoso-chat) - ⭐ 751 / 这个样本包含了使用Prompt Flow和AI Studio创建RAG应用程序的完整End2End流程。它包括GPT 3.5 Turbo LLM应用程序代码、评估、使用AZD CLI进行部署自动化、GitHub操作进行评估和部署以及意图管理。
- * 🟡 [LangGPT](https://github.com/langgptai/langgpt) - ⭐ 11k / LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT语言，结构化Prompt
+ * 🟢 [LangGPT](https://github.com/langgptai/langgpt) - ⭐ 11k / LangGPT：让每个人都成为提示专家！🚀 结构化提示词，GPT语言，结构化Prompt
  * 🟡 [AISuperDomain](https://github.com/win4r/aisuperdomain) - ⭐ 1.6k / Aila(AI超元域): 适用于Windows、macOS和Android的首选AI集成工具。只需询问一次，即可从ChatGPT、Gemini、Claude3、Copilot、Poe、perplexity等10多个AI中获取答案。具有可定制的AI和提示功能。
  * 🟢 [code2prompt](https://github.com/mufeedvh/code2prompt) - ⭐ 6.8k / 一个CLI工具，可以将您的代码库转换为一个带有源树、提示模板和令牌计数的单个LLM提示。
  * 🟡 [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - ⭐ 1.5k / 适用于GPT-4、Claude、Llama3、Gemini等高性能开源LLM的高级代码和文本操作提示。
- * 🟡 [zzz-api](https://github.com/xing61/zzz-api) - ⭐ 856 / 优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api代理，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要购买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
+ * 🟢 [zzz-api](https://github.com/xing61/zzz-api) - ⭐ 856 / 优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api代理，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要购买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增
  * 🟡 [EasyInstruct](https://github.com/zjunlp/easyinstruct) - ⭐ 408 / [ACL 2024] 一种用于LLMs的易于使用的指令处理框架。
  * 🟢 [FinRobot](https://github.com/ai4finance-foundation/finrobot) - ⭐ 4.7k / FinRobot：一个使用LLMs的金融应用程序的开源AI代理平台 🚀 🚀 🚀
  * 🟢 [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - ⭐ 5.2k / 🔥精选中文提示🔥，ChatGPT 使用指南，提升 ChatGPT 的趣味性和易用性！🚀
@@ -270,10 +284,10 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [lunary](https://github.com/lunary-ai/lunary) - ⭐ repo not found / LLM的生产工具包。可观察性，提示管理和评估。
  * 🟡 [pezzo](https://github.com/pezzolabs/pezzo) - ⭐ 3.2k / 🕹️ 开源、以开发者为先的LLMOps平台，旨在简化提示设计、版本管理、即时交付、协作、故障排除、可观察性等功能。
  * 🟢 [archgw](https://github.com/katanemo/archgw) - ⭐ 4.5k / Arch是代理的智能网关。 使用（快速）LLMs进行工程设计，用于安全处理，丰富的可观察性，并将提示与您的API无缝集成 - 所有这些都在业务逻辑之外。 由Envoy代理的核心贡献者在Envoy上构建。
- * 🟡 [openlit](https://github.com/openlit/openlit) - ⭐ 2.1k / AI工程的开源平台：OpenTelemetry原生LLM可观测性，GPU监控，防护栏，评估，提示管理，保险库，游乐场。🚀💻 与40多个LLM提供商，VectorDBs，代理框架和GPU集成。
+ * 🟢 [openlit](https://github.com/openlit/openlit) - ⭐ 2.1k / AI工程的开源平台：OpenTelemetry原生LLM可观测性，GPU监控，防护栏，评估，提示管理，保险库，游乐场。🚀💻 与40多个LLM提供商，VectorDBs，代理框架和GPU集成。
  * 🟡 [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - ⭐ 1.7k / 收集GPTS的提示
  * 🟢 [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - ⭐ 2.4k / 我自己的提示用于定制指令ChatGPT
- * 🟡 [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - ⭐ 708 / 🍰 PromptLayer - 记录您的提示和OpenAI API请求。跟踪、调试和重播旧的完成。
+ * 🟢 [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - ⭐ 708 / 🍰 PromptLayer - 记录您的提示和OpenAI API请求。跟踪、调试和重播旧的完成。
  * 🟢 [langwatch](https://github.com/langwatch/langwatch) - ⭐ 2.7k / 终极LLM Ops平台 - 监控，分析，评估，数据集和即时优化 ✨
  * 🟢 [phoenix](https://github.com/arize-ai/phoenix) - ⭐ 7.8k / 人工智能可观测性与评估
  * 🟡 [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - ⭐ 1.1k / DataDreamer：提示。生成合成数据。训练和对齐模型。🤖💤
@@ -284,7 +298,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - ⭐ 849 / 学习现代AI辅助Python与类型提示
  * 🟢 [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - ⭐ 12k / 系统提示：透明度对所有人
  * 🟡 [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - ⭐ 2.3k / 一个免费指南，教你如何创建ChatGPT3提示。
- * 🟡 [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ⭐ 24k / 从流行的聊天机器人（如ChatGPT、Claude和Gemini）中提取的系统提示集合输出：收集自ChatGPT、Claude和Gemini等流行聊天机器人的系统提示
+ * 🟢 [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ⭐ 24k / 从流行的聊天机器人（如ChatGPT、Claude和Gemini）中提取的系统提示集合输出：收集自ChatGPT、Claude和Gemini等流行聊天机器人的系统提示
  * 🟡 [fellow](https://github.com/manuelzierl/fellow) - ⭐ 5 / Fellow是一个命令行界面（CLI）工具，作为一个自主的软件工程助手。它使用OpenAI API来逐步推理，执行命令，以及记录活动日志来执行各种结构化任务。
  * 🟡 [just-prompt](https://github.com/disler/just-prompt) - ⭐ 686 / just-prompt是一个MCP服务器，为顶级LLM提供商（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek和Ollama）提供统一接口。
  * 🟢 [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ⭐ 390 / ChatGPT和Copilot等各种生成AI用的“日本语”提示的样本
@@ -332,7 +346,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - ⭐ 4.8k / gpt4all聊天机器人界面
  * 🔴 [yolopandas](https://github.com/ccurme/yolopandas) - ⭐ 200 / 在聊天中使用pandas操作非常方便。我已经向销售运营团队请求了“将fy23 q2某某公司的某某产品的销售数据制成图表”，现在我们可以使用这个工具轻松地从chatgpt中获取数据。
  * 🔴 [ChatDoctor](https://github.com/kent0n-li/chatdoctor) - ⭐ 3.6k / 医疗专用AI聊天机器人“chatdoctor”似乎正在使用chatgpt进行模型训练，据说全代码、数据集和模型权重将很快开源！
- * 🟡 [gpt4free](https://github.com/xtekky/gpt4free) - ⭐ 66k / 分散化AI行业，通过多个反向工程API（poe.com、phind.com、chat.openai.com、phind.com、writesonic.com、sqlchat.ai、t3nsor.com、you.com等）免费提供GPT-4/3.5脚本。
+ * 🟢 [gpt4free](https://github.com/xtekky/gpt4free) - ⭐ 66k / 分散化AI行业，通过多个反向工程API（poe.com、phind.com、chat.openai.com、phind.com、writesonic.com、sqlchat.ai、t3nsor.com、you.com等）免费提供GPT-4/3.5脚本。
  * 🟡 [Auto-GPT-ZH](https://github.com/kaqijiang/auto-gpt-zh) - ⭐ 2.5k / Auto-GPT中文版及爱好者组织同步更新原项目，AI领域创业，自媒体组织，利用AI工作、学习、创作并变现。
  * 🔴 [voice-generator-webui](https://github.com/log1stics/voice-generator-webui) - ⭐ 162 / 一个多说话人、多语言的语音生成工具
  * 🔴 [autogpt-telegram-chatbot](https://github.com/steamship-packages/autogpt-telegram-chatbot) - ⭐ 451 / 它来了！Autogpt适用于您的移动设备。通过Telegram与您自己的Autogpt版本进行通信。我们很自豪地开源这个项目。迫不及待地想看看我们将一起构建什么！
@@ -404,13 +418,13 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [ethgpt](https://github.com/jiayaoqijia/ethgpt) - ⭐ 70 / 以太坊代码库和文档的聊天机器人。
  * 🔴 [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - ⭐ 216 / 基于NodeJS的ChatGPT机器人现在在Telegram上拥有高级功能，如语音聊天和图像生成。
  * 🟡 [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - ⭐ 3.4k / 🤖 一个使用Python编写的Telegram机器人，集成了OpenAI官方的ChatGPT API，可以提供答案。
- * 🟡 [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - ⭐ 19k / 由Vercel Labs构建的全功能、可黑客的Next.js AI聊天机器人
+ * 🟢 [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - ⭐ 19k / 由Vercel Labs构建的全功能、可黑客的Next.js AI聊天机器人
  * 🟢 [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - ⭐ 53 / 🕶️ 为ChatGPT添加聊天自动清除功能，提供更多隐私保护。
  * 🟢 [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - ⭐ 181 / 🖥️ 为ChatGPT添加宽屏和全屏模式，以提供更好的观看体验。
- * 🟡 [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ⭐ 342 / ∞ 从全知的ChatGPT（以任何语言）生成无尽的答案！
+ * 🟢 [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ⭐ 342 / ∞ 从全知的ChatGPT（以任何语言）生成无尽的答案！
  * 🟢 [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ⭐ 207 / ↻ 保持ChatGPT会话的新鲜度以避免网络错误+ Cloudflare检查
  * 🟢 [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - ⭐ 521 / 🤖 利用ChatGPT的惊人能力或增强其用户体验的应用程序
- * 🟡 [embedchain](https://github.com/embedchain/embedchain) - ⭐ 44k / 使用框架轻松创建基于任何数据集的LLM强化机器人。
+ * 🟢 [embedchain](https://github.com/embedchain/embedchain) - ⭐ 44k / 使用框架轻松创建基于任何数据集的LLM强化机器人。
  * 🔴 [paper-summarizer](https://github.com/discus0434/paper-summarizer) - ⭐ 70 / 一个由OpenAI LLMs驱动的用于总结arXiv论文的Slack机器人。
  * 🔴 [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - ⭐ 777 / 一个由Vercel Labs和Supabase构建的功能齐全的、Supabaseified的Next.js AI聊天机器人。
  * 🔴 [llm-inference](https://github.com/aniketmaurya/llm-inference) - ⭐ 126 / 大型语言模型（LLM）推理API和聊天机器人
@@ -452,9 +466,9 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [wukong-robot](https://github.com/wzpan/wukong-robot) - ⭐ 7k / 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
  * 🟢 [autogen](https://github.com/microsoft/autogen) - ⭐ 52k / 启用下一代大型语言模型应用。加入我们的Discord：https://discord.gg/pAbnFJrkgZ
  * 🔴 [GPTDiscord](https://github.com/kav-k/gptdiscord) - ⭐ 1.9k / 一个强大的、一体化的Discord GPT界面。ChatGPT风格的对话、图像生成、AI-审查、自定义索引/知识库、YouTube摘要生成等等！
- * 🟡 [BotSharp](https://github.com/scisharp/botsharp) - ⭐ 2.9k / AI代理应用程序框架在.NET中
+ * 🟢 [BotSharp](https://github.com/scisharp/botsharp) - ⭐ 2.9k / AI代理应用程序框架在.NET中
  * 🟢 [anything-llm](https://github.com/mintplex-labs/anything-llm) - ⭐ 52k / 开源的ChatGPT等效体验，适用于开源和闭源的LLMs、嵌入器和向量数据库。支持无限的文档、线程和并发用户，并在非常清晰的用户界面中进行管理。
- * 🟡 [magic](https://github.com/polterguy/magic) - ⭐ 1.1k / 创建一个基于ChatGPT的定制网站聊天机器人
+ * 🟢 [magic](https://github.com/polterguy/magic) - ⭐ 1.1k / 创建一个基于ChatGPT的定制网站聊天机器人
  * 🔴 [rags](https://github.com/run-llama/rags) - ⭐ 6.5k / 使用您的数据构建ChatGPT，全部使用自然语言。
  * 🟢 [LLamaSharp](https://github.com/scisharp/llamasharp) - ⭐ 3.5k / 在C#中轻松快速地运行LLaMA/GPT模型！🤗 同时，将LLamaSharp与语义内核、Unity、WPF和WebApp集成也很容易。
  * 🔴 [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - ⭐ 1.6k / 使用助手API创建自定义GPT并将其添加/嵌入到您的网站上创建自定义GPT并使用助手API将其添加/嵌入到您的网站上。
@@ -465,7 +479,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - ⭐ 2.5k / 【官方实施】mPLUG-Owl和mPLUG-Owl2：阿里巴巴MLLM家族。
  * 🟡 [AstrBot](https://github.com/soulter/astrbot) - ⭐ repo not found / ⭐ 可用于 QQ 和 QQ 频道的 ChatGPT、Bing、Claude、HuggingChat 机器人，支持插件 | 原 QQChannelChatGPT
  * 🟢 [casibase](https://github.com/casibase/casibase) - ⭐ 4.3k / ⚡️开源的类LangChain AI知识数据库，具有Web界面和企业SSO⚡️，支持OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM和本地模型，聊天演示：https://ai.casbin.com，管理员门户演示：https://ai.casibase.com
- * 🟡 [ai-chatbot](https://github.com/vercel/ai-chatbot) - ⭐ 19k / 一个由Vercel构建的功能齐全、可修改的Next.js AI聊天机器人。
+ * 🟢 [ai-chatbot](https://github.com/vercel/ai-chatbot) - ⭐ 19k / 一个由Vercel构建的功能齐全、可修改的Next.js AI聊天机器人。
  * 🔴 [ChatPDF](https://github.com/anil-matcha/chatpdf) - ⭐ 1.5k / 与任何PDF进行聊天。轻松上传您想要与之聊天的PDF文档。即时回答。使用人工智能提问、提取信息和总结文档。包含来源。
  * 🔴 [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - ⭐ 410 / 一个使用OpenAI API助手构建聊天机器人的开源平台。
  * 🟡 [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - ⭐ 1.6k / Aria是由GPT大型语言模型驱动的AI研究助手。
@@ -484,18 +498,18 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [bidara](https://github.com/nasa-petal/bidara) - ⭐ 445 / BIDARA是一个GPT-4聊天机器人，被指示帮助科学家和工程师理解、学习并模仿生物利用仿生学研究所的逐步设计过程来创造可持续设计和技术的策略。
  * 🔴 [sagittarius](https://github.com/gregsadetsky/sagittarius) - ⭐ 685 / 一个GPT-4/Gemini语音/视频探索工具
  * 🔴 [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - ⭐ 1.2k / 这个仓库包含两个Python脚本，演示了如何使用Streamlit、OpenAI GPT-3.5-turbo和Activeloop的Deep Lake创建一个聊天机器人。
- * 🟢 [pandas-ai](https://github.com/gventuri/pandas-ai) - ⭐ 23k / 使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
+ * 🟢 [pandas-ai](https://github.com/gventuri/pandas-ai) - ⭐ 23k / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
  * 🟡 [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) - ⭐ 17k / 🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送 | 支持 QQ、Telegram、Discord、微信 等平台
- * 🟡 [quivr](https://github.com/quivrhq/quivr) - ⭐ 39k / 您的GenAI第二大脑🧠 个人生产力助手（RAG）⚡️🤖 通过Langchain、GPT 3.5 / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMs与您的文档（PDF、CSV等）和应用进行交流，您可以与用户共享！这是OpenAI GPTs和ChatGPT的本地和私密替代方案，由检索增强生成技术驱动。
- * 🟡 [smalltalk](https://github.com/tinystruct/smalltalk) - ⭐ 356 / 一个基于tinystruct的聊天模块，与@OpenAI GPT-3 / 3.5-turbo / ChatGPT集成。@tinystruct
- * 🟡 [maid](https://github.com/mobile-artificial-intelligence/maid) - ⭐ 2.2k / Maid是一个跨平台的Flutter应用程序，用于本地与GGUF / llama.cpp模型进行交互，并与Ollama和OpenAI模型进行远程交互。
- * 🟢 [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - ⭐ 23k / 使用您的数据进行聊天（SQL、CSV、pandas、polars、noSQL等）。PandasAI利用LLMs（GPT 3.5 / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
+ * 🟡 [quivr](https://github.com/quivrhq/quivr) - ⭐ 39k / 4 turbo、Private、Anthropic、VertexAI、Ollama、LLMs与您的文档（PDF、CSV等）和应用进行交流，您可以与用户共享！这是OpenAI GPTs和ChatGPT的本地和私密替代方案，由检索增强生成技术驱动。
+ * 🟡 [smalltalk](https://github.com/tinystruct/smalltalk) - ⭐ 356 / ChatGPT集成。@tinystruct
+ * 🟡 [maid](https://github.com/mobile-artificial-intelligence/maid) - ⭐ 2.2k / llama.cpp模型进行交互，并与Ollama和OpenAI模型进行远程交互。
+ * 🟢 [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - ⭐ 23k / 4、Anthropic、VertexAI）和RAG使数据分析变得对话化。
  * 🟡 [WeChatRobot](https://github.com/lich0821/wechatrobot) - ⭐ 1.9k / 微信机器人，接入Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbot；成语接龙、天气预报、新闻摘要。
  * 🔴 [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - ⭐ 459 / 这个自动博客使用GPT助手的API在电子商务网站上自动博客
  * 🟡 [chaty](https://github.com/cosin2077/chaty) - ⭐ 449 / 一行代码，满足你所有的ChatGPT想象✨✨✨
  * 🟢 [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - ⭐ 2.4k / 智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、个微、公众号、5G 消息、WhatsApp。
  * 🟡 [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - ⭐ 648 / 一个具有流畅人工智能体验的Telegram机器人。
- * 🟢 [nlux](https://github.com/nluxai/nlux) - ⭐ 1.3k / 用于构建对话人工智能界面的开源React / Javascript库
+ * 🟢 [nlux](https://github.com/nluxai/nlux) - ⭐ 1.3k / Javascript库
  * 🔴 [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - ⭐ 1.7k / 这是一个允许您将ChatGPT集成到Line中的存储库。
  * 🔴 [langup-ai](https://github.com/jiran214/langup-ai) - ⭐ 692 / AGI社交网络机器人。BiliBili | 直播聊天数字人 | 视频@自动回复 | 私信机器人 | 终端聊天 | 语音交互
  * 🔴 [customizable-gpt-chatbot](https://github.com/shamspias/customizable-gpt-chatbot) - ⭐ 394 / 使用Django REST框架构建的动态、可扩展的AI聊天机器人，支持从PDF、文档、网站和YouTube视频进行定制培训。利用OpenAI的GPT-3.5、Pinecone、FAISS和Celery实现无缝集成和高性能。
@@ -543,9 +557,9 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [ChatGPT](https://github.com/nisabmohd/chatgpt) - ⭐ 350 / 我使用Next.js 14、Shadcn-UI、Prisma ORM开发了一个ChatGPT克隆版本，并将其与OpenAI API集成。它提供了一个用户友好的对话人工智能体验。
  * 🔴 [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - ⭐ 243 / 使用Python Flask为Vercel创建GPT-Linebot
  * 🔴 [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - ⭐ 247 / 一个适用于GPT-SoVITS的comfyui自定义节点！现在你可以在comfyui中进行语音克隆和文字转语音。
- * 🟡 [slack-bot](https://github.com/innogames/slack-bot) - ⭐ 203 / 准备好使用的Slack机器人，为懒惰的开发人员：启动Jenkins作业，监视Jira工单，监视拉取请求并支持人工智能...
+ * 🟢 [slack-bot](https://github.com/innogames/slack-bot) - ⭐ 203 / 准备好使用的Slack机器人，为懒惰的开发人员：启动Jenkins作业，监视Jira工单，监视拉取请求并支持人工智能...
  * 🟡 [psychic](https://github.com/finic-ai/psychic) - ⭐ repo not found / 为LLMs设计的数据集成平台。使用一键式授权连接SaaS工具，并从N个数据源同步文档，只需一次集成。
- * 🟡 [repopack](https://github.com/yamadashy/repopack) - ⭐ 20k / 📦 Repopack 是一个强大的工具，可以将您的整个代码库打包成一个单一的、友好于人工智能的文件。非常适合当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时使用。
+ * 🟢 [repopack](https://github.com/yamadashy/repopack) - ⭐ 20k / 📦 Repopack 是一个强大的工具，可以将您的整个代码库打包成一个单一的、友好于人工智能的文件。非常适合当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时使用。
  * 🟡 [finic](https://github.com/finic-ai/finic) - ⭐ repo not found / 为LLMs提供的数据集成平台。使用一键式授权连接到SaaS工具，并从N个数据源同步文档，只需进行一次集成。
  * 🟢 [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - ⭐ 725 / 一个支持任何OpenAI兼容API的Discord LLM聊天机器人（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studio等）。
  * 🟢 [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - ⭐ 386 / 将AI助手与Django集成，构建智能应用程序
@@ -556,8 +570,8 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - ⭐ 1.5k / AI驱动的研究助手：一种先进的多智能体系统，用于自动化复杂的研究过程。利用LangChain、OpenAI GPT和LangGraph，这个工具简化了假设生成、数据分析、可视化和报告撰写。完美。
  * 🟡 [lobe-vidol](https://github.com/lobehub/lobe-vidol) - ⭐ 861 / 🧸 洛贝维多尔 - 让虚拟偶像为每个人所能接触
  * 🟡 [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - ⭐ 425 / RLAIF-V：通过开源AI反馈对齐MLLMs，提高Super GPT-4V的可信度
- * 🟡 [builderbot](https://github.com/codigoencasa/builderbot) - ⭐ 2.9k / 🤖 在几分钟内创建WhatsApp聊天机器人。加入这个开源项目
- * 🟡 [hey](https://github.com/lnxpy/hey) - ⭐ 238 / 💬 人工智能驱动的编程伙伴！
+ * 🟢 [builderbot](https://github.com/codigoencasa/builderbot) - ⭐ 2.9k / 🤖 在几分钟内创建WhatsApp聊天机器人。加入这个开源项目
+ * 🟢 [hey](https://github.com/lnxpy/hey) - ⭐ 238 / 💬 人工智能驱动的编程伙伴！
  * 🔴 [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - ⭐ 1.1k / 使用Selenium和Seleniumwire（Python）的开源批量自动Gmail创建机器人。欢迎与我联系，涉及Django/Flask，机器学习，人工智能，GPT，自动化，网页抓取。
  * 🟢 [design-studio](https://github.com/tiledesk/design-studio) - ⭐ 427 / Tiledesk的开源可视化、无代码设计师，LLM/GPT AI与灵活的“图形”方法相结合。轻松创建对话和自动化 - 一种Voiceflow和Botpress的替代方案。
  * 🔴 [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - ⭐ 174 / 与ChatGPT进行一次对话。随意🔈 🤖 ⚡️
@@ -568,12 +582,12 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - ⭐ 587 / AI-in-a-Box利用微软在全球范围内的专业知识，为技术社区开发和提供人工智能和机器学习解决方案。我们的目的是提供精心策划的解决方案加速器集合，帮助工程师建立他们的人工智能/机器学习。
  * 🟡 [Starmoon](https://github.com/starmoonai/starmoon) - ⭐ 542 / 一个开源的语音启用、紪恻AI硬件+软件🤖框架，用于陪伴、娱乐、教育、儿科护理、物联网机器人应用、AI增强机器人应用服务、研究和DIY机器人套件开发。
  * 🟢 [LocalAI](https://github.com/mudler/localai) - ⭐ 40k / 🤖 免费、开源的替代OpenAI、Claude等人工智能的选择。支持自托管和本地优先。可直接替代OpenAI，在消费级硬件上运行。无需GPU。支持gguf、transformers、diffusers等多种模型架构。
- * 🟡 [bisheng](https://github.com/dataelement/bisheng) - ⭐ 10k / BISHENG是一个开放的LLM devops平台，用于下一代企业AI应用程序。强大而全面的功能包括：GenAI工作流程，RAG，Agent，统一模型管理，评估，SFT，数据集管理，企业级系统管理。
+ * 🟢 [bisheng](https://github.com/dataelement/bisheng) - ⭐ 10k / BISHENG是一个开放的LLM devops平台，用于下一代企业AI应用程序。强大而全面的功能包括：GenAI工作流程，RAG，Agent，统一模型管理，评估，SFT，数据集管理，企业级系统管理。
  * 🟢 [agency-swarm](https://github.com/vrsen/agency-swarm) - ⭐ 3.9k / 建立在最新的OpenAI助手API之上的唯一可靠的代理框架。
  * 🟢 [ragflow](https://github.com/infiniflow/ragflow) - ⭐ 69k / RAGFlow是一个基于深度文档理解的开源RAG（检索增强生成）引擎。
  * 🟢 [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - ⭐ 3k / 为您的LLM应用程序提供数据框架。专注于服务器端解决方案。
- * 🟡 [repomix](https://github.com/yamadashy/repomix) - ⭐ 20k / 📦 Repomix（原名Repopack）是一个强大的工具，可以将您的整个代码库打包成一个单一的、适合人工智能的文件。当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时，这个工具非常适用。
- * 🟢 [LangBot](https://github.com/rockchinq/langbot) - ⭐ 14k / 原名 QChatGPT；😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama、dify 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
+ * 🟢 [repomix](https://github.com/yamadashy/repomix) - ⭐ 20k / 📦 Repomix（原名Repopack）是一个强大的工具，可以将您的整个代码库打包成一个单一的、适合人工智能的文件。当您需要将您的代码库提供给大型语言模型（LLMs）或其他人工智能工具，如Claude、ChatGPT和Gemini时，这个工具非常适用。
+ * 🟢 [LangBot](https://github.com/rockchinq/langbot) - ⭐ 14k / Agent 平台
  * 🟢 [open-im-server](https://github.com/openimsdk/open-im-server) - ⭐ 15k / IM 聊天 ChatGPT
  * 🟢 [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - ⭐ 1.4k / 使用AWS CDK在AWS上部署一个由多个LLM和多个RAG驱动的聊天机器人（Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistral）的模块化和全面解决方案。
  * 🟢 [podcastfy](https://github.com/souzatharsis/podcastfy) - ⭐ 5.7k / 一个开源的Python替代方案，用于将多模态内容转化为引人入胜的多语言音频对话，与GenAI一起。
@@ -591,7 +605,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [Upsonic](https://github.com/upsonic/upsonic) - ⭐ 7.7k / 我们没有任何加密项目，也不会有任何加密项目，它们都是彻头彻尾的骗局 | 面向任务的AI代理框架，用于数字工作者和垂直AI代理
  * 🟡 [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - ⭐ 2.1k / 一个具有自然语言理解和人工智能的Python聊天机器人框架。
  * 🟡 [ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - ⭐ 16k / LangChain和LangGraph AI聊天机器人适用于大型PDF文档
- * 🟡 [witsy](https://github.com/nbonamy/witsy) - ⭐ 1.8k / Witsy：桌面人工智能助手
+ * 🟢 [witsy](https://github.com/nbonamy/witsy) - ⭐ 1.8k / Witsy：桌面人工智能助手
  * 🟡 [deep-research-web-ui](https://github.com/anotiawang/deep-research-web-ui) - ⭐ 2.1k / （支持DeepSeek R1）一款由人工智能驱动的研究助手，通过结合搜索引擎、网络爬虫和大型语言模型，在任何主题上进行迭代、深入的研究。
  * 🟢 [voice-pro](https://github.com/abus-aikorea/voice-pro) - ⭐ 5.2k / Gradio WebUI用于音频处理，由Whisper（OpenAI-Whisper，Faster-Whisper，Whisper-Timestamped）提供支持。功能包括声音变声器（RVC），零样本语音克隆（E2，F5-TTS，CosyVoice），YouTube下载，声音隔离（UVR5），文本转语音（Edge-TTS）。
  * 🟢 [hollama](https://github.com/fmaclen/hollama) - ⭐ 1k / 一个用于与Ollama（和OpenAI）服务器交流的最简化网络用户界面
@@ -611,7 +625,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - ⭐ 809 / AI聊天机器人🤖，可与CSV、PDF、TXT文件📄和YTB视频🎥进行交流 | 使用Langchain🦜 | OpenAI | Streamlit ⚡
  * 🟢 [bytebot](https://github.com/bytebot-ai/bytebot) - ⭐ 9.9k / Bytebot是桌面代理的容器。
  * 🟢 [agentica](https://github.com/wrtnlabs/agentica) - ⭐ 970 / TypeScript AI框架专门针对AI功能调用进行了编译器技能增强。
- * 🟡 [ElatoAI](https://github.com/akdeb/elatoai) - ⭐ 1.3k / 使用OpenAI Realtime API在Arduino ESP32上实现实时AI语音，配合安全的Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。
+ * 🟢 [ElatoAI](https://github.com/akdeb/elatoai) - ⭐ 1.3k / 使用OpenAI Realtime API在Arduino ESP32上实现实时AI语音，配合安全的Websockets和Deno边缘功能，全球范围内实现超过10分钟的不间断对话，适用于AI玩具、AI伴侣、AI设备等。
  * 🟢 [agent-squad](https://github.com/awslabs/agent-squad) - ⭐ 7.1k / 灵活而强大的框架，用于管理多个AI代理并处理复杂对话。
  * 🟡 [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - ⭐ 783 / 🤖功能丰富的微信机器人框架 | AI对话、对接Dify、积分系统、游戏互动、每日新闻、天气查询 | 非Hook非Web实现 | 支持 Windows✅ Linux✅ MacOS✅ | 全新架构解决XYBot第一代痛点！
  * 🟢 [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ⭐ 2.1k / 将MCP带到ChatGPT，Perplexity，Grok，Gemini，Google AI Studio，OpenRouter等等...
@@ -623,12 +637,12 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [agents-flex](https://github.com/agents-flex/agents-flex) - ⭐ 575 / Agents-Flex是一款优雅的LLM应用框架，类似于Java的LangChain。
  * 🟢 [openai-agents-js](https://github.com/openai/openai-agents-js) - ⭐ 2k / 一个轻量级、强大的框架，用于多代理工作流和语音代理。
  * 🟢 [atom](https://github.com/rush86999/atom) - ⭐ 651 / 原子代理，您的个人助手，用于时间、任务、笔记和研究。
- * 🟡 [Narratium.ai](https://github.com/narratium/narratium.ai) - ⭐ 779 / 开源平台，用于基于人工智能的叙事、世界构建和沉浸式角色扮演。
+ * 🟢 [Narratium.ai](https://github.com/narratium/narratium.ai) - ⭐ 779 / 开源平台，用于基于人工智能的叙事、世界构建和沉浸式角色扮演。
  * 🟢 [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - ⭐ 636 / 这个定制的Home Assistant集成会自动扫描您的实体，检测新设备，并使用人工智能（通过云和本地API）来建议定制的自动化。它支持多个人工智能提供商，包括OpenAI、Anthropic、Google、Groq、Ollama等。
  * 🟢 [ttsfm](https://github.com/dbccccccc/ttsfm) - ⭐ 708 / TTSFM镜像OpenAI的TTS服务，为文本转语音提供兼容接口，提供多种免费语音选项。
  * 🟢 [macai](https://github.com/renset/macai) - ⭐ 765 / 一体化的原生macOS AI聊天应用程序：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter，以及所有兼容Open AI的API服务。
  * 🟡 [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - ⭐ 613 / 高性能的文本到语音服务器，具有兼容OpenAI API、8种语音、情感标签和现代Web用户界面。 优化适用于RTX GPU。
- * 🟢 [LangBot](https://github.com/langbot-app/langbot) - ⭐ 14k / 🤩 为LLM时代设计的易于使用的全球即时通信机器人平台 / 简单易用的大模型即时通信机器人开发平台 ⚡️ QQ / QQ频道 / Discord / 企业微信、个人微信 / Telegram / 飞书 / 钉钉 / Slack 🧩 集成了ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic
+ * 🟢 [LangBot](https://github.com/langbot-app/langbot) - ⭐ 14k / Slack 🧩 集成了ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silic
  * 🟡 [open-codex](https://github.com/codingmoh/open-codex) - ⭐ 653 / 完全开源的命令行人工智能助手，灵感来自OpenAI Codex，支持本地语言模型。
  * 🟢 [MuseBot](https://github.com/yincongcyincong/musebot) - ⭐ 1.4k / 支持Telegram、Discord、Slack、Lark、企业微信等多个平台的AI聊天机器人，兼容多种LLM模型，包括OpenAI、Gemini、DeepSeek、Doubao和OpenRouter。提供智能对话、图像生成、视频创作等功能。能够无缝运行。
  * 🟢 [nekro-agent](https://github.com/kromiose/nekro-agent) - ⭐ 613 / 一个由LLM代码生成驱动的可扩展多人互动代理框架：支持QQ、Discord、Minecraft、哔哩哔哩直播、SSE(SDK)等跨平台聊天机器人。具有沙盒驱动、可视化、高扩展、多模态功能。
@@ -637,7 +651,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - ⭐ 817 / Angular 20全栈启动器与Node.js（JavaScript和TypeScript），Spring Boot和AI（LLM，语音，播客）。 包括SSR，PWA，REST API，Docker和CI/CD管道。
  * 🟢 [WeKnora](https://github.com/tencent/weknora) - ⭐ 7.7k / LLM 强化的框架，用于深度文档理解、语义检索和上下文感知答案，采用 RAG 范式。
  * 🟢 [aiavatarkit](https://github.com/uezo/aiavatarkit) - ⭐ 450 / 🥰 构建基于人工智能的对话化头像，速度快如闪电 ⚡️💬
- * 🟡 [sparka](https://github.com/franciscomoretti/sparka) - ⭐ 816 / AI聊天 - Claude，ChatGPT，Gemini和Grok。高级功能，开源，可投入生产。
+ * 🟢 [sparka](https://github.com/franciscomoretti/sparka) - ⭐ 816 / AI聊天 - Claude，ChatGPT，Gemini和Grok。高级功能，开源，可投入生产。
  * 🟢 [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - ⭐ 484 / 💭一个可二次开发的Chat Bot单轮对话Web端MVP原型模板，基于Vue 3，Vite7，TypeScript，Naive UI，Pinia(v3)，UnoCSS等主流技术构建，🧤简单集成大模型API，采用单轮AI问答对话模式，每次提问独立响应，无需上下文，支持SSE打字机效果流式输出，集成markdown-it Mermaid/KaTex/LaTex公式高亮预览，星火，智谱，硅基流动，Deepseek V3/R1深度思考推理模型预览。
  * 🟢 [TuyaOpen](https://github.com/tuya/tuyaopen) - ⭐ 1.1k / 下一代T2/T3/T5AI/ESP32等的AI+IoT框架-快速IoT和AI代理硬件集成
  * 🟢 [bagel](https://github.com/extelligence-ai/bagel) - ⭐ 363 / 使用MCP和LLMs了解机器人技术和无人机数据。ChatGPT用于物理人工智能。
@@ -655,7 +669,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - ⭐ 694 / 使用Next.js、LangChain、PostgreSQL + pgvector构建的AI驱动文档分析平台。上传、整理和与文档交流。包括预测性缺失文档检测、基于角色的工作流程和页面级洞察提取。
  * 🟢 [open-whispr](https://github.com/herotools/open-whispr) - ⭐ 458 / 语音转文本的应用程序，具有本地Whisper模型和OpenAI API。隐私优先，跨平台，全球热键激活。
  * 🟢 [AetherLink](https://github.com/1600822305/aetherlink) - ⭐ 229 / AetherLink是一个跨平台的AI助手应用程序，支持多个主流AI模型（OpenAI，Google Gemini，Anthropic Claude，Grok等）。 使用React，TypeScript和Capacitor构建，提供无缝的对话体验。 主要功能包括：
- * 🟡 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 234 / 使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作为VectorDB的对话代理的FastAPI后端
+ * 🟢 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 234 / 使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作为VectorDB的对话代理的FastAPI后端
 
 
 ## Browser-extensions
@@ -668,9 +682,9 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [DAILA](https://github.com/mahaloz/daila) - ⭐ 645 / 一个反编译器统一插件，用于访问OpenAI API，以提高您的反编译体验。
  * 🔴 [regexplore](https://github.com/0xhasanm/regexplore) - ⭐ 17 / Regexplore是一款Volatility插件，旨在模仿EZsuite中的Registry Explorer插件的功能。
  * 🔴 [chat-todo-plugin](https://github.com/lencx/chat-todo-plugin) - ⭐ 258 / ✅ ChatGPT插件，用于管理待办事项列表
- * 🟡 [textual](https://github.com/textualize/textual) - ⭐ 33k / Textual是Python的快速应用程序开发框架。使用简单的Python API构建复杂的用户界面。在终端和（即将推出的）Web浏览器中运行您的应用程序！
+ * 🟢 [textual](https://github.com/textualize/textual) - ⭐ 33k / Textual是Python的快速应用程序开发框架。使用简单的Python API构建复杂的用户界面。在终端和（即将推出的）Web浏览器中运行您的应用程序！
  * 🔴 [ReconAIzer](https://github.com/hisxo/reconaizer) - ⭐ 883 / 一个Burp Suite扩展，可以在Burp上添加OpenAI（GPT），帮助您进行Bug赏金侦查，发现端点、参数、URL、子域名等！
- * 🟡 [Agent-LLM](https://github.com/josh-xt/agent-llm) - ⭐ 3.1k / 一个人工智能自动化平台。支持来自各种提供商的AI指令管理，具有自适应记忆和多功能插件系统，包括网页浏览等多个命令。支持许多AI提供商和模型，并每天增加支持。
+ * 🟢 [Agent-LLM](https://github.com/josh-xt/agent-llm) - ⭐ 3.1k / 一个人工智能自动化平台。支持来自各种提供商的AI指令管理，具有自适应记忆和多功能插件系统，包括网页浏览等多个命令。支持许多AI提供商和模型，并每天增加支持。
  * 🟢 [web-llm](https://github.com/mlc-ai/web-llm) - ⭐ 17k / 将大型语言模型和聊天引入到Web浏览器中。一切都在浏览器内运行，无需服务器支持。
  * 🟢 [langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin) - ⭐ 506 / "Langchain作为AI插件"🔥-超酷。@hwchase17 @langchainai 这就像给#chatgpt超能力，因为它现在可以轻松地使用Langchain组件（代理、链等）作为插件。这个仓库将很快扩大规模。例如：检索QA链作为插件。
  * 🔴 [plugins-quickstart](https://github.com/openai/plugins-quickstart) - ⭐ 4.2k / 在不到5分钟内启动ChatGPT插件！在不到5分钟内启动ChatGPT插件！
@@ -684,7 +698,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - ⭐ 3k / 一个ChatGPT Chrome扩展程序。将ChatGPT集成到互联网上的每个文本框中。
  * 🔴 [summarize.site](https://github.com/clmnin/summarize.site) - ⭐ 752 / 使用OpenAI ChatGPT总结网页
  * 🟢 [transformers.js](https://github.com/xenova/transformers.js) - ⭐ 15k / 在您的浏览器中运行🤗变形金刚！
- * 🟡 [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - ⭐ 5.7k / 基于ChatGPT API的文本翻译、文本润色、语法纠错Bob插件，让我们一起迎接不需要巴别塔的新时代！
+ * 🟢 [bob-plugin-openai-translator](https://github.com/yetone/bob-plugin-openai-translator) - ⭐ 5.7k / 基于ChatGPT API的文本翻译、文本润色、语法纠错Bob插件，让我们一起迎接不需要巴别塔的新时代！
  * 🔴 [chatgpt-extension](https://github.com/iolivernguyen/chatgpt-extension) - ⭐ 156 / 最小化的require.js实现了CommonJS。
  * 🔴 [docGPT](https://github.com/cesarhuret/docgpt) - ⭐ 675 / 在Google Docs中直接使用ChatGPT作为编辑器插件 📑
  * 🔴 [ChatGPT-Assistant](https://github.com/pdparchitect/chatgpt-assistant) - ⭐ 186 / 使用ChatGPT，告别手动扩展开发！我使用ChatGPT自动创建了这个扩展。#openai #openaichat
@@ -693,7 +707,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [simpread](https://github.com/kenshin/simpread) - ⭐ 8.5k / 简悦（SimpRead）- 让您瞬间进入沉浸式阅读的扩展。
  * 🔴 [chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page) - ⭐ 111 / 一款Chrome浏览器插件，使用ChatGPT智能聊天机器人自动回复微信私信或群聊中@你的消息。
  * 🔴 [WebGPT](https://github.com/0hq/webgpt) - ⭐ 3.8k / 使用WebGPU在浏览器上运行GPT模型。使用不到2000行普通JavaScript实现GPT推理。
- * 🟡 [tabSidian](https://github.com/cgranier/tabsidian) - ⭐ 80 / tabSidian可以收集您打开的浏览器标签页，并将它们转换成Markdown列表。
+ * 🟢 [tabSidian](https://github.com/cgranier/tabsidian) - ⭐ 80 / tabSidian可以收集您打开的浏览器标签页，并将它们转换成Markdown列表。
  * 🔴 [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - ⭐ 6.5k / WebChatGPT：一款浏览器扩展，可将您的ChatGPT提示与网络结果相结合。
  * 🔴 [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - ⭐ 5k / 一个VSCode扩展，允许您使用ChatGPT。
  * 🟢 [openai-translator](https://github.com/yetone/openai-translator) - ⭐ 25k / 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。
@@ -765,14 +779,14 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [ais-ninja](https://github.com/jarvis2f/ais-ninja) - ⭐ 318 / 一个支持插件的ChatGPT。TG：https://t.me/+bIZncGryj_85MjYx
  * 🔴 [openplugin](https://github.com/cakecrusher/openplugin) - ⭐ 213 / 通过API（或客户端）与OpenAI的ChatGPT插件无缝集成，提供与ChatGPT api +插件相同的强大功能！
  * 🟢 [continue](https://github.com/continuedev/continue) - ⭐ 30k / ⏩ 这是一个开源的自动驾驶软件开发工具——一个将ChatGPT的强大功能引入到您的IDE中的VS Code扩展。
- * 🟡 [GPT-Plugins](https://github.com/targed/gpt-plugins) - ⭐ 145 / GPT-Plugins是一个GitHub仓库，它作为一个全面的插件、附加组件和扩展列表，为ChatGPT以及与GPT架构兼容的其他语言模型提供服务。
+ * 🟢 [GPT-Plugins](https://github.com/targed/gpt-plugins) - ⭐ 145 / GPT-Plugins是一个GitHub仓库，它作为一个全面的插件、附加组件和扩展列表，为ChatGPT以及与GPT架构兼容的其他语言模型提供服务。
  * 🔴 [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - ⭐ 21 / 一个ChatGPT插件，为ChatGPT添加了web5代码辅助和知识。
  * 🔴 [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - ⭐ 484 / ChatGPT的代码解释器加强版。运行任何语言，任何终端进程，自由使用文件系统。同时具备互联网访问权限。
  * 🔴 [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - ⭐ 165 / ChatGPT Plus中所有可用的ChatGPT插件的精选列表，包括详细描述和使用文档，以及非官方的插件来源。
  * 🟡 [meeper](https://github.com/pas1ko/meeper) - ⭐ 77 / Meeper 📝 - 是您在浏览器中的任何会议的秘书。
  * 🔴 [codesherpa](https://github.com/iamgreggarcia/codesherpa) - ⭐ 258 / 一个代码解释器和ChatGPT插件
  * 🔴 [ethgpt](https://github.com/xinbenlv/ethgpt) - ⭐ 42 / ChatGPT插件用于以太坊和EVM dApp /智能合约功能ChatGPT插件用于以太坊和EVM dApp /智能合约功能
- * 🔴 [GodMode](https://github.com/smol-ai/godmode) - ⭐ 4.3k / AI聊天浏览器：快速、完整的Web应用程序访问ChatGPT / Claude / Bard / Bing / Llama2！我每天使用它20次。
+ * 🔴 [GodMode](https://github.com/smol-ai/godmode) - ⭐ 4.3k / Llama2！我每天使用它20次。
  * 🔴 [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - ⭐ 82 / 图像转文本（OCR）ChatGPT Chrome扩展程序
  * 🔴 [search-recommendations](https://github.com/niemingxing/search-recommendations) - ⭐ 199 / 搜索推荐词采集与内容生成助手是一款强大的Chrome插件，专为小红书、抖音、B站、知乎、百度、google用户设计。它能够自动收集并显示这些平台的搜索推荐词或联想词，保存下载为csv文件，帮助您更轻松地进行搜索、浏览和发现感兴趣的内容。同时可以利用chatgpt自动化批量生产与采集内容发布到wordpress站点。
  * 🔴 [openai.mini](https://github.com/llmapp/openai.mini) - ⭐ 121 / 实现使用开源LLM和其他模型的OpenAI API和插件可用的ChatGPT。
@@ -793,13 +807,13 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [eclipse-chatgpt-plugin](https://github.com/gradusnikov/eclipse-chatgpt-plugin) - ⭐ 122 / 一个与ChatGPT集成的Eclipse插件
  * 🔴 [automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - ⭐ 136 / 浏览器用户脚本，自动将DAN消息发送到ChatGPT。
  * 🔴 [sk-nl2ef-plugin](https://github.com/anthonypuppo/sk-nl2ef-plugin) - ⭐ 55 / 一个使用语义内核构建的ChatGPT插件，可以通过自然语言查询数据库。在微软首届语义内核黑客马拉松中获得“对企业最有用”类别的冠军。
- * 🟡 [Awesome-Plugins](https://github.com/targed/awesome-plugins) - ⭐ 145 / Awesome-Plugins是一个GitHub仓库，它作为一个综合列表，提供了适用于ChatGPT以及与GPT架构兼容的其他语言模型的插件、附加组件和扩展。
+ * 🟢 [Awesome-Plugins](https://github.com/targed/awesome-plugins) - ⭐ 145 / Awesome-Plugins是一个GitHub仓库，它作为一个综合列表，提供了适用于ChatGPT以及与GPT架构兼容的其他语言模型的插件、附加组件和扩展。
  * 🔴 [Free-personal-AI-Assistant-with-plugin](https://github.com/intelligenzaartificiale/free-personal-ai-assistant-with-plugin) - ⭐ 152 / 🤗 您想使用带有插件的GPT4，但又不想支付每月20美元吗？这就是解决方案！通过这个存储库，您可以免费获得ChatGPT的克隆版本。
  * 🔴 [LeanDojoChatGPT](https://github.com/lean-dojo/leandojochatgpt) - ⭐ 123 / ChatGPT插件用于Lean中的定理证明。
  * 🔴 [awesome-chatgpt-plugins](https://github.com/jikkujose/awesome-chatgpt-plugins) - ⭐ 56 / 最全面的ChatGPT插件列表，全部在一个页面上！
  * 🟡 [gp.nvim](https://github.com/robitx/gp.nvim) - ⭐ 1.3k / GPT.nvim：Neovim AI插件 ～ OpenAI的ChatGPT和Copilot和语音转文字
  * 🔴 [LLMBot](https://github.com/llmkira/llmbot) - ⭐ 17 / 插件概念原型机 /// 代理系统/自决策 |类 ChatGpt 插件系统| Gpt-3.5/Gpt-4 |助手 | 📱 跨平台 | 🦾 异步 | 🔌 插件系统
- * 🟡 [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - ⭐ 5.7k / 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可证授权。
+ * 🟢 [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - ⭐ 5.7k / 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可证授权。
  * 🟡 [Openaibot](https://github.com/llmkira/openaibot) - ⭐ 2k / ⚡️ 构建您自己的助手机器人 | 🧀 Discord/Slack/Kook/Telegram | 🍓 复刻 ChatGpt 架构 | ⛓ 工具调用/函数调用 | 🔖 插件支持 | 🌻 sh 和 docker-compose
  * 🟢 [LibreChat](https://github.com/danny-avila/librechat) - ⭐ 32k / 增强版ChatGPT克隆：功能包括OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AI模型切换、消息搜索、langchain、DALL-E-3、ChatGPT插件、OpenAI函数、安全多用户系统、预设，完全开源以供自主托管。更多功能正在开发中。
  * 🟡 [pgvecto.rs](https://github.com/tensorchord/pgvecto.rs) - ⭐ 2.1k / 可扩展的矢量数据库插件，使用Rust编写，专为LLM设计。
@@ -853,7 +867,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - ⭐ 176 / 提升ChatGPT、Gemini、Claude、phind、Groq网站的使用体验，提供一些好用功能。比如自动从URL填入提示，在回应的地方出现自动提示按钮。
  * 🟢 [LLM_Web_search](https://github.com/mamei16/llm_web_search) - ⭐ 271 / 一个为oobabooga/text-generation-webui提供的扩展，使LLM能够使用DuckDuckGo搜索网络。
  * 🟢 [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - ⭐ 593 / DevoxxGenie是IntelliJ IDEA的插件，使用本地LLM（Ollama、LMStudio、GPT4All、Llama.cpp和Exo）和基于云的LLM来帮助审查、测试、解释您的项目代码。
- * 🟡 [AGiXT](https://github.com/josh-xt/agixt) - ⭐ 3.1k / AGiXT是一个动态的AI代理自动化平台，可以无缝地协调指令管理和复杂任务执行，涵盖各种AI提供商。结合自适应记忆、智能功能和多功能插件系统，AGiXT提供高效的。
+ * 🟢 [AGiXT](https://github.com/josh-xt/agixt) - ⭐ 3.1k / AGiXT是一个动态的AI代理自动化平台，可以无缝地协调指令管理和复杂任务执行，涵盖各种AI提供商。结合自适应记忆、智能功能和多功能插件系统，AGiXT提供高效的。
  * 🟡 [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - ⭐ 3k / 🤖 在浏览器中组装、配置和部署自主AI代理。一键免费部署您的私人AutoGPT网页应用。
  * 🟢 [Auto_Jobs_Applier](https://github.com/aihawk-app/auto_jobs_applier) - ⭐ 29k / Auto_Jobs_Applier_AIHawk是一个自动化工作申请流程的工具。利用人工智能，它使用户能够以自动化和个性化的方式申请多个工作。
  * 🟢 [browser-use](https://github.com/gregpr07/browser-use) - ⭐ 73k / 开源网络自动化库与任何LLM
@@ -869,14 +883,14 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - ⭐ 29k / Jobs_Applier_AI_Agent_AIHawk旨在通过自动化求职流程来简化求职过程。利用人工智能，它使用户能够以个性化的方式申请多个工作。
  * 🟡 [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - ⭐ 819 / Flexpilot - 开源、本地化和真正的 GitHub Copilot 替代品，适用于 VS Code
  * 🟢 [nanobrowser](https://github.com/nanobrowser/nanobrowser) - ⭐ 11k / 开源Chrome扩展程序，用于AI驱动的网络自动化。使用您自己的LLM API密钥运行多代理工作流。是OpenAI Operator的替代方案。
- * 🟡 [solon](https://github.com/opensolon/solon) - ⭐ 2.7k / 🔥 Java企业应用开发框架，适用于全场景：约束、高效、开放、生态友好！并发性能提高700%，内存节省50%，启动速度提高10倍。包大小减小90%，兼容java8 ~ java24。（可替代spr）
+ * 🟢 [solon](https://github.com/opensolon/solon) - ⭐ 2.7k / 🔥 Java企业应用开发框架，适用于全场景：约束、高效、开放、生态友好！并发性能提高700%，内存节省50%，启动速度提高10倍。包大小减小90%，兼容java8 ~ java24。（可替代spr）
  * 🟢 [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - ⭐ 1.6k / 一个强大的Neovim插件，用于管理MCP（Model Context Protocol）服务器
  * 🟢 [notte](https://github.com/nottelabs/notte) - ⭐ 1.7k / 🔥 使用代理的开源浏览器
  * 🟡 [llm-scraper](https://github.com/mishushakov/llm-scraper) - ⭐ 6.1k / 使用LLMs将任何网页转换为结构化数据
  * 🟢 [SwitchAI](https://github.com/wstxda/switchai) - ⭐ 1.2k / 轻松选择、启动和管理您喜欢的AI数字助手
  * 🟢 [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - ⭐ 11k / 将ChatGPT深度集成到您的浏览器中，您所需的一切都在这里。
  * 🟢 [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - ⭐ 521 / 🤖 AI 浏览器扩展和用户脚本，增强您的网络体验
- * 🟡 [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - ⭐ 824 / 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。
+ * 🟢 [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - ⭐ 824 / 这个实时字幕翻译插件将OpenAI的ChatGPT API（或任何具有相同API调用方法的模型）集成到PotPlayer中。它使你在观看视频时能够实时翻译字幕，从而打破语言障碍，提升你的观看体验。
  * 🟡 [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - ⭐ 648 / 麦 - 适用于Meta眼镜的Hacky Messenger浏览器扩展和API。"嘿Meta，给ChatGPT发送一条消息"
  * 🟢 [mcp-unity](https://github.com/codergamester/mcp-unity) - ⭐ 1.1k / 用于将模型上下文协议（MCP）与Unity编辑器集成的Unity插件 - 旨在支持AI辅助开发和OpenAI，Gemini和Claude的互操作性
  * 🟡 [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - ⭐ 648 / "嘿Meta，给ChatGPT发送一条消息" Mai：一个用于Meta眼镜的Hacky Messenger浏览器扩展和伪API :eyeglasses:
@@ -884,14 +898,14 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [read-frog](https://github.com/mengxi-ream/read-frog) - ⭐ 3k / 🐸 陪读蛙 - 开源沉浸式翻译
  * 🟢 [koog](https://github.com/jetbrains/koog) - ⭐ 3.5k / Koog是官方的Kotlin框架，用于构建和运行强大、可扩展和生产就绪的AI代理，适用于各种平台-从后端服务到Android、JVM，甚至浏览器环境。Koog基于我们的AI产品专业知识。
  * 🟢 [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - ⭐ 560 / MCP服务器+Unity编辑器和Unity游戏的插件。该插件允许连接到像Claude Desktop等MCP客户端。
- * 🟡 [chatluna](https://github.com/chatlunalab/chatluna) - ⭐ 370 / 一个用于LLM聊天的机器人插件，具有多模型集成、可扩展性和多种输出格式。
+ * 🟢 [chatluna](https://github.com/chatlunalab/chatluna) - ⭐ 370 / 一个用于LLM聊天的机器人插件，具有多模型集成、可扩展性和多种输出格式。
  * 🟢 [Translate-It](https://github.com/isegaro/translate-it) - ⭐ 258 / Chrome/Firefox浏览器插件，使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能。输出：使用Google Gemini、OpenAi、OpenRouter和WebAi的API，实现从任意语言翻译到任意语言的阅读/写作/听力功能的Chrome/Firefox浏览器插件。
- * 🟡 [QodeAssist](https://github.com/palm1r/qodeassist) - ⭐ 281 / QodeAssist是一个为Qt Creator提供AI支持的编码助手插件。
+ * 🟢 [QodeAssist](https://github.com/palm1r/qodeassist) - ⭐ 281 / QodeAssist是一个为Qt Creator提供AI支持的编码助手插件。
  * 🟢 [nextai-translator](https://github.com/nextai-translator/nextai-translator) - ⭐ 25k / 基于ChatGPT API的划词翻译浏览器插件和跨平台桌面应用 - 基于ChatGPT API的翻译浏览器插件和跨平台桌面应用。
  * 🟢 [AIPex](https://github.com/aipexstudio/aipex) - ⭐ 877 / AIPex：您浏览器中的代理助手，使用自然语言自动化您的浏览器。ChatGPT Atlas替代方案，无需迁移。
  * 🟢 [BrowserOS](https://github.com/browseros-ai/browseros) - ⭐ 8k / 🌐 开源的Agentic浏览器；ChatGPT Atlas，Perplexity Comet，Arc/Dia的隐私优先替代品。
- * 🟡 [GhidrAssist](https://github.com/jtang613/ghidrassist) - ⭐ 353 / 一个用于Ghidra的LLM扩展，以实现在逆向工程中启用人工智能辅助。
- * 🟡 [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - ⭐ 5.7k / 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可。
+ * 🟢 [GhidrAssist](https://github.com/jtang613/ghidrassist) - ⭐ 353 / 一个用于Ghidra的LLM扩展，以实现在逆向工程中启用人工智能辅助。
+ * 🟢 [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - ⭐ 5.7k / 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！根据 CC BY-NC-SA 4.0 许可。
  * 🟢 [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - ⭐ 338 / 浏览器操作员-具有内置多代理平台的AI浏览器！ChatGPT Atlas、Perplexity Comet、Dia和Microsoft CoPilot Edge Browser的开源替代方案
 
 
@@ -934,20 +948,20 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [gptcommit](https://github.com/zurawiki/gptcommit) - ⭐ 2.4k / 一个使用GPT-3编写提交信息的git prepare-commit-msg钩子。
  * 🟡 [a](https://github.com/ddddddeon/a) - ⭐ 239 / CLI工具，可从GPT3生成代码。
  * 🔴 [plz-cli](https://github.com/m1guelpf/plz-cli) - ⭐ 1.6k / 您的终端副驾驶
- * 🟡 [aichat](https://github.com/sigoden/aichat) - ⭐ 8.7k / 在终端中使用ChatGPT/GPT-3.5/GPT-4。
+ * 🟢 [aichat](https://github.com/sigoden/aichat) - ⭐ 8.7k / 在终端中使用ChatGPT/GPT-3.5/GPT-4。
  * 🔴 [rusty](https://github.com/zahidkhawaja/rusty) - ⭐ 334 / GPT-3 动力的 CLI 工具，帮助您记住 bash 命令。
  * 🔴 [cligpt](https://github.com/schneiderfelipe/cligpt) - ⭐ 7 / cligpt是一个命令行界面，用于与OpenAI的ChatGPT API进行交互。
  * 🟡 [ata](https://github.com/rikhuijzer/ata) - ⭐ 281 / 在终端中询问任何事情（ATA）：在终端中输入ChatGPT
  * 🔴 [acli](https://github.com/jseguillon/acli) - ⭐ 52 / 辅助命令行，由Open AI的API提供动力
  * 🔴 [openaigo](https://github.com/otiai10/openaigo) - ⭐ 299 / OpenAI GPT3/3.5 ChatGPT API Go客户端库，简单、依赖少、经过充分测试。
  * 🔴 [cligpt](https://github.com/paij0se/cligpt) - ⭐ 5 / 在终端中的ChatGPT
- * 🟡 [CodeGPT](https://github.com/appleboy/codegpt) - ⭐ 1.5k / 一个使用Go语言编写的CLI，可以使用ChatGPT AI（gpt-4，gpt-3.5-turbo模型）为您编写git提交消息或进行代码审查简介，并自动安装git prepare-commit-msg钩子。
+ * 🟢 [CodeGPT](https://github.com/appleboy/codegpt) - ⭐ 1.5k / 一个使用Go语言编写的CLI，可以使用ChatGPT AI（gpt-4，gpt-3.5-turbo模型）为您编写git提交消息或进行代码审查简介，并自动安装git prepare-commit-msg钩子。
  * 🔴 [search](https://github.com/visualbasic6/search) - ⭐ 48 / 一个由AI（ChatGPT）编写的CLI Google客户端，通过使用Google Alerts“预览”功能绕过验证码和速率限制。
  * 🔴 [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - ⭐ 270 / 单个客户端脚本备份您的整个ChatGPT聊天记录历史。
  * 🟡 [PowerShellAI](https://github.com/dfinke/powershellai) - ⭐ repo not found / PowerShell AI模块，用于OpenAI GPT-3和DALL-E。
  * 🔴 [chatGPT-shell-cli](https://github.com/0xacx/chatgpt-shell-cli) - ⭐ 1.2k / 使用终端的简单shell脚本，无需Python或JS即可使用OpenAI的ChatGPT和DALL-E。
  * 🟢 [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ⭐ 1.2k / 最小化的ChatGPT和DALL-E Emacs外壳
- * 🟡 [client](https://github.com/openai-php/client) - ⭐ 5.7k / ⚡️ OpenAI PHP是一个超级强化的社区维护的PHP API客户端，允许您与OpenAI API进行交互。
+ * 🟢 [client](https://github.com/openai-php/client) - ⭐ 5.7k / ⚡️ OpenAI PHP是一个超级强化的社区维护的PHP API客户端，允许您与OpenAI API进行交互。
  * 🟡 [slickgpt](https://github.com/shipbit/slickgpt) - ⭐ 478 / SlickGPT是一个轻量级的“使用自己的API密钥”的Web客户端，用Svelte编写，用于OpenAI API。它提供了GPT-4集成、无用户分享功能和其他超级功能。
  * 🟢 [chatgpt-ui](https://github.com/wongsaang/chatgpt-ui) - ⭐ 1.6k / 一个支持多用户、多数据库连接进行持久化数据存储、支持i18n的ChatGPT Web客户端。提供Docker镜像和快速部署脚本。
  * 🔴 [openai-java](https://github.com/theokanning/openai-java) - ⭐ 4.8k / Java中的OpenAI GPT-3 Api客户端
@@ -967,7 +981,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [termGPT](https://github.com/tcapelle/termgpt) - ⭐ 80 / 一个简单的Python包装器，可在终端上调用openAI的chatGPT。
  * 🔴 [Chat2DB](https://github.com/alibaba/chat2db) - ⭐ 8.1k / 🔥 🔥 🔥 一款智能、多功能的通用SQL客户端和报表工具，集成了ChatGPT功能。
  * 🟢 [llm-toolbox](https://github.com/sderev/llm-toolbox) - ⭐ 40 / LLM-Toolbox是一个多功能的命令行界面（CLI）工具集合，利用人工智能来执行各种任务，包括校对、识别适当的shell命令、生成自动提交信息等等。
- * 🟡 [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - ⭐ 2k / 🤖 ChatGPT 的强大客户端 JavaScript 库。
+ * 🟢 [chatgpt.js](https://github.com/chatgptjs/chatgpt.js) - ⭐ 2k / 🤖 ChatGPT 的强大客户端 JavaScript 库。
  * 🟡 [Clippy](https://github.com/firecubestudios/clippy) - ⭐ 390 / 火方块的Clippy。
  * 🟢 [aider](https://github.com/paul-gauthier/aider) - ⭐ 39k / aider是由GPT驱动的终端编码工具
  * 🔴 [SaaS-Template-GPT](https://github.com/wasp-lang/saas-template-gpt) - ⭐ 674 / 🐝 Wasp- 立即开始使用包含社交/电子邮件登录、GPT/Stripe集成、cron作业等功能的SaaS模板 → 超快速启动⚡️- `wasp db` CLI命令也是一个很好的功能，可以立即在后台启动本地的Postgres数据库。
@@ -976,7 +990,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ⭐ 248 / ✨ 以程序员的方式打开ChatGPT！GPT终端是一个平台，允许您在终端中与GPT进行通信。
  * 🔴 [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ⭐ 154 / ChatGPT 网页一键部署
  * 🟢 [tgpt](https://github.com/aandrew-me/tgpt) - ⭐ 3k / 在终端中使用ChatGPT而无需API密钥
- * 🟡 [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ⭐ 848 / ChatGPT CLI是OpenAI的ChatGPT的高级命令行界面，提供流式传输、查询模式和历史记录跟踪，实现无缝和上下文感知的对话。非常适合用户和开发人员使用，它提供高级配置和简单设置选项，以确保与GPT模型的对话体验量身定制。
+ * 🟢 [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ⭐ 848 / ChatGPT CLI是OpenAI的ChatGPT的高级命令行界面，提供流式传输、查询模式和历史记录跟踪，实现无缝和上下文感知的对话。非常适合用户和开发人员使用，它提供高级配置和简单设置选项，以确保与GPT模型的对话体验量身定制。
  * 🟡 [lobe-commit](https://github.com/lobehub/lobe-commit) - ⭐ 372 / 💌 Lobe Commit 是一个使用 Langchain/ChatGPT 来生成基于 Gitmoji 的提交信息的命令行工具。
  * 🔴 [SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai) - ⭐ 13 / 使用SuperSummarizeAI释放人工智能的力量！轻松地使用ChatGPT从网页和YouTube视频中提取、压缩和剪辑内容。将无尽的内容转化为易于理解的摘要。
  * 🔴 [minion](https://github.com/mikaelvesavuori/minion) - ⭐ 18 / 开发者在命令行界面中使用ChatGPT的最简单和最轻量级的方式。
@@ -998,7 +1012,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [openai-kotlin](https://github.com/aallam/openai-kotlin) - ⭐ 1.8k / 具有多平台和协程功能的Kotlin的OpenAI API客户端。
  * 🟡 [sqlchat](https://github.com/sqlchat/sqlchat) - ⭐ 5.5k / 聊天式SQL客户端和编辑器，面向未来十年。
  * 🟡 [ShellGPT](https://github.com/akl7777777/shellgpt) - ⭐ 2.1k / **ShellGPT是一个免费的chatgpt客户端，现在支持在线搜索，无需密钥，无需登录。多节点自动测速切换，长文翻译没有字数限制，AI出图。**
- * 🟡 [gptel](https://github.com/karthink/gptel) - ⭐ 3k / 一个简单的Emacs LLM客户端
+ * 🟢 [gptel](https://github.com/karthink/gptel) - ⭐ 3k / 一个简单的Emacs LLM客户端
  * 🟢 [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - ⭐ 763 / 一个非官方的DotNet OpenAI RESTful API客户端
  * 🟢 [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - ⭐ 3.9k / 每个ChatGPT的前端GUI客户端
  * 🔴 [yai](https://github.com/ekkinox/yai) - ⭐ 843 / 您的AI 动力终端助手。
@@ -1013,19 +1027,19 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - ⭐ 240 / Scala客户端用于OpenAI API
  * 🔴 [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ⭐ 342 / 使用嵌入技术支持的长期记忆功能，在CLI中与ChatGPT Bot交流。
  * 🟡 [openai4j](https://github.com/lambdua/openai4j) - ⭐ 407 / Java客户端库用于OpenAI API。完全支持所有OpenAI API模型，包括Completions，Chat，Edits，Embeddings，Audio，Files，Assistants-v2，Images，Moderations，Batch和Fine-tuning。
- * 🟢 [json-translator](https://github.com/mololab/json-translator) - ⭐ 585 / jsontt 💡 - AI JSON翻译器，配备GPT +其他免费翻译模块，可将您的json/yaml文件翻译成其他语言 ✅ 查看自述文件 ✌ 支持GPT / DeepL / Google / Bing / Libre / Argos
+ * 🟢 [json-translator](https://github.com/mololab/json-translator) - ⭐ 585 / Argos
  * 🟢 [gptme](https://github.com/erikbjare/gptme) - ⭐ 4.1k / 与配备本地工具的LLMs聊天：执行Python和Bash，编辑本地文件，浏览网页。
  * 🟡 [Apt](https://github.com/rnchg/apt) - ⭐ 767 / AI生产力工具-免费开源，提高用户生产力同时确保隐私和数据安全。它提供高效便捷的AI解决方案，包括但不限于：内置独家ChatGPT，一键批量智能处理。
- * 🟡 [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ⭐ 359 / 基于ChatGPT API的高效翻译工具
+ * 🟢 [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ⭐ 359 / 基于ChatGPT API的高效翻译工具
  * 🟢 [tenere](https://github.com/pythops/tenere) - ⭐ 619 / 🔥 用Rust编写的LLMs的TUI界面
  * 🟢 [Chat2DB](https://github.com/codephiliax/chat2db) - ⭐ 25k / 🔥🔥🔥基于人工智能的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2、SQL Server、SQLite、H2、ClickHouse等等。
  * 🟢 [OpenHands](https://github.com/all-hands-ai/openhands) - ⭐ 65k / 🙌 OpenHands: 编码更少，创造更多
  * 🟡 [ai-digest](https://github.com/khromov/ai-digest) - ⭐ 658 / 一个CLI工具，可以将您的代码库聚合到一个单独的Markdown文件中，以供Claude项目或自定义ChatGPT使用。
  * 🔴 [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - ⭐ 229 / 🍉 ChatGPT Mirai QQ Bot 机器人的 Web UI 一键配置，支持多实例管理，配置编辑，文件提交，健康检查，终端执行，支持密码访问。🍉
- * 🟡 [Nexior](https://github.com/acedatacloud/nexior) - ⭐ 332 / 一键部署您自己的AI应用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，轻松赚取利润。
+ * 🟢 [Nexior](https://github.com/acedatacloud/nexior) - ⭐ 332 / 一键部署您自己的AI应用Web UI，包括GPT、Midjourney、ChatDoc、QrArt等，轻松赚取利润。
  * 🟢 [aider](https://github.com/aider-ai/aider) - ⭐ 39k / aider是您终端中的AI对编程
  * 🟢 [laravel](https://github.com/openai-php/laravel) - ⭐ 3.6k / ⚡️ OpenAI PHP for Laravel 是一个强大的 PHP API 客户端，可以让您与 OpenAI API 进行交互。
- * 🟡 [WrenAI](https://github.com/canner/wrenai) - ⭐ 13k / 🚀 用于文本到SQL的开源SQL AI代理。支持PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet数据源等等！🚀
+ * 🟢 [WrenAI](https://github.com/canner/wrenai) - ⭐ 13k / 🚀 用于文本到SQL的开源SQL AI代理。支持PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquet数据源等等！🚀
  * 🟡 [Queryable](https://github.com/mazzzystar/queryable) - ⭐ 2.9k / 在iOS上运行OpenAI的CLIP和Apple的MobileCLIP模型来搜索照片。
  * 🔴 [ChatGPTs](https://github.com/licoy/chatgpts) - ⭐ 6.5k / 🍭 一键拥有你自己的ChatGPT+众多AI网页服务 | 一键访问您自己的ChatGPT+多种AI网页服务
  * 🔴 [ChatAny](https://github.com/licoy/chatany) - ⭐ 6.5k / 🌻 一键拥有您自己的ChatGPT+许多AI网页服务
@@ -1047,12 +1061,12 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - ⭐ 688 / 使用Cookiecutter模板创建FastAPI项目，包括：机器学习、uv、Github Actions和Pytests。
  * 🟡 [story-flicks](https://github.com/alecm20/story-flicks) - ⭐ 2.1k / 使用AI大模型，一键生成高清故事短视频。
  * 🟢 [gptme](https://github.com/gptme/gptme) - ⭐ 4.1k / 您在终端中的代理，配备了本地工具：编写代码，使用终端，浏览网页，视觉。
- * 🟡 [chatbox](https://github.com/chatboxai/chatbox) - ⭐ 38k / 用户友好的桌面客户端应用程序，用于AI模型/LLMs（GPT、克劳德、双子座、奥拉玛...）
+ * 🟢 [chatbox](https://github.com/chatboxai/chatbox) - ⭐ 38k / 用户友好的桌面客户端应用程序，用于AI模型/LLMs（GPT、克劳德、双子座、奥拉玛...）
  * 🟡 [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - ⭐ 967 / 智能企业级JavaScript参考架构，包括OpenAI集成，Azure开发者CLI模板和Playwright测试。
  * 🟢 [tmuxai](https://github.com/alvinunreal/tmuxai) - ⭐ 1.3k / AI 助手，非侵入式终端助手
  * 🟢 [forge](https://github.com/antinomyhq/forge) - ⭐ 4.6k / AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。
  * 🟢 [kilocode](https://github.com/kilo-org/kilocode) - ⭐ 13k / 开源AI编码助手，用于规划、构建和修复代码。我们是Roo、Cline和我们自己功能的超集。关注我们：kilocode.ai/social
- * 🟡 [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - ⭐ 1.2k / 一个基于小智、xiaozhi-server的Android、IOS语音对话应用，支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
+ * 🟢 [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - ⭐ 1.2k / 一个基于小智、xiaozhi-server的Android、IOS语音对话应用，支持实时语音交互和文字对话。现在是flutter版本，打通IOS、Android端。请同志们动动小手，点点小星星，予以鼓励。
  * 🟢 [wcgw](https://github.com/rusiaaman/wcgw) - ⭐ 620 / 克劳德桌面应用程序上的Shell和编码代理
  * 🟢 [arcade-ai](https://github.com/arcadeai/arcade-ai) - ⭐ 760 / Arcade Python SDK、CLI和工具包
  * 🟢 [rust-genai](https://github.com/jeremychone/rust-genai) - ⭐ 570 / Rust多提供者生成式AI客户端（Ollama，OpenAi，Anthropic，Gemini，DeepSeek，xAI/Grok，Groq，Cohere，...）
@@ -1069,13 +1083,13 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - ⭐ 744 / 将Gemini CLI端点暴露为OpenAI API，并使用Cloudflare Workers。
  * 🟢 [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - ⭐ 1.5k / AIClient2API：模拟Gemini CLI和Kiro客户端请求，兼容OpenAI API。可每日千次Gemini模型请求，免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
  * 🟢 [claude-context](https://github.com/zilliztech/claude-context) - ⭐ 4.6k / 用于代码搜索的MCP，用于Claude Code、Gemini CLI或任何代码代理的构建。
- * 🟡 [gonzo](https://github.com/control-theory/gonzo) - ⭐ 2.2k / Gonzo！基于Go的TUI日志分析工具
+ * 🟢 [gonzo](https://github.com/control-theory/gonzo) - ⭐ 2.2k / Gonzo！基于Go的TUI日志分析工具
  * 🟢 [gcli2api](https://github.com/su-kaka/gcli2api) - ⭐ 1.7k / 将GeminiCLI转换为OpenAI和GEMINI API接口
  * 🟢 [nanocoder](https://github.com/mote-software/nanocoder) - ⭐ 927 / 一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒
  * 🟢 [snapai](https://github.com/betomoedano/snapai) - ⭐ 1.3k / 为React Native和Expo开发者提供的AI图标生成CLI。使用OpenAI的最新模型，在几秒钟内生成令人惊叹的应用程序图标。
  * 🟢 [sgpt](https://github.com/tbckr/sgpt) - ⭐ 398 / SGPT是一个命令行工具，为用户提供了一个方便的方式与OpenAI模型进行交互，使用户能够在终端上运行查询，生成shell命令并直接生成代码。
  * 🟢 [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⭐ 391 / ⚡ 微软 Fabric CLI
- * 🟡 [AIProxySwift](https://github.com/lzell/aiproxyswift) - ⭐ 381 / AI供应商的Swift客户端。可以直接向供应商发出请求，也可以通过我们的API密钥保护后端代理。
+ * 🟢 [AIProxySwift](https://github.com/lzell/aiproxyswift) - ⭐ 381 / AI供应商的Swift客户端。可以直接向供应商发出请求，也可以通过我们的API密钥保护后端代理。
  * 🟢 [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - ⭐ 2.1k / 将Gemini CLI、ChatGPT Codex、Claude Code、Qwen Code打包为一个OpenAI/Gemini/Claude/Codex兼容的API服务，让您可以通过API享受免费的Gemini 2.5 Pro、GPT 5、Claude、Qwen模型。
  * 🟢 [nanocoder](https://github.com/nano-collective/nanocoder) - ⭐ 927 / 一个美丽的本地优先编码代理在您的终端上运行 - 由社区为社区构建 ⚒
  * 🟢 [redis-vl-python](https://github.com/redis/redis-vl-python) - ⭐ 348 / Redis矢量库（RedisVL）- Redis的AI原生Python客户端。
@@ -1088,6 +1102,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [agent-shell](https://github.com/xenodium/agent-shell) - ⭐ 366 / 一个原生的Emacs缓冲区，用于与由ACP驱动的LLM代理进行交互。
  * 🟢 [ShellOracle](https://github.com/djcopley/shelloracle) - ⭐ 309 / 一个用于智能shell命令生成的终端工具
  * 🟢 [daan](https://github.com/pluveto/daan) - ⭐ 338 / ✨轻量级LLM客户端，具有MCP🔌和角色👤
+ * [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - 以上所有] 一起运行的力量。
 
 
 ## Reimplementations
@@ -1273,8 +1288,8 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - ⭐ 524 / XrayGPT：使用医学视觉语言模型的胸部X光摘要。
  * 🔴 [Voyager](https://github.com/minedojo/voyager) - ⭐ 6.5k / 一个具有大型语言模型的开放式体验代理人
  * 🟢 [gorilla](https://github.com/shishirpatil/gorilla) - ⭐ 13k / 大猩猩：LLM的API商店
- * 🟡 [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - ⭐ 1.3k / SudoLang LLM 在 VSCode 中的支持
- * 🟡 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - ⭐ 7.5k / 一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。
+ * 🟢 [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - ⭐ 1.3k / SudoLang LLM 在 VSCode 中的支持
+ * 🟢 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - ⭐ 7.5k / 一个在Azure上运行的检索增强生成模式的示例应用程序，使用Azure认知搜索进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。
  * 🔴 [infiniteGPT](https://github.com/emmethalm/infinitegpt) - ⭐ 742 / InfiniteGPT是一个Python脚本，可以让您将无限大小的文本输入到OpenAI API中。不再需要繁琐的复制和粘贴。多线程万岁！
  * 🟡 [ToolBench](https://github.com/openbmb/toolbench) - ⭐ 5.4k / 一个用于训练、服务和评估大型语言模型的开放平台，用于工具学习。
  * 🟡 [localGPT](https://github.com/promtengineer/localgpt) - ⭐ 22k / 使用GPT模型在本地设备上与您的文档聊天。没有数据离开您的设备，100％私密。
@@ -1288,7 +1303,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [selefra](https://github.com/selefra/selefra) - ⭐ 543 / 这是一款开源的政策即代码软件，可为多云和SaaS环境提供分析，您可以通过自然语言获得洞察力（由OpenAI提供支持）。
  * 🟢 [haystack](https://github.com/deepset-ai/haystack) - ⭐ 24k / :mag: Haystack是一个开源的NLP框架，使用Transformer模型和LLMs（如GPT-4、ChatGPT等）与您的数据进行交互。Haystack提供了生产就绪的工具，快速构建复杂的问答、语义搜索、文本生成应用等。
  * 🟡 [WizardLM](https://github.com/nlpxucan/wizardlm) - ⭐ 9.5k / 由Evol-Instruct驱动的遵循指令的LLM家族：WizardLM，WizardCoder。
- * 🟡 [sparrow](https://github.com/katanaml/sparrow) - ⭐ 5.1k / 使用机器学习从文档中提取数据
+ * 🟢 [sparrow](https://github.com/katanaml/sparrow) - ⭐ 5.1k / 使用机器学习从文档中提取数据
  * 🟡 [lamini](https://github.com/lamini-ai/lamini) - ⭐ 2.5k / 今天：🎉为像ChatGPT这样的LLM托管数据生成器🎉一个开源的LLM，使用Lamini引擎训练生成的数据👉提前访问完整的培训等待名单，包括企业VPC等。
  * 🔴 [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - ⭐ 691 / 长文本生成图像，使用深度生成模型（GPT-3和稳定扩散）的管道。
  * 🔴 [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - ⭐ 7k / 轻松将您的代码库从一个框架或语言迁移到另一个框架或语言。
@@ -1302,7 +1317,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [dreamGPT](https://github.com/divergentai/dreamgpt) - ⭐ 591 / 利用大型语言模型（LLMs）的幻觉进行以新颖性驱动的探索。
  * 🔴 [lnchat](https://github.com/litch/lnchat) - ⭐ 3 / 所以我做了一个东西 - LNChat。你将这个应用连接到你的节点，然后你可以用纯文本的方式向它提问，比如“我的最新通道是什么”，“给我展示一个通道摘要”。ChatGPT填补了这个空白。它很有趣，但并不是特别有用。至少现在还不是。
  * 🟢 [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - ⭐ 590 / 一个比ChatGPT更好的本地化开源AI服务器。
- * 🟢 [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - ⭐ 5.2k / 中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+ * 🟢 [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - ⭐ 5.2k / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
  * 🔴 [RankGPT](https://github.com/sunnweiwei/rankgpt) - ⭐ 644 / ChatGPT在搜索方面表现如何？LLMs作为重新排序代理
  * 🔴 [smile](https://github.com/qiuhuachuan/smile) - ⭐ 497 / 微笑：通过ChatGPT进行单轮到多轮包容性语言扩展，为心理健康支持提供帮助。
  * 🔴 [C3SQL](https://github.com/bigbigwatermalon/c3sql) - ⭐ 156 / 论文C3的代码：使用ChatGPT进行零样本文本到SQL的转换。
@@ -1328,18 +1343,18 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [one-api](https://github.com/songquanpeng/one-api) - ⭐ 28k / OpenAI接口管理和分发系统，支持Azure、Anthropic Claude、Google PaLM 2、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI key管理和重新分发系统，使用单个API适用于所有LLMs，并具有英文用户界面。
  * 🔴 [Baichuan2](https://github.com/baichuan-inc/baichuan2) - ⭐ 4.1k / 百川智能科技开发的一系列大型语言模型
  * 🟢 [marqo](https://github.com/marqo-ai/marqo) - ⭐ 5k / 人类的向量搜索。也可在云端使用 - cloud.marqo.ai
- * 🟡 [khoj](https://github.com/khoj-ai/khoj) - ⭐ 32k / 一个AI副驾驶员，为你的第二大脑。在线或离线搜索和与你的个人知识库聊天。
+ * 🟢 [khoj](https://github.com/khoj-ai/khoj) - ⭐ 32k / 一个AI副驾驶员，为你的第二大脑。在线或离线搜索和与你的个人知识库聊天。
  * 🔴 [Otter](https://github.com/luodian/otter) - ⭐ 3.3k / 🦦 Otter是基于OpenFlamingo（DeepMind的Flamingo的开源版本）的多模态模型，经过MIMIC-IT训练，展示了改进的指令跟随和上下文学习能力。
  * 🟢 [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - ⭐ 6.1k / 一个RWKV管理和启动工具，完全自动化，仅8MB。并提供与OpenAI API兼容的接口。RWKV是一个完全开源且可用于商业用途的大型语言模型。
  * 🟢 [MNBVC](https://github.com/esbatmop/mnbvc) - ⭐ 4k / MNBVC（Massive Never-ending BT Vast Chinese corpus）超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不仅包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、维基百科、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。
- * 🟡 [Easydict](https://github.com/tisfeng/easydict) - ⭐ 11k / 一个简洁优雅的词典翻译 macOS 应用程序，可用于查找单词和翻译文本。支持离线 OCR 识别，同时支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。
+ * 🟢 [Easydict](https://github.com/tisfeng/easydict) - ⭐ 11k / 一个简洁优雅的词典翻译 macOS 应用程序，可用于查找单词和翻译文本。支持离线 OCR 识别，同时支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。
  * 🟡 [NExT-GPT](https://github.com/next-gpt/next-gpt) - ⭐ 3.6k / NExT-GPT的代码和模型：任意到任意的多模态大型语言模型
  * 🟢 [TavernAI](https://github.com/tavernai/tavernai) - ⭐ 2.6k / 针对AI语言模型的大气冒险聊天（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）
  * 🟡 [lmql](https://github.com/eth-sri/lmql) - ⭐ 4.1k / 一种用于约束引导和高效LLM编程的语言。
  * 🟡 [chatarena](https://github.com/farama-foundation/chatarena) - ⭐ 1.5k / ChatArena（或Chat Arena）是一个为LLMs设计的多智能体语言游戏环境。其目标是开发AI的沟通和协作能力。
  * 🟡 [Data-Science-Roadmap](https://github.com/moataz-elmesmary/data-science-roadmap) - ⭐ 4k / 从A到Z的数据科学路线图
  * 🟢 [deepeval](https://github.com/confident-ai/deepeval) - ⭐ 12k / LLM评估框架
- * 🟡 [inference](https://github.com/xorbitsai/inference) - ⭐ 8.8k / 通过改变一行代码，将OpenAI GPT替换为另一个LLM。Xinference让您可以自由使用任何您需要的LLM。使用Xinference，您可以在云端、本地甚至笔记本电脑上运行推理，无论是开源语言模型、语音识别模型还是多模态模型。
+ * 🟢 [inference](https://github.com/xorbitsai/inference) - ⭐ 8.8k / 通过改变一行代码，将OpenAI GPT替换为另一个LLM。Xinference让您可以自由使用任何您需要的LLM。使用Xinference，您可以在云端、本地甚至笔记本电脑上运行推理，无论是开源语言模型、语音识别模型还是多模态模型。
  * 🔴 [chameleon-llm](https://github.com/lupantech/chameleon-llm) - ⭐ 1.1k / 《变色龙：与大型语言模型进行即插即用的组合推理的代码》
  * 🟡 [HuatuoGPT](https://github.com/freedomintelligence/huatuogpt) - ⭐ 1.3k / 华佗GPT，朝着驯服语言模型成为医生迈进。（一个开放的医学GPT）
  * 🟡 [DB-GPT-Hub](https://github.com/eosphoros-ai/db-gpt-hub) - ⭐ 1.9k / 一个包含DB-GPT模型、数据集和微调技术的存储库，旨在提高文本到SQL的模型性能。
@@ -1397,17 +1412,17 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [AutoCoder](https://github.com/bin123apple/autocoder) - ⭐ 856 / 我们推出了一个专为代码生成任务设计的新模型。它在HumanEval基础数据集上的测试准确率超过了GPT-4 Turbo（2024年4月）和GPT-4o。
  * 🔴 [langui](https://github.com/langbaseinc/langui) - ⭐ 3.1k / 为您的人工智能设计的用户界面。为您的GPT、生成式人工智能和LLM项目量身定制的开源Tailwind组件。
  * 🟡 [go-translate](https://github.com/lorniu/go-translate) - ⭐ 341 / Emacs上的翻译器。支持多个引擎，如Google、Bing、deepL、ChatGPT、StarDict、有道等等。
- * 🟡 [ChatTTS](https://github.com/2noise/chattts) - ⭐ 38k / 每日对话生成模型。
+ * 🟢 [ChatTTS](https://github.com/2noise/chattts) - ⭐ 38k / 每日对话生成模型。
  * 🟡 [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - ⭐ 504 / 使用pgvector安全地与您的文档进行聊天的生产就绪MVP
  * 🟢 [auto-novel](https://github.com/fishhawk/auto-novel) - ⭐ 844 / 轻小说机翻网站，支持网络小说/文库小说/本地小说。
- * 🔴 [Q-Bench](https://github.com/q-future/q-bench) - ⭐ 280 / ①[ICLR2024焦点]（GPT-4V / Gemini-Pro / Qwen-VL-Plus + 16 OS MLLMs）低级视觉和视觉质量评估的多模态LLMs（MLLMs）基准。
+ * 🔴 [Q-Bench](https://github.com/q-future/q-bench) - ⭐ 280 / Qwen-VL-Plus + 16 OS MLLMs）低级视觉和视觉质量评估的多模态LLMs（MLLMs）基准。
  * 🟡 [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - ⭐ 284 / 低代码工具，支持ChatGPT和其他LLM
  * 🔴 [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - ⭐ 396 / 华陀GPT2，医学适应LLMs的一阶段训练。（一个开放的医学GPT）
  * 🔴 [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - ⭐ 435 / 一个端到端的AI主播定制模块，当前支持对接b站直播间，支持本地chatglm3和智谱api语言模型，支持so-vits-svc、gpt-sovits和bert-vits2语音模型。
  * 🔴 [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - ⭐ 365 / 预训练基础推荐模型纸质清单
- * 🟡 [mem0](https://github.com/mem0ai/mem0) - ⭐ 44k / LLMs的长期记忆
+ * 🟢 [mem0](https://github.com/mem0ai/mem0) - ⭐ 44k / LLMs的长期记忆
  * 🟢 [Github-Ranking-AI](https://github.com/yuxiaopeng/github-ranking-ai) - ⭐ 349 / 基于它们收到的星星数量，这是GitHub上最受欢迎的人工智能主题仓库列表。| AI相关主题Github仓库排名，每日自动更新。
- * 🔴 [searchGPT](https://github.com/michaelthwan/searchgpt) - ⭐ 705 / 基于LLM / ChatGPT / OpenAI API的有来源引用的搜索引擎。支持网页搜索、文件内容搜索等。
+ * 🔴 [searchGPT](https://github.com/michaelthwan/searchgpt) - ⭐ 705 / OpenAI API的有来源引用的搜索引擎。支持网页搜索、文件内容搜索等。
  * 🔴 [rag-gpt](https://github.com/gpt-open/rag-gpt) - ⭐ 478 / RAG-GPT，利用LLM和RAG技术，从用户定制的知识库中学习，为各种查询提供相关背景答案，确保快速准确的信息检索。
  * 🟢 [embedJs](https://github.com/llm-tools/embedjs) - ⭐ 589 / 一个NodeJS RAG框架，可以轻松地处理LLMs和嵌入。
  * 🟡 [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - ⭐ 231 / [NeurIPS 2023] 我们将行为的自然语言描述转化为可执行代码。
@@ -1429,8 +1444,8 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [E2B](https://github.com/e2b-dev/e2b) - ⭐ 10k / 安全的开源云运行时，用于AI应用程序和AI代理
  * 🟢 [MaxKB](https://github.com/1panel-dev/maxkb) - ⭐ 19k / 🚀 基于大型语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
  * 🟢 [SillyTavern](https://github.com/sillytavern/sillytavern) - ⭐ 21k / LLM高级用户前端。
- * 🟡 [instructor](https://github.com/jxnl/instructor) - ⭐ 12k / 为llms设计结构化输出
- * 🟡 [instructor](https://github.com/instructor-ai/instructor) - ⭐ 12k / 为llms设计结构化输出
+ * 🟢 [instructor](https://github.com/jxnl/instructor) - ⭐ 12k / 为llms设计结构化输出
+ * 🟢 [instructor](https://github.com/instructor-ai/instructor) - ⭐ 12k / 为llms设计结构化输出
  * 🟢 [buzz](https://github.com/chidiwilliams/buzz) - ⭐ 16k / Buzz在您的个人电脑上离线转录和翻译音频。由OpenAI的Whisper提供支持。
  * 🟢 [ai](https://github.com/vercel/ai) - ⭐ 20k / 使用React、Svelte、Vue和Solid构建AI驱动的应用程序
  * 🟢 [rivet](https://github.com/ironclad/rivet) - ⭐ 4.4k / 开源的视觉人工智能编程环境和TypeScript库
@@ -1442,7 +1457,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [refact](https://github.com/smallcloudai/refact) - ⭐ 3.4k / 用于微调和自托管开源大型语言模型进行编码的WebUI
  * 🟢 [ax](https://github.com/ax-llm/ax) - ⭐ 2.3k / 非官方DSPy框架。基于斯坦福DSP论文构建由LLM驱动的代理和“代理工作流”。
  * 🟢 [code-interpreter](https://github.com/e2b-dev/code-interpreter) - ⭐ 2.1k / Python和JS/TS SDK用于在您的AI应用程序中运行AI生成的代码/代码解释。
- * 🟡 [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - ⭐ 5.3k / 构建AI代理，原子化
+ * 🟢 [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - ⭐ 5.3k / 构建AI代理，原子化
  * 🟡 [BricksLLM](https://github.com/bricks-cloud/bricksllm) - ⭐ 1.1k / 🔒 企业级API网关，可帮助您监控并根据API密钥强制成本或速率限制。获得对每个用户、应用程序或环境的细粒度访问控制和监控。支持OpenAI、Azure OpenAI、Anthropic、vLLM和开源LLMs。
  * 🟡 [nerve](https://github.com/evilsocket/nerve) - ⭐ 1.3k / 创建LLM代理而无需编写代码。
  * 🟡 [OpenAdapt](https://github.com/openadaptai/openadapt) - ⭐ 1.4k / 开源生成过程自动化（即生成式RPA）。具有大型（[语言（LLMs）/动作（LAMs）/多模态（LMMs）/视觉语言（VLMs）]）模型的AI优先流程自动化。
@@ -1478,7 +1493,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [deep-research](https://github.com/u14app/deep-research) - ⭐ 4.3k / 使用任何LLMs（大型语言模型）进行深度研究。
  * 🟢 [EmbedAnything](https://github.com/starlightsearch/embedanything) - ⭐ 859 / 使用Rust构建的生产就绪推断、摄取和索引 🦀
  * 🟡 [shandu](https://github.com/jolovicdev/shandu) - ⭐ repo not found / OpenAI DeepResearch替代方案，一种由人工智能驱动的研究系统，可以利用多个搜索引擎和LLMs对任何主题进行全面、迭代的研究。
- * 🟡 [instructor](https://github.com/567-labs/instructor) - ⭐ 12k / 为llms设计结构化输出
+ * 🟢 [instructor](https://github.com/567-labs/instructor) - ⭐ 12k / 为llms设计结构化输出
  * 🟢 [xyne](https://github.com/xynehq/xyne) - ⭐ 641 / AI优先搜索和答案引擎，用于工作。Glean的开源替代方案。
  * 🟢 [aidermacs](https://github.com/matthewzmd/aidermacs) - ⭐ 837 / 在Emacs中使用Aider进行AI对编程进行配对
  * 🟢 [CodeWebChat](https://github.com/robertpiosik/codewebchat) - ⭐ 1.3k / 使用您的代码初始化任何网络聊天
@@ -1496,11 +1511,11 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [llm.nvim](https://github.com/kurama622/llm.nvim) - ⭐ 422 / 免费的大型语言模型（LLM）支持Neovim，提供与LLM交互的命令（如ChatGPT、ChatGLM、kimi、deepseek、openrouter和本地LLM）。支持Github模型。
  * 🟡 [2txt](https://github.com/ai-ng/2txt) - ⭐ 556 / 图像转文字，快速。
  * 🟢 [gpt-oss](https://github.com/openai/gpt-oss) - ⭐ 19k / gpt-oss-120b和gpt-oss-20b是OpenAI推出的两个开放权重语言模型。
- * 🟢 [dyad](https://github.com/dyad-sh/dyad) - ⭐ 18k / 免费、本地、开源的AI应用程序构建工具✨ v0 / 可爱 / Bolt替代品 🌟 如果你喜欢，请点赞！
+ * 🟢 [dyad](https://github.com/dyad-sh/dyad) - ⭐ 18k / Bolt替代品 🌟 如果你喜欢，请点赞！
  * 🟢 [open-swe](https://github.com/langchain-ai/open-swe) - ⭐ 5.1k / 一个开源的异步编码代理
  * 🟢 [VideoPipe](https://github.com/sherlockchou86/videopipe) - ⭐ 1.9k / 一个跨平台的视频结构化（视频分析）框架。如果您觉得有帮助，请给它一个星星：）
  * 🟢 [superagent](https://github.com/superagent-ai/superagent) - ⭐ 6.3k / AI的运行时防火墙可以实时阻止LLM漏洞。
- * 🟡 [UltraRAG](https://github.com/openbmb/ultrarag) - ⭐ 2.3k / #更少的代码，#更低的门槛，#更快的部署！基于MCP的低代码RAG框架，使研究人员能够构建复杂的流水线，实现创新。
+ * 🟢 [UltraRAG](https://github.com/openbmb/ultrarag) - ⭐ 2.3k / #更少的代码，#更低的门槛，#更快的部署！基于MCP的低代码RAG框架，使研究人员能够构建复杂的流水线，实现创新。
  * 🟢 [memori](https://github.com/gibsonai/memori) - ⭐ 9k / 开源内存引擎，用于LLMs，AI代理和多代理系统
  * 🟢 [dingo](https://github.com/migoxlab/dingo) - ⭐ 570 / 丁果：一款全面的人工智能数据质量评估工具
  * 🟢 [coderunner](https://github.com/instavm/coderunner) - ⭐ 644 / 一个安全的本地沙盒，用于在苹果容器中运行由LLM生成的代码
@@ -1508,9 +1523,9 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [ghostwriter](https://github.com/awwaiid/ghostwriter) - ⭐ 484 / 使用reMarkable2作为与视觉LLMs（ChatGPT、Claude、Gemini）的接口。机器中的幽灵！
  * 🟢 [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - ⭐ 681 / 展示如何使用Spring AI和Spring Boot构建由生成式AI和LLMs驱动的Java应用程序的示例。
  * 🟢 [echo](https://github.com/merit-systems/echo) - ⭐ 516 / Echo是一种适用于所有AI API的一站式计费解决方案。
- * 🟡 [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - ⭐ 210 / AIGNE DocSmith是一个强大的、基于AIGNE框架构建的AI驱动文档生成工具。它可以自动从您的源代码中生成详细、结构化和多语言文档。
+ * 🟢 [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - ⭐ 210 / AIGNE DocSmith是一个强大的、基于AIGNE框架构建的AI驱动文档生成工具。它可以自动从您的源代码中生成详细、结构化和多语言文档。
  * 🟡 [mcp-hub](https://github.com/ravitemer/mcp-hub) - ⭐ 389 / 一个集中管理器，用于Model Context Protocol（MCP）服务器，具有动态服务器管理和监控。
- * 🟡 [MineContext](https://github.com/volcengine/minecontext) - ⭐ 4.4k / MineContext是您主动的上下文感知人工智能伙伴（上下文工程+ChatGPT Pulse）
+ * 🟢 [MineContext](https://github.com/volcengine/minecontext) - ⭐ 4.4k / MineContext是您主动的上下文感知人工智能伙伴（上下文工程+ChatGPT Pulse）
  * 🟢 [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - ⭐ 352 / “大型语言模型快速入门指南”官方存储库
  * 🟢 [vizra-adk](https://github.com/vizra-ai/vizra-adk) - ⭐ 255 / 用Laravel的方式构建、测试和部署智能AI代理
  * 🟢 [Webscout](https://github.com/pyscout/webscout) - ⭐ 301 / Webscout是您需要的一体化搜索和人工智能工具包。使用Yep.com、DuckDuckGo和Phind发现见解；访问尖端人工智能模型；转录YouTube视频；生成临时电子邮件和电话号码；执行文本转语音转换；以及
@@ -1521,21 +1536,21 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [OpenMemory](https://github.com/caviraoss/openmemory) - ⭐ 2.4k / 在几分钟内为任何人工智能添加长期记忆。自托管，开放且无框架。
  * 🟢 [surf](https://github.com/deta/surf) - ⭐ 2.9k / 个人AI笔记本。整理文件和网页，并从中生成笔记。开源，本地和开放数据，开放模型选择（包括本地）。
  * 🟢 [voltagent](https://github.com/voltagent/voltagent) - ⭐ 4.1k / 开源TypeScript AI代理框架，内置LLM可观测性
- * 🟡 [pipelex](https://github.com/pipelex/pipelex) - ⭐ 589 / Pipelex：开源语言，用于AI代理创建和运行可重复的AI工作流程
+ * 🟢 [pipelex](https://github.com/pipelex/pipelex) - ⭐ 589 / Pipelex：开源语言，用于AI代理创建和运行可重复的AI工作流程
  * 🟢 [rowboat](https://github.com/rowboatlabs/rowboat) - ⭐ 4.3k / AI 动力多代理生成器
  * 🟢 [RAGLight](https://github.com/bessouat40/raglight) - ⭐ 611 / RAGLight是一个用于检索增强生成（RAG）的模块化框架。它可以轻松地插入不同的LLMs、嵌入和向量存储，并且现在包括无缝的MCP集成，以连接外部工具和数据源。
- * 🟡 [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ⭐ 511 / 采用Rust构建的AI驱动的开源深度维基生成器 - 在几分钟内将您的代码库转换为专业架构文档
+ * 🟢 [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ⭐ 511 / 采用Rust构建的AI驱动的开源深度维基生成器 - 在几分钟内将您的代码库转换为专业架构文档
  * 🟢 [oracle](https://github.com/steipete/oracle) - ⭐ 451 / 当你遇到困难时，请向神谕求助。使用自定义上下文和文件调用GPT-5 Pro。
  * 🟢 [edsl](https://github.com/expectedparrot/edsl) - ⭐ 363 / 设计、进行和分析AI驱动的调查和实验结果。使用大量的AI代理和LLMs模拟社会科学和市场研究。
  * 🟢 [Acontext](https://github.com/memodb-io/acontext) - ⭐ 1.3k / 一个地方供代理商存储、观察和学习。自学代理商的上下文数据平台，旨在简化上下文工程并提高代理商的可靠性和任务成功率。
- * 🟡 [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 277 / 使用人工智能和Azure SQL数据库的样本
- * 🟡 [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 206 / 一个轻量级、强大的多代理工作流框架，适用于Go语言。
+ * 🟢 [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 277 / 使用人工智能和Azure SQL数据库的样本
+ * 🟢 [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 206 / 一个轻量级、强大的多代理工作流框架，适用于Go语言。
 
 
 ## Langchain
 
  * 🟢 [langchain](https://github.com/hwchase17/langchain) - ⭐ 121k / ⚡通过可组合性使用LLMs构建应用程序⚡
- * 🟡 [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - ⭐ 46k / 一个Gradio Web UI，用于运行像LLaMA、llama.cpp、GPT-J、OPT和GALACTICA这样的大型语言模型。
+ * 🟢 [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - ⭐ 46k / 一个Gradio Web UI，用于运行像LLaMA、llama.cpp、GPT-J、OPT和GALACTICA这样的大型语言模型。
  * 🟢 [llama_index](https://github.com/jerryjliu/llama_index) - ⭐ 46k / LlamaIndex（GPT指数）是一个项目，提供一个中央接口，将您的LLM与外部数据连接起来。
  * 🟡 [llama](https://github.com/facebookresearch/llama) - ⭐ 59k / LLaMA模型的推理代码
  * 🔴 [GPTQ-for-LLaMa](https://github.com/qwopqwop200/gptq-for-llama) - ⭐ 3.1k / 使用GPTQ对LLaMA进行4位量化
@@ -1569,14 +1584,14 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - ⭐ 187 / 我的当前探索：PyCodeAGI，一个@LangChainAI #AIAgent，它可以根据目标构建一个Python控制台应用程序，刚刚获得了@OpenAI #GPT4的超能力：要求它构建一个“魔法应用程序”-它构建了一些创意。甚至没有一个错误...
  * 🔴 [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - ⭐ 1.5k / 多模态-GPT
  * 🟡 [snowChat](https://github.com/kaarthik108/snowchat) - ⭐ 544 / 在您的雪花数据库上聊天 - 文本转SQL
- * 🟡 [DB-GPT](https://github.com/csunny/db-gpt) - ⭐ 18k / 使用本地GPT与数据和环境进行交互，无数据泄漏，100%私密，100%安全。
+ * 🟢 [DB-GPT](https://github.com/csunny/db-gpt) - ⭐ 18k / 使用本地GPT与数据和环境进行交互，无数据泄漏，100%私密，100%安全。
  * 🔴 [LaWGPT](https://github.com/pengxiao-song/lawgpt) - ⭐ 6k / 🎉 LaWGPT仓库，中文羊驼调整的中文法律知识模型。基于中文法律知识的大语言模型。
  * 🔴 [InternGPT](https://github.com/opengvlab/interngpt) - ⭐ 3.2k / InternGPT（iGPT）是一个开源演示平台，您可以轻松展示您的AI模型。现在它支持DragGAN、ChatGPT、ImageBind、多模式聊天（如GPT-4、SAM）、交互式图像编辑等。请在igpt.opengvlab.com上尝试。
  * 🟢 [chainlit](https://github.com/chainlit/chainlit) - ⭐ 11k / 在几分钟内构建Python LLM应用程序 ⚡️
  * 🟢 [Flowise](https://github.com/flowiseai/flowise) - ⭐ 47k / 使用LangchainJS拖放界面构建您定制的LLM流程
  * 🔴 [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - ⭐ 760 / 将文本文件嵌入向量中，存储在Pinecone上，并使用GPT3和Langchain在Next.js UI中实现语义搜索。
  * 🔴 [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - ⭐ 118 / 扩展原始的llama.cpp仓库以支持redpajama模型。
- * 🟡 [OgbujiPT](https://github.com/uogbuji/ogbujipt) - ⭐ 113 / 通过langchain和其他方式使用自托管的大型语言模型的工具包
+ * 🟢 [OgbujiPT](https://github.com/uogbuji/ogbujipt) - ⭐ 113 / 通过langchain和其他方式使用自托管的大型语言模型的工具包
  * 🔴 [godot-dodo](https://github.com/minosvasilias/godot-dodo) - ⭐ 557 / 为GDScript生成调整大型语言模型。
  * 🔴 [eva](https://github.com/georgia-tech-db/eva) - ⭐ 2.7k / 构建更简单、更快的人工智能应用程序的数据库系统
  * 🔴 [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - ⭐ 662 / 挺好奇ChatGPT那种流式输出，费了牛劲，堆砌出了基于Python LangChain的实现，涵盖控制台和Web3应用的异步流式输出。Python异步编程还需深入学习🧐代码👇视频分享👇bilibili:   #LangChain #ChatGPT #OpenAI
@@ -1584,7 +1599,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [gpt-producer](https://github.com/juankysoriano/gpt-producer) - ⭐ 32 / 介绍“GPT-Producer”带上你的数字钢琴，你的@OpenAI API密钥和你的#GPU，成为一位艺术家！#音乐生成 #音频制作 #gpt 感谢@LangChainAI和@MetaAI提供的工具使这一切成为可能！
  * 🟡 [MedicalGPT](https://github.com/shibing624/medicalgpt) - ⭐ 4.4k / MedicalGPT：使用ChatGPT训练流程训练您自己的医疗GPT模型。
  * 🔴 [rag-stack](https://github.com/psychic-api/rag-stack) - ⭐ 1.5k / 🤖 在您的VPC中部署一个私有的ChatGPT替代品。🔮 将其连接到您的组织知识库，并将其用作企业预言机。支持开源的LLMs，如Llama 2、Falcon和GPT4All。
- * 🟡 [opencompass](https://github.com/internlm/opencompass) - ⭐ 6.4k / OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA，LLaMa2，ChatGLM2，ChatGPT，Claude等）。
+ * 🟢 [opencompass](https://github.com/internlm/opencompass) - ⭐ 6.4k / OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA，LLaMa2，ChatGLM2，ChatGPT，Claude等）。
  * 🔴 [dolphin](https://github.com/kaleido-lab/dolphin) - ⭐ 254 / 基于LLMs的通用视频互动平台，包括Video ChatGPT。
  * 🔴 [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - ⭐ 2.5k / 使用LLMs作为ChatGPT的开放AI风格API，开放大型语言模型的统一后端接口。
  * 🟡 [AtomGPT](https://github.com/atomecho/atomgpt) - ⭐ repo not found / 中英文预训练大模型，目标与ChatGPT的水平一致
@@ -1592,7 +1607,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [BayLing](https://github.com/ictnlp/bayling) - ⭐ 318 / “百聆”是一个基于LLaMA的语言对齐增强的英语/中文大语言模型，具有优越的英语/中文能力，在多语言和通用任务等多项测试中取得ChatGPT 90%的性能。BayLing是一个配备先进语言对齐功能的英语/中文LLM，展现出在英语/中文生成、指令遵循和多轮互动方面的卓越能力。
  * 🟡 [auto-news](https://github.com/finaldie/auto-news) - ⭐ 798 / 一个个人新闻聚合器，可以从多个来源获取信息+LLM（通过LangChain的ChatGPT）帮助我们以更高效的方式阅读，减少干扰。这些来源包括：推特、RSS、YouTube、网页文章、Reddit和个人日记笔记。
  * 🔴 [Zhongjing](https://github.com/suprityoung/zhongjing) - ⭐ 383 / 一个基于LLaMa的中文医学ChatGPT，通过大规模预训练语料库和多轮对话数据集进行训练。
- * 🟡 [opencompass](https://github.com/open-compass/opencompass) - ⭐ 6.4k / OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude等）。
+ * 🟢 [opencompass](https://github.com/open-compass/opencompass) - ⭐ 6.4k / OpenCompass是一个LLM评估平台，支持50多个数据集上的多种模型（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claude等）。
  * 🔴 [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - ⭐ 35 / 使用Gradio和Langchain创建下一个ChatGPT应用的易于入侵的模板。
  * 🔴 [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ⭐ 2k / ChatGPT爆火，开启了通往AGI的关键一步，本项目旨在汇总那些ChatGPT的开源平台们，包括文本大模型、多模态大模型等，为大家提供一些便利。
  * 🟢 [gpt_academic](https://github.com/binary-husky/gpt_academic) - ⭐ 70k / 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮和函数插件，支持Python和C++等项目剖析和自译解功能，PDF/LaTex论文翻译和总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言、moss、llama2、rwkv、claude2、通义千问、书生、讯飞星火等。
@@ -1631,7 +1646,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - ⭐ 264 / GPT Auth提供了一个用户友好的解决方案，可以快速设置oauth，用于您定制的GPT并自行托管。
  * 🟢 [langchain-swift](https://github.com/buhe/langchain-swift) - ⭐ 422 / 🚀 为Swift优化的LangChain。针对iOS、macOS、watchOS（部分）和visionOS进行了优化。（测试版）
  * 🟡 [RepoAgent](https://github.com/openbmb/repoagent) - ⭐ 846 / 一个由LLM驱动的存储库代理，旨在帮助开发人员和团队快速生成文档并理解存储库。
- * 🟡 [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - ⭐ 565 / 本地 Ollama 和类似 OpenAI 的 GPT 的协助，以实现最大隐私和离线访问。
+ * 🟢 [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - ⭐ 565 / 本地 Ollama 和类似 OpenAI 的 GPT 的协助，以实现最大隐私和离线访问。
  * 🟡 [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - ⭐ 8.6k / LangChain的中文入门教程
  * 🔴 [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - ⭐ 757 / 启真GPT：一个开源的中文医疗大语言模型
  * 🟢 [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - ⭐ 315 / 一个在Azure上运行的检索增强生成模式的TypeScript示例应用程序，使用Azure AI Search进行检索，使用Azure OpenAI和LangChain大型语言模型（LLMs）来支持ChatGPT风格和问答体验。
@@ -1643,17 +1658,17 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - ⭐ 1.9k / 由LLM | OpenAI，Gemini和Ollama提供支持的强大网络爬虫
  * 🟡 [MLE-agent](https://github.com/mlsysops/mle-agent) - ⭐ 1.4k / 🤖 MLE-Agent：您无缝AI工程和研究的智能伴侣。🔍 与arxiv和paper with code集成，提供更好的代码/研究计划 🧰 支持OpenAI、Anthropic、Ollama等。:fireworks: Code RAG
  * 🔴 [sage](https://github.com/storia-ai/sage) - ⭐ 1.3k / 在两分钟内与任何代码库进行聊天 | 完全本地或通过第三方API
- * 🟡 [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ⭐ 1.3k / AI 动力的 Markdown 笔记应用程序-利用矢量嵌入和 LLMs 与您的个人笔记-100% 本地或在云端
+ * 🟢 [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ⭐ 1.3k / AI 动力的 Markdown 笔记应用程序-利用矢量嵌入和 LLMs 与您的个人笔记-100% 本地或在云端
  * 🟡 [search2ai](https://github.com/fatwang2/search2ai) - ⭐ 1.3k / 在线帮助您的LLMs
- * 🟡 [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - ⭐ 6.8k / 一份可通过API访问的免费LLM推理资源列表。
+ * 🟢 [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - ⭐ 6.8k / 一份可通过API访问的免费LLM推理资源列表。
  * 🟢 [tensorzero](https://github.com/tensorzero/tensorzero) - ⭐ 11k / TensorZero为优化LLM应用程序创建了一个反馈循环-将生产数据转化为更智能、更快速、更便宜的模型。
  * 🟡 [langchain-rust](https://github.com/abraxas-365/langchain-rust) - ⭐ 1.2k / 🦜️🔗LangChain为Rust提供了最简单的方式来编写基于LLM的程序
  * 🟡 [llama3.java](https://github.com/mukel/llama3.java) - ⭐ 785 / 在Java中进行实用Llama 3推断
  * 🟢 [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - ⭐ 883 / 高质量资源和应用程序供LLMs、多模型和VectorDBs使用
- * 🟡 [markitdown](https://github.com/microsoft/markitdown) - ⭐ 84k / Python工具，用于将文件和办公文档转换为Markdown。
+ * 🟢 [markitdown](https://github.com/microsoft/markitdown) - ⭐ 84k / Python工具，用于将文件和办公文档转换为Markdown。
  * 🟢 [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - ⭐ 2k / 使用Zotero聊天PDF与GPT，ChatGPT，克劳德，双子座，DeepSeek
  * 🟢 [Jlama](https://github.com/tjake/jlama) - ⭐ 1.2k / Jlama是一个现代的Java LLM推理引擎。
- * 🟢 [langchat](https://github.com/tycoding/langchat) - ⭐ 1.2k / LangChat: Java LLMs/AI 项目，支持多个 AI 供应商（码云 AI / 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型），Java 生态下 AI 大模型产品解决方案，快速构建企业级 AI 知识库、AI 机器人应用
+ * 🟢 [langchat](https://github.com/tycoding/langchat) - ⭐ 1.2k / Claude 等大模型），Java 生态下 AI 大模型产品解决方案，快速构建企业级 AI 知识库、AI 机器人应用
  * 🟡 [ExtractThinker](https://github.com/enoch3712/extractthinker) - ⭐ 1.5k / ExtractThinker是一种面向LLMs的文档智能库，为灵活和强大的文档工作流提供ORM风格的交互。
  * 🟡 [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - ⭐ 1.5k / 该存储库提供了一个用于复杂问题回答的先进的检索增强生成（RAG）解决方案。它使用复杂的基于图形的算法来处理任务。
  * 🟢 [LLPhant](https://github.com/llphant/llphant) - ⭐ 1.4k / LLPhant - 一个全面的PHP生成AI框架，使用OpenAI GPT 4。受Langchain启发。
@@ -1678,23 +1693,23 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [openinference](https://github.com/arize-ai/openinference) - ⭐ 749 / OpenTelemetry为AI可观测性提供仪器化。
  * 🟢 [WorkflowAI](https://github.com/workflowai/workflowai) - ⭐ 455 / WorkflowAI是一个开源平台，产品和工程团队可以合作构建和迭代人工智能功能。
  * 🟢 [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - ⭐ 1.5k / 由LangGraph和Tavily提供支持的一种主动公司研究工具，利用多代理框架对公司进行深入的尽职调查。它在后端利用谷歌的Gemini 2.0 Flash和OpenAI的GPT-4.1进行推理。
- * 🟢 [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - ⭐ 9.9k / 克劳德代码 + [双子座 / OpenAI / Grok / OpenRouter / 奥拉玛 / 定制模型 / 以上所有] 联合运作的力量。
+ * 🟢 [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - ⭐ 9.9k / 以上所有] 联合运作的力量。
  * 🟡 [llm-ui](https://github.com/richardgill/llm-ui) - ⭐ 1.7k / 用于LLMs的React库
  * 🟢 [boxcars](https://github.com/boxcarsai/boxcars) - ⭐ 457 / 使用LLM的Boxcars构建具有可组合性的应用程序。受LangChain启发。
  * 🟢 [sglang](https://github.com/sgl-project/sglang) - ⭐ 21k / SGLang是一个快速的服务框架，适用于大型语言模型和视觉语言模型。
- * 🟡 [ai-guide](https://github.com/liyupi/ai-guide) - ⭐ 857 / 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块。
+ * 🟢 [ai-guide](https://github.com/liyupi/ai-guide) - ⭐ 857 / 程序员鱼皮的 AI 知识库，汇总热门的 AI 大模型和工具，比如 Deepseek 使用指南、提示词技巧、知识干货、应用场景、AI 变现、行业资讯、教程资源等一系列内容，帮助你快速掌握 AI 技术，走在时代前沿。涉及大模型 ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROK 等；涉及技术 Spring AI、LangChain、RAG、MCP、A2A 等；涉及 Cursor 等工具。本项目为开源文档版本，网站已升级为编程导航 AI 板块。
  * 🟢 [coze-loop](https://github.com/coze-dev/coze-loop) - ⭐ 5.1k / 下一代AI代理优化平台：Cozeloop通过提供从开发、调试、评估到监控的全生命周期管理能力，解决了AI代理开发中的挑战。
  * 🟢 [tools](https://github.com/strands-agents/tools) - ⭐ 810 / 一组工具，为代理商提供强大的功能。
  * 🟢 [langchain](https://github.com/langchain-ai/langchain) - ⭐ 121k / 🦜🔗 构建具有上下文感知推理功能的应用程序
  * 🟢 [ollama](https://github.com/ollama/ollama) - ⭐ 157k / 使用OpenAI gpt-oss、DeepSeek-R1、Gemma 3和其他模型快速上手。
  * 🟢 [aikit](https://github.com/kaito-project/aikit) - ⭐ 498 / 🏗️ 轻松微调、构建和部署开源LLMs！
- * 🟡 [kubewall](https://github.com/kubewall/kubewall) - ⭐ 1.7k / kubewall - 开源、单一二进制文件的 Kubernetes 仪表板，具有多集群管理和人工智能集成功能。 (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
+ * 🟢 [kubewall](https://github.com/kubewall/kubewall) - ⭐ 1.7k / LMStudio)
  * 🟢 [restai](https://github.com/apocas/restai) - ⭐ 439 / RESTai是一个AIaaS（AI即服务）开源平台。建立在LlamaIndex和Langchain之上。支持由LlamaIndex支持的任何公共LLM和由Ollama/vLLM等支持的任何本地LLM。精确的嵌入使用和调整。内置图像生成。
  * 🟢 [local-deep-research](https://github.com/learningcircuit/local-deep-research) - ⭐ 3.7k / 本地深度研究在SimpleQA基准测试中达到了约95%的准确率（使用GPT-4.1-mini进行测试）。支持本地和云端的LLMs（Ollama、Google、Anthropic等）。搜索10多个来源 - arXiv、PubMed、网络和您的私人文档。一切都在本地。
- * 🟡 [sre](https://github.com/smythos/sre) - ⭐ 1.2k / 代理商操作系统
- * 🟡 [osaurus](https://github.com/dinoki-ai/osaurus) - ⭐ 1.6k / 本地，仅适用于苹果硅的LLM服务器。类似于Ollama，但基于苹果的MLX构建，以在M系列芯片上实现最佳性能。SwiftUI应用程序+SwiftNIO服务器，具有与OpenAI兼容的端点。
+ * 🟢 [sre](https://github.com/smythos/sre) - ⭐ 1.2k / 代理商操作系统
+ * 🟢 [osaurus](https://github.com/dinoki-ai/osaurus) - ⭐ 1.6k / 本地，仅适用于苹果硅的LLM服务器。类似于Ollama，但基于苹果的MLX构建，以在M系列芯片上实现最佳性能。SwiftUI应用程序+SwiftNIO服务器，具有与OpenAI兼容的端点。
  * 🟢 [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⭐ 3.4k / ⚡ 无Python的Rust推理服务器 — 兼容OpenAI-API。GGUF + SafeTensors，热模型交换，自动发现，单一二进制文件。现在免费，永久免费。
- * 🟡 [samples](https://github.com/strands-agents/samples) - ⭐ 527 / 使用Strands Agents SDK 构建的代理样本。
+ * 🟢 [samples](https://github.com/strands-agents/samples) - ⭐ 527 / 使用Strands Agents SDK 构建的代理样本。
  * 🟢 [nexa-sdk](https://github.com/nexaai/nexa-sdk) - ⭐ 6.1k / 在GPU、NPU和CPU上运行最新的LLMs和VLMs，并使用Python、Android Java和iOS Swift的绑定，快速启动OpenAI gpt-oss、Gemma 3、Qwen3等。
  * 🟢 [LlmTornado](https://github.com/lofcz/llmtornado) - ⭐ 466 / 使用100多个LLM API构建AI系统的.NET库：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAI等等！
  * 🟢 [chats](https://github.com/sdcb/chats) - ⭐ 421 / 用户友好的企业级AI界面（支持Ollama、OpenAI API、DeepSeek等）
@@ -1715,7 +1730,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [unity-AI-Chat-Toolkit](https://github.com/zhangliwei7758/unity-ai-chat-toolkit) - ⭐ 729 / 使用Unity实现AI聊天相关功能。目前这个库包含了对ChatGPT、ChatGLM等大语言模型的API调用的代码实现以及实现了微软Azure以及百度AI的语音服务功能，语音服务均采用Web API实现，支持Windows/WebGL/Android等平台。
  * 🟡 [open-ai](https://github.com/orhanerday/open-ai) - ⭐ 2.4k / OpenAI PHP SDK：最受欢迎、被Fork最多、贡献最多、拥有庞大社区支持的PHP（Laravel、Symfony、Yii、Cake PHP或任何PHP框架）SDK，用于OpenAI GPT-3和DALL-E。它还支持类似ChatGPT的流式聊天。（支持ChatGPT AI）
  * 🟡 [betterscan-ce](https://github.com/marcinguy/betterscan-ce) - ⭐ repo not found / 使用多种工具/扫描器进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码，IaC）- Betterscan 社区版（CE）输出：
- * 🟡 [open-saas](https://github.com/wasp-lang/open-saas) - ⭐ 13k / 一个免费、开源的React和Node.js SaaS应用程序启动器，具有超强功能。可用于生产环境。由社区驱动。
+ * 🟢 [open-saas](https://github.com/wasp-lang/open-saas) - ⭐ 13k / 一个免费、开源的React和Node.js SaaS应用程序启动器，具有超强功能。可用于生产环境。由社区驱动。
  * 🟡 [betterscan-ce](https://github.com/topcodersonline-solutions/betterscan-ce) - ⭐ repo not found / 使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan 社区版（CE）输出：Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan 社区版 (CE)
  * 🟡 [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - ⭐ repo not found / 使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan社区版（CE）输出：使用多种工具/扫描仪进行代码扫描/SAST/静态分析/代码检查 + OpenAI GPT 生成一份报告（代码、IaC）- Betterscan社区版（CE）
  * 🔴 [openai-kit](https://github.com/dylanshine/openai-kit) - ⭐ 733 / 一个用于与OpenAI API交互的社区Swift软件包
@@ -1785,7 +1800,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [iChatGPT](https://github.com/37ios/ichatgpt) - ⭐ 967 / OpenAI ChatGPT SwiftUI 应用程序适用于 iOS、iPadOS 和 macOS。
  * 🔴 [SwiftOpenAI](https://github.com/swiftbeta/swiftopenai) - ⭐ 243 / 使用Swift ❤️构建的OpenAI API
  * 🟡 [OpenAISwift](https://github.com/adamrushy/openaiswift) - ⭐ 1.7k / 这是一个围绕ChatGPT和OpenAI HTTP API的包装库。
- * 🟡 [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - ⭐ 95 / 一个简单轻量级的库，包装了Open AI API。
+ * 🟢 [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - ⭐ 95 / 一个简单轻量级的库，包装了Open AI API。
  * 🔴 [subvert](https://github.com/aschmelyun/subvert) - ⭐ 849 / 在几秒钟内从视频中生成字幕、摘要和章节
  * 🟢 [carrot](https://github.com/xx025/carrot) - ⭐ 17k / 免费ChatGPT站点列表，包含100+个镜像站点，方便使用。
  * 🔴 [impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt) - ⭐ 75 / OpenAI的chatgpt收集了许多令人印象深刻和有用的结果。
@@ -1854,11 +1869,11 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [ChatGPT_JCM](https://github.com/202252197/chatgpt_jcm) - ⭐ 3k / OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点地将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
  * 🔴 [aiac](https://github.com/gofireflyio/aiac) - ⭐ 3.8k / 人工智能基础设施即代码生成器。
  * 🟢 [openai](https://github.com/anasfik/openai) - ⭐ 650 / ChatGPT和所有OpenAI API（GPT、Dall-e等）的Dart/Flutter SDK
- * 🟡 [chat](https://github.com/swuecho/chat) - ⭐ 561 / 用于团队的聊天网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。输出：团队聊天的网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。
+ * 🟢 [chat](https://github.com/swuecho/chat) - ⭐ 561 / 用于团队的聊天网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。输出：团队聊天的网络应用程序，具有用户管理和速率限制，支持ChatGPT（OpenAI和Azure），Claude或自定义模型。
  * 🔴 [VirtualWife](https://github.com/yakami129/virtualwife) - ⭐ 2.7k / VirtualWife是一个虚拟数字人项目，项目还处于孵化阶段，有很多需要优化的地方，作者想打造一个拥有自己“灵魂”的虚拟数字人，你可以像朋友一样和她相识，作者希望虚拟数字人融入人类生活，作为恋爱导师，心理咨询师，解决人类的情感需求。
  * 🟡 [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - ⭐ invalid / 将Github Copilot的请求转换为ChatGPT的请求，可以免费使用GPT-4模型。
  * 🔴 [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - ⭐ 507 / 静态网页，允许您使用OpenAI API密钥，获得与ChatGPT相同的体验！
- * 🔴 [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - ⭐ 1.3k / 免费聊天GPT 3.5 / 聊天GPT 4 | 免费OpenAI / 聊天GPT API
+ * 🔴 [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - ⭐ 1.3k / 聊天GPT API
  * 🟢 [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - ⭐ 731 / AI生成代码
  * 🟡 [BestGPTs](https://github.com/agentops-ai/bestgpts) - ⭐ 1k / 排名靠前的OpenAI GPTs
  * 🟢 [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - ⭐ 356 / Flutter ChatGPT是一个基于Flutter框架开发的聊天机器人应用。它使用了OpenAI的ChatGPT模型，可以与用户进行自然语言交互。用户可以通过输入文本与ChatGPT进行对话，ChatGPT会根据用户的输入生成相应的回复。这个应用可以用于开发各种类型的聊天机器人，如客服机器人、智能助手等。Flutter ChatGPT具有良好的用户界面和交互体验，可以在移动设备上运行。
@@ -1868,23 +1883,23 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [hello-ai](https://github.com/xxxily/hello-ai) - ⭐ 1.2k / 抢走你工作的不是AI，而是掌握使用AI工具的人。降维打击最为致命：毁灭你，与你何干《三体》
  * 🔴 [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - ⭐ 755 / 这个仓库提供了一个简单的界面，帮助您阅读和总结PDF格式的研究论文。阅读后您可以提出一些问题。这个界面是基于openai API开发的，使用了GPT-3.5-turbo模型。
  * 🔴 [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - ⭐ 686 / 基于Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebase等创建最佳管理员。
- * 🟢 [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - ⭐ 699 / JavaScript BPE Tokenizer编码器解码器适用于OpenAI的GPT-2 / GPT-3 / GPT-4。具有额外功能的OpenAI的tiktoken端口。
+ * 🟢 [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - ⭐ 699 / GPT-4。具有额外功能的OpenAI的tiktoken端口。
  * 🟡 [tiktokenizer](https://github.com/dqbd/tiktokenizer) - ⭐ 1.4k / 在线游乐场，用于OpenAPI令牌化器
- * 🟡 [cognee](https://github.com/topoteretes/cognee) - ⭐ 9.6k / AI应用程序和AI代理的内存管理
- * 🟡 [finance](https://github.com/saleem-hadad/finance) - ⭐ 407 / 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
+ * 🟢 [cognee](https://github.com/topoteretes/cognee) - ⭐ 9.6k / AI应用程序和AI代理的内存管理
+ * 🟢 [finance](https://github.com/saleem-hadad/finance) - ⭐ 407 / 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
  * 🟡 [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - ⭐ 1k / 基于OpenAI API的纯JavaScript ChatGPT演示
- * 🟡 [one-api](https://github.com/martialbe/one-api) - ⭐ 2.5k / OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
+ * 🟢 [one-api](https://github.com/martialbe/one-api) - ⭐ 2.5k / OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
  * 🔴 [lux-ui](https://github.com/yangjiakai/lux-ui) - ⭐ 686 / 基于Vue3.x、Vite5.x、TypeScript、Vuetify3.x和Chat GPT创建最佳管理员
  * 🔴 [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ⭐ 490 / ChatGPT-Pro是一个先进的应用程序，结合了ChatGPT和DALL.E的强大功能。
  * 🔴 [AI-Functions](https://github.com/torantulino/ai-functions) - ⭐ 940 / AI 功能魔法：使用 GPT 模型再也不需要编码了！
  * 🟡 [chat2api](https://github.com/lanqian528/chat2api) - ⭐ 3.3k / 一个可以将网络上的ChatGPT转换为OpenAI API格式的服务。
  * 🔴 [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - ⭐ 983 / AI 代码审查员：通过使用 AI 强化您的 GitHub 工作流程！使用 OpenAI 的 GPT-4 API 在拉取请求上获得智能反馈和建议，提高代码质量，节省开发人员的时间。
- * 🟡 [yomo](https://github.com/yomorun/yomo) - ⭐ 1.9k / 🦖 用于构建地理分布式边缘人工智能基础设施的有状态无服务器框架
+ * 🟢 [yomo](https://github.com/yomorun/yomo) - ⭐ 1.9k / 🦖 用于构建地理分布式边缘人工智能基础设施的有状态无服务器框架
  * 🔴 [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - ⭐ 379 / 这个项目是一个Python脚本，从Gumroad网站上爬取数据，使用OpenAI的GPT-4模型生成一个色彩丰富、设计精美的HTML页面，并部署生成的页面到Vercel。
  * 🔴 [ninja](https://github.com/0x676e67/ninja) - ⭐ 1.7k / 逆向工程ChatGPT代理
  * 🟡 [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - ⭐ 1.1k / 集成了openai-api、bing、gemini、coze、绘画 多款AI的聊天接口适配到 OpenAI API 标准接口服务端。
  * 🔴 [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - ⭐ 383 / OpenAI API 免费反向代理
- * 🟡 [hisabi](https://github.com/hisabi-app/hisabi) - ⭐ 407 / 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
+ * 🟢 [hisabi](https://github.com/hisabi-app/hisabi) - ⭐ 407 / 💰 由ChatGPT提供支持的免费开源个人财务跟踪网络应用程序。
  * 🟢 [stride-gpt](https://github.com/mrwadams/stride-gpt) - ⭐ 885 / 一种利用OpenAI的GPT模型生成给定应用程序的威胁模型的AI动力威胁建模工具，基于STRIDE方法论。
  * 🟢 [generative-manim](https://github.com/360macky/generative-manim) - ⭐ 715 / 🎨 视频生成的GPT ⚡️
  * 🟡 [celeris-web](https://github.com/kirklin/celeris-web) - ⭐ 490 / Celeris Web 是一个高性能且可定制的前端开发模板，使用了Vue 3、Vite 和 TypeScript 构建。它具有最新的语法、组件和 API 自动导入、状态管理、中文字体预设、国际化等功能。
@@ -1892,7 +1907,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - ⭐ 352 / 使用GPT和tiktoken的现成分词库
  * 🟢 [ai-commit](https://github.com/guanguans/ai-commit) - ⭐ 389 / 使用 AI 自动化生成传统的 git 提 commit 信息。
  * 🔴 [MatGPT](https://github.com/toshiakit/matgpt) - ⭐ 232 / MATLAB 应用程序可访问 OpenAI 的 ChatGPT API
- * 🟡 [one-hub](https://github.com/martialbe/one-hub) - ⭐ 2.5k / OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
+ * 🟢 [one-hub](https://github.com/martialbe/one-hub) - ⭐ 2.5k / OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。 OpenAI接口管理和分发系统，基于songquanpeng/one-api进行改进。支持更多模型，添加统计页面，完善非OpenAI模型的函数调用。
  * 🟢 [whodb](https://github.com/clidey/whodb) - ⭐ 4.3k / 一个轻量级的下一代数据浏览器 - Postgres，MySQL，SQLite，MongoDB，Redis，MariaDB和Elastic Search，带有聊天界面
  * 🟡 [sum4all](https://github.com/fatwang2/sum4all) - ⭐ 353 / 网页、视频、图片大模型总结
  * 🟡 [Pet-GPT](https://github.com/hanzoe/pet-gpt) - ⭐ 377 / Pet-GPT 是一个使用 PyQt 编写的桌面宠物程序，支持调用 OpenAI 的 GPT 进行上下文对话，然后主动找你聊天！
@@ -1902,24 +1917,24 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [inbox-zero](https://github.com/elie222/inbox-zero) - ⭐ 9.5k / 开源电子邮件应用程序，快速达到收件箱零。
  * 🟢 [ToolJet](https://github.com/tooljet/tooljet) - ⭐ 37k / 用于构建业务应用程序的低代码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google表格、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScript构建。🚀
  * 🟢 [AutoGPT](https://github.com/significant-gravitas/autogpt) - ⭐ 180k / AutoGPT是让每个人都能够使用和构建的AI的愿景。我们的使命是提供工具，让您可以专注于重要的事情。
- * 🟡 [pr-agent](https://github.com/codium-ai/pr-agent) - ⭐ 9.6k / 🚀CodiumAI PR-Agent：一款AI驱动的🤖工具，用于自动化拉取请求分析、反馈、建议等！💻🔍
+ * 🟢 [pr-agent](https://github.com/codium-ai/pr-agent) - ⭐ 9.6k / 🚀CodiumAI PR-Agent：一款AI驱动的🤖工具，用于自动化拉取请求分析、反馈、建议等！💻🔍
  * 🟢 [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - ⭐ 5.2k / 基于OpenAI Whisper的自动语音识别和说话者分离
  * 🟡 [swarm](https://github.com/openai/swarm) - ⭐ 21k / 教育框架探索符合人体工程学的轻量级多代理编排。由OpenAI解决方案团队管理。
  * 🟡 [DashPlayer](https://github.com/solidspoon/dashplayer) - ⭐ 3.4k / 专为英语学习者量身定制的视频播放器，帮助您通过观看视频、沉浸于真实语境中，轻松提升英语水平。#美剧 #播放器 #听力
  * 🟢 [logfire](https://github.com/pydantic/logfire) - ⭐ 3.8k / Python及更多的简单可观测性！🪵🔥
  * 🟢 [new-api](https://github.com/calcium-ion/new-api) - ⭐ 13k / AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，仅供个人或者企业内部管理与分发渠道使用，请勿用于商业用途，本项目基于One API二次开发。
  * 🟢 [STranslate](https://github.com/zggsong/stranslate) - ⭐ 4.5k / 一款由WPF开发的即开即用、即用即走的翻译OCR工具
- * 🟡 [fastembed](https://github.com/qdrant/fastembed) - ⭐ 2.5k / 快速、准确、轻量级的Python库，用于生成最先进的嵌入。
+ * 🟢 [fastembed](https://github.com/qdrant/fastembed) - ⭐ 2.5k / 快速、准确、轻量级的Python库，用于生成最先进的嵌入。
  * 🟡 [openai-openapi](https://github.com/openai/openai-openapi) - ⭐ 2.3k / OpenAI API的OpenAPI规范
- * 🟡 [openai-dotnet](https://github.com/openai/openai-dotnet) - ⭐ 2.4k / OpenAI API的官方.NET库
+ * 🟢 [openai-dotnet](https://github.com/openai/openai-dotnet) - ⭐ 2.4k / OpenAI API的官方.NET库
  * 🟢 [stable-ts](https://github.com/jianfch/stable-ts) - ⭐ 2.1k / 使用OpenAI的Whisper进行转录、强制对齐和音频索引
- * 🟡 [async-openai](https://github.com/64bit/async-openai) - ⭐ 1.7k / OpenAI的Rust库
+ * 🟢 [async-openai](https://github.com/64bit/async-openai) - ⭐ 1.7k / OpenAI的Rust库
  * 🟡 [o1-engineer](https://github.com/doriandarko/o1-engineer) - ⭐ 2.9k / o1-engineer是一个命令行工具，旨在帮助开发人员高效地管理和与他们的项目进行交互。利用OpenAI的API的强大功能，该工具提供诸如代码生成、文件编辑和项目规划等功能。
  * 🟡 [simple-one-api](https://github.com/fruitbars/simple-one-api) - ⭐ 2.3k / OpenAI接口无缝集成，使用单个可执行文件快速设置和部署，与OpenAI和兼容的API无缝集成。
  * 🟢 [WAAS](https://github.com/schibsted/waas) - ⭐ 2k / 低语服务（带有排队的GUI和API，适用于OpenAI Whisper）
  * 🟢 [coai](https://github.com/coaidev/coai) - ⭐ 8.8k / 🚀 下一代 AI 一站式国际化解决方案。🚀 支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型。
  * 🟢 [self-operating-computer](https://github.com/othersideai/self-operating-computer) - ⭐ 10k / 一个框架，使多模型能够操作计算机。
- * 🟡 [blinko](https://github.com/blinko-space/blinko) - ⭐ 7.3k / 一个开源的、自托管的个人笔记工具，注重隐私，使用TypeScript构建。
+ * 🟢 [blinko](https://github.com/blinko-space/blinko) - ⭐ 7.3k / 一个开源的、自托管的个人笔记工具，注重隐私，使用TypeScript构建。
  * 🟢 [vibe](https://github.com/thewh1teagle/vibe) - ⭐ 4.7k / 自己抄写！
  * 🟢 [auto-subs](https://github.com/tmoroney/auto-subs) - ⭐ 2.3k / 使用人工智能在Davinci Resolve生成字幕并记录发言者。
  * 🟢 [BaseAI](https://github.com/langbaseinc/baseai) - ⭐ 1.2k / BaseAI — 网络AI框架。构建无服务器自主AI代理的最简单方法，具有记忆功能。开始构建本地优先、代理管道、工具和记忆。只需一个命令即可部署无服务器。
@@ -1930,11 +1945,11 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [openai-realtime-console](https://github.com/openai/openai-realtime-console) - ⭐ 3.5k / 用于检查、构建和调试实时API的React应用程序
  * 🟢 [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - ⭐ 3k / OpenAI Whisper ASR 语音识别服务 API
  * 🟡 [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - ⭐ 1.6k / 一个用于在微控制器（如ESP32）上使用实时API的SDK
- * 🟡 [openai-go](https://github.com/openai/openai-go) - ⭐ 2.8k / OpenAI API的官方Go库
+ * 🟢 [openai-go](https://github.com/openai/openai-go) - ⭐ 2.8k / OpenAI API的官方Go库
  * 🟡 [interview-coder](https://github.com/ibttf/interview-coder) - ⭐ 4.4k / 一个开源的隐形桌面应用程序，帮助您通过技术面试。
  * 🔴 [denser-retriever](https://github.com/denser-org/denser-retriever) - ⭐ 292 / 一个企业级的AI检索器，旨在简化AI集成到您的应用程序中，确保尖端的准确性。
  * 🟡 [ShortGPT](https://github.com/rayventura/shortgpt) - ⭐ 6.9k / 🚀🎬 ShortGPT - 用于YouTube短视频/ TikTok频道自动化的实验性人工智能框架
- * 🟡 [pr-agent](https://github.com/qodo-ai/pr-agent) - ⭐ 9.6k / 🚀 PR代理（Qodo Merge开源）：一款AI驱动的🤖自动拉取请求分析工具，提供反馈、建议等功能！💻🔍
+ * 🟢 [pr-agent](https://github.com/qodo-ai/pr-agent) - ⭐ 9.6k / 🚀 PR代理（Qodo Merge开源）：一款AI驱动的🤖自动拉取请求分析工具，提供反馈、建议等功能！💻🔍
  * 🔴 [ChatChat](https://github.com/okisdev/chatchat) - ⭐ 1.3k / Chat Chat，您自己的统一聊天和搜索AI平台，具有简单易用的界面。
  * 🟡 [mindforger](https://github.com/dvorka/mindforger) - ⭐ 2.6k / 思维笔记本和Markdown编辑器。
  * 🟢 [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - ⭐ 6.7k / 这是一个简单的演示，展示了在实时API之上构建的更高级的代理模式。
@@ -1946,7 +1961,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [openai-java](https://github.com/openai/openai-java) - ⭐ 1.2k / OpenAI API的官方Java库
  * 🟡 [deepseek4j](https://github.com/pig-mesh/deepseek4j) - ⭐ 751 / 深度搜索Java SDK
  * 🟢 [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - ⭐ 674 / 稳定基线3的Contrib软件包 - 实验性强化学习（RL）代码
- * 🟡 [hydra](https://github.com/ory/hydra) - ⭐ 17k / 世界上唯一的Web规模、完全可定制的OpenID Certified™ OpenID Connect和OAuth2提供者。一夜之间成为OpenID Connect和OAuth2提供者。使用Go编写，云原生，无头，以API为先。作为Ory Network和f上的服务提供。
+ * 🟢 [hydra](https://github.com/ory/hydra) - ⭐ 17k / 世界上唯一的Web规模、完全可定制的OpenID Certified™ OpenID Connect和OAuth2提供者。一夜之间成为OpenID Connect和OAuth2提供者。使用Go编写，云原生，无头，以API为先。作为Ory Network和f上的服务提供。
  * 🟢 [Fay](https://github.com/xszyou/fay) - ⭐ 12k / fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。 fay是一个帮助数字人（2.5d、3d、移动、pc、网页）或大语言模型（openai兼容、deepseek）连通业务系统的agent框架。
  * 🟢 [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - ⭐ 3.8k / 使用OpenAI Agents SDK，Autogen，CrewAI，LangGraph和知识图谱学习主动型人工智能。
  * 🟢 [an-codeAI](https://github.com/sparrow-js/an-codeai) - ⭐ 731 / 人工智能生成代码
@@ -1964,34 +1979,34 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [shippie](https://github.com/mattzcarey/shippie) - ⭐ 2.3k / 一个可扩展的代码审查代理 🚢
  * 🟢 [zenfeed](https://github.com/glidea/zenfeed) - ⭐ 1.6k / 用人工智能让RSS再次伟大起来吧！📰🧠✨
  * 🟡 [gitpodcast](https://github.com/bandarlabs/gitpodcast) - ⭐ 793 / 将任何git存储库转换为引人入胜的播客
- * 🟡 [blinko](https://github.com/blinkospace/blinko) - ⭐ 7.3k / 一个开源的、自托管的个人AI笔记工具，注重隐私，使用TypeScript构建。
+ * 🟢 [blinko](https://github.com/blinkospace/blinko) - ⭐ 7.3k / 一个开源的、自托管的个人AI笔记工具，注重隐私，使用TypeScript构建。
  * 🟢 [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - ⭐ 1.8k / 一个基于 Python + FastAPI + Playwright + Camoufox 的代理服务器，兼容 OpenAI API ，将请求转发到 Google AI Studio 网页版的对话，并同样按照标准格式返回输出的工具。课余时间有限，随缘更新。
  * 🟢 [VoAPI](https://github.com/voapi/voapi) - ⭐ 864 / 全新的高颜值/高性能的AI模型接口管理与分发系统，仅供个人学习使用，请勿用于任何商业用途，本项目基于NewAPI开发。这是一个专为个人或企业内部管理和分发渠道设计的高颜值/高性能的AI模型接口管理和分发系统。请勿将其用于商业用途。
  * 🟢 [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - ⭐ 654 / 构建Open AI智能解决方案的工作坊材料输出：构建Open AI智能解决方案的工作坊材料
  * 🟢 [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - ⭐ 13k / 开源DeepWiki：为GitHub/Gitlab/Bitbucket存储库提供AI支持的维基生成器。加入discord：https://discord.gg/gMwThUMeme
  * 🟢 [scira](https://github.com/zaidmukaddam/scira) - ⭐ 11k / Scira（原名MiniPerplx）是一款极简的人工智能搜索引擎，可帮助您在互联网上查找信息并进行引用。由Vercel AI SDK提供支持！使用像xAI的Grok 3这样的模型进行搜索。
  * 🟢 [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - ⭐ 3k / 一键将视频和音频转化为小红书/公众号/知识笔记/思维导图等各种风格的文档。
- * 🟡 [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - ⭐ 884 / 亚马逊基岩的OpenAI兼容的RESTful API
+ * 🟢 [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - ⭐ 884 / 亚马逊基岩的OpenAI兼容的RESTful API
  * 🟢 [preparedness](https://github.com/openai/preparedness) - ⭐ 953 / OpenAI准备发布
  * 🟢 [SMRY](https://github.com/mrmps/smry) - ⭐ 1.1k / 一个工具，可以获取摘要并绕过付费墙
  * 🟢 [course-builder](https://github.com/badass-courses/course-builder) - ⭐ 582 / 🍄 用于创建牛逼课程的平台
  * 🟢 [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - ⭐ 610 / 与OpenAI的公共API进行交互的最完整的开源Swift软件包。
  * 🟡 [is-even-ai](https://github.com/calvin-ll/is-even-ai) - ⭐ 466 / 检查一个数字是否是偶数，借助✨人工智能✨的力量
- * 🟡 [k8m](https://github.com/weibaohui/k8m) - ⭐ 721 / 一个轻量级、跨平台的迷你Kubernetes人工智能仪表盘，支持大型模型、智能体、MCP（支持设置操作权限），集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
+ * 🟢 [k8m](https://github.com/weibaohui/k8m) - ⭐ 721 / 一个轻量级、跨平台的迷你Kubernetes人工智能仪表盘，支持大型模型、智能体、MCP（支持设置操作权限），集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
  * 🟢 [meta-agent](https://github.com/dannymac180/meta-agent) - ⭐ 401 / 使用OpenAI的Agents SDK生成新代理的代理
  * 🟢 [jax-triton](https://github.com/jax-ml/jax-triton) - ⭐ 436 / jax-triton包含了JAX和OpenAI Triton之间的集成。
  * 🟢 [gpt-load](https://github.com/tbphp/gpt-load) - ⭐ 5.6k / 一个高性能的OpenAI兼容API代理服务器，支持多密钥轮询和负载均衡，使用Go语言开发。
  * 🟢 [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - ⭐ 740 / 适用于苹果设备模型的OpenAI兼容API服务器
  * 🟢 [pentagi](https://github.com/vxcontrol/pentagi) - ⭐ 854 / ✨能够执行复杂渗透测试任务的完全自主的AI代理系统
  * 🟢 [memorizz](https://github.com/richmondalake/memorizz) - ⭐ 659 / MemoRizz：一个用作AI应用程序内存层的Python库。利用流行的数据库和存储解决方案来优化内存使用。提供实用类和方法，用于高效的数据管理，包括MongoDB集成和Open。
- * 🟡 [xsai](https://github.com/moeru-ai/xsai) - ⭐ 536 / 🤖💬 超小型人工智能软件开发工具包。
+ * 🟢 [xsai](https://github.com/moeru-ai/xsai) - ⭐ 536 / 🤖💬 超小型人工智能软件开发工具包。
  * 🟢 [myosuite](https://github.com/myohub/myosuite) - ⭐ 1.1k / MyoSuite是一个由肌肉骨骼模型解决的环境/任务集合，使用MuJoCo物理引擎模拟，并包装在OpenAI gym API中。
  * 🟢 [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - ⭐ 1.2k / 娜迦本地智能体，基于多智能体与多MCP兼容架构的通用型 AI 助手
  * 🟡 [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - ⭐ 14k / 绘制一个模型并为其生成html代码
  * 🟢 [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - ⭐ 5.8k / 建立自己的Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快速添加账号池。
  * 🟢 [copilot-api](https://github.com/ericc-ch/copilot-api) - ⭐ 1.6k / 将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code一起使用！
  * 🟢 [ai2apps](https://github.com/avdpro/ai2apps) - ⭐ 439 / 在本地系统上设置AI2Apps，这样您就可以使用自己的OpenAI密钥或添加更多后端功能。
- * 🟡 [tersa](https://github.com/haydenbleasel/tersa) - ⭐ 689 / Tersa是一个用于构建人工智能工作流程的开源画布。
+ * 🟢 [tersa](https://github.com/haydenbleasel/tersa) - ⭐ 689 / Tersa是一个用于构建人工智能工作流程的开源画布。
  * 🟢 [ChatMock](https://github.com/raybytes/chatmock) - ⭐ 1k / 通过您的ChatGPT订阅，可以通过编程方式访问OpenAI模型。
  * 🟢 [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - ⭐ 727 / 使用OpenAI Responses API构建的入门应用程序
  * 🟡 [LMArenaBridge](https://github.com/lianues/lmarenabridge) - ⭐ repo not found / LMArenaBridge 是一个强大的开源工具，它充当一座桥梁，让你能通过任何兼容 OpenAI API 的应用程序（例如各类AI聊天客户端、编程插件等）来使用 [LMArena.ai](https://lmarena.ai/) 网站上提供的海量先进测试大语言模型。
@@ -2008,12 +2023,14 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - ⭐ 697 / 使用OpenAI ChatKit + Agent Builder构建的入门应用程序
  * 🟢 [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - ⭐ 697 / 扫描GitHub以查找可用的OpenAI API密钥
  * 🟢 [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - ⭐ 488 / 使用OpenAI ChatKit SDK构建的入门应用程序
- * 🟡 [xpert](https://github.com/xpert-ai/xpert) - ⭐ 317 / Xpert AI是一个为企业提供人工智能代理和数据分析平台，帮助他们做出商业决策的工具。
+ * 🟢 [xpert](https://github.com/xpert-ai/xpert) - ⭐ 317 / Xpert AI是一个为企业提供人工智能代理和数据分析平台，帮助他们做出商业决策的工具。
  * 🟢 [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - ⭐ 1.7k / Apps SDK的示例应用程序
  * 🟢 [Shannon](https://github.com/kocoro-lab/shannon) - ⭐ 598 / 开源AI代理编排器，具有企业级安全性、成本控制和供应商灵活性。是OpenAI AgentKit的替代方案。
  * 🟢 [axonhub](https://github.com/looplj/axonhub) - ⭐ 666 / AxonHub是一个现代化的AI网关系统，提供统一的OpenAI、Anthropic和AI SDK兼容的API。
  * 🟢 [omniai](https://github.com/ksylvest/omniai) - ⭐ 246 / OmniAI标准化了多个AI提供商的API，如OpenAI的Chat GPT，Mistral的LeChat，Claude的Anthropic，Google的Gemini和DeepSeek的Chat。
  * 🟢 [aiproxy](https://github.com/labring/aiproxy) - ⭐ 301 / AI代理是一个高性能的AI网关，使用OpenAI和Claude协议作为入口点。它具有智能错误处理、多通道管理和全面监控功能。支持多个模型、速率限制和多租户。
+ * [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - 一个使用Python AI Agent框架的示例存储库，可以与GitHub模型和Azure OpenAI一起使用。
+ * [paperdebugger](https://github.com/paperdebugger/paperdebugger) - 纸质调试器是最好的overleaf伴侣
 
 
 ## Others
@@ -2136,7 +2153,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [wechatgpt](https://github.com/houko/wechatgpt) - ⭐ 861 / wechatgpt的golang版chatgpt机器人（可通过docker部署），目前支持wechat和telegram。
  * 🟡 [xiaogpt.git](https://github.com/yihong0618/xiaogpt.git) - ⭐ repo not found / 哔哩哔哩后台源码
  * 🔴 [wechat-chatGPT](https://github.com/gtoxlili/wechat-chatgpt) - ⭐ 383 / 实现微信公众号被动返回接口的ChatGPT
- * 🟡 [dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy) - ⭐ 13k / dnscrypt-proxy 2 - 一款灵活的DNS代理，支持加密DNS协议。
+ * 🟢 [dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy) - ⭐ 13k / dnscrypt-proxy 2 - 一款灵活的DNS代理，支持加密DNS协议。
  * 🔴 [review-gpt](https://github.com/vibovenkat123/review-gpt) - ⭐ 99 / 一种使用gpt-3、gpt-3.5和gpt-4的自动代码审查工具。
  * 🟢 [kube-ovn](https://github.com/kubeovn/kube-ovn) - ⭐ 2.2k / SDN和云原生之间的桥梁（CNCF项目下的项目）
  * 🔴 [gpt-takes-the-bar-exam](https://github.com/mjbommar/gpt-takes-the-bar-exam) - ⭐ 142 / GPT参加律师资格考试
@@ -2160,7 +2177,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟢 [whatsapp-chatgpt](https://github.com/navopw/whatsapp-chatgpt) - ⭐ 3.7k / 程序噪声地图生成器 :雾:
  * 🔴 [MathGPT](https://github.com/meiyulee/mathgpt) - ⭐ 38 / 免费数字驱动的数学模型人工智能 | 为你的数字建立数学模型 |
  * 🔴 [ChatGPT.el](https://github.com/joshcho/chatgpt.el) - ⭐ 396 / 在Emacs中使用ChatGPT
- * 🔴 [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - ⭐ 171 / 使用Flutter / Dart中的ChatGPT
+ * 🔴 [flutter_chatgpt_api](https://github.com/coskuncay/flutter_chatgpt_api) - ⭐ 171 / Dart中的ChatGPT
  * 🔴 [chatchan-dist](https://github.com/easychen/chatchan-dist) - ⭐ 736 / Chat酱独立部署版，docker方案自带代理Chat酱独立部署版，docker方案自带代理
  * 🔴 [MaterialGPT](https://github.com/dylanakp/materialgpt) - ⭐ 7 / MaterialGPT是使用API克隆ChatGPT的。
  * 🟡 [chatwire](https://github.com/theokafadaris/chatwire) - ⭐ 159 / 使用Laravel自主托管的ChatGPT克隆版
@@ -2206,7 +2223,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [Mr.trans](https://github.com/illumine-labs/mr.trans) - ⭐ 358 / 启迪思维，超越学习
  * 🔴 [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - ⭐ 54 / 今天试试我的新宝石“chat_gpt_error_handler”吧！它会在错误堆栈之前弹出一个（希望有用的）ChatGPT片段。
  * 🔴 [PandaGPT](https://github.com/yxuansu/pandagpt) - ⭐ 833 / PandaGPT：一种模型，可指导所有操作
- * 🔴 [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - ⭐ 18 / 该存储库包含已修改的脚本和合并脚本，以适应Alpaca-Lora适配器的LoRA调谐，假设使用转换为ggml的“rinna / japanese-gpt-neox…” [gpt-neox]模型。
+ * 🔴 [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - ⭐ 18 / japanese-gpt-neox…” [gpt-neox]模型。
  * 🔴 [gptlink](https://github.com/gptlink/gptlink) - ⭐ 2.6k / 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能。
  * 🔴 [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - ⭐ 37 / “讲个故事”是一个小应用程序，可以使用ChatGPT和React Native编写故事。
  * 🔴 [chatgpt-yaml-generator](https://github.com/robusta-dev/chatgpt-yaml-generator) - ⭐ 116 / 将Kubernetes模式和验证能力的完整知识授予ChatGPT。
@@ -2217,7 +2234,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [gpt-aggregated-edition](https://github.com/1595901624/gpt-aggregated-edition) - ⭐ 732 / 聚合ChatGPT官方版、ChatGPT免费版、文心一言、Poe、chatchat等多平台，支持自定义导入平台。
  * 🔴 [larc_gpt4](https://github.com/evanthebouncy/larc_gpt4) - ⭐ 20 / LARC与GPT-4的解决方案
  * 🔴 [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - ⭐ 8.6k / 使用Vue3和Go构建的微软New Bing演示站点，具有一致的UI体验，支持ChatGPT提示词，可在国内使用。
- * 🟡 [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - ⭐ 10 / ChatGPT是由Slack驱动的自动回复程序，用于回答与NearForm知识库相关的问题。
+ * 🟢 [slack-knowledgebase-chatgpt-responder](https://github.com/nearform/slack-knowledgebase-chatgpt-responder) - ⭐ 10 / ChatGPT是由Slack驱动的自动回复程序，用于回答与NearForm知识库相关的问题。
  * 🔴 [simpleaichat](https://github.com/minimaxir/simpleaichat) - ⭐ 3.5k / Python包，可轻松与聊天应用程序进行接口交互，具有强大的功能和最小的代码复杂性。
  * 🔴 [instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - ⭐ 246 / 指令调整稳定扩散的代码。
  * 🔴 [gpt-engineer](https://github.com/antonosika/gpt-engineer) - ⭐ 55k / 指定您想要建造的内容，人工智能会要求澄清，并进行建造。
@@ -2234,7 +2251,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [GENIUS](https://github.com/mingkai-zheng/genius) - ⭐ 89 / GPT-4能进行神经架构搜索吗？
  * 🟡 [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - ⭐ 293 / 使用策划档案和脚本分析ChatGPT代码库的演变历程。
  * 🟡 [PROFILEGPT](https://github.com/odiks/profilegpt) - ⭐ repo not found / PROFILEGPT是一款用于分析Twitter上的个人资料和标签的工具。该应用程序利用各种技术和API收集数据并为用户生成信息。
- * 🟡 [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⭐ 173 / ⏩ 自动继续生成多个ChatGPT回复
+ * 🟢 [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⭐ 173 / ⏩ 自动继续生成多个ChatGPT回复
  * 🔴 [a1gpt](https://github.com/a1k0n/a1gpt) - ⭐ 141 / 一次性使用的GPT推理
  * 🔴 [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - ⭐ 5.7k / GPT 3.5/4带有聊天网页界面。无需API密钥。
  * 🟢 [commavq](https://github.com/commaai/commavq) - ⭐ 337 / commaVQ是一个压缩的驾驶视频数据集。
@@ -2261,7 +2278,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [personal_chatgpt](https://github.com/chunhuizhang/personal_chatgpt) - ⭐ 394 / 个人聊天GPT
  * 🔴 [explain-source-code-by-chatgpt](https://github.com/cuishuang/explain-source-code-by-chatgpt) - ⭐ 405 / 👂🏻 chatgpt讲解Go知名项目的源码
  * 🔴 [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - ⭐ 215 / 本『ChatGPT资源库(原理/微调/代码/论文)』的初始版本来自July CSDN博客上阅读量高达50万的ChatGPT系列，联合发起人：七月ChatGPT原理课学员，6月初正式对外发布
- * 🔴 [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - ⭐ 28 / 一个使用Spring / Java堆栈的ChatGPT样本
+ * 🔴 [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - ⭐ 28 / Java堆栈的ChatGPT样本
  * 🟡 [azurechatgpt](https://github.com/microsoft/azurechatgpt) - ⭐ 1.4k / 🤖 Azure ChatGPT：专为企业内部使用而设计的私密安全聊天GPT 💼
  * 🔴 [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - ⭐ 171 / 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站
  * 🔴 [gptlink-web](https://github.com/gptlink/gptlink-web) - ⭐ 95 / 一个由React和Tailwind CSS构建的ChatGPT网络应用，API由gptlink提供。
@@ -2277,13 +2294,13 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [azurechatgpt](https://github.com/dandinu/azurechatgpt) - ⭐ 23 / 🤖 Azure ChatGPT：专为企业内部使用而设计的私密安全聊天GPT 💼
  * 🔴 [OpenGPT-Business](https://github.com/black-fruit/opengpt-business) - ⭐ 42 / chatgpt商业应用！79E/ChatGpt-Web 的1.3.9最新！本人破解，无需授权！chatgpt商业应用！79E/ChatGpt-Web 的1.3.9最新！本人破解，无需授权！
  * 🔴 [ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning) - ⭐ 34 / 用于训练微调ChatGPT的实用类
- * 🟡 [ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro) - ⭐ 765 / 基于chatgpt-next-web，增加了midjourney绘画功能。后续会接入stable-diffusion，注册登录，后台管理，接入知识库等。
+ * 🟢 [ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro) - ⭐ 765 / 基于chatgpt-next-web，增加了midjourney绘画功能。后续会接入stable-diffusion，注册登录，后台管理，接入知识库等。
  * 🔴 [chirp](https://github.com/rogueocelot/chirp) - ⭐ 8 / 从Discord中的Relay ChatGPT的问题和答案
  * 🔴 [SQL-GPT](https://github.com/cl-lau/sql-gpt) - ⭐ 349 / 使用ChatGPT生成SQL并执行。还可以对SQL进行优化和错误修正。
  * 🔴 [ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind) - ⭐ 587 / 论文XMind笔记生成工具，可以将论文PDF转换为带有图片和公式的简要XMind笔记，从而提高论文阅读效率。
  * 🔴 [TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt) - ⭐ 462 / 基于SpringBoot3开发的Ai平台 含双端 网页以及小程序 包含chatgpt newbing claude , 双端数据同步 支持自定义预设词,功能板块定义,各类绘图  web兼容手机展示
  * 🔴 [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - ⭐ 225 / ChatGPT集成Gitlab，自动审计代码进行评论
- * 🔴 [NeuroGPT](https://github.com/em1tsan/neurogpt) - ⭐ 1.3k / 免费的ChatGPT 3.5 / ChatGPT 4
+ * 🔴 [NeuroGPT](https://github.com/em1tsan/neurogpt) - ⭐ 1.3k / ChatGPT 4
  * 🔴 [chatreview](https://github.com/specful-ai/chatreview) - ⭐ 31 / ChatGPT的代码审查模式
  * 🔴 [pandora](https://github.com/dave1010/pandora) - ⭐ 113 / ChatGPT编码解锁！Pandora赋予ChatGPT读写文件和在您的计算机上运行命令的能力。
  * 🔴 [feishu-chatgpt](https://github.com/1130600015/feishu-chatgpt) - ⭐ 2 / 一个集成ChatGPT的飞书应用
@@ -2321,10 +2338,10 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - ⭐ 43 / 这是一个在稳定扩散网络界面中使用ChatGPT的存储库。
  * 🔴 [pictureChange](https://github.com/yanyutin753/picturechange) - ⭐ 135 / 适用于chatgpt-on-wechat项目插件
  * 🔴 [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - ⭐ 272 / 一个由ChatGPT代理驱动的游戏演示
- * 🟡 [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - ⭐ 24k / 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
- * 🟡 [LMFlow](https://github.com/optimalscale/lmflow) - ⭐ 8.5k / 一个可扩展的工具包，用于对大型基础模型进行微调和推理。适用于所有大型模型。
+ * 🟢 [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - ⭐ 24k / 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
+ * 🟢 [LMFlow](https://github.com/optimalscale/lmflow) - ⭐ 8.5k / 一个可扩展的工具包，用于对大型基础模型进行微调和推理。适用于所有大型模型。
  * 🔴 [reloadium](https://github.com/reloadware/reloadium) - ⭐ 3k / 热重载、性能分析和人工智能调试的Python
- * 🟡 [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ⭐ 3.6k / ChatGPT Java SDK。支持 GPT3.5、GPT4 API。开箱即用。
+ * 🟢 [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ⭐ 3.6k / ChatGPT Java SDK。支持 GPT3.5、GPT4 API。开箱即用。
  * 🟡 [alldata](https://github.com/alldatacenter/alldata) - ⭐ 2.9k / 🔥🔥 AllData大数据产品是可定义数据中台，以数据平台为底座，以数据中台为桥梁，以机器学习平台，GPT平台为框架，提供全链路数字化解决方案。微信群：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
  * 🟢 [SuperCLUE](https://github.com/cluebenchmark/superclue) - ⭐ 3.3k / SuperCLUE: 中文通用大模型综合性基准 | 一个用于中文基础模型的基准测试
  * 🟢 [worktool](https://github.com/gallonyin/worktool) - ⭐ 2.9k / 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT
@@ -2334,9 +2351,9 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [WeChatMsg](https://github.com/lc044/wechatmsg) - ⭐ 40k / 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
  * 🟡 [gpts-works](https://github.com/all-in-aigc/gpts-works) - ⭐ 1.6k / 一个第三方GPT存储库
  * 🟢 [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - ⭐ 24k / 基于GPT的自主代理，可以对任何给定的主题进行在线综合研究。
- * 🟢 [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - ⭐ 87k / 一个设计精良的跨平台 ChatGPT 用户界面（Web / PWA / Linux / Win / MacOS）。
+ * 🟢 [ChatGPT-Next-Web](https://github.com/chatgptnextwebteam/chatgpt-next-web) - ⭐ 87k / MacOS）。
  * 🔴 [ChatGLM-Finetuning](https://github.com/liucongg/chatglm-finetuning) - ⭐ 2.8k / 基于ChatGLM-6B、ChatGLM2-6B、ChatGLM3-6B模型，进行下游具体任务微调，涉及Freeze、Lora、P-tuning、全参微调等。
- * 🟢 [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - ⭐ 87k / 一个设计精良的跨平台 ChatGPT 用户界面（Web / PWA / Linux / Win / MacOS）。
+ * 🟢 [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - ⭐ 87k / MacOS）。
  * 🟡 [gpt-crawler](https://github.com/builderio/gpt-crawler) - ⭐ 22k / 从一个URL中爬取网站以生成知识文件，从而创建自己定制的GPT。
  * 🔴 [vimGPT](https://github.com/ishan0102/vimgpt) - ⭐ 2.7k / 使用GPT-4V和Vimium浏览网页
  * 🟢 [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ⭐ 3.7k / ModelScope-Agent（开源版GPTs）：一个将ModelScope中的模型与世界连接起来的代理框架。
@@ -2346,7 +2363,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🔴 [Replit-Xray](https://github.com/yonggekkk/replit-xray) - ⭐ 873 / Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署输出：Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks，支持本地上传与replit平台fork两种模式部署
  * 🟡 [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - ⭐ 629 / 塑造未来的安全领域智能革命
  * 🔴 [auto_job__find__chatgpt__rpa](https://github.com/frrrrrrrrank/auto_job__find__chatgpt__rpa) - ⭐ 1.6k / 这是一个工具，可以根据您的简历和职位描述，使用ChatGPT自动生成求职信，并发送给中国的老板。
- * 🟡 [hamulete](https://github.com/hoochanlon/hamulete) - ⭐ 9.3k / 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
+ * 🟢 [hamulete](https://github.com/hoochanlon/hamulete) - ⭐ 9.3k / 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
  * 🟡 [GPT-4V-Act](https://github.com/ddupont808/gpt-4v-act) - ⭐ 1.1k / 使用GPT-4V（视觉）的AI代理能够使用鼠标/键盘与Web用户界面进行交互输出：
  * 🔴 [Generative_Deep_Learning_2nd_Edition](https://github.com/davidadsp/generative_deep_learning_2nd_edition) - ⭐ 1.4k / 《O'Reilly书籍生成式深度学习第二版：教机器绘画、写作、作曲和演奏》的官方代码存储库。输出：
  * 🔴 [smart-ide](https://github.com/airuikun/smart-ide) - ⭐ 730 / 通过在vscode插件中结合chatgpt能力，实现智能研发提效。
@@ -2418,7 +2435,7 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - ⭐ 1.3k / 🚀 一键部署您自己的 ChatGPT 镜像站
  * 🔴 [WiNGPT2](https://github.com/winninghealth/wingpt2) - ⭐ 416 / WiNGPT是一个基于GPT的医疗垂直领域大模型，旨在将专业的医学知识、医疗信息、数据融会贯通，为医疗行业提供智能化的医疗问答、诊断支持和医学知识等信息服务，提高诊疗效率和医疗服务质量。
  * 🟢 [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - ⭐ 3.9k / 5B个标记中的GPT-2（124M）质量输出：
- * 🟡 [minimind](https://github.com/jingyaogong/minimind) - ⭐ 35k / 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
+ * 🟢 [minimind](https://github.com/jingyaogong/minimind) - ⭐ 35k / 【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！【大模型】3小时完全从0训练一个仅有26M的小参数GPT，最低仅需2G显卡即可推理训练！
  * 🟢 [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - ⭐ 2.7k / 一个使用GPT-4、FFmpeg和OpenCV的Python工具，可以自动分析视频，提取最有趣的部分，并裁剪它们以获得更好的观看体验。
  * 🟢 [miniperplx](https://github.com/zaidmukaddam/miniperplx) - ⭐ 11k / 一款极简主义的人工智能搜索引擎，帮助您在互联网上查找信息。使用像GPT-4o mini、Claude 3.5 Sonnet和o1-mini这样的模型进行搜索！
  * 🟡 [ai-commit](https://github.com/insulineru/ai-commit) - ⭐ 462 / ✨ 使用ChatGPT，Gitmoji和Conventional Commits使提交更容易 🚀
@@ -2428,26 +2445,26 @@ _Updated on December 04, 2025_ (A total of 2358 repositories listed.)
  * 🟡 [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - ⭐ 616 / Shadcn UI NextJS 模板 ⚡️ 免费开源 ChatGPT UI 管理仪表板模板 - Horizon AI 模板
  * 🟢 [TaskWeaver](https://github.com/microsoft/taskweaver) - ⭐ 6k / 在Visual Studio Code中集成CMake
  * 🟢 [onyx](https://github.com/onyx-dot-app/onyx) - ⭐ 17k / Gen-AI团队聊天-如果它能访问您团队的独特知识，就像ChatGPT一样。
- * 🟡 [minimind-v](https://github.com/jingyaogong/minimind-v) - ⭐ 5.5k / 🚀 在短短3小时内从头开始训练一个拥有27M参数的视觉多模态VLM！🌏
+ * 🟢 [minimind-v](https://github.com/jingyaogong/minimind-v) - ⭐ 5.5k / 🚀 在短短3小时内从头开始训练一个拥有27M参数的视觉多模态VLM！🌏
  * 🟡 [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - ⭐ 1.3k / 前端后端同时开源。Ai-to-pptx是一个使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。主要功能: 1 使用DeepSeek等大语言模型来生成大纲 2 生成PPTX的时候可以选择不同的模板 3 支持导出PPTX
  * 🟢 [memobase](https://github.com/memodb-io/memobase) - ⭐ 2.4k / 基于个人资料的长期记忆，适用于人工智能应用
  * 🟢 [jan](https://github.com/menloresearch/jan) - ⭐ 40k / Jan是ChatGPT的开源替代品，可以完全离线在您的计算机上运行。
  * 🟡 [agentheroes](https://github.com/agentheroes/agentheroes) - ⭐ 3.4k / 生成，动画和安排您的AI角色 🤖
  * 🟢 [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - ⭐ 641 / AI算命，占卜，塔罗牌，姓名五格，周公解梦，生辰八字，梅花易数
- * 🟡 [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - ⭐ 2.5k / OpenDeepWiki是DeepWiki项目的开源版本，旨在提供强大的知识管理和协作平台。该项目主要使用C#和TypeScript进行开发，支持模块化设计，易于扩展和定制。
+ * 🟢 [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - ⭐ 2.5k / OpenDeepWiki是DeepWiki项目的开源版本，旨在提供强大的知识管理和协作平台。该项目主要使用C#和TypeScript进行开发，支持模块化设计，易于扩展和定制。
  * 🟢 [zola](https://github.com/ibelick/zola) - ⭐ 1.3k / 开源ChatGPT的替代品，面向开发人员。快速、多模型AI聊天。代理+MCP即将推出。
  * 🟡 [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - ⭐ 759 / 一种与macOS上的ChatGPT桌面应用程序交互的Claude MCP工具
  * 🟡 [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - ⭐ 533 / 支持Linux DO的ChatGPT/Claude/Midjourney/API/Grok 共享平台-后端项目
- * 🟡 [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - ⭐ 467 / Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求输出：Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求
+ * 🟢 [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - ⭐ 467 / Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求输出：Caddy模块，用于阻止或操纵来自尝试在您的网站上训练的人工智能或云服务的请求
  * 🟡 [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - ⭐ 1.8k / 工作流程至APP、屏幕共享和悬浮视频、GPT和3D、语音识别和TTS
  * 🟢 [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - ⭐ 6.8k / 这个存储库支持我的博客实验，ChatGPT管理一个真实货币的微型市值股票投资组合。
  * 🟡 [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - ⭐ 658 / LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。输出：LSPosed模块，用于在键盘中集成ChatGPT等生成式人工智能。
- * 🟡 [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - ⭐ repo not found / 机场推荐，2025最新科学上网教程，机场实测，提供免费试用机场，与VPN对比，支持 Clash / V2Ray / Trojan，解锁 ChatGPT / YouTube / Netflix，含使用教程。
+ * 🟡 [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - ⭐ repo not found / Netflix，含使用教程。
  * 🟢 [nanochat](https://github.com/karpathy/nanochat) - ⭐ 38k / 100美元能买到的最好的ChatGPT。
  * 🟢 [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - ⭐ 739 / 基于spring-cloud-alibaba微服务架构（SpringBoot3）开发的应用程序
  * 🟢 [frontier-evals](https://github.com/openai/frontier-evals) - ⭐ 953 / 在论文《人工神经网络中的多模态神经元》中重现一些图表的代码
- * 🟡 [FastApps](https://github.com/fastappsorg/fastapps) - ⭐ 204 / ⚡ 在ChatGPT中构建应用程序的最快方式
+ * 🟢 [FastApps](https://github.com/fastappsorg/fastapps) - ⭐ 204 / ⚡ 在ChatGPT中构建应用程序的最快方式
  * 🟢 [rustgpt](https://github.com/bitswired/rustgpt) - ⭐ 701 / RustGPT是一个使用Rust + HTMX构建的ChatGPT UI：Rust的强大功能与HTMX的简单性相结合 💚
- * 🟡 [consult-omni](https://github.com/armindarvish/consult-omni) - ⭐ 255 / Emacs内置的强大多功能全能搜索
+ * 🟢 [consult-omni](https://github.com/armindarvish/consult-omni) - ⭐ 255 / Emacs内置的强大多功能全能搜索
 
 
