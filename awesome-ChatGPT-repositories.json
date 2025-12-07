@@ -2204,6 +2204,36 @@
                     "zh-hans": "一个用于以最简单方式使用OpenAI Api的Java库。",
                     "zh-hant": "一個Java庫，以最簡單的方式使用OpenAI Api。"
                 }
+            },
+            "https://github.com/memorilabs/memori": {
+                "repository_name": "Memori",
+                "user_name": "MemoriLabs",
+                "language": "Python",
+                "license": "Other",
+                "description": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "aiagent",
+                    "awesome",
+                    "chatgpt",
+                    "hacktoberfest",
+                    "hacktoberfest2025",
+                    "llm",
+                    "long-short-term-memory",
+                    "memori-ai",
+                    "memory",
+                    "memory-management",
+                    "python",
+                    "rag",
+                    "state-management"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+                    "ja": "LLMs、AIエージェント、マルチエージェントシステム向けのオープンソースメモリエンジン",
+                    "zh-hans": "开源内存引擎，用于LLMs，AI代理和多代理系统",
+                    "zh-hant": "開源記憶引擎，適用於LLMs、AI代理和多代理系統"
+                }
             }
         },
         "Prompts": {
@@ -25371,6 +25401,20 @@
                     "zh-hans": "✨轻量级LLM客户端，具有MCP🔌和角色👤",
                     "zh-hant": "✨輕量級LLM客戶端與MCP🔌和角色👤"
                 }
+            },
+            "https://github.com/beehiveinnovations/pal-mcp-server": {
+                "repository_name": "pal-mcp-server",
+                "user_name": "BeehiveInnovations",
+                "language": "Python",
+                "license": "Other",
+                "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+                    "ja": "クロードコード/ジェミニCLI/コーデックスCLI + [ジェミニ/OpenAI/OpenRouter/Azure/Grok/Ollama/カスタムモデル/上記すべて] が一体となって機能する力。",
+                    "zh-hans": "克劳德代码/ GeminiCLI / CodexCLI + [双子座 / OpenAI / OpenRouter / Azure / Grok / Ollama / 自定义模型 / 以上所有] 一起运行的力量。",
+                    "zh-hant": "克勞德代碼/雙子座CLI/ CodexCLI + [雙子座/ OpenAI/ OpenRouter/ Azure/ Grok/ Ollama/ 自定義模型/ 以上所有] 一起運作的力量。"
+                }
             }
         },
         "Reimplementations": {
@@ -45787,6 +45831,49 @@
                     "ja": "AI Proxyは、OpenAIとClaudeプロトコルをエントリーポイントとして使用する高性能AIゲートウェイです。インテリジェントなエラーハンドリング、マルチチャンネル管理、包括的なモニタリング機能を備えています。複数のモデル、レート制限、マルチテナントをサポートしています。",
                     "zh-hans": "AI代理是一个高性能的AI网关，使用OpenAI和Claude协议作为入口点。它具有智能错误处理、多通道管理和全面监控功能。支持多个模型、速率限制和多租户。",
                     "zh-hant": "AI代理是一個高性能的AI網關，使用OpenAI和Claude協議作為入口。它具有智能錯誤處理、多通道管理和全面監控功能。支持多個模型、速率限制和多租戶。"
+                }
+            },
+            "https://github.com/azure-samples/python-ai-agent-frameworks-demos": {
+                "repository_name": "python-ai-agent-frameworks-demos",
+                "user_name": "Azure-Samples",
+                "language": "Bicep",
+                "license": "MIT License",
+                "description": "A repository of examples using Python AI Agent frameworks that work with GitHub Models and Azure OpenAI.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A repository of examples using Python AI Agent frameworks that work with GitHub Models and Azure OpenAI.",
+                    "ja": "GitHubモデルとAzure OpenAIと連携するPython AIエージェントフレームワークの例のリポジトリ。",
+                    "zh-hans": "一个使用Python AI Agent框架的示例存储库，可以与GitHub模型和Azure OpenAI一起使用。",
+                    "zh-hant": "使用Python AI代理框架的示例存儲庫，可與GitHub模型和Azure OpenAI一起使用。"
+                }
+            },
+            "https://github.com/paperdebugger/paperdebugger": {
+                "repository_name": "paperdebugger",
+                "user_name": "PaperDebugger",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Paper Debugger is the best overleaf companion",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "ai-agent",
+                    "ai-agents-framework",
+                    "chatgpt",
+                    "latex",
+                    "latex-copilot",
+                    "mcp",
+                    "mcp-client",
+                    "mcp-server",
+                    "openai",
+                    "overleaf",
+                    "overleaf-copilot",
+                    "paperdebugger"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Paper Debugger is the best overleaf companion",
+                    "ja": "Paper Debuggerは最高のオーバーリーフの相棒です。",
+                    "zh-hans": "纸质调试器是最好的overleaf伴侣",
+                    "zh-hant": "紙上調試器是最好的Overleaf伴侶。"
                 }
             }
         },
