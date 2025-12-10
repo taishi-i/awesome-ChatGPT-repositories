@@ -20766,6 +20766,31 @@
                     "zh-hans": "浏览器操作员-具有内置多代理平台的AI浏览器！ChatGPT Atlas、Perplexity Comet、Dia和Microsoft CoPilot Edge Browser的开源替代方案",
                     "zh-hant": "瀏覽器操作者-具備內建多代理平台的AI瀏覽器！ChatGPT Atlas、Perplexity Comet、Dia和Microsoft CoPilot Edge Browser的開源替代方案。"
                 }
+            },
+            "https://github.com/wp-autoplugin/wp-autoplugin": {
+                "repository_name": "wp-autoplugin",
+                "user_name": "WP-Autoplugin",
+                "language": "PHP",
+                "license": null,
+                "description": "Quickly create functional plugins from simple descriptions, addressing specific needs without unnecessary bloat.",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "artificial-intelligence",
+                    "claude",
+                    "claude-ai",
+                    "gpt-4o",
+                    "llm",
+                    "openai",
+                    "wordpress",
+                    "wordpress-plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Quickly create functional plugins from simple descriptions, addressing specific needs without unnecessary bloat.",
+                    "ja": "シンプルな説明から迅速に機能的なプラグインを作成し、不要な膨張をせずに特定のニーズに対応します。",
+                    "zh-hans": "快速从简单描述中创建功能插件，满足特定需求，避免不必要的臃肿。",
+                    "zh-hant": "快速從簡單描述中創建功能性插件，滿足特定需求，避免不必要的膨脹。"
+                }
             }
         },
         "CLIs": {
@@ -25414,6 +25439,34 @@
                     "ja": "クロードコード/ジェミニCLI/コーデックスCLI + [ジェミニ/OpenAI/OpenRouter/Azure/Grok/Ollama/カスタムモデル/上記すべて] が一体となって機能する力。",
                     "zh-hans": "克劳德代码/ GeminiCLI / CodexCLI + [双子座 / OpenAI / OpenRouter / Azure / Grok / Ollama / 自定义模型 / 以上所有] 一起运行的力量。",
                     "zh-hant": "克勞德代碼/雙子座CLI/ CodexCLI + [雙子座/ OpenAI/ OpenRouter/ Azure/ Grok/ Ollama/ 自定義模型/ 以上所有] 一起運作的力量。"
+                }
+            },
+            "https://github.com/richqaq/pastemd": {
+                "repository_name": "PasteMD",
+                "user_name": "RICHQAQ",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "clipboard",
+                    "converter",
+                    "deepseek",
+                    "excel",
+                    "latex",
+                    "markdown",
+                    "pandoc",
+                    "productivity",
+                    "python",
+                    "word",
+                    "wps"
+                ],
+                "multilingual_descriptions": {
+                    "en": "一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.",
+                    "ja": "MarkdownとAI応答（ChatGPT/DeepSeekなど）をワンクリックでWord、WPS、Excelに完璧に貼り付ける効率ツール",
+                    "zh-hans": "一键将Markdown和网页AI对话（ChatGPT/DeepSeek等）完美粘贴到Word、WPS和Excel的效率工具。",
+                    "zh-hant": "一鍵將 Markdown 和網頁 AI 對話（ChatGPT/DeepSeek等）完美粘貼到 Word、WPS 和 Excel 的效率工具 | 一鍵將 Markdown 和 AI 回應（ChatGPT/DeepSeek）完美粘貼到 Word、WPS 和 Excel。"
                 }
             }
         },
@@ -54087,6 +54140,63 @@
                     "ja": "Emacs内部の強力で多機能なオムニ検索",
                     "zh-hans": "Emacs内置的强大多功能全能搜索",
                     "zh-hant": "在Emacs內部的強大多功能全能搜索"
+                }
+            },
+            "https://github.com/mcp-use/mcp-use": {
+                "repository_name": "mcp-use",
+                "user_name": "mcp-use",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "mcp-use is the easiest way to interact with mcp servers with custom agents",
+                "topics": [
+                    "agentic-framework",
+                    "ai",
+                    "apps-sdk",
+                    "chatgpt",
+                    "claude-code",
+                    "llms",
+                    "mcp",
+                    "mcp-apps",
+                    "mcp-client",
+                    "mcp-gateway",
+                    "mcp-host",
+                    "mcp-inspector",
+                    "mcp-server",
+                    "mcp-servers",
+                    "mcp-tools",
+                    "mcp-ui",
+                    "model-context-protocol",
+                    "modelcontextprotocol",
+                    "python",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "mcp-use is the easiest way to interact with mcp servers with custom agents",
+                    "ja": "mcp-useはカスタムエージェントを使用してmcpサーバーとやり取りする最も簡単な方法です。",
+                    "zh-hans": "mcp-use 是与自定义代理与 mcp 服务器交互的最简单方式",
+                    "zh-hant": "mcp-use 是與自定義代理與 mcp 伺服器互動的最簡單方式"
+                }
+            },
+            "https://github.com/mcpjam/inspector": {
+                "repository_name": "inspector",
+                "user_name": "MCPJam",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Test ChatGPT apps, MCP apps, and MCP servers. ",
+                "topics": [
+                    "chatgpt",
+                    "mcp",
+                    "mcp-apps",
+                    "mcp-clients",
+                    "mcp-tools",
+                    "modelcontextprotocol",
+                    "opensource"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Test ChatGPT apps, MCP apps, and MCP servers.",
+                    "ja": "テストChatGPTアプリ、MCPアプリ、およびMCPサーバー。",
+                    "zh-hans": "测试ChatGPT应用程序，MCP应用程序和MCP服务器。",
+                    "zh-hant": "測試ChatGPT應用程式、MCP應用程式和MCP伺服器。"
                 }
             }
         }
