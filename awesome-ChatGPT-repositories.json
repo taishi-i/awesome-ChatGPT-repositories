@@ -35142,6 +35142,28 @@
                     "zh-hans": "一个轻量级、强大的多代理工作流框架，适用于Go语言。",
                     "zh-hant": "一個輕量級、強大的多代理工作流框架在Go語言中"
                 }
+            },
+            "https://github.com/searchsavior/openarc": {
+                "repository_name": "OpenArc",
+                "user_name": "SearchSavior",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Inference engine for Intel devices. Serve LLMs, VLMs, Whisper, Kokoro-TTS, Embedding and Rerank models over OpenAI endpoints.",
+                "topics": [
+                    "agentic-ai",
+                    "fastapi",
+                    "inference-engine",
+                    "openvino-genai",
+                    "openvino-toolkit",
+                    "optimum-intel",
+                    "transformers"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Inference engine for Intel devices. Serve LLMs, VLMs, Whisper, Kokoro-TTS, Embedding and Rerank models over OpenAI endpoints.",
+                    "ja": "インテルデバイス向けの推論エンジン。OpenAIエンドポイント上でLLMs、VLMs、Whisper、Kokoro-TTS、埋め込み、および再ランクモデルを提供します。",
+                    "zh-hans": "英特尔设备的推理引擎。在OpenAI端点上为LLMs、VLMs、Whisper、Kokoro-TTS、嵌入和重新排名模型提供服务。",
+                    "zh-hant": "針對英特爾設備的推論引擎。在OpenAI端點上為LLMs、VLMs、Whisper、Kokoro-TTS、Embedding和Rerank模型提供服務。"
+                }
             }
         },
         "Langchain": {
@@ -39300,6 +39322,29 @@
                     "ja": "非同期ブック：「大規模アプリケーション開発 AIエージェントを手作りする」- これは非常に簡単な入門例ですが、初心者を導くことに重点を置いています。現在、LLM開発領域は急速に発展していますが、この本はあくまで概要に過ぎません。さらに多くの例やコードは、OpenAI CookbookやLangChain Exampleで見つけることができます。",
                     "zh-hans": "异步图书：《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。",
                     "zh-hant": "異步圖書：《大模型應用開發 動手做AI Agent》 - 這是一些非常簡單的入門示例，重在引導新手入門，目前LLM開發領域發展很快，本書只是一個提綱挈領。更多的示例和代碼大家可以去OpenAI Cookbook, LangChain Example中去挖掘。"
+                }
+            },
+            "https://github.com/matlab-deep-learning/llms-with-matlab": {
+                "repository_name": "llms-with-matlab",
+                "user_name": "matlab-deep-learning",
+                "language": "MATLAB",
+                "license": "Other",
+                "description": "Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™",
+                "topics": [
+                    "azure",
+                    "chatgpt-api",
+                    "llm",
+                    "matlab",
+                    "ollama",
+                    "ollama-api",
+                    "openai-api",
+                    "openai-chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™",
+                    "ja": "MATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™を含めるMATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™に接続します。",
+                    "zh-hans": "将MATLAB连接到LLM API，包括OpenAI® Chat Completions，Azure® OpenAI Services和Ollama™。",
+                    "zh-hant": "將MATLAB連接到LLM APIs，包括OpenAI® Chat Completions、Azure® OpenAI Services和Ollama™。"
                 }
             }
         },
@@ -45927,6 +45972,24 @@
                     "ja": "Paper Debuggerは最高のオーバーリーフの相棒です。",
                     "zh-hans": "纸质调试器是最好的overleaf伴侣",
                     "zh-hant": "紙上調試器是最好的Overleaf伴侶。"
+                }
+            },
+            "https://github.com/steipete/codexbar": {
+                "repository_name": "CodexBar",
+                "user_name": "steipete",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "Show usage stats for OpenAI Codex.",
+                "topics": [
+                    "ai",
+                    "codex",
+                    "swift"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Show usage stats for OpenAI Codex.",
+                    "ja": "OpenAI Codexの使用統計を表示します。",
+                    "zh-hans": "显示OpenAI Codex的使用统计。",
+                    "zh-hant": "顯示OpenAI Codex的使用統計數據。"
                 }
             }
         },
@@ -54197,6 +54260,28 @@
                     "ja": "テストChatGPTアプリ、MCPアプリ、およびMCPサーバー。",
                     "zh-hans": "测试ChatGPT应用程序，MCP应用程序和MCP服务器。",
                     "zh-hant": "測試ChatGPT應用程式、MCP應用程式和MCP伺服器。"
+                }
+            },
+            "https://github.com/worldbench/drivebench": {
+                "repository_name": "DriveBench",
+                "user_name": "worldbench",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "[ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives",
+                "topics": [
+                    "autonomous-driving",
+                    "chatgpt",
+                    "driving-with-language",
+                    "internvl",
+                    "phi-3",
+                    "qwen2-vl",
+                    "vision-language-models"
+                ],
+                "multilingual_descriptions": {
+                    "en": "[ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives",
+                    "ja": "[ICCV 2025] VLMは自動運転に対応していますか？信頼性、データ、およびメトリックの観点からの実証研究",
+                    "zh-hans": "[ICCV 2025] VLMs是否准备好用于自动驾驶？从可靠性、数据和度量的角度进行的实证研究",
+                    "zh-hant": "[ICCV 2025] VLMs是否已經準備好應對自動駕駛？從可靠性、數據和指標的角度進行的實證研究"
                 }
             }
         }

@@ -16,20 +16,23 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [wp-autoplugin](https://github.com/wp-autoplugin/wp-autoplugin) - シンプルな説明から迅速に機能的なプラグインを作成し、不要な膨張をせずに特定のニーズに対応します。
+**NLP**
+ * [OpenArc](https://github.com/searchsavior/openarc) - インテルデバイス向けの推論エンジン。OpenAIエンドポイント上でLLMs、VLMs、Whisper、Kokoro-TTS、埋め込み、および再ランクモデルを提供します。
 
 
-**CLIs**
- * [PasteMD](https://github.com/richqaq/pastemd) - MarkdownとAI応答（ChatGPT/DeepSeekなど）をワンクリックでWord、WPS、Excelに完璧に貼り付ける効率ツール
+**Langchain**
+ * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - MATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™を含めるMATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™に接続します。
+
+
+**Openai**
+ * [CodexBar](https://github.com/steipete/codexbar) - OpenAI Codexの使用統計を表示します。
 
 
 **Others**
- * [mcp-use](https://github.com/mcp-use/mcp-use) - mcp-useはカスタムエージェントを使用してmcpサーバーとやり取りする最も簡単な方法です。
- * [inspector](https://github.com/mcpjam/inspector) - テストChatGPTアプリ、MCPアプリ、およびMCPサーバー。
+ * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] VLMは自動運転に対応していますか？信頼性、データ、およびメトリックの観点からの実証研究
 
 
-_Updated on December 11, 2025_ (A total of 2366 repositories listed.)
+_Updated on December 15, 2025_ (A total of 2370 repositories listed.)
 
 ## Table of contents
 
@@ -1547,6 +1550,7 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [Acontext](https://github.com/memodb-io/acontext) - ⭐ 1.7k / エージェントが情報を保存、観察、学習するための1つの場所。自己学習エージェント向けのコンテキストデータプラットフォームで、コンテキストエンジニアリングを簡素化し、エージェントの信頼性とタスク成功率を向上させることを目的として設計されています。
  * 🟢 [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 279 / AIとAzure SQL DBを使用したサンプル
  * 🟢 [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 209 / Go言語でのマルチエージェントワークフロー向けの軽量でパワフルなフレームワーク
+ * [OpenArc](https://github.com/searchsavior/openarc) - インテルデバイス向けの推論エンジン。OpenAIエンドポイント上でLLMs、VLMs、Whisper、Kokoro-TTS、埋め込み、および再ランクモデルを提供します。
 
 
 ## Langchain
@@ -1717,6 +1721,7 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [chats](https://github.com/sdcb/chats) - ⭐ 424 / ユーザーフレンドリーでエンタープライズ向けのAIインターフェース（Ollama、OpenAI API、DeepSeekなどをサポート）
  * 🟢 [vllora](https://github.com/vllora/vllora) - ⭐ 715 / AI エージェントのデバッグを行ってください。
  * 🟢 [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 436 / 非同期ブック：「大規模アプリケーション開発 AIエージェントを手作りする」- これは非常に簡単な入門例ですが、初心者を導くことに重点を置いています。現在、LLM開発領域は急速に発展していますが、この本はあくまで概要に過ぎません。さらに多くの例やコードは、OpenAI CookbookやLangChain Exampleで見つけることができます。
+ * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - MATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™を含めるMATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™に接続します。
 
 
 ## Unity
@@ -2033,6 +2038,7 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [aiproxy](https://github.com/labring/aiproxy) - ⭐ 307 / AI Proxyは、OpenAIとClaudeプロトコルをエントリーポイントとして使用する高性能AIゲートウェイです。インテリジェントなエラーハンドリング、マルチチャンネル管理、包括的なモニタリング機能を備えています。複数のモデル、レート制限、マルチテナントをサポートしています。
  * [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - GitHubモデルとAzure OpenAIと連携するPython AIエージェントフレームワークの例のリポジトリ。
  * [paperdebugger](https://github.com/paperdebugger/paperdebugger) - Paper Debuggerは最高のオーバーリーフの相棒です。
+ * [CodexBar](https://github.com/steipete/codexbar) - OpenAI Codexの使用統計を表示します。
 
 
 ## Others
@@ -2470,5 +2476,6 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [consult-omni](https://github.com/armindarvish/consult-omni) - ⭐ 256 / Emacs内部の強力で多機能なオムニ検索
  * [mcp-use](https://github.com/mcp-use/mcp-use) - mcp-useはカスタムエージェントを使用してmcpサーバーとやり取りする最も簡単な方法です。
  * [inspector](https://github.com/mcpjam/inspector) - テストChatGPTアプリ、MCPアプリ、およびMCPサーバー。
+ * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] VLMは自動運転に対応していますか？信頼性、データ、およびメトリックの観点からの実証研究
 
 
