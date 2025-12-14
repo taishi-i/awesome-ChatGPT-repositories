@@ -16,20 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [wp-autoplugin](https://github.com/wp-autoplugin/wp-autoplugin) - Quickly create functional plugins from simple descriptions, addressing specific needs without unnecessary bloat.
+**NLP**
+ * [OpenArc](https://github.com/searchsavior/openarc) - Inference engine for Intel devices. Serve LLMs, VLMs, Whisper, Kokoro-TTS, Embedding and Rerank models over OpenAI endpoints.
 
 
-**CLIs**
- * [PasteMD](https://github.com/richqaq/pastemd) - 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
+**Langchain**
+ * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™
+
+
+**Openai**
+ * [CodexBar](https://github.com/steipete/codexbar) - Show usage stats for OpenAI Codex.
 
 
 **Others**
- * [mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
- * [inspector](https://github.com/mcpjam/inspector) - Test ChatGPT apps, MCP apps, and MCP servers.
+ * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives
 
 
-_Updated on December 11, 2025_ (A total of 2366 repositories listed.)
+_Updated on December 15, 2025_ (A total of 2370 repositories listed.)
 
 ## Table of contents
 
@@ -1547,6 +1550,7 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [Acontext](https://github.com/memodb-io/acontext) - ⭐ 1.7k / One Place for Agents to Store, Observe, and Learn. Context Data Platform for Self-learning Agents, designed to simplify context engineering and improve agent reliability and task success rates.
  * 🟢 [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 279 / Samples using AI and Azure SQL DB
  * 🟢 [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 209 / A lightweight, powerful framework for multi-agent workflows in Go
+ * [OpenArc](https://github.com/searchsavior/openarc) - Inference engine for Intel devices. Serve LLMs, VLMs, Whisper, Kokoro-TTS, Embedding and Rerank models over OpenAI endpoints.
 
 
 ## Langchain
@@ -1717,6 +1721,7 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [chats](https://github.com/sdcb/chats) - ⭐ 424 / User-friendly Enterprise Ready AI Interface (Supports Ollama, OpenAI API, DeepSeek...)
  * 🟢 [vllora](https://github.com/vllora/vllora) - ⭐ 715 / Debugging your AI agents
  * 🟢 [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 436 / Asynchronous Book: "Hands-on AI Agent Development for Large Model Applications" - These are some very simple introductory examples, focusing on guiding beginners to get started. Currently, the development of LLM is progressing rapidly, and this book is just a brief overview. For more examples and code, you can explore the OpenAI Cookbook and LangChain Example.
+ * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™
 
 
 ## Unity
@@ -2033,6 +2038,7 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [aiproxy](https://github.com/labring/aiproxy) - ⭐ 307 / AI Proxy is a high-performance AI gateway using OpenAI's and Claude protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With support for multiple models, rate limiting, and multi-tena
  * [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - A repository of examples using Python AI Agent frameworks that work with GitHub Models and Azure OpenAI.
  * [paperdebugger](https://github.com/paperdebugger/paperdebugger) - Paper Debugger is the best overleaf companion
+ * [CodexBar](https://github.com/steipete/codexbar) - Show usage stats for OpenAI Codex.
 
 
 ## Others
@@ -2470,5 +2476,6 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [consult-omni](https://github.com/armindarvish/consult-omni) - ⭐ 256 / A Powerful Versatile Omni Search inside Emacs
  * [mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
  * [inspector](https://github.com/mcpjam/inspector) - Test ChatGPT apps, MCP apps, and MCP servers.
+ * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives
 
 

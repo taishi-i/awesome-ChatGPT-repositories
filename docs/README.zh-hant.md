@@ -16,20 +16,23 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [wp-autoplugin](https://github.com/wp-autoplugin/wp-autoplugin) - 快速從簡單描述中創建功能性插件，滿足特定需求，避免不必要的膨脹。
+**NLP**
+ * [OpenArc](https://github.com/searchsavior/openarc) - 針對英特爾設備的推論引擎。在OpenAI端點上為LLMs、VLMs、Whisper、Kokoro-TTS、Embedding和Rerank模型提供服務。
 
 
-**CLIs**
- * [PasteMD](https://github.com/richqaq/pastemd) - 一鍵將 Markdown 和網頁 AI 對話（ChatGPT/DeepSeek等）完美粘貼到 Word、WPS 和 Excel 的效率工具 | 一鍵將 Markdown 和 AI 回應（ChatGPT/DeepSeek）完美粘貼到 Word、WPS 和 Excel。
+**Langchain**
+ * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - 將MATLAB連接到LLM APIs，包括OpenAI® Chat Completions、Azure® OpenAI Services和Ollama™。
+
+
+**Openai**
+ * [CodexBar](https://github.com/steipete/codexbar) - 顯示OpenAI Codex的使用統計數據。
 
 
 **Others**
- * [mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use 是與自定義代理與 mcp 伺服器互動的最簡單方式
- * [inspector](https://github.com/mcpjam/inspector) - 測試ChatGPT應用程式、MCP應用程式和MCP伺服器。
+ * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] VLMs是否已經準備好應對自動駕駛？從可靠性、數據和指標的角度進行的實證研究
 
 
-_Updated on December 11, 2025_ (A total of 2366 repositories listed.)
+_Updated on December 15, 2025_ (A total of 2370 repositories listed.)
 
 ## Table of contents
 
@@ -1547,6 +1550,7 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [Acontext](https://github.com/memodb-io/acontext) - ⭐ 1.7k / 一個供代理商存儲、觀察和學習的地方。自學習代理商的上下文數據平台，旨在簡化上下文工程並提高代理商的可靠性和任務成功率。
  * 🟢 [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 279 / 使用人工智慧和Azure SQL DB的樣本
  * 🟢 [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 209 / 一個輕量級、強大的多代理工作流框架在Go語言中
+ * [OpenArc](https://github.com/searchsavior/openarc) - 針對英特爾設備的推論引擎。在OpenAI端點上為LLMs、VLMs、Whisper、Kokoro-TTS、Embedding和Rerank模型提供服務。
 
 
 ## Langchain
@@ -1717,6 +1721,7 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [chats](https://github.com/sdcb/chats) - ⭐ 424 / 用戶友好的企業級AI界面（支持Ollama、OpenAI API、DeepSeek...）
  * 🟢 [vllora](https://github.com/vllora/vllora) - ⭐ 715 / 調試您的AI代理
  * 🟢 [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 436 / 異步圖書：《大模型應用開發 動手做AI Agent》 - 這是一些非常簡單的入門示例，重在引導新手入門，目前LLM開發領域發展很快，本書只是一個提綱挈領。更多的示例和代碼大家可以去OpenAI Cookbook, LangChain Example中去挖掘。
+ * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - 將MATLAB連接到LLM APIs，包括OpenAI® Chat Completions、Azure® OpenAI Services和Ollama™。
 
 
 ## Unity
@@ -2033,6 +2038,7 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [aiproxy](https://github.com/labring/aiproxy) - ⭐ 307 / AI代理是一個高性能的AI網關，使用OpenAI和Claude協議作為入口。它具有智能錯誤處理、多通道管理和全面監控功能。支持多個模型、速率限制和多租戶。
  * [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - 使用Python AI代理框架的示例存儲庫，可與GitHub模型和Azure OpenAI一起使用。
  * [paperdebugger](https://github.com/paperdebugger/paperdebugger) - 紙上調試器是最好的Overleaf伴侶。
+ * [CodexBar](https://github.com/steipete/codexbar) - 顯示OpenAI Codex的使用統計數據。
 
 
 ## Others
@@ -2470,5 +2476,6 @@ _Updated on December 11, 2025_ (A total of 2366 repositories listed.)
  * 🟢 [consult-omni](https://github.com/armindarvish/consult-omni) - ⭐ 256 / 在Emacs內部的強大多功能全能搜索
  * [mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use 是與自定義代理與 mcp 伺服器互動的最簡單方式
  * [inspector](https://github.com/mcpjam/inspector) - 測試ChatGPT應用程式、MCP應用程式和MCP伺服器。
+ * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] VLMs是否已經準備好應對自動駕駛？從可靠性、數據和指標的角度進行的實證研究
 
 
