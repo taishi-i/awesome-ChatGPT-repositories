@@ -16,23 +16,20 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - 一个精心筛选的令人惊叹的ChatGPT软件列表。
+
+
 **NLP**
- * [OpenArc](https://github.com/searchsavior/openarc) - 英特尔设备的推理引擎。在OpenAI端点上为LLMs、VLMs、Whisper、Kokoro-TTS、嵌入和重新排名模型提供服务。
+ * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - 一个开源的漫画翻译工具，基于manga-image-translator核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供5种翻译引擎（包括OpenAI、Gemini等AI翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个⭐ Star支持！
+ * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 异步子代理（就像克劳德代码一样）· 精心挑选的带有适当模型的代理人 · 包括LSP/AST等精心制作的工具 · 精心挑选的MCPs · 克劳德代码兼容层 —— 为您的OpenCode提供类固醇。最佳LLM代理体验就在这里。OmO（发音为Oh-Mo）
 
 
 **Langchain**
- * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - 将MATLAB连接到LLM API，包括OpenAI® Chat Completions，Azure® OpenAI Services和Ollama™。
+ * [Automodel](https://github.com/nvidia-nemo/automodel) - Pytorch分布式本地训练库，支持LLMs/VLMs，并具有OOTB Hugging Face支持。
 
 
-**Openai**
- * [CodexBar](https://github.com/steipete/codexbar) - 显示OpenAI Codex的使用统计。
-
-
-**Others**
- * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] VLMs是否准备好用于自动驾驶？从可靠性、数据和度量的角度进行的实证研究
-
-
-_Updated on December 15, 2025_ (A total of 2370 repositories listed.)
+_Updated on December 17, 2025_ (A total of 2374 repositories listed.)
 
 ## Table of contents
 
@@ -138,6 +135,7 @@ _Updated on December 15, 2025_ (A total of 2370 repositories listed.)
  * 🟢 [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 23k / 🏆 一份排名靠前的机器学习Python库列表。每周更新。
  * 🟢 [simple-openai](https://github.com/sashirestela/simple-openai) - ⭐ 359 / 一个用于以最简单方式使用OpenAI Api的Java库。
  * [Memori](https://github.com/memorilabs/memori) - 开源内存引擎，用于LLMs，AI代理和多代理系统
+ * [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - 一个精心筛选的令人惊叹的ChatGPT软件列表。
 
 
 ## Prompts
@@ -1551,6 +1549,8 @@ _Updated on December 15, 2025_ (A total of 2370 repositories listed.)
  * 🟢 [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 279 / 使用人工智能和Azure SQL数据库的样本
  * 🟢 [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 209 / 一个轻量级、强大的多代理工作流框架，适用于Go语言。
  * [OpenArc](https://github.com/searchsavior/openarc) - 英特尔设备的推理引擎。在OpenAI端点上为LLMs、VLMs、Whisper、Kokoro-TTS、嵌入和重新排名模型提供服务。
+ * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - 一个开源的漫画翻译工具，基于manga-image-translator核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供5种翻译引擎（包括OpenAI、Gemini等AI翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个⭐ Star支持！
+ * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 异步子代理（就像克劳德代码一样）· 精心挑选的带有适当模型的代理人 · 包括LSP/AST等精心制作的工具 · 精心挑选的MCPs · 克劳德代码兼容层 —— 为您的OpenCode提供类固醇。最佳LLM代理体验就在这里。OmO（发音为Oh-Mo）
 
 
 ## Langchain
@@ -1722,6 +1722,7 @@ _Updated on December 15, 2025_ (A total of 2370 repositories listed.)
  * 🟢 [vllora](https://github.com/vllora/vllora) - ⭐ 715 / 调试您的AI代理
  * 🟢 [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 436 / 异步图书：《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。
  * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - 将MATLAB连接到LLM API，包括OpenAI® Chat Completions，Azure® OpenAI Services和Ollama™。
+ * [Automodel](https://github.com/nvidia-nemo/automodel) - Pytorch分布式本地训练库，支持LLMs/VLMs，并具有OOTB Hugging Face支持。
 
 
 ## Unity

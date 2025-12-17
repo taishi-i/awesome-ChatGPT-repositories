@@ -16,23 +16,20 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - 素晴らしいChatGPTソフトウェアの厳選リスト。
+
+
 **NLP**
- * [OpenArc](https://github.com/searchsavior/openarc) - インテルデバイス向けの推論エンジン。OpenAIエンドポイント上でLLMs、VLMs、Whisper、Kokoro-TTS、埋め込み、および再ランクモデルを提供します。
+ * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - オープンソースの漫画翻訳ツールで、manga-image-translatorのコアエンジンをベースに開発されています。日本の漫画、韓国の漫画、アメリカの漫画の自動翻訳をサポートし、OpenAI、Geminiなどの5つの翻訳エンジンを提供しています。ビジュアルエディターを内蔵し、テキストボックスやスタイルを自由に調整できます。ワンクリックインストールスクリプトで環境の自動設定と更新をサポートし、パッケージ化されたバージョンはすぐに使用できます。このプロジェクトが役立つ場合は、⭐スターをお願いします！
+ * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 非同期サブエージェント（クロードコードのようなYES）· 適切なモデルを持つキュレーションされたエージェント · LSP/ASTなどの作成されたツールを含む · キュレーションされたMCPs · クロードコード互換レイヤー — あなたのOpenCodeのためのステロイド。最高のLLMエージェント体験がここにあります。OmO（Oh-Moと発音します）
 
 
 **Langchain**
- * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - MATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™を含めるMATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™に接続します。
+ * [Automodel](https://github.com/nvidia-nemo/automodel) - Pytorch分散ネイティブトレーニングライブラリ、LLMs/VLMs向け、OOTB Hugging Faceサポート付き
 
 
-**Openai**
- * [CodexBar](https://github.com/steipete/codexbar) - OpenAI Codexの使用統計を表示します。
-
-
-**Others**
- * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] VLMは自動運転に対応していますか？信頼性、データ、およびメトリックの観点からの実証研究
-
-
-_Updated on December 15, 2025_ (A total of 2370 repositories listed.)
+_Updated on December 17, 2025_ (A total of 2374 repositories listed.)
 
 ## Table of contents
 
@@ -138,6 +135,7 @@ _Updated on December 15, 2025_ (A total of 2370 repositories listed.)
  * 🟢 [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 23k / 🏆 素晴らしい機械学習Pythonライブラリのランク付けリスト。毎週更新されます。
  * 🟢 [simple-openai](https://github.com/sashirestela/simple-openai) - ⭐ 359 / 最も簡単な方法でOpenAI Apiを使用するためのJavaライブラリ。
  * [Memori](https://github.com/memorilabs/memori) - LLMs、AIエージェント、マルチエージェントシステム向けのオープンソースメモリエンジン
+ * [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - 素晴らしいChatGPTソフトウェアの厳選リスト。
 
 
 ## Prompts
@@ -1551,6 +1549,8 @@ _Updated on December 15, 2025_ (A total of 2370 repositories listed.)
  * 🟢 [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 279 / AIとAzure SQL DBを使用したサンプル
  * 🟢 [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 209 / Go言語でのマルチエージェントワークフロー向けの軽量でパワフルなフレームワーク
  * [OpenArc](https://github.com/searchsavior/openarc) - インテルデバイス向けの推論エンジン。OpenAIエンドポイント上でLLMs、VLMs、Whisper、Kokoro-TTS、埋め込み、および再ランクモデルを提供します。
+ * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - オープンソースの漫画翻訳ツールで、manga-image-translatorのコアエンジンをベースに開発されています。日本の漫画、韓国の漫画、アメリカの漫画の自動翻訳をサポートし、OpenAI、Geminiなどの5つの翻訳エンジンを提供しています。ビジュアルエディターを内蔵し、テキストボックスやスタイルを自由に調整できます。ワンクリックインストールスクリプトで環境の自動設定と更新をサポートし、パッケージ化されたバージョンはすぐに使用できます。このプロジェクトが役立つ場合は、⭐スターをお願いします！
+ * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 非同期サブエージェント（クロードコードのようなYES）· 適切なモデルを持つキュレーションされたエージェント · LSP/ASTなどの作成されたツールを含む · キュレーションされたMCPs · クロードコード互換レイヤー — あなたのOpenCodeのためのステロイド。最高のLLMエージェント体験がここにあります。OmO（Oh-Moと発音します）
 
 
 ## Langchain
@@ -1722,6 +1722,7 @@ _Updated on December 15, 2025_ (A total of 2370 repositories listed.)
  * 🟢 [vllora](https://github.com/vllora/vllora) - ⭐ 715 / AI エージェントのデバッグを行ってください。
  * 🟢 [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 436 / 非同期ブック：「大規模アプリケーション開発 AIエージェントを手作りする」- これは非常に簡単な入門例ですが、初心者を導くことに重点を置いています。現在、LLM開発領域は急速に発展していますが、この本はあくまで概要に過ぎません。さらに多くの例やコードは、OpenAI CookbookやLangChain Exampleで見つけることができます。
  * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - MATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™を含めるMATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™に接続します。
+ * [Automodel](https://github.com/nvidia-nemo/automodel) - Pytorch分散ネイティブトレーニングライブラリ、LLMs/VLMs向け、OOTB Hugging Faceサポート付き
 
 
 ## Unity

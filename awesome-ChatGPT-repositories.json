@@ -2234,6 +2234,25 @@
                     "zh-hans": "开源内存引擎，用于LLMs，AI代理和多代理系统",
                     "zh-hant": "開源記憶引擎，適用於LLMs、AI代理和多代理系統"
                 }
+            },
+            "https://github.com/korchasa/awesome-chatgpt": {
+                "repository_name": "awesome-chatgpt",
+                "user_name": "korchasa",
+                "language": "HTML",
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "A curated list of awesome ChatGPT software.",
+                "topics": [
+                    "awesome",
+                    "awesome-list",
+                    "chatgpt",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A curated list of awesome ChatGPT software.",
+                    "ja": "素晴らしいChatGPTソフトウェアの厳選リスト。",
+                    "zh-hans": "一个精心筛选的令人惊叹的ChatGPT软件列表。",
+                    "zh-hant": "一個精心挑選的令人驚嘆的ChatGPT軟件列表。"
+                }
             }
         },
         "Prompts": {
@@ -35164,6 +35183,52 @@
                     "zh-hans": "英特尔设备的推理引擎。在OpenAI端点上为LLMs、VLMs、Whisper、Kokoro-TTS、嵌入和重新排名模型提供服务。",
                     "zh-hant": "針對英特爾設備的推論引擎。在OpenAI端點上為LLMs、VLMs、Whisper、Kokoro-TTS、Embedding和Rerank模型提供服務。"
                 }
+            },
+            "https://github.com/hgmzhn/manga-translator-ui": {
+                "repository_name": "manga-translator-ui",
+                "user_name": "hgmzhn",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "一款开源的漫画翻译工具，基于 manga-image-translator 核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供 5 种翻译引擎（包括 OpenAI、Gemini 等 AI 翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个 ⭐ Star 支持！",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An open-source comic translation tool, developed based on the manga-image-translator core engine. It supports automatic translation of Japanese comics, Korean comics, and American comics, providing 5 translation engines (including OpenAI, Gemini, and other AI translations). The built-in visual editor allows for freely adjusting text boxes and styles. The one-click installation script supports automatic configuration of the environment and updates, and the packaged version is ready to use. If this project is helpful to you, please give it a ⭐ Star support!",
+                    "ja": "オープンソースの漫画翻訳ツールで、manga-image-translatorのコアエンジンをベースに開発されています。日本の漫画、韓国の漫画、アメリカの漫画の自動翻訳をサポートし、OpenAI、Geminiなどの5つの翻訳エンジンを提供しています。ビジュアルエディターを内蔵し、テキストボックスやスタイルを自由に調整できます。ワンクリックインストールスクリプトで環境の自動設定と更新をサポートし、パッケージ化されたバージョンはすぐに使用できます。このプロジェクトが役立つ場合は、⭐スターをお願いします！",
+                    "zh-hans": "一个开源的漫画翻译工具，基于manga-image-translator核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供5种翻译引擎（包括OpenAI、Gemini等AI翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个⭐ Star支持！",
+                    "zh-hant": "一款開源的漫畫翻譯工具，基於 manga-image-translator 核心引擎開發。支持日漫、韓漫、美漫的自動翻譯，提供 5 種翻譯引擎（包括 OpenAI、Gemini 等 AI 翻譯），內置可視化編輯器可自由調整文本框和樣式。一鍵安裝腳本支持自動配置環境和更新，打包版本開箱即用。如果這個項目對你有幫助，歡迎給個 ⭐ Star 支持！"
+                }
+            },
+            "https://github.com/code-yeongyu/oh-my-opencode": {
+                "repository_name": "oh-my-opencode",
+                "user_name": "code-yeongyu",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "amp",
+                    "anthropic",
+                    "claude",
+                    "claude-code",
+                    "claude-skills",
+                    "claudecode",
+                    "cursor",
+                    "gemini",
+                    "ide",
+                    "openai",
+                    "opencode",
+                    "orchestration",
+                    "rust",
+                    "tui",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)",
+                    "ja": "非同期サブエージェント（クロードコードのようなYES）· 適切なモデルを持つキュレーションされたエージェント · LSP/ASTなどの作成されたツールを含む · キュレーションされたMCPs · クロードコード互換レイヤー — あなたのOpenCodeのためのステロイド。最高のLLMエージェント体験がここにあります。OmO（Oh-Moと発音します）",
+                    "zh-hans": "异步子代理（就像克劳德代码一样）· 精心挑选的带有适当模型的代理人 · 包括LSP/AST等精心制作的工具 · 精心挑选的MCPs · 克劳德代码兼容层 —— 为您的OpenCode提供类固醇。最佳LLM代理体验就在这里。OmO（发音为Oh-Mo）",
+                    "zh-hant": "異步子代理（就像克勞德代碼一樣）· 精心挑選的具有適當模型的代理人 · 包括像LSP/AST這樣的精心製作工具 · 精心挑選的MCPs · 克勞德代碼兼容層 — 為您的OpenCode提供類固醇。最佳的LLM代理體驗就在這裡。OmO（發音為Oh-Mo）"
+                }
             }
         },
         "Langchain": {
@@ -39345,6 +39410,38 @@
                     "ja": "MATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™を含めるMATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™に接続します。",
                     "zh-hans": "将MATLAB连接到LLM API，包括OpenAI® Chat Completions，Azure® OpenAI Services和Ollama™。",
                     "zh-hant": "將MATLAB連接到LLM APIs，包括OpenAI® Chat Completions、Azure® OpenAI Services和Ollama™。"
+                }
+            },
+            "https://github.com/nvidia-nemo/automodel": {
+                "repository_name": "Automodel",
+                "user_name": "NVIDIA-NeMo",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support",
+                "topics": [
+                    "finetuning",
+                    "finetuning-llms",
+                    "gemma3",
+                    "gemma3n",
+                    "gpt-oss",
+                    "huggingface",
+                    "llama",
+                    "llama3",
+                    "llm",
+                    "llm-training",
+                    "mistral",
+                    "openai",
+                    "pytorch",
+                    "qwen",
+                    "qwen3",
+                    "qwen3-next",
+                    "vlm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support",
+                    "ja": "Pytorch分散ネイティブトレーニングライブラリ、LLMs/VLMs向け、OOTB Hugging Faceサポート付き",
+                    "zh-hans": "Pytorch分布式本地训练库，支持LLMs/VLMs，并具有OOTB Hugging Face支持。",
+                    "zh-hant": "Pytorch分佈式原生訓練庫，支持LLMs/VLMs，並具有OOTB Hugging Face支持。"
                 }
             }
         },
