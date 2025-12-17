@@ -16,23 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - A curated list of awesome ChatGPT software.
+
+
 **NLP**
- * [OpenArc](https://github.com/searchsavior/openarc) - Inference engine for Intel devices. Serve LLMs, VLMs, Whisper, Kokoro-TTS, Embedding and Rerank models over OpenAI endpoints.
+ * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - 一款开源的漫画翻译工具，基于 manga-image-translator 核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供 5 种翻译引擎（包括 OpenAI、Gemini 等 AI 翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个 ⭐ Star 支持！
+ * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
 
 
 **Langchain**
- * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™
+ * [Automodel](https://github.com/nvidia-nemo/automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 
 
-**Openai**
- * [CodexBar](https://github.com/steipete/codexbar) - Show usage stats for OpenAI Codex.
-
-
-**Others**
- * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives
-
-
-_Updated on December 15, 2025_ (A total of 2370 repositories listed.)
+_Updated on December 17, 2025_ (A total of 2374 repositories listed.)
 
 ## Table of contents
 
@@ -138,6 +135,7 @@ _Updated on December 15, 2025_ (A total of 2370 repositories listed.)
  * 🟢 [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 23k / 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
  * 🟢 [simple-openai](https://github.com/sashirestela/simple-openai) - ⭐ 359 / A Java library to use the OpenAI Api in the simplest possible way.
  * [Memori](https://github.com/memorilabs/memori) - Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+ * [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - A curated list of awesome ChatGPT software.
 
 
 ## Prompts
@@ -1551,6 +1549,8 @@ _Updated on December 15, 2025_ (A total of 2370 repositories listed.)
  * 🟢 [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 279 / Samples using AI and Azure SQL DB
  * 🟢 [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 209 / A lightweight, powerful framework for multi-agent workflows in Go
  * [OpenArc](https://github.com/searchsavior/openarc) - Inference engine for Intel devices. Serve LLMs, VLMs, Whisper, Kokoro-TTS, Embedding and Rerank models over OpenAI endpoints.
+ * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - 一款开源的漫画翻译工具，基于 manga-image-translator 核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供 5 种翻译引擎（包括 OpenAI、Gemini 等 AI 翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个 ⭐ Star 支持！
+ * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
 
 
 ## Langchain
@@ -1722,6 +1722,7 @@ _Updated on December 15, 2025_ (A total of 2370 repositories listed.)
  * 🟢 [vllora](https://github.com/vllora/vllora) - ⭐ 715 / Debug your AI agents
  * 🟢 [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 436 / 异步图书：《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。
  * [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™
+ * [Automodel](https://github.com/nvidia-nemo/automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
 
 
 ## Unity
