@@ -6403,6 +6403,39 @@
                     "zh-hans": "产品经理使用ChatGPT、Claude和Gemini等代理人的生成式AI提示存储库",
                     "zh-hant": "一個供產品經理使用代理人（如ChatGPT、Claude和Gemini）的生成式AI提示存儲庫"
                 }
+            },
+            "https://github.com/chr15m/runprompt": {
+                "repository_name": "runprompt",
+                "user_name": "chr15m",
+                "language": "Python",
+                "license": null,
+                "description": "Run LLM prompts from your shell",
+                "topics": [
+                    "ai-agents",
+                    "ai-development",
+                    "anthropic",
+                    "bash",
+                    "bash-script",
+                    "cli",
+                    "command-line",
+                    "dotprompt",
+                    "gemini",
+                    "gemini-ai",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "openrouter",
+                    "prompt-engineering",
+                    "python",
+                    "shell",
+                    "shell-script"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Run LLM prompts from your shell",
+                    "ja": "シェルからLLMプロンプトを実行してください。",
+                    "zh-hans": "从您的shell运行LLM提示",
+                    "zh-hant": "從您的shell運行LLM提示"
+                }
             }
         },
         "Chatbots": {
@@ -15291,6 +15324,40 @@
                     "ja": "Cohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンドCohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンド",
                     "zh-hans": "使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作为VectorDB的对话代理的FastAPI后端",
                     "zh-hant": "使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作為VectorDB的對話代理的FastAPI後端"
+                }
+            },
+            "https://github.com/devnen/chatterbox-tts-server": {
+                "repository_name": "Chatterbox-TTS-Server",
+                "user_name": "devnen",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (ROCm), and CPU.",
+                "topics": [
+                    "ai",
+                    "api-server",
+                    "audio-generation",
+                    "chatterbox",
+                    "chatterbox-tts",
+                    "cuda",
+                    "fastapi",
+                    "huggingface",
+                    "openai-api",
+                    "python",
+                    "pytorch",
+                    "rocm",
+                    "speech-synthesis",
+                    "speech-synthesis-api",
+                    "text-to-speech",
+                    "tts",
+                    "tts-api",
+                    "voice-cloning",
+                    "web-ui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (R",
+                    "ja": "強力なChatterbox TTSモデルを自己ホストします。このサーバーには、使いやすいWeb UI、柔軟なAPIエンドポイント（OpenAI互換を含む）、事前定義された声、声のクローン、大規模なオーディオブックスケールのテキスト処理が提供されます。NVIDIA（CUDA）、AMDで高速に実行されます。",
+                    "zh-hans": "自行托管强大的Chatterbox TTS模型。该服务器提供用户友好的Web UI，灵活的API端点（包括OpenAI兼容），预定义的语音，语音克隆以及大规模的有声读物文本处理。在NVIDIA（CUDA），AMD（R）上加速运行。",
+                    "zh-hant": "自行託管強大的Chatterbox TTS模型。此伺服器提供使用者友善的Web UI、靈活的API端點（包括OpenAI兼容）、預定義的聲音、語音克隆和大規模有聲書文本處理。在NVIDIA（CUDA）、AMD（R上運行加速。"
                 }
             }
         },
@@ -35229,6 +35296,30 @@
                     "zh-hans": "异步子代理（就像克劳德代码一样）· 精心挑选的带有适当模型的代理人 · 包括LSP/AST等精心制作的工具 · 精心挑选的MCPs · 克劳德代码兼容层 —— 为您的OpenCode提供类固醇。最佳LLM代理体验就在这里。OmO（发音为Oh-Mo）",
                     "zh-hant": "異步子代理（就像克勞德代碼一樣）· 精心挑選的具有適當模型的代理人 · 包括像LSP/AST這樣的精心製作工具 · 精心挑選的MCPs · 克勞德代碼兼容層 — 為您的OpenCode提供類固醇。最佳的LLM代理體驗就在這裡。OmO（發音為Oh-Mo）"
                 }
+            },
+            "https://github.com/bestruirui/octopus": {
+                "repository_name": "octopus",
+                "user_name": "bestruirui",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务",
+                "topics": [
+                    "ai",
+                    "ai-gateway",
+                    "anthropic",
+                    "claude",
+                    "claude-code",
+                    "codex",
+                    "llm-gateway",
+                    "openai",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务",
+                    "ja": "あなたのためのすべてのLLMを1つのハブに集約します | 個人向けのLLM API集約サービス",
+                    "zh-hans": "为您打造的所有 LLM API 聚合服务",
+                    "zh-hant": "為個人打造的 LLM API 聚合服務"
+                }
             }
         },
         "Langchain": {
@@ -54379,6 +54470,20 @@
                     "ja": "[ICCV 2025] VLMは自動運転に対応していますか？信頼性、データ、およびメトリックの観点からの実証研究",
                     "zh-hans": "[ICCV 2025] VLMs是否准备好用于自动驾驶？从可靠性、数据和度量的角度进行的实证研究",
                     "zh-hant": "[ICCV 2025] VLMs是否已經準備好應對自動駕駛？從可靠性、數據和指標的角度進行的實證研究"
+                }
+            },
+            "https://github.com/eliasjudin/oai-skills": {
+                "repository_name": "oai-skills",
+                "user_name": "eliasjudin",
+                "language": "Python",
+                "license": null,
+                "description": "The contents of /home/oai/skills in ChatGPT's code interpreter environment",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The contents of /home/oai/skills in ChatGPT's code interpreter environment",
+                    "ja": "ChatGPTのコードインタープリター環境内の/home/oai/skillsの内容",
+                    "zh-hans": "在ChatGPT的代码解释器环境中，/home/oai/skills的内容",
+                    "zh-hant": "在ChatGPT的代碼解釋器環境中，輸入/home/oai/skills的內容"
                 }
             }
         }

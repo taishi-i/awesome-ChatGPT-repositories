@@ -16,20 +16,23 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - 一個精心挑選的令人驚嘆的ChatGPT軟件列表。
+**Prompts**
+ * [runprompt](https://github.com/chr15m/runprompt) - 從您的shell運行LLM提示
+
+
+**Chatbots**
+ * [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - 自行託管強大的Chatterbox TTS模型。此伺服器提供使用者友善的Web UI、靈活的API端點（包括OpenAI兼容）、預定義的聲音、語音克隆和大規模有聲書文本處理。在NVIDIA（CUDA）、AMD（R上運行加速。
 
 
 **NLP**
- * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - 一款開源的漫畫翻譯工具，基於 manga-image-translator 核心引擎開發。支持日漫、韓漫、美漫的自動翻譯，提供 5 種翻譯引擎（包括 OpenAI、Gemini 等 AI 翻譯），內置可視化編輯器可自由調整文本框和樣式。一鍵安裝腳本支持自動配置環境和更新，打包版本開箱即用。如果這個項目對你有幫助，歡迎給個 ⭐ Star 支持！
- * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 異步子代理（就像克勞德代碼一樣）· 精心挑選的具有適當模型的代理人 · 包括像LSP/AST這樣的精心製作工具 · 精心挑選的MCPs · 克勞德代碼兼容層 — 為您的OpenCode提供類固醇。最佳的LLM代理體驗就在這裡。OmO（發音為Oh-Mo）
+ * [octopus](https://github.com/bestruirui/octopus) - 為個人打造的 LLM API 聚合服務
 
 
-**Langchain**
- * [Automodel](https://github.com/nvidia-nemo/automodel) - Pytorch分佈式原生訓練庫，支持LLMs/VLMs，並具有OOTB Hugging Face支持。
+**Others**
+ * [oai-skills](https://github.com/eliasjudin/oai-skills) - 在ChatGPT的代碼解釋器環境中，輸入/home/oai/skills的內容
 
 
-_Updated on December 17, 2025_ (A total of 2374 repositories listed.)
+_Updated on December 22, 2025_ (A total of 2378 repositories listed.)
 
 ## Table of contents
 
@@ -312,6 +315,7 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * 🟢 [optillm](https://github.com/algorithmicsuperintelligence/optillm) - ⭐ 3.2k / 為LLMs優化推理代理
  * 🟢 [codexia](https://github.com/codexia-team/codexia) - ⭐ 299 / 一個強大的GUI/IDE和工具包，適用於Codex CLI。分叉聊天+文件樹+提示記事本+git工作樹等等。
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 356 / 一個供產品經理使用代理人（如ChatGPT、Claude和Gemini）的生成式AI提示存儲庫
+ * [runprompt](https://github.com/chr15m/runprompt) - 從您的shell運行LLM提示
 
 
 ## Chatbots
@@ -671,6 +675,7 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * 🟢 [open-whispr](https://github.com/herotools/open-whispr) - ⭐ 492 / 具有本地Whisper模型和OpenAI API的語音轉文本應用程序。隱私優先，跨平台，全球熱鍵啟用。
  * 🟢 [AetherLink](https://github.com/1600822305/aetherlink) - ⭐ 235 / AetherLink是一個跨平台的人工智慧助手應用程式，支援多個主流人工智慧模型（OpenAI、Google Gemini、Anthropic Claude、Grok等）。使用React、TypeScript和Capacitor構建，提供無縫的對話體驗。主要功能包括：
  * 🟢 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 234 / 使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作為VectorDB的對話代理的FastAPI後端
+ * [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - 自行託管強大的Chatterbox TTS模型。此伺服器提供使用者友善的Web UI、靈活的API端點（包括OpenAI兼容）、預定義的聲音、語音克隆和大規模有聲書文本處理。在NVIDIA（CUDA）、AMD（R上運行加速。
 
 
 ## Browser-extensions
@@ -1551,6 +1556,7 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * [OpenArc](https://github.com/searchsavior/openarc) - 針對英特爾設備的推論引擎。在OpenAI端點上為LLMs、VLMs、Whisper、Kokoro-TTS、Embedding和Rerank模型提供服務。
  * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - 一款開源的漫畫翻譯工具，基於 manga-image-translator 核心引擎開發。支持日漫、韓漫、美漫的自動翻譯，提供 5 種翻譯引擎（包括 OpenAI、Gemini 等 AI 翻譯），內置可視化編輯器可自由調整文本框和樣式。一鍵安裝腳本支持自動配置環境和更新，打包版本開箱即用。如果這個項目對你有幫助，歡迎給個 ⭐ Star 支持！
  * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 異步子代理（就像克勞德代碼一樣）· 精心挑選的具有適當模型的代理人 · 包括像LSP/AST這樣的精心製作工具 · 精心挑選的MCPs · 克勞德代碼兼容層 — 為您的OpenCode提供類固醇。最佳的LLM代理體驗就在這裡。OmO（發音為Oh-Mo）
+ * [octopus](https://github.com/bestruirui/octopus) - 為個人打造的 LLM API 聚合服務
 
 
 ## Langchain
@@ -2478,5 +2484,6 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * [mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use 是與自定義代理與 mcp 伺服器互動的最簡單方式
  * [inspector](https://github.com/mcpjam/inspector) - 測試ChatGPT應用程式、MCP應用程式和MCP伺服器。
  * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] VLMs是否已經準備好應對自動駕駛？從可靠性、數據和指標的角度進行的實證研究
+ * [oai-skills](https://github.com/eliasjudin/oai-skills) - 在ChatGPT的代碼解釋器環境中，輸入/home/oai/skills的內容
 
 
