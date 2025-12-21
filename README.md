@@ -16,20 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - A curated list of awesome ChatGPT software.
+**Prompts**
+ * [runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
+
+
+**Chatbots**
+ * [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (ROCm), and CPU.
 
 
 **NLP**
- * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - 一款开源的漫画翻译工具，基于 manga-image-translator 核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供 5 种翻译引擎（包括 OpenAI、Gemini 等 AI 翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个 ⭐ Star 支持！
- * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
+ * [octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
 
 
-**Langchain**
- * [Automodel](https://github.com/nvidia-nemo/automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+**Others**
+ * [oai-skills](https://github.com/eliasjudin/oai-skills) - The contents of /home/oai/skills in ChatGPT's code interpreter environment
 
 
-_Updated on December 17, 2025_ (A total of 2374 repositories listed.)
+_Updated on December 22, 2025_ (A total of 2378 repositories listed.)
 
 ## Table of contents
 
@@ -312,6 +315,7 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * 🟢 [optillm](https://github.com/algorithmicsuperintelligence/optillm) - ⭐ 3.2k / Optimizing inference proxy for LLMs
  * 🟢 [codexia](https://github.com/codexia-team/codexia) - ⭐ 299 / A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad + git worktree and more
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 356 / A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini
+ * [runprompt](https://github.com/chr15m/runprompt) - Run LLM prompts from your shell
 
 
 ## Chatbots
@@ -671,6 +675,7 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * 🟢 [open-whispr](https://github.com/herotools/open-whispr) - ⭐ 492 / Voice-to-text dictation app with local Whisper models and OpenAI API. Privacy-first, cross-platform, global hotkey activated.
  * 🟢 [AetherLink](https://github.com/1600822305/aetherlink) - ⭐ 235 / AetherLink is a cross-platform AI assistant application that supports multiple mainstream AI models (OpenAI, Google Gemini, Anthropic Claude, Grok, etc.). Built with React, TypeScript, and Capacitor, it delivers a seamless conversational experience. Key features include customizable model configurations, multi-topic chat management, AI reasoning vi
  * 🟢 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 234 / FastAPI Backend for a Conversational Agent using Cohere, (Azure) OpenAI, Langchain & Langgraph and Qdrant as VectorDB
+ * [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (ROCm), and CPU.
 
 
 ## Browser-extensions
@@ -1551,6 +1556,7 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * [OpenArc](https://github.com/searchsavior/openarc) - Inference engine for Intel devices. Serve LLMs, VLMs, Whisper, Kokoro-TTS, Embedding and Rerank models over OpenAI endpoints.
  * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - 一款开源的漫画翻译工具，基于 manga-image-translator 核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供 5 种翻译引擎（包括 OpenAI、Gemini 等 AI 翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个 ⭐ Star 支持！
  * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
+ * [octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
 
 
 ## Langchain
@@ -2478,5 +2484,6 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * [mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
  * [inspector](https://github.com/mcpjam/inspector) - Test ChatGPT apps, MCP apps, and MCP servers.
  * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives
+ * [oai-skills](https://github.com/eliasjudin/oai-skills) - The contents of /home/oai/skills in ChatGPT's code interpreter environment
 
 

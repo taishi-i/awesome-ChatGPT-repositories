@@ -16,20 +16,23 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - 素晴らしいChatGPTソフトウェアの厳選リスト。
+**Prompts**
+ * [runprompt](https://github.com/chr15m/runprompt) - シェルからLLMプロンプトを実行してください。
+
+
+**Chatbots**
+ * [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - 強力なChatterbox TTSモデルを自己ホストします。このサーバーには、使いやすいWeb UI、柔軟なAPIエンドポイント（OpenAI互換を含む）、事前定義された声、声のクローン、大規模なオーディオブックスケールのテキスト処理が提供されます。NVIDIA（CUDA）、AMDで高速に実行されます。
 
 
 **NLP**
- * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - オープンソースの漫画翻訳ツールで、manga-image-translatorのコアエンジンをベースに開発されています。日本の漫画、韓国の漫画、アメリカの漫画の自動翻訳をサポートし、OpenAI、Geminiなどの5つの翻訳エンジンを提供しています。ビジュアルエディターを内蔵し、テキストボックスやスタイルを自由に調整できます。ワンクリックインストールスクリプトで環境の自動設定と更新をサポートし、パッケージ化されたバージョンはすぐに使用できます。このプロジェクトが役立つ場合は、⭐スターをお願いします！
- * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 非同期サブエージェント（クロードコードのようなYES）· 適切なモデルを持つキュレーションされたエージェント · LSP/ASTなどの作成されたツールを含む · キュレーションされたMCPs · クロードコード互換レイヤー — あなたのOpenCodeのためのステロイド。最高のLLMエージェント体験がここにあります。OmO（Oh-Moと発音します）
+ * [octopus](https://github.com/bestruirui/octopus) - あなたのためのすべてのLLMを1つのハブに集約します | 個人向けのLLM API集約サービス
 
 
-**Langchain**
- * [Automodel](https://github.com/nvidia-nemo/automodel) - Pytorch分散ネイティブトレーニングライブラリ、LLMs/VLMs向け、OOTB Hugging Faceサポート付き
+**Others**
+ * [oai-skills](https://github.com/eliasjudin/oai-skills) - ChatGPTのコードインタープリター環境内の/home/oai/skillsの内容
 
 
-_Updated on December 17, 2025_ (A total of 2374 repositories listed.)
+_Updated on December 22, 2025_ (A total of 2378 repositories listed.)
 
 ## Table of contents
 
@@ -312,6 +315,7 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * 🟢 [optillm](https://github.com/algorithmicsuperintelligence/optillm) - ⭐ 3.2k / LLMsの推論プロキシの最適化
  * 🟢 [codexia](https://github.com/codexia-team/codexia) - ⭐ 299 / Codex CLI用の強力なGUI/IDEおよびツールキット。 Fork chat + FileTree + プロンプトメモ帳 + git worktree など
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 356 / 製品マネージャー向けのジェネレーティブAIプロンプトのリポジトリ。ChatGPT、Claude、Geminiなどのエージェントを使用します。
+ * [runprompt](https://github.com/chr15m/runprompt) - シェルからLLMプロンプトを実行してください。
 
 
 ## Chatbots
@@ -671,6 +675,7 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * 🟢 [open-whispr](https://github.com/herotools/open-whispr) - ⭐ 492 / ローカルのWhisperモデルとOpenAI APIを搭載した音声テキスト変換アプリ。プライバシー第一、クロスプラットフォーム、グローバルホットキーで起動可能。
  * 🟢 [AetherLink](https://github.com/1600822305/aetherlink) - ⭐ 235 / AetherLinkは、複数の主要なAIモデル（OpenAI、Google Gemini、Anthropic Claude、Grokなど）をサポートするクロスプラットフォームのAIアシスタントアプリケーションです。React、TypeScript、Capacitorで構築されており、シームレスな会話体験を提供します。主な特徴は、
  * 🟢 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 234 / Cohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンドCohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンド
+ * [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - 強力なChatterbox TTSモデルを自己ホストします。このサーバーには、使いやすいWeb UI、柔軟なAPIエンドポイント（OpenAI互換を含む）、事前定義された声、声のクローン、大規模なオーディオブックスケールのテキスト処理が提供されます。NVIDIA（CUDA）、AMDで高速に実行されます。
 
 
 ## Browser-extensions
@@ -1551,6 +1556,7 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * [OpenArc](https://github.com/searchsavior/openarc) - インテルデバイス向けの推論エンジン。OpenAIエンドポイント上でLLMs、VLMs、Whisper、Kokoro-TTS、埋め込み、および再ランクモデルを提供します。
  * [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - オープンソースの漫画翻訳ツールで、manga-image-translatorのコアエンジンをベースに開発されています。日本の漫画、韓国の漫画、アメリカの漫画の自動翻訳をサポートし、OpenAI、Geminiなどの5つの翻訳エンジンを提供しています。ビジュアルエディターを内蔵し、テキストボックスやスタイルを自由に調整できます。ワンクリックインストールスクリプトで環境の自動設定と更新をサポートし、パッケージ化されたバージョンはすぐに使用できます。このプロジェクトが役立つ場合は、⭐スターをお願いします！
  * [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - 非同期サブエージェント（クロードコードのようなYES）· 適切なモデルを持つキュレーションされたエージェント · LSP/ASTなどの作成されたツールを含む · キュレーションされたMCPs · クロードコード互換レイヤー — あなたのOpenCodeのためのステロイド。最高のLLMエージェント体験がここにあります。OmO（Oh-Moと発音します）
+ * [octopus](https://github.com/bestruirui/octopus) - あなたのためのすべてのLLMを1つのハブに集約します | 個人向けのLLM API集約サービス
 
 
 ## Langchain
@@ -2478,5 +2484,6 @@ _Updated on December 17, 2025_ (A total of 2374 repositories listed.)
  * [mcp-use](https://github.com/mcp-use/mcp-use) - mcp-useはカスタムエージェントを使用してmcpサーバーとやり取りする最も簡単な方法です。
  * [inspector](https://github.com/mcpjam/inspector) - テストChatGPTアプリ、MCPアプリ、およびMCPサーバー。
  * [DriveBench](https://github.com/worldbench/drivebench) - [ICCV 2025] VLMは自動運転に対応していますか？信頼性、データ、およびメトリックの観点からの実証研究
+ * [oai-skills](https://github.com/eliasjudin/oai-skills) - ChatGPTのコードインタープリター環境内の/home/oai/skillsの内容
 
 
