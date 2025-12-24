@@ -15359,6 +15359,35 @@
                     "zh-hans": "自行托管强大的Chatterbox TTS模型。该服务器提供用户友好的Web UI，灵活的API端点（包括OpenAI兼容），预定义的语音，语音克隆以及大规模的有声读物文本处理。在NVIDIA（CUDA），AMD（R）上加速运行。",
                     "zh-hant": "自行託管強大的Chatterbox TTS模型。此伺服器提供使用者友善的Web UI、靈活的API端點（包括OpenAI兼容）、預定義的聲音、語音克隆和大規模有聲書文本處理。在NVIDIA（CUDA）、AMD（R上運行加速。"
                 }
+            },
+            "https://github.com/stickerdaniel/linkedin-mcp-server": {
+                "repository_name": "linkedin-mcp-server",
+                "user_name": "stickerdaniel",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "This MCP server allows Claude and other AI assistants to access your LinkedIn. Scrape LinkedIn profiles and companies, get your recommended jobs, and perform job searches.",
+                "topics": [
+                    "anthropic",
+                    "chatgpt",
+                    "chatgpt-desktop",
+                    "claude",
+                    "claude-desktop",
+                    "desktop-extension",
+                    "dxt",
+                    "linkedin",
+                    "linkedin-mcp",
+                    "linkedin-profile-scraper",
+                    "linkedin-scraper",
+                    "mcp",
+                    "mcp-server",
+                    "server"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This MCP server allows Claude and other AI assistants to access your LinkedIn. Scrape LinkedIn profiles and companies, get your recommended jobs, and perform job searches.",
+                    "ja": "このMCPサーバーは、クロードや他のAIアシスタントがあなたのLinkedInにアクセスできるようにします。LinkedInのプロフィールや企業をスクレイプし、おすすめの仕事を取得し、仕事検索を実行します。",
+                    "zh-hans": "这个MCP服务器允许克劳德和其他AI助手访问您的LinkedIn。抓取LinkedIn个人资料和公司信息，获取您的推荐工作，并进行工作搜索。",
+                    "zh-hant": "這個MCP伺服器允許克勞德和其他AI助手訪問您的LinkedIn。刮LinkedIn個人資料和公司，為您推薦工作，並執行工作搜索。"
+                }
             }
         },
         "Browser-extensions": {
@@ -35320,6 +35349,28 @@
                     "zh-hans": "为您打造的所有 LLM API 聚合服务",
                     "zh-hant": "為個人打造的 LLM API 聚合服務"
                 }
+            },
+            "https://github.com/java-ai-tech/spring-ai-summary": {
+                "repository_name": "spring-ai-summary",
+                "user_name": "java-ai-tech",
+                "language": "Java",
+                "license": "Other",
+                "description": "SpringAI，LLM，MCP，Embedding",
+                "topics": [
+                    "deepseek",
+                    "doubao",
+                    "learning-by-doing",
+                    "llm",
+                    "mcp",
+                    "openai",
+                    "springai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "SpringAI, LLM, MCP, Embedding",
+                    "ja": "SpringAI、LLM、MCP、埋め込み春AI、LLM、MCP、埋め込み",
+                    "zh-hans": "SpringAI，LLM，MCP，嵌入",
+                    "zh-hant": "SpringAI，LLM，MCP，嵌入"
+                }
             }
         },
         "Langchain": {
@@ -54484,6 +54535,20 @@
                     "ja": "ChatGPTのコードインタープリター環境内の/home/oai/skillsの内容",
                     "zh-hans": "在ChatGPT的代码解释器环境中，/home/oai/skills的内容",
                     "zh-hant": "在ChatGPT的代碼解釋器環境中，輸入/home/oai/skills的內容"
+                }
+            },
+            "https://github.com/alpic-ai/skybridge": {
+                "repository_name": "skybridge",
+                "user_name": "alpic-ai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Skybridge is a framework for building ChatGPT apps",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Skybridge is a framework for building ChatGPT apps",
+                    "ja": "SkybridgeはChatGPTアプリを構築するためのフレームワークです。",
+                    "zh-hans": "Skybridge是用于构建ChatGPT应用程序的框架。",
+                    "zh-hant": "Skybridge 是一個用於構建 ChatGPT 應用程序的框架。"
                 }
             }
         }
