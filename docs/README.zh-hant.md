@@ -16,19 +16,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - 這個MCP伺服器允許克勞德和其他AI助手訪問您的LinkedIn。刮LinkedIn個人資料和公司，為您推薦工作，並執行工作搜索。
+**Prompts**
+ * [plano](https://github.com/katanemo/plano) - 加快船舶代理。 Plano是代理應用程序的交付基礎設施。 一個本地模型代理服務器和數據平面，可卸載管道工作，讓您專注於產品邏輯。
 
 
-**NLP**
- * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI，LLM，MCP，嵌入
+**Reimplementations**
+ * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - 使用OpenAI Agents SDK實現迭代深入研究
+
+
+**Openai**
+ * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCAN是MCP服務的集中管理平台。它使用容器部署方法部署每個MCP服務。該平台支持容器監控和MCP服務令牌驗證，解決安全風險並實現快速部署。
 
 
 **Others**
- * [skybridge](https://github.com/alpic-ai/skybridge) - Skybridge 是一個用於構建 ChatGPT 應用程序的框架。
+ * [manifest](https://github.com/mnfst/manifest) - Shadcn/ui 組件庫，用於構建 ChatGPT 應用程式
 
 
-_Updated on December 25, 2025_ (A total of 2380 repositories listed.)
+_Updated on December 29, 2025_ (A total of 2384 repositories listed.)
 
 ## Table of contents
 
@@ -312,6 +316,7 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟢 [codexia](https://github.com/codexia-team/codexia) - ⭐ 327 / 一個強大的GUI/IDE和工具包，適用於Codex CLI。分叉聊天+文件樹+提示記事本+git工作樹等等。
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 375 / 一個供產品經理使用代理人（如ChatGPT、Claude和Gemini）的生成式AI提示存儲庫
  * 🟢 [runprompt](https://github.com/chr15m/runprompt) - ⭐ 404 / 從您的shell運行LLM提示
+ * [plano](https://github.com/katanemo/plano) - 加快船舶代理。 Plano是代理應用程序的交付基礎設施。 一個本地模型代理服務器和數據平面，可卸載管道工作，讓您專注於產品邏輯。
 
 
 ## Chatbots
@@ -1153,6 +1158,7 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟡 [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - ⭐ repo not found / 以更简单的方式实施所有RAG技术
  * 🟡 [TokenDagger](https://github.com/m4thyou/tokendagger) - ⭐ 465 / OpenAI的TikToken高性能實現。
  * 🟢 [LiteCommands](https://github.com/rollczi/litecommands) - ⭐ 184 / ☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA和未來實現的指令框架。
+ * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - 使用OpenAI Agents SDK實現迭代深入研究
 
 
 ## Tutorials
@@ -2043,6 +2049,7 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟢 [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - ⭐ 284 / 使用Python AI代理框架的示例存儲庫，可與GitHub模型和Azure OpenAI一起使用。
  * 🟢 [paperdebugger](https://github.com/paperdebugger/paperdebugger) - ⭐ 1.2k / 紙上調試器是最好的Overleaf伴侶。
  * 🟢 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 431 / 顯示OpenAI Codex的使用統計數據。
+ * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCAN是MCP服務的集中管理平台。它使用容器部署方法部署每個MCP服務。該平台支持容器監控和MCP服務令牌驗證，解決安全風險並實現快速部署。
 
 
 ## Others
@@ -2483,5 +2490,6 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟢 [DriveBench](https://github.com/worldbench/drivebench) - ⭐ 228 / [ICCV 2025] VLMs是否已經準備好應對自動駕駛？從可靠性、數據和指標的角度進行的實證研究
  * 🟢 [oai-skills](https://github.com/eliasjudin/oai-skills) - ⭐ 412 / 在ChatGPT的代碼解釋器環境中，輸入/home/oai/skills的內容
  * [skybridge](https://github.com/alpic-ai/skybridge) - Skybridge 是一個用於構建 ChatGPT 應用程序的框架。
+ * [manifest](https://github.com/mnfst/manifest) - Shadcn/ui 組件庫，用於構建 ChatGPT 應用程式
 
 

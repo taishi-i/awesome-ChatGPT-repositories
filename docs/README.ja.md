@@ -16,19 +16,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - このMCPサーバーは、クロードや他のAIアシスタントがあなたのLinkedInにアクセスできるようにします。LinkedInのプロフィールや企業をスクレイプし、おすすめの仕事を取得し、仕事検索を実行します。
+**Prompts**
+ * [plano](https://github.com/katanemo/plano) - 船舶代理業者を迅速に出荷します。 Planoは、代理業アプリケーション向けの配信インフラです。 プロダクトロジックに集中できるように、プラモデルネイティブのプロキシサーバー＆データプレーンが配管作業をオフロードします。
 
 
-**NLP**
- * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI、LLM、MCP、埋め込み春AI、LLM、MCP、埋め込み
+**Reimplementations**
+ * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - OpenAI Agents SDKを使用した反復深い研究の実装
+
+
+**Openai**
+ * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCANはMCPサービスのための集中管理プラットフォームです。コンテナ展開方式を使用して各MCPサービスを展開します。このプラットフォームはコンテナの監視とMCPサービスのトークン検証をサポートし、セキュリティリスクを解決し、迅速な展開を可能にします。
 
 
 **Others**
- * [skybridge](https://github.com/alpic-ai/skybridge) - SkybridgeはChatGPTアプリを構築するためのフレームワークです。
+ * [manifest](https://github.com/mnfst/manifest) - ChatGPTアプリを構築するためのShadcn/uiコンポーネントライブラリ
 
 
-_Updated on December 25, 2025_ (A total of 2380 repositories listed.)
+_Updated on December 29, 2025_ (A total of 2384 repositories listed.)
 
 ## Table of contents
 
@@ -312,6 +316,7 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟢 [codexia](https://github.com/codexia-team/codexia) - ⭐ 327 / Codex CLI用の強力なGUI/IDEおよびツールキット。 Fork chat + FileTree + プロンプトメモ帳 + git worktree など
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 375 / 製品マネージャー向けのジェネレーティブAIプロンプトのリポジトリ。ChatGPT、Claude、Geminiなどのエージェントを使用します。
  * 🟢 [runprompt](https://github.com/chr15m/runprompt) - ⭐ 404 / シェルからLLMプロンプトを実行してください。
+ * [plano](https://github.com/katanemo/plano) - 船舶代理業者を迅速に出荷します。 Planoは、代理業アプリケーション向けの配信インフラです。 プロダクトロジックに集中できるように、プラモデルネイティブのプロキシサーバー＆データプレーンが配管作業をオフロードします。
 
 
 ## Chatbots
@@ -1153,6 +1158,7 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟡 [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - ⭐ repo not found / より簡単な方法ですべてのRAG技術の実装
  * 🟡 [TokenDagger](https://github.com/m4thyou/tokendagger) - ⭐ 465 / OpenAIのTikTokenの高性能実装。
  * 🟢 [LiteCommands](https://github.com/rollczi/litecommands) - ⭐ 184 / ☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。
+ * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - OpenAI Agents SDKを使用した反復深い研究の実装
 
 
 ## Tutorials
@@ -2043,6 +2049,7 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟢 [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - ⭐ 284 / GitHubモデルとAzure OpenAIと連携するPython AIエージェントフレームワークの例のリポジトリ。
  * 🟢 [paperdebugger](https://github.com/paperdebugger/paperdebugger) - ⭐ 1.2k / Paper Debuggerは最高のオーバーリーフの相棒です。
  * 🟢 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 431 / OpenAI Codexの使用統計を表示します。
+ * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCANはMCPサービスのための集中管理プラットフォームです。コンテナ展開方式を使用して各MCPサービスを展開します。このプラットフォームはコンテナの監視とMCPサービスのトークン検証をサポートし、セキュリティリスクを解決し、迅速な展開を可能にします。
 
 
 ## Others
@@ -2483,5 +2490,6 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟢 [DriveBench](https://github.com/worldbench/drivebench) - ⭐ 228 / [ICCV 2025] VLMは自動運転に対応していますか？信頼性、データ、およびメトリックの観点からの実証研究
  * 🟢 [oai-skills](https://github.com/eliasjudin/oai-skills) - ⭐ 412 / ChatGPTのコードインタープリター環境内の/home/oai/skillsの内容
  * [skybridge](https://github.com/alpic-ai/skybridge) - SkybridgeはChatGPTアプリを構築するためのフレームワークです。
+ * [manifest](https://github.com/mnfst/manifest) - ChatGPTアプリを構築するためのShadcn/uiコンポーネントライブラリ
 
 

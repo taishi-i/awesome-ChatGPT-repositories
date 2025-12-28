@@ -16,19 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - This MCP server allows Claude and other AI assistants to access your LinkedIn. Scrape LinkedIn profiles and companies, get your recommended jobs, and perform job searches.
+**Prompts**
+ * [plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
 
 
-**NLP**
- * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI, LLM, MCP, Embedding
+**Reimplementations**
+ * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - An implementation of iterative deep research using the OpenAI Agents SDK
+
+
+**Openai**
+ * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployme
 
 
 **Others**
- * [skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a framework for building ChatGPT apps
+ * [manifest](https://github.com/mnfst/manifest) - Shadcn/ui components library for building ChatGPT Apps
 
 
-_Updated on December 25, 2025_ (A total of 2380 repositories listed.)
+_Updated on December 29, 2025_ (A total of 2384 repositories listed.)
 
 ## Table of contents
 
@@ -312,6 +316,7 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟢 [codexia](https://github.com/codexia-team/codexia) - ⭐ 327 / A powerful GUI/IDE and Toolkit for Codex CLI. Fork chat + FileTree + prompt notepad + git worktree and more
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 375 / A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini
  * 🟢 [runprompt](https://github.com/chr15m/runprompt) - ⭐ 404 / Run LLM prompts from your shell
+ * [plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
 
 
 ## Chatbots
@@ -1153,6 +1158,7 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟡 [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - ⭐ repo not found / Implementation of all RAG techniques in a simpler way
  * 🟡 [TokenDagger](https://github.com/m4thyou/tokendagger) - ⭐ 465 / High-Performance Implementation of OpenAI's TikToken.
  * 🟢 [LiteCommands](https://github.com/rollczi/litecommands) - ⭐ 184 / ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.
+ * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - An implementation of iterative deep research using the OpenAI Agents SDK
 
 
 ## Tutorials
@@ -2043,6 +2049,7 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟢 [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - ⭐ 284 / A repository of examples using Python AI Agent frameworks that work with GitHub Models and Azure OpenAI.
  * 🟢 [paperdebugger](https://github.com/paperdebugger/paperdebugger) - ⭐ 1.2k / Paper Debugger is the best overleaf companion
  * 🟢 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 431 / Show usage stats for OpenAI Codex.
+ * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployme
 
 
 ## Others
@@ -2483,5 +2490,6 @@ _Updated on December 25, 2025_ (A total of 2380 repositories listed.)
  * 🟢 [DriveBench](https://github.com/worldbench/drivebench) - ⭐ 228 / [ICCV 2025] Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives
  * 🟢 [oai-skills](https://github.com/eliasjudin/oai-skills) - ⭐ 412 / The contents of /home/oai/skills in ChatGPT's code interpreter environment
  * [skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a framework for building ChatGPT apps
+ * [manifest](https://github.com/mnfst/manifest) - Shadcn/ui components library for building ChatGPT Apps
 
 
