@@ -6436,6 +6436,38 @@
                     "zh-hans": "从您的shell运行LLM提示",
                     "zh-hant": "從您的shell運行LLM提示"
                 }
+            },
+            "https://github.com/katanemo/plano": {
+                "repository_name": "plano",
+                "user_name": "katanemo",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.",
+                "topics": [
+                    "ai-gateway",
+                    "ai-gateway-support",
+                    "envoy",
+                    "envoyproxy",
+                    "gateway",
+                    "generative-ai",
+                    "llm-gateway",
+                    "llm-inference",
+                    "llm-proxy",
+                    "llm-routing",
+                    "llmops",
+                    "llms",
+                    "openai",
+                    "prompt",
+                    "proxy",
+                    "proxy-server",
+                    "routing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.",
+                    "ja": "船舶代理業者を迅速に出荷します。 Planoは、代理業アプリケーション向けの配信インフラです。 プロダクトロジックに集中できるように、プラモデルネイティブのプロキシサーバー＆データプレーンが配管作業をオフロードします。",
+                    "zh-hans": "更快地交付代理。Plano是代理应用程序的交付基础设施。它是一个原生模型的代理服务器和数据平面，可以卸载管道工作，让您专注于产品逻辑。",
+                    "zh-hant": "加快船舶代理。 Plano是代理應用程序的交付基礎設施。 一個本地模型代理服務器和數據平面，可卸載管道工作，讓您專注於產品邏輯。"
+                }
             }
         },
         "Chatbots": {
@@ -26437,6 +26469,27 @@
                     "zh-hans": "☄️ LiteCommands - 适用于Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA和未来实现的命令框架。",
                     "zh-hant": "☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA和未來實現的指令框架。"
                 }
+            },
+            "https://github.com/qx-labs/agents-deep-research": {
+                "repository_name": "agents-deep-research",
+                "user_name": "qx-labs",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "An implementation of iterative deep research using the OpenAI Agents SDK",
+                "topics": [
+                    "agentic-ai",
+                    "agents",
+                    "deep-research",
+                    "deepresearch",
+                    "llms",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An implementation of iterative deep research using the OpenAI Agents SDK",
+                    "ja": "OpenAI Agents SDKを使用した反復深い研究の実装",
+                    "zh-hans": "使用OpenAI Agents SDK实现迭代深度研究",
+                    "zh-hant": "使用OpenAI Agents SDK實現迭代深入研究"
+                }
             }
         },
         "Tutorials": {
@@ -46230,6 +46283,38 @@
                     "zh-hans": "显示OpenAI Codex的使用统计。",
                     "zh-hant": "顯示OpenAI Codex的使用統計數據。"
                 }
+            },
+            "https://github.com/kymo-mcp/mcpcan": {
+                "repository_name": "mcpcan",
+                "user_name": "Kymo-MCP",
+                "language": "Go",
+                "license": "Other",
+                "description": "MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployment of MCP services. It uses SSE, STDIO, and STEAMABLEHTTP access protocols to deploy MCP。",
+                "topics": [
+                    "ai",
+                    "apitomcp",
+                    "container",
+                    "dify-synchronous",
+                    "docker",
+                    "helm",
+                    "kubernetes",
+                    "mcp",
+                    "mcp-server",
+                    "modelcontextprotocol",
+                    "openai",
+                    "openapi",
+                    "opensource",
+                    "platform",
+                    "reddit",
+                    "typescript",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployme",
+                    "ja": "MCPCANはMCPサービスのための集中管理プラットフォームです。コンテナ展開方式を使用して各MCPサービスを展開します。このプラットフォームはコンテナの監視とMCPサービスのトークン検証をサポートし、セキュリティリスクを解決し、迅速な展開を可能にします。",
+                    "zh-hans": "MCPCAN是MCP服务的集中管理平台。它使用容器部署方法部署每个MCP服务。该平台支持容器监控和MCP服务令牌验证，解决安全风险并实现快速部署。",
+                    "zh-hant": "MCPCAN是MCP服務的集中管理平台。它使用容器部署方法部署每個MCP服務。該平台支持容器監控和MCP服務令牌驗證，解決安全風險並實現快速部署。"
+                }
             }
         },
         "Others": {
@@ -54549,6 +54634,36 @@
                     "ja": "SkybridgeはChatGPTアプリを構築するためのフレームワークです。",
                     "zh-hans": "Skybridge是用于构建ChatGPT应用程序的框架。",
                     "zh-hant": "Skybridge 是一個用於構建 ChatGPT 應用程序的框架。"
+                }
+            },
+            "https://github.com/mnfst/manifest": {
+                "repository_name": "manifest",
+                "user_name": "mnfst",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Shadcn/ui components library for building ChatGPT Apps",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "chat",
+                    "chatgpt",
+                    "chatgpt-app",
+                    "manifest",
+                    "mcp",
+                    "mcp-app",
+                    "mcp-apps",
+                    "mcp-ui",
+                    "open-source",
+                    "shadcn",
+                    "shadcn-ui",
+                    "ui",
+                    "uikit"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Shadcn/ui components library for building ChatGPT Apps",
+                    "ja": "ChatGPTアプリを構築するためのShadcn/uiコンポーネントライブラリ",
+                    "zh-hans": "Shadcn/ui组件库，用于构建ChatGPT应用程序",
+                    "zh-hant": "Shadcn/ui 組件庫，用於構建 ChatGPT 應用程式"
                 }
             }
         }
