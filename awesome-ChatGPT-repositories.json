@@ -35424,6 +35424,28 @@
                     "zh-hans": "SpringAI，LLM，MCP，嵌入",
                     "zh-hant": "SpringAI，LLM，MCP，嵌入"
                 }
+            },
+            "https://github.com/mingchen666/doctranslator": {
+                "repository_name": "DocTranslator",
+                "user_name": "mingchen666",
+                "language": "Python",
+                "license": null,
+                "description": "DocTranslator is a powerful document AI translation tool that supports multiple file formats, OpenAI APIs, batch operations, multi-threading, and Docker deployment for efficient translation tasks! DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI格式、批量操作、多线程和 Docker 部署，以实现高效的翻译任务！🚀",
+                "topics": [
+                    "ai",
+                    "ai-translation",
+                    "doctranslator",
+                    "document-translation",
+                    "llm",
+                    "llms",
+                    "tranlslate"
+                ],
+                "multilingual_descriptions": {
+                    "en": "DocTranslator is a powerful document AI translation tool that supports multiple file formats, OpenAI APIs, batch operations, multi-threading, and Docker deployment for efficient translation tasks! DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI格式、批量操作、多线程和",
+                    "ja": "DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！",
+                    "zh-hans": "DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI API、批量操作、多线程和 Docker 部署，可高效完成翻译任务！",
+                    "zh-hant": "DocTranslator 是一個強大的文件 AI 翻譯工具，支持多種文件格式、OpenAI API、批量操作、多線程和 Docker 部署，用於高效的翻譯任務！"
+                }
             }
         },
         "Langchain": {
@@ -39637,6 +39659,48 @@
                     "ja": "Pytorch分散ネイティブトレーニングライブラリ、LLMs/VLMs向け、OOTB Hugging Faceサポート付き",
                     "zh-hans": "Pytorch分布式本地训练库，支持LLMs/VLMs，并具有OOTB Hugging Face支持。",
                     "zh-hant": "Pytorch分佈式原生訓練庫，支持LLMs/VLMs，並具有OOTB Hugging Face支持。"
+                }
+            },
+            "https://github.com/zakirkun/deep-eye": {
+                "repository_name": "deep-eye",
+                "user_name": "zakirkun",
+                "language": "Python",
+                "license": "Other",
+                "description": "An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and professional reporting.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and profess",
+                    "ja": "高度なAI駆動の脆弱性スキャナーおよびペネトレーションテストツールで、複数のAIプロバイダー（OpenAI、Grok、OLLAMA、Claude）を統合し、自動バグハンティング、インテリジェントペイロード生成、およびプロフェッショナル向けの包括的なセキュリティテストモジュールを備えています。",
+                    "zh-hans": "一款先进的AI驱动的漏洞扫描器和渗透测试工具，集成了多个AI提供商（OpenAI、Grok、OLLAMA、Claude），具有全面的安全测试模块，可用于自动化漏洞搜索、智能负载生成和专业渗透测试。",
+                    "zh-hant": "一個先進的AI驅動漏洞掃描器和滲透測試工具，集成了多個AI提供商（OpenAI、Grok、OLLAMA、Claude），具有全面的安全測試模塊，用於自動化漏洞探測、智能載荷生成和專業。"
+                }
+            },
+            "https://github.com/hydropix/translatebookwithllm": {
+                "repository_name": "TranslateBookWithLLM",
+                "user_name": "hydropix",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "A python script designed to translate large amounts of text with an LLM, Ollama, OpenAI, Gemini and OpenRouter API",
+                "topics": [
+                    "epub",
+                    "gemini",
+                    "gemini-api",
+                    "llm",
+                    "lmstudio",
+                    "local-llm",
+                    "localization-tool",
+                    "ollama",
+                    "openai-api",
+                    "openrouter",
+                    "srt-subtitles",
+                    "translation",
+                    "translation-tool"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A python script designed to translate large amounts of text with an LLM, Ollama, OpenAI, Gemini and OpenRouter API",
+                    "ja": "大量のテキストをLLM、Ollama、OpenAI、Gemini、およびOpenRouter APIを使用して翻訳するために設計されたPythonスクリプト",
+                    "zh-hans": "一个设计用于使用LLM、Ollama、OpenAI、Gemini和OpenRouter API翻译大量文本的Python脚本。",
+                    "zh-hant": "一個設計用於使用LLM、Ollama、OpenAI、Gemini和OpenRouter API翻譯大量文本的Python腳本。"
                 }
             }
         },
