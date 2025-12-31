@@ -16,23 +16,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
+**NLP**
+ * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator is a powerful document AI translation tool that supports multiple file formats, OpenAI APIs, batch operations, multi-threading, and Docker deployment for efficient translation tasks! DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI格式、批量操作、多线程和
 
 
-**Reimplementations**
- * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - An implementation of iterative deep research using the OpenAI Agents SDK
+**Langchain**
+ * [deep-eye](https://github.com/zakirkun/deep-eye) - An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and profess
+ * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - A python script designed to translate large amounts of text with an LLM, Ollama, OpenAI, Gemini and OpenRouter API
 
 
-**Openai**
- * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployme
-
-
-**Others**
- * [manifest](https://github.com/mnfst/manifest) - Shadcn/ui components library for building ChatGPT Apps
-
-
-_Updated on December 29, 2025_ (A total of 2384 repositories listed.)
+_Updated on January 01, 2026_ (A total of 2387 repositories listed.)
 
 ## Table of contents
 
@@ -1560,6 +1553,7 @@ _Updated on December 29, 2025_ (A total of 2384 repositories listed.)
  * 🟢 [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - ⭐ 346 / An open-source comic translation tool, developed based on the manga-image-translator core engine. It supports automatic translation of Japanese comics, Korean comics, and American comics, providing 5 translation engines (including OpenAI, Gemini, and other AI translations). The built-in visual editor allows for freely adjusting text boxes and styles. The one-click installation script supports automatic configuration of the environment and updates, and the packaged version is ready to use. If this project is helpful to you, please give it a ⭐ Star support!
  * 🟢 [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ⭐ 2.6k / ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
  * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI, LLM, MCP, Embedding
+ * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator is a powerful document AI translation tool that supports multiple file formats, OpenAI APIs, batch operations, multi-threading, and Docker deployment for efficient translation tasks! DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI格式、批量操作、多线程和
 
 
 ## Langchain
@@ -1732,6 +1726,8 @@ _Updated on December 29, 2025_ (A total of 2384 repositories listed.)
  * 🟢 [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 440 / Asynchronous Book: "Hands-on AI Agent Development for Large Model Applications" - These are some very simple introductory examples, focusing on guiding beginners to get started. Currently, the development of LLM is progressing rapidly, and this book is just a brief overview. For more examples and code, you can explore the OpenAI Cookbook and LangChain Example.
  * 🟢 [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - ⭐ 190 / Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™
  * 🟢 [Automodel](https://github.com/nvidia-nemo/automodel) - ⭐ 214 / Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+ * [deep-eye](https://github.com/zakirkun/deep-eye) - An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and profess
+ * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - A python script designed to translate large amounts of text with an LLM, Ollama, OpenAI, Gemini and OpenRouter API
 
 
 ## Unity

@@ -16,23 +16,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
+**NLP**
+ * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator is a powerful document AI translation tool that supports multiple file formats, OpenAI APIs, batch operations, multi-threading, and Docker deployment for efficient translation tasks! DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI格式、批量操作、多线程和 Docker 部署，以实现高效的翻译任务！🚀
 
 
-**Reimplementations**
- * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - An implementation of iterative deep research using the OpenAI Agents SDK
+**Langchain**
+ * [deep-eye](https://github.com/zakirkun/deep-eye) - An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and professional reporting.
+ * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - A python script designed to translate large amounts of text with an LLM, Ollama, OpenAI, Gemini and OpenRouter API
 
 
-**Openai**
- * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployment of MCP services. It uses SSE, STDIO, and STEAMABLEHTTP access protocols to deploy MCP。
-
-
-**Others**
- * [manifest](https://github.com/mnfst/manifest) - Shadcn/ui components library for building ChatGPT Apps
-
-
-_Updated on December 29, 2025_ (A total of 2384 repositories listed.)
+_Updated on January 01, 2026_ (A total of 2387 repositories listed.)
 
 ## Table of contents
 
@@ -1560,6 +1553,7 @@ _Updated on December 29, 2025_ (A total of 2384 repositories listed.)
  * 🟢 [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - ⭐ 346 / 一款开源的漫画翻译工具，基于 manga-image-translator 核心引擎开发。支持日漫、韩漫、美漫的自动翻译，提供 5 种翻译引擎（包括 OpenAI、Gemini 等 AI 翻译），内置可视化编辑器可自由调整文本框和样式。一键安装脚本支持自动配置环境和更新，打包版本开箱即用。如果这个项目对你有帮助，欢迎给个 ⭐ Star 支持！
  * 🟢 [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ⭐ 2.6k / ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
  * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI，LLM，MCP，Embedding
+ * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator is a powerful document AI translation tool that supports multiple file formats, OpenAI APIs, batch operations, multi-threading, and Docker deployment for efficient translation tasks! DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI格式、批量操作、多线程和 Docker 部署，以实现高效的翻译任务！🚀
 
 
 ## Langchain
@@ -1732,6 +1726,8 @@ _Updated on December 29, 2025_ (A total of 2384 repositories listed.)
  * 🟢 [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 440 / 异步图书：《大模型应用开发 动手做AI Agent》 - 这是一些非常简单的入门示例，重在引导新手入门，目前LLM开发领域发展很快，本书只是一个提纲挈领。更多的示例和代码大家可以去OpenAI Cookbook, LangChain Example中去挖掘。
  * 🟢 [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - ⭐ 190 / Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™
  * 🟢 [Automodel](https://github.com/nvidia-nemo/automodel) - ⭐ 214 / Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+ * [deep-eye](https://github.com/zakirkun/deep-eye) - An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and professional reporting.
+ * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - A python script designed to translate large amounts of text with an LLM, Ollama, OpenAI, Gemini and OpenRouter API
 
 
 ## Unity

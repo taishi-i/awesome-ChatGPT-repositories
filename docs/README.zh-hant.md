@@ -16,23 +16,16 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [plano](https://github.com/katanemo/plano) - 加快船舶代理。 Plano是代理應用程序的交付基礎設施。 一個本地模型代理服務器和數據平面，可卸載管道工作，讓您專注於產品邏輯。
+**NLP**
+ * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator 是一個強大的文件 AI 翻譯工具，支持多種文件格式、OpenAI API、批量操作、多線程和 Docker 部署，用於高效的翻譯任務！
 
 
-**Reimplementations**
- * [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - 使用OpenAI Agents SDK實現迭代深入研究
+**Langchain**
+ * [deep-eye](https://github.com/zakirkun/deep-eye) - 一個先進的AI驅動漏洞掃描器和滲透測試工具，集成了多個AI提供商（OpenAI、Grok、OLLAMA、Claude），具有全面的安全測試模塊，用於自動化漏洞探測、智能載荷生成和專業。
+ * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - 一個設計用於使用LLM、Ollama、OpenAI、Gemini和OpenRouter API翻譯大量文本的Python腳本。
 
 
-**Openai**
- * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCAN是MCP服務的集中管理平台。它使用容器部署方法部署每個MCP服務。該平台支持容器監控和MCP服務令牌驗證，解決安全風險並實現快速部署。
-
-
-**Others**
- * [manifest](https://github.com/mnfst/manifest) - Shadcn/ui 組件庫，用於構建 ChatGPT 應用程式
-
-
-_Updated on December 29, 2025_ (A total of 2384 repositories listed.)
+_Updated on January 01, 2026_ (A total of 2387 repositories listed.)
 
 ## Table of contents
 
@@ -1560,6 +1553,7 @@ _Updated on December 29, 2025_ (A total of 2384 repositories listed.)
  * 🟢 [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - ⭐ 346 / 一款開源的漫畫翻譯工具，基於 manga-image-translator 核心引擎開發。支持日漫、韓漫、美漫的自動翻譯，提供 5 種翻譯引擎（包括 OpenAI、Gemini 等 AI 翻譯），內置可視化編輯器可自由調整文本框和樣式。一鍵安裝腳本支持自動配置環境和更新，打包版本開箱即用。如果這個項目對你有幫助，歡迎給個 ⭐ Star 支持！
  * 🟢 [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ⭐ 2.6k / 異步子代理（就像克勞德代碼一樣）· 精心挑選的具有適當模型的代理人 · 包括像LSP/AST這樣的精心製作工具 · 精心挑選的MCPs · 克勞德代碼兼容層 — 為您的OpenCode提供類固醇。最佳的LLM代理體驗就在這裡。OmO（發音為Oh-Mo）
  * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI，LLM，MCP，嵌入
+ * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator 是一個強大的文件 AI 翻譯工具，支持多種文件格式、OpenAI API、批量操作、多線程和 Docker 部署，用於高效的翻譯任務！
 
 
 ## Langchain
@@ -1732,6 +1726,8 @@ _Updated on December 29, 2025_ (A total of 2384 repositories listed.)
  * 🟢 [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 440 / 異步圖書：《大模型應用開發 動手做AI Agent》 - 這是一些非常簡單的入門示例，重在引導新手入門，目前LLM開發領域發展很快，本書只是一個提綱挈領。更多的示例和代碼大家可以去OpenAI Cookbook, LangChain Example中去挖掘。
  * 🟢 [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - ⭐ 190 / 將MATLAB連接到LLM APIs，包括OpenAI® Chat Completions、Azure® OpenAI Services和Ollama™。
  * 🟢 [Automodel](https://github.com/nvidia-nemo/automodel) - ⭐ 214 / Pytorch分佈式原生訓練庫，支持LLMs/VLMs，並具有OOTB Hugging Face支持。
+ * [deep-eye](https://github.com/zakirkun/deep-eye) - 一個先進的AI驅動漏洞掃描器和滲透測試工具，集成了多個AI提供商（OpenAI、Grok、OLLAMA、Claude），具有全面的安全測試模塊，用於自動化漏洞探測、智能載荷生成和專業。
+ * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - 一個設計用於使用LLM、Ollama、OpenAI、Gemini和OpenRouter API翻譯大量文本的Python腳本。
 
 
 ## Unity
