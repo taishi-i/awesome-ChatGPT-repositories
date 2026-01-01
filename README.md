@@ -314,6 +314,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
 
 ## Chatbots
 
+* 🟢 [AI Chat Studio](https://aichatstudio.codestorez.com/) - Experience AI Chat Studio v2.0, the blessed app where you chat with AI, level up like a game, and earn halal income with barakah. Use the smartest AI brains like Gemini and ChatGPT to grow your digital halal wallet through ad rewards and referrals. Join the squad, track your earnings securely, and turn your daily conversations into a successful, faith-based business.
  * 🟡 [gpt4all](https://github.com/nomic-ai/gpt4all) - ⭐ 77k / gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
  * 🔴 [Open-Assistant](https://github.com/laion-ai/open-assistant) - ⭐ 37k / OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
  * 🟡 [FastChat](https://github.com/lm-sys/fastchat) - ⭐ 39k / The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
