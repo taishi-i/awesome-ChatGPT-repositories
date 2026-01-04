@@ -6468,6 +6468,23 @@
                     "zh-hans": "更快地交付代理。Plano是代理应用程序的交付基础设施。它是一个原生模型的代理服务器和数据平面，可以卸载管道工作，让您专注于产品逻辑。",
                     "zh-hant": "加快船舶代理。 Plano是代理應用程序的交付基礎設施。 一個本地模型代理服務器和數據平面，可卸載管道工作，讓您專注於產品邏輯。"
                 }
+            },
+            "https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm": {
+                "repository_name": "chat-gpt-prompts-from-aiprm",
+                "user_name": "gabriel-kaam",
+                "language": "PHP",
+                "license": null,
+                "description": "Compilations of ChatGPT Prompts from AIPRM",
+                "topics": [
+                    "aiprm",
+                    "chatgpt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Compilations of ChatGPT Prompts from AIPRM",
+                    "ja": "AIPRMからのChatGPTプロンプトのコンパイル",
+                    "zh-hans": "ChatGPT提示的编译来自AIPRM",
+                    "zh-hant": "AIPRM中ChatGPT提示的編譯"
+                }
             }
         },
         "Chatbots": {
@@ -15419,6 +15436,41 @@
                     "ja": "このMCPサーバーは、クロードや他のAIアシスタントがあなたのLinkedInにアクセスできるようにします。LinkedInのプロフィールや企業をスクレイプし、おすすめの仕事を取得し、仕事検索を実行します。",
                     "zh-hans": "这个MCP服务器允许克劳德和其他AI助手访问您的LinkedIn。抓取LinkedIn个人资料和公司信息，获取您的推荐工作，并进行工作搜索。",
                     "zh-hant": "這個MCP伺服器允許克勞德和其他AI助手訪問您的LinkedIn。刮LinkedIn個人資料和公司，為您推薦工作，並執行工作搜索。"
+                }
+            },
+            "https://github.com/pmbstyle/alice": {
+                "repository_name": "Alice",
+                "user_name": "pmbstyle",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more.",
+                "topics": [
+                    "ai",
+                    "ai-assistant",
+                    "chatgpt",
+                    "electron",
+                    "groq-api",
+                    "hnswlib",
+                    "javascript",
+                    "mcp-client",
+                    "openai",
+                    "openrouter-api",
+                    "pinia",
+                    "qbittorrent-api",
+                    "responses-api",
+                    "speach-to-text",
+                    "text-to-speech",
+                    "typescript",
+                    "vector-database",
+                    "vite",
+                    "voice-activity-detection",
+                    "vue"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more.",
+                    "ja": "アリスは、Vue.js、Vite、およびElectronで構築された音声優先のデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションの完全ローカル使用などがあります。",
+                    "zh-hans": "Alice是一个使用Vue.js、Vite和Electron构建的语音优先桌面AI助手应用程序。具有先进的记忆系统、函数调用、MCP支持、可选择的完全本地使用等功能。",
+                    "zh-hant": "Alice 是一個使用 Vue.js、Vite 和 Electron 構建的桌面 AI 助手應用程式，以語音為先。具有先進的記憶系統、功能調用、MCP 支持、可選的完全本地使用等功能。"
                 }
             }
         },
@@ -25615,6 +25667,35 @@
                     "zh-hans": "一键将Markdown和网页AI对话（ChatGPT/DeepSeek等）完美粘贴到Word、WPS和Excel的效率工具。",
                     "zh-hant": "一鍵將 Markdown 和網頁 AI 對話（ChatGPT/DeepSeek等）完美粘貼到 Word、WPS 和 Excel 的效率工具 | 一鍵將 Markdown 和 AI 回應（ChatGPT/DeepSeek）完美粘貼到 Word、WPS 和 Excel。"
                 }
+            },
+            "https://github.com/opensolon/solon-ai": {
+                "repository_name": "solon-ai",
+                "user_name": "opensolon",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "Java AI（智能体） 全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。。支持 MCP_2025_06_18（mcp streamable）",
+                "topics": [
+                    "ai",
+                    "chat",
+                    "deepseek",
+                    "embedding",
+                    "function-call",
+                    "java",
+                    "llm",
+                    "mcp-client",
+                    "mcp-server",
+                    "modelcontextprotocol",
+                    "openai",
+                    "rag",
+                    "reranking",
+                    "tool-call"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Java AI（智能体） 全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。。支持 MCP_2025_06_18（mcp streamable）",
+                    "ja": "Java AI（人工知能）全シーンアプリケーション開発フレームワーク（LLM、Function Call、RAG、Embedding、Reranking、Flow、MCP Server、Mcp Client、Mcp Proxy）。同時に、java8 〜 java25 にも対応しています。SpringBoot2、jFinal、Vert.x などのフレームワークに組み込むことも可能です。MCP_2025_06_18（mcp streamable）をサポートしています。",
+                    "zh-hans": "Java AI（智能体）全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容java8 ~ java25。也可嵌入到SpringBoot2、jFinal、Vert.x等框架中使用。支持MCP_2025_06_18（mcp streamable）",
+                    "zh-hant": "Java AI（智能體）全場景應用開發框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同時兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。支持 MCP_2025_06_18（mcp streamable）"
+                }
             }
         },
         "Reimplementations": {
@@ -35445,6 +35526,41 @@
                     "ja": "DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！",
                     "zh-hans": "DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI API、批量操作、多线程和 Docker 部署，可高效完成翻译任务！",
                     "zh-hant": "DocTranslator 是一個強大的文件 AI 翻譯工具，支持多種文件格式、OpenAI API、批量操作、多線程和 Docker 部署，用於高效的翻譯任務！"
+                }
+            },
+            "https://github.com/llmhub-dev/open-computer-use": {
+                "repository_name": "open-computer-use",
+                "user_name": "LLmHub-dev",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
+                "topics": [
+                    "agent",
+                    "agentic-framework",
+                    "ai",
+                    "ai-agents",
+                    "anthropic",
+                    "claude",
+                    "claude-code",
+                    "cli-tools",
+                    "computer-control",
+                    "computer-use",
+                    "computer-use-agent",
+                    "full-stack",
+                    "gemini-ai",
+                    "gemini-api",
+                    "google-api",
+                    "gui-automation",
+                    "llm",
+                    "llm-agents",
+                    "openai",
+                    "saas-application"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
+                    "ja": "スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。",
+                    "zh-hans": "规模化自主虚拟计算机代理的开放框架，完全开源，安全，可审计，并且已准备投入生产。",
+                    "zh-hant": "開放框架，用於大規模自主虛擬計算機代理，完全開源，安全，可審計，並且已準備就緒。"
                 }
             }
         },

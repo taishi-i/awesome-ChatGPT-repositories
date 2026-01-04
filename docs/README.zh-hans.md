@@ -16,16 +16,23 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - ChatGPT提示的编译来自AIPRM
+
+
+**Chatbots**
+ * [Alice](https://github.com/pmbstyle/alice) - Alice是一个使用Vue.js、Vite和Electron构建的语音优先桌面AI助手应用程序。具有先进的记忆系统、函数调用、MCP支持、可选择的完全本地使用等功能。
+
+
+**CLIs**
+ * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（智能体）全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容java8 ~ java25。也可嵌入到SpringBoot2、jFinal、Vert.x等框架中使用。支持MCP_2025_06_18（mcp streamable）
+
+
 **NLP**
- * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI API、批量操作、多线程和 Docker 部署，可高效完成翻译任务！
+ * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - 规模化自主虚拟计算机代理的开放框架，完全开源，安全，可审计，并且已准备投入生产。
 
 
-**Langchain**
- * [deep-eye](https://github.com/zakirkun/deep-eye) - 一款先进的AI驱动的漏洞扫描器和渗透测试工具，集成了多个AI提供商（OpenAI、Grok、OLLAMA、Claude），具有全面的安全测试模块，可用于自动化漏洞搜索、智能负载生成和专业渗透测试。
- * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - 一个设计用于使用LLM、Ollama、OpenAI、Gemini和OpenRouter API翻译大量文本的Python脚本。
-
-
-_Updated on January 01, 2026_ (A total of 2387 repositories listed.)
+_Updated on January 05, 2026_ (A total of 2391 repositories listed.)
 
 ## Table of contents
 
@@ -310,6 +317,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 375 / 产品经理使用ChatGPT、Claude和Gemini等代理人的生成式AI提示存储库
  * 🟢 [runprompt](https://github.com/chr15m/runprompt) - ⭐ 404 / 从您的shell运行LLM提示
  * [plano](https://github.com/katanemo/plano) - 更快地交付代理。Plano是代理应用程序的交付基础设施。它是一个原生模型的代理服务器和数据平面，可以卸载管道工作，让您专注于产品逻辑。
+ * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - ChatGPT提示的编译来自AIPRM
 
 
 ## Chatbots
@@ -671,6 +679,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 238 / 使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作为VectorDB的对话代理的FastAPI后端
  * 🟢 [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - ⭐ 715 / 自行托管强大的Chatterbox TTS模型。该服务器提供用户友好的Web UI，灵活的API端点（包括OpenAI兼容），预定义的语音，语音克隆以及大规模的有声读物文本处理。在NVIDIA（CUDA），AMD（R）上加速运行。
  * [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - 这个MCP服务器允许克劳德和其他AI助手访问您的LinkedIn。抓取LinkedIn个人资料和公司信息，获取您的推荐工作，并进行工作搜索。
+ * [Alice](https://github.com/pmbstyle/alice) - Alice是一个使用Vue.js、Vite和Electron构建的语音优先桌面AI助手应用程序。具有先进的记忆系统、函数调用、MCP支持、可选择的完全本地使用等功能。
 
 
 ## Browser-extensions
@@ -1106,6 +1115,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [daan](https://github.com/pluveto/daan) - ⭐ 341 / ✨轻量级LLM客户端，具有MCP🔌和角色👤
  * 🟢 [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - ⭐ 11k / 以上所有] 一起运行的力量。
  * 🟢 [PasteMD](https://github.com/richqaq/pastemd) - ⭐ 2k / 一键将Markdown和网页AI对话（ChatGPT/DeepSeek等）完美粘贴到Word、WPS和Excel的效率工具。
+ * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（智能体）全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容java8 ~ java25。也可嵌入到SpringBoot2、jFinal、Vert.x等框架中使用。支持MCP_2025_06_18（mcp streamable）
 
 
 ## Reimplementations
@@ -1554,6 +1564,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ⭐ 2.6k / 异步子代理（就像克劳德代码一样）· 精心挑选的带有适当模型的代理人 · 包括LSP/AST等精心制作的工具 · 精心挑选的MCPs · 克劳德代码兼容层 —— 为您的OpenCode提供类固醇。最佳LLM代理体验就在这里。OmO（发音为Oh-Mo）
  * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI，LLM，MCP，嵌入
  * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI API、批量操作、多线程和 Docker 部署，可高效完成翻译任务！
+ * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - 规模化自主虚拟计算机代理的开放框架，完全开源，安全，可审计，并且已准备投入生产。
 
 
 ## Langchain
