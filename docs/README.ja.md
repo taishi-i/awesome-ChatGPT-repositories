@@ -16,16 +16,23 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - AIPRMからのChatGPTプロンプトのコンパイル
+
+
+**Chatbots**
+ * [Alice](https://github.com/pmbstyle/alice) - アリスは、Vue.js、Vite、およびElectronで構築された音声優先のデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションの完全ローカル使用などがあります。
+
+
+**CLIs**
+ * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（人工知能）全シーンアプリケーション開発フレームワーク（LLM、Function Call、RAG、Embedding、Reranking、Flow、MCP Server、Mcp Client、Mcp Proxy）。同時に、java8 〜 java25 にも対応しています。SpringBoot2、jFinal、Vert.x などのフレームワークに組み込むことも可能です。MCP_2025_06_18（mcp streamable）をサポートしています。
+
+
 **NLP**
- * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！
+ * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。
 
 
-**Langchain**
- * [deep-eye](https://github.com/zakirkun/deep-eye) - 高度なAI駆動の脆弱性スキャナーおよびペネトレーションテストツールで、複数のAIプロバイダー（OpenAI、Grok、OLLAMA、Claude）を統合し、自動バグハンティング、インテリジェントペイロード生成、およびプロフェッショナル向けの包括的なセキュリティテストモジュールを備えています。
- * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - 大量のテキストをLLM、Ollama、OpenAI、Gemini、およびOpenRouter APIを使用して翻訳するために設計されたPythonスクリプト
-
-
-_Updated on January 01, 2026_ (A total of 2387 repositories listed.)
+_Updated on January 05, 2026_ (A total of 2391 repositories listed.)
 
 ## Table of contents
 
@@ -310,6 +317,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 375 / 製品マネージャー向けのジェネレーティブAIプロンプトのリポジトリ。ChatGPT、Claude、Geminiなどのエージェントを使用します。
  * 🟢 [runprompt](https://github.com/chr15m/runprompt) - ⭐ 404 / シェルからLLMプロンプトを実行してください。
  * [plano](https://github.com/katanemo/plano) - 船舶代理業者を迅速に出荷します。 Planoは、代理業アプリケーション向けの配信インフラです。 プロダクトロジックに集中できるように、プラモデルネイティブのプロキシサーバー＆データプレーンが配管作業をオフロードします。
+ * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - AIPRMからのChatGPTプロンプトのコンパイル
 
 
 ## Chatbots
@@ -671,6 +679,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 238 / Cohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンドCohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンド
  * 🟢 [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - ⭐ 715 / 強力なChatterbox TTSモデルを自己ホストします。このサーバーには、使いやすいWeb UI、柔軟なAPIエンドポイント（OpenAI互換を含む）、事前定義された声、声のクローン、大規模なオーディオブックスケールのテキスト処理が提供されます。NVIDIA（CUDA）、AMDで高速に実行されます。
  * [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - このMCPサーバーは、クロードや他のAIアシスタントがあなたのLinkedInにアクセスできるようにします。LinkedInのプロフィールや企業をスクレイプし、おすすめの仕事を取得し、仕事検索を実行します。
+ * [Alice](https://github.com/pmbstyle/alice) - アリスは、Vue.js、Vite、およびElectronで構築された音声優先のデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションの完全ローカル使用などがあります。
 
 
 ## Browser-extensions
@@ -1106,6 +1115,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [daan](https://github.com/pluveto/daan) - ⭐ 341 / ✨MCPとキャラクター👤を備えた軽量LLMクライアント
  * 🟢 [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - ⭐ 11k / クロードコード/ジェミニCLI/コーデックスCLI + [ジェミニ/OpenAI/OpenRouter/Azure/Grok/Ollama/カスタムモデル/上記すべて] が一体となって機能する力。
  * 🟢 [PasteMD](https://github.com/richqaq/pastemd) - ⭐ 2k / MarkdownとAI応答（ChatGPT/DeepSeekなど）をワンクリックでWord、WPS、Excelに完璧に貼り付ける効率ツール
+ * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（人工知能）全シーンアプリケーション開発フレームワーク（LLM、Function Call、RAG、Embedding、Reranking、Flow、MCP Server、Mcp Client、Mcp Proxy）。同時に、java8 〜 java25 にも対応しています。SpringBoot2、jFinal、Vert.x などのフレームワークに組み込むことも可能です。MCP_2025_06_18（mcp streamable）をサポートしています。
 
 
 ## Reimplementations
@@ -1554,6 +1564,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ⭐ 2.6k / 非同期サブエージェント（クロードコードのようなYES）· 適切なモデルを持つキュレーションされたエージェント · LSP/ASTなどの作成されたツールを含む · キュレーションされたMCPs · クロードコード互換レイヤー — あなたのOpenCodeのためのステロイド。最高のLLMエージェント体験がここにあります。OmO（Oh-Moと発音します）
  * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI、LLM、MCP、埋め込み春AI、LLM、MCP、埋め込み
  * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！
+ * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。
 
 
 ## Langchain

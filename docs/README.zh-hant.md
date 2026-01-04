@@ -16,16 +16,23 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - AIPRM中ChatGPT提示的編譯
+
+
+**Chatbots**
+ * [Alice](https://github.com/pmbstyle/alice) - Alice 是一個使用 Vue.js、Vite 和 Electron 構建的桌面 AI 助手應用程式，以語音為先。具有先進的記憶系統、功能調用、MCP 支持、可選的完全本地使用等功能。
+
+
+**CLIs**
+ * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（智能體）全場景應用開發框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同時兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。支持 MCP_2025_06_18（mcp streamable）
+
+
 **NLP**
- * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator 是一個強大的文件 AI 翻譯工具，支持多種文件格式、OpenAI API、批量操作、多線程和 Docker 部署，用於高效的翻譯任務！
+ * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - 開放框架，用於大規模自主虛擬計算機代理，完全開源，安全，可審計，並且已準備就緒。
 
 
-**Langchain**
- * [deep-eye](https://github.com/zakirkun/deep-eye) - 一個先進的AI驅動漏洞掃描器和滲透測試工具，集成了多個AI提供商（OpenAI、Grok、OLLAMA、Claude），具有全面的安全測試模塊，用於自動化漏洞探測、智能載荷生成和專業。
- * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - 一個設計用於使用LLM、Ollama、OpenAI、Gemini和OpenRouter API翻譯大量文本的Python腳本。
-
-
-_Updated on January 01, 2026_ (A total of 2387 repositories listed.)
+_Updated on January 05, 2026_ (A total of 2391 repositories listed.)
 
 ## Table of contents
 
@@ -310,6 +317,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 375 / 一個供產品經理使用代理人（如ChatGPT、Claude和Gemini）的生成式AI提示存儲庫
  * 🟢 [runprompt](https://github.com/chr15m/runprompt) - ⭐ 404 / 從您的shell運行LLM提示
  * [plano](https://github.com/katanemo/plano) - 加快船舶代理。 Plano是代理應用程序的交付基礎設施。 一個本地模型代理服務器和數據平面，可卸載管道工作，讓您專注於產品邏輯。
+ * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - AIPRM中ChatGPT提示的編譯
 
 
 ## Chatbots
@@ -671,6 +679,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 238 / 使用Cohere、(Azure) OpenAI、Langchain和Langgraph以及Qdrant作為VectorDB的對話代理的FastAPI後端
  * 🟢 [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - ⭐ 715 / 自行託管強大的Chatterbox TTS模型。此伺服器提供使用者友善的Web UI、靈活的API端點（包括OpenAI兼容）、預定義的聲音、語音克隆和大規模有聲書文本處理。在NVIDIA（CUDA）、AMD（R上運行加速。
  * [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - 這個MCP伺服器允許克勞德和其他AI助手訪問您的LinkedIn。刮LinkedIn個人資料和公司，為您推薦工作，並執行工作搜索。
+ * [Alice](https://github.com/pmbstyle/alice) - Alice 是一個使用 Vue.js、Vite 和 Electron 構建的桌面 AI 助手應用程式，以語音為先。具有先進的記憶系統、功能調用、MCP 支持、可選的完全本地使用等功能。
 
 
 ## Browser-extensions
@@ -1106,6 +1115,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [daan](https://github.com/pluveto/daan) - ⭐ 341 / ✨輕量級LLM客戶端與MCP🔌和角色👤
  * 🟢 [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - ⭐ 11k / 克勞德代碼/雙子座CLI/ CodexCLI + [雙子座/ OpenAI/ OpenRouter/ Azure/ Grok/ Ollama/ 自定義模型/ 以上所有] 一起運作的力量。
  * 🟢 [PasteMD](https://github.com/richqaq/pastemd) - ⭐ 2k / 一鍵將 Markdown 和網頁 AI 對話（ChatGPT/DeepSeek等）完美粘貼到 Word、WPS 和 Excel 的效率工具 | 一鍵將 Markdown 和 AI 回應（ChatGPT/DeepSeek）完美粘貼到 Word、WPS 和 Excel。
+ * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（智能體）全場景應用開發框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同時兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。支持 MCP_2025_06_18（mcp streamable）
 
 
 ## Reimplementations
@@ -1554,6 +1564,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ⭐ 2.6k / 異步子代理（就像克勞德代碼一樣）· 精心挑選的具有適當模型的代理人 · 包括像LSP/AST這樣的精心製作工具 · 精心挑選的MCPs · 克勞德代碼兼容層 — 為您的OpenCode提供類固醇。最佳的LLM代理體驗就在這裡。OmO（發音為Oh-Mo）
  * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI，LLM，MCP，嵌入
  * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator 是一個強大的文件 AI 翻譯工具，支持多種文件格式、OpenAI API、批量操作、多線程和 Docker 部署，用於高效的翻譯任務！
+ * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - 開放框架，用於大規模自主虛擬計算機代理，完全開源，安全，可審計，並且已準備就緒。
 
 
 ## Langchain

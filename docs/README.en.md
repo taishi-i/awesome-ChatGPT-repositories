@@ -16,16 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - Compilations of ChatGPT Prompts from AIPRM
+
+
+**Chatbots**
+ * [Alice](https://github.com/pmbstyle/alice) - Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more.
+
+
+**CLIs**
+ * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（智能体） 全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。。支持 MCP_2025_06_18（mcp streamable）
+
+
 **NLP**
- * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator is a powerful document AI translation tool that supports multiple file formats, OpenAI APIs, batch operations, multi-threading, and Docker deployment for efficient translation tasks! DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI格式、批量操作、多线程和
+ * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.
 
 
-**Langchain**
- * [deep-eye](https://github.com/zakirkun/deep-eye) - An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and profess
- * [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - A python script designed to translate large amounts of text with an LLM, Ollama, OpenAI, Gemini and OpenRouter API
-
-
-_Updated on January 01, 2026_ (A total of 2387 repositories listed.)
+_Updated on January 05, 2026_ (A total of 2391 repositories listed.)
 
 ## Table of contents
 
@@ -310,6 +317,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 375 / A repository of Generative AI prompts for product managers using agents such as ChatGPT, Claude, & Gemini
  * 🟢 [runprompt](https://github.com/chr15m/runprompt) - ⭐ 404 / Run LLM prompts from your shell
  * [plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications. A models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
+ * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - Compilations of ChatGPT Prompts from AIPRM
 
 
 ## Chatbots
@@ -671,6 +679,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 238 / FastAPI Backend for a Conversational Agent using Cohere, (Azure) OpenAI, Langchain & Langgraph and Qdrant as VectorDB
  * 🟢 [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - ⭐ 715 / Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (R
  * [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - This MCP server allows Claude and other AI assistants to access your LinkedIn. Scrape LinkedIn profiles and companies, get your recommended jobs, and perform job searches.
+ * [Alice](https://github.com/pmbstyle/alice) - Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more.
 
 
 ## Browser-extensions
@@ -1106,6 +1115,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [daan](https://github.com/pluveto/daan) - ⭐ 341 / ✨Lightweight LLM Client with MCP 🔌 & Characters 👤
  * 🟢 [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - ⭐ 11k / All Of The Above] working as one.
  * 🟢 [PasteMD](https://github.com/richqaq/pastemd) - ⭐ 2k / 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
+ * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（智能体） 全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。。支持 MCP_2025_06_18（mcp streamable）
 
 
 ## Reimplementations
@@ -1554,6 +1564,7 @@ _Updated on January 01, 2026_ (A total of 2387 repositories listed.)
  * 🟢 [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ⭐ 2.6k / ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here. OmO (Pronounced as Oh-Mo)
  * [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - SpringAI, LLM, MCP, Embedding
  * [DocTranslator](https://github.com/mingchen666/doctranslator) - DocTranslator is a powerful document AI translation tool that supports multiple file formats, OpenAI APIs, batch operations, multi-threading, and Docker deployment for efficient translation tasks! DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI格式、批量操作、多线程和
+ * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.
 
 
 ## Langchain
