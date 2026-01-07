@@ -16,23 +16,15 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - AIPRMからのChatGPTプロンプトのコンパイル
+**Openai**
+ * [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - エージェンティックコマースプロトコル（ACP）は、バイヤー、彼らのAIエージェント、および企業をシームレスに接続して購入を完了するためのインタラクションモデルおよびオープンスタンダードです。 仕様は現在、OpenAIとStripeによって維持されています。
 
 
-**Chatbots**
- * [Alice](https://github.com/pmbstyle/alice) - アリスは、Vue.js、Vite、およびElectronで構築された音声優先のデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションの完全ローカル使用などがあります。
+**Others**
+ * [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - Microsoftエージェントアイデンティティのサンプルを入力し、AIエージェントが自律エージェントとして、またはユーザーの代わりに下流のAPIを呼び出すことを可能にします。
 
 
-**CLIs**
- * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（人工知能）全シーンアプリケーション開発フレームワーク（LLM、Function Call、RAG、Embedding、Reranking、Flow、MCP Server、Mcp Client、Mcp Proxy）。同時に、java8 〜 java25 にも対応しています。SpringBoot2、jFinal、Vert.x などのフレームワークに組み込むことも可能です。MCP_2025_06_18（mcp streamable）をサポートしています。
-
-
-**NLP**
- * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。
-
-
-_Updated on January 05, 2026_ (A total of 2391 repositories listed.)
+_Updated on January 08, 2026_ (A total of 2393 repositories listed.)
 
 ## Table of contents
 
@@ -2057,6 +2049,7 @@ _Updated on January 05, 2026_ (A total of 2391 repositories listed.)
  * 🟢 [paperdebugger](https://github.com/paperdebugger/paperdebugger) - ⭐ 1.2k / Paper Debuggerは最高のオーバーリーフの相棒です。
  * 🟢 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 431 / OpenAI Codexの使用統計を表示します。
  * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCANはMCPサービスのための集中管理プラットフォームです。コンテナ展開方式を使用して各MCPサービスを展開します。このプラットフォームはコンテナの監視とMCPサービスのトークン検証をサポートし、セキュリティリスクを解決し、迅速な展開を可能にします。
+ * [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - エージェンティックコマースプロトコル（ACP）は、バイヤー、彼らのAIエージェント、および企業をシームレスに接続して購入を完了するためのインタラクションモデルおよびオープンスタンダードです。 仕様は現在、OpenAIとStripeによって維持されています。
 
 
 ## Others
@@ -2498,5 +2491,6 @@ _Updated on January 05, 2026_ (A total of 2391 repositories listed.)
  * 🟢 [oai-skills](https://github.com/eliasjudin/oai-skills) - ⭐ 412 / ChatGPTのコードインタープリター環境内の/home/oai/skillsの内容
  * [skybridge](https://github.com/alpic-ai/skybridge) - SkybridgeはChatGPTアプリを構築するためのフレームワークです。
  * [manifest](https://github.com/mnfst/manifest) - ChatGPTアプリを構築するためのShadcn/uiコンポーネントライブラリ
+ * [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - Microsoftエージェントアイデンティティのサンプルを入力し、AIエージェントが自律エージェントとして、またはユーザーの代わりに下流のAPIを呼び出すことを可能にします。
 
 

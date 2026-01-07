@@ -16,23 +16,15 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - Compilations of ChatGPT Prompts from AIPRM
+**Openai**
+ * [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.
 
 
-**Chatbots**
- * [Alice](https://github.com/pmbstyle/alice) - Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more.
+**Others**
+ * [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - Samples for Microsoft agent identities enabling AI agents to call downstream APIs as autonomous agents, or on behalf of users.
 
 
-**CLIs**
- * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（智能体） 全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。。支持 MCP_2025_06_18（mcp streamable）
-
-
-**NLP**
- * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.
-
-
-_Updated on January 05, 2026_ (A total of 2391 repositories listed.)
+_Updated on January 08, 2026_ (A total of 2393 repositories listed.)
 
 ## Table of contents
 
@@ -2057,6 +2049,7 @@ _Updated on January 05, 2026_ (A total of 2391 repositories listed.)
  * 🟢 [paperdebugger](https://github.com/paperdebugger/paperdebugger) - ⭐ 1.2k / Paper Debugger is the best overleaf companion
  * 🟢 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 431 / Show usage stats for OpenAI Codex.
  * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployme
+ * [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.
 
 
 ## Others
@@ -2498,5 +2491,6 @@ _Updated on January 05, 2026_ (A total of 2391 repositories listed.)
  * 🟢 [oai-skills](https://github.com/eliasjudin/oai-skills) - ⭐ 412 / The contents of /home/oai/skills in ChatGPT's code interpreter environment
  * [skybridge](https://github.com/alpic-ai/skybridge) - Skybridge is a framework for building ChatGPT apps
  * [manifest](https://github.com/mnfst/manifest) - Shadcn/ui components library for building ChatGPT Apps
+ * [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - Samples for Microsoft agent identities enabling AI agents to call downstream APIs as autonomous agents, or on behalf of users.
 
 
