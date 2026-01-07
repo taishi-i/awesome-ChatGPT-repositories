@@ -46495,6 +46495,20 @@
                     "zh-hans": "MCPCAN是MCP服务的集中管理平台。它使用容器部署方法部署每个MCP服务。该平台支持容器监控和MCP服务令牌验证，解决安全风险并实现快速部署。",
                     "zh-hant": "MCPCAN是MCP服務的集中管理平台。它使用容器部署方法部署每個MCP服務。該平台支持容器監控和MCP服務令牌驗證，解決安全風險並實現快速部署。"
                 }
+            },
+            "https://github.com/agentic-commerce-protocol/agentic-commerce-protocol": {
+                "repository_name": "agentic-commerce-protocol",
+                "user_name": "agentic-commerce-protocol",
+                "language": null,
+                "license": "Apache License 2.0",
+                "description": "The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.",
+                    "ja": "エージェンティックコマースプロトコル（ACP）は、バイヤー、彼らのAIエージェント、および企業をシームレスに接続して購入を完了するためのインタラクションモデルおよびオープンスタンダードです。 仕様は現在、OpenAIとStripeによって維持されています。",
+                    "zh-hans": "主动商务协议（ACP）是一个互动模型和开放标准，用于连接买家、他们的人工智能代理和企业，以便顺利完成购买。该规范目前由OpenAI和Stripe维护。",
+                    "zh-hant": "主動商務協議（ACP）是一種互動模型和開放標準，用於將買家、他們的人工智能代理和企業連接起來，以無縫完成購買。該規範目前由OpenAI和Stripe維護。"
+                }
             }
         },
         "Others": {
@@ -54844,6 +54858,20 @@
                     "ja": "ChatGPTアプリを構築するためのShadcn/uiコンポーネントライブラリ",
                     "zh-hans": "Shadcn/ui组件库，用于构建ChatGPT应用程序",
                     "zh-hant": "Shadcn/ui 組件庫，用於構建 ChatGPT 應用程式"
+                }
+            },
+            "https://github.com/azure-samples/contoso-creative-writer": {
+                "repository_name": "contoso-creative-writer",
+                "user_name": "Azure-Samples",
+                "language": "PowerShell",
+                "license": "MIT License",
+                "description": "Samples for Microsoft agent identities enabling AI agents to call downstream APIs as autonomous agents, or on behalf of users.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Samples for Microsoft agent identities enabling AI agents to call downstream APIs as autonomous agents, or on behalf of users.",
+                    "ja": "Microsoftエージェントアイデンティティのサンプルを入力し、AIエージェントが自律エージェントとして、またはユーザーの代わりに下流のAPIを呼び出すことを可能にします。",
+                    "zh-hans": "用于微软代理身份的样本，使AI代理能够作为自主代理调用下游API，或代表用户调用。",
+                    "zh-hant": "用於啟用AI代理呼叫下游API的Microsoft代理身份的樣本，作為自主代理或代表用戶。"
                 }
             }
         }

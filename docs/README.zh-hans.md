@@ -16,23 +16,15 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - ChatGPT提示的编译来自AIPRM
+**Openai**
+ * [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - 主动商务协议（ACP）是一个互动模型和开放标准，用于连接买家、他们的人工智能代理和企业，以便顺利完成购买。该规范目前由OpenAI和Stripe维护。
 
 
-**Chatbots**
- * [Alice](https://github.com/pmbstyle/alice) - Alice是一个使用Vue.js、Vite和Electron构建的语音优先桌面AI助手应用程序。具有先进的记忆系统、函数调用、MCP支持、可选择的完全本地使用等功能。
+**Others**
+ * [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - 用于微软代理身份的样本，使AI代理能够作为自主代理调用下游API，或代表用户调用。
 
 
-**CLIs**
- * [solon-ai](https://github.com/opensolon/solon-ai) - Java AI（智能体）全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容java8 ~ java25。也可嵌入到SpringBoot2、jFinal、Vert.x等框架中使用。支持MCP_2025_06_18（mcp streamable）
-
-
-**NLP**
- * [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - 规模化自主虚拟计算机代理的开放框架，完全开源，安全，可审计，并且已准备投入生产。
-
-
-_Updated on January 05, 2026_ (A total of 2391 repositories listed.)
+_Updated on January 08, 2026_ (A total of 2393 repositories listed.)
 
 ## Table of contents
 
@@ -2057,6 +2049,7 @@ _Updated on January 05, 2026_ (A total of 2391 repositories listed.)
  * 🟢 [paperdebugger](https://github.com/paperdebugger/paperdebugger) - ⭐ 1.2k / 纸质调试器是最好的overleaf伴侣
  * 🟢 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 431 / 显示OpenAI Codex的使用统计。
  * [mcpcan](https://github.com/kymo-mcp/mcpcan) - MCPCAN是MCP服务的集中管理平台。它使用容器部署方法部署每个MCP服务。该平台支持容器监控和MCP服务令牌验证，解决安全风险并实现快速部署。
+ * [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - 主动商务协议（ACP）是一个互动模型和开放标准，用于连接买家、他们的人工智能代理和企业，以便顺利完成购买。该规范目前由OpenAI和Stripe维护。
 
 
 ## Others
@@ -2498,5 +2491,6 @@ _Updated on January 05, 2026_ (A total of 2391 repositories listed.)
  * 🟢 [oai-skills](https://github.com/eliasjudin/oai-skills) - ⭐ 412 / 在ChatGPT的代码解释器环境中，/home/oai/skills的内容
  * [skybridge](https://github.com/alpic-ai/skybridge) - Skybridge是用于构建ChatGPT应用程序的框架。
  * [manifest](https://github.com/mnfst/manifest) - Shadcn/ui组件库，用于构建ChatGPT应用程序
+ * [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - 用于微软代理身份的样本，使AI代理能够作为自主代理调用下游API，或代表用户调用。
 
 
