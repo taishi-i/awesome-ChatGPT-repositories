@@ -2253,6 +2253,41 @@
                     "zh-hans": "一个精心筛选的令人惊叹的ChatGPT软件列表。",
                     "zh-hant": "一個精心挑選的令人驚嘆的ChatGPT軟件列表。"
                 }
+            },
+            "https://github.com/eudk/awesome-ai-tools": {
+                "repository_name": "awesome-ai-tools",
+                "user_name": "eudk",
+                "language": null,
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated September 2025",
+                "topics": [
+                    "ai",
+                    "ai-innovation",
+                    "ai-research",
+                    "chatgpt",
+                    "claude-ai",
+                    "datascience",
+                    "deep-learning-tutorial",
+                    "deepseek",
+                    "generative-ai",
+                    "gpt4o",
+                    "large-language-models",
+                    "learning-ai",
+                    "llm",
+                    "machinelearning",
+                    "midjourney",
+                    "ml",
+                    "o1",
+                    "openai",
+                    "prompt-engineering",
+                    "sora"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated September 2025",
+                    "ja": "🔴非常に大きなAIツールリスト！🔴AIツールのキュレーションリスト - 2025年9月更新",
+                    "zh-hans": "🔴非常庞大的人工智能工具清单！🔴 精选的人工智能工具清单 - 更新至2025年9月",
+                    "zh-hant": "🔴非常龐大的人工智慧工具清單！🔴 精選的人工智慧工具清單 - 更新於2025年9月"
+                }
             }
         },
         "Prompts": {
@@ -20989,6 +21024,24 @@
                     "ja": "シンプルな説明から迅速に機能的なプラグインを作成し、不要な膨張をせずに特定のニーズに対応します。",
                     "zh-hans": "快速从简单描述中创建功能插件，满足特定需求，避免不必要的臃肿。",
                     "zh-hant": "快速從簡單描述中創建功能性插件，滿足特定需求，避免不必要的膨脹。"
+                }
+            },
+            "https://github.com/cookjohn/zotero-mcp": {
+                "repository_name": "zotero-mcp",
+                "user_name": "cookjohn",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP. ",
+                "topics": [
+                    "literature-review",
+                    "mcp-server",
+                    "zotero"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP.",
+                    "ja": "Zotero MCP プラグインは、MCPプロトコルを使用してAIアシスタントとZoteroを深く統合するためのZoteroプラグインです。このプラグインは文献の検索、メタデータの管理、全文解析、賢い質問などの機能をサポートし、Claude、ChatGPTなどのAIツールが直接あなたの文献ライブラリにアクセスして操作できるようにします。Zotero MCPプラグインは、AIアシスタントとZoteroの統合を実現します。",
+                    "zh-hans": "Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP 协议实现 AI 助手与 Zotero 深度集成。插件支持文献检索、元数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin 实现了 AI 助手与 Zotero 的集成。",
+                    "zh-hant": "Zotero MCP Plugin 是一個 Zotero 插件，通過 MCP 協議實現 AI 助手與 Zotero 深度集成。插件支持文獻檢索、元數據管理、全文分析和智能問答等功能，讓 Claude、ChatGPT 等 AI 工具能夠直接訪問和操作您的文獻庫。 Zotero MCP Plugin 啟用了 AI 助手與 Zotero 之間的集成。"
                 }
             }
         },
