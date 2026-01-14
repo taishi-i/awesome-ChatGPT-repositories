@@ -16,15 +16,20 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) - 🔴非常に大きなAIツールリスト！🔴AIツールのキュレーションリスト - 2025年9月更新
+**CLIs**
+ * [PSAI](https://github.com/dfinke/psai) - PowerShell AIモジュール。ChatGPTがPowerShellと出会うと考えてください - 自律エージェントを含む
+ * [zeroshot](https://github.com/covibes/zeroshot) - CLIで自律エンジニアリングチームを操作します。GitHubの問題にZeroshotを指し、離れてプロダクショングレードのコードに戻ります。Claude Code、OpenAI Codex、Gemini CLIをサポートしています。
 
 
-**Browser-extensions**
- * [zotero-mcp](https://github.com/cookjohn/zotero-mcp) - Zotero MCP プラグインは、MCPプロトコルを使用してAIアシスタントとZoteroを深く統合するためのZoteroプラグインです。このプラグインは文献の検索、メタデータの管理、全文解析、賢い質問などの機能をサポートし、Claude、ChatGPTなどのAIツールが直接あなたの文献ライブラリにアクセスして操作できるようにします。Zotero MCPプラグインは、AIアシスタントとZoteroの統合を実現します。
+**Tutorials**
+ * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - 0から1までのバイブコーディングを学ぶ | 実戦中からAIプログラミングを学ぶ｜プロダクト思考、フロントエンドおよびバックエンド開発
 
 
-_Updated on January 12, 2026_ (A total of 2395 repositories listed.)
+**Openai**
+ * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 簡単に次の記事のアイデアを生成します。AIによって動作します。
+
+
+_Updated on January 15, 2026_ (A total of 2399 repositories listed.)
 
 ## Table of contents
 
@@ -1110,6 +1115,8 @@ _Updated on January 12, 2026_ (A total of 2395 repositories listed.)
  * ✅ [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - ⭐ 11k / クロードコード/ジェミニCLI/コーデックスCLI + [ジェミニ/OpenAI/OpenRouter/Azure/Grok/Ollama/カスタムモデル/上記すべて] が一体となって機能する力。
  * 🔥 [PasteMD](https://github.com/richqaq/pastemd) - ⭐ 3.1k / MarkdownとAI応答（ChatGPT/DeepSeekなど）をワンクリックでWord、WPS、Excelに完璧に貼り付ける効率ツール
  * 🔥 [solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 250 / Java AI（人工知能）全シーンアプリケーション開発フレームワーク（LLM、Function Call、RAG、Embedding、Reranking、Flow、MCP Server、Mcp Client、Mcp Proxy）。同時に、java8 〜 java25 にも対応しています。SpringBoot2、jFinal、Vert.x などのフレームワークに組み込むことも可能です。MCP_2025_06_18（mcp streamable）をサポートしています。
+ * [PSAI](https://github.com/dfinke/psai) - PowerShell AIモジュール。ChatGPTがPowerShellと出会うと考えてください - 自律エージェントを含む
+ * [zeroshot](https://github.com/covibes/zeroshot) - CLIで自律エンジニアリングチームを操作します。GitHubの問題にZeroshotを指し、離れてプロダクショングレードのコードに戻ります。Claude Code、OpenAI Codex、Gemini CLIをサポートしています。
 
 
 ## Reimplementations
@@ -1179,6 +1186,7 @@ _Updated on January 12, 2026_ (A total of 2395 repositories listed.)
  * ✅ [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - ⭐ 1.2k / E2Bの使用例
  * 💤 [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - ⭐ 2.6k / OpenAI APIクイックスタートチュートリアルからのNode.jsのサンプルアプリ
  * ⚠️ [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - ⭐ 3.6k / 開発者がAIシステムを構築するのを支援する例とチュートリアル
+ * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - 0から1までのバイブコーディングを学ぶ | 実戦中からAIプログラミングを学ぶ｜プロダクト思考、フロントエンドおよびバックエンド開発
 
 
 ## NLP
@@ -2052,6 +2060,7 @@ _Updated on January 12, 2026_ (A total of 2395 repositories listed.)
  * 🔥 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 2k / OpenAI Codexの使用統計を表示します。
  * 🔥 [mcpcan](https://github.com/kymo-mcp/mcpcan) - ⭐ 520 / MCPCANはMCPサービスのための集中管理プラットフォームです。コンテナ展開方式を使用して各MCPサービスを展開します。このプラットフォームはコンテナの監視とMCPサービスのトークン検証をサポートし、セキュリティリスクを解決し、迅速な展開を可能にします。
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.1k / エージェンティックコマースプロトコル（ACP）は、バイヤー、彼らのAIエージェント、および企業をシームレスに接続して購入を完了するためのインタラクションモデルおよびオープンスタンダードです。 仕様は現在、OpenAIとStripeによって維持されています。
+ * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 簡単に次の記事のアイデアを生成します。AIによって動作します。
 
 
 ## Others

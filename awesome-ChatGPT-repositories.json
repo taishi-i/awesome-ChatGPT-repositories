@@ -25749,6 +25749,53 @@
                     "zh-hans": "Java AI（智能体）全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容java8 ~ java25。也可嵌入到SpringBoot2、jFinal、Vert.x等框架中使用。支持MCP_2025_06_18（mcp streamable）",
                     "zh-hant": "Java AI（智能體）全場景應用開發框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同時兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。支持 MCP_2025_06_18（mcp streamable）"
                 }
+            },
+            "https://github.com/dfinke/psai": {
+                "repository_name": "PSAI",
+                "user_name": "dfinke",
+                "language": "PowerShell",
+                "license": "MIT License",
+                "description": "PowerShell AI module. Think ChatGPT meets PowerShell - Includes Autonomous Agents",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "PowerShell AI module. Think ChatGPT meets PowerShell - Includes Autonomous Agents",
+                    "ja": "PowerShell AIモジュール。ChatGPTがPowerShellと出会うと考えてください - 自律エージェントを含む",
+                    "zh-hans": "PowerShell人工智能模块。想象ChatGPT遇到PowerShell-包括自主代理。",
+                    "zh-hant": "PowerShell人工智慧模組。想像ChatGPT與PowerShell的結合-包括自主代理。"
+                }
+            },
+            "https://github.com/covibes/zeroshot": {
+                "repository_name": "zeroshot",
+                "user_name": "covibes",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Your autonomous engineering team in a CLI. Point Zeroshot at a GitHub issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, and Gemini CLI.",
+                "topics": [
+                    "agent-orchestration",
+                    "agentic-workflow",
+                    "ai-agent",
+                    "ai-agents",
+                    "autonomous-agents",
+                    "claude",
+                    "cli",
+                    "codex",
+                    "coding-assistant",
+                    "developer-tools",
+                    "gemini",
+                    "generative-ai",
+                    "github-automation",
+                    "llm",
+                    "llm-ops",
+                    "llm-tools",
+                    "multi-agent",
+                    "vibecoding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Your autonomous engineering team in a CLI. Point Zeroshot at a GitHub issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, and Gemini CLI.",
+                    "ja": "CLIで自律エンジニアリングチームを操作します。GitHubの問題にZeroshotを指し、離れてプロダクショングレードのコードに戻ります。Claude Code、OpenAI Codex、Gemini CLIをサポートしています。",
+                    "zh-hans": "将您的自主工程团队放在CLI中。将Zeroshot指向GitHub问题，然后离开，返回时会得到生产级代码。支持Claude Code、OpenAI Codex和Gemini CLI。",
+                    "zh-hant": "您的自主工程團隊在CLI中。將Zeroshot對準GitHub問題，離開並返回到生產級代碼。支持Claude Code、OpenAI Codex和Gemini CLI。"
+                }
             }
         },
         "Reimplementations": {
@@ -27103,6 +27150,41 @@
                     "ja": "開発者がAIシステムを構築するのを支援する例とチュートリアル",
                     "zh-hans": "为开发人员构建人工智能系统提供示例和教程",
                     "zh-hant": "提供開發人員建立人工智慧系統的示例和教程"
+                }
+            },
+            "https://github.com/datawhalechina/easy-vibe": {
+                "repository_name": "easy-vibe",
+                "user_name": "datawhalechina",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "coding",
+                    "course",
+                    "gemini",
+                    "genai",
+                    "gpt",
+                    "gpt-4",
+                    "llm",
+                    "low-code",
+                    "mcp",
+                    "nextjs",
+                    "no-code",
+                    "openai",
+                    "programming",
+                    "tutorial",
+                    "vibe-coding",
+                    "vibecoding",
+                    "vscode",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发",
+                    "ja": "0から1までのバイブコーディングを学ぶ | 実戦中からAIプログラミングを学ぶ｜プロダクト思考、フロントエンドおよびバックエンド開発",
+                    "zh-hans": "从零开始学习 AI 编程 | 实战中的产品思维、前后端开发",
+                    "zh-hant": "從零學習 AI 編程 | 產品思維、前後端開發"
                 }
             }
         },
@@ -46561,6 +46643,38 @@
                     "ja": "エージェンティックコマースプロトコル（ACP）は、バイヤー、彼らのAIエージェント、および企業をシームレスに接続して購入を完了するためのインタラクションモデルおよびオープンスタンダードです。 仕様は現在、OpenAIとStripeによって維持されています。",
                     "zh-hans": "主动商务协议（ACP）是一个互动模型和开放标准，用于连接买家、他们的人工智能代理和企业，以便顺利完成购买。该规范目前由OpenAI和Stripe维护。",
                     "zh-hant": "主動商務協議（ACP）是一種互動模型和開放標準，用於將買家、他們的人工智能代理和企業連接起來，以無縫完成購買。該規範目前由OpenAI和Stripe維護。"
+                }
+            },
+            "https://github.com/olanetsoft/article-idea-generator": {
+                "repository_name": "article-idea-generator",
+                "user_name": "Olanetsoft",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Generate your next article idea with ease. Powered by AI.",
+                "topics": [
+                    "ai",
+                    "api",
+                    "article",
+                    "artificial-intelligence",
+                    "hacktoberfest",
+                    "hacktoberfest-accepted",
+                    "javascript",
+                    "markdown",
+                    "nextjs",
+                    "open-source",
+                    "openai",
+                    "react",
+                    "tailwindcss",
+                    "typescript",
+                    "vercel",
+                    "voice-assistant",
+                    "writing"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Generate your next article idea with ease. Powered by AI.",
+                    "ja": "簡単に次の記事のアイデアを生成します。AIによって動作します。",
+                    "zh-hans": "轻松使用人工智能生成您的下一篇文章创意。",
+                    "zh-hant": "輕鬆生成您的下一篇文章點子。由人工智慧驅動。"
                 }
             }
         },
