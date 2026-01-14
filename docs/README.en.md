@@ -16,15 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) - 🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated September 2025
+**CLIs**
+ * [PSAI](https://github.com/dfinke/psai) - PowerShell AI module. Think ChatGPT meets PowerShell - Includes Autonomous Agents
+ * [zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at a GitHub issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, and Gemini CLI.
 
 
-**Browser-extensions**
- * [zotero-mcp](https://github.com/cookjohn/zotero-mcp) - Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP.
+**Tutorials**
+ * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
 
 
-_Updated on January 12, 2026_ (A total of 2395 repositories listed.)
+**Openai**
+ * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by AI.
+
+
+_Updated on January 15, 2026_ (A total of 2399 repositories listed.)
 
 ## Table of contents
 
@@ -1110,6 +1115,8 @@ _Updated on January 12, 2026_ (A total of 2395 repositories listed.)
  * ✅ [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - ⭐ 11k / All Of The Above] working as one.
  * 🔥 [PasteMD](https://github.com/richqaq/pastemd) - ⭐ 3.1k / 一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek等）完美粘贴到 Word、WPS 和 Excel 的效率工具 | One-click paste Markdown and AI responses (ChatGPT/DeepSeek) into Word, WPS, and Excel perfectly.
  * 🔥 [solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 250 / Java AI（智能体） 全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容 java8 ~ java25。也可嵌入到 SpringBoot2、jFinal、Vert.x 等框架中使用。。支持 MCP_2025_06_18（mcp streamable）
+ * [PSAI](https://github.com/dfinke/psai) - PowerShell AI module. Think ChatGPT meets PowerShell - Includes Autonomous Agents
+ * [zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at a GitHub issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, and Gemini CLI.
 
 
 ## Reimplementations
@@ -1179,6 +1186,7 @@ _Updated on January 12, 2026_ (A total of 2395 repositories listed.)
  * ✅ [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - ⭐ 1.2k / Examples of using E2B
  * 💤 [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - ⭐ 2.6k / Node.js example app from the OpenAI API quickstart tutorial
  * ⚠️ [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - ⭐ 3.6k / Examples and tutorials to help developers build AI systems
+ * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
 
 
 ## NLP
@@ -2052,6 +2060,7 @@ _Updated on January 12, 2026_ (A total of 2395 repositories listed.)
  * 🔥 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 2k / Show usage stats for OpenAI Codex.
  * 🔥 [mcpcan](https://github.com/kymo-mcp/mcpcan) - ⭐ 520 / MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployme
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.1k / The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.
+ * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by AI.
 
 
 ## Others

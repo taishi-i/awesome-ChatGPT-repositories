@@ -16,15 +16,20 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) - 🔴非常庞大的人工智能工具清单！🔴 精选的人工智能工具清单 - 更新至2025年9月
+**CLIs**
+ * [PSAI](https://github.com/dfinke/psai) - PowerShell人工智能模块。想象ChatGPT遇到PowerShell-包括自主代理。
+ * [zeroshot](https://github.com/covibes/zeroshot) - 将您的自主工程团队放在CLI中。将Zeroshot指向GitHub问题，然后离开，返回时会得到生产级代码。支持Claude Code、OpenAI Codex和Gemini CLI。
 
 
-**Browser-extensions**
- * [zotero-mcp](https://github.com/cookjohn/zotero-mcp) - Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP 协议实现 AI 助手与 Zotero 深度集成。插件支持文献检索、元数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin 实现了 AI 助手与 Zotero 的集成。
+**Tutorials**
+ * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - 从零开始学习 AI 编程 | 实战中的产品思维、前后端开发
 
 
-_Updated on January 12, 2026_ (A total of 2395 repositories listed.)
+**Openai**
+ * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 轻松使用人工智能生成您的下一篇文章创意。
+
+
+_Updated on January 15, 2026_ (A total of 2399 repositories listed.)
 
 ## Table of contents
 
@@ -1110,6 +1115,8 @@ _Updated on January 12, 2026_ (A total of 2395 repositories listed.)
  * ✅ [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - ⭐ 11k / 以上所有] 一起运行的力量。
  * 🔥 [PasteMD](https://github.com/richqaq/pastemd) - ⭐ 3.1k / 一键将Markdown和网页AI对话（ChatGPT/DeepSeek等）完美粘贴到Word、WPS和Excel的效率工具。
  * 🔥 [solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 250 / Java AI（智能体）全场景应用开发框架（LLM，Function Call，RAG，Embedding，Reranking，Flow，MCP Server，Mcp Client，Mcp Proxy）。同时兼容java8 ~ java25。也可嵌入到SpringBoot2、jFinal、Vert.x等框架中使用。支持MCP_2025_06_18（mcp streamable）
+ * [PSAI](https://github.com/dfinke/psai) - PowerShell人工智能模块。想象ChatGPT遇到PowerShell-包括自主代理。
+ * [zeroshot](https://github.com/covibes/zeroshot) - 将您的自主工程团队放在CLI中。将Zeroshot指向GitHub问题，然后离开，返回时会得到生产级代码。支持Claude Code、OpenAI Codex和Gemini CLI。
 
 
 ## Reimplementations
@@ -1179,6 +1186,7 @@ _Updated on January 12, 2026_ (A total of 2395 repositories listed.)
  * ✅ [e2b-cookbook](https://github.com/e2b-dev/e2b-cookbook) - ⭐ 1.2k / 使用E2B的示例
  * 💤 [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - ⭐ 2.6k / Node.js示例应用程序来自OpenAI API快速入门教程
  * ⚠️ [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - ⭐ 3.6k / 为开发人员构建人工智能系统提供示例和教程
+ * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - 从零开始学习 AI 编程 | 实战中的产品思维、前后端开发
 
 
 ## NLP
@@ -2052,6 +2060,7 @@ _Updated on January 12, 2026_ (A total of 2395 repositories listed.)
  * 🔥 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 2k / 显示OpenAI Codex的使用统计。
  * 🔥 [mcpcan](https://github.com/kymo-mcp/mcpcan) - ⭐ 520 / MCPCAN是MCP服务的集中管理平台。它使用容器部署方法部署每个MCP服务。该平台支持容器监控和MCP服务令牌验证，解决安全风险并实现快速部署。
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.1k / 主动商务协议（ACP）是一个互动模型和开放标准，用于连接买家、他们的人工智能代理和企业，以便顺利完成购买。该规范目前由OpenAI和Stripe维护。
+ * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 轻松使用人工智能生成您的下一篇文章创意。
 
 
 ## Others
