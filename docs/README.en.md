@@ -16,20 +16,19 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [PSAI](https://github.com/dfinke/psai) - PowerShell AI module. Think ChatGPT meets PowerShell - Includes Autonomous Agents
- * [zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at a GitHub issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, and Gemini CLI.
+**Chatbots**
+ * [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - This project is a digital human that can talk and listen to you. It uses OpenAI's GPT to generate responses, OpenAI's Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.
 
 
-**Tutorials**
- * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
+**NLP**
+ * [pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for LLMs - masks PII and secrets before upstream or routes to local LLM. OpenAI API compatible.
 
 
 **Openai**
- * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by AI.
+ * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and image generation | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成
 
 
-_Updated on January 15, 2026_ (A total of 2399 repositories listed.)
+_Updated on January 19, 2026_ (A total of 2402 repositories listed.)
 
 ## Table of contents
 
@@ -678,6 +677,7 @@ _Updated on January 15, 2026_ (A total of 2399 repositories listed.)
  * ✅ [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - ⭐ 923 / Self-host the powerful Chatterbox TTS model. This server offers a user-friendly Web UI, flexible API endpoints (incl. OpenAI compatible), predefined voices, voice cloning, and large audiobook-scale text processing. Runs accelerated on NVIDIA (CUDA), AMD (R
  * 🔥 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - ⭐ 695 / This MCP server allows Claude and other AI assistants to access your LinkedIn. Scrape LinkedIn profiles and companies, get your recommended jobs, and perform job searches.
  * 🔥 [Alice](https://github.com/pmbstyle/alice) - ⭐ 217 / Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more.
+ * [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - This project is a digital human that can talk and listen to you. It uses OpenAI's GPT to generate responses, OpenAI's Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.
 
 
 ## Browser-extensions
@@ -1567,6 +1567,7 @@ _Updated on January 15, 2026_ (A total of 2399 repositories listed.)
  * ✅ [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - ⭐ 230 / SpringAI, LLM, MCP, Embedding
  * ✅ [DocTranslator](https://github.com/mingchen666/doctranslator) - ⭐ 229 / DocTranslator is a powerful document AI translation tool that supports multiple file formats, OpenAI APIs, batch operations, multi-threading, and Docker deployment for efficient translation tasks! DocTranslator 是一款强大的文档 AI 翻译工具，支持多种文件格式、OpenAI格式、批量操作、多线程和
  * 🔥 [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - ⭐ 293 / The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.
+ * [pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for LLMs - masks PII and secrets before upstream or routes to local LLM. OpenAI API compatible.
 
 
 ## Langchain
@@ -2061,6 +2062,7 @@ _Updated on January 15, 2026_ (A total of 2399 repositories listed.)
  * 🔥 [mcpcan](https://github.com/kymo-mcp/mcpcan) - ⭐ 520 / MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployme
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.1k / The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.
  * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by AI.
+ * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and image generation | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成
 
 
 ## Others

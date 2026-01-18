@@ -16,20 +16,19 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [PSAI](https://github.com/dfinke/psai) - PowerShell AIモジュール。ChatGPTがPowerShellと出会うと考えてください - 自律エージェントを含む
- * [zeroshot](https://github.com/covibes/zeroshot) - CLIで自律エンジニアリングチームを操作します。GitHubの問題にZeroshotを指し、離れてプロダクショングレードのコードに戻ります。Claude Code、OpenAI Codex、Gemini CLIをサポートしています。
+**Chatbots**
+ * [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - このプロジェクトは、あなたと話し合い、聞き取ることができるデジタルヒューマンです。OpenAIのGPTを使用して応答を生成し、OpenAIのWhisperを使用してオーディオを転写し、Eleven Labsを使用して声を生成し、Rhubarb Lip Syncを使用して口パクを生成します。
 
 
-**Tutorials**
- * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - 0から1までのバイブコーディングを学ぶ | 実戦中からAIプログラミングを学ぶ｜プロダクト思考、フロントエンドおよびバックエンド開発
+**NLP**
+ * [pasteguard](https://github.com/sgasser/pasteguard) - LLMs用のプライバシープロキシ - 上流に送信する前にPIIと秘密をマスクするか、ローカルLLMにルーティングします。OpenAI APIと互換性があります。
 
 
 **Openai**
- * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 簡単に次の記事のアイデアを生成します。AIによって動作します。
+ * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - Gemini BusinessをOpenAI互換のAPIに変換し、複数アカウントの負荷分散と画像生成をサポートします。
 
 
-_Updated on January 15, 2026_ (A total of 2399 repositories listed.)
+_Updated on January 19, 2026_ (A total of 2402 repositories listed.)
 
 ## Table of contents
 
@@ -678,6 +677,7 @@ _Updated on January 15, 2026_ (A total of 2399 repositories listed.)
  * ✅ [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - ⭐ 923 / 強力なChatterbox TTSモデルを自己ホストします。このサーバーには、使いやすいWeb UI、柔軟なAPIエンドポイント（OpenAI互換を含む）、事前定義された声、声のクローン、大規模なオーディオブックスケールのテキスト処理が提供されます。NVIDIA（CUDA）、AMDで高速に実行されます。
  * 🔥 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - ⭐ 695 / このMCPサーバーは、クロードや他のAIアシスタントがあなたのLinkedInにアクセスできるようにします。LinkedInのプロフィールや企業をスクレイプし、おすすめの仕事を取得し、仕事検索を実行します。
  * 🔥 [Alice](https://github.com/pmbstyle/alice) - ⭐ 217 / アリスは、Vue.js、Vite、およびElectronで構築された音声優先のデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションの完全ローカル使用などがあります。
+ * [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - このプロジェクトは、あなたと話し合い、聞き取ることができるデジタルヒューマンです。OpenAIのGPTを使用して応答を生成し、OpenAIのWhisperを使用してオーディオを転写し、Eleven Labsを使用して声を生成し、Rhubarb Lip Syncを使用して口パクを生成します。
 
 
 ## Browser-extensions
@@ -1567,6 +1567,7 @@ _Updated on January 15, 2026_ (A total of 2399 repositories listed.)
  * ✅ [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - ⭐ 230 / SpringAI、LLM、MCP、埋め込み春AI、LLM、MCP、埋め込み
  * ✅ [DocTranslator](https://github.com/mingchen666/doctranslator) - ⭐ 229 / DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！
  * 🔥 [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - ⭐ 293 / スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。
+ * [pasteguard](https://github.com/sgasser/pasteguard) - LLMs用のプライバシープロキシ - 上流に送信する前にPIIと秘密をマスクするか、ローカルLLMにルーティングします。OpenAI APIと互換性があります。
 
 
 ## Langchain
@@ -2061,6 +2062,7 @@ _Updated on January 15, 2026_ (A total of 2399 repositories listed.)
  * 🔥 [mcpcan](https://github.com/kymo-mcp/mcpcan) - ⭐ 520 / MCPCANはMCPサービスのための集中管理プラットフォームです。コンテナ展開方式を使用して各MCPサービスを展開します。このプラットフォームはコンテナの監視とMCPサービスのトークン検証をサポートし、セキュリティリスクを解決し、迅速な展開を可能にします。
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.1k / エージェンティックコマースプロトコル（ACP）は、バイヤー、彼らのAIエージェント、および企業をシームレスに接続して購入を完了するためのインタラクションモデルおよびオープンスタンダードです。 仕様は現在、OpenAIとStripeによって維持されています。
  * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 簡単に次の記事のアイデアを生成します。AIによって動作します。
+ * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - Gemini BusinessをOpenAI互換のAPIに変換し、複数アカウントの負荷分散と画像生成をサポートします。
 
 
 ## Others

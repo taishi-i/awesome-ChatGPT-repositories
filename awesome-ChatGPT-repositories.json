@@ -15507,6 +15507,31 @@
                     "zh-hans": "Alice是一个使用Vue.js、Vite和Electron构建的语音优先桌面AI助手应用程序。具有先进的记忆系统、函数调用、MCP支持、可选择的完全本地使用等功能。",
                     "zh-hant": "Alice 是一個使用 Vue.js、Vite 和 Electron 構建的桌面 AI 助手應用程式，以語音為先。具有先進的記憶系統、功能調用、MCP 支持、可選的完全本地使用等功能。"
                 }
+            },
+            "https://github.com/asanchezyali/talking-avatar-with-ai": {
+                "repository_name": "talking-avatar-with-ai",
+                "user_name": "asanchezyali",
+                "language": "JavaScript",
+                "license": null,
+                "description": "This project is a digital human that can talk and listen to you. It uses OpenAI's GPT to generate responses, OpenAI's Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.",
+                "topics": [
+                    "ai-avatars",
+                    "digital-human",
+                    "elevenlabs",
+                    "lip-sync",
+                    "lipsync",
+                    "llms",
+                    "openai-api",
+                    "rhubarb-lip-sync",
+                    "visemes",
+                    "whisper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This project is a digital human that can talk and listen to you. It uses OpenAI's GPT to generate responses, OpenAI's Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.",
+                    "ja": "このプロジェクトは、あなたと話し合い、聞き取ることができるデジタルヒューマンです。OpenAIのGPTを使用して応答を生成し、OpenAIのWhisperを使用してオーディオを転写し、Eleven Labsを使用して声を生成し、Rhubarb Lip Syncを使用して口パクを生成します。",
+                    "zh-hans": "这个项目是一个数字人类，可以与您交谈并倾听您说话。它使用OpenAI的GPT生成回复，OpenAI的Whisper转录音频，Eleven Labs生成声音，以及Rhubarb Lip Sync生成嘴唇同步。",
+                    "zh-hant": "這個項目是一個可以與您交談和聆聽的數位人類。它使用OpenAI的GPT來生成回應，使用OpenAI的Whisper來轉錄音頻，使用Eleven Labs來生成聲音，並使用Rhubarb Lip Sync來生成嘴唇同步。"
+                }
             }
         },
         "Browser-extensions": {
@@ -35697,6 +35722,27 @@
                     "zh-hans": "规模化自主虚拟计算机代理的开放框架，完全开源，安全，可审计，并且已准备投入生产。",
                     "zh-hant": "開放框架，用於大規模自主虛擬計算機代理，完全開源，安全，可審計，並且已準備就緒。"
                 }
+            },
+            "https://github.com/sgasser/pasteguard": {
+                "repository_name": "pasteguard",
+                "user_name": "sgasser",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Privacy proxy for LLMs - masks PII and secrets before upstream or routes to local LLM. OpenAI API compatible.",
+                "topics": [
+                    "llm",
+                    "openai",
+                    "pii",
+                    "presidio",
+                    "privacy",
+                    "proxy"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Privacy proxy for LLMs - masks PII and secrets before upstream or routes to local LLM. OpenAI API compatible.",
+                    "ja": "LLMs用のプライバシープロキシ - 上流に送信する前にPIIと秘密をマスクするか、ローカルLLMにルーティングします。OpenAI APIと互換性があります。",
+                    "zh-hans": "LLMs的隐私代理-在上游之前掩盖PII和机密信息，或者将其路由到本地LLM。兼容OpenAI API。",
+                    "zh-hant": "隱私代理用於LLMs-在上游之前遮蔽PII和機密信息，或將其路由到本地LLM。與OpenAI API兼容。"
+                }
             }
         },
         "Langchain": {
@@ -46675,6 +46721,23 @@
                     "ja": "簡単に次の記事のアイデアを生成します。AIによって動作します。",
                     "zh-hans": "轻松使用人工智能生成您的下一篇文章创意。",
                     "zh-hant": "輕鬆生成您的下一篇文章點子。由人工智慧驅動。"
+                }
+            },
+            "https://github.com/dreamy-rain/gemini-business2api": {
+                "repository_name": "gemini-business2api",
+                "user_name": "Dreamy-rain",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "OpenAI-compatible API for Gemini Business with multi-account load balancing and image generation | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成",
+                "topics": [
+                    "gemini",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI-compatible API for Gemini Business with multi-account load balancing and image generation | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成",
+                    "ja": "Gemini BusinessをOpenAI互換のAPIに変換し、複数アカウントの負荷分散と画像生成をサポートします。",
+                    "zh-hans": "将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成",
+                    "zh-hant": "將 Gemini Business 轉為 OpenAI 兼容接口，支持多帳戶負載平衡與圖像生成"
                 }
             }
         },
