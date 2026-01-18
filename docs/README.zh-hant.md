@@ -16,20 +16,19 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [PSAI](https://github.com/dfinke/psai) - PowerShell人工智慧模組。想像ChatGPT與PowerShell的結合-包括自主代理。
- * [zeroshot](https://github.com/covibes/zeroshot) - 您的自主工程團隊在CLI中。將Zeroshot對準GitHub問題，離開並返回到生產級代碼。支持Claude Code、OpenAI Codex和Gemini CLI。
+**Chatbots**
+ * [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - 這個項目是一個可以與您交談和聆聽的數位人類。它使用OpenAI的GPT來生成回應，使用OpenAI的Whisper來轉錄音頻，使用Eleven Labs來生成聲音，並使用Rhubarb Lip Sync來生成嘴唇同步。
 
 
-**Tutorials**
- * [easy-vibe](https://github.com/datawhalechina/easy-vibe) - 從零學習 AI 編程 | 產品思維、前後端開發
+**NLP**
+ * [pasteguard](https://github.com/sgasser/pasteguard) - 隱私代理用於LLMs-在上游之前遮蔽PII和機密信息，或將其路由到本地LLM。與OpenAI API兼容。
 
 
 **Openai**
- * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 輕鬆生成您的下一篇文章點子。由人工智慧驅動。
+ * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - 將 Gemini Business 轉為 OpenAI 兼容接口，支持多帳戶負載平衡與圖像生成
 
 
-_Updated on January 15, 2026_ (A total of 2399 repositories listed.)
+_Updated on January 19, 2026_ (A total of 2402 repositories listed.)
 
 ## Table of contents
 
@@ -678,6 +677,7 @@ _Updated on January 15, 2026_ (A total of 2399 repositories listed.)
  * ✅ [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - ⭐ 923 / 自行託管強大的Chatterbox TTS模型。此伺服器提供使用者友善的Web UI、靈活的API端點（包括OpenAI兼容）、預定義的聲音、語音克隆和大規模有聲書文本處理。在NVIDIA（CUDA）、AMD（R上運行加速。
  * 🔥 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - ⭐ 695 / 這個MCP伺服器允許克勞德和其他AI助手訪問您的LinkedIn。刮LinkedIn個人資料和公司，為您推薦工作，並執行工作搜索。
  * 🔥 [Alice](https://github.com/pmbstyle/alice) - ⭐ 217 / Alice 是一個使用 Vue.js、Vite 和 Electron 構建的桌面 AI 助手應用程式，以語音為先。具有先進的記憶系統、功能調用、MCP 支持、可選的完全本地使用等功能。
+ * [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - 這個項目是一個可以與您交談和聆聽的數位人類。它使用OpenAI的GPT來生成回應，使用OpenAI的Whisper來轉錄音頻，使用Eleven Labs來生成聲音，並使用Rhubarb Lip Sync來生成嘴唇同步。
 
 
 ## Browser-extensions
@@ -1567,6 +1567,7 @@ _Updated on January 15, 2026_ (A total of 2399 repositories listed.)
  * ✅ [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - ⭐ 230 / SpringAI，LLM，MCP，嵌入
  * ✅ [DocTranslator](https://github.com/mingchen666/doctranslator) - ⭐ 229 / DocTranslator 是一個強大的文件 AI 翻譯工具，支持多種文件格式、OpenAI API、批量操作、多線程和 Docker 部署，用於高效的翻譯任務！
  * 🔥 [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - ⭐ 293 / 開放框架，用於大規模自主虛擬計算機代理，完全開源，安全，可審計，並且已準備就緒。
+ * [pasteguard](https://github.com/sgasser/pasteguard) - 隱私代理用於LLMs-在上游之前遮蔽PII和機密信息，或將其路由到本地LLM。與OpenAI API兼容。
 
 
 ## Langchain
@@ -2061,6 +2062,7 @@ _Updated on January 15, 2026_ (A total of 2399 repositories listed.)
  * 🔥 [mcpcan](https://github.com/kymo-mcp/mcpcan) - ⭐ 520 / MCPCAN是MCP服務的集中管理平台。它使用容器部署方法部署每個MCP服務。該平台支持容器監控和MCP服務令牌驗證，解決安全風險並實現快速部署。
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.1k / 主動商務協議（ACP）是一種互動模型和開放標準，用於將買家、他們的人工智能代理和企業連接起來，以無縫完成購買。該規範目前由OpenAI和Stripe維護。
  * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 輕鬆生成您的下一篇文章點子。由人工智慧驅動。
+ * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - 將 Gemini Business 轉為 OpenAI 兼容接口，支持多帳戶負載平衡與圖像生成
 
 
 ## Others
