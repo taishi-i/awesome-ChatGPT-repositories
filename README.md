@@ -16,19 +16,12 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - This project is a digital human that can talk and listen to you. It uses OpenAI's GPT to generate responses, OpenAI's Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.
-
-
-**NLP**
- * [pasteguard](https://github.com/sgasser/pasteguard) - Privacy proxy for LLMs - masks PII and secrets before upstream or routes to local LLM. OpenAI API compatible.
-
-
 **Openai**
- * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and image generation | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成
+ * [q2api](https://github.com/cassiopeiacode/q2api) - Amazon Q to API Bridge：一个使用 FastAPI 实现的桥接服务，将 Amazon Q Developer 变成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多账号管理、随机负载均衡和流式响应。
+ * [business2api](https://github.com/xxxxteam/business2api) - OpenAI/Gemini 兼容的 Gemini Business API 代理服务
 
 
-_Updated on January 19, 2026_ (A total of 2402 repositories listed.)
+_Updated on January 21, 2026_ (A total of 2404 repositories listed.)
 
 ## Table of contents
 
@@ -2063,6 +2056,8 @@ _Updated on January 19, 2026_ (A total of 2402 repositories listed.)
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.1k / The Agentic Commerce Protocol (ACP) is an interaction model and open standard for connecting buyers, their AI agents, and businesses to complete purchases seamlessly. The specification is currently maintained by OpenAI and Stripe.
  * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by AI.
  * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - OpenAI-compatible API for Gemini Business with multi-account load balancing and image generation | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成
+ * [q2api](https://github.com/cassiopeiacode/q2api) - Amazon Q to API Bridge：一个使用 FastAPI 实现的桥接服务，将 Amazon Q Developer 变成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多账号管理、随机负载均衡和流式响应。
+ * [business2api](https://github.com/xxxxteam/business2api) - OpenAI/Gemini 兼容的 Gemini Business API 代理服务
 
 
 ## Others

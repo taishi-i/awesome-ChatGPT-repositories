@@ -46739,6 +46739,41 @@
                     "zh-hans": "将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成",
                     "zh-hant": "將 Gemini Business 轉為 OpenAI 兼容接口，支持多帳戶負載平衡與圖像生成"
                 }
+            },
+            "https://github.com/cassiopeiacode/q2api": {
+                "repository_name": "q2api",
+                "user_name": "CassiopeiaCode",
+                "language": "Python",
+                "license": null,
+                "description": "Amazon Q to API Bridge：一个使用 FastAPI 实现的桥接服务，将 Amazon Q Developer 变成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多账号管理、随机负载均衡和流式响应。",
+                "topics": [
+                    "2api",
+                    "amazonq",
+                    "claude",
+                    "fastapi",
+                    "new-api",
+                    "one-api"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Amazon Q to API Bridge：一个使用 FastAPI 实现的桥接服务，将 Amazon Q Developer 变成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多账号管理、随机负载均衡和流式响应。",
+                    "ja": "Amazon Q to API Bridge：FastAPIを使用して実装されたブリッジサービスで、Amazon Q DeveloperをOpenAI Chat CompletionsとClaude Messagesに互換性のあるAPIに変換します。複数のアカウント管理、ランダムな負荷分散、ストリーミング応答をサポートしています。",
+                    "zh-hans": "亚马逊Q到API桥接：一个使用FastAPI实现的桥接服务，将亚马逊Q开发者变成兼容OpenAI聊天完成和克劳德消息的API，支持多账号管理、随机负载均衡和流式响应。",
+                    "zh-hant": "Amazon Q to API Bridge：一個使用 FastAPI 實現的橋接服務，將 Amazon Q 開發者變成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多帳號管理、隨機負載均衡和流式響應。"
+                }
+            },
+            "https://github.com/xxxxteam/business2api": {
+                "repository_name": "business2api",
+                "user_name": "XxxXTeam",
+                "language": "Go",
+                "license": null,
+                "description": "OpenAI/Gemini 兼容的 Gemini Business API 代理服务",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI/Gemini compatible Gemini Business API proxy service",
+                    "ja": "OpenAI/Gemini 互換の Gemini ビジネス API 代理サービス",
+                    "zh-hans": "OpenAI/Gemini 兼容的 Gemini 商业 API 代理服务",
+                    "zh-hant": "OpenAI/Gemini 兼容的 Gemini 商業 API 代理服務"
+                }
             }
         },
         "Others": {

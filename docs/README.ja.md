@@ -16,19 +16,12 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - このプロジェクトは、あなたと話し合い、聞き取ることができるデジタルヒューマンです。OpenAIのGPTを使用して応答を生成し、OpenAIのWhisperを使用してオーディオを転写し、Eleven Labsを使用して声を生成し、Rhubarb Lip Syncを使用して口パクを生成します。
-
-
-**NLP**
- * [pasteguard](https://github.com/sgasser/pasteguard) - LLMs用のプライバシープロキシ - 上流に送信する前にPIIと秘密をマスクするか、ローカルLLMにルーティングします。OpenAI APIと互換性があります。
-
-
 **Openai**
- * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - Gemini BusinessをOpenAI互換のAPIに変換し、複数アカウントの負荷分散と画像生成をサポートします。
+ * [q2api](https://github.com/cassiopeiacode/q2api) - Amazon Q to API Bridge：FastAPIを使用して実装されたブリッジサービスで、Amazon Q DeveloperをOpenAI Chat CompletionsとClaude Messagesに互換性のあるAPIに変換します。複数のアカウント管理、ランダムな負荷分散、ストリーミング応答をサポートしています。
+ * [business2api](https://github.com/xxxxteam/business2api) - OpenAI/Gemini 互換の Gemini ビジネス API 代理サービス
 
 
-_Updated on January 19, 2026_ (A total of 2402 repositories listed.)
+_Updated on January 21, 2026_ (A total of 2404 repositories listed.)
 
 ## Table of contents
 
@@ -2063,6 +2056,8 @@ _Updated on January 19, 2026_ (A total of 2402 repositories listed.)
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.1k / エージェンティックコマースプロトコル（ACP）は、バイヤー、彼らのAIエージェント、および企業をシームレスに接続して購入を完了するためのインタラクションモデルおよびオープンスタンダードです。 仕様は現在、OpenAIとStripeによって維持されています。
  * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 簡単に次の記事のアイデアを生成します。AIによって動作します。
  * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - Gemini BusinessをOpenAI互換のAPIに変換し、複数アカウントの負荷分散と画像生成をサポートします。
+ * [q2api](https://github.com/cassiopeiacode/q2api) - Amazon Q to API Bridge：FastAPIを使用して実装されたブリッジサービスで、Amazon Q DeveloperをOpenAI Chat CompletionsとClaude Messagesに互換性のあるAPIに変換します。複数のアカウント管理、ランダムな負荷分散、ストリーミング応答をサポートしています。
+ * [business2api](https://github.com/xxxxteam/business2api) - OpenAI/Gemini 互換の Gemini ビジネス API 代理サービス
 
 
 ## Others
