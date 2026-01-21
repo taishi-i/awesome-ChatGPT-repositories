@@ -16,19 +16,12 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - 這個項目是一個可以與您交談和聆聽的數位人類。它使用OpenAI的GPT來生成回應，使用OpenAI的Whisper來轉錄音頻，使用Eleven Labs來生成聲音，並使用Rhubarb Lip Sync來生成嘴唇同步。
-
-
-**NLP**
- * [pasteguard](https://github.com/sgasser/pasteguard) - 隱私代理用於LLMs-在上游之前遮蔽PII和機密信息，或將其路由到本地LLM。與OpenAI API兼容。
-
-
 **Openai**
- * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - 將 Gemini Business 轉為 OpenAI 兼容接口，支持多帳戶負載平衡與圖像生成
+ * [q2api](https://github.com/cassiopeiacode/q2api) - Amazon Q to API Bridge：一個使用 FastAPI 實現的橋接服務，將 Amazon Q 開發者變成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多帳號管理、隨機負載均衡和流式響應。
+ * [business2api](https://github.com/xxxxteam/business2api) - OpenAI/Gemini 兼容的 Gemini 商業 API 代理服務
 
 
-_Updated on January 19, 2026_ (A total of 2402 repositories listed.)
+_Updated on January 21, 2026_ (A total of 2404 repositories listed.)
 
 ## Table of contents
 
@@ -2063,6 +2056,8 @@ _Updated on January 19, 2026_ (A total of 2402 repositories listed.)
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.1k / 主動商務協議（ACP）是一種互動模型和開放標準，用於將買家、他們的人工智能代理和企業連接起來，以無縫完成購買。該規範目前由OpenAI和Stripe維護。
  * [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - 輕鬆生成您的下一篇文章點子。由人工智慧驅動。
  * [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - 將 Gemini Business 轉為 OpenAI 兼容接口，支持多帳戶負載平衡與圖像生成
+ * [q2api](https://github.com/cassiopeiacode/q2api) - Amazon Q to API Bridge：一個使用 FastAPI 實現的橋接服務，將 Amazon Q 開發者變成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多帳號管理、隨機負載均衡和流式響應。
+ * [business2api](https://github.com/xxxxteam/business2api) - OpenAI/Gemini 兼容的 Gemini 商業 API 代理服務
 
 
 ## Others
