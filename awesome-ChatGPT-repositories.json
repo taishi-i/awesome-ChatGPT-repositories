@@ -2288,6 +2288,74 @@
                     "zh-hans": "🔴非常庞大的人工智能工具清单！🔴 精选的人工智能工具清单 - 更新至2025年9月",
                     "zh-hant": "🔴非常龐大的人工智慧工具清單！🔴 精選的人工智慧工具清單 - 更新於2025年9月"
                 }
+            },
+            "https://github.com/adenhq/hive": {
+                "repository_name": "hive",
+                "user_name": "adenhq",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Outcome driven agent development framework that evolves",
+                "topics": [
+                    "agent",
+                    "agent-framework",
+                    "agent-skills",
+                    "ai-evaluation",
+                    "anthropic",
+                    "automation",
+                    "autonomous-agents",
+                    "awesome",
+                    "claude",
+                    "claude-code",
+                    "human-in-the-loop",
+                    "observability-ai",
+                    "openai",
+                    "python",
+                    "self-hosted",
+                    "self-improving",
+                    "self-improving-agent",
+                    "self-improving-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Outcome driven agent development framework that evolves",
+                    "ja": "成果主導型のエージェント開発フレームワークが進化します。",
+                    "zh-hans": "以结果为导向的代理开发框架不断演进",
+                    "zh-hant": "以結果為導向的代理人發展框架不斷演進"
+                }
+            },
+            "https://github.com/avifenesh/awesome-slash": {
+                "repository_name": "awesome-slash",
+                "user_name": "avifenesh",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.",
+                "topics": [
+                    "agentic",
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "automation",
+                    "autonomous-agents",
+                    "claude",
+                    "claude-code",
+                    "cli",
+                    "code-review",
+                    "codex",
+                    "devtools",
+                    "llm",
+                    "mcp",
+                    "multi-agent",
+                    "openai",
+                    "opencode",
+                    "pr-automation",
+                    "productivity",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.",
+                    "ja": "Claude Code、OpenCode、Codex CLI用のプラグインとスキル。ワークフロー自動化、コードレビュー、スロップ検出、PR管理、ドリフト検出などのための29の自律エージェント。",
+                    "zh-hans": "Claude Code、OpenCode和Codex CLI的插件和技能。29个自主代理用于工作流自动化、代码审查、错误检测、PR管理、漂移检测等。",
+                    "zh-hant": "Claude Code、OpenCode和Codex CLI的插件和技能。29個自主代理用於工作流自動化、代碼審查、懈怠檢測、PR管理、漂移檢測等。"
+                }
             }
         },
         "Prompts": {
@@ -21068,6 +21136,32 @@
                     "zh-hans": "Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP 协议实现 AI 助手与 Zotero 深度集成。插件支持文献检索、元数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin 实现了 AI 助手与 Zotero 的集成。",
                     "zh-hant": "Zotero MCP Plugin 是一個 Zotero 插件，通過 MCP 協議實現 AI 助手與 Zotero 深度集成。插件支持文獻檢索、元數據管理、全文分析和智能問答等功能，讓 Claude、ChatGPT 等 AI 工具能夠直接訪問和操作您的文獻庫。 Zotero MCP Plugin 啟用了 AI 助手與 Zotero 之間的集成。"
                 }
+            },
+            "https://github.com/kizuna-ai-lab/sokuji": {
+                "repository_name": "sokuji",
+                "user_name": "kizuna-ai-lab",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API.",
+                "topics": [
+                    "ai",
+                    "chrome-extension",
+                    "electron",
+                    "linux-app",
+                    "llm",
+                    "meeting",
+                    "openai",
+                    "react",
+                    "translation",
+                    "translator",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API.",
+                    "ja": "Electron 34とReactを使用して構築されたリアルタイムAPIを使用したライブスピーチ翻訳アプリケーション。",
+                    "zh-hans": "使用 Electron 34 和 React 构建的实时语音翻译应用程序，使用 OpenAI 的实时 API。",
+                    "zh-hant": "使用 Electron 34 和 React 構建的即時語音翻譯應用程式，使用 OpenAI 的 Realtime API。"
+                }
             }
         },
         "CLIs": {
@@ -25820,6 +25914,26 @@
                     "ja": "CLIで自律エンジニアリングチームを操作します。GitHubの問題にZeroshotを指し、離れてプロダクショングレードのコードに戻ります。Claude Code、OpenAI Codex、Gemini CLIをサポートしています。",
                     "zh-hans": "将您的自主工程团队放在CLI中。将Zeroshot指向GitHub问题，然后离开，返回时会得到生产级代码。支持Claude Code、OpenAI Codex和Gemini CLI。",
                     "zh-hant": "您的自主工程團隊在CLI中。將Zeroshot對準GitHub問題，離開並返回到生產級代碼。支持Claude Code、OpenAI Codex和Gemini CLI。"
+                }
+            },
+            "https://github.com/milanglacier/yarepl.nvim": {
+                "repository_name": "yarepl.nvim",
+                "user_name": "milanglacier",
+                "language": "Lua",
+                "license": "GNU General Public License v3.0",
+                "description": "Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat.",
+                "topics": [
+                    "neovim",
+                    "neovim-lua",
+                    "neovim-lua-library",
+                    "neovim-lua-plugin",
+                    "neovim-plugin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat.",
+                    "ja": "多目的なREPL/CLIマネージャー。並列セッション、バッファ添付ファイル、クロス言語サポートを備えた複数の送信モード。AiderとOpenAI CodexのためのAI CLI統合。ピッカーサポート、プロジェクトレベルの設定、コードセルテキストオブジェクト、ネイティブのドットリピート。",
+                    "zh-hans": "多功能的REPL/CLI管理器。具有并行会话、缓冲附件和跨语言支持的多种发送模式。Aider和OpenAI Codex的AI CLI集成。选择器支持、项目级配置、代码单元格文本对象和本地点重复。",
+                    "zh-hant": "多功能的 REPL/CLI 管理器。具有并行会话、缓冲附件和跨语言支持的多种发送模式。Aider 和 OpenAI Codex 的 AI CLI 集成。选择器支持、项目级配置、代码单元格文本对象和本地点重复。"
                 }
             }
         },
@@ -35742,6 +35856,59 @@
                     "ja": "LLMs用のプライバシープロキシ - 上流に送信する前にPIIと秘密をマスクするか、ローカルLLMにルーティングします。OpenAI APIと互換性があります。",
                     "zh-hans": "LLMs的隐私代理-在上游之前掩盖PII和机密信息，或者将其路由到本地LLM。兼容OpenAI API。",
                     "zh-hant": "隱私代理用於LLMs-在上游之前遮蔽PII和機密信息，或將其路由到本地LLM。與OpenAI API兼容。"
+                }
+            },
+            "https://github.com/hpmll/burstgpt": {
+                "repository_name": "BurstGPT",
+                "user_name": "HPMLL",
+                "language": "Python",
+                "license": "Creative Commons Attribution 4.0 International",
+                "description": "A ChatGPT(GPT-3.5) & GPT-4 Workload Trace to Optimize LLM Serving Systems",
+                "topics": [
+                    "dataset",
+                    "llm",
+                    "llm-serving",
+                    "mlsys"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A ChatGPT(GPT-3.5) & GPT-4 Workload Trace to Optimize LLM Serving Systems",
+                    "ja": "LLMサービングシステムを最適化するためのChatGPT（GPT-3.5）＆GPT-4のワークロードトレース",
+                    "zh-hans": "一个ChatGPT(GPT-3.5) & GPT-4工作负载跟踪，以优化LLM服务系统",
+                    "zh-hant": "一個 ChatGPT(GPT-3.5) & GPT-4 工作負載跟踪以優化LLM服務系統"
+                }
+            },
+            "https://github.com/theopenco/llmgateway": {
+                "repository_name": "llmgateway",
+                "user_name": "theopenco",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.",
+                "topics": [
+                    "ai",
+                    "ai-gateway",
+                    "analytics",
+                    "anthropic",
+                    "api-key-management",
+                    "claude",
+                    "codex",
+                    "enterprise",
+                    "guardrails",
+                    "inference",
+                    "llm",
+                    "llm-gateway",
+                    "llm-proxy",
+                    "llms",
+                    "observability",
+                    "openai",
+                    "opencode",
+                    "rate-limiting",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.",
+                    "ja": "複数のプロバイダー間で統一されたAPIインターフェースを使用して、LLMリクエストをルート、管理、および分析します。",
+                    "zh-hans": "使用统一的API接口，跨多个提供商路由、管理和分析您的LLM请求。",
+                    "zh-hant": "使用統一的API介面來路由、管理和分析跨多個提供商的LLM請求。"
                 }
             }
         },
