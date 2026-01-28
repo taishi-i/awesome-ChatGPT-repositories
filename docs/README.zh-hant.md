@@ -16,25 +16,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [hive](https://github.com/adenhq/hive) - 以結果為導向的代理人發展框架不斷演進
- * [awesome-slash](https://github.com/avifenesh/awesome-slash) - Claude Code、OpenCode和Codex CLI的插件和技能。29個自主代理用於工作流自動化、代碼審查、懈怠檢測、PR管理、漂移檢測等。
-
-
-**Browser-extensions**
- * [sokuji](https://github.com/kizuna-ai-lab/sokuji) - 使用 Electron 34 和 React 構建的即時語音翻譯應用程式，使用 OpenAI 的 Realtime API。
-
-
-**CLIs**
- * [yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - 多功能的 REPL/CLI 管理器。具有并行会话、缓冲附件和跨语言支持的多种发送模式。Aider 和 OpenAI Codex 的 AI CLI 集成。选择器支持、项目级配置、代码单元格文本对象和本地点重复。
+**Chatbots**
+ * [Wegent](https://github.com/wecode-ai/wegent) - 一個開源的AI原生操作系統，用於定義、組織和運行智能代理團隊。
 
 
 **NLP**
- * [BurstGPT](https://github.com/hpmll/burstgpt) - 一個 ChatGPT(GPT-3.5) & GPT-4 工作負載跟踪以優化LLM服務系統
- * [llmgateway](https://github.com/theopenco/llmgateway) - 使用統一的API介面來路由、管理和分析跨多個提供商的LLM請求。
+ * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - 一個最小但功能強大的框架，用於創建具有對工具、提供者和執行流程的完全控制的AI代理。
+ * [XianTu](https://github.com/qianye60/xiantu) - "仙途" AI 驅動的沉浸式修煉文字冒險遊戲，基於 Vue 3 + TypeScript + Fastapi，支持多個 AI 模型，如 Gemini/Claude/OpenAI
 
 
-_Updated on January 26, 2026_ (A total of 2410 repositories listed.)
+_Updated on January 29, 2026_ (A total of 2413 repositories listed.)
 
 ## Table of contents
 
@@ -686,6 +677,7 @@ _Updated on January 26, 2026_ (A total of 2410 repositories listed.)
  * 🔥 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - ⭐ 749 / 這個MCP伺服器允許克勞德和其他AI助手訪問您的LinkedIn。刮LinkedIn個人資料和公司，為您推薦工作，並執行工作搜索。
  * ✅ [Alice](https://github.com/pmbstyle/alice) - ⭐ 222 / Alice 是一個使用 Vue.js、Vite 和 Electron 構建的桌面 AI 助手應用程式，以語音為先。具有先進的記憶系統、功能調用、MCP 支持、可選的完全本地使用等功能。
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 404 / 這個項目是一個可以與您交談和聆聽的數位人類。它使用OpenAI的GPT來生成回應，使用OpenAI的Whisper來轉錄音頻，使用Eleven Labs來生成聲音，並使用Rhubarb Lip Sync來生成嘴唇同步。
+ * [Wegent](https://github.com/wecode-ai/wegent) - 一個開源的AI原生操作系統，用於定義、組織和運行智能代理團隊。
 
 
 ## Browser-extensions
@@ -1580,6 +1572,8 @@ _Updated on January 26, 2026_ (A total of 2410 repositories listed.)
  * 🔥 [pasteguard](https://github.com/sgasser/pasteguard) - ⭐ 461 / 隱私代理用於LLMs-在上游之前遮蔽PII和機密信息，或將其路由到本地LLM。與OpenAI API兼容。
  * [BurstGPT](https://github.com/hpmll/burstgpt) - 一個 ChatGPT(GPT-3.5) & GPT-4 工作負載跟踪以優化LLM服務系統
  * [llmgateway](https://github.com/theopenco/llmgateway) - 使用統一的API介面來路由、管理和分析跨多個提供商的LLM請求。
+ * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - 一個最小但功能強大的框架，用於創建具有對工具、提供者和執行流程的完全控制的AI代理。
+ * [XianTu](https://github.com/qianye60/xiantu) - "仙途" AI 驅動的沉浸式修煉文字冒險遊戲，基於 Vue 3 + TypeScript + Fastapi，支持多個 AI 模型，如 Gemini/Claude/OpenAI
 
 
 ## Langchain

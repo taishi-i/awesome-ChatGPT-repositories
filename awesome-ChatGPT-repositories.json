@@ -15600,6 +15600,29 @@
                     "zh-hans": "这个项目是一个数字人类，可以与您交谈并倾听您说话。它使用OpenAI的GPT生成回复，OpenAI的Whisper转录音频，Eleven Labs生成声音，以及Rhubarb Lip Sync生成嘴唇同步。",
                     "zh-hant": "這個項目是一個可以與您交談和聆聽的數位人類。它使用OpenAI的GPT來生成回應，使用OpenAI的Whisper來轉錄音頻，使用Eleven Labs來生成聲音，並使用Rhubarb Lip Sync來生成嘴唇同步。"
                 }
+            },
+            "https://github.com/wecode-ai/wegent": {
+                "repository_name": "Wegent",
+                "user_name": "wecode-ai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "An open-source AI-native operating system to define, organize, and run intelligent agent teams",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "chatbot",
+                    "chatgpt",
+                    "claude-code",
+                    "gemini",
+                    "llm",
+                    "notebooklm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An open-source AI-native operating system to define, organize, and run intelligent agent teams",
+                    "ja": "オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。",
+                    "zh-hans": "一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。",
+                    "zh-hant": "一個開源的AI原生操作系統，用於定義、組織和運行智能代理團隊。"
+                }
             }
         },
         "Browser-extensions": {
@@ -35909,6 +35932,61 @@
                     "ja": "複数のプロバイダー間で統一されたAPIインターフェースを使用して、LLMリクエストをルート、管理、および分析します。",
                     "zh-hans": "使用统一的API接口，跨多个提供商路由、管理和分析您的LLM请求。",
                     "zh-hant": "使用統一的API介面來路由、管理和分析跨多個提供商的LLM請求。"
+                }
+            },
+            "https://github.com/corespeed-io/zypher-agent": {
+                "repository_name": "zypher-agent",
+                "user_name": "corespeed-io",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "A minimal yet powerful framework for creating AI agents with full control over tools, providers, and execution flow.",
+                "topics": [
+                    "agent",
+                    "agent-skills",
+                    "agentic-framework",
+                    "ai",
+                    "anthropic",
+                    "corespeed",
+                    "deno",
+                    "generative-ai",
+                    "llm",
+                    "mcp",
+                    "mcp-client",
+                    "multi-agent-systems",
+                    "openai",
+                    "typescript",
+                    "zypher-agent"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A minimal yet powerful framework for creating AI agents with full control over tools, providers, and execution flow.",
+                    "ja": "ツール、プロバイダー、および実行フローに完全な制御を持つAIエージェントを作成するための最小限でありながら強力なフレームワーク。",
+                    "zh-hans": "一个简洁而强大的框架，用于创建具有对工具、提供者和执行流程的完全控制的AI代理。",
+                    "zh-hant": "一個最小但功能強大的框架，用於創建具有對工具、提供者和執行流程的完全控制的AI代理。"
+                }
+            },
+            "https://github.com/qianye60/xiantu": {
+                "repository_name": "XianTu",
+                "user_name": "qianye60",
+                "language": "Vue",
+                "license": "Other",
+                "description": "\"Immortal Path\" AI-driven immersive cultivation text adventure game, based on Vue 3 + TypeScript + Fastapi, supports multiple AI models such as Gemini/Claude/OpenAI",
+                "topics": [
+                    "ai-game",
+                    "claude",
+                    "gemini",
+                    "openai",
+                    "rpg",
+                    "sillytavern",
+                    "text-adventure",
+                    "typescript",
+                    "vue3",
+                    "vue3-typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "\"Immortal Path\" AI-driven immersive cultivation text adventure game, based on Vue 3 + TypeScript + Fastapi, supports multiple AI models such as Gemini/Claude/OpenAI",
+                    "ja": "「Immortal Path」は、Vue 3 + TypeScript + FastapiをベースにしたAI駆動の没入型栽培テキストアドベンチャーゲームで、Gemini/Claude/OpenAIなど複数のAIモデルをサポートしています。",
+                    "zh-hans": "“不朽之路”是一款基于Vue 3 + TypeScript + Fastapi的AI驱动沉浸式修炼文字冒险游戏，支持多种AI模型，如Gemini/Claude/OpenAI。",
+                    "zh-hant": "\"仙途\" AI 驅動的沉浸式修煉文字冒險遊戲，基於 Vue 3 + TypeScript + Fastapi，支持多個 AI 模型，如 Gemini/Claude/OpenAI"
                 }
             }
         },
