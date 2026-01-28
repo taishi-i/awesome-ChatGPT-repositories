@@ -16,25 +16,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [hive](https://github.com/adenhq/hive) - 以结果为导向的代理开发框架不断演进
- * [awesome-slash](https://github.com/avifenesh/awesome-slash) - Claude Code、OpenCode和Codex CLI的插件和技能。29个自主代理用于工作流自动化、代码审查、错误检测、PR管理、漂移检测等。
-
-
-**Browser-extensions**
- * [sokuji](https://github.com/kizuna-ai-lab/sokuji) - 使用 Electron 34 和 React 构建的实时语音翻译应用程序，使用 OpenAI 的实时 API。
-
-
-**CLIs**
- * [yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - 多功能的REPL/CLI管理器。具有并行会话、缓冲附件和跨语言支持的多种发送模式。Aider和OpenAI Codex的AI CLI集成。选择器支持、项目级配置、代码单元格文本对象和本地点重复。
+**Chatbots**
+ * [Wegent](https://github.com/wecode-ai/wegent) - 一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。
 
 
 **NLP**
- * [BurstGPT](https://github.com/hpmll/burstgpt) - 一个ChatGPT(GPT-3.5) & GPT-4工作负载跟踪，以优化LLM服务系统
- * [llmgateway](https://github.com/theopenco/llmgateway) - 使用统一的API接口，跨多个提供商路由、管理和分析您的LLM请求。
+ * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - 一个简洁而强大的框架，用于创建具有对工具、提供者和执行流程的完全控制的AI代理。
+ * [XianTu](https://github.com/qianye60/xiantu) - “不朽之路”是一款基于Vue 3 + TypeScript + Fastapi的AI驱动沉浸式修炼文字冒险游戏，支持多种AI模型，如Gemini/Claude/OpenAI。
 
 
-_Updated on January 26, 2026_ (A total of 2410 repositories listed.)
+_Updated on January 29, 2026_ (A total of 2413 repositories listed.)
 
 ## Table of contents
 
@@ -686,6 +677,7 @@ _Updated on January 26, 2026_ (A total of 2410 repositories listed.)
  * 🔥 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - ⭐ 749 / 这个MCP服务器允许克劳德和其他AI助手访问您的LinkedIn。抓取LinkedIn个人资料和公司信息，获取您的推荐工作，并进行工作搜索。
  * ✅ [Alice](https://github.com/pmbstyle/alice) - ⭐ 222 / Alice是一个使用Vue.js、Vite和Electron构建的语音优先桌面AI助手应用程序。具有先进的记忆系统、函数调用、MCP支持、可选择的完全本地使用等功能。
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 404 / 这个项目是一个数字人类，可以与您交谈并倾听您说话。它使用OpenAI的GPT生成回复，OpenAI的Whisper转录音频，Eleven Labs生成声音，以及Rhubarb Lip Sync生成嘴唇同步。
+ * [Wegent](https://github.com/wecode-ai/wegent) - 一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。
 
 
 ## Browser-extensions
@@ -1580,6 +1572,8 @@ _Updated on January 26, 2026_ (A total of 2410 repositories listed.)
  * 🔥 [pasteguard](https://github.com/sgasser/pasteguard) - ⭐ 461 / LLMs的隐私代理-在上游之前掩盖PII和机密信息，或者将其路由到本地LLM。兼容OpenAI API。
  * [BurstGPT](https://github.com/hpmll/burstgpt) - 一个ChatGPT(GPT-3.5) & GPT-4工作负载跟踪，以优化LLM服务系统
  * [llmgateway](https://github.com/theopenco/llmgateway) - 使用统一的API接口，跨多个提供商路由、管理和分析您的LLM请求。
+ * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - 一个简洁而强大的框架，用于创建具有对工具、提供者和执行流程的完全控制的AI代理。
+ * [XianTu](https://github.com/qianye60/xiantu) - “不朽之路”是一款基于Vue 3 + TypeScript + Fastapi的AI驱动沉浸式修炼文字冒险游戏，支持多种AI模型，如Gemini/Claude/OpenAI。
 
 
 ## Langchain

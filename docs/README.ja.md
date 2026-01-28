@@ -16,25 +16,16 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [hive](https://github.com/adenhq/hive) - 成果主導型のエージェント開発フレームワークが進化します。
- * [awesome-slash](https://github.com/avifenesh/awesome-slash) - Claude Code、OpenCode、Codex CLI用のプラグインとスキル。ワークフロー自動化、コードレビュー、スロップ検出、PR管理、ドリフト検出などのための29の自律エージェント。
-
-
-**Browser-extensions**
- * [sokuji](https://github.com/kizuna-ai-lab/sokuji) - Electron 34とReactを使用して構築されたリアルタイムAPIを使用したライブスピーチ翻訳アプリケーション。
-
-
-**CLIs**
- * [yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - 多目的なREPL/CLIマネージャー。並列セッション、バッファ添付ファイル、クロス言語サポートを備えた複数の送信モード。AiderとOpenAI CodexのためのAI CLI統合。ピッカーサポート、プロジェクトレベルの設定、コードセルテキストオブジェクト、ネイティブのドットリピート。
+**Chatbots**
+ * [Wegent](https://github.com/wecode-ai/wegent) - オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。
 
 
 **NLP**
- * [BurstGPT](https://github.com/hpmll/burstgpt) - LLMサービングシステムを最適化するためのChatGPT（GPT-3.5）＆GPT-4のワークロードトレース
- * [llmgateway](https://github.com/theopenco/llmgateway) - 複数のプロバイダー間で統一されたAPIインターフェースを使用して、LLMリクエストをルート、管理、および分析します。
+ * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - ツール、プロバイダー、および実行フローに完全な制御を持つAIエージェントを作成するための最小限でありながら強力なフレームワーク。
+ * [XianTu](https://github.com/qianye60/xiantu) - 「Immortal Path」は、Vue 3 + TypeScript + FastapiをベースにしたAI駆動の没入型栽培テキストアドベンチャーゲームで、Gemini/Claude/OpenAIなど複数のAIモデルをサポートしています。
 
 
-_Updated on January 26, 2026_ (A total of 2410 repositories listed.)
+_Updated on January 29, 2026_ (A total of 2413 repositories listed.)
 
 ## Table of contents
 
@@ -686,6 +677,7 @@ _Updated on January 26, 2026_ (A total of 2410 repositories listed.)
  * 🔥 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - ⭐ 749 / このMCPサーバーは、クロードや他のAIアシスタントがあなたのLinkedInにアクセスできるようにします。LinkedInのプロフィールや企業をスクレイプし、おすすめの仕事を取得し、仕事検索を実行します。
  * ✅ [Alice](https://github.com/pmbstyle/alice) - ⭐ 222 / アリスは、Vue.js、Vite、およびElectronで構築された音声優先のデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションの完全ローカル使用などがあります。
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 404 / このプロジェクトは、あなたと話し合い、聞き取ることができるデジタルヒューマンです。OpenAIのGPTを使用して応答を生成し、OpenAIのWhisperを使用してオーディオを転写し、Eleven Labsを使用して声を生成し、Rhubarb Lip Syncを使用して口パクを生成します。
+ * [Wegent](https://github.com/wecode-ai/wegent) - オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。
 
 
 ## Browser-extensions
@@ -1580,6 +1572,8 @@ _Updated on January 26, 2026_ (A total of 2410 repositories listed.)
  * 🔥 [pasteguard](https://github.com/sgasser/pasteguard) - ⭐ 461 / LLMs用のプライバシープロキシ - 上流に送信する前にPIIと秘密をマスクするか、ローカルLLMにルーティングします。OpenAI APIと互換性があります。
  * [BurstGPT](https://github.com/hpmll/burstgpt) - LLMサービングシステムを最適化するためのChatGPT（GPT-3.5）＆GPT-4のワークロードトレース
  * [llmgateway](https://github.com/theopenco/llmgateway) - 複数のプロバイダー間で統一されたAPIインターフェースを使用して、LLMリクエストをルート、管理、および分析します。
+ * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - ツール、プロバイダー、および実行フローに完全な制御を持つAIエージェントを作成するための最小限でありながら強力なフレームワーク。
+ * [XianTu](https://github.com/qianye60/xiantu) - 「Immortal Path」は、Vue 3 + TypeScript + FastapiをベースにしたAI駆動の没入型栽培テキストアドベンチャーゲームで、Gemini/Claude/OpenAIなど複数のAIモデルをサポートしています。
 
 
 ## Langchain

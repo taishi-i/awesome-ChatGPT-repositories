@@ -16,25 +16,16 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [hive](https://github.com/adenhq/hive) - Outcome driven agent development framework that evolves
- * [awesome-slash](https://github.com/avifenesh/awesome-slash) - Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.
-
-
-**Browser-extensions**
- * [sokuji](https://github.com/kizuna-ai-lab/sokuji) - Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API.
-
-
-**CLIs**
- * [yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat.
+**Chatbots**
+ * [Wegent](https://github.com/wecode-ai/wegent) - An open-source AI-native operating system to define, organize, and run intelligent agent teams
 
 
 **NLP**
- * [BurstGPT](https://github.com/hpmll/burstgpt) - A ChatGPT(GPT-3.5) & GPT-4 Workload Trace to Optimize LLM Serving Systems
- * [llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+ * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - A minimal yet powerful framework for creating AI agents with full control over tools, providers, and execution flow.
+ * [XianTu](https://github.com/qianye60/xiantu) - "Immortal Path" AI-driven immersive cultivation text adventure game, based on Vue 3 + TypeScript + Fastapi, supports multiple AI models such as Gemini/Claude/OpenAI
 
 
-_Updated on January 26, 2026_ (A total of 2410 repositories listed.)
+_Updated on January 29, 2026_ (A total of 2413 repositories listed.)
 
 ## Table of contents
 
@@ -686,6 +677,7 @@ _Updated on January 26, 2026_ (A total of 2410 repositories listed.)
  * 🔥 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - ⭐ 749 / This MCP server allows Claude and other AI assistants to access your LinkedIn. Scrape LinkedIn profiles and companies, get your recommended jobs, and perform job searches.
  * ✅ [Alice](https://github.com/pmbstyle/alice) - ⭐ 222 / Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more.
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 404 / This project is a digital human that can talk and listen to you. It uses OpenAI's GPT to generate responses, OpenAI's Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.
+ * [Wegent](https://github.com/wecode-ai/wegent) - An open-source AI-native operating system to define, organize, and run intelligent agent teams
 
 
 ## Browser-extensions
@@ -1580,6 +1572,8 @@ _Updated on January 26, 2026_ (A total of 2410 repositories listed.)
  * 🔥 [pasteguard](https://github.com/sgasser/pasteguard) - ⭐ 461 / Privacy proxy for LLMs - masks PII and secrets before upstream or routes to local LLM. OpenAI API compatible.
  * [BurstGPT](https://github.com/hpmll/burstgpt) - A ChatGPT(GPT-3.5) & GPT-4 Workload Trace to Optimize LLM Serving Systems
  * [llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
+ * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - A minimal yet powerful framework for creating AI agents with full control over tools, providers, and execution flow.
+ * [XianTu](https://github.com/qianye60/xiantu) - "Immortal Path" AI-driven immersive cultivation text adventure game, based on Vue 3 + TypeScript + Fastapi, supports multiple AI models such as Gemini/Claude/OpenAI
 
 
 ## Langchain
