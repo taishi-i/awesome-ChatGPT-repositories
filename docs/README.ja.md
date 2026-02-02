@@ -16,16 +16,28 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [prompts.chat](https://github.com/f/prompts.chat) - a.k.a. オーサムチャットGPTプロンプト。コミュニティからプロンプトを共有、発見、収集。無料でオープンソース-完全なプライバシーを持つ組織用に自己ホスト化できます。
+
+
 **Chatbots**
- * [Wegent](https://github.com/wecode-ai/wegent) - オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。
+ * [openwhispr](https://github.com/openwhispr/openwhispr) - ローカル（Nvidia Parakeet/Whisper）およびクラウドモデルを備えた音声テキスト変換アプリ。プライバシー第一主義でクロスプラットフォームで利用可能。
 
 
 **NLP**
- * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - ツール、プロバイダー、および実行フローに完全な制御を持つAIエージェントを作成するための最小限でありながら強力なフレームワーク。
- * [XianTu](https://github.com/qianye60/xiantu) - 「Immortal Path」は、Vue 3 + TypeScript + FastapiをベースにしたAI駆動の没入型栽培テキストアドベンチャーゲームで、Gemini/Claude/OpenAIなど複数のAIモデルをサポートしています。
+ * [convoviz](https://github.com/mohamed-chs/convoviz) - ChatGPTエクスポート（ZIP）をクリーンなMarkdownテキストファイルに変換し、インラインメディアを含め、ワードクラウドや使用グラフなどのデータ可視化を生成します。
 
 
-_Updated on January 29, 2026_ (A total of 2413 repositories listed.)
+**Openai**
+ * [onyx](https://github.com/rmourey26/onyx) - Input: NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' Security Headers Score + RBAC + Resend + CRUD operations + admin dashboard + OpenAI playgrouOutput: NextJS 14 + Supabase SSR 認証＆PostgreSQL DB + Shadcn-UI + TanStack React Query + Vercel サーバーレス関数用の Rust ランタイム準備完了 + React Hook Form + Zod + 'A' セキュリティヘッダースコア + RBAC + Resend + CRUD 操作 + 管理者ダッシュボード + OpenAI プレイグラウンド
+ * [lobehub](https://github.com/lobehub/lobehub) - 仕事と生活のための究極のスペース-一緒に成長するエージェントチームと協力して見つけ、構築、協力するためのスペース。私たちはエージェントハーネスを次のレベルに引き上げています-マルチエージェントの協力、効率的なエージェントチームの設計、エージェントを導入する。
+
+
+**Others**
+ * [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - 一括Teamアカウント管理
+
+
+_Updated on February 02, 2026_ (A total of 2419 repositories listed.)
 
 ## Table of contents
 
@@ -135,6 +147,7 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * 🔥 [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) - ⭐ 186 / 🔴非常に大きなAIツールリスト！🔴AIツールのキュレーションリスト - 2025年9月更新
  * [hive](https://github.com/adenhq/hive) - 成果主導型のエージェント開発フレームワークが進化します。
  * [awesome-slash](https://github.com/avifenesh/awesome-slash) - Claude Code、OpenCode、Codex CLI用のプラグインとスキル。ワークフロー自動化、コードレビュー、スロップ検出、PR管理、ドリフト検出などのための29の自律エージェント。
+ * [prompts.chat](https://github.com/f/prompts.chat) - a.k.a. オーサムチャットGPTプロンプト。コミュニティからプロンプトを共有、発見、収集。無料でオープンソース-完全なプライバシーを持つ組織用に自己ホスト化できます。
 
 
 ## Prompts
@@ -678,6 +691,7 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * ✅ [Alice](https://github.com/pmbstyle/alice) - ⭐ 222 / アリスは、Vue.js、Vite、およびElectronで構築された音声優先のデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションの完全ローカル使用などがあります。
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 404 / このプロジェクトは、あなたと話し合い、聞き取ることができるデジタルヒューマンです。OpenAIのGPTを使用して応答を生成し、OpenAIのWhisperを使用してオーディオを転写し、Eleven Labsを使用して声を生成し、Rhubarb Lip Syncを使用して口パクを生成します。
  * [Wegent](https://github.com/wecode-ai/wegent) - オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。
+ * [openwhispr](https://github.com/openwhispr/openwhispr) - ローカル（Nvidia Parakeet/Whisper）およびクラウドモデルを備えた音声テキスト変換アプリ。プライバシー第一主義でクロスプラットフォームで利用可能。
 
 
 ## Browser-extensions
@@ -1574,6 +1588,7 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * [llmgateway](https://github.com/theopenco/llmgateway) - 複数のプロバイダー間で統一されたAPIインターフェースを使用して、LLMリクエストをルート、管理、および分析します。
  * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - ツール、プロバイダー、および実行フローに完全な制御を持つAIエージェントを作成するための最小限でありながら強力なフレームワーク。
  * [XianTu](https://github.com/qianye60/xiantu) - 「Immortal Path」は、Vue 3 + TypeScript + FastapiをベースにしたAI駆動の没入型栽培テキストアドベンチャーゲームで、Gemini/Claude/OpenAIなど複数のAIモデルをサポートしています。
+ * [convoviz](https://github.com/mohamed-chs/convoviz) - ChatGPTエクスポート（ZIP）をクリーンなMarkdownテキストファイルに変換し、インラインメディアを含め、ワードクラウドや使用グラフなどのデータ可視化を生成します。
 
 
 ## Langchain
@@ -2071,6 +2086,8 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * 🔥 [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - ⭐ 582 / Gemini BusinessをOpenAI互換のAPIに変換し、複数アカウントの負荷分散と画像生成をサポートします。
  * 🔥 [q2api](https://github.com/cassiopeiacode/q2api) - ⭐ 227 / Amazon Q to API Bridge：FastAPIを使用して実装されたブリッジサービスで、Amazon Q DeveloperをOpenAI Chat CompletionsとClaude Messagesに互換性のあるAPIに変換します。複数のアカウント管理、ランダムな負荷分散、ストリーミング応答をサポートしています。
  * 🔥 [business2api](https://github.com/xxxxteam/business2api) - ⭐ 332 / OpenAI/Gemini 互換の Gemini ビジネス API 代理サービス
+ * [onyx](https://github.com/rmourey26/onyx) - Input: NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' Security Headers Score + RBAC + Resend + CRUD operations + admin dashboard + OpenAI playgrouOutput: NextJS 14 + Supabase SSR 認証＆PostgreSQL DB + Shadcn-UI + TanStack React Query + Vercel サーバーレス関数用の Rust ランタイム準備完了 + React Hook Form + Zod + 'A' セキュリティヘッダースコア + RBAC + Resend + CRUD 操作 + 管理者ダッシュボード + OpenAI プレイグラウンド
+ * [lobehub](https://github.com/lobehub/lobehub) - 仕事と生活のための究極のスペース-一緒に成長するエージェントチームと協力して見つけ、構築、協力するためのスペース。私たちはエージェントハーネスを次のレベルに引き上げています-マルチエージェントの協力、効率的なエージェントチームの設計、エージェントを導入する。
 
 
 ## Others
@@ -2513,5 +2530,6 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * 🔥 [skybridge](https://github.com/alpic-ai/skybridge) - ⭐ 419 / SkybridgeはChatGPTアプリを構築するためのフレームワークです。
  * 🔥 [manifest](https://github.com/mnfst/manifest) - ⭐ 3.3k / ChatGPTアプリを構築するためのShadcn/uiコンポーネントライブラリ
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 414 / Microsoftエージェントアイデンティティのサンプルを入力し、AIエージェントが自律エージェントとして、またはユーザーの代わりに下流のAPIを呼び出すことを可能にします。
+ * [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - 一括Teamアカウント管理
 
 

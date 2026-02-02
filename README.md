@@ -16,16 +16,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+
 **Chatbots**
- * [Wegent](https://github.com/wecode-ai/wegent) - An open-source AI-native operating system to define, organize, and run intelligent agent teams
+ * [openwhispr](https://github.com/openwhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models. Privacy-first and available cross-platform.
 
 
 **NLP**
- * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - A minimal yet powerful framework for creating AI agents with full control over tools, providers, and execution flow.
- * [XianTu](https://github.com/qianye60/xiantu) - "Immortal Path" AI-driven immersive cultivation text adventure game, based on Vue 3 + TypeScript + Fastapi, supports multiple AI models such as Gemini/Claude/OpenAI
+ * [convoviz](https://github.com/mohamed-chs/convoviz) - Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs.
 
 
-_Updated on January 29, 2026_ (A total of 2413 repositories listed.)
+**Openai**
+ * [onyx](https://github.com/rmourey26/onyx) - NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' Security Headers Score + RBAC + Resend + CRUD operations + admin dashboard + OpenAI playground, and more. Deploy on Vercel and get your scalable MVP running in days.
+ * [lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+
+
+**Others**
+ * [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - 一站式Team账号管理
+
+
+_Updated on February 02, 2026_ (A total of 2419 repositories listed.)
 
 ## Table of contents
 
@@ -135,6 +147,7 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * 🔥 [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) - ⭐ 186 / 🔴 VERY LARGE AI TOOL LIST! 🔴  Curated list of AI Tools  - Updated September 2025
  * [hive](https://github.com/adenhq/hive) - Outcome driven agent development framework that evolves
  * [awesome-slash](https://github.com/avifenesh/awesome-slash) - Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.
+ * [prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 
 ## Prompts
@@ -678,6 +691,7 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * ✅ [Alice](https://github.com/pmbstyle/alice) - ⭐ 222 / Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, function calling, MCP support, optional fully local use, and more.
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 404 / This project is a digital human that can talk and listen to you. It uses OpenAI's GPT to generate responses, OpenAI's Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.
  * [Wegent](https://github.com/wecode-ai/wegent) - An open-source AI-native operating system to define, organize, and run intelligent agent teams
+ * [openwhispr](https://github.com/openwhispr/openwhispr) - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models. Privacy-first and available cross-platform.
 
 
 ## Browser-extensions
@@ -1574,6 +1588,7 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * [llmgateway](https://github.com/theopenco/llmgateway) - Route, manage, and analyze your LLM requests across multiple providers with a unified API interface.
  * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - A minimal yet powerful framework for creating AI agents with full control over tools, providers, and execution flow.
  * [XianTu](https://github.com/qianye60/xiantu) - "Immortal Path" AI-driven immersive cultivation text adventure game, based on Vue 3 + TypeScript + Fastapi, supports multiple AI models such as Gemini/Claude/OpenAI
+ * [convoviz](https://github.com/mohamed-chs/convoviz) - Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs.
 
 
 ## Langchain
@@ -2071,6 +2086,8 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * 🔥 [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - ⭐ 582 / OpenAI-compatible API for Gemini Business with multi-account load balancing and image generation | 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成
  * 🔥 [q2api](https://github.com/cassiopeiacode/q2api) - ⭐ 227 / Amazon Q to API Bridge：一个使用 FastAPI 实现的桥接服务，将 Amazon Q Developer 变成兼容 OpenAI Chat Completions 和 Claude Messages 的 API，支持多账号管理、随机负载均衡和流式响应。
  * 🔥 [business2api](https://github.com/xxxxteam/business2api) - ⭐ 332 / OpenAI/Gemini 兼容的 Gemini Business API 代理服务
+ * [onyx](https://github.com/rmourey26/onyx) - NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' Security Headers Score + RBAC + Resend + CRUD operations + admin dashboard + OpenAI playground, and more. Deploy on Vercel and get your scalable MVP running in days.
+ * [lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
 
 ## Others
@@ -2513,5 +2530,6 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * 🔥 [skybridge](https://github.com/alpic-ai/skybridge) - ⭐ 419 / Skybridge is a framework for building ChatGPT apps
  * 🔥 [manifest](https://github.com/mnfst/manifest) - ⭐ 3.3k / Shadcn/ui components library for building ChatGPT Apps
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 414 / Samples for Microsoft agent identities enabling AI agents to call downstream APIs as autonomous agents, or on behalf of users.
+ * [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - 一站式Team账号管理
 
 

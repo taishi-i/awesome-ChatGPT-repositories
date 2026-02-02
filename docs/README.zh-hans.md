@@ -16,16 +16,28 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [prompts.chat](https://github.com/f/prompts.chat) - 又名令人惊叹的ChatGPT提示。与社区分享、发现和收集提示。免费且开源-为您的组织自行托管，完全保护隐私。
+
+
 **Chatbots**
- * [Wegent](https://github.com/wecode-ai/wegent) - 一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。
+ * [openwhispr](https://github.com/openwhispr/openwhispr) - 语音转文本的应用程序，具有本地（Nvidia Parakeet/Whisper）和云模型。以隐私为先，可在各个平台上使用。
 
 
 **NLP**
- * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - 一个简洁而强大的框架，用于创建具有对工具、提供者和执行流程的完全控制的AI代理。
- * [XianTu](https://github.com/qianye60/xiantu) - “不朽之路”是一款基于Vue 3 + TypeScript + Fastapi的AI驱动沉浸式修炼文字冒险游戏，支持多种AI模型，如Gemini/Claude/OpenAI。
+ * [convoviz](https://github.com/mohamed-chs/convoviz) - 将您的ChatGPT导出文件（ZIP）转换为干净的Markdown文本文件，包含内联媒体，并生成词云和使用图表等数据可视化。
 
 
-_Updated on January 29, 2026_ (A total of 2413 repositories listed.)
+**Openai**
+ * [onyx](https://github.com/rmourey26/onyx) - NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' 安全头部分数 + RBAC + 重新发送 + CRUD 操作 + 管理员仪表板 + OpenAI 游乐场
+ * [lobehub](https://github.com/lobehub/lobehub) - 工作和生活的终极空间 - 找到、建立和与代理团队合作，与您一起成长。我们正在将代理利用提升到一个新水平 - 实现多代理协作、轻松设计代理团队，并将代理引入其中。
+
+
+**Others**
+ * [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - 一站式团队账号管理
+
+
+_Updated on February 02, 2026_ (A total of 2419 repositories listed.)
 
 ## Table of contents
 
@@ -135,6 +147,7 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * 🔥 [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) - ⭐ 186 / 🔴非常庞大的人工智能工具清单！🔴 精选的人工智能工具清单 - 更新至2025年9月
  * [hive](https://github.com/adenhq/hive) - 以结果为导向的代理开发框架不断演进
  * [awesome-slash](https://github.com/avifenesh/awesome-slash) - Claude Code、OpenCode和Codex CLI的插件和技能。29个自主代理用于工作流自动化、代码审查、错误检测、PR管理、漂移检测等。
+ * [prompts.chat](https://github.com/f/prompts.chat) - 又名令人惊叹的ChatGPT提示。与社区分享、发现和收集提示。免费且开源-为您的组织自行托管，完全保护隐私。
 
 
 ## Prompts
@@ -678,6 +691,7 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * ✅ [Alice](https://github.com/pmbstyle/alice) - ⭐ 222 / Alice是一个使用Vue.js、Vite和Electron构建的语音优先桌面AI助手应用程序。具有先进的记忆系统、函数调用、MCP支持、可选择的完全本地使用等功能。
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 404 / 这个项目是一个数字人类，可以与您交谈并倾听您说话。它使用OpenAI的GPT生成回复，OpenAI的Whisper转录音频，Eleven Labs生成声音，以及Rhubarb Lip Sync生成嘴唇同步。
  * [Wegent](https://github.com/wecode-ai/wegent) - 一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。
+ * [openwhispr](https://github.com/openwhispr/openwhispr) - 语音转文本的应用程序，具有本地（Nvidia Parakeet/Whisper）和云模型。以隐私为先，可在各个平台上使用。
 
 
 ## Browser-extensions
@@ -1574,6 +1588,7 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * [llmgateway](https://github.com/theopenco/llmgateway) - 使用统一的API接口，跨多个提供商路由、管理和分析您的LLM请求。
  * [zypher-agent](https://github.com/corespeed-io/zypher-agent) - 一个简洁而强大的框架，用于创建具有对工具、提供者和执行流程的完全控制的AI代理。
  * [XianTu](https://github.com/qianye60/xiantu) - “不朽之路”是一款基于Vue 3 + TypeScript + Fastapi的AI驱动沉浸式修炼文字冒险游戏，支持多种AI模型，如Gemini/Claude/OpenAI。
+ * [convoviz](https://github.com/mohamed-chs/convoviz) - 将您的ChatGPT导出文件（ZIP）转换为干净的Markdown文本文件，包含内联媒体，并生成词云和使用图表等数据可视化。
 
 
 ## Langchain
@@ -2071,6 +2086,8 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * 🔥 [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - ⭐ 582 / 将 Gemini Business 转为 OpenAI 兼容接口，支持多账户负载均衡与图像生成
  * 🔥 [q2api](https://github.com/cassiopeiacode/q2api) - ⭐ 227 / 亚马逊Q到API桥接：一个使用FastAPI实现的桥接服务，将亚马逊Q开发者变成兼容OpenAI聊天完成和克劳德消息的API，支持多账号管理、随机负载均衡和流式响应。
  * 🔥 [business2api](https://github.com/xxxxteam/business2api) - ⭐ 332 / OpenAI/Gemini 兼容的 Gemini 商业 API 代理服务
+ * [onyx](https://github.com/rmourey26/onyx) - NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' 安全头部分数 + RBAC + 重新发送 + CRUD 操作 + 管理员仪表板 + OpenAI 游乐场
+ * [lobehub](https://github.com/lobehub/lobehub) - 工作和生活的终极空间 - 找到、建立和与代理团队合作，与您一起成长。我们正在将代理利用提升到一个新水平 - 实现多代理协作、轻松设计代理团队，并将代理引入其中。
 
 
 ## Others
@@ -2513,5 +2530,6 @@ _Updated on January 29, 2026_ (A total of 2413 repositories listed.)
  * 🔥 [skybridge](https://github.com/alpic-ai/skybridge) - ⭐ 419 / Skybridge是用于构建ChatGPT应用程序的框架。
  * 🔥 [manifest](https://github.com/mnfst/manifest) - ⭐ 3.3k / Shadcn/ui组件库，用于构建ChatGPT应用程序
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 414 / 用于微软代理身份的样本，使AI代理能够作为自主代理调用下游API，或代表用户调用。
+ * [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - 一站式团队账号管理
 
 

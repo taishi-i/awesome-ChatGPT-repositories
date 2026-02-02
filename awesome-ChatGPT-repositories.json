@@ -2356,6 +2356,39 @@
                     "zh-hans": "Claude Code、OpenCode和Codex CLI的插件和技能。29个自主代理用于工作流自动化、代码审查、错误检测、PR管理、漂移检测等。",
                     "zh-hant": "Claude Code、OpenCode和Codex CLI的插件和技能。29個自主代理用於工作流自動化、代碼審查、懈怠檢測、PR管理、漂移檢測等。"
                 }
+            },
+            "https://github.com/f/prompts.chat": {
+                "repository_name": "prompts.chat",
+                "user_name": "f",
+                "language": "TypeScript",
+                "license": "Creative Commons Zero v1.0 Universal",
+                "description": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+                "topics": [
+                    "ai",
+                    "artificial-intelligence",
+                    "awesome-list",
+                    "chatgpt",
+                    "chatgpt-prompts",
+                    "claude",
+                    "gemini",
+                    "gpt",
+                    "gpt-4",
+                    "llm",
+                    "machine-learning",
+                    "nextjs",
+                    "open-source",
+                    "openai",
+                    "prompt-engineering",
+                    "prompts",
+                    "prompts-chat",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+                    "ja": "a.k.a. オーサムチャットGPTプロンプト。コミュニティからプロンプトを共有、発見、収集。無料でオープンソース-完全なプライバシーを持つ組織用に自己ホスト化できます。",
+                    "zh-hans": "又名令人惊叹的ChatGPT提示。与社区分享、发现和收集提示。免费且开源-为您的组织自行托管，完全保护隐私。",
+                    "zh-hant": "又名令人敬畏的ChatGPT提示。與社區分享、發現和收集提示。免費且開源-為您的組織自行託管，完全保護隱私。"
+                }
             }
         },
         "Prompts": {
@@ -15622,6 +15655,36 @@
                     "ja": "オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。",
                     "zh-hans": "一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。",
                     "zh-hant": "一個開源的AI原生操作系統，用於定義、組織和運行智能代理團隊。"
+                }
+            },
+            "https://github.com/openwhispr/openwhispr": {
+                "repository_name": "openwhispr",
+                "user_name": "OpenWhispr",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models. Privacy-first and available cross-platform.",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "cross-platform",
+                    "gemini",
+                    "groq",
+                    "linux",
+                    "macos",
+                    "nvidia",
+                    "open-source",
+                    "openai",
+                    "parakeet",
+                    "speech-to-text",
+                    "transcribe",
+                    "whisper",
+                    "windows"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models. Privacy-first and available cross-platform.",
+                    "ja": "ローカル（Nvidia Parakeet/Whisper）およびクラウドモデルを備えた音声テキスト変換アプリ。プライバシー第一主義でクロスプラットフォームで利用可能。",
+                    "zh-hans": "语音转文本的应用程序，具有本地（Nvidia Parakeet/Whisper）和云模型。以隐私为先，可在各个平台上使用。",
+                    "zh-hant": "具有本地（Nvidia Parakeet/Whisper）和雲端模型的語音轉文字應用程序。以隱私為先，並可跨平台使用。"
                 }
             }
         },
@@ -35988,6 +36051,31 @@
                     "zh-hans": "“不朽之路”是一款基于Vue 3 + TypeScript + Fastapi的AI驱动沉浸式修炼文字冒险游戏，支持多种AI模型，如Gemini/Claude/OpenAI。",
                     "zh-hant": "\"仙途\" AI 驅動的沉浸式修煉文字冒險遊戲，基於 Vue 3 + TypeScript + Fastapi，支持多個 AI 模型，如 Gemini/Claude/OpenAI"
                 }
+            },
+            "https://github.com/mohamed-chs/convoviz": {
+                "repository_name": "convoviz",
+                "user_name": "mohamed-chs",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs.",
+                "topics": [
+                    "chatgpt",
+                    "conversations",
+                    "export",
+                    "history",
+                    "json",
+                    "markdown",
+                    "obsidian",
+                    "openai",
+                    "python",
+                    "zip"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs.",
+                    "ja": "ChatGPTエクスポート（ZIP）をクリーンなMarkdownテキストファイルに変換し、インラインメディアを含め、ワードクラウドや使用グラフなどのデータ可視化を生成します。",
+                    "zh-hans": "将您的ChatGPT导出文件（ZIP）转换为干净的Markdown文本文件，包含内联媒体，并生成词云和使用图表等数据可视化。",
+                    "zh-hant": "將您的ChatGPT匯出文件（ZIP）轉換為乾淨的Markdown文本文件，並生成包含內嵌媒體的資料視覺化，如文字雲和使用圖表。"
+                }
             }
         },
         "Langchain": {
@@ -47019,6 +47107,68 @@
                     "zh-hans": "OpenAI/Gemini 兼容的 Gemini 商业 API 代理服务",
                     "zh-hant": "OpenAI/Gemini 兼容的 Gemini 商業 API 代理服務"
                 }
+            },
+            "https://github.com/rmourey26/onyx": {
+                "repository_name": "onyx",
+                "user_name": "rmourey26",
+                "language": "TypeScript",
+                "license": null,
+                "description": "NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' Security Headers Score + RBAC + Resend + CRUD operations + admin dashboard + OpenAI playground, and more. Deploy on Vercel and get your scalable MVP running in days. ",
+                "topics": [
+                    "chatgpt",
+                    "dashboard",
+                    "nextjs14",
+                    "openai",
+                    "podcast",
+                    "postgres",
+                    "react-hook-form",
+                    "resend-email-api",
+                    "role-based-access-control",
+                    "rust",
+                    "server-actions",
+                    "shadcn-ui",
+                    "supabase-auth",
+                    "supabase-db",
+                    "supabase-ssr",
+                    "supabase-storage",
+                    "tailwind-css",
+                    "tanstack-react-query",
+                    "typescript",
+                    "zod"
+                ],
+                "multilingual_descriptions": {
+                    "en": "NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' Security Headers Score + RBAC + Resend + CRUD operations + admin dashboard + OpenAI playgrou",
+                    "ja": "Input: NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' Security Headers Score + RBAC + Resend + CRUD operations + admin dashboard + OpenAI playgrouOutput: NextJS 14 + Supabase SSR 認証＆PostgreSQL DB + Shadcn-UI + TanStack React Query + Vercel サーバーレス関数用の Rust ランタイム準備完了 + React Hook Form + Zod + 'A' セキュリティヘッダースコア + RBAC + Resend + CRUD 操作 + 管理者ダッシュボード + OpenAI プレイグラウンド",
+                    "zh-hans": "NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' 安全头部分数 + RBAC + 重新发送 + CRUD 操作 + 管理员仪表板 + OpenAI 游乐场",
+                    "zh-hant": "NextJS 14 + Supabase SSR 認證和 PostgreSQL 數據庫 + Shadcn-UI + TanStack React Query + Rust 運行時為 Vercel 無服務器功能準備 + React Hook Form + Zod + 'A' 安全標頭分數 + RBAC + 重發 + CRUD 操作 + 管理員儀表板 + OpenAI 遊樂場"
+                }
+            },
+            "https://github.com/lobehub/lobehub": {
+                "repository_name": "lobehub",
+                "user_name": "lobehub",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+                "topics": [
+                    "agent",
+                    "agent-collaboration",
+                    "agent-harness",
+                    "ai",
+                    "chatgpt",
+                    "claude",
+                    "deepseek",
+                    "gemini",
+                    "gpt",
+                    "knowledge-base",
+                    "mcp",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the",
+                    "ja": "仕事と生活のための究極のスペース-一緒に成長するエージェントチームと協力して見つけ、構築、協力するためのスペース。私たちはエージェントハーネスを次のレベルに引き上げています-マルチエージェントの協力、効率的なエージェントチームの設計、エージェントを導入する。",
+                    "zh-hans": "工作和生活的终极空间 - 找到、建立和与代理团队合作，与您一起成长。我们正在将代理利用提升到一个新水平 - 实现多代理协作、轻松设计代理团队，并将代理引入其中。",
+                    "zh-hant": "工作和生活的最終空間-與與您一起成長的代理團隊找到、建立和合作。我們正在將代理利用提升到下一個水平-實現多代理協作、輕鬆代理團隊設計，並將代理引入。"
+                }
             }
         },
         "Others": {
@@ -55382,6 +55532,20 @@
                     "ja": "Microsoftエージェントアイデンティティのサンプルを入力し、AIエージェントが自律エージェントとして、またはユーザーの代わりに下流のAPIを呼び出すことを可能にします。",
                     "zh-hans": "用于微软代理身份的样本，使AI代理能够作为自主代理调用下游API，或代表用户调用。",
                     "zh-hant": "用於啟用AI代理呼叫下游API的Microsoft代理身份的樣本，作為自主代理或代表用戶。"
+                }
+            },
+            "https://github.com/kylsky/chatgpt-team-helper": {
+                "repository_name": "chatgpt-team-helper",
+                "user_name": "Kylsky",
+                "language": "Vue",
+                "license": "ISC License",
+                "description": "一站式Team账号管理",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "One-stop Team account management",
+                    "ja": "一括Teamアカウント管理",
+                    "zh-hans": "一站式团队账号管理",
+                    "zh-hant": "一站式Team帳號管理"
                 }
             }
         }
