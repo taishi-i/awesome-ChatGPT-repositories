@@ -6621,6 +6621,36 @@
                     "zh-hans": "ChatGPT提示的编译来自AIPRM",
                     "zh-hant": "AIPRM中ChatGPT提示的編譯"
                 }
+            },
+            "https://github.com/teilomillet/gollm": {
+                "repository_name": "gollm",
+                "user_name": "teilomillet",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions.",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "dspy",
+                    "genai",
+                    "generative-ai",
+                    "generative-ai-tools",
+                    "go",
+                    "golang",
+                    "groq",
+                    "language-model",
+                    "llm",
+                    "openai",
+                    "prompt-engineering",
+                    "prompt-optimization",
+                    "structured-output"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions.",
+                    "ja": "言語モデル（LLM）プロバイダー向けの統一されたGoインターフェース。柔軟なプロンプト管理と共通のタスク機能により、LLMの統合が簡素化されます。",
+                    "zh-hans": "统一的Go接口，用于语言模型（LLM）提供商。简化LLM与灵活提示管理和常见任务功能的集成。",
+                    "zh-hant": "統一的Go介面，用於語言模型（LLM）提供者。 簡化LLM與靈活提示管理和常見任務功能的整合。"
+                }
             }
         },
         "Chatbots": {
@@ -36076,6 +36106,33 @@
                     "zh-hans": "将您的ChatGPT导出文件（ZIP）转换为干净的Markdown文本文件，包含内联媒体，并生成词云和使用图表等数据可视化。",
                     "zh-hant": "將您的ChatGPT匯出文件（ZIP）轉換為乾淨的Markdown文本文件，並生成包含內嵌媒體的資料視覺化，如文字雲和使用圖表。"
                 }
+            },
+            "https://github.com/jerryzliu/dayflow": {
+                "repository_name": "Dayflow",
+                "user_name": "JerryZLiu",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "Generate a timeline of your day, automatically",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "llm",
+                    "lmstudio",
+                    "ollama",
+                    "productivity",
+                    "productivity-tools",
+                    "swift",
+                    "time",
+                    "timeline"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Generate a timeline of your day, automatically",
+                    "ja": "自動的に1日のタイムラインを生成します。",
+                    "zh-hans": "生成您一天的时间表，自动化",
+                    "zh-hant": "自動生成您一天的時間軸"
+                }
             }
         },
         "Langchain": {
@@ -40331,6 +40388,37 @@
                     "ja": "大量のテキストをLLM、Ollama、OpenAI、Gemini、およびOpenRouter APIを使用して翻訳するために設計されたPythonスクリプト",
                     "zh-hans": "一个设计用于使用LLM、Ollama、OpenAI、Gemini和OpenRouter API翻译大量文本的Python脚本。",
                     "zh-hant": "一個設計用於使用LLM、Ollama、OpenAI、Gemini和OpenRouter API翻譯大量文本的Python腳本。"
+                }
+            },
+            "https://github.com/hydropix/translatebookswithllms": {
+                "repository_name": "TranslateBooksWithLLMs",
+                "user_name": "hydropix",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Translate full-length books and documents with Ollama, OpenAI (comptabible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.",
+                "topics": [
+                    "docx",
+                    "epub",
+                    "gemini",
+                    "gemini-api",
+                    "llm",
+                    "lmstudio",
+                    "local-llm",
+                    "localization-tool",
+                    "mistral",
+                    "ollama",
+                    "openai-api",
+                    "openrouter",
+                    "poe",
+                    "srt-subtitles",
+                    "translation",
+                    "translation-tool"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Translate full-length books and documents with Ollama, OpenAI (comptabible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.",
+                    "ja": "Ollama、OpenAI（comptabible）、Gemini、Mistral、Poe、またはOpenRouterを使用して、フルレングスの本や文書を翻訳します。フォーマットを保持します。中断したところから再開します。ファイルサイズ制限はありません。",
+                    "zh-hans": "使用Ollama、OpenAI（兼容）、Gemini、Mistral、Poe或OpenRouter翻译完整的书籍和文件。保留格式。从您离开的地方恢复。没有文件大小限制。",
+                    "zh-hant": "使用Ollama、OpenAI（兼容）、Gemini、Mistral、Poe或OpenRouter翻譯完整的書籍和文件。保留格式。從您離開的地方繼續。沒有文件大小限制。"
                 }
             }
         },
