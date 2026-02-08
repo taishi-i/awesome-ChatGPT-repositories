@@ -36133,6 +36133,65 @@
                     "zh-hans": "生成您一天的时间表，自动化",
                     "zh-hant": "自動生成您一天的時間軸"
                 }
+            },
+            "https://github.com/strands-agents/sdk-typescript": {
+                "repository_name": "sdk-typescript",
+                "user_name": "strands-agents",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "A model-driven approach to building AI agents in just a few lines of code. ",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "autonomous-agents",
+                    "bedrock",
+                    "genai",
+                    "javascript",
+                    "llm",
+                    "machine-learning",
+                    "mcp",
+                    "multi-agent-systems",
+                    "openai",
+                    "opentelemetry",
+                    "strands-agents",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A model-driven approach to building AI agents in just a few lines of code.",
+                    "ja": "コード数行でAIエージェントを構築するモデル駆動アプローチ。",
+                    "zh-hans": "一种基于模型驱动的方法，仅需几行代码即可构建AI代理。",
+                    "zh-hant": "一種以模型驅動的方法，在僅需幾行代碼中建立AI代理。"
+                }
+            },
+            "https://github.com/blockrunai/clawrouter": {
+                "repository_name": "ClawRouter",
+                "user_name": "BlockRunAI",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "anthropic",
+                    "cost-optimization",
+                    "crypto",
+                    "deepseek",
+                    "gemini",
+                    "llm",
+                    "llm-router",
+                    "micropayments",
+                    "openai",
+                    "openclaw",
+                    "smart-routing",
+                    "usdc",
+                    "x402"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.",
+                    "ja": "スマートLLMルーター-推論コストを78%節約。30以上のモデル、1つのウォレット、x402のマイクロペイメント。",
+                    "zh-hans": "智能LLM路由器-推理成本节省78%。30多种模型，一个钱包，x402微支付。",
+                    "zh-hant": "智能LLM路由器-推理成本節省78%。30多個模型，一個錢包，x402微支付。"
+                }
             }
         },
         "Langchain": {
