@@ -16,12 +16,11 @@
 
 ## The latest additions 🎉
 
-**NLP**
- * [sdk-typescript](https://github.com/strands-agents/sdk-typescript) - コード数行でAIエージェントを構築するモデル駆動アプローチ。
- * [ClawRouter](https://github.com/blockrunai/clawrouter) - スマートLLMルーター-推論コストを78%節約。30以上のモデル、1つのウォレット、x402のマイクロペイメント。
+**Chatbots**
+ * [chatjs](https://github.com/franciscomoretti/chatjs) - 本番向けのAIチャットテンプレート。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
 
 
-_Updated on February 09, 2026_ (A total of 2424 repositories listed.)
+_Updated on February 12, 2026_ (A total of 2425 repositories listed.)
 
 ## Table of contents
 
@@ -677,6 +676,7 @@ _Updated on February 09, 2026_ (A total of 2424 repositories listed.)
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 412 / このプロジェクトは、あなたと話し合い、聞き取ることができるデジタルヒューマンです。OpenAIのGPTを使用して応答を生成し、OpenAIのWhisperを使用してオーディオを転写し、Eleven Labsを使用して声を生成し、Rhubarb Lip Syncを使用して口パクを生成します。
  * 🔥 [Wegent](https://github.com/wecode-ai/wegent) - ⭐ 387 / オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。
  * 🔥 [openwhispr](https://github.com/openwhispr/openwhispr) - ⭐ 1.1k / ローカル（Nvidia Parakeet/Whisper）およびクラウドモデルを備えた音声テキスト変換アプリ。プライバシー第一主義でクロスプラットフォームで利用可能。
+ * [chatjs](https://github.com/franciscomoretti/chatjs) - 本番向けのAIチャットテンプレート。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
 
 
 ## Browser-extensions

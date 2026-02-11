@@ -16,12 +16,11 @@
 
 ## The latest additions 🎉
 
-**NLP**
- * [sdk-typescript](https://github.com/strands-agents/sdk-typescript) - 一种基于模型驱动的方法，仅需几行代码即可构建AI代理。
- * [ClawRouter](https://github.com/blockrunai/clawrouter) - 智能LLM路由器-推理成本节省78%。30多种模型，一个钱包，x402微支付。
+**Chatbots**
+ * [chatjs](https://github.com/franciscomoretti/chatjs) - 生产就绪的AI聊天模板。从这里开始，让它成为你自己的。原名Sparka AI
 
 
-_Updated on February 09, 2026_ (A total of 2424 repositories listed.)
+_Updated on February 12, 2026_ (A total of 2425 repositories listed.)
 
 ## Table of contents
 
@@ -677,6 +676,7 @@ _Updated on February 09, 2026_ (A total of 2424 repositories listed.)
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 412 / 这个项目是一个数字人类，可以与您交谈并倾听您说话。它使用OpenAI的GPT生成回复，OpenAI的Whisper转录音频，Eleven Labs生成声音，以及Rhubarb Lip Sync生成嘴唇同步。
  * 🔥 [Wegent](https://github.com/wecode-ai/wegent) - ⭐ 387 / 一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。
  * 🔥 [openwhispr](https://github.com/openwhispr/openwhispr) - ⭐ 1.1k / 语音转文本的应用程序，具有本地（Nvidia Parakeet/Whisper）和云模型。以隐私为先，可在各个平台上使用。
+ * [chatjs](https://github.com/franciscomoretti/chatjs) - 生产就绪的AI聊天模板。从这里开始，让它成为你自己的。原名Sparka AI
 
 
 ## Browser-extensions

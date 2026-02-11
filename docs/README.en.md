@@ -16,12 +16,11 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**NLP**
- * [sdk-typescript](https://github.com/strands-agents/sdk-typescript) - A model-driven approach to building AI agents in just a few lines of code.
- * [ClawRouter](https://github.com/blockrunai/clawrouter) - Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
+**Chatbots**
+ * [chatjs](https://github.com/franciscomoretti/chatjs) - Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI
 
 
-_Updated on February 09, 2026_ (A total of 2424 repositories listed.)
+_Updated on February 12, 2026_ (A total of 2425 repositories listed.)
 
 ## Table of contents
 
@@ -677,6 +676,7 @@ _Updated on February 09, 2026_ (A total of 2424 repositories listed.)
  * ✅ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 412 / This project is a digital human that can talk and listen to you. It uses OpenAI's GPT to generate responses, OpenAI's Whisper to transcript the audio, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.
  * 🔥 [Wegent](https://github.com/wecode-ai/wegent) - ⭐ 387 / An open-source AI-native operating system to define, organize, and run intelligent agent teams
  * 🔥 [openwhispr](https://github.com/openwhispr/openwhispr) - ⭐ 1.1k / Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models. Privacy-first and available cross-platform.
+ * [chatjs](https://github.com/franciscomoretti/chatjs) - Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI
 
 
 ## Browser-extensions
