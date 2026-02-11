@@ -15716,6 +15716,34 @@
                     "zh-hans": "语音转文本的应用程序，具有本地（Nvidia Parakeet/Whisper）和云模型。以隐私为先，可在各个平台上使用。",
                     "zh-hant": "具有本地（Nvidia Parakeet/Whisper）和雲端模型的語音轉文字應用程序。以隱私為先，並可跨平台使用。"
                 }
+            },
+            "https://github.com/franciscomoretti/chatjs": {
+                "repository_name": "chatjs",
+                "user_name": "FranciscoMoretti",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "gemini-ai",
+                    "grok",
+                    "llm",
+                    "multiprovider",
+                    "openai",
+                    "xai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI",
+                    "ja": "本番向けのAIチャットテンプレート。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。",
+                    "zh-hans": "生产就绪的AI聊天模板。从这里开始，让它成为你自己的。原名Sparka AI",
+                    "zh-hant": "生產就緒的AI聊天模板。從這裡開始，讓它成為您自己的。原名Sparka AI"
+                }
             }
         },
         "Browser-extensions": {
