@@ -17,10 +17,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Chatbots**
- * [chatjs](https://github.com/franciscomoretti/chatjs) - Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI
+ * [NagaAgent](https://github.com/rtgs2017/nagaagent) - A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.
+ * [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
 
 
-_Updated on February 12, 2026_ (A total of 2425 repositories listed.)
+**CLIs**
+ * [yutu](https://github.com/eat-pray-ai/yutu) - A fully functional MCP server and CLI for YouTube
+
+
+**NLP**
+ * [nodetool](https://github.com/nodetool-ai/nodetool) - Visual Builder for AI Workflows and Agents
+
+
+**Langchain**
+ * [honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
+ * [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.
+
+
+**Others**
+ * [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - Universal database MCP connector: supports 17 types of databases including MySQL, PostgreSQL, Oracle, MongoDB, etc., supports 50+ platforms such as Claude Desktop, Cursor, Windsurf, VS Code, ChatGPT, etc., for querying and analyzing data in natural language.
+
+
+_Updated on February 16, 2026_ (A total of 2432 repositories listed.)
 
 ## Table of contents
 
@@ -677,6 +695,8 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * 🔥 [Wegent](https://github.com/wecode-ai/wegent) - ⭐ 387 / An open-source AI-native operating system to define, organize, and run intelligent agent teams
  * 🔥 [openwhispr](https://github.com/openwhispr/openwhispr) - ⭐ 1.1k / Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models. Privacy-first and available cross-platform.
  * [chatjs](https://github.com/franciscomoretti/chatjs) - Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI
+ * [NagaAgent](https://github.com/rtgs2017/nagaagent) - A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.
+ * [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
 
 
 ## Browser-extensions
@@ -1118,6 +1138,7 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * ✅ [PSAI](https://github.com/dfinke/psai) - ⭐ 242 / PowerShell AI module. Think ChatGPT meets PowerShell - Includes Autonomous Agents
  * ✅ [zeroshot](https://github.com/covibes/zeroshot) - ⭐ 1.1k / Your autonomous engineering team in a CLI. Point Zeroshot at a GitHub issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, and Gemini CLI.
  * 🔥 [yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - ⭐ 245 / Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat.
+ * [yutu](https://github.com/eat-pray-ai/yutu) - A fully functional MCP server and CLI for YouTube
 
 
 ## Reimplementations
@@ -1577,6 +1598,7 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * [Dayflow](https://github.com/jerryzliu/dayflow) - Generate a timeline of your day, automatically
  * [sdk-typescript](https://github.com/strands-agents/sdk-typescript) - A model-driven approach to building AI agents in just a few lines of code.
  * [ClawRouter](https://github.com/blockrunai/clawrouter) - Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments.
+ * [nodetool](https://github.com/nodetool-ai/nodetool) - Visual Builder for AI Workflows and Agents
 
 
 ## Langchain
@@ -1752,6 +1774,8 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * 🔥 [deep-eye](https://github.com/zakirkun/deep-eye) - ⭐ 620 / An advanced AI-driven vulnerability scanner and penetration testing tool that integrates multiple AI providers (OpenAI, Grok, OLLAMA, Claude) with comprehensive security testing modules for automated bug hunting, intelligent payload generation, and profess
  * 🔥 [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - ⭐ 488 / A python script designed to translate large amounts of text with an LLM, Ollama, OpenAI, Gemini and OpenRouter API
  * [TranslateBooksWithLLMs](https://github.com/hydropix/translatebookswithllms) - Translate full-length books and documents with Ollama, OpenAI (comptabible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.
+ * [honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
+ * [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.
 
 
 ## Unity
@@ -2520,5 +2544,6 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * 🔥 [manifest](https://github.com/mnfst/manifest) - ⭐ 3.3k / Shadcn/ui components library for building ChatGPT Apps
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 414 / Samples for Microsoft agent identities enabling AI agents to call downstream APIs as autonomous agents, or on behalf of users.
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 488 / One-stop Team account management
+ * [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - Universal database MCP connector: supports 17 types of databases including MySQL, PostgreSQL, Oracle, MongoDB, etc., supports 50+ platforms such as Claude Desktop, Cursor, Windsurf, VS Code, ChatGPT, etc., for querying and analyzing data in natural language.
 
 
