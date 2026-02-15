@@ -17,10 +17,28 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [chatjs](https://github.com/franciscomoretti/chatjs) - 生产就绪的AI聊天模板。从这里开始，让它成为你自己的。原名Sparka AI
+ * [NagaAgent](https://github.com/rtgs2017/nagaagent) - 一个简单而强大的个人助理代理框架，旨在实现智能互动、多代理协作和无缝工具集成。
+ * [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - 一个Python机器人，可以根据您的偏好自动申请所有Linkedin、Glassdoor等Easy Apply工作。自动登录，自动填写额外问题，自动申请！
 
 
-_Updated on February 12, 2026_ (A total of 2425 repositories listed.)
+**CLIs**
+ * [yutu](https://github.com/eat-pray-ai/yutu) - 一个完全功能的MCP服务器和YouTube的CLI
+
+
+**NLP**
+ * [nodetool](https://github.com/nodetool-ai/nodetool) - AI工作流程和代理的可视化构建器
+
+
+**Langchain**
+ * [honcho](https://github.com/plastic-labs/honcho) - 用于构建有状态代理的内存库
+ * [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI和Anthropic兼容的苹果硅服务器。运行LLMs和视觉语言模型（Llama，Qwen-VL，LLaVA），支持连续批处理，MCP工具调用和多模态支持。本地MLX后端，每秒400个令牌。与Claude Code配合使用。
+
+
+**Others**
+ * [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据。
+
+
+_Updated on February 16, 2026_ (A total of 2432 repositories listed.)
 
 ## Table of contents
 
@@ -677,6 +695,8 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * 🔥 [Wegent](https://github.com/wecode-ai/wegent) - ⭐ 387 / 一个开源的AI原生操作系统，用于定义、组织和运行智能代理团队。
  * 🔥 [openwhispr](https://github.com/openwhispr/openwhispr) - ⭐ 1.1k / 语音转文本的应用程序，具有本地（Nvidia Parakeet/Whisper）和云模型。以隐私为先，可在各个平台上使用。
  * [chatjs](https://github.com/franciscomoretti/chatjs) - 生产就绪的AI聊天模板。从这里开始，让它成为你自己的。原名Sparka AI
+ * [NagaAgent](https://github.com/rtgs2017/nagaagent) - 一个简单而强大的个人助理代理框架，旨在实现智能互动、多代理协作和无缝工具集成。
+ * [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - 一个Python机器人，可以根据您的偏好自动申请所有Linkedin、Glassdoor等Easy Apply工作。自动登录，自动填写额外问题，自动申请！
 
 
 ## Browser-extensions
@@ -1118,6 +1138,7 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * ✅ [PSAI](https://github.com/dfinke/psai) - ⭐ 242 / PowerShell人工智能模块。想象ChatGPT遇到PowerShell-包括自主代理。
  * ✅ [zeroshot](https://github.com/covibes/zeroshot) - ⭐ 1.1k / 将您的自主工程团队放在CLI中。将Zeroshot指向GitHub问题，然后离开，返回时会得到生产级代码。支持Claude Code、OpenAI Codex和Gemini CLI。
  * 🔥 [yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - ⭐ 245 / 多功能的REPL/CLI管理器。具有并行会话、缓冲附件和跨语言支持的多种发送模式。Aider和OpenAI Codex的AI CLI集成。选择器支持、项目级配置、代码单元格文本对象和本地点重复。
+ * [yutu](https://github.com/eat-pray-ai/yutu) - 一个完全功能的MCP服务器和YouTube的CLI
 
 
 ## Reimplementations
@@ -1577,6 +1598,7 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * [Dayflow](https://github.com/jerryzliu/dayflow) - 生成您一天的时间表，自动化
  * [sdk-typescript](https://github.com/strands-agents/sdk-typescript) - 一种基于模型驱动的方法，仅需几行代码即可构建AI代理。
  * [ClawRouter](https://github.com/blockrunai/clawrouter) - 智能LLM路由器-推理成本节省78%。30多种模型，一个钱包，x402微支付。
+ * [nodetool](https://github.com/nodetool-ai/nodetool) - AI工作流程和代理的可视化构建器
 
 
 ## Langchain
@@ -1752,6 +1774,8 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * 🔥 [deep-eye](https://github.com/zakirkun/deep-eye) - ⭐ 620 / 一款先进的AI驱动的漏洞扫描器和渗透测试工具，集成了多个AI提供商（OpenAI、Grok、OLLAMA、Claude），具有全面的安全测试模块，可用于自动化漏洞搜索、智能负载生成和专业渗透测试。
  * 🔥 [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - ⭐ 488 / 一个设计用于使用LLM、Ollama、OpenAI、Gemini和OpenRouter API翻译大量文本的Python脚本。
  * [TranslateBooksWithLLMs](https://github.com/hydropix/translatebookswithllms) - 使用Ollama、OpenAI（兼容）、Gemini、Mistral、Poe或OpenRouter翻译完整的书籍和文件。保留格式。从您离开的地方恢复。没有文件大小限制。
+ * [honcho](https://github.com/plastic-labs/honcho) - 用于构建有状态代理的内存库
+ * [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAI和Anthropic兼容的苹果硅服务器。运行LLMs和视觉语言模型（Llama，Qwen-VL，LLaVA），支持连续批处理，MCP工具调用和多模态支持。本地MLX后端，每秒400个令牌。与Claude Code配合使用。
 
 
 ## Unity
@@ -2520,5 +2544,6 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * 🔥 [manifest](https://github.com/mnfst/manifest) - ⭐ 3.3k / Shadcn/ui组件库，用于构建ChatGPT应用程序
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 414 / 用于微软代理身份的样本，使AI代理能够作为自主代理调用下游API，或代表用户调用。
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 488 / 一站式团队账号管理
+ * [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据。
 
 

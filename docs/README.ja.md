@@ -17,10 +17,28 @@
 ## The latest additions 🎉
 
 **Chatbots**
- * [chatjs](https://github.com/franciscomoretti/chatjs) - 本番向けのAIチャットテンプレート。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
+ * [NagaAgent](https://github.com/rtgs2017/nagaagent) - 個人アシスタント向けのシンプルでパワフルなエージェントフレームワーク。知的なインタラクション、マルチエージェントの協力、シームレスなツールの統合を可能にするよう設計されています。
+ * [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - あなたの好みに基づいてLinkedin、GlassdoorなどのEasy Applyの仕事を自動的に申し込むPythonボット。自動ログイン、追加の質問を自動的に入力し、自動的に申し込みます！
 
 
-_Updated on February 12, 2026_ (A total of 2425 repositories listed.)
+**CLIs**
+ * [yutu](https://github.com/eat-pray-ai/yutu) - YouTubeのための完全に機能するMCPサーバーとCLI
+
+
+**NLP**
+ * [nodetool](https://github.com/nodetool-ai/nodetool) - AIワークフローとエージェントのためのビジュアルビルダー
+
+
+**Langchain**
+ * [honcho](https://github.com/plastic-labs/honcho) - 状態を持つエージェントを構築するためのメモリライブラリ
+ * [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAIとAnthropic互換のApple Silicon用サーバー。LLMsとビジョン言語モデル（Llama、Qwen-VL、LLaVA）を連続バッチ処理、MCPツール呼び出し、およびマルチモーダルサポートで実行します。ネイティブMLXバックエンド、400以上のトーク/秒。Claude Codeと連携します。
+
+
+**Others**
+ * [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - 汎用データベースMCPコネクタ：MySQL、PostgreSQL、Oracle、MongoDBなど17種類のデータベースをサポートし、Claude Desktop、Cursor、Windsurf、VS Code、ChatGPTなど50以上のプラットフォームをサポートし、自然言語でデータをクエリおよび分析します。
+
+
+_Updated on February 16, 2026_ (A total of 2432 repositories listed.)
 
 ## Table of contents
 
@@ -677,6 +695,8 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * 🔥 [Wegent](https://github.com/wecode-ai/wegent) - ⭐ 387 / オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。
  * 🔥 [openwhispr](https://github.com/openwhispr/openwhispr) - ⭐ 1.1k / ローカル（Nvidia Parakeet/Whisper）およびクラウドモデルを備えた音声テキスト変換アプリ。プライバシー第一主義でクロスプラットフォームで利用可能。
  * [chatjs](https://github.com/franciscomoretti/chatjs) - 本番向けのAIチャットテンプレート。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
+ * [NagaAgent](https://github.com/rtgs2017/nagaagent) - 個人アシスタント向けのシンプルでパワフルなエージェントフレームワーク。知的なインタラクション、マルチエージェントの協力、シームレスなツールの統合を可能にするよう設計されています。
+ * [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - あなたの好みに基づいてLinkedin、GlassdoorなどのEasy Applyの仕事を自動的に申し込むPythonボット。自動ログイン、追加の質問を自動的に入力し、自動的に申し込みます！
 
 
 ## Browser-extensions
@@ -1118,6 +1138,7 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * ✅ [PSAI](https://github.com/dfinke/psai) - ⭐ 242 / PowerShell AIモジュール。ChatGPTがPowerShellと出会うと考えてください - 自律エージェントを含む
  * ✅ [zeroshot](https://github.com/covibes/zeroshot) - ⭐ 1.1k / CLIで自律エンジニアリングチームを操作します。GitHubの問題にZeroshotを指し、離れてプロダクショングレードのコードに戻ります。Claude Code、OpenAI Codex、Gemini CLIをサポートしています。
  * 🔥 [yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - ⭐ 245 / 多目的なREPL/CLIマネージャー。並列セッション、バッファ添付ファイル、クロス言語サポートを備えた複数の送信モード。AiderとOpenAI CodexのためのAI CLI統合。ピッカーサポート、プロジェクトレベルの設定、コードセルテキストオブジェクト、ネイティブのドットリピート。
+ * [yutu](https://github.com/eat-pray-ai/yutu) - YouTubeのための完全に機能するMCPサーバーとCLI
 
 
 ## Reimplementations
@@ -1577,6 +1598,7 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * [Dayflow](https://github.com/jerryzliu/dayflow) - 自動的に1日のタイムラインを生成します。
  * [sdk-typescript](https://github.com/strands-agents/sdk-typescript) - コード数行でAIエージェントを構築するモデル駆動アプローチ。
  * [ClawRouter](https://github.com/blockrunai/clawrouter) - スマートLLMルーター-推論コストを78%節約。30以上のモデル、1つのウォレット、x402のマイクロペイメント。
+ * [nodetool](https://github.com/nodetool-ai/nodetool) - AIワークフローとエージェントのためのビジュアルビルダー
 
 
 ## Langchain
@@ -1752,6 +1774,8 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * 🔥 [deep-eye](https://github.com/zakirkun/deep-eye) - ⭐ 620 / 高度なAI駆動の脆弱性スキャナーおよびペネトレーションテストツールで、複数のAIプロバイダー（OpenAI、Grok、OLLAMA、Claude）を統合し、自動バグハンティング、インテリジェントペイロード生成、およびプロフェッショナル向けの包括的なセキュリティテストモジュールを備えています。
  * 🔥 [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - ⭐ 488 / 大量のテキストをLLM、Ollama、OpenAI、Gemini、およびOpenRouter APIを使用して翻訳するために設計されたPythonスクリプト
  * [TranslateBooksWithLLMs](https://github.com/hydropix/translatebookswithllms) - Ollama、OpenAI（comptabible）、Gemini、Mistral、Poe、またはOpenRouterを使用して、フルレングスの本や文書を翻訳します。フォーマットを保持します。中断したところから再開します。ファイルサイズ制限はありません。
+ * [honcho](https://github.com/plastic-labs/honcho) - 状態を持つエージェントを構築するためのメモリライブラリ
+ * [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAIとAnthropic互換のApple Silicon用サーバー。LLMsとビジョン言語モデル（Llama、Qwen-VL、LLaVA）を連続バッチ処理、MCPツール呼び出し、およびマルチモーダルサポートで実行します。ネイティブMLXバックエンド、400以上のトーク/秒。Claude Codeと連携します。
 
 
 ## Unity
@@ -2520,5 +2544,6 @@ _Updated on February 12, 2026_ (A total of 2425 repositories listed.)
  * 🔥 [manifest](https://github.com/mnfst/manifest) - ⭐ 3.3k / ChatGPTアプリを構築するためのShadcn/uiコンポーネントライブラリ
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 414 / Microsoftエージェントアイデンティティのサンプルを入力し、AIエージェントが自律エージェントとして、またはユーザーの代わりに下流のAPIを呼び出すことを可能にします。
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 488 / 一括Teamアカウント管理
+ * [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - 汎用データベースMCPコネクタ：MySQL、PostgreSQL、Oracle、MongoDBなど17種類のデータベースをサポートし、Claude Desktop、Cursor、Windsurf、VS Code、ChatGPTなど50以上のプラットフォームをサポートし、自然言語でデータをクエリおよび分析します。
 
 

@@ -15744,6 +15744,62 @@
                     "zh-hans": "生产就绪的AI聊天模板。从这里开始，让它成为你自己的。原名Sparka AI",
                     "zh-hant": "生產就緒的AI聊天模板。從這裡開始，讓它成為您自己的。原名Sparka AI"
                 }
+            },
+            "https://github.com/rtgs2017/nagaagent": {
+                "repository_name": "NagaAgent",
+                "user_name": "RTGS2017",
+                "language": "Python",
+                "license": "Other",
+                "description": "A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.",
+                "topics": [
+                    "agentic-ai",
+                    "agents",
+                    "mcp",
+                    "mcp-client",
+                    "openai",
+                    "openclaw",
+                    "toolcall"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.",
+                    "ja": "個人アシスタント向けのシンプルでパワフルなエージェントフレームワーク。知的なインタラクション、マルチエージェントの協力、シームレスなツールの統合を可能にするよう設計されています。",
+                    "zh-hans": "一个简单而强大的个人助理代理框架，旨在实现智能互动、多代理协作和无缝工具集成。",
+                    "zh-hant": "一個簡單但功能強大的個人助理代理框架，旨在實現智能互動、多代理協作和無縫工具集成。"
+                }
+            },
+            "https://github.com/wodsuz/easyapplyjobsbot": {
+                "repository_name": "EasyApplyJobsBot",
+                "user_name": "wodsuz",
+                "language": "Python",
+                "license": "Other",
+                "description": "A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!",
+                "topics": [
+                    "ai",
+                    "apply-jobs",
+                    "automated",
+                    "automation",
+                    "bot",
+                    "challenge",
+                    "chatgpt",
+                    "find-jobs",
+                    "glassdoor",
+                    "glassdoor-scraper",
+                    "indeed",
+                    "job",
+                    "jobs",
+                    "linkedin",
+                    "list-jobs",
+                    "python3",
+                    "selenium",
+                    "webscraping",
+                    "ziprecruiter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!",
+                    "ja": "あなたの好みに基づいてLinkedin、GlassdoorなどのEasy Applyの仕事を自動的に申し込むPythonボット。自動ログイン、追加の質問を自動的に入力し、自動的に申し込みます！",
+                    "zh-hans": "一个Python机器人，可以根据您的偏好自动申请所有Linkedin、Glassdoor等Easy Apply工作。自动登录，自动填写额外问题，自动申请！",
+                    "zh-hant": "一個Python機器人，可以根據您的偏好自動申請所有Linkedin、Glassdoor等Easy Apply工作。自動登錄，自動填寫額外問題，自動申請！"
+                }
             }
         },
         "Browser-extensions": {
@@ -26079,6 +26135,40 @@
                     "zh-hans": "多功能的REPL/CLI管理器。具有并行会话、缓冲附件和跨语言支持的多种发送模式。Aider和OpenAI Codex的AI CLI集成。选择器支持、项目级配置、代码单元格文本对象和本地点重复。",
                     "zh-hant": "多功能的 REPL/CLI 管理器。具有并行会话、缓冲附件和跨语言支持的多种发送模式。Aider 和 OpenAI Codex 的 AI CLI 集成。选择器支持、项目级配置、代码单元格文本对象和本地点重复。"
                 }
+            },
+            "https://github.com/eat-pray-ai/yutu": {
+                "repository_name": "yutu",
+                "user_name": "eat-pray-ai",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "A fully functional MCP server and CLI for YouTube",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "automation",
+                    "bot",
+                    "chatgpt",
+                    "claude",
+                    "cli",
+                    "cobra",
+                    "docker",
+                    "gemini",
+                    "golang",
+                    "linux",
+                    "macos",
+                    "mcp",
+                    "shorts",
+                    "skills",
+                    "video",
+                    "windows",
+                    "youtube"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A fully functional MCP server and CLI for YouTube",
+                    "ja": "YouTubeのための完全に機能するMCPサーバーとCLI",
+                    "zh-hans": "一个完全功能的MCP服务器和YouTube的CLI",
+                    "zh-hant": "一個完全功能的MCP伺服器和YouTube的CLI"
+                }
             }
         },
         "Reimplementations": {
@@ -36220,6 +36310,39 @@
                     "zh-hans": "智能LLM路由器-推理成本节省78%。30多种模型，一个钱包，x402微支付。",
                     "zh-hant": "智能LLM路由器-推理成本節省78%。30多個模型，一個錢包，x402微支付。"
                 }
+            },
+            "https://github.com/nodetool-ai/nodetool": {
+                "repository_name": "nodetool",
+                "user_name": "nodetool-ai",
+                "language": "TypeScript",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "Visual Builder for AI Workflows and Agents",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "automation",
+                    "comfyui",
+                    "flux",
+                    "gemma3",
+                    "gpt-oss",
+                    "huggingface",
+                    "llamacpp",
+                    "llm",
+                    "local-first",
+                    "mlx",
+                    "ollama",
+                    "openai",
+                    "qwen-image",
+                    "qwen3",
+                    "stable-diffusion"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Visual Builder for AI Workflows and Agents",
+                    "ja": "AIワークフローとエージェントのためのビジュアルビルダー",
+                    "zh-hans": "AI工作流程和代理的可视化构建器",
+                    "zh-hant": "視覺化建構工具，用於AI工作流程和代理程式"
+                }
             }
         },
         "Langchain": {
@@ -40506,6 +40629,76 @@
                     "ja": "Ollama、OpenAI（comptabible）、Gemini、Mistral、Poe、またはOpenRouterを使用して、フルレングスの本や文書を翻訳します。フォーマットを保持します。中断したところから再開します。ファイルサイズ制限はありません。",
                     "zh-hans": "使用Ollama、OpenAI（兼容）、Gemini、Mistral、Poe或OpenRouter翻译完整的书籍和文件。保留格式。从您离开的地方恢复。没有文件大小限制。",
                     "zh-hant": "使用Ollama、OpenAI（兼容）、Gemini、Mistral、Poe或OpenRouter翻譯完整的書籍和文件。保留格式。從您離開的地方繼續。沒有文件大小限制。"
+                }
+            },
+            "https://github.com/plastic-labs/honcho": {
+                "repository_name": "honcho",
+                "user_name": "plastic-labs",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": " Memory library for building stateful agents",
+                "topics": [
+                    "agent-memory",
+                    "ai",
+                    "ai-agents",
+                    "ai-memory",
+                    "anthropic",
+                    "context-engineering",
+                    "continual-learning",
+                    "embeddings",
+                    "fastapi",
+                    "langchain",
+                    "llm",
+                    "long-term-memory",
+                    "memory",
+                    "openai",
+                    "personalization",
+                    "python",
+                    "rag",
+                    "state-management",
+                    "typescript",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Memory library for building stateful agents",
+                    "ja": "状態を持つエージェントを構築するためのメモリライブラリ",
+                    "zh-hans": "用于构建有状态代理的内存库",
+                    "zh-hant": "建立有狀態代理的記憶庫"
+                }
+            },
+            "https://github.com/waybarrios/vllm-mlx": {
+                "repository_name": "vllm-mlx",
+                "user_name": "waybarrios",
+                "language": "Python",
+                "license": null,
+                "description": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.",
+                "topics": [
+                    "anthropic",
+                    "apple-silicon",
+                    "audio-processing",
+                    "claude-code",
+                    "computer-vision",
+                    "image-understanding",
+                    "inference",
+                    "llm",
+                    "machine-learning",
+                    "macos",
+                    "mllm",
+                    "mlx",
+                    "multimodal-ai",
+                    "speech-to-text",
+                    "stt",
+                    "text-to-speech",
+                    "tts",
+                    "video-understanding",
+                    "vision-language-model",
+                    "vllm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.",
+                    "ja": "OpenAIとAnthropic互換のApple Silicon用サーバー。LLMsとビジョン言語モデル（Llama、Qwen-VL、LLaVA）を連続バッチ処理、MCPツール呼び出し、およびマルチモーダルサポートで実行します。ネイティブMLXバックエンド、400以上のトーク/秒。Claude Codeと連携します。",
+                    "zh-hans": "OpenAI和Anthropic兼容的苹果硅服务器。运行LLMs和视觉语言模型（Llama，Qwen-VL，LLaVA），支持连续批处理，MCP工具调用和多模态支持。本地MLX后端，每秒400个令牌。与Claude Code配合使用。",
+                    "zh-hant": "OpenAI和Anthropic兼容的Apple Silicon服务器。运行LLMs和视觉语言模型（Llama，Qwen-VL，LLaVA），支持连续批处理，MCP工具调用和多模态支持。本地MLX后端，每秒400个令牌。与Claude Code配合使用。"
                 }
             }
         },
@@ -55721,6 +55914,20 @@
                     "ja": "一括Teamアカウント管理",
                     "zh-hans": "一站式团队账号管理",
                     "zh-hant": "一站式Team帳號管理"
+                }
+            },
+            "https://github.com/anarkh-lee/universal-db-mcp": {
+                "repository_name": "universal-db-mcp",
+                "user_name": "Anarkh-Lee",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Universal database MCP connector: supports 17 types of databases including MySQL, PostgreSQL, Oracle, MongoDB, etc., supports 50+ platforms such as Claude Desktop, Cursor, Windsurf, VS Code, ChatGPT, etc., for querying and analyzing data in natural language.",
+                    "ja": "汎用データベースMCPコネクタ：MySQL、PostgreSQL、Oracle、MongoDBなど17種類のデータベースをサポートし、Claude Desktop、Cursor、Windsurf、VS Code、ChatGPTなど50以上のプラットフォームをサポートし、自然言語でデータをクエリおよび分析します。",
+                    "zh-hans": "通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据。",
+                    "zh-hant": "通用數據庫 MCP 連接器：支援 MySQL、PostgreSQL、Oracle、MongoDB 等 17 種數據庫，支援 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然語言查詢和分析數據"
                 }
             }
         }
