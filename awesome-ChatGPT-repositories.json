@@ -15800,6 +15800,34 @@
                     "zh-hans": "一个Python机器人，可以根据您的偏好自动申请所有Linkedin、Glassdoor等Easy Apply工作。自动登录，自动填写额外问题，自动申请！",
                     "zh-hant": "一個Python機器人，可以根據您的偏好自動申請所有Linkedin、Glassdoor等Easy Apply工作。自動登錄，自動填寫額外問題，自動申請！"
                 }
+            },
+            "https://github.com/franciscomoretti/chat.js": {
+                "repository_name": "chat.js",
+                "user_name": "FranciscoMoretti",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Production-ready AI chat. Start here and make it your own. Formerly Sparka AI",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "gemini-ai",
+                    "grok",
+                    "llm",
+                    "multiprovider",
+                    "openai",
+                    "xai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Production-ready AI chat. Start here and make it your own. Formerly Sparka AI",
+                    "ja": "本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。",
+                    "zh-hans": "生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI",
+                    "zh-hant": "生產就緒的人工智慧聊天。從這裡開始，讓它成為你自己的。原名Sparka AI"
+                }
             }
         },
         "Browser-extensions": {
@@ -21362,6 +21390,99 @@
                     "zh-hans": "使用 Electron 34 和 React 构建的实时语音翻译应用程序，使用 OpenAI 的实时 API。",
                     "zh-hant": "使用 Electron 34 和 React 構建的即時語音翻譯應用程式，使用 OpenAI 的 Realtime API。"
                 }
+            },
+            "https://github.com/urzeye/ophel": {
+                "repository_name": "ophel",
+                "user_name": "urzeye",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+                "topics": [
+                    "ai-assistant",
+                    "ai-studio",
+                    "ai-workflow",
+                    "browser-extension",
+                    "chatgpt",
+                    "chrome-extension",
+                    "claude",
+                    "gemini",
+                    "grok",
+                    "long-conversation",
+                    "outline",
+                    "productivity",
+                    "prompt-management"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
+                    "ja": "AIの会話を整理された再利用可能なワークフローに変換し、主要なAIプラットフォーム全体で使用できるようにします。",
+                    "zh-hans": "将AI对话转化为有组织、可重复使用的工作流程-跨主要AI平台。",
+                    "zh-hant": "將 AI 對話轉化為組織化、可重複使用的工作流程 - 跨越主要的 AI 平台。"
+                }
+            },
+            "https://github.com/avifenesh/agentsys": {
+                "repository_name": "agentsys",
+                "user_name": "avifenesh",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "AI writes code. This automates everything else · 13 plugins · 42 agents · 28 skills · for Claude Code, OpenCode, Codex.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "anthropic",
+                    "automation",
+                    "autonomous-agents",
+                    "claude",
+                    "claude-code",
+                    "cli",
+                    "code-review",
+                    "codex",
+                    "devtools",
+                    "llm",
+                    "openai",
+                    "opencode",
+                    "plugins",
+                    "productivity",
+                    "skills",
+                    "slash-commands",
+                    "vibe-coding",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI writes code. This automates everything else · 13 plugins · 42 agents · 28 skills · for Claude Code, OpenCode, Codex.",
+                    "ja": "AIがコードを書きます。これにより、他のすべてが自動化されます·13のプラグイン·42のエージェント·28のスキル·Claude Code、OpenCode、Codex用。",
+                    "zh-hans": "AI编写代码。这自动化了其他所有事情 · 13个插件 · 42个代理 · 28种技能 · 适用于Claude Code，OpenCode，Codex。",
+                    "zh-hant": "AI 寫代碼。這自動化了其他所有事情 · 13個插件 · 42個代理 · 28個技能 · 適用於Claude Code，OpenCode，Codex。"
+                }
+            },
+            "https://github.com/can1357/oh-my-pi": {
+                "repository_name": "oh-my-pi",
+                "user_name": "can1357",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+                "topics": [
+                    "ai-agent",
+                    "ai-coding-agent",
+                    "anthropic",
+                    "bun",
+                    "claude",
+                    "cli",
+                    "coding-assistant",
+                    "llm",
+                    "mcp",
+                    "multi-provider",
+                    "openai",
+                    "rust",
+                    "terminal",
+                    "tui",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+                    "ja": "⌥ ターミナル用AIコーディングエージェント - ハッシュアンカー編集、最適化されたツールハーネス、LSP、Python、ブラウザ、サブエージェントなど",
+                    "zh-hans": "⌥ 终端AI编码代理 - 哈希锚定编辑，优化工具组合，LSP，Python，浏览器，子代理等",
+                    "zh-hant": "⌥ 終端機的AI編碼代理 - 哈希錨定的編輯、優化工具組、LSP、Python、瀏覽器、子代理等"
+                }
             }
         },
         "CLIs": {
@@ -26168,6 +26289,32 @@
                     "ja": "YouTubeのための完全に機能するMCPサーバーとCLI",
                     "zh-hans": "一个完全功能的MCP服务器和YouTube的CLI",
                     "zh-hant": "一個完全功能的MCP伺服器和YouTube的CLI"
+                }
+            },
+            "https://github.com/pocketpaw/pocketpaw": {
+                "repository_name": "pocketpaw",
+                "user_name": "pocketpaw",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.",
+                "topics": [
+                    "ai-agents",
+                    "cli",
+                    "jarvis-assistant",
+                    "multi-agent-systems",
+                    "ollama",
+                    "open-source",
+                    "personal-assistant",
+                    "python",
+                    "security",
+                    "self-hosted",
+                    "telegram-bot-ai-assistant"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.",
+                    "ja": "30秒であなたのAIエージェント。30時間ではありません。デスクトップインストーラー、マルチエージェントコマンドセンター（ディープワーク）、7層のセキュリティを備えたセルフホスト型のオープンソースの個人用AI。Anthropic、OpenAI、またはOllama。",
+                    "zh-hans": "您的AI代理在30秒内。不是30小时。自托管、开源的个人AI，带有桌面安装程序、多代理命令中心（深度工作）和7层安全性。Anthropic、OpenAI或Ollama。",
+                    "zh-hant": "您的AI代理在30秒内。不是30小时。自托管、开源的个人AI，带有桌面安装程序、多代理命令中心（深度工作）和7层安全性。Anthropic、OpenAI或Ollama。"
                 }
             }
         },
@@ -36342,6 +36489,71 @@
                     "ja": "AIワークフローとエージェントのためのビジュアルビルダー",
                     "zh-hans": "AI工作流程和代理的可视化构建器",
                     "zh-hant": "視覺化建構工具，用於AI工作流程和代理程式"
+                }
+            },
+            "https://github.com/aitenry/iims-by-ai": {
+                "repository_name": "IIMS-By-AI",
+                "user_name": "Aitenry",
+                "language": "Java",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "AI-Powered Intelligent Information Management Platform",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "archive",
+                    "deepseek",
+                    "java",
+                    "llm",
+                    "ollama",
+                    "openai",
+                    "springai",
+                    "springboot",
+                    "system",
+                    "typescript",
+                    "vite",
+                    "vue",
+                    "wiki"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-Powered Intelligent Information Management Platform",
+                    "ja": "AIを活用したインテリジェントな情報管理プラットフォーム",
+                    "zh-hans": "AI 动力智能信息管理平台",
+                    "zh-hant": "AI 強化的智能信息管理平台"
+                }
+            },
+            "https://github.com/lemony-ai/cascadeflow": {
+                "repository_name": "cascadeflow",
+                "user_name": "lemony-ai",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Smart AI model cascading for cost optimization",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "anthropic",
+                    "api",
+                    "budgets",
+                    "claude",
+                    "cost-optimization",
+                    "cost-transparency",
+                    "gpt",
+                    "huggingface",
+                    "llm",
+                    "model-cascading",
+                    "n8n",
+                    "ollama",
+                    "openai",
+                    "python",
+                    "sdk",
+                    "together-ai",
+                    "typescript",
+                    "vllm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Smart AI model cascading for cost optimization",
+                    "ja": "コスト最適化のためのスマートAIモデルのカスケード化",
+                    "zh-hans": "智能AI模型级联用于成本优化",
+                    "zh-hant": "智能AI模型串聯以進行成本優化"
                 }
             }
         },
@@ -47536,6 +47748,41 @@
                     "ja": "仕事と生活のための究極のスペース-一緒に成長するエージェントチームと協力して見つけ、構築、協力するためのスペース。私たちはエージェントハーネスを次のレベルに引き上げています-マルチエージェントの協力、効率的なエージェントチームの設計、エージェントを導入する。",
                     "zh-hans": "工作和生活的终极空间 - 找到、建立和与代理团队合作，与您一起成长。我们正在将代理利用提升到一个新水平 - 实现多代理协作、轻松设计代理团队，并将代理引入其中。",
                     "zh-hant": "工作和生活的最終空間-與與您一起成長的代理團隊找到、建立和合作。我們正在將代理利用提升到下一個水平-實現多代理協作、輕鬆代理團隊設計，並將代理引入。"
+                }
+            },
+            "https://github.com/deepmyst/mysti": {
+                "repository_name": "Mysti",
+                "user_name": "DeepMyst",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "agentic-coding",
+                    "agentic-workflow",
+                    "agents",
+                    "ai",
+                    "ai-agent",
+                    "ai-agents",
+                    "ai-coding",
+                    "claude-ai",
+                    "claude-code",
+                    "context-engineering",
+                    "gemini",
+                    "openai",
+                    "openai-codex",
+                    "openclaw",
+                    "vibe-coding",
+                    "visual-studio-code",
+                    "vscode",
+                    "vscode-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI coding dream team of agents for VS Code. Claude Code + openai Codex collaborate in brainstorm mode, debate solutions, and synthesize the best approach for your code.",
+                    "ja": "VS CodeのAIコーディングドリームチームのエージェント。クロードコードとOpenAI Codexがブレインストーミングモードで協力し、解決策を議論し、あなたのコードに最適なアプローチを統合します。",
+                    "zh-hans": "AI 编码梦之队代理人为 VS Code。克劳德代码 + openai Codex 在头脑风暴模式下合作，讨论解决方案，并综合出最佳的编码方法。",
+                    "zh-hant": "AI編碼夢幻團隊的代理人，適用於VS Code。克勞德代碼+openai Codex在腦力激盪模式下合作，辯論解決方案，並綜合出最佳的編碼方法。"
                 }
             }
         },
