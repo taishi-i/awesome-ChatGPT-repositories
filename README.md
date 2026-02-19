@@ -942,6 +942,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * [ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
  * [agentsys](https://github.com/avifenesh/agentsys) - AI writes code. This automates everything else · 13 plugins · 42 agents · 28 skills · for Claude Code, OpenCode, Codex.
  * [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+ * [taskade](https://github.com/taskade/taskade) - AI-native workspace platform with built-in AI agents, task automation, and real-time collaboration for teams.
 
 
 ## CLIs
