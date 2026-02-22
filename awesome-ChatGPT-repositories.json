@@ -6651,6 +6651,38 @@
                     "zh-hans": "统一的Go接口，用于语言模型（LLM）提供商。简化LLM与灵活提示管理和常见任务功能的集成。",
                     "zh-hant": "統一的Go介面，用於語言模型（LLM）提供者。 簡化LLM與靈活提示管理和常見任務功能的整合。"
                 }
+            },
+            "https://github.com/taskade/taskade": {
+                "repository_name": "taskade",
+                "user_name": "taskade",
+                "language": null,
+                "license": null,
+                "description": "The AI-native workspace platform. Build apps, deploy agents, automate workflows — from one prompt.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "automation",
+                    "chatbot",
+                    "collaboration",
+                    "generative-ai",
+                    "llm",
+                    "low-code",
+                    "mcp",
+                    "no-code",
+                    "productivity",
+                    "project-management",
+                    "real-time",
+                    "task-management",
+                    "taskade",
+                    "workflow",
+                    "workflow-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The AI-native workspace platform. Build apps, deploy agents, automate workflows — from one prompt.",
+                    "ja": "AIネイティブのワークスペースプラットフォーム。アプリを構築し、エージェントを展開し、ワークフローを自動化します。すべて1つのプロンプトから。",
+                    "zh-hans": "AI原生工作空间平台。构建应用程序，部署代理，自动化工作流程 — 从一个提示。",
+                    "zh-hant": "AI原生工作空間平台。從一個提示建立應用程式，部署代理，自動化工作流程。"
+                }
             }
         },
         "Chatbots": {
@@ -26316,6 +26348,20 @@
                     "zh-hans": "您的AI代理在30秒内。不是30小时。自托管、开源的个人AI，带有桌面安装程序、多代理命令中心（深度工作）和7层安全性。Anthropic、OpenAI或Ollama。",
                     "zh-hant": "您的AI代理在30秒内。不是30小时。自托管、开源的个人AI，带有桌面安装程序、多代理命令中心（深度工作）和7层安全性。Anthropic、OpenAI或Ollama。"
                 }
+            },
+            "https://github.com/yeachan-heo/oh-my-codex": {
+                "repository_name": "oh-my-codex",
+                "user_name": "Yeachan-Heo",
+                "language": "TypeScript",
+                "license": null,
+                "description": "OmX - Oh My Codex: Power tools for OpenAI Codex CLI",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OmX - Oh My Codex: Power tools for OpenAI Codex CLI",
+                    "ja": "OmX - Oh My Codex：OpenAI Codex CLIのパワーツール",
+                    "zh-hans": "OmX - Oh My Codex：OpenAI Codex CLI 的强大工具",
+                    "zh-hant": "OmX - 我的天啊Codex：OpenAI Codex CLI的強大工具"
+                }
             }
         },
         "Reimplementations": {
@@ -36554,6 +36600,34 @@
                     "ja": "コスト最適化のためのスマートAIモデルのカスケード化",
                     "zh-hans": "智能AI模型级联用于成本优化",
                     "zh-hant": "智能AI模型串聯以進行成本優化"
+                }
+            },
+            "https://github.com/wanxingai/lightagent": {
+                "repository_name": "LightAgent",
+                "user_name": "wanxingai",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.",
+                    "ja": "LightAgent: メモリ、ツール、思考の木を備えた軽量AIエージェントフレームワーク。マルチエージェントの協力、自己学習、主要なLLMs（OpenAI/DeepSeek/Qwen）をサポート。MCP/SSEプロトコル統合を備えたオープンソース。",
+                    "zh-hans": "LightAgent：轻量级AI代理框架，具有记忆、工具和思维树。支持多代理协作、自学习和主要LLMs（OpenAI/DeepSeek/Qwen）。采用MCP/SSE协议集成的开源。",
+                    "zh-hant": "輕量級AI代理框架LightAgent，具有記憶、工具和思維樹。支持多代理協作、自主學習和主要LLMs（OpenAI/DeepSeek/Qwen）。開源並集成MCP/SSE協議。"
+                }
+            },
+            "https://github.com/diegosouzapw/omniroute": {
+                "repository_name": "OmniRoute",
+                "user_name": "diegosouzapw",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.",
+                    "ja": "OmniRouteは、マルチプロバイダーLLM向けのAIゲートウェイです。スマートルーティング、ロードバランシング、リトライ、フォールバックを備えたOpenAI互換のエンドポイントです。信頼性とコスト意識の推論のためにポリシー、レート制限、キャッシング、および可観測性を追加してください。",
+                    "zh-hans": "OmniRoute是多供应商LLMs的AI网关：一个与OpenAI兼容的端点，具有智能路由、负载均衡、重试和备用功能。添加策略、速率限制、缓存和可观察性，以实现可靠、成本意识的推断。",
+                    "zh-hant": "OmniRoute是多供應商LLM的AI閘道：一個兼容OpenAI的端點，具有智能路由、負載平衡、重試和備用功能。添加策略、速率限制、緩存和可觀察性，以進行可靠、成本意識的推斷。"
                 }
             }
         },
@@ -47783,6 +47857,69 @@
                     "ja": "VS CodeのAIコーディングドリームチームのエージェント。クロードコードとOpenAI Codexがブレインストーミングモードで協力し、解決策を議論し、あなたのコードに最適なアプローチを統合します。",
                     "zh-hans": "AI 编码梦之队代理人为 VS Code。克劳德代码 + openai Codex 在头脑风暴模式下合作，讨论解决方案，并综合出最佳的编码方法。",
                     "zh-hant": "AI編碼夢幻團隊的代理人，適用於VS Code。克勞德代碼+openai Codex在腦力激盪模式下合作，辯論解決方案，並綜合出最佳的編碼方法。"
+                }
+            },
+            "https://github.com/decolua/9router": {
+                "repository_name": "9router",
+                "user_name": "decolua",
+                "language": "JavaScript",
+                "license": null,
+                "description": "Universal AI Proxy for Claude Code, Codex, Cursor | OpenAI, Claude, Gemini, Copilot",
+                "topics": [
+                    "9router",
+                    "antigravity",
+                    "claude-code",
+                    "cliproxyapi",
+                    "cursor",
+                    "vibecoding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Universal AI Proxy for Claude Code, Codex, Cursor | OpenAI, Claude, Gemini, Copilot",
+                    "ja": "クロードコード、コーデックス、カーソル用のユニバーサルAIプロキシ | OpenAI、クロード、ジェミニ、コパイロット",
+                    "zh-hans": "通用AI代理克劳德代码，密码，光标 | OpenAI，克劳德，双子座，合作伙伴",
+                    "zh-hant": "通用AI代理，適用於Claude Code、Codex、Cursor | OpenAI、Claude、Gemini、Copilot"
+                }
+            },
+            "https://github.com/alan345/ai-fullstack-saas-boilerplate": {
+                "repository_name": "AI-Fullstack-SaaS-Boilerplate",
+                "user_name": "alan345",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Fullstack SaaS Boilerplate built with tRPC, Fastify and React",
+                "topics": [
+                    "ai",
+                    "better-auth",
+                    "chat",
+                    "drizzle-orm",
+                    "fastify",
+                    "openai",
+                    "postgres",
+                    "react",
+                    "server-sent-events",
+                    "tailwind",
+                    "trpc",
+                    "typescipt",
+                    "zustand"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Fullstack SaaS Boilerplate built with tRPC, Fastify and React",
+                    "ja": "tRPC、Fastify、およびReactを使用して構築されたフルスタックSaaSボイラープレート",
+                    "zh-hans": "使用tRPC、Fastify和React构建的全栈SaaS脚手架",
+                    "zh-hant": "使用tRPC、Fastify和React構建的全棧SaaS樣板"
+                }
+            },
+            "https://github.com/laravel/ai": {
+                "repository_name": "ai",
+                "user_name": "laravel",
+                "language": "PHP",
+                "license": "MIT License",
+                "description": "The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.",
+                    "ja": "Laravel AI SDKは、OpenAI、Anthropic、GeminiなどのAIプロバイダーとやり取りするための統一された表現豊かなAPIを提供します。",
+                    "zh-hans": "Laravel AI SDK提供了一个统一的、富有表现力的API，用于与AI提供商（如OpenAI、Anthropic、Gemini等）进行交互。",
+                    "zh-hant": "Laravel AI SDK 提供了統一且表達性豐富的 API，用於與 AI 供應商（如 OpenAI、Anthropic、Gemini 等）進行交互。"
                 }
             }
         },

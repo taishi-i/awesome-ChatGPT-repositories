@@ -16,30 +16,26 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chat.js](https://github.com/franciscomoretti/chat.js) - 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
-
-
-**Browser-extensions**
- * [ophel](https://github.com/urzeye/ophel) - AIの会話を整理された再利用可能なワークフローに変換し、主要なAIプラットフォーム全体で使用できるようにします。
- * [agentsys](https://github.com/avifenesh/agentsys) - AIがコードを書きます。これにより、他のすべてが自動化されます·13のプラグイン·42のエージェント·28のスキル·Claude Code、OpenCode、Codex用。
- * [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ ターミナル用AIコーディングエージェント - ハッシュアンカー編集、最適化されたツールハーネス、LSP、Python、ブラウザ、サブエージェントなど
+**Prompts**
+ * [taskade](https://github.com/taskade/taskade) - AIネイティブのワークスペースプラットフォーム。アプリを構築し、エージェントを展開し、ワークフローを自動化します。すべて1つのプロンプトから。
 
 
 **CLIs**
- * [pocketpaw](https://github.com/pocketpaw/pocketpaw) - 30秒であなたのAIエージェント。30時間ではありません。デスクトップインストーラー、マルチエージェントコマンドセンター（ディープワーク）、7層のセキュリティを備えたセルフホスト型のオープンソースの個人用AI。Anthropic、OpenAI、またはOllama。
+ * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex：OpenAI Codex CLIのパワーツール
 
 
 **NLP**
- * [IIMS-By-AI](https://github.com/aitenry/iims-by-ai) - AIを活用したインテリジェントな情報管理プラットフォーム
- * [cascadeflow](https://github.com/lemony-ai/cascadeflow) - コスト最適化のためのスマートAIモデルのカスケード化
+ * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent: メモリ、ツール、思考の木を備えた軽量AIエージェントフレームワーク。マルチエージェントの協力、自己学習、主要なLLMs（OpenAI/DeepSeek/Qwen）をサポート。MCP/SSEプロトコル統合を備えたオープンソース。
+ * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRouteは、マルチプロバイダーLLM向けのAIゲートウェイです。スマートルーティング、ロードバランシング、リトライ、フォールバックを備えたOpenAI互換のエンドポイントです。信頼性とコスト意識の推論のためにポリシー、レート制限、キャッシング、および可観測性を追加してください。
 
 
 **Openai**
- * [Mysti](https://github.com/deepmyst/mysti) - VS CodeのAIコーディングドリームチームのエージェント。クロードコードとOpenAI Codexがブレインストーミングモードで協力し、解決策を議論し、あなたのコードに最適なアプローチを統合します。
+ * [9router](https://github.com/decolua/9router) - クロードコード、コーデックス、カーソル用のユニバーサルAIプロキシ | OpenAI、クロード、ジェミニ、コパイロット
+ * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - tRPC、Fastify、およびReactを使用して構築されたフルスタックSaaSボイラープレート
+ * [ai](https://github.com/laravel/ai) - Laravel AI SDKは、OpenAI、Anthropic、GeminiなどのAIプロバイダーとやり取りするための統一された表現豊かなAPIを提供します。
 
 
-_Updated on February 19, 2026_ (A total of 2440 repositories listed.)
+_Updated on February 23, 2026_ (A total of 2447 repositories listed.)
 
 ## Table of contents
 
@@ -59,7 +55,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
 ## Awesome-lists
 
  * 💤 [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - ⭐ 6.3k / ChatGPT APIを使用するだけでなく、ユーザーが独自のAPIキーを設定して、自分のクオータを無料でオンデマンドで使用できるようにするアプリやツールのキュレーションリスト。
- * 🔥 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ⭐ 145k / このリポジトリには、ChatGPTをより効果的に使用するためのChatGPTプロンプトのキュレーションが含まれています。
+ * 🔥 [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ⭐ 147k / このリポジトリには、ChatGPTをより効果的に使用するためのChatGPTプロンプトのキュレーションが含まれています。
  * ⚠️ [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - ⭐ 8.2k / ChatGPTとGPT-3の素晴らしいツール、デモ、ドキュメントの厳選リスト
  * 💤 [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - ⭐ 4.7k / ChatGPTの完全にオープンな代替リスト
  * 💤 [awesome-chatgpt-prompts-zh](https://github.com/plexpt/awesome-chatgpt-prompts-zh) - ⭐ 58k / ChatGPTの中国語調教ガイド。様々なシーンでの使用ガイド。あなたの言葉を聞かせる方法を学ぶ。
@@ -70,21 +66,21 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ⭐ 11k / ChatGPTの中国語ガイド、ChatGPTの中国語調教ガイド、指示ガイド、厳選されたリソースリスト、ChatGPTをより効果的に使用して生産性を向上させましょう！
  * 💤 [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) - ⭐ 2.4k / 🧠 ChatGPTの素晴らしいリソースの厳選リストです。ライブラリ、SDK、APIなどが含まれます。🌟このプロジェクトをサポートするために、スターをつけてください。
  * 💤 [awesome-gpt4](https://github.com/taranjeet/awesome-gpt4) - ⭐ 296 / GPT-4の素晴らしいリソース、ユースケース、デモの厳選リスト
- * ⚠️ [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - ⭐ 644 / LLMまたはGPTを使用した、素晴らしいセキュリティツール、実験的なケース、またはその他の興味深いものの厳選リスト。
+ * ⚠️ [awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) - ⭐ 645 / LLMまたはGPTを使用した、素晴らしいセキュリティツール、実験的なケース、またはその他の興味深いものの厳選リスト。
  * 💤 [Awesome-GPT4-Prompts](https://github.com/ora-sh/awesome-gpt4-prompts) - ⭐ 372 / 素晴らしいGPT4プロンプトのコレクション
- * 🔥 [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - ⭐ 6.1k / 🤖 OpenAIによって開発された人工知能チャットボットChatGPTの素晴らしいリスト
+ * ✅ [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - ⭐ 6.1k / 🤖 OpenAIによって開発された人工知能チャットボットChatGPTの素晴らしいリスト
  * 💤 [awesome-free-chatgpt](https://github.com/lilittlecat/awesome-free-chatgpt) - ⭐ 21k / 🆓無料のChatGPTミラーサイトのリスト、常に更新中。
- * 🔥 [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - ⭐ 1.5k / GPTプロンプトエンジニアリングのための素晴らしいリソース、ツール、その他の輝くものの厳選リスト。
+ * ✅ [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) - ⭐ 1.5k / GPTプロンプトエンジニアリングのための素晴らしいリソース、ツール、その他の輝くものの厳選リスト。
  * 💤 [awesome-chatgpt-prompts-cybersecurity](https://github.com/sechelper/awesome-chatgpt-prompts-cybersecurity) - ⭐ 66 / ネットワークセキュリティchatgptコマンドセット、chatgptをネットワークセキュリティ専門家にトレーニングする。
  * 💤 [awesome-ai](https://github.com/lencx/awesome-ai) - ⭐ 363 / 🤖 素晴らしい人工知能
  * 💤 [awesome-chatgpt-code-interpreter-experiments](https://github.com/skalskip/awesome-chatgpt-code-interpreter-experiments) - ⭐ 1k / ChatGPT + Code Interpreterコンボでできる素晴らしいこと 🔥
  * 💤 [awesome-ai](https://github.com/520hacker/awesome-ai) - ⭐ 393 / オープンソースAI転送シェルアプリのエコシステムについて研究し、オープンソースAI転送シェルアプリを収集し、比較します。ChatGPT、OPENAI.AZURE、BAIDU、XUNFEI
  * ⚠️ [Awesome-ChatGPT-AI-ZH](https://github.com/changeyu0229/awesome-chatgpt-ai-zh) - ⭐ repo not found / 全ネットで1000万以上の露出を受けた「AI知識ベース」が正式にGithubでオープンソース化され、永久に無料で更新され、ChatGPT、Midjourneyなどの使用方法が提供されています。
- * ⚠️ [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - ⭐ 609 / Awesome-LLM-Eval：ChatGPT、LLaMA、GLMなどの大規模言語モデルの評価に関するツール、デモ、論文、ドキュメントの厳選リスト
- * ⚠️ [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - ⭐ 760 / LLMの力を解放しましょう：これらのデータセットを使って独自のChatGPTをトレーニングしましょう！
+ * ⚠️ [Awesome-LLM-Eval](https://github.com/onejune2018/awesome-llm-eval) - ⭐ 612 / Awesome-LLM-Eval：ChatGPT、LLaMA、GLMなどの大規模言語モデルの評価に関するツール、デモ、論文、ドキュメントの厳選リスト
+ * ⚠️ [awesome-chatgpt-dataset](https://github.com/voidful/awesome-chatgpt-dataset) - ⭐ 761 / LLMの力を解放しましょう：これらのデータセットを使って独自のChatGPTをトレーニングしましょう！
  * 💤 [awesome-gpt](https://github.com/formulahendry/awesome-gpt) - ⭐ 1k / GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。GPT、ChatGPT、OpenAI、LLMなどに関連する素晴らしいプロジェクトとリソースの厳選リスト。
  * 💤 [awesome-instruction-dataset](https://github.com/yaodongc/awesome-instruction-dataset) - ⭐ 1.1k / 指示に従うためのオープンソースデータセットのコレクション（ChatGPT、LLaMA、Alpaca）
- * 🔥 [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - ⭐ 748 / 素晴らしいChatGPT関連プロジェクトの厳選リスト。
+ * 🔥 [awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) - ⭐ 750 / 素晴らしいChatGPT関連プロジェクトの厳選リスト。
  * 🔥 [Awesome-Prompt-Engineering](https://github.com/promptslab/awesome-prompt-engineering) - ⭐ 5.4k / このリポジトリには、Prompt Engineeringに焦点を当てたGenerative Pre-trained Transformer（GPT）、ChatGPT、PaLMなどの手動で選別されたリソースが含まれています。
  * ⚠️ [awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) - ⭐ 3.4k / 選りすぐりの生成AIツール、作品、モデル、参考文献のリスト
  * 💤 [awesome-open-gpt](https://github.com/ewingyangs/awesome-open-gpt) - ⭐ 6k / GPTに関連するオープンソースプロジェクトのコレクション、GPT関連のオープンソースプロジェクトのまとめ🚀、厳選🔥🔥
@@ -93,7 +89,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [awesome-segment-anything](https://github.com/hedlen/awesome-segment-anything) - ⭐ 1.7k / セグメントアニシングに関連する論文、プロジェクト、その他の情報を追跡して収集します。
  * 💤 [Awesome-AIGC-Tutorials](https://github.com/luban-agi/awesome-aigc-tutorials) - ⭐ 4.5k / 大規模言語モデル、AI絵画などのための厳選されたチュートリアルとリソース。
  * 💤 [awesome-gpts](https://github.com/taranjeet/awesome-gpts) - ⭐ 1.4k / コミュニティによって作成されたすべてのGPTのコレクション
- * 🔥 [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - ⭐ 1.7k / コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
+ * ✅ [prompt-in-context-learning](https://github.com/egoalpha/prompt-in-context-learning) - ⭐ 1.7k / コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。コンテキストに基づいた学習とプロンプトエンジニアリングのための素晴らしいリソース：ChatGPT、GPT-3、FlanT5などのLLMのマスタリーには最新かつ最先端のアップデートがあります。
  * 💤 [Awesome-GPT-Store](https://github.com/anil-matcha/awesome-gpt-store) - ⭐ 1.5k / カスタムGPTストア - 公開されている主要なGPTのコレクション
  * 🔥 [awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - ⭐ 1.1k / 🏆 ChatGPTの最高のリソース、ツール、アプリケーション、使用法の素晴らしいリスト
  * 💤 [BlackFriday-GPTs-Prompts](https://github.com/friuns2/blackfriday-gpts-prompts) - ⭐ 9.2k / 無料のGPT（Generative Pre-trained Transformer）のリスト（プラスのサブスクリプションが必要ないもの）
@@ -109,7 +105,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [awesome-chatgpt-project](https://github.com/xianyu110/awesome-chatgpt-project) - ⭐ 684 / 1.chatGPTの登録 2.chatGPTの完成プロジェクトの整理 3.chatGPTを効果的に使用するための小技 4.調整ガイド ↓デモサイト
  * 💤 [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) - ⭐ 2.2k / LLMパワードエージェントの素晴らしい点。論文/リポジトリ/ブログ/...
  * 💤 [awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - ⭐ 2.1k / GPTストアの素晴らしいGPTの厳選リスト
- * 🔥 [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - ⭐ 746 / 🤖 AIに関する実用的なリポジトリ、ツール、ウェブサイト、論文、チュートリアルを収集します。実用的なAIの宝箱 💎
+ * 🔥 [AiTreasureBox](https://github.com/superiorlu/aitreasurebox) - ⭐ 749 / 🤖 AIに関する実用的なリポジトリ、ツール、ウェブサイト、論文、チュートリアルを収集します。実用的なAIの宝箱 💎
  * 💤 [Awesome-LLM-Reasoning](https://github.com/atfortes/awesome-llm-reasoning) - ⭐ 3.5k / チェーンオブソート（CoT）、インストラクションチューニング、およびマルチモダリティを含む、言語モデル（LLM）に関する論文とリソースのコレクション。チェーンオブソート（CoT）、インストラクションチューニング、およびマルチモダリティに関する論文とリソースのコレクション。
  * 💤 [awesome-llm-and-aigc](https://github.com/codingonion/awesome-llm-and-aigc) - ⭐ 802 / 🚀🚀🚀大規模言語モデル、ビジョン基盤モデル、AI生成コンテンツに関する素晴らしいパブリックプロジェクトのコレクションです。
  * 💤 [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts) - ⭐ 7.3k / GPTストアのトップ評価GPTからのチャットGPTプロンプトの厳選リスト。
@@ -121,41 +117,41 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - ⭐ 4.3k / このリポジトリには、クロードをより効果的に使用するためのクロードプロンプトのキュレーションが含まれています。
  * 💤 [awesome-ai-sdks](https://github.com/e2b-dev/awesome-ai-sdks) - ⭐ 1.1k / 自律型AIエージェントを作成、監視、デバッグ、展開するためのSDK、フレームワーク、ライブラリ、ツールのデータベース
  * 💤 [awesome-claude-prompts](https://github.com/yzfly/awesome-claude-prompts) - ⭐ 4.3k / Gitalk コメント
- * 💤 [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ⭐ 950 / ChatGPT 中文コーパス ダイアログコーパス 小説コーパス カスタマーサポートコーパス 大規模モデルのトレーニングに使用
+ * 💤 [chatgpt-corpus](https://github.com/plexpt/chatgpt-corpus) - ⭐ 951 / ChatGPT 中文コーパス ダイアログコーパス 小説コーパス カスタマーサポートコーパス 大規模モデルのトレーニングに使用
  * 🔥 [awesome-gpt](https://github.com/awesome-gptx/awesome-gpt) - ⭐ 1.1k / 🏆 ChatGPTに関連する幅広いツール、文書、リソース、アプリケーション、使用例を網羅した感動的なコレクション。
- * 💤 [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - ⭐ 968 / 🏪 エージェントインデックス - これはLobeChatのエージェントインデックスです。 これはこのリポジトリからindex.jsonにアクセスして、LobeChatのエージェントマーケットに利用可能なエージェントのリストを表示します。
- * 🔥 [awesome-python](https://github.com/dylanhogg/awesome-python) - ⭐ 445 / 🐍 カテゴリ別に整理された、厳選された素晴らしいPythonライブラリとフレームワーク
- * ⚠️ [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - ⭐ 981 / 素晴らしいLLM（Large Language Models）を使用した役割演技とペルソナに関する厳選されたリソースのリスト: 割り当てられたペルソナと一緒に役割演技をするためのリソースのリスト
+ * 💤 [lobe-chat-agents](https://github.com/lobehub/lobe-chat-agents) - ⭐ 977 / 🏪 エージェントインデックス - これはLobeChatのエージェントインデックスです。 これはこのリポジトリからindex.jsonにアクセスして、LobeChatのエージェントマーケットに利用可能なエージェントのリストを表示します。
+ * ✅ [awesome-python](https://github.com/dylanhogg/awesome-python) - ⭐ 446 / 🐍 カテゴリ別に整理された、厳選された素晴らしいPythonライブラリとフレームワーク
+ * ⚠️ [awesome-llm-role-playing-with-persona](https://github.com/neph0s/awesome-llm-role-playing-with-persona) - ⭐ 982 / 素晴らしいLLM（Large Language Models）を使用した役割演技とペルソナに関する厳選されたリソースのリスト: 割り当てられたペルソナと一緒に役割演技をするためのリソースのリスト
  * 💤 [awesome-chatgpt-zh](https://github.com/embraceagi/awesome-chatgpt-zh) - ⭐ 11k / ChatGPTの中国語ガイド🔥、ChatGPTの中国語調教ガイド、指示ガイド、アプリ開発ガイド、厳選されたリソースリスト、ChatGPTをより効果的に活用して生産性を向上させましょう！🚀
  * 💤 [Awesome-Machine-Generated-Text](https://github.com/ictmcg/awesome-machine-generated-text) - ⭐ 231 / GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。GPTなどの生成LLMに関連するリソースの連続的に更新されるリストとその分析および検出。
  * ⚠️ [Awesome_GPT_Super_Prompting](https://github.com/cyberalbsecop/awesome_gpt_super_prompting) - ⭐ 3.7k / ChatGPTジェイルブレイク、GPTアシスタントプロンプトリーク、GPTプロンプトインジェクション、LLMプロンプトセキュリティ、スーパープロンプト、プロンプトハック、プロンプトセキュリティ、AIプロンプトエンジニアリング、敵対的機械学習。
  * 🔥 [lobe-chat-plugins](https://github.com/lobehub/lobe-chat-plugins) - ⭐ 271 / 🏪 プラグインインデックス - これはLobeChatのプラグインインデックスです。 これは、このリポジトリからindex.jsonにアクセスして、LobeChatの利用可能なプラグインのリストをユーザーに表示します。
  * ⚠️ [Awesome-LLM-Strawberry](https://github.com/hijkzzz/awesome-llm-strawberry) - ⭐ 6.9k / OpenAI o1および推論技術に焦点を当てたLLM論文、ブログ、およびプロジェクトのコレクション。
- * 🔥 [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - ⭐ 96k / OpenAI、Anthropic、Gemini、およびオープンソースモデルを使用した素晴らしいLLMアプリのコレクション。
- * 🔥 [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - ⭐ 7.5k / 🧑‍🚀 世界最高のLLMリソースの要約
+ * 🔥 [awesome-llm-apps](https://github.com/shubhamsaboo/awesome-llm-apps) - ⭐ 97k / OpenAI、Anthropic、Gemini、およびオープンソースモデルを使用した素晴らしいLLMアプリのコレクション。
+ * ✅ [awesome-LLM-resourses](https://github.com/wangrongsheng/awesome-llm-resourses) - ⭐ 7.5k / 🧑‍🚀 世界最高のLLMリソースの要約
  * 💤 [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - ⭐ 26k / AI自律エージェントのリスト
  * 💤 [Awesome-One-Click-Deployment](https://github.com/elricliu/awesome-one-click-deployment) - ⭐ 1.2k / 🪄 多くのGitHubオープンソースプロジェクトをワンクリックで展開し、迅速な体験を促進します 一键部署各种Github开源AI项目
  * 💤 [awesome-llm-and-aigc](https://github.com/coderonion/awesome-llm-and-aigc) - ⭐ 802 / 🚀🚀🚀大規模言語モデル（LLM）、ビジョン言語モデル（VLM）、ビジョン言語アクション（VLA）、AI生成コンテンツ（AIGC）に関するいくつかの素晴らしい公開プロジェクト、関連するデータセット、およびアプリケーションのコレクション。
- * ⚠️ [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - ⭐ 5.2k / 🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。
+ * 🔥 [awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - ⭐ 5.3k / 🧠 トップAIツール用のシステムプロンプトの厳選コレクション。AIエージェントビルダーやプロンプトエンジニアに最適です。ChatGPT、Claude、Perplexity、Manus、Claude-Code、Loveable、v0、Grok、same new、windsurf、notion、MetaAIを含む。
  * 💤 [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) - ⭐ 7.9k / OpenAIの最新モデルから、さまざまなAI生成アートスタイル（ジブリ、3Dなど）を探索できる素晴らしい厳選されたGPT-4o画像とプロンプト。
  * 🔥 [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) - ⭐ 2.2k / 🔊 OpenAIによって開発されたオープンソースのAIパワード音声認識システムWhisper用の素晴らしいリストWhisper用の素晴らしいリスト
- * 🔥 [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - ⭐ 7.5k / 🧑‍🚀 世界最高のLLMリソースの要約（エージェントフレームワーク、補助プログラミング、データ処理、モデルトレーニング、モデル推論、o1モデル、MCP、小さな言語モデル、ビジュアル言語モデル）
- * ⚠️ [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - ⭐ 3.1k / 📖 素晴らしいユーザースクリプトの厳選リスト。
- * 🔥 [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - ⭐ 392 / 🌌 Azure OpenAI、🦙 ラージランゲージモデル（RAG、Agentを含む）、メモ付きの参照リスト
+ * ✅ [awesome-LLM-resources](https://github.com/wangrongsheng/awesome-llm-resources) - ⭐ 7.5k / 🧑‍🚀 世界最高のLLMリソースの要約（エージェントフレームワーク、補助プログラミング、データ処理、モデルトレーニング、モデル推論、o1モデル、MCP、小さな言語モデル、ビジュアル言語モデル）
+ * 🔥 [awesome-userscripts](https://github.com/awesome-scripts/awesome-userscripts) - ⭐ 3.2k / 📖 素晴らしいユーザースクリプトの厳選リスト。
+ * ✅ [awesome-azure-openai-llm](https://github.com/kimtth/awesome-azure-openai-llm) - ⭐ 392 / 🌌 Azure OpenAI、🦙 ラージランゲージモデル（RAG、Agentを含む）、メモ付きの参照リスト
  * ⚠️ [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 23k / 🏆 素晴らしい機械学習Pythonライブラリのランク付けリスト。毎週更新されます。
  * ⚠️ [simple-openai](https://github.com/sashirestela/simple-openai) - ⭐ 373 / 最も簡単な方法でOpenAI Apiを使用するためのJavaライブラリ。
  * 🔥 [Memori](https://github.com/memorilabs/memori) - ⭐ 12k / LLMs、AIエージェント、マルチエージェントシステム向けのオープンソースメモリエンジン
  * ⚠️ [awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - ⭐ 317 / 素晴らしいChatGPTソフトウェアの厳選リスト。
  * 🔥 [awesome-ai-tools](https://github.com/eudk/awesome-ai-tools) - ⭐ 192 / 🔴非常に大きなAIツールリスト！🔴AIツールのキュレーションリスト - 2025年9月更新
- * 🔥 [hive](https://github.com/adenhq/hive) - ⭐ 7.8k / 成果主導型のエージェント開発フレームワークが進化します。
- * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 432 / Claude Code、OpenCode、Codex CLI用のプラグインとスキル。ワークフロー自動化、コードレビュー、スロップ検出、PR管理、ドリフト検出などのための29の自律エージェント。
- * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 145k / a.k.a. オーサムチャットGPTプロンプト。コミュニティからプロンプトを共有、発見、収集。無料でオープンソース-完全なプライバシーを持つ組織用に自己ホスト化できます。
+ * 🔥 [hive](https://github.com/adenhq/hive) - ⭐ 8.1k / 成果主導型のエージェント開発フレームワークが進化します。
+ * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 472 / Claude Code、OpenCode、Codex CLI用のプラグインとスキル。ワークフロー自動化、コードレビュー、スロップ検出、PR管理、ドリフト検出などのための29の自律エージェント。
+ * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 147k / a.k.a. オーサムチャットGPTプロンプト。コミュニティからプロンプトを共有、発見、収集。無料でオープンソース-完全なプライバシーを持つ組織用に自己ホスト化できます。
 
 
 ## Prompts
 
  * 💤 [gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - ⭐ 3k / コードリポジトリをLLMプロンプトに適した形式に変換します。主にGPT-4によって構築されています。
- * 🔥 [myGPTReader](https://github.com/madawei2699/mygptreader) - ⭐ 4.4k / myGPTReaderは、Slack上のボットで、電子書籍を含む任意のウェブページ、ドキュメント、さらにはYouTubeの動画を読み取り、要約することができます。音声を通じてあなたとコミュニケーションすることもできます。
+ * ✅ [myGPTReader](https://github.com/madawei2699/mygptreader) - ⭐ 4.4k / myGPTReaderは、Slack上のボットで、電子書籍を含む任意のウェブページ、ドキュメント、さらにはYouTubeの動画を読み取り、要約することができます。音声を通じてあなたとコミュニケーションすることもできます。
  * 💤 [PromptCraft-Robotics](https://github.com/microsoft/promptcraft-robotics) - ⭐ 2.1k / LLMをロボットに応用するコミュニティと、ChatGPT統合のロボットシミュレーター。
  * 💤 [chat-gpt-quine](https://github.com/fullthom/chat-gpt-quine) - ⭐ 127 / @realtimeai 数週間前に誰かがChatGPTを使って自己改善型のプロンプトを作ろうとしました。それはわずか11世代で病的なモードに崩壊しました。
  * 💤 [blender_jarvis](https://github.com/dene33/blender_jarvis) - ⭐ 65 / ChatGPTの助けを借りて、テキストプロンプトを介してBlenderを制御します。
@@ -163,10 +159,10 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [SchemaGPT](https://github.com/u-hubar/schemagpt) - ⭐ 69 / GPT-3の魔法を使ってプロンプトからRDFスキーマを生成するPythonライブラリ 🪄🪄🪄
  * 💤 [CaFo](https://github.com/zrrskywalker/cafo) - ⭐ 44 / [CVPR 2023] プロンプト、生成、そしてキャッシュ：ファウンデーションモデルのカスケードは強力なフューショット学習者を作り出す
  * 💤 [gpt3-interview-bot](https://github.com/promptable/gpt3-interview-bot) - ⭐ 23 / GPT3 インタビュー チャットボット
- * 💤 [ama_prompting](https://github.com/hazyresearch/ama_prompting) - ⭐ 548 / 何でも聞いてください言語モデルのプロンプト
+ * 💤 [ama_prompting](https://github.com/hazyresearch/ama_prompting) - ⭐ 547 / 何でも聞いてください言語モデルのプロンプト
  * ⚠️ [LMOps](https://github.com/microsoft/lmops) - ⭐ 4.3k / LLMsとMLLMsを使用したAI機能を可能にする一般的な技術
  * 💤 [bark](https://github.com/suno-ai/bark) - ⭐ 39k / 🔊 テキストに促された生成音声モデル
- * 🔥 [Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide) - ⭐ 70k / 🐙 迅速なエンジニアリングのためのガイド、論文、講義、ノートブック、およびリソース
+ * ✅ [Prompt-Engineering-Guide](https://github.com/dair-ai/prompt-engineering-guide) - ⭐ 71k / 🐙 迅速なエンジニアリングのためのガイド、論文、講義、ノートブック、およびリソース
  * 💤 [langchain-and-elevenlabs-with-pdf-analysis](https://github.com/unicornlaunching/langchain-and-elevenlabs-with-pdf-analysis) - ⭐ 38 / OpenAIとLangchain、ElevenLabsをどのように組み合わせて、PDFに包まれた知識の体系を使ってプロンプトに対する回答を発話させることができるでしょうか？
  * 💤 [promptr](https://github.com/ferrislucas/promptr) - ⭐ 945 / Promptrは、GPTを使用してコードベースを操作するためのCLIツールです。Promptrは、GPTのプロンプトに1つ以上のファイルを動的に含め、必要に応じてGPTが提案する変更をコードベースに解析して適用することができます。さまざまな目的のためにいくつかのプロンプトテンプレートが含まれており、ユーザーは独自のテンプレートを作成することができます。
  * 🔥 [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) - ⭐ 34k / ChatGPTのクローンで、公式モデルとBingを使用し、リバースエンジニアリングされたUI、AIモデルの切り替え、メッセージ検索、プロンプトテンプレート（WIP）を備えています。
@@ -174,27 +170,27 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [ChatGPT-Adventure](https://github.com/capnmidnight/chatgpt-adventure) - ⭐ 45 / ChatGPTにテキストアドベンチャーゲームを作成するための開始プロンプトを入力してください。
  * 💤 [chatgpt-text-to-midjourney-image](https://github.com/barretlee/chatgpt-text-to-midjourney-image) - ⭐ 149 / ChatGPTを使用してプロンプトを最適化し、Replicateに送信して画像を作成してください。
  * 💤 [Prompt-hunter](https://github.com/op7418/prompt-hunter) - ⭐ 439 / 中間旅程の詳細ページからプロンプトと画像をあなたのNotionページに保存してください。
- * 🔥 [chatbox](https://github.com/bin-huang/chatbox) - ⭐ 39k / Windows、Mac、Linuxに対応したChatGPT API（OpenAI API）のデスクトップアプリ。開発者向けの神器であるpromptをサポートし、全プラットフォームに対応しています。ダウンロードしてインストールするだけで利用可能です。
- * 🔥 [ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut) - ⭐ 7.8k / 効率と生産性を最大化しましょう。ChatGPTは生産力を倍増させるための便利なコマンドです。領域や機能に応じて分類され、キーワード検索や一括コピーなどが可能です。提示語にタグを付けて絞り込むこともできます。
+ * ✅ [chatbox](https://github.com/bin-huang/chatbox) - ⭐ 39k / Windows、Mac、Linuxに対応したChatGPT API（OpenAI API）のデスクトップアプリ。開発者向けの神器であるpromptをサポートし、全プラットフォームに対応しています。ダウンロードしてインストールするだけで利用可能です。
+ * ✅ [ChatGPT-Shortcut](https://github.com/rockbenben/chatgpt-shortcut) - ⭐ 7.9k / 効率と生産性を最大化しましょう。ChatGPTは生産力を倍増させるための便利なコマンドです。領域や機能に応じて分類され、キーワード検索や一括コピーなどが可能です。提示語にタグを付けて絞り込むこともできます。
  * 💤 [promptable](https://github.com/cfortuner/promptable) - ⭐ 1.8k / JavaScriptでLLMアプリを構築してください。🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀
  * 💤 [ChatGPT3-Free-Prompt-List](https://github.com/mattnigh/chatgpt3-free-prompt-list) - ⭐ 2.3k / ChatGPT3プロンプトの作成方法を学ぶための無料ガイド
  * 💤 [prompt-engine](https://github.com/microsoft/prompt-engine) - ⭐ 2.7k / Figmaを使用してアプリを作成する
- * 🔥 [ChatGPT-Siri](https://github.com/yue-yang/chatgpt-siri) - ⭐ 3.7k / ChatGPT API gpt-3.5-turboとgpt-4モデルを使用したSiriのショートカット。連続的な会話をサポートし、APIキーを設定してチャット記録を保存できます。システムプロンプトを設定することもできます。
+ * ✅ [ChatGPT-Siri](https://github.com/yue-yang/chatgpt-siri) - ⭐ 3.7k / ChatGPT API gpt-3.5-turboとgpt-4モデルを使用したSiriのショートカット。連続的な会話をサポートし、APIキーを設定してチャット記録を保存できます。システムプロンプトを設定することもできます。
  * 💤 [The-HustleGPT-Challenge](https://github.com/jtmuller5/the-hustlegpt-challenge) - ⭐ 2.1k / AI共同創業者とスタートアップを立ち上げる
  * 🔥 [docsgpt](https://github.com/arc53/docsgpt) - ⭐ 18k / 微調整を施した小さなモデルを作成する：エンジニアリング：後見プロンプトの連鎖-
  * 💤 [chatgpt-prompts](https://github.com/carterleffen/chatgpt-prompts) - ⭐ 261 / 以下は私が作成したプロンプトで、共有したいものです。
  * 💤 [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/chatgpt-data-science-prompts) - ⭐ 1.6k / ChatGPTのための有用なデータサイエンスのプロンプト60のリポジトリ
  * ⚠️ [CWK-ChatGPT-MidJourney-Prompt-Template](https://github.com/neobundy/cwk-chatgpt-midjourney-prompt-template) - ⭐ repo not found / cwk-chatgpt-midjourney-prompt-template v1.2おそらく最後のバージョン：23のプロンプトタイプがサポートされています。オブジェクト指向のアプローチに切り替えます：完全な書き直しです。ChatGPTとの互換性が向上します。リポジトリに1.2ライトブランチがあり、いくつかの機能が削除されています...
- * 💤 [chatgpt-prompts-bug-bounty](https://github.com/taksec/chatgpt-prompts-bug-bounty) - ⭐ 689 / ChatGPTのバグバウンティとペンテストのプロンプト
- * 💤 [Share-to-ChatGPT-Shortcut](https://github.com/reorx/share-to-chatgpt-shortcut) - ⭐ 337 / 個人的なプロンプトを使用して、テキストをChatGPTに共有するためのAppleショートカット
+ * 💤 [chatgpt-prompts-bug-bounty](https://github.com/taksec/chatgpt-prompts-bug-bounty) - ⭐ 692 / ChatGPTのバグバウンティとペンテストのプロンプト
+ * 💤 [Share-to-ChatGPT-Shortcut](https://github.com/reorx/share-to-chatgpt-shortcut) - ⭐ 338 / 個人的なプロンプトを使用して、テキストをChatGPTに共有するためのAppleショートカット
  * 💤 [ChatGPT-Prompts](https://github.com/prathamkumar14/chatgpt-prompts) - ⭐ 387 / AIが徐々に支配しています。以下は、ChatGPT/APIプロンプトの使用例であり、あなたの生産性を100％引き出すのに役立ちます。
  * 💤 [soren](https://github.com/jacksonmills/soren) - ⭐ 12 / SorenCAIはAIソフトウェアエンジニアのアシスタントプロンプトです。
- * 💤 [chatbot-injections-exploits](https://github.com/cranot/chatbot-injections-exploits) - ⭐ 393 / チャットボットのインジェクションとエクスプロイトの例：プロンプトエンジニアコマンドのキュレーションリスト - ChatGPT
+ * 💤 [chatbot-injections-exploits](https://github.com/cranot/chatbot-injections-exploits) - ⭐ 394 / チャットボットのインジェクションとエクスプロイトの例：プロンプトエンジニアコマンドのキュレーションリスト - ChatGPT
  * 🔥 [ai-notes](https://github.com/sw-yx/ai-notes) - ⭐ 6.2k / 新しいAIの開発に追いつくためのソフトウェアエンジニア向けのノート。lspace.swyx.ioのライティングや製品のブレストに役立つデータストアとして機能しますが、/Resourcesフォルダーの下にクリーンアップされた標準的な参照があります。
  * 💤 [squidgy-prompts](https://github.com/squidgyai/squidgy-prompts) - ⭐ 27 / #chatgpt と言語学習に興味はありますか？私たちは、学習者がデッキを構築し、文をマイニングし、文法を修正し、単語ゲームをプレイするためのオープンソースのプロンプトセットをリリースしました。単独で使用することも、@squidgiesapp で使用することもできます。
  * 💤 [ChatGPT_DAN](https://github.com/0xk1h0/chatgpt_dan) - ⭐ 11k / ChatGPT DAN、Jailbreaksのプロンプト
- * 💤 [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - ⭐ 252 / 研究作業のためのChatGPTの50のユースケース
- * 🔥 [FinGPT](https://github.com/ai4finance-foundation/fingpt) - ⭐ 19k / オープンファイナンスのためのオープンソース！革命を起こそう🔥
+ * 💤 [ResearchChatGPT](https://github.com/hollobit/researchchatgpt) - ⭐ 251 / 研究作業のためのChatGPTの50のユースケース
+ * ✅ [FinGPT](https://github.com/ai4finance-foundation/fingpt) - ⭐ 19k / オープンファイナンスのためのオープンソース！革命を起こそう🔥
  * 💤 [aish](https://github.com/aishell-io/aish) - ⭐ 124 / プロンプトとメッセージのためのローカルストレージを備えたChatGPT CLI。
  * ⚠️ [Mr.-Ranedeer-AI-Tutor](https://github.com/jushbjj/mr.-ranedeer-ai-tutor) - ⭐ 30k / カスタマイズ可能な個人に合わせた学習体験のためのGPT-4 AIチュータープロンプト。
  * 💤 [ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/githubdaily/chatgpt-prompt-engineering-for-developers-in-chinese) - ⭐ 2.1k / 「開発者向けのChatGPTプロンプトエンジニアリング」の非公式版英中字幕
@@ -208,15 +204,15 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [chain-of-thought-hub](https://github.com/franxyao/chain-of-thought-hub) - ⭐ 2.8k / チェーン・オブ・ソート・プロンプティングを用いた大規模言語モデルの複雑な推論能力のベンチマーク化
  * 💤 [ChatGPT-Admin-Web](https://github.com/aprilnea/chatgpt-admin-web) - ⭐ 3.3k / ChatGPT WebUIには、ユーザー管理とバックエンド管理システムが含まれています。
  * 💤 [powerplatform-prompts](https://github.com/pnp/powerplatform-prompts) - ⭐ 283 / このリポジトリには、Power Platformで使用するためのGPTモデルのプロンプト例のコレクションが含まれています。
- * ⚠️ [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - ⭐ 880 / LangChain LLMアプリケーション。チュータリングのタスクに対するダイナミックなフューショットメタプロンプティング。
+ * ⚠️ [tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - ⭐ 881 / LangChain LLMアプリケーション。チュータリングのタスクに対するダイナミックなフューショットメタプロンプティング。
  * 💤 [chat-gpt-games](https://github.com/admtal/chat-gpt-games) - ⭐ 311 / ChatGPTでプレイ可能なゲームのプロンプト
  * 💤 [TaskMatrix](https://github.com/microsoft/taskmatrix) - ⭐ 34k / @jksyaw @LangChainAI @FlowiseAI @bubble プロンプトが説明的で互いに区別できる場合、エージェントは多数のツールでまだ正常に動作すると理解しています。ツールのリストのサンプル使用については、MicrosoftのvisualChatGPTリポジトリをチェックしてください。100万個については確信が持てません...
  * 💤 [GPTWorld](https://github.com/srush/gptworld) - ⭐ 135 / 促進について学ぶためのパズル
  * 💤 [DemoGPT](https://github.com/melih-unsal/demogpt) - ⭐ 1.9k / ⚡ DemoGPTは、プロンプトを使用するだけで簡単にクイックデモを作成することができます。⚡ 🌟 星をつけて私たちの活動をサポートしてください！
  * 💤 [text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - ⭐ 314 / ChatGPTを使用してテキストプロンプトで生成されたNeovimのカラースキーム
  * ⚠️ [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - ⭐ 9.7k / `gpt-prompt-engineer`をご紹介します✍️最適なGPTプロンプトを作成するエージェントです。タスクを説明するだけで、AIシステムの連鎖が以下の手順で行います：- 多くの可能なプロンプトを生成します- ランキングトーナメントでそれらをテストします- 最も優れたプロンプトを返しますしかも、これはオープンソースです。
- * 💤 [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - ⭐ 152 / DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ
- * 💤 [gpt-runner](https://github.com/nicepkg/gpt-runner) - ⭐ 374 / ファイルとの会話！ AIプリセットを管理して実行しましょう！
+ * 💤 [prompt-engineering-for-javascript-developers](https://github.com/dabit3/prompt-engineering-for-javascript-developers) - ⭐ 151 / DeepLearning.aiによるChatGPTプロンプトエンジニアリングの要約メモ
+ * 💤 [gpt-runner](https://github.com/nicepkg/gpt-runner) - ⭐ 375 / ファイルとの会話！ AIプリセットを管理して実行しましょう！
  * ⚠️ [promptmap](https://github.com/utkusen/promptmap) - ⭐ 1.1k / ChatGPTインスタンスに対して自動的にプロンプトインジェクション攻撃をテストします。
  * ⚠️ [IntelliNode](https://github.com/barqawiz/intellinode) - ⭐ 272 / 統一されたプロンプトレイヤーとパフォーマンス評価を通じて、ChatGPT、LLaMA、Stable Diffusion、WaveNetなどの最新のAIモデルにアクセスします。
  * 💤 [tree-of-thought-prompting](https://github.com/dave1010/tree-of-thought-prompting) - ⭐ 814 / ツリーオブソートプロンプティングを使用して、ChatGPTの推論力を向上させる
@@ -229,11 +225,11 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [Get-Things-Done-with-Prompt-Engineering-and-LangChain](https://github.com/curiousily/get-things-done-with-prompt-engineering-and-langchain) - ⭐ 1.2k / LangChain＆Promptエンジニアリングチュートリアルは、ChatGPTなどの大規模言語モデル（LLM）に関するもので、カスタムデータを使用します。データのロードとインデックス作成、プロンプトテンプレートの作成、CSVエージェントの作成、およびカスタムデータへのクエリにリトリーバルQAチェーンを使用するためのJupyterノートブックがあります。PDFファイルを使用したチャット用のプライベートLLM（Llama 2）を使用したプロジェクトや、ツイートの感情分析に関するプロジェクトもあります。
  * 💤 [LearnPrompt](https://github.com/learnprompt/learnprompt) - ⭐ 2.3k / 永久無料のオープンソースのAIGCコース、現在はChatGPT、Midjourney、Runway、Stable Diffusion、AI数字人、AI声音＆音楽、大模型微調をサポートしています。
  * ⚠️ [IntelliNode](https://github.com/intelligentnode/intellinode) - ⭐ 272 / 統一されたプロンプトレイヤーとパフォーマンス評価を介して、ChatGPT、LLaMA、Diffusion、Hugging faceなどの最新のAIモデルにアクセスします。
- * 🔥 [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - ⭐ 392 / Azure OpenAI、OSS LLM 🌊1. ベクトルデータベースと🦙langchain 🔎2. RAG ChatGptデモ 3. Microsoft ♾️LLM 🌌ライブラリなど。
- * 💤 [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - ⭐ 249 / Streamlitを使用して構築されたChatGPTの対話アシスタントは、科学的なインターネット接続なしで使用でき、無料でクラウドに展開できます。複数のウィンドウ、音声通信、対話の保存、コンテキストのプリセット、およびパラメータの調整などの機能をサポートしています。
+ * ✅ [azure-openai-llm-vector-langchain](https://github.com/kimtth/azure-openai-llm-vector-langchain) - ⭐ 392 / Azure OpenAI、OSS LLM 🌊1. ベクトルデータベースと🦙langchain 🔎2. RAG ChatGptデモ 3. Microsoft ♾️LLM 🌌ライブラリなど。
+ * 💤 [ChatGPT-Assistant](https://github.com/pierxuy/chatgpt-assistant) - ⭐ 248 / Streamlitを使用して構築されたChatGPTの対話アシスタントは、科学的なインターネット接続なしで使用でき、無料でクラウドに展開できます。複数のウィンドウ、音声通信、対話の保存、コンテキストのプリセット、およびパラメータの調整などの機能をサポートしています。
  * 💤 [dev-chatgpt-prompts](https://github.com/pickleboxer/dev-chatgpt-prompts) - ⭐ 2.2k / 📚 開発者向けのChatGPTプロンプトの個人コレクション！
  * 💤 [prompta](https://github.com/iansinnott/prompta) - ⭐ 196 / キーボードを中心としたChatGPT UIで、モバイルにも対応し、チャット履歴をデバイス間で同期し、過去の会話を検索できます。
- * 🔥 [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ⭐ 421 / ChatGPT の Prompt のサンプルです。
+ * 🔥 [ChatGPT-Prompt-Sample-Japanese](https://github.com/dahatake/chatgpt-prompt-sample-japanese) - ⭐ 424 / ChatGPT の Prompt のサンプルです。
  * ⚠️ [chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts) - ⭐ 337 / 分類されたChatGPTの中国語ガイド全集。
  * 💤 [chat-gpt-prompts-from-aiprm-zh](https://github.com/adambear/chat-gpt-prompts-from-aiprm-zh) - ⭐ 96 / aiprmコミュニティからの2000以上のChatGPTのプロンプトを使用して、GPT3.5のAPIを使って中国語に翻訳しました。
  * 🔥 [botpress](https://github.com/botpress/botpress) - ⭐ 15k / GPT/LLMエージェントを構築・展開するためのオープンソースハブ ⚡️
@@ -245,54 +241,54 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [magentic](https://github.com/jackmpcollins/magentic) - ⭐ 2.4k / Python関数としてLLMsをシームレスに統合する
  * ⚠️ [chatgpt_system_prompt](https://github.com/louisshark/chatgpt_system_prompt) - ⭐ 10k / すべてのエージェントのシステムプロンプトを保存します。
  * ⚠️ [LangGPT](https://github.com/embraceagi/langgpt) - ⭐ 12k / LangGPT: すべての人がプロンプトのエキスパートになれるようにする！🚀  構造化されたプロンプト、GPTの言語、結構化されたプロンプト
- * 💤 [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - ⭐ 4.4k / このライティングプロンプトのリストは、様々なトピックやタスクをカバーしており、研究アイデアのブレインストーミング、言語やスタイルの改善、文献レビューの実施、研究計画の立案などが含まれています。
+ * 💤 [chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - ⭐ 4.5k / このライティングプロンプトのリストは、様々なトピックやタスクをカバーしており、研究アイデアのブレインストーミング、言語やスタイルの改善、文献レビューの実施、研究計画の立案などが含まれています。
  * 💤 [self-refine](https://github.com/madaan/self-refine) - ⭐ 782 / LLMは自分の仕事にフィードバックを生成し、それを使ってアウトプットを改善し、このプロセスを反復して繰り返すことができます。
  * 💤 [GPTs](https://github.com/linexjlin/gpts) - ⭐ 32k / GPTの漏洩したプロンプト
  * 💤 [multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - ⭐ 2.7k / 大規模なマルチモーダルモデル（GPT-4 Vision、LLaVA、CogVLMなど）に対する効果的なプロンプティング。🔥
  * 💤 [promptbench](https://github.com/microsoft/promptbench) - ⭐ 2.8k / 大規模言語モデルの統一評価フレームワーク
- * 💤 [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - ⭐ 955 / BERTからGPT-4へのTransformerモデル、Hugging FaceからOpenAIへの環境。ファインチューニング、トレーニング、プロンプトエンジニアリングの例。ChatGPT、GPT-3.5-turbo、GPT-4、およびDALL-Eを含むボーナスセクション。GPT-4のジャンプスタート、音声からテキストへの変換、テキストから音声への変換、DALL-Eによるテキストから画像生成、Google Cloud AI、HuggingGPTなども含まれます。
- * ⚠️ [llm-guard](https://github.com/laiyer-ai/llm-guard) - ⭐ 2.5k / LLMインタラクションのためのセキュリティツールキット
+ * 💤 [Transformers-for-NLP-2nd-Edition](https://github.com/denis2054/transformers-for-nlp-2nd-edition) - ⭐ 956 / BERTからGPT-4へのTransformerモデル、Hugging FaceからOpenAIへの環境。ファインチューニング、トレーニング、プロンプトエンジニアリングの例。ChatGPT、GPT-3.5-turbo、GPT-4、およびDALL-Eを含むボーナスセクション。GPT-4のジャンプスタート、音声からテキストへの変換、テキストから音声への変換、DALL-Eによるテキストから画像生成、Google Cloud AI、HuggingGPTなども含まれます。
+ * ⚠️ [llm-guard](https://github.com/laiyer-ai/llm-guard) - ⭐ 2.6k / LLMインタラクションのためのセキュリティツールキット
  * 💤 [Prompt4ReasoningPapers](https://github.com/zjunlp/prompt4reasoningpapers) - ⭐ 996 / ACL2023論文「言語モデルプロンプティングによる推論：サーベイ」のリポジトリ。「言語モデルプロンプティングによる推論：サーベイ」というACL2023論文のリポジトリ。
  * ⚠️ [knowledge](https://github.com/knowledgecanvas/knowledge) - ⭐ 1.5k / 知識は、お気に入りのウェブサイト、ドキュメント、ファイルを保存、検索、アクセス、探索、チャットするためのツールです。
  * 🔥 [promptfoo](https://github.com/promptfoo/promptfoo) - ⭐ 11k / プロンプト、モデル、RAGをテストしてください。LLMの出力を評価し比較し、回帰を検出し、プロンプトの品質を向上させてください。OpenAI/Azure GPT、Anthropic Claude、VertexAI Gemini、Ollama、Mistral/Mixtral/Llamaなどのローカルおよびプライベートモデルに対するLLMの評価（CI/CDを使用）
  * 🔥 [swarms](https://github.com/kyegomez/swarms) - ⭐ 5.8k / 信頼性のある自律エージェントのスワームを構築、展開、スケーリングしてワークフローの自動化を行います。コミュニティに参加してください：https://discord.gg/DbjBMJTSWD
  * 💤 [gptstore-prompts](https://github.com/1003715231/gptstore-prompts) - ⭐ 539 / 以下はGPTStoreのトップ100のプロンプトです。これらを使用して、プロンプトエンジニアリングを学び、向上させることができます。
  * 💤 [aigc](https://github.com/phodal/aigc) - ⭐ 1.6k / 「《構築大言語モデルの応用：アプリケーション開発とアーキテクチャ設計》は、LLMの実世界での応用について紹介したオープンソースの電子書籍であり、大言語モデルの基礎知識や応用、そして自分自身のモデルを構築する方法について説明しています。その中には、Promptの作成、開発、管理、最高の大言語モデルがもたらす可能性の探求、そしてLLMアプリケーション開発のパターンとアーキテクチャ設計が含まれています。」
- * 💤 [lingoose](https://github.com/henomis/lingoose) - ⭐ 829 / 🪿 LinGooseは、パイプラインを使用してLLMsベースのアプリケーションを開発するためのGoフレームワークです。
- * ⚠️ [llm-guard](https://github.com/protectai/llm-guard) - ⭐ 2.5k / LLMインタラクションのためのセキュリティツールキット
- * 💤 [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ⭐ 898 / ChatGPTとBing AIのプロンプトキュレーション
+ * 💤 [lingoose](https://github.com/henomis/lingoose) - ⭐ 830 / 🪿 LinGooseは、パイプラインを使用してLLMsベースのアプリケーションを開発するためのGoフレームワークです。
+ * ⚠️ [llm-guard](https://github.com/protectai/llm-guard) - ⭐ 2.6k / LLMインタラクションのためのセキュリティツールキット
+ * 💤 [ChatGPT-Prompts](https://github.com/yokoffing/chatgpt-prompts) - ⭐ 900 / ChatGPTとBing AIのプロンプトキュレーション
  * 💤 [Safety-Prompts](https://github.com/thu-coai/safety-prompts) - ⭐ 1.1k / LLMの安全性を評価および向上させるための中国語の安全プロンプト。
- * ⚠️ [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - ⭐ 751 / 学術論文の執筆にChatGPTを使用してください。
+ * ⚠️ [ChatGPT-Academic-Prompt](https://github.com/xuhangc/chatgpt-academic-prompt) - ⭐ 752 / 学術論文の執筆にChatGPTを使用してください。
  * ⚠️ [Instructgpt-prompts](https://github.com/kevinamiri/instructgpt-prompts) - ⭐ 536 / テキストを生成および分類するためのChatGPTとGPT-3.5の指示ベースのプロンプトのコレクション。
  * ⚠️ [EdgeChains](https://github.com/arakoodev/edgechains) - ⭐ 416 / Input: EdgeChains.jsは、Typescript/Javascriptで作成されたプロダクション向けのGenerative AIです。Jsonnetに基づいています。Webassemblyが動作する場所ならどこでも動作します。プロンプトは宣言的にライブであり、「設定内の外部コード」です。Kubernetesおよびエッジに対応しています。OpenAI GPT、Gemini、Llama2、Aと互換性があります。
  * 💤 [prompt-tutorial](https://github.com/pandabearlab/prompt-tutorial) - ⭐ 1.3k / chatGPT、プロンプト、LLM
  * 💤 [chatdev](https://github.com/10cl/chatdev) - ⭐ 585 / ChatDev IDEは、あなたのAIエージェントを構築するためのツールです。ゲーム内のNPCや強力なエージェントツールなど、このプラットフォームで自分が望むものをデザインすることができます。
- * 💤 [contoso-chat](https://github.com/azure-samples/contoso-chat) - ⭐ 755 / このサンプルには、Prompt FlowとAI Studioを使用してRAGアプリケーションを作成するEnd2Endプロセスが含まれています。GPT 3.5 Turbo LLMアプリケーションコード、評価、AZD CLIによる展開自動化、評価と展開のためのGitHubアクション、意図マのすべてが含まれています。
+ * 💤 [contoso-chat](https://github.com/azure-samples/contoso-chat) - ⭐ 756 / このサンプルには、Prompt FlowとAI Studioを使用してRAGアプリケーションを作成するEnd2Endプロセスが含まれています。GPT 3.5 Turbo LLMアプリケーションコード、評価、AZD CLIによる展開自動化、評価と展開のためのGitHubアクション、意図マのすべてが含まれています。
  * ⚠️ [LangGPT](https://github.com/langgptai/langgpt) - ⭐ 12k / LangGPT: すべての人が迅速な専門家になるための力を与える！🚀 構造化されたプロンプト、GPTの言語、構造化されたプロンプト
- * 💤 [AISuperDomain](https://github.com/win4r/aisuperdomain) - ⭐ 1.8k / Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。
- * ⚠️ [code2prompt](https://github.com/mufeedvh/code2prompt) - ⭐ 7.1k / コードベースを単一のLLMプロンプトに変換するためのCLIツール。ソースツリー、プロンプトテンプレート、トークン数のカウントが含まれています。
+ * 💤 [AISuperDomain](https://github.com/win4r/aisuperdomain) - ⭐ 1.9k / Aila（AI超元域）：Windows、macOS、Android向けのプレミアAI統合ツール。1度質問すると、ChatGPT、Gemini、Claude3、Copilot、Poe、perplexityなど10以上のAIから回答を得ることができます。カスタマイズ可能なAIとプロンプト機能を備えています。
+ * 🔥 [code2prompt](https://github.com/mufeedvh/code2prompt) - ⭐ 7.2k / コードベースを単一のLLMプロンプトに変換するためのCLIツール。ソースツリー、プロンプトテンプレート、トークン数のカウントが含まれています。
  * 💤 [LLM-Prompt-Library](https://github.com/abilzerian/llm-prompt-library) - ⭐ 1.5k / さまざまなLLM向けの高度なコードおよびテキスト操作プロンプト。GPT-4、Claude、Llama3、Gemini、およびその他の高性能オープンソースLLMに適しています。
- * 🔥 [zzz-api](https://github.com/xing61/zzz-api) - ⭐ 900 / 優質で安定したOpenAIのAPIインターフェース-企業や開発者向け。OpenAIのAPIプロキシ、ChatGPTのAPI呼び出しをサポートし、openaiのAPIインターフェースをサポートします：gpt-4、gpt-3.5。OpenAIのキーは必要ありません、OpenAIのアカウントを購入する必要もありません、米ドルの銀行カードも必要ありません、すべて不要です、直接呼び出すだけで安定して使いやすいです！！智增增
+ * ✅ [zzz-api](https://github.com/xing61/zzz-api) - ⭐ 900 / 優質で安定したOpenAIのAPIインターフェース-企業や開発者向け。OpenAIのAPIプロキシ、ChatGPTのAPI呼び出しをサポートし、openaiのAPIインターフェースをサポートします：gpt-4、gpt-3.5。OpenAIのキーは必要ありません、OpenAIのアカウントを購入する必要もありません、米ドルの銀行カードも必要ありません、すべて不要です、直接呼び出すだけで安定して使いやすいです！！智增增
  * 💤 [EasyInstruct](https://github.com/zjunlp/easyinstruct) - ⭐ 408 / [ACL 2024] LLM向けの使いやすい命令処理フレームワーク。
- * ⚠️ [FinRobot](https://github.com/ai4finance-foundation/finrobot) - ⭐ 6.2k / FinRobot: LLMsを使用した金融アプリケーションのためのオープンソースAIエージェントプラットフォーム 🚀 🚀 🚀
+ * ⚠️ [FinRobot](https://github.com/ai4finance-foundation/finrobot) - ⭐ 6.3k / FinRobot: LLMsを使用した金融アプリケーションのためのオープンソースAIエージェントプラットフォーム 🚀 🚀 🚀
  * ⚠️ [wonderful-prompts](https://github.com/langgptai/wonderful-prompts) - ⭐ 5.5k / 🔥中国語プロンプトの選択🔥、ChatGPTの使用ガイド、ChatGPTのプレイ性と利便性を向上させる方法！🚀
  * 💤 [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - ⭐ 3.6k / [CCS'24] Reddit、Discord、ウェブサイト、オープンソースのデータセット（1,405のジェイルブレイクプロンプトを含む）からなる15,140のChatGPTプロンプトからなるデータセット。
  * 💤 [step_into_llm](https://github.com/mindspore-courses/step_into_llm) - ⭐ 483 / MindSporeオンラインコース：LLMに入る
- * 💤 [promptulate](https://github.com/undertone0809/promptulate) - ⭐ 599 / 🚀大規模言語モデルの自動化と自律言語エージェントの開発フレームワーク。Pythonの方法でLLMエージェントアプリケーションを構築してください！
- * 💤 [EDDI](https://github.com/labsai/eddi) - ⭐ 285 / Conversational AI API（OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini、Ollamaなど）向けのプロンプト＆会話管理ミドルウェア。Javaで開発され、Quarkusで動作し、Lean、restful、スケーラブル、クラウドネイティブです。提供されるwit。
- * 💤 [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - ⭐ 771 / 📚 AIGCの求職面接、必須の基礎知識、ヒントワードエンジニアリング、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintuneなど、AIGCの求職に必要なすべてを知っておく必要があります。
- * 💤 [npi](https://github.com/npi-ai/npi) - ⭐ 227 / AIエージェント向けのツール使用APIプラットフォーム
- * 💤 [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - ⭐ 253 / 大規模言語モデルを学ぶためのWeb UIプロジェクト。このプロジェクトには、チャット、量子化、ファインチューニング、プロンプトエンジニアリングテンプレート、マルチモダリティなどの機能が含まれています。
+ * 💤 [promptulate](https://github.com/undertone0809/promptulate) - ⭐ 600 / 🚀大規模言語モデルの自動化と自律言語エージェントの開発フレームワーク。Pythonの方法でLLMエージェントアプリケーションを構築してください！
+ * 💤 [EDDI](https://github.com/labsai/eddi) - ⭐ 286 / Conversational AI API（OpenAI ChatGPT、Facebook Hugging Face、Anthropic Claude、Google Gemini、Ollamaなど）向けのプロンプト＆会話管理ミドルウェア。Javaで開発され、Quarkusで動作し、Lean、restful、スケーラブル、クラウドネイティブです。提供されるwit。
+ * 💤 [AIGC_Interview](https://github.com/embraceagi/aigc_interview) - ⭐ 772 / 📚 AIGCの求職面接、必須の基礎知識、ヒントワードエンジニアリング、ChatGPT、Stable Diffusion、Prompt、Embedding、Fintuneなど、AIGCの求職に必要なすべてを知っておく必要があります。
+ * 💤 [npi](https://github.com/npi-ai/npi) - ⭐ 228 / AIエージェント向けのツール使用APIプラットフォーム
+ * 💤 [keras-llm-robot](https://github.com/smalltong02/keras-llm-robot) - ⭐ 252 / 大規模言語モデルを学ぶためのWeb UIプロジェクト。このプロジェクトには、チャット、量子化、ファインチューニング、プロンプトエンジニアリングテンプレート、マルチモダリティなどの機能が含まれています。
  * 💤 [ComfyUI-N-Nodes](https://github.com/nuked88/comfyui-n-nodes) - ⭐ 237 / ConfyUI用のカスタムノードのスイートには、GPTテキストプロンプト生成、LoadVideo、SaveVideo、LoadFramesFromFolder、FrameInterpolatorが含まれています。
  * 💤 [PromptChains](https://github.com/miatechpartners/promptchains) - ⭐ 1.2k / ChatGPTとClaudeのパフォーマンスを向上させるために、プロンプトをキューに並べてください。
  * 💤 [aide](https://github.com/nicepkg/aide) - ⭐ 2.7k / VSCodeでどんなコードでも制覇：ワンクリックコメント、変換、UIからコードへ、ファイルのAIバッチ処理！💪
  * ⚠️ [comfyui_LLM_party](https://github.com/heshengtao/comfyui_llm_party) - ⭐ 2.1k / Dify in ComfyUIには、Omost、GPT-sovits、ChatTTS、FLUXプロンプトノードが含まれており、Feishu、discordへのアクセスが可能であり、o1、ollama、qwen、GLM、deepseek、moonshot、doubaoなどの類似したopenai/geminiインターフェースを持つすべてのllmsに適応し、llama/Pなどのローカルllmsにも適応しています。
- * 💤 [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - ⭐ 309 / このAIスマートスピーカーは音声認識とテキスト読み上げを使用して、OpenAIとエージェントとの音声対話とビジョン機能を可能にします。ユーザーはマイクにプロンプトを話し、プログラムはそのプロンプトをOpenAIに送信して応答を生成します。
- * 🔥 [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - ⭐ 821 / 自己ペースのジェネレーティブAIブートキャンプ。MLの基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3＆AIエージェント（CrewAI）に関するチュートリアル。
- * 🔥 [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - ⭐ 268 / Fast ChatGPT UIは、OpenAIとAzure OpenAIの両方をサポートしています。
- * ⚠️ [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - ⭐ 992 / このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。
+ * 💤 [ChatGPT-OpenAI-Smart-Speaker](https://github.com/olney1/chatgpt-openai-smart-speaker) - ⭐ 310 / このAIスマートスピーカーは音声認識とテキスト読み上げを使用して、OpenAIとエージェントとの音声対話とビジョン機能を可能にします。ユーザーはマイクにプロンプトを話し、プログラムはそのプロンプトをOpenAIに送信して応答を生成します。
+ * ✅ [AI-Bootcamp](https://github.com/curiousily/ai-bootcamp) - ⭐ 820 / 自己ペースのジェネレーティブAIブートキャンプ。MLの基礎、LLMs、RAGs、LangChain、LangGraph、Fine-tuning Llama 3＆AIエージェント（CrewAI）に関するチュートリアル。
+ * 🔥 [chatgpt-lite](https://github.com/blrchen/chatgpt-lite) - ⭐ 269 / Fast ChatGPT UIは、OpenAIとAzure OpenAIの両方をサポートしています。
+ * ⚠️ [Long-Novel-GPT](https://github.com/maoxiaoyuz/long-novel-gpt) - ⭐ 1k / このプロジェクトには、GPTなどの大規模言語モデルに基づいた長編小説ジェネレーターが含まれており、さまざまな小説生成プロンプトやチュートリアルも提供されています。コミュニティの貢献を歓迎し、最高の小説作成体験を提供するために継続的に更新しています。
  * 🔥 [langfuse](https://github.com/langfuse/langfuse) - ⭐ 22k / 🪢 オープンソースのLLMエンジニアリングプラットフォーム：LLMオブザーバビリティ、メトリクス、評価、プロンプト管理、プレイグラウンド、データセット。LlamaIndex、Langchain、OpenAI SDK、LiteLLMなどと統合されています。🍊YC W23
- * ⚠️ [gateway](https://github.com/portkey-ai/gateway) - ⭐ 11k / 組み込みガードレールを備えた高速AIゲートウェイ。200以上のLLMへのルート、50以上のAIガードレールを1つの高速で使いやすいAPIで提供します。
+ * 🔥 [gateway](https://github.com/portkey-ai/gateway) - ⭐ 11k / 組み込みガードレールを備えた高速AIゲートウェイ。200以上のLLMへのルート、50以上のAIガードレールを1つの高速で使いやすいAPIで提供します。
  * 🔥 [ai-notes](https://github.com/swyxio/ai-notes) - ⭐ 6.2k / 新しいAIの開発に追いつくソフトウェアエンジニア向けのノート。https://latent.spaceの執筆や製品のブレインストーミングのためのデータストアとして機能しますが、/Resourcesフォルダーの下に整理された標準的な参照情報があります。
  * 🔥 [helicone](https://github.com/helicone/helicone) - ⭐ 5.1k / 🧊 開発者向けのオープンソースLLM-Observabilityプラットフォーム。監視、メトリクス、評価、エージェントトレース、プロンプト管理、プレイグラウンドなどのためのワンライン統合。OpenAI SDK、Vercel AI SDK、Anthropic SDK、LiteLLM、LLamaIndex、LangChainなどをサポート。🍓
  * ⚠️ [optillm](https://github.com/codelion/optillm) - ⭐ 3.3k / LLMsの推論プロキシの最適化
@@ -302,34 +298,35 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 🔥 [openlit](https://github.com/openlit/openlit) - ⭐ 2.2k / AIエンジニアリングのためのオープンソースプラットフォーム：OpenTelemetryネイティブLLMオブザーバビリティ、GPUモニタリング、ガードレール、評価、プロンプト管理、ボールト、プレイグラウンド。🚀💻 40以上のLLMプロバイダー、VectorDB、エージェントフレームワーク、GPUと統合されています。
  * ⚠️ [GPTS-Prompt-Collection](https://github.com/b3o/gpts-prompt-collection) - ⭐ 1.8k / GPTSのプロンプトを収集します
  * ⚠️ [chatgpt-custom-instructions](https://github.com/denissergeevitch/chatgpt-custom-instructions) - ⭐ 2.6k / カスタム指示用の私自身のプロンプトChatGPT
- * 🔥 [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - ⭐ 734 / 🍰 PromptLayer - プロンプトとOpenAI APIリクエストのログを維持します。古い完了を追跡、デバッグ、再生します。
+ * ✅ [prompt-layer-library](https://github.com/magnivorg/prompt-layer-library) - ⭐ 736 / 🍰 PromptLayer - プロンプトとOpenAI APIリクエストのログを維持します。古い完了を追跡、デバッグ、再生します。
  * 🔥 [langwatch](https://github.com/langwatch/langwatch) - ⭐ 2.8k / 究極のLLM Opsプラットフォーム - モニタリング、分析、評価、データセット、そして迅速な最適化 ✨
  * 🔥 [phoenix](https://github.com/arize-ai/phoenix) - ⭐ 8.6k / AI監視と評価
  * 💤 [DataDreamer](https://github.com/datadreamer-dev/datadreamer) - ⭐ 1.1k / Input: DataDreamer: プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤Output: データドリーマー：プロンプト。合成データを生成します。モデルをトレーニング＆整列させます。 🤖💤
- * ⚠️ [LangChain](https://github.com/tryagi/langchain) - ⭐ 986 / LangChainのC#実装。抽象化に関して可能な限りオリジナルに近づこうと努めていますが、新しいエンティティにもオープンです。
+ * ⚠️ [LangChain](https://github.com/tryagi/langchain) - ⭐ 987 / LangChainのC#実装。抽象化に関して可能な限りオリジナルに近づこうと努めていますが、新しいエンティティにもオープンです。
  * 🔥 [Kiln](https://github.com/kiln-ai/kiln) - ⭐ 4.7k / LLMモデルの微調整、合成データ生成、およびデータセットの共同作業に最適なツール。
  * 🔥 [JamAIBase](https://github.com/embeddedllm/jamaibase) - ⭐ 1.1k / AI向けの共同スプレッドシート。強力なパイプラインを作成し、プロンプトやモデルを試して、LLMの応答をリアルタイムで評価します。シームレスに連携してAIアプリケーションを構築し、繰り返し作業を行います。
  * ⚠️ [langtrace](https://github.com/scale3-labs/langtrace) - ⭐ 1.2k / Langtrace 🔍は、LLMアプリケーション向けのオープンソースのエンドツーエンドの可観測性ツールであり、人気のあるLLM、LLMフレームワーク、ベクターデータベースなどに対してリアルタイムのトレース、評価、メトリクスを提供します。Typescript、Pythonを使用して統合できます。🚀💻📊
- * ⚠️ [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - ⭐ 859 / タイプヒントを使用した現代のAIアシストPythonの学習
+ * ⚠️ [learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - ⭐ 861 / タイプヒントを使用した現代のAIアシストPythonの学習
  * 🔥 [CL4R1T4S](https://github.com/elder-plinius/cl4r1t4s) - ⭐ 13k / すべてのためのシステムプロンプト透明化
  * 💤 [ChatGPT-Free-Prompt-List](https://github.com/mattnigh/chatgpt-free-prompt-list) - ⭐ 2.3k / ChatGPT3プロンプトの作成方法を学ぶための無料ガイド
- * 🔥 [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ⭐ 32k / ChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクションChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクション
+ * 🔥 [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - ⭐ 33k / ChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクションChatGPT、Claude＆Geminiなどの人気チャットボットから抽出されたシステムプロンプトのコレクション
  * 💤 [fellow](https://github.com/manuelzierl/fellow) - ⭐ 5 / Fellowは、自律型ソフトウェアエンジニアリングアシスタントとして機能するコマンドラインインターフェース（CLI）ツールです。Fellowは、ステップバイステップの推論、コマンドの実行、および活動のログの維持によって、さまざまな構造化されたタスクを実行するためにOpenAI APIを使用します。
- * 💤 [just-prompt](https://github.com/disler/just-prompt) - ⭐ 710 / just-promptは、トップのLLMプロバイダ（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek、Ollama）に統一されたインターフェースを提供するMCPサーバーです。
- * 🔥 [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ⭐ 421 / ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
+ * 💤 [just-prompt](https://github.com/disler/just-prompt) - ⭐ 712 / just-promptは、トップのLLMプロバイダ（OpenAI、Anthropic、Google Gemini、Groq、DeepSeek、Ollama）に統一されたインターフェースを提供するMCPサーバーです。
+ * 🔥 [GenerativeAI-Prompt-Sample-Japanese](https://github.com/dahatake/generativeai-prompt-sample-japanese) - ⭐ 424 / ChatGPTやCopilotなど各種生成AI用の「日本語]の Prompt のサンプル
  * 🔥 [judgeval](https://github.com/judgmentlabs/judgeval) - ⭐ 1k / エージェント向けのオープンソースのポストビルディングレイヤー。当社のトレース+評価は、エージェントのポストトレーニング（RL、SFT）、モニタリング、および回帰テストを強化します。
- * 🔥 [gateway](https://github.com/adaline/gateway) - ⭐ 577 / たった一つの完全にローカルな製品グレードのスーパーSDKは、200以上のLLMを呼び出すためのシンプルで統一された強力なインターフェースを提供します。
+ * ✅ [gateway](https://github.com/adaline/gateway) - ⭐ 577 / たった一つの完全にローカルな製品グレードのスーパーSDKは、200以上のLLMを呼び出すためのシンプルで統一された強力なインターフェースを提供します。
  * ⚠️ [zcf](https://github.com/ufomiao/zcf) - ⭐ 5.5k / クロードコードとコーデックスのためのゼロ構成コードフロー
- * 🔥 [generator](https://github.com/context-hub/generator) - ⭐ 297 / CTX：ChatGPTやClaudeのようなLLMを使用する際のコンテキスト管理のギャップを解決するツール。開発者がコードベースから情報を整理し、AIアシスタントと簡単に共有できる構造化されたドキュメントに自動的に収集するのを支援します。
- * 🔥 [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - ⭐ 268 / 手術の文脈エンジニアリングと素敵なUI、Windows、Mac、Linux、BSD、PythonとQtが動作するどこでも
- * 🔥 [codexia](https://github.com/milisp/codexia) - ⭐ 439 / Codex CLI用の強力なGUI/IDEおよびツールキット。Fork chat + FileTree + prompt notepad、Codexコミュニティなど
+ * ✅ [generator](https://github.com/context-hub/generator) - ⭐ 300 / CTX：ChatGPTやClaudeのようなLLMを使用する際のコンテキスト管理のギャップを解決するツール。開発者がコードベースから情報を整理し、AIアシスタントと簡単に共有できる構造化されたドキュメントに自動的に収集するのを支援します。
+ * ✅ [aicodeprep-gui](https://github.com/detroittommy879/aicodeprep-gui) - ⭐ 269 / 手術の文脈エンジニアリングと素敵なUI、Windows、Mac、Linux、BSD、PythonとQtが動作するどこでも
+ * 🔥 [codexia](https://github.com/milisp/codexia) - ⭐ 450 / Codex CLI用の強力なGUI/IDEおよびツールキット。Fork chat + FileTree + prompt notepad、Codexコミュニティなど
  * ⚠️ [optillm](https://github.com/algorithmicsuperintelligence/optillm) - ⭐ 3.3k / LLMsの推論プロキシの最適化
- * 🔥 [codexia](https://github.com/codexia-team/codexia) - ⭐ 439 / Codex CLI用の強力なGUI/IDEおよびツールキット。 Fork chat + FileTree + プロンプトメモ帳 + git worktree など
- * 🔥 [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 638 / 製品マネージャー向けのジェネレーティブAIプロンプトのリポジトリ。ChatGPT、Claude、Geminiなどのエージェントを使用します。
- * 🔥 [runprompt](https://github.com/chr15m/runprompt) - ⭐ 421 / シェルからLLMプロンプトを実行してください。
+ * 🔥 [codexia](https://github.com/codexia-team/codexia) - ⭐ 450 / Codex CLI用の強力なGUI/IDEおよびツールキット。 Fork chat + FileTree + プロンプトメモ帳 + git worktree など
+ * ✅ [product-manager-prompts](https://github.com/deanpeters/product-manager-prompts) - ⭐ 648 / 製品マネージャー向けのジェネレーティブAIプロンプトのリポジトリ。ChatGPT、Claude、Geminiなどのエージェントを使用します。
+ * ✅ [runprompt](https://github.com/chr15m/runprompt) - ⭐ 421 / シェルからLLMプロンプトを実行してください。
  * 🔥 [plano](https://github.com/katanemo/plano) - ⭐ 5.1k / 船舶代理業者を迅速に出荷します。 Planoは、代理業アプリケーション向けの配信インフラです。 プロダクトロジックに集中できるように、プラモデルネイティブのプロキシサーバー＆データプレーンが配管作業をオフロードします。
- * 🔥 [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - ⭐ 238 / AIPRMからのChatGPTプロンプトのコンパイル
- * 🔥 [gollm](https://github.com/teilomillet/gollm) - ⭐ 634 / 言語モデル（LLM）プロバイダー向けの統一されたGoインターフェース。柔軟なプロンプト管理と共通のタスク機能により、LLMの統合が簡素化されます。
+ * ✅ [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - ⭐ 238 / AIPRMからのChatGPTプロンプトのコンパイル
+ * ✅ [gollm](https://github.com/teilomillet/gollm) - ⭐ 636 / 言語モデル（LLM）プロバイダー向けの統一されたGoインターフェース。柔軟なプロンプト管理と共通のタスク機能により、LLMの統合が簡素化されます。
+ * [taskade](https://github.com/taskade/taskade) - AIネイティブのワークスペースプラットフォーム。アプリを構築し、エージェントを展開し、ワークフローを自動化します。すべて1つのプロンプトから。
 
 
 ## Chatbots
@@ -340,9 +337,9 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - ⭐ 921 / Kubernetesの問題に対応するChatGPTボット。
  * 💤 [chatGPT-telegram-bot](https://github.com/altryne/chatgpt-telegram-bot) - ⭐ 1.7k / これはTelegramボット内でchatGPTを動作させるための非常に初期の試みです。
  * 💤 [chatgpt_telegram_bot](https://github.com/karfly/chatgpt_telegram_bot) - ⭐ 5.5k / テレグラムでchatgptとgpt-4を統合する方法は？ //t.co/fyumptn5vj経由@hipertextual
- * 🔥 [ChatRWKV](https://github.com/blinkdl/chatrwkv) - ⭐ 9.5k / ChatRWKVはChatGPTのようなものですが、RWKV（100％RNN）言語モデルで動作し、オープンソースです。
+ * ✅ [ChatRWKV](https://github.com/blinkdl/chatrwkv) - ⭐ 9.5k / ChatRWKVはChatGPTのようなものですが、RWKV（100％RNN）言語モデルで動作し、オープンソースです。
  * 💤 [ChatGPT-at-Home](https://github.com/sentdex/chatgpt-at-home) - ⭐ 316 / ChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM）チャットボットアプリケーションChatGPT @ Home：ChatGPTによって書かれた大規模言語モデル（LLM）チャットボットアプリケーション
- * 🔥 [ChuanhuChatGPT](https://github.com/gaizhenbiao/chuanhuchatgpt) - ⭐ 15k / ChatGPT APIのGUI
+ * ✅ [ChuanhuChatGPT](https://github.com/gaizhenbiao/chuanhuchatgpt) - ⭐ 15k / ChatGPT APIのGUI
  * 💤 [GPT3Discord](https://github.com/kav-k/gpt3discord) - ⭐ 10 / Discord用の堅牢なオールインワンGPT3インターフェース。ChatGPTスタイルの会話、画像生成、AIモデレーション、カスタムインデックス/ナレッジベース、YouTubeサマライザーなどがあります！
  * 🔥 [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - ⭐ 41k / ChatGPTをベースにしたWechatロボットで、OpenAI APIとitchatライブラリを使用しています。GPT3.5 APIに基づいています。
  * ⚠️ [ChatGPT-in-Slack](https://github.com/seratch/chatgpt-in-slack) - ⭐ 511 / ChatGPTボットとのやり取りを可能にするSlackアプリを構築する方法のSwiftデモンストレーション
@@ -357,9 +354,9 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [wikipedia-gpt3-bot](https://github.com/shbhrsaha/wikipedia-gpt3-bot) - ⭐ 49 / Wikipediaをクエリして回答を要約するGPT-3を使用して質問に答えるREPLボット
  * 💤 [chatgpt-tegram-bot](https://github.com/nukeador/chatgpt-tegram-bot) - ⭐ 15 / Telegram用のシンプルなボットで、ChatGPTとの対話を音声ノートで行い、画像の生成をサポートします。
  * 💤 [ChatGeoPT](https://github.com/earth-genome/chatgeopt) - ⭐ 194 / 地理空間検索のためのAIアシスタントの非常に基本的で非常に脆弱なコンセプトの証明
- * 💤 [ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin) - ⭐ 53 / これはKuCoinの取引スクリプトであり、市場データとOpenAIのGPT-3.5言語モデルによって生成された予測モデルに基づいて、連続的に買い注文と売り注文を出します。
+ * 💤 [ChatGPT-Trading-Bot-for-KuCoin](https://github.com/krecicki/chatgpt-trading-bot-for-kucoin) - ⭐ 54 / これはKuCoinの取引スクリプトであり、市場データとOpenAIのGPT-3.5言語モデルによって生成された予測モデルに基づいて、連続的に買い注文と売り注文を出します。
  * 💤 [vocode-python](https://github.com/vocodedev/vocode-python) - ⭐ 3.7k / 🤖 音声ベースのLLMエージェントを構築してください。モジュラー+オープンソース。
- * 🔥 [marvin](https://github.com/prefecthq/marvin) - ⭐ 6.1k / 🤖🪄 GPTを活用したボットやAI機能のためのバッテリー付きライブラリ
+ * ✅ [marvin](https://github.com/prefecthq/marvin) - ⭐ 6.1k / 🤖🪄 GPTを活用したボットやAI機能のためのバッテリー付きライブラリ
  * 💤 [baize](https://github.com/project-baize/baize) - ⭐ 3.2k / ChatGPTがあなたの独自のチャットボットを1つのGPUで数時間で教えます！
  * 💤 [baize-chatbot](https://github.com/project-baize/baize-chatbot) - ⭐ 3.2k / ChatGPTがあなたの独自のチャットボットを1つのGPUで数時間で教えます！
  * 🔥 [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - ⭐ 4.8k / gpt4allチャットボットUI
@@ -367,7 +364,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [ChatDoctor](https://github.com/kent0n-li/chatdoctor) - ⭐ 3.6k / 医療特化aiチャット「chatdoctor」chatgptも使ってモデルをトレーニングしてる様子全コードとデータセット、モデルの重みがオープンソース化する予定らしい..！
  * 🔥 [gpt4free](https://github.com/xtekky/gpt4free) - ⭐ 66k / 3.5スクリプトを提供します。
  * 💤 [Auto-GPT-ZH](https://github.com/kaqijiang/auto-gpt-zh) - ⭐ 2.5k / Auto-GPTの中国語版とファン団体は、元のプロジェクトと同期して更新され、AI分野の起業、自己メディア組織、AIを使った仕事、学習、創作、収益化を目指しています。
- * 💤 [voice-generator-webui](https://github.com/log1stics/voice-generator-webui) - ⭐ 161 / マルチスピーカー、多言語音声生成ツール
+ * 💤 [voice-generator-webui](https://github.com/log1stics/voice-generator-webui) - ⭐ 162 / マルチスピーカー、多言語音声生成ツール
  * 💤 [autogpt-telegram-chatbot](https://github.com/steamship-packages/autogpt-telegram-chatbot) - ⭐ 449 / ここにあります！あなたのモバイル用のautogpt。Telegramを介して独自のautogptバージョンと通信できます。このプロジェクトをオープンソース化することを誇りに思っています。一緒に何を構築するかを楽しみにしています！
  * 💤 [pdfGPT](https://github.com/bhaskatripathi/pdfgpt) - ⭐ 7.2k / PDF GPTは、GPTの機能を使用してPDFファイルの内容とチャットすることができます。PDFファイルをチャットボットに変換するための唯一のオープンソースソリューションです！
  * 💤 [Navi](https://github.com/ssgorg/navi) - ⭐ 93 / GPTに基づくサイバーセキュリティAI
@@ -377,10 +374,10 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [ChatGPT-Telegram-Workers](https://github.com/tbxark/chatgpt-telegram-workers) - ⭐ 3.8k / 簡単にCloudflare Workers上に自分自身のTelegram ChatGPTボットを展開してください。
  * 💤 [reflexion-human-eval](https://github.com/noahshinn024/reflexion-human-eval) - ⭐ 3.1k / 反射型のGPT-4エージェントは、コード生成において最先端であり、コードを反復的に洗練し、正しいコード生成から正しいテスト生成への「精度のボトルネック」を移行させます。人間の評価精度：反射型GPT-4 88％-GPT-4 67.0％-Codet 65.8％-Palm 26.2％コード：
  * 💤 [gptchat-telegram](https://github.com/m1guelpf/gptchat-telegram) - ⭐ 3.9k / ✨毎回gptchatのウェブサイトを開くのが疲れたので、テレグラムボットを作りました。あなたも欲しい場合は、非常に簡単にセットアップできるようにしました（1つのコマンドを実行するだけです！😯）。リポジトリをチェックしてください👇
- * 💤 [Twitter-Comment-Bot](https://github.com/sojinsamuel/twitter-comment-bot) - ⭐ 105 / 指定されたキーワードを含むツイートにコメントするボットです。ボットはOpenAI APIを使用してコメントを生成し、Twitter APIを使用して投稿します。コメント間に固定の遅延を設けて、連続して実行されるように設計されています。
+ * 💤 [Twitter-Comment-Bot](https://github.com/sojinsamuel/twitter-comment-bot) - ⭐ 106 / 指定されたキーワードを含むツイートにコメントするボットです。ボットはOpenAI APIを使用してコメントを生成し、Twitter APIを使用して投稿します。コメント間に固定の遅延を設けて、連続して実行されるように設計されています。
  * 💤 [codemancer](https://github.com/0xmmo/codemancer) - ⭐ 69 / コマンドラインでのAIコーディングアシスタント。
- * 🔥 [ChatGPT-CodeReview](https://github.com/anc95/chatgpt-codereview) - ⭐ 4.4k / 🐥 ChatGPTで動作するコードレビューボット
- * 🔥 [KeepChatGPT](https://github.com/xcanwin/keepchatgpt) - ⭐ 15k / ChatGPTをより効率的かつスムーズに使用し、ChatGPTネットワークのエラーを完全に解決し、ウェブページを頻繁に更新する必要がなく、10以上の余分な手順を省くことができます。また、バックグラウンド監査をキャンセルすることもできます。以下のエラーを解決しました：（1）リソースの取得時にNetworkErrorが発生しました。 （2）何かが間違っています。この問題が解決しない場合は、help.openai.comのヘルプセンターを通じてお問い合わせください。 （3）このコンテンツは当社のコンテンツポリシーに違反する場合があります。 （4）会話が見つかりません。
+ * ✅ [ChatGPT-CodeReview](https://github.com/anc95/chatgpt-codereview) - ⭐ 4.4k / 🐥 ChatGPTで動作するコードレビューボット
+ * ✅ [KeepChatGPT](https://github.com/xcanwin/keepchatgpt) - ⭐ 15k / ChatGPTをより効率的かつスムーズに使用し、ChatGPTネットワークのエラーを完全に解決し、ウェブページを頻繁に更新する必要がなく、10以上の余分な手順を省くことができます。また、バックグラウンド監査をキャンセルすることもできます。以下のエラーを解決しました：（1）リソースの取得時にNetworkErrorが発生しました。 （2）何かが間違っています。この問題が解決しない場合は、help.openai.comのヘルプセンターを通じてお問い合わせください。 （3）このコンテンツは当社のコンテンツポリシーに違反する場合があります。 （4）会話が見つかりません。
  * 💤 [chatgpt-wework-robot](https://github.com/sytpb/chatgpt-wework-robot) - ⭐ 379 / Zero code, one-click deployment of ChatGPT to WeChat Work, no need for VPN, fast speed. 零コード、企業微信へのChatGPTのワンクリック展開、VPN不要、高速。
  * 💤 [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - ⭐ 33k / オープンソースのChatGPT UI。
  * 💤 [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - ⭐ 16k / 大規模なPDFドキュメント用のGPT4＆LangChainチャットボット
@@ -388,7 +385,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ⭐ 3.7k / ChatGPT + DALL-E + WhatsApp = AIアシスタント :rocket: :robot:
  * 💤 [ChatGPT-wechat-bot](https://github.com/autumnwhj/chatgpt-wechat-bot) - ⭐ 4.7k / WeChatのためのChatGPT https://github.com/AutumnWhj/ChatGPT-wechat-bot
  * 💤 [chatbot-ui-pro](https://github.com/mckaywrigley/chatbot-ui-pro) - ⭐ 33k / バラジ・スリニバサン氏の「ネットワーク国家」に対するAI検索とチャット。
- * 💤 [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - ⭐ 758 / OpenAIのChatGPT APIを利用したTwitterボットです。生きています🤖
+ * 💤 [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - ⭐ 757 / OpenAIのChatGPT APIを利用したTwitterボットです。生きています🤖
  * 💤 [BetterChatGPT](https://github.com/ztjhz/betterchatgpt) - ⭐ 8.4k / 「Better ChatGPT」でよりスマートにプレイ＆チャットしましょう。OpenAIのChatGPT APIを探索するためのUIが改善された素晴らしいオープンソースのWebアプリです！（ウェブサイト+Windows+MacOS+Linux）
  * 🔥 [chatgpt-exporter](https://github.com/pionxzh/chatgpt-exporter) - ⭐ 2.2k / ChatGPTの会話履歴をエクスポートして共有する。
  * 💤 [unChatGPT](https://github.com/riccardolinares/unchatgpt) - ⭐ 6 / unChatGPTはOpenAI APIを使用して、チャットボットのようなチャット体験を作成します。ChatGPTと似ていますが、待ち行列に並ぶ必要がなく、制限されたアクセスもありません。
@@ -409,7 +406,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [chatgpt-android](https://github.com/skydoves/chatgpt-android) - ⭐ 3.9k / 📲 ChatGPT Androidは、Compose用のStream Chat SDKを使用してAndroid上でOpenAIのChatGPTをデモンストレーションしています。
  * 💤 [gpt-voice-chat](https://github.com/kmizu/gpt-voice-chat) - ⭐ 10 / ChatGPT AIとの実際の音声チャット
  * 💤 [chatgpt](https://github.com/jcrodriguez1989/chatgpt) - ⭐ 328 / RからChatGPTへのインターフェース
- * 🔥 [ChatdollKit](https://github.com/uezo/chatdollkit) - ⭐ 1.1k / ChatdollKitを使用すると、あなたの3Dモデルをチャットボットに変換できます。
+ * ✅ [ChatdollKit](https://github.com/uezo/chatdollkit) - ⭐ 1.1k / ChatdollKitを使用すると、あなたの3Dモデルをチャットボットに変換できます。
  * 💤 [unity-voicevox-bridge](https://github.com/mikito/unity-voicevox-bridge) - ⭐ 30 / unity上からvoicevoxと連携して合成音声を簡単に再生できるシンプルなライブラリ作ってみました！chatgpt apiとかのお供に！
  * 💤 [gortanagtp](https://github.com/dasdata/gortanagtp) - ⭐ 35 / 音声とテキストのインタラクションを備えたコンソールアプリケーション、最新のChatGPT API。
  * ⚠️ [HeyChatGPT](https://github.com/ynagatomo/heychatgpt) - ⭐ repo not found / あなたの声でChatGPTとやり取りする最小限のiOSアプリ。
@@ -418,14 +415,14 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [Discord-Chatbot-Gpt4Free](https://github.com/mishalhossin/discord-chatbot-gpt4free) - ⭐ 1.4k / これは無料の画像検出機能を備えたDiscordチャットボットです。
  * 🔥 [big-agi](https://github.com/enricoros/big-agi) - ⭐ 6.9k / 💬 GPT-4以上のAIパーソナリティを備えた個人用AIアプリケーション。AIパーソナリティ、AGI機能、テキストから画像への変換、音声、レスポンスストリーミング、コードのハイライトと実行、PDFのインポート、開発者向けのプリセットなどがあります。Next.js、React、Joyを使用して展開し、#big-AGI-energyを贈りましょう！
  * 💤 [RasaGPT](https://github.com/paulpierre/rasagpt) - ⭐ 2.5k / 💬 RasaGPTは、RasaとLangchainの上に構築された最初のヘッドレスLLMチャットボットプラットフォームです。Rasa、FastAPI、Langchain、LlamaIndex、SQLModel、pgvector、ngrok、telegramで構築されています。
- * 💤 [FigmaChain](https://github.com/cirediatpl/figmachain) - ⭐ 980 / FigmaChainは、Figmaデザインに基づいてHTML/CSSコードを生成するPythonスクリプトのセットです。OpenAIのGPT-3モデルを使用することで、FigmaChainは開発者がFigmaデザイン入力から素早くHTML/CSSコードを生成することを可能にします。また、インタラクティブなコード生成のためのStreamlitベースのチャットボットインターフェイスも含まれています。
+ * 💤 [FigmaChain](https://github.com/cirediatpl/figmachain) - ⭐ 979 / FigmaChainは、Figmaデザインに基づいてHTML/CSSコードを生成するPythonスクリプトのセットです。OpenAIのGPT-3モデルを使用することで、FigmaChainは開発者がFigmaデザイン入力から素早くHTML/CSSコードを生成することを可能にします。また、インタラクティブなコード生成のためのStreamlitベースのチャットボットインターフェイスも含まれています。
  * 💤 [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - ⭐ 7.8k / これは、xtekky/gpt4freeのTypeScriptバージョンの複製プロジェクトです。
  * 💤 [slack-gpt](https://github.com/martinseanhunt/slack-gpt) - ⭐ 71 / Langchain、OpenAI、およびPinconeベクトルストアを使用して質問に答えを取得するシンプルなSlackアプリ/ボットスターター。
  * 💤 [LLM-As-Chatbot](https://github.com/deep-diver/llm-as-chatbot) - ⭐ 3.3k / チャットボットサービスとしてのLLM
  * 💤 [pdf-chatbot](https://github.com/dissorial/pdf-chatbot) - ⭐ 859 / 自己追跡データの分析：インタラクティブな可視化と予測アルゴリズム
  * 💤 [ask_chatgpt](https://github.com/railsjazz/ask_chatgpt) - ⭐ 270 / AIパワードアシスタントGemがあなたのRailsコンソールに直接組み込まれています。ChatGPTのフルパワーをRailsで利用できます。
  * ⚠️ [ecoute](https://github.com/sevask/ecoute) - ⭐ 6k / Ecouteは、ユーザーのマイク入力（You）とスピーカー出力（Speaker）の両方に対して、リアルタイムのテキストトランスクリプトを提供するライブトランスクリプションツールです。また、会話のライブトランスクリプションに基づいて、OpenAIのGPT-3.5を使用してユーザーが言うべき推奨応答を生成します。
- * 🔥 [privateGPT](https://github.com/samuraigpt/privategpt) - ⭐ 2.8k / GPTの力を使って、100％プライベートでドキュメントとやり取りするアプリ。データ漏洩はありません。
+ * ✅ [privateGPT](https://github.com/samuraigpt/privategpt) - ⭐ 2.8k / GPTの力を使って、100％プライベートでドキュメントとやり取りするアプリ。データ漏洩はありません。
  * 💤 [LLaVA](https://github.com/haotian-liu/llava) - ⭐ 24k / マルチモーダルなGPT-4レベルの機能に向けて構築された大規模な言語とビジョンアシスタント。
  * 💤 [OpenChat](https://github.com/openchatai/openchat) - ⭐ 5.3k / OpenChatでカスタムChatGPTのようなボットを実行して作成し、どこでも埋め込んで共有できるオープンソースのチャットボットコンソールです。
  * 💤 [st-chat](https://github.com/ai-yash/st-chat) - ⭐ 1.1k / チャットボットUIのためのStreamlitコンポーネント
@@ -437,28 +434,28 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [ethgpt](https://github.com/jiayaoqijia/ethgpt) - ⭐ 70 / Ethereumのコードベースとドキュメントのためのチャットボット。
  * 💤 [telegram-chatgpt-bot](https://github.com/sabber-slt/telegram-chatgpt-bot) - ⭐ 215 / Telegramで動作するNodeJSベースのChatGPTボットは、音声チャットや画像生成などの高度な機能を備えています。
  * 💤 [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - ⭐ 3.5k / 🤖 Pythonで書かれた、OpenAIの公式ChatGPT APIと統合して回答を提供するTelegramボット。
- * ⚠️ [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - ⭐ 20k / Vercel Labsによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
+ * 🔥 [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - ⭐ 20k / Vercel Labsによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
  * 🔥 [autoclear-chatgpt-history](https://github.com/adamlui/autoclear-chatgpt-history) - ⭐ 52 / 🕶️ プライバシーをより保護するために、ChatGPTにチャット自動クリア機能を追加しました。
  * 🔥 [chatgpt-widescreen](https://github.com/adamlui/chatgpt-widescreen) - ⭐ 192 / 🖥️ チャットGPTのワイドスクリーン+フルスクリーンモードを追加して、視聴を向上させます。
- * 🔥 [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ⭐ 347 / ∞ 全知のChatGPTから無限の回答を生成します（どの言語でも可！）
+ * 🔥 [chatgpt-infinity](https://github.com/adamlui/chatgpt-infinity) - ⭐ 348 / ∞ 全知のChatGPTから無限の回答を生成します（どの言語でも可！）
  * 🔥 [chatgpt-auto-refresh](https://github.com/adamlui/chatgpt-auto-refresh) - ⭐ 207 / ↻ ネットワークエラーやCloudflareのチェックを回避するために、ChatGPTセッションを新鮮に保ちます。
- * 🔥 [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - ⭐ 533 / 🤖 ChatGPTの驚異的なパワーを活用するアプリやそのUXを向上させるアプリ
+ * 🔥 [chatgpt-apps](https://github.com/adamlui/chatgpt-apps) - ⭐ 536 / 🤖 ChatGPTの驚異的なパワーを活用するアプリやそのUXを向上させるアプリ
  * 🔥 [embedchain](https://github.com/embedchain/embedchain) - ⭐ 48k / 任意のデータセット上で簡単にLLMパワードボットを作成するためのフレームワーク。
  * 💤 [paper-summarizer](https://github.com/discus0434/paper-summarizer) - ⭐ 71 / OpenAI LLMsを活用したarXiv論文の要約を行うSlackボット。
- * 💤 [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - ⭐ 791 / フル機能を備えた、Vercel Labs＆Supabaseによって構築されたSupabaseified Next.js AIチャットボット。
+ * 💤 [vercel-ai-chatbot](https://github.com/supabase-community/vercel-ai-chatbot) - ⭐ 792 / フル機能を備えた、Vercel Labs＆Supabaseによって構築されたSupabaseified Next.js AIチャットボット。
  * 💤 [llm-inference](https://github.com/aniketmaurya/llm-inference) - ⭐ 127 / 大規模言語モデル（LLM）の推論APIとチャットボット
  * 💤 [GPT4Tools](https://github.com/stevengrove/gpt4tools) - ⭐ 773 / GPT4Toolsは、異なるビジュアル基盤モデルを自動的に決定、制御、活用することができるインテリジェントシステムです。これにより、ユーザーは会話中に画像と対話することができます。
  * 💤 [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt) - ⭐ 89 / 究極のChatGPTは、強化された文章作成と問題解決の体験を提供するために設計されたAIパワードの仮想アシスタントです。
  * 💤 [wechat-gptbot](https://github.com/iuiaoin/wechat-gptbot) - ⭐ 611 / リスクのない、非常に安定したChatGPTベースのWeChatロボットです！ 🚀
- * 💤 [FeishuBot](https://github.com/rawchen/feishubot) - ⭐ 158 / 飛書のグループチャット/個人チャットChatGPTロボット
+ * 💤 [FeishuBot](https://github.com/rawchen/feishubot) - ⭐ 157 / 飛書のグループチャット/個人チャットChatGPTロボット
  * 💤 [gradio-chatbot](https://github.com/weaigc/gradio-chatbot) - ⭐ 165 / 自動的に🤗 Huggingface Spaces、魔搭創空間、およびGradio ChatBotを無料のAPIに変換するツールです。GPT4Free、ChatGPT、Llama2、MPT、Falcon Chat、ChatGLM、通義千問など、さまざまなチャットボットのようなスペースをサポートしています。
  * 💤 [ChatGpt-Web](https://github.com/79e/chatgpt-web) - ⭐ 1.4k / Reactで構築された商業的に有益なChatGptウェブアプリケーション。
  * ⚠️ [word-GPT-Plus](https://github.com/kuingsmile/word-gpt-plus) - ⭐ 1.1k / Word GPT Plusは、chatGPTモデルをMicrosoft Wordに統合するワードアドインです。公式およびWeb APIの両方がサポートされています。
  * 💤 [chat-with-your-doc](https://github.com/linjungz/chat-with-your-doc) - ⭐ 140 / LangChainとGPT4/ChatGPTを使用して、Azure OpenAIサービスとOpenAIの両方でPDF/PPTX/DOCX形式のドキュメントとチャットする。
  * ⚠️ [OpenAi-ChatGPT-Bot](https://github.com/darkmakerofc/openai-chatgpt-bot) - ⭐ repo not found / DarkMakerofc（Mr Nima）とチームによるOpen Ai ChatGPTボット、WhatsappでChatGPTを体験できます。
  * 💤 [opening-up-chatgpt.github.io](https://github.com/opening-up-chatgpt/opening-up-chatgpt.github.io) - ⭐ 119 / Liesenfeld、Andreas、Alianda Lopez、およびMark Dingemanse。2023年。「ChatGPTの公開：指示に調整されたテキスト生成器の公開性、透明性、および説明責任の追跡」。第5回国際会議「対話型ユーザーインターフェースに関する国際会議」の論文集。アイントホーフェン。doi：10.1145/3571884.3604316。
- * 💤 [ChatDrug](https://github.com/chao1224/chatdrug) - ⭐ 156 / 薬剤探索のためのChatGPT
- * 💤 [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - ⭐ 50 / この記事では、Terraformを使用してAzure Kubernetes Service(AKS)クラスターとAzure OpenAIサービスを展開する方法、およびAzure ADワークロードアイデンティティを使用してAzure OpenAIに対して認証するTerraformチャットボットを展開し、ChatGPTモデルのChat Completion APIを呼び出す方法を示しています。
+ * 💤 [ChatDrug](https://github.com/chao1224/chatdrug) - ⭐ 157 / 薬剤探索のためのChatGPT
+ * 💤 [aks-openai-terraform](https://github.com/azure-samples/aks-openai-terraform) - ⭐ 49 / この記事では、Terraformを使用してAzure Kubernetes Service(AKS)クラスターとAzure OpenAIサービスを展開する方法、およびAzure ADワークロードアイデンティティを使用してAzure OpenAIに対して認証するTerraformチャットボットを展開し、ChatGPTモデルのChat Completion APIを呼び出す方法を示しています。
  * 💤 [Robot-GPT](https://github.com/nonejou072/robot-gpt) - ⭐ 131 / 大型モデルの時代におけるロボットの相互作用タスクのためのROS2とChatGPTに基づくシミュレーションフレームワーク
  * 💤 [chatgpt-finetune-ui](https://github.com/anchen1011/chatgpt-finetune-ui) - ⭐ 176 / ChatGPT（gpt-3.5-turbo）の微調整のためのシンプルなPython WebUI
  * 💤 [poe-api-wrapper](https://github.com/snowby666/poe-api-wrapper) - ⭐ 1.1k / 👾 Httpxを使用したPoe.comのPython APIラッパー。これにより、ChatGPT、Claude、Llama、Google-PaLMなどに無料でアクセスできます！🚀
@@ -466,7 +463,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [rotary-gpt](https://github.com/tcz/rotary-gpt) - ⭐ 54 / 私は古い回転式電話をChatGPTベースの家庭用アシスタントに変えました。あなたも同じことができます。
  * 💤 [rusty_llama](https://github.com/moonkraken/rusty_llama) - ⭐ 435 / フロントエンドとバックエンドの両方でRustで作られたシンプルなChatGPTクローン。オープンソースの言語モデルとTailwindCSSを使用しています。
  * ⚠️ [GPT_CodeInterpreter](https://github.com/boyueluzhipeng/gpt_codeinterpreter) - ⭐ repo not found / Pythonコードインタプリタと他の複数の機能を備えた究極で無料のOpenAIプロバイダー、ChatGPTとGPT-4によってパワーアップされました！
- * ⚠️ [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ⭐ 822 / ChatGPT、クロード、バードからAPIへ：）
+ * ⚠️ [WebAI-to-API](https://github.com/amm1rr/webai-to-api) - ⭐ 839 / ChatGPT、クロード、バードからAPIへ：）
  * 💤 [chatgpt-minimal](https://github.com/blrchen/chatgpt-minimal) - ⭐ 73 / 軽量なチャットGPTボットは、Next.jsとOpenAI Streaming APIを使用して構築されています。
  * 💤 [open_source_chatgpt_list](https://github.com/sunlemuria/open_source_chatgpt_list) - ⭐ 107 / ChatGPTのようなモデルやそれ以上を実装するための積極的な取り組みを開始します。
  * 💤 [chatgpt-dingtalk-robot](https://github.com/sytpb/chatgpt-dingtalk-robot) - ⭐ 91 / 零コード、ワンクリックでChatGPTをDingTalkにデプロイ、VPN不要
@@ -475,7 +472,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [kitt](https://github.com/livekit-examples/kitt) - ⭐ 268 / リアルタイムでLiveKitを使用してChatGPTと会話してください。
  * 💤 [compose-chatgpt-kotlin-android-chatbot](https://github.com/lambiengcode/compose-chatgpt-kotlin-android-chatbot) - ⭐ 257 / :lion:Compose ChatGPT Kotlin - Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAIのGPT-3 APIを使用したAndroidチャットボット。ChatGPT APIからのストリームレスポンスを許可します。Compose ChatGPT Kotlin - 使用 Kotlin + Jetpack Compose + Coroutine + MVVM + Retrofit2 + OpenAI 的 GPT-3 API 的 Android 聊天机器人.允许来自 ChatGPT API 的流响应。🤖
  * 💤 [Chino-chan-Bot](https://github.com/misonomikadev/chino-chan-bot) - ⭐ 67 / ボットメッセンジャーはChatGPTが統合されています。
- * 💤 [Chatbase](https://github.com/anil-matcha/chatbase) - ⭐ 628 / すべてのウェブサイトに対応するChatGPT。ウェブサイトのコンテンツを学習したパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案です。
+ * 💤 [Chatbase](https://github.com/anil-matcha/chatbase) - ⭐ 630 / すべてのウェブサイトに対応するChatGPT。ウェブサイトのコンテンツを学習したパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案です。
  * 💤 [plotai](https://github.com/mljar/plotai) - ⭐ 354 / プロットAI - あなたの究極のプロット補助！📊🤖 ChatGPT-3.5を使用して、PythonとMatplotlibで直接プロットを作成するためのPythonスクリプトやノートブックを使用してください。
  * ⚠️ [TianMu](https://github.com/openjarvisai/tianmu) - ⭐ repo not found / 天幕：一款现代化的AI工具，支持多平台、支持markdown、多模态、连续对话和可定制的命令。一个支持文心一言、通义千问、LLaMa、ChatGPT等功能的APP，同时也是一个开源的大模型客户端！
  * 💤 [youtube-summarizer](https://github.com/sabber-slt/youtube-summarizer) - ⭐ 93 / ChatGPTを使用して、YouTube動画の内容を要約するために設計されたTelegramボット。
@@ -484,13 +481,13 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [Langchain-Chatchat](https://github.com/chatchat-space/langchain-chatchat) - ⭐ 37k / Langchain-Chatchat（元Langchain-ChatGLM）は、LangchainとChatGLMなどの言語モデルを利用したローカルな知識ベースの質問応答アプリです。
  * 💤 [wukong-robot](https://github.com/wzpan/wukong-robot) - ⭐ 7.1k / 🤖 wukong-robotは、シンプルで柔軟でエレガントな中国語音声対話ロボット/スマートスピーカープロジェクトであり、ChatGPTのマルチターン対話能力をサポートしています。また、脳機インタラクションをサポートする最初のオープンソーススマートスピーカープロジェクトかもしれません。
  * ⚠️ [autogen](https://github.com/microsoft/autogen) - ⭐ 55k / 次世代の大規模言語モデルアプリケーションを有効にする。私たちのDiscordに参加してください：https://discord.gg/pAbnFJrkgZ
- * 🔥 [GPTDiscord](https://github.com/kav-k/gptdiscord) - ⭐ 1.8k / Discord用の堅牢なオールインワンGPTインターフェース。ChatGPTスタイルの会話、画像生成、AIモデレーション、カスタムインデックス/ナレッジベース、YouTubeサマライザーなどが利用可能です！
+ * ✅ [GPTDiscord](https://github.com/kav-k/gptdiscord) - ⭐ 1.8k / Discord用の堅牢なオールインワンGPTインターフェース。ChatGPTスタイルの会話、画像生成、AIモデレーション、カスタムインデックス/ナレッジベース、YouTubeサマライザーなどが利用可能です！
  * 🔥 [BotSharp](https://github.com/scisharp/botsharp) - ⭐ 3k / .NETでのAIエージェントアプリケーションフレームワーク
  * 🔥 [anything-llm](https://github.com/mintplex-labs/anything-llm) - ⭐ 55k / オープンソースのChatGPTに相当する経験を、オープンソースおよびクローズドソースのLLMs、埋め込みツール、およびベクトルデータベースに提供します。非常にクリーンなUIで、無制限のドキュメント、スレッド、および同時ユーザーをサポートし、すべてを管理します。
  * 🔥 [magic](https://github.com/polterguy/magic) - ⭐ 1.1k / カスタムのChatGPTベースのウェブサイトチャットボットを作成してください。
  * 💤 [rags](https://github.com/run-llama/rags) - ⭐ 6.5k / データを使用してChatGPTを構築し、すべて自然言語で行います。
  * 🔥 [LLamaSharp](https://github.com/scisharp/llamasharp) - ⭐ 3.5k / C#で簡単かつ高速にLLaMA/GPTモデルを実行できます！🤗 さらに、LLamaSharpをsemantic-kernel、unity、WPF、およびWebAppと簡単に統合することもできます。
- * 🔥 [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - ⭐ 1.6k / Assistants APIを使用して、カスタムGPTを作成し、サイトに追加/埋め込む。 カスタムGPTを作成し、Assistants APIを使用してサイトに追加/埋め込む。
+ * ✅ [Open-Custom-GPT](https://github.com/samuraigpt/open-custom-gpt) - ⭐ 1.6k / Assistants APIを使用して、カスタムGPTを作成し、サイトに追加/埋め込む。 カスタムGPTを作成し、Assistants APIを使用してサイトに追加/埋め込む。
  * 💤 [wechat-ai-summarize-bot](https://github.com/aoao-eth/wechat-ai-summarize-bot) - ⭐ 269 / 微信群チャットの要約アシスタント JS バージョン
  * ⚠️ [webwhiz](https://github.com/webwhiz-ai/webwhiz) - ⭐ 1k / WebWhizは、あなたの製品についてすべてを知っており、お客様の問い合わせに即座に応答できるAIチャットボットを作成することができます。
  * 🔥 [deep-chat](https://github.com/ovidijusparsiunas/deep-chat) - ⭐ 3.5k / ウェブサイト用の完全にカスタマイズ可能なAIチャットボットコンポーネント
@@ -498,23 +495,23 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [mPLUG-Owl](https://github.com/x-plug/mplug-owl) - ⭐ 2.5k / [公式実装] mPLUG-Owl＆mPLUG-Owl2：アリババMLLMファミリー。
  * ⚠️ [AstrBot](https://github.com/soulter/astrbot) - ⭐ repo not found / ⭐ QQとQQチャンネルの両方で使用できるChatGPT、Bing、Claude、HuggingChatのボット、プラグインをサポートします | 元のQQChannelChatGPT
  * 🔥 [casibase](https://github.com/casibase/casibase) - ⭐ 4.4k / ⚡️ウェブUIとエンタープライズSSOを備えたオープンソースのLangChainのようなAI知識データベースです⚡️。OpenAI、Azure、HuggingFace、OpenRouter、ChatGLM、およびローカルモデルをサポートしています。チャットデモ：https://ai.casbin.com、管理ポータルデモ：https://ai.casibase.com
- * ⚠️ [ai-chatbot](https://github.com/vercel/ai-chatbot) - ⭐ 20k / Vercelによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
- * 🔥 [ChatPDF](https://github.com/anil-matcha/chatpdf) - ⭐ 1.9k / どんなPDFでもチャットできます。簡単にアップロードしてください。即座に回答します。質問をする、情報を抽出する、AIで文書を要約することができます。ソースも含まれています。
- * 💤 [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - ⭐ 413 / OpenAI APIアシスタントを使用してチャットボットを構築するためのオープンソースプラットフォーム。
+ * 🔥 [ai-chatbot](https://github.com/vercel/ai-chatbot) - ⭐ 20k / Vercelによって構築された、フル機能を備えた、ハッキング可能なNext.js AIチャットボット。
+ * 🔥 [ChatPDF](https://github.com/anil-matcha/chatpdf) - ⭐ 2.1k / どんなPDFでもチャットできます。簡単にアップロードしてください。即座に回答します。質問をする、情報を抽出する、AIで文書を要約することができます。ソースも含まれています。
+ * 💤 [OpenAssistantGPT](https://github.com/marcolivierbouch/openassistantgpt) - ⭐ 414 / OpenAI APIアシスタントを使用してチャットボットを構築するためのオープンソースプラットフォーム。
  * 💤 [ai-research-assistant](https://github.com/lifan0127/ai-research-assistant) - ⭐ 1.7k / アリアは、GPT大規模言語モデルによってパワードされたあなたのAI研究アシスタントです。
  * 💤 [aidea](https://github.com/mylxsw/aidea) - ⭐ 6.9k / AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。
  * 💤 [ChatGPT-weBot](https://github.com/snapdragonlee/chatgpt-webot) - ⭐ 658 / ChatGPT（gpt-3.5以降）とのチャット、WeChatフックインターフェースを使用
  * 💤 [vbot](https://github.com/hanson/vbot) - ⭐ 4.4k / 微信、企微、ロボット、企業微信、企微ロボット、微信ロボット、集約チャット、RPA、プロトコル、フック、リバース、ワークツール、ネットワーク、グループ送信、自動返信、ChatGPT、API接続、安定した防止全言語対応、企業カスタマイズ/SCRM/SAAS専用
- * ⚠️ [org-ai](https://github.com/rksm/org-ai) - ⭐ 807 / Emacsはあなたの個人的なAIアシスタントです。ChatGPTやLLaMAなどのLLMを使用してテキスト生成、DALL-EやStable Diffusionを使用して画像生成を行います。また、音声入力/出力もサポートしています。
+ * ⚠️ [org-ai](https://github.com/rksm/org-ai) - ⭐ 809 / Emacsはあなたの個人的なAIアシスタントです。ChatGPTやLLaMAなどのLLMを使用してテキスト生成、DALL-EやStable Diffusionを使用して画像生成を行います。また、音声入力/出力もサポートしています。
  * 💤 [Linly](https://github.com/cvi-szu/linly) - ⭐ 3.1k / Chinese-LLaMA 1＆2、Chinese-Falcon 基礎モデル；ChatFlow中文対話モデル；中文OpenLLaMAモデル；NLPプレトレーニング/指示微調データセット
  * 💤 [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) - ⭐ 7.8k / オープンエーアイ + LINE + Vercel = GPT AIアシスタント
  * ⚠️ [TS-GPT](https://github.com/dulaiduwang003/ts-gpt) - ⭐ 747 / SpringCloudAlibabaをベースに開発されたデュアルエンドのGPTアプリケーション。音声対話、描画、画像認識、テキスト対話を含んでいます。デュアルエンドのGPTアプリケーションは、音声対話、描画、画像認識、テキスト対話を含んでいます。
  * 💤 [ChatGPT-YourChatRobot](https://github.com/ashinnotfound/chatgpt-yourchatrobot) - ⭐ 429 / ❤開封即使❤QQ/Wechatでの非公式ChatGPTの実装です。あなたのQQまたはWechatをChatGPTに変えてみましょう。
- * 🔥 [wechat-bot](https://github.com/wangrongding/wechat-bot) - ⭐ 9.8k / 🤖OpenAi ChatGPT + WeChatyをベースにしたWeChatのロボットです。WeChatのメッセージに自動的に返信したり、WeChatのグループ/友達を管理したり、ゾンビフォロワーを検出したりするのに使用できます...
+ * ✅ [wechat-bot](https://github.com/wangrongding/wechat-bot) - ⭐ 9.8k / 🤖OpenAi ChatGPT + WeChatyをベースにしたWeChatのロボットです。WeChatのメッセージに自動的に返信したり、WeChatのグループ/友達を管理したり、ゾンビフォロワーを検出したりするのに使用できます...
  * 💤 [ChatFred](https://github.com/chrislemke/chatfred) - ⭐ 374 / チャットGPT、DALL·E 2などを使用したAlfredワークフローによるチャット、画像生成などAlfredワークフローを使用して、チャット、画像生成などを行うためのチャットGPT、DALL·E 2などのモデルを使用します。
- * ⚠️ [catai](https://github.com/withcatai/catai) - ⭐ 483 / 🦙モデルのためのUI。AIアシスタントをローカルで実行する✨
+ * ⚠️ [catai](https://github.com/withcatai/catai) - ⭐ 484 / 🦙モデルのためのUI。AIアシスタントをローカルで実行する✨
  * ⚠️ [ChatGPT-Telegram-Bot](https://github.com/yym68686/chatgpt-telegram-bot) - ⭐ 1.2k / 🤖️ AIチャットTelegramボットは、Zeabur、fly.io、およびReplitでPythonを使用してGPTとClaude2.1によるWeb検索を行うことができます。
- * 💤 [bidara](https://github.com/nasa-petal/bidara) - ⭐ 452 / BIDARAは、生物模倣学研究所の段階的な設計プロセスを使用して、持続可能なデザインと技術を作成するために生物が使用する戦略を科学者やエンジニアが理解し、学び、模倣するのを支援するように指示されたGPT-4チャットボットです。
+ * 💤 [bidara](https://github.com/nasa-petal/bidara) - ⭐ 451 / BIDARAは、生物模倣学研究所の段階的な設計プロセスを使用して、持続可能なデザインと技術を作成するために生物が使用する戦略を科学者やエンジニアが理解し、学び、模倣するのを支援するように指示されたGPT-4チャットボットです。
  * 💤 [sagittarius](https://github.com/gregsadetsky/sagittarius) - ⭐ 685 / GPT-4/Geminiの音声/ビデオ探索ツール
  * 💤 [Chat-with-Github-Repo](https://github.com/peterw/chat-with-github-repo) - ⭐ 1.2k / このリポジトリには、Streamlit、OpenAI GPT-3.5-turbo、およびActiveloopのDeep Lakeを使用してチャットボットを作成する方法を示す2つのPythonスクリプトが含まれています。
  * ⚠️ [pandas-ai](https://github.com/gventuri/pandas-ai) - ⭐ 23k / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
@@ -525,9 +522,9 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - ⭐ 23k / 4、Anthropic、VertexAI）とRAGを使用して、データ分析を対話形式にします。
  * 💤 [WeChatRobot](https://github.com/lich0821/wechatrobot) - ⭐ 1.9k / WeChatボット、Google Bard、ChatGPT、ChatGLM、讯飞星火、Tigerbotに接続します。四字熟語ゲーム、天気予報、ニュースの要約。
  * 💤 [chatgptassistantautoblogger](https://github.com/incomestreamsurfer/chatgptassistantautoblogger) - ⭐ 457 / このオートブロガーは、GPTアシスタントのAPIを使用して、ECサイトでのオートブログを行います。
- * 💤 [chaty](https://github.com/cosin2077/chaty) - ⭐ 450 / 1行のコード、すべてのChatGPTの想像力に満足✨✨✨
+ * 💤 [chaty](https://github.com/cosin2077/chaty) - ⭐ 449 / 1行のコード、すべてのChatGPTの想像力に満足✨✨✨
  * ⚠️ [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) - ⭐ repo not found / 知能ウェイシュ，オールインワンのWeChatボット管理プラットフォーム、ChatGPT、FastGPT、Difyナレッジベースに最も簡単な方法でアクセスできます。図形描画、オンライン検索、音声認識、さまざまなタイマータスクをサポートし、企業WeChat、個人WeChat、公式アカウント、5Gメッセージ、WhatsAppをサポートします。
- * 💤 [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - ⭐ 647 / スムーズなAI体験を提供するTelegramボット。
+ * 💤 [ChatGPT-Telegram-Bot](https://github.com/v-know/chatgpt-telegram-bot) - ⭐ 648 / スムーズなAI体験を提供するTelegramボット。
  * ⚠️ [nlux](https://github.com/nluxai/nlux) - ⭐ 1.4k / Javascriptライブラリ
  * 💤 [ChatGPT-Line-Bot](https://github.com/theexplainthis/chatgpt-line-bot) - ⭐ 1.7k / これは、ChatGPTをLineに統合することができるリポジトリです。
  * 💤 [langup-ai](https://github.com/jiran214/langup-ai) - ⭐ 703 / AGI ソーシャルネットワークボット。BiliBili | ライブチャット数字人 | 動画@自動返信 | ダイレクトメッセージボット | 端末チャット | 音声インタラクション
@@ -535,11 +532,11 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [DarkGPT](https://github.com/luijait/darkgpt) - ⭐ repo not found / DarkGPTは、リークされたデータベースにクエリを実行するために設計されたGPT-4-200K（推奨使用）に基づくOSINTアシスタントであり、従来のOSINTプロセスで役立つ人工知能アシスタントを提供します。
  * 💤 [Kuebiko](https://github.com/adi-panda/kuebiko) - ⭐ 387 / GPT-3とGoogle Cloud TTSを使用したAI Twitch TTSチャットボットAI Twitch TTSチャットボット
  * ⚠️ [AI-Catalog](https://github.com/mehmetkahya0/ai-catalog) - ⭐ 478 / 巨大なAIモデルカタログ。さまざまなドメインにわたるAIツール、プラットフォーム、リソースの厳選リスト。
- * 💤 [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - ⭐ 557 / チャットボットアリーナがマルチモダリティに対応しました！マルチモダリティアリーナでは、画像を入力として提供しながら、ビジョン言語モデルを並べてベンチマークを行うことができます。MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2などをサポートしています！
+ * 💤 [Multi-Modality-Arena](https://github.com/opengvlab/multi-modality-arena) - ⭐ 558 / チャットボットアリーナがマルチモダリティに対応しました！マルチモダリティアリーナでは、画像を入力として提供しながら、ビジョン言語モデルを並べてベンチマークを行うことができます。MiniGPT-4、LLaMA-Adapter V2、LLaVA、BLIP-2などをサポートしています！
  * ⚠️ [chatbot](https://github.com/zhaoyingjun/chatbot) - ⭐ 3.6k / ChatGPTがチャットボットを人気にしました。主流のトレンドはすべてGPTタイプのモデルに調整されており、このプロジェクトも最新のGPTタイプのバージョンを近日中に更新する予定です。このプロジェクトと独自のコーパスを使用して、自分が望むチャットボットをトレーニングすることができ、インテリジェントカスタマーサービス、オンライン質問回答、雑談などのシーンに活用できます。
  * 💤 [WechatBotCMD](https://github.com/wechatapis/wechatbotcmd) - ⭐ 46 / WechatBotCMDは、Python 3.11をベースにした革新的なプロジェクトであり、ChatGPTモデルとWechatのネイティブAPIを組み合わせることで、ユーザーにスマートなチャット、自動描画、自動的に友達に共有する、自動的に動画を共有するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
  * 💤 [ChatGPT-On-CS](https://github.com/lrhh123/chatgpt-on-cs) - ⭐ 3.7k / 大規模モデルを活用したインテリジェントなチャットボットツールで、WeChat、Taobao、Bilibili、Douyin Enterprise、Douyin、Douyin Store、Weibo Chat、Xiaohongshu Professional Operations、Xiaohongshu、Zhihuなどのプラットフォームに接続できます。GPT3.5/GPT4.0/ Lazy Man's Treasure Chest（今後、さらに多くのプラットフォームをサポート予定）を選択でき、テキスト、音声、画像を処理し、プラグインを使用してオペレーティングシステムやインターネットなどの外部リソースにアクセスできます。独自のナレッジベースに基づいた企業向けAIアプリケーションをカスタマイズすることができます。
- * 💤 [agentcloud](https://github.com/rnadigital/agentcloud) - ⭐ 671 / エージェントクラウドは、自分自身のGPTビルダーを持っているような感覚で、さらにたくさんの特典が付いてきます。GUIには、1) 260以上のデータソースをネイティブに埋め込むことができるRAGパイプライン、2) 会話型アプリ（GPTのようなもの）の作成、3) マルチエージェントプロセス自動化アプリ（crewai）の作成、4) ツールがあります。
+ * 💤 [agentcloud](https://github.com/rnadigital/agentcloud) - ⭐ 672 / エージェントクラウドは、自分自身のGPTビルダーを持っているような感覚で、さらにたくさんの特典が付いてきます。GUIには、1) 260以上のデータソースをネイティブに埋め込むことができるRAGパイプライン、2) 会話型アプリ（GPTのようなもの）の作成、3) マルチエージェントプロセス自動化アプリ（crewai）の作成、4) ツールがあります。
  * 💤 [openlrc](https://github.com/zh-plus/openlrc) - ⭐ 634 / WhisperとLLM（GPT、Claudeなど）を使用して、音声をLRCファイルに転写し、翻訳します。
  * ⚠️ [wrest-chat](https://github.com/opentdp/wrest-chat) - ⭐ repo not found / WeChatボット、PC WeChat API/Bot/SDK、組み込みのWEB管理インターフェース、GPT、Gemini、星火、文心、混元、通義千問などの大規模言語モデルに接続可能
  * 💤 [chatbot-app](https://github.com/chatbot-all/chatbot-app) - ⭐ 651 / モバイルプライベートChatGPTアプリケーション、GPT3、GPT4＆Gemini Proモデルをサポート。独自のモバイルChatGPT/Geminiアプリを持っています。
@@ -551,28 +548,28 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 🔥 [gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - ⭐ 7.8k / Windows、macOS、およびUbuntu用のgpt-4o
  * ⚠️ [nlux](https://github.com/nlkitai/nlux) - ⭐ 1.4k / The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Libraryパワフルな会話型AI JavaScriptライブラリ
  * 💤 [Streamer-Sales](https://github.com/peterh0323/streamer-sales) - ⭐ 3.6k / Input: Streamer-Sales 销冠 —— 卖货主播 LLM 大模型🛒🎁，一个能够根据给定的商品特点对商品进行解说并激发用户的购买意愿的卖货主播模型。🚀⭐内含详细的数据生成流程❗ 📦另外还集成了 LMDeploy 加速推理🚀、RAG检索增强生成 📚、TTS文字转语音🔊Output: ストリーマーセールス 销冠 —— 販売主播 LLM 大モデル🛒🎁、商品の特徴に基づいて商品を説明し、ユーザーの購買意欲を刺激する販売主播モデル。🚀⭐詳細なデータ生成プロセスが含まれています❗ 📦さらに、LMDeployの高速推論🚀、RAG検索強化生成 📚、TTSテキスト読み上げ🔊
- * 💤 [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ⭐ 628 / 各ウェブサイト用のChatGPT。ウェブサイトコンテンツでトレーニングされたパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案。
- * 🔥 [speak-gpt](https://github.com/andraxdev/speak-gpt) - ⭐ 426 / OpenAI ChatGPTに基づいたあなたの個人用音声アシスタント。
+ * 💤 [Chatbase-Alternative](https://github.com/anil-matcha/chatbase-alternative) - ⭐ 630 / 各ウェブサイト用のChatGPT。ウェブサイトコンテンツでトレーニングされたパーソナライズされたチャットボットで、訪問者の質問に即座に回答します。Chatbase、SiteGPT、Dante AIの代替案。
+ * ✅ [speak-gpt](https://github.com/andraxdev/speak-gpt) - ⭐ 427 / OpenAI ChatGPTに基づいたあなたの個人用音声アシスタント。
  * 💤 [IncarnaMind](https://github.com/junruxiong/incarnamind) - ⭐ 798 / GPT 3.5、GPT-4 Turbo、Claude、およびローカルオープンソースLLMsを介して複数のドキュメント（pdfおよびtxt）を接続してチャットします。
- * 💤 [unsaged](https://github.com/jorge-menjivar/unsaged) - ⭐ 254 / AIモデルとのシームレスなインタラクションを可能にするオープンソースチャットキット。
- * ⚠️ [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - ⭐ 753 / llmcord.py • 友達とLLMと話す!
+ * 💤 [unsaged](https://github.com/jorge-menjivar/unsaged) - ⭐ 255 / AIモデルとのシームレスなインタラクションを可能にするオープンソースチャットキット。
+ * ⚠️ [discord-llm-chatbot](https://github.com/jakobdylanc/discord-llm-chatbot) - ⭐ 755 / llmcord.py • 友達とLLMと話す!
  * 💤 [Instruct2Act](https://github.com/opengvlab/instruct2act) - ⭐ 373 / Instruct2Act：大規模言語モデルを使用した多様なモダリティ指示のロボットアクションへのマッピング
  * ⚠️ [GURU-Ai](https://github.com/guru322/guru-ai) - ⭐ 1.2k / 機能満載のシンプルで複雑なAIチャットロボット🚩
  * 💤 [voxelgpt](https://github.com/voxel51/voxelgpt) - ⭐ 251 / 視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える視覚データセットをクエリできるAIアシスタント、FiftyOneのドキュメントを検索し、一般的なコンピュータビジョンの質問に答える
- * 💤 [XYBot](https://github.com/henryxiaoyang/xybot) - ⭐ 541 / Dockerとpywxdllフックインジェクションを使用したWeChatボット🤖️！✅高度にカスタマイズ可能！ ✅自作プラグインのサポート！機能がたくさんあります：天気🌤️、ニュース取得📰、ChatGPTチャット🗣️、Hypixelプレイヤー検索🎮、ランダム画像📷、ランダムリンク🔗、ランダムグループメンバー👥、五目並べ♟️、サインイン✅、ポイント検索📊、ポイントランキング🏆、ポイント送信💰、ポイント抽選🎁、ポイントお年玉🧧など
+ * 💤 [XYBot](https://github.com/henryxiaoyang/xybot) - ⭐ 540 / Dockerとpywxdllフックインジェクションを使用したWeChatボット🤖️！✅高度にカスタマイズ可能！ ✅自作プラグインのサポート！機能がたくさんあります：天気🌤️、ニュース取得📰、ChatGPTチャット🗣️、Hypixelプレイヤー検索🎮、ランダム画像📷、ランダムリンク🔗、ランダムグループメンバー👥、五目並べ♟️、サインイン✅、ポイント検索📊、ポイントランキング🏆、ポイント送信💰、ポイント抽選🎁、ポイントお年玉🧧など
  * ⚠️ [GPTPortal](https://github.com/zaki-1052/gptportal) - ⭐ 398 / 機能豊富なポータルを介して、軽量なNode.jsウェブアプリを使用してGPT-4、Claude、Gemini、Mistral、およびOpenAIアシスタントAPIとチャットするためのポータルを提供します。音声、画像、ファイルに対応したカスタマイズ可能なマルチモダリティをサポートしています。
  * 💤 [CreativeChatGLM](https://github.com/ypwhs/creativechatglm) - ⭐ 250 / 👋 ChatGLMの創造的な世界へようこそ！修正や継続書き機能を使って創造的なコンテンツを生成することができます！
- * ⚠️ [ChatPilot](https://github.com/shibing624/chatpilot) - ⭐ 593 / ChatPilot: AgentChatの会話を実現し、Google検索、ファイルURL会話（RAG）、コード解釈機能をサポートし、Kimi Chat（ファイル、ドラッグアンドドロップ；URL、送信）を再現しました。
+ * ⚠️ [ChatPilot](https://github.com/shibing624/chatpilot) - ⭐ 594 / ChatPilot: AgentChatの会話を実現し、Google検索、ファイルURL会話（RAG）、コード解釈機能をサポートし、Kimi Chat（ファイル、ドラッグアンドドロップ；URL、送信）を再現しました。
  * 💤 [Whatsapp-Ai-BOT](https://github.com/yesbhautik/whatsapp-ai-bot) - ⭐ 278 / WhatsApp用のAIチャットボットをご紹介します - OpenAIのChatGPT、Playground＆DALL·Eによってパワードされた最先端のソリューションです。この革新的なチャットボットは、NodeJS技術を使用して開発され、AIの最新の進歩を活用して、類を見ないユーザーエクスペリエンスを提供しています。
  * 💤 [fastui-chat](https://github.com/shroominic/fastui-chat) - ⭐ 227 / 💬 純粋なPythonで作られたミニマリストなChatBotインターフェース
  * ⚠️ [pokitoki](https://github.com/nalgeon/pokitoki) - ⭐ 342 / 謙虚なGPTテレグラムボット
- * ⚠️ [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - ⭐ 317 / 🎩 OpenAI Chat APIを使用してGPT-3.5/GPT-4とやり取りするためのAlfred 5ワークフロー 🤖💬 画像生成も可能 🖼️、画像理解 👀、音声からテキストへの変換 🎤、テキストから音声への合成 🔈
+ * 🔥 [openai-chat-api-workflow](https://github.com/yohasebe/openai-chat-api-workflow) - ⭐ 316 / 🎩 OpenAI Chat APIを使用してGPT-3.5/GPT-4とやり取りするためのAlfred 5ワークフロー 🤖💬 画像生成も可能 🖼️、画像理解 👀、音声からテキストへの変換 🎤、テキストから音声への合成 🔈
  * 💤 [AIUI](https://github.com/lspahija/aiui) - ⭐ 353 / AIUIはAIとのシームレスな双方向の音声コミュニケーションを可能にするプラットフォームです。
  * 💤 [OPERA](https://github.com/shikiw/opera) - ⭐ 397 / [CVPR 2024 ハイライト] OPERA: 過信ペナルティと振り返り割り当てを用いたマルチモーダル大規模言語モデルにおける幻覚の緩和
  * 💤 [bot-on-anything](https://github.com/zhayujie/bot-on-anything) - ⭐ 4.2k / AIモデル（ChatGPT-3.5/4.0、Baidu Yiyan、New Bing、Bardなど）をアプリ（Wechat、公式アカウント、DingTalk、Telegram、QQなど）に接続します。ChatGPT、必应、文心一言、谷歌Bardなどの対話モデルをWechat、公式アカウント、QQ、Telegram、Gmail、Slack、Web、企業Wechat、飛書、DingTalkなどのさまざまなアプリに接続します。
  * ⚠️ [psychic](https://github.com/psychic-api/psychic) - ⭐ repo not found / LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
  * 🔥 [gpt-computer-assistant](https://github.com/upsonic/gpt-computer-assistant) - ⭐ 7.8k / Windows、macOS、およびLinux用のgpt-4oWindows、macOS、およびLinux用のgpt-4o
- * 💤 [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - ⭐ 413 / OpenAIのAssistant APIを使用して、ウェブサイトに追加できる、Crafting/Building/Creating Chatbots向けのコミュニティオープンソースSaaS。
+ * 💤 [OpenAssistantGPT](https://github.com/openassistantgpt/openassistantgpt) - ⭐ 414 / OpenAIのAssistant APIを使用して、ウェブサイトに追加できる、Crafting/Building/Creating Chatbots向けのコミュニティオープンソースSaaS。
  * 💤 [ChatGPT](https://github.com/nisabmohd/chatgpt) - ⭐ 347 / Next.js 14、Shadcn-UI、Prisma ORMを使用してChatGPTのクローンを開発し、OpenAI APIと統合しました。ユーザーフレンドリーな会話型AI体験を提供しています。
  * ⚠️ [ChatGPT-Linebot-using-python-flask-on-vercel](https://github.com/howarder3/chatgpt-linebot-using-python-flask-on-vercel) - ⭐ 243 / Vercel用のPython Flaskを使用したGPT-LinebotGPT-LinebotをVercelで使用するPython Flask
  * 💤 [ComfyUI-GPT_SoVITS](https://github.com/aifsh/comfyui-gpt_sovits) - ⭐ 249 / GPT-SoVITS用のカスタムノード「comfyui」！今、comfyuiでボイスクローンとTTSができます。
@@ -580,19 +577,19 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [psychic](https://github.com/finic-ai/psychic) - ⭐ repo not found / LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
  * 🔥 [repopack](https://github.com/yamadashy/repopack) - ⭐ 22k / 📦 Repopackは、あなたのリポジトリ全体を1つの、AIにとっても使いやすいファイルにパックする強力なツールです。大規模言語モデル（LLM）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを提供する必要があるときに最適です。
  * ⚠️ [finic](https://github.com/finic-ai/finic) - ⭐ repo not found / LLM向けのデータ統合プラットフォーム。ターンキー認証でSaaSツールに接続し、Nつのデータソースからドキュメントを同期するための唯一の統合を行います。
- * ⚠️ [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - ⭐ 753 / OpenAI互換API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット
- * ⚠️ [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - ⭐ 399 / DjangoとAIアシスタントを統合して、知的なアプリケーションを構築します。
+ * ⚠️ [llmcord.py](https://github.com/jakobdylanc/llmcord.py) - ⭐ 755 / OpenAI互換API（OpenAI、Mistral、Groq、OpenRouter、ollama、oobabooga、Jan、LM Studioなど）をサポートするDiscord LLMチャットボット
+ * ⚠️ [django-ai-assistant](https://github.com/vintasoftware/django-ai-assistant) - ⭐ 401 / DjangoとAIアシスタントを統合して、知的なアプリケーションを構築します。
  * 💤 [MindSQL](https://github.com/mindinventory/mindsql) - ⭐ 436 / MindSQL：データベースの相互作用を簡素化するPython Text-to-SQL RAGライブラリ。PostgreSQL、MySQL、SQLite、Snowflake、およびBigQueryとシームレスに統合されています。GPT-4とLlama 2によって動作し、自然言語クエリを可能にします。ChromaDBとFaissをサポートしています。
- * 🔥 [insights-bot](https://github.com/nekomeowww/insights-bot) - ⭐ 280 / ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。
- * 💤 [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - ⭐ 482 / OpenAiのGPT 4との口頭会話ができるアプリ
- * ⚠️ [wandbot](https://github.com/wandb/wandbot) - ⭐ 309 / wandbotは、Discord、Slack、ChatGPT、Zendeskで動作するWeights & BiasesのAI開発者ツールのためのテクニカルサポートボットです。
- * 🔥 [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - ⭐ 1.6k / AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、LangGraphを活用し、このツールは仮説の生成、データ分析、可視化、レポート作成を効率化します。完璧
- * 💤 [lobe-vidol](https://github.com/lobehub/lobe-vidol) - ⭐ 909 / 🧸 ロベ・ヴィドル - 仮想アイドルを誰もが利用できるようにする
- * 💤 [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - ⭐ 444 / RLAIF-V：オープンソースAIフィードバックを介したMLLMの整列によるSuper GPT-4Vの信頼性
- * 🔥 [builderbot](https://github.com/codigoencasa/builderbot) - ⭐ 2.9k / 🤖数分でWhatsAppチャットボットを作成します。このオープンソースプロジェクトに参加してください。
+ * ✅ [insights-bot](https://github.com/nekomeowww/insights-bot) - ⭐ 280 / ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。ボットはOpenAI GPTモデルと連携して、情報フローに対する洞察を提供します。
+ * 💤 [Babagaboosh](https://github.com/dougdouggithub/babagaboosh) - ⭐ 483 / OpenAiのGPT 4との口頭会話ができるアプリ
+ * ⚠️ [wandbot](https://github.com/wandb/wandbot) - ⭐ 308 / wandbotは、Discord、Slack、ChatGPT、Zendeskで動作するWeights & BiasesのAI開発者ツールのためのテクニカルサポートボットです。
+ * ✅ [ai-data-analysis-MulitAgent](https://github.com/starpig1129/ai-data-analysis-mulitagent) - ⭐ 1.6k / AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、LangGraphを活用し、このツールは仮説の生成、データ分析、可視化、レポート作成を効率化します。完璧
+ * 💤 [lobe-vidol](https://github.com/lobehub/lobe-vidol) - ⭐ 913 / 🧸 ロベ・ヴィドル - 仮想アイドルを誰もが利用できるようにする
+ * 💤 [RLAIF-V](https://github.com/rlhf-v/rlaif-v) - ⭐ 445 / RLAIF-V：オープンソースAIフィードバックを介したMLLMの整列によるSuper GPT-4Vの信頼性
+ * ✅ [builderbot](https://github.com/codigoencasa/builderbot) - ⭐ 2.9k / 🤖数分でWhatsAppチャットボットを作成します。このオープンソースプロジェクトに参加してください。
  * 🔥 [hey](https://github.com/lnxpy/hey) - ⭐ 239 / 💬 AIパワードのペアプログラミングフレンド！
  * 💤 [Auto-Gmail-Creator](https://github.com/ai-to-ai/auto-gmail-creator) - ⭐ 1.2k / Flask、ML、AI、GPT、自動化、スクレイピングに関してはお気軽にお問い合わせください。
- * 🔥 [design-studio](https://github.com/tiledesk/design-studio) - ⭐ 445 / Tiledeskのオープンソースのビジュアルで、コード不要のデザイナー。LLM/GPT AIが柔軟な「グラフ」アプローチと出会う場所。会話や自動化を簡単に作成できます - VoiceflowやBotpressの代替手段。
+ * ✅ [design-studio](https://github.com/tiledesk/design-studio) - ⭐ 444 / Tiledeskのオープンソースのビジュアルで、コード不要のデザイナー。LLM/GPT AIが柔軟な「グラフ」アプローチと出会う場所。会話や自動化を簡単に作成できます - VoiceflowやBotpressの代替手段。
  * 💤 [chatgpt-voice](https://github.com/sonngdev/chatgpt-voice) - ⭐ 174 / ChatGPTと会話をしてください。カジュアルに 🔈 🤖 ⚡️
  * 💤 [Open-LLaVA-NeXT](https://github.com/xiaoachen98/open-llava-next) - ⭐ 432 / LLaVA-NeXTのトレーニングのためのオープンソース実装。
  * 💤 [langchain-chatbot](https://github.com/shashankdeshpande/langchain-chatbot) - ⭐ 273 / LangchainとStreamlitを使用したチャットボットの実装例
@@ -601,25 +598,25 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [AI-in-a-Box](https://github.com/azure/ai-in-a-box) - ⭐ 592 / AI-in-a-Boxは、世界中のマイクロソフトの専門知識を活用して、技術コミュニティにAIおよびMLソリューションを開発・提供します。私たちの目的は、エンジニアがAI/MLを確立するのに役立つソリューションアクセラレータのキュレーションされたコレクションを提供することです。
  * 💤 [Starmoon](https://github.com/starmoonai/starmoon) - ⭐ 544 / オープンソースの音声認識可能でコンパクトで共感的なAIハードウェア＋ソフトウェア🤖フレームワーク。仲間、エンターテイメント、教育、小児医療、IoTロボティクスアプリケーション、AI強化ロボティクスアプリケーションサービス、研究、DIYロボティクスキット開発に使用可能。
  * 🔥 [LocalAI](https://github.com/mudler/localai) - ⭐ 43k / 入力: :robot: OpenAI、Claudeなどの無料でオープンソースの代替品。セルフホストおよびローカルファースト。消費者向けのハードウェアで実行されるOpenAIの代替品。GPUは必要ありません。gguf、transformers、diffusersなど、多くのモデルアーキテクチャを実行します。
- * 🔥 [bisheng](https://github.com/dataelement/bisheng) - ⭐ 11k / BISHENGは次世代のエンタープライズAIアプリケーション向けのオープンLLM DevOpsプラットフォームです。GenAIワークフロー、RAG、エージェント、統合モデル管理、評価、SFT、データセット管理、エンタープライズレベルのシステム管理など、強力で包括的な機能が含まれています。
+ * ✅ [bisheng](https://github.com/dataelement/bisheng) - ⭐ 11k / BISHENGは次世代のエンタープライズAIアプリケーション向けのオープンLLM DevOpsプラットフォームです。GenAIワークフロー、RAG、エージェント、統合モデル管理、評価、SFT、データセット管理、エンタープライズレベルのシステム管理など、強力で包括的な機能が含まれています。
  * 🔥 [agency-swarm](https://github.com/vrsen/agency-swarm) - ⭐ 4k / 最新のOpenAI Assistants APIをベースに構築された唯一信頼できるエージェントフレームワーク。
- * 🔥 [ragflow](https://github.com/infiniflow/ragflow) - ⭐ 73k / RAGFlowは、深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジンです。
+ * ✅ [ragflow](https://github.com/infiniflow/ragflow) - ⭐ 74k / RAGFlowは、深い文書理解に基づいたオープンソースのRAG（Retrieval-Augmented Generation）エンジンです。
  * ⚠️ [LlamaIndexTS](https://github.com/run-llama/llamaindexts) - ⭐ 3.1k / LLMアプリケーション用のデータフレームワーク。サーバーサイドソリューションに焦点を当てる。
  * 🔥 [repomix](https://github.com/yamadashy/repomix) - ⭐ 22k / 📦 Repomix（以前はRepopackとして知られていました）は、リポジトリ全体を1つの、AIにとってフレンドリーなファイルにパックする強力なツールです。Large Language Models（LLMs）やClaude、ChatGPT、Geminiなどの他のAIツールにコードベースを供給する必要があるときに最適です。
  * 🔥 [LangBot](https://github.com/rockchinq/langbot) - ⭐ 1 / Agentプラットフォームをサポート
  * ⚠️ [open-im-server](https://github.com/openimsdk/open-im-server) - ⭐ 16k / IMチャットChatGPTIMチャットChatGPT
- * ⚠️ [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - ⭐ 1.4k / AWS CDKを使用して、Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistralを活用したMulti-LLMおよびMulti-RAG搭載のチャットボットを展開するためのモジュラーで包括的なソリューション。
- * ⚠️ [podcastfy](https://github.com/souzatharsis/podcastfy) - ⭐ 6k / NotebookLMのポッドキャスト機能のオープンソースPython代替品：GenAIを使用して、多言語オーディオ会話に変換する魅力的なマルチモーダルコンテンツ
- * ⚠️ [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - ⭐ 7.4k / 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
+ * 🔥 [aws-genai-llm-chatbot](https://github.com/aws-samples/aws-genai-llm-chatbot) - ⭐ 1.4k / AWS CDKを使用して、Amazon Bedrock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Cohere、Mistralを活用したMulti-LLMおよびMulti-RAG搭載のチャットボットを展開するためのモジュラーで包括的なソリューション。
+ * ⚠️ [podcastfy](https://github.com/souzatharsis/podcastfy) - ⭐ 6.1k / NotebookLMのポッドキャスト機能のオープンソースPython代替品：GenAIを使用して、多言語オーディオ会話に変換する魅力的なマルチモーダルコンテンツ
+ * ⚠️ [multi-agent-orchestrator](https://github.com/awslabs/multi-agent-orchestrator) - ⭐ 7.5k / 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
  * 🔥 [extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - ⭐ 1.3k / Home Assistantのカスタムコンポーネントで会話エージェントを使用します。OpenAIを使用してデバイスを制御します。
- * 🔥 [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - ⭐ 1.6k / AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、およびLangGraphを活用し、このツールは仮説の生成、データ分析、可視化、およびレポート作成を効率化します。完璧
- * 🔥 [ipranges](https://github.com/lord-alfred/ipranges) - ⭐ 992 / 🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。
+ * ✅ [AI-Data-Analysis-MultiAgent](https://github.com/starpig1129/ai-data-analysis-multiagent) - ⭐ 1.6k / AI駆動型研究アシスタント：複雑な研究プロセスを自動化するための高度なマルチエージェントシステム。LangChain、OpenAI GPT、およびLangGraphを活用し、このツールは仮説の生成、データ分析、可視化、およびレポート作成を効率化します。完璧
+ * 🔥 [ipranges](https://github.com/lord-alfred/ipranges) - ⭐ 998 / 🔨 Google（Cloud＆GoogleBot）、Bing（Bingbot）、Amazon（AWS）、Microsoft、Oracle（Cloud）、GitHub、Facebook（Meta）、OpenAI（GPTBot）などのすべてのIP範囲をリストアップし、毎日更新します。
  * 💤 [Open-Interface](https://github.com/ambersahdev/open-interface) - ⭐ 2.6k / LLMsを使用して任意のコンピューターを制御します。
  * 💤 [OmAgent](https://github.com/om-ai-lab/omagent) - ⭐ 2.6k / スマートデバイスやその他のためのマルチモーダル言語エージェントフレームワーク
  * ⚠️ [whisper-standalone-win](https://github.com/purfview/whisper-standalone-win) - ⭐ 2.9k / Pythonを気にしない人のためのWhisper＆Faster-Whisperスタンドアロン実行可能ファイル。
- * ⚠️ [Hexabot](https://github.com/hexastack/hexabot) - ⭐ 914 / HexabotはオープンソースのAIチャットボット/エージェントビルダーです。複数のチャンネルや複数言語のチャットボット/エージェントを簡単に作成・管理することができます。
+ * ⚠️ [Hexabot](https://github.com/hexastack/hexabot) - ⭐ 916 / HexabotはオープンソースのAIチャットボット/エージェントビルダーです。複数のチャンネルや複数言語のチャットボット/エージェントを簡単に作成・管理することができます。
  * 💤 [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - ⭐ 1.4k / Ollama LLMsのための完全機能を備えたWebインターフェース
- * 💤 [denser-chat](https://github.com/denser-org/denser-chat) - ⭐ 150 / PDFファイルとソースのハイライト付きでチャットする
+ * 💤 [denser-chat](https://github.com/denser-org/denser-chat) - ⭐ 151 / PDFファイルとソースのハイライト付きでチャットする
  * ⚠️ [NextChat](https://github.com/chatgptnextweb/nextchat) - ⭐ 87k / ✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows✨ ローカルで高速なAIアシスタント。サポート：Web | iOS | MacOS | Android | Linux | Windows
  * 🔥 [Upsonic](https://github.com/upsonic/upsonic) - ⭐ 7.8k / 私たちは一切の暗号プロジェクトを持っておらず、持つ予定もありません。それらは完全な詐欺です。| デジタルワーカーや垂直AIエージェント向けのタスク指向型AIエージェントフレームワーク
  * 💤 [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework) - ⭐ 2.1k / 自然言語理解と人工知能を備えたPythonチャットボットフレームワーク。
@@ -638,74 +635,74 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 🔥 [AstrBot](https://github.com/astrbotdevs/astrbot) - ⭐ 17k / ✨ 簡単に使えるマルチプラットフォームLLMチャットボットおよび開発フレームワーク ✨ プラットフォームサポート：QQ、QQチャンネル、Telegram、WeChat、企業WeChat、Feishu | MCPサーバー、OpenAI、DeepSeek、Gemini、Silicon Mobility、Dark Side of the Moon、Ollama、OneAPI、Dify など。WebUIも付属。
  * ⚠️ [gurubase](https://github.com/gurubase/gurubase) - ⭐ repo not found / Gurubaseは、技術ドキュメントに「Ask AI」ボタンを追加し、コンテンツを検索可能なQ&Aアシスタントに変えることができます。Webページ、PDF、YouTubeビデオ、GitHubリポジトリをソースとして使用し、参照付きで即座に正確な回答を生成します。デプロイは以下の方法で行います。
  * ⚠️ [Auto-Deep-Research](https://github.com/hkuds/auto-deep-research) - ⭐ 1.4k / 「あなた専用の完全自動化されたAIアシスタント、そしてOpenAIの深い研究に対するオープンソースでコスト効率の良い代替手段」
- * ⚠️ [llmcord](https://github.com/jakobdylanc/llmcord) - ⭐ 753 / DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）
+ * ⚠️ [llmcord](https://github.com/jakobdylanc/llmcord) - ⭐ 755 / DiscordをあなたのLLMフロントエンドにしてください ● 任意のOpenAI互換APIをサポートします（Ollama、LM Studio、vLLM、OpenRouter、xAI、Mistral、Groqなど）
  * 💤 [flock](https://github.com/onelevenvy/flock) - ⭐ 1.1k / Flockは、LangGraph、Langchain、FastAPI、およびNextJSによって強化された、チャットボット、RAG、および複数エージェントチームの調整を迅速に構築するためのワークフローをベースとした低コードプラットフォームです。
  * 🔥 [mastra](https://github.com/mastra-ai/mastra) - ⭐ 21k / TypeScript AIエージェントフレームワーク。⚡アシスタント、RAG、可観測性。任意のLLMをサポート：GPT-4、Claude、Gemini、Llama。
- * ⚠️ [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - ⭐ 812 / CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡
+ * 🔥 [Robby-chatbot](https://github.com/yvann-ba/robby-chatbot) - ⭐ 813 / CSV、PDF、TXTファイルやYTBビデオとチャットするためのAIチャットボット🤖 | Langchain🦜を使用 | OpenAI | Streamlit ⚡
  * ⚠️ [bytebot](https://github.com/bytebot-ai/bytebot) - ⭐ 10k / Bytebotはデスクトップエージェントのコンテナです。Bytebotはデスクトップエージェントのコンテナです。
- * 🔥 [agentica](https://github.com/wrtnlabs/agentica) - ⭐ 990 / TypeScript AIフレームワークは、コンパイラのスキルによって強化されたAI関数呼び出しを特化しています。
+ * ✅ [agentica](https://github.com/wrtnlabs/agentica) - ⭐ 991 / TypeScript AIフレームワークは、コンパイラのスキルによって強化されたAI関数呼び出しを特化しています。
  * 🔥 [ElatoAI](https://github.com/akdeb/elatoai) - ⭐ 1.4k / OpenAI Realtime APIを使用したArduino ESP32上のリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話Arduino ESP32上でのOpenAI Realtime APIを使用したリアルタイムAI音声、セキュアWebsocketsおよびDenoエッジ機能を使用したAIおもちゃ、AIコンパニオン、AIデバイスなどのための世界中で10分以上の中断なしの会話
- * ⚠️ [agent-squad](https://github.com/awslabs/agent-squad) - ⭐ 7.4k / 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
+ * ⚠️ [agent-squad](https://github.com/awslabs/agent-squad) - ⭐ 7.5k / 複数のAIエージェントを管理し、複雑な会話を処理するための柔軟で強力なフレームワーク
  * 💤 [XYBotV2](https://github.com/henryxiaoyang/xybotv2) - ⭐ 796 / 🤖 機能豊富なWeChatボットフレームワーク | AI対話、Difyとの連携、ポイントシステム、ゲームインタラクション、毎日のニュース、天気予報 | HookやWebを使用しない | Windows✅ Linux✅ MacOS✅ をサポート | 新しいアーキテクチャでXYBotの第一世代の課題を解決！
- * 🔥 [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ⭐ 2.3k / ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。
- * 🔥 [sanic-web](https://github.com/apconw/sanic-web) - ⭐ 2k / 軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。
+ * ✅ [MCP-SuperAssistant](https://github.com/srbhptl39/mcp-superassistant) - ⭐ 2.3k / ChatGPT、Perplexity、Grok、Gemini、Google AI Studio、OpenRouterなどにMCPを持ち込みます。
+ * ✅ [sanic-web](https://github.com/apconw/sanic-web) - ⭐ 2k / 軽量で全体的なリンクサポートが可能で、二次開発が容易な大規模モデルデータアシスタント（Large Model Data Assistant）は、DeepSeek/Qwen2.5などの大規模モデルをサポートし、Dify、Ollama&Vllm、Sanic、Text2SQLなどの技術を基に構築されたオールインワンの大規模モデルアプリケーション開発プロジェクトです。Vue3、TypeScript、Vite 5を使用して、現代的なUIを構築しています。EChartsを使用して、大規模モデルに基づいたデータの視覚化問題を解決し、CSVファイルのテーブル問題を処理する能力を持っています。同時に、第三者のオープンソースRAGシステム検索システムなどと簡単に接続できます。
  * ⚠️ [evolution-api](https://github.com/evolutionapi/evolution-api) - ⭐ 7.2k / Evolution APIはオープンソースのWhatsApp統合APIです。
- * 🔥 [deepchat](https://github.com/thinkinaixyz/deepchat) - ⭐ 5.5k / 🐬DeepChat - 強力なAIをあなたの個人の世界につなぐスマートアシスタント
+ * ✅ [deepchat](https://github.com/thinkinaixyz/deepchat) - ⭐ 5.5k / 🐬DeepChat - 強力なAIをあなたの個人の世界につなぐスマートアシスタント
  * 💤 [AChat](https://github.com/aprilnea/achat) - ⭐ 3.3k / 🌊 AChat - オープンソース/セルフホスト/ローカルファーストAIプラットフォーム、企業やチーム向けに設計され、強力なローカル処理能力とシームレスなリモート同期を完璧に組み合わせたもの。
- * 🔥 [sim](https://github.com/simstudioai/sim) - ⭐ 26k / Sim StudioはオープンソースのAIエージェントワークフロービルダーです。Sim Studioのインターフェースは、お気に入りのツールと連携するLLMを迅速に構築して展開するための軽量で直感的な方法です。
+ * 🔥 [sim](https://github.com/simstudioai/sim) - ⭐ 27k / Sim StudioはオープンソースのAIエージェントワークフロービルダーです。Sim Studioのインターフェースは、お気に入りのツールと連携するLLMを迅速に構築して展開するための軽量で直感的な方法です。
  * ⚠️ [agents-flex](https://github.com/agents-flex/agents-flex) - ⭐ 1.4k / Agents-Flexは、Javaを使用したLangChainのようなエレガントなLLMアプリケーションフレームワークです。
  * 🔥 [openai-agents-js](https://github.com/openai/openai-agents-js) - ⭐ 2.3k / マルチエージェントワークフローと音声エージェント向けの軽量でパワフルなフレームワーク
- * 🔥 [atom](https://github.com/rush86999/atom) - ⭐ 700 / アトムエージェント、時間、タスク、メモ、研究のためのあなたの個人アシスタント
- * 🔥 [Narratium.ai](https://github.com/narratium/narratium.ai) - ⭐ 814 / AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム
- * ⚠️ [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - ⭐ 690 / このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。
+ * 🔥 [atom](https://github.com/rush86999/atom) - ⭐ 702 / アトムエージェント、時間、タスク、メモ、研究のためのあなたの個人アシスタント
+ * ✅ [Narratium.ai](https://github.com/narratium/narratium.ai) - ⭐ 813 / AI駆動のストーリーテリング、ワールドビルディング、没入型ロールプレイのためのオープンソースプラットフォーム
+ * ⚠️ [ai_automation_suggester](https://github.com/itspecialist111/ai_automation_suggester) - ⭐ 693 / このカスタムHome Assistantインテグレーションは、自動的にあなたのエンティティをスキャンし、新しいデバイスを検出し、AI（クラウドとローカルのAPIを介して）を使用してカスタマイズされた自動化を提案します。OpenAI、Anthropic、Google、Groq、Ollamaなど、複数のAIプロバイダーをサポートしています。
  * ⚠️ [ttsfm](https://github.com/dbccccccc/ttsfm) - ⭐ 711 / TTSFMは、OpenAIのTTSサービスをミラーリングし、複数の音声オプションを備えたテキスト読み上げ変換のための互換性のあるインターフェースを無料で提供しています。
- * ⚠️ [macai](https://github.com/renset/macai) - ⭐ 817 / オールインワンのネイティブmacOS AIチャットアプリケーション：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter、およびすべてのOpen AI互換APIサービス
- * 💤 [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - ⭐ 660 / OpenAI互換API、8つの声、感情タグ、モダンなWeb UIを備えた高性能テキスト読み上げサーバー。RTX GPUに最適化されています。
+ * ⚠️ [macai](https://github.com/renset/macai) - ⭐ 816 / オールインワンのネイティブmacOS AIチャットアプリケーション：Deepseek、ChatGPT、Claude、xAI Grok、Google Gemini、Perplexity、OpenRouter、およびすべてのOpen AI互換APIサービス
+ * 💤 [Orpheus-FastAPI](https://github.com/lex-au/orpheus-fastapi) - ⭐ 663 / OpenAI互換API、8つの声、感情タグ、モダンなWeb UIを備えた高性能テキスト読み上げサーバー。RTX GPUに最適化されています。
  * 🔥 [LangBot](https://github.com/langbot-app/langbot) - ⭐ 15k / Slack 🧩 ChatGPT、DeepSeek、Dify、n8n、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、Silicと統合
  * 💤 [open-codex](https://github.com/codingmoh/open-codex) - ⭐ 666 / OpenAI Codexに触発された完全なオープンソースのコマンドラインAIアシスタントで、ローカル言語モデルをサポートしています。
- * 🔥 [MuseBot](https://github.com/yincongcyincong/musebot) - ⭐ 1.5k / Telegram、Discord、Slack、Lark、Work WechatをサポートするAIチャットボット。OpenAI、Gemini、DeepSeek、Doubao、OpenRouterなど、さまざまなLLMと互換性があります。インテリジェントな会話、画像生成、ビデオ作成などを提供します。シームレスに動作します。
- * 🔥 [nekro-agent](https://github.com/kromiose/nekro-agent) - ⭐ 685 / LLMコード生成によって駆動される拡張可能なマルチユーザーインタラクティブエージェントフレームワーク：QQ、Discord、Minecraft、Bilibili Live、SSE（SDK）をサポートする、サンドボックス駆動、ビジュアル、高度に拡張可能、マルチモードのチャットボット。
+ * ✅ [MuseBot](https://github.com/yincongcyincong/musebot) - ⭐ 1.5k / Telegram、Discord、Slack、Lark、Work WechatをサポートするAIチャットボット。OpenAI、Gemini、DeepSeek、Doubao、OpenRouterなど、さまざまなLLMと互換性があります。インテリジェントな会話、画像生成、ビデオ作成などを提供します。シームレスに動作します。
+ * 🔥 [nekro-agent](https://github.com/kromiose/nekro-agent) - ⭐ 689 / LLMコード生成によって駆動される拡張可能なマルチユーザーインタラクティブエージェントフレームワーク：QQ、Discord、Minecraft、Bilibili Live、SSE（SDK）をサポートする、サンドボックス駆動、ビジュアル、高度に拡張可能、マルチモードのチャットボット。
  * 💤 [OpenAI-sublime-text](https://github.com/yaroslavyaroslav/openai-sublime-text) - ⭐ 424 / 最初のクラスのSublime Text AIアシスタント、gpt-5、o3、およびollamaサポート付き！
  * ⚠️ [pluely](https://github.com/iamsrikanthnani/pluely) - ⭐ 1.6k / クルーリーのオープンソース代替品 - 会議、面接、会話中にシームレスに機能する高速でプライバシー重視のAIアシスタント。ネイティブパフォーマンスのためにTauriで構築され、わずか10MB。 完全に検出不可能。
  * ⚠️ [angular-node-java-ai](https://github.com/ganatan/angular-node-java-ai) - ⭐ 820 / Angular 20 フルスタックスターター with Node.js（JavaScript & TypeScript）、Spring Boot、そしてAI（LLM、Voice、Podcast）。SSR、PWA、REST API、Docker、CI/CD パイプラインを含む。
- * 🔥 [WeKnora](https://github.com/tencent/weknora) - ⭐ 13k / RAGパラダイムを使用した深いドキュメント理解、意味的検索、およびコンテキストに応じた回答のためのLLMパワードフレームワーク。
- * 🔥 [aiavatarkit](https://github.com/uezo/aiavatarkit) - ⭐ 535 / 🥰 AIを活用した会話型アバターを超高速で構築 ⚡️💬
+ * ✅ [WeKnora](https://github.com/tencent/weknora) - ⭐ 13k / RAGパラダイムを使用した深いドキュメント理解、意味的検索、およびコンテキストに応じた回答のためのLLMパワードフレームワーク。
+ * 🔥 [aiavatarkit](https://github.com/uezo/aiavatarkit) - ⭐ 538 / 🥰 AIを活用した会話型アバターを超高速で構築 ⚡️💬
  * 🔥 [sparka](https://github.com/franciscomoretti/sparka) - ⭐ 1.1k / AI チャット - クロード、ChatGPT、ジェミニ、およびグロック。高度な機能、オープンソース、製品向け。
  * ⚠️ [chatgpt-vue3-light-mvp](https://github.com/pdsuwwz/chatgpt-vue3-light-mvp) - ⭐ 520 / 💭 Vue 3、Vite7、TypeScript、Naive UI、Pinia(v3)、UnoCSSなどの主要技術を使用して構築された、二次開発可能なChat Botの単一対話Web MVPプロトタイプテンプレート。🧤簡単に大規模APIを統合し、単一対話AI質問応答モードを採用し、各質問に独立して応答し、コンテキストを必要とせず、SSEタイプライターエフェクトのストリーミング出力をサポートし、markdown-it、Mermaid/KaTex/LaTexの数式ハイライトプレビューを統合し、星火、智谱、硅基流動、Deepseek V3/R1の深い思考推論モデルプレビューを提供します。
- * 🔥 [TuyaOpen](https://github.com/tuya/tuyaopen) - ⭐ 1.3k / 次世代AI+IoTフレームワーク、T2/T3/T5AI/ESP32/およびその他向け - 高速IoTおよびAIエージェントハードウェアの統合
+ * ✅ [TuyaOpen](https://github.com/tuya/tuyaopen) - ⭐ 1.3k / 次世代AI+IoTフレームワーク、T2/T3/T5AI/ESP32/およびその他向け - 高速IoTおよびAIエージェントハードウェアの統合
  * ⚠️ [bagel](https://github.com/extelligence-ai/bagel) - ⭐ 372 / MCPとLLMsを使用して、ロボティクスとドローンデータを理解する。物理AIのためのChatGPT。
  * ⚠️ [open-research-ANA](https://github.com/copilotkit/open-research-ana) - ⭐ 375 / 🤖 CopilotKit、Tavily、LangGraphによって強化された、HITL（Human in The Loop）機能を備えたリアルタイム検索を実行するオープンソースのAIエージェントネイティブ研究キャンバスアプリケーション
- * 🔥 [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - ⭐ 884 / Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。
- * 🔥 [bolna](https://github.com/bolna-ai/bolna) - ⭐ 578 / 会話型音声AIエージェント
+ * 🔥 [Hacx-GPT](https://github.com/blacktechx011/hacx-gpt) - ⭐ 889 / Hacx GPTは、WormGPTの強力で邪悪な兄弟です。Hacx GPTは、WormGPTの強力で邪悪な兄弟です。
+ * 🔥 [bolna](https://github.com/bolna-ai/bolna) - ⭐ 580 / 会話型音声AIエージェント
  * 🔥 [Everywhere](https://github.com/dearva/everywhere) - ⭐ 5.5k / デスクトップ用のコンテキストに注意を払ったAIアシスタント。複数のLLMとMCPツールをシームレスに統合し、賢く応答する準備ができています。
- * ⚠️ [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - ⭐ 523 / ローカル、Chatterboxを使用したOpenAI互換のテキスト読み上げ（TTS）APIを入力し、ユーザーがOpenAI APIが使用されている場所（例：Open WebUI、AnythingLLMなど）で声のクローンスピーチを生成できるようにします。
+ * ⚠️ [chatterbox-tts-api](https://github.com/travisvn/chatterbox-tts-api) - ⭐ 529 / ローカル、Chatterboxを使用したOpenAI互換のテキスト読み上げ（TTS）APIを入力し、ユーザーがOpenAI APIが使用されている場所（例：Open WebUI、AnythingLLMなど）で声のクローンスピーチを生成できるようにします。
  * ⚠️ [Silo](https://github.com/kwokkwok/silo) - ⭐ 249 / 多モデル同時チャット、テキストから画像生成、すべて純粋なフロントエンド（APIモード、サーバーサイドは不要）を通じて行われます。
  * ⚠️ [DeepAnalyze](https://github.com/ruc-datalab/deepanalyze) - ⭐ 3.7k / DeepAnalyzeは自律データサイエンスのための最初のエージェントLMMです。
- * 🔥 [lyra-exporter](https://github.com/yalums/lyra-exporter) - ⭐ 367 / Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavernなどをサポートするオープンソースのマルチプラットフォームAI会話マネージャー。モバイル体験の向上とプラットフォームサポートの拡大を積極的に推進しています。
- * ⚠️ [llm-x](https://github.com/mrdjohnson/llm-x) - ⭐ 289 / LLMX; ウェブ用の最も簡単な第三者ローカルLLM UI!
- * ⚠️ [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - ⭐ 324 / このプラグインは、ChatGPT、DeepSeek、Google Geminiのチャットページにタイムラインナビゲーション機能を追加し、任意のメッセージに簡単に移動できるようにし、閲覧効率を向上させます。
- * 🔥 [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - ⭐ 394 / 🎙️ AIと話す - Ollama、OpenAI、Anthropic、またはxAIを使用してローカルで実行 - 音声はXTTS、OpenAI、ElevenLabs、またはKokoroを使用します
- * 🔥 [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - ⭐ 783 / Next.js、LangChain、PostgreSQL + pgvectorで構築されたAIパワードのドキュメント分析プラットフォーム。ドキュメントのアップロード、整理、チャットが可能です。予測的な欠落ドキュメントの検出、役割ベースのワークフロー、ページレベルの洞察抽出を含んでいます。
- * 🔥 [open-whispr](https://github.com/herotools/open-whispr) - ⭐ 1.3k / ローカルのWhisperモデルとOpenAI APIを搭載した音声テキスト変換アプリ。プライバシー第一、クロスプラットフォーム、グローバルホットキーで起動可能。
- * ⚠️ [AetherLink](https://github.com/1600822305/aetherlink) - ⭐ 274 / AetherLinkは、複数の主要なAIモデル（OpenAI、Google Gemini、Anthropic Claude、Grokなど）をサポートするクロスプラットフォームのAIアシスタントアプリケーションです。React、TypeScript、Capacitorで構築されており、シームレスな会話体験を提供します。主な特徴は、
- * ⚠️ [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 244 / Cohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンドCohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンド
- * 🔥 [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - ⭐ 1k / 強力なChatterbox TTSモデルを自己ホストします。このサーバーには、使いやすいWeb UI、柔軟なAPIエンドポイント（OpenAI互換を含む）、事前定義された声、声のクローン、大規模なオーディオブックスケールのテキスト処理が提供されます。NVIDIA（CUDA）、AMDで高速に実行されます。
- * 🔥 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - ⭐ 892 / このMCPサーバーは、クロードや他のAIアシスタントがあなたのLinkedInにアクセスできるようにします。LinkedInのプロフィールや企業をスクレイプし、おすすめの仕事を取得し、仕事検索を実行します。
- * ⚠️ [Alice](https://github.com/pmbstyle/alice) - ⭐ 227 / アリスは、Vue.js、Vite、およびElectronで構築された音声優先のデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションの完全ローカル使用などがあります。
- * ⚠️ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 413 / このプロジェクトは、あなたと話し合い、聞き取ることができるデジタルヒューマンです。OpenAIのGPTを使用して応答を生成し、OpenAIのWhisperを使用してオーディオを転写し、Eleven Labsを使用して声を生成し、Rhubarb Lip Syncを使用して口パクを生成します。
- * 🔥 [Wegent](https://github.com/wecode-ai/wegent) - ⭐ 420 / オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。
- * 🔥 [openwhispr](https://github.com/openwhispr/openwhispr) - ⭐ 1.3k / ローカル（Nvidia Parakeet/Whisper）およびクラウドモデルを備えた音声テキスト変換アプリ。プライバシー第一主義でクロスプラットフォームで利用可能。
+ * 🔥 [lyra-exporter](https://github.com/yalums/lyra-exporter) - ⭐ 370 / Claude、ChatGPT、Gemini、NotebookLM、Google AI Studio、SillyTavernなどをサポートするオープンソースのマルチプラットフォームAI会話マネージャー。モバイル体験の向上とプラットフォームサポートの拡大を積極的に推進しています。
+ * ⚠️ [llm-x](https://github.com/mrdjohnson/llm-x) - ⭐ 290 / LLMX; ウェブ用の最も簡単な第三者ローカルLLM UI!
+ * ⚠️ [chatgpt-conversation-timeline](https://github.com/reborn14/chatgpt-conversation-timeline) - ⭐ 325 / このプラグインは、ChatGPT、DeepSeek、Google Geminiのチャットページにタイムラインナビゲーション機能を追加し、任意のメッセージに簡単に移動できるようにし、閲覧効率を向上させます。
+ * ✅ [voice-chat-ai](https://github.com/bigsk1/voice-chat-ai) - ⭐ 398 / 🎙️ AIと話す - Ollama、OpenAI、Anthropic、またはxAIを使用してローカルで実行 - 音声はXTTS、OpenAI、ElevenLabs、またはKokoroを使用します
+ * 🔥 [PDR_AI_v2](https://github.com/deodat-lawson/pdr_ai_v2) - ⭐ 785 / Next.js、LangChain、PostgreSQL + pgvectorで構築されたAIパワードのドキュメント分析プラットフォーム。ドキュメントのアップロード、整理、チャットが可能です。予測的な欠落ドキュメントの検出、役割ベースのワークフロー、ページレベルの洞察抽出を含んでいます。
+ * 🔥 [open-whispr](https://github.com/herotools/open-whispr) - ⭐ 1.4k / ローカルのWhisperモデルとOpenAI APIを搭載した音声テキスト変換アプリ。プライバシー第一、クロスプラットフォーム、グローバルホットキーで起動可能。
+ * ⚠️ [AetherLink](https://github.com/1600822305/aetherlink) - ⭐ 275 / AetherLinkは、複数の主要なAIモデル（OpenAI、Google Gemini、Anthropic Claude、Grokなど）をサポートするクロスプラットフォームのAIアシスタントアプリケーションです。React、TypeScript、Capacitorで構築されており、シームレスな会話体験を提供します。主な特徴は、
+ * 🔥 [conversational-agent-langchain](https://github.com/mfmezger/conversational-agent-langchain) - ⭐ 244 / Cohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンドCohere、（Azure）OpenAI、Langchain＆Langgraph、およびVectorDBとしてのQdrantを使用した対話エージェントのためのFastAPIバックエンド
+ * ✅ [Chatterbox-TTS-Server](https://github.com/devnen/chatterbox-tts-server) - ⭐ 1k / 強力なChatterbox TTSモデルを自己ホストします。このサーバーには、使いやすいWeb UI、柔軟なAPIエンドポイント（OpenAI互換を含む）、事前定義された声、声のクローン、大規模なオーディオブックスケールのテキスト処理が提供されます。NVIDIA（CUDA）、AMDで高速に実行されます。
+ * 🔥 [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) - ⭐ 916 / このMCPサーバーは、クロードや他のAIアシスタントがあなたのLinkedInにアクセスできるようにします。LinkedInのプロフィールや企業をスクレイプし、おすすめの仕事を取得し、仕事検索を実行します。
+ * 🔥 [Alice](https://github.com/pmbstyle/alice) - ⭐ 227 / アリスは、Vue.js、Vite、およびElectronで構築された音声優先のデスクトップAIアシスタントアプリケーションです。高度なメモリシステム、関数呼び出し、MCPサポート、オプションの完全ローカル使用などがあります。
+ * ⚠️ [talking-avatar-with-ai](https://github.com/asanchezyali/talking-avatar-with-ai) - ⭐ 414 / このプロジェクトは、あなたと話し合い、聞き取ることができるデジタルヒューマンです。OpenAIのGPTを使用して応答を生成し、OpenAIのWhisperを使用してオーディオを転写し、Eleven Labsを使用して声を生成し、Rhubarb Lip Syncを使用して口パクを生成します。
+ * 🔥 [Wegent](https://github.com/wecode-ai/wegent) - ⭐ 429 / オープンソースのAIネイティブオペレーティングシステムは、知的エージェントチームを定義、整理、実行するためのものです。
+ * 🔥 [openwhispr](https://github.com/openwhispr/openwhispr) - ⭐ 1.4k / ローカル（Nvidia Parakeet/Whisper）およびクラウドモデルを備えた音声テキスト変換アプリ。プライバシー第一主義でクロスプラットフォームで利用可能。
  * 🔥 [chatjs](https://github.com/franciscomoretti/chatjs) - ⭐ 1.1k / 本番向けのAIチャットテンプレート。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
- * [NagaAgent](https://github.com/rtgs2017/nagaagent) - 個人アシスタント向けのシンプルでパワフルなエージェントフレームワーク。知的なインタラクション、マルチエージェントの協力、シームレスなツールの統合を可能にするよう設計されています。
- * [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - あなたの好みに基づいてLinkedin、GlassdoorなどのEasy Applyの仕事を自動的に申し込むPythonボット。自動ログイン、追加の質問を自動的に入力し、自動的に申し込みます！
- * [chat.js](https://github.com/franciscomoretti/chat.js) - 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
+ * 🔥 [NagaAgent](https://github.com/rtgs2017/nagaagent) - ⭐ 1.4k / 個人アシスタント向けのシンプルでパワフルなエージェントフレームワーク。知的なインタラクション、マルチエージェントの協力、シームレスなツールの統合を可能にするよう設計されています。
+ * ✅ [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - ⭐ 723 / あなたの好みに基づいてLinkedin、GlassdoorなどのEasy Applyの仕事を自動的に申し込むPythonボット。自動ログイン、追加の質問を自動的に入力し、自動的に申し込みます！
+ * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.1k / 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
 
 
 ## Browser-extensions
 
  * 💤 [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - ⭐ 13k / 無料の3DSプライマリエントリーポイント<=11.2
  * 💤 [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - ⭐ 21k / ChatGPT検索プラグインを使用すると、日常的な言葉で質問することで、個人や仕事の文書を簡単に検索して見つけることができます。
- * 🔥 [Gepetto](https://github.com/justicerage/gepetto) - ⭐ 3.4k / 逆アセンブルを高速化するためにOpenAIのgpt-3.5-turbo言語モデルをクエリするIDAプラグイン
+ * ✅ [Gepetto](https://github.com/justicerage/gepetto) - ⭐ 3.4k / 逆アセンブルを高速化するためにOpenAIのgpt-3.5-turbo言語モデルをクエリするIDAプラグイン
  * 💤 [google-chatgpt-plugin](https://github.com/sogody/google-chatgpt-plugin) - ⭐ 119 / @ykdojo すごい！すでにGoogle Chat GPTプラグインもあるんだって 🤯
  * 💤 [natbot](https://github.com/nat/natbot) - ⭐ 1.9k / GPT-3を使用してブラウザを操作する。
  * ⚠️ [DAILA](https://github.com/mahaloz/daila) - ⭐ 680 / OpenAI APIにアクセスするためのデコンパイラ統合プラグインで、デコンパイル体験を向上させます。
@@ -715,14 +712,14 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [ReconAIzer](https://github.com/hisxo/reconaizer) - ⭐ 887 / Burp Suiteの拡張機能であるOpenAI（GPT）を追加し、Bug Bountyの調査に役立ち、エンドポイント、パラメータ、URL、サブドメインなどを発見するための支援をします！
  * 🔥 [Agent-LLM](https://github.com/josh-xt/agent-llm) - ⭐ 3.2k / 人工知能自動化プラットフォーム。様々なプロバイダーからのAI指示管理、適応的なメモリ、Webブラウジングを含む多機能プラグインシステムを備えています。多くのAIプロバイダーとモデルをサポートし、毎日サポートが拡大しています。
  * 🔥 [web-llm](https://github.com/mlc-ai/web-llm) - ⭐ 17k / 大規模言語モデルとチャットをWebブラウザに持ち込む。すべての処理はサーバーのサポートなしでブラウザ内で実行されます。
- * ⚠️ [langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin) - ⭐ 506 / 「langchainをAIプラグインとして使用することは、超クールです。@hwchase17 @langchainai これにより、#chatgptにスーパーパワーが与えられ、langchainのコンポーネント（エージェント、チェーンなど）を簡単にプラグインとして使用できます。このリポジトリはすぐにスケールアップします。例：プラグインとしてのretrievalqaチェーン」
+ * ⚠️ [langchain-aiplugin](https://github.com/langchain-ai/langchain-aiplugin) - ⭐ 507 / 「langchainをAIプラグインとして使用することは、超クールです。@hwchase17 @langchainai これにより、#chatgptにスーパーパワーが与えられ、langchainのコンポーネント（エージェント、チェーンなど）を簡単にプラグインとして使用できます。このリポジトリはすぐにスケールアップします。例：プラグインとしてのretrievalqaチェーン」
  * 💤 [plugins-quickstart](https://github.com/openai/plugins-quickstart) - ⭐ 4.2k / 5分以内にChatGPTプラグインを起動してください！
  * 💤 [dangermode](https://github.com/rgbkrk/dangermode) - ⭐ 78 / DangermodeはPythonとFastAPIで書かれたChatGPTプラグインで、ChatGPTがIPythonセッションでコードスニペットを実行できるようにします。
- * 🔥 [examples](https://github.com/pinecone-io/examples) - ⭐ 3k / もしChatGPTプラグインの開発に興味がある場合は、このビデオを見ることをお勧めします。以下の内容が完全に紹介されています：1. ChatGPTプラグインとは何か2. Langchainドキュメント検索用ChatGPTプラグインの開発方法3. ChatGPTプラグインのインストールとデバッグ方法。ビデオ：
+ * ✅ [examples](https://github.com/pinecone-io/examples) - ⭐ 3k / もしChatGPTプラグインの開発に興味がある場合は、このビデオを見ることをお勧めします。以下の内容が完全に紹介されています：1. ChatGPTプラグインとは何か2. Langchainドキュメント検索用ChatGPTプラグインの開発方法3. ChatGPTプラグインのインストールとデバッグ方法。ビデオ：
  * 💤 [chat-gpt-jupyter-extension](https://github.com/jflam/chat-gpt-jupyter-extension) - ⭐ 273 / ローカルのJupyterノートブックからChatGPTとチャットできるブラウザ拡張機能。
  * 💤 [web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - ⭐ 3.7k / 安定した拡散モデルをWebブラウザに持ち込む。すべての処理はサーバーのサポートなしでブラウザ内で実行されます。
  * 💤 [ipython-gpt](https://github.com/santiagobasulto/ipython-gpt) - ⭐ 585 / ipython-gptは、jupyter/ipythonインターフェースを介してchatgptとチャットするための非常に有望な拡張機能です。あなたのjupyterノートブックやipythonシェルから直接chatgptとチャットすることができます。
- * 💤 [tweetGPT](https://github.com/yaroslav-n/tweetgpt) - ⭐ 667 / TweetGPTは、chatGPTを使用してツイートや返信を生成するChrome拡張機能です。
+ * 💤 [tweetGPT](https://github.com/yaroslav-n/tweetgpt) - ⭐ 668 / TweetGPTは、chatGPTを使用してツイートや返信を生成するChrome拡張機能です。
  * 💤 [ChatGPT-pdf](https://github.com/liady/chatgpt-pdf) - ⭐ 1.5k / ChatGPTの履歴をPNG、PDF、または共有可能なリンクにダウンロードするためのChrome拡張機能
  * 💤 [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) - ⭐ 3k / ChatGPTのChrome拡張機能。インターネット上のすべてのテキストボックスにChatGPTを統合します。
  * 💤 [summarize.site](https://github.com/clmnin/summarize.site) - ⭐ 754 / OpenAI ChatGPTを使用してウェブページを要約する。
@@ -734,19 +731,19 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 🔥 [chatGPTBox](https://github.com/josstorer/chatgptbox) - ⭐ 11k / ChatGPTをブラウザに深く統合することで、必要なすべてがここにあります。
  * 💤 [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/youtube_summary_with_chatgpt) - ⭐ 855 / ChatGPTを使用したYouTubeサマリーは、YouTubeビデオのトランスクリプトとOpenAIのChatGPT AI技術を使用したビデオのサマリーを両方取得できるシンプルなChrome拡張機能（マニフェストv3）です。
  * ⚠️ [simpread](https://github.com/kenshin/simpread) - ⭐ 8.6k / SimpRead（简悦）- あなたを瞬時に没頭型読書体験に導く拡張機能
- * 🔥 [chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page) - ⭐ 111 / ChatGPTを介して、WeChatのプライベートメッセージやグループチャットで@されたメッセージに自動応答するChromeブラウザの拡張機能によるスマートチャットボット。
+ * ✅ [chatgpt-wechat-landing-page](https://github.com/1cloudy/chatgpt-wechat-landing-page) - ⭐ 111 / ChatGPTを介して、WeChatのプライベートメッセージやグループチャットで@されたメッセージに自動応答するChromeブラウザの拡張機能によるスマートチャットボット。
  * 💤 [WebGPT](https://github.com/0hq/webgpt) - ⭐ 3.8k / ブラウザ上でWebGPUを使用してGPTモデルを実行します。バニラJavaScriptの約2000行未満でのGPT推論の実装。
  * ⚠️ [tabSidian](https://github.com/cgranier/tabsidian) - ⭐ 88 / tabSidianは、あなたの開いているブラウザータブを収集し、それらをマークダウンリストに変換します。
  * 💤 [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - ⭐ 6.5k / WebChatGPT：Web結果を含めたChatGPTのプロンプトを拡張するブラウザ拡張機能。
  * 💤 [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - ⭐ 5k / ChatGPTを使用できるようにするVSCode拡張機能
- * ⚠️ [openai-translator](https://github.com/yetone/openai-translator) - ⭐ 25k / ChatGPT APIをベースにした翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
- * 🔥 [obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - ⭐ 1.9k / テキストジェネレーターは、Obsidianの便利なプラグインであり、GPT-3（OpenAI）を使用してテキストコンテンツを生成するのに役立ちます。
+ * 🔥 [openai-translator](https://github.com/yetone/openai-translator) - ⭐ 25k / ChatGPT APIをベースにした翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
+ * ✅ [obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - ⭐ 1.9k / テキストジェネレーターは、Obsidianの便利なプラグインであり、GPT-3（OpenAI）を使用してテキストコンテンツを生成するのに役立ちます。
  * 💤 [logseq-plugin-gpt3-openai](https://github.com/briansunter/logseq-plugin-gpt3-openai) - ⭐ 747 / LogseqでGPT-3 AI支援のノート取りプラグイン
  * 💤 [chatgpt-arxiv-extension](https://github.com/hunkimforks/chatgpt-arxiv-extension) - ⭐ 589 / ChatGPTを搭載した検索エンジンを強化するブラウザ拡張機能
  * 💤 [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - ⭐ 13k / ChatGPTを搭載した検索エンジンを強化するブラウザ拡張機能
  * 🔥 [nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - ⭐ 6.9k / 💬 OpenAIのGPT-4を搭載したレスポンシブチャットアプリケーションで、レスポンスストリーミング、コードハイライト、開発者向けのさまざまなプリセットを備えています。Next.js、React、Joyを使用しています。
  * 💤 [sharegpt](https://github.com/domeccleston/sharegpt) - ⭐ 1.8k / 簡単にChatGPTの会話の永久リンクを友達と共有できます。
- * 💤 [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ⭐ 612 / ChatGPTレイキャスト拡張機能
+ * 💤 [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) - ⭐ 611 / ChatGPTレイキャスト拡張機能
  * 💤 [GPT-Toolbox](https://github.com/cedricguillemet/gpt-toolbox) - ⭐ 29 / VSCode用のGPT拡張機能
  * 💤 [CodeCursor](https://github.com/helixform/codecursor) - ⭐ 1.8k / Visual Studio Codeでカーソルを使用するための拡張機能。
  * 💤 [butler.vim](https://github.com/lambdalisue/butler.vim) - ⭐ 30 / 🫖 あなたの執事。Vim/NeovimプラグインのようなChatGPTで、OpenAI APIと通信するものです。
@@ -768,14 +765,14 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [openai-chatgpt-everywhere-extension](https://github.com/1997roylee/openai-chatgpt-everywhere-extension) - ⭐ 30 / サンプルCSVファイル
  * 💤 [awesome-chatgpt-plugins](https://github.com/imaurer/awesome-chatgpt-plugins) - ⭐ 92 / ChatGPTプラグインの構築と使用に役立つ興味深いリソースのリスト。
  * 💤 [Chrome-GPT](https://github.com/richardyc/chrome-gpt) - ⭐ 1.7k / デスクトップ上のChromeを制御するAutoGPTエージェント
- * 💤 [Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin) - ⭐ 542 / AutoGPT MetaTraderプラグインは、トレーダーがMetaTrader 4または5の取引口座をAuto-GPTに接続できるようにするソフトウェアツールです。
+ * 💤 [Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/auto-gpt-metatrader-plugin) - ⭐ 543 / AutoGPT MetaTraderプラグインは、トレーダーがMetaTrader 4または5の取引口座をAuto-GPTに接続できるようにするソフトウェアツールです。
  * 💤 [Auto-GPT-Plugins](https://github.com/significant-gravitas/auto-gpt-plugins) - ⭐ 3.9k / Auto-GPT用のプラグイン
  * 💤 [nextjs-chatgpt-plugin-starter](https://github.com/dabit3/nextjs-chatgpt-plugin-starter) - ⭐ 206 / Next.jsを使用したChatGPTプラグインのスタータープロジェクト
  * 💤 [sftly-replace](https://github.com/kmizu/sftly-replace) - ⭐ 4 / 選択したテキストをやさしく置き換えるためのChrome拡張機能
  * 💤 [chatgpt-plugin](https://github.com/solana-labs/chatgpt-plugin) - ⭐ 193 / 🧬@Solanalabsは、ChatGPTプラグインのオープンソースのリファレンス実装を開発しました。🧬 #ChatGPTプラグインの利用により、#Solanaユーザーはウォレットの残高を確認し、トークンを送信し、NFTを取得することができます。🔽INFO
  * 💤 [bmtools](https://github.com/openbmb/bmtools) - ⭐ 2.8k / BMTools：大規模モデルのツール学習、ChatGPT-Pluginsのオープンソースソリューションをサポートし、BabyAGIとAuto-GPTgithubをサポートしています。
  * 🔥 [pake](https://github.com/tw93/pake#popular-packages) - ⭐ 46k / 900MonthのChrome拡張機能はAngularJSで構築されています。
- * 🔥 [CopilotForXcode](https://github.com/intitni/copilotforxcode) - ⭐ 8.3k / GitHub CopilotとChatGPTのXcodeソースエディタ拡張機能が見つかりません。
+ * ✅ [CopilotForXcode](https://github.com/intitni/copilotforxcode) - ⭐ 8.3k / GitHub CopilotとChatGPTのXcodeソースエディタ拡張機能が見つかりません。
  * 💤 [gpt-terminal-plugin](https://github.com/etherlegend/gpt-terminal-plugin) - ⭐ 33 / ChatGPTのための汎用コマンドラインプラグイン
  * 💤 [smartgpt](https://github.com/cormanz/smartgpt) - ⭐ 1.8k / LLMがプラグインを使用して複雑なタスクを完了する能力を提供するプログラム。
  * 💤 [chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) - ⭐ 293 / Cloudflareの開発者プラットフォームを使用してChatGPTプラグインを構築する 🤖
@@ -789,28 +786,28 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [github-chatGPT-plugin](https://github.com/jesserweigel/github-chatgpt-plugin) - ⭐ 13 / GitHubにアクセスするためのChatGPTプラグイン。
  * 💤 [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin) - ⭐ 240 / Code ChatGPTプラグインは、ChatGPTがあなたのコードと「話す」ことを可能にするTypeScriptコードアナライザーです。
  * 💤 [Auto-GPT-Crypto-Plugin](https://github.com/isaiahbjork/auto-gpt-crypto-plugin) - ⭐ 277 / AutoGPT Cryptoプラグインは、トレーダーが自分の暗号通貨ウォレットまたは取引所をAuto-GPTに接続できるようにするソフトウェアツールです。
- * 🔥 [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - ⭐ 1.6k / プラスサブスクリプションにアクセスせずに、無料でChatGPTプラグインを実行する。
+ * ✅ [ChatGPT-Developer-Plugins](https://github.com/samuraigpt/chatgpt-developer-plugins) - ⭐ 1.6k / プラスサブスクリプションにアクセスせずに、無料でChatGPTプラグインを実行する。
  * 💤 [chatgpt-simple-todo-plugin](https://github.com/yoshinorisano/chatgpt-simple-todo-plugin) - ⭐ 22 / この最小限のコードと手順で、ChatGPTプラグインの開発を始めることができます。これは、最初のプラグイン開発の例として完璧です。
  * 💤 [codeexplain.nvim](https://github.com/mthbernardes/codeexplain.nvim) - ⭐ 89 / リアルタイムのコード説明と脆弱性検出のためのGPT4ALLによるnvimプラグイン（インターネット不要）
  * ⚠️ [chatgpt-export](https://github.com/yaph/chatgpt-export) - ⭐ 119 / ChatGPTの会話をマークダウンファイルとしてエクスポートするためのブラウザブックマークレット。
  * 💤 [logseq-chatgpt-plugin](https://github.com/debanjandhar12/logseq-chatgpt-plugin) - ⭐ 120 / Logseq用の密接に統合されたChatGPTプラグイン。
  * 💤 [autogpt-package](https://github.com/kurtosis-tech/autogpt-package) - ⭐ 161 / それはまるでAuto-GPTがBrewと出会ったようです。あなたが選ぶバックエンドと必要なプラグインを使って、AutoGPTを始めるための最も簡単で最速の方法です。
  * 💤 [PowerToys4OpenAI](https://github.com/robert-hoffmann/powertoys4openai) - ⭐ 40 / Chrome、Edge、Opera用のGPTチャット拡張機能。検索結果との直接統合。履歴管理付きの完全なチャットインターフェース。サーバー不要でコスト効果的。
- * 🔥 [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - ⭐ 284 / チャットGPTを使用して画像を処理および分析するためのnapariプラグイン！
+ * ✅ [napari-chatgpt](https://github.com/royerlab/napari-chatgpt) - ⭐ 286 / チャットGPTを使用して画像を処理および分析するためのnapariプラグイン！
  * 💤 [kaguya](https://github.com/ykdojo/kaguya) - ⭐ 1.2k / 制御された方法でローカルファイルを読み込み、編集し、Python、JavaScript、およびbashスクリプトを実行できるChatGPTプラグイン。
- * 🔥 [duckduckgpt](https://github.com/kudoai/duckduckgpt) - ⭐ 272 / 🐤 DuckDuckGoのアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
+ * 🔥 [duckduckgpt](https://github.com/kudoai/duckduckgpt) - ⭐ 273 / 🐤 DuckDuckGoのアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
  * 🔥 [bravegpt](https://github.com/kudoai/bravegpt) - ⭐ 204 / 🦁 ブレイブサーチアドオンは、検索結果にChatGPTの魔法をもたらします（GPT-4によってパワーアップ！）
  * 💤 [listennotes-chatgpt-plugin](https://github.com/listennotes/listennotes-chatgpt-plugin) - ⭐ 26 / AIパワードポッドキャスト検索のためのListen Notes ChatGPTプラグイン。PodcastAPI.comとCloudflare Pagesによって提供されています。
  * 💤 [chatgpt-github-plugin](https://github.com/carlos-lugo/chatgpt-github-plugin) - ⭐ 10 / このリポジトリには、ChatGPTとGitHub APIとの連携を可能にするプラグインが含まれています。GitHubのリポジトリに関する情報を取得することができます。具体的には、リポジトリの一覧、ブランチやファイルの情報、特定のファイルの内容などを取得することができます。
  * 💤 [chatgpt-plugin-clerk-auth](https://github.com/eidam/chatgpt-plugin-clerk-auth) - ⭐ 21 / Cloudflare WorkersとClerk OAuth2バックエンドを使用したChatGPTプラグインの例。
  * 💤 [vscode-i-dont-care-about-commit-message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - ⭐ 135 / もう一つのAI gitコミットプラグインですが、手動確認の必要はありません。
- * ⚠️ [openai-translator](https://github.com/openai-translator/openai-translator) - ⭐ 25k / ChatGPT APIに基づく翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
- * 💤 [ais-ninja](https://github.com/jarvis2f/ais-ninja) - ⭐ 318 / プラグインをサポートするChatGPTです。TG: https://t.me/+bIZncGryj_85MjYx
- * 💤 [openplugin](https://github.com/cakecrusher/openplugin) - ⭐ 212 / API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
+ * 🔥 [openai-translator](https://github.com/openai-translator/openai-translator) - ⭐ 25k / ChatGPT APIに基づく翻訳のためのブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
+ * 💤 [ais-ninja](https://github.com/jarvis2f/ais-ninja) - ⭐ 319 / プラグインをサポートするChatGPTです。TG: https://t.me/+bIZncGryj_85MjYx
+ * 💤 [openplugin](https://github.com/cakecrusher/openplugin) - ⭐ 213 / API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
  * 🔥 [continue](https://github.com/continuedev/continue) - ⭐ 31k / ソフトウェア開発のためのオープンソースの自動操縦システム-ChatGPTのパワーをあなたのIDEにもたらすVS Code拡張機能
  * ⚠️ [GPT-Plugins](https://github.com/targed/gpt-plugins) - ⭐ 145 / GPT-Pluginsは、ChatGPTやGPTアーキテクチャと互換性のある他の言語モデルのプラグイン、アドオン、拡張機能の包括的なリストとして機能するGitHubリポジトリです。
  * 💤 [web5-chatgpt-plugin](https://github.com/tbd54566975/web5-chatgpt-plugin) - ⭐ 21 / ChatGPTにWeb5コードのサポートと知識を追加するChatGPTプラグイン
- * 💤 [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - ⭐ 483 / ChatGPTのためのステロイド入りコードインタプリタ。どんな言語でも実行し、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
+ * 💤 [chatgpt-plugin](https://github.com/e2b-dev/chatgpt-plugin) - ⭐ 484 / ChatGPTのためのステロイド入りコードインタプリタ。どんな言語でも実行し、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
  * 💤 [awesome-chatgpt-plugins](https://github.com/highwayoflife/awesome-chatgpt-plugins) - ⭐ 166 / ChatGPT plus内で利用可能なChatGPTプラグインの厳選リスト。詳細な説明と使用方法のドキュメント、非公式なプラグインの情報も含まれています。
  * 💤 [meeper](https://github.com/pas1ko/meeper) - ⭐ 81 / Meeper 📝 - ブラウザ内のどんなオンライン会議でもあなたの秘書です。
  * 💤 [codesherpa](https://github.com/iamgreggarcia/codesherpa) - ⭐ 257 / コードインタプリターとChatGPTプラグイン
@@ -819,13 +816,13 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [Image-To-Text-OCR-extension-for-ChatGPT](https://github.com/tshetrim/image-to-text-ocr-extension-for-chatgpt) - ⭐ 87 / ChatGPT用の画像からテキストへの変換（OCR）Chrome拡張機能
  * 💤 [search-recommendations](https://github.com/niemingxing/search-recommendations) - ⭐ 203 / 検索推奨語収集とコンテンツ生成アシスタントは、小紅書、TikTok、Bilibili、知乎、百度、Googleのユーザー向けに設計された強力なChrome拡張機能です。この拡張機能は、これらのプラットフォームの検索推奨語や関連語を自動的に収集し表示し、CSVファイルとして保存してダウンロードすることができます。興味のあるコンテンツを検索、閲覧、発見するのをサポートします。また、chatgptを利用して、自動化された大量のコンテンツを生成し、WordPressサイトに投稿することもできます。
  * 💤 [openai.mini](https://github.com/llmapp/openai.mini) - ⭐ 121 / OpenAIのAPIとプラグイン対応のChatGPTをオープンソースのLLMや他のモデルと統合する。OpenAIのAPIを実装し、オープンソースのLLMや他のモデルと連携可能なChatGPTを作成します。
- * 💤 [openplugin](https://github.com/openpluginaci/openplugin) - ⭐ 212 / API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
+ * 💤 [openplugin](https://github.com/openpluginaci/openplugin) - ⭐ 213 / API（またはクライアント）を介してOpenAIのChatGPTプラグインとシームレスに統合し、ChatGPT API + プラグインと同じ強力な機能を提供します！
  * ⚠️ [chatgpt-desktop](https://github.com/inplex-sys/chatgpt-desktop) - ⭐ repo not found / AIPRMを含むWindowsのChatGPT（Firefoxにインストールできない人向け）
  * 💤 [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) - ⭐ 1.6k / 超能力を持ったChatGPT！チャット履歴の検索、フォルダの作成、すべてのチャットのエクスポート、メッセージのピン留め、数千のコミュニティプロンプトへのアクセス、インコグニートモード、言語とトーンの選択、さらに多くの機能があります。
  * 💤 [show-me-chatgpt-plugin](https://github.com/bra1ndump/show-me-chatgpt-plugin) - ⭐ 677 / ChatGPTで図を作成および編集する
- * 💤 [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - ⭐ 240 / ChatGPTにウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能を与えるためのリポジトリウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能をChatGPTに与えるためのリポジトリ
+ * 💤 [ChatGPT-Plugins](https://github.com/serp-ai/chatgpt-plugins) - ⭐ 241 / ChatGPTにウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能を与えるためのリポジトリウェブブラウジング、Pythonコードの実行、およびカスタムプラグインの機能をChatGPTに与えるためのリポジトリ
  * 💤 [ChatIDE](https://github.com/yagil/chatide) - ⭐ 222 / あなたのIDEでのAIコーディングアシスタント - ChatGPT（OpenAI）とClaude（Anthropic）を使用したVSCode拡張機能。
- * 🔥 [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - ⭐ 268 / ChatGPTのためのVimプラグイン
+ * 🔥 [vim-chatgpt](https://github.com/codercooke/vim-chatgpt) - ⭐ 269 / ChatGPTのためのVimプラグイン
  * 💤 [obsidian-weaver](https://github.com/vasilecampeanu/obsidian-weaver) - ⭐ 223 / WeaverはObsidianのプラグインであり、ChatGPT/GPT-3をノート作成のワークフローに統合することができます。このプラグインは、Obsidian内でAIによる提案や洞察を簡単に利用できるようにし、執筆やブレインストーミングのプロセスを改善するのに役立ちます。
  * 💤 [chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - ⭐ 214 / 公式のChatGPTプラグイン🧩
  * 💤 [auto-chatgpt](https://github.com/ryuseisan/auto-chatgpt) - ⭐ 58 / ブラウザ版ChatGPTとの対話を自動化します。
@@ -851,50 +848,50 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [WPeChatGPT](https://github.com/wpeace-hch/wpechatgpt) - ⭐ 1.3k / IDAのプラグインは、バイナリファイルの解析を支援するものであり、OpenAIによって訓練されたgpt-3.5-turboモデルに基づいています。ChatGPTと同じモデルです。
  * ⚠️ [chatgpt-plugin](https://github.com/ikechan8370/chatgpt-plugin) - ⭐ 1.1k / 云崽qq机器人的chatgpt插件云崽qqボットのchatgptプラグイン
  * 💤 [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - ⭐ 2k / Googleの検索結果やYouTubeの動画と一緒にChatGPTの要約を表示するためのChrome拡張機能です。また、Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、日経、Bing、Google特許など、どんなページの要約にも対応しています。
- * 🔥 [CodeGPT](https://github.com/carlrobertoh/codegpt) - ⭐ 1.8k / JetBrainsの拡張機能は、GPT-4、Code Llamaなどの最新のLLMに無料でアクセスできます。
+ * 🔥 [CodeGPT](https://github.com/carlrobertoh/codegpt) - ⭐ 1.9k / JetBrainsの拡張機能は、GPT-4、Code Llamaなどの最新のLLMに無料でアクセスできます。
  * ⚠️ [ReadSomething](https://github.com/readsomething/readsomething) - ⭐ repo not found / 📖 オープンソースのChrome拡張機能で、ウェブページを読みやすいモードに変換し、AIによる要約、翻訳、Markdown変換などの機能が組み込まれています。
  * 💤 [writely](https://github.com/anc95/writely) - ⭐ 1.3k / ❤️‍🔥 Notion AI を超える選択肢としての Chrome 拡張機能。 | Notion AI に限らず、さらに進化した浏览器拡張機能。
  * 💤 [CoDeveloperGPTengine](https://github.com/stoerr/codevelopergptengine) - ⭐ 17 / 共同開発者GPTエンジン：開発者向けのChatGPTプラグインを作成し、ファイルの読み取り/検索/書き込み、実行（ビルド）アクションを可能にします。
  * 💤 [neoai.nvim](https://github.com/bryley/neoai.nvim) - ⭐ 573 / OpenAIのGPTモデルとのやり取りを行うためのNeovimプラグイン
- * 💤 [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - ⭐ 512 / NoneBotフレームワークをベースにしたAIチャットプラグインで、OpenAiテキスト生成APIと連携して、ロボットのパーソナリティのカスタマイズ/切り替え、チャットの記憶などの機能を実現しています。
- * 🔥 [vim-ai](https://github.com/madox2/vim-ai) - ⭐ 1.1k / Vim用のAIパワードコードアシスタント。VimとNeovim用のOpenAIとChatGPTプラグイン。
- * 💤 [AI-Employe](https://github.com/vignshwarar/ai-employe) - ⭐ 587 / GPT-4 Visionを使用して人間に教えているかのようにブラウザ自動化を作成します。
+ * 💤 [nonebot_plugin_naturel_gpt](https://github.com/kromiose/nonebot_plugin_naturel_gpt) - ⭐ 513 / NoneBotフレームワークをベースにしたAIチャットプラグインで、OpenAiテキスト生成APIと連携して、ロボットのパーソナリティのカスタマイズ/切り替え、チャットの記憶などの機能を実現しています。
+ * ✅ [vim-ai](https://github.com/madox2/vim-ai) - ⭐ 1.1k / Vim用のAIパワードコードアシスタント。VimとNeovim用のOpenAIとChatGPTプラグイン。
+ * 💤 [AI-Employe](https://github.com/vignshwarar/ai-employe) - ⭐ 586 / GPT-4 Visionを使用して人間に教えているかのようにブラウザ自動化を作成します。
  * ⚠️ [raycast-openai-translator](https://github.com/openai-translator/raycast-openai-translator) - ⭐ 436 / ChatGPT APIに基づいたRaycast翻訳プラグイン - ChatGPT APIに基づいたRaycast翻訳拡張機能。
  * 🔥 [AI-Prompt-Genius](https://github.com/ai-prompt-genius/ai-prompt-genius) - ⭐ 1.3k / AIプロンプトのカスタムライブラリをキュレーションする
  * 🔥 [supermemory](https://github.com/dhravya/supermemory) - ⭐ 17k / スーパーメモリを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存できます。
  * 💤 [OpenCharacters](https://github.com/josephrocca/opencharacters) - ⭐ 397 / シンプルなウェブインターフェースでキャラクターを作成し、それらとチャットするためのものです。基本的には単一のHTMLファイルで、サーバーは必要ありません。キャラクターはリンクを使用して共有します（キャラクターデータはURL自体に保存されます）。すべてのチャットデータはIndexedを使用してブラウザに保存されます。
- * 🔥 [py-gpt](https://github.com/szczyglis-dev/py-gpt) - ⭐ 1.6k / GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-indexなどを搭載したデスクトップAIアシスタント。チャット、ビジョン、画像生成と解析、自律エージェント、コードとコマンドの実行、ファイルのアップロードとダウンロード、音声合成と認識、Webアクセスを提供します。
- * 💤 [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ⭐ 390 / ChatGPT to Notionは、ChatGPTの賢さをあなたのNotionワークスペースに直接もたらします！
+ * ✅ [py-gpt](https://github.com/szczyglis-dev/py-gpt) - ⭐ 1.6k / GPT-4、GPT-4 Vision、GPT-3.5、DALL-E 3、Langchain、Llama-indexなどを搭載したデスクトップAIアシスタント。チャット、ビジョン、画像生成と解析、自律エージェント、コードとコマンドの実行、ファイルのアップロードとダウンロード、音声合成と認識、Webアクセスを提供します。
+ * 💤 [chatgpt-to-notion](https://github.com/l-a-r-t/chatgpt-to-notion) - ⭐ 391 / ChatGPT to Notionは、ChatGPTの賢さをあなたのNotionワークスペースに直接もたらします！
  * 💤 [neural](https://github.com/dense-analysis/neural) - ⭐ 510 / AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPTなど）AI Vim/Neovimコード生成プラグイン（OpenAI、ChatGPT、その他）
  * 💤 [Sophia](https://github.com/kyegomez/sophia) - ⭐ 381 / モデルトレーニングコストを50％削減するための簡単なプラグインとプレイ最適化ツール。LLMsにおいてAdamより2倍高速な新しい最適化ツール。
- * ⚠️ [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ⭐ 565 / ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！
+ * ⚠️ [ChatGPT-Gnome-Desktop-Extension](https://github.com/horrorpills/chatgpt-gnome-desktop-extension) - ⭐ 564 / ChatGPTノームデスクトップ拡張機能 | メニューバーからChatGPTとお話しよう！
  * ⚠️ [privacy-settings](https://github.com/stellarsand/privacy-settings) - ⭐ 1.8k / 主要なソフトウェアやサービスのプライバシー設定ガイド
  * ⚠️ [nonebot-plugin-bilichat](https://github.com/well2333/nonebot-plugin-bilichat) - ⭐ 267 / OpenAIを使用してBilibili動画を要約する多機能なBilibili解析プラグイン
- * 🔥 [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - ⭐ 524 / 簡単な方法で単語を検索したりテキストを翻訳するためのRaycast拡張機能。48以上の言語をサポートし、LingueeやYoudao辞書をサポートし、OpenAI、DeepL、Google、Bing、Apple、Baidu、Tencent、Volcano、Youdao、Caiyunの翻訳をサポートしています。
+ * 🔥 [Raycast-Easydict](https://github.com/tisfeng/raycast-easydict) - ⭐ 525 / 簡単な方法で単語を検索したりテキストを翻訳するためのRaycast拡張機能。48以上の言語をサポートし、LingueeやYoudao辞書をサポートし、OpenAI、DeepL、Google、Bing、Apple、Baidu、Tencent、Volcano、Youdao、Caiyunの翻訳をサポートしています。
  * 💤 [model.nvim](https://github.com/gsuuon/model.nvim) - ⭐ 396 / LLMとエディター統合プロンプトとのやり取りを行うためのNeovimプラグイン
- * 🔥 [BrowserGPT](https://github.com/mayt/browsergpt) - ⭐ 421 / GPTを使用してブラウザを操作します。
- * 🔥 [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - ⭐ 278 / Visual Studioに直接chatGPT機能を追加します。
+ * ✅ [BrowserGPT](https://github.com/mayt/browsergpt) - ⭐ 421 / GPTを使用してブラウザを操作します。
+ * ✅ [VisualChatGPTStudio](https://github.com/jeffdapaz/visualchatgptstudio) - ⭐ 278 / Visual Studioに直接chatGPT機能を追加します。
  * 🔥 [crawlee-python](https://github.com/apify/crawlee-python) - ⭐ 8.1k / Crawlee—Python向けの信頼性の高いクローラーを構築するためのWebスクレイピングおよびブラウザ自動化ライブラリ。AI、LLMs、RAG、またはGPTs向けのデータを抽出します。ウェブサイトからHTML、PDF、JPG、PNGなどのファイルをダウンロードします。BeautifulSoup、Playwright、および生のHTTPと連携します。両方のヘッドで動作します。
  * 🔥 [supermemory](https://github.com/supermemoryai/supermemory) - ⭐ 17k / スーパーメモリーを使って自分だけの第二の脳を構築しましょう。それはあなたのブックマーク用のChatGPTです。ツイートをインポートしたり、Chrome拡張機能を使ってウェブサイトやコンテンツを保存したりできます。
  * 💤 [Auto-GPT-Plugin-Template](https://github.com/significant-gravitas/auto-gpt-plugin-template) - ⭐ 788 / Auto-GPTのための独自のプラグインを開発するための出発点
- * ⚠️ [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - ⭐ 336 / Joplin（ノートテイキング）アシスタントが非常にインテリジェントなシステム（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoderなど）を実行しています。
+ * ⚠️ [joplin-plugin-jarvis](https://github.com/alondmnt/joplin-plugin-jarvis) - ⭐ 337 / Joplin（ノートテイキング）アシスタントが非常にインテリジェントなシステム（OpenAI/GPT、Hugging Face、Gemini、Llama、Universal Sentence Encoderなど）を実行しています。
  * 💤 [ChatLLM-Web](https://github.com/ryan-yang125/chatllm-web) - ⭐ 637 / 🗣️ WebGPUを使用して、安全かつプライベートに、サーバーなしでVicunaのようなLLMと完全にブラウザでチャットします。Web llmによって提供されます。
  * ⚠️ [raycast-g4f](https://github.com/xinthedark/raycast-g4f) - ⭐ 1.1k / GPT-4、Llama-3などを無料で使用するRaycast拡張機能。APIキーは不要です！
  * 💤 [bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher) - ⭐ 670 / OpenAI APIを使用してテキストを磨き、文法を修正するBobプラグイン！Grammarlyの完璧な代替品！CC BY-NC-SA 4.0のライセンスに基づいています。
  * 💤 [GPT-Prompter](https://github.com/giosilvi/gpt-prompter) - ⭐ 240 / 選択したテキストの高速プロンプトを取得するためのブラウザ拡張機能、OpenAIのGPT-3、GPT-4、ChatGPT API用。ChromeウェブストアとFirefoxブラウザアドオンで利用可能。
- * ⚠️ [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - ⭐ 954 / ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。Output: ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。
+ * 🔥 [web-llm-chat](https://github.com/mlc-ai/web-llm-chat) - ⭐ 965 / ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。Output: ブラウザでネイティブに実行されているAI大規模言語モデルとチャットしてください。プライベートで、サーバーレスで、シームレスなAI会話をお楽しみください。
  * 💤 [chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - ⭐ 6.5k / WebChatGPT：ChatGPTのプロンプトをWebの結果で補完するブラウザ拡張機能。
  * ⚠️ [linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedin_auto_jobs_applier_with_ai) - ⭐ 29k / LinkedIn_AIHawkは、LinkedIn上の求人応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の求人に自動化された個人的な方法で応募できるようにします。
  * ⚠️ [Plugin-VoiceGPT](https://github.com/wstxda/plugin-voicegpt) - ⭐ 1.2k / Googleアシスタントの代わりにChatGPTを使用してください。
  * 🔥 [codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ⭐ 6.2k / ✨ NeovimでのCopilot Chat体験、インラインアシスタント付き。Anthropic、Gemini、Ollama、OpenAI LLMsをサポートします。
  * 💤 [open-assistant-api](https://github.com/mlt-oss/open-assistant-api) - ⭐ 357 / Open Assistant APIは、使用準備が整っており、オープンソースで自己ホスト型のエージェント/gptsオーケストレーション作成フレームワークであり、LLM、RAG、関数呼び出し、およびツールの機能にカスタマイズされた拡張をサポートしています。また、openai/langとのシームレスな統合もサポートしています。
  * ⚠️ [parrot.nvim](https://github.com/frankroeder/parrot.nvim) - ⭐ 776 / Input: parrot.nvim 🦜 - the plugin that brings stochastic parrots to Neovim. This is a gp.nvim-fork focused on simplicity.Output: parrot.nvim 🦜 - ネオビムに確率的なオウムをもたらすプラグイン。これはシンプリシティに焦点を当てたgp.nvimのフォークです。
- * 💤 [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - ⭐ 268 / Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard
+ * 💤 [ChatGPTWizard](https://github.com/alidehbansiahkarbon/chatgptwizard) - ⭐ 267 / Embarcadero RAD Studio IDE XE5から12.1用のChatGPT、WriteSonic、YouChat、Ollama（オフライン）プラグイン。https://getitnow.embarcadero.com/chatgptwizard
  * ⚠️ [Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/auto_jobs_applier_aihawk) - ⭐ 29k / Auto_Jobs_Applier_AIHawkは、仕事の応募プロセスを自動化するツールです。人工知能を活用して、ユーザーが複数の仕事に自動化された個人的な方法で応募できるようにします。
- * 🔥 [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - ⭐ 767 / Android Studio向けのAIコミット。
+ * 🔥 [ai-commits-intellij-plugin](https://github.com/blarc/ai-commits-intellij-plugin) - ⭐ 770 / Android Studio向けのAIコミット。
  * 💤 [ogpt.nvim](https://github.com/huynle/ogpt.nvim) - ⭐ 197 / Ollama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovim Pluginとチャット：LLM APIを使用した自然な言語生成の手間いらずOllama/Huggingface/TextGen/OpenAI/Gemini/Anthropic GPT Neovimプラグインとのチャット：LLM APIを使用した自然な言語生成の手間いらず
- * ⚠️ [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - ⭐ 187 / ChatGPT、Gemini、Claude、phind、Groqのウェブサイトの利用体験を向上させ、便利な機能を提供します。たとえば、URLから自動的に入力するヒントを提供したり、返信する際に自動的にヒントボタンが表示されるようにします。
- * ⚠️ [LLM_Web_search](https://github.com/mamei16/llm_web_search) - ⭐ 276 / DuckDuckGoを使用してLLMがウェブを検索できるようにするoobabooga/text-generation-webuiの拡張機能
+ * 🔥 [ChatGPTToolkitExtension](https://github.com/doggy8088/chatgpttoolkitextension) - ⭐ 187 / ChatGPT、Gemini、Claude、phind、Groqのウェブサイトの利用体験を向上させ、便利な機能を提供します。たとえば、URLから自動的に入力するヒントを提供したり、返信する際に自動的にヒントボタンが表示されるようにします。
+ * 🔥 [LLM_Web_search](https://github.com/mamei16/llm_web_search) - ⭐ 276 / DuckDuckGoを使用してLLMがウェブを検索できるようにするoobabooga/text-generation-webuiの拡張機能
  * 🔥 [DevoxxGenieIDEAPlugin](https://github.com/devoxx/devoxxgenieideaplugin) - ⭐ 620 / DevoxxGenieは、IntelliJ IDEA用のプラグインで、ローカルLLM（Ollama、LMStudio、GPT4All、Llama.cpp、Exo）とクラウドベースのLLMを使用して、プロジェクトコードのレビュー、テスト、説明を支援します。
  * 🔥 [AGiXT](https://github.com/josh-xt/agixt) - ⭐ 3.2k / AGiXTは、さまざまなAIプロバイダー間で指示管理と複雑なタスク実行をシームレスにオーケストレーションするダイナミックなAIエージェント自動化プラットフォームです。適応型メモリ、スマート機能、多機能なプラグインシステムを組み合わせることで、効率的なAGiXTを提供します。
  * 💤 [AutoGPT-Next-Web](https://github.com/connectai-e/autogpt-next-web) - ⭐ 3k / 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。あなたの個人AutoGPTウェブアプリを簡単にデプロイします。
@@ -908,40 +905,40 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [claude-coder](https://github.com/kodu-ai/claude-coder) - ⭐ 5.3k / Koduは、あなたのIDEに住む自律型のコーディングエージェントです。これは、最新の技術を活用して、ステップバイステップであなたの夢のプロジェクトを構築するのに役立つVSCode拡張機能です。
  * 💤 [AutoGPT-Next-Web](https://github.com/elricliu/autogpt-next-web) - ⭐ 3k / 🤖 ブラウザで自律型AIエージェントを組み立て、構成、展開します。一括で無料であなたの個人AutoGPTウェブアプリを展開します。
  * 🔥 [browser-use](https://github.com/browser-use/browser-use) - ⭐ 79k / AIエージェントにウェブサイトをアクセス可能にする
- * 🔥 [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - ⭐ 990 / プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！
+ * 🔥 [obsidian-Smart2Brain](https://github.com/your-papa/obsidian-smart2brain) - ⭐ 991 / プライバシーに焦点を当てたAIアシスタントと連携するObsidianプラグインを使用して、あなたの第二の脳をさらに賢くします！
  * ⚠️ [Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/jobs_applier_ai_agent_aihawk) - ⭐ 29k / Jobs_Applier_AI_Agent_AIHawkは、仕事の応募プロセスを自動化することで、簡単な求人活動を目指しています。人工知能を活用して、ユーザーが複数の仕事に適した方法で応募できるようにしています。
  * 💤 [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - ⭐ 822 / Flexpilot - VS Code向けのオープンソース、ネイティブで真のGitHub Copilotの代替品
  * ⚠️ [nanobrowser](https://github.com/nanobrowser/nanobrowser) - ⭐ 12k / AI パワードのウェブ自動化のためのオープンソースのChrome拡張機能。独自のLLM APIキーを使用してマルチエージェントワークフローを実行します。OpenAI Operatorの代替手段。
- * 🔥 [solon](https://github.com/opensolon/solon) - ⭐ 2.7k / 🔥 Javaエンタープライズアプリケーション開発フレームワーク：抑制された、効率的、オープン、エコロジカル!!! 700％高い同時性 50％メモリ節約 スタートアップが10倍速くなりました。パッケージが90％小さくなり、java8〜java24と互換性があります。（置換可能なspr
+ * ✅ [solon](https://github.com/opensolon/solon) - ⭐ 2.7k / 🔥 Javaエンタープライズアプリケーション開発フレームワーク：抑制された、効率的、オープン、エコロジカル!!! 700％高い同時性 50％メモリ節約 スタートアップが10倍速くなりました。パッケージが90％小さくなり、java8〜java24と互換性があります。（置換可能なspr
  * ⚠️ [mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - ⭐ 1.7k / MCP（Model Context Protocol）サーバーを管理するための強力なNeovimプラグイン
  * 🔥 [notte](https://github.com/nottelabs/notte) - ⭐ 1.9k / 🔥 エージェントを使用したオープンソースブラウザ 🔥 エージェントを使用したオープンソースブラウザ
- * 🔥 [llm-scraper](https://github.com/mishushakov/llm-scraper) - ⭐ 6.2k / LLMsを使用して、任意のウェブページを構造化データに変換します。
+ * ✅ [llm-scraper](https://github.com/mishushakov/llm-scraper) - ⭐ 6.2k / LLMsを使用して、任意のウェブページを構造化データに変換します。
  * ⚠️ [SwitchAI](https://github.com/wstxda/switchai) - ⭐ 1.2k / 簡単に選択し、起動し、お好みのAIデジタルアシスタントを管理します。
  * 🔥 [chatGPTBox](https://github.com/chatgptbox-dev/chatgptbox) - ⭐ 11k / ChatGPTをブラウザに深く統合することで、必要なすべてがここにあります。
- * 🔥 [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - ⭐ 533 / 🤖 AIブラウザ拡張機能＆ユーザースクリプトで、Web体験を向上させます
- * 🔥 [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - ⭐ 879 / このリアルタイム字幕翻訳プラグインは、OpenAIのChatGPT API（または同じAPI呼び出し方法を持つモデル）をPotPlayerに統合します。これにより、ビデオを視聴しながら字幕をリアルタイムで翻訳することができ、言語の壁を取り除き、視聴体験を向上させることができます。
+ * 🔥 [ai-web-extensions](https://github.com/adamlui/ai-web-extensions) - ⭐ 536 / 🤖 AIブラウザ拡張機能＆ユーザースクリプトで、Web体験を向上させます
+ * ✅ [PotPlayer_ChatGPT_Translate](https://github.com/felix3322/potplayer_chatgpt_translate) - ⭐ 880 / このリアルタイム字幕翻訳プラグインは、OpenAIのChatGPT API（または同じAPI呼び出し方法を持つモデル）をPotPlayerに統合します。これにより、ビデオを視聴しながら字幕をリアルタイムで翻訳することができ、言語の壁を取り除き、視聴体験を向上させることができます。
  * 💤 [meta-vision-api](https://github.com/dcrebbin/meta-vision-api) - ⭐ 668 / Mai - Meta Glasses用のHacky Messengerブラウザ拡張機能＆API。"Hey Meta、ChatGPTにメッセージを送信してください"
  * 🔥 [mcp-unity](https://github.com/codergamester/mcp-unity) - ⭐ 1.3k / UnityエディターとModel Context Protocol（MCP）を統合するためのUnityプラグイン- AI支援開発とOpenAI、Gemini、Claudeの相互運用性を目的として設計されています。
  * 💤 [meta-glasses-api](https://github.com/dcrebbin/meta-glasses-api) - ⭐ 668 / 入力: "メタ、ChatGPTにメッセージを送って" Mai: Meta Glasses用のHacky Messengerブラウザ拡張機能＆疑似API :eyeglasses:
- * ⚠️ [innoshop](https://github.com/innocommerce/innoshop) - ⭐ 592 / Innoshopは、Laravel 12をベースにしたオープンソースのeコマースシステムで、複数の言語、複数の通貨をサポートし、OpenAIと統合されています。プラグインメカニズムやテーマテンプレートの開発を特徴とし、ユーザーエクスペリエンスとシステムの拡張性を向上させています。
+ * ⚠️ [innoshop](https://github.com/innocommerce/innoshop) - ⭐ 593 / Innoshopは、Laravel 12をベースにしたオープンソースのeコマースシステムで、複数の言語、複数の通貨をサポートし、OpenAIと統合されています。プラグインメカニズムやテーマテンプレートの開発を特徴とし、ユーザーエクスペリエンスとシステムの拡張性を向上させています。
  * 🔥 [read-frog](https://github.com/mengxi-ream/read-frog) - ⭐ 3.5k / 🐸 読むカエル - オープンソースの没入型翻訳 | 🐸 陪読蛙 - オープンソースの没入型翻訳
  * 🔥 [koog](https://github.com/jetbrains/koog) - ⭐ 3.7k / Koogは、バックエンドサービスからAndroid、JVM、さらにはブラウザ環境まで、あらゆるプラットフォームで頑丈でスケーラブルで本番向けのAIエージェントを構築および実行するための公式のKotlinフレームワークです。Koogは、私たちのAI製品の専門知識に基づいています。
  * 🔥 [Unity-MCP](https://github.com/ivanmurzak/unity-mcp) - ⭐ 1k / MCPサーバー+UnityエディターおよびUnityゲーム用のプラグイン。このプラグインを使用すると、Claude DesktopなどのMCPクライアントに接続できます。
- * 🔥 [chatluna](https://github.com/chatlunalab/chatluna) - ⭐ 396 / LLMチャット用のボットプラグイン、マルチモデル統合、拡張性、さまざまな出力形式を備えています。
+ * 🔥 [chatluna](https://github.com/chatlunalab/chatluna) - ⭐ 398 / LLMチャット用のボットプラグイン、マルチモデル統合、拡張性、さまざまな出力形式を備えています。
  * ⚠️ [Translate-It](https://github.com/isegaro/translate-it) - ⭐ 267 / Google Gemini、OpenAi、OpenRouter、WebAiのAPIを使用して、どの言語からどの言語への翻訳（読み取り/書き込み/聞き取り）を行うChrome/Firefox拡張機能。どの言語からどの言語への翻訳を行うChrome/Firefox拡張機能。
- * ⚠️ [QodeAssist](https://github.com/palm1r/qodeassist) - ⭐ 315 / QodeAssistはQt Creator用のAI搭載コーディングアシスタントプラグインです。
- * ⚠️ [nextai-translator](https://github.com/nextai-translator/nextai-translator) - ⭐ 25k / ChatGPT APIを基にした翻訳を行うブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
+ * 🔥 [QodeAssist](https://github.com/palm1r/qodeassist) - ⭐ 317 / QodeAssistはQt Creator用のAI搭載コーディングアシスタントプラグインです。
+ * 🔥 [nextai-translator](https://github.com/nextai-translator/nextai-translator) - ⭐ 25k / ChatGPT APIを基にした翻訳を行うブラウザ拡張機能とクロスプラットフォームのデスクトップアプリケーション。
  * 🔥 [AIPex](https://github.com/aipexstudio/aipex) - ⭐ 1.1k / AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要AIPex：ブラウザ内のエージェントアシスタント、自然言語を使用してブラウザを自動化します。 ChatGPT Atlasの代替、移行不要
  * 🔥 [BrowserOS](https://github.com/browseros-ai/browseros) - ⭐ 9.4k / 🌐 オープンソースのAgenticブラウザ；ChatGPT Atlas、Perplexity Comet、Arc/Diaに対するプライバシー重視の代替手段。
- * 🔥 [GhidrAssist](https://github.com/jtang613/ghidrassist) - ⭐ 526 / GhidraにAI支援を可能にするLLM拡張機能。
+ * 🔥 [GhidrAssist](https://github.com/jtang613/ghidrassist) - ⭐ 533 / GhidraにAI支援を可能にするLLM拡張機能。
  * 🔥 [bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - ⭐ 5.7k / OpenAI APIに基づいたテキスト翻訳、テキストの修正、文法修正のBobプラグイン、バベルの塔が必要ない新しい時代を一緒に迎えましょう！CC BY-NC-SA 4.0ライセンス下で利用可能。
- * 🔥 [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - ⭐ 455 / ブラウザオペレーター - マルチエージェントプラットフォームを内蔵したAIブラウザ！ChatGPT Atlas、Perplexity Comet、Dia、Microsoft CoPilot Edge Browserのオープンソース代替品
- * ⚠️ [wp-autoplugin](https://github.com/wp-autoplugin/wp-autoplugin) - ⭐ 357 / シンプルな説明から迅速に機能的なプラグインを作成し、不要な膨張をせずに特定のニーズに対応します。
- * ⚠️ [zotero-mcp](https://github.com/cookjohn/zotero-mcp) - ⭐ 358 / Zotero MCP プラグインは、MCPプロトコルを使用してAIアシスタントとZoteroを深く統合するためのZoteroプラグインです。このプラグインは文献の検索、メタデータの管理、全文解析、賢い質問などの機能をサポートし、Claude、ChatGPTなどのAIツールが直接あなたの文献ライブラリにアクセスして操作できるようにします。Zotero MCPプラグインは、AIアシスタントとZoteroの統合を実現します。
- * 🔥 [sokuji](https://github.com/kizuna-ai-lab/sokuji) - ⭐ 845 / Electron 34とReactを使用して構築されたリアルタイムAPIを使用したライブスピーチ翻訳アプリケーション。
- * [ophel](https://github.com/urzeye/ophel) - AIの会話を整理された再利用可能なワークフローに変換し、主要なAIプラットフォーム全体で使用できるようにします。
- * [agentsys](https://github.com/avifenesh/agentsys) - AIがコードを書きます。これにより、他のすべてが自動化されます·13のプラグイン·42のエージェント·28のスキル·Claude Code、OpenCode、Codex用。
- * [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ ターミナル用AIコーディングエージェント - ハッシュアンカー編集、最適化されたツールハーネス、LSP、Python、ブラウザ、サブエージェントなど
+ * ✅ [browser-operator-core](https://github.com/browseroperator/browser-operator-core) - ⭐ 459 / ブラウザオペレーター - マルチエージェントプラットフォームを内蔵したAIブラウザ！ChatGPT Atlas、Perplexity Comet、Dia、Microsoft CoPilot Edge Browserのオープンソース代替品
+ * ⚠️ [wp-autoplugin](https://github.com/wp-autoplugin/wp-autoplugin) - ⭐ 359 / シンプルな説明から迅速に機能的なプラグインを作成し、不要な膨張をせずに特定のニーズに対応します。
+ * ⚠️ [zotero-mcp](https://github.com/cookjohn/zotero-mcp) - ⭐ 366 / Zotero MCP プラグインは、MCPプロトコルを使用してAIアシスタントとZoteroを深く統合するためのZoteroプラグインです。このプラグインは文献の検索、メタデータの管理、全文解析、賢い質問などの機能をサポートし、Claude、ChatGPTなどのAIツールが直接あなたの文献ライブラリにアクセスして操作できるようにします。Zotero MCPプラグインは、AIアシスタントとZoteroの統合を実現します。
+ * 🔥 [sokuji](https://github.com/kizuna-ai-lab/sokuji) - ⭐ 847 / Electron 34とReactを使用して構築されたリアルタイムAPIを使用したライブスピーチ翻訳アプリケーション。
+ * 🔥 [ophel](https://github.com/urzeye/ophel) - ⭐ 240 / AIの会話を整理された再利用可能なワークフローに変換し、主要なAIプラットフォーム全体で使用できるようにします。
+ * 🔥 [agentsys](https://github.com/avifenesh/agentsys) - ⭐ 472 / AIがコードを書きます。これにより、他のすべてが自動化されます·13のプラグイン·42のエージェント·28のスキル·Claude Code、OpenCode、Codex用。
+ * 🔥 [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⭐ 1k / ⌥ ターミナル用AIコーディングエージェント - ハッシュアンカー編集、最適化されたツールハーネス、LSP、Python、ブラウザ、サブエージェントなど
 
 
 ## CLIs
@@ -950,40 +947,40 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [shell_gpt](https://github.com/ther1d/shell_gpt) - ⭐ 12k / ChatGPTを搭載したコマンドライン生産性ツールは、タスクをより迅速かつ効率的に達成するのに役立ちます。
  * 💤 [PyChatGPT](https://github.com/rawandahmad698/pychatgpt) - ⭐ 4.2k / ⚡️非公式ChatGPT APIのPythonクライアント。自動トークン再生成、会話トラッキング、プロキシサポートなどがあります。
  * ⚠️ [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - ⭐ 3.7k / PythonとシェルからChatGPTとGPT4とのやり取りを行うためのAPI。
- * 🔥 [chatblade](https://github.com/npiv/chatblade) - ⭐ 2.6k / ChatGPTのためのCLIスイスアーミーナイフ
+ * ✅ [chatblade](https://github.com/npiv/chatblade) - ⭐ 2.6k / ChatGPTのためのCLIスイスアーミーナイフ
  * 💤 [Alice](https://github.com/greshake/alice) - ⭐ 374 / ChatGPTに実際の端末へのアクセスを許可する。
  * 💤 [command-ai](https://github.com/amachino/command-ai) - ⭐ 22 / OpenAI APIによって動力化されたターミナル内のAIチャットボット
  * 💤 [GPT_Vuln-analyzer](https://github.com/morpheuslord/gpt_vuln-analyzer) - ⭐ 590 / ChatGPT API、Python-Nmap、DNS Reconモジュールを使用し、NmapスキャンデータとDNSスキャン情報に基づいた脆弱性レポートを作成するためにGPT3モデルを使用します。また、サブドメイン列挙も大幅に実行できます。
- * 💤 [shell-genie](https://github.com/dylanjcastillo/shell-genie) - ⭐ 482 / あなたの願いは私の命令です。
+ * 💤 [shell-genie](https://github.com/dylanjcastillo/shell-genie) - ⭐ 483 / あなたの願いは私の命令です。
  * 💤 [DirectAI](https://github.com/ustayready/directai) - ⭐ 62 / ターミナルでOpenAI APIを使用してChatGPTのクエリを入力してください。
  * 💤 [GPTalk](https://github.com/0ut0flin3/gptalk) - ⭐ 90 / WindowsおよびUnix用のメモリ管理をサポートし、任意の言語でテキストと音声の両方をサポートするGPT-3クライアント。
  * 💤 [Reptyl](https://github.com/0ut0flin3/reptyl) - ⭐ 144 / 自然言語でのコマンド実行をサポートするクロスプラットフォームのコマンドラインシェル
  * 💤 [wanna](https://github.com/hirokidaichi/wanna) - ⭐ 141 / 自然言語でのシェルコマンド起動ツール
  * 💤 [datasetGPT](https://github.com/radi-cho/datasetgpt) - ⭐ 299 / LLMsを使用してテキストと会話のデータセットを生成するためのコマンドラインインターフェイス。
  * 💤 [chatgpt-cli](https://github.com/j178/chatgpt-cli) - ⭐ 782 / 饭否机器人
- * 🔥 [engshell](https://github.com/emcf/engshell) - ⭐ 2.2k / LLMsによって動力を得た、どんなOSでも使える英語シェル
+ * ✅ [engshell](https://github.com/emcf/engshell) - ⭐ 2.2k / LLMsによって動力を得た、どんなOSでも使える英語シェル
  * 💤 [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - ⭐ 4.2k / ChatGPTとBing AIのクライアント実装。Node.jsモジュール、REST APIサーバー、CLIアプリとして利用可能。
  * 💤 [chat-gpt-cli](https://github.com/jseguillon/chat-gpt-cli) - ⭐ 52 / PhantomJS QUnitテストランナーは、JenkinsなどのCIツールで使用するために、結果をJUnit XML形式にエクスポートし、カバレッジをCobertura XML形式にエクスポートします。
  * 💤 [terminalGPT](https://github.com/jucasoliveira/terminalgpt) - ⭐ 1k / ターミナルでchatGPTのようなGPTを取得してください。
  * 💤 [chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets) - ⭐ 31 / [新着] #chatgptがシートに！🤯 #chatgpt #apiを@googlesheetsに数クリックで統合し、@1littlecoderが手順を示します！用途：#seo、#socialmedia、#marketing、あなたが名付けるもの！🔥- チュートリアル：code：cost：$2 /百万トークン！🙃
  * 💤 [gptsh](https://github.com/shorwood/gptsh) - ⭐ 126 / GPT.shはNodeJsで構築され、Open AIのGPT-3によって動力を得たCLIツールです。その主な目的は、自然言語の質問やリクエストをシェルコマンドに翻訳することです。
- * 🔥 [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - ⭐ 18k / 公式ChatGPT APIのためのNode.jsクライアント。🔥
+ * ✅ [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - ⭐ 18k / 公式ChatGPT APIのためのNode.jsクライアント。🔥
  * ⚠️ [ChatGPT-Next-Web](https://github.com/yidadaa/chatgpt-next-web) - ⭐ 87k / 一クリックで自分自身のChatGPTウェブUIを展開する。
  * 💤 [ai-cli](https://github.com/abhagsain/ai-cli) - ⭐ 1.2k / ターミナルからCLIコマンドの回答をGPT3から取得する。
  * 💤 [chathub](https://github.com/chathub-dev/chathub) - ⭐ 11k / オールインワンチャットボットクライアント
  * 💤 [bing-chat](https://github.com/transitive-bullshit/bing-chat) - ⭐ 1.2k / Bingの新しいAI搭載検索のためのNode.jsクライアントです。それはステロイドを使用したChatGPTのようです🔥
  * 🔥 [aicommits](https://github.com/nutlope/aicommits) - ⭐ 8.9k / AIを使ってあなたのGitコミットメッセージを自動生成するCLI
- * ⚠️ [opencommit](https://github.com/di-sukharev/opencommit) - ⭐ 7.2k / 1秒で印象的なコミットを自動生成するためのGPT CLI 🤯🔫
- * 💤 [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - ⭐ 582 / ChatGPTをアプリケーションにシームレスに統合するためのReact Nativeラッパーです。認証、ストリーミングレスポンス、会話の追跡を処理します。100％クライアントサイド :robot:
+ * 🔥 [opencommit](https://github.com/di-sukharev/opencommit) - ⭐ 7.2k / 1秒で印象的なコミットを自動生成するためのGPT CLI 🤯🔫
+ * 💤 [react-native-chatgpt](https://github.com/rgommezz/react-native-chatgpt) - ⭐ 583 / ChatGPTをアプリケーションにシームレスに統合するためのReact Nativeラッパーです。認証、ストリーミングレスポンス、会話の追跡を処理します。100％クライアントサイド :robot:
  * 💤 [GPT-Shell](https://github.com/firtoz/gpt-shell) - ⭐ 153 / GPT-Shellは、OpenAIベースのチャットボットであり、OpenAIのChatGPTに似ています。また、Dalle2画像の作成も可能です。
  * 💤 [autodoc](https://github.com/context-labs/autodoc) - ⭐ 2.3k / LLMsを使用してコードベースのドキュメントを自動生成するための実験的なツールキット
  * 💤 [commit-assist](https://github.com/dejorrit/commit-assist) - ⭐ 14 / ChatGPTを使用して自動的にコミットメッセージを生成します。
  * ⚠️ [ai-shell](https://github.com/builderio/ai-shell) - ⭐ 5.2k / 自然言語をシェルコマンドに変換するCLI。
- * 💤 [doschgpt](https://github.com/yeokm1/doschgpt) - ⭐ 235 / DOS用のChatGPTクライアントの概念実証。
+ * 💤 [doschgpt](https://github.com/yeokm1/doschgpt) - ⭐ 236 / DOS用のChatGPTクライアントの概念実証。
  * 💤 [gptcommit](https://github.com/zurawiki/gptcommit) - ⭐ 2.4k / GPT-3を使用してコミットメッセージを作成するためのgit prepare-commit-msgフック。
  * 💤 [a](https://github.com/ddddddeon/a) - ⭐ 240 / GPT3からコードを生成するCLIツール
  * 💤 [plz-cli](https://github.com/m1guelpf/plz-cli) - ⭐ 1.6k / ターミナルのコパイロット
- * ⚠️ [aichat](https://github.com/sigoden/aichat) - ⭐ 9.3k / ターミナルでChatGPT/GPT-3.5/GPT-4を使用する。
+ * ⚠️ [aichat](https://github.com/sigoden/aichat) - ⭐ 9.4k / ターミナルでChatGPT/GPT-3.5/GPT-4を使用する。
  * 💤 [rusty](https://github.com/zahidkhawaja/rusty) - ⭐ 334 / Bashコマンドを覚えるのを手助けするGPT-3パワードCLIツール。
  * 💤 [cligpt](https://github.com/schneiderfelipe/cligpt) - ⭐ 7 / cligptは、OpenAIのChatGPT APIとやり取りするためのコマンドラインインターフェイスです。
  * 💤 [ata](https://github.com/rikhuijzer/ata) - ⭐ 284 / ターミナルに何でも聞いてください（ATA）：ターミナルでChatGPT
@@ -991,12 +988,12 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [openaigo](https://github.com/otiai10/openaigo) - ⭐ 299 / OpenAI GPT3/3.5 ChatGPT APIのGo用クライアントライブラリー。シンプルで依存関係が少なく、よくテストされています。
  * 💤 [cligpt](https://github.com/paij0se/cligpt) - ⭐ 5 / ターミナルでのChatGPT
  * ⚠️ [CodeGPT](https://github.com/appleboy/codegpt) - ⭐ 1.5k / Go言語で書かれたCLIで、ChatGPT AI（gpt-4、gpt-3.5-turboモデル）を使用してgitのコミットメッセージを書いたり、コードレビューの概要を作成したりし、自動的にgitのprepare-commit-msgフックをインストールします。
- * 💤 [search](https://github.com/visualbasic6/search) - ⭐ 48 / 「chatgpt」によって書かれたCLI Googleクライアントで、Googleアラートの「プレビュー」機能を使用して、CAPTCHAとレート制限をバイパスします。
+ * 💤 [search](https://github.com/visualbasic6/search) - ⭐ 47 / 「chatgpt」によって書かれたCLI Googleクライアントで、Googleアラートの「プレビュー」機能を使用して、CAPTCHAとレート制限をバイパスします。
  * 💤 [chatgpt-backup](https://github.com/abacaj/chatgpt-backup) - ⭐ 275 / ChatGPTの全会話履歴をバックアップするための単一のクライアントサイドスクリプト
  * ⚠️ [PowerShellAI](https://github.com/dfinke/powershellai) - ⭐ repo not found / OpenAI GPT-3とDALL-EのためのPowerShell AIモジュール
  * 💤 [chatGPT-shell-cli](https://github.com/0xacx/chatgpt-shell-cli) - ⭐ 1.2k / ターミナルからOpenAIのChatGPTとDALL-Eを使用するためのシンプルなシェルスクリプト。PythonやJSは必要ありません。
  * 🔥 [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) - ⭐ 1.2k / 最小限のChatGPTとDALL-E Emacsシェル
- * 🔥 [client](https://github.com/openai-php/client) - ⭐ 5.7k / ⚡️ OpenAI PHPは、OpenAI APIとやり取りすることができる、コミュニティによってメンテナンスされた高速なPHP APIクライアントです。
+ * ✅ [client](https://github.com/openai-php/client) - ⭐ 5.7k / ⚡️ OpenAI PHPは、OpenAI APIとやり取りすることができる、コミュニティによってメンテナンスされた高速なPHP APIクライアントです。
  * 💤 [slickgpt](https://github.com/shipbit/slickgpt) - ⭐ 477 / SlickGPTは、Svelteで書かれた軽量な「自分自身のAPIキーを使用する」Webクライアントであり、OpenAI APIに対応しています。GPT-4の統合、ユーザーレスの共有機能など、その他のスーパーパワーを提供しています。
  * ⚠️ [chatgpt-ui](https://github.com/wongsaang/chatgpt-ui) - ⭐ 1.6k / 複数のユーザーをサポートするChatGPTウェブクライアントで、永続的なデータストレージのために複数のデータベース接続をサポートし、i18nをサポートしています。Dockerイメージとクイックデプロイメントスクリプトを提供します。
  * 💤 [openai-java](https://github.com/theokanning/openai-java) - ⭐ 4.8k / JavaでのOpenAI GPT-3 APIクライアント
@@ -1010,7 +1007,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [README-AI](https://github.com/eli64s/readme-ai) - ⭐ 2.9k / 🚀 README Markdownファイルを美しく情報豊かに生成するCLIツール。OpenAIのGPT APIによって動作します 💫
  * 💤 [openai-powershell-samples](https://github.com/dfinke/openai-powershell-samples) - ⭐ 15 / 🚀 @OpenAI/@Azure PowerShellサンプルをリリースしました！PowerShellAIモジュールを使用すると、ChatGPTの力を手軽に利用できます。Polyglotインタラクティブノートブックでサンプルを探索してください。AIで可能性を再定義しましょう！👇 #PowerShell #MSBuild
  * 💤 [TermGPT](https://github.com/sentdex/termgpt) - ⭐ 414 / LLMのようなGPT-4に、ターミナルコマンドの計画と実行の能力を与えること。
- * ⚠️ [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - ⭐ 480 / 公式APIを使用してChatGPTとチャットするためのシンプルで効果的なコマンドラインクライアント
+ * ⚠️ [chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - ⭐ 479 / 公式APIを使用してChatGPTとチャットするためのシンプルで効果的なコマンドラインクライアント
  * 💤 [OpenAIR](https://github.com/umatter/openair) - ⭐ 15 / OpenAI Rクライアント
  * 💤 [ChatGPT-Midjourney](https://github.com/licoy/chatgpt-midjourney) - ⭐ 6.5k / 🎨 一クリックで自分のChatGPT+Midjourneyウェブサービスを所有してください。
  * 💤 [termGPT](https://github.com/tcapelle/termgpt) - ⭐ 80 / Pythonで書かれたターミナルでopenAIのchatGPTを呼び出すためのシンプルなラッパー
@@ -1024,127 +1021,128 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [Chat2DB](https://github.com/chat2db/chat2db) - ⭐ 25k / 🔥 🔥 🔥 データベース用の知識豊富で多機能な汎用SQLクライアントおよびレポートツールで、ChatGPTの機能も統合されています。
  * 💤 [gpt-web-terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) - ⭐ 249 / ✨ プログラマーのアプローチでChatGPTを開く！ GPT Terminalは、ターミナルでGPTとコミュニケーションを取ることができるプラットフォームです。
  * 💤 [chatgpt-web](https://github.com/dqzboy/chatgpt-web) - ⭐ 153 / ChatGPT WebのワンクリックデプロイメントChatGPT Webのワンクリックデプロイメント
- * 🔥 [tgpt](https://github.com/aandrew-me/tgpt) - ⭐ 3.1k / APIキーを必要とせずにターミナルでChatGPTを使用する。
- * 🔥 [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ⭐ 889 / ChatGPT CLIは、OpenAIのChatGPTのための高度なコマンドラインインターフェースであり、ストリーミング、クエリモード、および履歴追跡を提供し、シームレスでコンテキストに対応した会話を実現します。ユーザーと開発者の両方に最適であり、高度な設定と簡単なセットアップオプションを提供し、GPTモデルとのカスタマイズされた会話体験を確保します。
- * 🔥 [lobe-commit](https://github.com/lobehub/lobe-commit) - ⭐ 387 / 💌 Lobe Commitは、Langchain/ChatGPTを使用してGitmojiベースのコミットメッセージを生成するCLIツールです。
+ * ✅ [tgpt](https://github.com/aandrew-me/tgpt) - ⭐ 3.1k / APIキーを必要とせずにターミナルでChatGPTを使用する。
+ * ✅ [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ⭐ 888 / ChatGPT CLIは、OpenAIのChatGPTのための高度なコマンドラインインターフェースであり、ストリーミング、クエリモード、および履歴追跡を提供し、シームレスでコンテキストに対応した会話を実現します。ユーザーと開発者の両方に最適であり、高度な設定と簡単なセットアップオプションを提供し、GPTモデルとのカスタマイズされた会話体験を確保します。
+ * ✅ [lobe-commit](https://github.com/lobehub/lobe-commit) - ⭐ 390 / 💌 Lobe Commitは、Langchain/ChatGPTを使用してGitmojiベースのコミットメッセージを生成するCLIツールです。
  * 💤 [SuperSummarizeAI](https://github.com/alexandrevl/supersummarizeai) - ⭐ 13 / スーパーサマライズAIでAIの力を解き放ちましょう！ChatGPTを使用して、ウェブページやYouTubeの動画から簡単にコンテンツを抽出、要約、クリップすることができます。無限のコンテンツを消化しやすい要約に変えましょう。
  * 💤 [minion](https://github.com/mikaelvesavuori/minion) - ⭐ 18 / 開発者がCLIでChatGPTを使用するための最も簡単で軽量な方法。
  * 💤 [chai-ruby](https://github.com/rogueocelot/chai-ruby) - ⭐ 8 / ターミナルエミュレータを使用して、GNOME Filesで開いているディレクトリにcdしてください。
- * 💤 [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - ⭐ 483 / AI Playgrounds by E2Bによって提供されています。ChatGPT用のステロイドコードインタープリター。どんな言語でも、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
- * 🔥 [lobe-chat](https://github.com/lobehub/lobe-chat) - ⭐ 72k / 🤖 Lobe Chat - オープンソースで拡張可能（関数呼び出し可能）、高性能なチャットボットフレームワークです。プライベートなChatGPT/LLMウェブアプリケーションのワンクリック無料デプロイをサポートしています。
- * 💤 [paperify](https://github.com/jstrieb/paperify) - ⭐ 375 / どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）
+ * 💤 [llm-code-interpreter](https://github.com/e2b-dev/llm-code-interpreter) - ⭐ 484 / AI Playgrounds by E2Bによって提供されています。ChatGPT用のステロイドコードインタープリター。どんな言語でも、どんなターミナルプロセスでも実行し、自由にファイルシステムを使用できます。すべてインターネットにアクセスできます。
+ * 🔥 [lobe-chat](https://github.com/lobehub/lobe-chat) - ⭐ 73k / 🤖 Lobe Chat - オープンソースで拡張可能（関数呼び出し可能）、高性能なチャットボットフレームワークです。プライベートなChatGPT/LLMウェブアプリケーションのワンクリック無料デプロイをサポートしています。
+ * 💤 [paperify](https://github.com/jstrieb/paperify) - ⭐ 374 / どんなドキュメント、ウェブページ、またはeBookでも研究論文に変換します（ChatGPTは必要ありません）
  * 💤 [cli](https://github.com/bashsenpai/cli) - ⭐ 46 / BashSenpaiはChatGPTによって動作するターミナルアシスタントです。
  * 💤 [unit-runtime](https://github.com/unit-mesh/unit-runtime) - ⭐ 116 / Unit Runtime は、ChatGPT やその他の AI コードを実行するための効率的で使いやすい環境です。ワンクリックで起動し、リアルタイムで対話することができ、AI コードの構築とテストを迅速にサポートします。
  * 💤 [aih](https://github.com/databingo/aih) - ⭐ 158 / ターミナルでAIモードと話す。Bard|GPT3.5|Claude2|Llama2|Falcon180
  * 💤 [Sense](https://github.com/f0x1d/sense) - ⭐ 87 / Android対応のOpenAIクライアントで、ChatGPTをサポートしています。
  * 💤 [sparrow](https://github.com/soulteary/sparrow) - ⭐ 96 / ChatGPTスタイルのクライアント互換のバックエンドサーバー、オープンソースの実装。
  * 💤 [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator) - ⭐ 319 / ChatGPT APIを使用してMarkdownドキュメントを翻訳するためのCLI
- * 🔥 [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ⭐ 124k / Ollama 🦙のためのChatGPTスタイルの応答性のあるチャットWeb UIクライアント（GUI）
+ * 🔥 [ollama-webui](https://github.com/ollama-webui/ollama-webui) - ⭐ 125k / Ollama 🦙のためのChatGPTスタイルの応答性のあるチャットWeb UIクライアント（GUI）
  * 💤 [BibiGPT-v1](https://github.com/jimmylv/bibigpt-v1) - ⭐ 5.9k / BibiGPT v1 · 音声/ビデオとチャットのためのワンクリックAI要約、学習コンテンツ付き：Bilibili | YouTube | ツイート | TikTok | Dropbox | Google Drive | ローカルファイル | ウェブサイト | ポッドキャスト | ミーティング | 講義など。音声/ビデオコンテンツのAI要約と対話：哔哩哔哩 | YouTube | ツイッター | 小红书 | 抖音 | 快手 | 百度网盘 | 阿里云盘 | ウェブサイト | ポッドキャスト | ミーティング | ローカルファイルなど（元BiliGPT省流神器＆AI代表）。
- * 🔥 [open-interpreter](https://github.com/killianlucas/open-interpreter) - ⭐ 62k / ローカルで実行されるターミナル上のOpenAIのコードインタプリター
+ * ✅ [open-interpreter](https://github.com/killianlucas/open-interpreter) - ⭐ 62k / ローカルで実行されるターミナル上のOpenAIのコードインタプリター
  * 💤 [chatgpt-java](https://github.com/grt1228/chatgpt-java) - ⭐ 3.5k / ChatGPT Java SDKは、ストリーミング出力、Gptプラグイン、ネットワーキングをサポートしています。OpenAI公式のすべてのインターフェースをサポートしています。ChatGPTのJavaクライアントです。OpenAI GPT-3.5-Turbo GPT-4のJava用APIクライアントです。
  * ⚠️ [llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - ⭐ 3.7k / LLMsのPower CLIとワークフローマネージャー（コアパッケージ）
- * 🔥 [openai-kotlin](https://github.com/aallam/openai-kotlin) - ⭐ 1.8k / マルチプラットフォームとコルーチンの機能を備えたKotlin用のOpenAI APIクライアント。
+ * ✅ [openai-kotlin](https://github.com/aallam/openai-kotlin) - ⭐ 1.8k / マルチプラットフォームとコルーチンの機能を備えたKotlin用のOpenAI APIクライアント。
  * 💤 [sqlchat](https://github.com/sqlchat/sqlchat) - ⭐ 5.7k / 次の10年のためのチャットベースのSQLクライアントとエディタ
  * 💤 [ShellGPT](https://github.com/akl7777777/shellgpt) - ⭐ 2.1k / シェルGPTは無料のチャットGPTクライアントで、オンライン検索がサポートされています。キーは必要ありませんし、ログインも必要ありません。マルチノードの自動速度測定スイッチ、制限なしの長文翻訳、AIグラフィックスも利用できます。
  * 🔥 [gptel](https://github.com/karthink/gptel) - ⭐ 3.2k / シンプルなEmacs用のLLMクライアント
- * ⚠️ [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - ⭐ 764 / 非公式のOpenAI RESTful APIクライアント（DotNet用）
+ * ⚠️ [OpenAI-DotNet](https://github.com/rageagainstthepixel/openai-dotnet) - ⭐ 765 / 非公式のOpenAI RESTful APIクライアント（DotNet用）
  * ⚠️ [every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - ⭐ 3.9k / すべてのChatGPTのフロントエンドGUIクライアント
- * 💤 [yai](https://github.com/ekkinox/yai) - ⭐ 856 / あなたのAIパワードターミナルアシスタント。
+ * 💤 [yai](https://github.com/ekkinox/yai) - ⭐ 858 / あなたのAIパワードターミナルアシスタント。
  * 💤 [gpt-cli](https://github.com/kharvd/gpt-cli) - ⭐ 724 / ChatGPTのためのコマンドラインインターフェース、ClaudeとBard
  * 💤 [Gemini](https://github.com/kyegomez/gemini) - ⭐ 460 / Googleによって「ChatGPTを凌駕する」モデルとして開発されたGeminiのオープンソース実装
  * ⚠️ [MoneyPrinterTurbo](https://github.com/harry0703/moneyprinterturbo) - ⭐ 50k / AI LLMを使用して、ワンクリックで高品質なショートビデオを生成します。
  * 💤 [zap-gpt](https://github.com/marcusgoncalvess/zap-gpt) - ⭐ 594 / このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、会話に人間味を持たせる仮想アシスタントに変えることができる能力を持つようにします。
  * 💤 [zap-gpt-free](https://github.com/marcusgoncalvess/zap-gpt-free) - ⭐ 594 / このプロジェクトは、ChatGPTとWhatsAppの統合を探求し、チャットボットを友達と会話したり、顧客の質問に答えたりするなど、さまざまなタスクを実行できる仮想アシスタントに変えることを目指しています。会話に人間味を持たせる要素も取り入れています。
- * 💤 [chatAir](https://github.com/flyun/chatair) - ⭐ 787 / ☁️OpenAIとGeminiのためのネイティブAndroidクライアント☁️
+ * 💤 [chatAir](https://github.com/flyun/chatair) - ⭐ 789 / ☁️OpenAIとGeminiのためのネイティブAndroidクライアント☁️
  * 💤 [matrix-chatgpt-bot](https://github.com/matrixgpt/matrix-chatgpt-bot) - ⭐ 240 / どのMatrixクライアントを使用してもChatGPTと話すことができます！
- * 🔥 [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - ⭐ 387 / 🪀 ローブCLIツールボックス - AI CLIツールボックス、gitコミットとi18nワークフローの効率を向上
- * 🔥 [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - ⭐ 242 / OpenAI APIのためのScalaクライアント
+ * ✅ [lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - ⭐ 390 / 🪀 ローブCLIツールボックス - AI CLIツールボックス、gitコミットとi18nワークフローの効率を向上
+ * ✅ [openai-scala-client](https://github.com/cequence-io/openai-scala-client) - ⭐ 241 / OpenAI APIのためのScalaクライアント
  * 💤 [ChatGPTCLIBot](https://github.com/lagpixellol/chatgptclibot) - ⭐ 339 / 埋め込みを使用した長期メモリサポート付きのCLIでのChatGPTボット。
- * 💤 [openai4j](https://github.com/lambdua/openai4j) - ⭐ 404 / OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。
- * ⚠️ [json-translator](https://github.com/mololab/json-translator) - ⭐ 600 / Argosに対応
+ * 💤 [openai4j](https://github.com/lambdua/openai4j) - ⭐ 403 / OpenAI APIのJavaクライアントライブラリ。Completions、Chat、Edits、Embeddings、Audio、Files、Assistants-v2、Images、Moderations、Batch、Fine-tuningを含むすべてのOpenAI APIモデルを完全サポート。
+ * ⚠️ [json-translator](https://github.com/mololab/json-translator) - ⭐ 599 / Argosに対応
  * 🔥 [gptme](https://github.com/erikbjare/gptme) - ⭐ 4.2k / ローカルツールを備えたLLMsとチャットする：PythonとBashを実行し、ローカルファイルを編集し、ウェブを閲覧します。
- * ⚠️ [Apt](https://github.com/rnchg/apt) - ⭐ 774 / AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。
+ * ⚠️ [Apt](https://github.com/rnchg/apt) - ⭐ 775 / AI生産性ツール - 無料でオープンソース、ユーザーの生産性を向上させながらプライバシーとデータセキュリティを確保します。組み込みの独占的なChatGPTを含む効率的で便利なAIソリューションを提供します。
  * 🔥 [chatgpt-subtitle-translator](https://github.com/cerlancism/chatgpt-subtitle-translator) - ⭐ 370 / ChatGPT APIをベースにした効率的な翻訳ツール
  * ⚠️ [tenere](https://github.com/pythops/tenere) - ⭐ 645 / Rustで書かれたLLMsのためのTUIインターフェースRustで書かれたLLMsのためのTUIインターフェース
  * ⚠️ [Chat2DB](https://github.com/codephiliax/chat2db) - ⭐ 25k / 🔥🔥🔥AI駆動型データベースツールおよびSQLクライアント、最も人気のあるGUIクライアント、MySQL、Oracle、PostgreSQL、DB2、SQL Server、DB2、SQLite、H2、ClickHouseなどをサポート。
  * 🔥 [OpenHands](https://github.com/all-hands-ai/openhands) - ⭐ 68k / 🙌 OpenHands: コードを少なくして、もっと多くを作成します
  * 💤 [ai-digest](https://github.com/khromov/ai-digest) - ⭐ 668 / Claude ProjectsやカスタムChatGPTと一緒に使用するためのコードベースを1つのMarkdownファイルに集約するためのCLIツール。
- * 💤 [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - ⭐ 226 / 🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉
- * 🔥 [Nexior](https://github.com/acedatacloud/nexior) - ⭐ 343 / 自分自身のAIアプリケーションWeb UIを展開するためには、1クリックで、GPT、Midjourney、ChatDoc、QrArtを含めて、簡単に利益を得ることができます。
+ * 💤 [web-mirai-panel](https://github.com/zmh-program/web-mirai-panel) - ⭐ 225 / 🍉 ChatGPT Mirai QQボットロボットのWeb UI、マルチインスタンス管理、構成編集、ファイル提出、ヘルスチェック、ターミナル実行、パスワードアクセスのサポート。🍉
+ * ✅ [Nexior](https://github.com/acedatacloud/nexior) - ⭐ 344 / 自分自身のAIアプリケーションWeb UIを展開するためには、1クリックで、GPT、Midjourney、ChatDoc、QrArtを含めて、簡単に利益を得ることができます。
  * 🔥 [aider](https://github.com/aider-ai/aider) - ⭐ 41k / aiderはあなたのターミナルでのAIペアプログラミングですaiderはあなたのターミナルでのAIペアプログラミングです
- * ⚠️ [laravel](https://github.com/openai-php/laravel) - ⭐ 3.7k / ⚡️ OpenAI PHP for Laravelは、OpenAI APIとやり取りすることができる強化されたPHP APIクライアントです。
+ * 🔥 [laravel](https://github.com/openai-php/laravel) - ⭐ 3.7k / ⚡️ OpenAI PHP for Laravelは、OpenAI APIとやり取りすることができる強化されたPHP APIクライアントです。
  * ⚠️ [WrenAI](https://github.com/canner/wrenai) - ⭐ 14k / 🚀 テキストからSQLへのオープンソースSQL AIエージェント。 PostgreSQL、DuckDB、MySQL、MS SQL、ClickHouse、Trino、JSON、CSV、Parquetデータソースなどをサポートしています！ 🚀
  * 💤 [Queryable](https://github.com/mazzzystar/queryable) - ⭐ 2.9k / iOSでOpenAIのCLIPとAppleのMobileCLIPモデルを実行して写真を検索します。
  * 💤 [ChatGPTs](https://github.com/licoy/chatgpts) - ⭐ 6.5k / 🍭 あなた自身のChatGPT+多数のAIウェブサービスにワンクリックでアクセスできます
  * 💤 [ChatAny](https://github.com/licoy/chatany) - ⭐ 6.5k / 🌻 あなた自身のChatGPT+多くのAIウェブサービスにワンクリックでアクセスできます
  * 💤 [ChatAny](https://github.com/chatanyteam/chatany) - ⭐ 6.5k / 🌻 ChatGPTと多くのAIウェブサービスに簡単アクセス | One click access to your own ChatGPT+Many AI web services
  * ⚠️ [cz-git](https://github.com/zhengqbbb/cz-git) - ⭐ 1.5k / cz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLIcz-git | czg 🛠️ DXを最優先にし、よりエンジニアリングされた、軽量でカスタマイズ可能な、標準出力形式のCommitizenアダプターおよびCLI
- * ⚠️ [cherry-studio](https://github.com/kangfenmao/cherry-studio) - ⭐ 13 / 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
+ * ⚠️ [cherry-studio](https://github.com/kangfenmao/cherry-studio) - ⭐ 14 / 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
  * ⚠️ [plandex](https://github.com/plandex-ai/plandex) - ⭐ 15k / ターミナルでのAI駆動開発。大規模で実世界のタスクに対応するよう設計されています。
  * ⚠️ [PDFMathTranslate](https://github.com/byaidu/pdfmathtranslate) - ⭐ 32k / PDF科学论文翻译，保留格式 - AIを使用してPDF科学論文を翻訳し、排版を保持した全文のバイリンガル翻訳を提供します。Google/DeepL/Ollama/OpenAIなどのサービスをサポートし、CLI/GUI/Dockerを提供します。
  * 💤 [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - ⭐ 55k / AIソフトウェアエンジニアと実験するためのプラットフォーム。ターミナルベースです。注意：https://gptengineer.appとは非常に異なります。
- * 🔥 [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - ⭐ 1.2k / CTranslate2に基づいたオリジナルのOpenAIクライアントと互換性のあるWhisperコマンドラインクライアント。Whisperコマンドラインクライアントは、オリジナルのOpenAIクライアントと互換性があります。
- * ⚠️ [shell-ai](https://github.com/ricklamers/shell-ai) - ⭐ 1.1k / LangChain パワード シェルコマンドジェネレーターおよびランナーCLI
+ * ✅ [whisper-ctranslate2](https://github.com/softcatala/whisper-ctranslate2) - ⭐ 1.2k / CTranslate2に基づいたオリジナルのOpenAIクライアントと互換性のあるWhisperコマンドラインクライアント。Whisperコマンドラインクライアントは、オリジナルのOpenAIクライアントと互換性があります。
+ * ⚠️ [shell-ai](https://github.com/ricklamers/shell-ai) - ⭐ 1.2k / LangChain パワード シェルコマンドジェネレーターおよびランナーCLI
  * ⚠️ [uform](https://github.com/unum-cloud/uform) - ⭐ 1.2k / ポケットサイズのマルチモーダルAIは、多言語テキスト、画像、そして🔜ビデオにわたるコンテンツの理解と生成を行います。OpenAI CLIPやLLaVAよりも最大5倍高速です🖼️ & 🖋️
  * ⚠️ [subsai](https://github.com/absadiki/subsai) - ⭐ 1.6k / 🎞️ OpenAIのWhisperおよびそのバリアントを活用した字幕生成ツール（Web-UI + CLI + Pythonパッケージ） 🎞️
  * 🔥 [cherry-studio](https://github.com/cherryhq/cherry-studio) - ⭐ 40k / 🍒 Cherry Studioは複数のLLMプロバイダーをサポートするデスクトップクライアントです。
- * 🔥 [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - ⭐ 988 / 複数のLLMからの回答を一度にサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポート。Material3＆Composeで設計されています。
+ * ✅ [gpt_mobile](https://github.com/taewan-p/gpt_mobile) - ⭐ 996 / 複数のLLMからの回答を一度にサポートするAndroid用のチャットアプリ。独自のAPIキーAIクライアントを持参してください。OpenAI、Anthropic、Google、Ollamaをサポート。Material3＆Composeで設計されています。
  * ⚠️ [com.openai.unity](https://github.com/rageagainstthepixel/com.openai.unity) - ⭐ 590 / Unity向けの非公式OpenAI Restクライアント（UPM）
  * 💤 [ai-renamer](https://github.com/ozgrozer/ai-renamer) - ⭐ 2.1k / OllamaとLM Studioモデル（Llava、Gemma、Llamaなど）を使用して、ファイルの内容に基づいてファイル名を知的に変更するNode.js CLI
- * 🔥 [lumen](https://github.com/jnsahaj/lumen) - ⭐ 1.9k / インスタントAI Gitコミットメッセージ、CLIからのGit変更の要約（APIキーは不要）
+ * ✅ [lumen](https://github.com/jnsahaj/lumen) - ⭐ 1.9k / インスタントAI Gitコミットメッセージ、CLIからのGit変更の要約（APIキーは不要）
  * 💤 [cookiecutter-fastapi](https://github.com/arthurhenrique/cookiecutter-fastapi) - ⭐ 704 / Cookiecutterテンプレートを使用したFastAPIプロジェクトの機械学習、uv、Github Actions、およびPytests
  * 💤 [story-flicks](https://github.com/alecm20/story-flicks) - ⭐ 2.1k / AI大規模モデルを使用して、ワンクリックで高解像度のストーリーショートビデオを生成します。
  * 🔥 [gptme](https://github.com/gptme/gptme) - ⭐ 4.2k / あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。あなたのターミナル内のエージェント、ローカルツールを装備しています：コードを書く、ターミナルを使用する、ウェブを閲覧する、ビジョン。
- * 🔥 [chatbox](https://github.com/chatboxai/chatbox) - ⭐ 39k / AIモデル/LLM（GPT、Claude、Gemini、Ollamaなど）向けの使いやすいデスクトップクライアントアプリ
+ * ✅ [chatbox](https://github.com/chatboxai/chatbox) - ⭐ 39k / AIモデル/LLM（GPT、Claude、Gemini、Ollamaなど）向けの使いやすいデスクトップクライアントアプリ
  * 💤 [contoso-real-estate](https://github.com/azure-samples/contoso-real-estate) - ⭐ 968 / JavaScript向けのインテリジェントなエンタープライズグレードのリファレンスアーキテクチャで、OpenAI統合、Azure Developer CLIテンプレート、Playwrightテストを特色としています。
- * 🔥 [tmuxai](https://github.com/alvinunreal/tmuxai) - ⭐ 1.5k / AI搭載、非侵襲的な端末アシスタント
+ * ✅ [tmuxai](https://github.com/alvinunreal/tmuxai) - ⭐ 1.6k / AI搭載、非侵襲的な端末アシスタント
  * 🔥 [forge](https://github.com/antinomyhq/forge) - ⭐ 4.6k / クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
  * 🔥 [kilocode](https://github.com/kilo-org/kilocode) - ⭐ 16k / 計画、構築、およびコードの修正のためのオープンソースAIコーディングアシスタント。私たちはRoo、Cline、および独自の機能のスーパーセットです。フォローしてください：kilocode.ai/social
- * 🔥 [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - ⭐ 1.4k / 小智、xiaozhi-serverをベースとしたAndroid、IOSの音声対話アプリケーションで、リアルタイムの音声対話とテキスト対話をサポートしています。現在はflutterバージョンで、IOSとAndroidを統合しています。皆さん、ぜひ手を動かして、星をクリックして、励ましをください。
- * 🔥 [wcgw](https://github.com/rusiaaman/wcgw) - ⭐ 643 / クロードデスクトップアプリのシェルとコーディングエージェント
- * 🔥 [arcade-ai](https://github.com/arcadeai/arcade-ai) - ⭐ 810 / アーケードPython SDK、CLI、およびツールキット
- * 🔥 [rust-genai](https://github.com/jeremychone/rust-genai) - ⭐ 657 / Rust multiprovider generative AIクライアント（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere、...）
- * ⚠️ [clickclickclick](https://github.com/bandarlabs/clickclickclick) - ⭐ 660 / 任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク
+ * ✅ [xiaozhi-android-client](https://github.com/tom88812/xiaozhi-android-client) - ⭐ 1.4k / 小智、xiaozhi-serverをベースとしたAndroid、IOSの音声対話アプリケーションで、リアルタイムの音声対話とテキスト対話をサポートしています。現在はflutterバージョンで、IOSとAndroidを統合しています。皆さん、ぜひ手を動かして、星をクリックして、励ましをください。
+ * ✅ [wcgw](https://github.com/rusiaaman/wcgw) - ⭐ 642 / クロードデスクトップアプリのシェルとコーディングエージェント
+ * 🔥 [arcade-ai](https://github.com/arcadeai/arcade-ai) - ⭐ 811 / アーケードPython SDK、CLI、およびツールキット
+ * 🔥 [rust-genai](https://github.com/jeremychone/rust-genai) - ⭐ 661 / Rust multiprovider generative AIクライアント（Ollama、OpenAi、Anthropic、Gemini、DeepSeek、xAI/Grok、Groq、Cohere、...）
+ * ⚠️ [clickclickclick](https://github.com/bandarlabs/clickclickclick) - ⭐ 661 / 任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク任意のLLM（ローカルまたはリモート）を使用して自律型のAndroidおよびコンピュータの使用を可能にするフレームワーク
  * ⚠️ [scira-mcp-chat](https://github.com/zaidmukaddam/scira-mcp-chat) - ⭐ 830 / 機能が優れたミニマリストのMCPクライアント。
  * ⚠️ [code-context](https://github.com/zilliztech/code-context) - ⭐ 5.4k / コード検索用のMCP、クロードコードのビルド、Gemini CLI、または任意のコードエージェントに対応します。
- * 🔥 [unity-mcp](https://github.com/coplaydev/unity-mcp) - ⭐ 6k / Unity MCPサーバーは、Claude DesktopやCursorなどのMCPクライアントがUnityエディタのアクションを実行できるようにします。
- * ⚠️ [tome](https://github.com/runebookai/tome) - ⭐ 587 / 誰でもLLMとMCPを簡単に使用できる魔法のLLMデスクトップクライアント
+ * 🔥 [unity-mcp](https://github.com/coplaydev/unity-mcp) - ⭐ 6.1k / Unity MCPサーバーは、Claude DesktopやCursorなどのMCPクライアントがUnityエディタのアクションを実行できるようにします。
+ * ⚠️ [tome](https://github.com/runebookai/tome) - ⭐ 589 / 誰でもLLMとMCPを簡単に使用できる魔法のLLMデスクトップクライアント
  * ⚠️ [openai-api-rs](https://github.com/dongri/openai-api-rs) - ⭐ 477 / Rust用のOpenAI APIクライアントライブラリ（非公式）Rust用のOpenAI APIクライアントライブラリ（非公式）
- * ⚠️ [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - ⭐ 662 / MLX Omni Serverは、AppleのMLXフレームワークを搭載したローカル推論サーバーであり、特にApple Silicon（Mシリーズ）チップ向けに設計されています。OpenAI互換のAPIエンドポイントを実装し、既存のOpenAI SDKクライアントとのシームレスな統合を可能にします。
- * ⚠️ [better-chatbot](https://github.com/cgoinglove/better-chatbot) - ⭐ 1k / より優れたチャットボット。MCPクライアントとワークフローによって動作します。
+ * ⚠️ [mlx-omni-server](https://github.com/madroidmaq/mlx-omni-server) - ⭐ 664 / MLX Omni Serverは、AppleのMLXフレームワークを搭載したローカル推論サーバーであり、特にApple Silicon（Mシリーズ）チップ向けに設計されています。OpenAI互換のAPIエンドポイントを実装し、既存のOpenAI SDKクライアントとのシームレスな統合を可能にします。
+ * 🔥 [better-chatbot](https://github.com/cgoinglove/better-chatbot) - ⭐ 1k / より優れたチャットボット。MCPクライアントとワークフローによって動作します。
  * 💤 [codai](https://github.com/meysamhadeli/codai) - ⭐ 379 / ターミナル用のAIコーディングエージェント。
- * ⚠️ [argo](https://github.com/xark-argo/argo) - ⭐ 474 / ARGOは、ローカルマニュスをデスクトップにもたらすオープンソースのAIエージェントプラットフォームです。ワンクリックでモデルをダウンロードし、シームレスなクローズドLLM統合、オフラインファーストのRAG知識ベースを備えることで、ARGOは自律思考、タスク力を持つDeepResearchの強力なプラットフォームとなります。
- * 🔥 [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - ⭐ 842 / Cloudflare Workersを使用して、Gemini CLIエンドポイントをOpenAI APIとして公開します。
- * 🔥 [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - ⭐ 4.1k / AIClient2API：Gemini CLIとKiroクライアントのリクエストをシミュレートし、OpenAI APIと互換性があります。毎日1000回Geminiモデルのリクエストが可能で、Kiroに組み込まれたClaudeモデルを無料で使用できます。APIを使用して、どんなクライアントでも簡単に接続し、AI開発をより効率的に行えます！
+ * ⚠️ [argo](https://github.com/xark-argo/argo) - ⭐ 477 / ARGOは、ローカルマニュスをデスクトップにもたらすオープンソースのAIエージェントプラットフォームです。ワンクリックでモデルをダウンロードし、シームレスなクローズドLLM統合、オフラインファーストのRAG知識ベースを備えることで、ARGOは自律思考、タスク力を持つDeepResearchの強力なプラットフォームとなります。
+ * ✅ [gemini-cli-openai](https://github.com/gewoonjaap/gemini-cli-openai) - ⭐ 841 / Cloudflare Workersを使用して、Gemini CLIエンドポイントをOpenAI APIとして公開します。
+ * 🔥 [AIClient-2-API](https://github.com/justlovemaki/aiclient-2-api) - ⭐ 4.2k / AIClient2API：Gemini CLIとKiroクライアントのリクエストをシミュレートし、OpenAI APIと互換性があります。毎日1000回Geminiモデルのリクエストが可能で、Kiroに組み込まれたClaudeモデルを無料で使用できます。APIを使用して、どんなクライアントでも簡単に接続し、AI開発をより効率的に行えます！
  * ⚠️ [claude-context](https://github.com/zilliztech/claude-context) - ⭐ 5.4k / コード検索用のMCP、クロードコード、ジェミニCLI、または任意のコードエージェントのビルド。
  * 🔥 [gonzo](https://github.com/control-theory/gonzo) - ⭐ 2.4k / ゴンゾ！GoベースのTUIログ解析ツール
- * 🔥 [gcli2api](https://github.com/su-kaka/gcli2api) - ⭐ 3.8k / GeminiCLIをOpenAIとGEMINI APIインターフェースに変換します。
- * 🔥 [nanocoder](https://github.com/mote-software/nanocoder) - ⭐ 1.3k / ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
- * 🔥 [snapai](https://github.com/betomoedano/snapai) - ⭐ 1.6k / React NativeおよびExpo開発者向けのAIパワードアイコン生成CLI。OpenAIの最新モデルを使用して、数秒で見事なアプリアイコンを生成します。
+ * 🔥 [gcli2api](https://github.com/su-kaka/gcli2api) - ⭐ 3.9k / GeminiCLIをOpenAIとGEMINI APIインターフェースに変換します。
+ * 🔥 [nanocoder](https://github.com/mote-software/nanocoder) - ⭐ 1.4k / ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
+ * ✅ [snapai](https://github.com/betomoedano/snapai) - ⭐ 1.6k / React NativeおよびExpo開発者向けのAIパワードアイコン生成CLI。OpenAIの最新モデルを使用して、数秒で見事なアプリアイコンを生成します。
  * 🔥 [sgpt](https://github.com/tbckr/sgpt) - ⭐ 415 / SGPTは、OpenAIモデルとやり取りする便利な方法を提供するコマンドラインツールであり、ユーザーがクエリを実行し、シェルコマンドを生成し、ターミナルから直接コードを生成することができます。
- * 🔥 [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⭐ 416 / ⚡ マイクロソフトファブリックCLI
- * 🔥 [AIProxySwift](https://github.com/lzell/aiproxyswift) - ⭐ 408 / AIプロバイダー向けのSwiftクライアント。プロバイダーに直接リクエストを送信するか、当社のAPIキー保護バックエンドを介してプロキシされることができます。
+ * 🔥 [Conversation-Knowledge-Mining-Solution-Accelerator](https://github.com/microsoft/conversation-knowledge-mining-solution-accelerator) - ⭐ 418 / ⚡ マイクロソフトファブリックCLI
+ * ✅ [AIProxySwift](https://github.com/lzell/aiproxyswift) - ⭐ 410 / AIプロバイダー向けのSwiftクライアント。プロバイダーに直接リクエストを送信するか、当社のAPIキー保護バックエンドを介してプロキシされることができます。
  * 🔥 [CLIProxyAPI](https://github.com/router-for-me/cliproxyapi) - ⭐ 11k / ジェミニCLI、ChatGPT Codex、Claude Code、Qwen CodeをOpenAI/Gemini/Claude/Codex互換のAPIサービスとしてラップし、無料のGemini 2.5 Pro、GPT 5、Claude、QwenモデルをAPIを通じて利用できるようにします。
- * 🔥 [nanocoder](https://github.com/nano-collective/nanocoder) - ⭐ 1.3k / ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
- * 🔥 [redis-vl-python](https://github.com/redis/redis-vl-python) - ⭐ 372 / Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。
- * 🔥 [aicommit2](https://github.com/tak-bro/aicommit2) - ⭐ 482 / Ollama、ChatGPT、Gemini、Claude、MistralなどのAIを使用してGitと呪術のためのコミットメッセージを生成するリアクティブCLI
- * 🔥 [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - ⭐ 810 / アーケードツール開発キット（TDK）、ワーカー、評価、およびCLI
- * 🔥 [symfony](https://github.com/openai-php/symfony) - ⭐ 214 / ⚡️ OpenAI PHP for Symfonyは、OpenAI APIとやり取りすることができる強力なPHP APIクライアントです。
- * 🔥 [higlabo](https://github.com/higty/higlabo) - ⭐ 203 / HigLaboライブラリは、1.AIクライアントライブラリ（OpenAI、Anthoripic、Groq）2.オブジェクトマッパー（世界最速）3.DbSharp（DALジェネレーター）4.その他（メール、FTP、ユーティリティなど）を提供します。
- * 🔥 [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - ⭐ 2.1k / DeepSeek-OCRのRust実装とOpenAI互換サーバー。＆CLI Python環境は必要ありません-ダウンロードして実行するだけです。
+ * 🔥 [nanocoder](https://github.com/nano-collective/nanocoder) - ⭐ 1.4k / ターミナルで実行される美しいローカルファーストのコーディングエージェント - コミュニティによって作られたコミュニティのためのもの ⚒
+ * 🔥 [redis-vl-python](https://github.com/redis/redis-vl-python) - ⭐ 373 / Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。Redis Vector Library（RedisVL）- Redis用のAIネイティブPythonクライアント。
+ * ✅ [aicommit2](https://github.com/tak-bro/aicommit2) - ⭐ 483 / Ollama、ChatGPT、Gemini、Claude、MistralなどのAIを使用してGitと呪術のためのコミットメッセージを生成するリアクティブCLI
+ * 🔥 [arcade-mcp](https://github.com/arcadeai/arcade-mcp) - ⭐ 811 / アーケードツール開発キット（TDK）、ワーカー、評価、およびCLI
+ * ✅ [symfony](https://github.com/openai-php/symfony) - ⭐ 214 / ⚡️ OpenAI PHP for Symfonyは、OpenAI APIとやり取りすることができる強力なPHP APIクライアントです。
+ * ✅ [higlabo](https://github.com/higty/higlabo) - ⭐ 203 / HigLaboライブラリは、1.AIクライアントライブラリ（OpenAI、Anthoripic、Groq）2.オブジェクトマッパー（世界最速）3.DbSharp（DALジェネレーター）4.その他（メール、FTP、ユーティリティなど）を提供します。
+ * ✅ [deepseek-ocr.rs](https://github.com/timmyovo/deepseek-ocr.rs) - ⭐ 2.1k / DeepSeek-OCRのRust実装とOpenAI互換サーバー。＆CLI Python環境は必要ありません-ダウンロードして実行するだけです。
  * 🔥 [emdash](https://github.com/generalaction/emdash) - ⭐ 1.5k / Emdashは、独立したGitワークツリーで複数のコーディングエージェントを並行して実行するためのオーケストレーションレイヤーです。
- * 🔥 [agent-shell](https://github.com/xenodium/agent-shell) - ⭐ 699 / ACP によって強化された LLM エージェントと対話するためのネイティブ Emacs バッファ
+ * 🔥 [agent-shell](https://github.com/xenodium/agent-shell) - ⭐ 716 / ACP によって強化された LLM エージェントと対話するためのネイティブ Emacs バッファ
  * ⚠️ [ShellOracle](https://github.com/djcopley/shelloracle) - ⭐ 317 / 賢いシェルコマンド生成のための端末ユーティリティ
  * ⚠️ [daan](https://github.com/pluveto/daan) - ⭐ 339 / ✨MCPとキャラクター👤を備えた軽量LLMクライアント
  * ⚠️ [pal-mcp-server](https://github.com/beehiveinnovations/pal-mcp-server) - ⭐ 11k / クロードコード/ジェミニCLI/コーデックスCLI + [ジェミニ/OpenAI/OpenRouter/Azure/Grok/Ollama/カスタムモデル/上記すべて] が一体となって機能する力。
  * ⚠️ [PasteMD](https://github.com/richqaq/pastemd) - ⭐ 4.1k / MarkdownとAI応答（ChatGPT/DeepSeekなど）をワンクリックでWord、WPS、Excelに完璧に貼り付ける効率ツール
- * 🔥 [solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 300 / Java AI（人工知能）全シーンアプリケーション開発フレームワーク（LLM、Function Call、RAG、Embedding、Reranking、Flow、MCP Server、Mcp Client、Mcp Proxy）。同時に、java8 〜 java25 にも対応しています。SpringBoot2、jFinal、Vert.x などのフレームワークに組み込むことも可能です。MCP_2025_06_18（mcp streamable）をサポートしています。
- * ⚠️ [PSAI](https://github.com/dfinke/psai) - ⭐ 243 / PowerShell AIモジュール。ChatGPTがPowerShellと出会うと考えてください - 自律エージェントを含む
- * ⚠️ [zeroshot](https://github.com/covibes/zeroshot) - ⭐ 1.2k / CLIで自律エンジニアリングチームを操作します。GitHubの問題にZeroshotを指し、離れてプロダクショングレードのコードに戻ります。Claude Code、OpenAI Codex、Gemini CLIをサポートしています。
- * 🔥 [yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - ⭐ 247 / 多目的なREPL/CLIマネージャー。並列セッション、バッファ添付ファイル、クロス言語サポートを備えた複数の送信モード。AiderとOpenAI CodexのためのAI CLI統合。ピッカーサポート、プロジェクトレベルの設定、コードセルテキストオブジェクト、ネイティブのドットリピート。
- * [yutu](https://github.com/eat-pray-ai/yutu) - YouTubeのための完全に機能するMCPサーバーとCLI
- * [pocketpaw](https://github.com/pocketpaw/pocketpaw) - 30秒であなたのAIエージェント。30時間ではありません。デスクトップインストーラー、マルチエージェントコマンドセンター（ディープワーク）、7層のセキュリティを備えたセルフホスト型のオープンソースの個人用AI。Anthropic、OpenAI、またはOllama。
+ * 🔥 [solon-ai](https://github.com/opensolon/solon-ai) - ⭐ 302 / Java AI（人工知能）全シーンアプリケーション開発フレームワーク（LLM、Function Call、RAG、Embedding、Reranking、Flow、MCP Server、Mcp Client、Mcp Proxy）。同時に、java8 〜 java25 にも対応しています。SpringBoot2、jFinal、Vert.x などのフレームワークに組み込むことも可能です。MCP_2025_06_18（mcp streamable）をサポートしています。
+ * ⚠️ [PSAI](https://github.com/dfinke/psai) - ⭐ 245 / PowerShell AIモジュール。ChatGPTがPowerShellと出会うと考えてください - 自律エージェントを含む
+ * 🔥 [zeroshot](https://github.com/covibes/zeroshot) - ⭐ 1.2k / CLIで自律エンジニアリングチームを操作します。GitHubの問題にZeroshotを指し、離れてプロダクショングレードのコードに戻ります。Claude Code、OpenAI Codex、Gemini CLIをサポートしています。
+ * ✅ [yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) - ⭐ 247 / 多目的なREPL/CLIマネージャー。並列セッション、バッファ添付ファイル、クロス言語サポートを備えた複数の送信モード。AiderとOpenAI CodexのためのAI CLI統合。ピッカーサポート、プロジェクトレベルの設定、コードセルテキストオブジェクト、ネイティブのドットリピート。
+ * 🔥 [yutu](https://github.com/eat-pray-ai/yutu) - ⭐ 382 / YouTubeのための完全に機能するMCPサーバーとCLI
+ * 🔥 [pocketpaw](https://github.com/pocketpaw/pocketpaw) - ⭐ 447 / 30秒であなたのAIエージェント。30時間ではありません。デスクトップインストーラー、マルチエージェントコマンドセンター（ディープワーク）、7層のセキュリティを備えたセルフホスト型のオープンソースの個人用AI。Anthropic、OpenAI、またはOllama。
+ * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex：OpenAI Codex CLIのパワーツール
 
 
 ## Reimplementations
@@ -1154,8 +1152,8 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [mm-cot](https://github.com/amazon-science/mm-cot) - ⭐ 4k / 「言語モデルにおける多様な思考連鎖推論」の公式実装があります（今後も更新されますのでお楽しみに）。
  * 💤 [picoGPT](https://github.com/jaymody/picogpt) - ⭐ 3.4k / NumPyで実装されたGPT-2の不必要に小さい実装。
  * 💤 [gpt-neox](https://github.com/eleutherai/gpt-neox) - ⭐ 7.4k / DeepSpeedライブラリに基づくGPU上のモデル並列自己回帰トランスフォーマーの実装。
- * 💤 [GPTZero](https://github.com/burhanultayyab/gptzero) - ⭐ 575 / GPTZeroのオープンソース実装
- * 💤 [SpikeGPT](https://github.com/ridgerchu/spikegpt) - ⭐ 880 / 「SpikeGPT：スパイキングニューラルネットワークを用いた生成事前学習言語モデルの実装」の実現
+ * 💤 [GPTZero](https://github.com/burhanultayyab/gptzero) - ⭐ 577 / GPTZeroのオープンソース実装
+ * 💤 [SpikeGPT](https://github.com/ridgerchu/spikegpt) - ⭐ 881 / 「SpikeGPT：スパイキングニューラルネットワークを用いた生成事前学習言語モデルの実装」の実現
  * 💤 [ml-ane-transformers](https://github.com/apple/ml-ane-transformers) - ⭐ 2.7k / Apple Neural Engine（ANE）に最適化されたTransformerアーキテクチャのリファレンス実装
  * ⚠️ [memorizing-transformers-pytorch](https://github.com/lucidrains/memorizing-transformers-pytorch) - ⭐ repo not found / Pytorchでの近似最近傍法を使用したメモリのインデックスと検索を増強したアテンションネットワークを実装した「Memorizing Transformers」（ICLR 2022）の実装。
  * 💤 [lit-llama](https://github.com/lightning-ai/lit-llama) - ⭐ 6.1k / nanoGPTに基づくLLaMA言語モデルの実装。フラッシュアテンション、Int8およびGPTQ 4ビット量子化、LoRAおよびLLaMA-Adapterの微調整、事前学習をサポートしています。Apache 2.0ライセンスです。
@@ -1171,15 +1169,15 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [AStarNet](https://github.com/deepgraphlearning/astarnet) - ⭐ 154 / 公式のA*ネットワークの実装
  * 💤 [codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - ⭐ 3.9k / ChatGPTコードインタープリターのオープンソース実装 👾
  * 💤 [Local-Code-Interpreter](https://github.com/mrgreyfun/local-code-interpreter) - ⭐ 314 / OpenAIのChatGPTコードインタプリタのローカル実装。
- * 💤 [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ⭐ 262 / ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。
+ * 💤 [ChatPiXiu](https://github.com/openllmai/chatpixiu) - ⭐ 263 / ChatPiXiu：OpenLLMAIのドキュメント。オープンソースのChatGPTの代替/実装の調査、再現、ドメイン/タスクの適応についてのドキュメントです。PiXiu-貔貅は幸運を意味します。
  * 💤 [vall-e](https://github.com/lifeiteng/vall-e) - ⭐ 2.2k / VALL-E（ゼロショットテキストから音声へ）のPyTorch実装、再現されたデモ https://lifeiteng.github.io/valle/index.html
  * 💤 [textgen](https://github.com/shibing624/textgen) - ⭐ 981 / テキスト生成モデルの実装で、LLaMA、BLOOM、GPT2、BART、T5、SongNetなどを含みます。これらのモデルのトレーニングと予測を実現し、すぐに使用できます。
  * 💤 [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - ⭐ 470 / GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。GoogleのLaMDAのPyTorchでのオープンソースの事前トレーニング実装。ChatGPTに類似したRLHFの追加。
  * 🔥 [langchain](https://github.com/brainlid/langchain) - ⭐ 1.1k / LangChainスタイルのフレームワークのElixir実装。
  * 💤 [kan-gpt](https://github.com/adityang/kan-gpt) - ⭐ 725 / 言語モデリングのためのKolmogorov-Arnold Networks（KANs）を使用したGenerative Pre-trained Transformers（GPTs）のPyTorch実装PyTorchによるGenerative Pre-trained Transformers（GPTs）のKolmogorov-Arnold Networks（KANs）を使用した言語モデリングの実装
- * 💤 [TextRL](https://github.com/voidful/textrl) - ⭐ 565 / huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装
+ * 💤 [TextRL](https://github.com/voidful/textrl) - ⭐ 564 / huggingfaceのtransformer（blommz-176B/bloom/gpt/bart/T5/MetaICL）のどの世代モデルにもChatGPT RLHF（人間フィードバック付き強化学習）の実装
  * 💤 [ShareGPT4Video](https://github.com/sharegpt4omni/sharegpt4video) - ⭐ 1.1k / ShareGPT4Videoの公式実装：より良いキャプションでビデオ理解と生成を向上させる
- * 💤 [GPT2](https://github.com/affjljoo3581/gpt2) - ⭐ 355 / OpenAI GPT-2のPyTorch実装
+ * 💤 [GPT2](https://github.com/affjljoo3581/gpt2) - ⭐ 356 / OpenAI GPT-2のPyTorch実装
  * 💤 [T2M-GPT](https://github.com/mael-zys/t2m-gpt) - ⭐ 745 / （CVPR 2023）テキスト記述からの人間の動きの生成に関する「T2M-GPT」のPytorch実装
  * 🔥 [stable-baselines3](https://github.com/dlr-rm/stable-baselines3) - ⭐ 13k / PyTorchバージョンのStable Baselines、強化学習アルゴリズムの信頼性のある実装。
  * 🔥 [WhisperLive](https://github.com/collabora/whisperlive) - ⭐ 3.8k / OpenAIのWhisperのほぼライブ実装。
@@ -1189,25 +1187,25 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [all-rl-algorithms](https://github.com/fareedkhan-dev/all-rl-algorithms) - ⭐ 1.4k / より簡単な方法ですべてのRLアルゴリズムの実装
  * ⚠️ [all-rag-techniques](https://github.com/fareedkhan-dev/all-rag-techniques) - ⭐ repo not found / より簡単な方法ですべてのRAG技術の実装
  * 💤 [TokenDagger](https://github.com/m4thyou/tokendagger) - ⭐ 472 / OpenAIのTikTokenの高性能実装。
- * 🔥 [LiteCommands](https://github.com/rollczi/litecommands) - ⭐ 190 / ☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。
- * ⚠️ [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - ⭐ 723 / OpenAI Agents SDKを使用した反復深い研究の実装
+ * 🔥 [LiteCommands](https://github.com/rollczi/litecommands) - ⭐ 192 / ☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。☄️ LiteCommands - Velocity、Bukkit、Paper、BungeeCord、Minestom、Sponge、Fabric、JDA、および将来の実装用のコマンドフレームワーク。
+ * ⚠️ [agents-deep-research](https://github.com/qx-labs/agents-deep-research) - ⭐ 725 / OpenAI Agents SDKを使用した反復深い研究の実装
 
 
 ## Tutorials
 
  * 💤 [Hello-Python](https://github.com/mouredev/hello-python) - ⭐ 34k / Pythonプログラミング言語をゼロから学ぶための初心者向けコース。30以上のレッスン、25時間のビデオ、コード、チャットグループがあります。基礎からデータベースを持つAPIバックエンドの作成まで...
- * 🔥 [notebooks](https://github.com/dataflowr/notebooks) - ⭐ 1.3k / 深層学習コースのコード
+ * ✅ [notebooks](https://github.com/dataflowr/notebooks) - ⭐ 1.3k / 深層学習コースのコード
  * 💤 [gpt4all-colab](https://github.com/camenduru/gpt4all-colab) - ⭐ 103 / 🔥gpt4all（最高のchatgptクローン）がローカルとcolabチュートリアルで実行されています-@camenduruのcolabに-
  * 💤 [X-Decoder](https://github.com/microsoft/x-decoder) - ⭐ 1.3k / Q#と量子コンピューティングを学ぶためのチュートリアルとプログラミング演習
  * 💤 [AI-Powered-Video-Tutorial-Generator](https://github.com/akshitireddy/ai-powered-video-tutorial-generator) - ⭐ 294 / キャラクターアニメーションとスライドを使用したAI生成ビデオチュートリアルを作成しましょう！
  * 💤 [semantic-kernel-rag-chat](https://github.com/azure-samples/semantic-kernel-rag-chat) - ⭐ 167 / チャットGPT + エンタープライズデータのチュートリアル、セマンティックカーネル、OpenAI、およびAzure Cognitive Searchについて
- * ⚠️ [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - ⭐ 348 / AlexaでChatGPTを使用する方法のチュートリアル
+ * ⚠️ [alexa-gpt](https://github.com/k4l1sh/alexa-gpt) - ⭐ 347 / AlexaでChatGPTを使用する方法のチュートリアル
  * 💤 [qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - ⭐ 2.5k / Pythonの実践的なチュートリアルで、50以上のPythonアプリケーション（10行のコード）@xiaowuc2
  * ⚠️ [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - ⭐ 16k / 《李宏毅深度学習教程》，PDFダウンロードアドレス：https://github.com/datawhalechina/leedl-tutorial/releases
  * 🔥 [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - ⭐ 3.9k / 学习 eBPF 的例子 | eBPF 開発者チュートリアルとナレッジベース：パフォーマンス、ネットワーク、セキュリティなど、さまざまなアプリケーションシナリオを小道具と例を使って一歩ずつ学ぶ
- * 💤 [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - ⭐ 571 / TensorFlowを使用してテキストの前処理から、Topic Models、BERT、GPT、LLMなどの最新モデルのダウンストリームタスクをまとめたDeep Learning NLPリポジトリです。
+ * 💤 [tensorflow-nlp-tutorial](https://github.com/ukairia777/tensorflow-nlp-tutorial) - ⭐ 572 / TensorFlowを使用してテキストの前処理から、Topic Models、BERT、GPT、LLMなどの最新モデルのダウンストリームタスクをまとめたDeep Learning NLPリポジトリです。
  * 💤 [langchain-kr](https://github.com/teddylee777/langchain-kr) - ⭐ 2k / LangChain 公式ドキュメント、Cookbook、その他の実用例を基に作成した韓国語チュートリアルです。このチュートリアルを通じてLangChainをより簡単かつ効果的に使用する方法を学ぶことができます。
- * 💤 [llm-python](https://github.com/onlyphantom/llm-python) - ⭐ 897 / 大規模言語モデル（LLMs）のチュートリアル＆サンプルスクリプト、ft. langchain、openai、llamaindex、gpt、chromadb＆pinecone
+ * 🔥 [llm-python](https://github.com/onlyphantom/llm-python) - ⭐ 898 / 大規模言語モデル（LLMs）のチュートリアル＆サンプルスクリプト、ft. langchain、openai、llamaindex、gpt、chromadb＆pinecone
  * ⚠️ [Play-with-LLMs](https://github.com/evilpsycho/play-with-llms) - ⭐ repo not found / LLMを訓練し、評価するチュートリアル、およびRAG、Agent、Chainを活用してエンターテイニングなLLMアプリケーションを構築する方法について共有します。
  * 💤 [zero_to_gpt](https://github.com/vikparuchuri/zero_to_gpt) - ⭐ 1.3k / 深層学習の知識がない状態からGPTの実装まで進んでください。
  * 💤 [rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - ⭐ 2.4k / このリポジトリには、Retrieval-Augmented Generation（RAG）システムのさまざまな高度な技術が含まれています。
@@ -1221,12 +1219,12 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
 
  * 💤 [BioGPT](https://github.com/microsoft/biogpt) - ⭐ 4.5k / マイクロソフトリサーチは、バイオメディカル研究文献にトレーニングされた大規模言語モデルであるBioGPTをリリースしました。このモデルは、PubMedQAで評価されたバイオメディカル文献からの質問に対して、人間以上の性能を発揮します。コードは...
  * 💤 [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - ⭐ 30k / スタンフォードのアルパカモデルをトレーニングするためのコードとドキュメンテーション、およびデータを生成するためのもの。
- * 🔥 [openai-python](https://github.com/openai/openai-python) - ⭐ 30k / OpenAI Pythonライブラリは、Python言語で書かれたアプリケーションからOpenAI APIに便利なアクセスを提供します。
+ * ✅ [openai-python](https://github.com/openai/openai-python) - ⭐ 30k / OpenAI Pythonライブラリは、Python言語で書かれたアプリケーションからOpenAI APIに便利なアクセスを提供します。
  * 💤 [FlexGen](https://github.com/fminference/flexgen) - ⭐ 9.4k / スループット志向のシナリオで単一のGPU上で大規模な言語モデルを実行する。
  * 🔥 [RWKV-LM](https://github.com/blinkdl/rwkv-lm) - ⭐ 14k / RWKVはトランスフォーマーレベルのLLMパフォーマンスを持つRNNです。GPTのように直接トレーニングすることができます（並列化可能）。つまり、RNNとトランスフォーマーの両方の長所を組み合わせており、優れたパフォーマンス、高速推論、VRAMの節約、高速トレーニング、"無限"のctx_len、そして無料の文埋め込みを提供しています。
  * 💤 [mario-gpt](https://github.com/shyamsn97/mario-gpt) - ⭐ 1.1k / 「GPT2を用いたマリオレベル生成。『MarioGPT：大規模言語モデルを通じたオープンエンドのテキスト2レベル生成』の論文コード」https://arxiv.org/abs/2302.05981
- * ⚠️ [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - ⭐ 9k / AI翻訳を使用してバイリンガルのepub書籍を作成する
- * 💤 [llm-security](https://github.com/greshake/llm-security) - ⭐ 2k / アプリ統合LLMを破る新しい方法
+ * 🔥 [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - ⭐ 9k / AI翻訳を使用してバイリンガルのepub書籍を作成する
+ * 💤 [llm-security](https://github.com/greshake/llm-security) - ⭐ 2.1k / アプリ統合LLMを破る新しい方法
  * 💤 [GLM-130B](https://github.com/thudm/glm-130b) - ⭐ 7.7k / GLM-130B：オープンなバイリンガル事前学習モデル（ICLR 2023）
  * 💤 [trlx](https://github.com/carperai/trlx) - ⭐ 4.7k / 人間のフィードバックを介した強化学習による言語モデルの分散トレーニングのためのリポジトリ（RLHF）
  * 💤 [ChatGLM-6B](https://github.com/thudm/chatglm-6b) - ⭐ 41k / ChatGLM-6B：オープンソースのバイリンガル対話言語モデル
@@ -1242,13 +1240,13 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [lqae](https://github.com/lhao499/lqae) - ⭐ 111 / 言語量子化オートエンコーダー
  * [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca#fine-tuning) - スタンフォードのアルパカモデルをトレーニングするためのコードとドキュメンテーション、およびデータを生成するためのもの。
  * 💤 [fib](https://github.com/r-three/fib) - ⭐ 26 / 「bloom」、「opt-175b」、「t0」、そして「gpt-neox」は「事実に矛盾しない」ですか？新しいプレプリント！私たちは「事実上の不一致ベンチマーク」である「FIB」を紹介し、23のLLMを評価しました。@anisham197 @byryuer @mohitban47 @colinraffelと一緒に作業を行いました。📄 💾 🧵 ⬇️
- * 💤 [petals](https://github.com/bigscience-workshop/petals) - ⭐ 9.9k / 🌸 自宅でBitTorrentスタイルで100B以上の言語モデルを実行します。ファインチューニングと推論はオフロードよりも最大10倍速くなります。
+ * 💤 [petals](https://github.com/bigscience-workshop/petals) - ⭐ 10k / 🌸 自宅でBitTorrentスタイルで100B以上の言語モデルを実行します。ファインチューニングと推論はオフロードよりも最大10倍速くなります。
  * ⚠️ [emailGPT](https://github.com/lucasmccabe/emailgpt) - ⭐ repo not found / ChatGPTを使用してメールを簡単かつ迅速に生成するためのインターフェース。
  * 💤 [gpt3-contextual](https://github.com/uezo/gpt3-contextual) - ⭐ 25 / OpenAI APIのGPT-3モデルを使用したコンテキストチャット
  * 🔥 [camel](https://github.com/lightaime/camel) - ⭐ 16k / CAMEL：大規模言語モデル社会の「心」探索のためのコミュニケーションエージェント
  * 💤 [pubmed-gpt](https://github.com/arokem/pubmed-gpt) - ⭐ 40 / PubMedクエリの要約を作成するためにgptを使用してください。
  * 💤 [haltt4llm](https://github.com/manyoso/haltt4llm) - ⭐ 224 / このプロジェクトは、幻覚を排除するための進歩を測定する共通のメトリックを作成する試みであり、これは多くの実際の目的においてLLMの広範な採用において最も深刻な現在の問題です。
- * 💤 [olm-datasets](https://github.com/huggingface/olm-datasets) - ⭐ 176 / ウェブからのオンライン言語モデルの事前学習データを取得し、処理するためのパイプライン
+ * 💤 [olm-datasets](https://github.com/huggingface/olm-datasets) - ⭐ 177 / ウェブからのオンライン言語モデルの事前学習データを取得し、処理するためのパイプライン
  * 💤 [sat-reading](https://github.com/jquesnelle/sat-reading) - ⭐ 19 / 新しいブログ：言語モデル vs SATリーディングテスト！彼らは約90％のスコアを獲得し、Flan-T5はGPT-3.5と同じくらい優れています！ファインチューニングはさらに良くなります！詳細はこちらで入手できます。新しいHuggingfaceデータセットには質問（+モデル）が含まれています。
  * 💤 [tenetlang](https://github.com/tenetlang/tenetlang) - ⭐ 187 / 人間のために構築されたGPTデザイン言語
  * 💤 [ebook-GPT-translator](https://github.com/jesselau76/ebook-gpt-translator) - ⭐ 1.7k / お気に入りのスタイルで読書をお楽しみください。
@@ -1259,7 +1257,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [unilm](https://github.com/microsoft/unilm) - ⭐ 22k / タスク、言語、モダリティを横断した大規模な自己教師あり事前学習
  * 💤 [document.ai](https://github.com/ganymedenil/document.ai) - ⭐ 3.7k / ベクトルデータベースとGPT3.5に基づく汎用ローカル知識ベースのソリューション
  * 💤 [LAVIS](https://github.com/salesforce/lavis) - ⭐ 11k / LAVIS - 言語・視覚知能のためのワンストップライブラリー
- * 🔥 [gpt-subtrans](https://github.com/machinewrapped/gpt-subtrans) - ⭐ 552 / OpenAI/ChatGPTを使用した字幕ファイルの翻訳プロジェクト
+ * ✅ [gpt-subtrans](https://github.com/machinewrapped/gpt-subtrans) - ⭐ 553 / OpenAI/ChatGPTを使用した字幕ファイルの翻訳プロジェクト
  * ⚠️ [paper-qa](https://github.com/whitead/paper-qa) - ⭐ repo not found / 引用文献付きドキュメントからの質問に答えるためのLLMチェーン
  * 🔥 [guardrails](https://github.com/shreyar/guardrails) - ⭐ 6.4k / 大規模言語モデルにガードレールを追加する。
  * 💤 [chatgpt-document-extraction](https://github.com/brandonrobertz/chatgpt-document-extraction) - ⭐ 122 / 混沌としたテキスト文書を構造化されたJSONに変換するためのChatGPTを使用するための概念実証ツール
@@ -1317,10 +1315,10 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [evalplus](https://github.com/evalplus/evalplus) - ⭐ 1.7k / LLM合成コードの厳密な評価のためのEvalPlus
  * 💤 [chat2plot](https://github.com/nyanp/chat2plot) - ⭐ 272 / LLMを使用したチャットの可視化
  * 💤 [databerry](https://github.com/gmpetrov/databerry) - ⭐ 2.9k / カスタムLLMエージェントを構築するためのノーコードプラットフォーム
- * 🔥 [guidance](https://github.com/microsoft/guidance) - ⭐ 21k / 大規模言語モデルを制御するためのガイダンス言語。
- * 🔥 [SmartPilot](https://github.com/jaredkirby/smartpilot) - ⭐ 47 / 与えられた質問に対して、OpenAIの言語モデルを活用して最適な回答を生成、分析、選択するPythonプログラム。
+ * ✅ [guidance](https://github.com/microsoft/guidance) - ⭐ 21k / 大規模言語モデルを制御するためのガイダンス言語。
+ * ✅ [SmartPilot](https://github.com/jaredkirby/smartpilot) - ⭐ 47 / 与えられた質問に対して、OpenAIの言語モデルを活用して最適な回答を生成、分析、選択するPythonプログラム。
  * 💤 [developer](https://github.com/smol-ai/developer) - ⭐ 12k / 100kコンテキストウィンドウが登場したことで、すべての開発者が自分自身のスモールデベロッパーを持つことが現実的になりました。
- * ⚠️ [pyllms](https://github.com/kagisearch/pyllms) - ⭐ 820 / LLM（OpenAI、Anthropic、AI21、Cohere、Aleph Alpha、HuggingfaceHub、Google PaLM2）に接続するための最小限のPythonライブラリで、組み込みのモデルパフォーマンスベンチマークがあります。
+ * 🔥 [pyllms](https://github.com/kagisearch/pyllms) - ⭐ 820 / LLM（OpenAI、Anthropic、AI21、Cohere、Aleph Alpha、HuggingfaceHub、Google PaLM2）に接続するための最小限のPythonライブラリで、組み込みのモデルパフォーマンスベンチマークがあります。
  * 💤 [llm-numbers](https://github.com/ray-project/llm-numbers) - ⭐ 4.3k / LLM開発者が知っておくべき数字
  * 💤 [StructGPT](https://github.com/rucaibox/structgpt) - ⭐ 417 / 「StructGPT：構造化データに対して推論するための大規模言語モデルの一般的なフレームワーク」のコードとデータ
  * ⚠️ [scikit-llm](https://github.com/iryna-kondr/scikit-llm) - ⭐ 3.5k / ChatGPTのような強力な言語モデルをscikit-learnにシームレスに統合して、テキスト分析タスクを強化します。
@@ -1328,12 +1326,12 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * [privateGPT](https://github.com/imartinez/privategpt?utm_source=tldrnewsletter) - GPTの力を使って、100％プライベートで、データ漏洩の心配なしに文書とプライベートにやり取りできます。
  * 💤 [Chat-with-Document-s-using-ChatGPT-API-and-Text-Embedding](https://github.com/appointat/chat-with-document-s-using-chatgpt-api-and-text-embedding) - ⭐ 145 / ChatGPT APIとテキスト埋め込みを使用してドキュメントとチャットする。
  * 💤 [qlora](https://github.com/artidoro/qlora) - ⭐ 11k / QLoRA：量子化されたLLMの効率的なファインチューニング
- * 💤 [BriefGPT](https://github.com/e-johnstonn/briefgpt) - ⭐ 797 / シンプルなGUIを備えた、文書をLLMに接続して要約やクエリを行うためのローカルホストツール。
+ * 💤 [BriefGPT](https://github.com/e-johnstonn/briefgpt) - ⭐ 798 / シンプルなGUIを備えた、文書をLLMに接続して要約やクエリを行うためのローカルホストツール。
  * 💤 [XrayGPT](https://github.com/mbzuai-oryx/xraygpt) - ⭐ 526 / XrayGPT：医療ビジョン言語モデルを使用した胸部レントゲン写真の要約。
  * 💤 [Voyager](https://github.com/minedojo/voyager) - ⭐ 6.7k / 大規模言語モデルを備えたオープンエンドの具現化エージェント
- * 🔥 [gorilla](https://github.com/shishirpatil/gorilla) - ⭐ 13k / ゴリラ：LLMのためのAPIストア
+ * ✅ [gorilla](https://github.com/shishirpatil/gorilla) - ⭐ 13k / ゴリラ：LLMのためのAPIストア
  * ⚠️ [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support) - ⭐ 1.3k / VSCodeのSudoLang LLMサポート
- * 🔥 [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - ⭐ 7.6k / Azureで実行される検索増強生成パターンのサンプルアプリで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを使用しています。
+ * ✅ [azure-search-openai-demo](https://github.com/azure-samples/azure-search-openai-demo) - ⭐ 7.6k / Azureで実行される検索増強生成パターンのサンプルアプリで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを使用しています。
  * 💤 [infiniteGPT](https://github.com/emmethalm/infinitegpt) - ⭐ 740 / InfiniteGPTは、OpenAI APIに無制限のサイズのテキストを入力できるPythonスクリプトです。もう面倒なコピー＆ペーストは不要です。マルチスレッド万歳！
  * 💤 [ToolBench](https://github.com/openbmb/toolbench) - ⭐ 5.5k / ツール学習のための大規模言語モデルのトレーニング、提供、評価のためのオープンプラットフォーム。
  * 💤 [localGPT](https://github.com/promtengineer/localgpt) - ⭐ 22k / GPTモデルを使用して、ローカルデバイス上のドキュメントとチャットできます。データはデバイスから出ることはなく、100％プライベートです。
@@ -1343,13 +1341,13 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [ALGO](https://github.com/zkx06111/algo) - ⭐ 36 / 🚀ALGOをご紹介します。LLM生成のオラクルによって導かれるコード合成フレームワークです。ALGOに統合されたCodexは、コンテストレベルの問題において8倍、ChatGPTは1.3倍の性能を発揮します。さらに、ALGOは提出前にあなたの解決策を検証します！🧵📜:🔗:
  * 💤 [FairEval](https://github.com/i-eval/faireval) - ⭐ 144 / 大規模言語モデルは公正な評価者ではありません- LLM（例：GPT-4）の採用の評価に偏りがあり、審判としてスコアリングすることに成功したバイアス- バイアスを軽減することにより、人間の判断により近い結果になります。repo:
  * 💤 [pdf2md](https://github.com/eiaserinnys/pdf2md) - ⭐ 82 / このプロジェクト、pdf2mdは、学術論文のPDFファイルを消化しやすいテキストファイルに変換します。PDFファイルのレイアウトを分析して、アプリケーションが段落を再構成し、必要なコンテンツを翻訳します。最終的な結果は、便利にエクスポートされたテキストファイルです。
- * 🔥 [ontogpt](https://github.com/monarch-initiative/ontogpt) - ⭐ 796 / GPTベースのオントロジー抽出ツール、SPIRESを含む
+ * ✅ [ontogpt](https://github.com/monarch-initiative/ontogpt) - ⭐ 798 / GPTベースのオントロジー抽出ツール、SPIRESを含む
  * 💤 [selefra](https://github.com/selefra/selefra) - ⭐ 543 / マルチクラウドおよびSaaS環境の分析を提供するオープンソースのポリシーコードソフトウェアで、OpenAIによって強化された自然言語で洞察を得ることができます。
  * 🔥 [haystack](https://github.com/deepset-ai/haystack) - ⭐ 24k / :mag: Haystackは、TransformerモデルやLLMs（GPT-4、ChatGPTなど）を使用してデータと対話するためのオープンソースのNLPフレームワークです。Haystackは、複雑な質問応答、意味検索、テキスト生成アプリケーションなどを素早く構築するための本番用ツールを提供しています。
  * 💤 [WizardLM](https://github.com/nlpxucan/wizardlm) - ⭐ 9.5k / Evol-Instructによって動力化された指示に従うLLMsのファミリー：WizardLM、WizardCoder
  * 🔥 [sparrow](https://github.com/katanaml/sparrow) - ⭐ 5.1k / MLによる文書からのデータ抽出
  * 💤 [lamini](https://github.com/lamini-ai/lamini) - ⭐ 2.5k / 今日：🎉ChatGPTのようなLLMのトレーニングのためのホストされたデータジェネレータを開催しました🎉Laminiエンジンで生成されたデータでトレーニングされたオープンソースのLLM👉フルトレーニング、エンタープライズVPCなどを含む早期アクセス待ちリスト。
- * 💤 [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - ⭐ 690 / 長い文章から画像を生成する、深層生成モデルのパイプラインを使用したテキストから画像生成（GPT-3とStable Diffusion）
+ * 💤 [long_stable_diffusion](https://github.com/sharonzhou/long_stable_diffusion) - ⭐ 689 / 長い文章から画像を生成する、深層生成モデルのパイプラインを使用したテキストから画像生成（GPT-3とStable Diffusion）
  * 💤 [gpt-migrate](https://github.com/0xpayne/gpt-migrate) - ⭐ 7k / 簡単にコードベースを別のフレームワークや言語に移行できます。
  * 💤 [openchat](https://github.com/imoneoi/openchat) - ⭐ 5.5k / オープンチャット：オープンソースモデルにおいては、少ない方が良い
  * 💤 [WebGLM](https://github.com/thudm/webglm) - ⭐ 1.6k / WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）WebGLM：効率的なWeb強化型質問応答システム（KDD 2023）
@@ -1357,12 +1355,12 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [PdfGptIndexer](https://github.com/raghavan/pdfgptindexer) - ⭐ 679 / OpenAIのGPT-2モデルとFAISS（Facebook AI Similarity Search）インデックスを使用したPDFテキストデータのインデックス化と検索のための効率的なツールであり、迅速な情報検索と優れた検索精度を実現するために設計されています。
  * 💤 [SuperAGI](https://github.com/transformeroptimus/superagi) - ⭐ 17k / <⚡️> SuperAGI - 開発者第一のオープンソース自律型AIエージェントフレームワーク。開発者が迅速かつ信頼性の高い有用な自律エージェントを構築、管理、実行できるようにします。
  * ⚠️ [OpenLLM](https://github.com/bentoml/openllm) - ⭐ 12k / 製造中のLLMの操作
- * 💤 [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - ⭐ 207 / アーキブ2023のコード：自己対戦とAIフィードバックからのインコンテキスト学習による言語モデルの交渉の改善
+ * 💤 [GPT-Bargaining](https://github.com/franxyao/gpt-bargaining) - ⭐ 208 / アーキブ2023のコード：自己対戦とAIフィードバックからのインコンテキスト学習による言語モデルの交渉の改善
  * 💤 [dreamGPT](https://github.com/divergentai/dreamgpt) - ⭐ 592 / 大規模言語モデル（LLM）からの幻覚を利用して、新奇性に基づく探索を行います。
  * 💤 [lnchat](https://github.com/litch/lnchat) - ⭐ 3 / だから、私はLNChatというものを作りました。このアプリをノードに接続すると、"最新のチャネルは何ですか？"や"チャネルの概要を表示してください"などの平文の質問をすることができます。ChatGPTがそのギャップを埋めます。それはかなり楽しいですが、まだあまり役に立ちません。まだですが。
- * ⚠️ [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - ⭐ 601 / ChatGPTよりも優れたローカライズされたオープンソースのAIサーバー。
+ * ✅ [ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - ⭐ 600 / ChatGPTよりも優れたローカライズされたオープンソースのAIサーバー。
  * 🔥 [chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - ⭐ 5.5k / chatglm6bなどのオープンソースの大規模モデルをカバーし、多次元能力評価を提供します。能力スコアのランキングだけでなく、すべてのモデルの元の出力結果も提供します！
- * 💤 [RankGPT](https://github.com/sunnweiwei/rankgpt) - ⭐ 656 / ChatGPTは検索に優れていますか？LLMsは再ランキングエージェントとして優れています。
+ * 💤 [RankGPT](https://github.com/sunnweiwei/rankgpt) - ⭐ 657 / ChatGPTは検索に優れていますか？LLMsは再ランキングエージェントとして優れています。
  * 💤 [smile](https://github.com/qiuhuachuan/smile) - ⭐ 516 / SMILE: メンタルヘルスサポートのためのチャットGPTを介したシングルターンからマルチターンへの包括的な言語拡張
  * 💤 [C3SQL](https://github.com/bigbigwatermalon/c3sql) - ⭐ 162 / 論文C3のコード：ChatGPTを用いたゼロショットテキストからSQLへの変換
  * 💤 [CodeDroidAI](https://github.com/fmxexpress/codedroidai) - ⭐ 86 / ChatGPTやVicuna-13bのようなLLMを使用して、Delphi Object PascalとC++BuilderのためのコードとフォームをAIで生成します。
@@ -1371,7 +1369,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [autotranslate](https://github.com/lewangdev/autotranslate) - ⭐ 242 / ビデオの転写と翻訳を、より速いささやき音声とChatGPTで行います。
  * 💤 [nextlint](https://github.com/sveltor/nextlint) - ⭐ 203 / Svelte + tiptapで構築された、Notionのようなリッチテキストエディタ。ChatGPTを使用して、執筆体験を向上させます。
  * 💤 [chatgpt-api-python-sales](https://github.com/boburmirzo/chatgpt-api-python-sales) - ⭐ 90 / AIパワードのPython APIを使用して、ChatGPTとLLM（Large Language Model）アプリを使ってリアルタイムの売上を検索してください。
- * 🔥 [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - ⭐ 5.1k / 【mtool】または【Translator++】に基づく、chatgpt自動バッチ翻訳ツールで、主にさまざまなRPGゲームの翻訳に使用されます。
+ * 🔥 [AiNiee-chatgpt](https://github.com/nekoparapa/ainiee-chatgpt) - ⭐ 5.2k / 【mtool】または【Translator++】に基づく、chatgpt自動バッチ翻訳ツールで、主にさまざまなRPGゲームの翻訳に使用されます。
  * 💤 [openai-forward](https://github.com/beidongjiedeguang/openai-forward) - ⭐ 985 / 🚀 大規模言語モデル向けの転送サービス · あなたのプライベートAIプロキシをワンクリックでデプロイ · LLMプロキシ · OpenAI APIリバースプロキシ
  * 💤 [gpt4-playground](https://github.com/nashex/gpt4-playground) - ⭐ 380 / APIキーを使って実験を行うために、OpenAIのChatGPTとPlayground環境のクローンを作成しました。OpenAIのChatGPTとPlayground環境のクローンを作成しました。APIキーを使用して実験を行うことができます。
  * 💤 [github-pr-summary](https://github.com/flows-network/github-pr-summary) - ⭐ 229 / ChatGPTを使用してGitHubのプルリクエストを要約およびレビューする
@@ -1379,7 +1377,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [chie](https://github.com/chieapp/chie) - ⭐ 181 / ChatGPTや他のLLM向けの広範なデスクトップアプリ。
  * ⚠️ [chatnio](https://github.com/zmh-program/chatnio) - ⭐ 8.9k / 📚 Zh-Websiteプロジェクトのドキュメント（vitepressを使用）
  * 💤 [Selective_Context](https://github.com/liyucheng09/selective_context) - ⭐ 409 / ChatGPTや他のLLMに入力を圧縮して、2倍のコンテンツを処理し、メモリとGPUの時間を40％節約します。
- * 🔥 [GPT-RAG](https://github.com/azure/gpt-rag) - ⭐ 1.1k / 私たちが集めてきた学習を共有し、Azure OpenAIを安全にスケールするための方法を提供します。GPT-RAGコアは、Azureで実行される検索増強生成パターンであり、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。
+ * ✅ [GPT-RAG](https://github.com/azure/gpt-rag) - ⭐ 1.1k / 私たちが集めてきた学習を共有し、Azure OpenAIを安全にスケールするための方法を提供します。GPT-RAGコアは、Azureで実行される検索増強生成パターンであり、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。
  * 💤 [LLMforDialogDataGenerate](https://github.com/threecolorfr/llmfordialogdatagenerate) - ⭐ 163 / 文書からChatGLM2やChatGPTのようなLLMを使用して対話データを生成します。
  * 💤 [Auto-i18n](https://github.com/linyuxuanlin/auto-i18n) - ⭐ 377 / ChatGPTを使用して、Markdownファイルを複数の言語に自動翻訳します。
  * 🔥 [chat-with-your-data-solution-accelerator](https://github.com/azure-samples/chat-with-your-data-solution-accelerator) - ⭐ 1.2k / Azureで実行されるRAGパターンのためのソリューションアクセラレーターで、検索にはAzure Cognitive Searchを使用し、ChatGPTスタイルやQ&A体験にはAzure OpenAIの大規模言語モデルを活用しています。これには、最も一般的な要件とベストプラクティスが含まれています。
@@ -1391,7 +1389,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [Otter](https://github.com/luodian/otter) - ⭐ 3.3k / 🦦 オッターは、MIMIC-ITで訓練され、改善された指示の追跡能力と文脈に即した学習能力を示す、OpenFlamingo（DeepMindのFlamingoのオープンソース版）に基づくマルチモーダルモデルです。
  * 🔥 [RWKV-Runner](https://github.com/josstorer/rwkv-runner) - ⭐ 6.2k / RWKVの管理およびスタートアップツールで、完全自動化であり、わずか8MBです。また、OpenAI APIと互換性のあるインターフェースを提供します。RWKVは完全にオープンソースであり、商用利用が可能な大規模な言語モデルです。
  * ⚠️ [MNBVC](https://github.com/esbatmop/mnbvc) - ⭐ 4.1k / MNBVC（Massive Never-ending BT Vast Chinese corpus）超大規模中文語料集。chatGPTのトレーニングに使用される40Tのデータに対応しています。MNBVCデータセットには、メインストリームの文化だけでなく、マイナーカルチャーやさらには火星語のデータも含まれています。MNBVCデータセットには、ニュース、作文、小説、書籍、雑誌、論文、台詞、投稿、ウィキ、古詩、歌詞、商品紹介、ジョーク、失敗談、チャットの記録など、あらゆる形式の純文本の中国語データが含まれています。
- * 🔥 [Easydict](https://github.com/tisfeng/easydict) - ⭐ 12k / シンプルでエレガントな辞書と翻訳のmacOSアプリ。すぐに使えるようになっており、オフラインOCR認識をサポートし、有道辞書、🍎 Appleシステム辞書、🍎 Appleシステム翻訳、ChatGPT、DeepL、Google、Bing、百度、火山翻訳に対応しています。単語の検索やテキストの翻訳に便利です。
+ * ✅ [Easydict](https://github.com/tisfeng/easydict) - ⭐ 12k / シンプルでエレガントな辞書と翻訳のmacOSアプリ。すぐに使えるようになっており、オフラインOCR認識をサポートし、有道辞書、🍎 Appleシステム辞書、🍎 Appleシステム翻訳、ChatGPT、DeepL、Google、Bing、百度、火山翻訳に対応しています。単語の検索やテキストの翻訳に便利です。
  * 💤 [NExT-GPT](https://github.com/next-gpt/next-gpt) - ⭐ 3.6k / NExT-GPT: あらゆるモーダルに対応した大規模言語モデルのコードとモデル
  * ⚠️ [TavernAI](https://github.com/tavernai/tavernai) - ⭐ 2.6k / AI言語モデル（KoboldAI、NovelAI、Pygmalion、OpenAI chatgpt、gpt-4）の大気冒険チャット
  * 💤 [lmql](https://github.com/eth-sri/lmql) - ⭐ 4.2k / 制約に基づいた効率的なLLMプログラミングのための言語。
@@ -1405,9 +1403,9 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [aidea-server](https://github.com/mylxsw/aidea-server) - ⭐ 1.7k / AIdeaは、GPTおよび国産の大規模言語モデルである通義千問、文心一言などをサポートし、Stable Diffusion文生図、図生図、SDXL1.0、超解像度、画像着色などをサポートするオールインワンのアプリです。
  * 💤 [llm-viz](https://github.com/bbycroft/llm-viz) - ⭐ 5.3k / GPTスタイルのLLMの3Dビジュアライゼーション
  * 💤 [AppAgent](https://github.com/mnotgod96/appagent) - ⭐ 6.5k / アプリエージェント：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
- * 🔥 [AgentBench](https://github.com/thudm/agentbench) - ⭐ 3.2k / エージェントとしてのLLMを評価するための包括的なベンチマーク
+ * ✅ [AgentBench](https://github.com/thudm/agentbench) - ⭐ 3.2k / エージェントとしてのLLMを評価するための包括的なベンチマーク
  * 💤 [NeumAI](https://github.com/neumtry/neumai) - ⭐ 866 / Neum AIは、大規模なベクトル埋め込みの作成と同期を管理するための最高のフレームワークです。
- * 🔥 [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - ⭐ 85k / スクラッチからChatGPTのようなLLMを段階的に実装する
+ * 🔥 [LLMs-from-scratch](https://github.com/rasbt/llms-from-scratch) - ⭐ 86k / スクラッチからChatGPTのようなLLMを段階的に実装する
  * ⚠️ [TransformerLens](https://github.com/neelnanda-io/transformerlens) - ⭐ 3.1k / GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
  * 💤 [KwaiAgents](https://github.com/kwaikeg/kwaiagents) - ⭐ 1.2k / 大規模言語モデル（LLM）を使用した一般的な情報検索エージェントシステム。
  * 💤 [MotionGPT](https://github.com/openmotionlab/motiongpt) - ⭐ 1.9k / [NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」[NeurIPS 2023] MotionGPT：LLMを使用した統合されたモーション言語生成モデル「人間の動きは外国語のようなもの」
@@ -1420,20 +1418,20 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 🔥 [hacker-news-digest](https://github.com/polyrabbit/hacker-news-digest) - ⭐ 743 / :newspaper: ChatGPTがハッカーニュースを要約します
  * ⚠️ [openai-translator](https://github.com/lancemoe/openai-translator) - ⭐ 405 / OpanAIを使用する翻訳者。
  * 💤 [llm-paper-daily](https://github.com/xianshang33/llm-paper-daily) - ⭐ 1.2k / 毎日更新されるLLM関連の論文。購読を歓迎します👏 お気に入りの場合は、ぜひ購読してください🌟 一つ
- * 🔥 [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - ⭐ 746 / Azure Open AI（デモ、ドキュメンテーション、アクセラレータ）。
+ * 🔥 [Azure-OpenAI-demos](https://github.com/retkowsky/azure-openai-demos) - ⭐ 747 / Azure Open AI（デモ、ドキュメンテーション、アクセラレータ）。
  * 💤 [chatWeb](https://github.com/skywalkerdarren/chatweb) - ⭐ 913 / ChatWebはウェブページをクロールし、PDF、DOCX、TXTを読み取り、主要なコンテンツを抽出し、その内容に基づいて質問に答えたり、キーポイントを要約したりすることができます。
  * 💤 [StreamRAG](https://github.com/video-db/streamrag) - ⭐ 503 / ビデオ検索とストリーミングエージェント 🕵️‍♂️
- * 🔥 [gptscript](https://github.com/gptscript-ai/gptscript) - ⭐ 3.3k / 自然言語プログラミング
+ * ✅ [gptscript](https://github.com/gptscript-ai/gptscript) - ⭐ 3.3k / 自然言語プログラミング
  * 💤 [sgpt](https://github.com/muennighoff/sgpt) - ⭐ 873 / SGPT：GPT文埋め込みによる意味検索SGPT：GPT文埋め込みによる意味検索
  * 💤 [visual-openllm](https://github.com/visual-openllm/visual-openllm) - ⭐ 1.2k / 何かビジュアルチャットGPTのようなもの、文心一言のオープンソース版
  * 💤 [GPT-Fathom](https://github.com/gpt-fathom/gpt-fathom) - ⭐ 345 / GPT-Fathomは、オープンソースで再現可能なLLM評価スイートであり、10以上の主要なオープンソースおよびクローズドソースのLLM、さらにはOpenAIの以前のモデルを20以上の厳選されたベンチマークで比較評価するためのものです。
  * 💤 [OpenCodeInterpreter](https://github.com/opencodeinterpreter/opencodeinterpreter) - ⭐ 1.7k / OpenCodeInterpreterは、大規模な言語モデルとGPT-4コードインタープリターのような高度なプロプライエタリシステムとの間のギャップを埋めることを目的としたオープンソースのコード生成システムのスイートです。これにより、コード生成能力が大幅に向上します。
- * 💤 [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - ⭐ 467 / Flutter ChatGPTアプリ。 Flutterによって実装されたchatgptチャットアプリは、カスタムモードとコンテキスト継続対話をサポートしています。 さらに、admob広告の構成、オープンスクリーン広告へのアクセス、インタースティシャル広告、バナー広告をサポートしています。
- * ⚠️ [ai00_server](https://github.com/ai00-x/ai00_server) - ⭐ 601 / ChatGPTよりも優れたローカライズされたオープンソースAIサーバー。
+ * 💤 [flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt) - ⭐ 466 / Flutter ChatGPTアプリ。 Flutterによって実装されたchatgptチャットアプリは、カスタムモードとコンテキスト継続対話をサポートしています。 さらに、admob広告の構成、オープンスクリーン広告へのアクセス、インタースティシャル広告、バナー広告をサポートしています。
+ * ✅ [ai00_server](https://github.com/ai00-x/ai00_server) - ⭐ 600 / ChatGPTよりも優れたローカライズされたオープンソースAIサーバー。
  * ⚠️ [CipherChat](https://github.com/robustnlp/cipherchat) - ⭐ 624 / LLMの安全性整合性の汎化能力を評価するためのフレームワーク
- * 💤 [bonito](https://github.com/batsresearch/bonito) - ⭐ 822 / GPTなしでデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。GPTを使用せずにデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。
- * 💤 [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - ⭐ 852 / OpenAIを利用したドキュメント検索のためのシンプルなWebアプリケーション。このリポジトリは、ドキュメントから埋め込みベクトルを作成するためにAzure OpenAIサービスを使用しています。ユーザーの質問に回答するために、最も関連性の高いドキュメントを取得し、その後GPT-3、GPT-3.5を使用します。
- * 🔥 [open-interpreter](https://github.com/openinterpreter/open-interpreter) - ⭐ 62k / コンピューターのための自然言語インターフェース
+ * 💤 [bonito](https://github.com/batsresearch/bonito) - ⭐ 823 / GPTなしでデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。GPTを使用せずにデータのための合成命令チューニングデータセットを生成するための軽量ライブラリ。
+ * 💤 [azure-open-ai-embeddings-qna](https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna) - ⭐ 853 / OpenAIを利用したドキュメント検索のためのシンプルなWebアプリケーション。このリポジトリは、ドキュメントから埋め込みベクトルを作成するためにAzure OpenAIサービスを使用しています。ユーザーの質問に回答するために、最も関連性の高いドキュメントを取得し、その後GPT-3、GPT-3.5を使用します。
+ * ✅ [open-interpreter](https://github.com/openinterpreter/open-interpreter) - ⭐ 62k / コンピューターのための自然言語インターフェース
  * 💤 [EvaluationPapers4ChatGPT](https://github.com/thu-keg/evaluationpapers4chatgpt) - ⭐ 456 / ChatGPTのためのリソース、評価、検出論文
  * 💤 [private-gpt](https://github.com/zylon-ai/private-gpt) - ⭐ 57k / GPTの力を使って、100％プライベートでデータ漏洩なしに文書とやり取りします。
  * 🔥 [VLMEvalKit](https://github.com/open-compass/vlmevalkit) - ⭐ 3.8k / 大規模なビジョン言語モデル（LVLMs）のオープンソース評価ツールキット、GPT-4v、Gemini、QwenVLPlus、30以上のHFモデル、15以上のベンチマークをサポート
@@ -1443,10 +1441,10 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ⭐ 1.7k / ↔️ ChatGPTを使用して字幕を翻訳します
  * 💤 [obsidian-ava](https://github.com/different-ai/obsidian-ava) - ⭐ 656 / ObsidianでChatGPTを使用してノートを素早くフォーマットします。
  * ⚠️ [spacy-transformers](https://github.com/explosion/spacy-transformers) - ⭐ 1.4k / 🛸 spaCyでBERT、XLNet、GPT-2などの事前学習済みトランスフォーマーを使用します。
- * 💤 [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ⭐ 381 / ChatGPT Universeは、ChatGPT、GPT、および大規模言語モデル（LLMs）に関する一時的なメモです。
+ * 💤 [chatgpt-universe](https://github.com/cedrickchee/chatgpt-universe) - ⭐ 380 / ChatGPT Universeは、ChatGPT、GPT、および大規模言語モデル（LLMs）に関する一時的なメモです。
  * ⚠️ [InternVL](https://github.com/opengvlab/internvl) - ⭐ 9.8k / [CVPR 2024 口頭発表] InternVL Family: GPT-4Vに対する先駆的なオープンソースの代替手段。GPT-4Vに匹敵するパフォーマンスを発揮する商用利用可能なオープンソースモデル。
- * 🔥 [GPTSwarm](https://github.com/metauto-ai/gptswarm) - ⭐ 994 / 🐝 GPTSwarm: LLMエージェントを（最適化可能な）グラフとして
- * 🔥 [nixtla](https://github.com/nixtla/nixtla) - ⭐ 3.7k / Input: TimeGPT-1: 予測と異常検知のための本番向けの事前トレーニング済みの時系列基礎モデル。 100億以上のデータポイントでトレーニングされた時系列のための生成事前トレーニングトランスフォーマー。様々なドメインを正確に予測する能力を持っています。
+ * ✅ [GPTSwarm](https://github.com/metauto-ai/gptswarm) - ⭐ 996 / 🐝 GPTSwarm: LLMエージェントを（最適化可能な）グラフとして
+ * 🔥 [nixtla](https://github.com/nixtla/nixtla) - ⭐ 3.8k / Input: TimeGPT-1: 予測と異常検知のための本番向けの事前トレーニング済みの時系列基礎モデル。 100億以上のデータポイントでトレーニングされた時系列のための生成事前トレーニングトランスフォーマー。様々なドメインを正確に予測する能力を持っています。
  * ⚠️ [TransformerLens](https://github.com/transformerlensorg/transformerlens) - ⭐ 3.1k / GPTスタイルの言語モデルの機械的解釈可能性のためのライブラリ
  * 💤 [BetterOCR](https://github.com/junhoyeo/betterocr) - ⭐ 616 / 🔍 EasyOCR、Tesseract、およびPororoを🧠 LLMと組み合わせることで、より優れたテキスト検出が可能になります。
  * 💤 [viz-gpt](https://github.com/observedobserver/viz-gpt) - ⭐ 627 / 表形式のデータセットからコンテキストデータの視覚化をチャットインターフェースで行う。AIデータの視覚化。
@@ -1458,155 +1456,157 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [go-translate](https://github.com/lorniu/go-translate) - ⭐ 345 / Emacs上の翻訳機能。Google、Bing、deepL、ChatGPT、StarDict、Youdaoなど複数のエンジンをサポートしています。
  * ⚠️ [ChatTTS](https://github.com/2noise/chattts) - ⭐ 39k / 日常会話のための生成型スピーチモデル。
  * 💤 [chatgpt-your-files](https://github.com/supabase-community/chatgpt-your-files) - ⭐ 507 / pgvectorを使用して、ドキュメントを安全にチャットするための製品向けMVP
- * ⚠️ [auto-novel](https://github.com/fishhawk/auto-novel) - ⭐ 918 / 軽小説機械翻訳サイト、ネット小説/ライトノベル/ローカル小説をサポート
+ * ⚠️ [auto-novel](https://github.com/fishhawk/auto-novel) - ⭐ 923 / 軽小説機械翻訳サイト、ネット小説/ライトノベル/ローカル小説をサポート
  * 💤 [Q-Bench](https://github.com/q-future/q-bench) - ⭐ 282 / Qwen-VL-Plus + 16 OS MLLMs）低レベルビジョンと視覚品質評価におけるマルチモダリティLLM（MLLM）のベンチマーク。
  * 💤 [lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - ⭐ 283 / ローコードツール、ChatGPTおよびその他のLLMをサポート
  * 💤 [HuatuoGPT-II](https://github.com/freedomintelligence/huatuogpt-ii) - ⭐ 400 / 華陀GPT2、LLMsの医療適応のためのワンステージトレーニング（オープン医療GPT）
- * 💤 [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - ⭐ 439 / エンドツーエンドのAIアンカーモジュール、現在はbilibiliライブルームとの接続をサポートし、ローカルchatglm3とZhipu API言語モデルをサポートし、so-vits-svc、gpt-sovits、およびbert-vits2音声モデルをサポートしています。
+ * 💤 [AI-Vtuber](https://github.com/whoiswennie/ai-vtuber) - ⭐ 440 / エンドツーエンドのAIアンカーモジュール、現在はbilibiliライブルームとの接続をサポートし、ローカルchatglm3とZhipu API言語モデルをサポートし、so-vits-svc、gpt-sovits、およびbert-vits2音声モデルをサポートしています。
  * 💤 [Recommendation-Systems-without-Explicit-ID-Features-A-Literature-Review](https://github.com/westlake-repl/recommendation-systems-without-explicit-id-features-a-literature-review) - ⭐ 366 / 事前にトレーニングされた基礎推薦モデルの紙リスト
  * 🔥 [mem0](https://github.com/mem0ai/mem0) - ⭐ 48k / LLMsの長期記憶
- * 🔥 [Github-Ranking-AI](https://github.com/yuxiaopeng/github-ranking-ai) - ⭐ 373 / GitHubで最も人気のあるAIトピックのリポジトリのリストを、受け取ったスターの数に基づいてランク付けします。| AI関連トピックのGitHubリポジトリの人気ランキング、毎日自動更新。
+ * 🔥 [Github-Ranking-AI](https://github.com/yuxiaopeng/github-ranking-ai) - ⭐ 379 / GitHubで最も人気のあるAIトピックのリポジトリのリストを、受け取ったスターの数に基づいてランク付けします。| AI関連トピックのGitHubリポジトリの人気ランキング、毎日自動更新。
  * 💤 [searchGPT](https://github.com/michaelthwan/searchgpt) - ⭐ 710 / OpenAI APIに基づいたソース参照付きのグラウンデッド検索エンジン。Web検索、ファイル内容検索などをサポートしています。
- * 💤 [rag-gpt](https://github.com/gpt-open/rag-gpt) - ⭐ 482 / RAG-GPTは、LLMとRAG技術を活用して、ユーザーのカスタマイズされた知識ベースから学習し、幅広いクエリに対して文脈に即した回答を提供し、迅速かつ正確な情報検索を保証します。
+ * 💤 [rag-gpt](https://github.com/gpt-open/rag-gpt) - ⭐ 484 / RAG-GPTは、LLMとRAG技術を活用して、ユーザーのカスタマイズされた知識ベースから学習し、幅広いクエリに対して文脈に即した回答を提供し、迅速かつ正確な情報検索を保証します。
  * ⚠️ [embedJs](https://github.com/llm-tools/embedjs) - ⭐ 601 / LLMsと埋め込みを簡単に扱うためのNodeJS RAGフレームワーク
  * 💤 [AmadeusGPT](https://github.com/adaptivemotorcontrollab/amadeusgpt) - ⭐ 232 / [NeurIPS 2023] 私たちは行動の自然言語の説明を機械実行可能なコードに変換します[NeurIPS 2023]私たちは行動の自然言語の説明を機械実行可能なコードに変換します
  * 🔥 [fastapi](https://github.com/iimeta/fastapi) - ⭐ 276 / 智元 Fast API は、さまざまなLLM APIを統一された形式、統一された規格、統一された管理で管理する、オールインワンのAPI管理システムです。これにより、機能、パフォーマンス、ユーザーエクスペリエンスの面で最高のレベルに達することができます。
  * ⚠️ [gtt](https://github.com/eeexun/gtt) - ⭐ 295 / Google翻訳TUI（元々）。現在、Apertium、Argos、Bing、ChatGPT、DeepL、DeepLX、Google、Reversoをサポートしています。
  * ⚠️ [AlignBench](https://github.com/thudm/alignbench) - ⭐ 420 / 大規模な多次元の中国語アライメント評価基準（ACL 2024）
  * 💤 [factool](https://github.com/gair-nlp/factool) - ⭐ 913 / FacTool: 生成AIにおける事実性検出
- * 💤 [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - ⭐ 370 / 複雑な推論タスクを解決するための「思考の木（ToT）」フレームワークを使用したLLMs
- * ⚠️ [llmgraph](https://github.com/dylanhogg/llmgraph) - ⭐ 499 / LLMを使用して知識グラフを作成します。
+ * 💤 [tree-of-thought-puzzle-solver](https://github.com/jieyilong/tree-of-thought-puzzle-solver) - ⭐ 371 / 複雑な推論タスクを解決するための「思考の木（ToT）」フレームワークを使用したLLMs
+ * ⚠️ [llmgraph](https://github.com/dylanhogg/llmgraph) - ⭐ 501 / LLMを使用して知識グラフを作成します。
  * 💤 [Sunsimiao](https://github.com/x-d-lab/sunsimiao) - ⭐ 470 / 🌿孫思邈中文医療大模型(Sunsimiao)：安全で信頼性があり、誰もが利用できる中文医療大模型を提供します。
- * 🔥 [MiniCPM](https://github.com/openbmb/minicpm) - ⭐ 8.6k / MiniCPM3-4B：GPT-3.5-Turboを凌駕するエッジサイドのLLM。
+ * ✅ [MiniCPM](https://github.com/openbmb/minicpm) - ⭐ 8.7k / MiniCPM3-4B：GPT-3.5-Turboを凌駕するエッジサイドのLLM。
  * 💤 [cloudflare-rag](https://github.com/rafalwilinski/cloudflare-rag) - ⭐ 595 / Cloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリCloudflare上で完全に構築されたフルスタック「PDFとチャットする」RAG（Retrieval Augmented Generation）アプリ
- * 💤 [empower-functions](https://github.com/empower-ai/empower-functions) - ⭐ 224 / 実世界のツールを使用するためのGPT-4レベルの関数呼び出しモデル
- * ⚠️ [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - ⭐ 325 / [CVPR'24] HallusionBench: あなたは何を考えているか見ていますか？それともあなたは何を見ているか考えていますか？GPT-4V(ision)、LLaVA-1.5、および他の多様性モデルに挑戦する画像コンテキスト推論ベンチマーク
+ * 💤 [empower-functions](https://github.com/empower-ai/empower-functions) - ⭐ 223 / 実世界のツールを使用するためのGPT-4レベルの関数呼び出しモデル
+ * ⚠️ [HallusionBench](https://github.com/tianyi-lab/hallusionbench) - ⭐ 326 / [CVPR'24] HallusionBench: あなたは何を考えているか見ていますか？それともあなたは何を見ているか考えていますか？GPT-4V(ision)、LLaVA-1.5、および他の多様性モデルに挑戦する画像コンテキスト推論ベンチマーク
  * 🔥 [repo2txt](https://github.com/abinthomasonline/repo2txt) - ⭐ 1.7k / Webベースのツールは、GitHubリポジトリの内容を1つのフォーマットされたテキストファイルに変換します。
- * ⚠️ [bigcodebench](https://github.com/bigcode-project/bigcodebench) - ⭐ 478 / BigCodeBench：AGIに向けたコード生成のベンチマーク化
+ * ⚠️ [bigcodebench](https://github.com/bigcode-project/bigcodebench) - ⭐ 479 / BigCodeBench：AGIに向けたコード生成のベンチマーク化
  * 🔥 [FastGPT](https://github.com/labring/fastgpt) - ⭐ 27k / FastGPTは、LLMsをベースに構築された知識ベースのプラットフォームで、データ処理、RAG検索、ビジュアルAIワークフローオーケストレーションなど、包括的な機能を提供しており、複雑な質問回答を簡単に開発および展開できます。
  * 🔥 [guardrails](https://github.com/guardrails-ai/guardrails) - ⭐ 6.4k / 大規模言語モデルにガードレールを追加する。
  * 🔥 [E2B](https://github.com/e2b-dev/e2b) - ⭐ 11k / AIアプリとAIエージェントのための安全なオープンソースクラウドランタイム
- * 🔥 [MaxKB](https://github.com/1panel-dev/maxkb) - ⭐ 20k / 🚀 大規模言語モデルとRAGに基づいたナレッジベースの質問応答システム。即座に使用可能で、モデルに中立的で柔軟な配置が可能で、第三者のビジネスシステムに迅速に組み込むことができます。
+ * ✅ [MaxKB](https://github.com/1panel-dev/maxkb) - ⭐ 20k / 🚀 大規模言語モデルとRAGに基づいたナレッジベースの質問応答システム。即座に使用可能で、モデルに中立的で柔軟な配置が可能で、第三者のビジネスシステムに迅速に組み込むことができます。
  * 🔥 [SillyTavern](https://github.com/sillytavern/sillytavern) - ⭐ 23k / パワーユーザー向けのLLMフロントエンド。
- * 🔥 [instructor](https://github.com/jxnl/instructor) - ⭐ 12k / LLMSのための構造化された出力
- * 🔥 [instructor](https://github.com/instructor-ai/instructor) - ⭐ 12k / LLMSのための構造化された出力
+ * ✅ [instructor](https://github.com/jxnl/instructor) - ⭐ 12k / LLMSのための構造化された出力
+ * ✅ [instructor](https://github.com/instructor-ai/instructor) - ⭐ 12k / LLMSのための構造化された出力
  * 🔥 [buzz](https://github.com/chidiwilliams/buzz) - ⭐ 18k / Buzzは、個人用コンピューターでオフラインで音声を書き起こし、翻訳します。OpenAIのWhisperによって動作します。
  * 🔥 [ai](https://github.com/vercel/ai) - ⭐ 22k / React、Svelte、Vue、およびSolidを使用してAI搭載アプリケーションを構築します。
  * ⚠️ [rivet](https://github.com/ironclad/rivet) - ⭐ 4.5k / オープンソースのビジュアルAIプログラミング環境とTypeScriptライブラリ
  * 🔥 [griptape](https://github.com/griptape-ai/griptape) - ⭐ 2.5k / AIエージェントとワークフローのためのモジュラーPythonフレームワーク。思考の連鎖推論、ツール、メモリを備えています。
- * 🔥 [agentic](https://github.com/transitive-bullshit/agentic) - ⭐ 18k / どんなLLMとTypeScript AI SDKでも動作するAIエージェントの標準ライブラリ。
+ * ✅ [agentic](https://github.com/transitive-bullshit/agentic) - ⭐ 18k / どんなLLMとTypeScript AI SDKでも動作するAIエージェントの標準ライブラリ。
  * ⚠️ [faster-whisper](https://github.com/systran/faster-whisper) - ⭐ 21k / CTranslate2を使用した高速なウィスパー転写
  * ⚠️ [tokencost](https://github.com/agentops-ai/tokencost) - ⭐ 1.9k / 400以上のLLMに対する簡単なトークン価格の見積もり。TokenOps。
  * 🔥 [TEN-Agent](https://github.com/ten-framework/ten-agent) - ⭐ 10k / TENエージェントは、世界初のOpenAI Realtime API、RTCと統合されたリアルタイムマルチモーダルエージェントで、天気チェック、ウェブ検索、ビジョン、RAG機能を備えています。
- * ⚠️ [refact](https://github.com/smallcloudai/refact) - ⭐ 3.5k / コーディング用のオープンソース大規模言語モデルの微調整と自己ホスティングのためのWebUI
+ * 🔥 [refact](https://github.com/smallcloudai/refact) - ⭐ 3.5k / コーディング用のオープンソース大規模言語モデルの微調整と自己ホスティングのためのWebUI
  * 🔥 [ax](https://github.com/ax-llm/ax) - ⭐ 2.4k / 非公式のDSPyフレームワーク。Stanford DSP論文に基づいたLLMパワードエージェントと「エージェンティックワークフロー」を構築します。
  * 🔥 [code-interpreter](https://github.com/e2b-dev/code-interpreter) - ⭐ 2.2k / TS SDKを使用して、AI生成コード/コード解釈を実行するためのAIアプリを作成します。
- * 🔥 [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - ⭐ 5.7k / AIエージェントを原子的に構築します。
+ * ✅ [atomic-agents](https://github.com/brainblend-ai/atomic-agents) - ⭐ 5.7k / AIエージェントを原子的に構築します。
  * 💤 [BricksLLM](https://github.com/bricks-cloud/bricksllm) - ⭐ 1.2k / 🔒エンタープライズグレードのAPIゲートウェイは、APIキーごとにコストやレート制限を監視および課すのに役立ちます。ユーザー、アプリケーション、または環境ごとに細かいアクセス制御と監視を取得します。OpenAI、Azure OpenAI、Anthropic、vLLM、およびオープンソースのLLMをサポートしています。
  * 💤 [nerve](https://github.com/evilsocket/nerve) - ⭐ 1.3k / コードを書かずにLLMエージェントを作成します。
  * 🔥 [OpenAdapt](https://github.com/openadaptai/openadapt) - ⭐ 1.5k / オープンソースの生成プロセス自動化（すなわち、生成RPA）。大規模な（言語（LLMs）/アクション（LAMs）/マルチモーダル（LMMs）/ビジュアル言語（VLMs））モデルを使用したAIファーストプロセス自動化。
  * 🔥 [opik](https://github.com/comet-ml/opik/) - ⭐ 18k / オープンソースのエンドツーエンドLLM開発プラットフォーム
  * 💤 [PySpur](https://github.com/pyspur-dev/pyspur) - ⭐ 5.7k / LLMワークフロー用のグラフベースエディタ
- * 🔥 [ossinsight](https://github.com/pingcap/ossinsight) - ⭐ 2.3k / オープンソースソフトウェアの分析、比較、トレンド、ランキングを入手することができます。さらに、OpenAIによる自然言語で70億以上の洞察を得ることもできます。Twitterでフォローしてください：https://twitter.com/ossinsight
+ * ✅ [ossinsight](https://github.com/pingcap/ossinsight) - ⭐ 2.3k / オープンソースソフトウェアの分析、比較、トレンド、ランキングを入手することができます。さらに、OpenAIによる自然言語で70億以上の洞察を得ることもできます。Twitterでフォローしてください：https://twitter.com/ossinsight
  * 🔥 [cdxgen](https://github.com/cyclonedx/cdxgen) - ⭐ 902 / ソースおよびコンテナイメージからプロジェクトのCycloneDX材料（BOM）を作成します。多言語およびパッケージマネージャーをサポートしています。CI/CDパイプラインに統合し、Dependency Trackサーバーに自動送信します。GPT：https://chatgpt.com/g/g-
- * ⚠️ [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - ⭐ 836 / AIを活用したツールを使用して、医学部やそれ以上の学習においてAnkiフラッシュカードを説明、記憶術、イラスト、適応学習で強化します。
+ * ⚠️ [AnkiAIUtils](https://github.com/thiswillbeyourgithub/ankiaiutils) - ⭐ 835 / AIを活用したツールを使用して、医学部やそれ以上の学習においてAnkiフラッシュカードを説明、記憶術、イラスト、適応学習で強化します。
  * ⚠️ [Director](https://github.com/video-db/director) - ⭐ 1.3k / 次世代のビデオインタラクションとワークフローのためのAIビデオエージェントフレームワーク。
- * ⚠️ [Bob](https://github.com/ripperhe/bob) - ⭐ 9.5k / Bobは、macOSプラットフォーム向けの翻訳およびOCRソフトウェアです。
- * 🔥 [prism](https://github.com/echolabsdev/prism) - ⭐ 2.3k / LaravelでLLMを操作するための統一されたインターフェース
+ * ⚠️ [Bob](https://github.com/ripperhe/bob) - ⭐ 9.6k / Bobは、macOSプラットフォーム向けの翻訳およびOCRソフトウェアです。
+ * ✅ [prism](https://github.com/echolabsdev/prism) - ⭐ 2.3k / LaravelでLLMを操作するための統一されたインターフェース
  * ⚠️ [CodeGen](https://github.com/salesforce/codegen) - ⭐ 5.2k / CodeGenはプログラム合成のためのオープンソースモデルファミリーです。TPU-v4でトレーニングされています。OpenAI Codexと競合しています。
  * 🔥 [parlant](https://github.com/emcie-co/parlant) - ⭐ 18k / 顧客対応LLMエージェント向けの重要なガイダンスフレームワーク
  * 💤 [nerve](https://github.com/dreadnode/nerve) - ⭐ 1.3k / コードを書かずにLLMエージェントを作成します。
  * ⚠️ [deep-searcher](https://github.com/zilliztech/deep-searcher) - ⭐ 7.6k / Pythonにおけるプライベートデータに対する理由の代替としての深い研究
  * 💤 [bailing](https://github.com/wwbin2017/bailing) - ⭐ 1.6k / 百聆は、GPT-4oに似た音声対話ロボットで、ASR+LLM+TTSを使用しており、DeepSeek R1などの優れた大規模モデルを統合しています。遅延は800msまで低減されており、低構成でも動作可能で、打ち消しもサポートしています。
  * 💤 [brainrot.js](https://github.com/brainrotjs/brainrot.js) - ⭐ 945 / 脳内ビデオジェネレーターのテキスト。お気に入りのパーソナリティから任意のトピックについて学ぶ 😼。
- * ⚠️ [AIaW](https://github.com/nitrorcr/aiaw) - ⭐ 1.7k / AI as Workspace - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
+ * ⚠️ [AIaW](https://github.com/nitrorcr/aiaw) - ⭐ 1.8k / AI as Workspace - 精心設計的 AI (LLM) 客戶端。全功能，輕量級；支持多工作區、插件系統、跨平台、本地優先+實時雲同步、Artifacts
  * 🔥 [uni-api](https://github.com/yym68686/uni-api) - ⭐ 1.2k / これはLLM APIの管理を統一するプロジェクトです。統一されたAPIインターフェースを介して複数のバックエンドサービスを呼び出し、それらを一貫したOpenAI形式に変換し、ロードバランシングをサポートすることができます。現在サポートされているバックエンドサービスには、OpenAIが含まれています。
- * 🔥 [paperless-gpt](https://github.com/icereed/paperless-gpt) - ⭐ 1.9k / LLMとLLM Vision（OCR）を使用して、AIによって強化されたペーパーレス-ngx - 文書デジタル化を処理します。
+ * 🔥 [paperless-gpt](https://github.com/icereed/paperless-gpt) - ⭐ 2k / LLMとLLM Vision（OCR）を使用して、AIによって強化されたペーパーレス-ngx - 文書デジタル化を処理します。
  * ⚠️ [anon-kode](https://github.com/dnakov/anon-kode) - ⭐ invalid / 任意のLLMsでコーディング
- * 🔥 [prism](https://github.com/prism-php/prism) - ⭐ 2.3k / LaravelでLLMを操作するための統一されたインターフェース
+ * ✅ [prism](https://github.com/prism-php/prism) - ⭐ 2.3k / LaravelでLLMを操作するための統一されたインターフェース
  * 💤 [AppAgent](https://github.com/tencentqqgylab/appagent) - ⭐ 6.5k / AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。AppAgent：スマートフォンユーザーとしてのマルチモーダルエージェント、スマートフォンアプリを操作するために設計されたLLMベースのマルチモーダルエージェントフレームワーク。
  * 🔥 [openai-agents-python](https://github.com/openai/openai-agents-python) - ⭐ 19k / 軽量で強力なマルチエージェントワークフロー用のフレームワーク
- * 🔥 [ruby_llm](https://github.com/crmne/ruby_llm) - ⭐ 3.5k / AIと一緒に作業するための楽しいRubyの方法。設定の混乱も複雑なコールバックもハンドラー地獄もありません - 美しい、表現豊かなRubyコードだけです。
+ * 🔥 [ruby_llm](https://github.com/crmne/ruby_llm) - ⭐ 3.6k / AIと一緒に作業するための楽しいRubyの方法。設定の混乱も複雑なコールバックもハンドラー地獄もありません - 美しい、表現豊かなRubyコードだけです。
  * ⚠️ [anyquery](https://github.com/julien040/anyquery) - ⭐ 1.6k / SQLを使用して任意のクエリ（CSV、GitHubなど）を実行し、LLMs（ChatGPT、Claude）をこれらのアプリに接続させる
  * 💤 [openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - ⭐ 1.6k / 無料で高品質なテキスト読み上げAPIエンドポイント。OpenAI、Azure、またはElevenLabsの代わりに使用できます。
- * ⚠️ [agent](https://github.com/xataio/agent) - ⭐ 980 / PostgreSQLに精通したAIエージェント
- * ⚠️ [pearai-master](https://github.com/trypear/pearai-master) - ⭐ 717 / PearAIのマスターリポジトリ
+ * ⚠️ [agent](https://github.com/xataio/agent) - ⭐ 981 / PostgreSQLに精通したAIエージェント
+ * ⚠️ [pearai-master](https://github.com/trypear/pearai-master) - ⭐ 718 / PearAIのマスターリポジトリ
  * ⚠️ [scikit-llm](https://github.com/beastbyteai/scikit-llm) - ⭐ 3.5k / シームレスにLLMsをscikit-learnに統合します。
  * ⚠️ [hcaptcha-challenger](https://github.com/qin2dim/hcaptcha-challenger) - ⭐ 2.2k / 🥂 マルチモーダルな大規模言語モデルを使用して、優雅にhCaptchaのチャレンジに立ち向かいます。
  * 🔥 [new-api](https://github.com/quantumnous/new-api) - ⭐ 18k / AIモデルインターフェース管理および配布システムは、複数の大規模モデルを統一形式で呼び出すことをサポートし、OpenAI、Claudeなどの形式をサポートしています。個人または企業内での管理および配布チャネルに使用できます。このプロジェクトはOne APIをベースにして二次開発されています。🍥次世代のLLMゲートウェイおよびAIアセット管理システムは、複数の言語をサポートしています。
- * 🔥 [deep-research](https://github.com/u14app/deep-research) - ⭐ 4.4k / 深い研究には、どのLLM（大規模言語モデル）を使用しても構いません。
- * 🔥 [EmbedAnything](https://github.com/starlightsearch/embedanything) - ⭐ 1.2k / Rustで構築された本番向けの推論、取り込み、およびインデックス作成 🦀
- * ⚠️ [shandu](https://github.com/jolovicdev/shandu) - ⭐ repo not found / OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。
- * 🔥 [instructor](https://github.com/567-labs/instructor) - ⭐ 12k / LLMSのための構造化された出力
+ * ✅ [deep-research](https://github.com/u14app/deep-research) - ⭐ 4.4k / 深い研究には、どのLLM（大規模言語モデル）を使用しても構いません。
+ * ✅ [EmbedAnything](https://github.com/starlightsearch/embedanything) - ⭐ 1.2k / Rustで構築された本番向けの推論、取り込み、およびインデックス作成 🦀
+ * 🔥 [shandu](https://github.com/jolovicdev/shandu) - ⭐ 1 / OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。OpenAI DeepResearchの代替、複数の検索エンジンとLLMを使用して任意のトピックについて包括的かつ反復的な研究を行うAI駆動の研究システム。
+ * ✅ [instructor](https://github.com/567-labs/instructor) - ⭐ 12k / LLMSのための構造化された出力
  * 🔥 [xyne](https://github.com/xynehq/xyne) - ⭐ 657 / 仕事用のAIファースト検索＆回答エンジン。Gleanのオープンソースの代替品。
- * ⚠️ [aidermacs](https://github.com/matthewzmd/aidermacs) - ⭐ 878 / Aiderを使用したEmacsでのAIペアプログラミング
+ * ⚠️ [aidermacs](https://github.com/matthewzmd/aidermacs) - ⭐ 880 / Aiderを使用したEmacsでのAIペアプログラミング
  * 🔥 [CodeWebChat](https://github.com/robertpiosik/codewebchat) - ⭐ 1.3k / コードを使用して任意のWebチャットを初期化します。
  * 🔥 [rikkahub](https://github.com/rikkahub/rikkahub) - ⭐ 3.2k / RikkaHubは複数のLLMプロバイダーをサポートするAndroidアプリです。
- * 🔥 [Rankify](https://github.com/datascienceuibk/rankify) - ⭐ 587 / 🔥 Rankify: 検索、再ランキング、および検索増強生成のための包括的なPythonツールキット🔥。当社のツールキットは、40の事前に取得されたベンチマークデータセットを統合し、7つ以上の検索技術、24以上の最新の再ランキングモデル、および複数のサポートを提供しています。
- * ⚠️ [auto-novel](https://github.com/auto-novel/auto-novel) - ⭐ 918 / ライトノベル機械翻訳サイト、ウェブ小説/ラノベ/ローカル小説をサポート
- * ⚠️ [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - ⭐ 598 / 推論とローカルLLMsのサービングに効率的なプラットフォーム、OpenAI互換のAPIサーバーを含む。
+ * 🔥 [Rankify](https://github.com/datascienceuibk/rankify) - ⭐ 591 / 🔥 Rankify: 検索、再ランキング、および検索増強生成のための包括的なPythonツールキット🔥。当社のツールキットは、40の事前に取得されたベンチマークデータセットを統合し、7つ以上の検索技術、24以上の最新の再ランキングモデル、および複数のサポートを提供しています。
+ * ⚠️ [auto-novel](https://github.com/auto-novel/auto-novel) - ⭐ 923 / ライトノベル機械翻訳サイト、ウェブ小説/ラノベ/ローカル小説をサポート
+ * ⚠️ [candle-vllm](https://github.com/ericlbuehler/candle-vllm) - ⭐ 601 / 推論とローカルLLMsのサービングに効率的なプラットフォーム、OpenAI互換のAPIサーバーを含む。
  * 💤 [gateway](https://github.com/centralmind/gateway) - ⭐ 516 / データベース向けの汎用MCPサーバー、LLMsとAIエージェントに最適化されています。
  * 🔥 [AI-Codereview-Gitlab](https://github.com/sunmh207/ai-codereview-gitlab) - ⭐ 1.4k / 大規模モデル（DeepSeek、OpenAIなど）に基づいたGitLab自動コードレビューツール；DingTalk/企業WeChat/Feishuへのメッセージ送信と日報の生成をサポート；Dockerデプロイをサポート；可視化ダッシュボード。
- * 🔥 [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - ⭐ 631 / 単一細胞RNA-seqデータにおける正確な細胞タイプ注釈のための反復的なマルチLLMコンセンサスフレームワーク
+ * ✅ [mLLMCelltype](https://github.com/cafferychen777/mllmcelltype) - ⭐ 633 / 単一細胞RNA-seqデータにおける正確な細胞タイプ注釈のための反復的なマルチLLMコンセンサスフレームワーク
  * 🔥 [api-docs](https://github.com/aimlapi/api-docs) - ⭐ 21 / AI/ML API ドキュメントリポジトリ
- * 🔥 [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - ⭐ 412 / 全てのAIモデルを比較できるウェブサイト ✨
+ * 🔥 [ai-llm-comparison](https://github.com/ahmet-dedeler/ai-llm-comparison) - ⭐ 411 / 全てのAIモデルを比較できるウェブサイト ✨
  * ⚠️ [supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - ⭐ 1.6k / あなたの思い出はChatGPTにあります... しかし他のどこにもありません。Universal Memory MCPはあなたの思い出をすべてのLLMに利用可能にします。ログインや有料壁はありません。セットアップするための1つのコマンドだけです。
- * 🔥 [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - ⭐ 3.6k / PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット
- * 🔥 [llm.nvim](https://github.com/kurama622/llm.nvim) - ⭐ 460 / Neovim向けの無料の大規模言語モデル（LLM）サポートを提供し、LLMとのやり取りを行うコマンドを提供します（ChatGPT、ChatGLM、kimi、deepseek、openrouter、およびローカルLLMなど）。Githubモデルをサポートします。
+ * ✅ [FastDeploy](https://github.com/paddlepaddle/fastdeploy) - ⭐ 3.7k / PaddlePaddleをベースにしたLLMsとVLMs向けの高性能推論および展開ツールキット
+ * 🔥 [llm.nvim](https://github.com/kurama622/llm.nvim) - ⭐ 461 / Neovim向けの無料の大規模言語モデル（LLM）サポートを提供し、LLMとのやり取りを行うコマンドを提供します（ChatGPT、ChatGLM、kimi、deepseek、openrouter、およびローカルLLMなど）。Githubモデルをサポートします。
  * ⚠️ [2txt](https://github.com/ai-ng/2txt) - ⭐ 556 / 画像をテキストに変換、高速に。
  * ⚠️ [gpt-oss](https://github.com/openai/gpt-oss) - ⭐ 20k / gpt-oss-120bとgpt-oss-20bは、OpenAIによる2つのオープンウェイト言語モデルです。
  * 🔥 [dyad](https://github.com/dyad-sh/dyad) - ⭐ 20k / Boltの代替🌟 お気に入りの場合はスターを付けてください！
- * 🔥 [open-swe](https://github.com/langchain-ai/open-swe) - ⭐ 5.3k / オープンソースの非同期コーディングエージェント
+ * ✅ [open-swe](https://github.com/langchain-ai/open-swe) - ⭐ 5.3k / オープンソースの非同期コーディングエージェント
  * ⚠️ [VideoPipe](https://github.com/sherlockchou86/videopipe) - ⭐ 2.7k / クロスプラットフォームのビデオ構造化（ビデオ分析）フレームワーク。役立つと思ったら、星を付けてください：）跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : )
- * 🔥 [superagent](https://github.com/superagent-ai/superagent) - ⭐ 6.4k / AI用のランタイムファイアウォールは、LLMの脆弱性をリアルタイムでブロックします。
- * 🔥 [UltraRAG](https://github.com/openbmb/ultrarag) - ⭐ 5.2k / #少ないコード、#低い障壁、#高速デプロイメント！MCPベースのローコードRAGフレームワークを使用し、研究者が複雑なパイプラインを構築して創造的なイノベーションを実現します。
+ * ✅ [superagent](https://github.com/superagent-ai/superagent) - ⭐ 6.4k / AI用のランタイムファイアウォールは、LLMの脆弱性をリアルタイムでブロックします。
+ * 🔥 [UltraRAG](https://github.com/openbmb/ultrarag) - ⭐ 5.3k / #少ないコード、#低い障壁、#高速デプロイメント！MCPベースのローコードRAGフレームワークを使用し、研究者が複雑なパイプラインを構築して創造的なイノベーションを実現します。
  * 🔥 [memori](https://github.com/gibsonai/memori) - ⭐ 12k / LLMs、AIエージェント、マルチエージェントシステム向けのオープンソースメモリエンジン
- * 🔥 [dingo](https://github.com/migoxlab/dingo) - ⭐ 646 / ディンゴ：包括的なAIデータ品質評価ツール
- * ⚠️ [coderunner](https://github.com/instavm/coderunner) - ⭐ 781 / Appleコンテナを使用してLLM生成コードを実行するための安全なローカルサンドボックス
+ * ✅ [dingo](https://github.com/migoxlab/dingo) - ⭐ 647 / ディンゴ：包括的なAIデータ品質評価ツール
+ * ⚠️ [coderunner](https://github.com/instavm/coderunner) - ⭐ 784 / Appleコンテナを使用してLLM生成コードを実行するための安全なローカルサンドボックス
  * ⚠️ [whisper-playground](https://github.com/saharmor/whisper-playground) - ⭐ 833 / OpenAIのWhisperを使用してリアルタイムの音声からテキストに変換するWebアプリを構築します。
  * ⚠️ [ghostwriter](https://github.com/awwaiid/ghostwriter) - ⭐ 496 / reMarkable2をビジョン-LLMs（ChatGPT、Claude、Gemini）へのインターフェースとして使用します。機械の中の幽霊！
- * 🔥 [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - ⭐ 712 / Spring AIとSpring Bootを使用して、Generative AIとLLMsによって動作するJavaアプリケーションを構築する方法を示すサンプル。
+ * ✅ [llm-apps-java-spring-ai](https://github.com/thomasvitale/llm-apps-java-spring-ai) - ⭐ 713 / Spring AIとSpring Bootを使用して、Generative AIとLLMsによって動作するJavaアプリケーションを構築する方法を示すサンプル。
  * ⚠️ [echo](https://github.com/merit-systems/echo) - ⭐ 532 / EchoはすべてのAI API向けのボックス型の請求ソリューションです。
  * ⚠️ [aigne-doc-smith](https://github.com/aigne-io/aigne-doc-smith) - ⭐ 156 / AIGNE DocSmithは、AIGNEフレームワーク上に構築された強力なAI駆動のドキュメンテーション生成ツールです。ソースコードから詳細で構造化された多言語ドキュメンテーションを自動生成します。
- * 💤 [mcp-hub](https://github.com/ravitemer/mcp-hub) - ⭐ 438 / モデルコンテキストプロトコル（MCP）サーバーのための集中管理者、動的サーバー管理および監視
+ * 💤 [mcp-hub](https://github.com/ravitemer/mcp-hub) - ⭐ 440 / モデルコンテキストプロトコル（MCP）サーバーのための集中管理者、動的サーバー管理および監視
  * ⚠️ [MineContext](https://github.com/volcengine/minecontext) - ⭐ 5k / MineContextは、あなたの積極的なコンテキスト認識AIパートナーです（コンテキストエンジニアリング+ChatGPT Pulse）
- * ⚠️ [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - ⭐ 372 / 「大規模言語モデルのクイックスタートガイド」の公式レポ。
- * 🔥 [vizra-adk](https://github.com/vizra-ai/vizra-adk) - ⭐ 287 / Laravelの方法で知的AIエージェントを構築、テスト、展開します。
- * 🔥 [Webscout](https://github.com/pyscout/webscout) - ⭐ 323 / Webscoutは必要なすべての検索とAIツールキットです。Yep.com、DuckDuckGo、Phindで洞察を発見し、最先端のAIモデルにアクセスし、YouTubeビデオを転記し、一時的なメールアドレスや電話番号を生成し、テキストを音声に変換し、
- * ⚠️ [surf](https://github.com/e2b-dev/surf) - ⭐ 708 / サーフは、OpenAIによって動力を供給されたAIエージェントを使用するコンピュータで、自然言語の指示を介してE2Bの仮想デスクトップ環境とやり取りします。
+ * ⚠️ [quick-start-guide-to-llms](https://github.com/sinanuozdemir/quick-start-guide-to-llms) - ⭐ 373 / 「大規模言語モデルのクイックスタートガイド」の公式レポ。
+ * ✅ [vizra-adk](https://github.com/vizra-ai/vizra-adk) - ⭐ 286 / Laravelの方法で知的AIエージェントを構築、テスト、展開します。
+ * 🔥 [Webscout](https://github.com/pyscout/webscout) - ⭐ 325 / Webscoutは必要なすべての検索とAIツールキットです。Yep.com、DuckDuckGo、Phindで洞察を発見し、最先端のAIモデルにアクセスし、YouTubeビデオを転記し、一時的なメールアドレスや電話番号を生成し、テキストを音声に変換し、
+ * ⚠️ [surf](https://github.com/e2b-dev/surf) - ⭐ 712 / サーフは、OpenAIによって動力を供給されたAIエージェントを使用するコンピュータで、自然言語の指示を介してE2Bの仮想デスクトップ環境とやり取りします。
  * ⚠️ [unify](https://github.com/unifyai/unify) - ⭐ repo not found / AIオブザーバビリティのためのノーション 📊
  * ⚠️ [llms-tools](https://github.com/petroivaniuk/llms-tools) - ⭐ 300 / LLMsツールとプロジェクトのリスト
- * 🔥 [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - ⭐ 746 / Azure AI Foundry（デモ、ドキュメント、アクセラレーター）。
- * 🔥 [OpenMemory](https://github.com/caviraoss/openmemory) - ⭐ 3.3k / AIに長期記憶を数分で追加します。セルフホスト、オープン、フレームワーク不要。
+ * 🔥 [Azure-AIGEN-demos](https://github.com/retkowsky/azure-aigen-demos) - ⭐ 747 / Azure AI Foundry（デモ、ドキュメント、アクセラレーター）。
+ * 🔥 [OpenMemory](https://github.com/caviraoss/openmemory) - ⭐ 3.4k / AIに長期記憶を数分で追加します。セルフホスト、オープン、フレームワーク不要。
  * 🔥 [surf](https://github.com/deta/surf) - ⭐ 3.2k / 個人用AIノートブック。ファイルやウェブページを整理し、それらからノートを生成します。オープンソースで、ローカル＆オープンデータ、オープンモデルの選択（ローカルを含む）。
- * 🔥 [voltagent](https://github.com/voltagent/voltagent) - ⭐ 6k / 組み込みLLM観測機能を備えたオープンソースTypeScript AIエージェントフレームワーク
- * 🔥 [pipelex](https://github.com/pipelex/pipelex) - ⭐ 615 / Pipelex: AIエージェントが繰り返し可能なAIワークフローを作成および実行するためのオープンソース言語
- * 🔥 [rowboat](https://github.com/rowboatlabs/rowboat) - ⭐ 7.6k / AIパワードマルチエージェントビルダー
+ * 🔥 [voltagent](https://github.com/voltagent/voltagent) - ⭐ 6.1k / 組み込みLLM観測機能を備えたオープンソースTypeScript AIエージェントフレームワーク
+ * ✅ [pipelex](https://github.com/pipelex/pipelex) - ⭐ 617 / Pipelex: AIエージェントが繰り返し可能なAIワークフローを作成および実行するためのオープンソース言語
+ * 🔥 [rowboat](https://github.com/rowboatlabs/rowboat) - ⭐ 8.3k / AIパワードマルチエージェントビルダー
  * ⚠️ [RAGLight](https://github.com/bessouat40/raglight) - ⭐ 638 / RAGLightは、Retrieval-Augmented Generation（RAG）のためのモジュラーフレームワークです。異なるLLMs、埋め込み、ベクトルストアを簡単に接続できるようになっており、外部ツールやデータソースとのシームレスなMCP統合も含まれています。
- * 🔥 [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ⭐ 754 / Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。
- * 🔥 [oracle](https://github.com/steipete/oracle) - ⭐ 1.5k / 行き詰まったときはオラクルに尋ねてみてください。カスタムコンテキストとファイルを使用してGPT-5 Proを呼び出します。
- * 🔥 [edsl](https://github.com/expectedparrot/edsl) - ⭐ 428 / AIを活用した調査や実験の設計、実施、結果の分析を行います。大量のAIエージェントやLLMを用いて社会科学やマーケットリサーチをシミュレートします。
+ * 🔥 [deepwiki-rs](https://github.com/sopaco/deepwiki-rs) - ⭐ 760 / Rustで構築されたAIパワードのオープンソースのdeepwikiジェネレーター - あなたのコードベースを数分でプロのアーキテクチャドキュメントに変換します。
+ * ✅ [oracle](https://github.com/steipete/oracle) - ⭐ 1.5k / 行き詰まったときはオラクルに尋ねてみてください。カスタムコンテキストとファイルを使用してGPT-5 Proを呼び出します。
+ * 🔥 [edsl](https://github.com/expectedparrot/edsl) - ⭐ 433 / AIを活用した調査や実験の設計、実施、結果の分析を行います。大量のAIエージェントやLLMを用いて社会科学やマーケットリサーチをシミュレートします。
  * 🔥 [Acontext](https://github.com/memodb-io/acontext) - ⭐ 3k / エージェントが情報を保存、観察、学習するための1つの場所。自己学習エージェント向けのコンテキストデータプラットフォームで、コンテキストエンジニアリングを簡素化し、エージェントの信頼性とタスク成功率を向上させることを目的として設計されています。
- * ⚠️ [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 293 / AIとAzure SQL DBを使用したサンプル
- * 🔥 [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 237 / Go言語でのマルチエージェントワークフロー向けの軽量でパワフルなフレームワーク
- * 🔥 [OpenArc](https://github.com/searchsavior/openarc) - ⭐ 316 / インテルデバイス向けの推論エンジン。OpenAIエンドポイント上でLLMs、VLMs、Whisper、Kokoro-TTS、埋め込み、および再ランクモデルを提供します。
- * 🔥 [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - ⭐ 899 / オープンソースの漫画翻訳ツールで、manga-image-translatorのコアエンジンをベースに開発されています。日本の漫画、韓国の漫画、アメリカの漫画の自動翻訳をサポートし、OpenAI、Geminiなどの5つの翻訳エンジンを提供しています。ビジュアルエディターを内蔵し、テキストボックスやスタイルを自由に調整できます。ワンクリックインストールスクリプトで環境の自動設定と更新をサポートし、パッケージ化されたバージョンはすぐに使用できます。このプロジェクトが役立つ場合は、⭐スターをお願いします！
- * 🔥 [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ⭐ 32k / 非同期サブエージェント（クロードコードのようなYES）· 適切なモデルを持つキュレーションされたエージェント · LSP/ASTなどの作成されたツールを含む · キュレーションされたMCPs · クロードコード互換レイヤー — あなたのOpenCodeのためのステロイド。最高のLLMエージェント体験がここにあります。OmO（Oh-Moと発音します）
- * ⚠️ [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - ⭐ 253 / SpringAI、LLM、MCP、埋め込み春AI、LLM、MCP、埋め込み
+ * ⚠️ [SQL-AI-samples](https://github.com/azure-samples/sql-ai-samples) - ⭐ 297 / AIとAzure SQL DBを使用したサンプル
+ * ✅ [openai-agents-go](https://github.com/nlpodyssey/openai-agents-go) - ⭐ 237 / Go言語でのマルチエージェントワークフロー向けの軽量でパワフルなフレームワーク
+ * 🔥 [OpenArc](https://github.com/searchsavior/openarc) - ⭐ 319 / インテルデバイス向けの推論エンジン。OpenAIエンドポイント上でLLMs、VLMs、Whisper、Kokoro-TTS、埋め込み、および再ランクモデルを提供します。
+ * 🔥 [manga-translator-ui](https://github.com/hgmzhn/manga-translator-ui) - ⭐ 930 / オープンソースの漫画翻訳ツールで、manga-image-translatorのコアエンジンをベースに開発されています。日本の漫画、韓国の漫画、アメリカの漫画の自動翻訳をサポートし、OpenAI、Geminiなどの5つの翻訳エンジンを提供しています。ビジュアルエディターを内蔵し、テキストボックスやスタイルを自由に調整できます。ワンクリックインストールスクリプトで環境の自動設定と更新をサポートし、パッケージ化されたバージョンはすぐに使用できます。このプロジェクトが役立つ場合は、⭐スターをお願いします！
+ * 🔥 [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - ⭐ 33k / 非同期サブエージェント（クロードコードのようなYES）· 適切なモデルを持つキュレーションされたエージェント · LSP/ASTなどの作成されたツールを含む · キュレーションされたMCPs · クロードコード互換レイヤー — あなたのOpenCodeのためのステロイド。最高のLLMエージェント体験がここにあります。OmO（Oh-Moと発音します）
+ * ⚠️ [spring-ai-summary](https://github.com/java-ai-tech/spring-ai-summary) - ⭐ 254 / SpringAI、LLM、MCP、埋め込み春AI、LLM、MCP、埋め込み
  * ⚠️ [DocTranslator](https://github.com/mingchen666/doctranslator) - ⭐ 241 / DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！DocTranslatorは、複数のファイル形式、OpenAI API、バッチ処理、マルチスレッド、および効率的な翻訳タスクのためのDockerデプロイメントをサポートする強力なドキュメントAI翻訳ツールです！
- * 🔥 [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - ⭐ 312 / スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。
- * 🔥 [pasteguard](https://github.com/sgasser/pasteguard) - ⭐ 505 / LLMs用のプライバシープロキシ - 上流に送信する前にPIIと秘密をマスクするか、ローカルLLMにルーティングします。OpenAI APIと互換性があります。
- * 🔥 [BurstGPT](https://github.com/hpmll/burstgpt) - ⭐ 239 / LLMサービングシステムを最適化するためのChatGPT（GPT-3.5）＆GPT-4のワークロードトレース
- * 🔥 [llmgateway](https://github.com/theopenco/llmgateway) - ⭐ 881 / 複数のプロバイダー間で統一されたAPIインターフェースを使用して、LLMリクエストをルート、管理、および分析します。
- * 🔥 [zypher-agent](https://github.com/corespeed-io/zypher-agent) - ⭐ 452 / ツール、プロバイダー、および実行フローに完全な制御を持つAIエージェントを作成するための最小限でありながら強力なフレームワーク。
- * ⚠️ [XianTu](https://github.com/qianye60/xiantu) - ⭐ 236 / 「Immortal Path」は、Vue 3 + TypeScript + FastapiをベースにしたAI駆動の没入型栽培テキストアドベンチャーゲームで、Gemini/Claude/OpenAIなど複数のAIモデルをサポートしています。
- * 🔥 [convoviz](https://github.com/mohamed-chs/convoviz) - ⭐ 825 / ChatGPTエクスポート（ZIP）をクリーンなMarkdownテキストファイルに変換し、インラインメディアを含め、ワードクラウドや使用グラフなどのデータ可視化を生成します。
- * 🔥 [Dayflow](https://github.com/jerryzliu/dayflow) - ⭐ 5.7k / 自動的に1日のタイムラインを生成します。
- * 🔥 [sdk-typescript](https://github.com/strands-agents/sdk-typescript) - ⭐ 471 / コード数行でAIエージェントを構築するモデル駆動アプローチ。
- * 🔥 [ClawRouter](https://github.com/blockrunai/clawrouter) - ⭐ 2.8k / スマートLLMルーター-推論コストを78%節約。30以上のモデル、1つのウォレット、x402のマイクロペイメント。
- * [nodetool](https://github.com/nodetool-ai/nodetool) - AIワークフローとエージェントのためのビジュアルビルダー
- * [IIMS-By-AI](https://github.com/aitenry/iims-by-ai) - AIを活用したインテリジェントな情報管理プラットフォーム
- * [cascadeflow](https://github.com/lemony-ai/cascadeflow) - コスト最適化のためのスマートAIモデルのカスケード化
+ * 🔥 [open-computer-use](https://github.com/llmhub-dev/open-computer-use) - ⭐ 326 / スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。
+ * 🔥 [pasteguard](https://github.com/sgasser/pasteguard) - ⭐ 511 / LLMs用のプライバシープロキシ - 上流に送信する前にPIIと秘密をマスクするか、ローカルLLMにルーティングします。OpenAI APIと互換性があります。
+ * ✅ [BurstGPT](https://github.com/hpmll/burstgpt) - ⭐ 241 / LLMサービングシステムを最適化するためのChatGPT（GPT-3.5）＆GPT-4のワークロードトレース
+ * 🔥 [llmgateway](https://github.com/theopenco/llmgateway) - ⭐ 904 / 複数のプロバイダー間で統一されたAPIインターフェースを使用して、LLMリクエストをルート、管理、および分析します。
+ * ✅ [zypher-agent](https://github.com/corespeed-io/zypher-agent) - ⭐ 445 / ツール、プロバイダー、および実行フローに完全な制御を持つAIエージェントを作成するための最小限でありながら強力なフレームワーク。
+ * 🔥 [XianTu](https://github.com/qianye60/xiantu) - ⭐ 240 / 「Immortal Path」は、Vue 3 + TypeScript + FastapiをベースにしたAI駆動の没入型栽培テキストアドベンチャーゲームで、Gemini/Claude/OpenAIなど複数のAIモデルをサポートしています。
+ * 🔥 [convoviz](https://github.com/mohamed-chs/convoviz) - ⭐ 828 / ChatGPTエクスポート（ZIP）をクリーンなMarkdownテキストファイルに変換し、インラインメディアを含め、ワードクラウドや使用グラフなどのデータ可視化を生成します。
+ * 🔥 [Dayflow](https://github.com/jerryzliu/dayflow) - ⭐ 5.8k / 自動的に1日のタイムラインを生成します。
+ * 🔥 [sdk-typescript](https://github.com/strands-agents/sdk-typescript) - ⭐ 475 / コード数行でAIエージェントを構築するモデル駆動アプローチ。
+ * 🔥 [ClawRouter](https://github.com/blockrunai/clawrouter) - ⭐ 3.3k / スマートLLMルーター-推論コストを78%節約。30以上のモデル、1つのウォレット、x402のマイクロペイメント。
+ * 🔥 [nodetool](https://github.com/nodetool-ai/nodetool) - ⭐ 263 / AIワークフローとエージェントのためのビジュアルビルダー
+ * 🔥 [IIMS-By-AI](https://github.com/aitenry/iims-by-ai) - ⭐ 505 / AIを活用したインテリジェントな情報管理プラットフォーム
+ * 🔥 [cascadeflow](https://github.com/lemony-ai/cascadeflow) - ⭐ 257 / コスト最適化のためのスマートAIモデルのカスケード化
+ * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent: メモリ、ツール、思考の木を備えた軽量AIエージェントフレームワーク。マルチエージェントの協力、自己学習、主要なLLMs（OpenAI/DeepSeek/Qwen）をサポート。MCP/SSEプロトコル統合を備えたオープンソース。
+ * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRouteは、マルチプロバイダーLLM向けのAIゲートウェイです。スマートルーティング、ロードバランシング、リトライ、フォールバックを備えたOpenAI互換のエンドポイントです。信頼性とコスト意識の推論のためにポリシー、レート制限、キャッシング、および可観測性を追加してください。
 
 
 ## Langchain
@@ -1619,11 +1619,11 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [gptuber-by-langchain](https://github.com/karakuri-ai/gptuber-by-langchain) - ⭐ 63 / GPTがYouTuberをやります
  * 💤 [intelgpt](https://github.com/phishing-hunter/intelgpt) - ⭐ 17 / IntelGPTは、GPT3を使用して、URL、ファイルハッシュ、ドメイン名、IPアドレスなどの特定の入力を調べることができるコマンドラインツールです。
  * 💤 [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - ⭐ 291 / GPTや他の言語モデルを使用して、すべての情報源から知識を抽出します。情報源をインデックス化し、Q&Aセッションを作成します。
- * 💤 [llama_index_starter_pack](https://github.com/logan-markewich/llama_index_starter_pack) - ⭐ 632 / このリポジトリは、llama_index（以前はgpt_indexと呼ばれていました）パッケージの非常に基本的なflask、streamlit、およびdockerの例を提供しています。
+ * 💤 [llama_index_starter_pack](https://github.com/logan-markewich/llama_index_starter_pack) - ⭐ 633 / このリポジトリは、llama_index（以前はgpt_indexと呼ばれていました）パッケージの非常に基本的なflask、streamlit、およびdockerの例を提供しています。
  * 🔥 [xturing](https://github.com/stochasticai/xturing) - ⭐ 2.7k / 自分自身のLLMsを構築し、制御してください。
  * 💤 [llama-int8](https://github.com/tloen/llama-int8) - ⭐ 1k / LLaMAモデルの量子化推論コード
  * 💤 [point-alpaca](https://github.com/pointnetwork/point-alpaca) - ⭐ 404 / 私たちは再現されたスタンフォードアルパカ7bから私たちの重みを解放します-合成指示データセットで微調整されたラマ。それは驚くほど良いです：（以下の結果は、最小の7bモデルからのものであることに注意してください。GPT-3は175bです）
- * 💤 [agentchain](https://github.com/jina-ai/agentchain) - ⭐ 610 / 複雑なタスクを達成するために、推論のためにLLMを連鎖させ、複数の大規模モデルをオーケストレーションします。
+ * 💤 [agentchain](https://github.com/jina-ai/agentchain) - ⭐ 611 / 複雑なタスクを達成するために、推論のためにLLMを連鎖させ、複数の大規模モデルをオーケストレーションします。
  * 💤 [llm-strategy](https://github.com/blackhc/llm-strategy) - ⭐ 402 / PythonをLLMsに直接接続する - データクラス＆インターフェース<->LLMs
  * 💤 [llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - ⭐ 10k / llama.cppのPythonバインディング
  * 💤 [basaran](https://github.com/hyperonym/basaran) - ⭐ 1.3k / Basaranは、OpenAIテキスト補完APIのオープンソースの代替品です。Hugging Face Transformersベースのテキスト生成モデルに対して互換性のあるストリーミングAPIを提供します。
@@ -1639,37 +1639,37 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 🔥 [langflow](https://github.com/logspace-ai/langflow) - ⭐ 145k / ⛓️ LangFlowはLangChainのためのUIで、react-flowで設計されており、フローを実験しプロトタイプを作成するための簡単な方法を提供します。
  * 💤 [gpt4all-ts](https://github.com/nomic-ai/gpt4all-ts) - ⭐ 397 / gpt4allとllamaのTypeScriptバインディング
  * 💤 [pyllamacpp](https://github.com/nomic-ai/pyllamacpp) - ⭐ 1k / llama.cppとgpt4allの公式サポートされたPythonバインディング
- * 🔥 [llama.cpp](https://github.com/ggerganov/llama.cpp) - ⭐ 95k / C/C++でのFacebookのLLaMAモデルのポート
+ * 🔥 [llama.cpp](https://github.com/ggerganov/llama.cpp) - ⭐ 96k / C/C++でのFacebookのLLaMAモデルのポート
  * 💤 [dalai](https://github.com/cocktailpeanut/dalai) - ⭐ 13k / ローカルマシンでLLaMAを実行する最も簡単な方法
  * 💤 [GenAI_LLM_timeline](https://github.com/hollobit/genai_llm_timeline) - ⭐ 954 / ChatGPT、GenerativeAI、LLMsのタイムライン
  * 💤 [open_llama](https://github.com/openlm-research/open_llama) - ⭐ 7.5k / OpenLLamaは、Meta AIのLLaMAの許可を得たオープンソースの再現版です。🦙「OpenLLaMAは、多くのタスクにおいてオリジナルのLLaMAやGPT-Jと同等の性能を発揮し、一部のタスクではそれらを上回る性能を発揮します。」👀
- * 💤 [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - ⭐ 185 / 私の現在の探求：PyCodeAGI、@LangChainAI #AIAgentは、目的に応じてPythonコンソールアプリを構築するもので、@OpenAI #GPT4との超能力を手に入れました。 「魔法のアプリ」を構築するように依頼したところ、創造的なものが構築されました。エラーは一つもありませんでした...
+ * 💤 [pyCodeAGI](https://github.com/chakkaradeep/pycodeagi) - ⭐ 184 / 私の現在の探求：PyCodeAGI、@LangChainAI #AIAgentは、目的に応じてPythonコンソールアプリを構築するもので、@OpenAI #GPT4との超能力を手に入れました。 「魔法のアプリ」を構築するように依頼したところ、創造的なものが構築されました。エラーは一つもありませんでした...
  * 💤 [Multimodal-GPT](https://github.com/open-mmlab/multimodal-gpt) - ⭐ 1.5k / マルチモーダル-GPT
- * 💤 [snowChat](https://github.com/kaarthik108/snowchat) - ⭐ 548 / あなたのスノーフレークデータベースでチャット - テキストからSQLへ
- * 🔥 [DB-GPT](https://github.com/csunny/db-gpt) - ⭐ 18k / ローカルGPTを使用して、データと環境をインタラクトし、データ漏洩なし、100％プライバシー、100％セキュリティを実現します。
+ * 💤 [snowChat](https://github.com/kaarthik108/snowchat) - ⭐ 549 / あなたのスノーフレークデータベースでチャット - テキストからSQLへ
+ * ✅ [DB-GPT](https://github.com/csunny/db-gpt) - ⭐ 18k / ローカルGPTを使用して、データと環境をインタラクトし、データ漏洩なし、100％プライバシー、100％セキュリティを実現します。
  * 💤 [LaWGPT](https://github.com/pengxiao-song/lawgpt) - ⭐ 6k / 🎉 LaWGPTのためのリポジトリ、中国法律知識に調整された中国ラマ。中文法律知識に基づく大規模言語モデル。
  * 💤 [InternGPT](https://github.com/opengvlab/interngpt) - ⭐ 3.2k / InternGPT（iGPT）は、AIモデルを簡単に展示できるオープンソースのデモプラットフォームです。現在、DragGAN、ChatGPT、ImageBind、GPT-4のようなマルチモーダルチャット、SAM、インタラクティブな画像編集などをサポートしています。igpt.opengvlab.comでお試しください。
- * 🔥 [chainlit](https://github.com/chainlit/chainlit) - ⭐ 12k / 数分でPython LLMアプリを構築する ⚡️
+ * ✅ [chainlit](https://github.com/chainlit/chainlit) - ⭐ 12k / 数分でPython LLMアプリを構築する ⚡️
  * 🔥 [Flowise](https://github.com/flowiseai/flowise) - ⭐ 49k / LangchainJSを使用してカスタマイズされたLLMフローを構築するためのドラッグ＆ドロップUI
  * 💤 [semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - ⭐ 762 / テキストファイルをベクトルに埋め込み、Pineconeに保存し、Next.js UIでGPT3とLangchainを使用して意味検索を可能にします。
  * 💤 [redpajama.cpp](https://github.com/togethercomputer/redpajama.cpp) - ⭐ 118 / 元のllama.cppリポジトリを拡張して、redpajamaモデルをサポートするようにしてください。
  * ⚠️ [OgbujiPT](https://github.com/uogbuji/ogbujipt) - ⭐ 115 / langchainやその他の手段を通じて、自己ホストされた大規模言語モデルを使用するためのツールキット
- * 💤 [godot-dodo](https://github.com/minosvasilias/godot-dodo) - ⭐ 565 / GDScript生成のための大規模言語モデルのファインチューニング。
+ * 💤 [godot-dodo](https://github.com/minosvasilias/godot-dodo) - ⭐ 567 / GDScript生成のための大規模言語モデルのファインチューニング。
  * 💤 [eva](https://github.com/georgia-tech-db/eva) - ⭐ 2.7k / よりシンプルで高速なAI搭載アプリケーションを構築するためのデータベースシステム
- * 💤 [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - ⭐ 662 / 挺好奇ChatGPT那种流式出力、頑張ってPythonのLangChainを使って実装しました。コンソールとWeb3アプリケーションの非同期の流れるような出力をカバーしています。Pythonの非同期プログラミングはまだ深く学ぶ必要があります🧐コード👇ビデオ共有👇bilibili:   #LangChain #ChatGPT #OpenAI
+ * 💤 [LangChain-Tutorials](https://github.com/sugarforever/langchain-tutorials) - ⭐ 663 / 挺好奇ChatGPT那种流式出力、頑張ってPythonのLangChainを使って実装しました。コンソールとWeb3アプリケーションの非同期の流れるような出力をカバーしています。Pythonの非同期プログラミングはまだ深く学ぶ必要があります🧐コード👇ビデオ共有👇bilibili:   #LangChain #ChatGPT #OpenAI
  * 💤 [chat-efficient](https://github.com/coefficientsystems/chat-efficient) - ⭐ 34 / Streamlit、LangChain、オープンソースのLLMsを使用したDIY ChatGPT
  * 💤 [gpt-producer](https://github.com/juankysoriano/gpt-producer) - ⭐ 32 / 「GPT-Producer」をご紹介します。デジタルピアノ、@OpenAI APIキー、そして#GPUを持って、アーティストになりましょう！ #musicgen #audiocraft #gpt @LangChainAI @MetaAI は、この可能性を実現するためのツールです！
- * 🔥 [MedicalGPT](https://github.com/shibing624/medicalgpt) - ⭐ 4.8k / MedicalGPT: ChatGPTトレーニングパイプラインを使用して独自の医療GPTモデルをトレーニングする。二次プレトレーニング、教師あり微調整、報酬モデリング、強化学習トレーニングを含む。
+ * ✅ [MedicalGPT](https://github.com/shibing624/medicalgpt) - ⭐ 4.8k / MedicalGPT: ChatGPTトレーニングパイプラインを使用して独自の医療GPTモデルをトレーニングする。二次プレトレーニング、教師あり微調整、報酬モデリング、強化学習トレーニングを含む。
  * 💤 [rag-stack](https://github.com/psychic-api/rag-stack) - ⭐ 1.5k / 🤖 VPC内にホストされたプライベートなChatGPTの代替を展開します。🔮 組織の知識ベースに接続し、企業のオラクルとして使用します。Llama 2、Falcon、GPT4AllなどのオープンソースのLLMをサポートしています。
- * 🔥 [opencompass](https://github.com/internlm/opencompass) - ⭐ 6.7k / OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
+ * ✅ [opencompass](https://github.com/internlm/opencompass) - ⭐ 6.7k / OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
  * 💤 [dolphin](https://github.com/kaleido-lab/dolphin) - ⭐ 256 / LLMを基にした一般的なビデオ対話プラットフォーム、Video ChatGPTを含む。
  * 💤 [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - ⭐ 2.5k / オープンAIスタイルAPIは、チャットGPTと同様にLLM（Large Language Models）を使用して、オープンな大規模言語モデルを開くための統一されたバックエンドインターフェースです。
  * ⚠️ [AtomGPT](https://github.com/atomecho/atomgpt) - ⭐ repo not found / 中英文の事前トレーニング済みモデルは、ChatGPTと同じレベルを目指しています。
- * 🔥 [litellm](https://github.com/berriai/litellm) - ⭐ 36k / OpenAI、Azure、Cohere、Anthropic APIエンドポイントを呼び出すためのシンプルで軽量なパッケージ
+ * 🔥 [litellm](https://github.com/berriai/litellm) - ⭐ 37k / OpenAI、Azure、Cohere、Anthropic APIエンドポイントを呼び出すためのシンプルで軽量なパッケージ
  * 💤 [BayLing](https://github.com/ictnlp/bayling) - ⭐ 319 / 「百聆」は、LLaMAに基づいた言語アライメント強化型の英語/中国語の大規模言語モデルであり、英語/中国語の能力に優れており、多言語や一般的なタスクなどのさまざまなテストでChatGPTの90%の性能を発揮します。BayLingは、英語/中国語のLLMであり、高度な言語アライメントを備えており、英語/中国語の生成、指示の追跡、マルチターンの対話において優れた能力を示します。
- * 💤 [auto-news](https://github.com/finaldie/auto-news) - ⭐ 834 / 複数のソースから情報を収集する個人用ニュースアグリゲータ+ LLM（LangChain経由のChatGPT）による効率的な読書支援（ノイズを減らす）、ソースにはツイート、RSS、YouTube、ウェブ記事、Reddit、個人のジャーナルノートが含まれます。
+ * 💤 [auto-news](https://github.com/finaldie/auto-news) - ⭐ 835 / 複数のソースから情報を収集する個人用ニュースアグリゲータ+ LLM（LangChain経由のChatGPT）による効率的な読書支援（ノイズを減らす）、ソースにはツイート、RSS、YouTube、ウェブ記事、Reddit、個人のジャーナルノートが含まれます。
  * 💤 [Zhongjing](https://github.com/suprityoung/zhongjing) - ⭐ 385 / 大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされた、LLaMaベースの中国医学のChatGPT。LLaMaをベースにした中国医学のChatGPTは、大規模な事前学習コーパスとマルチターンの対話データセットからトレーニングされています。
- * 🔥 [opencompass](https://github.com/open-compass/opencompass) - ⭐ 6.7k / OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
+ * ✅ [opencompass](https://github.com/open-compass/opencompass) - ⭐ 6.7k / OpenCompassは、50以上のデータセットに対応し、LLM評価プラットフォームです。さまざまなモデル（LLaMA、LLaMa2、ChatGLM2、ChatGPT、Claudeなど）をサポートしています。
  * 💤 [gradioGPT](https://github.com/francescosaveriozuppichini/gradiogpt) - ⭐ 36 / GradioとLangchainを使用した、次のChatGPTアプリのための簡単にハッキングできるテンプレート。
  * 💤 [FindTheChatGPTer](https://github.com/chenking2020/findthechatgpter) - ⭐ 2k / ChatGPTが大人気で、AGIへの鍵となる重要な一歩を踏み出しました。このプロジェクトは、ChatGPTのオープンソースの代替品、テキストモデル、マルチモーダルモデルなどをまとめ、皆さんに便利を提供することを目的としています。
  * ⚠️ [gpt_academic](https://github.com/binary-husky/gpt_academic) - ⭐ 70k / ChatGPT/GLMのための実用的なインタラクティブなインターフェースを提供し、論文の読み込み/校正/執筆の体験を特に最適化し、モジュール化されたデザインで、カスタムショートカットボタンと関数プラグインをサポートし、PythonやC++などのプロジェクトの解析と自動翻訳機能をサポートし、PDF/LaTex論文の翻訳と要約機能を提供し、さまざまなLLMモデルの並列問い合わせをサポートし、chatglm2などのローカルモデルにも対応しています。文心一言、moss、llama2、rwkv、claude2、通義千問、書生、讯飞星火などと互換性があります。
@@ -1678,7 +1678,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 🔥 [langchain4j](https://github.com/langchain4j/langchain4j) - ⭐ 11k / LangChainのJavaバージョン
  * 💤 [llm-chain](https://github.com/sobelio/llm-chain) - ⭐ 1.6k / 「llm-chain」は、大規模な言語モデルでチェーンを構築するための強力なRustのクレートであり、テキストの要約や複雑なタスクの完了が可能です。
  * 🔥 [langroid](https://github.com/langroid/langroid) - ⭐ 3.9k / マルチエージェントプログラミングでLLMsを活用する
- * 🔥 [EasyEdit](https://github.com/zjunlp/easyedit) - ⭐ 2.7k / LLM向けの使いやすい知識編集フレームワーク。
+ * ✅ [EasyEdit](https://github.com/zjunlp/easyedit) - ⭐ 2.7k / LLM向けの使いやすい知識編集フレームワーク。
  * 🔥 [llama_index](https://github.com/run-llama/llama_index) - ⭐ 47k / LlamaIndex（旧GPT Index）は、LLMアプリケーションのためのデータフレームワークです。
  * 💤 [Alpaca-CoT](https://github.com/phoebussi/alpaca-cot) - ⭐ 2.8k / 私たちは、指示調整データ（例：CoTデータ）、複数のLLM、およびパラメータ効率の良い手法（例：lora、p-tuning）のインターフェースを統一し、簡単に使用できるようにしました。私たちはオープンソースの愛好家に、このリポジトリで意義のあるPRを開始し、できるだけ多くのLLM関連技術を統合することを歓迎します。
  * 💤 [azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - ⭐ 1.4k / Azure OpenAIサービスプロキシ。OpenAI公式APIリクエストをAzure OpenAI APIリクエストに変換します。GPT-4、Embeddings、Langchainをサポートします。OpenAIからAzure OpenAIへのアダプター。
@@ -1686,104 +1686,104 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [GPTRouter](https://github.com/writesonic/gptrouter) - ⭐ 456 / 複数のLLM（OpenAI、Anthropic、Azure）と画像モデル（Dall-E、SDXL）をスムーズに管理し、応答速度を向上させ、中断のない信頼性を確保します。
  * 💤 [dr-doc-search](https://github.com/namuan/dr-doc-search) - ⭐ 599 / 本と対話する - GPT-3で作成された本と対話する - GPT-3で作成された
  * 💤 [talk-codebase](https://github.com/rsaryev/talk-codebase) - ⭐ 512 / OpenAI、LlamaCpp、およびGPT-4-Allを使用して、コードベースとドキュメントとチャットするためのツール
- * ⚠️ [LLPhant](https://github.com/theodo-group/llphant) - ⭐ 1.4k / LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。LangchainとLLamaIndexに触発されました。
+ * 🔥 [LLPhant](https://github.com/theodo-group/llphant) - ⭐ 1.4k / LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。LangchainとLLamaIndexに触発されました。
  * 💤 [Auto-Llama-cpp](https://github.com/rhohndorf/auto-llama-cpp) - ⭐ 385 / Llama.cppを使用したAuto-GPT
- * 💤 [entaoai](https://github.com/akshata29/entaoai) - ⭐ 867 / 自分のデータでチャットや質問を行う。自社のデータを迅速にアップロードし、OpenAIのサービスを使用してそのアップロードされたデータとチャットし、質問をするためのアクセラレータ。
+ * 💤 [entaoai](https://github.com/akshata29/entaoai) - ⭐ 868 / 自分のデータでチャットや質問を行う。自社のデータを迅速にアップロードし、OpenAIのサービスを使用してそのアップロードされたデータとチャットし、質問をするためのアクセラレータ。
  * 🔥 [kani](https://github.com/zhudotexe/kani) - ⭐ 597 / kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）kani（カニ）は、ツールの使用/関数の呼び出しを備えたチャットベースの言語モデルのための高度にハッキング可能なマイクロフレームワークです。（NLP-OSS @ EMNLP 2023）
- * 💤 [PIXIU](https://github.com/chancefocus/pixiu) - ⭐ 830 / このリポジトリでは、初の金融向け大規模言語モデル（LLM）、調整データ、評価基準を紹介するオープンソースのリソース「PIXIU」を紹介しています。私たちの目標は、金融LLMを包括的に評価するために、常に前進し続けることです。
- * 🔥 [open-webui](https://github.com/open-webui/open-webui) - ⭐ 124k / Ollama用のChatGPTスタイルWebUI（以前のOllama WebUI）Ollama用ChatGPTスタイルWebUI（以前のOllama WebUI）
+ * 💤 [PIXIU](https://github.com/chancefocus/pixiu) - ⭐ 831 / このリポジトリでは、初の金融向け大規模言語モデル（LLM）、調整データ、評価基準を紹介するオープンソースのリソース「PIXIU」を紹介しています。私たちの目標は、金融LLMを包括的に評価するために、常に前進し続けることです。
+ * 🔥 [open-webui](https://github.com/open-webui/open-webui) - ⭐ 125k / Ollama用のChatGPTスタイルWebUI（以前のOllama WebUI）Ollama用ChatGPTスタイルWebUI（以前のOllama WebUI）
  * 💤 [CareGPT](https://github.com/wangrongsheng/caregpt) - ⭐ 1k / 🌞 CareGPT（关怀GPT）は、医療向けの大規模言語モデルであり、数十の公開データセットとオープンソースの医療大規模言語モデルを組み合わせています。LLMのトレーニング、評価、展開などを含む医療LLMの迅速な発展を促進するために使用されています。Medical LLM、健康な未来のためのオープンソース。
- * 💤 [PIXIU](https://github.com/the-finai/pixiu) - ⭐ 830 / このリポジトリは、初の金融向け大規模言語モデル（LLM）、インストラクションチューニングデータ、評価ベンチマークを特徴とするオープンソースリソースであるPIXIUを紹介しています。私たちの目標は、オープンを常に前進させることです。
+ * 💤 [PIXIU](https://github.com/the-finai/pixiu) - ⭐ 831 / このリポジトリは、初の金融向け大規模言語モデル（LLM）、インストラクションチューニングデータ、評価ベンチマークを特徴とするオープンソースリソースであるPIXIUを紹介しています。私たちの目標は、オープンを常に前進させることです。
  * ⚠️ [generative_ai_with_langchain](https://github.com/benman1/generative_ai_with_langchain) - ⭐ 1.3k / Python、ChatGPT、およびその他のモデルを使用して大規模言語モデル（LLM）アプリを構築します。これはLangChainの生成AIに関する書籍のためのコンパニオンリポジトリです。
- * 💤 [llm-books](https://github.com/morsoli/llm-books) - ⭐ 768 / LLMを使用してアプリケーションを構築する実践ノート
+ * 💤 [llm-books](https://github.com/morsoli/llm-books) - ⭐ 769 / LLMを使用してアプリケーションを構築する実践ノート
  * 🔥 [langflow](https://github.com/langflow-ai/langflow) - ⭐ 145k / ⛓️ Langflowは、各ノードが実行可能なユニットであるダイナミックグラフです。そのモジュラーでインタラクティブなデザインは、迅速な実験やプロトタイピングを促進し、創造性の限界に挑戦します。
  * 💤 [ChatLLM](https://github.com/yuanjie-ai/chatllm) - ⭐ 450 / LLMとopenai＆langchainを楽しく使いこなす、文心一言、讯飞星火、腾讯混元、智谱ChatGLMなどをサポートします。
- * 🔥 [MiniCPM-V](https://github.com/openbmb/minicpm-v) - ⭐ 24k / MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM
+ * ✅ [MiniCPM-V](https://github.com/openbmb/minicpm-v) - ⭐ 24k / MiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLMMiniCPM-Llama3-V 2.5：あなたの電話でGPT-4VレベルのMLLM
  * 💤 [LLamaTuner](https://github.com/jianzhnie/llamatuner) - ⭐ 619 / 簡単で効率的なファインチューニングLLMs。（サポートされているLLama、LLama2、LLama3、Qwen、Baichuan、GLM、Falcon）大規模モデルの効率的な量子化トレーニング+展開。
  * 💤 [langtorch](https://github.com/li2109/langtorch) - ⭐ 307 / 🔥 Javaを使用して、組み立て可能なLLMアプリケーションとワークフローを構築します。
  * 💤 [dialog](https://github.com/talkdai/dialog) - ⭐ 429 / 簡単な展開とテストのためのRAG LLM Opsアプリ
- * 🔥 [aikit](https://github.com/sozercan/aikit) - ⭐ 508 / 🏗️オープンソースのLLMを簡単に微調整、構築、展開できます！
+ * 🔥 [aikit](https://github.com/sozercan/aikit) - ⭐ 509 / 🏗️オープンソースのLLMを簡単に微調整、構築、展開できます！
  * 💤 [llm-ui](https://github.com/llm-ui-kit/llm-ui) - ⭐ 1.7k / LLMsのReactライブラリ
  * ⚠️ [search_with_ai](https://github.com/yokingma/search_with_ai) - ⭐ 1k / 🤖 AIによる無料検索、💡 オープンソースのPerplexity、📍 Ollama/SearXNGのサポート、Dockerデプロイメントのサポート。AIモデルと検索エンジンがあなたの質問に答えることを可能にし、ローカルな大規模モデル(Ollama)や集約検索エンジンSearXNGをサポートし、Dockerデプロイメントをサポートします。
  * 💤 [GPT-Actions](https://github.com/anil-matcha/gpt-actions) - ⭐ 265 / GPT Authは、カスタムGPT用のoauthを迅速にセットアップするためのユーザーフレンドリーなソリューションを提供します。
  * ⚠️ [langchain-swift](https://github.com/buhe/langchain-swift) - ⭐ 428 / 🚀 Swift用LangChain。iOS、macOS、watchOS（一部）およびvisionOS向けに最適化されています。（ベータ版）
- * 💤 [RepoAgent](https://github.com/openbmb/repoagent) - ⭐ 904 / 開発者やチームが素早くドキュメントを生成し、リポジトリを理解するのを支援するLLMパワードのリポジトリエージェント。
- * ⚠️ [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - ⭐ 606 / 最大限のプライバシーとオフラインアクセスのためのローカルオーラマとOpenAIのようなGPTの支援
+ * 💤 [RepoAgent](https://github.com/openbmb/repoagent) - ⭐ 907 / 開発者やチームが素早くドキュメントを生成し、リポジトリを理解するのを支援するLLMパワードのリポジトリエージェント。
+ * ⚠️ [obsidian-local-gpt](https://github.com/pfrankov/obsidian-local-gpt) - ⭐ 610 / 最大限のプライバシーとオフラインアクセスのためのローカルオーラマとOpenAIのようなGPTの支援
  * 💤 [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongvfx/langchain-chinese-getting-started-guide) - ⭐ 8.8k / LangChainの中国語入門ガイド
  * 💤 [QiZhenGPT](https://github.com/cmkrg/qizhengpt) - ⭐ 768 / QiZhenGPT：オープンソースの中国医療大規模言語モデル｜一个开源的中文医疗大语言模型
- * ⚠️ [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - ⭐ 317 / Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。
+ * ⚠️ [azure-search-openai-javascript](https://github.com/azure-samples/azure-search-openai-javascript) - ⭐ 318 / Azureで実行されるRetrieval Augmented GenerationパターンのTypeScriptサンプルアプリケーション。検索にはAzure AI Searchを使用し、ChatGPTスタイルやQ&A体験を可能にするためにAzure OpenAIとLangChainの大規模言語モデル（LLMs）を活用しています。
  * 💤 [LLaMA-Omni](https://github.com/ictnlp/llama-omni) - ⭐ 3.1k / LLaMA-Omniは、Llama-3.1-8B-Instructをベースに構築された低遅延で高品質なエンドツーエンドの音声インタラクションモデルであり、GPT-4oレベルの音声機能を実現することを目指しています。
- * 💤 [text2text](https://github.com/artitw/text2text) - ⭐ 303 / テキスト2テキスト：クロスリンガルNLP/Gツールキット
+ * 💤 [text2text](https://github.com/artitw/text2text) - ⭐ 304 / テキスト2テキスト：クロスリンガルNLP/Gツールキット
  * 💤 [llama.go](https://github.com/gotzmann/llama.go) - ⭐ 1.4k / Input: llama.goは純粋なGolangでのllama.cppのようです！Output: llama.goは純粋なGolangでのllama.cppのようです！
  * 💤 [autolabel](https://github.com/refuel-ai/autolabel) - ⭐ 2.3k / LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。LLMでラベル付け、クリーニング、テキストデータセットを豊かにします。
  * ⚠️ [agentops](https://github.com/agentops-ai/agentops) - ⭐ 5.3k / AIエージェントの監視、LLMコストの追跡、ベンチマーキングなどのためのPython SDK。CrewAI、Langchain、AutogenなどのほとんどのLLMやエージェントフレームワークと統合されています。
  * ⚠️ [CyberScraper-2077](https://github.com/itsowen/cyberscraper-2077) - ⭐ 2.9k / LLM | OpenAI、Gemini＆Ollamaによって強力なウェブスクレイパーを搭載
  * 💤 [MLE-agent](https://github.com/mlsysops/mle-agent) - ⭐ 1.5k / 🤖 MLE-Agent: シームレスなAIエンジニアリングと研究のための知的な仲間です。🔍 arxivとpaper with codeと統合して、より良いコード/研究計画を提供します🧰 OpenAI、Anthropic、Ollamaなどがサポートされています。:fireworks: Code RAG
  * 💤 [sage](https://github.com/storia-ai/sage) - ⭐ 1.3k / 2分以内で任意のコードベースとチャット | 完全にローカルまたはサードパーティのAPIを介して
- * 🔥 [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ⭐ 1.3k / AIパワードのMarkdownノートアプリ - ベクトル埋め込みとLLMsを活用して個人のノートを作成 - 100％ローカルまたはクラウド上
+ * ✅ [rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ⭐ 1.3k / AIパワードのMarkdownノートアプリ - ベクトル埋め込みとLLMsを活用して個人のノートを作成 - 100％ローカルまたはクラウド上
  * 💤 [search2ai](https://github.com/fatwang2/search2ai) - ⭐ 1.3k / オンラインでLLMの手助けをしてください。
- * 🔥 [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - ⭐ 11k / APIを介してアクセス可能な無料のLLM推論リソースのリスト。
+ * 🔥 [free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) - ⭐ 12k / APIを介してアクセス可能な無料のLLM推論リソースのリスト。
  * 🔥 [tensorzero](https://github.com/tensorzero/tensorzero) - ⭐ 11k / TensorZeroは、LLMアプリケーションを最適化するためのフィードバックループを作成し、生産データをよりスマートで速く、安価なモデルに変換します。
  * 💤 [langchain-rust](https://github.com/abraxas-365/langchain-rust) - ⭐ 1.2k / 🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法🦜️🔗Rust用LangChain、RustでLLMベースのプログラムを書く最も簡単な方法
- * 🔥 [llama3.java](https://github.com/mukel/llama3.java) - ⭐ 796 / Javaでの実用的なラマ3推論
+ * ✅ [llama3.java](https://github.com/mukel/llama3.java) - ⭐ 796 / Javaでの実用的なラマ3推論
  * 🔥 [vectordb-recipes](https://github.com/lancedb/vectordb-recipes) - ⭐ 920 / LLMs、マルチモーダルモデル、およびVectorDB向けの高品質リソース＆アプリケーション
- * 🔥 [markitdown](https://github.com/microsoft/markitdown) - ⭐ 87k / Markdown へのファイルやオフィス文書を変換するための Python ツール。
+ * 🔥 [markitdown](https://github.com/microsoft/markitdown) - ⭐ 88k / Markdown へのファイルやオフィス文書を変換するための Python ツール。
  * ⚠️ [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) - ⭐ 2.1k / ZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeekZoteroチャットPDFとGPT、ChatGPT、Claude、Gemini、DeepSeek
  * ⚠️ [Jlama](https://github.com/tjake/jlama) - ⭐ 1.3k / JlamaはJava向けのモダンなLLM推論エンジンです。
  * ⚠️ [langchat](https://github.com/tycoding/langchat) - ⭐ 1.2k / LangChat: Java LLMs/AIプロジェクト、複数のAIプロバイダーをサポート（Gitee AI/智谱清言/阿里通义/百度千帆/DeepSeek/抖音豆包/零一万物/讯飞星火/OpenAI/Gemini/Ollama/Azure/Claudeなどの大規模モデル）、JavaエコシステムにおけるAI大規模モデル製品のソリューション、企業向けAIナレッジベース、AIロボットアプリケーションの迅速な構築
  * 💤 [ExtractThinker](https://github.com/enoch3712/extractthinker) - ⭐ 1.5k / ExtractThinkerは、LLMs向けのドキュメントインテリジェンスライブラリで、柔軟で強力なドキュメントワークフローのためのORMスタイルのインタラクションを提供しています。
  * 💤 [Controllable-RAG-Agent](https://github.com/nirdiamant/controllable-rag-agent) - ⭐ 1.5k / このリポジトリは、複雑な質問応答のための高度な検索増強生成（RAG）ソリューションを提供しています。タスクを処理するために洗練されたグラフベースのアルゴリズムを使用しています。
- * ⚠️ [LLPhant](https://github.com/llphant/llphant) - ⭐ 1.4k / Input: LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。Langchainに触発されました。
+ * 🔥 [LLPhant](https://github.com/llphant/llphant) - ⭐ 1.4k / Input: LLPhant - OpenAI GPT 4を使用した包括的なPHP生成AIフレームワーク。Langchainに触発されました。
  * 💤 [lsp-ai](https://github.com/silasmarvin/lsp-ai) - ⭐ 3.1k / LSP-AIは、AI機能をバックエンドとして提供するオープンソースの言語サーバーであり、ソフトウェアエンジニアを支援し、強化するために設計されており、彼らを置き換えるものではありません。
  * 🔥 [generative-ai](https://github.com/genieincodebottle/generative-ai) - ⭐ 1.8k / ジェネレーティブAIに関する包括的なリソース、詳細なロードマップ、プロジェクト、ユースケース、インタビュー準備、コーディング準備などを提供しています。
- * ⚠️ [paperless-ai](https://github.com/clusterzx/paperless-ai) - ⭐ 5.2k / Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。
+ * ⚠️ [paperless-ai](https://github.com/clusterzx/paperless-ai) - ⭐ 5.3k / Paperless-ngxのための自動文書分析ツール。OpenAI APIとOllama（Mistral、llama、phi 3、gemma 2）を使用して、文書を自動的に分析しタグ付けします。
  * 💤 [openai-quickstart](https://github.com/djangopeng/openai-quickstart) - ⭐ 1.7k / LangChainを使用したGenAIアプリケーションのための大規模言語モデルの理解と実装に関する包括的なガイドと、実践的な例を紹介します。
- * 🔥 [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - ⭐ 3.6k / ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。
+ * ✅ [video-subtitle-master](https://github.com/buxuku/video-subtitle-master) - ⭐ 3.6k / ビデオやオーディオ用の字幕を一括生成し、一括で他の言語に翻訳することができます。これはクライアントツールであり、MacとWindowsシステムをサポートするクロスプラットフォームです。バイドゥ、火山、deeplx、openai、deepseek、ollamaなど、複数の翻訳サービスをサポートしています。
  * 💤 [agentkit](https://github.com/bcg-x-official/agentkit) - ⭐ 1.9k / Nextjs、FastAPI、Langchainを使用して制約エージェントを構築するためのスターターキット
  * 💤 [reor](https://github.com/reorproject/reor) - ⭐ 8.5k / 高エントロピーな人々のためのプライベート＆ローカルAIパーソナル知識管理アプリ。
- * 🔥 [go-stock](https://github.com/arvinlovegood/go-stock) - ⭐ 4.5k / 🦄🦄🦄AIが株式分析をサポート：自分で選んだ株の市況情報を取得し、コストと利益を表示し、価格の変動に関する警告をプッシュ通知します。市場全体や個別株の感情分析、ローソク足テクニカル指標分析などをサポートします。データはすべてローカルに保存されます。DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、Silicon Mobility、Volcano Ark、Alibaba Cloud Hundred Refinementsなどのプラットフォームやモデルをサポートしています。
- * 🔥 [Yuxi-Know](https://github.com/xerrors/yuxi-know) - ⭐ 4.3k / 大規模モデルRAGの知識ベースを利用した知識グラフ質問応答システム。Llamaindex + VueJS + Flask + Neo4j。大規模モデルはOpenAIや国内の主要なモデルプラットフォームに適合し、ローカルでのvllmデプロイメントをサポートします。推論モデルDeepSeek-R1やネットワーク検索をサポートします。
- * 🔥 [SmartSub](https://github.com/buxuku/smartsub) - ⭐ 3.6k / 「妙幕」は、動画や音声ファイルに対して一括で字幕ファイルを生成し、字幕の翻訳をサポートするクロスプラットフォームのクライアントツールです。百度、火山、openai、ollama、deepseekなど、複数の翻訳サービスをサポートしています。
- * 🔥 [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - ⭐ 1k / 💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。
+ * ✅ [go-stock](https://github.com/arvinlovegood/go-stock) - ⭐ 4.5k / 🦄🦄🦄AIが株式分析をサポート：自分で選んだ株の市況情報を取得し、コストと利益を表示し、価格の変動に関する警告をプッシュ通知します。市場全体や個別株の感情分析、ローソク足テクニカル指標分析などをサポートします。データはすべてローカルに保存されます。DeepSeek、OpenAI、Ollama、LMStudio、AnythingLLM、Silicon Mobility、Volcano Ark、Alibaba Cloud Hundred Refinementsなどのプラットフォームやモデルをサポートしています。
+ * ✅ [Yuxi-Know](https://github.com/xerrors/yuxi-know) - ⭐ 4.4k / 大規模モデルRAGの知識ベースを利用した知識グラフ質問応答システム。Llamaindex + VueJS + Flask + Neo4j。大規模モデルはOpenAIや国内の主要なモデルプラットフォームに適合し、ローカルでのvllmデプロイメントをサポートします。推論モデルDeepSeek-R1やネットワーク検索をサポートします。
+ * ✅ [SmartSub](https://github.com/buxuku/smartsub) - ⭐ 3.6k / 「妙幕」は、動画や音声ファイルに対して一括で字幕ファイルを生成し、字幕の翻訳をサポートするクロスプラットフォームのクライアントツールです。百度、火山、openai、ollama、deepseekなど、複数の翻訳サービスをサポートしています。
+ * ✅ [minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - ⭐ 1k / 💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。💃 コードで知性と一緒に踊る。Minuetは、OpenAI、Gemini、Claude、Ollama、Llama.cpp、Codestralなどの人気のあるLLMからのコード補完を提供します。
  * 🔥 [llama-swap](https://github.com/mostlygeek/llama-swap) - ⭐ 2.4k / llama.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）ラマ.cppのモデルスワップ（またはローカルOpenAPI互換サーバー）
- * 🔥 [ai-gateway](https://github.com/langdb/ai-gateway) - ⭐ 777 / AIトラフィックを管理、保護、最適化します。AIゲートウェイは、パフォーマンスと信頼性に焦点を当てたOpenAI API形式を使用して、すべてのLLMに統一されたインターフェースを提供します。Rustで構築されています。
+ * 🔥 [ai-gateway](https://github.com/langdb/ai-gateway) - ⭐ 779 / AIトラフィックを管理、保護、最適化します。AIゲートウェイは、パフォーマンスと信頼性に焦点を当てたOpenAI API形式を使用して、すべてのLLMに統一されたインターフェースを提供します。Rustで構築されています。
  * 🔥 [gpustack](https://github.com/gpustack/gpustack) - ⭐ 4.5k / AIモデルを実行するためのGPUクラスターを管理します。
  * ⚠️ [company-research-agent](https://github.com/pogjester/company-research-agent) - ⭐ 1.6k / LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
- * 🔥 [sdk-python](https://github.com/strands-agents/sdk-python) - ⭐ 5.1k / わずか数行のコードでAIエージェントを構築するためのモデル駆動アプローチ。
- * 💤 [autoview](https://github.com/wrtnlabs/autoview) - ⭐ 702 / AIエージェントによる自動ビューコンポーネントレンダラー
- * 🔥 [helix](https://github.com/helixml/helix) - ⭐ 715 / ♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。
- * 🔥 [openinference](https://github.com/arize-ai/openinference) - ⭐ 856 / AI観測のためのOpenTelemetryインストゥルメンテーション
- * ⚠️ [WorkflowAI](https://github.com/workflowai/workflowai) - ⭐ 468 / WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。
+ * 🔥 [sdk-python](https://github.com/strands-agents/sdk-python) - ⭐ 5.2k / わずか数行のコードでAIエージェントを構築するためのモデル駆動アプローチ。
+ * 💤 [autoview](https://github.com/wrtnlabs/autoview) - ⭐ 703 / AIエージェントによる自動ビューコンポーネントレンダラー
+ * 🔥 [helix](https://github.com/helixml/helix) - ⭐ 718 / ♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。♾️ Helixは、宣言的なパイプライン、知識（RAG）、APIバインディング、およびファーストクラスのテストを使用してAIアプリケーションを構築するためのプライベートGenAIスタックです。
+ * 🔥 [openinference](https://github.com/arize-ai/openinference) - ⭐ 857 / AI観測のためのOpenTelemetryインストゥルメンテーション
+ * ⚠️ [WorkflowAI](https://github.com/workflowai/workflowai) - ⭐ 469 / WorkflowAIは、製品とエンジニアリングチームが協力してAI機能を構築し、改善するためのオープンソースプラットフォームです。
  * ⚠️ [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - ⭐ 1.6k / LangGraphとTavilyによって強化されたエージェント企業調査ツールは、マルチエージェントフレームワークを使用して企業に対する深い調査を行います。バックエンドでは、GoogleのGemini 2.0 FlashとOpenAIのGPT-4.1を活用して推論を行います。
  * ⚠️ [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - ⭐ 11k / 以上すべて] が一つとして機能する力。
  * 💤 [llm-ui](https://github.com/richardgill/llm-ui) - ⭐ 1.7k / LLMsのReactライブラリ
  * ⚠️ [boxcars](https://github.com/boxcarsai/boxcars) - ⭐ 457 / LLMを使用したボックスカーを使用したコンポーザビリティを持つアプリケーションの構築。LangChainに触発されました。
  * 🔥 [sglang](https://github.com/sgl-project/sglang) - ⭐ 24k / SGLangは大規模言語モデルやビジョン言語モデル向けの高速サービングフレームワークです。
- * 🔥 [ai-guide](https://github.com/liyupi/ai-guide) - ⭐ 7k / プログラマーの魚皮のAIナレッジベースは、Deepseekの使用ガイド、ヒントとトリック、知識のエッセンス、アプリケーションシナリオ、AIの収益化、業界ニュース、チュートリアルリソースなど、人気のあるAI大規模モデルやツールをまとめています。これにより、AI技術を迅速に習得し、時代の最先端に立つことができます。ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROKなどの大規模モデル、Spring AI、LangChain、RAG、MCP、A2Aなどの技術、Cursorなどのツールが含まれています。このプロジェクトはオープンソースのドキュメントバージョンであり、ウェブサイトはプログラミングナビゲーションAIセクションにアップグレードされました。
- * 🔥 [coze-loop](https://github.com/coze-dev/coze-loop) - ⭐ 5.3k / 次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。
- * 🔥 [tools](https://github.com/strands-agents/tools) - ⭐ 940 / エージェントに強力な機能を提供するツールセット。
+ * ✅ [ai-guide](https://github.com/liyupi/ai-guide) - ⭐ 7.1k / プログラマーの魚皮のAIナレッジベースは、Deepseekの使用ガイド、ヒントとトリック、知識のエッセンス、アプリケーションシナリオ、AIの収益化、業界ニュース、チュートリアルリソースなど、人気のあるAI大規模モデルやツールをまとめています。これにより、AI技術を迅速に習得し、時代の最先端に立つことができます。ChatGPT、Claude、Gemini、Deepseek、Deepseek-r1、QWEN、GROKなどの大規模モデル、Spring AI、LangChain、RAG、MCP、A2Aなどの技術、Cursorなどのツールが含まれています。このプロジェクトはオープンソースのドキュメントバージョンであり、ウェブサイトはプログラミングナビゲーションAIセクションにアップグレードされました。
+ * ✅ [coze-loop](https://github.com/coze-dev/coze-loop) - ⭐ 5.3k / 次世代AIエージェント最適化プラットフォーム：Cozeloopは、開発、デバッグ、評価、モニタリングまでのフルライフサイクル管理機能を提供することで、AIエージェント開発の課題に対処します。
+ * 🔥 [tools](https://github.com/strands-agents/tools) - ⭐ 942 / エージェントに強力な機能を提供するツールセット。
  * 🔥 [langchain](https://github.com/langchain-ai/langchain) - ⭐ 127k / 🦜🔗 コンテキストに応じた推論アプリケーションを構築します
  * 🔥 [ollama](https://github.com/ollama/ollama) - ⭐ 163k / OpenAIのgpt-oss、DeepSeek-R1、Gemma 3などのモデルを使ってすぐに始めましょう。
- * 🔥 [aikit](https://github.com/kaito-project/aikit) - ⭐ 508 / 🏗️オープンソースのLLMを簡単に微調整、構築、展開！
- * 🔥 [kubewall](https://github.com/kubewall/kubewall) - ⭐ 1.8k / LMStudio)
- * ⚠️ [restai](https://github.com/apocas/restai) - ⭐ 477 / RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
+ * 🔥 [aikit](https://github.com/kaito-project/aikit) - ⭐ 509 / 🏗️オープンソースのLLMを簡単に微調整、構築、展開！
+ * ✅ [kubewall](https://github.com/kubewall/kubewall) - ⭐ 1.8k / LMStudio)
+ * ⚠️ [restai](https://github.com/apocas/restai) - ⭐ 478 / RESTaiはAIaaS（AI as a Service）オープンソースプラットフォームです。LlamaIndexとLangchainの上に構築されています。LlamaIndexがサポートする任意の公開LLMと、Ollama/vLLMなどがサポートする任意のローカルLLMをサポートしています。正確な埋め込みの使用と調整が可能です。組み込みの画像生成機能も備えています。
  * 🔥 [local-deep-research](https://github.com/learningcircuit/local-deep-research) - ⭐ 4k / ローカルディープリサーチはSimpleQAベンチマークで約95％の精度を達成しました（GPT-4.1-miniでテスト済み）。ローカルおよびクラウドLLMs（Ollama、Google、Anthropicなど）をサポートしています。arXiv、PubMed、ウェブ、およびあなたのプライベートドキュメントなど、10以上のソースを検索します。すべてローカルで行います。
- * 🔥 [sre](https://github.com/smythos/sre) - ⭐ 1.2k / エージェント向けのオペレーティングシステム
- * 🔥 [osaurus](https://github.com/dinoki-ai/osaurus) - ⭐ 3.5k / ネイティブ、Apple Silicon専用のローカルLLMサーバー。Ollamaに似ていますが、Mシリーズチップで最大のパフォーマンスを発揮するためにAppleのMLXに基づいて構築されています。OpenAI互換のエンドポイントを持つSwiftUIアプリ+SwiftNIOサーバー。
+ * ✅ [sre](https://github.com/smythos/sre) - ⭐ 1.2k / エージェント向けのオペレーティングシステム
+ * 🔥 [osaurus](https://github.com/dinoki-ai/osaurus) - ⭐ 3.6k / ネイティブ、Apple Silicon専用のローカルLLMサーバー。Ollamaに似ていますが、Mシリーズチップで最大のパフォーマンスを発揮するためにAppleのMLXに基づいて構築されています。OpenAI互換のエンドポイントを持つSwiftUIアプリ+SwiftNIOサーバー。
  * ⚠️ [shimmy](https://github.com/michael-a-kuykendall/shimmy) - ⭐ 3.7k / ⚡ PythonフリーのRust推論サーバー — OpenAI-API互換。GGUF + SafeTensors、ホットモデルスワップ、自動検出、シングルバイナリ。今すぐ無料、永久に無料。
- * 🔥 [samples](https://github.com/strands-agents/samples) - ⭐ 639 / Strands Agents SDKを使用して構築されたエージェントサンプル。
+ * ✅ [samples](https://github.com/strands-agents/samples) - ⭐ 642 / Strands Agents SDKを使用して構築されたエージェントサンプル。
  * 🔥 [nexa-sdk](https://github.com/nexaai/nexa-sdk) - ⭐ 7.7k / 最新のLLMsとVLMsをGPU、NPU、CPUで実行し、Python、Android Java、iOS Swift向けのバインディングを使用して、OpenAI gpt-oss、Gemma 3、Qwen3などを素早く起動して実行します。
- * 🔥 [LlmTornado](https://github.com/lofcz/llmtornado) - ⭐ 556 / 100以上のLLM APIを使用してAIシステムを構築するための.NETライブラリ：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAIなど、さらに多くのもの！
- * 🔥 [chats](https://github.com/sdcb/chats) - ⭐ 541 / ユーザーフレンドリーでエンタープライズ向けのAIインターフェース（Ollama、OpenAI API、DeepSeekなどをサポート）
- * 🔥 [vllora](https://github.com/vllora/vllora) - ⭐ 777 / AI エージェントのデバッグを行ってください。
- * ⚠️ [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 466 / 非同期ブック：「大規模アプリケーション開発 AIエージェントを手作りする」- これは非常に簡単な入門例ですが、初心者を導くことに重点を置いています。現在、LLM開発領域は急速に発展していますが、この本はあくまで概要に過ぎません。さらに多くの例やコードは、OpenAI CookbookやLangChain Exampleで見つけることができます。
- * 🔥 [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - ⭐ 198 / MATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™を含めるMATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™に接続します。
- * 🔥 [Automodel](https://github.com/nvidia-nemo/automodel) - ⭐ 318 / Pytorch分散ネイティブトレーニングライブラリ、LLMs/VLMs向け、OOTB Hugging Faceサポート付き
- * 🔥 [deep-eye](https://github.com/zakirkun/deep-eye) - ⭐ 623 / 高度なAI駆動の脆弱性スキャナーおよびペネトレーションテストツールで、複数のAIプロバイダー（OpenAI、Grok、OLLAMA、Claude）を統合し、自動バグハンティング、インテリジェントペイロード生成、およびプロフェッショナル向けの包括的なセキュリティテストモジュールを備えています。
- * 🔥 [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - ⭐ 493 / 大量のテキストをLLM、Ollama、OpenAI、Gemini、およびOpenRouter APIを使用して翻訳するために設計されたPythonスクリプト
- * 🔥 [TranslateBooksWithLLMs](https://github.com/hydropix/translatebookswithllms) - ⭐ 493 / Ollama、OpenAI（comptabible）、Gemini、Mistral、Poe、またはOpenRouterを使用して、フルレングスの本や文書を翻訳します。フォーマットを保持します。中断したところから再開します。ファイルサイズ制限はありません。
- * [honcho](https://github.com/plastic-labs/honcho) - 状態を持つエージェントを構築するためのメモリライブラリ
- * [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - OpenAIとAnthropic互換のApple Silicon用サーバー。LLMsとビジョン言語モデル（Llama、Qwen-VL、LLaVA）を連続バッチ処理、MCPツール呼び出し、およびマルチモーダルサポートで実行します。ネイティブMLXバックエンド、400以上のトーク/秒。Claude Codeと連携します。
+ * 🔥 [LlmTornado](https://github.com/lofcz/llmtornado) - ⭐ 558 / 100以上のLLM APIを使用してAIシステムを構築するための.NETライブラリ：Anthropic、Azure、Cohere、DeepInfra、DeepSeek、Google、Groq、Mistral、MoonshotAI、Ollama、OpenAI、OpenRouter、Perplexity、vLLM、Voyage、xAIなど、さらに多くのもの！
+ * 🔥 [chats](https://github.com/sdcb/chats) - ⭐ 542 / ユーザーフレンドリーでエンタープライズ向けのAIインターフェース（Ollama、OpenAI API、DeepSeekなどをサポート）
+ * 🔥 [vllora](https://github.com/vllora/vllora) - ⭐ 779 / AI エージェントのデバッグを行ってください。
+ * ⚠️ [ai-agents](https://github.com/huangjia2019/ai-agents) - ⭐ 467 / 非同期ブック：「大規模アプリケーション開発 AIエージェントを手作りする」- これは非常に簡単な入門例ですが、初心者を導くことに重点を置いています。現在、LLM開発領域は急速に発展していますが、この本はあくまで概要に過ぎません。さらに多くの例やコードは、OpenAI CookbookやLangChain Exampleで見つけることができます。
+ * ✅ [llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - ⭐ 198 / MATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™を含めるMATLABをLLM APIに接続し、OpenAI® Chat Completions、Azure® OpenAIサービス、およびOllama™に接続します。
+ * 🔥 [Automodel](https://github.com/nvidia-nemo/automodel) - ⭐ 330 / Pytorch分散ネイティブトレーニングライブラリ、LLMs/VLMs向け、OOTB Hugging Faceサポート付き
+ * ✅ [deep-eye](https://github.com/zakirkun/deep-eye) - ⭐ 625 / 高度なAI駆動の脆弱性スキャナーおよびペネトレーションテストツールで、複数のAIプロバイダー（OpenAI、Grok、OLLAMA、Claude）を統合し、自動バグハンティング、インテリジェントペイロード生成、およびプロフェッショナル向けの包括的なセキュリティテストモジュールを備えています。
+ * 🔥 [TranslateBookWithLLM](https://github.com/hydropix/translatebookwithllm) - ⭐ 500 / 大量のテキストをLLM、Ollama、OpenAI、Gemini、およびOpenRouter APIを使用して翻訳するために設計されたPythonスクリプト
+ * 🔥 [TranslateBooksWithLLMs](https://github.com/hydropix/translatebookswithllms) - ⭐ 500 / Ollama、OpenAI（comptabible）、Gemini、Mistral、Poe、またはOpenRouterを使用して、フルレングスの本や文書を翻訳します。フォーマットを保持します。中断したところから再開します。ファイルサイズ制限はありません。
+ * 🔥 [honcho](https://github.com/plastic-labs/honcho) - ⭐ 365 / 状態を持つエージェントを構築するためのメモリライブラリ
+ * ✅ [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - ⭐ 409 / OpenAIとAnthropic互換のApple Silicon用サーバー。LLMsとビジョン言語モデル（Llama、Qwen-VL、LLaVA）を連続バッチ処理、MCPツール呼び出し、およびマルチモーダルサポートで実行します。ネイティブMLXバックエンド、400以上のトーク/秒。Claude Codeと連携します。
 
 
 ## Unity
@@ -1808,14 +1808,14 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
 
 ## Openai
 
- * 🔥 [Auto-GPT](https://github.com/torantulino/auto-gpt) - ⭐ 182k / 高度なゲームエンジニアリングプロジェクト - 立方体ボクセルゲームメーカー
+ * ✅ [Auto-GPT](https://github.com/torantulino/auto-gpt) - ⭐ 182k / 高度なゲームエンジニアリングプロジェクト - 立方体ボクセルゲームメーカー
  * 💤 [BlenderGPT](https://github.com/gd3kr/blendergpt) - ⭐ 4.9k / OpenAIのGPT-4を使用してBlenderを制御するために英語のコマンドを使用してください。
  * ⚠️ [evals](https://github.com/openai/evals) - ⭐ 18k / EvalsはOpenAIモデルの評価フレームワークであり、ベンチマークのオープンソースレジストリでもあります。
  * ⚠️ [VulChatGPT](https://github.com/ke0z/vulchatgpt) - ⭐ 372 / バイナリ内の可能性のある脆弱性を見つけるために、IDA PRO HexRaysデコンパイラとOpenAI(ChatGPT)を使用してください。
  * 💤 [OpenChatKit](https://github.com/togethercomputer/openchatkit) - ⭐ 9k / #openchatkitは、#chatgptの最初の#オープンソースの代替品です！🤯これは、元@openaiの人々（@togethercompute）によって構築された20bパラメーターモデルで、@aieleutherのgpt-neox-20bを使用してファインチューニングされました！🔗デモ：🐙gh：📽️ビデオ：@itakgol ↓
  * 💤 [chatgpt-python](https://github.com/labteral/chatgpt-python) - ⭐ 524 / OpenAIのChatGPTの非公式Python SDK
  * 💤 [gpt-commit](https://github.com/markuswt/gpt-commit) - ⭐ 264 / ChatGPTを使用してコミットメッセージを生成します。
- * 🔥 [tiktoken](https://github.com/openai/tiktoken) - ⭐ 17k / tiktokenは、OpenAIのモデルと一緒に使用するための高速なBPEトークナイザーです。
+ * ✅ [tiktoken](https://github.com/openai/tiktoken) - ⭐ 17k / tiktokenは、OpenAIのモデルと一緒に使用するための高速なBPEトークナイザーです。
  * 💤 [wolverine](https://github.com/biobootloader/wolverine) - ⭐ 5.1k / @denfromufa @openai 素晴らしいツールです！ ただ、私が言いたかったのは、ターミナルでgpt-4とチャットするためのツールです。つまり、次のようなものです。
  * 💤 [chatgpt-clone](https://github.com/amrrs/chatgpt-clone) - ⭐ 412 / OpenAI APIとGradioを使用して、自分自身のChatGPTを構築する。
  * 💤 [pyChatGPT](https://github.com/terry3041/pychatgpt) - ⭐ 1.3k / OpenAIのChatGPT APIの非公式Pythonラッパー
@@ -1824,7 +1824,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [genai](https://github.com/noteable-io/genai) - ⭐ 353 / もしGPTがノート作成を手助けできたらどうでしょうか？
  * 💤 [GPTReview](https://github.com/iejmac/gptreview) - ⭐ 45 / OpenAI GPTモデルを使用して、あなたのPRをレビューしてもらいましょう。
  * ⚠️ [scrapeghost](https://github.com/jamesturk/scrapeghost) - ⭐ 1.4k / 👻 OpenAIのGPT APIを使用したウェブサイトスクレイピングのための実験的なライブラリ。
- * 🔥 [Auto-GPT](https://github.com/significant-gravitas/auto-gpt) - ⭐ 182k / GPT-4を完全に自律化するための実験的なオープンソースの試み。
+ * ✅ [Auto-GPT](https://github.com/significant-gravitas/auto-gpt) - ⭐ 182k / GPT-4を完全に自律化するための実験的なオープンソースの試み。
  * 💤 [openai_tools](https://github.com/alleninstitute/openai_tools) - ⭐ 111 / ChatGPT APIを使用してPDF出版物を探索するためのスクリプトの増加するセット。
  * 🔥 [openai-cookbook](https://github.com/openai/openai-cookbook) - ⭐ 72k / OpenAI APIの使用例とガイドの例
  * 💤 [disco-diffusion](https://github.com/alembics/disco-diffusion) - ⭐ 7.4k / 現在OpenAI開發的AI模型中比較知名的有：#chatgpt、#midjourney、#stablediffusionchat。今天為大家更新5個好用的AI算法模型學習渠道，包括：1、神力中文AI算法市場、disco-diffusion型、百度文心ernie-vilg。
@@ -1840,7 +1840,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [OpenGpt](https://github.com/futantan/opengpt) - ⭐ 3.9k / 数秒で自分のChatGPTアプリを作成してください。
  * 💤 [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - ⭐ 3.2k / エレガントでパワフル。OpenAIとVercelによって動力を得ています。
  * 💤 [ts-chatgpt](https://github.com/takagimeow/ts-chatgpt) - ⭐ 7 / 公式ChatGPT APIを使用してタイプされた純粋な応答を受け取るために作成されたライブラリ。
- * 🔥 [openai-node](https://github.com/openai/openai-node) - ⭐ 11k / OpenAI APIのためのNode.jsライブラリ
+ * ✅ [openai-node](https://github.com/openai/openai-node) - ⭐ 11k / OpenAI APIのためのNode.jsライブラリ
  * 💤 [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search?og=v2) - ⭐ 1.7k / Next.js、OpenAI、およびSupabaseによって動力化された独自のカスタムChatGPTスタイルのドキュメント検索を構築するためのテンプレート。
  * 💤 [gptagent.js](https://github.com/lgrammel/gptagent.js) - ⭐ 268 / TS/JSでAIエージェントを構築する
  * 💤 [M5Unified_StackChan_ChatGPT](https://github.com/robo8080/m5unified_stackchan_chatgpt) - ⭐ 144 / 「ChatGPT API搭載AIｽﾀｯｸﾁｬﾝ」です。
@@ -1866,13 +1866,13 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [cheetah](https://github.com/leetcode-mafia/cheetah) - ⭐ 4.3k / リモートSWE面接を受けるためのWhisper＆GPTベースのアプリ
  * 💤 [ChatGPTSwift](https://github.com/alfianlosari/chatgptswift) - ⭐ 705 / Swiftを使用してChatGPT APIにアクセスする
  * 💤 [nitmgpt](https://github.com/deskbtm/nitmgpt) - ⭐ 96 / nitmgpt（Notification-in-the-middle GPT）。ChatGPTを介して広告やスパム通知をフィルタリングします。
- * 💤 [iChatGPT](https://github.com/37ios/ichatgpt) - ⭐ 975 / OpenAI ChatGPTのSwiftUIアプリ（iOS、iPadOS、macOS用）
+ * 💤 [iChatGPT](https://github.com/37ios/ichatgpt) - ⭐ 976 / OpenAI ChatGPTのSwiftUIアプリ（iOS、iPadOS、macOS用）
  * 💤 [SwiftOpenAI](https://github.com/swiftbeta/swiftopenai) - ⭐ 245 / Swiftで構築されたOpenAI API ❤️
  * 💤 [OpenAISwift](https://github.com/adamrushy/openaiswift) - ⭐ 1.7k / これはChatGPTとOpenAI HTTP APIのラッパーライブラリです。
- * ⚠️ [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - ⭐ 96 / Open AI APIをラップするシンプルで軽量なライブラリ。
- * 💤 [subvert](https://github.com/aschmelyun/subvert) - ⭐ 853 / ビデオから字幕、要約、章を数秒で生成する。
+ * 🔥 [whetstone.chatgpt](https://github.com/johniwasz/whetstone.chatgpt) - ⭐ 97 / Open AI APIをラップするシンプルで軽量なライブラリ。
+ * 💤 [subvert](https://github.com/aschmelyun/subvert) - ⭐ 854 / ビデオから字幕、要約、章を数秒で生成する。
  * ⚠️ [carrot](https://github.com/xx025/carrot) - ⭐ 17k / フリーチャットGPTサイトリスト。ここには、現在100以上のサイトが用意されており、無料で使えるChatGPTミラーサイトがたくさんあります。
- * 💤 [impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt) - ⭐ 75 / OpenAIのchatgptからの印象的で有用な結果のコレクション
+ * 💤 [impressive-chatgpt](https://github.com/sw33tlie/impressive-chatgpt) - ⭐ 74 / OpenAIのchatgptからの印象的で有用な結果のコレクション
  * ⚠️ [bbFuzzing.txt](https://github.com/reewardius/bbfuzzing.txt) - ⭐ 418 / bbfuzzing.txtは、70％がopenai chatgptで生成されたユニークな語彙であり、残りの30％はbo0om、circuit、その他のbugbountersの辞書のコンピレーションです。#chatgpt
  * 💤 [chat-with-chatgpt](https://github.com/second-state/chat-with-chatgpt) - ⭐ 100 / GitHubの問題コメントを介してChatGPTとチャットしてください。
  * ⚠️ [ChatGPT](https://github.com/hemulgm/chatgpt) - ⭐ 459 / ChatGPTネイティブデスクトップアプリケーション（Windows、Mac、Android、iOS、およびLinux）
@@ -1884,24 +1884,24 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [JetChatGPT](https://github.com/thekharche/jetchatgpt) - ⭐ 31 / OpenAI APIを使用したJetpack ComposeでのChatGPT
  * 💤 [cosmosdb-chatgpt](https://github.com/azure-samples/cosmosdb-chatgpt) - ⭐ 266 / Azure Cosmos DBとAzure OpenAI ChatGPTサービスを組み合わせたサンプルアプリケーション
  * 💤 [ix](https://github.com/kreneskyp/ix) - ⭐ 1k / 自律型GPT-4エージェントプラットフォーム
- * 💤 [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - ⭐ 310 / Cloudflareワーカーで実行されているOpenAI APIプロキシ。
+ * 💤 [openai-cloudflare](https://github.com/janlay/openai-cloudflare) - ⭐ 311 / Cloudflareワーカーで実行されているOpenAI APIプロキシ。
  * [KeepChatGPT](https://github.com/xcanwin/keepchatgpt#%e5%85%b3%e4%ba%8e-%e5%8f%96%e6%b6%88%e5%ae%a1%e8%ae%a1-%e5%8a%9f%e8%83%bd) - これはChatGPTのスムーズなチャットと強化プラグインです。オープンソースで無料です。すべてのエラーをリフレッシュする必要がなくなるだけでなく、アクティブを維持し、監査をキャンセルし、会話をクローンし、ホームページを浄化し、大画面を表示し、フルスクリーンを表示し、言葉を尽くし、トラッキングをブロックし、日々進化するなど、多数の高度な機能があります。私たちのAI体験を非常にスムーズでシームレス、効率的、簡潔にします。
  * 💤 [cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - ⭐ 1.6k / Azure OpenAIサービスへのOpenAIのリクエストをプロキシするためのCloudflareワーカースクリプト
  * ⚠️ [polyglot](https://github.com/liou666/polyglot) - ⭐ 2.6k / 🤖️ デスクトップAI言語練習アプリ
- * 🔥 [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - ⭐ 432 / Kubernetesクラスター内の自動SREスーパーパワー
- * 🔥 [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - ⭐ 4.6k / Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。
+ * 🔥 [k8sgpt-operator](https://github.com/k8sgpt-ai/k8sgpt-operator) - ⭐ 435 / Kubernetesクラスター内の自動SREスーパーパワー
+ * ✅ [obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - ⭐ 4.6k / Obsidianでノートを使ってチャットしましょう！さらに、リアルタイムで最も関連性の高い情報を見ることができます！インタラクティブにやり取りし、整理された状態を維持しましょう。OpenAI ChatGPT、GPT-4＆Embeddingsによって動力を得ています。
  * [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search) - Next.js、OpenAI、およびSupabaseによって動力化された独自のカスタムChatGPTスタイルのドキュメント検索を構築するためのテンプレート。
- * 💤 [reliableGPT](https://github.com/berriai/reliablegpt) - ⭐ 696 / OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。
+ * 💤 [reliableGPT](https://github.com/berriai/reliablegpt) - ⭐ 695 / OpenAIから100％のアップタイムと信頼性を取得してください。レート制限、タイムアウト、API、キーエラーを処理します。
  * ⚠️ [pva-aoai-integration-solution](https://github.com/city-of-kobe/pva-aoai-integration-solution) - ⭐ repo not found / 中身は大したことないが自治体の取り組みとして興味深い。Azure OpenAIーーーこのリポジトリは、神戸市役所でのChatGPTの試行利用に向けて作成したフロー等をソリューション化し公開するものです。
  * ⚠️ [jp-azureopenai-samples](https://github.com/azure-samples/jp-azureopenai-samples) - ⭐ 280 / 日本マイクロソフトからGPTのリファレンスアーキテクチャを公開。日本語のシナリオがベースになったサンプル実装が目白押しです！このリポジトリ押さえておけば色々捗りますね。ログとか認証周りまであるの嬉しい。～サンプル一覧～1. コールセンター向けGPTアシスタント…
- * 💤 [iChatGPT](https://github.com/37mobileteam/ichatgpt) - ⭐ 975 / iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ
- * 💤 [zod-gpt](https://github.com/dzhng/zod-gpt) - ⭐ 629 / OpenAIとAnthropicモデルから、構造化され、完全に型付けされ、検証済みのJSON出力を取得してください。
+ * 💤 [iChatGPT](https://github.com/37mobileteam/ichatgpt) - ⭐ 976 / iOS、iPadOS、macOS用のOpenAI ChatGPT SwiftUIアプリ
+ * 💤 [zod-gpt](https://github.com/dzhng/zod-gpt) - ⭐ 628 / OpenAIとAnthropicモデルから、構造化され、完全に型付けされ、検証済みのJSON出力を取得してください。
  * 💤 [ai-beehive](https://github.com/hncboy/ai-beehive) - ⭐ 2.2k / AI蜂巣は、Javaを使用したSpring Boot 3とJDK 17に基づいており、ChatGPT、OpenAi Image、Midjourney、NewBingなどの機能をサポートしています。
- * 💤 [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - ⭐ 905 / クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ
+ * 💤 [cloudflare-reverse-proxy](https://github.com/gaboolic/cloudflare-reverse-proxy) - ⭐ 906 / クラウドフレア逆プロキシ|OpenAI/ChatGPTフリーゲートプロキシ|GitHubフリーゲートプロキシ|GitHubダウンロード加速|Googleプロキシ|クラウドフレア万能プロキシ
  * 💤 [opengpt](https://github.com/gngpp/opengpt) - ⭐ 1.7k / リバースエンジニアリングされた非公式のChatGPTプロキシ（Cloudflare 403アクセス拒否をバイパス）ChatGPTの非公式なリバースエンジニアリングプロキシ（Cloudflare 403アクセス拒否をバイパス）
- * 🔥 [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - ⭐ 4.6k / OpenAI APIを使用して実装されたChatGPTウェブアプリケーションです。一般版とロール版が含まれています。管理ダッシュボードが付属しており、Go + Vue3 + element-plusで実装されています。
+ * ✅ [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) - ⭐ 4.6k / OpenAI APIを使用して実装されたChatGPTウェブアプリケーションです。一般版とロール版が含まれています。管理ダッシュボードが付属しており、Go + Vue3 + element-plusで実装されています。
  * 💤 [springboot-openai-chatgpt](https://github.com/274056675/springboot-openai-chatgpt) - ⭐ 997 / 超級AI大脳は、Spring Bootアーキテクチャをベースにした、web、Android、IOS、H5などのマルチプラットフォームアプリケーションをサポートしています。OpenAIのChatGPTモデルを使用して、スマートなチャットボットを実現しています。ユーザーはインターフェース上でチャットボットと対話することができ、チャットボットはユーザーの入力に基づいて自動的に返信を生成します。また、絵を描くこともサポートしており、ユーザーがテキストを入力すると、自動的に図を作成することができます。将来的には、文心一言、通義千問、MOSSなどの国産AIモデルを統合し、継続的に更新しています。さらに多くの機能が解除されるのをお待ちしています。
- * ⚠️ [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - ⭐ 242 / Azure OpenAIとChatGPTを使用してチャットアプリケーションを構築してください。
+ * ⚠️ [chatgpt-quickstart](https://github.com/azure-samples/chatgpt-quickstart) - ⭐ 243 / Azure OpenAIとChatGPTを使用してチャットアプリケーションを構築してください。
  * 💤 [autoblogger](https://github.com/incomestreamsurfer/autoblogger) - ⭐ 188 / これはChatGPT APIとStable Diffusion APIを使用して、完全に最適化されたブログ記事を作成し、自動的にWordPressに投稿する自動ブロガーです。
  * 💤 [chatserver-api](https://github.com/wooveep/chatserver-api) - ⭐ 47 / OPENAIに基づいて開発されたChatGPT APIを使用したAIアシスタントシステムChatserver-web。ローカルデータベースのベクトルクエリに対応しています。バックエンドAPIサービスはGolang言語を使用しています。
  * 💤 [laravel-synth](https://github.com/blinq-dev/laravel-synth) - ⭐ 280 / ChatGPTを使用してLaravelコードを生成します。
@@ -1913,7 +1913,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [power-chatgpt](https://github.com/youngle316/power-chatgpt) - ⭐ 49 / チャットGPTのためのパワーツール
  * ⚠️ [cg](https://github.com/25077667/cg) - ⭐ 12 / 無料でOpenAIのchatGPTを使用したコミット
  * 💤 [ninja](https://github.com/gngpp/ninja) - ⭐ 1.7k / 逆エンジニアリングされたChatGPTプロキシ
- * 🔥 [free-chat](https://github.com/cnseniorious000/free-chat) - ⭐ 191 / フォーク元：@anse-app/chatgpt-demoからフォークしました。インデックスサイトはhttps://free-chat.asia/です。
+ * ✅ [free-chat](https://github.com/cnseniorious000/free-chat) - ⭐ 191 / フォーク元：@anse-app/chatgpt-demoからフォークしました。インデックスサイトはhttps://free-chat.asia/です。
  * ⚠️ [Vontigo](https://github.com/vontigo/vontigo) - ⭐ repo not found / 🛸 VontigoはSvelteKitで構築されたオープンソースのCMSで、🤖 AI（ChatGPT）によるコンテンツ生成機能を備えています。高速なページ読み込みとシームレスなルーティングにより、Vontigoはカスタマイズ可能なテーマとテンプレートを備えたユーザーフレンドリーなインターフェースを提供します。
  * 💤 [7-docs](https://github.com/7-docs/7-docs) - ⭐ 126 / 公開されているGitHubリポジトリをソースとして使用し、ChatGPTを通じてそれに関する質問をする
  * 💤 [chatgpt-pre-commit-hooks](https://github.com/dariuszporowski/chatgpt-pre-commit-hooks) - ⭐ 32 / ChatGPTとOpenAIプラットフォームを利用して、コードベースへの変更を検証するためのプリコミットフックのコレクション。
@@ -1923,9 +1923,9 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [chatgpt-nodejs-web](https://github.com/xingxin666/chatgpt-nodejs-web) - ⭐ 56 / chatgpt nodejsサービスは、ChatGLM、GPT3.5、GPT4、GPTネットワーキング、Bing、Claude、Baidu Wenxin Yiyuなどのモデルを統合しています。
  * 💤 [chatgpt-ui](https://github.com/dvcrn/chatgpt-ui) - ⭐ 101 / Elixir + LiveViewで書かれた、ビジネス向けの認証付きChatGPT UI
  * 💤 [chatgpt-ai-template](https://github.com/horizon-ui/chatgpt-ai-template) - ⭐ 622 / 🧠 Horizon AI テンプレート - 最新のオープンソース ChatGPT UI AI テンプレート＆React、NextJS、Chakra UI のスターターキット
- * 🔥 [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - ⭐ 825 / JSONファイルからChatGPTのデータエクスポート全体を簡単に抽出し、整形されたマークダウンファイルに変換するスクリプト。
+ * 🔥 [chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - ⭐ 828 / JSONファイルからChatGPTのデータエクスポート全体を簡単に抽出し、整形されたマークダウンファイルに変換するスクリプト。
  * 💤 [chatgpt-aoai](https://github.com/karleeov/chatgpt-aoai) - ⭐ 21 / Azure OpenAIを使用して独自のChatGPTポータルを作成します。
- * 🔥 [siyuan](https://github.com/siyuan-note/siyuan) - ⭐ 41k / プライバシー重視、セルフホスト型、完全オープンソースの個人向け知識管理ソフトウェア。TypescriptとGolangで書かれています。
+ * ✅ [siyuan](https://github.com/siyuan-note/siyuan) - ⭐ 41k / プライバシー重視、セルフホスト型、完全オープンソースの個人向け知識管理ソフトウェア。TypescriptとGolangで書かれています。
  * 💤 [Free-ChatGPT-API](https://github.com/mufeng510/free-chatgpt-api) - ⭐ 135 / PandoraをベースにしたChatGPT APIにより、プールトークンの自動更新が実現されました。
  * 🔥 [QChatGPT](https://github.com/rockchinq/qchatgpt) - ⭐ 15k / 😎高い安定性、🧩プラグインのサポート、🌏リアルタイムのネットワーキングを備えたChatGPT QQロボット🤖 | ChatGPT、New Bing、Claude、Google Bard、gpt4free、One APIをサポートするQQロボットプラットフォーム
  * 💤 [novel](https://github.com/steven-tey/novel) - ⭐ 16k / AIパワードのオートコンプリート機能を備えたNotionスタイルのWYSIWYGエディター。
@@ -1943,56 +1943,56 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - ⭐ invalid / Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。Github CopilotのリクエストをChatGPTのリクエストに変換し、GPT-4モデルを無料で使用してください。
  * 💤 [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/patrikzeros-chatgpt-api-ui) - ⭐ 509 / OpenAI APIキーを使用して、ChatGPTと同じ体験ができる静的ウェブページです！
  * 💤 [NeuroGPT](https://github.com/neurogen-dev/neurogpt) - ⭐ 1.3k / チャットGPT API
- * ⚠️ [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - ⭐ 734 / AIがコードを生成します。
+ * ⚠️ [ant-codeAI](https://github.com/sparrow-js/ant-codeai) - ⭐ 733 / AIがコードを生成します。
  * 💤 [BestGPTs](https://github.com/agentops-ai/bestgpts) - ⭐ 1k / トップランクのOpenAI GPTs
- * ⚠️ [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - ⭐ 351 / フラッターチャットGPT
+ * ⚠️ [chat_gpt_sdk](https://github.com/redevrx/chat_gpt_sdk) - ⭐ 353 / フラッターチャットGPT
  * ⚠️ [chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - ⭐ 1.9k / ExpressとVue3を使用して構築されたChatGPT。このプロジェクトはChanzhaoyu/chatgpt-webからフォークされ、テナント管理とクラウドメッセージ同期機能が追加されています。MITライセンスに基づき、無料でオープンソースの学習に使用できます。
- * ⚠️ [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - ⭐ 885 / tiktokenのGoバージョン
+ * ⚠️ [tiktoken-go](https://github.com/pkoukk/tiktoken-go) - ⭐ 886 / tiktokenのGoバージョン
  * 💤 [openai-proxy](https://github.com/unickcheng/openai-proxy) - ⭐ 412 / openai-proxyは、OpenAI APIへのリクエストができないという問題を解決するために、中国のユーザー向けに提供されるソリューションです。
  * 💤 [hello-ai](https://github.com/xxxily/hello-ai) - ⭐ 1.3k / 仕事を奪うのはAIではなく、AIツールの使用をマスターする人です。次元の低下は最も致命的です：あなたを破壊し、あなたに何の関係もありません。《三体》
  * 💤 [ChatGPT-Paper-Reader](https://github.com/talkingwallace/chatgpt-paper-reader) - ⭐ 759 / このリポジトリは、PDF形式の研究論文を読んだり要約したりするのを手助けするシンプルなインターフェースを提供しています。読んだ後にいくつかの質問をすることができます。このインターフェースは、openai APIをベースに開発され、GPT-3.5-turboモデルを使用しています。
  * 💤 [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) - ⭐ 686 / Vue3.2、Vite4.1、TypeScript、Vuetify3、Chat GPT、Firebaseなどを基に最高の管理者を作成してください。
- * 🔥 [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - ⭐ 738 / GPT-4。OpenAIのtiktokenのポートに追加機能を備えています。
+ * ✅ [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer) - ⭐ 738 / GPT-4。OpenAIのtiktokenのポートに追加機能を備えています。
  * 💤 [tiktokenizer](https://github.com/dqbd/tiktokenizer) - ⭐ 1.5k / OpenAPIトークナイザーのためのオンラインプレイグラウンド
  * 🔥 [cognee](https://github.com/topoteretes/cognee) - ⭐ 12k / AIアプリケーションとAIエージェントのためのメモリ管理
- * 🔥 [finance](https://github.com/saleem-hadad/finance) - ⭐ 440 / 💰 ChatGPTによって提供される無料のオープンソースの個人向けファイナンス追跡Webアプリ。
+ * ✅ [finance](https://github.com/saleem-hadad/finance) - ⭐ 442 / 💰 ChatGPTによって提供される無料のオープンソースの個人向けファイナンス追跡Webアプリ。
  * 💤 [chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - ⭐ 1k / OpenAI APIをベースにした純粋なJavascript ChatGPTデモOpenAI APIをベースにした純粋なJavascript ChatGPTデモ
- * ⚠️ [one-api](https://github.com/martialbe/one-api) - ⭐ 2.6k / Input: OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.Output: OpenAI インターフェース管理＆配布システム、songquanpeng/one-apiを改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善します。
+ * 🔥 [one-api](https://github.com/martialbe/one-api) - ⭐ 2.6k / Input: OpenAI interface management & distribution system, modified from songquanpeng/one-api. Supports more models, adds statistical pages, and improves function calls for non-OpenAI models.Output: OpenAI インターフェース管理＆配布システム、songquanpeng/one-apiを改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善します。
  * 💤 [lux-ui](https://github.com/yangjiakai/lux-ui) - ⭐ 686 / Vue3.x、Vite5.x、TypeScript、Vuetify3.x、Chat GPTに基づいて最高の管理者を作成します。
  * 💤 [chatgpt-pro](https://github.com/eyucoder/chatgpt-pro) - ⭐ 488 / ChatGPT-Proは、ChatGPTとDALL.Eのパワーを組み合わせた高度なアプリケーションです。
  * 💤 [AI-Functions](https://github.com/torantulino/ai-functions) - ⭐ 939 / AIパワード機能マジック：GPTモデルを使用して再びコードを書く必要はありません！
  * 💤 [chat2api](https://github.com/lanqian528/chat2api) - ⭐ 3.4k / Web上のChatGPTをOpenAI API形式に変換できるサービス。
- * 💤 [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - ⭐ 997 / AIコードレビュアー：AIパワードのコードレビューでGitHubのワークフローを強化しましょう！OpenAIのGPT-4 APIを使用してプルリクエストに対して知的なフィードバックや提案を受け取り、コードの品質を向上させ開発者の時間を節約します。
- * 🔥 [yomo](https://github.com/yomorun/yomo) - ⭐ 1.9k / 🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク
+ * 💤 [ai-codereviewer](https://github.com/freeedcom/ai-codereviewer) - ⭐ 1k / AIコードレビュアー：AIパワードのコードレビューでGitHubのワークフローを強化しましょう！OpenAIのGPT-4 APIを使用してプルリクエストに対して知的なフィードバックや提案を受け取り、コードの品質を向上させ開発者の時間を節約します。
+ * ✅ [yomo](https://github.com/yomorun/yomo) - ⭐ 1.9k / 🦖 ジオ分散エッジAIインフラを構築するためのステートフルサーバーレスフレームワーク
  * 💤 [Gumroad-Landing-Page-Generator](https://github.com/peterw/gumroad-landing-page-generator) - ⭐ 377 / このプロジェクトは、Pythonスクリプトを使用してGumroadサイトからデータをスクレイピングし、OpenAIのGPT-4モデルを使用してカラフルでデザインされたHTMLページを生成し、生成されたページをVercelにデプロイします。
  * 💤 [ninja](https://github.com/0x676e67/ninja) - ⭐ 1.7k / 逆転させたChatGPTプロキシ
  * 💤 [chatgpt-adapter](https://github.com/bincooo/chatgpt-adapter) - ⭐ 1.1k / OpenAI API標準インターフェースサーバーに、openai-api、bing、gemini、coze、および絵画など複数のAIを統合したチャットインターフェースを適応させました。
  * 💤 [ChatGPT.Net](https://github.com/pawanosman/chatgpt.net) - ⭐ 387 / OpenAI API無料リバースプロキシ
- * 🔥 [hisabi](https://github.com/hisabi-app/hisabi) - ⭐ 440 / 💰 ChatGPTによって提供される無料のオープンソースの個人向け財務追跡Webアプリケーション。
- * ⚠️ [stride-gpt](https://github.com/mrwadams/stride-gpt) - ⭐ 981 / 与えられたアプリケーションに基づいて脅威モデルを生成するためにOpenAIのGPTモデルを活用するAIパワードの脅威モデリングツール。STRIDE方法論に基づいています。
+ * ✅ [hisabi](https://github.com/hisabi-app/hisabi) - ⭐ 442 / 💰 ChatGPTによって提供される無料のオープンソースの個人向け財務追跡Webアプリケーション。
+ * ⚠️ [stride-gpt](https://github.com/mrwadams/stride-gpt) - ⭐ 983 / 与えられたアプリケーションに基づいて脅威モデルを生成するためにOpenAIのGPTモデルを活用するAIパワードの脅威モデリングツール。STRIDE方法論に基づいています。
  * ⚠️ [generative-manim](https://github.com/360macky/generative-manim) - ⭐ 798 / 🎨 ビデオ生成のためのGPT ⚡️
  * 💤 [celeris-web](https://github.com/kirklin/celeris-web) - ⭐ 492 / Input: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。 Output: Celeris Webは、Vue 3、Vite、およびTypeScriptで構築された高性能でカスタマイズ可能なフロントエンド開発テンプレートです。最新の構文、コンポーネントおよびAPIの自動インポート、状態管理、中国語フォントのプリセット、国際化などが特徴です。
- * ⚠️ [liboai](https://github.com/d7ead/liboai) - ⭐ 479 / OpenAI API全体にアクセスするためのC++17ライブラリ。
- * ⚠️ [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - ⭐ 368 / GPTとtiktokenと一緒に使うための既製のトークナイザーライブラリ
- * ⚠️ [ai-commit](https://github.com/guanguans/ai-commit) - ⭐ 395 / AIを使用して、従来のgitコミットメッセージを自動生成します。 - 使用 AI 自动生成约定式 git 提交信息。
+ * ⚠️ [liboai](https://github.com/d7ead/liboai) - ⭐ 478 / OpenAI API全体にアクセスするためのC++17ライブラリ。
+ * ⚠️ [tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - ⭐ 369 / GPTとtiktokenと一緒に使うための既製のトークナイザーライブラリ
+ * ⚠️ [ai-commit](https://github.com/guanguans/ai-commit) - ⭐ 394 / AIを使用して、従来のgitコミットメッセージを自動生成します。 - 使用 AI 自动生成约定式 git 提交信息。
  * ⚠️ [MatGPT](https://github.com/toshiakit/matgpt) - ⭐ 234 / OpenAIのChatGPT APIにアクセスするためのMATLABアプリ
- * ⚠️ [one-hub](https://github.com/martialbe/one-hub) - ⭐ 2.6k / OpenAI インターフェース管理＆配布システム、songquanpeng/one-api を改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善しました。
+ * 🔥 [one-hub](https://github.com/martialbe/one-hub) - ⭐ 2.6k / OpenAI インターフェース管理＆配布システム、songquanpeng/one-api を改良。より多くのモデルをサポートし、統計ページを追加し、OpenAI以外のモデルの関数呼び出しを改善しました。
  * 🔥 [whodb](https://github.com/clidey/whodb) - ⭐ 4.6k / 軽量な次世代データエクスプローラー - Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB＆Elastic Searchとチャットインターフェース
  * 💤 [sum4all](https://github.com/fatwang2/sum4all) - ⭐ 351 / ウェブページ、ビデオ、画像の大規模モデルの要約
  * 💤 [Pet-GPT](https://github.com/hanzoe/pet-gpt) - ⭐ 389 / Pet-GPTは、PyQtで書かれたデスクトップペットプログラムで、OpenAIのGPTを呼び出してコンテキスト対話を行い、その後自分からチャットを始めます！
  * ⚠️ [PureChat](https://github.com/hyk260/purechat) - ⭐ 530 / PureChatは、ChatGPTを統合したチャットアプリであり、Vue3、Vite5、Electronで開発されています。
- * 💤 [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - ⭐ 212 / Input: OpenGPT 4oはOpenAI GPT 4oの無料の代替品です。
- * ⚠️ [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - ⭐ 835 / gpt-4oリアルタイム機能を使用するためのAzure OpenAIコードリソース
+ * 💤 [OpenGPT-4o](https://github.com/kingnish24/opengpt-4o) - ⭐ 213 / Input: OpenGPT 4oはOpenAI GPT 4oの無料の代替品です。
+ * ⚠️ [aoai-realtime-audio-sdk](https://github.com/azure-samples/aoai-realtime-audio-sdk) - ⭐ 836 / gpt-4oリアルタイム機能を使用するためのAzure OpenAIコードリソース
  * 🔥 [inbox-zero](https://github.com/elie222/inbox-zero) - ⭐ 10k / インボックスゼロに迅速に到達するためのオープンソースのメールアプリ。
  * 🔥 [ToolJet](https://github.com/tooljet/tooljet) - ⭐ 37k / ビジネスアプリケーションを構築するための低コードプラットフォーム。データベース、クラウドストレージ、GraphQL、APIエンドポイント、Airtable、Googleシート、OpenAIなどに接続し、ドラッグアンドドロップのアプリケーションビルダーを使用してアプリを構築します。JavaScript/TypeScriptを使用して構築されています。🚀
- * 🔥 [AutoGPT](https://github.com/significant-gravitas/autogpt) - ⭐ 182k / AutoGPTは、誰もが利用し、構築することができるアクセス可能なAIのビジョンです。私たちの使命は、あなたが重要なことに集中できるようにツールを提供することです。
+ * ✅ [AutoGPT](https://github.com/significant-gravitas/autogpt) - ⭐ 182k / AutoGPTは、誰もが利用し、構築することができるアクセス可能なAIのビジョンです。私たちの使命は、あなたが重要なことに集中できるようにツールを提供することです。
  * 🔥 [pr-agent](https://github.com/codium-ai/pr-agent) - ⭐ 10k / 🚀CodiumAI PR-Agent: 自動プルリクエストの分析、フィードバック、提案などを行うAI搭載ツール！ 💻🔍
  * ⚠️ [whisper-diarization](https://github.com/mahmoudashraf97/whisper-diarization) - ⭐ 5.4k / OpenAI Whisperに基づいたスピーカーダイアリゼーション付きの自動音声認識
  * 💤 [swarm](https://github.com/openai/swarm) - ⭐ 21k / エルゴノミックで軽量なマルチエージェントのオーケストレーションを探求する教育フレームワーク。OpenAIソリューションチームによって管理されています。
- * 🔥 [DashPlayer](https://github.com/solidspoon/dashplayer) - ⭐ 3.8k / 英語学習者向けにカスタマイズされたビデオプレーヤー、ビデオを視聴し、リアルな文脈に没頭することで、英語力を簡単に向上させるお手伝いをします。#海外ドラマ #プレーヤー #リスニング
+ * ✅ [DashPlayer](https://github.com/solidspoon/dashplayer) - ⭐ 3.8k / 英語学習者向けにカスタマイズされたビデオプレーヤー、ビデオを視聴し、リアルな文脈に没頭することで、英語力を簡単に向上させるお手伝いをします。#海外ドラマ #プレーヤー #リスニング
  * 🔥 [logfire](https://github.com/pydantic/logfire) - ⭐ 4k / Pythonをはじめとするシンプルな観測可能性！ 🪵🔥
  * 🔥 [new-api](https://github.com/calcium-ion/new-api) - ⭐ 18k / AIモデルのインターフェース管理および配布システムは、複数の大規模モデルをOpenAI形式で呼び出すことをサポートし、Midjourney Proxy、Suno、Rerankをサポートし、EasyPayプロトコルと互換性があります。個人または企業の内部管理および配布チャネルでのみ使用するために提供されており、商業目的には使用しないでください。このプロジェクトはOne APIをベースに二次開発されています。
- * 🔥 [STranslate](https://github.com/zggsong/stranslate) - ⭐ 5.6k / WPF/WPFで開発された即座に使用可能な翻訳OCRツール
+ * ✅ [STranslate](https://github.com/zggsong/stranslate) - ⭐ 5.6k / WPF/WPFで開発された即座に使用可能な翻訳OCRツール
  * ⚠️ [fastembed](https://github.com/qdrant/fastembed) - ⭐ 2.7k / 高速で正確で軽量なPythonライブラリを使用して、最先端の埋め込みを作成します。
  * 💤 [openai-openapi](https://github.com/openai/openai-openapi) - ⭐ 2.3k / OpenAI APIのOpenAPI仕様書
  * 🔥 [openai-dotnet](https://github.com/openai/openai-dotnet) - ⭐ 2.5k / OpenAI APIの公式.NETライブラリ
@@ -2003,20 +2003,20 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [WAAS](https://github.com/schibsted/waas) - ⭐ 2k / Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）Whisper as a Service（OpenAI Whisper用のキュー付きGUIおよびAPI）
  * ⚠️ [coai](https://github.com/coaidev/coai) - ⭐ 8.9k / 🚀 次世代AIワンストップ国際化ソリューション。🚀 下一代AI一站式B/C端解决方案，支持OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型
  * ⚠️ [self-operating-computer](https://github.com/othersideai/self-operating-computer) - ⭐ 10k / コンピュータを操作するためのマルチモーダルモデルを可能にするフレームワーク
- * 🔥 [blinko](https://github.com/blinko-space/blinko) - ⭐ 9.4k / オープンソースで、プライバシーを重視した、自己ホスト型の個人用ノートツール。TypeScriptを使用して構築されています。
+ * ✅ [blinko](https://github.com/blinko-space/blinko) - ⭐ 9.5k / オープンソースで、プライバシーを重視した、自己ホスト型の個人用ノートツール。TypeScriptを使用して構築されています。
  * 🔥 [vibe](https://github.com/thewh1teagle/vibe) - ⭐ 5.3k / 自分で書き写してください！
- * 🔥 [auto-subs](https://github.com/tmoroney/auto-subs) - ⭐ 2.8k / AIを使用してDavinci Resolveで字幕を生成し、スピーカーを日記化します。
+ * 🔥 [auto-subs](https://github.com/tmoroney/auto-subs) - ⭐ 2.9k / AIを使用してDavinci Resolveで字幕を生成し、スピーカーを日記化します。
  * 🔥 [BaseAI](https://github.com/langbaseinc/baseai) - ⭐ 1.2k / Input: BaseAI — The Web AI Framework. The easiest way to build serverless autonomous AI agents with memory. Start building local-first, agentic pipes, tools, and memory. Deploy serverless with one command.Output: BaseAI — ウェブAIフレームワーク。メモリを持つサーバーレスな自律型AIエージェントを構築する最も簡単な方法。ローカルファースト、エージェントパイプ、ツール、メモリを構築し始めましょう。1つのコマンドでサーバーレスに展開します。
- * ⚠️ [vector-vein](https://github.com/andersonby/vector-vein) - ⭐ 940 / ノーコードAIワークフロー。ワークフローノードをドラッグアンドドロップして、AIエージェントと共にワークフローを使用します。
+ * ⚠️ [vector-vein](https://github.com/andersonby/vector-vein) - ⭐ 941 / ノーコードAIワークフロー。ワークフローノードをドラッグアンドドロップして、AIエージェントと共にワークフローを使用します。
  * 💤 [faster-whisper-GUI](https://github.com/cheshirecc/faster-whisper-gui) - ⭐ 2.9k / PySide6を使用したfaster_whisper GUI
  * ⚠️ [APIPark](https://github.com/apiparklab/apipark) - ⭐ 1.6k / 🦄APIParkは、#1のオープンソースAIゲートウェイおよび開発者ポータルであり、AIやAPIサービスを簡単に管理、統合、展開できるようにします。APIParkはさまざまな大規模なAIモデルとシームレスに接続し、これらのAI機能をAPIにパッケージ化して簡単に呼び出すことができます。
- * 🔥 [subgen](https://github.com/mcclouds/subgen) - ⭐ 1.2k / Jellyfin、Plex、Emby、Tautulli、またはBazarrを使用してOpenAI Whisper Modelを使用して自動生成された字幕
+ * ✅ [subgen](https://github.com/mcclouds/subgen) - ⭐ 1.2k / Jellyfin、Plex、Emby、Tautulli、またはBazarrを使用してOpenAI Whisper Modelを使用して自動生成された字幕
  * 💤 [openai-realtime-console](https://github.com/openai/openai-realtime-console) - ⭐ 3.6k / リアルタイムAPIを使用して検査、構築、デバッグするためのReactアプリ
  * ⚠️ [whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - ⭐ 3.2k / OpenAI Whisper ASRウェブサービスAPI
  * 💤 [openai-realtime-embedded-sdk](https://github.com/openai/openai-realtime-embedded-sdk) - ⭐ 1.6k / ESP32のようなマイクロコントローラーでRealtime APIを使用するためのSDK
- * 🔥 [openai-go](https://github.com/openai/openai-go) - ⭐ 3k / OpenAI APIの公式Goライブラリ
+ * ✅ [openai-go](https://github.com/openai/openai-go) - ⭐ 3k / OpenAI APIの公式Goライブラリ
  * 💤 [interview-coder](https://github.com/ibttf/interview-coder) - ⭐ 4.4k / 技術面接に合格するのを手助けするオープンソースの見えないデスクトップアプリケーション。
- * 💤 [denser-retriever](https://github.com/denser-org/denser-retriever) - ⭐ 293 / アプリケーションにAIを統合するために設計されたエンタープライズグレードのAIリトリーバーは、最先端の精度を確保し、効率的にします。
+ * 💤 [denser-retriever](https://github.com/denser-org/denser-retriever) - ⭐ 294 / アプリケーションにAIを統合するために設計されたエンタープライズグレードのAIリトリーバーは、最先端の精度を確保し、効率的にします。
  * 💤 [ShortGPT](https://github.com/rayventura/shortgpt) - ⭐ 7.1k / 🚀🎬 ShortGPT - YouTubeショートやTikTokチャンネルの自動化のための実験的なAIフレームワーク
  * 🔥 [pr-agent](https://github.com/qodo-ai/pr-agent) - ⭐ 10k / 🚀 PRエージェント（Qodo Mergeオープンソース）：自動プルリクエスト分析、フィードバック、提案などを行うAIパワード🤖ツール！💻🔍
  * 💤 [ChatChat](https://github.com/okisdev/chatchat) - ⭐ 1.3k / Chat Chat、シンプルで使いやすいインターフェースを備えたAIプラットフォームに統合されたチャットと検索。Chat Chat、あなた自身の統合されたチャットと検索をAIプラットフォームで、シンプルで使いやすいインターフェースで提供します。
@@ -2024,98 +2024,101 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - ⭐ 6.8k / これは、リアルタイムAPIをベースに構築されたより高度なエージェントパターンのシンプルなデモンストレーションです。
  * ⚠️ [node-DeepResearch](https://github.com/jina-ai/node-deepresearch) - ⭐ 5.1k / 答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）答えを見つけるまで、ウェブページを読み続け、推論を続けます（またはトークン予算を超えるまで）
  * ⚠️ [FinRL-Meta](https://github.com/ai4finance-foundation/finrl-meta) - ⭐ 1.8k / FinRL-Meta：FinRLのための動的データセットと市場環境。FinRL-Meta：FinRLのための動的データセットと市場環境。
- * 🔥 [note-gen](https://github.com/codexu/note-gen) - ⭐ 11k / 記録と執筆に特化したクロスプラットフォームAIノート
+ * ✅ [note-gen](https://github.com/codexu/note-gen) - ⭐ 11k / 記録と執筆に特化したクロスプラットフォームAIノート
  * ⚠️ [DeepClaude](https://github.com/erlichliu/deepclaude) - ⭐ 2.8k / DeepSeek r1とClaude 3.5 Sonnetが最高の組み合わせを実現し、最強モデルの力を完全に解放します。OpenAIストリーミング出力をサポートし、お気に入りのChatBoxで実行できます！
  * ⚠️ [openai](https://github.com/azure-samples/openai) - ⭐ 1.3k / すべてのAzure OpenAIサンプルのリポジトリは、OpenAIクックブックを補完します。
- * 🔥 [openai-java](https://github.com/openai/openai-java) - ⭐ 1.3k / OpenAI APIの公式Javaライブラリ
- * ⚠️ [deepseek4j](https://github.com/pig-mesh/deepseek4j) - ⭐ 754 / ディープシークJava SDK
+ * 🔥 [openai-java](https://github.com/openai/openai-java) - ⭐ 1.4k / OpenAI APIの公式Javaライブラリ
+ * ⚠️ [deepseek4j](https://github.com/pig-mesh/deepseek4j) - ⭐ 755 / ディープシークJava SDK
  * ⚠️ [stable-baselines3-contrib](https://github.com/stable-baselines-team/stable-baselines3-contrib) - ⭐ 691 / Stable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コードStable-Baselines3用のContribパッケージ - 実験的な強化学習（RL）コード
  * 🔥 [hydra](https://github.com/ory/hydra) - ⭐ 17k / 世界で唯一のウェブスケール、完全にカスタマイズ可能なOpenID Certified™ OpenID ConnectおよびOAuth2プロバイダー。一晩でOpenID ConnectおよびOAuth2プロバイダーになる。Goで書かれ、クラウドネイティブ、ヘッドレス、APIファースト。Ory Networkおよびfでサービスとして利用可能。
  * ⚠️ [Fay](https://github.com/xszyou/fay) - ⭐ 12k / Input: fayは、デジタル人物（2.5D、3D、モバイル、PC、ウェブ）または大規模言語モデル（OpenAI互換、DeepSeek）がビジネスシステムに接続するのを支援するエージェントフレームワークです。
  * ⚠️ [learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai) - ⭐ 3.9k / OpenAI Agents SDK、Autogen、CrewAI、LangGraph、およびKnowledge Graphsを使用してAgentic AIを学ぶ。
- * ⚠️ [an-codeAI](https://github.com/sparrow-js/an-codeai) - ⭐ 734 / AIがコードを生成します。
- * ⚠️ [design2code](https://github.com/mostafasadeghi97/design2code) - ⭐ 662 / どんなウェブデザインのスクリーンショットでも、クリーンなHTML/CSSコードに変換します清潔なHTML/CSSコードに変換
- * 🔥 [giselle](https://github.com/giselles-ai/giselle) - ⭐ 482 / ジゼル：エージェンティックワークフローのためのAI。人間とAIの協力。オープンソース。
+ * ⚠️ [an-codeAI](https://github.com/sparrow-js/an-codeai) - ⭐ 733 / AIがコードを生成します。
+ * ⚠️ [design2code](https://github.com/mostafasadeghi97/design2code) - ⭐ 663 / どんなウェブデザインのスクリーンショットでも、クリーンなHTML/CSSコードに変換します清潔なHTML/CSSコードに変換
+ * 🔥 [giselle](https://github.com/giselles-ai/giselle) - ⭐ 484 / ジゼル：エージェンティックワークフローのためのAI。人間とAIの協力。オープンソース。
  * ⚠️ [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - ⭐ 4.8k / AIパワーを持つデータサイエンスチームのエージェントが、一般的なデータサイエンスタスクを10倍速く実行するのを手伝います。
  * 🔥 [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - ⭐ 47k / OpenAIのWhisperモデルのC/C++でのポートWhisperモデルのC/C++におけるポート
  * 💤 [openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - ⭐ 1.3k / 複数のコンピュータ環境でAPIを使用してCUA（当社のコンピュータ利用エージェント）の使用方法を学びます。
  * 💤 [whisper_real_time](https://github.com/davabase/whisper_real_time) - ⭐ 2.9k / OpenAI Whisperを使用したリアルタイムの転写。
- * ⚠️ [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - ⭐ 905 / MCPツールを呼び出すことができるopenAI互換のエンドポイントを提供するミドルウェア
+ * ⚠️ [MCP-Bridge](https://github.com/secretiveshell/mcp-bridge) - ⭐ 907 / MCPツールを呼び出すことができるopenAI互換のエンドポイントを提供するミドルウェア
  * 🔥 [LocalAGI](https://github.com/mudler/localagi) - ⭐ 1.6k / LocalAGIは、最大限のプライバシーと柔軟性を備えた強力な、自己ホスト可能なAIエージェントプラットフォームです。OpenAIのResponses APIの完全なドロップイン置換で、高度なエージェント機能を備えています。クラウドなし。データ漏洩なし。純粋なローカルAIのみが動作します。
- * 🔥 [AI-Gateway](https://github.com/azure-samples/ai-gateway) - ⭐ 867 / APIM ❤️ AI - このリポジトリには、Azure API ManagementのAI機能に関する実験が含まれており、Azure OpenAI、AI Foundryなどと統合されています 🚀
+ * 🔥 [AI-Gateway](https://github.com/azure-samples/ai-gateway) - ⭐ 872 / APIM ❤️ AI - このリポジトリには、Azure API ManagementのAI機能に関する実験が含まれており、Azure OpenAI、AI Foundryなどと統合されています 🚀
  * 💤 [chat-api](https://github.com/ai365vip/chat-api) - ⭐ 598 / OpenAI インターフェースの統合管理、私たちは優れたAPIアクセスサービスを提供することに取り組んでおり、先進的なAIモデルを製品やサービスに簡単に統合できるようにしています。
  * 💤 [attorch](https://github.com/bobmcdear/attorch) - ⭐ 595 / OpenAIのTritonを使用してPythonで書かれたPyTorchのニューラルネットワークモジュールのサブセット。PyTorchのニューラルネットワークモジュールのサブセット、OpenAIのTritonを使用してPythonで書かれています。
  * ⚠️ [shippie](https://github.com/mattzcarey/shippie) - ⭐ 2.3k / 拡張可能なコードレビューエージェント 🚢
  * ⚠️ [zenfeed](https://github.com/glidea/zenfeed) - ⭐ 1.6k / AI 🧠✨を使ってRSS 📰を再び素晴らしくしましょう！
  * 💤 [gitpodcast](https://github.com/bandarlabs/gitpodcast) - ⭐ 802 / どんなgitリポジトリも魅力的なポッドキャストに変換します。
- * 🔥 [blinko](https://github.com/blinkospace/blinko) - ⭐ 9.4k / オープンソースで、プライバシーを重視した、自己ホスト型の個人用AIノートツール。TypeScriptを使用して構築されています。
- * 🔥 [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - ⭐ 2.1k / Python + FastAPI + Playwright + Camoufoxをベースとしたプロキシサーバーで、OpenAI APIと互換性があり、リクエストをGoogle AI Studioのウェブ版対話に転送し、同様に標準形式で出力を返すツールです。余暇の時間が限られているため、更新は不定期です。
- * ⚠️ [VoAPI](https://github.com/voapi/voapi) - ⭐ 920 / 全新の高い美的価値/高性能のAIモデルインターフェース管理および配布システムは、個人または企業の内部管理および配布チャネル専用です。商業目的での使用はお控えください。このプロジェクトはNewAPIに基づいて開発されています。
- * 🔥 [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - ⭐ 690 / Open AIで知的なソリューションを構築するためのワークショップ資料
+ * ✅ [blinko](https://github.com/blinkospace/blinko) - ⭐ 9.5k / オープンソースで、プライバシーを重視した、自己ホスト型の個人用AIノートツール。TypeScriptを使用して構築されています。
+ * ✅ [AIstudioProxyAPI](https://github.com/cjackhwang/aistudioproxyapi) - ⭐ 2.1k / Python + FastAPI + Playwright + Camoufoxをベースとしたプロキシサーバーで、OpenAI APIと互換性があり、リクエストをGoogle AI Studioのウェブ版対話に転送し、同様に標準形式で出力を返すツールです。余暇の時間が限られているため、更新は不定期です。
+ * ⚠️ [VoAPI](https://github.com/voapi/voapi) - ⭐ 926 / 全新の高い美的価値/高性能のAIモデルインターフェース管理および配布システムは、個人または企業の内部管理および配布チャネル専用です。商業目的での使用はお控えください。このプロジェクトはNewAPIに基づいて開発されています。
+ * 🔥 [OpenAIWorkshop](https://github.com/microsoft/openaiworkshop) - ⭐ 792 / Open AIで知的なソリューションを構築するためのワークショップ資料
  * ⚠️ [deepwiki-open](https://github.com/asyncfuncai/deepwiki-open) - ⭐ 14k / オープンソースDeepWiki：GitHub/Gitlab/Bitbucketリポジトリ用のAIパワードWikiジェネレーター。Discordに参加する：https://discord.gg/gMwThUMeme
- * 🔥 [scira](https://github.com/zaidmukaddam/scira) - ⭐ 11k / Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。
- * 🔥 [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - ⭐ 3.4k / 動画や音声を一括で小紅書/公式アカウント/知識ノート/マインドマップなど、様々なスタイルの文書に変換します。
- * 🔥 [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - ⭐ 935 / Amazon Bedrock用のOpenAI互換のRESTful API
- * ⚠️ [preparedness](https://github.com/openai/preparedness) - ⭐ 1k / OpenAIの準備からのリリース
+ * ✅ [scira](https://github.com/zaidmukaddam/scira) - ⭐ 11k / Scira（旧MiniPerplx）は、インターネット上で情報を見つけ、引用するのを手助けするミニマリスティックなAI搭載検索エンジンです。Vercel AI SDKによって動作します！ xAIのGrok 3などのモデルで検索できます。
+ * ✅ [AI-Media2Doc](https://github.com/hanshuaikang/ai-media2doc) - ⭐ 3.5k / 動画や音声を一括で小紅書/公式アカウント/知識ノート/マインドマップなど、様々なスタイルの文書に変換します。
+ * 🔥 [bedrock-access-gateway](https://github.com/aws-samples/bedrock-access-gateway) - ⭐ 936 / Amazon Bedrock用のOpenAI互換のRESTful API
+ * 🔥 [preparedness](https://github.com/openai/preparedness) - ⭐ 1.1k / OpenAIの準備からのリリース
  * 🔥 [SMRY](https://github.com/mrmps/smry) - ⭐ 1.2k / 要約を取得し、過去のペイウォールを取得するためのツール
- * 🔥 [course-builder](https://github.com/badass-courses/course-builder) - ⭐ 631 / 🍄 バッドアスコースを構築するためのプラットフォーム
- * ⚠️ [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - ⭐ 645 / OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。
+ * 🔥 [course-builder](https://github.com/badass-courses/course-builder) - ⭐ 634 / 🍄 バッドアスコースを構築するためのプラットフォーム
+ * ⚠️ [SwiftOpenAI](https://github.com/jamesrochabrun/swiftopenai) - ⭐ 646 / OpenAIの公開APIとやり取りするための最も完全なオープンソースのSwiftパッケージ。
  * 💤 [is-even-ai](https://github.com/calvin-ll/is-even-ai) - ⭐ 471 / ✨AI✨の力で数字が偶数かどうかをチェックする
- * 🔥 [k8m](https://github.com/weibaohui/k8m) - ⭐ 782 / 軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。
- * ⚠️ [meta-agent](https://github.com/dannymac180/meta-agent) - ⭐ 406 / OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント
+ * ✅ [k8m](https://github.com/weibaohui/k8m) - ⭐ 785 / 軽量でクロスプラットフォームのMini Kubernetes AIダッシュボードは、大規模モデル、インテリジェントエージェント、MCP（操作権限の設定をサポート）をサポートし、複数のクラスター管理、インテリジェント分析、リアルタイムの異常検出などの機能を統合しています。複数のアーキテクチャをサポートし、単一ファイルでの展開が可能で、効率的なクラスター管理と運用の最適化を支援します。
+ * ⚠️ [meta-agent](https://github.com/dannymac180/meta-agent) - ⭐ 408 / OpenAIのAgents SDKを使用して新しいエージェントを生成するエージェント
  * ⚠️ [jax-triton](https://github.com/jax-ml/jax-triton) - ⭐ 440 / jax-tritonには、JAXとOpenAI Tritonの統合が含まれています。
  * 🔥 [gpt-load](https://github.com/tbphp/gpt-load) - ⭐ 5.9k / Go言語で開発された、マルチキーのローテーションと負荷分散をサポートする高性能なOpenAI互換APIプロキシサーバー。
- * ⚠️ [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - ⭐ 771 / Appleのオンデバイスモデルに対応したOpenAI互換のAPIサーバー
- * ⚠️ [pentagi](https://github.com/vxcontrol/pentagi) - ⭐ 1.6k / ✨ 複雑な侵入テストタスクを実行できる完全自律型AIエージェントシステム
- * 🔥 [memorizz](https://github.com/richmondalake/memorizz) - ⭐ 687 / MemoRizz：AIアプリケーションのメモリレイヤーとして機能するPythonライブラリ。人気のあるデータベースやストレージソリューションを活用してメモリ使用量を最適化します。MongoDB統合やOpenなど、効率的なデータ管理のためのユーティリティクラスやメソッドを提供します。
- * 🔥 [xsai](https://github.com/moeru-ai/xsai) - ⭐ 568 / 🤖💬エクストラスモールAI SDK。
+ * ⚠️ [apple-on-device-openai](https://github.com/gety-ai/apple-on-device-openai) - ⭐ 773 / Appleのオンデバイスモデルに対応したOpenAI互換のAPIサーバー
+ * 🔥 [pentagi](https://github.com/vxcontrol/pentagi) - ⭐ 6.6k / ✨ 複雑な侵入テストタスクを実行できる完全自律型AIエージェントシステム
+ * ✅ [memorizz](https://github.com/richmondalake/memorizz) - ⭐ 687 / MemoRizz：AIアプリケーションのメモリレイヤーとして機能するPythonライブラリ。人気のあるデータベースやストレージソリューションを活用してメモリ使用量を最適化します。MongoDB統合やOpenなど、効率的なデータ管理のためのユーティリティクラスやメソッドを提供します。
+ * ✅ [xsai](https://github.com/moeru-ai/xsai) - ⭐ 568 / 🤖💬エクストラスモールAI SDK。
  * ⚠️ [myosuite](https://github.com/myohub/myosuite) - ⭐ 1.1k / MyoSuiteは、MuJoCo物理エンジンでシミュレートされた筋骨格モデルによって解決される環境/タスクのコレクションであり、OpenAI gym APIでラップされています。
  * 🔥 [NagaAgent](https://github.com/xxiii8322766509/nagaagent) - ⭐ 1.4k / 娜迦ローカルインテリジェンスエージェント、複数のエージェントと複数のMCP互換アーキテクチャに基づく汎用AIアシスタント
  * 💤 [draw-a-ui](https://github.com/sawyerhood/draw-a-ui) - ⭐ 14k / モックアップを描いて、それに対応するHTMLを生成します。
- * 🔥 [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - ⭐ 8.2k / 自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。
+ * ✅ [claude-relay-service](https://github.com/wei-shaw/claude-relay-service) - ⭐ 8.3k / 自分でClaudeコードのイメージサービスを構築し、複数のアカウントの切り替え、カスタムAPIキー、Claude API、OPENAI互換形式をサポートし、アカウントの封鎖を効果的に回避できます。OAuthの統合により、アカウントプールを簡単に追加できます。
  * ⚠️ [copilot-api](https://github.com/ericc-ch/copilot-api) - ⭐ 2.5k / GitHub CopilotをOpenAI/Anthropic API互換のサーバーに変換します。Claude Codeと一緒に使用できます！
- * 🔥 [ai2apps](https://github.com/avdpro/ai2apps) - ⭐ 436 / ローカルシステムでAI2Appsをセットアップして、独自のOpenAIキーを使用したり、より多くのバックエンド機能を追加したりできるようにします。
- * 🔥 [tersa](https://github.com/haydenbleasel/tersa) - ⭐ 828 / TersaはAIワークフローを構築するためのオープンソースのキャンバスです。
- * ⚠️ [ChatMock](https://github.com/raybytes/chatmock) - ⭐ 1.2k / ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。
+ * ✅ [ai2apps](https://github.com/avdpro/ai2apps) - ⭐ 436 / ローカルシステムでAI2Appsをセットアップして、独自のOpenAIキーを使用したり、より多くのバックエンド機能を追加したりできるようにします。
+ * 🔥 [tersa](https://github.com/haydenbleasel/tersa) - ⭐ 862 / TersaはAIワークフローを構築するためのオープンソースのキャンバスです。
+ * ⚠️ [ChatMock](https://github.com/raybytes/chatmock) - ⭐ 1.3k / ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。ChatGPTサブスクリプションを通じてOpenAIモデルにプログラムでアクセスします。
  * ⚠️ [openai-responses-starter-app](https://github.com/openai/openai-responses-starter-app) - ⭐ 780 / OpenAI Responses APIを使用して構築するためのスターターアプリ
  * ⚠️ [LMArenaBridge](https://github.com/lianues/lmarenabridge) - ⭐ repo not found / LMArenaBridgeは、強力なオープンソースツールであり、OpenAI APIと互換性のあるあらゆるアプリケーション（例：さまざまなAIチャットクライアント、プログラミングプラグインなど）を介して、[LMArena.ai](https://lmarena.ai/)ウェブサイトで提供されている大規模な先進的な言語モデルを使用できるようにする橋渡しの役割を果たします。
- * ⚠️ [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - ⭐ 2k / OpenAI APIプロキシへのクロードコード
+ * ⚠️ [claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - ⭐ 2.1k / OpenAI APIプロキシへのクロードコード
  * ⚠️ [harvester](https://github.com/wzdnzd/harvester) - ⭐ 551 / GitHubやWebソース向けのインテリジェントデータ取得フレームワーク
- * ⚠️ [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - ⭐ 539 / 目と耳を持つMCPマルチモーダルAIエージェント！
- * 🔥 [openai-ruby](https://github.com/openai/openai-ruby) - ⭐ 404 / 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
- * 🔥 [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - ⭐ 820 / GoogleのNotebookLMですが、ローカルです
- * ⚠️ [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - ⭐ 412 / OpenAI SDKを使用した短い例のシリーズ
- * ⚠️ [forge](https://github.com/tensorblock/forge) - ⭐ 342 / Forgeは、単一のAPIを介して複数のAIモデルプロバイダ（OpenAI、Anthropicなど）へのアクセスを統合するセルフホスト型のミドルウェアです。OpenAI互換のインターフェース、暗号化されたAPIキー管理、既存のツールやフロントエンドへの簡単な統合をサポートしています。
+ * ⚠️ [multimodal-agents-course](https://github.com/multi-modal-ai/multimodal-agents-course) - ⭐ 541 / 目と耳を持つMCPマルチモーダルAIエージェント！
+ * ✅ [openai-ruby](https://github.com/openai/openai-ruby) - ⭐ 404 / 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
+ * ✅ [Local-NotebookLM](https://github.com/goekdeniz-guelmez/local-notebooklm) - ⭐ 820 / GoogleのNotebookLMですが、ローカルです
+ * ⚠️ [python-openai-demos](https://github.com/pamelafox/python-openai-demos) - ⭐ 413 / OpenAI SDKを使用した短い例のシリーズ
+ * ⚠️ [forge](https://github.com/tensorblock/forge) - ⭐ 347 / Forgeは、単一のAPIを介して複数のAIモデルプロバイダ（OpenAI、Anthropicなど）へのアクセスを統合するセルフホスト型のミドルウェアです。OpenAI互換のインターフェース、暗号化されたAPIキー管理、既存のツールやフロントエンドへの簡単な統合をサポートしています。
  * 🔥 [PRarena](https://github.com/aavetis/prarena) - ⭐ 298 / このリポジトリは、OpenAI、GitHub、その他のトップSWEコーディングエージェントによって開かれたおよびマージされたPRを追跡しています。3時間ごとに更新されます。
  * 🔥 [archestra](https://github.com/archestra-ai/archestra) - ⭐ 3.6k / MCP、ガードレール、ローカルエージェントなどを備えた企業エージェント向けの安全なプラットフォーム！
- * ⚠️ [Rodel.Agent](https://github.com/richasy/rodel.agent) - ⭐ 385 / 主流オンラインAIサービスをサポートするアプリ
- * ⚠️ [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - ⭐ 784 / OpenAI ChatKit + Agent Builderを使用して構築するためのスターターアプリ
- * ⚠️ [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - ⭐ 776 / GitHubで利用可能なOpenAI APIキーをスキャンします。
- * ⚠️ [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - ⭐ 574 / OpenAI ChatKit SDKを使用して構築するためのスターターアプリ
- * 🔥 [xpert](https://github.com/xpert-ai/xpert) - ⭐ 364 / Xpert AIは、企業がビジネス上の意思決定を行うためのAIエージェントおよびデータ分析プラットフォームです。
+ * ⚠️ [Rodel.Agent](https://github.com/richasy/rodel.agent) - ⭐ 387 / 主流オンラインAIサービスをサポートするアプリ
+ * ⚠️ [openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) - ⭐ 790 / OpenAI ChatKit + Agent Builderを使用して構築するためのスターターアプリ
+ * ⚠️ [ChatGPT-API-Scanner](https://github.com/junyi-99/chatgpt-api-scanner) - ⭐ 779 / GitHubで利用可能なOpenAI APIキーをスキャンします。
+ * ⚠️ [openai-chatkit-advanced-samples](https://github.com/openai/openai-chatkit-advanced-samples) - ⭐ 580 / OpenAI ChatKit SDKを使用して構築するためのスターターアプリ
+ * ✅ [xpert](https://github.com/xpert-ai/xpert) - ⭐ 364 / Xpert AIは、企業がビジネス上の意思決定を行うためのAIエージェントおよびデータ分析プラットフォームです。
  * ⚠️ [openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) - ⭐ 2.1k / アプリSDKの例示アプリ
- * 🔥 [Shannon](https://github.com/kocoro-lab/shannon) - ⭐ 999 / オープンソースのAIエージェントオーケストレーターで、エンタープライズ向けのセキュリティ、コストコントロール、ベンダーの柔軟性を備えています。OpenAI AgentKitの代替となります。
- * 🔥 [axonhub](https://github.com/looplj/axonhub) - ⭐ 1.9k / AxonHubは、統一されたOpenAI、Anthropic、およびAI SDK互換のAPIを提供する現代のAIゲートウェイシステムです。
+ * 🔥 [Shannon](https://github.com/kocoro-lab/shannon) - ⭐ 1k / オープンソースのAIエージェントオーケストレーターで、エンタープライズ向けのセキュリティ、コストコントロール、ベンダーの柔軟性を備えています。OpenAI AgentKitの代替となります。
+ * 🔥 [axonhub](https://github.com/looplj/axonhub) - ⭐ 2k / AxonHubは、統一されたOpenAI、Anthropic、およびAI SDK互換のAPIを提供する現代のAIゲートウェイシステムです。
  * 🔥 [omniai](https://github.com/ksylvest/omniai) - ⭐ 250 / OmniAIは、OpenAIのChat GPT、MistralのLeChat、ClaudeのAnthropic、GoogleのGemini、DeepSeekのChatなど、複数のAIプロバイダーのAPIを標準化します。
- * 🔥 [aiproxy](https://github.com/labring/aiproxy) - ⭐ 353 / AI Proxyは、OpenAIとClaudeプロトコルをエントリーポイントとして使用する高性能AIゲートウェイです。インテリジェントなエラーハンドリング、マルチチャンネル管理、包括的なモニタリング機能を備えています。複数のモデル、レート制限、マルチテナントをサポートしています。
- * 🔥 [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - ⭐ 288 / GitHubモデルとAzure OpenAIと連携するPython AIエージェントフレームワークの例のリポジトリ。
+ * 🔥 [aiproxy](https://github.com/labring/aiproxy) - ⭐ 358 / AI Proxyは、OpenAIとClaudeプロトコルをエントリーポイントとして使用する高性能AIゲートウェイです。インテリジェントなエラーハンドリング、マルチチャンネル管理、包括的なモニタリング機能を備えています。複数のモデル、レート制限、マルチテナントをサポートしています。
+ * 🔥 [python-ai-agent-frameworks-demos](https://github.com/azure-samples/python-ai-agent-frameworks-demos) - ⭐ 290 / GitHubモデルとAzure OpenAIと連携するPython AIエージェントフレームワークの例のリポジトリ。
  * 🔥 [paperdebugger](https://github.com/paperdebugger/paperdebugger) - ⭐ 1.3k / Paper Debuggerは最高のオーバーリーフの相棒です。
- * 🔥 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 6k / OpenAI Codexの使用統計を表示します。
- * 🔥 [mcpcan](https://github.com/kymo-mcp/mcpcan) - ⭐ 664 / MCPCANはMCPサービスのための集中管理プラットフォームです。コンテナ展開方式を使用して各MCPサービスを展開します。このプラットフォームはコンテナの監視とMCPサービスのトークン検証をサポートし、セキュリティリスクを解決し、迅速な展開を可能にします。
+ * 🔥 [CodexBar](https://github.com/steipete/codexbar) - ⭐ 6.3k / OpenAI Codexの使用統計を表示します。
+ * ✅ [mcpcan](https://github.com/kymo-mcp/mcpcan) - ⭐ 687 / MCPCANはMCPサービスのための集中管理プラットフォームです。コンテナ展開方式を使用して各MCPサービスを展開します。このプラットフォームはコンテナの監視とMCPサービスのトークン検証をサポートし、セキュリティリスクを解決し、迅速な展開を可能にします。
  * 🔥 [agentic-commerce-protocol](https://github.com/agentic-commerce-protocol/agentic-commerce-protocol) - ⭐ 1.2k / エージェンティックコマースプロトコル（ACP）は、バイヤー、彼らのAIエージェント、および企業をシームレスに接続して購入を完了するためのインタラクションモデルおよびオープンスタンダードです。 仕様は現在、OpenAIとStripeによって維持されています。
  * ⚠️ [article-idea-generator](https://github.com/olanetsoft/article-idea-generator) - ⭐ 229 / 簡単に次の記事のアイデアを生成します。AIによって動作します。
- * 🔥 [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - ⭐ 774 / Gemini BusinessをOpenAI互換のAPIに変換し、複数アカウントの負荷分散と画像生成をサポートします。
- * ⚠️ [q2api](https://github.com/cassiopeiacode/q2api) - ⭐ 250 / Amazon Q to API Bridge：FastAPIを使用して実装されたブリッジサービスで、Amazon Q DeveloperをOpenAI Chat CompletionsとClaude Messagesに互換性のあるAPIに変換します。複数のアカウント管理、ランダムな負荷分散、ストリーミング応答をサポートしています。
- * ⚠️ [business2api](https://github.com/xxxxteam/business2api) - ⭐ 403 / OpenAI/Gemini 互換の Gemini ビジネス API 代理サービス
+ * 🔥 [gemini-business2api](https://github.com/dreamy-rain/gemini-business2api) - ⭐ 804 / Gemini BusinessをOpenAI互換のAPIに変換し、複数アカウントの負荷分散と画像生成をサポートします。
+ * ⚠️ [q2api](https://github.com/cassiopeiacode/q2api) - ⭐ 251 / Amazon Q to API Bridge：FastAPIを使用して実装されたブリッジサービスで、Amazon Q DeveloperをOpenAI Chat CompletionsとClaude Messagesに互換性のあるAPIに変換します。複数のアカウント管理、ランダムな負荷分散、ストリーミング応答をサポートしています。
+ * 🔥 [business2api](https://github.com/xxxxteam/business2api) - ⭐ 413 / OpenAI/Gemini 互換の Gemini ビジネス API 代理サービス
  * ⚠️ [onyx](https://github.com/rmourey26/onyx) - ⭐ 252 / Input: NextJS 14 + Supabase SSR Auth & PostgreSQL DB + Shadcn-UI + TanStack React Query + Rust runtime for Vercel serverless functions ready + React Hook Form + Zod + 'A' Security Headers Score + RBAC + Resend + CRUD operations + admin dashboard + OpenAI playgrouOutput: NextJS 14 + Supabase SSR 認証＆PostgreSQL DB + Shadcn-UI + TanStack React Query + Vercel サーバーレス関数用の Rust ランタイム準備完了 + React Hook Form + Zod + 'A' セキュリティヘッダースコア + RBAC + Resend + CRUD 操作 + 管理者ダッシュボード + OpenAI プレイグラウンド
- * 🔥 [lobehub](https://github.com/lobehub/lobehub) - ⭐ 72k / 仕事と生活のための究極のスペース-一緒に成長するエージェントチームと協力して見つけ、構築、協力するためのスペース。私たちはエージェントハーネスを次のレベルに引き上げています-マルチエージェントの協力、効率的なエージェントチームの設計、エージェントを導入する。
- * [Mysti](https://github.com/deepmyst/mysti) - VS CodeのAIコーディングドリームチームのエージェント。クロードコードとOpenAI Codexがブレインストーミングモードで協力し、解決策を議論し、あなたのコードに最適なアプローチを統合します。
+ * 🔥 [lobehub](https://github.com/lobehub/lobehub) - ⭐ 73k / 仕事と生活のための究極のスペース-一緒に成長するエージェントチームと協力して見つけ、構築、協力するためのスペース。私たちはエージェントハーネスを次のレベルに引き上げています-マルチエージェントの協力、効率的なエージェントチームの設計、エージェントを導入する。
+ * 🔥 [Mysti](https://github.com/deepmyst/mysti) - ⭐ 893 / VS CodeのAIコーディングドリームチームのエージェント。クロードコードとOpenAI Codexがブレインストーミングモードで協力し、解決策を議論し、あなたのコードに最適なアプローチを統合します。
+ * [9router](https://github.com/decolua/9router) - クロードコード、コーデックス、カーソル用のユニバーサルAIプロキシ | OpenAI、クロード、ジェミニ、コパイロット
+ * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - tRPC、Fastify、およびReactを使用して構築されたフルスタックSaaSボイラープレート
+ * [ai](https://github.com/laravel/ai) - Laravel AI SDKは、OpenAI、Anthropic、GeminiなどのAIプロバイダーとやり取りするための統一された表現豊かなAPIを提供します。
 
 
 ## Others
 
  * 💤 [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - ⭐ 34k / Visual ChatGPT: 視覚的な基盤モデルを用いた話し、描き、編集するための論文の公式リポジトリ。
- * ⚠️ [nanoGPT](https://github.com/karpathy/nanogpt) - ⭐ 53k / 中規模のGPTのトレーニング/ファインチューニングに最もシンプルで最速のリポジトリ。
+ * ⚠️ [nanoGPT](https://github.com/karpathy/nanogpt) - ⭐ 54k / 中規模のGPTのトレーニング/ファインチューニングに最もシンプルで最速のリポジトリ。
  * 🔥 [gpt_index](https://github.com/jerryjliu/gpt_index) - ⭐ 47k / Pythonでのテンソルと動的ニューラルネットワークは、強力なGPUアクセラレーションを備えています。
  * 💤 [nebullvm](https://github.com/nebuly-ai/nebullvm) - ⭐ 8.4k / あなたのAIシステムのパフォーマンスを最適化するためのプラグアンドプレイモジュール 🚀
  * 💤 [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - ⭐ 2k / 研究における検出、バイアスなどのためのGPT-2出力のデータセット
@@ -2140,7 +2143,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [stable-diffusion-webui-chatgpt-utilities](https://github.com/hallatore/stable-diffusion-webui-chatgpt-utilities) - ⭐ 476 / UIから直接ChatGPTを使用できるようになりました。
  * 💤 [reflexion](https://github.com/noahshinn024/reflexion) - ⭐ 3.1k / 反省：動的なメモリと自己反省を持つ自律エージェント
  * 💤 [stackexplain](https://github.com/shobrook/stackexplain) - ⭐ 1.4k / ChatGPTを使用してエラーメッセージを説明してください。
- * 💤 [nanoChatGPT](https://github.com/sanjeevanahilan/nanochatgpt) - ⭐ 295 / ガンベル・ソフトマックスのトリックを使ったnanoGPTの上に粗いRLHF層を重ねたもの。
+ * 💤 [nanoChatGPT](https://github.com/sanjeevanahilan/nanochatgpt) - ⭐ 296 / ガンベル・ソフトマックスのトリックを使ったnanoGPTの上に粗いRLHF層を重ねたもの。
  * 🔥 [flash-attention](https://github.com/hazyresearch/flash-attention) - ⭐ 22k / 高速でメモリ効率の良い正確なアテンション
  * 💤 [cgpt_exceptions](https://github.com/fkhan0520/cgpt_exceptions) - ⭐ 36 / 例外が発生した際に自動的にChatGPTからヘルプを取得するPythonパッケージを作成しました。ぜひチェックしてください！
  * ⚠️ [go-gpt3](https://github.com/sashabaranov/go-gpt3) - ⭐ 11k / Amazon Web ServicesへのPythonインターフェース
@@ -2156,7 +2159,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [GilgaiDetection](https://github.com/geezacoleman/gilgaidetection) - ⭐ 12 / ギルガイ検出のための単純な色閾値処理
  * 🔥 [chatgpt_stock_report](https://github.com/ddobokki/chatgpt_stock_report) - ⭐ 192 / その日の証券会社レポートをチャットGPTを活用して要約するレポート
  * 💤 [DeeperSpeed](https://github.com/eleutherai/deeperspeed) - ⭐ 171 / DeepSpeedは、分散トレーニングを簡単、効率的、効果的にする深層学習最適化ライブラリです。
- * 💤 [MM-REACT](https://github.com/microsoft/mm-react) - ⭐ 965 / MM-REACTの公式リポジトリ
+ * 💤 [MM-REACT](https://github.com/microsoft/mm-react) - ⭐ 966 / MM-REACTの公式リポジトリ
  * 💤 [WavCaps](https://github.com/xinhaomei/wavcaps) - ⭐ 257 / このリポジトリには、WavCapsデータセットのメタデータと、下流タスクのためのコードが含まれています。
  * 💤 [Painter](https://github.com/baaivision/painter) - ⭐ 2.6k / ペインター＆SegGPTシリーズ：BAAIのビジョン基盤モデル
  * 💤 [Auto-GPT](https://github.com/kanecohen/auto-gpt) - ⭐ 63 / GPT-4を完全に自律化するための実験的なオープンソースの試み。
@@ -2170,37 +2173,37 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [cloudgpt](https://github.com/ustayready/cloudgpt) - ⭐ 167 / ChatGPTを使用したAWS顧客管理ポリシーの脆弱性スキャナー
  * 💤 [LlamaAcademy](https://github.com/danielgross/llamaacademy) - ⭐ 1.2k / ラクダ科動物の学校
  * 💤 [magic-happens](https://github.com/empath-nirvana/magic-happens) - ⭐ 124 / どんな状況でも実行してはいけないKubernetesオペレーター
- * 💤 [Multi-GPT](https://github.com/rumpfmax/multi-gpt) - ⭐ 563 / GPT-4を完全に自律化するための実験的なオープンソースの試み。
+ * 💤 [Multi-GPT](https://github.com/rumpfmax/multi-gpt) - ⭐ 564 / GPT-4を完全に自律化するための実験的なオープンソースの試み。
  * 💤 [Image2Paragraph](https://github.com/showlab/image2paragraph) - ⭐ 825 / ChatGPT、BLIP2、OFA、GRIT、Segment Anything、ControlNetを使用して、画像をユニークな段落に変換します。
- * 💤 [xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit) - ⭐ 293 / BabyAGI/AutoGPTスタイルのエージェントを作成し、実験するためのXircuitsツールキット
+ * 💤 [xai-gpt-agent-toolkit](https://github.com/xpressai/xai-gpt-agent-toolkit) - ⭐ 292 / BabyAGI/AutoGPTスタイルのエージェントを作成し、実験するためのXircuitsツールキット
  * 💤 [celltypewriter](https://github.com/ntranoslab/celltypewriter) - ⭐ 13 / 👉更新：#celltypewriterを#gpt4 apiキーなしで使用できるようになりました。私たちは#無料版を設定しましたので、あなたの#データで試すことができます。✨これは数日間有効であり、または資金が尽きるまで有効です：）楽しんでください！GitHubリンク：
  * 💤 [AutoGPT-FR](https://github.com/mikiane/autogpt-fr) - ⭐ 17 / オートGPTのフランス語版
- * 🔥 [DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples) - ⭐ 6.8k / DeepSpeedを使用した例のモデル
+ * ✅ [DeepSpeedExamples](https://github.com/microsoft/deepspeedexamples) - ⭐ 6.8k / DeepSpeedを使用した例のモデル
  * 💤 [Caption-Anything](https://github.com/ttengwang/caption-anything) - ⭐ 1.8k / キャプション-Anythingは、画像セグメンテーション、ビジュアルキャプショニング、およびChatGPTを組み合わせた多目的ツールであり、ユーザーの好みに合わせた多様なコントロールを備えたカスタムキャプションを生成します。
  * 💤 [AudioGPT](https://github.com/aigc-audio/audiogpt) - ⭐ 10k / AudioGPT：音声、音楽、音、および話す頭の理解と生成
- * ⚠️ [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - ⭐ 279 / 機械学習プロジェクトには、ML/DLプロジェクト、ノートブック、ML/DLのチートコード、AI/AGIに関する有用な情報、コードやスニペット/スクリプト/タスクとヒントが含まれています。
+ * ⚠️ [Machine-Learning-Goodness](https://github.com/aurimas13/machine-learning-goodness) - ⭐ 280 / 機械学習プロジェクトには、ML/DLプロジェクト、ノートブック、ML/DLのチートコード、AI/AGIに関する有用な情報、コードやスニペット/スクリプト/タスクとヒントが含まれています。
  * 💤 [data-winners](https://github.com/frontanalyticsinc/data-winners) - ⭐ 308 / ウェブサイト開発、分析、最適化のための無料のPythonとRスクリプトのコレクション。トピカルオーソリティと意味的コンテンツ最適化のための高度なリソースを含みます。
  * 💤 [critique-apps](https://github.com/inspired-cognition/critique-apps) - ⭐ 57 / インスパイアド・コグニションのクリティークを使用して構築されたアプリ。
  * 💤 [deep-rl-class](https://github.com/huggingface/deep-rl-class) - ⭐ 4.8k / このリポジトリには、Hugging Face Deep Reinforcement Learningコースのシラバスが含まれています。
  * 💤 [deep-RL-elements](https://github.com/amazingang/deep-rl-elements) - ⭐ 315 / Pytorchでの深層強化学習アルゴリズム
  * 💤 [viper](https://github.com/cvlab-columbia/viper) - ⭐ 1.7k / 「ViperGPT：推論のためのPython実行による視覚的推論」の論文のコード
- * 💤 [ChatCaptioner](https://github.com/vision-cair/chatcaptioner) - ⭐ 467 / ChatCaptionerの公式リポジトリ
+ * 💤 [ChatCaptioner](https://github.com/vision-cair/chatcaptioner) - ⭐ 468 / ChatCaptionerの公式リポジトリ
  * 💤 [galai](https://github.com/paperswithcode/galai) - ⭐ 2.7k / GALACTICAのモデルAPI
  * 💤 [gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb) - ⭐ 687 / Jupyter NotebookでGOSTをインストールする。
  * 💤 [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop) - ⭐ 2k / フラッピーバードのゲームプレイでFacebookの友達とデュエルしよう。
  * 💤 [yobulkdev](https://github.com/yobulkdev/yobulkdev) - ⭐ 909 / 🔥 🔥 🔥オープンソース＆AI駆動のデータオンボーディングプラットフォーム：無料のflatfile.com代替品
- * 💤 [WTF-JavaScript](https://github.com/wtfacademy/wtf-javascript) - ⭐ 288 / 最近、私はJavaScriptを再学習して、細かいところを強化し、また「WTF JavaScript超入門」というものを書いて、初心者の方に学んでいただけるようにしています。
+ * 💤 [WTF-JavaScript](https://github.com/wtfacademy/wtf-javascript) - ⭐ 289 / 最近、私はJavaScriptを再学習して、細かいところを強化し、また「WTF JavaScript超入門」というものを書いて、初心者の方に学んでいただけるようにしています。
  * 💤 [gpt3-email](https://github.com/danimelchor/gpt3-email) - ⭐ 212 / GPT-3を使ってメールの作成を手助けする。
  * 💤 [chatgpt-action](https://github.com/kxxt/chatgpt-action) - ⭐ 573 / ChatGPTにPRのレビューをしてもらいましょう。
  * 🔥 [scalene](https://github.com/plasma-umass/scalene) - ⭐ 13k / Scalene：Python用の高性能、高精度のCPU、GPU、およびメモリプロファイラで、AIによる最適化提案を備えています。
- * 💤 [BingGPT](https://github.com/dice2o/binggpt) - ⭐ 9k / 新しいBingのAIチャットのデスクトップアプリケーション（Windows、macOS、Linux）
+ * 💤 [BingGPT](https://github.com/dice2o/binggpt) - ⭐ 9.1k / 新しいBingのAIチャットのデスクトップアプリケーション（Windows、macOS、Linux）
  * 💤 [ChatGPT-Feishu](https://github.com/bestony/chatgpt-feishu) - ⭐ 1.2k / フェイシューのために準備されたChatGPTロボット
  * 💤 [ARC](https://github.com/fchollet/arc) - ⭐ 4.7k / 抽象化と推論コーパス
  * 🔥 [pdf.js](https://github.com/mozilla/pdf.js) - ⭐ 53k / JavaScriptでのPDFリーダー
  * 💤 [adrenaline](https://github.com/shobrook/adrenaline) - ⭐ 3.8k / コードベースと話し合ってください。
  * ⚠️ [lorem-chatum-for-indesign](https://github.com/twardoch/lorem-chatum-for-indesign) - ⭐ 17 / ChatGPTを使用して、より良いLorem ipsumを生成するAdobe InDesign用のLorem Chatumスクリプト
  * 💤 [monocle-rizz](https://github.com/acui51/monocle-rizz) - ⭐ 236 / rizzGPT
- * 💤 [gptrpg](https://github.com/dzoba/gptrpg) - ⭐ 989 / RPG風の環境に存在するGPTベースのエージェントのデモ
+ * 💤 [gptrpg](https://github.com/dzoba/gptrpg) - ⭐ 990 / RPG風の環境に存在するGPTベースのエージェントのデモ
  * 💤 [ChattyCaty](https://github.com/cyberark/chattycaty) - ⭐ 33 / chattycaty - GPTモデルを使用して多様なプログラムを作成するOSSツール。
  * ⚠️ [appwrite](https://github.com/appwrite/appwrite) - ⭐ 55k / Web、モバイル、Flutter開発者向けの安全なバックエンドサーバー🚀、100％オープンソースのFirebase代替としても知られています。
  * 💤 [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - ⭐ 13k / Wechatyを介してWechatでChatGPTを使用してください。
@@ -2209,21 +2212,21 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [code-gpt](https://github.com/vaibhavacharya/code-gpt) - ⭐ 354 / いつでもどんなコードでも理解できるようになりましょう。🚀
  * 💤 [Portal](https://github.com/lxfater/portal) - ⭐ 1.7k / ポータルリリース：システムトレイモードがサポートされ、APIチャットモードの履歴オプションソリューションが提供され、チャットGPT Web切断問題の自動リモート更新が可能になりました。
  * 💤 [commitgpt](https://github.com/romanhotsiy/commitgpt) - ⭐ 1.6k / ChatGPTを使用してコミットメッセージを自動生成します。
- * 🔥 [chatgpt-md](https://github.com/bramses/chatgpt-md) - ⭐ 1.3k / ChatGPTをObsidianに（ほぼ）シームレスに統合。
+ * ✅ [chatgpt-md](https://github.com/bramses/chatgpt-md) - ⭐ 1.3k / ChatGPTをObsidianに（ほぼ）シームレスに統合。
  * 💤 [paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - ⭐ 2.7k / ポール・グレアム氏のすべてのエッセイに対応したAI検索＆チャット。
  * 💤 [colorGPT](https://github.com/sonnylazuardi/colorgpt) - ⭐ 578 / AIを使用して現実世界からキャプチャされた色名を生成する。
  * 🔥 [novu](https://github.com/novuhq/novu) - ⭐ 39k / 完全に機能する埋め込み通知センターを備えたオープンソースの通知インフラストラクチャー
- * 💤 [chatapi-single](https://github.com/bytemate/chatapi-single) - ⭐ 533 / シンプルでパワフルなChatGPT-API-サーバー
+ * 💤 [chatapi-single](https://github.com/bytemate/chatapi-single) - ⭐ 534 / シンプルでパワフルなChatGPT-API-サーバー
  * 💤 [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) - ⭐ 261 / あなたのKindleのハイライトに対してAI検索とチャット。
  * 💤 [gpt-4-for-code](https://github.com/anysphere/gpt-4-for-code) - ⭐ 494 / コードのGPT-4のいくつかの例を教えてください！
  * 💤 [M5Core2ImageAvatarLiteChatGPT](https://github.com/robo8080/m5core2imageavatarlitechatgpt) - ⭐ 6 / M5Stack Core2用のImageAvatarLiteChatGPT
  * 💤 [gpt4all-chat](https://github.com/nomic-ai/gpt4all-chat) - ⭐ 1.3k / gpt4all-j チャット
- * 🔥 [ggml](https://github.com/ggerganov/ggml) - ⭐ 14k / 機械学習のためのテンソルライブラリ
+ * ✅ [ggml](https://github.com/ggerganov/ggml) - ⭐ 14k / 機械学習のためのテンソルライブラリ
  * 💤 [blindvisaidgpt](https://github.com/justanotherlad/blindvisaidgpt) - ⭐ 5 / マイクロソフト/ビジュアルチャットGPTを使用した視覚障害者向けのインタラクティブ支援。
  * 💤 [cformers](https://github.com/nolanoorg/cformers) - ⭐ 311 / CPU上で高速推論するためのCバックエンドを備えたSoTAトランスフォーマー。
  * 🔥 [Pake](https://github.com/tw93/pake) - ⭐ 46k / 🤱🏻 Rustを使って、どんなウェブページでもデスクトップアプリに変換できます。 🤱🏻 Rustを使って、簡単にウェブページをパッケージ化して、小さなデスクトップアプリを作成できます。
  * 💤 [run-wild](https://github.com/refcell/run-wild) - ⭐ 285 / GPT-4環境アクセスの拡張
- * ⚠️ [gpt-macro](https://github.com/retrage/gpt-macro) - ⭐ 668 / コンパイル時にコードを生成するRustプロセスマクロを搭載したChatGPT。
+ * 🔥 [gpt-macro](https://github.com/retrage/gpt-macro) - ⭐ 668 / コンパイル時にコードを生成するRustプロセスマクロを搭載したChatGPT。
  * 💤 [nofwl](https://github.com/lencx/nofwl) - ⭐ 4.2k / NoFWLデスクトップアプリケーション
  * 💤 [gwipt](https://github.com/benwr/gwipt) - ⭐ 125 / GPT-3のコミットメッセージを使用して、すべての編集をwipブランチに自動的にコミットします。
  * 💤 [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) - ⭐ 3.1k / #8 WhatsAppとTelegramのためのchatgptグループチャットにchatgptを追加する：• WhatsAppgpt：• Telegramgpt：#8 WhatsAppとTelegramのためのchatgptグループチャットにchatgptを追加してください：• WhatsAppgpt：• Telegramgpt：
@@ -2232,7 +2235,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [wechatgpt](https://github.com/houko/wechatgpt) - ⭐ 861 / wechatgptのGolang版chatgptロボット（Dockerで展開可能）は、現在WeChatとTelegramをサポートしています。
  * ⚠️ [xiaogpt.git](https://github.com/yihong0618/xiaogpt.git) - ⭐ repo not found / bilibiliのバックエンドソースコード
  * 💤 [wechat-chatGPT](https://github.com/gtoxlili/wechat-chatgpt) - ⭐ 382 / ChatGPTでWeChat公式アカウントの受動的な返信インターフェースを実現する。
- * 🔥 [dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy) - ⭐ 13k / dnscrypt-proxy 2 - 暗号化されたDNSプロトコルをサポートする柔軟なDNSプロキシ。
+ * ✅ [dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy) - ⭐ 13k / dnscrypt-proxy 2 - 暗号化されたDNSプロトコルをサポートする柔軟なDNSプロキシ。
  * 💤 [review-gpt](https://github.com/vibovenkat123/review-gpt) - ⭐ 99 / GPT-3、GPT-3.5、およびGPT-4を使用する自動コードレビューツール
  * 🔥 [kube-ovn](https://github.com/kubeovn/kube-ovn) - ⭐ 2.3k / SDNとクラウドネイティブの橋渡し（CNCFプロジェクトの一環）
  * 💤 [gpt-takes-the-bar-exam](https://github.com/mjbommar/gpt-takes-the-bar-exam) - ⭐ 143 / GPTが司法試験を受ける
@@ -2242,7 +2245,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [LongReadBenchmark](https://github.com/xueyidong/longreadbenchmark) - ⭐ 27 / 長いリードRNA-seq解析ツールのベンチマークテスト
  * 💤 [GptMedCode](https://github.com/rohit43/gptmedcode) - ⭐ 6 / @zakkohane @arjunmanrai #ehr分析の観点から、#chatgptバックエンドを使用してコードを自動化できるかどうかを考えていました。しかし、返されたコードの品質はあまり信頼できませんでした。品質はicd&gt;loinc&gt;snomedです。
  * 💤 [AISisterAIChan](https://github.com/manju-summoner/aisisteraichan) - ⭐ 27 / ChatGPT3.5を搭載した伺かゴースト「AI妹アイちゃん」です。利用には別途ChatGPTのAPIキーが必要です。
- * 🔥 [Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt) - ⭐ 182k / 2017年GUJAM
+ * ✅ [Entrepreneur-GPT](https://github.com/torantulino/entrepreneur-gpt) - ⭐ 182k / 2017年GUJAM
  * 💤 [ChatGPTforRhino](https://github.com/4kk11/chatgptforrhino) - ⭐ 10 / chatgptforrhinoにgui実装してそれっぽくした！あとgithubに置いといた！
  * 💤 [OutlineStormingGPT](https://github.com/mayaenomoto/outlinestorminggpt) - ⭐ 1 / GPTとやわらかく話すためのツールです。
  * ⚠️ [Auto-GPT.git](https://github.com/torantulino/auto-gpt.git) - ⭐ repo not found / 高度なゲームエンジニアリングプロジェクト - 立方体ボクセルゲームメーカー
@@ -2261,13 +2264,13 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [MaterialGPT](https://github.com/dylanakp/materialgpt) - ⭐ 7 / MaterialGPTはAPIを使用したChatGPTのクローンです。
  * 💤 [chatwire](https://github.com/theokafadaris/chatwire) - ⭐ 160 / Laravelを使用した自己ホスト型のChatGPTクローン
  * 💤 [ChatGPTForTelegram](https://github.com/kylelin1998/chatgptfortelegram) - ⭐ 196 / 現在、ChatGPTを基にしたロボットが開発されています。ロボットを使用することで、簡単に会話をすることができます。また、ロボットのアップデートやアップグレードは、1つのコマンドで簡単に行うことができ、サーバーにアップグレードする必要はありません。
- * ⚠️ [GPTstudio](https://github.com/michelnivard/gptstudio) - ⭐ 987 / 固定効果と調整効果が許容される遺伝的分散成分モデルを推定するために特別に書かれたRおよびFORTRANベースの最適化プログラム。
+ * ⚠️ [GPTstudio](https://github.com/michelnivard/gptstudio) - ⭐ 986 / 固定効果と調整効果が許容される遺伝的分散成分モデルを推定するために特別に書かれたRおよびFORTRANベースの最適化プログラム。
  * 💤 [binary-dist](https://github.com/poslogithub/binary-dist) - ⭐ 3 / 実行可能バイナリ配布用
  * 💤 [GPTeacher](https://github.com/teknium1/gpteacher) - ⭐ 1.6k / GPT-4によって生成されたモジュラーデータセットのコレクション、General-Instruct - Roleplay-Instruct - Code-Instruct - Toolformer。
- * 💤 [AI-Toolbox](https://github.com/enbifa/ai-toolbox) - ⭐ 60 / AI愛好家やプロフェッショナルのための包括的なリソースを構築する。
+ * 💤 [AI-Toolbox](https://github.com/enbifa/ai-toolbox) - ⭐ 61 / AI愛好家やプロフェッショナルのための包括的なリソースを構築する。
  * 💤 [following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback) - ⭐ 1.3k / @rachel_l_woods これは私がgptに幻覚を見せないように指示するための定番のペーパーです。
- * 🔥 [Audits-Smart-Contracts](https://github.com/audit-ace/audits-smart-contracts) - ⭐ 21 / 🚀監査報告書の発表をお知らせします。おめでとうございます。チャットGPT🎉監査DM-
- * ⚠️ [Malware](https://github.com/objective-see/malware) - ⭐ 632 / macOSマルウェアコレクション
+ * ✅ [Audits-Smart-Contracts](https://github.com/audit-ace/audits-smart-contracts) - ⭐ 21 / 🚀監査報告書の発表をお知らせします。おめでとうございます。チャットGPT🎉監査DM-
+ * ⚠️ [Malware](https://github.com/objective-see/malware) - ⭐ 633 / macOSマルウェアコレクション
  * 💤 [inPars](https://github.com/zetaalphavector/inpars) - ⭐ 199 / VOSviewer Onlineはネットワーク可視化のためのツールです。これは、文献計量ネットワークの構築と可視化に広く使われているVOSviewerのWebベース版です。
  * 💤 [ai-review.vim](https://github.com/yuki-yano/ai-review.vim) - ⭐ 29 / 素早くコードを数えてください。
  * 💤 [gayolGate](https://github.com/gayolgate/gayolgate) - ⭐ 306 / 私のGitHubプロフィールに関する情報
@@ -2293,7 +2296,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [pandora](https://github.com/pengzhile/pandora) - ⭐ repo not found / パンドラは、あなたがスムーズに呼吸できるChatGPTです。
  * 💤 [ChatWaifu_Mobile](https://github.com/voine/chatwaifu_mobile) - ⭐ 1.4k / モバイル版二次元AI妻とのチャットボット
  * ⚠️ [ChatALL](https://github.com/sunner/chatall) - ⭐ 16k / ChatGPT、Bing Chat、bard、Alpaca、Vincuna、Claude、ChatGLM、MOSS、iFlytek Spark、ERNIEなどと同時にチャットし、最適な回答を発見してください。
- * 🔥 [fastGPT](https://github.com/certik/fastgpt) - ⭐ 203 / Fortranで書かれた高速なGPT-2推論
+ * ✅ [fastGPT](https://github.com/certik/fastgpt) - ⭐ 203 / Fortranで書かれた高速なGPT-2推論
  * 💤 [menubar](https://github.com/smol-ai/menubar) - ⭐ 4.3k / チャットGPT/Bard/Claudeへのゼロレイテンシーアクセスが可能なメニューバー！A/Bテストを行ったり、バックグラウンドで使用したりできます。私は1日に20回使用しています。
  * 💤 [quivr](https://github.com/stangirard/quivr) - ⭐ 39k / あなたのファイルや思考をすべてGenerativeAI Second Brainにダンプして、それとチャットしてください。
  * 💤 [GPTeam](https://github.com/101dotxyz/gpteam) - ⭐ 1.7k / GPTeam：オープンソースのマルチエージェントシミュレーション
@@ -2301,7 +2304,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [GirlfriendGPT](https://github.com/eniascailliau/girlfriendgpt) - ⭐ 2.7k / 「ガールフレンドGPT」は、ChatGPT4.0を使用して自分自身のAIガールフレンドを作成するためのPythonプロジェクトです。
  * 💤 [Mr.trans](https://github.com/illumine-labs/mr.trans) - ⭐ 354 / 心を照らし、学びを超越する
  * 💤 [chat_gpt_error_handler](https://github.com/schwad/chat_gpt_error_handler) - ⭐ 54 / 今日から私の新しいジェム「chat_gpt_error_handler」を試してみてください！エラースタックトレースの前に（うまくいけば）役立つChatGPTスニペットが表示されます。
- * 💤 [PandaGPT](https://github.com/yxuansu/pandagpt) - ⭐ 846 / PandaGPT：すべてを指示に従うための1つのモデル
+ * 💤 [PandaGPT](https://github.com/yxuansu/pandagpt) - ⭐ 847 / PandaGPT：すべてを指示に従うための1つのモデル
  * 💤 [rinna_gpt-neox_ggml-lora](https://github.com/yukaryavka/rinna_gpt-neox_ggml-lora) - ⭐ 18 / リポジトリには、「rinna/japanese-gpt-neox...」[gpt-neox]モデルをggmlに変換した場合に、LoRAチューニングのためにAlpaca-Loraアダプタに適応するために変更されたスクリプトとマージスクリプトが含まれています。
  * 💤 [gptlink](https://github.com/gptlink/gptlink) - ⭐ 2.6k / 自分で無料で商用可能なChatGPT環境を10分で構築できます。ユーザー、注文、タスク、支払いなどの機能が含まれ、構築は簡単です。
  * 💤 [tell-me-a-story-ai](https://github.com/kiki-le-singe/tell-me-a-story-ai) - ⭐ 37 / 「ストーリーを教えて」という小さなアプリは、ChatGPTとReact Nativeを使用してストーリーを書くことができるアプリです。
@@ -2330,12 +2333,12 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [GENIUS](https://github.com/mingkai-zheng/genius) - ⭐ 87 / GPT-4はニューラルアーキテクチャサーチを実行できるか？
  * 💤 [chatgpt-source-watch](https://github.com/0xdevalias/chatgpt-source-watch) - ⭐ 296 / キュレーションされたアーカイブとスクリプトを使用して、ChatGPTのコードベースの進化を時間の経過とともに分析する。
  * ⚠️ [PROFILEGPT](https://github.com/odiks/profilegpt) - ⭐ repo not found / PROFILEGPTは、Twitter上のプロフィールやハッシュタグを分析するためのツールです。このアプリケーションは、さまざまな技術やAPIを活用してデータを収集し、ユーザーのために情報を生成します。
- * 🔥 [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⭐ 178 / ⏩ 複数のChatGPTの応答を自動的に生成し続ける
+ * 🔥 [chatgpt-auto-continue](https://github.com/adamlui/chatgpt-auto-continue) - ⭐ 180 / ⏩ 複数のChatGPTの応答を自動的に生成し続ける
  * 💤 [a1gpt](https://github.com/a1k0n/a1gpt) - ⭐ 141 / 使い捨てのGPT推論
  * 💤 [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - ⭐ 5.7k / GPT 3.5/4とチャットWeb UIを使用しています。APIキーは必要ありません。
- * 🔥 [commavq](https://github.com/commaai/commavq) - ⭐ 351 / commaVQは圧縮された運転映像のデータセットです。
+ * ✅ [commavq](https://github.com/commaai/commavq) - ⭐ 351 / commaVQは圧縮された運転映像のデータセットです。
  * 💤 [chatgpt-localfiles](https://github.com/samrawal/chatgpt-localfiles) - ⭐ 56 / ChatGPTにローカルファイルへのアクセスを可能にする。
- * ⚠️ [SlashGPT](https://github.com/snakajima/slashgpt) - ⭐ 274 / @snakajima さんによるSlashGPTの解説後でコードを確認する。
+ * ⚠️ [SlashGPT](https://github.com/snakajima/slashgpt) - ⭐ 275 / @snakajima さんによるSlashGPTの解説後でコードを確認する。
  * 💤 [nba-cba-ai-chat](https://github.com/mckaywrigley/nba-cba-ai-chat) - ⭐ 124 / 新しい676ページのNBA CBAについて質問するためにAIを使用してください。
  * 💤 [Taqyim](https://github.com/arbml/taqyim) - ⭐ 19 / チャットGPTモデルの評価のためのPythonインターフェース
  * 💤 [gpt-code-search](https://github.com/wolfia-app/gpt-code-search) - ⭐ 208 / アプリの配布を自動化するためのGitHubアクション。
@@ -2359,9 +2362,9 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [ChatGPT_principle_fine-tuning_code_paper](https://github.com/julycoding/chatgpt_principle_fine-tuning_code_paper) - ⭐ 226 / 本『ChatGPTリソースライブラリ（原理/微調/コード/論文）』の初期バージョンは、July CSDNブログで50万回以上閲覧されたChatGPTシリーズから派生しました。共同発起人：七月ChatGPT原理コースの受講生であり、6月初旬に正式に公開されました。
  * 💤 [spring-chatgpt-sample](https://github.com/azure-samples/spring-chatgpt-sample) - ⭐ 28 / Javaスタックを使用したChatGPTのサンプル
  * 💤 [azurechatgpt](https://github.com/microsoft/azurechatgpt) - ⭐ 1.4k / 🤖 Azure ChatGPT: 内部企業利用のプライベートで安全なChatGPT 💼
- * 💤 [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - ⭐ 170 / 使用NestjsとVue3で構築された商業化ChatGPTウェブサイト
+ * 💤 [ChatGPT-Nine-Ai](https://github.com/dreamergrow/chatgpt-nine-ai) - ⭐ 169 / 使用NestjsとVue3で構築された商業化ChatGPTウェブサイト
  * 💤 [gptlink-web](https://github.com/gptlink/gptlink-web) - ⭐ 94 / ReactとTailwind CSSによるChatGPTウェブアプリ、APIはgptlinkを使用しています。
- * 💤 [ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live) - ⭐ 294 / ChatGPTバーチャルタレント、Bilibili、TikTok、Video号をサポートしています。
+ * 💤 [ChatGPT-Virtual-Live](https://github.com/smallnew666/chatgpt-virtual-live) - ⭐ 295 / ChatGPTバーチャルタレント、Bilibili、TikTok、Video号をサポートしています。
  * 💤 [chatgpt-web-plus](https://github.com/chanzhaoyu/chatgpt-web-plus) - ⭐ 31 / chatgpt-web-plusチャットGPTウェブプラス
  * 💤 [MindGeniusAI](https://github.com/xianjianlf2/mindgeniusai) - ⭐ 271 / ChatGPTを使用してマインドマップを自動生成します。
  * 💤 [ExcelGPT](https://github.com/asterecho/excelgpt) - ⭐ 359 / Input: chatgpt for Excel, developed based on ExcelDNAOutput: chatgpt for Excel、ExcelDNAをベースに開発されました。
@@ -2375,7 +2378,7 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [ChatGPT-fine-tuning](https://github.com/iongpt/chatgpt-fine-tuning) - ⭐ 34 / ChatGPTのファインチューニングを行うためのユーティリティクラスChatGPTのファインチューニングのためのユーティリティクラス
  * ⚠️ [ChatGPT-Next-Web-Pro](https://github.com/vual/chatgpt-next-web-pro) - ⭐ 783 / chatgpt-next-webをベースに、midjourneyの描画機能を追加しました。今後はstable-diffusion、登録ログイン、バックエンド管理、ナレッジベースの接続などを行います。
  * 💤 [chirp](https://github.com/rogueocelot/chirp) - ⭐ 8 / DiscordからのリレーチャットGPTの質問と回答
- * 💤 [SQL-GPT](https://github.com/cl-lau/sql-gpt) - ⭐ 349 / ChatGPTを使用してSQLを生成し、実行を行います。SQLの最適化やエラー修正も可能です。
+ * 💤 [SQL-GPT](https://github.com/cl-lau/sql-gpt) - ⭐ 348 / ChatGPTを使用してSQLを生成し、実行を行います。SQLの最適化やエラー修正も可能です。
  * 💤 [ChatPaper2Xmind](https://github.com/masteryip/chatpaper2xmind) - ⭐ 589 / 論文XMindノート生成ツールは、論文のPDFをChatGPTを通じて変換し、画像と数式を含む簡潔なXMindノートにすることで、論文の読解効率を向上させます。
  * 💤 [TIME-SEA-chatgpt](https://github.com/dulaiduwang003/time-sea-chatgpt) - ⭐ 460 / SpringBoot3で開発されたAIプラットフォーム。デュアルエンド、ウェブサイトおよびミニプログラムを含み、chatgpt、newbing、claudeを含む。デュアルエンドのデータ同期、カスタムプリセットワードのサポート、機能モジュールの定義、さまざまな種類の図形描画、ウェブとモバイルの互換性を持つ。
  * 💤 [Chat-CodeReview](https://github.com/nangongchengfeng/chat-codereview) - ⭐ 227 / ChatGPTはGitlabと統合され、コードを自動的に監査してコメントします。
@@ -2389,15 +2392,15 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [livecodingthefuture-docker-terraform](https://github.com/digitalinnovationone/livecodingthefuture-docker-terraform) - ⭐ 15 / Live Conding The Futureの例を保存するために作成されたプロジェクト。Docker、Terraform、Bard、ChatGPTを使用してクラウド上にウェブアプリケーションをデプロイします。
  * 💤 [chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi) - ⭐ 217 / ChatGPT 管理端-解字チャットGPT 管理者-解読
  * ⚠️ [GPT-WEB-JAVA](https://github.com/a616567126/gpt-web-java) - ⭐ 775 / JDK8に基づくAIチャットボット！WeChat公式アカウントMidjourney画像、カード交換、webサポートChatGPT、Midjourney画像、sd画像、カード交換、簡単な支払い、公式アカウントの誘導、メール登録🔥
- * 💤 [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ⭐ 186 / ChatGPT Pythonアプリケーションは、サードパーティのライブラリやモジュールと統合されています。
+ * 💤 [ChatGPT-Python-Applications](https://github.com/xiaowuc2/chatgpt-python-applications) - ⭐ 187 / ChatGPT Pythonアプリケーションは、サードパーティのライブラリやモジュールと統合されています。
  * 💤 [ChatLog](https://github.com/thu-keg/chatlog) - ⭐ 103 / ⏳ チャットログ：時間をかけてChatGPTの記録と分析
  * 💤 [claude-in-slack-server](https://github.com/llmkira/claude-in-slack-server) - ⭐ 60 / Claudeとの対話をサポートするSlack向けのHTTPサーバーであり、ChatGPT Web APIと互換性があります。
  * 💤 [chat-review](https://github.com/ikoofe/chat-review) - ⭐ 103 / ChatGPT Gitlab コードレビュー
- * 💤 [ChatGPTBook](https://github.com/liucongg/chatgptbook) - ⭐ 371 / 《ChatGPT原理与実践：大規模言語モデルのアルゴリズム、技術、およびプライベート化》
+ * 💤 [ChatGPTBook](https://github.com/liucongg/chatgptbook) - ⭐ 372 / 《ChatGPT原理与実践：大規模言語モデルのアルゴリズム、技術、およびプライベート化》
  * 💤 [nvim-gpt](https://github.com/archibate/nvim-gpt) - ⭐ 39 / あなたのようなネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)ネオパイオニアのために、NeoVimで統合されたChatGPT + Bing AIを提供します :)
  * 💤 [ChatReviewer](https://github.com/nishiwen1214/chatreviewer) - ⭐ 1.4k / ChatReviewer: ChatGPTを使用して論文の利点と欠点を分析し、改善の提案を行います。
  * 💤 [ChatGLM-Tuning](https://github.com/mymusise/chatglm-tuning) - ⭐ 3.8k / 出力: ChatGLM-6B + LoRAを基にした手頃な価格のChatGPTの実現方法
- * ⚠️ [chatgpt](https://github.com/emacs-openai/chatgpt) - ⭐ 217 / Emacs内でChatGPTを使用する
+ * 🔥 [chatgpt](https://github.com/emacs-openai/chatgpt) - ⭐ 217 / Emacs内でChatGPTを使用する
  * 💤 [Using-ChatGPT-to-Learn-Programming](https://github.com/blackstar1453/using-chatgpt-to-learn-programming) - ⭐ 132 / プログラミングの学習を強化するためにChatGPTの使い方を学びましょう。
  * 💤 [Apilot](https://github.com/6vision/apilot) - ⭐ 204 / chatgpt_on_wechatプロジェクトに基づくAPI呼び出しプラグインchatgpt_on_wechatプロジェクトをベースにしたAPI呼び出しプラグイン
  * 💤 [ChatGPT_Custom_Instructions](https://github.com/daveshap/chatgpt_custom_instructions) - ⭐ 1.4k / ChatGPTで使用できるカスタムインストラクションのリポジトリ
@@ -2405,27 +2408,27 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [talk](https://github.com/proxoar/talk) - ⭐ 122 / ChatGPTとの会話はとても簡単です。
  * 💤 [brain-reply](https://github.com/caidukai/brain-reply) - ⭐ 68 / より優雅なChatGPTクライアント
  * 💤 [wechat_gpt_laf](https://github.com/husanr/wechat_gpt_laf) - ⭐ 60 / Lafクラウドプラットフォームを使用して、2つのステップでChatGPTをWeChat公式アカウントに接続します。
- * 🔥 [bionicgpt](https://github.com/purton-tech/bionicgpt) - ⭐ 2.3k / BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
+ * ✅ [bionicgpt](https://github.com/purton-tech/bionicgpt) - ⭐ 2.3k / BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
  * 💤 [ChatGPT-Next-Web-PRO](https://github.com/llboo/chatgpt-next-web-pro) - ⭐ 166 / ChatGPT-Next-Webの管理コンソール。キーの管理、ユーザー認証、公式アカウントの登録/QRコードログイン、支払い管理、ギフトカードの管理などが含まれています。
  * 💤 [ChatGPT-AutoExpert](https://github.com/spdustin/chatgpt-autoexpert) - ⭐ 6.7k / 🚀🧠💬 ChatGPT（非コーディング）およびChatGPTアドバンスドデータ分析（コーディング）のためのスーパーチャージカスタムインストラクション。
  * 💤 [muchat-aio](https://github.com/panyanyany/muchat-aio) - ⭐ 181 / 团队版 ChatGPT Web アプリケーション、多ユーザー、ログイン不要。会社、組織、または小規模グループ内での内部利用に適しています。
  * 💤 [chatgpt-web-go](https://github.com/heimeropen/chatgpt-web-go) - ⭐ 85 / チャットGPTアプリケーションのためのGolangサービス
  * 💤 [reddit-profile-analyzer](https://github.com/grays42/reddit-profile-analyzer) - ⭐ 107 / ChatGPTベースのredditプロファイル分析ツール。APIキーを持参してください。
- * 🔥 [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - ⭐ 2.3k / BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
- * 💤 [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - ⭐ 183 / ETH上での完全自動トークン展開、ChatGPTとDALL-Eを使用しています。
+ * ✅ [bionic-gpt](https://github.com/bionic-gpt/bionic-gpt) - ⭐ 2.3k / BionicGPTはChatGPTのオンプレミス版であり、生成型AIの利点を提供しながら厳格なデータの機密性を維持しています。
+ * 💤 [chatgpt-token](https://github.com/croissanteth/chatgpt-token) - ⭐ 184 / ETH上での完全自動トークン展開、ChatGPTとDALL-Eを使用しています。
  * 💤 [RickAndMortai](https://github.com/code-bullet/rickandmortai) - ⭐ 90 / リックとモーティのキャラクターとポータルがあるチャットGPTのもので、シュレックもいるようですが、詳細はわかりません。
  * 💤 [sd-webui-chatgpt](https://github.com/non906/sd-webui-chatgpt) - ⭐ 43 / これはStable Diffusion web UIでChatGPTを使用するためのリポジトリです。
  * 💤 [pictureChange](https://github.com/yanyutin753/picturechange) - ⭐ 135 / chatgpt-on-wechatプロジェクトのプラグインに適用されます。
  * 💤 [ChatGPT_Agent](https://github.com/liyucheng09/chatgpt_agent) - ⭐ 274 / チャットGPTエージェントによるゲームデモ
- * 🔥 [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - ⭐ 24k / vite+vue3+ginをベースにした開発基盤プラットフォーム（TS、JSの混在をサポート）、jwt認証、権限管理、ダイナミックルーティング、表示/非表示可能なコンポーネント、ページネーションのラッピング、マルチログインのインターセプト、リソース権限、アップロード/ダウンロード、コードジェネレータ、フォームジェネレータ、chatGPT自動テーブル検索など、開発に必要な機能を統合しています。
- * 🔥 [LMFlow](https://github.com/optimalscale/lmflow) - ⭐ 8.5k / 大規模な基盤モデルの微調整と推論のための拡張可能なツールキット。すべてのための大規模なモデル。
+ * ✅ [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - ⭐ 24k / vite+vue3+ginをベースにした開発基盤プラットフォーム（TS、JSの混在をサポート）、jwt認証、権限管理、ダイナミックルーティング、表示/非表示可能なコンポーネント、ページネーションのラッピング、マルチログインのインターセプト、リソース権限、アップロード/ダウンロード、コードジェネレータ、フォームジェネレータ、chatGPT自動テーブル検索など、開発に必要な機能を統合しています。
+ * ✅ [LMFlow](https://github.com/optimalscale/lmflow) - ⭐ 8.5k / 大規模な基盤モデルの微調整と推論のための拡張可能なツールキット。すべてのための大規模なモデル。
  * 💤 [reloadium](https://github.com/reloadware/reloadium) - ⭐ 3k / ホットリローディング、プロファイリング、およびPythonのAIデバッグ
  * ⚠️ [chatgpt-java](https://github.com/plexpt/chatgpt-java) - ⭐ 3.6k / ChatGPT Java SDK。GPT3.5、GPT4 APIに対応しています。すぐに使用できます。
  * ⚠️ [alldata](https://github.com/alldatacenter/alldata) - ⭐ 3k / 🔥🔥 AllData大数据製品は、データプラットフォームを基盤とし、データ中台を橋渡しとして、機械学習プラットフォームやGPTプラットフォームをフレームワークとして、全体のデジタル化ソリューションを提供するものです。WeChatグループ：https://docs.qq.com/doc/DVHlkSEtvVXVCdEFo
- * 🔥 [SuperCLUE](https://github.com/cluebenchmark/superclue) - ⭐ 3.3k / SuperCLUE: 中国語の基礎モデルのためのベンチマーク
+ * ✅ [SuperCLUE](https://github.com/cluebenchmark/superclue) - ⭐ 3.3k / SuperCLUE: 中国語の基礎モデルのためのベンチマーク
  * ⚠️ [worktool](https://github.com/gallonyin/worktool) - ⭐ 3k / 【企業微信】企業微信のロボット チャットボット、自動的に友達を追加、自動的にグループに招待、自動的にメッセージを送信するロボット ルート不要でアカウントが封鎖されない ChatGPTを統合
  * ⚠️ [next-enterprise](https://github.com/blazity/next-enterprise) - ⭐ 7.3k / 💼 高性能で保守性の高いアプリケーションのためのエンタープライズグレードのNext.jsボイラープレート。Tailwind CSS、TypeScript、ESLint、Prettier、テストツールなどの機能が搭載されており、開発を加速させます。
- * 🔥 [HydraLab](https://github.com/microsoft/hydralab) - ⭐ 1k / インテリジェントなクラウドテストが簡単になりました。
+ * ✅ [HydraLab](https://github.com/microsoft/hydralab) - ⭐ 1k / インテリジェントなクラウドテストが簡単になりました。
  * ⚠️ [vectordb](https://github.com/epsilla-cloud/vectordb) - ⭐ 871 / Epsillaは高性能なベクトルデータベース管理システムです。ホストされたEpsillaをhttps://cloud.epsilla.com/で試してみてください。
  * ⚠️ [WeChatMsg](https://github.com/lc044/wechatmsg) - ⭐ 41k / WeChatのチャット履歴を抽出し、HTML、Word、CSV形式のドキュメントにエクスポートして永久保存し、チャット履歴を分析して年次チャットレポートを生成します。
  * 💤 [gpts-works](https://github.com/all-in-aigc/gpts-works) - ⭐ 1.7k / サードパーティのGPTストア
@@ -2435,9 +2438,9 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * ⚠️ [ChatGPT-Next-Web](https://github.com/chatgptnextweb/chatgpt-next-web) - ⭐ 87k / MacOS）。一つのボタンで自分自身のクロスプラットフォームChatGPTアプリを手に入れましょう。
  * 💤 [gpt-crawler](https://github.com/builderio/gpt-crawler) - ⭐ 22k / URLから独自のカスタムGPTを作成するための知識ファイルを生成するために、サイトをクロールします。
  * 💤 [vimGPT](https://github.com/ishan0102/vimgpt) - ⭐ 2.7k / GPT-4VとVimiumを使用してウェブを閲覧してください。
- * 🔥 [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ⭐ 4k / ModelScope-Agent（オープンソース版GPTs）：ModelScope内のモデルと世界をつなぐエージェントフレームワーク
+ * ✅ [modelscope-agent](https://github.com/modelscope/modelscope-agent) - ⭐ 4k / ModelScope-Agent（オープンソース版GPTs）：ModelScope内のモデルと世界をつなぐエージェントフレームワーク
  * 💤 [chatgpt-wechat](https://github.com/whyiyhw/chatgpt-wechat) - ⭐ 1.1k / 企業微信/微信の安全な使用に適したChatGPTの個人アシスタントアプリ
- * 🔥 [jan](https://github.com/janhq/jan) - ⭐ 40k / Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替品です。
+ * 🔥 [jan](https://github.com/janhq/jan) - ⭐ 41k / Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替品です。
  * 💤 [gerev](https://github.com/gerevai/gerev) - ⭐ 2.8k / 🧠 AIを搭載した企業向け検索エンジン 🔎
  * 💤 [Replit-Xray](https://github.com/yonggekkk/replit-xray) - ⭐ 879 / Replitコンテナのデプロイxrayプロキシ、カスタムマスクウェブページのサポート、ワンクリックで5つのプロトコルを同時にサポート、vless、vmess、trojan、shadowsocks、socksの構築をサポート、ローカルアップロードとreplitプラットフォームのforkの2つのモードでのデプロイをサポートします。
  * 💤 [GPTSecurity](https://github.com/mo-xiaoxi/gptsecurity) - ⭐ 633 / 未来を形作る安全領域のスマート革命
@@ -2452,13 +2455,13 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - ⭐ 563 / GPT-4 Vision APIとPuppeteerを使用したウェブスクレイピング
  * ⚠️ [inke](https://github.com/yesmore/inke) - ⭐ repo not found / 📖 AI支援のあるリアルタイム共同作業が可能なWYSIWYGノートブック。セルフホスティングに対応しています。IndexedDBを使用してノートを保存します。
  * 💤 [twitterbio](https://github.com/nutlope/twitterbio) - ⭐ 1.8k / ミクストラルとGPT-3.5を使って、あなたのTwitterの自己紹介を生成しましょう。
- * 💤 [SeeAct](https://github.com/osu-nlp-group/seeact) - ⭐ 823 / SeeActは、大規模なマルチモーダルモデル（LMM）であるGPT-4V(ision)を中心に、任意のウェブサイトで自律的にタスクを実行する一般的なウェブエージェントのためのシステムです。
- * 🔥 [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - ⭐ 556 / AIの無限の可能性を探求するのに役立つAIツールのセット。
+ * 💤 [SeeAct](https://github.com/osu-nlp-group/seeact) - ⭐ 824 / SeeActは、大規模なマルチモーダルモデル（LMM）であるGPT-4V(ision)を中心に、任意のウェブサイトで自律的にタスクを実行する一般的なウェブエージェントのためのシステムです。
+ * 🔥 [AI-Infinity](https://github.com/meetpateltech/ai-infinity) - ⭐ 555 / AIの無限の可能性を探求するのに役立つAIツールのセット。
  * 💤 [ChatGPT-Proxy](https://github.com/dqzboy/chatgpt-proxy) - ⭐ 422 / ChatGPTプロキシ
- * 💤 [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - ⭐ 664 / Flutterで開発されたChatGPTとのチャットアプリ、全プラットフォーム対応
+ * 💤 [flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - ⭐ 663 / Flutterで開発されたChatGPTとのチャットアプリ、全プラットフォーム対応
  * ⚠️ [composum-AI](https://github.com/ist-dresden/composum-ai) - ⭐ 5 / コンポジウムページCMSとAdobe AEMのための人工知能サービス
  * 💤 [council](https://github.com/chain-ml/council) - ⭐ 846 / Councilは、カスタマイズされた生成AIアプリケーションの迅速な開発と堅牢な展開のためのオープンソースプラットフォームです。
- * 💤 [ChatGemini](https://github.com/bclswl0827/chatgemini) - ⭐ 928 / ✨ ChatGeminiは、Google Geminiをベースにしたウェブクライアントです。ChatGPT 3.5と同等の操作ロジックを持ち、同時にチャット中に画像をアップロードすることもサポートしています。アプリは自動的にGemini-Pro-Visionモデルを呼び出して画像認識を行います。
+ * 💤 [ChatGemini](https://github.com/bclswl0827/chatgemini) - ⭐ 927 / ✨ ChatGeminiは、Google Geminiをベースにしたウェブクライアントです。ChatGPT 3.5と同等の操作ロジックを持ち、同時にチャット中に画像をアップロードすることもサポートしています。アプリは自動的にGemini-Pro-Visionモデルを呼び出して画像認識を行います。
  * 💤 [yakGPT](https://github.com/yakgpt/yakgpt) - ⭐ 1.6k / ローカルで実行される、ハンズフリーのChatGPT UI
  * ⚠️ [GalTransl](https://github.com/cx2333-gt/galtransl) - ⭐ 2k / GPT-3.5/GPT-4/Newbing/Sakuraなどの大規模言語モデルをサポートするGalgame自動翻訳の解決策
  * 💤 [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - ⭐ 12k / MoviePyを使用してYouTube Shortsの作成を自動化します。
@@ -2469,10 +2472,10 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [chatgpt-next](https://github.com/xcatliu/chatgpt-next) - ⭐ 781 / 微信風のChatGPT、Next.jsで構築され、プライベートデプロイメントに最適な選択肢！
  * ⚠️ [wechatSDK](https://github.com/kawika-git/wechatsdk) - ⭐ repo not found / WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動描画、自動的に友達に投稿、自動的に動画を投稿するなど、さまざまなAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
  * 💤 [Bunny](https://github.com/baai-dcai/bunny) - ⭐ 1.1k / 軽量なマルチモーダルモデルのファミリー。
- * 💤 [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - ⭐ 1.2k / AIサークルの蛇口ウェブサイト、24時間ごとに1つのトークンを受け取り、AI製品の開発テストに使用できます。
- * 💤 [WELearnHelper](https://github.com/ssmjae/welearnhelper) - ⭐ 813 / WE Learnの同行クラスの問題の答えを表示します。クラスのテストをサポートします。自動回答、学習時間を記録し、ChatGPTに基づいた回答生成を行います。
+ * 💤 [ChatGPT-API-Faucet](https://github.com/terobox/chatgpt-api-faucet) - ⭐ 1.1k / AIサークルの蛇口ウェブサイト、24時間ごとに1つのトークンを受け取り、AI製品の開発テストに使用できます。
+ * 💤 [WELearnHelper](https://github.com/ssmjae/welearnhelper) - ⭐ 812 / WE Learnの同行クラスの問題の答えを表示します。クラスのテストをサポートします。自動回答、学習時間を記録し、ChatGPTに基づいた回答生成を行います。
  * 💤 [devchat](https://github.com/devchat-ai/devchat) - ⭐ 383 / AIパワードスクリプトを使用して、IDEのチャットパネルから開発タスクを自動化します。
- * 💤 [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - ⭐ 688 / ChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーションChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーション
+ * 💤 [ChatGPTSwiftUI](https://github.com/alfianlosari/chatgptswiftui) - ⭐ 690 / ChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーションChatGPTネイティブiOS、macOS、watchOS、tvOS SwiftUIアプリケーション
  * 💤 [qcg-installer](https://github.com/rockchinq/qcg-installer) - ⭐ 347 / ChatGPT QQ ロボットの自動インストーラー、自動デプロイ、QChatGPTプロジェクト用に適用される：https://github.com/RockChinQ/QChatGPT
  * ⚠️ [wechatSDK](https://github.com/wechatapis/wechatsdk) - ⭐ repo not found / WeChatボットは、Python 3.11に基づいた革新的なプロジェクトであり、ChatGPTモデルとWeChatのネイティブAPIを組み合わせて、ユーザーにスマートなチャット、自動絵画、自動フレンドサークルの投稿、自動ビデオ投稿など多様なAPI統合サービスを提供します。日常のコミュニケーション効率と面白さを向上させることを目的としています。
  * 💤 [FreeGPT35](https://github.com/missuo/freegpt35) - ⭐ 3.3k / ログイン不要のChatGPT Webが提供する無制限の無料GPT-3.5-Turbo APIサービスを活用してください。
@@ -2484,27 +2487,27 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [suno-api](https://github.com/gcui-art/suno-api) - ⭐ 2.7k / APIを使用してsuno.aiの音楽生成AIを呼び出し、GPTなどのエージェントに簡単に統合します。
  * 💤 [ChatGPT-miniprogram](https://github.com/leon-fong/chatgpt-miniprogram) - ⭐ 378 / 🤖 ChatGPT 小プログラム 出力:
  * 💤 [99AI](https://github.com/vastxie/99ai) - ⭐ 1k / 99AI 安定版：NineAIをベースにした商用利用可能なAI Webアプリケーション（ライセンス不要、バックドアなし、迅速な展開をサポート）。目標はALL-IN-CHATです。
- * 🔥 [geekai](https://github.com/yangjian102621/geekai) - ⭐ 4.6k / AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。
- * 💤 [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - ⭐ 905 / 🤖️ 2つのステップでWeChatにChatGPTを展開する方法！ 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
+ * ✅ [geekai](https://github.com/yangjian102621/geekai) - ⭐ 4.6k / AIアシスタントの完全なオープンソースソリューションで、運用管理用のバックエンドが付属しており、すぐに使用できます。ChatGPT、Azure、ChatGLM、讯飞星火、文心一言など、複数のプラットフォームの大規模言語モデルが統合されています。MJ AIドローイング、Stable Diffusion AIドローイング、Weibo Hot Searchなどのプラグインツールをサポートしています。Go + Vue3 + element-plusを使用して実装されています。
+ * 💤 [ChatGPT-on-WeChat](https://github.com/kx-huang/chatgpt-on-wechat) - ⭐ 906 / 🤖️ 2つのステップでWeChatにChatGPTを展開する方法！ 两步在云端部署你的微信ChatGPT聊天机器人！🤖️
  * 💤 [ai-to-pptx](https://github.com/chatbookai/ai-to-pptx) - ⭐ 1.4k / Ai-to-pptxは、AI技術（ChatGptとGemini）を使用してPPTXを作成するアシスタントです。オンラインでの編集とPPTXのエクスポートをサポートしています。主な機能：1. ChatGPTなどの大規模言語モデルを使用してアウトラインを生成する。2.生成されたコンテンツをユーザーが再度編集できる。3. PPTXを生成する際に異なるテンプレートを選択できる。4.オンラインでPPTXのテキストコンテンツ、スタイル、画像などを編集できる。5. PPTX、PDF、PNGなど、さまざまな形式でエクスポートをサポートしています。
  * 💤 [DAIL-SQL](https://github.com/beachwang/dail-sql) - ⭐ 620 / GPT-4上で効率的かつ効果的なフューショットNL2SQLメソッド。
- * 💤 [auto-playwright](https://github.com/lucgagan/auto-playwright) - ⭐ 830 / ChatGPTを使用してPlaywrightのステップを自動化する。
+ * 💤 [auto-playwright](https://github.com/lucgagan/auto-playwright) - ⭐ 831 / ChatGPTを使用してPlaywrightのステップを自動化する。
  * ⚠️ [mi-gpt](https://github.com/idootop/mi-gpt) - ⭐ 12k / 🏠 小愛音箱をChatGPTと豆包に接続し、あなた専用の音声アシスタントに改造します。
  * ⚠️ [hostedgpt](https://github.com/allyourbot/hostedgpt) - ⭐ 509 / どこでもホストできる、またはローカルで実行できるChatGPTのオープンバージョン。
  * 🔥 [typingmind](https://github.com/typingmind/typingmind) - ⭐ 832 / AIチャットのための最も先進的なWeb UI
  * ⚠️ [reflex-chat](https://github.com/reflex-dev/reflex-chat) - ⭐ 333 / Reflexで構築されたChatGPTのクローン
  * 💤 [gptpdf](https://github.com/cosmosshadow/gptpdf) - ⭐ 3.6k / PDFを解析するためにGPTを使用します。
- * 💤 [vectorhub](https://github.com/guangzhengli/vectorhub) - ⭐ 389 / 埋め込みを使用して、簡単かつ迅速にAIウェブサイトやアプリケーションを構築できます！
+ * 💤 [vectorhub](https://github.com/guangzhengli/vectorhub) - ⭐ 390 / 埋め込みを使用して、簡単かつ迅速にAIウェブサイトやアプリケーションを構築できます！
  * 💤 [chatgpt-artifacts](https://github.com/ozgrozer/chatgpt-artifacts) - ⭐ 512 / ChatGPTにクロードの遺物機能を持ってきてください。
  * ⚠️ [Protofy](https://github.com/protofy-xyz/protofy) - ⭐ 15 / AI スーパーチャージド ローコードプラットフォーム CMS およびフレームワーク 🚀🚀
  * ⚠️ [go2coding.github.io](https://github.com/go2coding/go2coding.github.io) - ⭐ 340 / AIツールナビゲーション、無料のchatgpt、chatgpt4、midjourney、notion ai、tome.app
  * 💤 [chatgpt](https://github.com/putyy/chatgpt) - ⭐ 244 / uniapp、hyperf MineAdmin で実装された chatgptアプリ、小プログラム、h5、アプリをサポートしています！
  * ⚠️ [vscode-chatgpt-reborn](https://github.com/christopher-hayes/vscode-chatgpt-reborn) - ⭐ 266 / VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。
- * 💤 [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - ⭐ 287 / Input: ChatGPT side hustle money-making tips must-see, ChatGPT side hustle money-making cheats, ChatGPT from beginner to expertOutput: ChatGPT副業でお金を稼ぐための必見のヒント、ChatGPT副業でお金を稼ぐための秘訣、ChatGPTの初心者からエキスパートまで
- * 🔥 [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - ⭐ 228 / Sendbird UIKitのオープンソースコードを使用して、数分でチャットを構築できます。
+ * 💤 [Chatgpt-Makes-Money](https://github.com/xiaoming2028/chatgpt-makes-money) - ⭐ 288 / Input: ChatGPT side hustle money-making tips must-see, ChatGPT side hustle money-making cheats, ChatGPT from beginner to expertOutput: ChatGPT副業でお金を稼ぐための必見のヒント、ChatGPT副業でお金を稼ぐための秘訣、ChatGPTの初心者からエキスパートまで
+ * ✅ [sendbird-uikit-react](https://github.com/sendbird/sendbird-uikit-react) - ⭐ 230 / Sendbird UIKitのオープンソースコードを使用して、数分でチャットを構築できます。
  * ⚠️ [sol-mate-eink](https://github.com/blixt/sol-mate-eink) - ⭐ 314 / Sol Mate GPTをあなたの電子ペーパーディスプレイで使用できます！
  * 🔥 [gptstore-data-backup](https://github.com/ainativelab/gptstore-data-backup) - ⭐ 268 / GPTストアのトレンドデータの日次アーカイブ
- * 🔥 [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ⭐ 442 / ChatGPT科学上网梯子サービスのおすすめ、GPT4のアップグレード方法、Claude-3の無料利用方法
+ * ✅ [ChatGPT-airport-tizi-fanqiang](https://github.com/axiba053/chatgpt-airport-tizi-fanqiang) - ⭐ 443 / ChatGPT科学上网梯子サービスのおすすめ、GPT4のアップグレード方法、Claude-3の無料利用方法
  * ⚠️ [vscode-reborn-ai](https://github.com/vscode-reborn-ai/vscode-reborn-ai) - ⭐ 266 / VSCodeでコードをリファクタリング、改善、デバッグするために、GPT-3とGPT-4を使用してください。
  * 💤 [gpts](https://github.com/ruvnet/gpts) - ⭐ 286 / rUvによって作成されたGPTのコレクション
  * 💤 [zerox](https://github.com/getomni-ai/zerox) - ⭐ 12k / ゼロショットpdf OCR with gpt-4o-mini
@@ -2513,46 +2516,46 @@ _Updated on February 19, 2026_ (A total of 2440 repositories listed.)
  * 💤 [TalkingHeads](https://github.com/ugorsahin/talkingheads) - ⭐ 325 / ChatGPT、Claude、Copilot、Gemini、HuggingChat、およびPiと通信するためのライブラリ
  * ⚠️ [ChatGPT-Mirror](https://github.com/dairoot/chatgpt-mirror) - ⭐ 1.3k / 🚀 自分のChatGPTイメージサイトをワンクリックでデプロイ
  * 💤 [WiNGPT2](https://github.com/winninghealth/wingpt2) - ⭐ 421 / WiNGPTは、GPTを基にした医療分野の大規模モデルであり、専門の医学知識、医療情報、データを統合し、医療業界に知識を提供するためのインテリジェントな医療質問、診断支援、医学知識などの情報サービスを提供し、診療効率と医療サービスの質を向上させることを目的としています。
- * 🔥 [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - ⭐ 4.6k / 5BトークンでのGPT-2（124M）品質
- * 🔥 [minimind](https://github.com/jingyaogong/minimind) - ⭐ 40k / 【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！
- * 🔥 [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - ⭐ 3k / GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。
- * 🔥 [miniperplx](https://github.com/zaidmukaddam/miniperplx) - ⭐ 11k / インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！
+ * 🔥 [modded-nanogpt](https://github.com/kellerjordan/modded-nanogpt) - ⭐ 4.7k / 5BトークンでのGPT-2（124M）品質
+ * ✅ [minimind](https://github.com/jingyaogong/minimind) - ⭐ 40k / 【大規模】26Mの小さなパラメータGPTを完全に0から3時間でトレーニングし、最低2Gのグラフィックカードで推論トレーニングが可能です！
+ * ✅ [AI-Youtube-Shorts-Generator](https://github.com/samuraigpt/ai-youtube-shorts-generator) - ⭐ 3k / GPT-4、FFmpeg、およびOpenCVを使用して自動的にビデオを分析し、最も興味深いセクションを抽出し、視聴体験を向上させるためにトリミングするPythonツール。
+ * ✅ [miniperplx](https://github.com/zaidmukaddam/miniperplx) - ⭐ 11k / インプット：インターネット上で情報を見つけるのを手助けする、ミニマリストのAI搭載検索エンジン。GPT-4o mini、Claude 3.5 Sonnet、o1-miniなどのモデルで検索！
  * 💤 [ai-commit](https://github.com/insulineru/ai-commit) - ⭐ 471 / ✨ ChatGPT、Gitmoji、およびConventional Commitsを使用してコミットを簡単に作成しましょう 🚀
  * ⚠️ [show-me](https://github.com/marlaman/show-me) - ⭐ repo not found / オープンソースのChatGPT O1に対するビジュアルで透明な代替案
  * ⚠️ [chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server) - ⭐ repo not found / chatgpt公式ウェブサイトアカウントを使用して外部APIサービスを実現します。
  * ⚠️ [ChatALL](https://github.com/ai-shifu/chatall) - ⭐ 16k / ChatGPT、Bing Chat、Bard、Alpaca、Vicuna、Claude、ChatGLM、MOSS、讯飞星火、文心一言などと同時にチャットし、最適な回答を見つける
  * 💤 [shadcn-nextjs-boilerplate](https://github.com/horizon-ui/shadcn-nextjs-boilerplate) - ⭐ 624 / Shadcn UI NextJS ボイラープレート ⚡️ 無料オープンソース ChatGPT UI 管理ダッシュボードテンプレート - Horizon AI ボイラープレート
- * 🔥 [TaskWeaver](https://github.com/microsoft/taskweaver) - ⭐ 6.1k / Visual Studio Code での CMake 統合
- * 🔥 [onyx](https://github.com/onyx-dot-app/onyx) - ⭐ 17k / Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。
- * 🔥 [minimind-v](https://github.com/jingyaogong/minimind-v) - ⭐ 6.4k / 🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！
+ * ✅ [TaskWeaver](https://github.com/microsoft/taskweaver) - ⭐ 6.1k / Visual Studio Code での CMake 統合
+ * 🔥 [onyx](https://github.com/onyx-dot-app/onyx) - ⭐ 18k / Gen-AI チャット for Teams - チームの独自の知識にアクセスできる場合、ChatGPTを考えてください。
+ * ✅ [minimind-v](https://github.com/jingyaogong/minimind-v) - ⭐ 6.4k / 🚀「大模型」を3時間でゼロから27MパラメータのビジュアルマルチモードVLMをトレーニング！🌏たった3時間で27MパラメータのVLMをゼロからトレーニング！
  * 💤 [ai-to-pptx](https://github.com/smartschoolai/ai-to-pptx) - ⭐ 1.4k / フロントエンドとバックエンドが同時にオープンソース化されています。 Ai-to-pptxは、AI技術（DeepSeek）を使用してPPTXを作成するためのアシスタントであり、オンラインでの生成とPPTXのエクスポートをサポートしています。 主な機能：1. DeepSeekなどの大規模言語モデルを使用してアウトラインを生成する 2. PPTXを生成する際に異なるテンプレートを選択できる 3. PPTXのエクスポートをサポート
  * ⚠️ [memobase](https://github.com/memodb-io/memobase) - ⭐ 2.6k / AIアプリケーション向けのプロファイルベースの長期記憶
- * 🔥 [jan](https://github.com/menloresearch/jan) - ⭐ 40k / Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。
+ * 🔥 [jan](https://github.com/menloresearch/jan) - ⭐ 41k / Janは、コンピュータ上で完全にオフラインで動作するChatGPTのオープンソースの代替です。
  * 💤 [agentheroes](https://github.com/agentheroes/agentheroes) - ⭐ 3.4k / AIキャラクターを生成し、アニメーション化してスケジュールを立てる。
- * ⚠️ [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - ⭐ 691 / AI 占い、占星術、タロットカード、姓名判断、夢占い、八字占い、梅花易数
+ * ⚠️ [chatgpt-tarot-divination](https://github.com/dreamhunter2333/chatgpt-tarot-divination) - ⭐ 696 / AI 占い、占星術、タロットカード、姓名判断、夢占い、八字占い、梅花易数
  * 🔥 [OpenDeepWiki](https://github.com/aidotnet/opendeepwiki) - ⭐ 2.8k / OpenDeepWikiは、強力な知識管理とコラボレーションプラットフォームを提供することを目的としたDeepWikiプロジェクトのオープンソースバージョンです。このプロジェクトは主にC#とTypeScriptを使用して開発されており、モジュラーデザインをサポートしており、拡張やカスタマイズが容易です。
  * ⚠️ [zola](https://github.com/ibelick/zola) - ⭐ 1.4k / 開発者向けのオープンソースChatGPTの代替。高速で、マルチモデルのAIチャット。エージェント+MCPが近日公開予定。
- * 💤 [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - ⭐ 769 / macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール
- * 💤 [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - ⭐ 608 / Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト
- * 🔥 [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - ⭐ 502 / AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。
+ * 💤 [claude-chatgpt-mcp](https://github.com/syedazharmbnr1/claude-chatgpt-mcp) - ⭐ 771 / macOS上でChatGPTデスクトップアプリとやり取りするためのClaude MCPツール
+ * 💤 [pandora-helper-with-linux-do-oauth](https://github.com/kylsky/pandora-helper-with-linux-do-oauth) - ⭐ 611 / Linux DOをサポートするChatGPT/Claude/Midjourney/API/Grok共有プラットフォーム-バックエンドプロジェクト
+ * 🔥 [caddy-defender](https://github.com/jasonlovesdoggo/caddy-defender) - ⭐ 503 / AIやクラウドサービスからのリクエストをブロックまたは操作するCaddyモジュール。
  * 💤 [comfyui-mixlab-nodes](https://github.com/mixlabpro/comfyui-mixlab-nodes) - ⭐ 1.8k / ワークフローからアプリへ、スクリーン共有＆フローティングビデオ、GPT＆3D、音声認識＆TTS
  * ⚠️ [ChatGPT-Micro-Cap-Experiment](https://github.com/luckyone7777/chatgpt-micro-cap-experiment) - ⭐ 7.4k / このリポジトリは、ChatGPTが実際のマイクロキャップ株ポートフォリオを管理するブログ実験を支えています。
- * 💤 [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - ⭐ 677 / キーボードにChatGPTなどの生成AIを統合するためのLSPosedモジュール。
+ * 💤 [KeyboardGPT](https://github.com/mino260806/keyboardgpt) - ⭐ 678 / キーボードにChatGPTなどの生成AIを統合するためのLSPosedモジュール。
  * ⚠️ [airport-access](https://github.com/chatgpt-helper-tech/airport-access) - ⭐ repo not found / 空港推薦、2025年最新の科学的なインターネット接続のチュートリアル、空港での実地テスト、無料トライアル空港の提供、VPNとの比較、Clash/V2Ray/Trojanのサポート、ChatGPT/YouTube/Netflixのロック解除、使用方法の説明書を含む。
  * 🔥 [nanochat](https://github.com/karpathy/nanochat) - ⭐ 44k / $100で買える最高のChatGPT。
  * ⚠️ [cogni-comfyui-openrouter-chatgpt](https://github.com/dulaiduwang003/cogni-comfyui-openrouter-chatgpt) - ⭐ 747 / SpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーションSpringBoot3を使用したspring-cloud-alibabaマイクロサービスアーキテクチャに基づいて開発されたアプリケーション
- * ⚠️ [frontier-evals](https://github.com/openai/frontier-evals) - ⭐ 1k / 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
+ * 🔥 [frontier-evals](https://github.com/openai/frontier-evals) - ⭐ 1.1k / 論文「人工ニューラルネットワークにおけるマルチモーダルニューロン」の一部の図を再現するためのコード
  * ⚠️ [FastApps](https://github.com/fastappsorg/fastapps) - ⭐ 215 / ⚡ ChatGPTでアプリを構築する最速の方法ChatGPTでアプリを構築する最速の方法
  * ⚠️ [rustgpt](https://github.com/bitswired/rustgpt) - ⭐ 706 / RustGPTは、Rust + HTMXで構築されたChatGPT UIです：RustのパワーとHTMXのシンプルさが組み合わさったもの 💚
  * ⚠️ [consult-omni](https://github.com/armindarvish/consult-omni) - ⭐ 266 / Emacs内部の強力で多機能なオムニ検索
- * 🔥 [mcp-use](https://github.com/mcp-use/mcp-use) - ⭐ 9.2k / mcp-useはカスタムエージェントを使用してmcpサーバーとやり取りする最も簡単な方法です。
+ * 🔥 [mcp-use](https://github.com/mcp-use/mcp-use) - ⭐ 9.3k / mcp-useはカスタムエージェントを使用してmcpサーバーとやり取りする最も簡単な方法です。
  * 🔥 [inspector](https://github.com/mcpjam/inspector) - ⭐ 1.7k / テストChatGPTアプリ、MCPアプリ、およびMCPサーバー。
- * ⚠️ [DriveBench](https://github.com/worldbench/drivebench) - ⭐ 231 / [ICCV 2025] VLMは自動運転に対応していますか？信頼性、データ、およびメトリックの観点からの実証研究
- * 🔥 [oai-skills](https://github.com/eliasjudin/oai-skills) - ⭐ 511 / ChatGPTのコードインタープリター環境内の/home/oai/skillsの内容
- * 🔥 [skybridge](https://github.com/alpic-ai/skybridge) - ⭐ 578 / SkybridgeはChatGPTアプリを構築するためのフレームワークです。
+ * ⚠️ [DriveBench](https://github.com/worldbench/drivebench) - ⭐ 230 / [ICCV 2025] VLMは自動運転に対応していますか？信頼性、データ、およびメトリックの観点からの実証研究
+ * 🔥 [oai-skills](https://github.com/eliasjudin/oai-skills) - ⭐ 512 / ChatGPTのコードインタープリター環境内の/home/oai/skillsの内容
+ * 🔥 [skybridge](https://github.com/alpic-ai/skybridge) - ⭐ 627 / SkybridgeはChatGPTアプリを構築するためのフレームワークです。
  * 🔥 [manifest](https://github.com/mnfst/manifest) - ⭐ 3.3k / ChatGPTアプリを構築するためのShadcn/uiコンポーネントライブラリ
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 414 / Microsoftエージェントアイデンティティのサンプルを入力し、AIエージェントが自律エージェントとして、またはユーザーの代わりに下流のAPIを呼び出すことを可能にします。
- * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 552 / 一括Teamアカウント管理
- * [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - 汎用データベースMCPコネクタ：MySQL、PostgreSQL、Oracle、MongoDBなど17種類のデータベースをサポートし、Claude Desktop、Cursor、Windsurf、VS Code、ChatGPTなど50以上のプラットフォームをサポートし、自然言語でデータをクエリおよび分析します。
+ * ✅ [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 578 / 一括Teamアカウント管理
+ * ✅ [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 465 / 汎用データベースMCPコネクタ：MySQL、PostgreSQL、Oracle、MongoDBなど17種類のデータベースをサポートし、Claude Desktop、Cursor、Windsurf、VS Code、ChatGPTなど50以上のプラットフォームをサポートし、自然言語でデータをクエリおよび分析します。
 
 
