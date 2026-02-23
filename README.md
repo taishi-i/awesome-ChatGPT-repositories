@@ -2558,4 +2558,4 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * ✅ [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 578 / 一站式Team账号管理
  * ✅ [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 465 / 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据
 
-
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Persistent Neo4j knowledge graph (91 nodes, 6 semantic domains), 7-layer AI safety guardrails, smart contract audit. [GitHub](https://github.com/odei-ai/web)
