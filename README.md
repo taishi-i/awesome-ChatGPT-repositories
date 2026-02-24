@@ -146,6 +146,7 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * 🔥 [hive](https://github.com/adenhq/hive) - ⭐ 8.1k / Outcome driven agent development framework that evolves
  * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 472 / Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.
  * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 147k / a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+ * 🔥 [awesome-ai-writing-tools](https://github.com/marc-loomys/awesome-ai-writing-tools) - A curated list of free AI writing, detection, humanization, and text analysis tools for students, writers, and developers.
 
 
 ## Prompts
