@@ -16,26 +16,17 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [taskade](https://github.com/taskade/taskade) - AI原生工作空间平台。构建应用程序，部署代理，自动化工作流程 — 从一个提示。
-
-
-**CLIs**
- * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex：OpenAI Codex CLI 的强大工具
-
-
 **NLP**
- * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent：轻量级AI代理框架，具有记忆、工具和思维树。支持多代理协作、自学习和主要LLMs（OpenAI/DeepSeek/Qwen）。采用MCP/SSE协议集成的开源。
- * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRoute是多供应商LLMs的AI网关：一个与OpenAI兼容的端点，具有智能路由、负载均衡、重试和备用功能。添加策略、速率限制、缓存和可观察性，以实现可靠、成本意识的推断。
+ * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - 轻松地根据您最近在Jellyfin、Plex或Emby上观看的内容向Jellyseer/Overseer请求推荐的电影、电视节目和动漫 - 让SuggestArr自动处理一切，让您的媒体库始终充满新鲜和令人兴奋的内容！
+ * [MetaScreener](https://github.com/chaokunhong/metascreener) - 人工智能工具，用于系统评价中高效的摘要和PDF筛选。
+ * [osaurus](https://github.com/osaurus-ai/osaurus) - macOS的AI边缘基础设施。运行本地或云模型，通过MCP在应用程序之间共享工具，并使用本地、始终运行的运行时来支持AI工作流程。
 
 
 **Openai**
- * [9router](https://github.com/decolua/9router) - 通用AI代理克劳德代码，密码，光标 | OpenAI，克劳德，双子座，合作伙伴
- * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - 使用tRPC、Fastify和React构建的全栈SaaS脚手架
- * [ai](https://github.com/laravel/ai) - Laravel AI SDK提供了一个统一的、富有表现力的API，用于与AI提供商（如OpenAI、Anthropic、Gemini等）进行交互。
+ * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 视频生成的GPT ⚡️
 
 
-_Updated on February 23, 2026_ (A total of 2447 repositories listed.)
+_Updated on February 26, 2026_ (A total of 2451 repositories listed.)
 
 ## Table of contents
 
@@ -1607,6 +1598,9 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * 🔥 [cascadeflow](https://github.com/lemony-ai/cascadeflow) - ⭐ 257 / 智能AI模型级联用于成本优化
  * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent：轻量级AI代理框架，具有记忆、工具和思维树。支持多代理协作、自学习和主要LLMs（OpenAI/DeepSeek/Qwen）。采用MCP/SSE协议集成的开源。
  * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRoute是多供应商LLMs的AI网关：一个与OpenAI兼容的端点，具有智能路由、负载均衡、重试和备用功能。添加策略、速率限制、缓存和可观察性，以实现可靠、成本意识的推断。
+ * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - 轻松地根据您最近在Jellyfin、Plex或Emby上观看的内容向Jellyseer/Overseer请求推荐的电影、电视节目和动漫 - 让SuggestArr自动处理一切，让您的媒体库始终充满新鲜和令人兴奋的内容！
+ * [MetaScreener](https://github.com/chaokunhong/metascreener) - 人工智能工具，用于系统评价中高效的摘要和PDF筛选。
+ * [osaurus](https://github.com/osaurus-ai/osaurus) - macOS的AI边缘基础设施。运行本地或云模型，通过MCP在应用程序之间共享工具，并使用本地、始终运行的运行时来支持AI工作流程。
 
 
 ## Langchain
@@ -2113,6 +2107,7 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * [9router](https://github.com/decolua/9router) - 通用AI代理克劳德代码，密码，光标 | OpenAI，克劳德，双子座，合作伙伴
  * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - 使用tRPC、Fastify和React构建的全栈SaaS脚手架
  * [ai](https://github.com/laravel/ai) - Laravel AI SDK提供了一个统一的、富有表现力的API，用于与AI提供商（如OpenAI、Anthropic、Gemini等）进行交互。
+ * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 视频生成的GPT ⚡️
 
 
 ## Others

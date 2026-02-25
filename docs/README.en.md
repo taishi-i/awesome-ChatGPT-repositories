@@ -16,26 +16,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [taskade](https://github.com/taskade/taskade) - The AI-native workspace platform. Build apps, deploy agents, automate workflows — from one prompt.
-
-
-**CLIs**
- * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex: Power tools for OpenAI Codex CLI
-
-
 **NLP**
- * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.
- * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.
+ * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!
+ * [MetaScreener](https://github.com/chaokunhong/metascreener) - AI-powered tool for efficient abstract and PDF screening in systematic reviews.
+ * [osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 
 
 **Openai**
- * [9router](https://github.com/decolua/9router) - Universal AI Proxy for Claude Code, Codex, Cursor | OpenAI, Claude, Gemini, Copilot
- * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - Fullstack SaaS Boilerplate built with tRPC, Fastify and React
- * [ai](https://github.com/laravel/ai) - The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.
+ * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 GPT for video generation ⚡️Translated Output:🎨 GPT for video generation ⚡️
 
 
-_Updated on February 23, 2026_ (A total of 2447 repositories listed.)
+_Updated on February 26, 2026_ (A total of 2451 repositories listed.)
 
 ## Table of contents
 
@@ -1607,6 +1598,9 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * 🔥 [cascadeflow](https://github.com/lemony-ai/cascadeflow) - ⭐ 257 / Smart AI model cascading for cost optimization
  * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.
  * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.
+ * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!
+ * [MetaScreener](https://github.com/chaokunhong/metascreener) - AI-powered tool for efficient abstract and PDF screening in systematic reviews.
+ * [osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 
 
 ## Langchain
@@ -2113,6 +2107,7 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * [9router](https://github.com/decolua/9router) - Universal AI Proxy for Claude Code, Codex, Cursor | OpenAI, Claude, Gemini, Copilot
  * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - Fullstack SaaS Boilerplate built with tRPC, Fastify and React
  * [ai](https://github.com/laravel/ai) - The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.
+ * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 GPT for video generation ⚡️Translated Output:🎨 GPT for video generation ⚡️
 
 
 ## Others

@@ -16,26 +16,17 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [taskade](https://github.com/taskade/taskade) - AIネイティブのワークスペースプラットフォーム。アプリを構築し、エージェントを展開し、ワークフローを自動化します。すべて1つのプロンプトから。
-
-
-**CLIs**
- * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex：OpenAI Codex CLIのパワーツール
-
-
 **NLP**
- * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent: メモリ、ツール、思考の木を備えた軽量AIエージェントフレームワーク。マルチエージェントの協力、自己学習、主要なLLMs（OpenAI/DeepSeek/Qwen）をサポート。MCP/SSEプロトコル統合を備えたオープンソース。
- * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRouteは、マルチプロバイダーLLM向けのAIゲートウェイです。スマートルーティング、ロードバランシング、リトライ、フォールバックを備えたOpenAI互換のエンドポイントです。信頼性とコスト意識の推論のためにポリシー、レート制限、キャッシング、および可観測性を追加してください。
+ * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Jellyfin、Plex、またはEmbyで最近視聴したコンテンツに基づいて、Jellyseer/Overseerにおすすめの映画、テレビ番組、アニメを簡単にリクエストできます。SuggestArrがすべてを自動的に処理し、新しいエキサイティングなコンテンツでライブラリを常に新鮮に保ちます！
+ * [MetaScreener](https://github.com/chaokunhong/metascreener) - システマティックレビューにおける効率的な要約とPDFスクリーニングのためのAIパワードツール。
+ * [osaurus](https://github.com/osaurus-ai/osaurus) - macOS向けのAIエッジインフラストラクチャ。ローカルまたはクラウドモデルを実行し、MCPを介してアプリ間でツールを共有し、ネイティブで常にオンのランタイムでAIワークフローを強化します。
 
 
 **Openai**
- * [9router](https://github.com/decolua/9router) - クロードコード、コーデックス、カーソル用のユニバーサルAIプロキシ | OpenAI、クロード、ジェミニ、コパイロット
- * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - tRPC、Fastify、およびReactを使用して構築されたフルスタックSaaSボイラープレート
- * [ai](https://github.com/laravel/ai) - Laravel AI SDKは、OpenAI、Anthropic、GeminiなどのAIプロバイダーとやり取りするための統一された表現豊かなAPIを提供します。
+ * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 ビデオ生成のためのGPT ⚡️
 
 
-_Updated on February 23, 2026_ (A total of 2447 repositories listed.)
+_Updated on February 26, 2026_ (A total of 2451 repositories listed.)
 
 ## Table of contents
 
@@ -1607,6 +1598,9 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * 🔥 [cascadeflow](https://github.com/lemony-ai/cascadeflow) - ⭐ 257 / コスト最適化のためのスマートAIモデルのカスケード化
  * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent: メモリ、ツール、思考の木を備えた軽量AIエージェントフレームワーク。マルチエージェントの協力、自己学習、主要なLLMs（OpenAI/DeepSeek/Qwen）をサポート。MCP/SSEプロトコル統合を備えたオープンソース。
  * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRouteは、マルチプロバイダーLLM向けのAIゲートウェイです。スマートルーティング、ロードバランシング、リトライ、フォールバックを備えたOpenAI互換のエンドポイントです。信頼性とコスト意識の推論のためにポリシー、レート制限、キャッシング、および可観測性を追加してください。
+ * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Jellyfin、Plex、またはEmbyで最近視聴したコンテンツに基づいて、Jellyseer/Overseerにおすすめの映画、テレビ番組、アニメを簡単にリクエストできます。SuggestArrがすべてを自動的に処理し、新しいエキサイティングなコンテンツでライブラリを常に新鮮に保ちます！
+ * [MetaScreener](https://github.com/chaokunhong/metascreener) - システマティックレビューにおける効率的な要約とPDFスクリーニングのためのAIパワードツール。
+ * [osaurus](https://github.com/osaurus-ai/osaurus) - macOS向けのAIエッジインフラストラクチャ。ローカルまたはクラウドモデルを実行し、MCPを介してアプリ間でツールを共有し、ネイティブで常にオンのランタイムでAIワークフローを強化します。
 
 
 ## Langchain
@@ -2113,6 +2107,7 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * [9router](https://github.com/decolua/9router) - クロードコード、コーデックス、カーソル用のユニバーサルAIプロキシ | OpenAI、クロード、ジェミニ、コパイロット
  * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - tRPC、Fastify、およびReactを使用して構築されたフルスタックSaaSボイラープレート
  * [ai](https://github.com/laravel/ai) - Laravel AI SDKは、OpenAI、Anthropic、GeminiなどのAIプロバイダーとやり取りするための統一された表現豊かなAPIを提供します。
+ * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 ビデオ生成のためのGPT ⚡️
 
 
 ## Others

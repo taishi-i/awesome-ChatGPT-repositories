@@ -36629,6 +36629,87 @@
                     "zh-hans": "OmniRoute是多供应商LLMs的AI网关：一个与OpenAI兼容的端点，具有智能路由、负载均衡、重试和备用功能。添加策略、速率限制、缓存和可观察性，以实现可靠、成本意识的推断。",
                     "zh-hant": "OmniRoute是多供應商LLM的AI閘道：一個兼容OpenAI的端點，具有智能路由、負載平衡、重試和備用功能。添加策略、速率限制、緩存和可觀察性，以進行可靠、成本意識的推斷。"
                 }
+            },
+            "https://github.com/giuseppe99barchetta/suggestarr": {
+                "repository_name": "SuggestArr",
+                "user_name": "giuseppe99barchetta",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!",
+                "topics": [
+                    "automation",
+                    "docker",
+                    "emby",
+                    "jellyfin",
+                    "jellyseerr",
+                    "llm",
+                    "media-automation",
+                    "ombi",
+                    "open-source",
+                    "openai",
+                    "overseerr",
+                    "plex",
+                    "self-hosted",
+                    "tmdb",
+                    "trakt"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!",
+                    "ja": "Jellyfin、Plex、またはEmbyで最近視聴したコンテンツに基づいて、Jellyseer/Overseerにおすすめの映画、テレビ番組、アニメを簡単にリクエストできます。SuggestArrがすべてを自動的に処理し、新しいエキサイティングなコンテンツでライブラリを常に新鮮に保ちます！",
+                    "zh-hans": "轻松地根据您最近在Jellyfin、Plex或Emby上观看的内容向Jellyseer/Overseer请求推荐的电影、电视节目和动漫 - 让SuggestArr自动处理一切，让您的媒体库始终充满新鲜和令人兴奋的内容！",
+                    "zh-hant": "輕鬆地根據您最近在Jellyfin、Plex或Emby上觀看的內容，向Jellyseer/Overseer請求推薦的電影、電視節目和動畫片 - 讓SuggestArr自動處理一切，讓您的媒體庫始終保持新鮮和令人興奮的內容！"
+                }
+            },
+            "https://github.com/chaokunhong/metascreener": {
+                "repository_name": "MetaScreener",
+                "user_name": "ChaokunHong",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "AI-powered tool for efficient abstract and PDF screening in systematic reviews.",
+                "topics": [
+                    "chatgpt",
+                    "claude",
+                    "deepseek",
+                    "gemini",
+                    "literature-screening",
+                    "llm",
+                    "metaanalysis",
+                    "pdf-screening",
+                    "screening",
+                    "screening-api",
+                    "systematic-review"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI-powered tool for efficient abstract and PDF screening in systematic reviews.",
+                    "ja": "システマティックレビューにおける効率的な要約とPDFスクリーニングのためのAIパワードツール。",
+                    "zh-hans": "人工智能工具，用于系统评价中高效的摘要和PDF筛选。",
+                    "zh-hant": "人工智慧驅動的工具，用於系統性回顧中高效的摘要和PDF篩選。"
+                }
+            },
+            "https://github.com/osaurus-ai/osaurus": {
+                "repository_name": "osaurus",
+                "user_name": "osaurus-ai",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.",
+                "topics": [
+                    "anthropic",
+                    "apple-foundation-models",
+                    "apple-intelligence",
+                    "apple-neural-engine",
+                    "llm",
+                    "mcp",
+                    "mcp-server",
+                    "mlx",
+                    "openai",
+                    "swift"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.",
+                    "ja": "macOS向けのAIエッジインフラストラクチャ。ローカルまたはクラウドモデルを実行し、MCPを介してアプリ間でツールを共有し、ネイティブで常にオンのランタイムでAIワークフローを強化します。",
+                    "zh-hans": "macOS的AI边缘基础设施。运行本地或云模型，通过MCP在应用程序之间共享工具，并使用本地、始终运行的运行时来支持AI工作流程。",
+                    "zh-hant": "AI 邊緣基礎設施適用於 macOS。運行本地或雲端模型，通過 MCP 在應用程序之間共享工具，並使用本地、始終運行的運行時來支持 AI 工作流程。"
+                }
             }
         },
         "Langchain": {
@@ -47920,6 +48001,35 @@
                     "ja": "Laravel AI SDKは、OpenAI、Anthropic、GeminiなどのAIプロバイダーとやり取りするための統一された表現豊かなAPIを提供します。",
                     "zh-hans": "Laravel AI SDK提供了一个统一的、富有表现力的API，用于与AI提供商（如OpenAI、Anthropic、Gemini等）进行交互。",
                     "zh-hant": "Laravel AI SDK 提供了統一且表達性豐富的 API，用於與 AI 供應商（如 OpenAI、Anthropic、Gemini 等）進行交互。"
+                }
+            },
+            "https://github.com/marcelo-earth/generative-manim": {
+                "repository_name": "generative-manim",
+                "user_name": "marcelo-earth",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🎨 GPT for video generation ⚡️",
+                "topics": [
+                    "2d",
+                    "animation",
+                    "gpt",
+                    "gpt-4",
+                    "gpt3",
+                    "gpt3-turbo",
+                    "manim",
+                    "openai",
+                    "prompt2manim",
+                    "python-3",
+                    "rendering",
+                    "streamlit",
+                    "text2manim",
+                    "video"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🎨 GPT for video generation ⚡️Translated Output:🎨 GPT for video generation ⚡️",
+                    "ja": "🎨 ビデオ生成のためのGPT ⚡️",
+                    "zh-hans": "🎨 视频生成的GPT ⚡️",
+                    "zh-hant": "🎨 影片生成的 GPT ⚡️"
                 }
             }
         },

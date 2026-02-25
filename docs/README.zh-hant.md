@@ -16,26 +16,17 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [taskade](https://github.com/taskade/taskade) - AI原生工作空間平台。從一個提示建立應用程式，部署代理，自動化工作流程。
-
-
-**CLIs**
- * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - 我的天啊Codex：OpenAI Codex CLI的強大工具
-
-
 **NLP**
- * [LightAgent](https://github.com/wanxingai/lightagent) - 輕量級AI代理框架LightAgent，具有記憶、工具和思維樹。支持多代理協作、自主學習和主要LLMs（OpenAI/DeepSeek/Qwen）。開源並集成MCP/SSE協議。
- * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRoute是多供應商LLM的AI閘道：一個兼容OpenAI的端點，具有智能路由、負載平衡、重試和備用功能。添加策略、速率限制、緩存和可觀察性，以進行可靠、成本意識的推斷。
+ * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - 輕鬆地根據您最近在Jellyfin、Plex或Emby上觀看的內容，向Jellyseer/Overseer請求推薦的電影、電視節目和動畫片 - 讓SuggestArr自動處理一切，讓您的媒體庫始終保持新鮮和令人興奮的內容！
+ * [MetaScreener](https://github.com/chaokunhong/metascreener) - 人工智慧驅動的工具，用於系統性回顧中高效的摘要和PDF篩選。
+ * [osaurus](https://github.com/osaurus-ai/osaurus) - AI 邊緣基礎設施適用於 macOS。運行本地或雲端模型，通過 MCP 在應用程序之間共享工具，並使用本地、始終運行的運行時來支持 AI 工作流程。
 
 
 **Openai**
- * [9router](https://github.com/decolua/9router) - 通用AI代理，適用於Claude Code、Codex、Cursor | OpenAI、Claude、Gemini、Copilot
- * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - 使用tRPC、Fastify和React構建的全棧SaaS樣板
- * [ai](https://github.com/laravel/ai) - Laravel AI SDK 提供了統一且表達性豐富的 API，用於與 AI 供應商（如 OpenAI、Anthropic、Gemini 等）進行交互。
+ * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 影片生成的 GPT ⚡️
 
 
-_Updated on February 23, 2026_ (A total of 2447 repositories listed.)
+_Updated on February 26, 2026_ (A total of 2451 repositories listed.)
 
 ## Table of contents
 
@@ -1607,6 +1598,9 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * 🔥 [cascadeflow](https://github.com/lemony-ai/cascadeflow) - ⭐ 257 / 智能AI模型串聯以進行成本優化
  * [LightAgent](https://github.com/wanxingai/lightagent) - 輕量級AI代理框架LightAgent，具有記憶、工具和思維樹。支持多代理協作、自主學習和主要LLMs（OpenAI/DeepSeek/Qwen）。開源並集成MCP/SSE協議。
  * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRoute是多供應商LLM的AI閘道：一個兼容OpenAI的端點，具有智能路由、負載平衡、重試和備用功能。添加策略、速率限制、緩存和可觀察性，以進行可靠、成本意識的推斷。
+ * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - 輕鬆地根據您最近在Jellyfin、Plex或Emby上觀看的內容，向Jellyseer/Overseer請求推薦的電影、電視節目和動畫片 - 讓SuggestArr自動處理一切，讓您的媒體庫始終保持新鮮和令人興奮的內容！
+ * [MetaScreener](https://github.com/chaokunhong/metascreener) - 人工智慧驅動的工具，用於系統性回顧中高效的摘要和PDF篩選。
+ * [osaurus](https://github.com/osaurus-ai/osaurus) - AI 邊緣基礎設施適用於 macOS。運行本地或雲端模型，通過 MCP 在應用程序之間共享工具，並使用本地、始終運行的運行時來支持 AI 工作流程。
 
 
 ## Langchain
@@ -2113,6 +2107,7 @@ _Updated on February 23, 2026_ (A total of 2447 repositories listed.)
  * [9router](https://github.com/decolua/9router) - 通用AI代理，適用於Claude Code、Codex、Cursor | OpenAI、Claude、Gemini、Copilot
  * [AI-Fullstack-SaaS-Boilerplate](https://github.com/alan345/ai-fullstack-saas-boilerplate) - 使用tRPC、Fastify和React構建的全棧SaaS樣板
  * [ai](https://github.com/laravel/ai) - Laravel AI SDK 提供了統一且表達性豐富的 API，用於與 AI 供應商（如 OpenAI、Anthropic、Gemini 等）進行交互。
+ * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 影片生成的 GPT ⚡️
 
 
 ## Others
