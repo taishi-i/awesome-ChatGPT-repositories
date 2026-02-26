@@ -1601,6 +1601,7 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!
  * [MetaScreener](https://github.com/chaokunhong/metascreener) - AI-powered tool for efficient abstract and PDF screening in systematic reviews.
  * [osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
+ * [neurolink](https://github.com/juspay/neurolink) - A TypeScript-first AI SDK providing unified access to OpenAI, Anthropic, Gemini, and 100+ models across 13 providers with provider-agnostic routing and tool calling.
 
 
 ## Langchain
