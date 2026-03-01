@@ -16,8 +16,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [Athena-Public](https://github.com/winstonkoh87/athena-public) - The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.
+
+
+**Chatbots**
+ * [goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
+
+
+**Browser-extensions**
+ * [agent-sessions](https://github.com/jazzyalex/agent-sessions) - Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.
+
+
+**CLIs**
+ * [neurolink](https://github.com/juspay/neurolink) - Universal AI Development Platform with MCP server integration, multi-provider support, and professional CLI. Build, test, and deploy AI applications with multiple ai providers.
+
+
 **NLP**
  * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!
+ * [open-computer-use](https://github.com/coasty-ai/open-computer-use) - The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.
+ * [ClaraVerse](https://github.com/claraverse-space/claraverse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
  * [MetaScreener](https://github.com/chaokunhong/metascreener) - AI-powered tool for efficient abstract and PDF screening in systematic reviews.
  * [osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 
@@ -26,7 +44,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
  * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 GPT for video generation ⚡️
 
 
-_Updated on February 26, 2026_ (A total of 2451 repositories listed.)
+_Updated on March 02, 2026_ (A total of 2457 repositories listed.)
 
 ## Table of contents
 
@@ -318,6 +336,7 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * ✅ [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - ⭐ 238 / Compilations of ChatGPT Prompts from AIPRM
  * ✅ [gollm](https://github.com/teilomillet/gollm) - ⭐ 636 / Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions.
  * [taskade](https://github.com/taskade/taskade) - The AI-native workspace platform. Build apps, deploy agents, automate workflows — from one prompt.
+ * [Athena-Public](https://github.com/winstonkoh87/athena-public) - The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.
 
 
 ## Chatbots
@@ -687,6 +706,7 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * 🔥 [NagaAgent](https://github.com/rtgs2017/nagaagent) - ⭐ 1.4k / A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.
  * ✅ [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - ⭐ 723 / A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.1k / Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
+ * [goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
 
 
 ## Browser-extensions
@@ -930,6 +950,7 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * 🔥 [ophel](https://github.com/urzeye/ophel) - ⭐ 240 / Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
  * 🔥 [agentsys](https://github.com/avifenesh/agentsys) - ⭐ 472 / AI writes code. This automates everything else · 13 plugins · 42 agents · 28 skills · for Claude Code, OpenCode, Codex.
  * 🔥 [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⭐ 1k / ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+ * [agent-sessions](https://github.com/jazzyalex/agent-sessions) - Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.
 
 
 ## CLIs
@@ -1134,6 +1155,7 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * 🔥 [yutu](https://github.com/eat-pray-ai/yutu) - ⭐ 382 / A fully functional MCP server and CLI for YouTube
  * 🔥 [pocketpaw](https://github.com/pocketpaw/pocketpaw) - ⭐ 447 / Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.
  * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex: Power tools for OpenAI Codex CLI
+ * [neurolink](https://github.com/juspay/neurolink) - Universal AI Development Platform with MCP server integration, multi-provider support, and professional CLI. Build, test, and deploy AI applications with multiple ai providers.
 
 
 ## Reimplementations
@@ -1599,9 +1621,10 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent: Lightweight AI agent framework with memory, tools & tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.
  * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.
  * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!
+ * [open-computer-use](https://github.com/coasty-ai/open-computer-use) - The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.
+ * [ClaraVerse](https://github.com/claraverse-space/claraverse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
  * [MetaScreener](https://github.com/chaokunhong/metascreener) - AI-powered tool for efficient abstract and PDF screening in systematic reviews.
  * [osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
- * [neurolink](https://github.com/juspay/neurolink) - A TypeScript-first AI SDK providing unified access to OpenAI, Anthropic, Gemini, and 100+ models across 13 providers with provider-agnostic routing and tool calling.
 
 
 ## Langchain

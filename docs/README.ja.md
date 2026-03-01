@@ -16,8 +16,26 @@
 
 ## The latest additions 🎉
 
+**Prompts**
+ * [Athena-Public](https://github.com/winstonkoh87/athena-public) - AIエージェント向けのLinux OS-LLMのための永続的なメモリ、自律性、時間認識。状態を所有し、知性を借りる。
+
+
+**Chatbots**
+ * [goclaw](https://github.com/nextlevelbuilder/goclaw) - 複数エージェントAIゲートウェイチーム、委任、オーケストレーションを備えた。単一のGoバイナリ、11以上のLLMプロバイダ、5つのチャンネル。
+
+
+**Browser-extensions**
+ * [agent-sessions](https://github.com/jazzyalex/agent-sessions) - Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI＆OpenClawのためのセッションブラウザ+エージェント分析+リミットトラッカー。すべての過去のセッションを検索/フィルタリングし、セッションをアーカイブし、即座に再開し、リアルタイムでレート制限を確認します。ネイティブ
+
+
+**CLIs**
+ * [neurolink](https://github.com/juspay/neurolink) - MCPサーバー統合、複数のプロバイダーをサポートし、プロフェッショナルなCLIを備えた汎用AI開発プラットフォーム。複数のAIプロバイダーを使用してAIアプリケーションを構築、テスト、展開します。
+
+
 **NLP**
  * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Jellyfin、Plex、またはEmbyで最近視聴したコンテンツに基づいて、Jellyseer/Overseerにおすすめの映画、テレビ番組、アニメを簡単にリクエストできます。SuggestArrがすべてを自動的に処理し、新しいエキサイティングなコンテンツでライブラリを常に新鮮に保ちます！
+ * [open-computer-use](https://github.com/coasty-ai/open-computer-use) - スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。
+ * [ClaraVerse](https://github.com/claraverse-space/claraverse) - Claraverseは、ChatGPT、Claude、N8N、ImageGenを自分自身のホストされたllm、キー、およびコンピュートで置き換えるためのオープンソースのプライバシーに焦点を当てたエコシステムです。デスクトップ、IOS、Androidアプリがあります。
  * [MetaScreener](https://github.com/chaokunhong/metascreener) - システマティックレビューにおける効率的な要約とPDFスクリーニングのためのAIパワードツール。
  * [osaurus](https://github.com/osaurus-ai/osaurus) - macOS向けのAIエッジインフラストラクチャ。ローカルまたはクラウドモデルを実行し、MCPを介してアプリ間でツールを共有し、ネイティブで常にオンのランタイムでAIワークフローを強化します。
 
@@ -26,7 +44,7 @@
  * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 ビデオ生成のためのGPT ⚡️
 
 
-_Updated on February 26, 2026_ (A total of 2451 repositories listed.)
+_Updated on March 02, 2026_ (A total of 2457 repositories listed.)
 
 ## Table of contents
 
@@ -318,6 +336,7 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * ✅ [chat-gpt-prompts-from-aiprm](https://github.com/gabriel-kaam/chat-gpt-prompts-from-aiprm) - ⭐ 238 / AIPRMからのChatGPTプロンプトのコンパイル
  * ✅ [gollm](https://github.com/teilomillet/gollm) - ⭐ 636 / 言語モデル（LLM）プロバイダー向けの統一されたGoインターフェース。柔軟なプロンプト管理と共通のタスク機能により、LLMの統合が簡素化されます。
  * [taskade](https://github.com/taskade/taskade) - AIネイティブのワークスペースプラットフォーム。アプリを構築し、エージェントを展開し、ワークフローを自動化します。すべて1つのプロンプトから。
+ * [Athena-Public](https://github.com/winstonkoh87/athena-public) - AIエージェント向けのLinux OS-LLMのための永続的なメモリ、自律性、時間認識。状態を所有し、知性を借りる。
 
 
 ## Chatbots
@@ -687,6 +706,7 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * 🔥 [NagaAgent](https://github.com/rtgs2017/nagaagent) - ⭐ 1.4k / 個人アシスタント向けのシンプルでパワフルなエージェントフレームワーク。知的なインタラクション、マルチエージェントの協力、シームレスなツールの統合を可能にするよう設計されています。
  * ✅ [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - ⭐ 723 / あなたの好みに基づいてLinkedin、GlassdoorなどのEasy Applyの仕事を自動的に申し込むPythonボット。自動ログイン、追加の質問を自動的に入力し、自動的に申し込みます！
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.1k / 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
+ * [goclaw](https://github.com/nextlevelbuilder/goclaw) - 複数エージェントAIゲートウェイチーム、委任、オーケストレーションを備えた。単一のGoバイナリ、11以上のLLMプロバイダ、5つのチャンネル。
 
 
 ## Browser-extensions
@@ -930,6 +950,7 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * 🔥 [ophel](https://github.com/urzeye/ophel) - ⭐ 240 / AIの会話を整理された再利用可能なワークフローに変換し、主要なAIプラットフォーム全体で使用できるようにします。
  * 🔥 [agentsys](https://github.com/avifenesh/agentsys) - ⭐ 472 / AIがコードを書きます。これにより、他のすべてが自動化されます·13のプラグイン·42のエージェント·28のスキル·Claude Code、OpenCode、Codex用。
  * 🔥 [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⭐ 1k / ⌥ ターミナル用AIコーディングエージェント - ハッシュアンカー編集、最適化されたツールハーネス、LSP、Python、ブラウザ、サブエージェントなど
+ * [agent-sessions](https://github.com/jazzyalex/agent-sessions) - Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI＆OpenClawのためのセッションブラウザ+エージェント分析+リミットトラッカー。すべての過去のセッションを検索/フィルタリングし、セッションをアーカイブし、即座に再開し、リアルタイムでレート制限を確認します。ネイティブ
 
 
 ## CLIs
@@ -1134,6 +1155,7 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * 🔥 [yutu](https://github.com/eat-pray-ai/yutu) - ⭐ 382 / YouTubeのための完全に機能するMCPサーバーとCLI
  * 🔥 [pocketpaw](https://github.com/pocketpaw/pocketpaw) - ⭐ 447 / 30秒であなたのAIエージェント。30時間ではありません。デスクトップインストーラー、マルチエージェントコマンドセンター（ディープワーク）、7層のセキュリティを備えたセルフホスト型のオープンソースの個人用AI。Anthropic、OpenAI、またはOllama。
  * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex：OpenAI Codex CLIのパワーツール
+ * [neurolink](https://github.com/juspay/neurolink) - MCPサーバー統合、複数のプロバイダーをサポートし、プロフェッショナルなCLIを備えた汎用AI開発プラットフォーム。複数のAIプロバイダーを使用してAIアプリケーションを構築、テスト、展開します。
 
 
 ## Reimplementations
@@ -1599,6 +1621,8 @@ _Updated on February 26, 2026_ (A total of 2451 repositories listed.)
  * [LightAgent](https://github.com/wanxingai/lightagent) - LightAgent: メモリ、ツール、思考の木を備えた軽量AIエージェントフレームワーク。マルチエージェントの協力、自己学習、主要なLLMs（OpenAI/DeepSeek/Qwen）をサポート。MCP/SSEプロトコル統合を備えたオープンソース。
  * [OmniRoute](https://github.com/diegosouzapw/omniroute) - OmniRouteは、マルチプロバイダーLLM向けのAIゲートウェイです。スマートルーティング、ロードバランシング、リトライ、フォールバックを備えたOpenAI互換のエンドポイントです。信頼性とコスト意識の推論のためにポリシー、レート制限、キャッシング、および可観測性を追加してください。
  * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Jellyfin、Plex、またはEmbyで最近視聴したコンテンツに基づいて、Jellyseer/Overseerにおすすめの映画、テレビ番組、アニメを簡単にリクエストできます。SuggestArrがすべてを自動的に処理し、新しいエキサイティングなコンテンツでライブラリを常に新鮮に保ちます！
+ * [open-computer-use](https://github.com/coasty-ai/open-computer-use) - スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。
+ * [ClaraVerse](https://github.com/claraverse-space/claraverse) - Claraverseは、ChatGPT、Claude、N8N、ImageGenを自分自身のホストされたllm、キー、およびコンピュートで置き換えるためのオープンソースのプライバシーに焦点を当てたエコシステムです。デスクトップ、IOS、Androidアプリがあります。
  * [MetaScreener](https://github.com/chaokunhong/metascreener) - システマティックレビューにおける効率的な要約とPDFスクリーニングのためのAIパワードツール。
  * [osaurus](https://github.com/osaurus-ai/osaurus) - macOS向けのAIエッジインフラストラクチャ。ローカルまたはクラウドモデルを実行し、MCPを介してアプリ間でツールを共有し、ネイティブで常にオンのランタイムでAIワークフローを強化します。
 

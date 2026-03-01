@@ -6683,6 +6683,41 @@
                     "zh-hans": "AI原生工作空间平台。构建应用程序，部署代理，自动化工作流程 — 从一个提示。",
                     "zh-hant": "AI原生工作空間平台。從一個提示建立應用程式，部署代理，自動化工作流程。"
                 }
+            },
+            "https://github.com/winstonkoh87/athena-public": {
+                "repository_name": "Athena-Public",
+                "user_name": "winstonkoh87",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ai-assistant",
+                    "automation",
+                    "chatgpt",
+                    "developer-tools",
+                    "framework",
+                    "gemini",
+                    "google-antigravity",
+                    "graphrag",
+                    "knowledge-management",
+                    "llm",
+                    "local-first",
+                    "memory",
+                    "open-source",
+                    "prompt-engineering",
+                    "python",
+                    "rag",
+                    "semantic-search",
+                    "vector-search"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.",
+                    "ja": "AIエージェント向けのLinux OS-LLMのための永続的なメモリ、自律性、時間認識。状態を所有し、知性を借りる。",
+                    "zh-hans": "为AI代理人设计的Linux操作系统-为任何LLM提供持久内存、自主性和时间感知。拥有状态。租用智能。",
+                    "zh-hant": "為AI代理人設計的Linux操作系統-對於任何LLM來說，具有持久記憶、自主性和時間感知。擁有狀態。租用智能。"
+                }
             }
         },
         "Chatbots": {
@@ -15860,6 +15895,35 @@
                     "zh-hans": "生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI",
                     "zh-hant": "生產就緒的人工智慧聊天。從這裡開始，讓它成為你自己的。原名Sparka AI"
                 }
+            },
+            "https://github.com/nextlevelbuilder/goclaw": {
+                "repository_name": "goclaw",
+                "user_name": "nextlevelbuilder",
+                "language": "Go",
+                "license": null,
+                "description": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
+                "topics": [
+                    "agent-orchestration",
+                    "ai-agent",
+                    "ai-gateway",
+                    "anthropic",
+                    "chatbot",
+                    "discord-bot",
+                    "golang",
+                    "llm",
+                    "mcp",
+                    "multi-agent",
+                    "openai",
+                    "postgresql",
+                    "telegram-bot",
+                    "websocket"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.",
+                    "ja": "複数エージェントAIゲートウェイチーム、委任、オーケストレーションを備えた。単一のGoバイナリ、11以上のLLMプロバイダ、5つのチャンネル。",
+                    "zh-hans": "多代理人AI网关，具有团队、委托和编排功能。单个Go二进制文件，11个以上的LLM提供商，5个通道。",
+                    "zh-hant": "多代理人AI閘道，具有團隊、委派和協調功能。單一Go二進制文件，11個以上的LLM提供者，5個通道。"
+                }
             }
         },
         "Browser-extensions": {
@@ -21515,6 +21579,37 @@
                     "zh-hans": "⌥ 终端AI编码代理 - 哈希锚定编辑，优化工具组合，LSP，Python，浏览器，子代理等",
                     "zh-hant": "⌥ 終端機的AI編碼代理 - 哈希錨定的編輯、優化工具組、LSP、Python、瀏覽器、子代理等"
                 }
+            },
+            "https://github.com/jazzyalex/agent-sessions": {
+                "repository_name": "agent-sessions",
+                "user_name": "jazzyalex",
+                "language": "Swift",
+                "license": "MIT License",
+                "description": "Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.",
+                "topics": [
+                    "agentic-workflow",
+                    "agents",
+                    "ai",
+                    "antrophic",
+                    "claude-code",
+                    "codex",
+                    "codex-cli",
+                    "developer-tools",
+                    "gpt-5",
+                    "indie-hacker",
+                    "macos",
+                    "openai",
+                    "productivity-tools",
+                    "session-management",
+                    "usage-tracking",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native",
+                    "ja": "Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI＆OpenClawのためのセッションブラウザ+エージェント分析+リミットトラッカー。すべての過去のセッションを検索/フィルタリングし、セッションをアーカイブし、即座に再開し、リアルタイムでレート制限を確認します。ネイティブ",
+                    "zh-hans": "会话浏览器+代理分析+Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI和OpenClaw的限制跟踪器。搜索/过滤所有过去的会话，存档会话，立即恢复，实时查看速率限制。本地化。",
+                    "zh-hant": "Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI 和 OpenClaw 的會話瀏覽器 + 代理分析 + 限制追踪器。搜索/篩選所有過去的會話，存檔會話，即時恢復，實時查看速率限制。本地。"
+                }
             }
         },
         "CLIs": {
@@ -26361,6 +26456,34 @@
                     "ja": "OmX - Oh My Codex：OpenAI Codex CLIのパワーツール",
                     "zh-hans": "OmX - Oh My Codex：OpenAI Codex CLI 的强大工具",
                     "zh-hant": "OmX - 我的天啊Codex：OpenAI Codex CLI的強大工具"
+                }
+            },
+            "https://github.com/juspay/neurolink": {
+                "repository_name": "neurolink",
+                "user_name": "juspay",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Universal AI Development Platform with MCP server integration, multi-provider support, and professional CLI. Build, test, and deploy AI applications with multiple ai providers.",
+                "topics": [
+                    "agents",
+                    "ai",
+                    "ai-development",
+                    "ai-platform",
+                    "automation",
+                    "developer-tools",
+                    "llm",
+                    "local-first",
+                    "mcp",
+                    "model-context-protocol",
+                    "neurolink",
+                    "skills",
+                    "universal-ai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Universal AI Development Platform with MCP server integration, multi-provider support, and professional CLI. Build, test, and deploy AI applications with multiple ai providers.",
+                    "ja": "MCPサーバー統合、複数のプロバイダーをサポートし、プロフェッショナルなCLIを備えた汎用AI開発プラットフォーム。複数のAIプロバイダーを使用してAIアプリケーションを構築、テスト、展開します。",
+                    "zh-hans": "通用AI开发平台，集成MCP服务器，支持多个提供商，并具有专业的CLI。使用多个AI提供商构建、测试和部署AI应用程序。",
+                    "zh-hant": "具有MCP服务器集成、多供应商支持和专业CLI的通用AI开发平台。使用多个AI提供商构建、测试和部署AI应用程序。"
                 }
             }
         },
@@ -36658,6 +36781,61 @@
                     "ja": "Jellyfin、Plex、またはEmbyで最近視聴したコンテンツに基づいて、Jellyseer/Overseerにおすすめの映画、テレビ番組、アニメを簡単にリクエストできます。SuggestArrがすべてを自動的に処理し、新しいエキサイティングなコンテンツでライブラリを常に新鮮に保ちます！",
                     "zh-hans": "轻松地根据您最近在Jellyfin、Plex或Emby上观看的内容向Jellyseer/Overseer请求推荐的电影、电视节目和动漫 - 让SuggestArr自动处理一切，让您的媒体库始终充满新鲜和令人兴奋的内容！",
                     "zh-hant": "輕鬆地根據您最近在Jellyfin、Plex或Emby上觀看的內容，向Jellyseer/Overseer請求推薦的電影、電視節目和動畫片 - 讓SuggestArr自動處理一切，讓您的媒體庫始終保持新鮮和令人興奮的內容！"
+                }
+            },
+            "https://github.com/coasty-ai/open-computer-use": {
+                "repository_name": "open-computer-use",
+                "user_name": "coasty-ai",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
+                "topics": [
+                    "agent",
+                    "agentic-framework",
+                    "ai",
+                    "ai-agents",
+                    "anthropic",
+                    "claude",
+                    "claude-code",
+                    "cli-tools",
+                    "computer-control",
+                    "computer-use",
+                    "computer-use-agent",
+                    "full-stack",
+                    "gemini-ai",
+                    "gemini-api",
+                    "google-api",
+                    "gui-automation",
+                    "llm",
+                    "llm-agents",
+                    "openai",
+                    "saas-application"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.",
+                    "ja": "スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。",
+                    "zh-hans": "规模化自主虚拟计算机代理的开放框架，完全开源，安全，可审计，并且已准备投入生产。",
+                    "zh-hant": "開放框架，用於大規模自主虛擬計算機代理，完全開源，安全，可審計，並且已準備就緒。"
+                }
+            },
+            "https://github.com/claraverse-space/claraverse": {
+                "repository_name": "ClaraVerse",
+                "user_name": "claraverse-space",
+                "language": "Go",
+                "license": "Other",
+                "description": "Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.",
+                "topics": [
+                    "hacktoberfest",
+                    "llm",
+                    "ollama",
+                    "opensourcellms",
+                    "webui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.",
+                    "ja": "Claraverseは、ChatGPT、Claude、N8N、ImageGenを自分自身のホストされたllm、キー、およびコンピュートで置き換えるためのオープンソースのプライバシーに焦点を当てたエコシステムです。デスクトップ、IOS、Androidアプリがあります。",
+                    "zh-hans": "Claraverse是一个开源的隐私保护生态系统，用于替代ChatGPT、Claude、N8N、ImageGen，并使用您自己托管的llm、密钥和计算。支持桌面、iOS和安卓应用。",
+                    "zh-hant": "Claraverse 是一個開源的隱私導向生態系統，可用來取代 ChatGPT、Claude、N8N、ImageGen，並使用您自己託管的 llm、金鑰和計算。支援桌面應用程式、iOS 和 Android 應用程式。"
                 }
             },
             "https://github.com/chaokunhong/metascreener": {
