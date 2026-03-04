@@ -16,36 +16,17 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Athena-Public](https://github.com/winstonkoh87/athena-public) - AIエージェント向けのLinux OS-LLMのための永続的なメモリ、自律性、時間認識。状態を所有し、知性を借りる。
-
-
 **Chatbots**
  * [chat-js](https://github.com/franciscomoretti/chat-js) - 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
- * [goclaw](https://github.com/nextlevelbuilder/goclaw) - 複数エージェントAIゲートウェイチーム、委任、オーケストレーションを備えた。単一のGoバイナリ、11以上のLLMプロバイダ、5つのチャンネル。
 
 
 **Browser-extensions**
- * [agent-sessions](https://github.com/jazzyalex/agent-sessions) - Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI＆OpenClawのためのセッションブラウザ+エージェント分析+リミットトラッカー。すべての過去のセッションを検索/フィルタリングし、セッションをアーカイブし、即座に再開し、リアルタイムでレート制限を確認します。ネイティブ
  * [agentsys](https://github.com/agent-sh/agentsys) - AIがコードを書きます。これにより、他のすべてが自動化されます。· 14のプラグイン · 43のエージェント · 30のスキル · クロードコード、オープンコード、コーデックス、カーソル、キロ用。
 
 
 **CLIs**
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - Input: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。 Output: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。
  * [codemap](https://github.com/jordancoin/codemap) - AIのためのプロジェクトブレイン。トークンを燃やさずにLLMsに即座の建築コンテキストを提供します。
- * [neurolink](https://github.com/juspay/neurolink) - MCPサーバー統合、複数のプロバイダーをサポートし、プロフェッショナルなCLIを備えた汎用AI開発プラットフォーム。複数のAIプロバイダーを使用してAIアプリケーションを構築、テスト、展開します。
-
-
-**NLP**
- * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Jellyfin、Plex、またはEmbyで最近視聴したコンテンツに基づいて、Jellyseer/Overseerにおすすめの映画、テレビ番組、アニメを簡単にリクエストできます。SuggestArrがすべてを自動的に処理し、新しいエキサイティングなコンテンツでライブラリを常に新鮮に保ちます！
- * [open-computer-use](https://github.com/coasty-ai/open-computer-use) - スケールで自律的な仮想コンピューターエージェントのためのオープンフレームワークは、完全にオープンソースで安全で監査可能で、製品として利用可能です。
- * [ClaraVerse](https://github.com/claraverse-space/claraverse) - Claraverseは、ChatGPT、Claude、N8N、ImageGenを自分自身のホストされたllm、キー、およびコンピュートで置き換えるためのオープンソースのプライバシーに焦点を当てたエコシステムです。デスクトップ、IOS、Androidアプリがあります。
- * [MetaScreener](https://github.com/chaokunhong/metascreener) - システマティックレビューにおける効率的な要約とPDFスクリーニングのためのAIパワードツール。
- * [osaurus](https://github.com/osaurus-ai/osaurus) - macOS向けのAIエッジインフラストラクチャ。ローカルまたはクラウドモデルを実行し、MCPを介してアプリ間でツールを共有し、ネイティブで常にオンのランタイムでAIワークフローを強化します。
-
-
-**Openai**
- * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 ビデオ生成のためのGPT ⚡️
 
 
 _Updated on March 05, 2026_ (A total of 2461 repositories listed.)
@@ -710,8 +691,8 @@ _Updated on March 05, 2026_ (A total of 2461 repositories listed.)
  * 🔥 [NagaAgent](https://github.com/rtgs2017/nagaagent) - ⭐ 1.4k / 個人アシスタント向けのシンプルでパワフルなエージェントフレームワーク。知的なインタラクション、マルチエージェントの協力、シームレスなツールの統合を可能にするよう設計されています。
  * ✅ [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - ⭐ 723 / あなたの好みに基づいてLinkedin、GlassdoorなどのEasy Applyの仕事を自動的に申し込むPythonボット。自動ログイン、追加の質問を自動的に入力し、自動的に申し込みます！
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.1k / 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
- * [chat-js](https://github.com/franciscomoretti/chat-js) - 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
  * [goclaw](https://github.com/nextlevelbuilder/goclaw) - 複数エージェントAIゲートウェイチーム、委任、オーケストレーションを備えた。単一のGoバイナリ、11以上のLLMプロバイダ、5つのチャンネル。
+ * [chat-js](https://github.com/franciscomoretti/chat-js) - 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
 
 
 ## Browser-extensions
@@ -1161,9 +1142,9 @@ _Updated on March 05, 2026_ (A total of 2461 repositories listed.)
  * 🔥 [yutu](https://github.com/eat-pray-ai/yutu) - ⭐ 382 / YouTubeのための完全に機能するMCPサーバーとCLI
  * 🔥 [pocketpaw](https://github.com/pocketpaw/pocketpaw) - ⭐ 447 / 30秒であなたのAIエージェント。30時間ではありません。デスクトップインストーラー、マルチエージェントコマンドセンター（ディープワーク）、7層のセキュリティを備えたセルフホスト型のオープンソースの個人用AI。Anthropic、OpenAI、またはOllama。
  * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex：OpenAI Codex CLIのパワーツール
+ * [neurolink](https://github.com/juspay/neurolink) - MCPサーバー統合、複数のプロバイダーをサポートし、プロフェッショナルなCLIを備えた汎用AI開発プラットフォーム。複数のAIプロバイダーを使用してAIアプリケーションを構築、テスト、展開します。
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - Input: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。 Output: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。
  * [codemap](https://github.com/jordancoin/codemap) - AIのためのプロジェクトブレイン。トークンを燃やさずにLLMsに即座の建築コンテキストを提供します。
- * [neurolink](https://github.com/juspay/neurolink) - MCPサーバー統合、複数のプロバイダーをサポートし、プロフェッショナルなCLIを備えた汎用AI開発プラットフォーム。複数のAIプロバイダーを使用してAIアプリケーションを構築、テスト、展開します。
 
 
 ## Reimplementations
