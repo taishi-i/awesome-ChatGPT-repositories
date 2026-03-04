@@ -16,36 +16,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Athena-Public](https://github.com/winstonkoh87/athena-public) - The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.
-
-
 **Chatbots**
  * [chat-js](https://github.com/franciscomoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
- * [goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
 
 
 **Browser-extensions**
- * [agent-sessions](https://github.com/jazzyalex/agent-sessions) - Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native
  * [agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex, cursor, kiro.
 
 
 **CLIs**
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.
  * [codemap](https://github.com/jordancoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens
- * [neurolink](https://github.com/juspay/neurolink) - Universal AI Development Platform with MCP server integration, multi-provider support, and professional CLI. Build, test, and deploy AI applications with multiple ai providers.
-
-
-**NLP**
- * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - Effortlessly request recommended movies, TV shows and anime to Jellyseer/Overseer based on your recently watched content on Jellyfin, Plex or Emby—let SuggestArr handle it all automatically, keeping your library fresh with new and exciting content!
- * [open-computer-use](https://github.com/coasty-ai/open-computer-use) - The Open Framework for autonomous virtual computer agents at scale, fully open-source, safe, auditable, and production-ready.
- * [ClaraVerse](https://github.com/claraverse-space/claraverse) - Claraverse is a opesource privacy focused ecosystem to replace ChatGPT, Claude, N8N, ImageGen with your own hosted llm, keys and compute. With desktop, IOS, Android Apps.
- * [MetaScreener](https://github.com/chaokunhong/metascreener) - AI-powered tool for efficient abstract and PDF screening in systematic reviews.
- * [osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
-
-
-**Openai**
- * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 GPT for video generation ⚡️Translated Output:🎨 GPT for video generation ⚡️
 
 
 _Updated on March 05, 2026_ (A total of 2461 repositories listed.)
@@ -710,8 +691,8 @@ _Updated on March 05, 2026_ (A total of 2461 repositories listed.)
  * 🔥 [NagaAgent](https://github.com/rtgs2017/nagaagent) - ⭐ 1.4k / A simple yet powerful agent framework for personal assistants, designed to enable intelligent interaction, multi-agent collaboration, and seamless tool integration.
  * ✅ [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - ⭐ 723 / A python bot to automatically apply all Linkedin,Glassdoor, etc Easy Apply jobs based on your preferences. Auto login, auto fill additional questions, apply automatically!
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.1k / Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
- * [chat-js](https://github.com/franciscomoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
  * [goclaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
+ * [chat-js](https://github.com/franciscomoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
 
 
 ## Browser-extensions
@@ -1161,9 +1142,9 @@ _Updated on March 05, 2026_ (A total of 2461 repositories listed.)
  * 🔥 [yutu](https://github.com/eat-pray-ai/yutu) - ⭐ 382 / A fully functional MCP server and CLI for YouTube
  * 🔥 [pocketpaw](https://github.com/pocketpaw/pocketpaw) - ⭐ 447 / Your AI agent in 30 seconds. Not 30 hours. Self-hosted, open-source personal AI with desktop installer, multi-agent Command Center(Deep Work), and 7-layer security. Anthropic, OpenAI, or Ollama.
  * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex: Power tools for OpenAI Codex CLI
+ * [neurolink](https://github.com/juspay/neurolink) - Universal AI Development Platform with MCP server integration, multi-provider support, and professional CLI. Build, test, and deploy AI applications with multiple ai providers.
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.
  * [codemap](https://github.com/jordancoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens
- * [neurolink](https://github.com/juspay/neurolink) - Universal AI Development Platform with MCP server integration, multi-provider support, and professional CLI. Build, test, and deploy AI applications with multiple ai providers.
 
 
 ## Reimplementations

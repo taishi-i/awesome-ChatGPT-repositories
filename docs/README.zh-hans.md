@@ -16,36 +16,17 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Athena-Public](https://github.com/winstonkoh87/athena-public) - 为AI代理人设计的Linux操作系统-为任何LLM提供持久内存、自主性和时间感知。拥有状态。租用智能。
-
-
 **Chatbots**
  * [chat-js](https://github.com/franciscomoretti/chat-js) - 生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI
- * [goclaw](https://github.com/nextlevelbuilder/goclaw) - 多代理人AI网关，具有团队、委托和编排功能。单个Go二进制文件，11个以上的LLM提供商，5个通道。
 
 
 **Browser-extensions**
- * [agent-sessions](https://github.com/jazzyalex/agent-sessions) - 会话浏览器+代理分析+Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI和OpenClaw的限制跟踪器。搜索/过滤所有过去的会话，存档会话，立即恢复，实时查看速率限制。本地化。
  * [agentsys](https://github.com/agent-sh/agentsys) - AI编写代码。这自动化了其他所有内容 · 14个插件 · 43个代理 · 30种技能 · 适用于Claude Code，OpenCode，Codex，cursor，kiro。
 
 
 **CLIs**
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — 使用Next.js 16、React 19、PostgreSQL、Prisma 7和shadcn/ui构建的开源CRM。CRM、项目、发票、文档、电子邮件客户端和人工智能功能。
  * [codemap](https://github.com/jordancoin/codemap) - 为您的AI提供一个项目大脑。为LLMs提供即时的架构背景，而不会消耗代币。
- * [neurolink](https://github.com/juspay/neurolink) - 通用AI开发平台，集成MCP服务器，支持多个提供商，并具有专业的CLI。使用多个AI提供商构建、测试和部署AI应用程序。
-
-
-**NLP**
- * [SuggestArr](https://github.com/giuseppe99barchetta/suggestarr) - 轻松地根据您最近在Jellyfin、Plex或Emby上观看的内容向Jellyseer/Overseer请求推荐的电影、电视节目和动漫 - 让SuggestArr自动处理一切，让您的媒体库始终充满新鲜和令人兴奋的内容！
- * [open-computer-use](https://github.com/coasty-ai/open-computer-use) - 规模化自主虚拟计算机代理的开放框架，完全开源，安全，可审计，并且已准备投入生产。
- * [ClaraVerse](https://github.com/claraverse-space/claraverse) - Claraverse是一个开源的隐私保护生态系统，用于替代ChatGPT、Claude、N8N、ImageGen，并使用您自己托管的llm、密钥和计算。支持桌面、iOS和安卓应用。
- * [MetaScreener](https://github.com/chaokunhong/metascreener) - 人工智能工具，用于系统评价中高效的摘要和PDF筛选。
- * [osaurus](https://github.com/osaurus-ai/osaurus) - macOS的AI边缘基础设施。运行本地或云模型，通过MCP在应用程序之间共享工具，并使用本地、始终运行的运行时来支持AI工作流程。
-
-
-**Openai**
- * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 视频生成的GPT ⚡️
 
 
 _Updated on March 05, 2026_ (A total of 2461 repositories listed.)
@@ -710,8 +691,8 @@ _Updated on March 05, 2026_ (A total of 2461 repositories listed.)
  * 🔥 [NagaAgent](https://github.com/rtgs2017/nagaagent) - ⭐ 1.4k / 一个简单而强大的个人助理代理框架，旨在实现智能互动、多代理协作和无缝工具集成。
  * ✅ [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - ⭐ 723 / 一个Python机器人，可以根据您的偏好自动申请所有Linkedin、Glassdoor等Easy Apply工作。自动登录，自动填写额外问题，自动申请！
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.1k / 生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI
- * [chat-js](https://github.com/franciscomoretti/chat-js) - 生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI
  * [goclaw](https://github.com/nextlevelbuilder/goclaw) - 多代理人AI网关，具有团队、委托和编排功能。单个Go二进制文件，11个以上的LLM提供商，5个通道。
+ * [chat-js](https://github.com/franciscomoretti/chat-js) - 生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI
 
 
 ## Browser-extensions
@@ -1161,9 +1142,9 @@ _Updated on March 05, 2026_ (A total of 2461 repositories listed.)
  * 🔥 [yutu](https://github.com/eat-pray-ai/yutu) - ⭐ 382 / 一个完全功能的MCP服务器和YouTube的CLI
  * 🔥 [pocketpaw](https://github.com/pocketpaw/pocketpaw) - ⭐ 447 / 您的AI代理在30秒内。不是30小时。自托管、开源的个人AI，带有桌面安装程序、多代理命令中心（深度工作）和7层安全性。Anthropic、OpenAI或Ollama。
  * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex：OpenAI Codex CLI 的强大工具
+ * [neurolink](https://github.com/juspay/neurolink) - 通用AI开发平台，集成MCP服务器，支持多个提供商，并具有专业的CLI。使用多个AI提供商构建、测试和部署AI应用程序。
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — 使用Next.js 16、React 19、PostgreSQL、Prisma 7和shadcn/ui构建的开源CRM。CRM、项目、发票、文档、电子邮件客户端和人工智能功能。
  * [codemap](https://github.com/jordancoin/codemap) - 为您的AI提供一个项目大脑。为LLMs提供即时的架构背景，而不会消耗代币。
- * [neurolink](https://github.com/juspay/neurolink) - 通用AI开发平台，集成MCP服务器，支持多个提供商，并具有专业的CLI。使用多个AI提供商构建、测试和部署AI应用程序。
 
 
 ## Reimplementations
