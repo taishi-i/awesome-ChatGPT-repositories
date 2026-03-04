@@ -15896,6 +15896,34 @@
                     "zh-hant": "生產就緒的人工智慧聊天。從這裡開始，讓它成為你自己的。原名Sparka AI"
                 }
             },
+            "https://github.com/franciscomoretti/chat-js": {
+                "repository_name": "chat-js",
+                "user_name": "FranciscoMoretti",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Production-ready AI chat. Start here and make it your own. Formerly Sparka AI",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "chat",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "gemini-ai",
+                    "grok",
+                    "llm",
+                    "multiprovider",
+                    "openai",
+                    "xai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Production-ready AI chat. Start here and make it your own. Formerly Sparka AI",
+                    "ja": "本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。",
+                    "zh-hans": "生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI",
+                    "zh-hant": "生產就緒的人工智慧聊天。從這裡開始，讓它成為你自己的。原名Sparka AI"
+                }
+            },
             "https://github.com/nextlevelbuilder/goclaw": {
                 "repository_name": "goclaw",
                 "user_name": "nextlevelbuilder",
@@ -21610,6 +21638,41 @@
                     "zh-hans": "会话浏览器+代理分析+Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI和OpenClaw的限制跟踪器。搜索/过滤所有过去的会话，存档会话，立即恢复，实时查看速率限制。本地化。",
                     "zh-hant": "Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI 和 OpenClaw 的會話瀏覽器 + 代理分析 + 限制追踪器。搜索/篩選所有過去的會話，存檔會話，即時恢復，實時查看速率限制。本地。"
                 }
+            },
+            "https://github.com/agent-sh/agentsys": {
+                "repository_name": "agentsys",
+                "user_name": "agent-sh",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex, cursor, kiro.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "anthropic",
+                    "automation",
+                    "autonomous-agents",
+                    "claude",
+                    "claude-code",
+                    "cli",
+                    "code-review",
+                    "codex",
+                    "cursor",
+                    "devtools",
+                    "openai",
+                    "opencode",
+                    "plugins",
+                    "productivity",
+                    "skills",
+                    "slash-commands",
+                    "vibe-coding",
+                    "workflow"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex, cursor, kiro.",
+                    "ja": "AIがコードを書きます。これにより、他のすべてが自動化されます。· 14のプラグイン · 43のエージェント · 30のスキル · クロードコード、オープンコード、コーデックス、カーソル、キロ用。",
+                    "zh-hans": "AI编写代码。这自动化了其他所有内容 · 14个插件 · 43个代理 · 30种技能 · 适用于Claude Code，OpenCode，Codex，cursor，kiro。",
+                    "zh-hant": "AI 寫程式碼。這自動化了其他所有事情 · 14個插件 · 43個代理 · 30個技能 · 適用於Claude Code、OpenCode、Codex、cursor、kiro。"
+                }
             }
         },
         "CLIs": {
@@ -26456,6 +26519,60 @@
                     "ja": "OmX - Oh My Codex：OpenAI Codex CLIのパワーツール",
                     "zh-hans": "OmX - Oh My Codex：OpenAI Codex CLI 的强大工具",
                     "zh-hant": "OmX - 我的天啊Codex：OpenAI Codex CLI的強大工具"
+                }
+            },
+            "https://github.com/pdovhomilja/nextcrm-app": {
+                "repository_name": "nextcrm-app",
+                "user_name": "pdovhomilja",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "NextCRM — Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.",
+                "topics": [
+                    "crm",
+                    "next-auth",
+                    "nextjs",
+                    "open-source",
+                    "openai",
+                    "postgresql",
+                    "prisma",
+                    "react",
+                    "resend",
+                    "shadcn-ui",
+                    "tailwindcss",
+                    "tremor",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "NextCRM — Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.",
+                    "ja": "Input: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。 Output: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。",
+                    "zh-hans": "NextCRM — 使用Next.js 16、React 19、PostgreSQL、Prisma 7和shadcn/ui构建的开源CRM。CRM、项目、发票、文档、电子邮件客户端和人工智能功能。",
+                    "zh-hant": "NextCRM — 使用Next.js 16、React 19、PostgreSQL、Prisma 7和shadcn/ui構建的開源CRM。CRM、項目、發票、文件、郵件客戶端和人工智能功能。"
+                }
+            },
+            "https://github.com/jordancoin/codemap": {
+                "repository_name": "codemap",
+                "user_name": "JordanCoin",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "a project brain for your AI. Give LLMs instant architectural context without burning tokens",
+                "topics": [
+                    "claude",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "codex-cli",
+                    "context",
+                    "cursor",
+                    "developer-tools",
+                    "llm",
+                    "openai",
+                    "project-management"
+                ],
+                "multilingual_descriptions": {
+                    "en": "a project brain for your AI. Give LLMs instant architectural context without burning tokens",
+                    "ja": "AIのためのプロジェクトブレイン。トークンを燃やさずにLLMsに即座の建築コンテキストを提供します。",
+                    "zh-hans": "为您的AI提供一个项目大脑。为LLMs提供即时的架构背景，而不会消耗代币。",
+                    "zh-hant": "為您的人工智慧項目提供一個專案大腦。給予LLMs即時的建築背景，而不會消耗代幣。"
                 }
             },
             "https://github.com/juspay/neurolink": {

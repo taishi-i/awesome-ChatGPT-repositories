@@ -21,14 +21,18 @@
 
 
 **Chatbots**
+ * [chat-js](https://github.com/franciscomoretti/chat-js) - 生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI
  * [goclaw](https://github.com/nextlevelbuilder/goclaw) - 多代理人AI网关，具有团队、委托和编排功能。单个Go二进制文件，11个以上的LLM提供商，5个通道。
 
 
 **Browser-extensions**
  * [agent-sessions](https://github.com/jazzyalex/agent-sessions) - 会话浏览器+代理分析+Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI和OpenClaw的限制跟踪器。搜索/过滤所有过去的会话，存档会话，立即恢复，实时查看速率限制。本地化。
+ * [agentsys](https://github.com/agent-sh/agentsys) - AI编写代码。这自动化了其他所有内容 · 14个插件 · 43个代理 · 30种技能 · 适用于Claude Code，OpenCode，Codex，cursor，kiro。
 
 
 **CLIs**
+ * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — 使用Next.js 16、React 19、PostgreSQL、Prisma 7和shadcn/ui构建的开源CRM。CRM、项目、发票、文档、电子邮件客户端和人工智能功能。
+ * [codemap](https://github.com/jordancoin/codemap) - 为您的AI提供一个项目大脑。为LLMs提供即时的架构背景，而不会消耗代币。
  * [neurolink](https://github.com/juspay/neurolink) - 通用AI开发平台，集成MCP服务器，支持多个提供商，并具有专业的CLI。使用多个AI提供商构建、测试和部署AI应用程序。
 
 
@@ -44,7 +48,7 @@
  * [generative-manim](https://github.com/marcelo-earth/generative-manim) - 🎨 视频生成的GPT ⚡️
 
 
-_Updated on March 02, 2026_ (A total of 2457 repositories listed.)
+_Updated on March 05, 2026_ (A total of 2461 repositories listed.)
 
 ## Table of contents
 
@@ -706,6 +710,7 @@ _Updated on March 02, 2026_ (A total of 2457 repositories listed.)
  * 🔥 [NagaAgent](https://github.com/rtgs2017/nagaagent) - ⭐ 1.4k / 一个简单而强大的个人助理代理框架，旨在实现智能互动、多代理协作和无缝工具集成。
  * ✅ [EasyApplyJobsBot](https://github.com/wodsuz/easyapplyjobsbot) - ⭐ 723 / 一个Python机器人，可以根据您的偏好自动申请所有Linkedin、Glassdoor等Easy Apply工作。自动登录，自动填写额外问题，自动申请！
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.1k / 生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI
+ * [chat-js](https://github.com/franciscomoretti/chat-js) - 生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI
  * [goclaw](https://github.com/nextlevelbuilder/goclaw) - 多代理人AI网关，具有团队、委托和编排功能。单个Go二进制文件，11个以上的LLM提供商，5个通道。
 
 
@@ -951,6 +956,7 @@ _Updated on March 02, 2026_ (A total of 2457 repositories listed.)
  * 🔥 [agentsys](https://github.com/avifenesh/agentsys) - ⭐ 472 / AI编写代码。这自动化了其他所有事情 · 13个插件 · 42个代理 · 28种技能 · 适用于Claude Code，OpenCode，Codex。
  * 🔥 [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⭐ 1k / ⌥ 终端AI编码代理 - 哈希锚定编辑，优化工具组合，LSP，Python，浏览器，子代理等
  * [agent-sessions](https://github.com/jazzyalex/agent-sessions) - 会话浏览器+代理分析+Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI和OpenClaw的限制跟踪器。搜索/过滤所有过去的会话，存档会话，立即恢复，实时查看速率限制。本地化。
+ * [agentsys](https://github.com/agent-sh/agentsys) - AI编写代码。这自动化了其他所有内容 · 14个插件 · 43个代理 · 30种技能 · 适用于Claude Code，OpenCode，Codex，cursor，kiro。
 
 
 ## CLIs
@@ -1155,6 +1161,8 @@ _Updated on March 02, 2026_ (A total of 2457 repositories listed.)
  * 🔥 [yutu](https://github.com/eat-pray-ai/yutu) - ⭐ 382 / 一个完全功能的MCP服务器和YouTube的CLI
  * 🔥 [pocketpaw](https://github.com/pocketpaw/pocketpaw) - ⭐ 447 / 您的AI代理在30秒内。不是30小时。自托管、开源的个人AI，带有桌面安装程序、多代理命令中心（深度工作）和7层安全性。Anthropic、OpenAI或Ollama。
  * [oh-my-codex](https://github.com/yeachan-heo/oh-my-codex) - OmX - Oh My Codex：OpenAI Codex CLI 的强大工具
+ * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — 使用Next.js 16、React 19、PostgreSQL、Prisma 7和shadcn/ui构建的开源CRM。CRM、项目、发票、文档、电子邮件客户端和人工智能功能。
+ * [codemap](https://github.com/jordancoin/codemap) - 为您的AI提供一个项目大脑。为LLMs提供即时的架构背景，而不会消耗代币。
  * [neurolink](https://github.com/juspay/neurolink) - 通用AI开发平台，集成MCP服务器，支持多个提供商，并具有专业的CLI。使用多个AI提供商构建、测试和部署AI应用程序。
 
 
