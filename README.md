@@ -16,18 +16,8 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chat-js](https://github.com/franciscomoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
-
-
 **Browser-extensions**
  * [claude-skills](https://github.com/alirezarezvani/claude-skills) - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
- * [agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex, cursor, kiro.
-
-
-**CLIs**
- * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.
- * [codemap](https://github.com/jordancoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens
 
 
 **NLP**
@@ -950,8 +940,8 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [agentsys](https://github.com/avifenesh/agentsys) - ⭐ 539 / AI writes code. This automates everything else · 13 plugins · 42 agents · 28 skills · for Claude Code, OpenCode, Codex.
  * 🔥 [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⭐ 1.8k / ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
  * 🔥 [agent-sessions](https://github.com/jazzyalex/agent-sessions) - ⭐ 302 / Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.
- * [claude-skills](https://github.com/alirezarezvani/claude-skills) - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
  * [agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex, cursor, kiro.
+ * [claude-skills](https://github.com/alirezarezvani/claude-skills) - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
 
 
 ## CLIs

@@ -16,18 +16,8 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chat-js](https://github.com/franciscomoretti/chat-js) - 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
-
-
 **Browser-extensions**
  * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex、およびOpenClaw向けの169の本番向けスキル＆プラグイン - エンジニアリング、マーケティング、プロダクト、コンプライアンス、Cレベルのアドバイザリーなど。 /プラグインマーケットプレイスを介してインストールしてください。
- * [agentsys](https://github.com/agent-sh/agentsys) - AIがコードを書きます。これにより、他のすべてが自動化されます。· 14のプラグイン · 43のエージェント · 30のスキル · クロードコード、オープンコード、コーデックス、カーソル、キロ用。
-
-
-**CLIs**
- * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - Input: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。 Output: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。
- * [codemap](https://github.com/jordancoin/codemap) - AIのためのプロジェクトブレイン。トークンを燃やさずにLLMsに即座の建築コンテキストを提供します。
 
 
 **NLP**
@@ -950,8 +940,8 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [agentsys](https://github.com/avifenesh/agentsys) - ⭐ 539 / AIがコードを書きます。これにより、他のすべてが自動化されます·13のプラグイン·42のエージェント·28のスキル·Claude Code、OpenCode、Codex用。
  * 🔥 [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⭐ 1.8k / ⌥ ターミナル用AIコーディングエージェント - ハッシュアンカー編集、最適化されたツールハーネス、LSP、Python、ブラウザ、サブエージェントなど
  * 🔥 [agent-sessions](https://github.com/jazzyalex/agent-sessions) - ⭐ 302 / Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI＆OpenClawのためのセッションブラウザ+エージェント分析+リミットトラッカー。すべての過去のセッションを検索/フィルタリングし、セッションをアーカイブし、即座に再開し、リアルタイムでレート制限を確認します。ネイティブ
- * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex、およびOpenClaw向けの169の本番向けスキル＆プラグイン - エンジニアリング、マーケティング、プロダクト、コンプライアンス、Cレベルのアドバイザリーなど。 /プラグインマーケットプレイスを介してインストールしてください。
  * [agentsys](https://github.com/agent-sh/agentsys) - AIがコードを書きます。これにより、他のすべてが自動化されます。· 14のプラグイン · 43のエージェント · 30のスキル · クロードコード、オープンコード、コーデックス、カーソル、キロ用。
+ * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex、およびOpenClaw向けの169の本番向けスキル＆プラグイン - エンジニアリング、マーケティング、プロダクト、コンプライアンス、Cレベルのアドバイザリーなど。 /プラグインマーケットプレイスを介してインストールしてください。
 
 
 ## CLIs
