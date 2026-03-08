@@ -21639,6 +21639,38 @@
                     "zh-hant": "Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI 和 OpenClaw 的會話瀏覽器 + 代理分析 + 限制追踪器。搜索/篩選所有過去的會話，存檔會話，即時恢復，實時查看速率限制。本地。"
                 }
             },
+            "https://github.com/alirezarezvani/claude-skills": {
+                "repository_name": "claude-skills",
+                "user_name": "alirezarezvani",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+                "topics": [
+                    "agentic-ai",
+                    "agentic-coding",
+                    "ai-coding-agent",
+                    "ai-plugins",
+                    "anthropic-claude",
+                    "claude-ai",
+                    "claude-ai-skills",
+                    "claude-code",
+                    "claude-code-plugins",
+                    "claude-code-skills",
+                    "claude-skills",
+                    "claudecode-subagents",
+                    "developer-tools",
+                    "devtools",
+                    "mcp-tools",
+                    "openai-codex",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+                    "ja": "Claude Code、OpenAI Codex、およびOpenClaw向けの169の本番向けスキル＆プラグイン - エンジニアリング、マーケティング、プロダクト、コンプライアンス、Cレベルのアドバイザリーなど。 /プラグインマーケットプレイスを介してインストールしてください。",
+                    "zh-hans": "169个适用于Claude Code、OpenAI Codex和OpenClaw的生产就绪技能和插件 - 工程、营销、产品、合规、C级顾问等。通过/plugin市场安装。",
+                    "zh-hant": "Claude Code、OpenAI Codex 和 OpenClaw 的 169 種生產就緒技能和插件 - 工程、營銷、產品、合規、C 級顧問等。通過/plugin 市場安裝。"
+                }
+            },
             "https://github.com/agent-sh/agentsys": {
                 "repository_name": "agentsys",
                 "user_name": "agent-sh",
@@ -37005,6 +37037,41 @@
                     "zh-hans": "macOS的AI边缘基础设施。运行本地或云模型，通过MCP在应用程序之间共享工具，并使用本地、始终运行的运行时来支持AI工作流程。",
                     "zh-hant": "AI 邊緣基礎設施適用於 macOS。運行本地或雲端模型，通過 MCP 在應用程序之間共享工具，並使用本地、始終運行的運行時來支持 AI 工作流程。"
                 }
+            },
+            "https://github.com/sharpai/deepcamera": {
+                "repository_name": "DeepCamera",
+                "user_name": "SharpAI",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, MiniMax. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.",
+                "topics": [
+                    "ai",
+                    "ai-camera",
+                    "ai-nvr",
+                    "camera",
+                    "cctv",
+                    "computer-vision",
+                    "deep-learning",
+                    "face-recognition",
+                    "home-assistant",
+                    "home-security",
+                    "llama-cpp",
+                    "llm",
+                    "local-ai",
+                    "machine-learning",
+                    "object-detection",
+                    "python",
+                    "raspberry-pi",
+                    "security-camera",
+                    "video-surveillance",
+                    "vlm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, MiniMax. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord o",
+                    "ja": "オープンソースのAIカメラスキルプラットフォーム、AI NVR＆CCTV監視。 Qwen、DeepSeek、SmolVLM、LLaVA、MiniMaxを使用したローカルVLMビデオ分析。 LLMパワードのエージェントセキュリティカメラエージェント-Telegram、Discordを介して自宅を見守り、理解し、覚え、護る。",
+                    "zh-hans": "开源AI摄像头技能平台，AI NVR和CCTV监控。本地VLM视频分析与Qwen，DeepSeek，SmolVLM，LLaVA，MiniMax。由LLM提供支持的代理安全摄像头代理人-通过Telegram，Discord观看，理解，记住和保护您的家园。",
+                    "zh-hant": "開源AI攝像頭技能平台，AI NVR和CCTV監控。本地VLM視頻分析與Qwen，DeepSeek，SmolVLM，LLaVA，MiniMax。由LLM驅動的代理安全攝像頭代理人-通過Telegram，Discord觀看，理解，記住和保護您的家。"
+                }
             }
         },
         "Langchain": {
@@ -41361,6 +41428,36 @@
                     "ja": "OpenAIとAnthropic互換のApple Silicon用サーバー。LLMsとビジョン言語モデル（Llama、Qwen-VL、LLaVA）を連続バッチ処理、MCPツール呼び出し、およびマルチモーダルサポートで実行します。ネイティブMLXバックエンド、400以上のトーク/秒。Claude Codeと連携します。",
                     "zh-hans": "OpenAI和Anthropic兼容的苹果硅服务器。运行LLMs和视觉语言模型（Llama，Qwen-VL，LLaVA），支持连续批处理，MCP工具调用和多模态支持。本地MLX后端，每秒400个令牌。与Claude Code配合使用。",
                     "zh-hant": "OpenAI和Anthropic兼容的Apple Silicon服务器。运行LLMs和视觉语言模型（Llama，Qwen-VL，LLaVA），支持连续批处理，MCP工具调用和多模态支持。本地MLX后端，每秒400个令牌。与Claude Code配合使用。"
+                }
+            },
+            "https://github.com/chopratejas/headroom": {
+                "repository_name": "headroom",
+                "user_name": "chopratejas",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "The Context Optimization Layer for LLM Applications",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "anthropic",
+                    "compression",
+                    "context-engineering",
+                    "context-window",
+                    "fastapi",
+                    "langchain",
+                    "llm",
+                    "mcp",
+                    "openai",
+                    "proxy",
+                    "python",
+                    "rag",
+                    "token-optimization"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The Context Optimization Layer for LLM Applications",
+                    "ja": "LLMアプリケーションのコンテキスト最適化レイヤー",
+                    "zh-hans": "用于LLM应用程序的上下文优化层",
+                    "zh-hant": "用於LLM應用程序的上下文優化層"
                 }
             }
         },
@@ -48325,6 +48422,37 @@
                     "ja": "🎨 ビデオ生成のためのGPT ⚡️",
                     "zh-hans": "🎨 视频生成的GPT ⚡️",
                     "zh-hant": "🎨 影片生成的 GPT ⚡️"
+                }
+            },
+            "https://github.com/code-yeongyu/oh-my-openagent": {
+                "repository_name": "oh-my-openagent",
+                "user_name": "code-yeongyu",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "omo; the best agent harness - previously oh-my-opencode",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "amp",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "claude-code",
+                    "claude-skills",
+                    "cursor",
+                    "gemini",
+                    "ide",
+                    "openai",
+                    "opencode",
+                    "orchestration",
+                    "tui",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "omo; the best agent harness - previously oh-my-opencode",
+                    "ja": "omo; 最高のエージェントハーネス - 以前はoh-my-opencode",
+                    "zh-hans": "omo; 最好的代理工具-之前是oh-my-opencode",
+                    "zh-hant": "omo; 最好的代理器 - 之前是oh-my-opencode"
                 }
             }
         },
