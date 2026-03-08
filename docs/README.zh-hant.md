@@ -16,18 +16,8 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [chat-js](https://github.com/franciscomoretti/chat-js) - 生產就緒的人工智慧聊天。從這裡開始，讓它成為你自己的。原名Sparka AI
-
-
 **Browser-extensions**
  * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex 和 OpenClaw 的 169 種生產就緒技能和插件 - 工程、營銷、產品、合規、C 級顧問等。通過/plugin 市場安裝。
- * [agentsys](https://github.com/agent-sh/agentsys) - AI 寫程式碼。這自動化了其他所有事情 · 14個插件 · 43個代理 · 30個技能 · 適用於Claude Code、OpenCode、Codex、cursor、kiro。
-
-
-**CLIs**
- * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — 使用Next.js 16、React 19、PostgreSQL、Prisma 7和shadcn/ui構建的開源CRM。CRM、項目、發票、文件、郵件客戶端和人工智能功能。
- * [codemap](https://github.com/jordancoin/codemap) - 為您的人工智慧項目提供一個專案大腦。給予LLMs即時的建築背景，而不會消耗代幣。
 
 
 **NLP**
@@ -950,8 +940,8 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [agentsys](https://github.com/avifenesh/agentsys) - ⭐ 539 / AI 寫代碼。這自動化了其他所有事情 · 13個插件 · 42個代理 · 28個技能 · 適用於Claude Code，OpenCode，Codex。
  * 🔥 [oh-my-pi](https://github.com/can1357/oh-my-pi) - ⭐ 1.8k / ⌥ 終端機的AI編碼代理 - 哈希錨定的編輯、優化工具組、LSP、Python、瀏覽器、子代理等
  * 🔥 [agent-sessions](https://github.com/jazzyalex/agent-sessions) - ⭐ 302 / Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI 和 OpenClaw 的會話瀏覽器 + 代理分析 + 限制追踪器。搜索/篩選所有過去的會話，存檔會話，即時恢復，實時查看速率限制。本地。
- * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex 和 OpenClaw 的 169 種生產就緒技能和插件 - 工程、營銷、產品、合規、C 級顧問等。通過/plugin 市場安裝。
  * [agentsys](https://github.com/agent-sh/agentsys) - AI 寫程式碼。這自動化了其他所有事情 · 14個插件 · 43個代理 · 30個技能 · 適用於Claude Code、OpenCode、Codex、cursor、kiro。
+ * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex 和 OpenClaw 的 169 種生產就緒技能和插件 - 工程、營銷、產品、合規、C 級顧問等。通過/plugin 市場安裝。
 
 
 ## CLIs

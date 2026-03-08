@@ -21639,38 +21639,6 @@
                     "zh-hant": "Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI 和 OpenClaw 的會話瀏覽器 + 代理分析 + 限制追踪器。搜索/篩選所有過去的會話，存檔會話，即時恢復，實時查看速率限制。本地。"
                 }
             },
-            "https://github.com/alirezarezvani/claude-skills": {
-                "repository_name": "claude-skills",
-                "user_name": "alirezarezvani",
-                "language": "Python",
-                "license": "MIT License",
-                "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
-                "topics": [
-                    "agentic-ai",
-                    "agentic-coding",
-                    "ai-coding-agent",
-                    "ai-plugins",
-                    "anthropic-claude",
-                    "claude-ai",
-                    "claude-ai-skills",
-                    "claude-code",
-                    "claude-code-plugins",
-                    "claude-code-skills",
-                    "claude-skills",
-                    "claudecode-subagents",
-                    "developer-tools",
-                    "devtools",
-                    "mcp-tools",
-                    "openai-codex",
-                    "prompt-engineering"
-                ],
-                "multilingual_descriptions": {
-                    "en": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
-                    "ja": "Claude Code、OpenAI Codex、およびOpenClaw向けの169の本番向けスキル＆プラグイン - エンジニアリング、マーケティング、プロダクト、コンプライアンス、Cレベルのアドバイザリーなど。 /プラグインマーケットプレイスを介してインストールしてください。",
-                    "zh-hans": "169个适用于Claude Code、OpenAI Codex和OpenClaw的生产就绪技能和插件 - 工程、营销、产品、合规、C级顾问等。通过/plugin市场安装。",
-                    "zh-hant": "Claude Code、OpenAI Codex 和 OpenClaw 的 169 種生產就緒技能和插件 - 工程、營銷、產品、合規、C 級顧問等。通過/plugin 市場安裝。"
-                }
-            },
             "https://github.com/agent-sh/agentsys": {
                 "repository_name": "agentsys",
                 "user_name": "agent-sh",
@@ -21704,6 +21672,38 @@
                     "ja": "AIがコードを書きます。これにより、他のすべてが自動化されます。· 14のプラグイン · 43のエージェント · 30のスキル · クロードコード、オープンコード、コーデックス、カーソル、キロ用。",
                     "zh-hans": "AI编写代码。这自动化了其他所有内容 · 14个插件 · 43个代理 · 30种技能 · 适用于Claude Code，OpenCode，Codex，cursor，kiro。",
                     "zh-hant": "AI 寫程式碼。這自動化了其他所有事情 · 14個插件 · 43個代理 · 30個技能 · 適用於Claude Code、OpenCode、Codex、cursor、kiro。"
+                }
+            },
+            "https://github.com/alirezarezvani/claude-skills": {
+                "repository_name": "claude-skills",
+                "user_name": "alirezarezvani",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+                "topics": [
+                    "agentic-ai",
+                    "agentic-coding",
+                    "ai-coding-agent",
+                    "ai-plugins",
+                    "anthropic-claude",
+                    "claude-ai",
+                    "claude-ai-skills",
+                    "claude-code",
+                    "claude-code-plugins",
+                    "claude-code-skills",
+                    "claude-skills",
+                    "claudecode-subagents",
+                    "developer-tools",
+                    "devtools",
+                    "mcp-tools",
+                    "openai-codex",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+                    "ja": "Claude Code、OpenAI Codex、およびOpenClaw向けの169の本番向けスキル＆プラグイン - エンジニアリング、マーケティング、プロダクト、コンプライアンス、Cレベルのアドバイザリーなど。 /プラグインマーケットプレイスを介してインストールしてください。",
+                    "zh-hans": "169个适用于Claude Code、OpenAI Codex和OpenClaw的生产就绪技能和插件 - 工程、营销、产品、合规、C级顾问等。通过/plugin市场安装。",
+                    "zh-hant": "Claude Code、OpenAI Codex 和 OpenClaw 的 169 種生產就緒技能和插件 - 工程、營銷、產品、合規、C 級顧問等。通過/plugin 市場安裝。"
                 }
             }
         },
