@@ -969,6 +969,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 💤 [chat-gpt-cli](https://github.com/jseguillon/chat-gpt-cli) - ⭐ 52 / PhantomJS QUnit testrunner which export results to JUnit XML format and coverage to Cobertura XML format to use with CI tools like Jenkins.
  * 💤 [terminalGPT](https://github.com/jucasoliveira/terminalgpt) - ⭐ 1k / Get GPT like chatGPT on your terminal
  * ✅ [burnrate](https://github.com/burnrate-dev/burnrate) - AI coding cost analytics CLI that tracks usage and costs across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex.
+ * ✅ [Dorothy](https://github.com/Charlie85270/Dorothy) - Open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management.
  * 💤 [chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets) - ⭐ 31 / [new] #chatgpt in sheets! 🤯integrate the #chatgpt #api in @googlesheets in a few clicks, @1littlecoder shows you how!use cases: #seo, #socialmedia, #marketing, you name it! 🔥- tutorial:  code:  cost: $2/million tokens! 🙃
  * 💤 [gptsh](https://github.com/shorwood/gptsh) - ⭐ 126 / GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
  * ✅ [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - ⭐ 18k / Node.js client for the official ChatGPT API. 🔥
