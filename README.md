@@ -696,6 +696,9 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.2k / Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
  * 🔥 [goclaw](https://github.com/nextlevelbuilder/goclaw) - ⭐ 524 / Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
  * [chat-js](https://github.com/franciscomoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
+ * [AskePub](https://github.com/GeiserX/AskePub) - A Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
+
+|[AskePub](https://github.com/GeiserX/AskePub)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/GeiserX/AskePub?style=social)|
 
 
 ## Browser-extensions
