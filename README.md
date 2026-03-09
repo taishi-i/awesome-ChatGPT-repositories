@@ -358,6 +358,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 💤 [baize](https://github.com/project-baize/baize) - ⭐ 3.2k / Let ChatGPT teach your own chatbot in hours with a single GPU!
  * 💤 [baize-chatbot](https://github.com/project-baize/baize-chatbot) - ⭐ 3.2k / Let ChatGPT teach your own chatbot in hours with a single GPU!
  * ✅ [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - ⭐ 4.8k / gpt4all chatbot ui
+ * ✅ [OpenClaw](https://github.com/openclaw/openclaw) - Self-hostable personal AI assistant with 24+ messaging channel integrations (Telegram, WhatsApp, Slack, Discord, Signal, etc.), multi-agent routing, voice, browser control, and extensible skills platform.
  * 💤 [yolopandas](https://github.com/ccurme/yolopandas) - ⭐ 200 / チャットでpandas操作これ便利。"fy23 q2のどこどこ会社の何何製品に関する売り上げデータをグラフ化してね。"ってセールスオペレーションチームにお願いしているので、これ使って簡単にchatgptにデータ取得お願いできるようにしよう。
  * 💤 [ChatDoctor](https://github.com/kent0n-li/chatdoctor) - ⭐ 3.6k / 医療特化aiチャット「chatdoctor」chatgptも使ってモデルをトレーニングしてる様子全コードとデータセット、モデルの重みがオープンソース化する予定らしい..！
  * 🔥 [gpt4free](https://github.com/xtekky/gpt4free) - ⭐ 66k / decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
