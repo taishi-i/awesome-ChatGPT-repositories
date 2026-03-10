@@ -18,6 +18,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 **Browser-extensions**
  * [claude-skills](https://github.com/alirezarezvani/claude-skills) - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+ * [Lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support (Anthropic, Google).
 
 
 **NLP**
