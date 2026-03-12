@@ -16,23 +16,31 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [clawpanel](https://github.com/qingchencloud/clawpanel) - 🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition
+ * [AskePub](https://github.com/geiserx/askepub) - This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.
+ * [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+
 **Browser-extensions**
- * [claude-skills](https://github.com/alirezarezvani/claude-skills) - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+ * [lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay.
 
 
-**NLP**
- * [DeepCamera](https://github.com/sharpai/deepcamera) - Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, MiniMax. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord o
-
-
-**Langchain**
- * [headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications
+**CLIs**
+ * [burnrate](https://github.com/burnrate-dev/burnrate) - Homebrew tap for BurnRate — AI usage analytics CLI
 
 
 **Openai**
- * [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+ * [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.
+ * [cursor2api](https://github.com/7836246/cursor2api) - Convert Cursor API to OpenAI/Anthropic compatible format for agent services. Provide Claude Code tool and image support.
+ * [MiroFlow](https://github.com/miromindai/miroflow) - 🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI
 
 
-_Updated on March 08, 2026_ (A total of 2465 repositories listed.)
+**Others**
+ * [Dorothy](https://github.com/charlie85270/dorothy) - Dorothy, the wife your AI agents needs.
+
+
+_Updated on March 12, 2026_ (A total of 2474 repositories listed.)
 
 ## Table of contents
 
@@ -696,6 +704,9 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.2k / Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
  * 🔥 [goclaw](https://github.com/nextlevelbuilder/goclaw) - ⭐ 524 / Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
  * [chat-js](https://github.com/franciscomoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
+ * [clawpanel](https://github.com/qingchencloud/clawpanel) - 🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition
+ * [AskePub](https://github.com/geiserx/askepub) - This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.
+ * [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 
 ## Browser-extensions
@@ -942,6 +953,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [agent-sessions](https://github.com/jazzyalex/agent-sessions) - ⭐ 302 / Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native
  * [agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex, cursor, kiro.
  * [claude-skills](https://github.com/alirezarezvani/claude-skills) - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+ * [lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay.
 
 
 ## CLIs
@@ -1149,6 +1161,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [neurolink](https://github.com/juspay/neurolink) - ⭐ 112 / Universal AI Development Platform with MCP server integration, multi-provider support, and professional CLI. Build, test, and deploy AI applications with multiple ai providers.
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.
  * [codemap](https://github.com/jordancoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens
+ * [burnrate](https://github.com/burnrate-dev/burnrate) - Homebrew tap for BurnRate — AI usage analytics CLI
 
 
 ## Reimplementations
@@ -2128,6 +2141,9 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [ai](https://github.com/laravel/ai) - ⭐ 630 / The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.
  * ✅ [generative-manim](https://github.com/marcelo-earth/generative-manim) - ⭐ 803 / 🎨 GPT for video generation ⚡️Translated Output:🎨 GPT for video generation ⚡️
  * [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+ * [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.
+ * [cursor2api](https://github.com/7836246/cursor2api) - Convert Cursor API to OpenAI/Anthropic compatible format for agent services. Provide Claude Code tool and image support.
+ * [MiroFlow](https://github.com/miromindai/miroflow) - 🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI
 
 
 ## Others
@@ -2572,5 +2588,6 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 415 / Samples for Microsoft agent identities enabling AI agents to call downstream APIs as autonomous agents, or on behalf of users.
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 704 / One-stop Team account management
  * ✅ [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 569 / Universal database MCP connector: supports 17 types of databases including MySQL, PostgreSQL, Oracle, MongoDB, etc., supports 50+ platforms such as Claude Desktop, Cursor, Windsurf, VS Code, ChatGPT, etc., for querying and analyzing data in natural language.
+ * [Dorothy](https://github.com/charlie85270/dorothy) - Dorothy, the wife your AI agents needs.
 
 
