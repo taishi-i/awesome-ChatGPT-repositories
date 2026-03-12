@@ -16,24 +16,31 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [clawpanel](https://github.com/qingchencloud/clawpanel) - 🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition
+ * [AskePub](https://github.com/geiserx/askepub) - This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.
+ * [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+
 **Browser-extensions**
- * [claude-skills](https://github.com/alirezarezvani/claude-skills) - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
- * [Lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support (Anthropic, Google).
+ * [lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay.
 
 
-**NLP**
- * [DeepCamera](https://github.com/sharpai/deepcamera) - Open-Source AI Camera Skills Platform, AI NVR & CCTV Surveillance. Local VLM video analysis with Qwen, DeepSeek, SmolVLM, LLaVA, MiniMax. LLM-powered agentic security camera agent — watches, understands, remembers & guards your home via Telegram, Discord or Slack. Pluggable AI skills. OpenAI, Google, Anthropic or local AI. Runs on Mac Mini & AI PC.
-
-
-**Langchain**
- * [headroom](https://github.com/chopratejas/headroom) - The Context Optimization Layer for LLM Applications
+**CLIs**
+ * [burnrate](https://github.com/burnrate-dev/burnrate) - Homebrew tap for BurnRate — AI usage analytics CLI
 
 
 **Openai**
- * [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+ * [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.
+ * [cursor2api](https://github.com/7836246/cursor2api) - 将 Cursor API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。
+ * [MiroFlow](https://github.com/miromindai/miroflow) - 🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI
 
 
-_Updated on March 08, 2026_ (A total of 2465 repositories listed.)
+**Others**
+ * [Dorothy](https://github.com/charlie85270/dorothy) - Dorothy, the wife your AI agents needs.
+
+
+_Updated on March 12, 2026_ (A total of 2474 repositories listed.)
 
 ## Table of contents
 
@@ -359,7 +366,6 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 💤 [baize](https://github.com/project-baize/baize) - ⭐ 3.2k / Let ChatGPT teach your own chatbot in hours with a single GPU!
  * 💤 [baize-chatbot](https://github.com/project-baize/baize-chatbot) - ⭐ 3.2k / Let ChatGPT teach your own chatbot in hours with a single GPU!
  * ✅ [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) - ⭐ 4.8k / gpt4all chatbot ui
- * ✅ [OpenClaw](https://github.com/openclaw/openclaw) - Self-hostable personal AI assistant with 24+ messaging channel integrations (Telegram, WhatsApp, Slack, Discord, Signal, etc.), multi-agent routing, voice, browser control, and extensible skills platform.
  * 💤 [yolopandas](https://github.com/ccurme/yolopandas) - ⭐ 200 / チャットでpandas操作これ便利。"fy23 q2のどこどこ会社の何何製品に関する売り上げデータをグラフ化してね。"ってセールスオペレーションチームにお願いしているので、これ使って簡単にchatgptにデータ取得お願いできるようにしよう。
  * 💤 [ChatDoctor](https://github.com/kent0n-li/chatdoctor) - ⭐ 3.6k / 医療特化aiチャット「chatdoctor」chatgptも使ってモデルをトレーニングしてる様子全コードとデータセット、モデルの重みがオープンソース化する予定らしい..！
  * 🔥 [gpt4free](https://github.com/xtekky/gpt4free) - ⭐ 66k / decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
@@ -698,9 +704,9 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.2k / Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
  * 🔥 [goclaw](https://github.com/nextlevelbuilder/goclaw) - ⭐ 524 / Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
  * [chat-js](https://github.com/franciscomoretti/chat-js) - Production-ready AI chat. Start here and make it your own. Formerly Sparka AI
- * [AskePub](https://github.com/GeiserX/AskePub) - A Telegram bot that uses GPT-4o to generate AI study notes from ePub books.
-
-|[AskePub](https://github.com/GeiserX/AskePub)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/GeiserX/AskePub?style=social)|
+ * [clawpanel](https://github.com/qingchencloud/clawpanel) - 🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition
+ * [AskePub](https://github.com/geiserx/askepub) - This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.
+ * [openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
 
 ## Browser-extensions
@@ -947,6 +953,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [agent-sessions](https://github.com/jazzyalex/agent-sessions) - ⭐ 302 / Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.
  * [agentsys](https://github.com/agent-sh/agentsys) - AI writes code. This automates everything else · 14 plugins · 43 agents · 30 skills · for Claude Code, OpenCode, Codex, cursor, kiro.
  * [claude-skills](https://github.com/alirezarezvani/claude-skills) - 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+ * [lumen](https://github.com/omxyz/lumen) - A vision-first browser agent with self-healing deterministic replay.
 
 
 ## CLIs
@@ -970,8 +977,6 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 💤 [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - ⭐ 4.2k / A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
  * 💤 [chat-gpt-cli](https://github.com/jseguillon/chat-gpt-cli) - ⭐ 52 / PhantomJS QUnit testrunner which export results to JUnit XML format and coverage to Cobertura XML format to use with CI tools like Jenkins.
  * 💤 [terminalGPT](https://github.com/jucasoliveira/terminalgpt) - ⭐ 1k / Get GPT like chatGPT on your terminal
- * ✅ [burnrate](https://github.com/burnrate-dev/burnrate) - AI coding cost analytics CLI that tracks usage and costs across Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, and Codex.
- * ✅ [Dorothy](https://github.com/Charlie85270/Dorothy) - Open-source desktop app to orchestrate multiple AI CLI agents simultaneously with automations and Kanban management.
  * 💤 [chatgpt-gsheets](https://github.com/amrrs/chatgpt-gsheets) - ⭐ 31 / [new] #chatgpt in sheets! 🤯integrate the #chatgpt #api in @googlesheets in a few clicks, @1littlecoder shows you how!use cases: #seo, #socialmedia, #marketing, you name it! 🔥- tutorial:  code:  cost: $2/million tokens! 🙃
  * 💤 [gptsh](https://github.com/shorwood/gptsh) - ⭐ 126 / GPT.sh is a CLI tool built with NodeJs and powered by Open AI's GPT-3. It's main purpose is to translate natural language questions and requests into shell commands.
  * ✅ [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - ⭐ 18k / Node.js client for the official ChatGPT API. 🔥
@@ -1156,6 +1161,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [neurolink](https://github.com/juspay/neurolink) - ⭐ 112 / Universal AI Development Platform with MCP server integration, multi-provider support, and professional CLI. Build, test, and deploy AI applications with multiple ai providers.
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.
  * [codemap](https://github.com/jordancoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens
+ * [burnrate](https://github.com/burnrate-dev/burnrate) - Homebrew tap for BurnRate — AI usage analytics CLI
 
 
 ## Reimplementations
@@ -2135,6 +2141,9 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [ai](https://github.com/laravel/ai) - ⭐ 630 / The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.
  * ✅ [generative-manim](https://github.com/marcelo-earth/generative-manim) - ⭐ 803 / 🎨 GPT for video generation ⚡️
  * [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+ * [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.
+ * [cursor2api](https://github.com/7836246/cursor2api) - 将 Cursor API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。
+ * [MiroFlow](https://github.com/miromindai/miroflow) - 🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI
 
 
 ## Others
@@ -2579,5 +2588,6 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 415 / Samples for Microsoft agent identities enabling AI agents to call downstream APIs as autonomous agents, or on behalf of users.
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 704 / 一站式Team账号管理
  * ✅ [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 569 / 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据
+ * [Dorothy](https://github.com/charlie85270/dorothy) - Dorothy, the wife your AI agents needs.
 
 

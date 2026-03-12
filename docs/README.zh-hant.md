@@ -16,23 +16,31 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [clawpanel](https://github.com/qingchencloud/clawpanel) - 🦀 OpenClaw 可視化管理面板 — 內置 AI 助手（工具調用 + 圖片識別 + 多模態），一鍵安裝配置，跨平台桌面應用 | 內置 AI 助手，具有工具調用和圖片識別功能
+ * [AskePub](https://github.com/geiserx/askepub) - 這個項目是一個Telegram機器人助手，幫助您準備ePub。它使用ChatGPT-4o來撰寫上下文註釋。
+ * [openclaw](https://github.com/openclaw/openclaw) - 您自己的個人AI助手。任何操作系統。任何平台。龍蝦方式。🦞
+
+
 **Browser-extensions**
- * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex 和 OpenClaw 的 169 種生產就緒技能和插件 - 工程、營銷、產品、合規、C 級顧問等。通過/plugin 市場安裝。
+ * [lumen](https://github.com/omxyz/lumen) - 具有自愈确定性重放功能的视觉优先浏览器代理。
 
 
-**NLP**
- * [DeepCamera](https://github.com/sharpai/deepcamera) - 開源AI攝像頭技能平台，AI NVR和CCTV監控。本地VLM視頻分析與Qwen，DeepSeek，SmolVLM，LLaVA，MiniMax。由LLM驅動的代理安全攝像頭代理人-通過Telegram，Discord觀看，理解，記住和保護您的家。
-
-
-**Langchain**
- * [headroom](https://github.com/chopratejas/headroom) - 用於LLM應用程序的上下文優化層
+**CLIs**
+ * [burnrate](https://github.com/burnrate-dev/burnrate) - Homebrew tap for BurnRate — AI 使用分析 CLI
 
 
 **Openai**
- * [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; 最好的代理器 - 之前是oh-my-opencode
+ * [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - 基於Pydantic-AI構建的Python Deep Agent框架，旨在幫助您快速構建具有規劃、文件系統操作、子代理委派、技能和結構化輸出的生產級自主AI代理，僅需10行代碼。
+ * [cursor2api](https://github.com/7836246/cursor2api) - 將 Cursor API 轉換為 OpenAI/Anthropic 兼容格式的代理服務。提供 Claude Code 工具及圖片支持。
+ * [MiroFlow](https://github.com/miromindai/miroflow) - 🏆 在5個以上的基準上排名第一 | Web UI | 支持MiroThinker、Claude、Kimi、OpenAI
 
 
-_Updated on March 08, 2026_ (A total of 2465 repositories listed.)
+**Others**
+ * [Dorothy](https://github.com/charlie85270/dorothy) - 多蘿西，你的AI代理人需要的妻子。
+
+
+_Updated on March 12, 2026_ (A total of 2474 repositories listed.)
 
 ## Table of contents
 
@@ -696,6 +704,9 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.2k / 生產就緒的人工智慧聊天。從這裡開始，讓它成為你自己的。原名Sparka AI
  * 🔥 [goclaw](https://github.com/nextlevelbuilder/goclaw) - ⭐ 524 / 多代理人AI閘道，具有團隊、委派和協調功能。單一Go二進制文件，11個以上的LLM提供者，5個通道。
  * [chat-js](https://github.com/franciscomoretti/chat-js) - 生產就緒的人工智慧聊天。從這裡開始，讓它成為你自己的。原名Sparka AI
+ * [clawpanel](https://github.com/qingchencloud/clawpanel) - 🦀 OpenClaw 可視化管理面板 — 內置 AI 助手（工具調用 + 圖片識別 + 多模態），一鍵安裝配置，跨平台桌面應用 | 內置 AI 助手，具有工具調用和圖片識別功能
+ * [AskePub](https://github.com/geiserx/askepub) - 這個項目是一個Telegram機器人助手，幫助您準備ePub。它使用ChatGPT-4o來撰寫上下文註釋。
+ * [openclaw](https://github.com/openclaw/openclaw) - 您自己的個人AI助手。任何操作系統。任何平台。龍蝦方式。🦞
 
 
 ## Browser-extensions
@@ -942,6 +953,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [agent-sessions](https://github.com/jazzyalex/agent-sessions) - ⭐ 302 / Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI 和 OpenClaw 的會話瀏覽器 + 代理分析 + 限制追踪器。搜索/篩選所有過去的會話，存檔會話，即時恢復，實時查看速率限制。本地。
  * [agentsys](https://github.com/agent-sh/agentsys) - AI 寫程式碼。這自動化了其他所有事情 · 14個插件 · 43個代理 · 30個技能 · 適用於Claude Code、OpenCode、Codex、cursor、kiro。
  * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex 和 OpenClaw 的 169 種生產就緒技能和插件 - 工程、營銷、產品、合規、C 級顧問等。通過/plugin 市場安裝。
+ * [lumen](https://github.com/omxyz/lumen) - 具有自愈确定性重放功能的视觉优先浏览器代理。
 
 
 ## CLIs
@@ -1149,6 +1161,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [neurolink](https://github.com/juspay/neurolink) - ⭐ 112 / 具有MCP服务器集成、多供应商支持和专业CLI的通用AI开发平台。使用多个AI提供商构建、测试和部署AI应用程序。
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - NextCRM — 使用Next.js 16、React 19、PostgreSQL、Prisma 7和shadcn/ui構建的開源CRM。CRM、項目、發票、文件、郵件客戶端和人工智能功能。
  * [codemap](https://github.com/jordancoin/codemap) - 為您的人工智慧項目提供一個專案大腦。給予LLMs即時的建築背景，而不會消耗代幣。
+ * [burnrate](https://github.com/burnrate-dev/burnrate) - Homebrew tap for BurnRate — AI 使用分析 CLI
 
 
 ## Reimplementations
@@ -2128,6 +2141,9 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [ai](https://github.com/laravel/ai) - ⭐ 630 / Laravel AI SDK 提供了統一且表達性豐富的 API，用於與 AI 供應商（如 OpenAI、Anthropic、Gemini 等）進行交互。
  * ✅ [generative-manim](https://github.com/marcelo-earth/generative-manim) - ⭐ 803 / 🎨 影片生成的 GPT ⚡️
  * [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; 最好的代理器 - 之前是oh-my-opencode
+ * [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - 基於Pydantic-AI構建的Python Deep Agent框架，旨在幫助您快速構建具有規劃、文件系統操作、子代理委派、技能和結構化輸出的生產級自主AI代理，僅需10行代碼。
+ * [cursor2api](https://github.com/7836246/cursor2api) - 將 Cursor API 轉換為 OpenAI/Anthropic 兼容格式的代理服務。提供 Claude Code 工具及圖片支持。
+ * [MiroFlow](https://github.com/miromindai/miroflow) - 🏆 在5個以上的基準上排名第一 | Web UI | 支持MiroThinker、Claude、Kimi、OpenAI
 
 
 ## Others
@@ -2572,5 +2588,6 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 415 / 用於啟用AI代理呼叫下游API的Microsoft代理身份的樣本，作為自主代理或代表用戶。
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 704 / 一站式Team帳號管理
  * ✅ [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 569 / 通用數據庫 MCP 連接器：支援 MySQL、PostgreSQL、Oracle、MongoDB 等 17 種數據庫，支援 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然語言查詢和分析數據
+ * [Dorothy](https://github.com/charlie85270/dorothy) - 多蘿西，你的AI代理人需要的妻子。
 
 

@@ -15952,6 +15952,95 @@
                     "zh-hans": "生产就绪的AI聊天。从这里开始，让它成为你自己的。原名Sparka AI",
                     "zh-hant": "生產就緒的人工智慧聊天。從這裡開始，讓它成為你自己的。原名Sparka AI"
                 }
+            },
+            "https://github.com/qingchencloud/clawpanel": {
+                "repository_name": "clawpanel",
+                "user_name": "qingchencloud",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
+                "topics": [
+                    "admin-panel",
+                    "ai-agent",
+                    "ai-assistant",
+                    "ai-tools",
+                    "chatgpt",
+                    "cross-platform",
+                    "deepseek",
+                    "desktop-app",
+                    "image-recognition",
+                    "llm",
+                    "multimodal",
+                    "openclaw",
+                    "rust",
+                    "tauri",
+                    "tauri-v2",
+                    "tool-calling",
+                    "vite"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition",
+                    "ja": "🦀 OpenClaw ビジュアル管理パネル - ツール呼び出しと画像認識を備えた組み込みAIアシスタント、ワンクリックインストール構成、クロスプラットフォームデスクトップアプリ | 工具呼び出しと画像認識を備えた組み込みAIアシスタント",
+                    "zh-hans": "🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | 带有工具调用和图片识别功能的内置AI助手，一键安装配置，跨平台桌面应用",
+                    "zh-hant": "🦀 OpenClaw 可視化管理面板 — 內置 AI 助手（工具調用 + 圖片識別 + 多模態），一鍵安裝配置，跨平台桌面應用 | 內置 AI 助手，具有工具調用和圖片識別功能"
+                }
+            },
+            "https://github.com/geiserx/askepub": {
+                "repository_name": "AskePub",
+                "user_name": "GeiserX",
+                "language": "Python",
+                "license": "GNU General Public License v3.0",
+                "description": "This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.",
+                "topics": [
+                    "ai",
+                    "annotation",
+                    "automation",
+                    "book",
+                    "chatgpt",
+                    "docker",
+                    "ebook",
+                    "epub",
+                    "gpt-4",
+                    "hacktoberfest",
+                    "llm",
+                    "natural-language-processing",
+                    "nlp",
+                    "notes",
+                    "open-source",
+                    "openai",
+                    "python",
+                    "self-hosted",
+                    "telegram",
+                    "telegram-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.",
+                    "ja": "このプロジェクトは、ePubの準備を手伝うTelegramボットアシスタントです。ChatGPT-4oを使用して、文脈に沿ったメモを書きます。",
+                    "zh-hans": "这个项目是一个Telegram机器人助手，帮助您准备ePub文件。它使用ChatGPT-4o来写上下文注释。",
+                    "zh-hant": "這個項目是一個Telegram機器人助手，幫助您準備ePub。它使用ChatGPT-4o來撰寫上下文註釋。"
+                }
+            },
+            "https://github.com/openclaw/openclaw": {
+                "repository_name": "openclaw",
+                "user_name": "openclaw",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+                "topics": [
+                    "ai",
+                    "assistant",
+                    "crustacean",
+                    "molty",
+                    "openclaw",
+                    "own-your-data",
+                    "personal"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+                    "ja": "あなた自身の個人用AIアシスタント。どんなOSでも。どんなプラットフォームでも。ロブスターのやり方。🦞",
+                    "zh-hans": "您自己的个人AI助手。任何操作系统。任何平台。龙虾方式。🦞",
+                    "zh-hant": "您自己的個人AI助手。任何操作系統。任何平台。龍蝦方式。🦞"
+                }
             }
         },
         "Browser-extensions": {
@@ -21705,6 +21794,20 @@
                     "zh-hans": "169个适用于Claude Code、OpenAI Codex和OpenClaw的生产就绪技能和插件 - 工程、营销、产品、合规、C级顾问等。通过/plugin市场安装。",
                     "zh-hant": "Claude Code、OpenAI Codex 和 OpenClaw 的 169 種生產就緒技能和插件 - 工程、營銷、產品、合規、C 級顧問等。通過/plugin 市場安裝。"
                 }
+            },
+            "https://github.com/omxyz/lumen": {
+                "repository_name": "lumen",
+                "user_name": "omxyz",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "A vision-first browser agent with self-healing deterministic replay.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "A vision-first browser agent with self-healing deterministic replay.",
+                    "ja": "自己修復型の決定論的リプレイを備えたビジョンファーストブラウザーエージェント。",
+                    "zh-hans": "一个以视觉为先的浏览器代理，具有自愈的确定性重放功能。",
+                    "zh-hant": "具有自愈确定性重放功能的视觉优先浏览器代理。"
+                }
             }
         },
         "CLIs": {
@@ -26633,6 +26736,20 @@
                     "ja": "AIのためのプロジェクトブレイン。トークンを燃やさずにLLMsに即座の建築コンテキストを提供します。",
                     "zh-hans": "为您的AI提供一个项目大脑。为LLMs提供即时的架构背景，而不会消耗代币。",
                     "zh-hant": "為您的人工智慧項目提供一個專案大腦。給予LLMs即時的建築背景，而不會消耗代幣。"
+                }
+            },
+            "https://github.com/burnrate-dev/burnrate": {
+                "repository_name": "burnrate",
+                "user_name": "burnrate-dev",
+                "language": "Ruby",
+                "license": null,
+                "description": "Homebrew tap for BurnRate — AI usage analytics CLI",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Homebrew tap for BurnRate — AI usage analytics CLI",
+                    "ja": "BurnRate用のHomebrewタップ - AI利用分析CLI",
+                    "zh-hans": "Homebrew tap for BurnRate — AI使用分析CLI",
+                    "zh-hant": "Homebrew tap for BurnRate — AI 使用分析 CLI"
                 }
             }
         },
@@ -48454,6 +48571,79 @@
                     "zh-hans": "omo; 最好的代理工具-之前是oh-my-opencode",
                     "zh-hant": "omo; 最好的代理器 - 之前是oh-my-opencode"
                 }
+            },
+            "https://github.com/vstorm-co/pydantic-deepagents": {
+                "repository_name": "pydantic-deepagents",
+                "user_name": "vstorm-co",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.",
+                "topics": [
+                    "agent-framework",
+                    "anthropic",
+                    "artificial-intelligence",
+                    "business-intelligence",
+                    "chatgpt",
+                    "clawdbot",
+                    "enterprise",
+                    "framework",
+                    "gemini",
+                    "llms",
+                    "mcp",
+                    "moltbot",
+                    "multiagent",
+                    "open-source",
+                    "openai",
+                    "pydantic",
+                    "pydantic-ai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.",
+                    "ja": "Pydantic-AIをベースに構築されたPython Deep Agentフレームワークは、計画、ファイルシステム操作、サブエージェントの委任、スキル、および構造化された出力を備えた、製品レベルの自律型AIエージェントを素早く構築するために設計されています。たった10行のコードで。",
+                    "zh-hans": "基于Pydantic-AI构建的Python深度代理框架，旨在帮助您快速构建具有规划、文件系统操作、子代理委派、技能和结构化输出的生产级自主AI代理——仅需10行代码。",
+                    "zh-hant": "基於Pydantic-AI構建的Python Deep Agent框架，旨在幫助您快速構建具有規劃、文件系統操作、子代理委派、技能和結構化輸出的生產級自主AI代理，僅需10行代碼。"
+                }
+            },
+            "https://github.com/7836246/cursor2api": {
+                "repository_name": "cursor2api",
+                "user_name": "7836246",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "将 Cursor API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Convert Cursor API to OpenAI/Anthropic compatible format for agent services. Provide Claude Code tool and image support.",
+                    "ja": "Cursor APIをOpenAI/Anthropic互換形式に変換するエージェントサービスを提供します。Claude Codeツールと画像サポートも提供します。",
+                    "zh-hans": "将光标API转换为OpenAI/Anthropic兼容格式的代理服务。提供Claude Code工具及图片支持。",
+                    "zh-hant": "將 Cursor API 轉換為 OpenAI/Anthropic 兼容格式的代理服務。提供 Claude Code 工具及圖片支持。"
+                }
+            },
+            "https://github.com/miromindai/miroflow": {
+                "repository_name": "MiroFlow",
+                "user_name": "MiroMindAI",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI",
+                "topics": [
+                    "agent-framework",
+                    "agents",
+                    "browsecomp",
+                    "claude",
+                    "deep-research",
+                    "futurex",
+                    "gaia",
+                    "gpt-5",
+                    "hle",
+                    "research-agent",
+                    "xbench"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI",
+                    "ja": "🏆 5つ以上のベンチマークでトップ1 | Web UI | MiroThinker、Claude、Kimi、OpenAIをサポート",
+                    "zh-hans": "🏆 在5个以上的基准测试中排名第一 | Web用户界面 | 支持MiroThinker、Claude、Kimi、OpenAI",
+                    "zh-hant": "🏆 在5個以上的基準上排名第一 | Web UI | 支持MiroThinker、Claude、Kimi、OpenAI"
+                }
             }
         },
         "Others": {
@@ -56845,6 +57035,25 @@
                     "ja": "汎用データベースMCPコネクタ：MySQL、PostgreSQL、Oracle、MongoDBなど17種類のデータベースをサポートし、Claude Desktop、Cursor、Windsurf、VS Code、ChatGPTなど50以上のプラットフォームをサポートし、自然言語でデータをクエリおよび分析します。",
                     "zh-hans": "通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据。",
                     "zh-hant": "通用數據庫 MCP 連接器：支援 MySQL、PostgreSQL、Oracle、MongoDB 等 17 種數據庫，支援 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然語言查詢和分析數據"
+                }
+            },
+            "https://github.com/charlie85270/dorothy": {
+                "repository_name": "Dorothy",
+                "user_name": "Charlie85270",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Dorothy, the wife your AI agents needs.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ai-tools",
+                    "orchestration"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Dorothy, the wife your AI agents needs.",
+                    "ja": "ドロシー、あなたのAIエージェントが必要とする妻。ドロシー、あなたのAIエージェントが必要とする妻。",
+                    "zh-hans": "多萝西，你的AI代理需要的妻子。",
+                    "zh-hant": "多蘿西，你的AI代理人需要的妻子。"
                 }
             }
         }

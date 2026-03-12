@@ -16,23 +16,31 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [clawpanel](https://github.com/qingchencloud/clawpanel) - 🦀 OpenClaw ビジュアル管理パネル - ツール呼び出しと画像認識を備えた組み込みAIアシスタント、ワンクリックインストール構成、クロスプラットフォームデスクトップアプリ | 工具呼び出しと画像認識を備えた組み込みAIアシスタント
+ * [AskePub](https://github.com/geiserx/askepub) - このプロジェクトは、ePubの準備を手伝うTelegramボットアシスタントです。ChatGPT-4oを使用して、文脈に沿ったメモを書きます。
+ * [openclaw](https://github.com/openclaw/openclaw) - あなた自身の個人用AIアシスタント。どんなOSでも。どんなプラットフォームでも。ロブスターのやり方。🦞
+
+
 **Browser-extensions**
- * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex、およびOpenClaw向けの169の本番向けスキル＆プラグイン - エンジニアリング、マーケティング、プロダクト、コンプライアンス、Cレベルのアドバイザリーなど。 /プラグインマーケットプレイスを介してインストールしてください。
+ * [lumen](https://github.com/omxyz/lumen) - 自己修復型の決定論的リプレイを備えたビジョンファーストブラウザーエージェント。
 
 
-**NLP**
- * [DeepCamera](https://github.com/sharpai/deepcamera) - オープンソースのAIカメラスキルプラットフォーム、AI NVR＆CCTV監視。 Qwen、DeepSeek、SmolVLM、LLaVA、MiniMaxを使用したローカルVLMビデオ分析。 LLMパワードのエージェントセキュリティカメラエージェント-Telegram、Discordを介して自宅を見守り、理解し、覚え、護る。
-
-
-**Langchain**
- * [headroom](https://github.com/chopratejas/headroom) - LLMアプリケーションのコンテキスト最適化レイヤー
+**CLIs**
+ * [burnrate](https://github.com/burnrate-dev/burnrate) - BurnRate用のHomebrewタップ - AI利用分析CLI
 
 
 **Openai**
- * [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; 最高のエージェントハーネス - 以前はoh-my-opencode
+ * [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Pydantic-AIをベースに構築されたPython Deep Agentフレームワークは、計画、ファイルシステム操作、サブエージェントの委任、スキル、および構造化された出力を備えた、製品レベルの自律型AIエージェントを素早く構築するために設計されています。たった10行のコードで。
+ * [cursor2api](https://github.com/7836246/cursor2api) - Cursor APIをOpenAI/Anthropic互換形式に変換するエージェントサービスを提供します。Claude Codeツールと画像サポートも提供します。
+ * [MiroFlow](https://github.com/miromindai/miroflow) - 🏆 5つ以上のベンチマークでトップ1 | Web UI | MiroThinker、Claude、Kimi、OpenAIをサポート
 
 
-_Updated on March 08, 2026_ (A total of 2465 repositories listed.)
+**Others**
+ * [Dorothy](https://github.com/charlie85270/dorothy) - ドロシー、あなたのAIエージェントが必要とする妻。ドロシー、あなたのAIエージェントが必要とする妻。
+
+
+_Updated on March 12, 2026_ (A total of 2474 repositories listed.)
 
 ## Table of contents
 
@@ -696,6 +704,9 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [chat.js](https://github.com/franciscomoretti/chat.js) - ⭐ 1.2k / 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
  * 🔥 [goclaw](https://github.com/nextlevelbuilder/goclaw) - ⭐ 524 / 複数エージェントAIゲートウェイチーム、委任、オーケストレーションを備えた。単一のGoバイナリ、11以上のLLMプロバイダ、5つのチャンネル。
  * [chat-js](https://github.com/franciscomoretti/chat-js) - 本番向けのAIチャット。ここから始めて、自分自身のものにしてください。以前はSparka AIでした。
+ * [clawpanel](https://github.com/qingchencloud/clawpanel) - 🦀 OpenClaw ビジュアル管理パネル - ツール呼び出しと画像認識を備えた組み込みAIアシスタント、ワンクリックインストール構成、クロスプラットフォームデスクトップアプリ | 工具呼び出しと画像認識を備えた組み込みAIアシスタント
+ * [AskePub](https://github.com/geiserx/askepub) - このプロジェクトは、ePubの準備を手伝うTelegramボットアシスタントです。ChatGPT-4oを使用して、文脈に沿ったメモを書きます。
+ * [openclaw](https://github.com/openclaw/openclaw) - あなた自身の個人用AIアシスタント。どんなOSでも。どんなプラットフォームでも。ロブスターのやり方。🦞
 
 
 ## Browser-extensions
@@ -942,6 +953,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [agent-sessions](https://github.com/jazzyalex/agent-sessions) - ⭐ 302 / Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI＆OpenClawのためのセッションブラウザ+エージェント分析+リミットトラッカー。すべての過去のセッションを検索/フィルタリングし、セッションをアーカイブし、即座に再開し、リアルタイムでレート制限を確認します。ネイティブ
  * [agentsys](https://github.com/agent-sh/agentsys) - AIがコードを書きます。これにより、他のすべてが自動化されます。· 14のプラグイン · 43のエージェント · 30のスキル · クロードコード、オープンコード、コーデックス、カーソル、キロ用。
  * [claude-skills](https://github.com/alirezarezvani/claude-skills) - Claude Code、OpenAI Codex、およびOpenClaw向けの169の本番向けスキル＆プラグイン - エンジニアリング、マーケティング、プロダクト、コンプライアンス、Cレベルのアドバイザリーなど。 /プラグインマーケットプレイスを介してインストールしてください。
+ * [lumen](https://github.com/omxyz/lumen) - 自己修復型の決定論的リプレイを備えたビジョンファーストブラウザーエージェント。
 
 
 ## CLIs
@@ -1149,6 +1161,7 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [neurolink](https://github.com/juspay/neurolink) - ⭐ 112 / MCPサーバー統合、複数のプロバイダーをサポートし、プロフェッショナルなCLIを備えた汎用AI開発プラットフォーム。複数のAIプロバイダーを使用してAIアプリケーションを構築、テスト、展開します。
  * [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - Input: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。 Output: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。
  * [codemap](https://github.com/jordancoin/codemap) - AIのためのプロジェクトブレイン。トークンを燃やさずにLLMsに即座の建築コンテキストを提供します。
+ * [burnrate](https://github.com/burnrate-dev/burnrate) - BurnRate用のHomebrewタップ - AI利用分析CLI
 
 
 ## Reimplementations
@@ -2128,6 +2141,9 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 🔥 [ai](https://github.com/laravel/ai) - ⭐ 630 / Laravel AI SDKは、OpenAI、Anthropic、GeminiなどのAIプロバイダーとやり取りするための統一された表現豊かなAPIを提供します。
  * ✅ [generative-manim](https://github.com/marcelo-earth/generative-manim) - ⭐ 803 / 🎨 ビデオ生成のためのGPT ⚡️
  * [oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; 最高のエージェントハーネス - 以前はoh-my-opencode
+ * [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - Pydantic-AIをベースに構築されたPython Deep Agentフレームワークは、計画、ファイルシステム操作、サブエージェントの委任、スキル、および構造化された出力を備えた、製品レベルの自律型AIエージェントを素早く構築するために設計されています。たった10行のコードで。
+ * [cursor2api](https://github.com/7836246/cursor2api) - Cursor APIをOpenAI/Anthropic互換形式に変換するエージェントサービスを提供します。Claude Codeツールと画像サポートも提供します。
+ * [MiroFlow](https://github.com/miromindai/miroflow) - 🏆 5つ以上のベンチマークでトップ1 | Web UI | MiroThinker、Claude、Kimi、OpenAIをサポート
 
 
 ## Others
@@ -2572,5 +2588,6 @@ _Updated on March 08, 2026_ (A total of 2465 repositories listed.)
  * 💤 [contoso-creative-writer](https://github.com/azure-samples/contoso-creative-writer) - ⭐ 415 / Microsoftエージェントアイデンティティのサンプルを入力し、AIエージェントが自律エージェントとして、またはユーザーの代わりに下流のAPIを呼び出すことを可能にします。
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 704 / 一括Teamアカウント管理
  * ✅ [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 569 / 汎用データベースMCPコネクタ：MySQL、PostgreSQL、Oracle、MongoDBなど17種類のデータベースをサポートし、Claude Desktop、Cursor、Windsurf、VS Code、ChatGPTなど50以上のプラットフォームをサポートし、自然言語でデータをクエリおよび分析します。
+ * [Dorothy](https://github.com/charlie85270/dorothy) - ドロシー、あなたのAIエージェントが必要とする妻。ドロシー、あなたのAIエージェントが必要とする妻。
 
 
