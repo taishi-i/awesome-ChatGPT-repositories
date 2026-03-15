@@ -21808,6 +21808,30 @@
                     "zh-hans": "一个以视觉为先的浏览器代理，具有自愈的确定性重放功能。",
                     "zh-hant": "具有自愈确定性重放功能的视觉优先浏览器代理。"
                 }
+            },
+            "https://github.com/symgraph/ghidrassist": {
+                "repository_name": "GhidrAssist",
+                "user_name": "symgraph",
+                "language": "Java",
+                "license": "MIT License",
+                "description": "An LLM extension for Ghidra to enable AI assistance in RE.",
+                "topics": [
+                    "chatgpt",
+                    "ghidra",
+                    "ghidra-extension",
+                    "ghidra-plugin",
+                    "llm",
+                    "ml",
+                    "openai",
+                    "re",
+                    "reverse-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "An LLM extension for Ghidra to enable AI assistance in RE.",
+                    "ja": "GhidraにAI支援を可能にするLLM拡張機能。",
+                    "zh-hans": "一个用于Ghidra的LLM扩展，以实现在逆向工程中使用人工智能辅助。",
+                    "zh-hant": "一個用於Ghidra的LLM擴展，以啟用AI輔助進行逆向工程。"
+                }
             }
         },
         "CLIs": {
@@ -37188,6 +37212,72 @@
                     "ja": "オープンソースのAIカメラスキルプラットフォーム、AI NVR＆CCTV監視。 Qwen、DeepSeek、SmolVLM、LLaVA、MiniMaxを使用したローカルVLMビデオ分析。 LLMパワードのエージェントセキュリティカメラエージェント-Telegram、Discordを介して自宅を見守り、理解し、覚え、護る。",
                     "zh-hans": "开源AI摄像头技能平台，AI NVR和CCTV监控。本地VLM视频分析与Qwen，DeepSeek，SmolVLM，LLaVA，MiniMax。由LLM提供支持的代理安全摄像头代理人-通过Telegram，Discord观看，理解，记住和保护您的家园。",
                     "zh-hant": "開源AI攝像頭技能平台，AI NVR和CCTV監控。本地VLM視頻分析與Qwen，DeepSeek，SmolVLM，LLaVA，MiniMax。由LLM驅動的代理安全攝像頭代理人-通過Telegram，Discord觀看，理解，記住和保護您的家。"
+                }
+            },
+            "https://github.com/wanshuiyin/auto-claude-code-research-in-sleep": {
+                "repository_name": "Auto-claude-code-research-in-sleep",
+                "user_name": "wanshuiyin",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
+                "topics": [
+                    "ai-research",
+                    "ai-tools",
+                    "aris",
+                    "autonomous-agent",
+                    "claude",
+                    "claude-code",
+                    "claude-code-skills",
+                    "codex",
+                    "deep-learning",
+                    "gpt",
+                    "idea-generation",
+                    "llm",
+                    "machine-learning",
+                    "mcp",
+                    "mcp-server",
+                    "ml-research",
+                    "openai",
+                    "paper-review",
+                    "paper-writing",
+                    "research-automation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP",
+                    "ja": "ARIS ⚔️（Auto-Research-In-Sleep）- 自律型ML研究のためのClaude Codeスキル：クロスモデルレビューループ、アイデア発見、およびCodex MCPを介した実験の自動化",
+                    "zh-hans": "ARIS ⚔️（自动研究睡眠）- 克劳德代码技能用于自主ML研究：通过Codex MCP进行跨模型审查循环，创意发现和实验自动化。",
+                    "zh-hant": "ARIS ⚔️（自動研究睡眠）- 克勞德代碼技能用於自主ML研究：通過Codex MCP進行跨模型審查迴圈，想法發現和實驗自動化"
+                }
+            },
+            "https://github.com/nousresearch/hermes-agent": {
+                "repository_name": "hermes-agent",
+                "user_name": "NousResearch",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "The agent that grows with you",
+                "topics": [
+                    "ai",
+                    "ai-agent",
+                    "ai-agents",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "claude-code",
+                    "clawdbot",
+                    "codex",
+                    "hermes",
+                    "hermes-agent",
+                    "llm",
+                    "moltbot",
+                    "nous-research",
+                    "openai",
+                    "openclaw"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The agent that grows with you",
+                    "ja": "あなたと共に成長するエージェント",
+                    "zh-hans": "随着你成长的代理商",
+                    "zh-hant": "與您一同成長的代理商"
                 }
             }
         },
