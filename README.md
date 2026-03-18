@@ -16,16 +16,17 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [GhidrAssist](https://github.com/symgraph/ghidrassist) - An LLM extension for Ghidra to enable AI assistance in RE.
+**CLIs**
+ * [parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
+ * [agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions.
 
 
-**NLP**
- * [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP
- * [hermes-agent](https://github.com/nousresearch/hermes-agent) - The agent that grows with you
+**Openai**
+ * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。A Tauri-based cross-platform desktop app for managing multi-platform AI accounts (Augment, Antigravity, Windsurf, Cursor, OpenAI Codex/API, Claude Code and API), plus subscriptions, bookmarks, and email management.
+ * [onWatch](https://github.com/onllm-dev/onwatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.
 
 
-_Updated on March 16, 2026_ (A total of 2477 repositories listed.)
+_Updated on March 19, 2026_ (A total of 2481 repositories listed.)
 
 ## Table of contents
 
@@ -1148,6 +1149,8 @@ _Updated on March 16, 2026_ (A total of 2477 repositories listed.)
  * 🔥 [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - ⭐ 550 / NextCRM — Open-source CRM built with Next.js 16, React 19, PostgreSQL, Prisma 7, and shadcn/ui. CRM, projects, invoicing, documents, email client & AI features.
  * 🔥 [codemap](https://github.com/jordancoin/codemap) - ⭐ 474 / a project brain for your AI. Give LLMs instant architectural context without burning tokens
  * ⚠️ [burnrate](https://github.com/burnrate-dev/burnrate) - ⭐ repo not found / Homebrew tap for BurnRate — AI usage analytics CLI
+ * [parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
+ * [agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions.
 
 
 ## Reimplementations
@@ -2132,6 +2135,8 @@ _Updated on March 16, 2026_ (A total of 2477 repositories listed.)
  * 🔥 [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - ⭐ 453 / Python Deep Agent framework built on top of Pydantic-AI, designed to help you quickly build production-grade autonomous AI agents with planning, filesystem operations, subagent delegation, skills, and structured outputs—in just 10 lines of code.
  * 🔥 [cursor2api](https://github.com/7836246/cursor2api) - ⭐ 696 / 将 Cursor API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。
  * 🔥 [MiroFlow](https://github.com/miromindai/miroflow) - ⭐ 2.8k / 🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI
+ * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。A Tauri-based cross-platform desktop app for managing multi-platform AI accounts (Augment, Antigravity, Windsurf, Cursor, OpenAI Codex/API, Claude Code and API), plus subscriptions, bookmarks, and email management.
+ * [onWatch](https://github.com/onllm-dev/onwatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.
 
 
 ## Others
