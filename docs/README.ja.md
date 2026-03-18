@@ -16,16 +16,17 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [GhidrAssist](https://github.com/symgraph/ghidrassist) - GhidraにAI支援を可能にするLLM拡張機能。
+**CLIs**
+ * [parllama](https://github.com/paulrobello/parllama) - オラマや他のLLMプロバイダー向けのTUI
+ * [agents-radar](https://github.com/duanyytop/agents-radar) - トラッククロードコード、コーデックス、ジェミニCLI、OpenClawエコシステム、GitHub AIトレンド、およびAnthropic/OpenAIの更新。 GitHubアクションを介した毎日の中国語ダイジェスト。
 
 
-**NLP**
- * [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) - ARIS ⚔️（Auto-Research-In-Sleep）- 自律型ML研究のためのClaude Codeスキル：クロスモデルレビューループ、アイデア発見、およびCodex MCPを介した実験の自動化
- * [hermes-agent](https://github.com/nousresearch/hermes-agent) - あなたと共に成長するエージェント
+**Openai**
+ * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - Tauriをベースとしたクロスプラットフォームのデスクトップアプリケーションで、複数のプラットフォームのAIアカウント（Augment、Antigravity、Windsurf、Cursor、OpenAI Codex）およびサブスクリプション、ブックマーク管理、メール管理を管理します。
+ * [onWatch](https://github.com/onllm-dev/onwatch) - Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。
 
 
-_Updated on March 16, 2026_ (A total of 2477 repositories listed.)
+_Updated on March 19, 2026_ (A total of 2481 repositories listed.)
 
 ## Table of contents
 
@@ -1148,6 +1149,8 @@ _Updated on March 16, 2026_ (A total of 2477 repositories listed.)
  * 🔥 [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - ⭐ 550 / Input: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。 Output: NextCRM — Next.js 16、React 19、PostgreSQL、Prisma 7、およびshadcn/uiを使用して構築されたオープンソースCRM。CRM、プロジェクト、請求書、文書、メールクライアント＆AI機能。
  * 🔥 [codemap](https://github.com/jordancoin/codemap) - ⭐ 474 / AIのためのプロジェクトブレイン。トークンを燃やさずにLLMsに即座の建築コンテキストを提供します。
  * ⚠️ [burnrate](https://github.com/burnrate-dev/burnrate) - ⭐ repo not found / BurnRate用のHomebrewタップ - AI利用分析CLI
+ * [parllama](https://github.com/paulrobello/parllama) - オラマや他のLLMプロバイダー向けのTUI
+ * [agents-radar](https://github.com/duanyytop/agents-radar) - トラッククロードコード、コーデックス、ジェミニCLI、OpenClawエコシステム、GitHub AIトレンド、およびAnthropic/OpenAIの更新。 GitHubアクションを介した毎日の中国語ダイジェスト。
 
 
 ## Reimplementations
@@ -2132,6 +2135,8 @@ _Updated on March 16, 2026_ (A total of 2477 repositories listed.)
  * 🔥 [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - ⭐ 453 / Pydantic-AIをベースに構築されたPython Deep Agentフレームワークは、計画、ファイルシステム操作、サブエージェントの委任、スキル、および構造化された出力を備えた、製品レベルの自律型AIエージェントを素早く構築するために設計されています。たった10行のコードで。
  * 🔥 [cursor2api](https://github.com/7836246/cursor2api) - ⭐ 696 / Cursor APIをOpenAI/Anthropic互換形式に変換するエージェントサービスを提供します。Claude Codeツールと画像サポートも提供します。
  * 🔥 [MiroFlow](https://github.com/miromindai/miroflow) - ⭐ 2.8k / 🏆 5つ以上のベンチマークでトップ1 | Web UI | MiroThinker、Claude、Kimi、OpenAIをサポート
+ * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - Tauriをベースとしたクロスプラットフォームのデスクトップアプリケーションで、複数のプラットフォームのAIアカウント（Augment、Antigravity、Windsurf、Cursor、OpenAI Codex）およびサブスクリプション、ブックマーク管理、メール管理を管理します。
+ * [onWatch](https://github.com/onllm-dev/onwatch) - Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。
 
 
 ## Others

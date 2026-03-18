@@ -26775,6 +26775,44 @@
                     "zh-hans": "Homebrew tap for BurnRate — AI使用分析CLI",
                     "zh-hant": "Homebrew tap for BurnRate — AI 使用分析 CLI"
                 }
+            },
+            "https://github.com/paulrobello/parllama": {
+                "repository_name": "parllama",
+                "user_name": "paulrobello",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "TUI for Ollama and other LLM providers",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "gemini",
+                    "ollama",
+                    "ollama-tui",
+                    "openai",
+                    "python",
+                    "terminal",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TUI for Ollama and other LLM providers",
+                    "ja": "オラマや他のLLMプロバイダー向けのTUI",
+                    "zh-hans": "奥拉玛和其他LLM提供商的TUI",
+                    "zh-hant": "為Ollama和其他LLM提供者提供TUI"
+                }
+            },
+            "https://github.com/duanyytop/agents-radar": {
+                "repository_name": "agents-radar",
+                "user_name": "duanyytop",
+                "language": "TypeScript",
+                "license": null,
+                "description": "Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions.",
+                    "ja": "トラッククロードコード、コーデックス、ジェミニCLI、OpenClawエコシステム、GitHub AIトレンド、およびAnthropic/OpenAIの更新。 GitHubアクションを介した毎日の中国語ダイジェスト。",
+                    "zh-hans": "跟踪克劳德代码、Codex、Gemini CLI、OpenClaw生态系统、GitHub AI趋势以及Anthropic/OpenAI更新。每日中文摘要通过GitHub Actions。",
+                    "zh-hant": "蹤跡克勞德代碼、Codex、雙子座CLI、OpenClaw生態系統、GitHub AI趨勢和Anthropic/OpenAI更新。每日中文摘要通過GitHub操作。"
+                }
             }
         },
         "Reimplementations": {
@@ -48733,6 +48771,45 @@
                     "ja": "🏆 5つ以上のベンチマークでトップ1 | Web UI | MiroThinker、Claude、Kimi、OpenAIをサポート",
                     "zh-hans": "🏆 在5个以上的基准测试中排名第一 | Web用户界面 | 支持MiroThinker、Claude、Kimi、OpenAI",
                     "zh-hant": "🏆 在5個以上的基準上排名第一 | Web UI | 支持MiroThinker、Claude、Kimi、OpenAI"
+                }
+            },
+            "https://github.com/cubezhao/ai-tools-mng": {
+                "repository_name": "ai-tools-mng",
+                "user_name": "cubezhao",
+                "language": "Vue",
+                "license": "MIT License",
+                "description": "基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。A Tauri-based cross-platform desktop app for managing multi-platform AI accounts (Augment, Antigravity, Windsurf, Cursor, OpenAI Codex/API, Claude Code and API), plus subscriptions, bookmarks, and email management.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。A Tauri-based cross-platform desktop app for managing multi-platform AI accounts (Augment, Antigravity, Windsurf, Cursor, OpenAI Codex",
+                    "ja": "Tauriをベースとしたクロスプラットフォームのデスクトップアプリケーションで、複数のプラットフォームのAIアカウント（Augment、Antigravity、Windsurf、Cursor、OpenAI Codex）およびサブスクリプション、ブックマーク管理、メール管理を管理します。",
+                    "zh-hans": "基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。一个基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号（Augment、Antigravity、Windsurf、Cursor、OpenAI Codex）。",
+                    "zh-hant": "基於 Tauri 的跨平台桌面應用，用於管理多平台 AI 帳號 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 與 API 帳號，以及訂閱、書籤管理與郵箱管理。"
+                }
+            },
+            "https://github.com/onllm-dev/onwatch": {
+                "repository_name": "onWatch",
+                "user_name": "onllm-dev",
+                "language": "Go",
+                "license": "GNU General Public License v3.0",
+                "description": "Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.",
+                "topics": [
+                    "ai-api-monitoring",
+                    "antigravity",
+                    "api-monitoring",
+                    "claude-code",
+                    "codex",
+                    "developer-tools",
+                    "golang",
+                    "openai",
+                    "quota-tracker",
+                    "zai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.",
+                    "ja": "Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。",
+                    "zh-hans": "实时跟踪合成、Z.ai、人类学（克劳德代码）、Codex、GitHub Copilot和Antigravity的AI API配额。轻量级后台守护程序（<50MB RAM），SQLite存储，Material Design 3仪表板。零遥测。",
+                    "zh-hant": "請即時追蹤Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot和Antigravity的AI API配額。輕量級背景守護程序（<50MB RAM）、SQLite存儲、Material Design 3儀表板。零遙測。"
                 }
             }
         },

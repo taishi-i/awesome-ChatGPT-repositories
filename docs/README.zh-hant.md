@@ -16,16 +16,17 @@
 
 ## The latest additions 🎉
 
-**Browser-extensions**
- * [GhidrAssist](https://github.com/symgraph/ghidrassist) - 一個用於Ghidra的LLM擴展，以啟用AI輔助進行逆向工程。
+**CLIs**
+ * [parllama](https://github.com/paulrobello/parllama) - 為Ollama和其他LLM提供者提供TUI
+ * [agents-radar](https://github.com/duanyytop/agents-radar) - 蹤跡克勞德代碼、Codex、雙子座CLI、OpenClaw生態系統、GitHub AI趨勢和Anthropic/OpenAI更新。每日中文摘要通過GitHub操作。
 
 
-**NLP**
- * [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) - ARIS ⚔️（自動研究睡眠）- 克勞德代碼技能用於自主ML研究：通過Codex MCP進行跨模型審查迴圈，想法發現和實驗自動化
- * [hermes-agent](https://github.com/nousresearch/hermes-agent) - 與您一同成長的代理商
+**Openai**
+ * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基於 Tauri 的跨平台桌面應用，用於管理多平台 AI 帳號 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 與 API 帳號，以及訂閱、書籤管理與郵箱管理。
+ * [onWatch](https://github.com/onllm-dev/onwatch) - 請即時追蹤Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot和Antigravity的AI API配額。輕量級背景守護程序（<50MB RAM）、SQLite存儲、Material Design 3儀表板。零遙測。
 
 
-_Updated on March 16, 2026_ (A total of 2477 repositories listed.)
+_Updated on March 19, 2026_ (A total of 2481 repositories listed.)
 
 ## Table of contents
 
@@ -1148,6 +1149,8 @@ _Updated on March 16, 2026_ (A total of 2477 repositories listed.)
  * 🔥 [nextcrm-app](https://github.com/pdovhomilja/nextcrm-app) - ⭐ 550 / NextCRM — 使用Next.js 16、React 19、PostgreSQL、Prisma 7和shadcn/ui構建的開源CRM。CRM、項目、發票、文件、郵件客戶端和人工智能功能。
  * 🔥 [codemap](https://github.com/jordancoin/codemap) - ⭐ 474 / 為您的人工智慧項目提供一個專案大腦。給予LLMs即時的建築背景，而不會消耗代幣。
  * ⚠️ [burnrate](https://github.com/burnrate-dev/burnrate) - ⭐ repo not found / Homebrew tap for BurnRate — AI 使用分析 CLI
+ * [parllama](https://github.com/paulrobello/parllama) - 為Ollama和其他LLM提供者提供TUI
+ * [agents-radar](https://github.com/duanyytop/agents-radar) - 蹤跡克勞德代碼、Codex、雙子座CLI、OpenClaw生態系統、GitHub AI趨勢和Anthropic/OpenAI更新。每日中文摘要通過GitHub操作。
 
 
 ## Reimplementations
@@ -2132,6 +2135,8 @@ _Updated on March 16, 2026_ (A total of 2477 repositories listed.)
  * 🔥 [pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents) - ⭐ 453 / 基於Pydantic-AI構建的Python Deep Agent框架，旨在幫助您快速構建具有規劃、文件系統操作、子代理委派、技能和結構化輸出的生產級自主AI代理，僅需10行代碼。
  * 🔥 [cursor2api](https://github.com/7836246/cursor2api) - ⭐ 696 / 將 Cursor API 轉換為 OpenAI/Anthropic 兼容格式的代理服務。提供 Claude Code 工具及圖片支持。
  * 🔥 [MiroFlow](https://github.com/miromindai/miroflow) - ⭐ 2.8k / 🏆 在5個以上的基準上排名第一 | Web UI | 支持MiroThinker、Claude、Kimi、OpenAI
+ * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基於 Tauri 的跨平台桌面應用，用於管理多平台 AI 帳號 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 與 API 帳號，以及訂閱、書籤管理與郵箱管理。
+ * [onWatch](https://github.com/onllm-dev/onwatch) - 請即時追蹤Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot和Antigravity的AI API配額。輕量級背景守護程序（<50MB RAM）、SQLite存儲、Material Design 3儀表板。零遙測。
 
 
 ## Others
