@@ -16,17 +16,20 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [parllama](https://github.com/paulrobello/parllama) - 為Ollama和其他LLM提供者提供TUI
- * [agents-radar](https://github.com/duanyytop/agents-radar) - 蹤跡克勞德代碼、Codex、雙子座CLI、OpenClaw生態系統、GitHub AI趨勢和Anthropic/OpenAI更新。每日中文摘要通過GitHub操作。
+**Unity**
+ * [Unity-Skills](https://github.com/besty0728/unity-skills) - 專為Unity設計的AI自動化技能
 
 
 **Openai**
- * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基於 Tauri 的跨平台桌面應用，用於管理多平台 AI 帳號 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 與 API 帳號，以及訂閱、書籤管理與郵箱管理。
- * [onWatch](https://github.com/onllm-dev/onwatch) - 請即時追蹤Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot和Antigravity的AI API配額。輕量級背景守護程序（<50MB RAM）、SQLite存儲、Material Design 3儀表板。零遙測。
+ * [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - 讓人工智慧像您一樣思考和表達。這個框架提供了一個完整的組裝線：從原始聊天記錄的噪音處理，到多模型適應層的無縫切換，再到本地輕量級微調（LoRA）。
+ * [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - 基於AntiHub二開的2API綜合性平臺，全代碼開源，讓 Claude、Openai 、Gemini、AWS(Kiro)的訂閱套餐發揮最大價值，原生工具無縫使用。
 
 
-_Updated on March 19, 2026_ (A total of 2481 repositories listed.)
+**Others**
+ * [ai-job](https://github.com/yangfeng20/ai-job) - 尋找工作，使用AI工作獵手！讓AI幫您尋找工作！【DeepSeek+ChatGpt】賦能，ai助理作為您的求職者分身7*24小時在線尋找工作，並結合您的簡歷信息定制化回覆。批量投遞，自動發送簡歷，交換聯繫方式。hr拒絕挽留。高意向郵件通知，讓您不錯過每一份工作機會。BOSS直聘
+
+
+_Updated on March 23, 2026_ (A total of 2485 repositories listed.)
 
 ## Table of contents
 
@@ -1821,6 +1824,7 @@ _Updated on March 19, 2026_ (A total of 2481 repositories listed.)
  * ⚠️ [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - ⭐ repo not found / 使用多種工具/掃描器進行代碼掃描/SAST/靜態分析/程式碼檢查 + OpenAI GPT 生成一份報告（代碼、IaC）- Betterscan 社區版（CE）
  * 💤 [openai-kit](https://github.com/dylanshine/openai-kit) - ⭐ 734 / 一個用於與OpenAI API 互動的社區Swift套件
  * ⚠️ [OpenAI](https://github.com/macpaw/openai) - ⭐ 2.9k / Swift 社區驅動的 OpenAI 公共 API 套件
+ * [Unity-Skills](https://github.com/besty0728/unity-skills) - 專為Unity設計的AI自動化技能
 
 
 ## Openai
@@ -2137,6 +2141,8 @@ _Updated on March 19, 2026_ (A total of 2481 repositories listed.)
  * 🔥 [MiroFlow](https://github.com/miromindai/miroflow) - ⭐ 2.8k / 🏆 在5個以上的基準上排名第一 | Web UI | 支持MiroThinker、Claude、Kimi、OpenAI
  * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基於 Tauri 的跨平台桌面應用，用於管理多平台 AI 帳號 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 與 API 帳號，以及訂閱、書籤管理與郵箱管理。
  * [onWatch](https://github.com/onllm-dev/onwatch) - 請即時追蹤Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot和Antigravity的AI API配額。輕量級背景守護程序（<50MB RAM）、SQLite存儲、Material Design 3儀表板。零遙測。
+ * [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - 讓人工智慧像您一樣思考和表達。這個框架提供了一個完整的組裝線：從原始聊天記錄的噪音處理，到多模型適應層的無縫切換，再到本地輕量級微調（LoRA）。
+ * [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - 基於AntiHub二開的2API綜合性平臺，全代碼開源，讓 Claude、Openai 、Gemini、AWS(Kiro)的訂閱套餐發揮最大價值，原生工具無縫使用。
 
 
 ## Others
@@ -2582,5 +2588,6 @@ _Updated on March 19, 2026_ (A total of 2481 repositories listed.)
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 882 / 一站式Team帳號管理
  * 🔥 [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 631 / 通用數據庫 MCP 連接器：支援 MySQL、PostgreSQL、Oracle、MongoDB 等 17 種數據庫，支援 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然語言查詢和分析數據
  * 🔥 [Dorothy](https://github.com/charlie85270/dorothy) - ⭐ 203 / 多蘿西，你的AI代理人需要的妻子。
+ * [ai-job](https://github.com/yangfeng20/ai-job) - 尋找工作，使用AI工作獵手！讓AI幫您尋找工作！【DeepSeek+ChatGpt】賦能，ai助理作為您的求職者分身7*24小時在線尋找工作，並結合您的簡歷信息定制化回覆。批量投遞，自動發送簡歷，交換聯繫方式。hr拒絕挽留。高意向郵件通知，讓您不錯過每一份工作機會。BOSS直聘
 
 
