@@ -16,17 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**CLIs**
- * [parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
- * [agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions.
+**Unity**
+ * [Unity-Skills](https://github.com/besty0728/unity-skills) - AI automation skills specifically designed for Unity
 
 
 **Openai**
- * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。A Tauri-based cross-platform desktop app for managing multi-platform AI accounts (Augment, Antigravity, Windsurf, Cursor, OpenAI Codex
- * [onWatch](https://github.com/onllm-dev/onwatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.
+ * [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).
+ * [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - Based on the comprehensive platform of 2API developed based on AntiHub, all code is open source, allowing Claude, Openai, Gemini, and AWS (Kiro) subscription packages to maximize their value and seamlessly use native tools.
 
 
-_Updated on March 19, 2026_ (A total of 2481 repositories listed.)
+**Others**
+ * [ai-job](https://github.com/yangfeng20/ai-job) - Looking for a job? Use AI Job Hunter! Let AI help you find a job! [DeepSeek+ChatGpt] Empowerment, AI assistant as your job seeker avatar, working 24/7 online to find a job for you, and customizing replies based on your resume information. Batch delivery, automatic resume sending, exchange of contact information. HR rejection retention. High intention email notification, so you don't miss any job opportunities. BOSS Direct Recruitment.
+
+
+_Updated on March 23, 2026_ (A total of 2485 repositories listed.)
 
 ## Table of contents
 
@@ -1821,6 +1824,7 @@ _Updated on March 19, 2026_ (A total of 2481 repositories listed.)
  * ⚠️ [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - ⭐ repo not found / Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)
  * 💤 [openai-kit](https://github.com/dylanshine/openai-kit) - ⭐ 734 / A community Swift package used to interact with the OpenAI API
  * ⚠️ [OpenAI](https://github.com/macpaw/openai) - ⭐ 2.9k / Swift community driven package for OpenAI public API
+ * [Unity-Skills](https://github.com/besty0728/unity-skills) - AI automation skills specifically designed for Unity
 
 
 ## Openai
@@ -2137,6 +2141,8 @@ _Updated on March 19, 2026_ (A total of 2481 repositories listed.)
  * 🔥 [MiroFlow](https://github.com/miromindai/miroflow) - ⭐ 2.8k / 🏆 Top-1 on 5+ benchmarks | Web UI | Supports MiroThinker, Claude, Kimi, OpenAI
  * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - 基于 Tauri 的跨平台桌面应用，用于管理多平台 AI 账号 Augment、Antigravity、Windsurf、Cursor、OpenAI（Codex、API）、Claude Code 与 API 账号，以及订阅、书签管理与邮箱管理。A Tauri-based cross-platform desktop app for managing multi-platform AI accounts (Augment, Antigravity, Windsurf, Cursor, OpenAI Codex
  * [onWatch](https://github.com/onllm-dev/onwatch) - Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.
+ * [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).
+ * [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - Based on the comprehensive platform of 2API developed based on AntiHub, all code is open source, allowing Claude, Openai, Gemini, and AWS (Kiro) subscription packages to maximize their value and seamlessly use native tools.
 
 
 ## Others
@@ -2582,5 +2588,6 @@ _Updated on March 19, 2026_ (A total of 2481 repositories listed.)
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 882 / One-stop Team account management
  * 🔥 [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 631 / Universal database MCP connector: supports 17 types of databases including MySQL, PostgreSQL, Oracle, MongoDB, etc., supports 50+ platforms such as Claude Desktop, Cursor, Windsurf, VS Code, ChatGPT, etc., for querying and analyzing data in natural language.
  * 🔥 [Dorothy](https://github.com/charlie85270/dorothy) - ⭐ 203 / Dorothy, the wife your AI agents needs.
+ * [ai-job](https://github.com/yangfeng20/ai-job) - Looking for a job? Use AI Job Hunter! Let AI help you find a job! [DeepSeek+ChatGpt] Empowerment, AI assistant as your job seeker avatar, working 24/7 online to find a job for you, and customizing replies based on your resume information. Batch delivery, automatic resume sending, exchange of contact information. HR rejection retention. High intention email notification, so you don't miss any job opportunities. BOSS Direct Recruitment.
 
 

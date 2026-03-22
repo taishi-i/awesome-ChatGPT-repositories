@@ -16,17 +16,20 @@
 
 ## The latest additions 🎉
 
-**CLIs**
- * [parllama](https://github.com/paulrobello/parllama) - オラマや他のLLMプロバイダー向けのTUI
- * [agents-radar](https://github.com/duanyytop/agents-radar) - トラッククロードコード、コーデックス、ジェミニCLI、OpenClawエコシステム、GitHub AIトレンド、およびAnthropic/OpenAIの更新。 GitHubアクションを介した毎日の中国語ダイジェスト。
+**Unity**
+ * [Unity-Skills](https://github.com/besty0728/unity-skills) - Unity向けに特別に設計されたAI自動化スキル
 
 
 **Openai**
- * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - Tauriをベースとしたクロスプラットフォームのデスクトップアプリケーションで、複数のプラットフォームのAIアカウント（Augment、Antigravity、Windsurf、Cursor、OpenAI Codex）およびサブスクリプション、ブックマーク管理、メール管理を管理します。
- * [onWatch](https://github.com/onllm-dev/onwatch) - Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。
+ * [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - AIがあなたのように考え、表現するようにします。このフレームワークは、元のチャット記録のノイズ処理から、複数のモデル適応層のシームレスな切り替え、ローカルな軽量な微調整（LoRA）まで、完全な組み立てラインを提供します。
+ * [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - AntiHub二開をベースにした2つのAPI総合プラットフォームは、全てのコードがオープンソースであり、Claude、Openai、Gemini、AWS(Kiro)のサブスクリプションプランを最大限に活用し、ネイティブツールをシームレスに使用できます。
 
 
-_Updated on March 19, 2026_ (A total of 2481 repositories listed.)
+**Others**
+ * [ai-job](https://github.com/yangfeng20/ai-job) - 仕事を探すなら、AIジョブハンターを使おう！AIに仕事探しを手伝わせよう！【DeepSeek+ChatGpt】の力で、AIアシスタントがあなたの代わりに24時間働き、履歴書情報を活用してカスタマイズされた返信を行います。一括応募、自動履歴書送信、連絡先の交換も可能です。HRの引き留めも拒否します。高い関心を持つメール通知で、どの仕事の機会も見逃しません。BOSS直聘【日本語訳】
+
+
+_Updated on March 23, 2026_ (A total of 2485 repositories listed.)
 
 ## Table of contents
 
@@ -1821,6 +1824,7 @@ _Updated on March 19, 2026_ (A total of 2481 repositories listed.)
  * ⚠️ [betterscan-ce](https://github.com/tcosolutions/betterscan-ce) - ⭐ repo not found / 多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）多くのツール/スキャナーを使用したコードスキャン/ SAST/ 静的解析/リンティング + OpenAI GPT との1つのレポート（コード、IaC）- Betterscan Community Edition（CE）
  * 💤 [openai-kit](https://github.com/dylanshine/openai-kit) - ⭐ 734 / OpenAI APIとやり取りするために使用されるコミュニティSwiftパッケージ
  * ⚠️ [OpenAI](https://github.com/macpaw/openai) - ⭐ 2.9k / OpenAI公開API向けのSwiftコミュニティ駆動パッケージ
+ * [Unity-Skills](https://github.com/besty0728/unity-skills) - Unity向けに特別に設計されたAI自動化スキル
 
 
 ## Openai
@@ -2137,6 +2141,8 @@ _Updated on March 19, 2026_ (A total of 2481 repositories listed.)
  * 🔥 [MiroFlow](https://github.com/miromindai/miroflow) - ⭐ 2.8k / 🏆 5つ以上のベンチマークでトップ1 | Web UI | MiroThinker、Claude、Kimi、OpenAIをサポート
  * [ai-tools-mng](https://github.com/cubezhao/ai-tools-mng) - Tauriをベースとしたクロスプラットフォームのデスクトップアプリケーションで、複数のプラットフォームのAIアカウント（Augment、Antigravity、Windsurf、Cursor、OpenAI Codex）およびサブスクリプション、ブックマーク管理、メール管理を管理します。
  * [onWatch](https://github.com/onllm-dev/onwatch) - Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。
+ * [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - AIがあなたのように考え、表現するようにします。このフレームワークは、元のチャット記録のノイズ処理から、複数のモデル適応層のシームレスな切り替え、ローカルな軽量な微調整（LoRA）まで、完全な組み立てラインを提供します。
+ * [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - AntiHub二開をベースにした2つのAPI総合プラットフォームは、全てのコードがオープンソースであり、Claude、Openai、Gemini、AWS(Kiro)のサブスクリプションプランを最大限に活用し、ネイティブツールをシームレスに使用できます。
 
 
 ## Others
@@ -2582,5 +2588,6 @@ _Updated on March 19, 2026_ (A total of 2481 repositories listed.)
  * 🔥 [chatgpt-team-helper](https://github.com/kylsky/chatgpt-team-helper) - ⭐ 882 / 一括Teamアカウント管理
  * 🔥 [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 631 / 汎用データベースMCPコネクタ：MySQL、PostgreSQL、Oracle、MongoDBなど17種類のデータベースをサポートし、Claude Desktop、Cursor、Windsurf、VS Code、ChatGPTなど50以上のプラットフォームをサポートし、自然言語でデータをクエリおよび分析します。
  * 🔥 [Dorothy](https://github.com/charlie85270/dorothy) - ⭐ 203 / ドロシー、あなたのAIエージェントが必要とする妻。ドロシー、あなたのAIエージェントが必要とする妻。
+ * [ai-job](https://github.com/yangfeng20/ai-job) - 仕事を探すなら、AIジョブハンターを使おう！AIに仕事探しを手伝わせよう！【DeepSeek+ChatGpt】の力で、AIアシスタントがあなたの代わりに24時間働き、履歴書情報を活用してカスタマイズされた返信を行います。一括応募、自動履歴書送信、連絡先の交換も可能です。HRの引き留めも拒否します。高い関心を持つメール通知で、どの仕事の機会も見逃しません。BOSS直聘【日本語訳】
 
 

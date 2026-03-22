@@ -42050,6 +42050,32 @@
                     "zh-hans": "Swift社区驱动的OpenAI公共API包",
                     "zh-hant": "Swift 社區驅動的 OpenAI 公共 API 套件"
                 }
+            },
+            "https://github.com/besty0728/unity-skills": {
+                "repository_name": "Unity-Skills",
+                "user_name": "Besty0728",
+                "language": "C#",
+                "license": "MIT License",
+                "description": "AI automation skills specifically designed for Unity",
+                "topics": [
+                    "ai",
+                    "antygravity-ai",
+                    "chatgpt",
+                    "claude",
+                    "claudecode",
+                    "codex",
+                    "gemini-cli",
+                    "geminicli",
+                    "skill",
+                    "unity",
+                    "unity3d"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI automation skills specifically designed for Unity",
+                    "ja": "Unity向けに特別に設計されたAI自動化スキル",
+                    "zh-hans": "专为Unity设计的AI自动化技能",
+                    "zh-hant": "專為Unity設計的AI自動化技能"
+                }
             }
         },
         "Openai": {
@@ -48810,6 +48836,47 @@
                     "ja": "Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。",
                     "zh-hans": "实时跟踪合成、Z.ai、人类学（克劳德代码）、Codex、GitHub Copilot和Antigravity的AI API配额。轻量级后台守护程序（<50MB RAM），SQLite存储，Material Design 3仪表板。零遥测。",
                     "zh-hant": "請即時追蹤Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot和Antigravity的AI API配額。輕量級背景守護程序（<50MB RAM）、SQLite存儲、Material Design 3儀表板。零遙測。"
+                }
+            },
+            "https://github.com/whyzhow/personalstyleai-framework-": {
+                "repository_name": "PersonalStyleAI-Framework-",
+                "user_name": "whyzhow",
+                "language": "Python",
+                "license": null,
+                "description": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
+                "topics": [
+                    "ai",
+                    "google",
+                    "ml",
+                    "openai",
+                    "python"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).",
+                    "ja": "AIがあなたのように考え、表現するようにします。このフレームワークは、元のチャット記録のノイズ処理から、複数のモデル適応層のシームレスな切り替え、ローカルな軽量な微調整（LoRA）まで、完全な組み立てラインを提供します。",
+                    "zh-hans": "让人工智能像您一样思考和表达。这个框架提供了一个完整的装配线：从原始聊天记录的噪音处理，到多模型适应层的无缝切换，再到本地轻量级微调（LoRA）。",
+                    "zh-hant": "讓人工智慧像您一樣思考和表達。這個框架提供了一個完整的組裝線：從原始聊天記錄的噪音處理，到多模型適應層的無縫切換，再到本地輕量級微調（LoRA）。"
+                }
+            },
+            "https://github.com/zhongruan0522/antihub-all": {
+                "repository_name": "AntiHub-ALL",
+                "user_name": "zhongruan0522",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "基于AntiHub二开的2API综合性平台，全代码开源，让 Claude、Openai 、Gemini、AWS(Kiro)的订阅套餐发挥最大价值，原生工具无缝使用。",
+                "topics": [
+                    "antigravity",
+                    "antihub",
+                    "codex-cli",
+                    "gemini",
+                    "gemini-cli",
+                    "kiro"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Based on the comprehensive platform of 2API developed based on AntiHub, all code is open source, allowing Claude, Openai, Gemini, and AWS (Kiro) subscription packages to maximize their value and seamlessly use native tools.",
+                    "ja": "AntiHub二開をベースにした2つのAPI総合プラットフォームは、全てのコードがオープンソースであり、Claude、Openai、Gemini、AWS(Kiro)のサブスクリプションプランを最大限に活用し、ネイティブツールをシームレスに使用できます。",
+                    "zh-hans": "基于AntiHub二开的2API综合性平台，全代码开源，让 Claude、Openai 、Gemini、AWS(Kiro)的订阅套餐发挥最大价值，原生工具无缝使用。",
+                    "zh-hant": "基於AntiHub二開的2API綜合性平臺，全代碼開源，讓 Claude、Openai 、Gemini、AWS(Kiro)的訂閱套餐發揮最大價值，原生工具無縫使用。"
                 }
             }
         },
@@ -57221,6 +57288,20 @@
                     "ja": "ドロシー、あなたのAIエージェントが必要とする妻。ドロシー、あなたのAIエージェントが必要とする妻。",
                     "zh-hans": "多萝西，你的AI代理需要的妻子。",
                     "zh-hant": "多蘿西，你的AI代理人需要的妻子。"
+                }
+            },
+            "https://github.com/yangfeng20/ai-job": {
+                "repository_name": "ai-job",
+                "user_name": "yangfeng20",
+                "language": "Java",
+                "license": null,
+                "description": "找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Looking for a job? Use AI Job Hunter! Let AI help you find a job! [DeepSeek+ChatGpt] Empowerment, AI assistant as your job seeker avatar, working 24/7 online to find a job for you, and customizing replies based on your resume information. Batch delivery, automatic resume sending, exchange of contact information. HR rejection retention. High intention email notification, so you don't miss any job opportunities. BOSS Direct Recruitment.",
+                    "ja": "仕事を探すなら、AIジョブハンターを使おう！AIに仕事探しを手伝わせよう！【DeepSeek+ChatGpt】の力で、AIアシスタントがあなたの代わりに24時間働き、履歴書情報を活用してカスタマイズされた返信を行います。一括応募、自動履歴書送信、連絡先の交換も可能です。HRの引き留めも拒否します。高い関心を持つメール通知で、どの仕事の機会も見逃しません。BOSS直聘【日本語訳】",
+                    "zh-hans": "找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘",
+                    "zh-hant": "尋找工作，使用AI工作獵手！讓AI幫您尋找工作！【DeepSeek+ChatGpt】賦能，ai助理作為您的求職者分身7*24小時在線尋找工作，並結合您的簡歷信息定制化回覆。批量投遞，自動發送簡歷，交換聯繫方式。hr拒絕挽留。高意向郵件通知，讓您不錯過每一份工作機會。BOSS直聘"
                 }
             }
         }
