@@ -700,6 +700,7 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
 
 ## Browser-extensions
 
+ * [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
  * 💤 [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - ⭐ 13k / Free 3DS Primary Entrypoint <=11.2
  * 💤 [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - ⭐ 21k / The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
  * ✅ [Gepetto](https://github.com/justicerage/gepetto) - ⭐ 3.4k / IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up reverse-engineering
