@@ -16,20 +16,21 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Unity**
- * [Unity-Skills](https://github.com/besty0728/unity-skills) - AI automation skills specifically designed for Unity
+**Prompts**
+ * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 
 
-**Openai**
- * [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).
- * [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - 基于AntiHub二开的2API综合性平台，全代码开源，让 Claude、Openai 、Gemini、AWS(Kiro)的订阅套餐发挥最大价值，原生工具无缝使用。
+**Browser-extensions**
+ * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - A useful plugin for the ChatGPT web platform, focusing on long conversation browsing, exporting, searching, prompt management, and timeline navigation. 🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航
+ * [HolyClaude](https://github.com/coderluii/holyclaude) - AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
 
 
-**Others**
- * [ai-job](https://github.com/yangfeng20/ai-job) - 找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘
+**CLIs**
+ * [nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.
+ * [forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 
 
-_Updated on March 23, 2026_ (A total of 2485 repositories listed.)
+_Updated on March 29, 2026_ (A total of 2492 repositories listed.)
 
 ## Table of contents
 
@@ -322,6 +323,7 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
  * ✅ [gollm](https://github.com/teilomillet/gollm) - ⭐ 641 / Unified Go interface for Language Model (LLM) providers. Simplifies LLM integration with flexible prompt management and common task functions.
  * ✅ [taskade](https://github.com/taskade/taskade) - ⭐ 8 / The AI-native workspace platform. Build apps, deploy agents, automate workflows — from one prompt.
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 430 / The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.
+ * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
 
 
 ## Chatbots
@@ -700,7 +702,6 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
 
 ## Browser-extensions
 
- * [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
  * 💤 [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - ⭐ 13k / Free 3DS Primary Entrypoint <=11.2
  * 💤 [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - ⭐ 21k / The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
  * ✅ [Gepetto](https://github.com/justicerage/gepetto) - ⭐ 3.4k / IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up reverse-engineering
@@ -945,6 +946,8 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
  * 🔥 [claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 5.2k / 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
  * 🔥 [lumen](https://github.com/omxyz/lumen) - ⭐ 39 / A vision-first browser agent with self-healing deterministic replay.
  * [GhidrAssist](https://github.com/symgraph/ghidrassist) - An LLM extension for Ghidra to enable AI assistance in RE.
+ * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - A useful plugin for the ChatGPT web platform, focusing on long conversation browsing, exporting, searching, prompt management, and timeline navigation. 🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航
+ * [HolyClaude](https://github.com/coderluii/holyclaude) - AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
 
 
 ## CLIs
@@ -1155,6 +1158,8 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
  * ⚠️ [burnrate](https://github.com/burnrate-dev/burnrate) - ⭐ repo not found / Homebrew tap for BurnRate — AI usage analytics CLI
  * [parllama](https://github.com/paulrobello/parllama) - TUI for Ollama and other LLM providers
  * [agents-radar](https://github.com/duanyytop/agents-radar) - Tracks Claude Code, Codex, Gemini CLI, OpenClaw ecosystem, GitHub AI trending, and Anthropic/OpenAI updates. Daily Chinese digests via GitHub Actions.
+ * [nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.
+ * [forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 
 
 ## Reimplementations
@@ -2147,7 +2152,7 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
 
 
 ## Others
- * [rewind-for-ai-chats](https://github.com/PME26Elvis/rewind-for-ai-chats) - Local-first archive and yearly recap for AI chats across ChatGPT, Grok, Gemini, and Claude.
+
  * 💤 [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - ⭐ 34k / Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * ⚠️ [nanoGPT](https://github.com/karpathy/nanogpt) - ⭐ 55k / The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * 🔥 [gpt_index](https://github.com/jerryjliu/gpt_index) - ⭐ 48k / Tensors and Dynamic neural networks in Python  with strong GPU acceleration

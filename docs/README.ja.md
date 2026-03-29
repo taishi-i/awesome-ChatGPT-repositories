@@ -16,20 +16,21 @@
 
 ## The latest additions 🎉
 
-**Unity**
- * [Unity-Skills](https://github.com/besty0728/unity-skills) - Unity向けに特別に設計されたAI自動化スキル
+**Prompts**
+ * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - プロンプトと有効なWeb Scraper API資格情報を提供することで、ChatGPTスクレイパーから簡単に回答を収集できます。
 
 
-**Openai**
- * [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - AIがあなたのように考え、表現するようにします。このフレームワークは、元のチャット記録のノイズ処理から、複数のモデル適応層のシームレスな切り替え、ローカルな軽量な微調整（LoRA）まで、完全な組み立てラインを提供します。
- * [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - AntiHub二開をベースにした2つのAPI総合プラットフォームは、全てのコードがオープンソースであり、Claude、Openai、Gemini、AWS(Kiro)のサブスクリプションプランを最大限に活用し、ネイティブツールをシームレスに使用できます。
+**Browser-extensions**
+ * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - ChatGPTウェブプラットフォーム用の便利なプラグインで、長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションに焦点を当てています。🚀|| ChatGPTの長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションを最適化します。
+ * [HolyClaude](https://github.com/coderluii/holyclaude) - AIコーディングワークステーション：クロードコード+ Web UI + 5つのAI CLI + ヘッドレスブラウザ + 50以上のツール
 
 
-**Others**
- * [ai-job](https://github.com/yangfeng20/ai-job) - 仕事を探すなら、AIジョブハンターを使おう！AIに仕事探しを手伝わせよう！【DeepSeek+ChatGpt】の力で、AIアシスタントがあなたの代わりに24時間働き、履歴書情報を活用してカスタマイズされた返信を行います。一括応募、自動履歴書送信、連絡先の交換も可能です。HRの引き留めも拒否します。高い関心を持つメール通知で、どの仕事の機会も見逃しません。BOSS直聘【日本語訳】
+**CLIs**
+ * [nexu](https://github.com/nexu-io/nexu) - OpenClaw 🦞の最もシンプルなデスクトップクライアント-1クリックでエージェントをWeChat、Feishu、Slack＆Discordに接続します。Claude Code、Codex＆任意のLLMと連携します。BYOK、Oauth、ローカルファースト、24時間365日、携帯電話からチャット可能。
+ * [forgecode](https://github.com/antinomyhq/forgecode) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
 
 
-_Updated on March 23, 2026_ (A total of 2485 repositories listed.)
+_Updated on March 29, 2026_ (A total of 2492 repositories listed.)
 
 ## Table of contents
 
@@ -322,6 +323,7 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
  * ✅ [gollm](https://github.com/teilomillet/gollm) - ⭐ 641 / 言語モデル（LLM）プロバイダー向けの統一されたGoインターフェース。柔軟なプロンプト管理と共通のタスク機能により、LLMの統合が簡素化されます。
  * ✅ [taskade](https://github.com/taskade/taskade) - ⭐ 8 / AIネイティブのワークスペースプラットフォーム。アプリを構築し、エージェントを展開し、ワークフローを自動化します。すべて1つのプロンプトから。
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 430 / AIエージェント向けのLinux OS-LLMのための永続的なメモリ、自律性、時間認識。状態を所有し、知性を借りる。
+ * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - プロンプトと有効なWeb Scraper API資格情報を提供することで、ChatGPTスクレイパーから簡単に回答を収集できます。
 
 
 ## Chatbots
@@ -944,6 +946,8 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
  * 🔥 [claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 5.2k / Claude Code、OpenAI Codex、およびOpenClaw向けの169の本番向けスキル＆プラグイン - エンジニアリング、マーケティング、プロダクト、コンプライアンス、Cレベルのアドバイザリーなど。 /プラグインマーケットプレイスを介してインストールしてください。
  * 🔥 [lumen](https://github.com/omxyz/lumen) - ⭐ 39 / 自己修復型の決定論的リプレイを備えたビジョンファーストブラウザーエージェント。
  * [GhidrAssist](https://github.com/symgraph/ghidrassist) - GhidraにAI支援を可能にするLLM拡張機能。
+ * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - ChatGPTウェブプラットフォーム用の便利なプラグインで、長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションに焦点を当てています。🚀|| ChatGPTの長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションを最適化します。
+ * [HolyClaude](https://github.com/coderluii/holyclaude) - AIコーディングワークステーション：クロードコード+ Web UI + 5つのAI CLI + ヘッドレスブラウザ + 50以上のツール
 
 
 ## CLIs
@@ -1154,6 +1158,8 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
  * ⚠️ [burnrate](https://github.com/burnrate-dev/burnrate) - ⭐ repo not found / BurnRate用のHomebrewタップ - AI利用分析CLI
  * [parllama](https://github.com/paulrobello/parllama) - オラマや他のLLMプロバイダー向けのTUI
  * [agents-radar](https://github.com/duanyytop/agents-radar) - トラッククロードコード、コーデックス、ジェミニCLI、OpenClawエコシステム、GitHub AIトレンド、およびAnthropic/OpenAIの更新。 GitHubアクションを介した毎日の中国語ダイジェスト。
+ * [nexu](https://github.com/nexu-io/nexu) - OpenClaw 🦞の最もシンプルなデスクトップクライアント-1クリックでエージェントをWeChat、Feishu、Slack＆Discordに接続します。Claude Code、Codex＆任意のLLMと連携します。BYOK、Oauth、ローカルファースト、24時間365日、携帯電話からチャット可能。
+ * [forgecode](https://github.com/antinomyhq/forgecode) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
 
 
 ## Reimplementations

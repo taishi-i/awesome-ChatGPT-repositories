@@ -16,20 +16,21 @@
 
 ## The latest additions 🎉
 
-**Unity**
- * [Unity-Skills](https://github.com/besty0728/unity-skills) - 专为Unity设计的AI自动化技能
+**Prompts**
+ * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - 通过提供提示以及有效的Web Scraper API凭据，轻松从ChatGPT爬虫中收集回复。
 
 
-**Openai**
- * [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - 让人工智能像您一样思考和表达。这个框架提供了一个完整的装配线：从原始聊天记录的噪音处理，到多模型适应层的无缝切换，再到本地轻量级微调（LoRA）。
- * [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - 基于AntiHub二开的2API综合性平台，全代码开源，让 Claude、Openai 、Gemini、AWS(Kiro)的订阅套餐发挥最大价值，原生工具无缝使用。
+**Browser-extensions**
+ * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - 一个针对ChatGPT网络平台的实用插件，专注于长对话浏览，导出，搜索，提示管理和时间线导航。🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航
+ * [HolyClaude](https://github.com/coderluii/holyclaude) - AI编码工作站：Claude Code + web UI + 5个AI CLI + 无头浏览器 + 50多种工具
 
 
-**Others**
- * [ai-job](https://github.com/yangfeng20/ai-job) - 找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘
+**CLIs**
+ * [nexu](https://github.com/nexu-io/nexu) - OpenClaw 🦞的最简单桌面客户端 - 一键将您的代理连接到微信、飞书、Slack和Discord。与Claude Code、Codex和任何LLM兼容。BYOK、Oauth、本地优先，随时随地从手机上聊天。
+ * [forgecode](https://github.com/antinomyhq/forgecode) - AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。
 
 
-_Updated on March 23, 2026_ (A total of 2485 repositories listed.)
+_Updated on March 29, 2026_ (A total of 2492 repositories listed.)
 
 ## Table of contents
 
@@ -322,6 +323,7 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
  * ✅ [gollm](https://github.com/teilomillet/gollm) - ⭐ 641 / 统一的Go接口，用于语言模型（LLM）提供商。简化LLM与灵活提示管理和常见任务功能的集成。
  * ✅ [taskade](https://github.com/taskade/taskade) - ⭐ 8 / AI原生工作空间平台。构建应用程序，部署代理，自动化工作流程 — 从一个提示。
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 430 / 为AI代理人设计的Linux操作系统-为任何LLM提供持久内存、自主性和时间感知。拥有状态。租用智能。
+ * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - 通过提供提示以及有效的Web Scraper API凭据，轻松从ChatGPT爬虫中收集回复。
 
 
 ## Chatbots
@@ -944,6 +946,8 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
  * 🔥 [claude-skills](https://github.com/alirezarezvani/claude-skills) - ⭐ 5.2k / 169个适用于Claude Code、OpenAI Codex和OpenClaw的生产就绪技能和插件 - 工程、营销、产品、合规、C级顾问等。通过/plugin市场安装。
  * 🔥 [lumen](https://github.com/omxyz/lumen) - ⭐ 39 / 一个以视觉为先的浏览器代理，具有自愈的确定性重放功能。
  * [GhidrAssist](https://github.com/symgraph/ghidrassist) - 一个用于Ghidra的LLM扩展，以实现在逆向工程中使用人工智能辅助。
+ * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - 一个针对ChatGPT网络平台的实用插件，专注于长对话浏览，导出，搜索，提示管理和时间线导航。🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航
+ * [HolyClaude](https://github.com/coderluii/holyclaude) - AI编码工作站：Claude Code + web UI + 5个AI CLI + 无头浏览器 + 50多种工具
 
 
 ## CLIs
@@ -1154,6 +1158,8 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
  * ⚠️ [burnrate](https://github.com/burnrate-dev/burnrate) - ⭐ repo not found / Homebrew tap for BurnRate — AI使用分析CLI
  * [parllama](https://github.com/paulrobello/parllama) - 奥拉玛和其他LLM提供商的TUI
  * [agents-radar](https://github.com/duanyytop/agents-radar) - 跟踪克劳德代码、Codex、Gemini CLI、OpenClaw生态系统、GitHub AI趋势以及Anthropic/OpenAI更新。每日中文摘要通过GitHub Actions。
+ * [nexu](https://github.com/nexu-io/nexu) - OpenClaw 🦞的最简单桌面客户端 - 一键将您的代理连接到微信、飞书、Slack和Discord。与Claude Code、Codex和任何LLM兼容。BYOK、Oauth、本地优先，随时随地从手机上聊天。
+ * [forgecode](https://github.com/antinomyhq/forgecode) - AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。
 
 
 ## Reimplementations
