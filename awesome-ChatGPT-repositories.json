@@ -6718,6 +6718,28 @@
                     "zh-hans": "为AI代理人设计的Linux操作系统-为任何LLM提供持久内存、自主性和时间感知。拥有状态。租用智能。",
                     "zh-hant": "為AI代理人設計的Linux操作系統-對於任何LLM來說，具有持久記憶、自主性和時間感知。擁有狀態。租用智能。"
                 }
+            },
+            "https://github.com/oxylabs/chatgpt-scraper": {
+                "repository_name": "chatgpt-scraper",
+                "user_name": "oxylabs",
+                "language": "Java",
+                "license": null,
+                "description": "Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-api",
+                    "chatgpt-free",
+                    "chatgpt-scraper",
+                    "llm-scraper",
+                    "openai-chatgpt",
+                    "proxy-scraper"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.",
+                    "ja": "プロンプトと有効なWeb Scraper API資格情報を提供することで、ChatGPTスクレイパーから簡単に回答を収集できます。",
+                    "zh-hans": "通过提供提示以及有效的Web Scraper API凭据，轻松从ChatGPT爬虫中收集回复。",
+                    "zh-hant": "通過提供提示以及有效的Web Scraper API憑證，輕鬆從ChatGPT刮取器中收集回應。"
+                }
             }
         },
         "Chatbots": {
@@ -21832,6 +21854,68 @@
                     "zh-hans": "一个用于Ghidra的LLM扩展，以实现在逆向工程中使用人工智能辅助。",
                     "zh-hant": "一個用於Ghidra的LLM擴展，以啟用AI輔助進行逆向工程。"
                 }
+            },
+            "https://github.com/bujue3709/chatgpt-long-conversation-optimization": {
+                "repository_name": "chatgpt-Long-conversation-optimization",
+                "user_name": "bujue3709",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "A useful plugin for the ChatGPT web platform, focusing on long conversation browsing, exporting, searching, prompt management, and timeline navigation. 🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航",
+                "topics": [
+                    "browser-extension",
+                    "chatgpt",
+                    "chatgpt-extension",
+                    "chrome-extension",
+                    "conversation",
+                    "export",
+                    "firefox-addon",
+                    "javascript",
+                    "long-conversation",
+                    "microsoft-edge",
+                    "openai",
+                    "performance",
+                    "prompt-management",
+                    "search",
+                    "timeline",
+                    "toolkit",
+                    "web-extension"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A useful plugin for the ChatGPT web platform, focusing on long conversation browsing, exporting, searching, prompt management, and timeline navigation. 🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航",
+                    "ja": "ChatGPTウェブプラットフォーム用の便利なプラグインで、長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションに焦点を当てています。🚀|| ChatGPTの長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションを最適化します。",
+                    "zh-hans": "一个针对ChatGPT网络平台的实用插件，专注于长对话浏览，导出，搜索，提示管理和时间线导航。🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航",
+                    "zh-hant": "一個針對ChatGPT網頁平台的實用插件，專注於長對話瀏覽、導出、搜索、提示管理和時間軸導航。🚀||優化ChatGPT長對話卡頓，聊天記錄一鍵導出，消息搜索跳轉，對話管理，prompt管理和時間線導航"
+                }
+            },
+            "https://github.com/coderluii/holyclaude": {
+                "repository_name": "HolyClaude",
+                "user_name": "CoderLuii",
+                "language": "Dockerfile",
+                "license": "MIT License",
+                "description": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
+                "topics": [
+                    "ai",
+                    "ai-coding",
+                    "anthropic",
+                    "claude",
+                    "claude-code",
+                    "coding-agent",
+                    "container",
+                    "developer-tools",
+                    "devtools",
+                    "docker",
+                    "docker-compose",
+                    "gemini",
+                    "headless-browser",
+                    "openai",
+                    "playwright"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools",
+                    "ja": "AIコーディングワークステーション：クロードコード+ Web UI + 5つのAI CLI + ヘッドレスブラウザ + 50以上のツール",
+                    "zh-hans": "AI编码工作站：Claude Code + web UI + 5个AI CLI + 无头浏览器 + 50多种工具",
+                    "zh-hant": "AI編碼工作站：Claude Code + web UI + 5個AI CLI + 無頭瀏覽器 + 50多種工具"
+                }
             }
         },
         "CLIs": {
@@ -26812,6 +26896,71 @@
                     "ja": "トラッククロードコード、コーデックス、ジェミニCLI、OpenClawエコシステム、GitHub AIトレンド、およびAnthropic/OpenAIの更新。 GitHubアクションを介した毎日の中国語ダイジェスト。",
                     "zh-hans": "跟踪克劳德代码、Codex、Gemini CLI、OpenClaw生态系统、GitHub AI趋势以及Anthropic/OpenAI更新。每日中文摘要通过GitHub Actions。",
                     "zh-hant": "蹤跡克勞德代碼、Codex、雙子座CLI、OpenClaw生態系統、GitHub AI趨勢和Anthropic/OpenAI更新。每日中文摘要通過GitHub操作。"
+                }
+            },
+            "https://github.com/nexu-io/nexu": {
+                "repository_name": "nexu",
+                "user_name": "nexu-io",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
+                "topics": [
+                    "ai-agent",
+                    "byok",
+                    "chatgpt",
+                    "claude",
+                    "claude-code",
+                    "clawbot",
+                    "codex",
+                    "discord",
+                    "feishu",
+                    "llm",
+                    "open-source",
+                    "openclaw",
+                    "openclaw-desktop",
+                    "openclaw-feishu",
+                    "openclaw-slack",
+                    "openclaw-wechat",
+                    "openclaw-weixin",
+                    "skills",
+                    "slack"
+                ],
+                "multilingual_descriptions": {
+                    "en": "The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.",
+                    "ja": "OpenClaw 🦞の最もシンプルなデスクトップクライアント-1クリックでエージェントをWeChat、Feishu、Slack＆Discordに接続します。Claude Code、Codex＆任意のLLMと連携します。BYOK、Oauth、ローカルファースト、24時間365日、携帯電話からチャット可能。",
+                    "zh-hans": "OpenClaw 🦞的最简单桌面客户端 - 一键将您的代理连接到微信、飞书、Slack和Discord。与Claude Code、Codex和任何LLM兼容。BYOK、Oauth、本地优先，随时随地从手机上聊天。",
+                    "zh-hant": "OpenClaw 🦞的最簡單桌面客戶端-一鍵將您的代理橋接到微信、飛書、Slack和Discord。與Claude Code、Codex和任何LLM兼容。BYOK、Oauth、本地優先，隨時隨地從您的手機上聊天24/7。"
+                }
+            },
+            "https://github.com/antinomyhq/forgecode": {
+                "repository_name": "forgecode",
+                "user_name": "antinomyhq",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+                "topics": [
+                    "ai-pair-programming",
+                    "ai-workflows",
+                    "artifical-intelligense",
+                    "claude-3-7-sonnet",
+                    "claude-4",
+                    "claude-4-sonnet",
+                    "cli-assistant",
+                    "command-line",
+                    "grok",
+                    "llm",
+                    "multi-agent-reinforcement-learning",
+                    "open-router",
+                    "open-source-claude-code",
+                    "openai",
+                    "qwen",
+                    "shell"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+                    "ja": "クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー",
+                    "zh-hans": "AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。",
+                    "zh-hant": "AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。"
                 }
             }
         },
