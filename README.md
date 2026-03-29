@@ -2147,7 +2147,7 @@ _Updated on March 23, 2026_ (A total of 2485 repositories listed.)
 
 
 ## Others
-
+ * [rewind-for-ai-chats](https://github.com/PME26Elvis/rewind-for-ai-chats) - Local-first archive and yearly recap for AI chats across ChatGPT, Grok, Gemini, and Claude.
  * 💤 [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - ⭐ 34k / Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * ⚠️ [nanoGPT](https://github.com/karpathy/nanogpt) - ⭐ 55k / The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * 🔥 [gpt_index](https://github.com/jerryjliu/gpt_index) - ⭐ 48k / Tensors and Dynamic neural networks in Python  with strong GPU acceleration
