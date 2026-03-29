@@ -698,6 +698,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [clawpanel](https://github.com/qingchencloud/clawpanel) - ⭐ 1.1k / 🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition
  * 🔥 [AskePub](https://github.com/geiserx/askepub) - ⭐ 0 / This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 314k / Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+ * [locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.
 
 
 ## Browser-extensions
