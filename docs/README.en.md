@@ -17,20 +17,22 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## The latest additions 🎉
 
 **Prompts**
- * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
+ * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 Comprehensive guide, papers, lectures, notebooks, and resources on prompt engineering (prompt) (automatically updated)
 
 
-**Browser-extensions**
- * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - A useful plugin for the ChatGPT web platform, focusing on long conversation browsing, exporting, searching, prompt management, and timeline navigation. 🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航
- * [HolyClaude](https://github.com/coderluii/holyclaude) - AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
+**Chatbots**
+ * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
 
 
-**CLIs**
- * [nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7.
- * [forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+**Langchain**
+ * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.
 
 
-_Updated on March 29, 2026_ (A total of 2492 repositories listed.)
+**Others**
+ * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - Rewind for AI Chats is a local-first archive and rewind app for ChatGPT, Gemini, Claude, and Grok, with MHTML / JSON import, analytics, and shareable recap cards.
+
+
+_Updated on April 01, 2026_ (A total of 2494 repositories listed.)
 
 ## Table of contents
 
@@ -324,6 +326,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * ✅ [taskade](https://github.com/taskade/taskade) - ⭐ 8 / The AI-native workspace platform. Build apps, deploy agents, automate workflows — from one prompt.
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 430 / The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.
  * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
+ * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 Comprehensive guide, papers, lectures, notebooks, and resources on prompt engineering (prompt) (automatically updated)
 
 
 ## Chatbots
@@ -698,6 +701,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [clawpanel](https://github.com/qingchencloud/clawpanel) - ⭐ 1.1k / 🦀 OpenClaw 可视化管理面板 — 内置 AI 助手（工具调用 + 图片识别 + 多模态），一键安装配置，跨平台桌面应用 | Built-in AI Assistant with tool calling & image recognition
  * 🔥 [AskePub](https://github.com/geiserx/askepub) - ⭐ 0 / This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 314k / Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+ * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
 
 
 ## Browser-extensions
@@ -1810,6 +1814,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [honcho](https://github.com/plastic-labs/honcho) - ⭐ 519 / Memory library for building stateful agents
  * 🔥 [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - ⭐ 596 / OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.
  * 🔥 [headroom](https://github.com/chopratejas/headroom) - ⭐ 737 / The Context Optimization Layer for LLM Applications
+ * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.
 
 
 ## Unity
@@ -2595,5 +2600,6 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 631 / Universal database MCP connector: supports 17 types of databases including MySQL, PostgreSQL, Oracle, MongoDB, etc., supports 50+ platforms such as Claude Desktop, Cursor, Windsurf, VS Code, ChatGPT, etc., for querying and analyzing data in natural language.
  * 🔥 [Dorothy](https://github.com/charlie85270/dorothy) - ⭐ 203 / Dorothy, the wife your AI agents needs.
  * [ai-job](https://github.com/yangfeng20/ai-job) - Looking for a job? Use AI Job Hunter! Let AI help you find a job! [DeepSeek+ChatGpt] Empowerment, AI assistant as your job seeker avatar, working 24/7 online to find a job for you, and customizing replies based on your resume information. Batch delivery, automatic resume sending, exchange of contact information. HR rejection retention. High intention email notification, so you don't miss any job opportunities. BOSS Direct Recruitment.
+ * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - JSON import, analytics, and shareable recap cards.
 
 

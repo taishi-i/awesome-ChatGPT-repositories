@@ -17,20 +17,22 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - プロンプトと有効なWeb Scraper API資格情報を提供することで、ChatGPTスクレイパーから簡単に回答を収集できます。
+ * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 プロンプトエンジニアリングに関するガイド、論文、講義、ノート、およびリソースの完全版（自動更新）
 
 
-**Browser-extensions**
- * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - ChatGPTウェブプラットフォーム用の便利なプラグインで、長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションに焦点を当てています。🚀|| ChatGPTの長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションを最適化します。
- * [HolyClaude](https://github.com/coderluii/holyclaude) - AIコーディングワークステーション：クロードコード+ Web UI + 5つのAI CLI + ヘッドレスブラウザ + 50以上のツール
+**Chatbots**
+ * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - OpenClawのためのリアルタイムWebコックピット：音声会話、エージェント自動化されたかんばんボード、ワークスペース/ファイル制御、サブエージェントセッション、インラインチャート、利用状況の可視化。
 
 
-**CLIs**
- * [nexu](https://github.com/nexu-io/nexu) - OpenClaw 🦞の最もシンプルなデスクトップクライアント-1クリックでエージェントをWeChat、Feishu、Slack＆Discordに接続します。Claude Code、Codex＆任意のLLMと連携します。BYOK、Oauth、ローカルファースト、24時間365日、携帯電話からチャット可能。
- * [forgecode](https://github.com/antinomyhq/forgecode) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
+**Langchain**
+ * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - オールインワンのローカルAIアプリ。検閲されていないチャット、画像生成、ビデオ作成 — オフライン、プライベート、美しい。Ollama＆ComfyUIによって動作します。
 
 
-_Updated on March 29, 2026_ (A total of 2492 repositories listed.)
+**Others**
+ * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - AIチャットのリワインドは、ChatGPT、Gemini、Claude、およびGrok向けのローカルファーストアーカイブおよびリワインドアプリで、MHTML / JSONのインポート、アナリティクス、共有可能なリキャップカードを備えています。
+
+
+_Updated on April 01, 2026_ (A total of 2494 repositories listed.)
 
 ## Table of contents
 
@@ -324,6 +326,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * ✅ [taskade](https://github.com/taskade/taskade) - ⭐ 8 / AIネイティブのワークスペースプラットフォーム。アプリを構築し、エージェントを展開し、ワークフローを自動化します。すべて1つのプロンプトから。
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 430 / AIエージェント向けのLinux OS-LLMのための永続的なメモリ、自律性、時間認識。状態を所有し、知性を借りる。
  * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - プロンプトと有効なWeb Scraper API資格情報を提供することで、ChatGPTスクレイパーから簡単に回答を収集できます。
+ * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 プロンプトエンジニアリングに関するガイド、論文、講義、ノート、およびリソースの完全版（自動更新）
 
 
 ## Chatbots
@@ -698,6 +701,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [clawpanel](https://github.com/qingchencloud/clawpanel) - ⭐ 1.1k / 🦀 OpenClaw ビジュアル管理パネル - ツール呼び出しと画像認識を備えた組み込みAIアシスタント、ワンクリックインストール構成、クロスプラットフォームデスクトップアプリ | 工具呼び出しと画像認識を備えた組み込みAIアシスタント
  * 🔥 [AskePub](https://github.com/geiserx/askepub) - ⭐ 0 / このプロジェクトは、ePubの準備を手伝うTelegramボットアシスタントです。ChatGPT-4oを使用して、文脈に沿ったメモを書きます。
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 314k / あなた自身の個人用AIアシスタント。どんなOSでも。どんなプラットフォームでも。ロブスターのやり方。🦞
+ * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - OpenClawのためのリアルタイムWebコックピット：音声会話、エージェント自動化されたかんばんボード、ワークスペース/ファイル制御、サブエージェントセッション、インラインチャート、利用状況の可視化。
 
 
 ## Browser-extensions
@@ -1810,6 +1814,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [honcho](https://github.com/plastic-labs/honcho) - ⭐ 519 / 状態を持つエージェントを構築するためのメモリライブラリ
  * 🔥 [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - ⭐ 596 / OpenAIとAnthropic互換のApple Silicon用サーバー。LLMsとビジョン言語モデル（Llama、Qwen-VL、LLaVA）を連続バッチ処理、MCPツール呼び出し、およびマルチモーダルサポートで実行します。ネイティブMLXバックエンド、400以上のトーク/秒。Claude Codeと連携します。
  * 🔥 [headroom](https://github.com/chopratejas/headroom) - ⭐ 737 / LLMアプリケーションのコンテキスト最適化レイヤー
+ * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - オールインワンのローカルAIアプリ。検閲されていないチャット、画像生成、ビデオ作成 — オフライン、プライベート、美しい。Ollama＆ComfyUIによって動作します。
 
 
 ## Unity
@@ -2595,5 +2600,6 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 631 / 汎用データベースMCPコネクタ：MySQL、PostgreSQL、Oracle、MongoDBなど17種類のデータベースをサポートし、Claude Desktop、Cursor、Windsurf、VS Code、ChatGPTなど50以上のプラットフォームをサポートし、自然言語でデータをクエリおよび分析します。
  * 🔥 [Dorothy](https://github.com/charlie85270/dorothy) - ⭐ 203 / ドロシー、あなたのAIエージェントが必要とする妻。ドロシー、あなたのAIエージェントが必要とする妻。
  * [ai-job](https://github.com/yangfeng20/ai-job) - 仕事を探すなら、AIジョブハンターを使おう！AIに仕事探しを手伝わせよう！【DeepSeek+ChatGpt】の力で、AIアシスタントがあなたの代わりに24時間働き、履歴書情報を活用してカスタマイズされた返信を行います。一括応募、自動履歴書送信、連絡先の交換も可能です。HRの引き留めも拒否します。高い関心を持つメール通知で、どの仕事の機会も見逃しません。BOSS直聘【日本語訳】
+ * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - JSONのインポート、アナリティクス、共有可能なリキャップカードを備えています。
 
 

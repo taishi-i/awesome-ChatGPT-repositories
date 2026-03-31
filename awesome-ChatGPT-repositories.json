@@ -6740,6 +6740,27 @@
                     "zh-hans": "通过提供提示以及有效的Web Scraper API凭据，轻松从ChatGPT爬虫中收集回复。",
                     "zh-hant": "通過提供提示以及有效的Web Scraper API憑證，輕鬆從ChatGPT刮取器中收集回應。"
                 }
+            },
+            "https://github.com/yunwei37/prompt-engineering-guide-zh-cn": {
+                "repository_name": "Prompt-Engineering-Guide-zh-CN",
+                "user_name": "yunwei37",
+                "language": "MDX",
+                "license": "Other",
+                "description": "🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）",
+                "topics": [
+                    "chatgpt",
+                    "gpt",
+                    "gpt4",
+                    "openai",
+                    "prompt",
+                    "prompt-engineering"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🐙 Comprehensive guide, papers, lectures, notebooks, and resources on prompt engineering (prompt) (automatically updated)",
+                    "ja": "🐙 プロンプトエンジニアリングに関するガイド、論文、講義、ノート、およびリソースの完全版（自動更新）",
+                    "zh-hans": "🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）",
+                    "zh-hant": "🐙 關於提示詞工程（prompt）的指南、論文、講座、筆記本和資源大全（自動持續更新）"
+                }
             }
         },
         "Chatbots": {
@@ -16062,6 +16083,34 @@
                     "ja": "あなた自身の個人用AIアシスタント。どんなOSでも。どんなプラットフォームでも。ロブスターのやり方。🦞",
                     "zh-hans": "您自己的个人AI助手。任何操作系统。任何平台。龙虾方式。🦞",
                     "zh-hant": "您自己的個人AI助手。任何操作系統。任何平台。龍蝦方式。🦞"
+                }
+            },
+            "https://github.com/daggerhashimoto/openclaw-nerve": {
+                "repository_name": "openclaw-nerve",
+                "user_name": "daggerhashimoto",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
+                "topics": [
+                    "ai-agent",
+                    "claude",
+                    "clawbot",
+                    "dashboard",
+                    "mission-control",
+                    "open-source",
+                    "openai",
+                    "openclaw",
+                    "openclaw-dashboard",
+                    "openclaw-ui",
+                    "self-hosted",
+                    "voice",
+                    "web-ui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.",
+                    "ja": "OpenClawのためのリアルタイムWebコックピット：音声会話、エージェント自動化されたかんばんボード、ワークスペース/ファイル制御、サブエージェントセッション、インラインチャート、利用状況の可視化。",
+                    "zh-hans": "OpenClaw的实时网络驾驶舱：语音对话，代理自动看板，工作空间/文件控制，子代理会话，内联图表和使用可见性。",
+                    "zh-hant": "OpenClaw的實時網絡座艙：語音對話、代理自動看板、工作空間/文件控制、子代理會話、內嵌圖表和使用情況可見度。"
                 }
             }
         },
@@ -41853,6 +41902,39 @@
                     "zh-hans": "用于LLM应用程序的上下文优化层",
                     "zh-hant": "用於LLM應用程序的上下文優化層"
                 }
+            },
+            "https://github.com/purpledoubled/locally-uncensored": {
+                "repository_name": "locally-uncensored",
+                "user_name": "PurpleDoubleD",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.",
+                "topics": [
+                    "abliterated",
+                    "ai",
+                    "ai-chat",
+                    "comfyui",
+                    "image-generation",
+                    "llm",
+                    "local-ai",
+                    "local-llm",
+                    "offline",
+                    "ollama",
+                    "open-source",
+                    "privacy",
+                    "react",
+                    "self-hosted",
+                    "stable-diffusion",
+                    "typescript",
+                    "uncensored",
+                    "video-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.",
+                    "ja": "オールインワンのローカルAIアプリ。検閲されていないチャット、画像生成、ビデオ作成 — オフライン、プライベート、美しい。Ollama＆ComfyUIによって動作します。",
+                    "zh-hans": "一体化本地AI应用。无审查的聊天，图像生成和视频创作 - 离线，私密，美观。由Ollama和ComfyUI提供动力。",
+                    "zh-hant": "一體化本地AI應用程式。無審查的聊天、圖像生成和視頻創建-離線、私密、美觀。由Ollama和ComfyUI提供動力。"
+                }
             }
         },
         "Unity": {
@@ -57451,6 +57533,34 @@
                     "ja": "仕事を探すなら、AIジョブハンターを使おう！AIに仕事探しを手伝わせよう！【DeepSeek+ChatGpt】の力で、AIアシスタントがあなたの代わりに24時間働き、履歴書情報を活用してカスタマイズされた返信を行います。一括応募、自動履歴書送信、連絡先の交換も可能です。HRの引き留めも拒否します。高い関心を持つメール通知で、どの仕事の機会も見逃しません。BOSS直聘【日本語訳】",
                     "zh-hans": "找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘",
                     "zh-hant": "尋找工作，使用AI工作獵手！讓AI幫您尋找工作！【DeepSeek+ChatGpt】賦能，ai助理作為您的求職者分身7*24小時在線尋找工作，並結合您的簡歷信息定制化回覆。批量投遞，自動發送簡歷，交換聯繫方式。hr拒絕挽留。高意向郵件通知，讓您不錯過每一份工作機會。BOSS直聘"
+                }
+            },
+            "https://github.com/pme26elvis/rewind-for-ai-chats": {
+                "repository_name": "rewind-for-ai-chats",
+                "user_name": "PME26Elvis",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "Rewind for AI Chats is a local-first archive and rewind app for ChatGPT, Gemini, Claude, and Grok, with MHTML / JSON import, analytics, and shareable recap cards.",
+                "topics": [
+                    "ai-chat",
+                    "analytics-dashboard",
+                    "chatgpt",
+                    "claude",
+                    "conversation-archive",
+                    "gemini",
+                    "grok",
+                    "local-first",
+                    "mhtml",
+                    "rewind",
+                    "sqlite",
+                    "tampermonkey",
+                    "userscript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Rewind for AI Chats is a local-first archive and rewind app for ChatGPT, Gemini, Claude, and Grok, with MHTML / JSON import, analytics, and shareable recap cards.",
+                    "ja": "AIチャットのリワインドは、ChatGPT、Gemini、Claude、およびGrok向けのローカルファーストアーカイブおよびリワインドアプリで、MHTML / JSONのインポート、アナリティクス、共有可能なリキャップカードを備えています。",
+                    "zh-hans": "Rewind for AI Chats 是一个本地优先的存档和倒带应用程序，适用于 ChatGPT、Gemini、Claude 和 Grok，支持 MHTML / JSON 导入、分析和可分享的总结卡片。",
+                    "zh-hant": "Rewind for AI Chats 是一個本地優先的存檔和倒帶應用程式，適用於 ChatGPT、Gemini、Claude 和 Grok，具有 MHTML / JSON 導入、分析和可分享的回顧卡片。"
                 }
             }
         }

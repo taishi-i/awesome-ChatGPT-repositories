@@ -17,20 +17,22 @@
 ## The latest additions 🎉
 
 **Prompts**
- * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - 通過提供提示以及有效的Web Scraper API憑證，輕鬆從ChatGPT刮取器中收集回應。
+ * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 關於提示詞工程（prompt）的指南、論文、講座、筆記本和資源大全（自動持續更新）
 
 
-**Browser-extensions**
- * [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - 一個針對ChatGPT網頁平台的實用插件，專注於長對話瀏覽、導出、搜索、提示管理和時間軸導航。🚀||優化ChatGPT長對話卡頓，聊天記錄一鍵導出，消息搜索跳轉，對話管理，prompt管理和時間線導航
- * [HolyClaude](https://github.com/coderluii/holyclaude) - AI編碼工作站：Claude Code + web UI + 5個AI CLI + 無頭瀏覽器 + 50多種工具
+**Chatbots**
+ * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - OpenClaw的實時網絡座艙：語音對話、代理自動看板、工作空間/文件控制、子代理會話、內嵌圖表和使用情況可見度。
 
 
-**CLIs**
- * [nexu](https://github.com/nexu-io/nexu) - OpenClaw 🦞的最簡單桌面客戶端-一鍵將您的代理橋接到微信、飛書、Slack和Discord。與Claude Code、Codex和任何LLM兼容。BYOK、Oauth、本地優先，隨時隨地從您的手機上聊天24/7。
- * [forgecode](https://github.com/antinomyhq/forgecode) - AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。
+**Langchain**
+ * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - 一體化本地AI應用程式。無審查的聊天、圖像生成和視頻創建-離線、私密、美觀。由Ollama和ComfyUI提供動力。
 
 
-_Updated on March 29, 2026_ (A total of 2492 repositories listed.)
+**Others**
+ * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - Rewind for AI Chats 是一個本地優先的存檔和倒帶應用程式，適用於 ChatGPT、Gemini、Claude 和 Grok，具有 MHTML / JSON 導入、分析和可分享的回顧卡片。
+
+
+_Updated on April 01, 2026_ (A total of 2494 repositories listed.)
 
 ## Table of contents
 
@@ -324,6 +326,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * ✅ [taskade](https://github.com/taskade/taskade) - ⭐ 8 / AI原生工作空間平台。從一個提示建立應用程式，部署代理，自動化工作流程。
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 430 / 為AI代理人設計的Linux操作系統-對於任何LLM來說，具有持久記憶、自主性和時間感知。擁有狀態。租用智能。
  * [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - 通過提供提示以及有效的Web Scraper API憑證，輕鬆從ChatGPT刮取器中收集回應。
+ * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 關於提示詞工程（prompt）的指南、論文、講座、筆記本和資源大全（自動持續更新）
 
 
 ## Chatbots
@@ -698,6 +701,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [clawpanel](https://github.com/qingchencloud/clawpanel) - ⭐ 1.1k / 🦀 OpenClaw 可視化管理面板 — 內置 AI 助手（工具調用 + 圖片識別 + 多模態），一鍵安裝配置，跨平台桌面應用 | 內置 AI 助手，具有工具調用和圖片識別功能
  * 🔥 [AskePub](https://github.com/geiserx/askepub) - ⭐ 0 / 這個項目是一個Telegram機器人助手，幫助您準備ePub。它使用ChatGPT-4o來撰寫上下文註釋。
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 314k / 您自己的個人AI助手。任何操作系統。任何平台。龍蝦方式。🦞
+ * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - OpenClaw的實時網絡座艙：語音對話、代理自動看板、工作空間/文件控制、子代理會話、內嵌圖表和使用情況可見度。
 
 
 ## Browser-extensions
@@ -1810,6 +1814,7 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [honcho](https://github.com/plastic-labs/honcho) - ⭐ 519 / 建立有狀態代理的記憶庫
  * 🔥 [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - ⭐ 596 / OpenAI和Anthropic兼容的Apple Silicon服务器。运行LLMs和视觉语言模型（Llama，Qwen-VL，LLaVA），支持连续批处理，MCP工具调用和多模态支持。本地MLX后端，每秒400个令牌。与Claude Code配合使用。
  * 🔥 [headroom](https://github.com/chopratejas/headroom) - ⭐ 737 / 用於LLM應用程序的上下文優化層
+ * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - 一體化本地AI應用程式。無審查的聊天、圖像生成和視頻創建-離線、私密、美觀。由Ollama和ComfyUI提供動力。
 
 
 ## Unity
@@ -2595,5 +2600,6 @@ _Updated on March 29, 2026_ (A total of 2492 repositories listed.)
  * 🔥 [universal-db-mcp](https://github.com/anarkh-lee/universal-db-mcp) - ⭐ 631 / 通用數據庫 MCP 連接器：支援 MySQL、PostgreSQL、Oracle、MongoDB 等 17 種數據庫，支援 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然語言查詢和分析數據
  * 🔥 [Dorothy](https://github.com/charlie85270/dorothy) - ⭐ 203 / 多蘿西，你的AI代理人需要的妻子。
  * [ai-job](https://github.com/yangfeng20/ai-job) - 尋找工作，使用AI工作獵手！讓AI幫您尋找工作！【DeepSeek+ChatGpt】賦能，ai助理作為您的求職者分身7*24小時在線尋找工作，並結合您的簡歷信息定制化回覆。批量投遞，自動發送簡歷，交換聯繫方式。hr拒絕挽留。高意向郵件通知，讓您不錯過每一份工作機會。BOSS直聘
+ * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - JSON 導入、分析和可分享的回顧卡片。
 
 
