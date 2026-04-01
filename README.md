@@ -1166,6 +1166,7 @@ _Updated on April 01, 2026_ (A total of 2494 repositories listed.)
  * [forgecode](https://github.com/antinomyhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 
 
+ * [operant-mcp](https://github.com/operantlabs/operant-mcp) - Open-source MCP server with 51 security testing tools for pentesting, vulnerability scanning, and security auditing
 ## Reimplementations
 
  * ⚠️ [PaLM-rlhf-pytorch](https://github.com/lucidrains/palm-rlhf-pytorch) - ⭐ repo not found / Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
