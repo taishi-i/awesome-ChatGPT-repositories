@@ -27011,6 +27011,44 @@
                     "zh-hans": "AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。",
                     "zh-hant": "AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。"
                 }
+            },
+            "https://github.com/gitlawb/openclaude": {
+                "repository_name": "openclaude",
+                "user_name": "Gitlawb",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
+                    "ja": "Open Claudeは、OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHubモデル、およびOpenAI互換のAPIを介して200以上のモデルのためのオープンソースのコーディングエージェントCLIです。Open Claudeは、OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHubモデル、およびOpenAI互換のAPIを介して200以上のモデルをサポートするオープンソースのコーディングエージェントCLIです。",
+                    "zh-hans": "Open Claude是一个开源的编码代理CLI，可用于OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型以及通过OpenAI兼容API访问的200多个模型。",
+                    "zh-hant": "Open Claude是一個開源編碼代理CLI，可用於OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型，以及通過OpenAI兼容API連接的200多個模型。Open Claude是一個開源編碼代理CLI，可用於OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型，以及通過OpenAI兼容API連接的200多個模型。"
+                }
+            },
+            "https://github.com/atmosphere/atmosphere": {
+                "repository_name": "atmosphere",
+                "user_name": "Atmosphere",
+                "language": "Java",
+                "license": "Apache License 2.0",
+                "description": "Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client.",
+                "topics": [
+                    "agentic-ai",
+                    "event-driven",
+                    "java",
+                    "mcp",
+                    "quarkus",
+                    "spring-boot",
+                    "sse",
+                    "streaming",
+                    "websocket"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client.",
+                    "ja": "Java AIエージェント用のリアルタイムトランスポートレイヤー。@Agentで一度ビルドし、WebSocket、SSE、gRPC、MCP、A2A、AG-UI、または任意のトランスポートで配信します。Spring AI、LangChain4j、Google ADK、Embabel、Koog、または組み込みのOpenAI互換クライアントと連携します。",
+                    "zh-hans": "用于Java AI代理的实时传输层。 使用@Agent构建一次-通过WebSocket，SSE，gRPC，MCP，A2A，AG-UI或任何传输方式交付。 与Spring AI，LangChain4j，Google ADK，Embabel，Koog或内置的OpenAI兼容客户端一起使用。",
+                    "zh-hant": "Java AI代理的即時傳輸層。使用@Agent一次建立-通過WebSocket、SSE、gRPC、MCP、A2A、AG-UI或任何傳輸方式交付。與Spring AI、LangChain4j、Google ADK、Embabel、Koog或內置的OpenAI兼容客戶端一起使用。"
+                }
             }
         },
         "Reimplementations": {
@@ -37514,6 +37552,36 @@
                     "ja": "あなたと共に成長するエージェント",
                     "zh-hans": "随着你成长的代理商",
                     "zh-hant": "與您一同成長的代理商"
+                }
+            },
+            "https://github.com/jackchen-me/open-multi-agent": {
+                "repository_name": "open-multi-agent",
+                "user_name": "JackChen-me",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
+                "topics": [
+                    "agent-framework",
+                    "ai-agents",
+                    "anthropic",
+                    "claude",
+                    "llm",
+                    "model-agnostic",
+                    "multi-agent",
+                    "nodejs",
+                    "ollama",
+                    "openai",
+                    "orchestration",
+                    "structured-output",
+                    "task-scheduling",
+                    "tool-use",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
+                    "ja": "TypeScriptマルチエージェントフレームワーク-ゴールから結果までの1つのrunTeam()呼び出し。自動タスク分解、並列実行。3つの依存関係、Node.jsが実行される場所に展開可能。",
+                    "zh-hans": "TypeScript多代理框架 - 从目标到结果只需一个runTeam()调用。自动任务分解，并行执行。3个依赖项，可部署在Node.js运行的任何地方。",
+                    "zh-hant": "TypeScript 多代理框架 - 從目標到結果只需一個 runTeam() 調用。自動任務分解，並行執行。3個依賴項，可部署在任何運行Node.js的地方。"
                 }
             }
         },
@@ -57561,6 +57629,26 @@
                     "ja": "AIチャットのリワインドは、ChatGPT、Gemini、Claude、およびGrok向けのローカルファーストアーカイブおよびリワインドアプリで、MHTML / JSONのインポート、アナリティクス、共有可能なリキャップカードを備えています。",
                     "zh-hans": "Rewind for AI Chats 是一个本地优先的存档和倒带应用程序，适用于 ChatGPT、Gemini、Claude 和 Grok，支持 MHTML / JSON 导入、分析和可分享的总结卡片。",
                     "zh-hant": "Rewind for AI Chats 是一個本地優先的存檔和倒帶應用程式，適用於 ChatGPT、Gemini、Claude 和 Grok，具有 MHTML / JSON 導入、分析和可分享的回顧卡片。"
+                }
+            },
+            "https://github.com/operantlabs/operant-mcp": {
+                "repository_name": "operant-mcp",
+                "user_name": "operantlabs",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Turn your AI agent into a hacker by plugging in this MCP",
+                "topics": [
+                    "cybersecurity",
+                    "cybersecurity-ai",
+                    "cybersecurity-tools",
+                    "offensive-security",
+                    "pentesting"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Turn your AI agent into a hacker by plugging in this MCP",
+                    "ja": "このMCPを差し込むことで、あなたのAIエージェントをハッカーに変える",
+                    "zh-hans": "将您的AI代理程序变成黑客，只需插入这个MCP。",
+                    "zh-hant": "將您的AI代理轉變為駭客，只需插入這個MCP"
                 }
             }
         }
