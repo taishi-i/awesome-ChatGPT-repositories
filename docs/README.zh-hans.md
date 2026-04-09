@@ -16,20 +16,20 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南ChatGPT 调教指南|咒语指南|聊天提示词指南|学习指南
+
+
 **CLIs**
- * [openclaude](https://github.com/gitlawb/openclaude) - Open Claude是一个开源的编码代理CLI，可用于OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型以及通过OpenAI兼容API访问的200多个模型。
- * [atmosphere](https://github.com/atmosphere/atmosphere) - 用于Java AI代理的实时传输层。 使用@Agent构建一次-通过WebSocket，SSE，gRPC，MCP，A2A，AG-UI或任何传输方式交付。 与Spring AI，LangChain4j，Google ADK，Embabel，Koog或内置的OpenAI兼容客户端一起使用。
+ * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 一个能够自动构建和维护的个人知识库。Claude（或Codex/Gemini）读取来源，提取知识，并维护一个持久的相互链接的维基。与Claude Code、Codex、OpenCode、Gemini CLI配合使用。无需API密钥。
 
 
-**NLP**
- * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScript多代理框架 - 从目标到结果只需一个runTeam()调用。自动任务分解，并行执行。3个依赖项，可部署在Node.js运行的任何地方。
+**Openai**
+ * [ArcReel](https://github.com/arcreel/arcreel) - 由AI代理驱动的开源视频工作空间 - 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | 由AI代理驱动的开源视频工作空间，使用Nano Banana 2、Veo 3.1、Grok、Seedance和OpenAI。
+ * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI 实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
 
-**Others**
- * [operant-mcp](https://github.com/operantlabs/operant-mcp) - 将您的AI代理程序变成黑客，只需插入这个MCP。
-
-
-_Updated on April 06, 2026_ (A total of 2498 repositories listed.)
+_Updated on April 09, 2026_ (A total of 2502 repositories listed.)
 
 ## Table of contents
 
@@ -140,6 +140,7 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [hive](https://github.com/adenhq/hive) - ⭐ 10k / 以结果为导向的代理开发框架不断演进
  * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 698 / Claude Code、OpenCode和Codex CLI的插件和技能。29个自主代理用于工作流自动化、代码审查、错误检测、PR管理、漂移检测等。
  * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 158k / 又名令人惊叹的ChatGPT提示。与社区分享、发现和收集提示。免费且开源-为您的组织自行托管，完全保护隐私。
+ * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南ChatGPT 调教指南|咒语指南|聊天提示词指南|学习指南
 
 
 ## Prompts
@@ -1163,6 +1164,7 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [forgecode](https://github.com/antinomyhq/forgecode) - ⭐ 5.9k / AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。
  * [openclaude](https://github.com/gitlawb/openclaude) - Open Claude是一个开源的编码代理CLI，可用于OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型以及通过OpenAI兼容API访问的200多个模型。
  * [atmosphere](https://github.com/atmosphere/atmosphere) - 用于Java AI代理的实时传输层。 使用@Agent构建一次-通过WebSocket，SSE，gRPC，MCP，A2A，AG-UI或任何传输方式交付。 与Spring AI，LangChain4j，Google ADK，Embabel，Koog或内置的OpenAI兼容客户端一起使用。
+ * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 一个能够自动构建和维护的个人知识库。Claude（或Codex/Gemini）读取来源，提取知识，并维护一个持久的相互链接的维基。与Claude Code、Codex、OpenCode、Gemini CLI配合使用。无需API密钥。
 
 
 ## Reimplementations
@@ -2154,6 +2156,8 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [onWatch](https://github.com/onllm-dev/onwatch) - ⭐ 548 / 实时跟踪合成、Z.ai、人类学（克劳德代码）、Codex、GitHub Copilot和Antigravity的AI API配额。轻量级后台守护程序（<50MB RAM），SQLite存储，Material Design 3仪表板。零遥测。
  * ✅ [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - ⭐ 365 / 让人工智能像您一样思考和表达。这个框架提供了一个完整的装配线：从原始聊天记录的噪音处理，到多模型适应层的无缝切换，再到本地轻量级微调（LoRA）。
  * ✅ [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - ⭐ 418 / 基于AntiHub二开的2API综合性平台，全代码开源，让 Claude、Openai 、Gemini、AWS(Kiro)的订阅套餐发挥最大价值，原生工具无缝使用。
+ * [ArcReel](https://github.com/arcreel/arcreel) - 由AI代理驱动的开源视频工作空间 - 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | 由AI代理驱动的开源视频工作空间，使用Nano Banana 2、Veo 3.1、Grok、Seedance和OpenAI。
+ * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI 实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 
 
 ## Others

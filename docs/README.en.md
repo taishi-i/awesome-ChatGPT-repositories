@@ -16,20 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - Input: ChatGPT Training Guide | Spell Guide | Chatting Tips Guide | Learning GuideOutput: ChatGPT Training Guide | Spell Guide | Chatting Tips Guide | Learning Guide
+
+
 **CLIs**
- * [openclaude](https://github.com/gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
- * [atmosphere](https://github.com/atmosphere/atmosphere) - Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client.
+ * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
 
 
-**NLP**
- * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
+**Openai**
+ * [ArcReel](https://github.com/arcreel/arcreel) - AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI
+ * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - A real-time/timed monitoring and intelligent analysis system for multiple tasks on Xianyu based on Playwright and AI, equipped with a comprehensive backend management UI. Help users find their favorite products from the massive amount of goods on Xianyu.
 
 
-**Others**
- * [operant-mcp](https://github.com/operantlabs/operant-mcp) - Turn your AI agent into a hacker by plugging in this MCP
-
-
-_Updated on April 06, 2026_ (A total of 2498 repositories listed.)
+_Updated on April 09, 2026_ (A total of 2502 repositories listed.)
 
 ## Table of contents
 
@@ -140,6 +140,7 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [hive](https://github.com/adenhq/hive) - ⭐ 10k / Outcome driven agent development framework that evolves
  * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 698 / Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.
  * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 158k / a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+ * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - Input: ChatGPT Training Guide | Spell Guide | Chatting Tips Guide | Learning GuideOutput: ChatGPT Training Guide | Spell Guide | Chatting Tips Guide | Learning Guide
 
 
 ## Prompts
@@ -1163,6 +1164,7 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [forgecode](https://github.com/antinomyhq/forgecode) - ⭐ 5.9k / AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
  * [openclaude](https://github.com/gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
  * [atmosphere](https://github.com/atmosphere/atmosphere) - Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client.
+ * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
 
 
 ## Reimplementations
@@ -2154,6 +2156,8 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [onWatch](https://github.com/onllm-dev/onwatch) - ⭐ 548 / Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.
  * ✅ [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - ⭐ 365 / Let AI think and express like you. This framework provides a complete assembly line: from the noise processing of original chat records, to the seamless switching of multi-model adaptation layers, to local lightweight fine-tuning (LoRA).
  * ✅ [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - ⭐ 418 / Based on the comprehensive platform of 2API developed based on AntiHub, all code is open source, allowing Claude, Openai, Gemini, and AWS (Kiro) subscription packages to maximize their value and seamlessly use native tools.
+ * [ArcReel](https://github.com/arcreel/arcreel) - OpenAI
+ * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - A real-time/timed monitoring and intelligent analysis system for multiple tasks on Xianyu based on Playwright and AI, equipped with a comprehensive backend management UI. Help users find their favorite products from the massive amount of goods on Xianyu.
 
 
 ## Others
