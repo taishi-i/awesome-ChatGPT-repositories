@@ -16,20 +16,20 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPT調教指南|咒語指南|聊天提示詞指南|學習指南
+
+
 **CLIs**
- * [openclaude](https://github.com/gitlawb/openclaude) - Open Claude是一個開源編碼代理CLI，可用於OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型，以及通過OpenAI兼容API連接的200多個模型。Open Claude是一個開源編碼代理CLI，可用於OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型，以及通過OpenAI兼容API連接的200多個模型。
- * [atmosphere](https://github.com/atmosphere/atmosphere) - Java AI代理的即時傳輸層。使用@Agent一次建立-通過WebSocket、SSE、gRPC、MCP、A2A、AG-UI或任何傳輸方式交付。與Spring AI、LangChain4j、Google ADK、Embabel、Koog或內置的OpenAI兼容客戶端一起使用。
+ * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 一個能夠自行建立和維護的個人知識庫。Drop in sources — Claude（或Codex/Gemini）讀取它們，提取知識，並維護一個持久的相互連接的wiki。與Claude Code、Codex、OpenCode、Gemini CLI一起使用。無需API密鑰。
 
 
-**NLP**
- * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScript 多代理框架 - 從目標到結果只需一個 runTeam() 調用。自動任務分解，並行執行。3個依賴項，可部署在任何運行Node.js的地方。
+**Openai**
+ * [ArcReel](https://github.com/arcreel/arcreel) - AI代理驅動的開源視頻生成工作台 — 小說→角色/場景/道具設計→劇本→分鏡圖→視頻，跨鏡頭角色與場景一致 | 由AI代理Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI 驅動的開源視頻工作空間
+ * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基於 Playwright 和 AI 實現的閒魚多任務實時/定時監控與智能分析系統，配備了功能完善的後台管理 UI。幫助用戶從閒魚海量商品中，找到心儀產品。
 
 
-**Others**
- * [operant-mcp](https://github.com/operantlabs/operant-mcp) - 將您的AI代理轉變為駭客，只需插入這個MCP
-
-
-_Updated on April 06, 2026_ (A total of 2498 repositories listed.)
+_Updated on April 09, 2026_ (A total of 2502 repositories listed.)
 
 ## Table of contents
 
@@ -140,6 +140,7 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [hive](https://github.com/adenhq/hive) - ⭐ 10k / 以結果為導向的代理人發展框架不斷演進
  * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 698 / Claude Code、OpenCode和Codex CLI的插件和技能。29個自主代理用於工作流自動化、代碼審查、懈怠檢測、PR管理、漂移檢測等。
  * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 158k / 又名令人敬畏的ChatGPT提示。與社區分享、發現和收集提示。免費且開源-為您的組織自行託管，完全保護隱私。
+ * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPT調教指南|咒語指南|聊天提示詞指南|學習指南
 
 
 ## Prompts
@@ -1163,6 +1164,7 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [forgecode](https://github.com/antinomyhq/forgecode) - ⭐ 5.9k / AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。
  * [openclaude](https://github.com/gitlawb/openclaude) - Open Claude是一個開源編碼代理CLI，可用於OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型，以及通過OpenAI兼容API連接的200多個模型。Open Claude是一個開源編碼代理CLI，可用於OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型，以及通過OpenAI兼容API連接的200多個模型。
  * [atmosphere](https://github.com/atmosphere/atmosphere) - Java AI代理的即時傳輸層。使用@Agent一次建立-通過WebSocket、SSE、gRPC、MCP、A2A、AG-UI或任何傳輸方式交付。與Spring AI、LangChain4j、Google ADK、Embabel、Koog或內置的OpenAI兼容客戶端一起使用。
+ * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 一個能夠自行建立和維護的個人知識庫。Drop in sources — Claude（或Codex/Gemini）讀取它們，提取知識，並維護一個持久的相互連接的wiki。與Claude Code、Codex、OpenCode、Gemini CLI一起使用。無需API密鑰。
 
 
 ## Reimplementations
@@ -2154,6 +2156,8 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [onWatch](https://github.com/onllm-dev/onwatch) - ⭐ 548 / 請即時追蹤Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot和Antigravity的AI API配額。輕量級背景守護程序（<50MB RAM）、SQLite存儲、Material Design 3儀表板。零遙測。
  * ✅ [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - ⭐ 365 / 讓人工智慧像您一樣思考和表達。這個框架提供了一個完整的組裝線：從原始聊天記錄的噪音處理，到多模型適應層的無縫切換，再到本地輕量級微調（LoRA）。
  * ✅ [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - ⭐ 418 / 基於AntiHub二開的2API綜合性平臺，全代碼開源，讓 Claude、Openai 、Gemini、AWS(Kiro)的訂閱套餐發揮最大價值，原生工具無縫使用。
+ * [ArcReel](https://github.com/arcreel/arcreel) - OpenAI 驅動的開源視頻工作空間
+ * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基於 Playwright 和 AI 實現的閒魚多任務實時/定時監控與智能分析系統，配備了功能完善的後台管理 UI。幫助用戶從閒魚海量商品中，找到心儀產品。
 
 
 ## Others

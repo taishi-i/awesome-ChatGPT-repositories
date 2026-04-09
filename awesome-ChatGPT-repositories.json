@@ -2389,6 +2389,25 @@
                     "zh-hans": "又名令人惊叹的ChatGPT提示。与社区分享、发现和收集提示。免费且开源-为您的组织自行托管，完全保护隐私。",
                     "zh-hant": "又名令人敬畏的ChatGPT提示。與社區分享、發現和收集提示。免費且開源-為您的組織自行託管，完全保護隱私。"
                 }
+            },
+            "https://github.com/wikieden/awesome-chatgpt-prompts-cn": {
+                "repository_name": "Awesome-ChatGPT-Prompts-CN",
+                "user_name": "wikieden",
+                "language": null,
+                "license": "MIT License",
+                "description": "ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南",
+                "topics": [
+                    "chatgpt",
+                    "chatgpt-prompts",
+                    "chatgpt3",
+                    "openai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Input: ChatGPT Training Guide | Spell Guide | Chatting Tips Guide | Learning GuideOutput: ChatGPT Training Guide | Spell Guide | Chatting Tips Guide | Learning Guide",
+                    "ja": "ChatGPTトレーニングガイド|呪文ガイド|チャットのヒントガイド|学習ガイド",
+                    "zh-hans": "ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南ChatGPT 调教指南|咒语指南|聊天提示词指南|学习指南",
+                    "zh-hant": "ChatGPT調教指南|咒語指南|聊天提示詞指南|學習指南"
+                }
             }
         },
         "Prompts": {
@@ -27049,6 +27068,32 @@
                     "zh-hans": "用于Java AI代理的实时传输层。 使用@Agent构建一次-通过WebSocket，SSE，gRPC，MCP，A2A，AG-UI或任何传输方式交付。 与Spring AI，LangChain4j，Google ADK，Embabel，Koog或内置的OpenAI兼容客户端一起使用。",
                     "zh-hant": "Java AI代理的即時傳輸層。使用@Agent一次建立-通過WebSocket、SSE、gRPC、MCP、A2A、AG-UI或任何傳輸方式交付。與Spring AI、LangChain4j、Google ADK、Embabel、Koog或內置的OpenAI兼容客戶端一起使用。"
                 }
+            },
+            "https://github.com/samuraigpt/llm-wiki-agent": {
+                "repository_name": "llm-wiki-agent",
+                "user_name": "SamurAIGPT",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.",
+                "topics": [
+                    "claude-code",
+                    "codex",
+                    "gemini",
+                    "knowledge-base",
+                    "knowledge-graph",
+                    "llm",
+                    "markdown",
+                    "obsidian",
+                    "personal-knowledge-management",
+                    "rag",
+                    "wiki"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.",
+                    "ja": "自己構築および自己維持する個人用知識ベース。 クロード（またはCodex / Gemini）がソースを読み込み、知識を抽出し、持続的に相互リンクされたウィキを維持します。 クロードコード、Codex、OpenCode、Gemini CLIと連携します。 APIキーは必要ありません。",
+                    "zh-hans": "一个能够自动构建和维护的个人知识库。Claude（或Codex/Gemini）读取来源，提取知识，并维护一个持久的相互链接的维基。与Claude Code、Codex、OpenCode、Gemini CLI配合使用。无需API密钥。",
+                    "zh-hant": "一個能夠自行建立和維護的個人知識庫。Drop in sources — Claude（或Codex/Gemini）讀取它們，提取知識，並維護一個持久的相互連接的wiki。與Claude Code、Codex、OpenCode、Gemini CLI一起使用。無需API密鑰。"
+                }
             }
         },
         "Reimplementations": {
@@ -49176,6 +49221,65 @@
                     "ja": "AntiHub二開をベースにした2つのAPI総合プラットフォームは、全てのコードがオープンソースであり、Claude、Openai、Gemini、AWS(Kiro)のサブスクリプションプランを最大限に活用し、ネイティブツールをシームレスに使用できます。",
                     "zh-hans": "基于AntiHub二开的2API综合性平台，全代码开源，让 Claude、Openai 、Gemini、AWS(Kiro)的订阅套餐发挥最大价值，原生工具无缝使用。",
                     "zh-hant": "基於AntiHub二開的2API綜合性平臺，全代碼開源，讓 Claude、Openai 、Gemini、AWS(Kiro)的訂閱套餐發揮最大價值，原生工具無縫使用。"
+                }
+            },
+            "https://github.com/arcreel/arcreel": {
+                "repository_name": "ArcReel",
+                "user_name": "ArcReel",
+                "language": "Python",
+                "license": "GNU Affero General Public License v3.0",
+                "description": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+                "topics": [
+                    "ai-agent",
+                    "ai-video-generator",
+                    "claude-agent-sdk",
+                    "docker",
+                    "gemini",
+                    "grok",
+                    "image-to-video",
+                    "nano-banana-2",
+                    "openai",
+                    "openclaw",
+                    "seedance",
+                    "seedream",
+                    "storyboard",
+                    "veo",
+                    "vertex-ai",
+                    "video-generation"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI",
+                    "ja": "AIエージェントによって駆動されるオープンソースのビデオ作業スペース - 小説→キャラクター/シーン/プロップデザイン→脚本→レイアウト→ビデオ、クロスカットのキャラクターとシーンが一致 | AIエージェント、Nano Banana 2＆Veo 3.1 / Grok / Seedance / OpenAIによるオープンソースのAIビデオワークスペース",
+                    "zh-hans": "由AI代理驱动的开源视频工作空间 - 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | 由AI代理驱动的开源视频工作空间，使用Nano Banana 2、Veo 3.1、Grok、Seedance和OpenAI。",
+                    "zh-hant": "AI代理驅動的開源視頻生成工作台 — 小說→角色/場景/道具設計→劇本→分鏡圖→視頻，跨鏡頭角色與場景一致 | 由AI代理Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI 驅動的開源視頻工作空間"
+                }
+            },
+            "https://github.com/usagi-org/ai-goofish-monitor": {
+                "repository_name": "ai-goofish-monitor",
+                "user_name": "Usagi-org",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+                "topics": [
+                    "ai",
+                    "ai-assistant",
+                    "ai-tools",
+                    "automation",
+                    "gemini",
+                    "goofish",
+                    "open-source",
+                    "openai",
+                    "playwright",
+                    "tool",
+                    "xian-yu",
+                    "xianyu",
+                    "xianyu-bot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "A real-time/timed monitoring and intelligent analysis system for multiple tasks on Xianyu based on Playwright and AI, equipped with a comprehensive backend management UI. Help users find their favorite products from the massive amount of goods on Xianyu.",
+                    "ja": "PlaywrightとAIを活用したフリマアプリのマルチタスクリアルタイム/タイマー監視およびインテリジェント分析システム、機能豊富なバックエンド管理UIを備えています。ユーザーがフリマアプリの大量の商品から理想の商品を見つけるのを支援します。",
+                    "zh-hans": "基于 Playwright 和AI 实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+                    "zh-hant": "基於 Playwright 和 AI 實現的閒魚多任務實時/定時監控與智能分析系統，配備了功能完善的後台管理 UI。幫助用戶從閒魚海量商品中，找到心儀產品。"
                 }
             }
         },

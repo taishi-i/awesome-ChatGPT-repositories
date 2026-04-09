@@ -16,20 +16,20 @@
 
 ## The latest additions 🎉
 
+**Awesome-lists**
+ * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPTトレーニングガイド|呪文ガイド|チャットのヒントガイド|学習ガイド
+
+
 **CLIs**
- * [openclaude](https://github.com/gitlawb/openclaude) - Open Claudeは、OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHubモデル、およびOpenAI互換のAPIを介して200以上のモデルのためのオープンソースのコーディングエージェントCLIです。Open Claudeは、OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHubモデル、およびOpenAI互換のAPIを介して200以上のモデルをサポートするオープンソースのコーディングエージェントCLIです。
- * [atmosphere](https://github.com/atmosphere/atmosphere) - Java AIエージェント用のリアルタイムトランスポートレイヤー。@Agentで一度ビルドし、WebSocket、SSE、gRPC、MCP、A2A、AG-UI、または任意のトランスポートで配信します。Spring AI、LangChain4j、Google ADK、Embabel、Koog、または組み込みのOpenAI互換クライアントと連携します。
+ * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 自己構築および自己維持する個人用知識ベース。 クロード（またはCodex / Gemini）がソースを読み込み、知識を抽出し、持続的に相互リンクされたウィキを維持します。 クロードコード、Codex、OpenCode、Gemini CLIと連携します。 APIキーは必要ありません。
 
 
-**NLP**
- * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScriptマルチエージェントフレームワーク-ゴールから結果までの1つのrunTeam()呼び出し。自動タスク分解、並列実行。3つの依存関係、Node.jsが実行される場所に展開可能。
+**Openai**
+ * [ArcReel](https://github.com/arcreel/arcreel) - AIエージェントによって駆動されるオープンソースのビデオ作業スペース - 小説→キャラクター/シーン/プロップデザイン→脚本→レイアウト→ビデオ、クロスカットのキャラクターとシーンが一致 | AIエージェント、Nano Banana 2＆Veo 3.1 / Grok / Seedance / OpenAIによるオープンソースのAIビデオワークスペース
+ * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - PlaywrightとAIを活用したフリマアプリのマルチタスクリアルタイム/タイマー監視およびインテリジェント分析システム、機能豊富なバックエンド管理UIを備えています。ユーザーがフリマアプリの大量の商品から理想の商品を見つけるのを支援します。
 
 
-**Others**
- * [operant-mcp](https://github.com/operantlabs/operant-mcp) - このMCPを差し込むことで、あなたのAIエージェントをハッカーに変える
-
-
-_Updated on April 06, 2026_ (A total of 2498 repositories listed.)
+_Updated on April 09, 2026_ (A total of 2502 repositories listed.)
 
 ## Table of contents
 
@@ -140,6 +140,7 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [hive](https://github.com/adenhq/hive) - ⭐ 10k / 成果主導型のエージェント開発フレームワークが進化します。
  * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 698 / Claude Code、OpenCode、Codex CLI用のプラグインとスキル。ワークフロー自動化、コードレビュー、スロップ検出、PR管理、ドリフト検出などのための29の自律エージェント。
  * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 158k / a.k.a. オーサムチャットGPTプロンプト。コミュニティからプロンプトを共有、発見、収集。無料でオープンソース-完全なプライバシーを持つ組織用に自己ホスト化できます。
+ * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPTトレーニングガイド|呪文ガイド|チャットのヒントガイド|学習ガイド
 
 
 ## Prompts
@@ -1163,6 +1164,7 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [forgecode](https://github.com/antinomyhq/forgecode) - ⭐ 5.9k / クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
  * [openclaude](https://github.com/gitlawb/openclaude) - Open Claudeは、OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHubモデル、およびOpenAI互換のAPIを介して200以上のモデルのためのオープンソースのコーディングエージェントCLIです。Open Claudeは、OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHubモデル、およびOpenAI互換のAPIを介して200以上のモデルをサポートするオープンソースのコーディングエージェントCLIです。
  * [atmosphere](https://github.com/atmosphere/atmosphere) - Java AIエージェント用のリアルタイムトランスポートレイヤー。@Agentで一度ビルドし、WebSocket、SSE、gRPC、MCP、A2A、AG-UI、または任意のトランスポートで配信します。Spring AI、LangChain4j、Google ADK、Embabel、Koog、または組み込みのOpenAI互換クライアントと連携します。
+ * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - Gemini）がソースを読み込み、知識を抽出し、持続的に相互リンクされたウィキを維持します。 クロードコード、Codex、OpenCode、Gemini CLIと連携します。 APIキーは必要ありません。
 
 
 ## Reimplementations
@@ -2154,6 +2156,8 @@ _Updated on April 06, 2026_ (A total of 2498 repositories listed.)
  * 🔥 [onWatch](https://github.com/onllm-dev/onwatch) - ⭐ 548 / Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。
  * ✅ [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - ⭐ 365 / AIがあなたのように考え、表現するようにします。このフレームワークは、元のチャット記録のノイズ処理から、複数のモデル適応層のシームレスな切り替え、ローカルな軽量な微調整（LoRA）まで、完全な組み立てラインを提供します。
  * ✅ [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - ⭐ 418 / AntiHub二開をベースにした2つのAPI総合プラットフォームは、全てのコードがオープンソースであり、Claude、Openai、Gemini、AWS(Kiro)のサブスクリプションプランを最大限に活用し、ネイティブツールをシームレスに使用できます。
+ * [ArcReel](https://github.com/arcreel/arcreel) - OpenAIによるオープンソースのAIビデオワークスペース
+ * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - PlaywrightとAIを活用したフリマアプリのマルチタスクリアルタイム/タイマー監視およびインテリジェント分析システム、機能豊富なバックエンド管理UIを備えています。ユーザーがフリマアプリの大量の商品から理想の商品を見つけるのを支援します。
 
 
 ## Others
