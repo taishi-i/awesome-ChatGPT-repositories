@@ -6780,6 +6780,33 @@
                     "zh-hans": "🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）",
                     "zh-hant": "🐙 關於提示詞工程（prompt）的指南、論文、講座、筆記本和資源大全（自動持續更新）"
                 }
+            },
+            "https://github.com/nirdiamant/prompt_engineering": {
+                "repository_name": "Prompt_Engineering",
+                "user_name": "NirDiamant",
+                "language": "Jupyter Notebook",
+                "license": "Other",
+                "description": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.",
+                "topics": [
+                    "ai",
+                    "chatgpt",
+                    "claude",
+                    "genai",
+                    "langchain",
+                    "llm",
+                    "llms",
+                    "openai",
+                    "prompt-engineering",
+                    "prompting",
+                    "python",
+                    "tutorials"
+                ],
+                "multilingual_descriptions": {
+                    "en": "22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.",
+                    "ja": "22の迅速なエンジニアリング技術と、基本的な概念からLLMを活用するための高度な戦略までを扱ったJupyter Notebookの実践的なチュートリアル。",
+                    "zh-hans": "22个快速的工程技术，配有实践Jupyter Notebook教程，从基本概念到利用LLMs的高级策略。",
+                    "zh-hant": "22個快速的工程技術，附有實踐Jupyter Notebook教程，從基本概念到利用LLMs的高級策略。"
+                }
             }
         },
         "Chatbots": {
@@ -16130,6 +16157,33 @@
                     "ja": "OpenClawのためのリアルタイムWebコックピット：音声会話、エージェント自動化されたかんばんボード、ワークスペース/ファイル制御、サブエージェントセッション、インラインチャート、利用状況の可視化。",
                     "zh-hans": "OpenClaw的实时网络驾驶舱：语音对话，代理自动看板，工作空间/文件控制，子代理会话，内联图表和使用可见性。",
                     "zh-hant": "OpenClaw的實時網絡座艙：語音對話、代理自動看板、工作空間/文件控制、子代理會話、內嵌圖表和使用情況可見度。"
+                }
+            },
+            "https://github.com/hkuds/nanobot": {
+                "repository_name": "nanobot",
+                "user_name": "HKUDS",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+                "topics": [
+                    "ai",
+                    "ai-agent",
+                    "ai-agents",
+                    "anthropic",
+                    "chatgpt",
+                    "claude",
+                    "claude-code",
+                    "codex",
+                    "llm",
+                    "nanobot",
+                    "openai",
+                    "openclaw"
+                ],
+                "multilingual_descriptions": {
+                    "en": "\"🐈 nanobot: The Ultra-Lightweight Personal AI Agent\"",
+                    "ja": "\"🐈 ナノボット：超軽量個人用AIエージェント\"",
+                    "zh-hans": "\"🐈 纳米机器人：超轻个人AI代理\"",
+                    "zh-hant": "\"🐈納米機器人：超輕量級個人人工智能代理\""
                 }
             }
         },
@@ -27094,6 +27148,37 @@
                     "zh-hans": "一个能够自动构建和维护的个人知识库。Claude（或Codex/Gemini）读取来源，提取知识，并维护一个持久的相互链接的维基。与Claude Code、Codex、OpenCode、Gemini CLI配合使用。无需API密钥。",
                     "zh-hant": "一個能夠自行建立和維護的個人知識庫。Drop in sources — Claude（或Codex/Gemini）讀取它們，提取知識，並維護一個持久的相互連接的wiki。與Claude Code、Codex、OpenCode、Gemini CLI一起使用。無需API密鑰。"
                 }
+            },
+            "https://github.com/haohao-end/openagent": {
+                "repository_name": "openagent",
+                "user_name": "Haohao-end",
+                "language": "Python",
+                "license": null,
+                "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.",
+                "topics": [
+                    "agent",
+                    "ai",
+                    "aiagent",
+                    "celery",
+                    "deepseek",
+                    "docker",
+                    "faiss-vector-database",
+                    "flask",
+                    "langchain",
+                    "langgraph",
+                    "llmops",
+                    "nginx",
+                    "postgresql",
+                    "tailwindcss",
+                    "vue",
+                    "weaviate"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.",
+                    "ja": "AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。",
+                    "zh-hans": "AI代理开发平台-支持多个模型（OpenAI/DeepSeek/Wenxin/Tongyi），知识库管理，工作流自动化和企业级安全。采用Flask + Vue3 + LangChain构建，具有一键式Docker部署功能。",
+                    "zh-hant": "AI 代理開發平台-支援多個模型（OpenAI/DeepSeek/Wenxin/Tongyi），知識庫管理，工作流自動化和企業級安全性。使用 Flask + Vue3 + LangChain 構建，具有一鍵 Docker 部署功能。"
+                }
             }
         },
         "Reimplementations": {
@@ -28483,6 +28568,34 @@
                     "ja": "0から1までのバイブコーディングを学ぶ | 実戦中からAIプログラミングを学ぶ｜プロダクト思考、フロントエンドおよびバックエンド開発",
                     "zh-hans": "从零开始学习 AI 编程 | 实战中的产品思维、前后端开发",
                     "zh-hant": "從零學習 AI 編程 | 產品思維、前後端開發"
+                }
+            },
+            "https://github.com/nirdiamant/rag_techniques": {
+                "repository_name": "RAG_Techniques",
+                "user_name": "NirDiamant",
+                "language": "Jupyter Notebook",
+                "license": "Other",
+                "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+                "topics": [
+                    "ai",
+                    "embeddings",
+                    "langchain",
+                    "llama-index",
+                    "llm",
+                    "llms",
+                    "nlp",
+                    "openai",
+                    "python",
+                    "rag",
+                    "retrieval-augmented-generation",
+                    "tutorials",
+                    "vector-database"
+                ],
+                "multilingual_descriptions": {
+                    "en": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+                    "ja": "このリポジトリは、検索増強生成（RAG）システムのさまざまな高度な技術を紹介しています。各技術には詳細なノートブックチュートリアルがあります。",
+                    "zh-hans": "这个存储库展示了检索增强生成（RAG）系统的各种高级技术。每种技术都有详细的笔记本教程。",
+                    "zh-hant": "這個存儲庫展示了檢索增強生成（RAG）系統的各種高級技術。每個技術都有詳細的筆記本教程。"
                 }
             }
         },

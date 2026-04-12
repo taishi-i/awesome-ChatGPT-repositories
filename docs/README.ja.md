@@ -16,20 +16,23 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPTトレーニングガイド|呪文ガイド|チャットのヒントガイド|学習ガイド
+**Prompts**
+ * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22の迅速なエンジニアリング技術と、基本的な概念からLLMを活用するための高度な戦略までを扱ったJupyter Notebookの実践的なチュートリアル。
+
+
+**Chatbots**
+ * [nanobot](https://github.com/hkuds/nanobot) - "🐈 ナノボット：超軽量個人用AIエージェント"
 
 
 **CLIs**
- * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 自己構築および自己維持する個人用知識ベース。 クロード（またはCodex / Gemini）がソースを読み込み、知識を抽出し、持続的に相互リンクされたウィキを維持します。 クロードコード、Codex、OpenCode、Gemini CLIと連携します。 APIキーは必要ありません。
+ * [openagent](https://github.com/haohao-end/openagent) - AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。
 
 
-**Openai**
- * [ArcReel](https://github.com/arcreel/arcreel) - AIエージェントによって駆動されるオープンソースのビデオ作業スペース - 小説→キャラクター/シーン/プロップデザイン→脚本→レイアウト→ビデオ、クロスカットのキャラクターとシーンが一致 | AIエージェント、Nano Banana 2＆Veo 3.1 / Grok / Seedance / OpenAIによるオープンソースのAIビデオワークスペース
- * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - PlaywrightとAIを活用したフリマアプリのマルチタスクリアルタイム/タイマー監視およびインテリジェント分析システム、機能豊富なバックエンド管理UIを備えています。ユーザーがフリマアプリの大量の商品から理想の商品を見つけるのを支援します。
+**Tutorials**
+ * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - このリポジトリは、検索増強生成（RAG）システムのさまざまな高度な技術を紹介しています。各技術には詳細なノートブックチュートリアルがあります。
 
 
-_Updated on April 09, 2026_ (A total of 2502 repositories listed.)
+_Updated on April 13, 2026_ (A total of 2506 repositories listed.)
 
 ## Table of contents
 
@@ -325,6 +328,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 449 / AIエージェント向けのLinux OS-LLMのための永続的なメモリ、自律性、時間認識。状態を所有し、知性を借りる。
  * 🔥 [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - ⭐ 2.8k / プロンプトと有効なWeb Scraper API資格情報を提供することで、ChatGPTスクレイパーから簡単に回答を収集できます。
  * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 プロンプトエンジニアリングに関するガイド、論文、講義、ノート、およびリソースの完全版（自動更新）
+ * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22の迅速なエンジニアリング技術と、基本的な概念からLLMを活用するための高度な戦略までを扱ったJupyter Notebookの実践的なチュートリアル。
 
 
 ## Chatbots
@@ -700,6 +704,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [AskePub](https://github.com/geiserx/askepub) - ⭐ 1 / このプロジェクトは、ePubの準備を手伝うTelegramボットアシスタントです。ChatGPT-4oを使用して、文脈に沿ったメモを書きます。
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 349k / あなた自身の個人用AIアシスタント。どんなOSでも。どんなプラットフォームでも。ロブスターのやり方。🦞
  * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - OpenClawのためのリアルタイムWebコックピット：音声会話、エージェント自動化されたかんばんボード、ワークスペース/ファイル制御、サブエージェントセッション、インラインチャート、利用状況の可視化。
+ * [nanobot](https://github.com/hkuds/nanobot) - "🐈 ナノボット：超軽量個人用AIエージェント"
 
 
 ## Browser-extensions
@@ -1164,7 +1169,8 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [forgecode](https://github.com/antinomyhq/forgecode) - ⭐ 5.9k / クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
  * [openclaude](https://github.com/gitlawb/openclaude) - Open Claudeは、OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHubモデル、およびOpenAI互換のAPIを介して200以上のモデルのためのオープンソースのコーディングエージェントCLIです。Open Claudeは、OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHubモデル、およびOpenAI互換のAPIを介して200以上のモデルをサポートするオープンソースのコーディングエージェントCLIです。
  * [atmosphere](https://github.com/atmosphere/atmosphere) - Java AIエージェント用のリアルタイムトランスポートレイヤー。@Agentで一度ビルドし、WebSocket、SSE、gRPC、MCP、A2A、AG-UI、または任意のトランスポートで配信します。Spring AI、LangChain4j、Google ADK、Embabel、Koog、または組み込みのOpenAI互換クライアントと連携します。
- * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - Gemini）がソースを読み込み、知識を抽出し、持続的に相互リンクされたウィキを維持します。 クロードコード、Codex、OpenCode、Gemini CLIと連携します。 APIキーは必要ありません。
+ * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 自己構築および自己維持する個人用知識ベース。 クロード（またはCodex / Gemini）がソースを読み込み、知識を抽出し、持続的に相互リンクされたウィキを維持します。 クロードコード、Codex、OpenCode、Gemini CLIと連携します。 APIキーは必要ありません。
+ * [openagent](https://github.com/haohao-end/openagent) - AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。
 
 
 ## Reimplementations
@@ -1235,6 +1241,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 💤 [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - ⭐ 2.6k / OpenAI APIクイックスタートチュートリアルからのNode.jsのサンプルアプリ
  * ✅ [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - ⭐ 3.9k / 開発者がAIシステムを構築するのを支援する例とチュートリアル
  * 🔥 [easy-vibe](https://github.com/datawhalechina/easy-vibe) - ⭐ 5k / 0から1までのバイブコーディングを学ぶ | 実戦中からAIプログラミングを学ぶ｜プロダクト思考、フロントエンドおよびバックエンド開発
+ * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - このリポジトリは、検索増強生成（RAG）システムのさまざまな高度な技術を紹介しています。各技術には詳細なノートブックチュートリアルがあります。
 
 
 ## NLP
@@ -2156,7 +2163,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [onWatch](https://github.com/onllm-dev/onwatch) - ⭐ 548 / Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot＆AntigravityのAI APIクォータをリアルタイムで追跡します。軽量バックグラウンドデーモン（<50MB RAM）、SQLiteストレージ、Material Design 3ダッシュボード。ゼロテレメトリ。
  * ✅ [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - ⭐ 365 / AIがあなたのように考え、表現するようにします。このフレームワークは、元のチャット記録のノイズ処理から、複数のモデル適応層のシームレスな切り替え、ローカルな軽量な微調整（LoRA）まで、完全な組み立てラインを提供します。
  * ✅ [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - ⭐ 418 / AntiHub二開をベースにした2つのAPI総合プラットフォームは、全てのコードがオープンソースであり、Claude、Openai、Gemini、AWS(Kiro)のサブスクリプションプランを最大限に活用し、ネイティブツールをシームレスに使用できます。
- * [ArcReel](https://github.com/arcreel/arcreel) - OpenAIによるオープンソースのAIビデオワークスペース
+ * [ArcReel](https://github.com/arcreel/arcreel) - AIエージェントによって駆動されるオープンソースのビデオ作業スペース - 小説→キャラクター/シーン/プロップデザイン→脚本→レイアウト→ビデオ、クロスカットのキャラクターとシーンが一致 | AIエージェント、Nano Banana 2＆Veo 3.1 / Grok / Seedance / OpenAIによるオープンソースのAIビデオワークスペース
  * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - PlaywrightとAIを活用したフリマアプリのマルチタスクリアルタイム/タイマー監視およびインテリジェント分析システム、機能豊富なバックエンド管理UIを備えています。ユーザーがフリマアプリの大量の商品から理想の商品を見つけるのを支援します。
 
 
