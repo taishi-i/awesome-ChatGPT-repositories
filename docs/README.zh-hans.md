@@ -16,20 +16,23 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南ChatGPT 调教指南|咒语指南|聊天提示词指南|学习指南
+**Prompts**
+ * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22个快速的工程技术，配有实践Jupyter Notebook教程，从基本概念到利用LLMs的高级策略。
+
+
+**Chatbots**
+ * [nanobot](https://github.com/hkuds/nanobot) - "🐈 纳米机器人：超轻个人AI代理"
 
 
 **CLIs**
- * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 一个能够自动构建和维护的个人知识库。Claude（或Codex/Gemini）读取来源，提取知识，并维护一个持久的相互链接的维基。与Claude Code、Codex、OpenCode、Gemini CLI配合使用。无需API密钥。
+ * [openagent](https://github.com/haohao-end/openagent) - AI代理开发平台-支持多个模型（OpenAI/DeepSeek/Wenxin/Tongyi），知识库管理，工作流自动化和企业级安全。采用Flask + Vue3 + LangChain构建，具有一键式Docker部署功能。
 
 
-**Openai**
- * [ArcReel](https://github.com/arcreel/arcreel) - 由AI代理驱动的开源视频工作空间 - 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | 由AI代理驱动的开源视频工作空间，使用Nano Banana 2、Veo 3.1、Grok、Seedance和OpenAI。
- * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI 实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+**Tutorials**
+ * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - 这个存储库展示了检索增强生成（RAG）系统的各种高级技术。每种技术都有详细的笔记本教程。
 
 
-_Updated on April 09, 2026_ (A total of 2502 repositories listed.)
+_Updated on April 13, 2026_ (A total of 2506 repositories listed.)
 
 ## Table of contents
 
@@ -325,6 +328,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 449 / 为AI代理人设计的Linux操作系统-为任何LLM提供持久内存、自主性和时间感知。拥有状态。租用智能。
  * 🔥 [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - ⭐ 2.8k / 通过提供提示以及有效的Web Scraper API凭据，轻松从ChatGPT爬虫中收集回复。
  * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
+ * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22个快速的工程技术，配有实践Jupyter Notebook教程，从基本概念到利用LLMs的高级策略。
 
 
 ## Chatbots
@@ -700,6 +704,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [AskePub](https://github.com/geiserx/askepub) - ⭐ 1 / 这个项目是一个Telegram机器人助手，帮助您准备ePub文件。它使用ChatGPT-4o来写上下文注释。
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 349k / 您自己的个人AI助手。任何操作系统。任何平台。龙虾方式。🦞
  * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - OpenClaw的实时网络驾驶舱：语音对话，代理自动看板，工作空间/文件控制，子代理会话，内联图表和使用可见性。
+ * [nanobot](https://github.com/hkuds/nanobot) - "🐈 纳米机器人：超轻个人AI代理"
 
 
 ## Browser-extensions
@@ -1165,6 +1170,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * [openclaude](https://github.com/gitlawb/openclaude) - Open Claude是一个开源的编码代理CLI，可用于OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型以及通过OpenAI兼容API访问的200多个模型。
  * [atmosphere](https://github.com/atmosphere/atmosphere) - 用于Java AI代理的实时传输层。 使用@Agent构建一次-通过WebSocket，SSE，gRPC，MCP，A2A，AG-UI或任何传输方式交付。 与Spring AI，LangChain4j，Google ADK，Embabel，Koog或内置的OpenAI兼容客户端一起使用。
  * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 一个能够自动构建和维护的个人知识库。Claude（或Codex/Gemini）读取来源，提取知识，并维护一个持久的相互链接的维基。与Claude Code、Codex、OpenCode、Gemini CLI配合使用。无需API密钥。
+ * [openagent](https://github.com/haohao-end/openagent) - AI代理开发平台-支持多个模型（OpenAI/DeepSeek/Wenxin/Tongyi），知识库管理，工作流自动化和企业级安全。采用Flask + Vue3 + LangChain构建，具有一键式Docker部署功能。
 
 
 ## Reimplementations
@@ -1235,6 +1241,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 💤 [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - ⭐ 2.6k / Node.js示例应用程序来自OpenAI API快速入门教程
  * ✅ [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - ⭐ 3.9k / 为开发人员构建人工智能系统提供示例和教程
  * 🔥 [easy-vibe](https://github.com/datawhalechina/easy-vibe) - ⭐ 5k / 从零开始学习 AI 编程 | 实战中的产品思维、前后端开发
+ * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - 这个存储库展示了检索增强生成（RAG）系统的各种高级技术。每种技术都有详细的笔记本教程。
 
 
 ## NLP

@@ -16,20 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南
+**Prompts**
+ * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
+
+
+**Chatbots**
+ * [nanobot](https://github.com/hkuds/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 
 
 **CLIs**
- * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
+ * [openagent](https://github.com/haohao-end/openagent) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
 
 
-**Openai**
- * [ArcReel](https://github.com/arcreel/arcreel) - AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI
- * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+**Tutorials**
+ * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
 
-_Updated on April 09, 2026_ (A total of 2502 repositories listed.)
+_Updated on April 13, 2026_ (A total of 2506 repositories listed.)
 
 ## Table of contents
 
@@ -325,6 +328,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 449 / The Linux OS for AI Agents — Persistent memory, autonomy, and time-awareness for any LLM. Own the state. Rent the intelligence.
  * 🔥 [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - ⭐ 2.8k / Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
  * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
+ * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 
 
 ## Chatbots
@@ -700,6 +704,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [AskePub](https://github.com/geiserx/askepub) - ⭐ 1 / This project is a Telegram bot assistant to help you prepare ePubs. It uses ChatGPT-4o to write contextual notes.
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 349k / Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
  * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
+ * [nanobot](https://github.com/hkuds/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 
 
 ## Browser-extensions
@@ -1165,6 +1170,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * [openclaude](https://github.com/gitlawb/openclaude) - Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
  * [atmosphere](https://github.com/atmosphere/atmosphere) - Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client.
  * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
+ * [openagent](https://github.com/haohao-end/openagent) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
 
 
 ## Reimplementations
@@ -1235,6 +1241,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 💤 [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - ⭐ 2.6k / Node.js example app from the OpenAI API quickstart tutorial
  * ✅ [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - ⭐ 3.9k / Examples and tutorials to help developers build AI systems
  * 🔥 [easy-vibe](https://github.com/datawhalechina/easy-vibe) - ⭐ 5k / Learn vibe coding from 0 to 1 | 实战中从零学会 AI 编程｜产品思维、前后端开发
+ * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
 
 ## NLP

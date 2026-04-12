@@ -16,20 +16,23 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPT調教指南|咒語指南|聊天提示詞指南|學習指南
+**Prompts**
+ * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22個快速的工程技術，附有實踐Jupyter Notebook教程，從基本概念到利用LLMs的高級策略。
+
+
+**Chatbots**
+ * [nanobot](https://github.com/hkuds/nanobot) - "🐈納米機器人：超輕量級個人人工智能代理"
 
 
 **CLIs**
- * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 一個能夠自行建立和維護的個人知識庫。Drop in sources — Claude（或Codex/Gemini）讀取它們，提取知識，並維護一個持久的相互連接的wiki。與Claude Code、Codex、OpenCode、Gemini CLI一起使用。無需API密鑰。
+ * [openagent](https://github.com/haohao-end/openagent) - AI 代理開發平台-支援多個模型（OpenAI/DeepSeek/Wenxin/Tongyi），知識庫管理，工作流自動化和企業級安全性。使用 Flask + Vue3 + LangChain 構建，具有一鍵 Docker 部署功能。
 
 
-**Openai**
- * [ArcReel](https://github.com/arcreel/arcreel) - AI代理驅動的開源視頻生成工作台 — 小說→角色/場景/道具設計→劇本→分鏡圖→視頻，跨鏡頭角色與場景一致 | 由AI代理Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI 驅動的開源視頻工作空間
- * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基於 Playwright 和 AI 實現的閒魚多任務實時/定時監控與智能分析系統，配備了功能完善的後台管理 UI。幫助用戶從閒魚海量商品中，找到心儀產品。
+**Tutorials**
+ * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - 這個存儲庫展示了檢索增強生成（RAG）系統的各種高級技術。每個技術都有詳細的筆記本教程。
 
 
-_Updated on April 09, 2026_ (A total of 2502 repositories listed.)
+_Updated on April 13, 2026_ (A total of 2506 repositories listed.)
 
 ## Table of contents
 
@@ -325,6 +328,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [Athena-Public](https://github.com/winstonkoh87/athena-public) - ⭐ 449 / 為AI代理人設計的Linux操作系統-對於任何LLM來說，具有持久記憶、自主性和時間感知。擁有狀態。租用智能。
  * 🔥 [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - ⭐ 2.8k / 通過提供提示以及有效的Web Scraper API憑證，輕鬆從ChatGPT刮取器中收集回應。
  * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 關於提示詞工程（prompt）的指南、論文、講座、筆記本和資源大全（自動持續更新）
+ * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22個快速的工程技術，附有實踐Jupyter Notebook教程，從基本概念到利用LLMs的高級策略。
 
 
 ## Chatbots
@@ -700,6 +704,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [AskePub](https://github.com/geiserx/askepub) - ⭐ 1 / 這個項目是一個Telegram機器人助手，幫助您準備ePub。它使用ChatGPT-4o來撰寫上下文註釋。
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 349k / 您自己的個人AI助手。任何操作系統。任何平台。龍蝦方式。🦞
  * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - OpenClaw的實時網絡座艙：語音對話、代理自動看板、工作空間/文件控制、子代理會話、內嵌圖表和使用情況可見度。
+ * [nanobot](https://github.com/hkuds/nanobot) - "🐈納米機器人：超輕量級個人人工智能代理"
 
 
 ## Browser-extensions
@@ -1165,6 +1170,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * [openclaude](https://github.com/gitlawb/openclaude) - Open Claude是一個開源編碼代理CLI，可用於OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型，以及通過OpenAI兼容API連接的200多個模型。Open Claude是一個開源編碼代理CLI，可用於OpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub模型，以及通過OpenAI兼容API連接的200多個模型。
  * [atmosphere](https://github.com/atmosphere/atmosphere) - Java AI代理的即時傳輸層。使用@Agent一次建立-通過WebSocket、SSE、gRPC、MCP、A2A、AG-UI或任何傳輸方式交付。與Spring AI、LangChain4j、Google ADK、Embabel、Koog或內置的OpenAI兼容客戶端一起使用。
  * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 一個能夠自行建立和維護的個人知識庫。Drop in sources — Claude（或Codex/Gemini）讀取它們，提取知識，並維護一個持久的相互連接的wiki。與Claude Code、Codex、OpenCode、Gemini CLI一起使用。無需API密鑰。
+ * [openagent](https://github.com/haohao-end/openagent) - AI 代理開發平台-支援多個模型（OpenAI/DeepSeek/Wenxin/Tongyi），知識庫管理，工作流自動化和企業級安全性。使用 Flask + Vue3 + LangChain 構建，具有一鍵 Docker 部署功能。
 
 
 ## Reimplementations
@@ -1235,6 +1241,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 💤 [openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - ⭐ 2.6k / 從OpenAI API快速入門教程中的Node.js示例應用程式
  * ✅ [ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - ⭐ 3.9k / 提供開發人員建立人工智慧系統的示例和教程
  * 🔥 [easy-vibe](https://github.com/datawhalechina/easy-vibe) - ⭐ 5k / 從零學習 AI 編程 | 產品思維、前後端開發
+ * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - 這個存儲庫展示了檢索增強生成（RAG）系統的各種高級技術。每個技術都有詳細的筆記本教程。
 
 
 ## NLP
@@ -2156,7 +2163,7 @@ _Updated on April 09, 2026_ (A total of 2502 repositories listed.)
  * 🔥 [onWatch](https://github.com/onllm-dev/onwatch) - ⭐ 548 / 請即時追蹤Synthetic、Z.ai、Anthropic（Claude Code）、Codex、GitHub Copilot和Antigravity的AI API配額。輕量級背景守護程序（<50MB RAM）、SQLite存儲、Material Design 3儀表板。零遙測。
  * ✅ [PersonalStyleAI-Framework-](https://github.com/whyzhow/personalstyleai-framework-) - ⭐ 365 / 讓人工智慧像您一樣思考和表達。這個框架提供了一個完整的組裝線：從原始聊天記錄的噪音處理，到多模型適應層的無縫切換，再到本地輕量級微調（LoRA）。
  * ✅ [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - ⭐ 418 / 基於AntiHub二開的2API綜合性平臺，全代碼開源，讓 Claude、Openai 、Gemini、AWS(Kiro)的訂閱套餐發揮最大價值，原生工具無縫使用。
- * [ArcReel](https://github.com/arcreel/arcreel) - OpenAI 驅動的開源視頻工作空間
+ * [ArcReel](https://github.com/arcreel/arcreel) - AI代理驅動的開源視頻生成工作台 — 小說→角色/場景/道具設計→劇本→分鏡圖→視頻，跨鏡頭角色與場景一致 | 由AI代理Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI 驅動的開源視頻工作空間
  * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基於 Playwright 和 AI 實現的閒魚多任務實時/定時監控與智能分析系統，配備了功能完善的後台管理 UI。幫助用戶從閒魚海量商品中，找到心儀產品。
 
 
