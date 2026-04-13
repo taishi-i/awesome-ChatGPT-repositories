@@ -2613,5 +2613,6 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * ✅ [ai-job](https://github.com/yangfeng20/ai-job) - ⭐ 434 / 找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘
  * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - JSON import, analytics, and shareable recap cards.
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - Turn your AI agent into a hacker by plugging in this MCP
+ * [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted AI runtime for multi-agent orchestration with heartbeats, schedules, delegation, memory, and runtime skills across OpenClaw, Claude Code, Codex, and major LLM providers.
 
 
