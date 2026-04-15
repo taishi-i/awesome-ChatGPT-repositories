@@ -16,23 +16,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
-
-
-**Chatbots**
- * [nanobot](https://github.com/hkuds/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
-
-
 **CLIs**
- * [openagent](https://github.com/haohao-end/openagent) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
+ * [forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 
 
-**Tutorials**
- * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+**NLP**
+ * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
 
 
-_Updated on April 13, 2026_ (A total of 2506 repositories listed.)
+**Langchain**
+ * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).
+
+
+**Openai**
+ * [codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
+ * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
+
+
+**Others**
+ * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code 生态管理平台 | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)
+
+
+_Updated on April 15, 2026_ (A total of 2512 repositories listed.)
 
 ## Table of contents
 
@@ -1171,6 +1176,7 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * [atmosphere](https://github.com/atmosphere/atmosphere) - Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client.
  * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
  * [openagent](https://github.com/haohao-end/openagent) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
+ * [forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 
 
 ## Reimplementations
@@ -1645,6 +1651,7 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * 🔥 [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) - ⭐ 5.5k / ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP
  * 🔥 [hermes-agent](https://github.com/nousresearch/hermes-agent) - ⭐ 26k / The agent that grows with you
  * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
+ * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
 
 
 ## Langchain
@@ -1791,8 +1798,7 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * 💤 [autoview](https://github.com/wrtnlabs/autoview) - ⭐ 705 / Automatic view component renderer by AI agent
  * 🔥 [helix](https://github.com/helixml/helix) - ⭐ 752 / ♾️ Helix is a private GenAI stack for building AI applications with declarative pipelines, knowledge (RAG), API bindings, and first-class testing.
  * 🔥 [openinference](https://github.com/arize-ai/openinference) - ⭐ 909 / OpenTelemetry Instrumentation for AI Observability
- * ⚠️ [WorkflowAI](https://github.com/workflowai/workflowai) - ⭐ 471 / WorkflowAI is an open-source platform where product and engineering teams 
-collaborate to build and iterate on AI features.
+ * ⚠️ [WorkflowAI](https://github.com/workflowai/workflowai) - ⭐ 471 / WorkflowAI is an open-source platform where product and engineering teams  collaborate to build and iterate on AI features.
  * ✅ [company-research-agent](https://github.com/guy-hartstein/company-research-agent) - ⭐ 1.7k / An agentic company research tool powered by LangGraph and Tavily that conducts deep diligence on companies using a multi-agent framework. It leverages Google's Gemini 2.0 Flash and OpenAI's GPT-4.1 on the backend for inference.
  * ⚠️ [zen-mcp-server](https://github.com/beehiveinnovations/zen-mcp-server) - ⭐ 11k / All Of The Above] working as one.
  * 💤 [llm-ui](https://github.com/richardgill/llm-ui) - ⭐ 1.7k / The React library for LLMs
@@ -1825,6 +1831,7 @@ collaborate to build and iterate on AI features.
  * 🔥 [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - ⭐ 757 / OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.
  * 🔥 [headroom](https://github.com/chopratejas/headroom) - ⭐ 1.2k / The Context Optimization Layer for LLM Applications
  * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.
+ * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).
 
 
 ## Unity
@@ -2166,10 +2173,11 @@ collaborate to build and iterate on AI features.
  * ✅ [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - ⭐ 418 / 基于AntiHub二开的2API综合性平台，全代码开源，让 Claude、Openai 、Gemini、AWS(Kiro)的订阅套餐发挥最大价值，原生工具无缝使用。
  * [ArcReel](https://github.com/arcreel/arcreel) - OpenAI
  * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
+ * [codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
+ * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 
 
 ## Others
-- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
  * 💤 [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - ⭐ 34k / Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
  * ⚠️ [nanoGPT](https://github.com/karpathy/nanogpt) - ⭐ 56k / The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -2615,6 +2623,6 @@ collaborate to build and iterate on AI features.
  * ✅ [ai-job](https://github.com/yangfeng20/ai-job) - ⭐ 434 / 找工作，用AI工作猎手！让AI帮您找工作！【DeepSeek+ChatGpt】赋能，ai助理作为您的求职者分身7*24小时在线找工作，并结合您的简历信息定制化回复。批量投递，自动发送简历，交换联系方式。hr拒绝挽留。高意向邮件通知，让您不错过每一份工作机会。BOSS直聘
  * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - JSON import, analytics, and shareable recap cards.
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - Turn your AI agent into a hacker by plugging in this MCP
- * [SwarmClaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted AI runtime for multi-agent orchestration with heartbeats, schedules, delegation, memory, and runtime skills across OpenClaw, Claude Code, Codex, and major LLM providers.
+ * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code 生态管理平台 | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)
 
 

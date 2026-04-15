@@ -16,23 +16,28 @@
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22の迅速なエンジニアリング技術と、基本的な概念からLLMを活用するための高度な戦略までを扱ったJupyter Notebookの実践的なチュートリアル。
-
-
-**Chatbots**
- * [nanobot](https://github.com/hkuds/nanobot) - "🐈 ナノボット：超軽量個人用AIエージェント"
-
-
 **CLIs**
- * [openagent](https://github.com/haohao-end/openagent) - AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。
+ * [forgecode](https://github.com/tailcallhq/forgecode) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
 
 
-**Tutorials**
- * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - このリポジトリは、検索増強生成（RAG）システムのさまざまな高度な技術を紹介しています。各技術には詳細なノートブックチュートリアルがあります。
+**NLP**
+ * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent（chatgpt-on-wechat）は、大規模モデルに基づいたスーパーAIアシスタントであり、自己主導的に考え、タスクを計画し、オペレーティングシステムや外部リソースにアクセスし、スキルを作成および実行し、長期記憶と知識ベースを通じて成長し続けることができます。OpenClawよりも軽量で便利です。同時に、WeChat、Feishu、DingTalk、WeCom、QQ、公衆号、ウェブサイトなどに接続することができ、OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAIを選択できます。テキスト、音声、画像、ファイルを処理し、個人用AIアシスタントや企業のデジタル従業員を迅速に構築することができます。
 
 
-_Updated on April 13, 2026_ (A total of 2506 repositories listed.)
+**Langchain**
+ * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - 自己ホスト型のマルチエージェントAIランタイムで、MCPサーバーサポートを備えています。メモリ、スキル、スケジュール、23以上のLLMプロバイダ（Claude、GPT、Gemini、OpenRouter、Ollama）を備えた自律エージェントを構築、オーケストレーション、実行できます。
+
+
+**Openai**
+ * [codedb](https://github.com/justrach/codedb) - ZigコードインテリジェンスサーバーとAIエージェント向けのMCPツールセット。高速ツリー、アウトライン、シンボル、検索、読み取り、編集、依存関係、スナップショット、およびリモートGitHubリポジトリのクエリ。
+ * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイントCodex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイント
+
+
+**Others**
+ * [cchub](https://github.com/moresl/cchub) - CCHub - クロードコード生態管理プラットフォーム | クロードコードエコシステム管理プラットフォーム（MCP、スキル、フック、設定）
+
+
+_Updated on April 15, 2026_ (A total of 2512 repositories listed.)
 
 ## Table of contents
 
@@ -1171,6 +1176,7 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * [atmosphere](https://github.com/atmosphere/atmosphere) - Java AIエージェント用のリアルタイムトランスポートレイヤー。@Agentで一度ビルドし、WebSocket、SSE、gRPC、MCP、A2A、AG-UI、または任意のトランスポートで配信します。Spring AI、LangChain4j、Google ADK、Embabel、Koog、または組み込みのOpenAI互換クライアントと連携します。
  * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 自己構築および自己維持する個人用知識ベース。 クロード（またはCodex / Gemini）がソースを読み込み、知識を抽出し、持続的に相互リンクされたウィキを維持します。 クロードコード、Codex、OpenCode、Gemini CLIと連携します。 APIキーは必要ありません。
  * [openagent](https://github.com/haohao-end/openagent) - AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。
+ * [forgecode](https://github.com/tailcallhq/forgecode) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
 
 
 ## Reimplementations
@@ -1645,6 +1651,7 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * 🔥 [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) - ⭐ 5.5k / ARIS ⚔️（Auto-Research-In-Sleep）- 自律型ML研究のためのClaude Codeスキル：クロスモデルレビューループ、アイデア発見、およびCodex MCPを介した実験の自動化
  * 🔥 [hermes-agent](https://github.com/nousresearch/hermes-agent) - ⭐ 26k / あなたと共に成長するエージェント
  * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScriptマルチエージェントフレームワーク-ゴールから結果までの1つのrunTeam()呼び出し。自動タスク分解、並列実行。3つの依存関係、Node.jsが実行される場所に展開可能。
+ * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent（chatgpt-on-wechat）は、大規模モデルに基づいたスーパーAIアシスタントであり、自己主導的に考え、タスクを計画し、オペレーティングシステムや外部リソースにアクセスし、スキルを作成および実行し、長期記憶と知識ベースを通じて成長し続けることができます。OpenClawよりも軽量で便利です。同時に、WeChat、Feishu、DingTalk、WeCom、QQ、公衆号、ウェブサイトなどに接続することができ、OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAIを選択できます。テキスト、音声、画像、ファイルを処理し、個人用AIアシスタントや企業のデジタル従業員を迅速に構築することができます。
 
 
 ## Langchain
@@ -1824,6 +1831,7 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * 🔥 [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - ⭐ 757 / OpenAIとAnthropic互換のApple Silicon用サーバー。LLMsとビジョン言語モデル（Llama、Qwen-VL、LLaVA）を連続バッチ処理、MCPツール呼び出し、およびマルチモーダルサポートで実行します。ネイティブMLXバックエンド、400以上のトーク/秒。Claude Codeと連携します。
  * 🔥 [headroom](https://github.com/chopratejas/headroom) - ⭐ 1.2k / LLMアプリケーションのコンテキスト最適化レイヤー
  * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - オールインワンのローカルAIアプリ。検閲されていないチャット、画像生成、ビデオ作成 — オフライン、プライベート、美しい。Ollama＆ComfyUIによって動作します。
+ * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - 自己ホスト型のマルチエージェントAIランタイムで、MCPサーバーサポートを備えています。メモリ、スキル、スケジュール、23以上のLLMプロバイダ（Claude、GPT、Gemini、OpenRouter、Ollama）を備えた自律エージェントを構築、オーケストレーション、実行できます。
 
 
 ## Unity
@@ -2165,6 +2173,8 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * ✅ [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - ⭐ 418 / AntiHub二開をベースにした2つのAPI総合プラットフォームは、全てのコードがオープンソースであり、Claude、Openai、Gemini、AWS(Kiro)のサブスクリプションプランを最大限に活用し、ネイティブツールをシームレスに使用できます。
  * [ArcReel](https://github.com/arcreel/arcreel) - AIエージェントによって駆動されるオープンソースのビデオ作業スペース - 小説→キャラクター/シーン/プロップデザイン→脚本→レイアウト→ビデオ、クロスカットのキャラクターとシーンが一致 | AIエージェント、Nano Banana 2＆Veo 3.1 / Grok / Seedance / OpenAIによるオープンソースのAIビデオワークスペース
  * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - PlaywrightとAIを活用したフリマアプリのマルチタスクリアルタイム/タイマー監視およびインテリジェント分析システム、機能豊富なバックエンド管理UIを備えています。ユーザーがフリマアプリの大量の商品から理想の商品を見つけるのを支援します。
+ * [codedb](https://github.com/justrach/codedb) - ZigコードインテリジェンスサーバーとAIエージェント向けのMCPツールセット。高速ツリー、アウトライン、シンボル、検索、読み取り、編集、依存関係、スナップショット、およびリモートGitHubリポジトリのクエリ。
+ * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイントCodex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイント
 
 
 ## Others
@@ -2613,5 +2623,6 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * ✅ [ai-job](https://github.com/yangfeng20/ai-job) - ⭐ 434 / 仕事を探すなら、AIジョブハンターを使おう！AIに仕事探しを手伝わせよう！【DeepSeek+ChatGpt】の力で、AIアシスタントがあなたの代わりに24時間働き、履歴書情報を活用してカスタマイズされた返信を行います。一括応募、自動履歴書送信、連絡先の交換も可能です。HRの引き留めも拒否します。高い関心を持つメール通知で、どの仕事の機会も見逃しません。BOSS直聘【日本語訳】
  * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - AIチャットのリワインドは、ChatGPT、Gemini、Claude、およびGrok向けのローカルファーストアーカイブおよびリワインドアプリで、MHTML / JSONのインポート、アナリティクス、共有可能なリキャップカードを備えています。
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - このMCPを差し込むことで、あなたのAIエージェントをハッカーに変える
+ * [cchub](https://github.com/moresl/cchub) - CCHub - クロードコード生態管理プラットフォーム | クロードコードエコシステム管理プラットフォーム（MCP、スキル、フック、設定）
 
 

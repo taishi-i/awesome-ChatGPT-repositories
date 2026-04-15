@@ -16,23 +16,28 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Prompts**
- * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
-
-
-**Chatbots**
- * [nanobot](https://github.com/hkuds/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
-
-
 **CLIs**
- * [openagent](https://github.com/haohao-end/openagent) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
+ * [forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 
 
-**Tutorials**
- * [RAG_Techniques](https://github.com/nirdiamant/rag_techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+**NLP**
+ * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent (chatgpt-on-wechat) is a super AI assistant based on large models, capable of proactive thinking and task planning, accessing operating systems and external resources, creating and executing Skills, and continuously growing through long-term memory and knowledge base. It is lighter and more convenient than OpenClaw. It also supports integration with WeChat, Feishu, DingTalk, WeCom, QQ, official accounts, websites, etc., and can choose from OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI. It can handle text, voice, images, and files, and can quickly build personal AI assistants and digital employees for enterprises.
 
 
-_Updated on April 13, 2026_ (A total of 2506 repositories listed.)
+**Langchain**
+ * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).
+
+
+**Openai**
+ * [codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
+ * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
+
+
+**Others**
+ * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code Ecosystem Management Platform | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)
+
+
+_Updated on April 15, 2026_ (A total of 2512 repositories listed.)
 
 ## Table of contents
 
@@ -1171,6 +1176,7 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * [atmosphere](https://github.com/atmosphere/atmosphere) - Real-time transport layer for Java AI agents. Build once with @Agent — deliver over WebSocket, SSE, gRPC, MCP, A2A, AG-UI, or any transport. Works with Spring AI, LangChain4j, Google ADK, Embabel, Koog or the built-in OpenAI-compatible client.
  * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
  * [openagent](https://github.com/haohao-end/openagent) - AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.
+ * [forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 
 
 ## Reimplementations
@@ -1645,6 +1651,7 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * 🔥 [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) - ⭐ 5.5k / ARIS ⚔️ (Auto-Research-In-Sleep) — Claude Code skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation via Codex MCP
  * 🔥 [hermes-agent](https://github.com/nousresearch/hermes-agent) - ⭐ 26k / The agent that grows with you
  * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
+ * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent (chatgpt-on-wechat) is a super AI assistant based on large models, capable of proactive thinking and task planning, accessing operating systems and external resources, creating and executing Skills, and continuously growing through long-term memory and knowledge base. It is lighter and more convenient than OpenClaw. It also supports integration with WeChat, Feishu, DingTalk, WeCom, QQ, official accounts, websites, etc., and can choose from OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI. It can handle text, voice, images, and files, and can quickly build personal AI assistants and digital employees for enterprises.
 
 
 ## Langchain
@@ -1824,6 +1831,7 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * 🔥 [vllm-mlx](https://github.com/waybarrios/vllm-mlx) - ⭐ 757 / OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA) with continuous batching, MCP tool calling, and multimodal support. Native MLX backend, 400+ tok/s. Works with Claude Code.
  * 🔥 [headroom](https://github.com/chopratejas/headroom) - ⭐ 1.2k / The Context Optimization Layer for LLM Applications
  * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.
+ * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).
 
 
 ## Unity
@@ -2165,6 +2173,8 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * ✅ [AntiHub-ALL](https://github.com/zhongruan0522/antihub-all) - ⭐ 418 / Based on the comprehensive platform of 2API developed based on AntiHub, all code is open source, allowing Claude, Openai, Gemini, and AWS (Kiro) subscription packages to maximize their value and seamlessly use native tools.
  * [ArcReel](https://github.com/arcreel/arcreel) - AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 | Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok / Seedance / OpenAI
  * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - A real-time/timed monitoring and intelligent analysis system for multiple tasks on Xianyu based on Playwright and AI, equipped with a comprehensive backend management UI. Help users find their favorite products from the massive amount of goods on Xianyu.
+ * [codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
+ * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
 
 
 ## Others
@@ -2613,5 +2623,6 @@ _Updated on April 13, 2026_ (A total of 2506 repositories listed.)
  * ✅ [ai-job](https://github.com/yangfeng20/ai-job) - ⭐ 434 / Looking for a job? Use AI Job Hunter! Let AI help you find a job! [DeepSeek+ChatGpt] Empowerment, AI assistant as your job seeker avatar, working 24/7 online to find a job for you, and customizing replies based on your resume information. Batch delivery, automatic resume sending, exchange of contact information. HR rejection retention. High intention email notification, so you don't miss any job opportunities. BOSS Direct Recruitment.
  * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - Rewind for AI Chats is a local-first archive and rewind app for ChatGPT, Gemini, Claude, and Grok, with MHTML / JSON import, analytics, and shareable recap cards.
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - Turn your AI agent into a hacker by plugging in this MCP
+ * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code Ecosystem Management Platform | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)
 
 
