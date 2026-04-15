@@ -27179,6 +27179,37 @@
                     "zh-hans": "AI代理开发平台-支持多个模型（OpenAI/DeepSeek/Wenxin/Tongyi），知识库管理，工作流自动化和企业级安全。采用Flask + Vue3 + LangChain构建，具有一键式Docker部署功能。",
                     "zh-hant": "AI 代理開發平台-支援多個模型（OpenAI/DeepSeek/Wenxin/Tongyi），知識庫管理，工作流自動化和企業級安全性。使用 Flask + Vue3 + LangChain 構建，具有一鍵 Docker 部署功能。"
                 }
+            },
+            "https://github.com/tailcallhq/forgecode": {
+                "repository_name": "forgecode",
+                "user_name": "tailcallhq",
+                "language": "Rust",
+                "license": "Apache License 2.0",
+                "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+                "topics": [
+                    "ai-pair-programming",
+                    "ai-workflows",
+                    "artifical-intelligense",
+                    "claude-3-7-sonnet",
+                    "claude-4",
+                    "claude-4-sonnet",
+                    "cli-assistant",
+                    "command-line",
+                    "grok",
+                    "llm",
+                    "multi-agent-reinforcement-learning",
+                    "open-router",
+                    "open-source-claude-code",
+                    "openai",
+                    "qwen",
+                    "shell"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+                    "ja": "クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー",
+                    "zh-hans": "AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。",
+                    "zh-hant": "AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。"
+                }
             }
         },
         "Reimplementations": {
@@ -37741,6 +37772,41 @@
                     "zh-hans": "TypeScript多代理框架 - 从目标到结果只需一个runTeam()调用。自动任务分解，并行执行。3个依赖项，可部署在Node.js运行的任何地方。",
                     "zh-hant": "TypeScript 多代理框架 - 從目標到結果只需一個 runTeam() 調用。自動任務分解，並行執行。3個依賴項，可部署在任何運行Node.js的地方。"
                 }
+            },
+            "https://github.com/zhayujie/cowagent": {
+                "repository_name": "CowAgent",
+                "user_name": "zhayujie",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "CowAgent (chatgpt-on-wechat) 是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+                "topics": [
+                    "ai",
+                    "ai-agent",
+                    "chatgpt-on-wechat",
+                    "claude",
+                    "deepseek",
+                    "dingtalk",
+                    "feishu-bot",
+                    "gemini",
+                    "kimi",
+                    "linkai",
+                    "llm",
+                    "mcp",
+                    "multi-agent",
+                    "openai",
+                    "openclaw",
+                    "python3",
+                    "qwen",
+                    "skills",
+                    "wechat",
+                    "weixin"
+                ],
+                "multilingual_descriptions": {
+                    "en": "CowAgent (chatgpt-on-wechat) is a super AI assistant based on large models, capable of proactive thinking and task planning, accessing operating systems and external resources, creating and executing Skills, and continuously growing through long-term memory and knowledge base. It is lighter and more convenient than OpenClaw. It also supports integration with WeChat, Feishu, DingTalk, WeCom, QQ, official accounts, websites, etc., and can choose from OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI. It can handle text, voice, images, and files, and can quickly build personal AI assistants and digital employees for enterprises.",
+                    "ja": "CowAgent（chatgpt-on-wechat）は、大規模モデルに基づいたスーパーAIアシスタントであり、自己主導的に考え、タスクを計画し、オペレーティングシステムや外部リソースにアクセスし、スキルを作成および実行し、長期記憶と知識ベースを通じて成長し続けることができます。OpenClawよりも軽量で便利です。同時に、WeChat、Feishu、DingTalk、WeCom、QQ、公衆号、ウェブサイトなどに接続することができ、OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAIを選択できます。テキスト、音声、画像、ファイルを処理し、個人用AIアシスタントや企業のデジタル従業員を迅速に構築することができます。",
+                    "zh-hans": "CowAgent（chatgpt-on-wechat）是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
+                    "zh-hant": "CowAgent（chatgpt-on-wechat）是基於大模型的超級AI助理，能主動思考和任務規劃、訪問操作系統和外部資源、創造和執行Skills、通過長期記憶和知識庫不斷成長，比OpenClaw更輕量和便捷。同時支持微信、飛書、釘釘、企微、QQ、公眾號、網頁等接入，可選擇OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI，能處理文本、語音、圖片和文件，可快速搭建個人AI助理和企業數字員工。"
+                }
             }
         },
         "Langchain": {
@@ -42160,6 +42226,41 @@
                     "ja": "オールインワンのローカルAIアプリ。検閲されていないチャット、画像生成、ビデオ作成 — オフライン、プライベート、美しい。Ollama＆ComfyUIによって動作します。",
                     "zh-hans": "一体化本地AI应用。无审查的聊天，图像生成和视频创作 - 离线，私密，美观。由Ollama和ComfyUI提供动力。",
                     "zh-hant": "一體化本地AI應用程式。無審查的聊天、圖像生成和視頻創建-離線、私密、美觀。由Ollama和ComfyUI提供動力。"
+                }
+            },
+            "https://github.com/swarmclawai/swarmclaw": {
+                "repository_name": "swarmclaw",
+                "user_name": "swarmclawai",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).",
+                "topics": [
+                    "agent-framework",
+                    "agents",
+                    "ai",
+                    "ai-agents",
+                    "autonomous-agents",
+                    "claude",
+                    "hermes",
+                    "hermes-agent",
+                    "llm",
+                    "mcp",
+                    "mcp-server",
+                    "multi-agent",
+                    "ollama",
+                    "openclaw",
+                    "openclaw-dashboard",
+                    "openclaw-gateway",
+                    "orchestration",
+                    "orchestration-platform",
+                    "self-hosted",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).",
+                    "ja": "自己ホスト型のマルチエージェントAIランタイムで、MCPサーバーサポートを備えています。メモリ、スキル、スケジュール、23以上のLLMプロバイダ（Claude、GPT、Gemini、OpenRouter、Ollama）を備えた自律エージェントを構築、オーケストレーション、実行できます。",
+                    "zh-hans": "自托管的多代理人AI运行时，支持MCP服务器。使用内存、技能、日程表和23个以上的LLM提供商（Claude、GPT、Gemini、OpenRouter、Ollama）构建、编排和运行自主代理人。",
+                    "zh-hant": "具有MCP服务器支持的自托管多代理AI运行时。 使用内存，技能，时间表和23个以上的LLM提供商（Claude，GPT，Gemini，OpenRouter，Ollama）构建，编排和运行自主代理。"
                 }
             }
         },
@@ -49393,6 +49494,59 @@
                     "ja": "PlaywrightとAIを活用したフリマアプリのマルチタスクリアルタイム/タイマー監視およびインテリジェント分析システム、機能豊富なバックエンド管理UIを備えています。ユーザーがフリマアプリの大量の商品から理想の商品を見つけるのを支援します。",
                     "zh-hans": "基于 Playwright 和AI 实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
                     "zh-hant": "基於 Playwright 和 AI 實現的閒魚多任務實時/定時監控與智能分析系統，配備了功能完善的後台管理 UI。幫助用戶從閒魚海量商品中，找到心儀產品。"
+                }
+            },
+            "https://github.com/justrach/codedb": {
+                "repository_name": "codedb",
+                "user_name": "justrach",
+                "language": "Zig",
+                "license": "BSD 3-Clause \"New\" or \"Revised\" License",
+                "description": "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.",
+                "topics": [
+                    "agentic-ai",
+                    "agents",
+                    "anthropic",
+                    "cursor",
+                    "gemini",
+                    "mcp",
+                    "openai",
+                    "zig"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.",
+                    "ja": "ZigコードインテリジェンスサーバーとAIエージェント向けのMCPツールセット。高速ツリー、アウトライン、シンボル、検索、読み取り、編集、依存関係、スナップショット、およびリモートGitHubリポジトリのクエリ。",
+                    "zh-hans": "Zig代码智能服务器和MCP工具集用于AI代理。快速树、大纲、符号、搜索、阅读、编辑、依赖、快照和远程GitHub存储库查询。",
+                    "zh-hant": "Zig代碼智能伺服器和MCP工具組用於AI代理。快速樹、大綱、符號、搜索、閱讀、編輯、依賴、快照和遠程GitHub存儲庫查詢。"
+                }
+            },
+            "https://github.com/soju06/codex-lb": {
+                "repository_name": "codex-lb",
+                "user_name": "Soju06",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints",
+                "topics": [
+                    "api-proxy",
+                    "chatgpt",
+                    "codex",
+                    "dashboard",
+                    "fastapi",
+                    "load-balancer",
+                    "multiple-accounts",
+                    "oauth",
+                    "openai",
+                    "openclaw",
+                    "opencode",
+                    "python",
+                    "rate-limit",
+                    "sqlalchemy",
+                    "usage-tracking"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints",
+                    "ja": "Codex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイントCodex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイント",
+                    "zh-hans": "Codex/ChatGPT 多账户负载均衡器和代理，带有使用跟踪、仪表板和兼容OpenCode的端点。",
+                    "zh-hant": "Codex/ChatGPT 多帳戶負載平衡器和代理，具有使用追蹤、儀表板和兼容 OpenCode 的端點"
                 }
             }
         },
@@ -57866,6 +58020,35 @@
                     "ja": "このMCPを差し込むことで、あなたのAIエージェントをハッカーに変える",
                     "zh-hans": "将您的AI代理程序变成黑客，只需插入这个MCP。",
                     "zh-hant": "將您的AI代理轉變為駭客，只需插入這個MCP"
+                }
+            },
+            "https://github.com/moresl/cchub": {
+                "repository_name": "cchub",
+                "user_name": "Moresl",
+                "language": "TypeScript",
+                "license": null,
+                "description": "CCHub - Claude Code 生态管理平台 | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)",
+                "topics": [
+                    "ai-tools",
+                    "anthropic",
+                    "claude",
+                    "claude-code",
+                    "claude-mcp",
+                    "config-manager",
+                    "desktop-app",
+                    "developer-tools",
+                    "mcp",
+                    "mcp-server",
+                    "react",
+                    "rust",
+                    "tauri",
+                    "typescript"
+                ],
+                "multilingual_descriptions": {
+                    "en": "CCHub - Claude Code Ecosystem Management Platform | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)",
+                    "ja": "CCHub - クロードコード生態管理プラットフォーム | クロードコードエコシステム管理プラットフォーム（MCP、スキル、フック、設定）",
+                    "zh-hans": "CCHub - Claude Code 生态管理平台 | Claude Code 生态系统管理平台 (MCP, 技能, 钩子, 配置)",
+                    "zh-hant": "CCHub - Claude Code 生態管理平台 | Claude Code 生態系統管理平台 (MCP, 技能, 鉤子, 配置)"
                 }
             }
         }
