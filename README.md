@@ -2624,5 +2624,6 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - JSON import, analytics, and shareable recap cards.
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - Turn your AI agent into a hacker by plugging in this MCP
  * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code 生态管理平台 | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)
+ * [nothumansearch](https://github.com/unitedideas/nothumansearch) - Search engine for AI agent tools. Indexes MCP servers and AI-ready APIs with agentic readiness scoring. REST API and MCP server.
 
 
