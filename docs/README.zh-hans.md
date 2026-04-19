@@ -16,28 +16,37 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [Proma](https://github.com/erlichliu/proma) - 将最丝滑的通用 Agent 体验带入您的工作流程，为100倍专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用，灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正运行在您每天使用的地方。
+
+
+**Browser-extensions**
+ * [openai-cpa](https://github.com/wenfxl/openai-cpa) - 具有双引擎（高速协议+反检测浏览器）的分布式自动化平台，用于高规模注册。协调集群工作人员、邮件引擎和CPA/Sub2API仓库。
+ * [nothumansearch](https://github.com/unitedideas/nothumansearch) - 人工智能代理搜索引擎 - 按代理准备情况对站点进行排名（llms.txt，OpenAPI，MCP，ai-plugin）。MCP服务器，REST API，全文搜索。索引超过8,000个站点。
+
+
 **CLIs**
- * [forgecode](https://github.com/tailcallhq/forgecode) - AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。
+ * [ccpocket](https://github.com/k9i-0/ccpocket) - 移动客户端适用于Codex和Claude-通过WebSocket桥从手机控制编码代理
+ * [openrelay](https://github.com/romgx/openrelay) - 几百个免费AI模型配额，一键接入本地项目。
 
 
 **NLP**
- * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent（chatgpt-on-wechat）是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
+ * [SearChat](https://github.com/sear-chat/searchat) - 搜索 + 聊天 = SearChat（具有搜索功能的AI聊天），支持OpenAI/Anthropic/VertexAI/Gemini，DeepResearch，SearXNG，Docker。AI对话式搜索引擎，支持DeepResearch，支持OpenAI/Anthropic/VertexAI/Gemini接口，聚合搜索引擎SearXNG，支持Docker一键部署。
 
 
 **Langchain**
- * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - 自托管的多代理人AI运行时，支持MCP服务器。使用内存、技能、日程表和23个以上的LLM提供商（Claude、GPT、Gemini、OpenRouter、Ollama）构建、编排和运行自主代理人。
+ * [kronk](https://github.com/ardanlabs/kronk) - 您的个人引擎，用于在本地运行开源模型。使用Go进行硬件加速的本地推理，直接通过yzma模块将llama.cpp集成到您的Go应用程序中。Kronk提供了一个高级API，感觉类似于使用Op。
 
 
 **Openai**
- * [codedb](https://github.com/justrach/codedb) - Zig代码智能服务器和MCP工具集用于AI代理。快速树、大纲、符号、搜索、阅读、编辑、依赖、快照和远程GitHub存储库查询。
- * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT 多账户负载均衡器和代理，带有使用跟踪、仪表板和兼容OpenCode的端点。
+ * [copilot-api](https://github.com/caozhiyuan/copilot-api) - 将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code、Codex或Opencode一起使用！在使用之前，请完全阅读README.md！
 
 
 **Others**
- * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code 生态管理平台 | Claude Code 生态系统管理平台 (MCP, 技能, 钩子, 配置)
+ * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT团队账号自动轮转管理 - Codex额度监控、自动换号、CPA认证同步
 
 
-_Updated on April 15, 2026_ (A total of 2512 repositories listed.)
+_Updated on April 20, 2026_ (A total of 2521 repositories listed.)
 
 ## Table of contents
 
@@ -710,6 +719,7 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 349k / 您自己的个人AI助手。任何操作系统。任何平台。龙虾方式。🦞
  * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - OpenClaw的实时网络驾驶舱：语音对话，代理自动看板，工作空间/文件控制，子代理会话，内联图表和使用可见性。
  * [nanobot](https://github.com/hkuds/nanobot) - "🐈 纳米机器人：超轻个人AI代理"
+ * [Proma](https://github.com/erlichliu/proma) - 将最丝滑的通用 Agent 体验带入您的工作流程，为100倍专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用，灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正运行在您每天使用的地方。
 
 
 ## Browser-extensions
@@ -960,6 +970,8 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * 🔥 [GhidrAssist](https://github.com/symgraph/ghidrassist) - ⭐ 598 / 一个用于Ghidra的LLM扩展，以实现在逆向工程中使用人工智能辅助。
  * 🔥 [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - ⭐ 680 / 一个针对ChatGPT网络平台的实用插件，专注于长对话浏览，导出，搜索，提示管理和时间线导航。🚀||优化ChatGPT长会话卡顿，聊天记录一键导出，消息搜索跳转，会话管理，prompt管理和时间线导航
  * 🔥 [HolyClaude](https://github.com/coderluii/holyclaude) - ⭐ 1.8k / AI编码工作站：Claude Code + web UI + 5个AI CLI + 无头浏览器 + 50多种工具
+ * [openai-cpa](https://github.com/wenfxl/openai-cpa) - 具有双引擎（高速协议+反检测浏览器）的分布式自动化平台，用于高规模注册。协调集群工作人员、邮件引擎和CPA/Sub2API仓库。
+ * [nothumansearch](https://github.com/unitedideas/nothumansearch) - 人工智能代理搜索引擎 - 按代理准备情况对站点进行排名（llms.txt，OpenAPI，MCP，ai-plugin）。MCP服务器，REST API，全文搜索。索引超过8,000个站点。
 
 
 ## CLIs
@@ -1177,6 +1189,8 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 一个能够自动构建和维护的个人知识库。Claude（或Codex/Gemini）读取来源，提取知识，并维护一个持久的相互链接的维基。与Claude Code、Codex、OpenCode、Gemini CLI配合使用。无需API密钥。
  * [openagent](https://github.com/haohao-end/openagent) - AI代理开发平台-支持多个模型（OpenAI/DeepSeek/Wenxin/Tongyi），知识库管理，工作流自动化和企业级安全。采用Flask + Vue3 + LangChain构建，具有一键式Docker部署功能。
  * [forgecode](https://github.com/tailcallhq/forgecode) - AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。
+ * [ccpocket](https://github.com/k9i-0/ccpocket) - 移动客户端适用于Codex和Claude-通过WebSocket桥从手机控制编码代理
+ * [openrelay](https://github.com/romgx/openrelay) - 几百个免费AI模型配额，一键接入本地项目。
 
 
 ## Reimplementations
@@ -1652,6 +1666,7 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * 🔥 [hermes-agent](https://github.com/nousresearch/hermes-agent) - ⭐ 26k / 随着你成长的代理商
  * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScript多代理框架 - 从目标到结果只需一个runTeam()调用。自动任务分解，并行执行。3个依赖项，可部署在Node.js运行的任何地方。
  * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent（chatgpt-on-wechat）是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
+ * [SearChat](https://github.com/sear-chat/searchat) - 搜索 + 聊天 = SearChat（具有搜索功能的AI聊天），支持OpenAI/Anthropic/VertexAI/Gemini，DeepResearch，SearXNG，Docker。AI对话式搜索引擎，支持DeepResearch，支持OpenAI/Anthropic/VertexAI/Gemini接口，聚合搜索引擎SearXNG，支持Docker一键部署。
 
 
 ## Langchain
@@ -1832,6 +1847,7 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * 🔥 [headroom](https://github.com/chopratejas/headroom) - ⭐ 1.2k / 用于LLM应用程序的上下文优化层
  * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - 一体化本地AI应用。无审查的聊天，图像生成和视频创作 - 离线，私密，美观。由Ollama和ComfyUI提供动力。
  * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - 自托管的多代理人AI运行时，支持MCP服务器。使用内存、技能、日程表和23个以上的LLM提供商（Claude、GPT、Gemini、OpenRouter、Ollama）构建、编排和运行自主代理人。
+ * [kronk](https://github.com/ardanlabs/kronk) - 您的个人引擎，用于在本地运行开源模型。使用Go进行硬件加速的本地推理，直接通过yzma模块将llama.cpp集成到您的Go应用程序中。Kronk提供了一个高级API，感觉类似于使用Op。
 
 
 ## Unity
@@ -2175,6 +2191,7 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI 实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
  * [codedb](https://github.com/justrach/codedb) - Zig代码智能服务器和MCP工具集用于AI代理。快速树、大纲、符号、搜索、阅读、编辑、依赖、快照和远程GitHub存储库查询。
  * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT 多账户负载均衡器和代理，带有使用跟踪、仪表板和兼容OpenCode的端点。
+ * [copilot-api](https://github.com/caozhiyuan/copilot-api) - 将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code、Codex或Opencode一起使用！在使用之前，请完全阅读README.md！
 
 
 ## Others
@@ -2624,5 +2641,6 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - Rewind for AI Chats 是一个本地优先的存档和倒带应用程序，适用于 ChatGPT、Gemini、Claude 和 Grok，支持 MHTML / JSON 导入、分析和可分享的总结卡片。
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - 将您的AI代理程序变成黑客，只需插入这个MCP。
  * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code 生态管理平台 | Claude Code 生态系统管理平台 (MCP, 技能, 钩子, 配置)
+ * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT团队账号自动轮转管理 - Codex额度监控、自动换号、CPA认证同步
 
 

@@ -16,28 +16,37 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [Proma](https://github.com/erlichliu/proma) - 最も滑らかな一般エージェントの体験をあなたのワークフローに持ち込み、100倍のプロユーザー向けの未来の製品を実現する proactive Agent の段階にいます。Claude Agent SDKに基づく完全なオープンソースの実践に基づき、飛書グループチャットの呼び出しをネイティブサポートし、任意の大規模モデルサプライヤーを柔軟に接続できます。トップクラスのエージェント機能が本当に毎日使う場所で実行されるようにします。
+
+
+**Browser-extensions**
+ * [openai-cpa](https://github.com/wenfxl/openai-cpa) - デュアルエンジン（高速プロトコル+検出防止ブラウザ）を備えた分散自動化プラットフォームは、大規模登録に適しています。クラスターワーカー、メールエンジン、CPA/Sub2API倉庫を統括します。
+ * [nothumansearch](https://github.com/unitedideas/nothumansearch) - AIエージェント用の検索エンジン-サイトをエージェントの準備状況でランク付けします（llms.txt、OpenAPI、MCP、ai-plugin）。MCPサーバー、REST API、フルテキスト検索。8,000以上のインデックスされたサイト。
+
+
 **CLIs**
- * [forgecode](https://github.com/tailcallhq/forgecode) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
+ * [ccpocket](https://github.com/k9i-0/ccpocket) - CodexとClaudeのためのモバイルクライアント - WebSocketブリッジを介して電話からコーディングエージェントを制御します。
+ * [openrelay](https://github.com/romgx/openrelay) - 数百の無料AIモデルクォータ、ローカルプロジェクトへのワンクリックアクセス。
 
 
 **NLP**
- * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent（chatgpt-on-wechat）は、大規模モデルに基づいたスーパーAIアシスタントであり、自己主導的に考え、タスクを計画し、オペレーティングシステムや外部リソースにアクセスし、スキルを作成および実行し、長期記憶と知識ベースを通じて成長し続けることができます。OpenClawよりも軽量で便利です。同時に、WeChat、Feishu、DingTalk、WeCom、QQ、公衆号、ウェブサイトなどに接続することができ、OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAIを選択できます。テキスト、音声、画像、ファイルを処理し、個人用AIアシスタントや企業のデジタル従業員を迅速に構築することができます。
+ * [SearChat](https://github.com/sear-chat/searchat) - 検索+チャット= SearChat（検索付きAIチャット）、OpenAI/Anthropic/VertexAI/Geminiをサポート、DeepResearch、SearXNG、Dockerをサポート。AI対話型検索エンジン、DeepResearchをサポート、OpenAI/Anthropic/VertexAI/Geminiインターフェースをサポート、集約検索エンジンSearXNGをサポート、Dockerワンクリック展開をサポート。
 
 
 **Langchain**
- * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - 自己ホスト型のマルチエージェントAIランタイムで、MCPサーバーサポートを備えています。メモリ、スキル、スケジュール、23以上のLLMプロバイダ（Claude、GPT、Gemini、OpenRouter、Ollama）を備えた自律エージェントを構築、オーケストレーション、実行できます。
+ * [kronk](https://github.com/ardanlabs/kronk) - オープンソースモデルをローカルで実行するための個人用エンジンです。Goを使用して、llama.cppがyzmaモジュールを介して直接Goアプリケーションに統合されたハードウェアアクセラレーションローカル推論を行います。Kronkは、Opを使用するのと似た高レベルAPIを提供します。
 
 
 **Openai**
- * [codedb](https://github.com/justrach/codedb) - ZigコードインテリジェンスサーバーとAIエージェント向けのMCPツールセット。高速ツリー、アウトライン、シンボル、検索、読み取り、編集、依存関係、スナップショット、およびリモートGitHubリポジトリのクエリ。
- * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイントCodex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイント
+ * [copilot-api](https://github.com/caozhiyuan/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換サーバーに変換してください。Claude CodeまたはCodexまたはOpencodeと一緒に使用できます！使用する前にREADME.mdを完全にお読みください！
 
 
 **Others**
- * [cchub](https://github.com/moresl/cchub) - CCHub - クロードコード生態管理プラットフォーム | クロードコードエコシステム管理プラットフォーム（MCP、スキル、フック、設定）
+ * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT チームのアカウント自動ローテーション管理 - Codex 限度監視、自動番号変更、CPA 認証同期
 
 
-_Updated on April 15, 2026_ (A total of 2512 repositories listed.)
+_Updated on April 20, 2026_ (A total of 2521 repositories listed.)
 
 ## Table of contents
 
@@ -710,6 +719,7 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * 🔥 [openclaw](https://github.com/openclaw/openclaw) - ⭐ 349k / あなた自身の個人用AIアシスタント。どんなOSでも。どんなプラットフォームでも。ロブスターのやり方。🦞
  * [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - OpenClawのためのリアルタイムWebコックピット：音声会話、エージェント自動化されたかんばんボード、ワークスペース/ファイル制御、サブエージェントセッション、インラインチャート、利用状況の可視化。
  * [nanobot](https://github.com/hkuds/nanobot) - "🐈 ナノボット：超軽量個人用AIエージェント"
+ * [Proma](https://github.com/erlichliu/proma) - 最も滑らかな一般エージェントの体験をあなたのワークフローに持ち込み、100倍のプロユーザー向けの未来の製品を実現する proactive Agent の段階にいます。Claude Agent SDKに基づく完全なオープンソースの実践に基づき、飛書グループチャットの呼び出しをネイティブサポートし、任意の大規模モデルサプライヤーを柔軟に接続できます。トップクラスのエージェント機能が本当に毎日使う場所で実行されるようにします。
 
 
 ## Browser-extensions
@@ -960,6 +970,8 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * 🔥 [GhidrAssist](https://github.com/symgraph/ghidrassist) - ⭐ 598 / GhidraにAI支援を可能にするLLM拡張機能。
  * 🔥 [chatgpt-Long-conversation-optimization](https://github.com/bujue3709/chatgpt-long-conversation-optimization) - ⭐ 680 / ChatGPTウェブプラットフォーム用の便利なプラグインで、長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションに焦点を当てています。🚀|| ChatGPTの長い会話の閲覧、エクスポート、検索、プロンプト管理、およびタイムラインナビゲーションを最適化します。
  * 🔥 [HolyClaude](https://github.com/coderluii/holyclaude) - ⭐ 1.8k / AIコーディングワークステーション：クロードコード+ Web UI + 5つのAI CLI + ヘッドレスブラウザ + 50以上のツール
+ * [openai-cpa](https://github.com/wenfxl/openai-cpa) - デュアルエンジン（高速プロトコル+検出防止ブラウザ）を備えた分散自動化プラットフォームは、大規模登録に適しています。クラスターワーカー、メールエンジン、CPA/Sub2API倉庫を統括します。
+ * [nothumansearch](https://github.com/unitedideas/nothumansearch) - AIエージェント用の検索エンジン-サイトをエージェントの準備状況でランク付けします（llms.txt、OpenAPI、MCP、ai-plugin）。MCPサーバー、REST API、フルテキスト検索。8,000以上のインデックスされたサイト。
 
 
 ## CLIs
@@ -1177,6 +1189,8 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * [llm-wiki-agent](https://github.com/samuraigpt/llm-wiki-agent) - 自己構築および自己維持する個人用知識ベース。 クロード（またはCodex / Gemini）がソースを読み込み、知識を抽出し、持続的に相互リンクされたウィキを維持します。 クロードコード、Codex、OpenCode、Gemini CLIと連携します。 APIキーは必要ありません。
  * [openagent](https://github.com/haohao-end/openagent) - AIエージェント開発プラットフォーム - 複数のモデル（OpenAI/DeepSeek/Wenxin/Tongyi）をサポートし、知識ベースの管理、ワークフローの自動化、エンタープライズグレードのセキュリティを提供します。Flask + Vue3 + LangChainで構築され、ワンクリックでのDockerデプロイメントが可能です。
  * [forgecode](https://github.com/tailcallhq/forgecode) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
+ * [ccpocket](https://github.com/k9i-0/ccpocket) - CodexとClaudeのためのモバイルクライアント - WebSocketブリッジを介して電話からコーディングエージェントを制御します。
+ * [openrelay](https://github.com/romgx/openrelay) - 数百の無料AIモデルクォータ、ローカルプロジェクトへのワンクリックアクセス。
 
 
 ## Reimplementations
@@ -1652,6 +1666,7 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * 🔥 [hermes-agent](https://github.com/nousresearch/hermes-agent) - ⭐ 26k / あなたと共に成長するエージェント
  * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScriptマルチエージェントフレームワーク-ゴールから結果までの1つのrunTeam()呼び出し。自動タスク分解、並列実行。3つの依存関係、Node.jsが実行される場所に展開可能。
  * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent（chatgpt-on-wechat）は、大規模モデルに基づいたスーパーAIアシスタントであり、自己主導的に考え、タスクを計画し、オペレーティングシステムや外部リソースにアクセスし、スキルを作成および実行し、長期記憶と知識ベースを通じて成長し続けることができます。OpenClawよりも軽量で便利です。同時に、WeChat、Feishu、DingTalk、WeCom、QQ、公衆号、ウェブサイトなどに接続することができ、OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAIを選択できます。テキスト、音声、画像、ファイルを処理し、個人用AIアシスタントや企業のデジタル従業員を迅速に構築することができます。
+ * [SearChat](https://github.com/sear-chat/searchat) - 検索+チャット= SearChat（検索付きAIチャット）、OpenAI/Anthropic/VertexAI/Geminiをサポート、DeepResearch、SearXNG、Dockerをサポート。AI対話型検索エンジン、DeepResearchをサポート、OpenAI/Anthropic/VertexAI/Geminiインターフェースをサポート、集約検索エンジンSearXNGをサポート、Dockerワンクリック展開をサポート。
 
 
 ## Langchain
@@ -1832,6 +1847,7 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * 🔥 [headroom](https://github.com/chopratejas/headroom) - ⭐ 1.2k / LLMアプリケーションのコンテキスト最適化レイヤー
  * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - オールインワンのローカルAIアプリ。検閲されていないチャット、画像生成、ビデオ作成 — オフライン、プライベート、美しい。Ollama＆ComfyUIによって動作します。
  * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - 自己ホスト型のマルチエージェントAIランタイムで、MCPサーバーサポートを備えています。メモリ、スキル、スケジュール、23以上のLLMプロバイダ（Claude、GPT、Gemini、OpenRouter、Ollama）を備えた自律エージェントを構築、オーケストレーション、実行できます。
+ * [kronk](https://github.com/ardanlabs/kronk) - オープンソースモデルをローカルで実行するための個人用エンジンです。Goを使用して、llama.cppがyzmaモジュールを介して直接Goアプリケーションに統合されたハードウェアアクセラレーションローカル推論を行います。Kronkは、Opを使用するのと似た高レベルAPIを提供します。
 
 
 ## Unity
@@ -2175,6 +2191,7 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - PlaywrightとAIを活用したフリマアプリのマルチタスクリアルタイム/タイマー監視およびインテリジェント分析システム、機能豊富なバックエンド管理UIを備えています。ユーザーがフリマアプリの大量の商品から理想の商品を見つけるのを支援します。
  * [codedb](https://github.com/justrach/codedb) - ZigコードインテリジェンスサーバーとAIエージェント向けのMCPツールセット。高速ツリー、アウトライン、シンボル、検索、読み取り、編集、依存関係、スナップショット、およびリモートGitHubリポジトリのクエリ。
  * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイントCodex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイント
+ * [copilot-api](https://github.com/caozhiyuan/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換サーバーに変換してください。Claude CodeまたはCodexまたはOpencodeと一緒に使用できます！使用する前にREADME.mdを完全にお読みください！
 
 
 ## Others
@@ -2624,5 +2641,6 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * [rewind-for-ai-chats](https://github.com/pme26elvis/rewind-for-ai-chats) - AIチャットのリワインドは、ChatGPT、Gemini、Claude、およびGrok向けのローカルファーストアーカイブおよびリワインドアプリで、MHTML / JSONのインポート、アナリティクス、共有可能なリキャップカードを備えています。
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - このMCPを差し込むことで、あなたのAIエージェントをハッカーに変える
  * [cchub](https://github.com/moresl/cchub) - CCHub - クロードコード生態管理プラットフォーム | クロードコードエコシステム管理プラットフォーム（MCP、スキル、フック、設定）
+ * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT チームのアカウント自動ローテーション管理 - Codex 限度監視、自動番号変更、CPA 認証同期
 
 

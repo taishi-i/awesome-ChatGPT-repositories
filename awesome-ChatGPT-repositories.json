@@ -16185,6 +16185,29 @@
                     "zh-hans": "\"🐈 纳米机器人：超轻个人AI代理\"",
                     "zh-hant": "\"🐈納米機器人：超輕量級個人人工智能代理\""
                 }
+            },
+            "https://github.com/erlichliu/proma": {
+                "repository_name": "Proma",
+                "user_name": "ErlichLiu",
+                "language": "TypeScript",
+                "license": null,
+                "description": "把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。",
+                "topics": [
+                    "agent",
+                    "agent-sdk",
+                    "agents",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "llm"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Bring the smoothest universal Agent experience into your workflow, the future product designed for 100x professional users is realizing the proactive Agent stage. Based on the complete open-source practice of Claude Agent SDK, it natively supports Feishu group chat calls and flexible access to any large model supplier - allowing top Agent capabilities to truly run where you use them every day.",
+                    "ja": "最も滑らかな一般エージェントの体験をあなたのワークフローに持ち込み、100倍のプロユーザー向けの未来の製品を実現する proactive Agent の段階にいます。Claude Agent SDKに基づく完全なオープンソースの実践に基づき、飛書グループチャットの呼び出しをネイティブサポートし、任意の大規模モデルサプライヤーを柔軟に接続できます。トップクラスのエージェント機能が本当に毎日使う場所で実行されるようにします。",
+                    "zh-hans": "将最丝滑的通用 Agent 体验带入您的工作流程，为100倍专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用，灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正运行在您每天使用的地方。",
+                    "zh-hant": "將最絲滑的通用 Agent 體驗帶進你的工作流，為 100x 專業用戶而生的未來產品，正在實現 proactive Agent 階段。基於 Claude Agent SDK 的完整開源實踐，原生支持飛書群聊調用、靈活接入任意大模型供應商 —— 讓頂級 Agent 能力真正跑在你每天用的地方。"
+                }
             }
         },
         "Browser-extensions": {
@@ -22038,6 +22061,51 @@
                     "zh-hans": "AI编码工作站：Claude Code + web UI + 5个AI CLI + 无头浏览器 + 50多种工具",
                     "zh-hant": "AI編碼工作站：Claude Code + web UI + 5個AI CLI + 無頭瀏覽器 + 50多種工具"
                 }
+            },
+            "https://github.com/wenfxl/openai-cpa": {
+                "repository_name": "openai-cpa",
+                "user_name": "wenfxl",
+                "language": null,
+                "license": "Other",
+                "description": "Distributed Automation Platform with Dual-Engine (High-speed Protocol + Anti-detection Browser) for high-scale registration. Orchestrates cluster workers, mail engines, and CPA/Sub2API warehouses.",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Distributed Automation Platform with Dual-Engine (High-speed Protocol + Anti-detection Browser) for high-scale registration. Orchestrates cluster workers, mail engines, and CPA/Sub2API warehouses.",
+                    "ja": "デュアルエンジン（高速プロトコル+検出防止ブラウザ）を備えた分散自動化プラットフォームは、大規模登録に適しています。クラスターワーカー、メールエンジン、CPA/Sub2API倉庫を統括します。",
+                    "zh-hans": "具有双引擎（高速协议+反检测浏览器）的分布式自动化平台，用于高规模注册。协调集群工作人员、邮件引擎和CPA/Sub2API仓库。",
+                    "zh-hant": "具有雙引擎（高速協議+反檢測瀏覽器）的分佈式自動化平台，用於高規模註冊。協調集群工作人員、郵件引擎和CPA/Sub2API倉庫。"
+                }
+            },
+            "https://github.com/unitedideas/nothumansearch": {
+                "repository_name": "nothumansearch",
+                "user_name": "unitedideas",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "Search engine for AI agents — ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin). MCP server, REST API, full-text search. 8,000+ indexed sites.",
+                "topics": [
+                    "agent-discovery",
+                    "agentic-ai",
+                    "ai-agents",
+                    "ai-plugin",
+                    "ai-tools",
+                    "anthropic",
+                    "claude",
+                    "fly-io",
+                    "go",
+                    "llms-txt",
+                    "mcp",
+                    "mcp-server",
+                    "model-context-protocol",
+                    "openapi",
+                    "postgres",
+                    "search-engine"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Search engine for AI agents — ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin). MCP server, REST API, full-text search. 8,000+ indexed sites.",
+                    "ja": "AIエージェント用の検索エンジン-サイトをエージェントの準備状況でランク付けします（llms.txt、OpenAPI、MCP、ai-plugin）。MCPサーバー、REST API、フルテキスト検索。8,000以上のインデックスされたサイト。",
+                    "zh-hans": "人工智能代理搜索引擎 - 按代理准备情况对站点进行排名（llms.txt，OpenAPI，MCP，ai-plugin）。MCP服务器，REST API，全文搜索。索引超过8,000个站点。",
+                    "zh-hant": "人工智慧代理搜尋引擎 - 依代理準備度排名網站（llms.txt，OpenAPI，MCP，ai-plugin）。MCP伺服器，REST API，全文檢索。已索引超過8,000個網站。"
+                }
             }
         },
         "CLIs": {
@@ -27209,6 +27277,67 @@
                     "ja": "クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー",
                     "zh-hans": "AI启用的配对程序员，适用于Claude、GPT、O Series、Grok、Deepseek、Gemini和300多个模型。",
                     "zh-hant": "AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。"
+                }
+            },
+            "https://github.com/k9i-0/ccpocket": {
+                "repository_name": "ccpocket",
+                "user_name": "K9i-0",
+                "language": "Dart",
+                "license": "Other",
+                "description": "Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge",
+                "topics": [
+                    "android",
+                    "bridge-server",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "flutter",
+                    "ios",
+                    "mobile",
+                    "openai",
+                    "remote-control",
+                    "typescript",
+                    "websocket"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge",
+                    "ja": "CodexとClaudeのためのモバイルクライアント - WebSocketブリッジを介して電話からコーディングエージェントを制御します。",
+                    "zh-hans": "移动客户端适用于Codex和Claude-通过WebSocket桥从手机控制编码代理",
+                    "zh-hant": "Codex和Claude的手機客戶端-通過WebSocket橋接從您的手機控制編碼代理"
+                }
+            },
+            "https://github.com/romgx/openrelay": {
+                "repository_name": "openrelay",
+                "user_name": "romgX",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects. ",
+                "topics": [
+                    "ai",
+                    "ai-proxy",
+                    "aider",
+                    "cerebras",
+                    "claude",
+                    "claude-code",
+                    "copilot",
+                    "cursor",
+                    "developer-tools",
+                    "free-ai",
+                    "free-api",
+                    "groq",
+                    "kiro",
+                    "llm-proxy",
+                    "model-router",
+                    "openai",
+                    "openclaw",
+                    "proxy",
+                    "windsurf"
+                ],
+                "multilingual_descriptions": {
+                    "en": "几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.",
+                    "ja": "数百の無料AIモデルクォータ、ローカルプロジェクトへのワンクリックアクセス。",
+                    "zh-hans": "几百个免费AI模型配额，一键接入本地项目。",
+                    "zh-hant": "數百個免費 AI 模型配額，一鍵接入本地項目。"
                 }
             }
         },
@@ -37807,6 +37936,32 @@
                     "zh-hans": "CowAgent（chatgpt-on-wechat）是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。",
                     "zh-hant": "CowAgent（chatgpt-on-wechat）是基於大模型的超級AI助理，能主動思考和任務規劃、訪問操作系統和外部資源、創造和執行Skills、通過長期記憶和知識庫不斷成長，比OpenClaw更輕量和便捷。同時支持微信、飛書、釘釘、企微、QQ、公眾號、網頁等接入，可選擇OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI，能處理文本、語音、圖片和文件，可快速搭建個人AI助理和企業數字員工。"
                 }
+            },
+            "https://github.com/sear-chat/searchat": {
+                "repository_name": "SearChat",
+                "user_name": "sear-chat",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。",
+                "topics": [
+                    "ai",
+                    "anthropic",
+                    "deepresearch",
+                    "gemini",
+                    "llm",
+                    "mcp",
+                    "openai",
+                    "rag",
+                    "search",
+                    "searxng",
+                    "vertexai"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。",
+                    "ja": "検索+チャット= SearChat（検索付きAIチャット）、OpenAI/Anthropic/VertexAI/Geminiをサポート、DeepResearch、SearXNG、Dockerをサポート。AI対話型検索エンジン、DeepResearchをサポート、OpenAI/Anthropic/VertexAI/Geminiインターフェースをサポート、集約検索エンジンSearXNGをサポート、Dockerワンクリック展開をサポート。",
+                    "zh-hans": "搜索 + 聊天 = SearChat（具有搜索功能的AI聊天），支持OpenAI/Anthropic/VertexAI/Gemini，DeepResearch，SearXNG，Docker。AI对话式搜索引擎，支持DeepResearch，支持OpenAI/Anthropic/VertexAI/Gemini接口，聚合搜索引擎SearXNG，支持Docker一键部署。",
+                    "zh-hant": "搜索 + 聊天 = SearChat（具有搜索功能的AI聊天），支持OpenAI/Anthropic/VertexAI/Gemini，DeepResearch，SearXNG，Docker。AI對話式搜索引擎，支持DeepResearch，支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一鍵部署。"
+                }
             }
         },
         "Langchain": {
@@ -42261,6 +42416,20 @@
                     "ja": "自己ホスト型のマルチエージェントAIランタイムで、MCPサーバーサポートを備えています。メモリ、スキル、スケジュール、23以上のLLMプロバイダ（Claude、GPT、Gemini、OpenRouter、Ollama）を備えた自律エージェントを構築、オーケストレーション、実行できます。",
                     "zh-hans": "自托管的多代理人AI运行时，支持MCP服务器。使用内存、技能、日程表和23个以上的LLM提供商（Claude、GPT、Gemini、OpenRouter、Ollama）构建、编排和运行自主代理人。",
                     "zh-hant": "具有MCP服务器支持的自托管多代理AI运行时。 使用内存，技能，时间表和23个以上的LLM提供商（Claude，GPT，Gemini，OpenRouter，Ollama）构建，编排和运行自主代理。"
+                }
+            },
+            "https://github.com/ardanlabs/kronk": {
+                "repository_name": "kronk",
+                "user_name": "ardanlabs",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk provides a high-level API that feels similar to using an OpenAI compatible API. Kronk also provides a model server to run local work",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk provides a high-level API that feels similar to using an Op",
+                    "ja": "オープンソースモデルをローカルで実行するための個人用エンジンです。Goを使用して、llama.cppがyzmaモジュールを介して直接Goアプリケーションに統合されたハードウェアアクセラレーションローカル推論を行います。Kronkは、Opを使用するのと似た高レベルAPIを提供します。",
+                    "zh-hans": "您的个人引擎，用于在本地运行开源模型。使用Go进行硬件加速的本地推理，直接通过yzma模块将llama.cpp集成到您的Go应用程序中。Kronk提供了一个高级API，感觉类似于使用Op。",
+                    "zh-hant": "您的個人引擎，用於在本地運行開源模型。使用Go進行硬件加速的本地推理，直接通過yzma模塊將llama.cpp集成到您的Go應用程序中。Kronk提供了一個高級API，感覺類似於使用Op。"
                 }
             }
         },
@@ -49547,6 +49716,22 @@
                     "ja": "Codex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイントCodex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイント",
                     "zh-hans": "Codex/ChatGPT 多账户负载均衡器和代理，带有使用跟踪、仪表板和兼容OpenCode的端点。",
                     "zh-hant": "Codex/ChatGPT 多帳戶負載平衡器和代理，具有使用追蹤、儀表板和兼容 OpenCode 的端點"
+                }
+            },
+            "https://github.com/caozhiyuan/copilot-api": {
+                "repository_name": "copilot-api",
+                "user_name": "caozhiyuan",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code Or Codex Or Opencode! Please read README.md completely before use!",
+                "topics": [
+                    "github-copilot"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code Or Codex Or Opencode! Please read README.md completely before use!",
+                    "ja": "GitHub CopilotをOpenAI/Anthropic API互換サーバーに変換してください。Claude CodeまたはCodexまたはOpencodeと一緒に使用できます！使用する前にREADME.mdを完全にお読みください！",
+                    "zh-hans": "将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code、Codex或Opencode一起使用！在使用之前，请完全阅读README.md！",
+                    "zh-hant": "將GitHub Copilot轉換為OpenAI/Anthropic API兼容的伺服器。可與Claude Code、Codex或Opencode一起使用！請在使用之前完全閱讀README.md！"
                 }
             }
         },
@@ -58049,6 +58234,20 @@
                     "ja": "CCHub - クロードコード生態管理プラットフォーム | クロードコードエコシステム管理プラットフォーム（MCP、スキル、フック、設定）",
                     "zh-hans": "CCHub - Claude Code 生态管理平台 | Claude Code 生态系统管理平台 (MCP, 技能, 钩子, 配置)",
                     "zh-hant": "CCHub - Claude Code 生態管理平台 | Claude Code 生態系統管理平台 (MCP, 技能, 鉤子, 配置)"
+                }
+            },
+            "https://github.com/cnitlrt/autoteam": {
+                "repository_name": "AutoTeam",
+                "user_name": "cnitlrt",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "ChatGPT Team account automatic rotation management - Codex limit monitoring, automatic number change, CPA certification synchronization",
+                    "ja": "ChatGPT チームのアカウント自動ローテーション管理 - Codex 限度監視、自動番号変更、CPA 認証同期",
+                    "zh-hans": "ChatGPT团队账号自动轮转管理 - Codex额度监控、自动换号、CPA认证同步",
+                    "zh-hant": "ChatGPT 團隊帳號自動輪轉管理 - Codex 額度監控、自動換號、CPA 認證同步"
                 }
             }
         }
