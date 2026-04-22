@@ -16,37 +16,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Proma](https://github.com/erlichliu/proma) - 最も滑らかな一般エージェントの体験をあなたのワークフローに持ち込み、100倍のプロユーザー向けの未来の製品を実現する proactive Agent の段階にいます。Claude Agent SDKに基づく完全なオープンソースの実践に基づき、飛書グループチャットの呼び出しをネイティブサポートし、任意の大規模モデルサプライヤーを柔軟に接続できます。トップクラスのエージェント機能が本当に毎日使う場所で実行されるようにします。
+**Awesome-lists**
+ * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - OpenAI API用のキュレーションされたGPT-Image-2プロンプト - ポートレート、ポスター、UIモックアップ、ゲームのスクリーンショット、キャラクターシートなど。gpt-image-2用の即座に使用可能なプロンプト。
 
 
-**Browser-extensions**
- * [openai-cpa](https://github.com/wenfxl/openai-cpa) - デュアルエンジン（高速プロトコル+検出防止ブラウザ）を備えた分散自動化プラットフォームは、大規模登録に適しています。クラスターワーカー、メールエンジン、CPA/Sub2API倉庫を統括します。
- * [nothumansearch](https://github.com/unitedideas/nothumansearch) - AIエージェント用の検索エンジン-サイトをエージェントの準備状況でランク付けします（llms.txt、OpenAPI、MCP、ai-plugin）。MCPサーバー、REST API、フルテキスト検索。8,000以上のインデックスされたサイト。
+**Prompts**
+ * [open-codesign](https://github.com/opencoworkai/open-codesign) - オープンソースのクロードデザインの代替。クロードコード/コーデックスAPIキーをワンクリックでインポートします。プロンプト→プロトタイプ/スライド/PDF。マルチモデル（クロード、GPT、ジェミニ、キミ、GLM、オラマ）。BYOK、ローカルファースト、MIT。
 
 
 **CLIs**
- * [ccpocket](https://github.com/k9i-0/ccpocket) - CodexとClaudeのためのモバイルクライアント - WebSocketブリッジを介して電話からコーディングエージェントを制御します。
- * [openrelay](https://github.com/romgx/openrelay) - 数百の無料AIモデルクォータ、ローカルプロジェクトへのワンクリックアクセス。
-
-
-**NLP**
- * [SearChat](https://github.com/sear-chat/searchat) - 検索+チャット= SearChat（検索付きAIチャット）、OpenAI/Anthropic/VertexAI/Geminiをサポート、DeepResearch、SearXNG、Dockerをサポート。AI対話型検索エンジン、DeepResearchをサポート、OpenAI/Anthropic/VertexAI/Geminiインターフェースをサポート、集約検索エンジンSearXNGをサポート、Dockerワンクリック展開をサポート。
+ * [snow-cli](https://github.com/mayday-wpf/snow-cli) - ターミナルでのエージェントコーディング、同時にOpenAI、Gemini、およびClaudeと互換性があります。
 
 
 **Langchain**
- * [kronk](https://github.com/ardanlabs/kronk) - オープンソースモデルをローカルで実行するための個人用エンジンです。Goを使用して、llama.cppがyzmaモジュールを介して直接Goアプリケーションに統合されたハードウェアアクセラレーションローカル推論を行います。Kronkは、Opを使用するのと似た高レベルAPIを提供します。
+ * [openyak](https://github.com/openyak/openyak) - Input: OpenYak — Windows、macOS、およびLinux向けのオープンソースのローカルAIエージェント。Claude Code、Claude for Work、およびOpenAI CodexのプライベートでBYOKの代替手段であり、OpenRouter、MCP、およびOllamaを介して20以上のツール、100以上のモデルを提供しています。無料で、MITライセンスで、テレメトリーはありません。
 
 
-**Openai**
- * [copilot-api](https://github.com/caozhiyuan/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換サーバーに変換してください。Claude CodeまたはCodexまたはOpencodeと一緒に使用できます！使用する前にREADME.mdを完全にお読みください！
-
-
-**Others**
- * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT チームのアカウント自動ローテーション管理 - Codex 限度監視、自動番号変更、CPA 認証同期
-
-
-_Updated on April 20, 2026_ (A total of 2521 repositories listed.)
+_Updated on April 23, 2026_ (A total of 2525 repositories listed.)
 
 ## Table of contents
 
@@ -158,6 +144,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 698 / Claude Code、OpenCode、Codex CLI用のプラグインとスキル。ワークフロー自動化、コードレビュー、スロップ検出、PR管理、ドリフト検出などのための29の自律エージェント。
  * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 158k / a.k.a. オーサムチャットGPTプロンプト。コミュニティからプロンプトを共有、発見、収集。無料でオープンソース-完全なプライバシーを持つ組織用に自己ホスト化できます。
  * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPTトレーニングガイド|呪文ガイド|チャットのヒントガイド|学習ガイド
+ * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - OpenAI API用のキュレーションされたGPT-Image-2プロンプト - ポートレート、ポスター、UIモックアップ、ゲームのスクリーンショット、キャラクターシートなど。gpt-image-2用の即座に使用可能なプロンプト。
 
 
 ## Prompts
@@ -343,6 +330,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * 🔥 [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - ⭐ 2.8k / プロンプトと有効なWeb Scraper API資格情報を提供することで、ChatGPTスクレイパーから簡単に回答を収集できます。
  * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 プロンプトエンジニアリングに関するガイド、論文、講義、ノート、およびリソースの完全版（自動更新）
  * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22の迅速なエンジニアリング技術と、基本的な概念からLLMを活用するための高度な戦略までを扱ったJupyter Notebookの実践的なチュートリアル。
+ * [open-codesign](https://github.com/opencoworkai/open-codesign) - オープンソースのクロードデザインの代替。クロードコード/コーデックスAPIキーをワンクリックでインポートします。プロンプト→プロトタイプ/スライド/PDF。マルチモデル（クロード、GPT、ジェミニ、キミ、GLM、オラマ）。BYOK、ローカルファースト、MIT。
 
 
 ## Chatbots
@@ -1191,6 +1179,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * [forgecode](https://github.com/tailcallhq/forgecode) - クロード、GPT、Oシリーズ、Grok、Deepseek、ジェミニ、および300以上のモデルに対応したAI搭載のペアプログラマー
  * [ccpocket](https://github.com/k9i-0/ccpocket) - CodexとClaudeのためのモバイルクライアント - WebSocketブリッジを介して電話からコーディングエージェントを制御します。
  * [openrelay](https://github.com/romgx/openrelay) - 数百の無料AIモデルクォータ、ローカルプロジェクトへのワンクリックアクセス。
+ * [snow-cli](https://github.com/mayday-wpf/snow-cli) - ターミナルでのエージェントコーディング、同時にOpenAI、Gemini、およびClaudeと互換性があります。
 
 
 ## Reimplementations
@@ -1848,6 +1837,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - オールインワンのローカルAIアプリ。検閲されていないチャット、画像生成、ビデオ作成 — オフライン、プライベート、美しい。Ollama＆ComfyUIによって動作します。
  * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - 自己ホスト型のマルチエージェントAIランタイムで、MCPサーバーサポートを備えています。メモリ、スキル、スケジュール、23以上のLLMプロバイダ（Claude、GPT、Gemini、OpenRouter、Ollama）を備えた自律エージェントを構築、オーケストレーション、実行できます。
  * [kronk](https://github.com/ardanlabs/kronk) - オープンソースモデルをローカルで実行するための個人用エンジンです。Goを使用して、llama.cppがyzmaモジュールを介して直接Goアプリケーションに統合されたハードウェアアクセラレーションローカル推論を行います。Kronkは、Opを使用するのと似た高レベルAPIを提供します。
+ * [openyak](https://github.com/openyak/openyak) - Input: OpenYak — Windows、macOS、およびLinux向けのオープンソースのローカルAIエージェント。Claude Code、Claude for Work、およびOpenAI CodexのプライベートでBYOKの代替手段であり、OpenRouter、MCP、およびOllamaを介して20以上のツール、100以上のモデルを提供しています。無料で、MITライセンスで、テレメトリーはありません。
 
 
 ## Unity

@@ -16,37 +16,23 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Proma](https://github.com/erlichliu/proma) - 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
+**Awesome-lists**
+ * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - Curated GPT-Image-2 prompts for the OpenAI API — portraits, posters, UI mockups, game screenshots, character sheets, and more. Ready-to-use prompts for gpt-image-2.
 
 
-**Browser-extensions**
- * [openai-cpa](https://github.com/wenfxl/openai-cpa) - Distributed Automation Platform with Dual-Engine (High-speed Protocol + Anti-detection Browser) for high-scale registration. Orchestrates cluster workers, mail engines, and CPA/Sub2API warehouses.
- * [nothumansearch](https://github.com/unitedideas/nothumansearch) - Search engine for AI agents — ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin). MCP server, REST API, full-text search. 8,000+ indexed sites.
+**Prompts**
+ * [open-codesign](https://github.com/opencoworkai/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
 
 
 **CLIs**
- * [ccpocket](https://github.com/k9i-0/ccpocket) - Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
- * [openrelay](https://github.com/romgx/openrelay) - 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
-
-
-**NLP**
- * [SearChat](https://github.com/sear-chat/searchat) - Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
+ * [snow-cli](https://github.com/mayday-wpf/snow-cli) - Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.
 
 
 **Langchain**
- * [kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk provides a high-level API that feels similar to using an OpenAI compatible API. Kronk also provides a model server to run local work
+ * [openyak](https://github.com/openyak/openyak) - OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.
 
 
-**Openai**
- * [copilot-api](https://github.com/caozhiyuan/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code Or Codex Or Opencode! Please read README.md completely before use!
-
-
-**Others**
- * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步
-
-
-_Updated on April 20, 2026_ (A total of 2521 repositories listed.)
+_Updated on April 23, 2026_ (A total of 2525 repositories listed.)
 
 ## Table of contents
 
@@ -158,6 +144,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 698 / Plugins & skills for Claude Code, OpenCode & Codex CLI. 29 autonomous agents for workflow automation, code review, slop detection, PR management, drift detection & more.
  * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 158k / a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
  * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南
+ * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - Curated GPT-Image-2 prompts for the OpenAI API — portraits, posters, UI mockups, game screenshots, character sheets, and more. Ready-to-use prompts for gpt-image-2.
 
 
 ## Prompts
@@ -343,6 +330,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * 🔥 [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - ⭐ 2.8k / Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
  * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）
  * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
+ * [open-codesign](https://github.com/opencoworkai/open-codesign) - PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
 
 
 ## Chatbots
@@ -1191,6 +1179,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * [forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
  * [ccpocket](https://github.com/k9i-0/ccpocket) - Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
  * [openrelay](https://github.com/romgx/openrelay) - 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
+ * [snow-cli](https://github.com/mayday-wpf/snow-cli) - Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.
 
 
 ## Reimplementations
@@ -1848,6 +1837,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - All-in-one local AI app. Uncensored chat, image generation, and video creation — offline, private, beautiful. Powered by Ollama & ComfyUI.
  * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - Self-hosted multi-agent AI runtime with MCP server support. Build, orchestrate, and run autonomous agents with memory, skills, schedules, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama).
  * [kronk](https://github.com/ardanlabs/kronk) - Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp directly integrated into your Go applications via the yzma module. Kronk provides a high-level API that feels similar to using an OpenAI compatible API. Kronk also provides a model server to run local work
+ * [openyak](https://github.com/openyak/openyak) - OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.
 
 
 ## Unity
