@@ -2408,6 +2408,41 @@
                     "zh-hans": "ChatGPT调教指南|咒语指南|聊天提示词指南|学习指南ChatGPT 调教指南|咒语指南|聊天提示词指南|学习指南",
                     "zh-hant": "ChatGPT調教指南|咒語指南|聊天提示詞指南|學習指南"
                 }
+            },
+            "https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts": {
+                "repository_name": "Awesome-GPT-Image-2-API-Prompts",
+                "user_name": "Anil-matcha",
+                "language": null,
+                "license": "MIT License",
+                "description": "Curated GPT-Image-2 prompts for the OpenAI API — portraits, posters, UI mockups, game screenshots, character sheets, and more. Ready-to-use prompts for gpt-image-2.",
+                "topics": [
+                    "ai-art",
+                    "ai-generated-art",
+                    "ai-image",
+                    "api",
+                    "awesome-list",
+                    "chatgpt",
+                    "dalle",
+                    "generative-ai",
+                    "gpt-image-2",
+                    "gpt-image-2-prompts",
+                    "image-generation",
+                    "image-prompts",
+                    "midjourney-prompts",
+                    "openai",
+                    "openai-api",
+                    "prompt-collection",
+                    "prompt-engineering",
+                    "prompts",
+                    "stable-diffusion-prompts",
+                    "text-to-image"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Curated GPT-Image-2 prompts for the OpenAI API — portraits, posters, UI mockups, game screenshots, character sheets, and more. Ready-to-use prompts for gpt-image-2.",
+                    "ja": "OpenAI API用のキュレーションされたGPT-Image-2プロンプト - ポートレート、ポスター、UIモックアップ、ゲームのスクリーンショット、キャラクターシートなど。gpt-image-2用の即座に使用可能なプロンプト。",
+                    "zh-hans": "为OpenAI API精心策划的GPT-Image-2提示 - 肖像、海报、UI模型、游戏截图、角色表等等。GPT-Image-2的即用提示。",
+                    "zh-hant": "為OpenAI API精心挑選的GPT-Image-2提示 - 肖像、海報、UI模擬、遊戲截圖、角色表等等。GPT-Image-2的即用提示。"
+                }
             }
         },
         "Prompts": {
@@ -6806,6 +6841,41 @@
                     "ja": "22の迅速なエンジニアリング技術と、基本的な概念からLLMを活用するための高度な戦略までを扱ったJupyter Notebookの実践的なチュートリアル。",
                     "zh-hans": "22个快速的工程技术，配有实践Jupyter Notebook教程，从基本概念到利用LLMs的高级策略。",
                     "zh-hant": "22個快速的工程技術，附有實踐Jupyter Notebook教程，從基本概念到利用LLMs的高級策略。"
+                }
+            },
+            "https://github.com/opencoworkai/open-codesign": {
+                "repository_name": "open-codesign",
+                "user_name": "OpenCoworkAI",
+                "language": "TypeScript",
+                "license": "MIT License",
+                "description": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
+                "topics": [
+                    "ai-design",
+                    "anthropic",
+                    "byok",
+                    "claude",
+                    "claude-code",
+                    "claude-design",
+                    "claude-design-alternative",
+                    "deepseek",
+                    "design-to-code",
+                    "desktop-app",
+                    "electron",
+                    "figma-alternative",
+                    "gemini",
+                    "local-first",
+                    "multi-model",
+                    "ollama",
+                    "openai",
+                    "openrouter",
+                    "typescript",
+                    "ui-generator"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.",
+                    "ja": "オープンソースのクロードデザインの代替。クロードコード/コーデックスAPIキーをワンクリックでインポートします。プロンプト→プロトタイプ/スライド/PDF。マルチモデル（クロード、GPT、ジェミニ、キミ、GLM、オラマ）。BYOK、ローカルファースト、MIT。",
+                    "zh-hans": "开源克劳德设计替代方案。一键导入您的克劳德代码/ Codex API密钥。提示→原型/幻灯片/PDF。多模型（克劳德，GPT，Gemini，Kimi，GLM，Ollama）。BYOK，本地优先，MIT。",
+                    "zh-hant": "開源克勞德設計替代方案。一鍵導入您的克勞德代碼/ Codex API 金鑰。提示 → 原型 / 幻燈片 / PDF。多模型（克勞德、GPT、Gemini、Kimi、GLM、Ollama）。BYOK、本地優先、MIT。"
                 }
             }
         },
@@ -27339,6 +27409,24 @@
                     "zh-hans": "几百个免费AI模型配额，一键接入本地项目。",
                     "zh-hant": "數百個免費 AI 模型配額，一鍵接入本地項目。"
                 }
+            },
+            "https://github.com/mayday-wpf/snow-cli": {
+                "repository_name": "snow-cli",
+                "user_name": "MayDay-wpf",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.",
+                "topics": [
+                    "ai",
+                    "ai-agents",
+                    "ai-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.",
+                    "ja": "ターミナルでのエージェントコーディング、同時にOpenAI、Gemini、およびClaudeと互換性があります。",
+                    "zh-hans": "在您的终端中输入代理编码，同时兼容OpenAI、Gemini和Claude。",
+                    "zh-hant": "在您的终端中输入代理编码，同时兼容OpenAI、Gemini和Claude。"
+                }
             }
         },
         "Reimplementations": {
@@ -42430,6 +42518,41 @@
                     "ja": "オープンソースモデルをローカルで実行するための個人用エンジンです。Goを使用して、llama.cppがyzmaモジュールを介して直接Goアプリケーションに統合されたハードウェアアクセラレーションローカル推論を行います。Kronkは、Opを使用するのと似た高レベルAPIを提供します。",
                     "zh-hans": "您的个人引擎，用于在本地运行开源模型。使用Go进行硬件加速的本地推理，直接通过yzma模块将llama.cpp集成到您的Go应用程序中。Kronk提供了一个高级API，感觉类似于使用Op。",
                     "zh-hant": "您的個人引擎，用於在本地運行開源模型。使用Go進行硬件加速的本地推理，直接通過yzma模塊將llama.cpp集成到您的Go應用程序中。Kronk提供了一個高級API，感覺類似於使用Op。"
+                }
+            },
+            "https://github.com/openyak/openyak": {
+                "repository_name": "openyak",
+                "user_name": "openyak",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.",
+                "topics": [
+                    "agent",
+                    "agentic-ai",
+                    "ai-agent",
+                    "ai-coding-assistant",
+                    "byok",
+                    "chatgpt-alternative",
+                    "claude-code",
+                    "claude-code-alternative",
+                    "codex",
+                    "codex-alternative",
+                    "coding-agent",
+                    "copilot-alternative",
+                    "cursor-alternative",
+                    "desktop-application",
+                    "local-llm",
+                    "mcp",
+                    "ollama",
+                    "open-source",
+                    "openrouter",
+                    "self-hosted"
+                ],
+                "multilingual_descriptions": {
+                    "en": "OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.",
+                    "ja": "Input: OpenYak — Windows、macOS、およびLinux向けのオープンソースのローカルAIエージェント。Claude Code、Claude for Work、およびOpenAI CodexのプライベートでBYOKの代替手段であり、OpenRouter、MCP、およびOllamaを介して20以上のツール、100以上のモデルを提供しています。無料で、MITライセンスで、テレメトリーはありません。",
+                    "zh-hans": "OpenYak - 适用于Windows，macOS和Linux的开源本地AI代理。是Claude Code，Claude for Work和OpenAI Codex的私人BYOK替代方案，具有20多种工具，通过OpenRouter，MCP和Ollama提供100多种模型。免费，MIT许可，无遥测。",
+                    "zh-hant": "OpenYak - 開源本地AI代理，適用於Windows、macOS和Linux。一個私人的、BYOK替代方案，可替代Claude Code、Claude for Work和OpenAI Codex，提供20多種工具、100多種模型，通過OpenRouter、MCP和Ollama。免費、MIT許可證，無遙測。"
                 }
             }
         },

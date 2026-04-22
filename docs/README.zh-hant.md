@@ -16,37 +16,23 @@
 
 ## The latest additions 🎉
 
-**Chatbots**
- * [Proma](https://github.com/erlichliu/proma) - 將最絲滑的通用 Agent 體驗帶進你的工作流，為 100x 專業用戶而生的未來產品，正在實現 proactive Agent 階段。基於 Claude Agent SDK 的完整開源實踐，原生支持飛書群聊調用、靈活接入任意大模型供應商 —— 讓頂級 Agent 能力真正跑在你每天用的地方。
+**Awesome-lists**
+ * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - 為OpenAI API精心挑選的GPT-Image-2提示 - 肖像、海報、UI模擬、遊戲截圖、角色表等等。GPT-Image-2的即用提示。
 
 
-**Browser-extensions**
- * [openai-cpa](https://github.com/wenfxl/openai-cpa) - 具有雙引擎（高速協議+反檢測瀏覽器）的分佈式自動化平台，用於高規模註冊。協調集群工作人員、郵件引擎和CPA/Sub2API倉庫。
- * [nothumansearch](https://github.com/unitedideas/nothumansearch) - 人工智慧代理搜尋引擎 - 依代理準備度排名網站（llms.txt，OpenAPI，MCP，ai-plugin）。MCP伺服器，REST API，全文檢索。已索引超過8,000個網站。
+**Prompts**
+ * [open-codesign](https://github.com/opencoworkai/open-codesign) - 開源克勞德設計替代方案。一鍵導入您的克勞德代碼/ Codex API 金鑰。提示 → 原型 / 幻燈片 / PDF。多模型（克勞德、GPT、Gemini、Kimi、GLM、Ollama）。BYOK、本地優先、MIT。
 
 
 **CLIs**
- * [ccpocket](https://github.com/k9i-0/ccpocket) - Codex和Claude的手機客戶端-通過WebSocket橋接從您的手機控制編碼代理
- * [openrelay](https://github.com/romgx/openrelay) - 數百個免費 AI 模型配額，一鍵接入本地項目。
-
-
-**NLP**
- * [SearChat](https://github.com/sear-chat/searchat) - 搜索 + 聊天 = SearChat（具有搜索功能的AI聊天），支持OpenAI/Anthropic/VertexAI/Gemini，DeepResearch，SearXNG，Docker。AI對話式搜索引擎，支持DeepResearch，支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一鍵部署。
+ * [snow-cli](https://github.com/mayday-wpf/snow-cli) - 在您的终端中输入代理编码，同时兼容OpenAI、Gemini和Claude。
 
 
 **Langchain**
- * [kronk](https://github.com/ardanlabs/kronk) - 您的個人引擎，用於在本地運行開源模型。使用Go進行硬件加速的本地推理，直接通過yzma模塊將llama.cpp集成到您的Go應用程序中。Kronk提供了一個高級API，感覺類似於使用Op。
+ * [openyak](https://github.com/openyak/openyak) - OpenYak - 開源本地AI代理，適用於Windows、macOS和Linux。一個私人的、BYOK替代方案，可替代Claude Code、Claude for Work和OpenAI Codex，提供20多種工具、100多種模型，通過OpenRouter、MCP和Ollama。免費、MIT許可證，無遙測。
 
 
-**Openai**
- * [copilot-api](https://github.com/caozhiyuan/copilot-api) - 將GitHub Copilot轉換為OpenAI/Anthropic API兼容的伺服器。可與Claude Code、Codex或Opencode一起使用！請在使用之前完全閱讀README.md！
-
-
-**Others**
- * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT 團隊帳號自動輪轉管理 - Codex 額度監控、自動換號、CPA 認證同步
-
-
-_Updated on April 20, 2026_ (A total of 2521 repositories listed.)
+_Updated on April 23, 2026_ (A total of 2525 repositories listed.)
 
 ## Table of contents
 
@@ -158,6 +144,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * 🔥 [awesome-slash](https://github.com/avifenesh/awesome-slash) - ⭐ 698 / Claude Code、OpenCode和Codex CLI的插件和技能。29個自主代理用於工作流自動化、代碼審查、懈怠檢測、PR管理、漂移檢測等。
  * 🔥 [prompts.chat](https://github.com/f/prompts.chat) - ⭐ 158k / 又名令人敬畏的ChatGPT提示。與社區分享、發現和收集提示。免費且開源-為您的組織自行託管，完全保護隱私。
  * [Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/awesome-chatgpt-prompts-cn) - ChatGPT調教指南|咒語指南|聊天提示詞指南|學習指南
+ * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - 為OpenAI API精心挑選的GPT-Image-2提示 - 肖像、海報、UI模擬、遊戲截圖、角色表等等。GPT-Image-2的即用提示。
 
 
 ## Prompts
@@ -343,6 +330,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * 🔥 [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - ⭐ 2.8k / 通過提供提示以及有效的Web Scraper API憑證，輕鬆從ChatGPT刮取器中收集回應。
  * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 關於提示詞工程（prompt）的指南、論文、講座、筆記本和資源大全（自動持續更新）
  * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22個快速的工程技術，附有實踐Jupyter Notebook教程，從基本概念到利用LLMs的高級策略。
+ * [open-codesign](https://github.com/opencoworkai/open-codesign) - PDF。多模型（克勞德、GPT、Gemini、Kimi、GLM、Ollama）。BYOK、本地優先、MIT。
 
 
 ## Chatbots
@@ -1191,6 +1179,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * [forgecode](https://github.com/tailcallhq/forgecode) - AI啟用的對程式師，適用於Claude、GPT、O Series、Grok、Deepseek、Gemini和300多個模型。
  * [ccpocket](https://github.com/k9i-0/ccpocket) - Codex和Claude的手機客戶端-通過WebSocket橋接從您的手機控制編碼代理
  * [openrelay](https://github.com/romgx/openrelay) - 數百個免費 AI 模型配額，一鍵接入本地項目。
+ * [snow-cli](https://github.com/mayday-wpf/snow-cli) - 在您的终端中输入代理编码，同时兼容OpenAI、Gemini和Claude。
 
 
 ## Reimplementations
@@ -1848,6 +1837,7 @@ _Updated on April 20, 2026_ (A total of 2521 repositories listed.)
  * [locally-uncensored](https://github.com/purpledoubled/locally-uncensored) - 一體化本地AI應用程式。無審查的聊天、圖像生成和視頻創建-離線、私密、美觀。由Ollama和ComfyUI提供動力。
  * [swarmclaw](https://github.com/swarmclawai/swarmclaw) - 具有MCP服务器支持的自托管多代理AI运行时。 使用内存，技能，时间表和23个以上的LLM提供商（Claude，GPT，Gemini，OpenRouter，Ollama）构建，编排和运行自主代理。
  * [kronk](https://github.com/ardanlabs/kronk) - 您的個人引擎，用於在本地運行開源模型。使用Go進行硬件加速的本地推理，直接通過yzma模塊將llama.cpp集成到您的Go應用程序中。Kronk提供了一個高級API，感覺類似於使用Op。
+ * [openyak](https://github.com/openyak/openyak) - OpenYak - 開源本地AI代理，適用於Windows、macOS和Linux。一個私人的、BYOK替代方案，可替代Claude Code、Claude for Work和OpenAI Codex，提供20多種工具、100多種模型，通過OpenRouter、MCP和Ollama。免費、MIT許可證，無遙測。
 
 
 ## Unity
