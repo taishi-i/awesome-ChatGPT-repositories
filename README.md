@@ -2182,6 +2182,7 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
  * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
  * [copilot-api](https://github.com/caozhiyuan/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code Or Codex Or Opencode! Please read README.md completely before use!
+ * [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - OpenAI GPT Action spec for querying real-time internet censorship data. Import the openapi.yaml into GPT Builder to give a custom GPT access to 126+ countries and 5,700+ citable incidents.
 
 
 ## Others
