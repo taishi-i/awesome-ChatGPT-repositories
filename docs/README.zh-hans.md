@@ -16,23 +16,20 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - 为OpenAI API精心策划的GPT-Image-2提示 - 肖像、海报、UI模型、游戏截图、角色表等等。GPT-Image-2的即用提示。
+**NLP**
+ * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡ 为苹果芯片提供的本地MLX Swift LLM推理服务器。兼容OpenAI API，支持100亿+ MoE模型的SSD流式传输，TurboQuant KV缓存压缩，MACOS + iOS iPhone应用程序。
 
 
-**Prompts**
- * [open-codesign](https://github.com/opencoworkai/open-codesign) - 开源克劳德设计替代方案。一键导入您的克劳德代码/ Codex API密钥。提示→原型/幻灯片/PDF。多模型（克劳德，GPT，Gemini，Kimi，GLM，Ollama）。BYOK，本地优先，MIT。
+**Openai**
+ * [WindsurfAPI](https://github.com/dwgx/windsurfapi) - 风帆冲浪-OpenAI兼容的API代理
+ * [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - OpenAI GPT动作用于查询实时审查数据-覆盖126个国家，5700多起事件。
 
 
-**CLIs**
- * [snow-cli](https://github.com/mayday-wpf/snow-cli) - 在您的终端中输入代理编码，同时兼容OpenAI、Gemini和Claude。
+**Others**
+ * [skill.color-expert](https://github.com/meodai/skill.color-expert) - 代理商技能为色彩科学专业知识。许多参考资料涵盖色彩空间、可访问性（APCA，WCAG）、调色板生成、颜料混合和历史色彩理论。与Claude Code、Codex、Cursor、Copilot等合作。
 
 
-**Langchain**
- * [openyak](https://github.com/openyak/openyak) - OpenYak - 适用于Windows，macOS和Linux的开源本地AI代理。是Claude Code，Claude for Work和OpenAI Codex的私人BYOK替代方案，具有20多种工具，通过OpenRouter，MCP和Ollama提供100多种模型。免费，MIT许可，无遥测。
-
-
-_Updated on April 23, 2026_ (A total of 2525 repositories listed.)
+_Updated on April 27, 2026_ (A total of 2529 repositories listed.)
 
 ## Table of contents
 
@@ -1656,6 +1653,7 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScript多代理框架 - 从目标到结果只需一个runTeam()调用。自动任务分解，并行执行。3个依赖项，可部署在Node.js运行的任何地方。
  * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent（chatgpt-on-wechat）是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、通过长期记忆和知识库不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微、QQ、公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助理和企业数字员工。
  * [SearChat](https://github.com/sear-chat/searchat) - 搜索 + 聊天 = SearChat（具有搜索功能的AI聊天），支持OpenAI/Anthropic/VertexAI/Gemini，DeepResearch，SearXNG，Docker。AI对话式搜索引擎，支持DeepResearch，支持OpenAI/Anthropic/VertexAI/Gemini接口，聚合搜索引擎SearXNG，支持Docker一键部署。
+ * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡ 为苹果芯片提供的本地MLX Swift LLM推理服务器。兼容OpenAI API，支持100亿+ MoE模型的SSD流式传输，TurboQuant KV缓存压缩，MACOS + iOS iPhone应用程序。
 
 
 ## Langchain
@@ -2182,6 +2180,8 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [codedb](https://github.com/justrach/codedb) - Zig代码智能服务器和MCP工具集用于AI代理。快速树、大纲、符号、搜索、阅读、编辑、依赖、快照和远程GitHub存储库查询。
  * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT 多账户负载均衡器和代理，带有使用跟踪、仪表板和兼容OpenCode的端点。
  * [copilot-api](https://github.com/caozhiyuan/copilot-api) - 将GitHub Copilot转换为OpenAI/Anthropic API兼容的服务器。可与Claude Code、Codex或Opencode一起使用！在使用之前，请完全阅读README.md！
+ * [WindsurfAPI](https://github.com/dwgx/windsurfapi) - 风帆冲浪-OpenAI兼容的API代理
+ * [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - OpenAI GPT动作用于查询实时审查数据-覆盖126个国家，5700多起事件。
 
 
 ## Others
@@ -2632,5 +2632,6 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - 将您的AI代理程序变成黑客，只需插入这个MCP。
  * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code 生态管理平台 | Claude Code 生态系统管理平台 (MCP, 技能, 钩子, 配置)
  * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT团队账号自动轮转管理 - Codex额度监控、自动换号、CPA认证同步
+ * [skill.color-expert](https://github.com/meodai/skill.color-expert) - 代理商技能为色彩科学专业知识。许多参考资料涵盖色彩空间、可访问性（APCA，WCAG）、调色板生成、颜料混合和历史色彩理论。与Claude Code、Codex、Cursor、Copilot等合作。
 
 
