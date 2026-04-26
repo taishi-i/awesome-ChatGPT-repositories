@@ -16,23 +16,20 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - 為OpenAI API精心挑選的GPT-Image-2提示 - 肖像、海報、UI模擬、遊戲截圖、角色表等等。GPT-Image-2的即用提示。
+**NLP**
+ * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡原生MLX Swift LLM 推論伺服器適用於蘋果矽片。兼容OpenAI API，支持100B+ MoE模型的SSD串流，TurboQuant KV快取壓縮，MACOS + iOS iPhone應用程式。
 
 
-**Prompts**
- * [open-codesign](https://github.com/opencoworkai/open-codesign) - 開源克勞德設計替代方案。一鍵導入您的克勞德代碼/ Codex API 金鑰。提示 → 原型 / 幻燈片 / PDF。多模型（克勞德、GPT、Gemini、Kimi、GLM、Ollama）。BYOK、本地優先、MIT。
+**Openai**
+ * [WindsurfAPI](https://github.com/dwgx/windsurfapi) - 風帆-OpenAI兼容的API代理
+ * [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - OpenAI GPT用於查詢實時審查數據-126個國家，5,700多起事件
 
 
-**CLIs**
- * [snow-cli](https://github.com/mayday-wpf/snow-cli) - 在您的终端中输入代理编码，同时兼容OpenAI、Gemini和Claude。
+**Others**
+ * [skill.color-expert](https://github.com/meodai/skill.color-expert) - 代理商技能涵蓋色彩科學專業知識。許多參考資料涵蓋色彩空間、可訪問性（APCA、WCAG）、調色板生成、顏料混合和歷史色彩理論。與Claude Code、Codex、Cursor、Copilot等合作。
 
 
-**Langchain**
- * [openyak](https://github.com/openyak/openyak) - OpenYak - 開源本地AI代理，適用於Windows、macOS和Linux。一個私人的、BYOK替代方案，可替代Claude Code、Claude for Work和OpenAI Codex，提供20多種工具、100多種模型，通過OpenRouter、MCP和Ollama。免費、MIT許可證，無遙測。
-
-
-_Updated on April 23, 2026_ (A total of 2525 repositories listed.)
+_Updated on April 27, 2026_ (A total of 2529 repositories listed.)
 
 ## Table of contents
 
@@ -330,7 +327,7 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * 🔥 [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - ⭐ 2.8k / 通過提供提示以及有效的Web Scraper API憑證，輕鬆從ChatGPT刮取器中收集回應。
  * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 關於提示詞工程（prompt）的指南、論文、講座、筆記本和資源大全（自動持續更新）
  * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22個快速的工程技術，附有實踐Jupyter Notebook教程，從基本概念到利用LLMs的高級策略。
- * [open-codesign](https://github.com/opencoworkai/open-codesign) - PDF。多模型（克勞德、GPT、Gemini、Kimi、GLM、Ollama）。BYOK、本地優先、MIT。
+ * [open-codesign](https://github.com/opencoworkai/open-codesign) - 開源克勞德設計替代方案。一鍵導入您的克勞德代碼/ Codex API 金鑰。提示 → 原型 / 幻燈片 / PDF。多模型（克勞德、GPT、Gemini、Kimi、GLM、Ollama）。BYOK、本地優先、MIT。
 
 
 ## Chatbots
@@ -1656,6 +1653,7 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScript 多代理框架 - 從目標到結果只需一個 runTeam() 調用。自動任務分解，並行執行。3個依賴項，可部署在任何運行Node.js的地方。
  * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent（chatgpt-on-wechat）是基於大模型的超級AI助理，能主動思考和任務規劃、訪問操作系統和外部資源、創造和執行Skills、通過長期記憶和知識庫不斷成長，比OpenClaw更輕量和便捷。同時支持微信、飛書、釘釘、企微、QQ、公眾號、網頁等接入，可選擇OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI，能處理文本、語音、圖片和文件，可快速搭建個人AI助理和企業數字員工。
  * [SearChat](https://github.com/sear-chat/searchat) - 搜索 + 聊天 = SearChat（具有搜索功能的AI聊天），支持OpenAI/Anthropic/VertexAI/Gemini，DeepResearch，SearXNG，Docker。AI對話式搜索引擎，支持DeepResearch，支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一鍵部署。
+ * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡原生MLX Swift LLM 推論伺服器適用於蘋果矽片。兼容OpenAI API，支持100B+ MoE模型的SSD串流，TurboQuant KV快取壓縮，MACOS + iOS iPhone應用程式。
 
 
 ## Langchain
@@ -2182,6 +2180,8 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [codedb](https://github.com/justrach/codedb) - Zig代碼智能伺服器和MCP工具組用於AI代理。快速樹、大綱、符號、搜索、閱讀、編輯、依賴、快照和遠程GitHub存儲庫查詢。
  * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT 多帳戶負載平衡器和代理，具有使用追蹤、儀表板和兼容 OpenCode 的端點
  * [copilot-api](https://github.com/caozhiyuan/copilot-api) - 將GitHub Copilot轉換為OpenAI/Anthropic API兼容的伺服器。可與Claude Code、Codex或Opencode一起使用！請在使用之前完全閱讀README.md！
+ * [WindsurfAPI](https://github.com/dwgx/windsurfapi) - 風帆-OpenAI兼容的API代理
+ * [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - OpenAI GPT用於查詢實時審查數據-126個國家，5,700多起事件
 
 
 ## Others
@@ -2632,5 +2632,6 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - 將您的AI代理轉變為駭客，只需插入這個MCP
  * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code 生態管理平台 | Claude Code 生態系統管理平台 (MCP, 技能, 鉤子, 配置)
  * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT 團隊帳號自動輪轉管理 - Codex 額度監控、自動換號、CPA 認證同步
+ * [skill.color-expert](https://github.com/meodai/skill.color-expert) - 代理商技能涵蓋色彩科學專業知識。許多參考資料涵蓋色彩空間、可訪問性（APCA、WCAG）、調色板生成、顏料混合和歷史色彩理論。與Claude Code、Codex、Cursor、Copilot等合作。
 
 

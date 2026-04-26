@@ -16,23 +16,20 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - OpenAI API用のキュレーションされたGPT-Image-2プロンプト - ポートレート、ポスター、UIモックアップ、ゲームのスクリーンショット、キャラクターシートなど。gpt-image-2用の即座に使用可能なプロンプト。
+**NLP**
+ * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡ Apple Silicon向けのネイティブMLX Swift LLM推論サーバー。OpenAI互換のAPI、100B以上のMoEモデル向けのSSDストリーミング、TurboQuant KVキャッシュ圧縮、MACOS + iOS iPhoneアプリ。
 
 
-**Prompts**
- * [open-codesign](https://github.com/opencoworkai/open-codesign) - オープンソースのクロードデザインの代替。クロードコード/コーデックスAPIキーをワンクリックでインポートします。プロンプト→プロトタイプ/スライド/PDF。マルチモデル（クロード、GPT、ジェミニ、キミ、GLM、オラマ）。BYOK、ローカルファースト、MIT。
+**Openai**
+ * [WindsurfAPI](https://github.com/dwgx/windsurfapi) - ウィンドサーフとOpenAI互換のAPIプロキシ
+ * [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - リアルタイムの検閲データをクエリするためのOpenAI GPTアクション-126以上の国、5,700以上のインシデントOpenAI GPTアクションによるリアルタイムの検閲データのクエリ-126以上の国、5,700以上のインシデント
 
 
-**CLIs**
- * [snow-cli](https://github.com/mayday-wpf/snow-cli) - ターミナルでのエージェントコーディング、同時にOpenAI、Gemini、およびClaudeと互換性があります。
+**Others**
+ * [skill.color-expert](https://github.com/meodai/skill.color-expert) - エージェントのスキルは色彩科学の専門知識です。カラースペース、アクセシビリティ（APCA、WCAG）、パレット生成、顔料の混合、歴史的な色彩理論をカバーする多くの参照資料があります。Claude Code、Codex、Cursor、Copilotなどと一緒に作業します。
 
 
-**Langchain**
- * [openyak](https://github.com/openyak/openyak) - Input: OpenYak — Windows、macOS、およびLinux向けのオープンソースのローカルAIエージェント。Claude Code、Claude for Work、およびOpenAI CodexのプライベートでBYOKの代替手段であり、OpenRouter、MCP、およびOllamaを介して20以上のツール、100以上のモデルを提供しています。無料で、MITライセンスで、テレメトリーはありません。
-
-
-_Updated on April 23, 2026_ (A total of 2525 repositories listed.)
+_Updated on April 27, 2026_ (A total of 2529 repositories listed.)
 
 ## Table of contents
 
@@ -1656,6 +1653,7 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScriptマルチエージェントフレームワーク-ゴールから結果までの1つのrunTeam()呼び出し。自動タスク分解、並列実行。3つの依存関係、Node.jsが実行される場所に展開可能。
  * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent（chatgpt-on-wechat）は、大規模モデルに基づいたスーパーAIアシスタントであり、自己主導的に考え、タスクを計画し、オペレーティングシステムや外部リソースにアクセスし、スキルを作成および実行し、長期記憶と知識ベースを通じて成長し続けることができます。OpenClawよりも軽量で便利です。同時に、WeChat、Feishu、DingTalk、WeCom、QQ、公衆号、ウェブサイトなどに接続することができ、OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAIを選択できます。テキスト、音声、画像、ファイルを処理し、個人用AIアシスタントや企業のデジタル従業員を迅速に構築することができます。
  * [SearChat](https://github.com/sear-chat/searchat) - 検索+チャット= SearChat（検索付きAIチャット）、OpenAI/Anthropic/VertexAI/Geminiをサポート、DeepResearch、SearXNG、Dockerをサポート。AI対話型検索エンジン、DeepResearchをサポート、OpenAI/Anthropic/VertexAI/Geminiインターフェースをサポート、集約検索エンジンSearXNGをサポート、Dockerワンクリック展開をサポート。
+ * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡ Apple Silicon向けのネイティブMLX Swift LLM推論サーバー。OpenAI互換のAPI、100B以上のMoEモデル向けのSSDストリーミング、TurboQuant KVキャッシュ圧縮、MACOS + iOS iPhoneアプリ。
 
 
 ## Langchain
@@ -2182,6 +2180,8 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [codedb](https://github.com/justrach/codedb) - ZigコードインテリジェンスサーバーとAIエージェント向けのMCPツールセット。高速ツリー、アウトライン、シンボル、検索、読み取り、編集、依存関係、スナップショット、およびリモートGitHubリポジトリのクエリ。
  * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイントCodex/ChatGPTの複数アカウントロードバランサー＆プロキシ、使用状況の追跡、ダッシュボード、およびOpenCode互換のエンドポイント
  * [copilot-api](https://github.com/caozhiyuan/copilot-api) - GitHub CopilotをOpenAI/Anthropic API互換サーバーに変換してください。Claude CodeまたはCodexまたはOpencodeと一緒に使用できます！使用する前にREADME.mdを完全にお読みください！
+ * [WindsurfAPI](https://github.com/dwgx/windsurfapi) - ウィンドサーフとOpenAI互換のAPIプロキシ
+ * [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - リアルタイムの検閲データをクエリするためのOpenAI GPTアクション-126以上の国、5,700以上のインシデントOpenAI GPTアクションによるリアルタイムの検閲データのクエリ-126以上の国、5,700以上のインシデント
 
 
 ## Others
@@ -2632,5 +2632,6 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - このMCPを差し込むことで、あなたのAIエージェントをハッカーに変える
  * [cchub](https://github.com/moresl/cchub) - CCHub - クロードコード生態管理プラットフォーム | クロードコードエコシステム管理プラットフォーム（MCP、スキル、フック、設定）
  * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT チームのアカウント自動ローテーション管理 - Codex 限度監視、自動番号変更、CPA 認証同期
+ * [skill.color-expert](https://github.com/meodai/skill.color-expert) - エージェントのスキルは色彩科学の専門知識です。カラースペース、アクセシビリティ（APCA、WCAG）、パレット生成、顔料の混合、歴史的な色彩理論をカバーする多くの参照資料があります。Claude Code、Codex、Cursor、Copilotなどと一緒に作業します。
 
 

@@ -16,23 +16,20 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [Awesome-GPT-Image-2-API-Prompts](https://github.com/anil-matcha/awesome-gpt-image-2-api-prompts) - Curated GPT-Image-2 prompts for the OpenAI API — portraits, posters, UI mockups, game screenshots, character sheets, and more. Ready-to-use prompts for gpt-image-2.
+**NLP**
+ * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app.
 
 
-**Prompts**
- * [open-codesign](https://github.com/opencoworkai/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
+**Openai**
+ * [WindsurfAPI](https://github.com/dwgx/windsurfapi) - Windsurf-to-OpenAI compatible API proxy
+ * [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - OpenAI GPT Action for querying real-time censorship data — 126+ countries, 5,700+ incidents
 
 
-**CLIs**
- * [snow-cli](https://github.com/mayday-wpf/snow-cli) - Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.
+**Others**
+ * [skill.color-expert](https://github.com/meodai/skill.color-expert) - Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, Codex, Cursor, Copilot & others.
 
 
-**Langchain**
- * [openyak](https://github.com/openyak/openyak) - OpenYak — open-source local AI agent for Windows, macOS, and Linux. A private, BYOK alternative to Claude Code, Claude for Work, and OpenAI Codex with 20+ tools, 100+ models via OpenRouter, MCP, and Ollama. Free, MIT-licensed, no telemetry.
-
-
-_Updated on April 23, 2026_ (A total of 2525 repositories listed.)
+_Updated on April 27, 2026_ (A total of 2529 repositories listed.)
 
 ## Table of contents
 
@@ -330,7 +327,7 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * 🔥 [chatgpt-scraper](https://github.com/oxylabs/chatgpt-scraper) - ⭐ 2.8k / Easily collect responses from ChatGPT scraper by providing a prompt along with valid Web Scraper API credentials.
  * [Prompt-Engineering-Guide-zh-CN](https://github.com/yunwei37/prompt-engineering-guide-zh-cn) - 🐙 Comprehensive guide, papers, lectures, notebooks, and resources on prompt engineering (prompt) (automatically updated)
  * [Prompt_Engineering](https://github.com/nirdiamant/prompt_engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
- * [open-codesign](https://github.com/opencoworkai/open-codesign) - PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
+ * [open-codesign](https://github.com/opencoworkai/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
 
 
 ## Chatbots
@@ -1656,6 +1653,7 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [open-multi-agent](https://github.com/jackchen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
  * [CowAgent](https://github.com/zhayujie/cowagent) - CowAgent (chatgpt-on-wechat) is a super AI assistant based on large models, capable of proactive thinking and task planning, accessing operating systems and external resources, creating and executing Skills, and continuously growing through long-term memory and knowledge base. It is lighter and more convenient than OpenClaw. It also supports integration with WeChat, Feishu, DingTalk, WeCom, QQ, official accounts, websites, etc., and can choose from OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI. It can handle text, voice, images, and files, and can quickly build personal AI assistants and digital employees for enterprises.
  * [SearChat](https://github.com/sear-chat/searchat) - Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
+ * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app.
 
 
 ## Langchain
@@ -2182,6 +2180,8 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
  * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
  * [copilot-api](https://github.com/caozhiyuan/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code Or Codex Or Opencode! Please read README.md completely before use!
+ * [WindsurfAPI](https://github.com/dwgx/windsurfapi) - Windsurf-to-OpenAI compatible API proxy
+ * [chatgpt-action](https://github.com/voidly-ai/chatgpt-action) - OpenAI GPT Action for querying real-time censorship data — 126+ countries, 5,700+ incidents
 
 
 ## Others
@@ -2632,5 +2632,6 @@ _Updated on April 23, 2026_ (A total of 2525 repositories listed.)
  * [operant-mcp](https://github.com/operantlabs/operant-mcp) - Turn your AI agent into a hacker by plugging in this MCP
  * [cchub](https://github.com/moresl/cchub) - CCHub - Claude Code Ecosystem Management Platform | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)
  * [AutoTeam](https://github.com/cnitlrt/autoteam) - ChatGPT Team account automatic rotation management - Codex limit monitoring, automatic number change, CPA certification synchronization
+ * [skill.color-expert](https://github.com/meodai/skill.color-expert) - Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, Codex, Cursor, Copilot & others.
 
 
