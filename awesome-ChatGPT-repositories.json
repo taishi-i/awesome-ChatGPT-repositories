@@ -2443,6 +2443,36 @@
                     "zh-hans": "为OpenAI API精心策划的GPT-Image-2提示 - 肖像、海报、UI模型、游戏截图、角色表等等。GPT-Image-2的即用提示。",
                     "zh-hant": "為OpenAI API精心挑選的GPT-Image-2提示 - 肖像、海報、UI模擬、遊戲截圖、角色表等等。GPT-Image-2的即用提示。"
                 }
+            },
+            "https://github.com/evolinkai/awesome-gpt-image-2-prompts": {
+                "repository_name": "awesome-gpt-image-2-prompts",
+                "user_name": "EvoLinkAI",
+                "language": "Python",
+                "license": "Other",
+                "description": "Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+                "topics": [
+                    "api",
+                    "awesome-list",
+                    "chatgpt",
+                    "generative-",
+                    "gpt-image-2",
+                    "gpt-image-2-api",
+                    "gpt-image-2-prompts",
+                    "image-generation",
+                    "image-prompt",
+                    "image-to-image",
+                    "openai",
+                    "prompt-",
+                    "prompt-collection",
+                    "prompts",
+                    "text-to-image"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+                    "ja": "Openai API用のキュレーションされたGPT-Image-2プロンプト：肖像画、ポスター、UIモックアップ、キャラクターシート、コミュニティ実験などの画像例。",
+                    "zh-hans": "Openai API的策展GPT-Image-2提示：跨肖像、海报、UI模型、角色表和社区实验的图像示例。",
+                    "zh-hant": "為Openai API精心挑選的GPT-Image-2提示：跨越肖像、海報、UI模擬、角色表和社區實驗的圖像示例。"
+                }
             }
         },
         "Prompts": {
@@ -16277,6 +16307,61 @@
                     "ja": "最も滑らかな一般エージェントの体験をあなたのワークフローに持ち込み、100倍のプロユーザー向けの未来の製品を実現する proactive Agent の段階にいます。Claude Agent SDKに基づく完全なオープンソースの実践に基づき、飛書グループチャットの呼び出しをネイティブサポートし、任意の大規模モデルサプライヤーを柔軟に接続できます。トップクラスのエージェント機能が本当に毎日使う場所で実行されるようにします。",
                     "zh-hans": "将最丝滑的通用 Agent 体验带入您的工作流程，为100倍专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用，灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正运行在您每天使用的地方。",
                     "zh-hant": "將最絲滑的通用 Agent 體驗帶進你的工作流，為 100x 專業用戶而生的未來產品，正在實現 proactive Agent 階段。基於 Claude Agent SDK 的完整開源實踐，原生支持飛書群聊調用、靈活接入任意大模型供應商 —— 讓頂級 Agent 能力真正跑在你每天用的地方。"
+                }
+            },
+            "https://github.com/the-open-agent/openagent": {
+                "repository_name": "openagent",
+                "user_name": "the-open-agent",
+                "language": "Go",
+                "license": "Apache License 2.0",
+                "description": "⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",
+                "topics": [
+                    "a2a",
+                    "agent",
+                    "agentic",
+                    "agentic-ai",
+                    "agi",
+                    "chatbot",
+                    "chatgpt",
+                    "claude",
+                    "gemini",
+                    "gpt",
+                    "knowledge-base",
+                    "langchain",
+                    "llama",
+                    "llm",
+                    "mcp",
+                    "model-context-protocol",
+                    "multi-agent",
+                    "openai",
+                    "openclaw",
+                    "rag"
+                ],
+                "multilingual_descriptions": {
+                    "en": "⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bo",
+                    "ja": "⚡️AIクラウドOS：オープンソースのエンタープライズレベルのAI知識ベースおよびMCP（モデルコンテキストプロトコル）/A2A（エージェント間）管理プラットフォーム、管理者UI、ユーザー管理、シングルサインオンをサポート⚡️、ChatGPT、Claude、Llama、Ollama、HuggingFaceなどをサポート、チャットボット",
+                    "zh-hans": "⚡️AI 云操作系统：开源企业级人工智能知识库和MCP（模型-上下文-协议）/A2A（代理-代理）管理平台，具有管理员界面、用户管理和单点登录⚡️，支持ChatGPT、Claude、Llama、Ollama、HuggingFace等，聊天机器人",
+                    "zh-hant": "⚡️AI 云操作系统：开源企业级人工智能知识库和MCP（模型-上下文-协议）/A2A（代理-代理）管理平台，具有管理员界面、用户管理和单点登录⚡️，支持ChatGPT、Claude、Llama、Ollama、HuggingFace等，聊天机器人"
+                }
+            },
+            "https://github.com/spharxteam/agentos": {
+                "repository_name": "AgentOS",
+                "user_name": "SpharxTeam",
+                "language": "C",
+                "license": "Apache License 2.0",
+                "description": "Airymax AgentOS: 200K+ context & 10M memory, 1000h tasks at 99.1% accuracy, 80% token reduction, 5× industry efficiency. Natively compatible with OpenClaw, openJiuwen, LangChain, Claude & OpenAI APIs; more agent protocols coming.",
+                "topics": [
+                    "ai",
+                    "assistant",
+                    "non-langchain-wrapper",
+                    "os",
+                    "own-your-data"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Airymax AgentOS: 200K+ context & 10M memory, 1000h tasks at 99.1% accuracy, 80% token reduction, 5× industry efficiency. Natively compatible with OpenClaw, openJiuwen, LangChain, Claude & OpenAI APIs; more agent protocols coming.",
+                    "ja": "Airymax AgentOS：200K以上のコンテキスト＆10Mのメモリ、99.1％の精度で1000時間のタスク、80％のトークン削減、5倍の業界効率。OpenClaw、openJiuwen、LangChain、Claude＆OpenAI APIとネイティブ互換性があります。より多くのエージェントプロトコルが近日公開予定です。",
+                    "zh-hans": "Airymax AgentOS：200K+上下文和10M内存，1000小时任务准确率达到99.1%，80%令牌减少，5倍行业效率。与OpenClaw、openJiuwen、LangChain、Claude和OpenAI API原生兼容；更多代理协议即将推出。",
+                    "zh-hant": "Airymax AgentOS：擁有200K+上下文和10M記憶體，可在99.1%的準確率下執行1000小時任務，減少80%的令牌，提高5倍的行業效率。原生支持OpenClaw、openJiuwen、LangChain、Claude和OpenAI API；更多代理協議即將推出。"
                 }
             }
         },
@@ -49921,6 +50006,20 @@
                     "ja": "リアルタイムの検閲データをクエリするためのOpenAI GPTアクション-126以上の国、5,700以上のインシデントOpenAI GPTアクションによるリアルタイムの検閲データのクエリ-126以上の国、5,700以上のインシデント",
                     "zh-hans": "OpenAI GPT动作用于查询实时审查数据-覆盖126个国家，5700多起事件。",
                     "zh-hant": "OpenAI GPT用於查詢實時審查數據-126個國家，5,700多起事件"
+                }
+            },
+            "https://github.com/basketikun/chatgpt2api": {
+                "repository_name": "chatgpt2api",
+                "user_name": "basketikun",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "Reverse implementation of the ChatGPT official website interface protocol, supporting registration machine to maintain number pool quota, supporting GPT-Image-2 model, text model, compatible with multiple OpenAI interface protocols, online batch generation of images, number pool management, supporting import of CPA, sub2api number pool, supporting integration with Cherry Studio, New Api and other software.",
+                    "ja": "Input: ChatGPT公式ウェブサイトのAPIプロトコルの逆転実装、登録機の維持番号プール枠のサポート、GPT-Image-2モデル、テキストモデルのサポート、複数のOpenAI APIプロトコルと互換性があり、オンラインで画像を大量生成、番号プール管理、CPA、sub2api番号プールのインポートをサポート、Cherry Studio、New Apiなどのソフトウェアへの接続をサポートします。",
+                    "zh-hans": "ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池，支持接入Cherry Studio、New Api等软件。",
+                    "zh-hant": "ChatGPT官網接口純協議的逆向實現，支持註冊機維持號池額度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口協議，在線批量生成圖像，號池管理，支持導入CPA、sub2api號池，支持接入Cherry Studio、New Api等軟件。"
                 }
             }
         },
