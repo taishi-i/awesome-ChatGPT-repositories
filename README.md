@@ -1180,6 +1180,7 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * 🔥 [ccpocket](https://github.com/k9i-0/ccpocket) - ⭐ 650 / Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
  * 🔥 [openrelay](https://github.com/romgx/openrelay) - ⭐ 1.6k / 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
  * 🔥 [snow-cli](https://github.com/mayday-wpf/snow-cli) - ⭐ 574 / Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.
+ * [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, Cursor, Aider, OpenHands, Goose, and 30+ other CLI coding agents in parallel git worktrees, with a deterministic Python scheduler, MCP server, quality gates, and cost tracking.
 
 
 ## Reimplementations
