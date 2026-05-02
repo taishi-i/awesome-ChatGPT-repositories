@@ -1181,6 +1181,7 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * 🔥 [openrelay](https://github.com/romgx/openrelay) - ⭐ 1.6k / 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
  * 🔥 [snow-cli](https://github.com/mayday-wpf/snow-cli) - ⭐ 574 / Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.
  * [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Multi-agent orchestrator that runs Claude Code, Codex CLI, Gemini CLI, Cursor, Aider, OpenHands, Goose, and 30+ other CLI coding agents in parallel git worktrees, with a deterministic Python scheduler, MCP server, quality gates, and cost tracking.
+ * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agent sessions across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
 
 
 ## Reimplementations
@@ -2638,5 +2639,4 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * ⚠️ [cchub](https://github.com/moresl/cchub) - ⭐ repo not found / CCHub - Claude Code 生态管理平台 | Claude Code Ecosystem Management Platform (MCP, Skills, Hooks, Config)
  * 🔥 [AutoTeam](https://github.com/cnitlrt/autoteam) - ⭐ 824 / ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步
  * [skill.color-expert](https://github.com/meodai/skill.color-expert) - Agent skill for color science expertise. Many references covering color spaces, accessibility (APCA, WCAG), palette   generation, pigment mixing, and historical color theory. Works with Claude Code, Codex, Cursor, Copilot & others.
-
 
