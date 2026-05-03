@@ -16,20 +16,26 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - 為Openai API精心挑選的GPT-Image-2提示：跨越肖像、海報、UI模擬、角色表和社區實驗的圖像示例。
+**Browser-extensions**
+ * [plugins](https://github.com/openai/plugins) - OpenAI 插件
 
 
-**Chatbots**
- * [openagent](https://github.com/the-open-agent/openagent) - ⚡️AI 云操作系统：开源企业级人工智能知识库和MCP（模型-上下文-协议）/A2A（代理-代理）管理平台，具有管理员界面、用户管理和单点登录⚡️，支持ChatGPT、Claude、Llama、Ollama、HuggingFace等，聊天机器人
- * [AgentOS](https://github.com/spharxteam/agentos) - Airymax AgentOS：擁有200K+上下文和10M記憶體，可在99.1%的準確率下執行1000小時任務，減少80%的令牌，提高5倍的行業效率。原生支持OpenClaw、openJiuwen、LangChain、Claude和OpenAI API；更多代理協議即將推出。
+**CLIs**
+ * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - 我的代理技能庫
+ * [superset](https://github.com/superset-sh/superset) - AI代理人時代的程式碼編輯器 - 在您的機器上運行一支由Claude Code、Codex等組成的軍隊AI代理人時代的程式碼編輯器 - 在您的機器上運行一支由Claude Code、Codex等組成的軍隊
+ * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 30多個CLI AI編碼代理的確定性協調器。 Git工作樹隔離，HMAC審計軌跡，MCP服務器模式。
+ * [paseo](https://github.com/getpaseo/paseo) - 從您的手機、桌面和CLI遠程編碼代理。
+ * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - 統一的TUI和CLI，可跨越11個以上的提供商（Codex、Claude、Gemini、Cursor、Aider等）索引和搜索您的本地編碼代理會話歷史。
+ * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI可观测性用于AI编码代理：跟踪成本、令牌、工具故障、延迟、异常、健康、差异和CI门，涵盖Claude Code、Codex CLI、Gemini CLI、Aider、Cursor导出等。
+ * [graphify](https://github.com/safishamsi/graphify) - AI編碼助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。將任何代碼文件夾、SQL模式、R腳本、shell腳本、文檔、論文、圖像或視頻轉換為可查詢的知識圖。應用程式代碼+數據庫模式+基礎設施
+ * [open-design](https://github.com/nexu-io/open-design) - 🎨 本地優先，開源替代Anthropic的Claude Design。⚡ 19技能 · ✨ 71個品牌等級的設計系統 🖼 生成網頁 · 桌面 · 手機原型 · 幻燈片 · 圖片 · 視頻 · 超級幀 📦 沙箱預覽 · HTML/PDF/PPTX/MP4導出 🤖 運行 o
 
 
-**Openai**
- * [chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官網接口純協議的逆向實現，支持註冊機維持號池額度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口協議，在線批量生成圖像，號池管理，支持導入CPA、sub2api號池，支持接入Cherry Studio、New Api等軟件。
+**NLP**
+ * [wuphf](https://github.com/nex-crm/wuphf) - WUPHF是一個由AI員工組成的協作辦公室，他們建立和維護自己的知識庫，以便在執行您分配的任務時不會失去上下文。通過OpenCode支持Claude Code、Codex、OpenClaw和本地LLMs。
 
 
-_Updated on April 30, 2026_ (A total of 2533 repositories listed.)
+_Updated on May 04, 2026_ (A total of 2543 repositories listed.)
 
 ## Table of contents
 
@@ -960,6 +966,7 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * ✅ [HolyClaude](https://github.com/coderluii/holyclaude) - ⭐ 2.1k / AI編碼工作站：Claude Code + web UI + 5個AI CLI + 無頭瀏覽器 + 50多種工具
  * ✅ [openai-cpa](https://github.com/wenfxl/openai-cpa) - ⭐ 1k / 具有雙引擎（高速協議+反檢測瀏覽器）的分佈式自動化平台，用於高規模註冊。協調集群工作人員、郵件引擎和CPA/Sub2API倉庫。
  * 🔥 [nothumansearch](https://github.com/unitedideas/nothumansearch) - ⭐ 0 / 人工智慧代理搜尋引擎 - 依代理準備度排名網站（llms.txt，OpenAPI，MCP，ai-plugin）。MCP伺服器，REST API，全文檢索。已索引超過8,000個網站。
+ * [plugins](https://github.com/openai/plugins) - OpenAI 插件
 
 
 ## CLIs
@@ -1180,6 +1187,14 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * 🔥 [ccpocket](https://github.com/k9i-0/ccpocket) - ⭐ 650 / Codex和Claude的手機客戶端-通過WebSocket橋接從您的手機控制編碼代理
  * 🔥 [openrelay](https://github.com/romgx/openrelay) - ⭐ 1.6k / 數百個免費 AI 模型配額，一鍵接入本地項目。
  * 🔥 [snow-cli](https://github.com/mayday-wpf/snow-cli) - ⭐ 574 / 在您的终端中输入代理编码，同时兼容OpenAI、Gemini和Claude。
+ * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - 我的代理技能庫
+ * [superset](https://github.com/superset-sh/superset) - AI代理人時代的程式碼編輯器 - 在您的機器上運行一支由Claude Code、Codex等組成的軍隊AI代理人時代的程式碼編輯器 - 在您的機器上運行一支由Claude Code、Codex等組成的軍隊
+ * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 30多個CLI AI編碼代理的確定性協調器。 Git工作樹隔離，HMAC審計軌跡，MCP服務器模式。
+ * [paseo](https://github.com/getpaseo/paseo) - 從您的手機、桌面和CLI遠程編碼代理。
+ * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - 統一的TUI和CLI，可跨越11個以上的提供商（Codex、Claude、Gemini、Cursor、Aider等）索引和搜索您的本地編碼代理會話歷史。
+ * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI可观测性用于AI编码代理：跟踪成本、令牌、工具故障、延迟、异常、健康、差异和CI门，涵盖Claude Code、Codex CLI、Gemini CLI、Aider、Cursor导出等。
+ * [graphify](https://github.com/safishamsi/graphify) - AI編碼助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。將任何代碼文件夾、SQL模式、R腳本、shell腳本、文檔、論文、圖像或視頻轉換為可查詢的知識圖。應用程式代碼+數據庫模式+基礎設施
+ * [open-design](https://github.com/nexu-io/open-design) - 🎨 本地優先，開源替代Anthropic的Claude Design。⚡ 19技能 · ✨ 71個品牌等級的設計系統 🖼 生成網頁 · 桌面 · 手機原型 · 幻燈片 · 圖片 · 視頻 · 超級幀 📦 沙箱預覽 · HTML/PDF/PPTX/MP4導出 🤖 運行 o
 
 
 ## Reimplementations
@@ -1657,6 +1672,7 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * 🔥 [CowAgent](https://github.com/zhayujie/cowagent) - ⭐ 44k / CowAgent（chatgpt-on-wechat）是基於大模型的超級AI助理，能主動思考和任務規劃、訪問操作系統和外部資源、創造和執行Skills、通過長期記憶和知識庫不斷成長，比OpenClaw更輕量和便捷。同時支持微信、飛書、釘釘、企微、QQ、公眾號、網頁等接入，可選擇OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI，能處理文本、語音、圖片和文件，可快速搭建個人AI助理和企業數字員工。
  * ✅ [SearChat](https://github.com/sear-chat/searchat) - ⭐ 1k / 搜索 + 聊天 = SearChat（具有搜索功能的AI聊天），支持OpenAI/Anthropic/VertexAI/Gemini，DeepResearch，SearXNG，Docker。AI對話式搜索引擎，支持DeepResearch，支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一鍵部署。
  * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡原生MLX Swift LLM 推論伺服器適用於蘋果矽片。兼容OpenAI API，支持100B+ MoE模型的SSD串流，TurboQuant KV快取壓縮，MACOS + iOS iPhone應用程式。
+ * [wuphf](https://github.com/nex-crm/wuphf) - WUPHF是一個由AI員工組成的協作辦公室，他們建立和維護自己的知識庫，以便在執行您分配的任務時不會失去上下文。通過OpenCode支持Claude Code、Codex、OpenClaw和本地LLMs。
 
 
 ## Langchain

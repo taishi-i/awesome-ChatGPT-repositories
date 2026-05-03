@@ -22261,6 +22261,20 @@
                     "zh-hans": "人工智能代理搜索引擎 - 按代理准备情况对站点进行排名（llms.txt，OpenAPI，MCP，ai-plugin）。MCP服务器，REST API，全文搜索。索引超过8,000个站点。",
                     "zh-hant": "人工智慧代理搜尋引擎 - 依代理準備度排名網站（llms.txt，OpenAPI，MCP，ai-plugin）。MCP伺服器，REST API，全文檢索。已索引超過8,000個網站。"
                 }
+            },
+            "https://github.com/openai/plugins": {
+                "repository_name": "plugins",
+                "user_name": "openai",
+                "language": "Python",
+                "license": null,
+                "description": "OpenAI Plugins",
+                "topics": [],
+                "multilingual_descriptions": {
+                    "en": "OpenAI Plugins",
+                    "ja": "OpenAIプラグイン",
+                    "zh-hans": "OpenAI插件",
+                    "zh-hant": "OpenAI 插件"
+                }
             }
         },
         "CLIs": {
@@ -27511,6 +27525,240 @@
                     "ja": "ターミナルでのエージェントコーディング、同時にOpenAI、Gemini、およびClaudeと互換性があります。",
                     "zh-hans": "在您的终端中输入代理编码，同时兼容OpenAI、Gemini和Claude。",
                     "zh-hant": "在您的终端中输入代理编码，同时兼容OpenAI、Gemini和Claude。"
+                }
+            },
+            "https://github.com/moizibnyousaf/ai-agent-skills": {
+                "repository_name": "Ai-Agent-Skills",
+                "user_name": "MoizIbnYousaf",
+                "language": "JavaScript",
+                "license": "MIT License",
+                "description": "my curated agent skills library ",
+                "topics": [
+                    "agent-skills",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "cursor",
+                    "developer-tools",
+                    "productivity"
+                ],
+                "multilingual_descriptions": {
+                    "en": "my curated agent skills library",
+                    "ja": "私のキュレーションされたエージェントスキルライブラリ",
+                    "zh-hans": "我的代理技能库",
+                    "zh-hant": "我的代理技能庫"
+                }
+            },
+            "https://github.com/superset-sh/superset": {
+                "repository_name": "superset",
+                "user_name": "superset-sh",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+                "topics": [
+                    "agentic-ai",
+                    "ai-agents",
+                    "claude-code",
+                    "cli",
+                    "codex",
+                    "coding-agents",
+                    "cursor-agent",
+                    "desktop-app",
+                    "developer-tools",
+                    "electron",
+                    "git-worktree",
+                    "llm",
+                    "mcp",
+                    "opencode",
+                    "orchestration",
+                    "parallel-agents",
+                    "terminal",
+                    "tui",
+                    "vibe-coding",
+                    "worktrees"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+                    "ja": "AIエージェント時代のコードエディター - Claude Code、Codexなどの軍団をあなたのマシンで実行",
+                    "zh-hans": "AI代理时代的代码编辑器-在您的计算机上运行一支由克劳德代码、Codex等组成的军队。",
+                    "zh-hant": "AI代理人時代的程式碼編輯器 - 在您的機器上運行一支由Claude Code、Codex等組成的軍隊AI代理人時代的程式碼編輯器 - 在您的機器上運行一支由Claude Code、Codex等組成的軍隊"
+                }
+            },
+            "https://github.com/sipyourdrink-ltd/bernstein": {
+                "repository_name": "bernstein",
+                "user_name": "sipyourdrink-ltd",
+                "language": "Python",
+                "license": "Apache License 2.0",
+                "description": "Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation, HMAC audit trail, MCP server mode.",
+                "topics": [
+                    "a2a",
+                    "agent-orchestration",
+                    "agentic-ai",
+                    "agentic-engineering",
+                    "agentic-workflow",
+                    "ai-agents",
+                    "ai-orchestration",
+                    "ai-orchestrator",
+                    "autonomous-agents",
+                    "claude-code",
+                    "coding-agents",
+                    "developer-tools",
+                    "llm-orchestration",
+                    "mcp-server",
+                    "model-context-protocol",
+                    "multi-agent",
+                    "multi-agent-systems",
+                    "open-plugins",
+                    "self-evolving",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation, HMAC audit trail, MCP server mode.",
+                    "ja": "30以上のCLI AIコーディングエージェント用の決定論的オーケストレーター。 Gitワークツリーの分離、HMAC監査トレイル、MCPサーバーモード。",
+                    "zh-hans": "30个以上CLI AI编码代理的确定性编排器。Git工作树隔离，HMAC审计跟踪，MCP服务器模式。",
+                    "zh-hant": "30多個CLI AI編碼代理的確定性協調器。 Git工作樹隔離，HMAC審計軌跡，MCP服務器模式。"
+                }
+            },
+            "https://github.com/getpaseo/paseo": {
+                "repository_name": "paseo",
+                "user_name": "getpaseo",
+                "language": "TypeScript",
+                "license": "Other",
+                "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
+                "topics": [
+                    "ade",
+                    "agents",
+                    "claude-code",
+                    "codex",
+                    "copilot",
+                    "developer-tools",
+                    "gemini",
+                    "mobile",
+                    "opencode",
+                    "orchestration",
+                    "pi"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Orchestrate coding agents remotely from your phone, desktop and CLI",
+                    "ja": "電話、デスクトップ、CLIからリモートでコーディングエージェントを組織化します。",
+                    "zh-hans": "通过手机、台式电脑和CLI远程编排编码代理",
+                    "zh-hant": "從您的手機、桌面和CLI遠程編碼代理。"
+                }
+            },
+            "https://github.com/dicklesworthstone/coding_agent_session_search": {
+                "repository_name": "coding_agent_session_search",
+                "user_name": "Dicklesworthstone",
+                "language": "Rust",
+                "license": "Other",
+                "description": "Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)",
+                "topics": [
+                    "ai-agents",
+                    "developer-tools",
+                    "rust",
+                    "search",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)",
+                    "ja": "11以上のプロバイダー（Codex、Claude、Gemini、Cursor、Aiderなど）を横断して、ローカルのコーディングエージェントセッション履歴をインデックス化および検索するための統合されたTUIおよびCLI。",
+                    "zh-hans": "统一的TUI和CLI，可在11个以上的提供商（Codex、Claude、Gemini、Cursor、Aider等）中索引和搜索您的本地编码代理会话历史。",
+                    "zh-hant": "統一的TUI和CLI，可跨越11個以上的提供商（Codex、Claude、Gemini、Cursor、Aider等）索引和搜索您的本地編碼代理會話歷史。"
+                }
+            },
+            "https://github.com/luoyuctl/agenttrace": {
+                "repository_name": "agenttrace",
+                "user_name": "luoyuctl",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.",
+                "topics": [
+                    "ai-agent-monitoring",
+                    "ai-agent-observability",
+                    "ai-agents",
+                    "ai-coding",
+                    "ai-cost-tracking",
+                    "ai-observability",
+                    "aider",
+                    "claude-code",
+                    "cli",
+                    "codex-cli",
+                    "cost-tracking",
+                    "cursor",
+                    "developer-tools",
+                    "gemini-cli",
+                    "llm-observability",
+                    "llmops",
+                    "observability",
+                    "terminal",
+                    "token-usage",
+                    "tui"
+                ],
+                "multilingual_descriptions": {
+                    "en": "TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.",
+                    "ja": "AIコーディングエージェントのためのTUI可観測性：Claude Code、Codex CLI、Gemini CLI、Aider、Cursorエクスポートなどを介して、トレースコスト、トークン、ツールの障害、レイテンシー、異常、健康、差分、CIゲートを追跡します。",
+                    "zh-hans": "TUI可观测性用于AI编码代理：跟踪成本、令牌、工具故障、延迟、异常、健康、差异和CI门，跨Claude Code、Codex CLI、Gemini CLI、Aider、Cursor导出等。",
+                    "zh-hant": "TUI可观测性用于AI编码代理：跟踪成本、令牌、工具故障、延迟、异常、健康、差异和CI门，涵盖Claude Code、Codex CLI、Gemini CLI、Aider、Cursor导出等。"
+                }
+            },
+            "https://github.com/safishamsi/graphify": {
+                "repository_name": "graphify",
+                "user_name": "safishamsi",
+                "language": "Python",
+                "license": "MIT License",
+                "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+                "topics": [
+                    "antigravity",
+                    "claude-code",
+                    "codex",
+                    "gemini",
+                    "graphrag",
+                    "knowledge-graph",
+                    "leiden",
+                    "openclaw",
+                    "rag",
+                    "skills",
+                    "tree-sitter"
+                ],
+                "multilingual_descriptions": {
+                    "en": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastru",
+                    "ja": "AIコーディングアシスタントスキル（Claude Code、Codex、OpenCode、Cursor、Gemini CLIなど）。コード、SQLスキーマ、Rスクリプト、シェルスクリプト、ドキュメント、論文、画像、ビデオなどのフォルダをクエリ可能な知識グラフに変換します。アプリコード+データベーススキーマ+インフラストルを変換します。",
+                    "zh-hans": "AI编码助手技能（Claude Code，Codex，OpenCode，Cursor，Gemini CLI等）。将任何代码文件夹，SQL模式，R脚本，shell脚本，文档，论文，图片或视频转换为可查询的知识图。应用程序代码+数据库模式+基础设施。",
+                    "zh-hant": "AI編碼助手技能（Claude Code、Codex、OpenCode、Cursor、Gemini CLI等）。將任何代碼文件夾、SQL模式、R腳本、shell腳本、文檔、論文、圖像或視頻轉換為可查詢的知識圖。應用程式代碼+數據庫模式+基礎設施"
+                }
+            },
+            "https://github.com/nexu-io/open-design": {
+                "repository_name": "open-design",
+                "user_name": "nexu-io",
+                "language": "TypeScript",
+                "license": "Apache License 2.0",
+                "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+                "topics": [
+                    "agent-skills",
+                    "ai-agents",
+                    "ai-design",
+                    "byok",
+                    "claude",
+                    "claude-code-for-design",
+                    "claude-design",
+                    "coding-agents",
+                    "design-systems",
+                    "design-tools",
+                    "desktop-app",
+                    "figma-alternative",
+                    "generative-ai",
+                    "hermes-agent",
+                    "local-first",
+                    "nextjs",
+                    "no-code",
+                    "prototyping",
+                    "ui-generator",
+                    "vibe-coding"
+                ],
+                "multilingual_descriptions": {
+                    "en": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs o",
+                    "ja": "🎨 AnthropicのClaude Designに対するローカルファーストでオープンソースの代替品。 ⚡ 19のスキル · ✨ 71のブランドグレードのデザインシステム 🖼 ウェブ · デスクトップ · モバイルのプロトタイプ · スライド · 画像 · 動画 · HyperFrames 📦 サンドボックスプレビュー · HTML/PDF/PPTX/MP4エクスポート 🤖 実行します。",
+                    "zh-hans": "🎨 本地优先，开源替代Anthropic的Claude Design。⚡ 19种技能 · ✨ 71种品牌级设计系统 🖼 生成web · 桌面 · 移动原型 · 幻灯片 · 图像 · 视频 · 超级帧 📦 沙箱预览 · HTML/PDF/PPTX/MP4导出 🤖 运行 o",
+                    "zh-hant": "🎨 本地優先，開源替代Anthropic的Claude Design。⚡ 19技能 · ✨ 71個品牌等級的設計系統 🖼 生成網頁 · 桌面 · 手機原型 · 幻燈片 · 圖片 · 視頻 · 超級幀 📦 沙箱預覽 · HTML/PDF/PPTX/MP4導出 🤖 運行 o"
                 }
             }
         },
@@ -38159,6 +38407,25 @@
                     "ja": "⚡ Apple Silicon向けのネイティブMLX Swift LLM推論サーバー。OpenAI互換のAPI、100B以上のMoEモデル向けのSSDストリーミング、TurboQuant KVキャッシュ圧縮、MACOS + iOS iPhoneアプリ。",
                     "zh-hans": "⚡ 为苹果芯片提供的本地MLX Swift LLM推理服务器。兼容OpenAI API，支持100亿+ MoE模型的SSD流式传输，TurboQuant KV缓存压缩，MACOS + iOS iPhone应用程序。",
                     "zh-hant": "⚡原生MLX Swift LLM 推論伺服器適用於蘋果矽片。兼容OpenAI API，支持100B+ MoE模型的SSD串流，TurboQuant KV快取壓縮，MACOS + iOS iPhone應用程式。"
+                }
+            },
+            "https://github.com/nex-crm/wuphf": {
+                "repository_name": "wuphf",
+                "user_name": "nex-crm",
+                "language": "Go",
+                "license": "MIT License",
+                "description": "WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.",
+                "topics": [
+                    "agents",
+                    "autonomous-agents",
+                    "claude-code",
+                    "knowledge-graph"
+                ],
+                "multilingual_descriptions": {
+                    "en": "WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.",
+                    "ja": "WUPHFは、AI従業員の協力オフィスであり、彼ら自身の知識ベースを構築および維持し、与えられたタスクの文脈を失わないようにします。OpenCodeを介してClaude Code、Codex、OpenClaw、およびローカルLLMsをサポートします。",
+                    "zh-hans": "WUPHF是一个协作办公室，由人工智能员工构建和维护自己的知识库，以便永远不会丢失您给他们的任务的上下文。通过OpenCode支持Claude Code、Codex、OpenClaw和本地LLMs。",
+                    "zh-hant": "WUPHF是一個由AI員工組成的協作辦公室，他們建立和維護自己的知識庫，以便在執行您分配的任務時不會失去上下文。通過OpenCode支持Claude Code、Codex、OpenClaw和本地LLMs。"
                 }
             }
         },

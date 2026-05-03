@@ -16,20 +16,26 @@
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - Openai API用のキュレーションされたGPT-Image-2プロンプト：肖像画、ポスター、UIモックアップ、キャラクターシート、コミュニティ実験などの画像例。
+**Browser-extensions**
+ * [plugins](https://github.com/openai/plugins) - OpenAIプラグイン
 
 
-**Chatbots**
- * [openagent](https://github.com/the-open-agent/openagent) - ⚡️AIクラウドOS：オープンソースのエンタープライズレベルのAI知識ベースおよびMCP（モデルコンテキストプロトコル）/A2A（エージェント間）管理プラットフォーム、管理者UI、ユーザー管理、シングルサインオンをサポート⚡️、ChatGPT、Claude、Llama、Ollama、HuggingFaceなどをサポート、チャットボット
- * [AgentOS](https://github.com/spharxteam/agentos) - Airymax AgentOS：200K以上のコンテキスト＆10Mのメモリ、99.1％の精度で1000時間のタスク、80％のトークン削減、5倍の業界効率。OpenClaw、openJiuwen、LangChain、Claude＆OpenAI APIとネイティブ互換性があります。より多くのエージェントプロトコルが近日公開予定です。
+**CLIs**
+ * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - 私のキュレーションされたエージェントスキルライブラリ
+ * [superset](https://github.com/superset-sh/superset) - AIエージェント時代のコードエディター - Claude Code、Codexなどの軍団をあなたのマシンで実行
+ * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 30以上のCLI AIコーディングエージェント用の決定論的オーケストレーター。 Gitワークツリーの分離、HMAC監査トレイル、MCPサーバーモード。
+ * [paseo](https://github.com/getpaseo/paseo) - 電話、デスクトップ、CLIからリモートでコーディングエージェントを組織化します。
+ * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - 11以上のプロバイダー（Codex、Claude、Gemini、Cursor、Aiderなど）を横断して、ローカルのコーディングエージェントセッション履歴をインデックス化および検索するための統合されたTUIおよびCLI。
+ * [agenttrace](https://github.com/luoyuctl/agenttrace) - AIコーディングエージェントのためのTUI可観測性：Claude Code、Codex CLI、Gemini CLI、Aider、Cursorエクスポートなどを介して、トレースコスト、トークン、ツールの障害、レイテンシー、異常、健康、差分、CIゲートを追跡します。
+ * [graphify](https://github.com/safishamsi/graphify) - AIコーディングアシスタントスキル（Claude Code、Codex、OpenCode、Cursor、Gemini CLIなど）。コード、SQLスキーマ、Rスクリプト、シェルスクリプト、ドキュメント、論文、画像、ビデオなどのフォルダをクエリ可能な知識グラフに変換します。アプリコード+データベーススキーマ+インフラストルを変換します。
+ * [open-design](https://github.com/nexu-io/open-design) - 🎨 AnthropicのClaude Designに対するローカルファーストでオープンソースの代替品。 ⚡ 19のスキル · ✨ 71のブランドグレードのデザインシステム 🖼 ウェブ · デスクトップ · モバイルのプロトタイプ · スライド · 画像 · 動画 · HyperFrames 📦 サンドボックスプレビュー · HTML/PDF/PPTX/MP4エクスポート 🤖 実行します。
 
 
-**Openai**
- * [chatgpt2api](https://github.com/basketikun/chatgpt2api) - Input: ChatGPT公式ウェブサイトのAPIプロトコルの逆転実装、登録機の維持番号プール枠のサポート、GPT-Image-2モデル、テキストモデルのサポート、複数のOpenAI APIプロトコルと互換性があり、オンラインで画像を大量生成、番号プール管理、CPA、sub2api番号プールのインポートをサポート、Cherry Studio、New Apiなどのソフトウェアへの接続をサポートします。
+**NLP**
+ * [wuphf](https://github.com/nex-crm/wuphf) - WUPHFは、AI従業員の協力オフィスであり、彼ら自身の知識ベースを構築および維持し、与えられたタスクの文脈を失わないようにします。OpenCodeを介してClaude Code、Codex、OpenClaw、およびローカルLLMsをサポートします。
 
 
-_Updated on April 30, 2026_ (A total of 2533 repositories listed.)
+_Updated on May 04, 2026_ (A total of 2543 repositories listed.)
 
 ## Table of contents
 
@@ -960,6 +966,7 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * ✅ [HolyClaude](https://github.com/coderluii/holyclaude) - ⭐ 2.1k / AIコーディングワークステーション：クロードコード+ Web UI + 5つのAI CLI + ヘッドレスブラウザ + 50以上のツール
  * ✅ [openai-cpa](https://github.com/wenfxl/openai-cpa) - ⭐ 1k / デュアルエンジン（高速プロトコル+検出防止ブラウザ）を備えた分散自動化プラットフォームは、大規模登録に適しています。クラスターワーカー、メールエンジン、CPA/Sub2API倉庫を統括します。
  * 🔥 [nothumansearch](https://github.com/unitedideas/nothumansearch) - ⭐ 0 / AIエージェント用の検索エンジン-サイトをエージェントの準備状況でランク付けします（llms.txt、OpenAPI、MCP、ai-plugin）。MCPサーバー、REST API、フルテキスト検索。8,000以上のインデックスされたサイト。
+ * [plugins](https://github.com/openai/plugins) - OpenAIプラグイン
 
 
 ## CLIs
@@ -1180,6 +1187,14 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * 🔥 [ccpocket](https://github.com/k9i-0/ccpocket) - ⭐ 650 / CodexとClaudeのためのモバイルクライアント - WebSocketブリッジを介して電話からコーディングエージェントを制御します。
  * 🔥 [openrelay](https://github.com/romgx/openrelay) - ⭐ 1.6k / 数百の無料AIモデルクォータ、ローカルプロジェクトへのワンクリックアクセス。
  * 🔥 [snow-cli](https://github.com/mayday-wpf/snow-cli) - ⭐ 574 / ターミナルでのエージェントコーディング、同時にOpenAI、Gemini、およびClaudeと互換性があります。
+ * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - 私のキュレーションされたエージェントスキルライブラリ
+ * [superset](https://github.com/superset-sh/superset) - AIエージェント時代のコードエディター - Claude Code、Codexなどの軍団をあなたのマシンで実行
+ * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 30以上のCLI AIコーディングエージェント用の決定論的オーケストレーター。 Gitワークツリーの分離、HMAC監査トレイル、MCPサーバーモード。
+ * [paseo](https://github.com/getpaseo/paseo) - 電話、デスクトップ、CLIからリモートでコーディングエージェントを組織化します。
+ * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - 11以上のプロバイダー（Codex、Claude、Gemini、Cursor、Aiderなど）を横断して、ローカルのコーディングエージェントセッション履歴をインデックス化および検索するための統合されたTUIおよびCLI。
+ * [agenttrace](https://github.com/luoyuctl/agenttrace) - AIコーディングエージェントのためのTUI可観測性：Claude Code、Codex CLI、Gemini CLI、Aider、Cursorエクスポートなどを介して、トレースコスト、トークン、ツールの障害、レイテンシー、異常、健康、差分、CIゲートを追跡します。
+ * [graphify](https://github.com/safishamsi/graphify) - AIコーディングアシスタントスキル（Claude Code、Codex、OpenCode、Cursor、Gemini CLIなど）。コード、SQLスキーマ、Rスクリプト、シェルスクリプト、ドキュメント、論文、画像、ビデオなどのフォルダをクエリ可能な知識グラフに変換します。アプリコード+データベーススキーマ+インフラストルを変換します。
+ * [open-design](https://github.com/nexu-io/open-design) - 🎨 AnthropicのClaude Designに対するローカルファーストでオープンソースの代替品。 ⚡ 19のスキル · ✨ 71のブランドグレードのデザインシステム 🖼 ウェブ · デスクトップ · モバイルのプロトタイプ · スライド · 画像 · 動画 · HyperFrames 📦 サンドボックスプレビュー · HTML/PDF/PPTX/MP4エクスポート 🤖 実行します。
 
 
 ## Reimplementations
@@ -1657,6 +1672,7 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * 🔥 [CowAgent](https://github.com/zhayujie/cowagent) - ⭐ 44k / CowAgent（chatgpt-on-wechat）は、大規模モデルに基づいたスーパーAIアシスタントであり、自己主導的に考え、タスクを計画し、オペレーティングシステムや外部リソースにアクセスし、スキルを作成および実行し、長期記憶と知識ベースを通じて成長し続けることができます。OpenClawよりも軽量で便利です。同時に、WeChat、Feishu、DingTalk、WeCom、QQ、公衆号、ウェブサイトなどに接続することができ、OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAIを選択できます。テキスト、音声、画像、ファイルを処理し、個人用AIアシスタントや企業のデジタル従業員を迅速に構築することができます。
  * ✅ [SearChat](https://github.com/sear-chat/searchat) - ⭐ 1k / 検索+チャット= SearChat（検索付きAIチャット）、OpenAI/Anthropic/VertexAI/Geminiをサポート、DeepResearch、SearXNG、Dockerをサポート。AI対話型検索エンジン、DeepResearchをサポート、OpenAI/Anthropic/VertexAI/Geminiインターフェースをサポート、集約検索エンジンSearXNGをサポート、Dockerワンクリック展開をサポート。
  * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡ Apple Silicon向けのネイティブMLX Swift LLM推論サーバー。OpenAI互換のAPI、100B以上のMoEモデル向けのSSDストリーミング、TurboQuant KVキャッシュ圧縮、MACOS + iOS iPhoneアプリ。
+ * [wuphf](https://github.com/nex-crm/wuphf) - WUPHFは、AI従業員の協力オフィスであり、彼ら自身の知識ベースを構築および維持し、与えられたタスクの文脈を失わないようにします。OpenCodeを介してClaude Code、Codex、OpenClaw、およびローカルLLMsをサポートします。
 
 
 ## Langchain
