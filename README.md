@@ -31,6 +31,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 **Openai**
  * [codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
  * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
+ * [AI Fast Club](https://www.aifast.club) - Stable and high-speed AI API gateway supporting Claude 4.7, GPT-5.5, Gemini-3 and more. Domestic Chinese payment accepted, no overseas card needed.
 
 
 **Others**
@@ -2175,6 +2176,7 @@ _Updated on April 15, 2026_ (A total of 2512 repositories listed.)
  * [ai-goofish-monitor](https://github.com/usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
  * [codedb](https://github.com/justrach/codedb) - Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries.
  * [codex-lb](https://github.com/soju06/codex-lb) - Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints
+ * [AI Fast Club](https://www.aifast.club) - Stable and high-speed AI API gateway supporting Claude 4.7, GPT-5.5, Gemini-3 and more. Domestic Chinese payment accepted, no overseas card needed.
 
 
 ## Others
