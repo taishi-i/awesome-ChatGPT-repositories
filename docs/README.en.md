@@ -16,20 +16,26 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## The latest additions 🎉
 
-**Awesome-lists**
- * [awesome-gpt-image-2-prompts](https://github.com/evolinkai/awesome-gpt-image-2-prompts) - Curated GPT-Image-2 prompts fot the Openai API：image examples across portraits, posters, UI mockups, character sheets, and community experiments.
+**Browser-extensions**
+ * [plugins](https://github.com/openai/plugins) - OpenAI Plugins
 
 
-**Chatbots**
- * [openagent](https://github.com/the-open-agent/openagent) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bo
- * [AgentOS](https://github.com/spharxteam/agentos) - Airymax AgentOS: 200K+ context & 10M memory, 1000h tasks at 99.1% accuracy, 80% token reduction, 5× industry efficiency. Natively compatible with OpenClaw, openJiuwen, LangChain, Claude & OpenAI APIs; more agent protocols coming.
+**CLIs**
+ * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - my curated agent skills library
+ * [superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+ * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation, HMAC audit trail, MCP server mode.
+ * [paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
+ * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
+ * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
+ * [graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastru
+ * [open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs o
 
 
-**Openai**
- * [chatgpt2api](https://github.com/basketikun/chatgpt2api) - Reverse implementation of the ChatGPT official website interface protocol, supporting registration machine to maintain number pool quota, supporting GPT-Image-2 model, text model, compatible with multiple OpenAI interface protocols, online batch generation of images, number pool management, supporting import of CPA, sub2api number pool, supporting integration with Cherry Studio, New Api and other software.
+**NLP**
+ * [wuphf](https://github.com/nex-crm/wuphf) - WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.
 
 
-_Updated on April 30, 2026_ (A total of 2533 repositories listed.)
+_Updated on May 04, 2026_ (A total of 2543 repositories listed.)
 
 ## Table of contents
 
@@ -960,6 +966,7 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * ✅ [HolyClaude](https://github.com/coderluii/holyclaude) - ⭐ 2.1k / AI coding workstation: Claude Code + web UI + 5 AI CLIs + headless browser + 50+ tools
  * ✅ [openai-cpa](https://github.com/wenfxl/openai-cpa) - ⭐ 1k / Distributed Automation Platform with Dual-Engine (High-speed Protocol + Anti-detection Browser) for high-scale registration. Orchestrates cluster workers, mail engines, and CPA/Sub2API warehouses.
  * 🔥 [nothumansearch](https://github.com/unitedideas/nothumansearch) - ⭐ 0 / Search engine for AI agents — ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin). MCP server, REST API, full-text search. 8,000+ indexed sites.
+ * [plugins](https://github.com/openai/plugins) - OpenAI Plugins
 
 
 ## CLIs
@@ -1180,6 +1187,14 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * 🔥 [ccpocket](https://github.com/k9i-0/ccpocket) - ⭐ 650 / Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge
  * 🔥 [openrelay](https://github.com/romgx/openrelay) - ⭐ 1.6k / 几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects.
  * 🔥 [snow-cli](https://github.com/mayday-wpf/snow-cli) - ⭐ 574 / Agentic coding in your terminal,Simultaneously compatible with OpenAI, Gemini, and Claude.
+ * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - my curated agent skills library
+ * [superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+ * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Deterministic orchestrator for 30+ CLI AI coding agents. Git worktree isolation, HMAC audit trail, MCP server mode.
+ * [paseo](https://github.com/getpaseo/paseo) - Orchestrate coding agents remotely from your phone, desktop and CLI
+ * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - Unified TUI and CLI to index and search your local coding agent session history across 11+ providers (Codex, Claude, Gemini, Cursor, Aider, etc.)
+ * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI observability for AI coding agents: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
+ * [graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastru
+ * [open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs o
 
 
 ## Reimplementations
@@ -1657,6 +1672,7 @@ _Updated on April 30, 2026_ (A total of 2533 repositories listed.)
  * 🔥 [CowAgent](https://github.com/zhayujie/cowagent) - ⭐ 44k / CowAgent (chatgpt-on-wechat) is a super AI assistant based on large models, capable of proactive thinking and task planning, accessing operating systems and external resources, creating and executing Skills, and continuously growing through long-term memory and knowledge base. It is lighter and more convenient than OpenClaw. It also supports integration with WeChat, Feishu, DingTalk, WeCom, QQ, official accounts, websites, etc., and can choose from OpenAI/Claude/Gemini/DeepSeek/Qwen/GLM/Kimi/LinkAI. It can handle text, voice, images, and files, and can quickly build personal AI assistants and digital employees for enterprises.
  * ✅ [SearChat](https://github.com/sear-chat/searchat) - ⭐ 1k / Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持Docker一键部署。
  * [SwiftLM](https://github.com/sharpai/swiftlm) - ⚡ Native MLX Swift LLM inference server for Apple Silicon. OpenAI-compatible API, SSD streaming for 100B+ MoE models, TurboQuant KV cache compression, MACOS + iOS iPhone app.
+ * [wuphf](https://github.com/nex-crm/wuphf) - WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.
 
 
 ## Langchain
