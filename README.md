@@ -712,7 +712,7 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * ✅ [openclaw-nerve](https://github.com/daggerhashimoto/openclaw-nerve) - ⭐ 771 / Real-time web cockpit for OpenClaw: voice conversations, agent automated kanban board, workspace/file control, sub-agent sessions, inline charts, and usage visibility.
  * 🔥 [nanobot](https://github.com/hkuds/nanobot) - ⭐ 41k / "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
  * 🔥 [Proma](https://github.com/erlichliu/proma) - ⭐ 601 / 把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。
- * [openagent](https://github.com/the-open-agent/openagent) - ⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
+ * 🔥 [openagent](https://github.com/the-open-agent/openagent) - ⭐ 4.5k / Next-generation personal AI assistant powered by LLM, RAG and agent loops. Supporting computer-use, browser-use and coding agent with 30+ model providers, MCP-compatible tools, visual workflow builder and admin dashboard. Demo: https://demo.openagentai.org
  * [AgentOS](https://github.com/spharxteam/agentos) - Airymax AgentOS: 200K+ context & 10M memory, 1000h tasks at 99.1% accuracy, 80% token reduction, 5× industry efficiency. Natively compatible with OpenClaw, openJiuwen, LangChain, Claude & OpenAI APIs; more agent protocols coming.
 
 
