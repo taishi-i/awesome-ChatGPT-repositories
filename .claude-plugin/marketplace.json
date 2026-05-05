@@ -1,0 +1,20 @@
+{
+  "name": "awesome-chatgpt-repositories",
+  "description": "Search and discover 2500+ curated open-source GitHub repositories related to ChatGPT and LLMs.",
+  "owner": {
+    "name": "taishi-i"
+  },
+  "plugins": [
+    {
+      "name": "awesome-chatgpt",
+      "source": {
+        "source": "github",
+        "repo": "taishi-i/awesome-ChatGPT-repositories"
+      },
+      "description": "Search 2500+ curated ChatGPT and LLM repositories from Claude Code. Covers CLIs, Chatbots, NLP, Langchain, Prompts, Browser-extensions, and more.",
+      "category": "productivity",
+      "license": "CC0-1.0",
+      "keywords": ["chatgpt", "llm", "openai", "search", "awesome-list", "nlp", "langchain"]
+    }
+  ]
+}
