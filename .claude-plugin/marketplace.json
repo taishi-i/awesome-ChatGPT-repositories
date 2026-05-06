@@ -1,4 +1,5 @@
 {
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
   "name": "awesome-chatgpt-repositories",
   "description": "Search and discover 2500+ curated open-source GitHub repositories related to ChatGPT and LLMs.",
   "owner": {
@@ -6,15 +7,22 @@
   },
   "plugins": [
     {
-      "name": "awesome-chatgpt",
+      "name": "awesome-chatgpt-search",
       "source": {
-        "source": "github",
-        "repo": "taishi-i/awesome-ChatGPT-repositories"
+        "source": "git-subdir",
+        "url": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+        "path": "plugins/awesome-chatgpt-search"
       },
       "description": "Search 2500+ curated ChatGPT and LLM repositories from Claude Code. Covers CLIs, Chatbots, NLP, Langchain, Prompts, Browser-extensions, and more.",
-      "category": "productivity",
+      "author": {
+        "name": "taishi-i"
+      },
+      "homepage": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
+      "repository": "https://github.com/taishi-i/awesome-ChatGPT-repositories",
       "license": "CC0-1.0",
-      "keywords": ["chatgpt", "llm", "openai", "search", "awesome-list", "nlp", "langchain"]
+      "category": "productivity",
+      "keywords": ["chatgpt", "llm", "openai", "search", "awesome-list", "nlp", "langchain"],
+      "tags": ["chatgpt", "llm", "agent", "search", "langchain", "rag"]
     }
   ]
 }
