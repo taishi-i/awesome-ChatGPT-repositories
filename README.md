@@ -15,7 +15,12 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 ## Claude Code Skill
 
-Search 2,500+ repositories directly from Claude Code using the `awesome-chatgpt-search` skill — no Python required.
+Search 2,500+ curated repositories directly from Claude Code — just describe what you're looking for in plain language.
+
+- **Find tools by topic** — ask for RAG frameworks, agent libraries, chatbot UIs, CLI tools, and more
+- **Filter by category or language** — narrow results to a specific category (e.g. `CLIs`, `NLP`) or programming language
+- **Multilingual queries** — search in Japanese, Chinese, Korean, or any language
+- **Scored results** — each result is ranked by relevance and project quality
 
 **Install as a plugin:**
 ```
@@ -31,8 +36,6 @@ Then invoke the skill as:
 /awesome-chatgpt-search:search fine-tuning
 /awesome-chatgpt-search:search list categories
 ```
-
-Queries in any language are supported (Japanese, Chinese, Korean, etc.).
 
 ## The latest additions 🎉
 
