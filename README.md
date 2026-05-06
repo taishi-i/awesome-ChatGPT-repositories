@@ -11,43 +11,31 @@ A tool for searching these repositories is [available](https://huggingface.co/sp
 
 Your contributions are always welcome! Before contributing, please read [the guidelines](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/contributing.md).
 
-## Claude Code / Codex Skill
+[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
-Search this repository directly from Claude Code or Codex using the `/awesome-chatgpt` skill.
+## Claude Code Skill
 
-**Install as a plugin (Claude Code):**
+Search 2,500+ curated repositories directly from Claude Code — just describe what you're looking for in plain language.
+
+- **Find tools by topic** — ask for RAG frameworks, agent libraries, chatbot UIs, CLI tools, and more
+- **Filter by category or language** — narrow results to a specific category (e.g. `CLIs`, `NLP`) or programming language
+- **Multilingual queries** — search in Japanese, Chinese, Korean, or any language
+- **Scored results** — each result is ranked by relevance and project quality
+
+**Install as a plugin:**
 ```
 /plugin marketplace add taishi-i/awesome-ChatGPT-repositories
-/plugin install awesome-chatgpt@awesome-chatgpt-repositories
+/plugin install awesome-chatgpt-search@awesome-chatgpt-search
 ```
 
 Then invoke the skill as:
 ```
-/awesome-chatgpt:search RAG retrieval
-/awesome-chatgpt:search category:CLIs agent
-/awesome-chatgpt:search language:Python langchain
-/awesome-chatgpt:search list categories
+/awesome-chatgpt-search:search RAG retrieval
+/awesome-chatgpt-search:search category:CLIs agent
+/awesome-chatgpt-search:search language:Python langchain
+/awesome-chatgpt-search:search fine-tuning
+/awesome-chatgpt-search:search list categories
 ```
-
-**Or clone and use locally (unnamespaced command):**
-```bash
-git clone https://github.com/taishi-i/awesome-ChatGPT-repositories
-cd awesome-ChatGPT-repositories
-```
-```
-/awesome-chatgpt RAG retrieval
-/awesome-chatgpt category:CLIs agent
-```
-
-**Standalone CLI:**
-```bash
-python3 skills/search/scripts/search.py "fine-tuning" --limit 10
-python3 skills/search/scripts/search.py --category NLP --language Python
-python3 skills/search/scripts/search.py --list-categories
-```
-
-[English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
-
 
 ## The latest additions 🎉
 
