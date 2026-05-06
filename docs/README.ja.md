@@ -16,26 +16,30 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ruflo](https://github.com/ruvnet/ruflo) - 🌊 クロード向けの先進的なエージェントオーケストレーションプラットフォーム。インテリジェントなマルチエージェントスワームを展開し、自律型ワークフローを調整し、会話型AIシステムを構築します。企業向けのアーキテクチャ、自己学習型スワームインテリジェンス、RAG統合を特徴としています。
+ * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
+
+
 **Browser-extensions**
- * [plugins](https://github.com/openai/plugins) - OpenAIプラグイン
+ * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - クロードコード、コーデックス、カーソルなどの公式コンパウンドエンジニアリングプラグイン
 
 
 **CLIs**
- * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - 私のキュレーションされたエージェントスキルライブラリ
- * [superset](https://github.com/superset-sh/superset) - AIエージェント時代のコードエディター - Claude Code、Codexなどの軍団をあなたのマシンで実行
- * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 30以上のCLI AIコーディングエージェント用の決定論的オーケストレーター。 Gitワークツリーの分離、HMAC監査トレイル、MCPサーバーモード。
- * [paseo](https://github.com/getpaseo/paseo) - 電話、デスクトップ、CLIからリモートでコーディングエージェントを組織化します。
- * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - 11以上のプロバイダー（Codex、Claude、Gemini、Cursor、Aiderなど）を横断して、ローカルのコーディングエージェントセッション履歴をインデックス化および検索するための統合されたTUIおよびCLI。
- * [agenttrace](https://github.com/luoyuctl/agenttrace) - AIコーディングエージェントのためのTUI可観測性：Claude Code、Codex CLI、Gemini CLI、Aider、Cursorエクスポートなどを介して、トレースコスト、トークン、ツールの障害、レイテンシー、異常、健康、差分、CIゲートを追跡します。
- * [graphify](https://github.com/safishamsi/graphify) - AIコーディングアシスタントスキル（Claude Code、Codex、OpenCode、Cursor、Gemini CLIなど）。コード、SQLスキーマ、Rスクリプト、シェルスクリプト、ドキュメント、論文、画像、ビデオなどのフォルダをクエリ可能な知識グラフに変換します。アプリコード+データベーススキーマ+インフラストルを変換します。
- * [open-design](https://github.com/nexu-io/open-design) - 🎨 AnthropicのClaude Designに対するローカルファーストでオープンソースの代替品。 ⚡ 19のスキル · ✨ 71のブランドグレードのデザインシステム 🖼 ウェブ · デスクトップ · モバイルのプロトタイプ · スライド · 画像 · 動画 · HyperFrames 📦 サンドボックスプレビュー · HTML/PDF/PPTX/MP4エクスポート 🤖 実行します。
+ * [codeburn](https://github.com/getagentseal/codeburn) - AIコーディングトークンがどこに行くかを確認してください。Claude Code、Codex、およびCursorのコスト可視化のためのインタラクティブTUIダッシュボード。
+ * [cmux](https://github.com/manaflow-ai/cmux) - 垂直タブと通知を備えたGhosttyベースのmacOSターミナル、AIコーディングエージェント向けGhosttyベースのmacOSターミナル、AIコーディングエージェント向けの垂直タブと通知
+ * [worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunkは、並列AIエージェントワークフロー向けに設計されたGitワークツリー管理用のCLIです。
 
 
-**NLP**
- * [wuphf](https://github.com/nex-crm/wuphf) - WUPHFは、AI従業員の協力オフィスであり、彼ら自身の知識ベースを構築および維持し、与えられたタスクの文脈を失わないようにします。OpenCodeを介してClaude Code、Codex、OpenClaw、およびローカルLLMsをサポートします。
+**Others**
+ * [skills](https://github.com/openai/skills) - コーデックスのスキルカタログ
+ * [gh-aw](https://github.com/github/gh-aw) - GitHubエージェントワークフロー
+ * [remodex](https://github.com/emanuele-web04/remodex) - コーデックス用リモコン
+ * [ruler](https://github.com/intellectronica/ruler) - ルーラー - すべてのコーディングエージェントに同じルールを適用します。
+ * [serena](https://github.com/oraios/serena) - コーディング用の強力なMCPツールキットで、意味論的な検索と編集機能を提供します - あなたのエージェントのためのIDE
 
 
-_Updated on May 04, 2026_ (A total of 2543 repositories listed.)
+_Updated on May 07, 2026_ (A total of 2554 repositories listed.)
 
 ## Table of contents
 
@@ -714,6 +718,8 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * 🔥 [Proma](https://github.com/erlichliu/proma) - ⭐ 601 / 最も滑らかな一般エージェントの体験をあなたのワークフローに持ち込み、100倍のプロユーザー向けの未来の製品を実現する proactive Agent の段階にいます。Claude Agent SDKに基づく完全なオープンソースの実践に基づき、飛書グループチャットの呼び出しをネイティブサポートし、任意の大規模モデルサプライヤーを柔軟に接続できます。トップクラスのエージェント機能が本当に毎日使う場所で実行されるようにします。
  * [openagent](https://github.com/the-open-agent/openagent) - ⚡️AIクラウドOS：オープンソースのエンタープライズレベルのAI知識ベースおよびMCP（モデルコンテキストプロトコル）/A2A（エージェント間）管理プラットフォーム、管理者UI、ユーザー管理、シングルサインオンをサポート⚡️、ChatGPT、Claude、Llama、Ollama、HuggingFaceなどをサポート、チャットボット
  * [AgentOS](https://github.com/spharxteam/agentos) - Airymax AgentOS：200K以上のコンテキスト＆10Mのメモリ、99.1％の精度で1000時間のタスク、80％のトークン削減、5倍の業界効率。OpenClaw、openJiuwen、LangChain、Claude＆OpenAI APIとネイティブ互換性があります。より多くのエージェントプロトコルが近日公開予定です。
+ * [ruflo](https://github.com/ruvnet/ruflo) - 🌊 クロード向けの先進的なエージェントオーケストレーションプラットフォーム。インテリジェントなマルチエージェントスワームを展開し、自律型ワークフローを調整し、会話型AIシステムを構築します。企業向けのアーキテクチャ、自己学習型スワームインテリジェンス、RAG統合を特徴としています。
+ * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution APIはオープンソースのWhatsApp統合APIです。
 
 
 ## Browser-extensions
@@ -967,6 +973,7 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * ✅ [openai-cpa](https://github.com/wenfxl/openai-cpa) - ⭐ 1k / デュアルエンジン（高速プロトコル+検出防止ブラウザ）を備えた分散自動化プラットフォームは、大規模登録に適しています。クラスターワーカー、メールエンジン、CPA/Sub2API倉庫を統括します。
  * 🔥 [nothumansearch](https://github.com/unitedideas/nothumansearch) - ⭐ 0 / AIエージェント用の検索エンジン-サイトをエージェントの準備状況でランク付けします（llms.txt、OpenAPI、MCP、ai-plugin）。MCPサーバー、REST API、フルテキスト検索。8,000以上のインデックスされたサイト。
  * [plugins](https://github.com/openai/plugins) - OpenAIプラグイン
+ * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - クロードコード、コーデックス、カーソルなどの公式コンパウンドエンジニアリングプラグイン
 
 
 ## CLIs
@@ -1195,6 +1202,9 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * [agenttrace](https://github.com/luoyuctl/agenttrace) - AIコーディングエージェントのためのTUI可観測性：Claude Code、Codex CLI、Gemini CLI、Aider、Cursorエクスポートなどを介して、トレースコスト、トークン、ツールの障害、レイテンシー、異常、健康、差分、CIゲートを追跡します。
  * [graphify](https://github.com/safishamsi/graphify) - AIコーディングアシスタントスキル（Claude Code、Codex、OpenCode、Cursor、Gemini CLIなど）。コード、SQLスキーマ、Rスクリプト、シェルスクリプト、ドキュメント、論文、画像、ビデオなどのフォルダをクエリ可能な知識グラフに変換します。アプリコード+データベーススキーマ+インフラストルを変換します。
  * [open-design](https://github.com/nexu-io/open-design) - 🎨 AnthropicのClaude Designに対するローカルファーストでオープンソースの代替品。 ⚡ 19のスキル · ✨ 71のブランドグレードのデザインシステム 🖼 ウェブ · デスクトップ · モバイルのプロトタイプ · スライド · 画像 · 動画 · HyperFrames 📦 サンドボックスプレビュー · HTML/PDF/PPTX/MP4エクスポート 🤖 実行します。
+ * [codeburn](https://github.com/getagentseal/codeburn) - AIコーディングトークンがどこに行くかを確認してください。Claude Code、Codex、およびCursorのコスト可視化のためのインタラクティブTUIダッシュボード。
+ * [cmux](https://github.com/manaflow-ai/cmux) - 垂直タブと通知を備えたGhosttyベースのmacOSターミナル、AIコーディングエージェント向けGhosttyベースのmacOSターミナル、AIコーディングエージェント向けの垂直タブと通知
+ * [worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunkは、並列AIエージェントワークフロー向けに設計されたGitワークツリー管理用のCLIです。
 
 
 ## Reimplementations
@@ -2653,5 +2663,10 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * ⚠️ [cchub](https://github.com/moresl/cchub) - ⭐ repo not found / CCHub - クロードコード生態管理プラットフォーム | クロードコードエコシステム管理プラットフォーム（MCP、スキル、フック、設定）
  * 🔥 [AutoTeam](https://github.com/cnitlrt/autoteam) - ⭐ 824 / ChatGPT チームのアカウント自動ローテーション管理 - Codex 限度監視、自動番号変更、CPA 認証同期
  * [skill.color-expert](https://github.com/meodai/skill.color-expert) - エージェントのスキルは色彩科学の専門知識です。カラースペース、アクセシビリティ（APCA、WCAG）、パレット生成、顔料の混合、歴史的な色彩理論をカバーする多くの参照資料があります。Claude Code、Codex、Cursor、Copilotなどと一緒に作業します。
+ * [skills](https://github.com/openai/skills) - コーデックスのスキルカタログ
+ * [gh-aw](https://github.com/github/gh-aw) - GitHubエージェントワークフロー
+ * [remodex](https://github.com/emanuele-web04/remodex) - コーデックス用リモコン
+ * [ruler](https://github.com/intellectronica/ruler) - ルーラー - すべてのコーディングエージェントに同じルールを適用します。
+ * [serena](https://github.com/oraios/serena) - コーディング用の強力なMCPツールキットで、意味論的な検索と編集機能を提供します - あなたのエージェントのためのIDE
 
 

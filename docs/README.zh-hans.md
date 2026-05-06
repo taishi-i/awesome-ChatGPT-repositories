@@ -16,26 +16,30 @@
 
 ## The latest additions 🎉
 
+**Chatbots**
+ * [ruflo](https://github.com/ruvnet/ruflo) - 🌊 为克劳德提供领先的代理编排平台。部署智能多代理群集，协调自主工作流程，并构建对话式人工智能系统。具有企业级架构、自学习群集智能和RAG集成的功能。
+ * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API 是一个开源的 WhatsApp 集成 API
+
+
 **Browser-extensions**
- * [plugins](https://github.com/openai/plugins) - OpenAI插件
+ * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - 官方复合工程插件，适用于Claude Code、Codex、Cursor等等。
 
 
 **CLIs**
- * [Ai-Agent-Skills](https://github.com/moizibnyousaf/ai-agent-skills) - 我的代理技能库
- * [superset](https://github.com/superset-sh/superset) - AI代理时代的代码编辑器-在您的计算机上运行一支由克劳德代码、Codex等组成的军队。
- * [bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 30个以上CLI AI编码代理的确定性编排器。Git工作树隔离，HMAC审计跟踪，MCP服务器模式。
- * [paseo](https://github.com/getpaseo/paseo) - 通过手机、台式电脑和CLI远程编排编码代理
- * [coding_agent_session_search](https://github.com/dicklesworthstone/coding_agent_session_search) - 统一的TUI和CLI，可在11个以上的提供商（Codex、Claude、Gemini、Cursor、Aider等）中索引和搜索您的本地编码代理会话历史。
- * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI可观测性用于AI编码代理：跟踪成本、令牌、工具故障、延迟、异常、健康、差异和CI门，跨Claude Code、Codex CLI、Gemini CLI、Aider、Cursor导出等。
- * [graphify](https://github.com/safishamsi/graphify) - AI编码助手技能（Claude Code，Codex，OpenCode，Cursor，Gemini CLI等）。将任何代码文件夹，SQL模式，R脚本，shell脚本，文档，论文，图片或视频转换为可查询的知识图。应用程序代码+数据库模式+基础设施。
- * [open-design](https://github.com/nexu-io/open-design) - 🎨 本地优先，开源替代Anthropic的Claude Design。⚡ 19种技能 · ✨ 71种品牌级设计系统 🖼 生成web · 桌面 · 移动原型 · 幻灯片 · 图像 · 视频 · 超级帧 📦 沙箱预览 · HTML/PDF/PPTX/MP4导出 🤖 运行 o
+ * [codeburn](https://github.com/getagentseal/codeburn) - 查看您的AI编码令牌去哪里。Claude Code，Codex和Cursor成本可观察性的交互式TUI仪表板。
+ * [cmux](https://github.com/manaflow-ai/cmux) - 基于Ghostty的macOS终端，具有垂直标签和通知功能，适用于AI编码代理。
+ * [worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk是一个用于Git工作树管理的CLI工具，专为并行AI代理工作流程设计。
 
 
-**NLP**
- * [wuphf](https://github.com/nex-crm/wuphf) - WUPHF是一个协作办公室，由人工智能员工构建和维护自己的知识库，以便永远不会丢失您给他们的任务的上下文。通过OpenCode支持Claude Code、Codex、OpenClaw和本地LLMs。
+**Others**
+ * [skills](https://github.com/openai/skills) - Codex技能目录
+ * [gh-aw](https://github.com/github/gh-aw) - GitHub 代理工作流
+ * [remodex](https://github.com/emanuele-web04/remodex) - 遥控器用于Codex。
+ * [ruler](https://github.com/intellectronica/ruler) - 统治者-对所有编码代理应用相同的规则
+ * [serena](https://github.com/oraios/serena) - 一个强大的MCP工具包，提供编码、语义检索和编辑功能 - 您的代理IDE
 
 
-_Updated on May 04, 2026_ (A total of 2543 repositories listed.)
+_Updated on May 07, 2026_ (A total of 2554 repositories listed.)
 
 ## Table of contents
 
@@ -714,6 +718,8 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * 🔥 [Proma](https://github.com/erlichliu/proma) - ⭐ 601 / 将最丝滑的通用 Agent 体验带入您的工作流程，为100倍专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用，灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正运行在您每天使用的地方。
  * [openagent](https://github.com/the-open-agent/openagent) - ⚡️AI 云操作系统：开源企业级人工智能知识库和MCP（模型-上下文-协议）/A2A（代理-代理）管理平台，具有管理员界面、用户管理和单点登录⚡️，支持ChatGPT、Claude、Llama、Ollama、HuggingFace等，聊天机器人
  * [AgentOS](https://github.com/spharxteam/agentos) - Airymax AgentOS：200K+上下文和10M内存，1000小时任务准确率达到99.1%，80%令牌减少，5倍行业效率。与OpenClaw、openJiuwen、LangChain、Claude和OpenAI API原生兼容；更多代理协议即将推出。
+ * [ruflo](https://github.com/ruvnet/ruflo) - 🌊 为克劳德提供领先的代理编排平台。部署智能多代理群集，协调自主工作流程，并构建对话式人工智能系统。具有企业级架构、自学习群集智能和RAG集成的功能。
+ * [evolution-api](https://github.com/evolution-foundation/evolution-api) - Evolution API 是一个开源的 WhatsApp 集成 API
 
 
 ## Browser-extensions
@@ -967,6 +973,7 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * ✅ [openai-cpa](https://github.com/wenfxl/openai-cpa) - ⭐ 1k / 具有双引擎（高速协议+反检测浏览器）的分布式自动化平台，用于高规模注册。协调集群工作人员、邮件引擎和CPA/Sub2API仓库。
  * 🔥 [nothumansearch](https://github.com/unitedideas/nothumansearch) - ⭐ 0 / 人工智能代理搜索引擎 - 按代理准备情况对站点进行排名（llms.txt，OpenAPI，MCP，ai-plugin）。MCP服务器，REST API，全文搜索。索引超过8,000个站点。
  * [plugins](https://github.com/openai/plugins) - OpenAI插件
+ * [compound-engineering-plugin](https://github.com/everyinc/compound-engineering-plugin) - 官方复合工程插件，适用于Claude Code、Codex、Cursor等等。
 
 
 ## CLIs
@@ -1195,6 +1202,9 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * [agenttrace](https://github.com/luoyuctl/agenttrace) - TUI可观测性用于AI编码代理：跟踪成本、令牌、工具故障、延迟、异常、健康、差异和CI门，跨Claude Code、Codex CLI、Gemini CLI、Aider、Cursor导出等。
  * [graphify](https://github.com/safishamsi/graphify) - AI编码助手技能（Claude Code，Codex，OpenCode，Cursor，Gemini CLI等）。将任何代码文件夹，SQL模式，R脚本，shell脚本，文档，论文，图片或视频转换为可查询的知识图。应用程序代码+数据库模式+基础设施。
  * [open-design](https://github.com/nexu-io/open-design) - 🎨 本地优先，开源替代Anthropic的Claude Design。⚡ 19种技能 · ✨ 71种品牌级设计系统 🖼 生成web · 桌面 · 移动原型 · 幻灯片 · 图像 · 视频 · 超级帧 📦 沙箱预览 · HTML/PDF/PPTX/MP4导出 🤖 运行 o
+ * [codeburn](https://github.com/getagentseal/codeburn) - 查看您的AI编码令牌去哪里。Claude Code，Codex和Cursor成本可观察性的交互式TUI仪表板。
+ * [cmux](https://github.com/manaflow-ai/cmux) - 基于Ghostty的macOS终端，具有垂直标签和通知功能，适用于AI编码代理。
+ * [worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk是一个用于Git工作树管理的CLI工具，专为并行AI代理工作流程设计。
 
 
 ## Reimplementations
@@ -2653,5 +2663,10 @@ _Updated on May 04, 2026_ (A total of 2543 repositories listed.)
  * ⚠️ [cchub](https://github.com/moresl/cchub) - ⭐ repo not found / CCHub - Claude Code 生态管理平台 | Claude Code 生态系统管理平台 (MCP, 技能, 钩子, 配置)
  * 🔥 [AutoTeam](https://github.com/cnitlrt/autoteam) - ⭐ 824 / ChatGPT团队账号自动轮转管理 - Codex额度监控、自动换号、CPA认证同步
  * [skill.color-expert](https://github.com/meodai/skill.color-expert) - 代理商技能为色彩科学专业知识。许多参考资料涵盖色彩空间、可访问性（APCA，WCAG）、调色板生成、颜料混合和历史色彩理论。与Claude Code、Codex、Cursor、Copilot等合作。
+ * [skills](https://github.com/openai/skills) - Codex技能目录
+ * [gh-aw](https://github.com/github/gh-aw) - GitHub 代理工作流
+ * [remodex](https://github.com/emanuele-web04/remodex) - 遥控器用于Codex。
+ * [ruler](https://github.com/intellectronica/ruler) - 统治者-对所有编码代理应用相同的规则
+ * [serena](https://github.com/oraios/serena) - 一个强大的MCP工具包，提供编码、语义检索和编辑功能 - 您的代理IDE
 
 
